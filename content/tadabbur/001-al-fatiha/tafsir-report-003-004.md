@@ -1,6 +1,6 @@
 # Tafsir Cross-Reference Report
 
-Generated: 2026-07-28
+Generated: 2026-07-30
 Ayahs referenced: 5
 Tafsir sources: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), al-Jalalayn (Arabic)
 

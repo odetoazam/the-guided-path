@@ -1,6 +1,6 @@
 # Tafsir Cross-Reference Report
 
-Generated: 2026-07-15
+Generated: 2026-07-30
 Ayahs referenced: 1
 Tafsir sources: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), al-Jalalayn (Arabic)
 
@@ -14,7 +14,65 @@ Is it not a guidance for them: how many generations We have destroyed before the
 
 Learning the Lessons of the Past
 
-Allah says: will these people who deny the Messengers not learn from the nations who came ...
+Allah says: will these people who deny the Messengers not learn from the nations who came before them, whom Allah destroyed for their rejection of His Messengers and their opposition to what the Messengers brought them of the straight path? No trace is left of them whatsoever.
+
+هَلْ تُحِسُّ مِنْهُمْ مِنْ أَحَدٍ أَوْ تَسْمَعُ لَهُمْ رِكْزًا
+
+(Can you find a single one of them or hear even a whisper of them?)(19:98). Allah says:
+
+يَمْشُونَ فِي مَسَاكِنِهِمْ
+
+(in whose dwellings they do walk about) meaning, these disbelievers walk about in the places where those disbelievers used to live, but they do not see any of those who used to live there, for they have gone –
+
+كَأَنْ لَمْ يَغْنَوْا فِيهَا ۗ
+
+(As if they had never lived there)(11:68) This is like the Ayat:
+
+فَتِلْكَ بُيُوتُهُمْ خَاوِيَةً بِمَا ظَلَمُوا ۗ
+
+(These are their houses in utter ruin, for they did wrong)(27:52).
+
+فَكَأَيِّنْ مِنْ قَرْيَةٍ أَهْلَكْنَاهَا وَهِيَ ظَالِمَةٌ فَهِيَ خَاوِيَةٌ عَلَىٰ عُرُوشِهَا وَبِئْرٍ مُعَطَّلَةٍ وَقَصْرٍ مَشِيدٍ - أَفَلَمْ يَسِيرُوا فِي الْأَرْضِ
+
+(And many a township did We destroy while they were given to wrongdoing, so that it lie in ruins, and (many) a deserted well and lofty castle! Have they not traveled through the land) until:
+
+وَلَٰكِنْ تَعْمَى الْقُلُوبُ الَّتِي فِي الصُّدُورِ
+
+(but it is the hearts which are in the breasts that grow blind.)(22:45-46) Allah says here:
+
+إِنَّ فِي ذَٰلِكَ لَآيَاتٍ
+
+(Verily, therein indeed are signs.) meaning, in the fact that these people are gone and have been destroyed, and in what happened to them because they disbelieved the Messengers, and how those who believed in them were saved, there are many signs, proofs and important lessons.
+
+أَفَلَا يَسْمَعُونَ
+
+(Would they not then listen?) means, to the stories of those who came before and what happened to them.
+
+The Revival of the Earth with Water is Proof of the Resurrection to come
+
+أَوَلَمْ يَرَوْا أَنَّا نَسُوقُ الْمَاءَ إِلَى الْأَرْضِ الْجُرُزِ
+
+(Have they not seen how We drive water to the dry land) Here Allah explains His kindness and goodness towards them by His sending water to them, whether from the sky or from water flowing through the land, water carried by rivers down from the mountains to the lands that need it at particular times. Allah says:
+
+إِلَى الْأَرْضِ الْجُرُزِ
+
+(to the dry land) which means the land where nothing grows, as in the Ayah,
+
+وَإِنَّا لَجَاعِلُونَ مَا عَلَيْهَا صَعِيدًا جُرُزًا
+
+(And verily, We shall make all that is on it a bare dry soil.)(18:8) i.e., barren land where nothing grows. Allah says here:
+
+أَوَلَمْ يَرَوْا أَنَّا نَسُوقُ الْمَاءَ إِلَى الْأَرْضِ الْجُرُزِ فَنُخْرِجُ بِهِ زَرْعًا تَأْكُلُ مِنْهُ أَنْعَامُهُمْ وَأَنْفُسُهُمْ ۖ أَفَلَا يُبْصِرُونَ
+
+(Have they not seen how We drive water to the dry land that has no vegetation, and therewith bring forth crops providing food for their cattle and themselves? Will they not then see?) This is like the Ayah,
+
+فَلْيَنْظُرِ الْإِنْسَانُ إِلَىٰ طَعَامِهِ - أَنَّا صَبَبْنَا الْمَاءَ صَبًّا
+
+(Then let man look at his food: We pour forth water in abundance.)(80:24-25). Allah says here:
+
+أَفَلَا يُبْصِرُونَ
+
+(Will they not then see?)
 
 ### al-Tabari (Arabic)
 
@@ -24,7 +82,33 @@ Allah says: will these people who deny the Messengers not learn from the nations
 
 * *
 
-القول في تأويل قوله تعالى: ﴿أَوَلَمْ يَهْدِ لَهُمْ كَمْ أَهْلَكْنَا مِنْ قَبْلِهِمْ مِنَ الْقُرُونِ يَمْشُونَ فِي مَسَاكِنِهِمْ إِنَّ ...
+القول في تأويل قوله تعالى: ﴿أَوَلَمْ يَهْدِ لَهُمْ كَمْ أَهْلَكْنَا مِنْ قَبْلِهِمْ مِنَ الْقُرُونِ يَمْشُونَ فِي مَسَاكِنِهِمْ إِنَّ فِي ذَلِكَ لآيَاتٍ أَفَلا يَسْمَعُونَ (٢٦) ﴾
+
+كما:-
+
+⁕ حدثني عليّ، قال: ثنا أبو صالح، قال: ثني معاوية، عن عليّ، عن ابن عباس ﴿أوَلَمْ يَهْدِ لَهُمْ﴾ يقول: أولم يبين لهم، وعلى القراءة بالياء في ذلك قرّاء الأمصار، وكذلك القراءة عندنا لإجماع الحجة من القرّاء، بمعنى: أولم يبين لهم إهلاكنا القرون الخالية من قبلهم، سنتنا فيمن سلك سبيلهم من الكفر بآياتنا، فيتعظوا وينزجروا.
+
+* *
+
+وقوله: ﴿كَمْ﴾
+
+إذا قُرئ ﴿يهْدِ﴾ بالياء، في موضع رفع بيهد. وأما إذا قرئ ذلك بالنون ﴿أوَلَمْ نَهْدِ﴾ فإن موضع ﴿كم﴾ وما بعدها نصب.
+
+* *
+
+وقوله: ﴿يَمْشونَ فِي مَساكِنهمْ﴾
+
+يقول تعالى ذكره: أولم يبين لهن كثرة إهلاكنا القرون الماضية من قبلهم يمشون في بلادهم وأرضهم، كعاد وثمود.
+
+كما:-
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة ﴿أولَمْ يهْدِ لَهُمْ كَمْ أهْلَكْنا مِنْ قَبْلِهمْ مِنَ القُرُونِ﴾ عاد وثمود، وأنهم إليهم لا يُرجعون.
+
+* *
+
+وقوله: ﴿إنَّ فِي ذَلِكَ لآيَاتٍ﴾
+
+يقول تعالى ذكره: إن في خلاء مساكن القرون الذين أهلكناهم من قبل هؤلاء المكذّبين بآيات الله من قريش من أهلها الذين كانوا سكانها وعمَّارها بإهلاكنا إياهم لما كذّبوا رسلنا، وجحدوا بآياتنا، وعبدوا من دون الله آلهة غيره التي يمرّون بها فيعاينونها، لآيات لهم وعظات يتعظون بها، لو كانوا أولي حجا وعقول، يقول الله: ﴿أفلا يَسْمَعُونَ﴾ عظات الله وتذكيره إياهم آياته، وتعريفهم مواضع حججه؟.
 
 ### al-Muyassar (Arabic)
 

@@ -1,6 +1,6 @@
 # Tafsir Cross-Reference Report
 
-Generated: 2026-07-15
+Generated: 2026-07-30
 Ayahs referenced: 1
 Tafsir sources: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), al-Jalalayn (Arabic)
 
@@ -16,7 +16,11 @@ Tafsir sources: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), 
 
 وَعْدَ اللَّهِ ۖ لَا يُخْلِفُ اللَّهُ وَعْدَهُ
 
-((It is) a promise of Allah, and Allah fails not in His promise.) means, ‘this that We have told you, O Muhammad, that the Romans will defeat the Persians, is a true promise from Allah, truth which cannot be changed and which will surely come to pass, because Allah has decreed that the one of the two parties that is closer to the truth will prevail and that victory will be ...
+((It is) a promise of Allah, and Allah fails not in His promise.) means, ‘this that We have told you, O Muhammad, that the Romans will defeat the Persians, is a true promise from Allah, truth which cannot be changed and which will surely come to pass, because Allah has decreed that the one of the two parties that is closer to the truth will prevail and that victory will be theirs.’
+
+وَلَٰكِنَّ أَكْثَرَ النَّاسِ لَا يَعْلَمُونَ
+
+(but most men know not) means, they do not know the decree of Allah concerning His creation, but what He does is wise and is based on justice. His saying:
 
 ### al-Tabari (Arabic)
 
@@ -30,7 +34,17 @@ Tafsir sources: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), 
 
 ذكر من قال ذلك:
 
-⁕ ح...
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قَتادة قوله: ﴿ثُمَّ كَانَ عَاقِبَةَ الَّذِينَ أَسَاءُوا السُّوءَى﴾ : الذين أشركوا السوءَى: أي النار.
+
+⁕ حدثني عليّ، قال: ثنا أبو صالح قال: ثني معاوية، عن عليّ، عن ابن عباس قوله: ﴿ثُمَّ كَانَ عَاقِبَةَ الَّذِينَ أَسَاءُوا السُّوءَى﴾ يقول: الذين كفروا جزاؤهم العذاب.
+
+وكان بعض أهل العربية يقول: السوأى في هذا الموضع: مصدر، مثل البُقوى، وخالفه في ذلك غيره فقال: هي اسم.
+
+* *
+
+وقوله: ﴿أَن كَذَّبُوا بِآيَاتِ اللهِ﴾
+
+يقول: كانت لهم السوأى، لأنهم كذّبوا في الدنيا بآيات الله، ﴿وَكَانُوا بِهَا يَسْتَهْزِءُونَ﴾ . يقول: وكانوا بحجج الله وهم أنبياؤه ورسله يسخرون.
 
 ### al-Muyassar (Arabic)
 

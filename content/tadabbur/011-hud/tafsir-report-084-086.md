@@ -1,6 +1,6 @@
 # Tafsir Cross-Reference Report
 
-Generated: 2026-04-07
+Generated: 2026-07-30
 Ayahs referenced: 3
 Tafsir sources: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), al-Jalalayn (Arabic)
 
@@ -10,22 +10,71 @@ Tafsir sources: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), 
 
 ### Ibn Kathir (English)
 
-The Story of the People of Madyan and the Call of Shu`ayb
-Allah, the Exalted, says, `We sent a Messenger to the people of Madyan.' They were a tribe of Arabs who lived between the land of the Al-Hijaz and Ash-Sham, close to the land of Ma`an. Their land was known by the name of their tribe and was thus, called Madyan. Allah sent unto them the Prophet Shu`ayb and he was of the noblest of them in lineage. For this reason, Allah said,
+And to the Madyan people (We sent) their brother Shu'ayb. He said: "O my people! Worship Allah, you have no other god but Him, and give not short measure or weight. I see you in prosperity and verily, I fear for you the torment of a Day encompassing. (84)
+
+The Story of the People of Madyan and the Call of Shu'ayb
+
+Allah, the Exalted, says, 'We sent a Messenger to the people of Madyan.' They were a tribe of Arabs who lived between the land of the Al-Hijaz and Ash-Sham, close to the land of Ma'an. Their land was known by the name of their tribe and was thus, called Madyan. Allah sent unto them the Prophet Shu'ayb and he was of the noblest of them in lineage. For this reason, Allah said,
+
 أَخَاهُمْ شُعَيْبًا
-(their brother Shu`ayb.) Shu`ayb commande...
+
+(their brother Shu'ayb.) Shu'ayb commanded them to worship Allah alone without associating any partners with him. He also prohibited them from cheating in their weights and measures (for business transactions).
+
+إِنِّي أَرَاكُم بِخَيْرٍ
+
+(I see you in prosperity) meaning, 'in your livelihood and your provisions. And verily, I fear that you will be deprived of this bounty that you are enjoying by violating Allah's prohibitions.'
+
+وَإِنِّي أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ مُّحِيطٍ
+
+(and verily, I fear for you the torment of a Day encompassing.) This means the abode of the Hereafter.
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله تعالى :  وَإِلَى مَدْيَنَ أَخَاهُمْ شُعَيْبًا قَالَ يَا قَوْمِ اعْبُدُوا اللَّهَ مَا لَكُمْ مِنْ إِلَهٍ غَيْرُهُ وَلا تَنْقُصُوا الْمِكْيَالَ وَالْمِيزَانَ إِنِّي أَرَاكُمْ بِخَيْرٍ وَإِنِّي أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ مُحِيطٍ (84)قال أبو جعفر: يقول تعالى ذكره: وأرسلنا إلى وَلَد مدين أخاهم شعيبًا، فلما أتاهم قال : (يا قوم اعبدوا الله ما لكم من إله غيره) ، يقول: أطيعوه، وتذللوا له بالطاعة لما أمركم به ونهاكم عنه  ، (ما لكم من إله غيره) ، يقول: ما لكم من معبود سواه يست...
+القول في تأويل قوله تعالى: ﴿وَإِلَى مَدْيَنَ أَخَاهُمْ شُعَيْبًا قَالَ يَا قَوْمِ اعْبُدُوا اللَّهَ مَا لَكُمْ مِنْ إِلَهٍ غَيْرُهُ وَلا تَنْقُصُوا الْمِكْيَالَ وَالْمِيزَانَ إِنِّي أَرَاكُمْ بِخَيْرٍ وَإِنِّي أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ مُحِيطٍ (٨٤) ﴾
+
+قال أبو جعفر: يقول تعالى ذكره: وأرسلنا إلى وَلَد مدين أخاهم شعيبًا، فلما أتاهم قال: ﴿يا قوم اعبدوا الله ما لكم من إله غيره﴾ ، يقول: أطيعوه، وتذللوا له بالطاعة لما أمركم به ونهاكم عنه = ﴿ما لكم من إله غيره﴾ ، يقول: ما لكم من معبود سواه يستحقّ عليكم العبادة غيره = ﴿ولا تنقصوا المكيال والميزان﴾ ، يقول: ولا تنقصوا الناس حقوقهم في مكيالكم وميزانكم = ﴿إني أراكم بخير﴾ .
+
+* *
+
+واختلف أهل التأويل في "الخير" الذي أخبر الله عن شعيب أنه قال لمدين إنه يراهم به.
+
+فقال بعضهم: كان ذلك رُخْص السعر وَحذرهم غلاءه.
+
+ذكر من قال ذلك:
+
+١٨٤٦٧- حدثني زكريا بن يحيى بن أبي زائدة قال، حدثنا عبد الله بن داود الواسطي قال، حدثنا محمد بن موسى، عن الذيال بن عمرو، عن ابن عباس: ﴿إني أراكم بخير﴾ ، قال: رُخْص السعر = ﴿وإني أخاف عليكم عذاب يوم محيط﴾ ، قال: غلاء سعر. [[الأثر: ١٨٤٦٧- " الذيال بن عمرو "، هكذا جاء هنا بالذال معجمة، وقد سلف في رقم: ١٤٤٤٥، وتعليقي عليه، وتعليق أخي السيد أحمد رحمه الله، في ج ١٢: ٥٨٩، رقم: ٧، " الزباء بن عمرو "، وفي ابن كثير: " الديال " بدال مهملة، ولم نستطع أن نعرف من يكون. والإسناد هنا، هو الإسناد هناك نفسه.]]
+
+١٨٤٦٨- حدثني أحمد بن عمرو البَصري قال، حدثني عبد الصمد بن عبد الوارث قال، حدثنا صالح بن رستم، عن الحسن، وذكر قوم شعيب قال: ﴿إني أراكم بخير﴾ ، قال: رُخْص السعر. [[الأثر: ١٨٤٦٨ - " أحمد بن عمرو البصري ": شيخ الطبري، مضى برقم: ٩٨٧٥، ١٣٩٢٨، وقد مضى ما قلت فيه، وقد روى عنه أبو جعفر في تاريخه ١: ١٨٢ / ٥: ٣٢. وكان في المطبوعة هنا: " أحمد بن علي النصري "، ولا أدري من أين جاء بهذا التغيير؟ .]]
+
+١٨٤٦٩- حدثني محمد بن عمرو بن علي قال، حدثنا عبد الصمد بن عبد الوارث، عن أبي عامر الخراز، عن الحسن في قوله: ﴿إني أراكم بخير﴾ قال: الغني ورُخْص السعر.
+
+* *
+
+وقال آخرون: عنى بذلك: إنّي أرى لكم مالا وزينة من زين الدنيا.
+
+ذكر من قال ذلك:-
+
+١٨٤٧٠- حدثنا الحسن بن يحيى قال، أخبرنا عبد الرزاق، قال: أخبرنا معمر، عن قتادة في قوله: ﴿إني أراكم بخير﴾ ، قال: يعني خير الدنيا وزينتها.
+
+١٨٤٧١- حدثنا بشر قال، حدثنا يزيد قال، حدثنا سعيد، عن قتادة قوله: ﴿إني أراكم بخير﴾ ، أبصر عليهم قِشْرًا من قشر الدنيا وزينتها. [[" القشر " هو في الأصل، قشر الشجرة ونحوها، ثم أستعير للثياب وكل ملبوس، مما يخلع كما يخلع القشر، ثم أستعير لما نلبسه من زينة الحياة ثم نخلعه راضين أو كارهين.]]
+
+١٨٤٧٢- حدثني يونس قال، أخبرنا ابن وهب قال، قال ابن زيد في قوله: ﴿إني أراكم بخير﴾ ، قال: في دنياكم، كما قال لله تعالى: ﴿إِنْ تَرَكَ خَيْرًا﴾ ، سماه " خيرًا" لأن الناس يسمون المال "خيرًا".
+
+* *
+
+قال أبو جعفر: وأولى الأقوال في ذلك بالصواب ما أخبر الله عن شعيب أنه قال لقومه، وذلك قوله: ﴿إني أراكم بخير﴾ ، يعني بخير الدنيا. وقد يدخل في خير الدنيا، المال وزينة الحياة الدنيا، ورخص السعر = ولا دلالة على أنه عنى بقيله ذلك بعض خيرات الدنيا دون بعض، فذلك على كل معاني خيرات الدنيا التي ذكر أهل العلم أنهم كانوا أوتوها.
+
+* *
+
+وإنما قال ذلك شعيب، لأن قومه كانوا في سعة من عيشهم ورخص من أسعارهم، كثيرة أموالهم، فقال لهم: لا تنقصوا الناس حقوقهم في مكاييلكم وموازينكم، فقد وَسَّع الله عليكم رزقكم، = ﴿وإني أخاف عليكم﴾ ، بمخالفتكم أمر الله، وبَخْسكم الناس أموالهم في مكاييلكم وموازينكم = ﴿عذاب يوم محيط﴾ ، يقول: أن ينزل بكم عذاب يوم محيط بكم عذابه. فجعل "المحيط" نعتًا لليوم، وهو من نعت "العذاب"، إذ كان مفهومًا معناه، وكان العذاب في اليوم، فصار كقولهم: "بعْض جُبَّتك محترقة". [[انظر تفسير " محيط " فيما سلف ١٥: ٩٣، تعليق ١، والمراجع هناك.]]
 
 ### al-Muyassar (Arabic)
 
-وأرسلنا إلى "مدين" أخاهم شعيبًا، فقال: يا قوم اعبدوا الله وحده، ليس لكم مِن إله يستحق العبادة غيره جل وعلا، فأخلصوا له العبادة، ولا تنقصوا الناس حقوقهم في مكاييلهم وموازينهم، إني أراكم في سَعَة عيش، وإني أخاف عليكم -بسبب إنقاص المكيال والميزان- عذاب يوم يحيط بكم.
+وأرسلنا إلى «مدين» أخاهم شعيبًا، فقال: يا قوم اعبدوا الله وحده، ليس لكم مِن إله يستحق العبادة غيره جلَّ وعلا، فأخلصوا له العبادة، ولا تنقصوا الناس حقوقهم في مكاييلهم وموازينهم، إني أراكم في سَعَة عيش، وإني أخاف عليكم -بسبب إنقاص المكيال والميزان- عذاب يوم يحيط بكم.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿و﴾ أرْسَلْنا ﴿إلى مَدْيَن أخاهُمْ شُعَيْبًا قالَ يا قَوْم اُعْبُدُوا اللَّه﴾ وحِّدُوهُ ﴿ما لَكُمْ مِن إلَه غَيْره ولا تَنْقُصُوا المِكْيال والمِيزان إنِّي أراكُمْ بِخَيْرٍ﴾ نِعْمَة تُغْنِيكُمْ عَنْ التَّطْفِيف ﴿وإنِّي أخاف عَلَيْكُمْ﴾ إنْ لَمْ تُؤْمِنُوا ﴿عَذاب يَوْم مُحِيط﴾ بِكُمْ يُهْلِككُمْ ووَصْف اليَوْم بِهِ مَجاز لِوُقُوعِهِ فِيهِ
 
 ---
 
@@ -33,22 +82,51 @@ Allah, the Exalted, says, `We sent a Messenger to the people of Madyan.' They we
 
 ### Ibn Kathir (English)
 
-First, he (Shu`ayb) prohibited them from cheating in business by decreasing the weights whenever they gave (products) to people.
-He commanded them to give just measure and weight whether they were giving or receiving (in transactions). He also forbade them from causing mischief and corruption in the land. This was due to their practice of highway robbery along the roads. Abu Ja`far bin Jarir said,
+"And O my people! Give full measure and weight in justice and reduce not the things that are due to the people, and do not commit mischief in the land, causing corruption. (85)"That which is left by Allah is better for you, if you are believers. And I am not a guardian over you. (86)
+
+First, he (Shu'ayb) prohibited them from cheating in business by decreasing the weights whenever they gave (products) to people. He commanded them to give just measure and weight whether they were giving or receiving (in transactions). He also forbade them from causing mischief and corruption in the land. This was due to their practice of highway robbery along the roads. Abu Ja'far bin Jarir said,
+
 بَقِيَّتُ اللَّهِ خَيْرٌ لَّكُمْ
-(That which is left by Allah (after giving the rights of the pe...
+
+(That which is left by Allah (after giving the rights of the people) is better for you,) "This means what you gain from your successful business dealings in which you have given just measure, is better for you than wrongfully taking the wealth of the people." Ibn Jarir said that this statement has been reported from Ibn 'Abbas and I say it is similar to Allah's statement,
+
+قُل لَّا يَسْتَوِي الْخَبِيثُ وَالطَّيِّبُ وَلَوْ أَعْجَبَكَ كَثْرَةُ الْخَبِيثِ
+
+(Say: "Not equal are Khabith (all that is evil) and Tayyib (all that is good), even though the abundance of Khabith may please you.")[5:100] Allah then says,
+
+وَمَا أَنَا عَلَيْكُم بِحَفِيظٍ
+
+(And I am not a guardian over you.) This means a watcher over you people. In other words, "Do this for Allah and not to be seen by the people."
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله تعالى :  وَيَا قَوْمِ أَوْفُوا الْمِكْيَالَ وَالْمِيزَانَ بِالْقِسْطِ وَلا تَبْخَسُوا النَّاسَ أَشْيَاءَهُمْ وَلا تَعْثَوْا فِي الأَرْضِ مُفْسِدِينَ (85)قال أبو جعفر : يقول تعالى ذكره ، مخبرًا عن قيل شعيب لقومه: أوفوا الناس الكيل والميزان (31)  ،  " بالقسط"، يقول: بالعدل، وذلك بأن توفوا أهل الحقوق التي هي مما يكال أو يوزن حقوقهم ، على ما وجب لهم من التمام ، بغير بَخس ولا نقص. (32)* * *وقوله: (ولا تبخسوا الناس أشياءهم) ، يقول : ولا تنقصوا الناس حقوقهم التي يجب عليكم أن توفو...
+القول في تأويل قوله تعالى: ﴿وَيَا قَوْمِ أَوْفُوا الْمِكْيَالَ وَالْمِيزَانَ بِالْقِسْطِ وَلا تَبْخَسُوا النَّاسَ أَشْيَاءَهُمْ وَلا تَعْثَوْا فِي الأَرْضِ مُفْسِدِينَ (٨٥) ﴾
+
+قال أبو جعفر: يقول تعالى ذكره، مخبرًا عن قيل شعيب لقومه: أوفوا الناس الكيل والميزان [[انظر " إيفاء المكيال والميزان " فيما سلف ١٢: ٢٢٤، ٥٥٥.]] = "بالقسط"، يقول: بالعدل، وذلك بأن توفوا أهل الحقوق التي هي مما يكال أو يوزن حقوقهم، على ما وجب لهم من التمام، بغير بَخس ولا نقص. [[انظر تفسير " القسط " فيما سلف ١٥: ١٠٣، تعليق ٣، والمراجع هناك.]]
+
+* *
+
+وقوله: ﴿ولا تبخسوا الناس أشياءهم﴾ ، يقول: ولا تنقصوا الناس حقوقهم التي يجب عليكم أن توفوهم كيلا أو وزنًا أو غير ذلك، [[انظر تفسير " البخس " فيما سلف ص: ٢٦٢، تعليق: ٤، والمراجع هناك.]] كما:-
+
+١٨٤٧٣- حدثني الحارث قال، حدثنا عبد العزيز قال، حدثنا علي بن صالح بن حي قال: بلغني في قوله: ﴿ولا تبخسوا الناس أشياءهم﴾ قال،: لا تنقصوهم.
+
+١٨٤٧٤- حدثنا بشر قال، حدثنا يزيد قال، حدثنا سعيد، عن قتادة: ﴿ولا تبخسوا الناس أشياءهم﴾ ، يقول: لا تظلموا الناس أشياءهم.
+
+* *
+
+وقوله: ﴿ولا تعثوا في الأرض مفسدين﴾ ، يقول: ولا تسيروا في الأرض تعملون فيها بمعاصي الله، [[انظر تفسير " عثا " فيما سلف ١٢: ٥٤٢، تعليق: ١، والمراجع هناك. = وتفسير " الفساد في الأرض " ١٢: ٥٤٢، تعليق: ١، والمراجع هناك.]] كما:-
+
+١٨٤٧٥- حدثنا الحسن بن يحيى قال، أخبرنا عبد الرزاق قال، أخبرنا معمر، عن قتادة في قوله: ﴿ولا تعثوا في الأرض مفسدين﴾ ، قال: لا تسيروا في الأرض.
+
+١٨٤٧٦- وحدثت عن المسيب، عن أبي روق، عن الضحاك في قوله: ﴿ولا تعثوا في الأرض مفسدين﴾ ، يقول: لا تسعوا في الأرض مفسدين = يعني: نقصان الكيل والميزان.
 
 ### al-Muyassar (Arabic)
 
-ويا قوم أتمُّوا المكيال والميزان بالعدل، ولا تُنْقِصوا الناس حقهم في عموم أشيائهم، ولا تسيروا في الأرض تعملون فيها بمعاصي الله ونشر الفساد.
+ويا قوم أتمُّوا المكيال والميزان بالعدل، ولا تُنقِصوا الناس حقهم في عموم أشيائهم، ولا تسيروا في الأرض تعملون فيها بمعاصي الله ونشر الفساد.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿ويا قَوْم أوْفُوا المِكْيال والمِيزان﴾ أتِمُّوهُما ﴿بِالقِسْطِ﴾ بِالعَدْلِ ﴿ولا تَبْخَسُوا النّاس أشْياءَهُمْ﴾ لا تُنْقِصُوهُمْ مِن حَقّهمْ شَيْئًا ﴿ولا تَعْثَوْا فِي الأَرْض مُفْسِدِينَ﴾ بِالقَتْلِ وغَيْره مِن عَثِيَ بِكَسْرِ المُثَلَّثَة أفْسَدَ ومُفْسِدِينَ حال مُؤَكِّدَة لِمَعْنى عامِلها تَعْثَوْا
 
 ---
 
@@ -56,21 +134,90 @@ He commanded them to give just measure and weight whether they were giving or re
 
 ### Ibn Kathir (English)
 
-First, he (Shu`ayb) prohibited them from cheating in business by decreasing the weights whenever they gave (products) to people.
-He commanded them to give just measure and weight whether they were giving or receiving (in transactions). He also forbade them from causing mischief and corruption in the land. This was due to their practice of highway robbery along the roads. Abu Ja`far bin Jarir said,
+"And O my people! Give full measure and weight in justice and reduce not the things that are due to the people, and do not commit mischief in the land, causing corruption. (85)"That which is left by Allah is better for you, if you are believers. And I am not a guardian over you. (86)
+
+First, he (Shu'ayb) prohibited them from cheating in business by decreasing the weights whenever they gave (products) to people. He commanded them to give just measure and weight whether they were giving or receiving (in transactions). He also forbade them from causing mischief and corruption in the land. This was due to their practice of highway robbery along the roads. Abu Ja'far bin Jarir said,
+
 بَقِيَّتُ اللَّهِ خَيْرٌ لَّكُمْ
-(That which is left by Allah (after giving the rights of the pe...
+
+(That which is left by Allah (after giving the rights of the people) is better for you,) "This means what you gain from your successful business dealings in which you have given just measure, is better for you than wrongfully taking the wealth of the people." Ibn Jarir said that this statement has been reported from Ibn 'Abbas and I say it is similar to Allah's statement,
+
+قُل لَّا يَسْتَوِي الْخَبِيثُ وَالطَّيِّبُ وَلَوْ أَعْجَبَكَ كَثْرَةُ الْخَبِيثِ
+
+(Say: "Not equal are Khabith (all that is evil) and Tayyib (all that is good), even though the abundance of Khabith may please you.")[5:100] Allah then says,
+
+وَمَا أَنَا عَلَيْكُم بِحَفِيظٍ
+
+(And I am not a guardian over you.) This means a watcher over you people. In other words, "Do this for Allah and not to be seen by the people."
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله تعالى :  بَقِيَّةُ اللَّهِ خَيْرٌ لَكُمْ إِنْ كُنْتُمْ مُؤْمِنِينَ وَمَا أَنَا عَلَيْكُمْ بِحَفِيظٍ (86)قال أبو جعفر : يعني تعالى ذكره بقوله: (بقية الله خير لكم) ، ما أبقاه الله لكم ، بعد أن توفوا الناس حقوقهم بالمكيال والميزان بالقسط، فأحلّه لكم، خير لكم من الذي يبقى لكم ببخسكم الناس من حقوقهم بالمكيال والميزان  ، (إن كنتم مؤمنين)، يقول: إن كنتم مصدّقين بوعد الله ووعيده ، وحلاله وحرامه.* * *وهذا قولٌ روي عن ابن عباس بإسنادٍ غير مرتضى عند أهل النقل.* * *وقد اختلف أهل التأو...
+القول في تأويل قوله تعالى: ﴿بَقِيَّةُ اللَّهِ خَيْرٌ لَكُمْ إِنْ كُنْتُمْ مُؤْمِنِينَ وَمَا أَنَا عَلَيْكُمْ بِحَفِيظٍ (٨٦) ﴾
+
+قال أبو جعفر: يعني تعالى ذكره بقوله: ﴿بقية الله خير لكم﴾ ، ما أبقاه الله لكم، بعد أن توفوا الناس حقوقهم بالمكيال والميزان بالقسط، فأحلّه لكم، خير لكم من الذي يبقى لكم ببخسكم الناس من حقوقهم بالمكيال والميزان = ﴿إن كنتم مؤمنين﴾ ، يقول: إن كنتم مصدّقين بوعد الله ووعيده، وحلاله وحرامه.
+
+* *
+
+وهذا قولٌ روي عن ابن عباس بإسنادٍ غير مرتضى عند أهل النقل.
+
+* *
+
+وقد اختلف أهل التأويل في ذلك.
+
+فقال بعضهم معناه: طاعة الله خيرٌ لكم.
+
+ذكر من قال ذلك:
+
+١٨٤٧٧- حدثنا أبو كريب قال، حدثنا وكيع، وحدثنا ابن وكيع قال، حدثنا أبي، عن سفيان، عن ليث، عن مجاهد: ﴿بقية الله خير لكم﴾ ، قال: طاعة الله خير لكم.
+
+١٨٤٧٨- حدثنا ابن حميد قال، حدثنا حكام، عن عنبسة، عن محمد بن عبد الرحمن، عن القاسم بن أبي بزة، عن مجاهد: ﴿بقية الله﴾ قال: طاعة الله ﴿خير لكم﴾ .
+
+١٨٤٧٩- حدثني محمد بن عمرو قال، حدثنا أبو عاصم قال، حدثنا عيسى، عن ابن أبي نجيح، عن مجاهد: ﴿بقية الله﴾ ، قال: طاعة الله.
+
+١٨٤٨٠- حدثنا الحسن بن يحيى قال، أخبرنا عبد الرزاق قال، أخبرنا الثوري، عن ليث، عن مجاهد: ﴿بقية الله خير لكم﴾ ، قال: طاعة الله خير لكم.
+
+١٨٤٨١- حدثني المثني قال، حدثنا أبو حذيفة قال، حدثنا شبل، عن ابن أبي نجيح، عن مجاهد: ﴿بقية الله خير لكم﴾ ، قال: طاعة الله.
+
+١٨٤٨٢- حدثنا القاسم قال، حدثنا الحسين قال، حدثني حجاج، عن ابن جريج، عن مجاهد، نحوه.
+
+* *
+
+وقال آخرون: معنى ذلك: حظكم من ربكم خير لكم.
+
+ذكر من قال ذلك:-
+
+١٨٤٨٣- حدثنا بشر قال، حدثنا يزيد قال، حدثنا سعيد، عن قتادة قوله: ﴿بقية الله خير لكم إن كنتم مؤمنين﴾ ، حظكم من ربكم خير لكم.
+
+١٨٤٨٤- حدثنا الحسن بن يحيى قال، أخبرنا عبد الرزاق، قال: أخبرنا معمر، عن قتادة في قوله: ﴿بقية الله خير لكم﴾ ، قال: حظكم من الله خير لكم.
+
+* *
+
+وقال آخرون: معناه: رزق الله خير لكم.
+
+ذكر من قال ذلك:
+
+١٨٤٨٥- حدثني الحارث قال، حدثنا عبد العزيز قال، حدثنا سفيان، عمن ذكره، عن ابن عباس: ﴿بقيت الله﴾ قال رزق الله.
+
+* *
+
+وقال ابن زيد في قوله ما:-
+
+١٨٤٨٦- حدثني يونس قال، أخبرنا ابن وهب قال، قال ابن زيد في قوله: ﴿بقية الله خير لكم إن كنتم مؤمنين﴾ ، قال: "الهلاك "، في العذاب، و"البقية" في الرحمة.
+
+* *
+
+قال أبو جعفر: وإنما اخترت في تأويل ذلك القولَ الذي اخترته، لأن الله تعالى ذكره إنما تقدم إليهم بالنهي عن بَخس الناس أشياءهم في المكيال والميزان، وإلى ترك التطفيف في الكيل والبخس في الميزان دعاهم شعيب، فتعقيب ذلك بالخبر عما لهم من الحظّ في الوفاء في الدنيا والآخرة، أولى = مع أن قوله: ﴿بقية﴾ ، إنما هي مصدر من قول القائل "بقيت بقية من كذا"، فلا وجه لتوجيه معنى ذلك إلا إلى: بقية الله التي أبقاها لكم مما لكم بعد وفائكم الناس حقوقهم خير لكم من بقيتكم من الحرام الذي يبقى لكم من ظلمكم الناس ببخسهم إياهم في الكيل والوزن.
+
+* *
+
+وقوله: ﴿وما أنا عليكم بحفيظ﴾ ، يقول: وما أنا عليكم، أيها الناس، برقيب أرقبكم عند كيلكم ووزنكم، هل توفون الناس حقوقهم أم تظلمونهم؟ [[انظر تفسير " حفيظ " فيما سلف ص ٣٦٥، تعليق: ٣، والمراجع هناك.]] وإنما عليّ أن أبلغكم رسالة ربّي، فقد أبلغتكموها.
 
 ### al-Muyassar (Arabic)
 
-إن ما يبقى لكم بعد إيفاء الكيل والميزان من الربح الحلال خير لكم ممَّا تأخذونه بالتطفيف ونحوه من الكسب الحرام، إن كنتم تؤمنون بالله حقا، فامتثلوا أمره، وما أنا عليكم برقيب أحصي عليكم أعمالكم.
+إن ما يبقى لكم بعد إيفاء الكيل والميزان من الربح الحلال فيه بَرَكة وخير لكم ممّا تأخذونه بالتطفيف ونحوه من الكسب الحرام، إن كنتم تؤمنون بالله حقًّا، فامتثلوا أمره، وما أنا عليكم برقيب أحصي عليكم أعمالكم.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿بَقِيَّة اللَّه﴾ رِزْقه الباقِي لَكُمْ بَعْد إيفاء الكَيْل والوَزْن ﴿خَيْر لَكُمْ﴾ مِن البَخْس ﴿وما أنا عَلَيْكُمْ بِحَفِيظٍ﴾ رَقِيب أُجازِيكُمْ بِأَعْمالِكُمْ إنّما بُعِثْت نَذِيرًا
 
 ---

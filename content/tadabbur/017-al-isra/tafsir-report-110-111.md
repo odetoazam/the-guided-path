@@ -1,6 +1,6 @@
 # Tafsir Cross-Reference Report
 
-Generated: 2026-04-11
+Generated: 2026-07-30
 Ayahs referenced: 12
 Tafsir sources: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), al-Jalalayn (Arabic)
 
@@ -10,21 +10,301 @@ Tafsir sources: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), 
 
 ### Ibn Kathir (English)
 
-The Virtue of Ramadan and the Revelation of the Qur'an in it.
-Allah praised the month of Ramadan out of the other months by choosing it to send down the Glorious Qur'an, just as He did for all of the Divine Books He revealed to the Prophets. Imam Ahmad reported Wathilah bin Al-Asqa` that Allah's Messenger ﷺ said:
-«أُنْزِلَتْ صُحُفُ إِبْرَاهِيمَ فِي أَوَّلِ لَيْلَةٍ مِنْ رَمَضَانَ، وَأُنْزِلَتِ التَّوْرَاةُ لِسِتَ مَضَيْنَ مِنْ رَمَضَانَ، وَالْإِنْجِيلُ لِثَلاثَ عَشَرةَ خَلَتْ مِنْ رَمَضَانَ، ...
+The month of Ramadan in which was revealed the Qur'an, a guidance for mankind and clear proofs for the guidance and the criterion (between right and wrong). So whoever of you sights (the crescent on the first night of) the month (of Ramadan, i.e., is present at his home), he must observe Sawm (fasting) that month, and whoever is ill or on a journey, the same number [of days which one did not observe Sawm (fasting) must be made up] from other days. Allah intends for you ease, and He does not want to make things difficult for you. (He wants that you) must complete the same number (of days), and that you must magnify Allah [i.e., to say Takbir (Allahu Akbar: Allah is the Most Great)] for having guided you so that you may be grateful to Him (185)
+
+The Virtue of Ramadan and the Revelation of the Qur'an in it
+
+Allah praised the month of Ramadan out of the other months by choosing it to send down the Glorious Qur'an, just as He did for all of the Divine Books He revealed to the Prophets. Imam Ahmad reported Wathilah bin Al-Asqa' that Allah's Messenger ﷺ said:
+
+أُنْزِلَتْ صُحُفُ إِبْرَاهِيمَ فِي أَوَّلِ لَيْلَةٍ مِنْ رَمَضَانَ، وَأُنْزِلَتِ التَّوْرَاةُ لِسِتٍّ مَضَيْنَ مِنْ رَمَضَانَ، وَالْإِنْجِيلُ لِثَلاثَ عَشَرةَ خَلَتْ مِنْ رَمَضَانَ، وَأَنْزَلَ اللهُ الْقُرْآنَ لأَرْبَعٍ وَعِشْرِينَ خَلَتْ مِنْ رَمَضَانَ
+
+(The Suhuf (Pages) of Ibrahim were revealed during the first night of Ramadan. The Torah was revealed during the sixth night of Ramadan. The Injil was revealed during the thirteenth night of Ramadan. Allah revealed the Qur'an on the twenty-fourth night of Ramadan.)
+
+The Virtues of the Qur'an
+
+Allah said:
+
+هُدًى لِّلنَّاسِ وَبَيِّنَاتٍ مِّنَ الْهُدَىٰ وَالْفُرْقَانِ
+
+(...a guidance for mankind and clear proofs for the guidance and the criterion (between right and wrong).)
+
+Here Allah praised the Qur'an, which He revealed as guidance for the hearts of those who believe in it and adhere to its commands. Allah said:
+
+وَبَيِّنَاتٍ
+
+(and clear proofs) meaning, as clear and unambiguous signs and unequivocal proof for those who understand them. These proofs testify to the truth of the Qur'an, its guidance, the opposite of misguidance, and how it guides to the straight path, the opposite of the wrong path, and the distinction between the truth and falsehood, and the permissible and the prohibited.
+
+The Obligation of Fasting Ramadan
+
+Allah said:
+
+فَمَن شَهِدَ مِنكُمُ الشَّهْرَ فَلْيَصُمْهُ
+
+(So whoever of you sights (the crescent on the first night of) the month (of Ramadan, i.e., is present at his home), he must observe Sawm (fasting) that month.)
+
+This Ayah requires the healthy persons who witness the beginning of the month, while residing in their land, to fast the month. This Ayah abrogated the Ayah that allows a choice of fasting or paying the Fidyah. When Allah ordered fasting, He again mentioned the permission for the ill person and the traveler to break the fast and to fast other days instead as compensation. Allah said:
+
+وَمَن كَانَ مَرِيضًا أَوْ عَلَىٰ سَفَرٍ فَعِدَّةٌ مِّنْ أَيَّامٍ أُخَرَ
+
+(...and whoever is ill or on a journey, the same number [of days which one did not observe Sawm (fasting) must be made up] from other days.)
+
+This Ayah indicates that ill persons who are unable to fast or fear harm by fasting, and the traveler, are all allowed to break the fast. When one does not fast in this case, he is obliged to fast other days instead. Allah said:
+
+يُرِيدُ اللَّهُ بِكُمُ الْيُسْرَ وَلَا يُرِيدُ بِكُمُ الْعُسْرَ
+
+(Allah intends for you ease, and He does not want to make things difficult for you.)
+
+This Ayah indicates that Allah allowed such persons, out of His mercy and to make matters easy for them, to break the fast when they are ill or traveling, while the fast is still obligatory on the healthy persons who are not traveling.
+
+Several Rulings Concerning the Fast
+
+The authentic Sunnah states that Allah's Messenger (ﷺ) traveled during the month of Ramadan for the battle for Makkah. The Prophet (ﷺ) marched until he reached the area of Kadid and then broke his fast and ordered those who were with him to do likewise. This was recorded in the Two Sahihs. Breaking the fast mentioned in this Hadith was not required, for the Companions used to go out with Allah's Messenger (ﷺ) during the month of Ramadan, then, some of them would fast while some of them would not fast and neither category would criticize the others. If the command mentioned in the Hadith required breaking the fast, the Prophet ﷺ would have criticized those who fasted. Allah's Messenger ﷺ himself sometimes fasted while traveling. For instance, it is reported in the Two Sahihs that Abu Ad-Darda' said, "We once went with Allah's Messenger (ﷺ) during Ramadan while the heat was intense. One of us would place his hand on his head because of the intense heat. Only Allah's Messenger (ﷺ) and 'Abdullah bin Rawahah were fasting at that time."
+
+We should state that observing the permission to break the fast while traveling is better, as Allah's Messenger ﷺ said about fasting while traveling:
+
+مَنْ أَفْطَرَ فَحَسَنٌ، وَمَنْ صَامَ فَلَا جُنَاحَ عَلَيْهِ
+
+(Those who did not fast have done good, and there is no harm for those who fasted.)
+
+In another Hadith, the Prophet ﷺ said:
+
+عَلَيْكُمْ بِرُخْصَةِ اللهِ الَّتِي رُخِّصَ لَكُم
+
+(Hold to Allah's permission that He has granted you.)
+
+Some scholars say that the two actions are the same, as 'A'ishah narrated that Hamzah bin 'Amr Al-Aslami said, "O Messenger of Allah! I fast a lot, should I fast while traveling?" The Prophet ﷺ said:
+
+إِنْ شِئْتَ فَصُمْ، وَإِنْ شِئْتَ فَأَفْطِر
+
+(Fast if you wish or do not fast if you wish.)
+
+This Hadith is in the Two Sahihs. It was reported that if the fast becomes difficult (while traveling), then breaking the fast is better. Jabir said that Allah's Messenger ﷺ saw a man who was being shaded (by other people while traveling). The Prophet ﷺ asked about him and he was told that man was fasting. The Prophet ﷺ said:
+
+لَيْسَ مِنَ الْبِرِّ الصِّيَامُ فِي السَّفَرِ
+
+(It is not a part of Birr (piety) to fast while traveling.) This was recorded by Al-Bukhari and Muslim.
+
+As for those who ignore the Sunnah and believe in their hearts that breaking the fast while traveling is disliked, they are required to break the fast and are not allowed to fast.
+
+As for making up for missed fasting days, it is not required to be consecutive. One may do so consecutively or not consecutively. There are ample proofs to this fact. We should mention that fasting consecutive days is only required exclusively during Ramadan. After the month of Ramadan, what is required then is to merely make up for missed days. This is why Allah said:
+
+فَعِدَّةٌ مِّنْ أَيَّامٍ أُخَرَ
+
+(...the same number (should be made up) from other days.)
+
+Ease and not Hardship
+
+Allah then said:
+
+يُرِيدُ اللَّهُ بِكُمُ الْيُسْرَ وَلَا يُرِيدُ بِكُمُ الْعُسْرَ
+
+(Allah intends for you ease, and He does not want to make things difficult for you.)
+
+Imam Ahmad recorded Anas bin Malik saying that Allah's Messenger ﷺ said:
+
+يَسِّرُوا وَلَا تُعَسِّرُوا وَسَكِّنُوا وَلَا تُنَفِّرُوا
+
+(Treat the people with ease and don't be hard on them; give them glad tidings and don't fill them with aversion.)
+
+This Hadith was also collected in the Two Sahihs. It is reported in the Sahihayn that Allah's Messenger ﷺ said to Mu'adh and Abu Musa when he sent them to Yemen:
+
+بَشِّرَا وَلَا تُنَفِّرَا، وَيَسِّرَا وَلَا تُعَسِّرَا، وَتَطَاوَعَا وَلَا تَخْتَلِفَا
+
+(Treat the people with ease and don't be hard on them; give them glad tidings and don't fill them with aversion; and love each other, and don't differ.)
+
+The Sunan and the Musnad compilers recorded that Allah's Messenger ﷺ said:
+
+بُعِثْتُ بِالْحَنِيفِيَّةِ السَّمْحَةِ
+
+(I was sent with the easy Hanifiyyah (Islamic Monotheism).)
+
+Allah's statement:
+
+يُرِيدُ اللَّهُ بِكُمُ الْيُسْرَ وَلَا يُرِيدُ بِكُمُ الْعُسْرَ وَلِتُكْمِلُوا الْعِدَّةَ
+
+(Allah intends for you ease, and He does not want to make things difficult for you. (He wants that you) must complete the same number (of days)) means: You were allowed to break the fast while ill, while traveling, and so forth, because Allah wanted to make matters easy for you. He only commanded you to make up for missed days so that you complete the days of one month.
+
+Remembering Allah upon performing the Acts of Worship
+
+Allah's statement:
+
+وَلِتُكَبِّرُوا اللَّهَ عَلَىٰ مَا هَدَاكُمْ
+
+(...and that you must magnify Allah [i.e., to say Takbir (Allahu Akbar: Allah is the Most Great)] for having guided you) means: So that you remember Allah upon finishing the act of worship. This is similar to Allah's statement:
+
+فَإِذَا قَضَيْتُم مَّنَاسِكَكُمْ فَاذْكُرُوا اللَّهَ كَذِكْرِكُمْ آبَاءَكُمْ أَوْ أَشَدَّ ذِكْرًا
+
+(So when you have accomplished your Manasik, (rituals) remember Allah as you remember your forefathers or with far more remembrance.)(2:200) and:
+
+فَإِذَا قُضِيَتِ الصَّلَاةُ فَانتَشِرُوا فِي الْأَرْضِ وَابْتَغُوا مِن فَضْلِ اللَّهِ وَاذْكُرُوا اللَّهَ كَثِيرًا لَّعَلَّكُمْ تُفْلِحُونَ
+
+(...Then when the (Jumu'ah) Salah (prayer) is ended, you may disperse through the land, and seek the bounty of Allah (by working), and remember Allah much, that you may be successful.)(62:10) and:
+
+وَسَبِّحْ بِحَمْدِ رَبِّكَ قَبْلَ طُلُوعِ الشَّمْسِ وَقَبْلَ الْغُرُوبِ - وَمِنَ اللَّيْلِ فَسَبِّحْهُ وَأَدْبَارَ السُّجُودِ
+
+(...and glorify the praises of your Lord, before the rising of the sun and before (its) setting. And during a part of the night, glorify His praises, and after the prayers.)(50:39-40)
+
+This is why the Sunnah encouraged Tasbih (saying Subhan Allah, i.e., all praise is due to Allah), Tahmid (saying Al-Hamdu Lillah, i.e., all the thanks are due to Allah) and Takbir (saying Allahu Akbar, i.e., Allah is the Most Great) after the compulsory prayers. Ibn 'Abbas said, "We used to know that Allah's Messenger ﷺ has finished the prayer by the Takbir." Similarly, several scholars have stated that reciting Takbir the during 'Id-ul-Fitr was specified by the Ayah that states:
+
+وَلِتُكْمِلُوا الْعِدَّةَ وَلِتُكَبِّرُوا اللَّهَ عَلَىٰ مَا هَدَاكُمْ
+
+((He wants that you) must complete the same number (of days), and that you must magnify Allah [i.e., to say Takbir (Allahu Akbar: Allah is the Most Great)] for having guided you...) Allah's statement:
+
+وَلَعَلَّكُمْ تَشْكُرُونَ
+
+(...so that you may be grateful to Him.) means: If you adhere to what Allah commanded you, obeying Him by performing the obligations, abandoning the prohibitions and abiding by the set limits, then perhaps you will be among the grateful.
 
 ### al-Tabari (Arabic)
 
-شهر رمضانالقول في تأويل قوله تعالى : { شهر رمضان } قال أبو جعفر : الشهر فيما قيل أصله من الشهرة , يقال منه : قد شهر فلان سيفه إذا أخرجه من غمده فاعترض به من أراد ضربه , يشهره شهرا وكذلك شهر الشهر إذا طلع هلاله , وأشهرنا نحن إذا دخلنا في الشهر . وأما رمضان فإن بعض أهل المعرفة بلغة العرب كان يزعم أنه سمي بذلك لشدة الحر الذي كان يكون فيه حتى ترمض فيه الفصال كما يقال للشهر الذي يحج فيه ذو الحجة , والذي يرتبع فيه ربيع الأول وربيع الآخر . وأما مجاهد فإنه كان يكره أن يقال رمضان ويقول : لعله اسم من أ...
+القول في تأويل قوله تعالى: ﴿شَهْرُ رَمَضَانَ الَّذِي أُنْزِلَ فِيهِ الْقُرْآنُ هُدًى لِلنَّاسِ وَبَيِّنَاتٍ مِنَ الْهُدَى وَالْفُرْقَانِ﴾
+
+قال أبو جعفر:"والشهر"، فيما قيل، أصله من"الشهرة". يقال منه:"قد شَهر فلانٌ سَيْفه" -إذا أخرجه من غمده فاعترض به من أراد ضربه-"يشهرُه شهرًا". وكذلك"شَهر الشهر"، إذا طلع هلاله،"وأشهرْنا نحن"، إذا دخلنا في الشهر.
+
+* *
+
+وأما"رمضان"، فإن بعض أهل المعرفة بلغة العرب كان يزعم أنه سمى بذلك لشدة الحرِّ الذي كان يكون فيه، حتى تَرْمَض فيه الفِصَال، [[الفصال جمع فصيل: وهو ولد الناقة إذا فصل عن أمه. ورمض الفصال: أن تحترق الرمضاء -وهو الرمل- فتبرك الفصال من شدة حرها، وإحراقها أخفافها وفراسنها. ورمضت قدمه من الرمضاء: احترقت.]] كما يقال للشهر الذي يُحجّ فيه"ذو الحجة"، والذي يُرتبع فيه"ربيع الأول، وربيع الآخر".
+
+* *
+
+وأما مجاهد فإنه كان يكره أن يقال:"رمضان"، ويقول: لعله اسمٌ من أسماء الله.
+
+٢٨١١- حدثني المثنى قال، حدثنا أبو نعيم قال، حدثنا سفيان، عن مجاهد: أنه كره أن يقال:"رمضان"، ويقول: لعله اسم من أسماء الله لكن نقول كما قال الله:"شهر رمضان".
+
+* *
+
+وقد بينت فيما مضى أن"شهر" مرفوع على قوله:"أيامًا معدودات"، هن شهر رمضان. [[انظر ما سلف آنفًا: ٤١٥، ٤١٧.]] وجائز أن يكون رفعه بمعنى: ذلك شهر رمضان، وبمعنى: كتب عليكم شهرُ رمضان.
+
+وقد قرأه بعض القراء"شهرَ رَمضان" نصبًا، بمعنى: كتب عليكم الصيام أن تصوموا شهرَ رمضان. وقرأه بعضهم نصبًا بمعنى: أن تصوموا شهرَ رمضان خيرٌ لكم إن كنتم تعلمون وقد يجوز أيضًا نصبه على وجه الأمر بصومه، كأنه قيل: شهرَ رمضان فصومُوه. وجائز نصبه على الوقت، كأنه قيل: كتب عليكم الصيام في شهر رمضان.
+
+* *
+
+وأما قوله:"الذي أنزل فيه القرآن"، فإنه ذكر أنه نزل في ليلة القدر من اللوح المحفوظ إلى سماء الدنيا، في ليلة القدر من شهر رمضان. ثم أنزل إلى محمد ﷺ على ما أراد الله إنزاله إليه، كما:-
+
+٢٨١٢- حدثنا أبو كريب قال، حدثنا أبو بكر بن عياش، عن الأعمش، عن حسان بن أبي الأشرَس عن سعيد بن جبير، عن ابن عباس قال: أنزل القرآن جملةً من الذكر في ليلة أربع وعشرين من رمضان، فجُعل في بيت العزَّة - قال أبو كريب: حدثنا أبو بكر، وقال ذلك السدي.
+
+٢٨١٣- حدثني عيس بن عثمان قال، حدثنا يحيى بن عيسى، عن الأعمش، عن حسان، عن سعيد بن جبير قال: نزل القرآن جملة واحدةً في ليلة القدر في شهر رمضان، فجعل في سماء الدنيا. [[الأثر: ٢٨١٣- في المطبوعة: "يحيى عن عيسى"، وهو خطأ. وانظر التعليق على الأثر رقم: ٣٠٠.]]
+
+٢٨١٤- حدثنا أحمد بن منصور قال، حدثنا عبد الله بن رجاء قال، حدثنا عمران القطان، عن قتادة، عن أبي المليح، عن واثلة، عن النبي ﷺ قال:"نزلت صُحف إبراهيم أول ليلة من شهر رمضان، وأنزلت التوراةُ لست مَضَين من رمضان، وأنزل الإنجيل لثلاثَ عَشرة خلت، وأنزل القرآن لأربع وعشرين من رمضان. [[الحديث: ٢٨١٤- عبد الله بن رجاء بن عمرو الغداني: ثقة من شيوخ البخاري. و"الغداني": بضم الغين المعجمة وتخفيف الدال المهملة.
+
+عمران القطان: هو عمران بن داور، مضى في: ١٢٦. وكنيته"أبو العوام".
+
+أبو المليح: هو ابن أسامة الهذلي، وهو تابعي ثقة، أخرج له أصحاب الكتب الستة. ووقع في المطبوعة"عن ابن أبي المليح". وزيادة"ابن" خطأ واضح.
+
+واثلة - بالثاء المثلثة: هو ابن الأسقع، صحابي معروف. والحديث رواه أحمد في المسند: ١٧٠٥١ (٤: ١٠٧ حلبي) ، عن أبي سعيد مولى بني هاشم، عن عمران أبي العوام، بهذا الإسناد، وهو إسناد صحيح.
+
+ونقله ابن كثير ١: ٤٠٦، عن المسند. وكذلك السيوطي ١: ١٨٩، وزاد نسبته إلى محمد بن نصر، وابن أبي حاتم، والطبراني، والبيهقي في الشعب.]]
+
+٢٨١٥- حدثني موسى قال، حدثنا عمرو قال، حدثنا أسباط، عن السدي:"شهرُ رَمضان الذي أنزل فيه القرآن". أما"أنزل فيه القرآن"، فإن ابن عباس قال: شهر رمضان، والليلةُ المباركة ليلةُ القدر، فإن ليلة القدر هي الليلة المباركة، وهي في رمضان، نزل القرآن جملةً واحدة من الزُّبُر إلى البيت المعمور، وهو"مواقع النجوم" في السماء الدنيا حيث وقع القرآن، ثم نزل محمد ﷺ بعد ذلك في الأمر والنهي وفي الحروب رَسَلا رَسَلا. [[رسلا رسلا: أي قطعة قطعة، وفرقة فرقة.]]
+
+٢٨١٦- حدثنا ابن المثنى قال، حدثنا عبد الوهاب قال، حدثنا داود، عن عكرمة، عن ابن عباس قال: أنزل الله القرآن إلى السماء الدنيا في ليلة القدر، فكان الله إذا أراد أن يُوحِيَ منه شيئًا أوحاه، فهو قوله: ﴿إِنَّا أَنْزَلْنَاهُ فِي لَيْلَةِ الْقَدْرِ﴾ [سورة القدر: ١] .
+
+٢٨١٧- حدثنا ابن المثنى قال، حدثنا ابن أبي عدي، عن داود، عن عكرمة، عن ابن عباس، فذكر نحوه - وزاد فيه: فكان من أوله وآخره عشرون سنة.
+
+٢٨١٨- حدثنا ابن المثنى قال، حدثنا عبد الأعلى قال، حدثنا داود، عن عكرمة، عن ابن عباس، قال: أنزل القرآنُ كله جملةً واحدةً في ليلة القدر في رمضان، إلى السماء الدنيا، فكان الله إذا أراد أن يحدث في الأرض شَيئًا أنزله منه، حتى جمعه.
+
+٢٨١٩- حدثني يعقوب قال، حدثنا هشيم قال، أخبرنا حصين، عن حكيم بن جبير، عن سعيد بن جبير، عن ابن عباس قال: أنزل القرآن في ليلة القدر من السماء العليا إلى السماء جملة واحدة، ثم فرَّق في السنين بعدُ. قال: وتلا ابن عباس هذه الآية: ﴿فَلا أُقْسِمُ بِمَوَاقِعِ النُّجُومِ﴾ [سورة الواقعة:٧٥] ، قال: نزل مفرَّقًا.
+
+٢٨٢٠- حدثنا يعقوب قال، حدثنا ابن علية، عن داود، عن الشعبي قال: بلغنا أن القرآن نزل جملة واحدة إلى السماء الدنيا.
+
+٢٨٢١- حدثني المثنى قال، حدثنا سويد بن نصر قال، أخبرنا ابن المبارك، قرأه ابن جريج في قوله: [[هكذا في المطبوعة، ولم أدر ما هو، وأخشى أن يكون صوابه"قرأ ابن جريج قوله. . ".]] "شهرُ رَمضان الذي أنزل فيه القرآن"، قال: قال ابن عباس: أنزل القرآن جملةً واحدة على جبريل في ليلة القدر، فكان لا ينزل منه إلا بأمر. قال ابن جريج: كان ينزل من القرآن في ليلة القدر كلُّ شيء ينزل من القرآن في تلك السنة. فنزل ذلك من السماء السابعة على جبريل في السماء الدنيا، فلا ينزل جبريلُ من ذلك على محمد إلا ما أمره به ربه. ومثل ذلك ﴿إِنَّا أَنْزَلْنَاهُ فِي لَيْلَةِ الْقَدْرِ﴾ و ﴿إِنَّا أَنزلْنَاهُ فِي لَيْلَةٍ مُبَارَكَةٍ﴾ [سورة الدخان: ٣] .
+
+٢٨٢٢- حدثني المثنى قال، حدثنا إسحاق قال، حدثنا عبيد الله بن موسى، عن إسرائيل، عن السدي، عن محمد بن أبي المجالد، عن مقسم، عن ابن عباس، قال له رجل: إنه قد وقع في قلبي الشك من قوله:"شهرُ رَمضان الذي أنزل فيه القرآن"، وقوله: ﴿إِنَّا أَنزلْنَاهُ فِي لَيْلَةٍ مُبَارَكَةٍ﴾ وقوله ﴿إِنَّا أَنْزَلْنَاهُ فِي لَيْلَةِ الْقَدْرِ﴾ ، وقد أنزل الله في شوّال وذي القعدة وغيره! قال: إنما أنزل في رمضان في ليلة القدر وليلة مباركة جملة واحدةً، ثم أنزل على مَواقع النجوم رَسَلا في الشهور والأيام.
+
+* *
+
+وأما قوله:"هُدى للناس"، فإنه يعني رَشادًا للناس إلى سبيل الحقّ وقَصْد المنهج. [[انظر تفسير"هدى" فيما سلف في فهرس اللغة.]]
+
+* *
+
+وأما قوله:"وَبيِّنات"، فإنه يعني: وواضحات"من الهدى" - يعني: من البيان الدالّ على حدود الله وفرائضه وحلاله وحرامه. [[انظر تفسير"بينات" فيما سلف في فهرس اللغة.]]
+
+* *
+
+وقوله:"والفرقان" يعني: والفصل بين الحق والباطل، [[انظر تفسير"فرقان" فيما سلف ١: ٩٨-٩٩.]] كما:-
+
+٢٨٢٣- حدثني موسى بن هارون قال، حدثنا عمرو بن حماد قال، حدثنا أسباط، عن السدى: أما"وبينات من الهدى والفرقان"، فبينات من الحلال والحرام.
+
+* *
+
+القول في تأويل قوله تعالى: ﴿فَمَنْ شَهِدَ مِنْكُمُ الشَّهْرَ فَلْيَصُمْهُ﴾
+
+قال أبو جعفر: اختلف أهل التأويل في معنى"شهود الشهر".
+
+فقال بعضهم: هو مُقام المقيم في داره. قالوا: فمن دخل عليه شهرُ رمضان وهو مقيم في داره، فعليه صوم الشهر كله، غابَ بعدُ فسافر، أو أقام فلم يبرح.
+
+ذكر من قال ذلك:
+
+٢٨٢٤- حدثني محمد بن حميد ومحمد بن عيسى الدامغاني قالا حدثنا ابن المبارك، عن الحسن بن يحيى، عن الضحاك، عن ابن عباس في قوله:"فمن شَهد منكم الشهر فليصمه"، قال: هو إهلاله بالدار. يريد: إذا هلَّ وهو مُقيم.
+
+٢٨٢٥- حدثني يعقوب بن إبراهيم قال، حدثنا هشيم قال، أخبرنا حصين، عمن حدثه، عن ابن عباس أنه قال. في قوله:"فمن شهد منكم الشهر فليصمه"، فإذا شهده وهو مقيم فعليه الصوم، أقام أو سافر. وإن شهده وهو في سَفر، فإن شاء صامَ وإن شَاء أفطر.
+
+٢٨٢٦- حدثني يعقوب قال، حدثنا ابن علية، عن أيوب، عن محمد، عن عبيدة -في الرجل يُدركه رمضان ثم يُسافر - قال: إذا شهدتَ أوله فصُمْ آخره، ألا تراه يقول:"فمن شَهدَ منكم الشهر فليصمه"؟
+
+٢٨٢٧- حدثني يعقوب قال، حدثنا ابن علية، عن هشام القردوسي، عن محمد بن سيرين قال، سألت عَبيدة: عن رجل أدرك رمضان وهو مقيم؟ قال: من صام أول الشهر فليصم آخره، ألا تراه يقول: فَمنْ شهد منكم الشهرَ فليصمه". [[الأثر: ٢٨٢٧- في المطبوعة: "الفردوسي"، والصواب بالقاف المضمومة، هشام بن حسان الأزدي القردوسي أبو عبد الله البصري، روي عن حميد بن هلال والحسن البصري ومحمد وأنس وحفص بني سيرين وغيرهم، وروى عنه عكرمة بن عمار وسعيد بن أبي عروبة وابن علية وغيرهم. يقال هو منسوب إلى درب بالبصرة يقال له"القراديس"، وهو جمع قردوس، وهو أبو حي من اليمن، سمى الدرب بهم. ويقال: هو مولى لهذ الحي. قال ابن سعد: كان ثقة إن شاء الله. ومات سنة ١٤٦.]]
+
+٢٨٢٨- حدثني موسى قال، حدثنا عمرو قال، حدثنا أسباط، عن السدي: أما"منْ شَهد منكم الشهر فليصمه"، فمن دخل عليه رمضان وهو مقيم في أهله فليصُمه، وإن خَرج فيه فليصُمه، فإنه دَخل عليه وهو في أهله.
+
+٢٨٢٩- حدثني المثنى قال، حدثنا حجاج قال، حدثنا حماد قال، أخبرنا قتادة، عن محمد بن سيرين، عن عبيدة السلماني، عن علي -فيما يحسب حماد- قال: من أدرك رَمضان وهو مقيم لم يَخرج، فقد لزمه الصوم، لأن الله يقول:"فمن شَهد منكم الشهر فليصمه".
+
+٢٨٣٠- حدثنا هناد بن السري قال، حدثنا عبد الرحمن، عن إسماعيل بن مسلم، عن محمد بن سيرين قال: سألت عبيدة السلماني عن قول الله:"فمن شَهد منكم الشهر فليصمه"، قال: من كان مقيمًا فليصُمه، ومن أدركه ثم سافر فيه فليصمه.
+
+٢٨٣١- حدثنا هناد قال، حدثنا وكيع، عن ابن عون، عن ابن سيرين، عن عبيدة، قال: من شهد أول رمضان فليصم آخرَه.
+
+٢٨٣٢- حدثنا هناد قال، حدثنا عبدة، عن سعيد بن أبي عروبة، عن قتادة أن عليًّا كان يقول: إذا أدركه رمضان وهو مقيمٌ ثم سافر، فعليه الصوم.
+
+٢٨٣٣- حدثنا هناد قال، حدثنا عبد الرحيم، عن عُبيدة الضبي، عن إبراهيم قال: كان يقول: إذا أدركك رمضانُ فلا تسافر فيه، فإن صمت فيه يومًا أو اثنين ثم سافرت، فلا تفطر، صُمه.
+
+٢٨٣٤- حدثنا ابن المثنى قال، حدثنا محمد بن جعفر قال، حدثنا شعبة، عن عمرو بن مرة، عن أبي البختري. قال: كنا عند عُبيدة فقرأ هذه الآية: "فَمن شَهد منكم الشهر فليصمه"، قال: من صام شيئًا منه في المصر فليصم بقيته إذا خرج. قال: وكان ابن عباس يقول: إن شاء صَام وإن شَاء أفطر.
+
+٢٨٣٥- حدثنا محمد بن بشار قال، حدثنا عبد الوهاب -وحدثني يعقوب بن إبراهيم قال، حدثنا ابن علية- قالا جميعًا، حدثنا أيوب، عن أبي يزيد، عن أم ذرة، قالت: أتيت عائشه في رمضان، قالت: من أين جئتِ؟ قلت: من عند أخي حنين. قالت: ما شأنه؟ قالت: ودَّعته يُريد يرتحل. قالت: فأقرئيه السلام ومُريه فليُقم، فلو أدركني رمضانُ وأنا ببعض الطريق لأقمت له. [[الخبر: ٢٨٣٥- أبو زيد: هو المدني، يعد في أهل البصرة. وهو تابعي ثقة، وثقه ابن معين. وترجمه البخاري في الكنى، رقم: ٧٨٤، وقال: "سمع ابن عمر". وابن أبي حاتم ٤/٢/٤٥٨-٤٥٩. وفي التهذيب عن الآجري، عن أبي داود: "سألت أحمد عنه، فقال: تسأل عن رجل روى عنه أيوب؟ "
+
+أم ذرة -بفتح الذال المعجمة وتشديد الراء- مولاة عائشة: تابعية ثقة. مترجمة في التهذيب. وابن سعد ٨: ٣٥٧، وذكر لها روايتين أخريين عن عائشة، روى أحدهما مطولا قبل ذلك في ترجمة عائشة ٨: ٤٦.
+
+أما أخوها"حنين": فإني لم أجد له ذكرًا في غير هذا الموضع.
+
+والخبر ذكره السيوطي ١: ١٩١، بنحو معناه، ونسبه لعبد بن حميد فقط. ولم يسم فيه"حنين" أخو"أم ذرة"، بل ذكر أنه أخوها فقط.]]
+
+٢٨٣٦- حدثنا هناد قال، حدثنا إسحاق بن عيسى، عن أفلح، عن عبد الرحمن، قال: جاء إبراهيم بن طلحة إلى عائشة يُسلّم عليها، قالت: وأين تريد؟ قال: أردتُ العمرة. قالت: فجلستَ حتى إذا دخل عليك الشهر خرجتَ فيه! قال: قد خرج ثَقَلي! قالت: اجلس، حتى إذا أفطرت فاخرج - يعني شهرَ رمضان. [[الخبر: ٢٨٣٦- إسحاق بن عيسى: هو ابن الطباع البغدادي، ثقة من الرواة عن مالك وطبقته.
+
+أفلح: هو ابن حميد بن نافع المدني، وهو ثقة معروف، روى له الشيخان.
+
+عبد الرحمن هو ابن القاسم بن محمد بن أبي بكر الصديق، ثقة إمام، من خيار المسلمين. ولد في حياة عائشة.
+
+إبراهيم بن طلحة: هو إبراهيم بن محمد بن طلحة بن عبيد الله التيمي، نسب هنا إلى جده. وهو تابعي ثقة رفيع الشأن.
+
+وهذا الخبر نقله السيوطي ١: ١٩١، ونسبه لعبد بن حميد فقط. وفيه أنه"عن عبد الرحمن بن القاسم: أن إبراهيم بن محمد جاء إلى عائشة. . "، فذكر نحو مما هنا، بمعناه.]]
+
+* *
+
+وقال آخرون: معنى ذلك: فمن شهد منكم الشهر فليصُمْ ما شهد منه.
+
+ذكر من قال ذلك:
+
+٢٨٣٧- حدثنا هناد بن السري قال، حدثنا شريك، عن أبي إسحاق: أن أبا مَيسرة خرج في رمضان، حتى إذا بلغ القنطرة دعا ماءً فشرب.
+
+٢٨٣٨- حدثنا هناد قال، حدثنا جرير، عن مغيرة قال: خرج أبو ميسرة في رمضان مسافرًا، فمرّ بالفرات وهو صائم، فأخذ منه كفًّا فشربه وأفطر.
+
+٢٨٣٩- حدثنا هناد قال، حدثنا وكيع، عن سفيان، عن أبي إسحاق، عن مرثد: أن أبا مَيسرة سافرَ في رمضان، فأفطر عند باب الجسر - هكذا قال هناد، عن مرثد، وإنما هو أبو مَرثد.
+
+٢٨٤٠- حدثني محمد بن عمارة الأسديّ قال، حدثنا عبيد الله بن موسى قال، أخبرنا إسرائيل، عن أبي إسحاق، عن مرثد: أنه خرج مع أبي ميسرة في رمضان، فلما انتهى إلى الجسر أفطر. [[الخبران: ٢٨٣٩، ٢٨٤٠- هما من رواية أبي إسحاق السبيعي، عن"مرثد"، عن"أبي ميسرة".
+
+وقال الطبري في أولهما: "هكذا قال هناد: عن مرثد، وإنما هو: عن أبي مرثد"! يعني أن شيخه في أولهما، وهو"هناد"، أخطأ في ذلك، ومن عجب أنه يرويه عقبه في الرواية الثانية، عن شيخ آخر، بإسناد آخر إلى أبي إسحاق -كرواية هناد، التي زعم أنه أخطأ فيها!
+
+وعندي أن أبا جعفر -رحمه الله- هو الذي وهم، أصاب الصواب فأخطأه:
+
+أما أولا: فلاتفاق روايين حافظين ثقتين، هما سفيان الثوري في الإسناد الأول، وإسرائيل بن يونس بن أبي إسحاق السبيعي في الإسناد الثاني - كلاهما عن أبي إسحاق أنه"عن مرثد".
+
+وأما ثانيًا: فلأنا لا نعرف في الرواة من كنيته"أبو مرثد"، إل
+
+[TRUNCATED at 12000 chars — 41571 more. Consult the source directly before relying on anything near the cut.]
 
 ### al-Muyassar (Arabic)
 
-شهر رمضان الذي ابتدأ الله فيه إنزال القرآن في ليلة القدر؛ هداية للناس إلى الحق، فيه أوضح الدلائل على هدى الله، وعلى الفارق بين الحق والباطل. فمن حضر منكم الشهر وكان صحيحًا مقيمًا فليصم نهاره. ويُرخَّص للمريض والمسافر في الفطر، ثم يقضيان عدد تلك الأيام. يريد الله تعالى بكم اليسر والسهولة في شرائعه، ولا يريد بكم العسر والمشقة، ولتكملوا عدة الصيام شهرًا، ولتختموا الصيام بتكبير الله في عيد الفطر، ولتعظموه على هدايته لكم، ولكي تشكروا له على ما أنعم به عليكم من الهداية والتوفيق والتيسير.
+شهر رمضان الذي ابتدأ الله فيه إنزال القرآن في ليلة القدر؛ هداية للناس إلى الحق، فيه أوضح الدلائل على هدى الله، وعلى الفارق بين الحق والباطل. فمن حضر منكم الشهر - وكان صحيحًا مقيمًا - فليصم نهاره. ويُرخَّص للمريض والمسافر في الفطر، ثم يقضيان عدد تلك الأيام. يريد الله تعالى بكم اليسر والسهولة في شرائعه، ولا يريد بكم العسر والمشقة، ولتكملوا عدة الصيام شهرًا، ولتختموا الصيام بتكبير الله في عيد الفطر، ولتعظموه على هدايته لكم، ولكي تشكروا له على ما أنعم به عليكم من الهداية والتوفيق والتيسير.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+تِلْكَ الأَيّام ﴿شَهْر رَمَضان الَّذِي أُنْزِلَ فِيهِ القُرْآن﴾ مِن اللَّوْح المَحْفُوظ إلى السَّماء الدُّنْيا فِي لَيْلَة القَدْر مِنهُ ﴿هُدًى﴾ حال هادِيًا مِن الضَّلالَة ﴿لِلنّاسِ وبَيِّنات﴾ آيات واضِحات ﴿مِن الهُدى﴾ بِما يَهْدِي إلى الحَقّ مِن الأَحْكام ﴿والفُرْقان﴾ ومِن الفُرْقان مِمّا يُفَرَّق بَيْن الحَقّ والباطِل ﴿فَمَن شَهِدَ﴾ حَضَرَ ﴿مِنكُمْ الشَّهْر فَلْيَصُمْهُ ومَن كانَ مَرِيضًا أوْ عَلى سَفَر فَعِدَّة مِن أيّام أُخَر﴾ تَقَدَّمَ مِثْله وكُرِّرَ لِئَلّا يُتَوَهَّم نَسْخه بِتَعْمِيمِ مَن شَهِدَ ﴿يُرِيد اللَّه بِكُمْ اليُسْر ولا يُرِيد بِكُمْ العُسْر﴾ ولِذا أباحَ لَكُمْ الفِطْر فِي المَرَض والسَّفَر لِكَوْنِ ذَلِكَ فِي مَعْنى العِلَّة أيْضًا لِلْأَمْرِ بِالصَّوْمِ عُطِفَ عَلَيْهِ ﴿ولِتُكْمِلُوا﴾ بِالتَّخْفِيفِ والتَّشْدِيد ﴿العِدَّة﴾ أيْ عِدَّة صَوْم رَمَضان ﴿ولِتُكَبِّرُوا اللَّه﴾ عِنْد إكْمالها ﴿عَلى ما هَداكُمْ﴾ أرْشَدكُمْ لِمَعالِم دِينه ﴿ولَعَلَّكُمْ تَشْكُرُونَ﴾ اللَّه عَلى ذَلِكَ
 
 ---
 
@@ -32,22 +312,129 @@ Allah praised the month of Ramadan out of the other months by choosing it to sen
 
 ### Ibn Kathir (English)
 
+And (all) the Most Beautiful Names belong to Allah, so call on Him by them, and leave the company of those who belie His Names. They will be requited for what they used to do (180)
+
 Allah's Most Beautiful Names
+
 Abu Hurayrah narrated that the Messenger of Allah ﷺ said,
-«إِنَّ للهِ تِسْعًا وَتِسْعِينَ اسْمًا مِائَةً إِلَّا وَاحِدًا، مَنْ أَحْصَاهَا دَخَلَ الْجَنَّةَ وَهُوَ وِتْرٌ يُحِبُّ الْوِتْر»
-(Verily, Allah has ninety-nine Names, a hundred less one; whoever counts (and preserves) them, will enter Paradise. Allah is Witr (One) and loves Al-Witr (the odd numbered things),) The Two Sahihs collected this Hadith. We should state that Allah's Names are not restricted to onl...
+
+إِنَّ للهِ تِسْعًا وَتِسْعِينَ اسْمًا مِائَةً إِلَّا وَاحِدًا، مَنْ أَحْصَاهَا دَخَلَ الْجَنَّةَ وَهُوَ وِتْرٌ يُحِبُّ الْوِتْرَ
+
+(Verily, Allah has ninety-nine Names, a hundred less one; whoever counts (and preserves) them, will enter Paradise. Allah is Witr (One) and loves Al-Witr (the odd numbered things),) The Two Sahihs collected this Hadith.
+
+We should state that Allah's Names are not restricted to only ninety-nine. For instance, in his Musnad, Imam Ahmad recorded that 'Abdullah bin Mas'ud said that the Messenger of Allah ﷺ said;
+
+مَا أَصَابَ أَحَدًا قَطُّ هَمٌّ وَلَا حَزَنٌ فَقَالَ: اللَّهُمَّ إِنِّي عَبْدُكَ، ابْنُ أَمَتِكَ، نَاصِيَتِي بِيَدِكَ مَاضٍ فِيَّ حُكْمُكَ، عَدْلٌ فِيَّ قَضُاؤُكَ، أَسْأَلُكَ بِكُلِّ اسْمٍ هُوَ لَكَ سَمَّيْتَ بِهِ نَفْسَكَ أَوْ أَنْزَلْتَهُ في كِتَابِكَ أَوْ عَلَّمْتَهُ أَحَدًا مِنْ خَلْقِكَ أَوِ اسْتَأْثَرْتَ بِهِ فِي عِلْمِ الْغَيْبِ عِنْدَكَ أَنْ تَجْعَلَ الْقُرآنَ الْعَظِيمَ رَبِيعَ قَلْبِي، وَنُورَ صَدْرِي، وَجَلَاءَ حُزْنِي، وَذَهَابَ هَمِّي، إِلَّا أَذْهَبَ اللهُ حُزْنَهُ وَهَمَّهُ وَأَبْدَلَ مَكَانَهُ فَرَحًا
+
+(Any person who is overcome by sadness or grief and supplicates, 'O Allah! I am Your servant, son of Your female servant. My forelock is in Your Hand. Your decision concerning me shall certainly come to pass. Just is Your Judgement about me. I invoke You by every Name that You have and that You called Yourself by, sent down in Your Book, taught to any of Your creatures, or kept with You in the knowledge of the Unseen that is with You. Make the Glorious Qur'an the spring of my heart, the light of my chest, the remover of my grief and the dissipater of my concern.' Surely, Allah will remove his grief and sadness and exchange them for delight.)
+
+The Prophet ﷺ was asked "O Messenger of Allah! Should we learn these words?" He said,
+
+بَلَى يَنْبَغِي لِكُلِّ مَنْ سَمِعَهَا أَنْ يَتَعَلَّمَهَا
+
+(Yes. It is an obligation on all those who hear this supplication to learn it.)
+
+Al-'Awfi said that Ibn 'Abbas said about Allah's statement,
+
+وَذَرُوا الَّذِينَ يُلْحِدُونَ فِي أَسْمَائِهِ
+
+(and leave the company of those who belie His Names)
+
+"To belie Allah's Names includes saying that Al-Lat (an idol) derived from Allah's Name." Ibn Jurayj narrated from Mujahid that he commented,
+
+وَذَرُوا الَّذِينَ يُلْحِدُونَ فِي أَسْمَائِهِ
+
+(and leave the company of those who belie His Names)
+
+"They derived Al-Lat (an idol's name) from Allah, and Al-'Uzza (another idol) from Al-'Aziz (the All-Mighty)." Qatadah stated that Ilhad refers to associating others with Allah in His Names (such as calling an idol Al-'Uzza). The word Ilhad [used in the Ayah in another from] means deviation, wickedness, injustice and straying. The hole in the grave is called Lahd, because it is a hole within a hole, that is turned towards the Qiblah (the direction of the prayer).
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله :  وَلِلَّهِ الأَسْمَاءُ الْحُسْنَى فَادْعُوهُ بِهَا وَذَرُوا الَّذِينَ يُلْحِدُونَ فِي أَسْمَائِهِ سَيُجْزَوْنَ مَا كَانُوا يَعْمَلُونَ (180)قال أبو جعفر: يقول تعالى ذكره (ولله الأسماء الحسنى)، , وهي كما قال ابن عباس: -15451 - حدثني محمد بن سعد قال: حدثني أبي, قال حدثني عمي ، قال حدثني أبي، عن أبيه، عن ابن عباس: (ولله الأسماء الحسنى فادعوه بها)، ومن أسمائه: " العزيز الجبار ", وكل أسمائه حسن.15452 - حدثني يعقوب قال: حدثنا ابن علية, عن هشام بن حسّان, عن ابن سيرين, عن أبي هر...
+القول في تأويل قوله: ﴿وَلِلَّهِ الأسْمَاءُ الْحُسْنَى فَادْعُوهُ بِهَا وَذَرُوا الَّذِينَ يُلْحِدُونَ فِي أَسْمَائِهِ سَيُجْزَوْنَ مَا كَانُوا يَعْمَلُونَ (١٨٠) ﴾
+
+قال أبو جعفر: يقول تعالى ذكره ﴿ولله الأسماء الحسنى﴾ ،، وهي كما قال ابن عباس: -
+
+١٥٤٥١ - حدثني محمد بن سعد قال: حدثني أبي، قال حدثني عمي، قال حدثني أبي، عن أبيه، عن ابن عباس: ﴿ولله الأسماء الحسنى فادعوه بها﴾ ، ومن أسمائه: "العزيز الجبار"، وكل أسمائه حسن.
+
+١٥٤٥٢ - حدثني يعقوب قال: حدثنا ابن علية، عن هشام بن حسّان، عن ابن سيرين، عن أبي هريرة، عن رسول الله ﷺ قال: "إن لله تسعة وتسعين اسمًا، مائة إلا واحدًا، من أحصاها كُلَّها دخل الجنة". [[الأثر: ١٥٤٥٢ - ((هشام بن حسان القردوسي)) ، ثقة. روى له الجماعة، مضى برقم: ٢٨٢٧، ٧٢٨٧، ٩٨٣٧، ١٠٢٥٨. وهذا إسناد صحيح. رواه البخاري من طريق أبي الزناد، عن الأعرج، عن أبي هريرة (الفتح ٥: ٢٦٢ / ١١: ١٨٠ - ١٩٤) ، شرحه ابن حجر مستقصى غاية الاستقصاء.
+
+ورواه مسلم في صحيحه، من مثل طريق البخاري، ثم من طريق معمر، عن أيوب، عن ابن سيرين، عن أبي هريرة (مسلم ١٧: ٤، ٥) .
+
+ورواه أحمد في مسنده من طرق، رقم: ٧٤٩٣، ٧٦١٢، ٨١٣١، ٩٥٠٩، ١٠٤٨٦، ١٠٥٣٩، ١٠٦٩٦. وانظر تخريجه هناك.
+
+وفي بعض طرقه زيادة: ((وإن الله وتر يحب الوتر)) أو ((إنه وتر يحب الوتر)) .]]
+
+* *
+
+وأما قوله: ﴿وذروا الذين يلحدون في أسمائه﴾ ، فإنه يعني به المشركين. [[انظر تفسير ((ذر)) فيما سلف من فهارس اللغة (وذر) .]]
+
+* *
+
+وكان إلحادهم في أسماء الله، أنهم عدَلوا بها عمّا هي عليه، فسموا بها آلهتهم وأوثانهم، وزادوا فيها ونقصوا منها، فسموا بعضها "اللات" اشتقاقًا منهم لها من اسم الله الذي هو "الله"، وسموا بعضها "العُزَّى" اشتقاقًا لها من اسم الله الذي هو "العزيز".
+
+* *
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+١٥٤٥٣ - حدثني محمد بن سعد قال: حدثني أبي قال: ثني عمي قال: حدثني أبي، عن أبيه، عن ابن عباس: ﴿وذروا الذين يلحدون في أسمائه﴾ ، قال: إلحاد الملحدين: أن دعوا "اللات" في أسماء الله.
+
+١٥٤٥٤ - حدثنا القاسم قال: حدثنا الحسين قال: حدثني حجاج، عن ابن جريج، عن مجاهد: ﴿وذروا الذين يلحدون في أسمائه﴾ قال: اشتقوا "العزى" من "العزيز"، واشتقوا "اللات" من "الله".
+
+* *
+
+واختلف أهل التأويل في تأويل قوله ﴿يلحدون﴾ .
+
+فقال بعضهم: يكذّبون.
+
+ذكر من قال ذلك:
+
+١٥٤٥٥ - حدثني المثنى قال: حدثنا عبد الله قال: حدثني معاوية، عن ابن عباس، قوله: ﴿وذروا الذين يلحدون في أسمائه﴾ قال: الإلحاد: التكذيب.
+
+* *
+
+وقال آخرون: معنى ذلك: يشركون.
+
+ذكر من قال ذلك:
+
+١٥٤٥٦- حدثني محمد بن عبد الأعلى قال: حدثنا أبو ثور، عن معمر، عن قتادة: ﴿يلحدون﴾ قال: يشركون. [[الأثر: ١٠٤٥٦ - ((ابن ثور)) هو ((محمد بن ثور الصنعانى)) ، مضى في الإسناد مرارًا، آخره رقم: ١٥٤٣٧، حيث صححت خطأ آخر هناك. ثم ما سيأتي: ١٥٤٥٩. وكان في المطبوعة والمخطوطة هنا ((حدثنا أبو ثور)) ، وهو خطأ محض.]]
+
+* *
+
+وأصل "الإلحاد" في كلام العرب: العدول عن القصد، والجورُ عنه، والإعراض. ثم يستعمل في كل معوَجّ غير مستقيم، ولذلك قيل للحْد القبر: "لحد"، لأنه في ناحية منه، وليس في وسطه. يقال منه: "ألحد فلانٌ يُلْحِد إلحادًا"، و"لَحد يلْحَد لَحْدًا ولُحُودًا". [[(٢) المصدر الثاني ((اللحود)) ، قلما نجده في معاجم اللغة، فقيده.]] وقد ذكر عن الكسائي أنه كان يفرّق بين "الإلحاد" و"اللحٍْد"، فيقول في "الإلحاد": إنه العدول عن القصد، وفي "اللحد" إنه الركون إلى الشيء. وكان يقرأ جميع ما في القرآن: ﴿يُلْحِدُونَ﴾ بضم الياء وكسر الحاء، إلا التي في النحل، فإنه كان يقرؤها: "يَلْحَدُون" بفتح الياء والحاء، [[آية سورة النحل: ١٠٣ على قراءة الكسائى: "لِسَانُ الَّذِي يَلْحَدُونَ إِلَيْهِ أَعْجَمِيٌّ ". وهي قراءة عامة قرأة أهل الكوفة / كما قال بن جرير بعد في تفسيره ١٤: ١٢٠ (بولاق) ، ولم يفرد الكسائي بالذكر هناك، لأنه خالفهم في قراءة الحرف في غير هذا الموضع.]] ويزعم أنه بمعنى الركون.
+
+وأما سائر أهل المعرفة بكلام العرب، فيرون أن معناهما واحدٌ، وأنهما لغتان جاءتا في حرفٍ واحدٍ بمعنى واحد.
+
+* *
+
+واختلفت القرأة في قراءة ذلك. فقرأته عامة قراء أهل المدينة وبعض البصريين والكوفيين: ﴿يُلْحِدُون﴾ ، بضم الياء وكسر الحاء من "ألحد يُلْحِد" في جميع القرآن.
+
+* *
+
+وقرأ ذلك عامة قراء أهل الكوفة: "يَلْحَدُونَ" بفتح الياء والحاء من "لَحَد يَلْحَدُ".
+
+* *
+
+قال أبو جعفر: والصواب من القول في ذلك، أنهما لغتان بمعنى واحد، فبأيتهما قرأ القارئ فمصيبٌ الصوابَ في ذلك. غير أنِّي أختار القراءة بضمِّ الياء على لغة من قال: "ألحد"، لأنها أشهر اللغتين وأفصحهما.
+
+* *
+
+وكان ابن زيد يقول في قوله: ﴿وذروا الذين يلحدون في أسمائه﴾ ، إ نه منسوخٌ.
+
+١٥٤٥٧ - حدثني يونس قال: أخبرنا ابن وهب قال: قال ابن زيد، في قوله: ﴿وذَرُوا الذين يلحدون في أسمائه﴾ قال: هؤلاء أهل الكفر، وقد نُسِخ، نَسَخه القتال.
+
+* *
+
+= ولا معنى لما قال ابن زيد في ذلك من أنه منسوخ، لأن قوله: ﴿وذروا الذين يلحدون في أسمائه﴾ ، ليس بأمر من الله لنبيّه ﷺ بترك المشركين أن يقولوا ذلك، حتى يأذن له في قِتالهم، وإنما هو تهديدٌ من الله للملحدين في أسمائه، ووعيدٌ منه لهم، كما قال في موضع آخر: ﴿ذَرْهُمْ يَأْكُلُوا وَيَتَمَتَّعُوا وَيُلْهِهِمُ الأمَلُ فَسَوْفَ يَعْلَمُونَ﴾ ، [سورة الحجر: ٣] الآية، وكقوله: ﴿لِيَكْفُرُوا بِمَا آتَيْنَاهُمْ وَلِيَتَمَتَّعُوا فَسَوْفَ يَعْلَمُونَ﴾ ، [سورة العنكبوت: ٦٦] وهو كلام خرج مخرج الأمر بمعنى الوعيد والتهديد، ومعناه: أنْ مَهِّل الذين يلحدون، يا محمد، في أسماء الله إلى أجل هم بالغوه، [[في المطبوعة: ((أن تمهل)) لم يحسن قراءة المخطوطة.]] فسوف يجزون، إذا جاءهم أجل الله الذي أجلهم إليه، [[في المطبوعة: ((الذي أجله إليهم)) ، غير الضمائر، فأفسد الكلام إفساداً]] جزاءَ أعمالهم التي كانوا يعملونها قبل ذلك من الكفر بالله، والإلحاد في أسمائه، وتكذيب رسوله.
 
 ### al-Muyassar (Arabic)
 
-ولله سبحانه وتعالى الأسماء الحسنى، الدالة على كمال عظمته، وكل أسمائه حسن، فاطلبوا منه بأسمائه ما تريدون، واتركوا الذين يُغيِّرون في أسمائه بالزيادة أو النقصان أو التحريف، كأن يُسمَّى بها من لا يستحقها، كتسمية المشركين بها آلهتهم، أو أن يجعل لها معنى لم يُردْه الله ولا رسوله، فسوف يجزون جزاء أعمالهم السيئة التي كانوا يعملونها في الدنيا من الكفر بالله، والإلحاد في أسمائه وتكذيب رسوله.
+ولله سبحانه وتعالى الأسماء الحسنى، الدالة على كمال عظمته، وكلُّ أسمائه حُسْنى، فاطلبوا منه بأسمائه ما تريدون، واتركوا الذين يُغيِّرون في أسمائه بالزيادة أو النقصان أو التحريف، كأن يُسمّى بها من لا يستحقها، كتسمية المشركين بها آلهتهم، أو أن يجعل لها معنى لم يُردْه الله ولا رسوله، فسوف يجزون جزاء أعمالهم السيئة التي كانوا يعملونها في الدنيا من الكفر بالله، والإلحاد في أسمائه وتكذيب رسوله.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿ولِلَّهِ الأَسْماء الحُسْنى﴾ التِّسْعَة والتِّسْعُونَ الوارِد بِها الحَدِيث والحُسْنى مُؤَنَّث الأَحْسَن ﴿فادْعُوهُ﴾ سَمُّوهُ ﴿بِها وذَرُوا﴾ اُتْرُكُوا ﴿الَّذِينَ يُلْحِدُونَ﴾ مِن ألْحَدَ ولَحَدَ يَمِيلُونَ عَنْ الحَقّ. ﴿فِي أسْمائِهِ﴾ حَيْثُ اشْتَقُّوا مِنها أسْماء لِآلِهَتِهِمْ: كاللّاتِي مِن اللَّه والعُزّى مِن العَزِيز ومَناة مِن المَنّان ﴿سَيُجْزَوْنَ﴾ فِي الآخِرَة جَزاء ﴿ما كانُوا يَعْمَلُونَ﴾ وهَذا قَبْل الأَمْر بِالقِتالِ
 
 ---
 
@@ -55,14 +442,83 @@ Abu Hurayrah narrated that the Messenger of Allah ﷺ said,
 
 ### Ibn Kathir (English)
 
+And let not your hand be tied (like a miser) to your neck, nor overextend it (like a spendthrift), so that you become blameworthy and in severe poverty (29)Truly, your Lord expands the provision for whom He wills and straitens (for whom He wills). Verily, He is Ever All-Knower, All-Seer of His servants (30)
+
 Moderation in Spending
+
 Allah enjoins moderation in living. He condemns miserliness and forbids extravagance.
-وَلاَ تَجْعَلْ يَدَكَ مَغْلُولَةً إِلَى عُنُقِكَ
-(And let not your hand be tied (like a miser) to your neck,) this means, do not be miserly and stingy, never giving anything to anyone, as the Jews - may the curses of Allah be upon them - said, "Allah's Hand is tied up (i.e., He does not give and spend of His bounty)". They attributed miserliness to Him, Exalted and Sanctified be the Mo...
+
+وَلَا تَجْعَلْ يَدَكَ مَغْلُولَةً إِلَىٰ عُنُقِكَ
+
+(And let not your hand be tied (like a miser) to your neck,) this means, do not be miserly and stingy, never giving anything to anyone, as the Jews - may the curses of Allah be upon them - said, "Allah's Hand is tied up (i.e., He does not give and spend of His bounty)". They attributed miserliness to Him, Exalted and Sanctified be the Most Generous Bestower!
+
+وَلَا تَبْسُطْهَا كُلَّ الْبَسْطِ
+
+(nor overextend it (like a spendthrift)) means, nor be extravagant in spending and giving more than you can afford, or paying more than you earn, lest you become blameworthy and find yourself in severe poverty. If you are a miser, people will blame you and condemn you, and no longer rely on you. When you spend more than you can afford, you will find yourself without anything to spend, so you will be worn out, like an animal that cannot walk, so it becomes weak and incapable. It is described as worn out, which is similar in meaning to exhausted. As Allah says:
+
+فَارْجِعِ الْبَصَرَ هَلْ تَرَىٰ مِن فُطُورٍ - ثُمَّ ارْجِعِ الْبَصَرَ كَرَّتَيْنِ يَنقَلِبْ إِلَيْكَ الْبَصَرُ خَاسِئًا وَهُوَ حَسِيرٌ
+
+(Then look again: "Can you see any rifts?" Then look again and yet again, your sight will return to you in a state of humiliation and worn out.)(67:3-4) meaning, unable to see any faults. Similarly, Ibn 'Abbas, Al-Hasan, Qatadah, Ibn Jurayj, Ibn Zayd and others understood this Ayah as miserliness and extravagance. It was reported in the Two Sahihs from the Hadith of Abu Az-Zinad from Al-A'raj that Abu Hurayrah heard the Messenger of Allah ﷺ say:
+
+مَثَلُ الْبَخِيلِ وَالْمُنْفِقِ كَمَثَلِ رَجُلَيْنِ عَلَيْهِمَا جُبَّتَانِ مِنْ حَدِيدٍ مِنْ ثُدِيِّهِمَا إِلَى تَرَاقِيهِمَا، فَأَمَّا الْمُنْفِقُ فَلَا يُنْفِقُ إِلَّا سَبَغَتْ - أَوْ وَفَرَتْ - عَلَى جِلْدِهِ حَتَّى تُخْفِيَ بَنَانَهُ وَتَعْفُوَ أَثَرَهُ، وَأَمَّا الْبَخِيلُ فَلَا يُرِيدُ أَنْ يُنْفِقَ شَيْئًا إِلَّا لَزِقَتْ كُلُّ حَلْقَةٍ مِنْهَا مَكَانَهَا، فَهُوَ يُوَسِّعُهَا فَلَا تَتَّسِعُ
+
+(The parable of the miser and the almsgiver is that of two persons wearing iron cloaks from their chests to their collar-bones. When the almsgiver gives in charity, the cloak becomes spacious until it covers his whole body to such an extent that it hides his fingertips and covers his tracks (obliterates his tracks - or, his sins will be forgiven). And when the miser wants to spend, it (the iron cloak) sticks and (its) every ring gets stuck to its place, and he tries to widen it, but it does not become wide.)
+
+This version was recorded by Al-Bukhari in the Book of Zakah.
+
+In the Two Sahihs it is recorded that Mu'awiyah bin Abi Muzarrid narrated from Sa'id bin Yasar that Abu Hurayrah said: "The Messenger of Allah ﷺ said:
+
+مَا مِنْ يَوْمٍ يُصْبِحُ الْعِبَادُ فِيهِ إِلَّا وَمَلَكَانِ يَنْزِلَانِ مِنَ السَّمَاءِ يَقُولُ أَحَدُهُمَا: اللَّهُمَّ أَعْطِ مُنْفِقًا خَلَفًا، وَيَقُولُ الْآخَرُ: اللَّهُمَّ أَعْطِ مُمْسِكًا تَلَفًا
+
+(There is no day when a person wakes up but two angels come down from heaven. One of them says, 'O Allah, compensate the one who gives (in charity),' and the other one says, 'O Allah, destroy the one who withholds.')" Muslim recorded from Abu Hurayrah that the Prophet ﷺ said:
+
+مَا نَقَصَ مَالٌ مِنْ صَدَقَةٍ، وَمَا زَادَ اللهُ عَبْدًا أَنْفَقَ إِلَّا عِزًّا، وَمَنْ تَوَاضَعَ للهِ رَفَعَهُ اللهُ
+
+(Wealth never decreases because of Sadaqah (charity). Allah never increases a servant who gives in charity except in honor, and whoever is humble for the sake of Allah, Allah will raise him in status.)
+
+According to a Hadith narrated by Abu Kathir from 'Abdullah bin 'Amr, who attributed it to the Prophet ﷺ:
+
+إِيَّاكُمْ وَالشُّحَّ فَإِنَّهُ أَهْلَكَ مَنْ كَانَ قَبْلَكُمْ، أَمَرَهُمْ بِالْبُخْلِ فَبَخِلُوا، وَأَمَرَهُمْ بِالْقَطِيعَةِ فَقَطَعُوا، وَأَمَرَهُمْ بِالْفُجُورِ فَفَجَرُوا
+
+(Beware of stinginess for it destroyed the people who came before you. It commanded them to be miserly, so they were miserly; and it commanded them to cut the ties of kinship, so they cut them; and it commanded them to commit immoral actions, so they did so.)
+
+إِنَّ رَبَّكَ يَبْسُطُ الرِّزْقَ لِمَن يَشَاءُ وَيَقْدِرُ
+
+(Truly, your Lord expands the provision for whom He wills and straitens (for whom He wills).) This Ayah is telling us that Allah is the One Who provides or withholds, the Bestower Who is running the affairs of His creation as He wills. He makes rich whomever He wills, and He makes poor whomever He wills, by the wisdom that is His. He said:
+
+إِنَّهُ كَانَ بِعِبَادِهِ خَبِيرًا بَصِيرًا
+
+(Verily, He is Ever All-Knower, All-Seer of His servants.) meaning, He knows and sees who deserves to be rich and who deserves to be poor.
+
+In some cases, richness may be decreed so that a person gets carried away, leading to his own doom. In other cases, poverty may be a punishment. We seek refuge with Allah from both.
 
 ### al-Tabari (Arabic)
 
-وهذا مثل ضربه الله تبارك وتعالى للممتنع من الإنفاق في الحقوق التي أوجبها في أموال ذوي الأموال، فجعله كالمشدودة يده إلى عنقه، الذي لا يقدر على الأخذ بها والإعطاء.وإنما معنى الكلام: ولا تمسك يا محمد يدك بخلا عن النفقة في حقوق الله، فلا تنفق فيها شيئا إمساك المغلولة يده إلى عنقه، الذي لا يستطيع بسطها( وَلا تَبْسُطْهَا كُلَّ الْبَسْطِ ) يقول: ولا تبسطها بالعطية كلّ البسط، فتَبقى لا شيء عندك، ولا تجد إذا سئلت شيئا تعطيه سائلك ( فَتَقْعُدَ مَلُومًا مَحْسُورًا ) يقول: فتقعد يلومك سائلوك إذا لم تعطهم...
+القول في تأويل قوله تعالى: ﴿وَلا تَجْعَلْ يَدَكَ مَغْلُولَةً إِلَى عُنُقِكَ وَلا تَبْسُطْهَا كُلَّ الْبَسْطِ فَتَقْعُدَ مَلُومًا مَحْسُورًا (٢٩) ﴾
+
+وهذا مثل ضربه الله تبارك وتعالى للممتنع من الإنفاق في الحقوق التي أوجبها في أموال ذوي الأموال، فجعله كالمشدودة يده إلى عنقه، الذي لا يقدر على الأخذ بها والإعطاء.
+
+وإنما معنى الكلام: ولا تمسك يا محمد يدك بخلا عن النفقة في حقوق الله، فلا تنفق فيها شيئا إمساك المغلولة يده إلى عنقه، الذي لا يستطيع بسطها ﴿وَلا تَبْسُطْهَا كُلَّ الْبَسْطِ﴾ يقول: ولا تبسطها بالعطية كلّ البسط، فتَبقى لا شيء عندك، ولا تجد إذا سئلت شيئا تعطيه سائلك ﴿فَتَقْعُدَ مَلُومًا مَحْسُورًا﴾ يقول: فتقعد يلومك سائلوك إذا لم تعطهم حين سألوك، وتلومك نفسك على الإسراع في مالك وذهابه، محسورا: يقول: مَعِيبا، قد انقُطِع بك، لا شيء عندك تنفقه، وأصله من قولهم للدابة التي قد سير عليها حتى انقَطَع سيرها، وكلَّت ورَزحت من السير، بأنه حَسِير. يقال منه: حَسَرْت الدابة فأنا أحسِرُها، وأحسُرها حَسْرا، وذلك إذا أنضيته بالسير، وحَسَرته بالمسألة إذا سألته فألحفت، وحَسَرَ البصرُ فهو يَحْسِر، وذلك إذا بلغ أقصى المنظر فكَلّ. ومنه قوله عزَ وجلَ ﴿يَنْقَلِبْ إِلَيْكَ الْبَصَرُ خَاسِئًا وَهُوَ حَسِيرٌ﴾ وكذلك ذلك في كلّ شيء كَلَّ وأزحف حتى يَضْنَى.
+
+وبنحو الذي قلنا في ذلك، قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا محمد بن بشار، قال: ثنا هودة، قال : ثنا عوف، عن الحسن، في قوله ﴿وَلا تَجْعَلْ يَدَكَ مَغْلُولَةً إِلَى عُنُقِكَ﴾ قال: لا تجعلها مغلولة عن النفقة ﴿وَلا تَبْسُطْها﴾ : تبذر بسرف.
+
+⁕ حدثنا ابن حميد، قال: ثنا يوسف بن بهز، قال: ثنا حوشب، قال: كان الحسن إذا تلا هذه الآية ﴿وَلا تَجْعَلْ يَدَكَ مَغْلُولَةً إِلَى عُنُقِكَ وَلا تَبْسُطْهَا كُلَّ الْبَسْطِ فَتَقْعُدَ مَلُومًا مَحْسُورًا﴾ يقول: لا تطفِّف برزقي عن غير رضاي، ولا تضعْه في سُخْطي فأسلُبَك ما في يديك، فتكون حسيرا ليس في يديك منه شيء.
+
+⁕ حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس، قوله ﴿وَلا تَجْعَلْ يَدَكَ مَغْلُولَةً إِلَى عُنُقِكَ وَلا تَبْسُطْهَا كُلَّ الْبَسْطِ فَتَقْعُدَ مَلُومًا مَحْسُورًا﴾ يقول هذا في النفقة، يقول ﴿لا تَجْعَلْ يَدَكَ مَغْلُولَةً إِلَى عُنُقِكَ﴾ يقول: لا تبسطها بالخير ﴿وَلا تَبْسُطْهَا كُلَّ الْبَسْطِ﴾ يعني التبذير ﴿فَتَقْعُدَ مَلُوما﴾ يقول: يلوم نفسه على ما فات من ماله ﴿مَحْسُورًا﴾ يعني: ذهب ماله كله فهو محسور.
+
+⁕ حدثني علي، قال: ثنا أبو صالح، قال: ثني معاوية، عن علي، عن ابن عباس، قوله ﴿وَلا تَجْعَلْ يَدَكَ مَغْلُولَةً إِلَى عُنُقِكَ﴾ يعني بذلك البخل.
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله ﴿وَلا تَجْعَلْ يَدَكَ مَغْلُولَةً إِلَى عُنُقِكَ﴾ أي لا تمسكها عن طاعة الله، ولا عن حقه ﴿وَلا تَبْسُطْهَا كُلَّ الْبَسْطِ﴾ يقول: لا تنفقها في معصية الله، ولا فيما يصلح لك، ولا ينبغي لك، وهو الإسراف، قوله ﴿فَتَقْعُدَ مَلُومًا مَحْسُورًا﴾ قال: ملوما في عباد الله، محسورا على ما سلف من دهره وفرّط.
+
+⁕ حدثنا محمد بن عبد الأعلى، قال: ثنا محمد بن ثور، عن معمر، عن قتادة ﴿وَلا تَجْعَلْ يَدَكَ مَغْلُولَةً إِلَى عُنُقِكَ﴾ قال: في النفقة، يقول: لا تمسك عن النفقة ﴿وَلا تَبْسُطْهَا كُلَّ الْبَسْطِ﴾ يقول: لا تبذر تبذيرا ﴿فَتَقْعُدَ مَلُوما﴾ في عباد الله ﴿مَحْسُورًا﴾ يقول: نادما على ما فرط منك.
+
+⁕ حدثنا القاسم، قال: ثنا الحسين، قال: ثني حجاج، عن ابن جريج، قال: لا تمسك عن النفقة فيما أمرتك به من الحق ﴿وَلا تَبْسُطْهَا كُلَّ الْبَسْطِ﴾ فيما نهيتك ﴿فَتَقْعُدَ مَلُوما﴾ قال: مذنبا ﴿مَحْسُورًا﴾ قال: منقطعا بك.
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله ﴿وَلا تَجْعَلْ يَدَكَ مَغْلُولَةً إِلَى عُنُقِكَ﴾ قال: مغلولة لا تبسطها بخير ولا بعطية ﴿وَلا تَبْسُطْهَا كُلَّ الْبَسْطِ﴾ في الحق والباطل، فينفَذ ما معك، وما في يديك، فيأتيك من يريد أن تعطيه فيحسر بك، فيلومك حين أعطيت هؤلاء، ولم تعطهم.
 
 ### al-Muyassar (Arabic)
 
@@ -70,7 +526,7 @@ Allah enjoins moderation in living. He condemns miserliness and forbids extravag
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿ولا تَجْعَل يَدك مَغْلُولَة إلى عُنُقك﴾ أيْ لا تُمْسِكها عَنْ الإنْفاق كُلّ المَسْك ﴿ولا تَبْسُطها﴾ فِي الإنْفاق ﴿كُلّ البَسْط فَتَقْعُد مَلُومًا﴾ راجِع لِلْأَوَّلِ ﴿مَحْسُورًا﴾ مُنْقَطِعًا لا شَيْء عِنْدك راجِع لِلثّانِي
 
 ---
 
@@ -78,24 +534,225 @@ Allah enjoins moderation in living. He condemns miserliness and forbids extravag
 
 ### Ibn Kathir (English)
 
+Say: "Invoke Allah or invoke Ar-Rahman (the Most Gracious), by whatever name you invoke Him (it is the same), for to Him belong the Best Names. And offer your Salah (prayer) neither aloud nor in a low voice, but follow a way between (110)And say: "All the praises and thanks be to Allah, Who has not begotten a son, and Who has no partner in (His) dominion, nor is He low to have a supporter. And magnify Him with all magnificence. (111)
+
 To Allah belong the Most Beautiful Names
+
 Allah says:
-قُلْ
+
+قل
+
 (Say) O Muhammad, to these idolators who deny that Allah possesses the attribute of mercy and refuse to call Him Ar-Rahman,
-ادْعُواْ اللَّهَ أَوِ ادْعُواْ الرَّحْمَـنَ أَيًّا مَّا تَدْعُواْ فَلَهُ الاٌّسْمَآءَ الْحُسْنَى
-("Invoke Allah or invoke Ar-Rahman (the Most Gracious), by whatever name you invoke Him (it is the same), for to Him belong the Best Names.) meaning, there is no difference between calling on Him as Allah or calling on...
+
+ادْعُوا اللَّهَ أَوِ ادْعُوا الرَّحْمَٰنَ ۖ أَيًّا مَّا تَدْعُوا فَلَهُ الْأَسْمَاءُ الْحُسْنَىٰ
+
+("Invoke Allah or invoke Ar-Rahman (the Most Gracious), by whatever name you invoke Him (it is the same), for to Him belong the Best Names.) meaning, there is no difference between calling on Him as Allah or calling on Him as Ar-Rahman, because He has the Most Beautiful Names, as He says:
+
+هُوَ اللَّهُ الَّذِي لَا إِلَٰهَ إِلَّا هُوَ ۖ عَالِمُ الْغَيْبِ وَالشَّهَادَةِ ۖ هُوَ الرَّحْمَٰنُ الرَّحِيمُ
+
+(He is Allah, beside Whom none has the right to be worshipped but He the All-Knower of the unseen and the seen. He is the Most Gracious, the Most Merciful.)(59:22) Until His saying;
+
+لَهُ الْأَسْمَاءُ الْحُسْنَىٰ ۚ يُسَبِّحُ لَهُ مَا فِي السَّمَاوَاتِ وَالْأَرْضِ
+
+(To Him belong the Best Names. All that is in the heavens and the earth glorify Him.)[59:24] Makhul reported that one of the idolators heard the Prophet ﷺ saying when he was prostrating: "O Most Gracious, O Most Merciful." The idolator said, he claims to pray to One, but he is praying to two! Then Allah revealed this Ayah. This was also narrated from Ibn 'Abbas, and by Ibn Jarir.
+
+The Command to recite neither loudly nor softly
+
+وَلَا تَجْهَرْ بِصَلَاتِكَ
+
+(And offer your Salah neither aloud) Imam Ahmad reported that Ibn 'Abbas said: "This Ayah was revealed when the Messenger of Allah ﷺ was preaching underground in Makkah."
+
+وَلَا تَجْهَرْ بِصَلَاتِكَ وَلَا تُخَافِتْ بِهَا
+
+(And offer your Salah neither aloud nor in a low voice,) Ibn 'Abbas said: "When he prayed with his Companions, he would recite Qur'an loudly, and when the idolators heard that, they insulted the Qur'an, and the One Who had revealed it and the one who had brought it. So Allah said to His Prophet ﷺ:
+
+وَلَا تَجْهَرْ بِصَلَاتِكَ
+
+(And offer your Salah (prayer) neither aloud) means, do not recite it aloud, lest the idolators hear you and insult the Qur'an,
+
+وَلَا تُخَافِتْ بِهَا
+
+(nor in a low voice,) means, nor recite it so quietly that your companions cannot hear the Qur'an and learn it from you.
+
+وَابْتَغِ بَيْنَ ذَٰلِكَ سَبِيلًا
+
+(but follow a way between.)" This was also reported in the Two Sahihs. Ad-Dahhak also narrated something similar from Ibn 'Abbas, and added: "When he migrated to Al-Madinah, this no longer applied, and he recited as he wished."
+
+Muhammad bin Ishaq said that Ibn 'Abbas said, "When the Messenger of Allah ﷺ recited Qur'an quietly while he was praying, the (idolators) would disperse and refuse to listen to him; if one of them wanted to hear some of what he was reciting in his prayer, he would try to listen without anyone seeing him, because he was afraid of them. If he realized that anybody knew he was listening, he would go away lest they harm him, so he would stop listening. If the Prophet ﷺ lowered his voice, those who wanted to listen to his recitation could not hear anything, so Allah revealed,
+
+وَلَا تَجْهَرْ بِصَلَاتِكَ
+
+(And offer your Salah neither aloud) meaning, do not recite aloud, lest those who want to listen disperse for fear of attracting unwelcome attention,
+
+وَلَا تُخَافِتْ بِهَا
+
+(nor in a low voice,) but do not make your voice so soft that the one who is trying to listen without being seen cannot hear anything at all. Perhaps he will pay attention to some of what he hears and benefit from it.
+
+وَابْتَغِ بَيْنَ ذَٰلِكَ سَبِيلًا
+
+(but follow a way between.)" This was the view of 'Ikrimah, Al-Hasan Al-Basri and Qatadah that this Ayah was revealed concerning recitation in prayer. It was narrated from Ibn Mas'ud: "Do not make it so soft that no one can hear it except yourself."
+
+Declaration of Tawhid
+
+وَقُلِ الْحَمْدُ لِلَّهِ الَّذِي لَمْ يَتَّخِذْ وَلَدًا
+
+(And say: "All the praises and thanks be to Allah, Who has not begotten a son...") because Allah has stated that the Most Beautiful Names belong to Him, and has declared Himself to be above having any faults or defects.
+
+وَقُلِ الْحَمْدُ لِلَّهِ الَّذِي لَمْ يَتَّخِذْ وَلَدًا وَلَمْ يَكُن لَّهُ شَرِيكٌ فِي الْمُلْكِ
+
+(And say: "All the praises and thanks be to Allah, Who has not begotten a son, and Who has no partner in (His) dominion...") indeed, He is Allah, (the) One, the Self-Sufficient Master, Who begets not, nor was He begotten, and there is none co-equal or comparable unto Him.
+
+وَلَمْ يَكُن لَّهُ وَلِيٌّ مِّنَ الذُّلِّ
+
+(nor He is low to have a supporter.) means, He is not so humble or weak that He needs to have a helper or supporter or adviser, rather He Alone, with no partner or associate, may He be exalted, is the Creator of all things and is the One Who is running and controlling them by His will, with no partner or associate.
+
+وَلَمْ يَكُن لَّهُ وَلِيٌّ مِّنَ الذُّلِّ
+
+(nor He is low to have a supporter).) Mujahid said: He does not form an alliance with anyone, nor does He seek the support or help of anyone.
+
+وَكَبِّرْهُ تَكْبِيرًا
+
+(And magnify Him with all magnificence.) means, glorify and extol Him far above whatever the transgressors and aggressors say. Ibn Jarir recorded that Al-Qurazi used to say about this Ayah,
+
+وَقُلِ الْحَمْدُ لِلَّهِ الَّذِي لَمْ يَتَّخِذْ وَلَدًا
+
+(And say: "All the praises and thanks be to Allah, Who has not begotten a son...") that the Jews and Christians said that Allah has taken a son; the Arabs said, "At Your service, You have no partner except the partner You have, and You possess him and whatever he owns;" and the Sabians and Magians said, "If it were not for the supporters of Allah, He would be weak." Then Allah revealed this Ayah:
+
+وَقُلِ الْحَمْدُ لِلَّهِ الَّذِي لَمْ يَتَّخِذْ وَلَدًا وَلَمْ يَكُن لَّهُ شَرِيكٌ فِي الْمُلْكِ وَلَمْ يَكُن لَّهُ وَلِيٌّ مِّنَ الذُّلِّ ۖ وَكَبِّرْهُ تَكْبِيرًا
+
+(And say: "All the praises and thanks be to Allah, Who has not begotten a son, and Who has no partner in (His) dominion, nor is He low to have a supporter. And magnify Him with all magnificence.")
+
+End of Tafsir Surah Subhan [Surat Al-Isra']. And to Allah be the praise and blessings.
 
 ### al-Tabari (Arabic)
 
-يقول تعالى ذكره لنبيّه: قل يا محمد لمشركي قومك المنكرين دعاء الرحمن ( ادْعُوا اللَّهَ ) أيها القوم ( أَوِ ادْعُوا الرَّحْمَنَ أَيًّا مَا تَدْعُوا فَلَهُ الأسْمَاءُ الْحُسْنَى ) بأيّ أسمائه جلّ جلاله تدعون ربكم، فإنما تدعون واحدا، وله الأسماء الحُسنى ، وإنما قيل ذلك له صلى الله عليه وسلم، لأن المشركين فيما ذكر سمعوا النبيّ صلى الله عليه وسلم يدعو ربه: يا ربنا الله، ويا ربنا الرحمن، فظنوا أنه يدعو إلهين، فأنـزل الله على نبيّه عليه الصلاة والسلام هذه الآية احتجاجا لنبيّه عليهم.ذكر الرواية بما ذك...
+القول في تأويل قوله تعالى: ﴿قُلِ ادْعُوا اللَّهَ أَوِ ادْعُوا الرَّحْمَنَ أَيًّا مَا تَدْعُوا فَلَهُ الأسْمَاءُ الْحُسْنَى وَلا تَجْهَرْ بِصَلاتِكَ وَلا تُخَافِتْ بِهَا وَابْتَغِ بَيْنَ ذَلِكَ سَبِيلا (١١٠) ﴾
+
+يقول تعالى ذكره لنبيّه: قل يا محمد لمشركي قومك المنكرين دعاء الرحمن ﴿ادْعُوا اللَّهَ﴾ أيها القوم ﴿أَوِ ادْعُوا الرَّحْمَنَ أَيًّا مَا تَدْعُوا فَلَهُ الأسْمَاءُ الْحُسْنَى﴾ بأيّ أسمائه جلّ جلاله تدعون ربكم، فإنما تدعون واحدا، وله الأسماء الحُسنى، وإنما قيل ذلك له ﷺ، لأن المشركين فيما ذكر سمعوا النبيّ ﷺ يدعو ربه: يا ربنا الله، ويا ربنا الرحمن، فظنوا أنه يدعو إلهين، فأنزل الله على نبيّه عليه الصلاة والسلام هذه الآية احتجاجا لنبيّه عليهم.
+
+ذكر الرواية بما ذكرنا: حدثنا القاسم، قال: ثنا الحسين، قال: ثني محمد بن كثير، عن عبد الله بن واقد، عن أبي الجوزاء عن ابن عباس. قال: كان النبيّ ﷺ ساجدا يدعو: يا رَحْمَنُ يا رَحيمُ، فقال المشركون: هذا يزعم أنه يدعو واحدا، وهو يدعو مثنى مثنى، فأنزل الله تعالى ﴿قُلِ ادْعُوا اللَّهَ أَوِ ادْعُوا الرَّحْمَنَ أَيًّا مَا تَدْعُوا فَلَهُ الأسْمَاءُ الْحُسْنَى﴾ .... الآية.
+
+⁕ حدثنا القاسم، قال: ثنا الحسين، قال: ثني عيسى؛ عن الأوزاعي، عن مكحول، أن النبيّ ﷺ "كان يتهجَّد بمكة ذات ليلة، يقول في سجوده: يا رَحْمَنُ يا رَحيمُ، فسمعه رجل من المشركين، فلما أصبح قال لأصحابه: انظروا ما قال ابن أبي كبشة، يدعو الليلة الرحمن الذي باليمامة، وكان باليمامة رجل يقال له الرحمن: فنزلت ﴿قُلِ ادْعُوا اللَّهَ أَوِ ادْعُوا الرَّحْمَنَ أَيًّا مَا تَدْعُوا فَلَهُ الأسْمَاءُ الْحُسْنَى﴾ ."
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله ﴿قُلِ ادْعُوا اللَّهَ أَوِ ادْعُوا الرَّحْمَنَ أَيًّا مَا تَدْعُوا فَلَهُ الأسْمَاءُ الْحُسْنَى﴾ . [[كذا في الأصول، ولم يذكر المتن اتكالا على ما تقدم، وقد تكرر ذلك منه.]]
+
+⁕ حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى، وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء، جميعا عن ابن أبي نجيح، عن مجاهد، قوله ﴿أَيًّا مَا تَدْعُوا﴾ بشيء من أسمائه.
+
+⁕ حدثني موسى بن سهل، قال: ثنا محمد بن بكار البصري، قال: ثني حماد بن عيسى؛ عن عبيد بن الطفيل الجهني، قال: ثنا ابن جريج، عن عبد العزيز بن عمر بن عبد العزيز، عن مكحول، عن عَرَّاك بن مالك، عن أبي هريرة، عن النبيّ ﷺ قال: "إنَّ للهِ تسْعَةً وَتسْعينَ اسْما كُلُّهُنَّ في القُرآنِ، مَنْ أحْصَاهنّ دَخَل الجَنَّة".
+
+قال أبو جعفر: ولدخول "ما" في قوله ﴿أَيًّا مَا تَدْعُوا﴾ وجهان: أحدهما أن تكون صلة، كما قيل: ﴿عَمَّا قَلِيلٍ لَيُصْبِحُنَّ نَادِمِينَ﴾ والآخر أن تكون في معنى إن: كررت لما اختلف لفظاهما، كما قيل: ما إن رأيت كالليلة ليلة.
+
+* *
+
+وقوله ﴿وَلا تَجْهَرْ بِصَلاتِكَ وَلا تُخَافِتْ بِهَا وَابْتَغِ بَيْنَ ذَلِكَ سَبِيلا﴾
+
+اختلف أهل التأويل في الصلاة، فقال بعضهم: عنى بذلك: ولا تجهر بدعائك، ولا تخافت به، ولكن بين ذلك، وقالوا: عنى بالصلاة في هذا الموضع: الدعاء.
+
+ذكر من قال ذلك:
+
+⁕ حدثني يحيى بن عيسى الدامغاني، قال: ثنا ابن المبارك، عن هشام بن عروة، عن أبيه، عن عائشة، في قوله ﴿وَلا تَجْهَرْ بِصَلاتِكَ وَلا تُخَافِتْ بِهَا﴾ قالت: في الدعاء.
+
+⁕ حدثنا بشار، قال: ثنا هشام بن عروة، عن أبيه، عن عائشة، قالت: نزلت في الدعاء.
+
+⁕ حدثنا ابن بشار، قال: ثنا عبد الرحمن، قال: ثنا سفيان، عن هشام بن عروة، عن أبيه، عن عائشة مثله.
+
+⁕ حدثنا الحسن بن عرفة، قال: ثنا عباد بن العوّام، عن أشعث بن سوار، عن عكرمة، عن ابن عباس في قول الله تعالى ﴿وَلا تَجْهَرْ بِصَلاتِكَ وَلا تُخَافِتْ بِهَا﴾ قال: كانوا يجهرون بالدعاء، فلما نزلت هذه الآية أُمروا أن لا يجهروا، ولا يخافتوا.
+
+⁕ حدثنا ابن بشار، قال: ثنا عبد الرحمن، قال: ثنا حماد، عن عمرو بن مالك البكري، عن أبي الجوزاء عن عائشة، قالت: نزلت في الدعاء.
+
+⁕ حدثني مطر بن محمد الضبي، قال: ثنا عبد الله بن داود، قال: ثنا شريك، عن زياد بن فياض، عن أبي عياض، في قوله ﴿وَلا تَجْهَرْ بِصَلاتِكَ وَلا تُخَافِتْ بِهَا﴾ قال: الدعاء.
+
+⁕ حدثنا ابن بشار، قال: ثنا عبد الرحمن، قال: ثنا سفيان، عن إبراهيم الهَجري، عن أبي عياض ﴿وَلا تَجْهَرْ بِصَلاتِكَ وَلا تُخَافِتْ بِهَا﴾ قال: نزلت في الدعاء.
+
+⁕ حدثنا ابن بشار، قال: ثنا عبد الرحمن، قال: ثنا شريك، عن زياد بن فياض، عن أبي عياض مثله.
+
+⁕ حدثنا ابن بشار، قال: ثنا عبد الرحمن، قال: ثنا سفيان عمن ذكره عن عطاء ﴿وَلا تَجْهَرْ بِصَلاتِكَ وَلا تُخَافِتْ بِهَا﴾ قال: نزلت في الدعاء.
+
+⁕ حدثنا ابن المثنى، قال: ثنا محمد بن جعفر، قال: ثنا شعبة، عن الحكم، عن مجاهد في الآية ﴿وَلا تَجْهَرْ بِصَلاتِكَ وَلا تُخَافِتْ بِهَا﴾ قال: في الدعاء.
+
+⁕ حدثنا ابن بشار، قال: ثنا عبد الرحمن، قال: ثنا شعبة، عن الحكم، عن مجاهد، قال: نزلت في الدعاء.
+
+⁕ حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى؛ وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء، جميعا عن ابن أبي نجيح، عن مجاهد، قوله ﴿وَلا تَجْهَرْ بِصَلاتِكَ وَلا تُخَافِتْ بِهَا﴾ في الدعاء والمسألة.
+
+⁕ حدثنا القاسم، قال: ثنا الحسين، قال: ثني حجاج، عن ابن جريج، عن مجاهد، مثله.
+
+⁕ حدثنا ابن حميد، قال: ثنا جرير، عن ليث، عن مجاهد، قال: نزلت في الدعاء والمسألة.
+
+⁕ حدثنا ابن بشار، قال: ثنا يحيى، قال: ثني سفيان، قال: ثني قيس بن مسلم، عن سعيد بن جبير في قوله ﴿وَلا تَجْهَرْ بِصَلاتِكَ وَلا تُخَافِتْ بِهَا﴾ قال: في الدعاء.
+
+⁕ حدثنا ابن بشار، قال: ثنا أبو أحمد الزبيري، قال: ثنا سفيان، عن ابن عياش العامري، عن عبد الله بن شداد قال: كان أعراب إذا سلم النبيّ ﷺ قالوا: اللهم ارزقنا إبلا وولدا، قال: فنزلت هذه الآية ﴿وَلا تَجْهَرْ بِصَلاتِكَ وَلا تُخَافِتْ بِهَا﴾ .
+
+⁕ حدثنا الحسن بن يحيى، قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر، عن هشام بن عروة، عن أبيه، في قوله ﴿وَلا تَجْهَرْ بِصَلاتِكَ وَلا تُخَافِتْ بِهَا﴾ قال: في الدعاء.
+
+⁕ حدثني ابن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس، ﴿وَلا تَجْهَرْ بِصَلاتِكَ﴾ .... الآية، قال: في الدعاء والمسألة.
+
+⁕ حدثنا القاسم، قال: ثنا الحسين، قال: ثني عيسى؛ عن الأوزاعي، عن مكحول ﴿وَلا تَجْهَرْ بِصَلاتِكَ وَلا تُخَافِتْ بِهَا﴾ قال: ذلك في الدعاء.
+
+وقال آخرون: عَنَى بذلك الصلاة.
+
+واختلف قائلو هذه المقالة في المعنى الذي عَنَى بالنهي عن الجهر به، فقال بعضهم: الذي نهى عن الجهر به منها القراءة.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا أبو كريب، قال: ثنا هشيم، قال: أخبرنا أبو بشر، عن سعيد بن جبير، عن ابن عباس، قال: نزلت هذه الآية ورسول الله ﷺ متوار ﴿وَلا تَجْهَرْ بِصَلاتِكَ وَلا تُخَافِتْ بِهَا﴾ قال: كان إذا صلى بأصحابه رفع صوته بالقرآن، فإذا سمع ذلك المشركون سبُّوا القرآن ومن أنزله، ومن جاء به، قال: فقال الله لنبيّه ﷺ (وَلا تَجْهَرْ بِصَلاتِكَ) فيسمع المشركون ﴿وَلا تُخَافِتْ بِهَا﴾ عن أصحابك، فلا تُسْمِعهم القرآن حتى يأخذوا عنك.
+
+⁕ حدثنا أبو كريب، قال: ثنا عثمان بن سعيد، قال: ثنا بشر بن عمارة، عن أبي رَوْق، عن الضحاك، عن ابن عباس، في قوله ﴿وَلا تَجْهَرْ بِصَلاتِكَ وَلا تُخَافِتْ بِهَا﴾ قال: كان رسول الله ﷺ، إذا جهر بالصلاة بالمسلمين بالقرآن، شقّ ذلك على المشركين إذا سمعوه، فيُؤْذون رسول الله ﷺ بالشتم والعيب به، وذلك بمكة، فأنزل الله: يا محمد ﴿لا تَجْهَرْ بِصَلاتِكَ﴾ يقول: لا تُعْلِن بالقراءة بالقرآن إعلانا شديدا يسمعه المشركون فيؤذونك، ولا تخافت بالقراءة بالقرآن: يقول: لا تخفض صوتَك حتى لا تُسْمِع أذنيك ﴿وَابْتَغِ بَيْنَ ذَلِكَ سَبِيلا﴾ يقول: اطلب بين الإعلان والجهر وبين التخافت والخفض طريقا، لا جهرا شديدا، ولا خفضا لا تُسْمِع أذنيك، فذلك القدر، فلما هاجر رسول الله ﷺ إلى المدينة سقط هذا كله، يفعل الآن أيّ ذلك شاء.
+
+⁕ حُدثت عن الحسين، قال: سمعت أبا معاذ يقول: ثنا عبيد، قال: سمعت الضحاك يقول في قوله ﴿وَلا تَجْهَرْ بِصَلاتِكَ وَلا تُخَافِتْ بِهَا﴾ .... الآية، هذا ورسول الله ﷺ بمكة كان إذا صلى بأصحابه، فرفع صوته بالقراءة أسمع المشركين، فآذوه، فأمره الله أن لا يرفع صوته، فيسمع عدوّه، ولا يخافت فلا يُسْمِع من خلفه من المسلمين، فأمره الله أن يبتغي بين ذلك سبيلا.
+
+⁕ حدثنا ابن وكيع، قال: ثنا جرير، عن الأعمش، عن جعفر بن إياس، عن سعيد بن جبير، عن ابن عباس، قال: كان النبيّ ﷺ يرفع صوته بالقرآن، فكان المشركون إذا سمعوا صوته سبُّوا القرآن، ومن جاء به، فكان النبيّ ﷺ يخفي القرآن فما يسمعه أصحابه، فأنزل الله ﴿وَلا تَجْهَرْ بِصَلاتِكَ وَلا تُخَافِتْ بِهَا وَابْتَغِ بَيْنَ ذَلِكَ سَبِيلا﴾ .
+
+⁕ حدثنا محمد بن عليّ بن الحسن بن شقيق، قال: سمعت أبي، يقول: أخبرنا أبو حمزة عن الأعمش، عن جعفر بن إياس، عن سعيد بن جبير، عن ابن عباس ﴿وَلا تَجْهَرْ بِصَلاتِكَ وَلا تُخَافِتْ بِهَا﴾ قال: كان رسول الله ﷺ إذا رفع صوته وَسمع المشركون، سبُّوا القرآن، ومن جاء به، وإذا خفض لم يسمع أصحابه، قال الله ﴿وَابْتَغِ بَيْنَ ذَلِكَ سَبِيلا﴾ .
+
+⁕ حدثنا أبو كريب، قال: ثنا يونس: ثنا محمد بن إسحاق، قال: ثني داود بن الحُصَين، عن عكرمة، عن ابن عباس، قال: كان رسول الله ﷺ إذا جهر بالقرآن وهو يصلي تفرّقوا، وأبَوا أن يستمعوا منه، فكان الرجل إذا أراد أن يستمع من رسول الله ﷺ بعض ما يتلو، وهو يصلي، استرق السمع دونهم فرقا منهم، فإن رأى أنهم قد عرفوا أنه يستمع، ذهب خشية أذاهم، فلم يستمع، فإن خفض رسول الله ﷺ صوته، لم يستمع الذين يستمعون من قراءته شيئا، فأنزل الله عليه ﴿وَلا تَجْهَرْ بِصَلاتِكَ﴾ فيتفرقوا عنك ﴿وَلا تُخَافِتْ بِهَا﴾ فلا تُسْمِع من أراد أن يسمعها، ممن يسترق ذلك دونهم، لعله يرعوي إلى بعض ما يسمع، فينتفع به، ﴿وَابْتَغِ بَيْنَ ذَلِكَ سَبِيلا﴾ .
+
+⁕ حدثنا ابن حميد، قال: ثنا يعقوب، عن جعفر، عن سعيد، قال: كان النبيّ ﷺ يجهر بقراءة القرآن في المسجد الحرام، فقالت قريش: لا تجهر بالقراءة فتؤذي آلهتنا، فنهجو ربك، فأنزل الله ﴿وَلا تَجْهَرْ بِصَلاتِكَ وَلا تُخَافِتْ بِهَا﴾ .... الآية.
+
+⁕ حدثني يعقوب، قال: ثنا هشيم، قال: أخبرنا أبو بشر، عن سعيد بن جبير، عن ابن عبَّاس، في قوله ﴿وَلا تَجْهَرْ بِصَلاتِكَ وَلا تُخَافِتْ بِهَا﴾ قال: نزلت على رسول الله ﷺ وهو مختف بمكة، فكان إذا صلى بأصحابه رفع الصوت بالقرآن، فإذا سمعه المشركون سبوا القرآن ومن أنزله، ومن جاء به، فقال الله لنبيّه ﴿وَلا تَجْهَرْ بِصَلاتِكَ﴾ : أي بقراءتك، فيسمع المشركون، فيسبُّوا القرآن ﴿وَلا تُخَافِتْ بِهَا﴾ عن أصحابك، فلا تسمعهم ﴿وَابْتَغِ بَيْنَ ذَلِكَ سَبِيلا﴾ .
+
+⁕ حدثنا ابن بشار، قال: ثنا أبو أحمد، قال: ثنا سفيان، عن الأعمش، عن جعفر بن إياس، عن سعيد بن جبير، في قوله ﴿وَلا تَجْهَرْ بِصَلاتِكَ وَلا تُخَافِتْ بِهَا﴾ قال: في القراءة.
+
+⁕ حدثنا ابن بشار، قال: ثنا محمد بن جعفر، قال: ثنا سعيد، عن أبي بشر، عن سعيد بن جبير، في هذه الآية ﴿وَلا تَجْهَرْ بِصَلاتِكَ وَلا تُخَافِتْ بِهَا﴾ قال: كان النبيّ ﷺ إذا رفع صوته أعجب ذلك أصحابه، وإذا سمع ذلك المشركون سبُّوه، فنزلت هذه الآية.
+
+⁕ حدثني يعقوب، قال: ثنا ابن علية، عن سلمة، عن علقمة، عن محمد بن سيرين، قال: نبئت أن أبا بكر كان إذا صلى فقرأ خفض صوته، وأن عمر كان يرفع صوته، قال: فقيل لأبي بكر: لم تصنع هذا؟ فقال: أناجي ربي، وقد علم حاجتي، قيل: أحسنت، وقيل لعمر: لم تصنع هذا؟ قال: أطرد الشيطان، وأوقظ الوسنان، قيل: أحسنت، فلما نزلت ﴿وَلا تَجْهَرْ بِصَلاتِكَ وَلا تُخَافِتْ بِهَا وَابْتَغِ بَيْنَ ذَلِكَ سَبِيلا﴾ قيل لأبي بكر: ارفع شيئا، وقيل لعمر: اخفض شيئا.
+
+⁕ حدثنا ابن حميد، قال: ثنا يحيى بن واضح، قال: ثنا حسان بن إبراهيم، عن إبراهيم الصائغ، عن عطاء، في قوله ﴿وَلا تَجْهَرْ بِصَلاتِكَ وَلا تُخَافِتْ بِهَا﴾ قال: يقول ناس إنها في الصلاة، ويقول آخرون إنها في الدعاء.
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة ﴿وَلا تَجْهَرْ بِصَلاتِكَ وَلا تُخَافِتْ بِهَا وَابْتَغِ بَيْنَ ذَلِكَ سَبِيلا﴾ وكان نبيّ الله وهو بمكة، إذا سمع المشركون صوته رموه بكلّ خبث، فأمره الله أن يغضّ من صوته، وأن يجعل صلاته بينه وبين ربه، وكان يقال: ما سمعته أذنك فليس بمخافتة.
+
+⁕ حدثنا الحسن بن يحيى، قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر، عن قتادة، في قوله ﴿وَلا تَجْهَرْ بِصَلاتِكَ وَلا تُخَافِتْ بِهَا﴾ قال: "كان النبيّ ﷺ يرفع صوته بالصلاة، فيُرمي بالخبث، فقال: لا ترْفعْ صَوْتكَ فتُؤْذَى وَلا تُخافِتْ بِها، وَابْتَغِ بين ذلك سَبِيلا.
+
+وقال آخرون: إنما عُنِي بذلك: ولا تجهر بالتشهد في صلاتك، ولا تخافت بها.
+
+ذكر من قال ذلك:
+
+⁕ حدثني أبو السائب، قال: ثنا حفص بن غياث، عن هشام بن عُرْوة، عن أبيه، عن عائشة، قالت: نزلت هذه الآية في التشهد ﴿وَلا تَجْهَرْ بِصَلاتِكَ وَلا تُخَافِتْ بِهَا﴾ .
+
+⁕ حدثني أبو السائب، قال: ثنا حفص، عن أشعث، عن ابن سيرين مثله. وزاد فيه: وكان الأعرابيّ يجهر فيقول: التحيات لله، والصلوات لله، يرفع فيها صوته، فنزلت ﴿وَلا تَجْهَرْ بِصَلاتِكَ﴾ .
+
+وقال آخرون: بل كان رسول الله ﷺ يصلي بمكة جِهارا، فأمر بإخفائها.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا ابن حميد، قال: ثنا يحيى بن واضح، قال: ثنا الحسين، عن يزيد، عن عكرمة والحسن البصري قالا قال في بني إسرائيل ﴿وَلا تَجْهَرْ بِصَلاتِكَ وَلا تُخَافِتْ بِهَا وَابْتَغِ بَيْنَ ذَلِكَ سَبِيلا﴾ وكان رسول الله ﷺ إذا صلى يجهر بصلاته، فآذى ذلك المشركين بمكة، حتى أخفى صلاته هو وأصحابه، فلذلك قال ﴿وَلا تَجْهَرْ بِصَلاتِكَ وَلا تُخَافِتْ بِهَا وَابْتَغِ بَيْنَ ذَلِكَ سَبِيلا﴾ وقال في الأعراف ﴿وَاذْكُرْ رَبَّكَ فِي نَفْسِكَ تَضَرُّعًا وَخِيفَةً وَدُونَ الْجَهْرِ مِنَ الْقَوْلِ بِالْغُدُوِّ وَالآصَالِ وَلا تَكُنْ مِنَ الْغَافِلِينَ﴾ .
+
+وقال آخرون: معنى ذلك: ولا تجهر بصلاتك تحسنها من إتيانها في العلانية، ولا تخافت بها: تسيئها في السريرة.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، عن الحسن أنه كان يقول ﴿وَلا تَجْهَرْ بِصَلاتِكَ وَلا تُخَافِتْ بِهَا﴾ : أي لا تراء بها عَلانيَة، ولا تخفها سرًّا ﴿وَابْتَغِ بَيْنَ ذَلِكَ سَبِيلا﴾ .
+
+⁕ حدثنا الحسن، قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر، قال: كان الحسن يقول في قوله ﴿وَلا تَجْهَرْ بِصَلاتِكَ وَلا تُخَافِتْ بِهَا﴾ قال: ل
+
+[TRUNCATED at 12000 chars — 2800 more. Consult the source directly before relying on anything near the cut.]
 
 ### al-Muyassar (Arabic)
 
-قل -أيها الرسول- لمشركي قومك الذين أنكروا عليك الدعاء بقولك: يا الله يا رحمن، ادعوا الله، أو ادعوا الرحمن، فبأي أسمائه دعوتموه فإنكم تدعون ربًا واحدًا؛ لأن أسماءه كلها حسنى. ولا تجهر بالقراءة في صلاتك، فيسمعك المشركون، ولا تُسِرَّ بها فلا يسمعك أصحابك، وكن وسطًا بين الجهر والهمس.
+قل -أيها الرسول- لمشركي قومك الذين أنكروا عليك الدعاء بقولك: يا ألله يا رحمن، ادعوا الله، أو ادعوا الرحمن، فبأي أسمائه دعوتموه فإنكم تدعون ربًّا واحدًا؛ لأن أسماءه كلها حسنى. ولا تجهر بالقراءة في صلاتك، فيسمعك المشركون، ولا تُسِرَّ بها فلا يسمعك أصحابك، وكن وسطًا بين الجهر والهمس.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+وكانَ ﷺ يَقُول: "يا اللَّه يا رَحْمَن" فَقالُوا: يَنْهانا أنْ نَعْبُد إلَهَيْنِ وهُوَ يَدْعُو إلَهًا آخَرَ مَعَهُ فَنَزَلَ ﴿قُلْ﴾ لَهُمْ ﴿اُدْعُوا اللَّه أوْ اُدْعُوا الرَّحْمَن﴾ أيْ سَمُّوهُ بِأَيِّهِما أوْ نادُوهُ بِأَنْ تَقُولُوا: يا اللَّه يا رَحْمَن ﴿أيًّا﴾ شَرْطِيَّة ﴿ما﴾ زائِدَة أيْ أيّ هَذَيْنِ ﴿تَدْعُوا﴾ فَهُوَ حَسَن دَلَّ عَلى هَذا ﴿فَلَهُ﴾ أيْ لِمُسَمّاهُما ﴿الأَسْماء الحُسْنى﴾ وهَذانِ مِنها فَإنَّها كَما فِي الحَدِيث "اللَّه الَّذِي لا إلَه إلّا هُوَ الرَّحْمَن الرَّحِيم المَلِك القُدُّوس السَّلام المُؤْمِن المُهَيْمِن العَزِيز الجَبّار المُتَكَبِّر الخالِق البارِئ المُصَوِّر الغَفّار القَهّار الوَهّاب الرَّزّاق الفَتّاح العَلِيم القابِض الباسِط الخافِض الرّافِع المُعِزّ المُذِلّ السَّمِيع البَصِير الحَكَم العَدْل اللَّطِيف الخَبِير الحَلِيم العَظِيم الغَفُور الشَّكُور العَلِيّ الكَبِير الحَفِيظ المَقِيت الحَسِيب الجَلِيل الكَرِيم الرَّقِيب المُجِيب الواسِع الحَكِيم الوَدُود المَجِيد الباعِث الشَّهِيد الحَقّ الوَكِيل القَوِيّ المَتِين الوَلِيّ الحَمِيد المُحْصِي المُبْدِئ المُعِيد المُحْيِي المُمِيت الحَيّ القَيُّوم الواجِد الماجِد الواحِد الأَحَد الصَّمَد القادِر المُقْتَدِر المُقَدِّم المُؤَخِّر الأَوَّل الآخِر الظّاهِر الباطِن الوالِي المُتَعالِي البَرّ التَّوّاب المُنْتَقِم العَفُوّ الرَّءُوف مالِك المُلْك ذُو الجَلال والإكْرام المُقْسِط الجامِع الغَنِيّ المُغْنِي المانِع الضّارّ النّافِع النُّور الهادِي البَدِيع الباقِي الوارِث الرَّشِيد الصَّبُور" رَواهُ التِّرْمِذِيّ ﴿ولا تَجْهَر بِصَلاتِك﴾ بِقِراءَتِك بِها فَيَسْمَعك المُشْرِكُونَ فَيَسُبُّوك ويَسُبُّوا القُرْآن ومَن أنْزَلَهُ ﴿ولا تُخافِت﴾ تُسِرّ ﴿بِها﴾ لِيَنْتَفِع أصْحابك ﴿وابْتَغِ﴾ اقْصِدْ ﴿بَيْن ذَلِكَ﴾ الجَهْر والمُخافَتَة ﴿سَبِيلًا﴾ طَرِيقًا وسَطًا
 
 ---
 
@@ -103,24 +760,125 @@ Allah says:
 
 ### Ibn Kathir (English)
 
+Say: "Invoke Allah or invoke Ar-Rahman (the Most Gracious), by whatever name you invoke Him (it is the same), for to Him belong the Best Names. And offer your Salah (prayer) neither aloud nor in a low voice, but follow a way between (110)And say: "All the praises and thanks be to Allah, Who has not begotten a son, and Who has no partner in (His) dominion, nor is He low to have a supporter. And magnify Him with all magnificence. (111)
+
 To Allah belong the Most Beautiful Names
+
 Allah says:
-قُلْ
+
+قل
+
 (Say) O Muhammad, to these idolators who deny that Allah possesses the attribute of mercy and refuse to call Him Ar-Rahman,
-ادْعُواْ اللَّهَ أَوِ ادْعُواْ الرَّحْمَـنَ أَيًّا مَّا تَدْعُواْ فَلَهُ الاٌّسْمَآءَ الْحُسْنَى
-("Invoke Allah or invoke Ar-Rahman (the Most Gracious), by whatever name you invoke Him (it is the same), for to Him belong the Best Names.) meaning, there is no difference between calling on Him as Allah or calling on...
+
+ادْعُوا اللَّهَ أَوِ ادْعُوا الرَّحْمَٰنَ ۖ أَيًّا مَّا تَدْعُوا فَلَهُ الْأَسْمَاءُ الْحُسْنَىٰ
+
+("Invoke Allah or invoke Ar-Rahman (the Most Gracious), by whatever name you invoke Him (it is the same), for to Him belong the Best Names.) meaning, there is no difference between calling on Him as Allah or calling on Him as Ar-Rahman, because He has the Most Beautiful Names, as He says:
+
+هُوَ اللَّهُ الَّذِي لَا إِلَٰهَ إِلَّا هُوَ ۖ عَالِمُ الْغَيْبِ وَالشَّهَادَةِ ۖ هُوَ الرَّحْمَٰنُ الرَّحِيمُ
+
+(He is Allah, beside Whom none has the right to be worshipped but He the All-Knower of the unseen and the seen. He is the Most Gracious, the Most Merciful.)(59:22) Until His saying;
+
+لَهُ الْأَسْمَاءُ الْحُسْنَىٰ ۚ يُسَبِّحُ لَهُ مَا فِي السَّمَاوَاتِ وَالْأَرْضِ
+
+(To Him belong the Best Names. All that is in the heavens and the earth glorify Him.)[59:24] Makhul reported that one of the idolators heard the Prophet ﷺ saying when he was prostrating: "O Most Gracious, O Most Merciful." The idolator said, he claims to pray to One, but he is praying to two! Then Allah revealed this Ayah. This was also narrated from Ibn 'Abbas, and by Ibn Jarir.
+
+The Command to recite neither loudly nor softly
+
+وَلَا تَجْهَرْ بِصَلَاتِكَ
+
+(And offer your Salah neither aloud) Imam Ahmad reported that Ibn 'Abbas said: "This Ayah was revealed when the Messenger of Allah ﷺ was preaching underground in Makkah."
+
+وَلَا تَجْهَرْ بِصَلَاتِكَ وَلَا تُخَافِتْ بِهَا
+
+(And offer your Salah neither aloud nor in a low voice,) Ibn 'Abbas said: "When he prayed with his Companions, he would recite Qur'an loudly, and when the idolators heard that, they insulted the Qur'an, and the One Who had revealed it and the one who had brought it. So Allah said to His Prophet ﷺ:
+
+وَلَا تَجْهَرْ بِصَلَاتِكَ
+
+(And offer your Salah (prayer) neither aloud) means, do not recite it aloud, lest the idolators hear you and insult the Qur'an,
+
+وَلَا تُخَافِتْ بِهَا
+
+(nor in a low voice,) means, nor recite it so quietly that your companions cannot hear the Qur'an and learn it from you.
+
+وَابْتَغِ بَيْنَ ذَٰلِكَ سَبِيلًا
+
+(but follow a way between.)" This was also reported in the Two Sahihs. Ad-Dahhak also narrated something similar from Ibn 'Abbas, and added: "When he migrated to Al-Madinah, this no longer applied, and he recited as he wished."
+
+Muhammad bin Ishaq said that Ibn 'Abbas said, "When the Messenger of Allah ﷺ recited Qur'an quietly while he was praying, the (idolators) would disperse and refuse to listen to him; if one of them wanted to hear some of what he was reciting in his prayer, he would try to listen without anyone seeing him, because he was afraid of them. If he realized that anybody knew he was listening, he would go away lest they harm him, so he would stop listening. If the Prophet ﷺ lowered his voice, those who wanted to listen to his recitation could not hear anything, so Allah revealed,
+
+وَلَا تَجْهَرْ بِصَلَاتِكَ
+
+(And offer your Salah neither aloud) meaning, do not recite aloud, lest those who want to listen disperse for fear of attracting unwelcome attention,
+
+وَلَا تُخَافِتْ بِهَا
+
+(nor in a low voice,) but do not make your voice so soft that the one who is trying to listen without being seen cannot hear anything at all. Perhaps he will pay attention to some of what he hears and benefit from it.
+
+وَابْتَغِ بَيْنَ ذَٰلِكَ سَبِيلًا
+
+(but follow a way between.)" This was the view of 'Ikrimah, Al-Hasan Al-Basri and Qatadah that this Ayah was revealed concerning recitation in prayer. It was narrated from Ibn Mas'ud: "Do not make it so soft that no one can hear it except yourself."
+
+Declaration of Tawhid
+
+وَقُلِ الْحَمْدُ لِلَّهِ الَّذِي لَمْ يَتَّخِذْ وَلَدًا
+
+(And say: "All the praises and thanks be to Allah, Who has not begotten a son...") because Allah has stated that the Most Beautiful Names belong to Him, and has declared Himself to be above having any faults or defects.
+
+وَقُلِ الْحَمْدُ لِلَّهِ الَّذِي لَمْ يَتَّخِذْ وَلَدًا وَلَمْ يَكُن لَّهُ شَرِيكٌ فِي الْمُلْكِ
+
+(And say: "All the praises and thanks be to Allah, Who has not begotten a son, and Who has no partner in (His) dominion...") indeed, He is Allah, (the) One, the Self-Sufficient Master, Who begets not, nor was He begotten, and there is none co-equal or comparable unto Him.
+
+وَلَمْ يَكُن لَّهُ وَلِيٌّ مِّنَ الذُّلِّ
+
+(nor He is low to have a supporter.) means, He is not so humble or weak that He needs to have a helper or supporter or adviser, rather He Alone, with no partner or associate, may He be exalted, is the Creator of all things and is the One Who is running and controlling them by His will, with no partner or associate.
+
+وَلَمْ يَكُن لَّهُ وَلِيٌّ مِّنَ الذُّلِّ
+
+(nor He is low to have a supporter).) Mujahid said: He does not form an alliance with anyone, nor does He seek the support or help of anyone.
+
+وَكَبِّرْهُ تَكْبِيرًا
+
+(And magnify Him with all magnificence.) means, glorify and extol Him far above whatever the transgressors and aggressors say. Ibn Jarir recorded that Al-Qurazi used to say about this Ayah,
+
+وَقُلِ الْحَمْدُ لِلَّهِ الَّذِي لَمْ يَتَّخِذْ وَلَدًا
+
+(And say: "All the praises and thanks be to Allah, Who has not begotten a son...") that the Jews and Christians said that Allah has taken a son; the Arabs said, "At Your service, You have no partner except the partner You have, and You possess him and whatever he owns;" and the Sabians and Magians said, "If it were not for the supporters of Allah, He would be weak." Then Allah revealed this Ayah:
+
+وَقُلِ الْحَمْدُ لِلَّهِ الَّذِي لَمْ يَتَّخِذْ وَلَدًا وَلَمْ يَكُن لَّهُ شَرِيكٌ فِي الْمُلْكِ وَلَمْ يَكُن لَّهُ وَلِيٌّ مِّنَ الذُّلِّ ۖ وَكَبِّرْهُ تَكْبِيرًا
+
+(And say: "All the praises and thanks be to Allah, Who has not begotten a son, and Who has no partner in (His) dominion, nor is He low to have a supporter. And magnify Him with all magnificence.")
+
+End of Tafsir Surah Subhan [Surat Al-Isra']. And to Allah be the praise and blessings.
 
 ### al-Tabari (Arabic)
 
-يقول تعالى ذكره لنبيّه محمد صلى الله عليه وسلم ( وَقُلْ) يا محمد ( الْحَمْدُ لِلَّهِ الَّذِي لَمْ يَتَّخِذْ وَلَدًا ) فيكون مربوبا لا ربا، لأن ربّ الأرباب لا ينبغي أن يكون له ولد ( وَلَمْ يَكُنْ لَهُ شَرِيكٌ فِي الْمُلْكِ ) فيكون عاجزا ذا حاجة إلى معونة غيره ضعيفا، ولا يكون إلها من يكون محتاجا إلى معين على ما حاول، ولم يكن منفردا بالمُلك والسلطان ( وَلَمْ يَكُنْ لَهُ وَلِيٌّ مِنَ الذُّلِّ ) يقول: ولم يكن له حليف حالفه من الذّل الذي به، لأن من كان ذا حاجة إلى نصرة غيره، فذليل مهين، ولا يكون من...
+القول في تأويل قوله تعالى: ﴿وَقُلِ الْحَمْدُ لِلَّهِ الَّذِي لَمْ يَتَّخِذْ وَلَدًا وَلَمْ يَكُنْ لَهُ شَرِيكٌ فِي الْمُلْكِ وَلَمْ يَكُنْ لَهُ وَلِيٌّ مِنَ الذُّلِّ وَكَبِّرْهُ تَكْبِيرًا (١١١) ﴾
+
+يقول تعالى ذكره لنبيّه محمد ﷺ ﴿وَقُلْ﴾ يا محمد ﴿الْحَمْدُ لِلَّهِ الَّذِي لَمْ يَتَّخِذْ وَلَدًا﴾ فيكون مربوبا لا ربا، لأن ربّ الأرباب لا ينبغي أن يكون له ولد ﴿وَلَمْ يَكُنْ لَهُ شَرِيكٌ فِي الْمُلْكِ﴾ فيكون عاجزا ذا حاجة إلى معونة غيره ضعيفا، ولا يكون إلها من يكون محتاجا إلى معين على ما حاول، ولم يكن منفردا بالمُلك والسلطان ﴿وَلَمْ يَكُنْ لَهُ وَلِيٌّ مِنَ الذُّلِّ﴾ يقول: ولم يكن له حليف حالفه من الذّل الذي به، لأن من كان ذا حاجة إلى نصرة غيره، فذليل مهين، ولا يكون من كان ذليلا مهينا يحتاج إلى ناصر إلها يطاع (وَكَبِّرْهُ تَكْبِيرًا) يقول: وعظم ربك يا محمد بما أمرناك أن تعظمه به من قول وفعل، وأطعه فيما أمرك ونهاك.
+
+وبنحو الذي قلنا في قوله ﴿وَلَمْ يَكُنْ لَهُ وَلِيٌّ مِنَ الذُّلِّ﴾ قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى، وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء، جميعا عن ابن أبي نجيح، عن مجاهد ﴿وَلَمْ يَكُنْ لَهُ وَلِيٌّ مِنَ الذُّلِّ﴾ قال: لم يحالف أحدا، ولا يبتغي نصر أحد.
+
+⁕ حدثنا القاسم، قال: ثنا الحسين، قال: ثني حجاج، عن ابن جريج، عن مجاهد، مثله.
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة: "ذُكر لنا أن نبيّ الله ﷺ كان يعلِّم أهله هذه الآية ﴿الْحَمْدُ لِلَّهِ الَّذِي لَمْ يَتَّخِذْ وَلَدًا وَلَمْ يَكُنْ لَهُ شَرِيكٌ فِي الْمُلْكِ وَلَمْ يَكُنْ لَهُ وَلِيٌّ مِنَ الذُّلِّ وَكَبِّرْهُ تَكْبِيرًا﴾ الصغير من أهله والكبير.
+
+⁕ حدثنا ابن حميد، قال: ثنا حكام، قال: ثنا أبو الجنيد، عن جعفر، عن سعيد، عن ابن عباس، قال: إن التوراة كلها في خمس عشرة آية من بني إسرائيل، ثم تلا ﴿لا تَجْعَلْ مَعَ اللَّهِ إِلَهًا آخَرَ﴾ .
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: أخبرني أبو صخر، عن القُرَظي، أنه كان يقول في هذه الآية ﴿الْحَمْدُ لِلَّهِ الَّذِي لَمْ يَتَّخِذْ وَلَدًا﴾ .... الآية. قال: إن اليهود والنصارى قالوا: اتخذ الله ولدا، وقالت العرب: لبيك، لبيك، لا شريك لك، إلا شريكا هو لك، وقال الصابئون والمجوس: لولا أولياء الله لذلّ الله، فأنزل الله ﴿وَقُلِ الْحَمْدُ لِلَّهِ الَّذِي لَمْ يَتَّخِذْ وَلَدًا وَلَمْ يَكُنْ لَهُ شَرِيكٌ فِي الْمُلْكِ وَلَمْ يَكُنْ لَهُ وَلِيٌّ مِنَ الذُّلِّ وَكَبِّرْهُ﴾ أنت يا محمد على ما يقولون ﴿تَكْبِيرًا﴾ .
+
+آخر تفسير سورة بني إسرائيل، والحمد لله ربّ العالمين.
 
 ### al-Muyassar (Arabic)
 
-وقل -أيها الرسول-: الحمد لله الذي له الكمال والثناء، الذي تنزَّه عن الولد والشريك في ألوهيته، ولا يكون له سبحانه وليٌّ مِن خلقه فهو الغني القوي، وهم الفقراء المحتاجون إليه، وعظِّمه تعظيمًا تامًا بالثناء عليه وعبادته وحده لا شريك له، وإخلاص الدين كله له.
+وقل -أيها الرسول-: الحمد لله الذي له الكمال والثناء، الذي تنزَّه عن الولد والشريك في ألوهيته، ولا يكون له سبحانه وليٌّ مِن خلقه فهو الغني القوي، وهم الفقراء المحتاجون إليه، وعظِّمه تعظيمًا تامًّا بالثناء عليه وعبادته وحده لا شريك له، وإخلاص الدين كله له.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿شَرِيك فِي المُلْك﴾ فِي الأُلُوهِيَّة ﴿ولَمْ يَكُنْ لَهُ ولِيّ﴾ يَنْصُرهُ ﴿مِن﴾ أجْل ﴿الذُّلّ﴾ أيْ لَمْ يُذَلّ فَيَحْتاج إلى ناصِر ﴿وكَبِّرْهُ تَكْبِيرًا﴾ عَظِّمْهُ عَظَمَة تامَّة عَنْ اتِّخاذ الوَلَد الشَّرِيك والذُّلّ وكُلّ ما لا يَلِيق بِهِ وتَرْتِيب الحَمْد عَلى ذَلِكَ لِلدَّلالَةِ عَلى أنَّهُ المُسْتَحِقّ لِجَمِيعِ المَحامِد لِكَمالِ ذاته وتَفَرُّده فِي صِفاته ورَوى الإمام أحْمَد فِي مُسْنَده عَنْ مُعاذ الجُهَنِيّ عَنْ رَسُول اللَّه ﷺ أنَّهُ كانَ يَقُول: ﴿آيَة العِزّ الحَمْد لِلَّهِ الَّذِي لَمْ يَتَّخِذ ولَدًا ولَمْ يَكُنْ لَهُ شَرِيك فِي المُلْك﴾ إلى آخِر السُّورَة واللَّه تَعالى أعْلَم قالَ مُؤَلِّفه هَذا آخِر ما كَمَّلْت بِهِ تَفْسِير القُرْآن الكَرِيم الَّذِي ألَّفَهُ الشَّيْخ الإمام العالِم المُحَقِّق جَلال الدِّين المُحَلّى الشّافِعِيّ رَضِيَ اللَّه عَنْهُ وقَدْ أفْرَغْت لِمُكْمِلٍ وعَلَيْهِ فِي الآي المُتَشابِهَة الِاعْتِماد والمُعَوَّل فَرَحِمَ اللَّه امْرَأً نَظَرَ بِعَيْنِ الإنْصاف إلَيْهِ ووَقَفَ فِيهِ عَلى خَطَأ فَأَطْلَعَنِي عَلَيْهِ وقَدْ قُلْت: حَمِدْت اللَّه رَبِّي إذْ هَدانِي لِما أبْدَيْت مَعَ عَجْزِي وضَعْفِي فَمَن لِي بِالخَطَأِ فَأَرُدّ عَنْهُ ومَن لِي بِالقَبُولِ ولَوْ بِحَرْفِ هَذا ولَمْ يَكُنْ قَطّ فِي خَلَدِي أنْ أتَعَرَّض لِذَلِكَ لِعِلْمِي بِالعَجْزِ عَنْ الخَوْض فِي هَذِهِ المَسالِك وعَسى اللَّه أنْ يَنْفَع بِهِ نَفْعًا جَمًّا ويَفْتَح بِهِ قُلُوبًا غُلْفًا وأَعْيُنًا وآذانًا صُمًّا وكَأَنِّي بِمَن اعْتادَ المُطَوَّلات وقَدْ أضْرَبَ عَنْ هَذِهِ التَّكْمِلَة وأَصْلها حَسْمًا وعَدَلَ إلى صَرِيح العِناد ولَمْ يُوَجِّه إلى دَقائِقها فَهْمًا ﴿ومَن كانَ فِي هَذِهِ أعْمى فَهُوَ فِي الآخِرَة أعْمى﴾ رَزَقَنا اللَّه بِهِ هِدايَة إلى سَبِيل الحَقّ وتَوْفِيقًا واطِّلاعًا عَلى دَقائِق كَلِماته وتَحْقِيقًا وجَعَلَنا بِهِ ﴿مَعَ الَّذِينَ أنْعَمَ اللَّه عَلَيْهِمْ مِن النَّبِيِّينَ والصِّدِّيقِينَ والشُّهَداء والصّالِحِينَ وحَسُنَ أُولَئِكَ رَفِيقًا﴾ وفَرَغَ مِن تَأْلِيفه يَوْم الأَحَد عاشِر شَوّال سَنَة سَبْعِينَ وثَمانِمِائَةٍ وكانَ الِابْتِداء فِي يَوْم الأَرْبِعاء مُسْتَهَلّ رَمَضان مِن السَّنَة المَذْكُورَة وفَرَغَ مِن تَبْيِيضه يَوْم الأَرْبِعاء سادِس صَفَر سَنَة إحْدى وسَبْعِينَ وثَمانِمِائَةٍ واللَّه أعْلَم قالَ الشَّيْخ شَمْس الدِّين مُحَمَّد بْن أبِي بَكْر الخَطِيب الطُّوخِيّ أخْبَرَنِي صَدِيقِي الشَّيْخ العَلّامَة كَمال الدِّين المُحَلّى أخُو شَيْخنا الشَّيْخ جَلال الدِّين المُحَلّى رَحِمَهُما اللَّه تَعالى أنَّهُ رَأى أخاهُ الشَّيْخ جَلال الدِّين المَذْكُور فِي النَّوْم وبَيْن يَدَيْهِ صَدِيقنا الشَّيْخ العَلّامَة المُحَقِّق جَلال الدِّين السُّيُوطِيّ مُصَنِّف هَذِهِ التَّكْمِلَة وقَدْ أخَذَ الشَّيْخ هَذِهِ التَّكْمِلَة فِي يَده وتَصَفَّحَها ويَقُول لِمُصَنِّفِها المَذْكُور أيّهما أحْسَن وضْعِي أوْ وضْعك فَقالَ: وضْعِي فَقالَ: اُنْظُرْ وعَرَضَ عَلَيْهِ مَواضِع فِيها وكَأَنَّهُ يُشِير إلى اعْتِراض فِيها بِلُطْفٍ ومُصَنِّف هَذِهِ التَّكْمِلَة كُلَّما أوْرَدَ عَلَيْهِ شَيْئًا يُجِيبهُ والشَّيْخ يَبْتَسِم ويَضْحَك قالَ شَيْخنا الإمام العَلّامَة جَلال الدِّين عَبْد الرَّحْمَن بْن أبِي بَكْر السُّيُوطِيّ مُصَنِّف هَذِهِ التَّكْمِلَة: الَّذِي أعْتَقِدهُ وأَجْزِم بِهِ أنَّ الوَضَع الَّذِي وضَعَهُ الشَّيْخ جَلال الدِّين المُحَلّى رَحِمَهُ اللَّه تَعالى فِي قِطْعَته أحْسَن مِن وضْعِي أنا بِطَبَقاتٍ كَثِيرَة كَيْفَ وغالِب ما وضَعْته هُنا مُقْتَبَس مِن وضْعه ومُسْتَفاد مِنهُ لا مِرْيَة عِنْدِي فِي ذَلِكَ وأَمّا الَّذِي رُئِيَ فِي المَنام المَكْتُوب أعْلاهُ فَلَعَلَّ الشَّيْخ أشارَ بِهِ إلى المَواضِع القَلِيلَة الَّتِي خالَفْت وضْعه فِيها لِنُكْتَةٍ وهِيَ يَسِيرَةٌ جِدًّا ما أظُنّها تَبْلُغ عَشَرَةَ مَواضِع مِنها أنَّ الشَّيْخ قالَ فِي سُورَة ص: والرُّوح جِسْم لَطِيف يَحْيا بِهِ الإنْسان بِنُفُوذِهِ فِيهِ وكُنْت تَبِعْته أوَّلًا فَذَكَرْت هَذا الحَدّ فِي سُورَة الحِجْر ثُمَّ ضَرَبْت عَلَيْهِ لِقَوْلِهِ تَعالى ﴿ويَسْأَلُونَك عَنْ الرُّوح قُلْ الرُّوح مِن أمْر رَبِّي﴾ الآيَة فَهِيَ صَرِيحَة أوْ كالصَّرِيحَةِ فِي أنَّ الرُّوح مِن عِلْم اللَّه تَعالى لا نَعْلَمهُ فالإمْساك عَنْ تَعْرِيفها أوْلى ولِذا قالَ الشَّيْخ تاج الدِّين بْن السُّبْكِيّ فِي جَمْع الجَوامِع: والرُّوح لَمْ يَتَكَلَّم عَلَيْها مُحَمَّد ﷺ فَنُمْسِك عَنْها ومِنها أنَّ الشَّيْخ قالَ فِي سُورَة الحَجّ: الصّابِئُونَ فِرْقَة مِن اليَهُود فَذَكَرْت ذَلِكَ فِي سُورَة البَقَرَة وزِدْت أوْ النَّصارى بَيانًا لِقَوْلٍ ثانٍ فَإنَّهُ المَعْرُوف خُصُوصًا عِنْد أصْحابنا الفُقَهاء وفِي المِنهاج وإنْ خالَفَتْ السّامِرَة اليَهُود والصّابِئَة النَّصارى فِي أصْل دِينهمْ وفِي شَرْحه أنَّ الشّافِعِيّ رَضِيَ اللَّه عَنْهُ نَصَّ عَلى أنَّ الصّابِئِينَ فِرْقَة مِن النَّصارى ولا أسْتَحْضِر الآن مَوْضِعًا ثالِثًا فَكَأَنَّ الشَّيْخ رَحِمَهُ اللَّه تَعالى يُشِير إلى مِثْل هَذا واللَّه أعْلَم بِالصَّوابِ وإلَيْهِ المَرْجِع والمَآب.
 
 ---
 
@@ -128,17 +886,167 @@ Allah says:
 
 ### Ibn Kathir (English)
 
-Which was revealed at Makkah
-بِسْمِ اللَّهِ الرَّحْمَـنِ الرَّحِيمِ
+بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
+
 In the Name of Allah, the Most Gracious, the Most Merciful.
+
+طه - مَآ أَنَزَلْنَا عَلَيْكَ الْقُرْءَانَ لِتَشْقَى - إِلاَّ تَذْكِرَةً لِّمَن يَخْشَى - تَنزِيلًا مِّمَّنْ خَلَقَ الْأَرْضَ وَالسَّمَاوَاتِ الْعُلَى - الرَّحْمَٰنُ عَلَى الْعَرْشِ اسْتَوَىٰ - لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَمَا بَيْنَهُمَا وَمَا تَحْتَ الثَّرَىٰ - وَإِن تَجْهَرْ بِالْقَوْلِ فَإِنَّهُ يَعْلَمُ السِّرَّ وَأَخْفَى - اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ ۖ لَهُ الْأَسْمَاءُ الْحُسْنَىٰ
+
+(1. Ta Ha.)(2. We have not sent down the Qur'an unto you to cause you distress,)(3. But only as a Reminder to those who fear (Allah).)(4. A revelation from Him Who created the earth and high heavens.)(5. The Most Gracious Istawa the Throne.)(6. To Him belongs all that is in the heavens and all that is on the earth, and all that is between them, and all that is under the soil.)(7. And if you speak aloud, then verily, He knows the secret and that which is yet more hidden.)(8. Allah! There is no God but Him! To Him belong the Best Names.)
+
 The Qur'an is a Reminder and a Revelation from Allah
+
 We have already discussed the separated letters at the beginning of Surah Al-Baqarah, so there is no need to repeat its discussion here. Allah says,
-مَآ أَنَزَلْنَا عَلَيْكَ الْقُرْءَانَ لِتَشْقَى
-(We have not sent down the Qur'an unto you to cause you distress,) Juwaybir reported that Ad-Dahhak said, "When Allah s...
+
+مَا أَنزَلْنَا عَلَيْكَ الْقُرْآنَ لِتَشْقَىٰ
+
+(We have not sent down the Qur'an unto you to cause you distress,)
+
+Juwaybir reported that Ad-Dahhak said, "When Allah sent the Qur'an down to His Messenger ﷺ, he and his Companions adhered to it. Thus, the idolators of the Quraysh said, 'This Qur'an was only revealed to Muhammad to cause him distress.' Therefore, Allah revealed,
+
+طه - مَآ أَنَزَلْنَا عَلَيْكَ الْقُرْءَانَ لِتَشْقَى - إِلاَّ تَذْكِرَةً لِّمَن يَخْشَى
+
+(Ta Ha. We have not sent down the Qur'an unto you to cause you distress, but only as a Reminder to those who fear (Allah).) The matter is not like the people of falsehood claim. Rather, whomever Allah gives knowledge to, it is because Allah wants him to have an abundance of good. This like what is confirmed in the Two Sahihs on the authority of Ibn Mas'ud, who said that the Messenger of Allah ﷺ said,
+
+مَنْ يُرِدِ اللهُ بِهِ خَيْرًا يُفَقِّهْهُ فِي الدِّينِ
+
+(Whomever Allah wants good for, then He gives him the understanding of the religion.) Mujahid commented on Allah's statement,
+
+مَا أَنزَلْنَا عَلَيْكَ الْقُرْآنَ لِتَشْقَىٰ
+
+(We have not sent down the Qur'an unto you to cause you distress,) "This is like His statement,
+
+فَاقْرَءُوا مَا تَيَسَّرَ مِنْهُ
+
+(So recite as much of the Qur'an as may be easy (for you).)[73:20] For, the people used to hang ropes at their chests (to hang on to when tired) in the prayer." Qatadah said,
+
+مَا أَنزَلْنَا عَلَيْكَ الْقُرْآنَ لِتَشْقَىٰ
+
+(We have not sent down the Qur'an unto you to cause you distress,) "No, by Allah, He did not make it a thing of distress. Rather, He made it a mercy, a light and a guide to Paradise." Allah said,
+
+إِلَّا تَذْكِرَةً لِّمَن يَخْشَىٰ
+
+(But only as a Reminder to those who fear (Allah).) Allah revealed His Book and sent His Messenger ﷺ as a mercy for His servants, so that the person who reflects may be reminded. Thus, a man will benefit from what he hears of the Book of Allah, it is a remembrance in which Allah revealed what He permits and prohibits. His saying,
+
+تَنزِيلًا مِّمَّنْ خَلَقَ الْأَرْضَ وَالسَّمَاوَاتِ الْعُلَى
+
+(A Revelation from Him (Allah) Who has created the earth and high heavens.) means, 'This Qur'an, which has come to you, O Muhammad, is a revelation from your Lord. He is the Lord of everything and its King. He is Most Able to do whatever He wills. He created the earth with its low depths and dense regions. He created the lofty heavens with their high altitudes and subtleties.' It has been reported in a Hadith, which At-Tirmidhi and others graded as authentic, that the density of each sky of the heavens is the distance of five hundred years travel and the distance between it and the next heaven is also five hundred years. Concerning Allah's statement,
+
+الرَّحْمَٰنُ عَلَى الْعَرْشِ اسْتَوَىٰ
+
+(The Most Gracious Istawa the Throne.) A discussion concerning this has already preceded in Surat Al-A'raf, so there is no need to repeat it here. The safest path to take in understanding this, is the way of the Salaf (predecessors). Their way was to accept that which has been reported concerning this from the Book and the Sunnah without describing it, reinterpreting it, resembling it to creation, rejecting it, or comparing it to attributes of the creatures. Concerning Allah's statement,
+
+لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَمَا بَيْنَهُمَا وَمَا تَحْتَ الثَّرَىٰ
+
+(To Him belongs all that is in the heavens and all that is on the earth, and all that is between them, and all that is under the soil.) This means all of this is owned by Him and in His grasp. It is all under His control, will, intent and judgement. He created all of this, He owns it and He is the God of all of it. There is no true God other than He and no Lord other than He. Concerning Allah's statement,
+
+وَمَا تَحْتَ الثَّرَىٰ
+
+(and all that is under the soil.) Muhammad bin Ka'b said, "This means that which is beneath the seventh earth." Concerning Allah's statement,
+
+وَإِن تَجْهَرْ بِالْقَوْلِ فَإِنَّهُ يَعْلَمُ السِّرَّ وَأَخْفَى
+
+(And if you speak aloud, then verily, He knows the secret and that which is yet more hidden.) This means that He Who revealed this Qur'an, has also created the high heavens and the earth and He knows that which is secret and what is even more hidden. As Allah says,
+
+قُلْ أَنزَلَهُ الَّذِي يَعْلَمُ السِّرَّ فِي السَّمَاوَاتِ وَالْأَرْضِ ۚ إِنَّهُ كَانَ غَفُورًا رَّحِيمًا
+
+(Say: "It has been sent down by Him Who knows the secret of the heavens and the earth. Truly, He is Oft-Forgiving, Most Merciful.")[25:6] 'Ali bin Abi Talhah reported that Ibn 'Abbas said,
+
+يَعْلَمُ السِّرَّ وَأَخْفَى
+
+(He knows the secret and that which is yet more hidden.) "The secret is what the son of Adam hides within himself, and
+
+وَأَخْفَى
+
+(that which is yet more hidden.) is the deeds of the son of Adam, which are hidden before he does them. Allah knows all of that. His knowledge encompasses that which has passed and that which is in the future and it is one, complete knowledge. In this regard, all of the creatures are as one soul to Him. That is the meaning of His statement,
+
+مَّا خَلْقُكُمْ وَلَا بَعْثُكُمْ إِلَّا كَنَفْسٍ وَاحِدَةٍ
+
+(The creation of you all and the resurrection of you all are only as a single person.)[31:28] Concerning Allah's statement,
+
+اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ ۖ لَهُ الْأَسْمَاءُ الْحُسْنَىٰ
+
+(Allah! There is no God but Him! To Him belongs the Best Names.) This means, 'He Who revealed this Qur'an to you (O Muhammad), He is Allah, there is no God except Him. He is the Owner of the Best Names and the most lofty attributes.'
 
 ### al-Tabari (Arabic)
 
-وأما قوله تعالى ذكره ( اللَّهُ لا إِلَهَ إِلا هُوَ ) فإنه يعني به: المعبود الذي لا تصلح العبادة إلا له ، يقول: فإياه فاعبدوا أيها الناس دون ما سواه من الآلهة والأوثان ( لَهُ الأسْمَاءُ الْحُسْنَى ) يقول جلّ ثناؤه: لمعبودكم أيها الناس الأسماء الحسنى، فقال: الحسنى، فوحَّد، وهو نعت للأسماء، ولم يقل الأحاسن، لأن الأسماء تقع عليها هذه، فيقال: هذه أسماء، وهذه في لفظة واحدة; ومنه قول الأعشى:وَسَــوْفَ يُعْقِبُنِيـه إنْ ظَفِـرْت بِـهِرَبّ غَفُــورٌ وَبِيــضٌ ذاتُ أطْهـارِ (7)فوحد ذات، وهو نعت للبيض ل...
+القول في تأويل قوله تعالى: ﴿لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الأرْضِ وَمَا بَيْنَهُمَا وَمَا تَحْتَ الثَّرَى (٦) ﴾
+
+يقول تعالى ذكره: لله ما في السموات وما في الأرض وما بينهما، وما تحت الثرى، ملكا له، وهو مدبر ذلك كله، ومصرّف جميعه. ويعني بالثرى: الندى.
+
+يقال للتراب الرطب المبتلّ: ثرى منقوص، يقال منه: ثريت الأرض تثرى، ثرى منقوص، والثرى: مصدر.
+
+وبنحو الذي قلنا في ذلك، قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله ﴿وَمَا تَحْتَ الثَّرَى﴾ والثَّرَى: كلّ شيء مبتلّ.
+
+⁕ حُدثت عن الحسين بن الفرج، قال: سمعت أبا معاذ يقول: أخبرنا عبيد، قال: سمعت الضحاك يقول في قوله ﴿وَمَا تَحْتَ الثَّرَى﴾ ما حفر من التراب مبتلا وإنما عنى بذلك: وما تحت الأرضين السبع.
+
+كالذي:-
+
+⁕ حدثني محمد بن إبراهيم السليمي المعروف بابن صدران [[في الخلاصة للخزرجي: محمد بن إبراهيم بن صدران بضم المهملة الأولى، الأزدي، بتحتانية بعد اللام المكسورة.]] . قال: ثنا أبو عاصم، قال: ثنا محمد بن رفاعة، عن محمد بن كعب ﴿وَمَا تَحْتَ الثَّرَى﴾ قال: الثرى: سبع أرضين.
+
+* *
+
+القول في تأويل قوله تعالى: ﴿وَإِنْ تَجْهَرْ بِالْقَوْلِ فَإِنَّهُ يَعْلَمُ السِّرَّ وَأَخْفَى (٧) اللَّهُ لا إِلَهَ إِلا هُوَ لَهُ الأسْمَاءُ الْحُسْنَى (٨) ﴾
+
+يقول تعالى ذكره: وإن تجهر يا محمد بالقول، أو تخف به، فسواء عند ربك الذي له ما في السموات وما في الأرض ﴿فَإِنَّهُ يَعْلَمُ السِّرَّ﴾ يقول: فإنه ل ايخفى عليه ما استسررته في نفسك، فلم تبده بجوارحك ولم تتكلم بلسانك، ولم تنطق به وأخفى.
+
+ثم اختلف أهل التأويل في المعني بقوله ﴿وأخْفَى﴾ فقال بعضهم: معناه:
+
+وأخفى من السرّ، قال: والذي هو أحفى من السرّ ما حدّث به المرء نفسه ولم يعمله.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا ابن حميد، قال: ثنا حكام، عن عمرو، عن عطاء، عن سعيد بن جبير، عن ابن عباس ﴿يَعْلَمُ السِّرَّ وَأَخْفَى﴾ قال: السرّ: ما عملته أنت وأخفى: ما قذف الله في قلبك مما لم تعمله.
+
+⁕ حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثنى أبي، عن أبيه، عن ابن عباس، قوله ﴿يَعْلَمُ السِّرَّ وَأَخْفَى﴾ يعني بأخفى: ما لم يعمله، وهو عامله؛ وأما السرّ: فيعني ما أسرّ في نفسه.
+
+⁕ حدثني عليّ، قال: ثنا عبد الله، قال: ثني معاوية، عن عليّ، عن ابن عباس، قوله ﴿يَعْلَمُ السِّرَّ وَأَخْفَى﴾ قال: السرّ: ما أسرّ ابن آدم في نفسه، وأخفى: قال: ما أخفى ابن آدم مما هو فاعله قبل أن يعمله، فالله يعلم ذلك، فعلمه فيما مضى من ذلك، وما بقي علم واحد، وجميع الخلائق عنده في ذلك كنفس واحدة، وهو قوله: ﴿مَا خَلْقُكُمْ وَلا بَعْثُكُمْ إِلا كَنَفْسٍ وَاحِدَةٍ﴾ .
+
+⁕ حدثنا القاسم، قال: ثنا الحسين، قال: ثني حجاج، قال: قال ابن جريج، قال سعيد بن جُبير، عن ابن عباس: السرّ: ما أسرّ الإنسان في نفسه؛ وأخفى: ما لا يعلم الإنسان مما هو كائن.
+
+⁕ حدثني زكريا بن يحيى بن أبي زائدة ومحمد بن عمرو، قالا ثنا أبو عاصم، عن عيسى، وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء، جميعا عن ابن أبي نجيح، عن مجاهد، في قول الله ﴿يَعْلَمُ السِّرَّ وَأَخْفَى﴾ قال: أخفى: الوسوسة، زاد ابن عمرو والحارث في حديثيهما: والسرّ: العمل الذي يسرّون من الناس.
+
+⁕ حدثنا القاسم، قال: ثنا الحسين، قال: ثني حجاج، عن ابن جريج، عن مجاهد ﴿وأخْفَى﴾ قال: الوسوسة.
+
+⁕ حدثنا هناد، قال: ثنا أبو الأحوص، عن سماك، عن عكرمة، في قوله ﴿يَعْلَمُ السِّرَّ وَأَخْفَى﴾ قال: أخفى حديث نفسك.
+
+⁕ حدثنا ابن بشار، قال: ثنا الحسين بن الحسن الأشقر، قال: ثنا أبو كُدَينة، عن عطاء، عن سعيد بن جبير، عن ابن عباس، في قوله ﴿يَعْلَمُ السِّرَّ وَأَخْفَى﴾ قال: السرّ: ما يكون في نفسك اليوم، وأخفى: ما يكون في غد وبعد غد، لا يعلمه إلا الله.
+
+وقال آخرون: بل معناه: وأخفى من السرّ ما لم تحدّث به نفسك.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا الفضل بن الصباح، قال: ثنا ابن فضيل، عن عطاء، عن سعيد بن جبير، في قوله ﴿يَعْلَمُ السِّرَّ وَأَخْفَى﴾ قال: السرّ: ما أسررت في نفسك، وأخفى من ذلك: ما لم تحدّث به نفسك.
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة ﴿وَإِنْ تَجْهَرْ بِالْقَوْلِ فَإِنَّهُ يَعْلَمُ السِّرَّ وَأَخْفَى﴾ كنا نحدّث أن السرّ ما حدّثت به نفسك، وأن أخفى من السرّ: ما هو كائن مما لم تحدث به نفسك.
+
+⁕ حدثنا محمد بن بشار، قال: ثنا سليمان بن حرب، قال: ثنا أبو هلال، قال: ثنا قتادة، في قوله ﴿يَعْلَمُ السِّرَّ وَأَخْفَى﴾ قال: يعلم ما أسررت في نفسك، وأخفى: ما لم يكن هو كائن.
+
+⁕ حدثنا الحسن بن يحيى، قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر، عن قتادة، في قوله ﴿يَعْلَمُ السِّرَّ وَأَخْفَى﴾ قال: أخفى من السرّ: ما حدّثت به نفسك، وما لم تحدث به نفسك أيضا مما هو كائن.
+
+⁕ حُدثت عن الحسين بن الفرج، قال: سمعت أبا معاذ، قال: ثنا عبيد، قال: سمعت الضحاك يقول في قوله ﴿يَعْلَمُ السِّرَّ وَأَخْفَى﴾ أما السرّ: فما أسررت في نفسك، وأما أخفى من السرّ: فما لم تعمله وأنت عامله، يعلم الله ذلك كله.
+
+وقال آخرون: بل معنى ذلك: إنه يعلم سرّ العباد، وأخفى سرّ نفسه، فلم يطلع عليه أحدا.
+
+ذكر من قال ذلك:
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله ﴿يَعْلَمُ السِّرَّ وَأَخْفَى﴾ قال: يعلم أسرار العباد، وأخفى سرّه فلا يعلم.
+
+قال أبو جعفر: وكأن الذين وجهَّوا ذلك إلى أن السرّ هو ما حدّث به الإنسان غيره سرّا، وأن أخفى: معناه: ما حدّث به نفسه، وجهوا تأويل أخفى إلى الخفيّ. وقال بعضهم: قد توضع أفعل موضع الفاعل، واستشهدوا لقيلهم ذلك بقول الشاعر:
+
+تَمَنَّى رِجالٌ أنْ أمُوتَ وإنْ أمْتْ ... فَتِلْكَ طَرِيقٌ، لَسْتُ فِيها بأوْحَدِ [[ورد هذا البيت في مقطوعة خمسة أبيات كتب بها الوليد بن عبد الملك لما مرض وقد بلغه عن أخيه سليمان أنه تمنى موته، لما له من العهد بعده، فعاتبه الوليد في كتابه وفيه هذه الأبيات، وأولها: " تمنى رجال. . . إلخ ". ذكرها المسعودي في (مروج الذهب، طبعة دار الرجاء ٣: ١٠٣) والشاهد في قوله بأوحد، فإنه بمعنى: بواحد.]]
+
+والصواب من القول في ذلك، قول من قال: معناه: يعلم السرّ وأخفى من السرّ، لأن ذلك هو الظاهر من الكلام؛ ولو كان معنى ذلك ما تأوّله ابن زيد، لكان الكلام: وأخفى الله سرّه، لأن أخفى: فعل واقع متعدّ، إذ كان بمعنى فعل على ما تأوّله ابن زيد، وفي انفراد أخفى من مفعوله، والذي يعمل فيه لو كان بمعنى فعل الدليل الواضح على أنه بمعنى أفعل. وأن تأويل الكلام: فإنه يعلم السرّ وأخفى منه. فإذا كان ذلك تأويله، فالصواب من القول في معنى أخفى من السرّ أن يقال: هو ما علم الله مما أخفى عن العباد، ولم يعلموه مما هو كائن ولم يكن، لأن ما ظهر وكان فغير سرّ، وأن ما لم يكن وهو غير كائن فلا شيء، وأن ما لم يكن وهو كائن فهو أخفى من السرّ، لأن ذلك لا يعلمه إلا الله، ثم من أعلمه ذلك من عباده.
+
+وأما قوله تعالى ذكره ﴿اللَّهُ لا إِلَهَ إِلا هُوَ﴾ فإنه يعني به: المعبود الذي لا تصلح العبادة إلا له، يقول: فإياه فاعبدوا أيها الناس دون ما سواه من الآلهة والأوثان ﴿لَهُ الأسْمَاءُ الْحُسْنَى﴾ يقول جلّ ثناؤه: لمعبودكم أيها الناس الأسماء الحسنى، فقال: الحسنى، فوحَّد، وهو نعت للأسماء، ولم يقل الأحاسن، لأن الأسماء تقع عليها هذه، فيقال: هذه أسماء، وهذه في لفظة واحدة؛ ومنه قول الأعشى:
+
+وَسَوْفَ يُعْقِبُنِيه إنْ ظَفِرْت بِهِ ... رَبّ غَفُورٌ وَبِيضٌ ذاتُ أطْهارِ [[في (اللسان: عقب) يقال: أعقبه الله بإحسان وخيرا. والاسم العقبى، وهو شبه العوض. واستعقب منه خيرا أو شرا: اعتاضه، فأعقبه خيرا، أي عوضه وأبدله. والشاهد في البيت أن قائله وصف البيض وهو جمع بيضاء، بكلمة (ذات) وهي واحد، ولم يطابق بين النعت والمنعوت في العدد. وتأويل ذلك عند المؤلف أنه كلمة البيض وإن كانت جمعا فإنها يشار إليها بكلمة هذه وهذه في الأصل إشارة للواحدة فلما جاز أن يشار بهذه إلى الجمع جاز أن أن ينعت البيض بذات التي هي للواحدة، وذلك نظير قول القرآن: " له الأسماء الحسنى"، والأسماء جمع، والحسنى صفتها وهي واحدة.]]
+
+فوحد ذات، وهو نعت للبيض لأنه يقع عليها هذه، كما قال ﴿حَدَائِقَ ذَاتَ بَهْجَةٍ﴾ ومنه قوله جلّ ثناؤه ﴿مَآرِبُ أُخْرَى﴾ فوحد أخرى، وهي نعت لمآرب، والمآرب: جمع، واحدتها: مأربة، ولم يقل أخر، لما وصفنا، ولو قيل: أخر، لكان صوابا.
 
 ### al-Muyassar (Arabic)
 
@@ -146,7 +1054,7 @@ We have already discussed the separated letters at the beginning of Surah Al-Baq
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿اللَّه لا إلَه إلّا هُوَ لَهُ الأَسْماء الحُسْنى﴾ التِّسْعَة والتِّسْعُونَ الوارِد بِها الحَدِيث والحُسْنى مُؤَنَّث الأَحْسَن
 
 ---
 
@@ -154,20 +1062,75 @@ We have already discussed the separated letters at the beginning of Surah Al-Baq
 
 ### Ibn Kathir (English)
 
+It is neither their meat nor their blood that reaches Allah, but it is Taqwa from you that reaches Him. Thus have We made them subject to you that you may proclaim Allah's greatness for His guidance to you. And give glad tidings to the doers of good (37)
+
 The Goal of the Udhiyyah (Sacrifice) according to Allah is the Sincerity and Taqwa of His Servant
-Allah says: this sacrifice is prescribed for you so that you will remember Him at the time of slaughter, for He is the Creator and Provider. Nothing of its flesh or blood reaches Him, for He has no need of anything other than Himself. During the time of Jahiliyyah, when they offered sacrifices to their gods, they would put some of the meat of their sacrifices on their idols, and sprinkle the bloo...
+
+Allah says: this sacrifice is prescribed for you so that you will remember Him at the time of slaughter, for He is the Creator and Provider. Nothing of its flesh or blood reaches Him, for He has no need of anything other than Himself.
+
+During the time of Jahiliyyah, when they offered sacrifices to their gods, they would put some of the meat of their sacrifices on their idols, and sprinkle the blood over them. But Allah says:
+
+لَن يَنَالَ اللَّهَ لُحُومُهَا وَلَا دِمَاؤُهَا
+
+(It is neither their meat nor their blood that reaches Allah,) Ibn Abi Hatim recorded that Ibn Jurayj said, "The people of the Jahiliyyah used to put the meat of their sacrifices and sprinkle the blood on the House, and the Companions of the Messenger of Allah ﷺ said, "We have more right to do that." Then Allah revealed the words:
+
+لَن يَنَالَ اللَّهَ لُحُومُهَا وَلَا دِمَاؤُهَا وَلَٰكِن يَنَالُهُ التَّقْوَىٰ مِنكُمْ
+
+(It is neither their meat nor their blood that reaches Allah, but it is Taqwa from you that reaches Him.) That is what He will accept and reward for, as mentioned in the Sahih,
+
+إِنَّ اللهَ لَا يَنْظُرُ إِلَى صُوَرِكُمْ وَلَا إِلَى أَلْوَانِكُمْ، وَلَكِنْ يَنْظُرُ إِلَى قُلُوبِكُمْ وَأَعْمَالِكُم
+
+(Allah does not look to your appearance or your colors, but He looks to your hearts and deeds.) And in the Hadith; (Indeed charity falls in the Hand of Ar-Rahman before it falls in the hand of the one asking.)
+
+كَذَٰلِكَ سَخَّرَهَا لَكُمْ
+
+(Thus have We made them subject to you) meaning, 'for this purpose We have subjugated the Budn for you,'
+
+لِتُكَبِّرُوا اللَّهَ عَلَىٰ مَا هَدَاكُمْ
+
+(that you may proclaim Allah's greatness for His guidance to you.) means, that you may glorify Him for guiding you to His religion and His way which He loves and is pleased with, and has forbidden you to do all that He hates and rejects.
+
+وَبَشِّرِ الْمُحْسِنِينَ
+
+(And give glad tidings to the doers of good.) means, 'give good news, O Muhammad, to those who do good,' i.e., whose deeds are good and who remain within the limits prescribed by Allah, who follow that which has been prescribed for them, who believe in the Messenger ﷺ and follow that which he has conveyed from his Lord.
+
+(Note) The Udhiyyah is Sunnah Mustahabbah
+
+One animal is sufficient on behalf of all the members of one household. Ibn 'Umar said, "The Messenger of Allah ﷺ continued to offer sacrifice for ten years." This was recorded by At-Tirmidhi. Abu Ayyub said: "At the time of the Messenger of Allah ﷺ, a man would sacrifice a sheep on behalf of himself and all the members of his household, and they would eat from it and feed others, until the people started boasting [by sacrificing more than one] and things reached the stage that you see now." This was recorded by At-Tirmidhi, who graded it Sahih, and by Ibn Majah. 'Abdullah bin Hisham used to sacrifice one sheep on behalf of his entire family; this was recorded by Al-Bukhari.
+
+Concerning how old the sacrificial animal should be, Muslim recorded from Jabir that the Messenger of Allah ﷺ said:
+
+لَا تَذْبَحُوا إِلَّا مُسِنَّةً، إِلَّا أَنْ تَعْسُرَ عَلَيْكُمْ فَتَذْبَحُوا جَذَعَةً مِنَ الضَّأْنِ
+
+(Do not sacrifice any but mature animals, and if that is not possible, then sacrifice a young sheep.)
 
 ### al-Tabari (Arabic)
 
-يقول تعالى ذكره: [لم يصل إلى الله لحوم بدنكم ولا دماؤها, ولكن يناله اتقاؤكم إياه أن اتقيتموه فيها فأردتم بها وجهه، وعملتم فيها بما ندبكم إليه وأمركم به في أمرها وعظمتم بها حرماته.وبنحو الذي قلنا في ذلك قال أهل التأويل.*ذكر من قال ذلك:- حدثنا ابن بشار, قال: ثنا يحيى, عن سفيان, عن منصور, عن إبراهيم, في قول الله: ( لَنْ يَنَالَ اللَّهَ لُحُومُهَا وَلا دِمَاؤُهَا وَلَكِنْ يَنَالُهُ التَّقْوَى مِنْكُمْ ) قال: ما أريد به وجه الله.حدثني يونس, قال: أخبرنا ابن وهب, قال: قال ابن زيد, في قوله: ( لَنْ يَ...
+القول في تأويل قوله تعالى: ﴿لَنْ يَنَالَ اللَّهَ لُحُومُهَا وَلا دِمَاؤُهَا وَلَكِنْ يَنَالُهُ التَّقْوَى مِنْكُمْ كَذَلِكَ سَخَّرَهَا لَكُمْ لِتُكَبِّرُوا اللَّهَ عَلَى مَا هَدَاكُمْ وَبَشِّرِ الْمُحْسِنِينَ (٣٧) ﴾
+
+يقول تعالى ذكره: [لم يصل إلى الله لحوم بدنكم ولا دماؤها، ولكن يناله اتقاؤكم إياه أن اتقيتموه فيها فأردتم بها وجهه، وعملتم فيها بما ندبكم إليه وأمركم به في أمرها وعظمتم بها حرماته.
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:- حدثنا ابن بشار، قال: ثنا يحيى، عن سفيان، عن منصور، عن إبراهيم، في قول الله: ﴿لَنْ يَنَالَ اللَّهَ لُحُومُهَا وَلا دِمَاؤُهَا وَلَكِنْ يَنَالُهُ التَّقْوَى مِنْكُمْ﴾ قال: ما أريد به وجه الله.
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله: ﴿لَنْ يَنَالَ اللَّهَ لُحُومُهَا وَلا دِمَاؤُهَا وَلَكِنْ يَنَالُهُ التَّقْوَى مِنْكُمْ﴾ قال: إن اتقيت الله في هذه البُدن، وعملت فيها لله، وطلبت ما قال الله تعظيما لشعائر الله ولحرمات الله، فإنه قال: ﴿وَمَنْ يُعَظِّمْ شَعَائِرَ اللَّهِ فَإِنَّهَا مِنْ تَقْوَى الْقُلُوبِ﴾ قال ﴿وَمَنْ يُعَظِّمْ حُرُمَاتِ اللَّهِ فَهُوَ خَيْرٌ لَهُ عِنْدَ رَبِّهِ﴾ قال: وجعلته طيبا، فذلك الذي يتقبل الله. فأما اللحوم والدماء، فمن أين تنال الله؟ وقوله: ﴿كَذَلِكَ سَخَّرَهَا لَكُمْ﴾ يقول: هكذا سخر لكم البُدن. يقول: ﴿لِتُكَبِّرُوا اللَّهَ عَلَى مَا هَدَاكُمْ﴾ يقول: كي تعظموا الله على ما هداكم، يعني على توفيقه إياكم لدينه وللنسك في حجكم.
+
+كما:- حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد: ﴿لِتُكَبِّرُوا اللَّهَ عَلَى مَا هَدَاكُمْ﴾ قال: على ذبحها في تلك الأيام ﴿وَبَشِّرِ الْمُحْسِنِينَ﴾ : يقول: وبشِّر يا محمد الذين أطاعوا الله فأحسنوا في طاعتهم إياه في الدنيا بالجنة في الآخرة.
+
+* *
+
+القول في تأويل قوله تعالى: ﴿إِنَّ اللَّهَ يُدَافِعُ عَنِ الَّذِينَ آمَنُوا إِنَّ اللَّهَ لا يُحِبُّ كُلَّ خَوَّانٍ كَفُورٍ (٣٨) ﴾
+
+يقول تعالى ذكره: إن الله يدفع غائلة المشركين عن الذين آمنوا بالله وبرسوله، إن الله لا يحبّ كل خوّان يخون الله فيخالف أمره ونهيه ويعصيه ويطيع الشيطان ﴿كَفُورٍ﴾ يقول: جَحود لنعمه عنده، لا يعرف لمنعمها حقه فيشكره عليها. وقيل: إنه عنى بذلك دفع الله كفار قريش عمن كان بين أظهرهم من المؤمنين قبل هجرتهم.
 
 ### al-Muyassar (Arabic)
 
-لن ينال اللهَ مِن لحوم هذه الذبائح ولا من دمائها شيء، ولكن يناله الإخلاص فيها، وأن يكون القصد بها وجه الله وحده، كذلك ذللها لكم -أيها المتقربون-؛ لتعظموا الله، وتشكروا له على ما هداكم من الحق، فإنه أهلٌ لذلك. وبشِّر- أيها النبي- المحسنين بعبادة الله وحده والمحسنين إلى خلقه بكل خير وفلاح.
+لن ينال اللهَ مِن لحوم هذه الذبائح ولا من دمائها شيء، ولكن يناله الإخلاص فيها، وأن يكون القصد بها وجه الله وحده، كذلك ذللها لكم -أيها المتقربون-؛ لتعظموا الله، وتشكروا له على ما هداكم من الحق، فإنه أهلٌ لذلك. وبشِّر -أيها النبي- المحسنين بعبادة الله وحده، والمحسنين إلى خلقه بكل خير وفلاح.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿لَنْ يَنال اللَّهَ لُحُومُها ولا دِماؤُها﴾ أيْ لا يُرْفَعانِ إلَيْهِ ﴿ولَكِنْ يَنالهُ التَّقْوى مِنكُمْ﴾ أيْ يُرْفَع إلَيْهِ مِنكُمْ العَمَل الصّالِح الخالِص لَهُ مَعَ الإيمان ﴿كَذَلِكَ سَخَّرَها لَكُمْ لِتُكَبِّرُوا اللَّه عَلى ما هَداكُمْ﴾ أرْشَدَكُمْ لِمَعالِمِ دِينِهِ ومَناسِك حَجّه ﴿وبَشِّرْ المُحْسِنِينَ﴾ أيْ المُوَحِّدِينَ
 
 ---
 
@@ -175,21 +1138,153 @@ Allah says: this sacrifice is prescribed for you so that you will remember Him a
 
 ### Ibn Kathir (English)
 
+They made not a just estimate of Allah such as is due to Him. And on the Day of Resurrection the whole of the earth will be grasped by His Hand and the heavens will be rolled up in His Right Hand. Glorified be He, and High be He above all that they associate as partners with Him (67)
+
 The Idolators did not make a just Estimate of Allah such as is due to Him
-وَمَا قَدَرُواْ اللَّهَ حَقَّ قَدْرِهِ
-(They made not a just estimate of Allah such as is due to Him.) means, the idolators did not give Allah His due when they worshipped others alongside Him. He is the Almighty, and there is none mightier than Him; He is the One Who is able to do all things; He is the Owner of all things and everything is under His control and power. Mujahid said, "This was revealed concerning Quraysh...
+
+وَمَا قَدَرُوا اللَّهَ حَقَّ قَدْرِهِ
+
+(They made not a just estimate of Allah such as is due to Him.) means, the idolators did not give Allah His due when they worshipped others alongside Him. He is the Almighty, and there is none mightier than Him; He is the One Who is able to do all things; He is the Owner of all things and everything is under His control and power. Mujahid said, "This was revealed concerning Quraysh." As-Suddi said, "They did not venerate Him as He deserves to be venerated." Muhammad bin Ka'b said, "If they had made a just estimate of Allah such as is due to Him, they would not have lied." 'Ali bin Abi Talhah reported that Ibn 'Abbas, may Allah be pleased with him, said:
+
+وَمَا قَدَرُوا اللَّهَ حَقَّ قَدْرِهِ
+
+(They made not a just estimate of Allah such as is due to Him.) "These are the disbeliever who did not believe that Allah had power over them. Whoever believes that Allah is able to do all things, has made a just estimate of Allah such as is due to Him, and whoever does not believe that, has not made a just estimate of Allah such as is due to Him."
+
+Many Hadiths have been narrated concerning this Ayah and how it and other Ayat like it are to be interpreted and accepted without any attempts to twist or change the meaning. Concerning the Ayah,
+
+وَمَا قَدَرُوا اللَّهَ حَقَّ قَدْرِهِ
+
+(They made not a just estimate of Allah such as is due to Him.) Al-Bukhari recorded that 'Abdullah bin Mas'ud, may Allah be pleased with him, said, "One of the rabbis came to the Messenger of Allah ﷺ and said, 'O Muhammad! We learn that Allah will put the heavens on one finger, the earths on one finger, the trees on one finger, the water and dust on one finger, and the rest of creation on one finger, then He will say: I am the King.' The Messenger of Allah ﷺ smiled so broadly that his molars could be seen, in confirmation of what the rabbi had said. Then the Messenger of Allah ﷺ recited:
+
+وَمَا قَدَرُوا اللَّهَ حَقَّ قَدْرِهِ وَالْأَرْضُ جَمِيعًا قَبْضَتُهُ يَوْمَ الْقِيَامَةِ
+
+(They made not a just estimate of Allah such as is due to Him. And on the Day of Resurrection the whole of the earth will be grasped by His Hand)." Al-Bukhari also recorded this in other places of his Sahih. It was also recorded by Imam Ahmad and Muslim, and by At-Tirmidhi and An-Nasa'i in the (books of) Tafsir in their Sunans.
+
+Abu Hurayrah, may Allah be pleased with him, said, "I heard the Messenger of Allah ﷺ say:
+
+يَقْبِضُ اللهُ تَعَالَى الْأَرْضَ، وَيَطْوِي السَّمَاءَ بِيَمِينِهِ، ثُمَّ يَقُولُ: أَنَا الْمَلِكُ، أَيْنَ مُلُوكُ الْأَرْضِ؟
+
+(Allah will grasp the earth and roll up the heavens in His Right Hand, then He will say: "I am the King, where are the kings of the earth?")" This version was recorded only by Al-Bukhari; Muslim recorded another version.
+
+Al-Bukhari also recorded from Ibn 'Umar, may Allah be pleased with him, that the Messenger of Allah ﷺ said:
+
+إِنَّ اللهَ تَبَارَكَ وَتَعَالَىٰ يَقْبِضُ يَوْمَ الْقِيَامَةِ الْأَرَضِينَ عَلَىٰ أُصْبُعٍ، وَتَكُونُ السَّمٰوَاتُ بِيَمِينِهِ، ثُمَّ يَقُولُ: أَنَا الْمَلِكُ
+
+(On the Day of Resurrection, Allah, may He be blessed and exalted, will grasp the earth with one finger, and the heavens will be in His Right Hand, then He will say, "I am the King.")
+
+This version was also recorded by Al-Bukhari It is recorded that Ibn 'Umar, may Allah be pleased with him, said, "The Messenger of Allah ﷺ recited this Ayah on the Minbar one day:
+
+وَمَا قَدَرُوا اللَّهَ حَقَّ قَدْرِهِ وَالْأَرْضُ جَمِيعًا قَبْضَتُهُ يَوْمَ الْقِيَامَةِ وَالسَّمَاوَاتُ مَطْوِيَّاتٌ بِيَمِينِهِ ۚ سُبْحَانَهُ وَتَعَالَىٰ عَمَّا يُشْرِكُونَ
+
+(They made not a just estimate of Allah such as is due to Him. On the Day of Resurrection the whole earth will be grasped by His Hand and the heavens will be rolled up in His Right Hand. Glorified be He, and High be He above all that they associate as partners with Him!) The Messenger of Allah ﷺ said while moving his hand forward and backward:
+
+يُمَجِّدُ الرَّبُّ نَفْسَهُ: أَنَا الْجَبَّارُ، أَنَا الْمُتَكَبِّرُ، أَنَا الْمَلِكُ، أَنَا الْعَزِيزُ، أَنَا الْكَرِيمُ
+
+(And the Lord will glorify Himself, saying "I am Compeller, I am the Proud, I am the King, I am the Mighty, I am the Most Generous.")
+
+And the Minbar shook so much that we feared that the Messenger of Allah ﷺ would fall." This was also recorded by Muslim, An-Nasa'i and Ibn Majah.
 
 ### al-Tabari (Arabic)
 
-وقوله: ( وَمَا قَدَرُوا اللَّهَ حَقَّ قَدْرِهِ ) يقول تعالى ذكره: وما عظَّم الله حقّ عظمته, هؤلاء المشركون بالله, الذين يدعونك إلى عبادة الأوثان.وبنحو الذي قلنا في ذلك قال أهل التأويل.* ذكر من قال ذلك:عليّ, قال. ثنا أبو صالح, قال. ثني معاوية, عن عليّ, عن ابن عباس, قوله: ( وَمَا قَدَرُوا اللَّهَ حَقَّ قَدْرِهِ ) قال: هم الكفار الذين لم يؤمنوا بقدرة الله عليهم, فمن آمن أن الله على كل شيء قدير, فقد قدر الله حقّ قدره, ومن لم يؤمن بذلك, فلم يقدر الله حقّ قدره.حدثنا محمد, قال: ثنا أحمد. قال. ثنا أس...
+القول في تأويل قوله تعالى: ﴿بَلِ اللَّهَ فَاعْبُدْ وَكُنْ مِنَ الشَّاكِرِينَ (٦٦) وَمَا قَدَرُوا اللَّهَ حَقَّ قَدْرِهِ وَالأرْضُ جَمِيعًا قَبْضَتُهُ يَوْمَ الْقِيَامَةِ وَالسَّماوَاتُ مَطْوِيَّاتٌ بِيَمِينِهِ سُبْحَانَهُ وَتَعَالَى عَمَّا يُشْرِكُونَ (٦٧) ﴾
+
+يقول تعالى ذكره لنبيه محمد ﷺ: لا تعبد ما أمرك به هؤلاء المشركون من قومك يا محمد بعبادته، بل الله فاعبد دون كلّ ما سواه من الآلهة والأوثان والأنداد ﴿وَكُنْ مِنَ الشَّاكِرِينَ﴾ لله على نعمته عليك بما أنعم من الهداية لعبادته، والبراءة من عبادة الأصنام والأوثان. ونصب اسم الله بقوله ﴿فَاعْبُدِ﴾ وهو بعده، لأنه رد الكلام، ولو نصب بمضمر قبله، إذا كانت العرب تقول: زيد فليقم. وزيدا فليقم. رفعا ونصبا، الرفع على فلينظر زيد، فليقم، والنصب على انظروا زيدا فليقم. كان صحيحا جائزا.
+
+* *
+
+وقوله: ﴿وَمَا قَدَرُوا اللَّهَ حَقَّ قَدْرِهِ﴾
+
+يقول تعالى ذكره: وما عظَّم الله حقّ عظمته، هؤلاء المشركون بالله، الذين يدعونك إلى عبادة الأوثان.
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+عليّ، قال. ثنا أبو صالح، قال. ثني معاوية، عن عليّ، عن ابن عباس، قوله: ﴿وَمَا قَدَرُوا اللَّهَ حَقَّ قَدْرِهِ﴾ قال: هم الكفار الذين لم يؤمنوا بقدرة الله عليهم، فمن آمن أن الله على كل شيء قدير، فقد قدر الله حقّ قدره، ومن لم يؤمن بذلك، فلم يقدر الله حقّ قدره.
+
+⁕ حدثنا محمد، قال: ثنا أحمد. قال. ثنا أسباط، عن السديّ (وَمَا قَدَرُوا اللَّهَ حَقَّ قَدْرِهِ) : ما عظموا الله حقّ عظمته.
+
+* *
+
+وقوله: ﴿وَالأرْضُ جَمِيعًا قَبْضَتُهُ يَوْمَ الْقِيَامَةِ﴾
+
+يقول تعالى ذكره: والأرض كلها قبضته في يوم القيامة ﴿وَالسَّمَوَاتُ﴾ كلها ﴿مَطْوِيَّاتٌ بِيَمِينِه﴾ فالخبر عن الأرض مُتَنَاهٍ عند قوله: يوم القيامة، والأرض مرفوعة بقوله ﴿قَبْضَتُهُ﴾ ، ثم استأنف الخبر عن السموات، فقال: ﴿وَالسَّماوَاتُ مَطْوِيَّاتٌ بِيَمِينِهِ﴾ وهي مرفوعة بمطويات.
+
+ورُوي عن ابن عباس وجماعة غيره أنهم كانوا يقولون: الأرض والسموات جميعا في يمينه يوم القيامة.
+
+ذكر الرواية بذلك:
+
+⁕ حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن أبن عباس.
+
+* *
+
+قوله: ﴿وَالأرْضُ جَمِيعًا قَبْضَتُهُ يَوْمَ الْقِيَامَةِ﴾
+
+يقول: قد قبض الأرضين والسموات جميعا بيمينه. ألم تسمع أنه قال: ﴿مَطْوِيَّاتٌ بِيَمِينِه﴾ يعنى: الأرض والسموات بيمينه جميعا، قال ابن عباس: وإنما يستعين بشماله المشغولة يمينه.
+
+⁕ حدثنا ابن بشار، قال. ثنا معاذ بن هشام. قال: ثني أبي عن عمرو بن مالك، عن أبي الجوزاء، عن ابن عباس، قال: ما السموات السبع، والأرضون السبع في يد الله إلا كخردلة في يد أحدكم. قال: ثنا معاذ بن هشام، قال: ثني أبي، عن قتادة، قال: ثنا النضر بن أنس، عن ربيعة الجُرْسي، قال: ﴿وَالأرْضُ جَمِيعًا قَبْضَتُهُ يَوْمَ الْقِيَامَةِ وَالسَّماوَاتُ مَطْوِيَّاتٌ بِيَمِينِهِ﴾ قال: ويده الأخرى خلو ليس فيها شيء.
+
+⁕ حدثني عليّ بن الحسن الأزديّ، قال ثنا يحيى بن يمان، عن عمار بن عمرو، عن الحسن، في قوله: ﴿وَالأرْضُ جَمِيعًا قَبْضَتُهُ يَوْمَ الْقِيَامَةِ﴾ قال: كأنها جوزة بقضها وقضيضها.
+
+⁕ حُدثت عن الحسين، قال: سمعت أبا معاذ يقول: ثنا عبيد، قال: سمعت الضحاك يقول في قوله: ﴿وَالأرْضُ جَمِيعًا قَبْضَتُهُ يَوْمَ الْقِيَامَةِ﴾ يقول: السموات والأرض مطويات بيمينه جميعا.
+
+وكان ابن عباس يقول: إنما يستعين بشماله المشغولة يمينه، وإنما الأرض والسموات كلها بيمينه، وليس في شماله شيء.
+
+⁕ حدثنا الربيع، قال: ثنا ابن وهب، قال: أخبرني أُسامة بن زيد، عن أبي حازم، عن عبد الله بن عمر، أنه رأى رسول الله ﷺ، على المنبر يخطب الناس، فمر بهذه الآية: ﴿وَمَا قَدَرُوا اللَّهَ حَقَّ قَدْرِهِ وَالأرْضُ جَمِيعًا قَبْضَتُهُ يَوْمَ الْقِيَامَةِ﴾ فقال رسول الله ﷺ:"يَأْخُذُ السَّمَوَاتِ وَالأرَضَينَ السَّبْعَ فَيَجْعَلُهَا في كَفِّهِ، ثُمَّ يَقُولُ بِهِما كمَا يَقُولُ الغُلامُ بالكُرَةِ: أنا اللهُ الوَاحِدُ، أنا اللهُ العَزِيزُ"حتى لقد رأينا المنبر وإنه ليكاد أن يسقط به.
+
+⁕ حدثنا ابن بشار، قال: ثنا يحيى، عن سفيان، قال: ثني منصور وسليمان، عن إبراهيم، عن عبيدة السَّلْماني، عن عيد الله، قال: جاء يهوديّ إلى النبيّ ﷺ فقال: يا محمد إن الله يمسك السموات على أصبع، والأرضين على أصبع، والجبال على أصبع، والخلائق على أصبع، ثم يقول: أنا الملك، قال: فضحك النبي ﷺ حتى بدت نواجذه وقال: ﴿وَمَا قَدَرُوا اللَّهَ حَقَّ قَدْرِهِ﴾ .
+
+⁕ حدثنا ابن بشار، قال: ثنا يحيى، قال: ثنا فضيل بن عياض، عن منصور، عن إبراهيم، عن عبيدة عن عبد الله، قال: فضحك النبي ﷺ تعجبا وتصديقا.
+
+محمد بن الحسين، قال: ثنا أحمد بن المفضل، قال: ثنا أسباط، عن السديّ، عن منصور، عن خيثمة بن عبد الرحمن، عن علقمة، عن عبد الله بن مسعود، قال: كنا عند رسول الله ﷺ، حين جاءه حبر من أحبار اليهود، فجلس إليه، فقال له النبيّ ﷺ:"حَدِّثْنا، قال: إن الله تبارك وتعالى إذا كان يوم القيامة، جعل السموات على أصبع، والأرضين على أصبع، والجبال على أصبع، والماء والشجر على أصبع، وجميع الخلائق على أصبع ثم يهزهنّ ثم يقول: أنا الملك، قال: فضحك رسول الله حتى بدت نواجذه تصديقا لما قال، ثم قرأ هذه الآية: ﴿وَمَا قَدَرُوا اللَّهَ حَقَّ قَدْرِهِ﴾ ... الآية".
+
+محمد، قال: ثنا أحمد، قال: ثنا أسباط، عن السديّ، نحو ذلك.
+
+⁕ حدثني سليمان بن عبد الجبار، وعباس بن أبي طالب، قالا ثنا محمد بن الصلت، قال: ثنا أبو كدينة عن عطاء بن السائب، عن أبي الضحى، عن ابن عباس، قال: مر يهوديّ بالنبيّ ﷺ وهو جالس، فقال:"يا يَهُودِيُّ حَدّثْنا"، فقال: كيف تقول يا أبا ألقاسم يوم يجعل الله السماء على ذه، والأرض على ذه، والجبال على ذه، وسائر الخلق على ذه، فأنزل الله ﴿وَمَا قَدَرُوا اللَّهَ حَقَّ قَدْرِهِ﴾ ... الآية".
+
+⁕ حدثني أبو السائب، قال: ثنا أبو معاوية، عن الأعمش، عن إبراهيم، عن علقمة، عن عبد الله، قال:"أتى النبي ﷺ رجل من أهل الكتاب، فقال: يا أبا القاسم أبلغك أن الله يحمل الخلائق على أصبع، والسموات على أصبع، والأرضين على أصبع، والشجر على أصبع، والثرى على أصبع؟ قال فضحك النبي ﷺ حتى بدت نواجذه، فأنزل الله ﴿وَمَا قَدَرُوا اللَّهَ حَقَّ قَدْرِهِ وَالأرْضُ جَمِيعًا قَبْضَتُهُ﴾ ... إلى آخر الآية.
+
+وقال آخرون: بل السموات في يمينه، والأرضون في شماله.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا عليّ بن داود، قال: ثنا ابن أبي مريم، قال: أخبرنا ابن أبي حازم، قال: ثني أبو حازم، عن عبيد الله بن مقْسَمٍ، أنه سمع عبد الله بن عمر يقول: رأيت رسول الله ﷺ وهو على المنبر يقول:"يَأْخُذُ الجَبَّارُ سَمَوَاتِه وأرْضَهُ بِيَدَيْه"وقبض رسول الله ﷺ يديه، وجعل يقبضهما ويبسطهما، قال: ثمَّ يَقُولُ:"أنا الرَّحْمَنُ أنا المَلِك، أيْنَ الجَبَّارُونَ، أيْنَ المُتَكَبِّرُونَ"وتمايل رسول الله ﷺ عن يمينه، وعن شماله، حتى نظرت إلى المنبر يتحرّك من أسفل شيء منه، حتى إني لأقول: أساقط هو برسول الله ﷺ"؟.
+
+⁕ حدثني أبو علقمة الفروي عبد الله بن محمد، قال: ثني عبد الله بن نافع، عن عبد العزيز بن أبي حازم، عن أبيه، عن عبيد بن عمير، عن عبد الله بن عمر، أنه قال: سمعت رسول الله ﷺ يقول:"يَأْخُذُ الجَبَّارُ سَمَوَاتِهِ وَأرْضَهُ بِيَديْهِ"، وقبض يده فجعل يقبضها ويبسطها، ثُمَّ يَقُولُ:"أنا + الجَبَّارُ، أنا المَلِكُ، أيْنَ الجَبَّارُونَ، أيْنَ المُتَكَبِّرُونَ؟ "قال: ويميل رسول الله ﷺ عن يمينه وعن شماله، حتى نظرت إلى المنبر يتحرّك من أسفل شيء منه، حتى إني لأقول: أساقط هو برسول الله ﷺ؟ ".
+
+⁕ حدثني الحسن بن عليّ بن عياش الحمصي، قال: ثنا بشر بن شعيب، قال: أخبرني أبي، قال: ثنا محمد بن مسلم بن شهاب، قال: أخبرني سعيد بن المسيب، عن أبي هريرة أنه كان يقول: قال رسول الله ﷺ:"يَقْبِضُ اللهُ عَزَّ وجَلَّ الأرْضَ يَوْمَ القِيامَةِ وَيَطْوِي السموات بيَمينهِ، ثُمَّ يَقُولُ: أنا المَلِكُ أيْنَ مُلُوكُ الأرْضِ؟ ".
+
+⁕ حُدثت عن حرملة بن يحيى، قال: ثنا إدريس بن يحيى القائد، قال: أخبرنا حيوة، عن عقيل، عن ابن شهاب، قال: أخبرني نافع مولى ابن عمر، عن عبد الله بن عمر، أن رسول الله ﷺ قال:"إنَّ اللهَ يَقْبِضُ الأرْضَ يَوْمَ القِيَامَةِ بِيَدِهِ، وَيَطْوِي السَّماءَ بِيَمينهِ وَيَقُولُ: أنا المَلِكُ".
+
+⁕ حدثني محمد بن عون، قال: ثنا أبو المغيرة، قال: ثنا ابن أبي مريم، قال: ثنا سعيد بن ثوبان الكلاعي عن أبي أيوب الأنصاري، قال: أتى رسول الله ﷺ حبر من اليهود، قال: أرأيت إذ يقول الله في كتابه: ﴿وَالأرْضُ جَمِيعًا قَبْضَتُهُ يَوْمَ الْقِيَامَةِ وَالسَّماوَاتُ مَطْوِيَّاتٌ بِيَمِينِهِ﴾ فأين الخلق عند ذلك؟ قال:"هُمْ فِيها كرَقْمِ الكِتابِ".
+
+⁕ حدثنا إبراهيم بن سعيد الجوهري، قال: ثنا أبو أسامة، قال: ثنا عمرو بن حمزة، قال: ثني سالم، عن أبيه، أنه أخبره أن رسول الله ﷺ قال:"يَطْوِي اللهُ السَّمَوَاتِ فَيَأخُذُهُنَّ بِيَمِينِهِ ويَطْوِي الأرْضَ فَيأْخُذُها بشِمالِهِ، ثُمَّ يَقُولُ: أنا المَلِك أيْنَ الجَبَّارُونَ؟ أينَ المُتَكَبِّرُونَ".
+
+وقيل: إن هذه الآية نزلت من أجل يهودي سأل رسول الله ﷺ عن صفة الرب.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا ابن حميد، قال: ثنا سلمة، قال: ثني ابن إسحاق، عن محمد، عن سعيد، قال:"أتى رهط من اليهود نبي الله ﷺ، فقالوا: يا محمد، هذا الله خلق الخلق، فمن خلقه؟ فغضب النبي ﷺ حتى انتقع لونه، ثم ساورهم غضبا لربه، فجاءه جبريل فسكنه، وقال: اخفض عليك جناحك يا محمد، وجاءه من الله جواب ما سألوه عنه، قال: يقول الله تبارك وتعالى: ﴿قُلْ هُوَ اللَّهُ أَحَد اللَّهُ الصَّمَدُ لَمْ يَلِدْ وَلَمْ يُولَدْ وَلَمْ يَكُنْ لَهُ كُفُوًا أَحَدٌ﴾ فلما تلاها عليهم النبي ﷺ قالوا: صف لنا ربك، كيف خلقه، وكيف عضده، وكيف ذراعه؟ فغضب النبي ﷺ أشد من غضبه الأول، ثم ساورهم، فأتاه جبريل فقال مثل مقالته، وأتاه بجواب ما سألوه عنه ﴿وَمَا قَدَرُوا اللَّهَ حَقَّ قَدْرِهِ وَالأرْضُ جَمِيعًا قَبْضَتُهُ يَوْمَ الْقِيَامَةِ وَالسَّماوَاتُ مَطْوِيَّاتٌ بِيَمِينِهِ سُبْحَانَهُ وَتَعَالَى عَمَّا يُشْرِكُونَ﴾ .
+
+⁕ حدثنا ابن حميد، قال: ثنا يعقوب، عن جعفر، عن سعيد، قال: تكلمت اليهود في صفة الرب، فقالوا ما لم يعلموا ولم يروا، فأنزل الله على نبيه ﷺ: ﴿وَمَا قَدَرُوا اللَّهَ حَقَّ قَدْرِهِ﴾ ثم بين للناس عظمته فقال: ﴿وَالأرْضُ جَمِيعًا قَبْضَتُهُ يَوْمَ الْقِيَامَةِ وَالسَّماوَاتُ مَطْوِيَّاتٌ بِيَمِينِهِ سُبْحَانَهُ وَتَعَالَى عَمَّا يُشْرِكُون﴾ ، فجعل صفتهم التي وصفوا الله بها شركا".
+
+وقال بعض أهل العربية من أهل البصرة ﴿وَالأرْضُ جَمِيعًا قَبْضَتُهُ يَوْمَ الْقِيَامَةِ وَالسَّماوَاتُ مَطْوِيَّاتٌ بِيَمِينِهِ﴾ يقول في قدرته نحو قوله: ﴿وَمَا مَلَكَتْ أَيْمَانُكُمْ﴾ أي وما كانت لكم عليه قدرة وليس الملك لليمين دون سائر الجسد، قال: وقوله ﴿قَبْضَتُهُ﴾ نحو قولك للرجل: هذا في يدك وفي قبضتك. والأخبار التي ذكرناها عن رسول الله ﷺ وعن أصحابه وغيرهم، تشهد على بطول هذا القول.
+
+⁕ حدثنا ابن حميد، قال: ثنا هارون بن المغيرة، عن عنبسة، عن حبيب بن أبي عمرة، عن مجاهد، عن ابن عباس، عن عائشة قالت: سألت رسول الله ﷺ، عن قوله ﴿وَالأرْضُ جَمِيعًا قَبْضَتُهُ يَوْمَ الْقِيَامَةِ﴾ فأين الناس يومئذ؟ قال:"عَلى الصِّراطِ".
+
+* *
+
+وقوله ﴿سُبْحَانَهُ وَتَعَالَى عَمَّا يُشْرِكُونَ﴾
+
+يقول تعالى ذكره تنزيها وتبرئة لله، وعلوا وارتفاعا عما يشرك به هؤلاء المشركون من قومك يا محمد، القائلون لك: اعبد الأوثان من دون الله، واسجد لآلهتنا.
 
 ### al-Muyassar (Arabic)
 
-وما عظَّم هؤلاء المشركون اللهَ حق تعظيمه؛ إذ عبدوا معه غيره مما لا ينفع ولا يضر، فسوَّوا المخلوق مع عجزه بالخالق العظيم، الذي من عظيم قدرته أن جميع الأرض في قبضته يوم القيامة، والسموات مطويات بيمينه، تنزه وتعاظم سبحانه وتعالى عما يشرك به هؤلاء المشركون، وفي الآية دليل على إثبات القبضة، واليمين، والطيِّ، لله كما يليق بجلاله وعظمته، من غير تكييف ولا تشبيه.
+وما عظَّم هؤلاء المشركون اللهَ حق تعظيمه؛ إذ عبدوا معه غيره مما لا ينفع ولا يضر، فسوَّوا المخلوق مع عجزه بالخالق العظيم، الذي من عظيم قدرته أن جميع الأرض في قبضته يوم القيامة، والسموات مطويات بيمينه، تنزه وتعاظم سبحانه وتعالى عما يشرك به هؤلاء المشركون. وفي الآية دليل على إثبات القبضة، واليمين، والطيِّ، لله كما يليق بجلاله وعظمته، من غير تكييف ولا تشبيه.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿وما قَدَرُوا اللَّه حَقّ قَدْره﴾ ما عَرَفُوهُ حَقّ مَعْرِفَته أوْ ما عَظَّمُوهُ حَقّ عَظَمَته حِين أشْرَكُوا بِهِ غَيْره ﴿والأَرْض جَمِيعًا﴾ حال: أيْ السَّبْع ﴿قَبْضَته﴾ أيْ مَقْبُوضَة لَهُ: أيْ فِي مُلْكه وتَصَرُّفه ﴿يَوْم القِيامَة والسَّمَوات مَطْوِيّات﴾ مَجْمُوعات ﴿بِيَمِينِهِ﴾ بِقُدْرَتِهِ ﴿سُبْحانه وتَعالى عَمّا يُشْرِكُونَ﴾ مَعَهُ
 
 ---
 
@@ -197,14 +1292,157 @@ The Idolators did not make a just Estimate of Allah such as is due to Him
 
 ### Ibn Kathir (English)
 
+Had We sent down this Qur'an on a mountain, you would surely have seen it humbling itself and rent asunder by the fear of Allah. Such are the parables which We put forward to mankind that they may reflect (21)He is Allah, beside Whom La ilaha illa Huwa, the All-Knower of the unseen and the seen. He is the Most Gracious, the Most Merciful (22)He is Allah, beside Whom La ilaha illa Huwa, Al-Malik, Al-Quddus, As-Salam, Al-Mu'min, Al-Muhaymin, Al-'Aziz, Al-Jabbar, Al-Mutakabbir. Glory be to Allah! Above all that they associate as partners with Him (23)He is Allah, Al-Khaliq, Al-Bari, Al-Musawwir. To Him belong the Best Names. All that is in the heavens and the earth glorify Him. And He is the Almighty, the All-Wise (24)
+
 Asserting the Greatness of the Qur'an
+
 Allah the Exalted emphasizes the greatness of the Qur'an, its high status and of being worthy of making hearts humble and rent asunder upon hearing it, because of the true promises and sure threats that it contains,
-لَوْ أَنزَلْنَا هَـذَا الْقُرْءَانَ عَلَى جَبَلٍ لَّرَأَيْتَهُ خَـشِعاً مُّتَصَدِّعاً مِّنْ خَشْيَةِ اللَّهِ
-(Had We sent down this Qur'an on a mountain, you would surely have seen it humbling itself and rent asunder by the fear of Allah.) If ...
+
+لَوْ أَنْزَلْنَا هَٰذَا الْقُرْآنَ عَلَىٰ جَبَلٍ لَرَأَيْتَهُ خَاشِعًا مُتَصَدِّعًا مِنْ خَشْيَةِ اللَّهِ ۚ
+
+(Had We sent down this Qur'an on a mountain, you would surely have seen it humbling itself and rent asunder by the fear of Allah.)
+
+If this is the case with a mountain which is hard and huge, that if it was made able to comprehend and understand this Qur'an, will feel humble and crumble from fear of Allah the Exalted, then what about you – O mankind? Why do your hearts not feel softness and humbleness from the fear of Allah, even though you understand Allah's command and comprehend His Book? This is why Allah said,
+
+وَتِلْكَ الْأَمْثَالُ نَضْرِبُهَا لِلنَّاسِ لَعَلَّهُمْ يَتَفَكَّرُونَ
+
+(Such are the parables which We put forward to mankind that they may reflect.) There is a Hadith of the Mutawatir grade that states that the Messenger of Allah ﷺ had someone make him a Minbar. Before that, he used to stand next to a tree trunk in the Masjid to deliver speeches. So, when the Minbar was made and placed in the Masjid, the Prophet ﷺ came to deliver a speech and passed the tree trunk, headed towards the Minbar, the tree trunk started weeping, just like an infant. The tree trunk missed hearing the remembrance of Allah and the revelation that were being recited next to it. In one of the narrations for this Hadith, Al-Hasan Al-Basri said after narrating the Hadith, "You – mankind – are more worthy to miss the Messenger of Allah ﷺ than the tree trunk!"
+
+Likewise, this honorable Ayah asks that if the solid mountains feel humble and are rent asunder from the fear of Allah, if it heard Allah's Speech and comprehended it, what about you – O mankind – who heard the Qur'an and understood it? Allah the Exalted said in another Ayah,
+
+وَلَوْ أَنَّ قُرْآنًا سُيِّرَتْ بِهِ الْجِبَالُ أَوْ قُطِّعَتْ بِهِ الْأَرْضُ أَوْ كُلِّمَ بِهِ الْمَوْتَىٰ ۗ
+
+(And if there had been a Qur'an with which mountains could be moved, or the earth could be cloven asunder, or the dead could be made to speak.)(13:31)
+
+We mentioned the meaning of this Ayah as stating that, if there were a Qur'an that has these qualities, it would be this Qur'an. Allah the Exalted said in another Ayah,
+
+وَإِنَّ مِنَ الْحِجَارَةِ لَمَا يَتَفَجَّرُ مِنْهُ الْأَنْهَارُ ۚ وَإِنَّ مِنْهَا لَمَا يَشَّقَّقُ فَيَخْرُجُ مِنْهُ الْمَاءُ ۚ وَإِنَّ مِنْهَا لَمَا يَهْبِطُ مِنْ خَشْيَةِ اللَّهِ ۗ
+
+(And indeed, there are stones out of which rivers gush forth, and indeed, there are of them (stones) which split asunder so that water flows from them, and indeed, there are of them which fall down for fear of Allah.)(2:74)
+
+Glorifying Allah the Exalted by mentioning His Names and Attributes
+
+Allah the Exalted said,
+
+هُوَ اللَّهُ الَّذِي لَا إِلَٰهَ إِلَّا هُوَ ۖ عَالِمُ الْغَيْبِ وَالشَّهَادَةِ ۖ هُوَ الرَّحْمَٰنُ الرَّحِيمُ
+
+(He is Allah, beside Whom La ilaha illa Huwa, the All-Knower of the unseen and the seen. He is the Most Gracious, the Most Merciful.) Allah states that He Alone is worthy of worship, there is no Lord or God for the existence, except Him. All that is being worshipped instead of Allah are false deities. Allah is the All-Knower in the unseen and the seen, He knows all that pertains to the creations that we see, and those we cannot see. Nothing in heaven or on earth ever escapes His knowledge, no matter how great or insignificant, big or small, including ants in darkness. Allah's statement,
+
+هُوَ الرَّحْمَٰنُ الرَّحِيمُ
+
+(He is the Most Gracious, the Most Merciful.) was duly explained before at the very beginning of this Tafsir, so it is not necessary to repeat it here, and it asserts that Allah is the Owner of the wide encompassing mercy that entails all of His creation. He is Ar-Rahman and Ar-Rahim of this life and the Hereafter. Allah the Exalted said in other Ayat,
+
+وَرَحْمَتِي وَسِعَتْ كُلَّ شَيْءٍ ۚ
+
+(And My mercy embraces all things.)(7:156),
+
+كَتَبَ رَبُّكُمْ عَلَىٰ نَفْسِهِ الرَّحْمَةَ ۖ
+
+(Your Lord has written (prescribed) mercy for Himself.)(6:54), and,
+
+قُلْ بِفَضْلِ اللَّهِ وَبِرَحْمَتِهِ فَبِذَٰلِكَ فَلْيَفْرَحُوا هُوَ خَيْرٌ مِمَّا يَجْمَعُونَ
+
+(Say: "In the bounty of Allah, and in His mercy; – therein let them rejoice." That is better than what (the wealth) they amass.)(10:58) Allah the Exalted said,
+
+هُوَ اللَّهُ الَّذِي لَا إِلَٰهَ إِلَّا هُوَ الْمَلِكُ
+
+(He is Allah, beside Whom La ilaha illa Huwa, Al-Malik.) Al-Malik, meaning "The Owner and King of all things," Who has full power over them without resistance or hindrance. Allah's statement,
+
+الْقُدُّوسُ
+
+(Al-Quddus,) meaning "The Pure," according to Wahb bin Munabbih, while Mujahid and Qatadah said that Al-Quddus means "The Blessed." Ibn Jurayj said that Al-Quddus means "He Whom the honorable angels glorify."
+
+السَّلَامُ
+
+(As-Salam,) meaning "Free from any defects or shortcomings that lessen or decrease His perfect attributes and actions." Allah's statement,
+
+الْمُؤْمِنُ
+
+(Al-Mu'min,) means "Who has granted safety to His servants by promising that He will never be unjust to them, " according to Ad-Dahhak who reported it from Ibn 'Abbas. Qatadah said that Al-Mu'min means that "Allah affirms that His statements are true," while Ibn Zayd said that it means, "He attested to His faithful servants' having faith in Him." Allah's statement,
+
+الْمُهَيْمِنُ
+
+(Al-Muhaymin,) means, according to Ibn 'Abbas and others, "The Witness for His servants actions," that is, the Ever-Watcher over them. Allah said in similar Ayat,
+
+وَاللَّهُ عَلَىٰ كُلِّ شَيْءٍ شَهِيدٌ
+
+(And Allah is Witness over all things.)(58:6),
+
+ثُمَّ اللَّهُ شَهِيدٌ عَلَىٰ مَا يَفْعَلُونَ
+
+(and moreover Allah is Witness over what they used to do.)(10:46), and,
+
+أَفَمَنْ هُوَ قَائِمٌ عَلَىٰ كُلِّ نَفْسٍ بِمَا كَسَبَتْ ۗ
+
+(Is then He (Allah) Who takes charge (guards) of every person and knows all that he has earned?)(13:33) Allah said,
+
+الْعَزِيزُ
+
+(Al-'Aziz,) meaning that "He is the Almighty, Dominant over all things." Therefore, His majesty is never violated, due to His might, greatness, irresistible power and pride. Allah said;
+
+الْجَبَّارُ الْمُتَكَبِّرُ
+
+(Al-Jabbar, Al-Mutakabbir), meaning "The Only One worthy of being the Compeller and Supreme." There is a Hadith in the Sahih Collection in which Allah said,
+
+الْعَظَمَةُ إِزَارِي، وَالْكِبْرِيَاءُ رِدَائِي، فَمَنْ نَازَعَنِي وَاحِدًا مِنْهُمَا عَذَّبْتُهُ
+
+(Might is My Izar and pride is My Rida; if anyone disputes any one of them with Me, then I will punish him.) Allah the Exalted said,
+
+سُبْحَانَ اللَّهِ عَمَّا يُشْرِكُونَ
+
+(Glory be to Allah! (High is He) above all that they associate as partners with Him.), then He said,
+
+هُوَ اللَّهُ الْخَالِقُ الْبَارِئُ الْمُصَوِّرُ ۖ
+
+(He is Allah, Al-Khaliq, Al-Bari, Al-Musawwir.) Al-Khaliq refers to measuring and proportioning, Al-Bari refers to inventing and bringing into existence what He has created and measured. Surely, none except Allah is able to measure, bring forth and create whatever He wills to come to existence. Allah's statement,
+
+الْخَالِقُ الْبَارِئُ الْمُصَوِّرُ
+
+(Al-Khaliq, Al-Bari, Al-Musawwir.) means, if Allah wills something, He merely says to it "be" and it comes to existence in the form that He wills and the shape He chooses,
+
+فِي أَيِّ صُورَةٍ مَا شَاءَ رَكَّبَكَ
+
+(In whatever form He willed, He put you together.)(82:8) Allah describing Himself as being Al-Musawwir, Who brings into existence anything He wills in the shape and form He decides.
+
+Al-Asma' Al-Husna
+
+Allah the Exalted said,
+
+لَهُ الْأَسْمَاءُ الْحُسْنَىٰ ۚ
+
+(To Him belong Al-Asma' Al-Husna (the Best Names).) We explained the meaning of this Ayah in the Tafsir of Surat Al-A'raf. The Two Sahihs recorded that Abu Hurayrah said that the Messenger of Allah ﷺ said,
+
+إِنَّ للهِ تَعَالَىٰ تِسْعَةً وَتِسْعِينَ اسْمًا، مِائَةً إِلَّا وَاحِدًا، مَنْ أَحْصَاهَا دَخَلَ الْجَنَّةَ، وَهُوَ وِتْرٌ يُحِبُّ الْوِتْرَ
+
+(Allah the Exalted has ninety-nine Names, one hundred less one; whoever then preserves them, will enter Paradise. Allah is Witr (One) and He likes the Witr.)
+
+Everything praises and glorifies Allah
+
+Allah's statement,
+
+يُسَبِّحُ لَهُ مَا فِي السَّمَاوَاتِ وَالْأَرْضِ ۖ
+
+(All that is in the heavens and the earth glorify Him.) is similar to His other statement,
+
+تُسَبِّحُ لَهُ السَّمَاوَاتُ السَّبْعُ وَالْأَرْضُ وَمَنْ فِيهِنَّ ۚ وَإِنْ مِنْ شَيْءٍ إِلَّا يُسَبِّحُ بِحَمْدِهِ وَلَٰكِنْ لَا تَفْقَهُونَ تَسْبِيحَهُمْ ۗ إِنَّهُ كَانَ حَلِيمًا غَفُورًا
+
+(The seven heavens and the earth and all that is therein, glorify Him and there is not a thing but glorifies His praise. But you understand not their glorification. Truly, He is Ever Forbearing, Oft–Forgiving.)(17:44) Allah's statement,
+
+وَهُوَ الْعَزِيزُ
+
+(and He is Al-'Aziz) The Almighty, meaning, His greatness is never humbled,
+
+الْحَكِيمُ
+
+(Al-Hakim) the All-Wise, in His legislation and decrees.
+
+This is the end of the Tafsir of Surat Al-Hashr. All praise is due to Allah.
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله تعالى :  هُوَ اللَّهُ الَّذِي لا إِلَهَ إِلا هُوَ عَالِمُ الْغَيْبِ وَالشَّهَادَةِ هُوَ الرَّحْمَنُ الرَّحِيمُ (22)يقول تعالى ذكره: الذي يتصدّع من خشيته الجبل أيها الناس هو المعبود، الذي لا تنبغي العبادة والألوهية إلا له، عالم غيب السموات والأرض، وشاهد ما فيهما مما يرى ويحسّ(هُوَ الرَّحْمَنُ الرَّحِيمُ ) يقول: هو رحمن الدنيا والآخرة، رحيم بأهل الإيمان به.
+القول في تأويل قوله تعالى: ﴿هُوَ اللَّهُ الَّذِي لا إِلَهَ إِلا هُوَ عَالِمُ الْغَيْبِ وَالشَّهَادَةِ هُوَ الرَّحْمَنُ الرَّحِيمُ (٢٢) ﴾
+
+يقول تعالى ذكره: الذي يتصدّع من خشيته الجبل أيها الناس هو المعبود، الذي لا تنبغي العبادة والألوهية إلا له، عالم غيب السموات والأرض، وشاهد ما فيهما مما يرى ويحسّ ﴿هُوَ الرَّحْمَنُ الرَّحِيمُ﴾ يقول: هو رحمن الدنيا والآخرة، رحيم بأهل الإيمان به.
 
 ### al-Muyassar (Arabic)
 
@@ -212,7 +1450,7 @@ Allah the Exalted emphasizes the greatness of the Qur'an, its high status and of
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿هُوَ اللَّه الَّذِي لا إلَه إلّا هُوَ عالِم الغَيْب والشَّهادَة﴾ السِّرّ والعَلانِيَة
 
 ---
 
@@ -220,22 +1458,263 @@ Allah the Exalted emphasizes the greatness of the Qur'an, its high status and of
 
 ### Ibn Kathir (English)
 
+Had We sent down this Qur'an on a mountain, you would surely have seen it humbling itself and rent asunder by the fear of Allah. Such are the parables which We put forward to mankind that they may reflect (21)He is Allah, beside Whom La ilaha illa Huwa, the All-Knower of the unseen and the seen. He is the Most Gracious, the Most Merciful (22)He is Allah, beside Whom La ilaha illa Huwa, Al-Malik, Al-Quddus, As-Salam, Al-Mu'min, Al-Muhaymin, Al-'Aziz, Al-Jabbar, Al-Mutakabbir. Glory be to Allah! Above all that they associate as partners with Him (23)He is Allah, Al-Khaliq, Al-Bari, Al-Musawwir. To Him belong the Best Names. All that is in the heavens and the earth glorify Him. And He is the Almighty, the All-Wise (24)
+
 Asserting the Greatness of the Qur'an
+
 Allah the Exalted emphasizes the greatness of the Qur'an, its high status and of being worthy of making hearts humble and rent asunder upon hearing it, because of the true promises and sure threats that it contains,
-لَوْ أَنزَلْنَا هَـذَا الْقُرْءَانَ عَلَى جَبَلٍ لَّرَأَيْتَهُ خَـشِعاً مُّتَصَدِّعاً مِّنْ خَشْيَةِ اللَّهِ
-(Had We sent down this Qur'an on a mountain, you would surely have seen it humbling itself and rent asunder by the fear of Allah.) If ...
+
+لَوْ أَنْزَلْنَا هَٰذَا الْقُرْآنَ عَلَىٰ جَبَلٍ لَرَأَيْتَهُ خَاشِعًا مُتَصَدِّعًا مِنْ خَشْيَةِ اللَّهِ ۚ
+
+(Had We sent down this Qur'an on a mountain, you would surely have seen it humbling itself and rent asunder by the fear of Allah.)
+
+If this is the case with a mountain which is hard and huge, that if it was made able to comprehend and understand this Qur'an, will feel humble and crumble from fear of Allah the Exalted, then what about you – O mankind? Why do your hearts not feel softness and humbleness from the fear of Allah, even though you understand Allah's command and comprehend His Book? This is why Allah said,
+
+وَتِلْكَ الْأَمْثَالُ نَضْرِبُهَا لِلنَّاسِ لَعَلَّهُمْ يَتَفَكَّرُونَ
+
+(Such are the parables which We put forward to mankind that they may reflect.) There is a Hadith of the Mutawatir grade that states that the Messenger of Allah ﷺ had someone make him a Minbar. Before that, he used to stand next to a tree trunk in the Masjid to deliver speeches. So, when the Minbar was made and placed in the Masjid, the Prophet ﷺ came to deliver a speech and passed the tree trunk, headed towards the Minbar, the tree trunk started weeping, just like an infant. The tree trunk missed hearing the remembrance of Allah and the revelation that were being recited next to it. In one of the narrations for this Hadith, Al-Hasan Al-Basri said after narrating the Hadith, "You – mankind – are more worthy to miss the Messenger of Allah ﷺ than the tree trunk!"
+
+Likewise, this honorable Ayah asks that if the solid mountains feel humble and are rent asunder from the fear of Allah, if it heard Allah's Speech and comprehended it, what about you – O mankind – who heard the Qur'an and understood it? Allah the Exalted said in another Ayah,
+
+وَلَوْ أَنَّ قُرْآنًا سُيِّرَتْ بِهِ الْجِبَالُ أَوْ قُطِّعَتْ بِهِ الْأَرْضُ أَوْ كُلِّمَ بِهِ الْمَوْتَىٰ ۗ
+
+(And if there had been a Qur'an with which mountains could be moved, or the earth could be cloven asunder, or the dead could be made to speak.)(13:31)
+
+We mentioned the meaning of this Ayah as stating that, if there were a Qur'an that has these qualities, it would be this Qur'an. Allah the Exalted said in another Ayah,
+
+وَإِنَّ مِنَ الْحِجَارَةِ لَمَا يَتَفَجَّرُ مِنْهُ الْأَنْهَارُ ۚ وَإِنَّ مِنْهَا لَمَا يَشَّقَّقُ فَيَخْرُجُ مِنْهُ الْمَاءُ ۚ وَإِنَّ مِنْهَا لَمَا يَهْبِطُ مِنْ خَشْيَةِ اللَّهِ ۗ
+
+(And indeed, there are stones out of which rivers gush forth, and indeed, there are of them (stones) which split asunder so that water flows from them, and indeed, there are of them which fall down for fear of Allah.)(2:74)
+
+Glorifying Allah the Exalted by mentioning His Names and Attributes
+
+Allah the Exalted said,
+
+هُوَ اللَّهُ الَّذِي لَا إِلَٰهَ إِلَّا هُوَ ۖ عَالِمُ الْغَيْبِ وَالشَّهَادَةِ ۖ هُوَ الرَّحْمَٰنُ الرَّحِيمُ
+
+(He is Allah, beside Whom La ilaha illa Huwa, the All-Knower of the unseen and the seen. He is the Most Gracious, the Most Merciful.) Allah states that He Alone is worthy of worship, there is no Lord or God for the existence, except Him. All that is being worshipped instead of Allah are false deities. Allah is the All-Knower in the unseen and the seen, He knows all that pertains to the creations that we see, and those we cannot see. Nothing in heaven or on earth ever escapes His knowledge, no matter how great or insignificant, big or small, including ants in darkness. Allah's statement,
+
+هُوَ الرَّحْمَٰنُ الرَّحِيمُ
+
+(He is the Most Gracious, the Most Merciful.) was duly explained before at the very beginning of this Tafsir, so it is not necessary to repeat it here, and it asserts that Allah is the Owner of the wide encompassing mercy that entails all of His creation. He is Ar-Rahman and Ar-Rahim of this life and the Hereafter. Allah the Exalted said in other Ayat,
+
+وَرَحْمَتِي وَسِعَتْ كُلَّ شَيْءٍ ۚ
+
+(And My mercy embraces all things.)(7:156),
+
+كَتَبَ رَبُّكُمْ عَلَىٰ نَفْسِهِ الرَّحْمَةَ ۖ
+
+(Your Lord has written (prescribed) mercy for Himself.)(6:54), and,
+
+قُلْ بِفَضْلِ اللَّهِ وَبِرَحْمَتِهِ فَبِذَٰلِكَ فَلْيَفْرَحُوا هُوَ خَيْرٌ مِمَّا يَجْمَعُونَ
+
+(Say: "In the bounty of Allah, and in His mercy; – therein let them rejoice." That is better than what (the wealth) they amass.)(10:58) Allah the Exalted said,
+
+هُوَ اللَّهُ الَّذِي لَا إِلَٰهَ إِلَّا هُوَ الْمَلِكُ
+
+(He is Allah, beside Whom La ilaha illa Huwa, Al-Malik.) Al-Malik, meaning "The Owner and King of all things," Who has full power over them without resistance or hindrance. Allah's statement,
+
+الْقُدُّوسُ
+
+(Al-Quddus,) meaning "The Pure," according to Wahb bin Munabbih, while Mujahid and Qatadah said that Al-Quddus means "The Blessed." Ibn Jurayj said that Al-Quddus means "He Whom the honorable angels glorify."
+
+السَّلَامُ
+
+(As-Salam,) meaning "Free from any defects or shortcomings that lessen or decrease His perfect attributes and actions." Allah's statement,
+
+الْمُؤْمِنُ
+
+(Al-Mu'min,) means "Who has granted safety to His servants by promising that He will never be unjust to them, " according to Ad-Dahhak who reported it from Ibn 'Abbas. Qatadah said that Al-Mu'min means that "Allah affirms that His statements are true," while Ibn Zayd said that it means, "He attested to His faithful servants' having faith in Him." Allah's statement,
+
+الْمُهَيْمِنُ
+
+(Al-Muhaymin,) means, according to Ibn 'Abbas and others, "The Witness for His servants actions," that is, the Ever-Watcher over them. Allah said in similar Ayat,
+
+وَاللَّهُ عَلَىٰ كُلِّ شَيْءٍ شَهِيدٌ
+
+(And Allah is Witness over all things.)(58:6),
+
+ثُمَّ اللَّهُ شَهِيدٌ عَلَىٰ مَا يَفْعَلُونَ
+
+(and moreover Allah is Witness over what they used to do.)(10:46), and,
+
+أَفَمَنْ هُوَ قَائِمٌ عَلَىٰ كُلِّ نَفْسٍ بِمَا كَسَبَتْ ۗ
+
+(Is then He (Allah) Who takes charge (guards) of every person and knows all that he has earned?)(13:33) Allah said,
+
+الْعَزِيزُ
+
+(Al-'Aziz,) meaning that "He is the Almighty, Dominant over all things." Therefore, His majesty is never violated, due to His might, greatness, irresistible power and pride. Allah said;
+
+الْجَبَّارُ الْمُتَكَبِّرُ
+
+(Al-Jabbar, Al-Mutakabbir), meaning "The Only One worthy of being the Compeller and Supreme." There is a Hadith in the Sahih Collection in which Allah said,
+
+الْعَظَمَةُ إِزَارِي، وَالْكِبْرِيَاءُ رِدَائِي، فَمَنْ نَازَعَنِي وَاحِدًا مِنْهُمَا عَذَّبْتُهُ
+
+(Might is My Izar and pride is My Rida; if anyone disputes any one of them with Me, then I will punish him.) Allah the Exalted said,
+
+سُبْحَانَ اللَّهِ عَمَّا يُشْرِكُونَ
+
+(Glory be to Allah! (High is He) above all that they associate as partners with Him.), then He said,
+
+هُوَ اللَّهُ الْخَالِقُ الْبَارِئُ الْمُصَوِّرُ ۖ
+
+(He is Allah, Al-Khaliq, Al-Bari, Al-Musawwir.) Al-Khaliq refers to measuring and proportioning, Al-Bari refers to inventing and bringing into existence what He has created and measured. Surely, none except Allah is able to measure, bring forth and create whatever He wills to come to existence. Allah's statement,
+
+الْخَالِقُ الْبَارِئُ الْمُصَوِّرُ
+
+(Al-Khaliq, Al-Bari, Al-Musawwir.) means, if Allah wills something, He merely says to it "be" and it comes to existence in the form that He wills and the shape He chooses,
+
+فِي أَيِّ صُورَةٍ مَا شَاءَ رَكَّبَكَ
+
+(In whatever form He willed, He put you together.)(82:8) Allah describing Himself as being Al-Musawwir, Who brings into existence anything He wills in the shape and form He decides.
+
+Al-Asma' Al-Husna
+
+Allah the Exalted said,
+
+لَهُ الْأَسْمَاءُ الْحُسْنَىٰ ۚ
+
+(To Him belong Al-Asma' Al-Husna (the Best Names).) We explained the meaning of this Ayah in the Tafsir of Surat Al-A'raf. The Two Sahihs recorded that Abu Hurayrah said that the Messenger of Allah ﷺ said,
+
+إِنَّ للهِ تَعَالَىٰ تِسْعَةً وَتِسْعِينَ اسْمًا، مِائَةً إِلَّا وَاحِدًا، مَنْ أَحْصَاهَا دَخَلَ الْجَنَّةَ، وَهُوَ وِتْرٌ يُحِبُّ الْوِتْرَ
+
+(Allah the Exalted has ninety-nine Names, one hundred less one; whoever then preserves them, will enter Paradise. Allah is Witr (One) and He likes the Witr.)
+
+Everything praises and glorifies Allah
+
+Allah's statement,
+
+يُسَبِّحُ لَهُ مَا فِي السَّمَاوَاتِ وَالْأَرْضِ ۖ
+
+(All that is in the heavens and the earth glorify Him.) is similar to His other statement,
+
+تُسَبِّحُ لَهُ السَّمَاوَاتُ السَّبْعُ وَالْأَرْضُ وَمَنْ فِيهِنَّ ۚ وَإِنْ مِنْ شَيْءٍ إِلَّا يُسَبِّحُ بِحَمْدِهِ وَلَٰكِنْ لَا تَفْقَهُونَ تَسْبِيحَهُمْ ۗ إِنَّهُ كَانَ حَلِيمًا غَفُورًا
+
+(The seven heavens and the earth and all that is therein, glorify Him and there is not a thing but glorifies His praise. But you understand not their glorification. Truly, He is Ever Forbearing, Oft–Forgiving.)(17:44) Allah's statement,
+
+وَهُوَ الْعَزِيزُ
+
+(and He is Al-'Aziz) The Almighty, meaning, His greatness is never humbled,
+
+الْحَكِيمُ
+
+(Al-Hakim) the All-Wise, in His legislation and decrees.
+
+This is the end of the Tafsir of Surat Al-Hashr. All praise is due to Allah.
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله تعالى :  هُوَ اللَّهُ الَّذِي لا إِلَهَ إِلا هُوَ الْمَلِكُ الْقُدُّوسُ السَّلامُ الْمُؤْمِنُ الْمُهَيْمِنُ الْعَزِيزُ الْجَبَّارُ الْمُتَكَبِّرُ سُبْحَانَ اللَّهِ عَمَّا يُشْرِكُونَ (23)يقول تعالى ذكره: هو المعبود الذي لا تصلح العبادة إلا له، الملك الذي لا ملك فوقه، ولا شيء إلا دونه، القدّوس، قيل: هو المبارك.وقد بيَّنت فيما مضى قبل معنى التقديس بشواهده، وذكرت اختلاف المختلفين فيه بما أغنى عن إعادته.* ذكر من قال: عُنِيَ به المبارك .حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، ...
+القول في تأويل قوله تعالى: ﴿هُوَ اللَّهُ الَّذِي لا إِلَهَ إِلا هُوَ الْمَلِكُ الْقُدُّوسُ السَّلامُ الْمُؤْمِنُ الْمُهَيْمِنُ الْعَزِيزُ الْجَبَّارُ الْمُتَكَبِّرُ سُبْحَانَ اللَّهِ عَمَّا يُشْرِكُونَ (٢٣) ﴾
+
+يقول تعالى ذكره: هو المعبود الذي لا تصلح العبادة إلا له، الملك الذي لا ملك فوقه، ولا شيء إلا دونه، القدّوس، قيل: هو المبارك.
+
+وقد بيَّنت فيما مضى قبل معنى التقديس بشواهده، وذكرت اختلاف المختلفين فيه بما أغنى عن إعادته.
+
+ذكر من قال: عُنِيَ به المبارك.
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة ﴿الْقُدُّوسُ﴾ : أي المبارك.
+
+* *
+
+وقوله: ﴿السَّلامَ﴾
+
+يقول: هو الذي يسلم خلقه من ظلمه، وهو اسم من أسمائه.
+
+كما:-
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمّر، عن قتادة ﴿السَّلامَ﴾ : الله السلام.
+
+⁕ حدثنا ابن حُمَيْد، قال: ثنا يحيى بن واضح، قال: ثنا عبيد الله، يعني العَتكي، عن جابر بن زيد قوله: ﴿السَّلامَ﴾ قال: هو الله، وقد ذكرت الرواية فيما مضى، وبيَّنت معناه بشواهده، فأعنى ذلك عن إعادته.
+
+* *
+
+وقوله: ﴿الْمُؤْمِنُ﴾
+
+يعني بالمؤمن: الذي يؤمن خلقه من ظلمه.
+
+وكان قتادة يقول في ذلك ما:-
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة ﴿الْمُؤْمِنُ﴾ : أمن بقوله أنه حقّ.
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة ﴿الْمُؤْمِنُ﴾ : آمن بقوله أنه حقّ.
+
+⁕ حدثنا ابن حُميد، قال: ثنا مهران، عن سفيان، عن جُوَيبر عن الضحاك ﴿الْمُؤْمِنُ﴾ قال: المصدق.
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال، قال ابن زيد في قوله: ﴿الْمُؤْمِنُ﴾ قال: المؤمن: المصدّق الموقن، آمن الناس بربهم فسماهم مؤمنين، وآمن الربّ الكريم لهم بإيمانهم صدّقهم أن يسمى بذلك الاسم.
+
+* *
+
+وقوله: ﴿الْمُهَيْمِنُ﴾
+
+اختلف أهل التأويل في تأويله، فقال بعضهم: المهيمن الشهيد.
+
+ذكر من قال ذلك:
+
+⁕ حدثني عليّ، قال: ثنا أبو صالح، قال: ثني معاوية، عن عليّ، عن ابن عباس، في قوله: ﴿الْمُهَيْمِنُ﴾ قال: الشهيد، وقال مرّة أخرى: الأمين.
+
+⁕ حدثني محمد بن عمرو، قال: ثنا أَبو عاصم قال: ثنا عيسى، وحدثني الحارث، قال: ثنا الحسن قال: ثنا ورقاء، جميعًا عن ابن أَبي نجيح، عن مجاهد، في قوله: ﴿الْمُهَيْمِنُ﴾ قال: الشهيد.
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: ﴿الْمُهَيْمِنُ﴾ قال: أنزل الله عزّ وجلّ كتابًا فشهد عليه.
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة ﴿الْمُهَيْمِنُ﴾ قال: الشهيد عليه.
+
+وقال آخرون: المهيمن: الأمين.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا ابن حُمَيد، قال: ثنا مهران، عن سفيان، عن جُويبر، عن الضحاك ﴿الْمُهَيْمِنُ﴾ الأمين.
+
+وقال آخرون: ﴿الْمُهَيْمِنُ﴾ : المصدّق.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا يونس، قال: أخبرنا ابن وهب، قال، قال ابن زيد، في قوله: ﴿الْمُهَيْمِنُ﴾ قال: المصدق لكلّ ما حدّث، وقرأ ﴿وَمُهَيْمِنًا عَلَيْهِ﴾ قال: فالقرآن مصدّق على ما قبله من الكتب، والله مصدّق في كلّ ما حدّث عما مضى من الدنيا، وما بقي، وما حدّث عن الآخرة.
+
+وقد بيَّنت أولى هذه الأقوال بالصواب فيما مضى قبل في سورة المائدة بالعلل الدالة على صحته، فأغنى عن إعادته في هذا الموضع.
+
+* *
+
+وقوله: ﴿الْعَزِيزُ﴾
+
+: الشديد في انتقامه ممن انتقم من أعدائه.
+
+كما:-
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة ﴿الْعَزِيزُ﴾ أي في نقمته إذا انتقم.
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة ﴿الْعَزِيزُ﴾ في نقمته إذا انتقم.
+
+* *
+
+وقوله: ﴿الْجَبَّارُ﴾
+
+يعني: المصلح أمور خلقه، المصرفهم فيما فيه صلاحهم. وكان قتادة يقول: جبر خلقه على ما يشاء من أمره.
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة ﴿الْجَبَّارُ﴾ قال: جَبَرَ خلقه على ما يشاء.
+
+* *
+
+وقوله: ﴿الْمُتَكَبِّرُ﴾
+
+قيل: عُنِيَ به أنه تكبر عن كلّ شرّ.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة ﴿الْمُتَكَبِّرُ﴾ قال: تكبر عن كلّ شر.
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة، مثله.
+
+⁕ حدثني يعقوب بن إبراهيم، قال: ثنا ابن علية، قال: أخبرنا أبو رجاء، قال: ثني رجل، عن جابر بن زيد، قال: إن اسم الله الأعظم هو الله، ألم تسمع يقول: ﴿هُوَ اللَّهُ الَّذِي لا إِلَهَ إِلا هُوَ عَالِمُ الْغَيْبِ وَالشَّهَادَةِ هُوَ الرَّحْمَنُ الرَّحِيمُ * هُوَ اللَّهُ الَّذِي لا إِلَهَ إِلا هُوَ الْمَلِكُ الْقُدُّوسُ السَّلامُ الْمُؤْمِنُ الْمُهَيْمِنُ الْعَزِيزُ الْجَبَّارُ الْمُتَكَبِّرُ سُبْحَانَ اللَّهِ عَمَّا يُشْرِكُونَ﴾ يقول: تنزيهًا لله وتبرئة له عن شرك المشركين به.
 
 ### al-Muyassar (Arabic)
 
-هو الله المعبود بحق، الذي لا إله إلا هو، الملك لجميع الأشياء، المتصرف فيها بلا ممانعة ولا مدافعة، المنزَّه عن كل نقص، الذي سلِم من كل عيب، المصدِّق رسله وأنبياءه بما ترسلهم به من الآيات البينات، الرقيب على كل خلقه في أعمالهم، العزيز الذي لا يغالَب، الجبار الذي قهر جميع العباد، وأذعن له سائر الخلق، المتكبِّر الذي له الكبرياء والعظمة. تنزَّه الله تعالى عن كل ما يشركونه به في عبادته.
+هو الله المعبود بحق الذي لا إله إلا هو، الملك لجميع الأشياء، المتصرف فيها بلا ممانعة ولا مدافعة، المنزَّه عن كل نقص، الذي سلِم من كل عيب، المصدِّق رسله وأنبياءه بما أرسلهم به من الآيات البينات، الرقيب على كل خلقه في أعمالهم، العزيز الذي لا يغالَب، الجبار الذي قهر جميع العباد، وأذعن له سائر الخلق، المتكبِّر الذي له الكبرياء والعظمة. تنزَّه الله تعالى عن كل ما يشركونه به في عبادته.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿هُوَ اللَّه الَّذِي لا إلَه إلّا هُوَ المَلِك القُدُّوس﴾ الطّاهِر عَمّا لا يَلِيق بِهِ ﴿السَّلام﴾ ذُو السَّلامَة مِن النَّقائِص ﴿المُؤْمِن﴾ المُصَدِّق رُسُله بِخَلْقِ المُعْجِزَة لَهُمْ ﴿المُهَيْمِن﴾ مِن هَيْمَنَ يُهَيْمِن إذا كانَ رَقِيبًا عَلى الشَّيْء أيْ الشَّهِيد عَلى عِباده بِأَعْمالِهِمْ ﴿العَزِيز﴾ القَوِيّ ﴿الجَبّار﴾ جَبَرَ خَلْقه عَلى ما أرادَ ﴿المُتَكَبِّر﴾ عَمّا لا يَلِيق بِهِ ﴿سُبْحان اللَّه﴾ نَزَّهَ نَفْسه ﴿عَمّا يُشْرِكُونَ﴾ بِهِ
 
 ---
 
@@ -243,22 +1722,173 @@ Allah the Exalted emphasizes the greatness of the Qur'an, its high status and of
 
 ### Ibn Kathir (English)
 
+Had We sent down this Qur'an on a mountain, you would surely have seen it humbling itself and rent asunder by the fear of Allah. Such are the parables which We put forward to mankind that they may reflect (21)He is Allah, beside Whom La ilaha illa Huwa, the All-Knower of the unseen and the seen. He is the Most Gracious, the Most Merciful (22)He is Allah, beside Whom La ilaha illa Huwa, Al-Malik, Al-Quddus, As-Salam, Al-Mu'min, Al-Muhaymin, Al-'Aziz, Al-Jabbar, Al-Mutakabbir. Glory be to Allah! Above all that they associate as partners with Him (23)He is Allah, Al-Khaliq, Al-Bari, Al-Musawwir. To Him belong the Best Names. All that is in the heavens and the earth glorify Him. And He is the Almighty, the All-Wise (24)
+
 Asserting the Greatness of the Qur'an
+
 Allah the Exalted emphasizes the greatness of the Qur'an, its high status and of being worthy of making hearts humble and rent asunder upon hearing it, because of the true promises and sure threats that it contains,
-لَوْ أَنزَلْنَا هَـذَا الْقُرْءَانَ عَلَى جَبَلٍ لَّرَأَيْتَهُ خَـشِعاً مُّتَصَدِّعاً مِّنْ خَشْيَةِ اللَّهِ
-(Had We sent down this Qur'an on a mountain, you would surely have seen it humbling itself and rent asunder by the fear of Allah.) If ...
+
+لَوْ أَنْزَلْنَا هَٰذَا الْقُرْآنَ عَلَىٰ جَبَلٍ لَرَأَيْتَهُ خَاشِعًا مُتَصَدِّعًا مِنْ خَشْيَةِ اللَّهِ ۚ
+
+(Had We sent down this Qur'an on a mountain, you would surely have seen it humbling itself and rent asunder by the fear of Allah.)
+
+If this is the case with a mountain which is hard and huge, that if it was made able to comprehend and understand this Qur'an, will feel humble and crumble from fear of Allah the Exalted, then what about you – O mankind? Why do your hearts not feel softness and humbleness from the fear of Allah, even though you understand Allah's command and comprehend His Book? This is why Allah said,
+
+وَتِلْكَ الْأَمْثَالُ نَضْرِبُهَا لِلنَّاسِ لَعَلَّهُمْ يَتَفَكَّرُونَ
+
+(Such are the parables which We put forward to mankind that they may reflect.) There is a Hadith of the Mutawatir grade that states that the Messenger of Allah ﷺ had someone make him a Minbar. Before that, he used to stand next to a tree trunk in the Masjid to deliver speeches. So, when the Minbar was made and placed in the Masjid, the Prophet ﷺ came to deliver a speech and passed the tree trunk, headed towards the Minbar, the tree trunk started weeping, just like an infant. The tree trunk missed hearing the remembrance of Allah and the revelation that were being recited next to it. In one of the narrations for this Hadith, Al-Hasan Al-Basri said after narrating the Hadith, "You – mankind – are more worthy to miss the Messenger of Allah ﷺ than the tree trunk!"
+
+Likewise, this honorable Ayah asks that if the solid mountains feel humble and are rent asunder from the fear of Allah, if it heard Allah's Speech and comprehended it, what about you – O mankind – who heard the Qur'an and understood it? Allah the Exalted said in another Ayah,
+
+وَلَوْ أَنَّ قُرْآنًا سُيِّرَتْ بِهِ الْجِبَالُ أَوْ قُطِّعَتْ بِهِ الْأَرْضُ أَوْ كُلِّمَ بِهِ الْمَوْتَىٰ ۗ
+
+(And if there had been a Qur'an with which mountains could be moved, or the earth could be cloven asunder, or the dead could be made to speak.)(13:31)
+
+We mentioned the meaning of this Ayah as stating that, if there were a Qur'an that has these qualities, it would be this Qur'an. Allah the Exalted said in another Ayah,
+
+وَإِنَّ مِنَ الْحِجَارَةِ لَمَا يَتَفَجَّرُ مِنْهُ الْأَنْهَارُ ۚ وَإِنَّ مِنْهَا لَمَا يَشَّقَّقُ فَيَخْرُجُ مِنْهُ الْمَاءُ ۚ وَإِنَّ مِنْهَا لَمَا يَهْبِطُ مِنْ خَشْيَةِ اللَّهِ ۗ
+
+(And indeed, there are stones out of which rivers gush forth, and indeed, there are of them (stones) which split asunder so that water flows from them, and indeed, there are of them which fall down for fear of Allah.)(2:74)
+
+Glorifying Allah the Exalted by mentioning His Names and Attributes
+
+Allah the Exalted said,
+
+هُوَ اللَّهُ الَّذِي لَا إِلَٰهَ إِلَّا هُوَ ۖ عَالِمُ الْغَيْبِ وَالشَّهَادَةِ ۖ هُوَ الرَّحْمَٰنُ الرَّحِيمُ
+
+(He is Allah, beside Whom La ilaha illa Huwa, the All-Knower of the unseen and the seen. He is the Most Gracious, the Most Merciful.) Allah states that He Alone is worthy of worship, there is no Lord or God for the existence, except Him. All that is being worshipped instead of Allah are false deities. Allah is the All-Knower in the unseen and the seen, He knows all that pertains to the creations that we see, and those we cannot see. Nothing in heaven or on earth ever escapes His knowledge, no matter how great or insignificant, big or small, including ants in darkness. Allah's statement,
+
+هُوَ الرَّحْمَٰنُ الرَّحِيمُ
+
+(He is the Most Gracious, the Most Merciful.) was duly explained before at the very beginning of this Tafsir, so it is not necessary to repeat it here, and it asserts that Allah is the Owner of the wide encompassing mercy that entails all of His creation. He is Ar-Rahman and Ar-Rahim of this life and the Hereafter. Allah the Exalted said in other Ayat,
+
+وَرَحْمَتِي وَسِعَتْ كُلَّ شَيْءٍ ۚ
+
+(And My mercy embraces all things.)(7:156),
+
+كَتَبَ رَبُّكُمْ عَلَىٰ نَفْسِهِ الرَّحْمَةَ ۖ
+
+(Your Lord has written (prescribed) mercy for Himself.)(6:54), and,
+
+قُلْ بِفَضْلِ اللَّهِ وَبِرَحْمَتِهِ فَبِذَٰلِكَ فَلْيَفْرَحُوا هُوَ خَيْرٌ مِمَّا يَجْمَعُونَ
+
+(Say: "In the bounty of Allah, and in His mercy; – therein let them rejoice." That is better than what (the wealth) they amass.)(10:58) Allah the Exalted said,
+
+هُوَ اللَّهُ الَّذِي لَا إِلَٰهَ إِلَّا هُوَ الْمَلِكُ
+
+(He is Allah, beside Whom La ilaha illa Huwa, Al-Malik.) Al-Malik, meaning "The Owner and King of all things," Who has full power over them without resistance or hindrance. Allah's statement,
+
+الْقُدُّوسُ
+
+(Al-Quddus,) meaning "The Pure," according to Wahb bin Munabbih, while Mujahid and Qatadah said that Al-Quddus means "The Blessed." Ibn Jurayj said that Al-Quddus means "He Whom the honorable angels glorify."
+
+السَّلَامُ
+
+(As-Salam,) meaning "Free from any defects or shortcomings that lessen or decrease His perfect attributes and actions." Allah's statement,
+
+الْمُؤْمِنُ
+
+(Al-Mu'min,) means "Who has granted safety to His servants by promising that He will never be unjust to them, " according to Ad-Dahhak who reported it from Ibn 'Abbas. Qatadah said that Al-Mu'min means that "Allah affirms that His statements are true," while Ibn Zayd said that it means, "He attested to His faithful servants' having faith in Him." Allah's statement,
+
+الْمُهَيْمِنُ
+
+(Al-Muhaymin,) means, according to Ibn 'Abbas and others, "The Witness for His servants actions," that is, the Ever-Watcher over them. Allah said in similar Ayat,
+
+وَاللَّهُ عَلَىٰ كُلِّ شَيْءٍ شَهِيدٌ
+
+(And Allah is Witness over all things.)(58:6),
+
+ثُمَّ اللَّهُ شَهِيدٌ عَلَىٰ مَا يَفْعَلُونَ
+
+(and moreover Allah is Witness over what they used to do.)(10:46), and,
+
+أَفَمَنْ هُوَ قَائِمٌ عَلَىٰ كُلِّ نَفْسٍ بِمَا كَسَبَتْ ۗ
+
+(Is then He (Allah) Who takes charge (guards) of every person and knows all that he has earned?)(13:33) Allah said,
+
+الْعَزِيزُ
+
+(Al-'Aziz,) meaning that "He is the Almighty, Dominant over all things." Therefore, His majesty is never violated, due to His might, greatness, irresistible power and pride. Allah said;
+
+الْجَبَّارُ الْمُتَكَبِّرُ
+
+(Al-Jabbar, Al-Mutakabbir), meaning "The Only One worthy of being the Compeller and Supreme." There is a Hadith in the Sahih Collection in which Allah said,
+
+الْعَظَمَةُ إِزَارِي، وَالْكِبْرِيَاءُ رِدَائِي، فَمَنْ نَازَعَنِي وَاحِدًا مِنْهُمَا عَذَّبْتُهُ
+
+(Might is My Izar and pride is My Rida; if anyone disputes any one of them with Me, then I will punish him.) Allah the Exalted said,
+
+سُبْحَانَ اللَّهِ عَمَّا يُشْرِكُونَ
+
+(Glory be to Allah! (High is He) above all that they associate as partners with Him.), then He said,
+
+هُوَ اللَّهُ الْخَالِقُ الْبَارِئُ الْمُصَوِّرُ ۖ
+
+(He is Allah, Al-Khaliq, Al-Bari, Al-Musawwir.) Al-Khaliq refers to measuring and proportioning, Al-Bari refers to inventing and bringing into existence what He has created and measured. Surely, none except Allah is able to measure, bring forth and create whatever He wills to come to existence. Allah's statement,
+
+الْخَالِقُ الْبَارِئُ الْمُصَوِّرُ
+
+(Al-Khaliq, Al-Bari, Al-Musawwir.) means, if Allah wills something, He merely says to it "be" and it comes to existence in the form that He wills and the shape He chooses,
+
+فِي أَيِّ صُورَةٍ مَا شَاءَ رَكَّبَكَ
+
+(In whatever form He willed, He put you together.)(82:8) Allah describing Himself as being Al-Musawwir, Who brings into existence anything He wills in the shape and form He decides.
+
+Al-Asma' Al-Husna
+
+Allah the Exalted said,
+
+لَهُ الْأَسْمَاءُ الْحُسْنَىٰ ۚ
+
+(To Him belong Al-Asma' Al-Husna (the Best Names).) We explained the meaning of this Ayah in the Tafsir of Surat Al-A'raf. The Two Sahihs recorded that Abu Hurayrah said that the Messenger of Allah ﷺ said,
+
+إِنَّ للهِ تَعَالَىٰ تِسْعَةً وَتِسْعِينَ اسْمًا، مِائَةً إِلَّا وَاحِدًا، مَنْ أَحْصَاهَا دَخَلَ الْجَنَّةَ، وَهُوَ وِتْرٌ يُحِبُّ الْوِتْرَ
+
+(Allah the Exalted has ninety-nine Names, one hundred less one; whoever then preserves them, will enter Paradise. Allah is Witr (One) and He likes the Witr.)
+
+Everything praises and glorifies Allah
+
+Allah's statement,
+
+يُسَبِّحُ لَهُ مَا فِي السَّمَاوَاتِ وَالْأَرْضِ ۖ
+
+(All that is in the heavens and the earth glorify Him.) is similar to His other statement,
+
+تُسَبِّحُ لَهُ السَّمَاوَاتُ السَّبْعُ وَالْأَرْضُ وَمَنْ فِيهِنَّ ۚ وَإِنْ مِنْ شَيْءٍ إِلَّا يُسَبِّحُ بِحَمْدِهِ وَلَٰكِنْ لَا تَفْقَهُونَ تَسْبِيحَهُمْ ۗ إِنَّهُ كَانَ حَلِيمًا غَفُورًا
+
+(The seven heavens and the earth and all that is therein, glorify Him and there is not a thing but glorifies His praise. But you understand not their glorification. Truly, He is Ever Forbearing, Oft–Forgiving.)(17:44) Allah's statement,
+
+وَهُوَ الْعَزِيزُ
+
+(and He is Al-'Aziz) The Almighty, meaning, His greatness is never humbled,
+
+الْحَكِيمُ
+
+(Al-Hakim) the All-Wise, in His legislation and decrees.
+
+This is the end of the Tafsir of Surat Al-Hashr. All praise is due to Allah.
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله تعالى :  هُوَ اللَّهُ الْخَالِقُ الْبَارِئُ الْمُصَوِّرُ لَهُ الأَسْمَاءُ الْحُسْنَى يُسَبِّحُ لَهُ مَا فِي السَّمَاوَاتِ وَالأَرْضِ وَهُوَ الْعَزِيزُ الْحَكِيمُ (24)يقول تعالى ذكره: هو المعبود الخالق، الذي لا معبود تصلح له العبادة غيره، ولا خالق سواه، البارئ الذي برأ الخلق، فأوجدهم بقدرته، المصوّر خلقه كيف شاء، وكيف يشاء.قوله: (لَهُ الأسْمَاءُ الْحُسْنَى ) يقول تعالى ذكره: لله الأسماء الحسنى، وهي هذه الأسماء التي سمى الله بها نفسه، التي ذكرها في هاتين الآيتين.(يُسَبِّحُ ل...
+القول في تأويل قوله تعالى: ﴿هُوَ اللَّهُ الْخَالِقُ الْبَارِئُ الْمُصَوِّرُ لَهُ الأسْمَاءُ الْحُسْنَى يُسَبِّحُ لَهُ مَا فِي السَّمَاوَاتِ وَالأرْضِ وَهُوَ الْعَزِيزُ الْحَكِيمُ (٢٤) ﴾
+
+يقول تعالى ذكره: هو المعبود الخالق، الذي لا معبود تصلح له العبادة غيره، ولا خالق سواه، البارئ الذي برأ الخلق، فأوجدهم بقدرته، المصوّر خلقه كيف شاء، وكيف يشاء.
+
+* *
+
+قوله: ﴿لَهُ الأسْمَاءُ الْحُسْنَى﴾
+
+يقول تعالى ذكره: لله الأسماء الحسنى، وهي هذه الأسماء التي سمى الله بها نفسه، التي ذكرها في هاتين الآيتين. ﴿يُسَبِّحُ لَهُ مَا فِي السَّمَاوَاتِ وَالأرْضِ﴾ يقول: يسبح له جميع ما في السموات والأرض، ويسجد له طوعًا وكرهًا ﴿وَهُوَ الْعَزِيزُ﴾ يقول: وهو الشديد الانتقام من أعدائه ﴿الْحَكِيمُ﴾ في تدبيره خلقه، وصرفهم فيما فيه صلاحهم.
+
+آخر تفسير سورة الحشر
 
 ### al-Muyassar (Arabic)
 
-هو الله سبحانه وتعالى الخالق المقدر للخلق، البارئ المنشئ الموجد لهم على مقتضى حكمته، المصوِّر خلقه كيف يشاء، له سبحانه الأسماء الحسنى والصفات العلى، يسبِّح له جميع ما في السموات والأرض، وهو العزيز شديد الانتقام مِن أعدائه، الحكيم في تدبيره أمور خلقه.
+هو الله سبحانه وتعالى الخالق المقدر للخلق، البارئ المنشئ الموجد لهم على مقتضى حكمته، المصوِّر خلقه كيف يشاء، له سبحانه الأسماء الحسنى والصفات العلى، يسبِّح له جميع ما في السموات والأرض، وهو العزيز الشديد الانتقام مِن أعدائه، الحكيم في تدبيره أمور خلقه.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿هُوَ اللَّه الخالِق البارِئ﴾ المُنْشِئ مِن العَدِم ﴿المُصَوِّر لَهُ الأَسْماء الحُسْنى﴾ التِّسْعَة والتِّسْعُونَ الوارِد بِها الحَدِيث والحُسْنى مُؤَنَّث الأَحْسَن ﴿يُسَبِّح لَهُ ما فِي السَّمَوات والأَرْض وهُوَ العَزِيز الحَكِيم﴾ تَقَدَّمَ أوَّلها
 
 ---
 
@@ -266,23 +1896,328 @@ Allah the Exalted emphasizes the greatness of the Qur'an, its high status and of
 
 ### Ibn Kathir (English)
 
-Which was revealed in Makkah
-بِسْمِ اللَّهِ الرَّحْمَـنِ الرَّحِيمِ
+بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
+
 In the Name of Allah, the Most Gracious, the Most Merciful.
-The First Ayat to be revealed after `Read!
-It has been confirmed in the Sahih Al-Bukhari and Sahih Muslim on the authority of Abu Salamah that Jabir bin `Abdullah informed him that he heard the Messenger of Allah ﷺ speaking about the time period (of the pause in) revelation. The Prophet said,
-«فَبَيْنَا أَنَا أَمْشِي إِذْ سَمِعْتُ صَوْتًا مِنَ السَّمَاءِ فَرَفَعْتُ ب...
+
+يَا أَيُّهَا الْمُدَّثِّرُ - قُمْ فَأَنْذِرْ - وَرَبَّكَ فَكَبِّرْ - وَثِيَابَكَ فَطَهِّرْ - وَالرُّجْزَ فَاهْجُرْ - وَلَا تَمْنُنْ تَسْتَكْثِرُ - وَلِرَبِّكَ فَاصْبِرْ - فَإِذَا نُقِرَ فِي النَّاقُورِ - فَذَٰلِكَ يَوْمَئِذٍ يَوْمٌ عَسِيرٌ - عَلَى الْكَافِرِينَ غَيْرُ يَسِيرٍ
+
+(1. O you enveloped in garments!)(2. Arise and warn!)(3. And magnify your Lord!)(4. And purify your garments!)(5. And keep away from Ar-Rujz!)(6. And give not a thing in order to have more.)(7. And be patient for the sake of your Lord!)(8. Then, when the Naqur is sounded.)(9. Truly, that Day will be a Hard Day.)(10. Far from easy for the disbelievers.)
+
+The First Ayat to be revealed after 'Read!
+
+It has been confirmed in the Sahih Al-Bukhari and Sahih Muslim on the authority of Abu Salamah that Jabir bin 'Abdullah informed him that he heard the Messenger of Allah ﷺ speaking about the time period (of the pause in) revelation. The Prophet ﷺ said,
+
+فَبَيْنَا أَنَا أَمْشِي إِذْ سَمِعْتُ صَوْتًا مِنَ السَّمَاءِ فَرَفَعْتُ بَصَرِي قِبَلَ السَّمَاءِ، فَإِذَا الْمَلَكُ الَّذِي جَاءَنِي بِحِرَاءَ، قَاعِدٌ عَلَى كُرْسِيٍّ بَيْنَ السَّمَاءِ وَالْأَرْضِ، فَجُئِثْتُ مِنْهُ حَتّٰى هَوَيْتُ إِلَى الْأَرْضِ، فَجِئْتُ إِلَى أَهْلِي فَقُلْتُ: زَمِّلُونِي زَمِّلُونِي فَزَمَّلُونِي. فَأَنْزَلَ (اللهُ تَعَالىٰ)
+
+يَا أَيُّهَا الْمُدَّثِّرُ - قُمْ فَأَنْذِرْ
+
+إلى 'فَاهْجُرْ'
+
+ثُمَّ حَمِيَ الْوَحْيُ وَتَتَابَعَ
+
+(While I was walking I heard a voice from the sky. So I lifted my gaze towards the sky and saw the same angel who had come to me at the cave of Hira'. He was sitting on a chair between the sky and the earth. So I fled from him (in fear) until I fell down to the ground. Then, I went to my family and I said, 'Wrap me up, wrap me up. So, they wrapped me up! So Allah revealed, (O you wrapped up! Arise and warn!) until (And keep away)[Here, Abu Salamah added, 'Ar-Rujz means idols.'](After this, the revelation started coming strongly and frequently in succession.)
+
+This is the wording of Al-Bukhari. The way this Hadith is narrated necessitates that revelation had descended before this. This is due to the Prophet's statement,
+
+فَإِذَا الْمَلَكُ الَّذِي جَاءَنِي بِحِرَاءَ
+
+(The same angel who had come to me at the cave of Hira'.)" That angel was Jibril, who had came to him with Allah's statement,
+
+اقْرَأْ بِاسْمِ رَبِّكَ الَّذِي خَلَقَ - خَلَقَ الْإِنْسَانَ مِنْ عَلَقٍ - اقْرَأْ وَرَبُّكَ الْأَكْرَمُ - الَّذِي عَلَّمَ بِالْقَلَمِ - عَلَّمَ الْإِنْسَانَ مَا لَمْ يَعْلَمْ
+
+(Read! In the Name of your Lord Who has created. He has created man from a clot. Read! And your Lord is the Most Generous. Who has taught by the pen. He has taught man that which he knew not.)(96:1-5) After this first occurrence (in the cave) there was a period of time that passed, then the angel descended again.
+
+Imam Ahmad recorded from Abu Salamah bin 'Abdur-Rahman that Jabir bin 'Abdullah informed him that he heard the Messenger of Allah ﷺ saying,
+
+ثُمَّ فَتَرَ الْوَحْيُ عَنِّي فَتْرَةً، فَبَيْنَا أَنَا أَمْشِي سَمِعْتُ صَوْتًا مِنَ السَّمَاءِ، فَرَفَعْتُ بَصَرِي قِبَلَ السَّمَاءِ، فَإِذَا الْمَلَكُ الَّذِي جَاءَنِي، قَاعِدٌ عَلىٰ كُرْسِيٍّ بَيْنَ السَّمَاءِ وَالْأَرْضِ، فَجُئِثْتُ مِنْهُ فَرَقًا حَتّٰى هَوَيْتُ إِلَى الْأَرْضِ، فَجِئْتُ أَهْلِي فَقُلْتُ لَهُمْ: زَمِّلُونِي زَمِّلُونِي فَزَمَّلُونِي، فَأَنْزَلَ اللهُ تَعَالىٰ:
+
+يَا أَيُّهَا الْمُدَّثِّرُ - قُمْ فَأَنْذِرْ - وَرَبَّكَ فَكَبِّرْ - وَثِيَابَكَ فَطَهِّرْ - وَالرُّجْزَ فَاهْجُرْ
+
+ثُمَّ حَمِيَ الْوَحْيُ وَتَتَابَعَ
+
+(Then the revelation ceased coming to me for a period of time.Then, while I was walking, I heard a voice from the sky. So I lifted my gaze towards the sky to see the same angel who had come to me, sitting on a chair between the sky and the earth. So I fled from him a short distance before I fell down to the ground. Then I came to my family and said to them, 'Wrap me up, wrap me up! So, they wrapped me up! Then Allah revealed, (O you wrapped up! Arise and warn! And magnify your Lord. And purify your garments. And keep away from Ar-Rujz!)(After this, the revelation started coming strongly and frequently in succession.) They both (Al-Bukhari and Muslim) recorded this Hadith by way of Az-Zuhri.
+
+At-Tabarani recorded from Ibn 'Abbas that he said, "Verily, Al-Walid bin Al-Mughirah prepared some food for the Quraysh. So when they had eaten from it he said, 'What do you have to say about this man?' Some of them said, 'He is a magician.' Others said, 'He is not a magician.' Then some of them said, 'He is a soothsayer.' But others said, 'He is not a soothsayer.' Some of them said, 'He is a poet.' But others said, 'He is not a poet.' Some of them said, 'This is magic from that of old.' Thus, they eventually all agreed that it was magic from ancient times. Then, when this news reached the Prophet ﷺ, he became grieved, covered his head and wrapped himself up. This is when Allah revealed,
+
+يَا أَيُّهَا الْمُدَّثِّرُ - قُمْ فَأَنْذِرْ - وَرَبَّكَ فَكَبِّرْ - وَثِيَابَكَ فَطَهِّرْ - وَالرُّجْزَ فَاهْجُرْ - وَلَا تَمْنُنْ تَسْتَكْثِرُ - وَلِرَبِّكَ فَاصْبِرْ
+
+(O you enveloped in garments! Arise and warn! And magnify your Lord (Allah)! And purify your garments! And keep away from Ar-Rujz (the idols)! And give not a thing in order to have more (or consider not your deeds of obedience to Allah as a favour to Him). And be patient for the sake of your Lord (i.e., perform your duty to Allah)!) Concerning Allah's statement,
+
+قُمْ فَأَنْذِرْ
+
+(Arise and warn!) means, prepare to go forth with zeal and warn the people. With this the Prophet ﷺ attained messengership just as he attained prophethood with the first revelation.
+
+وَرَبَّكَ فَكَبِّرْ
+
+(And magnify your Lord!) to declare the greatness of Him. Al-'Awfi reported from Ibn 'Abbas;
+
+وَثِيَابَكَ فَطَهِّرْ
+
+(And purify your garments!) "This means, do not let your garments that you wear be from earnings that are unlawful." It has also been said, "Do not wear your clothes in disobedience." Muhammad bin Sirin said,
+
+وَثِيَابَكَ فَطَهِّرْ
+
+(And purify your garments!) "This means clean them with water." Ibn Zayd said, "The idolators would not clean themselves, so Allah commanded him to clean himself and his garments." This view was preferred by Ibn Jarir. Sa'id bin Jubayr said,
+
+وَثِيَابَكَ فَطَهِّرْ
+
+(And purify your garments!) "This means purify your heart and your intentions." Muhammad bin Ka'b Al-Qurazi and Al-Hasan Al-Basri both said, "And beautify your character." Concerning Allah's statement,
+
+وَالرُّجْزَ فَاهْجُرْ
+
+(And keep away from Ar-Rujz!) 'Ali bin Abi Talhah reported from Ibn 'Abbas, "Ar-Rujz are idols, so keep away from them." Similar to this was said by Mujahid, 'Ikrimah, Qatadah, Az-Zuhri and Ibn Zayd, "Verily, it is the idols." This is like Allah's statement,
+
+يَا أَيُّهَا النَّبِيُّ اتَّقِ اللَّهَ وَلَا تُطِعِ الْكَافِرِينَ وَالْمُنَافِقِينَ ۗ
+
+(O Prophet! have Taqwa of Allah, and obey not the disbelievers and the hypocrites.)(33:1) and Allah's statement,
+
+وَقَالَ مُوسَىٰ لِأَخِيهِ هَارُونَ اخْلُفْنِي فِي قَوْمِي وَأَصْلِحْ وَلَا تَتَّبِعْ سَبِيلَ الْمُفْسِدِينَ
+
+(And Musa said to his brother Harun: "Replace me among my people, act well and follow not way of the corrupters.")(7:142) Then Allah says,
+
+وَلَا تَمْنُنْ تَسْتَكْثِرُ
+
+(And give not a thing in order to have more.) Ibn 'Abbas said, "Do not give any gift seeking to get (back in return) more than it." Khusayf reported from Mujahid;
+
+وَلَا تَمْنُنْ تَسْتَكْثِرُ
+
+(And give not a thing (Tamnun) in order to have more.) "Do not slacken in seeking more good. Tamnun in the language of the Arabs means to become weak." Concerning Allah's statement,
+
+وَلِرَبِّكَ فَاصْبِرْ
+
+(And be patient for the sake of your Lord!) meaning, make your patience with their harms be for the Face of your Lord, the Mighty and Majestic. This was stated by Mujahid. Ibrahim An-Nakha'i said, "Be patient in your giving for the sake of Allah, the Mighty and Majestic."
+
+Reminding of the Day of Judgement
+
+Concerning Allah's statement,
+
+فَإِذَا نُقِرَ فِي النَّاقُورِ - فَذَٰلِكَ يَوْمَئِذٍ يَوْمٌ عَسِيرٌ - عَلَى الْكَافِرِينَ غَيْرُ يَسِيرٍ
+
+(Then, when the Naqur is sounded. Truly, that Day will be a Hard Day – far from easy for the disbelievers) Ibn 'Abbas, Mujahid, Ash-Sha'bi, Zayd bin Aslam, Al-Hasan, Qatadah, Ad-Dahhak, Ar-Rabi' bin Anas, As-Suddi and Ibn Zayd, all said,
+
+النَّاقُورِ
+
+(Naqur) "It is the Trumpet." Mujahid said, "It is in the shape of a horn." Ibn Abi Hatim narrated that Abu Sa'id Al-Ashaj told them that Asbat bin Muhammad related to them from Mutarrif, from 'Atiyah Al-'Awfi, from Ibn 'Abbas,
+
+فَإِذَا نُقِرَ فِي النَّاقُورِ
+
+(Then, when the Trumpet is sounded.) The Messenger of Allah ﷺ said,
+
+كَيْفَ أَنْعَمُ وَصَاحِبُ الْقَرْنِ قَدِ الْتَقَمَ الْقَرْنَ وَحَنَى جَبْهَتَهُ يَنْتَظِرُ مَتَىٰ يُؤْمَرُ فَيَنْفُخُ؟
+
+(How can I be comfortable when the one with the horn has placed it in his mouth, leaned his forehead forward, and is waiting to be commanded so that he can blow?) The Companions of the Messenger of Allah ﷺ said, "What do you command us, O Messenger of Allah?" He replied,
+
+قُولُوا: حَسْبُنَا اللهُ وَنِعْمَ الْوَكِيلُ، عَلَى اللهِ تَوَكَّلْنَا
+
+(Say: "Allah is sufficient for us, and what an excellent Trustee He is. We put our trust in Allah.") It has been recorded like this by Imam Ahmad on the authority of Asbat. Concerning Allah's statement,
+
+فَذَٰلِكَ يَوْمَئِذٍ يَوْمٌ عَسِيرٌ
+
+(Truly, that Day will be a Hard Day.) meaning, severe.
+
+عَلَى الْكَافِرِينَ غَيْرُ يَسِيرٍ
+
+(Far from easy for the disbelievers.) meaning, it will not be easy for them. This is as Allah says,
+
+يَقُولُ الْكَافِرُونَ هَٰذَا يَوْمٌ عَسِرٌ
+
+(The disbelievers will say: "This a Hard Day.")(54:8) We have reported from Zurarah bin Awfa, the judge of Al-Basrah, that he lead the people in the morning prayer and he recited this Surah. Then, when he reached Allah's statement,
+
+فَإِذَا نُقِرَ فِي النَّاقُورِ - فَذَٰلِكَ يَوْمَئِذٍ يَوْمٌ عَسِيرٌ - عَلَى الْكَافِرِينَ غَيْرُ يَسِيرٍ
+
+(Then, when the Naqur is sounded. Truly, that Day will be a Hard Day – far from easy for the disbelievers.) he made a moaning sound and then he fell down dead. May Allah have mercy on him.
 
 ### al-Tabari (Arabic)
 
-وقوله: ( وَرَبَّكَ فَكَبِّرْ ) يقول تعالى ذكره: وربك يا محمد فعظم بعبادته، والرغبة إليه في حاجاتك دون غيره من الآلهة والأنداد.
+القول في تأويل قوله تعالى: ﴿يَاأَيُّهَا الْمُدَّثِّرُ (١) قُمْ فَأَنْذِرْ (٢) وَرَبَّكَ فَكَبِّرْ (٣) وَثِيَابَكَ فَطَهِّرْ (٤) وَالرُّجْزَ فَاهْجُرْ (٥) وَلا تَمْنُنْ تَسْتَكْثِرُ (٦) وَلِرَبِّكَ فَاصْبِرْ (٧) ﴾
+
+يقول جلّ ثناؤه: ﴿يَاأَيُّهَا الْمُدَّثِّرُ﴾ يأيها المتدثر بثيابه عند نومه.
+
+وذُكر أن نبيّ الله ﷺ قيل له ذلك، وهو متدثر بقطيفة.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا محمد بن المثنى، قال: ثنا يحيى بن سعيد، عن شعبة، عن المغيرة، عن إبراهيم ﴿يَاأَيُّهَا الْمُدَّثِّرُ﴾ قال: كان متدثرا في قطيفة.
+
+وذُكر أن هذه الآية أول شيء نزل من القرآن على رسول الله ﷺ، وأنه قيل له: ﴿يَاأَيُّهَا الْمُدَّثِّرُ﴾ .
+
+كما:-
+
+⁕ حدثنا يونس، قال: أخبرنا ابن وهب، قال: أخبرنا يونس، عن ابن شهاب، قال: أخبرني أبو سلمة بن عبد الرحمن، أن جابر بن عبد الله الأنصاري قال: قال رسول الله ﷺ وهو يحدّث عن فترة الوحي: " بَيْنا أنا أمْشِي سَمِعْت صَوْتا مِنَ السَّماءِ، فَرَفَعْتُ رأسِي، فإذَا المَلَك الَّذِي جاءَنِي بحرَاءَ جالِسٌ عَلى كُرْسِي بَينَ السَّماءِ والأرْضِ، قال رسول الله ﷺ: "فَجُثِثْتُ مِنْهُ فَرَقا [[الحديث ١٩٥ - وهذا إسناد صحيح أيضًا. مري بن قطري الكوفي: ذكره ابن حبان في الثقات، وترجمه البخاري في الكبير ٤ / ٢ / ٥٧، وقال: "سمع عدي بن حاتم، روى عنه سماك بن حرب، يعد في الكوفيين". و "مري": بضم الميم وتشديد الراء المكسورة مع تشديد الياء. و "قطري" بفتح القاف والطاء وبعد الراء ياء مشددة. وبعضه سيأتي أيضًا بالإسناد نفسه ٢٠٩.
+
+وهذا الحديث عن عدي بن حاتم: أصله قصة مطولة في إسلامه. فرواه -بطوله- أحمد في المسند ٤: ٣٧٨ - ٣٧٩ عن محمد بن جعفر عن شعبة، بالإسناد السابق ١٩٤. . ورواه الترمذي ٤: ٦٧ من طريق عمرو بن أبي قيس عن سماك عن عباد بن حبيش عن عدي. وقال: "هذا حديث حسن غريب، لا نعرفه إلا من حديث سماك بن حرب. وروى شعبة عن سماك بن حرب عن عباد بن حبيش عن عدي بن حاتم عن النبي ﷺ - الحديث بطوله". وروى بعضه الطيالسي في مسنده: ١٠٤٠ عن عمرو بن ثابت "عمن سمع عدي بن حاتم". وقد تبين لنا من روايات الطبري هنا أن سماك بن حرب سمعه من عباد بن حبيش ومن مري بن قطري، كلاهما عن عدي، وأن سماك بن حرب لم ينفرد بروايته أيضًا، إذ رواه إسماعيل بن أبي خالد عن الشعبي عن عدي. وأن لم يعرفه الترمذي إلا من حديث سماك - لا ينفي أن يعرفه غيره من وجه آخر. وذكره ابن كثير ١: ٥٤ من رواية أحمد في المسند، وأشار إلى رواية الترمذي، وإلى روايات الطبري هنا، ثم قال: "وقد روى حديث عدي هذا من طرق، وله ألفاظ كثيرة يطول ذكرها ". وذكره الحافظ في الإصابة، في ترجمة عدي ٢: ٢٢٩ من رواية أحمد والترمذي. وذكر السيوطي منه ١: ١٦ تفسير الحرفين، ونسبه أيضًا لعبد بن حميد وابن المنذر وابن أبي حاتم وابن حبان في صحيحه. وكذلك صنع الشوكاني ١: ١٥.]] ، وجِئْتُ أهْلِي فَقُلْتُ: زَمِّلُونِي زَمِّلُونِي، فدَثَّرُونِي" فأنزل الله ﴿يَاأَيُّهَا الْمُدَّثِّرُ قُمْ فَأَنْذِرْ وَرَبَّكَ فَكَبِّرْ..﴾ إلى قوله: ﴿وَالرُّجْزَ فَاهْجُرْ﴾ قال: ثم تتابع الوحي.
+
+⁕ حدثنا ابن المثنى، قال: ثنا الوليد بن مسلم، قال: ثنا الأوزاعي، قال: ثني يحيى بن أبي كثير، قال: سألت أبا سلمة: أيّ القرآن أُنزل أوّل، فقال: ﴿يَاأَيُّهَا الْمُدَّثِّرُ﴾ فقلت: يقولون ﴿اقْرَأْ بِاسْمِ رَبِّكَ الَّذِي خَلَقَ﴾ ، فقال أبو سلمة: سألت جابر بن عبد الله: أيّ القرآن أنزل أوّل؟ فقال: ﴿يَاأَيُّهَا الْمُدَّثِّرُ﴾ ، فقلت: يقولون: ﴿اقْرَأْ بِاسْمِ رَبِّكَ الَّذِي خَلَقَ﴾ فقال: لا أخبرك إلا ما:-
+
+⁕ حدثنا النبيّ ﷺ، قال: جاورت في حِراء؛ فلما قضيت جواري هبطت، فاستبطنت الوادي، فنوديت، فنظرت عن يميني وعن شمالي وخلفي وقدّامي، فلم أر شيئا، فنظرت فوق رأسي فإذا هو جالس على عرش بين السماء والأرض، فخشيت منه، هكذا قال عثمان بن عمرو، إنما هو: فجثثت منه، ولقيت خديجة، فقلت دثروني، فدثروني، وصبوا عليّ ماءً، فأنزل الله عليّ ﴿يَاأَيُّهَا الْمُدَّثِّرُ قُمْ فَأَنْذِرْ﴾ .
+
+⁕ حدثنا أبو كريب، قال: ثنا وكيع، عن عليّ بن مبارك، عن يحيى بن أبي كثير، قال سألت أبا سلمة عن أوّل ما نزل من القرآن، قال: نزلت ﴿يَاأَيُّهَا الْمُدَّثِّرُ﴾ أوّل؛ قال: قلت: إنهم يقولون ﴿اقْرَأْ بِاسْمِ رَبِّكَ الَّذِي خَلَقَ﴾ ، فقال: سألت جابر بن عبد الله، فقال: لا أحدّثك إلا ما:-
+
+⁕ حدثنا رسول الله ﷺ قال: "جاوَرْتُ بِحِراء؛ فلمَّا قَضَيْتُ جِوَارِي هَبَطْتُ، فَسَمِعْتُ صَوْتًا، فَنَظَرْتُ عَنْ يَمِينِي فَلمْ أرَ شَيْئا، وَنَظَرْتُ خَلْفِي فَلَمْ أرَ شَيْئا، فَرَفَعْتُ رأسي فرأيْتُ شَيْئا، فأتَيْتُ خَدِيجَةَ، فَقُلْتُ: دَثِّرُونِي وَصبُّوا عَليَّ ماء بارِدًا، فنزلت ﴿يَاأَيُّهَا الْمُدَّثِّرُ﴾ .
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن الزهريّ، قال: فتر الوحي عن رسول الله ﷺ فترة، فحزن حزنًا، فجعل يعدو إلى شواهق رءوس الجبال ليتردّى منها، فكلما أوفى بذروة جبل تبدّى له جبريل عليه السلام فيقول: إنك نبيّ الله، فيسكن جأشه، وتسكن نفسه، فكان النبيّ ﷺ يحدث عن ذلك، قال: "بَيْنَما أنا أَمْشِي يَوْما إذ رأيْتُ المَلَكَ الَّذِي كان يأتِيني بِحرَاءَ على كُرْسِيّ بَينَ السَّماءِ والأرْضِ، فَجَثَثْتُ مِنْهُ رُعْبا، فَرَجَعْتُ إلى خَدِيجَةَ فَقُلْتُ: "زَمِّلُونِي"، فزملناه: أي فدثرناه، فأنزل الله: ﴿يَاأَيُّهَا الْمُدَّثِّرُ قُمْ فَأَنْذِرْ وَرَبَّكَ فَكَبِّرْ وَثِيَابَكَ فَطَهِّر﴾ قال الزهري: فكان أوّل شيء أنزل عليه: ﴿اقْرَأْ بِاسْمِ رَبِّكَ الَّذِي خَلَقَ ... ﴾ حتى بلغ ﴿مَا لَمْ يَعْلَمْ﴾ .
+
+واختلف أهل التأويل في معنى قوله: ﴿يَاأَيُّهَا الْمُدَّثِّرُ﴾ ، فقال بعضهم: معنى ذلك: يأيُّها النائم في ثيابه.
+
+ذكر من قال ذلك:
+
+⁕ حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس، قوله: ﴿يَاأَيُّهَا الْمُدَّثِّرُ﴾ قال: يأيها النائم.
+
+⁕ حدثنا بشر، ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: ﴿يَاأَيُّهَا الْمُدَّثِّرُ﴾ يقول: المتدثر في ثيابه.
+
+وقال آخرون: بل معنى ذلك: يأيُّها المتدثر النبوّة وأثقالها.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا ابن المثنى، قال: ثنا عبد الأعلى، قال: وسُئل داود عن هذه الآية ﴿يَاأَيُّهَا الْمُدَّثِّرُ﴾ فحدثنا عن عكرِمة أنه قال: دثِّرت هذا الأمر فقم به.
+
+* *
+
+وقوله: ﴿قُمْ فَأَنْذِرْ﴾
+
+يقول تعالى ذكره لنبيه محمد ﷺ: قم من نومك فأنذر عذاب الله قومك الذين أشركوا بالله، وعبدوا غيره.
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة ﴿قُمْ فَأَنْذِرْ﴾ : أي أنذر عذاب الله ووقائعه في الأمم، وشدّة نقمته.
+
+* *
+
+وقوله: ﴿وَرَبَّكَ فَكَبِّرْ﴾
+
+يقول تعالى ذكره: وربك يا محمد فعظم بعبادته، والرغبة إليه في حاجاتك دون غيره من الآلهة والأنداد.
+
+* *
+
+وقوله: ﴿وَثِيَابَكَ فَطَهِّرْ﴾
+
+اختلف أهل التأويل في تأويل ذلك، فقال بعضهم: معنى ذلك: لا تلبس ثيابك على معصية، ولا على غدرة.
+
+ذكر من قال ذلك:
+
+⁕ حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس ﴿وَثِيَابَكَ فَطَهِّرْ﴾ قال: أما سمعت قول غَيلان بن سَلَمة:
+
+وإنّي بِحَمْدِ اللهِ لا ثَوْبَ فاجِرٍ
+
+لَبِسْتُ وَلا مِنْ غَدْرَةٍ أتَقَنَّعُ [[الحديث ١٩٦ - حميد بن مسعدة السامي، شيخ الطبري: هو "السامي" بالسين المهملة، نص على ذلك الحافظ ابن حجر في التقريب. وهو نسبة إلى "سامة بن لؤي بن غالب". ووقع في نسخ الطبري -هنا وفيما يأتي ٢١٠- "الشامي" بالمعجمة، وهو تصحيف. و "الجريري"، بضم الجيم: هو سعيد بن إياس البصري. و "عبد الله بن شقيق العقيلي"، بضم العين وفتح القاف: تابعي كبير ثقة. وهذا الإسناد مرسل، لقول عبد الله بن شقيق: "أن رجلا". وسيأتي مرسلا أيضًا ١٩٧، ١٩٩ ولكنه سيأتي موصولا ١٩٨.]] حدثنا أبو كُريب: قال: ثنا مُصْعَب بن سلام، عن الأجلح، عن عكرِمة، عن ابن عباس، قال: أتاه رجل وأنا جالس فقال: أرأيت قول الله: ﴿وَثِيَابَكَ فَطَهِّرْ﴾ قال: لا تلبسها على معصية ولا على غدرة، ثم قال: أما سمعت قول غيلان بن سلمة الثقفيّ:
+
+وإنّي بِحَمْدِ اللهِ لا ثَوْبَ فاجِرٍ
+
+لَبِسْتُ وَلا مِنْ غَدْرَةٍ أتَقَنَّعُ
+
+⁕ حدثنا سعيد بن يحيى، قال: ثنا حفص بن غياث، عن الأجلح، عن عكرِمة، قوله: ﴿وَثِيَابَكَ فَطَهِّرْ﴾ قال: لا تلبسها على غدرة، ولا على فجرة ثم تمثَّل بشعر غيلان بن سلمة هذا.
+
+⁕ حدثنا ابن حميد، قال: ثنا مهران، قال: ثنا سفيان، عن الأجلح بن عبد الله الكندي، عن عكرِمة ﴿وَثِيَابَكَ فَطَهِّرْ﴾ قال: لا تلبس ثيابك على معصية، ألم تسمع قول غيلان بن سَلَمَة الثقفيّ:
+
+وإنّي بِحَمْدِ اللهِ لا ثَوْبَ فاجِرٍ
+
+لَبِسْتُ وَلا مِنْ غَدْرَةٍ أتَقَنَّعُ
+
+⁕ حدثني زكريا بن يحيى بن أبي زائدة، قال: ثنا حجاج، قال ابن جريج: أخبرني عطاء، أنه سمع ابن عباس يقول: ﴿وَثِيَابَكَ فَطَهِّرْ﴾ قال: من الإثم، ثم قال: نقيّ الثياب في كلام العرب.
+
+⁕ حدثنا سعيد بن يحيى، قال: ثنا حفص بن غياث القاضي، عن ابن جُرَيج، عن عطاء، عن ابن عباس، قوله: ﴿وَثِيَابَكَ فَطَهِّرْ﴾ قال: في كلام العرب: نقيّ الثياب.
+
+⁕ حدثنا ابن المثنى، قال: ثنا يحيى بن سعيد، عن شعبة، عن مغيرة، عن إبراهيم ﴿وَثِيَابَكَ فَطَهِّرْ﴾ قال: من الذنوب.
+
+⁕ حدثنا أبو كريب، قال: ثنا يحيى بن سعيد، عن ابن جريج، عن عطاء، عن ابن عباس ﴿وَثِيَابَكَ فَطَهِّرْ﴾ قال: من الذنوب.
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة ﴿وَثِيَابَكَ فَطَهِّرْ﴾ قال: هي كلمة من العربية كانت العرب تقولها: طهر ثيابك: أي من الذنوب.
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: ﴿وَثِيَابَكَ فَطَهِّرْ﴾ يقول: طهرها من المعاصي، فكانت العرب تسمي الرجل إذا نكث ولم يف بعهد أنه دَنِسَ الثياب، وإذا وفى وأصلح قالوا: مطهَّر الثياب.
+
+⁕ حدثنا ابن حميد، قال ثنا مهران، عن سفيان، عن ابن جريج، عن عطاء، عن ابن عباس: ﴿وَثِيَابَكَ فَطَهِّرْ﴾ قال: من الإثم.
+
+⁕ قال: ثنا مهران، عن سفيان، عن مغيرة، عن إبراهيم ﴿وَثِيَابَكَ فَطَهِّرْ﴾ قال: من الإثم.
+
+⁕ حُدثت عن الحسين، قال: سمعت أبا معاذ يقول: ثنا عبيد، قال: سمعت الضحاك يقول في قوله: ﴿وَثِيَابَكَ فَطَهِّرْ﴾ يقول: لا تلبس ثيابك على معصية.
+
+⁕ حدثنا أبو كريب، قال: ثنا وكيع، عن سفيان، عن ابن جُريج، عن عطاء، عن ابن عباس ﴿وَثِيَابَكَ فَطَهِّرْ﴾ قال: من الإثم.
+
+⁕ قال ثنا وكيع، عن سفيان، عن مغيرة، عن إبراهيم، قال: من الإثم.
+
+⁕ قال: ثنا وكيع، عن سفيان، عن الأجلح، سمع عكرمة قال: لا تلبس ثيابك على معصية.
+
+⁕ قال: ثنا وكيع، عن سفيان، عن جابر، عن عامر وعطاء قالا من الخطايا.
+
+وقال آخرون: بل معنى ذلك: لا تلبس ثيابك من مكسب غير طيب.
+
+ذكر من قال ذلك:
+
+⁕ حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس ﴿وَثِيَابَكَ فَطَهِّرْ﴾ قال: لا تكن ثيابك التي تلبس من مكسب غير طائب، ويقال: لا تلبس ثيابك على معصية.
+
+وقال آخرون: بل معنى ذلك: أصلح عملك.
+
+ذكر من قال ذلك:
+
+⁕ حدثني يحيى بن طلحة اليربوعي، قال: ثنا فضيل بن عياض، عن منصور، عن مجاهد، في قوله: ﴿وَثِيَابَكَ فَطَهِّرْ﴾ قال: عملك فأصلح.
+
+⁕ حدثنا ابن حميد، قال: ثنا جرير، عن منصور، عن أبي رَزِين في قوله: ﴿وَثِيَابَكَ فَطَهِّرْ﴾ قال: عملك فأصلحه، وكان الرجل إذا كان خبيث العمل، قالوا: فلان خبيث الثياب، وإذا كان حسن العمل قالوا: فلان طاهر الثياب.
+
+وقال آخرون في ذلك ما:-
+
+⁕ حدثنا محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى؛ وحدثني الحارث قال: ثنا الحسن، قال: ثنا ورقاء، جميعا عن ابن أبي نجيح، عن مجاهد، قوله: ﴿وَثِيَابَكَ فَطَهِّرْ﴾ قال: لست بكاهن ولا ساحر، فأعرض عما قالوا.
+
+وقال آخرون: بل معنى ذلك: اغسلها بالماء، وطهرها من النجاسة.
+
+ذكر من قال ذلك:
+
+⁕ حدثني عباس بن أبي طالب، قال: ثنا عليّ بن عبد الله بن جعفر، عن أحمد بن موسى بن أبى مريم صاحب اللؤلؤ، قال: أخبرنا ابن عون، عن محمد بن سيرين ﴿وَثِيَابَكَ فَطَهِّرْ﴾ قال: اغسلها بالماء.
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله: ﴿وَثِيَابَكَ فَطَهِّرْ﴾ قال: كان المشركون لا يتطهرون، فأمره أن يتطهر، ويطهِّر ثيابه.
+
+وهذا القول الذي قاله ابن سيرين وابن زيد في ذلك أظهر معانيه، والذي قاله ابن عباس، وعكرمة وابن زكريا قول عليه أكثر السلف من أنه عُنِيَ به: جسمك فطهر من الذنوب، والله أعلم بمراده من ذلك.
+
+﴿وَالرُّجْزَ فَاهْجُرْ﴾ اختلفت القرّاء في قراءة ذلك، فقرأه بعض قرّاء المدينة وعامة قرّاء الكوفة: ﴿والرِّجْزَ﴾ بكسر الراء، وقرأه بعض المكيين والمدنيين ﴿وَالرُّجْزَ﴾ بضم الراء، فمن ضمّ الراء وجهه إلى الأوثان، وقال: معنى الكلام: والأوثان فاهجر عبادتها، واترك خدمتها، ومن كسر الراء وجَّهه إلى العذاب، وقال: معناه: والعذاب فاهجر، أي ما أوجب لك العذاب من الأعمال فاهجر.
+
+والصواب من القول في ذلك أنهما قراءتان معروفتان، فبأيتهما قرأ القارئ فمصيب، والضمّ والكسر في ذلك لغتان بمعنى واحد، ولم نجد أحدًا من متقدّمي أهل التأويل فرّق بين تأويل ذلك، وإنما فرّق بين ذلك فيما بلغنا الكسائيّ.
+
+واختلف أهل التأويل في معنى ﴿الرُّجْزُ﴾ في هذا الموضع، فقال بعضهم: هو الأصنام.
+
+ذكر من قال ذلك:
+
+⁕ حدثني عليّ، قال: ثنا أبو صالح، قال: ثني معاوية، عن عليّ، عن ابن عباس، في قوله: ﴿وَالرُّجْزَ فَاهْجُرْ﴾ يقول: السخط وهو الأصنام.
+
+⁕ حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى؛ وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء، جميعا عن ابن أبي نجيح، عن مجاهد، قوله: ﴿وَالرُّجْزَ فَاهْجُرْ﴾ قال: الأوثان.
+
+⁕ حدثنا أبو كُرَيب، قال: ثنا وكيع، عن إسرائيل - قال أبو جعفر: أحسبه أنا - عن جابرٍ، عن مجاهد وعكرِمة ﴿وَالرُّجْزَ فَاهْجُرْ﴾ قال: الأوثان.
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة ﴿وَالرُّجْزَ فَاهْجُرْ﴾ : إساف ونائلة، وهما صنمان كانا عند البيت يمسح وجوههما من أتى عليهما، فأمر الله نبيَّهُ ﷺ أن يجتنبهما ويعتزلهما.
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن الزهريّ ﴿وَالرُّجْزَ فَاهْجُرْ﴾ قال: هي الأوثان.
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله: ﴿وَالرُّجْزَ فَاهْجُرْ﴾ قال: الرجز: آلهتهم التي كانوا يعبدون؛ أمره أن يهجرها، فلا يأتيها، ولا يقربها.
+
+وقال آخرون: بل معنى ذلك: والمعصية والإثم فاهجر.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا ابن حميد، قال: ثنا مهران، عن سفيان
+
+[TRUNCATED at 12000 chars — 6389 more. Consult the source directly before relying on anything near the cut.]
 
 ### al-Muyassar (Arabic)
 
-يا أيها المتغطي بثيابه، قم مِن مضجعك، فحذِّر الناس من عذاب الله، وخُصَّ ربك وحده بالتعظيم والتوحيد والعبادة، وَطَهِّر ثيابك من النجاسات؛ فإن طهارة الظاهر من تمام طهارة الباطن، ودُمْ على هَجْر الأصنام والأوثان وأعمال الشرك كلها، فلا تقربها، ولا تُعط العطيَّة؛ كي تلتمس أكثر منها، ولمرضاة ربك فاصبر على الأوامر والنواهي.
+تسمية السورة
+
+• سميت المدثر؛ لأنها تحدثت عن نبينا محمد ﷺ في بدء الوحي ووصفه بالمدثر، وهو المتغطي بالثوب ونحوه، وفي ذلك دلالة على عظم أمر الوحي وجلالة شأنه.
+
+من مقاصد السورة
+
+• تكريمُ النبي ﷺ بالرسالة، وتكليفُه بالنهوضِ بأعباء الدعوة والقيامِ بمهمة التبليغ، والصبرِ على أذى الفجار، وإعلانِ الوحدانية لله وتعظيمه ونبذِ الشرك.
+
+• تهديد المجرمين بيومٍ عَصيبٍ شديدٍ، وعَرْضُ قصة أحد المشركين، ممَّن عرف الحقَّ وتركه عنادًا، وتصدّى للطعن في القرآن، وزعم أنه قول البشر.
+
+• وصف جهنَّم التي أعدَّها الله للكفار؛ بذكر خَزَنتها الأشدّاء، وزَبانِيَتها الذين كُلِّفوا بتعذيب أهلها، وذكر الحوار الذي يجري بين المؤمنين والمجرمين عن سبب دخولهم الجحيم، وفي ضِمنه بيانُ حال المقابل من المؤمنين.
+
+[التفسير]
+
+يا أيها المتغطي بثيابه، قم مِن مضجعك، فحذِّر الناس من عذاب الله، وخُصَّ ربك وحده بالتعظيم والتوحيد والعبادة، وطَهِّر ثيابك من النجاسات؛ فإن طهارة الظاهر من تمام طهارة الباطن، ودُمْ على هَجْر الأصنام والأوثان وأعمال الشرك كلها، فلا تقربها، ولا تُعط العطيَّة؛ كي تلتمس أكثر منها، ولمرضاة ربك فاصبر على الأوامر والنواهي.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿ورَبّك فَكَبِّرْ﴾ عَظِّمْ عَنْ إشْراك المُشْرِكِينَ
 
 ---

@@ -1,8 +1,8 @@
 # Tafsir Cross-Reference Report
 
-Generated: 2026-04-13
-Primary ayah: 18:102
-Tafsir sources checked: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), al-Jalalayn availability checked
+Generated: 2026-07-30
+Ayahs referenced: 1
+Tafsir sources: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), al-Jalalayn (Arabic)
 
 ---
 
@@ -10,50 +10,70 @@ Tafsir sources checked: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (A
 
 ### Ibn Kathir (English)
 
-Ibn Kathir connects 18:102 to the preceding description of disbelievers whose eyes were covered from Allah's reminder and whose hearing could not receive guidance. He explains the question as a rebuke: did those who disbelieved think it was right or beneficial for them to take Allah's servants as awliya besides Him? He links the meaning to the Qur'anic pattern in which those worshiped besides Allah disown or oppose their worshipers, and he states that Allah has prepared Hell as their abode on the Day of Resurrection.
+And on that Day We shall present Hell to the disbelievers, plain to view (100)(To) those whose eyes had been under a covering from My Reminder, and they could not bear to hear (it)(101)Do then those who disbelieved think that they can take My servants as Awliya' [protectors] besides Me? Verily, We have prepared Hell as an entertainment for the disbelievers (102)
+
+Hell will be displayed before the Disbelievers on the Day of Resurrection
+
+Allah tells us what He will do to the disbelievers on the Day of Resurrection. He will show Hell to them, meaning He will bring it forth for them to see its punishment and torment before they enter it. This will intensify their distress and grief. In Sahih Muslim it is recorded that Ibn Mas'ud said, "The Messenger of Allah ﷺ said,
+
+يُؤْتَى بِجَهَنَّمَ تُقَادُ يَوْمَ الْقِيَامَةِ بِسَبْعِينَ أَلْفَ زِمَامٍ، مَعَ كُلِّ زِمَامٍ سَبْعُونَ أَلْفَ مَلَكٍ
+
+(Hell will be brought forth on the Day of Resurrection, pulled by means of seventy thousand reins, each of which will be held by seventy thousand angels.)
+
+Then Allah says of them:
+
+الَّذِينَ كَانَتْ أَعْيُنُهُمْ فِي غِطَاءٍ عَن ذِكْرِي
+
+((To) those whose eyes had been under a covering from My Reminder,) meaning, they neglected it, turning a blind eye and a deaf ear to it, refusing to accept guidance and follow the truth. As Allah says:
+
+وَمَن يَعْشُ عَن ذِكْرِ الرَّحْمَٰنِ نُقَيِّضْ لَهُ شَيْطَانًا فَهُوَ لَهُ قَرِينٌ
+
+(And whosoever turns away blindly from the remembrance of the Most Gracious, We appoint for him a Shaytan to be a companion for him.)(43:36) And here Allah says:
+
+وَكَانُوا لَا يَسْتَطِيعُونَ سَمْعًا
+
+(and they could not bear to hear (it).) meaning, they did not understand the commands and prohibitions of Allah. Then He says:
+
+أَفَحَسِبَ الَّذِينَ كَفَرُوا أَن يَتَّخِذُوا عِبَادِي مِن دُونِي أَوْلِيَاءَ
+
+(Do then those who disbelieved think that they can take My servants as Awliya' [protectors] besides Me?) meaning, do they think that this is right for them and that it is going to benefit them?
+
+كَلَّا ۚ سَيَكْفُرُونَ بِعِبَادَتِهِمْ وَيَكُونُونَ عَلَيْهِمْ ضِدًّا
+
+(Nay, but they will deny their worship of them, and become opponents to them)[19:82].
+
+Allah says that He has prepared Hell as their abode on the Day of Resurrection.
 
 ### al-Tabari (Arabic)
 
-Al-Tabari explains that the ayah rebukes those who disbelieved in Allah, including worshipers of the angels and the Messiah, for imagining that Allah's servants whom they worshiped besides Him could be protectors for them. He says the answer is no: those servants are not protectors for the disbelievers, but rather the false reliance fails. Al-Tabari also notes the dominant recitation of `hasiba` as supposing/thinking, and glosses the end of the ayah as Allah preparing Jahannam as a lodging or dwelling for those who disbelieved.
+القول في تأويل قوله تعالى: ﴿أَفَحَسِبَ الَّذِينَ كَفَرُوا أَنْ يَتَّخِذُوا عِبَادِي مِنْ دُونِي أَوْلِيَاءَ إِنَّا أَعْتَدْنَا جَهَنَّمَ لِلْكَافِرِينَ نزلا (١٠٢) ﴾
+
+يقول عزّ ذكره: أفظن الذين كفروا بالله من عبدة الملائكة والمسيح، أن يتخذوا عبادي الذين عبدوهم من دون الله أولياء، يقول كلا بل هم لهم أعداء.
+
+وبنحو الذي قلنا في ذلك، قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا القاسم، قال: ثنا الحسين، قال: ثني حجاج، عن ابن جريج، في قوله ﴿أفَحَسِبَ الَّذِينَ كَفَرُوا أنْ يَتَّخِذُوا عِبادي مِنْ دُونِي أوْلياءَ﴾ قال: يعني من يعبد المسيح ابن مريم والملائكة، وهم عباد الله، ولم يكونوا للكفار أولياء.
+
+وبهذه القراءة، أعني بكسر السين من ﴿أفَحَسِبَ﴾ بمعنى الظنّ قرأت هذا الحرف قرّاء الأمصار ورُوي عن عليّ بن أبي طالب رضي الله عنه وعكرمة ومجاهد أنهم قرءوا ذلك ﴿أَفَحَسِبَ الَّذِينَ كَفَرُوا﴾ بتسكين السين، ورفع الحرف بعدها، بمعنى: أفحسبهم ذلك: أي أفكفاهم أن يتخذوا عبادي من دوني أولياء من عباداتي وموالاتي.
+
+كما:-
+
+⁕ حُدثت عن إسحاق بن يوسف الأزرق، عن عمران بن حدير، عن عكرمة ﴿أَفَحَسِبَ الَّذِينَ كَفَرُوا﴾ قال: أفحسبهم ذلك، والقراءة التي نقرؤها هي القراءة التي عليها قرّاء الأمصار ﴿أَفَحَسِبَ الَّذِينَ﴾ بكسر السين، بمعنى أفظنّ، لإجماع الحجة من القرّاء عليها.
+
+* *
+
+وقوله ﴿إِنَّا أَعْتَدْنَا جَهَنَّمَ لِلْكَافِرِينَ نزلا﴾
+
+يقول: أعددنا لمن كفر بالله جهنم منزلا.
 
 ### al-Muyassar (Arabic)
 
-Al-Muyassar summarizes the ayah as: did those who disbelieved in Allah think they could take His servants as gods besides Him so that they would be patrons for them? Allah has prepared the Fire of Jahannam as a lodging for the disbelievers.
+أفظن الذين كفروا بي أن يتخذوا عبادي آلهة من غيري؛ ليكونوا أولياء لهم؟ إنا أعتدنا نار جهنم للكافرين منزلًا.
 
 ### al-Jalalayn (Arabic)
 
-A direct per-ayah JSON entry was not available from the configured CDN endpoint during this check.
-
-### Alignment Notes
-
-The reflection aligns with the tafsir sources on the core claim: 18:102 rebukes the false assumption that Allah's own servants can be taken as protectors besides Him. The draft's extension into modern misplaced reliance is framed as tadabbur application, not a replacement for the tafsir meaning. Its emphasis on servants being honored only in servanthood aligns with al-Tabari's examples of angels and the Messiah, and its reading of `nuzul` as a bitter lodging/reception aligns with al-Tabari and al-Muyassar's glosses.
+﴿أفَحَسِبَ الَّذِينَ كَفَرُوا أنْ يَتَّخِذُوا عِبادِي﴾ أيْ مَلائِكَتِي وعِيسى وعُزَيْرًا ﴿مِن دُونِي أوْلِياء﴾ أرْبابًا مَفْعُول ثانٍ لِيَتَّخِذُوا والمَفْعُول الثّانِي لِحَسِبَ مَحْذُوف المَعْنى أظَنُّوا أنَّ الِاتِّخاذ المَذْكُور لا يُغْضِبنِي ولا أُعاقِبهُمْ عَلَيْهِ ؟ كَلّا ﴿إنّا أعْتَدْنا جَهَنَّم لِلْكافِرِينَ﴾ هَؤُلاءِ وغَيْرهمْ ﴿نُزُلًا﴾ أيْ هِيَ مُعَدَّة لَهُمْ كالمَنزِلِ المُعَدّ لِلضَّيْفِ
 
 ---
-
-## Cross-References Used In The Reflection
-
-### 19:82
-
-Used through Ibn Kathir's framing: those worshiped besides Allah will reject or oppose the worship directed to them. This supports the theme that false protectors become failed protectors, and may become evidence against their worshipers.
-
-### 18:1 and 18:65-82
-
-Used as internal Al-Kahf echoes of true servanthood: the Messenger is Allah's servant upon whom the Book descends, and Khidr remains a servant acting by Allah's command rather than from independent authority.
-
-### 18:98
-
-Used as the contrast between means under Allah and means besides Allah. Dhul-Qarnayn builds a barrier but calls it mercy from his Lord and admits its appointed end under Allah's promise.
-
-### 34:40-41 and 5:116
-
-Used thematically as parallel Qur'anic scenes in which honored servants such as angels or Isa are not independent objects of worship and do not own the false worship directed toward them.
-
-### 26:88-89 and 14:22
-
-Used thematically for the Hereafter's stripping away of false refuges: wealth and children do not avail except for the one who comes with a sound heart, and Shaytan disowns coercive authority over those who followed his call.
-
----
-
-## Verdict
-
-No tafsir conflict found. The article's claims remain within the classical frame: 18:102 exposes the failed assumption that Allah's servants can be protectors besides Him, then declares Jahannam prepared as lodging for the disbelievers. The practical applications about misplaced reliance and created means are tadabbur extensions grounded in the ayah's tawhid logic.

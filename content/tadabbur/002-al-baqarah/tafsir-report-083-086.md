@@ -1,6 +1,6 @@
 # Tafsir Cross-Reference Report
 
-Generated: 2026-04-09
+Generated: 2026-07-30
 Ayahs referenced: 7
 Tafsir sources: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), al-Jalalayn (Arabic)
 
@@ -10,22 +10,97 @@ Tafsir sources: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), 
 
 ### Ibn Kathir (English)
 
+And they (Jews) say, "The Fire shall not touch us but for a few numbered days." Say (O Muhammad ﷺ to them): "Have you taken a covenant from Allah, so that Allah will not break His covenant? Or is it that you say of Allah what you know not? (80)
+
 The Jews hope They will only remain in the Fire for a Few Days
+
 Allah mentioned the claim of the Jews, that the Fire will only touch them for a few days, and then they will be saved from it. Allah refuted this claim by saying,
+
 قُلْ أَتَّخَذْتُمْ عِندَ اللَّهِ عَهْدًا
-(Say (O Muhammad to them): "Have you taken a covenant from Allah'). Hence, the Ayah proclaims, `if you had a promise from Allah for that, then Allah will never break His promise. However, such promise never existed. Rather, what y...
+
+(Say (O Muhammad ﷺ to them): "Have you taken a covenant from Allah?'). Hence, the Ayah proclaims, 'if you had a promise from Allah for that, then Allah will never break His promise. However, such promise never existed. Rather, what you say, about Allah, you have no knowledge of and you thus utter a lie about Him.' Al-'Awfi said that Ibn 'Abbas said about the Ayah,
+
+وَقَالُوا لَن تَمَسَّنَا النَّارُ إِلَّا أَيَّامًا مَّعْدُودَةً
+
+(And they (Jews) say, "The Fire shall not touch us but for a few numbered days."). "The Jews said, 'The Fire will only touch us for forty days.'" Others added that this was the period during which the Jews worshipped the calf.
+
+Also, Al-Hafiz Abu Bakr bin Marduwyah reported Abu Hurayrah saying,
+
+(When Khaybar was conquered, a roasted poisoned sheep was presented to the Prophet ﷺ as a gift (by the Jews). The Messenger of Allah ﷺ ordered, 'Assemble before me all the Jews who were here.' The Jews were summoned and the Prophet ﷺ said (to them), 'Who is your father?' They replied, 'So-and-so.' He said, 'You have lied; your father is so-and-so.' They said, 'You have uttered the truth.' He said, 'Will you now tell me the truth, if I ask you about something?' They replied, 'Yes, O Abul-Qasim; and if we should tell a lie, you will know our lie as you have about our fathers.' On that he asked, 'Who are the people of the (Hell) Fire?' They said, 'We shall remain in the (Hell) Fire for a short period, and after that you will replace us in it.' The Prophet ﷺ said, 'May you be cursed and humiliated in it! By Allah, we shall never replace you in it.' Then he asked, 'Will you tell me the truth if I ask you a question?' They said, 'Yes, O Abul-Qasim.' He asked, 'Have you poisoned this sheep?' They said, 'Yes.' He asked, 'What made you do so?' They said, 'We wanted to know if you were a liar, in which case we would get rid of you, and if you were a Prophet then the poison would not harm you.') Imam Ahmad, Al-Bukhari and An-Nasa'i recorded similarly.
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله تعالى :  وَقَالُوا لَنْ تَمَسَّنَا النَّارُ إِلا أَيَّامًا مَعْدُودَةًقال أبو جعفر: يعني بقوله: (وقالوا)، اليهود, يقول: وقالت اليهود: (لن تمسنا النار)، يعني لن تلاقي أجسامنا النار ولن ندخلها،" إلا أياما معدودة ". وإنما قيل " معدودة " وإن لم يكن مبينا عددها في التنـزيل، لأن الله جل ثناؤه أخبر عنهم بذلك وهم عارفون عدد الأيام، التي يوقتونها لمكثهم في النار. فلذلك ترك ذكر تسمية عدد تلك الأيام، وسماها " معدودة " لما وصفنا.* * *ثم اختلف أهل التأويل في مبلغ الأيام المعدودة التي ع...
+القول في تأويل قوله تعالى: ﴿وَقَالُوا لَنْ تَمَسَّنَا النَّارُ إِلا أَيَّامًا مَعْدُودَةً﴾
+
+قال أبو جعفر: يعني بقوله: ﴿وقالوا﴾ ، اليهود، يقول: وقالت اليهود: ﴿لن تمسنا النار﴾ ، يعني لن تلاقي أجسامنا النار ولن ندخلها،"إلا أياما معدودة". وإنما قيل"معدودة" وإن لم يكن مبينا عددها في التنزيل، لأن الله جل ثناؤه أخبر عنهم بذلك وهم عارفون عدد الأيام، التي يوقتونها لمكثهم في النار. فلذلك ترك ذكر تسمية عدد تلك الأيام، وسماها"معدودة" لما وصفنا.
+
+* *
+
+ثم اختلف أهل التأويل في مبلغ الأيام المعدودة التي عينها اليهود، القائلون ما أخبر الله عنهم من ذلك * فقال بعضهم بما:-
+
+١٣٩٩ - حدثنا به أبو كريب قال، حدثنا عثمان بن سعيد، عن بشر بن عمارة، عن أبي روق، عن الضحاك، عن ابن عباس: ﴿وقالوا لن تمسنا النار إلا أياما معدودة﴾ ، قال ذلك أعداء الله اليهود، قالوا: لن يدخلنا الله النار إلا تحلة القسم، الأيام التي أصبنا فيها العجل: أربعين يوما، فإذا انقضت عنا تلك الأيام، انقطع عنا العذاب والقسم.
+
+١٤٠٠ - حدثنا الحسن بن يحيى قال، أخبرنا عبد الرزاق قال، أخبرنا معمر، عن قتادة في قوله: ﴿لن تمسنا النار إلا أياما معدودة﴾ ، قالوا: أياما معدودة بما أصبنا في العجل.
+
+١٤٠١ - حدثنا موسى قال، حدثنا عمرو قال، حدثنا أسباط، عن السدي: ﴿وقالوا لن تمسنا النار إلا أياما معدودة﴾ ، قال: قالت اليهود: إن الله يدخلنا النار فنمكث فيها أربعين ليلة، حتى إذا أكلت النار خطايانا واستنقتنا، [[نقيت الثوب (بتشديد القاف) وأنقيته نقاء فهو نقي: نظيف. و"استنقيته" ليست في المعاجم، ولكنها صحيحة البناء والمعنى.]] نادى مناد: أخرجوا كل مختون من ولد بني إسرائيل. فلذلك أمرنا أن نختتن. قالوا: فلا يدعون منا في النار أحدا إلا أخرجوه.
+
+١٤٠٢ - حدثني المثنى قال، حدثنا آدم قال، حدثنا أبو جعفر، عن الربيع، عن أبي العالية قال: قالت اليهود: إن ربنا عتب علينا في أمرنا، فأقسم ليعذبنا أربعين ليلة، ثم يخرجنا. فأكذبهم الله.
+
+١٤٠٣ - حدثني المثنى قال، حدثنا آدم قال، حدثنا أبو جعفر، عن قتادة قال: قالت اليهود: لن ندخل النار إلا تحلة القسم، عدد الأيام التي عبدنا فيها العجل.
+
+١٤٠٤ - حدثني محمد بن سعد قال، حدثني أبي قال، حدثني عمي قال، حدثني أبي، عن أبيه، عن ابن عباس قوله: ﴿لن تمسنا النار إلا أياما معدودة﴾ الآية، قال ابن عباس: ذكر أن اليهود وجدوا في التوراة مكتوبا، أن ما بين طرفي جهنم مسيرة أربعين سنة، إلى أن ينتهوا إلى شجرة الزقوم نابتة في أصل الجحيم - وكان ابن عباس يقول: إن الجحيم سقر، وفيه شجرة الزقوم - فزعم أعداء الله، أنه إذا خلا العدد الذي وجدوا في كتابهم أياما معدودة - وإنما يعني بذلك المسير الذي ينتهي إلى أصل الجحيم - فقالوا: إذا خلا العدد انتهى الأجل. فلا عذاب، وتذهب جهنم وتهلك. [[خلا يخلو: مضى وذهب وانقضى.]] فذلك قوله: ﴿لن تمسنا النار إلا أياما معدودة﴾ ، يعنون بذلك الأجل. فقال ابن عباس: لما اقتحموا من باب جهنم، ساروا في العذاب حتى انتهوا إلى شجرة الزقوم آخر يوم من الأيام المعدودة، قال لهم خزان سقر: زعمتم أنكم لن تمسكم النار إلا أياما معدودة! فقد خلا العدد وأنتم في الأبد! فأخذ بهم في الصَّعود في جهنم يرهقون. [[الصعود: مشقة العذاب، ولكنه أراد هنا ما قالوا: جبل في جهنم من جمرة واحدة، يكلف الكافر ارتقاءه، ويضرب بالمقامع، فكلما وضع عليه رجله ذابت إلى أسفل دركة، ثم تعود مكانها صحيحة، والله أعلم.]]
+
+١٤٠٥ - حدثني محمد بن سعد قال، حدثني أبي قال، حدثني عمي قال، حدثني أبي، عن أبيه، عن ابن عباس: ﴿وقالوا لن تمسنا النار إلا أياما معدودة﴾ ، إلا أربعين ليلة.
+
+١٤٠٦ - حدثني المثنى قال، حدثنا إسحاق قال، حدثنا حفص بن عمر، عن الحكم بن أبان، عن عكرمة قال: خاصمت اليهود رسول الله ﷺ فقالوا: لن ندخل النار إلا أربعين ليلة، وسيخلفنا فيها قوم آخرون - يعنون محمدا وأصحابه. فقال رسول الله ﷺ بيده على رءوسهم [[قال بيده: أشار. وقد مضى مثل ذلك مرارا.]] "بل أنتم فيها خالدون، لا يخلفكم فيها أحد. فأنزل الله جل ثناؤه: ﴿وقالوا لن تمسنا النار إلا أياما معدودة﴾ .
+
+١٤٠٧ - حدثنا القاسم قال، حدثنا الحسين قال، حدثنا حجاج، عن ابن جريج قال، أخبرني الحكم بن أبان، عن عكرمة، قال: اجتمعت يهود يوما تخاصم النبي ﷺ. فقالوا: ﴿لن تمسنا النار إلا أياما معدودة﴾ ، - وسموا أربعين يوما - ثم يخلفنا، أو يلحقنا، فيها أناس. فأشاروا إلى النبي ﷺ وأصحابه. فقال رسول الله ﷺ:"كذبتم، بل أنتم فيها خالدون مخلدون، لا نلحقكم ولا نخلفكم فيها إن شاء الله أبدا". [[الحديثان: ١٤٠٦، ١٤٠٧ - هما حديث واحد بإسنادين. ونسبه السيوطي أيضًا ١: ٨٤، لعبد بن حميد، وابن المنذر، وابن أبي حاتم. وهو حديث مرسل، لا تقوم به حجة.]]
+
+١٤٠٨ - حدثني يونس بن عبد الأعلى قال، أخبرنا علي بن معبد، عن أبي معاوية، عن جويبر، عن الضحاك في قوله: ﴿لن تمسنا النار إلا أياما معدودة﴾ ، قال: قالت اليهود: لا نعذب في النار يوم القيامة إلا أربعين يوما مقدار ما عبدنا العجل.
+
+١٤٠٩ - حدثني يونس قال، أخبرنا ابن وهب قال، قال ابن زيد: حدثني أبي أن رسول الله ﷺ قال لهم:"أنشدكم بالله وبالتوراة التي أنزلها الله على موسى يوم طور سيناء، مَن أهل النار الذين أنزلهم الله في التوراة؟ وقالوا: إن ربهم غضب عليهم غضبة، فنمكث في النار أربعين ليلة، ثم نخرج فتخلفوننا فيها. فقال رسول الله ﷺ: كذبتم والله، لا نخلفكم فيها أبدا". فنزل القرآن تصديقا لقول النبي ﷺ وتكذيبا لهم: ﴿وقالوا لن تمسنا النار إلا أياما معدودة قل أتخذتم عند الله عهدا﴾ إلى قوله: ﴿هم فيها خالدون﴾ . [[الحديث: ١٤٠٩ - هو حديث مرسل أيضًا.]]
+
+* *
+
+وقال آخرون في ذلك بما:-
+
+١٤١٠ - حدثنا أبو كريب قال، حدثنا يونس بن بكير قال، حدثنا ابن إسحاق قال، حدثني محمد بن أبي محمد مولى زيد بن ثابت قال، حدثني سعيد بن جبير أو عكرمة، عن ابن عباس قال: كانت يهود يقولون: إنما مدة الدنيا سبعة آلاف سنة، وإنما يعذب الله الناس يوم القيامة بكل ألف سنة من أيام الدنيا يوما واحدا من أيام الآخرة، وإنها سبعة أيام. فأنزل الله في ذلك من قولهم: ﴿وقالوا لن تمسنا النار إلا أياما معدودة﴾ الآية.
+
+١٤١١ - حدثنا ابن حميد قال، حدثنا سلمة، عن محمد بن إسحاق قال، حدثني محمد بن أبي محمد، عن سعيد بن جبير أو عكرمة، عن ابن عباس قال: قدم رسول الله ﷺ المدينة، ويهود تقول: إنما مدة الدنيا سبعة آلاف سنة، وإنما يعذب الناس في النار بكل ألف سنة من أيام الدنيا، يوما واحدا في النار من أيام الآخرة، فإنما هي سبعة أيام، ثم ينقطع العذاب. فأنزل الله عز وجل في ذلك من قولهم: ﴿لن تمسنا النار﴾ الآية.
+
+١٤١٢ - حدثني محمد بن عمرو قال، حدثنا أبو عاصم، عن عيسى، عن ابن أبي نجيح، عن مجاهد في قول الله: ﴿قالوا لن تمسنا النار إلا أياما معدودة﴾ ، قال: كانت تقول: إنما الدنيا سبعة آلاف سنة، وإنما نعذب مكان كل ألف سنة يوما.
+
+١٤١٣ - حدثني المثنى قال، حدثنا أبو حذيفة قال، حدثنا شبل، عن ابن أبي نجيح، عن مجاهد مثله - إلا أنه قال: كانت اليهود تقول: إنما الدنيا، وسائر الحديث مثله.
+
+١٤١٤ - حدثنا القاسم قال، حدثنا الحسين قال، حدثني حجاج قال، قال ابن جريج، قال مجاهد: وقالوا لن تمسنا النار إلا أياما معدودة من الدهر. وسموا عدة سبعة آلاف سنة، من كل ألف سنة يوما. يهود تقوله.
+
+* *
+
+القول في تأويل قوله تعالى: ﴿قُلْ أَتَّخَذْتُمْ عِنْدَ اللَّهِ عَهْدًا فَلَنْ يُخْلِفَ اللَّهُ عَهْدَهُ أَمْ تَقُولُونَ عَلَى اللَّهِ مَا لا تَعْلَمُونَ (٨٠) ﴾
+
+قال أبو جعفر: لما قالت اليهود ما قالت من قولها: (لن تمسنا النار إلا أياما معدودة) - على ما قد بينا من تأويل ذلك - قال الله لنبيه محمد ﷺ: قل يا محمد، لمعشر اليهود: ﴿أتخذتم عند الله عهدا﴾ : أأخذتم بما تقولون من ذلك من الله ميثاقا، فالله لا ينقض ميثاقه، ولا يبدل وعده وعقده، أم تقولون على الله الباطل جهلا وجراءة عليه؟ كما:-
+
+١٤١٥ - حدثنا محمد بن عمرو قال، حدثنا أبو عاصم، عن عيسى، عن ابن أبي نجيح، عن مجاهد: ﴿قل أتخذتم عند الله عهدا﴾ أي: موثقا من الله بذلك أنه كما تقولون.
+
+١٤١٦ - حدثني المثنى قال، حدثنا أبو حذيفة قال، حدثنا شبل، عن ابن أبي نجيح، عن مجاهد مثله.
+
+١٤١٧ - حدثني المثنى قال، حدثنا آدم قال، حدثنا أبو جعفر، عن قتادة قال: قالت اليهود: لن ندخل النار إلا تحلة القسم، عدة الأيام التي عبدنا فيها العجل، فقال الله: ﴿أتخذتم عند الله عهدا﴾ ، بهذا الذي تقولونه؟ ألكم بهذا حجة وبرهان؟ فلن يخلف الله عهده، فهاتوا حجتكم وبرهانكم، أم تقولون على الله ما لا تعلمون؟
+
+١٤١٨ - حدثنا أبو كريب قال، حدثنا عثمان بن سعيد، عن بشر بن عمارة، عن أبي روق، عن الضحاك، عن ابن عباس قال: لما قالت اليهود ما قالت، قال الله جل ثناؤه لمحم، قل"أتخذتم عند الله عهدا"، يقول: أدخرتم عند الله عهدا؟ يقول: أقلتم لا إله إلا الله لم تشركوا ولم تكفروا به؟ فإن كنتم قلتموها فارجوا بها، وإن كنتم لم تقولوها، فلم تقولون على الله ما لا تعلمون؟ يقول: لو كنتم قلتم لا إله إلا الله ولم تشركوا به شيئا، ثم متم على ذلك، لكان لكم ذخرا عندي، ولم أخلف وعدي لكم: أني أجازيكم بها.
+
+١٤١٩ - حدثني موسى بن هارون قال، حدثنا عمرو قال، حدثنا أسباط عن السدي قال: لما قالت اليهود ما قالت، قال الله عز وجل: (قل أتخذتم عند الله عهدا فلن يخلف الله عهده) - وقال في مكان آخر: ﴿وَغَرَّهُمْ فِي دِينِهِمْ مَا كَانُوا يَفْتَرُونَ﴾ . [آل عمران: ٢٤] ، ثم أخبر الخبر فقال: ﴿بلى من كسب سيئة﴾ .
+
+* *
+
+قال أبو جعفر: وهذه الأقوال التي رويناها عن ابن عباس ومجاهد وقتادة، بنحو ما قلنا في تأويل قوله: ﴿قل أتخذتم عند الله عهدا﴾ . لأن مما أعطاه الله عباده من ميثاقه: أن من آمن به وأطاع أمره، نجاه من ناره يوم القيامة. ومن الإيمان به، الإقرار بأن لا إله إلا الله. وكذلك من ميثاقه الذي واثقهم به: أن من أتى الله يوم القيامة بحجة تكون له نجاة من النار، فينجيه منها. وكل ذلك، وإن اختلفت ألفاظ قائليه، فمتفق المعاني، على ما قلنا فيه. والله تعالى أعلم.
 
 ### al-Muyassar (Arabic)
 
-وقال بنو إسرائيل: لن تصيبنا النار في الآخرة إلا أيامًا قليلة العدد. قل لهم -أيها الرسول مبطلا دعواهم-: أعندكم عهد من الله بهذا، فإن الله لا يخلف عهده؟ بل إنكم تقولون على الله ما لا تعلمون بافترائكم الكذب.
+وقال بنو إسرائيل: لن تصيبنا النار في الآخرة إلّا أيامًا قليلة العدد. قل لهم -أيها الرسول مبطلًا دعواهم-: أعندكم عهد من الله بهذا، فإن الله لا يخلف عهده؟ بل إنكم تقولون على الله ما لا تعلمون بافترائكم الكذب.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿وقالُوا﴾ لَمّا وعَدَهُمْ النَّبِيّ النّار ﴿لَنْ تَمَسّنا﴾ تُصِيبنا ﴿النّار إلّا أيّامًا مَعْدُودَة﴾ قَلِيلَة أرْبَعِينَ يَوْمًا مُدَّة عِبادَة آبائِهِمْ العِجْل ثُمَّ تَزُول ﴿قُلْ﴾ لَهُمْ يا مُحَمَّد ﴿أتَّخَذْتُمْ﴾ حُذِفَتْ هَمْزَة الوَصْل اسْتِغْناء بِهَمْزَةِ الِاسْتِفْهام ﴿عِنْد اللَّه عَهْدًا﴾ مِيثاقًا مِنهُ بِذَلِكَ ﴿فَلَنْ يُخْلِف اللَّه عَهْده﴾ فَلَنْ يُخْلِف اللَّه عَهْده بِهِ ؟ لا ﴿أمْ﴾ بَلْ ﴿تقولون على الله ما لا تعلمون﴾
 
 ---
 
@@ -33,21 +108,169 @@ Allah mentioned the claim of the Jews, that the Fire will only touch them for a 
 
 ### Ibn Kathir (English)
 
+Yes! Whosoever earns evil and his sin has surrounded him, they are dwellers of the Fire (i.e. Hell); they will dwell therein forever (81)And those who believe and do righteous good deeds, they are dwellers of Paradise, they will dwell therein forever (82)
+
 Allah says, the matter is not as you have wished and hoped it to be. Rather, whoever does an evil deed and abides purposefully in his error, coming on the Day of Resurrection with no good deeds, only evil deeds, then he will be among the people of the Fire.
-وَالَّذِينَ ءَامَنُواْ وَعَمِلُواْ الصَّـلِحَاتِ
-(And those who believe and do righteous good deeds) meaning, "They believe in Allah and His Messenger and perform the good deeds that conform with the Islamic Law. They shall be among the pe...
+
+وَالَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ
+
+(And those who believe and do righteous good deeds) meaning, "They believe in Allah and His Messenger ﷺ and perform the good deeds that conform with the Islamic Law. They shall be among the people of Paradise." Allah said in a similar statement,
+
+لَّيْسَ بِأَمَانِيِّكُمْ وَلَا أَمَانِيِّ أَهْلِ الْكِتَابِ مَن يَعْمَلْ سُوءًا يُجْزَ بِهِ وَلَا يَجِدْ لَهُ مِن دُونِ اللَّهِ وَلِيًّا وَلَا نَصِيرًا - وَمَن يَعْمَلْ مِنَ الصَّالِحَاتِ مِن ذَكَرٍ أَوْ أُنثَىٰ وَهُوَ مُؤْمِنٌ فَأُولَٰئِكَ يَدْخُلُونَ الْجَنَّةَ وَلَا يُظْلَمُونَ نَقِيرًا
+
+(It will not be in accordance with your desires (Muslims), nor those of the People of the Scripture (Jews and Christians), whosoever works evil, will have the recompense thereof, and he will not find any protector or helper besides Allah. And whoever does righteous good deeds, male or female, and is a (true) believer [in the Oneness of Allah (Muslim)], such will enter Paradise and not the least injustice, even the size of a Naqira (speck on the back of a date stone), will be done to them)(4:123-124).
+
+Also, Abu Hurayrah, Abu Wa'il, 'Ata', and Al-Hasan said that,
+
+وَأَحَاطَتْ بِهِ خَطِيئَتُهُ
+
+(And his sin has surrounded him) means, "His Shirk (polytheism) has surrounded him." Also, Al-A'mash reported from Abu Razin that Ar-Rabi' bin Khuthaym said,
+
+وَأَحَاطَتْ بِهِ خَطِيئَتُهُ
+
+(And his sin has surrounded him), "Whoever dies before repenting from his wrongs." As-Suddi and Abu Razin said similarly. Abu Al-'Aliyah, Mujahid, Al-Hasan, Qatadah and Ar-Rabi' bin Anas said that,
+
+وَأَحَاطَتْ بِهِ خَطِيئَتُهُ
+
+(And his sin has surrounded him) refers to major sins. All of these statements carry similar meanings, and Allah knows best.
+
+When Small Sins gather, They bring about Destruction
+
+Here we should mention the Hadith that Imam Ahmad recorded, in which 'Abdullah bin Mas'ud said that the Messenger of Allah ﷺ said,
+
+إِيَّاكُمْ وَمُحَقَّرَاتِ الذُّنُوبِ فَإِنَّهُنَّ يَجْتَمِعْنَ عَلَى الرَّجُلِ حَتّى يُهْلِكْنَهُ
+
+(Beware of the belittled sins, because they gather on a person until they destroy him.)
+
+He then said that the Messenger of Allah ﷺ gave them an example,
+
+كَمَثَلٍ قَوْمٍ نَزَلُوا بِأَرْضِ فَلَاةٍ، فَحَضَرَ صَنِيعُ الْقَوْمِ فَجَعَلَ الرَّجُلُ يَنْطَلِقُ فَيَجِيءُ بِالْعُودِ وَالرَّجُلُ يَجِيءُ بِالْعُودِ، حَتّى جَمَعُوا سَوَادًا وَأَجَّجُوا نَارًا فَأَنْضَجُوا مَا قَذَفُوا فِيهَا
+
+(This is the example of people who set up camp on a flat land, and then their servants came. One of them collected some wood and another man collected some wood until they collected a great deal. They then started a fire and cooked what they put on it.)
+
+Muhammad bin Ishaq reported that Ibn 'Abbas said that,
+
+وَالَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ أُولَٰئِكَ أَصْحَابُ الْجَنَّةِ هُمْ فِيهَا خَالِدُونَ
+
+(And those who believe and do righteous good deeds, they are dwellers of Paradise, they will dwell therein forever) "Whoever believes in what you (Jews) did not believe in and implements what you refrained from implementing of Muhammad's religion, shall acquire Paradise for eternity. Allah stated that the recompense for good or evil works shall remain with its people for eternity. "
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله تعالى :  بَلَى مَنْ كَسَبَ سَيِّئَةًقال أبو جعفر: وقوله: (بلى من كسب سيئة) تكذيب من الله القائلين من اليهود:  لَنْ تَمَسَّنَا النَّارُ إِلا أَيَّامًا مَعْدُودَةً  وإخبار منه لهم أنه معذب من أشرك ومن كفر به وبرسله، وأحاطت به ذنوبه، فمخلده في النار، (39) فإن الجنة لا يسكنها إلا أهل الإيمان به وبرسوله, وأهل الطاعة له, والقائمون بحدوده كما:-1420 - حدثنا محمد بن حميد قال، حدثنا سلمة قال، حدثني محمد بن إسحاق قال، حدثني محمد بن أبي محمد, عن سعيد بن جبير أو عكرمة, عن ابن عباس: (بل...
+القول في تأويل قوله تعالى: ﴿بَلَى مَنْ كَسَبَ سَيِّئَةً﴾
+
+قال أبو جعفر: وقوله: ﴿بلى من كسب سيئة﴾ تكذيب من الله القائلين من اليهود: ﴿لن تمسنا النار إلا أياما معدودة﴾ وإخبار منه لهم أنه معذب من أشرك ومن كفر به وبرسله، وأحاطت به ذنوبه، فمخلده في النار، [[في المطبوعة: "أنه يعذب. . فمخلد في النار"، والصواب ما أثبته.]] فإن الجنة لا يسكنها إلا أهل الإيمان به وبرسوله، وأهل الطاعة له، والقائمون بحدوده * كما:-
+
+١٤٢٠ - حدثنا محمد بن حميد قال، حدثنا سلمة قال، حدثني محمد بن إسحاق قال، حدثني محمد بن أبي محمد، عن سعيد بن جبير أو عكرمة، عن ابن عباس: ﴿بلى من كسب سيئة وأحاطت به خطيئته﴾ أي: من عمل مثل أعمالكم، وكفر بمثل ما كفرتم به، حتى يحيط كفره بما له من حسنة، فأولئك أصحاب النار هم فيها خالدون.
+
+* *
+
+قال أبو جعفر: وأما ﴿بلى﴾ ، فإنها إقرار في كل كلام في أوله جحد، كما "نعم" إقرار في الاستفهام الذي لا جحد فيه. وأصلها"بل" التي هي رجوع عن الجحد المحض في قولك:"ما قام عمرو بل زيد". فزيد فيها"الياء" ليصلح عليها الوقوف، إذ كانت"بل" لا يصلح عليها الوقوف، إذ كانت عطفا ورجوعا عن الجحد. ولتكون - أعني"بلى" - رجوعا عن الجحد فقط، وإقرارا بالفعل الذي بعد الجحد، فدلت"الياء" منها على معنى الإقرار والإنعام. [[الإنعام: التصديق. يقال: أنعم: أجاب بقوله: نعم. وهو تصديق.]] ودل لفظ"بل" عن الرجوع عن الجحد. [[انظر معاني القرآن للفراء ١: ٥٢ - ٥٣، وقد عد الطبري الحرف الآخر من"بلى""ياء"، وعدها الفراء"ألفا".]]
+
+* *
+
+قال أبو جعفر: وأما"السيئة" التي ذكر الله في هذا المكان، فإنها الشرك بالله * كما:-
+
+١٤٢١ - حدثنا محمد بن بشار قال، حدثنا يحيى بن سعيد، عن سفيان قال، حدثني عاصم، عن أبي وائل: ﴿بلى من كسب سيئة﴾ ، قال: الشرك بالله.
+
+١٤٢٢ - حدثني محمد بن عمرو قال، حدثنا أبو عاصم، عن عيسى، عن ابن أبي نجيح، عن مجاهد: ﴿بلى من كسب سيئة﴾ شركا.
+
+١٤٢٣ - حدثني المثنى قال، حدثنا أبو حذيفة قال، حدثنا شبل، عن ابن أبي نجيح، عن مجاهد مثله.
+
+١٤٢٤ - حدثنا بشر بن معاذ قال، حدثنا يزيد بن زريع قال، حدثنا سعيد، عن قتادة، قوله: ﴿بلى من كسب سيئة﴾ ، قال: أما السيئة فالشرك.
+
+١٤٢٥ - حدثنا الحسن بن يحيى قال، أخبرنا عبد الرزاق قال، أخبرنا معمر، عن قتادة مثله.
+
+١٤٢٦ - حدثني موسى قال، حدثنا عمرو قال، حدثنا أسباط، عن السدي: ﴿بلى من كسب سيئة﴾ ، أما السيئة، فهي الذنوب التي وعد عليها النار.
+
+١٤٢٧ - حدثنا القاسم قال، حدثنا الحسين قال، حدثني حجاج، عن ابن جريج قال، قلت لعطاء: ﴿بلى من كسب سيئة﴾ ، قال: الشرك - قال ابن جريج قال، قال مجاهد: ﴿سيئة﴾ شركا.
+
+١٤٢٨ - حدثت عن عمار بن الحسن قال، حدثنا ابن أبي جعفر، عن أبيه، عن الربيع قوله: ﴿بلى من كسب سيئة﴾ ، يعني: الشرك.
+
+* *
+
+قال أبو جعفر: وإنما قلنا إن"السيئة" - التي ذكر الله جل ثناؤه أن من كسبها وأحاطت به خطيئته، فهو من أهل النار المخلدين فيها - في هذا الموضع، إنما عنى الله بها بعض السيئات دون بعض، وإن كان ظاهرها في التلاوة عاما، [[انظر تفسير"الظاهر" فيما سلف: ٢: ١٥ والمراجع.]] لأن الله قضى على أهلها بالخلود في النار. والخلود في النار لأهل الكفر بالله دون أهل الإيمان به، لتظاهر الأخبار عن رسول الله ﷺ بأن أهل الإيمان لا يخلدون فيها، وأن الخلود في النار لأهل الكفر بالله دون أهل الإيمان. فإن الله جل ثناؤه قد قرن بقوله: ﴿بلى من كسب سيئة وأحاطت به خطيئته فأولئك أصحاب النار هم فيها خالدون﴾ - قوله - ﴿والذين آمنوا وعملوا الصالحات أولئك أصحاب الجنة هم فيها خالدون﴾ . فكان معلوما بذلك أن الذين لهم الخلود في النار من أهل السيئات، غير الذين لهم الخلود في الجنة من أهل الإيمان.
+
+* *
+
+فإن ظن ظان أن الذين لهم الخلود في الجنة من الذين آمنوا، هم الذين عملوا الصالحات، دون الذين عملوا السيئات، فإن في إخبار الله = أنه مكفر - باجتنابنا كبائر ما ننهى عنه سيئاتنا، ومدخلُنا المُدخلَ الكريم = ما ينبئ عن صحة ما قلنا في تأويل قوله: ﴿بلى من كسب سيئة﴾ ، بأن ذلك على خاص من السيئات دون عامها.
+
+* *
+
+فإن قال لنا قائل: فإن الله جل ثناؤه إنما ضمن لنا تكفير سيئاتنا باجتنابنا كبائر ما ننهى عنه، فما الدلالة على أن الكبائر غير داخلة في قوله: ﴿بلى من كسب سيئة﴾ ؟
+
+قيل: لما صح من أن الصغائر غير داخلة فيه، وأن المعنيَّ بالآية خاص دون عام، ثبت وصح أن القضاء والحكم بها غير جائز لأحد على أحد، إلا على من وقفه الله عليه بدلالة من خبر قاطع عذرَ من بلغه. وقد ثبت وصح أن الله تعالى ذكره قد عنى بذلك أهل الشرك والكفر به، بشهادة جميع الأمة. فوجب بذلك القضاء على أن أهل الشرك والكفر ممن عناه الله بالآية. فأما أهل الكبائر، فإن الأخبار القاطعة عذر من بلغته، قد تظاهرت عندنا بأنهم غير معنيين بها. فمن أنكر ذلك - ممن دافع حجة الأخبار المستفيضة والأنباء المتظاهرة - فاللازم له ترك قطع الشهادة على أهل الكبائر بالخلود في النار، بهذه الآية ونظائرها التي جاءت بعمومهم في الوعيد. إذ كان تأويل القرآن غير مدرك إلا ببيان من جعل الله إليه بيان القرآن، وكانت الآية يأتي عاما في صنف ظاهرها، وهي خاص في ذلك الصنف باطنها. [[انظر تفسير"الظاهر والباطن" آنفًا: ٢: ١٥ والمراجع.]]
+
+ويسأل مدافعو الخبر بأن أهل الكبائر من أهل الاستثناء، سؤالَنا منكر رجم الزاني المحصن، وزوال فرض الصلاة عن الحائض في حال الحيض. فإن السؤال عليهم، نظير السؤال على هؤلاء، سواء. [[هذا رد على المعتزلة، في إيجابهم خلود أهل الإيمان في النار. ورجم الزاني المحصن، وزوال فرض الصلاة عن الحائض في حال الحيض، مما جاء في الأخبار، ولم يأت به نص قرآن.]]
+
+* *
+
+القول في تأويل قوله تعالى: ﴿وَأَحَاطَتْ بِهِ خَطِيئَتُهُ﴾
+
+قال أبو جعفر: يعني بقوله جل ثناؤه: ﴿وأحاطت به خطيئته﴾ ، اجتمعت عليه فمات عليها، قبل الإنابة والتوبة منها.
+
+* *
+
+وأصل"الإحاطة بالشيء"، الإحداق به، بمنزلة"الحائط" الذي تحاط به الدار فتحدق به. ومنه قول الله جل ثناؤه: ﴿نارا أحاط بهم سرادقها﴾ [الكهف: ٢٩] .
+
+* *
+
+فتأويل الآية إذًا: من أشرك بالله، واقترف ذنوبا جمة فمات عليها قبل الإنابة والتوبة، فأولئك أصحاب النار هم فيها مخلدون أبدا. وبنحو الذي قلنا في تأويل ذلك قال المتأولون.
+
+ذكر من قال ذلك:
+
+١٤٢٩ - حدثنا أبو كريب قال، حدثنا ابن يمان، عن سفيان، عن الأعمش، عن أبي روق، عن الضحاك: ﴿وأحاطت به خطيئته﴾ ، قال: مات بذنبه.
+
+١٤٣٠ - حدثنا أبو كريب قال، حدثنا جرير بن نوح قال، حدثنا الأعمش، عن أبي رزين، عن الربيع بن خُثَيم: ﴿وأحاطت به خطيئته﴾ ، قال: مات عليها. [[الخبر: ١٤٣٠ - الربيع بن خثيم الثوري الكوفي: من كبار التابعين وخيارهم، ثقة لا يسأل عن مثله. مترجم في التهذيب، والكبير للبخاري ٢ / ١ /٢٤٦ وابن أبي حاتم ١/ ٢ /٤٥٩. وأبوه "خثيم" بضم الخاء المعجمة مصغر، كما ضبطه ابن دريد في الاشتقاق: ١١٢ - ١١٣، والحافظ في التقريب، ووقع في المطبوعة"خيثم" بتقديم الياء على الثاء، وبذلك ضبطه صاحب الخلاصة. وهو خطأ صرف.]]
+
+١٤٣١ - حدثنا ابن حميد قال، حدثنا سلمة قال، أخبرني ابن إسحاق قال، حدثني محمد بن أبي محمد، عن سعيد بن جبير أو عكرمة، عن ابن عباس: ﴿وأحاطت به خطيئته﴾ ، قال: يحيط كفره بما له من حسنة.
+
+١٤٣٢ - حدثني محمد بن عمرو قال، حدثنا أبو عاصم قال، حدثني عيسى، عن ابن أبي نجيح، عن مجاهد: ﴿وأحاطت به خطيئته﴾ ، قال: ما أوجب الله فيه النار.
+
+١٤٣٣ - حدثنا بشر قال، حدثنا يزيد قال، حدثنا سعيد، عن قتادة: ﴿وأحاطت به خطيئته﴾ ، قال: أما الخطيئة فالكبيرة الموجبة.
+
+١٤٣٤ - حدثنا الحسن قال، أخبرنا عبد الرزاق [قال، أخبرنا معمر] ، عن قتاده: ﴿وأحاطت به خطيئته﴾ ، قال: الخطيئة: الكبائر.
+
+١٤٣٥ - حدثني المثنى قال، حدثنا إسحاق قال، حدثنا وكيع ويحيى بن آدم، عن سلام بن مسكين قال: سأل رجل الحسن عن قوله: ﴿وأحاطت به خطيئته﴾ ، فقال: ما ندري ما الخطيئة، يا بني اتل القرآن، فكل آية وعد الله عليها النار، فهي الخطيئة.
+
+١٤٣٦ - حدثنا أحمد بن إسحاق الأهوازي قال، حدثنا أبو أحمد الزبيري قال، حدثنا سفيان، عن منصور، عن مجاهد في قوله: ﴿بلى من كسب سيئة وأحاطت به خطيئته﴾ ، قال: كل ذنب محيط، فهو ما وعد الله عليه النار.
+
+١٤٣٧ - حدثنا أحمد بن إسحاق قال، حدثنا أبو أحمد الزبيري قال، حدثنا سفيان، عن الأعمش، عن أبي رزين: ﴿وأحاطت به خطيئته﴾ ، قال: مات بخطيئته.
+
+١٤٣٨ - حدثني المثنى قال، حدثنا أبو نعيم قال، حدثنا الأعمش قال، حدثنا مسعود أبو رزين، عن الربيع بن خثيم في قوله: ﴿وأحاطت به خطيئته﴾ ، قال: هو الذي يموت على خطيئته قبل أن يتوب.
+
+١٤٣٩ - حدثنا القاسم قال، حدثنا الحسين قال، قال وكيع: سمعت الأعمش يقول في قوله: ﴿وأحاطت به خطيئته﴾ ، مات بذنوبه.
+
+١٤٤٠ - حُدثت عن عمار قال، حدثنا ابن أبي جعفر، عن أبيه، عن الربيع: ﴿وأحاطت به خطيئته﴾ ، الكبيرة الموجبة.
+
+١٤٤١ - حدثني موسى قال، حدثنا عمرو بن حماد قال، حدثنا أسباط، عن السدي: ﴿أحاطت به خطيئته﴾ ، فمات ولم يتب.
+
+١٤٤٢ - حدثنا القاسم قال، حدثنا الحسين قال، حدثني حسان، عن ابن جريج قال، قلت لعطاء: ﴿وأحاطت به خطيئته﴾ ، قال: الشرك، ثم تلا ﴿وَمَنْ جَاءَ بِالسَّيِّئَةِ فَكُبَّتْ وُجُوهُهُمْ فِي النَّارِ﴾ [النمل: ٩٠] . [[انظر ما مضى في كلامه عن"الخطيئة" في هذا الجزء ٢: ١١٠.]]
+
+* *
+
+القول في تأويل قوله تعالى: ﴿فَأُولَئِكَ أَصْحَابُ النَّارِ هُمْ فِيهَا خَالِدُونَ (٨١) ﴾
+
+قال أبو جعفر: يعني بقوله جل ثناؤه:"فأولئك أصحاب النار هم فيها خالدون" فأولئك الذين كسبوا السيئات وأحاطت بهم خطيئاتهم، أصحاب النار هم فيها خالدون.
+
+* *
+
+ويعني بقوله جل ثناؤه: ﴿أصحاب النار﴾ ، أهل النار، وإنما جعلهم لها أصحابا لإيثارهم - في حياتهم الدنيا ما يوردهموها ويوردهم سعيرها - على الأعمال التي توردهم الجنة فجعلهم جل ذكره = بإيثارهم أسبابها على أسباب الجنة = لها أصحابا، كصاحب الرجل الذي يصاحبه مؤثرا صحبته على صحبة غيره، حتى يعرف به.
+
+* *
+
+﴿هم فيها﴾ ، يعني: هم في النار خالدون. ويعني بقوله: ﴿خالدون﴾ مقيمون * كما:
+
+١٤٤٣ - حدثني محمد بن حميد قال، حدثنا سلمة قال، حدثني محمد بن أبي محمد، عن سعيد بن جبير أو عكرمة، عن ابن عباس: ﴿هم فيها خالدون﴾ ، أي خالدون أبدا.
+
+١٤٤٤ - حدثني موسى بن هارون قال، حدثنا عمرو قال، حدثنا أسباط، عن السدي: ﴿هم فيها خالدون﴾ لا يخرجون منها أبدا.
 
 ### al-Muyassar (Arabic)
 
-فحُكْمُ الله ثابت: أن من ارتكب الآثام حتى جَرَّته إلى الكفر، واستولت عليه ذنوبه مِن جميع جوانبه وهذا لا يكون إلا فيمن أشرك بالله، فالمشركون والكفار هم الذين يلازمون نار جهنم ملازمة دائمةً لا تنقطع.
+فحُكْمُ الله ثابت: أن من ارتكب الآثام حتى جَرَّته إلى الكفر، واستولت عليه ذنوبه مِن جميع جوانبه -وهذا لا يكون إلّا فيمن أشرك بالله- فأولئك هم المشركون والكفار الذين يلازمون نار جهنم ملازمة دائمةً لا تنقطع.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿بَلى﴾ تَمَسّكُمْ وتُخَلَّدُونَ فِيها ﴿مَن كَسَب سَيِّئَة﴾ شِرْكًا ﴿وأَحاطَتْ بِهِ خَطِيئَته﴾ بِالإفْرادِ والجَمْع أيْ اسْتَوْلَتْ عَلَيْهِ وأَحْدَقَتْ بِهِ مِن كُلّ جانِب بِأَنْ ماتَ مُشْرِكًا ﴿فَأُولَئِكَ أصْحاب النّار هُمْ فِيها خالِدُونَ﴾ رُوعِيَ فِيهِ مَعْنى مِن
 
 ---
 
@@ -55,13 +278,65 @@ Allah says, the matter is not as you have wished and hoped it to be. Rather, who
 
 ### Ibn Kathir (English)
 
+Yes! Whosoever earns evil and his sin has surrounded him, they are dwellers of the Fire (i.e. Hell); they will dwell therein forever (81)And those who believe and do righteous good deeds, they are dwellers of Paradise, they will dwell therein forever (82)
+
 Allah says, the matter is not as you have wished and hoped it to be. Rather, whoever does an evil deed and abides purposefully in his error, coming on the Day of Resurrection with no good deeds, only evil deeds, then he will be among the people of the Fire.
-وَالَّذِينَ ءَامَنُواْ وَعَمِلُواْ الصَّـلِحَاتِ
-(And those who believe and do righteous good deeds) meaning, "They believe in Allah and His Messenger and perform the good deeds that conform with the Islamic Law. They shall be among the pe...
+
+وَالَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ
+
+(And those who believe and do righteous good deeds) meaning, "They believe in Allah and His Messenger ﷺ and perform the good deeds that conform with the Islamic Law. They shall be among the people of Paradise." Allah said in a similar statement,
+
+لَّيْسَ بِأَمَانِيِّكُمْ وَلَا أَمَانِيِّ أَهْلِ الْكِتَابِ مَن يَعْمَلْ سُوءًا يُجْزَ بِهِ وَلَا يَجِدْ لَهُ مِن دُونِ اللَّهِ وَلِيًّا وَلَا نَصِيرًا - وَمَن يَعْمَلْ مِنَ الصَّالِحَاتِ مِن ذَكَرٍ أَوْ أُنثَىٰ وَهُوَ مُؤْمِنٌ فَأُولَٰئِكَ يَدْخُلُونَ الْجَنَّةَ وَلَا يُظْلَمُونَ نَقِيرًا
+
+(It will not be in accordance with your desires (Muslims), nor those of the People of the Scripture (Jews and Christians), whosoever works evil, will have the recompense thereof, and he will not find any protector or helper besides Allah. And whoever does righteous good deeds, male or female, and is a (true) believer [in the Oneness of Allah (Muslim)], such will enter Paradise and not the least injustice, even the size of a Naqira (speck on the back of a date stone), will be done to them)(4:123-124).
+
+Also, Abu Hurayrah, Abu Wa'il, 'Ata', and Al-Hasan said that,
+
+وَأَحَاطَتْ بِهِ خَطِيئَتُهُ
+
+(And his sin has surrounded him) means, "His Shirk (polytheism) has surrounded him." Also, Al-A'mash reported from Abu Razin that Ar-Rabi' bin Khuthaym said,
+
+وَأَحَاطَتْ بِهِ خَطِيئَتُهُ
+
+(And his sin has surrounded him), "Whoever dies before repenting from his wrongs." As-Suddi and Abu Razin said similarly. Abu Al-'Aliyah, Mujahid, Al-Hasan, Qatadah and Ar-Rabi' bin Anas said that,
+
+وَأَحَاطَتْ بِهِ خَطِيئَتُهُ
+
+(And his sin has surrounded him) refers to major sins. All of these statements carry similar meanings, and Allah knows best.
+
+When Small Sins gather, They bring about Destruction
+
+Here we should mention the Hadith that Imam Ahmad recorded, in which 'Abdullah bin Mas'ud said that the Messenger of Allah ﷺ said,
+
+إِيَّاكُمْ وَمُحَقَّرَاتِ الذُّنُوبِ فَإِنَّهُنَّ يَجْتَمِعْنَ عَلَى الرَّجُلِ حَتّى يُهْلِكْنَهُ
+
+(Beware of the belittled sins, because they gather on a person until they destroy him.)
+
+He then said that the Messenger of Allah ﷺ gave them an example,
+
+كَمَثَلٍ قَوْمٍ نَزَلُوا بِأَرْضِ فَلَاةٍ، فَحَضَرَ صَنِيعُ الْقَوْمِ فَجَعَلَ الرَّجُلُ يَنْطَلِقُ فَيَجِيءُ بِالْعُودِ وَالرَّجُلُ يَجِيءُ بِالْعُودِ، حَتّى جَمَعُوا سَوَادًا وَأَجَّجُوا نَارًا فَأَنْضَجُوا مَا قَذَفُوا فِيهَا
+
+(This is the example of people who set up camp on a flat land, and then their servants came. One of them collected some wood and another man collected some wood until they collected a great deal. They then started a fire and cooked what they put on it.)
+
+Muhammad bin Ishaq reported that Ibn 'Abbas said that,
+
+وَالَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ أُولَٰئِكَ أَصْحَابُ الْجَنَّةِ هُمْ فِيهَا خَالِدُونَ
+
+(And those who believe and do righteous good deeds, they are dwellers of Paradise, they will dwell therein forever) "Whoever believes in what you (Jews) did not believe in and implements what you refrained from implementing of Muhammad's religion, shall acquire Paradise for eternity. Allah stated that the recompense for good or evil works shall remain with its people for eternity. "
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله تعالى :  وَالَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ أُولَئِكَ أَصْحَابُ الْجَنَّةِ هُمْ فِيهَا خَالِدُونَ (82)قال أبو جعفر: ويعني بقوله: (والذين آمنوا)، أي صدقوا بما جاء به محمد صلى الله عليه وسلم. ويعني بقوله: (وعملوا الصالحات)، أطاعوا الله فأقاموا حدوده, وأدوا فرائضه, واجتنبوا محارمه. ويعني بقوله: (فأولئك)، فالذين هم كذلك (أصحاب الجنة هم فيها خالدون)، يعني أهلها الذين هم أهلها هم فيها(خالدون)، مقيمون أبدا.* * *وإنما هذه الآية والتي قبلها إخبار من الله عباده عن بقاء الن...
+القول في تأويل قوله تعالى: ﴿وَالَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ أُولَئِكَ أَصْحَابُ الْجَنَّةِ هُمْ فِيهَا خَالِدُونَ (٨٢) ﴾
+
+قال أبو جعفر: ويعني بقوله: ﴿والذين آمنوا﴾ ، أي صدقوا بما جاء به محمد ﷺ. ويعني بقوله: ﴿وعملوا الصالحات﴾ ، أطاعوا الله فأقاموا حدوده، وأدوا فرائضه، واجتنبوا محارمه. ويعني بقوله: ﴿فأولئك﴾ ، فالذين هم كذلك ﴿أصحاب الجنة هم فيها خالدون﴾ ، يعني أهلها الذين هم أهلها هم فيها ﴿خالدون﴾ ، مقيمون أبدا.
+
+* *
+
+وإنما هذه الآية والتي قبلها إخبار من الله عباده عن بقاء النار وبقاء أهلها فيها، [وبقاء الجنة وبقاء أهلها فيها] ، [[ما بين القوسين زيادة لا بد منها، لسياقة الكلام.]] ودوام ما أعد في كل واحدة منهما لأهلها، تكذيبا من الله جل ثناؤه القائلين من يهود بني إسرائيل: إن النار لن تمسهم إلا أياما معدودة، وأنهم صائرون بعد ذلك إلى الجنة. فأخبرهم بخلود كفارهم في النار، وخلود مؤمنيهم في الجنة * كما:-
+
+١٤٤٥ - حدثني ابن حميد قال، حدثنا سلمة قال، حدثنا ابن إسحاق قال، حدثني محمد بن أبي محمد، عن سعيد بن جبير أو عكرمة، عن ابن عباس: ﴿والذين آمنوا وعملوا الصالحات أولئك أصحاب الجنة هم فيها خالدون﴾ ، أي من آمن بما كفرتم به، وعمل بما تركتم من دينه، فلهم الجنة خالدين فيها. يخبرهم أن الثواب بالخير والشر مقيم على أهله أبدا لا انقطاع له أبدا.
+
+١٤٤٦ - حدثني يونس بن عبد الأعلى قال، أخبرنا ابن وهب قال، قال ابن زيد: ﴿والذين آمنوا وعملوا الصلحات﴾ ، محمد ﷺ وأصحابه -"أولئك أصحاب الجنة هم فيها خالدون".
 
 ### al-Muyassar (Arabic)
 
@@ -69,7 +344,7 @@ Allah says, the matter is not as you have wished and hoped it to be. Rather, who
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+*Not present in this edition for this ayah (source returned 404).*
 
 ---
 
@@ -77,21 +352,249 @@ Allah says, the matter is not as you have wished and hoped it to be. Rather, who
 
 ### Ibn Kathir (English)
 
+And (remember) when We took a covenant from the Children of Israel, (saying): Worship none but Allah (alone) and be dutiful and good to parents, and to kindred, and to orphans and (the poor), and speak good to people and perform As-Salah and give Zakah. Then you slid back, except a few of you, while you are backsliders (83)
+
 The Covenant that Allah took from the Children of Israel
+
 Allah reminded the Children of Israel of the commandments that He gave them, and the covenants that He took from them to abide by those commands, and how they intentionally and knowingly turned away from all of that. Allah commanded them to worship Him and to associate none with Him in worship, just as He has commanded all of His creatures, for this is why Allah created them. Allah said,
-وَمَآ أَرْسَلْنَا مِن قَبْلِكَ مِن رَّسُولٍ إِلاّ...
+
+وَمَا أَرْسَلْنَا مِن قَبْلِكَ مِن رَّسُولٍ إِلَّا نُوحِي إِلَيْهِ أَنَّهُ لَا إِلَٰهَ إِلَّا أَنَا فَاعْبُدُونِ
+
+(And We did not send any Messenger before you (O Muhammad ﷺ) but We revealed to him (saying): La ilaha illa Ana [none has the right to be worshipped but I (Allah)], so worship Me (alone and none else))(21:25), and,
+
+وَلَقَدْ بَعَثْنَا فِي كُلِّ أُمَّةٍ رَّسُولًا أَنِ اعْبُدُوا اللَّهَ وَاجْتَنِبُوا الطَّاغُوتَ
+
+(And verily, We have sent among every Ummah (community, nation) a Messenger (proclaiming): "Worship Allah (alone), and avoid the Taghut (all false deities,))(16:36).
+
+This is the highest and most important right, that is, Allah's right that He be worshipped alone without partners.
+
+After that comes the right of the creatures, foremost, the right of the parents. Allah usually mentions the rights of the parents along with His rights. For instance, Allah said,
+
+أَنِ اشْكُرْ لِي وَلِوَالِدَيْكَ إِلَيَّ الْمَصِيرُ
+
+(Give thanks to Me and to your parents. Unto Me is the final destination)(31:14). Also, Allah said,
+
+وَقَضَىٰ رَبُّكَ أَلَّا تَعْبُدُوا إِلَّا إِيَّاهُ وَبِالْوَالِدَيْنِ إِحْسَانًا
+
+(And your Lord has decreed that you worship none but Him. And that you be dutiful to your parents)(17:23), until,
+
+وَآتِ ذَا الْقُرْبَىٰ حَقَّهُ وَالْمِسْكِينَ وَابْنَ السَّبِيلِ
+
+(And give to the kinsman his due and to the Miskin (poor) and to the wayfarer)(17:26).
+
+The Two Sahihs record that Ibn Mas'ud said,
+
+قُلْتُ:
+
+يَا رَسُولَ اللهِ أيُّ الْعَمَل أَفْضَلُ؟
+
+قَالَ: الصَّلَاةُ عَلى وَقْتِهَا
+
+قُلْتُ: ثُمَّ أَيٌّ؟
+
+قَالَ: بِرُّ الْوَالِدَيْنِ
+
+قُلْتُ: ثُمَّ أَيٌّ؟
+
+قَالَ: الْجِهَادُ فِي سَبِيلِ اللهِ
+
+(I said, 'O Messenger of Allah! What is the best deed?' He said, 'Performing the prayer on time.' I said, 'Then what?' He said, 'Being kind to one's parents.' I said, 'Then what?' He said, 'Jihad in the cause of Allah.')
+
+Allah then said,
+
+وَالْيَتَامَىٰ
+
+(and to orphans) meaning, the young who have no fathers to fend for them.
+
+وَالْمَسَاكِينِ
+
+(and Al-Masakin (the poor)), plural for Miskin, the one who does not find what he needs to spend on himself and his family. We will discuss these categories when we explain the Ayah of Surat An-Nisa' where Allah said,
+
+وَاعْبُدُوا اللَّهَ وَلَا تُشْرِكُوا بِهِ شَيْئًا وَبِالْوَالِدَيْنِ إِحْسَانًا
+
+(Worship Allah and join none with Him (in worship); and do good to parents)(4:36).
+
+Allah's statement,
+
+وَقُولُوا لِلنَّاسِ حُسْنًا
+
+(and speak good to people) meaning, say good words to them and be lenient with them, this includes commanding good and forbidding evil. Al-Hasan Al-Basri commented on Allah's statement,
+
+وَقُولُوا لِلنَّاسِ حُسْنًا
+
+(and speak good to people), "The good saying' means commanding good and forbidding evil, and being patient and forgiving. The 'good words to people', as Allah commanded, also includes every good type of behavior that Allah is pleased with." Imam Ahmad narrated that Abu Dharr said that the Prophet ﷺ said,
+
+لَا تَحْقِرَنَّ مِنَ الْمَعْرُوفِ شَيْئًا وَإِنْ لَمْ تَجِدْ فَالْقَ أَخَاكَ بِوَجْهٍ مُنْطَلِقٍ
+
+(Do not belittle any form of righteousness, and even if you did not find any good deed except meeting your brother with a smiling face, then do so.)
+
+This Hadith was also collected by Muslim in his Sahih and At-Tirmidhi, who graded it Sahih.
+
+Allah commands the servants to say good words to people, after He commanded them to be kind to them, thereby mentioning two categories of manners: good speech and good actions. He then emphasized the command to worship Him and the command to do good, ordaining the prayer and the Zakah,
+
+وَأَقِيمُوا الصَّلَاةَ وَآتُوا الزَّكَاةَ
+
+(and perform As-Salah and give Zakah). Allah informed us that the People of the Book, except for a few among them, ignored these orders, that is, they knowingly and intentionally abandoned them. Allah ordered this Ummah similarly in Surat An-Nisa' when He said,
+
+وَاعْبُدُوا اللَّهَ وَلَا تُشْرِكُوا بِهِ شَيْئًا وَبِالْوَالِدَيْنِ إِحْسَانًا وَبِذِي الْقُرْبَىٰ وَالْيَتَامَىٰ وَالْمَسَاكِينِ وَالْجَارِ ذِي الْقُرْبَىٰ وَالْجَارِ الْجُنُبِ وَالصَّاحِبِ بِالْجَنبِ وَابْنِ السَّبِيلِ وَمَا مَلَكَتْ أَيْمَانُكُمْ إِنَّ اللَّهَ لَا يُحِبُّ مَن كَانَ مُخْتَالًا فَخُورًا
+
+(Worship Allah and join none with Him (in worship); and do good to parents, kinsfolk, orphans, Al-Masakin (the poor), the neighbor who is near of kin, the neighbor who is a stranger, the companion by your side, the wayfarer (you meet), and those (servants) whom your right hands possess. Verily, Allah does not like such as are proud and boastful)(4:36).
+
+Of these orders, this Ummah has practiced what no other nation before it has, and all praise is due to Allah.
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله تعالى :  وَإِذْ أَخَذْنَا مِيثَاقَ بَنِي إِسْرَائِيلَ لا تَعْبُدُونَ إِلا اللَّهَقال أبو جعفر: قد دللنا -فيما مضى من كتابنا هذا- على أن " الميثاق "" مفعال " من " التوثق باليمين " ونحوها من الأمور التي تؤكد القول. (48) فمعنى الكلام إذًا: واذكروا أيضا يا معشر بني إسرائيل، إذ أخذنا ميثاقكم لا تعبدون إلا الله، كما:-1447 - حدثني به ابن حميد قال، حدثنا سلمة قال، حدثني ابن إسحاق قال، حدثني محمد بن أبي محمد, عن سعيد بن جبير أو عكرمة, عن ابن عباس: (وإذ أخذنا ميثاق بني إسرائيل) -أي ...
+القول في تأويل قوله تعالى: ﴿وَإِذْ أَخَذْنَا مِيثَاقَ بَنِي إِسْرَائِيلَ لا تَعْبُدُونَ إِلا اللَّهَ﴾
+
+قال أبو جعفر: قد دللنا -فيما مضى من كتابنا هذا- على أن"الميثاق""مفعال" من"التوثق باليمين" ونحوها من الأمور التي تؤكد القول. [[انظر ما سلف ١: ٤١٤، وهذا الجزء ٢: ١٥٦.]] فمعنى الكلام إذًا: واذكروا أيضا يا معشر بني إسرائيل، إذ أخذنا ميثاقكم لا تعبدون إلا الله، كما:-
+
+١٤٤٧ - حدثني به ابن حميد قال، حدثنا سلمة قال، حدثني ابن إسحاق قال، حدثني محمد بن أبي محمد، عن سعيد بن جبير أو عكرمة، عن ابن عباس: ﴿وإذ أخذنا ميثاق بني إسرائيل﴾ -أي ميثاقكم- ﴿لا تعبدون إلا الله﴾ .
+
+* *
+
+قال أبو جعفر: والقَرَأَة مختلفة في قراءة قوله [[في المطبوعة: "والقراء مختلفة"، ورددتها إلى ما جرى عليه الطبري في كل ما سلف.]] ﴿لا تعبدون﴾ . فبعضهم يقرؤها بالتاء، وبعضهم يقرؤها بالياء، والمعنى في ذلك واحد. وإنما جازت القراءة بالياء والتاء، وأن يقال ﴿لا تعبدون﴾ و ﴿لا يعبدون﴾ وهم غَيَب، [[غيب (بفتح الغين والياء) جمع غائب، مثل خادم وخدم.]] لأن أخذ الميثاق، بمعنى الاستحلاف. فكما تقول:"استحلفت أخاك ليقومن" فتخبر عنه خبرك عن الغائب لغيبته عنك. وتقول:"استحلفته لتقومن"، فتخبر عنه خبرك عن المخاطب، لأنك قد كنت خاطبته بذلك - فيكون ذلك صحيحا جائزا.
+
+فكذلك قوله: ﴿وإذ أخذنا ميثاق بني إسرائيل لا تعبدون إلا الله﴾ و ﴿لا يعبدون﴾ . من قرأ ذلك"بالتاء" فمعنى الخطاب، إذ كان الخطاب قد كان بذلك. ومن قرأ"بالياء" فلأنهم ما كانوا مخاطبين بذلك في وقت الخبر عنهم.
+
+* *
+
+وأما رفع"لا تعبدون"، فبالتاء التي في"تعبدون"، ولا ينصب بـ "أن" التي كانت تصلح أن تدخل مع ﴿لا تعبدون إلا الله﴾ . لأنها إذا صلح دخولها على فعل فحذفت ولم تدخل، كان وجه الكلام فيه الرفع، كما قال جل ثناؤه: ﴿قُلْ أَفَغَيْرَ اللَّهِ تَأْمُرُونِّي أَعْبُدُ أَيُّهَا الْجَاهِلُونَ﴾ [الزمر: ٦٤] ، فرفع"أعبد" إذ لم تدخل فيها"أن" - بالألف الدالة على معنى الاستقبال، وكما قال الشاعر: [[هو طرفة بن العبد.]]
+
+ألا أيهذا الزاجري أحضرُ الوغى ... وأن أشهد اللذات هل أنت مخلدي [[ديوانه: ٣١٧ (أشعار الستة الجاهليين) ، من معلقته النفيسة وسيأتي في ٢١: ٢٢ / ٣٠: ١٣٠ (بولاق) ، وسيبويه ١: ٤٥٢.]]
+
+فرفع"أحضر" وإن كان يصلح دخول"أن" فيها -إذ حذفت، بالألف التي تأتي بمعنى الاستقبال.
+
+وإنما صلح حذف"أن" من قوله: ﴿وإذ أخذنا ميثاق بني إسرائيل لا تعبدون﴾ ، لدلالة ما ظهر من الكلام عليها، فاكتفى - بدلالة الظاهر عليها - منها. [[انظر معاني القرآن للفراء ١: ٥٣ - ٥٤.]]
+
+* *
+
+وقد كان بعض نحويي البصرة يقول: معنى قوله: ﴿وإذ أخذنا ميثاق بني إسرائيل لا تعبدون إلا الله﴾ ، حكاية، كأنك قلت: استحلفناهم: لا تعبدون، أي قلنا لهم: والله لا تعبدون - وقالوا: والله لا يعبدون. والذي قال من ذلك، قريب معناه من معنى القول الذي قلنا في ذلك.
+
+وبنحو الذي قلنا في قوله: ﴿وإذ أخذنا ميثاق بني إسرائيل لا تعبدون إلا الله﴾ ، تأوله أهل التأويل.
+
+ذكر من قال ذلك:
+
+١٤٤٨ - حدثني المثنى قال، حدثنا آدم قال، حدثنا أبو جعفر، عن الربيع، عن أبي العالية: أخذ مواثيقهم أن يخلصوا له، وأن لا يعبدوا غيره.
+
+١٤٤٩ - حدثني المثنى قال، حدثنا إسحاق قال، أخبرنا ابن أبي جعفر، عن أبيه، عن الربيع في قوله: ﴿وإذ أخذنا ميثاق بني إسرائيل لا تعبدون إلا الله﴾ ، قال: أخذنا ميثاقهم أن يخلصوا لله ولا يعبدوا غيره.
+
+١٤٥٠ - حدثنا القاسم قال، حدثنا الحسين قال، حدثني حجاج، عن ابن جريج: ﴿وإذ أخذنا ميثاق بني إسرائيل لا تعبدون إلا الله﴾ ، قال: الميثاق الذي أخذ عليهم في المائدة. [[قوله تعالى في سورة المائدة: ١٢: (ولقد أخذ الله ميثاق بني إسرائيل وبعثنا منهم اثني عشر نقيبا) إلى آخر الآية.]]
+
+* *
+
+القول في تأويل قوله تعالى: ﴿وَبِالْوَالِدَيْنِ إِحْسَانًا﴾
+
+قال أبو جعفر: وقوله جل ثناؤه: ﴿وبالوالدين إحسانا﴾ عطف على موضع"أن" المحذوفة في ﴿لا تعبدون إلا الله﴾ . فكان معنى الكلام: وإذ أخذنا ميثاق بني إسرائيل بأن لا تعبدوا إلا الله وبالوالدين إحسانا. فرفع ﴿لا تعبدون﴾ لما حذف"أن"، ثم عطف بالوالدين على موضعها، كما قال الشاعر: [[عقيبة بن هبيرة الأسدي، جاهلي إسلامي.]]
+
+معاوي إننا بشر فأسجح ... فلسنا بالجبال ولا الحديدا [[سيبويه ١: ٣٤، ٣٧٥، ٤٤٨، والخزانة ١: ٣٤٣، وسمط اللآلئ: ١٤٩ وفيه تحقيق جيد. وهذا البيت مما أخطأ فيه سيبويه، وكان عقيبة وفد على معاوية، ودفع إليه رقعة فيها هذه الأبيات: معاوي إننا بشر فأسجح ... فلسنا بالجبال ولا الحديد
+
+فهبها أمة ذهبت ضياعا ... يزيد أميرها وأبو يزيد
+
+أكلتم أرضنا فجردتموها ... فهل من قائم أو من حصيد ؟
+
+ذروا خَوْنَ الخلافة واستقيموا ... وتأمير الأراذل والعبيد
+
+وأعطونا السوية، لا تزركم ... جنود مردفات بالجنود
+
+فدعاه معاوية فقال له: ما أجرأك علي؟ قال: نصحتك إذ غشوك، وصدقتك إذ كذبوك. فقال معاوية: ما أظنك إلا صادقا.]] فنصب"الحديد" على العطف به على موضع"الجبال"، لأنها لو لم تكن فيها"باء" خافضة كانت نصبا، فعطف بـ "الحديد" على معنى "الجبال"، لا على لفظها. فكذلك ما وصفت من قوله: ﴿وبالوالدين إحسانا﴾ .
+
+* *
+
+وأما"الإحسان" فمنصوب بفعل مضمر يؤدي معناه قوله: ﴿وبالوالدين﴾ ، إذ كان مفهوما معناه، فكان معنى الكلام - لو أظهر المحذوف -: وإذ أخذنا ميثاق بني إسرائيل، بأن لا تعبدوا إلا الله، وبأن تحسنوا إلى الوالدين إحسانا، فاكتفى بقوله: ﴿وبالوالدين﴾ من أن يقال: وبأن تحسنوا إلى الوالدين إحسانا، إذ كان مفهوما أن ذلك معناه بما ظهر من الكلام.
+
+* *
+
+وقد زعم بعض أهل العربية في ذلك أن معناه: وبالوالدين فأحسنوا إحسانا، فجعل"الباء" التي في"الوالدين" من صلة الإحسان، مقدمة عليه.
+
+* *
+
+وقال آخرون: بل معنى ذلك: أن لا تعبدوا إلا الله، وأحسنوا بالوالدين إحسانا. فزعموا أن"الباء" التي في"الوالدين" من صلة المحذوف - أعني أحسنوا - فجعلوا ذلك من كلامين. وإنما يصرف الكلام إلى ما ادعوا من ذلك، إذا لم يوجد لاتساق الكلام على كلام واحد وجه. فأما وللكلام وجه مفهوم على اتساقه على كلام واحد، فلا وجه لصرفه إلى كلامين. وأخرى: أن القول في ذلك لو كان على ما قالوا، لقيل: وإلى الوالدين إحسانا، لأنه إنما يقال:"أحسن فلان إلى والديه" ولا يقال: أحسن بوالديه، إلا على استكراه للكلام.
+
+ولكن القول فيه ما قلنا، وهو: وإذ أخذنا ميثاق بني إسرائيل بكذا، وبالوالدين إحسانا - على ما بينا قبل. فيكون والإحسان حينئذ مصدرا من الكلام لا من لفظه، كما بينا فيما مضى من نظائره. [[انظر ما سلف ١: ١٣٨.]]
+
+* *
+
+فإن قال قاتل: وما ذلك"الإحسان" الذي أخذ عليهم وبالوالدين الميثاق؟ قيل: نظير ما فرض الله على أمتنا لهما من فعل المعروف لهما، والقول الجميل، وخفض جناح الذل رحمة بهما، والتحنن عليهما، والرأفة بهما، والدعاء بالخير لهما، وما أشبه ذلك من الأفعال التي ندب الله عباده أن يفعلوا بهما.
+
+* *
+
+القول في تأويل قوله تعالى: ﴿وَذِي الْقُرْبَى وَالْيَتَامَى وَالْمَسَاكِينِ﴾
+
+قال أبو جعفر: يعني بقوله: ﴿وذي القربي﴾ ، وبذي القربى أن يصلوا قرابته منهم ورحمه.
+
+* *
+
+و"القربي" مصدر على تقدير"فعلى"، من قولك،"قربت مني رحم فلان قرابة وقربي وقربا"، بمعنى واحد.
+
+* *
+
+وأما"اليتامى". فهم جمع"يتيم"، مثل"أسير وأسارى". ويدخل في اليتامى الذكور منهم والإناث.
+
+* *
+
+ومعنى ذلك: وإذ أخذنا ميثاق بني إسرائيل لا تعبدون إلا الله وحده دون من سواه من الأنداد، وبالوالدين إحسانا، وبذي القربي: أن تصلوا رحمه، وتعرفوا حقه، وباليتامى: أن تتعطفوا عليهم بالرحمة والرأفة، وبالمساكين: أن تؤتوهم حقوقهم التي ألزمها الله أموالكم.
+
+* *
+
+و"المسكين"، هو المتخشع المتذلل من الفاقة والحاجة، وهو"مفعيل" من"المسكنة". و"المسكنة" هي ذل الحاجة والفاقة. [[انظر ما سلف في هذا الجزء: ٢: ١٣٧.]]
+
+* *
+
+القول في تأويل قوله تعالى: ﴿وَقُولُوا لِلنَّاسِ حُسْنًا﴾
+
+قال أبو جعفر: إن قال قائل: كيف قيل: ﴿وقولوا للناس حسنا﴾ ، فأخرج الكلام أمرا ولما يتقدمه أمر، بل الكلام جار من أول الآية مجرى الخبر؟ قيل: إن الكلام، وإن كان قد جرى في أول الآية مجرى الخبر، فإنه مما يحسن في موضعه الخطاب بالأمر والنهي. فلو كان مكان:"لا تعبدون إلا الله"، لا تعبدوا إلا الله - على وجه النهي من الله لهم عن عبادة غيره - كان حسنا صوابا. وقد ذكر أن ذلك كذلك في قراءة أبي بن كعب. وإنما حسن ذلك وجاز - لو كان مقروءا به - لأن أخذ الميثاق قول.
+
+فكان معنى الكلام -لو كان مقروءا كذلك-: وإذ قلنا لبني إسرائيل: لا تعبدوا إلا الله، كما قال جل ثناؤه في موضع آخر: ﴿وَإِذْ أَخَذْنَا مِيثَاقَكُمْ وَرَفَعْنَا فَوْقَكُمُ الطُّورَ خُذُوا مَا آتَيْنَاكُمْ بِقُوَّةٍ﴾ [البقرة: ٦٣] . فلما كان حسنا وضع الأمر والنهي في موضع: ﴿لا تعبدون إلا الله﴾ ، عطف بقوله: ﴿وقولوا للناس حسنا﴾ ، على موضع ﴿لا تعبدون﴾ ، وإن كان مخالفا كل واحد منهما معناه معنى ما فيه، [[في المطبوعة:"ومعناه" بزيادة الواو، والصواب حذفها.]] لما وصفنا من جواز وضع الخطاب بالأمر والنهي موضع"لا تعبدون". فكأنه قيل: وإذ أخذنا ميثاق بني إسرائيل لا تعبدوا إلا الله، وقولوا للناس حسنا. وهو نظير ما قدمنا البيان عنه: من أن العرب تبتدئ الكلام أحيانا على وجه الخبر عن الغائب في موضع الحكاية لما أخبرت عنه، [[في المطبوعة: "في موضع الحكايات كما أخبرت عنه"، والصواب ما أثبته.]] ثم تعود إلى الخبر على وجه الخطاب؛ وتبتدئ أحيانا على وجه الخطاب، ثم تعود إلى الإخبار على وجه الخبر عن الغائب، لما في الحكاية من المعنيين، [[انظر ما سلف ١: ١٥٣ - ١٥٤، وسيأتي في هذا الجزء ٢: ٣٥٧.]] كما قال الشاعر: [[هو كثير عزة.]]
+
+أسيئي بنا أو أحسني لا ملومة ... لدينا ولا مَقْلِيَّةً إن تَقَلَّت [[ديوانه ١: ٥٣ من قصيدته المشهورة. قلاه يقليه قلى فهو مقلي: كرهه وأبغضه. وتقلى تبغض، أي استعمل من الفعل أو القول ما يدعو إلى بغضه.]]
+
+يعني: تقليت.
+
+* *
+
+وأما"الحسن" فإن القَرَأَة اختلفت في قراءته. [[في المطبوعة: "فإن القراء"، ورددته إلى ما مضى عليه أبو جعفر في عبارته، كما سلف مرارا.]] فقرأته عامة قَرَأَة الكوفة غير عاصم: ﴿وقولوا للناس حَسَنا﴾ بفتح الحاء والسين. وقرأته عامة قراء المدينة: ﴿حُسْنا﴾ بضم الحاء وتسكين السين. وقد روي عن بعض القَرَأَة أنه كان يقرأ: "وقولوا للناس " حُسْنَى " على مثال "فُعلى".
+
+* *
+
+واختلف أهل العربية في فرق ما بين معنى قوله: "حُسْنا" و"حَسَنا". فقال بعض البصريين: هو على أحد وجهين: إما أن يكون يراد بـ"الحَسَن" "الحُسن" وكلاهما لغة، كما يقال: "البُخل والبَخَل"، وإما أن يكون جعل "الحُسن" هو "الحَسن" في التشبيه. وذلك أن الحُسن "مصدر" و "الحَسن" هو الشيء الحسن. ويكون ذلك حينئذ كقولك:"إنما أنت أكل وشرب"، وكما قال الشاعر: [[يقال هو: عمرو بن معد يكرب الزبيدي. (الخزانة ٤: ٥٦) ، وليس في قصيدته التي على هذا الوزن في الأصمعيات: ٤٣، ولكنه أتى في نوادر أبي زيد: ١٤٩ - ١٥٠ أنه لعمرو بن معد يكرب. فكأنه له، وكأنه سقط من رواية الأصمعي، وهو في رواية غيره.]]
+
+وخيل قد دلفت لها بخيل ... تحية بينهم ضرب وجيع [[نوادر أبي زيد: ١٥٠، وسيبويه ١: ٣٦٥، ٤٢٩ والخزانة ٤: ٥٣. وغيرها.]]
+
+فجعل"التحية" ضربا.
+
+وقال آخر: بل "الحُسن" هو الاسم العام الجامع جميع معاني الحسن. و"الحسن" هو البعض من معاني"الحُسن". قال: ولذلك قال جل ثناؤه إذ أوصى بالوالدين: ﴿وَوَصَّيْنَا الإِنْسَانَ بِوَالِدَيْهِ حُسْنًا﴾ [العنكبوت: ٨] يعني بذلك أنه وصاه فيهما بجميع معاني الحُسن، وأمر في سائر الناس ببعض الذي أمره به في والديه، فقال: ﴿وقولوا للناس حسنا﴾ ، يعني بذلك بعض معاني الحُسن.
+
+* *
+
+قال أبو جعفر: والذي قاله هذا القائل في معنى"الحسن" بضم الحاء وسكون السين، غير بعيد من الصواب، وأنه اسم لنوعه الذي سمي به. وأما"الحسن" فإنه صفة وقعت لما وصف به، وذلك يقع بخاص. وإذا كان الأمر كذلك، فالصواب من القراءة في قوله: ﴿وقولوا للناس حَسنا﴾ ، لأن القوم إنما أمروا في هذا العهد الذي قيل لهم:"وقولوا للناس" باستعمال الحَسن من القول، دون سائر معاني الحسن الذي يكون بغير القول. وذلك نعت لخاص من معاني الحُسن، وهو القول. فلذلك اخترت قراءته بفتح الحاء والسين، على قراءته بضم الحاء وسكون السين.
+
+* *
+
+وأما الذي قرأ ذلك: ﴿وقولوا للناس حسنى﴾ ، فإنه خالف بقراءته إياه كذلك، قراءة أهل الإسلام. وكفى شاهدا على خطأ القراءة بها كذلك، خروجها من قراءة أهل الإسلام، لو لم يكن على خطئها شاهد غيره. فكيف وهي مع ذلك خارجة من المعروف من كلام العرب؟ وذلك أن العرب لا تكاد أن تتكلم بـ "فعلى" "وأفعل" إلا بالألف واللام أو بالإضافة. لا يقال:"جاءني أحسن"، حتى يقولوا:"الأحسن". ولا يقال:"أجمل"، حتى يقولوا،"الأجمل". وذلك أن"الأفعل والفعلى"، لا يكادان يوجدان صفة إلا لمعهود معروف، كما تقول: بل أخوك الأحسن - وبل أختك الحسنى". وغير جائز أن يقال: امرأة حسنى، ورجل أحسن.
+
+* *
+
+وأما تأويل القول الحسن الذي أمر الله به الذين وصف أمرهم من بني إسرائيل في هذه الآية، أن يقولوه للناس، [[في المطبوعة: "لأن يقولوه للناس" بزيادة اللام، فاسدة.]] فهو ما:-
+
+١٤٥١ - حدثنا به أبو كريب قال، حدثنا عثمان بن سعيد، عن بشر بن عمارة، عن أبي روق، عن الضحاك، عن ابن عباس في قوله: ﴿وقولوا للناس حسنا﴾ ، أمرهم أيضا بعد هذا الخلق: أن يقولوا للناس حسنا: أن يأمروا بـ "لا إله إلا الله" من لم يقلها ورغب عنها، حتى يقولوها كما قالوها، فإن ذلك قربة من الله جل ثناؤه. وقال الحسن أيضا، لين القول، من الأدب الحسن الجميل والخلق الكريم، وهو مما ارتضاه الله وأحبه.
+
+١٤٥٢ - حدثني المثنى قال، حدثنا آدم قال، حدثنا أبو جعفر، عن الربيع، عن أبي العالية: ﴿وقولوا للناس حسنا﴾ ، قال، قولوا للناس معروفا.
+
+١٤٥٣ - حدثنا القاسم قال، حدثنا الحسين قال، حدثنا حجاج، عن ابن جريج: ﴿وقولوا للناس حسنا﴾ ، قال: صدقا في شأن محمد ﷺ.
+
+١٤٥٤ - وحدثت عن يزيد بن هارون قال، سمعت سفيان الثوري يقول في قوله: ﴿وقولوا للناس حسنا﴾ ، قال: مروهم بالمعروف، وانهوهم عن المنكر. [[الأثر: ١٤٥٤ - أخشى أن يكون سقط من إسناده شيء.]]
+
+١٤٥٥ - حدثني هارون بن إدريس الأصم قال، حدثنا عبد الرحمن بن محمد المحاربي قال، حدثنا عبد الملك بن أبي سليمان قال، سألت عطاء بن أبي رباح، عن قول الله جل ثناؤه: ﴿وقولوا للناس حسنا﴾ ، قال: من لقيت من الناس فقل له حسنا من القول. قال: وسألت أبا جعفر، فقال مثل ذلك. [[الخبر: ١٤٥٥ - هارون بن إدريس الأصم، شيخ الطبري: لم أجد له ترجمة، ولا وجدته في مكان، إلا في رواية الطبري عنه ف
+
+[TRUNCATED at 12000 chars — 3495 more. Consult the source directly before relying on anything near the cut.]
 
 ### al-Muyassar (Arabic)
 
-واذكروا يا بني إسرائيل حين أخَذْنا عليكم عهدًا مؤكدًا: بأن تعبدوا الله وحده لا شريك له، وأن تحسنوا للوالدين، وللأقربين، وللأولاد الذين مات آباؤهم وهم دون بلوغ الحلم، وللمساكين، وأن تقولوا للناس أطيب الكلام، مع أداء الصلاة وإيتاء الزكاة، ثم أَعْرَضْتم ونقضتم العهد -إلا قليلا منكم ثبت عليه- وأنتم مستمرون في إعراضكم.
+واذكروا يا بني إسرائيل حين أخَذْنا عليكم عهدًا مؤكدًا: بأن تعبدوا الله وحده لا شريك له، وأن تحسنوا للوالدين، وللأقربين، وللأولاد الذين مات آباؤهم وهم دون بلوغ الحُلُم، وللمحتاجين الذين لا يملكون ما يكفيهم ويسدُّ حاجتهم، وأن تقولوا للناس أطيب الكلام، مع أداء الصلاة وإيتاء الزَّكاة، ثم أَعْرَضْتم ونقضتم العهد -إلا قليلًا منكم ثبت عليه- وأنتم مستمرون في إعراضكم.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿و﴾ اُذْكُرْ ﴿إذْ أخَذْنا مِيثاق بَنِي إسْرائِيل﴾ فِي التَّوْراة وقُلْنا ﴿لا تَعْبُدُونَ﴾ بِالتّاءِ والياء ﴿إلا الله﴾ خَبَر بِمَعْنى النَّهْي وقُرِئَ: لا تَعْبُدُوا ﴿وبِالوالِدَيْنِ﴾ ﴿و﴾ أحْسِنُوا ﴿بِالوالِدَيْنِ﴾ ﴿إحْسانًا﴾ بِرًّا ﴿وذِي القُرْبى﴾ القَرابَة عَطْف عَلى الوالِدَيْنِ ﴿واليَتامى والمَساكِين وقُولُوا لِلنّاسِ﴾ قَوْلًا ﴿حُسْنًا﴾ مِن الأَمْر بِالمَعْرُوفِ والنَّهْي عَنْ المُنْكَر والصِّدْق فِي شَأْن مُحَمَّد والرِّفْق بِهِمْ وفِي قِراءَة بِضَمِّ الحاء وسُكُون السِّين مَصْدَر وُصِفَ بِهِ مُبالَغَة ﴿وأَقِيمُوا الصَّلاة وآتُوا الزَّكاة﴾ فَقَبِلْتُمْ ذَلِكَ ﴿ثُمَّ تَوَلَّيْتُمْ﴾ أعْرَضْتُمْ عَنْ الوَفاء بِهِ فِيهِ التِفات عَنْ الغِيبَة والمُراد آباؤُهُمْ ﴿إلّا قَلِيلًا مِنكُمْ وأَنْتُمْ مُعْرِضُونَ﴾ عَنْهُ كَآبائِكُمْ
 
 ---
 
@@ -99,20 +602,143 @@ Allah reminded the Children of Israel of the commandments that He gave them, and
 
 ### Ibn Kathir (English)
 
+And (remember) when We took your covenant (saying): Shed not the blood of your (people), nor turn out your own people from their dwellings. Then, (this) you ratified and (to this) you bore witness (84)After this, it is you who kill one another and drive out a party of you from their homes, assist (their enemies) against them, in sin and transgression. And if they come to you as captives, you ransom them, although their expulsion was forbidden to you. Then do you believe in a part of the Book and reject the rest? Then what is the recompense of those who do so among you, except disgrace in the life of this world, and on the Day of Resurrection they shall be consigned to the most grievous torment. And Allah is not unaware of what you do (85)Those are they who have bought the life of this world at the price of the Hereafter. Their torment shall not be lightened nor shall they be helped (86)
+
 The Terms of the Covenant and their Breach of It
-Allah criticized the Jews who lived in Al-Madinah during the time of the Messenger of Allah ﷺ. They used to suffer, because of the armed conflicts between the tribes of Al-Madinah, Aws and Khazraj. Before Islam, the Aws and Khazraj worshipped idols, and many battles took place between them. There were three Jewish tribes in Al-Madinah at that time, Banu Qaynuqa` and Banu An-Nadir, the allies of the Khazraj, and Banu Qurayzah, who used to be the...
+
+Allah criticized the Jews who lived in Al-Madinah during the time of the Messenger of Allah ﷺ. They used to suffer, because of the armed conflicts between the tribes of Al-Madinah, Aws and Khazraj. Before Islam, the Aws and Khazraj worshipped idols, and many battles took place between them. There were three Jewish tribes in Al-Madinah at that time, Banu Qaynuqa' and Banu An-Nadir, the allies of the Khazraj, and Banu Qurayzah, who used to be the allies of the Aws. When war erupted between Aws and Khazraj, their Jewish allies would assist them. The Jew would kill his Arab enemy, and sometimes they also killed Jews who were the allies of the other Arab tribe, although the Jews were prohibited from killing each other according to clear religious texts in their Books. They would also drive each other from their homes and loot whatever furniture and money they could. When the war ended, the victorious Jews would release the prisoners from the defeated party, according to the rulings of the Tawrah. This is why Allah said,
+
+أَفَتُؤْمِنُونَ بِبَعْضِ الْكِتَابِ وَتَكْفُرُونَ بِبَعْضٍ
+
+(Then do you believe in a part of the Scripture and reject the rest?) Allah said,
+
+وَإِذْ أَخَذْنَا مِيثَاقَكُمْ لَا تَسْفِكُونَ دِمَاءَكُمْ وَلَا تُخْرِجُونَ أَنفُسَكُم مِّن دِيَارِكُمْ
+
+(And (remember) when We took your covenant (saying): Shed not the blood of your (people), nor turn out your own people from their dwellings.) meaning, "Do not kill each other, nor expel one another from their homes, nor participate in fighting against them." Allah mentioned the word 'your own' here, just as He said in another Ayah.
+
+فَتُوبُوا إِلَىٰ بَارِئِكُمْ فَاقْتُلُوا أَنفُسَكُمْ ذَٰلِكُمْ خَيْرٌ لَّكُمْ عِندَ بَارِئِكُمْ
+
+(So turn in repentance to your Creator and kill yourselves, that will be better for you with your Creator)(2:54) because the followers of one religion are just like one soul. Also, the Messenger of Allah ﷺ said,
+
+مَثَلُ الْمُؤْمِنِينَ فِي تَوَادِّهِمْ وَتَرَاحُمِهِمْ وَتَوَاصُلِهِمْ بِمَنْزِلَةِ الْجَسَدِ الْوَاحِدِ إِذَا اشْتَكىٰ مِنْهُ عُضْوٌ تَدَاعَىٰ لَهُ سَائِرُ الْجَسَدِ بِالْحُمَّى وَالسَّهَرِ
+
+(The example of the believers in their kindness, mercy and sympathy to each other is the example of one body, when an organ of it falls ill, the rest of the body rushes to its aid in fever and sleeplessness.) Allah's statement,
+
+ثُمَّ أَقْرَرْتُمْ وَأَنتُمْ تَشْهَدُونَ
+
+(Then, (this) you ratified and (to this) you bore witness.) means, "You testified that you know of the covenant and that you were witnesses to it."
+
+ثُمَّ أَنتُمْ هَٰؤُلَاءِ تَقْتُلُونَ أَنفُسَكُمْ وَتُخْرِجُونَ فَرِيقًا مِّنكُم مِّن دِيَارِهِمْ
+
+(After this, it is you who kill one another and drive out a party of you from their homes). Muhammad bin Ishaq bin Yasar reported that Ibn 'Abbas commented on the Ayah,
+
+ثُمَّ أَنتُمْ هَٰؤُلَاءِ تَقْتُلُونَ أَنفُسَكُمْ وَتُخْرِجُونَ فَرِيقًا مِّنكُم مِّن دِيَارِهِمْ
+
+(After this, it is you who kill one another and drive out a party of you from their homes)
+
+"Allah mentioned what they were doing, and that in the Tawrah He had prohibited them from shedding each other's blood, and required them to free their prisoners. Now they were divided into two camps in Al-Madinah, Banu Qaynuqa', who were the allies of the Khazraj, and An-Nadir and Qurayzah, who were the allies of the Aws. When fighting erupted between Aws and Khazraj, Banu Qaynuqa' would fight along with the Khazraj, while Banu An-Nadir and Qurayzah would fight along with the Aws. Each Jewish camp would fight against their Jewish brethren from the other camp. They would shed each other's blood, although they had the Tawrah with them, and they knew their rights and dues. Meanwhile, the Aws and Khazraj were polytheists who worshipped idols. They did not know about Paradise, the Fire, Resurrection, Divine Books the lawful and prohibited. When the war would end, the Jews would ransom their prisoners and implement the Tawrah. Consequently, Banu Qaynuqa' would ransom their prisoners who were captured by the Aws, while Banu An-Nadir and Qurayzah would ransom their prisoners who were captured by the Khazraj. They would also ask for blood money. During these wars, they would kill whomever (Jews or Arabs) they could, while helping the polytheists against their brethren. Therefore, Allah reminded them of this when He said,
+
+أَفَتُؤْمِنُونَ بِبَعْضِ الْكِتَابِ وَتَكْفُرُونَ بِبَعْضٍ
+
+(Then do you believe in a part of the Scripture and reject the rest?)
+
+This Ayah means, 'Do you ransom them according to the rulings of the Tawrah, yet kill them while the Tawrah forbade you from killing them and from expelling them from their homes? The Tawrah also commanded that you should not aid the polytheists and those who associate with Allah in the worship against your brethren. You do all this to acquire the life of this world.' I was informed that the behavior of the Jews regarding the Aws and Khazraj was the reason behind revealing these Ayat."
+
+These noble Ayat criticized the Jews for implementing the Tawrah sometimes and defying it at other times, although they believed in the Tawrah and knew what they were doing was wrong. This is why they should not be trusted to preserve or convey the Tawrah. Further, they should not be believed when it comes to the description of the Messenger of Allah ﷺ, his coming, his expulsion from his land, and his Hijrah, and the rest of the information that the previous Prophets informed them about him, all of which they hid. The Jews, may they suffer the curse of Allah, hid all of these facts among themselves, and this is why Allah said,
+
+فَمَا جَزَاءُ مَن يَفْعَلُ ذَٰلِكَ مِنكُمْ إِلَّا خِزْيٌ فِي الْحَيَاةِ الدُّنْيَا
+
+(Then what is the recompense of those who do so among you, except disgrace in the life of this world), because they defied Allah's Law and commandments,
+
+وَيَوْمَ الْقِيَامَةِ يُرَدُّونَ إِلَىٰ أَشَدِّ الْعَذَابِ
+
+(And on the Day of Resurrection they shall be consigned to the most grievous torment) as punishment for defying the Book of Allah that they had.
+
+وَمَا اللَّهُ بِغَافِلٍ عَمَّا تَعْمَلُونَ - أُولَٰئِكَ الَّذِينَ اشْتَرَوُا الْحَيَاةَ الدُّنْيَا بِالْآخِرَةِ
+
+(And Allah is not unaware of what you do. Those are they who have bought the life of this world at the price of the Hereafter) meaning, they prefer this life to the Hereafter. Therefore,
+
+فَلَا يُخَفَّفُ عَنْهُمُ الْعَذَابُ
+
+(Their torment shall not be lightened) not even for an hour,
+
+وَلَا هُمْ يُنصَرُونَ
+
+(Nor shall they be helped), and they shall find no helper who will save them from the eternal torment they will suffer, nor shall they find any to grant them refuge from it.
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله تعالى :  وَإِذْ أَخَذْنَا مِيثَاقَكُمْ لا تَسْفِكُونَ دِمَاءَكُمْ وَلا تُخْرِجُونَ أَنْفُسَكُمْ مِنْ دِيَارِكُمْقال أبو جعفر: قوله: (وإذ أخذنا ميثاقكم لا تسفكون دماءكم) في المعنى والإعراب نظير قوله:  وَإِذْ أَخَذْنَا مِيثَاقَ بَنِي إِسْرَائِيلَ لا تَعْبُدُونَ إِلا اللَّهَ .* * *&; 2-300 &;وأما " سفك الدم ", فإنه صبه وإراقته.* * *فإن قال قائل: وما معنى قوله: (لا تسفكون دماءكم ولا تخرجون أنفسكم من دياركم)؟ وقال: أو كان القوم يقتلون أنفسهم ويخرجونها من ديارها, فنهوا عن ذلك؟ ق...
+القول في تأويل قوله تعالى: ﴿وَإِذْ أَخَذْنَا مِيثَاقَكُمْ لا تَسْفِكُونَ دِمَاءَكُمْ وَلا تُخْرِجُونَ أَنْفُسَكُمْ مِنْ دِيَارِكُمْ﴾
+
+قال أبو جعفر: قوله: ﴿وإذ أخذنا ميثاقكم لا تسفكون دماءكم﴾ في المعنى والإعراب نظير قوله: ﴿وإذ أخذنا ميثاق بني إسرائيل لا تعبدون إلا الله﴾ .
+
+* *
+
+وأما"سفك الدم"، فإنه صبه وإراقته.
+
+* *
+
+فإن قال قائل: وما معنى قوله: ﴿لا تسفكون دماءكم ولا تخرجون أنفسكم من دياركم﴾ ؟ وقال: أو كان القوم يقتلون أنفسهم ويخرجونها من ديارها، فنهوا عن ذلك؟ قيل: ليس الأمر في ذلك على ما ظننت، ولكنهم نهوا عن أن يقتل بعضهم بعضا. فكان في قتل الرجل منهم الرجل قتل نفسه، إذ كانت ملتهما [واحدة، فهما] بمنزلة رجل واحد. كما قال عليه السلام: [[الزيادة بين القوسين لا بد منها، وإلا فسد الكلام.]]
+
+١٤٦٣ -"إنما المؤمنون في تراحُمهم وتعاطفهم بينهم بمنزلة الجسد الواحد، إذا اشتكى بعضه تداعى له سائر الجسد بالحمى والسهر". [[الحديث: ١٤٦٣ - هكذا رواه الطبري معلقا. والظاهر أنه رواه بالمعنى أيضًا. ولفظه في صحيح مسلم ٢: ٢٨٤، من حديث النعمان بن بشير: "مثل المؤمنين في توادهم وتراحمهم وتعاطفهم، مثل الجسد، إذا اشتكى منه عضو، تداعى له سائر الجسد بالسهر والحمى". وكذلك رواه أحمد في المسند (٤: ٢٧٠ حلبي) . ورواه البخاري بنحو معناه ١٠: ٣٦٧ (من الفتح) .]]
+
+* *
+
+وقد يجوز أن يكون معنى قوله: ﴿لا تسفكون دماءكم﴾ ، أي: لا يقتل الرجل منكم الرجل منكم، فيقاد به قصاصا، فيكون بذلك قاتلا نفسه، لأنه كان الذي سبب لنفسه ما استحقت به القتل. فأضيف بذلك إليه، قتل ولي المقتول إياه قصاصا بوليه. كما يقال للرجل يركب فعلا من الأفعال يستحق به العقوبة، فيعاقب العقوبة:"أنت جنيت هذا على نفسك".
+
+* *
+
+وبنحو الذي قلنا في تأويل ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+١٤٦٤ - حدثنا بشر بن معاذ قال، حدثنا يزيد بن زريع قال، حدثنا سعيد، عن قتادة قوله ﴿وإذ أخذنا ميثاقكم لا تسفكون دماءكم﴾ ، أي: لا يقتل بعضكم بعضا، ﴿ولا تخرجون أنفسكم من دياركم﴾ ، ونفسُك يا ابن آدم أهل ملتك.
+
+١٤٦٥ - حدثني المثنى قال، حدثنا آدم قال، حدثنا أبو جعفر، عن الربيع، عن أبي العالية في قوله: ﴿وإذ أخذنا ميثاقكم لا تسفكون دماءكم﴾ ، يقول: لا يقتل بعضكم بعضا، ﴿ولا تخرجون أنفسكم من دياركم﴾ ، يقول: لا يخرج بعضكم بعضا من الديار.
+
+١٤٦٦ - حدثني المثنى قال، حدثنا آدم قال، حدثنا أبو جعفر، عن قتادة في قوله: ﴿لا تسفكون دماءكم﴾ ، يقول: لا يقتل بعضكم بعضا بغير حق، ﴿ولا تخرجون أنفسكم من دياركم﴾ ، فتسفك يا ابن آدم دماء أهل ملتك ودعوتك.
+
+* *
+
+القول في تأويل قوله تعالى: ﴿ثُمَّ أَقْرَرْتُمْ﴾
+
+قال أبو جعفر: يعني بقوله: ﴿ثم أقررتم﴾ ، بالميثاق الذي أخذنا عليكم: لا تسفكون دماءكم ولا تخرجون أنفسكم من دياركم، كما:-
+
+١٤٦٧ - حدثنا المثنى قال، حدثنا آدم قال، حدثنا أبو جعفر، عن الربيع، عن أبي العالية: ﴿ثم أقررتم﴾ ، يقول: أقررتم بهذا الميثاق.
+
+١٤٦٨ - وحدثت عن عمار قال، حدثنا ابن أبي جعفر، عن أبيه، عن الربيع مثله.
+
+* *
+
+القول في تأويل قوله تعالى: ﴿وَأَنْتُمْ تَشْهَدُونَ (٨٤) ﴾
+
+قال أبو جعفر: اختلف أهل التأويل فيمن خوطب بقوله: ﴿وأنتم تشهدون﴾ . فقال بعضهم: ذلك خطاب من الله تعالى ذكره لليهود الذين كانوا بين ظهراني مهاجر رسول الله ﷺ أيام هجرته إليه، مؤنبا لهم على تضييع أحكام ما في أيديهم من التوراة التي كانوا يقرون بحكمها، فقال الله تعالى لهم: ﴿ثم أقررتم﴾ ، يعني بذلك، إقرار أوائلكم وسلفكم، ﴿وأنتم تشهدون﴾ على إقرارهم بأخذ الميثاق عليهم، بأن لا يسفكوا دماءهم، ولا يخرجوا أنفسهم من ديارهم، وتصدقون بأن ذلك حق من ميثاقي عليهم. وممن حُكي معنى هذا القول عنه، ابنُ عباس.
+
+١٤٦٩ - حدثنا ابن حميد قال، حدثنا سلمة قال، حدثني ابن إسحاق قال، حدثني محمد بن أبي محمد، عن سعيد بن جبير، أو عكرمة، عن ابن عباس قال: ﴿وإذ أخذنا ميثاقكم لا تسفكون دماءكم ولا تخرجون أنفسكم من دياركم ثم أقررتم وأنتم تشهدون﴾ أن هذا حق من ميثاقي عليكم.
+
+* *
+
+وقال آخرون: بل ذلك خبر من الله جل ثناؤه عن أوائلهم، ولكنه تعالى ذكره أخرج الخبر بذلك عنهم مُخرج المخاطبة، على النحو الذي وصفنا في سائر الآيات التي هي نظائرها، التي قد بينا تأويلها فيما مضى. [[انظر ما سلف: ٢: ٢٩٨، تعليق: ٢، والمراجع.]]
+
+* *
+
+وتأولوا قوله: ﴿وأنتم تشهدون﴾ ، على معنى: وأنتم شهود.
+
+ذكر من قال ذلك:
+
+١٤٧٠ - حدثني المثنى قال، حدثنا آدم قال، حدثنا أبو جعفر، عن الربيع، عن أبي العالية قوله: ﴿وأنتم تشهدون﴾ ، يقول: وأنتم شهود.
+
+* *
+
+قال أبو جعفر: وأولى الأقوال في تأويل ذلك بالصواب عندي: أن يكون قوله: ﴿وأنتم تشهدون﴾ خبرا عن أسلافهم، وداخلا فيه المخاطبون منهم، الذين أدركوا رسول الله ﷺ، كما كان قوله: ﴿وإذ أخذنا ميثاقكم﴾ خبرا عن أسلافهم، وإن كان خطابا للذين أدركوا رسول الله ﷺ. [[في المطبوعة: "بأن كان خطابا. . "، وهو لا يستقيم.]] لأن الله تعالى أخذ ميثاق الذين كانوا على عهد رسول الله موسى ﷺ من بني إسرائيل - على سبيل ما قد بينه لنا في كتابه - فألزم جميع من بعدهم من ذريتهم من حكم التوراة، مثل الذي ألزم منه من كان على عهد موسى منهم. ثم أنب الذين خاطبهم بهذه الآيات على نقضهم ونقض سلفهم ذلك الميثاق، وتكذيبهم ما وكدوا على أنفسهم له بالوفاء من العهود، [[سياق العبارة: "وتكذيبهم ما وكدوا من العهود على أنفسهم بالوفاء له. . "، فقدم وأخر.]] بقوله: ﴿ثم أقررتم وأنتم تشهدون﴾ . فإذْ كان خارجا على وجه الخطاب للذين كانوا على عهد نبينا ﷺ منهم، [[في المطبوعة: "فإن كان خارجا. . " وهو تصحيف لا يستقيم.]] فإنه معني به كل من واثق بالميثاق منهم على عهد موسى ومن بعده، وكل من شهد منهم بتصديق ما في التوراة. لأن الله جل ثناؤه لم يخصص بقوله: ﴿ثم أقررتم وأنتم تشهدون﴾ - وما أشبه ذلك من الآي - بعضهم دون بعض. والآية محتملة أن يكون أريد بها جميعهم. فإذْ كان ذلك كذلك، [[في المطبوعة: "فإن كان ذلك كذلك"، وهو تصحيف لا يستقيم أيضًا.]] فليس لأحد أن يدعي أنه أريد بها بعض منهم دون بعض. وكذلك حكم الآية التي بعدها، أعني قوله: ﴿ثم أنتم هؤلاء تقتلون أنفسكم﴾ الآية. لأنه قد ذكر لنا أن أوائلهم قد كانوا يفعلون من ذلك ما كان يفعله أواخرهم الذين أدركوا عصر نبينا محمد ﷺ.
 
 ### al-Muyassar (Arabic)
 
-واذكروا -يا بني إسرائيل- حين أَخَذْنا عليكم عهدًا مؤكدًا في التوراة: يحرم سفك بعضكم دم بعض، وإخراج بعضكم بعضًا من دياركم، ثم اعترفتم بذلك، وأنتم تشهدون على صحته.
+واذكروا -يا بني إسرائيل- حين أَخَذْنا عليكم عهدًا مؤكدًا في التوراة: يحرِّم سفكَ بعضكم دم بعض، وإخراجَ بعضكم بعضًا من دياركم، ثم اعترفتم بذلك، وأنتم تشهدون على صحته.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿وإذْ أخَذْنا مِيثاقكُمْ﴾ وقُلْنا ﴿لا تَسْفِكُونَ دِماءَكُمْ﴾ تُرِيقُونَها بِقَتْلِ بَعْضكُمْ بَعْضًا ﴿ولا تُخْرِجُونَ أنْفُسكُمْ مِن دِياركُمْ﴾ لا يُخْرِج بَعْضكُمْ بَعْضًا مِن داره ﴿ثُمَّ أقْرَرْتُمْ﴾ قَبِلْتُمْ ذَلِكَ المِيثاق ﴿وأَنْتُمْ تَشْهَدُونَ﴾ عَلى أنْفُسكُمْ
 
 ---
 
@@ -120,20 +746,169 @@ Allah criticized the Jews who lived in Al-Madinah during the time of the Messeng
 
 ### Ibn Kathir (English)
 
+And (remember) when We took your covenant (saying): Shed not the blood of your (people), nor turn out your own people from their dwellings. Then, (this) you ratified and (to this) you bore witness (84)After this, it is you who kill one another and drive out a party of you from their homes, assist (their enemies) against them, in sin and transgression. And if they come to you as captives, you ransom them, although their expulsion was forbidden to you. Then do you believe in a part of the Book and reject the rest? Then what is the recompense of those who do so among you, except disgrace in the life of this world, and on the Day of Resurrection they shall be consigned to the most grievous torment. And Allah is not unaware of what you do (85)Those are they who have bought the life of this world at the price of the Hereafter. Their torment shall not be lightened nor shall they be helped (86)
+
 The Terms of the Covenant and their Breach of It
-Allah criticized the Jews who lived in Al-Madinah during the time of the Messenger of Allah ﷺ. They used to suffer, because of the armed conflicts between the tribes of Al-Madinah, Aws and Khazraj. Before Islam, the Aws and Khazraj worshipped idols, and many battles took place between them. There were three Jewish tribes in Al-Madinah at that time, Banu Qaynuqa` and Banu An-Nadir, the allies of the Khazraj, and Banu Qurayzah, who used to be the...
+
+Allah criticized the Jews who lived in Al-Madinah during the time of the Messenger of Allah ﷺ. They used to suffer, because of the armed conflicts between the tribes of Al-Madinah, Aws and Khazraj. Before Islam, the Aws and Khazraj worshipped idols, and many battles took place between them. There were three Jewish tribes in Al-Madinah at that time, Banu Qaynuqa' and Banu An-Nadir, the allies of the Khazraj, and Banu Qurayzah, who used to be the allies of the Aws. When war erupted between Aws and Khazraj, their Jewish allies would assist them. The Jew would kill his Arab enemy, and sometimes they also killed Jews who were the allies of the other Arab tribe, although the Jews were prohibited from killing each other according to clear religious texts in their Books. They would also drive each other from their homes and loot whatever furniture and money they could. When the war ended, the victorious Jews would release the prisoners from the defeated party, according to the rulings of the Tawrah. This is why Allah said,
+
+أَفَتُؤْمِنُونَ بِبَعْضِ الْكِتَابِ وَتَكْفُرُونَ بِبَعْضٍ
+
+(Then do you believe in a part of the Scripture and reject the rest?) Allah said,
+
+وَإِذْ أَخَذْنَا مِيثَاقَكُمْ لَا تَسْفِكُونَ دِمَاءَكُمْ وَلَا تُخْرِجُونَ أَنفُسَكُم مِّن دِيَارِكُمْ
+
+(And (remember) when We took your covenant (saying): Shed not the blood of your (people), nor turn out your own people from their dwellings.) meaning, "Do not kill each other, nor expel one another from their homes, nor participate in fighting against them." Allah mentioned the word 'your own' here, just as He said in another Ayah.
+
+فَتُوبُوا إِلَىٰ بَارِئِكُمْ فَاقْتُلُوا أَنفُسَكُمْ ذَٰلِكُمْ خَيْرٌ لَّكُمْ عِندَ بَارِئِكُمْ
+
+(So turn in repentance to your Creator and kill yourselves, that will be better for you with your Creator)(2:54) because the followers of one religion are just like one soul. Also, the Messenger of Allah ﷺ said,
+
+مَثَلُ الْمُؤْمِنِينَ فِي تَوَادِّهِمْ وَتَرَاحُمِهِمْ وَتَوَاصُلِهِمْ بِمَنْزِلَةِ الْجَسَدِ الْوَاحِدِ إِذَا اشْتَكىٰ مِنْهُ عُضْوٌ تَدَاعَىٰ لَهُ سَائِرُ الْجَسَدِ بِالْحُمَّى وَالسَّهَرِ
+
+(The example of the believers in their kindness, mercy and sympathy to each other is the example of one body, when an organ of it falls ill, the rest of the body rushes to its aid in fever and sleeplessness.) Allah's statement,
+
+ثُمَّ أَقْرَرْتُمْ وَأَنتُمْ تَشْهَدُونَ
+
+(Then, (this) you ratified and (to this) you bore witness.) means, "You testified that you know of the covenant and that you were witnesses to it."
+
+ثُمَّ أَنتُمْ هَٰؤُلَاءِ تَقْتُلُونَ أَنفُسَكُمْ وَتُخْرِجُونَ فَرِيقًا مِّنكُم مِّن دِيَارِهِمْ
+
+(After this, it is you who kill one another and drive out a party of you from their homes). Muhammad bin Ishaq bin Yasar reported that Ibn 'Abbas commented on the Ayah,
+
+ثُمَّ أَنتُمْ هَٰؤُلَاءِ تَقْتُلُونَ أَنفُسَكُمْ وَتُخْرِجُونَ فَرِيقًا مِّنكُم مِّن دِيَارِهِمْ
+
+(After this, it is you who kill one another and drive out a party of you from their homes)
+
+"Allah mentioned what they were doing, and that in the Tawrah He had prohibited them from shedding each other's blood, and required them to free their prisoners. Now they were divided into two camps in Al-Madinah, Banu Qaynuqa', who were the allies of the Khazraj, and An-Nadir and Qurayzah, who were the allies of the Aws. When fighting erupted between Aws and Khazraj, Banu Qaynuqa' would fight along with the Khazraj, while Banu An-Nadir and Qurayzah would fight along with the Aws. Each Jewish camp would fight against their Jewish brethren from the other camp. They would shed each other's blood, although they had the Tawrah with them, and they knew their rights and dues. Meanwhile, the Aws and Khazraj were polytheists who worshipped idols. They did not know about Paradise, the Fire, Resurrection, Divine Books the lawful and prohibited. When the war would end, the Jews would ransom their prisoners and implement the Tawrah. Consequently, Banu Qaynuqa' would ransom their prisoners who were captured by the Aws, while Banu An-Nadir and Qurayzah would ransom their prisoners who were captured by the Khazraj. They would also ask for blood money. During these wars, they would kill whomever (Jews or Arabs) they could, while helping the polytheists against their brethren. Therefore, Allah reminded them of this when He said,
+
+أَفَتُؤْمِنُونَ بِبَعْضِ الْكِتَابِ وَتَكْفُرُونَ بِبَعْضٍ
+
+(Then do you believe in a part of the Scripture and reject the rest?)
+
+This Ayah means, 'Do you ransom them according to the rulings of the Tawrah, yet kill them while the Tawrah forbade you from killing them and from expelling them from their homes? The Tawrah also commanded that you should not aid the polytheists and those who associate with Allah in the worship against your brethren. You do all this to acquire the life of this world.' I was informed that the behavior of the Jews regarding the Aws and Khazraj was the reason behind revealing these Ayat."
+
+These noble Ayat criticized the Jews for implementing the Tawrah sometimes and defying it at other times, although they believed in the Tawrah and knew what they were doing was wrong. This is why they should not be trusted to preserve or convey the Tawrah. Further, they should not be believed when it comes to the description of the Messenger of Allah ﷺ, his coming, his expulsion from his land, and his Hijrah, and the rest of the information that the previous Prophets informed them about him, all of which they hid. The Jews, may they suffer the curse of Allah, hid all of these facts among themselves, and this is why Allah said,
+
+فَمَا جَزَاءُ مَن يَفْعَلُ ذَٰلِكَ مِنكُمْ إِلَّا خِزْيٌ فِي الْحَيَاةِ الدُّنْيَا
+
+(Then what is the recompense of those who do so among you, except disgrace in the life of this world), because they defied Allah's Law and commandments,
+
+وَيَوْمَ الْقِيَامَةِ يُرَدُّونَ إِلَىٰ أَشَدِّ الْعَذَابِ
+
+(And on the Day of Resurrection they shall be consigned to the most grievous torment) as punishment for defying the Book of Allah that they had.
+
+وَمَا اللَّهُ بِغَافِلٍ عَمَّا تَعْمَلُونَ - أُولَٰئِكَ الَّذِينَ اشْتَرَوُا الْحَيَاةَ الدُّنْيَا بِالْآخِرَةِ
+
+(And Allah is not unaware of what you do. Those are they who have bought the life of this world at the price of the Hereafter) meaning, they prefer this life to the Hereafter. Therefore,
+
+فَلَا يُخَفَّفُ عَنْهُمُ الْعَذَابُ
+
+(Their torment shall not be lightened) not even for an hour,
+
+وَلَا هُمْ يُنصَرُونَ
+
+(Nor shall they be helped), and they shall find no helper who will save them from the eternal torment they will suffer, nor shall they find any to grant them refuge from it.
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله تعالى :  ثُمَّ أَنْتُمْ هَؤُلاءِ تَقْتُلُونَ أَنْفُسَكُمْ وَتُخْرِجُونَ فَرِيقًا مِنْكُمْ مِنْ دِيَارِهِمْ تَظَاهَرُونَ عَلَيْهِمْ بِالإِثْمِ وَالْعُدْوَانِقال أبو جعفر: ويتجه في قوله: (ثم أنتم هؤلاء) وجهان. أحدهما أن يكون أريد به: ثم أنتم يا هؤلاء, فترك " يا " استغناء بدلالة الكلام عليه, كما قال:  يُوسُفُ أَعْرِضْ عَنْ هَذَا  [ يوسف: 29]، وتأويله: يا يوسف أعرض عن هذا. فيكون معنى الكلام حينئذ: ثم أنتم يا معشر يهود بني إسرائيل - بعد إقراركم بالميثاق الذي أخذته عليكم: لا تسف...
+القول في تأويل قوله تعالى: ﴿ثُمَّ أَنْتُمْ هَؤُلاءِ تَقْتُلُونَ أَنْفُسَكُمْ وَتُخْرِجُونَ فَرِيقًا مِنْكُمْ مِنْ دِيَارِهِمْ تَظَاهَرُونَ عَلَيْهِمْ بِالإِثْمِ وَالْعُدْوَانِ﴾
+
+قال أبو جعفر: ويتجه في قوله: ﴿ثم أنتم هؤلاء﴾ وجهان. أحدهما أن يكون أريد به: ثم أنتم يا هؤلاء، فترك"يا" استغناء بدلالة الكلام عليه، كما قال: ﴿يُوسُفُ أَعْرِضْ عَنْ هَذَا﴾ [يوسف: ٢٩] ، وتأويله: يا يوسف أعرض عن هذا. فيكون معنى الكلام حينئذ: ثم أنتم يا معشر يهود بني إسرائيل - بعد إقراركم بالميثاق الذي أخذته عليكم: لا تسفكون دماءكم، ولا تخرجون أنفسكم من دياركم، ثم أقررتم = بعد شهادتكم على أنفسكم = [[في المطبوعة: "ثم أقررتم وبعد شهادتكم. . " والواو لا مكان لها هنا.]] بأن ذلك حق لي عليكم، لازم لكم الوفاء لي به - تقتلون أنفسكم، وتخرجون فريقا منكم من ديارهم، متعاونين عليهم، في إخراجكم إياهم، بالإثم والعدوان. [[في المطبوعة"متعاونين عليه في إخراجكم. . "، وهذا سهو.]]
+
+* *
+
+والتعاون هو"التظاهر". وإنما قيل للتعاون"التظاهر"، [[في المطبوعة: " وإنما قيل التعاون التظاهر. . " وهذا لا شيء.]] لتقوية بعضهم ظهر بعض. فهو"تفاعل" من"الظهر"، وهو مساندة بعضهم ظهره إلى ظهر بعض.
+
+* *
+
+والوجه الآخر: أن يكون معناه: ثم أنتم قوم تقتلون أنفسكم. فيرجع إلى الخبر عن"أنتم". وقد اعترض بينهم وبين الخبر عنهم"بهؤلاء"، كما تقول العرب:"أنا ذا أقوم، وأنا هذا أجلس"، [[في المطبوعة: "ولوقيل. أنا هذا أجلس". والصواب ما أثبت.]] وإذْ قيل:"أنا هذا أجلس" كان صحيحا جائزا كذلك: أنت ذاك تقوم".
+
+وقد زعم بعض البصريين أن قوله"هؤلاء" في قوله: ﴿ثم أنتم هؤلاء﴾ ، تنبيه وتوكيد لـ "أنتم". وزعم أن"أنتم" وإن كانت كناية أسماء جماع المخاطبين، فإنما جاز أن يؤكدوا بـ "هؤلاء" و"أولاء"، [[في المطبوعة: "وأولى"، وهو خطأ. ويعني قوله تعالى في سورة آل عمران: ١١٩: "ها أنتم أولاء تحبونهم ولا يحبونكم"، وقوله تعالى في سورة طه: ٨٤: " قال هم أولاء على أثرى".]] لأنها كناية عن المخاطبين، كما قال خفاف بن ندبة:
+
+أقول له والرمح يَأطر متنه: ... تبين خُفافا إنني أنا ذلكا [[مضى تخريجه فيما سلف ١: ٢٢٧.]]
+
+يريد: أنا هذا، وكما قال جل ثناؤه: (حَتَّى إِذَا كُنْتُمْ فِي الْفُلْكِ وَجَرَيْنَ بِهِمْ) [يونس: ٢٢]
+
+* *
+
+ثم اختلف أهل التأويل فيمن عُني بهذه الآية، نحو اختلافهم فيمن عَني بقوله: ﴿وأنتم تشهدون﴾ * ذكر اختلاف المختلفين في ذلك:
+
+١٤٧١ - حدثنا محمد بن حميد قال، حدثنا سلمة قال، حدثني محمد بن إسحاق قال، حدثني محمد بن أبي محمد، عن عكرمة، أو عن سعيد بن جبير، عن ابن عباس قال: ﴿ثم أنتم هؤلاء تقتلون أنفسكم وتخرجون فريقا منكم من ديارهم تظاهرون عليهم بالإثم والعدوان﴾ إلى أهل الشرك، [[في تفسير ابن كثير ١: ٢٢٣، والدر المنثور ١: ٨٦: "أي أهل الشرك"، والصواب ما في الطبري، وقوله: "إلى أهل الشرك"، أي تخرجون فريقا منكم - إلى أهل الشرك.]] حتى تسفكوا دماءهم معهم، وتخرجوهم من ديارهم معهم. [[في المطبوعة: "فقال أنبهم"، والأجود حذفها.]] قال: أنبهم الله [على ذلك] من فعلهم، [[ما بين القوسين زيادة لا بد منها. وأما ابن كثير في تفسيره ١: ٢٢٣ فكتب: "أنبأهم الله بذلك من فعلهم"، وهو تحريف.]] وقد حرم عليهم في التوراة سفك دمائهم، وافترض عليهم فيها فداء أسراهم، فكانوا فريقين: طائفة منهم من بني قينقاع حلفاء الخزرج، والنضير وقريظة حلفاء الأوس. فكانوا إذا كانت بين الأوس والخزرج حرب خرجت بنو قينقاع مع الخزرج، وخرجت النضير وقريظة مع الأوس، يظاهر كل من الفريقين حلفاءه على إخوانه، حتى يتسافكوا دماءهم بينهم، وبأيديهم التوراة، يعرفون منها ما عليهم وما لهم. والأوس والخزرج أهل شرك يعبدون الأوثان، [[في المطبوعة: "أهل الشرك"، والصواب في سيرة ابن هشام ٢: ١٨٨، وابن كثير ١: ٢٢٤.]] لا يعرفون جنة ولا نارا، ولا بعثا ولا قيامة، ولا كتابا، ولا حراما ولا حلالا فإذا وضعت الحرب أوزارها، افتدوا أسراهم، تصديقا لما في التوراة، وأخذا به، بعضهم من بعض. يفتدي بنو قينقاع ما كان من أسراهم في أيدي الأوس، وتفتدي النضير وقريظة ما كان في أيدي الخزرج منهم، ويطلون ما أصابوا من الدماء، [[طل دمه وأطله: أهدره وأبطله.]] وقتلى من قتلوا منهم فيما بينهم، [[في المطبوعة: "وقتلوا من قتلوا. . "، والصواب من ابن هشام ٢: ١٨٩.]] مظاهرة لأهل الشرك عليهم. يقول الله تعالى ذكره، حين أنبهم بذلك: [[في المطبوعة: "أنباهم بذلك"، والصواب ما أثبت من سيرة ابن هشام ٢: ١٨٩، وسترى ذلك في تفسير الآية نفسها بعد.]] ﴿أفتؤمنون ببعض الكتاب وتكفرون ببعض﴾ ، أي تفادونه بحكم التوراة وتقتلونه - وفي حكم التوراة أن لا يقتل، ولا يخرج من داره، [[في المطبوعة: "من ذلك"، وهو محض خطأ.]] ولا يظاهر عليه من يشرك بالله ويعبد الأوثان من دونه - ابتغاء عرض من عرض الدنيا.
+
+ففي ذلك من فعلهم مع الأوس والخزرج -فيما بلغني- نزلت هذه القصة. [[هذه الجملة الأخيرة من كلام ابن إسحاق، لا من كلام ابن عباس.]]
+
+١٤٧٢ - وحدثني موسى بن هارون قال، حدثني عمرو بن حماد قال، حدثنا أسباط، عن السدي: ﴿وإذ أخذنا ميثاقكم لا تسفكون دماءكم ولا تخرجون أنفسكم من دياركم ثم أقررتم وأنتم تشهدون﴾ قال: إن الله أخذ على بني إسرائيل في التوراة: أن لا يقتل بعضهم بعضا، وأيما عبد أو أمة وجدتموه من بني إسرائيل فاشتروه بما قام ثمنه، فأعتقوه. [[في المطبوعة: "بما قدم يمينه فأعتقوه". وهو كلام من السقم بمكان. يقال: قامت الأمة مئة دينار، أي بلغت قيمتها مئة دينار. ويقال: كم قامت أمتك؟ أي كم بلغت؟ ووجدتها في تفسير البغوي على الصواب: "بما قام من ثمنه" ١: ٢٢٤ (بهامش تفسير ابن كثير) .]] فكانت قريظة حلفاء الأوس، والنضير حلفاء الخزرج، فكانوا يقتتلون في حرب سُمير. [[حرب سُمير. كانت في الجاهلية بين الأوس والخزرج. وسُمير رجل من بني عمرو بن عوف. وانظر خبر هذه الحرب في الأغاني ٣: ١٨: ٢٦.]] فيقاتل بنو قريظة مع حلفائها، النضير وحلفاءها. وكانت النضير تقاتل قريظة وحلفاءها، فيغلبونهم، فيخربون بيوتهم، ويخرجونهم منها. فإذا أسر الرجل من الفريقين كليهما، جمعوا له حتى يفدوه، فتعيرهم العرب بذلك، ويقولون: كيف تقاتلونهم وتفدونهم؟ قالوا: إنا أمرنا أن نفديهم، وحرم علينا قتالهم. قالوا: فلم تقاتلونهم؟ قالوا: إنا نستحيي أن تستذل حلفاؤنا. فذلك حين عيرهم جل وعز فقال: ﴿ثم أنتم هؤلاء تقتلون أنفسكم وتخرجون فريقا منكم من ديارهم تظاهرون عليهم بالإثم والعدوان﴾ .
+
+١٤٧٣ - حدثني يونس قال، أخبرنا ابن وهب قال، قال ابن زيد: كانت قريظة والنضير أخوين، وكانوا بهذه المثابة، [[المثابة: يعني المدينة رسول الله ﷺ. والمثابة المنزل، لأن أهله يتصرفون في أمورهم ثم يثوبون إليه، يرجعون إليه. وقال الله تعالى: "وإذ جعلنا البيت مثابة للناس وأمنا"]] وكان الكتاب بأيديهم. وكانت الأوس والخزرج أخوين فافترقا، وافترقت قريظة والنضير، فكانت النضير مع الخزرج، وكانت قريظة مع الأوس، فاقتتلوا. وكان بعضهم يقتل بعضا، فقال الله جل ثناؤه: ﴿ثم أنتم هؤلاء تقتلون أنفسكم وتخرجون فريقا منكم من ديارهم﴾ الآية.
+
+* *
+
+وقال آخرون بما:-
+
+١٤٧٤ - حدثني به المثنى قال، حدثنا آدم قال، حدثنا أبو جعفر، عن الربيع، عن أبي العالية قال: كان في بني إسرائيل: إذا استضعفوا قوما أخرجوهم من ديارهم. وقد أخذ عليهم الميثاق أن لا يسفكوا دماءهم، ولا يخرجوا أنفسهم من ديارهم.
+
+* *
+
+قال أبو جعفر: وأما "العدوان" فهو"الفعلان" من"التعدي"، يقال منه:"عدا فلان في كذا عدوا وعدوانا، واعتدى يعتدي اعتداء"، وذلك إذا جاوز حده ظلما وبغيا.
+
+* *
+
+وقد اختلف الْقَرَأَة في قراءة: ﴿تظاهرون﴾ . [[في المطبوعة: "وقد اختلف القراء"، ورددتها إلى منهج الطبري.]] فقرأها بعضهم:"تظاهرون" على مثال"تفاعلون" فحذف التاء الزائدة وهي التاء الآخرة. وقرأها آخرون: ﴿تظَّاهرون﴾ ، فشدد، بتأويل: ﴿تتظاهرون﴾ ، غير أنهم أدغموا التاء الثانية في الظاء، لتقارب مخرجيهما، فصيروهما ظاء مشددة. وهاتان القراءتان، وإن اختلفت ألفاظهما، فإنهما متفقتا المعنى. فسواء بأي ذلك قرأ القارئ، لأنهما جميعا لغتان معروفتان، وقراءتان مستفيضتان في أمصار الإسلام بمعنى واحد، ليس في إحداهما معنى تستحق به اختيارها على الأخرى، إلا أن يختار مختار"تظاهرون" المشددة طلبا منه تتمة الكلمة.
+
+* *
+
+القول في تأويل قوله تعالى: ﴿وَإِنْ يَأْتُوكُمْ أُسَارَى تُفَادُوهُمْ وَهُوَ مُحَرَّمٌ عَلَيْكُمْ إِخْرَاجُهُمْ أَفَتُؤْمِنُونَ بِبَعْضِ الْكِتَابِ وَتَكْفُرُونَ بِبَعْضٍ﴾
+
+قال أبو جعفر: يعني بقوله جل ثناؤه: ﴿وإن يأتوكم أسارى تفادوهم﴾ اليهود. يوبخهم بذلك، ويعرفهم به قبيح أفعالهم التي كانوا يفعلونها، فقال لهم: ثم أنتم - بعد إقراركم بالميثاق الذي أخذته عليكم: أن لا تسفكوا دماءكم، ولا تخرجوا أنفسكم من دياركم - تقتلون أنفسكم = يعني به: يقتل بعضكم بعضا = وأنتم، مع قتلكم من تقتلون منكم، إذا وجدتم الأسير منكم في أيدي غيركم من أعدائكم، تفدونه، [[في المطبوعة: "تفدوهم"، خطأ.]] ويخرج بعضكم بعضا من دياره. وقتلكم إياهم وإخراجكموهم من ديارهم، حرام عليكم، وتركهم أسرى في أيدي عدوكم [حرام عليكم] ، [[الزيادة بين القوسين لا معدى عنها لاستقامة الكلام.]] فكيف تستجيزون قتلهم، ولا تستجيزون ترك فدائهم من عدوهم؟ أم كيف لا تستجيزون ترك فدائهم، وتستجيزون قتلهم؟ وهما جميعا في اللازم لكم من الحكم فيهم - سواء. [[في المطبوعة: "وهم جميعا"، والصواب ما أثبت.]] لأن الذي حرمت عليكم من قتلهم وإخراجهم من دورهم، نظير الذي حرمت عليكم من تركهم أسرى في أيدي عدوهم، أفتؤمنون ببعض الكتاب - الذي فرضت عليكم فيه فرائضي، وبينت لكم فيه حدودي، وأخذت عليكم بالعمل بما فيه ميثاقي - فتصدقون به، فتفادون أسراكم من أيدي عدوكم؛ وتكفرون ببعضه، فتجحدونه، فتقتلون من حرمت عليكم قتله من أهل دينكم ومن قومكم، وتخرجونهم من ديارهم؟ وقد علمتم أن الكفر منكم ببعضه نقض منكم عهدي وميثاقي؟ كما:-
+
+١٤٧٥ - حدثنا بشر بن معاذ قال، حدثنا يزيد بن زريع قال، حدثنا سعيد، عن قتادة: ﴿ثم أنتم هؤلاء تقتلون أنفسكم وتخرجون فريقا منكم من ديارهم تظاهرون عليهم بالإثم والعدوان وإن يأتوكم أسارى تَفْدُوهم وهو محرم عليكم إخراجهم أفتؤمنون ببعض الكتاب وتكفرون ببعض﴾ ، [أفتؤمنون ببعض الكتاب فادين، وتكفرون ببعض قاتلين ومخرجين] ؟ [[كان في المطبوعة: ". . وتكفرون ببعض فادين والله إن فداء لإيمان"، وهو كلام مضطرب فزدت ما بين القوسين استظهارا، حتى يستقيم الكلام.]] والله إن فداءهم لإيمان، وإن إخراجهم لكفر. فكانوا يخرجونهم من ديارهم، وإذا رأوهم أسارى في أيدي عدوهم أفتكوهم.
+
+١٤٧٦ - حدثنا ابن حميد قال، حدثنا سلمة قال، حدثني ابن إسحاق قال، حدثني محمد بن أبي محمد، عن سعيد بن جبير، أو عن عكرمة، عن ابن عباس: ﴿وإن يأتوكم أسارى تَفْدوهم﴾ ، قد علمتم أن ذلكم عليكم في دينكم، ﴿وهو محرم عليكم﴾ في كتابكم ﴿إخراجهم، أفتؤمنون ببعض الكتاب وتكفرون ببعض﴾ ، أتفادونهم مؤمنين بذلك، وتخرجونهم كفرا بذلك.
+
+١٤٧٧ - حدثني محمد بن عمرو قال، حدثنا أبو عاصم قال، حدثنا عيسى، عن ابن أبي نجيح، عن مجاهد: ﴿وإن يأتوكم أسارى تفدوهم﴾ يقول: إن وجدته في يد غيرك فديته، وأنت تقتله بيدك؟
+
+١٤٧٨ - حدثني المثنى قال، حدثنا إسحاق قال، حدثنا ابن أبي جعفر قال، قال أبو جعفر: كان قتادة يقول في قوله: ﴿أفتؤمنون ببعض الكتاب وتكفرون ببعض﴾ ، فكان إخراجهم كفرا، وفداؤهم إيمانا.
+
+١٤٧٩ - حدثنا المثنى قال، حدثنا آدم قال، حدثنا أبو جعفر، عن الربيع، عن أبي العالية في قوله: ﴿ثم أنتم هؤلاء تقتلون أنفسكم﴾ الآية، قال: كان في بني إسرائيل: إذا استضعفوا قوما أخرجوهم من ديارهم، وقد أخذ عليهم الميثاق: أن لا يسفكوا دماءهم ولا يخرجوا أنفسهم من ديارهم، وأخذ عليهم الميثاق: إن أسر بعضهم أن يفادوهم. فأخرجوهم من ديارهم، ثم فادوهم، فآمنوا ببعض الكتاب وكفروا ببعض. آمنوا بالفداء ففدوا، وكفروا بالإخراج من الديار فأخرجوا.
+
+١٤٨٠ - حدثني المثنى قال، حدثنا آدم قال، حدثنا أبو جعفر قال، حدثنا الربيع بن أنس قال، أخبرني أبو العالية: أن عبد الله بن سلام مر على رأس الجالوت بالكوفة وهو يفادي من النساء من لم يقع عليه العرب، ولا يفادي من وقع عليه العرب، فقال له عبد الله بن سلام: أما إنه مكتوب عندك في كتابك: أن فادوهن كلهن.
+
+١٤٨١ - حدثنا القاسم قال، حدثنا الحسين قال، حدثني حجاج، عن ابن جريج: ﴿أفتؤمنون ببعض الكتاب وتكفرون ببعض﴾ ، قال: كفرهم القتل والإخراج، وإيمانهم الفداء. قال ابن جريج: يقول: إذا كانوا عندكم تقتلونهم وتخرجونهم من ديارهم، وأما إذا أسروا تفدونهم؟ [[في المطبوعة: "تفدوهم"، خطأ.]] وبلغني أن عمر بن الخطاب قال في قصة بني إسرائيل: إن بني إسرائيل قد مضوا، وإنكم أنتم تعنون بهذا الحديث.
+
+* *
+
+قال أبو جعفر: واختلف الْقَرَأَة [[في المطبوعة: "واختلف القراء"، ورددته إلى نهج أبي جعفر.]] في قراءة قوله: ﴿وإن يأتوكم أسارى تفدوهم﴾ .
+
+فقرأه بعضهم: ﴿أسرى تَفْدوهم﴾ ، وبعضهم: ﴿أُسارى تُفادوهم﴾ ، وبعضهم ﴿أُسارى تَفدوهم﴾ ، وبعضهم: ﴿أسرى تفادوهم﴾ .
+
+* *
+
+قال أبو جعفر: فمن قرأ ذلك: ﴿وإن يأتوكم أسرى﴾ ، فإنه أراد جمع"الأسير"، إذ كان على"فعيل"، على مثال جمع أسماء ذوي العاهات التي يأتي واحدها على تقدير"فعيل"، إذ كان"الأسر" شبيه المعنى - في الأذى والمكروه الداخل على الأسير - ببعض معاني العاهات، وألحق جمع المستلحق به بجمع ما وصفنا، فقيل: أسير وأسرى"، كما قيل:"مريض ومرضى، وكسير وكَسرى، وجريح وجرحى".
+
+* *
+
+وقال أبو جعفر: وأما الذين قرءوا ذلك: ﴿أُسارى﴾ ، فإنهم أخرجوه على مخرج جمع "فَعلان"، إذ كان جمع "فَعلان" الذي له "فَعلى" قد يشارك جمع "فعيل" كما قالوا: "سَكارى وسَكرى، وكَسالى وكَسلى"، فشبهوا"أسيرا" - وجمعوه مرة"أسارى"، وأخرى"أسرى" - بذلك.
+
+* *
+
+وكان بعضهم يزعم أن معنى"الأسرى" مخالف معنى"الأسارى"، ويزعم أن معنى"الأسرى" استئسار القوم بغير أسر من المستأسِر لهم، وأن معنى"الأسارى" معنى مصير القوم المأسورين في أيدي الآسرين بأسرهم وأخذهم قهرا وغلبة.
+
+قال أبو جعفر: وذلك ما لا وجه له يفهم في لغة أحد من العرب. ولكن ذلك على ما وصفت من جمع"الأسير" مرة على "فَعلى" لما بينت من العلة، ومرة على"فُعالى"، لما ذكرت: من تشبيههم جمعه بجمع"سكران وكسلان" وما أشبه ذلك.
+
+* *
+
+وأولى بالصواب في ذلك قراءة من قرأ ﴿وإن يأتوكم أسرى﴾ ، لأن"فعالى" في جمع"فعيل" غير مستفيض في كلام العرب، فإذ كان ذلك غير مستفيض في كلامهم، وكان مستفيضا فاشيا فيهم جمع ما كان من الصفات - التي بمعنى الآلام والزمانة - وواحده على تقدير"فعيل"، على"فعلى
+
+[TRUNCATED at 12000 chars — 6002 more. Consult the source directly before relying on anything near the cut.]
 
 ### al-Muyassar (Arabic)
 
-ثم أنتم يا هؤلاء يقتل بعضكم بعضًا، ويُخرج بعضكم بعضًا من ديارهم، ويَتَقَوَّى كل فريق منكم على إخوانه بالأعداء بغيًا وعدوانًا. وأن يأتوكم أسارى في يد الأعداء سعيتم في تحريرهم من الأسر، بدفع الفدية، مع أنه محرم عليكم إخراجهم من ديارهم. ما أقبح ما تفعلون حين تؤمنون ببعض أحكام التوراة وتكفرون ببعضها! فليس جزاء مَن يفعل ذلك منكم إلا ذُلا وفضيحة في الدنيا. ويوم القيامة يردُّهم الله إلى أفظع العذاب في النار. وما الله بغافل عما تعملون.
+ثم أنتم يا هؤلاء يقتل بعضكم بعضًا، ويُخرج بعضكم بعضًا من ديارهم، ويَتَقَوّى كلُّ فريق منكم على إخوانه بالأعداء بغيًا وعدوانًا. وإن يأتوكم أسارى في يد الأعداء سعيتم في تحريرهم من الأسر، بدفع الفدية، مع أنه محرم عليكم إخراجهم من ديارهم. ما أقبح ما تفعلون حين تؤمنون ببعض أحكام التوراة وتكفرون ببعضها! فليس جزاء مَن يفعل ذلك منكم إلا ذُلاًّ وفضيحة في الدنيا. ويوم القيامة يردُّهم الله إلى أفظع العذاب في النار. وما الله بغافل عما تعملون.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿ثُمَّ أنْتُمْ﴾ يا ﴿هَؤُلاءِ تَقْتُلُونَ أنْفُسكُمْ﴾ بِقَتْلِ بَعْضكُمْ بَعْضًا ﴿وتُخْرِجُونَ فَرِيقًا مِنكُمْ مِن دِيارهمْ تَظاهَرُونَ﴾ فِيهِ إدْغام التّاء فِي الأَصْل فِي الظّاء وفِي قِراءَة بِالتَّخْفِيفِ عَلى حَذْفها تَتَعاوَنُونَ ﴿عَلَيْهِمْ بِالإثْمِ﴾ بِالمَعْصِيَةِ ﴿والعُدْوان﴾ الظُّلْم ﴿وإنْ يَأْتُوكُمْ أُسارى﴾ وفِي قِراءَة أسْرى ﴿تُفادُوهُمْ﴾ تَفْدُوهُمْ وفِي قِراءَة تُفادهُمْ تُنْقِذُوهُمْ مِن الأَسْر بِالمالِ أوْ غَيْره وهُوَ مِمّا عُهِدَ إلَيْهِمْ ﴿وهُوَ﴾ أيْ الشَّأْن ﴿مُحَرَّم عَلَيْكُمْ إخْراجهمْ﴾ مُتَّصِل بِقَوْلِهِ وتُخْرِجُونَ والجُمْلَة بَيْنهما اعْتِراض: أيْ كَما حَرَّمَ تَرْك الفِداء وكانَتْ قُرَيْظَة حالَفُوا الأَوْس والنَّضِير الخَزْرَج فَكانَ كُلّ فَرِيق يُقاتِل مَعَ حُلَفائِهِ ويُخَرِّب دِيارهمْ ويُخْرِجهُمْ فَإذا أُسِرُوا فَدَوْهُمْ وكانُوا إذا سُئِلُوا لَمْ تُقاتِلُونَهُمْ وتَفْدُونَهُمْ ؟ قالُوا أُمِرْنا بِالفِداءِ فَيُقال فَلِمَ تُقاتِلُونَهُمْ ؟ فَيَقُولُونَ حَياء أنْ تُسْتَذَلّ حُلَفاؤُنا ﴿أفَتُؤْمِنُونَ بِبَعْضِ الكِتاب﴾ وهُوَ الفِداء ﴿وتَكْفُرُونَ بِبَعْضٍ﴾ وهُوَ تَرْك القَتْل والإخْراج والمُظاهَرَة ﴿فَما جَزاء مَن يَفْعَل ذَلِكَ إلّا خِزْي﴾ هَوان وذُلّ ﴿فِي الحَياة الدُّنْيا﴾ وقَدْ خُزُوا بِقَتْلِ قُرَيْظَة ونَفْي النَّضِير إلى الشّام وضَرْب الجِزْيَة ﴿ويَوْم القِيامَة يُرَدُّونَ إلى أشَدّ العَذاب وما اللَّه بِغافِلٍ عَمّا تَعْمَلُونَ﴾ يَعْمَلُونَ بِالياءِ والتّاء
 
 ---
 
@@ -141,12 +916,85 @@ Allah criticized the Jews who lived in Al-Madinah during the time of the Messeng
 
 ### Ibn Kathir (English)
 
+And (remember) when We took your covenant (saying): Shed not the blood of your (people), nor turn out your own people from their dwellings. Then, (this) you ratified and (to this) you bore witness (84)After this, it is you who kill one another and drive out a party of you from their homes, assist (their enemies) against them, in sin and transgression. And if they come to you as captives, you ransom them, although their expulsion was forbidden to you. Then do you believe in a part of the Book and reject the rest? Then what is the recompense of those who do so among you, except disgrace in the life of this world, and on the Day of Resurrection they shall be consigned to the most grievous torment. And Allah is not unaware of what you do (85)Those are they who have bought the life of this world at the price of the Hereafter. Their torment shall not be lightened nor shall they be helped (86)
+
 The Terms of the Covenant and their Breach of It
-Allah criticized the Jews who lived in Al-Madinah during the time of the Messenger of Allah ﷺ. They used to suffer, because of the armed conflicts between the tribes of Al-Madinah, Aws and Khazraj. Before Islam, the Aws and Khazraj worshipped idols, and many battles took place between them. There were three Jewish tribes in Al-Madinah at that time, Banu Qaynuqa` and Banu An-Nadir, the allies of the Khazraj, and Banu Qurayzah, who used to be the...
+
+Allah criticized the Jews who lived in Al-Madinah during the time of the Messenger of Allah ﷺ. They used to suffer, because of the armed conflicts between the tribes of Al-Madinah, Aws and Khazraj. Before Islam, the Aws and Khazraj worshipped idols, and many battles took place between them. There were three Jewish tribes in Al-Madinah at that time, Banu Qaynuqa' and Banu An-Nadir, the allies of the Khazraj, and Banu Qurayzah, who used to be the allies of the Aws. When war erupted between Aws and Khazraj, their Jewish allies would assist them. The Jew would kill his Arab enemy, and sometimes they also killed Jews who were the allies of the other Arab tribe, although the Jews were prohibited from killing each other according to clear religious texts in their Books. They would also drive each other from their homes and loot whatever furniture and money they could. When the war ended, the victorious Jews would release the prisoners from the defeated party, according to the rulings of the Tawrah. This is why Allah said,
+
+أَفَتُؤْمِنُونَ بِبَعْضِ الْكِتَابِ وَتَكْفُرُونَ بِبَعْضٍ
+
+(Then do you believe in a part of the Scripture and reject the rest?) Allah said,
+
+وَإِذْ أَخَذْنَا مِيثَاقَكُمْ لَا تَسْفِكُونَ دِمَاءَكُمْ وَلَا تُخْرِجُونَ أَنفُسَكُم مِّن دِيَارِكُمْ
+
+(And (remember) when We took your covenant (saying): Shed not the blood of your (people), nor turn out your own people from their dwellings.) meaning, "Do not kill each other, nor expel one another from their homes, nor participate in fighting against them." Allah mentioned the word 'your own' here, just as He said in another Ayah.
+
+فَتُوبُوا إِلَىٰ بَارِئِكُمْ فَاقْتُلُوا أَنفُسَكُمْ ذَٰلِكُمْ خَيْرٌ لَّكُمْ عِندَ بَارِئِكُمْ
+
+(So turn in repentance to your Creator and kill yourselves, that will be better for you with your Creator)(2:54) because the followers of one religion are just like one soul. Also, the Messenger of Allah ﷺ said,
+
+مَثَلُ الْمُؤْمِنِينَ فِي تَوَادِّهِمْ وَتَرَاحُمِهِمْ وَتَوَاصُلِهِمْ بِمَنْزِلَةِ الْجَسَدِ الْوَاحِدِ إِذَا اشْتَكىٰ مِنْهُ عُضْوٌ تَدَاعَىٰ لَهُ سَائِرُ الْجَسَدِ بِالْحُمَّى وَالسَّهَرِ
+
+(The example of the believers in their kindness, mercy and sympathy to each other is the example of one body, when an organ of it falls ill, the rest of the body rushes to its aid in fever and sleeplessness.) Allah's statement,
+
+ثُمَّ أَقْرَرْتُمْ وَأَنتُمْ تَشْهَدُونَ
+
+(Then, (this) you ratified and (to this) you bore witness.) means, "You testified that you know of the covenant and that you were witnesses to it."
+
+ثُمَّ أَنتُمْ هَٰؤُلَاءِ تَقْتُلُونَ أَنفُسَكُمْ وَتُخْرِجُونَ فَرِيقًا مِّنكُم مِّن دِيَارِهِمْ
+
+(After this, it is you who kill one another and drive out a party of you from their homes). Muhammad bin Ishaq bin Yasar reported that Ibn 'Abbas commented on the Ayah,
+
+ثُمَّ أَنتُمْ هَٰؤُلَاءِ تَقْتُلُونَ أَنفُسَكُمْ وَتُخْرِجُونَ فَرِيقًا مِّنكُم مِّن دِيَارِهِمْ
+
+(After this, it is you who kill one another and drive out a party of you from their homes)
+
+"Allah mentioned what they were doing, and that in the Tawrah He had prohibited them from shedding each other's blood, and required them to free their prisoners. Now they were divided into two camps in Al-Madinah, Banu Qaynuqa', who were the allies of the Khazraj, and An-Nadir and Qurayzah, who were the allies of the Aws. When fighting erupted between Aws and Khazraj, Banu Qaynuqa' would fight along with the Khazraj, while Banu An-Nadir and Qurayzah would fight along with the Aws. Each Jewish camp would fight against their Jewish brethren from the other camp. They would shed each other's blood, although they had the Tawrah with them, and they knew their rights and dues. Meanwhile, the Aws and Khazraj were polytheists who worshipped idols. They did not know about Paradise, the Fire, Resurrection, Divine Books the lawful and prohibited. When the war would end, the Jews would ransom their prisoners and implement the Tawrah. Consequently, Banu Qaynuqa' would ransom their prisoners who were captured by the Aws, while Banu An-Nadir and Qurayzah would ransom their prisoners who were captured by the Khazraj. They would also ask for blood money. During these wars, they would kill whomever (Jews or Arabs) they could, while helping the polytheists against their brethren. Therefore, Allah reminded them of this when He said,
+
+أَفَتُؤْمِنُونَ بِبَعْضِ الْكِتَابِ وَتَكْفُرُونَ بِبَعْضٍ
+
+(Then do you believe in a part of the Scripture and reject the rest?)
+
+This Ayah means, 'Do you ransom them according to the rulings of the Tawrah, yet kill them while the Tawrah forbade you from killing them and from expelling them from their homes? The Tawrah also commanded that you should not aid the polytheists and those who associate with Allah in the worship against your brethren. You do all this to acquire the life of this world.' I was informed that the behavior of the Jews regarding the Aws and Khazraj was the reason behind revealing these Ayat."
+
+These noble Ayat criticized the Jews for implementing the Tawrah sometimes and defying it at other times, although they believed in the Tawrah and knew what they were doing was wrong. This is why they should not be trusted to preserve or convey the Tawrah. Further, they should not be believed when it comes to the description of the Messenger of Allah ﷺ, his coming, his expulsion from his land, and his Hijrah, and the rest of the information that the previous Prophets informed them about him, all of which they hid. The Jews, may they suffer the curse of Allah, hid all of these facts among themselves, and this is why Allah said,
+
+فَمَا جَزَاءُ مَن يَفْعَلُ ذَٰلِكَ مِنكُمْ إِلَّا خِزْيٌ فِي الْحَيَاةِ الدُّنْيَا
+
+(Then what is the recompense of those who do so among you, except disgrace in the life of this world), because they defied Allah's Law and commandments,
+
+وَيَوْمَ الْقِيَامَةِ يُرَدُّونَ إِلَىٰ أَشَدِّ الْعَذَابِ
+
+(And on the Day of Resurrection they shall be consigned to the most grievous torment) as punishment for defying the Book of Allah that they had.
+
+وَمَا اللَّهُ بِغَافِلٍ عَمَّا تَعْمَلُونَ - أُولَٰئِكَ الَّذِينَ اشْتَرَوُا الْحَيَاةَ الدُّنْيَا بِالْآخِرَةِ
+
+(And Allah is not unaware of what you do. Those are they who have bought the life of this world at the price of the Hereafter) meaning, they prefer this life to the Hereafter. Therefore,
+
+فَلَا يُخَفَّفُ عَنْهُمُ الْعَذَابُ
+
+(Their torment shall not be lightened) not even for an hour,
+
+وَلَا هُمْ يُنصَرُونَ
+
+(Nor shall they be helped), and they shall find no helper who will save them from the eternal torment they will suffer, nor shall they find any to grant them refuge from it.
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله تعالى :  أُولَئِكَ الَّذِينَ اشْتَرَوُا الْحَيَاةَ الدُّنْيَا بِالآخِرَةِ فَلا يُخَفَّفُ عَنْهُمُ الْعَذَابُ وَلا هُمْ يُنْصَرُونَ (86)قال أبو جعفر: يعني بقوله جل ثناؤه أولئك الذين أخبر عنهم أنهم يؤمنون ببعض الكتاب، فيفادون أسراهم من اليهود, ويكفرون ببعض, فيقتلون من حرم الله عليهم قتله من أهل ملتهم, ويخرجون من داره من حرم الله عليهم إخراجه من داره, نقضا لعهد الله وميثاقه في التوراة إليهم. فأخبر جل ثناؤه أن هؤلاء [هم] الذين اشتروا رياسة الحياة الدنيا على الضعفاء وأهل الجهل ...
+القول في تأويل قوله تعالى: ﴿أُولَئِكَ الَّذِينَ اشْتَرَوُا الْحَيَاةَ الدُّنْيَا بِالآخِرَةِ فَلا يُخَفَّفُ عَنْهُمُ الْعَذَابُ وَلا هُمْ يُنْصَرُونَ (٨٦) ﴾
+
+قال أبو جعفر: يعني بقوله جل ثناؤه أولئك الذين أخبر عنهم أنهم يؤمنون ببعض الكتاب، فيفادون أسراهم من اليهود، ويكفرون ببعض، فيقتلون من حرم الله عليهم قتله من أهل ملتهم، ويخرجون من داره من حرم الله عليهم إخراجه من داره، نقضا لعهد الله وميثاقه في التوراة إليهم. فأخبر جل ثناؤه أن هؤلاء [هم] الذين اشتروا رياسة الحياة الدنيا على الضعفاء وأهل الجهل والغباء من أهل ملتهم، [[ما بين القوسين زيادة، لا يستقيم الكلام بطرحها.]] وابتاعوا المآكل الخسيسة الرديئة فيها بالإيمان، الذي كان يكون لهم به في الآخرة - لو كانوا أتوا به مكان الكفر - الخلود في الجنان. وإنما وصفهم الله جل ثناؤه بأنهم اشتروا الحياة الدنيا بالآخرة، لأنهم رضوا بالدنيا بكفرهم بالله فيها، عوضا من نعيم الآخرة الذي أعده الله للمؤمنين. فجعل حظوظهم من نعيم الآخرة بكفرهم بالله، ثمنا لما ابتاعوه به من خسيس الدنيا، [[انظر ما مضى ١: ٣١٢: - ٣١٥ في معنى"الاشتراء".]] كما:-
+
+١٤٨٢ - حدثنا بشر، حدثنا يزيد قال، حدثنا يزيد قال، حدثنا سعيد، عن قتادة قوله: ﴿أولئك الذين اشتروا الحياة الدنيا بالآخرة﴾ ، استحبوا قليل الدنيا على كثير الآخرة. [[الأثر: ١٤٨٢ - كان في المطبوعة: "حدثنا يزيد. . " بإسقاط: "حدثنا بشر قال"، وهذا إسناده إلى قتادة، كثير الدوران، وأقربه فيما مضى رقم: ١٤٧٥.]]
+
+* *
+
+قال أبو جعفر: ثم أخبر الله جل ثناؤه أنهم إذْ باعوا حظوظهم من نعيم الآخرة - بتركهم طاعته، وإيثارهم الكفر به والخسيس من الدنيا عليه - لا حظ لهم في نعيم الآخرة، وأن الذي لهم في الآخرة العذاب، غير مخفف عنهم فيها العذاب. لأن الذي يخفف عنه فيها من العذاب، هو الذي له حظ في نعيمها، ولا حظ لهؤلاء، لاشترائهم - بالذي كان في الدنيا - دنياهم بآخرتهم. [[في المطبوعة: "لاشترائهم الذي كان في الدنيا ودنياهم بآخرتهم"، وهو كلام سقيم، ولعل الصواب ما أثبت.]]
+
+* *
+
+وأما قوله: ﴿ولا هم ينصرون﴾ فإنه أخبر عنهم أنه لا ينصرهم في الآخرة أحد، فيدفع عنهم بنصرته عذاب الله - لا بقوته ولا بشفاعته ولا غيرهما.
 
 ### al-Muyassar (Arabic)
 
@@ -154,6 +1002,6 @@ Allah criticized the Jews who lived in Al-Madinah during the time of the Messeng
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿أُولَئِكَ الَّذِينَ اشْتَرَوْا الحَياة الدُّنْيا بِالآخِرَةِ﴾ بِأَنْ آثَرُوها عَلَيْها ﴿فَلا يُخَفَّف عَنْهُمْ العَذاب ولا هُمْ يُنْصَرُونَ﴾ يُمْنَعُونَ مِنهُ
 
 ---

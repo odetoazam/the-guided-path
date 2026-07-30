@@ -1,59 +1,195 @@
 # Tafsir Cross-Reference Report
 
-Generated: 2026-04-13
-Primary ayahs: 18:107-108
-Tafsir sources checked: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), al-Jalalayn availability checked
+Generated: 2026-07-30
+Ayahs referenced: 2
+Tafsir sources: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), al-Jalalayn (Arabic)
 
 ---
 
-## 18:107-108
+## 18:107
 
 ### Ibn Kathir (English)
 
-Ibn Kathir treats 18:107-108 as the reward of the righteous believers. He explains that Allah describes His blessed servants: those who believed in Allah and His messengers and accepted as true what the messengers brought. He identifies al-Firdaws as the best, central, and highest part of Paradise in the reports he cites, explains `nuzul` as hospitality or entertainment offered to them, and explains 18:108 as permanent dwelling with no desire to move elsewhere. He explicitly notes the psychological point that even though one might imagine eternity in one place becoming tiresome, Allah says they will never want transfer from it.
+"Verily, those who believe and do righteous deeds, shall have the Gardens of Al-Firdaws for their entertainment. (107)"Wherein they shall dwell (forever). No desire will they have for removal therefrom. (108)
+
+The Reward of the Righteous Believers
+
+Allah tells us about His blessed servants, those who believed in Allah and His Messengers and accepted as truth what the Messengers brought. He tells us that they will have the Gardens of Al-Firdaws (Paradise). Abu Umamah said, "Al-Firdaws is the center of Paradise." Qatadah said, "Al-Firdaws is a hill in Paradise, at its center, the best of it." This was also narrated from Samurah and attributed to the Prophet ﷺ,
+
+الْفِرْدَوْسُ رَبْوَةُ الْجَنَّةِ أَوْسَطُهَا وَأَحْسَنُهَا
+
+(Al-Firdaws is a hill in Paradise, at its center, the best of it.) A similar report was narrated from Qatadah from Anas bin Malik, and attributed to the Prophet ﷺ. All of the preceding reports were narrated by Ibn Jarir, may Allah have mercy on him. The following is in the Sahih,
+
+إِذَا سَأَلْتُمُ اللهَ الْجَنَّةَ، فَاسْأَلُوهُ الْفِرْدَوْسَ فَإِنَّهُ أَعْلَى الْجَنَّةِ وَأَوْسَطُ الْجَنَّةِ، وَمِنْهُ تَفَجَّرُ أَنْهَارُ الْجَنَّةِ
+
+(If you ask Allah for Paradise, then ask Him for Al-Firdaws, for it is the highest part of Paradise, in the middle of Paradise, and from it spring the rivers of Paradise.)
+
+نُزُلًا
+
+(entertainment) means offered to them as hospitality.
+
+خَالِدِينَ فِيهَا
+
+(Wherein they shall dwell (forever).) means, they will stay there and never leave.
+
+لَا يَبْغُونَ عَنْهَا حِوَلًا
+
+(No desire will they have for removal therefrom.) means, they will never choose or want anything else. This Ayah tells us how much they love and desire it, even though one might imagine that a person who is to stay in one place forever would get tired and bored of it. But Allah tells us that despite this eternal stay, they will never choose to change or move from where they are.
 
 ### al-Tabari (Arabic)
 
-Al-Tabari explains that those promised al-Firdaws are the ones who affirmed Allah and His Messenger, acknowledged Allah's oneness and what He revealed, and worked in obedience. He glosses the Gardens of al-Firdaws as the gardens or orchards of al-Firdaws, and records interpretive views that al-Firdaws is the best, highest, central, or most excellent portion of Paradise. This aligns with the reflection's emphasis on iman joined to righteous deeds and Firdaws as the highest welcome after the warning of weightless deeds.
+القول في تأويل قوله تعالى: ﴿إِنَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ كَانَتْ لَهُمْ جَنَّاتُ الْفِرْدَوْسِ نزلا (١٠٧) خَالِدِينَ فِيهَا لا يَبْغُونَ عَنْهَا حِوَلا (١٠٨) ﴾
+
+يقول تعالى ذكره: إن الذين صدقوا بالله ورسوله، وأقرّوا بتوحيد الله وما أنزل من كتبه وعملوا بطاعته، كانت لهم بساتين الفردوس، والفردوس: معظم الجنة، كما قال أمية:
+
+كانَتْ مَنازِلُهُمْ إذْ ذاكَ ظاهِرَةً ... فِيها الفَراديسُ والفُومانُ والبَصَلُ [[البيت لأمية بن أبي الصلت الثقفي (اللسان: فوم) . قال: وقال أمية في جمع الفوم: " كانت لهم جنة إذ ذاك ظاهرة ". . . البيت. قال: ويروى الفراريس. قال أبو الإصبع الفراريس: البصل. وقال: الزجاج: الفوم الحنطة ويقال الحبوب، لا اختلاف بين أهل اللغة أن الفوم الحنطة وسائر الحبوب التي تختبز يلحقها اسم الفوم، قال: من قال: الفوم هاهنا الثوم، فإن هذا لا يعرف. وقال أبو منصور: فإن قرأها ابن مسعود بالثاء، فمعناه الفوم وهو الحنطة. وفي (اللسان: فردس) الفردوس: البستان. قال الفراء: هو عربي. وقال ابن سيده: الفردوس: الوادي الخصيب عند العرب، البستان وهو بلسان الروم: البستان. والفردوس: الروضة عن السيرافي. والفردوس: خضرة الأعناب. قال الزجاج: وحقيقته: أنه البستان الذي يجمع ما يكون في البساتين، وكذلك هو عند أهل كل لغة. والفردوس: حديقة في الجنة. والفردوس: أصله رومي عرب، وهو البستان.]]
+
+واختلف أهل التأويل في معنى الفردوس؛ فقال بعضهم: عنى به أفضل الجنة وأوسطها.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا محمد بن المثنى، قال: ثنا عباس بن الوليد، قال: ثنا يزيد بن زريع، عن سعيد، عن قتادة، قال: الفردوس: ربَوة الجنة وأوسطها وأفضلها.
+
+⁕ حدثنا أحمد بن أبي سريج الرازي، قال: ثنا الهيثم أبو بشر، قال: أخبرنا الفرج بن فضالة، عن لقمان، عن عامر، قال: سئل أبو أسامة عن الفردوس، فقال: هي سرّة الجنة.
+
+⁕ حدثنا أحمد بن أبي سريج، قال: ثنا حماد بن عمرو النصيبي، عن أبي عليّ، عن كعب، قال: ليس في الجنان جنة أعلى من جنة الفردوس، وفيها الآمرون بالمعروف، والناهون عن المنكر.
+
+وقال آخرون: هو البستان بالرومية.
+
+ذكر من قال ذلك:
+
+⁕ حدثني عليّ بن سهل الرملي، قال: ثنا حجاج عن ابن جريج، عن عبد الله بن كثير، عن مجاهد، قال: الفردوس: بستان بالرومية.
+
+⁕ حدثنا العباس بن محمد، قال: ثنا حجاج، قال: ابن جريج: أخبرني عبد الله عن مجاهد، مثله.
+
+وقال آخرون: هو البستان الذي فيه الأعناب.
+
+⁕ حدثنا عباس بن محمد، قال: ثنا محمد بن عبيد، عن الأعمش، عن يزيد بن أبي زياد، عن عبد الله بن الحارث، عن كعب، قال: جنات الفردوس التي فيها الأعناب.
+
+والصواب من القول في ذلك، ما تظاهرت به الأخبار عن رسول الله ﷺ.
+
+وذلك ما:-
+
+⁕ حدثنا به أحمد بن أبي سريج، قال: ثنا يزيد بن هارون، قال: أخبرنا همام بن يحيى، قال: ثنا زيد بن أسلم، عن عطاء بن يسار، عن عبادة بن الصامت، عن النبيّ ﷺ قال: " الجَنَّةُ مِئَةُ دَرَجَةٍ، ما بينَ كُلّ دَرَجَتَيْنِ مَسِيرَةُ عامٍ والفِرْدَوْسُ أعْلاها دَرَجَةً، ومِنْها الأنهَارُ الأربعةُ، والفِرْدَوْسُ مِنْ فَوْقِها، فإذَا سألْتُمُ اللهَ فاسألُوهُ الفِرْدَوسَ".
+
+⁕ حدثنا موسى بن سهل، قال: ثنا موسى بن داود، قال: ثنا همام بن يحيى، عن زيد بن أسلم، عن عطاء بن يسار، عن عُبادة بن الصامت، أن رسول الله ﷺ قال: الجَنَّةُ مِئَةُ دَرَجَةٍ مَا بَينَ كُلّ دَرَجَتَيْنِ كمَا بينَ السَّماءِ والأرْضِ، أعْلاها الفِرْدَوْسُ، ومِنْها تُفَجَّر أنهارُ الجَنَّةِ الأرْبَعَةُ، فإذَا سألْتُمُ اللهَ فاسألُوه الفِرْدَوْسَ".
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: ثني أبو يحيى بن سليمان، عن هلال بن أسامة، عن عطاء بن يسار، عن أبي هريرة، أو أبي سعيد الخُدريّ، عن رسول الله ﷺ أنه قال: إذَا سألْتُمُ اللهَ فاسألُوهُ الفِرْدَوْسَ، فإنَّها أوْسَطُ الجَنَّة وأعْلَى الجَنَّةِ، وَفَوْقَها عَرْشُ الرَّحْمنِ تَبَارَكَ وَتَعالى، ومِنْهُ تَفَجَّرُ أنهارُ الجَنَّةِ".
+
+⁕ حدثنا محمد بن المثنى، قال: ثنا أبو عامر، قال: ثنا فليح، عن هلال، عن عبد الرحمن بن أبي عمرة، عن أبي هريرة، عن النبيّ ﷺ مثله، إلا أنه قال: " وَسَطُ الجَنَّةِ" وقالَ أيضًا: " ومِنْهُ تُفَجَّرُ أو تَتَفَجَّرُ".
+
+⁕ حدثني عمار بن بكار الكلاعي، قال: ثنا يحيى بن صالح، قال: ثنا عبد العزيز بن محمد، قال: ثنا زيد بن أسلم، عن عطاء بن يسار، عن معاذ بن جبل، أن رسول الله ﷺ قال " إنَّ فِي الجَنَّةِ مِئَةَ دَرَجَةٍ، ما بينَ كُلّ دَرَجَتَينِ كَمَا بينَ السَّماءِ والأرْضِ، والفِرْدَوْسُ أعْلَى الجنَّةِ وأوْسَطُها، وفَوْقُها عَرْشُ الرَّحْمن، ومِنْها تَفَجَّر أنهَارُ الجَنَّهِ، فإذَا سألْتُمُ الله فَسَلُوهُ الفِرْدَوْسَ".
+
+⁕ حدثنا أحمد بن منصور، قال: ثنا عبد الصمد بن عبد الوارث، قال: ثنا الحارث بن عمير، عن أبيه، قال: قال رسول الله ﷺ: " جناتُ الفِرْدَوْسِ أرْبَعَةٌ، اثْنَتانِ مِنْ ذَهَبٍ حِلْيَتُهُما وآنِيَتُهُما، ومَا فِيهِما مِنْ شَيْءٍ، واثْنَتانِ مِنْ فِضَّة حِلْيَتُهُما وآنِيَتُهُما، ومَا فِيهِما مِنْ شَيْءٍ".
+
+⁕ حدثنا أحمد بن أبي سريج، قال: ثنا أبو نعيم، قال: ثنا أبو قدامة، عن أبي عمران الجوني، عن أبي بكر بن عبد الله بن قيس، عن أبيه، قال: قال رسول الله ﷺ: " جَنَّاتُ الفِرْدَوْسِ أرْبَعٌ: ثِنْتانِ مِنْ ذَهَبٍ حِلْيَتهُما ومَا فِيهِما، وَثِنْتان مِنْ فِضَّةٍ حِلْيتُهُما وآنِيَتُهُما ومَا فِيهِما".
+
+⁕ حدثنا ابن حميد، قال: ثنا يعقوب، عن حفص، عن شمر، قال: خلق الله جنة الفردوس بيده، فهو يفتحها في كلّ يوم خميس، فيقول: ازدادي طيبا لأوليائي، ازدادي حسنا لأوليائي.
+
+⁕ حدثنا القاسم، قال: ثنا الحسين، قال: ثني حجاج، عن ابن جريج، عن مجاهد، بنحوه.
+
+⁕ حدثنا القاسم، قال: ثنا الحسين، قال: سمعت مخلد بن الحسين يقول: وسئل عنها، قال: سمعت بعض أصحاب أنس يقول: قال: يقول: أوّلهم دخولا إنما أدخلني الله أوّلهم، لأنه ليس أحد افضل مني، ويقول آخرهم دخولا إنما أخرني الله، لأنه ليس أحد أعطاه الله مثل الذي أعطاني".
 
 ### al-Muyassar (Arabic)
 
-Al-Muyassar summarizes 18:107 as: those who believed in Allah, affirmed His messengers, and did righteous deeds have the highest and best of Paradise as a dwelling. It summarizes 18:108 as: they abide therein forever and do not want any transfer from it because of their desire for it and love of it.
+إن الذين آمنوا بي، وصدَّقوا رسلي، وعملوا الصالحات، لهم أعلى منازل الجنة وأوسطها، وهي أفضلها منزلًا.
 
 ### al-Jalalayn (Arabic)
 
-A direct per-ayah JSON entry was not available from the configured CDN endpoint during this check; the same source was unavailable for the surrounding Al-Kahf closing ayahs. The reflection therefore relies on Ibn Kathir, al-Tabari, al-Muyassar, the Arabic morphology corpus, and the exact Uthmani text from the Quran.com API.
-
-### Alignment Notes
-
-The reflection aligns with the tafsir sources on the central claims: 18:107-108 contrasts the previous warning by promising al-Firdaws to those who combine iman with righteous deeds; al-Firdaws is described in classical tafsir as the best or highest portion of Paradise; `nuzul` indicates hospitality or prepared lodging; and the inhabitants remain there forever without desiring transfer. The thematic applications about obedience not being deprivation, restlessness, and final contentment are framed as tadabbur extensions grounded in the wording and tafsir.
+﴿إنّ الَّذِينَ آمَنُوا وعَمِلُوا الصّالِحات كانَتْ لَهُمْ﴾ فِي عِلْم اللَّه ﴿جَنّات الفِرْدَوْس﴾ هُوَ وسَط الجَنَّة وأَعْلاها والإضافَة إلَيْهِ لِلْبَيانِ ﴿نُزُلًا﴾ مَنزِلًا
 
 ---
 
-## Cross-References Used In The Reflection
+## 18:108
 
-### 18:103-106
+### Ibn Kathir (English)
 
-Used as the immediate contrast: deeds that went astray and became void with no established weight are answered by iman, righteous deeds, and al-Firdaws as prepared lodging.
+"Verily, those who believe and do righteous deeds, shall have the Gardens of Al-Firdaws for their entertainment. (107)"Wherein they shall dwell (forever). No desire will they have for removal therefrom. (108)
 
-### 18:32-44
+The Reward of the Righteous Believers
 
-Used as an internal Al-Kahf contrast between the collapsing worldly garden and the final Gardens of al-Firdaws.
+Allah tells us about His blessed servants, those who believed in Allah and His Messengers and accepted as truth what the Messengers brought. He tells us that they will have the Gardens of Al-Firdaws (Paradise). Abu Umamah said, "Al-Firdaws is the center of Paradise." Qatadah said, "Al-Firdaws is a hill in Paradise, at its center, the best of it." This was also narrated from Samurah and attributed to the Prophet ﷺ,
 
-### 18:83-98
+الْفِرْدَوْسُ رَبْوَةُ الْجَنَّةِ أَوْسَطُهَا وَأَحْسَنُهَا
 
-Used through Dhul-Qarnayn as an example of worldly effort kept under Allah's mercy and promise rather than becoming self-contained striving.
+(Al-Firdaws is a hill in Paradise, at its center, the best of it.) A similar report was narrated from Qatadah from Anas bin Malik, and attributed to the Prophet ﷺ. All of the preceding reports were narrated by Ibn Jarir, may Allah have mercy on him. The following is in the Sahih,
 
-### 18:102
+إِذَا سَأَلْتُمُ اللهَ الْجَنَّةَ، فَاسْأَلُوهُ الْفِرْدَوْسَ فَإِنَّهُ أَعْلَى الْجَنَّةِ وَأَوْسَطُ الْجَنَّةِ، وَمِنْهُ تَفَجَّرُ أَنْهَارُ الْجَنَّةِ
 
-Used for the internal echo of `nuzul`: Jahannam as lodging for disbelievers is contrasted with al-Firdaws as lodging for believers.
+(If you ask Allah for Paradise, then ask Him for Al-Firdaws, for it is the highest part of Paradise, in the middle of Paradise, and from it spring the rivers of Paradise.)
 
-### 18:109-110
+نُزُلًا
 
-Used as the already-existing closing movement after this passage, where hope in meeting the Lord is joined to righteous work and freedom from shirk.
+(entertainment) means offered to them as hospitality.
+
+خَالِدِينَ فِيهَا
+
+(Wherein they shall dwell (forever).) means, they will stay there and never leave.
+
+لَا يَبْغُونَ عَنْهَا حِوَلًا
+
+(No desire will they have for removal therefrom.) means, they will never choose or want anything else. This Ayah tells us how much they love and desire it, even though one might imagine that a person who is to stay in one place forever would get tired and bored of it. But Allah tells us that despite this eternal stay, they will never choose to change or move from where they are.
+
+### al-Tabari (Arabic)
+
+القول في تأويل قوله تعالى: ﴿إِنَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ كَانَتْ لَهُمْ جَنَّاتُ الْفِرْدَوْسِ نزلا (١٠٧) خَالِدِينَ فِيهَا لا يَبْغُونَ عَنْهَا حِوَلا (١٠٨) ﴾
+
+يقول تعالى ذكره: إن الذين صدقوا بالله ورسوله، وأقرّوا بتوحيد الله وما أنزل من كتبه وعملوا بطاعته، كانت لهم بساتين الفردوس، والفردوس: معظم الجنة، كما قال أمية:
+
+كانَتْ مَنازِلُهُمْ إذْ ذاكَ ظاهِرَةً ... فِيها الفَراديسُ والفُومانُ والبَصَلُ [[البيت لأمية بن أبي الصلت الثقفي (اللسان: فوم) . قال: وقال أمية في جمع الفوم: " كانت لهم جنة إذ ذاك ظاهرة ". . . البيت. قال: ويروى الفراريس. قال أبو الإصبع الفراريس: البصل. وقال: الزجاج: الفوم الحنطة ويقال الحبوب، لا اختلاف بين أهل اللغة أن الفوم الحنطة وسائر الحبوب التي تختبز يلحقها اسم الفوم، قال: من قال: الفوم هاهنا الثوم، فإن هذا لا يعرف. وقال أبو منصور: فإن قرأها ابن مسعود بالثاء، فمعناه الفوم وهو الحنطة. وفي (اللسان: فردس) الفردوس: البستان. قال الفراء: هو عربي. وقال ابن سيده: الفردوس: الوادي الخصيب عند العرب، البستان وهو بلسان الروم: البستان. والفردوس: الروضة عن السيرافي. والفردوس: خضرة الأعناب. قال الزجاج: وحقيقته: أنه البستان الذي يجمع ما يكون في البساتين، وكذلك هو عند أهل كل لغة. والفردوس: حديقة في الجنة. والفردوس: أصله رومي عرب، وهو البستان.]]
+
+واختلف أهل التأويل في معنى الفردوس؛ فقال بعضهم: عنى به أفضل الجنة وأوسطها.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا محمد بن المثنى، قال: ثنا عباس بن الوليد، قال: ثنا يزيد بن زريع، عن سعيد، عن قتادة، قال: الفردوس: ربَوة الجنة وأوسطها وأفضلها.
+
+⁕ حدثنا أحمد بن أبي سريج الرازي، قال: ثنا الهيثم أبو بشر، قال: أخبرنا الفرج بن فضالة، عن لقمان، عن عامر، قال: سئل أبو أسامة عن الفردوس، فقال: هي سرّة الجنة.
+
+⁕ حدثنا أحمد بن أبي سريج، قال: ثنا حماد بن عمرو النصيبي، عن أبي عليّ، عن كعب، قال: ليس في الجنان جنة أعلى من جنة الفردوس، وفيها الآمرون بالمعروف، والناهون عن المنكر.
+
+وقال آخرون: هو البستان بالرومية.
+
+ذكر من قال ذلك:
+
+⁕ حدثني عليّ بن سهل الرملي، قال: ثنا حجاج عن ابن جريج، عن عبد الله بن كثير، عن مجاهد، قال: الفردوس: بستان بالرومية.
+
+⁕ حدثنا العباس بن محمد، قال: ثنا حجاج، قال: ابن جريج: أخبرني عبد الله عن مجاهد، مثله.
+
+وقال آخرون: هو البستان الذي فيه الأعناب.
+
+⁕ حدثنا عباس بن محمد، قال: ثنا محمد بن عبيد، عن الأعمش، عن يزيد بن أبي زياد، عن عبد الله بن الحارث، عن كعب، قال: جنات الفردوس التي فيها الأعناب.
+
+والصواب من القول في ذلك، ما تظاهرت به الأخبار عن رسول الله ﷺ.
+
+وذلك ما:-
+
+⁕ حدثنا به أحمد بن أبي سريج، قال: ثنا يزيد بن هارون، قال: أخبرنا همام بن يحيى، قال: ثنا زيد بن أسلم، عن عطاء بن يسار، عن عبادة بن الصامت، عن النبيّ ﷺ قال: " الجَنَّةُ مِئَةُ دَرَجَةٍ، ما بينَ كُلّ دَرَجَتَيْنِ مَسِيرَةُ عامٍ والفِرْدَوْسُ أعْلاها دَرَجَةً، ومِنْها الأنهَارُ الأربعةُ، والفِرْدَوْسُ مِنْ فَوْقِها، فإذَا سألْتُمُ اللهَ فاسألُوهُ الفِرْدَوسَ".
+
+⁕ حدثنا موسى بن سهل، قال: ثنا موسى بن داود، قال: ثنا همام بن يحيى، عن زيد بن أسلم، عن عطاء بن يسار، عن عُبادة بن الصامت، أن رسول الله ﷺ قال: الجَنَّةُ مِئَةُ دَرَجَةٍ مَا بَينَ كُلّ دَرَجَتَيْنِ كمَا بينَ السَّماءِ والأرْضِ، أعْلاها الفِرْدَوْسُ، ومِنْها تُفَجَّر أنهارُ الجَنَّةِ الأرْبَعَةُ، فإذَا سألْتُمُ اللهَ فاسألُوه الفِرْدَوْسَ".
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: ثني أبو يحيى بن سليمان، عن هلال بن أسامة، عن عطاء بن يسار، عن أبي هريرة، أو أبي سعيد الخُدريّ، عن رسول الله ﷺ أنه قال: إذَا سألْتُمُ اللهَ فاسألُوهُ الفِرْدَوْسَ، فإنَّها أوْسَطُ الجَنَّة وأعْلَى الجَنَّةِ، وَفَوْقَها عَرْشُ الرَّحْمنِ تَبَارَكَ وَتَعالى، ومِنْهُ تَفَجَّرُ أنهارُ الجَنَّةِ".
+
+⁕ حدثنا محمد بن المثنى، قال: ثنا أبو عامر، قال: ثنا فليح، عن هلال، عن عبد الرحمن بن أبي عمرة، عن أبي هريرة، عن النبيّ ﷺ مثله، إلا أنه قال: " وَسَطُ الجَنَّةِ" وقالَ أيضًا: " ومِنْهُ تُفَجَّرُ أو تَتَفَجَّرُ".
+
+⁕ حدثني عمار بن بكار الكلاعي، قال: ثنا يحيى بن صالح، قال: ثنا عبد العزيز بن محمد، قال: ثنا زيد بن أسلم، عن عطاء بن يسار، عن معاذ بن جبل، أن رسول الله ﷺ قال " إنَّ فِي الجَنَّةِ مِئَةَ دَرَجَةٍ، ما بينَ كُلّ دَرَجَتَينِ كَمَا بينَ السَّماءِ والأرْضِ، والفِرْدَوْسُ أعْلَى الجنَّةِ وأوْسَطُها، وفَوْقُها عَرْشُ الرَّحْمن، ومِنْها تَفَجَّر أنهَارُ الجَنَّهِ، فإذَا سألْتُمُ الله فَسَلُوهُ الفِرْدَوْسَ".
+
+⁕ حدثنا أحمد بن منصور، قال: ثنا عبد الصمد بن عبد الوارث، قال: ثنا الحارث بن عمير، عن أبيه، قال: قال رسول الله ﷺ: " جناتُ الفِرْدَوْسِ أرْبَعَةٌ، اثْنَتانِ مِنْ ذَهَبٍ حِلْيَتُهُما وآنِيَتُهُما، ومَا فِيهِما مِنْ شَيْءٍ، واثْنَتانِ مِنْ فِضَّة حِلْيَتُهُما وآنِيَتُهُما، ومَا فِيهِما مِنْ شَيْءٍ".
+
+⁕ حدثنا أحمد بن أبي سريج، قال: ثنا أبو نعيم، قال: ثنا أبو قدامة، عن أبي عمران الجوني، عن أبي بكر بن عبد الله بن قيس، عن أبيه، قال: قال رسول الله ﷺ: " جَنَّاتُ الفِرْدَوْسِ أرْبَعٌ: ثِنْتانِ مِنْ ذَهَبٍ حِلْيَتهُما ومَا فِيهِما، وَثِنْتان مِنْ فِضَّةٍ حِلْيتُهُما وآنِيَتُهُما ومَا فِيهِما".
+
+⁕ حدثنا ابن حميد، قال: ثنا يعقوب، عن حفص، عن شمر، قال: خلق الله جنة الفردوس بيده، فهو يفتحها في كلّ يوم خميس، فيقول: ازدادي طيبا لأوليائي، ازدادي حسنا لأوليائي.
+
+⁕ حدثنا القاسم، قال: ثنا الحسين، قال: ثني حجاج، عن ابن جريج، عن مجاهد، بنحوه.
+
+⁕ حدثنا القاسم، قال: ثنا الحسين، قال: سمعت مخلد بن الحسين يقول: وسئل عنها، قال: سمعت بعض أصحاب أنس يقول: قال: يقول: أوّلهم دخولا إنما أدخلني الله أوّلهم، لأنه ليس أحد افضل مني، ويقول آخرهم دخولا إنما أخرني الله، لأنه ليس أحد أعطاه الله مثل الذي أعطاني".
+
+### al-Muyassar (Arabic)
+
+خالدين فيها أبدًا، لا يريدون عنها تحوُّلًا؛ لرغبتهم فيها وحبهم لها.
+
+### al-Jalalayn (Arabic)
+
+﴿خالِدِينَ فِيها لا يَبْغُونَ﴾ يَطْلُبُونَ ﴿عَنْها حِوَلًا﴾ تَحَوُّلًا إلى غَيْرها
 
 ---
-
-## Verdict
-
-No tafsir conflict found. The reflection remains within the classical frame: 18:107-108 promises the Gardens of al-Firdaws as prepared hospitality for those who believe and do righteous deeds, abiding there forever with no desire for transfer.

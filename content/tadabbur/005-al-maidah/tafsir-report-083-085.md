@@ -1,6 +1,6 @@
 # Tafsir Cross-Reference Report
 
-Generated: 2026-04-02
+Generated: 2026-07-30
 Ayahs referenced: 4
 Tafsir sources: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), al-Jalalayn (Arabic)
 
@@ -10,20 +10,197 @@ Tafsir sources: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), 
 
 ### Ibn Kathir (English)
 
+Verily, you will find the strongest among men in enmity to the believers the Jews and those who commit Shirk, and you will find the nearest in love to the believers those who say: "We are Christians." That is because among them are priests and monks, and they are not proud (82)And when they listen to what has been sent down to the Messenger, you see their eyes overflowing with tears because of the truth they have recognized. They say: "Our Lord! We believe; so write us down among the witnesses. (83)"And why should we not believe in Allah and in that which has come to us of the truth? And we wish that our Lord will admit us along with the righteous people. (84)So because of what they said, Allah awarded them with Gardens under which rivers flow, they will abide therein forever. Such is the reward of good-doers (85)But those who disbelieved and belied Our Ayat, they shall be the dwellers of Hell (86)
+
 The Reason Behind Revealing these Ayat
-Sa`id bin Jubayr, As-Suddi and others said that these Ayat were revealed concerning a delegation that An-Najashi (King of Ethiopia) sent to the Prophet in order to hear his words and observe his qualities. When the delegation met with the Prophet and he recited the Qur'an to them, they embraced Islam, cried and were humbled. Then they returned to An-Najashi and told him what happened. `Ata' bin Abi Rabah commented, "They were Ethiopians who embraced Isla...
+
+Sa'id bin Jubayr, As-Suddi and others said that these Ayat were revealed concerning a delegation that An-Najashi (King of Ethiopia) sent to the Prophet ﷺ in order to hear his words and observe his qualities. When the delegation met with the Prophet ﷺ and he recited the Qur'an to them, they embraced Islam, cried and were humbled. Then they returned to An-Najashi and told him what happened. 'Ata' bin Abi Rabah commented, "They were Ethiopians who embraced Islam when the Muslims who migrated to Ethiopia resided among them." Qatadah said, "They were some followers of the religion of 'Isa, son of Maryam, who when they saw Muslims and heard the Qur'an, they became Muslims without hesitation." Ibn Jarir said that these Ayat were revealed concerning some people who fit this description, whether they were from Ethiopia or otherwise. Allah said,
+
+لَتَجِدَنَّ أَشَدَّ النَّاسِ عَدَاوَةً لِّلَّذِينَ آمَنُوا الْيَهُودَ وَالَّذِينَ أَشْرَكُوا
+
+(Verily, you will find the strongest among men in enmity to the believers the Jews and those who commit Shirk,)
+
+This describes the Jews, since their disbelief is that of rebellion, defiance, opposing the truth, belittling other, people and degrading the scholars. This is why the Jews - may Allah's continued curses descend on them until the Day of Resurrection - killed many of their Prophets and tried to kill the Messenger of Allah ﷺ several times, as well as, performing magic spells against him and poisoning him. They also incited their likes among the polytheists against the Prophet ﷺ. Allah's statement,
+
+وَلَتَجِدَنَّ أَقْرَبَهُم مَّوَدَّةً لِّلَّذِينَ آمَنُوا الَّذِينَ قَالُوا إِنَّا نَصَارَىٰ
+
+(and you will find the nearest in love to the believers those who say: "We are Christians.") refers to those who call themselves Christians, who follow the religion of the Messiah and the teachings of his Injil. These people are generally more tolerant of Islam and its people, because of the mercy and kindness that their hearts acquired through part of the Messiah's religion. In another Ayah, Allah said;
+
+وَجَعَلْنَا فِي قُلُوبِ الَّذِينَ اتَّبَعُوهُ رَأْفَةً وَرَحْمَةً وَرَهْبَانِيَّةً
+
+(And We ordained in the hearts of those who followed him, compassion, mercy, and monasticism...)[57:27].
+
+In their book is the saying; "He who strikes you on the right cheek, then turn the left cheek for him." And fighting was prohibited in their creed, and this is why Allah said,
+
+ذَٰلِكَ بِأَنَّ مِنْهُمْ قِسِّيسِينَ وَرُهْبَانًا وَأَنَّهُمْ لَا يَسْتَكْبِرُونَ
+
+(That is because among them are Qissisin (priests) and Ruhban (monks), and they are not proud.)
+
+This means that among them are Qissisin (priests). The word Ruhban refers to one dedicated to worship. Allah said,
+
+ذَٰلِكَ بِأَنَّ مِنْهُمْ قِسِّيسِينَ وَرُهْبَانًا وَأَنَّهُمْ لَا يَسْتَكْبِرُونَ
+
+(That is because among them are priests and monks, and they are not proud.) This describes them with knowledge, worship and humbleness, along with following the truth and fairness.
+
+وَإِذَا سَمِعُوا مَا أُنزِلَ إِلَى الرَّسُولِ تَرَىٰ أَعْيُنَهُمْ تَفِيضُ مِنَ الدَّمْعِ مِمَّا عَرَفُوا مِنَ الْحَقِّ
+
+(And when they listen to what has been sent down to the Messenger, you see their eyes overflowing with tears because of the truth they have recognized.)
+
+This refers to the good news that they have about the advent of Muhammad ﷺ,
+
+يَقُولُونَ رَبَّنَا آمَنَّا فَاكْتُبْنَا مَعَ الشَّاهِدِينَ
+
+(They say: "Our Lord! We believe; so write us down among the witnesses.") who testify to the truth and believe in it.
+
+وَمَا لَنَا لَا نُؤْمِنُ بِاللَّهِ وَمَا جَاءَنَا مِنَ الْحَقِّ وَنَطْمَعُ أَن يُدْخِلَنَا رَبُّنَا مَعَ الْقَوْمِ الصَّالِحِينَ
+
+("And why should we not believe in Allah and in that which has come to us of the truth And We wish that our Lord will admit us (in Paradise) along with the righteous people.") Such sect of Christians are those mentioned in Allah's statement,
+
+وَإِنَّ مِنْ أَهْلِ الْكِتَابِ لَمَن يُؤْمِنُ بِاللَّهِ وَمَا أُنزِلَ إِلَيْكُمْ وَمَا أُنزِلَ إِلَيْهِمْ خَاشِعِينَ لِلَّهِ
+
+(And there are, certainly, among the People of the Scripture, those who believe in Allah and in that which has been revealed to you, and in that which has been revealed to them, humbling themselves before Allah.)[3:199] and,
+
+الَّذِينَ آتَيْنَاهُمُ الْكِتَابَ مِن قَبْلِهِ هُم بِهِ يُؤْمِنُونَ - وَإِذَا يُتْلَىٰ عَلَيْهِمْ قَالُوا آمَنَّا بِهِ إِنَّهُ الْحَقُّ مِن رَّبِّنَا إِنَّا كُنَّا مِن قَبْلِهِ مُسْلِمِينَ
+
+(Those to whom We gave the Scripture before it, they believe in it (the Qur'an). And when it is recited to them, they say, "We believe in it. Verily, it is the truth from our Lord. Indeed even before it we were Muslims")[28:52-53], until,
+
+لَا نَبْتَغِي الْجَاهِلِينَ
+
+("We seek not the ignorant.")[28:55] This is why Allah said here,
+
+فَأَثَابَهُمُ اللَّهُ بِمَا قَالُوا
+
+(So because of what they said, Allah awarded them...) rewarding them for embracing the faith and recognizing and believing in the truth,
+
+جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا
+
+(Gardens under which rivers flow (in Paradise), they will abide therein forever.) and they will never be removed from it, for they will dwell and remain in it forever and ever,
+
+وَذَٰلِكَ جَزَاءُ الْمُحْسِنِينَ
+
+(Such is the reward of good-doers) who follow the truth and obey it wherever, whenever and with whomever they find it. Allah then describes the condition of the miserable.
+
+وَالَّذِينَ كَفَرُوا وَكَذَّبُوا بِآيَاتِنَا
+
+(But those who disbelieved and belied Our Ayat,) defied and opposed them,
+
+أُولَٰئِكَ أَصْحَابُ الْجَحِيمِ
+
+(they shall be the dwellers of the (Hell) Fire.) For they are the people of the Fire who will enter and reside in it (eternally).
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله :  لَتَجِدَنَّ أَشَدَّ النَّاسِ عَدَاوَةً لِلَّذِينَ آمَنُوا الْيَهُودَ وَالَّذِينَ أَشْرَكُوا وَلَتَجِدَنَّ أَقْرَبَهُمْ مَوَدَّةً لِلَّذِينَ آمَنُوا الَّذِينَ قَالُوا إِنَّا نَصَارَى ذَلِكَ بِأَنَّ مِنْهُمْ قِسِّيسِينَ وَرُهْبَانًا وَأَنَّهُمْ لا يَسْتَكْبِرُونَ (82)قال أبو جعفر: يقول تعالى ذكره لنبيه محمدّ صلى الله عليه وسلم: لتجدن، يا محمد، أشدَّ الناس عداوةً للذين صدَّقوك واتبعوك وصدّقوا بما جئتهم به من أهل الإسلام=" اليهودَ والذين أشركوا "، يعني: عبدة الأوثان الذين ا...
+القول في تأويل قوله: ﴿لَتَجِدَنَّ أَشَدَّ النَّاسِ عَدَاوَةً لِلَّذِينَ آمَنُوا الْيَهُودَ وَالَّذِينَ أَشْرَكُوا وَلَتَجِدَنَّ أَقْرَبَهُمْ مَوَدَّةً لِلَّذِينَ آمَنُوا الَّذِينَ قَالُوا إِنَّا نَصَارَى ذَلِكَ بِأَنَّ مِنْهُمْ قِسِّيسِينَ وَرُهْبَانًا وَأَنَّهُمْ لا يَسْتَكْبِرُونَ (٨٢) ﴾
+
+قال أبو جعفر: يقول تعالى ذكره لنبيه محمدّ ﷺ: لتجدن، يا محمد، أشدَّ الناس عداوةً للذين صدَّقوك واتبعوك وصدّقوا بما جئتهم به من أهل الإسلام="اليهودَ والذين اشركوا"، يعني: عبدة الأوثان الذين اتخذوا الأوثان آلهة يعبدونها من دون الله="ولتجدن أقربهم مودة للذين آمنوا"، يقول: ولتجدن أقربَ الناس مودةًّ ومحبة.
+
+* *
+
+و"المودة""المفعلة"، من قول الرجل:"ودِدْت كذا أودُّه وُدًّا، ووِدًّا، ووَدًّا ومودة"، إذا أحببته. [[انظر تفسير"ود" فيما سلف ٢: ٤٧٠/٥: ٥٤٢/٦: ٥٠٠/٨: ٣٧١/٩: ١٧]]
+
+* *
+
+="للذين آمنوا"، يقول: للذين صدّقوا الله ورسوله محمدًا ﷺ ="الذين قالوا إنا نصارى ذلك بأن منهم قسيسين ورهبانًا وأنهم لا يستكبرون"، عن قبول الحق واتباعه والإذعان به.
+
+* *
+
+وقيل: إن هذه الآية والتي بعدها نزلت في نفرٍ قدِموا على رسول الله ﷺ من نصارى الحبشة، فلما سمعوا القرآن أسلموا واتبعوا رسول الله ﷺ.
+
+* *
+
+وقيل: إنها نزلت في النجاشيّ ملك الحبشة وأصحابٍ له أسلموا معه.
+
+ذكر من قال ذلك:
+
+١٢٣١٥ - حدثنا محمد بن عبد الملك بن أبي الشوارب قال، حدثنا عبد الواحد بن زياد قال، حدثنا خصيف، عن سعيد بن جبير قال: بعث النجاشيّ وفدًا إلى النبي ﷺ، فقرأ عليهم النبي ﷺ فأسلموا. قال: فأنزل الله تعالى فيهم:"لتجدن أشد الناس عداوة للذين آمنوا اليهود والذين أشركوا"، إلى آخر الآية. قال: فرجعوا إلى النجاشيّ فأخبروه، فأسلم النجاشي، فلم يزل مسلمًا حتى مات. قال: فقال رسول الله ﷺ: إنّ أخاكم النجاشيَّ قد مات، فصلُّوا عليه! فصلَّى عليه رسول الله ﷺ بالمدينة، والنجاشي ثَمَّ.
+
+١٢٣١٦ - حدثني محمد بن عمرو قال، حدثنا أبو عاصم قال، حدثنا عيسى، عن ابن أبي نجيح، عن مجاهد في قول الله:"ولتجدن أقربهم مودةً للذين آمنوا الذين قالوا إنا نصارى"، قال: هم الوفد الذين جاءوا مع جعفر وأصحابه من أرض الحبشة.
+
+١٢٣١٧ - حدثني المثنى قال، حدثنا عبد الله بن صالح قال، حدثني معاوية بن صالح، عن علي بن أبي طلحة، عن ابن عباس:"ولتجدن أقربهم مودَّة للذين آمنوا الذين قالوا إنا نصارى"، قال: كان رسول الله ﷺ وهو بمكة خاف على أصحابه من المشركين، فبعث جعفرَ بن أبي طالب، وابن مسعود وعثمان بن مظعون، في رهط من أصحابه إلى النجاشي ملك الحبشة. فلما بلغ ذلك المشركين، بعثوا عمرو بن العاص في رهط منهم، ذُكر أنهم سبقوا أصحاب النبي ﷺ إلى النجاشيّ، فقالوا، إنه خرج فينا رجل سفَّه عقول قريش وأحلامها، زعم أنه نبيُّ! وإنه بعث إليك رهطًا ليفسدوا عليك قومك، فأحببنا أن نأتيك ونخبرك خبرهم. قال: إن جاءوني نظرت فيما يقولون! فقدم أصحابُ رسول الله ﷺ، فأمُّوا بابَ النجاشي، [[في المطبوعة: "فأقاموا بباب النجاشي"، والصواب المحض من المخطوطة.]] فقالوا: استأذن لأولياء الله! [[في المطبوعة: "فقالوا: أتأذن"، والصواب من المخطوطة. يعني: قالوا لحاجب باب النجاشي، ولذلك جاء الجواب: "فقال: ائذن لهم".]] فقال، ائذن لهم، فمرحبًا بأولياء الله! فلما دخلوا عليه سلَّموا، فقال له الرهط من المشركين: ألا ترى أيها الملك أنا صدقناك؟ لم يحيوك بتحيَّتك التي تحيَّا بها! فقال لهم: ما منعكم أن تحيوني بتحيتي؟ فقالوا: إنا حيَّيناك بتحية أهل الجنة وتحية الملائكة! قال لهم: ما يقول صاحبكم في عيسى وأمه؟ قال يقول:"هو عبد الله، وكلمةٌ من الله ألقاها إلى مريم، وروح منه"، ويقول في مريم:"إنها العذراء البتول". قال: فأخذ عودًا من الأرض فقال: ما زاد عيسى وأمه على ما قال صاحبكم قدر هذا العود! فكره المشركون قوله، وتغيَّرت وجوههم. قال لهم: هل تعرفون شيئًا مما أنزل عليكم؟ قالوا: نعم! قال: اقرأوا! فقرأوا، وهنالك منهم قسيسون ورهبانٌ وسائرُ النصارى، فعرفت كلَّ ما قرأوا وانحدرت دموعهم مما عرفوا من الحق. قال الله تعالى ذكره:"ذلك بأن منهم قسيسين ورهبانًا وأنهم لا يستكبرون وإذا سمعوا ما أنزل إلى الرسول" الآية.
+
+١٢٣١٨ - حدثني محمد بن الحسين قال، حدثني أحمد بن مفضل قال، حدثنا أسباط، عن السدي:"ولتجدن أقربهم مودة للذين آمنوا الذين قالوا إنا نصارى"، الآية. قال: بعث النجاشيّ إلى رسول الله ﷺ اثنى عشر رجلا من الحبشة، سبعة قسيسين وخمسة رهبانًا، ينظرون إليه ويسألونه. فلما لقوه فقرأ عليهم ما أنزل الله بَكَوْا وآمنوا، فأنزل الله عليه فيهم:"وأنهم لا يستكبرون وإذا سمعوا ما أنزل إلى الرسول ترى أعينهم تفيض من الدمع مما عرفوا من الحق يقولون ربنا آمنا فاكتبنا مع الشاهدين"، فآمنوا ثم رجعوا إلى النجاشيّ، فهاجر النجاشي معهم فمات في الطريق، فصلى عليه رسول الله ﷺ والمسلمون واستغفروا له.
+
+١٢٣١٩ - حدثنا القاسم قال، حدثنا الحسين، حدثني حجاج، عن ابن جريج قال، قال عطاء في قوله:"ولتجدن أقربهم مودة للذين آمنوا الذين قالوا إنا نصارى" الآية، هم ناس من الحبشة آمنوا، إذ جاءتهم مهاجِرَةُ المؤمنين.
+
+* *
+
+وقال آخرون: بل هذه صفة قوم كانوا على شريعة عيسى من أهل الإيمان، فلما بعث الله تعالى ذكره نبيَّه محمدًا ﷺ آمنوا به.
+
+ذكر من قال ذلك:
+
+١٢٣٢٠ - حدثنا بشر بن معاذ قال، حدثنا يزيد قال، حدثنا سعيد، عن قتادة قوله:"ولتجدن أقربهم مودة للذين آمنوا"، فقرأ حتى بلغ:"فاكتبنا مع الشاهدين"، أناس من أهل الكتاب كانوا على شريعةٍ من الحق مما جاء به عيسى، يؤمنون به وينتهون إليه. فلما بعث الله نبيه محمدًا ﷺ، صدَّقوا به وآمنوا به، وعرفوا الذي جاء به أنه الحق، فأثنى عليهم ما تسمعون.
+
+* *
+
+قال أبو جعفر: والصواب في ذلك من القول عندي: أنّ الله تعالى وصف صفة قوم قالوا:"إنا نصارى"، أن نبيّ الله ﷺ يجدهم أقربَ الناس وِدادًا لأهل الإيمان بالله ورسوله، ولم يسمِّ لنا أسماءهم. وقد يجوز أن يكون أريد بذلك أصحابُ النجاشي= ويجوز أن يكون أريد به قومٌ كانوا على شريعة عيسى، فأدركهم الإسلام فأسلموا لما سمعوا القرآن وعرفوا أنه الحق، ولم يستكبروا عنه.
+
+* *
+
+وأما قوله تعالى:"ذلك بأنّ منهم قسيسين ورهبانًا"، فإنه يقول: قَرُبت مودَّة هؤلاء الذين وصف الله صفتهم للمؤمنين، من أجل أنّ منهم قسيسين ورهبانًا.
+
+* *
+
+و"القسيسون" جمع"قسيس". وقد يجمع"القسيس"،"قسوسًا"، [[في المطبوعة: "قسوس"، والصواب من المخطوطة.]] لأن"القَسّ" و"القسيس"، بمعنى واحد.
+
+* *
+
+وكان ابن زيد يقول في"القسيس" بما:-
+
+١٢٣٢١ - حدثنا يونس قال، حدثنا ابن وهب قال، قال ابن زيد:"القسيس"، عبَّادُهم. [[في المطبوعة: "القسيسين"، بالجمع، وأثبت ما في المخطوطة، فهو صواب، ولا بأس هنا بشرح المفرد بالجمع.]]
+
+* *
+
+وأما الرهبان، فإنه يكون واحدًا وجمعًا. فأما إذا كان جمعًا، فإن واحدهم يكون"راهبًا"، ويكون"الراهب"، حينئذ"فاعلا" من قول القائل:"رَهب الله فلان"، بمعنى خافه،"يرهبه رَهَبًا ورَهْبَا"، ثم يجمع"الراهب"،"رهبان" مثل"راكب" و"ركبان"، و"فارس" و"فرسان". ومن الدليل على أنه قد يكون عند العرب جمعًا قول الشاعر: [[هو جرير، ونسبه ياقوت في معجم البلدان لكثير عزة، وأدخله في شعره جامع ديوانه ص: ٢٤٠، والصواب أنه لجرير.]]
+
+رُهْبَانُ مَدْيَنَ لَوْ رَأَوْكِ تَنزلُوا ... والْعُصْمُ مِنْ شَعَفِ الْعَقُولِ الفَادِرِ [[ديوانه: ٣٠٥، وسيأتي في التفسير ٢٠: ٣٤ (بولاق) وديوان كثير ١: ٢٤٠، واللسان (رهب) ومعجم البلدان (مدين) ، من قصيدة هجا فيها الأخطل والفرزدق، يقول قبله: يَا أُمَّ طَلْحَةَ، مَا لَقِينَا مِثْلكُمْ ... فِي الْمُنْجِدِينَ ولا بغَوْرِ الغَائِرِ
+
+و"مدين" مدينه شعيب عليه السلام، على بحر القلزم، تجاه تبوك، بين المدينة والشام، ذكرها كثير أيضًا في شعره فقال: اللهُ يَعْلَمُ لَوْ أَرَدْتُ زِيَادَةً ... في حُبِّ عَزَّةَ ما وجدْتُ مَزِيدَا
+
+رُهْبَانُ مَدْيَنَ وَالَّذِينَ عَهِدْتُهُمْ ... يَبْكُونَ مِنْ حَذَر العَذَابِ قُعُودَا
+
+لَوْ يَسْمَعُونَ كَمَا سَمِعْتُ كَلامَها ... خَرُّوا لِعَزَّةَ رُكَّعًا وَسُجُودَا
+
+و"العقول" عندي بفتح العين، من قولهم: "عقل الوعل يعقل عقولا"، امتنع برأس الجبل، فهو"عاقل" وبذلك سمي، والقياس يقبل أيضًا"فهو عقول" (بفتح العين) . وفي الديوان، ضبط بالقلم"العقول" (بضم العين) ، جمع"عقل" (بفتح فسكون) : وهو المعقل والحصن. ولست أرضى ذلك هنا، وروى صاحب المعجم"والعصم في شعف الجبال"، وهي موافقة في المعنى لمن ضبط"العقول" بضم العين، وأرجح أن صواب إنشاده في المعجم"من شعف الجبال". و"الشعف" جمع"شعفة" (بفتحتين) : وهي رأس الجبل. و"الفادر": الوعل العاقل الممتنع في رأس الجبل، وهو حينئذ مسن معتقل في رأس جبله. و"العصم" جمع"أعصم": وهو الوعل. سمى بالصفة الغالبة، لأن في إحدى يديه بياضًا. وذلك أن"العصم" و"العصمة": البياض في الذراعين أو إحداهما.
+
+ولما كان"العصم" جمعًا، أنفت أن أجعل"الفادر" من صفته، لو قرئ"العقول" (بضم العين) بمعنى: الحصون والملاجئ، بل جعلتها بفتح العين، بمعنى أن العصم غير المسنة تنزلت أيضا من المعقل الذي يعقل إليه مسن الوعول امتناعًا من الصيد، لقلة احتفاله بمفارقة معقله، كاحتفال شواب الوعول.]] وقد يكون"الرهبان" واحدًا. وإذا كان واحدًا كان جمعه"رهابين" مثل"قربان" و"قرابين"، و"جُرْدان". و"جرادين". [["الجردان": ما يستحى من ذكره من الإنسان وغيره.]] ويجوز جمعه أيضًا"رهابنة" إذا كان كذلك. ومن الدليل على أنه قد يكون عند العرب واحدا قول الشاعر: [[لم أعرف هذا الراجز.]]
+
+لَوْ عَايَنَتْ رُهْبَانَ دَيْرٍ في الْقُلَلْ ... لانْحَدَرَ الرُّهْبَانُ يَمْشِي وَنزل [[تفسير القرطبي ٦: ٢٥٨، مع اختلاف شديد في الرواية."عاين الشيء معاينة وعيانًا": نظر إليه بعينيه مواجهة. ومنه قيل: "رأيت فلانًا عيانًا" أي: مواجهة. وحق شرح هذا اللفظ هنا أن يقال: لو رمتهم بعينيها مواجهة. و"القلل": جمع"قلة": وهي رأس الجبل، وإنما عنى بذلك صوامع الرهبان في الجبال.]]
+
+* *
+
+واختلف أهل التأويل في المعنيِّ بقوله:"ذلك بأن منهم قسيسين ورهبانًا".
+
+فقال بعضهم: عُني بذلك قوم كانوا استجابوا لعيسى ابن مريم حين دعاهم، واتَّبعوه على شريعته.
+
+ذكر من قال ذلك:
+
+١٢٣٢١م - حدثني يعقوب بن إبراهيم قال، حدثنا هشيم، عن حصين، عمن حدثه، عن ابن عباس في قوله:"ذلك بأن منهم قسيسين ورهبانًا"، قال: كانوا نَوَاتِيَّ في البحر= يعني: ملاحين [[في ابن الأثير ثم في لسان العرب"كانوا نَوَّاتِين، أي ملاحين- تفسيره في الحديث" وكذلك نقله عنهما صاحب تاج العروس. وأنا أخشى أن يكون خطأ من النساخ، وأن صوابه"كانوا نواتى، أي ملاحين"، كما جاء هنا وفي المخطوطة أيضا. ولم أجد أحدًا ذكره كذلك: "نواتا" (بفتح النون وتشديد الواو) ، ولو كان كذلك لتعرض له أصحاب اللغة، ولكنهم لم يذكروه إلا فيما نقلوه عن ابن الأثير، وواحد"النواتى" (بفتح النون والواو المفتوحة غير المشددة) "نوتى" (بضم النون، آخره ياء مشددة) . والذي في مخطوطة الطبري يرجح أن الذي كتبه ابن الأثير، خطأ، أو سهو في قراءة الحرف. وابن الأثير وحده، لا يحتج برواية كتابه غير مقيدة مضبوطة بإسنادها ومصدرها. ثم وجدته بعد أن كتبت هذا، في مجمع الزوائد ٧: ١٧، كما جاء في ابن الأثير واللسان: "نواتين، يعني ملاحين". وذكر هناك الخبر بطوله، وقال: "رواه الطبراني في الأوسط والكبير، وفيه العباس بن الفضل الأنصاري، وهو ضعيف". وهو إسناد غير إسناد أبي جعفر بلا شك، وانظر ابن كثير ٣: ٢١٢، ٢١٣.]] = قال: فمر بهم عيسى ابن مريم، فدعاهم إلى الإسلام فأجابوه: قال: فذلك قوله:"قسيسين ورهبانًا".
+
+* *
+
+وقال آخرون: بل عني بذلك، القوم الذين كان النجاشي بعثهم إلى رسول الله ﷺ.
+
+ذكر من قال ذلك:
+
+١٢٣٢٢ - حدثنا ابن حميد قال، حدثنا حكام بن سلم قال، حدثنا عنبسة، عمن حدثه، عن أبي صالح في قوله:"ذلك بأن منهم قسيسين ورهبانًا"، قال: ستة وستون، أو سبعة وستون، أو ثمان وستون، [[هكذا في المطبوعة: "أو اثنان وستون"، وفي المخطوطة: "اثنان وستون" بغير "أو"، وغير منقوطة، فأرجح أن صواب قراءتها: "أو ثمان وستون" ... وهو الذي يدل عليه السياق، ولذلك أثبتها كذلك.]] من الحبشة، كلهم صاحب صَوْمعة، عليهم ثيابُ الصوف.
+
+١٢٣٢٣ - حدثنا ابن وكيع قال، حدثنا عبد الرحمن بن مهدي، عن سفيان، عن سالم، عن سعيد بن جبير:"ذلك بأن منهم قسيسين ورهبانًا"، قال: بعث النجاشيّ إلى النبي ﷺ خمسين أو سبعين من خيارهم، فجعلوا يبكون، فقال: هم هؤلاء!
+
+١٢٣٢٤ - حدثني الحارث قال، حدثنا عبد العزيز قال، حدثنا قيس، عن سالم الأفطس، عن سعيد بن جبير:"ذلك بأن منهم قسيسين ورهبانًا"، قال: هم رُسُل النجاشي الذين أرسل بإسلامه وإسلام قومه، كانوا سبعين رجلا اختارهم الخيِّرَ فالخيِّرَ، فدخلوا على رسول الله ﷺ، فقرأ عليهم: ﴿يس وَالْقُرْآنِ الْحَكِيمِ﴾ [سورة يس: ١، ٢] ، فبكوا وعرفوا الحق، فأنزل الله فيهم:"ذلك بأن منهم قسيسين ورهبانًا وأنهم لا يستكبرون"، وأنزل فيهم: ﴿الَّذِينَ آتَيْنَاهُمُ الْكِتَابَ مِنْ قَبْلِهِ هُمْ بِهِ يُؤْمِنُونَ﴾ إلى قوله: ﴿يُؤْتَوْنَ أَجْرَهُمْ مَرَّتَيْنِ بِمَا صَبَرُوا﴾ [سورة القصص: ٥٣، ٥٤] .
+
+* *
+
+قال أبو جعفر: والصواب في ذلك من القول عندنا أن يقال: إن الله تعالى ذكره أخبرَ عن النفر الذين أثنى عليهم من النصارى بقرب مودتهم لأهل الإيمان بالله ورسوله، أن ذلك إنما كان منهم لأن منهم أهلَ اجتهاد في العبادة، وترهُّب في الديارات والصوامع، [[في المطبوعة: "وترهيب"، وفي المخطوطة: "وترهب" غير منقوطة، وصواب قراءتها ما أثبت، فإنه لا يقال: "رهب ترهيبًا"، وإنما يقال: "ترهب ترهبًا"، إذا صار راهبًا يخشى الله، ويتعبد في صومعته.]] وأن منهم علماء بكتبهم وأهل تلاوة لها، فهم لا يبعدون من المؤمنين لتواضعهم للحق إذا عرفوه، ولا يستكبرون عن قبوله إذا تبيّنوه، لأنهم أهل دين واجتهاد فيه، ونصيحة لأنفسهم في ذات الله، وليسوا كاليهود الذين قد دَرِبُوا بقتل الأنبياء والرسل، ومعاندة الله في أمره ونهيه، وتحريفِ تنزيله الذي أنزله في كتبه. [[قال الجصاص في أحكام القرآن ٢: ٤٥١: "ومن الجهال من يظن أن في هذه الآية مدحًا للنصارى، وإخبارًا بأنهم خير من اليهود. وليس ذلك كذلك، لأن ما في الآية من ذلك إنما هو صفة قوم قد آمنوا بالله وبالرسول. يدل عليه ما ذكر في نسق التلاوة، من إخبارهم عن أنفسهم بالإيمان بالله والرسول. ومعلوم عند كل ذي فطنة صحيحة أمعن النظر في مقالتي هاتين الطائفتين، أن مقالة النصارى أقبح وأشد استحالة، وأظهر فسادًا من مقالة اليهود. لأن اليهود تقر بالتوحيد في الجملة، وإن كان فيها مشبهة تنقض ما اعت
+
+[TRUNCATED at 12000 chars — 769 more. Consult the source directly before relying on anything near the cut.]
 
 ### al-Muyassar (Arabic)
 
-لتجدنَّ -أيها الرسول- أشدَّ الناس عداوة للذين صدَّقوك وآمنوا بك واتبعوك، اليهودَ؛ لعنادهم، وجحودهم، وغمطهم الحق، والذين أشركوا مع الله غيره، كعبدة الأوثان وغيرهم، ولتجدنَّ أقربهم مودة للمسلمين الذين قالوا: إنا نصارى، ذلك بأن منهم علماء بدينهم متزهدين وعبَّادًا في الصوامع متنسكين، وأنهم متواضعون لا يستكبرون عن قَبول الحق، وهؤلاء هم الذين قبلوا رسالة محمد صلى الله عليه وسلم، وآمنوا بها.
+لتجدنَّ -أيها الرسول- أشدَّ الناس عداوة للذين صدَّقوك وآمنوا بك واتبعوك، اليهودَ؛ لعنادهم، وجحودهم، وغمطهم الحق، والذين أشركوا مع الله غيره، كعبدة الأوثان وغيرهم، ولتجدنَّ أقربهم مودة للمسلمين الذين قالوا: إنا نصارى؛ ذلك بأن منهم علماء بدينهم متزهدين وعبّادًا في الصوامع متنسكين، وأنهم متواضعون لا يستكبرون عن قَبول الحق، وهؤلاء هم الذين قبلوا رسالة محمد ﷺ، وآمنوا بها.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿لَتَجِدَن﴾ يا مُحَمَّد ﴿أشَدّ النّاس عَداوَة لِلَّذِينَ آمَنُوا اليَهُود والَّذِينَ أشْرَكُوا﴾ مِن أهْل مَكَّة لِتَضاعُفِ كُفْرهمْ وجَهْلهمْ وانْهِماكهمْ فِي اتِّباع الهَوى ﴿ولَتَجِدَن أقْرَبهمْ مَوَدَّة لِلَّذِينَ آمَنُوا الَّذِينَ قالُوا إنّا نَصارى ذَلِكَ﴾ أيْ قُرْب مَوَدَّتهمْ لِلْمُؤْمِنِينَ ﴿بِأَنَّ﴾ بِسَبَبِ أنَّ ﴿مِنهُمْ قِسِّيسِينَ﴾ عُلَماء ﴿ورُهْبانًا﴾ عُبّادًا ﴿وأَنَّهُمْ لا يَسْتَكْبِرُونَ﴾ عَنْ اتِّباع الحَقّ كَما يَسْتَكْبِر اليَهُود وأَهْل مَكَّة، نَزَلَتْ فِي وفْد النَّجاشِيّ القادِمِينَ عَلَيْهِ مِن الحَبَشَة قَرَأَ ﷺ سُورَة يس فَبَكَوْا وأَسْلَمُوا وقالُوا ما أشْبَه هَذا بِما كانَ يَنْزِل عَلى عِيسى
 
 ---
 
@@ -31,20 +208,165 @@ Sa`id bin Jubayr, As-Suddi and others said that these Ayat were revealed concern
 
 ### Ibn Kathir (English)
 
+Verily, you will find the strongest among men in enmity to the believers the Jews and those who commit Shirk, and you will find the nearest in love to the believers those who say: "We are Christians." That is because among them are priests and monks, and they are not proud (82)And when they listen to what has been sent down to the Messenger, you see their eyes overflowing with tears because of the truth they have recognized. They say: "Our Lord! We believe; so write us down among the witnesses. (83)"And why should we not believe in Allah and in that which has come to us of the truth? And we wish that our Lord will admit us along with the righteous people. (84)So because of what they said, Allah awarded them with Gardens under which rivers flow, they will abide therein forever. Such is the reward of good-doers (85)But those who disbelieved and belied Our Ayat, they shall be the dwellers of Hell (86)
+
 The Reason Behind Revealing these Ayat
-Sa`id bin Jubayr, As-Suddi and others said that these Ayat were revealed concerning a delegation that An-Najashi (King of Ethiopia) sent to the Prophet in order to hear his words and observe his qualities. When the delegation met with the Prophet and he recited the Qur'an to them, they embraced Islam, cried and were humbled. Then they returned to An-Najashi and told him what happened. `Ata' bin Abi Rabah commented, "They were Ethiopians who embraced Isla...
+
+Sa'id bin Jubayr, As-Suddi and others said that these Ayat were revealed concerning a delegation that An-Najashi (King of Ethiopia) sent to the Prophet ﷺ in order to hear his words and observe his qualities. When the delegation met with the Prophet ﷺ and he recited the Qur'an to them, they embraced Islam, cried and were humbled. Then they returned to An-Najashi and told him what happened. 'Ata' bin Abi Rabah commented, "They were Ethiopians who embraced Islam when the Muslims who migrated to Ethiopia resided among them." Qatadah said, "They were some followers of the religion of 'Isa, son of Maryam, who when they saw Muslims and heard the Qur'an, they became Muslims without hesitation." Ibn Jarir said that these Ayat were revealed concerning some people who fit this description, whether they were from Ethiopia or otherwise. Allah said,
+
+لَتَجِدَنَّ أَشَدَّ النَّاسِ عَدَاوَةً لِّلَّذِينَ آمَنُوا الْيَهُودَ وَالَّذِينَ أَشْرَكُوا
+
+(Verily, you will find the strongest among men in enmity to the believers the Jews and those who commit Shirk,)
+
+This describes the Jews, since their disbelief is that of rebellion, defiance, opposing the truth, belittling other, people and degrading the scholars. This is why the Jews - may Allah's continued curses descend on them until the Day of Resurrection - killed many of their Prophets and tried to kill the Messenger of Allah ﷺ several times, as well as, performing magic spells against him and poisoning him. They also incited their likes among the polytheists against the Prophet ﷺ. Allah's statement,
+
+وَلَتَجِدَنَّ أَقْرَبَهُم مَّوَدَّةً لِّلَّذِينَ آمَنُوا الَّذِينَ قَالُوا إِنَّا نَصَارَىٰ
+
+(and you will find the nearest in love to the believers those who say: "We are Christians.") refers to those who call themselves Christians, who follow the religion of the Messiah and the teachings of his Injil. These people are generally more tolerant of Islam and its people, because of the mercy and kindness that their hearts acquired through part of the Messiah's religion. In another Ayah, Allah said;
+
+وَجَعَلْنَا فِي قُلُوبِ الَّذِينَ اتَّبَعُوهُ رَأْفَةً وَرَحْمَةً وَرَهْبَانِيَّةً
+
+(And We ordained in the hearts of those who followed him, compassion, mercy, and monasticism...)[57:27].
+
+In their book is the saying; "He who strikes you on the right cheek, then turn the left cheek for him." And fighting was prohibited in their creed, and this is why Allah said,
+
+ذَٰلِكَ بِأَنَّ مِنْهُمْ قِسِّيسِينَ وَرُهْبَانًا وَأَنَّهُمْ لَا يَسْتَكْبِرُونَ
+
+(That is because among them are Qissisin (priests) and Ruhban (monks), and they are not proud.)
+
+This means that among them are Qissisin (priests). The word Ruhban refers to one dedicated to worship. Allah said,
+
+ذَٰلِكَ بِأَنَّ مِنْهُمْ قِسِّيسِينَ وَرُهْبَانًا وَأَنَّهُمْ لَا يَسْتَكْبِرُونَ
+
+(That is because among them are priests and monks, and they are not proud.) This describes them with knowledge, worship and humbleness, along with following the truth and fairness.
+
+وَإِذَا سَمِعُوا مَا أُنزِلَ إِلَى الرَّسُولِ تَرَىٰ أَعْيُنَهُمْ تَفِيضُ مِنَ الدَّمْعِ مِمَّا عَرَفُوا مِنَ الْحَقِّ
+
+(And when they listen to what has been sent down to the Messenger, you see their eyes overflowing with tears because of the truth they have recognized.)
+
+This refers to the good news that they have about the advent of Muhammad ﷺ,
+
+يَقُولُونَ رَبَّنَا آمَنَّا فَاكْتُبْنَا مَعَ الشَّاهِدِينَ
+
+(They say: "Our Lord! We believe; so write us down among the witnesses.") who testify to the truth and believe in it.
+
+وَمَا لَنَا لَا نُؤْمِنُ بِاللَّهِ وَمَا جَاءَنَا مِنَ الْحَقِّ وَنَطْمَعُ أَن يُدْخِلَنَا رَبُّنَا مَعَ الْقَوْمِ الصَّالِحِينَ
+
+("And why should we not believe in Allah and in that which has come to us of the truth And We wish that our Lord will admit us (in Paradise) along with the righteous people.") Such sect of Christians are those mentioned in Allah's statement,
+
+وَإِنَّ مِنْ أَهْلِ الْكِتَابِ لَمَن يُؤْمِنُ بِاللَّهِ وَمَا أُنزِلَ إِلَيْكُمْ وَمَا أُنزِلَ إِلَيْهِمْ خَاشِعِينَ لِلَّهِ
+
+(And there are, certainly, among the People of the Scripture, those who believe in Allah and in that which has been revealed to you, and in that which has been revealed to them, humbling themselves before Allah.)[3:199] and,
+
+الَّذِينَ آتَيْنَاهُمُ الْكِتَابَ مِن قَبْلِهِ هُم بِهِ يُؤْمِنُونَ - وَإِذَا يُتْلَىٰ عَلَيْهِمْ قَالُوا آمَنَّا بِهِ إِنَّهُ الْحَقُّ مِن رَّبِّنَا إِنَّا كُنَّا مِن قَبْلِهِ مُسْلِمِينَ
+
+(Those to whom We gave the Scripture before it, they believe in it (the Qur'an). And when it is recited to them, they say, "We believe in it. Verily, it is the truth from our Lord. Indeed even before it we were Muslims")[28:52-53], until,
+
+لَا نَبْتَغِي الْجَاهِلِينَ
+
+("We seek not the ignorant.")[28:55] This is why Allah said here,
+
+فَأَثَابَهُمُ اللَّهُ بِمَا قَالُوا
+
+(So because of what they said, Allah awarded them...) rewarding them for embracing the faith and recognizing and believing in the truth,
+
+جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا
+
+(Gardens under which rivers flow (in Paradise), they will abide therein forever.) and they will never be removed from it, for they will dwell and remain in it forever and ever,
+
+وَذَٰلِكَ جَزَاءُ الْمُحْسِنِينَ
+
+(Such is the reward of good-doers) who follow the truth and obey it wherever, whenever and with whomever they find it. Allah then describes the condition of the miserable.
+
+وَالَّذِينَ كَفَرُوا وَكَذَّبُوا بِآيَاتِنَا
+
+(But those who disbelieved and belied Our Ayat,) defied and opposed them,
+
+أُولَٰئِكَ أَصْحَابُ الْجَحِيمِ
+
+(they shall be the dwellers of the (Hell) Fire.) For they are the people of the Fire who will enter and reside in it (eternally).
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله :  وَإِذَا سَمِعُوا مَا أُنْزِلَ إِلَى الرَّسُولِ تَرَى أَعْيُنَهُمْ تَفِيضُ مِنَ الدَّمْعِ مِمَّا عَرَفُوا مِنَ الْحَقِّ يَقُولُونَ رَبَّنَا آمَنَّا فَاكْتُبْنَا مَعَ الشَّاهِدِينَ (83)قال أبو جعفر: يقول تعالى ذكره: وإذا سمع هؤلاء الذين قالوا:  إِنَّا نَصَارَى  = الذين وصفت لك، يا محمد، صفتهم أنك تجدهم أقرب الناس مودة للذين آمنوا= (1) ما أنـزل إليك من الكتاب يُتْلى=" ترى أعينهم تفيض من الدمع ".* * *و " فيض العين من الدمع "، امتلاؤها منه، ثم سيلانه منها، كفيض النهر من الما...
+القول في تأويل قوله: ﴿وَإِذَا سَمِعُوا مَا أُنزلَ إِلَى الرَّسُولِ تَرَى أَعْيُنَهُمْ تَفِيضُ مِنَ الدَّمْعِ مِمَّا عَرَفُوا مِنَ الْحَقِّ يَقُولُونَ رَبَّنَا آمَنَّا فَاكْتُبْنَا مَعَ الشَّاهِدِينَ (٨٣) ﴾
+
+قال أبو جعفر: يقول تعالى ذكره: وإذا سمع هؤلاء الذين قالوا:"إنا نَصَارى" = الذين وصفت لك، يا محمد، صفتهم أنك تجدهم أقرب الناس مودة للذين آمنوا= [[سياق الكلام: "إذا سمع هؤلاء ... ما أنزل إليك من الكتاب يتلى"، وما بين الفعل ومفعوله فصل طويل.]] ما أنزل إليك من الكتاب يُتْلى="ترى أعينهم تفيض من الدمع".
+
+* *
+
+و"فيض العين من الدمع"، امتلاؤها منه، ثم سيلانه منها، كفيض النهر من الماء، وفيض الإناء، وذلك سيلانه عن شدة امتلائه، ومنه قول الأعشى:
+
+ففَاضَتْ دُمُوعِي، فَظَلَّ الشُّئُونُ: ... إمَّا وَكِيفًا، وَإِمَّا انْحِدَارَا [[ديوانه: ٣٥. من قصيدته في قيس بن معد يكرب الكندي، وقبل البيت، وهو أولها: أَأَزْمَعْتَ مِنْ آلِ لَيْلَى ابْتِكَارَا ... وَشَطَّتْ عَلَى ذِي هَوًى أن تُزَارَا
+
+وَبَانَتْ بِهَا غَرَبَاتُ النَّوَى ... وَبُدِّلْتُ شَوْقًا بِهَا وَادِّكَارَا
+
+فَفَاضَتْ دْمُوعِي........... ... . . . . . . . . . . . . . . . . . . .
+
+كَمَا أَسْلَمَ السِّلْكُ مِنْ نَظْمِهِ ... لآلِئَ مُنْحَدِرَاتٍ صِغَارَا
+
+وكان البيت في المخطوطة والمطبوعة: "ففاضت دموعي فطل الشئون داما حدارًا"، وهو خطأ محض."والشئون" جمع"شأن"، وهو مجرى الدمع إلى العين، وهي عروقها. ورواية الديوان: "كفيض الغروب"، و"الغروب" جمع"غرب" (بفتح فسكون) ، وهو الدلو الكبير الذي يستقى به على السانية. وقوله: "فظل" بالظاء المعجمة، لا بالطاء. وقد أفسد وأخطأ من جعله بالطاء المهملة، وشرحه على ذلك. وهو غث جدًا. و"الوكيف": أن يسيل الدمع قليلا قليلا، إنما يقطر قطرًا."وكف الدمع يكف وكفًا ووكيفًا". وأما "انحدار الدمع"، فهو سيلانه متتابعا، كما ينصب الماء من حدور.]]
+
+وقوله:"مما عرفوا من الحق"، يقول: فيض دموعهم، لمعرفتهم بأنّ الذي يتلى عليهم من كتاب الله الذي أنزله إلى رسول الله حقٌّ، كما:-
+
+١٢٣٢٥ - حدثنا هناد بن السري قال، حدثنا يونس بن بكير قال، حدثنا أسباط بن نصر الهمداني، عن إسماعيل بن عبد الرحمن السديّ قال: بعث النجاشي إلى النبيّ ﷺ اثنى عشر رجلا يسألونه ويأتونه بخبره، فقرأ عليهم رسول الله ﷺ القرآن، فبكوا. وكان منهم سبعة رهبانٍ وخمسة قسيسين [[في المطبوعة: "وخمسة قسيسون"، وأثبت ما في المخطوطة، وهو صواب محض.]] = أو: خمسة رهبان، وسبعة قسيسين [[في المخطوطة: "أو سبعة" دون ذكر"قسيسين"، ولكنها زيادة لا غنى عنها. وصوابها أيضا"وسبعة" بالواو.]] = فأنزل الله فيهم:"وإذا سمعوا ما أنزل إلى الرسول ترى أعينهم تفيض من الدمع"، إلى آخر الآية.
+
+١٢٣٢٦ - حدثنا عمرو بن علي قال، حدثنا عمر بن علي بن مقدّم قال، سمعت هشام بن عروة يحدث، عن أبيه، عن عبد الله بن الزبير قال: نزلت في النجاشي وأصحابه:"وإذا سمعوا ما أنزل إلى الرسول ترى أعينهم تفيض من الدمع". [[الأثر: ١٢٣٢٦-"عمر بن علي بن مقدم"، هو: "عمر بن علي بن عطاء بن مقدم المقدمي". ثقة، ولكنه كان يدلس. قال ابن سعد: "كان ثقة، وكان يدلس تدليسًا شديدا، يقول: سمعت، وحدثنا، ثم يسكت فيقول: هشام بن عروة، والأعمش. وقال: كان رجلا صالحًا، ولم يكونوا ينقمون عليه غير التدليس، وأما غير ذلك فلا، ولم أكن أقبل منه حتى يقول حدثنا". مترجم في التهذيب.]]
+
+١٢٣٢٧ - حدثنا هناد قال، حدثنا عبدة بن سليمان، عن هشام بن عروة، عن أبيه في قوله:"ترى أعينهم تفيض من الدمع مما عرفوا من الحق"، قال: ذلك في النجاشي.
+
+١٢٣٢٨ - حدثنا هناد وابن وكيع قالا حدثنا أبو معاوية، عن هشام بن عروة، عن أبيه قال: كانوا يُرَوْن أن هذه الآية أنزلت في النجاشي:"وإذا سمعوا ما أنزل إلى الرسول ترى أعينهم تفيض من الدمع".
+
+١٢٣٢٩ - حدثنا هناد قال، حدثنا يونس بن بكير قال، قال ابن إسحاق: سألت الزهري عن الآيات:"ذلك بأن منهم قسيسين ورهبانًا وأنهم لا يستكبرون وإذا سمعوا ما أنزل إلى الرسول ترى أعينهم تفيض من الدمع" الآية، وقوله: ﴿وَإِذَا خَاطَبَهُمُ الْجَاهِلُونَ قَالُوا سَلامًا﴾ [سورة الفرقان: ٦٣] . قال: ما زلت أسمع علماءنا يقولون: نزلت في النجاشي وأصحابه. [[الأثر: ١٢٣٢٩- سيرة ابن هشام ٢: ٣٣، ولكن ليس فيه ذكر آية سورة الفرقان التي ذكرها أبو جعفر في هذه الرواية عن ابن إسحق. ثم إن أبا جعفر لم يذكر هذا الخبر في تفسير الآية من سورة الفرقان ١٩: ٢١، ٢٢ (بولاق) ، ولا أشار إلى أنها نزلت في أحد، لا النساشي وأصحابه ولا غيرهم.]]
+
+* *
+
+وأما قوله:"يقولون"، فإنه لو كان بلفظ اسم، كان نصبًا على الحال، لأن معنى الكلام: وإذا سمعوا ما أنزل إلى الرسول ترى أعينهم تفيض من الدمع مما عرفوا من الحق، قائلين:"ربنا آمنا".
+
+* *
+
+ويعني بقوله تعالى ذكره:"يقولون ربنا آمنا"، أنهم يقولون: يا ربنا، صدَّقنا لما سمعنا ما أنزلته إلى نبيك محمد ﷺ من كتابك، وأقررنا به أنه من عندك، وأنه الحق لا شك فيه.
+
+* *
+
+وأما قوله:"فاكتبنا مع الشاهدين"، فإنه روي عن ابن عباس وغيره في تأويله، ما:-
+
+١٢٣٣٠ - حدثنا به هناد قال، حدثنا وكيع= وحدثنا ابن وكيع قال، حدثنا أبي وابن نمير= جميعًا، عن إسرائيل، عن سماك، عن عكرمة، عن ابن عباس في قوله:"اكتبنا مع
+
+الشاهدين"، قال: أمة محمد ﷺ.
+
+١٢٣٣١ - حدثنا القاسم قال، حدثنا الحسين قال، حدثني حجاج، عن ابن جريج:"فاكتبنا مع الشاهدين"، مع أمّة محمد ﷺ.
+
+١٢٣٣٢ - حدثني المثنى قال، حدثنا عبد الله بن صالح قال، حدثني معاوية، عن علي بن أبي طلحة، عن ابن عباس:"فاكتبنا مع الشاهدين"، يعنون بـ"الشاهدين"، محمدًا ﷺ وأمَّته.
+
+١٢٣٣٣ - حدثني الحارث قال، حدثنا عبد العزيز قال، حدثنا إسرائيل، عن سماك، عن عكرمة، عن ابن عباس في قوله:"فاكتبنا مع الشاهدين"، قال: محمد ﷺ وأمته، إنهم شهدوا أنه قد بلَّغ، وشهدوا أن الرسل قد بلغت.
+
+١٢٣٣٤ - حدثنا الربيع قال، حدثنا أسد بن موسى قال، حدثنا يحيى بن زكريا قال، حدثني إسرائيل، عن سماك، عن عكرمة، عن ابن عباس، مثل حديث الحارث بن عبد العزيز= غير أنه قال: وشهدوا للرسل أنهم قد بلَّغوا. [[الآثار: ١٢٣٣٠- ١٢٣٣٤- رواه الحاكم في المستدرك ٢: ٣١٣، من طريق يحيى بن آدم عن إسرائيل، بمثله، ثم قال: "هذا حديث صحيح الإسناد ولم يخرجاه" ووافقه الذهبي. وخرجه الهيثمي في مجمع الزوائد ٧: ١٨، وقال: "رواه الطبراني عن شيخه عبد الله بن أبي مريم، وهو ضعيف"، ولكن هذه أسانيد صحاح، رواها الطبري وغيره.]]
+
+* *
+
+قال أبو جعفر: فكأنّ متأوِّل هذا التأويل، قصد بتأويله هذا إلى معنى قول الله تعالى ذكره: ﴿وَكَذَلِكَ جَعَلْنَاكُمْ أُمَّةً وَسَطًا لِتَكُونُوا شُهَدَاءَ عَلَى النَّاسِ وَيَكُونَ الرَّسُولُ عَلَيْكُمْ شَهِيدًا﴾ [سورة البقرة: ١٤٣] . فذهب ابن عباس إلى أن"الشاهدين"، هم"الشهداء" في قوله:"لتكونوا شهداء على الناس"، وهم أمة محمد ﷺ. [[انظر ما سلف من تفسير آية سورة البقرة ٣: ١٤١- ١٥٥.]]
+
+* *
+
+وإذا كان التأويل ذلك، كان معنى الكلام:"يقولون ربنا آمنا فاكتبنا مع الشاهدين"، الذين يشهدون لأنبيائك يوم القيامة، أنهم قد بلغوا أممهم رسالاتك.
+
+* *
+
+ولو قال قائل: معنى ذلك:"فاكتبتا مع الشاهدين"، الذين يشهدون أن ما أنزلته إلى رسولك من الكتب حق= كان صوابًا. لأن ذلك خاتمة قوله:"وإذا سمعوا ما أنزل إلى الرسول ترى أعينهم تفيض من الدمع مما عرفوا من الحق يقولون ربنا آمنا فاكتبنا مع الشاهدين"، وذلك صفة من الله تعالى ذكره لهم بإيمانهم لما سمعوا من كتاب الله، فتكون مسألتهم أيضا اللهَ أن يجعلهم ممن صحَّت عنده شهادتهم بذلك، ويُلْحقهم في الثوابِ والجزاء منازلَهُم.
+
+ومعنى"الكتاب،" في هذا الموضع: الجَعْل. [[انظر تفسير"الكتاب" فيما سلف من فهارس اللغة، (كتب) .]]
+
+* *
+
+يقول: فاجعلنا مع الشاهدين، وأثبتنا معهم في عِدَادهم.
 
 ### al-Muyassar (Arabic)
 
-ومما يدل على قرب مودتهم للمسلمين أن فريقًا منهم (وهم وفد الحبشة لما سمعوا القرآن) فاضت أعينهم من الدمع فأيقنوا أنه حقٌّ منزل من عند الله تعالى، وصدَّقوا بالله واتبعوا رسوله، وتضرعوا إلى الله أن يكرمهم بشرف الشهادة مع أمَّة محمد عليه السلام على الأمم يوم القيامة.
+ومما يدلُّ على قرب مودتهم للمسلمين أن فريقًا منهم [وهم وفد الحبشة لما سمعوا القرآن] فاضت أعينهم من الدمع فأيقنوا أنه حقٌّ منزل من عند الله تعالى، وصدَّقوا بالله واتبعوا رسوله، وتضرعوا إلى الله أن يكرمهم بشرف الشهادة مع أمَّة محمد -عليه السلام- على الأمم يوم القيامة.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿وإذا سَمِعُوا ما أُنْزِلَ إلى الرَّسُول﴾ مِن القُرْآن ﴿تَرى أعْيُنهمْ تَفِيض مِن الدَّمْع مِمّا عَرَفُوا مِن الحَقّ يَقُولُونَ رَبّنا آمَنّا﴾ صَدَّقْنا بِنَبِيِّك وكِتابك ﴿فاكْتُبْنا مَعَ الشّاهِدِينَ﴾ المُقَرَّبِينَ بِتَصْدِيقِهِمْ
 
 ---
 
@@ -52,20 +374,111 @@ Sa`id bin Jubayr, As-Suddi and others said that these Ayat were revealed concern
 
 ### Ibn Kathir (English)
 
+Verily, you will find the strongest among men in enmity to the believers the Jews and those who commit Shirk, and you will find the nearest in love to the believers those who say: "We are Christians." That is because among them are priests and monks, and they are not proud (82)And when they listen to what has been sent down to the Messenger, you see their eyes overflowing with tears because of the truth they have recognized. They say: "Our Lord! We believe; so write us down among the witnesses. (83)"And why should we not believe in Allah and in that which has come to us of the truth? And we wish that our Lord will admit us along with the righteous people. (84)So because of what they said, Allah awarded them with Gardens under which rivers flow, they will abide therein forever. Such is the reward of good-doers (85)But those who disbelieved and belied Our Ayat, they shall be the dwellers of Hell (86)
+
 The Reason Behind Revealing these Ayat
-Sa`id bin Jubayr, As-Suddi and others said that these Ayat were revealed concerning a delegation that An-Najashi (King of Ethiopia) sent to the Prophet in order to hear his words and observe his qualities. When the delegation met with the Prophet and he recited the Qur'an to them, they embraced Islam, cried and were humbled. Then they returned to An-Najashi and told him what happened. `Ata' bin Abi Rabah commented, "They were Ethiopians who embraced Isla...
+
+Sa'id bin Jubayr, As-Suddi and others said that these Ayat were revealed concerning a delegation that An-Najashi (King of Ethiopia) sent to the Prophet ﷺ in order to hear his words and observe his qualities. When the delegation met with the Prophet ﷺ and he recited the Qur'an to them, they embraced Islam, cried and were humbled. Then they returned to An-Najashi and told him what happened. 'Ata' bin Abi Rabah commented, "They were Ethiopians who embraced Islam when the Muslims who migrated to Ethiopia resided among them." Qatadah said, "They were some followers of the religion of 'Isa, son of Maryam, who when they saw Muslims and heard the Qur'an, they became Muslims without hesitation." Ibn Jarir said that these Ayat were revealed concerning some people who fit this description, whether they were from Ethiopia or otherwise. Allah said,
+
+لَتَجِدَنَّ أَشَدَّ النَّاسِ عَدَاوَةً لِّلَّذِينَ آمَنُوا الْيَهُودَ وَالَّذِينَ أَشْرَكُوا
+
+(Verily, you will find the strongest among men in enmity to the believers the Jews and those who commit Shirk,)
+
+This describes the Jews, since their disbelief is that of rebellion, defiance, opposing the truth, belittling other, people and degrading the scholars. This is why the Jews - may Allah's continued curses descend on them until the Day of Resurrection - killed many of their Prophets and tried to kill the Messenger of Allah ﷺ several times, as well as, performing magic spells against him and poisoning him. They also incited their likes among the polytheists against the Prophet ﷺ. Allah's statement,
+
+وَلَتَجِدَنَّ أَقْرَبَهُم مَّوَدَّةً لِّلَّذِينَ آمَنُوا الَّذِينَ قَالُوا إِنَّا نَصَارَىٰ
+
+(and you will find the nearest in love to the believers those who say: "We are Christians.") refers to those who call themselves Christians, who follow the religion of the Messiah and the teachings of his Injil. These people are generally more tolerant of Islam and its people, because of the mercy and kindness that their hearts acquired through part of the Messiah's religion. In another Ayah, Allah said;
+
+وَجَعَلْنَا فِي قُلُوبِ الَّذِينَ اتَّبَعُوهُ رَأْفَةً وَرَحْمَةً وَرَهْبَانِيَّةً
+
+(And We ordained in the hearts of those who followed him, compassion, mercy, and monasticism...)[57:27].
+
+In their book is the saying; "He who strikes you on the right cheek, then turn the left cheek for him." And fighting was prohibited in their creed, and this is why Allah said,
+
+ذَٰلِكَ بِأَنَّ مِنْهُمْ قِسِّيسِينَ وَرُهْبَانًا وَأَنَّهُمْ لَا يَسْتَكْبِرُونَ
+
+(That is because among them are Qissisin (priests) and Ruhban (monks), and they are not proud.)
+
+This means that among them are Qissisin (priests). The word Ruhban refers to one dedicated to worship. Allah said,
+
+ذَٰلِكَ بِأَنَّ مِنْهُمْ قِسِّيسِينَ وَرُهْبَانًا وَأَنَّهُمْ لَا يَسْتَكْبِرُونَ
+
+(That is because among them are priests and monks, and they are not proud.) This describes them with knowledge, worship and humbleness, along with following the truth and fairness.
+
+وَإِذَا سَمِعُوا مَا أُنزِلَ إِلَى الرَّسُولِ تَرَىٰ أَعْيُنَهُمْ تَفِيضُ مِنَ الدَّمْعِ مِمَّا عَرَفُوا مِنَ الْحَقِّ
+
+(And when they listen to what has been sent down to the Messenger, you see their eyes overflowing with tears because of the truth they have recognized.)
+
+This refers to the good news that they have about the advent of Muhammad ﷺ,
+
+يَقُولُونَ رَبَّنَا آمَنَّا فَاكْتُبْنَا مَعَ الشَّاهِدِينَ
+
+(They say: "Our Lord! We believe; so write us down among the witnesses.") who testify to the truth and believe in it.
+
+وَمَا لَنَا لَا نُؤْمِنُ بِاللَّهِ وَمَا جَاءَنَا مِنَ الْحَقِّ وَنَطْمَعُ أَن يُدْخِلَنَا رَبُّنَا مَعَ الْقَوْمِ الصَّالِحِينَ
+
+("And why should we not believe in Allah and in that which has come to us of the truth And We wish that our Lord will admit us (in Paradise) along with the righteous people.") Such sect of Christians are those mentioned in Allah's statement,
+
+وَإِنَّ مِنْ أَهْلِ الْكِتَابِ لَمَن يُؤْمِنُ بِاللَّهِ وَمَا أُنزِلَ إِلَيْكُمْ وَمَا أُنزِلَ إِلَيْهِمْ خَاشِعِينَ لِلَّهِ
+
+(And there are, certainly, among the People of the Scripture, those who believe in Allah and in that which has been revealed to you, and in that which has been revealed to them, humbling themselves before Allah.)[3:199] and,
+
+الَّذِينَ آتَيْنَاهُمُ الْكِتَابَ مِن قَبْلِهِ هُم بِهِ يُؤْمِنُونَ - وَإِذَا يُتْلَىٰ عَلَيْهِمْ قَالُوا آمَنَّا بِهِ إِنَّهُ الْحَقُّ مِن رَّبِّنَا إِنَّا كُنَّا مِن قَبْلِهِ مُسْلِمِينَ
+
+(Those to whom We gave the Scripture before it, they believe in it (the Qur'an). And when it is recited to them, they say, "We believe in it. Verily, it is the truth from our Lord. Indeed even before it we were Muslims")[28:52-53], until,
+
+لَا نَبْتَغِي الْجَاهِلِينَ
+
+("We seek not the ignorant.")[28:55] This is why Allah said here,
+
+فَأَثَابَهُمُ اللَّهُ بِمَا قَالُوا
+
+(So because of what they said, Allah awarded them...) rewarding them for embracing the faith and recognizing and believing in the truth,
+
+جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا
+
+(Gardens under which rivers flow (in Paradise), they will abide therein forever.) and they will never be removed from it, for they will dwell and remain in it forever and ever,
+
+وَذَٰلِكَ جَزَاءُ الْمُحْسِنِينَ
+
+(Such is the reward of good-doers) who follow the truth and obey it wherever, whenever and with whomever they find it. Allah then describes the condition of the miserable.
+
+وَالَّذِينَ كَفَرُوا وَكَذَّبُوا بِآيَاتِنَا
+
+(But those who disbelieved and belied Our Ayat,) defied and opposed them,
+
+أُولَٰئِكَ أَصْحَابُ الْجَحِيمِ
+
+(they shall be the dwellers of the (Hell) Fire.) For they are the people of the Fire who will enter and reside in it (eternally).
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله :  وَمَا لَنَا لا نُؤْمِنُ بِاللَّهِ وَمَا جَاءَنَا مِنَ الْحَقِّ وَنَطْمَعُ أَنْ يُدْخِلَنَا رَبُّنَا مَعَ الْقَوْمِ الصَّالِحِينَ (84)قال أبو جعفر: وهذا خبرٌ من الله تعالى ذكره عن هؤلاء القوم الذين وصَف صفتهم في هذه الآيات، أنهم إذا سمعوا ما أنـزل إلى رسوله محمد صلى الله عليه وسلم من كتابه، آمنوا به وصدّقوا كتاب الله، وقالوا: " ما لنا لا نؤمن بالله "، يقول: لا نقرّ بوحدانية الله=" وما جاءَنا من الحق "، يقول: وما جاءنا من عند الله من كتابه وآي تنـزيله، ونحن نطمَعُ بإيمانن...
+القول في تأويل قوله: ﴿وَمَا لَنَا لا نُؤْمِنُ بِاللَّهِ وَمَا جَاءَنَا مِنَ الْحَقِّ وَنَطْمَعُ أَنْ يُدْخِلَنَا رَبُّنَا مَعَ الْقَوْمِ الصَّالِحِينَ (٨٤) ﴾
+
+قال أبو جعفر: وهذا خبرٌ من الله تعالى ذكره عن هؤلاء القوم الذين وصَف صفتهم في هذه الآيات، أنهم إذا سمعوا ما أنزل إلى رسوله محمد ﷺ من كتابه، آمنوا به وصدّقوا كتاب الله، وقالوا:"ما لنا لا نؤمن بالله"، يقول: لا نقرّ بوحدانية الله="وما جاءَنا من الحق"، يقول: وما جاءنا من عند الله من كتابه وآي تنزيله، ونحن نطمَعُ بإيماننا بذلك أن يدخلنا ربُّنا مع القوم الصالحين.
+
+* *
+
+يعني بـ"القوم الصالحين"، المؤمنين بالله، المطيعين له، الذين استحقُّوا من الله الجنة بطاعتهم إياه. [[انظر تفسير"الصالح" فيما سلف ٨: ٥٣٢، تعليق: ٢، والمراجع هناك.]]
+
+وإنما معنى ذلك: ونحن نطمعُ أن يدخلَنا ربُّنا مع أهل طاعته مداخلَهم من جنته يوم القيامة، ويلحق منازلَنا بمنازلهم، ودرجاتنا بدرجاتهم في جنَّاته.
+
+* *
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+١٢٣٣٥ - حدثني يونس بن عبد الأعلى قال، أخبرنا ابن وهب قال، قال ابن زيد في قوله:"وما لنا لا نؤمن بالله وما جاءنا من الحق ونطمع أن يدخلنا ربنا مع القوم الصالحين"، قال:"القومُ الصالحون"، رسولُ الله ﷺ وأصحابُه.
 
 ### al-Muyassar (Arabic)
 
-وقالوا: وأيُّ لوم علينا في إيماننا بالله، وتصديقنا بالحق الذي جاءنا به محمد صلى الله عليه وسلم من عند الله، واتباعنا له، ونرجو أن يدخلنا ربنا مع أهل طاعته في جنته يوم القيامة؟
+وقالوا: وأيُّ لوم علينا في إيماننا بالله، وتصديقنا بالحق الذي جاءنا به محمد ﷺ من عند الله، واتباعِنا له، ونرجو أن يدخلنا ربنا مع أهل طاعته في جنته يوم القيامة؟
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿و﴾ قالُوا فِي جَواب مَن عَيَّرَهُمْ بِالإسْلامِ مِن اليَهُود ﴿ما لَنا لا نُؤْمِن بِاللَّهِ وما جاءَنا مِن الحَقّ﴾ القُرْآن أيْ لا مانِع لَنا مِن الإيمان مَعَ وُجُود مُقْتَضِيه ﴿ونَطْمَع﴾ عُطِفَ عَلى نُؤْمِن ﴿أنْ يُدْخِلنا رَبّنا مَعَ القَوْم الصّالِحِينَ﴾ المُؤْمِنِينَ الجَنَّة
 
 ---
 
@@ -73,19 +486,104 @@ Sa`id bin Jubayr, As-Suddi and others said that these Ayat were revealed concern
 
 ### Ibn Kathir (English)
 
+Verily, you will find the strongest among men in enmity to the believers the Jews and those who commit Shirk, and you will find the nearest in love to the believers those who say: "We are Christians." That is because among them are priests and monks, and they are not proud (82)And when they listen to what has been sent down to the Messenger, you see their eyes overflowing with tears because of the truth they have recognized. They say: "Our Lord! We believe; so write us down among the witnesses. (83)"And why should we not believe in Allah and in that which has come to us of the truth? And we wish that our Lord will admit us along with the righteous people. (84)So because of what they said, Allah awarded them with Gardens under which rivers flow, they will abide therein forever. Such is the reward of good-doers (85)But those who disbelieved and belied Our Ayat, they shall be the dwellers of Hell (86)
+
 The Reason Behind Revealing these Ayat
-Sa`id bin Jubayr, As-Suddi and others said that these Ayat were revealed concerning a delegation that An-Najashi (King of Ethiopia) sent to the Prophet in order to hear his words and observe his qualities. When the delegation met with the Prophet and he recited the Qur'an to them, they embraced Islam, cried and were humbled. Then they returned to An-Najashi and told him what happened. `Ata' bin Abi Rabah commented, "They were Ethiopians who embraced Isla...
+
+Sa'id bin Jubayr, As-Suddi and others said that these Ayat were revealed concerning a delegation that An-Najashi (King of Ethiopia) sent to the Prophet ﷺ in order to hear his words and observe his qualities. When the delegation met with the Prophet ﷺ and he recited the Qur'an to them, they embraced Islam, cried and were humbled. Then they returned to An-Najashi and told him what happened. 'Ata' bin Abi Rabah commented, "They were Ethiopians who embraced Islam when the Muslims who migrated to Ethiopia resided among them." Qatadah said, "They were some followers of the religion of 'Isa, son of Maryam, who when they saw Muslims and heard the Qur'an, they became Muslims without hesitation." Ibn Jarir said that these Ayat were revealed concerning some people who fit this description, whether they were from Ethiopia or otherwise. Allah said,
+
+لَتَجِدَنَّ أَشَدَّ النَّاسِ عَدَاوَةً لِّلَّذِينَ آمَنُوا الْيَهُودَ وَالَّذِينَ أَشْرَكُوا
+
+(Verily, you will find the strongest among men in enmity to the believers the Jews and those who commit Shirk,)
+
+This describes the Jews, since their disbelief is that of rebellion, defiance, opposing the truth, belittling other, people and degrading the scholars. This is why the Jews - may Allah's continued curses descend on them until the Day of Resurrection - killed many of their Prophets and tried to kill the Messenger of Allah ﷺ several times, as well as, performing magic spells against him and poisoning him. They also incited their likes among the polytheists against the Prophet ﷺ. Allah's statement,
+
+وَلَتَجِدَنَّ أَقْرَبَهُم مَّوَدَّةً لِّلَّذِينَ آمَنُوا الَّذِينَ قَالُوا إِنَّا نَصَارَىٰ
+
+(and you will find the nearest in love to the believers those who say: "We are Christians.") refers to those who call themselves Christians, who follow the religion of the Messiah and the teachings of his Injil. These people are generally more tolerant of Islam and its people, because of the mercy and kindness that their hearts acquired through part of the Messiah's religion. In another Ayah, Allah said;
+
+وَجَعَلْنَا فِي قُلُوبِ الَّذِينَ اتَّبَعُوهُ رَأْفَةً وَرَحْمَةً وَرَهْبَانِيَّةً
+
+(And We ordained in the hearts of those who followed him, compassion, mercy, and monasticism...)[57:27].
+
+In their book is the saying; "He who strikes you on the right cheek, then turn the left cheek for him." And fighting was prohibited in their creed, and this is why Allah said,
+
+ذَٰلِكَ بِأَنَّ مِنْهُمْ قِسِّيسِينَ وَرُهْبَانًا وَأَنَّهُمْ لَا يَسْتَكْبِرُونَ
+
+(That is because among them are Qissisin (priests) and Ruhban (monks), and they are not proud.)
+
+This means that among them are Qissisin (priests). The word Ruhban refers to one dedicated to worship. Allah said,
+
+ذَٰلِكَ بِأَنَّ مِنْهُمْ قِسِّيسِينَ وَرُهْبَانًا وَأَنَّهُمْ لَا يَسْتَكْبِرُونَ
+
+(That is because among them are priests and monks, and they are not proud.) This describes them with knowledge, worship and humbleness, along with following the truth and fairness.
+
+وَإِذَا سَمِعُوا مَا أُنزِلَ إِلَى الرَّسُولِ تَرَىٰ أَعْيُنَهُمْ تَفِيضُ مِنَ الدَّمْعِ مِمَّا عَرَفُوا مِنَ الْحَقِّ
+
+(And when they listen to what has been sent down to the Messenger, you see their eyes overflowing with tears because of the truth they have recognized.)
+
+This refers to the good news that they have about the advent of Muhammad ﷺ,
+
+يَقُولُونَ رَبَّنَا آمَنَّا فَاكْتُبْنَا مَعَ الشَّاهِدِينَ
+
+(They say: "Our Lord! We believe; so write us down among the witnesses.") who testify to the truth and believe in it.
+
+وَمَا لَنَا لَا نُؤْمِنُ بِاللَّهِ وَمَا جَاءَنَا مِنَ الْحَقِّ وَنَطْمَعُ أَن يُدْخِلَنَا رَبُّنَا مَعَ الْقَوْمِ الصَّالِحِينَ
+
+("And why should we not believe in Allah and in that which has come to us of the truth And We wish that our Lord will admit us (in Paradise) along with the righteous people.") Such sect of Christians are those mentioned in Allah's statement,
+
+وَإِنَّ مِنْ أَهْلِ الْكِتَابِ لَمَن يُؤْمِنُ بِاللَّهِ وَمَا أُنزِلَ إِلَيْكُمْ وَمَا أُنزِلَ إِلَيْهِمْ خَاشِعِينَ لِلَّهِ
+
+(And there are, certainly, among the People of the Scripture, those who believe in Allah and in that which has been revealed to you, and in that which has been revealed to them, humbling themselves before Allah.)[3:199] and,
+
+الَّذِينَ آتَيْنَاهُمُ الْكِتَابَ مِن قَبْلِهِ هُم بِهِ يُؤْمِنُونَ - وَإِذَا يُتْلَىٰ عَلَيْهِمْ قَالُوا آمَنَّا بِهِ إِنَّهُ الْحَقُّ مِن رَّبِّنَا إِنَّا كُنَّا مِن قَبْلِهِ مُسْلِمِينَ
+
+(Those to whom We gave the Scripture before it, they believe in it (the Qur'an). And when it is recited to them, they say, "We believe in it. Verily, it is the truth from our Lord. Indeed even before it we were Muslims")[28:52-53], until,
+
+لَا نَبْتَغِي الْجَاهِلِينَ
+
+("We seek not the ignorant.")[28:55] This is why Allah said here,
+
+فَأَثَابَهُمُ اللَّهُ بِمَا قَالُوا
+
+(So because of what they said, Allah awarded them...) rewarding them for embracing the faith and recognizing and believing in the truth,
+
+جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا
+
+(Gardens under which rivers flow (in Paradise), they will abide therein forever.) and they will never be removed from it, for they will dwell and remain in it forever and ever,
+
+وَذَٰلِكَ جَزَاءُ الْمُحْسِنِينَ
+
+(Such is the reward of good-doers) who follow the truth and obey it wherever, whenever and with whomever they find it. Allah then describes the condition of the miserable.
+
+وَالَّذِينَ كَفَرُوا وَكَذَّبُوا بِآيَاتِنَا
+
+(But those who disbelieved and belied Our Ayat,) defied and opposed them,
+
+أُولَٰئِكَ أَصْحَابُ الْجَحِيمِ
+
+(they shall be the dwellers of the (Hell) Fire.) For they are the people of the Fire who will enter and reside in it (eternally).
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله :  فَأَثَابَهُمُ اللَّهُ بِمَا قَالُوا جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الأَنْهَارُ خَالِدِينَ فِيهَا وَذَلِكَ جَزَاءُ الْمُحْسِنِينَ (85)قال أبو جعفر: يقول تعالى ذكره: فجزاهم الله بقولهم: "  رَبَّنَا آمَنَّا فَاكْتُبْنَا مَعَ الشَّاهِدِينَ * وَمَا لَنَا لا نُؤْمِنُ بِاللَّهِ وَمَا جَاءَنَا مِنَ الْحَقِّ وَنَطْمَعُ أَنْ يُدْخِلَنَا رَبُّنَا مَعَ الْقَوْمِ الصَّالِحِينَ  =" جنات تجري من تحتها الأنهار "، يعني: بساتين تجري من تحت أشجارها الأنهار=" خالدين فيها "، يقول: دائمًا ف...
+القول في تأويل قوله: ﴿فَأَثَابَهُمُ اللَّهُ بِمَا قَالُوا جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الأنْهَارُ خَالِدِينَ فِيهَا وَذَلِكَ جَزَاءُ الْمُحْسِنِينَ (٨٥) ﴾
+
+قال أبو جعفر: يقول تعالى ذكره: فجزاهم الله بقولهم:"ربنا آمنا فاكتبنا مع الشاهدين وما لنا لا نؤمن بالله وما جاءَنا من الحق ونطمع أن يدخلَنا ربَّنا مع القوم الصالحين"=
+
+"جنات تجري من تحتها الأنهار"، يعني: بساتين تجري من تحت أشجارها الأنهار="خالدين فيها"، يقول: دائمًا فيها مكثهم، لا يخرجون منها ولا يحوَّلون عنها=
+
+"وذلك جزاء المحسنين"، يقول: وهذا الذي جَزَيتُ هؤلاء القائلين بما وصفتُ عنهم من قيلهم على ما قالوا، من الجنات التي هم فيها خالدون، جزاءُ كل محسنٍ في قِيله وفِعله.
+
+* *
+
+و"إحسان المحسن" في ذلك، أن يوحِّد الله توحيدًا خالصًا محضًا لا شرك فيه، ويقرّ بأنبياء الله وما جاءت به من عند الله من الكتب، ويؤدِّي فرائضَه، ويجتنب معاصيه. [[انظر تفسير"الإحسان" فيما سلف ٨: ٣٣٤، تعليق: ٢، والمراجع هناك.]] فذلك كمال إحسان المحسنين الذين قال الله تعالى ذكره:"جنات تجري من تحتها الأنهار خالدين فيها". [[أخشى أن يكون صواب العبارة: "الذين قال الله تعالى ذكره أنه أثابهم بما قالوا جنات ... "، ولكني تركت ما في المخطوطة والمطبوعة على حاله.]]
 
 ### al-Muyassar (Arabic)
 
-فجزاهم الله بما قالوا من الاعتزاز بإيمانهم بالإسلام، وطلبهم أن يكونوا مع القوم الصالحين، جنات تجري من تحت أشجارها الأنهار، ماكثين فيها لا يخرجون منها، ولا يُحوَّلون عنها، وذلك جزاء إحسانهم في القول والعمل.
+فجزاهم الله بما قالوا من الاعتزاز بإيمانهم بالإسلام، وطلبهم أن يكونوا مع القوم الصالحين، جنات تجري من تحت قصورها وأشجارها الأنهار، ماكثين فيها لا يخرجون منها، ولا يُحوَّلون عنها، وذلك جزاء إحسانهم في القول والعمل.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿فَأَثابَهُمْ اللَّه بِما قالُوا جَنّات تَجْرِي مِن تَحْتها الأَنْهار خالِدِينَ فِيها وذَلِك جَزاء المُحْسِنِينَ﴾ بِالإيمانِ
 
 ---

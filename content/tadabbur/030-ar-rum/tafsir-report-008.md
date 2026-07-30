@@ -1,6 +1,6 @@
 # Tafsir Cross-Reference Report
 
-Generated: 2026-07-15
+Generated: 2026-07-30
 Ayahs referenced: 1
 Tafsir sources: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), al-Jalalayn (Arabic)
 
@@ -12,13 +12,33 @@ Tafsir sources: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), 
 
 وَيَوْمَئِذٍ يَفْرَحُ الْمُؤْمِنُونَ - بِنَصْرِ اللَّهِ ۚ
 
-(And on that day, the believers will rejoice – with the help of Allah.) They will rejoice because the Romans, the companions of Caesar, the king of Ash-Sham, defeated the Persians, the companions of Chosroes, who were Zoroastrians. According to many of the scholars, such as Ibn Abbas, Ath-Thawri, As-Suddi and others, the victory of the Romans over the Persians happened on the same day as the battle of Badr. It was reported in the Hadi...
+(And on that day, the believers will rejoice – with the help of Allah.) They will rejoice because the Romans, the companions of Caesar, the king of Ash-Sham, defeated the Persians, the companions of Chosroes, who were Zoroastrians. According to many of the scholars, such as Ibn Abbas, Ath-Thawri, As-Suddi and others, the victory of the Romans over the Persians happened on the same day as the battle of Badr. It was reported in the Hadith recorded by At-Tirmidhi, Ibn Jarir, Ibn Abi Hatim and Al-Bazaar that Abu Said said: “On the day of Badr, the Romans defeated the Persians, and the believers were happy and rejoiced about that. And Allah revealed the words:
+
+وَيَوْمَئِذٍ يَفْرَحُ الْمُؤْمِنُونَ -ِنَصْرِ اللَّهِ ۚ يَنصُرُ مَن يَشَاءُ ۖ وَهُوَ الْعَزِيزُ الرَّحِيمُ
+
+(And on that day, the believers will rejoice – with the help of Allah. He helps whom He wills, and He is the All-Mighty, the Most Merciful.) Ibn Abi Htim recorded that Az-Zubayr Al-Kilabi said, I saw the victory of the Persians over the Romans, then I saw the victory of the Romans over the Persians, then I saw the victory of the Muslims over both the Persian and Romans, and all of that happened within fifteen years.” Allah’s saying:
 
 ### al-Tabari (Arabic)
 
 القول في تأويل قوله تعالى: ﴿أَوَلَمْ يَتَفَكَّرُوا فِي أَنْفُسِهِمْ مَا خَلَقَ اللَّهُ السَّمَاوَاتِ وَالأرْضَ وَمَا بَيْنَهُمَا إِلا بِالْحَقِّ وَأَجَلٍ مُسَمًّى وَإِنَّ كَثِيرًا مِنَ النَّاسِ بِلِقَاءِ رَبِّهِمْ لَكَافِرُونَ (٨) ﴾
 
-يقول تعالى ذكره: أولم يتفكَّر هؤلاء المكذّبون بالبعث يا محمد من قومك في خلق الله إياهم، وأنه خلقهم ولم يكونوا شيئا، ثم صرفهم أحوالا وقارات حتى صاروا رجالا فيعلموا أن الذي فعل ذلك قادر أن يعيدهم بعد فنائهم خلقا جديدا، ثم يجازي المحسن منهم بإحسانه، والمسيء بإساءته ...
+يقول تعالى ذكره: أولم يتفكَّر هؤلاء المكذّبون بالبعث يا محمد من قومك في خلق الله إياهم، وأنه خلقهم ولم يكونوا شيئا، ثم صرفهم أحوالا وقارات حتى صاروا رجالا فيعلموا أن الذي فعل ذلك قادر أن يعيدهم بعد فنائهم خلقا جديدا، ثم يجازي المحسن منهم بإحسانه، والمسيء بإساءته لا يظلم أحدا منهم، فيعاقبه بجرم غيره، ولا يحرم أحدا منهم جزاء عمله، لأنه العدل الذي لا يجور ﴿مَا خَلَقَ اللَّهُ السَّمَاوَاتِ وَالأرْضَ وَمَا بَيْنَهُمَا﴾ إلا بالعدل، وإقامة الحقّ، ﴿وَأَجَلٍ مُسَمًّى﴾ يقول: وبأجل مؤقت مسمى، إذا بلغت ذلك الوقت أفنى ذلك كله، وبدّل الأرض غير الأرض والسموات، وبرزوا لله الواحد القهَّار، وإن كثيرا من الناس بلقاء ربهم جاحدون منكرون؛ جهلا منهم بأن معادهم إلى الله بعد فنائهم، وغفلة منهم عن الآخرة.
+
+* *
+
+القول في تأويل قوله تعالى: ﴿أَوَلَمْ يَسِيرُوا فِي الأرْضِ فَيَنْظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِنْ قَبْلِهِمْ كَانُوا أَشَدَّ مِنْهُمْ قُوَّةً وَأَثَارُوا الأرْضَ وَعَمَرُوهَا أَكْثَرَ مِمَّا عَمَرُوهَا وَجَاءَتْهُمْ رُسُلُهُمْ بِالْبَيِّنَاتِ فَمَا كَانَ اللَّهُ لِيَظْلِمَهُمْ وَلَكِنْ كَانُوا أَنْفُسَهُمْ يَظْلِمُونَ (٩) ﴾
+
+يقول تعالى ذكره: أولم يسر هؤلاء المكذّبون بالله، الغافلون عن الآخرة من قريش في البلاد التي يسلكونها تجرا، فينظروا إلى آثار الله فيمن كان قبلهم من الأمم المكذّبة، كيف كان عاقبة أمرها في تكذيبها رسلها، فقد كانوا أشدّ منهم قوّة، ﴿وَأَثَارُوا الأرْضَ﴾ : يقول: واستخرجوا الأرض، وحرثوها وعمروها أكثر مما عمر هؤلاء، فأهلكهم الله بكفرهم وتكذيبهم رسلهم، فلم يقدروا على الامتناع، مع شدّة قواهم مما نزل بهم من عقاب الله، ولا نفعتهم عمارتهم ما عمروا من الأرض، إذ ﴿جَاءَتْهُمْ رُسُلُهُم بِالْبَينَاتِ﴾ من الآيات، فكذّبوهم، فأحلّ الله بهم بأسه، ﴿فَمَا كَانَ الله لِيَظْلِمَهُمْ﴾ بعقابه إياهم على تكذيبهم رسله، وجحودهم آياته، ﴿وَلَكِن كَانُوا أَنْفُسَهُمْ يَظْلِمُونَ﴾ بمعصيتهم ربهم.
+
+وبنحو الذي قلنا في تأويل قوله: ﴿وَأَثَارُوا الأرْضَ﴾ قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس قوله: ﴿أَوَلَمْ يَسِيرُوا فِي الأرْضِ فَيَنْظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِنْ قَبْلِهِمْ كَانُوا أَشَدَّ مِنْهُمْ قُوَّةً وَأَثَارُوا الأرْضَ وَعَمَرُوهَا أَكْثَرَ مِمَّا عَمَرُوهَا﴾ قال: ملكوا الأرض وعمروها.
+
+⁕ حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى، وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء، جميعا عن ابن أبي نجيح، عن مجاهد ﴿وَأَثَارُوا الأرْضَ﴾ قال: حرثوها.
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قَتادة ﴿أَولَمْ يَسِيرُوا فِي الأرْضَ ... ﴾ إلى قوله: ﴿وَأَثَارُوا الأرْضَ وَعَمَرُوها﴾ كقوله: ﴿وَآثارًا فِي الأرْضِ﴾ ، وقوله: ﴿وَعَمَرُوها﴾ أكثر مما عمر هؤلاء ﴿وَجَاءَتْهُمْ رُسُلُهُم بالْبَيِّناتِ﴾ .
 
 ### al-Muyassar (Arabic)
 

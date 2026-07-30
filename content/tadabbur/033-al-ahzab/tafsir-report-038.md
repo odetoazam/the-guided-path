@@ -1,6 +1,6 @@
 # Tafsir Cross-Reference Report
 
-Generated: 2026-07-15
+Generated: 2026-07-30
 Ayahs referenced: 1
 Tafsir sources: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), al-Jalalayn (Arabic)
 
@@ -14,7 +14,15 @@ There is no blame on the Prophet in that which Allah has made legal for him. Tha
 
 مَا كَانَ عَلَى النَّبِيِّ مِنْ حَرَجٍ فِيمَا فَرَضَ اللَّهُ لَهُ ۖ
 
-(There is no blame on the Prophet in that which Allah has made legal for him.) means, in that which has been permitted for him and which he has been commanded to do, i.e. his marrying Zaynab, may Allah be pleased with her,, who had...
+(There is no blame on the Prophet in that which Allah has made legal for him.) means, in that which has been permitted for him and which he has been commanded to do, i.e. his marrying Zaynab, may Allah be pleased with her,, who had been divorced by his adopted son Zayd bin Harithah,
+
+سُنَّةَ اللَّهِ فِي الَّذِينَ خَلَوْا مِنْ قَبْلُ ۚ
+
+(That has been Allah's way with those who have passed away of old.) means this is the ruling of Allah for the Prophets who came before him. Allah would not command them to do anything for which they might be blamed. This is a refutation of those hypocrites who imagined that there was anything wrong with his marrying the ex-wife of Zayd, his freed slave and adopted son.
+
+وَكَانَ أَمْرُ اللَّهِ قَدَرًا مَقْدُورًا
+
+(And the command of Allah is a decree determined.) means, His command which He has decreed must inevitably come to pass; nothing can prevent it or avert it, for whatever He wills happens, and whatever He does not decree, does not happen.
 
 ### al-Tabari (Arabic)
 
@@ -28,7 +36,19 @@ There is no blame on the Prophet in that which Allah has made legal for him. Tha
 
 * *
 
-وقوله: ﴿سُنَّةَ اللَّهِ فِي الَّذِينَ خَلَوْا...
+وقوله: ﴿سُنَّةَ اللَّهِ فِي الَّذِينَ خَلَوْا مِنْ قَبْلُ﴾
+
+يقول: لم يكن الله تعالى ليؤثم نبيه فيما أحل له مثال فعله بمن قبله من الرسل الذين مضوا قبله في أنه لم يؤثمهم بما أحل لهم، لم يكن لنبيه أن يخشى الناس فيما أمره به أو أحله له، ونصب قوله ﴿سُنَّةَ اللَّهِ﴾ على معنى: حقًّا من الله، كأنه قال: فعلنا ذلك سنة منا.
+
+* *
+
+وقوله: ﴿وَكَانَ أمْرُ اللَّهِ قَدَرًا مَقْدُورًا﴾
+
+يقول: وكان أمر الله قضاء مقضيًّا.
+
+وكان ابن زيد يقول في ذلك ما:-
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله ﴿وَكَانَ أمْرُ اللَّهِ قَدَرًا مَقْدُورًا﴾ : إن الله كان علمه معه قبل أن يخلق الأشياء كلها، فأتمه في علمه أن يخلق خلقا، ويأمرهم وينهاهم، ويجعل ثوابا لأهل طاعته، وعقابا لأهل معصيته، فلما ائتمر ذلك الأمر قدره، فلما قدره كتب وغاب عليه؛ فسماه الغيب وأم الكتاب، وخلق الخلق على ذلك الكتاب أرزاقهم وآجالهم وأعمالهم، وما يصيبهم من الأشياء من الرخاء والشدة من الكتاب الذي كتبه أنه يصيبهم، وقرأ ﴿أُولَئِكَ يَنَالُهُمْ نَصِيبُهُمْ مِنَ الْكِتَابِ حَتَّى إِذَا﴾ نَفِدَ ذَلِكَ ﴿جَاءَتْهُمْ رُسُلَنَا يَتَوَفَّوْنَهُمْ﴾ وأمر الله الذي ائتمر قدره حين قدره مقدرا، فلا يكون إلا ما في ذلك، وما في ذلك الكتاب، وفي ذلك التقدير، ائتمر أمرا ثم قدره، ثم خلق عليه فقال: كان أمر الله الذي مضى وفرغ منه، وخلق عليه الخلق ﴿قَدَرًا مَقْدُورًا﴾ شاء أمرا ليمضي به أمره وقدره، وشاء أمرا يرضاه من عباده في طاعته، فلما أن كان الذي شاء من طاعته لعباده رضيه لهم، ولما أن كان الذي شاء أراد أن ينفذ فيه أمره وتدبيره وقدره، وقرأ ﴿وَلَقَدْ ذَرَأْنَا لِجَهَنَّمَ كَثِيرًا مِنَ الْجِنِّ وَالإنْسِ﴾ فشاء أن يكون هؤلاء من أهل النار، وشاء أن تكون أعمالهم أعمال أهل النار، فقال ﴿كَذَلِكَ زَيَّنَّا لِكُلِّ أُمَّةٍ عَمَلَهُمْ﴾ وقال ﴿وَكَذَلِكَ زَيَّنَ لِكَثِيرٍ مِنَ الْمُشْرِكِينَ قَتْلَ أَوْلادِهِمْ شُرَكَاؤُهُمْ لِيُرْدُوهُمْ وَلِيَلْبِسُوا عَلَيْهِمْ دِينَهُمْ﴾ هذه أعمال أهل النار ﴿وَلَوْ شَاءَ اللَّهُ مَا فَعَلُوهُ﴾ قال ﴿وَكَذَلِكَ جَعَلْنَا لِكُلِّ نَبِيٍّ عَدُوًّا شَيَاطِينَ ... ﴾ إلى قوله ﴿وَلَوْ شَاءَ رَبُّكَ مَا فَعَلُوهُ﴾ وقرأ ﴿وَأَقْسَمُوا بِاللَّهِ جَهْدَ أَيْمَانِهِمْ ... ﴾ إلى ﴿كُلَّ شَيْءٍ قُبُلا مَا كَانُوا لِيُؤْمِنُوا إِلا أَنْ يَشَاءَ اللَّهُ﴾ أن يؤمنوا بذلك، قال: فأخرجوه من اسمه الذي تسمى به، قال: هو الفعال لما يريد، فزعموا أنه ما أراد.
 
 ### al-Muyassar (Arabic)
 

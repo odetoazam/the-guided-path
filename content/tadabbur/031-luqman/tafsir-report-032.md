@@ -1,6 +1,6 @@
 # Tafsir Cross-Reference Report
 
-Generated: 2026-07-15
+Generated: 2026-07-30
 Ayahs referenced: 1
 Tafsir sources: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), al-Jalalayn (Arabic)
 
@@ -12,7 +12,47 @@ Tafsir sources: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), 
 
 See you not that the ships sail through the sea by Allah's grace that He may show you of His signs? Verily, in this are signs for every patient, grateful (person)(31)And when waves cover them like shades, they invoke Allah, making their invocations for Him only. But when He brings them safe to land, there are among them those that stop in between. And Our Ayat are not denied except by every Khattār Kafūr (32)
 
-Allah tells us that He is the One Who has subjugated the sea so that ships may sail...
+Allah tells us that He is the One Who has subjugated the sea so that ships may sail on it by His command,i.e, His power.For if He did not give the water the strength to carry the ships, they would not sail. So He says:
+
+لِيُرِيَكُمْ مِنْ آيَاتِهِ
+
+(that He may show you of His signs) meaning, by His power.
+
+إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِكُلِّ صَبَّارٍ شَكُورٍ
+
+(Verily, in this are signs for every patient, grateful.) means, every person who bears difficulty with patience and who gives thanks at times of ease. Then Allah says:
+
+وَإِذَا غَشِيَهُمْ مَوْجٌ كَالظُّلَلِ
+
+(And when waves cover them like shades,) meaning, like mountains or clouds,
+
+دَعَوُا اللَّهَ مُخْلِصِينَ لَهُ الدِّينَ
+
+(they invoke Allah, making their invocations for Him only.) This is like the Ayah,
+
+وَإِذَا مَسَّكُمُ الضُّرُّ فِي الْبَحْرِ ضَلَّ مَنْ تَدْعُونَ إِلَّا إِيَّاهُ ۖ
+
+(And when harm touches you upon the sea, those that you call upon vanish from you except Him)(17:67).
+
+فَإِذَا رَكِبُوا فِي الْفُلْكِ
+
+(And when they embark on a ship...)(29:65) Then Allah says:
+
+فَلَمَّا نَجَّاهُمْ إِلَى الْبَرِّ فَمِنْهُمْ مُقْتَصِدٌ
+
+(But when He brings them safe to land, there are among them those that stop in between.) Mujahid said, "This refers to the disbelievers – as if he interpreted the word Muqtasid to mean denier as in the Ayah,
+
+فَلَمَّا نَجَّاهُمْ إِلَى الْبَرِّ إِذَا هُمْ يُشْرِكُونَ
+
+(but when He brings them safely to land, behold, they give a share of their worship to others)(29:65).
+
+وَمَا يَجْحَدُ بِآيَاتِنَا إِلَّا كُلُّ خَتَّارٍ كَفُورٍ
+
+(And Our Ayat are not denied except by every Khattār Kafūr.) Khattar means one who betrays or stabs in the back. This was the view of Mujahid, Al-Hasan, Qatadah and Malik, narrating from Zayd bin Aslam. This word describes a person who, whenever he makes a promise, breaks his promise, and it refers to the worst form of treachery.
+
+كَفُورٍ
+
+(Kafur) means, one who denies blessings and does not give thanks for them, rather he forgets them and does not remember them.
 
 ### al-Tabari (Arabic)
 
@@ -20,7 +60,65 @@ Allah tells us that He is the One Who has subjugated the sea so that ships may s
 
 يقول تعالى ذكره: وإذا غشى هؤلاء الذين يدعون من دون الله الآلهة والأوثان في البحر -إذا ركبوا في الفُلك- موج كالظُلل، وهي جمع ظُلَّة، شبَّه بها الموج في شدة سواد كثرة الماء، قال نابغة بني جعدة في صفة بحر:
 
-يُماشِيهِنَّ أخْضَرُ ذُو ظلال ... عَلى حافاتِهِ فِلَق الدّنانِ [[...
+يُماشِيهِنَّ أخْضَرُ ذُو ظلال ... عَلى حافاتِهِ فِلَق الدّنانِ [[البيت في (مجاز القرآن لأبي عبيدة الورقة ١٩١ ب) قال عند تفسير قوله تعالى: (وإذا غشيهم موج كالظلل) : واحدتها: ظلة. ومجازه: من شدة سواد كثرة الماء ومعظمه. قال النابغة الجعدي وهو يصف البحر: "يماشيهن ... فلق الدنان". يريد: أن البحر يمتد معهن في سيرهن. وظلال البحر: أمواجه، لأنها ترفع فتظل السفينة ومن فيها. والدنان بالدال المهملة: جمع دن بالفتح، هو راقود الخمر الكبير.]]
+
+وشبه الموج وهو واحد بالظلل، وهي جماع، لأن الموج يأتي شيء منه بعد شيء، ويركب بعضه بعضا كهيئة الظلل.
+
+* *
+
+وقوله: ﴿دَعَوا اللهَ مُخْلِصِينَ لَهُ الدّينَ﴾
+
+يقول تعالى ذكره: وإذا غشى هؤلاء موج كالظلل، فخافوا الغرق، فزعوا إلى الله بالدعاء مخلصين له الطاعة، لا يشركون به هنالك شيئا، ولا يدعون معه أحدا سواه، ولا يستغيثون بغيره.
+
+* *
+
+قوله: ﴿فَلَمَّا نجَّاهُمْ إلى البَرّ﴾
+
+مما كانوا يخافونه في البحر من الغرق والهلاك إلى البرّ. ﴿فَمِنْهُمْ مُقْتَصِدٌ﴾ يقول: فمنهم مقتصد في قوله وإقراره بربه، وهو مع ذلك مضمر الكفر به.
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى، وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء، جميعا عن ابن أبي نجيح، عن مجاهد قوله: ﴿فَمِنْهُمْ مُقْتَصِدٌ﴾ قال: المقتصد في القول وهو كافر.
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد في قوله: ﴿فَمِنْهُمْ مُقْتَصِدٌ﴾ قال: المقتصد الذي على صلاح من الأمر.
+
+* *
+
+وقوله: ﴿وَمَا يَجْحَدُ بِآيَاتِنَا إِلا كُلُّ خَتَّارٍ كَفُورٍ﴾
+
+يقول تعالى ذكره: وما يكفر بأدلتنا وحججنا إلا كلّ غدّار بعهده، والختر عند العرب: أقبح الغدر، ومنه قول عمرو بن معد يكرب:
+
+وَإنَّكَ لَوْ رأيْتَ أبا عُمَيْرٍ ... مَلأتَ يَدَيْكَ مِنْ غَدْرٍ وَخَتْرٍ [[البيت في (مجاز القرآن لأبي عبيدة، الورقة ١٩١ ب) عند تفسير قوله تعالى: (كل مختار كفور) قال: الختر: الكبر والغدر، قال عمرو بن معد يكرب "وإنك لو رأيت" البيت وفي (اللسان ختر) : الختر شبيه بالغدر والخديعة، وقيل: هو الخديعة بعينها، وقيل: هو أسوأ الغدر وأقبحه، ختر يختر، فهو خاتر، وختار للمبالغة، والفعل من بابي ضرب ونصر.]]
+
+* *
+
+وقوله: ﴿كَفُور﴾
+
+يعني: جحودا للنعم، غير شاكر ما أسدى إليه من نعمة.
+
+وبنحو الذي قلنا في معنى الختار قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا ابن حميد، قال: ثنا حكام، عن عنبسة، عن ليث، عن مجاهد ﴿كُلُّ خَتَّارٍ كَفُورٍ﴾ قال: كلّ غَدّار.
+
+⁕ حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى، وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء، جميعا عن ابن أبي نجيح، عن مجاهد في قوله: ﴿كُلُّ خَتَّارٍ﴾ قال: غدّار.
+
+⁕ حدثني يعقوب وابن وكيع، قالا ثنا ابن علية، عن أبي رجاء عن الحسن في قوله: ﴿وَمَا يَجْحَدُ بِآيَاتِنَا إِلا كُلُّ خَتَّارٍ كَفُورٍ﴾ قال: غدّار.
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قَتادة قوله: (وَمَا يَجْحَدُ بِآيَاتِنَا إِلا كُلُّ خَتَّارٍ كَفُورٍ) الختار: الغدار، كلّ غدار بذمته كفور بربه.
+
+⁕ حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس قوله: ﴿وَمَا يَجْحَدُ بِآيَاتِنَا إِلا كُلُّ خَتَّارٍ كَفُورٍ﴾ قال: كلّ جحاد كفور.
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد في قوله: ﴿وَمَا يَجْحَدُ بِآيَاتِنَا إِلا كُلُّ خَتَّارٍ كَفُورٍ﴾ قال: الختار: الغدّار، كما تقول: غدرني.
+
+⁕ حدثنا ابن وكيع، قال: ثنا أبي، عن مسعر، قال: سمعت قَتادة قال: الذي يغدر بعهده.
+
+⁕ قال: ثنا المحاربي، عن جُوَيبر، عن الضحاك، قال: الغدّار.
+
+⁕ قال: ثنا أبي: عن الأعمش، عن سمر بن عطية الكاهلي، عن عليّ رضي الله عنه قال: المكر غدر، والغدر كفر.
 
 ### al-Muyassar (Arabic)
 

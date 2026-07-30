@@ -1,6 +1,6 @@
 # Tafsir Cross-Reference Report
 
-Generated: 2026-04-01
+Generated: 2026-07-30
 Ayahs referenced: 2
 Tafsir sources: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), al-Jalalayn (Arabic)
 
@@ -10,24 +10,263 @@ Tafsir sources: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), 
 
 ### Ibn Kathir (English)
 
+Allah is the Light of the heavens and the earth. The parable of His Light is as a niche and within it a lamp: the lamp is in a glass, the glass as it were a star Durriyyun, lit from a blessed tree, an olive, neither of the east nor of the west, whose oil would almost glow forth, though no fire touched it. Light upon Light! Allah guides to His Light whom He wills. And Allah sets forth parables for mankind, and Allah is All-Knower of everything.) (35)
+
 The Parable of the Light of Allah
-`Ali bin Abi Talhah reported that Ibn `Abbas said:
-اللَّهُ نُورُ السَّمَـوَتِ وَالاٌّرْضِ
-(Allah is the Light of the heavens and the earth.) means, the Guide of the inhabitants of the heavens and the earth. Ibn Jurayj said: "Mujahid and Ibn `Abbas said concerning the Ayah:
-اللَّهُ نُورُ السَّمَـوَتِ وَالاٌّرْضِ
-(Allah is the Light of the heavens and the earth.) He is controlling their affairs and their stars and sun and moon." As-Suddi said concerning the Aya...
+
+Ali bin Abi Talhah reported that Ibn 'Abbas said:
+
+اللَّهُ نُورُ السَّمَاوَاتِ وَالْأَرْضِ
+
+(Allah is the Light of the heavens and the earth.) means, the Guide of the inhabitants of the heavens and the earth. Ibn Jurayj said: "Mujahid and Ibn 'Abbas said concerning the Ayah:
+
+اللَّهُ نُورُ السَّمَاوَاتِ وَالْأَرْضِ
+
+(Allah is the Light of the heavens and the earth.) He is controlling their affairs and their stars and sun and moon." As-Suddi said concerning the Ayah:
+
+اللَّهُ نُورُ السَّمَاوَاتِ وَالْأَرْضِ
+
+(Allah is the Light of the heavens and the earth.) by His Light the heavens and earth are illuminated.
+
+In the Two Sahihs, it is recorded that Ibn 'Abbas, may Allah be pleased with him, said: "When the Messenger of Allah ﷺ got up to pray at night, he would say:
+
+اللَّهُمَّ لَكَ الْحَمْدُ، أَنْتَ قَيِّمُ السَّمَوَاتِ وَالْأَرْضِ وَمَنْ فِيهِنَّ، وَلَكَ الْحَمْدُ أَنْتَ نُورُ السَّمَوَاتِ وَالْأَرْضِ وَمَنْ فِيهِنَّ
+
+(O Allah, to You be praise, You are the Sustainer of heaven and earth and whoever is in them. To You be praise, You are the Light of the heavens and the earth and whoever is in them.) It was narrated that Ibn Mas'ud said, "There is no night or day with your Lord; the Light of the Throne comes from the Light of His Face."
+
+مَثَلُ نُورِهِ
+
+(The parable of His Light) There are two views concerning the meaning of the pronoun (His). The first is that it refers to Allah, may He be glorified and exalted, meaning that the parable of His guidance in the heart of the believer is
+
+كَمِشْكَاةٍ
+
+(as a niche) This was the view of Ibn 'Abbas. The second view is that the pronoun refers to the believer, which is indicated by the context of the words and implies that the parable of the light in the heart of the believer is as a niche. So the heart of the believer and what he is naturally inclined to of guidance and what he learns of the Qur'an which is in accordance with his natural inclinations are, as Allah says:
+
+أَفَمَن كَانَ عَلَىٰ بَيِّنَةٍ مِّن رَّبِّهِ وَيَتْلُوهُ شَاهِدٌ مِّنْهُ
+
+(Can they who rely on a clear proof from their Lord, and whom a witness from Him recites it (can they be equal with the disbelievers))(11:17). The heart of the believer in its purity and clarity is likened to a lamp in transparent and jewel-like glass, and the Qur'an and Shari'ah by which it is guided are likened to good, pure, shining oil in which there is no impurity or deviation.
+
+كَمِشْكَاةٍ
+
+(as (if there were) a niche) Ibn 'Abbas, Mujahid, Muhammad bin Ka'b and others said, "This refers to the position of the wick in the lamp." This is well-known, and hence Allah then says:
+
+فِيهَا مِصْبَاحٌ
+
+(and within it a lamp.) This is the flame that burns brightly. Or it was said that the niche is a niche in the house. This is the parable given by Allah of obedience towards Him. Allah calls obedience to Him as light, then He calls it by other numerous names as well. Ubayy bin Ka'b said, "The lamp is the light, and this refers to the Qur'an and the faith that is in his heart." As-Suddi said, "It is the lamp."
+
+الْمِصْبَاحُ فِي زُجَاجَةٍ
+
+(the lamp is in a glass,) means, this light is shining in a clear glass. Ubayy bin Ka'b and others said, "This is the likeness of the heart of the believer."
+
+الزُّجَاجَةُ كَأَنَّهَا كَوْكَبٌ دُرِّيٌّ
+
+(the glass as it were a star Durriyyun,) Some authorities recite the word Durriyyun with a Dammah on the Dal and without a Hamzah, which means pearls, i.e., as if it were a star made of pearls (Durr). Others recite it as Dirri'un or Durri'un, with a Kasrah on the Dal, or Dammah on the Dal, and with a Hamzah at the end, which means reflection (Dir'), because if something is shone on the star it becomes brighter than at any other time. The Arabs call the stars they do not know Darari. Ubayy bin Ka'b said: a shining star. Qatadah said: "Huge, bright and clear."
+
+يُوقَدُ مِن شَجَرَةٍ مُّبَارَكَةٍ
+
+(lit from a blessed tree,) means, it is derived from olive oil, from a blessed tree.
+
+زَيْتُونَةٍ
+
+(an olive,) This refers to the blessed tree mentioned previously.
+
+لَّا شَرْقِيَّةٍ وَلَا غَرْبِيَّةٍ
+
+(neither of the east nor of the west,) means, it is not in the eastern part of the land so that it does not get any sun in the first part of the day, nor is it in the western part of the land so that it is shaded from the sun before sunset, but it is in a central position where it gets sun from the beginning of the day until the end, so its oil is good and pure and shining. Ibn Abi Hatim recorded that Ibn 'Abbas commented on:
+
+زَيْتُونَةٍ لَّا شَرْقِيَّةٍ وَلَا غَرْبِيَّةٍ
+
+(an olive, neither of the east nor of the west,) "This is a tree in the desert which is not shaded by any other tree or mountain or cave, nothing covers it, and this is best for its oil." Mujahid commented on:
+
+لَّا شَرْقِيَّةٍ وَلَا غَرْبِيَّةٍ
+
+(neither of the east nor of the west,) saying; "It is not in the east where it will get no sun when the sun sets, nor is it in the west where it will get no sun when the sun rises, but it is in a position where it will get sun both at sunrise and sunset." Sa'id bin Jubayr commented:
+
+زَيْتُونَةٍ لَّا شَرْقِيَّةٍ وَلَا غَرْبِيَّةٍ يَكَادُ زَيْتُهَا يُضِيءُ
+
+(an olive, neither of the east nor of the west, whose oil would almost glow forth (of itself)) "This is the best kind of oil. When the sun rises it reaches the tree from the east and when it sets it reaches it from the west, so the sun reaches it morning and evening, so it is not counted as being in the east or in the west."
+
+يَكَادُ زَيْتُهَا يُضِيءُ وَلَوْ لَمْ تَمْسَسْهُ نَارٌ
+
+(whose oil would almost glow forth (of itself), though no fire touched it.) 'Abdur-Rahman bin Zayd bin Aslam said (this means) because the oil itself is shining.
+
+نُّورٌ عَلَىٰ نُورٍ
+
+(Light upon Light!) Al-'Awfi narrated from Ibn 'Abbas that this meant the faith and deeds of a person. As-Suddi said:
+
+نُّورٌ عَلَىٰ نُورٍ
+
+(Light upon Light!) "Light of the fire and the light of the oil: when they are combined they give light, and neither of them can give light without the other. Similarly the light of the Qur'an and the light of faith give light when they are combined, and neither can do so without the other."
+
+يَهْدِي اللَّهُ لِنُورِهِ مَن يَشَاءُ
+
+(Allah guides to His Light whom He wills.) means, Allah shows the way to the ones whom He chooses, as it says in the Hadith recorded by Imam Ahmad from 'Abdullah bin 'Amr, who said, "I heard the Messenger of Allah ﷺ say:
+
+إِنَّ اللهَ تَعَالَى خَلَقَ خَلْقَهُ فِي ظُلْمَةٍ ثُمَّ أَلْقَى عَلَيْهِمْ مِنْ نُورِهِ يَوْمَئِذٍ، فَمَنْ أَصَابَ مِنْ نُورِهِ يَوْمَئِذٍ اهْتَدَى وَمَنْ أَخْطَأَ ضَلَّ فَلِذَلِكَ أَقُولُ: جَفَّ الْقَلَمُ عَلَى عِلْمِ اللهِ عَزَّ وَجَلَّ
+
+(Allah created His creation in darkness, then on the same day He sent His Light upon them. Whoever was touched by His Light on that day will be guided and whoever was missed will be led astray. Hence I say: the pens have dried in accordance with the knowledge of Allah, may He be glorified.)"
+
+وَيَضْرِبُ اللَّهُ الْأَمْثَالَ لِلنَّاسِ ۗ وَاللَّهُ بِكُلِّ شَيْءٍ عَلِيمٌ
+
+(And Allah sets forth parables for mankind, and Allah is All-Knower of everything.) Having mentioned this parable of the Light of His guidance in the heart of the believer, Allah ends this Ayah with the words:
+
+وَيَضْرِبُ اللَّهُ الْأَمْثَالَ لِلنَّاسِ ۗ وَاللَّهُ بِكُلِّ شَيْءٍ عَلِيمٌ
+
+(And Allah sets forth parables for mankind, and Allah is All-Knower of everything.) meaning, He knows best who deserves to be guided and who deserves to be led astray.
+
+Imam Ahmad recorded that Abu Sa'id Al-Khudri said, "The Messenger of Allah ﷺ said:
+
+الْقُلُوبُ أَرْبَعَةٌ: قَلْبٌ أَجْرَدُ فِيهِ مِثْلُ السِّرَاجِ يُزْهِرُ، وَقَلْبٌ أَغْلَفُ مَرْبُوطٌ عَلَى غِلَافِهِ، وَقَلْبٌ مَنْكُوسٌ، وَقَلْبٌ مُصْفَحٌ. فَأَمَّا الْقَلْبُ الْأَجْرَدُ: فَقَلْبُ الْمُؤْمِنِ سِرَاجُهُ فِيهِ نُورُهُ، وَأَمَّا الْقَلْبُ الْأَغْلَفُ فَقَلْبُ الْكَافِرِ، وَأَمَّا الْقَلْبُ الْمَنْكُوسُ فَقَلْبُ الْمُنَافِقِ، عَرَفَ ثُمَّ أَنْكَرَ، وَأَمَّا الْقَلْبُ الْمُصْفَحُ فَقَلْبٌ فِيهِ إِيمَانٌ وَنِفَاقٌ، وَمَثَلُ الْإِيمَانِ فِيهِ كَمَثَلِ الْبَقْلَةِ يُمِدُّهَا الْمَاءُ الطَّيِّبُ، وَمَثَلُ النِّفَاقِ فِيهِ كَمَثَلِ الْقَرْحَةِ يُمِدُّهَا الدَّمُ وَالْقَيْحُ، فَأَيُّ الْمدَّتَيْنِ غَلَبَتْ عَلَى الْأُخْرَى غَلَبَتْ عَلَيْهِ
+
+(Hearts are of four kinds: the heart that is clear like a shining lamp; the heart that is covered and tied up; the heart that is upside-down; and the heart that is clad in armor. As for the clear heart, it is the heart of the believer in which is a lamp filled with light; as for the covered heart, this is the heart of the disbeliever; as for the upside-down heart, this is the heart of the hypocrite, who recognizes then denies; as for the armor-clad heart, this is the heart in which there is both faith and hypocrisy. The parable of the faith in it is that of legume, a sprout that is irrigated with good water, and the likeness of the hypocrisy in it is that of sores that are fed by blood and pus. Whichever of the two prevails is the characteristic that will dominate.) Its chain of narrators is good (Jayyid) although they (Al-Bukhari and Muslim) did not record it.
 
 ### al-Tabari (Arabic)
 
-يعني تعالى ذكره بقوله: ( اللَّهُ نُورُ السَّمَاوَاتِ وَالأرْضِ ) هادي من في السماوات والأرض، فهم بنوره إلى الحق يهتدون، وبهداه من حيرة الضلالة يعتصمون.واختلف أهل التأويل في تأويل ذلك، فقال بعضهم فيه نحو الذي قلنا.* ذكر من قال ذلك:حدثني عليّ، قال: ثنا عبد الله، قال: ثني معاوية، عن عليّ، عن ابن عباس، قوله: ( اللَّهُ نُورُ السَّمَاوَاتِ وَالأرْضِ ) يقول: الله سبحانه هادي أهل السماوات والأرض.حدثني سليمان بن عمر بن خلدة الرقي، قال: ثنا وهب بن راشد، عن فرقد، عن أنس بن مالك، قال: إن إلهي يقول: نوري ...
+القول في تأويل قوله تعالى: ﴿اللَّهُ نُورُ السَّمَاوَاتِ وَالأرْضِ مَثَلُ نُورِهِ كَمِشْكَاةٍ فِيهَا مِصْبَاحٌ الْمِصْبَاحُ فِي زُجَاجَةٍ الزُّجَاجَةُ كَأَنَّهَا كَوْكَبٌ دُرِّيٌّ يُوقَدُ مِنْ شَجَرَةٍ مُبَارَكَةٍ زَيْتُونَةٍ لا شَرْقِيَّةٍ وَلا غَرْبِيَّةٍ يَكَادُ زَيْتُهَا يُضِيءُ وَلَوْ لَمْ تَمْسَسْهُ نَارٌ نُورٌ عَلَى نُورٍ يَهْدِي اللَّهُ لِنُورِهِ مَنْ يَشَاءُ وَيَضْرِبُ اللَّهُ الأمْثَالَ لِلنَّاسِ وَاللَّهُ بِكُلِّ شَيْءٍ عَلِيمٌ (٣٥) ﴾
+
+يعني تعالى ذكره بقوله: ﴿اللَّهُ نُورُ السَّمَاوَاتِ وَالأرْضِ﴾ هادي من في السماوات والأرض، فهم بنوره إلى الحق يهتدون، وبهداه من حيرة الضلالة يعتصمون.
+
+واختلف أهل التأويل في تأويل ذلك، فقال بعضهم فيه نحو الذي قلنا.
+
+ذكر من قال ذلك:
+
+⁕ حدثني عليّ، قال: ثنا عبد الله، قال: ثني معاوية، عن عليّ، عن ابن عباس، قوله: ﴿اللَّهُ نُورُ السَّمَاوَاتِ وَالأرْضِ﴾ يقول: الله سبحانه هادي أهل السماوات والأرض.
+
+⁕ حدثني سليمان بن عمر بن خلدة الرقي، قال: ثنا وهب بن راشد، عن فرقد، عن أنس بن مالك، قال: إن إلهي يقول: نوري هُداي.
+
+وقال آخرون: بل معنى ذلك: الله مدبر السماوات والأرض.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا القاسم، قال: ثنا الحسين، قال: ثني حجاج، عن ابن جُرَيج، قال: قال مجاهد وابن عباس في قوله: ﴿اللَّهُ نُورُ السَّمَاوَاتِ وَالأرْضِ﴾ : يدبر الأمر فيهما، نجومهما وشمسهما وقمرهما.
+
+وقال آخرون: بل عنى بذلك النور الضياء. وقالوا: معنى ذلك: ضياء السماوات والأرض.
+
+ذكر من قال ذلك:
+
+⁕ حدثني عبد الأعلى بن واصل، قال: ثنا عبيد الله بن موسى، قال: ثنا أبو جعفر الرازي، عن الربيع بن أنس، عن أبي العالية، عن أُبيّ بن كعب، في قول الله: ﴿اللَّهُ نُورُ السَّمَاوَاتِ وَالأرْضِ﴾ قال: فبدأ بنور نفسه، فذكره، ثم ذكر نور المؤمن.
+
+وإنما اخترنا القول الذي اخترناه في ذلك؛ لأنه عقيب قوله: ﴿وَلَقَدْ أَنزلْنَا إِلَيْكُمْ آيَاتٍ مُبَيِّنَاتٍ وَمَثَلا مِنَ الَّذِينَ خَلَوْا مِنْ قَبْلِكُمْ وَمَوْعِظَةً لِلْمُتَّقِينَ﴾ فكان ذلك بأن يكون خبرًا عن موقع يقع تنزيله من خلقه. ومن مدح ما ابتدأ بذكر مدحه، أولى وأشبه، ما لم يأت ما يدلُّ على انقضاء الخبر عنه من غيره. فإذا كان ذلك كذلك، فتأويل الكلام: ولقد أنزلنا إليكم أيها الناس آيات مبينات الحقّ من الباطل ﴿وَمَثَلا مِنَ الَّذِينَ خَلَوْا مِنْ قَبْلِكُمْ وَمَوْعِظَةً لِلْمُتَّقِينَ﴾ فهديناكم بها، وبيَّنا لكم معالم دينكم بها، لأني هادي أهل السماوات وأهل الأرض، وترك وصل الكلام باللام، وابتدأ الخبر عن هداية خلقه ابتداء، وفيه المعنى الذي ذكرت، استغناء بدلالة الكلام عليه من ذكره، ثم ابتدأ في الخبر عن مثل هدايته خلقه بالآيات المبينات التي أنزلها إليهم، فقال: ﴿مَثَلُ نُورِهِ كَمِشْكَاةٍ فِيهَا مِصْبَاحٌ﴾ يقول: مثل ما أنار من الحقّ بهذا التنزيل في بيانه كمشكاة.
+
+وقد اختلف أهل التأويل في المعنى بالهاء في قوله: ﴿مَثَلُ نُورِهِ﴾ علام هي عائدة، ومن ذكر ما هي؟ فقال بعضهم: هي من ذكر المؤمن. وقالوا: معنى الكلام: مثل نور المؤمن الذي في قلبه من الإيمان والقرآن مثل مشكاة.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا عبد الأعلى بن واصل، قال: ثنا عبيد الله بن موسى، قال: أخبرنا أبو جعفر الرازي، عن الربيع بن أنس، عن أبي العالية، عن أُبيّ بن كعب، في قول الله: ﴿مَثَلُ نُورِهِ﴾ قال: ذكر نور المؤمن فقال: مثل نوره، يقول مثل نور المؤمن. قال: وكان أُبيّ يقرؤها: كذلك مثل المؤمن، قال: هو المؤمن قد جعل الإيمان والقرآن في صدره.
+
+⁕ حدثنا القاسم، قال: ثنا الحسين، قال: ثني حجاج، عن أبي جعفر الرازي، عن أبي العالية، عن أُبيّ بن كعب ﴿اللَّهُ نُورُ السَّمَاوَاتِ وَالأرْضِ مَثَلُ نُورِهِ﴾ قال: بدأ بنور نفسه فذكره، ثم قال: ﴿مَثَلُ نُورِهِ﴾ يقول: مثل نور من آمن به، قال: وكذلك كان يقرأ أُبيّ، قال: هو عبد جعل الله القرآن والإيمان في صدره.
+
+⁕ حدثنا ابن بشار، قال: ثنا عبد الرحمن، قال: ثنا سفيان، عن عطاء بن السائب، عن سعيد بن جُبير ﴿مَثَلُ نُورِهِ﴾ قال: مثل نور المؤمن.
+
+⁕ حدثني عليّ بن الحسن الأزدي، قال: ثنا يحيى بن اليمان، عن أبي سنان، عن ثابت، عن الضحاك في قوله: ﴿مَثَلُ نُورِهِ﴾ قال: نور المؤمن.
+
+وقال آخرون: بل عُني بالنور: محمد ﷺ، وقالوا: الهاء التي قوله: ﴿مَثَلُ نُورِهِ﴾ عائدة على اسم الله.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا ابن حميد، قال: ثنا يعقوب القمي، عن حفص، عن شمر قال: جاء ابن عباس إلى كعب الأحبار، فقال له: حدثني عن قول الله عزّ وجلّ: ﴿اللَّهُ نُورُ السَّمَاوَاتِ وَالأرْضِ﴾ ... الآية؟ فقال كعب: الله نور السماوات والأرض، مثل نوره مثل محمد ﷺ كمشكاة.
+
+⁕ حدثني عليّ بن الحسن الأزدي، قال: ثنا يحيى بن اليمان، عن أشعث، عن جعفر بن أبي المغيرة، عن سعيد بن جُبير في قوله: ﴿مَثَلُ نُورِهِ﴾ قال: محمد ﷺ.
+
+وقال آخرون: بل عني بذلك: هدي الله وبيانه، وهو القرآن، قالوا: والهاء من ذكر الله. قالوا: ومعنى الكلام: الله هادي أهل السماوات والأرض بآياته المبينات، وهي النور الذي استنار به السماوات والأرض مثل هداه وآياته التي هدى بها خلقه، ووعظهم بها في قلوب المؤمنين كمشكاة.
+
+ذكر من قال ذلك:
+
+⁕ حدثني علي، قال: ثنا أبو صالح، قال: ثني معاوية، عن عليّ، عن ابن عباس ﴿مَثَلُ نُورِهِ﴾ مثل هداه في قلب المؤمن.
+
+⁕ حدثني يعقوب بن إبراهيم، قال: ثنا ابن علية، عن أبي رجاء، عن الحسن، في قوله: ﴿مَثَلُ نُورِهِ﴾ قال: مثل هذا القرآن في القلب كمشكاة.
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله: ﴿مَثَلُ نُورِهِ﴾ : نور القرآن الذي أنزل على رسوله وعباده، هذا مثل القرآن ﴿كَمِشْكَاةٍ فِيهَا مِصْبَاحٌ﴾ .
+
+قال: أخبرنا ابن وهب، قال: أخبرني عبد الله بن عياش، قال: قال زيد بن أسلم في قول الله تبارك وتعالى: ﴿اللَّهُ نُورُ السَّمَاوَاتِ وَالأرْضِ مَثَلُ نُورِهِ﴾ ونوره الذي ذكر القرآن، ومثله الذي ضرب له.
+
+وقال آخرون: بل معنى ذلك: مثل نور الله، وقالوا: يعني بالنور: الطاعة.
+
+ذكر من قال ذلك:
+
+⁕ حدثني محمد بن سعد، قال: ثني بي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس، قوله: ﴿اللَّهُ نُورُ السَّمَاوَاتِ وَالأرْضِ مَثَلُ نُورِهِ كَمِشْكَاةٍ فِيهَا مِصْبَاحٌ﴾ : وذلك أن اليهود قالوا لمحمد: كيف يخلص نور الله من دون السماء؟ فضرب الله مثل ذلك لنوره، فقال: ﴿اللَّهُ نُورُ السَّمَاوَاتِ وَالأرْضِ مَثَلُ نُورِهِ كَمِشْكَاةٍ﴾ قال: وهو مثل ضربه الله لطاعته، فسمى طاعته نورا، ثم سماها أنوارا شتى.
+
+* *
+
+وقوله: ﴿كَمِشْكَاةٍ﴾
+
+اختلف أهل التأويل في معنى المشكاة والمصباح، وما المراد بذلك، وبالزجاجة، فقال بعضهم: المشكاة كل كوّة لا منفذ لها، وقالوا: هذا مثل ضربه الله لقلب محمد ﷺ.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا ابن حميد، قال: ثنا يعقوب، عن حفص، عن شمر، قال: جاء ابن عباس إلى كعب الأحبار، فقال له: حدثني عن قول الله: ﴿مَثَلُ نُورِهِ كَمِشْكَاةٍ﴾ ، قال: المشكاة وهي الكوّة، ضربها الله مثلا لمحمد ﷺ، المشكاة ﴿فيها مصباح المصباح قَلْبِهِ فِي زُجَاجَةٍ الزُّجَاجَةُ﴾ صدره، الزجاجة ﴿كَأَنَّهَا كَوْكَبٌ دُرِّيٌّ﴾ شبه صدر النبي ﷺ بالكوكب الدريّ، ثم رجع المصباح إلى قلبه فقال: ﴿يُوقَدُ مِنْ شَجَرَةٍ مُبَارَكَةٍ زَيْتُونَةٍ لا شَرْقِيَّةٍ وَلا غَرْبِيَّةٍ﴾ لم تمسّها شمس المشرق ولا شمس المغرب، ﴿يَكَادُ زَيْتُهَا يُضِيءُ﴾ يكاد محمد يبين للناس، وإن لم يتكلم أنه نبيّ، كما يكاد ذلك الزيت يضيء ﴿وَلَوْ لَمْ تَمْسَسْهُ نَارٌ نُورٌ عَلَى نُورٍ﴾ .
+
+⁕ حدثني علي، قال: ثنا عبد الله، قال: ثني معاوية، عن عليّ، عن ابن عباس قوله: ﴿كَمِشْكَاةٍ﴾ يقول: موضع الفتيلة.
+
+⁕ حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس قوله: ﴿الله نور السماوات والأرض إِلَى كَمِشْكَاةٍ﴾ قال: المشكاة: كوّة البيت.
+
+وقال: آخرون عنى بالمشكاة: صدر المؤمن، وبالمصباح: القرآن والإيمان، وبالزجاجة: قلبه.
+
+ذكر من قال ذلك:
+
+⁕ حدثني عبد الأعلى بن واصل، قال: ثنا عبيد الله بن موسى، قال: أخبرنا أبو جعفر الرازي، عن الربيع بن أنس، عن أبي العالية، عن أُبيّ بن كعب ﴿مَثَلُ نُورِهِ كَمِشْكَاةٍ فِيهَا مِصْبَاحٌ﴾ قال: مثل المؤمن، قد جعل الإيمان والقرآن في صدره كمشكاة، قال: المشكاة: صدره ﴿فِيهَا مِصْبَاحٌ﴾ قال: والمصباح القرآن والإيمان الذي جعل في صدره ﴿الْمِصْبَاحُ فِي زُجَاجَةٍ﴾ قال: والزجاجة: قلبه ﴿الزُّجَاجَةُ كَأَنَّهَا كَوْكَبٌ دُرِّيٌّ يُوقَدُ﴾ قال: فمثله مما استنار فيه القرآن والإيمان كأنه كوكب درّيّ، يقول: مضيء ﴿يُوقَدُ مِنْ شَجَرَةٍ مُبَارَكَةٍ﴾ والشجرة المباركة أصله المباركة الإخلاص لله وحده وعبادته، لا شريك له ﴿لا شَرْقِيَّةٍ وَلا غَرْبِيَّةٍ﴾ قال: فمثله مثل شجرة التفّ بها الشجر، فهي خضراء ناعمة، لا تصيبها الشمس على أيّ حال كانت، لا إذا طلعت ولا إذا غربت، وكذلك هذا المؤمن قد أجير من أن يصيبه شيء من الغير، وقد ابتلي بها فثبته الله فيها، فهو بين أربع خلال: إن أعطى شكر، وإن ابتلي صبر، وإن حكم عدل، وإن قال صدق، فهو في سائر الناس كالرجل الحيّ يمشي في قبور الأموات، قال: ﴿نُورٌ عَلَى نُورٍ﴾ فهو يتقلَّب في خمسة من النور: فكلامه نور، وعمله نور، ومدخله نور، ومخرجه نور، ومصيره إلى النور يوم القيامة في الجنة.
+
+⁕ حدثنا القاسم، قال: ثنا الحسين، قال: ثني يحيى بن اليمان، عن أبي جعفر الرازي، عن الربيع بن أنس، عن أُبيّ العالية، عن أبي بن كعب، قال: المشكاة: صدر المؤمن ﴿فِيهَا مِصْبَاحٌ﴾ قال: القرآن.
+
+⁕ قال: ثنا الحسين، قال: ثني حجاج، عن أبي جعفر، عن الربيع، عن أبي العالية، عن أُبيّ بن كعب، نحو حديث عبد الأعلى، عن عبيد الله.
+
+⁕ حدثني عليّ، قال: ثنا أبو صالح، قال: ثني معاوية، عن عليّ، عن ابن عباس ﴿مَثَلُ نُورِهِ كَمِشْكَاةٍ﴾ قال: مثل هداه في قلب المؤمن، كما يكاد الزيت الصافي يضيء قبل أن تمسه النار، فإذا مسته النار ازداد ضوءا على ضوء، كذلك يكون قلب المؤمن، يعمل بالهدى قبل أن يأتيه العلم، فإذا جاءه العلم ازداد هدى على هدى، ونورا على نور، كما قال إبراهيم صلوات الله عليه قبل أن تجيئه المعرفة: ﴿قَالَ هَذَا رَبِّي﴾ حين رأى الكوكب من غير أن يخبره أحد أن له ربا، فلما أخبره الله أنه ربه ازداد هدى على هدى.
+
+⁕ حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس، قوله: ﴿اللَّهُ نُورُ السَّمَاوَاتِ وَالأرْضِ مَثَلُ نُورِهِ كَمِشْكَاةٍ فِيهَا مِصْبَاحٌ﴾ وذلك أن اليهود قالوا لمحمد ﷺ: كيف يخلص نور الله من دون السماء؟ فضرب الله مثل ذلك لنوره، فقال: ﴿اللَّهُ نُورُ السَّمَاوَاتِ وَالأرْضِ مَثَلُ نُورِهِ كَمِشْكَاةٍ فِيهَا مِصْبَاحٌ﴾ والمشكاة: كوّة [[الكوة: بفتح الكاف، والضم لغة (اللسان) .]] البيت فيها مصباح، ﴿الْمِصْبَاحُ فِي زُجَاجَةٍ الزُّجَاجَةُ كَأَنَّهَا كَوْكَبٌ دُرِّيٌّ﴾ والمصباح: السراج يكون في الزجاجة، وهو مثل ضربه الله لطاعته، فسمى طاعته نورا وسماها أنواعا شتى.
+
+* *
+
+قوله: ﴿يُوقَدُ مِنْ شَجَرَةٍ مُبَارَكَةٍ زَيْتُونَةٍ لا شَرْقِيَّةٍ﴾
+
+قال: هي شجرة لا يفيء عليها ظلّ شرق ولا ظلّ غرب، ضاحية، ذلك أصفى للزيت [[في الأصل: الزيت، بدون لام قبلها، وأظنه، محرفًا، عما أثبتناه.]] ﴿يَكَادُ زَيْتُهَا يُضِيءُ وَلَوْ لَمْ تَمْسَسْهُ نَارٌ﴾ قال معمر، وقال الحسن: ليست من شجر الدنيا، ليست شرقية ولا غربية.
+
+وقال آخرون: هو مثل للمؤمن، غير أن المصباح وما فيه مثل لفؤاده، والمشكاة مثل لجوفه.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا القاسم، قال: ثنا الحسين، قال: ثني حجاج، عن ابن جُرَيج، قال: قال مجاهد وابن عباس جميعا: المصباح وما فيه مثل فؤاد المؤمن وجوفه، المصباح: مثل الفؤاد، والكوّة: مثل الجوف.
+
+قال ابن جُرَيج ﴿كَمِشْكَاةٍ﴾ : كوة غير نافذة. قال ابن جُرَيج، وقال ابن عباس: قوله: ﴿نُورٌ عَلَى نُورٍ﴾ يعني: إيمان المؤمن وعمله.
+
+وقال آخرون: بل ذلك مثل للقرآن في قلب المؤمن.
+
+ذكر من قال ذلك:
+
+⁕ حدثني يعقوب، قال: ثنا ابن علية، عن أبي رجاء، عن الحسن، في قوله: ﴿الله نُورُ السَّمَاوَاتِ وَالأرْضِ مَثَلُ نُورِهِ كَمِشْكَاةٍ﴾ قال: ككوّة ﴿فِيهَا مِصْبَاحٌ الْمِصْبَاحُ فِي زُجَاجَةٍ الزُّجَاجَةُ كَأَنَّهَا كَوْكَبٌ دُرِّيٌّ﴾ .
+
+⁕ حدثني يونس، قال: اخبرنا ابن وهب، قال: قال ابن زيد، في قول الله: ﴿اللَّهُ نُورُ السَّمَاوَاتِ وَالأرْضِ مَثَلُ نُورِهِ﴾ نور القرآن الذي أنزل على رسوله وعباده، فهذا مثل القرآن ﴿كَمِشْكَاةٍ فِيهَا مِصْبَاحٌ الْمِصْبَاحُ فِي زُجَاجَةٍ﴾ فقرأ حتى بلغ: ﴿مُبَارَكَةٍ﴾ فهذا مثل القرآن يستضاء به في نوره ويعلمونه ويأخذون به، وهو كما هو لا ينقص فهذا مثل ضربه الله لنوره. وفي قوله: ﴿يَكَادُ زَيْتُهَا يُضِيءُ﴾ قال: الضوء: إشراق ذلك الزيت، والمشكاة: التي فيها الفتيلة التي فيها المصباح، والقناديل تلك المصابيح.
+
+⁕ حدثنا محمد بن شار، قال: ثنا عبد الرحمن، قال: ثنا سفيان، عن أبي إسحاق، عن سعيد بن عياض في قوله: ﴿كَمِشْكَاةٍ﴾ قال: الكوّة.
+
+⁕ حدثنا ابن بشار، قال: ثنا أبو عامر، قال: ثنا قرة، عن عطية، في قوله: ﴿كَمِشْكَاةٍ﴾ قال: قال ابن عمر: المشكاة: الكوّة.
+
+وقال: آخرون: المشكاة القنديل.
+
+ذكر من قال ذلك:
+
+⁕ حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى، عن ابن أبي نجيح، عن مجاهد في قول الله: ﴿كَمِشْكَاةٍ﴾ قال: القنديل، ثم العمود الذي فيه القنديل.
+
+⁕ حدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء، عن ابن أبي نجيح، عن مجاهد ﴿كَمِشْكَاةٍ﴾ الصفر الذي في جوف القنديل.
+
+⁕ حدثني إسحاق بن شاهين، قال: ثنا خالد بن عبد الله، عن داود، عن رجل، عن مجاهد قال: المشكاة: القنديل.
+
+وقال آخرون: المشكاة الحديد الذي يعلق به القنديل.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا محمد بن المثنى، قال: ثنا محمد بن المفضل، قال: ثنا هشيم، قال: ثنا داود بن أبي هند، عن مجاهد، قال: المشكاة الحدائد التي يعلق بها القنديل.
+
+وأوْلى الأقوال في ذلك بالصواب قول من قال: ذلك مثل ضربه الله للقرآن في قلب أهل الإيمان به، فقال: مثل نور الله الذي أنار به لعباده سبيل الرشاد، الذي أنزله إليهم فآمنوا به وصدقوا بما فيه في قلوب المؤمنين مثل مشكاة، وهي عمود القنديل الذي فيه الفتيلة، وذلك هو نظير الكوّة التي تكون في الحيطان التي لا منفذ لها، وإنما جعل ذلك العمود مشكاة؛ لأنه غير نافذ، وهو أجوف مفتوح الأعلى، فهو كالكوّة التي في الحائط التي لا تنفذ، ثم قال: ﴿فِيهَا مِصْبَاحٌ﴾ وهو السراج، وجعل السراج وهو المصباح مثلا لما في قلب المؤمن من ال
+
+[TRUNCATED at 12000 chars — 7825 more. Consult the source directly before relying on anything near the cut.]
 
 ### al-Muyassar (Arabic)
 
-الله نور السموات والأرض يدبر الأمر فيهما ويهدي أهلهما، فهو- سبحانه- نور، وحجابه نور، به استنارت السموات والأرض وما فيهما، وكتاب الله وهدايته نور منه سبحانه، فلولا نوره تعالى لتراكمت الظلمات بعضها فوق بعض. مثل نوره الذي يهدي إليه، وهو الإيمان والقرآن في قلب المؤمن كمشكاة، وهي الكُوَّة في الحائط غير النافذة، فيها مصباح، حيث تجمع الكوَّة نور المصباح فلا يتفرق، وذلك المصباح في زجاجة، كأنها -لصفائها- كوكب مضيء كالدُّر، يوقَد المصباح من زيت شجرة مباركة، وهي شجرة الزيتون، لا شرقية فقط، فلا تصيبها ال...
+الله نور السموات والأرض يدبر الأمر فيهما ويهدي أهلهما، فهو -سبحانه- نور، وحجابه نور، به استنارت السموات والأرض وما فيهما، وكتاب الله وهدايته نور منه سبحانه، فلولا نوره تعالى لتراكمت الظلمات بعضها فوق بعض. مثل نوره الذي يهدي إليه، وهو الإيمان والقرآن في قلب المؤمن كمشكاة، وهي الكُوَّة في الحائط غير النافذة، فيها مصباح، حيث تجمع الكوَّةُ نورَ المصباح فلا يتفرق، وذلك المصباح في زجاجة، كأنها -لصفائها- كوكب مضيء كالدُّر، يوقَد المصباح من زيت شجرةٍ مباركةٍ، وهي شجرة الزيتون، لا شرقية فقط، فلا تصيبها الشمس آخر النهار، ولا غربية فقط فلا تصيبها الشمس أول النهار، بل هي متوسطة في مكان من الأرض لا إلى الشرق ولا إلى الغرب، يكاد زيتها -لصفائه- يضيء من نفسه قبل أن تمسه النار، فإذا مَسَّتْه النار أضاء إضاءة بليغة، نور على نور، فهو نور من إشراق الزيت على نور من إشعال النار، فذلك مثل الهدى يضيء في قلب المؤمن. والله يهدي ويوفق لاتباع القرآن مَن يشاء، ويضرب الأمثال للناس؛ ليعقلوا عنه أمثاله وحكمه. والله بكل شيء عليم، لا يخفى عليه شيء.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿اللَّه نُور السَّماوات والأَرْض﴾ أيْ مُنَوِّرهما بِالشَّمْسِ والقَمَر ﴿مَثَل نُوره﴾ أيْ صِفَته فِي قَلْب المُؤْمِن ﴿كَمِشْكاةٍ فِيها مِصْباحٌ المِصْباح فِي زُجاجَة﴾ هِيَ القِنْدِيل والمِصْباح السِّراج: أيْ الفَتِيلَة المَوْقُودَةُ والمِشْكاة الطّاقَة غَيْر النّافِذَة أيْ الأُنْبُوبَة فِي القِنْدِيل ﴿الزُّجاجَة كَأَنَّها﴾ والنُّور فِيها ﴿كَوْكَب دُرِّيّ﴾ أيْ مُضِيء بِكَسْرِ الدّال وضَمّها مِن الدَّرْء بِمَعْنى الدَّفْع لِدَفْعِها الظَّلام وبِضَمِّها وتَشْدِيد الياء مَنسُوب إلى الدُّرّ: اللُّؤْلُؤ ﴿تَوَقَّدَ﴾ المِصْباح بِالماضِي وفِي قِراءَة بِمُضارِعِ أوْقَدَ مَبْنِيًّا لِلْمَفْعُولِ بِالتَّحْتانِيَّة وفِي أُخْرى تُوقَد بِالفَوْقانِيَّةِ أيْ الزَّجاجَة ﴿مِن﴾ زَيْت ﴿شَجَرَة مُبارَكَة زَيْتُونَة لا شَرْقِيَّة ولا غَرْبِيَّة﴾ بَلْ بَيْنهما فَلا يَتَمَكَّن مِنها حَرّ ولا بَرْد مُضِرّانِ ﴿يَكاد زَيْتها يُضِيء ولَوْ لَمْ تَمْسَسْهُ نار﴾ لِصَفائِهِ ﴿نُور﴾ بِهِ ﴿عَلى نُور﴾ بِالنّارِ ونُور اللَّه: أيْ هُداهُ لِلْمُؤْمِنِ نُور عَلى نُور الإيمان ﴿يَهْدِي اللَّه لِنُورِهِ﴾ أيْ دِين الإسْلام ﴿مَن يَشاء ويَضْرِب﴾ يُبَيِّن ﴿اللَّه الأَمْثال لِلنّاسِ﴾ تَقْرِيبًا لِأَفْهامِهِمْ لِيَعْتَبِرُوا فَيُؤْمِنُوا ﴿واللَّه بِكُلِّ شَيْء عَلِيم﴾ ومِنهُ ضَرْب الأَمْثال
 
 ---
 
@@ -35,19 +274,84 @@ The Parable of the Light of Allah
 
 ### Ibn Kathir (English)
 
-Two Examples of two kinds of Disbelievers
-These are two examples which Allah sets forth of two kinds of disbelievers. Similarly He sets forth two parables of the hypocrites at the beginning of Surat Al-Baqarah: one involving fire and the other involving water. Similarly, in Surat Ar-Ra`d He gives two parables of the guidance and knowledge that are instilled in the heart, again involving fire and water; we have discussed each of them in the appropriate place and there is no need to repeat it h...
+As for those who disbelieved, their deeds are like a mirage in a Qi'ah. The thirsty one thinks it to be water until he comes up to it, he finds it to be nothing; but he finds Allah with him, Who will pay him his due. And Allah is swift in taking account (39)Or like the darkness in a vast deep sea, overwhelmed with waves topped by waves, topped by dark clouds, (layers of) darkness upon darkness: if a man stretches out his hand, he can hardly see it! And he for whom Allah has not appointed light, for him there is no light (40)
+
+Two Examples of Two Kinds of Disbelievers
+
+These are two examples which Allah sets forth of two kinds of disbelievers. Similarly He sets forth two parables of the hypocrites at the beginning of Surat Al-Baqarah: one involving fire and the other involving water. Similarly, in Surat Ar-Ra'd He gives two parables of the guidance and knowledge that are instilled in the heart, again involving fire and water; we have discussed each of them in the appropriate place and there is no need to repeat it here, praise be to Allah. The first of these two examples is that of the disbelievers who call others to their disbelief, thinking that they have good actions and beliefs, when this is not in fact the case. Their likeness is that of a mirage which is seen in a desert plain, looking from a distance as if it is a deep sea. The word Qi'ah refers to a vast, flat, level area of land in which the mirage may appear. There are different kinds of mirage, one which appears after midday, and another which appears in the morning and looks like water between heaven and earth. If a person who is in need of water sees the mirage, he thinks that it is water so he heads towards it in order to drink from it, but when he reaches it,
+
+لَمْ يَجِدْهُ شَيْئًا
+
+(he finds it to be nothing.); Similarly the disbeliever thinks that he is doing something good and that he has achieved something, but when Allah judges him on the Day of Resurrection, and brings him to account and examines his deeds, he will find that nothing has been accepted at all, either because of a lack of sincere belief or because he did not follow the proper ways of the Shari'ah. As Allah says:
+
+وَقَدِمْنَا إِلَىٰ مَا عَمِلُوا مِنْ عَمَلٍ فَجَعَلْنَاهُ هَبَاءً مَّنثُورًا
+
+(And We shall turn to whatever deeds they did, and We shall make such deeds as scattered floating particles of dust.)(25:23). And He says here:
+
+وَوَجَدَ اللَّهَ عِندَهُ فَوَفَّاهُ حِسَابَهُ ۗ وَاللَّهُ سَرِيعُ الْحِسَابِ
+
+(but he finds Allah with him, who will pay him his due. And Allah is swift in taking account.) A similar view was also narrated from Ubayy bin Ka'b, Ibn 'Abbas, Mujahid, Qatadah and others.
+
+In the Two Sahihs, it is reported that on the Day of Resurrection it will be said to the Jews, "What did you used to worship?" They will say, "We used to worship 'Uzayr the son of Allah." It will be said to them, "You have lied. Allah has not begotten a son. What do you want?" They will say, "O Lord, we are thirsty, give us something to drink." It will be said to them, "Do you not see?" Then Hell will be shown to them as if it is a mirage, parts of it consuming other parts, and they will go and fall into it.
+
+This is the parable of one whose ignorance is deep and advanced. As for those whose ignorance is simple, those who are uneducated and foolish and blindly follow the leaders of disbelief, knowing and understanding nothing, their parable is as Allah says:
+
+أَوْ كَظُلُمَاتٍ فِي بَحْرٍ لُّجِّيٍّ يَغْشَاهُ مَوْجٌ مِّن فَوْقِهِ مَوْجٌ مِّن فَوْقِهِ سَحَابٌ ۚ ظُلُمَاتٌ بَعْضُهَا فَوْقَ بَعْضٍ إِذَا أَخْرَجَ يَدَهُ لَمْ يَكَدْ يَرَاهَا
+
+(Or like the darkness in a vast deep sea, overwhelmed with waves topped by waves, topped by dark clouds, darkness upon darkness: if a man stretches out his hand, he can hardly see it!) meaning, he can hardly see it because it is so intensely dark. This is the parable of the heart of the disbeliever whose ignorance is simple, who merely follows and does not know the true nature of the one whom he follows or where he is going. He is like the ignorant man in the parable who was asked, "Where are you going?" He said, "With them." He was asked, "Where are they going?" He said, "I do not know."
+
+ظُلُمَاتٌ بَعْضُهَا فَوْقَ بَعْضٍ
+
+(darkness upon darkness) Ubayy bin Ka'b said: "He is enveloped in five types of darkness: his speech is darkness, his deeds are darkness, his coming in is darkness, his going out is darkness and his destiny on the Day of Resurrection will be darkness in the fire of Hell." As-Suddi and Ar-Rabi' bin Anas also said something similar.
+
+وَمَن لَّمْ يَجْعَلِ اللَّهُ لَهُ نُورًا فَمَا لَهُ مِن نُّورٍ
+
+(And he for whom Allah has not appointed light, for him there is no light.) One whom Allah does not guide is ignorant and doomed, an utter loser and disbeliever. This is like the Ayah:
+
+مَن يُضْلِلِ اللَّهُ فَلَا هَادِيَ لَهُ
+
+(Whomsoever Allah sends astray, none can guide him)(7:186) This is in contrast to what Allah says about the believers:
+
+يَهْدِي اللَّهُ لِنُورِهِ مَن يَشَاءُ
+
+(Allah guides to His Light whom He wills.)(24:35) We ask Allah the Almighty to put light in our hearts and give us light on our right and on our left, and to increase us in light.
 
 ### al-Tabari (Arabic)
 
-وهذا مثل آخر ضربه الله لأعمال الكفار، يقول تعالى ذكره: ومثل أعمال هؤلاء الكفار، في أنها عمِلت على خطأ وفساد وضلالة وحيرة من عمالها فيها، وعلى غير هدى، مثَلُ ظلمات في بحر لجِّيّ، ونسب البحر إلى اللجة وصفًا له بأنه عميق كثير الماء، ولجة البحر معظمه ( يَغْشَاهُ مَوْجٌ ) يقول: يغشى البحر موج ( مِنْ فَوْقِهِ مَوْجٌ ) يقول: من فوق الموج موج آخر يغشاه، ( مِنْ فَوْقِهِ سَحَابٌ ) يقول: من فوق الموج الثاني الذي يغشى الموج الأوّل سحاب، فجعل الظلمات مثلا لأعمالهم، والبحر اللجيّ مثلا لقلب الكافر، يقول: عم...
+القول في تأويل قوله تعالى: ﴿أَوْ كَظُلُمَاتٍ فِي بَحْرٍ لُجِّيٍّ يَغْشَاهُ مَوْجٌ مِنْ فَوْقِهِ مَوْجٌ مِنْ فَوْقِهِ سَحَابٌ ظُلُمَاتٌ بَعْضُهَا فَوْقَ بَعْضٍ إِذَا أَخْرَجَ يَدَهُ لَمْ يَكَدْ يَرَاهَا وَمَنْ لَمْ يَجْعَلِ اللَّهُ لَهُ نُورًا فَمَا لَهُ مِنْ نُورٍ (٤٠) ﴾
+
+وهذا مثل آخر ضربه الله لأعمال الكفار، يقول تعالى ذكره: ومثل أعمال هؤلاء الكفار، في أنها عمِلت على خطأ وفساد وضلالة وحيرة من عمالها فيها، وعلى غير هدى، مثَلُ ظلمات في بحر لجِّيّ، ونسب البحر إلى اللجة وصفًا له بأنه عميق كثير الماء، ولجة البحر معظمه ﴿يَغْشَاهُ مَوْجٌ﴾ يقول: يغشى البحر موج ﴿مِنْ فَوْقِهِ مَوْجٌ﴾ يقول: من فوق الموج موج آخر يغشاه، ﴿مِنْ فَوْقِهِ سَحَابٌ﴾ يقول: من فوق الموج الثاني الذي يغشى الموج الأوّل سحاب، فجعل الظلمات مثلا لأعمالهم، والبحر اللجيّ مثلا لقلب الكافر، يقول: عمل بنية قلب قد غمره الجهل، وتغشَّته الضلال والحيرة، كما يغشى هذا البحر اللجّي موج من فوقه موج من فوقه سحاب، فكذلك قلب هذا الكافر الذي مثل عمله مثل هذه الظلمات، يغشاه الجهل بالله، بأن الله ختم عليه، فلا يعقل عن الله، وعلى سمعه، فلا يسمع مواعظ الله، وجعل على بصره غشاوة فلا يبصر به حجج الله، فتلك ظلمات بعضها فوق بعض [[قال الشوكاني في فتح القدير (٤: ٣٨) : ومن غرائب التفاسير: أنه سبحانه وتعالى أراد بالظلمات أعمال الكافر، وبالبحر اللجى قلبه، وبالموج: ما يغشى قلبه من الجهل والشك والحيرة. والسحاب: الرين والختم والطبع على قلبه. وهذا تفسير هو عن لغة العرب بمكان بعيد ١ هـ.]] .
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثنا أبي، عن أبيه، عن ابن عباس، قوله: ﴿أَوْ كَظُلُمَاتٍ فِي بَحْرٍ لُجِّيٍّ يَغْشَاهُ مَوْجٌ مِنْ فَوْقِهِ مَوْجٌ مِنْ فَوْقِهِ سَحَابٌ﴾ ... إلى قوله: ﴿مِنْ نُورٍ﴾ قال: يعني بالظلمات: الأعمال، وبالبحر اللجّي: قلب الإنسان، قال: يغشاه موج من فوقه موج من فوقه سحاب، قال: ظلمات بعضها فوق بعض، يعني بذلك الغشاوة التي على القلب والسمع والبصر، وهو كقوله: ﴿خَتَمَ اللَّهُ عَلَى قُلُوبِهِمْ﴾ ... الآية، وكقوله: ﴿أَفَرَأَيْتَ مَنِ اتَّخَذَ إِلَهَهُ هَوَاهُ﴾ ... إلى قوله: ﴿أَفَلا تَذَكَّرُونَ﴾ .
+
+⁕ حدثنا الحسن، قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر، عن قَتادة في قوله: ﴿أَوْ كَظُلُمَاتٍ فِي بَحْرٍ لُجِّيٍّ﴾ عميق، وهو مثل ضربه الله للكافر، يعمل في ضلالة وحيرة، قال: ﴿ظُلُمَاتٌ بَعْضُهَا فَوْقَ بَعْضٍ﴾ .
+
+ورُوي عن أُبيّ بن كعب ما:-
+
+⁕ حدثني عبد الأعلى بن واصل، قال: ثنا عبيد الله بن موسى قال: أخبرنا أبو جعفر الرازي، عن الربيع، عن أبي العالية، عن أبيّ بن كعب، في قوله: ﴿أَوْ كَظُلُمَاتٍ فِي بَحْرٍ لُجِّيٍّ يَغْشَاهُ مَوْجٌ﴾ ... الآية، قال: ضرب مثلا آخر للكافر، فقال: ﴿أَوْ كَظُلُمَاتٍ فِي بَحْرٍ لُجِّيٍّ﴾ ... الآية، قال: فهو يتقلب في خمس من الظلم: فكلامه ظلمة، وعمله ظلمة، ومدخله ظلمة، ومخرجه ظلمة، ومصيره إلى الظلمات يوم القيامة إلى النار.
+
+⁕ حدثنا القاسم، قال: ثنا الحسين، قال: ثني حجاج، عن أبي جعفر الرازي، عن أبي الربيع، عن أبي العالية، عن أُبيّ بن كعب، بنحوه.
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد في قوله: ﴿أَوْ كَظُلُمَاتٍ فِي بَحْرٍ لُجِّيٍّ يَغْشَاهُ مَوْجٌ مِنْ فَوْقِهِ مَوْجٌ﴾ ... إلى قوله: ﴿ظُلُمَاتٌ بَعْضُهَا فَوْقَ بَعْضٍ﴾ قال: شرّ بعضه فوق بعض.
+
+* *
+
+وقوله: ﴿إِذَا أَخْرَجَ يَدَهُ لَمْ يَكَدْ يَرَاهَا﴾
+
+يقول: إذا أخرج الناظر يده في هذه الظلمات لم يكد يراها.
+
+فإن قال لنا قائل: وكيف قيل: ﴿لَمْ يَكَدْ يَرَاهَا﴾ ، مع شدّة هذه الظلمة التي وصف، وقد علمت أن قول القائل: لم أكد أرى فلانا، إنما هو إثبات منه لنفسه رؤيته بعد جهد وشدّة، ومن دون الظلمات التي وصف في هذه الآية ما لا يرى الناظر يده إذا أخرجها فيه، فكيف فيها؟ قيل في ذلك أقوال نذكرها، ثم نخبر بالصواب من ذلك، أحدها: أن يكون معنى الكلام: إذا أخرج يده رائيا لها لم يكد يراها: أي لم يعرف من أين يراها، فيكون من المقدّم الذي معناه التأخير، ويكون تأويل الكلام على ذلك: إذا أخرج يده لم يقرب أن يراها. والثاني: أن يكون معناه: إذا أخرج يده لم يرها [[في فتح القدير للشوكاني (طبعة الحلبي ٤: ٣٨) قال الزجاج وأبو عبيدة: لم يرها ولم يكد. وقال الفراء: إن كاد زائدة، وقال المحقق الرضي في شرحه لكافية ابن الحاجب (٢: ٣٠٦) : إن نفي القرب من الفعل أبلغ في انتفاء ذلك الفعل، من نفي الفعل نفسه؛ فإن ما قربت من الضرب، آكد في نفي الضرب من ما ضربت. أهـ.]] ويكون قوله: ﴿لَمْ يَكَدْ﴾ في دخوله في الكلام نظير دخول الظنّ فيما هو يقين من الكلام، كقوله: ﴿وَظَنُّوا مَا لَهُمْ مِنْ مَحِيصٍ﴾ ونحو ذلك. والثالث: أن يكون قد رآها بعد بطء وجهد، كما يقول القائل لآخر: ما كدت أراك من الظلمة، وقد رآه، ولكن بعد إياس وشدة، وهذا القول الثالث أظهر معاني الكلمة من جهة ما تستعمل العرب أكاد في كلامها، والقول الآخر الذي قلنا إنه يتوجه إلى أنه بمعنى لم يرها، قول أوضح من جهة التفسير، وهو أخفى معانيه. وإنما حسُن ذلك في هذا الموضع، أعني أن يقول: لم يكد يراها مع شدة الظلمة التي ذكر؛ لأن ذلك مثل لا خبر عن كائن كان. ﴿وَمَنْ لَمْ يَجْعَلِ اللَّهُ لَهُ نُورًا﴾ يقول: من لم يرزقه الله إيمانا وهدى من الضلالة ومعرفة بكتابه، ﴿فَمَا لَهُ مِنْ نُورٍ﴾ : يقول فما له من إيمان وهدى ومعرفة بكتابه.
 
 ### al-Muyassar (Arabic)
 
-أو تكون أعمالهم مثل ظلمات في بحر عميق يعلوه موج، من فوق الموج موج آخر، ومِن فوقه سحاب كثيف، ظلمات شديدة بعضها فوق بعض، إذا أخرج الناظر يده لم يقارب رؤيتها من شدة الظلمات، فالكفار تراكمت عليهم ظلمات الشرك والضلال وفساد الأعمال. ومن لم يجعل الله له نورًا من كتابه وسنة نبيه يهتدي به فما له مِن هاد.
+أو تكون أعمالهم مثل ظلمات في بحر عميق يعلوه موج، ومن فوق الموج موج آخر، ومِن فوقه سحاب كثيف، ظلمات شديدة بعضها فوق بعض، إذا أخرج الناظر يده لم يقارب رؤيتها من شدة الظلمات، فالكفار تراكمت عليهم ظلمات الشرك والضلال وفساد الأعمال. ومن لم يجعل الله له نورًا من كتابه وسنة نبيه يهتدي به فما له مِن هاد.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿أوْ﴾ الَّذِينَ كَفَرُوا أعْمالهمْ السَّيِّئَة ﴿كَظُلُماتٍ فِي بَحْر لُجِّيّ﴾ عَمِيق ﴿يَغْشاهُ مَوْج مِن فَوْقه﴾ أيْ المَوْج ﴿مَوْج مِن فَوْقه﴾ أيْ المَوْج الثّانِي ﴿سَحاب﴾ أيْ غَيْم هَذِهِ ﴿ظُلُمات بَعْضها فَوْق بَعْض﴾ ظُلْمَة البَحْر وظُلْمَة المَوْج الأَوَّل وظُلْمَة الثّانِي وظُلْمَة السَّحاب ﴿إذا أخْرَجَ﴾ النّاظِر ﴿يَده﴾ فِي هَذِهِ الظُّلُمات ﴿لَمْ يَكَدْ يَراها﴾ أيْ لَمْ يَقْرُب مِن رُؤْيَتها ﴿ومَن لَمْ يَجْعَل اللَّه لَهُ نُورًا فَما لَهُ مِن نُور﴾ أيْ مَن لَمْ يَهْدِهِ اللَّه لَمْ يَهْتَدِ
 
 ---

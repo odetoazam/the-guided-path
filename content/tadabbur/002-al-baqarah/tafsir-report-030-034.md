@@ -1,6 +1,6 @@
 # Tafsir Cross-Reference Report
 
-Generated: 2026-03-23
+Generated: 2026-07-30
 Ayahs referenced: 6
 Tafsir sources: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), al-Jalalayn (Arabic)
 
@@ -10,26 +10,203 @@ Tafsir sources: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), 
 
 ### Ibn Kathir (English)
 
+And (remember) when your Lord said to the angels: "Verily, I am going to place (mankind) generations after generations on earth." They said: "Will You place therein those who will make mischief therein and shed blood, ـ while we glorify You with praises and thanks and sanctify You." He (Allah) said: "I know that which you do not know. (30)
+
 Adam and His Children inhabited the Earth, Generation after Generation
+
 Allah reiterated His favor on the Children of Adam when He stated that He mentioned them in the highest of heights before He created them. Allah said,
-وَإِذْ قَالَ رَبُّكَ لِلْمَلَـئِكَةِ
+
+وَإِذْ قَالَ رَبُّكَ لِلْمَلَائِكَةِ
+
 (And (remember) when your Lord said to the angels.)
-This Ayah means, "O Muhammad ! Mention to your people what Allah said to the angels,
-إِنِّي جَاعِلٌ فِى الأَرْضِ خَلِيفَةً
+
+This Ayah means, "O Muhammad ﷺ! Mention to your people what Allah said to the angels,
+
+إِنِّي جَاعِلٌ فِي الْأَرْضِ خَلِيفَةً
+
 (Verily, I am going to place a Khalifah on earth).
-Meaning peop...
+
+Meaning people reproducing generation after generation, century after century, just as Allah said,
+
+وَهُوَ الَّذِي جَعَلَكُمْ خَلَائِفَ الْأَرْضِ
+
+(And it is He Who has made you (Khala'if) generations coming after generations, replacing each other on the earth)(6:165),
+
+وَيَجْعَلُكُمْ خُلَفَاءَ الْأَرْضِ
+
+(And makes you (Khulafa') inheritors of the earth)(27:62),
+
+وَلَوْ نَشَاءُ لَجَعَلْنَا مِنكُم مَّلَائِكَةً فِي الْأَرْضِ يَخْلُفُونَ
+
+(And if it were Our will, We would have (destroyed you (mankind all, and) made angels to replace you (Yakhlufun) on the earth.)(43: 60) and,
+
+فَخَلَفَ مِن بَعْدِهِمْ خَلْفٌ
+
+(Then after them succeeded an (evil) generation (Khalf))(7:169). It appears that Allah was not refering to Adam specifically as Khalifah, otherwise he would not have allowed the angels' statement,
+
+أَتَجْعَلُ فِيهَا مَن يُفْسِدُ فِيهَا وَيَسْفِكُ الدِّمَاءَ
+
+(Will You place therein those who will make mischief therein and shed blood).
+
+The angels meant that this type of creature usually commits the atrocities they mentioned. The angels knew of this fact, according to their understanding of human nature, for Allah stated that He would create man from clay. Or, the angels understood this fact from the word Khalifah, which also means the person who judges disputes that occur between people, forbidding them from injustice and sin, as Al-Qurtubi said.
+
+The statement the angels uttered was not a form of disputing with Allah's, nor out of envy for the Children of Adam, as some mistakenly thought. Allah has described them as those who do not precede Him in speaking, meaning that they do not ask Allah anything without His permission. When Allah informed them that He was going to create a creation on the earth, and they had knowledge that this creation would commit mischief on it, as Qatadah mentioned, they said,
+
+أَتَجْعَلُ فِيهَا مَن يُفْسِدُ فِيهَا وَيَسْفِكُ الدِّمَاءَ
+
+(Will You place therein those who will make mischief therein and shed blood?)
+
+This is only a question for the sake of learning about the wisdom of that, as if they said, Our Lord! What is the wisdom of creating such creatures since they will cause trouble in the earth and spill blood? "If the wisdom behind this action is that You be worshipped, we praise and glorify You (meaning we pray to You) we never indulge in mischief, so why create other creatures?"
+
+Allah said to the angels in answer to their inquiry,
+
+إِنِّي أَعْلَمُ مَا لاَ تَعْلَمُونَ
+
+(I know that which you do not know.) meaning, "I know that the benefit of creating this type of creature outweighs the harm that you mentioned, that which you have no knowledge of. I will create among them Prophets and send Messengers. I will also create among them truthful, martyrs, righteous believers, worshippers, the modest, the pious, the scholars who implement their knowledge, humble people and those who love Allah and follow His Messengers."
+
+The Sahih recorded that when the angels ascend to Allah with the records of the servant's deeds, Allah asks them, while having better knowledge, "How did you leave My servants?" They will say, "We came to them while they were praying and left them while they were praying." This is because the angels work in shifts with mankind, and they change shifts during the Fajr and 'Asr prayers. The angels who descended will remain with us, while the angels who have remained with us ascend with our deeds. The Messenger of Allah ﷺ said,
+
+يُرْفَعُ إِلَيْهِ عَمَلُ اللَّيْلِ قَبْلَ النَّهَارِ وَعَمَلُ النَّهَارِ قَبْلَ اللَّيْلِ
+
+(The deeds of the night are elevated to Allah before the morning, and the deeds of the morning before the night falls.)
+
+Hence, the angels' statement, "We came to them while they were praying and left them while they were praying," explains Allah's statement,
+
+إِنِّي أَعْلَمُ مَا لاَ تَعْلَمُونَ
+
+(I know that which you do not know.)
+
+It was said that the meaning of Allah's statement,
+
+إِنِّي أَعْلَمُ مَا لاَ تَعْلَمُونَ
+
+(I know that which you do not know.) is, "I have a specific wisdom in creating them, which you do not have knowledge of." It was also said that it is in answer to,
+
+وَنَحْنُ نُسَبِّحُ بِحَمْدِكَ وَنُقَدِّسُ لَكَ
+
+(While we glorify You with praises and thanks and sanctify You) after which Allah said,
+
+إِنِّي أَعْلَمُ مَا لاَ تَعْلَمُونَ
+
+(I know that which you do not know). Meaning, "I know that Iblis is not as you are, although he is among you." Others said,
+
+أَتَجْعَلُ فِيهَا مَن يُفْسِدُ فِيهَا وَيَسْفِكُ الدِّمَآءَ وَنَحْنُ نُسَبِّحُ بِحَمْدِكَ وَنُقَدِّسُ لَكَ
+
+"(Will You place therein those who will make mischief therein and shed blood, ـ while we glorify you with praises and thanks and sanctify You.) is their request that they should be allowed to inhabit the earth, instead of the Children of Adam. So Allah said to them,
+
+إِنِّي أَعْلَمُ مَا لاَ تَعْلَمُونَ
+
+(I know that which you do not know) if your inhabiting the heavens is better, or worse for you." Ar-Razi as well as others said this. Allah knows best.
+
+The Obligation of appointing a Khalifah and some related Issues
+
+Al-Qurtubi, as well as other scholars, said that this Ayah (2:30) proves the obligation of appointing a Khalifah to pass judgements on matters of dispute between people, to aid the oppressed against the oppressor, to implement the Islamic penal code and to forbid evil. There are many other tasks that can only be fulfilled by appointing the Imam, and what is necessary in performing an obligation, is an obligation itself. We should state here that Imamah occurs by either naming a successor, as a group among Ahl As-Sunnah scholars said occurred - by the Prophet ﷺ - in the case of Abu Bakr, or hinting to a successor. Or, the current Khalifah names a certain person as Khalifah after him, as Abu Bakr did with 'Umar. Or, the Khalifah might leave the matter in the hands of the Muslim consultative council, or a group of righteous men, just as 'Umar did. Or, the people of authority could gather around a certain person to whom they give the pledge of allegiance, or they could select one among them to choose the candidate, according to the majority of the scholars.
+
+The Khalifah must be a responsible adult Muslim male, able to perform Ijtihad (independent legal judgments), bodily able, righteous, with knowledge of warfare, politics. He also must be from the tribe of Quraysh, according to the correct view, but it is not necessary that he be from the tribe of Bani Hashim, or that he be immune from error, as the Rafidah (Shiites) falsely claim.
+
+When the Khalifah becomes an immoral person (Fasiq), should he be impeached? There is disagreement over this matter, but the correct view is that he is not to be removed, because the Messenger of Allah ﷺ said,
+
+إِلَّا أَنْ تَرَوْا كُفْرًا بَوَاحًا عِنْدَكُمْ مِنَ اللهِ فِيهِ بُرْهَانٌ
+
+(Unless you witness a clear Kufr regarding which you have clear proof from Allah.)
+
+Does the Khalifah have the right to resign from his post There is a difference on this issue. It is a fact that Al-Hasan bin 'Ali removed himself from the position of Khalifah and surrendered it to Mu'awiyah. However, this occurred because of a necessity, and Al-Hasan was praised for this action.
+
+It is not permissible to appoint two Imams for the world or more at the same time. This is not allowed because the Messenger of Allah ﷺ said,
+
+مَنْ جَاءَكُمْ وَأَمْرُكُمْ جَمِيعٌ يُرِيدُ أَنْ يُفَرِّقَ بَيْنَكُمْ فَاقْتُلُوهُ كَائِنًا مَنْ كَانَ
+
+(Whoever came to you while you are united and tried to divide you, then execute him, no matter who he is.)
+
+This is the view of the majority of scholars. Imam Al-Haramayn stated that Abu Ishaq allowed the appointment of two or more Imams when the various provinces are far away from each other. However, Imam Al-Haramayn himself was indecisive about this view.
 
 ### al-Tabari (Arabic)
 
-وإذ قال ربكالقول في تأويل قوله تعالى : { وإذ قال ربك } قال أبو جعفر : زعم بعض المنسوبين إلى العلم بلغات العرب من أهل البصرة أن تأويل قوله : { وإذ قال ربك } وقال ربك , وأن " إذ " من الحروف الزوائد , وأن معناها الحذف . واعتل لقوله الذي وصفنا عنه في ذلك ببيت الأسود بن يعفر : فإذا وذلك لامهاه لذكره والدهر يعقب صالحا بفساد ثم قال : ومعناها : وذلك لامهاه لذكره . وببيت عبد مناف بن ربع الهذلي : حتى إذا أسلكوهم في قتائدة شلا كما تطرد الجمالة الشردا وقال : معناه : حتى أسلكوهم . قال أبو جعفر : والأمر في...
+القول في تأويل قوله: ﴿وَإِذْ قَالَ رَبُّكَ﴾
+
+قال أبو جعفر: زعم بعض المنسوبين إلى العلم بلغات العرب من أهل البصرة [[هو أبو عبيدة (انظر تفسير ابن كثير ١: ١٢٥) ، وكما مضى آنفًا في مواضع من كلام الطبري. ويؤيد ذلك أن البغدادي نقل في شرح بيت عبد مناف بن ربعى، (الخزانة ٣: ١٧١) ، عن ابن السيد: "وقال أبو عبيدة: إذا، زائدة، فلذلك لم يؤت لها بجواب". هذا والشاهدان الآتيان في زيادة"إذا" لا في زيادة"إذ"، وهو من جرأة أبي عبيدة وخطئه، وأيا ما كان قائله، فهو جريء مخطئ.]] : أن تأويل قوله:"وإذ قال ربك"، وقال ربك؛ وأن"إذ" من الحروف الزوائد، وأن معناها الحذف. واعتلّ لقوله الذي وصفنا عنه في ذلك ببيت الأسود بن يَعْفُر:
+
+فَإِذَا وَذَلِكَ لامَهَاهَ لِذِكْرهِ ... وَالدَّهْرُ يُعْقِب صَالِحًا بِفَسَادِ [[المفضليات، القصيدة رقم: ٤٤، وليس البيت في رواية ابن الأنباري شارح المفضليات. وقوله"لامهاه"، يقال: ليس لعيشنا مهه (بفتحتين) ومهاه: أي ليس له حسن أو نضارة. وقد زعموا أن الواو في قوله"فإذا وذلك. . " زائدة مقحمة، كأنه قال: فإذا ذلك. . .، وقد قال الطبري في تفسير قوله تعالى: "حتى إذا جاءوها وفتحت أبوابها وقال لهم خزنتها سلام عليكم طبتم فادخلوها خالدين" ج ٢٤ ص ٢٤: "واختلف أهل العربية في موضع جواب"إذا" التي في قوله: (حتى إذا جاءوها) ، فقال بعض نحويي البصرة، يقال إن قوله: (وقال لهم خزنتها) في معنى: قال لهم. كأنه يلغى الواو. وقد جاء في الشعر شيء يشبه أن تكون الواو زائدة، كما قال الشاعر: فَإِذَا وَذَلِكَ يَا كُبَيْشَةُ لَمْ يَكُنْ ... إِلا تَوَهُّمَ حَالِمٍ بِخَيَالِ
+
+فيشبه أن يكون يريد: فإذا ذلك لم يكن". وقال أبو سعيد السكري في شرح أشعار الهذليين ٢: ١٠٠، في شرح بيت أبي كبير الهذلي: فَإِذَا وَذَلِكَ لَيْسَ إِلا حِينَهُ ... وَإِذَا مَضَى شَيْءٌ كَأَنْ لَمْ يُفْعَلِ
+
+قال أبو سعيد: "الواو زائدة. قال: قلت لأبي عمرو: يقول الرجل: ربنا ولك الحمد. فقال: يقول الرجل: قد أخذت هذا بكذا وكذا. فيقول: وهو لك".
+
+وقال ابن الشجري في أماليه ١: ٣٥٨: "قيل في الآية إن الواو مقحمة، وليس ذلك بشيء، لأن زيادة الواو لم تثبت في شيء من الكلام الفصيح". والذي ذهب إليه ابن الشجري هو الصواب، ولكل شاهد مما استشهدوا به وجه في البيان، ليس هذا موضع تفصيله. وكفى برد الطبري في هذا الموضع ما زعمه أبو عبيدة من زيادة"إذ" كما سيأتي: "وغير جائز إبطال حرف كان دليلا على معنى في الكلام" إلى آخر ما قال. وهو من سديد الفهم. وشرحه للبيت بعد، يدل على أنه لا يرى زيادة الواو، وذلك قوله في شرحه: "فإذا الذي نحن فيه، وما مضى من عيشنا".]] ثم قال: ومعناها: وذلك لامهاه لذكره - وببيت عبد مناف بن رِبْع الهُذَليِّ:
+
+حَتَّى إِذَا أَسْلَكُوهُمْ فِي قُتَائِدَةٍ ... شَلا كَمَا تَطْرُدُ الْجَمَّالَةُ الشُّرُدَا [[ديوان الهذليين ٢: ٤٢، ويأتي في تفسير الطبري ١٤: ٨، ١٨: ١٣، ٢٤: ٢٥ (طبعة بولاق) والخزانة ٣: ١٧٠ - ١٧٤، وأمالى ابن الشجري ١: ٣٥٨، ٢: ٢٨٩، وكثير غيرها. وسلك الرجل الطريق، وسلكه غيره فيه، وأسلكه الطريق: أدخله فيه أو اضطره إليه. وقتائدة: جبل بين المنصرف والروحاء، أي في الطريق بين مكة والمدينة. وشل السائق الإبل: طردها أمامه طردًا. ومر فلان يشل العدو بالسيف: يطردهم طردًا يفرون أمامه. والجمالة: أصحاب الجمال. وشرد البعير فهو شارد وشرود: نفر وذهب في الأرض، وجمع شارد شرد (بفتحتين) مثل خادم وخدم. وجمع شرود شرد (بضمتين) . ويذكر عبد مناف قومًا أغاروا على عدو لهم، فأزعجوهم عن منازلهم، واضطروهم إلى"قتائدة" يطردونهم بالسيوف والرماح والنبال، كما تطرد الإبل الشوارد. وجواب"إذا" تقديره: شلوهم شلا، فعل محذوف دل عليه المصدر، كما سيأتي في كلام الطبري بعد.]]
+
+وقال: معناه، حتى أسلكوهم.
+
+قال أبو جعفر: والأمر في ذلك بخلاف ما قال: وذلك أن"إذ" حرف يأتي بمعنى الجزاء، ويدل على مجهول من الوقت. وغيرُ جائز إبطال حرف كان دليلا على معنى في الكلام. إذْ سواءٌ قيلُ قائل: هو بمعنى التطوُّل، وهو في الكلام دليل على معنى مفهوم - وقيلُ آخرَ، في جميع الكلام الذي نطق به دليلا على ما أريد به: وهو بمعنى التطوُّل [[في المخطوطة: "هو بمعنى التطول في الكلام". وهو خطأ. والتطول، في اصطلاح الطبري وغيره: الزيادة في الكلام بمعنى الإلغاء، كما مضى آنفًا في ص ١٤٠ من بولاق، وأراد الطبري أن ينفي ما لج فيه بعض النحاة من ادعاء اللغو والزيادة في الكلام، فهو يقول: إذا كان للحرف أو الكلمة معنى مفهوم في الكلام، ثم ادعيت أنه زيادة ملغاة، فجائز لغيرك أن يدعي أن جملة كاملة مفهومة المعنى، أو كلامًا كاملا مفهوم المعنى - إنما هي زيادة ملغاة أيضًا. وبذلك يبطل كل معنى لكل كلام، إذ يجوز لمدع أن يبطل منه ما يشاء بما يهوى من الجرأة والادعاء. وهذا تأييد لمذهبنا الذي ارتضيناه في التعليق السالف.]] .
+
+وليس لما ادَّعَى الذي وصفنا قوله [[في المطبوعة"وليس لمدعي الذي. . " وهو خطأ.]] - في بيت الأسود بن يعفر: أن"إذا" بمعنى التطوّل - وجه مفهوم، بل ذلك لو حذف من الكلام لبطل المعنى الذي أراده الأسود بن يعفر من قوله:
+
+فَإِذَا وذلك لامَهَاهَ لِذِكْرِه
+
+وذلك أنه أراد بقوله: فإذا الذي نحن فيه، وما مضى من عيشنا. وأشار بقوله"ذلك" إلى ما تقدم وصْفه من عيشه الذي كان فيه -"لامهاه لذكره" يعني لا طعمَ له ولا فضلَ، لإعقاب الدهر صَالح ذلك بفساد. وكذلك معنى قول عبد مناف بن رِبْعٍ:
+
+حَتَّى إِذَا أَسْلَكُوهُمْ فِي قُتَائِدَةٍ ... شَلا.................
+
+لو أسقط منه"إذا" بطل معنى الكلام، لأن معناه: حتى إذا أسلكوهم في قتائدة سلكوا شلا فدل قوله."أسلكوهم شلا" على معنى المحذوف، فاستغنى عن ذكره بدلالة"إذا" عليه، فحذف. كما دَلّ - ما قد ذكرنا فيما مضى من كتابنا [[في المطبوعة: "كما قد ذكرنا فيما مضى من كتابنا على ما تفعل. . . "، وفي المخطوطة: "كما قال. قد ذكرنا فيما مضى. . "، وكلاهما خطأ، الأول من تغيير المصححين، والثاني تصحيف في"قال"، فهي"دل"، والنقطة السوداء، بياض كان في الأصل المنقول عنه، أو"ما" ضاعت ألفها وبقيت"م" مطموسة، فظنها ظان علامة فصل.
+
+هذا وقد أشار الطبري إلى ما مضى في كتابه هذا ص: ١١٤، ص: ٣٢٧ فانظره.]] - على ما تفعل العربُ في نظائر ذلك. وكما قال النمر بن تَوْلَب:
+
+فَإِنَّ الْمَنِيَّةَ مَنْ يَخْشَهَا ... فَسَوْفَ تُصَادِفُه أَيْنَما [[من قصيدة محكمة في مختارات ابن الشجري ١: ١٦، والخزانة ٤: ٤٣٨، وشرح شواهد المغني: ٦٥، وبعده: وإنْ تتخطّاكَ أسْبابُها ... فإن قُصَاراكَ أنْ تهرمَا]]
+
+وهو يريد: أينما ذهب. وكما تقول العرب:"أتيتك من قبلُ ومن بعدُ". تريد من قبل ذلك، ومن بعد ذلك. فكذلك ذلك في"إذا" كما يقول القائل: "إذا أكرمك أخوكَ فأكرمه، وإذا لا فلا". يريد: وإذا لم يكرمك فلا تكرمه.
+
+ومن ذلك قول الآخر:
+
+فَإِذَا وَذَلِكَ لا يَضُرُّكَ ضُرُّهُ ... فِي يَوْم أسألُ نَائِلا أو أنْكَدُ [[لم أعرف صاحبه. وفي المطبوعة: "في يوم أثل نائلا أو أنكدا"
+
+وهو خطأ عريق. وفي المطبوعة: "أسل نائلا"، وهي أقرب إلى الصواب. الضر: سوء الحال من فقر أو شدة أو بلاء أو حزن. والنائل: ما تناله وتصيبه من معروف إنسان. ونكده ما سأله: قلل له العطاء، أو لم يعطه البتة، يقول القائل: وأعْطِ ما أعطيتَهُ طَيِّبًا ... لا خيرَ في المنكودِ والنَّاكِدِ]]
+
+نظيرَ ما ذكرنا من المعنى في بيت الأسود بن يعفر. وكذلك معنى قول الله جل ثناؤه:"وإذ قالَ ربك للملائكة"، لو أبْطِلت"إذ" وحُذِفت من الكلام، لاستحال عن معناه الذي هو به [[قوله: "الذي هو به"، أي: الذي هو به كلام قائم مفهوم.]] ، وفيه"إذ".
+
+فإن قال لنا قائل: فما معنى ذلك؟ وما الجالب لـ "إذ"، إذ لم يكن في الكلام قبله ما يُعطف به عليه [[في المطبوعة: "فإن قال قائل"، بحذف: "لنا".]] ؟
+
+قيل له: قد ذكرنا فيما مضى [[انظر ما سلف في ص: ٤٢٤ وما بعدها.]] : أنّ الله جل ثناؤه خاطب الذين خاطبهم بقوله:"كيف تكفرون بالله وكنتم أمواتًا فأحياكم"، بهذه الآيات والتي بعدها، مُوَبِّخهم مقبحًا إليهم سوءَ فعالهم ومقامهم على ضلالهم، مع النعم التي أنعمها عليهم وعلى أسلافهم؛ ومذكِّرَهم -بتعديد نعمه عليهم وعلى أسلافهم- بأسَه، أن يسلكوا سبيل من هلك من أسلافهم في معصيته [[في المطبوعة: "من أسلافهم في معصية الله"، وفي المخطوطة: "سلافهم" مضبوطة بالقلم بضم السين وتشديد اللام، وفي المواضع السالفة: "أسلاف". والأسلاف والسلاف جمع سلف وسالف: وهم آباؤنا الذين مضوا وتقدمونا إلى لقائه سبحانه.]] ، فيسلك بهم سبيلهم في عقوبته؛ ومعرِّفهم ما كان منه من تعطّفه على التائب منهم استعتابًا منه لهم. فكان مما عدّد من نعمه عليهم أنه خلق لهم ما في الأرض جميعًا، وسخّر لهم ما في السموات من شمسها وقمرها ونجومها، وغير ذلك من منافعها التي جعلها لهم ولسائر بني آدم معهم منافع. فكان في قوله تعالى: ذكره"كيف تكفرون بالله وكنتم أمواتًا فأحياكم ثم يميتكم ثم يحييكم ثم إليه ترجعون"، معنى: اذكروا نعمتي التي أنعمت عليكم، إذ خلقتكم ولم تكونوا شيئًا، وخلقت لكم ما في الأرض جميعًا، وسويت لكم ما في السماء. ثم عطف بقوله:"وإذ قال رَبُّك للملائكة" على المعنى المقتضَى بقوله:"كيف تكفرون بالله"، إذ كان مقتضيًا ما وصفتُ من قوله: اذكروا نعمتي إذ فعلت بكم وفعلتُ، واذكروا فعلي بأبيكم آدم إذ قلتُ للملائكة إني جاعلٌ في الأرض خليفةً [[هذا الذي قاله أبو جعفر تغمده الله بمغفرته، من أجود النظر في تأويل كتاب الله، ومن حسن بصره بالعربية وأسرار إيجازها، واعتمادها على الاكتفاء بالقليل من اللفظ الدال على الكثير من المعنى، واتخاذها الحروف روابط للمعاني الجامعة، لا لرد حرف على حرف سبق.]] .
+
+فإن قال قائل: فهل لذلك من نظير في كلام العرب نعلم به صحة ما قلت؟ قيل: نعم، أكثرُ من أن يحصى، من ذلك قول الشاعر:
+
+أجِدَّك لَنْ تَرَى بِثُعَيْلِبَاتٍ ... وَلا بَيْدَانَ نَاجِيةَ ذَمُولا [[هو للمرار بن سعيد الفقعسي، معاني القرآن للفراء ١: ١٧١، مجالس ثعلب: ١٥٩، اللسان (بيد) (طفل) (نشغ) ، ومعجم البلدان (ثعيلبات) . وثعيلبات وبيدان موضعان. والناجية: الناقة السريعة، من النجاء: وهو سرعة السير. والذمول: الناقة التي تسير سيرًا سريعًا لينًا ذملت ذميلا وذملانًا.]] وَلا مُتَدَاركٍ وَالشَّمْسُ طِفْلٌ ... بِبَعْضِ نَوَاشغ الوَادي حُمُولا [[يروى"ولا متلافيًا" بالنصب. وتدارك القوم (متعديًا) ، بمعنى أدركهم، أو حاول اللحاق بهم. وتلافاه: تداركه أيضًا. والشمس طفل: يعني هنا: عند شروقها -لا عند غروبها- أخذت من الطفل الصغير. ونواشغ الوادي جمع ناشغة: وهي مجرى الماء إلى الوادي. الحمول: هي الهوادج التي فيها النساء تحملها الإبل. وسميت الإبل وما عليها حمولا، لأنهم يحملون عليها الهوادج للرحلة. يقول: لن تدركهم، فقد بكروا بالرحيل.]]
+
+فقال:"ولا متداركٍ"، ولم يتقدمه فعلٌ بلفظ يعطفه عليه [[في المطبوعة: "يعطف عليه". وفي المخطوطة"يعطف به"، وقوله"به" ملصقة إلصاقًا في الفاء من "يعطف".]] ، ولا حرف مُعرَب إعرابَه، فيردّ "متدارك" عليه في إعرابه. ولكنه لما تقدّمه فعل مجحود بـ "لن" يدل على المعنى المطلوب في الكلام من المحذوف [[في المطبوعة: "في الكلام، وعلى المحذوف"، لعله من تغيير المصححين. وأراد الطبري أن الفعل المجحود، يدل على المعنى المطلوب من المحذوف. وهذا بين.]] ، استغني بدلالة ما ظهر منه عن إظهار ما حُذِف، وعاملَ الكلامَ في المعنى والإعراب معاملته أن لو كان ما هو محذوف منه ظاهرًا [[في المخطوطة: "إذ لو كان ما هو محذوف منه ظاهر"، وهو خطأ.]] . لأن قوله:
+
+أجدّك لن تَرَى بِثُعَيْلِبَات
+
+بمعنى:"أجدّك لستَ بِرَاءٍ"، فردّ "متداركًا" على موضع"ترى"، كأنْ "لست" و"الباء" موجودتان في الكلام. فكذلك قوله:"وإذ قالَ رَبُّك"، لمّا سلف قبله تذكير الله المخاطبين به ما سلف قِبَلهم وقِبَل آبائهم من أياديه وآلائه، وكانَ قوله: "وإذ قال ربك للملائكة" مع ما بعده من النعم التي عدّدها عليهم ونبّههم على مواقعها - رَدّ "إذْ" على موضع" وكنتم أمواتًا فأحياكم". لأن معنى ذلك: اذكروا هذه من نعمي، وهذه التي قلت فيها للملائكة. فلما كانت الأولى مقتضية"إذ"، عطف بـ "إذ" على موضعها في الأولى [[في المطبوعة: "عطف"وإذ" على موضعها في الأولى"، وليس بشيء.]] ، كما وصفنا من قول الشاعر في"ولا متدارك".
+
+* *
+
+القول في تأويل قوله: ﴿لِلْمَلائِكَةِ﴾
+
+قال أبو جعفر: والملائكة جمع مَلأكٍ [[في المطبوعة والمخطوطة: "جمع ملك"، وظاهر كلام الطبري يدل على صواب ما أثبتناه.]] ، غيرَ أن أحدَهم [[في المطبوعة: "غير أن واحدهم"، وهما سواء.]] ، بغير الهمزة أكثرُ وأشهر في كلام العرب منه بالهمز، وذلك أنهم يقولون في واحدهم: مَلَك من الملائكة، فيحذفون الهمز منه، ويحركون اللام التي كانت مسكنة لو هُمز الاسم. وإنما يحركونها بالفتح، لأنهم ينقلون حركة الهمزة التي فيه بسقوطها إلى الحرف الساكن قبلها: فإذا جمعوا واحدهم، ردّوا الجمعَ إلى الأصل وهمزوا، فقالوا: ملائكة.
+
+وقد تفعل العرب نحو ذلك كثيرا في كلامها، فتترك الهمز في الكلمة التي هي مهموزة، فيجري كلامهم بترك همزها في حال، وبهمزها في أخرى، كقولهم:"رأيت فلانا" فجرى كلامهم بهمز"رأيت" ثم قالوا:"نرى وترى ويرى"، فجرى كلامهم في"يفعل" ونظائرها بترك الهمز، حتى صارَ الهمز معها شاذًّا، مع كون الهمز فيها أصلا. فكذلك ذلك في"ملك وملائكة"، جرى كلامهم بترك الهمز من واحدهم، وبالهمز في جميعهم. وربما جاء الواحد مهموزًا، كما قال الشاعر:
+
+فلَسْتَ لإِنْسِيٍّ ولكنْ لِمَلأَكٍ ... تَحَدَّرَ مِنْ جَوِّ السَّمَاءِ يَصُوبُ [[سلف الكلام على هذا البيت في ص: ٣٣٣، ورواية المخطوطة في هذا الموضع: "ولستَ لجنّيّ ولكنّ مَلأكًا"]]
+
+وقد يقال في واحدهم، مألك، فيكون ذلك مثل قولهم: جَبَذ وجذب، وشأمَل وشمأل، وما أشبه ذلك من الحروف المقلوبة. غير أن الذي يجبُ إذا سمي واحدهم
+
+"مألك" أن يجمع إذا جمع على ذلك"مآلك"، ولست أحفظ جمعَهم كذلك سماعًا، ولكنهم قد يجمعون: ملائك وملائكة، كما يجمع أشعث: أشاعث وأشاعثة، ومِسْمع: مَسامع ومَسامِعة، قال أميّة بن أبي الصّلت في جمعهم كذلك:
+
+وَفِيهِمَا مِنْ عِبَادِ اللَّهِ قَوْمٌ ... مَلائِك ذُلِّلوا وهُمُ صِعَابُ [[ديوانه: ١٩. "ذللوا" من الذل (بكسر الذال) وذلله: راضه حتى يذل ويلين ويطيع.]]
+
+وأصل الملأك: الرسالة، كما قال عدي بن زيد العِبَادِيّ:
+
+أَبْلِغِ النُّعْمَانَ عَنِّي مَلأَكًا ... إِنَّهُ قَدْ طَالَ حَبْسِي وَانْتِظَارِي [[الأغاني ٢: ١٤، والعقد الفريد ٥: ٢٦١، وفي المطبوعة"وانتظار"، وهي إحدى قصائد عدي، التي كان يكتبها إلى النعمان، لما حبسه في محبس لا يدخل عليه فيه أحد. وبعده ال
+
+[TRUNCATED at 12000 chars — 55614 more. Consult the source directly before relying on anything near the cut.]
 
 ### al-Muyassar (Arabic)
 
-واذكر -أيها الرسول- للناس حين قال ربك للملائكة: إني جاعل في الأرض قومًا يخلف بعضهم بعضًا لعمارتها. قالت: يا ربَّنا علِّمْنا وأَرْشِدْنا ما الحكمة في خلق هؤلاء، مع أنَّ من شأنهم الإفساد في الأرض واراقة الدماء ظلما وعدوانًا ونحن طوع أمرك، ننزِّهك التنزيه اللائق بحمدك وجلالك، ونمجِّدك بكل صفات الكمال والجلال؟ قال الله لهم: إني أعلم ما لا تعلمون من الحكمة البالغة في خلقهم.
+واذكر -أيها الرسول- للناس حين قال ربك للملائكة: إني جاعل في الأرض قومًا يَخْلُف بعضُهم بعضًا لعمارتها. قالت: يا ربَّنا علِّمْنا وأَرْشِدْنا ما الحكمة في خلق هؤلاء، مع أنَّ من شأنهم الإفساد في الأرض وإراقة الدماء ظلمًا وعدوانًا ونحن طوع أمرك، ننزِّهك التنزيه اللائق بحمدك وجلالك، ونمجِّدك بكل صفات الكمال والجلال؟ قال الله لهم: إني أعلم ما لا تعلمون من المصلحة الراجحة في خلقهم.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+واذْكُرْ يا مُحَمَّد إذْ ﴿قالَ رَبّك لِلْمَلائِكَةِ إنِّي جاعِل فِي الأَرْض خَلِيفَة﴾ يَخْلُفنِي فِي تَنْفِيذ أحْكامِي فِيها وهُوَ آدَم ﴿قالُوا أتَجْعَلُ فِيها مَن يُفْسِد فِيها﴾ بِالمَعاصِي ﴿ويَسْفِك الدِّماء﴾ يُرِيقها بِالقَتْلِ كَما فَعَلَ بَنُو الجانّ وكانُوا فِيها فَلَمّا أفْسَدُوا أرْسَلَ اللَّه عَلَيْهِمْ المَلائِكَة فَطَرَدُوهُمْ إلى الجَزائِر والجِبال ﴿ونَحْنُ نُسَبِّح﴾ مُتَلَبِّسِينَ ﴿بِحَمْدِك﴾ أيْ نَقُول سُبْحان اللَّه ﴿ونُقَدِّس لَك﴾ نُنَزِّهك عَمّا لا يَلِيق بِك فاللّام زائِدَة والجُمْلَة حال أيْ فَنَحْنُ أحَقّ بِالِاسْتِخْلافِ قالَ تَعالى ﴿إنِّي أعْلَم ما لا تَعْلَمُونَ﴾ مِن المَصْلَحَة فِي اسْتِخْلاف آدَم وأَنَّ ذُرِّيَّته فِيهِمْ المُطِيع والعاصِي فَيَظْهَر العَدْل بَيْنهمْ فَقالُوا لَنْ يَخْلُق رَبّنا خَلْقًا أكْرَم عَلَيْهِ مِنّا ولا أعْلَم لِسَبْقِنا لَهُ ورُؤْيَتنا ما لَمْ يَرَهُ فَخَلَقَ اللَّه تَعالى آدَم مِن أدِيم الأَرْض أيْ وجْهها بِأَنْ قَبَضَ مِنها قَبْضَة مِن جَمِيع ألْوانها وعُجِنَتْ بِالمِياهِ المُخْتَلِفَة وسَوّاهُ ونَفَخَ فِيهِ الرُّوح فَصارَ حَيَوانًا حَسّاسًا بَعْد أنْ كانَ جَمادًا
 
 ---
 
@@ -37,20 +214,217 @@ Meaning peop...
 
 ### Ibn Kathir (English)
 
+And He taught Adam all the names (of everything), then He showed them to the angels and said, "Tell Me the names of these if you are truthful. (31)They (angels) said: "Glory is to You, we have no knowledge except what you have taught us. Verily, You are the Knower, the Wise. (32)He said: "O Adam! Inform them of their names," and when he had informed them of their names, He said: "Did I not tell you that I know the Ghayb (unseen) in the heavens and the earth, and I know what you reveal and what you have been concealing? (33)
+
 The Virtue of Adam over the Angels
-Allah stated the virtue of Adam above the angels, because He taught Adam, rather than them, the names of everything. This occurred after they prostrated to him. This discussion precedes that event here, only to show the importance of his position, and the absence of the angels' knowledge about creating the Khalifah when they asked about it. So Allah informed the angels that He knows what they do not know, and then He mentioned this to show them Adam's superi...
+
+Allah stated the virtue of Adam above the angels, because He taught Adam, rather than them, the names of everything. This occurred after they prostrated to him. This discussion precedes that event here, only to show the importance of his position, and the absence of the angels' knowledge about creating the Khalifah when they asked about it. So Allah informed the angels that He knows what they do not know, and then He mentioned this to show them Adam's superiority over them in knowledge. Allah said,
+
+وَعَلَّمَ ءَادَمَ الأَسْمَآءَ كُلَّهَا
+
+(And He taught Adam all the names (of everything)).
+
+Ad-Dahhak said that Ibn 'Abbas commented on the Ayah;
+
+وَعَلَّمَ ءَادَمَ الأَسْمَآءَ كُلَّهَا
+
+(And He taught Adam all the names (of everything)) "Meaning, the names that people use, such as human, animal, sky, earth, land, sea, horse, donkey, and so forth, including the names of the other species." Ibn Abi Hatim and Ibn Jarir reported that 'Asim bin Kulayb narrated from Sa'id bin Ma'bad that Ibn 'Abbas was questioned,
+
+وَعَلَّمَ ءَادَمَ الأَسْمَآءَ كُلَّهَا
+
+(And He taught Adam all the names (of everything)) "Did Allah teach him the names of the plate and the pot?" He said, "Yes, and even the terms for breaking wind!"
+
+Allah taught Adam the names of everything, their proper names, the names of their characteristics, and what they do, just as Ibn 'Abbas stated about the terms for passing gas.
+
+In his Sahih, Al-Bukhari explained this Ayah in the Book of Tafsir with a report from Anas bin Malik who said that the Messenger of Allah ﷺ said,
+
+يَجْتَمِعُ الْمُؤمِنُونَ يَوْمَ الْقِيَامَةِ فَيَقُولُونَ: لَوِ اسْتَشْفَعْنَا إِلَى رَبِّنَا فَيَأْتُونَ آدَمَ فَيَقُولُونَ: أَنْتَ أَبُو النَّاسِ خَلَقَكَ اللهُ بِيَدِهِ وَأَسْجَدَ لَكَ مَلَائِكَتَهُ وَعَلَّمَكَ أَسْمَاءَ كُلِّ شَيْءٍ، فَاشْفَعْ لَنَا عِنْدَ رَبِّكَ حَتَّى يُريحَنَا مِنْ مَكَانِنَا هَذا، فَيَقُولُ: لَسْتُ هُنَاكُمْ - وَيَذْكُرُ ذَنْبَهُ فَيَسْتَحْيِي - ائْتُوا نُوحًا فإِنَّهُ أَوَّلُ رَسُولٍ بَعَثَهُ اللهُ إِلَى أَهْلِ الْأَرْضِ، فَيَأْتُونَه، فَيَقُولُ: لَسْتُ هُناكُمْ - وَيَذْكُر سُؤَالَه رَبَّه مَا لَيْسَ لَهُ بِه عِلْم فَيَسْتَحْيِي - فَيَقُولُ: ائْتُوا خَلِيلَ الرَّحْمٰن فَيَأْتُونَهُ فَيقُولُ: لَسْتُ هُنَاكُمْ فَيَقُولُ: ائْتُوا مُوسَى عَبْدًا كَلَّمَهُ اللهُ وَأعْطَاهُ التَّوْرَاةَ، فَيقُولُ: لَسْتُ هُنَاكُم - فَيَذْكُرُ قَتْلَ النَّفْسِ بِغَيْرِ نَفْسٍ فَيَسْتَحْيِي مِنْ رَبِّهِ فَيَقُولُ: ائْتُوا عِيسى عَبْدَ اللهِ وَرَسُولَهُ وَكَلِمَةَ اللهِ ورُوحَهُ، فَيَأْتُونَهُ فَيَقُولُ: لَسْتُ هُنَاكُمْ ائْتُوا مُحَمَّدًا عَبْدًا غُفِرَ لَهُ مَا تَقَدَّم مِنْ ذَنْبِهِ وَمَا تَأَخَّرَ، فَيَأْتُونِّي فأَنْطَلِقُ حَتَّى أَسْتأذِنَ عَلَى رَبِّي فيَأْذَنُ لِي، فإِذَا رأَيْتُ رَبِّي وَقَعْتُ سَاجِدًا فَيَدَعُنِي مَا شَاءَ اللهُ ثُمَّ يُقَالُ: ارْفَعْ رَأْسَكَ وَسَلْ تُعْطَهْ وَقُلْ يُسْمَعْ وَاشْفَعْ تُشَفَّعْ، فأَرْفَعُ رَأْسِي فأَحْمَدُهُ بِتَحْمِيدٍ يُعَلِّمُنِيهِ ثُمَّ أَشْفَعُ فَيُحَدُّ لِي حَدًّا فأُدْخِلُهُمُ الْجَنَّةَ ثُمَّ أَعُودُ إلَيْهِ فَإذَا رَأَيْتُ رَبِّي - مِثْلَهُ - ثُمَّ أَشْفَعُ فَيُحَدُّ لِي حدًّا فأُدْخِلُهُمُ الْجَنَّةَ ثُمَّ أَعُودُ الثَّالِثَةَ ثُمَّ أعُودُ الرَّابِعَةَ فَأَقُولُ: مَا بَقِيَ فِي النَّار إلَّا مَنْ حَبَسَهُ الْقُرْآنُ وَوَجَبَ عَلَيْهِ الْخُلُودُ
+
+(The believers will gather on the Day of Resurrection and will say, 'We should seek a means of intercession with our Lord' They will go to Adam and say, 'O Adam! You are the father of all mankind, Allah created you with His Own Hand, ordered the angels to prostrate for you and taught you the names of everything. Will you not intercede for us with your Lord, so that he relieve us from this gathering place?' On that Adam will reply, 'I cannot do what you have asked'. He will have remembered his error and will be embarrassed, saying, 'Go to Nuh, for he is the first of Allah's Messengers whom Allah sent to the people of the earth.' They will go to Nuh and ask him. He will say, 'I cannot do what you have asked.' He will recall asking Allah what he was not to know, and will also be embarrassed. He will say, 'Go to Khalil Ar-Rahman.' They will go to Ibrahim and he will also say, 'I cannot do what you have asked.' He will say, 'Go to Musa, a servant to whom Allah spoke directly and gave the Tawrah.' Musa will say, 'I cannot do what you have asked.' He will remember that he killed a person without justification and will be embarrassed before his Lord. He will say, 'Go to 'Isa, Allah's servant and Messenger and His Word and a spirit of His.' They will go to 'Isa and he will say, 'I will not do what you asked. Go to Muhammad, a servant whose previous and latter errors were forgiven.' They will come to me, and I will go to Allah and seek His permission and He will give me His permission. When I gaze at my Lord, I will prostrate myself and Allah will allow me to remain like that as much as He will. Then I will be addressed, 'O Muhammad! Raise your head; ask, for you will be given what you ask, and intercede, for your intercession will be accepted.' I will raise my head and thank and praise Allah with such praise as He will inspire me. I will intercede and He will grant me a quantity of people that He will admit into Paradise. I will go back to Him, and when I see my Lord, I will intercede and He will allow me a quantity that He will admit into Paradise. I will do that for a third and then a fourth time. I will say, 'There are no more people left in Hell except those whom the Qur'an has incarcerated and have thus acquired eternity in Hell.') This Hadith was collected by Muslim, An-Nasa'i and Ibn Majah.
+
+The reason why we mentioned this Hadith here is the Prophet's statement,
+
+فَيَأْتُونَ آدَمَ فَيَقُولُون: أنْتَ أَبُو النَّاسِ خَلَقَكَ اللهُ بِيَدِهِ وَأَسْجَدَ لَكَ مَلَائِكَتَهُ وَعَلَّمَكَ أَسْمَاءَ كُلِّ شَيْءٍ
+
+(They will go to Adam and say, 'O Adam! You are the father of all mankind, and Allah created you with His Own Hand, ordered the angels to prostrate for you, and taught you the names of everything). This part of the Hadith testifies to the fact that Allah taught Adam the names of all creatures.
+
+This is why Allah said,
+
+ثُمَّ عَرَضَهُمْ عَلَى الْمَلَائِكَةِ
+
+(Then He showed them to the angels) meaning, the objects or creations. 'Abdur-Razzaq narrated that Ma'mar said that Qatadah said, "Allah paraded the objects before the angels,
+
+فَقَالَ أَنبِئُونِي بِأَسْمَاءِ هَٰؤُلَاءِ إِن كُنتُمْ صَادِقِينَ
+
+(And said, "Tell Me the names of these if you are truthful")."
+
+Allah's statement means, "Tell Me the names of what I paraded before you, O angels who said,
+
+أَتَجْعَلُ فِيهَا مَن يُفْسِدُ فِيهَا وَيَسْفِكُ الدِّمَآءَ
+
+(Will You place therein those who will make mischief therein and shed blood).
+
+You asked, 'Are You appointing a Khalifah from us or from other creations? We praise and glorify You.
+
+Therefore, Allah said, "If you say the truth, that if I appoint a non-angel Khalifah on the earth, he and his offspring will disobey Me, commit mischief and shed blood, but if I designate you the Khalifahs you will obey Me, follow My command and honor and glorify Me. However, since you do not know the names of the objects I paraded before you, then you have even less knowledge of what will occur on the earth that does not exist yet."
+
+قَالُوا سُبْحَانَكَ لَا عِلْمَ لَنَا إِلَّا مَا عَلَّمْتَنَا ۖ إِنَّكَ أَنتَ الْعَلِيمُ الْحَكِيمُ
+
+(They (angels) said: "Glory is to You, we have no knowledge except what you have taught us. Verily, it is You, the Knower, the Wise.").
+
+Here the angels are praising Allah's holiness, and perfection above every kind of deficiency, affirming that no creature could ever acquire any part of Allah's knowledge, except by His permission, nor could anyone know anything except what Allah teaches them. This is why they said,
+
+سُبْحَانَكَ لَا عِلْمَ لَنَا إِلَّا مَا عَلَّمْتَنَا ۖ إِنَّكَ أَنتَ الْعَلِيمُ الْحَكِيمُ
+
+("Glory is to You, we have no knowledge except what you have taught us. Verily You are the Knower, the Wise) meaning, Allah is knowledgeable of everything, Most Wise about His creation, and He makes the wisest decisions, and He teaches and deprives whom He wills from knowledge. Verily, Allah's wisdom and justice in all matters is perfect.
+
+Adam's Virtue of Knowledge is demonstrated
+
+Allah said,
+
+قَالَ يَا آدَمُ أَنبِئْهُم بِأَسْمَائِهِمْ فَلَمَّا أَنبَأَهُم بِأَسْمَائِهِمْ قَالَ أَلَمْ أَقُل لَّكُمْ إِنِّي أَعْلَمُ غَيْبَ السَّمَاوَاتِ وَالْأَرْضِ وَأَعْلَمُ مَا تُبْدُونَ وَمَا كُنتُمْ تَكْتُمُونَ
+
+(He said: "O Adam! Inform them of their names," and when he had informed them of their names, He said: "Did I not tell you that I know the Ghayb (unseen) in the heavens and the earth, and I know what you reveal and what you have been concealing?")
+
+Zayd bin Aslam said, "You are Jibril, you are Mika'il, you are Israfil, until he mentioned the name of the crow." Mujahid said that Allah's statement,
+
+قَالَ يَا آدَمُ أَنبِئْهُم بِأَسْمَائِهِمْ
+
+(He said: "O Adam! Inform them of their names,") "The name of the pigeon, the crow and everything." Statements of a similar meaning were reported from Sa'id bin Jubayr, Al-Hasan, and Qatadah. When Adam's virtue over the angels became apparent, as he mentioned the names that Allah taught him, Allah said to the angels,
+
+أَلَمْ أَقُل لَّكُمْ إِنِّي أَعْلَمُ غَيْبَ السَّمَاوَاتِ وَالْأَرْضِ وَأَعْلَمُ مَا تُبْدُونَ وَمَا كُنتُمْ تَكْتُمُونَ
+
+(Did I not tell you that I know the Ghayb (unseen) in the heavens and the earth, and I know what you reveal and what you have been concealing?)
+
+This means, "Did I not state that I know the seen and unseen matters. " Similarly, Allah said,
+
+وَإِن تَجْهَرْ بِالْقَوْلِ فَإِنَّهُ يَعْلَمُ السِّرَّ وَأَخْفَى
+
+(And if you (O Muhammad ﷺ) speak (the invocation) aloud, then verily, He knows the secret and that which is yet more hidden)(20:7).
+
+Also, Allah said about the hoopoe, that it said to Sulayman;
+
+أَلَّا يَسْجُدُوا لِلَّهِ الَّذِي يُخْرِجُ الْخَبْءَ فِي السَّمَاوَاتِ وَالْأَرْضِ وَيَعْلَمُ مَا تُخْفُونَ وَمَا تُعْلِنُونَ - اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ رَبُّ الْعَرْشِ الْعَظِيمِ
+
+([As Shaytan (Satan) has barred them from Allah's way] so they do not prostrate before Allah, Who brings to light what is hidden in the heavens and the earth, and knows what you conceal and what you reveal. Allah, La ilaha illa Huwa (none has the right to be worshipped but He), the Lord of the Supreme Throne!)(27:25-26).
+
+They also have comments other than what we have said about the meaning of Allah's statement,
+
+وَأَعْلَمُ مَا تُبْدُونَ وَمَا كُنتُمْ تَكْتُمُونَ
+
+(And I know what you reveal and what you have been concealing).
+
+It is reported from Ad-Dahhak that Ibn 'Abbas said that,
+
+وَأَعْلَمُ مَا تُبْدُونَ وَمَا كُنتُمْ تَكْتُمُونَ
+
+(And I know what you reveal and what you have been concealing) means, "I know the secrets, just as I know the apparent things, such as, what Iblis concealed in his heart of arrogance and pride." Abu Ja'far Ar-Razi narrated that Ar-Rabi' bin Anas said that,
+
+وَأَعْلَمُ مَا تُبْدُونَ وَمَا كُنتُمْ تَكْتُمُونَ
+
+(And I know what you reveal and what you have been concealing) means, "The apparent part of what they said was: 'Do you create in it that which would commit mischief and shed blood?' The hidden meaning was: 'We have more knowledge and honor than any creation our Lord would create.' But they came to know that Allah favored Adam above them regarding knowledge and honor."
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله تعالى ذكره:  وَعَلَّمَ آدَمَ640- حدثنا محمد بن جرير, قال: حدثنا محمد بن حميد، قال: حدثنا يعقوب القُمّي, عن جعفر بن أبي المغيرة, عن سعيد بن جُبير, عن ابن عباس، قال: بعث ربُّ العزة مَلكَ الموت فأخذ من أديم الأرض، من عذْبها ومالحها, فخلق منه آدم. ومن ثَمَّ سُمي آدم. لأنه خُلق من أديم الأرض (97) .641- وحدثنا أحمد بن إسحاق, قال: حدثنا أبو أحمد الزبيري, قال: حدثنا عمرو بن ثابت, عن أبيه, عن جده, عن علي، قال: إن آدم خُلق من أديم الأرض، فيه الطيّب والصالح والرديء, فكل ذلك أنت راءٍ ...
+القول في تأويل قوله تعالى ذكره: ﴿وَعَلَّمَ آدَمَ﴾
+
+٦٤٠- حدثنا محمد بن جرير، قال: حدثنا محمد بن حميد، قال: حدثنا يعقوب القُمّي، عن جعفر بن أبي المغيرة، عن سعيد بن جُبير، عن ابن عباس، قال: بعث ربُّ العزة مَلكَ الموت فأخذ من أديم الأرض، من عذْبها ومالحها، فخلق منه آدم. ومن ثَمَّ سُمي آدم. لأنه خُلق من أديم الأرض [[الخبر: ٦٤٠- هذا إسناد صحيح. ورواه الطبري في التاريخ أيضًا ١: ٤٦، بهذا الإسناد، بزيادة في آخره. ولكن فيه: "بعث رب العزة إبليس" بدل"ملك الموت". وهذا هو الصواب الموافق لسائر الروايات، فلعل ما هنا تحريف قديم من الناسخين. وكذلك رواه ابن سعد في الطبقات ١/١/٦، عن حسين بن حسن الأشقر، عن يعقوب بن عبد الله القمي، بهذا الإسناد. وكذلك نقله السيوطي ١: ٤٧، مطولا، عن ابن سعد، والطبري، وابن أبي حاتم، وابن عساكر.]] .
+
+٦٤١- وحدثنا أحمد بن إسحاق، قال: حدثنا أبو أحمد الزبيري، قال: حدثنا عمرو بن ثابت، عن أبيه، عن جده، عن علي، قال: إن آدم خُلق من أديم الأرض، فيه الطيّب والصالح والرديء، فكل ذلك أنت راءٍ في ولده، الصالح والرديء [[الخبر: ٦٤١- رواه الطبري في التاريخ ١: ٤٦، بهذا الإسناد. وذكره السيوطي ١: ٤٧، منسوبًا للطبري وحده، ولم أجده عند غيره. وإسناده ضعيف جدًّا. عمرو بن ثابت: هو ابن أبي المقدام الحداد، ضعيف جدًّا، قال ابن معين: "ليس بثقة ولا مأمون". وأما أبوه"ثابت بن هرمز أبو المقدام"، فإنه ثقة. ويزيد هذا الإسناد ضعفًا وإشكالا - قوله فيه: "عن جده"! فإن ترجمة ثابت في المراجع كلها ليس فيها أنه يروي عن أبيه"هرمز". ثم لا نجد لهرمز هذا ذكرا ولا ترجمة، فما أدرى مم هذا؟]] .
+
+٦٤٢- وحدثنا أحمد بن إسحاق، قال: حدثنا أبو أحمد، قال: حدثنا مِسعر، عن أبي حَصين، عن سعيد بن جُبير، قال: خُلق آدم من أديم الأرض، فسمِّي آدم.
+
+٦٤٣- وحدثنا ابن المثنى، قال: حدثنا أبو داود، قال: حدثنا شعبة، عن أبي حصين، عن سعيد بن جبير، قال: إنما سمي آدمَ لأنه خلق من أديم الأرض [[الأثران: ٦٤٢، ٦٤٣- رواهما الطبري في التاريخ أيضًا ١: ٤٦، بهذين الإسنادين. وذكره بنحوه السيوطي ١: ٤٩، والشوكاني ١: ٥٢. و"أبو حصين"، فيهما بفتح الحاء وكسر الصاد المهملتين، وهو: عثمان بن عاصم بن حصين الأسدي، ثقة ثبت صاحب سنة.]] .
+
+٦٤٤- وحدثني موسى بن هارون، قال: حدثنا عمرو، قال: حدثنا أسباط، عن السُّدّيّ في خبر ذكره، عن أبي مالك، وعن أبي صالح، عن ابن عباس - وعن مُرَّة، عن ابن مسعود، وعن ناس من أصحاب النبي ﷺ: أنّ ملك الموت لما بُعث ليأخذ من الأرض تربةَ آدم، أخذ من وجه الأرض وخلط فلم يأخذ من مكان واحد، وأخذ من تربة حمراء وبيضاءَ وسوداء، فلذلك خرج بنو آدم مختلفين. ولذلك سُمي آدم، لأنه أخذ من أديم الأرض [[الخبر: ٦٤٤- مضى ضمن خبر مطول، بهذا الإسناد: ٦٠٧.]] .
+
+وقد روى عن رسول الله ﷺ خبرٌ يحقق ما قال مَن حكينا قوله في معنى آدم. وذلك ما-:
+
+٦٤٥- حدثني به يعقوب بن إبراهيم، قال: حدثنا ابن عُلَيَّة، عن عوف -وحدثنا محمد بن بشار، وعمر بن شَبة- قالا حدثنا يحيى بن سعيد -قال: حدثنا عوف- وحدثنا ابن بشار، قال: حدثنا ابن أبي عدي، ومحمد بن جعفر، وعبد الوهاب الثقفي، قالوا: حدثنا عوف -وحدثني محمد بن عمارة الأسدي، قال: حدثنا إسماعيل بن أبان، قال: حدثنا عنبسة- عن عوف الأعرابي، عن قَسامَة بن زُهير، عن أبي موسى الأشعري، قال: قال رسول الله ﷺ: إنّ الله خلق آدم من قَبضة قَبضها من جميع الأرض، فجاء بنو آدم على قَدر الأرض، جاء منهم الأحمر والأسود والأبيض وبين ذلك، والسهلُ والحَزْن، والخبيث والطيب [[الحديث: ٦٤٥- هو حديث صحيح. ورواه أحمد في المسند ٤: ٤٠٠، ٤٠٦ (حلبى) ، وابن سعد في الطبقات ١/١/٥-٦، وأبو داود: ٤٦٩٣، والترمذي ٤: ٦٧-٦٨، والحاكم ٢: ٢٦١-٢٦٢، كلهم من طريق عوف بن أبي جميلة الأعرابي، عن قسامة بن زهير، به. قال الترمذي: "حسن صحيح". وقال الحاكم: "صحيح الإسناد ولم يخرجاه"، ووافقه الذهبي، وذكره السيوطي ١: ٤٦، ونسبه لهؤلاء، ولعبد بن حميد، وابن المنذر، وابن مردويه، وغيرهم. ورواه أيضًا الطبري في التاريخ ١: ٤٦، بهذه الأسانيد التي هنا، بزيادة في آخره.]] .
+
+فعلى التأويل الذي تأول"آدم" من تأوله، بمعنى أنه خُلق من أديم الأرض، يجب أن يكون أصْل"آدم" فعلا سُمي به أبو البشر، كما سمي"أحمد" بالفعل من الإحماد، و"أسعد" من الإسعاد، فلذلك لم يُجَرَّ. ويكون تأويله حينئذ: آدمَ المَلكُ الأرضَ، يعني به بلغ أدمتها -وأدَمتها: وجهها الظاهر لرأي العين، كما أنّ جلدة كل ذي جلدة له أدَمة. ومن ذلك سُمي الإدام إدَامًا، لأنه صار كالجلدة العليا مما هي منه- ثم نقل من الفعل فجعل اسمًا للشخص بعينه.
+
+* *
+
+القول في تأويل قوله تعالى: ﴿الأَسْمَاءَ كُلَّهَا﴾
+
+قال أبو جعفر: اختلف أهل التأويل في الأسماء التي علمها آدمَ ثم عَرضها على الملائكة، فقال ابن عباس ما-:
+
+٦٤٦- حدثنا به أبو كريب، قال: حدثنا عثمان بن سعيد، قال: حدثنا بشر بن عمارة، عن أبي روق، عن الضحاك، عن ابن عباس، قال: علم الله آدم الأسماء كلها، وهي هذه الأسماء التي يتعارف بها الناس: إنسانٌ ودابة، وأرض وَسهل وبحر وجبل وحمار، وأشباه ذلك من الأمم وغيرها. [[الخبر: ٦٤٦- في ابن كثير ١: ١٣٢، والدر المنثور ١: ٤٩، والشوكاني ١: ٥٢ وقد مضى برقم: ٦٠٦، مطولا.]] .
+
+٦٤٧- وحدثنا محمد بن عمرو، قال: حدثنا أبو عاصم، قال: حدثني عيسى، عن ابن أبي نَجيح، عن مجاهد - وحدثني المثنى، قال: حدثنا أبو حذيفة، قال: حدثنا شِبْل، عن ابن أبي نَجيح، عن مجاهد، في قول الله:"وعلم آدم الأسماء كلها"، قال: علمه اسم كل شيء.
+
+٦٤٨- وحدثنا ابن وكيع، قال: حدثنا أبي، عن سفيان، عن خُصيف، عن مجاهد:"وعلم آدم الأسماء كلها"، قال: علمه اسم كل شيء [[الأثران: ٦٤٧، ٦٤٨- في الدر المنثور ١: ٤٩، وكأنهما اختصار لما بعدهما.]] .
+
+٦٤٩- وحدثنا علي بن الحسن، قال: حدثنا مسلم الجَرمي، عن محمد بن مصعب، عن قيس بن الربيع، عن خُصيف، عن مجاهد، قال: علمه اسم الغراب والحمامة واسم كل شيء [[الأثر: ٦٤٩- لم أجده بنصه ولعله مطول الذي قبله، وانظر ما سيأتي رقم: ٦٦٦. و"مسلم الجرمي": ثبت في الأصول بالحاء. وقد مضى في: ١٥٤ ترجيحنا أنه بالجيم.]] .
+
+٦٥٠- وحدثنا ابن وكيع، قال: حدثنا أبي، عن شَريك، عن سالم الأفطس، عن سعيد بن جبير، قال: علمه اسمَ كل شيء، حتى البعير والبقرة والشاة [[الأثر: ٦٥٠- في الدر المنثور ١: ٤٩.]] .
+
+٦٥١- وحدثنا ابن وكيع، قال: حدثنا أبي، عن شَريك، عن عاصم بن كليب، عن سعيد بن مَعبد، عن ابن عباس، قال: علمه اسم القصعة والفسوة والفُسَيَّة [[الخبر: ٦٥١- سعيد بن معبد: تابعي، يروي عن ابن عباس، لم أجد له ترجمة إلا في التاريخ الكبير للبخاري ٢/١/٤٦٨، والجرح لابن أبي حاتم ٢/١/٦٣. وكلاهما ذكر أنه يروي عن ابن عباس، ويروي عنه: القاسم بن أبي بزة. فجاءنا الطبري بفائدة زائدة، في هذا الإسناد، وفي الإسناد: ٦٥٣: أنه يروي عنه أيضًا عاصم بن كليب. وهذا الخبر ذكره بنحوه: ابن كثير ١: ١٣٢، والسيوطي ١: ٤٩. ونسباه أيضًا لابن أبي حاتم. وهذا الخبر والثلاثة بعده، متقاربة المعنى، هي روايات لخبر واحد.]] .
+
+٦٥٢- وحدثنا أحمد بن إسحاق، قال: حدثنا أبو أحمد، قال: حدثنا شريك، عن عاصم بن كليب، عن الحسن بن سعد، عن ابن عباس:"وعلم آدم الأسماء كلها"، قال: حتى الفسوة والفُسيَّة.
+
+٦٥٣- حدثنا علي بن الحسن، قال: حدثنا مسلم، قال: حدثنا محمد بن مُصعب، عن قيس، عن عاصم بن كليب، عن سعيد بن مَعبد، عن ابن عباس في قول الله:"وعلم آدم الأسماء كلها"، قال: علمه اسم كل شيء حتى الهَنة والهُنَيَّة والفسوة والضرطة.
+
+٦٥٤- وحدثنا القاسم، قال: حدثنا الحسين، قال: حدثنا علي بن مسهر، عن عاصم بن كليب، قال: قال ابن عباس: علمه القصعة من القُصيعة، والفسوة من الفسية [[الخبر: ٦٥٤- عاصم بن كليب الجرمي: ثقة يحتج به. ولكنه إنما يروي عن التابعين، فروايته عن ابن عباس هنا منقطعة. وقد دلتنا الأسانيد الثلاثة الماضية على أنه إنما روى هذا المعنى عن سعيد بن معبد، وعن الحسن بن سعد، عن ابن عباس.]] .
+
+٦٥٥- وحدثنا بشر بن معاذ، قال: حدثنا يزيد بن زُرَيع، عن سعيد، عن قتادة قوله:"وعلم آدم الأسماء كلها" حتى بلغ:"إنك أنتَ العليمُ الحكيم" قال يا آدم أنبئهم بأسمائهم"، فأنبأ كل صنف من الخلق باسمه، وألجأه إلى جنسه [[الأثر: ٦٥٥- في الدر المنثور ١: ٤٩، بغير هذا اللفظ. وانظر رقم: ٦٩٧.]] .
+
+٦٥٦- وحدثنا الحسن بن يحيى، قال: حدثنا عبد الرَّزَّاق، قال: حدثنا معمر، عن قتادة في قوله:"وعلم آدم الأسماء كلها"، قال: علمه اسم كل شيء، هذا جبل، وهذا بحر، وهذا كذا وهذا كذا، لكل شيء، ثم عرض تلك الأشياء على الملائكة فقال: أنبئوني بأسماء هؤلاء إن كنتم صادقين [[الأثر: ٦٥٦- في ابن كثير ١: ١٣٣ مختصرًا، وفي الدر المنثور ١: ٤٩ مطولا وفي ابن كثير: "ثم عرض تلك الأسماء".]] .
+
+٦٥٧- وحدثنا القاسم، قال: حدثنا الحسين، قال: حدثني حجاج، عن جرير بن حازم -ومبارك، عن الحسن- وأبي بكر عن الحسن وقتادة، قالا علمه اسم كل شيء: هذه الخيل، وهذه البغال والإبل والجنّ والوحش، وجعل يسمي كل شيء باسمه. [[الأثر: ٦٥٧- في ابن كثير ١: ١٣٣ بغير هذا اللفظ مختصرًا، وفي الدر المنثور ١: ٤٩، وسيأتي كما جاء فيهما برقم: ٦٦٧.]]
+
+٦٥٨ - وحُدِّثت عن عمّار، قال: حدثنا عبد الله بن أبي جعفر، عن أبيه، عن الربيع، قال: اسم كل شيء. [[الأثر: ٦٥٨- لم أجده.]]
+
+وقال آخرون: علم آدم الأسماء كلها، أسماء الملائكة.
+
+ذكر من قال ذلك:
+
+٦٥٩ - حُدِّثت عن عمار، قال: حدثنا عبد الله بن أبي جعفر، عن أبيه، عن الربيع قوله:"وعلم آدمَ الأسماء كلها"، قال: أسماء الملائكة. [[الأثر: ٦٥٩- في ابن كثير ١: ١٣٢، والدر المنثور ١: ٤٩، والشوكاني ١: ٥٢.]]
+
+وقال آخرون: إنما علمه أسماء ذريته كلها.
+
+ذكر من قال ذلك:
+
+٦٦٠ - حدثني محمد بن جرير، قال: حدثني يونس بن عبد الأعلى، قال: أخبرنا ابن وهب، قال: قال ابن زيد في قوله:"وعلم آدم الأسماء كلها"، قال: أسماء ذريته أجمعين. [[الأثر: ٦٦٠- في ابن كثير ١: ١٣٢، والدر المنثور ١: ٤٩، والشوكاني ١: ٥٢.]]
+
+وأوْلَى هذه الأقوال بالصواب، وأشبهها بما دل على صحته ظاهرُ التلاوة، قول من قال في قوله:"وعلم آدم الأسماء كلها" إنها أسماءُ ذرِّيَّته وأسماءُ الملائكة، دون أسماء سائر أجناس الخلق. وذلك أن الله جلّ ثناؤه قال:"ثمّ عرَضهم على الملائكة"، يعني بذلك أعيانَ المسمَّين بالأسماء التي علمها آدم. ولا تكادُ العرب تكني بالهاء والميم إلا عن أسماء بني آدم والملائكة. وأمّا إذا كانت عن أسماء البهائم وسائر الخلق سوَى من وصفناها، فإنها تكني عنها بالهاء والألف أو بالهاء والنون، فقالت:"عرضهن" أو"عرضها"، وكذلك تفعل إذا كنَتْ عن أصناف من الخلق كالبهائم والطير وسائر أصناف الأمم وفيها أسماءُ بني آدم والملائكة، فإنها تكنى عنها بما وصفنا من الهاء والنون أو الهاء والألف. وربما كنَتْ عنها، إذا كان كذلك [[في المطبوعة: "إذ كان. . . " وهو خطأ.]] بالهاء والميم، كما قال جل ثناؤه: ﴿وَاللَّهُ خَلَقَ كُلَّ دَابَّةٍ مِنْ مَاءٍ فَمِنْهُمْ مَنْ يَمْشِي عَلَى بَطْنِهِ وَمِنْهُمْ مَنْ يَمْشِي عَلَى رِجْلَيْنِ وَمِنْهُمْ مَنْ يَمْشِي عَلَى أَرْبَعٍ﴾ [سورة النور: ٤٥] ، فكنى عنها بالهاء والميم، وهي أصناف مختلفة فيها الآدمي وغيره. وذلك، وإن كان جائزًا، فإن الغالب المستفيض في كلام العرب ما وَصفنا، من إخراجهم كنايةَ أسماء أجناس الأمم - إذا اختلطت - بالهاء والألف أو الهاء والنون. فلذلك قلتُ: أولى بتأويل الآية أن تكون الأسماء التي علَّمها آدمَ أسماء أعيان بني آدم وأسماء الملائكة، وإن كان ما قال ابن عباس جائزًا على مثال ما جاء في كتاب الله من قوله:"والله خَلق كل دابة من ماء فمنهم من يمشي على بَطنه" الآية. وقد ذكر أنها في حرف ابن مسعود:"ثم عَرضهن"، وأنها في حرف أبَيّ:"ثم عَرضَها". [[انظر تفسير ابن كثير ١: ١٣٢ في التعقيب على كلام الطبري.]]
+
+ولعل ابن عباس تأول ما تأول من قوله: علمه اسم كل شيء حتى الفسوة والفسيَّة، على قراءة أبيّ، فإنه فيما بلغنا كان يقرأ قراءة أبيّ. وتأويل ابن عباس - على ما حُكي عن أبيّ من قراءته - غيرُ مستنكر، بل هو صحيح مستفيض في كلام العرب، على نحو ما تقدم وصفي ذلك.
+
+* *
+
+القول في تأويل قوله تعالى: ﴿ثُمَّ عَرَضَهُمْ عَلَى الْمَلائِكَةِ﴾
+
+قال أبو جعفر: قد تقدم ذكرنا التأويل الذي هو أولى بالآية، على قراءتنا ورَسم مُصْحفنا، وأن قوله:"ثم عَرَضهم"، بالدلالة على بني آدم والملائكة، أولى منه بالدلالة على أجناس الخلق كلها، وإن كان غيرَ فاسد أن يكون دالا على جميع أصناف الأمم، للعلل التي وصفنا.
+
+ويعني جل ثناؤه بقوله:"ثم عَرضَهم"، ثم عرَض أهل الأسماء على الملائكة.
+
+وقد اختلف المفسرون في تأويل قوله:"ثم عَرضَهم على الملائكة" نحو اختلافهم في قوله:"وعلم آدمَ الأسماء كلها". وسأذكر قول من انتهى إلينا عنه فيه قولٌ.
+
+٦٦١ - حدثنا محمد بن العلاء، قال: حدثنا عثمان بن سعيد، قال: حدثنا بشر بن عمارة، عن أبي روق، عن الضحاك، عن ابن عباس:"ثم عَرضهم على الملائكة"، ثم عرض هذه الأسماء، يعني أسماء جميع الأشياء، التي علّمها آدم من أصناف جميع الخلق. [[الخبر: ٦٦١- هو من تمام الآثار السالفة قريبًا.]]
+
+٦٦٢ - وحدثني موسى، قال: حدثنا عمرو، قال: حدثنا أسباط، عن السُّدّيّ في خبر ذكره، عن أبي مالك، وعن أبى صالح، عن ابن عباس - وعن مُرَّة، عن ابن مسعود، وعن ناس من أصحاب النبي ﷺ:"ثم عرضهم"، ثم عرض الخلقَ على الملائكة [[الخبر: ٦٦٢- مختصر من الخبر الطويل الماضي قريبًا، وفي ابن كثير ١: ١٣٢.]] .
+
+٦٦٣ - وحدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد: أسماء ذريته كلِّها، أخذهم من ظَهره. قال: ثم عرضهم على الملائكة [[الأثر: ٦٦٣- في الدر المنثور ١: ٤٩.]] .
+
+٦٦٤ - وحدثنا الحسن بن يحيى، قال: أخبرنا عبد الرَّزَّاق، قال: أخبرنا معمر، عن قتادة:"ثم عرضهم"، قال: علمه اسم كل شيء، ثم عرض تلك الأسماء على الملائكة [[الأثر: ٦٦٤- مختصر أثر سلف بإسناده هذا، وفي ابن كثير ١: ١٣٣.]] .
+
+٦٦٥ - وحدثنا القاسم، قال: حدثنا الحسين، قال: حدثني حجاج، عن ابن جُريج، عن مجاهد:"ثم عرضهم"، عرض أصحاب الأسماء على الملائكة [[الأثر: ٦٦٥- في ابن كثير: ١: ١٣٣، والدر المنثور ١: ٤٩، والشوكاني ١: ٥٢.]]
+
+٦٦٦ - وحدثنا علي بن الحسن، قال: حدثنا مسلم، قال: حدثنا محمد بن مصعب، عن قيس، عن خُصَيف، عن مجاهد:"ثم عرضهم على الملائكة"، يعني عرض الأسماء، الحمامةَ والغراب [[الأثر: ٦٦٦- في ابن كثير ١: ١٣٤، وانظر ما مضى قريبًا بإسناده.]] .
+
+٦٦٧ - وحدثنا القاسم، قال: حدثنا الحسين، قال: حدثني حجاج، عن جرير بن حازم، - ومبارك عن الحسن - وأبي بكر عن الحسن وق
+
+[TRUNCATED at 12000 chars — 7387 more. Consult the source directly before relying on anything near the cut.]
 
 ### al-Muyassar (Arabic)
 
-وبيانًا لفضل آدم عليه السلام علَّمه الله أسماء الأشياء كلها، ثم عرض مسمياتها على الملائكة قائلا لهم: أخبروني بأسماء هؤلاء الموجودات، إن كنتم صادقين في أنكم أَوْلى بالاستخلاف في الأرض منهم.
+وبيانًا لفضل آدم عليه السلام علَّمه الله أسماء الأشياء كلها، ثم عرض مسمَّياتها على الملائكة قائلًا لهم: أخبروني بأسماء هؤلاء الموجودات، إن كنتم صادقين في أنكم أَوْلى بالاستخلاف في الأرض منهم.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿وعَلَّمَ آدَمَ الأَسْماءَ﴾ أيْ أسَماء المُسَمَّيات ﴿كُلّها﴾ بِأَنْ ألْقى فِي قَلْبه عِلْمها ﴿ثُمَّ عَرَضَهُمْ﴾ أيْ المُسَمَّيات وفِيهِ تَغْلِيب العُقَلاء ﴿عَلى المَلائِكَة فَقالَ﴾ لَهُمْ تَبْكِيتًا ﴿أنْبِئُونِي﴾ أخْبِرُونِي ﴿بِأَسْماءِ هَؤُلاءِ﴾ المُسَمَّيات ﴿إنْ كُنْتُمْ صادِقِينَ﴾ فِي أنِّي لا أخْلُق أعْلَم مِنكُمْ أوْ أنَّكُمْ أحَقّ بِالخِلافَةِ وجَواب الشَّرْط دَلَّ عَلَيْهِ ما قَبْله
 
 ---
 
@@ -58,20 +432,149 @@ Allah stated the virtue of Adam above the angels, because He taught Adam, rather
 
 ### Ibn Kathir (English)
 
+And He taught Adam all the names (of everything), then He showed them to the angels and said, "Tell Me the names of these if you are truthful. (31)They (angels) said: "Glory is to You, we have no knowledge except what you have taught us. Verily, You are the Knower, the Wise. (32)He said: "O Adam! Inform them of their names," and when he had informed them of their names, He said: "Did I not tell you that I know the Ghayb (unseen) in the heavens and the earth, and I know what you reveal and what you have been concealing? (33)
+
 The Virtue of Adam over the Angels
-Allah stated the virtue of Adam above the angels, because He taught Adam, rather than them, the names of everything. This occurred after they prostrated to him. This discussion precedes that event here, only to show the importance of his position, and the absence of the angels' knowledge about creating the Khalifah when they asked about it. So Allah informed the angels that He knows what they do not know, and then He mentioned this to show them Adam's superi...
+
+Allah stated the virtue of Adam above the angels, because He taught Adam, rather than them, the names of everything. This occurred after they prostrated to him. This discussion precedes that event here, only to show the importance of his position, and the absence of the angels' knowledge about creating the Khalifah when they asked about it. So Allah informed the angels that He knows what they do not know, and then He mentioned this to show them Adam's superiority over them in knowledge. Allah said,
+
+وَعَلَّمَ ءَادَمَ الأَسْمَآءَ كُلَّهَا
+
+(And He taught Adam all the names (of everything)).
+
+Ad-Dahhak said that Ibn 'Abbas commented on the Ayah;
+
+وَعَلَّمَ ءَادَمَ الأَسْمَآءَ كُلَّهَا
+
+(And He taught Adam all the names (of everything)) "Meaning, the names that people use, such as human, animal, sky, earth, land, sea, horse, donkey, and so forth, including the names of the other species." Ibn Abi Hatim and Ibn Jarir reported that 'Asim bin Kulayb narrated from Sa'id bin Ma'bad that Ibn 'Abbas was questioned,
+
+وَعَلَّمَ ءَادَمَ الأَسْمَآءَ كُلَّهَا
+
+(And He taught Adam all the names (of everything)) "Did Allah teach him the names of the plate and the pot?" He said, "Yes, and even the terms for breaking wind!"
+
+Allah taught Adam the names of everything, their proper names, the names of their characteristics, and what they do, just as Ibn 'Abbas stated about the terms for passing gas.
+
+In his Sahih, Al-Bukhari explained this Ayah in the Book of Tafsir with a report from Anas bin Malik who said that the Messenger of Allah ﷺ said,
+
+يَجْتَمِعُ الْمُؤمِنُونَ يَوْمَ الْقِيَامَةِ فَيَقُولُونَ: لَوِ اسْتَشْفَعْنَا إِلَى رَبِّنَا فَيَأْتُونَ آدَمَ فَيَقُولُونَ: أَنْتَ أَبُو النَّاسِ خَلَقَكَ اللهُ بِيَدِهِ وَأَسْجَدَ لَكَ مَلَائِكَتَهُ وَعَلَّمَكَ أَسْمَاءَ كُلِّ شَيْءٍ، فَاشْفَعْ لَنَا عِنْدَ رَبِّكَ حَتَّى يُريحَنَا مِنْ مَكَانِنَا هَذا، فَيَقُولُ: لَسْتُ هُنَاكُمْ - وَيَذْكُرُ ذَنْبَهُ فَيَسْتَحْيِي - ائْتُوا نُوحًا فإِنَّهُ أَوَّلُ رَسُولٍ بَعَثَهُ اللهُ إِلَى أَهْلِ الْأَرْضِ، فَيَأْتُونَه، فَيَقُولُ: لَسْتُ هُناكُمْ - وَيَذْكُر سُؤَالَه رَبَّه مَا لَيْسَ لَهُ بِه عِلْم فَيَسْتَحْيِي - فَيَقُولُ: ائْتُوا خَلِيلَ الرَّحْمٰن فَيَأْتُونَهُ فَيقُولُ: لَسْتُ هُنَاكُمْ فَيَقُولُ: ائْتُوا مُوسَى عَبْدًا كَلَّمَهُ اللهُ وَأعْطَاهُ التَّوْرَاةَ، فَيقُولُ: لَسْتُ هُنَاكُم - فَيَذْكُرُ قَتْلَ النَّفْسِ بِغَيْرِ نَفْسٍ فَيَسْتَحْيِي مِنْ رَبِّهِ فَيَقُولُ: ائْتُوا عِيسى عَبْدَ اللهِ وَرَسُولَهُ وَكَلِمَةَ اللهِ ورُوحَهُ، فَيَأْتُونَهُ فَيَقُولُ: لَسْتُ هُنَاكُمْ ائْتُوا مُحَمَّدًا عَبْدًا غُفِرَ لَهُ مَا تَقَدَّم مِنْ ذَنْبِهِ وَمَا تَأَخَّرَ، فَيَأْتُونِّي فأَنْطَلِقُ حَتَّى أَسْتأذِنَ عَلَى رَبِّي فيَأْذَنُ لِي، فإِذَا رأَيْتُ رَبِّي وَقَعْتُ سَاجِدًا فَيَدَعُنِي مَا شَاءَ اللهُ ثُمَّ يُقَالُ: ارْفَعْ رَأْسَكَ وَسَلْ تُعْطَهْ وَقُلْ يُسْمَعْ وَاشْفَعْ تُشَفَّعْ، فأَرْفَعُ رَأْسِي فأَحْمَدُهُ بِتَحْمِيدٍ يُعَلِّمُنِيهِ ثُمَّ أَشْفَعُ فَيُحَدُّ لِي حَدًّا فأُدْخِلُهُمُ الْجَنَّةَ ثُمَّ أَعُودُ إلَيْهِ فَإذَا رَأَيْتُ رَبِّي - مِثْلَهُ - ثُمَّ أَشْفَعُ فَيُحَدُّ لِي حدًّا فأُدْخِلُهُمُ الْجَنَّةَ ثُمَّ أَعُودُ الثَّالِثَةَ ثُمَّ أعُودُ الرَّابِعَةَ فَأَقُولُ: مَا بَقِيَ فِي النَّار إلَّا مَنْ حَبَسَهُ الْقُرْآنُ وَوَجَبَ عَلَيْهِ الْخُلُودُ
+
+(The believers will gather on the Day of Resurrection and will say, 'We should seek a means of intercession with our Lord' They will go to Adam and say, 'O Adam! You are the father of all mankind, Allah created you with His Own Hand, ordered the angels to prostrate for you and taught you the names of everything. Will you not intercede for us with your Lord, so that he relieve us from this gathering place?' On that Adam will reply, 'I cannot do what you have asked'. He will have remembered his error and will be embarrassed, saying, 'Go to Nuh, for he is the first of Allah's Messengers whom Allah sent to the people of the earth.' They will go to Nuh and ask him. He will say, 'I cannot do what you have asked.' He will recall asking Allah what he was not to know, and will also be embarrassed. He will say, 'Go to Khalil Ar-Rahman.' They will go to Ibrahim and he will also say, 'I cannot do what you have asked.' He will say, 'Go to Musa, a servant to whom Allah spoke directly and gave the Tawrah.' Musa will say, 'I cannot do what you have asked.' He will remember that he killed a person without justification and will be embarrassed before his Lord. He will say, 'Go to 'Isa, Allah's servant and Messenger and His Word and a spirit of His.' They will go to 'Isa and he will say, 'I will not do what you asked. Go to Muhammad, a servant whose previous and latter errors were forgiven.' They will come to me, and I will go to Allah and seek His permission and He will give me His permission. When I gaze at my Lord, I will prostrate myself and Allah will allow me to remain like that as much as He will. Then I will be addressed, 'O Muhammad! Raise your head; ask, for you will be given what you ask, and intercede, for your intercession will be accepted.' I will raise my head and thank and praise Allah with such praise as He will inspire me. I will intercede and He will grant me a quantity of people that He will admit into Paradise. I will go back to Him, and when I see my Lord, I will intercede and He will allow me a quantity that He will admit into Paradise. I will do that for a third and then a fourth time. I will say, 'There are no more people left in Hell except those whom the Qur'an has incarcerated and have thus acquired eternity in Hell.') This Hadith was collected by Muslim, An-Nasa'i and Ibn Majah.
+
+The reason why we mentioned this Hadith here is the Prophet's statement,
+
+فَيَأْتُونَ آدَمَ فَيَقُولُون: أنْتَ أَبُو النَّاسِ خَلَقَكَ اللهُ بِيَدِهِ وَأَسْجَدَ لَكَ مَلَائِكَتَهُ وَعَلَّمَكَ أَسْمَاءَ كُلِّ شَيْءٍ
+
+(They will go to Adam and say, 'O Adam! You are the father of all mankind, and Allah created you with His Own Hand, ordered the angels to prostrate for you, and taught you the names of everything). This part of the Hadith testifies to the fact that Allah taught Adam the names of all creatures.
+
+This is why Allah said,
+
+ثُمَّ عَرَضَهُمْ عَلَى الْمَلَائِكَةِ
+
+(Then He showed them to the angels) meaning, the objects or creations. 'Abdur-Razzaq narrated that Ma'mar said that Qatadah said, "Allah paraded the objects before the angels,
+
+فَقَالَ أَنبِئُونِي بِأَسْمَاءِ هَٰؤُلَاءِ إِن كُنتُمْ صَادِقِينَ
+
+(And said, "Tell Me the names of these if you are truthful")."
+
+Allah's statement means, "Tell Me the names of what I paraded before you, O angels who said,
+
+أَتَجْعَلُ فِيهَا مَن يُفْسِدُ فِيهَا وَيَسْفِكُ الدِّمَآءَ
+
+(Will You place therein those who will make mischief therein and shed blood).
+
+You asked, 'Are You appointing a Khalifah from us or from other creations? We praise and glorify You.
+
+Therefore, Allah said, "If you say the truth, that if I appoint a non-angel Khalifah on the earth, he and his offspring will disobey Me, commit mischief and shed blood, but if I designate you the Khalifahs you will obey Me, follow My command and honor and glorify Me. However, since you do not know the names of the objects I paraded before you, then you have even less knowledge of what will occur on the earth that does not exist yet."
+
+قَالُوا سُبْحَانَكَ لَا عِلْمَ لَنَا إِلَّا مَا عَلَّمْتَنَا ۖ إِنَّكَ أَنتَ الْعَلِيمُ الْحَكِيمُ
+
+(They (angels) said: "Glory is to You, we have no knowledge except what you have taught us. Verily, it is You, the Knower, the Wise.").
+
+Here the angels are praising Allah's holiness, and perfection above every kind of deficiency, affirming that no creature could ever acquire any part of Allah's knowledge, except by His permission, nor could anyone know anything except what Allah teaches them. This is why they said,
+
+سُبْحَانَكَ لَا عِلْمَ لَنَا إِلَّا مَا عَلَّمْتَنَا ۖ إِنَّكَ أَنتَ الْعَلِيمُ الْحَكِيمُ
+
+("Glory is to You, we have no knowledge except what you have taught us. Verily You are the Knower, the Wise) meaning, Allah is knowledgeable of everything, Most Wise about His creation, and He makes the wisest decisions, and He teaches and deprives whom He wills from knowledge. Verily, Allah's wisdom and justice in all matters is perfect.
+
+Adam's Virtue of Knowledge is demonstrated
+
+Allah said,
+
+قَالَ يَا آدَمُ أَنبِئْهُم بِأَسْمَائِهِمْ فَلَمَّا أَنبَأَهُم بِأَسْمَائِهِمْ قَالَ أَلَمْ أَقُل لَّكُمْ إِنِّي أَعْلَمُ غَيْبَ السَّمَاوَاتِ وَالْأَرْضِ وَأَعْلَمُ مَا تُبْدُونَ وَمَا كُنتُمْ تَكْتُمُونَ
+
+(He said: "O Adam! Inform them of their names," and when he had informed them of their names, He said: "Did I not tell you that I know the Ghayb (unseen) in the heavens and the earth, and I know what you reveal and what you have been concealing?")
+
+Zayd bin Aslam said, "You are Jibril, you are Mika'il, you are Israfil, until he mentioned the name of the crow." Mujahid said that Allah's statement,
+
+قَالَ يَا آدَمُ أَنبِئْهُم بِأَسْمَائِهِمْ
+
+(He said: "O Adam! Inform them of their names,") "The name of the pigeon, the crow and everything." Statements of a similar meaning were reported from Sa'id bin Jubayr, Al-Hasan, and Qatadah. When Adam's virtue over the angels became apparent, as he mentioned the names that Allah taught him, Allah said to the angels,
+
+أَلَمْ أَقُل لَّكُمْ إِنِّي أَعْلَمُ غَيْبَ السَّمَاوَاتِ وَالْأَرْضِ وَأَعْلَمُ مَا تُبْدُونَ وَمَا كُنتُمْ تَكْتُمُونَ
+
+(Did I not tell you that I know the Ghayb (unseen) in the heavens and the earth, and I know what you reveal and what you have been concealing?)
+
+This means, "Did I not state that I know the seen and unseen matters. " Similarly, Allah said,
+
+وَإِن تَجْهَرْ بِالْقَوْلِ فَإِنَّهُ يَعْلَمُ السِّرَّ وَأَخْفَى
+
+(And if you (O Muhammad ﷺ) speak (the invocation) aloud, then verily, He knows the secret and that which is yet more hidden)(20:7).
+
+Also, Allah said about the hoopoe, that it said to Sulayman;
+
+أَلَّا يَسْجُدُوا لِلَّهِ الَّذِي يُخْرِجُ الْخَبْءَ فِي السَّمَاوَاتِ وَالْأَرْضِ وَيَعْلَمُ مَا تُخْفُونَ وَمَا تُعْلِنُونَ - اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ رَبُّ الْعَرْشِ الْعَظِيمِ
+
+([As Shaytan (Satan) has barred them from Allah's way] so they do not prostrate before Allah, Who brings to light what is hidden in the heavens and the earth, and knows what you conceal and what you reveal. Allah, La ilaha illa Huwa (none has the right to be worshipped but He), the Lord of the Supreme Throne!)(27:25-26).
+
+They also have comments other than what we have said about the meaning of Allah's statement,
+
+وَأَعْلَمُ مَا تُبْدُونَ وَمَا كُنتُمْ تَكْتُمُونَ
+
+(And I know what you reveal and what you have been concealing).
+
+It is reported from Ad-Dahhak that Ibn 'Abbas said that,
+
+وَأَعْلَمُ مَا تُبْدُونَ وَمَا كُنتُمْ تَكْتُمُونَ
+
+(And I know what you reveal and what you have been concealing) means, "I know the secrets, just as I know the apparent things, such as, what Iblis concealed in his heart of arrogance and pride." Abu Ja'far Ar-Razi narrated that Ar-Rabi' bin Anas said that,
+
+وَأَعْلَمُ مَا تُبْدُونَ وَمَا كُنتُمْ تَكْتُمُونَ
+
+(And I know what you reveal and what you have been concealing) means, "The apparent part of what they said was: 'Do you create in it that which would commit mischief and shed blood?' The hidden meaning was: 'We have more knowledge and honor than any creation our Lord would create.' But they came to know that Allah favored Adam above them regarding knowledge and honor."
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله تعالى ذكره:  قَالُوا سُبْحَانَكَ لا عِلْمَ لَنَا إِلا مَا عَلَّمْتَنَا إِنَّكَ أَنْتَ الْعَلِيمُ الْحَكِيمُ (32)قال أبو جعفر: وهذا خبر من الله جل ذكره عن ملائكته، بالأوبة إليه، وتسليم علم ما لم يعلموه له، وتبرِّيهم من أن يعلموا أو يعلم أحد شيئًا إلا ما علّمه تعالى ذكره.وفي هذه الآيات الثلاث العبرة لمن اعتبرَ، والذكرى لمن ادّكر، والبيان لمن كان له قلبٌ أو ألقَى السمعَ وهو شهيد، عمّا أودع الله جل ثناؤه آيَ هذا القرآن من لطائف الحكم التي تعجز عن أوصافها الألسن.وذلك أن الله جل...
+القول في تأويل قوله تعالى ذكره: ﴿قَالُوا سُبْحَانَكَ لا عِلْمَ لَنَا إِلا مَا عَلَّمْتَنَا إِنَّكَ أَنْتَ الْعَلِيمُ الْحَكِيمُ (٣٢) ﴾
+
+قال أبو جعفر: وهذا خبر من الله جل ذكره عن ملائكته، بالأوبة إليه، وتسليم علم ما لم يعلموه له، وتبرِّيهم من أن يعلموا أو يعلم أحد شيئًا إلا ما علّمه تعالى ذكره.
+
+وفي هذه الآيات الثلاث العبرة لمن اعتبرَ، والذكرى لمن ادّكر، والبيان لمن كان له قلبٌ أو ألقَى السمعَ وهو شهيد، عمّا أودع الله جل ثناؤه آيَ هذا القرآن من لطائف الحكم التي تعجز عن أوصافها الألسن.
+
+وذلك أن الله جل ثناؤه احتجّ فيها لنبيه ﷺ على من كان بين ظَهْرَانَيْه من يَهود بني إسرائيل، بإطلاعه إياه من علوم الغيب التي لم يكن جل ثناؤه أطلعَ عليها من خلقه إلا خاصًّا، ولم يكن مُدرَكًا علمه إلا بالإنباء والإخبار، لتتقرر عندهم صحة نبوته، ويعلموا أن ما أتاهم به فمن عنده، ودلّ فيها على أنّ كل مخبر خبرًا عما قد كان - أو عما هو كائن مما لم يكنْ، ولم يأته به خبر، ولم يُوضَع له على صحّته برهان، - فمتقوّلٌ ما يستوجبُ به من ربه العقوبة. ألا ترى أنّ الله جل ذكره ردّ على ملائكته قِيلَهم:"أتجعلُ فيها من يُفسدُ فيها ويَسفكُ الدماءَ ونَحنُ نُسبح بحمدك ونقدسُ لك" قال:"إني أعلمُ ما لا تعلمونَ"، وعرفهم أن قِيلَ ذلك لم يكن جائزًا لهم، بما عرّفهم من قصور علمهم عند عرضه ما عرض عليهم من أهل الأسماء، فقال:"أنبئوني بأسماء هؤلاء إن كنتمْ صادقين". فلم يكن لهم مَفزَعٌ إلا الإقرارُ بالعجز، والتبرِّي إليه أن يعلموا إلا ما علّمهم، بقولهم:"سبحانك لا عِلْمَ لنا إلا ما علّمتنا". فكان في ذلك أوضحُ الدلالة وأبينُ الحجة، على كذب مقالة كلّ من ادعى شيئًا من علوم الغيب من الحُزاة والكهنة والعافَةِ والمنجِّمة [[الحزاة جمع حاز: وهو كالكاهن، يحرز الأشياء ويقدرها بظنه. ويقال للذي ينظر في النجوم ويتكهن حاز وحزاء، وفي حديث هرقل أنه"كان حزاء"، وفي الحديث: "كان لفرعون حاز"، أي كاهن. والكهنة جمع كاهن: وهو الذي يتعاطى الخبر عن الكائنات في مستقبل الزمان ويدعى معرفة الأسرار. وفي المطبوعة"والقافة" مكان"والعافة"، وهو خطأ بين، فالقيافة ليست مما أراد الطبري في شيء، وهي حق، لا باطل كباطل التحزي والكهانة والتنجيم. والعافة جمع عائف: وهو الذي يعيف الطير فيزجرها ويتفاءل أو يتشاءم بأسمائها وأصواتها وممرها. واسم حرفته: العيافة، وفي الحديث: "العيافة والطرق من الجبت". وهو ضرب من الكهانة. والمنجم والمتنجم: الذي ينظر في النجوم يحسب مواقيتها وسيرها، ثم يربط بين ذلك وبين أحوال الدنيا والناس، فيقول بالظن في غيب أمورهم.]] . وذكَّر بها الذين وَصَفنا أمرَهم من أهل الكتاب - سوالفَ نعمه على آبائهم، وأياديَه عند أسلافهم، عند إنابتهم إليه، وإقبالهم إلى طاعته، مُستعطفَهم بذلك إلى الرشاد، ومُستعتِبَهم به إلى النجاة. وحذَّرهم - بالإصرار والتمادي في البغي والضلال - حلولَ العقاب بهم، نظيرَ ما أحلّ بعدوِّه إبليس، إذ تمادَى في الغيّ والخَسَار [[في المطبوعة: "في البغي والخسار"، والصواب ما في المخطوطة.]]
+
+قال: وأما تأويل قوله:"سبحانك لا علم لنا إلا ما علمتنا"، فهو كما:-
+
+٦٧٤ - حدثنا به أبو كريب، قال: حدثنا عثمان بن سعيد، قال: حدثنا بشر بن عمارة، عن أبي روق، عن الضحاك، عن ابن عباس:"قالوا سبحانك" تنزيهًا لله من أن يكون أحدٌ يعلم الغيبَ غيرُه، تُبنا إليك"لا علم لنا إلا ما عَلَّمتنا"، تبرِّيًا منهم من علم الغيب،"إلا ما علَّمتنا" كما علمت آدم [[الخبر: ٦٧٤- مختصر من الخبر رقم: ٦٠٦. وفي المطبوعة هنا"تبرؤًا منهم".]] .
+
+وسُبحان مصدر لا تصرُّف له [[انظر ما مضى: ص ٤٧٤ التعليق رقم: ٣.]] . ومعناه: نسبِّحك، كأنهم قالوا: نسبحك تسبيحًا، وننزهك تنزيهًا، ونبرّئك من أن نعلم شيئًا غير ما علمتنا.
+
+* *
+
+القول في تأويل قوله: ﴿إِنَّكَ أَنْتَ الْعَلِيمُ الْحَكِيمُ﴾
+
+قال أبو جعفر: وتأويل ذلك: أنك أنت يَا ربنا العليمُ من غير تعليم بجميع ما قد كان وما وهو كائن، والعالم للغيوب دون جميع خلقك. وذلك أنّهم نَفَوْا عن أنفسهم بقولهم:"لا علمٌ لنا إلا ما علَّمتنا"، أن يكون لهم علم إلا ما علمهم ربهم، وأثبتوا ما نَفَوْا عن أنفسهم من ذلك لربهم بقولهم:"إنك أنتَ العليم"، يعنون بذلك العالم من غير تعليم، إذ كان مَنْ سوَاك لا يعلم شيئًا إلا بتعليم غيره إياه. والحكيم: هو ذو الحكمة. كما:-
+
+٦٧٥ - حدثني به المثنى، قال: حدثنا عبد الله بن صالح، قال: حدثني معاوية، عن علي، عن ابن عباس:"العليم" الذي قد كمل في علمه، و"الحكيم" الذي قد كمل في حُكمه [[الخبر: ٦٧٥ في الدر المنثور ١: ٤٩، والشوكاني ١: ٥٢.]] .
+
+وقد قيل، إن معنى الحكيم: الحاكم، كما أنّ العليم بمعنى العالم، والخبير بمعنى الخابر.
 
 ### al-Muyassar (Arabic)
 
-قالت الملائكة: ننزِّهك يا ربَّنا، ليس لنا علم إلا ما علَّمتنا إياه. إنك أنت وحدك العليم بشئون خلقك، الحكيم في تدبيرك.
+قالت الملائكة: ننزِّهك يا ربَّنا، ليس لنا علم إلا ما علَّمتنا إياه. إنك أنت وحدك العليم بشؤون خلقك، الحكيم في تدبيرك.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿قالُوا سُبْحانك﴾ تَنْزِيهًا لَك عَنْ الِاعْتِراض عَلَيْك ﴿لا عِلْم لَنا إلّا ما عَلَّمْتنا﴾ إيّاهُ ﴿إنّك أنْت﴾ تَأْكِيد لِلْكافِ ﴿العَلِيم الحَكِيم﴾ الَّذِي لا يَخْرُج شَيْء عَنْ عِلْمه وحِكْمَته
 
 ---
 
@@ -79,12 +582,155 @@ Allah stated the virtue of Adam above the angels, because He taught Adam, rather
 
 ### Ibn Kathir (English)
 
+And He taught Adam all the names (of everything), then He showed them to the angels and said, "Tell Me the names of these if you are truthful. (31)They (angels) said: "Glory is to You, we have no knowledge except what you have taught us. Verily, You are the Knower, the Wise. (32)He said: "O Adam! Inform them of their names," and when he had informed them of their names, He said: "Did I not tell you that I know the Ghayb (unseen) in the heavens and the earth, and I know what you reveal and what you have been concealing? (33)
+
 The Virtue of Adam over the Angels
-Allah stated the virtue of Adam above the angels, because He taught Adam, rather than them, the names of everything. This occurred after they prostrated to him. This discussion precedes that event here, only to show the importance of his position, and the absence of the angels' knowledge about creating the Khalifah when they asked about it. So Allah informed the angels that He knows what they do not know, and then He mentioned this to show them Adam's superi...
+
+Allah stated the virtue of Adam above the angels, because He taught Adam, rather than them, the names of everything. This occurred after they prostrated to him. This discussion precedes that event here, only to show the importance of his position, and the absence of the angels' knowledge about creating the Khalifah when they asked about it. So Allah informed the angels that He knows what they do not know, and then He mentioned this to show them Adam's superiority over them in knowledge. Allah said,
+
+وَعَلَّمَ ءَادَمَ الأَسْمَآءَ كُلَّهَا
+
+(And He taught Adam all the names (of everything)).
+
+Ad-Dahhak said that Ibn 'Abbas commented on the Ayah;
+
+وَعَلَّمَ ءَادَمَ الأَسْمَآءَ كُلَّهَا
+
+(And He taught Adam all the names (of everything)) "Meaning, the names that people use, such as human, animal, sky, earth, land, sea, horse, donkey, and so forth, including the names of the other species." Ibn Abi Hatim and Ibn Jarir reported that 'Asim bin Kulayb narrated from Sa'id bin Ma'bad that Ibn 'Abbas was questioned,
+
+وَعَلَّمَ ءَادَمَ الأَسْمَآءَ كُلَّهَا
+
+(And He taught Adam all the names (of everything)) "Did Allah teach him the names of the plate and the pot?" He said, "Yes, and even the terms for breaking wind!"
+
+Allah taught Adam the names of everything, their proper names, the names of their characteristics, and what they do, just as Ibn 'Abbas stated about the terms for passing gas.
+
+In his Sahih, Al-Bukhari explained this Ayah in the Book of Tafsir with a report from Anas bin Malik who said that the Messenger of Allah ﷺ said,
+
+يَجْتَمِعُ الْمُؤمِنُونَ يَوْمَ الْقِيَامَةِ فَيَقُولُونَ: لَوِ اسْتَشْفَعْنَا إِلَى رَبِّنَا فَيَأْتُونَ آدَمَ فَيَقُولُونَ: أَنْتَ أَبُو النَّاسِ خَلَقَكَ اللهُ بِيَدِهِ وَأَسْجَدَ لَكَ مَلَائِكَتَهُ وَعَلَّمَكَ أَسْمَاءَ كُلِّ شَيْءٍ، فَاشْفَعْ لَنَا عِنْدَ رَبِّكَ حَتَّى يُريحَنَا مِنْ مَكَانِنَا هَذا، فَيَقُولُ: لَسْتُ هُنَاكُمْ - وَيَذْكُرُ ذَنْبَهُ فَيَسْتَحْيِي - ائْتُوا نُوحًا فإِنَّهُ أَوَّلُ رَسُولٍ بَعَثَهُ اللهُ إِلَى أَهْلِ الْأَرْضِ، فَيَأْتُونَه، فَيَقُولُ: لَسْتُ هُناكُمْ - وَيَذْكُر سُؤَالَه رَبَّه مَا لَيْسَ لَهُ بِه عِلْم فَيَسْتَحْيِي - فَيَقُولُ: ائْتُوا خَلِيلَ الرَّحْمٰن فَيَأْتُونَهُ فَيقُولُ: لَسْتُ هُنَاكُمْ فَيَقُولُ: ائْتُوا مُوسَى عَبْدًا كَلَّمَهُ اللهُ وَأعْطَاهُ التَّوْرَاةَ، فَيقُولُ: لَسْتُ هُنَاكُم - فَيَذْكُرُ قَتْلَ النَّفْسِ بِغَيْرِ نَفْسٍ فَيَسْتَحْيِي مِنْ رَبِّهِ فَيَقُولُ: ائْتُوا عِيسى عَبْدَ اللهِ وَرَسُولَهُ وَكَلِمَةَ اللهِ ورُوحَهُ، فَيَأْتُونَهُ فَيَقُولُ: لَسْتُ هُنَاكُمْ ائْتُوا مُحَمَّدًا عَبْدًا غُفِرَ لَهُ مَا تَقَدَّم مِنْ ذَنْبِهِ وَمَا تَأَخَّرَ، فَيَأْتُونِّي فأَنْطَلِقُ حَتَّى أَسْتأذِنَ عَلَى رَبِّي فيَأْذَنُ لِي، فإِذَا رأَيْتُ رَبِّي وَقَعْتُ سَاجِدًا فَيَدَعُنِي مَا شَاءَ اللهُ ثُمَّ يُقَالُ: ارْفَعْ رَأْسَكَ وَسَلْ تُعْطَهْ وَقُلْ يُسْمَعْ وَاشْفَعْ تُشَفَّعْ، فأَرْفَعُ رَأْسِي فأَحْمَدُهُ بِتَحْمِيدٍ يُعَلِّمُنِيهِ ثُمَّ أَشْفَعُ فَيُحَدُّ لِي حَدًّا فأُدْخِلُهُمُ الْجَنَّةَ ثُمَّ أَعُودُ إلَيْهِ فَإذَا رَأَيْتُ رَبِّي - مِثْلَهُ - ثُمَّ أَشْفَعُ فَيُحَدُّ لِي حدًّا فأُدْخِلُهُمُ الْجَنَّةَ ثُمَّ أَعُودُ الثَّالِثَةَ ثُمَّ أعُودُ الرَّابِعَةَ فَأَقُولُ: مَا بَقِيَ فِي النَّار إلَّا مَنْ حَبَسَهُ الْقُرْآنُ وَوَجَبَ عَلَيْهِ الْخُلُودُ
+
+(The believers will gather on the Day of Resurrection and will say, 'We should seek a means of intercession with our Lord' They will go to Adam and say, 'O Adam! You are the father of all mankind, Allah created you with His Own Hand, ordered the angels to prostrate for you and taught you the names of everything. Will you not intercede for us with your Lord, so that he relieve us from this gathering place?' On that Adam will reply, 'I cannot do what you have asked'. He will have remembered his error and will be embarrassed, saying, 'Go to Nuh, for he is the first of Allah's Messengers whom Allah sent to the people of the earth.' They will go to Nuh and ask him. He will say, 'I cannot do what you have asked.' He will recall asking Allah what he was not to know, and will also be embarrassed. He will say, 'Go to Khalil Ar-Rahman.' They will go to Ibrahim and he will also say, 'I cannot do what you have asked.' He will say, 'Go to Musa, a servant to whom Allah spoke directly and gave the Tawrah.' Musa will say, 'I cannot do what you have asked.' He will remember that he killed a person without justification and will be embarrassed before his Lord. He will say, 'Go to 'Isa, Allah's servant and Messenger and His Word and a spirit of His.' They will go to 'Isa and he will say, 'I will not do what you asked. Go to Muhammad, a servant whose previous and latter errors were forgiven.' They will come to me, and I will go to Allah and seek His permission and He will give me His permission. When I gaze at my Lord, I will prostrate myself and Allah will allow me to remain like that as much as He will. Then I will be addressed, 'O Muhammad! Raise your head; ask, for you will be given what you ask, and intercede, for your intercession will be accepted.' I will raise my head and thank and praise Allah with such praise as He will inspire me. I will intercede and He will grant me a quantity of people that He will admit into Paradise. I will go back to Him, and when I see my Lord, I will intercede and He will allow me a quantity that He will admit into Paradise. I will do that for a third and then a fourth time. I will say, 'There are no more people left in Hell except those whom the Qur'an has incarcerated and have thus acquired eternity in Hell.') This Hadith was collected by Muslim, An-Nasa'i and Ibn Majah.
+
+The reason why we mentioned this Hadith here is the Prophet's statement,
+
+فَيَأْتُونَ آدَمَ فَيَقُولُون: أنْتَ أَبُو النَّاسِ خَلَقَكَ اللهُ بِيَدِهِ وَأَسْجَدَ لَكَ مَلَائِكَتَهُ وَعَلَّمَكَ أَسْمَاءَ كُلِّ شَيْءٍ
+
+(They will go to Adam and say, 'O Adam! You are the father of all mankind, and Allah created you with His Own Hand, ordered the angels to prostrate for you, and taught you the names of everything). This part of the Hadith testifies to the fact that Allah taught Adam the names of all creatures.
+
+This is why Allah said,
+
+ثُمَّ عَرَضَهُمْ عَلَى الْمَلَائِكَةِ
+
+(Then He showed them to the angels) meaning, the objects or creations. 'Abdur-Razzaq narrated that Ma'mar said that Qatadah said, "Allah paraded the objects before the angels,
+
+فَقَالَ أَنبِئُونِي بِأَسْمَاءِ هَٰؤُلَاءِ إِن كُنتُمْ صَادِقِينَ
+
+(And said, "Tell Me the names of these if you are truthful")."
+
+Allah's statement means, "Tell Me the names of what I paraded before you, O angels who said,
+
+أَتَجْعَلُ فِيهَا مَن يُفْسِدُ فِيهَا وَيَسْفِكُ الدِّمَآءَ
+
+(Will You place therein those who will make mischief therein and shed blood).
+
+You asked, 'Are You appointing a Khalifah from us or from other creations? We praise and glorify You.
+
+Therefore, Allah said, "If you say the truth, that if I appoint a non-angel Khalifah on the earth, he and his offspring will disobey Me, commit mischief and shed blood, but if I designate you the Khalifahs you will obey Me, follow My command and honor and glorify Me. However, since you do not know the names of the objects I paraded before you, then you have even less knowledge of what will occur on the earth that does not exist yet."
+
+قَالُوا سُبْحَانَكَ لَا عِلْمَ لَنَا إِلَّا مَا عَلَّمْتَنَا ۖ إِنَّكَ أَنتَ الْعَلِيمُ الْحَكِيمُ
+
+(They (angels) said: "Glory is to You, we have no knowledge except what you have taught us. Verily, it is You, the Knower, the Wise.").
+
+Here the angels are praising Allah's holiness, and perfection above every kind of deficiency, affirming that no creature could ever acquire any part of Allah's knowledge, except by His permission, nor could anyone know anything except what Allah teaches them. This is why they said,
+
+سُبْحَانَكَ لَا عِلْمَ لَنَا إِلَّا مَا عَلَّمْتَنَا ۖ إِنَّكَ أَنتَ الْعَلِيمُ الْحَكِيمُ
+
+("Glory is to You, we have no knowledge except what you have taught us. Verily You are the Knower, the Wise) meaning, Allah is knowledgeable of everything, Most Wise about His creation, and He makes the wisest decisions, and He teaches and deprives whom He wills from knowledge. Verily, Allah's wisdom and justice in all matters is perfect.
+
+Adam's Virtue of Knowledge is demonstrated
+
+Allah said,
+
+قَالَ يَا آدَمُ أَنبِئْهُم بِأَسْمَائِهِمْ فَلَمَّا أَنبَأَهُم بِأَسْمَائِهِمْ قَالَ أَلَمْ أَقُل لَّكُمْ إِنِّي أَعْلَمُ غَيْبَ السَّمَاوَاتِ وَالْأَرْضِ وَأَعْلَمُ مَا تُبْدُونَ وَمَا كُنتُمْ تَكْتُمُونَ
+
+(He said: "O Adam! Inform them of their names," and when he had informed them of their names, He said: "Did I not tell you that I know the Ghayb (unseen) in the heavens and the earth, and I know what you reveal and what you have been concealing?")
+
+Zayd bin Aslam said, "You are Jibril, you are Mika'il, you are Israfil, until he mentioned the name of the crow." Mujahid said that Allah's statement,
+
+قَالَ يَا آدَمُ أَنبِئْهُم بِأَسْمَائِهِمْ
+
+(He said: "O Adam! Inform them of their names,") "The name of the pigeon, the crow and everything." Statements of a similar meaning were reported from Sa'id bin Jubayr, Al-Hasan, and Qatadah. When Adam's virtue over the angels became apparent, as he mentioned the names that Allah taught him, Allah said to the angels,
+
+أَلَمْ أَقُل لَّكُمْ إِنِّي أَعْلَمُ غَيْبَ السَّمَاوَاتِ وَالْأَرْضِ وَأَعْلَمُ مَا تُبْدُونَ وَمَا كُنتُمْ تَكْتُمُونَ
+
+(Did I not tell you that I know the Ghayb (unseen) in the heavens and the earth, and I know what you reveal and what you have been concealing?)
+
+This means, "Did I not state that I know the seen and unseen matters. " Similarly, Allah said,
+
+وَإِن تَجْهَرْ بِالْقَوْلِ فَإِنَّهُ يَعْلَمُ السِّرَّ وَأَخْفَى
+
+(And if you (O Muhammad ﷺ) speak (the invocation) aloud, then verily, He knows the secret and that which is yet more hidden)(20:7).
+
+Also, Allah said about the hoopoe, that it said to Sulayman;
+
+أَلَّا يَسْجُدُوا لِلَّهِ الَّذِي يُخْرِجُ الْخَبْءَ فِي السَّمَاوَاتِ وَالْأَرْضِ وَيَعْلَمُ مَا تُخْفُونَ وَمَا تُعْلِنُونَ - اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ رَبُّ الْعَرْشِ الْعَظِيمِ
+
+([As Shaytan (Satan) has barred them from Allah's way] so they do not prostrate before Allah, Who brings to light what is hidden in the heavens and the earth, and knows what you conceal and what you reveal. Allah, La ilaha illa Huwa (none has the right to be worshipped but He), the Lord of the Supreme Throne!)(27:25-26).
+
+They also have comments other than what we have said about the meaning of Allah's statement,
+
+وَأَعْلَمُ مَا تُبْدُونَ وَمَا كُنتُمْ تَكْتُمُونَ
+
+(And I know what you reveal and what you have been concealing).
+
+It is reported from Ad-Dahhak that Ibn 'Abbas said that,
+
+وَأَعْلَمُ مَا تُبْدُونَ وَمَا كُنتُمْ تَكْتُمُونَ
+
+(And I know what you reveal and what you have been concealing) means, "I know the secrets, just as I know the apparent things, such as, what Iblis concealed in his heart of arrogance and pride." Abu Ja'far Ar-Razi narrated that Ar-Rabi' bin Anas said that,
+
+وَأَعْلَمُ مَا تُبْدُونَ وَمَا كُنتُمْ تَكْتُمُونَ
+
+(And I know what you reveal and what you have been concealing) means, "The apparent part of what they said was: 'Do you create in it that which would commit mischief and shed blood?' The hidden meaning was: 'We have more knowledge and honor than any creation our Lord would create.' But they came to know that Allah favored Adam above them regarding knowledge and honor."
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله تعالى:  قَالَ يَا آدَمُ أَنْبِئْهُمْ بِأَسْمَائِهِمْ فَلَمَّا أَنْبَأَهُمْ بِأَسْمَائِهِمْ قَالَ أَلَمْ أَقُلْ لَكُمْ إِنِّي أَعْلَمُ غَيْبَ السَّمَاوَاتِ وَالأَرْضِقال أبو جعفر: إن الله جل ثناؤه عَرّف ملائكته - الذين سألوه أن يجعلهم الخلفاء في الأرض، ووصَفوا أنفسهم بطاعته والخضوع لأمره، دونَ غيرهم الذين يُفسدون فيها ويسفكون الدماء - أنهم، من الجهل بمواقع تدبيره ومحلّ قَضَائه، قَبل إطلاعه إياهم عليه، على نحو جهلهم بأسماء الذين عَرَضهم عليهم، إذ كان ذلك مما لم يعلمهم فيعلمو...
+القول في تأويل قوله تعالى: ﴿قَالَ يَا آدَمُ أَنْبِئْهُمْ بِأَسْمَائِهِمْ فَلَمَّا أَنْبَأَهُمْ بِأَسْمَائِهِمْ قَالَ أَلَمْ أَقُلْ لَكُمْ إِنِّي أَعْلَمُ غَيْبَ السَّمَوَاتِ وَالأرْضِ﴾
+
+قال أبو جعفر: إن الله جل ثناؤه عَرّف ملائكته - الذين سألوه أن يجعلهم الخلفاء في الأرض، ووصَفوا أنفسهم بطاعته والخضوع لأمره، دونَ غيرهم الذين يُفسدون فيها ويسفكون الدماء - أنهم، من الجهل بمواقع تدبيره ومحلّ قَضَائه، قَبل إطلاعه إياهم عليه، على نحو جهلهم بأسماء الذين عَرَضهم عليهم، إذ كان ذلك مما لم يعلمهم فيعلموه، وأنهم وغيرهم من العباد لا يعلمون من العلم إلا ما علَّمهم إياه ربهم، وأنّه يخص بما شاء من العلم من شاء من الخلق، ويمنعه منهم من شاء، كما علم آدم أسماء ما عرض على الملائكة، ومنعهم علمها إلا بعد تعليمه إياهم.
+
+فأما تأويل قوله:"قال يا آدم أنبئهم"، يقول: أخبر الملائكةَ، والهاء والميم في قوله:"أنبئهم" عائدتان على الملائكة. وقوله:"بأسمائهم" يعني بأسماء الذين عَرَضهم على الملائكة، والهاء والميم اللتان في"أسمائهم" كناية عن ذكر "هؤلاء" التي في قوله:"أنبئوني بأسماء هؤلاء"."فلما أنبأهم" يقول: فلما أخبر آدمُ الملائكةَ بأسماء الذين عرضهم عليهم، فلم يَعرفوا أسماءهم، وأيقنوا خَطأ قيلهم: "أتجعلُ فيها من يُفسد فيها ويَسفك الدماءَ ونحن نسبِّح بحمدك ونقدس لك"، وأنهم قَد هَفوْا في ذلك وقالوا ما لا يعلمون كيفية وقوع قضاء ربهم في ذلك لو وقع، على ما نطقوا به، - قال لهم ربهم:"ألم أقلْ لكُم إنّي أعلمُ غَيبَ السموات والأرض". والغيب: هو ما غاب عن أبصارهم فلم يعاينوه؛ توبيخًا من الله جل ثناؤه لهم بذلك، على ما سلف من قيلهم، وَفرَط منهم من خطأ مَسألتهم. كما:-
+
+٦٧٦ - حدثنا به محمد بن العلاء، قال: حدثنا عثمان بن سعيد، قال: حدثنا بشر بن عمارة، عن أبي روق، عن الضحاك، عن ابن عباس:"قال يا آدمُ أنبئهم بأسمائهم"، يقول: أخبرهم بأسمائهم -"فلما أنبأهم بأسمائهم قال: ألم أقلْ لكم" أيها الملائكة خَاصة"إنّي أعلم غيبَ السموات والأرض" ولا يعلمه غيري [[الخبر: ٦٧٦- مختصر من الخبر السالف رقم: ٦٠٦.]] .
+
+٦٧٧ - وحدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد في قصة الملائكة وآدم: فقال الله للملائكة: كما لم تعلموا هذه الأسماء فليس لكم علم، إنما أردت أن أجعلهم ليفسدوا فيها، هذا عندي قد علمتُه، فكذلك أخفيتُ عنكم أني أجعل فيها من يعصيني ومن يُطيعني، قال: وَسبقَ من الله: ﴿لأَمْلأنَّ جَهَنَّمَ مِنَ الْجِنَّةِ وَالنَّاسِ أَجْمَعِينَ﴾ [سورة هود: ١١٩، وسورة السجدة: ١٣] ، قال: ولم تعلم الملائكة ذلك ولم يدروه. قال: فلما رأوْا ما أعطى الله آدمَ من العلم أقروا لآدم بالفضل [[الأثر: ٦٧٧- في ابن كثير ١: ١٣٥. في المخطوطة: "علم بما أردت. . . هذا عبدي".]] .
+
+* *
+
+القول في تأويل قوله تعالى: ﴿وَأَعْلَمُ مَا تُبْدُونَ وَمَا كُنْتُمْ تَكْتُمُونَ (٣٣) ﴾
+
+قال أبو جعفر: اختلف أهل التأويل في تأويل ذلك، فرُوي عن ابن عباس في ذلك ما:-
+
+٦٧٨ - حدثنا به أبو كريب، قال: حدثنا عثمان بن سعيد، قال: حدثنا بشر بن عمارة، عن أبي روق، عن الضحاك، عن ابن عباس:"وأعلم ما تبدون" يقول: ما تظهرون،"وما كنتم تكتمون" يقول: أعلم السرّ كما أعلم العلانية. يعني: ما كتم إبليس في نفسه من الكبر والاغترار [[الخبر: ٦٧٨- في ابن كثير ١: ١٣٥، والدر المنثور ١: ٥٠، والشوكاني ١: ٥٢.]] .
+
+٦٧٩ - وحدثني موسى بن هارون، قال: حدثنا عمرو بن حماد، قال: حدثنا أسباط، عن السُّدّيّ في خبر ذكره، عن أبي مالك، وعن أبي صالح، عن ابن عباس، وعن مُرَّة، عن ابن مسعود، وعن ناس من أصحاب النبي ﷺ:"وأعلمُ ما تبدون وما كنتم تكتمون"، قال: قولهم:"أتجعل فيها من يُفسد فيها"، فهذا الذي أبدوْا،"وما كنتم تكتمون"، يعني ما أسرّ إبليس في نفسه من الكبْر [[الخبر: ٦٧٩- في ابن كثير ١: ١٣٥، والدر المنثور ١: ٥٠ والشوكاني ١: ٥٢، وهو مختصر الخبر السالف رقم: ٦٠٦.]] .
+
+٦٨٠ - وحدثنا أحمد بن إسحاق الأهوازي، قال: حدثنا أبو أحمد الزبيري، قال: حدثنا عمرو بن ثابت، عن أبيه، عن سعيد بن جبير، قوله:"وأعلم ما تُبدون وما كنتم تكتمون"، قال: ما أسرّ إبليس في نفسه [[الأثر: ٦٨٠- لم أجده في مكان. وقد مضى في: ٦٤١ ترجمة"عمرو بن ثابت" وأبيه. وبينا ما في ذلك من شبهة الخطأ في قوله"عن جده". وهذا الإسناد هنا صواب، لأن"ثابت ابن هرمز" معروف بالرواية عن سعيد بن جبير.]] .
+
+٦٨١ - وحدثنا أحمد بن إسحاق، قال: حدثنا أبو أحمد، قال: حدثنا سفيان في قوله:"وأعلم ما تُبدون وما كنتم تكتمون"، قال: ما أسرّ إبليس في نفسه من الكبْر ألا يسجد لآدم [[الأثر: ٦٨١- لم أجده في مكان.]] .
+
+٦٨٢ - وحدثني المثنى بن إبراهيم، قال: أخبرنا الحجاج الأنماطي، قال: حدثنا مهدي بن ميمون، قال: سمعت الحسن بن دينار، قال للحسن - ونحن جُلوس عنده في منزله-: يا أبا سَعيد، أرأيتَ قول الله للملائكة:"وأعلم ما تبدون وما كنتم تكتمون"، ما الذي كتمت الملائكة؟ فقال الحسن: إن الله لمّا خلق آدم رأت الملائكة خلقًا عجيبًا، فكأنهم دَخلهم من ذلك شيء، فأقبل بعضهم إلى بعض، وأسرّوا ذلك بينهم، فقالوا: وما يُهمكم من هذا المخلوق! إن الله لن يخلق خَلقا إلا كنا أكرمَ عليه منه [[الأثر: ٦٨٢- في الدر المنثور ١: ٥٠. و"الحجاج الأنماطي": هو الحجاج ابن المنهال، وهو ثقة من شيوخ البخاري والدارمي وغيرهما. و"مهدي بن ميمون": ثقة معروف، روى عن الحسن البصري، وابن سيرين وغيرهما. وهو في هذا الإسناد يصرح بأنه سمع جواب الحسن البصري، حين سأله الحسن بن دينار. وقد نبهت على هذا، خشية أن يظن أنه من رواية مهدي عن الحسن بن دينار. والحسن بن دينار: كذاب لا يوثق به. وله ترجمة حافلة بالمنكرات والموضوعات - في كتاب المجروحين لابن حبان، رقم: ٢٠٨، والميزان، ولسان الميزان، والتهذيب، وترجم له البخاري في الكبير ١/٢/٢٩٠ - ٢٩١، والصغير: ١٨٥، وابن أبي حاتم ١/٢/١١ - ١٢، وابن سعد ٧/٢/٣٧.]] .
+
+٦٨٣ - وحدثنا الحسن بن يحيى، قال: أخبرنا عَبد الرَّزَّاق، قال: أخبرنا معمر، عن قتادة، في قوله"وأعلم ما تبدون وما كنتم تكتمون"، قال: أسرّوا بينهم فقالوا: يخلق الله ما يشاءُ أن يخلُق، فلن يخلُق خلقًا إلا ونحن أكرم عليه منه [[الأثر: ٦٨٣- في الدر المنثور ١: ٥٠، بلفظ آخر، منسوبًا للطبري"عن قتادة والحسن".]] .
+
+٦٨٤ - وحدثني المثنى، قال: حدثنا إسحاق، قال: حدثنا عبد الله بن أبي جعفر، عن أبيه، عن الربيع بن أنس:"وأعلم ما تُبدون وما كنتم تكتمون"، فكان الذي أبدَوْا حين قالوا:"أتجعل فيها من يفسد فيها"، وكان الذي كتموا بينهم قولهم: لن يخلق ربّنا خلقًا إلا كنا نحن أعلم منه وأكرم. فعرفوا أن الله فضّل عليهم آدم في العلم والكرم [[الأثر: ٦٨٤- في ابن كثير ١: ١٣٥.]] .
+
+قال أبو جعفر: وأولى هذه الأقوال بتأويل الآية ما قاله ابن عباس، وهو أن معنى قوله:"وأعلم ما تُبدون"، وأعلم - مع علمي غيبَ السموات والأرض - ما تُظهرون بألسنتكم،"وما كنتم تكتمون"، وما كنتم تخفونه في أنفسكم، فلا يخفى عليّ شيء، سواءٌ عندي سرائركم وعلانيتكم.
+
+والذي أظهروه بألسنتهم ما أخبرَ الله جل ثناؤه عنهم أنهم قالوه، وهو قولهم:"أتجعل فيها من يفسد فيها ويسفك الدماء ونحن نسبِّح بحمدك ونقدس لك"؛ والذي كانوا يكتمونه، ما كان منطويًا عليه إبليس من الخلاف على الله في أمره، والتكبُّر عن طاعته. لأنه لا خلاف بين جميع أهل التأويل أن تأويل ذلك غيرُ خارج من أحد الوجهين اللذين وصفت، وهو ما قلنا، والآخرُ ما ذكرنا من قول الحسن وقتادة، ومن قال إن معنى ذلك كتمانُ الملائكة بينهم لن يخلق الله خلقًا إلا كنا أكرم عليه منه. فإذ كان لا قول في تأويل ذلك إلا أحد القولين اللذين وصفت، ثم كان أحدهُما غيرَ موجودةٍ على صحته الدّلالةُ من الوجه الذي يجب التسليم له - صح الوجهُ الآخر.
+
+فالذي حكي عن الحسن وقتادة ومن قال بقولهما في تأويل ذلك، غيرُ موجودةٍ الدلالةُ على صحته من الكتاب، ولا من خبر يجب به حجة. والذي قاله ابن عباس يدلّ على صحته خبرُ الله جل ثناؤه عن إبليس وعصيانه إياه، إذْ دعاه إلى السجود لآدم فأبى واستكبر، وإظهارُه لسائر الملائكة من معصيته وكبره، ما كان له كاتمًا قبل ذلك.
+
+فإن ظن ظانٌّ أنّ الخبر عن كتمان الملائكة ما كانوا يكتمونه، لمّا كان خارجًا مخرج الخبر عن الجميع، كان غيرَ جائز أن يكون ما رُوي في تأويل ذلك عن ابن عباس - ومن قال بقوله: من أن ذلك خبر عن كتمان إبليس الكبْرَ والمعصية - صحيحًا، فقد ظن غير الصواب. وذلك أنّ من شأن العرب، إذا أخبرتْ خبرًا عن بعض جماعة بغير تسمية شخص بعينه، أن تخرج الخبر عنه مخرج الخبر عن جميعهم، وذلك كقولهم:"قُتل الجيش وهُزموا"، وإنما قتل الواحد أو البعض منهم، وهزم الواحد أو البعض. فتخرج الخبر عن المهزوم منه والمقتول مخرج الخبر عن جميعهم، كما قال جل ثناؤه: ﴿إِنَّ الَّذِينَ يُنَادُونَكَ مِنْ وَرَاءِ الْحُجُرَاتِ أَكْثَرُهُمْ لا يَعْقِلُونَ﴾ [سورة الحجرات: ٤] ، ذُكر أن الذي نادَى رسولَ الله ﷺ - فنزلت هذه الآية فيه - كان رجلا من جماعة بني تميم، كانوا قدموا على رسول الله ﷺ. فأخرج الخبر عنه مُخرج الخبر عن الجماعة. فكذلك قوله:"وأعلم ما تبدون وما كنتم تكتمون"، أخرج الخبر مُخرج الخبر عن الجميع، والمراد به الواحد منهم.
 
 ### al-Muyassar (Arabic)
 
@@ -92,7 +738,7 @@ Allah stated the virtue of Adam above the angels, because He taught Adam, rather
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿قالَ﴾ تَعالى ﴿يا آدَم أنْبِئْهُمْ﴾ أيْ المَلائِكَة ﴿بِأَسْمائِهِمْ﴾ المُسَمَّيات فَسَمّى كُلّ شَيْء بِاسْمِهِ وذَكَرَ حِكْمَته الَّتِي خُلِقَ لَها ﴿فَلَمّا أنْبَأَهُمْ بِأَسْمائِهِمْ قالَ﴾ تَعالى لَهُمْ مُوَبِّخًا ﴿ألَمْ أقُلْ لَكُمْ إنِّي أعْلَم غَيْب السَّماوات والأَرْض﴾ ما غابَ فِيهِما ﴿وأَعْلَم ما تُبْدُونَ﴾ ما تُظْهِرُونَ مِن قَوْلكُمْ أتَجْعَلُ فِيها إلَخْ ﴿وما كُنْتُمْ تَكْتُمُونَ﴾ تُسِرُّونَ مِن قَوْلكُمْ لَنْ يَخْلُق أكْرَم عَلَيْهِ مِنّا ولا أعْلَم
 
 ---
 
@@ -100,12 +746,125 @@ Allah stated the virtue of Adam above the angels, because He taught Adam, rather
 
 ### Ibn Kathir (English)
 
+And (remember) when We said to the angels: "Prostrate yourselves before Adam." And they prostrated except Iblis (Shaytan), he refused and was proud and was one of the disbelievers (disobedient to Allah)(34)
+
 Honoring Adam when the Angels prostrated before Him
-This Ayah mentions the great honor that Allah granted Adam, and Allah reminded Adam's offspring of this fact. Allah commanded the angels to prostrate before Adam, as this Ayah and many Hadiths testify, such as the Hadith about the intercession that we discussed. There is a Hadith about the supplication of Musa, "O my Lord! Show me Adam who caused us and himself to be thrown out of Paradise." When Musa met Adam, he said to him, "Are you Adam ...
+
+This Ayah mentions the great honor that Allah granted Adam, and Allah reminded Adam's offspring of this fact. Allah commanded the angels to prostrate before Adam, as this Ayah and many Hadiths testify, such as the Hadith about the intercession that we discussed. There is a Hadith about the supplication of Musa, "O my Lord! Show me Adam who caused us and himself to be thrown out of Paradise." When Musa met Adam, he said to him, "Are you Adam whom Allah created with His Own Hands, blew life into and commanded the angels to prostrate before?"
+
+Iblis was among Those ordered to prostrate before Adam, although He was not an Angel
+
+When Allah commanded the angels to prostrate before Adam, Iblis was included in this command. Although Iblis was not an angel, he was trying - and pretending - to imitate the angels' behavior and deeds, and this is why he was also included in the command to the angels to prostrate before Adam. Satan was criticized for defying that command, as we will explain with detail, Allah willing, when we mention the Tafsir of Allah's statement,
+
+إِلاَّ إِبْلِيسَ كَانَ مِنَ الْجِنِّ فَفَسَقَ عَنْ أَمْرِ رَبِّهِ
+
+(Except Iblis (Satan). He was one of the Jinn; he disobeyed the command of his Lord.)(18:50)
+
+Similarly, Muhammad bin Ishaq reported that Ibn 'Abbas said, "Before he undertook the path of sin, Iblis was with the angels and was called 'Azazil.' He was among the residents of the earth and was one of the most active worshippers and knowledgeable persons among the angels. This fact caused him to be arrogant. Iblis was from a genus called Jinn."
+
+The Prostration was before Adam but the Obedience was to Allah
+
+Qatadah commented on Allah's statement,
+
+وَإِذْ قُلْنَا لِلْمَلَائِكَةِ اسْجُدُوا لِآدَمَ
+
+(And (remember) when We said to the angels: "Prostrate yourselves before Adam.")
+
+"The obedience was for Allah and the prostration was before Adam. Allah honored Adam and commanded the angels to prostrate before him." Some people said that this prostration was just a prostration of greeting, peace and honor, hence Allah's statement,
+
+وَرَفَعَ أَبَوَيْهِ عَلَى الْعَرْشِ وَخَرُّوا لَهُ سُجَّدًا ۖ وَقَالَ يَا أَبَتِ هَٰذَا تَأْوِيلُ رُؤْيَايَ مِن قَبْلُ قَدْ جَعَلَهَا رَبِّي حَقًّا
+
+(And he (Prophet Yusuf) raised his parents to the throne and they fell down before him prostrate. And he said: "O my father! This is the interpretation of my dream aforetime! My Lord has made it come true!")(12:100)
+
+The practice of prostrating was allowed for previous nations, but was repealed for ours. Mu'adh said to the Prophet , "I visited Ash-Sham and found that they used to prostate before their priests and scholars. You, O Messenger of Allah, are more deserving of prostration." The Prophet ﷺ said,
+
+لَا لَوْ كُنْتُ آمِرًا بَشَرًا أنْ يَسْجُدَ لِبَشَرٍ لَأَمَرْتُ الْمَرْأةَ أنْ تَسْجُدَ لِزَوجِهَا مِنْ عِظَمِ حَقِّهِ عَلَيْهَا
+
+(No. If I was to command any human to prostrate before another human, I would command the wife to prostrate before her husband because of the enormity of his right on her.)
+
+Ar-Razi agreed with this view. Also, Qatadah said about Allah's statement,
+
+فَسَجَدُوا إِلَّا إِبْلِيسَ أَبَىٰ وَاسْتَكْبَرَ وَكَانَ مِنَ الْكَافِرِينَ
+
+(And they prostrated except Iblis (Shaytan), he refused and was proud and was one of the disbelievers (disobedient to Allah).)
+
+"Iblis, the enemy of Allah, envied Adam because Allah honored Adam. He said, 'I was created from fire, and he was created from clay.' Therefore, the first error ever committed was arrogance, for the enemy of Allah was too arrogant to prostrate before Adam." I - Ibn Kathir - say, the following is recorded in the Sahih,
+
+لَا يَدْخُلُ الْجَنَّةَ مَنْ كَانَ فِي قَلْبِهِ مِثْقَالُ حَبَّةٍ مِنْ خَرْدَلٍ مِنْ كِبْرٍ
+
+(No person who has the weight of a mustard seed of arrogance in his heart shall enter Paradise.)
+
+Iblis had disbelief, arrogance, and rebellion, all of which caused him to be expelled from the holy presence of Allah, and His mercy.
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله تعالى ذكره:  وَإِذْ قُلْنَا لِلْمَلائِكَةِ اسْجُدُوا لآدَمَ فَسَجَدُوا إِلا إِبْلِيسَ أَبَى وَاسْتَكْبَرَ وَكَانَ مِنَ الْكَافِرِينَ (34)قال أبو جعفر: أمّا قوله: " وإذ قلنا " فمعطوف على قوله:  وَإِذْ قَالَ رَبُّكَ لِلْمَلائِكَةِ ، كأنه قال جل ذكره لليهود - الذين كانوا بين ظهرانَيْ مُهاجَرِ رسول الله صلى الله عليه وسلم من بني إسرائيل، معددًا عليهم نعَمه، ومذكِّرهم آلاءه، على نحو الذي وصفنا فيما مضى قبل-: اذكروا فعلي بكم إذ أنعمت عليكم. &; 1-502 &; فخلقت لكم ما في الأرض جميع...
+القول في تأويل قوله تعالى ذكره: ﴿وَإِذْ قُلْنَا لِلْمَلائِكَةِ اسْجُدُوا لآدَمَ فَسَجَدُوا إِلا إِبْلِيسَ أَبَى وَاسْتَكْبَرَ وَكَانَ مِنَ الْكَافِرِينَ (٣٤) ﴾
+
+قال أبو جعفر: أمّا قوله:"وإذ قلنا" فمعطوف على قوله:"وإذ قال ربّك للملائكة"، كأنه قال جل ذكره لليهود - الذين كانوا بين ظهرانَيْ مُهاجَرِ رسول الله ﷺ من بني إسرائيل، معددًا عليهم نعَمه، ومذكِّرهم آلاءه، على نحو الذي وصفنا فيما مضى قبل-: اذكروا فعلي بكم إذ أنعمت عليكم.
+
+فخلقت لكم ما في الأرض جميعًا، وإذ قلت للملائكة إني جاعل في الأرض خليفة، فكرمت أباكم آدمَ بما آتيته من عِلمي وفضْلي وكرَامتي، وإذْ أسجدت له ملائكتي فسجدوا له. ثم استثنى من جميعهم إبليس، فدلّ باستثنائه إياه منهم على أنه منهم، وأنه ممن قد أمِر بالسجود معهم، كما قال جل ثناؤه: ﴿إِلا إِبْلِيسَ لَمْ يَكُنْ مِنَ السَّاجِدِينَ قَالَ مَا مَنَعَكَ أَلا تَسْجُدَ إِذْ أَمَرْتُكَ﴾ [سورة الأعراف: ١١-١٢] ، فأخبر جل ثناؤه أنه قد أمر إبليس فيمن أمرَه من الملائكة بالسجود لآدمَ. ثم استثناه جل ثناؤه مما أخبر عنهم أنهم فعلوه من السجود لآدمَ، فأخرجه من الصفة التي وصفهم بها من الطاعة لأمره، ونفى عنه ما أثبته لملائكته من السجود لعبده آدم.
+
+ثم اختلف أهل التأويل فيه: هل هو من الملائكة، أم هو من غيرها؟ فقال بعضهم بما:-
+
+٦٨٥ - حدثنا به أبو كريب، قال: حدثنا عثمان بن سعيد، عن بشر بن عمارة، عن أبي روق، عن الضحاك، عن ابن عباس قال: كان إبليس من حيّ من أحياء الملائكة يقال لهم"الحِن"، خلقوا من نار السَّموم من بين الملائكة. قال: فكان اسمه الحارث. قال: وكان خازنًا من خُزَّان الجنة. قال: وخلقت الملائكة من نورٍ غير هذا الحيّ. قال: وخلقت الجنّ الذي ذكروا في القرآن من مارج من نار، وهو لسان النار الذي يكون في طرفها إذا التهبت [[الخبر: ٦٨٥- مضى بتمامه في الخبر السالف رقم: ٦٠٦، وفي ابن كثير ١: ١٣٦، وفيهما معًا "إذا ألهبت". وأعاده ابن كثير ٥: ٢٩٦. وفيه كما هنا"التهبت". وفيه"الجن" بالجيم، وانظر ما مضى ص: ٤٥٥ تعليق: ١.]] .
+
+٦٨٦ - وحدثنا ابن حميد، قال: حدثنا سلمة، عن ابن إسحاق، عن خلاد، عن عطاء، عن طاوس، عن ابن عباس. قال: كان إبليس قبل أن يركب المعصيةَ من الملائكة اسمه"عزازيل"، وكان من سكان الأرض، وكان من أشد الملائكة اجتهادًا وأكثرهم علمًا، فذلك دعاه إلى الكبر، وكان من حيّ يسمون جنا [[الخبر: ٦٨٦ في ابن كثير ١: ١٣٩ و ٥: ٢٩٦، والدر المنثور ١: ١٥٠، والشوكاني ١: ٥٣. وخلاد: هو ابن عبد الرحمن الصنعاني، وهو ثقة، ويروى عن طاوس ومجاهد مباشرة، ولكنه روى عنهما، هنا وفي الخبر التالي، بواسطة عطاء.]] .
+
+٦٨٧ - وحدثنا به ابن حميد مرة أخرى، قال: حدثنا سلمة، عن ابن إسحاق، عن خلاد، عن عطاء، عن طاوس، أو مجاهد أبي الحجاج، عن ابن عباس وغيره بنحوه، إلا أنه قال: كان ملكًا من الملائكة اسمه"عزازيل"، وكان من سكان الأرض وعُمَّارها، وكان سكان الأرض فيهم يسمون"الجنَّ" من بين الملائكة [[الخبر: ٦٨٧- في ابن كثير ١: ١٣٩ عقب الذي قبله.]] .
+
+٦٨٨ - وحدثني موسى بن هارون، قال: حدثنا عمرو بن حماد، قال: حدثنا أسباط، عن السُّدّيّ في خبر ذكره، عن أبي مالك، وعن أبي صالح، عن ابن عباس - وعن مُرَّة، عن ابن مسعود، وعن ناس من أصحاب النبي ﷺ: جعل إبليس على مُلك سماء الدنيا، وكان من قبيلة من الملائكة يقال لهم"الجنّ"، وإنما سُمُّوا الجن لأنهم خُزَّان الجنة. وكان إبليس مع مُلكه خازنًا [[الخبر: ٦٨٨- مختصر من الأثر السالف رقم: ٦٠٧.]] .
+
+٦٨٩ - وحدثنا القاسم بن الحسن، قال: حدثنا حسين، قال: حدثني حجاج، عن ابن جُريج، قال: قال ابن عباس: كان إبليس من أشراف الملائكة وأكرمهم قبيلة، وكان خازنًا على الجنان، وكان له سلطانُ سماء الدنيا، وكان له سلطانُ الأرض. قال: قال ابن عباس: وقوله: ﴿كَانَ مِنَ الْجِنِّ﴾ [سورة الكهف: ٥٠] إنما يسمى بالجنان أنه كان خازنًا عليها، كما يقال للرجل مكي ومدَنيّ وكوفيّ وبصريّ. [[الخبر: ٦٨٩- في ابن كثير ١: ١٣٩ و ٥: ٢٩٦، والدر المنثور ١: ١٧٨.]] .
+
+قال ابن جُريج، وقال آخرون: هم سبط من الملائكة قَبيلِه، فكان اسم قبيلته الجن.
+
+٦٩٠ - وحدثنا القاسم، قال: حدثنا الحسين، قال: حدثني حجاج، عن ابن جُريج، عن صالح مولى التَّوْأمة، وشريك بن أبي نَمِر - أحدهما أو كلاهما - عن ابن عباس، قال: إن من الملائكة قبيلةً من الجن، وكان إبليس منها، وكان يسوس ما بين السماء والأرض [[الخبر: ٦٩٠- في ابن كثير ٥: ٢٩٦- ٢٩٧، وفيه زيادة هناك. وسيأتي بإسناد آخر مطولا: ٧٠٠.]] .
+
+٦٩١ - وحدثت عن الحسن بن الفرج، قال: سمعت أبا معاذ الفضل بن خالد، قال: أخبرنا عُبيد بن سليمان، قال: سمعت الضحاك بن مُزَاحم يقولُ في قوله: ﴿فَسَجَدُوا إِلا إِبْلِيسَ كَانَ مِنَ الْجِنِّ﴾ [سورة الكهف: ٥٠] ، قال: كان ابن عباس يقول: إن إبليس كان من أشراف الملائكة وأكرمهم قبيلة. ثم ذكر مثل حديث ابن جُريج الأول سواء [[الخبر: ٦٩١- الحسن بن الفرج: لم أعرف من هو؟ وأبو معاذ الفضل بن خالد: هو النحوي المروزي، وهو ثقة، ذكره ابن حبان في الثقات، وترجمه ابن أبي حاتم ٣/٢/٦١، وياقوت في الأدباء ٦: ١٤٠، والسيوطي في البغية: ٣٧٣. وقال ياقوت: "روى عنه الأزهري في كتاب التهذيب، فأكثر". وليس يريد بذلك رواية السماع، بل يريد أنه روى آراءه أو نقله في اللغة. أما رواية السماع فلا. لأن الفضل هذا مات سنة ٢١١، والأزهري ولد سنة ٢٨٢. فهذا كلام موهم؛ ولم يكن يجدر بالسيوطي - وهو محدث - أن يتبعه دون تأمل!]] .
+
+٦٩٢ - وحدثنا محمد بن المثنى، قال: حدثني شيبان، قال حدثنا سلام بن مسكين، عن قتادة، عن سعيد بن المسيب، قال: كان إبليس رئيسَ ملائكة سماء الدنيا [[الأثر: ٦٩٢- في ابن كثير ١: ١٣٩. شيبان: هو ابن فروخ، وهو ثقة. سلام بن مسكين الأزدي: ثقة، أخرج له الشيخان.]] .
+
+٦٩٣ - وحدثنا بشر بن معاذ، قال: حدثنا يزيد، قال: حدثنا سعيد، عن قتادة، قوله: ﴿وَإِذْ قُلْنَا لِلْمَلائِكَةِ اسْجُدُوا لآدَمَ فَسَجَدُوا إِلا إِبْلِيسَ كَانَ مِنَ الْجِنِّ﴾ [سورة الكهف: ٥٠] ، كان من قبيل من الملائكة يقال لهم"الجن"، وكان ابن عباس يقول: لو لم يكن من الملائكة لم يُؤمر بالسجود، وكان على خِزانة سماء الدنيا، قال: وكان قتادة يقول: جَنَّ عن طاعة ربه [[الأثر: ٦٩٣- لم نجده في مكان آخر.]] .
+
+٦٩٤ - وحدثنا الحسين بن يحيى، قال: أخبرنا عبد الرَّزَّاق، قال: أخبرنا معمر، عن قتادة، في قوله:"إلا إبليسَ كان من الجن" قال: كان من قبيل من الملائكة يقال لهم الجن [[الأثر: ٦٩٤- لم نجده أيضًا. وقال الحافظ ابن كثير ٥: ٢٩٧- بعد أن نقل كثيرًا من الآثار في مثل هذه المعاني: "وقد روى في هذا آثار كثيرة عن السلف. وغالبها من الإسرائيليات التي تنقل لينظر فيها، والله أعلم بحال كثير منها. ومنها ما قد يقطع بكذبه، لمخالفته للحق الذي بأيدينا. وفي القرآن غنية عن كل ما عداه من الأخبار المثقدمة، لأنها لا تكاد تخلو من تبديل وزيادة ونقصان، وقد وضع فيها أشياء كثيرة. وليس لهم من الحفاظ المتقنين، الذين ينفون عنها تحريف الغالين وانتحال المبطلين- كما لهذه الأمة من الأئمة والعلماء، والسادة والأتقياء، والبررة والنجباء، من الجهابذة النقاد، والحفاظ الجياد. الذين دونوا الحديث وحرروه، وبينوا صحيحه، من حسنه، من ضعيفه، من منكره وموضوعه، ومتروكه ومكذوبه. وعرفوا الوضاعين والكذابين والمجهولين، +وغير ذلك من أصناف الرجال. كل ذلك صيانة للجناب النبوي، والمقام المحمدي، خاتم الرسل، وسيد البشر، ﷺ-: أن ينسب إليه كذب، أو يحدث عنه بما ليس منه. فرضى الله عنهم وأرضاهم، وجعل جنات الفردوس مأواهم. وقد فعل".]] .
+
+٦٩٥ - وحدثنا ابن حميد، قال: حدثنا سلمة، قال: حدثنا محمد بن إسحاق، قال: أما العرب فيقولون: ما الجنّ إلا كل من اجتَنَّ فلم يُرَ. وأما قوله:"إلا إبليس من كان من الجن" أي كان من الملائكة، وذلك أن الملائكة اجتنُّوا فلم يُرَوْا. وقد قال الله جل ثناؤه: ﴿وَجَعَلُوا بَيْنَهُ وَبَيْنَ الْجِنَّةِ نَسَبًا وَلَقَدْ عَلِمَتِ الْجِنَّةُ إِنَّهُمْ لَمُحْضَرُونَ﴾ [سورة الصافات: ١٥٨] ، وذلك لقول قريش: إن الملائكة بناتُ الله، فيقول الله: إن تكن الملائكة بناتي فإبليس منها، وقد جعلوا بيني وبين إبليس وذريته نسبًا. قال: وقد قال الأعشى، أعشى بني قيس بن ثعلبة البكري، وهو يذكر سليمانَ بن داود وما أعطاه الله:
+
+وَلَوْ كَانَ شَيْءٌ خَالِدًا أَوْ مُعَمَّرا ... لَكَانَ سُلَيْمَانُ الْبَرِيءُ مِنَ الدَّهْرِ [[ملحق ديوان الأعشى: ٢٤٣، والأضداد لابن الأنباري: ٢٩٣. ولم يعن بالدهر هاهنا الأمد الممدود، بل عني مصائب الدهر ونكباته، كما قال عدى بن زيد، وجعل مصائب الدهر هي الدهر نفسه: أَيُّهَا الشَّامِتُ المُعَيِّر بِالدَّ ... هْرِ أَأَنْتَ المبرَّأُ المَوْفُورُ]]
+
+بَرَاهُ إِلَهِي وَاصْطَفَاهُ عِبَادَهُ ... وَمَلَّكَهُ مَا بَيْنَ ثُرْيَا إِلَى مِصْرَ [[ثريا: هكذا ضبط في ملحق ديوان الأعشى، ولم أعرف الموضع ولم أجده. ولم أهتد إلى تحريفه إن كان محرفًا. وفي الأضداد: "توفى".]] وَسَخَّرَ مِنْ جِنِّ الْمَلائِكِ تِسْعَةً ... قِيَامًا لَدَيْهِ يَعْمَلُونَ بِلا أَجْرِ
+
+قال: فأبت العربُ في لغتها إلا أنّ "الجن" كل ما اجتنَّ. يقول: ما سمَّى الله الجن إلا أنهم اجتنُّوا فلم يُرَوا، وما سمّي بني آدم الإنس إلا أنهم ظهروا فلم يجتنوا. فما ظهر فهو إنس، وما اجتنّ فلم يُرَ فهو جنّ [[الأثر: ٦٩٥- رواه مختصرًا صاحب الأضداد: ٢٩٣، ولم أجده في مكان آخر.]] .
+
+وقال آخرون بما:-
+
+٦٩٦ - حدثنا به محمد بن بشار، قال: حدثنا ابن أبي عدي، عن عوف، عن الحسن، قال: ما كان إبليسُ من الملائكة طرفةَ عين قطّ، وإنه لأصل الجنّ، كما أن آدم أصل الإنس [[الأثر: ٦٩٦- في ابن كثير ١: ١٣٩ و ٥: ٢٩٦. وقال: "وهذا إسناد صحيح عن الحسن".]] .
+
+٦٩٧ - وحدثنا بشر بن معاذ، قال: حدثنا يزيد بن زُرَيع، قال: حدثنا سعيد، عن قتادة، قال: كان الحسن يقول في قوله:"إلا إبليس كانَ من الجن" ألجأه إلى نسبه [[في المطبوعة: "إلجاء إلى نسبه"، وألجأه إلى نسبه: رده إليه. وانظر رقم: ٦٥٥.]] فقال الله: ﴿أَفَتَتَّخِذُونَهُ وَذُرِّيَّتَهُ أَوْلِيَاءَ مِنْ دُونِي وَهُمْ لَكُمْ عَدُوٌّ بِئْسَ لِلظَّالِمِينَ بَدَلا﴾ [سورة الكهف: ٥٠] ، وهم يتوالدون كما يتوالد بنو آدم [[الأثر: ٦٩٧- لم أجده في مكان.]] .
+
+٦٩٨ - وحدثنا ابن حميد، قال: حدثنا يحيى بن واضح، قال: حدثنا أبو سعيد اليحمَديّ، حدثنا إسماعيل بن إبراهيم، قال: حدثنا سَوار بن الجعد اليحمَديّ، عن شَهر بن حَوْشب، قوله:"من الجنّ"، قال: كان إبليس من الجن الذين طرَدتهم الملائكة، فأسرَه بعض الملائكة فذهب به إلى السماء [[الأثر: ٦٩٨- في ابن كثير ١: ١٣٩.]] .
+
+٦٩٩ - وحدثني علي بن الحسين، قال: حدثني أبو نصر أحمد بن محمد الخلال، قال: حدثني سنيد بن داود، قال حدثنا هشيم، قال أخبرنا عبد الرحمن بن يحيى، عن موسى بن نُمير، وعثمان بن سعيد بن كامل، عن سعد بن مسعود، قال: كانت الملائكة تقاتل الجنّ، فسُبِي إبليس وكان صغيرًا، فكان مع الملائكة فتعبَّد معها، فلما أمِروا بالسجود لآدم سجدوا. فأبى إبليس. فلذلك قال الله:"إلا إبليس كان من الجن" [[الأثر: ٦٩٩- في ابن كير ١: ١٣٩.]] .
+
+٧٠٠ - وحدثنا ابن حميد، قال: حدثنا سلمة بن الفضل، قال: حدثنا المبارك بن مجاهد أبو الأزهر، عن شريك بن عبد الله بن أبي نَمِر، عن صالح مولى التوأمة، عن ابن عباس، قال: إن منَ الملائكة قبيلا يقال لهم: الجن، فكان إبليس منهم، وكان إبليس يسوس ما بين السماء والأرض، فعصَى، فمسخه الله شيطانًا رجيما. [[الخبر: ٧٠٠- هو في ابن كثير ١: ١٣٩. وقد مضى نحوه مختصرًا، بإسناد آخر: ٦٩٠.]]
+
+٧٠١ - قال: وحدثنا يونس، عن ابن وهب، قال: قال ابن زيد: إبليس أبو الجن، كما آدم أبو الإنس [[الأثر: ٧٠١- لم أجده في مكان.]] .
+
+وعلة من قال هذه المقالة، أن الله جل ثناؤه أخبرَ في كتابه أنه خلق إبليس من نار السَّموم، ومن مارج من نار، ولم يخبر عن الملائكة أنه خَلقها من شيء من ذلك، وأن الله جل ثناؤه أخبر أنه من الجنّ - فقالوا: فغيرُ جائز أن يُنسب إلى غير ما نسبه الله إليه. قالوا: ولإبليس نسلٌ وذرية، والملائكة لا تتناسل ولا تتوالد.
+
+٧٠٢ - حدثنا محمد بن سنان القزّاز، قال: حدثنا أبو عاصم، عن شَريك، عن رجل، عن عكرمة، عن ابن عباس، قال: إن الله خلق خلقًا، فقال: اسجدوا لآدم: فقالوا: لا نفعل. فبعث الله عليهم نارًا تُحرقهم، ثم خلق خلقًا آخر، فقال: إني خالقٌ بشرًا من طين، اسجدوا لآدم. فأبوا، فبعث الله عليهم نارًا فأحرقتهم. قال: ثم خلق هؤلاء، فقال: اسجدوا لآدم. فقالوا: نعم. وكان إبليسُ من أولئك الذين أبوا أن يسجدوا لآدم [[الأثر: ٧٠٢- في ابن كثير ١: ١٣٩، والدر المنثور ١: ٥٠ وقال ابن كثير في إسناده: "وهذا غريب، ولا يكاد يصح إسناده، فإن فيه رجلا مبهمًا، ومثله لا يحتج به، والله أعلم".]] .
+
+قال أبو جعفر: وهذه علل تنبئ عن ضعف معرفة أهلها. وذلك أنه غيرُ مستنكر أن يكون الله جل ثناؤه خَلق أصنافَ ملائكته من أصنافٍ من خلقه شَتَّى. فخلق بعضًا من نُور، وبعضًا من نار، وبعضًا مما شاء من غير ذلك. وليس في ترك الله جل ثناؤه الخبر عَما خَلق منه ملائكته [[في المطبوعة: "وليس فيما نزل الله جل ثناؤه. . . "، وهو خطأ صرف. وقوله بعد: "وإخباره عما خلق منه إبليس" معطوف على قوله: "وفي ترك. . . ".]] ، وإخبارِه عما خلق منه إبليس - ما يوجب أن يكون إبليس خارجًا عن معناهم. إذْ كان جائزًا أن يكون خلق صِنفًا من ملائكته من نار كان منهم إبليس، وأن يكون أفرد إبليس بأنْ خَلقه من نار السموم دون سائر ملائكته. وكذلك غيرُ مخرجه أن يكون كان من الملائكة بأنْ كان له نسل وذرية، لِمَا ركَّب فيه من الشهوة واللذة التي نُزعت من سائر الملائكة، لِمَا أراد الله به من المعصية. وأما خبرُ الله عن أنه"من الجن"، فغير مدفوع أن يسمى ما اجتنّ من الأشياء عن الأبصار كلها جنًّا - كما قد ذكرنا قبل في شعر الأعشى - فيكون إبليسُ والملائكةُ منهم، لاجتنانهم عن أبصار بني آدم.
+
+القول في معنى ﴿إِبْلِيسَ﴾
+
+قال أبو جعفر: وإبليس"إفعِيل"، من الإبلاس، وهو الإياس من الخير والندمُ والحزن. كما:-
+
+٧٠٣ - حدثنا به أبو كريب، قال: حدثنا عثمان بن سعيد، قال: حدثنا بشر بن عمارة، عن أبي روق، عن الضحاك، عن ابن عباس، قال: إبليس، أبلسه الله من الخير كله، وجعله شيطانًا رجيمًا عقوبة لمعصيته [[الخبر: ٧٠٣- مختصر من الخبر السالف رقم: ٦٠٦، وهو في الدر المنثور ١: ٥٠، والشوكاني ١: ٥٣.]] .
+
+٧٠٤ - وحدثنا موسى بن هارون، قال: حدثنا عمرو بن حماد، قال: حدثنا أسباط، عن السُّدّيّ، قال: كان اسم إبليس"الحارث"، وإنما سمي إبليس حين أبلس متحيِّرًا [[الأ
+
+[TRUNCATED at 12000 chars — 4148 more. Consult the source directly before relying on anything near the cut.]
 
 ### al-Muyassar (Arabic)
 
@@ -113,7 +872,7 @@ This Ayah mentions the great honor that Allah granted Adam, and Allah reminded A
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿و﴾ اُذْكُرْ ﴿إذْ قُلْنا لِلْمَلائِكَةِ اُسْجُدُوا لِآدَم﴾ سُجُود تَحِيَّة بِالِانْحِناءِ ﴿فَسَجَدُوا إلّا إبْلِيس﴾ هُوَ أبُو الجِنّ كانَ بَيْن المَلائِكَة ﴿أبى﴾ امْتَنَعَ مِن السُّجُود ﴿واسْتَكْبَرَ﴾ تَكَبَّرَ عَنْهُ وقالَ: أنا خَيْر مِنهُ ﴿وكانَ مِن الكافِرِينَ﴾ فِي عِلْم اللَّه
 
 ---
 
@@ -121,21 +880,112 @@ This Ayah mentions the great honor that Allah granted Adam, and Allah reminded A
 
 ### Ibn Kathir (English)
 
-مَا مَنَعَكَ أَلاَّ تَسْجُدَ
-(What prevented you (O Iblis) that you did not prostrate) 7: 12 meaning, what stopped and hindered you from prostrating after I ordered you to do so, according to Ibn Jarir. This meaning is sound, and Allah knows best. Iblis, may Allah curse him, said,
-أَنَاْ خَيْرٌ مِّنْهُ
-(I am better than him (Adam)), and this excuse is worse than the crime itself! Shaytan said that he did not obey Allah because he who is better cannot prostrate to he who is less. Shaytan, may ...
+(Allah) said: "What prevented you (O Iblis) that you did not prostrate, when I commanded you?" Iblis said: "I am better than him (Adam), You created me from fire, and him You created from clay.") Allah sai (12)
+
+مَا مَنَعَكَ أَلَّا تَسْجُدَ
+
+(What prevented you (O Iblis) that you did not prostrate)[7: 12] meaning, what stopped and hindered you from prostrating after I ordered you to do so, according to Ibn Jarir. This meaning is sound, and Allah knows best. Iblis, may Allah curse him, said,
+
+أَنَا خَيْرٌ مِّنْهُ
+
+(I am better than him (Adam)), and this excuse is worse than the crime itself! Shaytan said that he did not obey Allah because he who is better cannot prostrate to he who is less. Shaytan, may Allah curse him, meant that he is better than Adam, "So how can You order me to prostrate before him?" Shaytan said that he is better than Adam because he was created from fire while, "You created him from clay, and fire is better." The cursed one looked at the origin of creation not at the honor bestowed, that is, Allah creating Adam with His Hand and blowing life into him. Shaytan made a false comparison when confronted by Allah's command,
+
+فَقَعُوا لَهُ سَاجِدِينَ
+
+("Then you fall down prostrate to him")[38:72].
+
+Therefore, Shaytan alone contradicted the angels, because he refused to prostrate. He, thus, became 'Ablasa' from the mercy, meaning, lost hope in acquiring Allah's mercy. He committed this error, may Allah curse him, due to his false comparison. His claim that the fire is more honored than mud was also false, because mud has the qualities of wisdom, forbearance, patience and assurance, mud is where plants grow, flourish, increase, and provide good. To the contrary, fire has the qualities of burning, recklessness and hastiness. Therefore, the origin of creation directed Shaytan to failure, while the origin of Adam led him to return to Allah with repentance, humbleness, obedience and submission to His command, admitting his error and seeking Allah's forgiveness and pardon for it.
+
+Muslim recorded that 'Aishah said that the Messenger of Allah ﷺ said,
+
+خُلِقَتِ الْمَلَائِكَةُ مِنْ نُورٍ وَخُلِقَ إِبْلِيسُ مِنْ مَارِجٍ مِنْ نَارٍ وَخُلِقَ آدَمُ مِمَّا وُصِفَ لَكُم
+
+(The angels were created from light, Shaytan from a smokeless flame of fire, while Adam was created from what was described to you).
+
+Iblis was the First to use Qiyas (Analogical Comparison)
+
+Ibn Jarir recorded that Al-Hasan commented on Shaytan's statement,
+
+خَلَقْتَنِى مِن نَّارٍ وَخَلَقْتَهُ مِن طِينٍ
+
+("You created me from fire, and him You created from clay.")
+
+"Iblis used Qiyas [analogy], and he was the first one to do so." This statement has an authentic chain of narration. Ibn Jarir recorded that Ibn Sirin said, "The first to use Qiyas was Iblis, and would the sun and moon be worshipped if it was not for Qiyas?" This statement also has an authentic chain of narration.
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله :  قَالَ مَا مَنَعَكَ أَلا تَسْجُدَ إِذْ أَمَرْتُكَ قَالَ أَنَا خَيْرٌ مِنْهُ خَلَقْتَنِي مِنْ نَارٍ وَخَلَقْتَهُ مِنْ طِينٍ (12)قال أبو جعفر: وهذا خبر من الله تعالى ذكره عن قيله لإبليس، إذ عصاه فلم يسجد لآدم إذ أمره بالسجود له. يقول: قال الله لإبليس: =(ما منعك)، أيّ شيء منعك =(ألا تسجد)، أن تدع السجود لآدم =(إذ أمرتك)، أن تسجد =" قال أنا خير منه "، يقول: قال إبليس: أنا خير من آدم =" خلقتني من نار وخلقته من طين ".* * *فإن قال قائل: أخبرنا عن إبليس, ألحقته الملامة على السجو...
+القول في تأويل قوله: ﴿قَالَ مَا مَنَعَكَ أَلا تَسْجُدَ إِذْ أَمَرْتُكَ قَالَ أَنَا خَيْرٌ مِنْهُ خَلَقْتَنِي مِنْ نَارٍ وَخَلَقْتَهُ مِنْ طِينٍ (١٢) ﴾
+
+قال أبو جعفر: وهذا خبر من الله تعالى ذكره عن قيله لإبليس، إذ عصاه فلم يسجد لآدم إذ أمره بالسجود له. يقول: قال الله لإبليس: = ﴿ما منعك﴾ ، أيّ شيء منعك = ﴿ألا تسجد﴾ ، أن تدع السجود لآدم = ﴿إذ أمرتك﴾ ، أن تسجد ="قال أنا خير منه"، يقول: قال إبليس: أنا خير من آدم ="خلقتني من نار وخلقته من طين".
+
+* *
+
+فإن قال قائل: أخبرنا عن إبليس، ألحقته الملامة على السجود، أم على ترك السجود؟ فإن تكن لحقته الملامة على ترك السجود، فكيف قيل له: ﴿ما منعك ألا تسجد إذ أمرتك﴾ ؟ وإن كان النكير على السجود، فذلك خلافُ ما جاء به التنزيل في سائر القرآن، وخلاف ما يعرفه المسلمون! قيل: إن الملامة لم تلحق إبليس إلا على معصيته ربه بتركه السجود لآدم إذ أمره بالسجود له.
+
+غير أن في تأويل قوله: ﴿ما منعك أن لا تسجد إذ أمرتك﴾ ، بين أهل المعرفة بكلام العرب اختلافًا، أبدأ بذكر ما قالوا، ثم أذكر الذي هو أولى ذلك بالصواب.
+
+فقال بعض نحويي البصرة: معنى ذلك: ما منعك أن تسجد = و"لا" ها هنا زائدة، كما قال الشاعر: [[لا يعرف قائله.]]
+
+أبَى جُودُهُ لا البُخْلَ، وَاسْتَعْجَلَتْ بِهِ ... نَعَمْ، مِنْ فَتًى لا يَمْنَعُ الجُوعَ قَاتِلهْ [[اللسان (نعم) ، أمالي ابن الشجري ٢: ٢٢٨، ٢٣١، شرح شواهد المغنى ٢١٧، وكان في المخطوطة والمطبوعة: ((لا يمنع الجوع)) ، كما أثبته، وكذلك ورد عن الفارسي في اللسان. وأما في المراجع الأخرى فروايته: ((لا يمنع الجود)) .]]
+
+وقال: فسرته العرب:"أبى جوده البخل"، وجعلوا"لا" زائدةً حشوًا ها هنا، وصلوا بها الكلام. قال: وزعم يونس أن أبا عمرو كان يجر"البخل"، ويجعل"لا" مضافة إليه، أراد: أبى جوده"لا" التي هي للبخل، ويجعل"لا" مضافة، لأن"لا" قد تكون للجود والبخل، لأنه لو قال له:"امنع الحق ولا تعط المسكين" فقال:"لا" كان هذا جودًا منه.
+
+* *
+
+وقال بعض نحويي الكوفة نحو القول الذي ذكرناه عن البصريين في معناه وتأويله، غير أنه زعم أن العلة في دخول"لا" في قوله: ﴿أن لا تسجد﴾ ، أن في أول الكلام جحدا = يعني بذلك قوله: ﴿لم يكن من الساجدين﴾ ، فإن العرب ربما أعادوا في الكلام الذي فيه جحد، الجحدَ، كالاستيثاق والتوكيد له. قال: وذلك كقولهم: [[لم يعرف قائله.]]
+
+مَا إنْ رَأَيْنَا مِثْلَهُنَّ لِمَعْشَرٍ ... سُودِ الرُّؤُوسِ، فَوَالِجٌ وَفُيُولُ [[معاني القرآن للفراء ١: ١٧٦، ٣٧٤ و ((الفوالج)) جمع ((فالج)) ، وهو جمل ذو سنامين كان يجلب من السند للفحلة. و ((الفيول) ، جمع ((فيل)) .]]
+
+فأعاد على الجحد الذي هو"ما" جحدًا، وهو قوله"إن"، فجمعهما للتوكيد.
+
+* *
+
+وقال آخر منهم: ليست"لا"، بحشو في هذا الموضع ولا صلة، [[((الصلة)) : الزيادة، كما سلف، انظر فهارس المصطلحات.]] ولكن"المنع" هاهنا بمعنى"القول"، وإنما تأويل الكلام: مَنْ قال لك لا تسجد إذ أمرتك بالسجود = ولكن دخل في الكلام"أن"، إذ كان"المنع" بمعنى"القول"، لا في لفظه، كما يُفعل ذلك في سائر الكلام الذي يضارع القول، وهو له في اللفظ مخالف، كقولهم:"ناديت أن لا تقم"، و"حلفت أن لا تجلس"، وما أشبه ذلك من الكلام. وقال: خفض"البخل" من روى:"أبى جوده لا البخل"، [[في المطبوعة: ((وقال بعض من روى: أبي جود لا البخل)) ، فغير ما في المخطوطة، وأفسد الكلام إفسادًا.]] بمعنى: كلمة البخل، لأن"لا" هي كلمة البخل، فكأنه قال: كلمة البخل.
+
+* *
+
+وقال بعضهم: معنى"المنع"، الحول بين المرء وما يريده. قال: والممنوع مضطّر به إلى خلاف ما منع منه، كالممنوع من القيام وهو يريده، فهو مضطر من الفعل إلى ما كان خلافًا للقيام، إذ كان المختار للفعل هو الذي له السبيل إليه وإلى خلافه، فيوثر أحدهما على الآخر فيفعله. قال: فلما كانت صفة"المنع" ذلك، فخوطب إبليس بالمنع فقيل له: ﴿ما منعك ألا تسجد﴾ ، كان معناه كأنه قيل له: أيّ شيء اضطرك إلى أن لا تسجد؟
+
+* *
+
+قال أبو جعفر: والصواب عندي من القول في ذلك أن يقال: إن في الكلام محذوفًا قد كفى دليلُ الظاهر منه، وهو أن معناه: ما منعك من السجود فأحوجك أن لا تسجد = فترك ذكر"أحوجك"، استغناء بمعرفة السامعين قوله: ﴿إلا إبليس لم يكن من الساجدين﴾ ، أن ذلك معنى الكلام، من ذكره. [[السياق: ((استغناء بمعرفة السامعين ... من ذكره)) .]] ثم عمل قوله: ﴿ما منعك﴾ ، في"أن" ما كان عاملا فيه قبل"أحوجك" لو ظهر، إذ كان قد ناب عنه.
+
+وإنما قلنا إن هذا القول أولى بالصواب، لما قد مضى من دلالتنا قبل على أنه غير جائز أن يكون في كتاب الله شيء لا معنى له، وأن لكل كلمة معنًى صحيحًا، فتبين بذلك فسادُ قول من قال:"لا" في الكلام حشو لا معنى لها.
+
+وأما قول من قال: معنى"المنع" ههنا"القول"، فلذلك دخلت"لا" مع"أن" = فإن"المنعَ" وإن كان قد يكون قولا وفعلا فليس المعروف في الناس استعمالُ"المنع"، في الأمر بترك الشيء، لأن المأمور بترك الفعل إذا كان قادرًا على فعله وتركه ففعله، لا يقال:"فعله"، وهو ممنوع من فعله، إلا على استكراه للكلام. وذلك أن المنع من الفعل حَوْلٌ بينه وبينه، فغير جائز أن يكون وهو مَحُولٌ بينه وبينه فاعلا له، لأنه إن جاز ذلك، وجب أن يكون مَحُولا بينه وبينه لا محولا وممنوعًا لا ممنوعًا. [[يعني أنه يجمع الصفتين معًا ((محول بينه وبينه، وغير محول = وممنوع، وغير ممنوع)) ، وهو تناقض.]]
+
+وبعدُ، فإن إبليس لم يأتمر لأمر الله تعالى ذكره بالسجود لآدم كبرًا، فكيف كان يأتمر لغيره في ترك أمر الله وطاعته بترك السجود لآدم، فيجوز أن يقال له:"أي شيء قال لك: لا تسجد لآدم إذ أمرتك بالسجود له؟ ولكن معناه إن شاء الله ما قلت: "ما منعك من السجود له فأحوجك، أو: فأخرجك، أو: فاضطرك إلى أن لا تسجد له"، على ما بيَّنت.
+
+* *
+
+وأما قوله: ﴿أنا خير منه خلقتني من نار وخلقته من طين﴾ ، فإنه خبرٌ من الله جل ثناؤه عن جواب إبليس إياه إذ سأله: ما الذي منعه من السجود لآدم، فأحوجه إلى أن لا يسجد له، واضطره إلى خلافه أمرَه به، وتركه طاعته = أنّ المانعَ كان له من السجود، والداعيَ له إلى خلافه أمر ربه في ذلك: أنه أشد منه أيْدًا، [[في المطبوعة: ((أشد منه يدا)) ، والصواب من المخطوطة، و ((الأيد)) ، القوة.]] وأقوى منه قوة، وأفضل منه فضلا لفضل الجنس الذي منه خلق، وهو النارُ، على الذي خلق منه آدم، [[في المطبوعة: ((من الذي خلق منه آدم)) ، زاد ((من)) ، والمخطوطة سقط منها حرف الجر المتعلق بفضل الجنس، والصواب ما أُبت.]] وهو الطين. فجهل عدوّ الله وجه الحق، وأخطأ سبيل الصواب. إذ كان معلومًا أن من جوهر النار الخفة والطيش والاضطراب والارتفاع علوًّا، والذي في جوهرها من ذلك هو الذي حملَ الخبيث بعد الشقاء الذي سبق له من الله في الكتاب السابق، على الاستكبار عن السجود لآدم، والاستخفاف بأمر ربه، فأورثه العطبَ والهلاكَ. وكان معلومًا أن من جوهر الطين الرزانة والأناة والحلم والحياء والتثبُّت، وذلك الذي هو في جوهره من ذلك، [[في المطبوعة: ((وذلك الذي في جوهره ... )) حذف ((هو)) ، وفي المخطوطة: ((وذلك الذي هو من جوهره من ذلك)) ، وصوابها ((في جوهره)) ، وإنما هو خطأ من الناسخ.]] كان الداعي لآدم بعد السعادة التي كانت سبقت له من ربه في الكتاب السابق، إلى التوبة من خطيئته، ومسألته ربَّه العفوَ عنه والمغفرة. ولذلك كان الحسن وابن سيرين يقولان:"أول مَنْ قاسَ إبليس"، يعنيان بذلك: القياسَ الخطأ، وهو هذا الذي ذكرنا من خطأ قوله، وبعده من إصابة الحق، في الفضل الذي خص الله به آدم على سائر خلقه: من خلقه إياه بيده، ونفخه فيه من روحه، وإسجاده له الملائكة، وتعليمه أسماء كلِّ شيء، مع سائر ما خصه به من كرامته. فضرب عن ذلك كلِّه الجاهلُ صفحًا، وقصد إلى الاحتجاج بأنه خُلق من نار وخلق آدم من طين!! [[في المطبوعة: ((بأنه خلقه من نار)) ، واليد ما في المخطوطة.]] وهو في ذلك أيضًا له غير كفء، لو لم يكن لآدم من الله جل ذكره تكرمة شيء غيره، فكيف والذي خصّ به من كرامته يكثر تعداده، ويملّ إحصاؤه؟
+
+١٤٣٥٥- حدثني عمرو بن مالك قال، حدثنا يحيى بن سليم الطائفي، عن هشام، عن ابن سيرين قال: أوّل من قاس إبليس، وما عُبِدت الشمس والقمر إلا بالمقاييس. [[الأثر: ١٤٣٥٥ - ((عمرو بن مالك الراسبي الغبري)) ، أبو عثمان البصري، شيخ الطبري. قال ابن عدي: ((منكر الحديث عن الثقات، ويسرق الحديث)) ، وقال ابن أبي حاتم: ((ترك أبي التحديث عنه)) . مترجم في التهذيب، وابن أبي حاتم ٣ /١ / ٢٥٩.
+
+و ((يحيى بن سليم الطائفي)) ، ثقة، روى له الجماعة، مضى برقم: ٤٨٩٤، ٧٨٣١.]]
+
+١٤٣٥٦- حدثنا القاسم قال، حدثنا الحسين قال، حدثنا محمد بن كثير، عن ابن شوذب، عن مطر الورّاق، عن الحسن قوله: ﴿خلقتني من نار وخلقته من طين﴾ ، قال: قاس إبليس وهو أول من قاس.
+
+* *
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+١٤٣٥٧- حدثنا أبو كريب قال، حدثنا عثمان بن سعيد قال، حدثنا بشر بن عمارة، عن أبي روق، عن الضحاك عن ابن عباس قال: لما خلق الله آدم قال للملائكة الذين كانوا مع إبليس خاصة، دون الملائكة الذين في السموات:"اسجدوا لآدم"، فسجدوا كلهم أجمعون إلا إبليس استكبر، لما كان حدَّث نفسه، من كبره واغتراره، فقال:"لا أسجد له، وأنا خير منه، وأكبر سنًّا، وأقوى خلقًا، خلقتني من نار وخلقته من طين! " يقول: إنّ النار أقوى من الطين.
+
+١٤٣٥٨- حدثنا القاسم قال، حدثنا الحسين قال، حدثني حجاج، عن ابن جريج، عن مجاهد قوله: ﴿خلقتني من نار﴾ ، قال: ثم جعل ذريته من ماء.
+
+* *
+
+قال أبو جعفر: وهذا الذي قاله عدوّ الله ليس لما سأله عنه بجواب. وذلك أن الله تعالى ذكره قال له: ما منعك من السجود؟ فلم يجب بأن الذي منعه من السجود أنه خُلِقَ من نار وخلق آدم من طين، [[في المطبوعة: ((أنه خلقه من نار)) ، والجيد في المخطوطة.]] ولكنه ابتدأ خبرًا عن نفسه، فيه دليل على موضع الجواب فقال: ﴿أنا خير منه خلقتني من نار وخلقته من طين﴾
 
 ### al-Muyassar (Arabic)
 
-قال تعالى منكرًا على إبليس تَرْكَ السجود: ما منعك ألا تسجد إذ أمرتك؟ فقال إبليس: أنا أفضل منه خلقًا؛ لأني مخلوق من نار، وهو مخلوق من طين. فرأى أن النار أشرف من الطين.
+قال تعالى منكرًا على إبليس تَرْكَ السجود: ما منعك ألّا تسجد إذ أمرتك؟ فقال إبليس: أنا أفضل منه خلقًا؛ لأني مخلوق من نار، وهو مخلوق من طين. فرأى أن النار أشرف من الطين.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿قالَ﴾ تَعالى ﴿ما مَنَعَك ألّا﴾ أنْ لا: لا زائِدَة ﴿تَسْجُد إذْ﴾ حِين
 
 ---

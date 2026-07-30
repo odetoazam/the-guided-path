@@ -1,6 +1,6 @@
 # Tafsir Cross-Reference Report
 
-Generated: 2026-04-06
+Generated: 2026-07-30
 Ayahs referenced: 4
 Tafsir sources: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), al-Jalalayn (Arabic)
 
@@ -10,12 +10,93 @@ Tafsir sources: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), 
 
 ### Ibn Kathir (English)
 
+And who does more wrong than he who invents a lie against Allah. Such will be brought before their Lord, and the witnesses will say,"These are the ones who lied against their Lord!" No doubt! The curse of Allah is on the wrongdoers (18)Those who hinder (others) from the path of Allah, and seek a crookedness therein, while they are disbelievers in the Hereafter (19)By no means will they escape on earth, nor have they protectors besides Allah! Their torment will be doubled! They could not bear to listen and they used not to see (the truth)(20)They are those who have lost their own selves, and that which they invented eluded them (21)Certainly, they are those who will be the greatest losers in the Hereafter (22)
+
 Those Who invent Lies against Allah and hinder Others from His Path are the Greatest Losers
-Allah, the Exalted, explains the condition of those who lie against Him and that their scandal in the Hereafter will be presented before the heads of creation (for testimony) from the angels, Messengers, Prophets and the rest of mankind and Jinns. This is just as Imam Ahmad recorded from Safwan bin Muhriz. Safwan said, "I was holding the hand of Ibn `Umar when a man was brought to him. The man said, `H...
+
+Allah, the Exalted, explains the condition of those who lie against Him and that their scandal in the Hereafter will be presented before the heads of creation (for testimony) from the angels, Messengers, Prophets and the rest of mankind and Jinns.
+
+This is just as Imam Ahmad recorded from Safwan bin Muhriz. Safwan said, "I was holding the hand of Ibn 'Umar when a man was brought to him. The man said, 'How did you hear the Messenger of Allah ﷺ describe An-Najwa (secret counsel or confidential talk) on the Day of Resurrection' Ibn 'Umar said, 'I heard him say,
+
+إِنَّ اللهَ عزَّ وَجَلَّ يُدْنِي الْمُؤْمِنَ فَيَضَعُ عَلَيْهِ كَنَفَهُ، وَيَسْتُرُهُ مِنَ النَّاسِ، وَيُقَرِّرُهُ بِذُنُوبِهِ وَيَقُولُ لَهُ: أَتَعْرِفُ ذَنْبَ كَذَا؟ أَتَعْرِفُ ذَنْبَ كَذَا؟ أَتَعْرِفُ ذَنْبَ كَذَا؟ حَتَّى إِذَا قَرَّرَهُ بِذُنُوبِهِ وَرَأَى فِي نَفْسِهِ أَنَّهُ قَدْ هَلَكَ قَالَ: فَإِنِّي قَدْ سَتَرْتُهَا عَلَيْكَ فِي الدُّنْيَا وَإِنِّي أَغْفِرُهَا لَكَ الْيَوْمَ
+
+(Verily, Allah, the Mighty and Sublime, will draw near the believer and He will place His shade over him. He will conceal him from the people and make him confess to his sins. He will say to him, "Do you recognize this sin? Do you recognize that sin? Do you recognize such and such sin?" This will continue until He makes him confess to all of his sins and he (the believer) will think to himself that he is about to be destroyed. Then Allah will say, "Verily, I have concealed these sins for you in the worldly life and I have forgiven you for them today." Then he (the believer) will be given his Book of good deeds. As for the disbelievers and the hypocrites, the witnesses will say,)
+
+هَٰؤُلَاءِ الَّذِينَ كَذَبُوا عَلَىٰ رَبِّهِمْ ۚ أَلَا لَعْنَةُ اللَّهِ عَلَى الظَّالِمِينَ
+
+(These are the ones who lied against their Lord! No doubt! The curse of Allah is on the wrongdoers)." Both Al-Bukhari and Muslim recorded this narration in the Two Sahihs. Concerning Allah's statement,
+
+الَّذِينَ يَصُدُّونَ عَن سَبِيلِ اللَّهِ وَيَبْغُونَهَا عِوَجًا
+
+(Those who hinder (others) from the path of Allah, and seek a crookedness therein,) This means that they prevent the people from following the truth and traversing upon the path of guidance that leads to Allah, the Mighty and Sublime. In doing so they also keep the people away from Paradise itself. Allah's statement,
+
+وَيَبْغُونَهَا عِوَجًا
+
+(and seek a crookedness therein,) This means that they want their path to be crooked and uneven. Then, Allah's statement,
+
+وَهُم بِالْآخِرَةِ هُمْ كَافِرُونَ
+
+(while they are disbelievers in the Hereafter.) This means that they deny the Hereafter and they reject the idea that any of its events will occur, or any of it exists at all. Concerning Allah's statement,
+
+أُولَٰئِكَ لَمْ يَكُونُوا مُعْجِزِينَ فِي الْأَرْضِ وَمَا كَانَ لَهُم مِّن دُونِ اللَّهِ مِنْ أَوْلِيَاءَ
+
+(By no means will they escape on earth, nor have they protectors besides Allah!) This means that these disbelievers are under the power of Allah and His force. They are in His grasp and are subject to His authority. He is Most Able to exact vengeance against them in this life before the coming of the Hereafter. This is like Allah's statement,
+
+إِنَّمَا يُؤَخِّرُهُمْ لِيَوْمٍ تَشْخَصُ فِيهِ الْأَبْصَارُ
+
+(but He gives them respite up to a Day when the eyes will stare in horror.)[14:42] In the Two Sahihs it is recorded that the Prophet ﷺ said,
+
+إِنَّ اللهَ لَيُمْلِي لِلظَّالِمِ حَتَّى إِذَا أَخَذَهُ لَمْ يُفْلِتْهُ
+
+(Verily Allah gives respite to the oppressor until He seizes him, then he will not be able to escape Him.) For this reason Allah says,
+
+يُضَاعَفُ لَهُمُ الْعَذَابُ
+
+(Their torment will be doubled!) This means that the torment will be doubled upon them, because Allah gave them hearing, vision and hearts, but these things did not benefit them. Rather, they were deaf from hearing the truth and blinded away from following it. This is just as Allah has mentioned concerning them when they enter into the Hellfire. Allah says,
+
+وَقَالُوا لَوْ كُنَّا نَسْمَعُ أَوْ نَعْقِلُ مَا كُنَّا فِي أَصْحَابِ السَّعِيرِ
+
+(And they will say: "Had we but listened or used our intelligence, we would not have been among the dwellers of the blazing Fire!")[67:10] Allah also says,
+
+الَّذِينَ كَفَرُوا وَصَدُّوا عَن سَبِيلِ اللَّهِ زِدْنَاهُمْ عَذَابًا فَوْقَ الْعَذَابِ
+
+(Those who disbelieved and hinder (men) from the path of Allah, for them We will add torment to the torment.)[16:88] For this reason they will be punished for every command that they abandoned and every prohibition that they indulged in. Then Allah continues by saying,
+
+أُولَٰئِكَ الَّذِينَ خَسِرُوا أَنفُسَهُمْ وَضَلَّ عَنْهُم مَّا كَانُوا يَفْتَرُونَ
+
+(They are those who have lost their own selves, and that which they invented eluded them.) They lost themselves, meaning that they be made to enter a blazing Fire, where they will be punished, and its torment will not be lifted from them for even the blinking of an eye. This is as Allah said,
+
+كُلَّمَا خَبَتْ زِدْنَاهُمْ سَعِيرًا
+
+(Whenever it abates, We shall increase for them the fierceness of the Fire.)[17:97] Concerning the statement,
+
+وَضَلَّ عَنْهُم
+
+(eluded them.) meaning that it has left them.
+
+مَّا كَانُوا يَفْتَرُونَ
+
+(that which they invented) besides Allah, such as rivals and idols. Yet, these things did not avail them in the slightest. In fact, these things actually caused them great harm. This is as Allah says,
+
+وَإِذَا حُشِرَ النَّاسُ كَانُوا لَهُمْ أَعْدَاءً وَكَانُوا بِعِبَادَتِهِمْ كَافِرِينَ
+
+(And when mankind are gathered, they will become their enemies and will deny their worshipping.)[46:6] Allah says,
+
+إِذْ تَبَرَّأَ الَّذِينَ اتُّبِعُوا مِنَ الَّذِينَ اتَّبَعُوا وَرَأَوُا الْعَذَابَ وَتَقَطَّعَتْ بِهِمُ الْأَسْبَابُ
+
+(When those who were followed disown those who followed (them), and they see the torment, then all their relations will be cut off from them.)[2:166] Likewise, there are many other verses that prove this loss of theirs and their destruction. For this reason Allah says,
+
+لَا جَرَمَ أَنَّهُمْ فِي الْآخِرَةِ هُمُ الْأَخْسَرُونَ
+
+(Certainly, they are those who will be the greatest losers in the Hearafter.)[11:22] In this verse Allah informs about the direction of their end. He explains that they are the greatest losers among mankind in their transaction for the abode of the Hereafter. That is because they exchanged the highest levels (of Paradise) for the lowest levels (of Hell) and they substituted the pleasure of Gardens (of Paradise) for the fierce boiling water (of Hell). They exchanged the drink of sealed nectar with the fierce hot wind, boiling water, and a shade of black smoke. They chose food from the filth of dirty wounds instead of wide-eyed lovely maidens. They preferred Hawiyah (a pit in Hell) instead of lofty castles. They chose the anger of Allah and His punishment over nearness to Him and the blessing of gazing at Him. Therefore, it is no injustice that such people should be the greatest losers in the Hereafter.
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله تعالى :  الَّذِينَ يَصُدُّونَ عَنْ سَبِيلِ اللَّهِ وَيَبْغُونَهَا عِوَجًا وَهُمْ بِالآخِرَةِ هُمْ كَافِرُونَ (19)قال أبو جعفر : يقول تعالى ذكره: ألا لعنة الله على الظَّالمين الذين يصدّون الناسَ، عن الإيمان به، والإقرار له بالعبودة ، وإخلاص العبادة له دون الآلهة والأنداد ، من مشركي قريش، وهم الذين كانوا يفتنون عن الإسلام من دخل فيه (45) .  ، (ويبغونها عوجًا) ، يقول: ويلتمسون سبيل الله ، وهو الإسلام الذي دعا الناس إليه محمد، (46) يقول: زيغًا وميلا عن الاستقامة. (47)  ، (وهم ...
+القول في تأويل قوله تعالى: ﴿الَّذِينَ يَصُدُّونَ عَنْ سَبِيلِ اللَّهِ وَيَبْغُونَهَا عِوَجًا وَهُمْ بِالآخِرَةِ هُمْ كَافِرُونَ (١٩) ﴾
+
+قال أبو جعفر: يقولا تعالى ذكره: ألا لعنة الله على الظَّالمين الذين يصدّون الناسَ، عن الإيمان به، والإقرار له بالعبودة، وإخلاص العبادة له دون الآلهة والأنداد، من مشركي قريش، وهم الذين كانوا يفتنون عن الإسلام من دخل فيه [[انظر تفسير " الصد " فيما سلف ١٤: ٢١٦، تعليق: ٣، والمراجع هناك.]] . = ﴿ويبغونها عوجًا﴾ ، يقول: ويلتمسون سبيل الله، وهو الإسلام الذي دعا الناس إليه محمد، [[انظر تفسير " بغى " فيما سلف ١٤: ٢٨٣، تعليق: ١، والمراجع هناك.
+
+= وتفسير " سبيل الله " فيما سلف من فهارس اللغة (سبل) .]] يقول: زيغًا وميلا عن الاستقامة. [[انظر تفسير " العوج " فيما سلف ٧: ٥٣، ٥٤ / ١٢: ٤٤٨، ٥٥٩.]] = ﴿وهم بالآخرة هم كافرون﴾ ، يقول: وهم بالبعث بعد الممات مع صدهم عن سبيل الله وبغيهم إياها عوجًا = ﴿كافرون﴾ يقول: هم جاحدون ذلك منكرون.
 
 ### al-Muyassar (Arabic)
 
@@ -23,7 +104,7 @@ Allah, the Exalted, explains the condition of those who lie against Him and that
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿الَّذِينَ يَصُدُّونَ عَنْ سَبِيل اللَّه﴾ دِين الإسْلام ﴿ويَبْغُونَها﴾ يَطْلُبُونَ السَّبِيل ﴿عِوَجًا﴾ مُعْوَجَّة ﴿وهُمْ بِالآخِرَةِ هُمْ﴾ تَأْكِيد
 
 ---
 
@@ -31,12 +112,117 @@ Allah, the Exalted, explains the condition of those who lie against Him and that
 
 ### Ibn Kathir (English)
 
+And who does more wrong than he who invents a lie against Allah. Such will be brought before their Lord, and the witnesses will say,"These are the ones who lied against their Lord!" No doubt! The curse of Allah is on the wrongdoers (18)Those who hinder (others) from the path of Allah, and seek a crookedness therein, while they are disbelievers in the Hereafter (19)By no means will they escape on earth, nor have they protectors besides Allah! Their torment will be doubled! They could not bear to listen and they used not to see (the truth)(20)They are those who have lost their own selves, and that which they invented eluded them (21)Certainly, they are those who will be the greatest losers in the Hereafter (22)
+
 Those Who invent Lies against Allah and hinder Others from His Path are the Greatest Losers
-Allah, the Exalted, explains the condition of those who lie against Him and that their scandal in the Hereafter will be presented before the heads of creation (for testimony) from the angels, Messengers, Prophets and the rest of mankind and Jinns. This is just as Imam Ahmad recorded from Safwan bin Muhriz. Safwan said, "I was holding the hand of Ibn `Umar when a man was brought to him. The man said, `H...
+
+Allah, the Exalted, explains the condition of those who lie against Him and that their scandal in the Hereafter will be presented before the heads of creation (for testimony) from the angels, Messengers, Prophets and the rest of mankind and Jinns.
+
+This is just as Imam Ahmad recorded from Safwan bin Muhriz. Safwan said, "I was holding the hand of Ibn 'Umar when a man was brought to him. The man said, 'How did you hear the Messenger of Allah ﷺ describe An-Najwa (secret counsel or confidential talk) on the Day of Resurrection' Ibn 'Umar said, 'I heard him say,
+
+إِنَّ اللهَ عزَّ وَجَلَّ يُدْنِي الْمُؤْمِنَ فَيَضَعُ عَلَيْهِ كَنَفَهُ، وَيَسْتُرُهُ مِنَ النَّاسِ، وَيُقَرِّرُهُ بِذُنُوبِهِ وَيَقُولُ لَهُ: أَتَعْرِفُ ذَنْبَ كَذَا؟ أَتَعْرِفُ ذَنْبَ كَذَا؟ أَتَعْرِفُ ذَنْبَ كَذَا؟ حَتَّى إِذَا قَرَّرَهُ بِذُنُوبِهِ وَرَأَى فِي نَفْسِهِ أَنَّهُ قَدْ هَلَكَ قَالَ: فَإِنِّي قَدْ سَتَرْتُهَا عَلَيْكَ فِي الدُّنْيَا وَإِنِّي أَغْفِرُهَا لَكَ الْيَوْمَ
+
+(Verily, Allah, the Mighty and Sublime, will draw near the believer and He will place His shade over him. He will conceal him from the people and make him confess to his sins. He will say to him, "Do you recognize this sin? Do you recognize that sin? Do you recognize such and such sin?" This will continue until He makes him confess to all of his sins and he (the believer) will think to himself that he is about to be destroyed. Then Allah will say, "Verily, I have concealed these sins for you in the worldly life and I have forgiven you for them today." Then he (the believer) will be given his Book of good deeds. As for the disbelievers and the hypocrites, the witnesses will say,)
+
+هَٰؤُلَاءِ الَّذِينَ كَذَبُوا عَلَىٰ رَبِّهِمْ ۚ أَلَا لَعْنَةُ اللَّهِ عَلَى الظَّالِمِينَ
+
+(These are the ones who lied against their Lord! No doubt! The curse of Allah is on the wrongdoers)." Both Al-Bukhari and Muslim recorded this narration in the Two Sahihs. Concerning Allah's statement,
+
+الَّذِينَ يَصُدُّونَ عَن سَبِيلِ اللَّهِ وَيَبْغُونَهَا عِوَجًا
+
+(Those who hinder (others) from the path of Allah, and seek a crookedness therein,) This means that they prevent the people from following the truth and traversing upon the path of guidance that leads to Allah, the Mighty and Sublime. In doing so they also keep the people away from Paradise itself. Allah's statement,
+
+وَيَبْغُونَهَا عِوَجًا
+
+(and seek a crookedness therein,) This means that they want their path to be crooked and uneven. Then, Allah's statement,
+
+وَهُم بِالْآخِرَةِ هُمْ كَافِرُونَ
+
+(while they are disbelievers in the Hereafter.) This means that they deny the Hereafter and they reject the idea that any of its events will occur, or any of it exists at all. Concerning Allah's statement,
+
+أُولَٰئِكَ لَمْ يَكُونُوا مُعْجِزِينَ فِي الْأَرْضِ وَمَا كَانَ لَهُم مِّن دُونِ اللَّهِ مِنْ أَوْلِيَاءَ
+
+(By no means will they escape on earth, nor have they protectors besides Allah!) This means that these disbelievers are under the power of Allah and His force. They are in His grasp and are subject to His authority. He is Most Able to exact vengeance against them in this life before the coming of the Hereafter. This is like Allah's statement,
+
+إِنَّمَا يُؤَخِّرُهُمْ لِيَوْمٍ تَشْخَصُ فِيهِ الْأَبْصَارُ
+
+(but He gives them respite up to a Day when the eyes will stare in horror.)[14:42] In the Two Sahihs it is recorded that the Prophet ﷺ said,
+
+إِنَّ اللهَ لَيُمْلِي لِلظَّالِمِ حَتَّى إِذَا أَخَذَهُ لَمْ يُفْلِتْهُ
+
+(Verily Allah gives respite to the oppressor until He seizes him, then he will not be able to escape Him.) For this reason Allah says,
+
+يُضَاعَفُ لَهُمُ الْعَذَابُ
+
+(Their torment will be doubled!) This means that the torment will be doubled upon them, because Allah gave them hearing, vision and hearts, but these things did not benefit them. Rather, they were deaf from hearing the truth and blinded away from following it. This is just as Allah has mentioned concerning them when they enter into the Hellfire. Allah says,
+
+وَقَالُوا لَوْ كُنَّا نَسْمَعُ أَوْ نَعْقِلُ مَا كُنَّا فِي أَصْحَابِ السَّعِيرِ
+
+(And they will say: "Had we but listened or used our intelligence, we would not have been among the dwellers of the blazing Fire!")[67:10] Allah also says,
+
+الَّذِينَ كَفَرُوا وَصَدُّوا عَن سَبِيلِ اللَّهِ زِدْنَاهُمْ عَذَابًا فَوْقَ الْعَذَابِ
+
+(Those who disbelieved and hinder (men) from the path of Allah, for them We will add torment to the torment.)[16:88] For this reason they will be punished for every command that they abandoned and every prohibition that they indulged in. Then Allah continues by saying,
+
+أُولَٰئِكَ الَّذِينَ خَسِرُوا أَنفُسَهُمْ وَضَلَّ عَنْهُم مَّا كَانُوا يَفْتَرُونَ
+
+(They are those who have lost their own selves, and that which they invented eluded them.) They lost themselves, meaning that they be made to enter a blazing Fire, where they will be punished, and its torment will not be lifted from them for even the blinking of an eye. This is as Allah said,
+
+كُلَّمَا خَبَتْ زِدْنَاهُمْ سَعِيرًا
+
+(Whenever it abates, We shall increase for them the fierceness of the Fire.)[17:97] Concerning the statement,
+
+وَضَلَّ عَنْهُم
+
+(eluded them.) meaning that it has left them.
+
+مَّا كَانُوا يَفْتَرُونَ
+
+(that which they invented) besides Allah, such as rivals and idols. Yet, these things did not avail them in the slightest. In fact, these things actually caused them great harm. This is as Allah says,
+
+وَإِذَا حُشِرَ النَّاسُ كَانُوا لَهُمْ أَعْدَاءً وَكَانُوا بِعِبَادَتِهِمْ كَافِرِينَ
+
+(And when mankind are gathered, they will become their enemies and will deny their worshipping.)[46:6] Allah says,
+
+إِذْ تَبَرَّأَ الَّذِينَ اتُّبِعُوا مِنَ الَّذِينَ اتَّبَعُوا وَرَأَوُا الْعَذَابَ وَتَقَطَّعَتْ بِهِمُ الْأَسْبَابُ
+
+(When those who were followed disown those who followed (them), and they see the torment, then all their relations will be cut off from them.)[2:166] Likewise, there are many other verses that prove this loss of theirs and their destruction. For this reason Allah says,
+
+لَا جَرَمَ أَنَّهُمْ فِي الْآخِرَةِ هُمُ الْأَخْسَرُونَ
+
+(Certainly, they are those who will be the greatest losers in the Hearafter.)[11:22] In this verse Allah informs about the direction of their end. He explains that they are the greatest losers among mankind in their transaction for the abode of the Hereafter. That is because they exchanged the highest levels (of Paradise) for the lowest levels (of Hell) and they substituted the pleasure of Gardens (of Paradise) for the fierce boiling water (of Hell). They exchanged the drink of sealed nectar with the fierce hot wind, boiling water, and a shade of black smoke. They chose food from the filth of dirty wounds instead of wide-eyed lovely maidens. They preferred Hawiyah (a pit in Hell) instead of lofty castles. They chose the anger of Allah and His punishment over nearness to Him and the blessing of gazing at Him. Therefore, it is no injustice that such people should be the greatest losers in the Hereafter.
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله تعالى :  أُولَئِكَ لَمْ يَكُونُوا مُعْجِزِينَ فِي الأَرْضِ وَمَا كَانَ لَهُمْ مِنْ دُونِ اللَّهِ مِنْ أَوْلِيَاءَ يُضَاعَفُ لَهُمُ الْعَذَابُ مَا كَانُوا يَسْتَطِيعُونَ السَّمْعَ وَمَا كَانُوا يُبْصِرُونَ (20)قال أبو جعفر : يعني جل ذكره بقوله: (أولئك لم يكونوا معجزين في الأرض) ، هؤلاء الذين وصف جل ثناؤه أنهم يصدّون عن سبيل الله، يقول جل ثناؤه: إنهم لم يكونوا بالذي يُعْجِزون ربَّهم بهربهم منه في الأرض إذا أراد عقابهم والانتقام منهم، ولكنهم في قبضته وملكه، لا يمتنعون منه إذا...
+القول في تأويل قوله تعالى: ﴿أُولَئِكَ لَمْ يَكُونُوا مُعْجِزِينَ فِي الأَرْضِ وَمَا كَانَ لَهُمْ مِنْ دُونِ اللَّهِ مِنْ أَوْلِيَاءَ يُضَاعَفُ لَهُمُ الْعَذَابُ مَا كَانُوا يَسْتَطِيعُونَ السَّمْعَ وَمَا كَانُوا يُبْصِرُونَ (٢٠) ﴾
+
+قال أبو جعفر: يعني جل ذكره بقوله: ﴿أولئك لم يكونوا معجزين في الأرض﴾ ، هؤلاء الذين وصف جل ثناؤه أنهم يصدّون عن سبيل الله، يقول جل ثناؤه: إنهم لم يكونوا بالذي يُعْجِزون ربَّهم بهربهم منه في الأرض إذا أراد عقابهم والانتقام منهم، ولكنهم في قبضته وملكه، لا يمتنعون منه إذا أرادهم ولا يفوتونه هربًا إذا طلبهم [[انظر تفسير " الإعجاز " فيما سلف ص: ١٠٢، تعليق: ٤، والمراجع هناك.]] = ﴿وما كان لهم من دون الله من أولياء﴾ ، يقول: ولم يكن لهؤلاء المشركين إذا أراد عقابهم من دون الله أنصارٌ ينصرونهم من الله، [[انظر تفسير " الولي " فيما سلف من فهارس اللغة (ولي) .]] ويحولون بينهم وبينه إذا هو عذبهم، وقد كانت لهم في الدنيا مَنْعَة يمتنعون بها ممن أرادهم من الناس بسوء = وقوله: ﴿يضاعف لهم العذاب﴾ ، يقول تعالى ذكره: يزاد في عذابهم، فيجعل لهم مكان الواحد اثنان. [[انظر تفسير " المضاعفة " فيما سلف ١٢: ٤١٧ - ٤١٩.]]
+
+* *
+
+وقوله: ﴿ما كانوا يستطيعون السمع وما كانوا يبصرون﴾ ، فإنه اختلف في تأويله.
+
+فقال بعضهم: ذلك وصَفَ الله به هؤلاء المشركين أنه قد ختم على سمعهم وأبصارهم، وأنهم لا يسمعون الحق، ولا يبصرون حجج الله، سَمَاعَ منتفع، ولا إبصارَ مهتدٍ.
+
+ذكر من قال ذلك:
+
+١٨٠٩٢- حدثنا بشر قال، حدثنا يزيد قال، حدثنا سعيد، عن قتادة، قوله: ﴿ما كانوا يستطيعون السمع وما كانوا يبصرون﴾ ، صم عن الحقّ فما يسمعونه، بكم فما ينطقون به، عمي فلا يبصرونه، ولا ينتفعون به
+
+١٨٠٩٣- حدثنا محمد بن عبد الأعلى قال، حدثنا محمد بن ثور، عن معمر، عن قتادة: ﴿ما كانوا يستطيعون السمع وما كانوا يبصرون﴾ ، قال: ما كانوا يستطيعون أن يسمعوا خيرًا فينتفعوا به، ولا يبصروا خيرًا فيأخذوا به
+
+١٨٠٩٤- حدثني المثنى قال، حدثنا عبد الله بن صالح قال، حدثني معاوية، عن علي، عن ابن عباس قال: أخبر الله سبحانه أنه حال بين أهل الشرك، وبين طاعته في الدنيا والآخرة. أما في الدنيا، فإنه قال: (ما كانوا يستطيعون السمع) ، وهي طاعته = ﴿وما كانوا يبصرون﴾ . وأما في الآخرة، فإنه قال: ﴿فلا يستطيعون خاشعة﴾ ، [سورة القلم: ٤٢، ٤٣] .
+
+* *
+
+وقال آخرون: إنما عنى بقوله: ﴿وما كان لهم من دون الله من أولياء﴾ ، آلهةَ الذين يصدون عن سبيل الله. وقالوا: معنى الكلام: أولئك وآلهتهم، ﴿لم يكونوا معجزين في الأرض يضاعَفُ لهم العذاب ما كانوا يستطيعون السمع وما كانوا يبصرون﴾ ، يعني الآلهة، أنها لم يكن لها سمعٌ ولا بصر. وهذا قولٌ روي عن ابن عباس من وجه كرهت ذكره لضعْفِ سَنَده.
+
+* *
+
+وقال آخرون: معنى ذلك: يُضَاعف لهم العذاب بما كانوا يستطيعون السمع ولا يسمعونه، وبما كانوا يبصرون ولا يتأمَّلون حجج الله بأعينهم فيعتبروا بها. قالوا: و"الباء" كان ينبغي لها أن تدخل، لأنه قد قال: ﴿وَلَهُمْ عَذَابٌ أَلِيمٌ بِمَا كَانُوا يَكْذِبُونَ﴾ ، [سورة البقرة: ١٠] ، بكذبهم، في غير موضع من التنزيل أدخلت فيه "الباء"، وسقوطها جائز في الكلام كقولك في الكلام: " لأجزينَّك ما علمت، وبما علمت"، [[في المطبوعة والمخطوطة: " كقولك في الكلام: لاحن بما فيك ما علمت وبما علمت "، وهذا كلام يبرأ بعضه من بعض، والظاهر أن الفساد كله من الناسخ، لأنه كتب " لاحن " في آخر الصفحة، ثم قلب، وبدأ الصفحة الأخرى. " بما فيك ما عملت "، وهذا عجب. والصواب الذي أثبته، هو نص كلام الفراء في معاني القرآن.]] وهذا قول قاله بعض أهل العربية.
+
+* *
+
+قال أبو جعفر: والصواب من القول في ذلك عندنا، ما قاله ابن عباس وقتادة، من أن الله وصفهم تعالى ذكره بأنهم لا يستطيعون أن يسمعوا الحقّ سماع منتفع، ولا يبصرونه إبصار مهتد، لاشتغالهم بالكفر الذي كانوا عليه مقيمين، عن استعمال جوارحهم في طاعة الله، وقد كانت لهم أسماعٌ وأبصارٌ.
 
 ### al-Muyassar (Arabic)
 
@@ -44,7 +230,7 @@ Allah, the Exalted, explains the condition of those who lie against Him and that
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿أُولَئِكَ لَمْ يَكُونُوا مُعْجِزِينَ﴾ لِلَّهِ ﴿فِي الأَرْض وما كانَ لَهُمْ مِن دُون اللَّه﴾ أيْ غَيْره ﴿مِن أوْلِياء﴾ أنْصار يَمْنَعُونَهُمْ مِن عَذابه ﴿يُضاعَف لَهُمْ العَذاب﴾ بِإضْلالِهِمْ غَيْرهمْ ﴿ما كانُوا يَسْتَطِيعُونَ السَّمْع﴾ لِلْحَقِّ ﴿وما كانُوا يُبْصِرُونَ﴾ ـهُ أيْ لِفَرْطِ كَراهَتهمْ لَهُ كَأَنَّهُمْ لَمْ يَسْتَطِيعُوا ذَلِكَ
 
 ---
 
@@ -52,12 +238,99 @@ Allah, the Exalted, explains the condition of those who lie against Him and that
 
 ### Ibn Kathir (English)
 
+And who does more wrong than he who invents a lie against Allah. Such will be brought before their Lord, and the witnesses will say,"These are the ones who lied against their Lord!" No doubt! The curse of Allah is on the wrongdoers (18)Those who hinder (others) from the path of Allah, and seek a crookedness therein, while they are disbelievers in the Hereafter (19)By no means will they escape on earth, nor have they protectors besides Allah! Their torment will be doubled! They could not bear to listen and they used not to see (the truth)(20)They are those who have lost their own selves, and that which they invented eluded them (21)Certainly, they are those who will be the greatest losers in the Hereafter (22)
+
 Those Who invent Lies against Allah and hinder Others from His Path are the Greatest Losers
-Allah, the Exalted, explains the condition of those who lie against Him and that their scandal in the Hereafter will be presented before the heads of creation (for testimony) from the angels, Messengers, Prophets and the rest of mankind and Jinns. This is just as Imam Ahmad recorded from Safwan bin Muhriz. Safwan said, "I was holding the hand of Ibn `Umar when a man was brought to him. The man said, `H...
+
+Allah, the Exalted, explains the condition of those who lie against Him and that their scandal in the Hereafter will be presented before the heads of creation (for testimony) from the angels, Messengers, Prophets and the rest of mankind and Jinns.
+
+This is just as Imam Ahmad recorded from Safwan bin Muhriz. Safwan said, "I was holding the hand of Ibn 'Umar when a man was brought to him. The man said, 'How did you hear the Messenger of Allah ﷺ describe An-Najwa (secret counsel or confidential talk) on the Day of Resurrection' Ibn 'Umar said, 'I heard him say,
+
+إِنَّ اللهَ عزَّ وَجَلَّ يُدْنِي الْمُؤْمِنَ فَيَضَعُ عَلَيْهِ كَنَفَهُ، وَيَسْتُرُهُ مِنَ النَّاسِ، وَيُقَرِّرُهُ بِذُنُوبِهِ وَيَقُولُ لَهُ: أَتَعْرِفُ ذَنْبَ كَذَا؟ أَتَعْرِفُ ذَنْبَ كَذَا؟ أَتَعْرِفُ ذَنْبَ كَذَا؟ حَتَّى إِذَا قَرَّرَهُ بِذُنُوبِهِ وَرَأَى فِي نَفْسِهِ أَنَّهُ قَدْ هَلَكَ قَالَ: فَإِنِّي قَدْ سَتَرْتُهَا عَلَيْكَ فِي الدُّنْيَا وَإِنِّي أَغْفِرُهَا لَكَ الْيَوْمَ
+
+(Verily, Allah, the Mighty and Sublime, will draw near the believer and He will place His shade over him. He will conceal him from the people and make him confess to his sins. He will say to him, "Do you recognize this sin? Do you recognize that sin? Do you recognize such and such sin?" This will continue until He makes him confess to all of his sins and he (the believer) will think to himself that he is about to be destroyed. Then Allah will say, "Verily, I have concealed these sins for you in the worldly life and I have forgiven you for them today." Then he (the believer) will be given his Book of good deeds. As for the disbelievers and the hypocrites, the witnesses will say,)
+
+هَٰؤُلَاءِ الَّذِينَ كَذَبُوا عَلَىٰ رَبِّهِمْ ۚ أَلَا لَعْنَةُ اللَّهِ عَلَى الظَّالِمِينَ
+
+(These are the ones who lied against their Lord! No doubt! The curse of Allah is on the wrongdoers)." Both Al-Bukhari and Muslim recorded this narration in the Two Sahihs. Concerning Allah's statement,
+
+الَّذِينَ يَصُدُّونَ عَن سَبِيلِ اللَّهِ وَيَبْغُونَهَا عِوَجًا
+
+(Those who hinder (others) from the path of Allah, and seek a crookedness therein,) This means that they prevent the people from following the truth and traversing upon the path of guidance that leads to Allah, the Mighty and Sublime. In doing so they also keep the people away from Paradise itself. Allah's statement,
+
+وَيَبْغُونَهَا عِوَجًا
+
+(and seek a crookedness therein,) This means that they want their path to be crooked and uneven. Then, Allah's statement,
+
+وَهُم بِالْآخِرَةِ هُمْ كَافِرُونَ
+
+(while they are disbelievers in the Hereafter.) This means that they deny the Hereafter and they reject the idea that any of its events will occur, or any of it exists at all. Concerning Allah's statement,
+
+أُولَٰئِكَ لَمْ يَكُونُوا مُعْجِزِينَ فِي الْأَرْضِ وَمَا كَانَ لَهُم مِّن دُونِ اللَّهِ مِنْ أَوْلِيَاءَ
+
+(By no means will they escape on earth, nor have they protectors besides Allah!) This means that these disbelievers are under the power of Allah and His force. They are in His grasp and are subject to His authority. He is Most Able to exact vengeance against them in this life before the coming of the Hereafter. This is like Allah's statement,
+
+إِنَّمَا يُؤَخِّرُهُمْ لِيَوْمٍ تَشْخَصُ فِيهِ الْأَبْصَارُ
+
+(but He gives them respite up to a Day when the eyes will stare in horror.)[14:42] In the Two Sahihs it is recorded that the Prophet ﷺ said,
+
+إِنَّ اللهَ لَيُمْلِي لِلظَّالِمِ حَتَّى إِذَا أَخَذَهُ لَمْ يُفْلِتْهُ
+
+(Verily Allah gives respite to the oppressor until He seizes him, then he will not be able to escape Him.) For this reason Allah says,
+
+يُضَاعَفُ لَهُمُ الْعَذَابُ
+
+(Their torment will be doubled!) This means that the torment will be doubled upon them, because Allah gave them hearing, vision and hearts, but these things did not benefit them. Rather, they were deaf from hearing the truth and blinded away from following it. This is just as Allah has mentioned concerning them when they enter into the Hellfire. Allah says,
+
+وَقَالُوا لَوْ كُنَّا نَسْمَعُ أَوْ نَعْقِلُ مَا كُنَّا فِي أَصْحَابِ السَّعِيرِ
+
+(And they will say: "Had we but listened or used our intelligence, we would not have been among the dwellers of the blazing Fire!")[67:10] Allah also says,
+
+الَّذِينَ كَفَرُوا وَصَدُّوا عَن سَبِيلِ اللَّهِ زِدْنَاهُمْ عَذَابًا فَوْقَ الْعَذَابِ
+
+(Those who disbelieved and hinder (men) from the path of Allah, for them We will add torment to the torment.)[16:88] For this reason they will be punished for every command that they abandoned and every prohibition that they indulged in. Then Allah continues by saying,
+
+أُولَٰئِكَ الَّذِينَ خَسِرُوا أَنفُسَهُمْ وَضَلَّ عَنْهُم مَّا كَانُوا يَفْتَرُونَ
+
+(They are those who have lost their own selves, and that which they invented eluded them.) They lost themselves, meaning that they be made to enter a blazing Fire, where they will be punished, and its torment will not be lifted from them for even the blinking of an eye. This is as Allah said,
+
+كُلَّمَا خَبَتْ زِدْنَاهُمْ سَعِيرًا
+
+(Whenever it abates, We shall increase for them the fierceness of the Fire.)[17:97] Concerning the statement,
+
+وَضَلَّ عَنْهُم
+
+(eluded them.) meaning that it has left them.
+
+مَّا كَانُوا يَفْتَرُونَ
+
+(that which they invented) besides Allah, such as rivals and idols. Yet, these things did not avail them in the slightest. In fact, these things actually caused them great harm. This is as Allah says,
+
+وَإِذَا حُشِرَ النَّاسُ كَانُوا لَهُمْ أَعْدَاءً وَكَانُوا بِعِبَادَتِهِمْ كَافِرِينَ
+
+(And when mankind are gathered, they will become their enemies and will deny their worshipping.)[46:6] Allah says,
+
+إِذْ تَبَرَّأَ الَّذِينَ اتُّبِعُوا مِنَ الَّذِينَ اتَّبَعُوا وَرَأَوُا الْعَذَابَ وَتَقَطَّعَتْ بِهِمُ الْأَسْبَابُ
+
+(When those who were followed disown those who followed (them), and they see the torment, then all their relations will be cut off from them.)[2:166] Likewise, there are many other verses that prove this loss of theirs and their destruction. For this reason Allah says,
+
+لَا جَرَمَ أَنَّهُمْ فِي الْآخِرَةِ هُمُ الْأَخْسَرُونَ
+
+(Certainly, they are those who will be the greatest losers in the Hearafter.)[11:22] In this verse Allah informs about the direction of their end. He explains that they are the greatest losers among mankind in their transaction for the abode of the Hereafter. That is because they exchanged the highest levels (of Paradise) for the lowest levels (of Hell) and they substituted the pleasure of Gardens (of Paradise) for the fierce boiling water (of Hell). They exchanged the drink of sealed nectar with the fierce hot wind, boiling water, and a shade of black smoke. They chose food from the filth of dirty wounds instead of wide-eyed lovely maidens. They preferred Hawiyah (a pit in Hell) instead of lofty castles. They chose the anger of Allah and His punishment over nearness to Him and the blessing of gazing at Him. Therefore, it is no injustice that such people should be the greatest losers in the Hereafter.
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله تعالى :  أُولَئِكَ الَّذِينَ خَسِرُوا أَنْفُسَهُمْ وَضَلَّ عَنْهُمْ مَا كَانُوا يَفْتَرُونَ (21)قال أبو جعفر : يقول تعالى ذكره: هؤلاء الذين هذه صفتهم، هم الذين غبنوا أنفسهم حظوظها من رحمة الله (5)  ، (وضل عنهم ما كانوا يفترون) ، وبطل كذبهم وإفكهم وفريتهم على الله ، (6) بادعائهم له شركاء، فسلك ما كانوا يدعونه إلهًا من دون الله غير مسلكهم، وأخذ طريقًا غير طريقهم، فضَلّ عنهم، لأنه سلك بهم إلى جهنم، وصارت آلهتهم عدمًا لا شيء، لأنها كانت في الدنيا حجارة أو خشبًا أو نحاسًا  ،  أ...
+القول في تأويل قوله تعالى: ﴿أُولَئِكَ الَّذِينَ خَسِرُوا أَنْفُسَهُمْ وَضَلَّ عَنْهُمْ مَا كَانُوا يَفْتَرُونَ (٢١) ﴾
+
+قال أبو جعفر: يقول تعالى ذكره: هؤلاء الذين هذه صفتهم، هم الذين غبنوا أنفسهم حظوظها من رحمة الله [[انظر تفسير " الخسران " فيما سلف من فهارس اللغة (خسر) .]] = ﴿وضل عنهم ما كانوا يفترون﴾ ، وبطل كذبهم وإفكهم وفريتهم على الله، [[انظر تفسير " الضلال " و " الافتراء " فيما سلف من فهارس اللغة (ضلل) ، (فرى) .]] بادعائهم له شركاء، فسلك ما كانوا يدعونه إلهًا من دون الله غير مسلكهم، وأخذ طريقًا غير طريقهم، فضَلّ عنهم، لأنه سلك بهم إلى جهنم، وصارت آلتهم عدمًا لا شيء، لأنها كانت في الدنيا حجارة أو خشبًا أو نحاسًا = أو كان لله وليًّا، فسلك به إلى الجنة، وذلك أيضًا غير مسلكهم، وذلك أيضًا ضلالٌ عنهم.
+
+القول في تأويل قوله تعالى: ﴿لا جَرَمَ أَنَّهُمْ فِي الآخِرَةِ هُمُ الأَخْسَرُونَ (٢٢) ﴾
+
+قال أبو جعفر: يقول تعالى ذكره: حقا أن هؤلاء القوم الذين هذه صفتهم في الدنيا وفي الآخرة هم الأخسرون الذين قد باعوا منازلهم من الجنان بمنازل أهل الجنة من النار ؛ وذلك هو الخسران المبين.
+
+* *
+
+وقد بينا فيما مضى أن معنى قولهم: "جَرمتُ"، كسبت الذنب و"جرمته"، [[انظر ما سلف ٩: ٤٨٣ - ٤٨٥ / ١٠: ٩٥، وكان في المطبوعة: " جرمت "، " أجرمته " بالألف، والصواب ما في المخطوطة، وهو مطابق لما في معاني القرآن.]] وأن العرب كثر استعمالها إياه في مواضع الأيمان، [[انظر ما سلف ٩: ٤٨٣، ولكني لم أجد هناك هذا التفصيل الذي ذكره بعد، ولا أظنه مر شيء منه، إلا أن يكون فاتني تقييده. وأخشى أن يكون سهوًا من أبي جعفر.]] وفي مواضع "لا بد" كقولهم: "لا جرم أنك ذاهب"، بمعنى: "لا بد"، حتى استعملوا ذلك في مواضع التحقيق، فقالوا: "لا جَرَم لتقومن"، بمعنى: حَقًّا لتقومن. [[انظر معاني القرآن للفراء في تفسير هذه الآية، وهذا بعض كلامه.]] فمعنى الكلام: لا منع عن أنهم، ولا صدّ عن أنهم.
 
 ### al-Muyassar (Arabic)
 
@@ -65,7 +338,7 @@ Allah, the Exalted, explains the condition of those who lie against Him and that
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿أُولَئِكَ الَّذِينَ خَسِرُوا أنْفُسهمْ﴾ لِمَصِيرِهِمْ إلى النّار المُؤَبَّدَة عَلَيْهِمْ ﴿وضَلَّ﴾ غابَ ﴿عَنْهُمْ ما كانُوا يَفْتَرُونَ﴾ عَلى اللَّه مِن دَعْوى الشَّرِيك
 
 ---
 
@@ -73,19 +346,106 @@ Allah, the Exalted, explains the condition of those who lie against Him and that
 
 ### Ibn Kathir (English)
 
+And who does more wrong than he who invents a lie against Allah. Such will be brought before their Lord, and the witnesses will say,"These are the ones who lied against their Lord!" No doubt! The curse of Allah is on the wrongdoers (18)Those who hinder (others) from the path of Allah, and seek a crookedness therein, while they are disbelievers in the Hereafter (19)By no means will they escape on earth, nor have they protectors besides Allah! Their torment will be doubled! They could not bear to listen and they used not to see (the truth)(20)They are those who have lost their own selves, and that which they invented eluded them (21)Certainly, they are those who will be the greatest losers in the Hereafter (22)
+
 Those Who invent Lies against Allah and hinder Others from His Path are the Greatest Losers
-Allah, the Exalted, explains the condition of those who lie against Him and that their scandal in the Hereafter will be presented before the heads of creation (for testimony) from the angels, Messengers, Prophets and the rest of mankind and Jinns. This is just as Imam Ahmad recorded from Safwan bin Muhriz. Safwan said, "I was holding the hand of Ibn `Umar when a man was brought to him. The man said, `H...
+
+Allah, the Exalted, explains the condition of those who lie against Him and that their scandal in the Hereafter will be presented before the heads of creation (for testimony) from the angels, Messengers, Prophets and the rest of mankind and Jinns.
+
+This is just as Imam Ahmad recorded from Safwan bin Muhriz. Safwan said, "I was holding the hand of Ibn 'Umar when a man was brought to him. The man said, 'How did you hear the Messenger of Allah ﷺ describe An-Najwa (secret counsel or confidential talk) on the Day of Resurrection' Ibn 'Umar said, 'I heard him say,
+
+إِنَّ اللهَ عزَّ وَجَلَّ يُدْنِي الْمُؤْمِنَ فَيَضَعُ عَلَيْهِ كَنَفَهُ، وَيَسْتُرُهُ مِنَ النَّاسِ، وَيُقَرِّرُهُ بِذُنُوبِهِ وَيَقُولُ لَهُ: أَتَعْرِفُ ذَنْبَ كَذَا؟ أَتَعْرِفُ ذَنْبَ كَذَا؟ أَتَعْرِفُ ذَنْبَ كَذَا؟ حَتَّى إِذَا قَرَّرَهُ بِذُنُوبِهِ وَرَأَى فِي نَفْسِهِ أَنَّهُ قَدْ هَلَكَ قَالَ: فَإِنِّي قَدْ سَتَرْتُهَا عَلَيْكَ فِي الدُّنْيَا وَإِنِّي أَغْفِرُهَا لَكَ الْيَوْمَ
+
+(Verily, Allah, the Mighty and Sublime, will draw near the believer and He will place His shade over him. He will conceal him from the people and make him confess to his sins. He will say to him, "Do you recognize this sin? Do you recognize that sin? Do you recognize such and such sin?" This will continue until He makes him confess to all of his sins and he (the believer) will think to himself that he is about to be destroyed. Then Allah will say, "Verily, I have concealed these sins for you in the worldly life and I have forgiven you for them today." Then he (the believer) will be given his Book of good deeds. As for the disbelievers and the hypocrites, the witnesses will say,)
+
+هَٰؤُلَاءِ الَّذِينَ كَذَبُوا عَلَىٰ رَبِّهِمْ ۚ أَلَا لَعْنَةُ اللَّهِ عَلَى الظَّالِمِينَ
+
+(These are the ones who lied against their Lord! No doubt! The curse of Allah is on the wrongdoers)." Both Al-Bukhari and Muslim recorded this narration in the Two Sahihs. Concerning Allah's statement,
+
+الَّذِينَ يَصُدُّونَ عَن سَبِيلِ اللَّهِ وَيَبْغُونَهَا عِوَجًا
+
+(Those who hinder (others) from the path of Allah, and seek a crookedness therein,) This means that they prevent the people from following the truth and traversing upon the path of guidance that leads to Allah, the Mighty and Sublime. In doing so they also keep the people away from Paradise itself. Allah's statement,
+
+وَيَبْغُونَهَا عِوَجًا
+
+(and seek a crookedness therein,) This means that they want their path to be crooked and uneven. Then, Allah's statement,
+
+وَهُم بِالْآخِرَةِ هُمْ كَافِرُونَ
+
+(while they are disbelievers in the Hereafter.) This means that they deny the Hereafter and they reject the idea that any of its events will occur, or any of it exists at all. Concerning Allah's statement,
+
+أُولَٰئِكَ لَمْ يَكُونُوا مُعْجِزِينَ فِي الْأَرْضِ وَمَا كَانَ لَهُم مِّن دُونِ اللَّهِ مِنْ أَوْلِيَاءَ
+
+(By no means will they escape on earth, nor have they protectors besides Allah!) This means that these disbelievers are under the power of Allah and His force. They are in His grasp and are subject to His authority. He is Most Able to exact vengeance against them in this life before the coming of the Hereafter. This is like Allah's statement,
+
+إِنَّمَا يُؤَخِّرُهُمْ لِيَوْمٍ تَشْخَصُ فِيهِ الْأَبْصَارُ
+
+(but He gives them respite up to a Day when the eyes will stare in horror.)[14:42] In the Two Sahihs it is recorded that the Prophet ﷺ said,
+
+إِنَّ اللهَ لَيُمْلِي لِلظَّالِمِ حَتَّى إِذَا أَخَذَهُ لَمْ يُفْلِتْهُ
+
+(Verily Allah gives respite to the oppressor until He seizes him, then he will not be able to escape Him.) For this reason Allah says,
+
+يُضَاعَفُ لَهُمُ الْعَذَابُ
+
+(Their torment will be doubled!) This means that the torment will be doubled upon them, because Allah gave them hearing, vision and hearts, but these things did not benefit them. Rather, they were deaf from hearing the truth and blinded away from following it. This is just as Allah has mentioned concerning them when they enter into the Hellfire. Allah says,
+
+وَقَالُوا لَوْ كُنَّا نَسْمَعُ أَوْ نَعْقِلُ مَا كُنَّا فِي أَصْحَابِ السَّعِيرِ
+
+(And they will say: "Had we but listened or used our intelligence, we would not have been among the dwellers of the blazing Fire!")[67:10] Allah also says,
+
+الَّذِينَ كَفَرُوا وَصَدُّوا عَن سَبِيلِ اللَّهِ زِدْنَاهُمْ عَذَابًا فَوْقَ الْعَذَابِ
+
+(Those who disbelieved and hinder (men) from the path of Allah, for them We will add torment to the torment.)[16:88] For this reason they will be punished for every command that they abandoned and every prohibition that they indulged in. Then Allah continues by saying,
+
+أُولَٰئِكَ الَّذِينَ خَسِرُوا أَنفُسَهُمْ وَضَلَّ عَنْهُم مَّا كَانُوا يَفْتَرُونَ
+
+(They are those who have lost their own selves, and that which they invented eluded them.) They lost themselves, meaning that they be made to enter a blazing Fire, where they will be punished, and its torment will not be lifted from them for even the blinking of an eye. This is as Allah said,
+
+كُلَّمَا خَبَتْ زِدْنَاهُمْ سَعِيرًا
+
+(Whenever it abates, We shall increase for them the fierceness of the Fire.)[17:97] Concerning the statement,
+
+وَضَلَّ عَنْهُم
+
+(eluded them.) meaning that it has left them.
+
+مَّا كَانُوا يَفْتَرُونَ
+
+(that which they invented) besides Allah, such as rivals and idols. Yet, these things did not avail them in the slightest. In fact, these things actually caused them great harm. This is as Allah says,
+
+وَإِذَا حُشِرَ النَّاسُ كَانُوا لَهُمْ أَعْدَاءً وَكَانُوا بِعِبَادَتِهِمْ كَافِرِينَ
+
+(And when mankind are gathered, they will become their enemies and will deny their worshipping.)[46:6] Allah says,
+
+إِذْ تَبَرَّأَ الَّذِينَ اتُّبِعُوا مِنَ الَّذِينَ اتَّبَعُوا وَرَأَوُا الْعَذَابَ وَتَقَطَّعَتْ بِهِمُ الْأَسْبَابُ
+
+(When those who were followed disown those who followed (them), and they see the torment, then all their relations will be cut off from them.)[2:166] Likewise, there are many other verses that prove this loss of theirs and their destruction. For this reason Allah says,
+
+لَا جَرَمَ أَنَّهُمْ فِي الْآخِرَةِ هُمُ الْأَخْسَرُونَ
+
+(Certainly, they are those who will be the greatest losers in the Hearafter.)[11:22] In this verse Allah informs about the direction of their end. He explains that they are the greatest losers among mankind in their transaction for the abode of the Hereafter. That is because they exchanged the highest levels (of Paradise) for the lowest levels (of Hell) and they substituted the pleasure of Gardens (of Paradise) for the fierce boiling water (of Hell). They exchanged the drink of sealed nectar with the fierce hot wind, boiling water, and a shade of black smoke. They chose food from the filth of dirty wounds instead of wide-eyed lovely maidens. They preferred Hawiyah (a pit in Hell) instead of lofty castles. They chose the anger of Allah and His punishment over nearness to Him and the blessing of gazing at Him. Therefore, it is no injustice that such people should be the greatest losers in the Hereafter.
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله تعالى :  لا جَرَمَ أَنَّهُمْ فِي الآخِرَةِ هُمُ الأَخْسَرُونَ (22)قال أبو جعفر: يقول تعالى ذكره: حقا أن هؤلاء القوم الذين هذه صفتهم في الدنيا وفي الآخرة هم الأخسرون الذين قد باعوا منازلهم من الجنان بمنازل أهل الجنة من النار ; وذلك هو الخسران المبين.* * *وقد بينا فيما مضى أن معنى قولهم: " جَرمتُ"، كسبت الذنب و " جرمته " ، (7) وأن العرب كثر استعمالها إياه في مواضع الأيمان، (8) وفي مواضع " لا بد " كقولهم: " لا جرم أنك ذاهب " ، بمعنى: " لا بد "، حتى استعملوا ذلك في مواضع التحق...
+القول في تأويل قوله تعالى: ﴿أُولَئِكَ الَّذِينَ خَسِرُوا أَنْفُسَهُمْ وَضَلَّ عَنْهُمْ مَا كَانُوا يَفْتَرُونَ (٢١) ﴾
+
+قال أبو جعفر: يقول تعالى ذكره: هؤلاء الذين هذه صفتهم، هم الذين غبنوا أنفسهم حظوظها من رحمة الله [[انظر تفسير " الخسران " فيما سلف من فهارس اللغة (خسر) .]] = ﴿وضل عنهم ما كانوا يفترون﴾ ، وبطل كذبهم وإفكهم وفريتهم على الله، [[انظر تفسير " الضلال " و " الافتراء " فيما سلف من فهارس اللغة (ضلل) ، (فرى) .]] بادعائهم له شركاء، فسلك ما كانوا يدعونه إلهًا من دون الله غير مسلكهم، وأخذ طريقًا غير طريقهم، فضَلّ عنهم، لأنه سلك بهم إلى جهنم، وصارت آلتهم عدمًا لا شيء، لأنها كانت في الدنيا حجارة أو خشبًا أو نحاسًا = أو كان لله وليًّا، فسلك به إلى الجنة، وذلك أيضًا غير مسلكهم، وذلك أيضًا ضلالٌ عنهم.
+
+القول في تأويل قوله تعالى: ﴿لا جَرَمَ أَنَّهُمْ فِي الآخِرَةِ هُمُ الأَخْسَرُونَ (٢٢) ﴾
+
+قال أبو جعفر: يقول تعالى ذكره: حقا أن هؤلاء القوم الذين هذه صفتهم في الدنيا وفي الآخرة هم الأخسرون الذين قد باعوا منازلهم من الجنان بمنازل أهل الجنة من النار ؛ وذلك هو الخسران المبين.
+
+* *
+
+وقد بينا فيما مضى أن معنى قولهم: "جَرمتُ"، كسبت الذنب و"جرمته"، [[انظر ما سلف ٩: ٤٨٣ - ٤٨٥ / ١٠: ٩٥، وكان في المطبوعة: " جرمت "، " أجرمته " بالألف، والصواب ما في المخطوطة، وهو مطابق لما في معاني القرآن.]] وأن العرب كثر استعمالها إياه في مواضع الأيمان، [[انظر ما سلف ٩: ٤٨٣، ولكني لم أجد هناك هذا التفصيل الذي ذكره بعد، ولا أظنه مر شيء منه، إلا أن يكون فاتني تقييده. وأخشى أن يكون سهوًا من أبي جعفر.]] وفي مواضع "لا بد" كقولهم: "لا جرم أنك ذاهب"، بمعنى: "لا بد"، حتى استعملوا ذلك في مواضع التحقيق، فقالوا: "لا جَرَم لتقومن"، بمعنى: حَقًّا لتقومن. [[انظر معاني القرآن للفراء في تفسير هذه الآية، وهذا بعض كلامه.]] فمعنى الكلام: لا منع عن أنهم، ولا صدّ عن أنهم.
 
 ### al-Muyassar (Arabic)
 
-حقًا أنهم في الآخرة أخسر الناس صفقة؛ لأنهم استبدلوا الدركات بالدرجات، فكانوا في جهنم، وذلك هو الخسران المبين.
+حقًّا أنهم في الآخرة أخسر الناس صفقة؛ لأنهم استبدلوا الدركاتِ بالدرجات، فكانوا في جهنم، وذلك هو الخسران المبين.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿لا جَرَمَ﴾ حَقًّا
 
 ---

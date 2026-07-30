@@ -1,6 +1,6 @@
 # Tafsir Cross-Reference Report
 
-Generated: 2026-04-03
+Generated: 2026-07-30
 Ayahs referenced: 5
 Tafsir sources: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), al-Jalalayn (Arabic)
 
@@ -10,12 +10,157 @@ Tafsir sources: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), 
 
 ### Ibn Kathir (English)
 
+So she conceived him, and she withdrew with him to a remote place (22)And the pains of childbirth drove her to the trunk of a date palm. She said: "Would that I had died before this, and had been forgotten and out of sight! (23)
+
 The Conception and the Birth
-Allah, the Exalted, informs about Maryam that when Jibril had spoken to her about what Allah said, she accepted the decree of Allah. Many scholars of the predecessors (Salaf) have mentioned that at this point the angel (who was Jibril) blew into the opening of the garment that she was wearing. Then the breath descended until it entered into her vagina and she conceived the child by the leave of Allah. Muhammad bin Ishaq said, "When she conceived him and filled her...
+
+Allah, the Exalted, informs about Maryam that when Jibril had spoken to her about what Allah said, she accepted the decree of Allah. Many scholars of the predecessors (Salaf) have mentioned that at this point the angel (who was Jibril) blew into the opening of the garment that she was wearing. Then the breath descended until it entered into her vagina and she conceived the child by the leave of Allah.
+
+Muhammad bin Ishaq said, "When she conceived him and filled her water jug (at a well), she returned (to her people). After this, her menstrual bleeding ceased and she experienced what the pregnant woman experiences of sickness, hunger, change of color and there was even a change in the manner of her speech. After this, no people came to visit any house like they did the house of Zakariyya. The word spread among the Children of Israel and the people were saying, 'Verily, her partner (in fornication) was Yusuf, because there was no one else in the temple with her except him.' So she hid herself from the people and placed a veil between herself and them. No one saw her and she did not see anyone else." Allah said;
+
+فَأَجَاءَهَا الْمَخَاضُ إِلَىٰ جِذْعِ النَّخْلَةِ
+
+(And the pains of childbirth drove her to the trunk of a date palm.) This means that her pains of labor compelled her to go to the trunk of a date-palm tree that was at the place where she had secluded herself. The scholars differed over its location. As-Suddi said, "Her place of seclusion was to the east and that was where she would pray at the Sacred House of Jerusalem." Wahb bin Munabbih said, "She ran away and when she reached an area between Ash-Sham and Egypt, she was overcome by labor pains." In another narration from Wahb, he said, "This took place eight miles from the Sacred House of Jerusalem in a village that was known as Bayt Al-Lahm (Bethlehem)." I say, there are Hadiths about the Isra' (Night Journey of the Prophet ﷺ) that are reported by An-Nasa'i on the authority of Anas, and Al-Bayhaqi on the authority of Shadad bin Aws, that say that this took place at Bait Al-Lahm. Allah knows best. This is what is well known that the people all relate from each other. The Christians have no doubt held that the place of this occurrence was Bethlehem and this is what all the people relate. It has been related in a Hadith also, if the Hadith is authentic. Allah says, informing about her,
+
+قَالَتْ يَا لَيْتَنِي مِتُّ قَبْلَ هَٰذَا وَكُنتُ نَسْيًا مَّنسِيًّا
+
+(She said: "Would that I had died before this, and had been forgotten and out of sight!") In this is an evidence of the permissibility to wish for death when a calamity strikes. She knew that she was going to be tested with the birth, the people would not assist her, and they would not believe her story. After she was known as a devout worshipper among them, they now thought that she had become a fornicating whore. She said,
+
+يَا لَيْتَنِي مِتُّ قَبْلَ هَٰذَا
+
+(Would that I had died before this,) She said this to mean before this situation.
+
+وَكُنتُ نَسْيًا مَّنسِيًّا
+
+(and I had been forgotten and out of sight!) This means, "I wish I had not been created and I was nothing." This was mentioned by Ibn 'Abbas. Qatadah said,
+
+وَكُنتُ نَسْيًا مَّنسِيًّا
+
+(and I had been forgotten and out of sight!) "This means something unknown, forgotten and no one knew who I was."
 
 ### al-Tabari (Arabic)
 
-وفي هذا الكلام متروك تُرِك ذكره استغناء بدلالة ما ذكر منه عنه ( فَنَفَخْنَا فِيهِ مِنْ رُوحِنَا بغلام فَحَمَلَتْهُ فَانْتَبَذَتْ بِهِ مَكَانًا قَصِيًّا ) وبذلك جاء تأويل أهل التأويل.* ذكر من قال ذلك:حدثني محمد بن سهل، قال: ثنا إسماعيل بن عبد الكريم، قال: ثني عبد الصمد بن معقِل ابن أخي وهب بن منبه، قال: سمعت وهبا قال: لما أرسل الله جبريل إلى مريم تمثَّل لها بشرا سويا فقالت له:  إِنِّي أَعُوذُ بِالرَّحْمَنِ مِنْكَ إِنْ كُنْتَ تَقِيًّا  ثم نفخ في جيب درعها حتى وصلت النفخة إلى الرحم فاشتملت.حدثنا...
+القول في تأويل قوله تعالى: ﴿قَالَتْ أَنَّى يَكُونُ لِي غُلامٌ وَلَمْ يَمْسَسْنِي بَشَرٌ وَلَمْ أَكُ بَغِيًّا (٢٠) قَالَ كَذَلِكِ قَالَ رَبُّكِ هُوَ عَلَيَّ هَيِّنٌ وَلِنَجْعَلَهُ آيَةً لِلنَّاسِ وَرَحْمَةً مِنَّا وَكَانَ أَمْرًا مَقْضِيًّا (٢١) ﴾
+
+يقول تعالى ذكره: قالت مريم لجبريل ﴿أنَّى يَكُونُ لي غُلامٌ﴾ من أيّ وجه يكون لي غلام؟ أمن قِبَل زوج أتزوّج، فأرزقه منه، أم يبتدئ الله فيّ خلقه ابتداء ﴿وَلَمْ يَمْسَسْنِي بَشَرٌ﴾ من ولد آدم بنكاح حلال ﴿ولَمْ أَكُ﴾ إذ لم يمسسني منهم أحد على وجه الحلال ﴿بَغِيًّا﴾ بغيت ففعلت ذلك من الوجه الحرام، فحملته من زنا.
+
+كما:-
+
+⁕ حدثنا موسى، قال: ثنا عمرو، قال: ثنا أسباط، عن السديّ ﴿وَلَمْ أَكُ بَغِيًّا﴾ يقول: زانية ﴿قَالَ كَذَلِكَ قَالَ رَبُّكَ هُوَ عَلَيَّ هَيِّنٌ﴾ يقول تعالى ذكره: قال لها جبريل: هكذا الأمر كما تصفين، من أنك لم يمسسك بشر ولم تكوني بغيا، ولكن ربك قال: هو عليّ هين: أي خلق الغلام الذي قلت أن أهبه لك عليّ هين لا يتعذّر عليّ خلقه وهبته لك من غير فحل يفتحلك.
+
+﴿وَلِنَجْعَلَهُ آيَةً لِلنَّاسِ﴾ يقول: وكي نجعل الغلام الذي نهبه لك علامة وحجة على خلقي أهبه لك. ﴿وَرَحْمَةً مِنَّا﴾ يقول: ورحمة منا لك، ولمن آمن به وصدقه أخلقه منك ﴿وَكَانَ أَمْرًا مَقْضِيًّا﴾ يقول: وكان خلقه منك أمرا قد قضاه الله، ومضى في حكمه وسابق علمه أنه كائن منك.
+
+كما:-
+
+⁕ حدثنا ابن حميد، قال: ثنا سلمة، عن ابن إسحاق، قال: ثني من لا أتهم، عن وهب بن منبه ﴿وَكَانَ أَمْرًا مَقْضِيًّا﴾ أي أن الله قد عزم على ذلك، فليس منه بدّ.
+
+* *
+
+القول في تأويل قوله تعالى: ﴿فَحَمَلَتْهُ فَانْتَبَذَتْ بِهِ مَكَانًا قَصِيًّا (٢٢) فَأَجَاءَهَا الْمَخَاضُ إِلَى جِذْعِ النَّخْلَةِ قَالَتْ يَا لَيْتَنِي مِتُّ قَبْلَ هَذَا وَكُنْتُ نَسْيًا مَنْسِيًّا (٢٣) ﴾
+
+وفي هذا الكلام متروك تُرِك ذكره استغناء بدلالة ما ذكر منه عنه ﴿فَنَفَخْنَا فِيهِ مِنْ رُوحِنَا بغلام فَحَمَلَتْهُ فَانْتَبَذَتْ بِهِ مَكَانًا قَصِيًّا﴾ وبذلك جاء تأويل أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثني محمد بن سهل، قال: ثنا إسماعيل بن عبد الكريم، قال: ثني عبد الصمد بن معقِل ابن أخي وهب بن منبه، قال: سمعت وهبا قال: لما أرسل الله جبريل إلى مريم تمثَّل لها بشرا سويا فقالت له: ﴿إِنِّي أَعُوذُ بِالرَّحْمَنِ مِنْكَ إِنْ كُنْتَ تَقِيًّا﴾ ثم نفخ في جيب درعها حتى وصلت النفخة إلى الرحم فاشتملت.
+
+⁕ حدثنا ابن حميد، قال: ثنا سلمة، عن ابن إسحاق، عمن لا يتهم، عن وهب بن منبه اليماني، قال: لما قال ذلك، يعني لما قال جبريل ﴿قَالَ كَذَلِكَ قَالَ رَبُّكَ هُوَ عَلَيَّ هَيِّنٌ﴾ .... الآية استسلمت لأمر الله، فنفخ في جيبها ثم انصرف عنها.
+
+⁕ حدثنا موسى، قال: ثنا عمرو، قال: ثنا أسباط، عن السديّ، قال: طرحَتْ عليها جلبابها لما قال جبريل ذلك لها، فأخذ جبريل بكميها، فنفخ في جيب درعها، وكان مشقوقا من قُدامها، فدخلت النفخة صدرها، فحملت، فأتتها أختها امرأة زكريا ليلة تزورها؛ فلما فتحت لها الباب التزمتها، فقالت امرأة زكريا: يا مريم أشعرت أني حبلى، قالت مريم: أشعرت أيضا أني حُبلى، قالت امرأة زكريا: إني وجدت ما في بطني يسجد لما في بطنك، فذلك قوله ﴿مُصَدِّقًا بِكَلِمَةٍ مِنَ اللَّهِ﴾ .
+
+⁕ حدثنا القاسم، قال: ثنا الحسين، قال: ثني حجاج، قال: قال ابن جريج: يقولون: إنه إنما نفخ في جيب درعها وكمها.
+
+* *
+
+وقوله ﴿فَانْتَبَذَتْ بِهِ مَكَانًا قَصِيًّا﴾
+
+يقول: فاعتزلت بالذي حملته، وهو عيسى، وتنحَّت به عن الناس مكانا قصيا يقول: مكانا نائيا قاصيا عن الناس، يقال: هو بمكان قاص، وقصيّ بمعنى واحد، كما قال الراجز:
+
+لَتَقْعُدِنَّ مَقْعَدَ القَصِيِّ ... مِنِّي ذي القاذُوَرةِ المَقْلِيّ [[البيتان لرؤبة ابن العجاج الراجز (انظر فوائد القلائد في مختصر الشواهد للعيني ص ١١٥ - ١١٦) وبعدهما بيتان آخران وهما: أو تحلفي بربك العلي ... أنى أبو ذيا لك الصبي
+
+ومقعد القصي: إما مفعول مطلق. على أن يكون المقعد بمعنى القعود أو على أنه مفعول فيه، أي في مقعد القصي، أي البعيد، من قصا المكان يقصو: إذا بعد. ويقال رجل قاذورة: أي لا يخالط الناس، لسوء خلقه. والمقلي المبغض من قلاه يقليه قلى بالكسر. وهما صفتان للقصي. وفي (لسان العرب: قصا) قصا عنه قصوا، وقصوا وقصا وقصاء، وقصي (بكسر الصاد) : بعد وقصا المكان يقصو قصوا (على فعول) : بعد. والقصي والقاصي: البعيد، والجمع: أقصاء فيهما، كشاهد وأشهاد، ونصير وأنصار.]]
+
+يقال منه: قصا المكان يقصو قصوا: إذا تباعد، وأقصيت الشيء: إذا أبعدته وأخَّرته.
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس، قوله ﴿فَانْتَبَذَتْ بِهِ مَكَانًا قَصِيًّا﴾ قال: مكانا نائيا.
+
+⁕ حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى؛ وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء، جميعا عن ابن أبي نجيح، عن مجاهد، قوله ﴿مَكَانًا قَصِيًّا﴾ قال: قاصيا.
+
+⁕ حدثنا القاسم، قال: ثنا الحسين، قال: ثني حجاج، عن ابن جريج، عن مجاهد، مثله.
+
+⁕ حدثنا موسى، قال: ثنا عمرو، قال: ثنا أسباط، عن السدّي، قال: لما بلغ أن تضع مريم، خرجت إلى جانب المحراب الشرقي منه فأتت أقصاه.
+
+* *
+
+وقوله ﴿فَأَجَاءَهَا الْمَخَاضُ إِلَى جِذْعِ النَّخْلَةِ﴾
+
+يقول تعالى ذكره: فجاء بها المخاض إلى جذع النخلة، ثم قيل: لما أسقطت الباء منه أجاءها، كما يقال: أتيتك بزيد، فإذا حذفت الباء قيل آتيتك زيدا، كما قال جل ثناؤه ﴿آتُونِي زُبَرَ الْحَدِيدِ﴾ والمعنى: بزُبَر الحديد، ولكن الألف مدت لما حذفت الباء، وكما قالوا: خرجت به وأخرجته، وذهبت به وأذهبته، وإنما هو أفعل من المجيء، كما يقال: جاء هو، وأجأته أنا: أي جئت به، ومثل من أمثال العرب": شرّ ما أجاءني إلى مُخَّة عرقوب"، وأشاء ويقال: شرّ ما يُجِيئك ويُشِيئك إلى ذلك ؛ ومنه قول زهير:
+
+وَجارٍ سارَ مُعْتَمِدًا إلَيْكُمْ ... أجاءَتْهُ المَخافَةُ والرَّجاءُ [[البيت لزهير بن أبي سلمى (اللسان: جيأ) . قال: وأجاءه إلى شيء: جاء به، وألجأه، واضطره إليه. قال زهير بن أبي سلمى: " وجار. . . " البيت. قال الفراء: أصله من جئت، وقد وقد جعلته العرب إلجاء. وفي المثل: " شر ما أجاءك إلى مخة العرقوب، وشر ما يجيئك إلى مخة عرقوب " قال الأصمعي: وذلك أن العرقوب لا مخ فيه، وإنما يحوج إليه من لا يقدر على شيء. ومنهم من يقول: شر ما ألجأك: والمعنى واحد. وتميم تقول: شر ما أشاءك.]]
+
+يعنى: جاء به، وأجاءه إلينا وأشاءك: من لغة تميم، وأجاءك من لغة أهل العالية، وإنما تأوّل من تأوّل ذلك بمعنى: ألجأها، لأن المخاض لما جاءها إلى جذع النخلة، كان قد ألجأها إليه.
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى؛ وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء، جميعا عن ابن أبي نجيح، عن مجاهد، قوله ﴿فَأَجَاءَهَا الْمَخَاضُ﴾ قال: المخاض ألجأها.
+
+⁕ حدثنا القاسم، قال: ثنا الحسين، قال: ثني حجاج، عن ابن جريج، عن مجاهد، قال: ألجأها المخاض. قال ابن جريج: وقال ابن عباس: ألجأها المخاض إلى جذع النخلة.
+
+⁕ حدثنا موسى، قال: ثنا عمرو، قال: ثنا أسباط، عن السديّ ﴿فَأَجَاءَهَا الْمَخَاضُ إِلَى جِذْعِ النَّخْلَةِ﴾ يقول: ألجأها المخاض إلى جذع النخلة.
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله ﴿فَأَجَاءَهَا الْمَخَاضُ إِلَى جِذْعِ النَّخْلَةِ﴾ قال: اضطرّها إلى جذع النخلة.
+
+واختلفوا في أيّ المكان الذي انتبذت مريم بعيسى لوضعه، وأجاءَها إليه المخاض، فقال بعضهم: كان ذلك في أدنى أرض مصر، وآخر أرض الشأم، وذلك أنها هربت من قومها لما حملت، فتوجهت نحو مصر هاربة منهم.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا محمد بن سهل، قال: ثنا إسماعيل بن عبد الكريم، قال: ثني عبد الصمد بن معقل، أنه سمع وهب بن منبه يقول: لما اشتملت مريم على الحمل، كان معها قَرابة لها، يقال له يوسف النَّجار، وكانا منطلقين إلى المسجد الذي عند جبل صهيون، وكان ذلك المسجد يومئذ من أعظم مساجدهم، فكانت مريم ويوسف يخدمان في ذلك المسجد، في ذلك الزمان، وكان لخدمته فضل عظيم، فرغبا في ذلك، فكانا يليان معالجته بأنفسهما، تحبيره وكناسته وطهوره، وكل عمل يعمل فيه، وكان لا يعمل من أهل زمانهما أحد أشدّ اجتهادًا وعبادة منهما، فكان أوّل من أنكر حمل مريم صاحِبُها يوسف؛ فلما رأى الذي بها استفظعه، وعظم عليه، وفظع به، فلم يدر على ماذا يضع أمرها، فإذا أراد يوسف أن يتهمها، ذكر صلاحها وبراءتها، وأنها لم تغب عنه ساعة قطّ؛ وإذا أراد أن يبرئها، رأى الذي ظهر عليها؛ فلما اشتدّ عليه ذلك كلمها، فكان أوّل كلامه إياها أن قال لها: إنه قد حدث في نفسي من أمرك أمر قد خشيته، وقد حَرَصت على أن أميته وأكتمه في نفسي، فغلبني ذلك، فرأيت الكلام فيه أشفى لصدري، قالت: فقل قولا جميلا قال: ما كنت لأقول لك إلا ذلك، فحدثيني، هل ينبت زرع بغير بذر؟ قالت: نعم، قال: فهل تنبت شجرة من غير غيث يصيبها؟ قالت: نعم، قال: فهل يكون ولد من غير ذكر؟ قالت: نعم، ألم تعلم أن الله تبارك وتعالى أنبت الزرع يوم خلقه من غير بذر، والبذر يومئذ إنما صار من الزرع الذي أنبته الله من غير بذر؛ أو لم تعلم أن الله بقدرته أنبت الشجر بغير غيث، وأنه جعل بتلك القدرة الغيث حياة للشجر بعد ما خلق كلّ واحد منهما وحده، أم تقول: لن يقدر الله على أن ينبت الشجر حتى استعان عليه بالماء، ولولا ذلك لم يقدر على إنباته؟ قال يوسف لها: لا أقول هذا، ولكني أعلم أن الله تبارك وتعالى بقدرته على ما يشاء يقول لذلك كن فيكون، قالت مريم: أو لم تعلم أن الله تبارك وتعالى خلق آدم وامرأته من غير أنثى ولا ذكر؟ قال: بلى، فلما قالت له ذلك، وقع في نفسه أن الذي بها شيء من الله تبارك وتعالى، وأنه لا يسعه أن يسألها عنه، وذلك لما رأى من كتمانها لذلك، ثم تولى يوسف خدمة المسجد، وكفاها كل عمل كانت تعمل فيه، وذلك لما رأى من رقة جسمها، واصفرار لونها، وكلف وجهها، ونتوّ بطنها، وضعف قوّتها، ودأب نظرها، ولم تكن مريم قبل ذلك كذلك؛ فلما دنا نفاسها أوحى الله إليها أن أخرجي من أرض قومك، فإنهم إن ظفروا بك عيروك، وقتلوا ولدك، فأفضت ذلك إلى أختها، وأختها حينئذ حُبلى، وقد بشرت بيحيى، فلما التقيا وجدت أمّ يحيى ما في بطنها خرّ لوجهه ساجدا معترفا لعيسى، فاحتملها يوسف إلى أرض مصر على حمار له ليس بينها حين ركبت وبين الإكاف شيء، فانطلق يوسف بها حتى إذا كان متاخما لأرض مصر في منقطع بلاد قومها، أدرك مريم النفاس، ألجأها إلى آريّ حمار، يعنى مذود الحمار، وأصل نخلة، وذلك في زمان أحسبه بردا أو حرّا "الشكّ من أبي جعفر"، فاشتدّ على مريم المخاض؛ فلما وجدت منه شدّة التجأت إلى النخلة فاحتضنتها واحتوشتها الملائكة، قاموا صفوفًا محدقين بها.
+
+وقد رُوي عن وهب بن منبه قول آخر غير هذا، وذلك ما:-
+
+⁕ حدثنا به ابن حميد، قال: ثنا سلمة، عن ابن إسحاق عمن لا يتهم، عن وهب بن منبه، قال: لما حضر ولادُها، يعني مريم، ووجدت ما تجد المرأة من الطلق، خرجت من المدينة مغربة من إيلياء، حتى تدركها الولادة إلى قرية من إيلياء على ستة أميال يقال لها بيت لحم، فأجاءها المخاض إلى أصل نخلة إليها مذود بقرة تحتها ربيع من الماء، فوضعته عندها.
+
+وقال آخرون: بل خرجت لما حضر وضعها ما في بطنها إلى جانب المحراب الشرقي منه، فأتت أقصاه فألجأها المخاض إلى جِذْعِ النخلة، وذلك قول السدي، وقد ذكرت الرواية به قبل.
+
+⁕ حدثني زكريا بن يحيى بن أبي زائدة، قال: ثنا حجاج، قال: قال ابن جريج: أخبرني المغيرة بن عثمان، قال: سمعت ابن عباس يقول: ما هي إلا أن حملت فوضعت.
+
+⁕ حدثنا القاسم، قال: ثنا الحسين، قال: ثني حجاج، عن ابن جريج، قال: وأخبرني المغيرة بن عثمان بن عبد الله أنه سمع ابن عباس يقول: ليس إلا أن حملتْ فولدتْ.
+
+* *
+
+وقوله: ﴿يَالَيْتَنِي مِتُّ قَبْلَ هَذَا﴾
+
+ذكر أنها قالت ذلك في حال الطلق استحياء من الناس.
+
+كما:-
+
+⁕ حدثنا موسى، قال: ثنا عمرو، قال: ثنا أسباط، عن السديّ، قال: قالت وهي تطلق من الحبل استحياء من الناس ﴿يَا لَيْتَنِي مِتُّ قَبْلَ هَذَا وَكُنْتُ نَسْيًا مَنْسِيًّا﴾ تقول: يا ليتني مِتُّ قبل هذا الكرب الذي أنا فيه، والحزن بولادتي المولود من غير بَعْل، وكنت نِسيا منسيًّا: شيئا نُسي فتُرك طلبه كخرق الحيض التي إذا ألقيت وطرحت لم تطلب ولم تذكر، وكذلك كل شيء نسي وترك ولم يطلب فهو نسي. ونسي بفتح النون وكسرها لغتان معروفتان من لغات العرب بمعنى واحد، مثل الوَتر والوِتر، والجَسر والجِسر، وبأيتهما قرأ القارئ فمصيب عندنا؛ وبالكسر قرأت عامة قرّاء الحجاز والمدينة والبصرة وبعض أهل الكوفة؛ وبالفتح قرأه أهل الكوفة؛ ومنه قول الشاعر:
+
+كأنَّ لَهَا فِي الأرْضِ نِسْيا تَقُصُّهُ ... إذَا ما غَدَتْ وإنْ تُحَدّثْكَ تَبْلَتِ [[البيت للشنفرى " اللسان: نسي " قال: والنسي: الشيء المنسي الذي لا يذكر. وقال الأخفش: النسي: ما أغفل من شيء حقير ونسي. وقال الزجاج: النسي في كلام العرب الشيء المطروح، لا يؤبه له. وقال الشنفرى: " وكأن لها. . . البيت " قال ابن بري: بلت، فالفتح: إذا قطع، وبلت بالكسر: إذا سكن. وقال الفراء: النسي والنسي (بكسر النون المشددة وفتحها) لغتان فيه تلقيه المرأة من خرق اعتلاها (حيضها) مثل وتر ووتر. قال ولو أراد بالنسي (بالفتح) مصدر النسيان، كان صوابا.]]
+
+ويعني بقوله: تقصه: تطلبه، لأنها كانت نسيته حتى ضاع، ثم ذكرته فطلبته، ويعني بقوله: تبلت: تحسن وتصدّق، ولو وجه النسي إلى المصدر من النسيان كان صوابا، وذلك أن العرب فيما ذكر عنها تقول: نسيته نسيانا ونسيا، كما قال بعضهم من طاعة الربّ وعصي الشيطان، يعني وعصيان، وكما تقول أتيته إتيانا وأتيا، كما قال الشاعر:
+
+أتيُ الفَوَاحِشِ فِيهِمُ مَعْرَوفَةٌ ... وَيَروْنَ فِعْلَ المَكْرُماتِ حَرَامَا [[في (اللسان: أتى) : الإتيان: المجيء. أتيته أتيا وإتيانا وإتيانه ومأتاه: جئته. واستشهد المؤلف بالبيت على أن العرب تقول نسيته نسيانا ونسيا، كما تقول أتيته إتيانا وأتيا. وقوله معروفة: أنث الخبر بالتاء مع أن المبتدأ وهو الأتي مذكر، لكنه لما أضيف إلى الفواحش، وهي جمع فاحشة. اكتسب منها التأنيث فلذلك أنث الخبر بالتاء.]]
+
+* *
+
+وقوله ﴿مَنْسيًّا﴾
+
+مفعول من نسيت الشيء كأنها قالت: ليتني كنت الشيء الذي ألقي، فترك ونسي.
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا القاسم، قال: ثنا الحسين، قال: ثني حجاج، عن ابن جريج، قال: أخبرني عطاء الخراساني عن ابن عباس، 
+
+[TRUNCATED at 12000 chars — 769 more. Consult the source directly before relying on anything near the cut.]
 
 ### al-Muyassar (Arabic)
 
@@ -23,7 +168,7 @@ Allah, the Exalted, informs about Maryam that when Jibril had spoken to her abou
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿فَحَمَلَتْهُ فانْتَبَذَتْ﴾ تَنَحَّتْ ﴿بِهِ مَكانًا قَصِيًّا﴾ بَعِيدًا مِن أهْلها
 
 ---
 
@@ -31,20 +176,165 @@ Allah, the Exalted, informs about Maryam that when Jibril had spoken to her abou
 
 ### Ibn Kathir (English)
 
+So she conceived him, and she withdrew with him to a remote place (22)And the pains of childbirth drove her to the trunk of a date palm. She said: "Would that I had died before this, and had been forgotten and out of sight! (23)
+
 The Conception and the Birth
-Allah, the Exalted, informs about Maryam that when Jibril had spoken to her about what Allah said, she accepted the decree of Allah. Many scholars of the predecessors (Salaf) have mentioned that at this point the angel (who was Jibril) blew into the opening of the garment that she was wearing. Then the breath descended until it entered into her vagina and she conceived the child by the leave of Allah. Muhammad bin Ishaq said, "When she conceived him and filled her...
+
+Allah, the Exalted, informs about Maryam that when Jibril had spoken to her about what Allah said, she accepted the decree of Allah. Many scholars of the predecessors (Salaf) have mentioned that at this point the angel (who was Jibril) blew into the opening of the garment that she was wearing. Then the breath descended until it entered into her vagina and she conceived the child by the leave of Allah.
+
+Muhammad bin Ishaq said, "When she conceived him and filled her water jug (at a well), she returned (to her people). After this, her menstrual bleeding ceased and she experienced what the pregnant woman experiences of sickness, hunger, change of color and there was even a change in the manner of her speech. After this, no people came to visit any house like they did the house of Zakariyya. The word spread among the Children of Israel and the people were saying, 'Verily, her partner (in fornication) was Yusuf, because there was no one else in the temple with her except him.' So she hid herself from the people and placed a veil between herself and them. No one saw her and she did not see anyone else." Allah said;
+
+فَأَجَاءَهَا الْمَخَاضُ إِلَىٰ جِذْعِ النَّخْلَةِ
+
+(And the pains of childbirth drove her to the trunk of a date palm.) This means that her pains of labor compelled her to go to the trunk of a date-palm tree that was at the place where she had secluded herself. The scholars differed over its location. As-Suddi said, "Her place of seclusion was to the east and that was where she would pray at the Sacred House of Jerusalem." Wahb bin Munabbih said, "She ran away and when she reached an area between Ash-Sham and Egypt, she was overcome by labor pains." In another narration from Wahb, he said, "This took place eight miles from the Sacred House of Jerusalem in a village that was known as Bayt Al-Lahm (Bethlehem)." I say, there are Hadiths about the Isra' (Night Journey of the Prophet ﷺ) that are reported by An-Nasa'i on the authority of Anas, and Al-Bayhaqi on the authority of Shadad bin Aws, that say that this took place at Bait Al-Lahm. Allah knows best. This is what is well known that the people all relate from each other. The Christians have no doubt held that the place of this occurrence was Bethlehem and this is what all the people relate. It has been related in a Hadith also, if the Hadith is authentic. Allah says, informing about her,
+
+قَالَتْ يَا لَيْتَنِي مِتُّ قَبْلَ هَٰذَا وَكُنتُ نَسْيًا مَّنسِيًّا
+
+(She said: "Would that I had died before this, and had been forgotten and out of sight!") In this is an evidence of the permissibility to wish for death when a calamity strikes. She knew that she was going to be tested with the birth, the people would not assist her, and they would not believe her story. After she was known as a devout worshipper among them, they now thought that she had become a fornicating whore. She said,
+
+يَا لَيْتَنِي مِتُّ قَبْلَ هَٰذَا
+
+(Would that I had died before this,) She said this to mean before this situation.
+
+وَكُنتُ نَسْيًا مَّنسِيًّا
+
+(and I had been forgotten and out of sight!) This means, "I wish I had not been created and I was nothing." This was mentioned by Ibn 'Abbas. Qatadah said,
+
+وَكُنتُ نَسْيًا مَّنسِيًّا
+
+(and I had been forgotten and out of sight!) "This means something unknown, forgotten and no one knew who I was."
 
 ### al-Tabari (Arabic)
 
-وقوله ( فَأَجَاءَهَا الْمَخَاضُ إِلَى جِذْعِ النَّخْلَةِ ) يقول تعالى ذكره: فجاء بها المخاض إلى جذع النخلة، ثم قيل: لما أسقطت الباء منه أجاءها، كما يقال: أتيتك بزيد، فإذا حذفت الباء قيل آتيتك زيدا ، كما قال جل ثناؤه  آتُونِي زُبَرَ الْحَدِيدِ  والمعنى: بزُبَر الحديد، ولكن الألف مدت لما حذفت الباء، وكما قالوا: خرجت به وأخرجته، وذهبت به وأذهبته، وإنما هو أفعل من المجيء، كما يقال : جاء هو، وأجأته أنا: أي جئت به، ومثل من أمثال العرب " : شرّ ما أجاءني إلى مُخَّة عرقوب "، وأشاء ويقال: شرّ ما يُجِيئ...
+القول في تأويل قوله تعالى: ﴿قَالَتْ أَنَّى يَكُونُ لِي غُلامٌ وَلَمْ يَمْسَسْنِي بَشَرٌ وَلَمْ أَكُ بَغِيًّا (٢٠) قَالَ كَذَلِكِ قَالَ رَبُّكِ هُوَ عَلَيَّ هَيِّنٌ وَلِنَجْعَلَهُ آيَةً لِلنَّاسِ وَرَحْمَةً مِنَّا وَكَانَ أَمْرًا مَقْضِيًّا (٢١) ﴾
+
+يقول تعالى ذكره: قالت مريم لجبريل ﴿أنَّى يَكُونُ لي غُلامٌ﴾ من أيّ وجه يكون لي غلام؟ أمن قِبَل زوج أتزوّج، فأرزقه منه، أم يبتدئ الله فيّ خلقه ابتداء ﴿وَلَمْ يَمْسَسْنِي بَشَرٌ﴾ من ولد آدم بنكاح حلال ﴿ولَمْ أَكُ﴾ إذ لم يمسسني منهم أحد على وجه الحلال ﴿بَغِيًّا﴾ بغيت ففعلت ذلك من الوجه الحرام، فحملته من زنا.
+
+كما:-
+
+⁕ حدثنا موسى، قال: ثنا عمرو، قال: ثنا أسباط، عن السديّ ﴿وَلَمْ أَكُ بَغِيًّا﴾ يقول: زانية ﴿قَالَ كَذَلِكَ قَالَ رَبُّكَ هُوَ عَلَيَّ هَيِّنٌ﴾ يقول تعالى ذكره: قال لها جبريل: هكذا الأمر كما تصفين، من أنك لم يمسسك بشر ولم تكوني بغيا، ولكن ربك قال: هو عليّ هين: أي خلق الغلام الذي قلت أن أهبه لك عليّ هين لا يتعذّر عليّ خلقه وهبته لك من غير فحل يفتحلك.
+
+﴿وَلِنَجْعَلَهُ آيَةً لِلنَّاسِ﴾ يقول: وكي نجعل الغلام الذي نهبه لك علامة وحجة على خلقي أهبه لك. ﴿وَرَحْمَةً مِنَّا﴾ يقول: ورحمة منا لك، ولمن آمن به وصدقه أخلقه منك ﴿وَكَانَ أَمْرًا مَقْضِيًّا﴾ يقول: وكان خلقه منك أمرا قد قضاه الله، ومضى في حكمه وسابق علمه أنه كائن منك.
+
+كما:-
+
+⁕ حدثنا ابن حميد، قال: ثنا سلمة، عن ابن إسحاق، قال: ثني من لا أتهم، عن وهب بن منبه ﴿وَكَانَ أَمْرًا مَقْضِيًّا﴾ أي أن الله قد عزم على ذلك، فليس منه بدّ.
+
+* *
+
+القول في تأويل قوله تعالى: ﴿فَحَمَلَتْهُ فَانْتَبَذَتْ بِهِ مَكَانًا قَصِيًّا (٢٢) فَأَجَاءَهَا الْمَخَاضُ إِلَى جِذْعِ النَّخْلَةِ قَالَتْ يَا لَيْتَنِي مِتُّ قَبْلَ هَذَا وَكُنْتُ نَسْيًا مَنْسِيًّا (٢٣) ﴾
+
+وفي هذا الكلام متروك تُرِك ذكره استغناء بدلالة ما ذكر منه عنه ﴿فَنَفَخْنَا فِيهِ مِنْ رُوحِنَا بغلام فَحَمَلَتْهُ فَانْتَبَذَتْ بِهِ مَكَانًا قَصِيًّا﴾ وبذلك جاء تأويل أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثني محمد بن سهل، قال: ثنا إسماعيل بن عبد الكريم، قال: ثني عبد الصمد بن معقِل ابن أخي وهب بن منبه، قال: سمعت وهبا قال: لما أرسل الله جبريل إلى مريم تمثَّل لها بشرا سويا فقالت له: ﴿إِنِّي أَعُوذُ بِالرَّحْمَنِ مِنْكَ إِنْ كُنْتَ تَقِيًّا﴾ ثم نفخ في جيب درعها حتى وصلت النفخة إلى الرحم فاشتملت.
+
+⁕ حدثنا ابن حميد، قال: ثنا سلمة، عن ابن إسحاق، عمن لا يتهم، عن وهب بن منبه اليماني، قال: لما قال ذلك، يعني لما قال جبريل ﴿قَالَ كَذَلِكَ قَالَ رَبُّكَ هُوَ عَلَيَّ هَيِّنٌ﴾ .... الآية استسلمت لأمر الله، فنفخ في جيبها ثم انصرف عنها.
+
+⁕ حدثنا موسى، قال: ثنا عمرو، قال: ثنا أسباط، عن السديّ، قال: طرحَتْ عليها جلبابها لما قال جبريل ذلك لها، فأخذ جبريل بكميها، فنفخ في جيب درعها، وكان مشقوقا من قُدامها، فدخلت النفخة صدرها، فحملت، فأتتها أختها امرأة زكريا ليلة تزورها؛ فلما فتحت لها الباب التزمتها، فقالت امرأة زكريا: يا مريم أشعرت أني حبلى، قالت مريم: أشعرت أيضا أني حُبلى، قالت امرأة زكريا: إني وجدت ما في بطني يسجد لما في بطنك، فذلك قوله ﴿مُصَدِّقًا بِكَلِمَةٍ مِنَ اللَّهِ﴾ .
+
+⁕ حدثنا القاسم، قال: ثنا الحسين، قال: ثني حجاج، قال: قال ابن جريج: يقولون: إنه إنما نفخ في جيب درعها وكمها.
+
+* *
+
+وقوله ﴿فَانْتَبَذَتْ بِهِ مَكَانًا قَصِيًّا﴾
+
+يقول: فاعتزلت بالذي حملته، وهو عيسى، وتنحَّت به عن الناس مكانا قصيا يقول: مكانا نائيا قاصيا عن الناس، يقال: هو بمكان قاص، وقصيّ بمعنى واحد، كما قال الراجز:
+
+لَتَقْعُدِنَّ مَقْعَدَ القَصِيِّ ... مِنِّي ذي القاذُوَرةِ المَقْلِيّ [[البيتان لرؤبة ابن العجاج الراجز (انظر فوائد القلائد في مختصر الشواهد للعيني ص ١١٥ - ١١٦) وبعدهما بيتان آخران وهما: أو تحلفي بربك العلي ... أنى أبو ذيا لك الصبي
+
+ومقعد القصي: إما مفعول مطلق. على أن يكون المقعد بمعنى القعود أو على أنه مفعول فيه، أي في مقعد القصي، أي البعيد، من قصا المكان يقصو: إذا بعد. ويقال رجل قاذورة: أي لا يخالط الناس، لسوء خلقه. والمقلي المبغض من قلاه يقليه قلى بالكسر. وهما صفتان للقصي. وفي (لسان العرب: قصا) قصا عنه قصوا، وقصوا وقصا وقصاء، وقصي (بكسر الصاد) : بعد وقصا المكان يقصو قصوا (على فعول) : بعد. والقصي والقاصي: البعيد، والجمع: أقصاء فيهما، كشاهد وأشهاد، ونصير وأنصار.]]
+
+يقال منه: قصا المكان يقصو قصوا: إذا تباعد، وأقصيت الشيء: إذا أبعدته وأخَّرته.
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس، قوله ﴿فَانْتَبَذَتْ بِهِ مَكَانًا قَصِيًّا﴾ قال: مكانا نائيا.
+
+⁕ حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى؛ وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء، جميعا عن ابن أبي نجيح، عن مجاهد، قوله ﴿مَكَانًا قَصِيًّا﴾ قال: قاصيا.
+
+⁕ حدثنا القاسم، قال: ثنا الحسين، قال: ثني حجاج، عن ابن جريج، عن مجاهد، مثله.
+
+⁕ حدثنا موسى، قال: ثنا عمرو، قال: ثنا أسباط، عن السدّي، قال: لما بلغ أن تضع مريم، خرجت إلى جانب المحراب الشرقي منه فأتت أقصاه.
+
+* *
+
+وقوله ﴿فَأَجَاءَهَا الْمَخَاضُ إِلَى جِذْعِ النَّخْلَةِ﴾
+
+يقول تعالى ذكره: فجاء بها المخاض إلى جذع النخلة، ثم قيل: لما أسقطت الباء منه أجاءها، كما يقال: أتيتك بزيد، فإذا حذفت الباء قيل آتيتك زيدا، كما قال جل ثناؤه ﴿آتُونِي زُبَرَ الْحَدِيدِ﴾ والمعنى: بزُبَر الحديد، ولكن الألف مدت لما حذفت الباء، وكما قالوا: خرجت به وأخرجته، وذهبت به وأذهبته، وإنما هو أفعل من المجيء، كما يقال: جاء هو، وأجأته أنا: أي جئت به، ومثل من أمثال العرب": شرّ ما أجاءني إلى مُخَّة عرقوب"، وأشاء ويقال: شرّ ما يُجِيئك ويُشِيئك إلى ذلك ؛ ومنه قول زهير:
+
+وَجارٍ سارَ مُعْتَمِدًا إلَيْكُمْ ... أجاءَتْهُ المَخافَةُ والرَّجاءُ [[البيت لزهير بن أبي سلمى (اللسان: جيأ) . قال: وأجاءه إلى شيء: جاء به، وألجأه، واضطره إليه. قال زهير بن أبي سلمى: " وجار. . . " البيت. قال الفراء: أصله من جئت، وقد وقد جعلته العرب إلجاء. وفي المثل: " شر ما أجاءك إلى مخة العرقوب، وشر ما يجيئك إلى مخة عرقوب " قال الأصمعي: وذلك أن العرقوب لا مخ فيه، وإنما يحوج إليه من لا يقدر على شيء. ومنهم من يقول: شر ما ألجأك: والمعنى واحد. وتميم تقول: شر ما أشاءك.]]
+
+يعنى: جاء به، وأجاءه إلينا وأشاءك: من لغة تميم، وأجاءك من لغة أهل العالية، وإنما تأوّل من تأوّل ذلك بمعنى: ألجأها، لأن المخاض لما جاءها إلى جذع النخلة، كان قد ألجأها إليه.
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى؛ وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء، جميعا عن ابن أبي نجيح، عن مجاهد، قوله ﴿فَأَجَاءَهَا الْمَخَاضُ﴾ قال: المخاض ألجأها.
+
+⁕ حدثنا القاسم، قال: ثنا الحسين، قال: ثني حجاج، عن ابن جريج، عن مجاهد، قال: ألجأها المخاض. قال ابن جريج: وقال ابن عباس: ألجأها المخاض إلى جذع النخلة.
+
+⁕ حدثنا موسى، قال: ثنا عمرو، قال: ثنا أسباط، عن السديّ ﴿فَأَجَاءَهَا الْمَخَاضُ إِلَى جِذْعِ النَّخْلَةِ﴾ يقول: ألجأها المخاض إلى جذع النخلة.
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله ﴿فَأَجَاءَهَا الْمَخَاضُ إِلَى جِذْعِ النَّخْلَةِ﴾ قال: اضطرّها إلى جذع النخلة.
+
+واختلفوا في أيّ المكان الذي انتبذت مريم بعيسى لوضعه، وأجاءَها إليه المخاض، فقال بعضهم: كان ذلك في أدنى أرض مصر، وآخر أرض الشأم، وذلك أنها هربت من قومها لما حملت، فتوجهت نحو مصر هاربة منهم.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا محمد بن سهل، قال: ثنا إسماعيل بن عبد الكريم، قال: ثني عبد الصمد بن معقل، أنه سمع وهب بن منبه يقول: لما اشتملت مريم على الحمل، كان معها قَرابة لها، يقال له يوسف النَّجار، وكانا منطلقين إلى المسجد الذي عند جبل صهيون، وكان ذلك المسجد يومئذ من أعظم مساجدهم، فكانت مريم ويوسف يخدمان في ذلك المسجد، في ذلك الزمان، وكان لخدمته فضل عظيم، فرغبا في ذلك، فكانا يليان معالجته بأنفسهما، تحبيره وكناسته وطهوره، وكل عمل يعمل فيه، وكان لا يعمل من أهل زمانهما أحد أشدّ اجتهادًا وعبادة منهما، فكان أوّل من أنكر حمل مريم صاحِبُها يوسف؛ فلما رأى الذي بها استفظعه، وعظم عليه، وفظع به، فلم يدر على ماذا يضع أمرها، فإذا أراد يوسف أن يتهمها، ذكر صلاحها وبراءتها، وأنها لم تغب عنه ساعة قطّ؛ وإذا أراد أن يبرئها، رأى الذي ظهر عليها؛ فلما اشتدّ عليه ذلك كلمها، فكان أوّل كلامه إياها أن قال لها: إنه قد حدث في نفسي من أمرك أمر قد خشيته، وقد حَرَصت على أن أميته وأكتمه في نفسي، فغلبني ذلك، فرأيت الكلام فيه أشفى لصدري، قالت: فقل قولا جميلا قال: ما كنت لأقول لك إلا ذلك، فحدثيني، هل ينبت زرع بغير بذر؟ قالت: نعم، قال: فهل تنبت شجرة من غير غيث يصيبها؟ قالت: نعم، قال: فهل يكون ولد من غير ذكر؟ قالت: نعم، ألم تعلم أن الله تبارك وتعالى أنبت الزرع يوم خلقه من غير بذر، والبذر يومئذ إنما صار من الزرع الذي أنبته الله من غير بذر؛ أو لم تعلم أن الله بقدرته أنبت الشجر بغير غيث، وأنه جعل بتلك القدرة الغيث حياة للشجر بعد ما خلق كلّ واحد منهما وحده، أم تقول: لن يقدر الله على أن ينبت الشجر حتى استعان عليه بالماء، ولولا ذلك لم يقدر على إنباته؟ قال يوسف لها: لا أقول هذا، ولكني أعلم أن الله تبارك وتعالى بقدرته على ما يشاء يقول لذلك كن فيكون، قالت مريم: أو لم تعلم أن الله تبارك وتعالى خلق آدم وامرأته من غير أنثى ولا ذكر؟ قال: بلى، فلما قالت له ذلك، وقع في نفسه أن الذي بها شيء من الله تبارك وتعالى، وأنه لا يسعه أن يسألها عنه، وذلك لما رأى من كتمانها لذلك، ثم تولى يوسف خدمة المسجد، وكفاها كل عمل كانت تعمل فيه، وذلك لما رأى من رقة جسمها، واصفرار لونها، وكلف وجهها، ونتوّ بطنها، وضعف قوّتها، ودأب نظرها، ولم تكن مريم قبل ذلك كذلك؛ فلما دنا نفاسها أوحى الله إليها أن أخرجي من أرض قومك، فإنهم إن ظفروا بك عيروك، وقتلوا ولدك، فأفضت ذلك إلى أختها، وأختها حينئذ حُبلى، وقد بشرت بيحيى، فلما التقيا وجدت أمّ يحيى ما في بطنها خرّ لوجهه ساجدا معترفا لعيسى، فاحتملها يوسف إلى أرض مصر على حمار له ليس بينها حين ركبت وبين الإكاف شيء، فانطلق يوسف بها حتى إذا كان متاخما لأرض مصر في منقطع بلاد قومها، أدرك مريم النفاس، ألجأها إلى آريّ حمار، يعنى مذود الحمار، وأصل نخلة، وذلك في زمان أحسبه بردا أو حرّا "الشكّ من أبي جعفر"، فاشتدّ على مريم المخاض؛ فلما وجدت منه شدّة التجأت إلى النخلة فاحتضنتها واحتوشتها الملائكة، قاموا صفوفًا محدقين بها.
+
+وقد رُوي عن وهب بن منبه قول آخر غير هذا، وذلك ما:-
+
+⁕ حدثنا به ابن حميد، قال: ثنا سلمة، عن ابن إسحاق عمن لا يتهم، عن وهب بن منبه، قال: لما حضر ولادُها، يعني مريم، ووجدت ما تجد المرأة من الطلق، خرجت من المدينة مغربة من إيلياء، حتى تدركها الولادة إلى قرية من إيلياء على ستة أميال يقال لها بيت لحم، فأجاءها المخاض إلى أصل نخلة إليها مذود بقرة تحتها ربيع من الماء، فوضعته عندها.
+
+وقال آخرون: بل خرجت لما حضر وضعها ما في بطنها إلى جانب المحراب الشرقي منه، فأتت أقصاه فألجأها المخاض إلى جِذْعِ النخلة، وذلك قول السدي، وقد ذكرت الرواية به قبل.
+
+⁕ حدثني زكريا بن يحيى بن أبي زائدة، قال: ثنا حجاج، قال: قال ابن جريج: أخبرني المغيرة بن عثمان، قال: سمعت ابن عباس يقول: ما هي إلا أن حملت فوضعت.
+
+⁕ حدثنا القاسم، قال: ثنا الحسين، قال: ثني حجاج، عن ابن جريج، قال: وأخبرني المغيرة بن عثمان بن عبد الله أنه سمع ابن عباس يقول: ليس إلا أن حملتْ فولدتْ.
+
+* *
+
+وقوله: ﴿يَالَيْتَنِي مِتُّ قَبْلَ هَذَا﴾
+
+ذكر أنها قالت ذلك في حال الطلق استحياء من الناس.
+
+كما:-
+
+⁕ حدثنا موسى، قال: ثنا عمرو، قال: ثنا أسباط، عن السديّ، قال: قالت وهي تطلق من الحبل استحياء من الناس ﴿يَا لَيْتَنِي مِتُّ قَبْلَ هَذَا وَكُنْتُ نَسْيًا مَنْسِيًّا﴾ تقول: يا ليتني مِتُّ قبل هذا الكرب الذي أنا فيه، والحزن بولادتي المولود من غير بَعْل، وكنت نِسيا منسيًّا: شيئا نُسي فتُرك طلبه كخرق الحيض التي إذا ألقيت وطرحت لم تطلب ولم تذكر، وكذلك كل شيء نسي وترك ولم يطلب فهو نسي. ونسي بفتح النون وكسرها لغتان معروفتان من لغات العرب بمعنى واحد، مثل الوَتر والوِتر، والجَسر والجِسر، وبأيتهما قرأ القارئ فمصيب عندنا؛ وبالكسر قرأت عامة قرّاء الحجاز والمدينة والبصرة وبعض أهل الكوفة؛ وبالفتح قرأه أهل الكوفة؛ ومنه قول الشاعر:
+
+كأنَّ لَهَا فِي الأرْضِ نِسْيا تَقُصُّهُ ... إذَا ما غَدَتْ وإنْ تُحَدّثْكَ تَبْلَتِ [[البيت للشنفرى " اللسان: نسي " قال: والنسي: الشيء المنسي الذي لا يذكر. وقال الأخفش: النسي: ما أغفل من شيء حقير ونسي. وقال الزجاج: النسي في كلام العرب الشيء المطروح، لا يؤبه له. وقال الشنفرى: " وكأن لها. . . البيت " قال ابن بري: بلت، فالفتح: إذا قطع، وبلت بالكسر: إذا سكن. وقال الفراء: النسي والنسي (بكسر النون المشددة وفتحها) لغتان فيه تلقيه المرأة من خرق اعتلاها (حيضها) مثل وتر ووتر. قال ولو أراد بالنسي (بالفتح) مصدر النسيان، كان صوابا.]]
+
+ويعني بقوله: تقصه: تطلبه، لأنها كانت نسيته حتى ضاع، ثم ذكرته فطلبته، ويعني بقوله: تبلت: تحسن وتصدّق، ولو وجه النسي إلى المصدر من النسيان كان صوابا، وذلك أن العرب فيما ذكر عنها تقول: نسيته نسيانا ونسيا، كما قال بعضهم من طاعة الربّ وعصي الشيطان، يعني وعصيان، وكما تقول أتيته إتيانا وأتيا، كما قال الشاعر:
+
+أتيُ الفَوَاحِشِ فِيهِمُ مَعْرَوفَةٌ ... وَيَروْنَ فِعْلَ المَكْرُماتِ حَرَامَا [[في (اللسان: أتى) : الإتيان: المجيء. أتيته أتيا وإتيانا وإتيانه ومأتاه: جئته. واستشهد المؤلف بالبيت على أن العرب تقول نسيته نسيانا ونسيا، كما تقول أتيته إتيانا وأتيا. وقوله معروفة: أنث الخبر بالتاء مع أن المبتدأ وهو الأتي مذكر، لكنه لما أضيف إلى الفواحش، وهي جمع فاحشة. اكتسب منها التأنيث فلذلك أنث الخبر بالتاء.]]
+
+* *
+
+وقوله ﴿مَنْسيًّا﴾
+
+مفعول من نسيت الشيء كأنها قالت: ليتني كنت الشيء الذي ألقي، فترك ونسي.
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا القاسم، قال: ثنا الحسين، قال: ثني حجاج، عن ابن جريج، قال: أخبرني عطاء الخراساني عن ابن عباس، 
+
+[TRUNCATED at 12000 chars — 769 more. Consult the source directly before relying on anything near the cut.]
 
 ### al-Muyassar (Arabic)
 
-فألجأها طَلْقُ الحمل إلى جذع النخلة فقالت: يا ليتني متُّ قبل هذا اليوم، وكنت شيئًا لا يُعْرَف، ولا يُذْكَر، ولا يُدْرَى مَن أنا؟
+فألجأها طَلْقُ الحمل إلى جذع النخلة فقالت: يا ليتني متُّ قبل هذا اليوم، وكنت شيئًا لا يُعْرَف، ولا يُذْكَر، ولا يُدْرى مَن أنا؟
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿فَأَجاءَها﴾ جاءَ بِها ﴿المَخاض﴾ وجَع الوِلادَة ﴿إلى جِذْع النَّخْلَة﴾ لِتَعْتَمِد عَلَيْهِ فَوَلَدَتْ والحَمْل والتَّصْوِير والوِلادَة فِي ساعَة ﴿قالَتْ يا﴾ لِلتَّنْبِيهِ ﴿لَيْتَنِي مِتُّ قَبْل هَذا﴾ الأَمْر ﴿وكُنْت نَسْيًا مَنسِيًّا﴾ شَيْئًا مَتْرُوكًا لا يُعْرَف ولا يُذْكَر
 
 ---
 
@@ -52,18 +342,229 @@ Allah, the Exalted, informs about Maryam that when Jibril had spoken to her abou
 
 ### Ibn Kathir (English)
 
+Then he cried unto her from below her, saying: "Grieve not: your Lord has provided a Sariy under you. (24)"And shake the trunk of date palm towards you, it will let fall fresh ripe dates upon you. (25)"So eat and drink and rejoice. And if you see any human being, say: 'Verily, I have vowed a fast for the Most Gracious so I shall not speak to any human being today., (26)
+
 What was said to Her after the Birth
+
 Some reciters read the Ayah as,
-مَنْ تَحْتِهَا
+
+(مَن تَـحْتَهَآ)
+
 (Who was below her) Meaning the one who was below her called to her. Others recited it as,
-مِن تَحْتِهَآ
-(from below her) With the meaning of a preposition (from) instead of a pronoun (who). The scholars of Tafsir have differed over the interpretation of who was calling out. Al-`Awfi and others reported from Ibn `Abbas that he said,
-فَنَادَاهَا مِن تَحْتِهَآ
-(Then cried unto her from below her,) "This is refer...
+
+مِن تَحْتِهَا
+
+(from below her) With the meaning of a preposition (from) instead of a pronoun (who). The scholars of Tafsir have differed over the interpretation of who was calling out. Al-'Awfi and others reported from Ibn 'Abbas that he said,
+
+فَنَادَاهَا مِن تَحْتِهَا
+
+(Then cried unto her from below her,) "This is referring to Jibrilbecause 'Isa did not speak until she brought him to her people." Similarly, Sa'id bin Jubayr, Ad-Dahhak, 'Amr bin Maymun, As-Suddi and Qatadah all said, "Verily, this is referring to the angel Jibril." This means that he (Jibril) called out to her from the bottom of the valley. Mujahid said,
+
+فَنَادَاهَا مِن تَحْتِهَا
+
+(Then cried unto her from below her,) "This is referring to 'Isa bin Maryam." Likewise, 'Abdur-Razzaq reported from Ma'mar that Qatadah said that Al-Hasan said, "This is referring to her son ('Isa)." This is also one of the two opinions reported from Sa'id bin Jubayr – that it was her son, 'Isa, speaking. Sa'id said, "Have you not heard Allah saying,
+
+فَأَشَارَتْ إِلَيْهِ
+
+(Then she pointed to him.) Ibn Zayd and Ibn Jarir preferred this opinion in his Tafsir. Allah said,
+
+أَلَّا تَحْزَنِي
+
+(Grieve not:) He called to her saying, "Do not grieve."
+
+قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّا
+
+(your Lord has provided a Sariy under you.) Sufyan Ath-Thawri and Shu'bah reported from Abu Ishaq that Al-Bara' bin 'Azib said, s
+
+قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّا
+
+(your Lord has provided a Sariy under you.) "This means a small stream." Likewise, 'Ali bin Abi Talhah reported that Ibn 'Abbas said, "Sariy means a river." 'Amr bin Maymun held the same view, as he said, "It means a river for her to drink from." Mujahid said, "It means river in the Syrian language." Sa'id bin Jubayr said, "Sariy is a small flowing river." Others said that Sariy refers to 'Isa. This was said by Al-Hasan, Ar-Rabi' bin Anas, Muhammad bin 'Abbad bin Ja'far, and it is one of the two opinions reported from Qatadah. It is also the view of 'Abdur-Rahman bin Zayd bin Aslam. However, the first view seems to be the most obvious meaning. For this reason, Allah said after it,
+
+وَهُزِّي إِلَيْكِ بِجِذْعِ النَّخْلَةِ
+
+(And shake the trunk of date palm towards you,) meaning, "Grab the trunk of the date-palm tree and shake it towards yourself." Therefore, Allah blessed her by giving her food and drink. Then He said,
+
+تُسَاقِطْ عَلَيْكِ رُطَبًا جَنِيًّا - فَكُلِي وَاشْرَبِي وَقَرِّي عَيْنًا
+
+(It will let fall fresh ripe dates upon you. So eat and drink and rejoice.) Meaning to be happy. This is why 'Amr bin Maymun said, "Nothing is better for the woman confined in childbed than dried dates and fresh dates." Then he recited this noble Ayah. Concerning Allah's statement,
+
+فَإِمَّا تَرَيِنَّ مِنَ الْبَشَرِ أَحَدًا
+
+(And if you see any human being,) This means any person that you see,
+
+فَقُولِي إِنِّي نَذَرْتُ لِلرَّحْمَٰنِ صَوْمًا فَلَنْ أُكَلِّمَ الْيَوْمَ إِنسِيًّا
+
+(Say: 'Verily, I have vowed a fast unto the Most Gracious (Allah) so I shall not speak to any human being today.') Meaning, by signaling with gestures, not a statement by speech. This is so that she does not negate her oath itself,
+
+فَلَنْ أُكَلِّمَ الْيَوْمَ إِنسِيًّا
+
+(so I shall not speak to any human being today.) Anas bin Malik commented on,
+
+إِنِّي نَذَرْتُ لِلرَّحْمَٰنِ صَوْمًا
+
+(I have vowed a fast unto the Most Gracious) He said; "A vow of silence." Likewise said Ibn 'Abbas and Ad-Dahhak. The meaning here is that in their Law, when fasting, it was forbidden for them to eat and speak. As-Suddi, Qatadah and 'Abdur-Rahman bin Zayd have all stated this view. 'Abdur-Rahman bin Zayd said, "When 'Isa said to Maryam,
+
+أَلَّا تَحْزَنِي
+
+(Grieve not) She said, 'How can I not grieve when you are with me and I have no husband nor am I an owned slave woman What excuse do I have with the people? Woe unto me, if I had only died before this, and had been a thing forgotten and unknown.' Then, 'Isa said to her, 'I will suffice you with a statement,
+
+فَإِمَّا تَرَيِنَّ مِنَ الْبَشَرِ أَحَدًا فَقُولِي إِنِّي نَذَرْتُ لِلرَّحْمَٰنِ صَوْمًا فَلَنْ أُكَلِّمَ الْيَوْمَ إِنسِيًّا
+
+(And if you see any human being, say: 'Verily, I have vowed a fast unto the Most Gracious so I shall not speak to any human being this day.')' All of this is from the speech of 'Isa to his mother." Wahb said the same as well.
 
 ### al-Tabari (Arabic)
 
-اختلفت القرّاء في قراءة ذلك، فقرأته عامة قرّاء الحجاز والعراق ( فَنَادَاهَا مِنْ تَحْتِهَا ) بمعنى: فناداها جبرائيل من بين يديها على اختلاف منهم في تأويله; فمن متأوّل منهم إذا قرأه ( مِنْ تَحْتِهَا ) كذلك; ومن متأوّل منهم أنه عيسى ، وأنه ناداها من تحتها بعد ما ولدته. وقرأ ذلك بعض قرّاء أهل الكوفة والبصرة ( فَنَادَاها مَنْ تَحْتَها ) وبفتح التاءين من تحت، بمعنى: فناداها الذي تحتها، على أن الذي تحتها عيسى، وأنه الذي نادى أمه.* ذكر من قال: الذي ناداها من تحتها المَلَك ، حدثنا ابن حميد، قال: ثنا ...
+القول في تأويل قوله تعالى: ﴿فَنَادَاهَا مِنْ تَحْتِهَا أَلا تَحْزَنِي قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّا (٢٤) وَهُزِّي إِلَيْكِ بِجِذْعِ النَّخْلَةِ تُسَاقِطْ عَلَيْكِ رُطَبًا جَنِيًّا (٢٥) ﴾
+
+اختلفت القرّاء في قراءة ذلك، فقرأته عامة قرّاء الحجاز والعراق ﴿فَنَادَاهَا مِنْ تَحْتِهَا﴾ بمعنى: فناداها جبرائيل من بين يديها على اختلاف منهم في تأويله؛ فمن متأوّل منهم إذا قرأه ﴿مِنْ تَحْتِهَا﴾ كذلك؛ ومن متأوّل منهم أنه عيسى، وأنه ناداها من تحتها بعد ما ولدته. وقرأ ذلك بعض قرّاء أهل الكوفة والبصرة ﴿فَنَادَاها مَنْ تَحْتَها﴾ وبفتح التاءين من تحت، بمعنى: فناداها الذي تحتها، على أن الذي تحتها عيسى، وأنه الذي نادى أمه.
+
+ذكر من قال: الذي ناداها من تحتها المَلَك، حدثنا ابن حميد، قال: ثنا يحيى بن واضح، قال: ثنا عبد المؤمن، قال: سمعت ابن عباس قرأ: ﴿فَنَادَاهَا مِنْ تَحْتِهَا﴾ يعني: جبرائيل.
+
+⁕ حدثني أحمد بن عبد الله أحمد بن يونس، قال: أخبرنا عَبثر، قال: ثنا حصين، عن عمرو بن ميمون الأوْديّ، قال: الذي ناداها الملك.
+
+⁕ حدثنا ابن بشار، قال: ثنا أبو أحمد، قال: ثنا سفيان، عن الأعمش، عن إبراهيم، عن علقمة، أنه قرأ: فخاطبها من تحتها.
+
+⁕ حدثنا أبو هشام الرفاعي، قال: ثنا يحيى، قال: ثنا سفيان، عن الأعمش، عن إبراهيم، عن علقمة أنه قرأ: فخاطبها من تحتها.
+
+⁕ حدثنا الرفاعي، قال: ثنا وكيع، عن أبيه، عن الأعمش، عن إبراهيم، عن علقمة أنه قرأها كذلك.
+
+⁕ حدثنا ابن بشار، قال: ثنا أبو عامر، قال: ثنا سفيان، عن جويبر، عن الضحاك ﴿فَنَادَاهَا مِنْ تَحْتِهَا﴾ قال: جبرائيل.
+
+⁕ حدثنا ابن بشار، قال: ثنا أبو عاصم، عن سفيان، عن جويبر، عن الضحاك، مثله.
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة ﴿فَنَادَاهَا مِنْ تَحْتِهَا﴾ : أي من تحت النخلة.
+
+⁕ حدثنا موسى، قال: ثنا عمرو، قال: ثنا أسباط، عن السديّ ﴿فَنَادَاهَا﴾ جبرائيل ﴿مِنْ تَحْتِهَا أَلا تَحْزَنِي﴾ .
+
+⁕ حدثنا الحسن، قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر، عن قتادة، في قوله ﴿فَنَادَاهَا مِنْ تَحْتِهَا﴾ قال: المَلَك.
+
+⁕ حُدثت عن الحسين، قال: سمعت أبا معاذ يقول: أخبرنا عبيد، قال: سمعت الضحاك يقول في قوله ﴿فَنَادَاهَا مِنْ تَحْتِهَا﴾ يعني: جبرائيل كان أسفل منها.
+
+⁕ حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس، ﴿فَنَادَاهَا مِنْ تَحْتِهَا﴾ قال: ناداها جبرائيل ولم يتكلم عيسى حتى أتت قومها.
+
+ذكر من قال: ناداها عيسى ﷺ: حدثنا محمد بن بشار، قال: ثنا أبو عاصم، قال: ثنا سفيان، عن ابن أبي نجيح، عن مجاهد، قوله ﴿فَنَادَاهَا مِنْ تَحْتِهَا﴾ قال: عيسى ابن مريم.
+
+⁕ حدثنا ابن بشار، قال: ثنا أبو عامر، قال: ثنا سفيان، عن ابن أبي نجيح، عن مجاهد، مثله.
+
+⁕ حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء، جميعا عن ابن أبي نجيح، عن مجاهد، مثله.
+
+⁕ حدثنا القاسم، قال: ثنا الحسين، قال: ثني حجاج، عن ابن جريج، عن مجاهد، مثله.
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، عن الحسن ﴿فَنَادَاهَا مِنْ تَحْتِهَا﴾ ابنها.
+
+⁕ حدثنا الحسن، قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر، عن قتادة، قال: قال الحسن: هو ابنها.
+
+⁕ حدثنا ابن حميد، قال: ثنا سلمة، عن ابن إسحاق، عمن لا يتهم، عن وهب بن منبه ﴿فَنَادَاهَا﴾ عيسى ﴿مِنْ تَحْتِهَا أَلا تَحْزَنِي﴾ .
+
+⁕ حدثني أبو حميد أحمد بن المغيرة الحمصي، قال: ثنا عثمان بن سعيد، قال: ثنا محمد بن مهاجر، عن ثابت بن عجلان، عن سعيد بن جبير، قوله ﴿فَنَادَاهَا مِنْ تَحْتِهَا﴾ قال عيسى: أما تسمع الله يقول ﴿فَأَشَارَتْ إِلَيْهِ﴾ .
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد ﴿فَنَادَاهَا مِنْ تَحْتِهَا﴾ قال: عيسى؛ ناداها ﴿مِنْ تَحْتِهَا أَلا تَحْزَنِي قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّا﴾ .
+
+⁕ حُدثت عن عبد الله بن أبي جعفر، عن أبيه، عن الربيع بن أنس، عن أبي العالية الرياحيّ، عن أبيّ بن كعب قال: الذي خاطبها هو الذي حملته في جوفها ودخل من فيها.
+
+قال أبو جعفر: وأولى القولين في ذلك عندنا قول من قال: الذي ناداها ابنها عيسى، وذلك أنه من كناية ذكره أقرب منه من ذكر جبرائيل، فردّه على الذي هو أقرب إليه أولى من ردّه على الذي هو أبعد منه. ألا ترى في سياق قوله ﴿فَحَمَلَتْهُ فَانْتَبَذَتْ بِهِ مَكَانًا قَصِيًّا﴾ يعني به: فحملت عيسى فانتبذت به، ثم قيل: فناداها نسقا على ذلك من ذكر عيسى والخبر عنه. ولعلة أخرى، وهي قوله ﴿فَأَشَارَتْ إِلَيْهِ﴾ ولم تشر إليه إن شاء الله ألا وقد علمت أنه ناطق في حاله تلك، وللذي كانت قد عرفت ووثقت به منه بمخاطبته إياها بقوله لها ﴿أَنْ لا تَحْزَنِي قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّا﴾ وما أخبر الله عنه أنه قال لها أشيري للقوم إليه، ولو كان ذلك قولا من جبرائيل، لكان خليقا أن يكون في ظاهر الخبر، مبينا أن عيسى سينطق، ويحتجّ عنها للقوم، وأمر منه لها بأن تشير إليه للقوم إذا سألوها عن حالها وحاله.
+
+فإذا كان ذلك هو الصواب من التأويل الذي بينا، فبين أن كلتا القراءتين، أعني ﴿مِنْ تَحْتِهَا﴾ بالكسر، ﴿وَمَنْ تَحْتَها﴾ بالفتح صواب. وذلك أنه إذا قرئ بالكسر كان في قوله ﴿فَنَادَاهَا﴾ ذكر من عيسى: وإذا قرئ ﴿مَنْ تَحْتَها﴾ بالفتح كان الفعل لمن وهو عيسى. فتأويل الكلام إذن: فناداها المولود من تحتها أن لا تحزني يا أمه ﴿قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّا﴾ .
+
+كما:-
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله ﴿فَنَادَاهَا مِنْ تَحْتِهَا أَلا تَحْزَنِي﴾ قالت: وكيف لا أحزن وأنت معي، لا ذات زوج فأقول من زوج، ولا مملوكة فأقول من سيدي، أي شيء عذري عند الناس ﴿يَالَيْتَنِي مِتُّ قَبْلَ هَذَا وَكُنْتُ نَسْيًا مَنْسِيًّا﴾ فقال لها عيسى: أنا أكفيك الكلام.
+
+واختلف أهل التأويل في المعنيّ بالسريّ في هذا الموضع، فقال بعضهم: عني به: النهر الصغير.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا ابن بشار، قال: ثنا أبو عاصم، قال: ثنا سفيان، عن أبي إسحاق، عن البراء بن عازب ﴿قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّا﴾ قال: الجدول.
+
+⁕ حدثنا ابن بشار، قال: ثنا محمد بن جعفر، قال: ثنا شعبة، عن أبي إسحاق، قال: سمعت البراء يقول في هذه الآية ﴿قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّا﴾ قال: الجدول.
+
+⁕ حدثني عليّ، قال: ثنا عبد الله، قال: ثني معاوية، عن عليّ، عن ابن عباس، قوله ﴿قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّا﴾ وهو نهر عيسى.
+
+⁕ حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس، قوله ﴿قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّا﴾ قال: السريّ: النهر الذي كان تحت مريم حين ولدته كان يجري يسمى سَرِيا.
+
+⁕ حدثني أبو حصين، قال: ثنا عَبثر، قال: ثنا حصين، عن عمرو بن ميمون الأوْدِيّ، قال في هذه الآية ﴿قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّا﴾ قال: السريّ: نهر يُشرب منه.
+
+⁕ حدثنا يعقوب وأبو كريب، قالا ثنا هشيم، قال: أخبرنا حصين، عن عمرو بن ميمون، في قوله: ﴿قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّا﴾ قال: هو الجدول.
+
+⁕ حدثنا محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى؛ وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء، جميعا عن ابن أبي نجيح، عن مجاهد ﴿سَرِيًّا﴾ قال: نهر بالسريانية.
+
+⁕ حدثنا القاسم، قال: ثنا الحسين، قال: ثني حجاج، عن ابن جريج، عن مجاهد، مثله، قال ابن جريج: نهر إلى جنبها.
+
+⁕ حدثنا محمد بن بشار، قال: ثنا أبو داود، قال: ثنا شعبة، عن قتادة، عن الحسن، في قوله ﴿قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّا﴾ قال: كان سريا فقال حميد بن عبد الرحمن: إن السريّ: الجدول، فقال: غلبتنا عليك الأمراء.
+
+⁕ حدثنا القاسم، قال: ثنا الحسين، قال: ثنا أبو بكر بن عياش، عن أبي حصين، عن سعيد بن جبير ﴿قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّا﴾ قال: هو الجدول، النهر الصغير، وهو بالنبطية: السريّ.
+
+⁕ حدثني أبو حميد الحمصي، قال: ثنا عثمان بن سعيد، قال: ثنا محمد بن مهاجر، عن ثابت بن عجلان قال: سألت سعيد بن جبير، عن السريّ، قال: نهر.
+
+⁕ حدثنا أبو كريب، قال: ثنا هشيم، عن مغيرة، عن إبراهيم، قال: النهر الصغير.
+
+⁕ حدثني يعقوب، قال: ثنا هشيم، قال: أخبرنا مغيرة، عن إبراهيم، أنه قال: هو النهر الصغير: يعني الجدول، يعني قوله ﴿قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّا﴾ .
+
+⁕ حدثنا ابن وكيع، قال: ثنا أبي، عن سلمة بن نبيط، عن الضحاك، قال: جدول صغير بالسريانية.
+
+⁕ حدثنا عن الحسين، قال: سمعت أبا معاذ، قال: أخبرنا عبيد بن سليمان، قال: سمعت الضحاك يقول في قوله ﴿تَحْتَكِ سَرِيًّا﴾ الجدول الصغير من الأنهار.
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة ﴿قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّا﴾ والسريّ: هو الجدول، تسميه أهل الحجاز.
+
+⁕ حدثنا الحسن، قال: ثنا عبد الرزاق، قال: أخبرنا معمر، في قوله ﴿سَرِيًّا﴾ قال: هو جدول.
+
+⁕ حدثنا ابن حميد، قال: ثنا سلمة، عن ابن إسحاق، عمن لا يتهم وعن وهب بن منبه ﴿قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّا﴾ يعني ربيع الماء.
+
+- حدثنا موسى بن هارون، قال: ثنا عمرو، قال: ثنا أسباط، عن السدي ﴿قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّا﴾ والسريّ: هو النهر.
+
+وقال آخرون: عنى به عيسى.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، عن الحسن ﴿قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّا﴾ والسريّ: عيسى نفسه.
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله ﴿قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّا﴾ يعني نفسه، قال: وأيّ شيء أسرى منه، قال: والذين يقولون: السريّ: هو النهر ليس كذلك النهر، لو كان النهر لكان إنما يكون إلى جنبها، ولا يكون النهر تحتها.
+
+قال أبو جعفر: وأولى القولين في ذلك عندي بالصواب قيل من قال: عنى به الجدول، وذلك أنه أعلمها ما قد أتاها الله من الماء الذي جعله عندها، وقال لها ﴿وَهُزِّي إِلَيْكِ بِجِذْعِ النَّخْلَةِ تُسَاقِطْ عَلَيْكِ رُطَبًا جَنِيًّا فَكُلِي﴾ من هذا الرطب ﴿وَاشْرَبي﴾ من هذا الماء ﴿وَقَرِّي عَيْنًا﴾ بولدك، والسريّ معروف من كلام العرب أنه النهر الصغير؛ ومنه قول لبيد:
+
+فَتَوَسَّطا عُرْضَ السَّريّ وَصَدَّعا ... مَسْجُورَةٌ مُتَجاوِرًا قُلامُها [[البيت للبيد بن ربيعة العامري، من معلقته المشهورة (انظره في شرح الزوزني على المعلقات السبع، وفي شرح التبريزي على القصائد العشر، وفي جمهرة أشعار العرب ص ٦٣ - ٧٤) . قال صاحب الجمهرة: توسطا؛: أي دخلا وسطه. وعرض السري: أي ناحية النهر، وأهل الحجاز. يسمون النهر سريا. وصدعا: أي فرقا. ومسجورة: أي عينا مملوءة؛ قال الله تعالى: (والبحر المسجور) وأقلامها، ويروى قلامها، وهو ضرب من الشجر الحمض، والأقلام: قصب اليراع. وقال الزوزني يقول: فتو سط العير والأتان جانب النهر الصغير، وشقا عينا مملوءة ماء، قد تجاوز قلامها، أي قد كثر هذا الضرب من النبت عليها. وتحرير المعنى: أنهما قد ورد عينا ممتلئة ماء، فدخلا فيها من عرض نهرها، وقد تجاور نبتها. والشاهد في قوله " السري " وهو اسم للنهر الصغير.]]
+
+ويُروى فينا [[كذا في المخطوطة بغير نقط، ولم نقف على هذه الرواية.]] مسجورة، ويُروى أيضًا: فغادرا.
+
+* *
+
+قوله ﴿وَهُزِّي إِلَيْكِ بِجِذْعِ النَّخْلَةِ﴾
+
+ذكر أن الجذع كان جذعًا يابسًا، وأمرها أن تهزّه، وذلك في أيام الشتاء، وهزّها إياه كان تحريكه.
+
+كما:-
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله ﴿وَهُزِّي إِلَيْكِ بِجِذْعِ النَّخْلَةِ﴾ قال: حركيها.
+
+ذكر من قال ذلك:
+
+⁕ حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس ﴿وَهُزِّي إِلَيْكِ بِجِذْعِ النَّخْلَةِ﴾ قال: كان جذعًا يابسًا، فقال لها: هزّيه ﴿تُسَاقِطْ عَلَيْكِ رُطَبًا جَنِيًّا﴾ .
+
+⁕ حدثنا ابن حميد، قال: ثنا يحيى بن واضح، قال: ثنا عبد المؤمن، قال: سمعت أبا نهيك يقول: كانت نخلة يابسة.
+
+⁕ حدثني محمد بن سهل بن عسكر، قال: ثنا إسماعيل بن عبد الكريم، قال: ثني عبد الصمد بن معقل قال: سمعت وهب بن منبه يقول في قوله: ﴿وَهُزِّي إِلَيْكِ بِجِذْعِ النَّخْلَةِ﴾ فكان الرطب يتساقط عليها وذلك في الشتاء.
+
+⁕ حدثنا موسى بن هارون، قال: ثنا عمرو، قال: ثنا أسباط، عن السديّ ﴿وَهُزِّي إِلَيْكِ بِجِذْعِ النَّخْلَةِ﴾ وكان جذعا منها مقطوعا فهزّته، فإذا هو نخلة، وأجري لها في المحراب نهر، فتساقطت النخلة رطبًا جنيا فقال لها ﴿فَكُلِي وَاشْرَبِي وَقَرِّي عَيْنًا﴾ .
+
+وقال آخرون: بل معنى ذلك: وهزّي إليك بالنخلة.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا ابن بشار، قال: ثنا عبد الرحمن، قال: ثنا سفيان، قال: قال مجاهد ﴿وَهُزِّي إِلَيْكِ بِجِذْعِ النَّخْلَةِ﴾ قال: النخلة.
+
+⁕ حدثنا ابن بشار، قال: ثنا أبو أحمد، قال: ثنا سفيان، عن عيسى بن ميمون، عن مجاهد، في قوله ﴿وَهُزِّي إِلَيْكِ بِجِذْعِ النَّخْلَةِ﴾ قال: العجوة.
+
+⁕ حدثني يعقوب، قال: ثنا هشيم، قال: أخبرنا حصين، عن عمرو بن ميمون، أنه تلا هذه الآية: ﴿وَهُزِّي إِلَيْكِ بِجِذْعِ النَّخْلَةِ تُسَاقِطْ عَلَيْكِ رُطَبًا جَنِيًّا﴾ قال: فقال عمرو: ما من شيء خير للنفساء من التمر والرطب، وأدخلت الباء في قوله: ﴿وَهُزِّي إِلَيْكِ بِجِذْعِ النَّخْلَةِ﴾ كما يقال: زوجتك فلانة، وزوّجتك بفلانة؛ وكما قال ﴿تَنْبُتُ بِالدُّهْنِ﴾ بمعنى: تنبت الدهن.
+
+وإنما تفعل العرب ذلك، لأن الأفعال تكنى عنها بالباء، فيقال إذا كنيت عن ضربت عمرا: فعلت به، وكذلك كلّ فعل، فلذلك تدخل الباء في الأفعال وتخرج، فيكون دخولها وخروجها بمعنى، فمعنى الكلام: وهزِّي إليك جذع النخلة، وقد كان لو أن المفسرين كانوا فسروه وكذلك: وهزِّي إليك رطبًا بجذع النخلة، بمعنى: على جذع النخلة، وجها صحيحا، ولكن لست أحفظ عن أحد أنه فسره كذلك. ومن الشاهد على دخول الباء في موضع دخولها وخروجها منه سواء قول الشاعر:
+
+بِوَادٍ يَمانٍ يُنْبِتُ السِّدْرَ صَدْرُهُ ... وأسْفَلُهُ بالمَرْخِ والشَّبَهانِ [[في (اللسان: سدر) السدر: شجر النبق، واحدتها سدرة. . . والمرخ: شجر كثير الورى سريعه. . وفي (اللسان: شبه) الشبهان: نبت يشبه الثمام، ويقال له الشبهان. قال ابن سيده: والشبهان (بالتحريك) والشبهان (بضمتين) : ضرب من العضاه؛ وقيل: هو الثمام، يمانية، حكاها ابن دريد. قال رجل من عبد القيس * بواد يمان ينبت الشث صدره *
+
+. . . البيت. قال ابن بري قال أبو عبيدة: البيت للأحول اليشكري. واسمه يعلى. قال: وتقديره: وينبت أسفله المرخ. على أن تكون الباء زائدة.
+
+وإن شئت قدرته: وينبت أسفله بالمرخ، فتكون الباء للتعدي
+
+[TRUNCATED at 12000 chars — 3226 more. Consult the source directly before relying on anything near the cut.]
 
 ### al-Muyassar (Arabic)
 
@@ -71,7 +572,7 @@ Some reciters read the Ayah as,
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿فَناداها مِن تَحْتها﴾ أيْ: جِبْرِيل وكانَ أسْفَل مِنها ﴿ألّا تَحْزَنِي قَدْ جَعَلَ رَبّك تَحْتك سَرِيًّا﴾ نَهْر ماء كانَ قَدْ انْقَطَعَ
 
 ---
 
@@ -79,26 +580,237 @@ Some reciters read the Ayah as,
 
 ### Ibn Kathir (English)
 
+Then he cried unto her from below her, saying: "Grieve not: your Lord has provided a Sariy under you. (24)"And shake the trunk of date palm towards you, it will let fall fresh ripe dates upon you. (25)"So eat and drink and rejoice. And if you see any human being, say: 'Verily, I have vowed a fast for the Most Gracious so I shall not speak to any human being today., (26)
+
 What was said to Her after the Birth
+
 Some reciters read the Ayah as,
-مَنْ تَحْتِهَا
+
+(مَن تَـحْتَهَآ)
+
 (Who was below her) Meaning the one who was below her called to her. Others recited it as,
-مِن تَحْتِهَآ
-(from below her) With the meaning of a preposition (from) instead of a pronoun (who). The scholars of Tafsir have differed over the interpretation of who was calling out. Al-`Awfi and others reported from Ibn `Abbas that he said,
-فَنَادَاهَا مِن تَحْتِهَآ
-(Then cried unto her from below her,) "This is refer...
+
+مِن تَحْتِهَا
+
+(from below her) With the meaning of a preposition (from) instead of a pronoun (who). The scholars of Tafsir have differed over the interpretation of who was calling out. Al-'Awfi and others reported from Ibn 'Abbas that he said,
+
+فَنَادَاهَا مِن تَحْتِهَا
+
+(Then cried unto her from below her,) "This is referring to Jibrilbecause 'Isa did not speak until she brought him to her people." Similarly, Sa'id bin Jubayr, Ad-Dahhak, 'Amr bin Maymun, As-Suddi and Qatadah all said, "Verily, this is referring to the angel Jibril." This means that he (Jibril) called out to her from the bottom of the valley. Mujahid said,
+
+فَنَادَاهَا مِن تَحْتِهَا
+
+(Then cried unto her from below her,) "This is referring to 'Isa bin Maryam." Likewise, 'Abdur-Razzaq reported from Ma'mar that Qatadah said that Al-Hasan said, "This is referring to her son ('Isa)." This is also one of the two opinions reported from Sa'id bin Jubayr – that it was her son, 'Isa, speaking. Sa'id said, "Have you not heard Allah saying,
+
+فَأَشَارَتْ إِلَيْهِ
+
+(Then she pointed to him.) Ibn Zayd and Ibn Jarir preferred this opinion in his Tafsir. Allah said,
+
+أَلَّا تَحْزَنِي
+
+(Grieve not:) He called to her saying, "Do not grieve."
+
+قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّا
+
+(your Lord has provided a Sariy under you.) Sufyan Ath-Thawri and Shu'bah reported from Abu Ishaq that Al-Bara' bin 'Azib said, s
+
+قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّا
+
+(your Lord has provided a Sariy under you.) "This means a small stream." Likewise, 'Ali bin Abi Talhah reported that Ibn 'Abbas said, "Sariy means a river." 'Amr bin Maymun held the same view, as he said, "It means a river for her to drink from." Mujahid said, "It means river in the Syrian language." Sa'id bin Jubayr said, "Sariy is a small flowing river." Others said that Sariy refers to 'Isa. This was said by Al-Hasan, Ar-Rabi' bin Anas, Muhammad bin 'Abbad bin Ja'far, and it is one of the two opinions reported from Qatadah. It is also the view of 'Abdur-Rahman bin Zayd bin Aslam. However, the first view seems to be the most obvious meaning. For this reason, Allah said after it,
+
+وَهُزِّي إِلَيْكِ بِجِذْعِ النَّخْلَةِ
+
+(And shake the trunk of date palm towards you,) meaning, "Grab the trunk of the date-palm tree and shake it towards yourself." Therefore, Allah blessed her by giving her food and drink. Then He said,
+
+تُسَاقِطْ عَلَيْكِ رُطَبًا جَنِيًّا - فَكُلِي وَاشْرَبِي وَقَرِّي عَيْنًا
+
+(It will let fall fresh ripe dates upon you. So eat and drink and rejoice.) Meaning to be happy. This is why 'Amr bin Maymun said, "Nothing is better for the woman confined in childbed than dried dates and fresh dates." Then he recited this noble Ayah. Concerning Allah's statement,
+
+فَإِمَّا تَرَيِنَّ مِنَ الْبَشَرِ أَحَدًا
+
+(And if you see any human being,) This means any person that you see,
+
+فَقُولِي إِنِّي نَذَرْتُ لِلرَّحْمَٰنِ صَوْمًا فَلَنْ أُكَلِّمَ الْيَوْمَ إِنسِيًّا
+
+(Say: 'Verily, I have vowed a fast unto the Most Gracious (Allah) so I shall not speak to any human being today.') Meaning, by signaling with gestures, not a statement by speech. This is so that she does not negate her oath itself,
+
+فَلَنْ أُكَلِّمَ الْيَوْمَ إِنسِيًّا
+
+(so I shall not speak to any human being today.) Anas bin Malik commented on,
+
+إِنِّي نَذَرْتُ لِلرَّحْمَٰنِ صَوْمًا
+
+(I have vowed a fast unto the Most Gracious) He said; "A vow of silence." Likewise said Ibn 'Abbas and Ad-Dahhak. The meaning here is that in their Law, when fasting, it was forbidden for them to eat and speak. As-Suddi, Qatadah and 'Abdur-Rahman bin Zayd have all stated this view. 'Abdur-Rahman bin Zayd said, "When 'Isa said to Maryam,
+
+أَلَّا تَحْزَنِي
+
+(Grieve not) She said, 'How can I not grieve when you are with me and I have no husband nor am I an owned slave woman What excuse do I have with the people? Woe unto me, if I had only died before this, and had been a thing forgotten and unknown.' Then, 'Isa said to her, 'I will suffice you with a statement,
+
+فَإِمَّا تَرَيِنَّ مِنَ الْبَشَرِ أَحَدًا فَقُولِي إِنِّي نَذَرْتُ لِلرَّحْمَٰنِ صَوْمًا فَلَنْ أُكَلِّمَ الْيَوْمَ إِنسِيًّا
+
+(And if you see any human being, say: 'Verily, I have vowed a fast unto the Most Gracious so I shall not speak to any human being this day.')' All of this is from the speech of 'Isa to his mother." Wahb said the same as well.
 
 ### al-Tabari (Arabic)
 
-كما حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله ( وَهُزِّي إِلَيْكِ بِجِذْعِ النَّخْلَةِ ) قال: حركيها.* ذكر من قال ذلك:حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس ( وَهُزِّي إِلَيْكِ بِجِذْعِ النَّخْلَةِ ) قال: كان جذعًا يابسًا، فقال لها: هزّيه ( تُسَاقِطْ عَلَيْكِ رُطَبًا جَنِيًّا ).حدثنا ابن حميد، قال: ثنا يحيى بن واضح، قال: ثنا عبد المؤمن، قال: سمعت أبا نهيك يقول: كانت نخلة يابسة.حدثني محمد بن سهل بن عسكر، قال: ثنا إسماعيل بن عبد الكريم...
+القول في تأويل قوله تعالى: ﴿فَنَادَاهَا مِنْ تَحْتِهَا أَلا تَحْزَنِي قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّا (٢٤) وَهُزِّي إِلَيْكِ بِجِذْعِ النَّخْلَةِ تُسَاقِطْ عَلَيْكِ رُطَبًا جَنِيًّا (٢٥) ﴾
+
+اختلفت القرّاء في قراءة ذلك، فقرأته عامة قرّاء الحجاز والعراق ﴿فَنَادَاهَا مِنْ تَحْتِهَا﴾ بمعنى: فناداها جبرائيل من بين يديها على اختلاف منهم في تأويله؛ فمن متأوّل منهم إذا قرأه ﴿مِنْ تَحْتِهَا﴾ كذلك؛ ومن متأوّل منهم أنه عيسى، وأنه ناداها من تحتها بعد ما ولدته. وقرأ ذلك بعض قرّاء أهل الكوفة والبصرة ﴿فَنَادَاها مَنْ تَحْتَها﴾ وبفتح التاءين من تحت، بمعنى: فناداها الذي تحتها، على أن الذي تحتها عيسى، وأنه الذي نادى أمه.
+
+ذكر من قال: الذي ناداها من تحتها المَلَك، حدثنا ابن حميد، قال: ثنا يحيى بن واضح، قال: ثنا عبد المؤمن، قال: سمعت ابن عباس قرأ: ﴿فَنَادَاهَا مِنْ تَحْتِهَا﴾ يعني: جبرائيل.
+
+⁕ حدثني أحمد بن عبد الله أحمد بن يونس، قال: أخبرنا عَبثر، قال: ثنا حصين، عن عمرو بن ميمون الأوْديّ، قال: الذي ناداها الملك.
+
+⁕ حدثنا ابن بشار، قال: ثنا أبو أحمد، قال: ثنا سفيان، عن الأعمش، عن إبراهيم، عن علقمة، أنه قرأ: فخاطبها من تحتها.
+
+⁕ حدثنا أبو هشام الرفاعي، قال: ثنا يحيى، قال: ثنا سفيان، عن الأعمش، عن إبراهيم، عن علقمة أنه قرأ: فخاطبها من تحتها.
+
+⁕ حدثنا الرفاعي، قال: ثنا وكيع، عن أبيه، عن الأعمش، عن إبراهيم، عن علقمة أنه قرأها كذلك.
+
+⁕ حدثنا ابن بشار، قال: ثنا أبو عامر، قال: ثنا سفيان، عن جويبر، عن الضحاك ﴿فَنَادَاهَا مِنْ تَحْتِهَا﴾ قال: جبرائيل.
+
+⁕ حدثنا ابن بشار، قال: ثنا أبو عاصم، عن سفيان، عن جويبر، عن الضحاك، مثله.
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة ﴿فَنَادَاهَا مِنْ تَحْتِهَا﴾ : أي من تحت النخلة.
+
+⁕ حدثنا موسى، قال: ثنا عمرو، قال: ثنا أسباط، عن السديّ ﴿فَنَادَاهَا﴾ جبرائيل ﴿مِنْ تَحْتِهَا أَلا تَحْزَنِي﴾ .
+
+⁕ حدثنا الحسن، قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر، عن قتادة، في قوله ﴿فَنَادَاهَا مِنْ تَحْتِهَا﴾ قال: المَلَك.
+
+⁕ حُدثت عن الحسين، قال: سمعت أبا معاذ يقول: أخبرنا عبيد، قال: سمعت الضحاك يقول في قوله ﴿فَنَادَاهَا مِنْ تَحْتِهَا﴾ يعني: جبرائيل كان أسفل منها.
+
+⁕ حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس، ﴿فَنَادَاهَا مِنْ تَحْتِهَا﴾ قال: ناداها جبرائيل ولم يتكلم عيسى حتى أتت قومها.
+
+ذكر من قال: ناداها عيسى ﷺ: حدثنا محمد بن بشار، قال: ثنا أبو عاصم، قال: ثنا سفيان، عن ابن أبي نجيح، عن مجاهد، قوله ﴿فَنَادَاهَا مِنْ تَحْتِهَا﴾ قال: عيسى ابن مريم.
+
+⁕ حدثنا ابن بشار، قال: ثنا أبو عامر، قال: ثنا سفيان، عن ابن أبي نجيح، عن مجاهد، مثله.
+
+⁕ حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء، جميعا عن ابن أبي نجيح، عن مجاهد، مثله.
+
+⁕ حدثنا القاسم، قال: ثنا الحسين، قال: ثني حجاج، عن ابن جريج، عن مجاهد، مثله.
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، عن الحسن ﴿فَنَادَاهَا مِنْ تَحْتِهَا﴾ ابنها.
+
+⁕ حدثنا الحسن، قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر، عن قتادة، قال: قال الحسن: هو ابنها.
+
+⁕ حدثنا ابن حميد، قال: ثنا سلمة، عن ابن إسحاق، عمن لا يتهم، عن وهب بن منبه ﴿فَنَادَاهَا﴾ عيسى ﴿مِنْ تَحْتِهَا أَلا تَحْزَنِي﴾ .
+
+⁕ حدثني أبو حميد أحمد بن المغيرة الحمصي، قال: ثنا عثمان بن سعيد، قال: ثنا محمد بن مهاجر، عن ثابت بن عجلان، عن سعيد بن جبير، قوله ﴿فَنَادَاهَا مِنْ تَحْتِهَا﴾ قال عيسى: أما تسمع الله يقول ﴿فَأَشَارَتْ إِلَيْهِ﴾ .
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد ﴿فَنَادَاهَا مِنْ تَحْتِهَا﴾ قال: عيسى؛ ناداها ﴿مِنْ تَحْتِهَا أَلا تَحْزَنِي قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّا﴾ .
+
+⁕ حُدثت عن عبد الله بن أبي جعفر، عن أبيه، عن الربيع بن أنس، عن أبي العالية الرياحيّ، عن أبيّ بن كعب قال: الذي خاطبها هو الذي حملته في جوفها ودخل من فيها.
+
+قال أبو جعفر: وأولى القولين في ذلك عندنا قول من قال: الذي ناداها ابنها عيسى، وذلك أنه من كناية ذكره أقرب منه من ذكر جبرائيل، فردّه على الذي هو أقرب إليه أولى من ردّه على الذي هو أبعد منه. ألا ترى في سياق قوله ﴿فَحَمَلَتْهُ فَانْتَبَذَتْ بِهِ مَكَانًا قَصِيًّا﴾ يعني به: فحملت عيسى فانتبذت به، ثم قيل: فناداها نسقا على ذلك من ذكر عيسى والخبر عنه. ولعلة أخرى، وهي قوله ﴿فَأَشَارَتْ إِلَيْهِ﴾ ولم تشر إليه إن شاء الله ألا وقد علمت أنه ناطق في حاله تلك، وللذي كانت قد عرفت ووثقت به منه بمخاطبته إياها بقوله لها ﴿أَنْ لا تَحْزَنِي قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّا﴾ وما أخبر الله عنه أنه قال لها أشيري للقوم إليه، ولو كان ذلك قولا من جبرائيل، لكان خليقا أن يكون في ظاهر الخبر، مبينا أن عيسى سينطق، ويحتجّ عنها للقوم، وأمر منه لها بأن تشير إليه للقوم إذا سألوها عن حالها وحاله.
+
+فإذا كان ذلك هو الصواب من التأويل الذي بينا، فبين أن كلتا القراءتين، أعني ﴿مِنْ تَحْتِهَا﴾ بالكسر، ﴿وَمَنْ تَحْتَها﴾ بالفتح صواب. وذلك أنه إذا قرئ بالكسر كان في قوله ﴿فَنَادَاهَا﴾ ذكر من عيسى: وإذا قرئ ﴿مَنْ تَحْتَها﴾ بالفتح كان الفعل لمن وهو عيسى. فتأويل الكلام إذن: فناداها المولود من تحتها أن لا تحزني يا أمه ﴿قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّا﴾ .
+
+كما:-
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله ﴿فَنَادَاهَا مِنْ تَحْتِهَا أَلا تَحْزَنِي﴾ قالت: وكيف لا أحزن وأنت معي، لا ذات زوج فأقول من زوج، ولا مملوكة فأقول من سيدي، أي شيء عذري عند الناس ﴿يَالَيْتَنِي مِتُّ قَبْلَ هَذَا وَكُنْتُ نَسْيًا مَنْسِيًّا﴾ فقال لها عيسى: أنا أكفيك الكلام.
+
+واختلف أهل التأويل في المعنيّ بالسريّ في هذا الموضع، فقال بعضهم: عني به: النهر الصغير.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا ابن بشار، قال: ثنا أبو عاصم، قال: ثنا سفيان، عن أبي إسحاق، عن البراء بن عازب ﴿قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّا﴾ قال: الجدول.
+
+⁕ حدثنا ابن بشار، قال: ثنا محمد بن جعفر، قال: ثنا شعبة، عن أبي إسحاق، قال: سمعت البراء يقول في هذه الآية ﴿قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّا﴾ قال: الجدول.
+
+⁕ حدثني عليّ، قال: ثنا عبد الله، قال: ثني معاوية، عن عليّ، عن ابن عباس، قوله ﴿قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّا﴾ وهو نهر عيسى.
+
+⁕ حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس، قوله ﴿قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّا﴾ قال: السريّ: النهر الذي كان تحت مريم حين ولدته كان يجري يسمى سَرِيا.
+
+⁕ حدثني أبو حصين، قال: ثنا عَبثر، قال: ثنا حصين، عن عمرو بن ميمون الأوْدِيّ، قال في هذه الآية ﴿قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّا﴾ قال: السريّ: نهر يُشرب منه.
+
+⁕ حدثنا يعقوب وأبو كريب، قالا ثنا هشيم، قال: أخبرنا حصين، عن عمرو بن ميمون، في قوله: ﴿قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّا﴾ قال: هو الجدول.
+
+⁕ حدثنا محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى؛ وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء، جميعا عن ابن أبي نجيح، عن مجاهد ﴿سَرِيًّا﴾ قال: نهر بالسريانية.
+
+⁕ حدثنا القاسم، قال: ثنا الحسين، قال: ثني حجاج، عن ابن جريج، عن مجاهد، مثله، قال ابن جريج: نهر إلى جنبها.
+
+⁕ حدثنا محمد بن بشار، قال: ثنا أبو داود، قال: ثنا شعبة، عن قتادة، عن الحسن، في قوله ﴿قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّا﴾ قال: كان سريا فقال حميد بن عبد الرحمن: إن السريّ: الجدول، فقال: غلبتنا عليك الأمراء.
+
+⁕ حدثنا القاسم، قال: ثنا الحسين، قال: ثنا أبو بكر بن عياش، عن أبي حصين، عن سعيد بن جبير ﴿قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّا﴾ قال: هو الجدول، النهر الصغير، وهو بالنبطية: السريّ.
+
+⁕ حدثني أبو حميد الحمصي، قال: ثنا عثمان بن سعيد، قال: ثنا محمد بن مهاجر، عن ثابت بن عجلان قال: سألت سعيد بن جبير، عن السريّ، قال: نهر.
+
+⁕ حدثنا أبو كريب، قال: ثنا هشيم، عن مغيرة، عن إبراهيم، قال: النهر الصغير.
+
+⁕ حدثني يعقوب، قال: ثنا هشيم، قال: أخبرنا مغيرة، عن إبراهيم، أنه قال: هو النهر الصغير: يعني الجدول، يعني قوله ﴿قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّا﴾ .
+
+⁕ حدثنا ابن وكيع، قال: ثنا أبي، عن سلمة بن نبيط، عن الضحاك، قال: جدول صغير بالسريانية.
+
+⁕ حدثنا عن الحسين، قال: سمعت أبا معاذ، قال: أخبرنا عبيد بن سليمان، قال: سمعت الضحاك يقول في قوله ﴿تَحْتَكِ سَرِيًّا﴾ الجدول الصغير من الأنهار.
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة ﴿قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّا﴾ والسريّ: هو الجدول، تسميه أهل الحجاز.
+
+⁕ حدثنا الحسن، قال: ثنا عبد الرزاق، قال: أخبرنا معمر، في قوله ﴿سَرِيًّا﴾ قال: هو جدول.
+
+⁕ حدثنا ابن حميد، قال: ثنا سلمة، عن ابن إسحاق، عمن لا يتهم وعن وهب بن منبه ﴿قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّا﴾ يعني ربيع الماء.
+
+- حدثنا موسى بن هارون، قال: ثنا عمرو، قال: ثنا أسباط، عن السدي ﴿قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّا﴾ والسريّ: هو النهر.
+
+وقال آخرون: عنى به عيسى.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، عن الحسن ﴿قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّا﴾ والسريّ: عيسى نفسه.
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله ﴿قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّا﴾ يعني نفسه، قال: وأيّ شيء أسرى منه، قال: والذين يقولون: السريّ: هو النهر ليس كذلك النهر، لو كان النهر لكان إنما يكون إلى جنبها، ولا يكون النهر تحتها.
+
+قال أبو جعفر: وأولى القولين في ذلك عندي بالصواب قيل من قال: عنى به الجدول، وذلك أنه أعلمها ما قد أتاها الله من الماء الذي جعله عندها، وقال لها ﴿وَهُزِّي إِلَيْكِ بِجِذْعِ النَّخْلَةِ تُسَاقِطْ عَلَيْكِ رُطَبًا جَنِيًّا فَكُلِي﴾ من هذا الرطب ﴿وَاشْرَبي﴾ من هذا الماء ﴿وَقَرِّي عَيْنًا﴾ بولدك، والسريّ معروف من كلام العرب أنه النهر الصغير؛ ومنه قول لبيد:
+
+فَتَوَسَّطا عُرْضَ السَّريّ وَصَدَّعا ... مَسْجُورَةٌ مُتَجاوِرًا قُلامُها [[البيت للبيد بن ربيعة العامري، من معلقته المشهورة (انظره في شرح الزوزني على المعلقات السبع، وفي شرح التبريزي على القصائد العشر، وفي جمهرة أشعار العرب ص ٦٣ - ٧٤) . قال صاحب الجمهرة: توسطا؛: أي دخلا وسطه. وعرض السري: أي ناحية النهر، وأهل الحجاز. يسمون النهر سريا. وصدعا: أي فرقا. ومسجورة: أي عينا مملوءة؛ قال الله تعالى: (والبحر المسجور) وأقلامها، ويروى قلامها، وهو ضرب من الشجر الحمض، والأقلام: قصب اليراع. وقال الزوزني يقول: فتو سط العير والأتان جانب النهر الصغير، وشقا عينا مملوءة ماء، قد تجاوز قلامها، أي قد كثر هذا الضرب من النبت عليها. وتحرير المعنى: أنهما قد ورد عينا ممتلئة ماء، فدخلا فيها من عرض نهرها، وقد تجاور نبتها. والشاهد في قوله " السري " وهو اسم للنهر الصغير.]]
+
+ويُروى فينا [[كذا في المخطوطة بغير نقط، ولم نقف على هذه الرواية.]] مسجورة، ويُروى أيضًا: فغادرا.
+
+* *
+
+قوله ﴿وَهُزِّي إِلَيْكِ بِجِذْعِ النَّخْلَةِ﴾
+
+ذكر أن الجذع كان جذعًا يابسًا، وأمرها أن تهزّه، وذلك في أيام الشتاء، وهزّها إياه كان تحريكه.
+
+كما:-
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله ﴿وَهُزِّي إِلَيْكِ بِجِذْعِ النَّخْلَةِ﴾ قال: حركيها.
+
+ذكر من قال ذلك:
+
+⁕ حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس ﴿وَهُزِّي إِلَيْكِ بِجِذْعِ النَّخْلَةِ﴾ قال: كان جذعًا يابسًا، فقال لها: هزّيه ﴿تُسَاقِطْ عَلَيْكِ رُطَبًا جَنِيًّا﴾ .
+
+⁕ حدثنا ابن حميد، قال: ثنا يحيى بن واضح، قال: ثنا عبد المؤمن، قال: سمعت أبا نهيك يقول: كانت نخلة يابسة.
+
+⁕ حدثني محمد بن سهل بن عسكر، قال: ثنا إسماعيل بن عبد الكريم، قال: ثني عبد الصمد بن معقل قال: سمعت وهب بن منبه يقول في قوله: ﴿وَهُزِّي إِلَيْكِ بِجِذْعِ النَّخْلَةِ﴾ فكان الرطب يتساقط عليها وذلك في الشتاء.
+
+⁕ حدثنا موسى بن هارون، قال: ثنا عمرو، قال: ثنا أسباط، عن السديّ ﴿وَهُزِّي إِلَيْكِ بِجِذْعِ النَّخْلَةِ﴾ وكان جذعا منها مقطوعا فهزّته، فإذا هو نخلة، وأجري لها في المحراب نهر، فتساقطت النخلة رطبًا جنيا فقال لها ﴿فَكُلِي وَاشْرَبِي وَقَرِّي عَيْنًا﴾ .
+
+وقال آخرون: بل معنى ذلك: وهزّي إليك بالنخلة.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا ابن بشار، قال: ثنا عبد الرحمن، قال: ثنا سفيان، قال: قال مجاهد ﴿وَهُزِّي إِلَيْكِ بِجِذْعِ النَّخْلَةِ﴾ قال: النخلة.
+
+⁕ حدثنا ابن بشار، قال: ثنا أبو أحمد، قال: ثنا سفيان، عن عيسى بن ميمون، عن مجاهد، في قوله ﴿وَهُزِّي إِلَيْكِ بِجِذْعِ النَّخْلَةِ﴾ قال: العجوة.
+
+⁕ حدثني يعقوب، قال: ثنا هشيم، قال: أخبرنا حصين، عن عمرو بن ميمون، أنه تلا هذه الآية: ﴿وَهُزِّي إِلَيْكِ بِجِذْعِ النَّخْلَةِ تُسَاقِطْ عَلَيْكِ رُطَبًا جَنِيًّا﴾ قال: فقال عمرو: ما من شيء خير للنفساء من التمر والرطب، وأدخلت الباء في قوله: ﴿وَهُزِّي إِلَيْكِ بِجِذْعِ النَّخْلَةِ﴾ كما يقال: زوجتك فلانة، وزوّجتك بفلانة؛ وكما قال ﴿تَنْبُتُ بِالدُّهْنِ﴾ بمعنى: تنبت الدهن.
+
+وإنما تفعل العرب ذلك، لأن الأفعال تكنى عنها بالباء، فيقال إذا كنيت عن ضربت عمرا: فعلت به، وكذلك كلّ فعل، فلذلك تدخل الباء في الأفعال وتخرج، فيكون دخولها وخروجها بمعنى، فمعنى الكلام: وهزِّي إليك جذع النخلة، وقد كان لو أن المفسرين كانوا فسروه وكذلك: وهزِّي إليك رطبًا بجذع النخلة، بمعنى: على جذع النخلة، وجها صحيحا، ولكن لست أحفظ عن أحد أنه فسره كذلك. ومن الشاهد على دخول الباء في موضع دخولها وخروجها منه سواء قول الشاعر:
+
+بِوَادٍ يَمانٍ يُنْبِتُ السِّدْرَ صَدْرُهُ ... وأسْفَلُهُ بالمَرْخِ والشَّبَهانِ [[في (اللسان: سدر) السدر: شجر النبق، واحدتها سدرة. . . والمرخ: شجر كثير الورى سريعه. . وفي (اللسان: شبه) الشبهان: نبت يشبه الثمام، ويقال له الشبهان. قال ابن سيده: والشبهان (بالتحريك) والشبهان (بضمتين) : ضرب من العضاه؛ وقيل: هو الثمام، يمانية، حكاها ابن دريد. قال رجل من عبد القيس * بواد يمان ينبت الشث صدره *
+
+. . . البيت. قال ابن بري قال أبو عبيدة: البيت للأحول اليشكري. واسمه يعلى. قال: وتقديره: وينبت أسفله المرخ. على أن تكون الباء زائدة.
+
+وإن شئت قدرته: وينبت أسفله بالمرخ، فتكون الباء للتعدي
+
+[TRUNCATED at 12000 chars — 3226 more. Consult the source directly before relying on anything near the cut.]
 
 ### al-Muyassar (Arabic)
 
-وحَرِّكي جذع النخلة تُسَاقِطْ عليك رطبًا غَضًّا جُنِيَ مِن ساعته.
+وحَرِّكي جذع النخلة تُساقِطْ عليك رطبًا غَضًّا جُنِيَ مِن ساعته.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿وهُزِّي إلَيْك بِجِذْعِ النَّخْلَة﴾ كانَتْ يابِسَة والباء زائِدَة ﴿تُساقِط﴾ أصْله بِتاءَيْنِ قُلِبَتْ الثّانِيَة سِينًا وأُدْغِمَتْ فِي السِّين وفِي قِراءَة بِتَرْكِها ﴿عَلَيْك رُطَبًا﴾ تَمْيِيز ﴿جَنِيًّا﴾ صِفَته
 
 ---
 
@@ -106,25 +818,146 @@ Some reciters read the Ayah as,
 
 ### Ibn Kathir (English)
 
+Then he cried unto her from below her, saying: "Grieve not: your Lord has provided a Sariy under you. (24)"And shake the trunk of date palm towards you, it will let fall fresh ripe dates upon you. (25)"So eat and drink and rejoice. And if you see any human being, say: 'Verily, I have vowed a fast for the Most Gracious so I shall not speak to any human being today., (26)
+
 What was said to Her after the Birth
+
 Some reciters read the Ayah as,
-مَنْ تَحْتِهَا
+
+(مَن تَـحْتَهَآ)
+
 (Who was below her) Meaning the one who was below her called to her. Others recited it as,
-مِن تَحْتِهَآ
-(from below her) With the meaning of a preposition (from) instead of a pronoun (who). The scholars of Tafsir have differed over the interpretation of who was calling out. Al-`Awfi and others reported from Ibn `Abbas that he said,
-فَنَادَاهَا مِن تَحْتِهَآ
-(Then cried unto her from below her,) "This is refer...
+
+مِن تَحْتِهَا
+
+(from below her) With the meaning of a preposition (from) instead of a pronoun (who). The scholars of Tafsir have differed over the interpretation of who was calling out. Al-'Awfi and others reported from Ibn 'Abbas that he said,
+
+فَنَادَاهَا مِن تَحْتِهَا
+
+(Then cried unto her from below her,) "This is referring to Jibrilbecause 'Isa did not speak until she brought him to her people." Similarly, Sa'id bin Jubayr, Ad-Dahhak, 'Amr bin Maymun, As-Suddi and Qatadah all said, "Verily, this is referring to the angel Jibril." This means that he (Jibril) called out to her from the bottom of the valley. Mujahid said,
+
+فَنَادَاهَا مِن تَحْتِهَا
+
+(Then cried unto her from below her,) "This is referring to 'Isa bin Maryam." Likewise, 'Abdur-Razzaq reported from Ma'mar that Qatadah said that Al-Hasan said, "This is referring to her son ('Isa)." This is also one of the two opinions reported from Sa'id bin Jubayr – that it was her son, 'Isa, speaking. Sa'id said, "Have you not heard Allah saying,
+
+فَأَشَارَتْ إِلَيْهِ
+
+(Then she pointed to him.) Ibn Zayd and Ibn Jarir preferred this opinion in his Tafsir. Allah said,
+
+أَلَّا تَحْزَنِي
+
+(Grieve not:) He called to her saying, "Do not grieve."
+
+قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّا
+
+(your Lord has provided a Sariy under you.) Sufyan Ath-Thawri and Shu'bah reported from Abu Ishaq that Al-Bara' bin 'Azib said, s
+
+قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّا
+
+(your Lord has provided a Sariy under you.) "This means a small stream." Likewise, 'Ali bin Abi Talhah reported that Ibn 'Abbas said, "Sariy means a river." 'Amr bin Maymun held the same view, as he said, "It means a river for her to drink from." Mujahid said, "It means river in the Syrian language." Sa'id bin Jubayr said, "Sariy is a small flowing river." Others said that Sariy refers to 'Isa. This was said by Al-Hasan, Ar-Rabi' bin Anas, Muhammad bin 'Abbad bin Ja'far, and it is one of the two opinions reported from Qatadah. It is also the view of 'Abdur-Rahman bin Zayd bin Aslam. However, the first view seems to be the most obvious meaning. For this reason, Allah said after it,
+
+وَهُزِّي إِلَيْكِ بِجِذْعِ النَّخْلَةِ
+
+(And shake the trunk of date palm towards you,) meaning, "Grab the trunk of the date-palm tree and shake it towards yourself." Therefore, Allah blessed her by giving her food and drink. Then He said,
+
+تُسَاقِطْ عَلَيْكِ رُطَبًا جَنِيًّا - فَكُلِي وَاشْرَبِي وَقَرِّي عَيْنًا
+
+(It will let fall fresh ripe dates upon you. So eat and drink and rejoice.) Meaning to be happy. This is why 'Amr bin Maymun said, "Nothing is better for the woman confined in childbed than dried dates and fresh dates." Then he recited this noble Ayah. Concerning Allah's statement,
+
+فَإِمَّا تَرَيِنَّ مِنَ الْبَشَرِ أَحَدًا
+
+(And if you see any human being,) This means any person that you see,
+
+فَقُولِي إِنِّي نَذَرْتُ لِلرَّحْمَٰنِ صَوْمًا فَلَنْ أُكَلِّمَ الْيَوْمَ إِنسِيًّا
+
+(Say: 'Verily, I have vowed a fast unto the Most Gracious (Allah) so I shall not speak to any human being today.') Meaning, by signaling with gestures, not a statement by speech. This is so that she does not negate her oath itself,
+
+فَلَنْ أُكَلِّمَ الْيَوْمَ إِنسِيًّا
+
+(so I shall not speak to any human being today.) Anas bin Malik commented on,
+
+إِنِّي نَذَرْتُ لِلرَّحْمَٰنِ صَوْمًا
+
+(I have vowed a fast unto the Most Gracious) He said; "A vow of silence." Likewise said Ibn 'Abbas and Ad-Dahhak. The meaning here is that in their Law, when fasting, it was forbidden for them to eat and speak. As-Suddi, Qatadah and 'Abdur-Rahman bin Zayd have all stated this view. 'Abdur-Rahman bin Zayd said, "When 'Isa said to Maryam,
+
+أَلَّا تَحْزَنِي
+
+(Grieve not) She said, 'How can I not grieve when you are with me and I have no husband nor am I an owned slave woman What excuse do I have with the people? Woe unto me, if I had only died before this, and had been a thing forgotten and unknown.' Then, 'Isa said to her, 'I will suffice you with a statement,
+
+فَإِمَّا تَرَيِنَّ مِنَ الْبَشَرِ أَحَدًا فَقُولِي إِنِّي نَذَرْتُ لِلرَّحْمَٰنِ صَوْمًا فَلَنْ أُكَلِّمَ الْيَوْمَ إِنسِيًّا
+
+(And if you see any human being, say: 'Verily, I have vowed a fast unto the Most Gracious so I shall not speak to any human being this day.')' All of this is from the speech of 'Isa to his mother." Wahb said the same as well.
 
 ### al-Tabari (Arabic)
 
-يقول تعالى ذكره: فكلي من الرطب الذي يتساقط عليك، واشربي من ماء السريّ الذي جعله ربك تحتك، لا تخشي جوعًا ولا عطشًا( وَقَرِّي عَيْنًا ) يقول: وطيبي نفسا وافرحي بولادتك إياي ولا تحزني ونصبت العين لأنها هي الموصوفة بالقرار. وإنما معنى الكلام: ولتقرِر عينك بولدك، ثم حوّل الفعل عن العين إلى المرأة صاحبة العين، فنصبت العين إذ كان الفعل لها في الأصل على التفسير، نظير ما فعل بقوله  فَإِنْ طِبْنَ لَكُمْ عَنْ شَيْءٍ مِنْهُ نَفْسًا  وإنما هو: فإن طابت أنفسهن لكم . وقوله  وَضَاقَ بِهِمْ ذَرْعًا  ومنه قوله...
+القول في تأويل قوله تعالى: ﴿فَكُلِي وَاشْرَبِي وَقَرِّي عَيْنًا فَإِمَّا تَرَيِنَّ مِنَ الْبَشَرِ أَحَدًا فَقُولِي إِنِّي نَذَرْتُ لِلرَّحْمَنِ صَوْمًا فَلَنْ أُكَلِّمَ الْيَوْمَ إِنْسِيًّا (٢٦) ﴾
+
+يقول تعالى ذكره: فكلي من الرطب الذي يتساقط عليك، واشربي من ماء السريّ الذي جعله ربك تحتك، لا تخشي جوعًا ولا عطشًا ﴿وَقَرِّي عَيْنًا﴾ يقول: وطيبي نفسا وافرحي بولادتك إياي ولا تحزني ونصبت العين لأنها هي الموصوفة بالقرار. وإنما معنى الكلام: ولتقرِر عينك بولدك، ثم حوّل الفعل عن العين إلى المرأة صاحبة العين، فنصبت العين إذ كان الفعل لها في الأصل على التفسير، نظير ما فعل بقوله ﴿فَإِنْ طِبْنَ لَكُمْ عَنْ شَيْءٍ مِنْهُ نَفْسًا﴾ وإنما هو: فإن طابت أنفسهن لكم.
+
+* *
+
+وقوله ﴿وَضَاقَ بِهِمْ ذَرْعًا﴾
+
+ومنه قوله ﴿يُسَاقِطْ عَلَيْكِ رُطَبًا جَنِيًّا﴾ إنما هو يساقط عليك رطب الجذع، فحوّل الفعل إلى الجِذْع، في قراءة من قرأه بالياء. وفي قراءة من قرأ: ﴿تُساقِطْ﴾ بالتاء، معناه: يساقط عليك رطب النخلة، ثم حول الفعل إلى النخلة.
+
+وقد اختلفت القرّاء في قراءة قوله ﴿وقرِّي﴾
+
+فأما أهل المدينة فقرءوه ﴿وَقَرِّي﴾ بفتح القاف على لغة من قال: قَرِرت بالمكان أَقَرّ به، وقَرِرت عينا، أقرّ به قُرورا، وهي لغة قريش فيما ذكر لي وعليها القراءة.
+
+وأما أهل نجد فإنها تقول قررت به عينا أقر به قرارا وقررت بالمكان أقر به، فالقراءة على لغتهم: ﴿وَقِري عَيْنا﴾ بكسر القاف، والقراءة عندنا على لغة قريش بفتح القاف.
+
+* *
+
+وقوله ﴿فَإِمَّا تَرَيِنَّ مِنَ الْبَشَرِ أَحَدًا﴾
+
+يقول: فإن رأيت من بني آدم أحدا يكلمك أو يسائلك عن شيء أمرك وأمر ولدك وسبب ولادتكه ﴿فَقُولِي إِنِّي نَذَرْتُ لِلرَّحْمَنِ صَوْمًا﴾ يقول: فقولي: إني أوجبت على نفسي لله صمتا ألا أُكَلِّم أحدًا من بني آدم اليوم ﴿فَلَنْ أُكَلِّمَ الْيَوْمَ إِنْسِيًّا﴾
+
+وبنحو الذي قلنا في معنى الصوم، قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا معتمر بن سليمان، عن أبيه، قال: سمعت أنس بن مالك يقول في هذه الآية ﴿إِنِّي نَذَرْتُ لِلرَّحْمَنِ صَوْمًا﴾ صمتا.
+
+⁕ حدثني زكريا بن يحيى بن أبي زائدة، قال: ثنا حجاج، قال: أخبرنا ابن جريج، قال: أخبرني المغيرة بن عثمان، قال: سمعت أنس بن مالك يقول ﴿إِنِّي نَذَرْتُ لِلرَّحْمَنِ صَوْمًا﴾ قال: صمتا.
+
+⁕ حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس، قوله ﴿إِنِّي نَذَرْتُ لِلرَّحْمَنِ صَوْمًا﴾ قال: يعني بالصوم: الصمت.
+
+⁕ حدثني يعقوب، قال: ثنا ابن عُلَية، عن سليمان التيميّ، قال: سمعت أنسا قرأ ﴿وإنِّي نَذَرْتُ للرَّحْمَن صَوْما وَصَمْتا﴾ .
+
+⁕ حدثنا الحسن بن يحيى، قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر، عن قتادة ﴿إِنِّي نَذَرْتُ لِلرَّحْمَنِ صَوْمًا﴾ أما قوله ﴿صَوْما﴾ فإنها صامت من الطعام والشراب والكلام.
+
+⁕ حُدثت عن الحسين، قال: سمعت أبا معاذ يقول: أخبرنا عبيد، قال: سمعت الضحاك يقول في قوله ﴿نَذَرْتُ لِلرَّحْمَنِ صَوْمًا﴾ قال: كان من بني إسرائيل من إذا اجتهد صام من الكلام كما يصوم من الطعام، إلا مِن ذكر الله، فقال لها ذلك، فقالت: إني أصوم من الكلام كما أصوم مِنْ الطعام، إلا من ذكر الله؛ فلما كلموها أشارت إليه، فقالوا ﴿كَيْفَ نُكَلِّمُ مَنْ كَانَ فِي الْمَهْدِ صَبِيًّا﴾ فأجابهم فقال ﴿إِنِّي عَبْدُ اللَّهِ آتَانِيَ الْكِتَابَ﴾ حتى بلغ ﴿ذَلِكَ عِيسَى ابْنُ مَرْيَمَ قَوْلَ الْحَقِّ الَّذِي فِيهِ يَمْتَرُونَ﴾ .
+
+واختلفوا في السبب الذي من أجله أمرها بالصوم عن كلام البشر، فقال بعضهم: أمرها بذلك لأنه لم يكن لها حجة عند الناس ظاهرة، وذلك أنها جاءت وهي أيِّم بولد بالكفّ عن الكلام ليكفيها فأمرت الكلام ولدها.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا هارون بن إسحاق الهمداني، قال: ثنا مصعب بن المقدام، قال: ثنا إسرائيل، قال: ثنا أبو إسحاق، عن حارثة، قال: كنت عند ابن مسعود، فجاء رجلان فسلم أحدهما ولم يسلم الآخر، فقال: ما شأنك؟ فقال أصحابه: حلف أن لا يكلم الناس اليوم، فقال عبد الله: كلم الناس وسلم عليهم، فإن تلك امرأة علمت أن أحدا لا يصدّقها أنها حملت من غير زوج، يعني بذلك مريم عليها السلام.
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد لما قال عيسى لمريم ﴿لا تَحْزَنِي﴾ قالت: وكيف لا أحزن وأنت معي، لا ذات زوج ولا مملوكة، أي شيء عذري عند الناس ﴿يَالَيْتَنِي مِتُّ قَبْلَ هَذَا وَكُنْتُ نَسْيًا مَنْسِيًّا﴾ فقال لها عيسى: أنا أكفيك الكلام ﴿فَإِمَّا تَرَيِنَّ مِنَ الْبَشَرِ أَحَدًا فَقُولِي إِنِّي نَذَرْتُ لِلرَّحْمَنِ صَوْمًا فَلَنْ أُكَلِّمَ الْيَوْمَ إِنْسِيًّا﴾ قال: هذا كله كلام عيسى لأمه.
+
+⁕ حدثنا ابن حميد، قال: ثنا سلمة، عن ابن إسحاق، عمن لا يتهم، عن وهب بن منبه ﴿فَإِمَّا تَرَيِنَّ مِنَ الْبَشَرِ أَحَدًا فَقُولِي إِنِّي نَذَرْتُ لِلرَّحْمَنِ صَوْمًا فَلَنْ أُكَلِّمَ الْيَوْمَ إِنْسِيًّا﴾ فإني سأكفيك الكلام.
+
+وقال آخرون: إنما كان ذلك آية لمريم وابنها.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا الحسن، قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر، عن قتادة، في قوله ﴿إِنِّي نَذَرْتُ لِلرَّحْمَنِ صَوْمًا﴾ قال في بعض الحروف: صمتا وذلك إنك لا تلقى امرأة جاهلة تقول: نذرت كما نذرت مريم، ألا تكلم يومًا إلى الليل، وإنما جعل الله تلك آية لمريم ولابنها، ولا يحلّ لأحد أن ينذر صمت يوم إلى الليل.
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، فقرأ ﴿إِنِّي نَذَرْتُ لِلرَّحْمَنِ صَوْمًا﴾ وكانت تقرأ في الحرف الأوّل: صمتا، وإنما كانت آية بعثها الله لمريم وابنها.
+
+وقال آخرون: بل كانت صائمة في ذلك اليوم، والصائم في ذلك الزمان كان يصوم عن الطعام والشراب وكلام الناس، فأذن لمريم في قدر هذا الكلام ذلك اليوم وهي صائمة.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا موسى، قال: ثنا عمرو، قال: ثنا أسباط، عن السديّ ﴿فَإِمَّا تَرَيِنَّ مِنَ الْبَشَرِ أَحَدًا﴾ يكلمك ﴿فَقُولِي إِنِّي نَذَرْتُ لِلرَّحْمَنِ صَوْمًا فَلَنْ أُكَلِّمَ الْيَوْمَ إِنْسِيًّا﴾ فكان من صام في ذلك الزمان لم يتكلم حتى يمسي، فقيل لها: لا تزيدي على هذا.
 
 ### al-Muyassar (Arabic)
 
-فكلي من الرطب، واشربي من الماء وطيـبي نفسًا بالمولود، فإن رأيت من الناس أحدًا فسألك عن أمرك فقولي له: إني أَوْجَبْتُ على نفسي لله سكوتًا، فلن أكلم اليوم أحدًا من الناس. والسكوت كان تعبدًا في شرعهم، دون شريعة محمد صلى الله عليه وسلم.
+فكلي من الرطب، واشربي من الماء وطيبي نفسًا بالمولود، فإن رأيت من الناس أحدًا فسألك عن أمرك فقولي له: إني أَوْجَبْتُ على نفسي لله سكوتًا، فلن أكلم اليوم أحدًا من الناس. والسكوت كان تعبدًا في شرعهم، دون شريعة محمد ﷺ.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿فَكُلِي﴾ مِن الرُّطَب ﴿واشْرَبِي﴾ مِن السَّرِيّ ﴿وقَرِّي عَيْنًا﴾ بِالوَلَدِ تَمْيِيز مُحَوَّل مِن الفاعِل أيْ: لِتَقَرّ عَيْنك بِهِ أيْ: تَسْكُن فَلا تَطْمَح إلى غَيْره ﴿فَإمّا﴾ فِيهِ إدْغام نُون إنْ الشَّرْطِيَّة فِي ما الزّائِدَة ﴿تَرَيِنَّ﴾ حُذِفَتْ مِنهُ لام الفِعْل وعَيْنه وأُلْقِيَتْ حَرَكَتها عَلى الرّاء وكُسِرَتْ ياء الضَّمِير لِالتِقاءِ السّاكِنَيْنِ ﴿مِن البَشَر أحَدًا﴾ فَيَسْأَلك عَنْ ولَدك ﴿فَقُولِي إنِّي نَذَرْت لِلرَّحْمَنِ صَوْمًا﴾ أيْ إمْساكًا عَنْ الكَلام فِي شَأْنه وغَيْره مِن الأَناسِيّ بِدَلِيلِ ﴿فَلَنْ أُكَلِّم اليَوْم إنْسِيًّا﴾ أيْ: بَعْد ذَلِكَ
 
 ---

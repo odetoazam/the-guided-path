@@ -1,6 +1,6 @@
 # Tafsir Cross-Reference Report
 
-Generated: 2026-04-08
+Generated: 2026-07-30
 Ayahs referenced: 3
 Tafsir sources: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), al-Jalalayn (Arabic)
 
@@ -10,20 +10,121 @@ Tafsir sources: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), 
 
 ### Ibn Kathir (English)
 
+Have they not observed things that Allah has created: (how) their shadows shift from right to left, prostrating to Allah while they are humble (48)And to Allah prostrate all that are in the heavens and all that are in the earth, the moving creatures and the angels, and they are not proud [i.e. they worship their Lord (Allah) with humility (49)They fear their Lord above them, and they do what they are commanded (50)
+
 Everything prostrates to Allah
-Allah informs us about His might, majesty and pride, meaning that all things submit themselves to Him and every created being - animate and inanimate, as well as the responsible - humans and Jinns, and the angels - all humble themselves before Him. He tells us that everything that has a shadow leaning to the right and the left, i.e., in the morning and the evening, is by its shadow, prostrating to Allah. Mujahid said, "When the sun passes its zenith, everything ...
+
+Allah informs us about His might, majesty and pride, meaning that all things submit themselves to Him and every created being - animate and inanimate, as well as the responsible - humans and Jinns, and the angels - all humble themselves before Him. He tells us that everything that has a shadow leaning to the right and the left, i.e., in the morning and the evening, is by its shadow, prostrating to Allah. Mujahid said, "When the sun passes its zenith, everything prostrates to Allah, may He be glorified." This was also said by Qatadah, Ad-Dahhak and others.
+
+وَهُمْ دَاخِرُونَ
+
+(while they are humble) means, they are in a state of humility. Mujahid also said: "The prostration of every thing is its shadow", and he mentioned the mountains and said that their prostrations are their shadows. Abu Ghalib Ash-Shaybani said: "The waves of the sea are its prayers". It is as if reason is attributed to these inanimate objects when they are described as prostrating, so Allah says:
+
+وَلِلَّهِ يَسْجُدُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ مِن دَابَّةٍ
+
+(And to Allah prostrate all that are in the heavens and all that are in the earth, of the moving creatures) As Allah says:
+
+وَلِلَّهِ يَسْجُدُ مَن فِي السَّمَاوَاتِ وَالْأَرْضِ طَوْعًا وَكَرْهًا وَظِلَالُهُم بِالْغُدُوِّ وَالْآصَالِ
+
+(And to Allah (alone) all who are in the heavens and the earth fall in prostration, willingly or unwillingly, and so do their shadows in the mornings and in the afternoons.)(13:15)
+
+وَالْمَلَائِكَةُ وَهُمْ لَا يَسْتَكْبِرُونَ
+
+(and the angels, and they are not proud.) means, they prostrate to Allah and are not too proud to worship Him.
+
+يَخَافُونَ رَبَّهُم مِّن فَوْقِهِمْ
+
+(They fear their Lord above them) means, they prostrate out of fear of their Lord, may He be glorified.
+
+وَيَفْعَلُونَ مَا يُؤْمَرُونَ
+
+(and they do what they are commanded.) meaning they continually obey Allah, doing what He tells them to do and avoiding that which He forbids.
 
 ### al-Tabari (Arabic)
 
-اختلفت القرّاء في قراءة ذلك، فقرأته عامَّة قرّاء الحجاز والمدينة والبصرة ( أَوَلَمْ يَرَوْا ) بالياء على الخبر عن الذين مكروا السيئات ، وقرأ ذلك بعض قراء الكوفيين " أوَلم تَرَوا " بالتاء على الخطاب.وأولى القراءتين عندي بالصواب قراءة من قرأ بالياء على وجه الخبر عن الذين مكروا السيئات ، لأن ذلك في سياق قَصَصِهم ، والخبر عنهم، ثم عقب ذلك الخبر عن ذهابهم عن حجة الله عليهم ، وتركهم النظر في أدلته والاعتبار بها ، فتأويل الكلام إذن: أو لم ير هؤلاء الذين مكروا السيئات ، إلى ما خلق الله من جسم قائم ، ...
+القول في تأويل قوله تعالى: ﴿أَوَلَمْ يَرَوْا إِلَى مَا خَلَقَ اللَّهُ مِنْ شَيْءٍ يَتَفَيَّأُ ظِلالُهُ عَنِ الْيَمِينِ وَالشَّمَائِلِ سُجَّدًا لِلَّهِ وَهُمْ دَاخِرُونَ (٤٨) ﴾
+
+اختلفت القرّاء في قراءة ذلك، فقرأته عامَّة قرّاء الحجاز والمدينة والبصرة ﴿أَوَلَمْ يَرَوْا﴾ بالياء على الخبر عن الذين مكروا السيئات، وقرأ ذلك بعض قراء الكوفيين "أوَلم تَرَوا" بالتاء على الخطاب.
+
+وأولى القراءتين عندي بالصواب قراءة من قرأ بالياء على وجه الخبر عن الذين مكروا السيئات، لأن ذلك في سياق قَصَصِهم، والخبر عنهم، ثم عقب ذلك الخبر عن ذهابهم عن حجة الله عليهم، وتركهم النظر في أدلته والاعتبار بها، فتأويل الكلام إذن: أو لم ير هؤلاء الذين مكروا السيئات، إلى ما خلق الله من جسم قائم، شجر أو جبل أو غير ذلك، يتفيأ ظلاله عن اليمين والشمائل، يقول: يرجع من موضع إلى موضع، فهو في أوّل النهار على حال، ثم يتقلَّص، ثم يعود إلى حال أخرى في آخر النهار.
+
+وكان جماعة من أهل التأويل يقولون في اليمين والشمائل ما:-
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد عن قتادة، قوله ﴿أَوَلَمْ يَرَوْا إِلَى مَا خَلَقَ اللَّهُ مِنْ شَيْءٍ يَتَفَيَّأُ ظِلالُهُ عَنِ الْيَمِينِ وَالشَّمَائِلِ سُجَّدًا لِلَّهِ﴾ أما اليمين: فأوّل النهار، وأما الشمال: فآخر النهار.
+
+⁕ حدثنا محمد بن عبد الأعلى، قال: ثنا محمد بن ثور، عن معمر، عن قتادة، بنحوه.
+
+⁕ حدثنا القاسم، قال: ثنا الحسين، قال: ثني حجاج، عن ابن جريج ﴿يَتَفَيَّأُ ظِلالُهُ عَنِ الْيَمِينِ وَالشَّمَائِلِ﴾ قال: الغدوّ والآصال، إذا فاءت الظِّلال، ظلال كلّ شيء بالغدوّ سجدت لله، وإذا فاءت بالعشيّ سجدت لله.
+
+⁕ حُدثت عن الحسين، قال: سمعت أبا معاذ يقول: ثنا عبيد بن سليمان، قال: سمعت الضحاك يقول في قوله ﴿يَتَفَيَّأُ ظِلالُهُ عَنِ الْيَمِينِ وَالشَّمَائِلِ﴾ يعني: بالغدو والآصال، تسجد الظلال لله غدوة إلى أن يفئ الظلّ، ثم تسجد لله إلى الليل، يعني: ظلّ كلّ شَيء.
+
+وكان ابن عباس يقوله في قوله ﴿يَتَفَيَّأُ ظِلالُهُ﴾ ما:-
+
+⁕ حدثنا المثنى، قال: أخبرنا أبو صالح، قال: ثني معاوية، عن عليّ، عن ابن عباس، قوله ﴿يَتَفَيَّأُ ظِلالُهُ﴾ يقول: تتميل.
+
+واختلف في معنى قوله ﴿سُجَّدًا لِلَّهِ﴾ فقال بعضهم: ظلّ كلّ شيء سجوده.
+
+ذكر من قال ذلك:
+
+⁕ حدثني محمد بن عبد الأعلى، قال: ثنا محمد بن ثور، عن معمر، عن قتادة ﴿يَتَفَيَّأُ ظِلالُهُ﴾ قال: ظلّ كلّ شيء سجوده.
+
+⁕ حدثنا ابن وكيع، قال: ثنا إسحاق الرازيّ، عن أبي سنان، عن ثابت، عن الضحاك ﴿يَتَفَيَّأُ ظِلالُهُ﴾ قال: سجد ظلّ المؤمن طوعا، وظلّ الكافر كَرْها.
+
+وقال آخرون: بل عنى بقوله ﴿يَتَفَيَّأُ ظِلالُهُ﴾ كلا عن اليمين والشمائل في حال سجودها، قالوا: وسجود الأشياء غير ظلالها.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا ابن حميد وحدثني نصر بن عبد الرحمن الأوّديّ، قالا ثنا حَكَّام، عن أبي سنان، عن ثابت عن الضحاك، في قول الله ﴿أَوَلَمْ يَرَوْا إِلَى مَا خَلَقَ اللَّهُ مِنْ شَيْءٍ يَتَفَيَّأُ ظِلالُهُ﴾ قال: إذا فاء الفيء توجه كلّ شيء ساجدا قبل القبلة، من نبت أو شجر، قال: فكانوا يستحبون الصلاة عند ذلك.
+
+⁕ حدثني المثنى، قال: أخبرنا الحمَّانيّ، قال: ثنا يحيى بن يمان، قال: ثنا شريك، عن منصور، عن مجاهد، في قول الله ﴿يَتَفَيَّأُ ظِلالُهُ﴾ قال: إذا زالت الشمس سجد كلّ شيء لله عزّ وجلّ.
+
+وقال آخرون: بل الذي وصف الله بالسجود في هذه الآية ظلال الأشياء، فإنما يسجد ظلالها دون التي لها الظلال.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا القاسم، قال: ثنا الحسين، قال: ثني حجاج، عن ابن جريج، عن مجاهد، قوله ﴿أَوَلَمْ يَرَوْا إِلَى مَا خَلَقَ اللَّهُ مِنْ شَيْءٍ يَتَفَيَّأُ ظِلالُهُ﴾ قال: هو سجود الظلال، ظلال كلّ شيء ما في السموات وما في الأرض من دابة، قال: سجود ظلال الدواب، وظلال كلّ شيء.
+
+⁕ حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس، قوله ﴿أَوَلَمْ يَرَوْا إِلَى مَا خَلَقَ اللَّهُ مِنْ شَيْءٍ يَتَفَيَّأُ ظِلالُهُ﴾ ما خلق من كلّ شيء عن يمينه وشمائله، فلفظ ما لفظ عن اليمين والشمائل، قال: ألم تر أنك إذا صليت الفجر، كان ما بين مطلع الشمس إلى مغربها ظلا ثم بعث الله عليه الشمس دليلا وقبض الله الظلّ.
+
+وأولى الأقوال في ذلك بالصواب أن يقال: إن الله أخبر في هذه الآية أن ظلال الأشياء هي التي تسجد، وسجودها: مَيَلانها ودورانها من جانب إلى جانب، وناحية إلى ناحية، كما قال ابن عباس يقال من ذلك: سجدت النخلة إذا مالت، وسجد البعير وأسجد: إذا أميل للركوب. وقد بيَّنا معنى السجود في غير هذا الموضع بما أغنى عن إعادته.
+
+* *
+
+وقوله ﴿وَهُمْ دَاخِرُونَ﴾
+
+يعني: وهم صاغرون، يقال منه: دخر فلان لله يدخر دخرا ودخورا: إذا ذلّ له وخضع ومنه قول ذي الرُّمَّة:
+
+فَلَمْ يَبْقَ إلا داخِرٌ فِي مُخَيَّسٍ ... ومُنْجَحِرٌ فِي غيرِ أرْضِكَ في جُحْرِ [[البيت شاهد على أن معنى الداخر: الصاغر. قال أبو عبيدة في مجاز القرآن: وهم داخرون: أي صاغرون يقال: فلان دخر لله: أي ذل وخضع. و (في اللسان: دخر) : دخر الرجل بالفتح يدخر دخورا، فهو داخر، ودخر دخرا: (كفرح) ذل وصغر يصغر صغارًا، وهو الذي يفعل ما يؤمر به، شاء أو أبى، صاغرا قميئا. وفي (اللسان: خيس) : وكل سجن: مخيس ومخيس (بتشديد الياء مفتوحة ومكسورة) . وأنشد البيت ونسبه إلى الفرزدق. والمنجحر: الداخل في الجحر، يقال: أجحره فانجحر: أدخله الجحر، فدخله. والجحر: كل شيء تحتقره الهوام والسباع لأنفسها. والجمع: أجحار وجحرة.]]
+
+وبنحو الذي قلنا في ذلك، قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثني المثنى، قال: ثنا أبو حُذيفة، قال: ثنا شبل، عن ابن أبي نجيح، عن مجاهد ﴿وَهُمْ دَاخِرُونَ﴾ صاغرون.
+
+⁕ حدثنا القاسم، قال: ثنا الحسين، قال: ثني حجاج، عن ابن جريج، عن مجاهد، مثله.
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة ﴿وَهُمْ دَاخِرُونَ﴾ : أي صاغرون.
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا محمد بن ثور، عن معمر، عن قتادة مثله.
+
+وأما توحيد اليمين في قوله ﴿عَنِ الْيَمِينِ وَالشَّمَائِلِ﴾ فجمعها، فإن ذلك إنما جاء كذلك، لأن معنى الكلام: أو لم يروا إلى ما خلق الله من شيء يتفيأ ظلال ما خلق من شيء عن يمينه: أي ما خلق، وشمائله، فلفظ "ما" لفظ واحد، ومعناه معنى الجمع، فقال: عن اليمين بمعنى: عن يمين ما خلق، ثم رجع إلى معناه في الشمائل، وكان بعض أهل العربية يقول: إنما تفعل العرب ذلك، لأن أكثر الكلام مواجهة الواحد الواحد، فيقال للرجل: خذ عن يمينك، قال: فكأنه إذا وحد ذهب إلى واحد من القوم، وإذا جمع فهو الذي لا مساءلة فيه، واستشهد لفعل العرب ذلك بقول الشاعر:
+
+بِفي الشَّامِتِينَ الصَّخْرُ إنْ كان هَدَّني ... رَزِيَّةُ شِبْلَيْ مُخْدِرٍ في الضَّراغمِ [[هذا البيت من شواهد الفراء في (معاني القرآن ١: ١٧٢) استشهد به عند قوله تعالى: (يتفيأ ظلاله عن اليمين والشمائل) قال: الظن يرجع على كل شيء من جوانبه، فذلك تفيؤه، ثم فسر فقال: عن اليمين والشمائل، وكل ذلك جائز في العربية، قال الشاعر: "بفي الشامتين ... الخ البيت". قال ولم يقل: بأفواه الشامتين. قلت: يريد أن جمع الشمائل وإفراد اليمين، جائز في العربية، واستشهد عليه بالبيت. وقد وجه المؤلف في التفسير توجيهاً حسناً.]]
+
+فقال: بِفي الشامتين، ولم يقل: بأفواه، وقول الآخر:
+
+الوَارِدُونَ وتَيْمٌ في ذَرَا سَبإ ... قد عَضَّ أعْناقَهُمْ جِلْدُ الجَوَامِيسِ [[وهذا البيت أيضاً كالشاهد قبله من شواهد الفراء، في (معاني القرآن، بعد سابقه ١: ١٧٢) على أن الشاعر قال: جلد الجواميس بالإفراد، ولم يقل: جلود الجواميس، في مقابلة أعناقهم ولم نقف على البيت في المراجع، ولا على قائله.]]
+
+ولم يقل: جلود.
 
 ### al-Muyassar (Arabic)
 
-أَعَمِيَ هؤلاء الكفار، فلم ينظروا إلى ما خلق الله من شيء له ظل، كالجبال والأشجار، تميل ظلالها تارة يمينًا وتارة شمالا تبعًا لحركة الشمس نهارًا والقمر ليلا كلها خاضعة لعظمة ربها وجلاله، وهي تحت تسخيره وتدبيره وقهره؟
+أَعَمِيَ هؤلاء الكفار، فلم ينظروا إلى ما خلق الله من شيء له ظل، كالجبال والأشجار، تميل ظلالها تارة يمينًا وتارة شمالًا؛ تبعًا لحركة الشمس نهارًا والقمرِ ليلًا، كلها خاضعة لعظمة ربها وجلاله، وهي تحت تسخيره وتدبيره وقهره؟
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿أوَلَمْ يَرَوْا إلى ما خَلَقَ اللَّه مِن شَيْء﴾ لَهُ ظِلّ كَشَجَرَةٍ وجَبَل ﴿يَتَفَيَّأ﴾ تَتَمَيَّل ﴿ظِلاله عَنْ اليَمِين والشَّمائِل﴾ جَمْع شِمال أيْ عَنْ جانِبَيْهِما أوَّل النَّهار وآخِره ﴿سُجَّدًا لِلَّهِ﴾ حال أيْ خاضِعِينَ لَهُ بِما يُراد مِنهُمْ ﴿وهُمْ﴾ أيْ الظِّلال ﴿داخِرُونَ﴾ صاغِرُونَ نُزِّلُوا مَنزِلَة العُقَلاء
 
 ---
 
@@ -31,12 +132,45 @@ Allah informs us about His might, majesty and pride, meaning that all things sub
 
 ### Ibn Kathir (English)
 
+Have they not observed things that Allah has created: (how) their shadows shift from right to left, prostrating to Allah while they are humble (48)And to Allah prostrate all that are in the heavens and all that are in the earth, the moving creatures and the angels, and they are not proud [i.e. they worship their Lord (Allah) with humility (49)They fear their Lord above them, and they do what they are commanded (50)
+
 Everything prostrates to Allah
-Allah informs us about His might, majesty and pride, meaning that all things submit themselves to Him and every created being - animate and inanimate, as well as the responsible - humans and Jinns, and the angels - all humble themselves before Him. He tells us that everything that has a shadow leaning to the right and the left, i.e., in the morning and the evening, is by its shadow, prostrating to Allah. Mujahid said, "When the sun passes its zenith, everything ...
+
+Allah informs us about His might, majesty and pride, meaning that all things submit themselves to Him and every created being - animate and inanimate, as well as the responsible - humans and Jinns, and the angels - all humble themselves before Him. He tells us that everything that has a shadow leaning to the right and the left, i.e., in the morning and the evening, is by its shadow, prostrating to Allah. Mujahid said, "When the sun passes its zenith, everything prostrates to Allah, may He be glorified." This was also said by Qatadah, Ad-Dahhak and others.
+
+وَهُمْ دَاخِرُونَ
+
+(while they are humble) means, they are in a state of humility. Mujahid also said: "The prostration of every thing is its shadow", and he mentioned the mountains and said that their prostrations are their shadows. Abu Ghalib Ash-Shaybani said: "The waves of the sea are its prayers". It is as if reason is attributed to these inanimate objects when they are described as prostrating, so Allah says:
+
+وَلِلَّهِ يَسْجُدُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ مِن دَابَّةٍ
+
+(And to Allah prostrate all that are in the heavens and all that are in the earth, of the moving creatures) As Allah says:
+
+وَلِلَّهِ يَسْجُدُ مَن فِي السَّمَاوَاتِ وَالْأَرْضِ طَوْعًا وَكَرْهًا وَظِلَالُهُم بِالْغُدُوِّ وَالْآصَالِ
+
+(And to Allah (alone) all who are in the heavens and the earth fall in prostration, willingly or unwillingly, and so do their shadows in the mornings and in the afternoons.)(13:15)
+
+وَالْمَلَائِكَةُ وَهُمْ لَا يَسْتَكْبِرُونَ
+
+(and the angels, and they are not proud.) means, they prostrate to Allah and are not too proud to worship Him.
+
+يَخَافُونَ رَبَّهُم مِّن فَوْقِهِمْ
+
+(They fear their Lord above them) means, they prostrate out of fear of their Lord, may He be glorified.
+
+وَيَفْعَلُونَ مَا يُؤْمَرُونَ
+
+(and they do what they are commanded.) meaning they continually obey Allah, doing what He tells them to do and avoiding that which He forbids.
 
 ### al-Tabari (Arabic)
 
-يقول تعالى ذكره: ولله يخضع ويستسلم لأمره ما في السموات وما في الأرض من دابَّة يدبّ عليها، والملائكة التي في السموات، وهم لا يستكبرون عن التذلل له بالطاعة  فَالَّذِينَ لا يُؤْمِنُونَ بِالآخِرَةِ قُلُوبُهُمْ مُنْكِرَةٌ وَهُمْ مُسْتَكْبِرُونَ  وظلالهم تتفيأ عن اليمين والشمائل سجدا لله وهم داخرون.وكان بعض نحويِّي البصرة يقول: اجتزئ بذكر الواحد من الدوابّ عن ذكر الجميع. وإنما معنى الكلام: ولله يسجد ما في السموات وما في الأرض من الدوابّ والملائكة، كما يقال: ما أتاني من رجل، بمعنى: ما أتاني من الرجا...
+القول في تأويل قوله تعالى: ﴿وَلِلَّهِ يَسْجُدُ مَا فِي السَّمَاوَاتِ وَمَا فِي الأرْضِ مِنْ دَابَّةٍ وَالْمَلائِكَةُ وَهُمْ لا يَسْتَكْبِرُونَ (٤٩) ﴾
+
+يقول تعالى ذكره: ولله يخضع ويستسلم لأمره ما في السموات وما في الأرض من دابَّة يدبّ عليها، والملائكة التي في السموات، وهم لا يستكبرون عن التذلل له بالطاعة ﴿فَالَّذِينَ لا يُؤْمِنُونَ بِالآخِرَةِ قُلُوبُهُمْ مُنْكِرَةٌ وَهُمْ مُسْتَكْبِرُونَ﴾ وظلالهم تتفيأ عن اليمين والشمائل سجدا لله وهم داخرون.
+
+وكان بعض نحويِّي البصرة يقول: اجتزئ بذكر الواحد من الدوابّ عن ذكر الجميع. وإنما معنى الكلام: ولله يسجد ما في السموات وما في الأرض من الدوابّ والملائكة، كما يقال: ما أتاني من رجل، بمعنى: ما أتاني من الرجال.
+
+وكان بعض نحويِّي الكوفة يقول: إنما قيل: من دابة، لأن "ما" وإن كانت قد تكون على مذهب الذي، فإنها غير مؤقتة، فإذا أبهمت غير مؤقتة أشبهت الجزاء، والجزاء يدخل من فيما جاء من اسم بعده من النكرة، فيقال: من ضربه من رجل فاضربوه، ولا تسقط "من" من هذا الموضع كراهية أن تشبه أن تكون حالا لمن وما، فجعلوه بمن ليدلّ على أنه تفسير لما ومن لأنهما غير مؤقتتين، فكان دخول من فيما بعدهما تفسيرا لمعناهما، وكان دخول من أدلّ على ما لم يوقت من من وما، فلذلك لم تلغيا.
 
 ### al-Muyassar (Arabic)
 
@@ -44,7 +178,7 @@ Allah informs us about His might, majesty and pride, meaning that all things sub
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿ولِلَّهِ يَسْجُد ما فِي السَّماوات وما فِي الأَرْض مِن دابَّة﴾ أيْ نَسَمَة تَدِبّ عَلَيْها أيْ تَخْضَع لَهُ بِما يُراد مِنها وغَلَبَ فِي الإتْيان بِما لا يَعْقِل لِكَثْرَتِهِ ﴿والمَلائِكَة﴾ خَصَّهُمْ بِالذِّكْرِ تَفْضِيلًا ﴿وهُمْ لا يَسْتَكْبِرُونَ﴾ يَتَكَبَّرُونَ عَنْ عِبادَته
 
 ---
 
@@ -52,19 +186,120 @@ Allah informs us about His might, majesty and pride, meaning that all things sub
 
 ### Ibn Kathir (English)
 
+Have they not observed things that Allah has created: (how) their shadows shift from right to left, prostrating to Allah while they are humble (48)And to Allah prostrate all that are in the heavens and all that are in the earth, the moving creatures and the angels, and they are not proud [i.e. they worship their Lord (Allah) with humility (49)They fear their Lord above them, and they do what they are commanded (50)
+
 Everything prostrates to Allah
-Allah informs us about His might, majesty and pride, meaning that all things submit themselves to Him and every created being - animate and inanimate, as well as the responsible - humans and Jinns, and the angels - all humble themselves before Him. He tells us that everything that has a shadow leaning to the right and the left, i.e., in the morning and the evening, is by its shadow, prostrating to Allah. Mujahid said, "When the sun passes its zenith, everything ...
+
+Allah informs us about His might, majesty and pride, meaning that all things submit themselves to Him and every created being - animate and inanimate, as well as the responsible - humans and Jinns, and the angels - all humble themselves before Him. He tells us that everything that has a shadow leaning to the right and the left, i.e., in the morning and the evening, is by its shadow, prostrating to Allah. Mujahid said, "When the sun passes its zenith, everything prostrates to Allah, may He be glorified." This was also said by Qatadah, Ad-Dahhak and others.
+
+وَهُمْ دَاخِرُونَ
+
+(while they are humble) means, they are in a state of humility. Mujahid also said: "The prostration of every thing is its shadow", and he mentioned the mountains and said that their prostrations are their shadows. Abu Ghalib Ash-Shaybani said: "The waves of the sea are its prayers". It is as if reason is attributed to these inanimate objects when they are described as prostrating, so Allah says:
+
+وَلِلَّهِ يَسْجُدُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ مِن دَابَّةٍ
+
+(And to Allah prostrate all that are in the heavens and all that are in the earth, of the moving creatures) As Allah says:
+
+وَلِلَّهِ يَسْجُدُ مَن فِي السَّمَاوَاتِ وَالْأَرْضِ طَوْعًا وَكَرْهًا وَظِلَالُهُم بِالْغُدُوِّ وَالْآصَالِ
+
+(And to Allah (alone) all who are in the heavens and the earth fall in prostration, willingly or unwillingly, and so do their shadows in the mornings and in the afternoons.)(13:15)
+
+وَالْمَلَائِكَةُ وَهُمْ لَا يَسْتَكْبِرُونَ
+
+(and the angels, and they are not proud.) means, they prostrate to Allah and are not too proud to worship Him.
+
+يَخَافُونَ رَبَّهُم مِّن فَوْقِهِمْ
+
+(They fear their Lord above them) means, they prostrate out of fear of their Lord, may He be glorified.
+
+وَيَفْعَلُونَ مَا يُؤْمَرُونَ
+
+(and they do what they are commanded.) meaning they continually obey Allah, doing what He tells them to do and avoiding that which He forbids.
 
 ### al-Tabari (Arabic)
 
-يقول تعالى ذكره: يخاف هؤلاء الملائكة التي في السموات ، وما في الأرض من دابة، ربهم من فوقهم، أن يعذّبهم إن عَصَوا أمره ،ويفعلون ما يؤمرون ، يقول: ويفعلون ما أمرهم الله به، فيؤدّون حقوقه ، ويجتنبون سُخْطه.
+القول في تأويل قوله تعالى: ﴿يَخَافُونَ رَبَّهُمْ مِنْ فَوْقِهِمْ وَيَفْعَلُونَ مَا يُؤْمَرُونَ (٥٠) ﴾
+
+يقول تعالى ذكره: يخاف هؤلاء الملائكة التي في السموات، وما في الأرض من دابة، ربهم من فوقهم، أن يعذّبهم إن عَصَوا أمره،ويفعلون ما يؤمرون، يقول: ويفعلون ما أمرهم الله به، فيؤدّون حقوقه، ويجتنبون سُخْطه.
+
+* *
+
+القول في تأويل قوله تعالى: ﴿وَقَالَ اللَّهُ لا تَتَّخِذُوا إِلَهَيْنِ اثْنَيْنِ إِنَّمَا هُوَ إِلَهٌ وَاحِدٌ فَإِيَّايَ فَارْهَبُونِ (٥١) ﴾
+
+يقول تعالى ذكره: وقال الله لعباده: لا تتخذوا لي شريكا أيها الناس، ولا تعبدوا معبودين، فإنكم إذا عبدتم معي غيري جعلتم لي شريكا، ولا شريك لي، إنما هو إله واحد ومعبود واحد، وأنا ذلك، ﴿فَإِيَّايَ فَارْهَبُونِ﴾ يقول: فإياي فاتقوا وخافوا عقابي بمعصيتكم إياي إن عصيتموني وعبدتم غيري، أو أشركتم في عبادتكم لي شريكا.
+
+* *
+
+القول في تأويل قوله تعالى: ﴿وَلَهُ مَا فِي السَّمَاوَاتِ وَالأرْضِ وَلَهُ الدِّينُ وَاصِبًا أَفَغَيْرَ اللَّهِ تَتَّقُونَ (٥٢) ﴾
+
+يقول تعالى ذكره: ولله ملك ما في السموات والأرض من شيء، لا شريك له في شيء من ذلك، هو الذي خلقهم، وهو الذي يرزقهم، وبيده حياتهم وموتهم.
+
+* *
+
+وقوله ﴿وَلَهُ الدِّينُ وَاصِبًا﴾
+
+يقول جلّ ثناؤه: وله الطاعة والإخلاص دائما ثابتا واجبا، يقال منه: وَصَبَ الدِّينُ يَصِبُ وُصُوبا ووَصْبا كما قال الدِّيلِيّ:
+
+لا أبْتَغِي الحَمْدَ القَلِيلَ بَقاؤُهُ ... يَوْما بِذَمّ الدَّهْرِ أجمَعَ وَاصِبا [[البيت لأبي الأسود الدؤلي، ويقال فيه الديلي أيضا، استشهد به أبو عبيدة في مجاز القرآن (١: ٣٦١) على أن معنى "واصبا": دائما. وروايته فيه كرواية المؤلف (الطبري) . واستشهد به كذلك القرطبي في الجامع لأحكام القرآن (١٠: ١١٤) ورواه بروايتين: الأولى كرواية المؤلف، وقال قبلها، أنشد الغزنوي والثعلبي وغيرهما ... البيت. والأخرى باختلاف في الشطر الثاني. وهو: "بدم يكون الدهر أجمع واصبا" وظاهر أن هذه الرواية محرفة عن الأولى. وقال صاحب لسان العرب في "وصب". وفي التنزيل العزيز، "وله الدين واصبا" قال أبو إسحاق، قيل في معناه: دائبا: أي طاعته دائمة واجبة أبدا. قال: ويجوز، والله أعلم أن يكون "وله الدين واصبا": أي له الدين والطاعة، رضي العبد بما يؤمر به، أو لم يرض به، سهل عليه، أو لم يسهل، فله الدين وإن كان فيه الوصب، والوصب: شدة التعب، وفيه: "بعذاب واصب" أي دائم ثابت. وقيل: موجع.]]
+
+ومنه قول الله ﴿وَلَهُمْ عَذَابٌ وَاصِبٌ﴾ ، وقول حسان:
+
+غَيَّرَتْهُ الرِّيحُ تَسْفِي بِهِ ... وهَزِيمٌ رَعْدُهُ وَاصِبٌ [[البيت لحسان بن ثابت (ديوانه طبع ليدن سنة ١٩١٠ ص ٦١) وقبله بيت وهو المطلع: قَدْ تَعَفَّى بَعْدَنا عاذِبُ ... ما بِهِ بادٍ وَلا قارِبُ
+
+وتسفى به: تحمل إليه التراب. والهزيم: السحاب المتشقق بالمطر. يقول: غير هذا المكان ما تسفيه الريح عليه من التراب، وما يأتي به السحاب من مطر رعده دائم.]]
+
+فأما من الألم، فإنما يقال: وصب الرجل يوصب وصبا، وذلك إذا أعيا وملّ، ومنه قول الشاعر:
+
+لا يغْمِزُ السَّاقَ مِنْ أيْنِ ولا وَصَبٍ ... ولا يعَضُّ على شُرْسُوفِهِ الصَّفَرُ [[هذا البيت لأعشى باهلة، واسمه عامر بن الحارث جمهرة أشعار العرب لمحمد بن أبي الخطاب القرشي (١٣٥ - ١٣٧) من قصيدة يقولها في أخ له اسمه المنتشر، قتله بنو الحارث بن كعب وقطعوه إربا إربا (عضوا عضوا) برجل منهم كان فعل معه مثل ذلك. ورواية البيت فيه وفي اللسان (صفر) : لا يَتَأَسَّى لِمَا فِي الْقِدْرِ يَرْقبُهُ ... ولا يَعَضُّ عَلى شُرْسُوفِهِ الصَّفْرُ
+
+قال: والصفر دويية تكون في البطن، تدعيها الأعراب، ويكون منها الجوع. وخطأ رواية البيت الصاغاني، وأورده كرواية المؤلف. (انظر هامش اللسان: أرى) . والغمز: العصر باليد. والشرسوف: جمعه شراسيف، وهي أطراف أضلاع الصدر التي تشرف على البطن.]] وقد اختلف أهل التأويل في تأويل الواصب، فقال بعضهم: معناه، ما قلنا.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا ابن وكيع، قال: ثنا يحيى بن آدم، عن قيس، عن الأغرّ بن الصباح، عن خليفة بن حصين، عن أبي نضرة، عن ابن عباس ﴿وَلَهُ الدِّينُ وَاصِبًا﴾ قال: دائما.
+
+⁕ حدثني إسماعيل بن موسى، قال: أخبرنا شريك، عن أبي حصين، عن عكرمة، في قوله ﴿وَلَهُ الدِّينُ وَاصِبًا﴾ قال: دائما.
+
+⁕ حدثنا ابن وكيع، قال: ثنا يحيى بن آدم، عن قيس، عن يعلى بن النعمان، عن عكرمة، قال: دائما.
+
+⁕ حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء وحدثني المثنى، قال: أخبرنا إسحاق، قال: ثنا عبد الله، عن ورقاء وحدثني المثنى، قال: أخبرنا أبو حُذيفة، قال: ثنا شبل جميعا، عن ابن أبي نجيح عن مجاهد ﴿وَلَهُ الدِّينُ وَاصِبًا﴾ قال: دائما.
+
+⁕ حدثنا القاسم قال: ثنا الحسين، قال: ثني حجاج، عن ابن جريج، عن مجاهد ﴿وَلَهُ الدِّينُ وَاصِبًا﴾ قال: دائما.
+
+⁕ حدثنا ابن وكيع، قال: ثنا عبدة وأبو معاوية، عن جويبر، عن الضحاك ﴿وَلَهُ الدِّينُ وَاصِبًا﴾ قال: دائما.
+
+⁕ حدثني المثنى، قال: أخبرنا عمرو بن عون، قال: أخبرنا هشيم، عن جويبر، عن الضحاك، مثله.
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة ﴿وَلَهُ الدِّينُ وَاصِبًا﴾ : أي دائما، فإن الله تبارك وتعالى لم يدع شيئا من خلقه إلا عبده طائعا أو كارها.
+
+⁕ حدثنا محمد بن عبد الأعلى، قال: ثنا محمد بن ثور، عن معمر، عن قتادة ﴿وَاصِبًا﴾ قال: دائما، ألا ترى أنه يقول ﴿عَذَابٌ وَاصِبٌ﴾ أي دائم.
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله ﴿وَلَهُ الدِّينُ وَاصِبًا﴾ قال: دائما، والواصب: الدائم.
+
+وقال آخرون: الواصب في هذا الموضع: الواجب.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا أبو كريب، قال: ثنا ابن عطية، عن قيس، عن يَعَلَى بن النعمان، عن عكرمة، عن ابن عباس، في قوله ﴿وَلَهُ الدِّينُ وَاصِبًا﴾ قال: واجبا.
+
+وكان مجاهد يقول: معنى الدين في هذا الموضع: الإخلاص. وقد ذكرنا معنى الدين في غير هذا الموضع بما أغنى عن إعادته.
+
+⁕ حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى، وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء وحدثني المثنى قال: أخبرنا أبو حُذيفة، قال: ثنا شبل وحدثني المثنى، قال: أخبرنا إسحاق، قال: ثنا عبد الله، عن ورقاء جميعا عن ابن أبي نجيح، عن مجاهد ﴿وَلَهُ الدِّينُ وَاصِبًا﴾ قال: الإخلاص.
+
+⁕ حدثنا القاسم، قال: ثنا الحسين، قال: ثني حجاج، عن ابن جريج، عن مجاهد، قال: الدين: الإخلاص.
+
+* *
+
+وقوله ﴿أَفَغَيْرَ اللَّهِ تَتَّقُونَ﴾
+
+يقول تعالى ذكره: أفغير الله أيها الناس تتقون، أي ترهبون وتحذرون أن يسلبكم نعمة الله عليكم بإخلاصكم العبادة لربكم، وإفرادكم الطاعة له، وما لكم نافع سواه.
 
 ### al-Muyassar (Arabic)
 
-يخاف الملائكة ربهم الذي هو فوقهم بالذات والقهر وكمال الصفات، ويفعلون ما يُؤْمرون به من طاعة الله. وفي الآية: إثبات صفة العلو والفوقية لله على جميع خلقه، كما يليق بجلاله وكماله.
+يخاف الملائكة ربهم الذي هو فوقهم بالذات والقهر وكمال الصفات، ويفعلون ما يُؤْمرون به من طاعة الله. وفي الآية إثبات صفة العلو والفوقية لله على جميع خلقه، كما يليق بجلاله وكماله.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿يَخافُونَ﴾ أيْ المَلائِكَة حال مِن ضَمِير يَسْتَكْبِرُونَ ﴿رَبّهمْ مِن فَوْقهمْ﴾ حال مِن هُمْ أيْ عالِيًا. عَلَيْهِمْ بِالقَهْرِ ﴿ويَفْعَلُونَ ما يُؤْمَرُونَ﴾ بِهِ
 
 ---

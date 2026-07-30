@@ -1,6 +1,6 @@
 # Tafsir Cross-Reference Report
 
-Generated: 2026-04-03
+Generated: 2026-07-30
 Ayahs referenced: 5
 Tafsir sources: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), al-Jalalayn (Arabic)
 
@@ -10,20 +10,65 @@ Tafsir sources: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), 
 
 ### Ibn Kathir (English)
 
+And the people of Musa made in his absence, out of their ornaments, the image of a calf (for worship). It had a sound. Did they not see that it could neither speak to them nor guide them to the way? They took it (for worship) and they were wrongdoers (148)And when they regretted and saw that they had gone astray, they said: "If our Lord have not mercy upon us and forgive us, we shall certainly be of the losers (149)
+
 Story of worshipping the Calf
-Allah describes the misguidance of those who worshipped the calf that As-Samiri made for them from the ornaments they borrowed from the Copts. He made the shape of a calf with these ornaments and threw in it a handful of dust from the trace of the horse that the Angel Jibril was riding, and the calf seemed to moo. This occurred after Musa went for the appointed term with his Lord, where Allah told him about what happened when he was on Mount Tur. Allah said about...
+
+Allah describes the misguidance of those who worshipped the calf that As-Samiri made for them from the ornaments they borrowed from the Copts. He made the shape of a calf with these ornaments and threw in it a handful of dust from the trace of the horse that the Angel Jibril was riding, and the calf seemed to moo. This occurred after Musa went for the appointed term with his Lord, where Allah told him about what happened when he was on Mount Tur. Allah said about His Honorable Self,
+
+قَالَ فَإِنَّا قَدْ فَتَنَّا قَوْمَكَ مِن بَعْدِكَ وَأَضَلَّهُمُ السَّامِرِيُّ
+
+((Allah) said: "Verily, We have tried your people in your absence, and As-Samiri has led them astray")[20:85].
+
+The scholars of Tafsir have different views over the calf, whether it actually became alive and mooing, or if it remained made of gold, but the air entering it made it appear to be mooing. These are two opinions. Allah knows best. It was reported that when the statue mooed, the Jews started dancing around it and fell into misguidance because they adored it. They said that this, the calf, is your god and the god of Musa, but Musa forgot it! Allah answered them,
+
+أَفَلَا يَرَوْنَ أَلَّا يَرْجِعُ إِلَيْهِمْ قَوْلًا وَلَا يَمْلِكُ لَهُمْ ضَرًّا وَلَا نَفْعًا
+
+(Did they not see that it could not return them a word (for answer), and that it had neither power to harm them nor to do them good?)[20:89]. Allah said here,
+
+أَلَمْ يَرَوْا أَنَّهُ لَا يُكَلِّمُهُمْ وَلَا يَهْدِيهِمْ سَبِيلًا
+
+(Did they not see that it could neither speak to them nor guide them to the way?)
+
+Allah condemned the Jews for falling into misguidance, worshipping the calf and ignoring the Creator of the heavens and earth, the Lord and King of all things. They worshipped besides Him a statue made in the shape of a calf, that seemed to moo, but it neither spoke to them nor brought them any benefit. Rather, their very sense of reason was blinded because of ignorance and misguidance. Allah's statement,
+
+وَلَمَّا سُقِطَ فِي أَيْدِيهِمْ
+
+(And when they regretted), and felt sorrow for their action,
+
+وَرَأَوْا أَنَّهُمْ قَدْ ضَلُّوا قَالُوا لَئِن لَّمْ يَرْحَمْنَا رَبُّنَا وَيَغْفِرْ لَنَا لَنَكُونَنَّ مِنَ الْخَاسِرِينَ
+
+(and saw that they had gone astray, they said: "If our Lord have not mercy upon us and forgive us, we will certainly become among the losers.") or among the destroyed ones. This was their recognition of their sin and their way of seeking salvation from Allah the Most Mighty and Majestic.
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله :  وَاتَّخَذَ قَوْمُ مُوسَى مِنْ بَعْدِهِ مِنْ حُلِيِّهِمْ عِجْلا جَسَدًا لَهُ خُوَارٌ أَلَمْ يَرَوْا أَنَّهُ لا يُكَلِّمُهُمْ وَلا يَهْدِيهِمْ سَبِيلا اتَّخَذُوهُ وَكَانُوا ظَالِمِينَ (148)قال أبو جعفر: يقول تعالى ذكره: واتخذ بنو إسرائيل قومُ موسى، من بعد ما فارقهم موسى ماضيًا إلى ربه لمناجاته، ووفاءً للوعد الذي كان ربه وعده = " من حليهم عجلا ", وهو ولد البقرة, فعبدوه. (30) ثم بين تعالى ذكره ما ذلك العجل فقال: " جسدًا له خوار "= و " الخوار ": صوت البقر = يخبر جل ذكره عنهم...
+القول في تأويل قوله: ﴿وَاتَّخَذَ قَوْمُ مُوسَى مِنْ بَعْدِهِ مِنْ حُلِيِّهِمْ عِجْلا جَسَدًا لَهُ خُوَارٌ أَلَمْ يَرَوْا أَنَّهُ لا يُكَلِّمُهُمْ وَلا يَهْدِيهِمْ سَبِيلا اتَّخَذُوهُ وَكَانُوا ظَالِمِينَ (١٤٨) ﴾
+
+قال أبو جعفر: يقول تعالى ذكره: واتخذ بنو إسرائيل قومُ موسى، من بعد ما فارقهم موسى ماضيًا إلى ربه لمناجاته، ووفاءً للوعد الذي كان ربه وعده = "من حليهم عجلا"، وهو ولد البقرة، فعبدوه. [[(١) مضى ذكر ((العجل)) فيما سلف ٢: ٦٣، ٧٢، ٣٥٤، ٣٥٧ / ٩: ٣٥٦، ولم يفسره إلا في هذا الموضع.]] ثم بين تعالى ذكره ما ذلك العجل فقال: "جسدًا لا خوار"= و"الخوار": صوت البقر = يخبر جل ذكره عنهم أنهم ضلوا بما لا يضل بمثله أهل العقل. وذلك أن الرب جلّ جلاله الذي له ملك السموات والأرض، ومدبر ذلك، لا يجوز أن يكون جسدًا له خوار، لا يكلم أحدًا ولا يرشد إلى خير. وقال هؤلاء الذين قص الله قصَصهم لذلك: "هذا إلهنا وإله موسى"، فعكفوا عليه يعبدونه، جهلا منهم، وذهابًا عن الله وضلالا.
+
+* *
+
+وقد بينا سبب عبادتهم إياه، وكيف كان اتخاذ من اتخذ منهم العجل، فيما مضى بما أغنى عن إعادته. [[(٢) انظر ما سلف ٢: ٦٣ - ٦٨ / ثم ص: ٧٤ - ٧٨.]]
+
+* *
+
+وفي "الحلي" لغتان: ضم "الحاء" وهو الأصل = وكسرها، وكذلك ذلك في كل ما شاكله من مثل "صلى" و"جثّي" و"عتّي"، وبأيتهما قرأ القارئ فمصيب الصواب، لاستفاضة القراءة بهما في القراءة، ولا تفاق معنييهما. [[(٣) في المطبوعة: ((لا تفارق بين معنييهما)) ، غير ما في المخطوطة، فأفسد الكلام ومسخه. والصواب ما في المخطوطة، ولكنى زدت الواو، لأنها حق الكلام.]]
+
+* *
+
+وقوله: "ألم يروا أنه لا يكلمهم ولا يهديهم سبيلا"، يقول: ألم ير الذين عكفوا على العجل الذي اتخذوه من حليهم يعبدونه، أن العجل لا يكلمهم ولا يهديهم سبيلا؟ يقول: ولا يرشدهم إلى طريق؟ [[(١) انظر تفسير ((سبيل)) فيما سلف من فهارس اللغة (سبل) .]] وليس ذلك من صفة ربهم الذي له العبادة حقًا، بل صفته أنه يكلم أنبياءه ورسله، ويرشد خلقه إلى سبيل الخير، وينهاهم عن سبيل المهالك والردى. يقول الله جل ثناؤه: "اتخذوه"، أي: اتخذوا العجل إلهًا، وكانوا باتخاذهم إياه ربًّا معبودًا ظالمين لأنفسهم، لعبادتهم غير من له العبادة، وإضافتهم الألوهة إلى غير الذي له الألوهة.
+
+* *
+
+وقد بينا معنى "الظلم" فيما مضى بما أغنى عن إعادته. [[(٢) انظر تفسير ((الظلم)) فيما سلف من فهارس اللغة (ظلم) .]]
 
 ### al-Muyassar (Arabic)
 
-واتخذ قوم موسى من بعد ما فارقهم ماضيًا لمناجاة ربه معبودًا مِن ذهبهم عِجلا جسدًا بلا روح، له صوت، ألم يعلموا أنه لا يكلمهم، ولا يرشدهم إلى خير؟ أَقْدَمُوا على ما أقدموا عليه من هذا الأمر الشنيع، وكانوا ظالمين لأنفسهم واضعين الشيء في غير موضعه.
+واتخذ قوم موسى مِن بعد ما فارقهم ماضيًا لمناجاة ربه، معبودًا مِن ذهبهم عِجْلًا جسدًا بلا روح، له صوت يُشْبِهُ صوت البقر، ألم يعلموا أنه لا يكلمهم، ولا يرشدهم إلى خير؟ أَقْدَمُوا على ما أقدموا عليه من هذا الأمر الشنيع، وكانوا ظالمين لأنفسهم واضعين الشيء في غير موضعه.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿واِتَّخَذَ قَوْم مُوسى مِن بَعْده﴾ أيْ بَعْد ذَهابه إلى المُناجاة ﴿مِن حُلِيّهمْ﴾ الَّذِي اسْتَعارُوهُ مِن قَوْم فِرْعَوْن بِعَلَّةِ عُرْس فَبَقِيَ عِنْدهمْ ﴿عِجْلًا﴾ صاغَهُ لَهُمْ مِنهُ السّامِرِيّ ﴿جَسَدًا﴾ بُدِّلَ لَحْمًا ودَمًا ﴿لَهُ خُوار﴾ أيْ صَوْت يُسْمَع انْقَلَبَ كَذَلِكَ بِوَضْعِ التُّراب الَّذِي أخَذَهُ مِن حافِر فَرَس جِبْرِيل فِي فَمه فَإنَّ أثَره الحَياة فِيما يُوضَع فِيهِ ومَفْعُول اتَّخَذَ الثّانِي مَحْذُوف أيْ إلَهًا ﴿ألَمْ يَرَوْا أنَّهُ لا يُكَلِّمهُمْ ولا يَهْدِيهِمْ سَبِيلًا﴾ فَكَيْفَ يُتَّخَذ إلَهًا ﴿اتَّخَذُوهُ﴾ إلَهًا ﴿وكانُوا ظالِمِينَ﴾ بِاِتِّخاذِهِ
 
 ---
 
@@ -31,12 +76,71 @@ Allah describes the misguidance of those who worshipped the calf that As-Samiri 
 
 ### Ibn Kathir (English)
 
+And the people of Musa made in his absence, out of their ornaments, the image of a calf (for worship). It had a sound. Did they not see that it could neither speak to them nor guide them to the way? They took it (for worship) and they were wrongdoers (148)And when they regretted and saw that they had gone astray, they said: "If our Lord have not mercy upon us and forgive us, we shall certainly be of the losers (149)
+
 Story of worshipping the Calf
-Allah describes the misguidance of those who worshipped the calf that As-Samiri made for them from the ornaments they borrowed from the Copts. He made the shape of a calf with these ornaments and threw in it a handful of dust from the trace of the horse that the Angel Jibril was riding, and the calf seemed to moo. This occurred after Musa went for the appointed term with his Lord, where Allah told him about what happened when he was on Mount Tur. Allah said about...
+
+Allah describes the misguidance of those who worshipped the calf that As-Samiri made for them from the ornaments they borrowed from the Copts. He made the shape of a calf with these ornaments and threw in it a handful of dust from the trace of the horse that the Angel Jibril was riding, and the calf seemed to moo. This occurred after Musa went for the appointed term with his Lord, where Allah told him about what happened when he was on Mount Tur. Allah said about His Honorable Self,
+
+قَالَ فَإِنَّا قَدْ فَتَنَّا قَوْمَكَ مِن بَعْدِكَ وَأَضَلَّهُمُ السَّامِرِيُّ
+
+((Allah) said: "Verily, We have tried your people in your absence, and As-Samiri has led them astray")[20:85].
+
+The scholars of Tafsir have different views over the calf, whether it actually became alive and mooing, or if it remained made of gold, but the air entering it made it appear to be mooing. These are two opinions. Allah knows best. It was reported that when the statue mooed, the Jews started dancing around it and fell into misguidance because they adored it. They said that this, the calf, is your god and the god of Musa, but Musa forgot it! Allah answered them,
+
+أَفَلَا يَرَوْنَ أَلَّا يَرْجِعُ إِلَيْهِمْ قَوْلًا وَلَا يَمْلِكُ لَهُمْ ضَرًّا وَلَا نَفْعًا
+
+(Did they not see that it could not return them a word (for answer), and that it had neither power to harm them nor to do them good?)[20:89]. Allah said here,
+
+أَلَمْ يَرَوْا أَنَّهُ لَا يُكَلِّمُهُمْ وَلَا يَهْدِيهِمْ سَبِيلًا
+
+(Did they not see that it could neither speak to them nor guide them to the way?)
+
+Allah condemned the Jews for falling into misguidance, worshipping the calf and ignoring the Creator of the heavens and earth, the Lord and King of all things. They worshipped besides Him a statue made in the shape of a calf, that seemed to moo, but it neither spoke to them nor brought them any benefit. Rather, their very sense of reason was blinded because of ignorance and misguidance. Allah's statement,
+
+وَلَمَّا سُقِطَ فِي أَيْدِيهِمْ
+
+(And when they regretted), and felt sorrow for their action,
+
+وَرَأَوْا أَنَّهُمْ قَدْ ضَلُّوا قَالُوا لَئِن لَّمْ يَرْحَمْنَا رَبُّنَا وَيَغْفِرْ لَنَا لَنَكُونَنَّ مِنَ الْخَاسِرِينَ
+
+(and saw that they had gone astray, they said: "If our Lord have not mercy upon us and forgive us, we will certainly become among the losers.") or among the destroyed ones. This was their recognition of their sin and their way of seeking salvation from Allah the Most Mighty and Majestic.
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله :  وَلَمَّا سُقِطَ فِي أَيْدِيهِمْ وَرَأَوْا أَنَّهُمْ قَدْ ضَلُّوا قَالُوا لَئِنْ لَمْ يَرْحَمْنَا رَبُّنَا وَيَغْفِرْ لَنَا لَنَكُونَنَّ مِنَ الْخَاسِرِينَ (149)قال أبو جعفر: يعني تعالى ذكره بقوله: " ولما سقط في أيديهم "، : ولما ندم الذين عبدوا العجل الذي وصف جل ثناؤه صفته، عند رجوع موسى إليهم, واستسلموا لموسى وحكمه فيهم.* * *وكذلك تقول العرب لكل نادم على أمر فات منه أو سلف، وعاجز عن شيء: " قد سُقِط في يديه " و " أسقط"، لغتان فصيحتان, وأصله من الاستئسار, وذلك أن يضرب الر...
+القول في تأويل قوله: ﴿وَلَمَّا سُقِطَ فِي أَيْدِيهِمْ وَرَأَوْا أَنَّهُمْ قَدْ ضَلُّوا قَالُوا لَئِنْ لَمْ يَرْحَمْنَا رَبُّنَا وَيَغْفِرْ لَنَا لَنَكُونَنَّ مِنَ الْخَاسِرِينَ (١٤٩) ﴾
+
+قال أبو جعفر: يعني تعالى ذكره بقوله: "ولما سقط في أيديهم"،: ولما ندم الذين عبدوا العجل الذي وصف جل ثناؤه صفته، عند رجوع موسى إليهم، واستسلموا لموسى وحكمه فيهم.
+
+* *
+
+وكذلك تقول العرب لكل نادم على أمر فات منه أو سلف، وعاجز عن شيء: "قد سُقِط في يديه" و"أسقط"، لغتان فصيحتان، وأصله من الاستئسار، وذلك أن يضرب الرجل الرجل أو يصرعه، فيرمي به من يديه إلى الأرض ليأسره، فيكتفه. فالمرميّ به مسقوط في يدي الساقط به. فقيل لكل عاجز عن شيء، وضارع لعجزه، [[(١) في المطبوعة: ((ومضارع لعجزه)) ، والصواب من المخطوطة.]] متندِّمٍ على ما قاله: "سقط في يديه" و"أسقط". [[(٢) انظر معاني القرآن للفراء ١: ٣٩٣، ومجاز القرآن لأبي عبيدة ١: ٢٢٨، والذي قاله أبو جعفر تفصيل جيد، وبيان عن أصل الحرف، قلما تصيبه في كتب اللغة.]]
+
+* *
+
+وعنى بقوله: "ورأوا أنهم قد ضلوا"، ورأوا أنهم قد جاروا عن قصد السبيل، وذهبوا عن دين الله، وكفروا بربهم، قالوا تائبين إلى الله منيبين إليه من كفرهم به: "لئن لم يرحمنا ربنا ويغفر لنا لنكونن من الخاسرين".
+
+* *
+
+ثم اختلفت القرأة في قرأةة ذلك.
+
+فقرأه بعض قرأة أهل المدينة ومكة والكوفة والبصرة: ﴿لَئِنْ لَمْ يَرْحَمْنَا رَبُّنَا﴾ بالرفع، على وجه الخبر.
+
+* *
+
+وقرأ ذلك عامة قرأة أهل الكوفة: ﴿لَئِنْ لَمْ تَرْحَمْنَا رَبَّنَا﴾ ، بالنصب، بتأويل: لئن لم ترحمنا يا ربنا= على وجه الخطاب منهم لربهم. واعتلّ قارئو ذلك كذلك بأنه في إحدى القراءتين: ﴿قَالُوا رَبَّنَا لَئِنْ لَمْ تَرْحَمْنَا رَبَّنَا وتَغْفِرْ لَنَا﴾ ، وذلك دليل على الخطاب. [[(٣) في المطبوعة والمخطوطة: ((قالوا لئن ترحمنا ربنا وتغفر لنا)) كسياق الآية في مصحفنا، وهذا لا دليل فيه على الخطاب. ولكن ما أثبته هو الذي فيه الدليل على الخطاب، لتقديم قوله: ((ربنا)) ، وهي قراءة أبي بن كعب، وهي كذلك في مصحف عبد الله بن مسعود، كما ذكر الفراء في معاني القرآن ١: ٣٩٣. فقوله: ((واعتل قارئو ذلك كذلك بأنه في إحدى القراءتين)) ، أرجح أنه يعني إحدى قراءتي عبد الله بن مسعود، وأيضاً، فإن الآية ستأتى بعد أسطر على الصواب في المخطوطة، ولكن يغيرها ناشر المطبوعة، كما في التعليق التالي.]]
+
+* *
+
+قال أبو جعفر: والذي هو أولى بالصواب من القراءة في ذلك، القراءة على وجه الخبر بالياء في ﴿يَرْحَمْنَا﴾ ، وبالرفع في قوله: ﴿رَبُّنَا﴾ ، لأنه لم يتقدم ذلك ما يوجب أن يكون موجَّهًا إلى الخطاب.
+
+* *
+
+والقراءة التي حكيت على ما ذكرنا من قراءتها: ﴿قَالُوا رَبَّنَا لَئِنْ لَمْ تَرْحَمْنَا﴾ ، [[(١) في المطبوعة: ((قالوا لئن ترحمنا ربنا)) ، بتأخير ((ربنا)) ، والصواب تقديمها كما في المخطوطة. وهو تصرف سيئ من الناشر. انظر التعليق لسالف.]] لا نعرف صحتها من الوجه الذي يجب التسليم إليه.
+
+* *
+
+ومعنى قوله: ﴿لئن لم يرحمنا ربنا ويغفر لنا﴾ ،: لئن لم يتعطف علينا ربنا بالتوبة برحمته، ويتغمد بها ذنوبنا، لنكونن من الهالكين الذين حبطت أعمالهم. [[(٢) انظر تفسير ((الرحمة)) و ((المغفرة)) و ((الخسران)) فيما سلف (رحم) (غفر) (خسر) .]]
 
 ### al-Muyassar (Arabic)
 
@@ -44,7 +148,7 @@ Allah describes the misguidance of those who worshipped the calf that As-Samiri 
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿ولَمّا سُقِطَ فِي أيْدِيهمْ﴾ أيْ نَدِمُوا عَلى عِبادَته ﴿ورَأَوْا﴾ عَلِمُوا ﴿أنَّهُمْ قَدْ ضَلُّوا﴾ بِها وذَلِكَ بَعْد رُجُوع مُوسى ﴿قالُوا لَئِنْ لَمْ يَرْحَمنا رَبّنا ويَغْفِر لَنا﴾ بِالياءِ والتّاء فِيهِما
 
 ---
 
@@ -52,24 +156,229 @@ Allah describes the misguidance of those who worshipped the calf that As-Samiri 
 
 ### Ibn Kathir (English)
 
-قَالَ بِئْسَمَا خَلَفْتُمُونِى مِن بَعْدِى
+And when Musa returned to his people, angry and grieved, he said: "What an evil thing is that which you have done during my absence. Did you hasten in matter of your Lord?" And he threw down the Tablets and seized his brother by (the hair of) his head and dragged him towards him. He (Harun) said: "O son of my mother! Indeed the people judged me weak and were about to kill me, so make not the enemies rejoice over me, nor put me among the people who are wrongdoers. (150)He (Musa) said: "O my Lord! Forgive me and my brother, and admit us into Your mercy, for You are the Most Merciful of those who show mercy. (151)
+
+Allah states that when Musa returned to his people after conversation with his Lord, he became angry and full of regret. Abu Ad-Darda' said that Asif, or regret, is the severest type of anger.
+
+قَالَ بِئْسَمَا خَلَفْتُمُونِي مِن بَعْدِي
+
 (He (Musa) said: "What an evil thing is that which you have done during my absence.") evil it is that which you committed after I departed and left you, by worshiping the calf,
+
 أَعَجِلْتُمْ أَمْرَ رَبِّكُمْ
-(Did you hasten in the matter of your Lord) Musa said, `You wanted me to rush back to you, even though being there this was Allah's decision' Allah said next,
-وَأَلْقَى الأَلْوَاحَ وَأَخَذَ بِرَأْسِ أَخِيهِ يَجُرُّهُ إِلَيْهِ
-(And he threw down th...
+
+(Did you hasten in the matter of your Lord?)
+
+Musa said, 'You wanted me to rush back to you, even though [being there] this was Allah's decision?' Allah said next,
+
+وَأَلْقَى الْأَلْوَاحَ وَأَخَذَ بِرَأْسِ أَخِيهِ يَجُرُّهُ إِلَيْهِ
+
+(And he threw down the Tablets and seized his brother by his head and dragged him towards him.)
+
+This Ayah demonstrates the meaning of the Hadith,
+
+لَيْسَ الْخَبَرُ كَالْمُعَايَنَةِ
+
+(Information is not the same as observation.)
+
+It indicates that Musa threw down the Tablets because he was angry at his people, according to the majority of scholars of early and latter times. Allah said,
+
+وَأَخَذَ بِرَأْسِ أَخِيهِ يَجُرُّهُ إِلَيْهِ
+
+(and seized his brother by (the hair of) his head and dragged him towards him.) for Musa feared that Harun might have not tried hard enough to forbid them from their evil action. In another Ayah, Allah said,
+
+قَالَ يَا هَارُونُ مَا مَنَعَكَ إِذْ رَأَيْتَهُمْ ضَلُّوا - أَلَّا تَتَّبِعَنِ أَفَعَصَيْتَ أَمْرِي - قَالَ يَا ابْنَ أُمَّ لَا تَأْخُذْ بِلِحْيَتِي وَلَا بِرَأْسِي إِنِّي خَشِيتُ أَن تَقُولَ فَرَّقْتَ بَيْنَ بَنِي إِسْرَائِيلَ وَلَمْ تَرْقُبْ قَوْلِي
+
+((He [Musa] said: "O Harun ! What prevented you when you saw them going astray. That you followed me not (according to my advice to you)? Have you then disobeyed my order?" He [Harun] said: "O son of my mother! Seize (me) not by my beard, nor by my head! Verily, I feared lest you should say: 'You have caused a division among the Children of Israel, and you have not respected (waited or observed) my word!'")[20:92-94].
+
+Here, Allah said that Harun said,
+
+ابْنَ أُمَّ إِنَّ الْقَوْمَ اسْتَضْعَفُونِي وَكَادُوا يَقْتُلُونَنِي فَلَا تُشْمِتْ بِيَ الْأَعْدَاءَ وَلَا تَجْعَلْنِي مَعَ الْقَوْمِ الظَّالِمِينَ
+
+("O son of my mother! Indeed the people judged me weak and were about to kill me, so make not the enemies rejoice over me, nor put me among the people who are wrongdoers.")
+
+Harun said, 'Do not place me on the same level as they are, as if I was one of them.' Further, Harun said, 'O son of my mother', so that Musa would feel more mercy and leniency towards him, even though Harun was also the son of Musa's father. When Musa was satisfied that his brother was innocent,
+
+وَلَقَدْ قَالَ لَهُمْ هَارُونُ مِن قَبْلُ يَا قَوْمِ إِنَّمَا فُتِنتُم بِهِ وَإِنَّ رَبَّكُمُ الرَّحْمَٰنُ فَاتَّبِعُونِي وَأَطِيعُوا أَمْرِي
+
+(And Harun indeed had said to them beforehand: "O my people! You are being tried in this, and verily, your Lord is (Allah) the Most Gracious, so follow me and obey my order.")[20:90], this is when,
+
+قَالَ
+
+(he said) Musa,
+
+رَبِّ اغْفِرْ لِي وَلِأَخِي وَأَدْخِلْنَا فِي رَحْمَتِكَ وَأَنتَ أَرْحَمُ الرَّاحِمِينَ
+
+("O my Lord! Forgive me and my brother, and admit us into Your mercy, for you are the Most Merciful of those who show mercy.")
+
+Ibn Abi Hatim recorded that Ibn 'Abbas said that the Messenger of Allah ﷺ said,
+
+يَرْحَمُ اللهُ مُوسَى لَيْسَ الْمُعَايِنُ كَالْمُخْبِرِ أَخْبَرَهُ رَبُّهُ عَزَّ وَجَلَّ أَنَّ قَوْمَهُ فُتِنُوا بَعْدَهُ فَلَمْ يَلْقَ الْأَلْوَاحَ فَلَمَّا رَآهُمْ وَعَايَنَهُمْ أَلْقَى الْأَلْوَاحَ
+
+(May Allah grant His mercy to Musa! Surely, he who observes [something] is nothing like he who is informed about it. His Lord, the Exalted and Most Honored, told him that his people were tested after him, but he did not throw the Tablets. When he saw them with his eyes, then he threw the Tablets.)
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله :  وَلَمَّا رَجَعَ مُوسَى إِلَى قَوْمِهِ غَضْبَانَ أَسِفًا قَالَ بِئْسَمَا خَلَفْتُمُونِي مِنْ بَعْدِي أَعَجِلْتُمْ أَمْرَ رَبِّكُمْقال أبو جعفر: يقول تعالى ذكره: ولما رجع موسى إلى قومه من بني إسرائيل, رجع غضبان أسفًا, لأن الله كان قد أخبره أنه قد فتن قومه, وأن السامري قد أضلّهم, فكان رجوعه غضبان أسفًا لذلك.* * *و " الأسف " شدة الغضب، والتغيظ به على من أغضبه، كما:-15124- حدثني عمران بن بكار الكلاعي قال، حدثنا عبد السلام بن محمد الحضرمي قال، حدثني شريح بن يزيد قال، سمعت نصر...
+القول في تأويل قوله: ﴿وَلَمَّا رَجَعَ مُوسَى إِلَى قَوْمِهِ غَضْبَانَ أَسِفًا قَالَ بِئْسَمَا خَلَفْتُمُونِي مِنْ بَعْدِي أَعَجِلْتُمْ أَمْرَ رَبِّكُمْ﴾
+
+قال أبو جعفر: يقول تعالى ذكره: ولما رجع موسى إلى قومه من بني إسرائيل، رجع غضبان أسفًا، لأن الله كان قد أخبره أنه قد فتن قومه، وأن السامري قد أضلّهم، فكان رجوعه غضبان أسفًا لذلك.
+
+* *
+
+و"الأسف" شدة الغضب، والتغيظ به على من أغضبه، كما:-
+
+١٥١٢٤- حدثني عمران بن بكار الكلاعي قال، حدثنا عبد السلام بن محمد الحضرمي قال، حدثني شريح بن يزيد قال، سمعت نصر بن علقمة يقول: قال أبو الدرداء: قول الله: "غضبان أسفًا"، قال: "الأسف"، منزلة وراء الغضب، أشدُّ من ذلك، وتفسير ذلك في كتاب الله: ذهب إلى قومه غضبان، وذهب أسفًا. [[الأثر: ١٥١٢٤ - ((عبد السلام بن محمد الحضرمى)) ، يعرف ب ((سليم)) ، مترجم في التهذيب، وقال: ((وقد ذكره البخاري فلم يذكر فيه جرحاً)) ، وابن أبي حاتم ٣ / ١ / ٤٨، وذكره ابن حبان في الثقات. و ((شريح بن يزيد الحضرمى)) ، ((أبو حيوة)) ، لم يذكر فيه البخاري جرحاً، ووثقه ابن حبان. ممترجم في التهذيب، والكبير ٢/٢/٢٣١.
+
+و ((نصر بن علقمة الحضرمى)) ، ((أبو علقمة)) ، وثقه دحيم وابن حبان، ولم يذكر فيه البخاري جرحاً. مترجم في التهذيب، والكبير ٤/٢/١٠٢، وابن أبي حاتم ٤ / ١ / ٤٦٩، وروايته عن أبي الدرداء مرسلة.]]
+
+* *
+
+وقال آخرون في ذلك ما:-
+
+١٥١٢٥- حدثني موسى بن هارون قال، حدثنا عمرو قال، حدثنا أسباط، عن السدي: "أسفًا"، قال: حزينًا.
+
+١٥١٢٦- حدثني محمد بن سعد قال، حدثني أبي قال، حدثني عمي قال، حدثني أبي، عن أبيه، عن ابن عباس: "ولما رجع موسى إلى قومه غضبان أسفًا"، يقول: "أسفًا"، "حزينًا"، وقال في "الزخرف": ﴿فَلَمَّا آسَفُونَا﴾ [سورة الزخرف: ٥٥] ، يقول: أغضبونا= و"الأسف"، على وجهين: الغضب، والحزن.
+
+١٥١٢٧- حدثنا نصر بن علي قال، حدثنا سليمان بن سليمان قال، حدثنا مالك بن دينار قال، سمعت الحسن يقول في قوله: "ولما رجع موسى إلى قومه غضبان أسفًا"، قال: غضبان حزينًا.
+
+* *
+
+وقوله: "قال بئسما خلفتموني من بعدي"، يقول: بئس الفعل فعلتم بعد فراقي إياكم وأوليتموني فيمن خلفت ورائي من قومي فيكم، وديني الذي أمركم به ربكم. يقال منه: "خلفه بخير"، و"خلفه بشر"، إذا أولاه في أهله أو قومه ومن كان منه بسبيل من بعد شخوصه عنهم، خيرًا أو شرًّا. [[(١) انظر تفسير ((خلف)) فيما سلف ص: ٨٨، تعليق: ١، والمراجع هناك.]]
+
+* *
+
+وقوله: "أعجلتم أمر ربكم"، يقول: أسبقتم أمر ربكم في نفوسكم، وذهبتم عنه؟
+
+* *
+
+يقال منه: "عجل فلان هذا الأمر"، إذا سبقه = و"عجل فلانٌ فلانًا"، إذا سبقه = "ولا تَعْجَلْني يا فلان"، لا تذهب عني وتدعني= و"أعجلته": استحثثته.
+
+* *
+
+القول في تأويل قوله: ﴿وَأَلْقَى الألْوَاحَ وَأَخَذَ بِرَأْسِ أَخِيهِ يَجُرُّهُ إِلَيْهِ قَالَ ابْنَ أُمَّ إِنَّ الْقَوْمَ اسْتَضْعَفُونِي وَكَادُوا يَقْتُلُونَنِي فَلا تُشْمِتْ بِيَ الأعْدَاءَ وَلا تَجْعَلْنِي مَعَ الْقَوْمِ الظَّالِمِينَ (١٥٠) ﴾
+
+قال أبو جعفر: يقول تعالى ذكره: وألقى موسى الألواح.
+
+* *
+
+ثم اختلف أهل العلم في سبب إلقائه إياها.
+
+فقال بعضهم: ألقاها غضبًا على قومه الذين عبدوا العجل.
+
+ذكر من قال ذلك:
+
+١٥١٢٨- حدثنا تميم بن المنتصر قال، أخبرنا يزيد قال، أخبرنا الأصبغ بن زيد، عن القاسم بن أبي أيوب قال، حدثني سعيد بن جبير قال، قال ابن عباس: لما رجع موسى إلى قومه غضبان أسفًا، فأخذ برأس أخيه يجرّه إليه، وألقى الألواح من الغضب.
+
+١٥١٢٩- وحدثني عبد الكريم قال، حدثنا إبراهيم بن بشار قال، حدثنا ابن عيينة قال، قال أبو سعد، عن عكرمة، عن ابن عباس قال: لما رجع موسى إلى قومه، وكان قريبًا منهم، سمع أصواتهم، فقال: إني لأسمع أصواتَ قومٍ لاهين: فلما عاينهم وقد عكفوا على العجل، ألقى الألواح فكسرها، وأخذ برأس أخيه يجره إليه.
+
+١٥١٣٠- حدثنا موسى قال، حدثنا عمرو قال، حدثنا أسباط، عن السدي قال: أخذ موسى الألواح، ثم رجع موسى إلى قومه غضبان أسفًا، فقال: ﴿يَا قَوْمِ أَلَمْ يَعِدْكُمْ رَبُّكُمْ وَعْدًا حَسَنًا﴾ ، إلى قوله: فَكَذَلِكَ أَلْقَى السَّامِرِيُّ [سورة طه: ٨٦-٨٧] ، فألقى موسى الألواح، وأخذ برأس أخيه يجره إليه= ﴿قَالَ يَا ابْنَ أُمَّ لا تَأْخُذْ بِلِحْيَتِي وَلا بِرَأْسِي﴾ [سورة طه: ٩٤] .
+
+١٥١٣١- حدثنا ابن حميد قال، حدثنا سلمة، عن ابن إسحاق قال: لما انتهى موسى إلى قومه فرأى ما هم عليه من عبادة العجل، ألقى الألواح من يده، ثم أخذ برأس أخيه ولحيته، ويقول: ﴿مَا مَنَعَكَ إِذْ رَأَيْتَهُمْ ضَلُّوا أَلا تَتَّبِعَنِي أَفَعَصَيْتَ أَمْرِي﴾ [سورة طه: ٩٢، ٩٣] .
+
+* *
+
+وقال آخرون: إنما ألقى موسى الألواح لفضائل أصابها فيها لغير قومه، فاشتدّ ذلك عليه.
+
+ذكر من قال ذلك:
+
+١٥١٣٢- حدثنا بشر بن معاذ قال، حدثنا يزيد قال، حدثنا سعيد، عن قتادة، قوله: "أخذ الألواح"، قال: رب، إني أجد في الألواح أمةً خيرَ أمة أخرجت للناس، يأمرون بالمعروف وينهون عن المنكر، فاجعلهم أمتي! قال: تلك أمة أحمد! قال: رب إني أجد في الألواح أمة هم الآخرون= أي آخرون في الخلق= السابقون في دخول الجنة، [[(١) في المطبوعة: ((الآخرون السابقون = أي: آخرون في الخلق، سابقون في دخول الجنة)) ، وأثبت ما في المخطوطة.]] رب اجعلهم أمتي! قال: تلك أمة أحمد! قال: رب إني أجد في الألواح أمة أناجيلهم في صدورهم يقرأونها،= وكان من قبلهم يقرأون كتابهم نظرًا، حتى إذا رفعوها لم يحفظوا شيئًا، ولم يعرفوه. قال قتادة: وإن الله أعطاكم أيتها الأمة من الحفظ شيئًا لم يعطه أحدًا من الأمم = قال: ربِّ اجعلهم أمتي! قال: تلك أمة أحمد! قال: رب إني أجد في الألواح أمة يؤمنون بالكتاب الأول وبالكتاب الآخر، ويقاتلون فضول الضلالة، حتى يقاتلوا الأعور الكذاب، فاجعلهم أمتي! قال: تلك أمة أحمد! قال: رب إني أجد في الألواح أمة صدقاتهم يأكلونها في بطونهم، ثم يؤجرون عليها= وكان من قبلهم من الأمم إذا تصدق بصدقة فقبلت منه، بعث الله عليها نارًا فأكلتها، وإن ردَّت عليه تركت تأكلها الطير والسباع. قال: وإن الله أخذ صدقاتكم من غنيكم لفقيركم= قال: رب اجعلهم أمتي! قال: تلك أمة أحمد! قال: رب إني أجد في الألواح أمة إذا همّ أحدهم بحسنة ثم لم يعملها كتبت له حسنة، فإن عملها كتبت له عشر أمثالها إلى سبعمائة، رب اجعلهم أمتي! قال: تلك أمة أحمد! قال: رب إني أجد في الألواح أمة إذا همّ أحدهم بسيئة لم تكتب عليه حتى يعملها، فإذا عملها كتبت عليه سيئة واحدة، فاجعلهم أمتي! قال: تلك أمة أحمد! قال: رب إني أجد في الألواح أمة هم المستجيبون والمستجاب لهم، فاجعلهم أمتي! قال: تلك أمة أحمد، قال: رب إني أجد في الألواح أمة هم المشفَّعون والمشفوع لهم، فاجعلهم أمتي! قال: تلك أمة أحمد! قال: وذكر لنا أن نبي الله موسى عليه السلام نبذ الألواح وقال: اللهم اجعلني من أمة أحمد! قال: فأعطي نبي الله موسى عليه السلام ثنتين لم يعطهما نبيٌّ، قال الله: ﴿يَا مُوسَى إِنِّي اصْطَفَيْتُكَ عَلَى النَّاسِ بِرِسَالاتِي وَبِكَلامِي﴾ ، [سورة الأعراف: ١٤٣] . قال: فرضي نبي الله. ثم أعطي الثانية: ﴿وَمِنْ قَوْمِ مُوسَى أُمَّةٌ يَهْدُونَ بِالْحَقِّ وَبِهِ يَعْدِلُونَ﴾ [سورة الأعراف: ١٥٩] ، قال: فرضي نبي الله ﷺ كل الرضى.
+
+١٥١٣٣- حدثني محمد بن عبد الأعلى قال، حدثنا محمد بن ثور، عن معمر، عن قتادة قال: لما أخذ موسى الألواح قال: يا رب، إني أجد في الألواح أمة هم خير الأمم، يأمرون بالمعروف وينهون عن المنكر، فاجعلهم أمتي! قال: تلك أمة أحمد! قال: يا رب، إني أجد في الألواح أمة هم الآخرون السابقون يوم القيامة، فاجعلهم أمتي! قال: تلك أمة أحمد، ثم ذكر نحو حديث بشر بن معاذ= إلا أنه قال في حديثه: فألقى موسى عليه السلام الألواح، وقال: اللهم اجعلني من أمة محمد صلى الله عليهما.
+
+* *
+
+قال أبو جعفر: والذي هو أولى بالصواب من القول في ذلك، أن يكون سبب إلقاء موسى الألواح كان من أجل غضبه على قومه لعبادتهم العجل، لأن الله جل ثناؤه بذلك أخبر في كتابه فقال: "ولما رجع موسى إلى قومه غضبان أسفًا قال بئسما خلفتموني من بعدي أعجلتم أمر ربكم وألقى الألواح وأخذ برأس أخيه يجره إليه".
+
+* *
+
+وذكر أن الله لما كتب لموسى عليه السلام في الألواح التوراة، [[(١) في المطبوعة: ((وذلك أن الله لما كتب)) ، والصواب في المخطوطة.]] أدناه منه حتى سمع صريف القلم.
+
+ذكر من قال ذلك:
+
+١٥١٣٤- حدثني الحارث قال، حدثنا عبد العزيز قال، حدثنا إسرائيل، عن السدي، عن أبي عمارة، عن علي عليه السلام قال: كتب الله الألواح لموسى عليه السلام، [[(٢) في المطبوعة: ((لما كتب الله الألواح)) ، والصواب حذف ((لما)) كما في المخطوطة.]] وهو يسمع صريف الأقلام في الألواح.
+
+١٥١٣٥-.... قال حدثنا إسرائيل، عن عطاء بن السائب، عن سعيد بن جبير قال: أدناه حتى سمع صريف الأقلام. [[(١) الأثر: ١٥١٣٥ - وضعت النقط في هذا الخبر، للدلالة على أن هذا الإسناد ملحق بالإسناد السالف، وصدره هكذا: ((حدثني الحارث قال، حثنا عبد العزيز قال، حدثنا إسرائيل....)) .]]
+
+* *
+
+وقيل: إن التوراة كانت سبعة أسباع، فلما ألقى موسى الألواح تكسرت، فرفع منها ستة أسباعها، وكان فيما رفع "تفصيل كل شيء"، الذي قال الله: "وَكَتَبْنَا لَهْ فِي اْلألْوَاحِ مِنْ كُلِّ شَيْءٍ مَوْعِظَةً وَتَفْصِيلا لِكُلِّ شَيْءٍ" وبقي الهدى والرحمة في السبع الباقي، وهو الذي قال الله: ﴿أَخَذَ الألْوَاحَ وَفِي نُسْخَتِهَا هُدًى وَرَحْمَةٌ لِلَّذِينَ هُمْ لِرَبِّهِمْ يَرْهَبُونَ﴾ ، [سورة الأعراف: ١٥٤] .
+
+* *
+
+وكانت التوراة فيما ذكر سبعين وَقْر بعير، يقرأ منها الجزء في سنة، كما:-
+
+١٥١٣٦- حدثني المثنى قال، حدثنا محمد بن خالد المكفوف قال، حدثنا عبد الرحمن، عن أبي جعفر، عن الربيع بن أنس قال: أنزلت التوراة وهي سبعون وَقْر بعير، يقرأ منها الجزء في سنة، لم يقرأها إلا أربعة نفر: موسى بن عمران، وعيسى، وعزير، ويوشع بن نون، صلوات الله عليهم.
+
+* *
+
+واختلفوا في "الألواح".
+
+فقال بعضهم: كانت من زُمرد أخضر.
+
+* *
+
+وقال بعضهم: كانت من ياقوت.
+
+* *
+
+وقال بعضهم: كانت من بَرَد.
+
+* *
+
+ذكر الرواية بما ذكرنا من ذلك.
+
+١٥١٣٧- حدثني أحمد بن إبراهيم الدَّورقي قال، حدثنا حجاج بن محمد، عن ابن جريج قال، أخبرني يعلى بن مسلم، عن سعيد بن جبير، عن ابن عباس قال: ألقى موسى الألواح فتكسرت، فرفعت إلا سدسها= قال ابن جريج: وأخبرني أن الألواح من زبرجد وزمرد من الجنة.
+
+١٥١٣٨- وحدثني موسى بن سهل الرملي، وعلي بن داود، وعبد الله بن أحمد بن شبويه، وأحمد بن الحسن الترمذي قالوا، أخبرنا آدم العسقلاني قال، حدثنا أبو جعفر، عن الربيع، عن أبي العالية قال: كانت ألواح موسى عليه السلام من بَرَد. [[(١) الأثر ١٥١٣٨ - انظر الأثر رقم ٩١٤، والتعليق عليه.]]
+
+١٥١٣٩- حدثنا ابن حميد قال، حدثنا حكام، عن أبي الجنيد، عن جعفر بن أبي المغيرة قال: سألت سعيد بن جبير عن الألواح، من أي شيء كانت؟ قال: كانت من ياقوتة، كتابة الذهب، كتبها الرحمن بيده، فسمع أهل السموات صريف القلم وهو يكتبها.
+
+١٥١٤٠- حدثني الحارث قال، حدثنا القاسم قال، حدثنا عبد الرحمن، عن محمد بن أبي الوضاح، عن خصيف، عن مجاهد أو سعيد بن جبير قال: كانت الألواح زمردًا، فلما ألقى موسى الألواح بقي الهدى والرحمة، وذهب التفصيل.
+
+١٥١٤١- قال، حدثنا القاسم قال، حدثنا الأشجعي، عن محمد بن مسلم، عن خصيف، عن مجاهد قال: كانت الألواح من زمرد أخضر.
+
+* *
+
+وزعم بعضهم: أن الألواح كانت لوحين. فإن كان الذي قال كما قال، فإنه قيل: "وكتبنا له في الألواح"، وهما لوحان، كما قيل: ﴿فَإِنْ كَانَ لَهُ إِخْوَةٌ﴾ [سورة النساء: ١١] ، وهما أخوان. [[(٢) انظر ما قال في الجمع، والمراد به اثنان فيما سلف ٨: ٤١ - ٤٤، ومعاني القرآن للفراء ١: ٣٩٤.]]
+
+* *
+
+أما قوله: "وأخذ برأس أخيه يجره إليه"، فإن ذلك من فعل نبي الله ﷺ كان، لموجدته على أخيه هارون في تركه أتباعه، وإقامته مع بني إسرائيل في الموضع الذي تركهم فيه، كما قال جل ثناؤه مخبرًا عن قيل موسى عليه السلام له: ﴿مَا مَنَعَكَ إِذْ رَأَيْتَهُمْ ضَلُّوا أَلا تَتَّبِعَنِي أَفَعَصَيْتَ أَمْرِي﴾ ؟ [سورة طه: ٩٢، ٩٣] ، حين أخبره هارون بعذره فقبل عذره، وذلك قيله لموسى: ﴿لا تَأْخُذْ بِلِحْيَتِي وَلا بِرَأْسِي إِنِّي خَشِيتُ أَنْ تَقُولَ فَرَّقْتَ بَيْنَ بَنِي إِسْرَائِيلَ وَلَمْ تَرْقُبْ قَوْلِي﴾ ، [سورة طه: ٩٤] ، وقال: "يا ابن أم إن القوم استضعفوني وكادوا يقتلونني فلا تشمت بي الأعداء"، الآية:
+
+* *
+
+واختلفت القرأة في قراءة قوله: "يا ابن أم".
+
+فقرأ ذلك عامة قرأة المدينة وبعض أهل البصرة: ﴿يَا ابْنَ أُمَّ﴾ بفتح "الميم" من "الأم".
+
+* *
+
+وقرأ ذلك عامة قرأة أهل الكوفة: ﴿يَا ابْنَ أُمِّ﴾ بكسر "الميم" من الأم.
+
+* *
+
+واختلف أهل العربية في فتح ذلك وكسره، مع إجماع جميعهم على أنهما لغتان مستعملتان في العرب.
+
+فقال بعض نحويي البصرة: قيل ذلك بالفتح، على أنهما اسمان جعلا اسمًا واحدًا، كما قيل: "يا ابن عمَّ"، وقال: هذا شاذ لا يقاس عليه.
+
+وقال: من قرأ ذلك: "يا ابن أمِّ"، فهو على لغة الذين يقولون: "هذا غلامِ قد جاء؟ "، جعله اسمًا واحدًا آخره مكسور، مثل قوله: "خازِ باز". [[(١) ((الخازباز)) ، هو ضرب من الذبان، و ((خاز)) و ((باز)) صوتان من صوت الذباب، فجعلا واحداً، وبنيا على الكسر، لا يتغير في الرفع والنصب والجر.]]
+
+* *
+
+وقال بعض نحويي الكوفة: قيل: "يا ابن أمَّ" و "يا ابن عمَّ"، فنصب كما ينصب المعرب في بعض الحالات، فيقال: "يا حسرتا"، "يا ويلتا". قال: فكأنهم قالوا: "يا أماه"، و"يا عماه"، ولم يقولوا ذلك في "أخ"، ولو قيل ذلك لكان صوابًا. قال: والذين خفضوا ذلك، فإنه كثر في كلامهم حتى حذفوا الياء. قال: ولا تكاد العرب تحذف "الياء" إلا من الاسم المنادَى يضيفه المنادِي إلى نفسه، إلا قولهم: "يا ابن أمِّ" و"يا ابن عمِّ"، وذلك أنهما يكثر استعمالهما في كلامهم، فإذا جاء ما لا يستعمل أثبتوا "الياء" فقالوا: "يا ابن أبي" و"يا ابن أختي، وأخي"، و"يا ابن خالتي"، و"يا ابن خالي". [[(١) هذه كلها مقالة الفراء في معاني القرآن ١: ٣٩٤.]]
+
+* *
+
+قال أبو جعفر: والصواب من القول في ذلك أن يقال: إذا فتحت "الميم" من "ابن أم"، فمرادٌ به الندبة: يا ابن أماه، وكذلك من "ابن عم". فإذا كسرت فمرادٌ به الإضافة، ثم حذفت "الياء" التي هي كناية اسم المخبر عن نفسه. وكأن بعض من أنكر تشبيه كسر ذلك إذا كسر ككسر الزاي من "خاز باز"، [[(٢) في المطبوعة والمخطوطة: ((من أنكر نسبته كسر ذلك ... )) ، وصواب قراءته ما أثبته ((تشبيه)) .]] لأن "خاز باز" لا يعرف الثاني إلا با
+
+[TRUNCATED at 12000 chars — 5570 more. Consult the source directly before relying on anything near the cut.]
 
 ### al-Muyassar (Arabic)
 
-ولما رجع موسى إلى قومه مِن بني إسرائيل غضبان حزينًا؛ لأن الله قد أخبره أنه قد فُتِن قومه، وأن السامريَّ قد أضلَّهم، قال موسى: بئس الخلافة التي خلفتموني مِن بعدي، أعجلتم أَمْر ربكم؟ أي: أستعجلتم مجيئي إليكم وهو مقدَّر من الله تعالى؟ وألقى موسى ألواح التوراة غضبا على قومه الذين عبدوا العجل، وغضبًا على أخيه هارون، وأمسك برأس أخيه يجره إليه، قال هارون مستعطفًا: يا ابن أمي: إن القوم استذلوني وعدُّوني ضعيفًا وقاربوا أن يقتلوني، فلا تَسرَّ الأعداء بما تفعل بي، ولا تجعلني في غضبك مع القوم الذين خالفو...
+ولما رجع موسى إلى قومه مِن بني إسرائيل غضبان حزينًا؛ لأن الله قد أخبره أنه قد فَتَن قومَه، وأن السامريَّ قد أضلَّهم، قال موسى: بئس الخلافة التي خلفتموني مِن بعدي، أعجلتم أَمْر ربكم؟ أي: استعجلتم مجيئي إليكم وهو مقدَّر من الله تعالى؟ وألقى موسى ألواح التوراة غضبًا على قومه الذين عبدوا العجل، وغضبًا على أخيه هارون، وأمسك برأس أخيه يجره إليه، قال هارون مستعطفًا: يا بن أمي: إن القوم استذلوني وعدُّوني ضعيفًا وقاربوا أن يقتلوني، فلا تَسرَّ الأعداء بما تفعل بي، ولا تجعلني في غضبك مع القوم الذين خالفوا أمرك وعبدوا العجل.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿ولَمّا رَجَعَ مُوسى إلى قَوْمه غَضْبان﴾ مِن جِهَتهمْ ﴿أسِفًا﴾ شَدِيد الحُزْن ﴿قالَ بِئْسَما﴾ أيْ بِئْسَ خِلافَة ﴿خَلَفْتُمُونِي﴾ خَلَفْتُمُونِيها ﴿مِن بَعْدِي﴾ خِلافَتكُمْ هَذِهِ حَيْثُ أشْرَكْتُمْ ﴿أعَجِلْتُمْ أمْر رَبّكُمْ وأَلْقى الأَلْواح﴾ ألْواح التَّوْراة غَضَبًا لِرَبِّهِ فَتَكَسَّرَتْ ﴿وأَخَذَ بِرَأْسِ أخِيهِ﴾ أيْ بِشَعْرِهِ بِيَمِينِهِ ولِحْيَته بِشِمالِهِ ﴿يَجُرّهُ إلَيْهِ﴾ غَضَبًا ﴿قالَ﴾ يا ﴿ابْن أُمّ﴾ بِكَسْرِ المِيم وفَتْحها أرادَ أُمِّي وذِكْرها أعْطَف لِقَلْبِهِ ﴿إنّ القَوْم اسْتَضْعَفُونِي وكادُوا﴾ قارَبُوا ﴿يَقْتُلُونَنِي فَلا تُشْمِت﴾ تُفْرِح ﴿بِي الأَعْداء﴾ بِإهانَتِك إيّايَ ﴿ولا تَجْعَلنِي مَعَ القَوْم الظّالِمِينَ﴾ بِعِبادَةِ العِجْل فِي المُؤاخَذَة
 
 ---
 
@@ -77,16 +386,117 @@ Allah describes the misguidance of those who worshipped the calf that As-Samiri 
 
 ### Ibn Kathir (English)
 
-قَالَ بِئْسَمَا خَلَفْتُمُونِى مِن بَعْدِى
+And when Musa returned to his people, angry and grieved, he said: "What an evil thing is that which you have done during my absence. Did you hasten in matter of your Lord?" And he threw down the Tablets and seized his brother by (the hair of) his head and dragged him towards him. He (Harun) said: "O son of my mother! Indeed the people judged me weak and were about to kill me, so make not the enemies rejoice over me, nor put me among the people who are wrongdoers. (150)He (Musa) said: "O my Lord! Forgive me and my brother, and admit us into Your mercy, for You are the Most Merciful of those who show mercy. (151)
+
+Allah states that when Musa returned to his people after conversation with his Lord, he became angry and full of regret. Abu Ad-Darda' said that Asif, or regret, is the severest type of anger.
+
+قَالَ بِئْسَمَا خَلَفْتُمُونِي مِن بَعْدِي
+
 (He (Musa) said: "What an evil thing is that which you have done during my absence.") evil it is that which you committed after I departed and left you, by worshiping the calf,
+
 أَعَجِلْتُمْ أَمْرَ رَبِّكُمْ
-(Did you hasten in the matter of your Lord) Musa said, `You wanted me to rush back to you, even though being there this was Allah's decision' Allah said next,
-وَأَلْقَى الأَلْوَاحَ وَأَخَذَ بِرَأْسِ أَخِيهِ يَجُرُّهُ إِلَيْهِ
-(And he threw down th...
+
+(Did you hasten in the matter of your Lord?)
+
+Musa said, 'You wanted me to rush back to you, even though [being there] this was Allah's decision?' Allah said next,
+
+وَأَلْقَى الْأَلْوَاحَ وَأَخَذَ بِرَأْسِ أَخِيهِ يَجُرُّهُ إِلَيْهِ
+
+(And he threw down the Tablets and seized his brother by his head and dragged him towards him.)
+
+This Ayah demonstrates the meaning of the Hadith,
+
+لَيْسَ الْخَبَرُ كَالْمُعَايَنَةِ
+
+(Information is not the same as observation.)
+
+It indicates that Musa threw down the Tablets because he was angry at his people, according to the majority of scholars of early and latter times. Allah said,
+
+وَأَخَذَ بِرَأْسِ أَخِيهِ يَجُرُّهُ إِلَيْهِ
+
+(and seized his brother by (the hair of) his head and dragged him towards him.) for Musa feared that Harun might have not tried hard enough to forbid them from their evil action. In another Ayah, Allah said,
+
+قَالَ يَا هَارُونُ مَا مَنَعَكَ إِذْ رَأَيْتَهُمْ ضَلُّوا - أَلَّا تَتَّبِعَنِ أَفَعَصَيْتَ أَمْرِي - قَالَ يَا ابْنَ أُمَّ لَا تَأْخُذْ بِلِحْيَتِي وَلَا بِرَأْسِي إِنِّي خَشِيتُ أَن تَقُولَ فَرَّقْتَ بَيْنَ بَنِي إِسْرَائِيلَ وَلَمْ تَرْقُبْ قَوْلِي
+
+((He [Musa] said: "O Harun ! What prevented you when you saw them going astray. That you followed me not (according to my advice to you)? Have you then disobeyed my order?" He [Harun] said: "O son of my mother! Seize (me) not by my beard, nor by my head! Verily, I feared lest you should say: 'You have caused a division among the Children of Israel, and you have not respected (waited or observed) my word!'")[20:92-94].
+
+Here, Allah said that Harun said,
+
+ابْنَ أُمَّ إِنَّ الْقَوْمَ اسْتَضْعَفُونِي وَكَادُوا يَقْتُلُونَنِي فَلَا تُشْمِتْ بِيَ الْأَعْدَاءَ وَلَا تَجْعَلْنِي مَعَ الْقَوْمِ الظَّالِمِينَ
+
+("O son of my mother! Indeed the people judged me weak and were about to kill me, so make not the enemies rejoice over me, nor put me among the people who are wrongdoers.")
+
+Harun said, 'Do not place me on the same level as they are, as if I was one of them.' Further, Harun said, 'O son of my mother', so that Musa would feel more mercy and leniency towards him, even though Harun was also the son of Musa's father. When Musa was satisfied that his brother was innocent,
+
+وَلَقَدْ قَالَ لَهُمْ هَارُونُ مِن قَبْلُ يَا قَوْمِ إِنَّمَا فُتِنتُم بِهِ وَإِنَّ رَبَّكُمُ الرَّحْمَٰنُ فَاتَّبِعُونِي وَأَطِيعُوا أَمْرِي
+
+(And Harun indeed had said to them beforehand: "O my people! You are being tried in this, and verily, your Lord is (Allah) the Most Gracious, so follow me and obey my order.")[20:90], this is when,
+
+قَالَ
+
+(he said) Musa,
+
+رَبِّ اغْفِرْ لِي وَلِأَخِي وَأَدْخِلْنَا فِي رَحْمَتِكَ وَأَنتَ أَرْحَمُ الرَّاحِمِينَ
+
+("O my Lord! Forgive me and my brother, and admit us into Your mercy, for you are the Most Merciful of those who show mercy.")
+
+Ibn Abi Hatim recorded that Ibn 'Abbas said that the Messenger of Allah ﷺ said,
+
+يَرْحَمُ اللهُ مُوسَى لَيْسَ الْمُعَايِنُ كَالْمُخْبِرِ أَخْبَرَهُ رَبُّهُ عَزَّ وَجَلَّ أَنَّ قَوْمَهُ فُتِنُوا بَعْدَهُ فَلَمْ يَلْقَ الْأَلْوَاحَ فَلَمَّا رَآهُمْ وَعَايَنَهُمْ أَلْقَى الْأَلْوَاحَ
+
+(May Allah grant His mercy to Musa! Surely, he who observes [something] is nothing like he who is informed about it. His Lord, the Exalted and Most Honored, told him that his people were tested after him, but he did not throw the Tablets. When he saw them with his eyes, then he threw the Tablets.)
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله :  قَالَ رَبِّ اغْفِرْ لِي وَلأَخِي وَأَدْخِلْنَا فِي رَحْمَتِكَ وَأَنْتَ أَرْحَمُ الرَّاحِمِينَ (151)قال أبو جعفر: يقول تعالى ذكره: قال موسى، لما تبين له عذر أخيه, وعلم أنه لم يفرط في الواجب الذي كان عليه من أمر الله، في ارتكاب ما فعله الجهلة من عبدة العجل: " رب اغفر لي"، مستغفرًا من فعله بأخيه, ولأخيه من سالفٍ سلف له بينه وبين الله: (24) تغمد ذنوبنا بستر منك تسترها به (25) = " وأدخلنا في رحمتك "، يقول: وارحمنا برحمتك الواسعة عبادك المؤمنين, فإنك أنت أرحم بعبادك من كل من ...
+القول في تأويل قوله: ﴿قَالَ رَبِّ اغْفِرْ لِي وَلأخِي وَأَدْخِلْنَا فِي رَحْمَتِكَ وَأَنْتَ أَرْحَمُ الرَّاحِمِينَ (١٥١) ﴾
+
+قال أبو جعفر: يقول تعالى ذكره: قال موسى، لما تبين له عذر أخيه، وعلم أنه لم يفرط في الواجب الذي كان عليه من أمر الله، في ارتكاب ما فعله الجهلة من عبدة العجل: "رب اغفر لي"، مستغفرًا من فعله بأخيه، ولأخيه من سالفٍ سلف له بينه وبين الله: [[(١) في المطبوعة: ((من سالف له)) ، أسقط ((سلف)) ، وهي من المخطوطة.]] تغمد ذنوبنا بستر منك تسترها به [[(٢) انظر تفسير ((المغفرة)) فيما سف من فهارس اللغة (غفر) .]] = "وأدخلنا في رحمتك"، يقول: وارحمنا برحمتك الواسعة عبادك المؤمنين، فإنك أنت أرحم بعبادك من كل من رحم شيئًا.
+
+* *
+
+القول في تأويل قوله: ﴿إِنَّ الَّذِينَ اتَّخَذُوا الْعِجْلَ سَيَنَالُهُمْ غَضَبٌ مِنْ رَبِّهِمْ وَذِلَّةٌ فِي الْحَيَاةِ الدُّنْيَا وَكَذَلِكَ نَجْزِي الْمُفْتَرِينَ (١٥٢) ﴾
+
+قال أبو جعفر: يقول تعالى ذكره: "إن الذين اتخذوا العجل" إلهًا= "سينالهم غضب من ربهم"، بتعجيل الله لهم ذلك [[(٣) انظر تفسير ((نال)) فيما سلف ١٢: ٤٠٨، تعليق: ٣، والمراجع هناك.]] = "وذلة"، وهي الهوان، لعقوبة الله إياهم على كفرهم بربهم= [[(١) انظر تفسير ((الذلة)) فيما سلف ٢: ٢١٢ / ٧: ١٧١ / ١١: ٤٢١.]] "في الحياة الدنيا"، في عاجل الدنيا قبل آجل الآخرة.
+
+* *
+
+وكان ابن جريج يقول في ذلك بما: -
+
+١٥١٤٧- حدثنا القاسم قال، حدثنا الحسين قال، حدثني حجاج، عن ابن جريج، قوله: "إن الذين اتخذوا العجل سينالهم غضب من ربهم وذلة في الحياة الدنيا وكذلك نجزي المفترين"، قال: هذا لمن مات ممن اتخذ العجل قبل أن يرجع موسى عليه السلام، ومن فرّ منهم حين أمرهم موسى أن يقتل بعضهم بعضًا.
+
+* *
+
+قال أبو جعفر: وهذا الذي قاله ابن جريج، وإن كان قولا له وجه، فإن ظاهر كتاب الله، مع تأويل أكثر أهل التأويل، بخلافه. وذلك أن الله عم بالخبر عمن اتخذ العجل أنه سينالهم غضب من ربهم وذلة في الحياة الدنيا، وتظاهرت الأخبار عن أهل التأويل من الصحابة والتابعين بأن الله إذ رجع إلى بني إسرائيل موسى عليه السلام، تابَ على عبدة العجل من فعلهم بما أخبر به عن قيل موسى عليه السلام في كتابه، وذلك قوله: ﴿وَإِذْ قَالَ مُوسَى لِقَوْمِهِ يَا قَوْمِ إِنَّكُمْ ظَلَمْتُمْ أَنْفُسَكُمْ بِاتِّخَاذِكُمُ الْعِجْلَ فَتُوبُوا إِلَى بَارِئِكُمْ فَاقْتُلُوا أَنْفُسَكُمْ﴾ [سورة البقرة: ٥٤] ، ففعلوا ما أمرهم به نبيهم ﷺ. فكان أمرُ الله إياهم بما أمرهم به من قتل بعضهم أنفُس بعض، عن غضب منه عليهم بعبادتهم العجل. فكان قتل بعضهم بعضًا هوانًا لهم وذلة أذلهم الله بها في الحياة الدنيا، وتوبة منهم إلى الله قبلها. وليس لأحد أن يجعل خبرًا جاء الكتاب بعمومه، في خاصٍّ مما عمه الظاهر، بغير برهان من حجة خبر أو عقل. ولا نعلم خبرًا جاء بوجوب نقل ظاهر قوله: "إن الذين اتخذوا العجل سينالهم غضب من ربهم"، إلى باطن خاصّ = ولا من العقل عليه دليل، فيجب إحالة ظاهره إلى باطنه.
+
+* *
+
+ويعني بقوله: "وكذلك نجزي المفترين"، وكما جَزيت هؤلاء الذين اتخذوا العجل إلهًا، من إحلال الغضب بهم، والإذلال في الحياة الدنيا على كفرهم ربّهم، ورِدَّتهم عن دينهم بعد إيمانهم بالله، كذلك نجزي كل من افترى على الله، فكذب عليه، وأقر بألوهية غيره، وعبد شيئًا سواه من الأوثان، بعد إقراره بوحدانية الله، وبعد إيمانه به وبأنبيائه ورسله وقِيلَ ذلك، إذا لم يتب من كفره قبل قتله. [[(١) انظر تفسير ((الافتراء)) فيما سلف ١٢: ٥٦٢، تعلق: ١، والمراجع هناك.]]
+
+* *
+
+وبنحو الذي قلنا في ذلك قال جماعةٌ من أهل التأويل.
+
+ذكر من قال ذلك:
+
+١٥١٤٨- حدثنا محمد بن عبد الأعلى قال، حدثنا محمد بن ثور، عن معمر، عن أيوب قال: تلا أبو قلابة: "سينالهم غضب من ربهم وذلة في الحياة الدنيا" الآية، قال: فهو جزاء كل مفترٍ يكون إلى يوم القيامة: أن يذله الله عز وجل.
+
+١٥١٤٩- حدثني المثنى قال، حدثنا أبو النعمان عارم قال، حدثنا حماد بن زيد، عن أيوب قال: قرأ أبو قلابة يومًا هذه الآية: "إن الذين اتخذوا العجل سينالهم غضب من ربهم وذلة في الحياة الدنيا وكذلك نجزي المفترين"، قال: هي والله لكل مفترٍ إلى يوم القيامة.
+
+١٥١٥٠- ... قال حدثنا حجاج قال، حدثنا حماد، عن ثابت، وحميد: أن قيس بن عُبَاد، وجارية بن قدامة، دخلا على علي بن أبي طالب رضي الله عنه، فقالا أرأيت هذا الأمر الذي أنت فيه وتدعو إليه، أعهدٌ عهده إليك رسول الله ﷺ، أم رأيٌ رأيته؟ قال: ما لكما ولهذا؟ أعرضا عن هذا! فقالا والله لا نعرضُ عنه حتى تخبرنا! فقال: ما عهد إليّ رسول الله ﷺ إلا كتابًا في قراب سيفي هذا! فاستلَّه، فأخرج الكتاب من قراب سيفه، وإذا فيه: "إنه لم يكن نبيّ إلا له حرم، وأنّي حرمت المدينة كما حرّم إبراهيم عليه السلام مكة، لا يحمل فيها السلاحُ لقتال. من أحدث حدثًا أو آوى مُحدِثًا فعليه لعنة الله والملائكة والناس أجمعين، لا يقبل منه صرف ولا عَدْل". فلما خرجا قال أحدهما لصاحبه: أما ترى هذا الكتاب؟ فرجعا وتركاه وقالا إنا سمعنا الله يقول "إن الذين اتخذوا العجل سينالهم غضب من ربهم"، الآية، وإن القوم قد افتروا فرية، ولا أدري إلا سينزل بهم ذلة. [[(١) الأثر: ١٥١٥٠ - كان إسناد هذا الخبر في المطبوعة هكذا: ((قال، حدثنا حماد، عن ثابت: أن حميد بن قيس بن عباد، وحارثه بن قدامة)) ،
+
+وفي المخطوطة: ((قال حدثنا حماد عن ثابت وحميد بن قيس بن عباد، وحارثه بن قدامة)) . ((حارثة)) غير منقوطة. وهما جميعاً خطأ، صوابه ما أثبت. و ((حماد)) هو: ((حماد بن سلمة)) ، ثقة مشهور، مضى مرارًا. و ((ثابت)) هو ((ثابت بن أسلم البنانى)) ، مضى مرارًا.
+
+و ((حميد)) هو ((حميد الطويل)) ، وهو: ((حميد بن أبي حميد)) ، الإمام المشهور، مضى مرارًا، وهو خال ((حماد بن سلمة)) .
+
+وأما ((قيس بن عباد القيسى الضبعى)) ، فهو ثقة قليل الحديث، روى عنه الحسن. قدم المدينة في خلافة عمر. وهو ممن قتلهم الحجاج في من خرج مع ابن الأشعث. مترجم في التهذيب، وابن سعد ٧ / ١ / ٩٥، والكبير ٤/١/١٤٥، وابن أبي حاتم ٣/١٢/١٠١، وفي الإصابة في القسم الثالث.
+
+وأما ((جارية بن قدامة بن زهير بن الحصين السعدي)) ، يقال هو بن عم الأحنف بن قيس، ويقال هو: عمه. وقال الطبراني: ((ليس بعم الأحنف أخي أبيه، ولكنه كان يدعوه عمه على سبيل الإعظام له)) .
+
+وجارية تميمى من أشراف تميم وكان شجاعاً فاتكاً، وهو صحابي ثابت الصحبة. مترجم في التهذيب، وابن سعد ٧/١/٣٨، والكبير ١/٢/٢٣٦، وابن أبي حاتم ١/١/٥٢٠، وفي الإصابة، وغيرها.
+
+وهذا الخبر لم أهتد إليه بهذا الإسناد، وهذه السياقة، في شيء من الكتب، ولكن خبر الصحيفة، عن ((قيس بن عباد)) ، رواه أحمد في مسنده رقم ٩٩٣، من طريق يحيى، عن سعيد بن أبي عروبة، عن قتادة، عن الحسن، عن قيس بن عباد قال: انطلقت أنا والأشتر إلى على، فقلنا: هل عهد إليك نبى الله ﷺ شيئاً لم يعهده إلى الناس عامة؟)) ، وساق خبراً آخر. وروى أحمد خبر الصحيفة في مسند علي رضي الله عنه، بأسانيد مختلفة، وألفاظ مختصرة ومطولة، ومؤتلفة ومختلفة. انظر رقم ٦١٥، ٨٧٢، ٨٧٤، ٩٥٤، ٩٦٢، ١٠٣٧، ١٢٩٧، ١٣٠٦، وليس في شيء منها ذكر ((جارية بن قدامة)) . ومع ذلك فخبر أبي جعفر صحيح الإسناد، فكأنهما حادثتان مختلفتان. وكان في المخطوطة: ((ولا أدرى إلا سينزل به ذلة)) والصواب ما صححه ناشر المطبوعة.]]
+
+١٥١٥١- حدثني المثنى قال، حدثنا إسحاق قال، حدثنا عبد الله بن الزبير، عن ابن عيينة: في قوله: "وكذلك نجزي المفترين" قال: كل صاحب بدعة ذليلٌ.
 
 ### al-Muyassar (Arabic)
 
@@ -94,7 +504,7 @@ Allah describes the misguidance of those who worshipped the calf that As-Samiri 
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿قالَ رَبّ اغْفِرْ لِي﴾ ما صَنَعْت بِأَخِي ﴿ولِأَخِي﴾ أُشْرِكهُ فِي الدُّعاء إرْضاء لَهُ ودَفْعًا لِلشَّماتَةِ بِهِ
 
 ---
 
@@ -102,12 +512,99 @@ Allah describes the misguidance of those who worshipped the calf that As-Samiri 
 
 ### Ibn Kathir (English)
 
-فَتُوبُواْ إِلَى بَارِئِكُمْ فَاقْتُلُواْ أَنفُسَكُمْ ذَلِكُمْ خَيْرٌ لَّكُمْ عِندَ بَارِئِكُمْ فَتَابَ عَلَيْكُمْ إِنَّهُ هُوَ التَّوَّابُ الرَّحِيمُ
-(So turn in repentance to your Creator and kill yourselves (the guilty), that will be better for you before your Creator." Then He accepted your repentance. Truly, He is the One Who accepts repentance, the Most Merciful.) 2:54 As for the humiliation mentioned in the Ayah, it pertains to the disgrace and humiliation that the Jews suffered in the...
+Certainly, those who took the calf (for worship), wrath from their Lord and humiliation will come upon them in the life of this world. Thus do We recompense those who invent lies (152)But those who committed evil deeds and then repented afterwards and believed, verily, your Lord after (all) that is indeed Oft-Forgiving, Most Merciful (153)
+
+The 'wrath' mentioned here that struck the Children of Israel because of their worshipping the calf, means, Allah did not accept their repentance until some of them [who did not worship the calf] killed others [who worshipped the calf]. We mentioned this story in Surat Al-Baqarah,
+
+فَتُوبُوا إِلَىٰ بَارِئِكُمْ فَاقْتُلُوا أَنفُسَكُمْ ذَٰلِكُمْ خَيْرٌ لَّكُمْ عِندَ بَارِئِكُمْ فَتَابَ عَلَيْكُمْ إِنَّهُ هُوَ التَّوَّابُ الرَّحِيمُ
+
+(So turn in repentance to your Creator and kill yourselves (the guilty), that will be better for you before your Creator." Then He accepted your repentance. Truly, He is the One Who accepts repentance, the Most Merciful.)[2:54]
+
+As for the humiliation mentioned in the Ayah, it pertains to the disgrace and humiliation that the Jews suffered in the life of this world. Allah's statement,
+
+وَكَذَٰلِكَ نَجْزِي الْمُفْتَرِينَ
+
+(Thus do We recompense those who invent lies) is for all those who invent an innovation (in religion). Surely, the disgrace resulting from inventing an innovation (in religion) and defying Allah's Message, will be placed in the heart and from there on to the shoulders. Al-Hasan Al-Basri said; "The disgrace of innovation will weigh on their shoulders even if they were to gallop on their mules or trot on their work horses." Ayyub As-Sakhtiyani narrated from Abu Qilabah Al-Jarmi that he commented on this Ayah,
+
+وَكَذَٰلِكَ نَجْزِي الْمُفْتَرِينَ
+
+(Thus do We recompense those who invent lies.)
+
+"By Allah! This Ayah is for all those who invent a lie, until the Day of Resurrection." Also, Sufyan bin 'Uyaynah said, "Every person who invents a Bid'ah (innovation in the religion) will taste disgrace."Allah tells His servants that He accepts repentance from His servants for any sin, even Shirk, Kufr, hypocrisy and disobedience. Allah said:
+
+وَالَّذِينَ عَمِلُوا السَّيِّئَاتِ ثُمَّ تَابُوا مِن بَعْدِهَا وَآمَنُوا إِنَّ رَبَّكَ
+
+(But those who committed evil deeds and then repented afterwards and believed, verily, your Lord)
+
+O Muhammad, Messenger of Repentance and Prophet of Mercy,
+
+مِن بَعْدِهَا
+
+(after that) after committing that evil action,
+
+لَغَفُورٌ رَّحِيمٌ
+
+(is indeed Oft-Forgiving, Most Merciful.)
+
+Ibn Abi Hatim reported that 'Abdullah bin Mas'ud was asked about a man committing fornication with a woman and then marrying her, and Ibn Mas'ud recited this Ayah,
+
+وَالَّذِينَ عَمِلُوا السَّيِّئَاتِ ثُمَّ تَابُوا مِن بَعْدِهَا وَآمَنُوا إِنَّ رَبَّكَ مِن بَعْدِهَا لَغَفُورٌ رَّحِيمٌ
+
+(But those who committed evil deeds and then repented afterwards and believed, verily, your Lord after (all) that is indeed Oft-Forgiving, Most Merciful.)
+
+'Abdullah recited this Ayah ten times, neither allowing nor disallowing it.
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله :  إِنَّ الَّذِينَ اتَّخَذُوا الْعِجْلَ سَيَنَالُهُمْ غَضَبٌ مِنْ رَبِّهِمْ وَذِلَّةٌ فِي الْحَيَاةِ الدُّنْيَا وَكَذَلِكَ نَجْزِي الْمُفْتَرِينَ (152)قال أبو جعفر: يقول تعالى ذكره: " إن الذين اتخذوا العجل " إلهًا= " سينالهم غضب من ربهم "، بتعجيل الله لهم ذلك (26) = " وذلة "، وهي الهوان, لعقوبة الله  إياهم على كفرهم بربهم= (27) " في الحياة الدنيا "، في عاجل الدنيا قبل آجل الآخرة.* * *وكان ابن جريج يقول في ذلك بما: -15147- حدثنا القاسم قال، حدثنا الحسين قال، حدثني حجاج, عن ...
+القول في تأويل قوله: ﴿قَالَ رَبِّ اغْفِرْ لِي وَلأخِي وَأَدْخِلْنَا فِي رَحْمَتِكَ وَأَنْتَ أَرْحَمُ الرَّاحِمِينَ (١٥١) ﴾
+
+قال أبو جعفر: يقول تعالى ذكره: قال موسى، لما تبين له عذر أخيه، وعلم أنه لم يفرط في الواجب الذي كان عليه من أمر الله، في ارتكاب ما فعله الجهلة من عبدة العجل: "رب اغفر لي"، مستغفرًا من فعله بأخيه، ولأخيه من سالفٍ سلف له بينه وبين الله: [[(١) في المطبوعة: ((من سالف له)) ، أسقط ((سلف)) ، وهي من المخطوطة.]] تغمد ذنوبنا بستر منك تسترها به [[(٢) انظر تفسير ((المغفرة)) فيما سف من فهارس اللغة (غفر) .]] = "وأدخلنا في رحمتك"، يقول: وارحمنا برحمتك الواسعة عبادك المؤمنين، فإنك أنت أرحم بعبادك من كل من رحم شيئًا.
+
+* *
+
+القول في تأويل قوله: ﴿إِنَّ الَّذِينَ اتَّخَذُوا الْعِجْلَ سَيَنَالُهُمْ غَضَبٌ مِنْ رَبِّهِمْ وَذِلَّةٌ فِي الْحَيَاةِ الدُّنْيَا وَكَذَلِكَ نَجْزِي الْمُفْتَرِينَ (١٥٢) ﴾
+
+قال أبو جعفر: يقول تعالى ذكره: "إن الذين اتخذوا العجل" إلهًا= "سينالهم غضب من ربهم"، بتعجيل الله لهم ذلك [[(٣) انظر تفسير ((نال)) فيما سلف ١٢: ٤٠٨، تعليق: ٣، والمراجع هناك.]] = "وذلة"، وهي الهوان، لعقوبة الله إياهم على كفرهم بربهم= [[(١) انظر تفسير ((الذلة)) فيما سلف ٢: ٢١٢ / ٧: ١٧١ / ١١: ٤٢١.]] "في الحياة الدنيا"، في عاجل الدنيا قبل آجل الآخرة.
+
+* *
+
+وكان ابن جريج يقول في ذلك بما: -
+
+١٥١٤٧- حدثنا القاسم قال، حدثنا الحسين قال، حدثني حجاج، عن ابن جريج، قوله: "إن الذين اتخذوا العجل سينالهم غضب من ربهم وذلة في الحياة الدنيا وكذلك نجزي المفترين"، قال: هذا لمن مات ممن اتخذ العجل قبل أن يرجع موسى عليه السلام، ومن فرّ منهم حين أمرهم موسى أن يقتل بعضهم بعضًا.
+
+* *
+
+قال أبو جعفر: وهذا الذي قاله ابن جريج، وإن كان قولا له وجه، فإن ظاهر كتاب الله، مع تأويل أكثر أهل التأويل، بخلافه. وذلك أن الله عم بالخبر عمن اتخذ العجل أنه سينالهم غضب من ربهم وذلة في الحياة الدنيا، وتظاهرت الأخبار عن أهل التأويل من الصحابة والتابعين بأن الله إذ رجع إلى بني إسرائيل موسى عليه السلام، تابَ على عبدة العجل من فعلهم بما أخبر به عن قيل موسى عليه السلام في كتابه، وذلك قوله: ﴿وَإِذْ قَالَ مُوسَى لِقَوْمِهِ يَا قَوْمِ إِنَّكُمْ ظَلَمْتُمْ أَنْفُسَكُمْ بِاتِّخَاذِكُمُ الْعِجْلَ فَتُوبُوا إِلَى بَارِئِكُمْ فَاقْتُلُوا أَنْفُسَكُمْ﴾ [سورة البقرة: ٥٤] ، ففعلوا ما أمرهم به نبيهم ﷺ. فكان أمرُ الله إياهم بما أمرهم به من قتل بعضهم أنفُس بعض، عن غضب منه عليهم بعبادتهم العجل. فكان قتل بعضهم بعضًا هوانًا لهم وذلة أذلهم الله بها في الحياة الدنيا، وتوبة منهم إلى الله قبلها. وليس لأحد أن يجعل خبرًا جاء الكتاب بعمومه، في خاصٍّ مما عمه الظاهر، بغير برهان من حجة خبر أو عقل. ولا نعلم خبرًا جاء بوجوب نقل ظاهر قوله: "إن الذين اتخذوا العجل سينالهم غضب من ربهم"، إلى باطن خاصّ = ولا من العقل عليه دليل، فيجب إحالة ظاهره إلى باطنه.
+
+* *
+
+ويعني بقوله: "وكذلك نجزي المفترين"، وكما جَزيت هؤلاء الذين اتخذوا العجل إلهًا، من إحلال الغضب بهم، والإذلال في الحياة الدنيا على كفرهم ربّهم، ورِدَّتهم عن دينهم بعد إيمانهم بالله، كذلك نجزي كل من افترى على الله، فكذب عليه، وأقر بألوهية غيره، وعبد شيئًا سواه من الأوثان، بعد إقراره بوحدانية الله، وبعد إيمانه به وبأنبيائه ورسله وقِيلَ ذلك، إذا لم يتب من كفره قبل قتله. [[(١) انظر تفسير ((الافتراء)) فيما سلف ١٢: ٥٦٢، تعلق: ١، والمراجع هناك.]]
+
+* *
+
+وبنحو الذي قلنا في ذلك قال جماعةٌ من أهل التأويل.
+
+ذكر من قال ذلك:
+
+١٥١٤٨- حدثنا محمد بن عبد الأعلى قال، حدثنا محمد بن ثور، عن معمر، عن أيوب قال: تلا أبو قلابة: "سينالهم غضب من ربهم وذلة في الحياة الدنيا" الآية، قال: فهو جزاء كل مفترٍ يكون إلى يوم القيامة: أن يذله الله عز وجل.
+
+١٥١٤٩- حدثني المثنى قال، حدثنا أبو النعمان عارم قال، حدثنا حماد بن زيد، عن أيوب قال: قرأ أبو قلابة يومًا هذه الآية: "إن الذين اتخذوا العجل سينالهم غضب من ربهم وذلة في الحياة الدنيا وكذلك نجزي المفترين"، قال: هي والله لكل مفترٍ إلى يوم القيامة.
+
+١٥١٥٠- ... قال حدثنا حجاج قال، حدثنا حماد، عن ثابت، وحميد: أن قيس بن عُبَاد، وجارية بن قدامة، دخلا على علي بن أبي طالب رضي الله عنه، فقالا أرأيت هذا الأمر الذي أنت فيه وتدعو إليه، أعهدٌ عهده إليك رسول الله ﷺ، أم رأيٌ رأيته؟ قال: ما لكما ولهذا؟ أعرضا عن هذا! فقالا والله لا نعرضُ عنه حتى تخبرنا! فقال: ما عهد إليّ رسول الله ﷺ إلا كتابًا في قراب سيفي هذا! فاستلَّه، فأخرج الكتاب من قراب سيفه، وإذا فيه: "إنه لم يكن نبيّ إلا له حرم، وأنّي حرمت المدينة كما حرّم إبراهيم عليه السلام مكة، لا يحمل فيها السلاحُ لقتال. من أحدث حدثًا أو آوى مُحدِثًا فعليه لعنة الله والملائكة والناس أجمعين، لا يقبل منه صرف ولا عَدْل". فلما خرجا قال أحدهما لصاحبه: أما ترى هذا الكتاب؟ فرجعا وتركاه وقالا إنا سمعنا الله يقول "إن الذين اتخذوا العجل سينالهم غضب من ربهم"، الآية، وإن القوم قد افتروا فرية، ولا أدري إلا سينزل بهم ذلة. [[(١) الأثر: ١٥١٥٠ - كان إسناد هذا الخبر في المطبوعة هكذا: ((قال، حدثنا حماد، عن ثابت: أن حميد بن قيس بن عباد، وحارثه بن قدامة)) ،
+
+وفي المخطوطة: ((قال حدثنا حماد عن ثابت وحميد بن قيس بن عباد، وحارثه بن قدامة)) . ((حارثة)) غير منقوطة. وهما جميعاً خطأ، صوابه ما أثبت. و ((حماد)) هو: ((حماد بن سلمة)) ، ثقة مشهور، مضى مرارًا. و ((ثابت)) هو ((ثابت بن أسلم البنانى)) ، مضى مرارًا.
+
+و ((حميد)) هو ((حميد الطويل)) ، وهو: ((حميد بن أبي حميد)) ، الإمام المشهور، مضى مرارًا، وهو خال ((حماد بن سلمة)) .
+
+وأما ((قيس بن عباد القيسى الضبعى)) ، فهو ثقة قليل الحديث، روى عنه الحسن. قدم المدينة في خلافة عمر. وهو ممن قتلهم الحجاج في من خرج مع ابن الأشعث. مترجم في التهذيب، وابن سعد ٧ / ١ / ٩٥، والكبير ٤/١/١٤٥، وابن أبي حاتم ٣/١٢/١٠١، وفي الإصابة في القسم الثالث.
+
+وأما ((جارية بن قدامة بن زهير بن الحصين السعدي)) ، يقال هو بن عم الأحنف بن قيس، ويقال هو: عمه. وقال الطبراني: ((ليس بعم الأحنف أخي أبيه، ولكنه كان يدعوه عمه على سبيل الإعظام له)) .
+
+وجارية تميمى من أشراف تميم وكان شجاعاً فاتكاً، وهو صحابي ثابت الصحبة. مترجم في التهذيب، وابن سعد ٧/١/٣٨، والكبير ١/٢/٢٣٦، وابن أبي حاتم ١/١/٥٢٠، وفي الإصابة، وغيرها.
+
+وهذا الخبر لم أهتد إليه بهذا الإسناد، وهذه السياقة، في شيء من الكتب، ولكن خبر الصحيفة، عن ((قيس بن عباد)) ، رواه أحمد في مسنده رقم ٩٩٣، من طريق يحيى، عن سعيد بن أبي عروبة، عن قتادة، عن الحسن، عن قيس بن عباد قال: انطلقت أنا والأشتر إلى على، فقلنا: هل عهد إليك نبى الله ﷺ شيئاً لم يعهده إلى الناس عامة؟)) ، وساق خبراً آخر. وروى أحمد خبر الصحيفة في مسند علي رضي الله عنه، بأسانيد مختلفة، وألفاظ مختصرة ومطولة، ومؤتلفة ومختلفة. انظر رقم ٦١٥، ٨٧٢، ٨٧٤، ٩٥٤، ٩٦٢، ١٠٣٧، ١٢٩٧، ١٣٠٦، وليس في شيء منها ذكر ((جارية بن قدامة)) . ومع ذلك فخبر أبي جعفر صحيح الإسناد، فكأنهما حادثتان مختلفتان. وكان في المخطوطة: ((ولا أدرى إلا سينزل به ذلة)) والصواب ما صححه ناشر المطبوعة.]]
+
+١٥١٥١- حدثني المثنى قال، حدثنا إسحاق قال، حدثنا عبد الله بن الزبير، عن ابن عيينة: في قوله: "وكذلك نجزي المفترين" قال: كل صاحب بدعة ذليلٌ.
 
 ### al-Muyassar (Arabic)
 
@@ -115,6 +612,6 @@ Allah describes the misguidance of those who worshipped the calf that As-Samiri 
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿إنّ الَّذِينَ اتَّخَذُوا العِجْل﴾ إلَهًا ﴿سَيَنالُهُمْ غَضَب﴾ عَذاب ﴿مِن رَبّهمْ وذِلَّة فِي الحَياة الدُّنْيا﴾ فَعُذِّبُوا بِالأَمْرِ بِقَتْلِ أنْفُسهمْ وضُرِبَتْ عَلَيْهِمْ الذِّلَّة إلى يَوْم القِيامَة ﴿وكَذَلِكَ﴾ كَما جَزَيْناهُمْ ﴿نَجْزِي المُفْتَرِينَ﴾ عَلى اللَّه بِالإشْراكِ وغَيْره
 
 ---

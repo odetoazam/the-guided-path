@@ -1,6 +1,6 @@
 # Tafsir Cross-Reference Report
 
-Generated: 2026-07-15
+Generated: 2026-07-30
 Ayahs referenced: 1
 Tafsir sources: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), al-Jalalayn (Arabic)
 
@@ -14,7 +14,51 @@ And We made the son of Maryam and his mother as a sign, and We gave them refuge 
 
 Isa and Maryam
 
-Allah tells us about His servant and Messenger 'Isa bin Maryam, peace be upon them both, and that He made them as a sign for mankind, i.e., definitive proof of His ability to do what He wills. For He created Adam without a father or a mother, He created Hawwa' from a male without a female, and He created 'Isa from a female without a male, but He created the ...
+Allah tells us about His servant and Messenger 'Isa bin Maryam, peace be upon them both, and that He made them as a sign for mankind, i.e., definitive proof of His ability to do what He wills. For He created Adam without a father or a mother, He created Hawwa' from a male without a female, and He created 'Isa from a female without a male, but He created the rest of mankind from both male and female.
+
+وَآوَيْنَاهُمَا إِلَىٰ رَبْوَةٍ ذَاتِ قَرَارٍ وَمَعِينٍ
+
+(and We gave them refuge on high ground, a place of rest, security and flowing streams.) Ad-Dahhak reported that Ibn 'Abbas said: "Ar-Rabwah is a raised portion of land, which is the best place for vegetation to grow." This was also the view of Mujahid, 'Ikrimah, Sa'id bin Jubayr and Qatadah. Ibn 'Abbas said,
+
+ذَاتِ قَرَارٍ
+
+(Dhat Qarar)"A fertile place.
+
+وَمَعِينٍ
+
+(and Ma'in) means water running on the surface." This was also the view of Mujahid, 'Ikrimah, Sa'id bin Jubayr and Qatadah. Mujahid said: "A level hill." Sa'id bin Jubayr said that
+
+ذَاتِ قَرَارٍ وَمَعِينٍ
+
+(Dhat Qarar and Ma'in) means that water was flowing gently through it. Mujahid and Qatadah said:
+
+وَمَعِينٍ
+
+(and Ma'in ) "Running water." Ibn Abi Hatim recorded from Sa'id bin Al-Musayyib:
+
+وَآوَيْنَاهُمَا إِلَىٰ رَبْوَةٍ ذَاتِ قَرَارٍ وَمَعِينٍ
+
+(and We gave them refuge on a Rabwah, Dhat Qarar and Ma'in.) "It is Damascus." He said; "Something similar was also narrated from 'Abdullah bin Salam, Al-Hasan, Zayd bin Aslam and Khalid bin Ma'dan." Ibn Abi Hatim recorded from 'Ikrimah from Ibn 'Abbas that this Ayah referred to the rivers of Damascus. Layth bin Abi Sulaym narrated from Mujahid that the words;
+
+وَآوَيْنَاهُمَا إِلَىٰ رَبْوَةٍ
+
+(and We gave them refuge on a Rabwah,) referred to 'Isa bin Maryam and his mother when they sought refuge in Damascus and the flatlands around it. 'Abdur-Razzaq recorded that Abu Hurayrah said:
+
+إِلَىٰ رَبْوَةٍ ذَاتِ قَرَارٍ وَمَعِينٍ
+
+(on a Rabwah, Dhat Qarar and Ma'in.), "It is Ramlah in Palestine." The most correct opinion on this matter is that which was reported by Al-'Awfi from Ibn 'Abbas, who said;
+
+وَآوَيْنَاهُمَا إِلَىٰ رَبْوَةٍ ذَاتِ قَرَارٍ وَمَعِينٍ
+
+(and We gave them refuge on a Rabwah, Dhat Qarar and Ma'in.) "Ma'in refers to running water, and is the river of which Allah mentioned:
+
+قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّا
+
+(your Lord has provided a water stream under you.)"(19:24) Ad-Dahhak and Qatadah said;
+
+إِلَىٰ رَبْوَةٍ ذَاتِ قَرَارٍ وَمَعِينٍ
+
+(on a high ground, a place of rest, security and flowing streams.) refers to Jerusalem. This – and Allah knows best – is the most apparent meaning, because it is mentioned in the other Ayah, and parts of the Qur'an explain other parts, so it is more appropriate to interpret it by another Ayah, then the Sahih Hadiths, then other reports.
 
 ### al-Tabari (Arabic)
 
@@ -24,7 +68,101 @@ Allah tells us about His servant and Messenger 'Isa bin Maryam, peace be upon th
 
 كما:-
 
-⁕ حدثنا الحسن بن يحيى، قال: أخبرنا...
+⁕ حدثنا الحسن بن يحيى، قال: أخبرنا عبد الرازق، قال: أخبرنا مَعْمر، عن قَتادة، في قوله: ﴿وَجَعَلْنَا ابْنَ مَرْيَمَ وَأُمَّهُ﴾ قال: ولدته من غير أب هو له، ولذلك وحدت الآية، وقد ذكر مريم وابنها.
+
+* *
+
+وقوله ﴿وَآوَيْنَاهُمَا إِلَى رَبْوَةٍ﴾
+
+يقول: وضممناهما وصيرناهما إلى ربوة، يقال: أوى فلان إلى موضع كذا، فهو يأوي إليه، إذا صار إليه؛ وعلى مثال أفعلته فهو يُؤْويه.
+
+* *
+
+وقوله ﴿إِلَى رَبْوَةٍ﴾
+
+يعني: إلى مكان مرتفع من الأرض على ما حوله، ولذلك قيل للرجل، يكون في رفعة من قومه، وعزّ وشرف وعدد: هو في ربوة من قومه، وفيها لغتان: ضمّ الراء وكسرها إذا أريد بها الاسم، وإذا أريد بها الفعلة من المصدر قيل: رَبَا رَبْوة.
+
+واختلف أهل التأويل في المكان الذي وصفه الله بهذه الصفة، وآوَى إليه مريم وابنها، فقال بعضهم: هو الرَّمْلة من فلسطين.
+
+ذكر من قال ذلك:
+
+⁕ حدثني محمد بن المثنى، قال: ثنا صفوان بن عيسى، قال: ثنا بشر بن رافع، قال: ثني ابن عمّ لأبي هريرة، يقال له: أبو عبد الله، قال: قال لنا أبو هريرة: الزموا هذه الرملة من فلسطين، فإنها الربوة التي قال الله: ﴿وَآوَيْنَاهُمَا إِلَى رَبْوَةٍ ذَاتِ قَرَارٍ وَمَعِينٍ﴾ .
+
+⁕ حدثني عصام بن رَوّاد بن الجراح، قال: ثنا أبي، قال: ثنا عباد أبو عتبة الخوّاص، قال: ثنا يحيى بن أبي عمرو الشيباني، عن ابن وَعْلة، عن كريب قال: ما أدري ما:-
+
+⁕ حدثنا مُرَّة البَهزيّ، أنه سمع رسول الله ﷺ، وذكر أن الربوة: هي الرملة.
+
+⁕ حدثنا الحسن، قال: أخبرنا عبد الرزاق، عن بشر بن رافع، عن أبي عبد الله ابن عمّ أبي هريرة، قال: سمعت أبا هريرة يقول في قول الله: ﴿إِلَى رَبْوَةٍ ذَاتِ قَرَارٍ وَمَعِينٍ﴾ قال: هي الرملة من فلسطين.
+
+⁕ حدثنا ابن بشار، قال: ثنا صفوان، قال: ثنا بشر بن رافع، قال: ثني أبو عبد الله ابن عمّ أبي هريرة، قال: قال لنا أبو هريرة: الزموا هذه الرملة التي بفلسطين، فإنها الربوة التي قال الله: ﴿وَآوَيْنَاهُمَا إِلَى رَبْوَةٍ ذَاتِ قَرَارٍ وَمَعِينٍ﴾ .
+
+وقال آخرون: هي دمشق.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا أحمد بن الوليد القرشي، قال: ثنا محمد بن جعفر، قال: ثنا شعبة، عن يحيى بن سعيد، عن سعيد بن المسيب أنه قال في هذه الآية: ﴿وَآوَيْنَاهُمَا إِلَى رَبْوَةٍ ذَاتِ قَرَارٍ وَمَعِينٍ﴾ قال: زعموا أنها دمشق.
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، قال: بلغني، عن ابن المسيب أنه قال: دمشق.
+
+⁕ حدثنا الحسن، قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر، عن يحيى بن سعيد، عن سعيد بن المسيب، مثله.
+
+⁕ حدثني يحيى بن عثمان بن صالح السهمي، قال: ثنا ابن بكير، قال: ثنا الليث بن سعد، قال: ثني عبد الله بن لهيعة، عن يحيى بن سعيد، عن سعيد بن المسيب في قوله: ﴿وَآوَيْنَاهُمَا إِلَى رَبْوَةٍ ذَاتِ قَرَارٍ وَمَعِينٍ﴾ قال: إلى ربوة من رُبا مصر قال: وليس الرُّبَا إلا في مصر، والماء حين يُرسَل تكون الربا عليها القرى، لولا الربَا لغرقت تلك القرى.
+
+وقال آخرون: هي بيت المقدس.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة، قال: هو بيت المقدس.
+
+⁕ قال ثنا محمد بن ثور، عن معمر، عن قتادة قال: كان كعب يقول: بيت المقدس أقرب إلى السماء بثمانية عشر ميلا.
+
+⁕ حدثنا الحسن، قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر، عن كعب، مثله.
+
+وأولى هذه الأقوال بتأويل ذلك: أنها مكان مرتفع ذو استواء، وماء ظاهر، وليس كذلك صفة الرملة؛ لأن الرملة لا ماء بها مَعِين، والله تعالى ذِكْره وصف هذه الربوة بأنها ذات قرار ومَعِين.
+
+وبنحو الذي قلنا في ذلك قال جماعة من أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس، قوله: ﴿وَآوَيْنَاهُمَا إِلَى رَبْوَةٍ﴾ قال: الربوة: المستوية.
+
+⁕ حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى؛ وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء، جميعا عن ابن أبي نجيح، عن مجاهد، قوله: ﴿إِلَى رَبْوَةٍ﴾ قال: مستوية.
+
+⁕ حدثنا القاسم، قال: ثنا الحسين، قال: ثني حجاج، عن ابن جُرَيج، عن مجاهد، مثله.
+
+* *
+
+وقوله: ﴿ذَاتِ قَرَارٍ وَمَعِينٍ﴾
+
+يقول تعالى ذكره: من صفة الربوة التي آوينا إليها مريم وابنها عيسى، أنها أرض منبسطة وساحة، وذات ماء ظاهر، لغير الباطن، جار.
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس: ﴿وَمَعِينٍ﴾ قال: المعين: الماء الجاري، وهو النهر الذي قال الله: ﴿قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّا﴾ .
+
+⁕ حدثني محمد بن عمارة الأسدي، قال: ثنا عبيد الله بن موسى، قال: أخبرنا إسرائيل، عن أبي يحيى، عن مجاهد، في قوله: ﴿ذَاتِ قَرَارٍ وَمَعِينٍ﴾ قال: المعين: الماء.
+
+⁕ حدثني محمد بن عمارة الأسدي، قال: ثنا أبو عاصم، قال: ثنا عيسى، وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء، جميعا عن ابن أبي نجيح، عن مجاهد: معين، قال: ماء.
+
+⁕ حدثنا القاسم، قال: ثنا الحسين، قال: ثني حجاج، عن ابن جُرَيج، عن مجاهد، مثله.
+
+⁕ حدثني سليمان بن عبد الجبار، قال: ثنا محمد بن الصَّلْت، قال: ثنا شريك، عن سالم، عن سعيد، في قوله: ﴿ذَاتِ قَرَارٍ وَمَعِينٍ﴾ قال: المكان المستوي، والمَعِين: الماء الظاهر.
+
+⁕ حُدثت عن الحسين بن الفرج، قال: سمعت أبا معاذ يقول: أخبرنا عبيد، قال: سمعت الضحاك يقول في قوله: ﴿وَمَعِينٍ﴾ : هو الماء الظاهر.
+
+وقال آخرون: عنى بالقرار الثمار.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قَتادة: ﴿ذَاتِ قَرَارٍ وَمَعِينٍ﴾ هي ذات ثمار، وهي بيت المقدس.
+
+⁕ حدثنا الحسن، قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر، عن قتادة، مثله.
+
+قال أبو جعفر: وهذا القول الذي قاله قتادة في معنى: ﴿ذَاتِ قَرَارٍ﴾ وإن لم يكن أراد بقوله: إنها إنما وصفت بأنها ذات قرار لما فيها من الثمار، ومن أجل ذلك، يستقرّ فيها ساكنوها، فلا وجه له نعرفه. وأما ﴿مَعِينٍ﴾ فإنه مفعول من عِنْته فأنا أعينه، وهو مُعين، وقد يجوز أن يكون فعيلا من مَعَن يمعن فهو معين من الماعون، ومنه قول عَبيد بن الأبرص:
+
+وَاهيَةٌ أوْ مَعِينٌ مُمْعِنٌ ... أوْ هَضْبَةٌ دُونَها لُهُوبُ [[البيت لعبيد بن الأبرص من قصيدته البائية المطولة (اللسان: معن) واستشهد به المؤلف، عند قوله تعالى: ﴿وآويناهما إلى ربوة ذات قرار ومعين﴾ . وقال في اللسان: قال الفراء: ذات قرار: أرض منبسطة. ومعين الماء: الظاهر الجاري. قال: ولك أن تجعل المعين مفعولا من العيون، (واختاره المؤلف) ، ولك أن تجعله فعيلا من الماعون، يكون أصله المعن. والمعين: الماء السائل، وقيل الجاري على وجه الأرض، وقيل العذب الغزير، وكل ذلك من السهولة. والمعن: الماء الظاهر. واللهوب: جمع لهب (بكسر اللام) الفرجة والهواء بين الجبلين. وفي المحكم: مهراة ما بين كل جبلين. وقيل: هو الصدع في الجبل، عن اللحياني. وقيل: هو الشعب الصغير في الجبل. وقيل: وجه من الجبل كالحائط لا يستطاع ارتقاؤه. اهـ.]]
 
 ### al-Muyassar (Arabic)
 

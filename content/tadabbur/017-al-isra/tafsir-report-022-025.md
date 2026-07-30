@@ -1,6 +1,6 @@
 # Tafsir Cross-Reference Report
 
-Generated: 2026-04-09
+Generated: 2026-07-30
 Ayahs referenced: 4
 Tafsir sources: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), al-Jalalayn (Arabic)
 
@@ -10,16 +10,33 @@ Tafsir sources: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), 
 
 ### Ibn Kathir (English)
 
+Set not up with Allah any other ilah (god), or you will sit down reproved, forsaken (in the Hellfire)(22)
+
 Do not associate Anything in Worship with Allah
+
 Addressing those who are responsible among this Ummah, Allah says, "Do not admit any partner into your worship of your Lord."
+
 فَتَقْعُدَ مَذْمُومًا
+
 (or you will sit down reproved,) meaning, because of associating others with Him.
-مَّخْذُولاً
-(forsaken.) means, because the Lord, may He be exalted, will not help you; He will leave you to the one whom you worshipped, and he has no power either to benefit or to harm, because the Only One Who has the...
+
+مَّخْذُولًا
+
+(forsaken.) means, because the Lord, may He be exalted, will not help you; He will leave you to the one whom you worshipped, and he has no power either to benefit or to harm, because the Only One Who has the power to benefit or to harm is Allah alone, with no partner or associate. Imam Ahmad reported that 'Abdullah bin Mas'ud said: "The Messenger of Allah ﷺ said:
+
+مَنْ أَصَابَتْهُ فَاقَةٌ فَأَنْزَلَهَا بِالنَّاسِ لَمْ تُسَدَّ فَاقَتُهُ، وَمَنْ أَنْزَلَهَا بِاللهِ أَرْسَلَ اللهُ لَهُ بِالْغِنَى إِمَّا آجِلًا وَإِمَّا غِنىً عَاجِلًا
+
+(Whoever is afflicted with poverty and goes and asks people for help, will never get rid of his poverty, but if he asks Allah for help, then Allah will grant him the means of independence sooner or later.) This was also recorded by Abu Dawud and At-Tirmidhi, who said, "Hasan Sahih Gharib".
 
 ### al-Tabari (Arabic)
 
-يقول تعالى ذكره لنبيه محمد صلى الله عليه وسلم: لا تجعل يا محمد مع الله شريكا في ألوهته وعبادته، ولكن أخلص له العبادة، وأفرد له الألوهة، فإنه لا إله غيره، فإنك إن تجعل معه إلها غيره، وتعبد معه سواه، تقعد مذموما: يقول: تصير ملوما على ما ضيعت من شكر الله على ما أنعم به عليك من نعمه، وتصييرك الشكر لغير من أولاك المعروف، وفي إشراكك في الحمد من لم يشركه في النعمة عليك غيره، مخذولا قد أسلمك ربك لمن بغاك سوءا، وإذا أسلمك ربك الذي هو ناصر أوليائه لم يكن لك من دونه وليّ ينصرك ويدفع عنك.كما حدثنا بشر، ق...
+القول في تأويل قوله تعالى: ﴿لا تَجْعَلْ مَعَ اللَّهِ إِلَهًا آخَرَ فَتَقْعُدَ مَذْمُومًا مَخْذُولا (٢٢) ﴾
+
+يقول تعالى ذكره لنبيه محمد ﷺ: لا تجعل يا محمد مع الله شريكا في ألوهته وعبادته، ولكن أخلص له العبادة، وأفرد له الألوهة، فإنه لا إله غيره، فإنك إن تجعل معه إلها غيره، وتعبد معه سواه، تقعد مذموما: يقول: تصير ملوما على ما ضيعت من شكر الله على ما أنعم به عليك من نعمه، وتصييرك الشكر لغير من أولاك المعروف، وفي إشراكك في الحمد من لم يشركه في النعمة عليك غيره، مخذولا قد أسلمك ربك لمن بغاك سوءا، وإذا أسلمك ربك الذي هو ناصر أوليائه لم يكن لك من دونه وليّ ينصرك ويدفع عنك.
+
+كما:-
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله ﴿لا تَجْعَلْ مَعَ اللَّهِ إِلَهًا آخَرَ فَتَقْعُدَ مَذْمُومًا مَخْذُولا﴾ يقول: مذموما في نعمة الله، وهذا الكلام وإن كان خرج على وجه الخطاب لنبيّ لله ﷺ، فهو معنيّ به جميع من لزمه التكليف من عباد الله جلّ وعزّ.
 
 ### al-Muyassar (Arabic)
 
@@ -27,7 +44,7 @@ Addressing those who are responsible among this Ummah, Allah says, "Do not admit
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿مَخْذُولًا﴾ لا ناصِر لَك
 
 ---
 
@@ -35,24 +52,191 @@ Addressing those who are responsible among this Ummah, Allah says, "Do not admit
 
 ### Ibn Kathir (English)
 
+And your Lord has Qada [decreed] that you worship none but Him. And that you be dutiful to your parents. If one of them or both of them attain old age in your life, say not to them a word of disrespect, nor reprimand them but address them in terms of honor (23)And lower unto them the wing of submission and humility through mercy, and say: "My Lord! Bestow on them Your mercy as they did bring me up when I was young. (24)
+
 The Command to Worship Allah Alone and to be Dutiful to One's Parents
-Allah commands us to worship Him alone, with no partner or associate. The word Qada normally having the meaning of decree here means "commanded". Mujahid said that
-وَقُضِىَ
-(And He has Qada) means enjoined. This is also how Ubayy bin Ka`b, Ibn Mas`ud and Ad-Dahhak bin Muzahim recited the Ayah as:
-«وَوَصَّى رَبُّكَ أَلَّا تَعْبُدُوا إِلَّا إِيَّاه»
-"And your Lord has Wassa enjoined that you worship none but Him." The idea of...
+
+Allah commands us to worship Him alone, with no partner or associate. The word Qada [normally having the meaning of decree] here means "commanded". Mujahid said that
+
+وَقَضَىٰ
+
+(And He has Qada) means enjoined. This is also how Ubayy bin Ka'b, Ibn Mas'ud and Ad-Dahhak bin Muzahim recited the Ayah as:
+
+وَوَصَّى رَبُّكَ أَلَّا تَعْبُدُوا إِلَّا إِيَّاهُ
+
+"And your Lord has Wassa [enjoined] that you worship none but Him." The idea of worshipping Allah is connected to the idea of honoring one's parents. Allah says:
+
+وَبِالْوَالِدَيْنِ إِحْسَانًا
+
+(And that you be dutiful to your parents.) Here He commands good treatment of parents, as He says elsewhere:
+
+أَنِ اشْكُرْ لِي وَلِوَالِدَيْكَ إِلَيَّ الْمَصِيرُ
+
+(give thanks to Me and to your parents. Unto Me is the final destination)[31:14]
+
+إِمَّا يَبْلُغَنَّ عِندَكَ الْكِبَرَ أَحَدُهُمَا أَوْ كِلَاهُمَا فَلَا تَقُل لَّهُمَا أُفٍّ
+
+(If one of them or both of them attain old age in your life, say not to them a word of disrespect,) means, do not let them hear anything offensive from you, not even say "Uff!" which is the mildest word of disrespect,
+
+وَلَا تَنْهَرْهُمَا
+
+(and do not reprimand them) means, do not do anything horrible to them.
+
+وَلَا تَنْهَرْهُمَا
+
+(and do not reprimand them) 'Ata' bin Rabah said that it meant, "Do not raise your hand against them." When Allah forbids speaking and behaving in an obnoxious manner, He commands speaking and behaving in a good manner, so He says:
+
+وَقُل لَّهُمَا قَوْلًا كَرِيمًا
+
+(but address them in terms of honor.) meaning gently, kindly, politely, and with respect and appreciation.
+
+وَاخْفِضْ لَهُمَا جَنَاحَ الذُّلِّ مِنَ الرَّحْمَةِ
+
+(And lower unto them the wing of submission and humility through mercy,) means, be humble towards them in your actions.
+
+وَقُل رَّبِّ ارْحَمْهُمَا كَمَا رَبَّيَانِي صَغِيرًا
+
+(and say: "My Lord! Bestow on them Your Mercy as they did bring me up when I was young.") means, say this when they grow old and when they die. Ibn 'Abbas said: "But then Allah revealed:
+
+مَا كَانَ لِلنَّبِيِّ وَالَّذِينَ آمَنُوا أَن يَسْتَغْفِرُوا لِلْمُشْرِكِينَ
+
+(It is not (proper) for the Prophet and those who believe to ask Allah's forgiveness for the idolators...)" [9:13] There are many Hadiths which speak about honoring one's parents, such as the Hadith narrated through a number of chains of narration from Anas and others, which states that the Prophet ﷺ climbed up on the Minbar, and then said, ((Āmīn, Āmīn, Āmīn.)) It was said, "O Messenger of Allah, why did you say Āmīn?" He said:
+
+أَتَانِي جِبْرِيلُ فَقَالَ: يَا مُحَمَّدُ رَغِمَ أَنْفُ رَجُلٍ ذُكِرْتَ عِنْدَهُ فَلَمْ يُصَلِّ عَلَيْكَ، قُلْ: آمِينَ، فَقُلْتُ: آمِينَ، ثُمَّ قَالَ: رَغِمَ أَنْفُ رَجُلٍ دَخَلَ عَلَيْهِ شَهْرُ رَمَضَانَ ثُمَّ خَرَجَ فَلَمْ يُغْفَرْ لَهُ، قُلْ: آمِينَ، فَقُلْتُ: آمِينَ، ثُمَّ قَالَ: رَغِمَ أَنْفُ رَجُلٍ أَدْرَكَ وَالِدَيْهِ أَوْ أَحَدَهُمَا فَلَمْ يُدْخِلَاهُ الْجَنَّةَ، قُلْ: آمِينَ، فَقُلْتُ: آمِينَ
+
+(Jibril came to me and said, "O Muhammad, he is doomed who hears you mentioned and does not say Salla upon you." He said, "Say Āmīn," so I said Āmīn. Then he said, "He is doomed who sees the month of Ramadan come and go, and he has not been forgiven." He said, "Say Āmīn," so I said Āmīn. Then he said, "He is doomed who grows up and both his parents or one of them are still alive, and they do not cause him to enter Paradise." He said, "Say Āmīn," so I said Āmīn.)
+
+Another Hadith
+
+Imam Ahmad reported from Abu Hurayrah that the Prophet ﷺ said:
+
+رَغِمَ أَنْفُ، ثُمَّ رَغِمَ أَنْفُ ثُمَّ رَغِمَ أَنْفُ رَجُلٍ أَدْرَكَ أَحَدَ أَبَوَيْهِ أَوْ (كِلَيْهِمَا) عِنْدَ الْكِبَرِ وَلَمْ يَدْخُلِ الْجَنَّةَ
+
+(He is doomed, he is doomed, he is doomed, the man whose parents, one or both of them, reach old age while he is alive and he does not enter Paradise.) This version is Sahih although no one recorded it other than Muslim.
+
+Another Hadith
+
+Imam Ahmad recorded Mu'awiyah bin Jahimah As-Salami saying that Jahimah came to the Prophet ﷺ and said: "O Messenger of Allah, I want to go out to fight and I have come to seek your advice." He said,
+
+فَهَلْ لَكَ مِنْ أُمِّ
+
+(Do you have a mother?) He said, "Yes." The Prophet ﷺ said,
+
+فَالْزَمْهَا فَإِنَّ الْجَنَّةَ عِنْدَ رِجْلَيْهَا
+
+(Then stay with her, for Paradise is at her feet.) Similar incidents were also recorded by others. This was recorded by An-Nasa'i and Ibn Majah.
+
+Another Hadith
+
+Imam Ahmad recorded that Al-Miqdam bin Ma'dikarib said that the Prophet ﷺ said:
+
+إِنَّ اللهَ يُوصِيكُمْ بِآبَائِكُمْ إِنَّ اللهَ يُوصِيكُمْ بِأُمَّهَاتِكُمْ إِنَّ اللهَ يُوصِيكُمْ بِأُمَّهَاتِكُمْ إِنَّ اللهَ يُوصِيكُمْ بِأُمَّهَاتِكُمْ إِنَّ اللهَ يُوصِيكُمْ بِالْأَقْرَبِ فَالْأَقْرَبِ
+
+(Allah enjoins you concerning your fathers, Allah enjoins you concerning your mothers, Allah enjoins you concerning your mothers, Allah enjoins you concerning your mothers, Allah enjoins you concerning your close relatives then the next in closeness.) This was recorded by Ibn Majah from the Hadith of 'Abdullah bin 'Ayyash.
+
+Another Hadith
+
+Ahmad recorded that a man from Banu Yarbu' said: "I came to the Prophet ﷺ while he was talking to the people, and I heard him saying,
+
+يَدُ الْمُعْطِي الْعُلْيَا، أُمَّكَ وَأَبَاكَ، وَأُخْتَكَ وَأَخَاكَ، ثُمَّ أَدْنَاكَ أَدْنَاكَ
+
+(The hand of the one who gives is superior. (Give to) your mother and your father, your sister and your brother, then the closest and next closest.)"
 
 ### al-Tabari (Arabic)
 
-يعني بذلك تعالى ذكره حكم ربك يا محمد بأمره إياكم ألا تعبدوا إلا الله، فإنه لا ينبغي أن يعبد غيره، وقد اختلفت ألفاظ أهل التأويل في تأويل قوله (وَقَضَى رَبُّكَ ) وإن كان معنى جميعهم في ذلك واحدا.* ذكر ما قالوا في ذلك: حدثني عليّ بن داود، قال: ثنا عبد الله بن صالح، قال: ثني معاوية، عن عليّ، عن ابن عباس ( وَقَضَى رَبُّكَ أَلا تَعْبُدُوا إِلا إِيَّاهُ ) يقول: أمر.حدثنا ابن حميد، قال: ثنا الحكم بن بشير، قال: ثنا زكريا بن سلام، قال: جاء رجل إلى الحسن، فقال : إنه طلق امرأته ثلاثا، فقال: إنك عصيتَ ربك...
+القول في تأويل قوله تعالى: ﴿وَقَضَى رَبُّكَ أَلا تَعْبُدُوا إِلا إِيَّاهُ وَبِالْوَالِدَيْنِ إِحْسَانًا إِمَّا يَبْلُغَنَّ عِنْدَكَ الْكِبَرَ أَحَدُهُمَا أَوْ كِلاهُمَا فَلا تَقُلْ لَهُمَا أُفٍّ وَلا تَنْهَرْهُمَا وَقُلْ لَهُمَا قَوْلا كَرِيمًا (٢٣) ﴾
+
+يعني بذلك تعالى ذكره حكم ربك يا محمد بأمره إياكم ألا تعبدوا إلا الله، فإنه لا ينبغي أن يعبد غيره، وقد اختلفت ألفاظ أهل التأويل في تأويل قوله ﴿وَقَضَى رَبُّكَ﴾ وإن كان معنى جميعهم في ذلك واحدا.
+
+ذكر ما قالوا في ذلك: حدثني عليّ بن داود، قال: ثنا عبد الله بن صالح، قال: ثني معاوية، عن عليّ، عن ابن عباس ﴿وَقَضَى رَبُّكَ أَلا تَعْبُدُوا إِلا إِيَّاهُ﴾ يقول: أمر.
+
+⁕ حدثنا ابن حميد، قال: ثنا الحكم بن بشير، قال: ثنا زكريا بن سلام، قال: جاء رجل إلى الحسن، فقال: إنه طلق امرأته ثلاثا، فقال: إنك عصيتَ ربك، وبانت منك امرأتك، فقال الرجل: قضى الله ذلك عليّ، قال الحسن، وكان فصيحا: ما قضى الله: أي ما أمر الله، وقرأ هذه الآية ﴿وَقَضَى رَبُّكَ أَلا تَعْبُدُوا إِلا إِيَّاهُ﴾ فقال الناس: تكلم الحسن في القدر.
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله ﴿وَقَضَى رَبُّكَ أَلا تَعْبُدُوا إِلا إِيَّاهُ﴾ : أي أمر ربك في ألا تعبدوا إلا إياه، فهذا قضاء الله العاجل، وكان يُقال في بعض الحكمة: من أرضى والديه: أرض خالقه، ومن أسخط والديه، فقد أسخط ربه.
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا محمد بن ثور، عن معمر، عن قتادة ﴿وَقَضَى رَبُّكَ أَلا تَعْبُدُوا إِلا إِيَّاهُ﴾ قال: أمر ألا تعبدوا إلا إياه، وفي حرف ابن مسعود: ﴿وَصَّى رَبُّكَ ألا تَعْبُدُوا إِلا إِيَّاهُ﴾ .
+
+⁕ حدثنا أبو كريب، قال: ثنا يحيى بن عيسى، قال: ثنا نصير بن أبي الأشعث، قال: ثني ابن حبيب بن أبي ثابت، عن أبيه، قال: أعطاني ابن عباس مصحفا، فقال: هذا على قراءة أبيّ بن كعب، قال أبو كريب: قال يحيى: رأيت المصحف عند نصير فيه: ﴿وَوَصَّى رَبُّكَ﴾ يعني: وقضى ربك.
+
+⁕ حدثنا القاسم، قال: ثنا الحسين، قال: ثني حجاج، عن ابن جريج، عن مجاهد ﴿وَقَضَى رَبُّكَ أَلا تَعْبُدُوا إِلا إِيَّاهُ﴾ قال: وأوصى ربك.
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله ﴿وَقَضَى رَبُّكَ أَلا تَعْبُدُوا إِلا إِيَّاهُ﴾ قال: أمر ألا تعبدوا إلا إياه.
+
+⁕ حدثني الحرث، قال: ثنا القاسم، قال: ثنا هشيم، عن أبي إسحاق الكوفي، عن الضحاك بن مزاحم، أنه قرأها ﴿وَوَصَّى رَبُّكَ﴾ وقال: إنهم ألصقوا الواو بالصاد فصارت قافا.
+
+* *
+
+وقوله ﴿وَبِالْوَالِدَيْنِ إِحْسَانًا﴾
+
+يقول: وأمركم بالوالدين إحسانا أن تحسنوا إليهما وتبرّوهما. ومعنى الكلام: وأمركم أن تحسنوا إلى الوالدين، فلما حذفت "أن" تعلق القضاء بالإحسان، كما يقال في الكلام: آمرك به خيرا، وأوصيك به خيرا، بمعنى: آمرك أن تفعل به خيرا، ثم تحذف "أن" فيتعلق الأمر والوصية بالخبر، كما قال الشاعر:
+
+عَجِبْتُ مِنْ دَهْماءَ إِذْ تَشْكُونا ... ومِنْ أبي دَهْماءَ إِذْ يُوصِينا
+
+خَيْرًا بها كأننا جافُونا [[الأبيات الثلاثة من مشطور الرجز. وهي من شواهد الفراء في (معاني القرآن ص ١٧٨) قال: والعرب تقول: أوصيك به خيرا، وآمرك به خيرا، وكأن معناه: آمرك أن تفعل به خيرا، ثم تحذف أن، فتوصل الخير بالوصية وبالأمر، قال الشاعر: "عجبت ... الأبيات".]]
+
+وعمل يوصينا في الخير.
+
+واختلفت القرّاء في قراءة قوله ﴿إِمَّا يَبْلُغَنَّ عِنْدَكَ الْكِبَرَ أَحَدُهُمَا أَوْ كِلاهُمَا﴾ فقرأ ذلك عامة قرّاء أهل المدينة والبصرة، وبعض قرّاء الكوفيين ﴿إِمَّا يَبْلُغَنَّ﴾ على التوحيد على توجيه ذلك إلى أحدهما لأن أحدهما واحد، فوحدوا ﴿يَبْلُغَنَّ﴾ لتوحيده، وجعلوا قوله ﴿أوْ كِلاهُما﴾ معطوفا على الأحد. وقرأ ذلك عامة قرّاء الكوفيين ﴿إِما يَبْلُغانَ﴾ على التثنية وكسر النون وتشديدها، وقالوا: قد ذكر الوالدان قبل، وقوله ﴿يَبْلُغانّ﴾ خبر عنهما بعد ما قدّم أسماءهما، قالوا: والفعل إذا جاء بعد الاسم كان الكلام أن يكون فيه دليل على أنه خبر عن اثنين أو جماعة. قالوا: والدليل على أنه خبر عن اثنين في الفعل المستقبل الألف والنون. قالوا: وقوله ﴿أحَدُهُما أوْ كِلاهُما﴾ كلام مستأنف، كما قيل ﴿فَعَمُوا وَصَمُّوا ثُمَّ تَابَ اللَّهُ عَلَيْهِمْ ثُمَّ عَمُوا وَصَمُّوا كَثِيرٌ مِنْهُمْ﴾ وكقوله ﴿وأسَرُّوا النَّجْوَى﴾ ثم ابتدأ فقال ﴿الَّذِينَ ظَلَمُوا﴾ .
+
+وأولى القراءتين بالصواب عندي في ذلك، قراءة من قرأه ﴿إما يَبْلُغَنَّ﴾ على التوحيد على أنه خبر عن أحدهما، لأن الخبر عن الأمر بالإحسان في الوالدين، قد تناهى عند قوله ﴿وَبالوَالِدَيْنِ إحْسانا﴾ ثم ابتدأ قوله ﴿إِمَّا يَبْلُغَنَّ عِنْدَكَ الْكِبَرَ أَحَدُهُمَا أَوْ كِلاهُمَا﴾ .
+
+* *
+
+وقوله ﴿فَلا تَقُلْ لَهُمَا أُفٍّ﴾
+
+يقول: فلا تؤفف من شيء تراه من أحدهما أو منهما مما يتأذّى به الناس، ولكن اصبر على ذلك منهما، واحتسب في الأجر صبرك عليه منهما، كما صبرا عليك في صغرك.
+
+وبنحو الذي قلنا في ذلك، قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا محمد بن بشار، قال: ثنا محمد بن محبب، قال: ثنا سفيان، عن ليث، عن مجاهد، في قوله ﴿فَلا تَقُلْ لَهُمَا أُفٍّ وَلا تَنْهَرْهُمَا﴾ قال: إن بلغا عندك من الكبر ما يبولان ويخرآن، فلا تقل لهما أف تقذّرهما.
+
+⁕ حدثنا القاسم، قال: ثنا الحسين، قال: ثني حجاج، عن ابن جريج، عن مجاهد إما يَبْلُغانَّ عِندك الكبر فلا تَقُل لهما أف حين ترى الأذى، وتميط عنهما الخلاء والبول، كما كانا يميطانه عنك صغيرا، ولا تؤذهما.
+
+وقد اختلف أهل المعرفة بكلام العرب في معنى "أفّ"، فقال بعضهم: معناه:
+
+كلّ ما غلظ من الكلام وقبُح.
+
+وقال آخرون: الأفّ: وسخ الأظفار والتف كلّ ما رفعت بيدك من الأرض من شيء حقير، وللعرب في "أُفّ" لغات ستّ رفعها بالتنوين وغير التنوين وخفضها كذلك ونصبها، فمن خفض ذلك بالتنوين، وهي قراءة عامة أهل المدينة، شبهها بالأصوات التي لا معنى لها، كقولهم في حكاية الصوت غاق غاق، فخفضوا القاف ونوّنوها، وكان حكمها السكون، فإنه لا شيء يعربها من أجل مجيئها بعد حرف ساكن وهو الألف، فكرهوا أن يجمعوا بين ساكنين، فحرّكوا إلى أقرب الحركات من السكون، وذلك الكسر، لأن المجزوم إذا حرّك، فإنما يحرّك إلى الكسر، وأما الذين خفضوا بغير تنوين، وهي قراءة عامة قرّاء الكوفيين والبصريين، فإنهم قالوا: إنما يدخلون التنوين فيما جاء من الأصوات ناقصا، كالذي يأتي على حرفين مثل: مه وصه وبخ، فيتمم بالتنوين لنقصانه عن أبنيه الأسماء. قالوا: وأفّ تامّ لا حاجة بما إلى تتمته بغيره، لأنه قد جاء على ثلاثة أحرف.
+
+قالوا: وإنما كسرنا الفاء الثانية لئلا نجمع بين ساكنين. وأما من ضمّ ونوّن، فإنه قال: هو اسم كسائر الأسماء التي تُعرف وليس بصوت، وعدل به عن الأصوات، وأما من ضمّ ذلك بغير تنوين، فإنه قال: ليس هو بأسم متمكن فيُعرب بإعراب الأسماء المتمكنة، وقالوا: نضمه كما نضمّ قوله ﴿لِلَّهِ الأمْرُ مِنْ قَبْلُ وَمِنْ بَعْدُ﴾ ، وكما نضمّ الاسم في النداء المفرد، فنقول: يا زيد. ومن نصبه بغير تنوين، وهو قراءة بعض المكيين وأهل الشام فإنه شبهه بقولهم: مدّ يا هذا وردّ. ومن نصب بالتنوين، فإنه أعمل الفعل فيه، وجعله اسما صحيحا، فيقول: ما قلت له: أفا ولا تفا. وكان بعض نحويي البصرة يقول: قُرِئت: أفّ، وأفا لغة جعلوها مثل نعتها. وقرأ بعضهم "أُفّ"، وذلك أن بعض العرب يقول: "أفّ لك" على الحكاية: أي لا تقل لهما هذا القول. قال: والرفع قبيح، لأنه لم يجيء بعده بلام، والذين قالوا: "أُفّ" فكسروا كثير، وهو أجود. وكسر بعضهم ونوّن. وقال بعضهم: "أفي"، كأنه أضاف هذا القول إلى نفسه، فقال: أفي هذا لكما، والمكسور من هذا منوّن وغير منوّن على أنه اسم غير متمكن، نحو أمس وما أشبهه، والمفتوح بغير تنوين كذلك. وقال بعض أهل العربية: كل هذه الحركات الستّ تدخل في "أفّ" حكاية تشبه بالاسم مرّة وبالصوت أخرى. قال: وأكثر ما تُكسر الأصوات بالتنوين إذا كانت على حرفين مثل صه ومه وبخ. وإذا كانت على ثلاثة أحرف شبهت بالأدوات "أفَّ" مثل: ليت ومَدَّ، وأُفَّ مثل مُدَّ يُشبه بالأدوات [[ليس كلام المؤلف في تخريج اللغات الست في كلمة " أف" واضحا،وقد بينته المعاجم (اللسان: أفف) ، انظر معاني القرآن للفراء (مصورة الجامعة رقم ٢٤٠٥٩ ص ١٧٩) ففيه ما يوضح هذا الموضع من كلام المؤلف، وهو كثير لم نرد أن نطول به ذيول الكتاب.]] . وإذا قال أَفَّ مثل صَهَّ. وقالوا سمعت مِضَّ يا هذا ومِضُّ. وحُكي عن الكسائي أنه قال: سمعت "ما علمك أهلك إلا مِضٍّ ومِضُّ"، وهذا كإِفٍّ وأفُّ. ومن قال: "أُفًّا" جعله مثل سُحْقا وبُعدا.
+
+والذي هو أولى بالصحة عندي في قراءة ذلك، قراءة من قرأه ﴿فلا تَقُلْ لَهُما أُفٍّ﴾ بكسر الفاء بغير تنوين لعلَّتين: إحداهما: أنها أشهر اللغات فيها وأفصحها عند العرب؛ والثانية: أن حظّ كلّ ما لم يكن له معرّب من الكلام السكون؛ فلما كان ذلك كذلك. وكانت الفاء في أفّ حظها الوقوف، ثم لم يكن إلى ذلك سبيل لاجتماع الساكنين فيه، وكان حكم الساكن إذا حُرّك أن يحرّك إلى الكسر حرّكت إلى الكسر، كما قيل: مُدِّ وشُدِّ ورُدِّ الباب.
+
+* *
+
+وقوله ﴿وَلا تَنْهَرْهُما﴾
+
+يقول جلّ ثناؤه: ولا تزجُرهما.
+
+كما:-
+
+⁕ حدثنا محمد بن إسماعيل الأحمَسي، قال: ثنا محمد بن عبيد، قال: ثنا واصل الرَّقاشيّ، عن عطاء بن أبي رَباح، في قوله ﴿فَلا تَقُلْ لَهُمَا أُفٍّ وَلا تَنْهَرْهُمَا﴾ قال: لا تنفض يدك على والديك، يقال منه: نَهَرَه يَنهره نَهْرا، وانتهره ينتهره انتهارا.
+
+وأما قوله ﴿وَقُلْ لَهُمَا قَوْلا كَرِيمًا﴾ فإنه يقول جلّ ثناؤه: وقل لهما قولا جميلا حسنا.
+
+كما:-
+
+⁕ حدثنا القاسم، قال: ثنا الحسين، قال: ثني حجاج، عن ابن جريج ﴿وَقُلْ لَهُمَا قَوْلا كَرِيمًا﴾ قال: أحسن ما تجد من القول.
+
+⁕ حدثنا القاسم، قال: ثنا الحسين، قال: ثنا المعتمر بن سليمان، عن عبد الله بن المختار، عن هشام بن عروة، عن أبيه، عن عمر بن الخطاب ﴿قَوْلا كَرِيما﴾ قالا لا تمتنع من شيء يريدانه.
+
+قال أبو جعفر: وهذا الحديث خطأ، أعني حديث هشام بن عُروة، إنما هو عن هشام بن عروة، عن أبيه، ليس فيه عمر، حدّث عن ابن عُلية وغيره، عن عبد الله بن المختار.
+
+⁕ حدثنا بشر بن معاذ، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة ﴿وَقُلْ لَهُمَا قَوْلا كَرِيمًا﴾ : أي قولا ليِّنا سهلا.
+
+⁕ حدثنا محمد بن عبد الأعلى، قال: ثنا محمد بن ثور، عن معمر، عن قتادة، مثله.
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: ثني حَرْملة بن عمران، عن أبي الهَدَّاج التُّجِيبي، قال: قلت لسعيد بن المسيب: كل ما ذكر الله عزّ وجلّ في القرآن من برّ الوالدين، فقد عرفته، إلا قوله ﴿وَقُلْ لَهُمَا قَوْلا كَرِيمًا﴾ ما هذا القول الكريم؟ فقال ابن المسيب: قول العبد المذنب للسيد الفظّ.
 
 ### al-Muyassar (Arabic)
 
-وأَمَر ربك -أيها الإنسان- وألزم وأوجب أن يفرد سبحانه وتعالى وحده بالعبادة، وأمر بالإحسان إلى الأب والأم، وبخاصة حالةُ الشيخوخة، فلا تضجر ولا تستثقل شيئًا تراه من أحدهما أو منهما، ولا تسمعهما قولا سيئًا، حتى ولا التأفيف الذي هو أدنى مراتب القول السيئ، ولا يصدر منك إليهما فعل قبيح، ولكن ارفق بهما، وقل لهما -دائما- قولا لينًا لطيفًا.
+وأَمَر ربك -أيها الإنسان- وألزم وأوجب أن يفرد سبحانه وتعالى وحده بالعبادة، وأمر بالإحسان إلى الأب والأم، وبخاصة حالةُ الشيخوخة إذا كانا في رعايتك، فلا تضجر ولا تستثقل شيئًا تراه من أحدهما أو منهما، ولا تُسْمِعهما قولًا سيئًا، حتى ولا التأفيف الذي هو أدنى مراتب القول السيئ، ولا يصدر منك إليهما فعل قبيح، ولكن ارفق بهما، وقل لهما -دائمًا- قولًا لينًا لطيفًا.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿وقَضى﴾ أمَرَ ﴿أ﴾ نْ أيْ بِأَنْ ﴿لا تَعْبُدُوا إلّا إيّاهُ﴾ أنْ تُحْسِنُوا ﴿وبِالوالِدَيْنِ إحْسانًا﴾ بِأَنْ تَبَرُّوهُما ﴿يَبْلُغَنَّ﴾ فاعِل وفِي قِراءَة يَبْلُغانِّ فَأَحَدهما بَدَل مِن ألِفه ﴿أُفّ﴾ بِفَتْحِ الفاء وكَسْرها مُنَوَّنًا وغَيْر مُنَوَّن مَصْدَر بِمَعْنى تَبًّا وقُبْحًا ﴿ولا تَنْهَرهُما﴾ تَزْجُرهُما ﴿وقُلْ لَهُما قَوْلًا كَرِيمًا﴾ جَمِيلًا لَيِّنًا
 
 ---
 
@@ -60,24 +244,161 @@ Allah commands us to worship Him alone, with no partner or associate. The word Q
 
 ### Ibn Kathir (English)
 
+And your Lord has Qada [decreed] that you worship none but Him. And that you be dutiful to your parents. If one of them or both of them attain old age in your life, say not to them a word of disrespect, nor reprimand them but address them in terms of honor (23)And lower unto them the wing of submission and humility through mercy, and say: "My Lord! Bestow on them Your mercy as they did bring me up when I was young. (24)
+
 The Command to Worship Allah Alone and to be Dutiful to One's Parents
-Allah commands us to worship Him alone, with no partner or associate. The word Qada normally having the meaning of decree here means "commanded". Mujahid said that
-وَقُضِىَ
-(And He has Qada) means enjoined. This is also how Ubayy bin Ka`b, Ibn Mas`ud and Ad-Dahhak bin Muzahim recited the Ayah as:
-«وَوَصَّى رَبُّكَ أَلَّا تَعْبُدُوا إِلَّا إِيَّاه»
-"And your Lord has Wassa enjoined that you worship none but Him." The idea of...
+
+Allah commands us to worship Him alone, with no partner or associate. The word Qada [normally having the meaning of decree] here means "commanded". Mujahid said that
+
+وَقَضَىٰ
+
+(And He has Qada) means enjoined. This is also how Ubayy bin Ka'b, Ibn Mas'ud and Ad-Dahhak bin Muzahim recited the Ayah as:
+
+وَوَصَّى رَبُّكَ أَلَّا تَعْبُدُوا إِلَّا إِيَّاهُ
+
+"And your Lord has Wassa [enjoined] that you worship none but Him." The idea of worshipping Allah is connected to the idea of honoring one's parents. Allah says:
+
+وَبِالْوَالِدَيْنِ إِحْسَانًا
+
+(And that you be dutiful to your parents.) Here He commands good treatment of parents, as He says elsewhere:
+
+أَنِ اشْكُرْ لِي وَلِوَالِدَيْكَ إِلَيَّ الْمَصِيرُ
+
+(give thanks to Me and to your parents. Unto Me is the final destination)[31:14]
+
+إِمَّا يَبْلُغَنَّ عِندَكَ الْكِبَرَ أَحَدُهُمَا أَوْ كِلَاهُمَا فَلَا تَقُل لَّهُمَا أُفٍّ
+
+(If one of them or both of them attain old age in your life, say not to them a word of disrespect,) means, do not let them hear anything offensive from you, not even say "Uff!" which is the mildest word of disrespect,
+
+وَلَا تَنْهَرْهُمَا
+
+(and do not reprimand them) means, do not do anything horrible to them.
+
+وَلَا تَنْهَرْهُمَا
+
+(and do not reprimand them) 'Ata' bin Rabah said that it meant, "Do not raise your hand against them." When Allah forbids speaking and behaving in an obnoxious manner, He commands speaking and behaving in a good manner, so He says:
+
+وَقُل لَّهُمَا قَوْلًا كَرِيمًا
+
+(but address them in terms of honor.) meaning gently, kindly, politely, and with respect and appreciation.
+
+وَاخْفِضْ لَهُمَا جَنَاحَ الذُّلِّ مِنَ الرَّحْمَةِ
+
+(And lower unto them the wing of submission and humility through mercy,) means, be humble towards them in your actions.
+
+وَقُل رَّبِّ ارْحَمْهُمَا كَمَا رَبَّيَانِي صَغِيرًا
+
+(and say: "My Lord! Bestow on them Your Mercy as they did bring me up when I was young.") means, say this when they grow old and when they die. Ibn 'Abbas said: "But then Allah revealed:
+
+مَا كَانَ لِلنَّبِيِّ وَالَّذِينَ آمَنُوا أَن يَسْتَغْفِرُوا لِلْمُشْرِكِينَ
+
+(It is not (proper) for the Prophet and those who believe to ask Allah's forgiveness for the idolators...)" [9:13] There are many Hadiths which speak about honoring one's parents, such as the Hadith narrated through a number of chains of narration from Anas and others, which states that the Prophet ﷺ climbed up on the Minbar, and then said, ((Āmīn, Āmīn, Āmīn.)) It was said, "O Messenger of Allah, why did you say Āmīn?" He said:
+
+أَتَانِي جِبْرِيلُ فَقَالَ: يَا مُحَمَّدُ رَغِمَ أَنْفُ رَجُلٍ ذُكِرْتَ عِنْدَهُ فَلَمْ يُصَلِّ عَلَيْكَ، قُلْ: آمِينَ، فَقُلْتُ: آمِينَ، ثُمَّ قَالَ: رَغِمَ أَنْفُ رَجُلٍ دَخَلَ عَلَيْهِ شَهْرُ رَمَضَانَ ثُمَّ خَرَجَ فَلَمْ يُغْفَرْ لَهُ، قُلْ: آمِينَ، فَقُلْتُ: آمِينَ، ثُمَّ قَالَ: رَغِمَ أَنْفُ رَجُلٍ أَدْرَكَ وَالِدَيْهِ أَوْ أَحَدَهُمَا فَلَمْ يُدْخِلَاهُ الْجَنَّةَ، قُلْ: آمِينَ، فَقُلْتُ: آمِينَ
+
+(Jibril came to me and said, "O Muhammad, he is doomed who hears you mentioned and does not say Salla upon you." He said, "Say Āmīn," so I said Āmīn. Then he said, "He is doomed who sees the month of Ramadan come and go, and he has not been forgiven." He said, "Say Āmīn," so I said Āmīn. Then he said, "He is doomed who grows up and both his parents or one of them are still alive, and they do not cause him to enter Paradise." He said, "Say Āmīn," so I said Āmīn.)
+
+Another Hadith
+
+Imam Ahmad reported from Abu Hurayrah that the Prophet ﷺ said:
+
+رَغِمَ أَنْفُ، ثُمَّ رَغِمَ أَنْفُ ثُمَّ رَغِمَ أَنْفُ رَجُلٍ أَدْرَكَ أَحَدَ أَبَوَيْهِ أَوْ (كِلَيْهِمَا) عِنْدَ الْكِبَرِ وَلَمْ يَدْخُلِ الْجَنَّةَ
+
+(He is doomed, he is doomed, he is doomed, the man whose parents, one or both of them, reach old age while he is alive and he does not enter Paradise.) This version is Sahih although no one recorded it other than Muslim.
+
+Another Hadith
+
+Imam Ahmad recorded Mu'awiyah bin Jahimah As-Salami saying that Jahimah came to the Prophet ﷺ and said: "O Messenger of Allah, I want to go out to fight and I have come to seek your advice." He said,
+
+فَهَلْ لَكَ مِنْ أُمِّ
+
+(Do you have a mother?) He said, "Yes." The Prophet ﷺ said,
+
+فَالْزَمْهَا فَإِنَّ الْجَنَّةَ عِنْدَ رِجْلَيْهَا
+
+(Then stay with her, for Paradise is at her feet.) Similar incidents were also recorded by others. This was recorded by An-Nasa'i and Ibn Majah.
+
+Another Hadith
+
+Imam Ahmad recorded that Al-Miqdam bin Ma'dikarib said that the Prophet ﷺ said:
+
+إِنَّ اللهَ يُوصِيكُمْ بِآبَائِكُمْ إِنَّ اللهَ يُوصِيكُمْ بِأُمَّهَاتِكُمْ إِنَّ اللهَ يُوصِيكُمْ بِأُمَّهَاتِكُمْ إِنَّ اللهَ يُوصِيكُمْ بِأُمَّهَاتِكُمْ إِنَّ اللهَ يُوصِيكُمْ بِالْأَقْرَبِ فَالْأَقْرَبِ
+
+(Allah enjoins you concerning your fathers, Allah enjoins you concerning your mothers, Allah enjoins you concerning your mothers, Allah enjoins you concerning your mothers, Allah enjoins you concerning your close relatives then the next in closeness.) This was recorded by Ibn Majah from the Hadith of 'Abdullah bin 'Ayyash.
+
+Another Hadith
+
+Ahmad recorded that a man from Banu Yarbu' said: "I came to the Prophet ﷺ while he was talking to the people, and I heard him saying,
+
+يَدُ الْمُعْطِي الْعُلْيَا، أُمَّكَ وَأَبَاكَ، وَأُخْتَكَ وَأَخَاكَ، ثُمَّ أَدْنَاكَ أَدْنَاكَ
+
+(The hand of the one who gives is superior. (Give to) your mother and your father, your sister and your brother, then the closest and next closest.)"
 
 ### al-Tabari (Arabic)
 
-يقول تعالى ذكره: وكن لهما ذليلا رحمة منك بهما تطيعهما فيما أمراك به مما لم يكن لله معصية، ولا تخالفهما فيما أحبَّا.وبنحو الذي قلنا في ذلك، قال أهل التأويل.* ذكر من قال ذلك:حدثنا ابن بشار، قال: ثنا عبد الرحمن، قال: ثنا سفيان، عن هشام بن عروة ، عن أبيه، في قوله: ( وَاخْفِضْ لَهُمَا جَنَاحَ الذُّلِّ مِنَ الرَّحْمَةِ ) قال: لا تمتنع من شيء يُحبانه.حدثنا أبو كريب، قال: ثنا الأشجعي ، قال: سمعت هشام بن عروة، عن أبيه، في قوله ( وَاخْفِضْ لَهُمَا جَنَاحَ الذُّلِّ مِنَ الرَّحْمَةِ ) قال: هو أن تلين لهم...
+القول في تأويل قوله تعالى: ﴿وَاخْفِضْ لَهُمَا جَنَاحَ الذُّلِّ مِنَ الرَّحْمَةِ وَقُلْ رَبِّي ارْحَمْهُمَا كَمَا رَبَّيَانِي صَغِيرًا (٢٤) ﴾
+
+يقول تعالى ذكره: وكن لهما ذليلا رحمة منك بهما تطيعهما فيما أمراك به مما لم يكن لله معصية، ولا تخالفهما فيما أحبَّا.
+
+وبنحو الذي قلنا في ذلك، قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا ابن بشار، قال: ثنا عبد الرحمن، قال: ثنا سفيان، عن هشام بن عروة، عن أبيه، في قوله: ﴿وَاخْفِضْ لَهُمَا جَنَاحَ الذُّلِّ مِنَ الرَّحْمَةِ﴾ قال: لا تمتنع من شيء يُحبانه.
+
+⁕ حدثنا أبو كريب، قال: ثنا الأشجعي، قال: سمعت هشام بن عروة، عن أبيه، في قوله ﴿وَاخْفِضْ لَهُمَا جَنَاحَ الذُّلِّ مِنَ الرَّحْمَةِ﴾ قال: هو أن تلين لهما حتى لا تمتنع من شيء أحبَّاه.
+
+⁕ حدثني محمد بن عبد الله بن عبد الحكم، قال: ثنا أيوب بن سويد، قال: ثنا الثوري، عن هشام بن عروة، عن أبيه، في قوله ﴿وَاخْفِضْ لَهُمَا جَنَاحَ الذُّلِّ مِنَ الرَّحْمَةِ﴾ قال: لا تمتنع من شيء أحباه.
+
+⁕ حدثني يعقوب، قال: ثنا ابن عُليَة، عن عبد الله بن المختار، عن هشام بن عروة، عن أبيه، في قوله ﴿وَاخْفِضْ لَهُمَا جَنَاحَ الذُّلِّ مِنَ الرَّحْمَةِ﴾ قال: هو أن لا تمتنع من شيء يريدانه.
+
+⁕ حدثنا أبو كريب، قال: ثنا المقرئ أبو عبد الرحمن، عن حرملة بن عمران، عن أبي الهداج، قال: قلت لسعيد بن المسيب: ما قوله ﴿وَاخْفِضْ لَهُمَا جَنَاحَ الذُّلِّ مِنَ الرَّحْمَةِ﴾ قال: ألم تر إلى قول العبد المذنب للسيد الفظّ الغليظ. والذُّلّ بضم الذال والذّلَّة مصدران من الذليل، وذلك أن يتذلل، وليس بذليل في الخلقة من قول القائل: قد ذَلَلت لك أذلّ ذلة وذلا وذلك نظير القلّ والقلة، إذا أسقطت الهاء ضمت الذال من الذُّلّ، والقاف من القُلّ، وإذا أثبتت الهاء كُسِرت الذال من الذِّلة، والقاف من القِلَّة، لما قال الأعشى:
+
+وَمَا كُنْتُ قُلا قبلَ ذلكَ أزْيَبَا [[هذا عجز بيت للأعشى ميمون بن قيس (ديوان طبع القاهرة، بشرح الدكتور محمد حسين ص ١١٥) من قصيدة يهجو بها عمرو بن المنذر بن عبدان، ويعاتب بني سعد بن قيس: وصدره: "فأرضوه أن أعطوه مني ظلامة". وقال في (لسان العرب: زيب) الأزيب: الدعي؛ قال الأعشى يذكر رجلا من قيس عيلان، كان جارا لعمرو بن المنذر، وكان اتهم هداجا قائد الأعشى بأنه سرق راحلة له، لأنه وجد بعض لحمها في بيته، فأخذ هداج وضرب والأعشى جالس؛ فقام ناس منهم فأخذوا من الأعشى قيمة الراحلة، فقال الأعشى: دَعا رَهْطَهُ حَوْلِي فَجَاءُوا لِنَصْرِهِ ... وَنَادَيْتُ حَيًّ بالمُسَانَّاهِ غُيَّبًا
+
+فَأَعْطَوْهُ مِنِّيَ النِّصْفَ أَوْ ضَعْفُوا لَهُ ... وَما كُنْتُ قُلاّ قَبْلَ ذَلِكَ أَزْيَبَا
+
+أي كنت غريبا في ذلك الموضع، لا ناصر لي. والنصف: النصفة. يقول: أرضوه وأعطوه النصف أو فوقه. والقل من الرجال الخسيس، ومنه قول الأعشى. أهـ.]]
+
+يريد: القلة، وأما الذِّل بكسر الذال وإسقاط الهاء فإنه مصدر من الذَّلول من قولهم: دابة ذَلول: بينة الذلّ، وذلك إذا كانت لينة غير صعبة.
+
+ومنه قول الله جلّ ثناؤه ﴿هُوَ الَّذِي جَعَلَ لَكُمُ الأرْضَ ذَلُولا﴾ يُجمع ذلك ذُلُلا كما قال جلّ ثناؤه ﴿فَاسْلُكِي سُبُلَ رَبِّكِ ذُلُلا﴾ . وكان مجاهد يتأوّل ذلك أنه لا يتوعَّر عليها مكان سلكته.
+
+واختلفت القرّاء في قراءة ذلك، فقرأته عامَّة قرّاء الحجاز والعراق والشام ﴿وَاخْفِضْ لَهُمَا جَنَاحَ الذُّلِّ﴾ بضمّ الذال على أنه مصدر من الذليل. وقرأ ذلك سعيد بن جبير وعاصم الجَحْدَرِيّ: ﴿جَناحَ الذِّلّ﴾ بكسر الذال.
+
+⁕ حدثنا ابن حميد، قال: ثنا بهز بن أسد، قال: ثنا أبو عَوانة، عن أبي بشر، عن سعيد بن جبير أنه قرأ ﴿وَاخْفِضْ لَهُما جَناحَ الذِّلِّ مِنَ الرَّحْمَةِ﴾ قال: كن لهما ذليلا ولا تكن لهما ذلولا.
+
+⁕ حدثنا نصر بن عليّ، قال: أخبرني عمر بن شقيق، قال: سمعت عاصما الجحدري يقرأ ﴿وَاخْفِضْ لَهُما جَناحَ الذِّلِّ مِنَ الرَّحْمَةِ﴾ قال: كن لهما ذليلا ولا تكن لهما ذَلولا.
+
+⁕ حدثنا ابن بشار، قال: ثنا عمر بن شقيق، عن عاصم، مثله.
+
+قال أبو جعفر: وعلى هذا التأويل الذي تأوّله عاصم كان ينبغي أن تكون قراءته بضم الذال لا بكسرها وبكسرها.
+
+⁕ حدثنا نصر وابن بشار؛ وحُدثت عن الفراء، قال: ثني هشيم، عن أبي بشر جعفر بن إياس. عن سعيد بن جبير، أنه قرأ ﴿وَاخْفِضْ لَهُما جَناحَ الذِّلِّ﴾ قال الفرّاء: وأخبرني الحكم بن ظهير، عن عاصم بن أبى النَّجود، أنه قرأها الذِّلّ أيضا، فسألت أبا بكر فقال: الذِّل قرأها عاصم.
+
+وأما قوله ﴿وَقُلْ رَبِّي ارْحَمْهُمَا كَمَا رَبَّيَانِي صَغِيرًا﴾ فإنه يقول: ادع الله لوالديك بالرحمة، وقل ربّ ارحمهما، وتعطف عليهما بمغفرتك ورحمتك، كما تعطفا عليّ في صغري، فرحماني وربياني صغيرا، حتى استقللت بنفسي، واستغنيت عنهما.
+
+كما:-
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة ﴿وَاخْفِضْ لَهُمَا جَنَاحَ الذُّلِّ مِنَ الرَّحْمَةِ وَقُلْ رَبِّي ارْحَمْهُمَا كَمَا رَبَّيَانِي صَغِيرًا﴾ هكذا عُلِّمتم، وبهذا أمرتم، خذوا تعليم الله وأدبه، ذُكر لنا "أن نبيّ الله ﷺ خرج ذات يوم وهو مادّ يديه رافع صوته يقول: مَنْ أَدْرَكَ وَالِدَيهِ أوْ أحَدَهُما ثُمَّ دَخَلَ النَّارَ بَعْدَ ذلكَ فأبْعَدَهُ الله وأسْحَقَهُ". ولكن كانوا يرون أنه من بَرّ والديه، وكان فيه أدنى تُقى، فإن ذلك مُبْلِغه جسيم الخير، وقال جماعة من أهل العلم: إن قول الله جلّ ثناؤه ﴿وَقُلْ رَبِّي ارْحَمْهُمَا كَمَا رَبَّيَانِي صَغِيرًا﴾ منسوخ بقوله ﴿مَا كَانَ لِلنَّبِيِّ وَالَّذِينَ آمَنُوا أَنْ يَسْتَغْفِرُوا لِلْمُشْرِكِينَ وَلَوْ كَانُوا أُولِي قُرْبَى مِنْ بَعْدِ مَا تَبَيَّنَ لَهُمْ أَنَّهُمْ أَصْحَابُ الْجَحِيمِ﴾ .
+
+ذكر من قال ذلك:
+
+⁕ حدثني عليّ بن داود، قال: ثنا أبو صالح، قال: ثني معاوية، عن عليّ، عن ابن عباس، قوله ﴿وَقُلْ رَبِّي ارْحَمْهُمَا كَمَا رَبَّيَانِي صَغِيرًا﴾ ثم أنزل الله عزّ وجلّ بعد هذا ﴿مَا كَانَ لِلنَّبِيِّ وَالَّذِينَ آمَنُوا أَنْ يَسْتَغْفِرُوا لِلْمُشْرِكِينَ وَلَوْ كَانُوا أُولِي قُرْبَى﴾ .
+
+⁕ حدثنا ابن حميد، قال: ثنا يحيى بن واضح، قال: ثنا الحسين، عن يزيد، عن عكرمة، قال في سورة بني إسرائيل ﴿إمَّا يَبْلُغانّ عِنْدَكَ الكِبَرَ أحَدهُمُا أو كِلاهُما﴾ .... إلى قوله ﴿وَقُلْ رَبِّي ارْحَمْهُمَا كَمَا رَبَّيَانِي صَغِيرًا﴾ فنسختها الآية التي في براءة ﴿مَا كَانَ لِلنَّبِيِّ وَالَّذِينَ آمَنُوا أَنْ يَسْتَغْفِرُوا لِلْمُشْرِكِينَ وَلَوْ كَانُوا أُولِي قُرْبَى﴾ ... الآية.
+
+⁕ حدثنا القاسم، قال: ثنا الحسين، قال: ثني حجاج، قال: قال ابن جريج، قال ابن عباس ﴿وَقُلْ رَبِّي ارْحَمْهُمَا﴾ .... الآية، قال: نسختها الآية التي في براءة ﴿مَا كَانَ لِلنَّبِيِّ وَالَّذِينَ آمَنُوا أَنْ يَسْتَغْفِرُوا لِلْمُشْرِكِينَ﴾ . .. الآية.
+
+وقد تحتمل هذه الآية أن تكون وإن كان ظاهرها عامًّا في كلّ الآباء بغير معنى النسخ، بأن يكون تأويلها على الخصوص، فيكون معنى الكلام: وقل ربّ ارحمهما إذا كانا مؤمنين، كما رَبياني صغيرا، فتكون مرادا بها الخصوص على ما قلنا غير منسوخ منها شيء. وعَنَى بقوله ربياني: نَميَّاني.
 
 ### al-Muyassar (Arabic)
 
-وكُنْ لأمك وأبيك ذليلا متواضعًا رحمة بهما، واطلب من ربك أن يرحمهما برحمته الواسعة أحياءً وأمواتًا، كما صبرا على تربيتك طفلا ضعيف الحول والقوة.
+وكُنْ لأمك وأبيك ذليلًا متواضعًا رحمة بهما، واطلب من ربك أن يرحمهما برحمته الواسعة أحياءً وأمواتًا، كما صبرا على تربيتك طفلًا ضعيف الحول والقوة.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿واخْفِضْ لَهُما جَناح الذُّلّ﴾ ألِنْ لَهُما جانِبك الذَّلِيل ﴿مِن الرَّحْمَة﴾ أيْ لِرِقَّتِك عَلَيْهِما ﴿كَما﴾ كَما رَحِمانِي حِين ﴿رَبَّيانِي صَغِيرًا﴾
 
 ---
 
@@ -85,23 +406,148 @@ Allah commands us to worship Him alone, with no partner or associate. The word Q
 
 ### Ibn Kathir (English)
 
+Your Lord knows best what is in your souls. If you are righteous, then, verily, He is Ever Most Forgiving to those who turn to Him in repentance (25)
+
 Omissions comitted against Parents are pardoned with Good Relations and Repentance
-Sa`id bin Jubayr said: "This refers to a man who said something that he did not think would be offensive to his parents." According to another report: "He did not mean anything bad by that." So Allah said:
-رَّبُّكُمْ أَعْلَمُ بِمَا فِى نُفُوسِكُمْ إِن تَكُونُواْ صَـلِحِينَ
+
+Sa'id bin Jubayr said: "This refers to a man who said something that he did not think would be offensive to his parents." According to another report: "He did not mean anything bad by that." So Allah said:
+
+رَّبُّكُمْ أَعْلَمُ بِمَا فِي نُفُوسِكُمْ ۚ إِن تَكُونُوا صَالِحِينَ
+
 (Your Lord knows best what is in your souls. If you are righteous,)
-فَإِنَّهُ كَانَ لِلاٌّوَّابِينَ غَفُوراً
-(He is Ever Most Forgiving to t...
+
+فَإِنَّهُ كَانَ لِلْأَوَّابِينَ غَفُورًا
+
+(He is Ever Most Forgiving to those who turn to Him in repentance.) Qatadah said: "To the obedient who pray."
+
+فَإِنَّهُ كَانَ لِلْأَوَّابِينَ غَفُورًا
+
+(He is Ever Most Forgiving to those who turn to Him in repentance.)
+
+Shu'bah narrated from Yahya bin Sa'id from Sa'id bin Al-Musayyib; "This refers to those who commit sin then repent, and commit sin then repent."
+
+Ata' bin Yasar, Sa'id bin Jubayr and Mujahid said: "They are the ones who return to goodness." Mujahid narrated from 'Ubayd bin 'Umayr, concerning this Ayah: "This is the one who, when he remembers his sin when he is alone, he seeks the forgiveness of Allah." Mujahid agreed with him on that.
+
+Ibn Jarir said: "The best view on this matter is of those who said that it refers to the one who repents after committing sin, who comes back from disobedience to obedience and who leaves that which Allah hates for that which He loves and is pleased with." What he said is correct, for Allah says,
+
+إِنَّ إِلَيْنَا إِيَابَهُمْ
+
+(Verily, to Us will be their return)(88:25). And according to a Sahih Hadith, the Messenger of Allah would say when he ﷺ returned from a journey,
+
+آيِبُونَ تَائِبُونَ، عَابِدُونَ لِرَبِّنَا حَامِدُونَ
+
+(We have returned repenting, worshipping and praising our Lord.)
 
 ### al-Tabari (Arabic)
 
-يقول تعالى ذكره (رَبُّكُمْ) أيها الناس (أعْلَمُ) منكم (بِمَا فِي نُفُوسِكُمْ) من تعظيمكم أمر آبائكم وأمهاتكم وتكرمتهم، والبرّ بهم، وما فيها من اعتقاد الاستخفاف بحقوقهم، والعقوق لهم، وغير ذلك من ضمائر صدوركم، لا يخفى عليه شيء من ذلك، وهو مجازيكم على حَسَن ذلك وسيِّئه، فاحذروا أن تُضمروا لهم سوءا، وتعقِدوا لهم عقوقا. وقوله (إِنْ تَكُونُوا صَالِحِينَ) يقول: إن أنتم أصلحتم نياتكم فيهم، وأطعتم الله فيما أمركم به من البرّ بهم، والقيام بحقوقهم عليكم، بعد هفوة كانت منكم، أو زلة في واجب لهم عليكم مع ا...
+القول في تأويل قوله تعالى: ﴿رَبُّكُمْ أَعْلَمُ بِمَا فِي نُفُوسِكُمْ إِنْ تَكُونُوا صَالِحِينَ فَإِنَّهُ كَانَ لِلأوَّابِينَ غَفُورًا (٢٥) ﴾
+
+يقول تعالى ذكره ﴿رَبُّكُمْ﴾ أيها الناس ﴿أعْلَمُ﴾ منكم ﴿بِمَا فِي نُفُوسِكُمْ﴾ من تعظيمكم أمر آبائكم وأمهاتكم وتكرمتهم، والبرّ بهم، وما فيها من اعتقاد الاستخفاف بحقوقهم، والعقوق لهم، وغير ذلك من ضمائر صدوركم، لا يخفى عليه شيء من ذلك، وهو مجازيكم على حَسَن ذلك وسيِّئه، فاحذروا أن تُضمروا لهم سوءا، وتعقِدوا لهم عقوقا.
+
+* *
+
+وقوله ﴿إِنْ تَكُونُوا صَالِحِينَ﴾
+
+يقول: إن أنتم أصلحتم نياتكم فيهم، وأطعتم الله فيما أمركم به من البرّ بهم، والقيام بحقوقهم عليكم، بعد هفوة كانت منكم، أو زلة في واجب لهم عليكم مع القيام بما ألزمكم في غير ذلك من فرائضه، فإنه كان للأوّابين بعد الزَّلة، والتائبين بعد الهَفْوة غفورا لهم.
+
+وبنحو الذي قلنا في تأويل ذلك، قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا أبو كريب، قال: ثنا ابن إدريس، قال: سمعت أبي وعمي عن حبيب بن أبي ثابت، عن سعيد بن جبير ﴿رَبُّكُمْ أَعْلَمُ بِمَا فِي نُفُوسِكُمْ﴾ قال: البادرة تكون من الرجل إلى أبويه لا يريد بذلك إلا الخير، فقال ﴿رَبُّكُمْ أَعْلَمُ بِمَا فِي نُفُوسِكُمْ﴾ .
+
+⁕ حدثنا أبو السائب، قال: ثنا ابن إدريس، قال: أخبرني أبي، عن حبيب بن أبي ثابت، عن سعيد بن جبير، بمثله.
+
+⁕ حدثنا ابن حميد، قال: ثنا الحكم بن بشير، قال: ثنا عمرو، عن حبيب بن أبي ثابت، في قوله ﴿فَإِنَّهُ كَانَ لِلأوَّابِينَ غَفُورًا﴾ قال: هو الرجل تكون منه البادرة إلى أبويه وفي نيته وقلبه أنه لا يؤاخَذ به.
+
+واختلف أهل التأويل، في تأويل قوله ﴿فَإِنَّهُ كَانَ لِلأوَّابِينَ غَفُورًا﴾
+
+فقال بعضهم: هم المسبِّحون.
+
+ذكر من قال ذلك:
+
+⁕ حدثني سليمان بن عبد الجبار، قال: ثنا محمد بن الصلت، قال: ثنا أبو كدينة؛ وحدثني ابن سنان القزاز، قال: ثنا الحسين بن الحسن الأشقر، قال: ثنا أبو كدينة، عن عطاء، عن سعيد بن جبير، عن ابن عباس ﴿فَإِنَّهُ كَانَ لِلأوَّابِينَ غَفُورًا﴾ قال: المسبحين.
+
+⁕ حدثني الحارث، قال: ثنا الحسن، قال: ثنا أبو خيثمة زهير، قال: ثنا أبو إسحاق، عن أبي ميسرة، عن عمرو بن شرحبيل، قال: الأوّاب: المسبح.
+
+وقال آخرون: هم المطيعون المحسنون.
+
+ذكر من قال ذلك:
+
+⁕ حدثني عليّ بن داود، قال: ثنا أبو صالح، قال: ثني معاوية، عن عليّ، عن ابن عباس، قوله ﴿فَإِنَّهُ كَانَ لِلأوَّابِينَ غَفُورًا﴾ يقول: للمطيعين المحسنين.
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله ﴿فَإِنَّهُ كَانَ لِلأوَّابِينَ غَفُورًا﴾ قال: هم المطيعون، وأهل الصلاة.
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا محمد بن ثور، عن معمر، عن قتادة ﴿فَإِنَّهُ كَانَ لِلأوَّابِينَ غَفُورًا﴾ قال: للمطيعين المصلين.
+
+وقال آخرون: بل هم الذين يصلون بين المغرب والعشاء.
+
+ذكر من قال ذلك:
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، عن أبي صخر حميد بن زياد، عن ابن المنكدر يرفعه ﴿فَإِنَّهُ كَانَ لِلأوَّابِينَ غَفُورًا﴾ قال: الصلاة بين المغرب والعشاء.
+
+وقال آخرون: هم الذين يصلُّون الضُّحَى.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا عمرو بن عليّ، قال: ثنا رباح أبو سليمان الرقاء، قال: سمعت عونا العُقيليّ يقول في هذه الآية ﴿فَإِنَّهُ كَانَ لِلأوَّابِينَ غَفُورًا﴾ قال: الذين يصلون صلاة الضحى.
+
+وقال آخرون: بل هو الراجع من ذنبه، التائب منه.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا أحمد بن الوليد القرشيّ، قال: ثنا محمد بن جعفر، قال: ثنا شعبة، عن يحيى بن سعيد، عن سعيد بن المسيب أنه قال في هذه الآية ﴿فَإِنَّهُ كَانَ لِلأوَّابِينَ غَفُورًا﴾ قال: الذي يصيب الذنب ثم يتوب ثم يصيب الذنب ثم يتوب.
+
+⁕ حدثنا ابن المثنى، قال: ثنا سليمان بن داود، عن شعبة، عن يحيى بن سعيد، عن سعيد بن المسيب، قال: هو الذي يذنب ثم يتوب، ثم يذنب ثم يتوب في هذا الآية ﴿فَإِنَّهُ كَانَ لِلأوَّابِينَ غَفُورًا﴾ .
+
+⁕ حدثنا مجاهد بن موسى، قال: ثنا يزيد، قال: أخبرنا يحيى بن سعيد، أنه سمع سعيد بن المسيب يُسْأَل عن هذه الآية ﴿فَإِنَّهُ كَانَ لِلأوَّابِينَ غَفُورًا﴾ قال: هو الذي يذنب ثم يتوب، ثم يذنب ثم يتوب.
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: ثني جرير بن حازم، عن يحيى بن سعيد، عن سعيد بن المسيب، بنحوه.
+
+⁕ حدثنا محمد بن عبد الأعلى، قال: ثنا محمد بن ثور، عن معمر، عن سعيد بن المسيب، بنحوه.
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: ثني مالك، عن يحيى بن سعيد، عن سعيد بن المسيب ﴿فَإِنَّهُ كَانَ لِلأوَّابِينَ غَفُورًا﴾ قال: هو العبد يذنب ثم يتوب، ثم يذنب ثم يتوب.
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: أخبرني الليث بن سعد، عن يحيى بن سعيد، قال: سمعت سعيد بن المسيب يقول: فذكر مثله.
+
+⁕ حدثنا الحسن بن يحيى، قال: أخبرنا عبد الرزّاق، قال: أخبرنا الثَّوريّ ومعمر، عن يحيى بن سعيد، عن ابن المسيب، قال: الأوّاب: الذي يذنب ثم يتوب، ثم يذنب ثم يتوب، ثم يذنب ثم يتوب.
+
+⁕ حدثنا ابن بشار، قال: ثنا محمد بن جعفر، قال: ثنا شعبة، عن أبي بشر، عن سعيد بن جبير في هذه الآية ﴿فَإِنَّهُ كَانَ لِلأوَّابِينَ غَفُورًا﴾ قال: الراجعين إلى الخير.
+
+⁕ حدثنا ابن المثنى، قال: ثنا عبد الصمد وأبو داود وهشام، عن شعبة، عن أبي بشر، عن سعيد بن جبير، بنحوه.
+
+⁕ حدثنا ابن بشار، قال: ثنا عبد الرحمن، قال: ثنا سفيان؛ وحدثنا ابن حميد، قال: ثنا حكام، عن عمرو، جميعا عن منصور، عن مجاهد عن عبيد بن عمير ﴿فَإِنَّهُ كَانَ لِلأوَّابِينَ غَفُورًا﴾ قال: الذي يذكر ذنوبه في الخلاء، فيستغفر الله منها.
+
+⁕ حدثنا الحسن بن يحيى، قال: أخبرنا عبد الرزاق، قال: أخبرنا الثوريّ، عن منصور، عن مجاهد، قال: الأوّاب: الذي يذكر ذنوبه في الخلاء فيستغفر الله منها.
+
+⁕ حدثنا محمد بن المثنى، قال: ثنا محمد بن جعفر، قال: ثنا شعبة، عن منصور، عن مجاهد، عن عبيد بن عمير، أنه قال في هذه الآية ﴿فَإِنَّهُ كَانَ لِلأوَّابِينَ غَفُورًا﴾ قال: الذي يذكر ذنبه ثم يتوب.
+
+⁕ حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قالا ثنا عيسى، وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء، جميعا، عن ابن أبي نجيح، عن مجاهد، في قوله جلّ ثناؤه ﴿للأوَّابِين غَفُورًا﴾ قال: الأوّابون: الراجعون التائبون.
+
+⁕ حدثنا القاسم، قال: ثنا الحسين، قال: ثني حجاج، عن ابن جريج، عن مجاهد، مثله.
+
+قال ابن جريج، عن يحيى بن سعيد، عن سعيد بن المسيب: الرجل يذنب ثم يتوب ثلاثا.
+
+⁕ حدثنا ابن حميد، قال: ثنا جرير، عن منصور، عن مجاهد، عن عبيد بن عمير، قوله ﴿فَإِنَّهُ كَانَ لِلأوَّابِينَ غَفُورًا﴾ قال: الذي يتذكر ذنوبه، فيستغفر الله لها.
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: أخبرني ابن شريح، عن عقبة بن مسلم، عن عطاء بن يسار، أنه قال في قوله ﴿فَإِنَّهُ كَانَ لِلأوَّابِينَ غَفُورًا﴾ يذنب العبد ثم يتوب، فيتوب الله عليه؛ ثم يذنب فيتوب، فيتوب الله عليه؛ ثم يذنب الثالثة، فإن تاب، تاب الله عليه توبة لا تُمْحَى.
+
+وقد رُوي عن عبيد بن عمير، غير القول الذي ذكرنا عن مجاهد، وهو ما:-
+
+⁕ حدثنا الحسن بن يحيى، قال: أخبرنا عبد الرزاق، قال: أخبرنا محمد بن مسلم، عن عمرو بن دينار، عن عبيد بن عمير، في قوله ﴿فَإِنَّهُ كَانَ لِلأوَّابِينَ غَفُورًا﴾ قال: كنا نَعُدّ الأوّاب: الحفيظ، أن يقول: اللهمّ اغفر لي ما أصبت في مجلسي هذا.
+
+وأولى الأقوال في ذلك بالصواب، قول من قال: الأوّاب: هو التائب ما الذنب، الراجع من معصية الله إلى طاعته، ومما يكرهه إلى ما يرضاه، لأن الأوّاب إنما هو فعَّال، من قول القائل: آب فلان من كذا إما من سفره إلى منزله، أو من حال إلى حال، كما قال عَبيد بن الأبرص:
+
+وكُلُّ ذِي غَيْبَةٍ يَئُوبُ ... وغائِبُ المَوْتِ لا يَئُوبُ [[البيت لعبيد بن الأبرص الشاعر الجاهلي (ديوانه ص ٧ طبعة ليدن سنة ١٩١٣) من قصيدته التي مطلعها: "أقفر من أهله ملحوب". يقول: كل غائب تنتظر أوبته، إلا من مات فلا أوبة له إلى الدنيا. والبيت شاهد على أن الأواب الرجاع، الذي يرجع إلى التوبة والطاعة، من آب يئوب إذا رجع (انظر اللسان: أوب) . وفيه أيضا: قال أبو بكر في قولهم: رجل أواب، سبعة أقوال: الراحم، والتائب، والمسبح، والذي يرجع إلى التوبة ثم يذنب ثم يتوب، والمطيع، والذي يذكر ذنبه في الخلاء، فيستغفر الله منه. أهـ. وكل هذه المعاني راجعة إلى المعنى اللغوي، وهو الرجوع عن الشيء إلى غيره.]]
+
+فهو يئوب أوبا، وهو رجل آئب من سفره، وأوّاب من ذنوبه.
 
 ### al-Muyassar (Arabic)
 
-ربكم -أيها الناس- أعلم بما في ضمائركم من خير وشر. إن تكن إرادتكم ومقاصدكم مرضاة الله وما يقربكم إليه، فإنه كان -سبحانه- للراجعين إليه في جميع الأوقات غفورًا، فمَن عَلِمَ الله أنه ليس في قلبه إلا الإنابة إليه ومحبته، فإنه يعفو عنه، ويغفر له ما يعرض من صغائر الذنوب، مما هو من مقتضى الطبائع البشرية.
+ربكم -أيها الناس- أعلم بما في ضمائركم مِن خير وشر. إن تكن إرادتكم ومقاصدكم مرضاة الله وما يقربكم إليه، فإنه كان -سبحانه- للراجعين إليه في جميع الأوقات غفورًا، فمَن عَلِمَ الله أنه ليس في قلبه إلا الإنابة إليه ومحبته، فإنه يعفو عنه، ويغفر له ما يعرض من صغائر الذنوب؛ مما هو من مقتضى الطبائع البشرية.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿رَبّكُمْ أعْلَم بِما فِي نُفُوسكُمْ﴾ مِن إضْمار البِرّ والعُقُوق ﴿إنْ تَكُونُوا صالِحِينَ﴾ طائِعِينَ لِلَّهِ ﴿لِلْأَوّابِينَ﴾ الرَّجّاعِينَ إلى طاعَته ﴿غَفُورًا﴾ لِما صَدَرَ مِنهُمْ فِي حَقّ الوالِدَيْنِ مِن بادِرَة وهُمْ لا يُضْمِرُونَ عُقُوقًا
 
 ---

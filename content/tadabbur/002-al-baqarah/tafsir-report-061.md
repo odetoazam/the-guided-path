@@ -1,6 +1,6 @@
 # Tafsir Cross-Reference Report
 
-Generated: 2026-03-23
+Generated: 2026-07-30
 Ayahs referenced: 6
 Tafsir sources: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), al-Jalalayn (Arabic)
 
@@ -10,23 +10,151 @@ Tafsir sources: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), 
 
 ### Ibn Kathir (English)
 
+And We said: "O Adam! Dwell you and your wife in the Paradise and eat both of you freely with pleasure and delight, of things therein wherever you will, but come not near this tree or you both will be of the Zalimin (wrongdoers). (35)Then the Shaytan made them slip therefrom (the Paradise), and got them out from that in which they were. We said: "Get you down, all, with enmity between yourselves. On earth will be a dwelling place for you and an enjoyment for a time. (36)
+
 Adam was honored again
-Allah honored Adam by commanding the angels to prostrate before him, so they all complied except for Iblis. Allah then allowed Adam to live and eat wherever and whatever he wished in Paradise. Al-Hafiz Abu Bakr bin Marduwyah reported Abu Dharr saying, "I said, `O Messenger of Allah ﷺ ! Was Adam a Prophet' He said,
-«نَعَمْ نَبِيًّا رَسُولًا كَلَّمَهُ اللَّهُ قُبُلًا»
+
+Allah honored Adam by commanding the angels to prostrate before him, so they all complied except for Iblis. Allah then allowed Adam to live and eat wherever and whatever he wished in Paradise. Al-Hafiz Abu Bakr bin Marduwyah reported Abu Dharr saying, "I said, 'O Messenger of Allah! Was Adam a Prophet?' He said,
+
+نَعَمْ نَبِيًّا رَسُولًا كَلَّمَهُ اللَّهُ قُبُلًا
+
 (Yes. He was a Prophet and a Messenger to whom Allah spoke directly), meaning
-اسْكُنْ أَنتَ وَزَوْجُكَ ال...
+
+اسْكُنْ أَنتَ وَزَوْجُكَ الْجَنَّةَ
+
+((O Adam!) Dwell you and your wife in the Paradise.)"
+
+Hawwa' was created before Adam entered Paradise
+
+The Ayah (2:35) indicates that Hawwa' was created before Adam entered Paradise, as Muhammad bin Ishaq stated. Ibn Ishaq said, "After Allah finished criticizing Iblis, and after teaching Adam the names of everything, He said,
+
+يَـاءَادَمُ أَنبِئْهُم بِأَسْمَآئِهِمْ
+
+(O Adam! Inform them of their names) until,
+
+إِنَّكَ أَنتَ الْعَلِيمُ الْحَكِيمُ
+
+(Verily, You are the Knower, the Wise.)
+
+Then Adam fell asleep, as the People of the Book and other scholars such as Ibn 'Abbas have stated, Allah took one of Adam's left ribs and made flesh grow in its place, while Adam was asleep and unaware. Allah then created Adam's wife, Hawwa', from his rib and made her a woman, so that she could be a comfort for him. When Adam woke up and saw Hawwa' next to him, it was claimed, he said, 'My flesh and blood, my wife.' Hence, Adam reclined with Hawwa'. When Allah married Adam to Hawwa' and gave him comfort, Allah said to him directly,
+
+يَا آدَمُ اسْكُنْ أَنتَ وَزَوْجُكَ الْجَنَّةَ وَكُلَا مِنْهَا رَغَدًا حَيْثُ شِئْتُمَا وَلَا تَقْرَبَا هَٰذِهِ الشَّجَرَةَ فَتَكُونَا مِنَ الظَّالِمِينَ
+
+("O Adam! Dwell you and your wife in the Paradise and eat both of you freely with pleasure and delight, of things therein wherever you will, but come not near this tree or you both will be of the Zalimin (wrongdoers).")."
+
+Allah tests Adam
+
+Allah's statement to Adam,
+
+وَلَا تَقْرَبَا هَٰذِهِ الشَّجَرَةَ
+
+(but come not near this tree) is a test for Adam. There are conflicting opinions over the nature of the tree mentioned here. Some said that it was the grape tree, barley, date tree, fig tree, and so forth. Some said that it was a certain tree, and whoever eats from it will be relieved of the call of nature. It was also said that it was a tree from which the angels eat so that they live for eternity. Imam Abu Ja'far bin Jarir said, "The correct opinion is that Allah forbade Adam and his wife from eating from a certain tree in Paradise, but they ate from it. We do not know which tree that was, because Allah has not mentioned anything in the Qur'an or the authentic Sunnah about the nature of this tree. It was said that it was barley, grape, or a fig tree. It is possible that it was one of those trees. Yet, this is knowledge that does not bring any benefit, just as being ignorant in its nature does no harm. Allah knows best." This is similar to what Ar-Razi stated in his Tafsir, and this is the correct opinion. Allah's statement,
+
+فَأَزَلَّهُمَا الشَّيْطَانُ عَنْهَا
+
+(Then the Shaytan made them slip therefrom) either refers to Paradise, and in this case, it means that Shaytan led Adam and Hawwa' away from it, as 'Asim bin Abi An-Najud recited it. It is also possible that this Ayah refers to the forbidden tree. In this case, the Ayah would mean, as Al-Hasan and Qatadah stated, "He tripped them." In this case,
+
+فَأَزَلَّهُمَا الشَّيْطَانُ عَنْهَا
+
+(Then the Shaytan made them slip therefrom)
+
+means, "Because of the tree", just as Allah said,
+
+يُؤْفَكُ عَنْهُ مَنْ أُفِكَ
+
+(Turned aside therefrom (i.e. from Muhammad and the Qur'an) is he who is turned aside (by the decree and preordainment of Allah))(51:9) meaning, the deviant person becomes turned aside - or slips - from the truth because of so and so reason. This is why then Allah said,
+
+فَأَخْرَجَهُمَا مِمَّا كَانَا فِيهِ
+
+(And got them out from that in which they were) meaning, the clothes, spacious dwelling and comfortable sustenance.
+
+وَقُلْنَا اهْبِطُوا بَعْضُكُمْ لِبَعْضٍ عَدُوٌّ وَلَكُمْ فِي الْأَرْضِ مُسْتَقَرٌّ وَمَتَاعٌ إِلَىٰ حِينٍ
+
+(We said: "Get you down, all, with enmity between yourselves. On earth will be a dwelling place for you and an enjoyment for a time.") meaning, dwelling, sustenance and limited life, until the commencement of the Day of Resurrection.
+
+Adam was very Tall
+
+Ibn Abi Hatim narrated that Ubayy bin Ka'b said that the Messenger of Allah ﷺ said,
+
+إِنَّ اللهَ خَلَقَ آدَمَ رَجُلًا طُوَالًا كَثِيرَ شَعْرِ الرَّأْسِ كَأَنَّهُ نَخْلَةٌ سَحُوقٌ، فَلَمَّا ذَاقَ الشَّجَرَةَ سَقَطَ عَنْهُ لِبَاسُهُ فَأَوَّلُ مَا بَدَا مِنْهُ عَوْرَتُهُ، فَلَمَّا نَظَرَ إلى عَوْرتِه جَعَلَ يَشْتَدُّ فِي الْجَنَّةِ فَأَخَذَتْ شَعْرَهُ شَجَرَةٌ فَنَازَعَهَا، فَنَادَاهُ الرَّحْمٰنُ: يَا آدَمُ مِنِّي تَفِرُّ؟ فَلَمَّا سَمِعَ كَلامَ الرَّحْمٰنِ قَالَ: يَا رَبِّ لَا ولَكِنِ اسْتِحْيَاءً
+
+(Allah created Adam tall, with thick hair, just as a date tree with full branches. When Adam ate from the forbidden tree, his cover fell off, and the first thing that appeared was his private area. When he saw his private area, he ran away in Paradise and his hair got caught in a tree. He tried to free himself and Ar-Rahman called him, 'O Adam! Are you running away from Me?' When Adam heard the words of Ar-Rahman (Allah), he said, 'No, O my Lord! But I am shy.')
+
+Adam remained in Paradise for an Hour
+
+Al-Hakim recorded that Ibn 'Abbas said, "Adam was allowed to reside in Paradise during the time period between the 'Asr (Afternoon) prayer, until sunset." Al-Hakim then commented this is "Sahih according to the Two Shaykhs (Al-Bukhari and Muslim), but they did not include it in their collections." Also, Ibn Abi Hatim recorded Ibn 'Abbas saying, "Allah sent Adam to earth to an area called, Dahna, between Makkah and At-Ta'if." Al-Hasan Al-Basri said that Adam was sent down to India, while Hawwa' was sent to Jeddah. Iblis was sent down to Dustumaysan, several miles from Basra. Further, the snake was sent down to Asbahan. This was reported by Ibn Abi Hatim. Also, Muslim and An-Nasa'i recorded that Abu Hurayrah said that the Messenger of Allah ﷺ said,
+
+خَيْرُ يَوْمٍ طَلَعَتْ فِيهِ الشَّمْسُ يَوْمُ الْجُمُعَةِ فِيهِ خُلِقَ آدَمُ وَفِيهِ أُدْخِلَ الْجَنَّةَ وَفِيهِ أُخْرِجَ مِنْهَا
+
+(Friday is the best day on which the sun has risen. On Friday, Allah created Adam, admitted him into Paradise, and expelled him from it.)
+
+A Doubt and a Rebuttal
+
+If one asks, "If the Paradise that Adam was thrown out of was in heaven, as the majority of the scholars assert, then is it possible for Iblis to enter Paradise, although he was expelled from it by Allah's decision (when he refused to prostrate before Adam)?"
+
+Basically, the response to this would be that the Paradise which Adam was in, was in the heavens, not on the earth, as we explained in the beginning of our book Al-Bidayah wan-Nihayah.
+
+The majority of scholars said that Shaytan was originally prohibited from entering Paradise, but there were times when he sneaked into it in secret. For instance, the Tawrah stated that Iblis hid inside the snake's mouth and entered Paradise. Some scholars said that it is possible that Shaytan led Adam and Hawwa' astray on his way out of Paradise. Some scholars said that he led Adam and Hawwa' astray when he was on earth, while they were still in heaven, as stated by Az-Zamakhshari. Al-Qurtubi mentioned several beneficial Hadiths here about snakes and the ruling on killing them.
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله تعالى:  فَأَزَلَّهُمَا الشَّيْطَانُ عَنْهَاقال أبو جعفر: اختلفت القَرَأة (200) في قراءة ذلك. فقرأته عامتهم،" فأزلَّهما " بتشديد اللام، بمعنى: استزلَّهما، من قولك زلَّ الرجل في دينه: إذا هفا فيه وأخطأ، فأتى ما ليس له إتيانه فيه. وأزلَّه غيره: إذا سبب له ما يزلّ من أجله في دينه أو دنياه، ولذلك أضاف الله تعالى ذكره إلى إبليسَ خُروجَ آدم وزوجته من الجنة، فقال:  فَأَخْرَجَهُمَا  يعني إبليس  مِمَّا كَانَا فِيهِ ، لأنه كانَ الذي سَبَّب لهما الخطيئة التي عاقبهما الله عليها بإخراجه...
+القول في تأويل قوله تعالى: ﴿فَأَزَلَّهُمَا الشَّيْطَانُ عَنْهَا﴾
+
+قال أبو جعفر: اختلفت القَرَأة [[في المطبوعة: "اختلف القراء" والقَرَأَة جمع قارئ، وانظر ما مضى: ٥١، تعليق، وص: ٦٤، ١٠٩ وغيرهما.]] في قراءة ذلك. فقرأته عامتهم،"فأزلَّهما" بتشديد اللام، بمعنى: استزلَّهما، من قولك زلَّ الرجل في دينه: إذا هفا فيه وأخطأ، فأتى ما ليس له إتيانه فيه. وأزلَّه غيره: إذا سبب له ما يزلّ من أجله في دينه أو دنياه، ولذلك أضاف الله تعالى ذكره إلى إبليسَ خُروجَ آدم وزوجته من الجنة، فقال:"فأخرجهما" يعني إبليس"مما كانا فيه"، لأنه كانَ الذي سَبَّب لهما الخطيئة التي عاقبهما الله عليها بإخراجهما من الجنة.
+
+وقرأه آخرون:"فأزَالهما"، بمعنى إزَالة الشيء عن الشيء، وذلك تنحيته عنه.
+
+وقد روي عن ابن عباس في تأويل قوله:"فأزلهما"، ما:-
+
+٧٤١ - حدثنا القاسم، قال: حدثنا الحسين، قال: حدثني حجاج، عن ابن جُريج، قال: قال ابن عباس في تأويل قوله تعالى:"فأزلهما الشيطان" قال: أغواهما. [[الخبر: ٧٤١ - في الدر المنثور ١: ٥٣، والشوكاني ١: ٥٦.]]
+
+وأولى القراءتين بالصواب قراءة من قرأ:"فأزلَّهما"، لأن الله جل ثناؤه قد أخبر في الحرف الذي يتلوه. بأن إبليس أخرجهما مما كانا فيه. وذلك هو معنى قوله"فأزالهما"، فلا وجه - إذْ كان معنى الإزالة معنى التنحية والإخراج - أن يقال:"فأزالهما الشيطانُ عنها فأخرجهما مما كانا فيه" فيكون كقوله:"فأزالهما الشيطان عنها فأزالهما مما كانا فيه. ولكن المفهوم أن يقال: [[في المطبوعة: "لكن المعنى المفهوم"، زاد ما لا جدوى فيه.]] فاستزلهما إبليسُ عن طاعة الله - كما قال جل ثناؤه:"فأزلهما الشيطان"، وقرأت به القراء - فأخرجهما باستزلاله إياهما من الجنة.
+
+فإن قال لنا قائل: وكيف كان استزلال إبليسُ آدمَ وزوجته، حتى أضيف إليه إخراجهما من الجنة؟
+
+قيل: قد قالت العلماء في ذلك أقوالا سنذكر بعضها [[في المطبوعة: "سنذكر" بغير واو.]]
+
+فحكي عن وهب بن منبه في ذلك ما:-
+
+٧٤٢ - حدثنا به الحسن بن يحيى، قال: أخبرنا عبد الرَّزَّاق، قال: أخبرنا عمر بن عبد الرحمن بن مُهرِب [[في المطبوعة: "عمرو" بدل"عمر"، وفي المخطوطة وابن كثير: "مهران"، بدل"مهرب". وكلاهما خطأ، صوابه ما أثبتنا: "عمر بن عبد الرحمن بن مهرب"، فهذا الشيخ ترجمه ابن أبي حاتم في الجرح والتعديل ٣/١/١٢١، وقال: "سمع وهب بن منبه، روى عنه إبراهيم بن خالد الصنعاني، وعبد الرزاق". ثم روى عن يحيى بن معين، قال: "عمر بن عبد الرحمن بن مهرب: ثقة". ولم أجد له ترجمة أخرى. و"مهرب": لم أجد نصًّا بضبطها في هذا النسب، إلا قول صاحب القاموس أنهم سموا من مادة (هرب) بوزن"محسن" - يعني بضم أوله وسكون ثانيه وكسر ثالثه. ووقع اسم هذا الشيخ محرفًا إلى شيخين، في تاريخ الطبري ١: ٥٤ - في هذا الإسناد، هكذا: "معمر عن عبد الرحمن بن مهران"!]] قال: سمعت وهب بن منبه، يقول: لما أسكن الله آدمَ وذريته - أو زوجته - الشك من أبي جعفر: وهو في أصل كتابه"وذريته" - ونهاه عن الشجرة، وكانت شجرةً غصونها متشعِّبٌ بعضها في بعض، وكان لها ثمر تأكله الملائكة لخلدهم، وهي الثمرة التي نَهى الله آدمَ عنها وزوجته. فلما أراد إبليس أن يستزلَّهما دَخل في جوف الحية، وكانت للحية أربع قوائم كأنها بُخْتِيَّة، من أحسن دابة خلقها الله - فلما دخلت الحية الجنة، خرج من جوفها إبليس، فأخذ من الشجرة التي نهى الله عنها آدم وزوجته، فجاء بها إلى حواء [[في المطبوعة: "فجاء به"، والذي أثبتناه من المخطوطة وتاريخ الطبري.]] فقال: انظري إلى هذه الشجرة! ما أطيبَ ريحَها وأطيبَ طعمها وأحسن لونها! فأخذت حواءُ فأكلَتْ منها ثم ذهبت بها إلى آدم فقالت: انظرْ إلى هذه الشجرة! ما أطيبَ ريحها وأطيبَ طعمها وأحسنَ لونها! فأكل منها آدم، فبدت لهما سوآتُهما. فدخل آدم في جوف الشجرة، فناداه ربُّه يا آدم أين أنت؟ قال: أنا هنا يا رب [[في المطبوعة: "أنا هنا يا رب"، وأثبتناه ما في المخطوطة وتاريخ الطبري.]] ! قال: ألا تخرج؟ قال: أستحيي منك يا رب. قال: ملعونة الأرض التي خُلقتَ منها لعنةً يتحوَّل ثمرها شوكًا. قال: ولم يكن في الجنة ولا في الأرض شجرةٌ كان أفضل من الطَّلح والسِّدر، ثم قال: يا حواء، أنت التي غرَرْتِ عبدي، فإنك لا تَحملين حَملا إلا حملته كَرْهًا، فإذا أردتِ أن تضعي ما في بطنك أشرفتِ على الموت مرارًا. وقال للحية: أنت التي دخل الملعون في جوفك حتى غرَّ عبدي، ملعونة أنتِ لعنة تَتحول قوائمك في بطنك، ولا يكن لك رزق إلا التراب، أنت عدوة بني آدم وهم أعداؤك، حيث لقيت أحدًا منهم أخذت بعقِبه، وحيث لقيك شدَخ رأسك. قال عمر: [[في المطبوعة: "قال عمرو"، وأثبتنا الصواب من المخطوطة، ومما ذكرنا آنفًا.]] قيل لوهب: وما كانت الملائكة تأكل؟ قال: يفعل الله ما يشاء [[الأثر: ٧٤٢ - في تاريخ الطبري ١: ٥٤، بهذا الإسناد، وأوله في ابن كثير ١: ١٤٣.]] .
+
+وروي عن ابن عباس نحو هذه القصة:
+
+٧٤٣ - حدثني موسى بن هارون، قال: حدثنا عمرو، قال: حدثنا أسباط، عن السُّدّيّ في خبر ذكره، عن أبي مالك، وعن أبي صالح، عن ابن عباس - وعن مُرَّة، عن ابن مسعود، وعن ناس من أصحاب النبي ﷺ: لما قال الله عز وجلّ لآدم:"اسكن أنتَ وزوجُك الجنة وكلا منها رغدًا حيث شئتما، ولا تقربا هذه الشجرةَ فتكونا من الظالمين"، أراد إبليس أن يدخل عليهما الجنة، فمنعته الخزَنة. فأتى الحية - وهي دابَّة لها أربعُ قوائم كأنها البعير، وهي كأحسن الدواب - فكلمها أن تُدخله في فمها حتى تدخل به إلى آدم، فأدخلته في فُقْمها - قال أبو جعفر: والفقم جانب الشدق [[في المطبوعة وتاريخ الطبري ١: ٥٣: "فأدخلته في فمها، فمرت الحية. . . "، وما أثبتناه من المخطوطة.]] - فمرت الحية على الخزنة فدخلت ولا يعلمون لما أراد الله من الأمر. فكلمه من فُقمها فلم يبال كلامه [[في المطبوعة وتاريخ الطبري: "فكلمة من فمها". وفي المطبوعة: "فلم يبال بكلامه".]] ، فخرج إليه فقال: ﴿يَا آدَمُ هَلْ أَدُلُّكَ عَلَى شَجَرَةِ الْخُلْدِ وَمُلْكٍ لا يَبْلَى﴾ [سورة طه: ١٢٠] يقول: هل أدلك على شجرة إن أكلت منها كنت مَلِكًا مثل الله عز وجل، أو تكونا من الخالدين [[في المخطوطة: "وتكونا من الخالدين".]] ، فلا تموتان أبدًا. وحلف لهما بالله إني لكما لمن الناصحين. وإنما أراد بذلك ليبديَ لهما ما تَوارى عنهما من سَوْآتهما بهتكِ لباسهما. وكان قد علم أن لهما سوأة، لما كان يقرأ من كتب الملائكة، ولم يكن آدم يعلم ذلك. وكان لباسُهما الظُّفر، فأبى آدم أن يأكل منها، فتقدمت حواء فأكلت، ثم قالت: يا آدم كُلْ! فإني قد أكلتُ فلم يضرَّني. فلما أكل آدم بدت لهما سوآتُهما وَطفقا يَخصفان عليهما من ورق الجنة [[الخبر: ٧٤٣. بنصه في تاريخ الطبري ١: ٥٣، وببعض الاختلاف في الدر المنثور ١: ٥٣، والشوكاني ١: ٥٦.]] .
+
+٧٤٤ - حُدِّثت عن عمار بن الحسن، قال: حدثنا ابن أبي جعفر، عن أبيه، عن الربيع، قال: حدثني محدّث: أن الشيطان دخل الجنة في صورة دابة ذات قوائم، فكان يُرى أنه البعير، قال: فلعِن، فسقطت قوائمه فصار حيَّة. [[الأثر: ٧٤٤ - في تاريخ الطبري ١: ٥٥.]]
+
+٧٤٥ - وحُدِّثت عن عمار، قال: حدثنا ابن أبي جعفر، عن أبيه، عن الربيع، قال: وحدثني أبو العالية أن منَ الإبل مَا كان أوّلها من الجن، قال: فأبيحت له الجنة كلها إلا الشجرة [[في تاريخ الطبري ١: ٥٥، زيادة سياقها: ". . . كلها - يعني آدم - إلا الشجرة".]] ، وقيل لهما:"لا تقربا هذه الشجرة فتكونا من الظالمين". قال: فأتى الشيطان حواء فبدأ بها، فقال: أنُهيتما عن شيء؟ قالت: نعم! عن هذه الشجرة فقال: ﴿مَا نَهَاكُمَا رَبُّكُمَا عَنْ هَذِهِ الشَّجَرَةِ إِلا أَنْ تَكُونَا مَلَكَيْنِ أَوْ تَكُونَا مِنَ الْخَالِدِينَ﴾ [سورة الأعراف: ٢٠] قال: فبدأت حواء فأكلت منها، ثم أمرت آدم فأكل منها. قال: وكانت شجرةً من أكل منها أحدث. قال: ولا ينبغي أن يكون في الجنة حَدَث. قال:"فأزالهما الشيطان عَنها فأخرجهما مما كانا فيه" [[في تاريخ الطبري ١: ٥٥"فأزلهما الشيطان".]] ، قال: فأخرج آدم من الجنة [[الأثر: ٧٤٥ - في تاريخ الطبري ١: ٥٥]] .
+
+٧٤٦ - حدثنا ابن حميد، قال: حدثنا سلمة، قال: حدثنا ابن إسحاق، عن بعض أهل العلم: أن آدم حين دخل الجنة ورأى ما فيها من الكرامة وما أعطاه الله منها، قال: لو أن خُلدًا كان! فاغتمز فيها منه الشيطان لما سمعها منه [[في التاريخ: "لو أنا خلدنا". وفي المطبوعة: "فاغتنمها منه الشيطان"، لم يحسنوا قراءة المخطوطة فبدلوا الحرف، وأثبتنا ما في المخطوطة والتاريخ. يقال: سمع مني كلمة فاغتمزها، أي استضعفها ووجد فيها مغمزًا يعاب يؤتي من قبله.]] ، فأتاه من قِبَل الخلد. [[الأثر: ٧٤٦ - في تاريخ الطبري ١: ٥٥.]] .
+
+٧٤٧ - وحدثنا ابن حميد، قال: حدثنا سلمة، عن ابن إسحاق قال: حُدثت: أن أول ما ابتدأهما به من كيده إياهما، أنه ناح عليهما نياحَة أحزنتهما حين سمعاها، فقالا ما يبكيك؟ قال: أبكي عليكما، تموتان فتفارقان ما أنتما فيه من النعمة والكرامة. فوقع ذلك في أنفسهما. ثم أتاهما فوسوس إليهما، فقال: يا آدم هَل أدلك على شجرة الخلد ومُلك لا يبلى؟ وقال:"ما نهاكما ربكما عن هذه الشجرة إلا أن تكونا مَلَكين أو تكونا من الخالدين، وقاسمهما إني لكما لمن الناصحين". أي تكونا مَلَكين، أو تخلدَا، إن لم تكونا ملكين [[في المخطوطة: "أي تكونا ملكين، أو تخلدان إن لم. . . " وفي التاريخ ١: ٥٥: "أي تكونان ملكين أو تخلدان - أي إن لم. . . ".]] - في نعمة الجنة فلا تموتان. يقول الله جل ثناؤه:"فَدَلاهُمَا بِغُرُورٍ" [[الأثر: ٧٤٧ - في تاريخ الطبري ١: ٥٥.]] .
+
+٧٤٨ - حدثني يونس بن عبد الأعلى، قال: أخبرنا ابن وهب، قال: قال ابن زيد: وسوس الشيطان إلى حواء في الشجرة حتى أتى بها إليها، ثم حسَّنها في عين آدم. قال: فدعاها آدم لحاجته، قالت: لا! إلا أن تأتي ههنا. فلما أتى قالت: لا! إلا أن تأكل من هذه الشجرة. قال: فأكلا منها فبدَت لهما سَوآتهما. قال: وذهب آدم هاربًا في الجنة، فناداه ربه: يا آدم أمنِّي تفرّ؟ قال: لا يا رب، ولكن حياءً منك. قال: يا آدم أنَّى أُتِيت؟ قال: من قِبَل حواء أي رب. فقال الله: فإن لها عليَّ أن أدميها في كل شهر مرة، كما أدميت هذه الشجرة [[في المخطوطة: "كما دمت هذه الشجرة".]] ، وأن أجعلها سفيهةً فقد كنت خلقتها حَليمة، وأن أجعلها تحمل كرهًا وتضع كرهًا، فقد كنت جعلتها تحمل يُسرًا وتَضع يُسرًا. قال ابن زيد: ولولا البلية التي أصابت حوّاء. لكان نساء الدنيا لا يَحضن، ولَكُنَّ حليماتٍ، وكن يحملن يُسرًا ويضعن يسُرًا. [[الأثر: ٧٤٨ - في تاريخ الطبري ١: ٥٥.]]
+
+٧٤٩ - وحدثنا ابن حميد، قال: حدثنا سلمة، عن محمد بن إسحاق، عن يزيد بن عبد الله بن قُسيط، عن سعيد بن المسيب، قال: سمعته يحلف بالله ما يستثْني - ما أكل آدم من الشجرة وهو يَعقل، ولكن حواء سقته الخمر، حتى إذا سكر قادته إليها فأكل [[الأثر: ٧٤٩ - في تاريخ الطبري ١: ٥٥ - ٥٦، وهو هناك تام.]] .
+
+٧٥٠ - وحدثنا ابن حميد، قال: حدثنا سلمة، عن ابن إسحاق، عن ليث بن أبي سُليم، عن طاوس اليماني، عن ابن عباس، قال: إن عدو الله إبليس عرض نفسه على دوابّ الأرض أيُّها يحمله حتى يدخل الجنة معها ويكلم آدم وزوجته [[في المخطوطة والمطبوعة والدر المنثور: "أنها تحمله حتى يدخل. . . "، وأثبت ما في تاريخ الطبري ١: ٥٤، فهو أجود وأصح.]] ، فكلّ الدواب أبى ذلك عليه، حتى كلّم الحية فقال لها: أمنعك من ابن آدم، فأنت في ذمتي إن أنت أدخلتِني الجنة. فجعلته بين نابين من أنيابها، ثم دخلت به، فكلمهما من فيها؛ وكانت كاسية تمشي على أربع قوائم، فأعراها الله وجعلها تمشي على بطنها. قال: يقول ابن عباس: اقتلوها حيث وَجَدتُموها، أخفروا ذمَّةَ عدوّ الله فيها [[الخبر: ٧٥٠ - في تاريخ الطبري ١: ٥٣ -٥٤، والدر المنثور ١: ٥٣. وأخفر الذمة والعهد: نقضهما، ولم يف بهما.]] .
+
+٧٥١ - وحدثنا ابن حميد قال: حدثنا سلمة، قال قال ابن إسحاق: وأهل التوراة يدرُسون: إنما كلم آدمَ الحية، ولم يفسروا كتفسير ابن عباس.
+
+٧٥٢ - وحدثنا القاسم، قال: حدثنا الحسين، قال: حدثني حجاج، عن أبي مَعشر، عن محمد بن قيس، قال: نهى الله آدمَ وحواء أن يأكلا من شجرة واحدة في الجنة، ويأكلا منها رَغدًا حيث شاءَا. فجاء الشيطان فدخل في جوف الحية، فكلم حواء، ووسوس الشيطان إلى آدم فقال:"ما نهاكما رَبُّكما عن هذه الشجرة إلا أن تكونا مَلكين أو تكونا من الخالدين وقاسمهما إني لكما لمن الناصحين". قال: فقطعت [[في المطبوعة: "فعضت حواء الشجرة"، وأثبتنا ما في المخطوطة وتاريخ الطبري ١: ٥٤.]] حواء الشجرة فدَميت الشجرة. وسقط عنهما رياشهما الذي كان عليهما، وطفقا يخصفان عليهما من ورق الجنة، وناداهما ربهما: ﴿أَلَمْ أَنْهَكُمَا عَنْ تِلْكُمَا الشَّجَرَةِ وَأَقُلْ لَكُمَا إِنَّ الشَّيْطَانَ لَكُمَا عَدُوٌّ مُبِينٌ﴾ [سورة الأعراف: ٢٢] . لم أكلتها وقد نهيتك عنها؟ قال: يا رب أطعمتني حواء. قال لحواء: لم أطعمته؟ قالت: أمرتني الحية. قال للحية: لم أمرتِها؟ قالت: أمرني إبليس. قال: ملعونٌ مدحورٌ! أما أنت يا حواء فكما أدميْتِ الشجرة تَدْمَيْن [[في المطبوعة: "فتدمين"، وأثبتنا ما في المخطوطة والتاريخ.]] في كلّ هلال، وأما أنت يا حية فأقطع قوائمك فتمشين جريًا على وَجهك، وَسيشدخ رأسك من لقيك بالحجر، اهبطوا بعضكم لبعض عدوّ [[الأثر: ٧٥٢ - في تاريخ الطبري ١: ٥٤.]] .
+
+* *
+
+قال أبو جعفر: وقد رُويت هذه الأخبار - عمن رويناها عنه من الصحابة والتابعين وغيرهم - في صفة استزلال إبليس عدوِّ الله آدمَ وزوجتَه حتى أخرجهما من الجنة.
+
+وأولى ذلك بالحق عندنا ما كان لكتاب الله مُوافقًا. وقد أخبر الله تعالى ذكره عن إبليس أنه وسوس لآدم وزوجته ليبديَ لهما ما وُري عنهما من سَوآتهما، وأنه قال لهما:"ما نهاكما رَبكما عن هذه الشجرة إلا أن تكونا مَلكين أو تكونا من الخالدين"، وأنه"قاسمَهما إني لكما لمن الناصحين" مُدلِّيًا لهما بغرور. ففي إخباره جل ثناؤه - عن عدوّ الله أنه قاسم آدم وزوجته بقيله لهما: إني لكما لمن الناصحين - الدليلُ الواضح على أنه قد باشر خطابهما بنفسه، إما ظاهرًا لأعينهما، وإما مستجِنًّا في غيره. وذلك أنه غير مَعقول في كلام العرب أن يقال: قاسم فلانٌ فلانًا في كذا وكذا. إذا سبّب له سببًا وصل به إليه دون أن يحلف له. والحلف لا يكون بتسبب السبب. فكذلك قوله"فوسوس إليه الشيطان"، لو كان ذلك كان منه إلى آدم - على نحو الذي منه إلى ذريته، من تزيين أكل ما نهى الله آدم عن أكله من الشجرة، بغير مباشرة خطابه إياه بما استزلّه به من القول والحيل - لما قال جلّ ثناؤه:"وقاسمَهما إني لكما لمن الناصحين". كما غير جائز أن يقول اليوم قائلٌ ممن أتى معصية: قاسمني إبليس أنه لي ناصحٌ فيما زيَّن ل
+
+[TRUNCATED at 12000 chars — 13394 more. Consult the source directly before relying on anything near the cut.]
 
 ### al-Muyassar (Arabic)
 
-فأوقعهما الشيطان في الخطيئة: بأنْ وسوس لهما حتى أكلا من الشجرة، فتسبب في إخراجهما من الجنة ونعيمها. وقال الله لهم: اهبطوا إلى الأرض، يعادي بعضكم بعضًا -أي آدم وحواء والشيطان- ولكم في الأرض استقرار وإقامة، وانتفاع بما فيها إلى وقت انتهاء آجالكم.
+فأوقعهما الشيطان في الخطيئة: بأَنْ وسوس لهما حتى أكلا من الشجرة، فتسبب في إخراجهما من الجنة ونعيمها. وقال الله لهم: اهبطوا إلى الأرض، يعادي بعضكم بعضًا -أي آدم وحواء والشيطان- ولكم في الأرض استقرار وإقامة، وانتفاع بما فيها إلى وقت انتهاء آجالكم.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿فَأَزَلَّهُما الشَّيْطان﴾ إبْلِيس أذْهَبهُما وفِي قِراءَة فَأَزالهُما نَحّاهُما ﴿عَنْها﴾ أيْ الجَنَّة بِأَنْ قالَ لَهُما: هَلْ أدُلّكُما عَلى شَجَرَة الخُلْد وقاسَمَهُما بِاللَّهِ إنّهُ لَهُما لَمِن النّاصِحِينَ فَأَكَلا مِنها ﴿فَأَخْرَجَهُما مِمّا كانا فِيهِ﴾ مِن النَّعِيم ﴿وقُلْنا اهْبِطُوا﴾ إلى الأَرْض أيْ أنْتُما بِما اشْتَمَلْتُما عَلَيْهِ مِن ذُرِّيَّتكُما ﴿بَعْضكُمْ﴾ بَعْض الذُّرِّيَّة ﴿لِبَعْضٍ عَدُوّ﴾ مِن ظُلْم بَعْضكُمْ بَعْضًا ﴿ولَكُمْ فِي الأَرْض مُسْتَقَرّ﴾ مَوْضِع قَرار ﴿ومَتاع﴾ ما تَتَمَتَّعُونَ بِهِ مِن نَباتها ﴿إلى حِين﴾ وقْت انْقِضاء آجالكُمْ
 
 ---
 
@@ -34,23 +162,85 @@ Allah honored Adam by commanding the angels to prostrate before him, so they all
 
 ### Ibn Kathir (English)
 
-Allah stated that when He sent Adam, Hawwa', and Shaytan to earth from Paradise, He warned them that He will reveal Books and send Prophets and Messengers to them, i.e., to their offspring. Abu Al-`Aliyah said, "Al-Huda, refers to the Prophets, Messengers, the clear signs and plain explanation."
+We said: "Get down all of you from this place (the Paradise), then whenever there comes to you Hudan (guidance) from Me, and whoever follows My guidance, there shall be no fear on them, nor shall they grieve (38)But those who disbelieve and belie Our Ayat (proofs, evidences, verses, lessons, signs, revelations, etc.) ـ such are the dwellers of the Fire. They shall abide therein forever. (39)
+
+Allah stated that when He sent Adam, Hawwa', and Shaytan to earth from Paradise, He warned them that He will reveal Books and send Prophets and Messengers to them, i.e., to their offspring. Abu Al-'Aliyah said, "Al-Huda, refers to the Prophets, Messengers, the clear signs and plain explanation."
+
 فَمَن تَبِعَ هُدَايَ
+
 (And whoever follows My guidance) meaning, whoever accepts what is contained in My Books and what I send the Messengers with,
+
 فَلاَ خَوْفٌ عَلَيْهِمْ
-(There shall be no fear on th...
+
+(There shall be no fear on them) regarding the Hereafter,
+
+وَلاَ هُمْ يَحْزَنُونَ
+
+(nor shall they grieve) regarding the life of this world. Similarly, in Surat Ta Ha, Allah said,
+
+قَالَ اهْبِطَا مِنْهَا جَمِيعًا ۖ بَعْضُكُمْ لِبَعْضٍ عَدُوٌّ ۖ فَإِمَّا يَأْتِيَنَّكُم مِّنِّي هُدًى فَمَنِ اتَّبَعَ هُدَايَ فَلَا يَضِلُّ وَلَا يَشْقَىٰ
+
+(He (Allah) said: "Get you down (from the Paradise to the earth), both of you, together, some of you are an enemy to some others. Then if there comes to you guidance from Me, then whoever follows My guidance, he shall neither go astray, nor shall he be distressed.)(20:123)
+
+Ibn 'Abbas commented, "He will not be misguided in this life or miserable in the Hereafter." The Ayah,
+
+وَمَنْ أَعْرَضَ عَن ذِكْرِي فَإِنَّ لَهُ مَعِيشَةً ضَنكًا وَنَحْشُرُهُ يَوْمَ الْقِيَامَةِ أَعْمَىٰ
+
+(But whosoever turns away from My Reminder (i.e. neither believes in this Qur'an nor acts on its teachings) verily, for him is a life of hardship, and We shall raise him up blind on the Day of Resurrection.)(20:124) is similar to what Allah stated here,
+
+وَالَّذِينَ كَفَرُوا وَكَذَّبُوا بِآيَاتِنَا أُولَٰئِكَ أَصْحَابُ النَّارِ هُمْ فِيهَا خَالِدُونَ
+
+(But those who disbelieve and belie Our Ayat ـ such are the dwellers of the Fire. They shall abide therein forever), meaning, they will remain in Hell for eternity and will not find a way out of it.
+
+يَا بَنِي إِسْرَائِيلَ اذْكُرُوا نِعْمَتِيَ الَّتِي أَنْعَمْتُ عَلَيْكُمْ وَأَوْفُوا بِعَهْدِي أُوفِ بِعَهْدِكُمْ وَإِيَّايَ فَارْهَبُونِ - وَآمِنُوا بِمَا أَنزَلْتُ مُصَدِّقًا لِّمَا مَعَكُمْ وَلَا تَكُونُوا أَوَّلَ كَافِرٍ بِهِ وَلَا تَشْتَرُوا بِآيَاتِي ثَمَنًا قَلِيلًا وَإِيَّايَ فَاتَّقُونِ
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله تعالى:  قُلْنَا اهْبِطُوا مِنْهَا جَمِيعًاقال أبو جعفر: وقد ذكرنا القول في تأويل قوله: " قلنا اهبطوا منها جميعًا " فيما مضى، (1) فلا حاجة بنا إلى إعادته، إذْ كان معناه في هذا الموضع، هو معناه في ذلك الموضع.793- وقد حدثني يعقوب بن إبراهيم قال: حدثنا هشيم، قال: أخبرنا إسماعيل بن سالم، عن أبي صالح، في قوله : " اهبطوا منها جميعًا "، قال: آدم وحواء والحية وإبليس. (2)القول في تأويل قوله تعالى ذكره:  فَإِمَّا يَأْتِيَنَّكُمْ مِنِّي هُدًىقال أبو جعفر: وتأويل قوله: " فإما يأتينكم "...
+القول في تأويل قوله تعالى ذكره: ﴿فَإِمَّا يَأْتِيَنَّكُمْ مِنِّي هُدًى﴾
+
+قال أبو جعفر: وتأويل قوله:"فإما يأتينكم"، فإنْ يَأتكم. و"ما" التي مع"إن" توكيدٌ للكلام، ولدخولها مع"إن" أدخلت النون المشددة في"يأتينَّكم"، تفرقةً بدخولها بين"ما" التي تأتي بمعنى توكيد الكلام - التي تسميها أهل العربية صلة وَحشوًا - وبين"ما" التي تأتي بمعنى"الذي"، فتؤذِن بدخولها في الفعل، أنّ"ما" التي مع"إن" التي بمعنى الجزاء، توكيد، وليست"ما" التي بمعنى"الذي".
+
+وقد قال بعض نحويي أهل البصرة [[في المطبوعة: "نحويي البصريين".]] : إنّ "إمَّا"، "إن" زيدت معها"ما"، وصار الفعل الذي بعده بالنون الخفيفة أو الثقيلة، وقد يكون بغير نون. وإنما حسنت فيه النون لمّا دخلته "ما"، لأن "ما" نفيٌ، فهي مما ليس بواجب، وهي الحرف الذي ينفي الواجب، فحسنت فيه النون، نحو قولهم:"بعينٍ مَّا أرَينَّك"، حين أدخلت فيها"ما" حسنت النون فيما ها هنا.
+
+وقد أنكرت جماعة من أهل العربية دعوى قائل هذه المقالة [[في المطبوعة: "وقد أنكر جماعة. . . دعوى قائلي. . . ".]] : أن"ما" التي مع"بعينٍ ما أرَينَّك" بمعنى الجحد، وزعموا أن ذلك بمعنى التوكيد للكلام.
+
+وقال آخرون: بل هو حشو في الكلام، ومعناها الحذف، وإنما معنى الكلام:"بعَين أراك"، وغير جائز أن يُجْعل مع الاختلاف فيه أصلا يُقاس عليه غيره.
+
+* *
+
+القول في تأويل قوله تعالى ذكره: ﴿مِنِّي هُدًى فَمَنْ تَبِعَ هُدَايَ فَلا خَوْفٌ عَلَيْهِمْ وَلا هُمْ يَحْزَنُونَ (٣٨) ﴾
+
+قال أبو جعفر: والهدى، في هذا الموضع، البيان والرشاد. كما:-
+
+٧٩٤- حدثنا المثنى بن إبراهيم، قال: حدثنا آدم العسقلاني قال: حدثنا أبو جعفر، عن الربيع، عن أبي العالية، في قوله:"فإما يأتينكم مني هدًى" قال: الهدى، الأنبياءُ والرسل والبيان. [[الأثر: ٧٩٤- في ابن كثير ١: ١٤٨، والدر المنثور ١: ٦٣، والشوكاني ١: ٥٨.]] .
+
+فإن كان ما قال أبو العالية في ذلك كما قال، فالخطاب بقوله:"اهبطوا"، وإن كان لآدم وزوجته، فيجب أن يكون مرادًا به آدمُ وزوجتُه وذريتُهما. فيكون ذلك حينئذ نظير قوله: ﴿فَقَالَ لَهَا وَلِلأَرْضِ اِئْتِيَا طَوْعًا أَوْ كَرْهًا قَالَتَا أَتَيْنَا طَائِعِينَ﴾ [سورة فصلت: ١١] ، بمعنى أتينا بما فينا من الخلق طائعين، ونظيرَ قوله في قراءة ابن مسعود: ﴿ربنا واجعلنا مسلمين لك ومن ذريتنا أمة مسلمة لك وأرهم مناسكهم﴾ [سورة البقرة: ١٢٨] ، فجمع قبل أن تكون ذريةً، وهو في قراءتنا:"وأرنا مناسكنا". وكما يقول القائل لآخر:"كأنك قد تزوجت وولد لك، وكثرتم وعززتم"، ونحو ذلك من الكلام.
+
+وإنما قلنا إن ذلك هو الواجب على التأويل الذي ذكرناه عن أبي العالية، لأنّ آدمَ كان هو النبيَّ أيام حياته بعد أن أُهبط إلى الأرض، [[في المطبوعة: "هو النبي ﷺ".]] والرسولَ من الله جل ثناؤه إلى ولده. فغير جائز أن يكون معنيًّا -وهو الرسولُ ﷺ- بقوله:"فإما يأتينّكم منّي هُدًى"، خطابًا له ولزوجته،"فإما يأتينكم مني أنبياءُ ورسل" [[في المطبوعة: ". . . مني هدى أنبياء ورسل. . . ".]] إلا على ما وصفتُ من التأويل.
+
+وقول أبي العالية في ذلك -وإن كان وجهًا من التأويل تحتمله الآية- فأقرب إلى الصواب منه عندي وأشبهُ بظاهر التلاوة، أن يكون تأويلها: فإما يأتينكم يا معشرَ من أُهبط إلى الأرض من سمائي [[في المطبوعة: "فإما يأتينكم مني يا معشر من أهبطته. . . ".]] ، وهو آدمُ وزوجته وإبليس -كما قد ذكرنا قبل في تأويل الآية التي قبلها- إما يأتينكم منّي بيانٌ من أمري وطاعتي، ورشاد إلى سبيلي وديني، فمن اتبعه منكم فلا خوف عليهم ولا هم يحزنون، وإن كان قد سلف منهم قبل ذلك إليّ معصية وخلافٌ لأمري وطاعتي. يعرّفهم بذلك جل ثناؤه أنه التائبُ على من تاب إليه من ذنوبه، والرحيمُ لمن أناب إليه، كما وصف نفسه بقوله:"إنه هو التّواب الرحيم".
+
+وذلك أن ظاهر الخطاب بذلك إنما هو للذين قال لهم جل ثناؤه:"اهبطوا منها جميعًا"، والذين خوطبوا به هم من سمّينا في قول الحجة من الصحابة والتابعين الذين قد قدّمنا الرواية عنهم. [[في المطبوعة: "الرواية عنهم" بالحذف]] . وذلك، وإن كان خطابًا من الله جل ذكره لمن أُهبط حينئذٍ من السماء إلى الأرض، فهو سنّة الله في جميع خلقه، وتعريفٌ منه بذلك الذين أخبر عنهم في أول هذه السورة بما أخبر عنهم في قوله [[في المطبوعة: "وتعريف منه بذلك للذين".]] ﴿: إِنَّ الَّذِينَ كَفَرُوا سَوَاءٌ عَلَيْهِمْ أَأَنْذَرْتَهُمْ أَمْ لَمْ تُنْذِرْهُمْ لا يُؤْمِنُونَ﴾ [سورة البقرة: ٦] ، وفي قوله: ﴿وَمِنَ النَّاسِ مَنْ يَقُولُ آمَنَّا بِاللَّهِ وَبِالْيَوْمِ الآخِرِ وَمَا هُمْ بِمُؤْمِنِينَ﴾ [سورة البقرة: ٨] ، وأنّ حكمه فيهم -إن تابوا إليه وأنابوا واتبعوا ما أتاهم من البيان من عند الله على لسان رسوله محمد ﷺ - أنهم عنده في الآخرة ممن لا خوفٌ عليهم ولا هم يحزنون، وأنهم إن هلكوا على كُفرهم وضلالتهم قبل الإنابة والتوبة، كانوا من أهل النار المخلَّدين فيها.
+
+وقوله:"فمن تَبعَ هُدَايَ"، يعني: فمن اتبع بَياني الذي آتيتُه على ألسن رُسُلي، أو مع رسلي [[في المطبوعة: ". . . بياني الذي أبينه على ألسن رسلي".]] . كما:-
+
+٧٩٥- حدثنا به المثنى، قال: حدثنا آدم، قال: حدثنا أبو جعفر، عن الربيع، عن أبي العالية:"فمن تَبع هُدَاي"، يعني بياني. [[الأثر: ٧٩٥- لم أجده في مكان.]] .
+
+* *
+
+وقوله:"فلا خوفٌ عليهم"، يعني فهم آمنون في أهوال القيامة من عقاب الله، غير خائفين عذابه، بما أطاعوا الله في الدنيا واتبعوا أمرَه وهُداه وسبيله، ولا هم يحزنون يومئذ على ما خلّفوا بعد وفاتهم في الدنيا. كما:-
+
+٧٩٦- حدثني يونس بن عبد الأعلى، قال: أخبرنا ابن وهب، قال قال ابن زيد:"لا خوفٌ عليهم"، يقول: لا خوف عليكم أمامكم [[الأثر: ٧٩٦- لم أجده في مكان.]] .
+
+وليس شيء أعظمَ في صدر الذي يموت ممّا بعد الموت. فأمّنهم منه وسَلاهم عن الدنيا فقال:"ولا هم يحزنون".
 
 ### al-Muyassar (Arabic)
 
-قال الله لهم: اهبطوا من الجنة جميعًا، وسيأتيكم أنتم وذرياتكم المتعاقبة ما فيه هدايتكم إلى الحق. فمن عمل بها فلا خوف عليهم فيما يستقبلونه من أمر الآخرة ولا هم يحزنون على ما فاتهم من أمور الدنيا.
+قال الله لهم: اهبطوا من الجنة جميعًا، وسيأتيكم أنتم وذرياتكم المتعاقبة ما فيه هدايتكم إلى الحق. فمن عمل بها فلا خوف عليهم فيما يستقبلونه من أمر الآخرة، ولاهم يحزنون على ما فاتهم من أمور الدنيا.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿قُلْنا اهْبِطُوا مِنها﴾ مِن الجَنَّة ﴿جَمِيعًا﴾ كَرَّرَهُ لِيَعْطِف عَلَيْهِ ﴿فَإمّا﴾ فِيهِ إدْغام نُون إنْ الشَّرْطِيَّة فِي ما الزّائِدَة ﴿يَأْتِيَنكُمْ مِنِّي هُدًى﴾ كِتاب ورَسُول ﴿فَمَن تَبِعَ هُدايَ﴾ فَآمَنَ بِي وعَمِلَ بِطاعَتِي ﴿فَلا خَوْف عَلَيْهِمْ ولا هُمْ يَحْزَنُونَ﴾ فِي الآخِرَة بِأَنْ يَدْخُلُوا الجَنَّة
 
 ---
 
@@ -58,22 +248,235 @@ Allah stated that when He sent Adam, Hawwa', and Shaytan to earth from Paradise,
 
 ### Ibn Kathir (English)
 
+And We shaded you with clouds and sent down on you Al-Manna and the quail, (saying): "Eat of the good lawful things We have provided for you," (but they rebelled). And they did not wrong Us but they wronged themselves (57)
+
 The Shade, the Manna and the Quail
+
 After Allah mentioned the calamities that He saved the Children of Israel from, He mentioned the favors that He granted them, saying,
+
 وَظَلَّلْنَا عَلَيْكُمُ الْغَمَامَ
-And We shaded you with clouds. This A0yah mentions the white clouds that provided shade for the Children of Israel, protecting them from the sun s heat during their years of wandering. In the Hadith about the trials, An-Nasa0 i recorded Ibn Abba0s saying, Allah shaded the Children of Israel w...
+
+And We shaded you with clouds. This Ayah mentions the white clouds that provided shade for the Children of Israel, protecting them from the sun's heat during their years of wandering. In the Hadith about the trials, An-Nasai recorded Ibn Abbas saying, Allah shaded the Children of Israel with clouds during the years of wandering. Ibn Abi Hatim said, Narrations similar to that of Ibn Abbas were reported from Ibn Umar, Ar-Rabi' bin Anas, Abu Mijlaz, Ad-Dahhak, and As-Suddi. Al-Hasan and Qatadah said that,
+
+وَظَلَّلْنَا عَلَيْكُمُ الْغَمَامَ
+
+(And We shaded you with clouds) "This happened when they were in the desert and the clouds shielded them from the sun." Ibn Jarir said that several scholars said that the type of cloud the Ayah mentioned, "was cooler and better than the type we know."
+
+Ali bin Abi Talhah reported that Ibn 'Abbas commented on Allah's statement,
+
+وَأَنزَلْنَا عَلَيْكُمُ الْمَنَّ
+
+And sent down on you Al-Manna, The manna used to descend to them to the trees, and they used to eat whatever they wished of it. Also, Qata0dah said, The manna, which was whiter than milk and sweeter than honey, used to rain down on the Children of Israel, just as the snow falls, from dawn until sunrise. One of them would collect enough for that particular day, for if it remained more than that, it would spoil. On the sixth day, Friday, one would collect enough for the sixth and the seventh day, which was the Sabbath during which one would not leave home to seek his livelihood, or for anything else. All this occurred in the wilderness. The type of manna that we know provides sufficient food when eaten alone, because it is nutritious and sweet. When manna is mixed with water, it becomes a sweet drink. It also changes composition when mixed with other types of food. However, this is not the only type. The evidence to this fact is that Al-Bukha0ri narrated, that Sa 0d bin Zayd said that the Messenger of Allah ﷺ said,
+
+الْكَمْأَةُ مِنَ الْمَنِّ وَمَاؤُهَا شِفَاءٌ لِلْعَيْنِ
+
+(Kam'ah (truffles) is a type of manna, and its liquid is a remedy for the eyes.)
+
+This Hadith was also collected by Imam Ahmad. The group of Hadith compilers, with the exception of Abu Dawud, also collected it, and At-Tirmidhi graded it Hasan Sahih. At-Tirmidhi recorded Abu Hurayrah saying that the Messenger of Allah ﷺ said,
+
+الْعَجْوَةُ مِنَ الْجَنَّةِ وَفِيهَا شِفَاءٌ مِنَ السُّمِّ وَالْكَمْأَةُ مِنَ الْمَنِّ وَمَاؤُهَا شِفَاءٌ لِلْعَيْنِ
+
+(The 'Ajwah (pressed, dried date) is from Paradise and it cures poison, Al-Kam'ah (truffles) is a form of manna, and its liquid heals the eye.") At-Tirmidhi is the only one of them who recorded this Hadith.
+
+As for the quail (Salwa) in question, 'Ali bin Abi Talhah reported that Ibn 'Abbas said, "The (Salwa) is a bird that looks like the quail." This is the same opinion reported from Mujahid, Ash-Sha'bi, Ad-Dahhak, Al-Hasan, 'Ikrimah and Ar-Rabi' bin Anas, may Allah have mercy upon them. Also, 'Ikrimah said that the Salwa is a bird in Paradise about the size of a sparrow. Qatadah said "The Salwa is a bird that is similar to a sparrow. During that time, an Israelite could catch as many quails as was sufficient for that particular day, otherwise the meat would spoil. On the sixth day, Friday, he would collect what is enough for the sixth and the seventh day, the Sabbath, during which one was not allowed to depart his home to seek anything."
+
+Allah said,
+
+كُلُوا مِن طَيِّبَاتِ مَا رَزَقْنَاكُمْ
+
+(Eat of the good lawful things We have provided for you,)(7:160) this form of command is a simple order of allowance, guiding to what is good. Allah said,
+
+وَمَا ظَلَمُونَا وَلَٰكِن كَانُوا أَنفُسَهُمْ يَظْلِمُونَ
+
+(And they did not wrong Us but they wronged themselves) means, 'We commanded them to eat from what We gave them, and to perform the acts of worship (but they rebelled).' This Ayah is similar to Allah's statement,
+
+كُلُوا مِن رِّزْقِ رَبِّكُمْ وَاشْكُرُوا لَهُ
+
+(Eat of the provision of your Lord, and be grateful to Him)(34:15).
+
+Yet, the Children of Israel rebelled, disbelieved and committed injustice against themselves, even though they saw the clear signs, tremendous miracles and extraordinary events.
+
+The Virtue of Muhammad's Companions over the Companions of all Other Prophets
+
+Here it is important to point out the virtue of Muhammad's Companions over the companions of the other Prophets. This includes firmness in the religion, patience and the lack of arrogance, may Allah be pleased with them. Although the Companions accompanied the Prophet ﷺ in his travels and battles, such as during the battle of Tabuk, in intense heat and hardship, they did not ask for a miracle, though this was easy for the Prophet ﷺ by Allah's leave. And when the Companions became hungry, they merely asked the Prophet ﷺ - to invoke Allah - for an increase in the amount of food. They collected whatever food they had and brought it to the Prophet ﷺ, and he asked Allah to bless it, told each of them to take some food, and they filled every pot they had. Also, when they needed rain, the Prophet ﷺ asked Allah to send down rain, and a rain cloud came. They drank, gave water to their camels and filled their water skins. When they looked around, they found that the cloud had only rained on their camp. This is the best example of those who were willing to accept Allah's decision and follow the Messenger of Allah ﷺ.
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله تعالى  وَظَلَّلْنَا عَلَيْكُمُ الْغَمَامَ(وظللنا عليكم الغمام) عطف على قوله:  ثُمَّ بَعَثْنَاكُمْ مِنْ بَعْدِ مَوْتِكُمْ . فتأويل الآية: ثم بعثناكم من بعد موتكم , وظللنا عليكم الغمام - وعدد عليهم سائر ما أنعم به عليهم - لعلكم تشكرون .* * *و " الغمام " جمع " غمامة "، كما السحاب جمع سحابة ," والغمام " هو ما غم السماء فألبسها من سحاب وقتام، وغير ذلك مما يسترها عن أعين الناظرين . وكل مغطى فالعرب تسميه مغموما. (175)* * *وقد قيل: إن الغمام التي ظللها الله على بني إسرائيل لم تكن ...
+القول في تأويل قوله تعالى ﴿وَظَلَّلْنَا عَلَيْكُمُ الْغَمَامَ﴾
+
+﴿وظللنا عليكم الغمام﴾ عطف على قوله: ﴿ثم بعثناكم من بعد موتكم﴾ . فتأويل الآية: ثم بعثناكم من بعد موتكم، وظللنا عليكم الغمام - وعدد عليهم سائر ما أنعم به عليهم - لعلكم تشكرون.
+
+* *
+
+و"الغمام" جمع"غمامة"، كما السحاب جمع سحابة،"والغمام" هو ما غم السماء فألبسها من سحاب وقتام، وغير ذلك مما يسترها عن أعين الناظرين. وكل مغطى فالعرب تسميه مغموما. [[في المطبوعة: "فإن العرب تسميه".]]
+
+* *
+
+وقد قيل: إن الغمام التي ظللها الله على بني إسرائيل لم تكن سحابا.
+
+٩٦٢ - حدثنا أحمد بن إسحاق الأهوازي قال، حدثنا أبو أحمد قال، حدثنا سفيان، عن ابن أبي نجيح، عن مجاهد قوله: ﴿وظللنا عليكم الغمام﴾ ، قال: ليس بالسحاب.
+
+٩٦٣ - وحدثني المثنى بن إبراهيم قال، حدثنا أبو حذيفة قال، حدثنا شبل، عن أبي نجيح، عن مجاهد قوله: ﴿وظللنا عليكم الغمام﴾ ، قال: ليس بالسحاب، هو الغمام الذي يأتي الله فيه يوم القيامة، لم يكن إلا لهم. [[الأثر ٩٦٣ - في المخطوطة، ساق هذا الأثر إلى قوله"قال: ليس بالسحاب" ثم قال بعده ما نصه: "وبإسناده عن مجاهد قال: ليس بالسحاب، هو الغمام الذي. . . " إلى آخر الخبر.]]
+
+٩٦٤ - وحدثني محمد بن عمرو الباهلي قال، حدثنا أبو عاصم قال، حدثنا عيسى، عن ابن أبي نجيح، عن مجاهد في قول الله جل ثناؤه: ﴿وظللنا عليكم الغمام﴾ ، قال: هو بمنزلة السحاب.
+
+٩٦٥ - وحدثني القاسم بن الحسن قال، حدثنا الحسين قال، حدثني حجاج عن ابن جريج قال، قال ابن عباس: (وظللنا عليكم الغمام) ، قال: هو غمام أبرد من هذا وأطيب، وهو الذي يأتي الله عز وجل فيه يوم القيامة في قوله: [[في المخطوطة: "فيه في قوله" بحذف"يوم القيامة".]] ﴿في ظلل من الغمام﴾ [البقرة: ٢١٠] ، وهو الذي جاءت فيه الملائكة يوم بدر. قال ابن عباس: وكان معهم في التيه. [[الضمير في قوله: "وكان"، للغمام.]]
+
+* *
+
+وإذ كان معنى الغمام ما وصفنا، مما غم السماء من شيء يغطى وجهها عن الناظر إليها، [[في المطبوعة: "فغطى وجهها" وتلك أجود.]] فليس الذي ظلله الله عز وجل على بني إسرائيل - فوصفه بأنه كان غماما - بأولى، بوصفه إياه بذلك أن يكون سحابا، منه بأن يكون غير ذلك مما ألبس وجه السماء من شيء.
+
+* *
+
+وقد قيل: إنه ما ابيض من السحاب.
+
+* *
+
+القول في تأويل قوله تعالى ﴿وَأَنزلْنَا عَلَيْكُمُ الْمَنَّ﴾
+
+اختلف أهل التأويل في صفة"المن". فقال بعضهم بما: -
+
+٩٦٦ - حدثني به محمد بن عمرو قال، حدثنا أبو عاصم قال، حدثنا عيسى، عن ابن أبي نجيح، عن مجاهد في قول الله عز وجل: ﴿وأنزلنا عليكم المن﴾ ، قال: المن صمغة.
+
+٩٦٧ - حدثنا المثنى قال، حدثنا أبو حذيفة قال، حدثنا شبل، عن ابن أبي نجيح، عن مجاهد مثله.
+
+٩٦٨ - حدثنا الحسن بن يحيى قال، أخبرنا عبد الرزاق قال، أخبرنا معمر، عن قتادة في قوله: ﴿وأنزلنا عليكم المن والسلوى﴾ ، يقول: كان المن ينزل عليهم مثل الثلج.
+
+* *
+
+وقال آخرون: هو شراب.
+
+ذكر من قال ذلك:
+
+٩٦٩ - حدثني المثنى قال، حدثنا إسحاق قال، حدثنا ابن أبي جعفر، عن أبيه، عن الربيع بن أنس قال: المن، شراب كان ينزل عليهم مثل العسل، فيمزجونه بالماء، ثم يشربونه.
+
+* *
+
+وقال آخرون:"المن"، عسل.
+
+ذكر من قال ذلك:
+
+٩٧٠ - حدثنا يونس بن عبد الأعلى، أخبرنا ابن وهب قال، قال ابن زيد: المن: عسل كان ينزل لهم من السماء.
+
+٩٧١ - حدثنا أحمد بن إسحاق قال، حدثنا أبو أحمد قال، حدثنا إسرائيل، عن جابر، عن عامر قال: عسلكم هذا جزء من سبعين جزءا من المن.
+
+* *
+
+وقال آخرون:"المن" الخبز الرقاق. [[في المطبوعة: "خبز الرقاق". خبز رقاق رقيق، كطويل وطوال، صفة. وهو خبز منبسط رقيق.]]
+
+ذكر من قال ذلك:
+
+٩٧٢ - حدثني المثنى قال، حدثنا إسحاق قال، حدثنا إسماعيل بن عبد الكريم قال، حدثني عبد الصمد قال: سمعت وهبا - وسئل: ما المن؟ قال: خبز الرقاق،، مثل الذرة، ومثل النقي. [[الأثر: ٩٧٢ - بعض أثر سيأتي برقم: ٩٩٥. وفي المخطوطة: "من الذرة"، وفي ابن كثير كما في المطبوعة، وسيأتي كذلك في رقم: ٩٩٥.]]
+
+* *
+
+وقال آخرون:"المن"، الزنجبيل. [[في المطبوعة"الترنجبين"، وكذلك في البغوي"الترنجبين". وفي تاج العروس: "الترنجبين". بالضم، هو المن المذكور في القرآن". وسيأتي ذلك بعد رقم: ٩٧٧، وهو هنا"الزنجيل" كما في ابن كثير، والمخطوطة. وانظر لسان العرب: (منن) .]]
+
+ذكر من قال ذلك:
+
+٩٧٣ - حدثني موسى بن هارون قال، حدثنا عمرو بن حماد قال، حدثنا أسباط، عن السدي: المن كان يسقط على شجر الزنجبيل [[في المطبوعة"شجر الترنجبين".]]
+
+* *
+
+وقال آخرون:"المن"، هو الذي يسقط على الشجر الذي يأكله الناس.
+
+ذكر من قال ذلك:
+
+٩٧٤ - حدثني القاسم قال، حدثنا الحسين قال، حدثتي حجاج، عن ابن جريج قال، قال ابن عباس: كان المن ينزل على شجرهم، فيغدون عليه، فيأكلون منه ما شاءوا. [[الأثر: ٩٧٤ - هو في المخطوطة بعد رقم: ٩٧٦.]] .
+
+٩٧٥ - وحدثني المثنى قال، حدثنا الحماني قال، حدثنا شريك، عن مجالد، عن عامر في قوله: ﴿وأنزلنا عليكم المن﴾ ، قال: المن: الذي يقع على الشجر.
+
+٩٧٦ - حدثت عن المنجاب بن الحارث قال، حدثنا بشر بن عمارة، عن أبي روق، عن الضحاك، عن ابن عباس في قوله: ﴿المن﴾ ، قال: المن الذي يسقط من السماء على الشجر فتأكله الناس.
+
+٩٧٧ - حدثنا أحمد بن إسحاق قال، حدثنا أبو أحمد الزبيري قال، حدثنا شريك، عن مجالد، عن عامر قال: المن، هذا الذي يقع على الشجر.
+
+* *
+
+وقد قيل. إن"المن"، هو الترنجبين.
+
+* *
+
+وقال بعضهم:"المن"، هو الذي يسقط على الثمام والعُشَر، وهو حلو كالعسل، وإياه عنى الأعشى -ميمون بن قيس- بقوله:
+
+لو أُطعِموا المن والسلوى مكانَهمُ ... ما أبصر الناس طُعما فيهمُ نجعا [[ديوانه: ٨٧ من قصيدة طويلة، يذكر فيها ذا التاج هوذة بن علي الحنفي صاحب اليمامة، وكانت بنو تميم قد وثبت على مال وطرف كانت تساق إلى كسرى، فأوقع بهم المكعبر الفارسي، والي كسرى على البحرين، وأدخلهم المشقر - وهو حصن بالبحرين - بخديعة خدعهم بها، فقتل رجالهم واستبقى الغلمان. وكلم هوذة بن علي المكعبر يومئذ في مائة من أسرى بني تميم، فوهبهم له يوم الفصح، فأعتقهم، فقال الأعشى، يذكر ما كان من قبل هوذة في بني تميم:
+
+سائل تميما به أيام صفقتهم ... لما أتوه أسارى كلهم ضرعا
+
+وسط المشقر في عيطاء مظلمة ... لا يستطيعون فيها ثَمَّ ممتنعا
+
+لو أُطعموا المن. . . . . . . ... . . . . . . . . . . . . . . . . . . . .
+
+فوصف بني تميم بالكفر لنعمته (تاريخ الطبري ٢: ١٣٢ - ١٣٤) . والطعم: ما أكل من الطعام. ونجع الطعام في الإنسان: هنا أكله وتبينت تنميته، واستمرأه وصلح عليه.]]
+
+وتظاهرت الأخبار عن رسول الله ﷺ أنه ﷺ قال:
+
+٩٧٨ -"الكمأة من المن، وماؤها شفاء للعين". [[الحديث: ٩٧٨ - هكذا رواه الطبري دون إسناد. وقد صدق في أنه تظاهرت به الأخبار. فقد رواه أحمد والشيخان والترمذي، من حديث سعيد بن زيد. ورواه أيضًا أحمد والشيخان وابن ماجه، من حديث أبي سعيد وجابر. ورواه أبو نعيم في الطب، من حديث ابن عباس وعائشة. انظر مثلا، المسند: ١٦٢٥، ١٦٢٦. والجامع الصغير: ٦٤٦٣. وزاد المعاد لابن القيم ٣: ٣٨٣. وتفسير ابن كثير ١: ١٧٤ - ١٧٦، وقد ساق كثيرا من طرقه.]]
+
+وقال بعضهم:"المن"، شراب حلو كانوا يطبخونه فيشربونه.
+
+* *
+
+وأما أمية بن أبي الصلت، فإنه جعله في شعره عسلا فقال يصف أمرهم في التيه وما رزقوا فيه:
+
+فرأى الله أنهم بمَضِيعٍ ... لا بذي مَزْرعٍ ولا معمورا [[ديوانه: ٣٤ - ٣٥. في الأصول والديوان. "ولا مثمورا". مضيع: بموضع ضياع وهوان وهلاك. يقال: هو بدار مضيعة (بفتح الميم وكسر الضاد) ، كأنه فيها ضائع. وهو مفعلة، وطرح التاء منها كما يقولون: المنزل والمنزلة. ومزرع: مصدر ميمي من"زرع" يعني ليس بذي زرع، ومعمور: أي آهل ذهب خرابه. ونصب"ولا معمورا"، عطفا على محل"بذي مزرع"، وهو نصب. وآثرت هذه الكلمة، لأنها هي التي تتفق مع سياقه الشعر، ولأن التحريف في"معمور" و"مثمور" سهل، ولما سترى في شرح البيت الثالث.]]
+
+فَنَساها عليهم غاديات، ... ومرى مزنهم خلايا وخورا [[في المطبوعة: "فعفاها" وفي المخطوطة: "فسناها"، وفي الديوان"فعفاها" ولا معنى لشيء منها، فاستظهرت أن أقرأها من المخطوط"فنساها"، أصلها"فنسأها" مهموزة، كما قالوا: برأ الله الخلق وبراهم بطرح الهمزة. ونسأ الدابة رالإبل ينسؤها نسأ: زجرها وساقها. يقول: ساق عليهم السحاب. غاديات جمع غادية: وهي السحابة التي تنشأ غدوة. ومرى الناقة مريا: مسح ضرعها لتدر. والمزن جمع مزنة: وهي السحابة ذات الماء. وخلايا جمع خلية: وهي الناقة التي خليت للحلب لكرمها وغزارة لبنها. الخور": إبل حمر إلى الغبرة، رقيقات الجلود، طوال الأوبار، لها شعر ينفذ وبرها، وهي أطول من سائر الوبر، فإذا كانت فهي غزار كثيرة اللبن. شبه السحاب الغزير الماء بهذين الضربين من النوق الغزيرة اللبن، يحلب مطرها عليهم حلبا، ثم فصل في البيت التالي أنواع ما نزل عليهم من السماء.]] عسلا ناطِفا وماء فراتا ... وحليبا ذا بهجة مثمورا [[ناطف، من نطف ينطف: قطر. وهو مشروح بعد - أي يقطر من السماء. والفرات: أشد الماء عذوبة. ووصف اللبن بأنه ذو بهجة. وهي الحسن والنضارة، لأنه لم يؤخذ زبده، فيرق، وتذهب لمعة الزبد منه، فاستعار البهجة لذلك. أما قوله: "مثمورا"، فهي في المطبوعة "ممرورا"، وفي المخطوطة في الصلب كانت تقرأ "مثمورا" ثم لعب فيها قلم الناسخ في الثاء والميم، ثم كتب هو نفسه في الهامش: "مزمورا"، ثم شرح في طرف الصفحة فقال: "المزمور: الصافي من اللبن". وذلك شيء لا وجود له في كتب اللغة، وقد رأيت أنه كتب في البيت الأول"مثمورا"، ورجحت أن صوابها"معمورا"، ورجحت في هذا البيت أن يكون اختلط عليه حين كتب"مثمورا" فعاد فجعلها"مزمورا".
+
+ولم أجد"مثمورا" في كتب اللغة، ولكن يقال: الثمير والثميرة: اللبن الذي ظهر زبده وتحبب قال ابن شميل: إذا مخض رؤي عليه أمثال الحصف في الجلد، ثم يجتمع فيصير زبدا، وما دامت صغارا فهو ثمير. ويقولون: إن لبنك لحسن الثمر، وقد أثمر مخاضك. فكأنه قال: "مثمورا" ويعني"ثميرا"، لأن فعيلا بمعنى مفعول هنا.]]
+
+المثمور: الصافي من اللبن [[كانت في المطبوعة"الممرور"، وقد ذكرت في التعليقة، أنها بهامش المخطوطة"المزمور".]] . فجعل المن الذي كان ينزل عليهم عسلا ناطفا، والناطف: هو القاطر. [[قوله: "فجعل المن. . . " إلى آخر الجملة ليس في المخطوطة.]] .
+
+* *
+
+القول في تأويل قوله تعالى ﴿وَالسَّلْوَى﴾
+
+قال أبو جعفر: و"السلوى" اسم طائر يشبه السُّمانَى، واحده وجِماعه بلفظ واحد، كذلك السماني لفظ جماعها وواحدها سواء. وقد قيل: إن واحدة السلوى سلواة.
+
+ذكر من قال ذلك:
+
+٩٧٩ - حدثني موسى بن هارون قال، حدثني عمرو بن حماد قال، حدثنا أسباط، عن السدي في خبر ذكره عن أبي مالك، وعن أبي صالح، عن ابن عباس، وعن مرة الهمداني، عن ابن مسعود، وعن ناس من أصحاب النبي ﷺ: السلوى طير يشبه السُّمانى. [[الأثر: ٩٧٨ - اقتصر في المخطوطة على بعض هذا الإسناد، إلى قوله: عن السدي"، وأسقط الباقي، وهو الإسناد الدائر في تفسيره، فكأن كل إسناد وقف على السدي، هو هذا الإسناد، ثم اجتزأ ببعضه عن جميعه، كما مضى آنفًا، وكما سيأتي بعد.]] .
+
+٩٨٠ - حدثني موسى بن هارون قال، حدثنا عمرو قال، حدثنا أسباط، عن السدي قال: كان طيرا أكبر من السمانى.
+
+٩٨١ - حدثنا الحسن بن يحيى قال، أخبرنا عبد الرزاق قال، أخبرنا معمر، عن قتادة قال: السلوى: طائر كانت تحشرها عليهم الريح الجنوب.
+
+٩٨٢ - حدثني محمد بن عمرو قال، حدثنا أبو عاصم قال، حدثنا عيسى، عن ابن أبي نجيح، عن مجاهد قال: السلوى: طائر.
+
+٩٨٣ - حدثني المثنى قال، حدثنا أبو حذيفة قال، حدثنا شبل، عن ابن أبي نجيح، عن مجاهد: السلوى طير.
+
+٩٨٤ - حدثني المثنى قال، حدثنا إسحاق قال، حدثنا إسماعيل بن عبد الكريم قال، حدثني عبد الصمد قال: سمعت وهبا - وسئل: ما السلوى؟ فقال: طير سمين مثل الحمام. [[الأثر ٩٨٤ - بعض أثر سيأتي برقم: ٩٩٥.]]
+
+٩٨٥ - حدثني يونس بن عبد الأعلى قال، أخبرنا ابن وهب قال، قال ابن زيد: السلوى طير.
+
+٩٨٦ - حدثنا المثنى قال، حدثنا إسحاق قال، حدثنا ابن أبي جعفر، عن أبيه، عن الربيع بن أنس: السلوى كان طيرا يأتيهم مثل السمانى.
+
+٩٨٧ - حدثني المثنى قال، حدثنا الحماني قال، حدثنا شريك، عن مجالد، عن عامر، قال: السلوى السمانى.
+
+٩٨٨ - حدثت عن المنجاب قال، حدثنا بشر، عن أبي روق، عن الضحاك، عن ابن عباس قال: السلوى، هو السمانى.
+
+٩٨٩ - حدثنا أحمد بن إسحاق قال، أخبرنا أبو أحمد قال، حدثنا شريك، عن مجالد، عن عامر قال: السلوى السمانى.
+
+٩٩٠ - حدثنا ابن بشار قال، حدثنا أبو عامر قال، حدثنا قرة، عن الضحاك قال: السمانى هو السلوى.
+
+* *
+
+فإن قال قائل: وما سبب تظليل الله جل ثناؤه الغمام، وإنزاله المن والسلوى على هؤلاء القوم؟
+
+قيل: قد اختلف أهل العلم في ذلك. ونحن ذاكرون ما حضرنا منه: -
+
+٩٩١ - فحدثنا موسى بن هارون قال، حدثنا عمرو بن حماد قال، حدثنا أسباط بن نصر، عن السدي: لما تاب الله على قوم موسى، [[في المخطوطة: "على موسى" بحذف"قوم".]] وأحيا السبعين الذين اختارهم موسى بعد ما أماتهم، أمرهم الله بالسير إلى أريحا، [[في المطبوعة: "بالمسير"، وهما سواء.]] وهي أرض بيت المقدس. فساروا حتى إذا كانوا قريبا منها بعث موسى اثني عشر نقيبا. فكان من أمرهم وأمر الجبارين وأمر قوم موسى، ما قد قص الله في كتابه. [[هذا اختصار، وتفصيله في التاريخ في موضعه، كما سيأتي في موضعه من ذكره مراجعه.]]
+
+فقال قوم موسى لموسى: ﴿اذهب أنت وربك فقاتلا إنا هاهنا قاعدون﴾ . فغضب موسى فدعا عليهم فقال: ﴿رب إني لا أملك إلا نفسي وأخي فافرق بيننا وبين القوم الفاسقين﴾ . فكانت عَجْلَةً من موسى عجلها، فقال الله تعالى: ﴿إنها محرمة عليهم أربعين سنة يتيهون في الأرض﴾ . فلما ضرب عليهم التيه، ندم موسى، وأتاه قومه الذين كانوا معه يطيعونه فقالوا له: ما صنعت بنا يا موسى؟ فلما ندم، أوحى الله إليه: أن لا تأس على القوم الفاسقين - أي لا تحزن على القوم الذين سميتهم فاسقين - فلم يحزن، فقالوا: يا موسى كيف لنا بماء ههنا؟ أين الطعام؟ فأنزل ألله عليهم المن - فكان يسقط على شجر الترنجبين [[في المخطوطة وحدها: "الزنجبيل". وانظر ما مضى: ٩٢.]] - والسلوى = وهو طير يشبه السمانى = فكان يأتي أحدهم فينظر إلى الطير، إن كان سمينا ذبحه وإلا أرسله، فإذا سمن أتاه. فقالوا: هذا الطعام، فأين الشراب؟ فأمر موسى فضرب بعصاه الحجر فانفجرت منه اثنتا عشرة عينا، فشرب كل سبط من عين. فقالوا: هذا الطعام والشراب؟ فأين الظل؟ فظلل عليهم الغمام. فقالوا: هذا الظل، فأين اللباس؟ فكانت ثيابهم تطول معهم كما تطول الصبيان، ولا يتخرق لهم ثوب، فذلك قوله: ﴿وظللنا عليكم الغمام وأنزلنا ع
+
+[TRUNCATED at 12000 chars — 5530 more. Consult the source directly before relying on anything near the cut.]
 
 ### al-Muyassar (Arabic)
 
-واذكروا نعمتنا عليكم حين كنتم تتيهون في الأرض؛ إذ جعلنا السحاب مظللا عليكم من حَرِّ الشمس، وأنزلنا عليكم المنَّ، وهو شيء يشبه الصَّمغ طعمه كالعسل، وأنزلنا عليكم السَّلوى وهو طير يشبه السُّمانَى، وقلنا لكم: كلوا من طيِّبات ما رزقناكم، ولا تخالفوا دينكم، فلم تمتثلوا. وما ظلمونا بكفران النعم، ولكن كانوا أنفسهم يظلمون؛ لأن عاقبة الظلم عائدة عليهم.
+واذكروا نعمتنا عليكم حين كنتم تتيهون في الأرض؛ إذ جعلنا السحاب مظللًا عليكم مِن حَرِّ الشمس، وأنزلنا عليكم المنَّ، وهو شيء يشبه الصَّمْغ طعمه كالعسل، وأنزلنا عليكم السَّلوى، وهو طير يشبه السُّمانى، وقلنا لكم: كلوا من طيِّبات ما رزقناكم، ولا تخالفوا دينكم، فلم تمتثلوا. وما ظلمونا بكفران النِّعم، ولكن كانوا أنفسَهم يظلمون؛ لأن عاقبة الظلم عائدة عليهم.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿وظَلَّلْنا عَلَيْكُمْ الغَمام﴾ سَتَرْناكُمْ بِالسَّحابِ الرَّقِيق مِن حَرّ الشَّمْس فِي التِّيه ﴿وأَنْزَلْنا عَلَيْكُمْ﴾ فِيهِ ﴿المَنّ والسَّلْوى﴾ هُما الترنجبين والطَّيْر السُّمانى بِتَخْفِيفِ المِيم والقَصْر وقُلْنا: ﴿كُلُوا مِن طَيِّبات ما رَزَقْناكُمْ﴾ ولا تَدَّخِرُوا فَكَفَرُوا النِّعْمَة وادَّخَرُوا فَقَطَعَ عَنْهُمْ ﴿وما ظَلَمُونا﴾ بِذَلِكَ ﴿ولَكِنْ كانُوا أنْفُسهمْ يَظْلِمُونَ﴾ لِأَنَّ وباله عَلَيْهِمْ
 
 ---
 
@@ -81,20 +484,191 @@ And We shaded you with clouds. This A0yah mentions the white clouds that provide
 
 ### Ibn Kathir (English)
 
+And (remember) when We said: "Enter this town (Jerusalem) and eat bountifully therein with pleasure and delight wherever you wish, and enter the gate in prostration (or bowing with humility) and say: 'Forgive us,' and We shall forgive you your sins and shall increase (reward) for the good-doers. (58)But those who did wrong changed the word from that which had been told to them for another, so We sent upon the wrongdoers Rijz (a punishment) from the heaven because of their rebellion (59)
+
 The Jews were Rebellious instead of Appreciative when They gained Victory
-Allah admonished the Jews for avoiding Jihad and not entering the holy land as they had been ordered to do when they came from Egypt with Musa. They were also commanded to fight the disbelieving `Amaliq (Canaanites) dwelling in the holy land at that time. But they did not want to fight, because they were weak and exhausted. Allah punished them by causing them to become lost, and to continue wandering, as Allah has state...
+
+Allah admonished the Jews for avoiding Jihad and not entering the holy land as they had been ordered to do when they came from Egypt with Musa. They were also commanded to fight the disbelieving 'Amaliq (Canaanites) dwelling in the holy land at that time. But they did not want to fight, because they were weak and exhausted. Allah punished them by causing them to become lost, and to continue wandering, as Allah has stated in Surat Al-Ma'idah (5). The correct opinion about the meaning of, 'the holy land' mentioned here is that it was Bayt Al-Maqdis (Jerusalem), as As-Suddi, Ar-Rabi' bin Anas, Qatadah and Abu Muslim Al-Asfahani, as well as others have stated. Musa said,
+
+يَا قَوْمِ ادْخُلُوا الْأَرْضَ الْمُقَدَّسَةَ الَّتِي كَتَبَ اللَّهُ لَكُمْ وَلَا تَرْتَدُّوا
+
+(O people! Enter the holy land which Allah has assigned to you and turn not back (in flight).)(5:21)
+
+However, some scholars said that the holy land is Jericho, (Ariha') and this opinion was mentioned from Ibn 'Abbas and 'Abdur-Rahman bin Zayd.
+
+After the years of wandering ended forty years later, in the company of Yuwsha' (Joshua) bin Nun, Allah allowed the Children of Israel to conquer the holy land on the eve of a Friday. On that day, the sun was kept from setting for a little more time, until victory was achieved. When the Children of Israel conquered the holy land, they were commanded to enter its gate while,
+
+سُجَّدًا
+
+(prostrating) in appreciation to Allah for making them victorious, triumphant, returning them to their land and saving them from being lost and wandering. Al-'Awfi said that Ibn 'Abbas said that,
+
+وَادْخُلُواْ الْبَابَ سُجَّدًا
+
+(and enter the gate Sujjadan) means, "While bowing". Ibn Jarir reported Ibn 'Abbas saying,
+
+وَادْخُلُواْ الْبَابَ سُجَّدًا
+
+(and enter the gate in prostration) means, "Through a small door while bowing." Al-Hakim narrated it, and Ibn Abi Hatim added, "And they went through the door backwards!" Al-Hasan Al-Basri said that they were ordered to prostrate on their faces when they entered the city, but Ar-Razi discounted this explanation. It was also said that the Sujud mentioned here means, 'submissiveness', for actually entering while prostrating is not possible.
+
+Khasif said that 'Ikrimah said that Ibn 'Abbas said, "The door mentioned here was facing the Qiblah." Ibn 'Abbas, Mujahid, As-Suddi, Qatadah and Ad-Dahhak said that the door is the door of Hittah in Iylya', which is Jerusalem. Ar-Razi also reported that some of them said that it was a door in the direction of the Qiblah". Khasif said that 'Ikrimah said that Ibn 'Abbas said that the Children of Israel entered the door sideways. As-Suddi said that Abu Sa'id Al-Azdy said that Abu Al-Kanud said that 'Abdullah bin Mas'ud said that they were commanded to,
+
+وَادْخُلُواْ الْبَابَ سُجَّدًا
+
+(enter the gate in prostration (or bowing with humility)) but instead, they entered while their heads were raised in defiance.
+
+Allah said next,
+
+وَقُولُواْ حِطَّةٌ
+
+(and say: 'Hittah'). Ibn 'Abbas commented, "Seek Allah's forgiveness." Al-Hasan and Qatadah said that it means, "Say, 'Relieve us from our errors."
+
+نَّغْفِرْ لَكُمْ خَطَايَاكُمْ ۚ وَسَنَزِيدُ الْمُحْسِنِينَ
+
+(and We shall forgive you your sins and shall increase (reward) for the good-doers) Here is the reward for fulfilling Allah's commandment. This Ayah means, "If you implement what We commanded you, We will forgive your sins and multiply your good deeds." In summary, upon achieving victory, the Children of Israel were commanded to submit to Allah in tongue and deed and, to admit to their sins and seek forgiveness for them, to be grateful to Allah for the blessings He gave them, hastening to do the deeds that Allah loves, as He said,
+
+إِذَا جَاءَ نَصْرُ اللَّهِ وَالْفَتْحُ - وَرَأَيْتَ النَّاسَ يَدْخُلُونَ فِي دِينِ اللَّهِ أَفْوَاجًا - فَسَبِّحْ بِحَمْدِ رَبِّكَ وَاسْتَغْفِرْهُ إِنَّهُ كَانَ تَوَّابًا
+
+(When there comes the help of Allah (to you, O Muhammad ﷺ against your enemies) and the conquest (of Makkah). And you see that the people enter Allah's religion (Islam) in crowds. So glorify the praises of your Lord, and ask His forgiveness. Verily, He is the One Who accepts the repentance.)(110).
+
+Allah said,
+
+فَبَدَّلَ الَّذِينَ ظَلَمُوا قَوْلًا غَيْرَ الَّذِي قِيلَ لَهُمْ
+
+(But those who did wrong changed the word from that which had been told to them for another).
+
+Al-Bukhari recorded Abu Hurayrah saying that the Prophet ﷺ said,
+
+قِيلَ لِبَنِي إِسْرَائِيلَ ادْخُلُوا الْبَابَ سُجَّدًا وَقُولُوا: حِطَّةٌ، فَدَخَلُوا يَزْحَفُون عَلى أَسْتَاهِهِم فَبَدَّلُوا وَقَالُوا، حَبَّةٌ فِي شَعْرَةٍ
+
+(The Children of Israel were commanded to enter the door while bowing and to say 'Hittah'. Yet, they entered the door on their behinds, distorting the words. They said; 'Habbah (seed), in Sha'rah (a hair).')
+
+An-Nasa'i recorded this part of it from Abu Hurayrah only, but he has a chain from the Prophet ﷺ, explaining Allah's statement,
+
+حِطَّةٌ
+
+('Hittah'), saying, "So they deviated and said 'Habbah." Similar was recorded by 'Abdur-Razzaq, and his route was also collected by Al-Bukhari. Muslim and At-Tirmidhi narrated similar versions of this Hadith, At-Tirmidhi said, "Hasan Sahih."
+
+The summary of what the scholars have said about this subject is that the Children of Israel distorted Allah's command to them to submit to Him in tongue and deed. They were commanded to enter the city while bowing down, but they entered while sliding on their rear ends and raising their heads! They were commanded to say, 'Hittah' meaning, "Relieve us from our errors and sins." However, they mocked this command and said, "Hintah (grain seed) in Sha'irah (barley)." This demonstrates the worst type of rebellion and disobedience, and it is why Allah released His anger and punishment upon them, all because of their sinning and defying His commands. Allah said,
+
+فَأَنزَلْنَا عَلَى الَّذِينَ ظَلَمُوا رِجْزًا مِّنَ السَّمَاءِ بِمَا كَانُوا يَفْسُقُونَ
+
+(So We sent upon the wrongdoers Rijz (a punishment) from the heaven because of their rebellion.)
+
+Ad-Dahhak said that Ibn 'Abbas said, "Every word in Allah's Book that says Rijz means, 'a punishment.'" Mujahid, Abu Malik, As-Suddi, Al-Hasan and Qatadah were reported to have said that Rijz means 'Torment.' Ibn Abi Hatim narrated that Sa'd bin Malik, Usamah bin Zayd and Khuzaymah bin Thabit said that the Messenger of Allah ﷺ said,
+
+الطَّاعُونُ رِجْزٌ. عَذَابٌ عُذِّبَ بِهِ مَنْ كَانَ قَبْلَكُم
+
+(The plague is a Rijz, a punishment with which Allah punished those before you.)
+
+This is also how An-Nasa'i recorded this Hadith. In addition, the basis of this Hadith was collected in the Two Sahihs,
+
+إِذَا سَمِعْتُمُ الطَّاعُونَ بأَرْضٍ فَلَا تَدْخُلُوهَا
+
+(If you hear of the plague in a land, then do not enter it.)
+
+Ibn Jarir recorded Usamah bin Zayd saying that the Messenger of Allah ﷺ said,
+
+إنَّ هَذَا الْوَجَعَ وَالسَّقَمَ رِجْزٌ عُذِّبَ بِهِ بَعْضُ الْأُمَمِ قَبْلَكُم
+
+(This calamity and sickness (i.e. the plague) is a Rijz, a punishment with which some nations who were before you were punished.)
+
+The basis of this Hadith was also collected in the Two Sahihs.
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله تعالى :  فَبَدَّلَ الَّذِينَ ظَلَمُوا قَوْلا غَيْرَ الَّذِي قِيلَ لَهُمْوتأويل قوله: (فبدل)، فغير . ويعني بقوله: (الذين ظلموا)، الذين فعلوا ما لم يكن لهم فعله . ويعني بقوله: (قولا غير الذي قيل لهم)، بدلوا قولا غير الذي أمروا أن يقولوه، فقالوا خلافه. وذلك هو التبديل والتغيير الذي كان منهم . وكان تبديلهم - بالقول الذي أمروا أن يقولوا - قولا غيره , (20) ما:-1019 - حدثنا به الحسن بن يحيي قال، أخبرنا عبد الرازق قال، أخبرنا معمر عن همام بن منبه، أنه سمع أبا هريرة يقول: قال رسول ...
+القول في تأويل قوله تعالى: ﴿فَبَدَّلَ الَّذِينَ ظَلَمُوا قَوْلا غَيْرَ الَّذِي قِيلَ لَهُمْ﴾
+
+وتأويل قوله: ﴿فبدل﴾ ، فغير. ويعني بقوله: ﴿الذين ظلموا﴾ ، الذين فعلوا ما لم يكن لهم فعله. ويعني بقوله: ﴿قولا غير الذي قيل لهم﴾ ، بدلوا قولا غير الذي أمروا أن يقولوه، فقالوا خلافه. وذلك هو التبديل والتغيير الذي كان منهم. وكان تبديلهم - بالقول الذي أمروا أن يقولوا - قولا غيره، [[قوله: "قولا" مفعول"تبديلهم". وأما خبر"كان" فهو قوله: "ما حدثنا به الحسن. . . ".]] ما:-
+
+١٠١٩ - حدثنا به الحسن بن يحيي قال، أخبرنا عبد الرازق قال، أخبرنا معمر عن همام بن منبه، أنه سمع أبا هريرة يقول: قال رسول الله ﷺ: قال الله لبني إسرائيل:"ادخلوا الباب سجدا وقولوا حطة نغفر لكم خطاياكم"، فبدلوا ودخلوا الباب يزحفون على أستاهم، وقالوا: حبة في شعيرة. [[الحديث: ١٠١٩ - رواه أحمد في المسند: ٨٢١٣ (ج ٢ ص ٣١٨ حلبي) ، عن عبد الرزاق، بهذا الإسناد، ولكن بلفظ"حبة في شعرة". وكذلك رواه البخاري ٦: ٣١٢، و٨: ٢٢٨- ٢٢٩ (فتح الباري) ، من طريق عبد الرازق. وذكر الحافظ (٨: ٢٢٩) أن لفظ "شعرة" رواية أكثر رواة البخاري، وأن رواية الكشميهني"شعيرة". وذكره ابن كثير ١: ١٨٠، ونسبه أيضًا لمسلم والترمذي، من رواية عبد الرزاق.]]
+
+١٠٢٠ - حدثنا ابن حميد قال، حدثنا سلمة وعلي بن مجاهد قالا حدثنا محمد بن إسحاق، عن صالح بن كيسان، عن صالح مولى التوأمة، عن أبي هريرة، عن النبي ﷺ قال:-
+
+١٠٢١ - وحدثت عن محمد بن أبي محمد مولى زيد بن ثابت، عن سعيد بن جبير، أو عن عكرمة، عن ابن عباس عن النبي ﷺ قال: دخلوا الباب - الذي أمروا أن يدخلوا منه سجدا - يزحفون على أستاههم، يقولون: حنطة في شعيرة. [[الحديث: ١٠٢٠، ١٠٢١ - هو الحديث السابق، ولكن رواه الطبري هنا بإسنادين. أحدهما صحيح متصل، والآخر ضعيف فيه راو مبهم بين ابن إسحاق ومحمد ابن أبي محمد.
+
+صالح بن كيسان المدني: تابعي ثقة. وصالح مولى التوأمة: هو ابن نبهان، وهو ثقة أيضًا، إلا أنه تغير بأخرة، فمن روى عنه قديما فحديثه صحيح. وصالح بن كيسان قديم، وهو بلديه، فالراجح أن يكون ممن سمع منه قبل تغيره.]]
+
+١٠٢٢ - وحدثني محمد بن عبد الله المحاربي قال، حدثنا عبد الله بن المبارك، عن معمر، عن همام، عن أبي هريرة، عن النبي ﷺ في قوله: ﴿حطة﴾ ، قال: بدلوا فقالوا: حبة. [[الحديث: ١٠٢٢ - هو مختصر من الحديث: ١٠١٩. وقد رواه أحمد في المسند: ٨٠٩٥ (ج ٢ ص ٣١٢ حلبي) عن يحيى بن آدم، عن ابن المبارك، بهذا الإسناد، مطولا. وكذلك رواه البخاري ٨: ١٢٥ (فتح الباري) ، مطولا، من طريق عبد الرحمن بن مهدي. عن ابن المبارك.]]
+
+١٠٢٣ - حدثنا ابن بشار قال، حدثنا عبد الرحمن بن مهدي قال، حدثنا سفيان، عن السدي، عن أبي سعيد، عن أبي الكنود، عن عبد الله: ﴿ادخلوا الباب سجدا وقولوا حطة﴾ قالوا: حنطة حمراء فيها شعيرة. فأنزل الله: ﴿فبدل الذين ظلموا قولا غير الذي قيل لهم﴾ .
+
+١٠٢٤ - حدثنا محمد بن بشار قال، حدثنا أبو أحمد الزبيري قال، حدثنا سفيان، عن الأعمش، عن المنهال بن عمرو، عن سعيد بن جبير، عن ابن عباس في قوله: ﴿ادخلوا الباب سجدا﴾ قال: ركوعا - من باب صغير، فجعلوا يدخلون من قبل أستاههم ويقولون: حنطة. فذلك قوله: ﴿فبدل الذين ظلموا قولا غير الذي قيل لهم﴾ .
+
+١٠٢٥ - حدثنا الحسن بن الزبرقان النخعي قال، حدثنا أبو أسامة، عن سفيان، عن الأعمش، عن المنهال، عن سعيد، عن ابن عباس قال: أمروا أن يدخلوا ركعا ويقولوا: حطة. قال أمروا أن يستغفروا، قال: فجعلوا يدخلون من قبل أستاههم من باب صغير ويقولون: حنطة - يستهزئون. فذلك قوله: ﴿فبدل الذين ظلموا قولا غير الذي قيل لهم﴾ .
+
+١٠٢٦ - حدثنا الحسن بن يحيي قال، أنبأنا عبد الرازق قال، أنبأنا معمر، عن قتادة والحسن: ﴿ادخلوا الباب سجدا﴾ قالا دخلوها على غير الجهة التي أمروا بها، فدخلوها متزحفين على أوراكهم، وبدلوا قولا غير الذي قيل لهم، فقالوا حبة في شعيرة.
+
+١٠٢٧ - حدثني محمد بن عمرو الباهلي. قال، حدثنا أبو عاصم، قال: حدثنا عيسى عن ابن أبي نجيح، عن مجاهد قال: أمر موسى قومه أن يدخلوا الباب سجدا ويقولوا: حطة، وطؤطئ لهم الباب ليسجدوا، فلم يسجدوا، ودخلوا على أدبارهم، وقالوا: حنطة. [[الأثر: ١٠٢٧. سيأتي تمامه في رقم: ١١١٦.]]
+
+١٠٢٨ - حدثني المثنى قال، حدثنا أبو حذيفة قال، حدثنا شبل، عن ابن أبي نجيح، عن مجاهد قال: أمر موسى قومه أن يدخلوا المسجد ويقولوا: حطة. وطؤطئ لهم الباب ليخفضوا رءوسهم، فلم يسجدوا ودخلوا على أستاهم إلى الجبل -وهو الجبل الذي تجلى له ربه- وقالوا: حنطة. فذلك التبديل الذ قال الله عز وجل: ﴿فبدل الذين ظلموا قولا غير الذي قيل لهم﴾ . [[الأثر: ١٠٢٨ - انظر ما سيأتي رقم: ١١١٧، فهو منه.]]
+
+١٠٢٩ - حدثني موسى بن هارون الهمداني [قال، حدثني عمرو بن حماد قال، حدثنا أسباط، عن السدي، عن مرة الهمداني] ،عن ابن مسعود أنه قال: إنهم قالوا:" هطى سمقا يا ازبة هزبا"، وهو بالعربية: حبة حنطة حمراء مثقوبة فيها شعيرة سوداء. فذلك قوله: ﴿فبدل الذين ظلموا قولا غير الذي قيل لهم﴾ .
+
+١٠٣٠ - حدثنا أبو كريب قال، حدثنا وكيع، عن سفيان، عن الأعمش، عن المنهال، عن سعيد بن جبير، عن ابن عباس: ﴿وادخلوا الباب سجدا﴾ قال: فدخلوا على أستاهم مقنعي رءوسهم.
+
+١٠٣١ - حدثنا سفيان بن وكيع قال، حدثنا أبي عن النضر بن عدي، عن عكرمة: ﴿وادخلوا الباب سجدا﴾ فدخلوا مقنعي رءوسهم - ﴿وقولوا حطة﴾ فقالوا: حنطة حمراء فيها شعيرة. فذلك قوله: ﴿فبدل الذين ظلموا قولا غير الذي قيل لهم﴾ .
+
+١٠٣٢ - حدثت عن عمار بن الحسن قال، حدثنا ابن أبي جعفر، عن أبيه، عن الربيع بن أنس: ﴿وادخلوا الباب سجدا وقولوا حطة﴾ ، قال: فكان سجود أحدهم على خده. و ﴿قولوا حطة﴾ نحط عنكم خطاياكم، فقالوا: حنطة. وقال بعضهم: حبة في شعيرة، فبدل الذين ظلموا قولا غير الذي قيل لهم.
+
+١٠٣٣ - وحدثني يونس قال، أخبرنا ابن وهب قال، قال ابن زيد: ﴿وادخلوا الباب سجدا وقولوا حطة﴾ يحط الله بها عنكم ذنبكم وخطيئاتكم، قال: فاستهزءوا به - يعني بموسى - وقالوا: ما يشاء موسى أن يلعب بنا إلا لعب بنا، حطة حطة!! أي شيء حطة؟ وقال بعضهم لبعض: حنطة.
+
+١٠٣٤ - حدثنا القاسم بن الحسن قال، حدثني الحسين قال، حدثني حجاج عن ابن جريج، وقال ابن عباس: لما دخلوا قالوا: حبة في شعيرة.
+
+١٠٣٥ - حدثني محمد بن سعد قال، حدثني أبي سعد بن محمد بن الحسن قال، أخبرني عمي، عن أبيه، عن ابن عباس قال: لما دخلوا الباب قالوا: حبة في شعيرة،"فبدلوا قولا غير الذي قيل لهم".
+
+* *
+
+القول في تأويل قوله تعالى: ﴿فَأَنزلْنَا عَلَى الَّذِينَ ظَلَمُوا رِجْزًا مِنَ السَّمَاءِ﴾
+
+يعني بقوله: ﴿فأنزلنا على الذين ظلموا﴾ ، = على الذين فعلوا ما لم يكن لهم فعله، من تبديلهم القول - الذي أمرهم الله جل وعز أن يقولوه - قولا غيره، ومعصيتهم إياه فيما أمرهم به، وبركوبهم ما قد نهاهم عن ركوبه، = ﴿رجزا من السماء بما كانوا ينسقون﴾ .
+
+* *
+
+و" الرِّجز " في لغة العرب، العذاب، وهو غير " الرُّجز ". [[الرجز (بضم فسكون) ، وهو الذي جاء في قوله تعالى في سورة المدثر: "والرجز فاهجر". وذكر الطبري فرق ما بينهما في ٢٩: ٩٢ (بولاق) فقال: "الرجز بضم الراء. . . الأوثان"]] وذلك أن الرِّجز: البثر، [[البثر: خراج صغار، كالذي يكون من الطاعون والجدري.]] ومنه الخبر الذي روي عن النبي ﷺ في الطاعون أنه قال:"إنه رجز عذب به بعض الأمم الذين قبلكم".
+
+١٠٣٦ - حدثني يونس بن عبد الأعلى قال، أخبرنا ابن وهب قال، أخبرني يونس، عن ابن شهاب قال، أخبرني عامر بن سعد بن أبي وقاص، عن أسامة بن زيد، عن رسول الله ﷺ قال:"إن هذا الوجع -أو السقم- رجز عذب له بعض الأمم قبلكم". [[الحديث: ١٠٣٦ - إسناده صحيح. وقد ذكره ابن كثير ١: ١٨٢، وقال: "وهذا الحديث أصله مخرج في الصحيحين، من حديث الزهري، ومن حديث مالك عن محمد بن المنكدر وسالم أبي النضر - عن عامر بن سعد، بنحوه". ورواه أحمد في المسند، من طريق الزهري (٥: ٢٠٧ - ٢٠٨ حلبي) . ورواية أيضًا (٥: ٢٠٩) ، من طريق حبيب بن أبي ثابت، عن إبراهيم بن سعد، عن أسامة بن زيد، مطولا.]]
+
+١٠٣٧ - وحدثني أبو شيبة بن أبي بكر بن أبي شيبة قال، حدثنا عمر بن حفص قال، حدثنا أبي، عن الشيباني، عن رياح بن عبيدة، عن عامر بن سعد قال: شهدت أسامة بن زيد عند سعد بن مالك يقول: قال رسول الله ﷺ: إن الطاعون رجز أنزل على من كان قبلكم - أو على بني إسرائيل. [[الحديث ١٠٣٧ - وهذا إسناد آخر صحيح، للحديث السابق. أبو شيبة بن أبي بكر بن أبي شيبة: هو"إبراهيم بن عبد الله بن محمد"، وهو ثقة، روى عنه أيضًا النسائي وأبو زرعة وأبو حاتم، مترجم في التهذيب، وابن أبي حاتم ١ /١/ ١١٠. عمر بن حفص بن غياث: ثقة، روى عنه البخاري ومسلم في الصحيحين. أبوه حفص بن غياث: ثقة مأمون، معروف، أخرج له الجماعة. الشيباني: هو أبو إسحاق، سليمان بن أبي سليمان، ثقة حجة. رياح بن عبيدة: هو بكسر الراء وفتح الياء التحتية المخففة، ووقع في المطبوعة"رباح" بالوحدة، وهو تصحيف. و"عبيدة" بفتح العين وكسر الباء الموحدة، ورياح هذا بصري ثقة، وثقه ابن معين وأبو زرعة، وهو مترجم في التهذيب ٣: ٢٩٩ - ٣٠٠، والكبير للبخاري ٢ / ١ /٣٠٠، وابن أبي حاتم ١ / ٢ /٥١١، والمشتبه للذهبي، ص: ٢١٢. وهو غير"رياح بن عبيدة السلمى الكوفي"، فرق بينهما المزى في التهذيب. والذهبي في المشتبه. وأنكر الحافظ ابن حجر ذلك على المزى، ولكنه تبع الذهبي في تبصير المنتبه، ولم يعقب عليه، وهو الصواب، إن شاء الله.]]
+
+* *
+
+وبمثل الذي قلنا في تأويل ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+١٠٣٨ - حدثنا الحسن بن يحيى قال، أخبرنا عبد الرزاق قال، أخبرنا معمر، عن قتادة في قوله: ﴿رجزا﴾ ، قال: عذابا.
+
+١٠٣٩ - حدثني المثنى قال، حدثنا آدم العسقلاني قال، حدثنا أبو جعفر، عن الربيع، عن أبي العالية في قوله: ﴿فأنزلنا على الذين ظلموا رجزا من السماء﴾ ، قال: الرجز، الغضب.
+
+١٠٤٠ - حدثني يونس قال، أخبرنا ابن وهب قال، قال ابن زيد: لما قيل لبني إسرائيل: - ادخلوا الباب سجدا وقولوا حطة، فبدل الذين ظلموا منهم قولا غير الذي قيل لهم - بعث الله جل وعز عليهم الطاعون، فلم يبق منهم أحدا. وقرأ: ﴿فأنزلنا على الذين ظلموا رجزا من السماء بما كانوا يفسقون﴾ ، قال: وبقي الأبناء = ففيهم الفضل والعبادة -التي توصف في بني إسرائيل- والخير = وهلك الأباء كلهم، أهلكهم الطاعون.
+
+١٠٤١ - حدثني يونس قال، أخبرنا ابن وهب قال، قال ابن زيد: االرِّجز العذاب. وكل شيء في القرآن" رِجز "، فهو عذاب.
+
+١٠٤٢ - حدثت عن المنجاب قال، حدثنا بشر، عن أبي روق، عن الضحاك، عن ابن عباس في قوله: ﴿رجزا﴾ ، قال: كل شيء في كتاب الله من " الرِّجز " يعني به العذاب.
+
+* *
+
+وقد دللنا على أن تأويل " الرِّجز" العذاب. وعذاب الله جل ثناؤه أصناف مختلفة. وقد أخبر الله جل ثناؤه أنه أنزل على الذين وصفنا أمرهم الرجز من السماء. وجائز أن يكون ذلك طاعونا، وجائز أن يكون غيره. ولا دلالة في ظاهر القرآن ولا في أثر عن الرسول ثابت، [[انظر تفسير قوله"ظاهر القرآن" فيما مضى: ٢: ١٥ والمراجع.]] أي أصناف ذلك كان.
+
+فالصواب من القول في ذلك أن يقال كما قال الله عز وجل: فأنزلنا عليهم رجزا من السماء بفسقهم.
+
+غير أنه يغلب على النفس صحة ما قاله ابن زيد، للخبر الذي ذكرت عن رسول الله ﷺ في إخباره عن الطاعون أنه رجز، وأنه عذب به قوم قبلنا. وإن كنت لا أقول إن ذلك كذلك يقينا، لأن الخبر عن رسول الله ﷺ لا بيان فيه أي أمة عذبت بذلك. وقد يجوز أن يكون الذين عذبوا به، كانوا غير الذين وصف الله صفتهم في قوله: ﴿فبدل الذين ظلموا قولا غير الذي قيل لهم﴾ .
+
+* *
+
+القول في تأويل قوله تعالى: ﴿بِمَا كَانُوا يَفْسُقُونَ (٥٩) ﴾
+
+وقد دللنا -فيما مضى من كتابنا هذا- على أن معنى"الفسق"، الخروج من الشيء. [[انظر ما سلف ١: ٤٠٩ - ٤١٠، وقد ذكر الآية هناك في أثر عن ابن عباس، فيه: "أي بما بعدوا عن امري"، (ص ٤١٠) .]]
+
+فتأويل قوله: ﴿بما كانوا يفسقون﴾ إذا: بما كانوا يتركون طاعة الله عز وجل، فيخرجون عنها إلى معصيته وخلاف أمره.
 
 ### al-Muyassar (Arabic)
 
-فبدَّل الجائرون الضالون من بني إسرائيل قول الله، وحرَّفوا القول والفعل جميعًا، إذ دخلوا يزحفون على أستاههم وقالوا: حبة في شعرة، واستهزءوا بدين الله. فأنزل الله عليهم عذابًا من السماء؛ بسبب تمردهم وخروجهم عن طاعة الله.
+فبدَّل الجائرون الضالون من بني إسرائيل قول الله، وحرَّفوا القول والفعل جميعًا، إذ دخلوا يزحفون على أستاههم وقالوا: حبة في شعرة، واستهزؤوا بدين الله. فأنزل الله عليهم عذابًا من السماء؛ بسبب تمردهم وخروجهم عن طاعة الله.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿فَبَدَّلَ الَّذِينَ ظَلَمُوا﴾ مِنهُمْ ﴿قَوْلًا غَيْر الَّذِي قِيلَ لَهُمْ﴾ فَقالُوا: حَبَّة فِي شَعْرَة ودَخَلُوا يَزْحَفُونَ عَلى أسْتاههمْ ﴿فَأَنْزَلْنا عَلى الَّذِينَ ظَلَمُوا﴾ فِيهِ وضْع الظّاهِر مَوْضِع المُضْمَر مُبالَغَة فِي تَقْبِيح شَأْنهمْ ﴿رِجْزًا﴾ عَذابًا طاعُونًا ﴿مِن السَّماء بِما كانُوا يَفْسُقُونَ﴾ بِسَبَبِ فِسْقهمْ أيْ خُرُوجهمْ عَنْ الطّاعَة فَهَلَكَ مِنهُمْ فِي ساعَة سَبْعُونَ ألْفًا أوْ أقَلّ
 
 ---
 
@@ -102,21 +676,97 @@ Allah admonished the Jews for avoiding Jihad and not entering the holy land as t
 
 ### Ibn Kathir (English)
 
+And (remember) when Musa asked for water for his people, We said: "Strike the stone with your stick." Then gushed forth therefrom twelve springs. Each (group of) people knew its own place for water. "Eat and drink of that which Allah has provided and do not act corruptly, making mischief on the earth. (60)
+
 Twelve Springs gush forth
+
 Allah said, "Remember My favor on you when I answered the supplication of your Prophet, Musa, when he asked Me to provide you with water. I made the water available for you, making it gush out through a stone. Twelve springs burst out of that stone, a designated spring for each of your tribes. You eat from the manna and the quails and drink from the water that I provided for you, without any effort or hardship for you. So worship the One Who did this for you.
-وَلاَ ت...
+
+وَلَا تَعْثَوْا فِي الْأَرْضِ مُفْسِدِينَ
+
+(And do not act corruptly, making mischief on the earth) meaning, "Do not return the favor by committing acts of disobedience that cause favors to disappear."
+
+Ibn 'Abbas said that the Children of Israel, "Had a square stone that Musa was commanded to strike with his staff and, as a result, twelve springs burst out of that stone, three on each side. Each tribe was, therefore, designated a certain spring, and they used to drink from their springs. They never had to travel from their area, they would find the same bounty in the same manner they had in the first area."This narration is part of the long Hadith that An-Nasa'i, Ibn Jarir and Ibn Abi Hatim recorded about the trials.
+
+This story is similar to the story in Surat Al-'Araf (Chapter 7) although the latter was revealed in Makkah. In Surat Al-A'raf, Allah used the third person when He mentioned the Children of Israel to the Prophet ﷺ and narrated what He favored them with. In this Surat Al-Baqarah, which was revealed in Al-Madinah, Allah directed His Speech at the Children of Israel. Further, Allah said in Surat Al-A'raf,
+
+فَانبَجَسَتْ مِنْهُ اثْنَتَا عَشْرَةَ عَيْنًا
+
+(And there gushed forth out of it twelve springs)(7:160), describing what first occurred when the water begins to gush out. In the Ayah in Surat Al-Baqarah, Allah described what happened later on, meaning when the water burst out in full force. Allah knows best.
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله تعالى :  وَإِذِ اسْتَسْقَى مُوسَى لِقَوْمِهِ فَقُلْنَا اضْرِبْ بِعَصَاكَ الْحَجَرَ فَانْفَجَرَتْ مِنْهُ اثْنَتَا عَشْرَةَ عَيْنًا قَدْ عَلِمَ كُلُّ أُنَاسٍ مَشْرَبَهُمْيعني بقوله: (وإذ استسقى موسى لقومه) ، وإذ استسقانا موسى لقومه، أي سألنا أن نسقي قومه ماء . فترك ذكر المسئول ذلك , والمعنى الذي سأل موسى, (32) إذْ كان فيما ذكر من الكلام الظاهر دلالة على معنى ما ترك.وكذلك قوله: (فقلنا اضرب بعصاك الحجر فانفجرت منه اثنتا عشرة عينا)، مما استغني بدلالة الظاهر على المتروك منه . وذ...
+القول في تأويل قوله تعالى: ﴿وَإِذِ اسْتَسْقَى مُوسَى لِقَوْمِهِ فَقُلْنَا اضْرِبْ بِعَصَاكَ الْحَجَرَ فَانْفَجَرَتْ مِنْهُ اثْنَتَا عَشْرَةَ عَيْنًا قَدْ عَلِمَ كُلُّ أُنَاسٍ مَشْرَبَهُمْ﴾
+
+يعني بقوله: ﴿وإذ استسقى موسى لقومه﴾ ، وإذ استسقانا موسى لقومه، أي سألنا أن نسقي قومه ماء. فترك ذكر المسئول ذلك، والمعنى الذي سأل موسى، [[قوله" والمعنى الذي سأل موسى"، يعني"والشيء" وهو الماء]] إذْ كان فيما ذكر من الكلام الظاهر دلالة على معنى ما ترك.
+
+وكذلك قوله: ﴿فقلنا اضرب بعصاك الحجر فانفجرت منه اثنتا عشرة عينا﴾ ، مما استغني بدلالة الظاهر على المتروك منه. وذلك أن معنى الكلام: فقلنا اضرب بعصاك الحجر، فضربه، فانفجرت. فترك ذكر الخبر عن ضرب موسى الحجر، إذ كان فيما ذكر دلالة على المراد منه.
+
+وكذلك قوله: ﴿قد علم كل أناس مشربهم﴾ ، إنما معناه: قد علم كل أناس منهم مشربهم. فترك ذكر"منهم" لدلالة الكلام عليه.
+
+* *
+
+وقد دللنا فيما مضى على أن"أناس" جمع لا واحد له من لفظه، [[في المطبوعة: "ان الناس جمع لا واحد له"، وقد مضى ذلك، ولكنه هنا أراد"أناس"، المذكور في الآية، وهو أيضًا جمع لا واحد له من لفظه، وإن قال بعضهم إنه جمع إنس]] وأن"الإنسان" لو جمع على لفظه لقيل: أناسيّ وأناسية. [[انظر ما سلف ١: ٢٦٨.]]
+
+* *
+
+وقوم موسى هم بنو إسرائيل، الذين قص الله عز وجل قصصهم في هذه الآيات. وإنما استسقى لهم ربه الماء في الحال التي تاهوا فيها في التيه، كما:-
+
+١٠٤٣ - حدثنا بشر بن معاذ قال، حدثنا يزيد بن زريع، عن سعيد بن أبي عروبة، عن قتادة قوله: ﴿وإذ استسقى موسى لقومه﴾ الآية قال، كان هذا إذْ هم في البرية اشتكوا إلى نبيهم الظمأ، فأمروا بحجر طوري - أي من الطور - أن يضربه موسى بعصاه. فكانوا يحملونه معهم، فإذا نزلوا ضربه موسى بعصاه فانفجرت منه اثنتا عشرة عينا، لكل سبط عين معلومة مستفيض ماؤها لهم.
+
+١٠٤٤ - حدثني تميم بن المنتصرقال، حدثنا يزيد بن هارون قال، حدثنا أصبغ بن زيد، عن القاسم بن أبي أيوب، عن سعيد بن جبير، عن ابن عباس قال: ذلك في التيه؛ ظلل عليهم الغمام، وأنزل عليهم المن والسلوى، وجعل لهم ثيابا لا تبلى ولا تتسخ، وجُعل بين ظهرانيهم حجر مربع، وأمر موسى فضرب بعصاه الحجر، فانفجرت منه اثنتا عشرة عينا في كل ناحية منه ثلاث عيون، لكل سبط عين؛ ولا يرتحلون منقلة إلا وجدوا ذلك الحجر معهم بالمكان الذي كان به معهم في المنزل الأول. [[المنقلة: المرحلة من مراحل السفر، والجمع مناقل.]] .
+
+١٠٤٥ - حدثني عبد الكريم قال، أخبرنا إبراهيم بن بشار قال، حدثنا سفيان، عن أبي سعيد، عن عكرمة عن ابن عباس قال: ذلك في التيه. ضرب لهم موسى الحجر، فصار فيه اثنتا عشرة عينا من ماء، لكل سبط منهم عين يشربون منها.
+
+١٠٤٦ - وحدثني محمد بن عمرو قال، حدثنا أبو عاصم قال، حدثنا عيسى، عن ابن أبي نجيح، عن مجاهد: ﴿فقلنا اضرب بعصاك الحجر فانفجرت منه اثنتا عشرة عينا﴾ لكل سبط منهم عين. كل ذلك كان في تيههم حين تاهوا.
+
+١٠٤٧ - حدثنا القاسم بن الحسن قال، حدثنا الحسين قال، حدثني حجاج ، عن ابن جريج، عن مجاهد قوله: ﴿وإذ استسقى موسى لقومه﴾ ، قال: خافوا الظمأ في تيههم حين تاهوا، فانفجر لهم الحجر اثنتي عشرة عينا، ضربه موسى. قال ابن جريج: قال ابن عباس:"الأسباط" بنو يعقوب، كانوا اثني عشر رجلا كل واحد منهم ولد سبطا، أمة من الناس. [[في المطبوعة: "ولد سبطا وأمة من الناس"، والصواب حذف واو العطف فإن قوله "أمة من الناس" تفسير قوله"سبطا".]]
+
+١٠٤٨ - وحدثني يونس بن عبد الأعلى قال، أخبرنا ابن وهب قال، قال ابن زيد: استسقى لهم موسى في التيه، فسقوا في حجر مثل رأس الشاة، قال: يلقونه في جوانب الجوالَق إذا ارتحلوا، [[الجوالق: وعاء كبير منسوج من صوف أو شعر، تحمل فيه الأطعمة، وهو الذي نسميه في بلادنا"الشوال" محرفة من"الجوالق".]] ويقرعه موسى بالعصا إذا نزل، فتنفجر منه اثنتا عشرة عينا، لكل سبط منهم عين، فكان بنو إسرائيل يشربون منه، حتى إذا كان الرحيل استمسكت العيون، وقيل به فألقى في جانب الجوالق [["قيل به" مبني للمجهول من"قال به". وقال بالشيء: رفعه أو حمله. والعرب تجعل القول عبارة عن جميع الأفعال وتطلقه على غير الكلام واللسان. يقولون: قال برجله: إذا بدأ يتقدم ومشى، أو إذا أشار بها للركل. ويقولون: قال بالماء على يده أي قلبه وصبه. وما أشبه ذلك. وقد مضى مثل ذلك آنفًا ص ٥٤ تعليق: ٣، ص: ٦٤ تعليق: ٤.]] . فإذا نزل رمى به، فقرعه بالعصا، فتفجرت عين من كل ناحية مثل البحر.
+
+١٠٤٩ - حدثني موسى بن هارون قال، حدثنا عمرو بن حماد قال، حدثني أسباط، عن السدي قال: كان ذلك في التيه.
+
+* *
+
+وأما قوله: ﴿قد علم كل أناس مشربهم﴾ ، فإنما أخبر الله عنهم بذلك. لأن معناهم -في الذي أخرج الله جل وعز لهم من الحجر، الذي وصف جل ذكره في هذه الآية صفته- [[سياق الجملة "لأن معناهم. . من الشرب، كالذي مخالفا معاني"، وفصل كعادته فيما بينا مرارا. يعني لأن شربهم كان مخالفا شرب سائر الناس. .]] من الشرب كان مخالفا معاني سائر الخلق فيما أخرج الله لهم من المياه من الجبال والأرضين، التي لا مالك لها سوى الله عز وجل. وذلك أن الله كان جعل لكل سبط من الأسباط الاثني عشر، عينا من الحجر الذي وصف صفته في هذه الآية، يشرب منها دون سائر الأسباط غيره، لا يدخل سبط منهم في شرب سبط غيره. وكان مع ذلك لكل عين من تلك العيون الاثنتي عشرة، موضع من الحجر قد عرفه السبط الذي منه شربه. فلذلك خص جل ثناؤه هؤلاء بالخبر عنهم: أن كل أناس منهم كانوا عالمين بمشربهم دون غيرهم من الناس. إذ كان غيرهم -في الماء الذي لا يملكه أحد- شركاء في منابعه ومسايله. وكان كل سبط من هؤلاء مفردا بشرب منبع من منابع الحجر - دون سائر منابعه - خاص لهم دون سائر الأسباط غيرهم. فلذلك خصوا بالخبر عنهم: أن كل أناس منهم قد علموا مشربهم.
+
+* *
+
+القول في تأويل قوله تعالى: ﴿كُلُوا وَاشْرَبُوا مِنْ رِزْقِ اللَّهِ﴾
+
+وهذا أيضا مما استغني بذكر ما هو ظاهر منه، عن ذكره ما ترك ذكره. وذلك أن تأويل الكلام: ﴿فقلنا اضرب بعصاك الحجر﴾ ، فضربه فانفجرت منه اثنتا عشرة عينا، قد علم كل أناس مشربهم، فقيل لهم: كلوا واشربوا من رزق الله. أخبر الله جل ثناؤه أنه أمرهم بأكل ما رزقهم في التيه من المن والسلوى، وبشرب ما فجر لهم فيه من الماء من الحجر المتعاور، [[الحجر المتعاور: الحجر المتبادل، ينقل من يد إلى يد. من تعاوروا الشيء: إذا تبادلوه، ولا يتعاور شيء حتى يكون منقولا، أما الثابت فلا يتعاوره الناس ولا يتبادلونه.]] الذي لا قرار له في الأرض، ولا سبيل إليه [إلا] لمالكيه، [[في المطبوعة: "لا سبيل إليه لمالكيه"، وهو كلام بلا معنى. والصواب ما أثبتناه بزيادة"إلا" ويدل على صواب ذلك ما مضى منذ قليل في تفسير ما سبق من الآية.]] يتدفق بعيون الماء، ويزخر بينابيع العذب الفرات، بقدرة ذي الجلال والإكرام.
+
+ثم تقدم جل ذكره إليهم [[تقدم إليه بكذا: إذا أمره.]] - مع إباحتهم ما أباح، وإنعامه بما أنعم به عليهم من العيش الهنيء - بالنهي عن السعي في الأرض فسادا، والعَثَا فيها استكبارا، فقال جل ثناؤه لهم: ﴿ولا تعثوا في الأرض مفسدين﴾ .
+
+* *
+
+القول في تأويل قوله تعالى: ﴿وَلا تَعْثَوْا فِي الأَرْضِ مُفْسِدِينَ (٦٠) ﴾
+
+يعني بقوله: ﴿لا تعثوا﴾ لا تطغوا، ولا تسعوا في الأرض مفسدين. كما:-
+
+١٠٥٠ - حدثني به المثنى قال، حدثنا آدم قال، حدثنا أبو جعفر، عن الربيع، عن أبي العالية: ﴿ولا تعثوا في الأرض مفسدين﴾ ، يقول: لا تسعوا في الأرض فسادا.
+
+١٠٥١ - حدثني يونس قال، أخبرنا ابن وهب قال، قال ابن زيد في قوله: ﴿ولا تعثوا في الأرض مفسدين﴾ لا تعث: لا تطغ.
+
+١٠٥٢ - حدثنا بشر بن معاذ قال، حدثنا يزيد بن زريع قال، حدثنا سعيد، عن قتادة: ﴿ولا تعثوا في الأرض مفسدين﴾ ، أي لا تسيروا في الأرض مفسدين.
+
+١٠٥٣ - حدثت عن المنجاب قال، حدثنا بشر، عن أبي روق، عن الضحاك، عن ابن عباس: ﴿ولا تعثوا في الأرض مفسدين﴾ ، لا تسعوا في الأرض.
+
+وأصل " العَثَا " شدة الإفساد، بل هو أشد الإفساد. [[العثا: مصدر: عثى يعثى، كرضى يرضى، وهي لغة الحجاز. ولم أجد هذا المصدر إلا في تاج العروس. ولست أعلم أهو بفتح العين ام بكسرها. ولكني أستظهر أن يكون فتح العين هو الأرجح.]] يقال منه: عَثِيَ فلان في الأرض" -إذا تجاوز في الإفساد إلى غايته-"يعثى عثا" مقصور، وللجماعة: هم يعثون. وفيه لغتان أخريان، إحداهما: "عثا يعثو عُثُوّا ". ومن قرأها بهذه اللغة، فإنه ينبغي له أن يضم الثاء من"يعثو"، ولا أعلم قارئا يقتدى بقراءته قرأ به. [["القراءة سنة، ولا يقرأ بما قرأ به القراء". لسان العرب (عثى) .]] ومن نطق بهذه اللغة مخبرا عن نفسه قال:"عثوت أعثو"، ومن نطق باللغة الأولى قال: عَثِيت أَعْثَى".
+
+والأخرى منهما:"عاث يعيث عيثا وعيوثا وعيثانا، كل ذلك بمعنى واحد. ومن"العيث" قول رؤبة بن العجاج:
+
+وعاث فينا مستحل عائث: ... مُصَدِّق أو تاجر مقاعث [[ديوانه" ٣٠. مستحل: قد استحل أموالهم واستباحها. والمصدق: هو العامل الذي يقبض زكاة أموال الناس، وهو وكيل الفقراء في القبض، وله أن يتصرف لهم بما يؤديه إليه اجتهاده، فربما جار إذا لم يكن من أهل الورع. قعث الشيء يقعثه: استأصله واستوعبه. وقعثه فانقعث: إذا قلعه من أصله فانقلع. ولم تذكر معاجم اللغة: " قاعث فهو مقاعث"، ولكنه لما أراد أن التاجر يأتي بظلمه وجوره وإغلائه السعر، فيستأصل أموال الناس ويقتلعها، والناس يدافعونه عن أموالهم - اشتق له من المفاعلة التي تكون بين اثنين: "قاعث فهو مقاعث"، أي يحاول استئصال أموال الناس، والناس يدافعونه عن أموالهم.]]
+
+يعني بقوله:"عاث فينا"، أفسد فينا.
 
 ### al-Muyassar (Arabic)
 
-واذكروا نعمتنا عليكم -وأنتم عطاش في التِّيْه- حين دعانا موسى -بضراعة- أن نسقي قومه، فقلنا: اضرب بعصاك الحجر، فضرب، فانفجرت منه اثنتا عشرة عينًا، بعدد القبائل، مع إعلام كل قبيلة بالعين الخاصة بها حتى لا يتنازعوا. وقلنا لهم: كلوا واشربوا من رزق الله، ولا تسعوا في الأرض مفسدين.
+واذكروا نعمتنا عليكم -وأنتم عِطاشٌ في التِّيه- حين دعانا موسى -بضَراعة- أن نسقي قومه، فقلنا: اضرب بعصاك الحجر، فضرب، فانفجرت منه اثنتا عشرة عينًا، بعدد القبائل، مع إعلام كل قبيلة بالعين الخاصة بها حتى لا يتنازعوا. وقلنا لهم: كلوا واشربوا من رزق الله، ولا تسعوا في الأرض مفسدين.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿و﴾ اُذْكُرْ "إذْ اسْتَسْقى مُوسى" ﴿أيْ طَلَبَ السُّقْيا﴾ "لِقَوْمِهِ" ﴿وقَدْ عَطِشُوا فِي التِّيه﴾ "فَقُلْنا اضْرِبْ بِعَصاك الحَجَر" ﴿وهُوَ الَّذِي فَرَّ بِثَوْبِهِ خَفِيف مُرَبَّع كَرَأْسِ الرَّجُل رُخام أوْ كَذّان فَضَرَبَهُ﴾ "فانْفَجَرَتْ" ﴿انْشَقَّتْ وسالَتْ﴾ "مِنهُ اثْنَتا عَشْرَة عَيْنًا" ﴿بِعَدَدِ الأَسْباط﴾ "قَدْ عَلِمَ كُلّ أُناس" ﴿سَبْط مِنهُمْ﴾ "مَشْرَبهمْ" ﴿مَوْضِع شُرْبهمْ فَلا يَشْرَكهُمْ فِيهِ غَيْرهمْ وقُلْنا لَهُمْ﴾ "كُلُوا واشْرَبُوا مِن رِزْق اللَّه ولا تَعْثَوْا فِي الأَرْض مُفْسِدِينَ" ﴿حال مُؤَكِّدَة لِعامِلِها مِن عَثِيَ بِكَسْرِ المُثَلَّثَة أفْسَدَ﴾
 
 ---
 
@@ -124,19 +774,276 @@ Allah said, "Remember My favor on you when I answered the supplication of your P
 
 ### Ibn Kathir (English)
 
+And (remember) when you said, "O Musa ! We cannot endure one kind of food. So invoke your Lord for us to bring forth for us of what the earth grows, its herbs, its cucumber its Fum, its lentils and its onions." He said, "Would you exchange that which is better for that which is lower? Go you down to any town and you shall find what you want! (61)
+
 The Children of Israel preferred Foods inferior to Manna and Quails
-Allah said, "And remember My favor on you when I sent down the manna and quails to you, a good, pure, beneficial, easily acquired food. And remember your ungratefulness for what We granted you. Remember how you asked Musa to exchange this type of food for an inferior type that consists of vegetation, and so forth." Al-Hasan Al-Basri said about the Children of Israel, "They were bored and impatient with the type of food they w...
+
+Allah said, "And remember My favor on you when I sent down the manna and quails to you, a good, pure, beneficial, easily acquired food. And remember your ungratefulness for what We granted you. Remember how you asked Musa to exchange this type of food for an inferior type that consists of vegetation, and so forth." Al-Hasan Al-Basri said about the Children of Israel, "They were bored and impatient with the type of food they were provided. They also remembered the life they used to live, when their diet consisted of lentils, onions, garlic and herbs." They said,
+
+يَا مُوسَىٰ لَن نَّصْبِرَ عَلَىٰ طَعَامٍ وَاحِدٍ فَادْعُ لَنَا رَبَّكَ يُخْرِجْ لَنَا مِمَّا تُنبِتُ الْأَرْضُ مِن بَقْلِهَا وَقِثَّائِهَا وَفُومِهَا وَعَدَسِهَا وَبَصَلِهَا
+
+(O Musa ! We cannot endure one kind of food. So invoke your Lord for us to bring forth for us of what the earth grows, its herbs, its cucumbers, its Fum, its lentils and its onions). They said,
+
+عَلَىٰ طَعَامٍ وَاحِدٍ
+
+(One kind of food) meaning, the manna and quails, because they ate the same food day after day. The Ayah mentioned lentils, onions and herbs, which are all known types of foods. As for the Fum, Ibn Mas'ud read it, Thum (garlic). Also, Ibn Abi Hatim narrated that Al-Hasan said about the Ayah,
+
+وَفُومِهَا
+
+(Its Fum), "Ibn 'Abbas said that Fum means, garlic."
+
+He also said that the expression, 'Fumu-lanna' means, 'bake for us', according to the languages of old. Ibn Jarir commented, "If this is true, then 'Fum' is one of the words whose pronounciation were altered, the letter 'fa' was replaced by the letter 'tha', since they are similar in sound." And Allah knows best. Others said that Fum is wheat, the kind used for bread. Al-Bukhari said, "Some of them said that Fum includes all grains or seeds that are eaten."
+
+Allah's statement,
+
+قَالَ أَتَسْتَبْدِلُونَ الَّذِي هُوَ أَدْنَىٰ بِالَّذِي هُوَ خَيْرٌ
+
+(He said, "Would you exchange that which is better for that which is lower?") criticized the Jews for asking for inferior foods, although they were living an easy life, eating tasty, beneficial and pure food. Allah's statement,
+
+اهْبِطُوا مِصْرًا
+
+(Go you down to any Misr) means, 'any city', as Ibn 'Abbas said. Ibn Jarir also reported that Abu Al-'Aliyah and Ar-Rabi' bin Anas said that the Ayah refers to Misr, the Egypt of Fir'awn. The truth is that the Ayah means any city, as Ibn 'Abbas and other scholars stated. Therefore, the meaning of Musa's statement to the Children of Israel becomes, "What you are asking for is easy, for it is available in abundance in any city that you might enter. So since what you asked for is available in all of the villages and cities, I will not ask Allah to provide us with it, especially when it is an inferior type of food. " This is why Musa said to them,
+
+أَتَسْتَبْدِلُونَ الَّذِي هُوَ أَدْنَىٰ بِالَّذِي هُوَ خَيْرٌ ۚ اهْبِطُوا مِصْرًا فَإِنَّ لَكُم مَّا سَأَلْتُمْ
+
+(Would you exchange that which is better for that which is lower? Go you down to any town and you shall find what you want!)
+
+Since their request was the result of boredom and arrogance and since fulfilling it was unnecessary, their request was denied. Allah knows best.
+
+وَضُرِبَتْ عَلَيْهِمُ الذِّلَّةُ وَالْمَسْكَنَةُ وَبَاءُوا بِغَضَبٍ مِّنَ اللَّهِ ۗ ذَٰلِكَ بِأَنَّهُمْ كَانُوا يَكْفُرُونَ بِآيَاتِ اللَّهِ وَيَقْتُلُونَ النَّبِيِّينَ بِغَيْرِ الْحَقِّ ۗ ذَٰلِكَ بِمَا عَصَوا وَّكَانُوا يَعْتَدُونَ
+
+(61 cont. - And they were covered with humiliation and misery, and they drew on themselves the wrath of Allah. That was because they used to disbelieve in the Ayat (proofs, evidence) of Allah and killed the Prophets wrongfully. That was because they disobeyed and used to transgress the bounds (in their disobedience to Allah, i.e. commit crimes and sins.))(2:61)
+
+Covering the Jews in Humiliation and Misery
+
+Allah said,
+
+وَضُرِبَتْ عَلَيْهِمُ الذِّلَّةُ وَالْمَسْكَنَةُ
+
+(And they were covered with humiliation and misery). This Ayah indicates that the Children of Israel were plagued with humiliation, and that this will continue, meaning that it will never cease. They will continue to suffer humiliation at the hands of all who interact with them, along with the disgrace that they feel inwardly. Al-Hasan commented, "Allah humiliated them, and they shall have no protector. Allah put them under the feet of the Muslims, who appeared at a time when the Majus (Zoroastrians) were taking the Jizyah (tax) from the Jews." Also, Abu Al-'Aliyah, Ar-Rabi' bin Anas and As-Suddi said that 'misery' used in the Ayah means, 'poverty.' 'Atiyah Al-'Awfi said that 'misery' means, 'paying the tilth (tax).' In addition, Ad-Dahhak commented on Allah's statement,
+
+وَبَاءُوا بِغَضَبٍ مِّنَ اللَّهِ
+
+(and they drew on themselves the wrath of Allah), "They deserved Allah's anger." Also, Ibn Jarir said that,
+
+وَبَاءُوا بِغَضَبٍ مِّنَ اللَّهِ
+
+(and they drew on themselves the wrath of Allah) means, "They went back with the wrath. Similarly, Allah said,
+
+إِنِّى أُرِيدُ أَن تَبُوءَ بِإِثْمِى وَإِثْمِكَ
+
+(Verily, I intend to let you draw my sin on yourself as well as yours)(Al-Ma'idah 5:29) meaning, 'You will end up carrying my, and your, mistakes instead of me'. Thus, the meaning of the Ayah becomes, 'They went back carrying Allah's anger; Allah's wrath descended on them; they deserved Allah's anger.'"
+
+Allah's statement,
+
+ذَٰلِكَ بِأَنَّهُمْ كَانُوا يَكْفُرُونَ بِآيَاتِ اللَّهِ وَيَقْتُلُونَ النَّبِيِّينَ بِغَيْرِ الْحَقِّ
+
+(That was because they used to disbelieve in the Ayat (proofs, evidences, etc.) of Allah and killed the Prophets wrongfully.) means, "This is what We rewarded the Children of Israel with: humiliation and misery." Allah's anger that descended on the Children of Israel was a part of the humiliation they earned, because of their defiance of the truth, disbelief in Allah's Ayat and belittling the carriers of Allah's Law i.e. the Prophets and their following. The Children of Israel rejected the Messengers and even killed them. Surely, there is no form of disbelief worse than disbelieving in Allah's Ayat and murdering the Prophets of Allah.
+
+Meaning of Kibr
+
+Similarly, in a Hadith recorded in the Two Sahihs the Messenger of Allah ﷺ said,
+
+الْكِبْرُ بَطَرُ الْحَقِّ وَغَمْطُ النَّاسِ
+
+('Kibr, is refusing the truth and degrading (belittling) people.)
+
+Imam Ahmad recorded, 'Abdullah bin Mas'ud saying that the Messenger of Allah ﷺ said,
+
+أَشَدُّ النَّاسِ عَذَابًا يَوْمَ الْقِيَامَةِ رَجُلٌ قَتَلَهُ نَبِيٌّ أَوْ قَتَلَ نَبِيًّا: وَإِمَامُ ضَلَالَةٍ وَمُـمَثِّلٌ مِنَ الْمُمَثِّلِينَ
+
+(The people who will receive the most torment on the Day of Resurrection are: (1)a man who was killed by a Prophet or who killed a Prophet, (2)an unjust ruler and (3)one who mutilates (the dead).) Allah's statement,
+
+ذَٰلِكَ بِمَا عَصَوا وَّكَانُوا يَعْتَدُونَ
+
+(That was because they disobeyed and used to transgress the bounds) mentions another reason why the Children of Israel were punished in this manner, for they used to disobey and transgress the limits. Disobedience is to do what is prohibited, while transgression entails overstepping the set limits of what is allowed and what is prohibited. Allah knows best.
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله تعالى :  وَإِذْ قُلْتُمْ يَا مُوسَى لَنْ نَصْبِرَ عَلَى طَعَامٍ وَاحِدٍ فَادْعُ لَنَا رَبَّكَ يُخْرِجْ لَنَا مِمَّا تُنْبِتُ الأَرْضُ مِنْ بَقْلِهَا وَقِثَّائِهَا وَفُومِهَا وَعَدَسِهَا وَبَصَلِهَاقد دللنا -فيما مضى قبل- على معنى " الصبر " وأنه كف النفس وحبسها عن الشيء. (46) فإذ كان ذلك كذلك , فمعنى الآية إذا: واذكروا إذا قلتم -يا معشر بني إسرائيل-: لن نطيق حبس أنفسنا على طعام واحد - وذلك " الطعام الواحد "، هو ما أخبر الله جل ثناؤه أنه أطعمهموه في تيههم، وهو " السلوى " &; ...
+القول في تأويل قوله تعالى: ﴿وَإِذْ قُلْتُمْ يَا مُوسَى لَنْ نَصْبِرَ عَلَى طَعَامٍ وَاحِدٍ فَادْعُ لَنَا رَبَّكَ يُخْرِجْ لَنَا مِمَّا تُنْبِتُ الأَرْضُ مِنْ بَقْلِهَا وَقِثَّائِهَا وَفُومِهَا وَعَدَسِهَا وَبَصَلِهَا﴾
+
+قد دللنا -فيما مضى قبل- على معنى "الصبر" وأنه كف النفس وحبسها عن الشيء. [[انظر ما مضى في هذا الجزء ٢: ١١]] فإذ كان ذلك كذلك، فمعنى الآية إذا: واذكروا إذا قلتم -يا معشر بني إسرائيل-: لن نطيق حبس أنفسنا على طعام واحد - وذلك"الطعام الواحد"، هو ما أخبر الله جل ثناؤه أنه أطعمهموه في تيههم، وهو"السلوى" في قول بعض أهل التأويل، وفي قول وهب بن منبه هو"الخبز النقي مع اللحم" - فاسأل لنا ربك يخرج لنا مما تنبت الأرض من البقل والقثاء، وما سمى الله مع ذلك، وذكر أنهم سألوه موسى.
+
+* *
+
+وكان سبب مسألتهم موسى ذلك فيما بلغنا، ما: -
+
+١٠٥٤ - حدثنا به بشر بن معاذ قال، حدثنا يزيد بن زريع قال، حدثنا سعيد، عن قتادة قوله: ﴿وإذ قلتم يا موسى لن نصبر على طعام واحد﴾ قال: كان القوم في البرية قد ظلل عليهم الغمام، وأنزل عليهم المن والسلوى، فملوا ذلك، وذكروا عيشا كان لهم بمصر، فسألوه موسى. فقال الله تعالى: ﴿اهبطوا مصرا فإن لكم ما سألتم﴾ .
+
+١٠٥٥ - حدثنا الحسن بن يحيى قال، أخبرنا عبد الرزاق قال، أخبرنا معمر، عن قتادة في قوله: ﴿لن نصبر على طعام واحد﴾ ، قال: ملوا طعامهم، وذكروا عيشهم الذي كانوا فيه قبل ذلك، قالوا: ﴿ادع لنا ربك يخرج لنا مما تنبت الأرض من بقلها وقثائها وفومها﴾ الآية.
+
+١٠٥٦ - حدثني المثنى بن إبراهيم قال، حدثنا آدم قال، حدثنا أبو جعفر، عن الربيع، عن أبي العالية في قوله: ﴿وإذ قلتم يا موسى لن نصبر على طعام واحد﴾ ، قال: كان طعامهم السلوى، وشرابهم المن، فسألوا ما ذكر، فقيل لهم: ﴿اهبطوا مصرا فإن لكم ما سألتم﴾ .
+
+* *
+
+قال أبو جعفر: وقال قتادة: إنهم لما قدموا الشام فقدوا أطعمتهم التي كانوا يأكلونها، فقالوا: ﴿ادع لنا ربك يخرج لنا مما تنبت الأرض من بقلها وقثائها وفومها وعدسها وبصلها﴾ ، وكانوا قد ظلل عليهم الغمام، وأنزل عليهم المن والسلوى، فملوا ذلك، وذكروا عيشا كانوا فيه بمصر.
+
+١٠٥٧ - حدثني محمد بن عمرو قال، حدثنا أبو عاصم قال، حدثنا عيسى قال، سمعت ابن أبي نجيح في قوله عز وجل: ﴿لن نصبر على طعام واحد﴾ ، المن والسلوى، فاستبدلوا به البقل وما ذكر معه.
+
+١٠٥٨ - حدثني المثنى قال، حدثنا أبو حذيفة قال، حدثنا شبل، عن ابن أبي نجيح، عن مجاهد بمثله سواء.
+
+١٠٥٩ - حدثنا القاسم قال، حدثنا الحسين قال، حدثنا حجاج، عن ابن جريج، عن مجاهد بمثله.
+
+١٠٦٠ - حدثني موسى بن هارون قال، حدثنا عمرو بن حماد قال، حدثنا أسباط، عن السدي: أُعطوا في التيه ما أُعطوا، فملوا ذلك وقالوا: ﴿يا موسى لن نصبر على طعام واحد فادع لنا ربك يخرج لنا مما تنبت الأرض من بقلها وقثائها وفومها وعدسها وبصلها﴾ .
+
+١٠٦١ - حدثني يونس بن عبد الأعلى قال، أخبرنا ابن وهب قال، أنبأنا ابن زيد قال: كان طعام بني إسرائيل في التيه واحدا، وشرابهم واحدا. كان شرابهم عسلا ينزل لهم من السماء يقال له المن، وطعامهم طير يقال له السلوى، يأكلون الطير ويشربون العسل، لم يكونوا يعرفون خبزا ولا غيره. فقالوا: يا موسى لن نصبر على طعام واحد فادع لنا ربك يخرج لنا مما تنبت الأرض من بقلها"، فقرأ حتى بلغ: ﴿اهبطوا مصرا فإن لكم ما سألتم﴾ .
+
+* *
+
+وإنما قال جل ذكره: ﴿يخرج لنا مما تنبت الأرض﴾ - ولم يذكر الذي سألوه أن يدعو ربه ليخرج لهم من الأرض، فيقول: قالوا ادع لنا ربك يخرج لنا كذا وكذا مما تنبته الأرض من بقلها وقثائها - لأن"من" تأتي بمعنى التبعيض لما بعدها، فاكتفي بها عن ذكر التبعيض، إذ كان معلوما بدخولها معنى ما أريد بالكلام الذي هي فيه. كقول القائل: أصبح اليوم عند فلان من الطعام" يريد شيئا منه.
+
+وقد قال بعضهم:"من" ههنا بمعنى الإلغاء والإسقاط. كأن معنى الكلام عنده: يخرج لنا ما تنبت الأرض من بقلها. واستشهد على ذلك بقول العرب:"ما رأيت من أحد" بمعنى: ما رأيت أحدا، وبقول الله: ﴿وَيُكَفِّرُ عَنْكُمْ مِنْ سَيِّئَاتِكُمْ﴾ [البقرة: ٢٧١] ، وبقولهم:"قد كان من حديث، فخل عني حتى أذهب"، يريدون: قد كان حديث.
+
+وقد أنكر من أهل العربية جماعة أن تكون"من" بمعنى الإلغاء في شيء من الكلام، وادعوا أن دخولها في كل موضع دخلت فيه، مؤذن أن المتكلم مريد لبعض ما أدخلت فيه لا جميعه، وأنها لا تدخل في موضع إلا لمعنى مفهوم.
+
+فتأويل الكلام إذا - على ما وصفنا من أمر"من" [[في المطبوعة: "على ما وصفنا من أمر من ذكرنا"، و"ذكرنا" زائدة ولا شك، كما تبين من سياق كلامه السالف والآتي.]] -: فادع لنا ربك يخرج لنا بعض ما تنبت الأرض من بقلها وقثائها.
+
+* *
+
+و"البقل" و"القثاء" و"العدس" و"البصل"، هو ما قد عرفه الناس بينهم من نبات الأرض وحبها.
+
+* *
+
+وأما"الفوم"، فإن أهل التأويل اختلفوا فيه. فقال بعضهم: هو الحنطة والخبز.
+
+ذكر من قال ذلك:
+
+١٠٦٢ - حدثنا محمد بن بشار قال، حدثنا أبو أحمد ومؤمل قالا حدثنا سفيان، عن ابن أبي نجيح، عن عطاء قال: الفوم:، الخبز.
+
+١٠٦٣ - حدثنا أحمد بن إسحاق قال، حدثنا أبو أحمد، حدثنا سفيان، عن ابن جريج، عن عطاء ومجاهد قوله: ﴿وفومها﴾ قالا خبزها.
+
+١٠٦٤ - حدثني زكريا بن يحيى بن أبي زائدة ومحمد بن عمرو قالا حدثنا أبو عاصم، عن عيسى بن ميمون، عن ابن أبي نجيح، عن مجاهد: ﴿وفومها﴾ ، قال: الخبز.
+
+١٠٦٥ - حدثنا بشر بن معاذ قال، حدثنا يزيد، عن سعيد، عن قتادة والحسن: الفوم، هو الحب الذي يختبزه الناس.
+
+١٠٦٦ - حدثنا الحسن بن يحيى قال، أخبرنا عبد الرزاق قال، أخبرنا معمر، عن قتادة والحسن بمثله.
+
+١٠٦٧ - حدثني يعقوب بن إبراهيم قال، حدثنا هشيم قال، أخبرنا حصين، عن أبي مالك في قوله: ﴿وفومها﴾ قال: الحنطة.
+
+١٠٦٨ - حدثني موسى بن هارون قال، حدثنا عمرو بن حماد قال، حدثنا أسباط بن نصر عن السدي: ﴿وفومها﴾ ، الحنطة.
+
+١٠٦٩ - حدثني المثنى قال، حدثنا عمرو بن عون قال، حدثنا هشيم، عن يونس، عن الحسن وحصين، عن أبي مالك في قوله: ﴿وفومها﴾ ، الحنطة.
+
+١٠٧٠ - حدثني المثنى قال، حدثنا آدم قال، حدثنا أبو جعفر الرازي، عن قتادة قال: الفوم، الحب الذي يختبز الناس منه.
+
+١٠٧١ - حدثني القاسم قال، حدثنا الحسين قال، حدثني حجاج، عن ابن جريج قال، قال لى عطاء بن أبي رياح قوله: ﴿وفومها﴾ ، قال: خبزها، قالها مجاهد.
+
+١٠٧٢ - حدثني يونس قال، أخبرنا ابن وهب قال، قال لي ابن زيد: الفوم، الخبز.
+
+١٠٧٣ - حدثني يحيى بن عثمان السهمي قال، حدثنا عبد الله بن صالح قال، حدثني معاوية، عن علي بن أبي طلحة، عن ابن عباس في قوله: ﴿وفومها﴾ يقول: الحنطة والخبز.
+
+١٠٧٤ - حُدثت عن المنجاب قال، حدثنا بشر، عن أبي روق، عن الضحاك، عن ابن عباس في قوله: ﴿وفومها﴾ قال: هو البر بعينه، الحنطة.
+
+١٠٧٥ - حدثنا علي بن الحسن قال، حدثنا مسلم الجرمي قال، حدثنا عيسى بن يونس، عن رشدين بن كريب، عن أبيه، عن ابن عباس في قول الله عز وجل: ﴿وفومها﴾ قال: الفوم، الحنطة بلسان بني هاشم. [[الحديث: ١٠٧٥ - مسلم الجرمي: سبق أن رجحنا في: ١٥٤، ٦٤٩، ٨٤٦ أنه"الجرمي" بالجيم. وقد ثبت هنا في المطبوعة بالجيم على ما رجحنا. رشدين - بكسر الراء وسكون الشين المعجمعة وكسر الدال المهملة - بن كريب: ضعيف، بينا القول في ضعفه في شرح المسند: ٢٥٧١. وأبوه، كريب بن أبي مسلم: تابعي ثقة.]]
+
+١٠٧٦ - حدثني عبد الرحمن بن عبد الله بن عبد الحكم قال، حدثنا عبد العزيز بن منصور، عن نافع بن أبي نعيم، أن عبد الله بن عباس سئل عن قول الله: ﴿وفومها﴾ ، قال: الحنطة، أما سمعت قول أُحَيْحة بن الجُلاحح وهو يقول:
+
+قد كنت أغنى الناس شخصا واحدا ... وَرَد المدينة عن زراعة فوم [[الحديث: ١٠٧٦ - عبد الرحمن بن عبد الحكم المصري: ثقة، كان من أهل الحديث عالما بالتواريخ، صنف تاريخ مصر وغيره، كما في التهذيب، مات سنة ٢٥٧. وهو مؤلف كتاب (فتوح مصر) المطبوع في أوربة. شيخه عبد العزيز بن منصور: لم أجد له ذكرا فيما بين يدي من المراجع، إلا في فتوح مصر، ص ٤٠ س ٧ - ٨ قال ابن عبد الحكم هناك:"حدثنا عبد العزيز بن منصور اليحصبى، عن عاصم بن حكيم.." وشيخه، نافع: هو نافع بن عبد الرحمن بن أبي نعيم المدني، أحد القراء السبعة المعروفين وهو لم يدرك ابن عباس، إنما يروي عن التابعين، وله ترجمة في التهذيب، والكبير للبخاري ٤ / ٢ / ٨، وابن أبي حاتم ٤ / ١ /٤٥٦ - ٤٥٧، وتاريخ إصبهان لأبي نعيم ٢: ٣٢٦ - ٣٢٧.
+
+والبيت في اللسان (فوم) ، ونسبه لأبي محجن الثقفي، أنشده الأخفش له، وروايته:
+
+قد كنت أحسبني كأغنى واحد ... نزل المدينة. . .
+
+وفي الروض الأنف ٢: ٤٥ نسبه لأحيحة، أو لأبي محجن، ورواه"سكن المدينة".]]
+
+* *
+
+وقال آخرون: هو الثوم.
+
+ذكر من قال ذلك:
+
+١٠٧٧ - حدثني أحمد بن إسحاق الأهوازي قال، حدثنا أبو أحمد قال، حدثنا شريك، عن ليث، عن مجاهد قال: هو هذا الثوم.
+
+١٠٧٨ - حدثني المثنى بن إبراهيم قال، حدثنا إسحاق قال، حدثنا ابن أبي جعفر، عن أبيه، عن الربيع قال: الفوم، الثوم.
+
+* *
+
+وهو في بعض القراءات"وثومها".
+
+* *
+
+وقد ذكر أن تسمية الحنطة والخبز جميعا"فوما" من اللغة القديمة. حكي سماعا من أهل هذه اللغة:"فوموا لنا"، بمعنى اختبزوا لنا.
+
+* *
+
+وذكر أن ذلك قراءة عبد الله بن مسعود:"وثومها" بالثاء. [[انظر معاني القرآن للفراء ١: ٤١]] فإن كان ذلك صحيحا، فإنه من الحروف المبدلة كقولهم:"وقعوا في عاثور شر: وعافور شر" وكقولهم""للأثافي، أثاثي؛ وللمغافير، مغاثير" وما أشبه ذلك مما تقلب الثاء فاء والفاء ثاء، لتقارب مخرج الفاء من مخرج الثاء. و"المغافير" شبيه بالشيء الحلو، يشبه بالعسل، ينزل من السماء حلوا، يقع على الشجر ونحوها.
+
+* *
+
+القول في تأويل قوله تعالى: ﴿قَالَ أَتَسْتَبْدِلُونَ الَّذِي هُوَ أَدْنَى بِالَّذِي هُوَ خَيْرٌ﴾
+
+يعني بقوله: ﴿قال أتستبدلون الذي هو أدنى بالذي هو خير﴾ ، قال: لهم موسى: أتأخذون الذي هو أخس خطرا وقيمة وقدرا من العيش، بدلا بالذي هو خير منه خطرا وقيمة وقدرا؟ وذلك كان استبدالهم.
+
+* *
+
+وأصل"الاستبدال": هو ترك شيء لآخر غيره مكان المتروك.
+
+* *
+
+ومعنى قوله: ﴿أدنى﴾ أخس وأوضع وأصغر قدرا وخطرا. وأصله من قولهم:"هذا رجل دني بين الدناءة" و"إنه ليدنِّي في الأمور" بغير همز، إذا كان يتتبع خسيسها. وقد ذكر الهمز عن بعض العرب في ذلك، سماعا منهم. يقولون:"ما كنتَ دانئا، ولقد دنأتَ، [[هذا كله من قول الفراء في معاني القرآن ١: ٤٢. وكان في المطبوعة"ما كنت دنيا"، والصواب ما أثبته من كتاب الفراء.]] وأنشدني بعض أصحابنا عن غيره، أنه سمع بعض بني كلاب ينشد بيت الأعشى [[الذي سمع هذا هو الفراء. انظر معاني القرآن له ١: ٤٢، والطبري يجهله دائما]]
+
+باسلةُ الوقعِ سرابيلها ... بيض إلى دانِئِها الظاهر [[ديوانه: ١٠٨، وروايته"إلى جانبه الظاهر". يصف حصنا. قال قبل:
+
+في مجدل شيد بنيانه ... يزل عنه ظفر الطائر
+
+يجمع خضراء لها سورة ... تعصف بالدارع والحاسر
+
+باسلة الوقع. . . . . . ... . . . . . . . . . . . . . . . . . . .
+
+والضمير في قوله:"سرابيلها" راجع إلى"خضراء" يقال: كتيبة خضراء، وهي التي غلب عليها لبس الحديد وعلاها سواده، والخضرة سواد عندهم. والسرابيل هنا: الدروع، جمع سربال: وهو كل ما لبس كالدرع وغيره. وقال الفراء:"يعني الدروع على خاصتها - يعني الكتيبة - إلى الخسيس منها". كأنه أراد: يلبسون الدروع من شريف إلى خسيس. وأما رواية الديوان: فالضمير في"جانبه"، راجع إلى"المجدل" وهي أبين الروايتين معنى وأصحهما.]]
+
+بهمز الدانئ، وأنه سمعهم يقولون:"إنه لدانئ خبيث" بالهمز. [[في معاني الفراء زيادة بين قوسين من بعض النسخ: [إذا كان ماجنا]]] فإن كان ذلك عنهم صحيحا، فالهمز فيه لغة، وتركه أخرى.
+
+* *
+
+ولا شك أن من استبدل بالمن والسلوى البقل والقثاء والعدس والبصل والثوم، فقد استبدل الوضيع من العيش الرفيع منه.
+
+* *
+
+وقد تأول بعضهم قوله: ﴿الذي هو أدنى﴾ بمعنى: الذي هو أقرب، ووجه قوله: ﴿أدنى﴾ ، إلى أنه أفعل من"الدنو" الذي هو بمعنى القرب.
+
+* *
+
+وبنحو الذي قلنا في معنى قوله: ﴿الذي هو أدنى﴾ قاله عدد من أهل التأويل في تأويله.
+
+ذكر من قال ذلك:
+
+١٠٧٩ - حدثنا بشر بن معاذ قال، حدثنا يزيد بن زريع، عن سعيد، عن قتادة قال: ﴿أتستبدلون الذي هو أدنى بالذي هو خير﴾ ، يقول: أتستبدلون الذي هو شر بالذي هو خير منه.
+
+١٠٨٠ - حدثنا القاسم قال، حدثنا الحسين قال، حدثني حجاج عن ابن جريج، عن مجاهد قوله: ﴿الذي هو أدنى﴾ قال: أردأ.
+
+* *
+
+القول في تأويل قوله تعالى ذكره ﴿اهْبِطُوا مِصْرًا فَإِنَّ لَكُمْ مَا سَأَلْتُمْ﴾
+
+وتأويل ذلك: فدعا موسى، فاستجبنا له، فقلنا لهم:"اهبطوا مصرا"، وهو من المحذوف الذي اجتزئ بدلالة ظاهره على ذكر ما حذف وترك منه.
+
+* *
+
+وقد دللنا -فيما مضى- على أن معنى"الهبوط" إلى المكان، إنما هو النزول إليه والحلول به. [[انظر ما مضى ١: ٥٣٤.]]
+
+* *
+
+فتأويل الآية إذا: وإذ قلتم يا موسى لن نصبر على طعام واحد، فادع لنا ربك يخرج لنا مما تنبت الأرض من بقلها وقثائها وفومها وعدسها وبصلها. قال لهم موسى: أتستبدلون الذي هو أخس وأردأ من العيش، بالذي هو خير منه. فدعا لهم موسى ربه أن يعطيهم ما سألوه، فاستجاب الله له دعاءه، فأعطاهم ما طلبوا، وقال الله لهم: ﴿اهبطوا مصرا فإن لكم ما سألتم﴾ .
+
+* *
+
+ثم اختلف القَرَأَة في قراءة قوله [[في المطبوعة: "الفراء"، ورددناها إلى الذي جرى عليه لفظ الطبري فيما سلف، في كل المواضع التي جروا على تبديلها من"قرأة"، إلى"قراء".]] ﴿مصرا﴾ فقرأه عامة القَرَأَة: "مصرا" بتنوين"المصر" وإجرائه. وقرأه بعضهم بترك التنوين وحذف الألف منه. فأما الذين نونوه وأجروه، فإنهم عنوا به مصرا من الأمصار، لا مصرا بعينه. فتأويله -على قراءتهم-: اهبطوا مصرا من الأمصار، لأنكم في البدو، والذي طلبتم لا يكون في البوادي والفيافي، وإنما يكون في القرى والأمصار، فإن لكم -إذا هبطتموه- ما سألتم من العيش. وقد يجوز أن يكون بعض من قرأ ذلك بالإجراء والتنوين، كان تأويل الكلام عنده:"اهبطوا مصرا" البلدة التي تعرف بهذا الاسم، وهي"مصر" التي خرجوا عنها. غير أنه أجراها ونونها اتباعا منه خط المصحف، لأن في المصحف ألفا ثابتة في"مصر"، فيكون سبيل قراءته ذلك بالإجراء والتنوين، سبيل من قرأ: ﴿قواريرا قواريرا من فضة﴾ [الإنسان: ١٥-١٦] منونة اتباعا منه خط المصحف. وأما الذي لم ينون"مصر" فإنه لا شك أنه عنى"مصر" التي تعرف بهذا الاسم بعينها دون سائر البلدان غيرها. [[انظر ما قاله الفراء في معاني القرآن ١: ٤٢ - ٤٣.]]
+
+* *
+
+وقد اختلف أهل التأويل في ذلك، نظير اختلاف القَرَأَة في قراءته.
+
+١٠٨١ - حدثنا بشر بن معاذ قال، حدثنا يزيد بن زريع، عن سعيد، عن قتادة: ﴿اهبطوا مصرا﴾
+
+[TRUNCATED at 12000 chars — 13468 more. Consult the source directly before relying on anything near the cut.]
 
 ### al-Muyassar (Arabic)
 
-واذكروا حين أنزلنا عليكم الطعام الحلو، والطير الشهي، فبطِرتم النعمة كعادتكم، وأصابكم الضيق والملل، فقلتم: يا موسى لن نصبر على طعام ثابت لا يتغير مع الأيام، فادع لنا ربك يخرج لنا من نبات الأرض طعامًا من البقول والخُضَر، والقثاء والحبوب التي تؤكل، والعدس، والبصل. قال موسى -مستنكرًا عليهم-: أتطلبون هذه الأطعمة التي هي أقل قدرًا، وتتركون هذا الرزق النافع الذي اختاره الله لكم؟ اهبطوا من هذه البادية إلى أي مدينة، تجدوا ما اشتهيتم كثيرًا في الحقول والأسواق. ولما هبطوا تبيَّن لهم أنهم يُقَدِّمون اختي...
+واذكروا حين أنزلنا عليكم الطعام الحلو، والطير الشهي، فبطِرتم النعمة كعادتكم، وأصابكم الضيق والملل، فقلتم: يا موسى لن نصبر على طعام ثابت لا يتغير مع الأيام، فادع لنا ربك يخرج لنا من نبات الأرض طعامًا من البقول والخُضَر، والقِثّاء، والحبوب التي تؤكل، والعدس، والبصل. قال موسى -مستنكرًا عليهم-: أتطلبون هذه الأطعمة التي هي أقل قَدْرًا، وتتركون هذا الرزق النافع الذي اختاره الله لكم؟ اهبطوا من هذه البادية إلى أي مدينة، تجدوا ما اشتهيتم كثيرًا في الحقول والأسواق. ولما هبطوا تبيَّن لهم أنهم يُقَدِّمون اختيارهم -في كل موطن- على اختيار الله، ويُؤْثرون شهواتهم على ما اختاره الله لهم؛ لذلك لزمتهم صِفَةُ الذُّل وفقر النفوس، وانصرفوا ورجعوا بغضب من الله؛ لإعراضهم عن دين الله، ولأنهم كانوا يكفرون بآيات الله ويقتلون النبيين ظلمًا وعدوانًا؛ وذلك بسبب عصيانهم وتجاوزهم حدود ربهم.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿وإذْ قُلْتُمْ يا مُوسى لَنْ نَصْبِر عَلى طَعام﴾ أيْ نَوْع مِنهُ ﴿واحِد﴾ وهُوَ المَنّ والسَّلْوى ﴿فادْعُ لَنا رَبّك يُخْرِج لَنا﴾ شَيْئًا ﴿مِمّا تُنْبِت الأَرْض مِن﴾ لِلْبَيانِ ﴿بَقْلها وقِثّائِها وفُومها﴾ حِنْطَتها ﴿وعَدَسها وبَصَلها قالَ﴾ لَهُمْ مُوسى ﴿أتَسْتَبْدِلُونَ الَّذِي هُوَ أدْنى﴾ أخَسّ ﴿بِالَّذِي هُوَ خَيْر﴾ أشْرَف أتَأْخُذُونَهُ بَدَله والهَمْزَة لِلْإنْكارِ فَأَبَوْا أنْ يَرْجِعُوا فَدَعا اللَّه تَعالى فَقالَ تَعالى ﴿اهْبِطُوا﴾ انْزِلُوا ﴿مِصْرًا﴾ مِن الأَمْصار ﴿فَإنَّ لَكُمْ﴾ فِيهِ ﴿ما سَأَلْتُمْ﴾ مِن النَّبات ﴿وضُرِبَتْ﴾ جُعِلَتْ ﴿عَلَيْهِمْ الذِّلَّة﴾ الذُّلّ والهَوان ﴿والمَسْكَنَة﴾ أيْ أثَر الفَقْر مِن السُّكُون والخِزْي فَهِيَ لازِمَة لَهُمْ وإنْ كانُوا أغْنِياء لُزُوم الدِّرْهَم المَضْرُوب لِسِكَّتِهِ ﴿وباءُوا﴾ رَجَعُوا ﴿بِغَضَبٍ مِن اللَّه ذَلِكَ﴾ أيْ الضَّرْب والغَضَب ﴿بِأَنَّهُمْ﴾ أيْ بِسَبَبِ أنَّهُمْ ﴿كانُوا يَكْفُرُونَ بِآياتِ اللَّه ويَقْتُلُونَ النَّبِيِّينَ﴾ كَزَكَرِيّا ويَحْيى ﴿بِغَيْرِ الحَقّ﴾ أيْ ظُلْمًا ﴿ذَلِكَ بِما عَصَوْا وكانُوا يَعْتَدُونَ﴾ يَتَجاوَزُونَ الحَدّ فِي المَعاصِي وكَرَّرَهُ لِلتَّأْكِيدِ
 
 ---

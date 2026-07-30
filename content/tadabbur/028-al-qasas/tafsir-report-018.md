@@ -1,6 +1,6 @@
 # Tafsir Cross-Reference Report
 
-Generated: 2026-07-15
+Generated: 2026-07-30
 Ayahs referenced: 1
 Tafsir sources: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), al-Jalalayn (Arabic)
 
@@ -12,7 +12,25 @@ Tafsir sources: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), 
 
 So he became afraid, looking about in the city, when behold, the man who had sought his help the day before, called for his help (again). Musa said to him: "Verily, you are a plain misleader! (18)Then when he decided to seize the man who was an enemy to both of them, the man said: "O Musa! Is it your intention to kill me as you killed a man yesterday? Your aim is nothing but to become a tyrant in the land, and not to be one of those who do right. (19)
 
-How the Secret of this Killing became kn...
+How the Secret of this Killing became known
+
+Allah tells us that when Musa killed that Coptic,
+
+فِي الْمَدِينَةِ خَائِفًا
+
+(he became afraid in the city) meaning, of the consequences of his action,
+
+يَتَرَقَّبُ
+
+(looking about) means, turning around and watching out, waiting for the consequences of his action to befall him. He went out and about, and saw the man who sought his help the day before, fighting with another Coptic. When Musa passed by him, he called for his help again, against this other Coptic. Musa said to him:
+
+إِنَّكَ لَغَوِيٌّ مُبِينٌ
+
+(Verily, you are a plain misleader!) meaning, 'you obviously lead people astray and are very evil.' Then Musa intended to attack that Coptic, but the Israelite – because of his own cowardice and weakness – thought that Musa wanted to hit him because of what he had said, so he said, in self-defence –
+
+يَا مُوسَىٰ أَتُرِيدُ أَنْ تَقْتُلَنِي كَمَا قَتَلْتَ نَفْسًا بِالْأَمْسِ ۖ
+
+(O Musa! Is it your intention to kill me as you killed a man yesterday?) Nobody except him and Musa, peace be upon him, knew about it, but when the other Coptic heard this, he took the news to Fir'awn's gate and told him about it. So Fir'awn came to know of it, and he became very angry and resolved to kill Musa, so he sent people after him to bring him to him.
 
 ### al-Tabari (Arabic)
 
@@ -24,7 +42,29 @@ How the Secret of this Killing became kn...
 
 ذكر من قال ذلك:
 
-⁕ حدثني العباس بن الوليد، قال: أخبرنا ...
+⁕ حدثني العباس بن الوليد، قال: أخبرنا يزيد، قال: أخبرنا أصبغ بن زيد، قال: ثنا القاسم عن أبي أيوب، قال: ثنا سعيد بن جُبَيْر، عن ابن عباس: ﴿فَأَصْبَحَ فِي الْمَدِينَةِ خَائِفًا يَتَرَقَّبُ﴾ قال: خائفا من قتله النفس، يترقب أن يؤخذ.
+
+⁕ حدثنا موسى، قال: ثنا عمرو، قال: ثنا أسباط، عن السدي: ﴿فَأَصْبَحَ فِي الْمَدِينَةِ خَائِفًا يَتَرَقَّبُ﴾ قال: خائفا أن يُؤخذ.
+
+* *
+
+وقوله: ﴿فَإِذَا الَّذِي اسْتَنْصَرَهُ بِالأمْسِ يَسْتَصْرِخُهُ﴾
+
+يقول تعالى ذكره: فرأى موسى لما دخل المدينة على خوف مترقبا الأخبار عن أمره وأمر القتيل، فإذا الإسرائيلي الذي استنصره بالأمس على الفرعونيّ يقاتله فرعونيّ آخر، فرآه الإسرائيلي فاستصرخه على الفرعونيّ. يقول: فاستغاثه أيضا على الفرعوني، وأصله من الصُّراخ، كما يقال: قال بنو فلان: يا صباحاه، قال له موسى: ﴿إِنَّكَ لَغَوِيٌّ مُبِينٌ﴾ يقول جل ثناؤه: قال موسى للإسرائيلي الذي استصرخه، وقد صادف موسى نادما على ما سلف منه من قتله بالأمس القتيل، وهو يستصرخه اليوم على آخر: إنك أيها المستصرخ لغويّ: يقول: إنك لذو غواية، مبين. يقول: قد تبينت غوايتك بقتالك أمس رجلا واليوم آخر.
+
+وبنحو الذي قلنا في ذلك، قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثني العباس، قال: أخبرنا يزيد، قال: أخبرنا أصبغ بن زيد، قال: ثنا القاسم، قال: ثنا سعيد بن جُبَيْر، عن ابن عباس، قال: أتي فرعون، فقيل له: إن بني إسرائيل قد قتلوا رجلا من آل فرعون، فخذ لنا بحقنا ولا ترخص لهم في ذلك، قال: ابغوني [[ابغوني قاتله: هاتوا لي قاتله.]] قاتله ومن يشهد عليه، لا يستقيم أن نقضي بغير بينة ولا ثَبَت [[في (اللسان: ثبت) الثبت: بالتحريك: الحجة والبينة.]] فاطلبوا ذلك، فبينما هم يطوفون لا يجدون شيئا، إذ مرّ موسى من الغد، فرأى ذلك الإسرائيلي يقاتل فرعونيا، فاستغاثه الإسرائيلي على الفرعونيّ، فصادف موسى وقد ندم على ما كان منه بالأمس، وكره الذي رأى، فغضب موسى، فمد يده وهو يريد أن يبطش بالفرعوني، فقال للإسرائيلي لما فعل بالأمس واليوم ﴿إِنَّكَ لَغَوِيٌّ مُبِينٌ﴾ ، فنظر الإسرائيلي إلى موسى بعد ما قال هذا، فإذا هو غضبان كغضبه بالأمس إذ قتل فيه الفرعوني، فخاف أن يكون بعد ما قال له: ﴿إِنَّكَ لَغَوِيٌّ مُبِينٌ﴾ إياه أراد، ولم يكن أراده، إنما أراد الفرعوني، فخاف الإسرائيلي فحاجّه، فقال ﴿يَا مُوسَى أَتُرِيدُ أَنْ تَقْتُلَنِي كَمَا قَتَلْتَ نَفْسًا بِالأمْسِ إِنْ تُرِيدُ إِلا أَنْ تَكُونَ جَبَّارًا فِي الأرْضِ﴾ ؟ وإنما قال ذلك مخافة أن يكون إياه أراد موسى ليقتله، فتتاركا.
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد عن قَتادة: ﴿فَإِذَا الَّذِي اسْتَنْصَرَهُ بِالأمْسِ يَسْتَصْرِخُهُ﴾ قال: الاستنصار والاستصراخ واحد.
+
+⁕ حدثنا موسى، قال: ثنا عمرو، قال: ثنا أسباط، عن السدي: ﴿فَإِذَا الَّذِي اسْتَنْصَرَهُ بِالأمْسِ يَسْتَصْرِخُهُ﴾ يقول: يستغيثه.
+
+⁕ حدثنا ابن حميد، قال: ثنا سلمة، عن ابن إسحاق، قال: لما قتل موسى القتيل، خرج فلحق بمنزله من مصر، وتحدّث الناس بشأنه، وقيل: قتل موسى رجلا حتى انتهى ذلك إلى فرعون، فأصبح موسى غاديا الغَد، وإذا صاحبه بالأمس معانق رجلا آخر من عدوّه، فقال له موسى: ﴿إِنَّكَ لَغَوِيٌّ مُبِينٌ﴾ أمس رجلا واليوم آخر؟.
+
+⁕ حدثني يعقوب بن إبراهيم، قال: ثنا حفص، عن الأعمش، عن سعيد بن جُبَيْر والشيباني، عن عكرمة، قال: الذي استنصره: هو الذي استصرخه.
 
 ### al-Muyassar (Arabic)
 

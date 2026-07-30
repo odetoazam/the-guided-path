@@ -1,6 +1,6 @@
 # Tafsir Cross-Reference Report
 
-Generated: 2026-04-10
+Generated: 2026-07-30
 Ayahs referenced: 9
 Tafsir sources: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), al-Jalalayn (Arabic)
 
@@ -10,21 +10,263 @@ Tafsir sources: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), 
 
 ### Ibn Kathir (English)
 
+It is not Birr that you turn your faces towards east and (or) west; but Birr is the one who believes in Allah, the Last Day, the Angels, the Book, the Prophets and gives his wealth, in spite of love for it, to the kinsfolk, to the orphans, and to Al-Masakin (the poor), and to the wayfarer, and to those who ask, and to set servants free, performs As-Salah (Iqamat-As-Salah), and gives the Zakah, and who fulfill their covenant when they make it, and who are patient in extreme poverty and ailment (disease) and at the time of fighting (during the battles). Such are the people of the truth and they are Al-Muttaqun (the pious)(177)
+
 Al-Birr (Piety, Righteousness)
+
 This Ayah contains many great wisdoms, encompassing rulings and correct beliefs.
-As for the explanation of this Ayah, Allah first commanded the believers to face Bayt Al-Maqdis, and then to face the Ka`bah during the prayer. This change was difficult for some of the People of the Book, and even for some Muslims. Then Allah sent revelation which clarified the wisdom behind this command, that is, obedience to Allah, adhering to His commands, facing wherever He com...
+
+As for the explanation of this Ayah, Allah first commanded the believers to face Bayt Al-Maqdis, and then to face the Ka'bah during the prayer. This change was difficult for some of the People of the Book, and even for some Muslims. Then Allah sent revelation which clarified the wisdom behind this command, that is, obedience to Allah, adhering to His commands, facing wherever He commands facing, and implementing whatever He legislates, that is the objective. This is Birr, Taqwa and complete faith. Facing the east or the west does not necessitate righteousness or obedience, unless it is legislated by Allah. This is why Allah said:
+
+لَّيْسَ الْبِرَّ أَن تُوَلُّوا وُجُوهَكُمْ قِبَلَ الْمَشْرِقِ وَالْمَغْرِبِ وَلَٰكِنَّ الْبِرَّ مَنْ آمَنَ بِاللَّهِ وَالْيَوْمِ الْآخِرِ
+
+(It is not Birr that you turn your faces towards east and (or) west (in prayers); but Birr is the one who believes in Allah and the Last Day,)
+
+Similarly, Allah said about the sacrifices:
+
+لَن يَنَالَ اللَّهَ لُحُومُهَا وَلَا دِمَاؤُهَا وَلَٰكِن يَنَالُهُ التَّقْوَىٰ مِنكُمْ
+
+(It is neither their meat nor their blood that reaches Allah, but it is the piety from you that reaches Him.)(22:37)
+
+Abu Al-'Aliyah said, "The Jews used to face the west for their Qiblah, while the Christians used to face the east for their Qiblah. So Allah said:
+
+لَّيْسَ الْبِرَّ أَن تُوَلُّوا وُجُوهَكُمْ قِبَلَ الْمَشْرِقِ وَالْمَغْرِبِ
+
+(It is not Birr that you turn your faces towards east and (or) west (in prayers))(2: 177) meaning, "this is faith, and its essence requires implementation." Similar was reported from Al-Hasan and Ar-Rabi' bin Anas. Ath-Thawri recited:
+
+وَلَٰكِنَّ الْبِرَّ مَنْ آمَنَ بِاللَّهِ
+
+(but Birr is the one who believes in Allah,) and said that what follows are the types of Birr. He has said the truth. Certainly, those who acquire the qualities mentioned in the Ayah will have indeed embraced all aspects of Islam and implemented all types of righteousness; believing in Allah, that He is the only God worthy of worship, and believing in the angels the emissaries between Allah and His Messengers.
+
+The 'Books' are the Divinely revealed Books from Allah to the Prophets, which were finalized by the most honorable Book (the Qur'an). The Qur'an supercedes all previous Books, it mentions all types of righteousness, and the way to happiness in this life and the Hereafter. The Qur'an abrogates all previous Books and testfies to all of Allah's Prophets, from the first Prophet to the Final Prophet, Muhammad, may Allah's peace and blessings be upon them all.
+
+Allah's statement:
+
+وَآتَى الْمَالَ عَلَىٰ حُبِّهِ
+
+(...and gives his wealth, in spite of love for it,) refers to those who give money away while desiring it and loving it. It is recorded in the Sahihayn that Abu Hurayrah narrated that the Prophet ﷺ said:
+
+أَفْضَلُ الصَّدَقةِ أَنْ تَصَدَّقَ وَأَنْتَ صَحِيحٌ شَحِيحٌ، تَأْمُلُ الْغِنَى وتَخْشَى الْفقْرَ
+
+(The best charity is when you give it away while still healthy and thrifty, hoping to get rich and fearing poverty.)
+
+Allah said:
+
+وَيُطْعِمُونَ الطَّعَامَ عَلَىٰ حُبِّهِ مِسْكِينًا وَيَتِيمًا وَأَسِيرًا - إِنَّمَا نُطْعِمُكُمْ لِوَجْهِ اللَّهِ لَا نُرِيدُ مِنكُمْ جَزَاءً وَلَا شُكُورًا
+
+(And they give food, inspite of their love for it, to the Miskin (the poor), the orphan, and the captive (saying): "We feed you seeking Allah's Face only. We wish for no reward, nor thanks from you.")(76:8-9)
+
+and:
+
+لَن تَنَالُوا الْبِرَّ حَتَّىٰ تُنفِقُوا مِمَّا تُحِبُّونَ
+
+(By no means shall you attain Birr unless you spend of that which you love.)(3:92) Allah's statement:
+
+وَيُؤْثِرُونَ عَلَىٰ أَنفُسِهِمْ وَلَوْ كَانَ بِهِمْ خَصَاصَةٌ
+
+(...and give them preference over themselves even though they were in need of that)(59:9) refers to a higher category and status, as the people mentioned here give away what they need, while those mentioned in the previous Ayat give away what they covet (but not necessarily need).
+
+Allah's statement:
+
+ذَوِي الْقُرْبَىٰ
+
+(the kinsfolk) refers to man's relatives, who have more rights than anyone else to one's charity, as the Hadith supports:
+
+الصَّدَقَةُ عَلَى الْمَسَاكِينِ صَدَقَةٌ، وعَلَى ذِي الرَّحِمِ اثْنتَانِ: صَدَقَةٌ وَصِلَـةٌ، فَهُمْ أَوْلَى النَّاسِ بِكَ وَبِبِرِّكَ وَإِعْطَائِكَ
+
+(Sadaqah (i. e., charity) given to the poor is a charity, while the Sadaqah given to the relatives is both Sadaqah and Silah (nurturing relations), for they are the most deserving of you and your kindness and charity).
+
+Allah has commanded kindness to the relatives in many places in the Qur'an.
+
+وَالْيَتَامَىٰ
+
+(to the orphans) The orphans are children who have none to look after them, having lost their fathers while they are still young, weak and unable to find their own sustenance since they have not reached the age of work and adolescence. 'Abdur-Razzaq reported that 'Ali said that the Prophet ﷺ said:
+
+وَالْمَسَاكِينَ
+
+(and to Al-Masakin) The Miskin is the person who does not have enough food, clothing, or he has no dwelling. So the Miskin should be granted the provisions to sustain him enough so that he can acquire his needs. In the Sahihayn it is recorded that Abu Hurayrah said that Allah's Messenger ﷺ said:
+
+لَيْسَ الْمِسْكِينُ بِـهٰذَا الطَّوَّافِ الَّذِي تَرُدُّه التَّمْرَةُ والتَّمْرَتَانِ، واللُّقْمَةُ واللُّقْمَتَانِ، وَلٰكِنِ الْمِسْكِينُ الَّذِي لَا يَجِدُ غِنىً يُغْنِيه وَلَا يُفْطَنُ لَهُ فَيُتصَدَّقَ عَلَيْهِ
+
+(The Miskin is not the person who roams around, and whose need is met by one or two dates or one or two bites. Rather, the Miskin is he who does not have what is sufficient, and to whom the people do not pay attention and, thus, do not give him from the charity.)
+
+وَابْنَ السَّبِيلِ
+
+(and to the wayfarer) is the needy traveler who runs out of money and should, thus, be granted whatever amount that helps him to go back to his land. Such is the case with whoever intends to go on a permissible journey, he is given what he needs for his journey and back. The guests are included in this category. 'Ali bin Abu Talhah reported that Ibn 'Abbas said, "Ibn As-Sabil (wayfarer) is the guest who is hosted by Muslims." Furthermore, Mujahid, Sa'id bin Jubayr, Abu Ja'far Al-Baqir, Al-Hasan, Qatadah, Ad-Dahhak, Az-Zuhri, Ar-Rabi' bin Anas and Muqatil bin Hayyan said similarly.
+
+وَالسَّائِلِينَ
+
+(and to those who ask) refers to those who beg people and are thus given a part of the Zakah and general charity.
+
+وَفِي الرِّقَابِ
+
+(and to set servants free) These are the servants who seek to free themselves, but cannot find enough money to buy their freedom. We will mention several of these categories and types under the Tafsir of the Ayah on Sadaqah in Surat Bara'ah [chapter 9 in the Qur'an], In sha' Allah.
+
+Allah's statement:
+
+وَأَقَامَ الصَّلَاةَ
+
+(performs As-Salah (Iqamat-As-Salah)) means those who pray on time and give the prayer its due right; the bowing, prostration, and the necessary attention and humbleness required by Allah. Allah's statement:
+
+وَآتَى الزَّكَاةَ
+
+(and gives the Zakah) means the required charity (Zakah) due on one's money, as Sa'id bin Jubayr and Muqatil bin Hayyan have stated.
+
+Allah's statement:
+
+وَالْمُوفُونَ بِعَهْدِهِمْ إِذَا عَاهَدُوا
+
+(and who fulfill their covenant when they make it,)
+
+is similar to:
+
+الَّذِينَ يُوفُونَ بِعَهْدِ اللَّهِ وَلَا يَنقُضُونَ الْمِيثَاقَ
+
+(Those who fulfill the covenant of Allah and break not the Mithaq (bond, treaty, covenant).)(13:20)
+
+The opposite of this characteristic is hypocrisy. As found in a Hadith:
+
+آيَةُ الْمُنَافِقِ ثَلَاثٌ: إِذَا حَدَّثَ كَذَبَ، وَإذَا وَعَدَ أَخْلَفَ، وَإذَا ائْتُمِنَ خَانَ
+
+(The signs of a hypocrite are three: if he speaks, he lies; if he promises, he breaks his promise; and if he is entrusted, he breaches the trust.)
+
+In another version:
+
+إِذَا حَدَّثَ كَذَبَ، وَإذَا عَاهَدَ غَدَرَ، وَإذَا خَاصَمَ فَجَرَ
+
+(If he speaks, he lies; if he vows, he breaks his vow; and if he disputes, he is lewd.)
+
+Allah's statement:
+
+وَالصَّابِرِينَ فِي الْبَأْسَاءِ وَالضَّرَّاءِ وَحِينَ الْبَأْسِ
+
+(...and who are patient in extreme poverty and ailment (disease) and at the time of fighting (during the battles).) means, during the time of meekness and ailment.
+
+وَحِينَ الْبَأْسِ
+
+(...and at the time of fighting (during the battles).) means on the battlefield while facing the enemy, as Ibn Mas'ud, Ibn 'Abbas, Abu Al-'Aliyah, Murrah Al-Hamdani, Mujahid, Sa'id bin Jubayr, Al-Hasan, Qatadah, Ar-Rabi' bin Anas, As-Suddi, Muqatil bin Hayyan, Abu Malik, Ad-Dahhak and others have stated.
+
+And calling them the patient here, is a form of praise, because of the importance of patience in these circumstances, and the suffering and difficulties that accompany them. And Allah knows best, it is He Whom help is sought from, and upon Him we rely.
+
+Allah's statement:
+
+أُولَٰئِكَ الَّذِينَ صَدَقُوا
+
+(Such are the people of the truth) means, whoever acquires these qualities, these are truthful in their faith. This is because they have achieved faith in the heart and realized it in deed and upon the tongue. So they are the truthful,
+
+وَأُولَٰئِكَ هُمُ الْمُتَّقُونَ
+
+(and they are Al-Muttaqun (the pious).) because they avoided the prohibitions and performed the acts of obedience.
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله تعالى :  لَيْسَ الْبِرَّ أَنْ تُوَلُّوا وُجُوهَكُمْ قِبَلَ الْمَشْرِقِ وَالْمَغْرِبِ وَلَكِنَّ الْبِرَّ مَنْ آمَنَ بِاللَّهِ وَالْيَوْمِ الآخِرِ وَالْمَلائِكَةِ وَالْكِتَابِ وَالنَّبِيِّينَقال أبو جعفر: اختلف أهل التأويل في تأويل قوله ذلك. فقال بعضهم: معنى ذلك: ليس البرَّ الصلاةُ وحدها, ولكن البرّ الخصال التي أبينها لكم.2513- حدثني محمد بن سعد قال، حدثني أبي قال، حدثني عمي قال، حدثني أبي, عن أبيه, عن ابن عباس قوله: " ليسَ البرّ أن تُولوا وُجُوهكم قِبَل  المشرق والمغرب "، ي...
+القول في تأويل قوله تعالى: ﴿لَيْسَ الْبِرَّ أَنْ تُوَلُّوا وُجُوهَكُمْ قِبَلَ الْمَشْرِقِ وَالْمَغْرِبِ وَلَكِنَّ الْبِرَّ مَنْ آمَنَ بِاللَّهِ وَالْيَوْمِ الآخِرِ وَالْمَلائِكَةِ وَالْكِتَابِ وَالنَّبِيِّينَ﴾
+
+قال أبو جعفر: اختلف أهل التأويل في تأويل قوله ذلك. فقال بعضهم: معنى ذلك: ليس البرَّ الصلاةُ وحدها، ولكن البرّ الخصال التي أبينها لكم.
+
+٢٥١٣- حدثني محمد بن سعد قال، حدثني أبي قال، حدثني عمي قال، حدثني أبي، عن أبيه، عن ابن عباس قوله:"ليسَ البرّ أن تُولوا وُجُوهكم قِبَل المشرق والمغرب"، يعني: الصلاة. يقول: ليس البر أن تصلوا ولا تَعملوا، فهذا منذ تحوَّل من مكة إلى المدينة، ونزلت الفرائض، وحدَّ الحدود. فأمر الله بالفرائض والعمل بها.
+
+٢٥١٤- حدثني محمد بن عمرو قال، حدثنا أبو عاصم قال، حدثنا عيسى، عن ابن أبي نجيح، عن مجاهد:"ليس البر أن تُولوا وجوهكم قبل المشرق والمغرب"، ولكنّ البر ما ثبت في القلوب من طاعة الله.
+
+٢٥١٥- حدثني القاسم قال، حدثنا أبو حذيفة قال، حدثنا شبل، عن ابن أبي نجيح، عن مجاهد مثله.
+
+٢٥١٦- حدثني القاسم قال، حدثنا الحسين قال، حدثني حجاج، عن ابن جريج، عن ابن عباس قال: هذه الآية نزلت بالمدينة:"ليس البر أن تُولوا وجوهكم قبل المشرق والمغرب"، يعني: الصلاة. يقول: ليس البر أن تصلوا ولا تعملوا غيرَ ذلك. قال ابن جريج، وقال مجاهد:"ليس البرّ أن تُولوا وجوهكم قبَل المشرق والمغرب"، يعني السجود، ولكن البر ما ثبت في القلب من طاعة الله.
+
+٢٥١٧- حدثنا القاسم قال، حدثنا الحسين قال، حدثنا أبو تميلة، [[في المطبوعة: "أبو نميلة" بالنون، والصواب ما أثبت. وانظر الأثر رقم: ٢٤٩٠ والتعليق عليه.]] عن عبيد بن سليمان، عن الضحاك بن مزاحم، أنه قال فيها، قال يقول: ليس البر أن تصلوا ولا تعملوا غير ذلك. وهذا حين تحوّل من مكة إلى المدينة، فأنزل الله الفرائض وحدَّ الحدود بالمدينة، وأمر بالفرائض أن يؤخذ بها.
+
+* *
+
+وقال آخرون: عنى الله بذلك اليهود والنصارى. وذلك أن اليهود تصلي فتوجِّه قبل المغرب، والنصارى تصلي فتوَجَّه قبل المشرق، فأنزل الله فيهم هذه الآية، يخبرهم فيها أن البرّ غير العمل الذي يعملونه، ولكنه ما بيناه في هذه الآية
+
+ذكر من قال ذلك:
+
+٢٥١٨- حدثنا الحسن بن يحيى قال، أخبرنا عبد الرزاق قال، أخبرنا معمر، عن قتادة قال: كانت اليهود تصلي قبَل المغرب والنصارى تصلي قبل المشرق، فنزلت:"ليس البر أن تولوا وُجُوهكم قبل المشرق والمغرب".
+
+٢٥١٩- حدثنا بشر بن معاذ قال، حدثنا يزيد بن زريع قال، حدثنا سعيد، عن قتادة قوله:"ليس البر أن تُولوا وجوهكم قبل المشرق والمغرب ولكن البر من آمن بالله واليوم الآخر"، ذُكر لنا أن رَجلا سأل نبي الله ﷺ عن البر فأنزل الله هذه الآية. وذُكر لنا أن نبي الله ﷺ دعا الرجل فتلاها عليه. وقد كان الرجلُ قبل الفرائض إذا شهد أن لا إله إلا الله وأن محمدًا عبده ورسوله ثم مات على ذلك يُرْجى له ويطمع له في خير، فأنزل الله:"ليسَ البر أن تولوا وجوهَكم قبل المشرق والمغرب". وكانت اليهود تَوجَّهت قبل المغرب، والنصارى قبل المشرق -"ولكن البر من آمنَ بالله واليوم الآخر" الآية.
+
+٢٥٢٠- حدثني المثنى قال، حدثنا إسحاق قال، حدثنا ابن أبي جعفر، عن أبيه، عن الربيع بن أنس قال: كانت اليهود تصلي قبل المغرب، والنصارى قبل المشرق، فنزلت:"ليس البر أن تُولوا وجوهكم قبل المشرق والمغرب".
+
+* *
+
+قال أبو جعفر: وأولى هذين القولين بتأويل الآية، القول الذي قاله قتادة والربيع بن أنس =: أن يكون عنى بقوله:"ليس البر أن تولوا وجوهكم قبل المشرق والمغرب"، اليهودَ والنصارَى. لأن الآيات قبلها مضت بتوبيخهم ولَومهم، والخبر عنهم وعما أُعدّ لهم من أليم العذاب. وهذا في سياق ما قبلها، إذْ كان الأمر كذلك، -"ليس البر"، - أيها اليهود والنصارى، أنْ يولي بعضُكم وجهه قبل المشرق وبعضُكم قبل المغرب،"ولكنّ البر مَنْ آمن بالله واليوم الآخر وَالملائكة والكتاب" الآية.
+
+* *
+
+فإن قال قائل: فكيف قيل:"ولكن البر من آمن بالله"، وقد علمت أن"البر" فعل، و"مَنْ" اسم، فكيف يكون الفعل هو الإنسان؟
+
+قيل: إن معنى ذلك غيرَ ما توهمته، وإنما معناه: ولكنّ البرَّ برُّ من آمن بالله واليوم الآخر، [[في المطبوعة: "ولكن البر كمن آمن بالله" وهو خطأ محض، صوابه ما أثبت.]] فوضع"مَنْ" موضع الفعل، اكتفاءً بدلالته، ودلالة صلته التي هي له صفةٌ، مَنْ الفعل المحذوف، كما تفعله العرب، فتضع الأسماء مواضع أفعالها التي هي بها مشهورة، فتقول:"الجود حاتم، والشجاعة عنترة"، و"إنما الجود حاتم والشجاعة عنترة"، ومعناها: الجُود جود حاتم فتستغني بذكر"حاتم" إذ كان معروفًا بالجود، من إعادة ذكر"الجود" بعد الذي قد ذكرته، فتضعه موضع"جوده"، لدلالة الكلام على ما حذفته، استغناء بما ذكرته عما لم تذكره. [[انظر ما سلف: ٢: ٦١، ٣٥٩ وهذا الجزء ٣: ٣٣٤.]] كما قيل: ﴿وَاسْأَلِ الْقَرْيَةَ الَّتِي كُنَّا فِيهَا﴾ [سورة يوسف: ٨٢] والمعنى: أهل القرية، وكما قال الشاعر، وهو ذو الخِرَق الطُّهَوي:
+
+حَسِبْتَ بُغَامَ رَاحِلَتِي عَنَاقًا! ... وَمَا هي، وَيْبَ غَيْرِكَ بالعَنَاقِ [[سلف تخريجه في هذا الجزء ٣: ١٠٣ تعليق: ٣.]]
+
+يريد: بُغَامَ عنَاق، أو صوتَ [عناق] ، [[الزيادة بين القوسين لا بد منها.]] كما يقال:"حسبت صياحي أخاك"، يعني به: حسبتَ صياحي صياحَ أخيك.
+
+* *
+
+وقد يجوز أن يكون معنى الكلام: ولكن البارَّ مَنْ آمن بالله، فيكون"البر" مصدرًا وُضع موضعَ الاسم. [[هذا قول أبي عبيدة في مجاز القرآن: ٦٥، وذكره الفراء في معاني القرآن ١: ١٠٤.]]
+
+* *
+
+القول في تأويل قوله تعالى: ﴿وَآتَى الْمَالَ عَلَى حُبِّهِ ذَوِي الْقُرْبَى وَالْيَتَامَى وَالْمَسَاكِينَ وَابْنَ السَّبِيلِ وَالسَّائِلِينَ وَفِي الرِّقَابِ﴾
+
+قال أبو جعفر: يعني تعالى ذكره بقوله:"وآتى المالَ على حُبه"، وأعطى مَاله في حين محبته إياه، وضِنِّه به، وشُحِّه عليه، [[انظر معنى"الإيتاء" فيما سلف ١: ٥٧٤/٢: ١٦٠، ٣١٧.]] . كما:-
+
+٢٥٢١- حدثنا أبو كريب وأبو السائب قالا حدثنا ابن إدريس قال، سمعت ليثًا، عن زبيد، عن مرة بن شراحيل البكيلي، عن عبد الله بن مسعود:"وآتَى المالَ على حُبه"، أي: يؤتيه وهو صَحيحٌ شحيحٌ، يأمل العيش ويخشى الفقر. [[الخبر: ٢٥٢١- ابن إدريس: هو عبد الله بن إدريس بن يزيد الأودي، مضى في: ٤٣٨، ٢٠٣٠.
+
+ليث: هو ابن أبي سليم، مضى في شرح: ١٤٩٧.
+
+زبيد- بالباء الموحدة مصغرًا: هو ابن الحارث بن عبد الكريم اليامي، وهو ثقة ثبت. مترجم في التهذيب، والكبير ٢/١/٤١١، وابن سعد ٦: ٢١٦، وابن أبي حاتم ١/٢/٦٢٣.
+
+مرة بن شراحيل: وهو الهمداني الكوفي، من كبار التابعين، كما مضى توثيقه: ١٦٨، وهو مترجم في التهذيب ١٠: ٨٨-٨٩، والكبير ٤/٢/٥، وابن سعد ٦: ٧٩، وابن أبي حاتم ٤/١/٣٦٦. و"البكيلي" - بفتح الباء الموحدة وكسر الكاف: نسبه إلى"بكيل"، وهم بطن من همدان. انظرالاشتقاق لابن دريد، ص: ٢٥٠، ٢٥٦، ٣١٢، وجمهرة الأنساب لابن حزم ص: ٣٧٢-٣٧٣. وكذلك نسب مرة إلى"بكيل" في كتاب ابن أبي حاتم، وهو الصواب. ووقع في التهذيب بدلها"السكسكي"؛ وهو تصحيف لا شك فيه، فإن"السكسك": هو ابن أشرس بن كندة. وشتان بين همدان وكندة، إنما يجتمعان بعد بضعة جدود، في"زيد بن كهلان بن سبأ". انظر جمهرة الأنساب، ص: ٤٠٥، وما قبلها.]]
+
+٢٥٢٢- حدثنا محمد بن بشار قال، حدثنا عبد الرحمن -وحدثنا الحسن بن يحيى قال أخبرنا عبد الرزاق- قالا جميعًا، عن سفيان، عن زُبيد الياميّ، عن مرة، عن عبد الله:"وآتى المالَ على حُبه" قال، وأنت صحيح، تأمل العيش، وتخشى الفقر. [[الخبر: ٢٥٢٢- عبد الرحمن: هو ابن مهدي الإمام. وسفيان هو الثوري. فالطبري يرويه من طريق ابن مهدي. ومن طريق عبد الرزاق - كلاهما عن سفيان.
+
+والخبر في تفسير عبد الرزاق، ص: ١٥، وفيه: "وأنت صحيح شحيح"، بزيادة"شحيح".]]
+
+٢٥٢٣- حدثنا محمد بن المثنى قال، حدثنا محمد بن جعفر قال، حدثنا شعبة، عن زبيد اليامي، عن عبد الله أنه قال في هذه الآية:"وآتى المال على حبه" قال، وأنت حريصٌ شحيحٌ، تأمل الغنى، وتخشى الفقر.
+
+٢٥٢٤- حدثنا أحمد بن نعمة المصري قال، حدثنا أبو صالح قال، حدثنا الليث قال، حدثنا إبراهيم بن أعين، عن شعبة بن الحجاج، عن زبيد اليامي، عن مرة الهمداني قال، قال عبد الله بن مسعود في قول الله:"وآتى المال على حبه ذوي القربى"، قال: حريصًا شحيحًا، يأمل الغنى ويَخشى الفقر. [[الخبر: ٢٥٢٤- شيخ الطبري"أحمد بن نعمة المصري": لم أجد له ترجمة. أبو صالح: هو عبد الله بن صالح، كاتب الليث. الليث: هو ابن سعد إمام أهل مصر.
+
+إبراهيم بن أعين الشيباني البصري، نزل مصر: ضعيف: قال البخاري: "فيه نظر في إسناده". وقال أبو حاتم: "هذا شيخ بصري، ضعيف الحديث، منكر الحديث وقع إلى مصر". مترجم في التهذيب وفرق بينه وبين"إبراهيم بن أعين" آخر ثقة. وترجم ابن أبي حاتم ١/١/٨٧ ثلاث تراجم. والبخاري ١/١/٢٧٢ ترجمة واحدة.
+
+وهذه الأسانيد الثلاثة: ٢٥٢١-٢٥٢٣، لخبر موقوف اللفظ على ابن مسعود. وهو في الحقيقة مرفوع حكمًا، إذ مثل هذا لا يعرف بالرأي. وسيأتي معناه موقوفًا عليه أيضًا: ٢٥٢٩، ٢٥٣١. وكذلك رواه الحاكم ٢: ٢٧٢، من رواية منصور، عن زبيد، عن مرة، عن ابن مسعود، موقوفًا. وقال: "هذا حديث صحيح على شرط الشيخين، ولم يخرجاه". ووافقه الذهبي. ونسبه السيوطي ١: ١٧٠-١٧١ لابن المبارك، ووكيع، وغيرهما. ثم ذكر أنه رواه الحاكم أيضًا"عن ابن مسعود، مرفوعًا". وكذلك نقل ابن كثير ١: ٣٨٨ أن الحاكم رواه مرفوعًا. ولم أجده مرفوعًا في المستدرك. ثم ذكر ابن كثير الرواية الموقوفة، وزعم أنها أصح.
+
+وهذا المعنى ثابت أيضًا في حديث مرفوع صحيح، عن أبي هريرة، عن النبي ﷺ - وقد سئل: أي الصدقة أعظم أجرًا؟ - فقال: "أن تصدق وأنت صحيح شحيح، تخشى الفقر وتأمل البقاء، ولا تمهل حتى إذا بلغت الحلقوم قلت: لفلان كذا، وقد كان لفلان". رواه أحمد في المسند: ٧١٥٩، ٧٤٠١. ورواه البخاري ومسلم وأبو داود، كما بينا هناك.]]
+
+٢٥٢٥- حدثنا أبو كريب ويعقوب بن إبراهيم قالا حدثنا هشيم قال، أخبرنا إسماعيل بن سالم، عن الشعبي، سمعته يُسْأل: هل على الرجل حَق في ماله سوى الزكاة؟ قال: نعم! وتلا هذه الآية:"وآتى المالَ على حُبه ذَوي القربى واليتامى والمساكينَ وابنَ السبيل والسائلين وفي الرقاب وأقام الصلاة وآتى الزكاة".
+
+٢٥٢٦- حدثنا أبو كريب قال، حدثنا سُويد بن عمرو الكلبي قال، حدثنا حمّاد بن سلمة قال، أخبرنا أبو حمزة قال، قلت للشعبي: إذا زكَّى الرجلُ ماله، أيطيبُ له ماله؟ فقرا هذه الآية:"ليس البر أنْ تُولوا وجوهَكم قبل المشرق والمغرب" إلى"وآتى المال على حُبه" إلى آخرها، ثم قال: حدثتني فاطمة بنت قيس أنها قالت: يا رسول الله، إنّ لي سبعين مثقالا من ذَهَب. فقال: اجعليها في قَرَابتك. [[الحديث: ٢٥٢٦- سويد بن عمرو الكلبي: ثقة من شيوخ أحمد. مترجم في التهذيب، والكبير ٢/٢/١٤٩، وابن أبي حاتم ٢/١/٢٣٩.
+
+أبو حمزة: هو ميمون الأعور القصاب، وهو ضعيف جدًا. مترجم في التهذيب، والكبير ٤/١/٣٤٣، وابن أبي حاتم ٤/١/٢٣٥-٢٣٦.
+
+وهذا الحديث بهذا السياق لم أجده في موضع آخر. وقد روى قريب من معناه، بإسناد آخر أشد ضعفًا. فروى الدارقطني في سننه، ص: ٢٠٥، من طريق أبي بكر الهذلي، عن شعيب بن الحبحاب، عن الشعبي، عن فاطمة بنت قيس، قالت: "أتيت النبي ﷺ بطوق فيه سبعون مثقالا من ذهب، فقلت: يا رسول الله، خذ منه الفريضة، فأخذ منه مثقالا وثلاثة أرباع مثقال". وقال الدارقطني: "أبو بكر الهذلي: متروك، ولم يأت به غيره". وقد مضى بيان ضعف الهذلي هذا: ٥٩٧.]]
+
+٢٥٢٧- حدثنا أبو كريب قال، حدثنا يحيى بن آدم، عن شريك قال، حدثنا أبو حمزة، فيما أعلم - عن عامر، عن فاطمة بنت قيس أنها سمعته يقول: إنّ في المال لحقًّا سوَى الزكاة. [[الحديث: ٢٥٢٧- شريك: هو ابن عبد الله بن أبي شريك، النخعي القاضي، وهو ثقة. مترجم في التهذيب، والكبير ٢/٢/٢٣٨، وابن أبي حاتم ٢/١/٣٦٥-٣٦٧.
+
+وقوله: "عن فاطمة بنت قيس: أنها سمعت": يعني النبي ﷺ. كما هو ظاهر من سياق القول، ومن الروايات الأخر. وسيأتي الحديث أيضًا: ٢٥٣٠- وتخريجه هناك، إن شاء الله.]]
+
+٢٥٢٨- حدثني يعقوب بن إبراهيم قال، حدثنا ابن علية، عن أبي حيان قال، حدثني مزاحم بن زفر قال، كنت جالسًا عند عطاء فأتاه أعرابي فقال له: إن لي إبلا فهل عليّ فيها حقٌّ بعد الصدقة؟ قال: نعم! قال: ماذا؟ قال: عَاريَّة الدلو، وطُروق الفحل، والحلَب. [[في المطبوعة: "عارية الذلول"، وهو خطأ. في حديث عبد الله مسعود: "كنا نعد الماعون على عهد رسول الله ﷺ: عارية الدلو والقدر"، وفي حديث أبي هريرة أنه قال لرسول الله ﷺ: "فما حق الإبل؟ قال: تعطى الكريمة، وتمنح الغزيرة، وتفقر الظهر، وتطرق الفحل، وتسقى اللبن". وفي حديث عبيد بن عمير قال قال رجل: يا رسول الله، ما حق الإبل -فذكره نحوه- زاد: "وإعارة دلوها". (سنن أبي داود ٢: ١٦٧، ١٦٨ باب حقوق المال) .
+
+وطرق الفحل الناقة يطرقها طرقًا وطروقًا: قعا عليها وضربها. وإطراق الفحل: إعارته للضراب. والحلب (بفتحتين) : اللبن المحلوب، سمي بمصدره من: حلب الناقة يحلبهَا وحلبًا وحلابًا.]]
+
+٢٥٢٩- حدثني موسى بن هارون قال: حدثنا عمرو بن حماد قال، حدثنا أسباط، عن السدي، ذكره عن مرة الهمداني في:"وآتى المالَ على حُبه" قال: قال عبد الله بن مسعود: تُعطيه وأنت صحيحٌ شحيحٌ، تطيل الأمل، وتخاف الفقر. وذكر أيضًا عن السدي أن هذا شيء واجبٌ في المال، حق على صاحب المال أن يفعله، سوى الذي عليه من الزكاة.
+
+٢٥٣٠- حدثنا الربيع بن سليمان قال، حدثنا أسد قال، حدثنا سويد بن عبد الله، عن أبي حمزة، عن عامر، عن فاطمة بنت قيس عن النبي ﷺ أنه قال:"في المال حق سوى الزكاة، وتلا هذه الآية:"ليس البر" إلى آخر الآية. [[الحديث: ٢٥٣٠- أسد: هو ابن موسى، الذي يقال له"أسد السنة". مضى في: ٢٣. سويد بن عبد الله هكذا ثبت في المطبوعة. وعندي أنه خطأ، صواب"شريك بن عبد الله"، الذي مضى في الإسناد السابق: ٢٥٢٧. فإن الحديث معروف أنه من رواية شريك. ثم ليس في الرواة -الذين رأينا تراجمهم- من يسمى"سويد بن عبد الله" إلا رجلا له شأن لا بهذا الإسناد، لم يعرف إلا بخبر آخر منكر، وهو مترجم في لسان الميزان.
+
+وهذا الحديث تكرار للحديث: ٢٥٢٧ بأطول منه قليلا. ورواه أيضًا الدارمي ١: ٣٨٥، عن محمد بن الطفيل. والترمذي ٢: ٢٢، من طريق الأسود بن عامر، وعن الدارمي عن محمد بن الطفيل. وابن ماجه: ١٧٨٩، من طريق يحيى بن آدم. والبيهقي في السنن الكبرى ٤: ٨٤، من طريق شاذان - كلهم عن شريك، بهذا الإسناد، مطولا ومختصرًا.
+
+قال الترمذي: "هذا حديث ليس إسناده بذاك. أبو ميمون الأعور يضعف".
+
+وقال البيهقي: "فهذا حديث يعرف بأبي حمزة ميمون الأعور، كوفي، وقد جرحه أحمد بن حنبل و
+
+[TRUNCATED at 12000 chars — 17729 more. Consult the source directly before relying on anything near the cut.]
 
 ### al-Muyassar (Arabic)
 
-ليس الخير عند الله- تعالى- في التوجه في الصلاة إلى جهة المشرق والمغرب إن لم يكن عن أمر الله وشرعه، وإنما الخير كل الخير هو إيمان من آمن بالله وصدَّق به معبودًا وحدَه لا شريك له، وآمن بيوم البعث والجزاء، وبالملائكة جميعًا، وبالكتب المنزلة كافة، وبجميع النبيين من غير تفريق، وأعطى المال تطوُّعًا -مع شدة حبه- ذوي القربى، واليتامى المحتاجين الذين مات آباؤهم وهم دون سن البلوغ، والمساكين الذين أرهقهم الفقر، والمسافرين المحتاجين الذين بَعُدوا عن أهلهم ومالهم، والسائلين الذين اضطروا إلى السؤال لشدة حا...
+ليس الخير عند الله -تعالى- في التوجه في الصلاة إلى جهة المشرق والمغرب إن لم يكن عن أمر الله وشرعه، وإنما الخير كلُّ الخير هو إيمان من آمن بالله وصدَّق به معبودًا وحده لا شريك له، وآمن بيوم البعث والجزاء، وبالملائكة جميعًا، وبالكتب المنزلة كافة، وبجميع النبيين من غير تفريق، وأعطى المال تطوُّعًا- مع شدة حبه- ذوي القربى، واليتامى المحتاجين الذين مات آباؤهم وهم دون سن البلوغ، والمساكين الذين لا يملكون ما يكفيهم ويسدُّ حاجتهم، والمسافرين المحتاجين الذين بَعُدوا عن أهلهم ومالهم، والسائلين الذين اضطروا إلى السؤال لشدة حاجتهم، وأنفق في تحرير الرقيق والأسرى، وأقام الصلاة، وأدى الزكاة المفروضة، والذين يوفون بالعهود، ومن صبر في حال فقره ومرضه، وفي شدة القتال. أولئك المتصفون بهذه الصفات هم الذين صدقوا في إيمانهم، وأولئك هم الذين اتقَوا عقاب الله فتجنبوا معاصيَه.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿لَيْسَ البِرّ أنْ تُوَلُّوا وُجُوهكُمْ﴾ فِي الصَّلاة ﴿قِبَل المَشْرِق والمَغْرِب﴾ نَزَلَ رَدًّا عَلى اليَهُود والنَّصارى حَيْثُ زَعَمُوا ذَلِكَ ﴿ولَكِنَّ البِرّ﴾ أيْ ذا البِرّ وقُرِئَ بِفَتْحِ الباء أيْ البارّ ﴿مَن آمَنَ بِاللَّهِ واليَوْم الآخِر والمَلائِكَة والكِتاب﴾ أيْ الكُتُب ﴿والنَّبِيِّينَ وآتى المال عَلى﴾ مَعَ ﴿حُبّه﴾ لَهُ ﴿ذَوِي القُرْبى﴾ القَرابَة ﴿واليَتامى والمَساكِين وابْن السَّبِيل﴾ المُسافِر ﴿والسّائِلِينَ﴾ الطّالِبِينَ ﴿وفِي﴾ فَكّ ﴿الرِّقاب﴾ المُكاتَبِينَ والأَسْرى ﴿وأَقامَ الصَّلاة وآتى الزَّكاة﴾ المَفْرُوضَة وما قَبْله فِي التَّطَوُّع ﴿والمُوفُونَ بِعَهْدِهِمْ إذا عاهَدُوا﴾ اللَّه أوْ النّاس ﴿والصّابِرِينَ﴾ نُصِبَ عَلى المَدْح ﴿فِي البَأْساء﴾ شِدَّة الفَقْر ﴿والضَّرّاء﴾ المَرَض ﴿وحِين البَأْس﴾ وقْت شِدَّة القِتال فِي سَبِيل اللَّه ﴿أُولَئِكَ﴾ المَوْصُوفُونَ بِما ذُكِرَ ﴿الَّذِينَ صَدَقُوا﴾ فِي إيمانهمْ أوْ ادِّعاء البِرّ ﴿وأُولَئِكَ هُمْ المُتَّقُونَ﴾ اللَّه
 
 ---
 
@@ -32,23 +274,117 @@ As for the explanation of this Ayah, Allah first commanded the believers to face
 
 ### Ibn Kathir (English)
 
+The parable of those who spend their wealth in the way of Allah, is that of a grain (of corn); it grows seven ears, and each ear has a hundred grains. Allah gives manifold increase to whom He wills. And Allah is All-Sufficient for His creatures' needs, All-Knower (261)
+
 Rewards of Spending in Allah's Cause
+
 This is a parable that Allah made of the multiplication of rewards for those who spend in His cause, seeking His pleasure. Allah multiplies the good deed ten to seven hundred times. Allah said,
-مَّثَلُ الَّذِينَ يُنفِقُونَ أَمْوَلَهُمْ فِي سَبِيلِ اللَّهِ
+
+مَّثَلُ الَّذِينَ يُنفِقُونَ أَمْوَالَهُمْ فِي سَبِيلِ اللَّهِ
+
 (The parable of those who spend their wealth in the way of Allah...)
-Sa`id bin Jubayr commented, "Meaning spending in Allah's obedience." Makhul said that the Ayah means, "Spending on Jihad, on horse stal...
+
+Sa'id bin Jubayr commented, "Meaning spending in Allah's obedience." Makhul said that the Ayah means, "Spending on Jihad, on horse stalls, weapons and so forth." The parable in the Ayah is more impressive on the heart than merely mentioning the number seven hundred. This Ayah indicates that Allah 'grows' the good deeds for its doers, just as He grows the plant for whoever sows it in fertile land. The Sunnah also mentions that the deeds are multiplied up to seven hundred folds. For instance, Imam Ahmad recorded that Abu Mas'ud said that a man once gave away a camel, with its bridle on, in the cause of Allah and the Messenger of Allah ﷺ said,
+
+لَتَأْتِيَنَّ يَوْمَ الْقِيَامَةِ بِسَبْعِمِائَةِ نَاقَةٍ مَخْطُومَةٍ
+
+(On the Day of Resurrection, you will have seven hundred camels with their bridles.)
+
+Muslim and An-Nasa'i also recorded this Hadith, and Muslim's narration reads, "A man brought a camel with its bridle on and said, 'O Messenger of Allah! This is in the sake of Allah.' The Messenger said,
+
+لَكَ بِهَا يَوْمَ الْقِيَامَةِ سَبْعُمِائَةِ نَاقَةٍ
+
+(You will earn seven hundred camels as reward for it on the Day of Resurrection.)
+
+Another Hadith: Ahmad recorded that Abu Hurayrah said that the Messenger of Allah ﷺ said,
+
+كُلُّ عَمَلِ ابْنِ آدَمَ يُضَاعَفُ، الْحَسَنَةُ بِعَشَرِ أَمْثَالِهَا، إِلَى سَبْعِمِائَةِ ضِعْفٍ، إِلى مَا شَاءَ اللهُ، يَقُولُ اللهُ: إِلَّا الصَّوْمَ فَإِنَّهُ لِي، وَأَنَا أَجْزِي بِهِ، يَدَعُ طَعَامَهُ وَشَهْوَتَهُ مِنْ أَجْلِي، وَلِلصَّائِمِ فَرْحَتَانِ: فَرْحَةٌ عِنْدَ فِطْرِهِ وَفَرْحَةٌ عِنْدَ لِقَاءِ رَبِّهِ، وَلَخَلُوفُ فَمِ الصَّائِمِ أَطْيَبُ عِنْدَ اللهِ مِنْ رِيحِ الْمِسْكِ، الصَّوْمُ جُنَّةٌ، الصَّومُ جُنَّةٌ
+
+(Every good deed that the son of Adam performs will be multiplied ten folds, to seven hundred folds, to many other folds, to as much as Allah wills. Allah said, "Except the fast, for it is for Me and I will reward for it. One abandons his food and desire in My sake." The fasting person has two times of happiness: when he breaks his fast and when he meets his Lord. Verily, the odor that comes from the mouth of whoever fasts is more pure to Allah than the scent of musk. Fasting is a shield (against sinning), fasting is a shield.) Muslim recorded this Hadith.
+
+Allah's statement,
+
+وَاللَّهُ يُضَاعِفُ لِمَن يَشَاءُ
+
+(Allah gives manifold increase to whom He wills) is according to the person's sincerity in his deeds.
+
+وَاللَّهُ وَاسِعٌ عَلِيمٌ
+
+(And Allah is All-Sufficient for His creatures' needs, All-Knower) meaning, His Favor is so wide that it encompasses much more than His creation, and He has full knowledge in whoever deserves it, or does not deserve it. All the praise and thanks are due to Allah.
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله :  مَثَلُ الَّذِينَ يُنْفِقُونَ أَمْوَالَهُمْ فِي سَبِيلِ اللَّهِ كَمَثَلِ حَبَّةٍ أَنْبَتَتْ سَبْعَ سَنَابِلَ فِي كُلِّ سُنْبُلَةٍ مِائَةُ حَبَّةٍقال أبو جعفر: وهذه الآية مردودة إلى قوله:  مَنْ ذَا الَّذِي يُقْرِضُ اللَّهَ قَرْضًا حَسَنًا فَيُضَاعِفَهُ لَهُ أَضْعَافًا كَثِيرَةً وَاللَّهُ يَقْبِضُ وَيَبْسُطُ وَإِلَيْهِ تُرْجَعُونَ  [ البقرة: 245 ] والآياتُ التي بعدها إلى قوله: ( مثل الذين ينفقون أموالهم في سبيل الله )، من قصص بني إسرائيل وخبرهم مع طالوت وجالوت, وما بعد ذلك...
+القول في تأويل قوله: ﴿مَثَلُ الَّذِينَ يُنْفِقُونَ أَمْوَالَهُمْ فِي سَبِيلِ اللَّهِ كَمَثَلِ حَبَّةٍ أَنْبَتَتْ سَبْعَ سَنَابِلَ فِي كُلِّ سُنْبُلَةٍ مِائَةُ حَبَّةٍ﴾
+
+قال أبو جعفر: وهذه الآية مردودة إلى قوله: ﴿مَنْ ذَا الَّذِي يُقْرِضُ اللَّهَ قَرْضًا حَسَنًا فَيُضَاعِفَهُ لَهُ أَضْعَافًا كَثِيرَةً وَاللَّهُ يَقْبِضُ وَيَبْسُطُ وَإِلَيْهِ تُرْجَعُونَ﴾ [البقرة: ٢٤٥] والآياتُ التي بعدها إلى قوله: ﴿مثل الذين ينفقون أموالهم في سبيل الله﴾ ، من قصص بني إسرائيل وخبرهم مع طالوت وجالوت، وما بعد ذلك من نبإ الذي حاجّ إبراهيم مع إبراهيم، وأمْرِ الذي مرّ على القرية الخاوية على عروشها، وقصة إبراهيم ومسألته ربَّه ما سأل، مما قد ذكرناه قبل = [[سياق الجملة: "والآيات التي بعدها ... اعتراض من الله تعالى ... " مبتدأ وخبره.]] . اعتراض من الله تعالى ذكره بما اعترضَ به من قصصهم بين ذلك، احتجاجًا منه ببعضه على المشركين الذين كانوا يكذبون بالبعث وقيام الساعة = وحضًّا منه ببعضه للمؤمنين على الجهاد في سبيله الذي أمرهم به في قوله: ﴿وَقَاتِلُوا فِي سَبِيلِ اللَّهِ وَاعْلَمُوا أَنَّ اللَّهَ سَمِيعٌ عَلِيمٌ﴾ [البقرة: ٢٤٤] ، يعرّفهم فيه أنه ناصرهم وإن قل عددهم وكثر عدَد عدوّهم، ويعدهم النصرة عليهم، ويعلّمهم سنته فيمن كان على منهاجهم من ابتغاء رضوان الله أنه مؤيدهم، وفيمن كان على سبيل أعدائهم من الكفار بأنه خاذلهم ومفرِّق جمعهم ومُوهِنُ كيدهم = وقطعًا منه ببعض عذرَ اليهود الذين كانوا بين ظهرَانَيْ مُهاجرَ رسول الله ﷺ، بما أطلع نبيَّه عليه من خفي أمورهم، ومكتوم أسرار أوائلهم وأسلافهم التي لم يعلمها سواهم، ليعلموا أن ما آتاهم به محمد ﷺ من عند الله، وأنه ليس بتخرُّص ولا اختلاق، = وإعذارًا منه به إلى أهل النفاق منهم، ليحذروا بشكِّهم في أمر محمد ﷺ أن يُحلَّ بهم من بأسه وسطوته، مثل الذي أحلَّهما بأسلافهم الذين كانوا في القرية التي أهلكها، فتركها خاوية على عروشها.
+
+ثم عاد تعالى ذكره إلى الخبر عن ﴿الذي يقرض الله قرضًا حسنًا﴾ وما عنده له من الثواب على قَرْضه، فقال: ﴿مثل الذين ينفقون أموالهم في سبيل الله﴾ يعني بذلك: مثل الذين ينفقون أموالهم على أنفسهم في جهاد أعداء الله بأنفسهم وأموالهم = ﴿كمثل حبة﴾ من حبات الحنطة أو الشعير، أو غير ذلك من نبات الأرض التي تُسَنْبل رَيْعَها سنبلة بذرها زارع [[في المطبوعة: "تسنبل سنبلة بذرها زارع"، وضع"سنبلة" مكان"ريعها"، ظنها محرفة.
+
+وريع البذر: فضل ما يخرج من البزر على أصله. وهو من"الريع" بمعنى النماء والزيادة. والمعنى: تسنبل أضعافها زيادة وكثرة.]] . ="فأنبتت"، يعني: فأخرجت = ﴿سبع سنابلَ في كل سنبلة مائة حبة﴾ ، يقول: فكذلك المنفق ماله على نفسه في سبيل الله، له أجره سبعمائة ضعف على الواحد من نفقته. كما: -
+
+٦٠٢٨ - حدثني موسى بن هارون قال، حدثنا عمرو بن حماد قال، حدثنا أسباط، عن السدي: ﴿كمثل حبة أنبتت سبع سنابل في كل سنبلة مائة حبة﴾ فهذا لمن أنفق في سبيل الله، فله أجره سبعمائة. [[في المطبوعة: "فله سبع مائة" بحذف"أجره"، وفي
+
+المخطوطة: "فله سبعمائة" بياض بين الكلمتين، وأتممت العبارة من الدر المنثور ١: ٣٣٦، وفيه: "فله أجره سبعمائة مرة".]] .
+
+٦٠٢٩ - حدثنا يونس قال، أخبرنا ابن وهب قال، قال ابن زيد في قوله: ﴿مثل الذين ينفقون أموالهم في سبيل الله كمثل حبة أنبتت سبع سنابل في كل سنبلة مائة حبة والله يضاعف لمن يشاء﴾ ، قال: هذا الذي ينفق على نفسه في سبيل الله ويخرُج.
+
+٦٠٣٠ - حدثنا عن عمار قال، حدثنا ابن أبي جعفر، عن أبيه، عن الربيع قوله: ﴿مثل الذين ينفقون أموالهم في سبيل الله كمثل حبة أنبتت سبع سنابل في كل سنبلة مائة حبة﴾ الآية، فكان من بايع النبي ﷺ على الهجرة، ورابط مع النبي ﷺ بالمدينة، ولم يلق وجهًا إلا بإذنه، [[في المخطوطة: "لم يلف وجها"، والذي في المطبوعة لا بأس به، وإن كنت في شك منه.
+
+وفي الدر المنثور ١: ٣٣٦"لم يذهب وجها".]] . كانت الحسنة له بسبعمائة ضعف، ومن بايع على الإسلام كانت الحسنة له عشر أمثالها.
+
+* *
+
+قال أبو جعفر: فإن قال قائل: وهل رأيتَ سنبلة فيها مائة حبة أو بلغتْك فضرب بها مثل المنفقَ في سبيل الله ماله؟ [[في هامش المخطوطة تعليق على هذا السؤال، وهو أول تعليق أجده على هذه النسخة بخط غير حط كاتبها، وهو مغربي كما سيتبين مما كتب، وبعض الحروف متآكل عند طرف الهامش، فاجتهدت في قراءتها:
+
+"أقول: بل ذلك ثابت محقّق مشاهدٌ في البلاد، وأكثر منه. فإن سنبل تلك البلاد يكثر حبّه وفروعه إلى ما يقارب الفتر. ولقد عدت من فروع حبة واحدة ثلاثة وستين فرعًا، وشاهدت من ذلك مرارًا. فقد أراني بعض أصحابي جملة من ذلك ... ، كان أقل ما عددناه للحبة ثلاثة عشر سنبلة إلى ما يبلغ أو يزيد على ما ذكرت أولًا من العدد. كتبه محمد بن محمود الجزائري الحنفي"
+
+ثم انظر ما قاله القرطبي وغيره في سائر كتب التفسير.]] .
+
+قيل: إن يكن ذلك موجودًا فهو ذاك، [[في المخطوطة: "قيل قيل أن يكون ذلك موجود فهو ذاك"، وهو خطأ ولا شك، وما في المطبوعة جيد في السياق.]] . وإلا فجائز أن يكون معناه: كمثل سنبلة أنبتت سبع سنابل في كل سنبلة مائة حبة، إنْ جَعل الله ذلك فيها.
+
+ويحتمل أن يكون معناه: في كل سنبلة مائة حبة؛ يعني أنها إذا هي بذرت أنبتت مائة حبة = فيكون ما حدث عن البذر الذي كان منها من المائة الحبة، مضافًا إليها، لأنه كان عنها. وقد تأوّل ذلك على هذا الوجه بعض أهل التأويل.
+
+ذكر من قال ذلك:
+
+٦٠٣١ - حدثني المثنى قال، حدثنا إسحاق قال، حدثنا أبو زهير، عن جويبر، عن الضحاك قوله: ﴿مثل الذين ينفقون أموالهم في سبيل الله كمثل حبة أنبتت سبع سنابل في كل سنبلة مائة حبة﴾ ، قال: كل سنبلة أنبتت مائة حبة، فهذا لمن أنفق في سبيل الله =: ﴿والله يضاعف لمن يشاء والله واسع عليم﴾ .
+
+* *
+
+القول في تأويل قوله: ﴿وَاللَّهُ يُضَاعِفُ لِمَنْ يَشَاءُ﴾
+
+قال أبو جعفر: اختلف أهل التأويل في تأويل قوله: ﴿والله يضاعف لمن يشاء﴾ . فقال بعضهم: الله يضاعف لمن يشاء من عباده أجرَ حسناته = بعد الذي أعطى غير منفق في سبيله، دون ما وعد المنفق في سبيله من تضعيف الواحدة سبعمائة. فأما المنفق في سبيله، فلا ينقصة عما وعده من تضعيف السبعمائة بالواحدة. [[كانت هذه الجملة كلها في المطبوعة: "والله يضاعف لمن يشاء من عباده أجر حسناته، بعد الذي أعطى المنفق في سبيله من التضعيف الواحدة سبعمائة. فأما المنفق في سبيله فلا نفقة ما وعده من تضعيف السبعمائة بالواحدة". وقد غيروا ما كان في المخطوطة لأنه فاسد بلا شك وهذا نصه: "والله يضاعف لمن يشاء أجر حسناته، بعد الذي أعطى المنفق في سبيله من التضعيف الواحدة سبعمائة. فأما المنفق في سبيله عما وعده من تضعيف السبعمائة بالواحدة". ولكنى استظهرت من سياق التفسير بعد، أن الصواب غير ما في المطبوعة، وأن في الكلام تصحيفًا وسقطًا، أتممته بما يوافق المعنى الذي قاله هؤلاء، كما يتبين من كلام أبي جعفر فيما بعد.]] .
+
+ذكر من قال ذلك:
+
+٦٠٣٢ - حدثني المثنى قال، حدثنا إسحاق قال، حدثنا أبو زهير، عن جويبر، عن الضحاك، قال: هذا يضاعف لمن أنفق في سبيل الله -يعني السبعمائة- ﴿والله يضاعف لمن يشاء والله واسع عليم﴾ ، يعني لغير المنفق في سبيله.
+
+* *
+
+وقال آخرون: بل معنى ذلك: والله يضاعف لمن يشاء من المنفقين في سبيله على السبعمائة إلى ألفي ألف ضعف. وهذا قول ذكر عن ابن عباس من وجه لم أجد إسناده، فتركت ذكره.
+
+* *
+
+قال أبو جعفر: والذي هو أولى بتأويل قوله: ﴿والله يضاعف لمن يشاء﴾ والله يضاعف على السبعمائة إلى ما يشاء من التضعيف، لمن يشاء من المنفقين في سبيله. لأنه لم يجر ذكر الثواب والتضعيف لغير المنفق في سبيل الله، فيجوز لنا توجيه ما وعد تعالى ذكره في هذه الآية من التضعيف، إلى أنه عِدَة منه على [العمل في غير سبيله، أو] على غير النفقة في سبيل الله. [[زدت ما بين القوسين، لأنه مما يقتضيه سياق الكلام والتركيب.]] .
+
+* *
+
+القول في تأويل قوله: ﴿وَاللَّهُ وَاسِعٌ عَلِيمٌ (٢٦١) ﴾
+
+قال أبو جعفر: يعني تعالى ذكره بذلك: ﴿والله واسع﴾ ، أن يزيد من يشاء من خلقه المنفقين في سبيله على أضعاف السبعمائة التي وعده أن يزيده = [[انظر تفسير"واسع" و"عليم" فيما سلف ٢: ٥٣٧، وانظر فهارس اللغة أيضًا.]] . ﴿عليم﴾ من يستحق منهم الزيادة، كما: -
+
+٦٠٣٣ - حدثني يونس قال، أخبرنا ابن وهب قال، قال ابن زيد في قوله: ﴿والله يضاعف لمن يشاء والله واسع عليم﴾ قال: ﴿واسع﴾ أن يزيد من سعته = ﴿عليم﴾ ، عالم بمن يزيده.
+
+* *
+
+وقال آخرون: معنى ذلك: ﴿والله واسع﴾ ، لتلك الأضعاف = ﴿عليم﴾ بما ينفق الذين ينفقون أموالهم في طاعة الله.
 
 ### al-Muyassar (Arabic)
 
-ومِن أعظم ما ينتفع به المؤمنون الإنفاقُ في سبيل الله. ومثل المؤمنين الذين ينفقون أموالهم في سبيل الله كمثل حبة زُرِعتْ في أرض طيبة، فإذا بها قد أخرجت ساقًا تشعب منها سبع شعب، لكل واحدة سنبلة، في كل سنبلة مائة حبة. والله يضاعف الأجر لمن يشاء، بحسب ما يقوم بقلب المنفق من الإيمان والإخلاص التام. وفضل الله واسع، وهو سبحانه عليم بمن يستحقه، مطلع على نيات عباده.
+ومِن أعظم ما ينتفع به المؤمنون الإنفاقُ في سبيل الله. ومَثَلُ المؤمنين الذين ينفقون أموالهم في سبيل الله كمثل حبة زُرِعتْ في أرض طيبة، فإذا بها قد أخرجت ساقًا تشعب منها سبع شعب، لكل واحدة سنبلة، في كل سنبلة مائة حبة. والله يضاعف الأجر لمن يشاء، بحسب ما يقوم بقلب المنفق من الإيمان والإخلاص التام. وفضل الله واسع، وهو سبحانه عليم بمن يستحقه، مطلع على نيات عباده.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿مَثَل﴾ صِفَة نَفَقات ﴿الَّذِينَ يُنْفِقُونَ أمْوالهمْ فِي سَبِيل اللَّه﴾ أيْ طاعَته ﴿كَمَثَلِ حَبَّة أنْبَتَتْ سَبْع سَنابِل فِي كُلّ سُنْبُلَة مِائَة حَبَّة﴾ فَكَذَلِكَ نَفَقاتهمْ تَضاعَفَ سَبْعمِائَةِ ضِعْف ﴿واللَّه يُضاعِف﴾ أكْثَر مِن ذَلِكَ ﴿لِمَن يَشاء واللَّه واسِع﴾ فَضْله ﴿عَلِيم﴾ بِمَن يَسْتَحِقّ المُضاعَفَة
 
 ---
 
@@ -56,21 +392,327 @@ Sa`id bin Jubayr commented, "Meaning spending in Allah's obedience." Makhul said
 
 ### Ibn Kathir (English)
 
+Not upon you (Muhammad ﷺ) is their guidance, but Allah guides whom He wills. And whatever you spend in good, it is for yourselves, when you spend not except seeking Allah's Face. And whatever you spend in good, it will be repaid to you in full, and you shall not be wronged (272)(Charity is) for Fuqara' (the poor), who in Allah's cause are restricted (from travel), and cannot move about in the land (for trade or work). The one who knows them not, thinks that they are rich because of their modesty. You may know them by their mark, they do not beg of people at all. And whatever you spend in good, surely Allah knows it well (273)Those who spend their wealth (in Allah's cause) by night and day, in secret and in public, they shall have their reward with their Lord. On them shall be no fear, nor shall they grieve (274)
+
 Giving Charity to Polytheists
-Abu `Abdur-Rahman An-Nasa'i recorded that Ibn `Abbas said that they, "Disliked giving charity to their polytheist relatives, but were later on allowed to give it to them when they inquired about this matter, and this Ayah was revealed,
-لَّيْسَ عَلَيْكَ هُدَاهُمْ وَلَـكِنَّ اللَّهَ يَهْدِى مَن يَشَآءُ وَمَا تُنفِقُواْ مِنْ خَيْرٍ فَلاًّنفُسِكُمْ وَمَا تُنفِقُونَ إِلاَّ ابْتِغَآءَ وَجْهِ اللَّهِ وَمَا تُنفِقُواْ مِنْ خَيْرٍ يُوَفَّ إِلَيْكُمْ وَأَنتُمْ لاَ تُظْلَمُ...
+
+Abu 'Abdur-Rahman An-Nasa'i recorded that Ibn 'Abbas said that they, "Disliked giving charity to their polytheist relatives, but were later on allowed to give it to them when they inquired about this matter, and this Ayah was revealed,
+
+لَّيْسَ عَلَيْكَ هُدَاهُمْ وَلَٰكِنَّ اللَّهَ يَهْدِي مَن يَشَاءُ وَمَا تُنفِقُوا مِنْ خَيْرٍ فَلِأَنفُسِكُمْ وَمَا تُنفِقُونَ إِلَّا ابْتِغَاءَ وَجْهِ اللَّهِ وَمَا تُنفِقُوا مِنْ خَيْرٍ يُوَفَّ إِلَيْكُمْ وَأَنتُمْ لَا تُظْلَمُونَ
+
+(Not upon you (Muhammad ﷺ) is their guidance, but Allah guides whom He wills. And whatever you spend in good, it is for yourselves, when you spend not except seeking Allah's Face. And whatever you spend in good, it will be repaid to you in full, and you shall not be wronged.)
+
+Allah's statement,
+
+وَمَا تُنفِقُوا مِنْ خَيْرٍ فَلِأَنفُسِكُمْ
+
+(And whatever you spend in good, it is for yourselves) is similar to His other statement,
+
+مَّنْ عَمِلَ صَالِحًا فَلِنَفْسِهِ
+
+(Whosoever does righteous good deed, it is for (the benefit of) his ownself.)[41:46]
+
+There are many other similar Ayat in the Qur'an.
+
+Allah said next,
+
+وَمَا تُنفِقُونَ إِلَّا ابْتِغَاءَ وَجْهِ اللَّهِ
+
+(When you spend not except seeking Allah's Face.)
+
+Al-Hasan Al-Basri commented, "Whenever the believer spends, including what he spends on himself, he seeks Allah's Face with it." 'Ata' Al-Khurasani said that the Ayah means, "You give away charity for the sake of Allah. Therefore, you will not be asked about the deeds [or wickedness] of those who receive it." This is a sound meaning indicating that when one spends in charity for Allah's sake, then his reward will be with Allah. He will not be asked if the charity unintentionally reached righteous, evil, deserving or undeserving persons, for he will be rewarded for his good intention. The proof to this statement is the Ayah,
+
+وَمَا تُنفِقُوا مِنْ خَيْرٍ يُوَفَّ إِلَيْكُمْ وَأَنتُمْ لَا تُظْلَمُونَ
+
+(And whatever you spend in good, it will be repaid to you in full, and you shall not be wronged.)
+
+The Two Sahihs recorded a Hadith by Abu Hurayrah that the Messenger of Allah ﷺ said,
+
+قَالَ رَجُلٌ: لَأَتَصَدَّقَنَّ اللَّيْلَةَ بِصَدَقَةٍ، فَخَرجَ بِصَدَقَتِهِ فَوَضَعَهَا فِي يَدِ زَانِيَةٍ، فَأَصْبَحَ النَّاسُ يَتَحَدَّثُونَ: تُصُدِّقَ عَلَى زَانِيَةٍ، فَقَالَ: اللَّهُمَ لَكَ الْحَمْدُ عَلَى زَانِيَةٍ، لَأَتَصَدَّقَنَّ اللَّيْلَةَ بِصَدَقَةٍ، فَخَرَجَ بِصَدَقَتِهِ فَوَضَعَهَا فِي يَدِ غَنِيٍّ، فَأَصْبَحُوا يَتَحَدَّثُونَ: تُصُدِّقَ اللَّيْلَةَ عَلَى غَنِيٍّ، قَالَ: اللَّهُمَّ لَكَ الْحَمْدُ عَلَى غَنِيٍّ، لَأَتَصَدَّقَنَّ اللَّيْلَةَ بِصَدَقَةٍ، فَخَرَجَ بِصَدَقَتِهِ فَوَضَعَهَا فِي يَدِ سَارِقٍ، فَأَصْبَحُوا يَتَحَدَّثُونَ: تُصُدِّقَ اللَّيْلَةَ عَلَى سَارِقٍ، فَقَالَ: اللَّهُمَّ لَكَ الْحَمْدُ عَلَى زَانِيَةٍ، وَعَلَى غَنِيٍّ، وَعَلَى سَارِقٍ. فَأُتِيَ فَقِيلَ لَهُ: أَمَّا صَدَقَتُكَ فَقَدْ قُبِلَتْ، وَأَمَّا الزَّانِيَةُ فَلَعَلَّهَا أَنْ تَسْتَعِفَّ بِهَا عَنْ زِنَاهَا، وَلَعَلَّ الْغَنِيَّ يَعْتَبِرُ فَيُنْفِقُ مِمَّا أَعْطَاهُ اللهُ، وَلَعَلَّ السَّارِقَ أَنْ يَسْتَعِفَّ بِهَا عَنْ سَرِقَتِهِ
+
+(A man said, "Tonight, I shall give charity." He went out with his charity and (unknowingly) gave it to an adulteress. The next morning the people said that alms were given to an adulteress. The man said, "O Allah! All the praises are for You. (I gave my alms) to an adulteress. Tonight, I shall give alms again." He went out with his charity and (unknowingly) gave it to a rich person. The next morning (the people) said, "Last night, a wealthy person was given alms." He said, "O Allah! All the praises are for You. (I gave alms) to a wealthy man. Tonight, I shall again give charity." So he went out with his charity and (unknowingly) gave it to a thief. The next morning (the people) said, "Last night, a thief was given alms." He said, "O Allah! All the praises are for You. (I have given alms) to an adulteress, a wealthy man and a thief." Then, someone came to him and said, "The alms that you gave away were accepted. As for the adulteress, the alms might make her abstain from adultery. As for the wealthy man, it might make him take a lesson and spend his wealth that Allah has given him. As for the thief, it might make him abstain from stealing.")
+
+Who Deserves Charity
+
+Allah said,
+
+لِلْفُقَرَاءِ الَّذِينَ أُحْصِرُوا فِي سَبِيلِ اللَّهِ
+
+((Charity is) for the poor, who in Allah's cause are restricted (from travel)) meaning, the migrants who migrated to Allah and His Messenger, resided in Al-Madinah and did not have resources that sufficiently provided them with their needs,
+
+لَا يَسْتَطِيعُونَ ضَرْبًا فِي الْأَرْضِ
+
+(And cannot Darban (move about) in the land) meaning, "They cannot travel in the land to seek means of livelihood." Allah said in other instances [using a variation of the word Darban]
+
+وَإِذَا ضَرَبْتُمْ فِي الْأَرْضِ فَلَيْسَ عَلَيْكُمْ جُنَاحٌ أَن تَقْصُرُوا مِنَ الصَّلَاةِ
+
+(And when you (Muslims) travel in the land, there is no sin on you if you shorten the Salah (the prayer))[4:101], and,
+
+عَلِمَ أَن سَيَكُونُ مِنكُم مَّرْضَىٰ وَآخَرُونَ يَضْرِبُونَ فِي الْأَرْضِ يَبْتَغُونَ مِن فَضْلِ اللَّهِ وَآخَرُونَ يُقَاتِلُونَ فِي سَبِيلِ اللَّهِ
+
+(He knows that there will be some among you sick, others traveling through the land, seeking of Allah's bounty, yet others fighting in Allah's cause)[73:20].
+
+Allah then said,
+
+يَحْسَبُهُمُ الْجَاهِلُ أَغْنِيَاءَ مِنَ التَّعَفُّفِ
+
+(The one who knows them not, thinks that they are rich because of their modesty) meaning, those who do not know their situation think that they are well-off, because they are modest in their clothes and speech. There is a Hadith with this meaning that the Two Sahihs recorded from Abu Hurayrah that the Messenger of Allah ﷺ said,
+
+لَيْسَ الْمِسْكِينُ بِهذَا الطَّوَّافِ الَّذِي تَرُدُّهُ التَّمْرَةُ وَالتَّمْرَتَانِ، وَاللُّقْمَةُ وَاللُّقْمَتَانِ، وَالْأُكْلَةُ وَالْأُكْلَتَانِ، وَلكِنِ الْمِسْكِينُ الَّذِي لَا يَجِدُ غِنىً يُغْنِيهِ، وَلَا يُفْطَنُ لَهُ فَيُتَصَدَّقَ عَلَيْهِ، وَلَا يَسْأَلُ النَّاسَ شَيْئًا
+
+(The Miskin (needy) is not he who wanders about and whose need is sufficed by a date or two, a bite or two or a meal or two. Rather, the Miskin is he who neither has enough resources to sustain him, all the while people are unaware of his need so they do not give to him, nor does he ask people for anything.)
+
+Imam Ahmad also recorded this Hadith from Ibn Mas'ud.
+
+Allah's statement,
+
+تَعْرِفُهُم بِسِيمَاهُمْ
+
+(You may know them by their mark) means, "Those who have good minds discover their situation," just as Allah said in other instances,
+
+سِيمَاهُمْ فِي وُجُوهِهِم
+
+(The mark of them (i.e. of their faith) is on their faces)[48:29], and,
+
+وَلَتَعْرِفَنَّهُمْ فِي لَحْنِ الْقَوْلِ
+
+(But surely, you will know them by the tone of their speech!)[47:30]. Allah's statement,
+
+لَا يَسْأَلُونَ النَّاسَ إِلْحَافًا
+
+(they do not beg of people at all) means, they do not beg and, thus, do not require people to provide them with more than what they actually need. Indeed, those who ask people for help, while having what suffices for their needs, have begged.
+
+Imam Ahmad recorded that Abu Sa'id said, "My mother sent me to the Messenger of Allah ﷺ to ask him for help, but when I came by him I sat down. The Prophet ﷺ faced me and said to me,
+
+مَنِ اسْتَغْنَى أَغْنَاهُ اللهُ، وَمَنِ اسْتَعَفَّ أَعَفَّهُ اللهُ، وَمَنِ اسْتَكَفَّ كَفَاهُ اللهُ، وَمَنْ سَأَلَ وَلَهُ قِيمَةُ أُوقِيَّةٍ فَقَدْ أَلْـحَفَ
+
+(Whoever felt satisfied, then Allah will enrich him. Whoever is modest, Allah will make him decent. Whoever is content, then Allah will suffice for him. Whoever asks people, while having a small amout, he will have begged the people.)
+
+Abu Sa'id said, "I said to myself, 'I have a camel, Al-Yaqutah, and indeed, it is worth more than a small amount.' And I went back without asking the Prophet ﷺ for anything." This is the same wording for this Hadith collected by Abu Dawud and An-Nasa'i.
+
+Allah's statement,
+
+وَمَا تُنفِقُوا مِنْ خَيْرٍ فَإِنَّ اللَّهَ بِهِ عَلِيمٌ
+
+(And whatever you spend in good, surely Allah knows it well) indicates that no charity escapes Him, and He will reward it fully and perfectly on the Day of Resurrection, when it is most desperately needed.
+
+Praise for those who Spend in Charity
+
+Allah said,
+
+الَّذِينَ يُنفِقُونَ أَمْوَالَهُم بِاللَّيْلِ وَالنَّهَارِ سِرًّا وَعَلَانِيَةً فَلَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ
+
+(Those who spend their wealth (in Allah's cause) by night and day, in secret and in public, they shall have their reward with their Lord. On them shall be no fear, nor shall they grieve.)
+
+This Ayah praises those who spend in charity for Allah's sake, seeking His pleasure, day and night, publicly and in secret, including what one spends on his family. The Two Sahihs recorded that the Messenger of Allah ﷺ said to Sa'd bin Abi Waqqas:
+
+وَإِنَّكَ لَنْ تُنْفِقَ نَفَقَةً تَبْتَغِي بِهَا وَجْهَ اللهِ إِلَّا ازْدَدْتَ بِهَا دَرَجَةً وَرِفْعَةً، حَتَّى مَا تَجْعَلُ فِي فِي امْرَأَتِكَ
+
+(You will not spend charity with which you seek Allah's Face, but you will ascend a higher degree and status because of it, including what you put in your wife's mouth.)
+
+Imam Ahmad recorded that Abu Mas'ud said that the Prophet ﷺ said,
+
+إِنَّ الْمُسْلِمَ إِذَا أَنْفَقَ عَلَى أَهْلِهِ نَفَقَةً يَحْتَسِبُهَا، كَانَتْ لَهُ صَدَقَةً
+
+(When the Muslim spends on his family while awaiting the reward for it from Allah, it will be written as charity for him.)
+
+Al-Bukhari and Muslim also recorded this Hadith.
+
+Allah said,
+
+فَلَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ
+
+(shall have their reward with their Lord), on the Day of Resurrection, as reward for what they spent in acts of obedience. We previously explained the Ayah,
+
+فَلاَ خَوْفٌ عَلَيْهِمْ وَلاَ هُمْ يَحْزَنُونَ
+
+(there shall be no fear on them nor shall they grieve.)[2:38]
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله :  لِلْفُقَرَاءِ الَّذِينَ أُحْصِرُوا فِي سَبِيلِ اللَّهِ لا يَسْتَطِيعُونَ ضَرْبًا فِي الأَرْضِ يَحْسَبُهُمُ الْجَاهِلُ أَغْنِيَاءَ مِنَ التَّعَفُّفِ تَعْرِفُهُمْ بِسِيمَاهُمْ لا يَسْأَلُونَ النَّاسَ إِلْحَافًا وَمَا تُنْفِقُوا مِنْ خَيْرٍ فَإِنَّ اللَّهَ بِهِ عَلِيمٌ (273)قال أبو جعفر: أما قوله: " للفقراء الذين أحصروا في سبيل الله "، فبيان من الله عز وجل عن سبيل النفقة ووجهها. ومعنى الكلام: وما تنفقوا من خير فلأنفسكم تنفقون للفقراء الذين أحصروا في سبيل الله." واللام " ال...
+القول في تأويل قوله: ﴿لِلْفُقَرَاءِ الَّذِينَ أُحْصِرُوا فِي سَبِيلِ اللَّهِ لا يَسْتَطِيعُونَ ضَرْبًا فِي الأرْضِ يَحْسَبُهُمُ الْجَاهِلُ أَغْنِيَاءَ مِنَ التَّعَفُّفِ تَعْرِفُهُمْ بِسِيمَاهُمْ لا يَسْأَلُونَ النَّاسَ إِلْحَافًا وَمَا تُنْفِقُوا مِنْ خَيْرٍ فَإِنَّ اللَّهَ بِهِ عَلِيمٌ (٢٧٣) ﴾
+
+قال أبو جعفر: أما قوله:"للفقراء الذين أحصروا في سبيل الله"، فبيان من الله عز وجل عن سبيل النفقة ووجهها. ومعنى الكلام: وما تنفقوا من خير فلأنفسكم تنفقون للفقراء الذين أحصروا في سبيل الله.
+
+"واللام" التي في"الفقراء" مردودة على موضع"اللام" في"فلأنفسكم" كأنه قال:"وما تنفقوا من خير" - يعني به: وما تتصدقوا به من مال فللفقراء الذين أحصروا في سبيل الله. فلما اعترض في الكلام بقوله:"فلأنفسكم"، فأدخل"الفاء" التي هي جواب الجزاء فيه، تركت إعادتها في قوله:"للفقراء"، إذ كان الكلام مفهوما معناه، كما:-
+
+٦٢١١ - حدثني موسى، قال: حدثنا عمرو، قال: حدثنا أسباط، عن السدي قوله:"ليس عليك هداهم ولكن الله يهدي من يشاء وما تنفقوا من خير فلأنفسكم"، أما:"ليس عليك هداهم"، فيعني المشركين. وأما"النفقة" فبين أهلها، فقال:"للفقراء الذين أحصروا في سبيل الله". [[الأثر: ٦٢١١- انظر الأثر السالف رقم: ٦٢٠٨ والتعليق عليه.]] .
+
+* *
+
+وقيل: إن هؤلاء الفقراء الذين ذكرهم الله في هذه الآية، هم فقراء المهاجرين عامة دون غيرهم من الفقراء.
+
+ذكر من قال ذلك:
+
+٦٢١٢ - حدثني محمد بن عمرو، قال: حدثنا أبو عاصم، قال: حدثنا عيسى، عن ابن أبي نجيح، عن مجاهد في قوله:"للفقراء الذين أحصروا في سبيل الله"، مهاجري قريش بالمدينة مع النبي ﷺ، أمر بالصدقة عليهم.
+
+٦٢١٣ - حدثني المثنى، قال: حدثنا إسحاق، قال: حدثنا ابن أبي جعفر، عن أبيه قوله:"للفقراء الذين أحصروا في سبيل الله" الآية، قال: هم فقراء المهاجرين بالمدينة.
+
+٦٢١٤ - حدثني موسى، قال: حدثنا عمرو، قال: حدثنا أسباط، عن السدى:"للفقراء الذين أحصروا في سبيل الله"، قال: فقراء المهاجرين.
+
+* *
+
+القول في تأويل قوله عز وجل: ﴿الَّذِينَ أُحْصِرُوا فِي سَبِيلِ اللَّهِ﴾
+
+قال أبو جعفر: يعني تعالى ذكره بذلك: الذين جَعلهم جهادُهم عدوَّهم يُحْصِرون أنفسَهم فيحبسونها عن التصرُّف فلا يستطيعون تصرّفًا. [[التصرف: الكسب. يقال "فلان يصرف لعياله، ويتصرف لهم، ويصطرف"، أي يكتسب لهم. وهو من الصرف والتصرف: وهو التقلب والحيلة.]] .
+
+* *
+
+وقد دللنا فيما مضى قبلُ على أن معنى"الإحصار"، تصيير الرجل المحصَر بمرضه أو فاقته أو جهاده عدوَّه، وغير ذلك من علله، إلى حالة يحبس نفسَه فيها عن التصرُّف في أسبابه، بما فيه الكفاية فيما مضى قبل. [[انظر ما سلف ٤: ٢١ -٢٦.]] .
+
+* *
+
+وقد اختلف أهل التأويل في تأويل ذلك، [[في المخطوطة: "وقال: اختلف أهل التأويل ... ". وهما سواء.]] .
+
+فقال بعضهم: في ذلك بنحو الذي قلنا فيه.
+
+ذكر من قال ذلك:
+
+٦٢١٥ - حدثنا الحسن بن يحيى، قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر، عن قتادة في قوله:"الذين أحصروا في سبيل الله"، قال: حَصَروا أنفسهم في سبيل الله للغزو.
+
+٦٢١٦ - حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد في قوله:"للفقراء الذين أحصروا في سبيل الله"، قال: كانت الأرض كلُّها كفرًا، لا يستطيع أحدٌ أن يخرج يبتغي من فضل الله، إذا خرج خرج في كُفر= وقيل: كانت الأرضُ كلها حربًا على أهل هذا البلد، وكانوا لا يتوجَّهون جهة إلا لهم فيها عدوّ، فقال الله عز وجل:"للفقراء الذين أحصروا في سبيل الله" الآية، كانوا ههنا في سبيل الله.
+
+* *
+
+وقال آخرون: بل معنى ذلك: الذين أحصرهم المشركون فمنعوهم التصرُّف.
+
+ذكر من قال ذلك:
+
+٦٢١٧ - حدثني موسى بن هارون، قال: حدثنا عمرو، قال: حدثنا أسباط، عن السدي:"للفقراء الذين أحصروا في سبيل الله"، حصرهم المشركون في المدينة.
+
+* *
+
+قال أبو جعفر: ولو كان تأويل الآية على ما تأوله السدّيّ، لكان الكلام: للفقراء الذين حُصروا في سبيل الله، ولكنه"أحصِروا"، فدلّ ذلك على أن خوفهم من العدوّ الذي صيَّر هؤلاء الفقراء إلى الحال التي حَبَسوا -وهم في سبيل الله- أنفسَهم، لا أنّ العدوَّ هم كانوا الحابِسِيهم.
+
+وإنما يقال لمن حبسه العدوّ:"حصره العدوّ"، وإذا كان الرّجل المحبَّس من خوف العدوّ، قيل:"أحصره خوفُ العدّو". [[انظر تفضيل ذلك فيما سلف ٤: ٢١ -٢٦.]] .
+
+* *
+
+القول في تأويل قوله: ﴿لا يَسْتَطِيعُونَ ضَرْبًا فِي الأرْضِ﴾
+
+قال أبو جعفر: يعني بذلك جل ثناؤه: لا يستطيعون تقلُّبًا في الأرض، وسفرًا في البلاد، ابتغاءَ المعاش وطَلبَ المكاسب، [[في المخطوطة: "المكاسر"، وهو دليل مبين عن غفلة الناسخ وعجلته، كما أسلفت مرارًا كثيرة.]] فيستغنوا عن الصدقات، رهبةَ العدوّ وخوفًا على أنفسهم منهم. كما:-
+
+٦٢١٨ - حدثني الحسن بن يحيى، قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر، عن قتادة:"لا يستطيعون ضربًا في الأرض" حبسوا أنفسهم في سبيل الله للعدوّ، فلا يستطيعون تجارةً.
+
+٦٢١٩ - حدثني موسى، قال: حدثنا عمرو، قال: حدثنا أسباط، عن السدي:"لا يستطيعون ضربًا في الأرض"، يعني التجارة.
+
+٦٢٢٠ - حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد قوله:"لا يستطيعون ضربًا في الأرض"، كان أحدهم لا يستطيع أن يخرج يبتغي من فَضْل الله.
+
+* *
+
+القول في تأويل قوله: ﴿يَحْسَبُهُمُ الْجَاهِلُ أَغْنِيَاءَ مِنَ التَّعَفُّفِ﴾
+
+قال أبو جعفر: يعني بذلك:"يحسبهم الجاهل" بأمرهم وحالهم="أغنياء" من تعففهم عن المسألة، وتركهم التعرض لما في أيدي الناس، صبرًا منهم على البأساء والضراء. كما:-
+
+٦٢٢١ - حدثنا يزيد، قال: حدثنا سعيد، عن قتادة قوله:"يحسبهم الجاهل أغنياء"، يقول: يحسبهم الجاهل بأمرهم أغنياء من التعفف. [[الأثر: ٦٢٢١ -كان الإسناد في المطبوعة والمخطوطة: "كما حدثنا يزيد قال حدثنا سعيد ... " أسقط الناسخ من الإسناد"حدثنا بشر قال"، كما زدته، وهو إسناد دائر دورانًا في التفسير أقربه رقم: ٦٢٠٦.]] .
+
+* *
+
+ويعني بقوله:"منَ التعفف"، من تَرْك مسألة الناس.
+
+* *
+
+وهو"التفعُّل" من"العفة" عن الشيء، والعفة عن الشيء، تركه، كما قال رؤبة:
+
+فَعَفَّ عَنْ أسْرَارِهَا بَعْدَ العَسَقْ* [[مضى تخريج هذا البيت وتفسيره في ٥: ١١٠، ولم يذكر هناك مجيء ذكره في هذا الموضع من التفسير، فقيده هناك.]]
+
+يعني بَرئ وتجنَّبَ.
+
+* *
+
+القول في تأويل قوله: ﴿تَعْرِفُهُمْ بِسِيمَاهُمْ﴾
+
+قال أبو جعفر: يعني بذلك جل ثناؤه:"تعرفهم" يا محمد="بسيماهم"، يعني بعلامتهم وآثارهم، من قول الله عز وجل: ﴿سِيمَاهُمْ فِي وُجُوهِهِمْ مِنْ أَثَرِ السُّجُودِ﴾ [سورة الفتح: ٢٩] ، هذه لغة قريش. ومن العرب من يقول:"بسيمائهم" فيمدها.
+
+وأما ثقيف وبعض أسَدٍ، فإنهم يقولون:"بسيميائهم"؛ ومن ذلك قول الشاعر: [[هو ابن عنقاء الفزاري، وعنقاء أمه، وقد اختلف في اسمه، فقال القالي في أماليه ١: ٢٣٧: "أسيد"، وقال الآمدي في المؤلف والمختلف: ١٥٩، وقال المرزباني في معجم الشعراء: "فيس بن بجرة" (بالجيم) ، أو"عبد قيس بن بجرة"، وفي النقائض: ١٠٦"عبد قيس ابن بحرة" بالحاء الساكنة وفتح الباء، وهكذا كان في أصل اللآليء شرح أماني القالي: ٥٤٣، وغيره العلامة الراجكوتي"بجرة" بضم الباء وبالجيم الساكنة عن الإصابة في ترجمة"قيس بن بجرة" وفي هذه الترجمة أخطاء كثيرة. وذكر شيخنا سيد بن علي المرصفي في شرح الكامل ١: ١٠٨ أنه أسيد بن ثعلبة ابن عمرو. وهذا كاف في تعيين الاختلاف. وابن عنقاء، عاش في الجاهلية دهرًا، وأدرك الإسلام كبيرًا، وأسلم.]] .
+
+غُلامٌ رَمَاهُ اللهُ بالحُسْنِ يَافِعًا ... لَهُ سِيمِيَاءٌ لا تَشُقُّ عَلَى البَصَرْ [[يأتي في التفسير ٤: ٥٥ /٨: ١٤١ (بولاق) والأغاني ١٧: ١١٧، الكامل ١: ١٤، المؤلف والمختلف، ومعجم الشعراء: ١٥٩، ٣٢٣، أمالى القالي ١: ٢٣٧، الحماسة ٤: ٦٨، وسمط اللآليء: ٥٤٣، وغيرها كثير. من أبيات جياد في قصة، ذكرها القالي في أماليه. وذلك أن ابن عنقاء كان من أكثر أهل زمانه وأشدهم عارضة ولسانًا، فطال عمره، ونكبه دهره، فاختلت حاله، فمر عميلة بن كلدة الفزاري، وهو غلام جميل من سادات فزارة، فسلم عليه وقال: ياعم، ما أصارك إلى ما أدري؟ فقال: بخل مثلك بماله، وصوني وجهى عن مسألة الناس! فقال والله لئن بقيت إلى غد لأغيرن ما أردي من حالك. فرجع ابن عنقاء فأخبر أهله، فقالت: لقد غرك كلام جنح ليل!! فبات متململا بين اليأس والرجاء. فلما كان السحر، سمع رغاء الإبل، وثغاء الشاء وصهيل الخيل، ولجب الأموال، فقال: ما هذا؟ فقال: هذا عميلة ساق إليك ماله! ثم قسم عميلة ماله شطرين وساهمه عليه، فقال ابن عنقاء فيه يمجده: رَآنِي عَلَى مَا بِي عُمَيْلَةُ فَاشْتَكَى ... إِلَى مَالِهِ حَالي أسرَّ كَمَا جَهَرْ
+
+دَعَانِي فآسَانِي وَلَوْ ضَنَّ لَمْ أَلُمْ ... عَلَى حِينَ لاَ بَدْوٌ يُرجَّى ولا حَضَرْ
+
+فَقُلْتُ لَهُ خيرًا وأَثْنَيْتُ فِعْلَهُ ... وَأَوْفَاكَ مَا أَبْلَيْتَ مَنْ ذَمَّ أَوْ شَكَرْ
+
+غُلاَمٌ رَمَاهُ الله بِالخَيْرِ يافِعًا ... لَهُ سِيمِيَاءُ لا تَشُقُّ عَلَى البَصَرْ
+
+كَأَنَّ الثُريَّا عُلِّقَتْ في جَبِينِهِ ... وَفِي خَدِّهِ الشِّعْرَي وَفِي وَجْهِهِ القَمَرْ
+
+إذا قِيلَتِ العَوْرَاءُ أَغْضَى كَأَنّهُ ... ذَلِيلٌ بِلاَ ذُلّ وَلَوْ شَاءَ لاَنْتَصَرْ
+
+كَرِيمٌ نَمَتْهُ لِلمكَارِمِ حُرَّةٌ ... فَجَاءَ وَلاَ بُخْلٌ لَدَيْهِ ولا حَصَرْ
+
+وَلَمَّا رَأَى المَجْدَ استُعيرت ثِيَابُه ... تَرَدَّى رِدَاءً وَاسِعَ الذّيْلِ وَأتْزَرْ
+
+وهذا شعر حر، ينبع من نفس حرة. هذا وقد روي الطبري في ٨: ١٤١"رماه الله بالحسن إذ رمي". وقال أبو رياش فيما انتقده على أبي العباس المبرد: "لا يروي بيت ابن عنقاء: "رماه الله بالحسن ... " إلا أعمى البصيرة، لأن الحسن مولود، وإنما هو: رماه الله بالخير يافعًا".
+
+وقوله: "لا تشق على البصر"، أي لا تؤذيه بقبح أو ردة أو غيرهما، بل تجلي بها العين، وتسر النفس وترتاح إليها.]]
+
+* *
+
+وقد اختلف أهل التأويل في"السيما" التي أخبر الله جل ثناؤه أنها لهؤلاء الفقراء الذين وصفَ صفتهم، وأنهم يعرفون بها. [[في المخطوطة والمطبوعة: "وصفت صفتهم"، وهو مخالف للسياق، والصواب ما أثبت، وصف الله صفتهم.]]
+
+فقال بعضهم: هو التخشُّع والتواضع.
+
+ذكر من قال ذلك:
+
+٦٢٢٢ - حدثني محمد بن عمرو، قال: حدثنا أبو عاصم، عن عيسى، عن ابن أبي نجيح، عن مجاهد في قوله:"تعرفهم بسيماهم" قال: التخشُّع.
+
+٦٢٢٣ - حدثني المثنى، قال: حدثنا أبو حذيفة، قال: حدثنا شبل، عن ابن أبي نجيح، عن مجاهد، مثله.
+
+٦٢٢٤ - حدثني المثنى، قال: حدثنا ابن أبي جعفر، عن أبيه، عن ليث، قال: كان مجاهد يقول: هو التخشُّع.
+
+* *
+
+وقال آخرون يعني بذلك: تعرفهم بسيما الفقر وجَهد الحاجة في وجُوههم.
+
+ذكر من قال ذلك:
+
+٦٢٢٥ - حدثني موسى، قال: حدثنا عمرو، قال: حدثنا أسباط، عن السدي:"تعرفهم بسيماهم"، بسيما الفقر عليهم.
+
+٦٢٢٦ - حدثني المثنى، قال: حدثنا إسحاق، قال: حدثنا ابن أبي جعفر، عن أبيه، عن الربيع في قوله:"تعرفهم بسيماهم"، يقول: تعرف في وجوههم الجَهد من الحاجة.
+
+* *
+
+وقال آخرون: معنى ذلك: تعرفهم برثاثة ثيابهم. وقالوا: الجوعُ خفيّ.
+
+ذكر من قال ذلك:
+
+٦٢٢٧ - حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد: "تعرفهم بسيماهم" قال: السيما: رثاثة ثيابهم، والجوع خفي على الناس، ولم تستطع الثياب التي يخرجون فيها [أن] تخفى على الناس. [[ما بين القوسين زيادة لا بد منها، لتستقيم العبارة.]] .
+
+* *
+
+قال أبو جعفر: وأول الأقوال في ذلك بالصواب: أن يقال: إن الله عز وجل أخبر نبيَّه ﷺ أنه يعرفهم بعلاماتهم وآثار الحاجة فيهم. وإنما كان النبيُّ ﷺ يدرك تلك العلامات والآثار منهم عند المشاهدة بالعِيان، فيعرفُهم وأصحابه بها، كما يُدرك المريضُ فيعلم أنه مريض بالمعاينة.
+
+وقد يجوز أن تكون تلك السيما كانت تخشُّعًا منهم، وأن تكون كانت أثر الحاجة والضرّ، وأن تكون كانت رثاثة الثياب، وأن تكون كانت جميعَ ذلك، وإنما تُدرك علامات الحاجة وآثار الضر في الإنسان، ويعلم أنها من الحاجة والضر، بالمعاينة دون الوصف. وذلك أن المريض قد يصير به في بعض أحوال مرضه من المرض، نظيرُ آثار المجهود من الفاقة والحاجة، وقد يلبس الغني ذو المال الكثير الثيابَ الرثة، فيتزيّى بزيّ أهل الحاجة، فلا يكون في شيء من ذلك دلالة بالصّفة على أنّ الموصوف به مختلٌّ ذو فاقة. وإنما يدري ذلك عند المعاينة بسيماه، كما وصف الله [[في المخطوطة والمطبوعة: "كما وصفهم الله"، والسياق يقتضي ما أثبت. والمخطوطة التي نقلت عنها، فيما نظن، كل النسخ المخطوطة التي طبع عنها، مضطربة الخط، كما سلف الدليل على ذلك مرارًا، وفي هذا الموضع من كتابة الناسخ بخاصة.]] نظير ما يُعرف أنه مريض عند المعاينة، دون وَصْفه بصفته.
+
+* *
+
+القول في تأويل قوله: ﴿لا يَسْأَلُونَ النَّاسَ إِلْحَافًا﴾
+
+قال أبو جعفر: يقال:" قد ألحف السائل في مسألته"، إذا ألحّ="فهو يُلحف فيها إلحافًا".
+
+* *
+
+فإن قال قائل: أفكان هؤلاء القوم يسألون الناس غيرَ إلحاف؟
+
+قيل: غير جائز أن يكون كانوا يسألون الناس شيئًا على وجه الصدقة إلحافًا أو غير إلحاف، [[في المطبوعة: "إلحافا وغير إلحاف"، بالواو، وهو لا يستقيم، والصواب ما أثبت. وانظر معاني القرآن للفراء ١: ١٨١، وقد قال: "ومثله قولك في الكلام: قلما رأيت مثل هذا الرجل! ، ولعلك لم تر قليلًا ولا كثيرًا من أشباهه" وسيأتي بعد، في ص: ٥٩٩، وفي اللسان (لحف) ، وذكر الآية: "أي ليس منهم سؤال فيكون إلحاف، كما قال امرؤ القيس [يصف طريقًا غير مسلوكة: عَلَى لاَحِبٍ لاَ يُهْتَدَي بِمَنَارِهِ ... [إِذَا سَافَهُ العَوْدُ النُّبَاطِيُّ جَرْجَرا]
+
+المعنى: "ليس به منار فيهتدى به".]] وذلك أن الله عز وجل وصفهم بأنهم كانوا أهل تعفف، وأنهم إنما كانوا يُعرفون بسيماهم. فلو كانت المسألة من شأنهم، لم تكن صفتُهم التعفف، ولم يكن بالنبي ﷺ إلى علم معرفتهم بالأدلة والعلامة حاجة، وكانت المسألة الظاهرة تُنبئ عن حالهم وأمرهم.
+
+وفي الخبر الذي:-
+
+٦٢٢٨ - حدثنا به بشر، قال: حدثنا يزيد، قال: حدثنا سعيد، عن قتادة، عن هلال بن حصن، عن أبي سعيد الخدري، قال: أعوزنا مرة فقيل لي: لو أتيتَ رسولَ الله ﷺ فسألته! فانطلقت إليه مُعْنِقًا، فكان أوّل ما واجهني به:"من استعفّ أعفَّه الله، ومَن استغنى أغناهُ الله، ومن سألنا لم ندّخر عنه شيئًا نجده". قال: فرجعت إلى نفسي، فقلت: ألا أستعفّ فيُعِفَّني الله! فرجعت، فما سألتُ رسول الله ﷺ شيئًا بعد ذلك من أمر حاجة، حتى مالت علينا الدنيا فغرَّقَتنا، إلا من عَصَم الله. [[الحديث: ٦٢٢٨ -إسناده صحيح.
+
+هلال بن حصن، أخو بني مرة بن عباد، من بني قيس بن ثعلبة: تابعى ثقة. ذكره ابن حبّان في الثقات، ص: ٣٦٤، وترجمه ا
+
+[TRUNCATED at 12000 chars — 4395 more. Consult the source directly before relying on anything near the cut.]
 
 ### al-Muyassar (Arabic)
 
-اجعلوا صدقاتكم لفقراء المسلمين الذين لا يستطيعون السفر؛ طلبًا للرزق لاشتغالهم بالجهاد في سبيل الله، يظنهم مَن لا يعرفهم غير محتاجين إلى الصدقة؛ لتعففهم عن السؤال، تعرفهم بعلاماتهم وآثار الحاجة فيهم، لا يسألون الناس بالكُليَّة، وإن سألوا اضطرارًا لم يُلِحُّوا في السؤال. وما تنفقوا مِن مال في سبيل الله فلا يخفى على الله شيء منه، وسيجزي عليه أوفر الجزاء وأتمَّه يوم القيامة.
+اجعلوا صدقاتكم لفقراء المسلمين الذين لا يستطيعون السفر؛ طلبًا للرزق لاشتغالهم بالجهاد في سبيل الله، يظنهم مَن لا يعرفهم غير محتاجين إلى الصدقة؛ لتعففهم عن السؤال، تعرفهم بعلاماتهم وآثار الحاجة فيهم، لا يسألون الناس بالكُليَّة، وإن سألوا اضطرارًا لم يُلِحُّوا في السؤال. وما تنفقوا مِن مالٍ في سبيل الله فلا يخفى على الله شيء منه، وسيجزي عليه أوفر الجزاء وأتمَّه يوم القيامة.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿لِلْفُقَراءِ﴾ خَبَر مُبْتَدَأ مَحْذُوف أيْ الصَّدَقات ﴿الَّذِينَ أُحْصِرُوا فِي سَبِيل اللَّه﴾ أيْ حَبَسُوا أنْفُسهمْ عَلى الجِهاد نَزَلَتْ فِي أهْل الصُّفَّة وهُمْ أرْبَعمِائَة مِن المُهاجِرِينَ أُرْصِدُوا لِتَعَلُّمِ القُرْآن والخُرُوج مَعَ السَّرايا ﴿لا يَسْتَطِيعُونَ ضَرْبًا﴾ سَفَرًا ﴿فِي الأَرْض﴾ لِلتِّجارَةِ والمَعاش لِشُغْلِهِمْ عَنْهُ بِالجِهادِ ﴿يَحْسِبهُمْ الجاهِل﴾ الجاهِل بِحالِهِمْ ﴿أغْنِياء مِن التَّعَفُّف﴾ أيْ لِتَعَفُّفِهِمْ عَنْ السُّؤال وتَرْكه ﴿تَعْرِفهُمْ﴾ يا مُخاطَب ﴿بِسِيماهُمْ﴾ عَلامَتهمْ مِن التَّواضُع وأَثَر الجَهْد ﴿لا يَسْأَلُونَ النّاس﴾ شَيْئًا فَيُلْحِفُونَ ﴿إلْحافًا﴾ أيْ لا سُؤال لَهُمْ أصْلًا فَلا يَقَع مِنهُمْ إلْحاف وهُوَ الإلْحاح ﴿وما تُنْفِقُوا مِن خَيْر فَإنَّ اللَّه بِهِ عَلِيم﴾ فَمُجازٍ عَلَيْهِ
 
 ---
 
@@ -78,22 +720,387 @@ Abu `Abdur-Rahman An-Nasa'i recorded that Ibn `Abbas said that they, "Disliked g
 
 ### Ibn Kathir (English)
 
+Worship Allah and join none with Him in worship, and do good to parents, kinsfolk, orphans, the poor, the neighbor who is near of kin, the neighbor who is a stranger, the companion by your side, the wayfarer (you meet), and those (slaves) whom your right hands possess. Verily, Allah does not like such as are proud and boastful (36)
+
 The Order to Worship Allah Alone and to Be Dutiful to Parents
-Allah orders that He be worshipped Alone without partners, because He Alone is the Creator and Sustainer Who sends His favors and bounties on His creation in all situations and instances. Therefore He deserves to be singled out, without associating anything or anyone from His creation with Him in worship. Indeed, the Prophet said to Mu`adh,
-«أَتَدْرِي مَا حَقُّ اللهِ عَلَى الْعِبَادِ؟»
-(Do you know what Allah's right on His servant...
+
+Allah orders that He be worshipped Alone without partners, because He Alone is the Creator and Sustainer Who sends His favors and bounties on His creation in all situations and instances. Therefore He deserves to be singled out, without associating anything or anyone from His creation with Him in worship. Indeed, the Prophet ﷺ said to Mu'adh,
+
+أَتَدْرِي مَا حَقُّ اللهِ عَلَى الْعِبَادِ؟
+
+(Do you know what Allah's right on His servants is?) Mu'adh replied, "Allah and His Messenger know better." He said,
+
+أنْ يَعْبُدُوهُ وَلَا يُشْرِكُوا بِهِ شَيْئًا
+
+(That they should worship Him and should not worship any others with Him.) The Prophet ﷺ then said,
+
+أَتَدْرِي مَا حَقُّ الْعِبَادِ عَلَى اللهِ إِذَا فَعَلُوا ذَلِكَ؟ أَنْ لَا يُعَذِّبَهُم
+
+(Do you know what the right of the servants on Allah is if they do this? He should not punish them.)
+
+Allah then commands the servants to be dutiful to their parents, for Allah made parents the reason for the servants to come to existence, after they did not exist. Allah joins the order to worship Him with being dutiful to parents in many places. For example, He said,
+
+أَنِ اشْكُرْ لِي وَلِوَالِدَيْكَ
+
+(give thanks to Me and to your parents)[31:14], and,
+
+وَقَضَىٰ رَبُّكَ أَلَّا تَعْبُدُوا إِلَّا إِيَّاهُ وَبِالْوَالِدَيْنِ إِحْسَانًا
+
+(And your Lord has decreed that you worship none but Him. And that you be dutiful to your parents). [17:23]
+
+After Allah ordained being dutiful to parents, He ordained kind treatment of relatives, males and females. A Hadith states,
+
+الصَّدَقَةُ عَلَى الْمِسْكِينِ صَدَقَةٌ، وَعَلى ذِي الرَّحِمِ صَدَقَةٌ وَصِلَةٌ
+
+(Charity given to the poor is Sadaqah, while charity given to relatives is both Sadaqah and Silah (keeping the relations).) Allah then said,
+
+وَالْيَتَامَىٰ
+
+(orphans), because they lost their caretakers who would spend on them. So Allah commands that the orphans be treated with kindness and compassion. Allah then said,
+
+وَالْمَسَاكِينِ
+
+(Al-Masakin (the poor)) who have various needs and cannot find what sustains these needs. Therefore, Allah commands they should be helped in acquiring their needs in a sufficient manner that will end their inadequacy. We will further elaborate on the matter of the destitute and the poor in Surah Bara'h (9:60).
+
+The Right of the Neighbor
+
+Allah said,
+
+وَالْجَارِ ذِي الْقُرْبَىٰ وَالْجَارِ الْجُنُبِ
+
+(the neighbor who is near of kin, the neighbor who is a stranger) 'Ali bin Abi Talhah said that Ibn 'Abbas said that,
+
+وَالْجَارِ ذِي الْقُرْبَىٰ
+
+(the neighbor who is near of kin) means, "The neighbor who is also a relative", while,
+
+وَالْجَارِ الْجُنُبِ
+
+(The neighbor who is a stranger) means, "Who is not a relative." It was also reported that 'Ikrimah, Mujahid, Maymun bin Mihran, Ad-Dahhak, Zayd bin Aslam, Muqatil bin Hayyan and Qatadah said similarly. Mujahid was also reported to have said that Allah's statement,
+
+وَالْجَارِ الْجُنُبِ
+
+(the neighbor who is a stranger) means, "The companion during travel." There are many Hadiths that command kind treatment to the neighbors, and we will mention some of them here with Allah's help.
+
+The First Hadith
+
+Imam Ahmad recorded that 'Abdullah bin 'Umar said that the Messenger of Allah ﷺ said,
+
+مَازَالَ جِبْرِيلُ يُوصِينِي بِالْجَارِ حَتَّى ظَنَنْتُ أَنَّهُ سَيُوَرِّثُهُ
+
+(Jibril kept reminding of the neighbor's right, until I thought that he was going to give him a share of the inheritance.) The Two Sahihs recorded this Hadith.
+
+The Second Hadith
+
+Imam Ahmad recorded that 'Abdullah bin 'Amr said that the Messenger of Allah ﷺ said,
+
+مَازَالَ جِبْرِيلُ يُوصِينِي بِالْجَارِ حَتَّى ظَنَنْتُ أَنَّهُ سَيُوَرِّثُهُ
+
+(Jibril kept reminding me of the neighbor's right, until I thought he was going to appoint a share of the inheritance for him.) Abu Dawud and At-Tirmidhi recorded this Hadith, which At-Tirmidhi said was "Hasan Gharib through this route."
+
+The Third Hadith
+
+Imam Ahmad recorded that 'Abdullah bin 'Amr bin Al-'As said that the Prophet ﷺ said,
+
+خَيْرُ الْأَصْحَابِ عِنْدَ اللهِ خَيْرُهُمْ لِصَاحِبِهِ، وَخَيْرُ الْجِيرَانِ عِنْدَ اللهِ خَيْرُهُمْ لِجَارِهِ
+
+(The best companions according to Allah are those who are the best with their friends, and the best neighbors according to Allah are the best with their neighbors.) At-Tirmidhi recorded this Hadith and said, "Hasan Gharib".
+
+The Fourth Hadith
+
+Imam Ahmad recorded that Al-Miqdad bin Al-Aswad said that the Messenger of Allah ﷺ asked his Companions,
+
+مَا تَقُولُونَ فِي الزِّنَا؟
+
+(What do you say about adultery?) They said, "It is prohibited, for Allah and His Messenger have prohibited it. So it is forbidden until the Day of Resurrection." The Messenger of Allah ﷺ said,
+
+لَأَنْ يَزْنِيَ الرَّجُلُ بِعَشْرِ نِسْوَةٍ، أَيْسَرُ عَلَيْهِ مِنْ أَنْ يَزْنِيَ بِامْرَأَةِ جَارِهِ
+
+(For a man to commit adultery with his neighbor's wife is worse than if he commits adultery with ten women.) He then said,
+
+مَا تَقُولُونَ فِي السَّرِقَةِ؟
+
+(What do you say about theft?) They said, "It is prohibited, for Allah and His Messenger prohibited it." He said,
+
+لَأَنْ يَسْرِقَ الرَّجُلُ مِنْ عَشْرَةِ أَبْيَاتٍ، أَيْسَرُ عَلَيْهِ مِنْ أَنْ يَسْرِقَ مِنْ جَارِهِ
+
+(If a man steals from his neighbor, it is worse for him than stealing from ten homes.) Only Ahmad recorded this Hadith.
+
+A similar Hadith is recorded in the Two Sahihs, Ibn Mas'ud said, "I asked, 'O Allah's Messenger! What is the greatest sin?' He said,
+
+أَنْ تَجْعَلَ للهِ نِدًّا وَهُوَ خَلَقَكَ
+
+(To make a rival for Allah while He Alone created you.) I said, 'Then?' He said,
+
+أَنْ تَقْتُلَ وَلَدَكَ خَشْيَةَ أَنْ يَطْعَمَ مَعَكَ
+
+(To kill your offspring for fear that he might share your food with you.) I said, 'Then' He said,
+
+أَنْ تُزَانِيَ حَلِيلَةَ جَارِكَ
+
+(To commit adultery with your neighbor's wife.)"
+
+The Fifth Hadith
+
+Imam Ahmad recorded that 'A'ishah asked the Messenger of Allah, "I have two neighbors, so whom among them should I give my gift?" He said,
+
+إِلى أَقْرَبِهِمَا مِنْكِ بَابًا
+
+(The neighbor whose door is the closest to you.) Al-Bukhari narrated this Hadith We will elaborate on this subject in the Tafsir of Surah Bara'h, Allah willing and upon Him we depend.
+
+Being Kind to Slaves and Servants
+
+Allah said,
+
+وَمَا مَلَكَتْ أَيْمَانُكُمْ
+
+(and those (slaves) whom your right hands possess,) this is an order to be kind to them because they are weak, being held as captives by others.
+
+An authentic Hadith records that during the illness that preceded his death, the Messenger of Allah ﷺ continued advising his Ummah:
+
+الصَّلَاةَ الصَّلَاةَ، وَمَا مَلَكَتْ أَيْمَانُكُم
+
+((Protect) the prayer, (protect) the prayer, and (those slaves) whom your hands possess.) He was repeating it until his tongue was still.
+
+Imam Ahmad recorded that Al-Miqdam bin Ma'dykarib said that the Messenger of Allah ﷺ said,
+
+مَا أَطْعَمْتَ نَفْسَكَ فَهُوَ لَكَ صَدَقَةٌ، وَمَا أَطْعَمْتَ وَلَدَكَ فَهُوَ لَكَ صَدَقَةٌ، وَمَا أَطْعَمْتَ زَوْجَتَكَ فَهُوَ لَكَ صَدَقَةٌ، وَمَا أَطْعَمْتَ خَادِمَكَ فَهُوَ لَكَ صَدَقَةٌ
+
+(What you feed yourself is a Sadaqah (charity) for you, what you feed your children is Sadaqah for you, what you feed your wife is Sadaqah for you and what you feed your servant is Sadaqah for you.) An-Nasa'i recorded this Hadith which has an authentic chain of narration, all the thanks are due to Allah.
+
+Abdullah bin 'Amr said to a caretaker of his, "Did you give the slaves their food yet?" He said, "No." Ibn 'Amr said, "Go and give it to them, for the Messenger of Allah ﷺ said,
+
+كَفَى بِالْمَرْءِ إِثْمًا أَنْ يَحْبِسَ عَمَّنْ يَمْلِكُ قُوتَهُم
+
+(It is enough sin for someone to prevent whomever he is responsible for from getting their food.)" Muslim recorded this Hadith. Abu Hurayrah narrated that the Prophet ﷺ said,
+
+لِلْمَمْلُوكِ طَعَامُهُ وَكِسْوَتُهُ، وَلَا يُكَلَّفُ مِنَ الْعَمَلِ إِلَّا مَا يُطِيقُ
+
+(The slave has the right to have food, clothing and to only be required to perform what he can bear of work.) Muslim also recorded this Hadith. Abu Hurayrah narrated that the Prophet ﷺ said,
+
+إِذَا أَتَى أَحَدَكُمْ خَادِمُهُ بِطَعَامِه، فَإِنْ لَمْ يُجْلِسْهُ مَعَهُ فَلْيُنَاوِلْهُ لُقْمَةً أَوْ لُقْمَتَيْنِ - أَوْ أُكْلَةً أَوْ أُكْلتَيْنِ - فَإِنَّهُ وَلِيَ حَرَّهُ وَعِلَاجَهُ
+
+(When your servant brings meals to one of you, if he does not let him sit and share the meal, then he should at least give him a mouthful or two mouthfuls of that meal or a meal or two, for he has prepared it.) This is the wording collected by Al-Bukhari.
+
+Allah Does Not Like the Arrogant
+
+Allah said,
+
+إِنَّ اللَّهَ لَا يُحِبُّ مَن كَانَ مُخْتَالًا فَخُورًا
+
+(Verily, Allah does not like such as are proud and boastful.) meaning, one who is proud and arrogant, insolent and boasts to others. He thinks that he is better than other people, thus thinking high of himself, even though he is insignificant to Allah and hated by people. Mujahid said that Allah's statement,
+
+إِنَّ اللَّهَ لَا يُحِبُّ مَن كَانَ مُخْتَالًا فَخُورًا
+
+(Verily, Allah does not like such as are proud) means arrogant, while,
+
+فَخُورًا
+
+(boastful) means boasting about what he has, while he does not thank Allah. This Ayah indicates that such a person boasts with people about the bounty that Allah has given him, but he is actually ungrateful to Allah for this bounty.
+
+Ibn Jarir recorded that 'Abdullah bin Waqid Abu Raja' Al-Harawi said, "You will find that those who are mean are also proud and boasting. He then recited,
+
+وَمَا مَلَكَتْ أَيْمَانُكُمْ
+
+(and those (slaves) whom your right hands possess,) You will find that he who is undutiful (to parents) is also arrogant, and deprived. He then recited,
+
+وَبَرًّا بِوَالِدَتِي وَلَمْ يَجْعَلْنِي جَبَّارًا شَقِيًّا
+
+(And dutiful to my mother, and made me not arrogant, deprived.)[19:32] Once a man asked the Prophet, "O Messenger of Allah, advise me.' The Prophet ﷺ said,
+
+إيَّاكَ وَإِسْبَالَ الْإِزَارِ، فَإِنَّ إِسْبَالَ الْإِزَارِ مِنَ الْمَخِيلَةِ، وَإِنَّ اللهَ لَا يُحِبُّ الْمَخِيلَةَ
+
+(Avoid lengthening the dress (below the ankles), for this practice is from arrogance. Verily, Allah does not like arrogance.)"
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله جل ذكره :  وَاعْبُدُوا اللَّهَ وَلا تُشْرِكُوا بِهِ شَيْئًا وَبِالْوَالِدَيْنِ إِحْسَانًا وَبِذِي الْقُرْبَى وَالْيَتَامَى وَالْمَسَاكِينِقال أبو جعفر: يعني بذلك جل ثناؤه: وذِلُّوا لله بالطاعة، واخضعوا له بها، وأفردوه بالربوبية، وأخلصوا له الخضوع والذلة، بالانتهاء إلى أمره، والانـزجار عن نهيه، ولا تجعلوا له في الربوبية والعبادة شريكًا تعظمونه تعظيمكم إياه. (98)=" وبالوالدين إحسانًا "، يقول: وأمركم بالوالدين إحسانًا = يعني برًّا بهما = ولذلك نصب " الإحسان "، لأنه أمر منه جل...
+القول في تأويل قوله: ﴿وَالْجَارِ ذِي الْقُرْبَى﴾
+
+قال أبو جعفر: اختلف أهل التأويل في تأويل ذلك. فقال بعضهم: معنى ذلك: والجار ذي القرابة والرحم منك.
+
+ذكر من قال ذلك:
+
+٩٤٣٧ - حدثني المثنى قال، حدثنا عبد الله بن صالح قال، حدثني معاوية، عن علي بن أبي طلحة، عن ابن عباس قوله:"والجار ذي القربى"، يعني: الذي بينك وبينه قرابة.
+
+٩٤٣٨ - حدثني محمد بن سعد قال، حدثني أبي قال، حدثني عمي قال، حدثني أبي، عن أبيه، عن ابن عباس:"والجار ذي القربى"، يعني: ذا الرَّحم.
+
+٩٤٣٩ - حدثنا الحسن بن يحيى قال، أخبرنا عبد الرزاق قال، أخبرنا معمر، عن قتادة وابن أبي نجيح، عن مجاهد قوله:"والجار ذي القربى"، قال: جارك، هو ذو قرابتك.
+
+٩٤٤٠ - حدثنا ابن وكيع قال، حدثنا أبي، عن إسرائيل، عن جابر، عن عكرمة ومجاهد في قوله:"والجار ذي القربى"، قالا القرابة.
+
+٩٤٤١ - حدثني المثنى قال، حدثنا عمرو بن عون قال، حدثنا هشيم، عن جويبر، عن الضحاك في قوله:"والجار ذي القربى"، قال: جارك الذي بينك وبينه قرابة.
+
+٩٤٤٢ - حدثني المثنى قال، حدثنا أبو حذيفة قال، حدثنا شبل، عن ابن أبي نجيح، عن مجاهد:"والجار ذي القربى"، جارك ذو القرابة.
+
+٩٤٤٣ - حدثنا بشر بن معاذ قال، حدثنا يزيد قال، حدثنا سعيد، عن قتادة:"والجار ذي القربى"، إذا كان له جار له رحم، فله حقَّان اثنان: حق القرابة، وحق الجار.
+
+٩٤٤٤ - حدثني يونس قال، أخبرنا ابن وهب قال، قال ابن زيد في قوله:"والجار ذي القربى"، قال: الجار ذو القربى، ذو قرابتك.
+
+* *
+
+وقال آخرون: بل هو جارُ ذي قرابتك.
+
+ذكر من قال ذلك:
+
+٩٤٤٥ - حدثنا عبد الرحمن قال، حدثنا جرير، عن ليث، عن ميمون بن مهران في قوله:"والجار ذي القربى" قال: الرجل يتوسل إليك بجوار ذي قرابتك.
+
+* *
+
+قال أبو جعفر: وهذا القول قولٌ مخالفٌ المعروفَ من كلام العرب. وذلك أن الموصوف بأنه"ذو القرابة" في قوله:"والجار ذي القربى"،"الجار" دون غيره. فجعله قائل هذه المقالة جار ذي القرابة. ولو كان معنى الكلام كما قال ميمون بن مهران لقيل:"وجار ذي القربى"، ولم يُقَل:"والجار ذي القربى". فكان يكون حينئذ = إذا أضيف"الجار" إلى"ذي القرابة" = الوصية ببرّ جار ذي القرابة، [[في المخطوطة والمطبوعة: "الوصية بين جار ذي القرابة"، وهو كلام لا معنى له، وهو تصحيف وتحريف، صوابه ما أثبت.]] دون الجار ذي القربى. وأما و"الجار" بالألف واللام، فغير جائز أن يكوى"ذي القربى" إلا من صفة"الجار". وإذا كان ذلك كذلك، كانت الوصية من الله في قوله:"والجار ذي القربى" ببرّ الجار ذي القربى، [[في المخطوطة والمطبوعة هنا أيضًا: "بين الجار ذي القربى"، وهو خطأ وتصحيف كما أسلفت.]] دون جار ذي القرابة. وكان بينًا خطأ ما قال ميمون بن مهران في ذلك.
+
+* *
+
+وقال آخرون: معنى ذلك: والجار ذي القربى منكم بالإسلام.
+
+ذكر من قال ذلك:
+
+٩٤٤٦ - حدثني محمد بن عمارة الأسدي قال، حدثنا عبيد الله بن موسى قال، حدثنا سفيان عن أبي إسحاق، عن نَوْف الشامي:"والجار ذي القربى"، المسلم. [[الأثر: ٩٤٤٦ -"نوف الشامي"، هو: نوف بن فضالة الحميري البكالي، مضت ترجمته برقم: ٣٩٦٥، وسيأتي في رقم: ٩٤٥٦.]]
+
+* *
+
+قال أبو جعفر: وهذا أيضًا مما لا معنى له. وذلك أن تأويل كتاب الله تبارك وتعالى، غير جائز صرفه إلا إلى الأغلب من كلام العرب الذين نزل بلسانهم القرآن، المعروفِ فيهم، [["المعروف" بالكسر، صفة لقوله: "إلى الأغلب". وفي المطبوعة: "المعروف وفيهم"، وهو خطأ في الطباعة ولا شك.]] دون الأنكر الذي لا تتعارفه، إلا أن يقوم بخلاف ذلك حجة يجب التسليم لها. وإذا كان ذلك كذلك = وكان معلومًا أن المتعارف من كلام العرب إذا قيل:"فلان ذو قرابة"، إنما يعني به: إنه قريب الرحم منه، دون القرب بالدين = كان صرفه إلى القرابة بالرحم، أولى من صرفه إلى القرب بالدين.
+
+* *
+
+القول في تأويل قوله: ﴿وَالْجَارِ الْجُنُبِ﴾
+
+قال أبو جعفر: اختلف أهل التأويل في تأويل ذلك. فقال بعضهم: معنى ذلك: والجار البعيد الذي لا قرابة بينك وبينه.
+
+ذكر من قال ذلك:
+
+٩٤٤٧ - حدثني المثنى قال، حدثنا أبو صالح قال، حدثني معاوية، عن علي بن أبي طلحة، عن ابن عباس:"والجار الجنب"، الذي ليس بينك وبينه قرابة.
+
+٩٤٤٨ - حدثني محمد بن سعد قال، حدثني أبي قال، حدثني عمي قال، حدثني أبي، عن أبيه، عن ابن عباس:"والجار الجنب"، يعني: الجار من قوم جنب.
+
+٩٤٤٩ - حدثنا بشر بن معاذ قال، حدثنا يزيد قال، حدثنا سعيد، عن قتادة:"والجار الجنب"، الذي ليس بينهما قرابة، وهو جار، فله حق الجوار.
+
+٩٤٥٠ - حدثنا محمد بن الحسين قال، حدثنا أحمد بن المفضل قال، حدثنا أسباط، عن السدي:"والجار الجنب"، الجار الغريب يكون من القوم.
+
+٩٤٥١ - حدثنا الحسن بن يحيى قال، أخبرنا عبد الرزاق قال، أخبرنا معمر، عن قتادة وابن أبي نجيح، عن مجاهد:"والجار الجنب"، جارك من قوم آخرين.
+
+٩٤٥٢ - حدثني المثنى قال، حدثنا أبو حذيفة قال، حدثنا شبل، عن ابن أبي نجيح، عن مجاهد:"والجار الجنب"، جارك لا قرابة بينك وبينه، البعيد في النسب وهو جار.
+
+٩٤٥٣ - حدثنا ابن وكيع قال، حدثنا أبي، عن إسرائيل، عن جابر، عن عكرمة ومجاهد في قوله:"والجار الجنب"، قال: المجانب.
+
+٩٤٥٤ - حدثني يونس قال، أخبرنا ابن وهب قال، قال ابن زيد في قوله:"والجار الجنب"، الذي ليس بينك وبينه رَحمٌ ولا قرابة. [[في المطبوعة: " ... وجه ولا قرابة"، وهو لا معنى له، والصواب من المخطوطة.]]
+
+٩٤٥٥ - حدثني يحيى بن أبي طالب قال، حدثنا يزيد قال، أخبرنا جويبر، عن الضحاك:"والجار الجنب"، قال: من قوم آخرين.
+
+* *
+
+وقال آخرون: هو الجار المشرك.
+
+ذكر من قال ذلك:
+
+٩٤٥٦ - حدثني محمد بن عمارة الأسدي قال، حدثنا عبيد الله بن موسى قال، حدثنا سفيان، عن أبي إسحاق، عن نوف الشامي:"والجار الجنب"، قال: اليهوديّ والنصرانيّ. [[الأثر: ٩٤٥٦ -"عبيد الله بن موسى بن أبي المختار العبسي"، مضت ترجمته برقم: ٥٧٩٦، وهو يروي عن سفيان الثوري، وعن شيبان بن عبد الرحمن التميمي. وقد جاء في هذا الإسناد في المطبوعة"شيبان، عن أبي إسحاق"، وكذلك هو في المخطوطة، ولكنه كتب"شيبان" كتابة سيئة، كتابة شاك في قراءتها. وقد سلف في الإسناد رقم: ٩٤٤٦ قريبًا"سفيان، عن أبي إسحاق" واضحة جدًا في المخطوطة، فرجحتها لذلك، وأثبتها هنا. وانظر التعليق على الأثر: ٩٤٤٦.]]
+
+* *
+
+قال أبو جعفر: وأولى القولين في ذلك بالصواب، قول من قال:"معنى، الجنب، في هذا الموضع: الغريبُ البعيد، مسلمًا كان أو مشركًا، يهوديًا كان أو نصرانيًا"، لما بينا قبل من أن"الجار ذي القربى"، هو الجار ذو القرابة والرحم. والواجب أن يكون"الجار ذو الجنابة"، الجار البعيد، ليكون ذلك وصية بجميع أصناف الجيران قريبهم وبعيدهم.
+
+* *
+
+وبعد، فإن"الجُنب"، في كلام العرب: البعيد، كما قال أعشى بني قيس:
+
+أَتَيْتُ حُرَيْثًا زَائِرًا عَنْ جَنَابَةٍ ... فَكانَ حُرَيْثٌ فِي عَطَائِي جَامِدَا [[ديوانه: ٤٩، ومجاز القرآن لأبي عبيدة: ١٢٦، الكامل ٢: ٢٦، وسيأتي في التفسير ٢٠: ٢٦ (بولاق) من قصيدة هجا فيها الحارث بن وعلة بن مجالد بن زبان الرقاشي، وكان جاء يسأله فقال له: "ولا كرامة!! ألست القائل: أَلا مَنْ مُبْلِغٌ عَنِّي حُرَيْثًا ... مُغَلْغَلَةً؟ أَحَانَ أَمِ ادَّرَانَا؟
+
+تهجوني وتصغرني، ثم تسألني!! = فكان مما قال له بعد البيت السالف، فأوجعه: لَعَمْرُكَ مَا أَشْبَهْتَ وَعْلَةَ فَي النَّدَى ... شَمَائِلَهُ، وَلا أَباهُ المُجَالِدَا
+
+إذَا زَارَهُ يَوْمًا صَدِيقٌ، كأنَّما ... يَرَى أُسُدًا فِي بَيْتِهِ وَأَسَاوِدَا
+
+في شعر كثير، و"حريث" تصغير"الحارث"، تصغير ترخيم، وقياسه"حويرث". ورجل"جامد الكف، وجماد الكف": بخيل لا تلين صفاته. وكان في المطبوعة هنا: "جاهدا" وهو خطأ، وفي الموضع الآخر من التفسير: "جاحدا" وهو خطأ أيضًا. وروى هنا: في عطائي"، وروايته في التفسير ٢٠: ٢٦"عن عطائي" وهي المطابقة لرواية المراجع السالفة جميعًا، ولا بأس بها.]] يعني بقوله:"عن جنابة"، عن بعد وغُربة. ومنه، قيل:"اجتنب فلان فلانًا"، إذا بعد منه ="وتجنّبه"، و"جنَّبه خيره"، إذا منعه إياه. [[في المطبوعة: "وتجنبه خيره"، أسقط: "وجنبه" بين الكلامين، ففسد السياق، والصواب من المخطوطة.]] ومنه قيل للجنب:"جُنُب"، لاعتزاله الصلاة حتى يغتسل.
+
+فمعنى ذلك: والجار المجانب للقرابة.
+
+* *
+
+القول في تأويل قوله تعالى: ﴿وَالصَّاحِبِ بِالْجَنْبِ﴾
+
+قال أبو جعفر: اختلف أهل التأويل في المعنيّ بذلك.
+
+فقال بعضهم: هو رفيق الرجل في سَفره.
+
+ذكر من قال ذلك:
+
+٩٤٥٧ - حدثني المثنى قال، حدثنا عبد الله بن صالح قال، حدثني معاوية، عن علي بن أبي طلحة، عن ابن عباس:"والصاحب بالجنب"، الرفيق.
+
+٩٤٥٨ - حدثنا ابن بشار قال، حدثنا يحيى وعبد الرحمن قالا حدثنا سفيان، عن أبي بكير قال: سمعت سعيد بن جبير يقول:"والصاحب بالجنب"، الرفيق في السفر. [[الأثر: ٩٤٥٨ -"أبو بكير التيمي"، مؤذن لتيم، واسمه"مرزوق". روى عن سعيد بن جبير، وعكرمة، ومجاهد. وروى عنه ليث بن أبي سليم، وإسرائيل، وسفيان الثوري، وشريك. مترجم في التهذيب.
+
+وكان في المطبوعة: "أبو بكر" وهو خطأ، صوابه ما أثبت من المخطوطة. وسيأتي على الصواب في رقم: ٩٤٦٧، ٩٤٦٨.]]
+
+٩٤٥٩ - حدثنا الحسن بن يحيى قال، أخبرنا عبد الرزاق قال، أخبرنا معمر، عن قتادة وابن أبي نجيح، عن مجاهد في قوله:"والصاحب بالجنب"، صاحبك في السفر.
+
+٩٤٦٠ - حدثنا بشر بن معاذ قال، حدثنا يزيد قال، حدثنا سعيد، عن قتادة:"والصاحب بالجنب"، وهو الرفيق في السفر.
+
+٩٤٦١ - حدثني المثنى قال، حدثنا أبو حذيفة قال، حدثنا شبل، عن ابن أبي نجيح، عن مجاهد:"والصاحب بالجنب"، الرفيق في السفر، منزله منزلك، وطعامه طعامك، ومسيره مسيرك.
+
+٩٤٦٢ - حدثنا سفيان قال، حدثنا أبي، عن إسرائيل، عن جابر، عن عكرمة ومجاهد:"والصاحب بالجنب"، قالا الرفيق في السفر.
+
+٩٤٦٣ - حدثني المثنى قال، حدثنا الحماني قال، حدثنا شريك، عن جابر، عن عامر، عن علي وعبد الله قالا"الصاحب بالجنب"، الرفيق الصالح.
+
+٩٤٦٤ - حدثنا القاسم قال، حدثنا الحسين قال، حدثني حجاج، عن ابن جريج قال، أخبرني سليم، عن مجاهد قال:"الصاحب بالجنب"، رفيقك في السفر، الذي يأتيك ويده مع يدك.
+
+٩٤٦٥ - حدثني المثنى قال، حدثنا سويد بن نصر قال، أخبرنا ابن المبارك، قراءة على ابن جريج قال، أخبرنا سليم: أنه سمع مجاهدًا يقول:"والصاحب بالجنب"، فذكر مثله.
+
+٩٤٦٦ - حدثنا محمد بن الحسين قال، حدثنا أحمد بن المفضل قال، حدثنا أسباط، عن السدي:"والصاحب بالجنب"، الصاحب في السفر.
+
+٩٤٦٧ - حدثني المثنى قال، حدثنا أبو دكين قال، حدثنا سفيان، عن أبي بكير، عن سعيد بن جبير،"والصاحب بالجنب"، الرفيق الصالح.
+
+٩٤٦٨ - حدثنا الحسن بن يحيى قال، أخبرنا عبد الرزاق قال، أخبرنا الثوري، عن أبي بكير، عن سعيد بن جبير مثله.
+
+٩٤٦٩ - حدثني المثنى قال، حدثنا عمرو بن عون قال، أخبرنا هشيم، عن جويبر، عن الضحاك في قوله:"والصاحب بالجنب"، قال: الرفيق في السفر.
+
+٩٤٧٠ - حدثني يحيى بن أبي طالب قال، حدثنا يزيد قال، أخبرنا جويبر، عن الضحاك مثله.
+
+* *
+
+وقال آخرون: بل هو امرأة الرجل التي تكون معه إلى جنبه.
+
+ذكر من قال ذلك:
+
+٩٤٧١- حدثنا ابن وكيع قال، حدثنا أبي، عن سفيان، عن جابر، عن عامر = أو القاسم = عن علي وعبد الله رضوان الله عليهما:"والصاحب بالجنب"، قالا هي المرأة. [[قوله: "رضوان الله عليهما"، زيادة من المخطوطة.]]
+
+٩٤٧٢ - حدثني المثنى قال، حدثنا عمرو بن عون قال، حدثنا هشيم، عن بعض أصحابه، عن جابر، عن علي وعبد الله مثله.
+
+٩٤٧٣ - حدثني محمد بن سعد قال، حدثني أبي قال، حدثني عمي قال، حدثني أبي، عن أبيه، عن ابن عباس:"والصاحب بالجنب"، يعني: الذي معك في منزلك.
+
+٩٤٧٤ - حدثنا محمد بن المثنى قال، حدثنا محمد بن جعفر قال، حدثنا شعبة، عن هلال، عن عبد الرحمن بن أبي ليلى: أنه قال في هذه الآية:"والصاحب بالجنب"، قال: هي المرأة.
+
+٩٤٧٥ - حدثنا ابن بشار قال: حدثنا عبد الرحمن قال، حدثنا سفيان، عن أبي الهيثم، عن إبراهيم:"والصاحب بالجنب"، قال: المرأة.
+
+٩٤٧٦ - حدثنا الحسن بن يحيى قال، أخبرنا عبد الرزاق قال، قال الثوري، قال أبو الهيثم، عن إبراهيم: هي المرأة.
+
+٩٤٧٧ - حدثني المثنى قال، حدثنا أبو نعيم قال، حدثنا سفيان، عن أبي الهيثم، عن إبراهيم مثله.
+
+٩٤٧٨ - حدثني المثنى قال، حدثنا إسحاق قال، حدثنا أبو معاوية، عن محمد بن سوقة، عن أبي الهيثم، عن إبراهيم مثله.
+
+٩٤٧٩ - حدثني عمرو بن بَيْذَق قال، حدثنا مروان بن معاوية، عن محمد بن سوقة، عن أبي الهيثم، عن إبراهيم مثله. [[الأثر: ٩٤٧٩ -"عمرو بن بيذق" (بالذال المعجمة) هكذا في المخطوطة، شيخ الطبري، لم أعرف له ترجمة، وقد روى عنه في كتاب تاريخ الصحابة والتابعين، الملحق بالتاريخ ص: ٨٦، وكتبه هناك"عمرو بين بيدق" بالدال المهملة، وكأن الأول أصح.]]
+
+* *
+
+وقال آخرون: هو الذي يلزمك ويصحبك رَجاء نفعك.
+
+ذكر من قال ذلك:
+
+٩٤٨٠ - حدثنا القاسم قال، حدثنا الحسين قال، حدثني حجاج، عن ابن جريج قال، قال ابن عباس:"الصاحب بالجنب"، الملازم = وقال أيضًا: رفيقك الذي يرافقك.
+
+٩٤٨١ - حدثني يونس قال، أخبرنا ابن وهب قال: قال ابن زيد:"والصاحب بالجنب"، الذي يلصق بك، وهو إلى جنبك، ويكون معك إلى جنبك رجاءَ خيرك ونفعك.
+
+* *
+
+قال أبو جعفر: والصواب من القول في تأويل ذلك عندي: أن معنى:"الصاحب بالجنب"، الصاحب إلى الجنب، كما يقال:"فلان بجَنب فلان، وإلى جنبه"، وهو من قولهم:"جَنَب فلانٌ فلانًا فهو يجنُبُه جَنْبًا"، إذا كان لجنبه. [[هذا النص من تفسير اللغة، قلما تجده في كتاب من كتب اللغة.]] ومن ذلك:"جَنَب الخيل"، إذا قاد بعضها إلى جنب بعض. وقد يدخل في هذا: الرفيقُ في السفر، والمرأة، والمنقطع إلى الرجل الذي يلازمه رجاءَ نفعه، لأن كلهم بجنب الذي هو معه وقريبٌ منه. وقد أوصى الله تعالى بجميعهم، لوجوب حق الصاحب على المصحوب، وقد:-
+
+٩٤٨٢ - حدثنا سهل بن موسى الرازي قال، حدثنا ابن أبي فديك، عن فلان بن عبد الله، عن الثقة عنده: أن رسول الله ﷺ كان معه رجل من أصحابه وهما على راحلتين، فدخل النبي ﷺ وسلم في غَيْضِة طرفاء، [["الغيضة"، مكان يجتمع فيه الماء ويفيض، فينبت فيه الشجر ويلتف، والجمع"غياض". و"الطرفاء" من شجر العضاء، وهدبه مثل هدب الأثل، وليس له خشب، إنما يخرج عصيًا سمحة في السماء، وقد تتحمض به الإبل، إذا لم تجد حمضًا غيره.]] فقطع قَصِيلين، أحدهما معوجٌّ، والآخر معتدل، [[في المطبوعة: "فصيلين" بالفاء، ولا معنى لها، وفي المخطوطة: "فصيلين" غير منقوطة، وفي الدر المنثور: "فصلين" وليس لها معنى. و"القصيل" بالقاف: ما اقتصل (أي: اقتطع) من الزرع أخضر، ومنه: "القصيل" وهو الذي تعلف به الدواب. يقال: "قصل الدابة"، أي: علفها القصيل.]] فخرج بهم
+
+[TRUNCATED at 12000 chars — 6931 more. Consult the source directly before relying on anything near the cut.]
 
 ### al-Muyassar (Arabic)
 
-واعبدوا الله وانقادوا له وحده، ولا تجعلوا له شريكًا في الربوبية والعبادة، وأحسنوا إلى الوالدين، وأدُّوا حقوقهما، وحقوق الأقربين، واليتامى والمحتاجين، والجار القريب منكم والبعيد، والرفيق في السفر وفي الحضر، والمسافر المحتاج، والمماليك من فتيانكم وفتياتكم. إن الله تعالى لا يحب المتكبرين من عباده، المفتخرين على الناس.
+واعبدوا الله وانقادوا له وحده، ولا تجعلوا له شريكًا في الربوبية والعبادة، وأحسنوا إلى الوالدين، وأدُّوا حقوقهما، وحقوق الأقربين، والأولاد الذين مات آباؤهم وهم دون سن البلوغ، والمحتاجين الذين لا يملكون ما يكفيهم ويسدُّ حاجتهم، والجار القريب منكم والبعيد، والرفيق في السفر وفي الحضر، والمسافر المحتاج، والمماليك من فتيانكم وفتياتكم. إن الله تعالى لا يحب المتكبرين من عباده، المفتخرين على الناس.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿واعْبُدُوا اللَّه﴾ وحِّدُوهُ ﴿ولا تُشْرِكُوا بِهِ شَيْئًا﴾ أحْسِنُوا ﴿وبِالوالِدَيْنِ إحْسانًا﴾ بَرًّا ولِين جانِب ﴿وبِذِي القُرْبى﴾ القَرابَة ﴿واليَتامى والمَساكِين والجار ذِي القُرْبى﴾ القَرِيب مِنك فِي الجِوار أوْ النَّسَب ﴿والجار الجُنُب﴾ البَعِيد عَنْك فِي الجِوار أوْ النَّسَب ﴿والصّاحِب بِالجَنْبِ﴾ الرَّفِيق فِي السَّفَر أوْ صِناعَة وقِيلَ الزَّوْجَة ﴿وابْن السَّبِيل﴾ المُنْقَطِع فِي سَفَره ﴿وما مَلَكَتْ أيْمانكُمْ﴾ مِن الأَرِقّاء ﴿إنّ اللَّه لا يُحِبّ مَن كانَ مُخْتالًا﴾ مُتَكَبِّرًا ﴿فَخُورًا﴾ عَلى النّاس بِما أُوتِيَ
 
 ---
 
@@ -101,20 +1108,303 @@ Allah orders that He be worshipped Alone without partners, because He Alone is t
 
 ### Ibn Kathir (English)
 
+As-Sadaqat (i.e., Zakah) are only for the Fuqara', and Al-Masakin and those employed to collect (the funds); and to attract the hearts of those who have been inclined (towards Islam); and to free the captives; and for those in debt; and for Allah's cause, and for Ibn As-Sabil; a duty imposed by Allah. And Allah is All-Knower, All-Wise (60)
+
 Expenditures of Zakah (Alms)
-After Allah mentioned the protest that the ignorant hypocrites mentioned to the Prophet about the distribution of alms. He stated that it is He who divided the alms, explained its rulings and decided in its division; He did not delegate this decision to anyone else. Allah mentioned the expenditures of Zakah in this Ayah, starting with the Fuqara' (the poor) because they have more need than the other categories, since their need is pressing and precarious. It was r...
+
+After Allah mentioned the protest that the ignorant hypocrites mentioned to the Prophet ﷺ about the distribution of alms. He stated that it is He who divided the alms, explained its rulings and decided in its division; He did not delegate this decision to anyone else. Allah mentioned the expenditures of Zakah in this Ayah, starting with the Fuqara' (the poor) because they have more need than the other categories, since their need is pressing and precarious. It was reported that Ibn 'Abbas, Mujahid, Al-Hasan Al-Basri, Ibn Zayd and several others said that the Faqir is a graceful person who does not ask anyone for anything, while the Miskin is the one who follows after people, begging. Qatadah said, "The Faqir is the ill person, while the Miskin is physically fit." We will now mention the Hadiths about each of these eight categories:
+
+The Fuqara' (Poor)
+
+Ibn 'Umar said that the Messenger of Allah ﷺ said,
+
+لَا تَحِلُّ الصَّدَقَةُ لِغَنِيٍّ وَلَا لِذِي مِرَّةٍ سَوِيٍّ
+
+(The alms should not be given to the wealthy and the physically fit.) Ahmad, Abu Dawud and At-Tirmidhi collected this Hadith.
+
+The Masakin (Needy)
+
+Abu Hurayrah narrated that the Messenger of Allah ﷺ said,
+
+لَيْسَ الْمِسْكِينُ بِهَذَا الطَّوَّافِ الَّذِي يَطُوفُ عَلَى النَّاسِ فَتَرُدُّهُ اللُّقْمَةُ وَاللُّقْمَتَانِ، وَالتَّمْرَةُ وَالتَّمْرَتَانِ
+
+قالوا: فمن المسكين يا رسول الله؟ قال:
+
+الَّذِي لَا يَجِدُ غِنًى يُغْنِيهِ، وَلَا يُفْطَنُ لَهُ فَيُتَصَدَّقَ عَلَيْهِ، وَلَا يَسْأَلُ النَّاسَ شَيْئًا
+
+(The needy person is not the one who goes round the people and asks them for a mouthful or two (of meals) or a date or two). They asked, "Then who is the needy person, O Allah's Messenger!" He said, (The one who does not have enough to satisfy his needs and whose condition is not known to others, that others may give him something in charity, and who does not beg of people.) The Two Shaykhs collected this Hadith.
+
+Those employed to collect Alms
+
+Those employed to collect alms deserve a part of the alms, unless they are relatives of the Messenger of Allah ﷺ, who are not allowed to accept any Sadaqah. Muslim recorded that 'Abdul-Muttalib bin Rabi'ah bin Al-Harith and Al-Fadl bin Al-'Abbas went to the Messenger of Allah ﷺ asking him to employ them to collect the alms. The Messenger ﷺ replied,
+
+إِنَّ الصَّدَقَةَ لَا تَحِلُّ لِمُحَمَّدٍ وَلَا لِآلِ مُحَمَّدٍ، إِنَّمَا هِيَ أَوْسَاخُ النَّاسِ
+
+(Verily, the alms are not allowed for Muhammad nor the relatives of Muhammad, for it is only the dirt that the people discard.)
+
+Al-Mu'allafatu Qulubuhum
+
+There are several types of Al-Mu'allafatu Qulubuhum. There are those who are given alms to embrace Islam. For instance, the Prophet of Allah ﷺ gave something to Safwan bin Umayyah from the war spoils of Hunayn, even though he attended it while a Mushrik. Safwan said, "He kept giving me until he became the dearest person to me after he had been the most hated person to me." Imam Ahmad recorded that Safwan bin Umayyah said, "The Messenger of Allah ﷺ gave me (from the spoils of) Hunayn while he was the most hateful person to me. He kept giving me until he became the most beloved person to me." Muslim and At-Tirmidhi collected this Hadith, as well. Some of Al-Mu'allafatu Qulubuhum are given from alms so that they become better in Islam and their heart firmer in faith. For instance, the Prophet gave some of the chiefs of the Tulaqa' a hundred camels each after the battle of Hunayn, saying,
+
+إِنِّي لَأُعْطِي الرَّجُلَ وَغَيْرُهُ أَحَبُّ إِلَيَّ مِنْهُ خَشْيَةَ أَنْ يُكِبَّهُ اللهُ عَلَى وَجْهِهِ فِي نَارِ جَهَنَّمَ
+
+(I give a man (from the alms) while another man is dearer to me than him, for fear that Allah might throw him on his face in the fire of Jahannam.)
+
+It is recorded in the Two Sahihs that Abu Sa'id said that 'Ali sent the Messenger of Allah ﷺ a gold nugget still in its dirt from Yemen. The Prophet ﷺ divided it between four men: Al-Aqra' bin Habis, 'Uyaynah bin Badr, 'Alqamah bin 'Ulathah and Zayd Al-Khayr, saying,
+
+أَتَأَلَّفُهُم
+
+(To draw their hearts closer.) Some people are given because some of his peers might embrace Islam, while others are given to collect alms from surrounding areas, or to defend Muslim outposts. Allah knows best.
+
+The Riqab
+
+Al-Hasan Al-Basri, Muqatil bin Hayyan, 'Umar bin 'Abdul-'Aziz, Sa'id bin Jubayr, An-Nakha'i, Az-Zuhri and Ibn Zayd said Riqab means those slaves who make an agreement with the master to pay a certain ransom for their freedom." Similar was reported from Abu Musa Al-Ash'ari.
+
+Ibn 'Abbas and Al-Hasan said, "It is allowed to use Zakah funds to buy the freedom of slaves," indicating that 'Riqab' has more general meanings than merely giving money to slaves to buy their freedom or one's buying a slave and freeing him on an individual basis. A Hadith states that for every limb [of the servant] freed, Allah frees a limb of the one who freed him from slavery, even a sexual organ for a sexual organ, for the reward is equitable to the deed,
+
+وَمَا تُجْزَوْنَ إِلَّا مَا كُنتُمْ تَعْمَلُونَ
+
+(And you will be requited nothing except for what you used to do.)(37:39)
+
+Virtue of freeing Slaves
+
+In the Musnad, there is a Hadith from Al-Bara' bin 'Azib that a man asked, "O Allah's Messenger! Direct me to an action that draws me closer to Paradise and away from the Fire." The Messenger of Allah ﷺ said,
+
+أَعْتِقِ النَّسَمَةَ وَفُكَّ الرَّقَبَةَ
+
+(Emancipate the person and free the neck (slave).)
+
+The man asked, "O Allah's Messenger! Are they not one and the same?" He said,
+
+لَا، عِتْقُ النَّسَمَةِ أَنْ تُفْرِدَ بِعِتْقِهَا، وَفَكُّ الرَّقَبَةِ أَنْ تُعِينَ فِي ثَـمَنِهَا
+
+(No, you emancipate a person by freeing him on your own, but you untie a neck (slave) by helping in its price.)
+
+Al-Gharimun (the Indebted)
+
+There are several types of indebted persons. They include those who incur expenses in solving disputes between people, those who guarantee a loan that became due, causing financial strain to them, and those whose funds do not sufficiently cover their debts. It also includes those who indulged in a sin and repented from it. These types have a right to a part of alms [designated for Al-Gharimun].
+
+Qabisah bin Mukhariq Al-Hilali said, "I carried a debt [resolving a dispute between people] and went to the Messenger of Allah ﷺ asking him to help pay it. The Messenger ﷺ said,
+
+أَقِمْ حَتَّى تَأْتِيَنَا الصَّدَقَةُ فَنَأْمُرَ لَكَ بِـهَا
+
+(Be patient until some alms are brought to us so that we give it to you.) He then said,
+
+يَا قَبِيصَةُ إِنَّ الْمَسْأَلَةَ لَا تَحِلُّ إِلَّا لِأَحَدِ ثَلَاثَةٍ: رَجُلٍ تَحَمَّلَ حَمَالَةً فَحَلَّتْ لَهُ الْمَسْأَلَةُ حَتَّى يُصِيبَهَا ثُمَّ يُمْسِكَ، وَرَجُلٍ أَصَابَتْهُ جَائِحَةٌ اجْتَاحَتْ مَالَهُ فَحَلَّتْ لَهُ الْمَسْأَلَةُ حَتَّى يُصِيبَ قِوَامًا مِنْ عَيْشٍ - أَوْ قَالَ: سِدَادًا مِنْ عَيْشٍ - وَرَجُلٍ أَصَابَتْهُ فَاقَةٌ حَتَّى يَقُومَ ثَلَاثَةٌ مِنْ ذَوِي الْحِجَا مِنْ قَرَابَةِ قَوْمِهِ فَيَقُولُونَ: لَقَدْ أَصَابَتْ فُلَانًا فَاقَةٌ فَحَلَّتْ لَهُ الْمَسْأَلَةُ، حَتَّى يُصِيبَ قِوَامًا مِنْ عَيْشٍ - أَوْ قَالَ: سِدَادًا مِنْ عَيْشٍ - فَمَا سِوَاهُنَّ مِنَ الْمَسْأَلَةِ سُحْتٌ يَأْكُلُهَا صَاحِبُهَا سُحْتًا
+
+(O Qabisah! Begging is only allowed for three: a man who incurred debts solving disputes, so he is allowed to beg until he collects its amount and then stops. A man who was inflicted by a disaster that consumed his wealth, he is allowed to beg until he collects what suffices for his livelihood. And a man who was overcome by poverty, that three wise relatives of his stand up and proclaim, 'So-and-so was overcome by poverty.' This man is allowed to beg until he collects what sustains his livelihood. Other than these cases, begging is an unlawful amount that one illegally devours.) Muslim collected this Hadith.
+
+Abu Sa'id said, "During the time of the Messenger of Allah ﷺ, a man was struck by disaster because of fruits that he bought, causing him extensive debts. The Prophet ﷺ said,
+
+تَصَدَّقُوا عَلَيْهِ
+
+(Give him charity.) The people did that but the amount collected did not cover his debts. The Prophet ﷺ said to the man's debtors,
+
+خُذُوا مَا وَجَدْتُمْ وَلَيْسَ لَكُمْ إِلَّا ذَلِكَ
+
+(Take what was collected, you will have nothing beyond that.)" Muslim collected this Hadith.
+
+In the Cause of Allah
+
+In the cause of Allah is exclusive for the benefit of the fighters in Jihad, who do not receive compensation from the Muslim Treasury.
+
+Ibn As-Sabil (Wayfarer)
+
+Ibn As-Sabil is a term used for the needy traveler in a land, where he does not have what helps him continue his trip. This type has a share in the Zakah for what suffices him to reach his destination, even if he had money there. The same is true for whoever intends to travel from his area but does not have enough money. This type also has a share in the Zakah money to suffice for his trip and back. This is proven in the Ayah as well as the following Hadith. Imams Abu Dawud and Ibn Majah recorded that Ma'mar said that Zayd bin Aslam said that 'Ata' bin Yasar said that Abu Sa'id Al-Khudri said that the Messenger of Allah ﷺ said,
+
+لَا تَحِلُّ الصَّدَقَةُ لِغَنِيٍّ إِلَّا لِـخَمْسَةٍ: لِعَامِلٍ عَلَيْهَا، أَوْ رَجُلٍ اشْتَرَاهَا بِـمَالِهِ، أَوْ غَارِمٍ، أَوْ غَازٍ فِي سَبِيلِ اللهِ، أَوْ مِسْكِينٍ تُصُدِّقَ عَلَيْهِ مِنْهَا فَأَهْدَى لِغَنِيٍّ
+
+(Sadaqah is not rightful for a wealthy person except in five cases: those employed to collect it, one who bought a charity item with his money, a Gharim (debtor), a fighter in the cause of Allah, or a poor man who gets a part of the Zakah so he gives it as a gift to a rich man.) Allah's statement,
+
+فَرِيضَةً مِّنَ اللَّهِ
+
+(a duty imposed by Allah), means, a decision, decree and division ordained by Allah,
+
+وَاللَّهُ عَلِيمٌ حَكِيمٌ
+
+(And Allah is All-Knower, All-Wise), knowledgeable of all things outwardly and inwardly and what benefits His servants,
+
+حَكِيمٌ
+
+(All-Wise), in all what he declares, does, legislates and decides, there is no true deity or lord except Him.
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله :  إِنَّمَا الصَّدَقَاتُ لِلْفُقَرَاءِ وَالْمَسَاكِينِ وَالْعَامِلِينَ عَلَيْهَا وَالْمُؤَلَّفَةِ قُلُوبُهُمْ وَفِي الرِّقَابِ وَالْغَارِمِينَ وَفِي سَبِيلِ اللَّهِ وَاِبْنِ السَّبِيلِ فَرِيضَةً مِنَ اللَّهِ وَاللَّهُ عَلِيمٌ حَكِيمٌ (60)قال أبو جعفر: يقول تعالى ذكره: ما الصدقات إلا للفقراء والمساكين، (24) ومن سماهم الله جل ثناؤه.* * *ثم اختلف أهل التأويل في صفة " الفقير " و " المسكين ".فقال بعضهم: " الفقير "، المحتاج المتعفف عن المسألة، و " المسكين "، المحتاج السائل. (25)...
+القول في تأويل قوله: ﴿إِنَّمَا الصَّدَقَاتُ لِلْفُقَرَاءِ وَالْمَسَاكِينِ وَالْعَامِلِينَ عَلَيْهَا وَالْمُؤَلَّفَةِ قُلُوبُهُمْ وَفِي الرِّقَابِ وَالْغَارِمِينَ وَفِي سَبِيلِ اللَّهِ وَاِبْنِ السَّبِيلِ فَرِيضَةً مِنَ اللَّهِ وَاللَّهُ عَلِيمٌ حَكِيمٌ (٦٠) ﴾
+
+قال أبو جعفر: يقول تعالى ذكره: ما الصدقات إلا للفقراء والمساكين، [[في المطبوعة: "لا ينال الصدقات"، وهو كلام غير مستقيم، والصواب ما كان في المخطوطة، ولكنه لم يحسن قراءته.]] ومن سماهم الله جل ثناؤه.
+
+* *
+
+ثم اختلف أهل التأويل في صفة "الفقير" و"المسكين".
+
+فقال بعضهم: "الفقير"، المحتاج المتعفف عن المسألة، و"المسكين"، المحتاج السائل. [[انظر تفسير "المسكين" فيما سلف ١٣: ٥٦٠، تعليق: ٢، والمراجع هناك.]]
+
+ذكر من قال ذلك:
+
+١٦٨١٨- حدثنا ابن وكيع قال، حدثنا جرير، عن أشعث، عن الحسن: ﴿إنما الصدقات للفقراء والمساكين﴾ ، قال: "الفقير"، الجالس في بيته = "والمسكين"، الذي يسعى.
+
+١٦٨١٩- حدثني المثنى قال، حدثنا عبد الله قال، حدثنا معاوية، عن علي، عن ابن عباس قوله: ﴿إنما الصدقات للفقراء والمساكين﴾ ، = قال: "المساكين"، الطوافون، و"الفقراء"، فقراء المسلمين.
+
+١٦٨٢٠- حدثنا ابن وكيع قال، حدثنا أبو أسامة، عن جرير بن حازم قال، حدثني رجل، عن جابر بن زيد: أنه سئل عن "الفقراء"، قال: "الفقراء"، المتعففون، و"المساكين"، الذين يسألون.
+
+١٦٨٢١- حدثنا أحمد بن إسحاق قال، حدثنا أبو أحمد قال، حدثنا معقل بن عبيد الله الجزريّ قال: سألت الزهري عن قوله: ﴿إنما الصدقات للفقراء﴾ ، قال: الذين في بيوتهم لا يسألون، و"المساكين"، الذين يخرجون فيسألون. [[الأثر: ١٦٨٢١ - "معقل بن عبيد الله الجزري العبسي، الحراني"، ثقة، ليس به بأس. مترجم في التهذيب، والكبير ٤ \ ١ \ ٣٩٣، وابن أبي حاتم ٤ \ ١ \ ٢٨٦.
+
+وكان في المطبوعة: "الحراني"، مكان "الجزري"، وهو صواب، ولكني أثبت ما كان في المخطوطة.]]
+
+١٦٨٢٢- حدثنا الحارث قال، حدثنا القاسم قال، حدثنا يحيى بن سعيد، عن عبد الوارث بن سعيد، عن ابن أبي نجيح، عن مجاهد قال: "الفقير" الذي لا يسأل، و"المسكين"، الذي يسأل.
+
+١٦٨٢٣- حدثنا يونس قال، أخبرنا ابن وهب، قال، قال ابن زيد في قوله: ﴿إنما الصدقات للفقراء والمساكين﴾ ، قال: "الفقراء"، الذين لا يسألون الناس، أهلُ حاجة [[في المطبوعة: "وهو أهل حاجة"، زاد ما ليس في المخطوطة.]] = و"المساكين"، الذين يسألون الناس.
+
+١٦٨٢٤- حدثنا الحارث قال، حدثني عبد العزيز قال، حدثنا عبد الوارث، عن ابن أبي نجيح، عن مجاهد قال: "الفقراء"، الذين لا يسألون، و"المساكين" الذين يسألون.
+
+* *
+
+وقال آخرون: "الفقير"، هو ذو الزمانة من أهل الحاجة، و"المسكين"، هو الصحيح الجسم منهم. [[في المطبوعة، أسقط "منهم".]]
+
+ذكر من قال ذلك:
+
+١٦٨٢٥- حدثنا محمد بن عبد الأعلى قال، حدثنا محمد بن ثور، عن معمر، عن قتادة: ﴿إنما الصدقات للفقراء والمساكين﴾ ، قال: "الفقير"، من به زَمانة = و"المسكين"، الصحيح المحتاج.
+
+١٦٨٢٦- حدثنا بشر قال، حدثنا يزيد قال، حدثنا سعيد، عن قتادة قوله: ﴿إنما الصدقات للفقراء والمساكين﴾ ، أما "الفقير"، فالزَّمِن الذي به زَمانة، وأما "المسكين"، فهو الذي ليست به زمانة.
+
+* *
+
+وقال آخرون: "الفقراء"، فقراء المهاجرين، و"المساكين"، من لم يهاجر من المسلمين، وهو محتاج.
+
+ذكر من قال ذلك:
+
+١٦٨٢٧- حدثنا الحارث قال، حدثنا عبد العزيز قال، حدثنا جرير بن حازم، عن علي بن الحكم، عن الضحاك بن مزاحم: ﴿إنما الصدقات للفقراء﴾ ، قال: فقراء المهاجرين = و"المساكين"، الذين لم يهاجروا. [[الأثر: ١٦٨٢٧ - "علي بن الحكم البناني"، ثقة، له أحاديث. مترجم في التهذيب، وابن أبي حاتم ٣ \ ١ \ ١٨١.]]
+
+١٦٨٢٨-...... قال، حدثنا عبد العزيز قال، حدثنا سفيان، عن منصور، عن إبراهيم: ﴿إنما الصدقات للفقراء﴾ ، المهاجرين، قال: سفيان: يعني: ولا يعطى الأعراب منها شيئًا.
+
+١٦٨٢٩- حدثنا ابن وكيع قال: حدثني أبي، عن سفيان، عن منصور، عن إبراهيم، قال: كان يقال: إنما الصدقة لفقراء المهاجرين.
+
+١٦٨٣٠-...... قال، حدثنا جرير، عن منصور، عن إبراهيم قال: كانت تجعل الصدقة في فقراء المهاجرين، وفي سبيل الله.
+
+١٦٨٣١- حدثنا ابن حميد قال، حدثنا يعقوب، عن جعفر، عن سعيد بن جبير، وسعيد بن عبد الرحمن بن أبزي قالا [[في المطبوعة: "قال"، والصواب من المخطوطة.]] كان ناس من المهاجرين لأحدهم الدار، والزوجة، والعبد، والناقة يحج عليها ويغزو، فنسبهم الله إلى أنهم فقراء، وجعل لهم سهمًا في الزكاة.
+
+١٦٨٣٢- حدثنا أحمد بن إسحاق قال، حدثنا أبو أحمد قال، حدثنا سفيان، عن منصور، عن إبراهيم قال: كان يقال: إنما الصدقات في فقراء المهاجرين، وفي سبيل الله.
+
+* *
+
+وقال آخرون: "المسكين"، الضعيف الكسب. [[في المطبوعة: "الضعيف البئيس"، لم يحسن قراءة المخطوطة، وكان فيها: " النسب "، وهو تحريف، دل على صوابه الآثار التالية.]]
+
+ذكر من قال ذلك:
+
+١٦٨٣٣- حدثني يعقوب بن إبراهيم قال، حدثنا ابن علية قال، أخبرنا ابن عون، عن محمد قال: قال عمر: ليس الفقير بالذي لا مال له، ولكن الفقير الأخلقُ الكسْب = قال يعقوب: قال ابن علية: "الأخلق"، المحارَفُ، عندنا. [[أراد عمر: أن الفقير، هو الذي لم يقدم لآخرته شيئًا يثاب عليه، وأن الفقر الأكبر إنما هو فقر الآخرة، وأن فقر الدنيا أهون الفقرين. و "الأخلق" من قولهم: "هضبة خلقاء"، ملساء لا نبات بها. وللجبل المصمت الذي لا يؤثر فيه شيء "أخلق". وفي حديث فاطمة بنت قيس: "أما معاوية، فرجل أخلق من المال"، أي: خلو عار منه.
+
+وأما "المحارف"، كما فسره ابن علية، فهو المنقوص الحظ، فهو محدود محروم، إذا طلب الرزق لم يرزق، ضد " المبارك ".]]
+
+١٦٨٣٤- حدثنا ابن عبد الأعلى قال، حدثنا محمد بن ثور، عن معمر، عن أيوب عن ابن سيرين: أن عمر بن الخطاب رحمه الله قال: ليس المسكين بالذي لا مال له، ولكن المسكين الأخلقُ الكسْبِ.
+
+* *
+
+وقال بعضهم: "الفقير"، من المسلمين، و"المسكين" من أهل الكتاب.
+
+ذكر من قال ذلك:
+
+١٦٨٣٥- حدثني الحارث قال، حدثنا عبد العزيز قال، حدثنا عمر بن نافع قال: سمعت عكرمة في قوله: ﴿إنما الصدقات للفقراء والمساكين﴾ ، قال: لا تقولوا لفقراء المسلمين "مساكين"، إنما "المساكين"، مساكين أهل الكتاب.
+
+* *
+
+قال أبو جعفر: وأولى هذه الأقوال عندي بالصواب، قول من قال: "الفقير"، هو ذو الفقر أو الحاجة، ومع حاجته يتعفّف عن مسألة الناس والتذلل لهم، في هذا الموضع = و"المسكين" هو المحتاج المتذلل للناس بمسألتهم.
+
+وإنما قلنا إن ذلك كذلك، وإن كان الفريقان لم يُعْطَيا إلا بالفقر والحاجة، دون الذلة والمسألة، [[في المطبوعة: "الذل والمسكنة"، والصواب ما في المخطوطة، ولم يحسن قراءتها.]] لإجماع الجميع من أهل العلم أن "المسكين"، إنما يعطى من الصدقة المفروضة بالفقر، وأن معنى "المسكنة"، عند العرب، الذلة، كما قال الله جل ثناؤه: ﴿وَضُرِبَتْ عَلَيْهِمُ الذِّلَّةُ وَالْمَسْكَنَةُ﴾ ، [سورة البقرة: ٦١] ، يعني بذلك: الهون والذلة، لا الفقر. فإذا كان الله جل ثناؤه قد صنَّف من قسم له من الصدقة المفروضة قسمًا بالفقر، فجعلهم صنفين، كان معلومًا أن كل صنف منهم غير الآخر. وإذ كان ذلك كذلك، كان لا شك أن المقسوم له باسم "الفقير"، غير المقسوم له باسم الفقر و"المسكنة"، والفقير المعطَى ذلك باسم الفقير المطلق، هو الذي لا مسكنة فيه. والمعطى باسم المسكنة والفقر، هو الجامع إلى فقره المسكنة، وهي الذلّ بالطلب والمسألة.
+
+= فتأويل الكلام، إذ كان ذلك معناه: إنما الصدقات للفقراء: المتعفِّف منهم الذي لا يسأل، والمتذلل منهم الذي يسأل.
+
+* *
+
+وقد روي عن رسول الله ﷺ بنحو الذي قلنا في ذلك خبَرٌ.
+
+١٦٨٣٦- حدثنا القاسم قال، حدثنا الحسين قال، حدثنا إسماعيل بن جعفر، عن شريك بن أبي نمر، عن عطاء بن يسار، عن أبي هريرة قال: قال رسول الله ﷺ: "ليس المسكين بالذي تردّه اللقمة واللقمتان، والتمرة والتمرتان، إنما المسكين المتعفف! اقرءوا إن شئتم: ﴿لا يَسْأَلُونَ النَّاسَ إِلْحَافًا﴾ ، [[الأثر: ١٦٨٣٦ - "إسماعيل بن جعفر بن أبي كثير الأنصاري" روى له الجماعة، مضى برقم: ٦٨٨٤، ٨٣٩٨.
+
+و" شريك بن أبي نمر "، هو " شريك بن عبد الله بن أبي نمر القرشي " ثقة، روى له البخاري ومسلم، مترجم في التهذيب، والكبير ٢ \ ٢ \ ٢٣٧، وابن أبي حاتم ٢ \ ١ \ ٣٦٣.
+
+وهذا الخبر رواه البخاري من طريق محمد بن جعفر عن شريك بن أبي نمر (الفتح ٨: ١٥٢) ، ورواه مسلم في الصحيح من طريق إسماعيل بن جعفر، عن شريك، ومن طريق محمد بن جعفر، عن شريك، عن عطاء بن يسار، وعبد الرحمن بن أبي عمرة، عن أبي هريرة (٧: ١٢٩) .]] [سورة البقرة: ٢٧٣] .
+
+ومعنى قوله ﷺ: "إنما المسكين المتعفف" على نحو ما قد جرى به استعمال الناس من تسميتهم أهل الفقر "مساكين"، لا على تفصيل المسكين من الفقير.
+
+ومما ينبئ عن أن ذلك كذلك، انتزاعه ﷺ بقول الله: [[في المطبوعة: "انتزاعًا لقول الله"، وهو خطأ، صوابه في المخطوطة. يقال: "انتزع بالآية، وبالشعر"، إذا تمثل به.]] اقرءوا إن شئم: ﴿لا يسألون الناس إلحافًا﴾ ، وذلك في صفة من ابتدأ الله ذكره ووصفه بالفقر فقال: ﴿لِلْفُقَرَاءِ الَّذِينَ أُحْصِرُوا فِي سَبِيلِ اللَّهِ لا يَسْتَطِيعُونَ ضَرْبًا فِي الأرْضِ يَحْسَبُهُمُ الْجَاهِلُ أَغْنِيَاءَ مِنَ التَّعَفُّفِ تَعْرِفُهُمْ بِسِيمَاهُمْ لا يَسْأَلُونَ النَّاسَ إِلْحَافًا﴾ ، [سورة البقرة: ٢٧٣] .
+
+* *
+
+وقوله: ﴿والعاملين عليها﴾ ، وهم السعاة في قبضها من أهلها، ووضعها في مستحقِّيها، يعطون ذلك بالسعاية، أغنياء كانوا أو فقراء.
+
+* *
+
+وبمثل الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+١٦٨٣٧- حدثنا أحمد بن إسحاق قال، حدثنا أبو أحمد قال، حدثنا معقل بن عبيد الله قال: سألت الزهري: عن "العاملين عليها"، فقال: السعاة.
+
+١٦٨٣٨- حدثنا بشر قال، حدثنا يزيد قال، حدثنا سعيد، عن قتادة: ﴿والعاملين عليها﴾ ، قال: جُباتها الذين يجمعونها ويسعون فيها.
+
+١٦٨٣٩- حدثني يونس قال، أخبرنا ابن وهب قال، قال ابن زيد: ﴿والعاملين عليها﴾ ، الذي يعمل عليها.
+
+* *
+
+ثُمّ اختلف أهل التأويل في قدر ما يعطى العامل من ذلك.
+
+فقال بعضهم: يعطى منه الثُّمُن.
+
+ذكر من قال ذلك:
+
+١٦٨٤٠- حدثنا ابن وكيع قال، حدثنا حميد بن عبد الرحمن، عن حسن بن صالح، عن جويبر، عن الضحاك قال: للعاملين عليها الثمن من الصدقة.
+
+١٦٨٤١- حدثت عن مسلم بن خالد، عن ابن أبي نجيح، عن مجاهد في قوله: ﴿والعاملين عليها﴾ ، قال: يأكل العمال من السهم الثامن.
+
+* *
+
+وقال آخرون: بل يعطى على قدر عُمالته.
+
+ذكر من قال ذلك:
+
+١٦٨٤٢- حدثنا القاسم قال، حدثنا الحسين قال، حدثنا عبد الوهاب بن عطاء، عن الأخضر بن عجلان قال، حدثنا عطاء بن زهير العامري، عن أبيه: أنه لقي عبد الله بن عمرو بن العاص فسأله عن الصدقة: أيُّ مالٍ هي؟ فقال: مالُ العُرْجان والعُوران والعميان، وكل مُنْقَطَع به. [["منقطع به" (بالبناء للمجهول) ، هو الرجل إذا عجز عن سفره من نفقة ذهبت، أو قامت عليه راحلته، أو أتاه أمر لا يقدر على أن يتحرك معه. يقال: "قطع به"، و "انقطع به".]] فقال له: إن للعاملين حقًّا والمجاهدين! قال: إن المجاهدين قوم أحل لهم، والعاملين عليها على قدر عُمالتهم. [[في المطبوعة: " وللعاملين "، وأثبت ما في المخطوطة.]] ثم قال: لا تحل الصدقة لغنيّ، ولا لذي مِرَّة سويّ [[الأثر: ١٦٨٤٢ - " عبد الوهاب بن عطاء الخفاف "، ثقة، مضى برقم: ٥٤٢٩، ٥٤٣٢، ١٠٥٢٢.
+
+و"الأخضر بن عجلان الشيباني"، ثقة. مترجم في التهذيب، والكبير ١ \ ٢ \ ٦٧.
+
+و" عطاء بن زهير بن الأصبغ العامري "، روى عن أبيه، روى عنه شميط، والأخضر بن عجلان، هكذا ذكره ابن أبي حاتم ٣ \ ١ \ ٣٣٢، ولم أجد له ترجمة في غيره.
+
+وأبوه: " زهير بن الأصبغ العامري "، روى عن عبد الله بن عمرو، روى عنه ابنه عطاء. مترجم في الكبير ٢ \ ١ \ ٣٩٢، وابن حاتم ١ \ ٢ \ ٥٨٧، ولم يذكرا فيه جرحًا.
+
+وهذا الخبر، خرجه السيوطي في الدر المنثور ٣: ٢٥٢، ولم ينسبه إلا إلى أبي الشيخ، وفيه "عبد الله بن عمر"، وهو خطأ.]]
+
+١٦٨٤٣- حدثني يونس قال، أخبرنا ابن وهب قال، قال ابن زيد: يكون للعامل عليها إن عمل بالحق، ولم يكن عمر رحمه الله تعالى ولا أولئك يعطون العامل الثمن، إنما يفرضون له بقدر عُمالته.
+
+١٦٨٤٤- حدثنا ابن وكيع قال، حدثنا جرير، عن أشعث، عن الحسن: ﴿والعاملين عليها﴾ ، قال: كان يعطى العاملون.
+
+* *
+
+قال أبو جعفر: وأولى الأقوال في ذلك بالصواب، قولُ من قال: يعطى العامل عليها على قدر عُمالته وأجر مثله.
+
+وإنما قلنا: ذلك أولى بالصواب، لأن الله جل ثناؤه لم يقسم صدقة الأموال بين الأصناف الثمانية على ثمانية أسهم، وإنما عرّف خلقه أن الصدقات لن تجاوز هؤلاء الأصناف الثمانية إلى غيرهم، وإذ كان كذلك، بما سنوضح بعدُ، وبما قد أوضحناه في موضع آخر، كان معلومًا أن من أعطي منها حقًّا، فإنما يعطى على قدر اجتهاد المعطى فيه. وإذا كان ذلك كذلك، وكان العامل عليها إنما يعطى على عمله، لا على الحاجة التي تزول بالعطية، كان معلومًا أن الذي أعطاه من ذلك إنما هو عِوَض من سعيه وعمله، وأن ذلك إنما هو قدر يستحقه عوضًا من عمله الذي لا يزول بالعطية، وإنما يزول بالعزل.
+
+* *
+
+وأما "المؤلفة قلوبهم"، فإنهم قوم كانوا يُتَألَّفون على الإسلام، ممن لم تصحّ نصرته، استصلاحًا به نفسَه وعشيرتَه، كأبي سفيان بن حرب، وعيينة بن بدر، والأقرع بن حابس، ونظرائهم من رؤساء القبائل.
+
+* *
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+١٦٨٤٥- حدثني محمد بن سعد قال، حدثني أبي قال، حدثني عمي قال، حدثني أبي، عن أبيه، عن ابن عباس قوله: ﴿والمؤلفة قلوبهم﴾ ، وهم قوم كانوا يأتون رسول الله ﷺ قد أسلموا، وكان رسول الله ﷺ يرضَخ لهم من الصدقات، [["رضخ له من ماله رضيخة"، أعطاه عطية مقاربة، ليست بالكثيرة، وأصله من "الرضخ"، وهو كسر النوى وغيره، كأنه كسر له من ماله شيئا.]] فإذا أعطاهم من الصدقات فأصابوا منها خيرًا قالوا: هذا دين صالح! وإن كان غير ذلك، عابوه وتركوه.
+
+١٦٨٤٦- حدثنا ابن عبد الأعلى قال، [[في المطبوعة: "حدثنا عبد الأعلى"، وهو خطأ، صوابه من المخطوطة، وهذا إسناد دائر في التفسير وشيخ الطبري "محمد بن عبد الأعلى".]] حدثنا محمد بن ثور، عن معمر، عن يحيى بن أبي كثير: أن المؤلفة قلوبهم من بني أمية: أبو سفيان بن حرب = ومن بني مخزوم: الحارث بن هشام، وعبد الرحمن بن يربوع = ومن بني جُمَح: صفوان بن أمية = ومن بني عامر بن لؤي: سهيل بن عمرو، وحويطب بن عبد العزى = ومن بني أسد بن عبد العزى: حكيم بن حزام = ومن بني هاشم: سفيان بن الحارث بن عبد المطلب = ومن بني فزارة: عيينة بن حصن بن بدر = ومن بني تميم: الأقرع بن حابس =
+
+[TRUNCATED at 12000 chars — 13479 more. Consult the source directly before relying on anything near the cut.]
 
 ### al-Muyassar (Arabic)
 
-إنما تعطى الزكوات الواجبة للمحتاجين الذين لا يملكون شيئًا، وللمساكين الذين لا يملكون كفايتهم، وللسعاة الذين يجمعونها، وللذين تؤلِّفون قلوبهم بها ممن يُرْجَى إسلامه أو قوة إيمانه أو نفعه للمسلمين، أو تدفعون بها شرَّ أحد عن المسلمين، وتعطى في عتق رقاب الأرقاء والمكاتبين، وتعطى للغارمين لإصلاح ذات البين، ولمن أثقلَتْهم الديون في غير فساد ولا تبذير فأعسروا، وللغزاة في سبيل الله، وللمسافر الذي انقطعت به النفقة، هذه القسمة فريضة فرضها الله وقدَّرها. والله عليم بمصالح عباده، حكيم في تدبيره وشرعه.
+إنما تعطى الزكوات الواجبة للمحتاجين الذين لا يملكون شيئًا، وللمساكين الذين لا يملكون ما يكفيهم و يسدُّ حاجتهم، وللسعاة الذين يجمعونها، وللذين تؤلِّفون قلوبهم بها ممن يُرْجى إسلامه أو قوة إيمانه أو نفعه للمسلمين، أو تدفعون بها شرَّ أحد عن المسلمين، وتعطى في عتق رقاب الأرقاء والمكاتبين، وتعطى للغارمين لإصلاح ذات البين، ولمن أثقلَتْهم الديون في غير فساد ولا تبذير فأعسروا، وللغزاة في سبيل الله، وللمسافر الذي انقطعت به النفقة، هذه القسمة فريضة فرضها الله وقدَّرها. والله عليم بمصالح عباده، حكيم في تدبيره وشرعه.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿إنّما الصَّدَقات﴾ الزَّكَوات مَصْرُوفَة ﴿لِلْفُقَراءِ﴾ الَّذِينَ لا يَجِدُونَ ما يَقَع مَوْقِعًا مِن كِفايَتهمْ ﴿والمَساكِين﴾ الَّذِينَ لا يَجِدُونَ ما يَكْفِيهِمْ ﴿والعامِلِينَ عَلَيْها﴾ أيْ الصَّدَقات مِن جابٍ وقاسِم وكاتِب وحاشِر ﴿والمُؤَلَّفَة قُلُوبهمْ﴾ لِيُسْلِمُوا أوْ يَثْبُت إسْلامهمْ أوْ يَسْلَم نُظَراؤُهُمْ أوْ يَذُبُّوا عَنْ المُسْلِمِينَ أقْسام الأَوَّل والأَخِير لا يُعْطِيانِ اليَوْم عِنْد الشّافِعِيّ رَضِيَ اللَّه تَعالى عَنْهُ لِعَزِّ الإسْلام بِخِلافِ الآخَرَيْنِ فَيُعْطِيانِ عَلى الأَصَحّ ﴿وفِي﴾ فَكّ ﴿الرِّقاب﴾ أيْ المُكاتَبِينَ ﴿والغارِمِينَ﴾ أهْل الدِّين إنْ اسْتَدانُوا لِغَيْرِ مَعْصِيَة أوْ تابُوا ولَيْسَ لَهُمْ وفاء أوْ لِإصْلاحِ ذات البَيْن ولَوْ أغْنِياء ﴿وفِي سَبِيل اللَّه﴾ أيْ القائِمِينَ بِالجِهادِ مِمَّنْ لا فَيْء لَهُمْ ولَوْ أغْنِياء ﴿وابْن السَّبِيل﴾ المُنْقَطِع فِي سَفَره ﴿فَرِيضَة﴾ نُصِبَ بِفِعْلِهِ المُقَدَّر ﴿مِن اللَّه واللَّه عَلِيم﴾ بِخَلْقِهِ ﴿حَكِيم﴾ فِي صُنْعه فَلا يَجُوز صَرْفها لِغَيْرِ هَؤُلاءِ ولا مَنع صِنْف مِنهُمْ إذا وُجِدَ فَيَقْسِمها الإمام عَلَيْهِمْ عَلى السَّواء ولَهُ تَفْضِيل بَعْض آحاد الصِّنْف عَلى بَعْض وأَفادَتْ اللّام وُجُوب اسْتِغْراق أفْراده لَكِنْ لا يَجِب عَلى صاحِب المال إذا قَسَمَ لِعُسْرِهِ بَلْ يَكْفِي إعْطاء ثَلاثَة مِن كُلّ صِنْف ولا يَكْفِي دُونها كَما أفادَتْهُ صِيغَة الجَمْع وبَيَّنَتْ السُّنَّة أنَّ شَرْط المُعْطى مِنها الإسْلام وأَنْ لا يَكُون هاشِمِيًّا ولا مُطَّلِبِيًّا
 
 ---
 
@@ -122,22 +1412,145 @@ After Allah mentioned the protest that the ignorant hypocrites mentioned to the 
 
 ### Ibn Kathir (English)
 
+Take Sadaqah from their wealth in order to purify them and sanctify them with it, and 'Şalli' for them. Verily, your Salat are a Sakan for them; and Allah is All-Hearer, All-Knower (103)Know they not that Allah accepts repentance from His servants and accepts the Sadaqat, and that Allah alone is the One Who forgives and accepts repentance, Most Merciful (104)
+
 The Command to collect the Zakah and Its Benefits
-Allah commanded His Messenger to take Sadaqah from the Muslims' money to purify and sanctify them with it. This Ayah is general, even though some said that it refers specifically to those who mixed good and evil deeds, who admitted to their errors. Some bedouin later thought that paying Zakah to the Leader was not legislated except to the Messenger ﷺ himself, using this Ayah as evidence,
-خُذْ مِنْ أَمْوَلِهِمْ صَدَقَةً
-(Take Sadaqah from their...
+
+Allah commanded His Messenger ﷺ to take Sadaqah from the Muslims' money to purify and sanctify them with it. This Ayah is general, even though some said that it refers specifically to those who mixed good and evil deeds, who admitted to their errors.
+
+Some bedouin later thought that paying Zakah to the Leader was not legislated except to the Messenger ﷺ himself, using this Ayah as evidence,
+
+خُذْ مِنْ أَمْوَالِهِمْ صَدَقَةً
+
+(Take Sadaqah from their wealth.) Abu Bakr As-Siddiq and other Companions refuted this ill comprehension and fought against them until they paid the Zakah to the Khalifah, just as they used to pay it to the Messenger of Allah ﷺ. As-Siddiq said, "By Allah! If they abstain from paying a bridle that they used to pay to the Messenger of Allah ﷺ, I will fight them for refraining from paying it." Allah's statement,
+
+وَصَلِّ عَلَيْهِمْ
+
+(and 'Şalli' for them), means, supplicate for them, and ask Allah to forgive them. In the Sahih, Muslim recorded that 'Abdullah bin Abi Awfa said, "Whenever the Prophet ﷺ was brought charity, he used to invoke Allah for those who brought it. My father also brought his charity and the Prophet ﷺ said,
+
+اللَّهُمَّ صَلِّ عَلَى آلِ أَبِي أَوْفَى
+
+(O Allah! I invoke You for the family of Abu Awfa.)" Allah's statement,
+
+إِنَّ صَلَاتَكَ سَكَنٌ لَّهُمْ
+
+(Verily, your Salat are a Sakan for them), means, a mercy for them, according to Ibn 'Abbas. Allah said next,
+
+وَاللَّهُ سَمِيعٌ
+
+(and Allah is All-Hearer,) of your invocation (O Muhammad),
+
+عَلِيمٌ
+
+(All-Knower.) in those who deserve your invocation on their behalf, who are worthy of it. Allah said,
+
+أَلَمْ يَعْلَمُوا أَنَّ اللَّهَ هُوَ يَقْبَلُ التَّوْبَةَ عَنْ عِبَادِهِ وَيَأْخُذُ الصَّدَقَاتِ
+
+(Know they not that Allah accepts repentance from His servants and accepts the Sadaqat?)
+
+This Ayah encourages reverting to repentance and giving charity, for each of these actions erases, deletes and eradicate sins. Allah states that He accepts the repentance of those who repent to Him, as well as charity from pure resources, for Allah accepts it with His Right Hand and raises it for its giver until even a date becomes as large as Mount Uhud. Abu Hurayrah narrated that the Messenger of Allah ﷺ said,
+
+إِنَّ اللهَ يَقْبَلُ الصَّدَقَةَ وَيَأْخُذُهَا بِيَمِينِهِ فَيُرَبِّيهَا لِأَحَدِكُمْ كَمَا يُرَبِّي أَحَدُكُمْ مُهْرَهُ، حَتَّى إِنَّ اللُّقْمَةَ لَتَكُونُ مِثْلَ أُحُدٍ
+
+(Verily, Allah accepts charity, receives it in His Right Hand and develops it for its giver, just as one of you raises his pony, until the bite [of food] becomes as large as Uhud.)
+
+The Book of Allah, the Exalted and Most Honored, testifies to this Hadith,
+
+أَلَمْ يَعْلَمُوا أَنَّ اللَّهَ هُوَ يَقْبَلُ التَّوْبَةَ عَنْ عِبَادِهِ وَيَأْخُذُ الصَّدَقَاتِ
+
+(Know they not that Allah accepts repentance from His servants and accepts the Sadaqat?), and,
+
+يَمْحَقُ اللَّهُ الرِّبَا وَيُرْبِي الصَّدَقَاتِ
+
+(Allah will destroy Riba and will give increase for Sadaqat.)[2:276]
+
+'Abdullah bin Mas'ud said, "Charity falls in Allah's Hand before it falls in the needy's hand," he then recited this Ayah,
+
+أَلَمْ يَعْلَمُوا أَنَّ اللَّهَ هُوَ يَقْبَلُ التَّوْبَةَ عَنْ عِبَادِهِ وَيَأْخُذُ الصَّدَقَاتِ
+
+(Know they not that Allah accepts repentance from His servants and accepts the Sadaqat?)
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله :  خُذْ مِنْ أَمْوَالِهِمْ صَدَقَةً تُطَهِّرُهُمْ وَتُزَكِّيهِمْ بِهَا وَصَلِّ عَلَيْهِمْ إِنَّ صَلاتَكَ سَكَنٌ لَهُمْ وَاللَّهُ سَمِيعٌ عَلِيمٌ (103)قال أبو جعفر: يقول تعالى ذكره لنبيه محمد صلى الله عليه وسلم: يا محمد، خذ من أموال هؤلاء الذين اعترفوا بذنوبهم فتابوا منها =(صدقة تطهرهم)، من دنس ذنوبهم (39) =(وتزكيهم بها)، يقول: وتنمِّيهم وترفعهم عن خسيس منازل أهل النفاق بها, إلى منازل أهل الإخلاص (40) =(وصل عليهم)، يقول: وادع لهم بالمغفرة لذنوبهم, واستغفر لهم منها =(إن صلات...
+القول في تأويل قوله: ﴿خُذْ مِنْ أَمْوَالِهِمْ صَدَقَةً تُطَهِّرُهُمْ وَتُزَكِّيهِمْ بِهَا وَصَلِّ عَلَيْهِمْ إِنَّ صَلاتَكَ سَكَنٌ لَهُمْ وَاللَّهُ سَمِيعٌ عَلِيمٌ (١٠٣) ﴾
+
+قال أبو جعفر: يقول تعالى ذكره لنبيه محمد ﷺ: يا محمد، خذ من أموال هؤلاء الذين اعترفوا بذنوبهم فتابوا منها = ﴿صدقة تطهرهم﴾ ، من دنس ذنوبهم [[انظر تفسير " التطهير " فيما سلف ١٢: ٥٤٩، تعليق: ٢، والمراجع هناك.]] = ﴿وتزكيهم بها﴾ ، يقول: وتنمِّيهم وترفعهم عن خسيس منازل أهل النفاق بها، إلى منازل أهل الإخلاص [[انظر تفسير " التزكية " فيما سلف من فهارس اللغة (زكا) .]] = ﴿وصل عليهم﴾ ، يقول: وادع لهم بالمغفرة لذنوبهم، واستغفر لهم منها = ﴿إن صلاتك سكن لهم﴾ ، يقول: إن دعاءك واستغفارك طمأنينة لهم، بأن الله قد عفا عنهم وقبل توبتهم [[انظر تفسير " الصلاة " فيما سلف من فهارس اللغة (صلا) .
+
+= وتفسير " سكن " فيما سلف ١١: ٥٥٧.]] = ﴿والله سميع عليم﴾ ، يقول: والله سميع لدعائك إذا دعوت لهم، ولغير ذلك من كلام خلقه = ﴿عليم﴾ ، بما تطلب بهم بدعائك ربّك لهم، وبغير ذلك من أمور عباده. [[انظر تفسير " سميع " و " عليم " فيما سلف من فهارس اللغة (سمع) ، (علم) .]]
+
+* *
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+١٧١٥٢- حدثني المثنى قال، حدثنا أبو صالح قال، حدثني معاوية، عن علي، عن ابن عباس قال: جاءوا بأموالهم = يعني أبا لبابة وأصحابه = حين أطلقوا، فقالوا: يا رسول الله هذه أموالنا فتصدّق بها عنا، واستغفر لنا! قال: ما أمرت أن آخذ من أموالكم شيئًا! فأنزل الله: (خذ من أموالهم صدقة تطهرهم وتزكيهم بها) ، يعني بالزكاة: طاعة الله والإخلاص = ﴿وصل عليهم﴾ ، يقول: استغفر لهم.
+
+١٧١٥٣- حدثني محمد بن سعد قال، حدثني أبي قال، حدثني عمي قال، حدثني أبي، عن أبيه، عن ابن عباس، قال: لما أطلق رسول الله ﷺ أبا لبابة وصاحبيه، انطلق أبو لبابة وصاحباه بأموالهم، فأتوا بها رسول الله ﷺ، فقالوا: خذ من أموالنا فتصدَّق بها عنا، وصلِّ علينا = يقولون: استغفر لنا = وطهرنا. فقال رسول الله ﷺ: لا آخذ منها شيئًا حتى أومر. فأنزل الله: ﴿خذ من أموالهم صدقة تطهرهم وتزكيهم بها وصل عليهم إن صلاتك سكن لهم﴾ ، يقول: استغفر لهم من ذنوبهم التي كانوا أصابوا. فلما نزلت هذه الآية أخذ رسول الله ﷺ جزءًا من أموالهم، فتصدَّق بها عنهم.
+
+١٧١٥٤- حدثنا ابن حميد قال، حدثنا يعقوب، عن زيد بن أسلم قال: لما أطلق النبي ﷺ أبا لبابة والذين ربطوا أنفسهم بالسَّواري، قالوا: يا رسول الله، خذ من أموالنا صدقة تطهرنا بها! فأنزل الله: ﴿خذ من أموالهم صدقة تطهرهم﴾ ، الآية.
+
+١٧١٥٥- حدثنا ابن وكيع قال، حدثنا جرير، عن يعقوب، عن جعفر، عن سعيد بن جبير قال: قال الذين ربطوا أنفسهم بالسواري حين عفا عنهم: يا نبيّ الله؛ طهِّر أموالنا! فأنزل الله: ﴿خذ من أموالهم صدقة تطهرهم وتزكيهم بها﴾ ، وكان الثلاثة إذا اشتكى أحدهم اشتكى الآخران مثله، وكان عَمي منهم اثنان، فلم يزل الآخر يدعو حتى عَمِي.
+
+١٧١٥٦- حدثنا بشر قال، حدثنا يزيد قال، حدثنا سعيد، عن قتادة قال: الأربعة: جدُّ بن قيس، وأبو لبابة، وحرام، وأوس، هم الذين قيل فيهم: ﴿خذ من أموالهم صدقة تطهرهم وتزكيهم بها وصل عليهم إن صلاتك سكن لهم﴾ ، أي وقارٌ لهم، وكانوا وعدوا من أنفسهم أن ينفقوا ويجاهدوا ويتصدَّقوا.
+
+١٧١٥٧- حدثت عن الحسين بن الفرج قال، سمعت أبا معاذ قال، أخبرنا عبيد بن سليمان قال، سمعت الضحاك، قال: لما أطلق نبيّ الله ﷺ أبا لبابة وأصحابه، أتوا نبيّ الله بأموالهم فقالوا: يا نبي الله، خذ من أموالنا فتصدَّق به عنا، وطهَّرنا، وصلِّ علينا! يقولون: استغفر لنا = فقال نبي الله: لا آخذ من أموالكم شيئًا حتى أومر فيها = فأنزل الله عز وجل: ﴿خذ من أموالهم صدقة تطهرهم﴾ ، من ذنوبهم التي أصابوا = ﴿وصل عليهم﴾ ، يقول: استغفر لهم. ففعل نبي الله عليه السلام ما أمره الله به.
+
+١٧١٥٨- حدثنا القاسم قال، حدثنا الحسين قال، حدثني حجاج، عن ابن جريج قال، قال ابن عباس قوله: ﴿خذ من أموالهم صدقة﴾ ، أبو لبابة وأصحابه = ﴿وصل عليهم﴾ ، يقول: استغفر لهم، لذنوبهم التي كانوا أصابوا.
+
+١٧١٥٩- حدثني يونس قال، أخبرنا ابن وهب قال، قال ابن زيد في قوله: ﴿خذ من أموالهم صدقة تطهرهم وتزكيهم بها وصل عليهم إن صلاتك سكن لهم﴾ ، قال: هؤلاء ناسٌ من المنافقين ممن كان تخلف عن النبي ﷺ في غزوة تبوك، اعترفوا بالنفاق، وقالوا: يا رسول الله، قد ارتبنا ونافقنا وشككنا، ولكن توبةٌ جديدة، وصدقةٌ نخرجها من أموالنا! فقال الله لنبيه عليه الصلاة والسلام: ﴿خذ من أموالهم صدقة تطهرهم وتزكيهم بها﴾ ، بعد ما قال: ﴿وَلا تُصَلِّ عَلَى أَحَدٍ مِنْهُمْ مَاتَ أَبَدًا وَلا تَقُمْ عَلَى قَبْرِهِ﴾ ، [سورة التوبة: ٨٤] .
+
+* *
+
+واختلف أهل العربية في وجه رفع "تزكيهم".
+
+فقال بعض نحويي البصرة: رفع "تزكيهم بها"، في الابتداء، وإن شئت جعلته من صفة "الصدقة"، ثم جئت بها توكيدًا، وكذلك "تطهرهم".
+
+وقال بعض نحويي الكوفة: إن كان قوله: ﴿تطهرهم﴾ ، للنبي عليه السلام فالاختيار أن تجزم، لأنه لم يعد على "الصدقة" عائد، [[في المطبوعة " بأنه لم يعد "، وأثبت ما في المخطوطة.]] ﴿وتزكيهم﴾ ، مستأنَفٌ. وإن كانت الصدقة تطهرهم وأنت تزكيهم بها، جاز أن تجزم الفعلين وترفعهما.
+
+* *
+
+قال أبو جعفر: والصواب في ذلك من القول، أن قوله: ﴿تطهرهم﴾ ، من صلة "الصدقة"، لأن القرأة مجمعة على رفعها، وذلك دليل على أنه من صلة "الصدقة". وأما قوله: ﴿وتزكيهم بها﴾ ، فخبر مستأنَفٌ، بمعنى: وأنت تزكيهم بها، فلذلك رفع.
+
+* *
+
+واختلف أهل التأويل في تأويل قوله: ﴿إن صلاتك سكن لهم﴾ .
+
+فقال بعضهم: رحمة لهم.
+
+ذكر من قال ذلك:
+
+١٧١٦٠- حدثني المثنى قال، حدثنا أبو صالح قال، حدثني معاوية، عن علي، عن ابن عباس، ﴿إن صلاتك سكن لهم﴾ ، يقول: رحمة لهم.
+
+* *
+
+وقال آخرون: بل معناه: إن صلاتك وقارٌ لهم.
+
+ذكر من قال ذلك:
+
+١٧١٦١- حدثنا بشر قال، حدثنا سعيد، عن قتادة: ﴿إن صلاتك سكن لهم﴾ ، أي: وقارٌ لهم.
+
+* *
+
+واختلفت القرأة في قراءة ذلك.
+
+فقرأته قرأة المدينة: ﴿إِنَّ صَلوَاتِكَ سَكَنٌ لَهُمْ﴾ بمعنى دعواتك.
+
+* *
+
+وقرأ قرأة العراق وبعض المكيين: ﴿إِنَّ صَلاتَكَ سَكَنٌ لَهُمْ﴾ ، بمعنى: إن دعاءك.
+
+* *
+
+قال أبو جعفر: وكأنَّ الذين قرأوا ذلك على التوحيد، رأوا أن قراءته بالتوحيد أصحُّ، لأن في التوحيد من معنى الجمع وكثرة العدد ما ليس في قوله: ﴿إن صلواتك سكن لهم﴾ ، إذ كانت "الصلوات"، هي جمع لما بين الثلاث إلى العشر من العدد، دون ما هو أكثر من ذلك. والذي قالوا من ذلك، عندنا كما قالوا، وبالتوحيد عندنا القراءةُ لا العلة، لأن ذلك في العدد أكثر من "الصلوات"، [[في المطبوعة: " وبالتوحيد عندنا القراءة لا لعلة أن ذلك في العدد. . . "، غير ما في المخطوطة، وهو صواب محض.]] ولكن المقصود منه الخبر عن دعاء النبي ﷺ وصلواته أنه سكن لهؤلاء القوم، [[في المطبوعة: " وصلاته "، وأثبت ما في المخطوطة.]] لا الخبر عن العدد. وإذا كان ذلك كذلك، كان التوحيد في "الصلاة" أولى.
 
 ### al-Muyassar (Arabic)
 
-خذ -أيها النبي- من أموال هؤلاء التائبين الذين خلطوا عملا صالحا وآخر سيئا صدقة تطهرهم مِن دنس ذنوبهم، وترفعهم عن منازل المنافقين إلى منازل المخلصين، وادع لهم بالمغفرة لذنوبهم واستغفر لهم منها، إن دعاءك واستغفارك رحمة وطمأنينة لهم. والله سميع لكل دعاء وقول، عليم بأحوال العباد ونياتهم، وسيجازي كلَّ عامل بعمله.
+خذ -أيها النبي- من أموال هؤلاء التائبين، الذين خلطوا عملًا صالحًا وآخر سيئًا صدقة تطهرهم مِن دنس ذنوبهم، وترفعهم عن منازل المنافقين إلى منازل المخلصين، وادع لهم بالمغفرة لذنوبهم واستغفر لهم منها، إن دعاءك واستغفارك رحمة وطمأنينة لهم. والله سميع لكل دعاء وقول، عليم بأحوال العباد ونياتهم، وسيجازي كلَّ عامل بعمله.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿خُذْ مِن أمْوالهمْ صَدَقَة تُطَهِّرهُمْ وتُزَكِّيهِمْ بِها﴾ مِن ذُنُوبهمْ فَأَخَذَ ثُلُث أمْوالهمْ وتَصَدَّقَ بِها ﴿وصَلِّ عَلَيْهِمْ﴾ أيْ اُدْعُ لَهُمْ ﴿إنّ صَلاتك سَكَن لَهُمْ﴾ رَحْمَة وقِيلَ طُمَأْنِينَة بِقَبُولِ تَوْبَتهمْ
 
 ---
 
@@ -145,20 +1558,165 @@ Allah commanded His Messenger to take Sadaqah from the Muslims' money to purify 
 
 ### Ibn Kathir (English)
 
+Believe in Allah and His Messenger, and spend of that whereof He has made you trustees. And such of you as believe and spend, theirs will be a great reward (7)And what is the matter with you that you believe not in Allah! While the Messenger invites you to believe in your Lord; and He has indeed taken your covenant, if you are real believers (8)It is He Who sends down manifest Ayat to His servant that He may bring you out from darkness into light. And verily, Allah is to you full of kindness, Most Merciful (9)And what is the matter with you that you spend not in the cause of Allah? And to Allah belongs the heritage of the heavens and the earth. Not equal among you are those who spent and fought before the conquering. Such are higher in degree than those who spent and fought afterwards. But to all Allah has promised the best. And Allah is All-Aware of what you do (10)Who is he that will lend Allah a handsome loan: then He will increase it manifold to his credit, and he will have a honorable reward (11)
+
 Ordering Faith and encouraging spending
-Allah the Exalted and Blessed orders having perfect faith in Him and in His Messenger, and that one should persist on this path adhereing firmly to it. Allah encourages spending from what He has made mankind trustees of, the wealth that you - mankind - have, that He has lent you. This wealth was in the hands of those before you and was later transferred to you. Therefore, O mankind, spend as Allah commanded you from the wealth that He entrusted to you f...
+
+Allah the Exalted and Blessed orders having perfect faith in Him and in His Messenger, and that one should persist on this path adhereing firmly to it. Allah encourages spending from what He has made mankind trustees of, the wealth that you – mankind – have, that He has lent you. This wealth was in the hands of those before you and was later transferred to you. Therefore, O mankind, spend as Allah commanded you from the wealth that He entrusted to you for His obedience. Otherwise, He will hold you accountable and punish you for your ignoring what He ordained on you in this regard. Allah's statement,
+
+مِمَّا جَعَلَكُمْ مُسْتَخْلَفِينَ فِيهِ
+
+(of that whereof He has made you trustees.), indicates that you – mankind – will surrender this wealth to someone else. In this case, those who will inherit from you might obey Allah with their wealth, and thus acquire more happiness than you on account of what Allah has granted them. They might disobey Allah, and in this case you will have helped them commit evil and transgression.
+
+Imam Ahmad recorded that 'Abdullah bin Ash-Shikhkhir said, "I came to Allah's Messenger ﷺ as he was reciting and saying,
+
+أَلْهَاكُمُ التَّكَاثُرُ
+
+((abundance diverts you.)(102:1)
+
+يَقُولُ ابْنُ آدَمَ: مَالِي مَالِي، وَهَلْ لَكَ مِن مَالِكَ إِلَّا مَاأَكَلْتَ فَأَفْنَيْتَ، أَوْ لَبِسْتَ فَأَبْلَيْتَ، أَوْ تَصَدَّقْتَ فَأَمْضَيْتَ؟
+
+(The Son of 'Adam claims, "My wealth, my wealth." But is there anything belonging to you, except that which you consumed, which you used, or which you wore and then it became worn or you gave as charity and sent it forward?) Muslim also collected with the addition:
+
+وَمَا سِوَىٰ ذٰلِكَ، فَذَاهِبٌ وَتَارِكُهُ لِلنَّاسِ
+
+(Other than that, you will go away from it and leave it behind for other people.) Allah's statement,
+
+فَالَّذِينَ آمَنُوا مِنْكُمْ وَأَنْفَقُوا لَهُمْ أَجْرٌ كَبِيرٌ
+
+(And such of you as believe and spend, theirs will be a great reward.) encourages having faith and spending in acts of obedience. Allah the Exalted said,
+
+وَمَا لَكُمْ لَا تُؤْمِنُونَ بِاللَّهِ ۙ وَالرَّسُولُ يَدْعُوكُمْ لِتُؤْمِنُوا بِرَبِّكُمْ
+
+(And what is the matter with you that you believe not in Allah! While the Messenger invites you to believe in your Lord;) meaning, "what prevents you from believing, while the Messenger is among you calling you to faith and bringing forward clear proofs and evidences that affirm the truth of what he brought you?"
+
+And we have reported the Hadith through different routes in the beginning of the explanation on the chapter on Faith in Sahih Al-Bukhari, wherein one day the Messenger of Allah ﷺ said to his Companions,
+
+أَيُّ الْمُؤْمِنِينَ أَعْجَبُ إِلَيْكُمْ إِيمَانًا؟
+
+(Who do you consider among the believers as having the most amazing faith?) They said, "The angels." He said,
+
+وَمَا لَهُمْ لَا يُؤْمِنُونَ وَهُمْ عِنْدَ رَبِّهِمْ؟
+
+(And what prevents them from believing when they are with their Lord?) They said, "Then the Prophets." He said,
+
+وَمَالَهُمْ لَا يُؤْمِنُونَ وَالْوَحْيُ يَنْزِلُ عَلَيْهِمْ؟
+
+(What prevents them from believing when the revelation comes down to them?) They said, "Then us." He said,
+
+وَمَالَكُمْ لَا تُؤْمِنُونَ وَأَنَا بَيْنَ أَظْهُرِكُمْ؟ وَلٰكِنْ أَعْجَبُ الْمُؤْمِنِينَ إِيمَانًا، قَوْمٌ يَجِيئُونَ بَعْدَكُمْ، يَجِدُونَ صُحُفًا يُؤْمِنُونَ بِمَا فِيهَا
+
+(What prevents you from believing, when I am amongst you? Actually, the believers who have the most amazing faith, are some people who will come after you; they will find pages that they will believe in.)
+
+We mentioned a part of this Hadith when explaining Allah's statement in Surat Al-Baqarah,
+
+الَّذِينَ يُؤْمِنُونَ بِالْغَيْبِ
+
+(who believe in the Ghayb (unseen).)(2:3) Allah's statement,
+
+وَقَدْ أَخَذَ مِيثَاقَكُمْ
+
+(and He has indeed taken your covenant,) is similar to another of His statements,
+
+وَاذْكُرُوا نِعْمَةَ اللَّهِ عَلَيْكُمْ وَمِيثَاقَهُ الَّذِي وَاثَقَكُمْ بِهِ إِذْ قُلْتُمْ سَمِعْنَا وَأَطَعْنَا ۖ
+
+(And remember Allah's favor to you and His covenant with which He bound you when you said: "We hear and we obey.")(5:7), which refers to giving the pledge of allegiance to the Prophet ﷺ. Ibn Jarir said that the covenant mentioned here, is that taken from mankind, when they were still in Adam's loin. This is also the opinion of Mujahid, and Allah knows best. Allah said,
+
+هُوَ الَّذِي يُنَزِّلُ عَلَىٰ عَبْدِهِ آيَاتٍ بَيِّنَاتٍ
+
+(It is He Who sends down manifest Ayat to His servant) clear proofs, unequivocal evidences and plain attestations,
+
+لِيُخْرِجَكُمْ مِنَ الظُّلُمَاتِ إِلَى النُّورِ
+
+(that He may bring you out from darkness into light.) from the darkness of ignorance, disbelief and contradictory statements to the light of guidance, certainty and faith,
+
+وَإِنَّ اللَّهَ بِكُمْ لَرَءُوفٌ رَحِيمٌ
+
+(And verily, Allah is to you full of kindness, Most Merciful.) by revealing the Divine Books and sending the Messengers to guide mankind, eradicating doubts and removing confusion. After Allah commanded mankind to first believe and spend, He again encouraged them to acquire faith and stated that He has removed all barriers between them and the acquisition of faith. Allah again encouraged them to spend,
+
+وَمَا لَكُمْ أَلَّا تُنْفِقُوا فِي سَبِيلِ اللَّهِ وَلِلَّهِ مِيرَاثُ السَّمَاوَاتِ وَالْأَرْضِ ۚ
+
+(And what is the matter with you that you spend not in the cause of Allah? And to Allah belongs the heritage of the heavens and the earth.) means, spend and do not fear poverty or scarcity. Surely, He in Whose cause you spent is the King and Owner of the heavens and earth and has perfect control over their every affair, including their treasuries. He is the Owner of the Throne, with all the might that it contains, and He is the One Who said,
+
+وَمَا أَنْفَقْتُمْ مِنْ شَيْءٍ فَهُوَ يُخْلِفُهُ ۖ وَهُوَ خَيْرُ الرَّازِقِينَ
+
+(And whatsoever you spend of anything, He will replace it. And He is the best of providers.)(34:39), and,
+
+مَا عِنْدَكُمْ يَنْفَدُ ۖ وَمَا عِنْدَ اللَّهِ بَاقٍ ۗ
+
+(whatever is with you, will be exhausted, and whatever is with Allah will remain.)(16:96)
+
+Therefore, those who trust in and depend on Allah will spend, and they will not fear poverty or destitution coming to them from the Owner of the Throne. They know that Allah will surely compensate them for whatever they spend.
+
+The Virtues of spending and fighting before the Conquest of Makkah
+
+Allah's statement,
+
+لَا يَسْتَوِي مِنْكُمْ مَنْ أَنْفَقَ مِنْ قَبْلِ الْفَتْحِ وَقَاتَلَ ۚ
+
+(Not equal among you are those who spent before the conquering and fought.) meaning those who did not fight and spend before the Conquest are not equal to those who spent and fought. Before Makkah was conquered, things were difficult for Muslims and only the righteous ones embraced Islam. After Makkah was conquered, Islam spread tremendously throughout the known world and people embraced the religion of Allah en masse. Similarly He said:
+
+أُولَٰئِكَ أَعْظَمُ دَرَجَةً مِنَ الَّذِينَ أَنْفَقُوا مِنْ بَعْدُ وَقَاتَلُوا ۚ وَكُلًّا وَعَدَ اللَّهُ الْحُسْنَىٰ ۚ
+
+(Such are higher in degree than those who spent and fought afterwards. But to all Allah has promised the best (reward).)
+
+The majority considers the Conquest here to be the conquest of Makkah. Ash-Sha'bi and several others said that the Ayah refers to the treaty at Al-Hudaybiyyah. There is proof for this opinion found in a Hadith from Anas, collected by Imam Ahmad. Anas said, "Khalid bin Al-Walid and 'Abdur-Rahman bin 'Awf had a dispute. Khalid said to 'Abdur-Rahman, 'You boast about days (battles) that you participated in before us.' When the news of this statement reached the Prophet ﷺ he said,
+
+دَعُوا لِي أَصْحَابِي، فَوَالَّذِي نَفْسِي بِيَدِهِ! لَوْ أَنْفَقْتُمْ مِثْلَ أُحُدٍ - أَوْ مِثْلَ الْجِبَالِ - ذَهَبًا، مَا بَلَغْتُمْ أَعْمَالَهُمْ
+
+(Do not bother my Companions, for by He in Whose Hand is my soul! If you spend an amount of gold equal to (Mount) Uhud, (or equal to the mountains), you will not reach the level of their actions.)"
+
+It is a known fact that Khalid bin Al-Walid, whom the Prophet addressed this statement to, embraced Islam during the period between the treaty of Al-Hudaybiyyah and the conquering of Makkah. The dispute between Khalid and 'Abdur-Rahman occurred because of the battle of Bani Jadhimah. The Prophet ﷺ sent Khalid bin Al-Walid to them after the conquest of Makkah, and they said, "Saba'na," instead of saying, "Aslamna" (we embraced Islam). So Khalid ordered their execution and the execution of their prisoners (of war); 'Abdur-Rahman bin 'Awf and 'Abdullah bin 'Umar opposed him. This is the reason behind the dispute that occurred between Khalid and 'Abdur-Rahman. But in the Sahih, the Messenger of Allah ﷺ said,
+
+لَا تَسُبُّوا أَصْحَابِي، فَوَالَّذِي نَفْسِي بِيَدِهِ لَوْ أَنْفَقَ أَحَدُكُمْ مِثْلَ أُحُدٍ ذَهَبًا، مَا بَلَغَ مُدَّ أَحَدِهِمْ وَلَا نَصِيفَهُ
+
+(None should revile my Companions, for by He in Whose Hand is my soul! If one of you were to spend as much gold as Uhud, it would not reach the level of them equal to an amount as much as one Mudd of one of them or half of it.) Allah said,
+
+وَكُلًّا وَعَدَ اللَّهُ الْحُسْنَىٰ ۚ
+
+(But to all Allah has promised the best (reward).) meaning, those who spent before and after the conquest of Makkah; they all will gain a reward for their good deeds, even though some of them vary in rank and earn a better reward than others as Allah said,
+
+لَا يَسْتَوِي الْقَاعِدُونَ مِنَ الْمُؤْمِنِينَ غَيْرُ أُولِي الضَّرَرِ وَالْمُجَاهِدُونَ فِي سَبِيلِ اللَّهِ بِأَمْوَالِهِمْ وَأَنْفُسِهِمْ ۚ فَضَّلَ اللَّهُ الْمُجَاهِدِينَ بِأَمْوَالِهِمْ وَأَنْفُسِهِمْ عَلَى الْقَاعِدِينَ دَرَجَةً ۚ وَكُلًّا وَعَدَ اللَّهُ الْحُسْنَىٰ ۚ وَفَضَّلَ اللَّهُ الْمُجَاهِدِينَ عَلَى الْقَاعِدِينَ أَجْرًا عَظِيمًا
+
+(Not equal are those of the believers who sit (at home), except those who are disabled, and those who strive hard and fight in the cause of Allah with their wealth and their lives. Allah has preferred in grades those who strive hard and fight with their wealth and their lives above those who sit (at home). Unto each, Allah has promised good, but Allah has preferred by a great reward those who strive hard and fight, above those who sit (at home).)(4:95)
+
+There is a Hadith in the Sahih that states,
+
+الْمُؤْمِنُ الْقَوِيُّ خَيْرٌ وَأَحَبُّ إِلَى اللهِ مِنَ الْمُؤْمِنِ الضَّعِيفِ، وَفِي كُلٍّ خَيْرٌ
+
+(The strong believer is better and more beloved to Allah than the weak believer; both have goodness in them.) The Prophet ﷺ ended his statement this way to draw attention to the second type of believer, so that their own qualities are not forgotten in the midst of preferring the former type. In this way, the latter is not dismissed as being degraded in the Hadith. Therefore, the Prophet ﷺ ended his statement by praising the second type – the weak believers – after giving preference to the first type. Allah said:
+
+وَاللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌ
+
+(And Allah is All-Aware of what you do.) meaning, since Allah is perfectly aware of all things, He made 
+
+[TRUNCATED at 12000 chars — 3230 more. Consult the source directly before relying on anything near the cut.]
 
 ### al-Tabari (Arabic)
 
-يقول تعالى ذكره: آمنوا بالله أيها الناس، فأقرّوا بوحدانيته، وبرسوله محمد صَلَّى الله عَلَيْهِ وَسَلَّم، فصدقوه فيما جاءكم به من عند الله واتبعوه، (وأنفقوا مما جعلكم مستخلفين فيه)، يقول جلّ ثناؤه: وأنفقوا مما خوّلكم الله، من المال الذي أورثكم عمن كان قبلكم، فجعلكم خلفاءهم فيه في سبيل الله.وبنحو الذي قلنا في ذلك قال أهل التأويل.* ذكر من قال ذلك:حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى؛ وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء جميعا، عن ابن أبي نجيح، عن مجاهد، في قول الله (مُسْت...
+القول في تأويل قوله تعالى: ﴿آمِنُوا بِاللَّهِ وَرَسُولِهِ وَأَنْفِقُوا مِمَّا جَعَلَكُمْ مُسْتَخْلَفِينَ فِيهِ فَالَّذِينَ آمَنُوا مِنْكُمْ وَأَنْفَقُوا لَهُمْ أَجْرٌ كَبِيرٌ (٧) ﴾
+
+يقول تعالى ذكره: آمنوا بالله أيها الناس، فأقرّوا بوحدانيته، وبرسوله محمد ﷺ، فصدقوه فيما جاءكم به من عند الله واتبعوه، ﴿وأنفقوا مما جعلكم مستخلفين فيه﴾ ، يقول جلّ ثناؤه: وأنفقوا مما خوّلكم الله، من المال الذي أورثكم عمن كان قبلكم، فجعلكم خلفاءهم فيه في سبيل الله.
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى؛ وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء جميعا، عن ابن أبي نجيح، عن مجاهد، في قول الله ﴿مُسْتَخْلَفِينَ فِيهِ﴾ قال: المعمرين فيه بالرزق.
+
+* *
+
+وقوله: ﴿فَالَّذِينَ آمَنُوا مِنْكُمْ وَأَنْفَقُوا﴾
+
+يقول: فالذين آمنوا بالله ورسوله منكم أيها الناس، وأنفقوا مما خولهم الله عمن كان قبلهم، ورزقهم من المال في سبيل الله ﴿لَهُمْ أَجْرٌ كَبِيرٌ﴾ يقول: لهم ثواب عظيم.
 
 ### al-Muyassar (Arabic)
 
-آمنوا بالله ورسوله محمد صلى الله عليه وسلم، وأنفقوا مما رزقكم الله من المال واستخلفكم فيه، فالذين آمنوا منكم أيها الناس، وأنفقوا من مالهم، لهم ثواب عظيم.
+آمنوا بالله ورسوله محمد ﷺ، وأنفقوا مما رزقكم الله من المال واستخلفكم فيه، فالذين آمنوا منكم أيها الناس، وأنفقوا من مالهم، لهم ثواب عظيم.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿آمِنُوا﴾ داوَمُوا عَلى الإيمان ﴿بِاللَّهِ ورَسُوله وأَنْفَقُوا﴾ فِي سَبِيل اللَّه ﴿مِمّا جَعَلَكُمْ مُسْتَخْلَفِينَ فِيهِ﴾ مِن مال مَن تَقَدَّمَكُمْ وسَيَخْلُفُكُمْ فِيهِ مَن بَعْدكُمْ نَزَلَ فِي غَزْوَة العُسْرَة وهِيَ غَزْوَة تَبُوك ﴿فالَّذِينَ آمَنُوا مِنكُمْ وأَنْفَقُوا﴾ إشارَة إلى عُثْمان رَضِيَ اللَّه عَنْهُ
 
 ---
 
@@ -166,20 +1724,159 @@ Allah the Exalted and Blessed orders having perfect faith in Him and in His Mess
 
 ### Ibn Kathir (English)
 
+And what Allah gave as booty (Fai') to His Messenger from them – for this you made no expedition with either cavalry or camelry. But Allah gives power to His Messengers over whomsoever He wills. And Allah is Able to do all things (6)What Allah gave as booty (Fai') to His Messenger from the people of the townships – it is for Allah, His Messenger, the kindred, the orphans, the poor, and the wayfarer, in order that it may not become a fortune used by the rich among you. And whatsoever the Messenger gives you, take it; and whatsoever he forbids you, abstain (from it). And have Taqwa of Allah, verily, Allah is Severe in punishment (7)
+
 The Fai' and how it is spent
-Allah the Exalted explains the regulations for Fai', the booty that the Muslims acquire from the disbelievers, without fighting them or using cavalry and camelry in war against them. For instance, the booty collected from Bani An-Nadir was not acquired because of fighting them using horses and camels. The Muslims did not fight Bani An-Nadir in battle, but Allah forced them out of their forts on account of the fear that He placed in their hearts for Allah's Messeng...
+
+Allah the Exalted explains the regulations for Fai', the booty that the Muslims acquire from the disbelievers, without fighting them or using cavalry and camelry in war against them. For instance, the booty collected from Bani An-Nadir was not acquired because of fighting them using horses and camels. The Muslims did not fight Bani An-Nadir in battle, but Allah forced them out of their forts on account of the fear that He placed in their hearts for Allah's Messenger ﷺ. Therefore, it was Fai' that Allah awarded His Messenger, with his discretion to spend it however he sees fit. Indeed, the Prophet ﷺ spent the Fai' on righteous causes and for the benefit of Muslims in the areas that Allah mentioned in this Ayat,
+
+وَمَا أَفَاءَ اللَّهُ عَلَىٰ رَسُولِهِ مِنْهُمْ
+
+(And what Allah gave as booty (Fai') to His Messenger from them) meaning, from Bani An-Nadir,
+
+فَمَا أَوْجَفْتُمْ عَلَيْهِ مِنْ خَيْلٍ وَلَا رِكَابٍ
+
+(for this you made no expedition with either cavalry or camelry.) refering to using camels,
+
+وَلَٰكِنَّ اللَّهَ يُسَلِّطُ رُسُلَهُ عَلَىٰ مَنْ يَشَاءُ ۚ وَاللَّهُ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ
+
+(But Allah gives power to His Messengers over whomsoever He wills. And Allah is Able to do all things.) mean, Allah is powerful and cannot be resisted or opposed; He is the Compeller over all things. Allah the Exalted said,
+
+مَا أَفَاءَ اللَّهُ عَلَىٰ رَسُولِهِ مِنْ أَهْلِ الْقُرَىٰ
+
+(What Allah gave as booty (Fai') to His Messenger from the people of the townships) meaning, from all the villages and areas that are conquered in this manner; the booty collected from them falls under the same ruling as the booty acquired from Bani An-Nadir. This is why Allah the Exalted said,
+
+فَلِلَّهِ وَلِلرَّسُولِ وَلِذِي الْقُرْبَىٰ وَالْيَتَامَىٰ وَالْمَسَاكِينِ وَابْنِ السَّبِيلِ
+
+(it is for Allah, His Messenger, the kindred, the orphans, the poor, and the wayfarer,) until its end and the following Ayah, mentioning the ways the Fai' should be spent. Imam Ahmad recorded that 'Umar said, "The wealth of Bani An-Nadir was of the Fai' type that Allah awarded His Messenger ﷺ and for which the Muslims did not have to use cavalry or camelry. Therefore, it was for the Messenger of Allah ﷺ, and he used it for the needs of his family for a year at a time, and the rest was used to buy armors and weapons used in the cause of Allah the Exalted and Most Honored." Ahmad collected the short form of this story. The Group, with the exception of Ibn Majah, collected this Hadith.
+
+Abu Dawud recorded that Malik bin 'Aws said,"While I was at home, the sun rose high and it got hot. Suddenly the messenger of 'Umar bin Al-Khattab came to me and I went along with him and entered the place where 'Umar was sitting on a bedstead made of date-palm leaves and without a mattress. He said when I went in, 'O Malik! Some of your people's families came to me due to their famine, and I have ordered that relief aid should be given to them, so take it and distribute it among them.' I said, 'I wish that you ordered someone else to do it.' He said, 'Take it.' Then Yarfa (the servant of 'Umar) came saying, 'O Commander of the faithful! May I admit 'Uthman bin 'Affan, 'Abdur-Rahman bin 'Awf, Az-Zubayr bin Al-'Awwam and Sa'd bin Abi Waqqas?' 'Umar said, 'Yes,' and they came in. After a while Yarfa came again and said, 'O Commander of the faithful! May I admit Al-'Abbas and 'Ali?' 'Umar said, 'Yes.' So, they were admitted and Al-'Abbas said, 'O Chief of the believers! Judge between me and this one (i.e., 'Ali).' The group (being 'Uthman and his companions) said, 'O Chief of the believers! Judge between them and relieve both of them from each other.' I (Malik bin Aws) thought that they asked the four men to come in before them for this purpose. 'Umar said, 'Be patient!' He then asked the group ('Uthman and his companions), 'I ask you by Allah by Whose permission the heaven and the earth exist, do you know that Allah's Messenger ﷺ said,
+
+لَا نُورَثُ، مَا تَرَكْنَا صَدَقَةٌ
+
+(Our (the Prophet's) property will not be inherited. Whatever we leave, is charity)?' The group said, 'He said so.' 'Umar then turned to 'Ali and Al-'Abbas and said, 'I beseech you by Allah by Whose permission the heaven and the earth exist, do you know both that Allah's Messenger ﷺ said,
+
+لَا نُورَثُ، مَا تَرَكْنَا صَدَقَةٌ
+
+(Our (the Prophets') property will not be inherited. Whatever we leave, is charity)' They replied, 'He said so.' 'Umar then said, 'Allah bestowed on His Messenger ﷺ a special favor unlike what he gave all other people. Allah the Exalted said,
+
+وَمَا أَفَاءَ اللَّهُ عَلَىٰ رَسُولِهِ مِنْهُمْ فَمَا أَوْجَفْتُمْ عَلَيْهِ مِنْ خَيْلٍ وَلَا رِكَابٍ وَلَٰكِنَّ اللَّهَ يُسَلِّطُ رُسُلَهُ عَلَىٰ مَنْ يَشَاءُ ۚ وَاللَّهُ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ
+
+(And what Allah gave as booty (Fai') to His Messenger from them – for this you made no expedition with either cavalry or camelry. But Allah gives power to His Messengers over whomsoever He wills. And Allah is Able to do all things.)
+
+Therefore, this property, the booty collected from Bani An-Nadir, was especially given to Allah's Messenger ﷺ. However, by Allah, neither did he take possession of it and leave you, nor did he favor himself with it to your exclusion. Allah's Messenger ﷺ took the yearly expenses from it for himself and his family and left the rest in the Muslim Treasury.' He then asked the group, 'I ask you by Allah with Whose permission the heavens and earth exist, do you know this?' They replied, 'Yes.' 'Umar then said to 'Ali and Al-'Abbas, 'I ask you by Allah, with Whose permission that heavens and earth exist, do you know this?' They said, 'Yes.' 'Umar added, 'When Allah took His Prophet ﷺ unto Him, Abu Bakr said: I am the successor of Allah's Messenger ﷺ! Then you both came to Abu Bakr asking for your (Al-'Abbas') share of inheritance from your nephew, and he ('Ali) asked for his wife's share from her father's inheritance. Abu Bakr said: Allah's Messenger ﷺ said,
+
+لَا نُورَثُ، مَا تَرَكْنَا صَدَقَةٌ
+
+(Our (the Prophets') property will not be inherited. Whatever we leave, is charity.)" Allah knows that Abu Bakr was true, pious, rightly guided and a follower of what was right. So, Abu Bakr assumed the responsibility of that property. When Abu Bakr died, I said: I am the successor of Allah's Messenger ﷺ and the successor of Abu Bakr. So I managed it as long as Allah allowed me to manage it. Then you both ('Ali and Al-'Abbas) came to talk to me, bearing the same claim and presenting the same case, asking for that property. I said to you: I am ready to hand over this property to you if you wish. I will do so on the condition that you will take a pledge before Allah's that you will manage it in the same way as Allah's Messenger ﷺ used to. So, both of you agreed and on that condition I handed it over to you. Now you come to me to render a different judgement over the property than the one I made before. By Allah, I will never give any decision other than what I have already given, until the Last Hour begins. If you are unable to manage it, then return it to me, and I will do the job on your behalf.," They recorded this from the Hadith of Az-Zuhri. Allah said,
+
+كَيْ لَا يَكُونَ دُولَةً بَيْنَ الْأَغْنِيَاءِ مِنْكُمْ
+
+(in order that it may not become a fortune used by the rich among you.) means, 'We made the expenditures for the Fai' like this, so that the wealth does not remain among the wealthy, who would spend it as they wish and desire and give none of it to the poor.'
+
+Ordering Obedience of the Messenger (ﷺ) in All Commands and Prohibitions
+
+Allah the Exalted said,
+
+وَمَا آتَاكُمُ الرَّسُولُ فَخُذُوهُ وَمَا نَهَاكُمْ عَنْهُ فَانْتَهُوا ۚ
+
+(And whatsoever the Messenger gives you, take it; and whatsoever he forbids you, abstain (from it).) meaning, 'whatever the Messenger commands you, then do it and whatever he forbids you, then avoid it. Surely, He only commands righteousness and forbids evil.'
+
+Imam Ahmad recorded that 'Abdullah bin Mas'ud said, "Allah curses women who practice tattooing and those who get themselves tattooed, and the women who remove the hair from their eyebrows and faces and those who make artificial spaces between their teeth in order to look more beautiful, whereby changing Allah's creation." His statement reached a woman from Bani Asad called, Umm Ya'qub, who came to 'Abdullah and said, "I have come to know that you have cursed such and such?" He replied, "Why should I not curse those whom Allah's Messenger ﷺ has cursed and who are cursed in Allah's Book!" Umm Ya'qub said, "I have read the whole Qur'an, but did not find in it what you say." He said, "Verily, if you have read the Qur'an, you have found it. Didn't you read,
+
+وَمَا آتَاكُمُ الرَّسُولُ فَخُذُوهُ وَمَا نَهَاكُمْ عَنْهُ فَانْتَهُوا ۚ
+
+(And whatsoever the Messenger gives you take it and whatsoever he forbids you, you abstain (from it).)?" She replied, "Yes, I did." He said, "Verily, Allah's Messenger ﷺ forbade such things." "She said, "But I think that your wife does these things?" He said, "Go and look at her." She went and watched her, but could not see anything in support of her claim. She went back to 'Abdullah bin Mas'ud and said that she did not notice anything on his wife. On that he said, "If my wife was as you thought, I would not keep her with me." The Two Sahihs recorded this from the Hadith of Sufyan Ath-Thawri. As well as a Hadith of Abu Hurayrah, who said that the Messenger of Allah ﷺ said,
+
+إِذَا أَمَرْتُكُمْ بِأَمْرٍ فَائْتُوا مِنْهُ مَا اسْتَطَعْتُمْ، وَمَا نَهَيْتُكُمْ عَنْهُ فَاجْتَنِبُوهُ
+
+(When I order you to do something, then do as much as you can of it. If I forbid something for you, then shun it.) Allah's statement,
+
+وَاتَّقُوا اللَّهَ ۖ إِنَّ اللَّهَ شَدِيدُ الْعِقَابِ
+
+(Have Taqwa of Allah; verily, Allah is Severe in punishment.) means, fear Allah by obeying His orders and refraining from His prohibitions. Surely, Allah is severe in punishment for those who defy Him and reject and disobey His commands as well as, those who commit what He forbids and prohibits.
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله تعالى :  مَا أَفَاءَ اللَّهُ عَلَى رَسُولِهِ مِنْ أَهْلِ الْقُرَى فَلِلَّهِ وَلِلرَّسُولِ وَلِذِي الْقُرْبَى وَالْيَتَامَى وَالْمَسَاكِينِ وَابْنِ السَّبِيلِ كَيْ لا يَكُونَ دُولَةً بَيْنَ الأَغْنِيَاءِ مِنْكُمْ وَمَا آتَاكُمُ الرَّسُولُ فَخُذُوهُ وَمَا نَهَاكُمْ عَنْهُ فَانْتَهُوا وَاتَّقُوا اللَّهَ إِنَّ اللَّهَ شَدِيدُ الْعِقَابِ (7)يعني بقوله جلّ ثناؤه: (‎مَا أَفَاءَ اللَّهُ عَلَى رَسُولِهِ مِنْ أَهْلِ الْقُرَى) الذي ردّ الله عزّ وجلّ على رسوله من أموال مشركي القرى.واخ...
+القول في تأويل قوله تعالى: ﴿مَا أَفَاءَ اللَّهُ عَلَى رَسُولِهِ مِنْ أَهْلِ الْقُرَى فَلِلَّهِ وَلِلرَّسُولِ وَلِذِي الْقُرْبَى وَالْيَتَامَى وَالْمَسَاكِينِ وَابْنِ السَّبِيلِ كَيْ لا يَكُونَ دُولَةً بَيْنَ الأغْنِيَاءِ مِنْكُمْ وَمَا آتَاكُمُ الرَّسُولُ فَخُذُوهُ وَمَا نَهَاكُمْ عَنْهُ فَانْتَهُوا وَاتَّقُوا اللَّهَ إِنَّ اللَّهَ شَدِيدُ الْعِقَابِ (٧) ﴾
+
+يعني بقوله جلّ ثناؤه: ﴿مَا أَفَاءَ اللَّهُ عَلَى رَسُولِهِ مِنْ أَهْلِ الْقُرَى﴾ الذي ردّ الله عزّ وجلّ على رسوله من أموال مشركي القرى.
+
+واختلف أهل العلم في الذي عنى بهذه الآية من الألوان، فقال بعضهم: عني بذلك الجزية والخراج.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن أيوب، عن عكرمة بن خالد، عن مالك بن أوس بن الحدثان، قال: قرأ عمر بن الخطاب رضي الله عنه: ﴿إِنَّمَا الصَّدَقَاتُ لِلْفُقَرَاءِ وَالْمَسَاكِينِ﴾ حتى بلغ ﴿عَلِيمٌ حَكِيمٌ﴾ ثم قال: هذه لهؤلاء، ثم قال: ﴿وَاعْلَمُوا أَنَّمَا غَنِمْتُمْ مِنْ شَيْءٍ فَأَنَّ لِلَّهِ خُمُسَهُ وَلِلرَّسُولِ وَلِذِي الْقُرْبَى﴾ ... الآية، ثم قال: هذه الآية لهؤلاء، ثم قرأ: ﴿مَا أَفَاءَ اللَّهُ عَلَى رَسُولِهِ مِنْ أَهْلِ الْقُرَى﴾ حتى بلغ ﴿لِلْفُقَرَاءِ وَالَّذِينَ تَبَوَّءُوا الدَّارَ وَالَّذِينَ جَاءُوا مِنْ بَعْدِهِمْ﴾ ، ثم قال: استوعبت هذه الآية المسلمين عامة، فليس أحد إلا له حق، ثم قال: لئن عشت ليأتين الراعي وهو يسير حُمُرَه نصيبهُ، لم يعرق فيها جبينه.
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، قال: ثنا معمر في قوله: ﴿مَا أَفَاءَ اللَّهُ عَلَى رَسُولِهِ مِنْ أَهْلِ الْقُرَى﴾ حتى [[لعل لفظ "حتى" زائد من النساخ.]] بلغني أنها الجزية، والخراج: خَراج أهل القرى.
+
+وقال آخرون: عنى بذلك الغنيمة التي يصيبها المسلمون من عدوّهم من أهل الحرب بالقتال عنوة.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا ابن حُميد، قال: ثنا سلمة، عن ابن إسحاق، عن يزيد بن رومان ﴿مَا أَفَاءَ اللَّهُ عَلَى رَسُولِهِ مِنْ أَهْلِ الْقُرَى فَلِلَّهِ وَلِلرَّسُولِ﴾ ما يوجف عليه المسلمون بالخيل والركاب، وفتح بالحرب عنوة، ﴿فَلِلَّهِ وَلِلرَّسُولِ وَلِذِي الْقُرْبَى وَالْيَتَامَى وَالْمَسَاكِينِ وَابْنِ السَّبِيلِ كَيْ لا يَكُونَ دُولَةً بَيْنَ الأغْنِيَاءِ مِنْكُمْ وَمَا آتَاكُمُ الرَّسُولُ فَخُذُوهُ وَمَا نَهَاكُمْ عَنْهُ﴾ قال: هذا قسم آخر فيما أصيب بالحرب بين المسلمين على ما وضعه الله عليه.
+
+وقال آخرون: عنى بذلك الغنيمة التي أوجف عليها المسلمون بالخيل والركاب، وأخذت بالغلبة، وقالوا كانت الغنائم في بدوّ الإسلام لهؤلاء الذين سماهم الله في هذه الآيات دون المرجفين عليها، ثم نسخ ذلك بالآية التي في سورة الأنفال.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا محمد بن بشار، قال: ثنا عبد الأعلى، قال: ثنا سعيد، عن قتادة، في قوله: ﴿مَا أَفَاءَ اللَّهُ عَلَى رَسُولِهِ مِنْ أَهْلِ الْقُرَى فَلِلَّهِ وَلِلرَّسُولِ وَلِذِي الْقُرْبَى وَالْيَتَامَى وَالْمَسَاكِينِ وَابْنِ السَّبِيلِ﴾ قال: كان الفيء في هؤلاء، ثم نسخ ذلك في سورة الأنفال، فقال: ﴿وَاعْلَمُوا أَنَّمَا غَنِمْتُمْ مِنْ شَيْءٍ فَأَنَّ لِلَّهِ خُمُسَهُ وَلِلرَّسُولِ وَلِذِي الْقُرْبَى وَالْيَتَامَى وَالْمَسَاكِينِ وَابْنِ السَّبِيلِ﴾ فنسخت هذه ما كان قبلها في سورة الأنفال، وجعل الخمس لمن كان له الفيء في سورة الحشر، وكانت الغنيمة تقسم خمسة أخماس، فأربعة أخماس لمن قاتل عليها، ويقسم الخمس الباقي على خمسة أخماس، فخمس لله وللرسول، وخمس لقرابة رسول الله ﷺ في حياته، وخمس لليتامى، وخمس للمساكين، وخمس لابن السبيل؛ فلما قضى رسول الله ﷺ وجه أَبو بكر وعمر رضي الله عنهما هذين السهمين: سهم رسول الله ﷺ، وسهم قرابته، فحملا عليه في سبيل الله صدقة عن رسول الله ﷺ.
+
+وقال آخرون: عنى بذلك: ما صالح عليه أهل الحرب المسلمين من أموالهم، وقالوا: قوله: ﴿مَا أَفَاءَ اللَّهُ عَلَى رَسُولِهِ مِنْ أَهْلِ الْقُرَى فَلِلَّهِ وَلِلرَّسُولِ﴾ ... الآيات، بيان قسم المال الذي ذكره الله في الآية التي قبل هذه الآية، وذلك قوله: ﴿مَا أَفَاءَ اللَّهُ عَلَى رَسُولِهِ مِنْهُمْ فَمَا أَوْجَفْتُمْ عَلَيْهِ مِنْ خَيْلٍ وَلا رِكَابٍ﴾ وهذا قول كان يقوله بعض المتفقهة من المتأخرين.
+
+والصواب من القول في ذلك عندي أن هذه الآية حكمها غير حكم الآية التي قبلها، وذلك أن الآية التي قبلها مال جعله الله عزّ وجلّ لرسوله ﷺ خاصة دون غيره، لم يجعل فيه لأحد نصيبًا، وبذلك جاء الأثر عن عمر بن الخطاب رضي الله عنه.
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن الزهري، عن مالك بن أوس بن الحدثان، قال: أرسل إليّ عمر بن الخطاب رضي الله عنه، فدخلت عليه، فقال: إنه قد حضر أهل أبيات من قومك وإنا قد أمرنا لهم برضخ، فاقسمه بينهم، فقلت: يا أمير المؤمنين مر بذلك غيري، قال: اقبضه أيها المرء فبينا أنا كذلك، إذ جاء يرفأ مولاه، فقال: عبد الرحمن بن عوف، والزبير، وعثمان، وسعد يستأذنون، فقال: ائذن لهم؛ ثم مكث ساعة، ثم جاء فقال: هذا عليّ والعباس يستأذنان، فقال: ائذن لهما؛ فلما دخل العباس قال: يا أمير المؤمنين اقض بيني وبين هذا الغادر الخائن الفاجر، وهما جاءا يختصمان فيما أفاء الله على رسوله من أعمال بني النضير، فقال القوم: اقض بينهما يا أمير المؤمنين، وأرح كلّ واحد منهما من صاحبه، فقد طالت خصومتهما، فقال: أنشدكم الله الذي بإذنه تقوم السموات والأرض، أتعلمون أن رسول الله ﷺ قال: "لا نُورَثُ ما تَرَكْنَاهْ صَدَقَةٌ" قالوا: قد قال ذلك؛ ثم قال لهما: أتعلمان أن رسول الله ﷺ قال ذلك؟ قالا نعم؛ قال: فسأخبركم بهذا الفيء، إن الله خصّ نبيه ﷺ بشيء لم يعطه غيره، فقال: ﴿مَا أَفَاءَ اللَّهُ عَلَى رَسُولِهِ مِنْهُمْ فَمَا أَوْجَفْتُمْ عَلَيْهِ مِنْ خَيْلٍ وَلا رِكَابٍ﴾ فكانت هذه لرسول الله ﷺ خاصة، فوالله ما احتازها دونكم، ولا استأثر بها دونكم، ولقد قسمها عليكم حتى بقي منها هذا المال، فكان رسول الله ﷺ ينفق على أهله منه سنتهم، ثم يجعل ما بقي في مال الله، فإذَا كانت هذه الآية التي قبلها مضت، وذكر المال الذي خصّ الله به رسوله ﷺ، ولم يجعل لأحد معه شيئًا، وكانت هذه الآية خبرًا عن المال الذي جعله الله لأصناف شتى، كان معلومًا بذلك أن المال الذي جعله لأصناف من خلقه غير المال الذي جعله للنبيّ ﷺ خاصة، ولم يجعل له شريكًا.
+
+* *
+
+وقوله: ﴿وَلِذِي الْقُرْبَى﴾
+
+يقول: ولذي قرابة رسول الله ﷺ من بني هاشم وبني المطلب واليتامى، وهم أهل الحاجة من أطفال المسلمين الذين لا مال لهم؛ والمساكين: وهم الجامعون فاقة وذلّ المسألة؛ وابن السبيل: وهم المنقطع بهم من المسافرين في غير معصية الله عزّ وجلّ.
+
+وقد ذكرنا الرواية التي جاءت عن أهل التأويل بتأويل ذلك فيما مضى من كتابنا.
+
+* *
+
+وقوله: ﴿كَيْ لا يَكُونَ دُولَةً بَيْنَ الأغْنِيَاءِ مِنْكُمْ﴾
+
+يقول جلّ ثناؤه. وجعلنا ما أفاء على رسوله من أهل القرى لهذه الأصناف، كيلا يكون ذلك الفيء دُولة يتداوله الأغنياء منكم بينهم، يصرفه هذا مرّة في حاجات نفسه، وهذا مرّة في أبواب البرّ وسُبلُ الخير، فيجعلون ذلك حيث شاءوا، ولكننا سننا فيه سنة لا تُغير ولا تُبدّل.
+
+واختلفت القرّاء في قراءة ذلك، فقرأته عامة قرّاء الأمصار سِوى أَبي جعفر القارئ ﴿كَيْلا يَكُونَ﴾ ﴿دُولَةً﴾ نصبًا على ما وصفت من المعنى، وأن يكون ذكر الفيء.
+
+* *
+
+وقوله: ﴿دُولَةً﴾
+
+نصب خبر يكون، وقرأ ذلك أَبو جعفر القارئ ﴿كَيْلا تَكُونَ دُولَةٌ﴾ على رفع الدولة مرفوعة بتكون، والخبر قوله: ﴿بَيْنَ الأغْنِيَاءِ مِنْكُمْ﴾ ، وبضمّ الدال من ﴿دُولَةً﴾ قرأ جميع قرّاء الأمصار، غير أنه حُكي عن أَبي عبد الرحمن الفتح فيها.
+
+وقد اختلف أهل المعرفة بكلام العرب في معنى ذلك، إذا ضمت الدال أو فُتحت، فقال بعض الكوفيين: معنى ذلك: إذا فتحت الدولة وتكون للجيش يهزم هذا هذا، ثم يهزم الهازم، فيقال: قد رجعت الدولة على هؤلاء؛ قال: والدولة برفع الدال في الملك والسنين التي تغير وتبدّل على الدهر، فتلك الدولة والدول. وقال بعضهم: فرق ما بين الضمّ والفتح أن الدولة: هي اسم الشيء الذي يتداول بعينه، والدولة الفعل.
+
+والقراءة التي لا أستجيز غيرها في ذلك: ﴿كَيْلا يَكُونَ﴾ بالياء ﴿دُولَةً﴾ ، بضم الدال ونصب الدولة على المعنى الذي ذكرت في ذلك لإجماع الحجة عليه، والفرق بين الدُّولة والدَّولة بضم الدال وفتحها ما ذكرت عن الكوفيّ في ذلك.
+
+* *
+
+وقوله: ﴿وَمَا آتَاكُمُ الرَّسُولُ فَخُذُوهُ﴾
+
+يقول تعالى ذكره: وما أعطاكم رسول الله ﷺ مما أفاء عليه من أهل القرى فخذوه ﴿وَمَا نَهَاكُمْ عَنْهُ﴾ ، من الغلول وغيره من الأمور ﴿فَانْتَهُوا﴾ . وكان بعض أهل العلم يقول نحو قولنا في ذلك، غير أنه كان يوجه معنى قوله: ﴿وَمَا آتَاكُمُ الرَّسُولُ فَخُذُوهُ﴾ إلى ما آتاكم من الغنائم.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا ابن بشار، قال: ثنا ابن عديّ، عن عوف، عن الحسن، في قوله: ﴿وَمَا آتَاكُمُ الرَّسُولُ فَخُذُوهُ وَمَا نَهَاكُمْ عَنْهُ فَانْتَهُوا﴾ قال: يؤتيهم الغنائم ويمنعهم الغلول.
+
+* *
+
+وقوله: ﴿وَاتَّقُوا اللَّهَ﴾
+
+يقول: وخافوا الله، واحذروا عقابه في خلافكم على رسوله بالتقدّم على ما نهاكم عنه، ومعصيتكم إياه ﴿إِنَّ اللَّهَ شَدِيدُ الْعِقَابِ﴾ ، يقول: إن الله شديد عقابه لمن عاقبه من أهل معصيته لرسوله ﷺ.
 
 ### al-Muyassar (Arabic)
 
-ما أفاءه الله على رسوله من أموال مشركي أهل القرى من غير ركوب خيل ولا إبل فلله ولرسوله، يُصْرف في مصالح المسلمين العامة، ولذي قرابة رسول الله صلى الله عليه وسلم، واليتامى، وهم الأطفال الفقراء الذين مات آباؤهم، والمساكين، وهم أهل الحاجة والفقر، وابن السبيل، وهو الغريب المسافر الذي نَفِدت نفقته وانقطع عنه ماله؛ وذلك حتى لا يكون المال ملكًا متداولا بين الأغنياء وحدهم، ويحرم منه الفقراء والمساكين. وما أعطاكم الرسول من مال، أو شرعه لكم مِن شرع، فخذوه، وما نهاكم عن أَخْذه أو فِعْله فانتهوا عنه، واتق...
+الَّذي أفاءه الله على رسوله من أموال مشركي أهل القرى من غير ركوب خيل ولا إبل فلله ولرسوله، يُصْرف في مصالح المسلمين العامة، ولذي قرابة رسول الله ﷺ، وهم بنو هاشم وبنو المطَّلِب، واليتامى وهم الأطفال الفقراء الذين مات آباؤهم وهم دون سن البلوغ، والمساكين وهم أهل الحاجة الذين لا يملكون ما يكفيهم ويسدُّ حاجتهم، وابن السبيل، وهو الغريب المسافر الذي نفِدَت نفقته وانقطع عنه ماله؛ وذلك حتى لا يكون المال ملكًا متداولًا بين الأغنياء وحدهم، ويُحْرَم منه الفقراء والمساكين. وما أعطاكم الرسول من مال، أو شرعه لكم مِن شرع، فخذوه، وما نهاكم عن أَخْذه أو فِعْله فانتهوا عنه، واتقوا الله بامتثال أوامره وترك نواهيه. إن الله شديد العقاب لمن عصاه وخالف أمره ونهيه. والآية أصل في وجوب العمل بالسنة: قولًا أو فعلًا أو تقريرًا.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿ما أفاءَ اللَّه عَلى رَسُوله مِن أهْل القُرى﴾ كالصَّفْراءِ ووادِي القُرى ويَنْبُع ﴿فَلِلَّهِ﴾ يَأْمُر فِيهِ بِما يَشاء ﴿ولِذِي﴾ صاحِب ﴿القُرْبى﴾ قَرابَة النَّبِيّ مِن بَنِي هاشِم وبَنِي المُطَّلِب ﴿واليَتامى﴾ أطْفال المُسْلِمِينَ الَّذِينَ هَلَكَتْ آباؤُهُمْ وهُمْ فُقَراء ﴿والمَساكِين﴾ ذَوِي الحاجَة مِن المُسْلِمِينَ ﴿وابْن السَّبِيل﴾ المُنْقَطِع فِي سَفَره مِن المُسْلِمِينَ أيْ يَسْتَحِقّهُ النَّبِيّ ﷺ والأَصْناف الأَرْبَعَة. عَلى ما كانَ يَقْسِمهُ مِن أنَّ لِكُلٍّ مِن الأَرْبَعَة خُمُس الخُمُس ولَهُ الباقِي ﴿كَيْ لا﴾ كَيْ بِمَعْنى اللّام وأَنْ مُقَدَّرَة بَعْدها ﴿يَكُون﴾ الفَيْء عِلَّة لِقَسْمِهِ كَذَلِكَ ﴿دُولَة﴾ مُتَداوَلًا ﴿بَيْن الأَغْنِياء مِنكُمْ وما آتاكُمْ الرَّسُول﴾ أعْطاكُمْ مِن الفَيْء وغَيْره
 
 ---
 
@@ -187,16 +1884,345 @@ Allah the Exalted explains the regulations for Fai', the booty that the Muslims 
 
 ### Ibn Kathir (English)
 
+بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
+
+In the Name of Allah, the Most Gracious, the Most Merciful.
+
+لَا أُقْسِمُ بِهَٰذَا الْبَلَدِ - وَأَنتَ حِلٌّ بِهَٰذَا الْبَلَدِ - وَوَالِدٍ وَمَا وَلَدَ - لَقَدْ خَلَقْنَا الْإِنسَانَ فِي كَبَدٍ - أَيَحْسَبُ أَن لَّن يَقْدِرَ عَلَيْهِ أَحَدٌ - يَقُولُ أَهْلَكْتُ مَالًا لُّبَدًا - أَيَحْسَبُ أَن لَّمْ يَرَهُ أَحَدٌ - أَلَمْ نَجْعَل لَّهُ عَيْنَيْنِ - وَلِسَانًا وَشَفَتَيْنِ - وَهَدَيْنَاهُ النَّجْدَيْنِ
+
+(1. Nay! I swear by this city;)(2. And you are free in this city.)(3. And by the begetter and that which he begot.)(4. Verily, We have created man in Kabad.)(5. Does he think that none can overcome him?)(6. He says: "I have wasted wealth in abundance!")(7. Does he think that none sees him?)(8. Have We not made for him two eyes?)(9. And a tongue and two lips?)(10. And shown him the two ways?)
+
+Swearing by the Sanctity of Makkah and Other Things that Man was created in Hardship
+
+Here Allah has sworn by Makkah, the Mother of the Towns, addressing its resident (during the non-sacred months,) free in this city in order to draw his attention to the significance of its sanctity when its people are in the state of sanctity. Khusayf reported from Mujahid;
+
+لَا أُقْسِمُ بِهَٰذَا الْبَلَدِ
+
+(Nay! I swear by this city;) "The word "La" (Nay) refers to the refutation against them (Quraish). I swear by this city." Shabib bin Bishr narrated from 'Ikrimah, from Ibn 'Abbas that he said,
+
+لَا أُقْسِمُ بِهَٰذَا الْبَلَدِ
+
+(Nay! I swear by this city;) "This means Makkah." Concerning the Ayah:
+
+وَأَنتَ حِلٌّ بِهَٰذَا الْبَلَدِ
+
+(And you are free in this city.) he (Ibn 'Abbas) said, "O Muhammad! It is permissable for you to fight in it."
+
+Similar was reported from Sa'id bin Jubayr, Abu Salih, 'Atiyah, Ad-Dahhak, Qatadah, As-Suddi and Ibn Zayd. Al-Hasan Al-Basri said, "Allah made it lawful (to fight in) for him (the Prophet ﷺ) for one hour of a day." The meaning of what they have said was mentioned in a Hadith that is agreed-upon as being authentic. In it the Prophet ﷺ said,
+
+إِنَّ هَذَا الْبَلَدَ حَرَّمَهُ اللهُ يَوْمَ خَلَقَ السَّمٰوَاتِ وَالْأَرْضَ، فَهُوَ حَرَامٌ بِحُرْمَةِ اللهِ إِلَى يَوْم الْقِيَامَةِ لَا يُعْضَدُ شَجَرُهُ وَلَا يُخْتَلَى خَلَاهُ، وَإِنَّمَا أُحِلَّتْ لِي سَاعَةٌ مِنْ نَهَارٍ، وَقَدْ عَادَتْ حُرْمَتُهَا الْيَوْمَ كَحُرْمَتِهَا بِالْأَمْسِ، أَلَا فَلْيُبَلِّغِ الشَّاهِدُ الْغَائِبَ
+
+(Verily, Allah made this city sacred on the Day that He created the heavens and the earth. Therefore, it is sacred by the sanctity of Allah until the Day of Judgement. Its trees should not be uprooted, and its bushes and grasses should not be removed. And it was only made lawful for me (to fight in) for one hour of a day. Today its sanctity has been restored just as it was sacred yesterday. So, let the one who is present inform those who are absent.)
+
+In another wording of this Hadith, he said,
+
+فَإِنْ أَحَدٌ تَرَخَّصَ بِقِتَالِ رَسُولِ اللهِ فَقُولُوا: إِنَّ اللهَ أَذِنَ لِرَسُولِهِ وَلَمْ يَأْذَنْ لَكُم
+
+(So, if anyone tries to use the fighting of the Messenger (to conquer Makkah) as an excuse (to fight there), then tell him that Allah permitted it for His Messenger and He has not permitted it for you.)
+
+Concerning Allah's statement,
+
+وَوَالِدٍ وَمَا وَلَدَ
+
+(And by the begetter and that which he begot.) Mujahid, Abu Salih, Qatadah, Ad-Dahhak, Sufyan Ath-Thawri, Sa'id bin Jubayr, As-Suddi, Al-Hasan Al-Basri, Khusayf, Shurahbil bin Sa'd and others have said, "Meaning, by the begetter, Adam, and that which he begot is his children." This view that Mujahid and his companions have chosen is good and strong.
+
+This is supported by the fact that Allah swears by the Mother of the Towns, which are dwellings. Then after it He swears by the dwellers therein, who is Adam, the father of mankind, and his children. Abu 'Imran Al-Jawni said, "It refers to Ibrahim and his progeny." Ibn Jarir recorded this statement as did Ibn Abi Hatim. Ibn Jarir preferred the view that it is general and it refers to every father and his children. This meaning is also acceptable.
+
+Allah then says,
+
+لَقَدْ خَلَقْنَا الْإِنسَانَ فِي كَبَدٍ
+
+(Verily, We have created man in Kabad.) Ibn Abi Najih and Jurayj reported from 'Ata, from Ibn 'Abbas concerning the phrase 'in Kabad', "He was created while in hardship. Don't you see him?" Then he mentioned his birth and the sprouting of his teeth. Mujahid said,
+
+فِي كَبَدٍ
+
+(in Kabad.) "A drop of sperm, then a clot, then a lump of flesh, enduring in his creation." Mujahid then said, "This is similar to Allah's statement,
+
+حَمَلَتْهُ أُمُّهُ كُرْهًا وَوَضَعَتْهُ كُرْهًا
+
+(His mother bears him with hardship. And she brings him forth with hardship.)(46:15)
+
+and she breast-feeds him with hardship, and his livelihood is a hardship. So he endures all of this." Sa'id bin Jubayr said,
+
+لَقَدْ خَلَقْنَا الْإِنسَانَ فِي كَبَدٍ
+
+(Verily, We have created man in Kabad.) "In hardship and seeking livelihood." 'Ikrimah said, "In hardship and long-suffering."
+
+Qatadah said, "In difficulty." It is reported from Al-Hasan that he said, "Enduring the hardships of the world by life and the severity of the Hereafter."
+
+Man is encompassed by Allah and His Bounties
+
+Allah says,
+
+أَيَحْسَبُ أَن لَّن يَقْدِرَ عَلَيْهِ أَحَدٌ
+
+(Does he think that none can overcome him?)
+
+Al-Hasan Al-Basri said,
+
+أَيَحْسَبُ أَن لَّن يَقْدِرَ عَلَيْهِ أَحَدٌ
+
+(Does he think that none can overcome him?) "Meaning no one is able to take his wealth."
+
+Qatadah said,
+
+أَيَحْسَبُ أَن لَّن يَقْدِرَ عَلَيْهِ أَحَدٌ
+
+(Does he think that none can overcome him?) "The Son of Adam thinks that he will not be asked about this wealth of his – how he earned and how he spent it." Allah said:
+
+يَقُولُ أَهْلَكْتُ مَالًا لُّبَدًا
+
+(He says: "I have wasted wealth in abundance!")
+
+This means, the Son of Adam says, "I spent an abundance of wealth." Mujahid, Al-Hasan, Qatadah, As-Suddi and others have said this.
+
+أَيَحْسَبُ أَن لَّمْ يَرَهُ أَحَدٌ
+
+(Does he think that none sees him?) Mujahid said, "Does he think that Allah, the Mighty and Majestic, does not see him." Others among the Salaf have said similar to this.
+
+Allah said:
+
+أَلَمْ نَجْعَل لَّهُ عَيْنَيْنِ
+
+(Have We not made for him two eyes?) meaning, for him to see with them.
+
+وَلِسَانًا
+
+(And a tongue) meaning, for him to speak with, and so that he can express that which is inside of him.
+
+وَشَفَتَيْنِ
+
+(and two lips?) In order to help him with speaking, eating food, and beautifying his face and his mouth.
+
+The Ability to distinguish between Good and Evil is also a Blessing
+
+وَهَدَيْنَاهُ النَّجْدَيْنِ
+
+(And shown him the two ways?) This refers to the two paths. Sufyan Ath-Thawri narrated from 'Asim, from Zirr, from 'Abdullah bin Mas'ud that he said,
+
+وَهَدَيْنَاهُ النَّجْدَيْنِ
+
+(And shown him the two ways?) "The good and the evil." Similar to this has been reported from 'Ali, Ibn 'Abbas, Mujahid, 'Ikrimah, Abu Wa'il, Abu Salih, Muhammad bin Ka'b, Ad-Dahhak, and 'Ata' Al-Khurasani among others. Similar to this Ayah is Allah's statement,
+
+إِنَّا خَلَقْنَا الْإِنسَانَ مِن نُّطْفَةٍ أَمْشَاجٍ نَّبْتَلِيهِ فَجَعَلْنَاهُ سَمِيعًا بَصِيرًا - إِنَّا هَدَيْنَاهُ السَّبِيلَ إِمَّا شَاكِرًا وَإِمَّا كَفُورًا
+
+(Verily, We have created man from Nutfah Amshaj, in order to try him: so We made him hearer and seer. Verily, We showed him the way, whether he be grateful or ungrateful.)(76:2-3)
+
+فَلَا اقْتَحَمَ الْعَقَبَةَ - وَمَا أَدْرَاكَ مَا الْعَقَبَةُ - فَكُّ رَقَبَةٍ - أَوْ إِطْعَامٌ فِي يَوْمٍ ذِي مَسْغَبَةٍ - يَتِيمًا ذَا مَقْرَبَةٍ - أَوْ مِسْكِينًا ذَا مَتْرَبَةٍ - ثُمَّ كَانَ مِنَ الَّذِينَ آمَنُوا وَتَوَاصَوْا بِالصَّبْرِ وَتَوَاصَوْا بِالْمَرْحَمَةِ - أُولَٰئِكَ أَصْحَابُ الْمَيْمَنَةِ - وَالَّذِينَ كَفَرُوا بِآيَاتِنَا هُمْ أَصْحَابُ الْمَشْأَمَةِ - عَلَيْهِمْ نَارٌ مُّؤْصَدَةٌ
+
+(11. But he has not attempted to pass on the path that is steep.)(12. And what will make you know the path that is steep?)(13. Freeing a neck)(14. Or giving food in a day full of Masghabah,)(15. To an orphan near of kin.)(16. Or to a Miskin cleaving to dust.)(17. Then he became one of those who believed and recommended one another to patience, and recommended one another to compassion.)(18. They are those on the Right,)(19. But those who disbelieved in Our Ayat, they are those on the Left.)(20. Upon them Fire will Mu'sadah.)
+
 The Encouragement to traverse upon the Path of Goodness
+
 Ibn Zayd said,
-فَلاَ اقتَحَمَ الْعَقَبَةَ
-(But he has not attempted to pass on the path that is steep.) "This means, will he not traverse upon the path which contains salvation and good Then He explains this path by his saying,
-وَمَآ أَدْرَاكَ مَا الْعَقَبَةُ - فَكُّ رَقَبَةٍ أَوْ إِطْعَامٌ
-(And what will make you know the path that is steep Freeing a neck, or giving food.)" Imam Ahmad recorded from Sa`id bin Marjanah that he heard Abu H...
+
+فَلَا اقْتَحَمَ الْعَقَبَةَ
+
+(But he has not attempted to pass on the path that is steep.)
+
+"This means, will he not traverse upon the path which contains salvation and good? Then He explains this path by his saying,
+
+وَمَا أَدْرَاكَ مَا الْعَقَبَةُ - فَكُّ رَقَبَةٍ - أَوْ إِطْعَامٌ
+
+(And what will make you know the path that is steep? Freeing a neck, or giving food.)" Imam Ahmad recorded from Sa'id bin Marjanah that he heard Abu Hurayrah saying that the Messenger of Allah ﷺ said,
+
+مَنْ أَعْتَقَ رَقَبَةً مُؤمِنَةً أَعْتَقَ اللهُ بِكُلِّ إِرْبٍ - أَيْ عُضْوٍ - مِنْهَا إِرْبًا مِنْهُ مِنَ النَّارِ حَتّٰى إِنَّهُ لَيُعْتِقُ بِالْيَدِ الْيَدَ، وَبِالرِّجْلِ الرِّجْلَ، وَبِالْفَرْجِ الْفَرْجَ
+
+(Whoever frees a believing slave, Allah will free for every limb (of the slave) one of his limbs from the Fire. This is to such an extent that He (Allah) will free a hand for a hand, a leg for a leg, and a private part for a private part.)
+
+Ali bin Al-Husayn then said (to Sa'id), "Did you hear this from Abu Hurayrah?" Sa'id replied, "Yes." Then 'Ali bin Al-Husayn said to a slave boy that he owned who was the swiftest of his servants, "Call Mutarrif!" So when the slave was brought before him he said, "Go, for you are free for the Face of Allah." Al-Bukhari, Muslim, At-Tirmidhi, An-Nasa'i, all recorded this Hadith from Sa'id bin Marjanah.
+
+Imam Ahmad recorded from 'Amr bin 'Abasah that the Prophet ﷺ said,
+
+مَنْ بَنَى مَسْجِدًا لِيُذْكَرَ اللهُ فِيهِ بَنَى اللهُ لَهُ بَيْتًا فِي الْجَنَّةِ وَمَنْ أَعْتَقَ نَفْسًا مُسْلِمَةً كَانَتْ فِدْيَتَهُ مِنْ جَهَنَّمَ وَمَنْ شَابَ شَيْبَةً فِي الْإِسْلَامِ كَانَتْ لَهُ نُورًا يَوْمَ الْقِيَامَةِ
+
+(Whoever builds a Masjid so that Allah may be remembered in it, Allah will build a house for him in Paradise; and whoever frees a Muslim person, then it will be his ransom from Hell; and whoever grows grey in Islam, then it will be a light for him on the Day of Judgement.)
+
+According to another route of transmission, Ahmad recorded from Abu Umamah, who reported from 'Amr bin 'Abasah that As-Sulami said to him, "Narrate a Hadith to us that you heard from the Messenger of Allah ﷺ, without any deficiency or mistakes." He ('Amr) said, "I heard him saying,
+
+مَنْ وُلِدَ لَهُ ثَلَاثَةُ أَوْلَادٍ فِي الْإِسْلَامِ فَمَاتُوا قَبْلَ أَنْ يَبْلُغُوا الْحِنْثَ أَدْخَلَهُ اللهُ الْجَنَّةَ بِفَضْلِ رَحْمَتِهِ إِيَّاهُمْ، وَمَنْ شَابَ شَيْبَةً فِي سَبِيلِ اللهِ كَانَتْ لَهُ نُورًا يَوْمَ الْقِيَامَةِ، وَمَنْ رَمَى بِسهم فِي سَبِيلِ اللهِ بَلَغَ بِهِ الْعَدُوَّ أَصَابَ أَوْ أَخْطَأَ كَانَ لَهُ عِتْقُ رَقَبَةٍ، وَمَنْ أَعْتَقَ رَقَبَةً مُؤْمِنَـةً أَعْتَقَ اللهُ بِكُلِّ عُضْوٍ مِنْهُ عُضْوًا مِنْهُ مِنَ النَّارِ، وَمَنْ أَنْفَقَ زَوْجَيْنِ فِي سَبِيلِ اللهِ فَإِنَّ لِلْجَنَّةِ ثَمَانِيَةَ أَبْوَابٍ يُدْخِلُهُ اللهُ مِنْ أَيِّ بَابٍ شَاءَ مِنْهَا
+
+(Whoever has three children born to him in Islam, and they die before reaching the age of puberty, Allah will enter him into Paradise by virtue of His mercy to them. And whoever grows gray in the way of Allah (fighting Jihad), then it will be a light for him on the Day of Judgement. And whoever shoots an arrow in the way of Allah (fighting Jihad) that reaches the enemy, whether it hits or misses, he will get the reward of freeing a slave. And whoever frees a believing slave, then Allah will free each of his limbs from the Fire for every limb that the slave has. And whoever equipped two riding animals in the way of Allah (for fighting Jihad), then indeed Paradise has eight gates, and Allah will allow him to enter any of them he choses.)"
+
+Ahmad recorded this Hadith from different routes of transmission that are good and strong, and all praise is due to Allah.
+
+Al
+
+[TRUNCATED at 12000 chars — 4316 more. Consult the source directly before relying on anything near the cut.]
 
 ### al-Tabari (Arabic)
 
-حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة ( وَمَا أَدْرَاكَ مَا الْعَقَبَةُ ) ثم أخبر عن اقتحامها فقال: (فَكُّ رَقَبَةٍ * أَوْ إِطْعَامٌ).واختلفت القرّاء في قراءة ذلك، فقرأه بعض قرّاء مكة وعامة قرّاء البصرة، عن ابن أبي إسحاق، ومن الكوفيين: الكسائي ( فَكُّ رَقَبَةٍ أوْ أطْعَمَ ) وكان أبو عمرو بن العلاء يحتجّ فيما بلغني فيه بقوله: ثُمَّ كَانَ مِنَ الَّذِينَ آمَنُوا كأن معناه: كان عنده، فلا فكّ رقبة ولا أطعم، ثم كان من الذين آمنوا. وقرأ ذلك عامة قرّاء المدينة والكوفة والشام ( فَك...
+القول في تأويل قوله تعالى: ﴿أَلَمْ نَجْعَلْ لَهُ عَيْنَيْنِ (٨) وَلِسَانًا وَشَفَتَيْنِ (٩) وَهَدَيْنَاهُ النَّجْدَيْنِ (١٠) فَلا اقْتَحَمَ الْعَقَبَةَ (١١) وَمَا أَدْرَاكَ مَا الْعَقَبَةُ (١٢) فَكُّ رَقَبَةٍ (١٣) أَوْ إِطْعَامٌ فِي يَوْمٍ ذِي مَسْغَبَةٍ (١٤) يَتِيمًا ذَا مَقْرَبَةٍ (١٥) أَوْ مِسْكِينًا ذَا مَتْرَبَةٍ (١٦) ﴾
+
+.
+
+يقول تعالى ذكره: ألم نجعل لهذا القائل ﴿أَهْلَكْتُ مَالا لُبَدًا﴾ عينين يبصر بهما حجج الله عليه، ولسانا يعبر به عن نفسه ما أراد، وشفتين، نعمة منا بذلك عليه.
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: ﴿أَلَمْ نَجْعَلْ لَهُ عَيْنَيْنِ وَلِسَانًا وَشَفَتَيْنِ﴾ نِعَم من الله متظاهرة، يقررك بها كيما تشكره.
+
+* *
+
+وقوله: ﴿وَهَدَيْنَاهُ النَّجْدَيْنِ﴾
+
+يقول تعالى ذكره: وهديناه الطريقين، ونجد: طريق في ارتفاع.
+
+واختلف أهل التأويل في معنى ذلك، فقال بعضهم: عُنِي بذلك: نَجْد الخير، ونَجْد الشرّ، كما قال: ﴿إِنَّا هَدَيْنَاهُ السَّبِيلَ إِمَّا شَاكِرًا وَإِمَّا كَفُورًا﴾ .
+
+ذكر من قال ذلك:
+
+⁕ حدثنا أبو كُرَيب، قال: ثنا وكيع، عن سفيان، عن عاصم، عن زرّ، عن عبد الله ﴿وَهَدَيْنَاهُ النَّجْدَيْنِ﴾ قال: الخير والشرّ.
+
+⁕ حدثنا ابن حميد، قال: ثنا مهران، عن سفيان، عن عاصم، عن زرّ، عن عبد الله، مثله.
+
+⁕ حدثنا أبو كُرَيب، قال: ثنا وكيع، عن سفيان، عن ابن منذر، عن أبيه، عن الربيع بن خثيم، قال: ليسا بالثديين.
+
+⁕ حدثنا ابن بشار، قال: ثنا عبد الرحمن، قال: ثنا سفيان؛ وحدثنا ابن حميد، قال: ثنا حكام، قال: ثنا عمران، جميعا عن عاصم، عن زرّ، عن عبد الله ﴿وَهَدَيْنَاهُ النَّجْدَيْنِ﴾ قال: نجد الخير، ونجد الشرّ.
+
+⁕ حدثنا ابن المثنى، قال: ثنا هشام بن عبد الملك، قال: ثنا شعبة، قال: أخبرني عاصم، قال: سمعت أبا وائل يقول: كان عبد الله يقول في: (وَهَدَيْنَاهُ النَّجْدَيْنِ) قال: نجد الخير، ونجد الشرّ.
+
+⁕ حدثني عليّ، قال: ثنا أبو صالح، قال: ثني معاوية، عن عليّ، عن ابن عباس، قوله: ﴿وَهَدَيْنَاهُ النَّجْدَيْنِ﴾ يقول: الهدي والضلالة.
+
+⁕ حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس ﴿وَهَدَيْنَاهُ النَّجْدَيْنِ﴾ يقول: سبيل الخير والشرّ.
+
+⁕ حدثنا هناد بن السريّ، قال: ثنا أبو الأحوص، عن سماك، عن عكرِمة، في قوله: ﴿وَهَدَيْنَاهُ النَّجْدَيْنِ﴾ قال: الخير والشرّ.
+
+⁕ حدثنا ابن بشار، قال: ثنا عبد الرحمن، قال: ثنا سفيان، عن عبد الله بن الربيع بن خثيم، عن أبي بُردة، قال: مرّ بنا الربيع بن خثيم، فسألناه عن هذه الآية: ﴿وَهَدَيْنَاهُ النَّجْدَيْنِ﴾ فقال: أما إنهما ليسا بالثديين.
+
+⁕ حدثنا أبو كُرَيب، قال: ثنا وكيع، عن سفيان، عن منصور، عن مجاهد، قال: الخير والشرّ.
+
+⁕ حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى؛ وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء، جميعا عن ابن أبي نجيح، عن مجاهد، قوله: ﴿وَهَدَيْنَاهُ النَّجْدَيْنِ﴾ قال: سبيل الخير والشرّ.
+
+⁕ حُدثت عن الحسين، قال: سمعت أبا معاذ يقول: ثنا عبيد، قال: سمعت الضحاك يقول في قوله: ﴿وَهَدَيْنَاهُ النَّجْدَيْنِ﴾ نجد الخير، ونجد الشرّ.
+
+⁕ حدثنا عمران بن موسى، قال: ثنا عبد الوارث، قال: ثنا يونس، عن الحسن، قال: قال رسول الله ﷺ: " هُمَا نَجْدَانِ: نَجْدُ خَيْرٍ، وَنَجْدُ شَرّ، فَمَا جَعَلَ نَجْدَ الشَّرّ أحَبَّ إلَيْكُمْ مِنْ نَجْدِ الخَيْرِ".
+
+⁕ حدثنا مجاهد بن موسى، قال: ثنا يزيد بن هارون، قال: أخبرنا عطية أبو وهب، قال: سمعت الحسن يقول: قال رسول الله ﷺ: " ألا إنَّمَا هُمَا نَجْدَانِ: نَجْدُ الخَيْرِ، وَنَجْدُ الشَّرّ، فَمَا يَجَعَلُ نَجْدَ الشَّرِّ أحَبَّ إلَيْكُمْ مِنْ نَجْدِ الخَيْرِ".
+
+⁕ حدثنا ابن المثنى، قال: ثنا هشام بن عبد الملك، قال: ثنا شعبة، عن حبيب، عن الحسن، عن النبيّ ﷺ، نحوه.
+
+⁕ حدثني يعقوب، قال: ثنا ابن عُلَية، عن أبي رجاء، قال: سمعت الحسن يقول ﴿وَهَدَيْنَاهُ النَّجْدَيْنِ﴾ قال: ذُكر لنا أن نبيّ الله ﷺ كان يقول: " يا أيُّها النَّاسُ إنَّمَا هُمَا النَجْدَانِ: نَجْدُ الخَيْرِ، وَنَجْدُ الشَّرّ، فَمَا جَعَلَ نَجْدَ الشَّرّ أحَبَّ إلَيْكُمْ مِنْ نَجْدِ الخَيْرِ".
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة ﴿وَهَدَيْنَاهُ النَّجْدَيْنِ﴾ : ذُكر لنا أن نبيّ الله ﷺ كان يقول: "أيُّها النَّاسُ إنَّمَا هُمَا النَجْدَانِ: نَجْدُ الخَيْرِ، وَنَجْدُ الشَّرّ، فَمَا جَعَلَ نَجْدَ الشَّرّ أحَبَّ إلَيْكُمْ مِنْ نَجْدِ الخَيْرِ".
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن الحسن، في قوله: ﴿وَهَدَيْنَاهُ النَّجْدَيْنِ﴾ قال: قال النبيّ ﷺ: إنَّمَا هُمَا نَجْدَانِ، فَمَا جَعَلَ نَجْدَ الشَّرّ أحَبَّ إلَيْكُمْ مِنْ نَجْدِ الخَيْرِ".
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قول الله: ﴿وَهَدَيْنَاهُ النَّجْدَيْنِ﴾ قاطع طريق الخير والشرّ. وقرأ قول الله: ﴿إِنَّا هَدَيْنَاهُ السَّبِيلَ﴾ .
+
+وقال آخرون: بل معنى ذلك: وهديناه الثَّديين: سبيلي اللبن الذي يتغذّى به، وينبت عليه لحمه وجسمه.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا أبو كُرَيب، قال: ثنا وكيع، قال: ثنا عيسى بن عقال، عن أبيه، عن ابن عباس ﴿وَهَدَيْنَاهُ النَّجْدَيْنِ﴾ قال: هما الثديان.
+
+⁕ حدثنا ابن حميد، قال: ثنا مهران، عن المبارك بن مجاهد، عن جُويبر، عن الضحاك، قال: الثديان.
+
+وأولى القولين بالصواب في ذلك عندنا: قول من قال: عُنِي بذلك طريق الخير والشرّ، وذلك أنه لا قول في ذلك نعلمه غير القولين اللذين ذكرنا، والثديان وإن كانا سبيلي اللبن، فإن الله تعالى ذكْره إذ عدّد على العبد نِعَمه بقوله: ﴿إِنَّا خَلَقْنَا الإنْسَانَ مِنْ نُطْفَةٍ أَمْشَاجٍ نَبْتَلِيهِ فَجَعَلْنَاهُ سَمِيعًا بَصِيرًا إِنَّا هَدَيْنَاهُ السَّبِيلَ﴾ إنما عدّد عليه هدايته إياه إلى سبيل الخير من نعمه، فكذلك قوله: ﴿وَهَدَيْنَاهُ النَّجْدَيْنِ﴾ .
+
+* *
+
+وقوله: ﴿فَلا اقْتَحَمَ الْعَقَبَةَ﴾
+
+يقول تعالى ذكره: فلم يركب العقبة فيقطعها ويحوزها.
+
+وذُكر أن العقبة: جبل في جهنم.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا محمد بن المثنى، قال: ثنا يحيى بن كثير، قال: ثنا شعبة، عن أبي رجاء، عن الحسن، في قول الله: ﴿فَلا اقْتَحَمَ الْعَقَبَةَ﴾ قال: عَقَبةٌ في جهنم.
+
+⁕ حدثني عمر بن إسماعيل بن مجالد، قال: ثنا عبد الله بن إدريس، عن أبيه، عن عطية، عن ابن عمر، في قوله: ﴿فَلا اقْتَحَمَ الْعَقَبَةَ﴾ جبل من جهنم.
+
+⁕ حدثني يعقوب، قال: ثنا ابن عُلَيَّة، عن أبي رجاء، عن الحسن، في قوله: ﴿فَلا اقْتَحَمَ الْعَقَبَةَ﴾ قال: جهنم.
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: ﴿فَلا اقْتَحَمَ الْعَقَبَةَ﴾ إنها قحمة شديدة، فاقتحموها بطاعة الله.
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة ﴿فَلا اقْتَحَمَ الْعَقَبَةَ﴾ قال: للنار عقبة دون الجسر.
+
+⁕ حدثنا ابن بشار، قال: ثنا وهب بن جرير، قال: ثنا أبي، قال: سمعت يحيى بن أيوب يحدّث عن يزيد بن أبى حبيب، عن شعيب بن زُرْعة، عن حنش، عن كعب، أنه قال: ﴿فَلا اقْتَحَمَ الْعَقَبَةَ﴾ قال: هو سبعون درجة في جهنم.
+
+وأفرد قوله: ﴿فَلا اقْتَحَمَ الْعَقَبَةَ﴾ بذكر " لا " مرّة واحدة، والعرب لا تكاد تفردها في كلام في مثل هذا الموضع، حتى يكرّرها مع كلام آخر، كما قال: ﴿فَلا صَدَّقَ وَلا صَلَّى﴾ ﴿وَلا خَوْفٌ عَلَيْهِمْ وَلا هُمْ يَحْزَنُونَ﴾ وإنما فعل ذلك كذلك في هذا الموضع، استغناء بدلالة آخر الكلام على معناه، من إعادتها مرّة أخرى، وذلك قوله إذ فسَّر اقتحام العقبة، فقال: ﴿فَكُّ رَقَبَةٍ أَوْ إِطْعَامٌ فِي يَوْمٍ ذِي مَسْغَبَةٍ يَتِيمًا ذَا مَقْرَبَةٍ أَوْ مِسْكِينًا ذَا مَتْرَبَةٍ ثُمَّ كَانَ مِنَ الَّذِينَ آمَنُوا﴾ ، ففسر ذلك بأشياء ثلاثة، فكان كأنه في أوّل الكلام، قال: فلا فَعَل ذا وَلا ذا ولا ذا. وتأوّل ذلك ابن زيد، بمعنى: أفلا ومن تأوّله كذلك، لم يكن به حاجة إلى أن يزعم أن في الكلام متروكا. * ذكر الخبر بذلك عن ابن زيد:
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، وقرأ قول الله: ﴿فَلا اقْتَحَمَ الْعَقَبَةَ﴾ قال: أفلا سلك الطريق التي منها النجاة والخير، ثم قال: ﴿وَمَا أَدْرَاكَ مَا الْعَقَبَةُ﴾ .
+
+* *
+
+وقوله: ﴿وَمَا أَدْرَاكَ مَا الْعَقَبَةُ﴾
+
+يقول تعالى ذكره: وأيّ شيء أشعرك يا محمد ما العقبة.
+
+ثم بين جلّ ثناؤه له، ما العقبة، وما النجاة منها، وما وجه اقتحامها؟ فقال: اقتحامها وقطعها فكّ رقبة من الرقّ، وأسر العبودة.
+
+كما:-
+
+⁕ حدثني يعقوب، قال: ثنا ابن عُليَّة، عن أبي رجاء، عن الحسن ﴿وَمَا أَدْرَاكَ مَا الْعَقَبَةُ فَكُّ رَقَبَةٍ﴾ قال: ذُكر لنا أنه ليس مسلم يعتق رقبة مسلمة، إلا كانت فداءه من النار.
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: ﴿وَمَا أَدْرَاكَ مَا الْعَقَبَةُ فَكُّ رَقَبَةٍ﴾ ذكر لنا أن نبيّ الله ﷺ سُئل عن الرقاب أيها أعظم أجرا؟ قال: " أكثرها ثمنا ".
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قال: ثنا سالم بن أبي الجعد، عن مَعْدانِ بن أبي طلحة، عن أبي نجيح، قال: سمعت رسول الله ﷺ يقول: " أيُّمَا مُسْلِمٍ أَعْتَقَ رَجُلا مُسْلِمًا، فإنَّ اللهَ جَاعِلٌ وَفَاءَ كُلِّ عَظْمٍ مِنْ عِظَامِهِ، عَظْما مِنْ عِظامِ مُحَرّرِهِ مِنْ النَّار؛ وأيُّمَا امْرأةٍ مُسْلِمَةٍ أعْتَقَتِ امْرَأةً مُسْلِمَةً، فإنَّ اللهَ جَاعِلٌ وَفَاءَ كُلِّ عَظْمٍ مِنَ عِظَامِهَا، عَظْما مِنَ عِظامِ مُحَرّرِها مِنَ النَّار ".
+
+⁕ قال: ثنا سعيد، عن قتادة، عن قيس الجذاميّ، عن عقبة بن عامر الجهنيّ، أن رسول الله ﷺ قال: " مَنْ أعْتَقَ رَقَبَةً مُؤْمِنَةً، فَهِيَ فِدَاؤُهُ مِنَ النَّارِ ".
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة ﴿وَمَا أَدْرَاكَ مَا الْعَقَبَةُ﴾ ثم أخبر عن اقتحامها فقال: ﴿فَكُّ رَقَبَةٍ أَوْ إِطْعَامٌ﴾ .
+
+واختلفت القرّاء في قراءة ذلك، فقرأه بعض قرّاء مكة وعامة قرّاء البصرة، عن ابن أبي إسحاق، ومن الكوفيين: الكسائي ﴿فَكُّ رَقَبَةٍ أوْ أطْعَمَ﴾ وكان أبو عمرو بن العلاء يحتجّ فيما بلغني فيه بقوله: ﴿ثُمَّ كَانَ مِنَ الَّذِينَ آمَنُوا﴾ كأن معناه: كان عنده، فلا فكّ رقبة ولا أطعم، ثم كان من الذين آمنوا. وقرأ ذلك عامة قرّاء المدينة والكوفة والشام ﴿فَكُّ رَقَبَةٍ﴾ على الإضافة ﴿أَوْ إِطْعَامٌ﴾ على وجه المصدر.
+
+والصواب من القول في ذلك: أنهما قراءتان معروفتان، قد قرأ بكل واحدة منهما علماء من القرّاء، وتأويل مفهوم، فبأيتهما قرأ القارئ فمصيب. فقراءته إذا قرئ على وجه الفعل تأويله: فلا اقتحم العقبة، لا فكّ رقبة، ولا أطعم، ثم كان من الذين آمنوا، ﴿وَمَا أَدْرَاكَ مَا الْعَقَبَةُ﴾ على التعجب والتعظيم وهذه القراءة أحسن مخرجا في العربية، لأن الإطعام اسم، وقوله: ﴿ثُمَّ كَانَ مِنَ الَّذِينَ آمَنُوا﴾ فعل، والعرب تُؤثِر ردّ الأسماء على الأسماء مثلها، والأفعال على الأفعال، ولو كان مجيء التَّنزيل ثم إن كان من الذين آمنوا، كان أحسن، وأشبه بالإطعام والفكّ من ثم كان، ولذلك قلت: ﴿فَكُّ رَقَبَةٍ أوْ أطْعَمَ﴾ أوجه في العربية من الآخر، وإن كان للآخر وجه معروف، ووجهه أنْ تضمر " أنْ " ثم تلقي، كما قال طرفة بن العبد:
+
+ألا أيُّهَا ذَا الزَّاجِرِي أحْضُرَ الْوَغَى ... وأنْ أشْهَدَ اللَّذَّاتِ هلْ أنتَ مُخْلِدي [[يأتي بتمامه وتخريجه برقم ١٧٩.]]
+
+بمعنى: ألا أيهاذا الزاجري أن أحضر الوغى. وفي قوله: " أن أشهد "الدلالة البينة على أنها معطوفة على أن أخرى مثلها، قد تقدّمت قبلها، فذلك وجه جوازه. وإذا وُجِّه الكلام إلى هذا الوجه كان قوله: ﴿فَكُّ رَقَبَةٍ أَوْ إِطْعَامٌ﴾ تفسيرًا لقوله: ﴿وَمَا أَدْرَاكَ مَا الْعَقَبَةُ﴾ كأنه قيل: وما أدراك ما العقبة؟ هي فكّ رقبة ﴿أَوْ إِطْعَامٌ فِي يَوْمٍ ذِي مَسْغَبَةٍ﴾ كما قال جلّ ثناؤه: ﴿وَمَا أَدْرَاكَ مَا هِيَهْ﴾ ، ثم قال: ﴿نَارٌ حَامِيَةٌ﴾ مفسرا لقوله: ﴿فَأُمُّهُ هَاوِيَةٌ﴾ ، ثم قال: وما أدراك ما الهاوية؟ هي نار حامية.
+
+* *
+
+وقوله: ﴿أَوْ أَطْعَمَ فِي يَوْمٍ ذِي مَسْغَبَةٍ﴾
+
+يقول: أو أطعم في يوم ذي مجاعة، والساغب: الجائع.
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس ﴿أو أطْعَمَ فِي يَوْمٍ ذِي مَسْغَبَةٍ﴾ يوم مجاعة.
+
+⁕ حدثنا الحسن بن عرفة، قال: ثني خالد بن حيان الرقي أبو يزيد، عن جعفر بن برقان، عن عكرِمة في قول الله ﴿أو أطْعَمَ فِي يَوْمٍ ذِي مَسْغَبَةٍ﴾ قال: ذي مجاعة.
+
+⁕ حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى؛ وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء، جميعا عن ابن أبي نجيح، عن مجاهد، في قوله: ﴿فِي يَوْمٍ ذِي مَسْغَبَةٍ﴾ قال: الجوع.
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله ﴿أو أطْعَمَ فِي يَوْمٍ ذِي مَسْغَبَةٍ﴾ يقول: يوم يُشْتَهَى فيه الطعام.
+
+⁕ حدثنا أبو كُرَيب، قال: ثنا وكيع، عن سفيان، عن عثمان الثقفي، عن مجاهد، عن ابن عباس ﴿فِي يَوْمٍ ذِي مَسْغَبَةٍ﴾ قال: مجاعة.
+
+⁕ حدثنا ابن حميد، قال: ثنا مهران، عن سفيان، عن عثمان بن المُغيرة، عن مجاهد، عن ابن عباس، مثله.
+
+⁕ حُدثت عن الحسين، قال: سمعت أبا معاذ يقول: ثنا عبيد، قال: سمعت الضحاك يقول: في قوله: ﴿فِي يَوْمٍ ذِي مَسْغَبَةٍ﴾ قال: مجاعة.
+
+* *
+
+وقوله: ﴿يَتِيمًا ذَا مَقْرَبَةٍ﴾
+
+يقول: أو أطعم في يوم مجاعة صغيرًا لا أب له من قرابته، وهو اليتيم ذو المقرَبة؛ وعُنِي بذي المقربة: ذا القرابة.
+
+كما:-
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد في قوله: ﴿يَتِيمًا ذَا مَقْرَبَةٍ﴾ قال: ذَا قرابة.
+
+* *
+
+وقوله: ﴿أَوْ مِسْكِينًا ذَا مَتْرَبَةٍ﴾
+
+اختلف أهل التأويل في تأويل قوله: ﴿ذَا مَتْرَبَةٍ﴾ فقال بعضهم: عُنِيَ بذلك: ذو اللصوق بالتراب.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا ابن المثنى، قال: ثنا ابن أبي عديّ، عن شعبة، قال: أخبرني المُغيرة، عن مجاهد، عن ابن عباس ﴿أَوْ مِسْكِينًا ذَا مَتْرَبَةٍ﴾ قال: الذي ليس له مأوى إلا التراب.
+
+⁕ حدثنا مطرِّف بن محمد الضبيّ، قال: ثنا أبو عاصم، قال: ثنا شعبة، عن المُغيرة، عن مجاهد، عن ابن عباس، مثله.
+
+⁕ حدثنا ابن المثنى، قال: ثنا ابن أبي عديّ، عن شعبة، عن حُصين، عن مجاهد، عن ابن عباس، في قول الله: ﴿أَوْ مِسْكِينًا ذَا مَتْرَبَةٍ﴾ قال: الذي لا يُواريه إلا التراب.
+
+⁕ حدثني زكريا بن يحيى بن أبي زائدة، قال: ثنا أبو عاصم، عن شعبة، عن المُغيرة، عن مجاهد، عن ابن عبا
+
+[TRUNCATED at 12000 chars — 3503 more. Consult the source directly before relying on anything near the cut.]
 
 ### al-Muyassar (Arabic)
 
@@ -204,6 +2230,6 @@ Ibn Zayd said,
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿فَكّ رَقَبَة﴾ مِن الرِّقّ بِأَنْ أعْتَقَها
 
 ---

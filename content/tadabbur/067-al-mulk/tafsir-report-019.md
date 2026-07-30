@@ -1,6 +1,6 @@
 # Tafsir Cross-Reference Report
 
-Generated: 2026-04-07
+Generated: 2026-07-30
 Ayahs referenced: 5
 Tafsir sources: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), al-Jalalayn (Arabic)
 
@@ -10,21 +10,97 @@ Tafsir sources: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), 
 
 ### Ibn Kathir (English)
 
-How can You feel Secure against the Punishment of Allah while He is Able to seize You however He wil
+Do you feel secure that He, Who is over the heaven, will not cause the earth to sink with you, and then it should quake (16)Or do you feel secure that He, Who is over the heaven, will not send against you a Hasib? Then you shall know how has been My warning (17)And indeed those before them rejected, then how terrible was My reproach (18)Do they not see the birds above them, spreading out their wings and folding them in? None upholds them except the Most Gracious. Verily, He is the All-Seer of everything (19)
+
+How can You feel Secure against the Punishment of Allah while He is Able to seize You however He wills?
+
 This is another indication of His gentleness and His mercy with His creatures. He is able to punish them because some of them disbelieve in Him and worship others besides Him, yet He is forbearing, He pardons, and He gives respite for an appointed time without hastening. This is as He says,
-وَلَوْ يُؤَاخِذُ اللَّهُ النَّاسَ بِمَا كَسَبُواْ مَا تَرَكَ عَلَى ظَهْرِهَا مِن دَآبَّةٍ وَلَـكِن يُؤَخ...
+
+وَلَوْ يُؤَاخِذُ اللَّهُ النَّاسَ بِمَا كَسَبُوا مَا تَرَكَ عَلَىٰ ظَهْرِهَا مِنْ دَابَّةٍ وَلَٰكِنْ يُؤَخِّرُهُمْ إِلَىٰ أَجَلٍ مُسَمًّى ۖ فَإِذَا جَاءَ أَجَلُهُمْ فَإِنَّ اللَّهَ كَانَ بِعِبَادِهِ بَصِيرًا
+
+(And if Allah were to punish men for that which they earned, He would not leave a moving creature on the surface of the earth; but He gives them respite to an appointed term: and when their term comes, then verily, Allah is Ever All-Seer of His servants.)[35:45] Here Allah says,
+
+أَأَمِنْتُمْ مَنْ فِي السَّمَاءِ أَنْ يَخْسِفَ بِكُمُ الْأَرْضَ فَإِذَا هِيَ تَمُورُ
+
+(Do you feel secure that He, Who is over the heaven, will not cause the earth to sink with you, and then it should quake?) meaning, that it would move back and forth, and be disrupted.
+
+أَمْ أَمِنْتُمْ مَنْ فِي السَّمَاءِ أَنْ يُرْسِلَ عَلَيْكُمْ حَاصِبًا ۖ
+
+(Or do you feel secure that He, Who is over the heaven, will not send against you a Hasib?) meaning, a wind containing gravel that will strike you, as Allah says in another Ayah,
+
+أَفَأَمِنْتُمْ أَنْ يَخْسِفَ بِكُمْ جَانِبَ الْبَرِّ أَوْ يُرْسِلَ عَلَيْكُمْ حَاصِبًا ثُمَّ لَا تَجِدُوا لَكُمْ وَكِيلًا
+
+(Do you then feel secure that He will not cause a side of the land to swallow you up, or that He will not send against you a violent sandstorm? Then, you shall find no trustee.)[17:68] And similarly, here Allah threatens them with His statement,
+
+فَسَتَعْلَمُونَ كَيْفَ نَذِيرِ
+
+(Then you shall know how has been My warning.) meaning, 'how is My admonition and what will happen to those who disregard and reject it.' Then Allah says,
+
+وَلَقَدْ كَذَّبَ الَّذِينَ مِنْ قَبْلِهِمْ
+
+(And indeed those before them rejected,) meaning, from the previous nations and the old generations that have passed. Then Allah says,
+
+فَكَيْفَ كَانَ نَكِيرِ
+
+(then how terrible was My reproach?) meaning, 'how was My rebuke of them and my punishment of them.' Meaning, it was great, severe and painful.
+
+The flight of Birds is by the Power of Allah and it is a Proof that He sees everything small and large
+
+Allah says,
+
+أَوَلَمْ يَرَوْا إِلَى الطَّيْرِ فَوْقَهُمْ صَافَّاتٍ وَيَقْبِضْنَ ۚ
+
+(Do they not see the birds above them, spreading out their wings and folding them in?) meaning, sometimes they spread their wings out in the wind (gliding) and other times they gather and spread (flapping) the wings in flight.
+
+مَا يُمْسِكُهُنَّ
+
+(None upholds them) meaning, in the air,
+
+إِلَّا الرَّحْمَٰنُ
+
+(except the Most Gracious.) meaning, Allah holds them up in the air by subjecting the air to them out of His mercy and His gentleness.
+
+إِنَّهُ بِكُلِّ شَيْءٍ بَصِيرٌ
+
+(Verily, He is the All-Seer of everything.) means, with what is beneficial and suitable for all of His creatures. This is similar to His statement,
+
+أَلَمْ يَرَوْا إِلَى الطَّيْرِ مُسَخَّرَاتٍ فِي جَوِّ السَّمَاءِ مَا يُمْسِكُهُنَّ إِلَّا اللَّهُ ۗ إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِقَوْمٍ يُؤْمِنُونَ
+
+(Do they not see the birds held in the midst of the sky? None upholds them but Allah. Verily, in this are clear Ayat for people who believe.)(16:79)
 
 ### al-Tabari (Arabic)
 
-وقوله: (هُوَ الَّذِي جَعَلَ لَكُمُ الأرْضَ ذَلُولا )يقول تعالى ذكره: الله الذي جعل لكم الأرض ذَلُولا سَهْلا سَهَّلها لكم (فَامْشُوا فِي مَنَاكِبِهَا ).اختلف أهل العلم في معنى (مَنَاكِبِهَا ) فقال بعضهم: مناكبها: جبالها.* ذكر من قال ذلك:حدثني عليّ، قال: ثنا أبو صالح، قال: ثني معاوية، عن عليّ، عن ابن عباس، قوله: (فِي مَنَاكِبِهَا ) يقول: جبالها.حدثنا ابن بشار، قال: ثنا عبد الأعلى، قال: ثنا سعيد، عن قتادة، عن بشير بن كعب أنه قرأ هذه الآية (فَامْشُوا فِي مَنَاكِبِهَا ) فقال لجارية له: إن دَريْت م...
+القول في تأويل قوله تعالى: ﴿أَأَمِنْتُمْ مَنْ فِي السَّمَاءِ أَنْ يَخْسِفَ بِكُمُ الأرْضَ فَإِذَا هِيَ تَمُورُ (١٦) أَمْ أَمِنْتُمْ مَنْ فِي السَّمَاءِ أَنْ يُرْسِلَ عَلَيْكُمْ حَاصِبًا فَسَتَعْلَمُونَ كَيْفَ نَذِيرِ (١٧) ﴾
+
+يقول تعالى ذكره: ﴿أَأَمِنْتُمْ مَنْ فِي السَّمَاءِ﴾ أيها الكافرون ﴿أَنْ يَخْسِفَ بِكُمُ الأرْضَ فَإِذَا هِيَ تَمُورُ﴾ يقول: فإذا الأرض تذهب بكم وتجيئ وتضطرب ﴿أَمْ أَمِنْتُمْ مَنْ فِي السَّمَاءِ﴾ وهو الله ﴿أَنْ يُرْسِلَ عَلَيْكُمْ حَاصِبًا﴾ وهو التراب فيه الحصباء الصغار ﴿فَسَتَعْلَمُونَ كَيْفَ نَذِيرِ﴾ يقول: فستعلمون أيها الكفرة كيف عاقبة نذيري لكم، إذ كذبتم به، ورددتموه على رسولي.
+
+* *
+
+القول في تأويل قوله تعالى: ﴿وَلَقَدْ كَذَّبَ الَّذِينَ مِنْ قَبْلِهِمْ فَكَيْفَ كَانَ نَكِيرِ (١٨) أَوَلَمْ يَرَوْا إِلَى الطَّيْرِ فَوْقَهُمْ صَافَّاتٍ وَيَقْبِضْنَ مَا يُمْسِكُهُنَّ إِلا الرَّحْمَنُ إِنَّهُ بِكُلِّ شَيْءٍ بَصِيرٌ (١٩) ﴾
+
+يقول تعالى ذكره: ولقد كذّب الذين من قبل هؤلاء المشركين من قريش من الأمم الخالية رسلهم. ﴿فَكَيْفَ كَانَ نَكِيرِ﴾ يقول: فكيف كان نكيري تكذيبهم إياهم ﴿أَوَلَمْ يَرَوْا إِلَى الطَّيْرِ فَوْقَهُمْ صَافَّاتٍ﴾ يقول: أو لم ير هؤلاء المشركون إلى الطير فوقهم صافات أجنحتهنّ ﴿وَيَقْبِضْنَ﴾ يقول: ويقبضن أجنحتهنّ أحيانا. وإنما عُنِي بذلك أنها تصُفُّ أجنحتها أحيانا، وتقبض أحيانا.
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا ابن عبد الأعلى، مقال: ثنا ابن ثور، عن معمر، عن قتادة، في قوله: ﴿صَافَّاتٍ﴾ قال: الطير يصفّ جناحه كما رأيت، ثم يقبضه.
+
+⁕ حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى؛ وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء، جميعا عن ابن أبي نجيح، عن مجاهد، قوله: ﴿صَافَّاتٍ وَيَقْبِضْنَ﴾ بسطهنّ أجنحتهنّ وقبضهنّ.
+
+* *
+
+وقوله: ﴿مَا يُمْسِكُهُنَّ إِلا الرَّحْمَنُ﴾
+
+يقول: ما يمسك الطير الصافات فوقكم إلا الرحمن. يقول: فلهم بذلك مذكر إن ذكروا، ومعتبر إن اعتبروا، يعلمون به أن ربهم واحد لا شريك له ﴿إِنَّهُ بِكُلِّ شَيْءٍ بَصِيرٌ﴾ يقول: إن الله بكل شيء ذو بصر وخبرة، لا يدخل تدبيره خلل، ولا يرى في خلقه تفاوت.
 
 ### al-Muyassar (Arabic)
 
-هل أمنتم- يا كفار "مكة"- الله الذي فوق السماء أن يخسف بكم الأرض، فإذا هي تضطرب بكم حتى تهلكوا؟ هل أمنتم الله الذي فوق السماء أن يرسل عليكم ريحا ترجمكم بالحجارة الصغيرة، فستعلمون- أيها الكافرون- كيف تحذيري لكم إذا عاينتم العذاب؟ ولا ينفعكم العلم حين ذلك. وفي الآية إثبات العلو لله تعالى، كما يليق بجلاله سبحانه.
+هل أمنتم -يا كفارَ «مكة»- اللهَ الذي فوق السماء أن يخسف بكم الأرض، فإذا هي تضطرب بكم حتى تهلكوا؟ هل أمنتم الله الذي فوق السماء أن يرسل عليكم ريحًا ترجمكم بالحجارة الصغيرة، فستعلمون -أيها الكافرون- كيف تحذيري لكم إذا عاينتم العذاب؟ ولا ينفعكم العلم حين ذلك. وفي الآية إثبات العلو لله تعالى، كما يليق بجلاله سبحانه.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿أأَمِنتُمْ﴾ بِتَحْقِيقِ الهَمْزَتَيْنِ وتَسْهِيل الثّانِيَة وإدْخال ألِف بَيْنهما وبَيْن الأُخْرى وتَرْكه وإبْدالها ألِفًا ﴿مِن فِي السَّماء﴾ سُلْطانه وقُدْرَته ﴿أنْ يَخْسِف﴾ بَدَل مِن مَن ﴿بِكُمْ الأَرْض فَإذا هِيَ تَمُور﴾ تَتَحَرَّك بِكُمْ وتَرْتَفِع فَوْقكُمْ
 
 ---
 
@@ -32,21 +108,97 @@ This is another indication of His gentleness and His mercy with His creatures. H
 
 ### Ibn Kathir (English)
 
-How can You feel Secure against the Punishment of Allah while He is Able to seize You however He wil
+Do you feel secure that He, Who is over the heaven, will not cause the earth to sink with you, and then it should quake (16)Or do you feel secure that He, Who is over the heaven, will not send against you a Hasib? Then you shall know how has been My warning (17)And indeed those before them rejected, then how terrible was My reproach (18)Do they not see the birds above them, spreading out their wings and folding them in? None upholds them except the Most Gracious. Verily, He is the All-Seer of everything (19)
+
+How can You feel Secure against the Punishment of Allah while He is Able to seize You however He wills?
+
 This is another indication of His gentleness and His mercy with His creatures. He is able to punish them because some of them disbelieve in Him and worship others besides Him, yet He is forbearing, He pardons, and He gives respite for an appointed time without hastening. This is as He says,
-وَلَوْ يُؤَاخِذُ اللَّهُ النَّاسَ بِمَا كَسَبُواْ مَا تَرَكَ عَلَى ظَهْرِهَا مِن دَآبَّةٍ وَلَـكِن يُؤَخ...
+
+وَلَوْ يُؤَاخِذُ اللَّهُ النَّاسَ بِمَا كَسَبُوا مَا تَرَكَ عَلَىٰ ظَهْرِهَا مِنْ دَابَّةٍ وَلَٰكِنْ يُؤَخِّرُهُمْ إِلَىٰ أَجَلٍ مُسَمًّى ۖ فَإِذَا جَاءَ أَجَلُهُمْ فَإِنَّ اللَّهَ كَانَ بِعِبَادِهِ بَصِيرًا
+
+(And if Allah were to punish men for that which they earned, He would not leave a moving creature on the surface of the earth; but He gives them respite to an appointed term: and when their term comes, then verily, Allah is Ever All-Seer of His servants.)[35:45] Here Allah says,
+
+أَأَمِنْتُمْ مَنْ فِي السَّمَاءِ أَنْ يَخْسِفَ بِكُمُ الْأَرْضَ فَإِذَا هِيَ تَمُورُ
+
+(Do you feel secure that He, Who is over the heaven, will not cause the earth to sink with you, and then it should quake?) meaning, that it would move back and forth, and be disrupted.
+
+أَمْ أَمِنْتُمْ مَنْ فِي السَّمَاءِ أَنْ يُرْسِلَ عَلَيْكُمْ حَاصِبًا ۖ
+
+(Or do you feel secure that He, Who is over the heaven, will not send against you a Hasib?) meaning, a wind containing gravel that will strike you, as Allah says in another Ayah,
+
+أَفَأَمِنْتُمْ أَنْ يَخْسِفَ بِكُمْ جَانِبَ الْبَرِّ أَوْ يُرْسِلَ عَلَيْكُمْ حَاصِبًا ثُمَّ لَا تَجِدُوا لَكُمْ وَكِيلًا
+
+(Do you then feel secure that He will not cause a side of the land to swallow you up, or that He will not send against you a violent sandstorm? Then, you shall find no trustee.)[17:68] And similarly, here Allah threatens them with His statement,
+
+فَسَتَعْلَمُونَ كَيْفَ نَذِيرِ
+
+(Then you shall know how has been My warning.) meaning, 'how is My admonition and what will happen to those who disregard and reject it.' Then Allah says,
+
+وَلَقَدْ كَذَّبَ الَّذِينَ مِنْ قَبْلِهِمْ
+
+(And indeed those before them rejected,) meaning, from the previous nations and the old generations that have passed. Then Allah says,
+
+فَكَيْفَ كَانَ نَكِيرِ
+
+(then how terrible was My reproach?) meaning, 'how was My rebuke of them and my punishment of them.' Meaning, it was great, severe and painful.
+
+The flight of Birds is by the Power of Allah and it is a Proof that He sees everything small and large
+
+Allah says,
+
+أَوَلَمْ يَرَوْا إِلَى الطَّيْرِ فَوْقَهُمْ صَافَّاتٍ وَيَقْبِضْنَ ۚ
+
+(Do they not see the birds above them, spreading out their wings and folding them in?) meaning, sometimes they spread their wings out in the wind (gliding) and other times they gather and spread (flapping) the wings in flight.
+
+مَا يُمْسِكُهُنَّ
+
+(None upholds them) meaning, in the air,
+
+إِلَّا الرَّحْمَٰنُ
+
+(except the Most Gracious.) meaning, Allah holds them up in the air by subjecting the air to them out of His mercy and His gentleness.
+
+إِنَّهُ بِكُلِّ شَيْءٍ بَصِيرٌ
+
+(Verily, He is the All-Seer of everything.) means, with what is beneficial and suitable for all of His creatures. This is similar to His statement,
+
+أَلَمْ يَرَوْا إِلَى الطَّيْرِ مُسَخَّرَاتٍ فِي جَوِّ السَّمَاءِ مَا يُمْسِكُهُنَّ إِلَّا اللَّهُ ۗ إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِقَوْمٍ يُؤْمِنُونَ
+
+(Do they not see the birds held in the midst of the sky? None upholds them but Allah. Verily, in this are clear Ayat for people who believe.)(16:79)
 
 ### al-Tabari (Arabic)
 
-يقول تعالى ذكره: (أَأَمِنْتُمْ مَنْ فِي السَّمَاءِ ) أيها الكافرون (أَنْ يَخْسِفَ بِكُمُ الأرْضَ فَإِذَا هِيَ تَمُورُ ) يقول: فإذا الأرض تذهب بكم وتجيء وتضطرب
+القول في تأويل قوله تعالى: ﴿أَأَمِنْتُمْ مَنْ فِي السَّمَاءِ أَنْ يَخْسِفَ بِكُمُ الأرْضَ فَإِذَا هِيَ تَمُورُ (١٦) أَمْ أَمِنْتُمْ مَنْ فِي السَّمَاءِ أَنْ يُرْسِلَ عَلَيْكُمْ حَاصِبًا فَسَتَعْلَمُونَ كَيْفَ نَذِيرِ (١٧) ﴾
+
+يقول تعالى ذكره: ﴿أَأَمِنْتُمْ مَنْ فِي السَّمَاءِ﴾ أيها الكافرون ﴿أَنْ يَخْسِفَ بِكُمُ الأرْضَ فَإِذَا هِيَ تَمُورُ﴾ يقول: فإذا الأرض تذهب بكم وتجيئ وتضطرب ﴿أَمْ أَمِنْتُمْ مَنْ فِي السَّمَاءِ﴾ وهو الله ﴿أَنْ يُرْسِلَ عَلَيْكُمْ حَاصِبًا﴾ وهو التراب فيه الحصباء الصغار ﴿فَسَتَعْلَمُونَ كَيْفَ نَذِيرِ﴾ يقول: فستعلمون أيها الكفرة كيف عاقبة نذيري لكم، إذ كذبتم به، ورددتموه على رسولي.
+
+* *
+
+القول في تأويل قوله تعالى: ﴿وَلَقَدْ كَذَّبَ الَّذِينَ مِنْ قَبْلِهِمْ فَكَيْفَ كَانَ نَكِيرِ (١٨) أَوَلَمْ يَرَوْا إِلَى الطَّيْرِ فَوْقَهُمْ صَافَّاتٍ وَيَقْبِضْنَ مَا يُمْسِكُهُنَّ إِلا الرَّحْمَنُ إِنَّهُ بِكُلِّ شَيْءٍ بَصِيرٌ (١٩) ﴾
+
+يقول تعالى ذكره: ولقد كذّب الذين من قبل هؤلاء المشركين من قريش من الأمم الخالية رسلهم. ﴿فَكَيْفَ كَانَ نَكِيرِ﴾ يقول: فكيف كان نكيري تكذيبهم إياهم ﴿أَوَلَمْ يَرَوْا إِلَى الطَّيْرِ فَوْقَهُمْ صَافَّاتٍ﴾ يقول: أو لم ير هؤلاء المشركون إلى الطير فوقهم صافات أجنحتهنّ ﴿وَيَقْبِضْنَ﴾ يقول: ويقبضن أجنحتهنّ أحيانا. وإنما عُنِي بذلك أنها تصُفُّ أجنحتها أحيانا، وتقبض أحيانا.
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا ابن عبد الأعلى، مقال: ثنا ابن ثور، عن معمر، عن قتادة، في قوله: ﴿صَافَّاتٍ﴾ قال: الطير يصفّ جناحه كما رأيت، ثم يقبضه.
+
+⁕ حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى؛ وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء، جميعا عن ابن أبي نجيح، عن مجاهد، قوله: ﴿صَافَّاتٍ وَيَقْبِضْنَ﴾ بسطهنّ أجنحتهنّ وقبضهنّ.
+
+* *
+
+وقوله: ﴿مَا يُمْسِكُهُنَّ إِلا الرَّحْمَنُ﴾
+
+يقول: ما يمسك الطير الصافات فوقكم إلا الرحمن. يقول: فلهم بذلك مذكر إن ذكروا، ومعتبر إن اعتبروا، يعلمون به أن ربهم واحد لا شريك له ﴿إِنَّهُ بِكُلِّ شَيْءٍ بَصِيرٌ﴾ يقول: إن الله بكل شيء ذو بصر وخبرة، لا يدخل تدبيره خلل، ولا يرى في خلقه تفاوت.
 
 ### al-Muyassar (Arabic)
 
-هل أمنتم- يا كفار "مكة"- الله الذي فوق السماء أن يخسف بكم الأرض، فإذا هي تضطرب بكم حتى تهلكوا؟ هل أمنتم الله الذي فوق السماء أن يرسل عليكم ريحا ترجمكم بالحجارة الصغيرة، فستعلمون- أيها الكافرون- كيف تحذيري لكم إذا عاينتم العذاب؟ ولا ينفعكم العلم حين ذلك. وفي الآية إثبات العلو لله تعالى، كما يليق بجلاله سبحانه.
+هل أمنتم -يا كفارَ «مكة»- اللهَ الذي فوق السماء أن يخسف بكم الأرض، فإذا هي تضطرب بكم حتى تهلكوا؟ هل أمنتم الله الذي فوق السماء أن يرسل عليكم ريحًا ترجمكم بالحجارة الصغيرة، فستعلمون -أيها الكافرون- كيف تحذيري لكم إذا عاينتم العذاب؟ ولا ينفعكم العلم حين ذلك. وفي الآية إثبات العلو لله تعالى، كما يليق بجلاله سبحانه.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿أمْ أمِنتُمْ مَن فِي السَّماء أنْ يُرْسِل﴾ بَدَل مِن مَن ﴿عَلَيْكُمْ حاصِبًا﴾ رِيحًا تَرْمِيكُمْ بِالحَصْباءِ ﴿فَسَتَعْلَمُونَ﴾ عِنْد مُعايَنَة العَذاب ﴿كَيْفَ نَذِير﴾ إنْذارِي بِالعَذابِ أيْ أنَّهُ حَقّ
 
 ---
 
@@ -54,21 +206,97 @@ This is another indication of His gentleness and His mercy with His creatures. H
 
 ### Ibn Kathir (English)
 
-How can You feel Secure against the Punishment of Allah while He is Able to seize You however He wil
+Do you feel secure that He, Who is over the heaven, will not cause the earth to sink with you, and then it should quake (16)Or do you feel secure that He, Who is over the heaven, will not send against you a Hasib? Then you shall know how has been My warning (17)And indeed those before them rejected, then how terrible was My reproach (18)Do they not see the birds above them, spreading out their wings and folding them in? None upholds them except the Most Gracious. Verily, He is the All-Seer of everything (19)
+
+How can You feel Secure against the Punishment of Allah while He is Able to seize You however He wills?
+
 This is another indication of His gentleness and His mercy with His creatures. He is able to punish them because some of them disbelieve in Him and worship others besides Him, yet He is forbearing, He pardons, and He gives respite for an appointed time without hastening. This is as He says,
-وَلَوْ يُؤَاخِذُ اللَّهُ النَّاسَ بِمَا كَسَبُواْ مَا تَرَكَ عَلَى ظَهْرِهَا مِن دَآبَّةٍ وَلَـكِن يُؤَخ...
+
+وَلَوْ يُؤَاخِذُ اللَّهُ النَّاسَ بِمَا كَسَبُوا مَا تَرَكَ عَلَىٰ ظَهْرِهَا مِنْ دَابَّةٍ وَلَٰكِنْ يُؤَخِّرُهُمْ إِلَىٰ أَجَلٍ مُسَمًّى ۖ فَإِذَا جَاءَ أَجَلُهُمْ فَإِنَّ اللَّهَ كَانَ بِعِبَادِهِ بَصِيرًا
+
+(And if Allah were to punish men for that which they earned, He would not leave a moving creature on the surface of the earth; but He gives them respite to an appointed term: and when their term comes, then verily, Allah is Ever All-Seer of His servants.)[35:45] Here Allah says,
+
+أَأَمِنْتُمْ مَنْ فِي السَّمَاءِ أَنْ يَخْسِفَ بِكُمُ الْأَرْضَ فَإِذَا هِيَ تَمُورُ
+
+(Do you feel secure that He, Who is over the heaven, will not cause the earth to sink with you, and then it should quake?) meaning, that it would move back and forth, and be disrupted.
+
+أَمْ أَمِنْتُمْ مَنْ فِي السَّمَاءِ أَنْ يُرْسِلَ عَلَيْكُمْ حَاصِبًا ۖ
+
+(Or do you feel secure that He, Who is over the heaven, will not send against you a Hasib?) meaning, a wind containing gravel that will strike you, as Allah says in another Ayah,
+
+أَفَأَمِنْتُمْ أَنْ يَخْسِفَ بِكُمْ جَانِبَ الْبَرِّ أَوْ يُرْسِلَ عَلَيْكُمْ حَاصِبًا ثُمَّ لَا تَجِدُوا لَكُمْ وَكِيلًا
+
+(Do you then feel secure that He will not cause a side of the land to swallow you up, or that He will not send against you a violent sandstorm? Then, you shall find no trustee.)[17:68] And similarly, here Allah threatens them with His statement,
+
+فَسَتَعْلَمُونَ كَيْفَ نَذِيرِ
+
+(Then you shall know how has been My warning.) meaning, 'how is My admonition and what will happen to those who disregard and reject it.' Then Allah says,
+
+وَلَقَدْ كَذَّبَ الَّذِينَ مِنْ قَبْلِهِمْ
+
+(And indeed those before them rejected,) meaning, from the previous nations and the old generations that have passed. Then Allah says,
+
+فَكَيْفَ كَانَ نَكِيرِ
+
+(then how terrible was My reproach?) meaning, 'how was My rebuke of them and my punishment of them.' Meaning, it was great, severe and painful.
+
+The flight of Birds is by the Power of Allah and it is a Proof that He sees everything small and large
+
+Allah says,
+
+أَوَلَمْ يَرَوْا إِلَى الطَّيْرِ فَوْقَهُمْ صَافَّاتٍ وَيَقْبِضْنَ ۚ
+
+(Do they not see the birds above them, spreading out their wings and folding them in?) meaning, sometimes they spread their wings out in the wind (gliding) and other times they gather and spread (flapping) the wings in flight.
+
+مَا يُمْسِكُهُنَّ
+
+(None upholds them) meaning, in the air,
+
+إِلَّا الرَّحْمَٰنُ
+
+(except the Most Gracious.) meaning, Allah holds them up in the air by subjecting the air to them out of His mercy and His gentleness.
+
+إِنَّهُ بِكُلِّ شَيْءٍ بَصِيرٌ
+
+(Verily, He is the All-Seer of everything.) means, with what is beneficial and suitable for all of His creatures. This is similar to His statement,
+
+أَلَمْ يَرَوْا إِلَى الطَّيْرِ مُسَخَّرَاتٍ فِي جَوِّ السَّمَاءِ مَا يُمْسِكُهُنَّ إِلَّا اللَّهُ ۗ إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِقَوْمٍ يُؤْمِنُونَ
+
+(Do they not see the birds held in the midst of the sky? None upholds them but Allah. Verily, in this are clear Ayat for people who believe.)(16:79)
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله تعالى :  وَلَقَدْ كَذَّبَ الَّذِينَ مِنْ قَبْلِهِمْ فَكَيْفَ كَانَ نَكِيرِ (18) أَوَلَمْ يَرَوْا إِلَى الطَّيْرِ فَوْقَهُمْ صَافَّاتٍ وَيَقْبِضْنَ مَا يُمْسِكُهُنَّ إِلا الرَّحْمَنُ إِنَّهُ بِكُلِّ شَيْءٍ بَصِيرٌ (19)
+القول في تأويل قوله تعالى: ﴿أَأَمِنْتُمْ مَنْ فِي السَّمَاءِ أَنْ يَخْسِفَ بِكُمُ الأرْضَ فَإِذَا هِيَ تَمُورُ (١٦) أَمْ أَمِنْتُمْ مَنْ فِي السَّمَاءِ أَنْ يُرْسِلَ عَلَيْكُمْ حَاصِبًا فَسَتَعْلَمُونَ كَيْفَ نَذِيرِ (١٧) ﴾
+
+يقول تعالى ذكره: ﴿أَأَمِنْتُمْ مَنْ فِي السَّمَاءِ﴾ أيها الكافرون ﴿أَنْ يَخْسِفَ بِكُمُ الأرْضَ فَإِذَا هِيَ تَمُورُ﴾ يقول: فإذا الأرض تذهب بكم وتجيئ وتضطرب ﴿أَمْ أَمِنْتُمْ مَنْ فِي السَّمَاءِ﴾ وهو الله ﴿أَنْ يُرْسِلَ عَلَيْكُمْ حَاصِبًا﴾ وهو التراب فيه الحصباء الصغار ﴿فَسَتَعْلَمُونَ كَيْفَ نَذِيرِ﴾ يقول: فستعلمون أيها الكفرة كيف عاقبة نذيري لكم، إذ كذبتم به، ورددتموه على رسولي.
+
+* *
+
+القول في تأويل قوله تعالى: ﴿وَلَقَدْ كَذَّبَ الَّذِينَ مِنْ قَبْلِهِمْ فَكَيْفَ كَانَ نَكِيرِ (١٨) أَوَلَمْ يَرَوْا إِلَى الطَّيْرِ فَوْقَهُمْ صَافَّاتٍ وَيَقْبِضْنَ مَا يُمْسِكُهُنَّ إِلا الرَّحْمَنُ إِنَّهُ بِكُلِّ شَيْءٍ بَصِيرٌ (١٩) ﴾
+
+يقول تعالى ذكره: ولقد كذّب الذين من قبل هؤلاء المشركين من قريش من الأمم الخالية رسلهم. ﴿فَكَيْفَ كَانَ نَكِيرِ﴾ يقول: فكيف كان نكيري تكذيبهم إياهم ﴿أَوَلَمْ يَرَوْا إِلَى الطَّيْرِ فَوْقَهُمْ صَافَّاتٍ﴾ يقول: أو لم ير هؤلاء المشركون إلى الطير فوقهم صافات أجنحتهنّ ﴿وَيَقْبِضْنَ﴾ يقول: ويقبضن أجنحتهنّ أحيانا. وإنما عُنِي بذلك أنها تصُفُّ أجنحتها أحيانا، وتقبض أحيانا.
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا ابن عبد الأعلى، مقال: ثنا ابن ثور، عن معمر، عن قتادة، في قوله: ﴿صَافَّاتٍ﴾ قال: الطير يصفّ جناحه كما رأيت، ثم يقبضه.
+
+⁕ حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى؛ وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء، جميعا عن ابن أبي نجيح، عن مجاهد، قوله: ﴿صَافَّاتٍ وَيَقْبِضْنَ﴾ بسطهنّ أجنحتهنّ وقبضهنّ.
+
+* *
+
+وقوله: ﴿مَا يُمْسِكُهُنَّ إِلا الرَّحْمَنُ﴾
+
+يقول: ما يمسك الطير الصافات فوقكم إلا الرحمن. يقول: فلهم بذلك مذكر إن ذكروا، ومعتبر إن اعتبروا، يعلمون به أن ربهم واحد لا شريك له ﴿إِنَّهُ بِكُلِّ شَيْءٍ بَصِيرٌ﴾ يقول: إن الله بكل شيء ذو بصر وخبرة، لا يدخل تدبيره خلل، ولا يرى في خلقه تفاوت.
 
 ### al-Muyassar (Arabic)
 
-أغَفَل هؤلاء الكافرون، ولم ينظروا إلى الطير فوقهم، باسطات أجنحتها عند طيرانها في الهواء، ويضممنها إلى جُنوبها أحيانًا؟ ما يحفظها من الوقوع عند ذلك إلا الرحمن. إنه بكل شيء بصير لا يُرى في خلقه نقص ولا تفاوت. بل مَن هذا الذي هو في زعمكم- أيها الكافرون- حزب لكم ينصركم من غير الرحمن، إن أراد بكم سوءًا؟ ما الكافرون في زعمهم هذا إلا في خداع وضلال من الشيطان. بل مَن هذا الرازق المزعوم الذي يرزقكم إن أمسك الله رزقه ومنعه عنكم؟ بل استمر الكافرون في طغيانهم وضلالهم في معاندة واستكبار ونفور عن الحق، لا ...
+أغَفَل هؤلاء الكافرون، ولم ينظروا إلى الطير فوقهم، باسطات أجنحتها عند طيرانها في الهواء، ويضممنها إلى جُنوبها أحيانًا؟ ما يحفظها من الوقوع عند ذلك إلا الرحمن. إنه بكل شيء بصير، لا يُرى في خلقه نقص ولا تفاوت. بل مَن هذا الذي هو في زعمكم -أيها الكافرون- حِزْب لكم ينصركم من غير الرحمن، إن أراد بكم سوءًا؟ ما الكافرون في زعمهم هذا إلا في خداع وضلال من الشيطان. بل مَن هذا الرازق المزعوم الذي يرزقكم إن أمسك الله رزقه ومنعه عنكم؟ بل استمر الكافرون في طغيانهم وضلالهم في معاندة واستكبار ونفور عن الحق، لا يسمعون له، ولا يتبعونه.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿أوَلَمْ يَرَوْا﴾ يَنْظُرُوا ﴿إلى الطَّيْر فَوْقهمْ﴾ فِي الهَواء ﴿صافّات﴾ باسِطات أجْنِحَتهنَّ ﴿ويَقْبِضْنَ﴾ أجْنِحَتهنَّ بَعْد البَسْط أيْ وقابِضات ﴿ما يُمْسِكهُنَّ﴾ عَنْ الوُقُوع فِي حال البَسْط والقَبْض ﴿إلّا الرَّحْمانِ﴾ بِقُدْرَتِهِ ﴿إنّهُ بِكُلِّ شَيْء بَصِير﴾ المَعْنى: ألَمْ يَسْتَدِلُّوا بِثُبُوتِ الطَّيْر فِي الهَواء عَلى قُدْرَتنا أنْ نَفْعَل بِهِمْ ما تَقَدَّمَ وغَيْره مِن العَذاب
 
 ---
 
@@ -76,22 +304,143 @@ This is another indication of His gentleness and His mercy with His creatures. H
 
 ### Ibn Kathir (English)
 
+Who is it besides the Most Gracious that can be an army to you to help you? The disbelievers are in nothing but delusion (20)Who is it that can provide for you if He should withhold His provision? Nay, but they continue to be in pride, and flee (21)Is he who walks prone on his face, more rightly guided, or he who walks upright on a straight path (22)Say: "It is He Who has created you, and endowed you with hearing and seeing, and hearts. Little thanks you give. (23)Say: "It is He Who has created you on the earth, and to Him shall you be gathered. (24)They say: "When will this promise come to pass, if you are telling the truth? (25)Say: "The knowledge is with Allah only, and I am only a plain warner. (26)But when they will see it approaching, the faces of those who disbelieve will be sad and grievous, and it will be said: "This is what you were calling for! (27)
+
 No One will help You and No One can grant Sustenance except for Allah
+
 Allah addresses the idolators who worship others besides Him, seeking help and sustenance from them. Allah rebukes them for what they believe, and He informs them that they will not attain that which they hope for. Allah says,
-أَمَّنْ هَـذَا الَّذِى هُوَ جُندٌ لَّكُمْ يَنصُرُكُمْ مِّن دُونِ الرَّحْمَـنِ
-(Who is it besides the Most Gracious that can be an army to you to help) imeaning, there is no protector or helper for you...
+
+أَمَّنْ هَٰذَا الَّذِي هُوَ جُنْدٌ لَكُمْ يَنْصُرُكُمْ مِنْ دُونِ الرَّحْمَٰنِ ۚ
+
+(Who is it besides the Most Gracious that can be an army to you to help?) imeaning, there is no protector or helper for you besides Him. This is the reason that Allah says,
+
+إِنِ الْكَافِرُونَ إِلَّا فِي غُرُورٍ
+
+(The disbelievers are in nothing but delusion.) Then Allah says,
+
+أَمَّنْ هَٰذَا الَّذِي يَرْزُقُكُمْ إِنْ أَمْسَكَ رِزْقَهُ ۚ
+
+(Who is it that can provide for you if He should withhold His provision?) meaning, who is it that can provide for you if Allah cuts off your sustenance? There is no one who gives, withholds, creates, provides and helps other than Allah alone, Who has no partner. This proves that they know this, yet they still worship others besides Him. Thus, Allah says,
+
+بَلْ لَجُّوا
+
+(Nay, but they continue) meaning, they persist in their transgression, lying and misguidance.
+
+فِي عُتُوٍّ وَنُفُورٍ
+
+(to be in pride, and flee.) meaning, they continue in obstinance, arrogance and fleeing away from the truth. They do not listen to it nor do they follow it.
+
+The Parable of the Disbeliever and the Believer
+
+Then Allah says,
+
+أَفَمَنْ يَمْشِي مُكِبًّا عَلَىٰ وَجْهِهِ أَهْدَىٰ أَمَّنْ يَمْشِي سَوِيًّا عَلَىٰ صِرَاطٍ مُسْتَقِيمٍ
+
+(Is he who walks prone on his face, more rightly guided, or he who walks upright on a straight path?)
+
+This is a parable which Allah made of the believer and the disbeliever. So the condition of the disbeliever is like one who walks prone on his face. This is like a person walking bent over on his face (with his head down) instead of walking upright. This person does not know where he is going or how. Rather, he is lost, astray and confused. Is this person more guided,
+
+أَمَّنْ يَمْشِي سَوِيًّا
+
+(or he who walks upright) meaning, he who stands erect.
+
+عَلَىٰ صِرَاطٍ مُسْتَقِيمٍ
+
+(on a straight path?) meaning, this person who walks upright is on a clear path, and he is straight within himself while his path is straight as well. This is their likeness in this world, and their likeness will be the same in the Hereafter. So the believer will be gathered (on the Day of Judgement) walking upright upon the straight path and the vast and spacious Paradise will be opened up for him. However, the disbeliever will be gathered walking down on his face to the Hellfire.
+
+احْشُرُوا الَّذِينَ ظَلَمُوا وَأَزْوَاجَهُمْ وَمَا كَانُوا يَعْبُدُونَ - مِنْ دُونِ اللَّهِ فَاهْدُوهُمْ إِلَىٰ صِرَاطِ الْجَحِيمِ
+
+(Assemble those who did wrong, together with their companions and what they used to worship instead of Allah, and lead them on to the way of flaming Fire.)(37:22,23)
+
+"Companions" here means those like them. Imam Ahmad recorded from Anas bin Malik that it was said, "O Messenger of Allah! How will the people be gathered on their faces?" So the Prophet ﷺ replied,
+
+أَلَيْسَ الَّذِي أَمْشَاهُمْ عَلَى أَرْجُلِهِمْ قَادِرًا عَلَى أَنْ يُمْشِيَهُمْ عَلَى وُجُوهِهِمْ
+
+(Is not He who made them to walk on their legs able to make them walk on their faces?") This Hadith is also recorded in the Two Sahihs.
+
+Allah's Power to create and It being an Evidence of the Final Abode
+
+Allah says,
+
+قُلْ هُوَ الَّذِي أَنْشَأَكُمْ
+
+(Say it is He Who has created you,) meaning, He initiated your creation after you were not even a thing worth mentioning (i.e., nothing). Then He says,
+
+وَجَعَلَ لَكُمُ السَّمْعَ وَالْأَبْصَارَ وَالْأَفْئِدَةَ
+
+(and endowed you with hearing and seeing, and hearts.) meaning, intellects and powers of reasoning.
+
+قَلِيلًا مَا تَشْكُرُونَ
+
+(Little thanks you give.) meaning, how little you use these abilities that Allah has blessed you with to obey Him, to act according to His commandments, and avoid His prohibitions.
+
+قُلْ هُوَ الَّذِي ذَرَأَكُمْ فِي الْأَرْضِ
+
+(Say: "It is He Who has created you on the earth...") meaning, He has spread and distributed you all througout the various regions and areas of the earth with your differing languages, colors, shapes, appearances and forms.
+
+وَإِلَيْهِ تُحْشَرُونَ
+
+(and to Him shall you be gathered.) meaning, you all will come together after this separation and division. He will gather you all just as He separated you and He will bring you back again just as He originated you. Then while informing of the disbelievers who reject the final return, and doubt concerning its real occurrence, Allah said;
+
+وَيَقُولُونَ مَتَىٰ هَٰذَا الْوَعْدُ إِنْ كُنْتُمْ صَادِقِينَ
+
+(They say: "When will this promise come to pass if you are telling the truth?") meaning, 'when will this gathering after separation that you are informing us of, occur?'
+
+قُلْ إِنَّمَا الْعِلْمُ عِنْدَ اللَّهِ
+
+(Say: "The knowledge is with Allah only...") meaning, 'no one knows the time of the Day of Judgement exactly except Allah, but He has commanded me to inform you that it is real and it will definitely occur, so beware of it.'
+
+وَإِنَّمَا أَنَا نَذِيرٌ مُبِينٌ
+
+(and I am only a plain warner.) meaning, 'I am only obligated to convey, and verily I have performed my duty (of conveying) towards you.' Then Allah says,
+
+فَلَمَّا رَأَوْهُ زُلْفَةً سِيئَتْ وُجُوهُ الَّذِينَ كَفَرُوا
+
+(But when they will see it approaching, the faces of those who disbelieve will be sad and grievous.) means, when the Day of Judgement begins, and the disbelievers witness it, and they see that the matter has drawn close, because everything that is to occur will occur, even if it takes a long time. So, when what they denied occurs, it will grieve them because they will know what is awaiting them there (in Hell) of the worst evil. This means that it will surround them and Allah will command what they were not able to reckon or fully comprehend to come to them.
+
+وَبَدَا لَهُمْ مِنَ اللَّهِ مَا لَمْ يَكُونُوا يَحْتَسِبُونَ - وَبَدَا لَهُمْ سَيِّئَاتُ مَا كَسَبُوا وَحَاقَ بِهِمْ مَا كَانُوا بِهِ يَسْتَهْزِئُونَ
+
+(And if those who did wrong had all that is in the earth entirely and the like of it with it, they would [attempt to] ransom themselves thereby from the worst of the punishment on the Day of Resurrection. And there will appear to them from Allah that which they had not taken into account.)(39:47-48)
+
+This is why it will be said to them in order to scold and reprimand them,
+
+هَٰذَا الَّذِي كُنْتُمْ بِهِ تَدَّعُونَ
+
+(This is what you were calling for!) meaning, that you were seeking to hasten.
 
 ### al-Tabari (Arabic)
 
-يقول تعالى ذكره: ولقد كذّب الذين من قبل هؤلاء المشركين من قريش من الأمم الخالية رسلهم.(فَكَيْفَ كَانَ نَكِيرِ ) يقول: فكيف كان نكيري تكذيبهم إياهم (أَوَلَمْ يَرَوْا إِلَى الطَّيْرِ فَوْقَهُمْ صَافَّاتٍ ) يقول: أولم ير هؤلاء المشركون إلى الطير فوقهم صافات أجنحتهنّ(وَيَقْبِضْنَ ) يقول: ويقبضن أجنحتهنّ أحيانا. وإنما عُنِي بذلك أنها تصُفُّ أجنحتها أحيانا، وتقبض أحيانا.وبنحو الذي قلنا في ذلك قال أهل التأويل.* ذكر من قال ذلك:حدثنا ابن عبد الأعلى، مقال: ثنا ابن ثور، عن معمر، عن قتادة، في قوله: (صَاف...
+القول في تأويل قوله تعالى: ﴿أَمْ مَنْ هَذَا الَّذِي هُوَ جُنْدٌ لَكُمْ يَنْصُرُكُمْ مِنْ دُونِ الرَّحْمَنِ إِنِ الْكَافِرُونَ إِلا فِي (٢٠) ﴾
+
+يقول تعالى ذكره: للمشركين به من قريش: من هذا الذي هو جند لكم أيها الكافرون به، ينصركم من دون الرحمن إن أراد بكم سوءا، فيدفع عنكم ما أراد بكم من ذلك ﴿إِنِ الْكَافِرُونَ إِلا فِي غُرُورٍ﴾ يقول تعالى ذكره: ما الكافرون بالله إلا في غرور من ظنهم أن آلهتهم تقرّبهم إلى الله زلفى، وأنها تنفع أو تضر.
+
+* *
+
+القول في تأويل قوله تعالى: ﴿أَمْ مَنْ هَذَا الَّذِي يَرْزُقُكُمْ إِنْ أَمْسَكَ رِزْقَهُ بَلْ لَجُّوا فِي عُتُوٍّ (٢١) ﴾
+
+يقول تعالى ذكره: أم من هذا الذي يطعمكم ويسقيكم، ويأتي بأقواتكم إن أمسك بكم رزقه الذي يرزقه عنكم.
+
+* *
+
+وقوله: ﴿بَلْ لَجُّوا فِي عُتُوٍّ وَنُفُورٍ﴾
+
+يقول: بل تمادوا في طغيان ونفور عن الحقّ واستكبار.
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس، قوله: ﴿بَلْ لَجُّوا فِي عُتُوٍّ وَنُفُورٍ﴾ يقول: في ضلال.
+
+⁕ حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى؛ وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء، جميعا عن ابن أبي نجيح، عن مجاهد، في قول الله: ﴿بَلْ لَجُّوا فِي عُتُوٍّ وَنُفُورٍ﴾ قال: كفور.
 
 ### al-Muyassar (Arabic)
 
-أغَفَل هؤلاء الكافرون، ولم ينظروا إلى الطير فوقهم، باسطات أجنحتها عند طيرانها في الهواء، ويضممنها إلى جُنوبها أحيانًا؟ ما يحفظها من الوقوع عند ذلك إلا الرحمن. إنه بكل شيء بصير لا يُرى في خلقه نقص ولا تفاوت. بل مَن هذا الذي هو في زعمكم- أيها الكافرون- حزب لكم ينصركم من غير الرحمن، إن أراد بكم سوءًا؟ ما الكافرون في زعمهم هذا إلا في خداع وضلال من الشيطان. بل مَن هذا الرازق المزعوم الذي يرزقكم إن أمسك الله رزقه ومنعه عنكم؟ بل استمر الكافرون في طغيانهم وضلالهم في معاندة واستكبار ونفور عن الحق، لا ...
+أغَفَل هؤلاء الكافرون، ولم ينظروا إلى الطير فوقهم، باسطات أجنحتها عند طيرانها في الهواء، ويضممنها إلى جُنوبها أحيانًا؟ ما يحفظها من الوقوع عند ذلك إلا الرحمن. إنه بكل شيء بصير، لا يُرى في خلقه نقص ولا تفاوت. بل مَن هذا الذي هو في زعمكم -أيها الكافرون- حِزْب لكم ينصركم من غير الرحمن، إن أراد بكم سوءًا؟ ما الكافرون في زعمهم هذا إلا في خداع وضلال من الشيطان. بل مَن هذا الرازق المزعوم الذي يرزقكم إن أمسك الله رزقه ومنعه عنكم؟ بل استمر الكافرون في طغيانهم وضلالهم في معاندة واستكبار ونفور عن الحق، لا يسمعون له، ولا يتبعونه.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿أمَّنْ﴾ مُبْتَدَأ ﴿هَذا﴾ خَبَره ﴿الَّذِي﴾ بَدَل مِن هَذا ﴿هُوَ جُنْد﴾ أعْوان ﴿لَكُمْ﴾ صِلَة الَّذِي ﴿يَنْصُركُمْ﴾ صِفَة الجُنْد ﴿مِن دُون الرَّحْمانِ﴾ أيْ غَيْره يَدْفَع عَنْكُمْ عَذابه أيْ لا ناصِر لَكُمْ ﴿إنْ﴾ ما ﴿الكافِرُونَ إلّا فِي غُرُور﴾ غَرَّهُمْ الشَّيْطان بِأَنَّ العَذاب لا يَنْزِل بِهِمْ
 
 ---
 
@@ -99,21 +448,142 @@ Allah addresses the idolators who worship others besides Him, seeking help and s
 
 ### Ibn Kathir (English)
 
+Who is it besides the Most Gracious that can be an army to you to help you? The disbelievers are in nothing but delusion (20)Who is it that can provide for you if He should withhold His provision? Nay, but they continue to be in pride, and flee (21)Is he who walks prone on his face, more rightly guided, or he who walks upright on a straight path (22)Say: "It is He Who has created you, and endowed you with hearing and seeing, and hearts. Little thanks you give. (23)Say: "It is He Who has created you on the earth, and to Him shall you be gathered. (24)They say: "When will this promise come to pass, if you are telling the truth? (25)Say: "The knowledge is with Allah only, and I am only a plain warner. (26)But when they will see it approaching, the faces of those who disbelieve will be sad and grievous, and it will be said: "This is what you were calling for! (27)
+
 No One will help You and No One can grant Sustenance except for Allah
+
 Allah addresses the idolators who worship others besides Him, seeking help and sustenance from them. Allah rebukes them for what they believe, and He informs them that they will not attain that which they hope for. Allah says,
-أَمَّنْ هَـذَا الَّذِى هُوَ جُندٌ لَّكُمْ يَنصُرُكُمْ مِّن دُونِ الرَّحْمَـنِ
-(Who is it besides the Most Gracious that can be an army to you to help) imeaning, there is no protector or helper for you...
+
+أَمَّنْ هَٰذَا الَّذِي هُوَ جُنْدٌ لَكُمْ يَنْصُرُكُمْ مِنْ دُونِ الرَّحْمَٰنِ ۚ
+
+(Who is it besides the Most Gracious that can be an army to you to help?) imeaning, there is no protector or helper for you besides Him. This is the reason that Allah says,
+
+إِنِ الْكَافِرُونَ إِلَّا فِي غُرُورٍ
+
+(The disbelievers are in nothing but delusion.) Then Allah says,
+
+أَمَّنْ هَٰذَا الَّذِي يَرْزُقُكُمْ إِنْ أَمْسَكَ رِزْقَهُ ۚ
+
+(Who is it that can provide for you if He should withhold His provision?) meaning, who is it that can provide for you if Allah cuts off your sustenance? There is no one who gives, withholds, creates, provides and helps other than Allah alone, Who has no partner. This proves that they know this, yet they still worship others besides Him. Thus, Allah says,
+
+بَلْ لَجُّوا
+
+(Nay, but they continue) meaning, they persist in their transgression, lying and misguidance.
+
+فِي عُتُوٍّ وَنُفُورٍ
+
+(to be in pride, and flee.) meaning, they continue in obstinance, arrogance and fleeing away from the truth. They do not listen to it nor do they follow it.
+
+The Parable of the Disbeliever and the Believer
+
+Then Allah says,
+
+أَفَمَنْ يَمْشِي مُكِبًّا عَلَىٰ وَجْهِهِ أَهْدَىٰ أَمَّنْ يَمْشِي سَوِيًّا عَلَىٰ صِرَاطٍ مُسْتَقِيمٍ
+
+(Is he who walks prone on his face, more rightly guided, or he who walks upright on a straight path?)
+
+This is a parable which Allah made of the believer and the disbeliever. So the condition of the disbeliever is like one who walks prone on his face. This is like a person walking bent over on his face (with his head down) instead of walking upright. This person does not know where he is going or how. Rather, he is lost, astray and confused. Is this person more guided,
+
+أَمَّنْ يَمْشِي سَوِيًّا
+
+(or he who walks upright) meaning, he who stands erect.
+
+عَلَىٰ صِرَاطٍ مُسْتَقِيمٍ
+
+(on a straight path?) meaning, this person who walks upright is on a clear path, and he is straight within himself while his path is straight as well. This is their likeness in this world, and their likeness will be the same in the Hereafter. So the believer will be gathered (on the Day of Judgement) walking upright upon the straight path and the vast and spacious Paradise will be opened up for him. However, the disbeliever will be gathered walking down on his face to the Hellfire.
+
+احْشُرُوا الَّذِينَ ظَلَمُوا وَأَزْوَاجَهُمْ وَمَا كَانُوا يَعْبُدُونَ - مِنْ دُونِ اللَّهِ فَاهْدُوهُمْ إِلَىٰ صِرَاطِ الْجَحِيمِ
+
+(Assemble those who did wrong, together with their companions and what they used to worship instead of Allah, and lead them on to the way of flaming Fire.)(37:22,23)
+
+"Companions" here means those like them. Imam Ahmad recorded from Anas bin Malik that it was said, "O Messenger of Allah! How will the people be gathered on their faces?" So the Prophet ﷺ replied,
+
+أَلَيْسَ الَّذِي أَمْشَاهُمْ عَلَى أَرْجُلِهِمْ قَادِرًا عَلَى أَنْ يُمْشِيَهُمْ عَلَى وُجُوهِهِمْ
+
+(Is not He who made them to walk on their legs able to make them walk on their faces?") This Hadith is also recorded in the Two Sahihs.
+
+Allah's Power to create and It being an Evidence of the Final Abode
+
+Allah says,
+
+قُلْ هُوَ الَّذِي أَنْشَأَكُمْ
+
+(Say it is He Who has created you,) meaning, He initiated your creation after you were not even a thing worth mentioning (i.e., nothing). Then He says,
+
+وَجَعَلَ لَكُمُ السَّمْعَ وَالْأَبْصَارَ وَالْأَفْئِدَةَ
+
+(and endowed you with hearing and seeing, and hearts.) meaning, intellects and powers of reasoning.
+
+قَلِيلًا مَا تَشْكُرُونَ
+
+(Little thanks you give.) meaning, how little you use these abilities that Allah has blessed you with to obey Him, to act according to His commandments, and avoid His prohibitions.
+
+قُلْ هُوَ الَّذِي ذَرَأَكُمْ فِي الْأَرْضِ
+
+(Say: "It is He Who has created you on the earth...") meaning, He has spread and distributed you all througout the various regions and areas of the earth with your differing languages, colors, shapes, appearances and forms.
+
+وَإِلَيْهِ تُحْشَرُونَ
+
+(and to Him shall you be gathered.) meaning, you all will come together after this separation and division. He will gather you all just as He separated you and He will bring you back again just as He originated you. Then while informing of the disbelievers who reject the final return, and doubt concerning its real occurrence, Allah said;
+
+وَيَقُولُونَ مَتَىٰ هَٰذَا الْوَعْدُ إِنْ كُنْتُمْ صَادِقِينَ
+
+(They say: "When will this promise come to pass if you are telling the truth?") meaning, 'when will this gathering after separation that you are informing us of, occur?'
+
+قُلْ إِنَّمَا الْعِلْمُ عِنْدَ اللَّهِ
+
+(Say: "The knowledge is with Allah only...") meaning, 'no one knows the time of the Day of Judgement exactly except Allah, but He has commanded me to inform you that it is real and it will definitely occur, so beware of it.'
+
+وَإِنَّمَا أَنَا نَذِيرٌ مُبِينٌ
+
+(and I am only a plain warner.) meaning, 'I am only obligated to convey, and verily I have performed my duty (of conveying) towards you.' Then Allah says,
+
+فَلَمَّا رَأَوْهُ زُلْفَةً سِيئَتْ وُجُوهُ الَّذِينَ كَفَرُوا
+
+(But when they will see it approaching, the faces of those who disbelieve will be sad and grievous.) means, when the Day of Judgement begins, and the disbelievers witness it, and they see that the matter has drawn close, because everything that is to occur will occur, even if it takes a long time. So, when what they denied occurs, it will grieve them because they will know what is awaiting them there (in Hell) of the worst evil. This means that it will surround them and Allah will command what they were not able to reckon or fully comprehend to come to them.
+
+وَبَدَا لَهُمْ مِنَ اللَّهِ مَا لَمْ يَكُونُوا يَحْتَسِبُونَ - وَبَدَا لَهُمْ سَيِّئَاتُ مَا كَسَبُوا وَحَاقَ بِهِمْ مَا كَانُوا بِهِ يَسْتَهْزِئُونَ
+
+(And if those who did wrong had all that is in the earth entirely and the like of it with it, they would [attempt to] ransom themselves thereby from the worst of the punishment on the Day of Resurrection. And there will appear to them from Allah that which they had not taken into account.)(39:47-48)
+
+This is why it will be said to them in order to scold and reprimand them,
+
+هَٰذَا الَّذِي كُنْتُمْ بِهِ تَدَّعُونَ
+
+(This is what you were calling for!) meaning, that you were seeking to hasten.
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله تعالى :  أَمَّنْ هَذَا الَّذِي هُوَ جُنْدٌ لَكُمْ يَنْصُرُكُمْ مِنْ دُونِ الرَّحْمَنِ إِنِ الْكَافِرُونَ إِلا فِي غُرُورٍ (20)يقول تعالى ذكره: للمشركين به من قريش: من هذا الذي هو جند لكم أيها الكافرون به، ينصركم من دون الرحمن إن أراد بكم سوءا، فيدفع عنكم ما أراد بكم من ذلك (إِنِ الْكَافِرُونَ إِلا فِي غُرُورٍ ) يقول تعالى ذكره: ما الكافرون بالله إلا في غرور من ظنهم أن آلهتهم تقرّبهم إلى الله زلفى، وأنها تنفع أو تضر.القول في تأويل قوله تعالى :  أَمَّنْ هَذَا الَّذِي يَرْزُق...
+القول في تأويل قوله تعالى: ﴿أَمْ مَنْ هَذَا الَّذِي هُوَ جُنْدٌ لَكُمْ يَنْصُرُكُمْ مِنْ دُونِ الرَّحْمَنِ إِنِ الْكَافِرُونَ إِلا فِي (٢٠) ﴾
+
+يقول تعالى ذكره: للمشركين به من قريش: من هذا الذي هو جند لكم أيها الكافرون به، ينصركم من دون الرحمن إن أراد بكم سوءا، فيدفع عنكم ما أراد بكم من ذلك ﴿إِنِ الْكَافِرُونَ إِلا فِي غُرُورٍ﴾ يقول تعالى ذكره: ما الكافرون بالله إلا في غرور من ظنهم أن آلهتهم تقرّبهم إلى الله زلفى، وأنها تنفع أو تضر.
+
+* *
+
+القول في تأويل قوله تعالى: ﴿أَمْ مَنْ هَذَا الَّذِي يَرْزُقُكُمْ إِنْ أَمْسَكَ رِزْقَهُ بَلْ لَجُّوا فِي عُتُوٍّ (٢١) ﴾
+
+يقول تعالى ذكره: أم من هذا الذي يطعمكم ويسقيكم، ويأتي بأقواتكم إن أمسك بكم رزقه الذي يرزقه عنكم.
+
+* *
+
+وقوله: ﴿بَلْ لَجُّوا فِي عُتُوٍّ وَنُفُورٍ﴾
+
+يقول: بل تمادوا في طغيان ونفور عن الحقّ واستكبار.
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس، قوله: ﴿بَلْ لَجُّوا فِي عُتُوٍّ وَنُفُورٍ﴾ يقول: في ضلال.
+
+⁕ حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى؛ وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء، جميعا عن ابن أبي نجيح، عن مجاهد، في قول الله: ﴿بَلْ لَجُّوا فِي عُتُوٍّ وَنُفُورٍ﴾ قال: كفور.
 
 ### al-Muyassar (Arabic)
 
-أغَفَل هؤلاء الكافرون، ولم ينظروا إلى الطير فوقهم، باسطات أجنحتها عند طيرانها في الهواء، ويضممنها إلى جُنوبها أحيانًا؟ ما يحفظها من الوقوع عند ذلك إلا الرحمن. إنه بكل شيء بصير لا يُرى في خلقه نقص ولا تفاوت. بل مَن هذا الذي هو في زعمكم- أيها الكافرون- حزب لكم ينصركم من غير الرحمن، إن أراد بكم سوءًا؟ ما الكافرون في زعمهم هذا إلا في خداع وضلال من الشيطان. بل مَن هذا الرازق المزعوم الذي يرزقكم إن أمسك الله رزقه ومنعه عنكم؟ بل استمر الكافرون في طغيانهم وضلالهم في معاندة واستكبار ونفور عن الحق، لا ...
+أغَفَل هؤلاء الكافرون، ولم ينظروا إلى الطير فوقهم، باسطات أجنحتها عند طيرانها في الهواء، ويضممنها إلى جُنوبها أحيانًا؟ ما يحفظها من الوقوع عند ذلك إلا الرحمن. إنه بكل شيء بصير، لا يُرى في خلقه نقص ولا تفاوت. بل مَن هذا الذي هو في زعمكم -أيها الكافرون- حِزْب لكم ينصركم من غير الرحمن، إن أراد بكم سوءًا؟ ما الكافرون في زعمهم هذا إلا في خداع وضلال من الشيطان. بل مَن هذا الرازق المزعوم الذي يرزقكم إن أمسك الله رزقه ومنعه عنكم؟ بل استمر الكافرون في طغيانهم وضلالهم في معاندة واستكبار ونفور عن الحق، لا يسمعون له، ولا يتبعونه.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿أمَّنْ هَذا الَّذِي يَرْزُقكُمْ إنْ أمْسَكَ﴾ الرَّحْمَن ﴿رِزْقه﴾ أيْ المَطَر عَنْكُمْ وجَواب الشَّرْط مَحْذُوف دَلَّ عَلَيْهِ ما قَبْله أيْ فَمَن يَرْزُقكُمْ أيْ لا رازِق لَكُمْ غَيْره ﴿بَلْ لَجُّوا﴾ تَمادَوْا ﴿فِي عُتُوّ﴾ تَكَبُّر ﴿ونُفُور﴾ تَباعُد فِي الحَقّ
 
 ---

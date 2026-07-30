@@ -1,6 +1,6 @@
 # Tafsir Cross-Reference Report
 
-Generated: 2026-07-15
+Generated: 2026-07-30
 Ayahs referenced: 4
 Tafsir sources: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), al-Jalalayn (Arabic)
 
@@ -12,7 +12,65 @@ Tafsir sources: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), 
 
 These two opponents dispute with each other about their Lord; then as for those who disbelieved, garments of fire will be cut out for them, boiling water will be poured down over their heads (19)With it will melt (or vanish away) what is within their bellies, as well as (their) skins (20)And for them are hooked rods of iron (21)Every time they seek to get away therefrom, from anguish, they will be driven back therein, and (it will be) said to them: "Taste the torment of burning! (22)
 
-The Rea...
+The Reason for Revelation
+
+It was recorded in the Two Sahihs that Abu Dharr swore that this Ayah –
+
+هَٰذَانِ خَصْمَانِ اخْتَصَمُوا فِي رَبِّهِمْ
+
+(These two opponents dispute with each other about their Lord;) was revealed concerning Hamzah and his two companions, and 'Utbah and his two companions, on the day of Badr when they came forward to engage in single combat. This is the wording of Al-Bukhari in his Tafsir of this Ayah. Then Al-Bukhari recorded that 'Ali bin Abi Talib said, "I will be the first one to kneel down before the Most Merciful so that the dispute may be settled on the Day of Resurrection." Qays (sub-narrator) said, "Concerning them the Ayah was revealed:
+
+هَٰذَانِ خَصْمَانِ اخْتَصَمُوا فِي رَبِّهِمْ
+
+(These two opponents dispute with each other about their Lord;)
+
+He (Qays) said, "They are the ones who came forward (for single combat) on the day of Badr: 'Ali, Hamzah and 'Ubaydah vs., Shaybah bin Rabi'ah, 'Utbah bin Rabi'ah and Al-Walid bin 'Utbah." This was reported only by Al-Bukhari.
+
+Ibn Abi Najih reported that Mujahid commented on this Ayah, "Such as the disbeliever and the believer disputing about the Resurrection." According to one report Mujahid and 'Ata' commented on this Ayah, "This refers to the believers and the disbelievers."
+
+The view of Mujahid and 'Ata' that this refers to the disbelievers and the believers, includes all opinions, the story of Badr as well as the others. For the believers want to support the religion of Allah, while the disbelievers want to extinguish the light of faith and to defeat the truth and cause falsehood to prevail. This was the view favored by Ibn Jarir, and it is good.
+
+The Punishment of the Disbelievers
+
+فَالَّذِينَ كَفَرُوا قُطِّعَتْ لَهُمْ ثِيَابٌ مِّن نَّارٍ
+
+(then as for those who disbelieved, garments of fire will be cut out for them,) meaning, pieces of fire will be prepared for them. Sa'id bin Jubayr said: "Of copper, for it is the hottest of things when it is heated."
+
+يُصَبُّ مِن فَوْقِ رُءُوسِهِمُ الْحَمِيمُ - يُصْهَرُ بِهِ مَا فِي بُطُونِهِمْ وَالْجُلُودُ
+
+(boiling water will be poured down over their heads. With it will melt (or vanish away) what is within their bellies, as well as (their) skins.) meaning, when the boiling water – which is water that has been heated to the ultimate degree – is poured down over their heads.
+
+Ibn Jarir recorded from Abu Hurayrah that the Prophet ﷺ said:
+
+إِنَّ الْحَمِيمَ لَيُصَبُّ عَلَى رُؤُوسِهِمْ فَيَنْفُذُ الْجُمْجُمَةَ حَتَّى يَخْلُصَ إِلَى جَوْفِهِ، فَيَسْلُتَ مَا فِي جَوْفِهِ حَتَّى يَبْلُغَ قَدَمَيْهِ، وَهُوَ الصِّهْرُ، ثُمَّ يُعَادُ كَمَا كَانَ
+
+(The boiling water will be poured over their heads and will penetrate their skulls until it reaches what is inside, and what is inside will melt until it reaches their feet. This is the melting, then he will be restored to the state he was before.)
+
+It was also recorded by At-Tirmidhi, who said it is Hasan Sahih. This was also recorded by Ibn Abi Hatim, who then recorded that 'Abdullah bin As-Sariy said, "The angel will come to him, carrying the vessel with a pair of tongs because of its heat. When he brings it near to his face, he will shy away from it. He will raise a hammer that he is carrying and will strike his head with it, and his brains will spill out, then he will pour the brains back into his head. This is what Allah says in the Ayah:
+
+يُصْهَرُ بِهِ مَا فِي بُطُونِهِمْ وَالْجُلُودُ
+
+(With it will melt what is within their bellies, as well as (their) skins.)"
+
+وَلَهُم مَّقَامِعُ مِنْ حَدِيدٍ
+
+(And for them are hooked rods of iron.) Ibn 'Abbas said, "They will be struck with them, and with each blow, a limb will be severed, and they will cry out for oblivion."
+
+كُلَّمَا أَرَادُوا أَن يَخْرُجُوا مِنْهَا مِنْ غَمٍّ أُعِيدُوا فِيهَا
+
+(Every time they seek to get away therefrom, from anguish, they will be driven back therein,) Al-A'mash reported from Abu Zibiyan that Salman said, "The fire of Hell is black and dark; its flames and coals do not glow or shine." Then he recited:
+
+كُلَّمَا أَرَادُوا أَن يَخْرُجُوا مِنْهَا مِنْ غَمٍّ أُعِيدُوا فِيهَا
+
+(Every time they seek to get away therefrom, from anguish, they will be driven back therein,)
+
+وَذُوقُوا عَذَابَ الْحَرِيقِ
+
+("Taste the torment of burning!") This is like the Ayah:
+
+وَقِيلَ لَهُمْ ذُوقُوا عَذَابَ النَّارِ الَّذِي كُنتُم بِهِ تُكَذِّبُونَ
+
+(and it will be said to them: "Taste you the torment of the Fire which you used to deny.")(32:20). The meaning is that they will be humiliated by words and actions.
 
 ### al-Tabari (Arabic)
 
@@ -20,7 +78,157 @@ The Rea...
 
 يقول تعالى ذكره لنبيه محمد ﷺ:
 
-ألم تر يا محمد بقلبك، فتعلم أن الله يسجد له من في السماوات من الملائكة، ومن في الأرض من الخلق من الجنّ وغيرهم، والشمس والقمر والنجوم في السماء، والجبال، والشجر، والدوابّ في الأرض، وسجود ذلك ظلاله حين تطلع عليه الشمس، و...
+ألم تر يا محمد بقلبك، فتعلم أن الله يسجد له من في السماوات من الملائكة، ومن في الأرض من الخلق من الجنّ وغيرهم، والشمس والقمر والنجوم في السماء، والجبال، والشجر، والدوابّ في الأرض، وسجود ذلك ظلاله حين تطلع عليه الشمس، وحين تزول، إذا تحولّ ظلّ كل شيء فهو سجوده.
+
+كما:-
+
+⁕ حدثنا القاسم، قال: ثنا الحسين، قال: ثني حجاج، عن ابن جُرَيج، عن مجاهد، قوله: ﴿أَلَمْ تَرَ أَنَّ اللَّهَ يَسْجُدُ لَهُ مَنْ فِي السَّمَاوَاتِ وَمَنْ فِي الأرْضِ وَالشَّمْسُ وَالْقَمَرُ وَالنُّجُومُ وَالْجِبَالُ وَالشَّجَرُ وَالدَّوَابُّ﴾ قال: ظلال هذا كله.
+
+وأما سجود الشمس والقمر والنجوم، فإنه
+
+كما:-
+
+⁕ حدثنا به ابن بشار، قال: ثنا ابن أبي عديّ ومحمد بن جعفر، قالا ثنا عوف، قال: سمعت أبا العالية الرياحي يقول: ما في السماء نجم ولا شمس ولا قمر، إلا يقع لله ساجدا حين يغيب، ثم لا ينصرف حتى يؤذن له، فيأخذ ذات اليمين، وزاد محمد: حتى يرجع إلى مطلعه.
+
+* *
+
+وقوله: ﴿وَكَثِيرٌ مِنَ النَّاسِ﴾
+
+يقول: ويسجد كثير من بني آدم، وهم المؤمنون بالله.
+
+كما:-
+
+⁕ حدثنا القاسم، قال: ثنا الحسين، قال: ثني حجاج، عن ابن جُرَيج، عن مجاهد: ﴿وَكَثِيرٌ مِنَ النَّاسِ﴾ قال: المؤمنون.
+
+* *
+
+وقوله: ﴿وَكَثِيرٌ حَقَّ عَلَيْهِ الْعَذَابُ﴾
+
+يقول تعالى ذكره: وكثير من بني آدم حقّ عليه عذاب الله، فوجب عليه بكفره به، وهو مع ذلك يسجد لله ظله.
+
+كما:-
+
+⁕ حدثنا القاسم، قال: ثنا الحسين، قال: ثني حجاج، عن ابن جُرَيج، عن مجاهد ﴿وَكَثِيرٌ حَقَّ عَلَيْهِ الْعَذَابُ﴾ وهو يسجد مع ظله، فعلى هذا التأويل الذي ذكرناه عن مجاهد، وقع قوله ﴿وَكَثِيرٌ حَقَّ عَلَيْهِ الْعَذَابُ﴾ بالعطف على قوله ﴿وَكَثِيرٌ مِنَ النَّاسِ﴾ ويكون داخلا في عداد من وصفه الله بالسجود له، ويكون قوله ﴿حَقَّ عَلَيْهِ الْعَذَابُ﴾ من صلة كثير، ولو كان "الكثير الثاني من لم يدخل في عداد من وصف بالسجود كان مرفوعا بالعائد من ذكره في قوله: ﴿حَقَّ عَلَيْهِ الْعَذَابُ﴾ وكان معنى الكلام حينئذ: وكثير أبى السجود، لأن قوله ﴿حَقَّ عَلَيْهِ الْعَذَابُ﴾ يدلّ على معصية الله وإبائه السجود، فاستحقّ بذلك العذاب.
+
+"١٨"
+
+* *
+
+القول في تأويل قوله تعالى: ﴿وَمَنْ يُهِنِ اللَّهُ فَمَا لَهُ مِنْ مُكْرِمٍ إِنَّ اللَّهَ يَفْعَلُ مَا يَشَاءُ (١٧) ﴾
+
+يقول تعالى ذكره: ومن يهنه الله من خلقه فَيُشْقِه، ﴿فَمَا لَهُ مِنْ مُكْرِمٍ﴾ بالسعادة يسعده بها، لأن الأمور كلها بيد الله، يوفِّق من يشاء لطاعته، ويخذل من يشاء، ويُشقي من أراد، ويسعد من أحبّ.
+
+* *
+
+وقوله: ﴿إِنَّ اللَّهَ يَفْعَلُ مَا يَشَاءُ﴾
+
+يقول تعالى ذكره: إن الله يفعل في خلقه ما يشاء من إهانة من أراد إهانته، وإكرام من أراد كرامته، لأن الخلق خلقه والأمر أمره، ﴿لا يسئل عما يفعل وهم يسألون﴾ . وقد ذُكر عن بعضهم أنه قرأه ﴿فَمَا لَهُ مِنْ مُكْرَمٍ﴾ بمعنى: فما له من إكرام، وذلك قراءة لا أستجيز القراءة بها لإجماع الحجة من القرّاء على خلافه.
+
+* *
+
+القول في تأويل قوله تعالى: ﴿هَذَانِ خَصْمَانِ اخْتَصَمُوا فِي رَبِّهِمْ فَالَّذِينَ كَفَرُوا قُطِّعَتْ لَهُمْ ثِيَابٌ مِنْ نَارٍ يُصَبُّ مِنْ فَوْقِ رُءُوسِهِمُ الْحَمِيمُ (١٩) يُصْهَرُ بِهِ مَا فِي بُطُونِهِمْ وَالْجُلُودُ (٢٠) وَلَهُمْ مَقَامِعُ مِنْ حَدِيدٍ (٢١) كُلَّمَا أَرَادُوا أَنْ يَخْرُجُوا مِنْهَا مِنْ غَمٍّ أُعِيدُوا فِيهَا وَذُوقُوا عَذَابَ الْحَرِيقِ (٢٢) ﴾
+
+اختلف أهل التأويل في المعنيّ بهذين الخصمين اللذين ذكرهما الله، فقال بعضهم: أحد الفريقين: أهل الإيمان، والفريق الآخر: عبدة الأوثان من مشركي قريش الذين تبارزوا يوم بدر.
+
+ذكر من قال ذلك:
+
+⁕ حدثني يعقوب، قال: ثنا هشيم، قال: أخبرنا أبو هاشم عن أبي مجلز، عن قيس بن عبادة قال: سمعت أبا ذر يُقْسم قَسَما أن هذه الآية ﴿هَذَانِ خَصْمَانِ اخْتَصَمُوا فِي رَبِّهِمْ﴾ نزلت في الذين بارزوا يوم بدر: حمزة وعليّ وعبيدة بن الحارث وعتبة وشيبة ابني ربيعة والوليد بن عتبة، قال: وقال علىّ: إني لأوّل، أو من أوّل من يجثو للخصومة يوم القيامة بين يدي الله تبارك وتعالى.
+
+⁕ حدثنا عليّ بن سهل، قال: ثنا مؤمل، قال: ثنا سفيان، عن أبي هاشم، عن أبي مجلز، عن قيس بن عباد، قال: سمعت أبا ذرّ يقسم بالله قسما: لنزلت هذه الآية في ستة من قريش حمزة بن عبد المطلب وعليّ بن أبي طالب، وعبيدة بن الحارث رضي الله عنهم، وعتبة بن ربيعة، وشيبة بن ربيعة، والوليد بن عتبة ﴿هَذَانِ خَصْمَانِ اخْتَصَمُوا فِي رَبِّهِمْ﴾ . .. إلى آخر الآية ﴿إِنَّ اللَّهَ يُدْخِلُ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ﴾ ... إلى آخر الآية.
+
+⁕ حدثنا ابن بشار، قال: ثنا عبد الرحمن، قال: ثنا سفيان، عن أبي هاشم، عن أبي مجلز، عن قيس بن عباد، قال: سمعت أبا ذرّ يقسم، ثم ذكر نحوه.
+
+⁕ حدثنا ابن بشار، قال: ثنا محمد بن محبب، قال: ثنا سفيان، عن منصور بن المعتمر، عن هلال بن يساف، قال: نزلت هذه الآية في الذين تبارزوا يوم بدر ﴿هَذَانِ خَصْمَانِ اخْتَصَمُوا فِي رَبِّهِمْ﴾ .
+
+⁕ حدثنا ابن حميد، قال: ثنا سلمة بن الفضل، قال: ثني محمد بن إسحاق، عن بعض أصحابه، عن عطاء بن يسار، قال: نزلت هؤلاء الآيات: ﴿هَذَانِ خَصْمَانِ اخْتَصَمُوا فِي رَبِّهِمْ﴾ في الذين تبارزوا يوم بدر: حمزة، وعلي، وعبيدة بن الحارث، وعتبة بن ربيعة، وشيبة بن ربيعة، والوليد بن عتبة. إلى قوله ﴿وَهُدُوا إِلَى صِرَاطِ الْحَمِيدِ﴾ .
+
+⁕ قال: ثنا جرير، عن منصور، عن أبي هاشم، عن أبي مُجَلِّز، عن قيس بن عباد، قال: والله لأنزلت هذه الآية: ﴿هَذَانِ خَصْمَانِ اخْتَصَمُوا فِي رَبِّهِمْ﴾ في الذين خرج بعضهم إلى بعض يوم بدر: حمزة، وعليّ، وعبيدة رحمة الله عليهم، وشيبة، وعتبة، والوليد بن عتبة.
+
+وقال آخرون: ممن قال أحد الفرقين فريق الإيمان، بل الفريق الآخر أهل الكتاب.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس، قوله: ﴿هَذَانِ خَصْمَانِ اخْتَصَمُوا فِي رَبِّهِمْ﴾ قال: هم أهل الكتاب، قالوا للمؤمنين: نحن أولى بالله، وأقدم منكم كتابا، ونبينا قبل نبيكم، وقال المؤمنون: نحن أحقّ بالله، آمنا بمحمد ﷺ، وآمنا بنبيكم، وبما أنزل الله من كتاب، فأنتم تعرفون كتابنا ونبينا، ثم تركتموه وكفرتم به حسدا. وكان ذلك خصومتهم في ربهم.
+
+وقال آخرون منهم: بل الفريق الآخر الكفار كلهم من أيّ ملة كانوا.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا القاسم، قال: ثنا الحسين، قال: ثني حجاج، قال: ثنا أبو تُمَيلة، عن أبي حمزة، عن جابر، عن مجاهد وعطاء بن أبي رَباح، وأبي قزعة، عن الحسين، قال: هم الكافرون والمؤمنون اختصموا في ربهم.
+
+⁕ قال ثنا الحسين، قال: ثني حجاج، عن ابن جُرَيج، عن مجاهد: مثل الكافر والمؤمن. قال ابن جُرَيج: خصومتهم التي اختصموا في ربهم، خصومتهم في الدنيا من أهل كل دين، يرون أنهم أولى بالله من غيرهم.
+
+⁕ حدثنا أبو كريب، قال: ثنا أبو بكر بن عياش، قال: كان عاصم والكلبي يقولان جميعا في ﴿هَذَانِ خَصْمَانِ اخْتَصَمُوا فِي رَبِّهِمْ﴾ قال: أهل الشرك والإسلام حين اختصموا أيهم أفضل، قال: جعل الشرك ملة.
+
+⁕ حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى، وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء جميعا، عن ابن أبي نجيح، عن مجاهد، في قوله: ﴿هَذَانِ خَصْمَانِ اخْتَصَمُوا فِي رَبِّهِمْ﴾ قال: مثل المؤمن والكافر اختصامهما في البعث.
+
+وقال آخرون: الخصمان اللذان ذكرهما الله في هذه الآية: الجنة والنار.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا القاسم، قال: ثنا الحسين، قال: ثنا أبو تميلة، عن أبي حمزة، عن جابر، عن عكرمة في ﴿هَذَانِ خَصْمَانِ اخْتَصَمُوا فِي رَبِّهِمْ﴾ قال: هما الجنة والنار اختصمتا، فقالت النار: خلقني الله لعقوبته وقالت الجنة: خلقني الله لرحمته، فقد قصّ الله عليك من خبرهما ما تسمع.
+
+وأولى هذه الأقوال عندي بالصواب، وأشبهها بتأويل الآية، قول من قال: عني بالخصمين جميع الكفار من أيّ أصناف الكفر كانوا وجميع المؤمنين، وإنما قلت ذلك أولى بالصواب، لأنه تعالى ذكره ذكر قبل ذلك صنفين من خلقه: أحدهما أهل طاعة له بالسجود له، والآخر: أهل معصية له، قد حقّ عليه العذاب، فقال: ﴿أَلَمْ تَرَ أَنَّ اللَّهَ يَسْجُدُ لَهُ مَنْ فِي السَّمَاوَاتِ وَمَنْ فِي الأرْضِ وَالشَّمْسُ وَالْقَمَرُ﴾ ثم قال: ﴿وَكَثِيرٌ مِنَ النَّاسِ وَكَثِيرٌ حَقَّ عَلَيْهِ الْعَذَابُ﴾ ، ثم أتبع ذلك صفة الصنفين كليهما وما هو فاعل بهما، فقال: ﴿فَالَّذِينَ كَفَرُوا قُطِّعَتْ لَهُمْ ثِيَابٌ مِنْ نَارٍ﴾ وقال الله ﴿إِنَّ اللَّهَ يُدْخِلُ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الأنْهَارُ﴾ ؛ فكان بيِّنا بذلك أن ما بين ذلك خبر عنهما.
+
+فإن قال قائل: فما أنت قائل فيما رُوي عن أبي ذرّ إنَّ ذَلكَ نزل في الذين بارزوا يوم بدر؟ قيل: ذلك إن شاء الله كما روي عنه، ولكن الآية قد تنزل بسبب من الأسباب، ثم تكون عامة في كل ما كان نظير ذلك السبب، وهذه من تلك، وذلك أن الذين تبارزوا إنما كان أحد الفريقين أهل شرك وكفر بالله، والآخر أهل إيمان بالله وطاعة له، فكل كافر في حكم فريق الشرك منهما في أنه لأهل الإيمان خصم، وكذلك كل مؤمن في حكم فريق الإيمان منهما في أنه لأهل الشرك خصم.
+
+فتأويل الكلام: هذان خصمان اختصموا في دين ربهم، واختصامهم في ذلك معاداة كل فريق منهما الفريق الآخر ومحاربته إياه على دينه.
+
+* *
+
+وقوله: ﴿فَالَّذِينَ كَفَرُوا قُطِّعَتْ لَهُمْ ثِيَابٌ مِنْ نَارٍ﴾
+
+يقول تعالى ذكره: فأما الكافر بالله منهما فانه يقطع له قميص من نحاس من نار.
+
+كما:-
+
+⁕ حدثنا القاسم، قال: ثنا الحسين، قال: ثني حجاج، عن ابن جُرَيج، عن مجاهد: ﴿فَالَّذِينَ كَفَرُوا قُطِّعَتْ لَهُمْ ثِيَابٌ مِنْ نَارٍ﴾ قال: الكافر قطعت له ثياب من نار، والمؤمن يدخله الله جنات تجري من تحتها الأنهار.
+
+⁕ حدثنا ابن حميد، قال: ثنا يعقوب، عن جعفر، عن سعيد، في قوله: ﴿فَالَّذِينَ كَفَرُوا قُطِّعَتْ لَهُمْ ثِيَابٌ مِنْ نَارٍ﴾ قال: ثياب من نحاس، وليس شيء من الآنية أحمى وأشد حرّا منه.
+
+⁕ حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى؛ وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء جميعا، عن ابن أبي نجيح، عن مجاهد، قال: الكفار قطعت لهم ثياب من نار، والمؤمن يدخل جنات تجري من تحتها الأنهار.
+
+* *
+
+وقوله: ﴿يُصَبُّ مِنْ فَوْقِ رُءُوسِهِمُ الْحَمِيمُ﴾
+
+يقول: يصبّ على رءوسهم ماء مُغْلًى.
+
+كما:-
+
+⁕ حدثنا محمد بن المثنى، قال: ثنا إبراهيم بن إسحاق الطَّالقانيّ، قال: ثنا ابن المبارك، عن سعيد بن زيد، عن أبي السَّمْح، عن ابن جُحيرة، عن أبي هريرة، عن النبيّ ﷺ، قال: "إنَّ الحَمِيمَ لَيُصَبُّ على رُءوسِهمْ، فَيَنْفُذُ الجُمْجمَةَ حتى يَخْلُص إلى جَوْفِهِ، فَيَسْلُت ما في جَوْفِهِ حتى يَبْلُغَ قَدَمَيْهِ، وَهِيَ الصَّهْرُ، ثُمَّ يُعادُ كَما كان".
+
+⁕ حدثني محمد بن المثنى، قال: ثنا يعمر بن بشر، قال: ثنا ابن المبارك، قال: أخبرنا سعيد بن زيد، عن أبي السمح، عن ابن جحيرة، عن أبي هريرة، عن النبي ﷺ بمثله، إلا أنه قال: "فَيَنْفُذُ الجُمْجُمَةَ حتى يَخْلُص إلى جَوفِهِ فَيَسْلت [[يسلت في جوفه من باب نصر: أي يقطعه ويستأصله.]] مَا في جَوْفِهِ".
+
+وكان بعضهم يزعم أن قوله ﴿وَلَهُمْ مَقَامِعُ مِنْ حَدِيدٍ﴾ من المؤخَّر الذي معناه التقديم، ويقول: وجه الكلام: فالذين كفروا قطعت لهم ثياب من نار، ولهم مقامع من حديد يصبّ من فوق رءوسهم الحميم ويقول: إنما وجب أن يكون ذلك كذلك، لأن الملك يضربه بالمقمع من الحديد حتى يثقب رأسه، ثم يصبّ فيه الحميم الذي انتهى حرّه فيقطع بطنه. والخبر عن رسول الله ﷺ الذي ذكرنا، يدلّ على خلاف ما قال هذا القائل، وذلك أنه ﷺ أخبر أن الحميم إذا صبّ على رءوسهم نفذ الجمجمة حتى يخلص إلى أجوافهم، وبذلك جاء تأويل أهل التأويل، ولو كانت المقامع قد تثقب رءوسهم قبل صبّ الحميم عليها، لم يكن لقوله ﷺ: "إنَّ الحَمِيمَ يَنْفُذُ الجُمْجُمَة" معنى: ولكن الأمر في ذلك بخلاف ما قال هذا القائل.
+
+* *
+
+وقوله: ﴿يُصْهَرُ بِهِ مَا فِي بُطُونِهِمْ وَالْجُلُودُ﴾
+
+يقول: يذاب بالحميم الذي يصبّ من فوق رءوسهم ما في بطونهم من الشحوم، وتشوى جلودهم منه فتتساقط، والصهر: هو الإذابة، يقال منه: صهرت الألية بالنار: إذا أذبتها أصهرها صهرا؛ ومنه قول الشاعر.
+
+تَرْوِي لَقًى أُلْقِي في صَفْصَفٍ ... تَصْهَرُهُ الشَّمْسُ وَلا يَنْصَهِر [[البيت لابن أحمر يصف فرخ قطاة (اللسان: صهر) قال: وصهرته الشمس تصهره صهرا، وصهرته: اشتد وقعها عليه وحرها حتى آلم دماغه، وانصهر هو، قال ابن أحمر يصف فرخ قطاة. . . البيت؛ أي تذيبه الشمس، فيصبر على ذلك. وتروى تسوق إليه الماء، أي تصير له كالرواية؛ يقال: رويت أهلي وعليهم ريا: أتيتهم بالماء. والصهر: إذابة الشحم، صهر الشحم يصهره صهرا: أذابه. وفي التنزيل: يُصْهَرُ بِهِ مَا فِي بُطُونِهِمْ وَالْجُلُودُ أي يذاب. واصطهره: أذابه وأكله. أه. واللقي: كل شيء مطروح متروك كاللقطة. والصفصف: أرض ملساء مستوية، كما في اللسان. أه.]]
+
+ومنه قول الراجز:
+
+شَكَّ السَّفافِيدِ الشَّوَاءَ المُصْطَهَرْ [[البيت للعجاج بن رؤبة الراجز المشهور (اللسان: صهر) قال الأزهري: الصهر إذابة الشحم، والصهارة: ما ذاب منه وكذلك الاصطهار في إذابة، أو أكل صهارته. وقال العجاج: (شك السفافيد. . . . البيت) . والبيت شاهد مثل الذي قبله على أن الصهر معناه الإذابة.]]
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى؛ وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء جميعا، عن ابن أبي نجيح، عن مجاهد، في قوله: ﴿يُصْهَرُ بِهِ﴾ قال: يُذاب إذابة.
+
+⁕ حدثنا القاسم، قال: ثنا الحسين، قال: ثني حجاج، عن ابن جُرَيج، عن مجاهد، مثله. قال ابن جُرَيج ﴿يُصْهَرُ بِهِ﴾ قال: ما قطع لهم من العذاب.
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قَتادة: ﴿يُصْهَرُ بِهِ مَا فِي بُطُونِهِمْ﴾ قال: يُذاب به ما في بطونهم.
+
+⁕ حدثنا الحسن، قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر، عن قتادة، مثله.
+
+⁕ حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال ثني أبي، عن أبيه، عن ابن عباس، قوله: ﴿فَالَّذِينَ كَف
+
+[TRUNCATED at 12000 chars — 1564 more. Consult the source directly before relying on anything near the cut.]
 
 ### al-Muyassar (Arabic)
 
@@ -38,7 +246,65 @@ The Rea...
 
 These two opponents dispute with each other about their Lord; then as for those who disbelieved, garments of fire will be cut out for them, boiling water will be poured down over their heads (19)With it will melt (or vanish away) what is within their bellies, as well as (their) skins (20)And for them are hooked rods of iron (21)Every time they seek to get away therefrom, from anguish, they will be driven back therein, and (it will be) said to them: "Taste the torment of burning! (22)
 
-The Rea...
+The Reason for Revelation
+
+It was recorded in the Two Sahihs that Abu Dharr swore that this Ayah –
+
+هَٰذَانِ خَصْمَانِ اخْتَصَمُوا فِي رَبِّهِمْ
+
+(These two opponents dispute with each other about their Lord;) was revealed concerning Hamzah and his two companions, and 'Utbah and his two companions, on the day of Badr when they came forward to engage in single combat. This is the wording of Al-Bukhari in his Tafsir of this Ayah. Then Al-Bukhari recorded that 'Ali bin Abi Talib said, "I will be the first one to kneel down before the Most Merciful so that the dispute may be settled on the Day of Resurrection." Qays (sub-narrator) said, "Concerning them the Ayah was revealed:
+
+هَٰذَانِ خَصْمَانِ اخْتَصَمُوا فِي رَبِّهِمْ
+
+(These two opponents dispute with each other about their Lord;)
+
+He (Qays) said, "They are the ones who came forward (for single combat) on the day of Badr: 'Ali, Hamzah and 'Ubaydah vs., Shaybah bin Rabi'ah, 'Utbah bin Rabi'ah and Al-Walid bin 'Utbah." This was reported only by Al-Bukhari.
+
+Ibn Abi Najih reported that Mujahid commented on this Ayah, "Such as the disbeliever and the believer disputing about the Resurrection." According to one report Mujahid and 'Ata' commented on this Ayah, "This refers to the believers and the disbelievers."
+
+The view of Mujahid and 'Ata' that this refers to the disbelievers and the believers, includes all opinions, the story of Badr as well as the others. For the believers want to support the religion of Allah, while the disbelievers want to extinguish the light of faith and to defeat the truth and cause falsehood to prevail. This was the view favored by Ibn Jarir, and it is good.
+
+The Punishment of the Disbelievers
+
+فَالَّذِينَ كَفَرُوا قُطِّعَتْ لَهُمْ ثِيَابٌ مِّن نَّارٍ
+
+(then as for those who disbelieved, garments of fire will be cut out for them,) meaning, pieces of fire will be prepared for them. Sa'id bin Jubayr said: "Of copper, for it is the hottest of things when it is heated."
+
+يُصَبُّ مِن فَوْقِ رُءُوسِهِمُ الْحَمِيمُ - يُصْهَرُ بِهِ مَا فِي بُطُونِهِمْ وَالْجُلُودُ
+
+(boiling water will be poured down over their heads. With it will melt (or vanish away) what is within their bellies, as well as (their) skins.) meaning, when the boiling water – which is water that has been heated to the ultimate degree – is poured down over their heads.
+
+Ibn Jarir recorded from Abu Hurayrah that the Prophet ﷺ said:
+
+إِنَّ الْحَمِيمَ لَيُصَبُّ عَلَى رُؤُوسِهِمْ فَيَنْفُذُ الْجُمْجُمَةَ حَتَّى يَخْلُصَ إِلَى جَوْفِهِ، فَيَسْلُتَ مَا فِي جَوْفِهِ حَتَّى يَبْلُغَ قَدَمَيْهِ، وَهُوَ الصِّهْرُ، ثُمَّ يُعَادُ كَمَا كَانَ
+
+(The boiling water will be poured over their heads and will penetrate their skulls until it reaches what is inside, and what is inside will melt until it reaches their feet. This is the melting, then he will be restored to the state he was before.)
+
+It was also recorded by At-Tirmidhi, who said it is Hasan Sahih. This was also recorded by Ibn Abi Hatim, who then recorded that 'Abdullah bin As-Sariy said, "The angel will come to him, carrying the vessel with a pair of tongs because of its heat. When he brings it near to his face, he will shy away from it. He will raise a hammer that he is carrying and will strike his head with it, and his brains will spill out, then he will pour the brains back into his head. This is what Allah says in the Ayah:
+
+يُصْهَرُ بِهِ مَا فِي بُطُونِهِمْ وَالْجُلُودُ
+
+(With it will melt what is within their bellies, as well as (their) skins.)"
+
+وَلَهُم مَّقَامِعُ مِنْ حَدِيدٍ
+
+(And for them are hooked rods of iron.) Ibn 'Abbas said, "They will be struck with them, and with each blow, a limb will be severed, and they will cry out for oblivion."
+
+كُلَّمَا أَرَادُوا أَن يَخْرُجُوا مِنْهَا مِنْ غَمٍّ أُعِيدُوا فِيهَا
+
+(Every time they seek to get away therefrom, from anguish, they will be driven back therein,) Al-A'mash reported from Abu Zibiyan that Salman said, "The fire of Hell is black and dark; its flames and coals do not glow or shine." Then he recited:
+
+كُلَّمَا أَرَادُوا أَن يَخْرُجُوا مِنْهَا مِنْ غَمٍّ أُعِيدُوا فِيهَا
+
+(Every time they seek to get away therefrom, from anguish, they will be driven back therein,)
+
+وَذُوقُوا عَذَابَ الْحَرِيقِ
+
+("Taste the torment of burning!") This is like the Ayah:
+
+وَقِيلَ لَهُمْ ذُوقُوا عَذَابَ النَّارِ الَّذِي كُنتُم بِهِ تُكَذِّبُونَ
+
+(and it will be said to them: "Taste you the torment of the Fire which you used to deny.")(32:20). The meaning is that they will be humiliated by words and actions.
 
 ### al-Tabari (Arabic)
 
@@ -46,7 +312,157 @@ The Rea...
 
 يقول تعالى ذكره لنبيه محمد ﷺ:
 
-ألم تر يا محمد بقلبك، فتعلم أن الله يسجد له من في السماوات من الملائكة، ومن في الأرض من الخلق من الجنّ وغيرهم، والشمس والقمر والنجوم في السماء، والجبال، والشجر، والدوابّ في الأرض، وسجود ذلك ظلاله حين تطلع عليه الشمس، و...
+ألم تر يا محمد بقلبك، فتعلم أن الله يسجد له من في السماوات من الملائكة، ومن في الأرض من الخلق من الجنّ وغيرهم، والشمس والقمر والنجوم في السماء، والجبال، والشجر، والدوابّ في الأرض، وسجود ذلك ظلاله حين تطلع عليه الشمس، وحين تزول، إذا تحولّ ظلّ كل شيء فهو سجوده.
+
+كما:-
+
+⁕ حدثنا القاسم، قال: ثنا الحسين، قال: ثني حجاج، عن ابن جُرَيج، عن مجاهد، قوله: ﴿أَلَمْ تَرَ أَنَّ اللَّهَ يَسْجُدُ لَهُ مَنْ فِي السَّمَاوَاتِ وَمَنْ فِي الأرْضِ وَالشَّمْسُ وَالْقَمَرُ وَالنُّجُومُ وَالْجِبَالُ وَالشَّجَرُ وَالدَّوَابُّ﴾ قال: ظلال هذا كله.
+
+وأما سجود الشمس والقمر والنجوم، فإنه
+
+كما:-
+
+⁕ حدثنا به ابن بشار، قال: ثنا ابن أبي عديّ ومحمد بن جعفر، قالا ثنا عوف، قال: سمعت أبا العالية الرياحي يقول: ما في السماء نجم ولا شمس ولا قمر، إلا يقع لله ساجدا حين يغيب، ثم لا ينصرف حتى يؤذن له، فيأخذ ذات اليمين، وزاد محمد: حتى يرجع إلى مطلعه.
+
+* *
+
+وقوله: ﴿وَكَثِيرٌ مِنَ النَّاسِ﴾
+
+يقول: ويسجد كثير من بني آدم، وهم المؤمنون بالله.
+
+كما:-
+
+⁕ حدثنا القاسم، قال: ثنا الحسين، قال: ثني حجاج، عن ابن جُرَيج، عن مجاهد: ﴿وَكَثِيرٌ مِنَ النَّاسِ﴾ قال: المؤمنون.
+
+* *
+
+وقوله: ﴿وَكَثِيرٌ حَقَّ عَلَيْهِ الْعَذَابُ﴾
+
+يقول تعالى ذكره: وكثير من بني آدم حقّ عليه عذاب الله، فوجب عليه بكفره به، وهو مع ذلك يسجد لله ظله.
+
+كما:-
+
+⁕ حدثنا القاسم، قال: ثنا الحسين، قال: ثني حجاج، عن ابن جُرَيج، عن مجاهد ﴿وَكَثِيرٌ حَقَّ عَلَيْهِ الْعَذَابُ﴾ وهو يسجد مع ظله، فعلى هذا التأويل الذي ذكرناه عن مجاهد، وقع قوله ﴿وَكَثِيرٌ حَقَّ عَلَيْهِ الْعَذَابُ﴾ بالعطف على قوله ﴿وَكَثِيرٌ مِنَ النَّاسِ﴾ ويكون داخلا في عداد من وصفه الله بالسجود له، ويكون قوله ﴿حَقَّ عَلَيْهِ الْعَذَابُ﴾ من صلة كثير، ولو كان "الكثير الثاني من لم يدخل في عداد من وصف بالسجود كان مرفوعا بالعائد من ذكره في قوله: ﴿حَقَّ عَلَيْهِ الْعَذَابُ﴾ وكان معنى الكلام حينئذ: وكثير أبى السجود، لأن قوله ﴿حَقَّ عَلَيْهِ الْعَذَابُ﴾ يدلّ على معصية الله وإبائه السجود، فاستحقّ بذلك العذاب.
+
+"١٨"
+
+* *
+
+القول في تأويل قوله تعالى: ﴿وَمَنْ يُهِنِ اللَّهُ فَمَا لَهُ مِنْ مُكْرِمٍ إِنَّ اللَّهَ يَفْعَلُ مَا يَشَاءُ (١٧) ﴾
+
+يقول تعالى ذكره: ومن يهنه الله من خلقه فَيُشْقِه، ﴿فَمَا لَهُ مِنْ مُكْرِمٍ﴾ بالسعادة يسعده بها، لأن الأمور كلها بيد الله، يوفِّق من يشاء لطاعته، ويخذل من يشاء، ويُشقي من أراد، ويسعد من أحبّ.
+
+* *
+
+وقوله: ﴿إِنَّ اللَّهَ يَفْعَلُ مَا يَشَاءُ﴾
+
+يقول تعالى ذكره: إن الله يفعل في خلقه ما يشاء من إهانة من أراد إهانته، وإكرام من أراد كرامته، لأن الخلق خلقه والأمر أمره، ﴿لا يسئل عما يفعل وهم يسألون﴾ . وقد ذُكر عن بعضهم أنه قرأه ﴿فَمَا لَهُ مِنْ مُكْرَمٍ﴾ بمعنى: فما له من إكرام، وذلك قراءة لا أستجيز القراءة بها لإجماع الحجة من القرّاء على خلافه.
+
+* *
+
+القول في تأويل قوله تعالى: ﴿هَذَانِ خَصْمَانِ اخْتَصَمُوا فِي رَبِّهِمْ فَالَّذِينَ كَفَرُوا قُطِّعَتْ لَهُمْ ثِيَابٌ مِنْ نَارٍ يُصَبُّ مِنْ فَوْقِ رُءُوسِهِمُ الْحَمِيمُ (١٩) يُصْهَرُ بِهِ مَا فِي بُطُونِهِمْ وَالْجُلُودُ (٢٠) وَلَهُمْ مَقَامِعُ مِنْ حَدِيدٍ (٢١) كُلَّمَا أَرَادُوا أَنْ يَخْرُجُوا مِنْهَا مِنْ غَمٍّ أُعِيدُوا فِيهَا وَذُوقُوا عَذَابَ الْحَرِيقِ (٢٢) ﴾
+
+اختلف أهل التأويل في المعنيّ بهذين الخصمين اللذين ذكرهما الله، فقال بعضهم: أحد الفريقين: أهل الإيمان، والفريق الآخر: عبدة الأوثان من مشركي قريش الذين تبارزوا يوم بدر.
+
+ذكر من قال ذلك:
+
+⁕ حدثني يعقوب، قال: ثنا هشيم، قال: أخبرنا أبو هاشم عن أبي مجلز، عن قيس بن عبادة قال: سمعت أبا ذر يُقْسم قَسَما أن هذه الآية ﴿هَذَانِ خَصْمَانِ اخْتَصَمُوا فِي رَبِّهِمْ﴾ نزلت في الذين بارزوا يوم بدر: حمزة وعليّ وعبيدة بن الحارث وعتبة وشيبة ابني ربيعة والوليد بن عتبة، قال: وقال علىّ: إني لأوّل، أو من أوّل من يجثو للخصومة يوم القيامة بين يدي الله تبارك وتعالى.
+
+⁕ حدثنا عليّ بن سهل، قال: ثنا مؤمل، قال: ثنا سفيان، عن أبي هاشم، عن أبي مجلز، عن قيس بن عباد، قال: سمعت أبا ذرّ يقسم بالله قسما: لنزلت هذه الآية في ستة من قريش حمزة بن عبد المطلب وعليّ بن أبي طالب، وعبيدة بن الحارث رضي الله عنهم، وعتبة بن ربيعة، وشيبة بن ربيعة، والوليد بن عتبة ﴿هَذَانِ خَصْمَانِ اخْتَصَمُوا فِي رَبِّهِمْ﴾ . .. إلى آخر الآية ﴿إِنَّ اللَّهَ يُدْخِلُ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ﴾ ... إلى آخر الآية.
+
+⁕ حدثنا ابن بشار، قال: ثنا عبد الرحمن، قال: ثنا سفيان، عن أبي هاشم، عن أبي مجلز، عن قيس بن عباد، قال: سمعت أبا ذرّ يقسم، ثم ذكر نحوه.
+
+⁕ حدثنا ابن بشار، قال: ثنا محمد بن محبب، قال: ثنا سفيان، عن منصور بن المعتمر، عن هلال بن يساف، قال: نزلت هذه الآية في الذين تبارزوا يوم بدر ﴿هَذَانِ خَصْمَانِ اخْتَصَمُوا فِي رَبِّهِمْ﴾ .
+
+⁕ حدثنا ابن حميد، قال: ثنا سلمة بن الفضل، قال: ثني محمد بن إسحاق، عن بعض أصحابه، عن عطاء بن يسار، قال: نزلت هؤلاء الآيات: ﴿هَذَانِ خَصْمَانِ اخْتَصَمُوا فِي رَبِّهِمْ﴾ في الذين تبارزوا يوم بدر: حمزة، وعلي، وعبيدة بن الحارث، وعتبة بن ربيعة، وشيبة بن ربيعة، والوليد بن عتبة. إلى قوله ﴿وَهُدُوا إِلَى صِرَاطِ الْحَمِيدِ﴾ .
+
+⁕ قال: ثنا جرير، عن منصور، عن أبي هاشم، عن أبي مُجَلِّز، عن قيس بن عباد، قال: والله لأنزلت هذه الآية: ﴿هَذَانِ خَصْمَانِ اخْتَصَمُوا فِي رَبِّهِمْ﴾ في الذين خرج بعضهم إلى بعض يوم بدر: حمزة، وعليّ، وعبيدة رحمة الله عليهم، وشيبة، وعتبة، والوليد بن عتبة.
+
+وقال آخرون: ممن قال أحد الفرقين فريق الإيمان، بل الفريق الآخر أهل الكتاب.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس، قوله: ﴿هَذَانِ خَصْمَانِ اخْتَصَمُوا فِي رَبِّهِمْ﴾ قال: هم أهل الكتاب، قالوا للمؤمنين: نحن أولى بالله، وأقدم منكم كتابا، ونبينا قبل نبيكم، وقال المؤمنون: نحن أحقّ بالله، آمنا بمحمد ﷺ، وآمنا بنبيكم، وبما أنزل الله من كتاب، فأنتم تعرفون كتابنا ونبينا، ثم تركتموه وكفرتم به حسدا. وكان ذلك خصومتهم في ربهم.
+
+وقال آخرون منهم: بل الفريق الآخر الكفار كلهم من أيّ ملة كانوا.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا القاسم، قال: ثنا الحسين، قال: ثني حجاج، قال: ثنا أبو تُمَيلة، عن أبي حمزة، عن جابر، عن مجاهد وعطاء بن أبي رَباح، وأبي قزعة، عن الحسين، قال: هم الكافرون والمؤمنون اختصموا في ربهم.
+
+⁕ قال ثنا الحسين، قال: ثني حجاج، عن ابن جُرَيج، عن مجاهد: مثل الكافر والمؤمن. قال ابن جُرَيج: خصومتهم التي اختصموا في ربهم، خصومتهم في الدنيا من أهل كل دين، يرون أنهم أولى بالله من غيرهم.
+
+⁕ حدثنا أبو كريب، قال: ثنا أبو بكر بن عياش، قال: كان عاصم والكلبي يقولان جميعا في ﴿هَذَانِ خَصْمَانِ اخْتَصَمُوا فِي رَبِّهِمْ﴾ قال: أهل الشرك والإسلام حين اختصموا أيهم أفضل، قال: جعل الشرك ملة.
+
+⁕ حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى، وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء جميعا، عن ابن أبي نجيح، عن مجاهد، في قوله: ﴿هَذَانِ خَصْمَانِ اخْتَصَمُوا فِي رَبِّهِمْ﴾ قال: مثل المؤمن والكافر اختصامهما في البعث.
+
+وقال آخرون: الخصمان اللذان ذكرهما الله في هذه الآية: الجنة والنار.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا القاسم، قال: ثنا الحسين، قال: ثنا أبو تميلة، عن أبي حمزة، عن جابر، عن عكرمة في ﴿هَذَانِ خَصْمَانِ اخْتَصَمُوا فِي رَبِّهِمْ﴾ قال: هما الجنة والنار اختصمتا، فقالت النار: خلقني الله لعقوبته وقالت الجنة: خلقني الله لرحمته، فقد قصّ الله عليك من خبرهما ما تسمع.
+
+وأولى هذه الأقوال عندي بالصواب، وأشبهها بتأويل الآية، قول من قال: عني بالخصمين جميع الكفار من أيّ أصناف الكفر كانوا وجميع المؤمنين، وإنما قلت ذلك أولى بالصواب، لأنه تعالى ذكره ذكر قبل ذلك صنفين من خلقه: أحدهما أهل طاعة له بالسجود له، والآخر: أهل معصية له، قد حقّ عليه العذاب، فقال: ﴿أَلَمْ تَرَ أَنَّ اللَّهَ يَسْجُدُ لَهُ مَنْ فِي السَّمَاوَاتِ وَمَنْ فِي الأرْضِ وَالشَّمْسُ وَالْقَمَرُ﴾ ثم قال: ﴿وَكَثِيرٌ مِنَ النَّاسِ وَكَثِيرٌ حَقَّ عَلَيْهِ الْعَذَابُ﴾ ، ثم أتبع ذلك صفة الصنفين كليهما وما هو فاعل بهما، فقال: ﴿فَالَّذِينَ كَفَرُوا قُطِّعَتْ لَهُمْ ثِيَابٌ مِنْ نَارٍ﴾ وقال الله ﴿إِنَّ اللَّهَ يُدْخِلُ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الأنْهَارُ﴾ ؛ فكان بيِّنا بذلك أن ما بين ذلك خبر عنهما.
+
+فإن قال قائل: فما أنت قائل فيما رُوي عن أبي ذرّ إنَّ ذَلكَ نزل في الذين بارزوا يوم بدر؟ قيل: ذلك إن شاء الله كما روي عنه، ولكن الآية قد تنزل بسبب من الأسباب، ثم تكون عامة في كل ما كان نظير ذلك السبب، وهذه من تلك، وذلك أن الذين تبارزوا إنما كان أحد الفريقين أهل شرك وكفر بالله، والآخر أهل إيمان بالله وطاعة له، فكل كافر في حكم فريق الشرك منهما في أنه لأهل الإيمان خصم، وكذلك كل مؤمن في حكم فريق الإيمان منهما في أنه لأهل الشرك خصم.
+
+فتأويل الكلام: هذان خصمان اختصموا في دين ربهم، واختصامهم في ذلك معاداة كل فريق منهما الفريق الآخر ومحاربته إياه على دينه.
+
+* *
+
+وقوله: ﴿فَالَّذِينَ كَفَرُوا قُطِّعَتْ لَهُمْ ثِيَابٌ مِنْ نَارٍ﴾
+
+يقول تعالى ذكره: فأما الكافر بالله منهما فانه يقطع له قميص من نحاس من نار.
+
+كما:-
+
+⁕ حدثنا القاسم، قال: ثنا الحسين، قال: ثني حجاج، عن ابن جُرَيج، عن مجاهد: ﴿فَالَّذِينَ كَفَرُوا قُطِّعَتْ لَهُمْ ثِيَابٌ مِنْ نَارٍ﴾ قال: الكافر قطعت له ثياب من نار، والمؤمن يدخله الله جنات تجري من تحتها الأنهار.
+
+⁕ حدثنا ابن حميد، قال: ثنا يعقوب، عن جعفر، عن سعيد، في قوله: ﴿فَالَّذِينَ كَفَرُوا قُطِّعَتْ لَهُمْ ثِيَابٌ مِنْ نَارٍ﴾ قال: ثياب من نحاس، وليس شيء من الآنية أحمى وأشد حرّا منه.
+
+⁕ حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى؛ وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء جميعا، عن ابن أبي نجيح، عن مجاهد، قال: الكفار قطعت لهم ثياب من نار، والمؤمن يدخل جنات تجري من تحتها الأنهار.
+
+* *
+
+وقوله: ﴿يُصَبُّ مِنْ فَوْقِ رُءُوسِهِمُ الْحَمِيمُ﴾
+
+يقول: يصبّ على رءوسهم ماء مُغْلًى.
+
+كما:-
+
+⁕ حدثنا محمد بن المثنى، قال: ثنا إبراهيم بن إسحاق الطَّالقانيّ، قال: ثنا ابن المبارك، عن سعيد بن زيد، عن أبي السَّمْح، عن ابن جُحيرة، عن أبي هريرة، عن النبيّ ﷺ، قال: "إنَّ الحَمِيمَ لَيُصَبُّ على رُءوسِهمْ، فَيَنْفُذُ الجُمْجمَةَ حتى يَخْلُص إلى جَوْفِهِ، فَيَسْلُت ما في جَوْفِهِ حتى يَبْلُغَ قَدَمَيْهِ، وَهِيَ الصَّهْرُ، ثُمَّ يُعادُ كَما كان".
+
+⁕ حدثني محمد بن المثنى، قال: ثنا يعمر بن بشر، قال: ثنا ابن المبارك، قال: أخبرنا سعيد بن زيد، عن أبي السمح، عن ابن جحيرة، عن أبي هريرة، عن النبي ﷺ بمثله، إلا أنه قال: "فَيَنْفُذُ الجُمْجُمَةَ حتى يَخْلُص إلى جَوفِهِ فَيَسْلت [[يسلت في جوفه من باب نصر: أي يقطعه ويستأصله.]] مَا في جَوْفِهِ".
+
+وكان بعضهم يزعم أن قوله ﴿وَلَهُمْ مَقَامِعُ مِنْ حَدِيدٍ﴾ من المؤخَّر الذي معناه التقديم، ويقول: وجه الكلام: فالذين كفروا قطعت لهم ثياب من نار، ولهم مقامع من حديد يصبّ من فوق رءوسهم الحميم ويقول: إنما وجب أن يكون ذلك كذلك، لأن الملك يضربه بالمقمع من الحديد حتى يثقب رأسه، ثم يصبّ فيه الحميم الذي انتهى حرّه فيقطع بطنه. والخبر عن رسول الله ﷺ الذي ذكرنا، يدلّ على خلاف ما قال هذا القائل، وذلك أنه ﷺ أخبر أن الحميم إذا صبّ على رءوسهم نفذ الجمجمة حتى يخلص إلى أجوافهم، وبذلك جاء تأويل أهل التأويل، ولو كانت المقامع قد تثقب رءوسهم قبل صبّ الحميم عليها، لم يكن لقوله ﷺ: "إنَّ الحَمِيمَ يَنْفُذُ الجُمْجُمَة" معنى: ولكن الأمر في ذلك بخلاف ما قال هذا القائل.
+
+* *
+
+وقوله: ﴿يُصْهَرُ بِهِ مَا فِي بُطُونِهِمْ وَالْجُلُودُ﴾
+
+يقول: يذاب بالحميم الذي يصبّ من فوق رءوسهم ما في بطونهم من الشحوم، وتشوى جلودهم منه فتتساقط، والصهر: هو الإذابة، يقال منه: صهرت الألية بالنار: إذا أذبتها أصهرها صهرا؛ ومنه قول الشاعر.
+
+تَرْوِي لَقًى أُلْقِي في صَفْصَفٍ ... تَصْهَرُهُ الشَّمْسُ وَلا يَنْصَهِر [[البيت لابن أحمر يصف فرخ قطاة (اللسان: صهر) قال: وصهرته الشمس تصهره صهرا، وصهرته: اشتد وقعها عليه وحرها حتى آلم دماغه، وانصهر هو، قال ابن أحمر يصف فرخ قطاة. . . البيت؛ أي تذيبه الشمس، فيصبر على ذلك. وتروى تسوق إليه الماء، أي تصير له كالرواية؛ يقال: رويت أهلي وعليهم ريا: أتيتهم بالماء. والصهر: إذابة الشحم، صهر الشحم يصهره صهرا: أذابه. وفي التنزيل: يُصْهَرُ بِهِ مَا فِي بُطُونِهِمْ وَالْجُلُودُ أي يذاب. واصطهره: أذابه وأكله. أه. واللقي: كل شيء مطروح متروك كاللقطة. والصفصف: أرض ملساء مستوية، كما في اللسان. أه.]]
+
+ومنه قول الراجز:
+
+شَكَّ السَّفافِيدِ الشَّوَاءَ المُصْطَهَرْ [[البيت للعجاج بن رؤبة الراجز المشهور (اللسان: صهر) قال الأزهري: الصهر إذابة الشحم، والصهارة: ما ذاب منه وكذلك الاصطهار في إذابة، أو أكل صهارته. وقال العجاج: (شك السفافيد. . . . البيت) . والبيت شاهد مثل الذي قبله على أن الصهر معناه الإذابة.]]
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى؛ وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء جميعا، عن ابن أبي نجيح، عن مجاهد، في قوله: ﴿يُصْهَرُ بِهِ﴾ قال: يُذاب إذابة.
+
+⁕ حدثنا القاسم، قال: ثنا الحسين، قال: ثني حجاج، عن ابن جُرَيج، عن مجاهد، مثله. قال ابن جُرَيج ﴿يُصْهَرُ بِهِ﴾ قال: ما قطع لهم من العذاب.
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قَتادة: ﴿يُصْهَرُ بِهِ مَا فِي بُطُونِهِمْ﴾ قال: يُذاب به ما في بطونهم.
+
+⁕ حدثنا الحسن، قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر، عن قتادة، مثله.
+
+⁕ حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال ثني أبي، عن أبيه، عن ابن عباس، قوله: ﴿فَالَّذِينَ كَف
+
+[TRUNCATED at 12000 chars — 1564 more. Consult the source directly before relying on anything near the cut.]
 
 ### al-Muyassar (Arabic)
 
@@ -64,7 +480,65 @@ The Rea...
 
 These two opponents dispute with each other about their Lord; then as for those who disbelieved, garments of fire will be cut out for them, boiling water will be poured down over their heads (19)With it will melt (or vanish away) what is within their bellies, as well as (their) skins (20)And for them are hooked rods of iron (21)Every time they seek to get away therefrom, from anguish, they will be driven back therein, and (it will be) said to them: "Taste the torment of burning! (22)
 
-The Rea...
+The Reason for Revelation
+
+It was recorded in the Two Sahihs that Abu Dharr swore that this Ayah –
+
+هَٰذَانِ خَصْمَانِ اخْتَصَمُوا فِي رَبِّهِمْ
+
+(These two opponents dispute with each other about their Lord;) was revealed concerning Hamzah and his two companions, and 'Utbah and his two companions, on the day of Badr when they came forward to engage in single combat. This is the wording of Al-Bukhari in his Tafsir of this Ayah. Then Al-Bukhari recorded that 'Ali bin Abi Talib said, "I will be the first one to kneel down before the Most Merciful so that the dispute may be settled on the Day of Resurrection." Qays (sub-narrator) said, "Concerning them the Ayah was revealed:
+
+هَٰذَانِ خَصْمَانِ اخْتَصَمُوا فِي رَبِّهِمْ
+
+(These two opponents dispute with each other about their Lord;)
+
+He (Qays) said, "They are the ones who came forward (for single combat) on the day of Badr: 'Ali, Hamzah and 'Ubaydah vs., Shaybah bin Rabi'ah, 'Utbah bin Rabi'ah and Al-Walid bin 'Utbah." This was reported only by Al-Bukhari.
+
+Ibn Abi Najih reported that Mujahid commented on this Ayah, "Such as the disbeliever and the believer disputing about the Resurrection." According to one report Mujahid and 'Ata' commented on this Ayah, "This refers to the believers and the disbelievers."
+
+The view of Mujahid and 'Ata' that this refers to the disbelievers and the believers, includes all opinions, the story of Badr as well as the others. For the believers want to support the religion of Allah, while the disbelievers want to extinguish the light of faith and to defeat the truth and cause falsehood to prevail. This was the view favored by Ibn Jarir, and it is good.
+
+The Punishment of the Disbelievers
+
+فَالَّذِينَ كَفَرُوا قُطِّعَتْ لَهُمْ ثِيَابٌ مِّن نَّارٍ
+
+(then as for those who disbelieved, garments of fire will be cut out for them,) meaning, pieces of fire will be prepared for them. Sa'id bin Jubayr said: "Of copper, for it is the hottest of things when it is heated."
+
+يُصَبُّ مِن فَوْقِ رُءُوسِهِمُ الْحَمِيمُ - يُصْهَرُ بِهِ مَا فِي بُطُونِهِمْ وَالْجُلُودُ
+
+(boiling water will be poured down over their heads. With it will melt (or vanish away) what is within their bellies, as well as (their) skins.) meaning, when the boiling water – which is water that has been heated to the ultimate degree – is poured down over their heads.
+
+Ibn Jarir recorded from Abu Hurayrah that the Prophet ﷺ said:
+
+إِنَّ الْحَمِيمَ لَيُصَبُّ عَلَى رُؤُوسِهِمْ فَيَنْفُذُ الْجُمْجُمَةَ حَتَّى يَخْلُصَ إِلَى جَوْفِهِ، فَيَسْلُتَ مَا فِي جَوْفِهِ حَتَّى يَبْلُغَ قَدَمَيْهِ، وَهُوَ الصِّهْرُ، ثُمَّ يُعَادُ كَمَا كَانَ
+
+(The boiling water will be poured over their heads and will penetrate their skulls until it reaches what is inside, and what is inside will melt until it reaches their feet. This is the melting, then he will be restored to the state he was before.)
+
+It was also recorded by At-Tirmidhi, who said it is Hasan Sahih. This was also recorded by Ibn Abi Hatim, who then recorded that 'Abdullah bin As-Sariy said, "The angel will come to him, carrying the vessel with a pair of tongs because of its heat. When he brings it near to his face, he will shy away from it. He will raise a hammer that he is carrying and will strike his head with it, and his brains will spill out, then he will pour the brains back into his head. This is what Allah says in the Ayah:
+
+يُصْهَرُ بِهِ مَا فِي بُطُونِهِمْ وَالْجُلُودُ
+
+(With it will melt what is within their bellies, as well as (their) skins.)"
+
+وَلَهُم مَّقَامِعُ مِنْ حَدِيدٍ
+
+(And for them are hooked rods of iron.) Ibn 'Abbas said, "They will be struck with them, and with each blow, a limb will be severed, and they will cry out for oblivion."
+
+كُلَّمَا أَرَادُوا أَن يَخْرُجُوا مِنْهَا مِنْ غَمٍّ أُعِيدُوا فِيهَا
+
+(Every time they seek to get away therefrom, from anguish, they will be driven back therein,) Al-A'mash reported from Abu Zibiyan that Salman said, "The fire of Hell is black and dark; its flames and coals do not glow or shine." Then he recited:
+
+كُلَّمَا أَرَادُوا أَن يَخْرُجُوا مِنْهَا مِنْ غَمٍّ أُعِيدُوا فِيهَا
+
+(Every time they seek to get away therefrom, from anguish, they will be driven back therein,)
+
+وَذُوقُوا عَذَابَ الْحَرِيقِ
+
+("Taste the torment of burning!") This is like the Ayah:
+
+وَقِيلَ لَهُمْ ذُوقُوا عَذَابَ النَّارِ الَّذِي كُنتُم بِهِ تُكَذِّبُونَ
+
+(and it will be said to them: "Taste you the torment of the Fire which you used to deny.")(32:20). The meaning is that they will be humiliated by words and actions.
 
 ### al-Tabari (Arabic)
 
@@ -72,7 +546,157 @@ The Rea...
 
 يقول تعالى ذكره لنبيه محمد ﷺ:
 
-ألم تر يا محمد بقلبك، فتعلم أن الله يسجد له من في السماوات من الملائكة، ومن في الأرض من الخلق من الجنّ وغيرهم، والشمس والقمر والنجوم في السماء، والجبال، والشجر، والدوابّ في الأرض، وسجود ذلك ظلاله حين تطلع عليه الشمس، و...
+ألم تر يا محمد بقلبك، فتعلم أن الله يسجد له من في السماوات من الملائكة، ومن في الأرض من الخلق من الجنّ وغيرهم، والشمس والقمر والنجوم في السماء، والجبال، والشجر، والدوابّ في الأرض، وسجود ذلك ظلاله حين تطلع عليه الشمس، وحين تزول، إذا تحولّ ظلّ كل شيء فهو سجوده.
+
+كما:-
+
+⁕ حدثنا القاسم، قال: ثنا الحسين، قال: ثني حجاج، عن ابن جُرَيج، عن مجاهد، قوله: ﴿أَلَمْ تَرَ أَنَّ اللَّهَ يَسْجُدُ لَهُ مَنْ فِي السَّمَاوَاتِ وَمَنْ فِي الأرْضِ وَالشَّمْسُ وَالْقَمَرُ وَالنُّجُومُ وَالْجِبَالُ وَالشَّجَرُ وَالدَّوَابُّ﴾ قال: ظلال هذا كله.
+
+وأما سجود الشمس والقمر والنجوم، فإنه
+
+كما:-
+
+⁕ حدثنا به ابن بشار، قال: ثنا ابن أبي عديّ ومحمد بن جعفر، قالا ثنا عوف، قال: سمعت أبا العالية الرياحي يقول: ما في السماء نجم ولا شمس ولا قمر، إلا يقع لله ساجدا حين يغيب، ثم لا ينصرف حتى يؤذن له، فيأخذ ذات اليمين، وزاد محمد: حتى يرجع إلى مطلعه.
+
+* *
+
+وقوله: ﴿وَكَثِيرٌ مِنَ النَّاسِ﴾
+
+يقول: ويسجد كثير من بني آدم، وهم المؤمنون بالله.
+
+كما:-
+
+⁕ حدثنا القاسم، قال: ثنا الحسين، قال: ثني حجاج، عن ابن جُرَيج، عن مجاهد: ﴿وَكَثِيرٌ مِنَ النَّاسِ﴾ قال: المؤمنون.
+
+* *
+
+وقوله: ﴿وَكَثِيرٌ حَقَّ عَلَيْهِ الْعَذَابُ﴾
+
+يقول تعالى ذكره: وكثير من بني آدم حقّ عليه عذاب الله، فوجب عليه بكفره به، وهو مع ذلك يسجد لله ظله.
+
+كما:-
+
+⁕ حدثنا القاسم، قال: ثنا الحسين، قال: ثني حجاج، عن ابن جُرَيج، عن مجاهد ﴿وَكَثِيرٌ حَقَّ عَلَيْهِ الْعَذَابُ﴾ وهو يسجد مع ظله، فعلى هذا التأويل الذي ذكرناه عن مجاهد، وقع قوله ﴿وَكَثِيرٌ حَقَّ عَلَيْهِ الْعَذَابُ﴾ بالعطف على قوله ﴿وَكَثِيرٌ مِنَ النَّاسِ﴾ ويكون داخلا في عداد من وصفه الله بالسجود له، ويكون قوله ﴿حَقَّ عَلَيْهِ الْعَذَابُ﴾ من صلة كثير، ولو كان "الكثير الثاني من لم يدخل في عداد من وصف بالسجود كان مرفوعا بالعائد من ذكره في قوله: ﴿حَقَّ عَلَيْهِ الْعَذَابُ﴾ وكان معنى الكلام حينئذ: وكثير أبى السجود، لأن قوله ﴿حَقَّ عَلَيْهِ الْعَذَابُ﴾ يدلّ على معصية الله وإبائه السجود، فاستحقّ بذلك العذاب.
+
+"١٨"
+
+* *
+
+القول في تأويل قوله تعالى: ﴿وَمَنْ يُهِنِ اللَّهُ فَمَا لَهُ مِنْ مُكْرِمٍ إِنَّ اللَّهَ يَفْعَلُ مَا يَشَاءُ (١٧) ﴾
+
+يقول تعالى ذكره: ومن يهنه الله من خلقه فَيُشْقِه، ﴿فَمَا لَهُ مِنْ مُكْرِمٍ﴾ بالسعادة يسعده بها، لأن الأمور كلها بيد الله، يوفِّق من يشاء لطاعته، ويخذل من يشاء، ويُشقي من أراد، ويسعد من أحبّ.
+
+* *
+
+وقوله: ﴿إِنَّ اللَّهَ يَفْعَلُ مَا يَشَاءُ﴾
+
+يقول تعالى ذكره: إن الله يفعل في خلقه ما يشاء من إهانة من أراد إهانته، وإكرام من أراد كرامته، لأن الخلق خلقه والأمر أمره، ﴿لا يسئل عما يفعل وهم يسألون﴾ . وقد ذُكر عن بعضهم أنه قرأه ﴿فَمَا لَهُ مِنْ مُكْرَمٍ﴾ بمعنى: فما له من إكرام، وذلك قراءة لا أستجيز القراءة بها لإجماع الحجة من القرّاء على خلافه.
+
+* *
+
+القول في تأويل قوله تعالى: ﴿هَذَانِ خَصْمَانِ اخْتَصَمُوا فِي رَبِّهِمْ فَالَّذِينَ كَفَرُوا قُطِّعَتْ لَهُمْ ثِيَابٌ مِنْ نَارٍ يُصَبُّ مِنْ فَوْقِ رُءُوسِهِمُ الْحَمِيمُ (١٩) يُصْهَرُ بِهِ مَا فِي بُطُونِهِمْ وَالْجُلُودُ (٢٠) وَلَهُمْ مَقَامِعُ مِنْ حَدِيدٍ (٢١) كُلَّمَا أَرَادُوا أَنْ يَخْرُجُوا مِنْهَا مِنْ غَمٍّ أُعِيدُوا فِيهَا وَذُوقُوا عَذَابَ الْحَرِيقِ (٢٢) ﴾
+
+اختلف أهل التأويل في المعنيّ بهذين الخصمين اللذين ذكرهما الله، فقال بعضهم: أحد الفريقين: أهل الإيمان، والفريق الآخر: عبدة الأوثان من مشركي قريش الذين تبارزوا يوم بدر.
+
+ذكر من قال ذلك:
+
+⁕ حدثني يعقوب، قال: ثنا هشيم، قال: أخبرنا أبو هاشم عن أبي مجلز، عن قيس بن عبادة قال: سمعت أبا ذر يُقْسم قَسَما أن هذه الآية ﴿هَذَانِ خَصْمَانِ اخْتَصَمُوا فِي رَبِّهِمْ﴾ نزلت في الذين بارزوا يوم بدر: حمزة وعليّ وعبيدة بن الحارث وعتبة وشيبة ابني ربيعة والوليد بن عتبة، قال: وقال علىّ: إني لأوّل، أو من أوّل من يجثو للخصومة يوم القيامة بين يدي الله تبارك وتعالى.
+
+⁕ حدثنا عليّ بن سهل، قال: ثنا مؤمل، قال: ثنا سفيان، عن أبي هاشم، عن أبي مجلز، عن قيس بن عباد، قال: سمعت أبا ذرّ يقسم بالله قسما: لنزلت هذه الآية في ستة من قريش حمزة بن عبد المطلب وعليّ بن أبي طالب، وعبيدة بن الحارث رضي الله عنهم، وعتبة بن ربيعة، وشيبة بن ربيعة، والوليد بن عتبة ﴿هَذَانِ خَصْمَانِ اخْتَصَمُوا فِي رَبِّهِمْ﴾ . .. إلى آخر الآية ﴿إِنَّ اللَّهَ يُدْخِلُ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ﴾ ... إلى آخر الآية.
+
+⁕ حدثنا ابن بشار، قال: ثنا عبد الرحمن، قال: ثنا سفيان، عن أبي هاشم، عن أبي مجلز، عن قيس بن عباد، قال: سمعت أبا ذرّ يقسم، ثم ذكر نحوه.
+
+⁕ حدثنا ابن بشار، قال: ثنا محمد بن محبب، قال: ثنا سفيان، عن منصور بن المعتمر، عن هلال بن يساف، قال: نزلت هذه الآية في الذين تبارزوا يوم بدر ﴿هَذَانِ خَصْمَانِ اخْتَصَمُوا فِي رَبِّهِمْ﴾ .
+
+⁕ حدثنا ابن حميد، قال: ثنا سلمة بن الفضل، قال: ثني محمد بن إسحاق، عن بعض أصحابه، عن عطاء بن يسار، قال: نزلت هؤلاء الآيات: ﴿هَذَانِ خَصْمَانِ اخْتَصَمُوا فِي رَبِّهِمْ﴾ في الذين تبارزوا يوم بدر: حمزة، وعلي، وعبيدة بن الحارث، وعتبة بن ربيعة، وشيبة بن ربيعة، والوليد بن عتبة. إلى قوله ﴿وَهُدُوا إِلَى صِرَاطِ الْحَمِيدِ﴾ .
+
+⁕ قال: ثنا جرير، عن منصور، عن أبي هاشم، عن أبي مُجَلِّز، عن قيس بن عباد، قال: والله لأنزلت هذه الآية: ﴿هَذَانِ خَصْمَانِ اخْتَصَمُوا فِي رَبِّهِمْ﴾ في الذين خرج بعضهم إلى بعض يوم بدر: حمزة، وعليّ، وعبيدة رحمة الله عليهم، وشيبة، وعتبة، والوليد بن عتبة.
+
+وقال آخرون: ممن قال أحد الفرقين فريق الإيمان، بل الفريق الآخر أهل الكتاب.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس، قوله: ﴿هَذَانِ خَصْمَانِ اخْتَصَمُوا فِي رَبِّهِمْ﴾ قال: هم أهل الكتاب، قالوا للمؤمنين: نحن أولى بالله، وأقدم منكم كتابا، ونبينا قبل نبيكم، وقال المؤمنون: نحن أحقّ بالله، آمنا بمحمد ﷺ، وآمنا بنبيكم، وبما أنزل الله من كتاب، فأنتم تعرفون كتابنا ونبينا، ثم تركتموه وكفرتم به حسدا. وكان ذلك خصومتهم في ربهم.
+
+وقال آخرون منهم: بل الفريق الآخر الكفار كلهم من أيّ ملة كانوا.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا القاسم، قال: ثنا الحسين، قال: ثني حجاج، قال: ثنا أبو تُمَيلة، عن أبي حمزة، عن جابر، عن مجاهد وعطاء بن أبي رَباح، وأبي قزعة، عن الحسين، قال: هم الكافرون والمؤمنون اختصموا في ربهم.
+
+⁕ قال ثنا الحسين، قال: ثني حجاج، عن ابن جُرَيج، عن مجاهد: مثل الكافر والمؤمن. قال ابن جُرَيج: خصومتهم التي اختصموا في ربهم، خصومتهم في الدنيا من أهل كل دين، يرون أنهم أولى بالله من غيرهم.
+
+⁕ حدثنا أبو كريب، قال: ثنا أبو بكر بن عياش، قال: كان عاصم والكلبي يقولان جميعا في ﴿هَذَانِ خَصْمَانِ اخْتَصَمُوا فِي رَبِّهِمْ﴾ قال: أهل الشرك والإسلام حين اختصموا أيهم أفضل، قال: جعل الشرك ملة.
+
+⁕ حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى، وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء جميعا، عن ابن أبي نجيح، عن مجاهد، في قوله: ﴿هَذَانِ خَصْمَانِ اخْتَصَمُوا فِي رَبِّهِمْ﴾ قال: مثل المؤمن والكافر اختصامهما في البعث.
+
+وقال آخرون: الخصمان اللذان ذكرهما الله في هذه الآية: الجنة والنار.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا القاسم، قال: ثنا الحسين، قال: ثنا أبو تميلة، عن أبي حمزة، عن جابر، عن عكرمة في ﴿هَذَانِ خَصْمَانِ اخْتَصَمُوا فِي رَبِّهِمْ﴾ قال: هما الجنة والنار اختصمتا، فقالت النار: خلقني الله لعقوبته وقالت الجنة: خلقني الله لرحمته، فقد قصّ الله عليك من خبرهما ما تسمع.
+
+وأولى هذه الأقوال عندي بالصواب، وأشبهها بتأويل الآية، قول من قال: عني بالخصمين جميع الكفار من أيّ أصناف الكفر كانوا وجميع المؤمنين، وإنما قلت ذلك أولى بالصواب، لأنه تعالى ذكره ذكر قبل ذلك صنفين من خلقه: أحدهما أهل طاعة له بالسجود له، والآخر: أهل معصية له، قد حقّ عليه العذاب، فقال: ﴿أَلَمْ تَرَ أَنَّ اللَّهَ يَسْجُدُ لَهُ مَنْ فِي السَّمَاوَاتِ وَمَنْ فِي الأرْضِ وَالشَّمْسُ وَالْقَمَرُ﴾ ثم قال: ﴿وَكَثِيرٌ مِنَ النَّاسِ وَكَثِيرٌ حَقَّ عَلَيْهِ الْعَذَابُ﴾ ، ثم أتبع ذلك صفة الصنفين كليهما وما هو فاعل بهما، فقال: ﴿فَالَّذِينَ كَفَرُوا قُطِّعَتْ لَهُمْ ثِيَابٌ مِنْ نَارٍ﴾ وقال الله ﴿إِنَّ اللَّهَ يُدْخِلُ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الأنْهَارُ﴾ ؛ فكان بيِّنا بذلك أن ما بين ذلك خبر عنهما.
+
+فإن قال قائل: فما أنت قائل فيما رُوي عن أبي ذرّ إنَّ ذَلكَ نزل في الذين بارزوا يوم بدر؟ قيل: ذلك إن شاء الله كما روي عنه، ولكن الآية قد تنزل بسبب من الأسباب، ثم تكون عامة في كل ما كان نظير ذلك السبب، وهذه من تلك، وذلك أن الذين تبارزوا إنما كان أحد الفريقين أهل شرك وكفر بالله، والآخر أهل إيمان بالله وطاعة له، فكل كافر في حكم فريق الشرك منهما في أنه لأهل الإيمان خصم، وكذلك كل مؤمن في حكم فريق الإيمان منهما في أنه لأهل الشرك خصم.
+
+فتأويل الكلام: هذان خصمان اختصموا في دين ربهم، واختصامهم في ذلك معاداة كل فريق منهما الفريق الآخر ومحاربته إياه على دينه.
+
+* *
+
+وقوله: ﴿فَالَّذِينَ كَفَرُوا قُطِّعَتْ لَهُمْ ثِيَابٌ مِنْ نَارٍ﴾
+
+يقول تعالى ذكره: فأما الكافر بالله منهما فانه يقطع له قميص من نحاس من نار.
+
+كما:-
+
+⁕ حدثنا القاسم، قال: ثنا الحسين، قال: ثني حجاج، عن ابن جُرَيج، عن مجاهد: ﴿فَالَّذِينَ كَفَرُوا قُطِّعَتْ لَهُمْ ثِيَابٌ مِنْ نَارٍ﴾ قال: الكافر قطعت له ثياب من نار، والمؤمن يدخله الله جنات تجري من تحتها الأنهار.
+
+⁕ حدثنا ابن حميد، قال: ثنا يعقوب، عن جعفر، عن سعيد، في قوله: ﴿فَالَّذِينَ كَفَرُوا قُطِّعَتْ لَهُمْ ثِيَابٌ مِنْ نَارٍ﴾ قال: ثياب من نحاس، وليس شيء من الآنية أحمى وأشد حرّا منه.
+
+⁕ حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى؛ وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء جميعا، عن ابن أبي نجيح، عن مجاهد، قال: الكفار قطعت لهم ثياب من نار، والمؤمن يدخل جنات تجري من تحتها الأنهار.
+
+* *
+
+وقوله: ﴿يُصَبُّ مِنْ فَوْقِ رُءُوسِهِمُ الْحَمِيمُ﴾
+
+يقول: يصبّ على رءوسهم ماء مُغْلًى.
+
+كما:-
+
+⁕ حدثنا محمد بن المثنى، قال: ثنا إبراهيم بن إسحاق الطَّالقانيّ، قال: ثنا ابن المبارك، عن سعيد بن زيد، عن أبي السَّمْح، عن ابن جُحيرة، عن أبي هريرة، عن النبيّ ﷺ، قال: "إنَّ الحَمِيمَ لَيُصَبُّ على رُءوسِهمْ، فَيَنْفُذُ الجُمْجمَةَ حتى يَخْلُص إلى جَوْفِهِ، فَيَسْلُت ما في جَوْفِهِ حتى يَبْلُغَ قَدَمَيْهِ، وَهِيَ الصَّهْرُ، ثُمَّ يُعادُ كَما كان".
+
+⁕ حدثني محمد بن المثنى، قال: ثنا يعمر بن بشر، قال: ثنا ابن المبارك، قال: أخبرنا سعيد بن زيد، عن أبي السمح، عن ابن جحيرة، عن أبي هريرة، عن النبي ﷺ بمثله، إلا أنه قال: "فَيَنْفُذُ الجُمْجُمَةَ حتى يَخْلُص إلى جَوفِهِ فَيَسْلت [[يسلت في جوفه من باب نصر: أي يقطعه ويستأصله.]] مَا في جَوْفِهِ".
+
+وكان بعضهم يزعم أن قوله ﴿وَلَهُمْ مَقَامِعُ مِنْ حَدِيدٍ﴾ من المؤخَّر الذي معناه التقديم، ويقول: وجه الكلام: فالذين كفروا قطعت لهم ثياب من نار، ولهم مقامع من حديد يصبّ من فوق رءوسهم الحميم ويقول: إنما وجب أن يكون ذلك كذلك، لأن الملك يضربه بالمقمع من الحديد حتى يثقب رأسه، ثم يصبّ فيه الحميم الذي انتهى حرّه فيقطع بطنه. والخبر عن رسول الله ﷺ الذي ذكرنا، يدلّ على خلاف ما قال هذا القائل، وذلك أنه ﷺ أخبر أن الحميم إذا صبّ على رءوسهم نفذ الجمجمة حتى يخلص إلى أجوافهم، وبذلك جاء تأويل أهل التأويل، ولو كانت المقامع قد تثقب رءوسهم قبل صبّ الحميم عليها، لم يكن لقوله ﷺ: "إنَّ الحَمِيمَ يَنْفُذُ الجُمْجُمَة" معنى: ولكن الأمر في ذلك بخلاف ما قال هذا القائل.
+
+* *
+
+وقوله: ﴿يُصْهَرُ بِهِ مَا فِي بُطُونِهِمْ وَالْجُلُودُ﴾
+
+يقول: يذاب بالحميم الذي يصبّ من فوق رءوسهم ما في بطونهم من الشحوم، وتشوى جلودهم منه فتتساقط، والصهر: هو الإذابة، يقال منه: صهرت الألية بالنار: إذا أذبتها أصهرها صهرا؛ ومنه قول الشاعر.
+
+تَرْوِي لَقًى أُلْقِي في صَفْصَفٍ ... تَصْهَرُهُ الشَّمْسُ وَلا يَنْصَهِر [[البيت لابن أحمر يصف فرخ قطاة (اللسان: صهر) قال: وصهرته الشمس تصهره صهرا، وصهرته: اشتد وقعها عليه وحرها حتى آلم دماغه، وانصهر هو، قال ابن أحمر يصف فرخ قطاة. . . البيت؛ أي تذيبه الشمس، فيصبر على ذلك. وتروى تسوق إليه الماء، أي تصير له كالرواية؛ يقال: رويت أهلي وعليهم ريا: أتيتهم بالماء. والصهر: إذابة الشحم، صهر الشحم يصهره صهرا: أذابه. وفي التنزيل: يُصْهَرُ بِهِ مَا فِي بُطُونِهِمْ وَالْجُلُودُ أي يذاب. واصطهره: أذابه وأكله. أه. واللقي: كل شيء مطروح متروك كاللقطة. والصفصف: أرض ملساء مستوية، كما في اللسان. أه.]]
+
+ومنه قول الراجز:
+
+شَكَّ السَّفافِيدِ الشَّوَاءَ المُصْطَهَرْ [[البيت للعجاج بن رؤبة الراجز المشهور (اللسان: صهر) قال الأزهري: الصهر إذابة الشحم، والصهارة: ما ذاب منه وكذلك الاصطهار في إذابة، أو أكل صهارته. وقال العجاج: (شك السفافيد. . . . البيت) . والبيت شاهد مثل الذي قبله على أن الصهر معناه الإذابة.]]
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى؛ وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء جميعا، عن ابن أبي نجيح، عن مجاهد، في قوله: ﴿يُصْهَرُ بِهِ﴾ قال: يُذاب إذابة.
+
+⁕ حدثنا القاسم، قال: ثنا الحسين، قال: ثني حجاج، عن ابن جُرَيج، عن مجاهد، مثله. قال ابن جُرَيج ﴿يُصْهَرُ بِهِ﴾ قال: ما قطع لهم من العذاب.
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قَتادة: ﴿يُصْهَرُ بِهِ مَا فِي بُطُونِهِمْ﴾ قال: يُذاب به ما في بطونهم.
+
+⁕ حدثنا الحسن، قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر، عن قتادة، مثله.
+
+⁕ حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال ثني أبي، عن أبيه، عن ابن عباس، قوله: ﴿فَالَّذِينَ كَف
+
+[TRUNCATED at 12000 chars — 1564 more. Consult the source directly before relying on anything near the cut.]
 
 ### al-Muyassar (Arabic)
 
@@ -90,7 +714,65 @@ The Rea...
 
 These two opponents dispute with each other about their Lord; then as for those who disbelieved, garments of fire will be cut out for them, boiling water will be poured down over their heads (19)With it will melt (or vanish away) what is within their bellies, as well as (their) skins (20)And for them are hooked rods of iron (21)Every time they seek to get away therefrom, from anguish, they will be driven back therein, and (it will be) said to them: "Taste the torment of burning! (22)
 
-The Rea...
+The Reason for Revelation
+
+It was recorded in the Two Sahihs that Abu Dharr swore that this Ayah –
+
+هَٰذَانِ خَصْمَانِ اخْتَصَمُوا فِي رَبِّهِمْ
+
+(These two opponents dispute with each other about their Lord;) was revealed concerning Hamzah and his two companions, and 'Utbah and his two companions, on the day of Badr when they came forward to engage in single combat. This is the wording of Al-Bukhari in his Tafsir of this Ayah. Then Al-Bukhari recorded that 'Ali bin Abi Talib said, "I will be the first one to kneel down before the Most Merciful so that the dispute may be settled on the Day of Resurrection." Qays (sub-narrator) said, "Concerning them the Ayah was revealed:
+
+هَٰذَانِ خَصْمَانِ اخْتَصَمُوا فِي رَبِّهِمْ
+
+(These two opponents dispute with each other about their Lord;)
+
+He (Qays) said, "They are the ones who came forward (for single combat) on the day of Badr: 'Ali, Hamzah and 'Ubaydah vs., Shaybah bin Rabi'ah, 'Utbah bin Rabi'ah and Al-Walid bin 'Utbah." This was reported only by Al-Bukhari.
+
+Ibn Abi Najih reported that Mujahid commented on this Ayah, "Such as the disbeliever and the believer disputing about the Resurrection." According to one report Mujahid and 'Ata' commented on this Ayah, "This refers to the believers and the disbelievers."
+
+The view of Mujahid and 'Ata' that this refers to the disbelievers and the believers, includes all opinions, the story of Badr as well as the others. For the believers want to support the religion of Allah, while the disbelievers want to extinguish the light of faith and to defeat the truth and cause falsehood to prevail. This was the view favored by Ibn Jarir, and it is good.
+
+The Punishment of the Disbelievers
+
+فَالَّذِينَ كَفَرُوا قُطِّعَتْ لَهُمْ ثِيَابٌ مِّن نَّارٍ
+
+(then as for those who disbelieved, garments of fire will be cut out for them,) meaning, pieces of fire will be prepared for them. Sa'id bin Jubayr said: "Of copper, for it is the hottest of things when it is heated."
+
+يُصَبُّ مِن فَوْقِ رُءُوسِهِمُ الْحَمِيمُ - يُصْهَرُ بِهِ مَا فِي بُطُونِهِمْ وَالْجُلُودُ
+
+(boiling water will be poured down over their heads. With it will melt (or vanish away) what is within their bellies, as well as (their) skins.) meaning, when the boiling water – which is water that has been heated to the ultimate degree – is poured down over their heads.
+
+Ibn Jarir recorded from Abu Hurayrah that the Prophet ﷺ said:
+
+إِنَّ الْحَمِيمَ لَيُصَبُّ عَلَى رُؤُوسِهِمْ فَيَنْفُذُ الْجُمْجُمَةَ حَتَّى يَخْلُصَ إِلَى جَوْفِهِ، فَيَسْلُتَ مَا فِي جَوْفِهِ حَتَّى يَبْلُغَ قَدَمَيْهِ، وَهُوَ الصِّهْرُ، ثُمَّ يُعَادُ كَمَا كَانَ
+
+(The boiling water will be poured over their heads and will penetrate their skulls until it reaches what is inside, and what is inside will melt until it reaches their feet. This is the melting, then he will be restored to the state he was before.)
+
+It was also recorded by At-Tirmidhi, who said it is Hasan Sahih. This was also recorded by Ibn Abi Hatim, who then recorded that 'Abdullah bin As-Sariy said, "The angel will come to him, carrying the vessel with a pair of tongs because of its heat. When he brings it near to his face, he will shy away from it. He will raise a hammer that he is carrying and will strike his head with it, and his brains will spill out, then he will pour the brains back into his head. This is what Allah says in the Ayah:
+
+يُصْهَرُ بِهِ مَا فِي بُطُونِهِمْ وَالْجُلُودُ
+
+(With it will melt what is within their bellies, as well as (their) skins.)"
+
+وَلَهُم مَّقَامِعُ مِنْ حَدِيدٍ
+
+(And for them are hooked rods of iron.) Ibn 'Abbas said, "They will be struck with them, and with each blow, a limb will be severed, and they will cry out for oblivion."
+
+كُلَّمَا أَرَادُوا أَن يَخْرُجُوا مِنْهَا مِنْ غَمٍّ أُعِيدُوا فِيهَا
+
+(Every time they seek to get away therefrom, from anguish, they will be driven back therein,) Al-A'mash reported from Abu Zibiyan that Salman said, "The fire of Hell is black and dark; its flames and coals do not glow or shine." Then he recited:
+
+كُلَّمَا أَرَادُوا أَن يَخْرُجُوا مِنْهَا مِنْ غَمٍّ أُعِيدُوا فِيهَا
+
+(Every time they seek to get away therefrom, from anguish, they will be driven back therein,)
+
+وَذُوقُوا عَذَابَ الْحَرِيقِ
+
+("Taste the torment of burning!") This is like the Ayah:
+
+وَقِيلَ لَهُمْ ذُوقُوا عَذَابَ النَّارِ الَّذِي كُنتُم بِهِ تُكَذِّبُونَ
+
+(and it will be said to them: "Taste you the torment of the Fire which you used to deny.")(32:20). The meaning is that they will be humiliated by words and actions.
 
 ### al-Tabari (Arabic)
 
@@ -98,7 +780,157 @@ The Rea...
 
 يقول تعالى ذكره لنبيه محمد ﷺ:
 
-ألم تر يا محمد بقلبك، فتعلم أن الله يسجد له من في السماوات من الملائكة، ومن في الأرض من الخلق من الجنّ وغيرهم، والشمس والقمر والنجوم في السماء، والجبال، والشجر، والدوابّ في الأرض، وسجود ذلك ظلاله حين تطلع عليه الشمس، و...
+ألم تر يا محمد بقلبك، فتعلم أن الله يسجد له من في السماوات من الملائكة، ومن في الأرض من الخلق من الجنّ وغيرهم، والشمس والقمر والنجوم في السماء، والجبال، والشجر، والدوابّ في الأرض، وسجود ذلك ظلاله حين تطلع عليه الشمس، وحين تزول، إذا تحولّ ظلّ كل شيء فهو سجوده.
+
+كما:-
+
+⁕ حدثنا القاسم، قال: ثنا الحسين، قال: ثني حجاج، عن ابن جُرَيج، عن مجاهد، قوله: ﴿أَلَمْ تَرَ أَنَّ اللَّهَ يَسْجُدُ لَهُ مَنْ فِي السَّمَاوَاتِ وَمَنْ فِي الأرْضِ وَالشَّمْسُ وَالْقَمَرُ وَالنُّجُومُ وَالْجِبَالُ وَالشَّجَرُ وَالدَّوَابُّ﴾ قال: ظلال هذا كله.
+
+وأما سجود الشمس والقمر والنجوم، فإنه
+
+كما:-
+
+⁕ حدثنا به ابن بشار، قال: ثنا ابن أبي عديّ ومحمد بن جعفر، قالا ثنا عوف، قال: سمعت أبا العالية الرياحي يقول: ما في السماء نجم ولا شمس ولا قمر، إلا يقع لله ساجدا حين يغيب، ثم لا ينصرف حتى يؤذن له، فيأخذ ذات اليمين، وزاد محمد: حتى يرجع إلى مطلعه.
+
+* *
+
+وقوله: ﴿وَكَثِيرٌ مِنَ النَّاسِ﴾
+
+يقول: ويسجد كثير من بني آدم، وهم المؤمنون بالله.
+
+كما:-
+
+⁕ حدثنا القاسم، قال: ثنا الحسين، قال: ثني حجاج، عن ابن جُرَيج، عن مجاهد: ﴿وَكَثِيرٌ مِنَ النَّاسِ﴾ قال: المؤمنون.
+
+* *
+
+وقوله: ﴿وَكَثِيرٌ حَقَّ عَلَيْهِ الْعَذَابُ﴾
+
+يقول تعالى ذكره: وكثير من بني آدم حقّ عليه عذاب الله، فوجب عليه بكفره به، وهو مع ذلك يسجد لله ظله.
+
+كما:-
+
+⁕ حدثنا القاسم، قال: ثنا الحسين، قال: ثني حجاج، عن ابن جُرَيج، عن مجاهد ﴿وَكَثِيرٌ حَقَّ عَلَيْهِ الْعَذَابُ﴾ وهو يسجد مع ظله، فعلى هذا التأويل الذي ذكرناه عن مجاهد، وقع قوله ﴿وَكَثِيرٌ حَقَّ عَلَيْهِ الْعَذَابُ﴾ بالعطف على قوله ﴿وَكَثِيرٌ مِنَ النَّاسِ﴾ ويكون داخلا في عداد من وصفه الله بالسجود له، ويكون قوله ﴿حَقَّ عَلَيْهِ الْعَذَابُ﴾ من صلة كثير، ولو كان "الكثير الثاني من لم يدخل في عداد من وصف بالسجود كان مرفوعا بالعائد من ذكره في قوله: ﴿حَقَّ عَلَيْهِ الْعَذَابُ﴾ وكان معنى الكلام حينئذ: وكثير أبى السجود، لأن قوله ﴿حَقَّ عَلَيْهِ الْعَذَابُ﴾ يدلّ على معصية الله وإبائه السجود، فاستحقّ بذلك العذاب.
+
+"١٨"
+
+* *
+
+القول في تأويل قوله تعالى: ﴿وَمَنْ يُهِنِ اللَّهُ فَمَا لَهُ مِنْ مُكْرِمٍ إِنَّ اللَّهَ يَفْعَلُ مَا يَشَاءُ (١٧) ﴾
+
+يقول تعالى ذكره: ومن يهنه الله من خلقه فَيُشْقِه، ﴿فَمَا لَهُ مِنْ مُكْرِمٍ﴾ بالسعادة يسعده بها، لأن الأمور كلها بيد الله، يوفِّق من يشاء لطاعته، ويخذل من يشاء، ويُشقي من أراد، ويسعد من أحبّ.
+
+* *
+
+وقوله: ﴿إِنَّ اللَّهَ يَفْعَلُ مَا يَشَاءُ﴾
+
+يقول تعالى ذكره: إن الله يفعل في خلقه ما يشاء من إهانة من أراد إهانته، وإكرام من أراد كرامته، لأن الخلق خلقه والأمر أمره، ﴿لا يسئل عما يفعل وهم يسألون﴾ . وقد ذُكر عن بعضهم أنه قرأه ﴿فَمَا لَهُ مِنْ مُكْرَمٍ﴾ بمعنى: فما له من إكرام، وذلك قراءة لا أستجيز القراءة بها لإجماع الحجة من القرّاء على خلافه.
+
+* *
+
+القول في تأويل قوله تعالى: ﴿هَذَانِ خَصْمَانِ اخْتَصَمُوا فِي رَبِّهِمْ فَالَّذِينَ كَفَرُوا قُطِّعَتْ لَهُمْ ثِيَابٌ مِنْ نَارٍ يُصَبُّ مِنْ فَوْقِ رُءُوسِهِمُ الْحَمِيمُ (١٩) يُصْهَرُ بِهِ مَا فِي بُطُونِهِمْ وَالْجُلُودُ (٢٠) وَلَهُمْ مَقَامِعُ مِنْ حَدِيدٍ (٢١) كُلَّمَا أَرَادُوا أَنْ يَخْرُجُوا مِنْهَا مِنْ غَمٍّ أُعِيدُوا فِيهَا وَذُوقُوا عَذَابَ الْحَرِيقِ (٢٢) ﴾
+
+اختلف أهل التأويل في المعنيّ بهذين الخصمين اللذين ذكرهما الله، فقال بعضهم: أحد الفريقين: أهل الإيمان، والفريق الآخر: عبدة الأوثان من مشركي قريش الذين تبارزوا يوم بدر.
+
+ذكر من قال ذلك:
+
+⁕ حدثني يعقوب، قال: ثنا هشيم، قال: أخبرنا أبو هاشم عن أبي مجلز، عن قيس بن عبادة قال: سمعت أبا ذر يُقْسم قَسَما أن هذه الآية ﴿هَذَانِ خَصْمَانِ اخْتَصَمُوا فِي رَبِّهِمْ﴾ نزلت في الذين بارزوا يوم بدر: حمزة وعليّ وعبيدة بن الحارث وعتبة وشيبة ابني ربيعة والوليد بن عتبة، قال: وقال علىّ: إني لأوّل، أو من أوّل من يجثو للخصومة يوم القيامة بين يدي الله تبارك وتعالى.
+
+⁕ حدثنا عليّ بن سهل، قال: ثنا مؤمل، قال: ثنا سفيان، عن أبي هاشم، عن أبي مجلز، عن قيس بن عباد، قال: سمعت أبا ذرّ يقسم بالله قسما: لنزلت هذه الآية في ستة من قريش حمزة بن عبد المطلب وعليّ بن أبي طالب، وعبيدة بن الحارث رضي الله عنهم، وعتبة بن ربيعة، وشيبة بن ربيعة، والوليد بن عتبة ﴿هَذَانِ خَصْمَانِ اخْتَصَمُوا فِي رَبِّهِمْ﴾ . .. إلى آخر الآية ﴿إِنَّ اللَّهَ يُدْخِلُ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ﴾ ... إلى آخر الآية.
+
+⁕ حدثنا ابن بشار، قال: ثنا عبد الرحمن، قال: ثنا سفيان، عن أبي هاشم، عن أبي مجلز، عن قيس بن عباد، قال: سمعت أبا ذرّ يقسم، ثم ذكر نحوه.
+
+⁕ حدثنا ابن بشار، قال: ثنا محمد بن محبب، قال: ثنا سفيان، عن منصور بن المعتمر، عن هلال بن يساف، قال: نزلت هذه الآية في الذين تبارزوا يوم بدر ﴿هَذَانِ خَصْمَانِ اخْتَصَمُوا فِي رَبِّهِمْ﴾ .
+
+⁕ حدثنا ابن حميد، قال: ثنا سلمة بن الفضل، قال: ثني محمد بن إسحاق، عن بعض أصحابه، عن عطاء بن يسار، قال: نزلت هؤلاء الآيات: ﴿هَذَانِ خَصْمَانِ اخْتَصَمُوا فِي رَبِّهِمْ﴾ في الذين تبارزوا يوم بدر: حمزة، وعلي، وعبيدة بن الحارث، وعتبة بن ربيعة، وشيبة بن ربيعة، والوليد بن عتبة. إلى قوله ﴿وَهُدُوا إِلَى صِرَاطِ الْحَمِيدِ﴾ .
+
+⁕ قال: ثنا جرير، عن منصور، عن أبي هاشم، عن أبي مُجَلِّز، عن قيس بن عباد، قال: والله لأنزلت هذه الآية: ﴿هَذَانِ خَصْمَانِ اخْتَصَمُوا فِي رَبِّهِمْ﴾ في الذين خرج بعضهم إلى بعض يوم بدر: حمزة، وعليّ، وعبيدة رحمة الله عليهم، وشيبة، وعتبة، والوليد بن عتبة.
+
+وقال آخرون: ممن قال أحد الفرقين فريق الإيمان، بل الفريق الآخر أهل الكتاب.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس، قوله: ﴿هَذَانِ خَصْمَانِ اخْتَصَمُوا فِي رَبِّهِمْ﴾ قال: هم أهل الكتاب، قالوا للمؤمنين: نحن أولى بالله، وأقدم منكم كتابا، ونبينا قبل نبيكم، وقال المؤمنون: نحن أحقّ بالله، آمنا بمحمد ﷺ، وآمنا بنبيكم، وبما أنزل الله من كتاب، فأنتم تعرفون كتابنا ونبينا، ثم تركتموه وكفرتم به حسدا. وكان ذلك خصومتهم في ربهم.
+
+وقال آخرون منهم: بل الفريق الآخر الكفار كلهم من أيّ ملة كانوا.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا القاسم، قال: ثنا الحسين، قال: ثني حجاج، قال: ثنا أبو تُمَيلة، عن أبي حمزة، عن جابر، عن مجاهد وعطاء بن أبي رَباح، وأبي قزعة، عن الحسين، قال: هم الكافرون والمؤمنون اختصموا في ربهم.
+
+⁕ قال ثنا الحسين، قال: ثني حجاج، عن ابن جُرَيج، عن مجاهد: مثل الكافر والمؤمن. قال ابن جُرَيج: خصومتهم التي اختصموا في ربهم، خصومتهم في الدنيا من أهل كل دين، يرون أنهم أولى بالله من غيرهم.
+
+⁕ حدثنا أبو كريب، قال: ثنا أبو بكر بن عياش، قال: كان عاصم والكلبي يقولان جميعا في ﴿هَذَانِ خَصْمَانِ اخْتَصَمُوا فِي رَبِّهِمْ﴾ قال: أهل الشرك والإسلام حين اختصموا أيهم أفضل، قال: جعل الشرك ملة.
+
+⁕ حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى، وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء جميعا، عن ابن أبي نجيح، عن مجاهد، في قوله: ﴿هَذَانِ خَصْمَانِ اخْتَصَمُوا فِي رَبِّهِمْ﴾ قال: مثل المؤمن والكافر اختصامهما في البعث.
+
+وقال آخرون: الخصمان اللذان ذكرهما الله في هذه الآية: الجنة والنار.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا القاسم، قال: ثنا الحسين، قال: ثنا أبو تميلة، عن أبي حمزة، عن جابر، عن عكرمة في ﴿هَذَانِ خَصْمَانِ اخْتَصَمُوا فِي رَبِّهِمْ﴾ قال: هما الجنة والنار اختصمتا، فقالت النار: خلقني الله لعقوبته وقالت الجنة: خلقني الله لرحمته، فقد قصّ الله عليك من خبرهما ما تسمع.
+
+وأولى هذه الأقوال عندي بالصواب، وأشبهها بتأويل الآية، قول من قال: عني بالخصمين جميع الكفار من أيّ أصناف الكفر كانوا وجميع المؤمنين، وإنما قلت ذلك أولى بالصواب، لأنه تعالى ذكره ذكر قبل ذلك صنفين من خلقه: أحدهما أهل طاعة له بالسجود له، والآخر: أهل معصية له، قد حقّ عليه العذاب، فقال: ﴿أَلَمْ تَرَ أَنَّ اللَّهَ يَسْجُدُ لَهُ مَنْ فِي السَّمَاوَاتِ وَمَنْ فِي الأرْضِ وَالشَّمْسُ وَالْقَمَرُ﴾ ثم قال: ﴿وَكَثِيرٌ مِنَ النَّاسِ وَكَثِيرٌ حَقَّ عَلَيْهِ الْعَذَابُ﴾ ، ثم أتبع ذلك صفة الصنفين كليهما وما هو فاعل بهما، فقال: ﴿فَالَّذِينَ كَفَرُوا قُطِّعَتْ لَهُمْ ثِيَابٌ مِنْ نَارٍ﴾ وقال الله ﴿إِنَّ اللَّهَ يُدْخِلُ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الأنْهَارُ﴾ ؛ فكان بيِّنا بذلك أن ما بين ذلك خبر عنهما.
+
+فإن قال قائل: فما أنت قائل فيما رُوي عن أبي ذرّ إنَّ ذَلكَ نزل في الذين بارزوا يوم بدر؟ قيل: ذلك إن شاء الله كما روي عنه، ولكن الآية قد تنزل بسبب من الأسباب، ثم تكون عامة في كل ما كان نظير ذلك السبب، وهذه من تلك، وذلك أن الذين تبارزوا إنما كان أحد الفريقين أهل شرك وكفر بالله، والآخر أهل إيمان بالله وطاعة له، فكل كافر في حكم فريق الشرك منهما في أنه لأهل الإيمان خصم، وكذلك كل مؤمن في حكم فريق الإيمان منهما في أنه لأهل الشرك خصم.
+
+فتأويل الكلام: هذان خصمان اختصموا في دين ربهم، واختصامهم في ذلك معاداة كل فريق منهما الفريق الآخر ومحاربته إياه على دينه.
+
+* *
+
+وقوله: ﴿فَالَّذِينَ كَفَرُوا قُطِّعَتْ لَهُمْ ثِيَابٌ مِنْ نَارٍ﴾
+
+يقول تعالى ذكره: فأما الكافر بالله منهما فانه يقطع له قميص من نحاس من نار.
+
+كما:-
+
+⁕ حدثنا القاسم، قال: ثنا الحسين، قال: ثني حجاج، عن ابن جُرَيج، عن مجاهد: ﴿فَالَّذِينَ كَفَرُوا قُطِّعَتْ لَهُمْ ثِيَابٌ مِنْ نَارٍ﴾ قال: الكافر قطعت له ثياب من نار، والمؤمن يدخله الله جنات تجري من تحتها الأنهار.
+
+⁕ حدثنا ابن حميد، قال: ثنا يعقوب، عن جعفر، عن سعيد، في قوله: ﴿فَالَّذِينَ كَفَرُوا قُطِّعَتْ لَهُمْ ثِيَابٌ مِنْ نَارٍ﴾ قال: ثياب من نحاس، وليس شيء من الآنية أحمى وأشد حرّا منه.
+
+⁕ حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى؛ وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء جميعا، عن ابن أبي نجيح، عن مجاهد، قال: الكفار قطعت لهم ثياب من نار، والمؤمن يدخل جنات تجري من تحتها الأنهار.
+
+* *
+
+وقوله: ﴿يُصَبُّ مِنْ فَوْقِ رُءُوسِهِمُ الْحَمِيمُ﴾
+
+يقول: يصبّ على رءوسهم ماء مُغْلًى.
+
+كما:-
+
+⁕ حدثنا محمد بن المثنى، قال: ثنا إبراهيم بن إسحاق الطَّالقانيّ، قال: ثنا ابن المبارك، عن سعيد بن زيد، عن أبي السَّمْح، عن ابن جُحيرة، عن أبي هريرة، عن النبيّ ﷺ، قال: "إنَّ الحَمِيمَ لَيُصَبُّ على رُءوسِهمْ، فَيَنْفُذُ الجُمْجمَةَ حتى يَخْلُص إلى جَوْفِهِ، فَيَسْلُت ما في جَوْفِهِ حتى يَبْلُغَ قَدَمَيْهِ، وَهِيَ الصَّهْرُ، ثُمَّ يُعادُ كَما كان".
+
+⁕ حدثني محمد بن المثنى، قال: ثنا يعمر بن بشر، قال: ثنا ابن المبارك، قال: أخبرنا سعيد بن زيد، عن أبي السمح، عن ابن جحيرة، عن أبي هريرة، عن النبي ﷺ بمثله، إلا أنه قال: "فَيَنْفُذُ الجُمْجُمَةَ حتى يَخْلُص إلى جَوفِهِ فَيَسْلت [[يسلت في جوفه من باب نصر: أي يقطعه ويستأصله.]] مَا في جَوْفِهِ".
+
+وكان بعضهم يزعم أن قوله ﴿وَلَهُمْ مَقَامِعُ مِنْ حَدِيدٍ﴾ من المؤخَّر الذي معناه التقديم، ويقول: وجه الكلام: فالذين كفروا قطعت لهم ثياب من نار، ولهم مقامع من حديد يصبّ من فوق رءوسهم الحميم ويقول: إنما وجب أن يكون ذلك كذلك، لأن الملك يضربه بالمقمع من الحديد حتى يثقب رأسه، ثم يصبّ فيه الحميم الذي انتهى حرّه فيقطع بطنه. والخبر عن رسول الله ﷺ الذي ذكرنا، يدلّ على خلاف ما قال هذا القائل، وذلك أنه ﷺ أخبر أن الحميم إذا صبّ على رءوسهم نفذ الجمجمة حتى يخلص إلى أجوافهم، وبذلك جاء تأويل أهل التأويل، ولو كانت المقامع قد تثقب رءوسهم قبل صبّ الحميم عليها، لم يكن لقوله ﷺ: "إنَّ الحَمِيمَ يَنْفُذُ الجُمْجُمَة" معنى: ولكن الأمر في ذلك بخلاف ما قال هذا القائل.
+
+* *
+
+وقوله: ﴿يُصْهَرُ بِهِ مَا فِي بُطُونِهِمْ وَالْجُلُودُ﴾
+
+يقول: يذاب بالحميم الذي يصبّ من فوق رءوسهم ما في بطونهم من الشحوم، وتشوى جلودهم منه فتتساقط، والصهر: هو الإذابة، يقال منه: صهرت الألية بالنار: إذا أذبتها أصهرها صهرا؛ ومنه قول الشاعر.
+
+تَرْوِي لَقًى أُلْقِي في صَفْصَفٍ ... تَصْهَرُهُ الشَّمْسُ وَلا يَنْصَهِر [[البيت لابن أحمر يصف فرخ قطاة (اللسان: صهر) قال: وصهرته الشمس تصهره صهرا، وصهرته: اشتد وقعها عليه وحرها حتى آلم دماغه، وانصهر هو، قال ابن أحمر يصف فرخ قطاة. . . البيت؛ أي تذيبه الشمس، فيصبر على ذلك. وتروى تسوق إليه الماء، أي تصير له كالرواية؛ يقال: رويت أهلي وعليهم ريا: أتيتهم بالماء. والصهر: إذابة الشحم، صهر الشحم يصهره صهرا: أذابه. وفي التنزيل: يُصْهَرُ بِهِ مَا فِي بُطُونِهِمْ وَالْجُلُودُ أي يذاب. واصطهره: أذابه وأكله. أه. واللقي: كل شيء مطروح متروك كاللقطة. والصفصف: أرض ملساء مستوية، كما في اللسان. أه.]]
+
+ومنه قول الراجز:
+
+شَكَّ السَّفافِيدِ الشَّوَاءَ المُصْطَهَرْ [[البيت للعجاج بن رؤبة الراجز المشهور (اللسان: صهر) قال الأزهري: الصهر إذابة الشحم، والصهارة: ما ذاب منه وكذلك الاصطهار في إذابة، أو أكل صهارته. وقال العجاج: (شك السفافيد. . . . البيت) . والبيت شاهد مثل الذي قبله على أن الصهر معناه الإذابة.]]
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى؛ وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء جميعا، عن ابن أبي نجيح، عن مجاهد، في قوله: ﴿يُصْهَرُ بِهِ﴾ قال: يُذاب إذابة.
+
+⁕ حدثنا القاسم، قال: ثنا الحسين، قال: ثني حجاج، عن ابن جُرَيج، عن مجاهد، مثله. قال ابن جُرَيج ﴿يُصْهَرُ بِهِ﴾ قال: ما قطع لهم من العذاب.
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قَتادة: ﴿يُصْهَرُ بِهِ مَا فِي بُطُونِهِمْ﴾ قال: يُذاب به ما في بطونهم.
+
+⁕ حدثنا الحسن، قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر، عن قتادة، مثله.
+
+⁕ حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال ثني أبي، عن أبيه، عن ابن عباس، قوله: ﴿فَالَّذِينَ كَف
+
+[TRUNCATED at 12000 chars — 1564 more. Consult the source directly before relying on anything near the cut.]
 
 ### al-Muyassar (Arabic)
 

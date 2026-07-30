@@ -1,6 +1,6 @@
 # Tafsir Cross-Reference Report
 
-Generated: 2026-04-09
+Generated: 2026-07-30
 Ayahs referenced: 11
 Tafsir sources: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), al-Jalalayn (Arabic)
 
@@ -10,20 +10,87 @@ Tafsir sources: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), 
 
 ### Ibn Kathir (English)
 
-ذَلِكَ أَن لَّمْ يَكُنْ رَّبُّكَ مُهْلِكَ الْقُرَى بِظُلْمٍ وَأَهْلُهَا غَـفِلُونَ
-(This is because your Lord would not destroy the (populations of) towns for their wrongdoing while their people were unaware. ) meaning: `We sent the Messengers and revealed the Books to the Jinns and mankind, so that no one has an excuse that he is being punished for his wrongs although he did not receive Allah's Message. Therefore, We did not punish any of the nations, except after sending Messengers to them,...
+This is because your Lord would not destroy the (populations of) towns for their wrongdoing while their people were unaware (131)For all there will be degrees according to what they did. And your Lord is not unaware of what they do.) Allah sai (132)
+
+ذَٰلِكَ أَن لَّمْ يَكُن رَّبُّكَ مُهْلِكَ الْقُرَىٰ بِظُلْمٍ وَأَهْلُهَا غَافِلُونَ
+
+(This is because your Lord would not destroy the (populations of) towns for their wrongdoing while their people were unaware.) meaning: 'We sent the Messengers and revealed the Books to the Jinns and mankind, so that no one has an excuse that he is being punished for his wrongs although he did not receive Allah's Message. Therefore, We did not punish any of the nations, except after sending Messengers to them, so that they have no excuse.' Allah said in other Ayat,
+
+وَإِن مِّنْ أُمَّةٍ إِلَّا خَلَا فِيهَا نَذِيرٌ
+
+(And there never was a nation but a warner had passed among them.)[35:24], and
+
+وَلَقَدْ بَعَثْنَا فِي كُلِّ أُمَّةٍ رَّسُولًا أَنِ اعْبُدُوا اللَّهَ وَاجْتَنِبُوا الطَّاغُوتَ
+
+(And verily, We have sent among every Ummah a Messenger (proclaiming): "Worship Allah, and stay away from At-Taghut (all false deities).")[16:36], and
+
+وَمَا كُنَّا مُعَذِّبِينَ حَتَّىٰ نَبْعَثَ رَسُولًا
+
+(And We never punish until We have sent a Messenger.)[17:15], and,
+
+كُلَّمَا أُلْقِيَ فِيهَا فَوْجٌ سَأَلَهُمْ خَزَنَتُهَا أَلَمْ يَأْتِكُمْ نَذِيرٌ - قَالُوا بَلَىٰ قَدْ جَاءَنَا نَذِيرٌ فَكَذَّبْنَا
+
+(Every time a group is cast therein, its keeper will ask: "Did no warner come to you?" They will say: "Yes, indeed a warner did come to us, but we belied him.")[67:8-9]
+
+There are many other Ayat on this subject. At-Tabari said, "Allah's statement,
+
+وَلِكُلٍّ دَرَجَاتٌ مِّمَّا عَمِلُوا
+
+(For all there will be degrees according to what they did.) means, every person who obeys Allah or behaves disobediently, has grades and ranks according to their works, which Allah gives them as recompense, good for good and evil for evil." I say, it is possible that Allah's statement,
+
+وَلِكُلٍّ دَرَجَاتٌ مِّمَّا عَمِلُوا
+
+(For all there will be degrees according to what they did.) refers to the disbelievers of the Jinns and mankind who will earn a place in the Fire according to their evil deeds. Allah said,
+
+قَالَ لِكُلٍّ ضِعْفٌ
+
+(He will say: "For each one there is double (torment).")[7:38], and,
+
+الَّذِينَ كَفَرُوا وَصَدُّوا عَن سَبِيلِ اللَّهِ زِدْنَاهُمْ عَذَابًا فَوْقَ الْعَذَابِ بِمَا كَانُوا يُفْسِدُونَ
+
+(Those who disbelieved and hinder (others) from the path of Allah, for them We will add torment to the torment because they used to spread corruption.)[16:88] Allah said next,
+
+وَمَا رَبُّكَ بِغَافِلٍ عَمَّا يَعْمَلُونَ
+
+(And your Lord is not unaware of what they do.)
+
+Ibn Jarir commented, "All these deeds that they did, O Muhammad, they did while your Lord is aware of them, and He collects and records these deeds with Him, so that He recompenses them when they meet Him and return to Him.
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله :  ذَلِكَ أَنْ لَمْ يَكُنْ رَبُّكَ مُهْلِكَ الْقُرَى بِظُلْمٍ وَأَهْلُهَا غَافِلُونَ (131)قال أبو جعفر: يقول تعالى ذكره: (ذلك أن لم يكن ربك مهلك القرى بظلم) ، أي: إنما أرسلنا الرسل، يا محمد، إلى من وصفتُ أمرَه, وأعلمتك خبره من مشركي الإنس والجن، يقصون عليهم آياتي وينذرونهم لقاء معادهم إليَّ, من أجل أن ربَّك لم يكن مهلك القرى بظلم .* * *وقد يتَّجه من التأويل في قوله: " بظلم "، وجهان:أحدهما: (ذلك أن لم يكن ربك مهلك القرى بظلم) ، أي: بشرك مَنْ أشرك, وكفر مَنْ كفر من أهلها, كم...
+القول في تأويل قوله: ﴿ذَلِكَ أَنْ لَمْ يَكُنْ رَبُّكَ مُهْلِكَ الْقُرَى بِظُلْمٍ وَأَهْلُهَا غَافِلُونَ (١٣١) ﴾
+
+قال أبو جعفر: يقول تعالى ذكره: ﴿ذلك أن لم يكن ربك مهلك القرى بظلم﴾ ، أي: إنما أرسلنا الرسل، يا محمد، إلى من وصفتُ أمرَه، وأعلمتك خبره من مشركي الإنس والجن، يقصون عليهم آياتي وينذرونهم لقاء معادهم إليَّ، من أجل أن ربَّك لم يكن مهلك القرى بظلم.
+
+* *
+
+وقد يتَّجه من التأويل في قوله:"بظلم"، وجهان:
+
+أحدهما: ﴿ذلك أن لم يكن ربك مهلك القرى بظلم﴾ ، أي: بشرك مَنْ أشرك، وكفر مَنْ كفر من أهلها، كما قال لقمان: ﴿إِنَّ الشِّرْكَ لَظُلْمٌ عَظِيمٌ﴾ ، [سورة لقمان: ١٣] = ﴿وأهلها غافلون﴾ ، يقول: لم يكن يعاجلهم بالعقوبة حتى يبعث إليهم رسلا تنبههم على حجج الله عليهم، وتنذرهم عذاب الله يوم معادهم إليه، ولم يكن بالذي يأخذهم غَفْلة فيقولوا:"ما جاءنا من بَشِيٍر ولا نذير".
+
+* *
+
+والآخر: ﴿ذلك أن لم يكن ربك مهلك القرى بظلم﴾ ، يقول: لم يكن ليهلكهم دون التنبيه والتذكير بالرُّسل والآيات والعبر، فيظلمهم بذلك، والله غير ظلامٍ لعبيده. [[في المطبوعة: ((للعبيد)) ، وأثبت ما في المخطوطة.]]
+
+* *
+
+قال أبو جعفر: وأولى القولين بالصواب عندي، القولُ الأول: أن يكون معناه: أن لم يكن ليهلكهم بشركهم، دون إرسال الرسل إليهم، والإعذار بينه وبينهم. وذلك أن قوله: ﴿ذلك أن لم يكن ربك مهلك القرى بظلم﴾ ، عقيب قوله: ﴿ألم يأتكم رسل منكم يقصُّون عليكم آياتي﴾ ، فكان في ذلك الدليل الواضحُ على أن نصَّ قوله: ﴿ذلك أن لم يكن ربك مهلك القرى بظلم﴾ ، إنما هو: إنما فعلنا ذلك من أجل أنَّا لا نهلك القرى بغير تذكيرٍ وتنبيه. [[انظر معاني القرآن ١: ٣٥٥، فهذا رد على الفراء، وهو صاحب القول الثاني.]]
+
+* *
+
+وأما قوله: ﴿ذلك﴾ ، فإنه يجوز أن يكون نصبًا، بمعنى: فعلنا ذلك = ويجوز أن يكون رفعًا، بمعنى الابتداء، كأنه قال: ذلك كذلك.
+
+* *
+
+وأما"أنْ"، فإنها في موضع نصب، بمعنى: فعلنا ذلك من أجل أنْ لم يكن ربك مهلك القرى= فإذا حذف ما كان يخفضها، تعلق بها الفعل فنصب. [[انظر معاني القرآن للفراء ١: ٣٥٥.]]
 
 ### al-Muyassar (Arabic)
 
-إنما أعذرنا إلى الثقلين بإرسال الرسل وإنزال الكتب، لئلا يؤاخَذَ أحد بظلمه، وهو لم تبلغه دعوة، ولكن أعذرنا إلى الأمم، وما عذَّبنا أحدًا إلا بعد إرسال الرسل إليهم.
+إنما أعذرنا إلى الثقلين بإرسال الرسل وإنزال الكتب؛ لئلا يؤاخَذَ أحد بظلمه، وهو لم تبلغه دعوة، ولكن أعذرنا إلى الأمم، وما عذَّبنا أحدًا إلا بعد إرسال الرسل إليهم.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿ذَلِكَ﴾ أيْ إرْسال الرُّسُل ﴿أنَّ﴾ اللّام مُقَدَّرَة وهِيَ مُخَفَّفَة أيْ لِأَنَّهُ ﴿لَمْ يَكُنْ رَبّك مُهْلِك القُرى بِظُلْمٍ﴾ مِنها ﴿وأَهْلها غافِلُونَ﴾ لَمْ يُرْسَل إلَيْهِمْ رَسُول يُبَيِّن لَهُمْ ؟
 
 ---
 
@@ -31,26 +98,95 @@ Tafsir sources: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), 
 
 ### Ibn Kathir (English)
 
+If you fear treachery from any people, throw back (their covenant) to them (so as to be) on equal terms. Certainly Allah likes not the treacherous.) make a heading, Allah says to His Prophet (pbuh (58)
+
 وَإِمَّا تَخَافَنَّ مِن قَوْمٍ
+
 (If you fear from any people), with whom you have a treaty of peace,
+
 خِيَانَةً
+
 (treachery), and betrayal of peace treaties and agreements that you have conducted with them,
+
 فَانبِذْ إِلَيْهِمْ
+
 (then throw back (their covenant) to them), meaning their treaty of peace.
-عَلَى سَوَآءٍ
-(on equal terms), informing them that you are severing the treaty. This way, you will be on equal terms, in that, you and they will be aware that a state of war exists between you and ...
+
+عَلَىٰ سَوَاءٍ
+
+(on equal terms), informing them that you are severing the treaty. This way, you will be on equal terms, in that, you and they will be aware that a state of war exists between you and that the bilateral peace treaty is null and void,
+
+إِنَّ اللَّهَ لَا يُحِبُّ الْخَائِنِينَ
+
+(Certainly Allah likes not the treacherous.) This even includes treachery against the disbelievers. Imam Ahmad recorded that Salim bin 'Amir said, "Mu'awiyah was leading an army in Roman lands, at a time the bilateral peace treaty was valid. He wanted to go closer to their forces so that when the treaty of peace ended, he could invade them. An old man riding on his animal said, 'Allahu Akbar (Allah is the Great), Allahu Akbar! Be honest and stay away from betrayal.' The Messenger of Allah ﷺ said,
+
+وَمَنْ كَانَ بَيْنَهُ وَبَيْنَ قَوْمٍ عَهْدٌ فَلَا يَحُلَّنَّ عُقْدَةً وَلَا يَشُدَّهَا حَتَّى يَنْقَضِي أَمَدُهَا، أَوْ يَنْبُذَ إِلَيْهِمْ عَلَى سَوَاءٍ
+
+(Whoever has a treaty of peace with a people, then he should not untie any part of it or tie it harder until the treaty reaches its appointed term. Or, he should declare the treaty null and void so that they are both on equal terms.)
+
+When Mu'awiyah was informed of the Prophet's statement, he retreated. They found that man to be 'Amr bin 'Anbasah, may Allah be pleased with him." This Hadith was also collected by Abu Dawud At-Tayalisi, Abu Dawud, At-Tirmidhi, An-Nasa'i and Ibn Hibban in his Sahih. At-Tirmidhi said, "Hasan Sahih."
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله :  وَإِمَّا تَخَافَنَّ مِنْ قَوْمٍ خِيَانَةً فَانْبِذْ إِلَيْهِمْ عَلَى سَوَاءٍ إِنَّ اللَّهَ لا يُحِبُّ الْخَائِنِينَ (58)قال أبو جعفر: يقول تعالى ذكره: (وإما تخافن)، يا محمد، من عدو لك بينك وبينه عهد وعقد، أن ينكث عهد. وينقض عقده، ويغدر بك =وذلك هو " الخيانة " والغدر (13) =(فانبذ إليهم على سواء)، يقول: فناجزهم بالحرب, وأعلمهم قبل حربك إياهم أنك قد فسخت العهد بينك وبينهم، بما كان منهم من ظهور أمار الغدر والخيانة منهم، (14) حتى تصير أنتَ وهم على سواء في العلم بأنك لهم محار...
+القول في تأويل قوله: ﴿وَإِمَّا تَخَافَنَّ مِنْ قَوْمٍ خِيَانَةً فَانْبِذْ إِلَيْهِمْ عَلَى سَوَاءٍ إِنَّ اللَّهَ لا يُحِبُّ الْخَائِنِينَ (٥٨) ﴾
+
+قال أبو جعفر: يقول تعالى ذكره: ﴿وإما تخافن﴾ ، يا محمد، من عدو لك بينك وبينه عهد وعقد، أن ينكث عهد. وينقض عقده، ويغدر بك =وذلك هو "الخيانة" والغدر [[انظر تفسير " الخيانة " فيما سلف ١٣: ٤٨٠، تعليق: ١، والمراجع هناك.]] = ﴿فانبذ إليهم على سواء﴾ ، يقول: فناجزهم بالحرب، وأعلمهم قبل حربك إياهم أنك قد فسخت العهد بينك وبينهم، بما كان منهم من ظهور أمار الغدر والخيانة منهم، [[انظر تفسير " النبذ " فيما سلف ٢: ٤٠١، ٤٠٢ \ ٧: ٤٥٩. وفي المطبوعة: " آثار الغدر "، وأثبت ما في المخطوطة، و " الأمار " و " الأمارة "، العلامة، ويقال: " أمار " جمع " أمارة ".]] حتى تصير أنتَ وهم على سواء في العلم بأنك لهم محارب، فيأخذوا للحرب آلتها، وتبرأ من الغدر = ﴿إن الله لا يحب الخائنين﴾ ، الغادرين بمن كان منه في أمان وعهد بينه وبينه أن يغدر به فيحاربه، قبل إعلامه إياه أنه له حرب، وأنه قد فاسخه العقد.
+
+* *
+
+فإن قال قائل: وكيف يجوز نقضُ العهد بخوف الخيانة، و"الخوف" ظنٌّ = لا يقين؟ [[انظر تفسير " الخوف " فيما سلف ١١: ٣٧٣، تعليق: ٥، والمراجع هناك.]]
+
+قيل: إن الأمر بخلاف ما إليه ذهبت، وإنما معناه: إذا ظهرت أمارُ الخيانة من عدوك، [[في المطبوعة: " آثار الخيانة "، وأثبت ما في المخطوطة، وانظر التعليق السالف رقم: ٢.]] وخفت وقوعهم بك، فألق إليهم مقاليد السَّلم وآذنهم بالحرب. [[في المخطوطة: " وأد "، وبعدها بياض، صوابه ما في المطبوعة.]] وذلك كالذي كان من بني قريظة إذ أجابوا أبا سفيان ومن معه من المشركين إلى مظاهرتهم على رسول الله ﷺ ومحاربتهم معهم، [[في المطبوعة: " ومحاربتهم معه "، وأثبت ما في المخطوطة.]] بعد العهد الذي كانوا عاهدوا رسولَ الله ﷺ على المسالمة، ولن يقاتلوا رسولَ الله ﷺ. [[في المخطوطة: " ولم يقاتلوا "، وما في المطبوعة شبيه بالصواب.]] فكانت إجابتهم إياه إلى ذلك، موجبًا لرسول الله ﷺ خوف الغدر به وبأصحابه منهم. فكذلك حكم كل قوم أهل موادعةٍ للمؤمنين، ظهر لإمام المسلمين منهم من دلائل الغدر مثل الذي ظهرَ لرسول الله ﷺ وأصحابه من قريظة منها، فحقٌّ على إمام المسلمين أن ينبذ إليهم على سواء، ويؤذنهم بالحرب.
+
+* *
+
+ومعنى قوله: ﴿على سواء﴾ ، أي: حتى يستوي علمك وعلمهم بأن كل فريق منكم حرب لصاحبه لا سِلْم. [[انظر تفسير " السواء " فيما سلف ١٠: ٤٨٨، تعليق: ٢، والمراجع هناك.]]
+
+* *
+
+وقيل: نزلت الآية في قريظة.
+
+ذكر من قال ذلك:
+
+١٦٢٢١- حدثني محمد بن عمرو قال، حدثنا أبو عاصم قال: حدثنا عيسى، عن ابن أبي نجيح، عن مجاهد: ﴿فانبذ إليهم على سواء﴾ ، قال: قريظة.
+
+* *
+
+وقد كان بعضهم يقول: "السواء"، في هذا الموضع، المَهَل. [[في المطبوعة: " وقد قال بعضهم "، غير الجملة كلها بلا شيء.]]
+
+ذكر من قال ذلك:
+
+١٦٢٢٢- حدثني علي بن سهل قال، حدثنا الوليد بن مسلم قال: إنه مما تبين لنا أن قوله: ﴿فانبذ إليهم على سواء﴾ ، أنه: على مهل =كما حدثنا بكير، عن مقاتل بن حيان في قول الله: (بَرَاءَةٌ مِنَ اللَّهِ وَرَسُولِهِ إِلَى الَّذِينَ عَاهَدْتُمْ مِنَ الْمُشْرِكِينَ فَسِيحُوا فِي الأرْضِ أَرْبَعَةَ أَشْهُرٍ) ، [التوبة: ١-٢]
+
+* *
+
+وأما أهل العلم بكلام العرب، فإنهم في معناه مختلفون.
+
+فكان بعضهم يقول: معناه: فانبذ إليهم على عدل =يعني: حتى يعتدل علمك وعلمهم بما عليه بعضكما لبعض من المحاربة، واستشهدوا لقولهم ذلك بقول الراجز: [[لم أعرف قائله.]]
+
+وَاضْرِبْ وُجُوهَ الغُدُرِ الأعْدَاءِ حَتَّى يُجِيبُوكَ إلَى السَّوَاءِ [[كان في المطبوعة: " الغدر للأعداء ". وهو خطأ، صوابه من المخطوطة و " الغدر " (بضمتين) ، جمع " غدور "، مثل " صبور "، وهو الغادر المستمرئ للغدر.]]
+
+يعني: إلى العدل.
+
+* *
+
+وكان آخرون يقولون: معناه: الوسَط، من قول حسان:
+
+يَا وَيْحَ أَنْصَارِ الرَّسُولِ ورَهْطِهِ بَعْدَ الُمغيَّبِ فِي سَوَاءِ المُلْحَدِ [[سلف البيت وتخريجه وشرحه فيما مضى ٢: ٤٩٦، تعليق ٢.]]
+
+بمعنى: في وسط اللَّحْد.
+
+* *
+
+وكذلك هذه المعاني متقاربة، لأن "العدل"، وسط لا يعلو فوق الحق ولا يقصّر عنه، وكذلك "الوسط" عدل، واستواء علم الفريقين فيما عليه بعضهم لبعض بعد المهادنة، [[في المطبوعة: " واستواء الفريقين "، وفي المخطوطة " واستواء على الفريقين ". وصواب قراءتها ما أثبت، وهو حق المعنى.]] عدل من الفعل ووسط. وأما الذي قاله الوليد بن مسلم من أن معناه: "المهل"، فما لا أعلم له وجهًا في كلام العرب.
 
 ### al-Muyassar (Arabic)
 
-وإن خفت -أيها الرسول- من قومٍ خيانة ظهرت بوادرها فألق إليهم عهدهم، كي يكون الطرفان مستويين في العلم بأنه لا عهد بعد اليوم. إن الله لا يحب الخائنين في عهودهم الناقضين للعهد والميثاق.
+وإن خفت -أيها الرسول- مِن قومٍ خيانة ظهرت بوادرها فألق إليهم عهدهم؛ كي يكون الطرفان مستويين في العلم بأنه لا عهد بعد اليوم. إن الله لا يحب الخائنين في عهودهم الناقضين للعهد والميثاق.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿وإمّا تَخافَن مِن قَوْم﴾ عاهَدُوك ﴿خِيانَة﴾ فِي عَهْد بِأَمارَةٍ تَلُوح لَك ﴿فانْبِذْ﴾ اطْرَحْ عَهْدهمْ ﴿إلَيْهِمْ عَلى سَواء﴾ حال أيْ مُسْتَوِيًا أنْتَ وهُمْ فِي العِلْم بِنَقْضِ العَهْد بِأَنْ تُعْلِمهُمْ بِهِ لِئَلّا يَتَّهِمُوك بِالغَدْرِ
 
 ---
 
@@ -58,24 +194,159 @@ Tafsir sources: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), 
 
 ### Ibn Kathir (English)
 
-Which was revealed in Makkah
+بَرَاءَةٌ مِّنَ اللَّهِ وَرَسُولِهِ إِلَى الَّذِينَ عَاهَدتُّم مِّنَ الْمُشْرِكِينَ - فَسِيحُوا فِي الْأَرْضِ أَرْبَعَةَ أَشْهُرٍ وَاعْلَمُوا أَنَّكُمْ غَيْرُ مُعْجِزِي اللَّهِ ۙ وَأَنَّ اللَّهَ مُخْزِي الْكَافِرِينَ
+
+(1. Freedom from (all) obligations (is declared) from Allah and His Messenger ﷺ to those of the Mushrikin (idolaters), with whom you made a treaty.)(2. So travel freely (O Mushrikin) for four months (as you will) throughout the land, but know that you cannot escape (from the punishment of) Allah; and Allah will disgrace the disbelievers.)
+
 Why there is no Basmalah in the Beginning of This Surah
+
 This honorable Surah (chapter 9) was one of the last Surahs to be revealed to the Messenger of Allah ﷺ. Al-Bukhari recorded that Al-Bara' said, "The last Ayah to be revealed was,
-يَسْتَفْتُونَكَ قُلِ اللَّهُ يُفْتِيكُمْ فِى الْكَلَـلَةِ
-(They ask you for a legal verdict. Say: "Allah directs (thus) about Al-Kalalah.") 4:176, while the last Surah to be revealed was Bara'ah."
-The Basmalah was not mentioned in th...
+
+يَسْتَفْتُونَكَ قُلِ اللَّهُ يُفْتِيكُمْ فِي الْكَلَالَةِ
+
+(They ask you for a legal verdict. Say: "Allah directs (thus) about Al-Kalalah.")[4:176],
+
+while the last Surah to be revealed was Bara'ah." The Basmalah was not mentioned in the beginning of this Surah because the Companions did not write it in the complete copy of the Qur'an (Mushaf) they collected, following the Commander of the faithful, 'Uthman bin 'Affan, may Allah be pleased with him.
+
+The first part of this honorable Surah was revealed to the Messenger of Allah ﷺ when he returned from the battle of Tabuk, during the Hajj season, which the Prophet ﷺ thought about attending. But he remembered that the idolators would still attend that Hajj, as was usual in past years, and that they perform Tawaf around the House while naked. He disliked to associate with them and sent Abu Bakr As-Siddiq, may Allah be pleased with him, to lead Hajj that year and show the people their rituals, commanding him to inform the idolators that they would not be allowed to participate in Hajj after that season. He commanded him to proclaim,
+
+بَرَاءَةٌ مِّنَ اللَّهِ وَرَسُولِهِ
+
+(Freedom from (all) obligations (is declared) from Allah and His Messenger ﷺ...), to the people. When Abu Bakr had left, the Messenger sent 'Ali bin Abu Talib to be the one to deliver this news to the idolators on behalf of the Messenger ﷺ, for he was the Messenger's cousin. We will mention this story later.
+
+Publicizing the Disavowal of the Idolators
+
+Allah said,
+
+بَرَاءَةٌ مِّنَ اللَّهِ وَرَسُولِهِ
+
+(Freedom from obligations from Allah and His Messenger ﷺ), is a declaration of freedom from all obligations from Allah and His Messenger ﷺ,
+
+إِلَى الَّذِينَ عَاهَدتُّم مِّنَ الْمُشْرِكِينَ - فَسِيحُوا فِي الْأَرْضِ أَرْبَعَةَ أَشْهُرٍ
+
+(to those of the Mushrikin, with whom you made a treaty. So travel freely (Mushrikin) for four months (as you will) throughout the land)[9:1-2].
+
+This Ayah refers to idolators who had indefinite treaties and those, whose treaties with Muslims ended in less than four months. The terms of these treaties were restricted to four months only. As for those whose term of peace ended at a specific date later (than the four months), then their treaties would end when their terms ended, no matter how long afterwards, for Allah said,
+
+فَأَتِمُّوا إِلَيْهِمْ عَهْدَهُمْ إِلَىٰ مُدَّتِهِمْ
+
+(So fulfill their treaty for them until the end of their term)[9:4].
+
+So whoever had a coventant with Allah's Messenger ﷺ then it would last until its period expired, this was reported from Muhammad bin Ka'b Al-Qurazi and others. We will also mention a Hadith on this matter.
+
+Abu Ma'shar Al-Madani said that Muhammad bin Ka'b Al-Qurazi and several others said, "The Messenger of Allah ﷺ sent Abu Bakr to lead the Hajj rituals on the ninth year (of Hijrah). He also sent 'Ali bin Abi Talib with thirty or forty Ayat from Bara'ah (At-Tawbah), and he recited them to the people, giving the idolators four months during which they freely move about in the land. He recited these Ayat on the day of 'Arafah (ninth of Dhul-Hijjah). The idolators were given twenty more days (till the end) of Dhul-Hijjah, Muharram, Safar, Rabi' Al-Awwal and ten days from Rabi' Ath-Thani. He proclaimed to them in their camping areas, 'No Mushrik will be allowed to perform Hajj after this year, nor a naked person to perform Tawaf around the House.'" So Allah said,
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله :  بَرَاءَةٌ مِنَ اللَّهِ وَرَسُولِهِ إِلَى الَّذِينَ عَاهَدْتُمْ مِنَ الْمُشْرِكِينَ (1)قال أبو جعفر: يعني بقوله جل ثناؤه: (براءة من الله ورسوله)، هذه براءة من الله ورسوله.فـ " براءة "، مرفوعة بمحذوف, وهو " هذه ", كما قوله:  سُورَةٌ أَنْـزَلْنَاهَا  ، [سورة النور: 1]، مرفوعة بمحذوف هو " هذه ". ولو قال قائل: " براءة " مرفوعة بالعائد من ذكرها في قوله: (إلى الذين عاهدتم)، وجعلها كالمعرفة ترفع ما بعدها, إذ كانت قد صارت بصلتها وهي قوله: (من الله ورسوله)، كالمعرفة, وصار معنى ال...
+القول في تأويل قوله: ﴿بَرَاءَةٌ مِنَ اللَّهِ وَرَسُولِهِ إِلَى الَّذِينَ عَاهَدْتُمْ مِنَ الْمُشْرِكِينَ (١) فَسِيحُوا فِي الأرْضِ أَرْبَعَةَ أَشْهُرٍ وَاعْلَمُوا أَنَّكُمْ غَيْرُ مُعْجِزِي اللَّهِ وَأَنَّ اللَّهَ مُخْزِي الْكَافِرِينَ (٢) ﴾
+
+قال أبو جعفر: يعني بقوله جل ثناؤه: ﴿براءة من الله ورسوله﴾ ، هذه براءة من الله ورسوله.
+
+فـ "براءة"، مرفوعة بمحذوف، وهو "هذه"، كما قوله: ﴿سُورَةٌ أَنزلْنَاهَا﴾ ، [سورة النور: ١] ، مرفوعة بمحذوف هو "هذه". ولو قال قائل: "براءة" مرفوعة بالعائد من ذكرها في قوله: ﴿إلى الذين عاهدتم﴾ ، وجعلها كالمعرفة ترفع ما بعدها، إذ كانت قد صارت بصلتها وهي قوله: ﴿من الله ورسوله﴾ ، كالمعرفة، وصار معنى الكلام: البراءة من الله ورسوله، إلى الذين عاهدتم من المشركين [[في المطبوعة والمخطوطة: " براءة " مكان " البراءة "، والسياق يقتضي ما أثبت إن شاء الله.]] = كان مذهبًا غير مدفوعة صحته، وإن كان القول الأول أعجبَ إليّ، لأن من شأن العرب أن يضمروا لكلِّ معاين نكرةً كان أو معرفةً ذلك المعاين، "هذا" و"هذه"، فيقولون عند معاينتهم الشيء الحسنَ: "حسن والله"، والقبيحَ: "قبيح والله"، يريدون: هذا حسن والله، وهذا قبيح والله، فلذلك اخترت القول الأول.
+
+وقال: ﴿براءة من الله ورسوله إلى الذين عاهدتم﴾ ، والمعنى: إلى الذين عاهد رسول الله ﷺ من المشركين، لأن العهود بين المسلمين والمشركين عهد رسول الله ﷺ، لم يكن يتولى عقدها إلا رسول الله ﷺ أو من يعقدها بأمره، ولكنه خاطب المؤمنين بذلك لعلمهم بمعناه، وأن عقودَ النبي ﷺ على أمته كانت عقودهم، لأنهم كانوا لكل أفعاله فيهم راضين، ولعقوده عليهم مسلِّمين، فصار عقده عليهم كعقودهم على أنفسهم، فلذلك قال: ﴿إلى الذين عاهدتم من المشركين﴾ ، لما كان من عقد رسول الله ﷺ وعهده.
+
+* *
+
+وقد اختلف أهل التأويل فيمن بَرِئَ الله ورسوله إليه من العهد الذي كان بينه وبين رسول الله من المشركين، فأذن له في السياحة في الأرض أربعة أشهر.
+
+فقال بعضهم: هم صنفان من المشركين: أحدهما كانت مدة العهد بينه وبين رسول الله ﷺ أقلَّ من أربعة أشهر، وأمْهِل بالسياحة أربعة أشهر = والآخر منهما: كانت مدة عهده بغير أجل محدود، فقُصِر به على أربعة أشهر ليرتاد لنفسه، ثم هو حرب بعد ذلك لله ولرسوله وللمؤمنين، يقتل حيثما أدرك ويؤسَرُ، إلا أن يتوب.
+
+ذكر من قال ذلك:
+
+١٦٣٥٦- حدثنا ابن حميد قال: حدثنا سلمة، عن ابن إسحاق قال، بعث رسول الله ﷺ أبا بكر الصديق رضى الله عنه أميرًا على الحاجّ من سنة تسع، ليقيم للناس حجهم، والناسُ من أهل الشرك على منازلهم من حجهم. فخرج أبو بكر ومن معه من المسلمين، ونزلت "سورة براءة" في نقض ما بين رسول الله ﷺ وبين المشركين من العهد الذي كانوا عليه فيما بينه وبينهم: أن لا يُصَدَّ عن البيت أحد جاءه، وأن لا يُخَاف أحد في الشهر الحرام. وكان ذلك عهدًا عامًّا بينه وبين الناس من أهل الشرك. وكانت بين ذلك عهود بين رسول الله ﷺ وبين قبائل من العرب خصائصَ إلى أجل مسمًّى، [[" خصائص " يعني لأنها لهم خاصة دون غيرهم.]] فنزلت فيه وفيمن تخلف عنه من المنافقين في تبوك، وفي قول من قال منهم، فكشف الله فيها سرائر أقوام كانوا يستخفون بغير ما يظهرون، منهم من سُمِّي لنا، ومنهم من لم يُسَمَّ لنا، فقال: ﴿براءة من الله ورسوله إلى الذين عاهدتم من المشركين﴾ ، أي: لأهل العهد العام من أهل الشرك من العرب = ﴿فسيحوا في الأرض أربعة أشهر﴾ ، إلى قوله: ﴿أن الله بريء من المشركين ورسوله﴾ ، أي: بعد هذه الحجة. [[الأثر: ١٦٣٥٦ - سيرة ابن هشام ٤: ١٨٨.]]
+
+* *
+
+وقال آخرون: بل كان إمهالُ الله عز وجل بسياحة أربعة أشهر، مَنْ كان من المشركين بينه وبين رسول الله ﷺ عهد، فأما من لم يكن له من رسول الله عهد، فإنما كان أجله خمسين ليلة، وذلك عشرون من ذي الحجة والمحرم كله. قالوا: وإنما كان ذلك كذلك، لأن أجَل الذين لا عهد لهم كان إلى انسلاخ الأشهر الحرم، كما قال الله: ﴿فَإِذَا انْسَلَخَ الأشْهُرُ الْحُرُمُ فَاقْتُلُوا الْمُشْرِكِينَ حَيْثُ وَجَدْتُمُوهُمْ﴾ ، الآية [سورة التوبة: ٥] . قالوا: والنداء ببراءة، كان يوم الحج الأكبر، وذلك يوم النحر في قول قوم، وفي قول آخرين يوم عرفة، وذلك خمسون يوما. قالوا: وأما تأجيل الأشهر الأربعة، فإنما كان لأهل العهد بينهم وبين رسول الله ﷺ من يوم نزلت "براءة". قالوا: ونزلت في أول شوّال، فكان انقضاء مدة أجلهم، انسلاخ الأشهر الحرم. وقد كان بعض من يقول هذه المقالة يقول: ابتداء التأجيل كان للفريقين واحدًا = أعني الذي له العهد، والذي لا عهد له = غير أن أجل الذي كان له عهد كان أربعة أشهر، والذي لا عهد له انسلاخ الأشهر الحرم، وذلك انقضاء المحرم.
+
+ذكر من قال ذلك:
+
+١٦٣٥٧- حدثنا المثنى قال، حدثنا عبد الله بن صالح قال، حدثني معاوية، عن علي، عن ابن عباس في قوله: ﴿براءة من الله ورسوله إلى الذين عاهدتم من المشركين فسيحوا في الأرض أربعة أشهر﴾ ، قال: حدّ الله للذين عاهدوا رسوله أربعة أشهر، يسيحون فيها حيثما شاؤوا، وحدّ أجل من ليس له عهد، انسلاخَ الأشهر الحرم من يوم النحر إلى انسلاخ المحرم، فذلك خمسون ليلة. فإذا انسلخ الأشهر الحرم، أمره بأن يضع السيف فيمن عاهد.
+
+١٦٣٥٨- حدثني محمد بن سعد قال، حدثني أبي قال، حدثني عمي قال، حدثني أبي، عن أبيه، عن ابن عباس، قال: لما نزلت ﴿براءة من الله﴾ ، إلى: ﴿وأن الله مخزي الكافرين﴾ ، يقول: براءة من المشركين الذين كان لهم عهد يوم نزلت "براءة"، فجعل مدة من كان له عهد قبل أن تنزل "براءة"، أربعة أشهر، وأمرهم أن يسيحوا في الأرض أربعة أشهر. وجعل مدة المشركين الذين لم يكن لهم عهد قبل أن تنزل "براءة"، انسلاخ الأشهر الحرم، وانسلاخ الأشهر الحرم من يوم أذن ببراءة إلى انسلاخ المحرّم، وهي خمسون ليلة: عشرون من ذي الحجة، وثلاثون من المحرم = ﴿فإذا انسلخ الأشهر الحرم﴾ إلى قوله: ﴿واقعدوا لهم كل مرصد﴾ ، يقول: لم يبق لأحد من المشركين عهد ولا ذمة منذ نزلت "براءة" وانسلخ الأشهر الحرم، ومدة من كان له عهد من المشركين قبل أن تنزل "براءة"، أربعة أشهر من يوم أذّن ببراءة، إلى عشر من أول ربيع الآخر، فذلك أربعة أشهر.
+
+١٦٣٥٩- حدثت عن الحسين بن الفرج قال، سمعت أبا معاذ قال، حدثنا عبيد بن سليمان قال، سمعت الضحاك يقول في قوله: ﴿براءة من الله ورسوله إلى الذين عاهدتم من المشركين﴾ . قبل أن تنزل "براءة"، عاهد ناسًا من المشركين من أهل مكة وغيرهم، فنزلت: براءة من الله إلى كل أحد ممن كان عاهدك من المشركين، فإني أنقض العهد الذي بينك وبينهم، فأؤجلهم أربعة أشهر يسيحون حيث شاؤوا من الأرض آمنين. وأجَّل من لم يكن بينه وبين النبي ﷺ عهد انسلاخَ الأشهر الحرم، من يوم أذِّن ببراءة، وأذن بها يوم النحر، فكان عشرين من ذي الحجة والمحرم ثلاثين، فذلك خمسون ليلة. فأمر الله نبيه إذا انسلخ المحرم أن يضع السيف فيمن لم يكن بينه وبين نبي الله ﷺ عهد، يقتلهم حتى يدخلوا في الإسلام. وأمر بمن كان له عهد إذا انسلخ أربعةٌ من يوم النحر، أن يضع فيهم السيف أيضًا، يقتلهم حتى يدخلوا في الإسلام. فكانت مدة من لا عهد بينه وبين رسول الله ﷺ خمسين ليلة من يوم النحر، ومدة من كان بينه وبين رسول الله ﷺ عهد، أربعة أشهر: من يوم النحر، إلى عشر يخلُون من شهر ربيع الآخر.
+
+١٦٣٦٠- حدثنا بشر قال، حدثنا يزيد قال، حدثنا سعيد، عن قتادة قوله: ﴿براءة من الله ورسوله﴾ ، إلى قوله: ﴿وبشر الذين كفروا بعذاب أليم﴾ ، قال: ذكر لنا أن عليًّا نادى بالأذان، وأُمِّر على الحاجّ أبو بكر رحمة الله عليهما. وكان العامَ الذي حج فيه المسلمون والمشركون، ولم يحج المشركون بعد ذلك العام = قوله: ﴿الذين عاهدتم من المشركين﴾ ، إلى قوله: ﴿إلى مدتهم﴾ ، قال: هم مشركو قريش، الذين عاهدهم رسول الله ﷺ زمنَ الحديبية، وكان بقي من مدتهم أربعة أشهر بعد يوم النحر، وأمر الله نبيه أن يوفِّي بعهدهم إلى مدتهم، ومن لا عهد له انسلاخَ المحرّم، ونبذ إلى كل ذي عهد عهده، وأمر بقتالهم حتى يشهدوا أن لا إله إلا الله، وأن محمدًا رسول الله، ولا يقبل منهم إلا ذلك.
+
+* *
+
+وقال آخرون: كان ابتداء تأخير المشركين أربعة أشهر وانقضاء ذلك لجميعهم، وقتًا واحدًا. قالوا: وكان ابتداؤه يوم الحج الأكبر، وانقضاؤه انقضاء عشر من ربيع الآخر.
+
+ذكر من قال ذلك:
+
+١٦٣٦١- حدثني محمد بن الحسين قال، حدثنا أحمد بن المفضل قال، حدثنا أسباط، عن السدي: ﴿براءة من الله ورسوله إلى الذين عاهدتم من المشركين﴾ ، قال: لما نزلت هذه الآية. برئ من عهد كل مشرك، ولم يعاهد بعدها إلا من كان عاهد، وأجرى لكلّ مدتهم = ﴿فسيحوا في الأرض أربعة أشهر﴾ ، لمن دخل عهده فيها، من عشر ذي الحجة والمحرم، وصفر، وشهر ربيع الأول، وعشر من ربيع الآخر.
+
+١٦٣٦٢- حدثني الحارث قال، حدثنا عبد العزيز قال، حدثنا أبو معشر قال، حدثنا محمد بن كعب القرظي وغيره قالوا: بعث رسول الله ﷺ أبا بكر أميرًا على الموسم سنة تسع، وبعث عليّ بن أبي طالب، رضي الله عنهما، بثلاثين أو أربعين آية من "براءة"، فقرأها على الناس، يؤجِّل المشركين أربعة أشهر يسيحون في الأرض، فقرأ عليهم "براءة" يوم عرفة، أجَّل المشركين عشرين من ذي الحجة، والمحرم، وصفر، وشهر ربيع الأول، وعشرًا من ربيع الآخر، وقرأها عليهم في منازلهم، وقال: لا يحجنّ بعد عامنا هذا مشرك، ولا يطوفنّ بالبيت عُريان.
+
+١٦٣٦٣- حدثنا محمد بن عبد الأعلى قال، حدثنا محمد بن ثور، عن معمر، عن قتادة: ﴿فسيحوا في الأرض أربعة أشهر﴾ ، عشرون من ذي الحجة، والمحرم، وصفر، وربيع الأول، وعشر من ربيع الآخر. كان ذلك عهدَهم الذي بينهم.
+
+١٦٣٦٤- حدثني محمد بن عمرو قال، حدثنا أبو عاصم قال، حدثنا عيسى، عن ابن أبي نجيح، عن مجاهد: ﴿براءة من الله ورسوله﴾ ، إلى أهل العهد: خزاعة، ومُدْلج، ومن كان له عهد منهم أو غيرهم. [[في المخطوطة: " ومن كان له أو غيرهم "، والذي في المطبوعة: " ومن كان له عهد من غيرهم "، وصححتها كما ترى.]] أقبل رسول الله ﷺ من تبوك حين فرغ، فأراد رسول الله ﷺ الحجَّ، ثم قال: إنه يحضر المشركون فيطوفون عُرَاةً، فلا أحب أن أحج حتى لا يكون ذلك. فأرسل أبا بكر وعليًّا رحمة الله عليهما فطافا بالناس بذي المجاز، وبأمكنتهم التي كانوا يتبايعون بها، وبالمواسم كلها، فآذنوا أصحابَ العهد بأن يأمنوا أربعة أشهر، فهي الأشهر المتواليات: عشرون من آخر ذي الحجة إلى عشر يخلون من شهر ربيع الآخر، ثم لا عهد لهم. وآذن الناس كلها بالقتال إلا أن يؤمنوا.
+
+١٦٣٦٥- حدثنا القاسم قال، حدثنا الحسين قال، حدثني حجاج، عن ابن جريج، عن مجاهد قوله: ﴿براءة من الله ورسوله إلى الذين عاهدتم من المشركين﴾ ، قال: أهل العهد: مدلج، والعرب الذين عاهدهم، ومن كان له عهد. قال: أقبل رسول الله ﷺ من تبوك حين فرغ منها وأراد الحج، ثم قال: إنه يحضر البيت مشركون يطوفون عراة فلا أحب أن أحج حتى لا يكون ذلك. فأرسل أبا بكر وعليًّا رحمة الله عليهما، فطافا بالناس بذي المجاز، وبأمكنتهم التي كانوا يتبايعون بها، وبالموسم كله، وآذنوا أصحابَ العهد بأن يأمنوا أربعة أشهر، فهي الأشهر الحرم المنسلخات المتواليات: عشرون من آخر ذي الحجة إلى عشر يخلون من شهر ربيع الآخر، ثم لا عهد لهم. وآذن الناس كلهم بالقتال إلا أن يؤمنوا. فآمن الناس أجمعون حينئذ، ولم يَسِحْ أحد. وقال: حين رجع من الطائف، مضى من فوره ذلك، فغزا تبوك، بعد إذ جاء إلى المدينة.
+
+* *
+
+وقال آخرون ممن قال: "ابتداء الأجل لجميع المشركين وانقضاؤه كان واحدًا". كان ابتداؤه يوم نزلت "براءة"، وانقضاء الأشهر الحرم، وذلك انقضاء المحرم.
+
+ذكر من قال ذلك:
+
+١٦٣٦٦- حدثنا محمد بن عبد الأعلى قال، حدثنا محمد بن ثور، عن معمر، عن الزهري: ﴿فسيحوا في الأرض أربعة أشهر﴾ ، قال: نزلت في شوال، فهذه الأربعة الأشهر: شوال، وذو القعدة، وذو الحجة، والمحرم.
+
+* *
+
+وقال آخرون: إنما كان تأجيلُ الله الأشهرَ الأربعة المشركين في السياحة، لمن كان بينه وبين رسول الله ﷺ عهد مدته أقل من أربعة أشهر. أما من كان له عهد مدته أكثر من أربعة أشهر، فإنه أمر ﷺ أن يُتمّ له عهده إلى مدته.
+
+ذكر من قال ذلك:
+
+١٦٣٦٧- حدثنا محمد بن عبد الأعلى قال، حدثنا محمد بن ثور، عن معمر قال: قال الكلبي: إنما كان الأربعة الأشهر لمن كان بينه وبين رسول الله ﷺ عهد دون الأربعة الأشهر، فأتم له الأربعة. ومن كان له عهد أكثر من أربعة أشهر، فهو الذي أمر أن يتم له عهده، وقال: ﴿فَأَتِمُّوا إِلَيْهِمْ عَهْدَهُمْ إِلَى مُدَّتِهِمْ﴾ ، [سورة التوبة: ٤] .
+
+* *
+
+قال أبو جعفر رحمه الله: وأولى الأقوال في ذلك بالصواب، قولُ من قال: الأجلُ الذي جعله الله لأهل العهد من المشركين، وأذن لهم بالسياحة فيه بقوله: ﴿فسيحوا في الأرض أربعة أشهر﴾ ، إنما هو لأهل العهد الذين ظاهروا على رسول الله ﷺ، ونقضوا عهدهم قبل انقضاء مدته. فأما الذين لم ينقضوا عهدهم ولم يظاهروا عليه، فإن الله جل ثناؤه أمر نبيه ﷺ بإتمام العهد بينه وبينهم إلى مدته بقوله: ﴿إِلا الَّذِينَ عَاهَدْتُمْ مِنَ الْمُشْرِكِينَ ثُمَّ لَمْ يَنْقُصُوكُمْ شَيْئًا وَلَمْ يُظَاهِرُوا عَلَيْكُمْ أَحَدًا فَأَتِمُّوا إِلَيْهِمْ عَهْدَهُمْ إِلَى مُدَّتِهِمْ إِنَّ اللَّهَ يُحِبُّ الْمُتَّقِينَ﴾ ، [سورة التوبة: ٤]
+
+فإن ظنّ ظانٌّ أن قول الله تعالى ذكره: ﴿فَإِذَا انْسَلَخَ الأشْهُرُ الْحُرُمُ فَاقْتُلُوا الْمُشْرِكِينَ حَيْثُ وَجَدْتُمُوهُمْ﴾ ، [سورة التوبة: ٥] ، يدلُّ على خلاف ما قلنا في ذلك، إذ كان ذلك ينبئ على أن الفرض على المؤمنين كان بعد انقضاء الأشهر الحرم، [[في المطبوعة: " ينبئ عن أن. . . "، وقد سلف مرارا أن استعمل أبو جعفر " على " مع " ينبئ "، فأثبتها كما في المخطوطة، وهي جائزة لتضمنها معنى " يدل ".]] قتْلَ كل مشرك، فإن الأمر في ذلك بخلاف ما ظن، وذلك أن الآية التي تتلو ذلك تبين عن صحة ما قلنا، [[في المطبوعة: " تنبئ عن صحة "، وأثبت ما في المخطوطة.]] وفسادِ ما ظنه من ظنّ أن انسلاخ الأشهر الحرم كان يبيح قتل كل مشرك، كان له عهد من رسول الله ﷺ، أو لم يكن له منه عهد، وذلك قوله: ﴿كَيْفَ يَكُونُ لِلْمُشْرِكِينَ عَهْدٌ عِنْدَ اللَّهِ وَعِنْدَ رَسُولِهِ إِلا الَّذِينَ عَاهَدْتُمْ عِنْدَ الْمَسْجِدِ الْحَرَامِ فَمَا اسْتَقَامُوا لَكُمْ فَاسْتَقِيمُوا لَهُمْ إِنَّ اللَّهَ يُحِبُّ الْمُتَّقِينَ﴾ ، [سورة التوبة: ٧] ، فهؤلاء مشركون، وقد أمر الله نبيه ﷺ والمؤمنين بالاستقامة لهم في عهدهم، ما استقاموا لهم بترك نقض صلحهم، وترك مظاهرة عدوهم عليهم.
+
+وبعدُ، ففي الأخبار المتظاهرة عن رسول الله ﷺ: أنه حين بعث عليًّا رحمة الله عليه ببراءة إلى أهل العهود بينه وبينهم، أمره فيما أمره أن ينادي به فيهم: "و
+
+[TRUNCATED at 12000 chars — 13463 more. Consult the source directly before relying on anything near the cut.]
 
 ### al-Muyassar (Arabic)
+
+تسمية السورة
+
+• سميت التوبة؛ لذكر التوبة وتَكْرارها فيها، ولورود قصة توبةِ الله على الصحابة الثلاثة الذين تخلَّفوا عن غزوة تبوك، رضي الله عنهم وأرضاهم.
+
+من مقاصد السورة
+
+• الكلام على أحكام العهود التي بين النبي ﷺ وبين المشركين، وما يتبع ذلك من حالة حربٍ وأمنٍ، وبيانُ أحكام الوفاء والنَّكث، وتقرير البراءة من المشركين، ورفعُ العصمة عن أنفسهم وأموالهم.
+
+• إعلان الحربِ على أهل الكتاب حتى يعطوا الجزية، وذمُّ ما أدخله الأحبار والرُّهبان في دينهم من العقائد الباطلة، وبيانُ تكالبهم على الأموال، وأنّهم ليسوا بعيدين عن أهل الشرك.
+
+• بيان حرْمَة الأشهرِ الحرم، وإبطالُ ما كان يفعله العرب في الجاهلية من تقديم بعض الأشهر أو تأخيرها حَسَب رغباتهم.
+
+• تحريض المسلمين على المبادرة إلى إجابة النَّفير للقتال في سبيل الله في العسر واليسر، وحثُّهم على نصرة النبي ﷺ، وأنَّهم إنْ لم ينصروه فاللهُ ناصرُه، وتذكيرُهم بنصر الله لرسوله ﷺ عندما أنجاه من كيد المشركين في حادثة الهجرة، وبنصره له يوم حُنَين.
+
+• التّنويه بغزوة تبوك والإشارة إلى التجهُّز لها، وذمُّ المنافقين المتثاقلين، والمعتذرين والمستأذنين في التخلُّف بلا عذرٍ، والمخذِّلين عن الخروج للغزو، والتَّنويهُ بالغزوة وجيشها، وذكرُ الذين تاب الله عليهم من المتخلِّفِين عنها.
+
+• فضح أساليب المنافقين وتخذيلِهم للمؤمنين؛ حيث ذُكِرت صفاتُهم الواحدة تِلْوَ الأخرى؛ فذكرت السورةُ أذاهم لرسول الله ﷺ، وأَيمانَهم الكاذبة، وأمْرَهم بالمنكر ونَهْيَهم عن المعروف، وكَذِبَهم في عهودهم، وسُخْريَتهم بضعفاء المؤمنين، فلم تَدَعْ لهم سِترًا إلا هتكتهُ.
+
+• مقابلةُ صفات أهل الكفر والنِّفاق وجزائهم بأضدادها من صفات المؤمنين وجزائهم، والتنبيهُ على فضل أبي بكرٍ وفضل المهاجرين والأنصار، والإشارةُ إلى فضل مسجد قباء ومسجد الرسول ﷺ.
+
+• الحث على الصَّدَقة، والتوبةِ إلى الله، والعملِ الصالح، والأمرُ بالفقه في الدين ونشرِ الإسلام.
+
+• امتنانُ الله على المسلمين بأن أرسل فيهم رسولًا منهم اتَّصف بصفات فيها كلُّ خير لهم كالرحمة والشفقة؛ حثًا لهم على متابعته والتخلُّق بأخلاقه ﷺ.
+
+[التفسير]
 
 هذه براءة من الله ورسوله، وإعلان بالتخلي عن العهود التي كانت بين المسلمين والمشركين.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+سُورَة التَّوْبَة [ مَدَنِيَّة إلّا الآيَتَيْنِ الأَخِيرَتَيْنِ فَمَكِّيَّتانِ وآياتها ١٢٩ نَزَلَتْ بَعْد المائِدَة ] ولَمْ تُكْتَب فِيها البَسْمَلَة لِأَنَّهُ ﷺ لَمْ يَأْمُر بِذَلِكَ كَما يُؤْخَذ مِن حَدِيث رَواهُ الحاكِم وأَخْرَجَ فِي مَعْناهُ عَنْ عَلِيّ أنَّ البَسْمَلَة أمان وهِيَ نَزَلَتْ لِرَفْعِ الأَمْن بِالسَّيْفِ وعَنْ حُذَيْفَة (إنّكُمْ تُسَمُّونَها سُورَة التَّوْبَة وهِيَ سُورَة العَذاب ورَوى البُخارِيّ عَنْ البَراء أنَّها آخِر سُورَة نَزَلَتْ.
+
+هَذِهِ ﴿بَراءَة مِن اللَّه ورَسُوله﴾ واصِلَة ﴿إلى الَّذِينَ عاهَدْتُمْ مِن المُشْرِكِينَ﴾ عَهْدًا مُطْلَقًا أوْ دُون أرْبَعَة أشْهُر أوْ فَوْقها ونَصّ العَهْد بِما يُذْكَر فِي قَوْله:
 
 ---
 
@@ -83,24 +354,131 @@ The Basmalah was not mentioned in th...
 
 ### Ibn Kathir (English)
 
-Which was revealed in Makkah
+بَرَاءَةٌ مِّنَ اللَّهِ وَرَسُولِهِ إِلَى الَّذِينَ عَاهَدتُّم مِّنَ الْمُشْرِكِينَ - فَسِيحُوا فِي الْأَرْضِ أَرْبَعَةَ أَشْهُرٍ وَاعْلَمُوا أَنَّكُمْ غَيْرُ مُعْجِزِي اللَّهِ ۙ وَأَنَّ اللَّهَ مُخْزِي الْكَافِرِينَ
+
+(1. Freedom from (all) obligations (is declared) from Allah and His Messenger ﷺ to those of the Mushrikin (idolaters), with whom you made a treaty.)(2. So travel freely (O Mushrikin) for four months (as you will) throughout the land, but know that you cannot escape (from the punishment of) Allah; and Allah will disgrace the disbelievers.)
+
 Why there is no Basmalah in the Beginning of This Surah
+
 This honorable Surah (chapter 9) was one of the last Surahs to be revealed to the Messenger of Allah ﷺ. Al-Bukhari recorded that Al-Bara' said, "The last Ayah to be revealed was,
-يَسْتَفْتُونَكَ قُلِ اللَّهُ يُفْتِيكُمْ فِى الْكَلَـلَةِ
-(They ask you for a legal verdict. Say: "Allah directs (thus) about Al-Kalalah.") 4:176, while the last Surah to be revealed was Bara'ah."
-The Basmalah was not mentioned in th...
+
+يَسْتَفْتُونَكَ قُلِ اللَّهُ يُفْتِيكُمْ فِي الْكَلَالَةِ
+
+(They ask you for a legal verdict. Say: "Allah directs (thus) about Al-Kalalah.")[4:176],
+
+while the last Surah to be revealed was Bara'ah." The Basmalah was not mentioned in the beginning of this Surah because the Companions did not write it in the complete copy of the Qur'an (Mushaf) they collected, following the Commander of the faithful, 'Uthman bin 'Affan, may Allah be pleased with him.
+
+The first part of this honorable Surah was revealed to the Messenger of Allah ﷺ when he returned from the battle of Tabuk, during the Hajj season, which the Prophet ﷺ thought about attending. But he remembered that the idolators would still attend that Hajj, as was usual in past years, and that they perform Tawaf around the House while naked. He disliked to associate with them and sent Abu Bakr As-Siddiq, may Allah be pleased with him, to lead Hajj that year and show the people their rituals, commanding him to inform the idolators that they would not be allowed to participate in Hajj after that season. He commanded him to proclaim,
+
+بَرَاءَةٌ مِّنَ اللَّهِ وَرَسُولِهِ
+
+(Freedom from (all) obligations (is declared) from Allah and His Messenger ﷺ...), to the people. When Abu Bakr had left, the Messenger sent 'Ali bin Abu Talib to be the one to deliver this news to the idolators on behalf of the Messenger ﷺ, for he was the Messenger's cousin. We will mention this story later.
+
+Publicizing the Disavowal of the Idolators
+
+Allah said,
+
+بَرَاءَةٌ مِّنَ اللَّهِ وَرَسُولِهِ
+
+(Freedom from obligations from Allah and His Messenger ﷺ), is a declaration of freedom from all obligations from Allah and His Messenger ﷺ,
+
+إِلَى الَّذِينَ عَاهَدتُّم مِّنَ الْمُشْرِكِينَ - فَسِيحُوا فِي الْأَرْضِ أَرْبَعَةَ أَشْهُرٍ
+
+(to those of the Mushrikin, with whom you made a treaty. So travel freely (Mushrikin) for four months (as you will) throughout the land)[9:1-2].
+
+This Ayah refers to idolators who had indefinite treaties and those, whose treaties with Muslims ended in less than four months. The terms of these treaties were restricted to four months only. As for those whose term of peace ended at a specific date later (than the four months), then their treaties would end when their terms ended, no matter how long afterwards, for Allah said,
+
+فَأَتِمُّوا إِلَيْهِمْ عَهْدَهُمْ إِلَىٰ مُدَّتِهِمْ
+
+(So fulfill their treaty for them until the end of their term)[9:4].
+
+So whoever had a coventant with Allah's Messenger ﷺ then it would last until its period expired, this was reported from Muhammad bin Ka'b Al-Qurazi and others. We will also mention a Hadith on this matter.
+
+Abu Ma'shar Al-Madani said that Muhammad bin Ka'b Al-Qurazi and several others said, "The Messenger of Allah ﷺ sent Abu Bakr to lead the Hajj rituals on the ninth year (of Hijrah). He also sent 'Ali bin Abi Talib with thirty or forty Ayat from Bara'ah (At-Tawbah), and he recited them to the people, giving the idolators four months during which they freely move about in the land. He recited these Ayat on the day of 'Arafah (ninth of Dhul-Hijjah). The idolators were given twenty more days (till the end) of Dhul-Hijjah, Muharram, Safar, Rabi' Al-Awwal and ten days from Rabi' Ath-Thani. He proclaimed to them in their camping areas, 'No Mushrik will be allowed to perform Hajj after this year, nor a naked person to perform Tawaf around the House.'" So Allah said,
 
 ### al-Tabari (Arabic)
 
-وأما قوله: (فسيحوا في الأرض أربعة أشهر)، فإنه يعني: فسيروا فيها مقبلين ومدبرين, آمنين غير خائفين من رسول الله صلى الله عليه وسلم وأتباعه.* * *يقال منه: " ساح فلان في الأرض يسيح، سياحة. وسُيُوحًا. وسَيَحانًا.* * *وأما قوله: (واعلموا أنكم غير معجزي الله)، فإنه يقول لأهل العهد من الذين كان بينهم وبين رسول الله صلى الله عليه وسلم عهدٌ قبل نـزول هذه الآية: اعلموا، أيها المشركون، أنكم إن سحتم في الأرض، واخترتم ذلك مع كفركم بالله. على الإقرار بتوحيد وتصديق رسوله =(غير معجزي الله)، يقول: غير مُفِيتيه...
+القول في تأويل قوله: ﴿بَرَاءَةٌ مِنَ اللَّهِ وَرَسُولِهِ إِلَى الَّذِينَ عَاهَدْتُمْ مِنَ الْمُشْرِكِينَ (١) فَسِيحُوا فِي الأرْضِ أَرْبَعَةَ أَشْهُرٍ وَاعْلَمُوا أَنَّكُمْ غَيْرُ مُعْجِزِي اللَّهِ وَأَنَّ اللَّهَ مُخْزِي الْكَافِرِينَ (٢) ﴾
+
+قال أبو جعفر: يعني بقوله جل ثناؤه: ﴿براءة من الله ورسوله﴾ ، هذه براءة من الله ورسوله.
+
+فـ "براءة"، مرفوعة بمحذوف، وهو "هذه"، كما قوله: ﴿سُورَةٌ أَنزلْنَاهَا﴾ ، [سورة النور: ١] ، مرفوعة بمحذوف هو "هذه". ولو قال قائل: "براءة" مرفوعة بالعائد من ذكرها في قوله: ﴿إلى الذين عاهدتم﴾ ، وجعلها كالمعرفة ترفع ما بعدها، إذ كانت قد صارت بصلتها وهي قوله: ﴿من الله ورسوله﴾ ، كالمعرفة، وصار معنى الكلام: البراءة من الله ورسوله، إلى الذين عاهدتم من المشركين [[في المطبوعة والمخطوطة: " براءة " مكان " البراءة "، والسياق يقتضي ما أثبت إن شاء الله.]] = كان مذهبًا غير مدفوعة صحته، وإن كان القول الأول أعجبَ إليّ، لأن من شأن العرب أن يضمروا لكلِّ معاين نكرةً كان أو معرفةً ذلك المعاين، "هذا" و"هذه"، فيقولون عند معاينتهم الشيء الحسنَ: "حسن والله"، والقبيحَ: "قبيح والله"، يريدون: هذا حسن والله، وهذا قبيح والله، فلذلك اخترت القول الأول.
+
+وقال: ﴿براءة من الله ورسوله إلى الذين عاهدتم﴾ ، والمعنى: إلى الذين عاهد رسول الله ﷺ من المشركين، لأن العهود بين المسلمين والمشركين عهد رسول الله ﷺ، لم يكن يتولى عقدها إلا رسول الله ﷺ أو من يعقدها بأمره، ولكنه خاطب المؤمنين بذلك لعلمهم بمعناه، وأن عقودَ النبي ﷺ على أمته كانت عقودهم، لأنهم كانوا لكل أفعاله فيهم راضين، ولعقوده عليهم مسلِّمين، فصار عقده عليهم كعقودهم على أنفسهم، فلذلك قال: ﴿إلى الذين عاهدتم من المشركين﴾ ، لما كان من عقد رسول الله ﷺ وعهده.
+
+* *
+
+وقد اختلف أهل التأويل فيمن بَرِئَ الله ورسوله إليه من العهد الذي كان بينه وبين رسول الله من المشركين، فأذن له في السياحة في الأرض أربعة أشهر.
+
+فقال بعضهم: هم صنفان من المشركين: أحدهما كانت مدة العهد بينه وبين رسول الله ﷺ أقلَّ من أربعة أشهر، وأمْهِل بالسياحة أربعة أشهر = والآخر منهما: كانت مدة عهده بغير أجل محدود، فقُصِر به على أربعة أشهر ليرتاد لنفسه، ثم هو حرب بعد ذلك لله ولرسوله وللمؤمنين، يقتل حيثما أدرك ويؤسَرُ، إلا أن يتوب.
+
+ذكر من قال ذلك:
+
+١٦٣٥٦- حدثنا ابن حميد قال: حدثنا سلمة، عن ابن إسحاق قال، بعث رسول الله ﷺ أبا بكر الصديق رضى الله عنه أميرًا على الحاجّ من سنة تسع، ليقيم للناس حجهم، والناسُ من أهل الشرك على منازلهم من حجهم. فخرج أبو بكر ومن معه من المسلمين، ونزلت "سورة براءة" في نقض ما بين رسول الله ﷺ وبين المشركين من العهد الذي كانوا عليه فيما بينه وبينهم: أن لا يُصَدَّ عن البيت أحد جاءه، وأن لا يُخَاف أحد في الشهر الحرام. وكان ذلك عهدًا عامًّا بينه وبين الناس من أهل الشرك. وكانت بين ذلك عهود بين رسول الله ﷺ وبين قبائل من العرب خصائصَ إلى أجل مسمًّى، [[" خصائص " يعني لأنها لهم خاصة دون غيرهم.]] فنزلت فيه وفيمن تخلف عنه من المنافقين في تبوك، وفي قول من قال منهم، فكشف الله فيها سرائر أقوام كانوا يستخفون بغير ما يظهرون، منهم من سُمِّي لنا، ومنهم من لم يُسَمَّ لنا، فقال: ﴿براءة من الله ورسوله إلى الذين عاهدتم من المشركين﴾ ، أي: لأهل العهد العام من أهل الشرك من العرب = ﴿فسيحوا في الأرض أربعة أشهر﴾ ، إلى قوله: ﴿أن الله بريء من المشركين ورسوله﴾ ، أي: بعد هذه الحجة. [[الأثر: ١٦٣٥٦ - سيرة ابن هشام ٤: ١٨٨.]]
+
+* *
+
+وقال آخرون: بل كان إمهالُ الله عز وجل بسياحة أربعة أشهر، مَنْ كان من المشركين بينه وبين رسول الله ﷺ عهد، فأما من لم يكن له من رسول الله عهد، فإنما كان أجله خمسين ليلة، وذلك عشرون من ذي الحجة والمحرم كله. قالوا: وإنما كان ذلك كذلك، لأن أجَل الذين لا عهد لهم كان إلى انسلاخ الأشهر الحرم، كما قال الله: ﴿فَإِذَا انْسَلَخَ الأشْهُرُ الْحُرُمُ فَاقْتُلُوا الْمُشْرِكِينَ حَيْثُ وَجَدْتُمُوهُمْ﴾ ، الآية [سورة التوبة: ٥] . قالوا: والنداء ببراءة، كان يوم الحج الأكبر، وذلك يوم النحر في قول قوم، وفي قول آخرين يوم عرفة، وذلك خمسون يوما. قالوا: وأما تأجيل الأشهر الأربعة، فإنما كان لأهل العهد بينهم وبين رسول الله ﷺ من يوم نزلت "براءة". قالوا: ونزلت في أول شوّال، فكان انقضاء مدة أجلهم، انسلاخ الأشهر الحرم. وقد كان بعض من يقول هذه المقالة يقول: ابتداء التأجيل كان للفريقين واحدًا = أعني الذي له العهد، والذي لا عهد له = غير أن أجل الذي كان له عهد كان أربعة أشهر، والذي لا عهد له انسلاخ الأشهر الحرم، وذلك انقضاء المحرم.
+
+ذكر من قال ذلك:
+
+١٦٣٥٧- حدثنا المثنى قال، حدثنا عبد الله بن صالح قال، حدثني معاوية، عن علي، عن ابن عباس في قوله: ﴿براءة من الله ورسوله إلى الذين عاهدتم من المشركين فسيحوا في الأرض أربعة أشهر﴾ ، قال: حدّ الله للذين عاهدوا رسوله أربعة أشهر، يسيحون فيها حيثما شاؤوا، وحدّ أجل من ليس له عهد، انسلاخَ الأشهر الحرم من يوم النحر إلى انسلاخ المحرم، فذلك خمسون ليلة. فإذا انسلخ الأشهر الحرم، أمره بأن يضع السيف فيمن عاهد.
+
+١٦٣٥٨- حدثني محمد بن سعد قال، حدثني أبي قال، حدثني عمي قال، حدثني أبي، عن أبيه، عن ابن عباس، قال: لما نزلت ﴿براءة من الله﴾ ، إلى: ﴿وأن الله مخزي الكافرين﴾ ، يقول: براءة من المشركين الذين كان لهم عهد يوم نزلت "براءة"، فجعل مدة من كان له عهد قبل أن تنزل "براءة"، أربعة أشهر، وأمرهم أن يسيحوا في الأرض أربعة أشهر. وجعل مدة المشركين الذين لم يكن لهم عهد قبل أن تنزل "براءة"، انسلاخ الأشهر الحرم، وانسلاخ الأشهر الحرم من يوم أذن ببراءة إلى انسلاخ المحرّم، وهي خمسون ليلة: عشرون من ذي الحجة، وثلاثون من المحرم = ﴿فإذا انسلخ الأشهر الحرم﴾ إلى قوله: ﴿واقعدوا لهم كل مرصد﴾ ، يقول: لم يبق لأحد من المشركين عهد ولا ذمة منذ نزلت "براءة" وانسلخ الأشهر الحرم، ومدة من كان له عهد من المشركين قبل أن تنزل "براءة"، أربعة أشهر من يوم أذّن ببراءة، إلى عشر من أول ربيع الآخر، فذلك أربعة أشهر.
+
+١٦٣٥٩- حدثت عن الحسين بن الفرج قال، سمعت أبا معاذ قال، حدثنا عبيد بن سليمان قال، سمعت الضحاك يقول في قوله: ﴿براءة من الله ورسوله إلى الذين عاهدتم من المشركين﴾ . قبل أن تنزل "براءة"، عاهد ناسًا من المشركين من أهل مكة وغيرهم، فنزلت: براءة من الله إلى كل أحد ممن كان عاهدك من المشركين، فإني أنقض العهد الذي بينك وبينهم، فأؤجلهم أربعة أشهر يسيحون حيث شاؤوا من الأرض آمنين. وأجَّل من لم يكن بينه وبين النبي ﷺ عهد انسلاخَ الأشهر الحرم، من يوم أذِّن ببراءة، وأذن بها يوم النحر، فكان عشرين من ذي الحجة والمحرم ثلاثين، فذلك خمسون ليلة. فأمر الله نبيه إذا انسلخ المحرم أن يضع السيف فيمن لم يكن بينه وبين نبي الله ﷺ عهد، يقتلهم حتى يدخلوا في الإسلام. وأمر بمن كان له عهد إذا انسلخ أربعةٌ من يوم النحر، أن يضع فيهم السيف أيضًا، يقتلهم حتى يدخلوا في الإسلام. فكانت مدة من لا عهد بينه وبين رسول الله ﷺ خمسين ليلة من يوم النحر، ومدة من كان بينه وبين رسول الله ﷺ عهد، أربعة أشهر: من يوم النحر، إلى عشر يخلُون من شهر ربيع الآخر.
+
+١٦٣٦٠- حدثنا بشر قال، حدثنا يزيد قال، حدثنا سعيد، عن قتادة قوله: ﴿براءة من الله ورسوله﴾ ، إلى قوله: ﴿وبشر الذين كفروا بعذاب أليم﴾ ، قال: ذكر لنا أن عليًّا نادى بالأذان، وأُمِّر على الحاجّ أبو بكر رحمة الله عليهما. وكان العامَ الذي حج فيه المسلمون والمشركون، ولم يحج المشركون بعد ذلك العام = قوله: ﴿الذين عاهدتم من المشركين﴾ ، إلى قوله: ﴿إلى مدتهم﴾ ، قال: هم مشركو قريش، الذين عاهدهم رسول الله ﷺ زمنَ الحديبية، وكان بقي من مدتهم أربعة أشهر بعد يوم النحر، وأمر الله نبيه أن يوفِّي بعهدهم إلى مدتهم، ومن لا عهد له انسلاخَ المحرّم، ونبذ إلى كل ذي عهد عهده، وأمر بقتالهم حتى يشهدوا أن لا إله إلا الله، وأن محمدًا رسول الله، ولا يقبل منهم إلا ذلك.
+
+* *
+
+وقال آخرون: كان ابتداء تأخير المشركين أربعة أشهر وانقضاء ذلك لجميعهم، وقتًا واحدًا. قالوا: وكان ابتداؤه يوم الحج الأكبر، وانقضاؤه انقضاء عشر من ربيع الآخر.
+
+ذكر من قال ذلك:
+
+١٦٣٦١- حدثني محمد بن الحسين قال، حدثنا أحمد بن المفضل قال، حدثنا أسباط، عن السدي: ﴿براءة من الله ورسوله إلى الذين عاهدتم من المشركين﴾ ، قال: لما نزلت هذه الآية. برئ من عهد كل مشرك، ولم يعاهد بعدها إلا من كان عاهد، وأجرى لكلّ مدتهم = ﴿فسيحوا في الأرض أربعة أشهر﴾ ، لمن دخل عهده فيها، من عشر ذي الحجة والمحرم، وصفر، وشهر ربيع الأول، وعشر من ربيع الآخر.
+
+١٦٣٦٢- حدثني الحارث قال، حدثنا عبد العزيز قال، حدثنا أبو معشر قال، حدثنا محمد بن كعب القرظي وغيره قالوا: بعث رسول الله ﷺ أبا بكر أميرًا على الموسم سنة تسع، وبعث عليّ بن أبي طالب، رضي الله عنهما، بثلاثين أو أربعين آية من "براءة"، فقرأها على الناس، يؤجِّل المشركين أربعة أشهر يسيحون في الأرض، فقرأ عليهم "براءة" يوم عرفة، أجَّل المشركين عشرين من ذي الحجة، والمحرم، وصفر، وشهر ربيع الأول، وعشرًا من ربيع الآخر، وقرأها عليهم في منازلهم، وقال: لا يحجنّ بعد عامنا هذا مشرك، ولا يطوفنّ بالبيت عُريان.
+
+١٦٣٦٣- حدثنا محمد بن عبد الأعلى قال، حدثنا محمد بن ثور، عن معمر، عن قتادة: ﴿فسيحوا في الأرض أربعة أشهر﴾ ، عشرون من ذي الحجة، والمحرم، وصفر، وربيع الأول، وعشر من ربيع الآخر. كان ذلك عهدَهم الذي بينهم.
+
+١٦٣٦٤- حدثني محمد بن عمرو قال، حدثنا أبو عاصم قال، حدثنا عيسى، عن ابن أبي نجيح، عن مجاهد: ﴿براءة من الله ورسوله﴾ ، إلى أهل العهد: خزاعة، ومُدْلج، ومن كان له عهد منهم أو غيرهم. [[في المخطوطة: " ومن كان له أو غيرهم "، والذي في المطبوعة: " ومن كان له عهد من غيرهم "، وصححتها كما ترى.]] أقبل رسول الله ﷺ من تبوك حين فرغ، فأراد رسول الله ﷺ الحجَّ، ثم قال: إنه يحضر المشركون فيطوفون عُرَاةً، فلا أحب أن أحج حتى لا يكون ذلك. فأرسل أبا بكر وعليًّا رحمة الله عليهما فطافا بالناس بذي المجاز، وبأمكنتهم التي كانوا يتبايعون بها، وبالمواسم كلها، فآذنوا أصحابَ العهد بأن يأمنوا أربعة أشهر، فهي الأشهر المتواليات: عشرون من آخر ذي الحجة إلى عشر يخلون من شهر ربيع الآخر، ثم لا عهد لهم. وآذن الناس كلها بالقتال إلا أن يؤمنوا.
+
+١٦٣٦٥- حدثنا القاسم قال، حدثنا الحسين قال، حدثني حجاج، عن ابن جريج، عن مجاهد قوله: ﴿براءة من الله ورسوله إلى الذين عاهدتم من المشركين﴾ ، قال: أهل العهد: مدلج، والعرب الذين عاهدهم، ومن كان له عهد. قال: أقبل رسول الله ﷺ من تبوك حين فرغ منها وأراد الحج، ثم قال: إنه يحضر البيت مشركون يطوفون عراة فلا أحب أن أحج حتى لا يكون ذلك. فأرسل أبا بكر وعليًّا رحمة الله عليهما، فطافا بالناس بذي المجاز، وبأمكنتهم التي كانوا يتبايعون بها، وبالموسم كله، وآذنوا أصحابَ العهد بأن يأمنوا أربعة أشهر، فهي الأشهر الحرم المنسلخات المتواليات: عشرون من آخر ذي الحجة إلى عشر يخلون من شهر ربيع الآخر، ثم لا عهد لهم. وآذن الناس كلهم بالقتال إلا أن يؤمنوا. فآمن الناس أجمعون حينئذ، ولم يَسِحْ أحد. وقال: حين رجع من الطائف، مضى من فوره ذلك، فغزا تبوك، بعد إذ جاء إلى المدينة.
+
+* *
+
+وقال آخرون ممن قال: "ابتداء الأجل لجميع المشركين وانقضاؤه كان واحدًا". كان ابتداؤه يوم نزلت "براءة"، وانقضاء الأشهر الحرم، وذلك انقضاء المحرم.
+
+ذكر من قال ذلك:
+
+١٦٣٦٦- حدثنا محمد بن عبد الأعلى قال، حدثنا محمد بن ثور، عن معمر، عن الزهري: ﴿فسيحوا في الأرض أربعة أشهر﴾ ، قال: نزلت في شوال، فهذه الأربعة الأشهر: شوال، وذو القعدة، وذو الحجة، والمحرم.
+
+* *
+
+وقال آخرون: إنما كان تأجيلُ الله الأشهرَ الأربعة المشركين في السياحة، لمن كان بينه وبين رسول الله ﷺ عهد مدته أقل من أربعة أشهر. أما من كان له عهد مدته أكثر من أربعة أشهر، فإنه أمر ﷺ أن يُتمّ له عهده إلى مدته.
+
+ذكر من قال ذلك:
+
+١٦٣٦٧- حدثنا محمد بن عبد الأعلى قال، حدثنا محمد بن ثور، عن معمر قال: قال الكلبي: إنما كان الأربعة الأشهر لمن كان بينه وبين رسول الله ﷺ عهد دون الأربعة الأشهر، فأتم له الأربعة. ومن كان له عهد أكثر من أربعة أشهر، فهو الذي أمر أن يتم له عهده، وقال: ﴿فَأَتِمُّوا إِلَيْهِمْ عَهْدَهُمْ إِلَى مُدَّتِهِمْ﴾ ، [سورة التوبة: ٤] .
+
+* *
+
+قال أبو جعفر رحمه الله: وأولى الأقوال في ذلك بالصواب، قولُ من قال: الأجلُ الذي جعله الله لأهل العهد من المشركين، وأذن لهم بالسياحة فيه بقوله: ﴿فسيحوا في الأرض أربعة أشهر﴾ ، إنما هو لأهل العهد الذين ظاهروا على رسول الله ﷺ، ونقضوا عهدهم قبل انقضاء مدته. فأما الذين لم ينقضوا عهدهم ولم يظاهروا عليه، فإن الله جل ثناؤه أمر نبيه ﷺ بإتمام العهد بينه وبينهم إلى مدته بقوله: ﴿إِلا الَّذِينَ عَاهَدْتُمْ مِنَ الْمُشْرِكِينَ ثُمَّ لَمْ يَنْقُصُوكُمْ شَيْئًا وَلَمْ يُظَاهِرُوا عَلَيْكُمْ أَحَدًا فَأَتِمُّوا إِلَيْهِمْ عَهْدَهُمْ إِلَى مُدَّتِهِمْ إِنَّ اللَّهَ يُحِبُّ الْمُتَّقِينَ﴾ ، [سورة التوبة: ٤]
+
+فإن ظنّ ظانٌّ أن قول الله تعالى ذكره: ﴿فَإِذَا انْسَلَخَ الأشْهُرُ الْحُرُمُ فَاقْتُلُوا الْمُشْرِكِينَ حَيْثُ وَجَدْتُمُوهُمْ﴾ ، [سورة التوبة: ٥] ، يدلُّ على خلاف ما قلنا في ذلك، إذ كان ذلك ينبئ على أن الفرض على المؤمنين كان بعد انقضاء الأشهر الحرم، [[في المطبوعة: " ينبئ عن أن. . . "، وقد سلف مرارا أن استعمل أبو جعفر " على " مع " ينبئ "، فأثبتها كما في المخطوطة، وهي جائزة لتضمنها معنى " يدل ".]] قتْلَ كل مشرك، فإن الأمر في ذلك بخلاف ما ظن، وذلك أن الآية التي تتلو ذلك تبين عن صحة ما قلنا، [[في المطبوعة: " تنبئ عن صحة "، وأثبت ما في المخطوطة.]] وفسادِ ما ظنه من ظنّ أن انسلاخ الأشهر الحرم كان يبيح قتل كل مشرك، كان له عهد من رسول الله ﷺ، أو لم يكن له منه عهد، وذلك قوله: ﴿كَيْفَ يَكُونُ لِلْمُشْرِكِينَ عَهْدٌ عِنْدَ اللَّهِ وَعِنْدَ رَسُولِهِ إِلا الَّذِينَ عَاهَدْتُمْ عِنْدَ الْمَسْجِدِ الْحَرَامِ فَمَا اسْتَقَامُوا لَكُمْ فَاسْتَقِيمُوا لَهُمْ إِنَّ اللَّهَ يُحِبُّ الْمُتَّقِينَ﴾ ، [سورة التوبة: ٧] ، فهؤلاء مشركون، وقد أمر الله نبيه ﷺ والمؤمنين بالاستقامة لهم في عهدهم، ما استقاموا لهم بترك نقض صلحهم، وترك مظاهرة عدوهم عليهم.
+
+وبعدُ، ففي الأخبار المتظاهرة عن رسول الله ﷺ: أنه حين بعث عليًّا رحمة الله عليه ببراءة إلى أهل العهود بينه وبينهم، أمره فيما أمره أن ينادي به فيهم: "و
+
+[TRUNCATED at 12000 chars — 13463 more. Consult the source directly before relying on anything near the cut.]
 
 ### al-Muyassar (Arabic)
 
-فسيروا -أيها المشركون- في الأرض مدَّة أربعة أشهر، تذهبون حيث شئتم آمنين من المؤمنين، واعلموا أنكم لن تُفْلِتوا من العقوبة، وأن الله مذل الكافرين ومورثهم العار في الدنيا، والنار في الآخرة. وهذه الآية لذوي العهود المطلقة غير المؤقتة، أو من له عهد دون أربعة أشهر، فيكمَّل له أربعة أشهر، أو مَن كان له عهد فنقضه.
+فسيروا -أيها المشركون- في الأرض مدَّة أربعة أشهر، تذهبون حيث شئتم آمنين من المؤمنين، واعلموا أنكم لن تُفْلِتوا من العقوبة، وأن الله مذل الكافرين ومورثهم العار في الدنيا، والنار في الآخرة. وهذه الآية لذوي العهود المطلقة غير المؤقتة، أو مَن له عهد دون أربعة أشهر، فيكمَّل له أربعة أشهر، أو من كان له عهد فنقضه.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿فَسِيحُوا﴾ سِيرُوا آمِنِينَ أيّها المُشْرِكُونَ ﴿فِي الأَرْض أرْبَعَة أشْهُر﴾ أوَّلها شَوّال بِدَلِيلِ ما سَيَأْتِي ولا أمان لَكُمْ بَعْدها ﴿واعْلَمُوا أنَّكُمْ غَيْر مُعْجِزِي اللَّه﴾ أيْ فائِتِي عَذابه ﴿وأَنَّ اللَّه مُخْزِي الكافِرِينَ﴾ مُذِلّهمْ فِي الدُّنْيا بِالقَتْلِ والأُخْرى بِالنّارِ
 
 ---
 
@@ -108,25 +486,181 @@ The Basmalah was not mentioned in th...
 
 ### Ibn Kathir (English)
 
+And a declaration from Allah and His Messenger to mankind on the greatest day of Hajj that Allah is free from obligations to the Mushrikin and so is His Messenger. So if you repent, it is better for you, but if you turn away, then know that you cannot escape Allah. And give tidings of a painful torment for those who disbelieve (3)
+
 Allah says, this is a declaration,
+
 مِّنَ اللَّهِ وَرَسُولِهِ
+
 (from Allah and His Messenger), and a preface warning to the people,
-يَوْمَ الْحَجِّ الاٌّكْبَرِ
+
+يَوْمَ الْحَجِّ الْأَكْبَرِ
+
 (on the greatest day of Hajj), the day of Sacrifice, the best and most apparent day of the Hajj rituals, during which the largest gathering confers.
-أَنَّ اللَّهَ بَرِىءٌ مِّنَ الْمُشْرِكِينَ وَرَسُولُهُ
-(that Allah is free from (all) obligations to the Mushrikin and so is His Messenger.) also free from all obligations to them. Allah nex...
+
+أَنَّ اللَّهَ بَرِيءٌ مِّنَ الْمُشْرِكِينَ ۙ وَرَسُولُهُ
+
+(that Allah is free from (all) obligations to the Mushrikin and so is His Messenger.) also free from all obligations to them. Allah next invites the idolators to repent,
+
+فَإِن تُبْتُمْ
+
+(So if you repent), from the misguidance and Shirk you indulge in,
+
+فَهُوَ خَيْرٌ لَّكُمْ ۖ وَإِن تَوَلَّيْتُمْ
+
+(it is better for you, but if you turn away), and persist on your ways,
+
+فَاعْلَمُوا أَنَّكُمْ غَيْرُ مُعْجِزِي اللَّهِ
+
+(then know that you cannot escape Allah) Rather, Allah is capable over you, and you are all in His grasp, under His power and will,
+
+وَبَشِّرِ الَّذِينَ كَفَرُوا بِعَذَابٍ أَلِيمٍ
+
+(And give tidings of a painful torment for those who disbelieve)
+
+earning them disgrace and affliction in this life and the torment of chains and barbed iron bars in the Hereafter. Al-Bukhari recorded that Abu Hurayrah said, "Abu Bakr sent me during that Hajj with those dispatched on the day of Sacrifice to declare in Mina that no Mushrik will be allowed to attend Hajj after that year, nor will a naked person be allowed to perform Tawaf."
+
+Humayd said, "The Prophet ﷺ then sent 'Ali bin Abi Talib and commanded him to announce Bara'ah." Abu Hurayrah said, "Ali publicized Bara'ah with us to the gathering in Mina on the day of Sacrifice, declaring that no Mushrik shall perform Hajj after that year, nor shall a naked person perform Tawaf around the House." Al-Bukhari also collected this Hadith the this narration of which, Abu Hurayrah said, "On the day of Nahr, Abu Bakr sent me along with other announcers to Mina to make a public announcement that 'No pagan is allowed to perform Hajj after this year, and no naked person is allowed to perform the Tawaf around the Ka'bah.' Abu Bakr was leading the people in that Hajj season, and in the year of 'The Farewell Hajj' when the Prophet ﷺ performed Hajj, no Mushrik performed Hajj.'" This is the narration that Al-Bukhari recorded in the Book on Jihad.
+
+Muhammad bin Ishaq reported a narration from Abu Ja'far Muhammad bin 'Ali bin Al-Husayn who said, "When Bara'ah was revealed to Allah's Messenger ﷺ, and he had sent Abu Bakr to oversee the Hajj rites for the people, he was asked, 'O Messenger of Allah! Why not send this [message] to Abu Bakr?' So ﷺ he said,
+
+لَا يُؤَدِّي عَنِّي إِلَّا رَجُلٌ مِنْ أَهْلِ بَيْتِي
+
+(It will not be accepted to have been from me if it is not from a man from my family.) Then he ﷺ called for 'Ali and said to him,
+
+اخْرُجْ بِهٰذِهِ الْقِصَّةِ مِنْ صَدْرِ بَرَاءَةَ وَأَذِّنْ فِي النَّاسِ يَوْمَ النَّحْرِ إِذَا اجْتَمَعُوا بِمِنًى، أَنَّهُ لَا يَدْخُلُ الْجَنَّةَ كَافِرٌ، وَلَا يَحُجُّ بَعْدَ الْعَامِ مُشْرِكٌ، وَلَا يَطُوفُ بِالْبَيْتِ عُرْيَانٌ، وَمَنْ كَانَ لَهُ عِنْدَ رَسُولِ اللهِ صلّى الله عليه وسلّم عَهْدٌ فَهُوَ لَهُ إِلَى مُدَّتِهِ
+
+(Take this section from the beginning of Bara'ah and proclaim to the people on the day of the Sacrifice while they are gathered at Mina that no disbeliever will enter Paradise, no idolator will be permitted to perform Hajj after the year, there will be no Tawaf while naked, and whoever has a covenant with Allah's Messenger, then it shall be valid until the time of its expiration.)
+
+Ali rode the camel of Allah's Messenger ﷺ named Al-'Adba' until he caught up with Abu Bakr in route. When Abu Bakr saw him he said, 'Are you here as a commander or a follower.' 'Ali replied, 'A follower.' They continued on. Abu Bakr lead the people in Hajj while the Arabs were camping in their normal locations from Jahiliyyah. On the day of Sacrifice, 'Ali bin Abi Talib stood and proclaimed, 'O people! No disbeliever will be admitted into Paradise, no idolator will be permitted to perform Hajj next year, there shall be no Tawaf while naked, and whoever has a covenant with Allah's Messenger ﷺ, then it shall be valid until its time of expiration.'
+
+So no idolator performed Hajj after that year, Tawaf around the House while naked ceased. Then they returned to Allah's Messenger ﷺ. So this was the declaration of innocence, whoever among the idolators had no treaty, then he had a treaty of peace for one year, if he had a particular treaty, then it was valid until its date of expiration."
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله :  وَأَذَانٌ مِنَ اللَّهِ وَرَسُولِهِ إِلَى النَّاسِ يَوْمَ الْحَجِّ الأَكْبَرِ أَنَّ اللَّهَ بَرِيءٌ مِنَ الْمُشْرِكِينَ وَرَسُولُهُقال أبو جعفر: يقول تعالى ذكره: وإعلامٌ من الله ورسوله إلى الناس يوم الحج الأكبر.* * *وقد بينا معنى " الأذان "، فيما مضى من كتابنا هذا بشواهده. (21)* * *وكان سليمان بن موسى يقول في ذلك ما:-16380- حدثنا القاسم قال، حدثنا الحسين قال، حدثنا حجاج, عن ابن جريج قال: زعم سليمان بن موسى الشاميّ أن قوله: (وأذان من الله ورسوله)، قال: " الأذان "، القصص, ...
+القول في تأويل قوله: ﴿وَأَذَانٌ مِنَ اللَّهِ وَرَسُولِهِ إِلَى النَّاسِ يَوْمَ الْحَجِّ الأكْبَرِ أَنَّ اللَّهَ بَرِيءٌ مِنَ الْمُشْرِكِينَ وَرَسُولُهُ﴾
+
+قال أبو جعفر: يقول تعالى ذكره: وإعلامٌ من الله ورسوله إلى الناس يوم الحج الأكبر.
+
+* *
+
+وقد بينا معنى "الأذان"، فيما مضى من كتابنا هذا بشواهده. [[انظر تفسير " الأذان " فيما سلف. . . تعليق:. . . والمراجع هناك.]]
+
+* *
+
+وكان سليمان بن موسى يقول في ذلك ما:-
+
+١٦٣٨٠- حدثنا القاسم قال، حدثنا الحسين قال، حدثنا حجاج، عن ابن جريج قال: زعم سليمان بن موسى الشاميّ أن قوله: ﴿وأذان من الله ورسوله﴾ ، قال: "الأذان"، القصص، فاتحة "براءة" حتى تختم: ﴿وَإِنْ خِفْتُمْ عَيْلَةً فَسَوْفَ يُغْنِيكُمُ اللَّهُ مِنْ فَضْلِهِ﴾ ، [سورة التوبة: ٢٨] فذلك ثمان وعشرون آية. [[الأثر: ١٦٣٨٠ - " سليمان بن موسى الأموي الدمشقي "، الأشدق، فقيه أهل الشأم في زمانه. مضى برقم: ١٥٦٥٤، ١٥٦٥٥.]]
+
+١٦٣٨١- حدثني يونس قال، أخبرنا ابن وهب، قال: قال ابن زيد في قوله: ﴿وأذان من الله ورسوله﴾ ، قال: إعلام من الله ورسوله.
+
+* *
+
+ورفع قوله: ﴿وأذان من الله﴾ ، عطفًا على قوله: ﴿براءة من الله﴾ ، كأنه قال: هذه براءة من الله ورسوله، وأذانٌ من الله.
+
+* *
+
+وأما قوله: ﴿يوم الحج الأكبر﴾ ، فإنه فيه اختلافًا بين أهل العلم.
+
+فقال بعضهم: هو يوم عرفة.
+
+ذكر من قال ذلك:
+
+١٦٣٨٢- حدثنا محمد بن عبد الله بن عبد الحكم قال، أخبرنا أبو زرعة وهب الله بن راشد قال، أخبرنا حيوة بن شريح قال، أخبرنا أبو صخر: أنه سمع أبا معاوية البجليّ من أهل الكوفة يقول: سمعت أبا الصهباء البكري وهو يقول: سألت علي بن أبي طالب رضي الله عنه عن "يوم الحج الأكبر" فقال: إن رسول الله ﷺ بعث أبا بكر بن أبي قحافة رضي الله عنه يقيم للناس الحج، وبعثني معه بأربعين آية من براءة، حتى أتى عرفة فخطب الناس يوم عرفة، فلما قضى خطبته التفت إليّ، فقال: قم، يا علي وأدِّ رسالة رسول الله ﷺ! فقمت فقرأت عليهم أربعين آية من "براءة"، ثم صدرنا، [[" صدر عن الماء والبلاد "، رجع. و " الصدر "، (بفتحتين) ليلة رجوع الناس من عرفة إلى منى. و " صدار البيت " (بضم الصاد وتشديد الدال) : الحجاج الراجعون من حجهم.]] حتى أتينا مِنًى، فرميت الجمرة ونحرتُ البدنة، ثم حلقت رأسي، وعلمت أن أهل الجمع لم يكونوا حضروا خطبة أبي بكر يوم عرفة، فطفقت أتتبع بها الفساطيط أقرؤها عليهم. [[" الفساطيط " جمع " فسطاط "، مثل السرادق، وهو أصغر منه، يتخذه المسافرون.]] فمن ثَمَّ إخال حسبتم أنه يوم النحر، ألا وهو يوم عرفة. [[الأثر: ١٦٣٨٢ - سبق شرح هذا الإسناد برقم: ٥٣٨٦. " أبو زرعة "، " وهب الله بن راشد المصري "، مضى مرارا، آخرها برقم: ١١٥١٠، ومراجعه هناك. وكان في المطبوعة هنا: " أبو زرعة وهبة الله بن راشد قالا "، جعله رجلين! ومثله في المخطوطة مثله، إلا أنه كتب " قال " بالإفراد، قدم الكنية على الاسم. والصواب ما أثبت. و " حيوة بن شريح "، مضى مرارا، آخرها: ١١٥١٠. و " أبو صخر "، هو " حميد بن زياد الخراط "، قال أحمد: " ليس به بأس "، أخرج له مسلم. مضى برقم ٤٣٢٥، وغيرها كثير. و " أبو معاوية البجلي "، هو " عمار بن معاوية الدهني "، كما صرح به الطبري في رقم: ٤٣٢٥، وهو ثقة. مضى في مواضع. و" أبو الصهباء البكري "، سلف بيانه برقم: ٥٣٨٦. وهو إسناد صحيح.]]
+
+١٦٣٨٣- حدثنا الحسن بن يحيى قال، أخبرنا عبد الرزاق قال، أخبرنا معمر، عن أبي إسحاق قال: سألت أبا جُحَيفة عن "يوم الحج الأكبر" فقال: يوم عرفة. فقلت: أمن عندك، أو من أصحاب محمد؟ قال: كلُّ ذلك. [[الأثر: ١٦٣٨٣ - " أبو جحيفة السوائي "، هو " وهب بن عبد الله " ويقال له " وهب الخير "، مات رسول الله قبل أن يبلغ الحلم. ثقة، روى له الجماعة. مترجم في التهذيب، والكبير ٤/٢/١٦٢، وابن أبي حاتم ٤/٢/٢٢.]]
+
+١٦٣٨٤- حدثنا الحسن بن يحيى قال، أخبرنا عبد الرزاق قال، أخبرنا ابن جريج، عن عطاء قال: الحج الأكبر، يوم عرفة.
+
+١٦٣٨٥- حدثنا ابن وكيع قال، حدثنا أبي، عن عمر بن الوليد الشنّيّ، عن شهاب بن عبّاد العَصَريّ، عن أبيه قال: قال عمر رحمه الله: يوم الحج الأكبر، يوم عرفة = فذكرته لسعيد بن المسيب فقال: أخبرك عن ابن عمر: أن عمر قال: الحج الأكبر يومُ عرفة.
+
+١٦٣٨٦- حدثني الحارث قال، حدثنا عبد العزيز قال، حدثنا عمر بن الوليد الشني قال، حدثنا شهاب بن عباد العصري، عن أبيه قال: سمعت عمر بن الخطاب رحمة الله عليه يقول: هذا يوم عرفة، يوم الحج الأكبر فلا يصومَنَّه أحد. قال: فحججت بعد أبي فأتيت المدينة، فسألت عن أفضل أهلها، فقالوا: سعيد بن المسيب، فأتيته فقلت: إني سألت عن أفضل أهل المدينة فقالوا: سعيد بن المسيب، فأخبرني عن صوم يوم عرفة؟ فقال: أخبرك عمن هو أفضل مني مئة ضعف، [[في المخطوطة: " أفضل مني أضعافا "، وفي المخطوطة " أفضل مني ضعف "، والصواب من تفسير ابن كثير ٤: ١١٣.]] عمر، أو: ابن عمر، كان ينهى عن صومه ويقول: هو يوم الحج الأكبر. [[الأثران: ١٦٣٨٥، ١٦٣٨٦ - " عمر بن الوليد الشني "، " أبو سلمة العبدي "، ثقة، مضى برقم ٤٣٥، ١١١٨٥. " شهاب بن عباد العصري العبدي "، روى عن أبيه، وهو غير " شهاب بن عباد العبدي "، شيخ البخاري ومسلم. ذكره ابن حبان في الثقات. مترجم في التهذيب، والكبير ٢ / ٢ / ٢٣٥، وابن أبي حاتم ٢ / ١ / ٣٦١، ولم يذكر فيه جرحا. وذكر في التهذيب في ترجمته: " قال الدارقطني: صدوق زائغ "، وظني أنه أخطأ، ذاك " شهاب بن عباد " آخر، ذكره الذهبي في ميزان الاعتدال ١: ٤٥١. وأبوه " عباد العصري "، روى عن عمر، مترجم في ابن أبي حاتم ٣ / ١ / ٨٨.]]
+
+١٦٣٨٧- حدثني الحارث قال، حدثنا عبد العزيز قال، حدثنا عبد الصمد بن حبيب، عن معقل بن داود قال: سمعت ابن الزبير يقول: يوم عرفة هذا، يوم الحج الأكبر، فلا يصمه أحد. [[الأثر: ١٦٣٨٧ - " عبد الصمد بن حبيب الأزدي العوذي "، ضعفه البخاري وأحمد. مترجم في التهذيب، وابن أبي حاتم ٣ / ١ / ٥١. و " معقل بن داود "، لم أجد له ترجمة، وفي ترجمة " عبد الصمد بن حبيب " أنه روى عن " معقل القسملي "، ولكني لم أجد لهذا " القسملي "، " الأزدي "، ذكرا في شيء من مراجعي.]]
+
+١٦٣٨٨- حدثني الحارث قال، حدثنا عبد العزيز قال، حدثنا غالب بن عبيد الله قال: سألت عطاء عن يوم الحج الأكبر فقال: يوم عرفة، فأفِضْ منها قبل طلوع الفجر. [[الأثر: ١٦٣٨٨ - " غالب بن عبيد الله العقيلي الجزري "، منكر الحديث، مضى برقم: ١٢٢١٤.]]
+
+١٦٣٨٩- حدثنا ابن وكيع قال، حدثنا محمد بن بكر، عن ابن جريج قال: أخبرني محمد بن قيس بن مخرمة قال: خطب النبي ﷺ عشية عرفة ثم قال: "أما بعد" = "وكان لا يخطب إلا قال: أما بعد = "فإن هذا يوم الحج الأكبر". [[الأثر: ١٦٣٨٩ - " محمد بن بكر العثماني البرساني "، ثقة، مضى مرارا. و " محمد بن قيس بن مخرمة بن المطلب بن عبد مناف "، تابعي ثقة، روى عن النبي ﷺ مرسلا، مضى برقم: ١٠٥٢٠.]]
+
+١٦٣٩٠- حدثنا أحمد بن إسحاق قال، حدثنا أبو أحمد قال، حدثنا عبد الوهاب، عن مجاهد قال: يوم الحج الأكبر، يوم عرفة.
+
+١٦٣٩١- حدثني الحارث قال، حدثنا القاسم قال، حدثنا إسحاق بن سليمان، عن سلمة بن بُخْت، عن عكرمة، عن ابن عباس قال: يوم الحج الأكبر، يوم عرفة. [[الأثر: ١٦٣٩١ - " إسحاق بن سليمان الرازي "، سلف مرارا. و " سلمة بن بخت " مدني، مولى قريش، قال أحمد: " لا بأس به "، ووثقه ابن معين. مترجم في الكبير ٢ / ٢ / ٨٣، وابن أبي حاتم ٢ / ١ / ١٥٦. وكان في المطبوعة: " سلمة بن محب "، وهو خطأ محض، وهي في المخطوطة، غير منقوطة.]]
+
+١٦٣٩٢- حدثنا القاسم قال، حدثنا الحسين قال، حدثني حجاج، عن ابن جريج قال، أخبرني طاوس، عن أبيه قال: قلنا: ما الحج الأكبر؟ قال: يوم عرفة.
+
+١٦٣٩٣- حدثنا أبو كريب قال، حدثنا ابن إدريس قال: أخبرنا ابن جريج، عن محمد بن قيس بن مخرمة: أن رسول الله ﷺ خطب يوم عرفة فقال: هذا يوم الحج الأكبر.
+
+* *
+
+وقال آخرون: هو يوم النحر.
+
+ذكر من قال ذلك:
+
+١٦٣٩٤- حدثنا محمد بن بشار قال، حدثنا أبو عاصم قال، حدثنا سفيان، عن أبي إسحاق، عن الحارث، عن علي قال: يوم الحج الأكبر، يوم النحر.
+
+١٦٣٩٥- حدثنا أبو كريب قال، حدثنا مصعب بن سلام، عن الأجلح، عن أبي إسحاق، عن الحارث قال: سمعت عليًّا يقول: يوم الحج الأكبر، يوم النحر.
+
+١٦٣٩٦- حدثنا ابن حميد قال، حدثنا حكام قال، حدثنا عنبسة، عن أبي إسحاق، عن الحارث قال: سألت عليًّا عن الحج الأكبر فقال: هو يوم النحر.
+
+١٦٣٩٧- حدثنا ابن أبي الشوارب قال، حدثنا عبد الواحد قال، حدثنا سليمان الشيباني قال: سألت عبد الله بن أبي أوفى عن الحج الأكبر، قال: فقال: يوم النحر. [[الأثر: ١٦٣٩٦ - " الحارث "، في هذا الإسناد وما قبله، هو " الحارث الأعور " وقد مضى بيان ضعفه مرارا.]]
+
+١٦٣٩٨- حدثنا محمد بن بشار قال، حدثنا عبد الرحمن قال، حدثنا سفيان، عن عيّاش العامري، عن عبد الله بن أبي أوفى قال: يوم الحج الأكبر، يوم النحر. [[الأثر: ١٦٣٩٨ - " عياش العامري "، هو " عياش بن عمرو العامري "، ثقة، مترجم في التهذيب، والكبير ٤ / ١ / ٤٨، وابن أبي حاتم ٣ / ٢ / ٦. و " عبد الله بن أبي أوفى الأسلمي "، صحابي شهد بيعة الرضوان. مضى برقم: ٧٧٥٨.]]
+
+١٦٣٩٩-...... قال، حدثنا سفيان، عن عبد الملك بن عمير، عن عبد الله بن أبي أوفى قال: يوم الحج الأكبر، يوم النحر.
+
+١٦٤٠٠- حدثنا محمد بن المثنى قال، حدثنا محمد بن جعفر قال، حدثنا شعبة، عن عبد الملك قال: دخلت أنا وأبو سلمة على عبد الله بن أبي أوفى، قال: فسألته عن يوم الحج الأكبر، فقال: يوم النحر، يوم يُهَرَاقُ فيه الدم.
+
+١٦٤٠١- حدثنا عبد الحميد بن بيان قال، أخبرنا إسحاق، عن سفيان، عن عبد الملك بن عمير، عن عبد الله قال: يوم الحج الأكبر، يوم النحر.
+
+١٦٤٠٢- حدثنا أبو كريب وأبو السائب قالا حدثنا ابن إدريس، عن الشيباني قال: سألت ابن أبي أوفى عن يوم الحج الأكبر قال: هو يوم النحر.
+
+١٦٤٠٣- حدثني يعقوب قال، حدثنا هشيم قال: أخبرنا الشيباني، عن عبد الله بن أبي أوفى قال: يوم الحج الأكبر، يوم النحر.
+
+١٦٤٠٤-...... قال، حدثنا هشيم قال، أخبرنا عبد الملك بن عمير قال، سَمعت عبد الله بن أبي أوفى، وسُئل عن قوله: ﴿يوم الحج الأكبر﴾ ، قال: هو اليوم الذي يُرَاق فيه الدم، ويُحلق فيه الشعر.
+
+١٦٤٠٥- حدثنا ابن المثنى قال، حدثنا أبو داود قال، حدثنا شعبة، عن الحكم قال: سمعت يحيى بن الجزار يحدّث، عن علي: أنه خرج يوم النحر على بغلة بيضاء يريد الجبّانة، فجاءه رجل فأخذ بلجام بغلته، فسأله عن الحج الأكبر، فقال: هو يومك هذا، خَلِّ سبيلها. [[الأثر: ١٦٤٠٥ - " يحيى بن الجزار "، ثقة، كان، كان يغلو في التشيع، لم يسمع من علي إلا ثلاثة أحاديث، هذا أحدها، والحديث الآخر، مضى برقم: ٥٤٢٥، ١٦١٠٦. وانظر الأثر التالي رقم: ١٦٤٠٨.]]
+
+١٦٤٠٦- حدثنا عبد الحميد بن بيان قال، حدثنا إسحاق، عن مالك بن مغول، وشُتَير، عن أبي إسحاق، عن الحارث، عن علي قال: يوم الحج الأكبر، يوم النحر.
+
+١٦٤٠٧- حدثنا ابن وكيع قال، حدثنا ابن عيينة، عن أبي إسحاق، عن الحارث، عن علي قال: سئل عن يوم الحج الأكبر قال: هو يوم النحر.
+
+١٦٤٠٨- حدثنا ابن وكيع قال، حدثنا أبي، عن شعبة، عن الحكم، عن يحيى بن الجزار، عن علي: أنه لقيه رجل يوم النحر فأخذ بلجامه، فسأله عن يوم الحج الأكبر، قال: هو هذا اليوم. [[الأثر: ١٦٤٠٨ - هو مكرر الأثر. رقم: ١٦٤٠٥، مختصرا.]]
+
+١٦٤٠٩- حدثنا ابن وكيع قال، حدثنا يحيى بن آدم، عن قيس، عن عبد الملك بن عمير، وعياش العامري، عن عبد الله بن أبي أوفى قال: هو اليوم الذي تُهَراق فيه الدماء. [[الأثر: ١٦٤٠٩ - انظر التعليق على رقم: ١٦٣٩٨.]]
+
+١٦٤١٠- حدثنا ابن وكيع قال، حدثنا ابن عيينة، عن عبد الملك بن عمير، عن ابن أبي أوفى قال: الحج الأكبر، يوم تُهَرَاق فيه الدماء، ويحلق فيه الشعر، ويَحِلّ فيه الحرام.
+
+١٦٤١١- حدثني عيسى بن عثمان بن عيسى الرملي قال، حدثنا يحيى بن عيسى، عن الأعمش، عن عبد الله بن سنان قال: خطبنا المغيرة بن شعبة يوم الأضحى علي بعير فقال: هذا يوم الأضحى، وهذا يوم النحر، وهذا يوم الحج الأكبر.
+
+١٦٤١٢- حدثنا ابن وكيع قال، حدثنا أبي، عن الأعمش، عن عبد الله بن سنان قال: خطبنا المغيرة بن شعبة يوم الأضحى على بعير وقال: هذا يوم الأضحى، وهذا يوم النحر، وهذا يوم الحج الأكبر.
+
+١٦٤١٣- حدثنا ابن وكيع قال، حدثنا أبي، عن الأعمش، عن عبد الله بن سنان قال: خطبنا المغيرة بن شعبة، فذكر نحوه. [[الآثار: ١٦٤١١ - ١٦٤١٣ " عبد الله بن سنان الأسدي "، " أبو سنان "، روى عن علي، وابن مسعود، وضرار بن الأزور، والمغيرة بن شعبة. روى عنه الأعمش، وأبو حصين. وهو ثقة له أحاديث. توفي أيام الحجاج، قبل يوم الجماجم. مترجم في ابن سعد ٦: ١٢٣، وابن أبي حاتم ٢ / ٢ / ٦٨، وتعجيل المنفعة ص: ٢٢٤. وكان في المطبوعة: " عبد الله بن يسار "، في المواضع كلها، خطأ محض، وهو في المخطوطة " سنان " غير منقوط كله.]]
+
+١٦٤١٤- حدثنا ابن وكيع قال، حدثنا يحيى بن سعيد، عن حماد بن سلمة، عن سماك، عن عكرمة، عن ابن عباس قال: الحج الأكبر، يوم النحر.
+
+١٦٤١٥- حدثنا ابن أبي الشوارب قال، حدثنا عبد الواحد قال، حدثنا سليمان الشيباني قال، سمعت سعيد بن جبير يقول: الحج الأكبر، يوم النحر.
+
+١٦٤١٦- حدثنا ابن وكيع قال، حدثنا عبيد الله، عن إسرائيل، عن أبي إسحاق، عن أبي جحيفة قال: الحج الأكبر، يوم النحر. [[الأثر: ١٦٤١٦ - " أبو جحيفة "، " وهب بن عبد الله "، سلف برقم: ١٦٣٨٣.]]
+
+١٦٤١٧- حدثنا ابن بشار قال، حدثنا محمد بن جعفر قال، حدثنا شعبة، عن أبي بشر، قال: اختصم علي بن عبد الله بن عباس ورجل من آل شيبة في "يوم الحج الأكبر"، قال علي: هو يوم النحر. وقال الذي من آل شيبة: هو يوم عرفة. فأرسل إلى سعيد بن جبير فسألوه، فقال: هو يوم النحر، ألا ترى أن من فاته يوم عرفة لم يفته الحج، فإذا فاته يوم النحر فقد فاته الحج؟
+
+١٦٤١٨- حدثني يعقوب قال، حدثنا هشيم قال، أخبرنا يونس، عن سعيد بن جبير أنه قال: الحج الأكبر، يوم النحر. قال فقلت له: إن عبد الله بن شيبة، ومحمد بن علي بن عبد الله بن عباس اختلفا في ذلك، فقال محمد بن علي: هو يوم النحر. وقال عبد الله: هو يوم عرفة. فقال سعيد بن جبير: أرأيت لو أن رجلا فاته يوم عرفة، أكان يفوته الحج؟ وإذا فاته يوم النحر فاته الحج!
+
+١٦٤١٩- حدثنا أبو كريب وأبو السائب قالا حدثنا ابن إدريس، عن الشيباني، عن سعيد بن جبير قال: الحج الأكبر، يوم النحر.
+
+١٦٤٢٠- حدثنا محمد بن عبد الأعلى قال، حدثنا المعتمر بن سليمان، عن أبيه قال، حدثني رجل، عن أبيه، عن قيس بن عبادة قال: ذو الحجة العاشر النحرُ، وهو يوم الحج الأكبر.
+
+١٦٤٢١- حدثنا ابن بشار قال، حدثنا عبد الرحمن قال، حدثنا سفيان، عن أبي إسحاق، عن عبد
+
+[TRUNCATED at 12000 chars — 15589 more. Consult the source directly before relying on anything near the cut.]
 
 ### al-Muyassar (Arabic)
 
-وإعلام من الله ورسوله وإنذار إلى الناس يوم النحر أن الله بريء من المشركين، ورسوله بريء منهم كذلك. فإن رجعتم -أيها المشركون- إلى الحق وتركتم شرككم فهو خير لكم، وإن أعرضتم عن قَبول الحق وأبيتم الدخول في دين الله فاعلموا أنكم لن تُفْلِتوا من عذاب الله. وأنذر -أيها الرسول- هؤلاء المعرضين عن الإسلام عذاب الله الموجع.
+وإعلام من الله ورسوله، وإنذار إلى الناس يوم النحر أن الله بريء من المشركين، ورسولُه بريء منهم كذلك. فإن رجعتم -أيها المشركون- إلى الحق وتركتم شرككم فهو خير لكم، وإن أعرضتم عن قَبول الحق وأبيتم الدخول في دين الله فاعلموا أنكم لن تُفْلِتوا من عذاب الله. وأنذر -أيها الرسول- هؤلاء المعرضين عن الإسلام عذاب الله الموجع.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿وأَذان﴾ إعْلام ﴿مِن اللَّه ورَسُوله إلى النّاس يَوْم الحَجّ الأَكْبَر﴾ يَوْم النَّحْر ﴿أنَّ﴾ أيْ بِأَنَّ ﴿اللَّه بَرِيء مِن المُشْرِكِينَ﴾ وعُهُودهمْ ﴿ورَسُوله﴾ بَرِيء أيْضًا "وقَدْ بَعَثَ النَّبِيّ ﷺ عَلِيًّا مِن السَّنَة وهِيَ سَنَة تِسْع فَأَذَّنَ يَوْم النَّحْر بِمِنًى بِهَذِهِ الآيات وأَنْ لا يَحُجّ بَعْد العام مُشْرِك ولا يَطُوف بِالبَيْتِ عُرْيان. رَواهُ البُخارِيّ ﴿فَإنْ تُبْتُمْ﴾ مِن الكُفْر ﴿فَهُوَ خَيْر لَكُمْ وإنْ تَوَلَّيْتُمْ﴾ عَنْ الإيمان ﴿فاعْلَمُوا أنَّكُمْ غَيْر مُعْجِزِي اللَّه وبَشِّرْ﴾ أخْبِرْ ﴿الَّذِينَ كَفَرُوا بِعَذابٍ ألِيم﴾ مُؤْلِم وهُوَ القَتْل والأَسْر فِي الدُّنْيا والنّار فِي الآخِرَة
 
 ---
 
@@ -134,25 +668,125 @@ Allah says, this is a declaration,
 
 ### Ibn Kathir (English)
 
+And fulfill the covenants (taken in the Name of) Allah when you have taken them, and do not break the oaths after you have confirmed them - and indeed you have appointed Allah as your guarantor. Verily, Allah knows what you do (91)And do not be like the one who undoes the thread which she has spun, after it has become strong, by taking your oaths as a means of deception among yourselves when one group is more numerous than another group. Allah only tests you by this, and on the Day of Resurrection, He will certainly clarify that which used to differ over (92)
+
 The Command to fulfill the Covenant
+
 This is one of the commands of Allah, to fulfill covenants, keep promises and to fulfill oaths after confirming them. Thus Allah says:
-وَلاَ تَنقُضُواْ الاٌّيْمَـنَ بَعْدَ تَوْكِيدِهَا
+
+وَلَا تَنقُضُوا الْأَيْمَانَ بَعْدَ تَوْكِيدِهَا
+
 (and do not break the oaths after you have confirmed them) There is no conflict between this and the Ayat:
-وَلاَ تَجْعَلُواْ اللَّهَ عُرْضَةً لاًّيْمَـنِكُمْ
-(And do not use Allah as an excuse in your oaths) 2:224
-ذلِكَ كَفَّارَةُ أَيْمَـنِكُمْ إِذَا حَلَفْتُمْ وَاحْفَظُواْ أ...
+
+وَلَا تَجْعَلُوا اللَّهَ عُرْضَةً لِّأَيْمَانِكُمْ
+
+(And do not use Allah as an excuse in your oaths)[2:224]
+
+ذَٰلِكَ كَفَّارَةُ أَيْمَانِكُمْ إِذَا حَلَفْتُمْ ۚ وَاحْفَظُوا أَيْمَانَكُمْ
+
+(That is the expiation for oaths when you have sworn. And protect your oaths.)[5:89] meaning, do not forgo your oaths without offering the penance.
+
+There is also no conflict between this Ayah (16:91) and the Hadith reported in the Two Sahihs according to which the Prophet ﷺ said:
+
+إِنِّي وَاللهِ إِنْ شَاءَ اللهُ لَا أَحْلِفُ عَلَى يَمِينٍ فَأَرَى غَيْرَهَا خَيْرًا مِنْهَا إِلَّا أَتَيْتُ الَّذِي هُوَ خَيْرٌ وَتَحَلَّلْتُهَا - وَفِي رِوَايَةٍ - وَكَفَّرْتُ عَنْ يَمِينِي
+
+(By Allah, if Allah wills, I will not swear an oath and then realize that something else is better, but I do that which is better and find a way to free myself from the oath. According to another report he said: "and I offer penance for my oath.")
+
+There is no contradiction at all between all of these texts and the Ayah under discussion here, which is:
+
+وَلَا تَنقُضُوا الْأَيْمَانَ بَعْدَ تَوْكِيدِهَا
+
+(and do not break the oaths after you have confirmed them) because these are the kinds of oaths that have to do with covenants and promises, not the kind that have to do with urging oneself to do something or preventing him from doing something. Therefore Mujahid said concerning this Ayah:
+
+وَلَا تَنقُضُوا الْأَيْمَانَ بَعْدَ تَوْكِيدِهَا
+
+(and do not break the oaths after you have confirmed them) "The oath here refers to oaths made during Jahiliyyah." This supports the Hadith recorded by Imam Ahmad from Jubayr bin Mut'im, who said that the Messenger of Allah ﷺ said:
+
+لَا حِلْفَ فِي الْإِسْلَامِ، وَأَيُّمَا حِلْفٍ كَانَ فِي الْجَاهِلِيَّةِ فَإِنَّهُ لَا يَزِيدُهُ الْإِسْلَامُ إِلَّا شِدَّةً
+
+(There is no oath in Islam, and any oath made during the Jahiliyyah is only reinforced by Islam.)
+
+This was also reported by Muslim. The meaning is that Islam does not need oaths as they were used by the people of the Jahiliyyah; adherence to Islam is sufficient to do away with any need for what they used to customarily give oaths for.
+
+In the Two Sahihs it was reported that Anas said: "The Messenger of Allah ﷺ swore the treaty of allegiance between the Muhajirin (emigrants) and the Ansar (helpers) in our house." This means that he established brotherhood between them, and they used to inherit from one another, until Allah abrogated that. And Allah knows best.
+
+إِنَّ اللَّهَ يَعْلَمُ مَا تَفْعَلُونَ
+
+(Verily, Allah knows what you do.) This is a warning and a threat to those who break their oaths after confirming them.
+
+وَلَا تَكُونُوا كَالَّتِي نَقَضَتْ غَزْلَهَا مِن بَعْدِ قُوَّةٍ أَنكَاثًا
+
+(And do not be like the one who undoes the thread which she has spun, after it has become strong,)
+
+Abdullah bin Kathir and As-Suddi said: "This was a foolish woman in Makkah. Everytime she spun thread and made it strong, she would undo it again." Mujahid, Qatadah and Ibn Zayd said: "This is like the one who breaks a covenant after confirming it." This view is more correct and more apparent, whether or not there was a woman in Makkah who undid her thread after spinning it. The word Ankathan could be referring back to the word translated as "undoes", reinforcing the meaning, or it could be the predicate of the verb "to be", meaning, do not be Ankathan, the plural of Nakth (breach, violation), from the word Nakith (perfidious). Hence after this, Allah says:
+
+تَتَّخِذُونَ أَيْمَانَكُمْ دَخَلًا بَيْنَكُمْ
+
+(by taking your oaths as a means of deception among yourselves) meaning for the purposes of cheating and tricking one another.
+
+أَن تَكُونَ أُمَّةٌ هِيَ أَرْبَىٰ مِنْ أُمَّةٍ
+
+(when one group is more numerous than another group.) meaning, you swear an oath with some people if they are more in number than you, so that they can trust you, but when you are able to betray them you do so. Allah forbids that, by showing a case where treachery might be expected or excused, but He forbids it. If treachery is forbidden in such a case, then in cases where one is in a position of strength it is forbidden more emphatically.
+
+Mujahid said: "They used to enter into alliances and covenants, then find other parties who were more powerful and more numerous, so they would cancel the alliance with the first group and make an alliance with the second who were more powerful and more numerous. This is what they were forbidden to do." Ad-Dahhak, Qatadah and Ibn Zayd said something similar.
+
+إِنَّمَا يَبْلُوكُمُ اللَّهُ بِهِ
+
+(Allah only tests you by this) Sa'id bin Jubayr said: "This means (you are tested) by the large numbers." This was reported by Ibn Abi Hatim. Ibn Jarir said: "It means (you are being tested) by His command to you to adhere to your covenants."
+
+وَلَيُبَيِّنَنَّ لَكُمْ يَوْمَ الْقِيَامَةِ مَا كُنتُمْ فِيهِ تَخْتَلِفُونَ
+
+(And on the Day of Resurrection, He will certainly clarify that which you differed over.) Everyone will be rewarded or punished in accordance with his deeds, good or evil.
 
 ### al-Tabari (Arabic)
 
-يقول تعالى ذكره: وأوفوا بميثاق الله إذا واثقتموه، وعقده إذا عاقدتموه، فأوجبتم به على أنفسكم حقا لمن عاقدتموه به وواثقتموه عليه ( وَلا تَنْقُضُوا الأيْمَانَ بَعْدَ تَوْكِيدِهَا ) يقول: ولا تخالفوا الأمر الذي تعاقدتم فيه الأيمان، يعني بعد ما شددتم الأيمان على أنفسكم، فتحنثوا في أيمانكم وتكذبوا فيها وتنقضوها بعد إبرامها، يقال منه: وكَّد فلان يمينه يوكدها توكيدًا: إذا شددها وهي لغة أهل الحجاز، وأما أهل نجد، فإنهم يقولون: أكدتها أؤكدها تأكيدا. وقوله ( وَقَدْ جَعَلْتُمُ اللَّهَ عَلَيْكُمْ كَفِيلا )...
+القول في تأويل قوله تعالى: ﴿وَأَوْفُوا بِعَهْدِ اللَّهِ إِذَا عَاهَدْتُمْ وَلا تَنْقُضُوا الأيْمَانَ بَعْدَ تَوْكِيدِهَا وَقَدْ جَعَلْتُمُ اللَّهَ عَلَيْكُمْ كَفِيلا إِنَّ اللَّهَ يَعْلَمُ مَا تَفْعَلُونَ (٩١) ﴾
+
+يقول تعالى ذكره: وأوفوا بميثاق الله إذا واثقتموه، وعقده إذا عاقدتموه، فأوجبتم به على أنفسكم حقا لمن عاقدتموه به وواثقتموه عليه ﴿وَلا تَنْقُضُوا الأيْمَانَ بَعْدَ تَوْكِيدِهَا﴾ يقول: ولا تخالفوا الأمر الذي تعاقدتم فيه الأيمان، يعني بعد ما شددتم الأيمان على أنفسكم، فتحنثوا في أيمانكم وتكذبوا فيها وتنقضوها بعد إبرامها، يقال منه: وكَّد فلان يمينه يوكدها توكيدًا: إذا شددها وهي لغة أهل الحجاز، وأما أهل نجد، فإنهم يقولون: أكدتها أؤكدها تأكيدا.
+
+* *
+
+وقوله ﴿وَقَدْ جَعَلْتُمُ اللَّهَ عَلَيْكُمْ كَفِيلا﴾
+
+يقول: وقد جعلتم الله بالوفاء بما تعاقدتم عليه على أنفسكم راعيًا يرعى الموفى منكم بعهد الله الذي عاهد على الوفاء به والناقض.
+
+وبنحو الذي قلنا في ذلك، قال أهل التأويل على اختلاف بينهم فيمن عني بهذه الآية وفيما أنزلت، فقال بعضهم: عُنِيَ بها الذين بايعوا رسول الله ﷺ على الإسلام، وفيهم أنزلت.
+
+ذكر من قال ذلك:
+
+⁕ حدثني محمد بن عمارة الأسدي، قال: ثنا عبد الله بن موسى، قال: أخبرنا أبو ليلى، عن بريدة، قوله ﴿وَأَوْفُوا بِعَهْدِ اللَّهِ إِذَا عَاهَدْتُمْ﴾ قال: أنزلت هذه الآية في بيعة النبيّ ﷺ، كان من أسلم بايع على الإسلام، فقالوا ﴿وَأَوْفُوا بِعَهْدِ اللَّهِ إِذَا عَاهَدْتُمْ﴾ هذه البَيعة التي بايعتم على الإسلام ﴿وَلا تَنْقُضُوا الأيْمَانَ بَعْدَ تَوْكِيدِهَا﴾ البيعة، فلا يحملكم قلة محمد ﷺ وأصحابه وكثرة المشركين أن تنقضوا البيعة التي بايعتم على الإسلام، وإن كان فيهم قلة والمشركين فيهم كثرة.
+
+وقال آخرون: نزلت في الحِلْف الذي كان أهل الشرك تحالفوا في الجاهلية، فأمرهم الله عزّ وجلّ في الإسلام أن يوفّوا به ولا ينقضوه.
+
+ذكر من قال ذلك:
+
+⁕ حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء، جميعا عن ابن أبي نجيح، عن مجاهد، في قول الله تعالى ﴿وَلا تَنْقُضُوا الأيْمَانَ بَعْدَ تَوْكِيدِهَا﴾ قال: تغليظها في الحلف.
+
+⁕ حدثني المثنى، قال: ثنا أبو حُذيفة، قال: ثنا شبل وحدثني المثنى، قال: ثنا إسحاق، قال: ثنا عبد الله عن ورقاء جميعا، عن ابن أبي نجيح، عن مجاهد، مثله.
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله ﴿وَلا تَنْقُضُوا الأيْمَانَ بَعْدَ تَوْكِيدِهَا﴾ يقول: بعد تشديدها وتغليظها.
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد: هؤلاء قوم كانوا حلفاء لقوم تحالفوا وأعطى بعضهم العهد، فجاءهم قوم، فقالوا: نحن أكثر وأعزّ وأمنع، فانقضوا عهد هؤلاء وارجعوا إلينا ففعلوا، فذلك قول الله تعالى ﴿وَلا تَنْقُضُوا الأيْمَانَ بَعْدَ تَوْكِيدِهَا وَقَدْ جَعَلْتُمُ اللَّهَ عَلَيْكُمْ كَفِيلا﴾ أن تكون أمة هي أربى من أمة، هي أربَى أكثر من أجل أن كان هؤلاء أكثر من أولئك، نقضتم العهد فيما بينكم وبين هؤلاء، فكان هذا في هذا.
+
+⁕ حدثني ابن البَرقيّ، قال: ثنا ابن أبي مَريم، قال: أخبرنا نافع بن يزيد، قال: سألت يحيى بن سعيد، عن قول الله ﴿وَلا تَنْقُضُوا الأيْمَانَ بَعْدَ تَوْكِيدِهَا﴾ قال: العهود.
+
+والصواب من القول في ذلك أن يقال: إن الله تعالى أمر في هذه الآية عباده بالوفاء بعهوده التي يجعلونها على أنفسهم، ونهاهم عن نقض الأيمان بعد توكيدها على أنفسهم لآخرين بعقود تكون بينهم بحقّ مما لا يكرهه الله. وجائز أن تكون نزلت في الذين بايعوا رسول الله ﷺ بنهيهم عن نقض بيعتهم حذرا من قلة عدد المسلمين وكثرة عدد المشركين، وأن تكون نزلت في الذين أرادوا الانتقال بحلفهم عن حلفائهم لقلة عددهم في آخرين لكثرة عددهم، وجائز أن تكون في غير ذلك. ولا خبر تَثْبُت به الحجة أنها نزلت في شيء من ذلك دون شيء؛ ولا دلالة في كتاب ولا حجة عقل أيّ ذلك عُنِيَ بها، ولا قول في ذلك أولى بالحق مما قلنا لدلالة ظاهره عليه، وأن الآية كانت قد نزلت لسبب من الأسباب، ويكون الحكم بها عامًّا في كلّ ما كان بمعنى السبب الذي نزلت فيه.
+
+⁕ حدثنا القاسم، قال: ثنا الحسين، قال: ثني حجاج، عن ابن جريج، عن مجاهد ﴿وَقَدْ جَعَلْتُمُ اللَّهَ عَلَيْكُمْ كَفِيلا﴾ قال: وكيلا.
+
+* *
+
+وقوله ﴿إِنَّ اللَّهَ يَعْلَمُ مَا تَفْعَلُونَ﴾
+
+يقول تعالى ذكره: إن الله أيها الناس يعلم ما تفعلون في العهود التي تعاهدون الله من الوفاء بها والأحلاف والأيمان التي تؤكدونها على أنفسكم، أتبرّون فيها أم تنقضونها وغير ذلك من أفعالكم، محص ذلك كله عليكم، وهو مسائلكم عنها وعما عملتم فيها، يقول: فاحذروا الله أن تلقوه وقد خالفتم فيها أمره ونهيه، فتستوجبوا بذلك منه ما لا قِبَل لكم به من أليم عقابه.
 
 ### al-Muyassar (Arabic)
 
-والتزموا الوفاء بكل عهد أوجبتموه على أنفسكم بينكم وبين الله -تعالى- أو بينكم وبين الناس فيما لا يخالف كتاب الله وسنة نبيه، ولا ترجعوا في الأيمان بعد أن أكَّدْتموها، وقد جعلتم الله عليكم كفيلا وضامنًا حين عاهدتموه. إن الله يعلم ما تفعلونه، وسيجزيكم عليه.
+والتزموا الوفاء بكل عهد أوجبتموه على أنفسكم بينكم وبين الله -تعالى-، أو بينكم وبين الناس فيما لا يخالف كتاب الله وسنة نبيه، ولا ترجعوا في الأيمان بعد أن أكَّدْتموها، وقد جعلتم الله عليكم كفيلًا وضامنًا حين عاهدتموه. إن الله يعلم ما تفعلونه، وسيجزيكم عليه.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿وأَوْفُوا بِعَهْدِ اللَّه﴾ مِن البِيَع والأَيْمان وغَيْرها ﴿إذا عاهَدْتُمْ ولا تَنْقُضُوا الأَيْمان بَعْد تَوْكِيدها﴾ تَوْثِيقها ﴿وقَدْ جَعَلْتُمْ اللَّه عَلَيْكُمْ كَفِيلًا﴾ بِالوَفاءِ حَيْثُ حَلَفْتُمْ بِهِ والجُمْلَة حال ﴿إنّ اللَّه يَعْلَم ما تَفْعَلُونَ﴾ تَهْدِيد لَهُمْ
 
 ---
 
@@ -160,16 +794,165 @@ This is one of the commands of Allah, to fulfill covenants, keep promises and to
 
 ### Ibn Kathir (English)
 
+Whoever goes right, then he goes right only for the benefit of himself. And whoever goes astray, then he goes astray at his own loss. No one laden with burdens can bear another's burden. And We never punish until We have sent a Messenger (to give warning)(15)
+
 No One will have to bear the Sins of Another
-Allah tells us that whoever is guided and follows the truth, walking in the footsteps of the Prophet , he will gain the good consequences of that for himself.
+
+Allah tells us that whoever is guided and follows the truth, walking in the footsteps of the Prophet ﷺ, he will gain the good consequences of that for himself.
+
 وَمَن ضَلَّ
+
 (And whoever goes astray,) meaning from the truth, deviating from the way of guidance, he is wronging himself and will have to bear the consequences. Then Allah says:
-وَلاَ تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَى
-(No one laden with burdens can bear another's burden.) no one will have to b...
+
+وَلَا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ
+
+(No one laden with burdens can bear another's burden.) no one will have to bear the sins of another, and he does not wrong anyone besides himself, as Allah says:
+
+وَإِن تَدْعُ مُثْقَلَةٌ إِلَىٰ حِمْلِهَا لَا يُحْمَلْ مِنْهُ شَيْءٌ
+
+(and if one heavily laden calls another to (bear) his load, nothing of it will be lifted)[35:15] There is no contradiction between this and other Ayat:
+
+وَلَيَحْمِلُنَّ أَثْقَالَهُمْ وَأَثْقَالًا مَّعَ أَثْقَالِهِمْ
+
+(And verily, they shall bear their own loads, and other loads besides their own.)[29:13] and:
+
+وَمِنْ أَوْزَارِ الَّذِينَ يُضِلُّونَهُم بِغَيْرِ عِلْمٍ
+
+(and also of the burdens of those whom they misled without knowledge.)[16:25] For those who called others to do evil will bear the sin of their own deviation as well as the sin of those whom they led astray, without detracting the least amount from the burden of those people, and none of this burden shall be removed from them. This is the justice and mercy of Allah towards His servants. As Allah says:
+
+وَمَا كُنَّا مُعَذِّبِينَ حَتَّىٰ نَبْعَثَ رَسُولًا
+
+(And We never punish until We have sent a Messenger (to give warning).)
+
+No Punishment until a Messenger has been sent
+
+Allah tells us that out of His justice, He does not punish anyone until He has established proof against him by sending a Messenger to him, as He says:
+
+كُلَّمَا أُلْقِيَ فِيهَا فَوْجٌ سَأَلَهُمْ خَزَنَتُهَا أَلَمْ يَأْتِكُمْ نَذِيرٌ - قَالُوا بَلَىٰ قَدْ جَاءَنَا نَذِيرٌ فَكَذَّبْنَا وَقُلْنَا مَا نَزَّلَ اللَّهُ مِن شَيْءٍ إِنْ أَنتُمْ إِلَّا فِي ضَلَالٍ كَبِيرٍ
+
+(Every time a group is cast therein, its keeper will ask: "Did no warner come to you?" They will say: "Yes, indeed a warner did come to us, but we belied him and said: 'Allah never sent down anything (of revelation); you are only in great error.'")(67:8-9) And,
+
+وَسِيقَ الَّذِينَ كَفَرُوا إِلَىٰ جَهَنَّمَ زُمَرًا ۖ حَتَّىٰ إِذَا جَاءُوهَا فُتِحَتْ أَبْوَابُهَا وَقَالَ لَهُمْ خَزَنَتُهَا أَلَمْ يَأْتِكُمْ رُسُلٌ مِّنكُمْ يَتْلُونَ عَلَيْكُمْ آيَاتِ رَبِّكُمْ وَيُنذِرُونَكُمْ لِقَاءَ يَوْمِكُمْ هَٰذَا ۚ قَالُوا بَلَىٰ وَلَٰكِنْ حَقَّتْ كَلِمَةُ الْعَذَابِ عَلَى الْكَافِرِينَ
+
+(And those who disbelieved will be driven to Hell in groups, till, when they reach it, the gates thereof will be opened. And its keepers will say, "Did not the Messengers come to you from yourselves - reciting to you the verses of your Lord, and warning you of the meeting of this Day of yours?" They will say: "Yes," but the Word of torment has been justified against the disbelievers!)(39:71) And,
+
+وَهُمْ يَصْطَرِخُونَ فِيهَا رَبَّنَا أَخْرِجْنَا نَعْمَلْ صَالِحًا غَيْرَ الَّذِي كُنَّا نَعْمَلُ ۚ أَوَلَمْ نُعَمِّرْكُم مَّا يَتَذَكَّرُ فِيهِ مَن تَذَكَّرَ وَجَاءَكُمُ النَّذِيرُ ۖ فَذُوقُوا فَمَا لِلظَّالِمِينَ مِن نَّصِيرٍ
+
+(Therein they will cry: "Our Lord! Bring us out, we shall do righteous good deeds, not (the evil deeds) that we used to do." (Allah will reply:) "Did We not give you lives long enough, so that whosoever would receive admonition could receive it? And the warner came to you. So taste you (the evil of your deeds). For the wrongdoers there is no helper.")(35:37)
+
+There are other Ayat which indicate that Allah will not make anyone enter Hell except after sending a Messenger to them.
+
+The Issue of Small Children who die
+
+Here there arises an issue over which the scholars in earlier and modern times have disagreed, may Allah have mercy on them. This is the issue of children who die when they are little, and their parents are disbelievers: what happens to them By the same token, what happens to the insane, the deaf, the senile and those who die during the circumstances of Fatrah, when no Message reached them? Several Hadiths have been narrated on this topic, which I will quote here by the help and support of Allah.
+
+The First Hadith from Al-Aswad bin Sari
+
+Imam Ahmad reported from Al-Aswad bin Sari' that the Messenger of Allah ﷺ said,
+
+أَرْبَعَةٌ يَحْتَجُّونَ يَوْمَ الْقِيَامَةِ: رَجُلٌ أَصَمُّ لَا يَسْمَعُ شَيْئًا، وَرَجُلٌ أَحْمَقُ، وَرَجُلٌ هَرِمٌ، وَرَجُلٌ مَاتَ فِي فَتْرَةٍ، فَأَمَّا الْأَصَمُّ فَيَقُولُ: رَبِّ قَدْ جَاءَ الْإِسْلَامُ وَمَا أَسْمَعُ شَيْئًا، وَأَمَّا الْأَحْمَقُ فَيَقُولُ: رَبِّ قَدْ جَاءَ الْإِسْلَامُ وَالصِّبْيَانُ يَحْذِفُونِي بِالْبَعْرِ، وَأَمَّا الْهَرِمُ فَيَقُولُ: رَبِّ لَقَدْ جَاءَ الْإِسْلَامُ وَمَا أَعْقِلُ شَيْئًا، وَأَمَّا الَّذِي مَاتَ فِي الْفَتْرَةِ فَيَقُولُ: رَبِّ مَا أَتَانِي لَكَ رَسُولٌ. فَيَأْخُذُ مَوَاثِيقَهُمْ لِيُطِيعَنَّهُ، فَيُرْسِلُ إِلَيْهِمْ أَنِ ادْخُلُوا النَّارَ، فَوَالَّذِي نَفْسُ مُحَمَّدٍ بِيَدِهِ، لَوْ دَخَلُوهَا لَكَانَتْ عَلَيْهِمْ بَرْدًا وَسَلَامًا
+
+(There are four who will present their case on the Day of Resurrection: a deaf man who never heard anything, an insane man, a very old and senile man, and a man who died during the Fatrah. As for the deaf man, he will say, "O Lord, Islam came but I never heard anything." As for the insane man, he will say, "O Lord, Islam came and the young boys were throwing camel dung at me." As for the senile man, he will say, "O Lord, Islam came and I did not understand anything." As for the one who died during the Fatrah, he will say, "O Lord, no Messenger from You came to me." Allah will accept their pledge of obedience to Him, then He will send word to them that they should enter the Fire. By the One in Whose Hand is the soul of Muhammad, if they enter it, it will be cool and safe for them.)
+
+There is a similar report with a chain from Qatadah from Al-Hasan from Abu Rafi' from Abu Hurayrah, but at the end it says:
+
+فَمَنْ دَخَلَهَا كَانَتْ عَلَيْهِ بَرْدًا وَسَلَامًا، وَمَنْ لَمْ يَدْخُلْهَا يُسْحَبُ إِلَيْهَا
+
+(Whoever enters it will find it cool and safe, and whoever does not enter it will be dragged into it.) This was also recorded by Ishaq bin Rahwayh from Mu'adh bin Hisham, and by Al-Bayhaqi in Al-I'tiqad. He said: "This is a Sahih chain."
+
+It was reported by Ibn Jarir from the Hadith of Ma'mar from Hammam from Abu Hurayrah, who attributed it to the Prophet ﷺ. Then Abu Hurayrah said: "Recite, if you wish:
+
+وَمَا كُنَّا مُعَذِّبِينَ حَتَّىٰ نَبْعَثَ رَسُولًا
+
+(And We never punish until We have sent a Messenger (to give warning))." This was also narrated by Ma'mar from 'Abdullah bin Tawus from his father, from Abu Hurayrah, but it is Mauquf (it was not attributed directly to the Prophet ﷺ).
+
+The Second Hadith from Abu Hurayrah
+
+He said that the Messenger of Allah ﷺ said:
+
+كُلُّ مَوْلُودٍ يُولَدُ عَلَى الْفِطْرَةِ، فَأَبَوَاهُ يُهَوِّدَانِهِ أَوْ يُنَصِّرَانِهِ أَوْ يُمَجِّسَانِهِ، كَمَا تُنْتِجُ الْبَهِيمَةُ بَهِيمَةً جَمْعَاءَ، هَلْ تُحِسُّونَ فِيهَا مِنْ جَدْعَاءَ؟
+
+(Every newborn is born in a state of Fitrah (the natural state of man), then his parents make him into a Jew or Christian or Zoroastrian, as animals produce whole animals - do you see any that is born mutilated (with something missing)?)
+
+According to one report they said: "O Messenger of Allah, what about those who die when they are little" He said,
+
+اللهُ أَعْلَمُ بِمَا كَانُوا عَامِلِينَ
+
+(Allah knows best what they would have done.) Imam Ahmad reported from Abu Hurayrah that the Prophet ﷺ as far as I know - the narrator was not sure if it was attributed to Musa - said:
+
+ذَرَارِيُّ الْمُسْلِمِينَ فِي الْجَنَّةِ يَكْفُلُهُمْ إِبْرَاهِيمُ عَلَيْهِ السَّلَامُ
+
+(The children of the Muslims are in Paradise, being taken care of by Ibrahim.) In Sahih Muslim it is reported from 'Iyyad bin Hammad that the Messenger of Allah ﷺ said that Allah said:
+
+إِنِّي خَلَقْتُ عِبَادِي حُنَفَاءَ
+
+(I have created My servants as Hunafa.) According to another version, the wording is "as Muslims."
+
+The Third Hadith from Samurah
+
+In his book Al-Mustakhraj 'Ala Al-Bukhari, Al-Hafiz Abu Bakr Al-Barqani recorded the Hadith of 'Awf Al-A'rabi, from Abu Raja' Al-'Utardi from Samurah that the Prophet ﷺ said:
+
+كُلُّ مَوْلُودٍ يُولَدُ عَلَى الْفِطْرَةِ
+
+(Every newborn is born in a state of Fitrah.) The people called out to him: "O Messenger of Allah! What about the children of the idolators?" He said,
+
+وَأَوْلَادُ الْمُشْرِكِينَ
+
+(And the children of the idolators too.) At-Tabarani reported that Samurah said: "We asked the Messenger of Allah ﷺ about the children of the idolators, and he said,
+
+هُمْ خَدَمُ أَهْلِ الْجَنَّةِ
+
+(They are the servants of the people of Paradise.)
+
+The Fourth Hadith from the Paternal Uncle of Hasna
+
+Ahmad reported that Hasna' bint Mu'awiyah, from Bani Suraym, said that his paternal uncle said to him: "I said, 'O Messenger of Allah, who is in Paradise?' He said,
+
+النَّبِيُّ فِي الْجَنَّةِ، وَالشَّهِيدُ فِي الْجَنَّةِ، وَالْمَوْلُودُ فِي الْجَنَّةِ، وَالْوَئِيدُ فِي الْجَنَّةِ
+
+(Prophets are in Paradise, martyrs are in Paradise, infants are in Paradise and baby girls who were buried alive are in Paradise.)
+
+It is Makruh to discuss this Matter
+
+In order to discuss this issue we need good, sound proof, but people who have no knowledge of Shari'ah may try to speak about it. For this reason some of the scholars did not like to discuss it. This view has been narrated from Ibn 'Abbas, Al-Qasim bin Muhammad bin Abi Bakr As-Siddiq, Muhammad bin Al-Hanafiyyah and others.
+
+Ibn Hibban recorded in his Sahih that Jarir bin Hazim said: I heard Abu Raja' Al-'Utardi saying that he heard Ibn 'Abbas (may Allah be pleased with them both) saying, "While he was on the Minbar, the Messenger of Allah ﷺ said:
+
+لَا يَزَالُ أَمْرُ هَذِهِ الْأُمَّةِ مُوَاتِيًا - أَوْ مُقَارِبَا - مَالَمْ يَتَكَلَّمُوا فِي الْوِلْدَانِ وَالْقَدَرِ
+
+(This Ummah will be fine so long as they do not talk about children and the divine decree.)" Ibn Hibban said: "This means talking about the children of the idolators." Abu Bakr Al-Bazzar also recorded it via Jarir bin Hazim, then he said, "A group narrated it from Abu Raja' from Ibn 'Abbas, but it is Mauquf".
 
 ### al-Tabari (Arabic)
 
-يقول تعالى ذكره: من استقام على طريق الحقّ فاتبعه، وذلك دين الله الذي ابتعث به نبيه محمدا صلى الله عليه وسلم عليه وسلم (فإِنَّمَا يهتَدِي لِنَفسِهِ) يقول: فليس ينفع بلزومه الاستقامة، وإيمانه بالله ورسوله غير نفسه (وَمَنْ ضَلَّ) يقول: ومن جار عن قصد السبيل، فأخذ على غير هدى، وكفر بالله وبمحمد صلى الله عليه وسلم وبما جاء به من عند الله من الحقّ، فليس يضرّ بضلاله وجوره عن الهدى غير نفسه، لأنه يوجب لها بذلك غضب الله وأليم عذابه.. وإنما عنى بقوله ( فَإِنَّمَا يَضِلُّ عَلَيْهَا ) فإنما يكسب إثم ضلال...
+القول في تأويل قوله تعالى: ﴿اقْرَأْ كِتَابَكَ كَفَى بِنَفْسِكَ الْيَوْمَ عَلَيْكَ حَسِيبًا (١٤) ﴾
+
+يقول تعالى ذكره: ﴿ونُخرِجُ لَهُ يَوْمَ القِيامَةِ كِتابا يَلقاهُ مَنْشُورًا﴾ فيقال له ﴿اقْرَأْ كِتَابَكَ كَفَى بِنَفْسِكَ الْيَوْمَ عَلَيْكَ حَسِيبًا﴾ فترك ذكر قوله: فنقول له، اكتفاء بدلالة الكلام عليه. وعنى بقوله ﴿اقرأْ كِتابَكَ﴾ : اقرأ كتاب عملك الذي عملته في الدنيا، الذي كان كاتبانا يكتبانه، ونحصيه عليك ﴿كَفَى بِنَفْسِكَ الْيَوْمَ عَلَيْكَ حَسِيبًا﴾ يقول: حسبك اليوم نفسك عليك حاسبا يحسب عليك أعمالك، فيحصيها عليك، لا نبتغي عليك شاهدا غيرها، ولا نطلب عليك محصيا سواها.
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة ﴿اقْرَأْ كِتَابَكَ كَفَى بِنَفْسِكَ الْيَوْمَ عَلَيْكَ حَسِيبًا﴾ سيقرأ يومئذ من لم يكن قارئا في الدنيا.
+
+* *
+
+القول في تأويل قوله تعالى: ﴿مَنِ اهْتَدَى فَإِنَّمَا يَهْتَدِي لِنَفْسِهِ وَمَنْ ضَلَّ فَإِنَّمَا يَضِلُّ عَلَيْهَا وَلا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَى وَمَا كُنَّا مُعَذِّبِينَ حَتَّى نَبْعَثَ رَسُولا (١٥) ﴾
+
+يقول تعالى ذكره: من استقام على طريق الحقّ فاتبعه، وذلك دين الله الذي ابتعث به نبيه محمدا ﷺ عليه وسلم ﴿فإِنَّمَا يهتَدِي لِنَفسِهِ﴾ يقول: فليس ينفع بلزومه الاستقامة، وإيمانه بالله ورسوله غير نفسه ﴿وَمَنْ ضَلَّ﴾ يقول: ومن جار عن قصد السبيل، فأخذ على غير هدى، وكفر بالله وبمحمد ﷺ وبما جاء به من عند الله من الحقّ، فليس يضرّ بضلاله وجوره عن الهدى غير نفسه، لأنه يوجب لها بذلك غضب الله وأليم عذابه.. وإنما عنى بقوله ﴿فَإِنَّمَا يَضِلُّ عَلَيْهَا﴾ فإنما يكسب إثم ضلاله عليها لا على غيرها، وقوله ﴿وَلا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَى﴾ يعني تعالى ذكره: ولا تحمل حاملة حمل أخرى غيرها من الآثام. وقال ﴿وَازِرَةٌ وِزْرَ أُخْرَى﴾ لأن معناها: ولا تزر نفس وازرة وزر نفس أخرى يقال منه: وزرت كذا أزره وزرا، والوزر: هو الإثم، يجمع أوزارا، كما قال تعالى ﴿وَلَكِنَّا حُمِّلْنَا أَوْزَارًا مِنْ زِينَةِ الْقَوْمِ﴾ وكأن معنى الكلام: ولا تأثم آثمة إثم أخرى، ولكن على كل نفس إثمها دون إثم غيرها من الأنفس.
+
+كما:-
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة ﴿وَلا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَى﴾ والله ما يحمل الله على عبد ذنب غيره، ولا يؤاخذ إلا بعمله.
+
+* *
+
+وقوله ﴿وَمَا كُنَّا مُعَذِّبِينَ حَتَّى نَبْعَثَ رَسُولا﴾
+
+يقول تعالى ذكره: وما كنا مهلكي قوم إلا بعد الإعذار إليهم بالرسل، وإقامة الحجة عليهم بالآيات التي تقطع عذرهم.
+
+كما:-
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله ﴿وَمَا كُنَّا مُعَذِّبِينَ حَتَّى نَبْعَثَ رَسُولا﴾ : إن الله تبارك وتعالى ليس يعذب أحدا حتى يسبق إليه من الله خبرا، أو يأتيه من الله بيِّنة، وليس معذّبا أحدا إلا بذنبه.
+
+⁕ حدثنا محمد بن عبد الأعلى، قال: ثنا محمد بن ثور، عن معمر، عن قتادة، عن أبي هريرة، قال: إذا كان يوم القيامة، جمع الله تبارك وتعالى نسم الذين ماتوا في الفترة والمعتوه والأصمّ والأبكم، والشيوخ الذين جاء الإسلام وقد خرفوا، ثم أرسل رسولا أن ادخلوا النار، فيقولون: كيف ولم يأتنا رسول، وايم الله لو دخلوها لكانت عليهم بردا وسلاما، ثم يرسل إليهم، فيطيعه من كان يريد أن يطيعه قبل؛ قال أبو هريرة: اقرءوا إن شئتم ﴿وَمَا كُنَّا مُعَذِّبِينَ حَتَّى نَبْعَثَ رَسُولا﴾ .
+
+⁕ حدثنا القاسم، قال: ثنا الحسين، قال: ثنا أبو سفيان، عن معمر، عن همام، عن أبي هريرة نحوه.
 
 ### al-Muyassar (Arabic)
 
@@ -177,7 +960,7 @@ Allah tells us that whoever is guided and follows the truth, walking in the foot
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿مَن اهْتَدى فَإنَّما يَهْتَدِي لِنَفْسِهِ﴾ لِأَنْ ثَواب اهْتِدائِهِ لَهُ ﴿ومَن ضَلَّ فَإنَّما يَضِلّ عَلَيْها﴾ لِأَنَّ إثْمه عَلَيْها ﴿ولا تَزِر﴾ لا تَزِر نَفْس ﴿وازِرَة﴾ آثِمَة أيْ لا تَحْمِل ﴿وِزْر﴾ نَفْس ﴿أُخْرى وما كُنّا مُعَذِّبِينَ﴾ أحَدًا ﴿حَتّى نَبْعَث رَسُولًا﴾ يُبَيِّن لَهُ ما يَجِب عَلَيْهِ
 
 ---
 
@@ -185,24 +968,177 @@ Allah tells us that whoever is guided and follows the truth, walking in the foot
 
 ### Ibn Kathir (English)
 
-The Attributes of the Servants of the Most Gracious include avoiding Shirk, Murder and Zina
-Imam Ahmad recorded that `Abdullah bin Mas`ud said, "The Messenger of Allah was asked which sin is the most serious" He said:
-«أَنْ تَجْعَلَ للهِ نِدًّا وَهُوَ خَلَقَك»
+And those who invoke not any other god along with Allah, nor kill such person as Allah has forbidden, except for just cause, nor commit illegal sexual intercourse – and whoever does this shall receive Athama (68)The torment will be doubled for him on the Day of Resurrection, and he will abide therein in disgrace (69)Except those who repent and believe, and do righteous deeds; for those, Allah will change their sins into good deeds, and Allah is Oft-Forgiving, Most Merciful (70)And whosoever repents and does righteous good deeds; then indeed he has repented to Allah Mataba (71)
+
+The Attributes of the Servants of the Most Gracious Include Avoiding Shirk, Murder and Zina
+
+Imam Ahmad recorded that 'Abdullah bin Mas'ud said, "The Messenger of Allah was asked which sin is the most serious" He said:
+
+أَنْ تَجْعَلَ للهِ نِدًّا وَهُوَ خَلَقَكَ
+
 (That you appoint a rival to Allah when He has created you.) He asked, "Then what" He said:
-«أَنْ تَقْتُلَ وَلَدَكَ خَشْيَةَ أَنْ يَطْعَمَ مَعَك»
-(That you kill your child for fear that he may eat with you.) He said, "Then what" He said...
+
+أَنْ تَقْتُلَ وَلَدَكَ خَشْيَةَ أَنْ يَطْعَمَ مَعَكَ
+
+(That you kill your child for fear that he may eat with you.) He said, "Then what" He said:
+
+أَنْ تُزَانِي حَلِيلَةَ جَارِكَ
+
+(That you commit adultery with your neighbor's wife.) 'Abdullah said, "Then Allah revealed, confirming that:
+
+وَالَّذِينَ لَا يَدْعُونَ مَعَ اللَّهِ إِلَٰهًا آخَرَ
+
+(And those who invoke not any other god along with Allah....)" This was also recorded by An-Nasa'i, and by Al-Bukhari and Muslim. It was narrated that Sa'id bin Jubayr heard Ibn 'Abbas saying that some of the people of Shirk killed a great deal and committed Zina a great deal, then they came to Muhammad and said: "What you are saying and calling people to is good, if only you would tell us that there is a way to expiate for what we have done." Then the Ayah:
+
+وَالَّذِينَ لَا يَدْعُونَ مَعَ اللَّهِ إِلَٰهًا آخَرَ
+
+(And those who invoke not any other god along with Allah...) was revealed, as was the Ayah,
+
+قُلْ يَا عِبَادِيَ الَّذِينَ أَسْرَفُوا عَلَىٰ أَنفُسِهِمْ
+
+(Say: "O My servants who have transgressed against themselves!")(39:53).
+
+وَمَن يَفْعَلْ ذَٰلِكَ يَلْقَ أَثَامًا
+
+(and whoever does this shall receive Athama.) It was recorded that 'Abdullah bin 'Amr said: "Athama is a valley in Hell." 'Ikrimah also said that Athama refers to valleys in Hell in which those who commit unlawful sexual acts will be punished. This was also narrated from Sa'id bin Jubayr and Mujahid. As-Suddi said that Athama referred to punishment, which is closer to the apparent meaning of the Ayah. This interpretation makes it interchangeable with what comes next, the Ayah:
+
+يُضَاعَفْ لَهُ الْعَذَابُ يَوْمَ الْقِيَامَةِ
+
+(The torment will be doubled for him on the Day of Resurrection,) i.e., repetitive and intensified.
+
+وَيَخْلُدْ فِيهِ مُهَانًا
+
+(and he will abide therein in disgrace;) scorned and humiliated.
+
+إِلَّا مَن تَابَ وَآمَنَ وَعَمِلَ عَمَلًا صَالِحًا
+
+(Except those who repent and believe, and do righteous deeds;) means, those who do these evil deeds will be punished in the manner described,
+
+إِلَّا مَن تَابَ
+
+(Except those who repent), that is; those who repent in this world to Allah from all of those deeds, for then Allah will accept their repentance. This is evidence that the repentance of the murderer is acceptable, and there is no contradiction between this and the Ayah in Surat An-Nisa':
+
+وَمَن يَقْتُلْ مُؤْمِنًا مُّتَعَمِّدًا
+
+(And whoever kills a believer intentionally)(4:93), because even though this was revealed in Al-Madinah, the meaning is general, and it could be interpreted to refer to one who does not repent, because this Ayah states that forgiveness is only for those who repent. Moreover Allah says:
+
+إِنَّ اللَّهَ لَا يَغْفِرُ أَن يُشْرَكَ بِهِ وَيَغْفِرُ مَا دُونَ ذَٰلِكَ لِمَن يَشَاءُ
+
+(Verily, Allah forgives not that partners should be set up with Him, but He forgives except that to whom He wills)(4:48). And in the authentic Sunnah, it is reported from the Messenger of Allah that the repentance of a murderer is acceptable, as was stated in the story of the person who killed one hundred men and then repented, and Allah accepted his repentance, and other Hadiths.
+
+فَأُولَٰئِكَ يُبَدِّلُ اللَّهُ سَيِّئَاتِهِمْ حَسَنَاتٍ ۗ وَكَانَ اللَّهُ غَفُورًا رَّحِيمًا
+
+(for those, Allah will change their sins into good deeds, and Allah is Oft-Forgiving, Most Merciful.) Imam Ahmad recorded that Abu Dharr, may Allah be pleased with him, said, "The Messenger of Allah said:
+
+إِنِّي لَأَعْرِفُ آخِرَ أَهْلِ النَّارِ خُرُوجًا مِنَ النَّارِ، وَآخِرَ أَهْلِ الْجَنَّةِ دُخُولًا إِلَى الْجَنَّةِ، يُؤْتَى بِرَجُلٍ فَيَقُولُ: نَحُّوا عَنْهُ كِبَارَ ذُنُوبِهِ وَسَلُوهُ عَنْ صِغَارِهَا، قَالَ: فَيُقَالُ لَهُ: عَمِلْتَ يَوْمَ كَذَا، كَذَا وَكَذَا، وَعَمِلْتَ يَوْمَ كَذَا، كَذَا وَكَذَا، فَيَقُولُ: نَعَمْ لَا يَسْتَطِيعُ أَنْ يُنْكِرَ مِنْ ذَلِكَ شَيْئًا، فَيُقَالُ: فَإِنَّ لَكَ بِكُلِّ سَيِّئَةٍ حَسَنَةً، فَيَقُولُ: يَا رَبِّ عَمِلْتُ أَشْيَاءَ لَا أَرَاهَا هٰهُنَا
+
+(I know the last person who will be brought forth from Hell, and the last person who will enter Paradise. A man will be brought and it will be said, "Take away his major sins and ask him about his minor sins." So it will be said to him: "On such and such a day, you did such and such, and on such and such a day, you did such and such." He will say, "Yes, and he will not be able to deny anything." Then it will be said to him: "For every evil deed you now have one good merit." He will say: "O Lord, I did things that I do not see here.") He (Abu Dharr) said: "And the Messenger of Allah smiled so broadly that his molars could be seen." Muslim recorded it. Ibn Abi Hatim recorded that Abu Jabir heard Makhul say, "A very old man with sunken eyes came and said, 'O Messenger of Allah, a man betrayed others and did immoral deeds, and there was no evil deed which he did not do. If (his sins) were to be distributed among the whole of mankind, they would all be doomed. Is there any repentance for him" The Messenger of Allah said:
+
+أَأَسْلَمْتَ؟
+
+(Have you become Muslim) He said, "As for me, I bear witness that there is no God but Allah Alone, with no partner or associate, and that Muhammad is His servant and Messenger." The Prophet said:
+
+فَإِنَّ اللهَ غَافِرٌ لَكَ مَا كُنْتَ كَذَلِكَ، وَمُبَدِّلُ سَيِّئَاتِكَ حَسَنَاتٍ
+
+(Allah will forgive you for whatever you have done like that, and will replace your evil deeds with good merits.) The man said: "O Messenger of Allah, even my betrayals and immoral actions" The Prophet said:
+
+وَغَدَرَاتُكَ وَفَجَرَاتُكَ
+
+(Even your betrayals and immoral actions.) "The man went away saying 'La ilaha illallah' and 'Allahu Akbar.'" Allah tells us how His mercy extends to all His creatrues, and that whoever among them repents to Him, He will accept his repentance for any sin, great or small. Allah says:
+
+وَمَن تَابَ وَعَمِلَ صَالِحًا فَإِنَّهُ يَتُوبُ إِلَى اللَّهِ مَتَابًا
+
+(And whosoever repents and does righteous good deeds; then indeed he has repented to Allah Mataba.) meaning, Allah will accept his repentance. This is like the Ayat:
+
+وَمَن يَعْمَلْ سُوءًا أَوْ يَظْلِمْ نَفْسَهُ ثُمَّ يَسْتَغْفِرِ اللَّهَ يَجِدِ اللَّهَ غَفُورًا رَّحِيمًا
+
+(And whoever does evil or wrongs himself but afterwards seeks Allah's forgiveness, he will find Allah Oft-Forgiving, Most Merciful)(4:110).
+
+أَلَمْ يَعْلَمُوا أَنَّ اللَّهَ هُوَ يَقْبَلُ التَّوْبَةَ عَنْ عِبَادِهِ
+
+(Know they not that Allah accepts repentance from His servants...)(9:104).
+
+قُلْ يَا عِبَادِيَ الَّذِينَ أَسْرَفُوا عَلَىٰ أَنفُسِهِمْ لَا تَقْنَطُوا مِن رَّحْمَةِ اللَّهِ
+
+(Say: "O My servants who have transgressed against themselves! Despair not of the mercy of Allah.")(39:53) - for those who repent to Him.
 
 ### al-Tabari (Arabic)
 
-وقوله: ( إِلا مَنْ تَابَ وَآمَنَ وَعَمِلَ عَمَلا صَالِحًا ) يقول تعالى ذكره: ومن يفعل هذه الأفعال التي ذكرها جلّ ثناؤه يلق أثاما( إِلا مَنْ تَابَ ) يقول: إلا من راجع طاعة الله تبارك وتعالى بتركه ذلك, وإنابته إلى ما يرضاه الله ( وَآمَنَ ) يقول: وصدّق بما جاء به محمد نبيّ الله ( وَعَمِلَ عَمَلا صَالِحًا ) يقول: وعمل بما آمره الله من الأعمال, وانتهى عما نهاه الله عنه.قوله: ( فَأُولَئِكَ يُبَدِّلُ اللَّهُ سَيِّئَاتِهِمْ حَسَنَاتٍ ). اختلف أهل التأويل في تأويل ذلك, فقال بعضهم: معناه: فأولئك يبدّل ...
+القول في تأويل قوله تعالى: ﴿وَالَّذِينَ لا يَدْعُونَ مَعَ اللَّهِ إِلَهًا آخَرَ وَلا يَقْتُلُونَ النَّفْسَ الَّتِي حَرَّمَ اللَّهُ إِلا بِالْحَقِّ وَلا يَزْنُونَ وَمَنْ يَفْعَلْ ذَلِكَ يَلْقَ أَثَامًا (٦٨) يُضَاعَفْ لَهُ الْعَذَابُ يَوْمَ الْقِيَامَةِ وَيَخْلُدْ فِيهِ مُهَانًا (٦٩) إِلا مَنْ تَابَ وَآمَنَ وَعَمِلَ عَمَلا صَالِحًا فَأُولَئِكَ يُبَدِّلُ اللَّهُ سَيِّئَاتِهِمْ حَسَنَاتٍ وَكَانَ اللَّهُ غَفُورًا رَحِيمًا (٧٠) وَمَنْ تَابَ وَعَمِلَ صَالِحًا فَإِنَّهُ يَتُوبُ إِلَى اللَّهِ مَتَابًا (٧١) ﴾
+
+يقول تعالى ذكره: والذين لا يعبدون مع الله إلها آخر، فيشركون في عبادتهم إياه، ولكنهم يخلصون له العبادة ويفردونه بالطاعة ﴿وَلا يَقْتُلُونَ النَّفْسَ الَّتِي حَرَّمَ اللَّهُ﴾ قتلها ﴿إِلا بِالْحَقِّ﴾ إما بكفر بالله بعد إسلامها، أو زنا بعد إحصانها، أو قتل نفس، فتقتل بها ﴿وَلا يَزْنُونَ﴾ فيأتون ما حرم الله عليهم إتيانه من الفروج ﴿وَمَنْ يَفْعَلْ ذَلِكَ﴾ يقول: ومن يأت هذه الأفعال، فدعا مع الله إلها آخر، وقتل النفس التي حرّم الله بغير الحق، وزنى ﴿يَلْقَ أَثَامًا﴾ يقول: يلق من عقاب الله عقوبة ونكالا كما وصفه ربنا جلّ ثناؤه، وهو أنه ﴿يُضَاعَفْ لَهُ الْعَذَابُ يَوْمَ الْقِيَامَةِ وَيَخْلُدْ فِيهِ مُهَانًا﴾ ، ومن الأثام قول بَلْعَاءَ بن قيس الكناني:
+
+جَزَى اللهُ ابْنَ عُرْوَةَ حيْثُ أمْسَى ... عُقُوقا والعُقُوقُ لَهُ أثامُ [[البيت لبلعام بن قيس بن ربيعة بن عبد الله بن يعمر، واسمه حميضة وهو من كنانة بن خزيمة، وكان بلعاء رأس بني كنانة في أكثر حروبهم ومغازيهم، وكان كثير الغارات على العرب، وله أخبار في حروب الفجار. وهو شاعر محسن، قال في كل فن أشعاراً جيادًا (انظر المؤتلف والمختلف ١٠٦ ومعجم الشعراء للمرزباني ٣٥٧) . والبيت أنشده صاحب (اللسان: أثم) ونسبه إلى شافع الليثي. ونسبه أبو عبيدة في مجاز القرآن إلى بلعاء بن قيس الكناني، وعنه أخذ المؤلف قال في اللسان: " قال أبو إسحاق: تأويل الأثام: المجازاة وفال أبو عمرو الشيباني: لقي فلان أثام ذلك: أي جزاء ذلك، فإن الخليل وسيبويه يذهبان إلى أن معناه: يلقى جزاء الأثام. وقول شافع الليثي في ذلك جزى الله ابن عروة...... ... .............. له أثام"
+
+أي عقوبة مجازاة العقوق، وهي قطيعة الرحم. وقال الليث: الأثام في جملة التفسير عقوبة الإثم. وقيل في قوله تعالى ﴿يلق أثاما﴾ قيل: هو واد في جهنم. قال ابن سيده: والصواب عندي: أن معناه: يلق عقاب الأثام. اهـ.]]
+
+يعني بالأثام: العقاب.
+
+وقد ذُكر أن هذه الآية نزلت على رسول الله ﷺ من أجل قوم من المشركين أرادوا الدخول في الإسلام، ممن كان منه في شركه هذه الذنوب، فخافوا أن لا ينفعهم مع ما سلف منهم من ذلك إسلام، فاستفتَوْا رسول الله ﷺ في ذلك، فأنزل الله تبارك وتعالى هذه الآية، يعلمهم أن الله قابل توبة من تاب منهم.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا القاسم، قال: ثنا الحسين، قال: ثني حجاج، عن ابن جُرَيج، قال: ثني يعلى بن مسلم، عن سعيد بن جبير، عن ابن عباس: أن ناسا من أهل الشرك قَتَلُوا فأكثروا، فأتوا محمدًا ﷺ، فقالوا: إن الذي تدعونا إليه لحسن، لو تخبرنا أن لما عملنا كفارة، فنزلت ﴿وَالَّذِينَ لا يَدْعُونَ مَعَ اللَّهِ إِلَهًا آخَرَ وَلا يَقْتُلُونَ النَّفْسَ الَّتِي حَرَّمَ اللَّهُ إِلا بِالْحَقِّ وَلا يَزْنُونَ﴾ ونزلت: ﴿قُلْ يَاعِبَادِيَ الَّذِينَ أَسْرَفُوا عَلَى أَنْفُسِهِمْ لا تَقْنَطُوا مِنْ رَحْمَةِ اللَّهِ﴾ إلى قوله: ﴿مِنْ قَبْلِ أَنْ يَأْتِيَكُمُ الْعَذَابُ بَغْتَةً وَأَنْتُمْ لا تَشْعُرُونَ﴾ قال ابن جُرَيج: وقال مجاهد مثل قول ابن عباس سواء.
+
+⁕ حدثنا عبد الله بن محمد الفريابي، قال: ثنا سفيان، عن أبي معاوية، عن أبي عمرو الشيباني، عن عبد الله، قال: سألت النبيّ ﷺ: ما الكبائر؟ قال: أنْ تَدْعُوَ للهِ نِدّا وهُوَ خَلَقَكَ وأنْ تَقْتُلَ وَلَدَكَ مِنْ أَجْلِ أَنْ يَأَكُلَ مَعَكَ، وأنْ تَزْنِي بِحَلِيلَةِ جَارِكَ، وقرأ علينا رسول الله ﷺ من كتاب الله ﴿وَالَّذِينَ لا يَدْعُونَ مَعَ اللَّهِ إِلَهًا آخَرَ وَلا يَقْتُلُونَ النَّفْسَ الَّتِي حَرَّمَ اللَّهُ إِلا بِالْحَقِّ وَلا يَزْنُونَ﴾ .
+
+⁕ حدثنا ابن بشار، قال: ثنا أبو عامر، قال: ثنا سفيان عن الأعمش ومنصور، عن أبي وائل، عن عمرو بن شرحبيل، عن عبد الله، قال: قلت: يا رسول الله، أي الذنب أعظم؟ أنْ تَجْعَلَ للهِ نِدّا وهُوَ خَلَقَكَ، قلت: ثم أي؟ قال: أنْ تَقْتُلَ وَلَدَكَ خَشْيَةَ أَنْ يَأَكُلَ مَعَكَ، قلت: ثم أي؟ قال: أنْ تُزَاني حَلِيلَةِ جَارِكَ" فأنزل تصديق قول النبي ﷺ: ﴿وَالَّذِينَ لا يَدْعُونَ مَعَ اللَّهِ إِلَهًا آخَرَ وَلا يَقْتُلُونَ النَّفْسَ الَّتِي حَرَّمَ اللَّهُ إِلا بِالْحَقِّ وَلا يَزْنُونَ﴾ " ... الآية.
+
+⁕ حدثنا سليمان بن عبد الجبار، قال: ثنا عليّ بن قادم، قال: ثنا أسباط بن نصر الهمداني، عن منصور، عن أبي وائل، عن أبي ميسرة، عن عبد الله بن مسعود، عن النبيّ ﷺ، نحوه.
+
+⁕ حدثني عيسى بن عثمان بن عيسى الرملي، قال: ثني عمي يحيى بن عيسى، عن الأعمش، عن سفيان، عن عبد الله قال: جاء رجل إلى النبي ﷺ فقال: يا رسول الله أي الذنب أكبر؟ ثم ذكر نحوه.
+
+⁕ حدثني أحمد بن إسحاق الأهوازي، قال: ثنا عامر بن مدرك، قال: ثنا السريّ - يعني ابن إسماعيل - قال: ثنا الشعبي، عن مسروق، قال: قال عبد الله: " خرج رسول الله ﷺ ذات يوم، فاتبعته، فجلس على نشَز من الأرض، وقعدت أسفل منه، ووجهي حيال ركبتيه، فاغتنمت خلوته وقلت: بأبي وأمي يا رسول الله، أي الذنوب أكبر؟ قال: "أنْ تَدْعُوَ للهِ نِدّا وهُوَ خَلَقَكَ. قلت: ثم مه؟ قال: "أنْ تَقْتَلَ وَلَدَكَ كَرَاهِيَةَ أنْ يَطْعَمَ مَعَكَ". قلت: ثم مه؟ قال: "أنْ تُزَانِي حَلِيلَةِ جَارِكَ"، ثم تلا هذه الآية: ﴿وَالَّذِينَ لا يَدْعُونَ مَعَ اللَّهِ إِلَهًا آخَرَ﴾ ... إلى آخر الآية.
+
+⁕ حدثنا أبو كريب، قال: ثنا طلق بن غنام، عن زائدة، عن منصور، قال: ثني سعيد بن جُبير، أو حُدثت عن سعيد بن جُبير، أن عبد الرحمن بن أبزى أمره أن يسأل ابن عباس عن هاتين الآيتين التي في النساء ﴿وَمَنْ يَقْتُلْ مُؤْمِنًا مُتَعَمِّدًا﴾ ... إلى آخر الآية، والآية التي في الفرقان ﴿وَمَنْ يَفْعَلْ ذَلِكَ يَلْقَ أَثَامًا﴾ إلى ﴿وَيَخْلُدْ فِيهِ مُهَانًا﴾ قال ابن عباس: إذا دخل الرجل في الإسلام وعلم شرائعه وأمره، ثم قتل مؤمنا متعمدا، فلا توبة له، والتي في الفرقان لما أنزلت قال المشركون من أهل مكة: فقد عدلنا بالله، وقتلنا النفس التي حرّم الله بغير الحقّ، فما ينفعنا الإسلام؟ قال: فنزلت ﴿إِلا مَنْ تَابَ﴾ قال: فمن تاب منهم قُبل منه.
+
+⁕ حدثنا ابن حميد، قال: ثنا جرير، عن منصور، قال: ثني سعيد بن جبير، أو قال: حدثني الحكم عن سعيد بن جُبير، قال: أمرني عبد الرحمن بن أبزي، فقال: سل ابن عباس، عن هاتين الآيتين، ما أمرهما عن الآية التي في الفرقان ﴿وَالَّذِينَ لا يَدْعُونَ مَعَ اللَّهِ إِلَهًا آخَرَ وَلا يَقْتُلُونَ النَّفْسَ الَّتِي حَرَّمَ اللَّهُ﴾ الآية، والتي في النساء ﴿وَمَنْ يَقْتُلْ مُؤْمِنًا مُتَعَمِّدًا فَجَزَاؤُهُ جَهَنَّمُ﴾ فسألت ابن عباس عن ذلك، فقال: لما أنزل الله التي في الفرقان، قال مشركو أهل مكة: قد قتلنا النفس التي حرّم الله، ودعونا مع الله إلها آخر، فقال: ﴿إِلا مَنْ تَابَ وَآمَنَ وَعَمِلَ عَمَلا صَالِحًا﴾ الآية. فهذه لأولئك. وأما التي في النساء ﴿وَمَنْ يَقْتُلْ مُؤْمِنًا مُتَعَمِّدًا فَجَزَاؤُهُ جَهَنَّمُ﴾ ... الآية، فإن الرجل إذا عرف الإسلام، ثم قتل مؤمنا متعمدا، فجزاؤه جهنم، فلا توبة له. فذكرته لمجاهد، فقال: إلا من ندم.
+
+⁕ حدثنا محمد بن عوف الطائي، قال: ثنا أحمد بن خالد الذهني، قال: ثنا شيبان، عن منصور بن المعتمر، قال: ثني سعيد بن جُبير، قال لي سعيد بن عبد الرحمن بن أبزى: سل ابن عباس، عن هاتين الآيتين عن قول الله: ﴿وَالَّذِينَ لا يَدْعُونَ مَعَ اللَّهِ إِلَهًا آخَرَ﴾ ... إلى ﴿مَنْ تَابَ﴾ وعن قوله ﴿وَمَنْ يَقْتُلْ مُؤْمِنًا مُتَعَمِّدًا﴾ ... إلى آخر الآية، قال: فسألت عنها ابن عباس، فقال: أنزلت هذه الآية في الفرقان بمكة إلى قوله ﴿وَيَخْلُدْ فِيهِ مُهَانًا﴾ فقال المشركون: فما يغني عنا الإسلام، وقد عدلنا بالله، وقتلنا النفس التي حرّم الله، وأتينا الفواحش، قال: فأنزل الله ﴿إِلا مَنْ تَابَ وَآمَنَ وَعَمِلَ عَمَلا صَالِحًا﴾ ... إلى آخر الآية، قال: وأما من دخل في الإسلام وعقله، ثم قتل، فلا توبة له.
+
+⁕ حدثنا ابن بشار، قال: ثنا ابن أبي عديّ، عن شعبة، عن أبي بشر، عن سعيد بن جبير، عن ابن عباس، قال في هذه الآية ﴿وَالَّذِينَ لا يَدْعُونَ مَعَ اللَّهِ إِلَهًا آخَرَ وَلا يَقْتُلُونَ النَّفْسَ الَّتِي حَرَّمَ اللَّهُ إِلا بِالْحَقِّ﴾ ... الآية، قال: نزلت في أهل الشرك.
+
+⁕ حدثنا ابن المثنى، قال: ثنا محمد بن جعفر، قال: ثنا شعبة، عن منصور، عن سعيد بن جُبير، قال: أمرني عبد الرحمن بن أبزي أن أسأل ابن عباس عن هذه الآية ﴿وَالَّذِينَ لا يَدْعُونَ مَعَ اللَّهِ إِلَهًا آخَرَ﴾ فذكر نحوه.
+
+⁕ حدثني عبد الكريم بن عمير، قال: ثنا إبراهيم بن المنذر، قال: ثنا عيسى بن شعيب بن ثوبان، مَولى لبني الديل من أهل المدينة، عن فليح الشماس، عن عبيد بن أبي عبيد، عن أبي هريرة، قال: "صليت مع رسول الله ﷺ العَتَمة، ثم انصرفت فإذا امرأة عند بابي، ثم سلمت، ففتحت ودخلت، فبينا أنا في مسجدي أصلي، إذ نقرت الباب، فأذنت لها، فدخلت فقالت: إني جئتك أسألك عن عمل عملت، هل لي من توبة؟ فقالت: إني زنيت وولدت، فقتلته، فقلت: ولا لا نعمت العين ولا كرامة، فقامت وهي تدعو بالحسرة تقول: يا حسرتاه، أخُلق هذا الحسن للنار؟ قال: ثم صليت مع رسول الله ﷺ الصبح من تلك الليلة، ثم جلسنا ننتظر الإذن عليه، فأذن لنا، فدخلنا، ثم خرج من كان معي، وتخلفت، فقال: مَا لَكَ يا أبا هُرَيْرَةَ، ألَكَ حَاجَة؟ فقلت له: يا رسول الله صليت معك البارحة ثم انصرفت. وقصصت عليه ما قالت المرأة، فقال النبي ﷺ: ما قُلْت لَهَا؟ قال: قلت لها: لا والله، ولا نعمت العين ولا كرامة، فقال رسول الله ﷺ: "بِئسَ مَا قُلتَ، أمَا كُنْتَ تَقْرَأ هذِهِ الآية ﴿وَالَّذِينَ لا يَدْعُونَ مَعَ اللَّهِ إِلَهًا آخَرَ وَلا يَقْتُلُونَ النَّفْسَ الَّتِي حَرَّمَ اللَّهُ إِلا بِالْحَقِّ﴾ ... الآية ﴿إِلا مَنْ تَابَ وَآمَنَ وَعَمِلَ عَمَلا صَالِحًا﴾ فقال أبو هريرة: فخرجت، فلم أترك بالمدينة حصنا ولا دارًا إلا وقفت عليه، فقلت: إن تكن فيكم المرأة التي جاءت أبا هريرة الليلة، فلتأتني ولتبشر؛ فلما صليت مع النبيّ ﷺ العشاء، فإذا هي عند بابي، فقلت: أبشري، فإني دخلت على النبيّ، فذكرت له ما قلت لي، وما قلت لك، فقال: وبئس ما قلت لها، أما كنت تقرأ هذه الآية؟ فقرأتها عليها، فخرّت ساجدة، فقالت: الحمد لله الذي جعل مخرجًا وتوبة مما عملت، إن هذه الجارية وابنها حرَّان لوجه الله، وإني قد تبت مما عملت".
+
+⁕ حدثنا ابن حميد، قال: ثنا يحيى بن واضح، قال: ثنا جعفر بن سليمان، عن عمرو بن مالك، عن أبي الجوزاء، قال: اختلفت إلى ابن عباس ثلاث عشرة سنة، فما شيء من القرآن إلا سألته عنه، ورسولي يختلف إلى عائشة، فما سمعته ولا سمعت أحدا من العلماء يقول: إن الله يقول لذنب: لا أغفره.
+
+وقال آخرون: هذه الآية منسوخة بالتي في النساء.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا يونس بن عبد الأعلى، قال: أخبرنا ابن وهب، قال: أخبرني المغيرة بن عبد الرحمن الحراني، عن أبي الزناد، عن خارجة بن زيد أنه دخل على أبيه وعنده رجل من أهل العراق، وهو يسأله عن هذه الآية التي في تبارك الفرقان، والتي في النساء ﴿وَمَنْ يَقْتُلْ مُؤْمِنًا مُتَعَمِّدًا﴾ فقال زيد بن ثابت: قد عرفت الناسخة من المنسوخة، نسختها التي في النساء بعدها بستة أشهر.
+
+⁕ حدثنا القاسم، قال: ثنا الحسين، قال: ثني حجاج، عن ابن جُرَيج، قال: قال الضحاك بن مزاحم: هذه السورة بينها وبين النساء ﴿وَمَنْ يَقْتُلْ مُؤْمِنًا مُتَعَمِّدًا﴾ ثمان حجج. وقال ابن جُرَيج: وأخبرني القاسم بن أبي بزة أنه سأل سعيد بن جُبير: هل لمن قتل مؤمنا متعمدا توبة؟ فقال: لا فقرأ عليه هذه الآية كلها، فقال سعيد بن جُبير: قرأتها على ابن عباس كما قرأتها علي، فقال: هذه مكية، نسختها آية مدنية، التي في سورة النساء، وقد أتينا على البيان عن الصواب من القول في هذه الآية التي في سورة النساء بما أغنى عن إعادته في هذا الموضع.
+
+وبنحو الذي قلنا في الأثام من القول، قال أهل التأويل، إلا أنهم قالوا: ذلك عقاب يعاقب الله به من أتى هذه الكبائر بواد في جهنم يُدعى أثاما.
+
+ذكر من قال ذلك:
+
+⁕ حدثني أحمد بن المقدام، قال: ثنا المعتمر بن سليمان، قال: سمعت أبي يحدّث، عن قتادة، عن أبي أيوب الأزدي، عن عبد الله بن عمرو، قال: الأثام: واد في جهنم.
+
+⁕ حدثنا محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى؛ وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء، جميعًا عن ابن أبي نجيح، عن مجاهد في قول الله: ﴿يَلْقَ أَثَامًا﴾ قال: واديا في جهنم.
+
+⁕ حدثنا القاسم، قال: ثنا الحسين، قال: ثني حجاج، عن ابن جُرَيج، عن مجاهد، حدثنا ابن حميد قال: ثنا يحيى بن واضح، قال: ثنا الحسين، عن يزيد، عن عكرمة، في قوله: ﴿وَمَنْ يَفْعَلْ ذَلِكَ يَلْقَ أَثَامًا﴾ قال: واديا في جهنم فيه الزناة.
+
+⁕ حدثني العباس بن أبي طالب، قال: ثنا محمد بن زياد، قال: ثنا شرقي بن قطاميّ، عن لقمان بن عامر الخزاعيّ، قال: جئت أبا أمامة صديّ بن عجلان الباهلي، فقلت: حدثني حديثًا سمعته من رسول الله ﷺ، قال: فدعا لي بطعام، ثم قال: قال رسول الله ﷺ: "لَوْ أَنَّ صَخْرَةً زِنَةَ عَشْر عَشْرَوَاتٍ قُذِفَ بِها مِنْ شَفِيرِ جَهَنَّمَ ما بَلَغَتْ قَعْرَهَا خَمْسِينَ خَرِيفا، ثُمَّ تَنْتَهِي إلى غَيٍّ وأثامٍ". قلت: وما غيّ وأثام؟ قال: بِئْرَان فِي أَسْفَلِ جَهَنَّمَ يَسِيلُ فِيهِمَا صَدِيدُ أهْلِ النَّار، وهما اللذان ذكر الله في كتابه ﴿أَضَاعُوا الصَّلاةَ وَاتَّبَعُوا الشَّهَوَاتِ فَسَوْفَ يَلْقَوْنَ غَيًّا﴾ وقوله في الفرقان ﴿وَلا يَزْنُونَ وَمَنْ يَفْعَلْ ذَلِكَ يَلْقَ أَثَامًا﴾ .
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله: ﴿يَلْقَ أَثَامًا﴾ قال: الأثام الشرّ، وقال: سيكفيك ما وراء ذلك: ﴿يُضَاعَفْ لَهُ الْعَذَابُ يَوْمَ الْقِيَامَةِ وَيَخْلُدْ فِيهِ مُهَانًا﴾ .
+
+⁕ حدثنا الحسن، قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر، عن قتادة، في قوله: ﴿يَلْقَ أَثَامًا﴾ قال: نكالا قال: وقال: إنه واد في جهنم.
+
+⁕ حدثنا القاسم، قال: ثنا الحسين، قال: ثني حجاج، عن هشيم، قال: أخبرنا زكريا بن أبي مريم قال: سمعت أبا 
+
+[TRUNCATED at 12000 chars — 8909 more. Consult the source directly before relying on anything near the cut.]
 
 ### al-Muyassar (Arabic)
 
-والذين يوحدون الله، ولا يدعون ولا يعبدون إلهًا غيره، ولا يقتلون النفس التي حرَّم الله قتلها إلا بما يحق قتلها به: من كفر بعد إيمان، أو زنى بعد زواج، أو قتل نفس عدوانًا، ولا يزنون، بل يحفظون فروجهم، إلا على أزواجهم أو ما ملكت أيمانهم، ومن يفعل شيئًا من هذه الكبائر يَلْقَ في الآخرة عقابًا. يُضاعَفْ له العذاب يوم القيامة، ويَخْلُدْ فيه ذليلا حقيرًا. (والوعيد بالخلود لمن فعلها كلَّها، أو لمن أشرك بالله). لكن مَن تاب مِن هذه الذنوب توبة نصوحًا وآمن إيمانًا جازمًا مقرونًا بالعمل الصالح، فأولئك يمحو...
+والذين يوحدون الله، ولا يدعون ولا يعبدون إلهًا غيره، ولا يقتلون النفس التي حرَّم الله قتلها إلا بما يحق قتلها به: مِن كفر بعد إيمان، أو زنى بعد زواج، أو قتل نفس عدوانًا، ولا يزنون، بل يحفظون فروجهم إلا على أزواجهم أو ما ملكت أيمانهم، ومن يفعل شيئًا من هذه الكبائر يَلْقَ في الآخرة عقابًا. يُضاعَفْ له العذاب يوم القيامة، ويَخْلُدْ فيه ذليلًا حقيرًا. (والوعيد بالخلود لمن فعلها كلَّها، أو لمن أشرك بالله). لكن مَن تاب مِن هذه الذنوب توبة نصوحًا وآمن إيمانًا جازمًا مقرونًا بالعمل الصالح، فأولئك يمحو الله عنهم سيئاتهم ويجعل مكانها حسنات؛ بسبب توبتهم وندمهم. وكان الله غفورًا لمن تاب، رحيمًا بعباده حيث دعاهم إلى التوبة بعد مبارزته بأكبر المعاصي. ومن تاب عمّا ارتكب من الذنوب، وعمل عملًا صالحًا فإنه بذلك يرجع إلى الله رجوعًا صحيحًا، فيقبل الله توبته ويكفر ذنوبه.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿إلّا مَن تابَ وآمَنَ وعَمِلَ عَمَلًا صالِحًا﴾ مِنهُمْ ﴿فَأُولَئِكَ يُبَدِّل اللَّه سَيِّئاتهمْ﴾ المَذْكُورَة ﴿حَسَنات﴾ فِي الآخِرَة ﴿وكانَ اللَّه غَفُورًا رَحِيمًا﴾ أيْ لَمْ يَزَلْ مُتَّصِفًا بِذَلِكَ
 
 ---
 
@@ -210,12 +1146,209 @@ Imam Ahmad recorded that `Abdullah bin Mas`ud said, "The Messenger of Allah was 
 
 ### Ibn Kathir (English)
 
+Say: "O My servants who have transgressed against themselves! Despair not of the mercy of Allah, verily, Allah forgives all sins. Truly, He is Oft-Forgiving, Most Merciful. (53)"And turn in repentance (and in obedience with true faith) to your Lord and submit to Him before the torment comes upon you, (and) then you will not be helped. (54)"And follow the best of that which is sent down to you from your Lord, before the torment comes on you suddenly while you perceive not! (55)Lest a person should say: "Alas, my grief that I was undutiful to Allah, and I was indeed among those who mocked. (56)Or (lest) he should say: "If only Allah had guided me, I should indeed have been among those who have Taqwa. (57)Or (lest) he should say when he sees the torment: "If only I had another chance, then I should indeed be among the doers of good. (58)Yes! Verily, there came to you My Ayat and you denied them, and were proud and were among the disbelievers (59)
+
 The Call to repent before the Punishment comes
-This Ayah is a call to all sinners, be they disbelievers or others, to repent and turn to Allah. This Ayah tells us that Allah, may He be blessed and exalted, will forgive all the sins of those who repent to Him and turn back to Him, no matter what or how many his sins are, even if they are like the foam of the sea. This cannot be interpreted as meaning that sins will be forgiven without repentance, because Shirk can only be forgiven for the one ...
+
+This Ayah is a call to all sinners, be they disbelievers or others, to repent and turn to Allah. This Ayah tells us that Allah, may He be blessed and exalted, will forgive all the sins of those who repent to Him and turn back to Him, no matter what or how many his sins are, even if they are like the foam of the sea. This cannot be interpreted as meaning that sins will be forgiven without repentance, because Shirk can only be forgiven for the one who repents from it. Al-Bukhari recorded that Ibn 'Abbas, may Allah be pleased with him, said that some of the people of Shirk killed many people and committed Zina (illegal sexual acts) to a great extent; they came to Muhammad ﷺ and said, "What you are saying and calling us to is good; if only you could tell us that there is an expiation for what we have done." Then the following Ayat were revealed:
+
+وَالَّذِينَ لَا يَدْعُونَ مَعَ اللَّهِ إِلَٰهًا آخَرَ وَلَا يَقْتُلُونَ النَّفْسَ الَّتِي حَرَّمَ اللَّهُ إِلَّا بِالْحَقِّ وَلَا يَزْنُونَ ۚ
+
+(And those who invoke not any other god along with Allah, nor kill such person as Allah has forbidden, except for just cause, nor commit illegal sexual intercourse)(25:68).
+
+قُلْ يَا عِبَادِيَ الَّذِينَ أَسْرَفُوا عَلَىٰ أَنْفُسِهِمْ لَا تَقْنَطُوا مِنْ رَحْمَةِ اللَّهِ ۚ
+
+(Say: "O My servants who have transgressed against themselves! Despair not of the mercy of Allah.) This was also recorded by Muslim, Abu Dawud and An-Nasa'i. What is meant by the first Ayah (25:68) is:
+
+إِلَّا مَنْ تَابَ وَآمَنَ وَعَمِلَ عَمَلًا صَالِحًا
+
+(Except those who repent and believe, and do righteous deeds)(25:70). Imam Ahmad recorded that Asma' bint Yazid, said, "I heard the Messenger of Allah ﷺ reciting,
+
+إِنَّهُ عَمَلٌ غَيْرُ صَالِحٍ ۖ
+
+(verily, his work is unrighteous)(11:46). And I heard him ﷺ say:
+
+قُلْ يَا عِبَادِي الَّذِينَ أَسْرَفُوا عَلَىٰ أَنْفُسِهِمْ لَا تَقْنَطُوا مِنْ رَحْمَةِ اللَّهِ ۚ إِنَّ اللَّهَ يَغْفِرُ الذُّنُوبَ جَمِيعًا ۚ وَ لَا يُبَالِي إِنَّهُ هُوَ الْغَفُورُ الرَّحِيمُ
+
+(Say: "O My servants who have transgressed against themselves! Despair not of the mercy of Allah, verily, Allah forgives all sins He does not reckon him Truly, He is Oft-Forgiving, Most Merciful)." This was also recorded by Abu Dawud and At-Tirmidhi.
+
+All of these Hadiths indicate that what is meant is that Allah forgives all sins provided that a person repents. Additionally, one must not despair of the mercy of Allah even if his sins are many and great, for the door of repentance and mercy is expansive. Allah says:
+
+أَلَمْ يَعْلَمُوا أَنَّ اللَّهَ هُوَ يَقْبَلُ التَّوْبَةَ عَنْ عِبَادِهِ
+
+(Know they not that Allah accepts repentance from His servants)(9:104).
+
+وَمَنْ يَعْمَلْ سُوءًا أَوْ يَظْلِمْ نَفْسَهُ ثُمَّ يَسْتَغْفِرِ اللَّهَ يَجِدِ اللَّهَ غَفُورًا رَحِيمًا
+
+(And whoever does evil or wrongs himself but afterwards seeks Allah's forgiveness, he will find Allah Oft-Forgiving, Most Merciful.)(4:110). Concerning the hypocrites, Allah says:
+
+إِنَّ الْمُنَافِقِينَ فِي الدَّرْكِ الْأَسْفَلِ مِنَ النَّارِ وَلَنْ تَجِدَ لَهُمْ نَصِيرًا - إِلَّا الَّذِينَ تَابُوا وَأَصْلَحُوا
+
+(Verily, the hypocrites will be in the lowest depth (grade) of the Fire; no helper will you find for them. Except those who repent, and do righteous good deeds)(4:145-146). And Allah says:
+
+لَقَدْ كَفَرَ الَّذِينَ قَالُوا إِنَّ اللَّهَ ثَالِثُ ثَلَاثَةٍ ۘ وَمَا مِنْ إِلَٰهٍ إِلَّا إِلَٰهٌ وَاحِدٌ ۚ وَإِنْ لَمْ يَنْتَهُوا عَمَّا يَقُولُونَ لَيَمَسَّنَّ الَّذِينَ كَفَرُوا مِنْهُمْ عَذَابٌ أَلِيمٌ
+
+(Surely, disbelievers are those who said: "Allah is the third of the three (in a Trinity)." But there is no god but One. And if they cease not from what they say, verily, a painful torment will befall on the disbelievers among them.)(5:73). Then He says:
+
+أَفَلَا يَتُوبُونَ إِلَى اللَّهِ وَيَسْتَغْفِرُونَهُ ۚ وَاللَّهُ غَفُورٌ رَحِيمٌ
+
+(Will they not turn in repentance to Allah and ask His forgiveness? For Allah is Oft-Forgiving, Most Merciful.)(5:74) And Allah says:
+
+إِنَّ الَّذِينَ فَتَنُواْ الْمُؤْمِنِينَ وَالْمُؤْمِنَـتِ ثُمَّ لَمْ يَتُوبُواْ
+
+(Verily, those who put into trial the believing men and believing women (by torturing them), and then do not turn in repentance (to Allah))(85: 10).
+
+Al-Hasan Al-Basri, may Allah have mercy on him, said, "Look at this generosity and kindness! They killed His close friends but He still called them to repentance and forgiveness." There are many Ayat on this topic.
+
+The Two Sahihs record the Hadith of Abu Sa'id, may Allah be pleased with him, from Messenger of Allah ﷺ about the man who killed ninety-nine people. Later on, he regretted it and asked a worshipper among the Children of Israel whether he could repent. He told him no, so he killed him, thus completing one hundred. Then he asked one of their scholars whether he could repent. He said, "What is stopping you from repenting?" Then he told him to go to a town where Allah was worshipped. He set out for that town, but death came to him while he was on the road. The angels of mercy and the angels of punishment disputed over him, so Allah commanded them to measure the distance between the two towns; whichever he was closer to was the one to which he belonged. They found that he was closer to the town he was heading for, so the angels of mercy took him. It was said that when he was dying, he moved himself (towards that town), and Allah commanded the good town to move closer to him and the other town to move away. This is basic meaning of the Hadith; we have quoted it in full elsewhere.
+
+Ali bin Abi Talhah reported that Ibn 'Abbas, may Allah be pleased with him, commented on the Ayah:
+
+قُلْ يَا عِبَادِيَ الَّذِينَ أَسْرَفُوا عَلَىٰ أَنْفُسِهِمْ لَا تَقْنَطُوا مِنْ رَحْمَةِ اللَّهِ ۚ إِنَّ اللَّهَ يَغْفِرُ الذُّنُوبَ جَمِيعًا ۚ
+
+(Say: "O My servants who have transgressed against themselves! Despair not of the mercy of Allah, verily, Allah forgives all sins...")
+
+Allah invites all to His forgiveness; those who claim that the Messiah is God, those who claim that the Messiah is the son of God, those who claim that 'Uzayr is the son of God, those who claim that Allah is poor, those who claim that the Hand of Allah is tied up, and those who say that Allah is the third of three [Trinity]. Allah says to all of these:
+
+أَفَلَا يَتُوبُونَ إِلَى اللَّهِ وَيَسْتَغْفِرُونَهُ ۚ وَاللَّهُ غَفُورٌ رَحِيمٌ
+
+(Will they not turn in repentance to Allah and ask His forgiveness? For Allah is Oft-Forgiving, Most Merciful.)(5:74).
+
+And He calls to repentance the one who says something even worse than that, the one who says, 'I am your Lord most high,' and says,
+
+مَا عَلِمْتُ لَكُمْ مِنْ إِلَٰهٍ غَيْرِي
+
+("I know not that you have a god other than me.")(28:38). Ibn 'Abbas, may Allah be pleased with him, said, "Anyone who makes the servants of Allah despair of His mercy after this, has rejected the Book of Allah, but a person cannot repent until Allah decrees that he should repent."
+
+At-Tabarani recorded that Shutayr bin Shakal said, "I heard Ibn Mas'ud say, 'The greatest Ayah in the Book of Allah is:
+
+اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ ۚ
+
+(Allah! None has the right to be worshipped but He, the Ever Living, the One Who sustains and protects all that exists)(2:255).
+
+The most comprehensive Ayah in the Qur'an concerning good and evil is:
+
+إِنَّ اللَّهَ يَأْمُرُ بِالْعَدْلِ وَالْإِحْسَانِ
+
+(Verily, Allah enjoins justice and Al-Ihsan)(16:90).
+
+The Ayah in the Qur'an which brings the most relief is in Surat Az-Zumar:
+
+قُلْ يَا عِبَادِيَ الَّذِينَ أَسْرَفُوا عَلَىٰ أَنْفُسِهِمْ لَا تَقْنَطُوا مِنْ رَحْمَةِ اللَّهِ ۚ
+
+(Say: "O My servants who have transgressed against themselves! Despair not of the mercy of Allah.")
+
+And the clearest Ayah in the Qur'an about reliance on Allah is:
+
+وَمَنْ يَتَّقِ اللَّهَ يَجْعَلْ لَهُ مَخْرَجًا - وَيَرْزُقْهُ مِنْ حَيْثُ لَا يَحْتَسِبُ ۚ
+
+(And whosoever has Taqwa of Allah, He will make a way for him to get out (from every difficulty). And He will provide him from (sources) he never could imagine)(65:2-3).' Masruq said to him; 'You have spoken the truth.'"
+
+Hadiths which tell us not to despair
+
+Imam Ahmad recorded that Anas bin Malik, may Allah be pleased with him, said, "I heard the Messenger of Allah ﷺ, say:
+
+وَالَّذِي نَفْسِي بِيَدِهِ! لَوْ أَخْطَأْتُمْ حتّٰى تَمْلَأَ خَطَايَاكُمْ مَا بَيْنَ السَّمَاءِ وَالْأَرْضِ، ثُمَّ اسْتَغْفَرْتُمُ اللهَ تَعَالَىٰ لَغَفَرَ لَكُمْ، وَالَّذِي نَفْسُ مُحَمَّدٍ بِيَدِهِ! لَوْ لَمْ تُخْطِئُوا لَجَاءَ اللهُ عَزَّ وَجَلَّ بِقَوْمٍ يُخْطِئُونَ، ثُمَّ يَسْتَغْفِرُونَ اللهَ فَيَغْفِرُ لَهُمْ
+
+(By the One in Whose Hand is my soul, if you were to commit sin until your sins filled the space between heaven and earth, then you were to ask Allah for forgiveness, He would forgive you. By the One in Whose Hand is the soul of Muhammad, if you did not commit sin, Allah would bring other people who would commit sins and then ask Allah for forgiveness so that He could forgive them.)" This was recorded only by Ahmad.
+
+Imam Ahmad recorded that Abu Ayyub Al-Ansari, may Allah be pleased with him, said, as he was on his deathbed, "I have concealed something from you that I heard from the Messenger of Allah ﷺ; he said:
+
+لَوْلَا أَنَّكُمْ تُذْنِبُونَ لَخَلَقَ اللهُ عَزَّ وَجَلَّ قَوْمًا يُذْنِبُونَ، فَيَغْفِرُ لَهُمْ
+
+(If you did not commit sins, Allah would create people who would sin so that He could forgive them.)" This was recorded by Imam Ahmad; it was also recorded by Muslim in his Sahih, and by At-Tirmidhi.
+
+Allah encourages His servants to hasten to repent, as He says:
+
+وَأَنِيبُوا إِلَىٰ رَبِّكُمْ وَأَسْلِمُوا لَهُ
+
+(And turn in repentance (and in obedience with true faith) to your Lord and submit to Him) meaning, turn back to Allah and submit yourselves to Him.
+
+مِنْ قَبْلِ أَنْ يَأْتِيَكُمُ الْعَذَابُ ثُمَّ لَا تُنْصَرُونَ
+
+(before the torment comes upon you, (and) then you will not be helped.) means, hasten to repent and do righteous deeds before His wrath comes upon you.
+
+وَاتَّبِعُوا أَحْسَنَ مَا أُنْزِلَ إِلَيْكُمْ مِنْ رَبِّكُمْ
+
+(And follow the best of that which is sent down to you from your Lord,) means, the Qur'an.
+
+مِنْ قَبْلِ أَنْ يَأْتِيَكُمُ الْعَذَابُ بَغْتَةً وَأَنْتُمْ لَا تَشْعُرُونَ
+
+(before the torment comes on you suddenly while you perceive not!) means, without you realizing it.
+
+أَنْ تَقُولَ نَفْسٌ يَا حَسْرَتَا عَلَىٰ مَا فَرَّطْتُ فِي جَنْبِ اللَّهِ
+
+(Lest a person should say: "Alas, my grief that I was undutiful to Allah...") means, on the Day of Resurrection, the sinner who neglected to repent and turn back to Allah will regret it, and will wish that he had been one of the righteous who obeyed Allah.
+
+وَإِنْ كُنْتُ لَمِنَ السَّاخِرِينَ
+
+(and I was indeed among those who mocked.) means, 'my actions in this world were those of one who ridicules and makes fun, not of one who has firm faith and is sincere.'
+
+أَوْ تَقُولَ لَوْ أَنَّ اللَّهَ هَدَانِي لَكُنْتُ مِنَ الْمُتَّقِينَ - أَوْ تَقُولَ حِينَ تَرَى الْعَذَابَ لَوْ أَنَّ لِي كَرَّةً فَأَكُونَ مِنَ الْمُحْسِنِينَ
+
+(Or (lest) he should say: "If only Allah had guided me, I 
+
+[TRUNCATED at 12000 chars — 2456 more. Consult the source directly before relying on anything near the cut.]
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله تعالى :  قُلْ يَا عِبَادِيَ الَّذِينَ أَسْرَفُوا عَلَى أَنْفُسِهِمْ لا تَقْنَطُوا مِنْ رَحْمَةِ اللَّهِ إِنَّ اللَّهَ يَغْفِرُ الذُّنُوبَ جَمِيعًا إِنَّهُ هُوَ الْغَفُورُ الرَّحِيمُ (53)اختلف أهل التأويل في الذين عُنُوا بهذه الآية, فقال بعضهم: عني بها قوم من أهل الشرك, قالوا لما دعوا إلى الإيمان بالله: كيف نؤمن وقد أشركنا وزنينا, وقتلنا النفس التي حرّم الله, والله يعد فاعل ذلك النار, فما ينفعنا مع ما قد سلف منا الإيمان, فنـزلت هذه الآية.* ذكر من قال ذلك:حدثني محمد بن سعد, ...
+القول في تأويل قوله تعالى: ﴿قُلْ يَا عِبَادِيَ الَّذِينَ أَسْرَفُوا عَلَى أَنْفُسِهِمْ لا تَقْنَطُوا مِنْ رَحْمَةِ اللَّهِ إِنَّ اللَّهَ يَغْفِرُ الذُّنُوبَ جَمِيعًا إِنَّهُ هُوَ الْغَفُورُ الرَّحِيمُ (٥٣) ﴾
+
+اختلف أهل التأويل في الذين عُنُوا بهذه الآية، فقال بعضهم: عني بها قوم من أهل الشرك، قالوا لما دعوا إلى الإيمان بالله: كيف نؤمن وقد أشركنا وزنينا، وقتلنا النفس التي حرّم الله، والله يعد فاعل ذلك النار، فما ينفعنا مع ما قد سلف منا الإيمان، فنزلت هذه الآية.
+
+ذكر من قال ذلك:
+
+محمد بن سعد، قال ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس: ﴿قُلْ يَا عِبَادِيَ الَّذِينَ أَسْرَفُوا عَلَى أَنْفُسِهِمْ لا تَقْنَطُوا مِنْ رَحْمَةِ اللَّهِ﴾ وذلك أن أهل مكة قالوا: يزعم محمد أنه من عبد الأوثان، ودعا مع الله إلها آخر، وقتل النفس التي حرّم الله لم يغفر له، فكيف نهاجر ونسلم، وقد عبدنا الآلهة، وقتلنا النفس التي حرم الله ونحن أهل الشرك؟ فأنزل الله: ﴿يَا عِبَادِيَ الَّذِينَ أَسْرَفُوا عَلَى أَنْفُسِهِمْ لا تَقْنَطُوا مِنْ رَحْمَةِ اللَّهِ﴾ يقول: لا تيأسوا من رحمتي، إن الله يغفر الذنوب جميعا وقال: ﴿وَأَنِيبُوا إِلَى رَبِّكُمْ وَأَسْلِمُوا لَهُ﴾ وإنما يعاتب الله أولي الألباب وإنما الحلال والحرام لأهل الإيمان، فإياهم عاتب، وإياهم أمر إن أسرف أحدهم على نفسه، أن لا يقنط من رحمة الله، وأن ينيب ولا يبطئ بالتوبة من ذلك الإسراف، والذنب الذي عمل، وقد ذر الله في سورة آل عمران المؤمنين حين سألوا الله المغفرة، فقالوا: ﴿رَبَّنَا اغْفِرْ لَنَا ذُنُوبَنَا وَإِسْرَافَنَا فِي أَمْرِنَا وَثَبِّتْ أَقْدَامَنَا﴾ فينبغي أن يعلم أنهم قد كانوا يصيبون الإسراف، فأمرهم بالتوبة من إسرافهم.
+
+⁕ حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى؛ وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء جميعا، عن ابن أبي نجيح، عن مجاهد، في قول الله: ﴿الَّذِينَ أَسْرَفُوا عَلَى أَنْفُسِهِمْ﴾ قال: قتل النفس في الجاهلية.
+
+⁕ حدثنا ابن حميد، قال: ثنا سلمة، قال: ثني ابن إسحاق، عن بعض أصحابه، عن عطاء بن يسار، قال: نزلت هذه الآيات الثلاث بالمدينة في وحشيّ [[هو وحشي بن حرب الحبشي مولى جبير بن مطعم، وهو قاتل حمزة بن عبد المطلب في غزوة أحد، وكان فاتكا يشرب الخمر ثم أسلم بعد. (انظر خلاصة الخزرجي) .]] وأصحابه ﴿يَا عِبَادِيَ الَّذِينَ أَسْرَفُوا عَلَى أَنْفُسِهِمْ﴾ إلى قوله: ﴿مِنْ قَبْلِ أَنْ يَأْتِيَكُمُ الْعَذَابُ بَغْتَةً وَأَنْتُمْ لا تَشْعُرُونَ﴾ .
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: أخبرني أبو صخر، قال: قال زيد بن أسلم، في قوله: ﴿يَا عِبَادِيَ الَّذِينَ أَسْرَفُوا عَلَى أَنْفُسِهِمْ لا تَقْنَطُوا مِنْ رَحْمَةِ اللَّهِ﴾ قال: إنما هي للمشركين.
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: ﴿يَا عِبَادِيَ الَّذِينَ أَسْرَفُوا عَلَى أَنْفُسِهِمْ﴾ حتى بلغ ﴿الذُّنُوبَ جَمِيعًا﴾ قال: ذكر لنا أن أناسا أصابوا ذنوبا عظاما في الجاهلية، فلما جاء الإسلام أشفقوا أن لا يتاب عليهم، فدعاهم الله بهذه الآية: ﴿يَا عِبَادِيَ الَّذِينَ أَسْرَفُوا عَلَى أَنْفُسِهِمْ﴾ .
+
+⁕ حدثنا محمد، قال: ثنا أحمد، قال: ثنا أسباط، عن السديّ في قوله: ﴿يَا عِبَادِيَ الَّذِينَ أَسْرَفُوا عَلَى أَنْفُسِهِمْ﴾ قال: هؤلاء المشركون من أهل مكة، قالوا: كيف نجيبك وأنت تزعم أنه من زنى، أو قتل، أو أشرك بالرحمن كان هالكا من أهل النار؟ فكلّ هذه الأعمال قد عملناها، فأنزلت فيهم هذه الآية: ﴿يَا عِبَادِيَ الَّذِينَ أَسْرَفُوا عَلَى أَنْفُسِهِمْ﴾ .
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله: ﴿يَا عِبَادِيَ الَّذِينَ أَسْرَفُوا عَلَى أَنْفُسِهِمْ لا تَقْنَطُوا مِنْ رَحْمَةِ اللَّهِ﴾ ... الآية قال: كان قوم مسخوطين في أهل الجاهلية، فلما بعث الله نبيه قالوا: لو أتينا محمدا ﷺ فأمنا به واتبعناه، فقال بعضهم لبعض: كيف يقبلكم الله ورسوله فى دينه؟ فقالوا: ألا نبعث إلى رسول الله ﷺ رجلا؟ فلما بعثوا، نزل القرآن: ﴿قُلْ يَا عِبَادِيَ الَّذِينَ أَسْرَفُوا عَلَى أَنْفُسِهِمْ لا تَقْنَطُوا مِنْ رَحْمَةِ اللَّهِ﴾ فقرأ حتى بلغ: ﴿فَأَكُونَ مِنَ الْمُحْسِنِينَ﴾ .
+
+⁕ حدثنا ابن حميد، قال: ثنا جرير، عن منصور، عن الشعبي، قال: تجالس شتير بن شكل ومسروق فقال شتير: إما أن تحدث ما سمعت من ابن مسعود فأصدّقك، وإما أن أحدّث فتصدّقني فقال مسروق: لا بل حدث فأصدّقك، فقال: سمعت ابن مسعود يقول: إن أكبر آية فرجا في القرآن ﴿يَا عِبَادِيَ الَّذِينَ أَسْرَفُوا عَلَى أَنْفُسِهِمْ لا تَقْنَطُوا مِنْ رَحْمَةِ اللَّهِ﴾ فقال مسروق: صدقت.
+
+وقال آخرون: بل عني بذلك أهل الإسلام، وقالوا: تأويل الكلام: إن الله يغفر الذنوب جميعا لمن يشاء، قالوا: وهي كذلك في مصحف عبد الله، وقالوا: إنما نزلت هذه الآية في قوم صدّهم المشركون عن الهجرة وفتنوهم، فأشفقوا أن لا يكون لهم توبة.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا إبراهيم بن سعيد الجوهري، قال: ثنا يحيى بن سعيد الأموي، عن ابن إسحاق، عن نافع، عن ابن عمر قال: قال يعني عمر: كنا نقول: ما لمن افتتن من توبة، وكانوا يقولون: ما الله بقابل منا شيئا، تركنا الإسلام ببلاء أصابنا بعد معرفته، فلما قدم رسول الله ﷺ المدينة أنزل الله فيهم: ﴿يَاعِبَادِيَ الَّذِينَ أَسْرَفُوا عَلَى أَنْفُسِهِمْ لا تَقْنَطُوا مِنْ رَحْمَةِ اللَّه﴾ ... الآية، قال عمر: فكتبتها بيدي، ثم بعثت بها إلى هشام بن العاص، قال هشام: فلما جاءتني جعلت أقرؤها ولا أفهمها، فوقع في نفسي أنها أنزلت فينا لما كنا نقول، فجلست على بعيري، ثم لحقت بالمدينة.
+
+⁕ حدثنا ابن حميد، قال: ثنا سلمة، قال: ثني محمد بن إسحاق، عن نافع، عن ابن عمر، قال: إنما أنزلت هذه الآيات في عياش بن أبي ربيعة، والوليد بن الوليد، ونفر من المسلمين، كانوا أسلموا ثم فتنوا وعذّبوا، فافتنوا، كنا نقول: لا يقبل الله من هؤلاء صرفا ولا عدلا أبدا، قوم أسلموا ثم تركوا دينهم بعذاب عُذّبوه، فنزلت هؤلاء الآيات، وكان عمر بن الخطاب كاتبا، قال: فكتبها بيده ثم بعث بها إلى عَيَّاش بن أبي ربيعة، والوليد بن الوليد، إلى أولئك النفر، فأسلموا وهاجروا.
+
+⁕ حدثني يعقوب، قال: ثنا ابن علية، قال: ثنا يونس، عن ابن سيرين، قال: قال عليّ رضي الله عنه: أي آية في القرآن أوسع؟ فجعلوا يذكرون آيات من القرآن: ﴿وَمَنْ يَعْمَلْ سُوءًا أَوْ يَظْلِمْ نَفْسَهُ ثُمَّ يَسْتَغْفِرِ اللَّهَ يَجِدِ اللَّهَ غَفُورًا رَحِيمًا﴾ . ونحوها، فقال علي: ما في القرآن آية أوسع من: ﴿يَا عِبَادِيَ الَّذِينَ أَسْرَفُوا عَلَى أَنْفُسِهِمْ﴾ ... إلى آخر الآية.
+
+⁕ حدثنا أبو السائب، قال: ثنا أبو معاوية، عن الأعمش، عن أبي سعيد الأزدي، عن أبي الكنود، قال: دخل عبد الله المسجد، فإذا قاصّ يذكر النار والأغلال، قال: فجاء حتى قام على رأسه، فقال ما يذكر أتقنط الناس ﴿يَا عِبَادِيَ الَّذِينَ أَسْرَفُوا عَلَى أَنْفُسِهِمْ﴾ ... الآية.
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: أخبرني أبو صخر، عن القرظي أنه قال في هذه الآية: ﴿يَا عِبَادِيَ الَّذِينَ أَسْرَفُوا عَلَى أَنْفُسِهِمْ لا تَقْنَطُوا مِنْ رَحْمَةِ اللَّهِ﴾ قال: هي للناس أجمعين.
+
+⁕ حدثني زكريا بن يحيى بن أبي زائدة، قال: ثنا حجاج، قال: ثنا ابن لهيعة، عن أبي قنبل، قال: سمعت أبا عبد الرحمن المزني يقول: ثني أبو عبد الرحمن الجلائي، أنه سمع ثوبان مولى رسول الله ﷺ يقول: سمعت رسول الله ﷺ يقول:"ما أُحِبُّ أنَّ لِي الدُّنْيَا وَمَا فِيها بهذه الآية: ﴿يَا عِبَادِيَ الَّذِينَ أَسْرَفُوا عَلَى أَنْفُسِهِمْ لا تَقْنَطُوا مِنْ رَحْمَةِ اللَّهِ﴾ " ... الآية، فقال رجل: يا رسول الله، ومن أشرك؟ فسكت النبي ﷺ، ثم قال:"ألا وَمَنْ أشْرَكَ، ألا ومَنْ أشْرَكَ، ثلاث مرات".
+
+وقال آخرون: نزل ذلك في قوم كانوا يرون أهل الكبائر من أهل النار، فأعلمهم الله بذلك أنه يغفر الذنوب جميعا لمن يشاء.
+
+ذكر من قال ذلك:
+
+⁕ حدثني ابن البرقي، قال: ثنا عمرو بن أبي سلمة، قال: ثنا أبو معاذ الخراساني، عن مقاتل بن حيا، عن نافع، عن ابن عمر، قال: كنا معشر أصحاب رسول الله ﷺ نرى أو نقول: إنه ليس شيء من حسناتنا إلا وهي مقبولة، حتى نزلت هذه الآية ﴿أَطِيعُوا اللَّهَ وَأَطِيعُوا الرَّسُولَ وَلا تُبْطِلُوا أَعْمَالَكُمْ﴾ فلما نزلت هذه الآية قلنا: ما هذا الذي يبطل أعمالنا؟ فقلنا: الكبائر والفواحش، قال: فكنا إذا رأينا من أصاب شيئا منها قلنا: قد هلك، حتى نزلت هذه الآية ﴿إِنَّ اللَّهَ لا يَغْفِرُ أَنْ يُشْرَكَ بِهِ وَيَغْفِرُ مَا دُونَ ذَلِكَ لِمَنْ يَشَاءُ﴾ فلما نزلت هذه الآية كففنا عن القول في ذلك، فكنا إذا رأينا أحدا أصاب منها شيئا خفنا عليه، إن لم يصب منها شيئا رجونا له.
+
+وأولى الأقوال في ذلك بالصواب قول من قال: عنى تعالى ذكره بذلك جميع من أسرف على نفسه من أهل الإيمان والشرك، لأن الله عم بقوله ﴿يَا عِبَادِيَ الَّذِينَ أَسْرَفُوا عَلَى أَنْفُسِهِمْ﴾ جميع المسرفين، فلم يخصص به مسرفا دون مسرف.
+
+فإن قال قائل: فيغفر الله الشرك؟ قيل: نعم إذا تاب منه المشرك. وإنما عنى بقوله ﴿إِنَّ اللَّهَ يَغْفِرُ الذُّنُوبَ جَمِيعًا﴾ لمن يشاء، كما قد ذكرنا قبل، أن ابن مسعود كان يقرؤه: وأن الله قد استثنى منه الشرك إذا لم يتب منه صاحبه، فقال: إن الله لا يغفر أن يشرك به، ويغفر ما دون ذلك لمن يشاء، فأخبر أنه لا يغفر الشرك إلا بعد توبة بقوله: ﴿إِلا مَنْ تَابَ وَآمَنَ وَعَمِلَ صَالِحًا﴾ . فأما ما عداه فإن صاحبه في مشيئة ربه، إن شاء تفضل عليه، فعفا له عنه، وإن شاء عدل عليه فجازاه به.
+
+وأما قوله: ﴿لا تَقْنَطُوا مِنْ رَحْمَةِ اللَّهِ﴾ فإنه يعني: لا تيأسوا من رحمة الله. كذلك حدثني محمد بن سعد قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس.
+
+وقد ذكرنا ما في ذلك من الروايات قبل فيما مضى وبيَّنا معناه.
+
+* *
+
+وقوله: ﴿إِنَّ اللَّهَ يَغْفِرُ الذُّنُوبَ جَمِيعًا﴾
+
+يقول: إن الله يستر على الذنوب كلها بعفوه عن أهلها وتركه عقوبتهم عليها إذا تابوا منها ﴿إِنَّهُ هُوَ الْغَفُورُ الرَّحِيمُ﴾ بهم، أن يعاقبهم عليها بعد توبتهم منها.
 
 ### al-Muyassar (Arabic)
 
@@ -223,7 +1356,7 @@ This Ayah is a call to all sinners, be they disbelievers or others, to repent an
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿قُلْ يا عِبادِي الَّذِينَ أسْرَفُوا عَلى أنْفُسهمْ لا تَقْنَطُوا﴾ بِكَسْرِ النُّون وفَتْحها وقُرِئَ بِضَمِّها تَيْأَسُوا ﴿مِن رَحْمَة اللَّه إنّ اللَّه يَغْفِر الذُّنُوب جَمِيعًا﴾ لِمَن تابَ مِن الشِّرْك
 
 ---
 
@@ -231,20 +1364,193 @@ This Ayah is a call to all sinners, be they disbelievers or others, to repent an
 
 ### Ibn Kathir (English)
 
+Say: "O My servants who have transgressed against themselves! Despair not of the mercy of Allah, verily, Allah forgives all sins. Truly, He is Oft-Forgiving, Most Merciful. (53)"And turn in repentance (and in obedience with true faith) to your Lord and submit to Him before the torment comes upon you, (and) then you will not be helped. (54)"And follow the best of that which is sent down to you from your Lord, before the torment comes on you suddenly while you perceive not! (55)Lest a person should say: "Alas, my grief that I was undutiful to Allah, and I was indeed among those who mocked. (56)Or (lest) he should say: "If only Allah had guided me, I should indeed have been among those who have Taqwa. (57)Or (lest) he should say when he sees the torment: "If only I had another chance, then I should indeed be among the doers of good. (58)Yes! Verily, there came to you My Ayat and you denied them, and were proud and were among the disbelievers (59)
+
 The Call to repent before the Punishment comes
-This Ayah is a call to all sinners, be they disbelievers or others, to repent and turn to Allah. This Ayah tells us that Allah, may He be blessed and exalted, will forgive all the sins of those who repent to Him and turn back to Him, no matter what or how many his sins are, even if they are like the foam of the sea. This cannot be interpreted as meaning that sins will be forgiven without repentance, because Shirk can only be forgiven for the one ...
+
+This Ayah is a call to all sinners, be they disbelievers or others, to repent and turn to Allah. This Ayah tells us that Allah, may He be blessed and exalted, will forgive all the sins of those who repent to Him and turn back to Him, no matter what or how many his sins are, even if they are like the foam of the sea. This cannot be interpreted as meaning that sins will be forgiven without repentance, because Shirk can only be forgiven for the one who repents from it. Al-Bukhari recorded that Ibn 'Abbas, may Allah be pleased with him, said that some of the people of Shirk killed many people and committed Zina (illegal sexual acts) to a great extent; they came to Muhammad ﷺ and said, "What you are saying and calling us to is good; if only you could tell us that there is an expiation for what we have done." Then the following Ayat were revealed:
+
+وَالَّذِينَ لَا يَدْعُونَ مَعَ اللَّهِ إِلَٰهًا آخَرَ وَلَا يَقْتُلُونَ النَّفْسَ الَّتِي حَرَّمَ اللَّهُ إِلَّا بِالْحَقِّ وَلَا يَزْنُونَ ۚ
+
+(And those who invoke not any other god along with Allah, nor kill such person as Allah has forbidden, except for just cause, nor commit illegal sexual intercourse)(25:68).
+
+قُلْ يَا عِبَادِيَ الَّذِينَ أَسْرَفُوا عَلَىٰ أَنْفُسِهِمْ لَا تَقْنَطُوا مِنْ رَحْمَةِ اللَّهِ ۚ
+
+(Say: "O My servants who have transgressed against themselves! Despair not of the mercy of Allah.) This was also recorded by Muslim, Abu Dawud and An-Nasa'i. What is meant by the first Ayah (25:68) is:
+
+إِلَّا مَنْ تَابَ وَآمَنَ وَعَمِلَ عَمَلًا صَالِحًا
+
+(Except those who repent and believe, and do righteous deeds)(25:70). Imam Ahmad recorded that Asma' bint Yazid, said, "I heard the Messenger of Allah ﷺ reciting,
+
+إِنَّهُ عَمَلٌ غَيْرُ صَالِحٍ ۖ
+
+(verily, his work is unrighteous)(11:46). And I heard him ﷺ say:
+
+قُلْ يَا عِبَادِي الَّذِينَ أَسْرَفُوا عَلَىٰ أَنْفُسِهِمْ لَا تَقْنَطُوا مِنْ رَحْمَةِ اللَّهِ ۚ إِنَّ اللَّهَ يَغْفِرُ الذُّنُوبَ جَمِيعًا ۚ وَ لَا يُبَالِي إِنَّهُ هُوَ الْغَفُورُ الرَّحِيمُ
+
+(Say: "O My servants who have transgressed against themselves! Despair not of the mercy of Allah, verily, Allah forgives all sins He does not reckon him Truly, He is Oft-Forgiving, Most Merciful)." This was also recorded by Abu Dawud and At-Tirmidhi.
+
+All of these Hadiths indicate that what is meant is that Allah forgives all sins provided that a person repents. Additionally, one must not despair of the mercy of Allah even if his sins are many and great, for the door of repentance and mercy is expansive. Allah says:
+
+أَلَمْ يَعْلَمُوا أَنَّ اللَّهَ هُوَ يَقْبَلُ التَّوْبَةَ عَنْ عِبَادِهِ
+
+(Know they not that Allah accepts repentance from His servants)(9:104).
+
+وَمَنْ يَعْمَلْ سُوءًا أَوْ يَظْلِمْ نَفْسَهُ ثُمَّ يَسْتَغْفِرِ اللَّهَ يَجِدِ اللَّهَ غَفُورًا رَحِيمًا
+
+(And whoever does evil or wrongs himself but afterwards seeks Allah's forgiveness, he will find Allah Oft-Forgiving, Most Merciful.)(4:110). Concerning the hypocrites, Allah says:
+
+إِنَّ الْمُنَافِقِينَ فِي الدَّرْكِ الْأَسْفَلِ مِنَ النَّارِ وَلَنْ تَجِدَ لَهُمْ نَصِيرًا - إِلَّا الَّذِينَ تَابُوا وَأَصْلَحُوا
+
+(Verily, the hypocrites will be in the lowest depth (grade) of the Fire; no helper will you find for them. Except those who repent, and do righteous good deeds)(4:145-146). And Allah says:
+
+لَقَدْ كَفَرَ الَّذِينَ قَالُوا إِنَّ اللَّهَ ثَالِثُ ثَلَاثَةٍ ۘ وَمَا مِنْ إِلَٰهٍ إِلَّا إِلَٰهٌ وَاحِدٌ ۚ وَإِنْ لَمْ يَنْتَهُوا عَمَّا يَقُولُونَ لَيَمَسَّنَّ الَّذِينَ كَفَرُوا مِنْهُمْ عَذَابٌ أَلِيمٌ
+
+(Surely, disbelievers are those who said: "Allah is the third of the three (in a Trinity)." But there is no god but One. And if they cease not from what they say, verily, a painful torment will befall on the disbelievers among them.)(5:73). Then He says:
+
+أَفَلَا يَتُوبُونَ إِلَى اللَّهِ وَيَسْتَغْفِرُونَهُ ۚ وَاللَّهُ غَفُورٌ رَحِيمٌ
+
+(Will they not turn in repentance to Allah and ask His forgiveness? For Allah is Oft-Forgiving, Most Merciful.)(5:74) And Allah says:
+
+إِنَّ الَّذِينَ فَتَنُواْ الْمُؤْمِنِينَ وَالْمُؤْمِنَـتِ ثُمَّ لَمْ يَتُوبُواْ
+
+(Verily, those who put into trial the believing men and believing women (by torturing them), and then do not turn in repentance (to Allah))(85: 10).
+
+Al-Hasan Al-Basri, may Allah have mercy on him, said, "Look at this generosity and kindness! They killed His close friends but He still called them to repentance and forgiveness." There are many Ayat on this topic.
+
+The Two Sahihs record the Hadith of Abu Sa'id, may Allah be pleased with him, from Messenger of Allah ﷺ about the man who killed ninety-nine people. Later on, he regretted it and asked a worshipper among the Children of Israel whether he could repent. He told him no, so he killed him, thus completing one hundred. Then he asked one of their scholars whether he could repent. He said, "What is stopping you from repenting?" Then he told him to go to a town where Allah was worshipped. He set out for that town, but death came to him while he was on the road. The angels of mercy and the angels of punishment disputed over him, so Allah commanded them to measure the distance between the two towns; whichever he was closer to was the one to which he belonged. They found that he was closer to the town he was heading for, so the angels of mercy took him. It was said that when he was dying, he moved himself (towards that town), and Allah commanded the good town to move closer to him and the other town to move away. This is basic meaning of the Hadith; we have quoted it in full elsewhere.
+
+Ali bin Abi Talhah reported that Ibn 'Abbas, may Allah be pleased with him, commented on the Ayah:
+
+قُلْ يَا عِبَادِيَ الَّذِينَ أَسْرَفُوا عَلَىٰ أَنْفُسِهِمْ لَا تَقْنَطُوا مِنْ رَحْمَةِ اللَّهِ ۚ إِنَّ اللَّهَ يَغْفِرُ الذُّنُوبَ جَمِيعًا ۚ
+
+(Say: "O My servants who have transgressed against themselves! Despair not of the mercy of Allah, verily, Allah forgives all sins...")
+
+Allah invites all to His forgiveness; those who claim that the Messiah is God, those who claim that the Messiah is the son of God, those who claim that 'Uzayr is the son of God, those who claim that Allah is poor, those who claim that the Hand of Allah is tied up, and those who say that Allah is the third of three [Trinity]. Allah says to all of these:
+
+أَفَلَا يَتُوبُونَ إِلَى اللَّهِ وَيَسْتَغْفِرُونَهُ ۚ وَاللَّهُ غَفُورٌ رَحِيمٌ
+
+(Will they not turn in repentance to Allah and ask His forgiveness? For Allah is Oft-Forgiving, Most Merciful.)(5:74).
+
+And He calls to repentance the one who says something even worse than that, the one who says, 'I am your Lord most high,' and says,
+
+مَا عَلِمْتُ لَكُمْ مِنْ إِلَٰهٍ غَيْرِي
+
+("I know not that you have a god other than me.")(28:38). Ibn 'Abbas, may Allah be pleased with him, said, "Anyone who makes the servants of Allah despair of His mercy after this, has rejected the Book of Allah, but a person cannot repent until Allah decrees that he should repent."
+
+At-Tabarani recorded that Shutayr bin Shakal said, "I heard Ibn Mas'ud say, 'The greatest Ayah in the Book of Allah is:
+
+اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ ۚ
+
+(Allah! None has the right to be worshipped but He, the Ever Living, the One Who sustains and protects all that exists)(2:255).
+
+The most comprehensive Ayah in the Qur'an concerning good and evil is:
+
+إِنَّ اللَّهَ يَأْمُرُ بِالْعَدْلِ وَالْإِحْسَانِ
+
+(Verily, Allah enjoins justice and Al-Ihsan)(16:90).
+
+The Ayah in the Qur'an which brings the most relief is in Surat Az-Zumar:
+
+قُلْ يَا عِبَادِيَ الَّذِينَ أَسْرَفُوا عَلَىٰ أَنْفُسِهِمْ لَا تَقْنَطُوا مِنْ رَحْمَةِ اللَّهِ ۚ
+
+(Say: "O My servants who have transgressed against themselves! Despair not of the mercy of Allah.")
+
+And the clearest Ayah in the Qur'an about reliance on Allah is:
+
+وَمَنْ يَتَّقِ اللَّهَ يَجْعَلْ لَهُ مَخْرَجًا - وَيَرْزُقْهُ مِنْ حَيْثُ لَا يَحْتَسِبُ ۚ
+
+(And whosoever has Taqwa of Allah, He will make a way for him to get out (from every difficulty). And He will provide him from (sources) he never could imagine)(65:2-3).' Masruq said to him; 'You have spoken the truth.'"
+
+Hadiths which tell us not to despair
+
+Imam Ahmad recorded that Anas bin Malik, may Allah be pleased with him, said, "I heard the Messenger of Allah ﷺ, say:
+
+وَالَّذِي نَفْسِي بِيَدِهِ! لَوْ أَخْطَأْتُمْ حتّٰى تَمْلَأَ خَطَايَاكُمْ مَا بَيْنَ السَّمَاءِ وَالْأَرْضِ، ثُمَّ اسْتَغْفَرْتُمُ اللهَ تَعَالَىٰ لَغَفَرَ لَكُمْ، وَالَّذِي نَفْسُ مُحَمَّدٍ بِيَدِهِ! لَوْ لَمْ تُخْطِئُوا لَجَاءَ اللهُ عَزَّ وَجَلَّ بِقَوْمٍ يُخْطِئُونَ، ثُمَّ يَسْتَغْفِرُونَ اللهَ فَيَغْفِرُ لَهُمْ
+
+(By the One in Whose Hand is my soul, if you were to commit sin until your sins filled the space between heaven and earth, then you were to ask Allah for forgiveness, He would forgive you. By the One in Whose Hand is the soul of Muhammad, if you did not commit sin, Allah would bring other people who would commit sins and then ask Allah for forgiveness so that He could forgive them.)" This was recorded only by Ahmad.
+
+Imam Ahmad recorded that Abu Ayyub Al-Ansari, may Allah be pleased with him, said, as he was on his deathbed, "I have concealed something from you that I heard from the Messenger of Allah ﷺ; he said:
+
+لَوْلَا أَنَّكُمْ تُذْنِبُونَ لَخَلَقَ اللهُ عَزَّ وَجَلَّ قَوْمًا يُذْنِبُونَ، فَيَغْفِرُ لَهُمْ
+
+(If you did not commit sins, Allah would create people who would sin so that He could forgive them.)" This was recorded by Imam Ahmad; it was also recorded by Muslim in his Sahih, and by At-Tirmidhi.
+
+Allah encourages His servants to hasten to repent, as He says:
+
+وَأَنِيبُوا إِلَىٰ رَبِّكُمْ وَأَسْلِمُوا لَهُ
+
+(And turn in repentance (and in obedience with true faith) to your Lord and submit to Him) meaning, turn back to Allah and submit yourselves to Him.
+
+مِنْ قَبْلِ أَنْ يَأْتِيَكُمُ الْعَذَابُ ثُمَّ لَا تُنْصَرُونَ
+
+(before the torment comes upon you, (and) then you will not be helped.) means, hasten to repent and do righteous deeds before His wrath comes upon you.
+
+وَاتَّبِعُوا أَحْسَنَ مَا أُنْزِلَ إِلَيْكُمْ مِنْ رَبِّكُمْ
+
+(And follow the best of that which is sent down to you from your Lord,) means, the Qur'an.
+
+مِنْ قَبْلِ أَنْ يَأْتِيَكُمُ الْعَذَابُ بَغْتَةً وَأَنْتُمْ لَا تَشْعُرُونَ
+
+(before the torment comes on you suddenly while you perceive not!) means, without you realizing it.
+
+أَنْ تَقُولَ نَفْسٌ يَا حَسْرَتَا عَلَىٰ مَا فَرَّطْتُ فِي جَنْبِ اللَّهِ
+
+(Lest a person should say: "Alas, my grief that I was undutiful to Allah...") means, on the Day of Resurrection, the sinner who neglected to repent and turn back to Allah will regret it, and will wish that he had been one of the righteous who obeyed Allah.
+
+وَإِنْ كُنْتُ لَمِنَ السَّاخِرِينَ
+
+(and I was indeed among those who mocked.) means, 'my actions in this world were those of one who ridicules and makes fun, not of one who has firm faith and is sincere.'
+
+أَوْ تَقُولَ لَوْ أَنَّ اللَّهَ هَدَانِي لَكُنْتُ مِنَ الْمُتَّقِينَ - أَوْ تَقُولَ حِينَ تَرَى الْعَذَابَ لَوْ أَنَّ لِي كَرَّةً فَأَكُونَ مِنَ الْمُحْسِنِينَ
+
+(Or (lest) he should say: "If only Allah had guided me, I 
+
+[TRUNCATED at 12000 chars — 2456 more. Consult the source directly before relying on anything near the cut.]
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله تعالى :  وَأَنِيبُوا إِلَى رَبِّكُمْ وَأَسْلِمُوا لَهُ مِنْ قَبْلِ أَنْ يَأْتِيَكُمُ الْعَذَابُ ثُمَّ لا تُنْصَرُونَ (54)يقول تعالى ذكره: وأقبلوا أيها الناس إلى ربكم بالتوبة, وارجعوا إليه بالطاعة له, واستجيبوا له إلى ما دعاكم إليه من توحيده, وإفراد الألوهة له, وإخلاص العبادة له.كما حدثنا بشر, قال: ثنا يزيد, قال: ثنا سعيد, عن قتادة, قوله: ( وَأَنِيبُوا إِلَى رَبِّكُمْ ) : أي أقبلوا إلى ربكم.حدثنا محمد, قال: ثنا أحمد, قال: ثنا أسباط, عن السديّ( وَأَنِيبُوا ) قال: أجيبوا.حدثن...
+القول في تأويل قوله تعالى: ﴿وَأَنِيبُوا إِلَى رَبِّكُمْ وَأَسْلِمُوا لَهُ مِنْ قَبْلِ أَنْ يَأْتِيَكُمُ الْعَذَابُ ثُمَّ لا تُنْصَرُونَ (٥٤) وَاتَّبِعُوا أَحْسَنَ مَا أُنزلَ إِلَيْكُمْ مِنْ رَبِّكُمْ مِنْ قَبْلِ أَنْ يَأْتِيَكُمُ الْعَذَابُ بَغْتَةً وَأَنْتُمْ لا تَشْعُرُونَ (٥٥) ﴾
+
+يقول تعالى ذكره: وأقبلوا أيها الناس إلى ربكم بالتوبة، وارجعوا إليه بالطاعة له، واستجيبوا له إلى ما دعاكم إليه من توحيده، وإفراد الألوهة له، وإخلاص العبادة له.
+
+كما:-
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: ﴿وَأَنِيبُوا إِلَى رَبِّكُمْ﴾ : أي أقبلوا إلى ربكم.
+
+⁕ حدثنا محمد، قال: ثنا أحمد، قال: ثنا أسباط، عن السديّ ﴿وَأَنِيبُوا﴾ قال: أجيبوا.
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله: ﴿وَأَنِيبُوا إِلَى رَبِّكُمْ﴾ قال: الإنابة: الرجوع إلى الطاعة، والنزوع عما كانوا عليه، ألا تراه يقول: ﴿مُنِيبِينَ إِلَيْهِ وَاتَّقُوهُ﴾ .
+
+* *
+
+وقوله: ﴿وَأَسْلِمُوا لَهُ﴾
+
+يقول: واخضعوا له بالطاعة والإقرار بالدين الحنيفي ﴿مِنْ قَبْلِ أَنْ يَأْتِيَكُمُ الْعَذَابُ﴾ من عنده على كفركم به.
+
+﴿ثُمَّ لا تُنْصَرُونَ﴾ يقول: ثم لا ينصركم ناصر، فينقذكم من عذابه النازل بكم.
+
+* *
+
+وقوله: ﴿وَاتَّبِعُوا أَحْسَنَ مَا أُنزلَ إِلَيْكُمْ مِنْ رَبِّكُمْ﴾
+
+يقول تعالى ذكره: واتبعوا أيها الناس ما أمركم به ربكم في تنزيله، واجتنبوا ما نهاكم فيه عنه، وذلك هو أحسن ما أنزل إلينا من ربنا.
+
+فإن قال قائل: ومن القرآن شيء وهو أحسن من شيء؟ قيل له: القرآن كله حسن، وليس معنى ذلك ما توهمت، وإنما معناه: واتبعوا مما أنزل إليكم ربكم من الأمر والنهي والخبر، والمثل، والقصص، والجدل، والوعد، والوعيد أحسنه أن تأتمروا لأمره، وتنتهوا عما نهى عنه، لأن النهي مما أنزل في الكتاب، فلو عملوا بما نهوا عنه كانوا عاملين بأقبحه، فذلك وجهه.
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+محمد، قال: ثنا أحمد، قال: ثنا أسباط، عن السديّ ﴿وَاتَّبِعُوا أَحْسَنَ مَا أُنزلَ إِلَيْكُمْ مِنْ رَبِّكُمْ﴾ يقول: ما أمرتم به في الكتاب ﴿مِنْ قَبْلِ أَنْ يَأْتِيَكُمُ الْعَذَابُ﴾ قوله: ﴿مِنْ قَبْلِ أَنْ يَأْتِيَكُمُ الْعَذَابُ بَغْتَةً﴾ يقول: من قبل أن يأتيكم عذاب الله فجأة ﴿وَأَنْتُمْ لا تَشْعُرُونَ﴾ يقول: وأنتم لا تعلمون به حتى يغشاكم فجأة.
 
 ### al-Muyassar (Arabic)
 
-وارجعوا إلى ربكم- أيها الناس- بالطاعة والتوبة، واخضعوا له من قبل أن يقع بكم عقابه، ثم لا ينصركم أحد من دون الله.
+وارجعوا إلى ربكم -أيها الناس- بالطاعة والتوبة، واخضعوا له من قبل أن يقع بكم عقابه، ثم لا ينصركم أحد من دون الله.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿وأَنِيبُوا﴾ ارْجِعُوا ﴿إلى رَبّكُمْ وأَسْلِمُوا﴾ أخْلِصُوا العَمَل ﴿لَهُ مِن قَبْل أنْ يَأْتِيكُمْ العَذاب ثُمَّ لا تُنْصَرُونَ﴾ بِمَنعِهِ إنْ لَمْ تَتُوبُوا
 
 ---
 
@@ -252,19 +1558,192 @@ This Ayah is a call to all sinners, be they disbelievers or others, to repent an
 
 ### Ibn Kathir (English)
 
+Say: "O My servants who have transgressed against themselves! Despair not of the mercy of Allah, verily, Allah forgives all sins. Truly, He is Oft-Forgiving, Most Merciful. (53)"And turn in repentance (and in obedience with true faith) to your Lord and submit to Him before the torment comes upon you, (and) then you will not be helped. (54)"And follow the best of that which is sent down to you from your Lord, before the torment comes on you suddenly while you perceive not! (55)Lest a person should say: "Alas, my grief that I was undutiful to Allah, and I was indeed among those who mocked. (56)Or (lest) he should say: "If only Allah had guided me, I should indeed have been among those who have Taqwa. (57)Or (lest) he should say when he sees the torment: "If only I had another chance, then I should indeed be among the doers of good. (58)Yes! Verily, there came to you My Ayat and you denied them, and were proud and were among the disbelievers (59)
+
 The Call to repent before the Punishment comes
-This Ayah is a call to all sinners, be they disbelievers or others, to repent and turn to Allah. This Ayah tells us that Allah, may He be blessed and exalted, will forgive all the sins of those who repent to Him and turn back to Him, no matter what or how many his sins are, even if they are like the foam of the sea. This cannot be interpreted as meaning that sins will be forgiven without repentance, because Shirk can only be forgiven for the one ...
+
+This Ayah is a call to all sinners, be they disbelievers or others, to repent and turn to Allah. This Ayah tells us that Allah, may He be blessed and exalted, will forgive all the sins of those who repent to Him and turn back to Him, no matter what or how many his sins are, even if they are like the foam of the sea. This cannot be interpreted as meaning that sins will be forgiven without repentance, because Shirk can only be forgiven for the one who repents from it. Al-Bukhari recorded that Ibn 'Abbas, may Allah be pleased with him, said that some of the people of Shirk killed many people and committed Zina (illegal sexual acts) to a great extent; they came to Muhammad ﷺ and said, "What you are saying and calling us to is good; if only you could tell us that there is an expiation for what we have done." Then the following Ayat were revealed:
+
+وَالَّذِينَ لَا يَدْعُونَ مَعَ اللَّهِ إِلَٰهًا آخَرَ وَلَا يَقْتُلُونَ النَّفْسَ الَّتِي حَرَّمَ اللَّهُ إِلَّا بِالْحَقِّ وَلَا يَزْنُونَ ۚ
+
+(And those who invoke not any other god along with Allah, nor kill such person as Allah has forbidden, except for just cause, nor commit illegal sexual intercourse)(25:68).
+
+قُلْ يَا عِبَادِيَ الَّذِينَ أَسْرَفُوا عَلَىٰ أَنْفُسِهِمْ لَا تَقْنَطُوا مِنْ رَحْمَةِ اللَّهِ ۚ
+
+(Say: "O My servants who have transgressed against themselves! Despair not of the mercy of Allah.) This was also recorded by Muslim, Abu Dawud and An-Nasa'i. What is meant by the first Ayah (25:68) is:
+
+إِلَّا مَنْ تَابَ وَآمَنَ وَعَمِلَ عَمَلًا صَالِحًا
+
+(Except those who repent and believe, and do righteous deeds)(25:70). Imam Ahmad recorded that Asma' bint Yazid, said, "I heard the Messenger of Allah ﷺ reciting,
+
+إِنَّهُ عَمَلٌ غَيْرُ صَالِحٍ ۖ
+
+(verily, his work is unrighteous)(11:46). And I heard him ﷺ say:
+
+قُلْ يَا عِبَادِي الَّذِينَ أَسْرَفُوا عَلَىٰ أَنْفُسِهِمْ لَا تَقْنَطُوا مِنْ رَحْمَةِ اللَّهِ ۚ إِنَّ اللَّهَ يَغْفِرُ الذُّنُوبَ جَمِيعًا ۚ وَ لَا يُبَالِي إِنَّهُ هُوَ الْغَفُورُ الرَّحِيمُ
+
+(Say: "O My servants who have transgressed against themselves! Despair not of the mercy of Allah, verily, Allah forgives all sins He does not reckon him Truly, He is Oft-Forgiving, Most Merciful)." This was also recorded by Abu Dawud and At-Tirmidhi.
+
+All of these Hadiths indicate that what is meant is that Allah forgives all sins provided that a person repents. Additionally, one must not despair of the mercy of Allah even if his sins are many and great, for the door of repentance and mercy is expansive. Allah says:
+
+أَلَمْ يَعْلَمُوا أَنَّ اللَّهَ هُوَ يَقْبَلُ التَّوْبَةَ عَنْ عِبَادِهِ
+
+(Know they not that Allah accepts repentance from His servants)(9:104).
+
+وَمَنْ يَعْمَلْ سُوءًا أَوْ يَظْلِمْ نَفْسَهُ ثُمَّ يَسْتَغْفِرِ اللَّهَ يَجِدِ اللَّهَ غَفُورًا رَحِيمًا
+
+(And whoever does evil or wrongs himself but afterwards seeks Allah's forgiveness, he will find Allah Oft-Forgiving, Most Merciful.)(4:110). Concerning the hypocrites, Allah says:
+
+إِنَّ الْمُنَافِقِينَ فِي الدَّرْكِ الْأَسْفَلِ مِنَ النَّارِ وَلَنْ تَجِدَ لَهُمْ نَصِيرًا - إِلَّا الَّذِينَ تَابُوا وَأَصْلَحُوا
+
+(Verily, the hypocrites will be in the lowest depth (grade) of the Fire; no helper will you find for them. Except those who repent, and do righteous good deeds)(4:145-146). And Allah says:
+
+لَقَدْ كَفَرَ الَّذِينَ قَالُوا إِنَّ اللَّهَ ثَالِثُ ثَلَاثَةٍ ۘ وَمَا مِنْ إِلَٰهٍ إِلَّا إِلَٰهٌ وَاحِدٌ ۚ وَإِنْ لَمْ يَنْتَهُوا عَمَّا يَقُولُونَ لَيَمَسَّنَّ الَّذِينَ كَفَرُوا مِنْهُمْ عَذَابٌ أَلِيمٌ
+
+(Surely, disbelievers are those who said: "Allah is the third of the three (in a Trinity)." But there is no god but One. And if they cease not from what they say, verily, a painful torment will befall on the disbelievers among them.)(5:73). Then He says:
+
+أَفَلَا يَتُوبُونَ إِلَى اللَّهِ وَيَسْتَغْفِرُونَهُ ۚ وَاللَّهُ غَفُورٌ رَحِيمٌ
+
+(Will they not turn in repentance to Allah and ask His forgiveness? For Allah is Oft-Forgiving, Most Merciful.)(5:74) And Allah says:
+
+إِنَّ الَّذِينَ فَتَنُواْ الْمُؤْمِنِينَ وَالْمُؤْمِنَـتِ ثُمَّ لَمْ يَتُوبُواْ
+
+(Verily, those who put into trial the believing men and believing women (by torturing them), and then do not turn in repentance (to Allah))(85: 10).
+
+Al-Hasan Al-Basri, may Allah have mercy on him, said, "Look at this generosity and kindness! They killed His close friends but He still called them to repentance and forgiveness." There are many Ayat on this topic.
+
+The Two Sahihs record the Hadith of Abu Sa'id, may Allah be pleased with him, from Messenger of Allah ﷺ about the man who killed ninety-nine people. Later on, he regretted it and asked a worshipper among the Children of Israel whether he could repent. He told him no, so he killed him, thus completing one hundred. Then he asked one of their scholars whether he could repent. He said, "What is stopping you from repenting?" Then he told him to go to a town where Allah was worshipped. He set out for that town, but death came to him while he was on the road. The angels of mercy and the angels of punishment disputed over him, so Allah commanded them to measure the distance between the two towns; whichever he was closer to was the one to which he belonged. They found that he was closer to the town he was heading for, so the angels of mercy took him. It was said that when he was dying, he moved himself (towards that town), and Allah commanded the good town to move closer to him and the other town to move away. This is basic meaning of the Hadith; we have quoted it in full elsewhere.
+
+Ali bin Abi Talhah reported that Ibn 'Abbas, may Allah be pleased with him, commented on the Ayah:
+
+قُلْ يَا عِبَادِيَ الَّذِينَ أَسْرَفُوا عَلَىٰ أَنْفُسِهِمْ لَا تَقْنَطُوا مِنْ رَحْمَةِ اللَّهِ ۚ إِنَّ اللَّهَ يَغْفِرُ الذُّنُوبَ جَمِيعًا ۚ
+
+(Say: "O My servants who have transgressed against themselves! Despair not of the mercy of Allah, verily, Allah forgives all sins...")
+
+Allah invites all to His forgiveness; those who claim that the Messiah is God, those who claim that the Messiah is the son of God, those who claim that 'Uzayr is the son of God, those who claim that Allah is poor, those who claim that the Hand of Allah is tied up, and those who say that Allah is the third of three [Trinity]. Allah says to all of these:
+
+أَفَلَا يَتُوبُونَ إِلَى اللَّهِ وَيَسْتَغْفِرُونَهُ ۚ وَاللَّهُ غَفُورٌ رَحِيمٌ
+
+(Will they not turn in repentance to Allah and ask His forgiveness? For Allah is Oft-Forgiving, Most Merciful.)(5:74).
+
+And He calls to repentance the one who says something even worse than that, the one who says, 'I am your Lord most high,' and says,
+
+مَا عَلِمْتُ لَكُمْ مِنْ إِلَٰهٍ غَيْرِي
+
+("I know not that you have a god other than me.")(28:38). Ibn 'Abbas, may Allah be pleased with him, said, "Anyone who makes the servants of Allah despair of His mercy after this, has rejected the Book of Allah, but a person cannot repent until Allah decrees that he should repent."
+
+At-Tabarani recorded that Shutayr bin Shakal said, "I heard Ibn Mas'ud say, 'The greatest Ayah in the Book of Allah is:
+
+اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ ۚ
+
+(Allah! None has the right to be worshipped but He, the Ever Living, the One Who sustains and protects all that exists)(2:255).
+
+The most comprehensive Ayah in the Qur'an concerning good and evil is:
+
+إِنَّ اللَّهَ يَأْمُرُ بِالْعَدْلِ وَالْإِحْسَانِ
+
+(Verily, Allah enjoins justice and Al-Ihsan)(16:90).
+
+The Ayah in the Qur'an which brings the most relief is in Surat Az-Zumar:
+
+قُلْ يَا عِبَادِيَ الَّذِينَ أَسْرَفُوا عَلَىٰ أَنْفُسِهِمْ لَا تَقْنَطُوا مِنْ رَحْمَةِ اللَّهِ ۚ
+
+(Say: "O My servants who have transgressed against themselves! Despair not of the mercy of Allah.")
+
+And the clearest Ayah in the Qur'an about reliance on Allah is:
+
+وَمَنْ يَتَّقِ اللَّهَ يَجْعَلْ لَهُ مَخْرَجًا - وَيَرْزُقْهُ مِنْ حَيْثُ لَا يَحْتَسِبُ ۚ
+
+(And whosoever has Taqwa of Allah, He will make a way for him to get out (from every difficulty). And He will provide him from (sources) he never could imagine)(65:2-3).' Masruq said to him; 'You have spoken the truth.'"
+
+Hadiths which tell us not to despair
+
+Imam Ahmad recorded that Anas bin Malik, may Allah be pleased with him, said, "I heard the Messenger of Allah ﷺ, say:
+
+وَالَّذِي نَفْسِي بِيَدِهِ! لَوْ أَخْطَأْتُمْ حتّٰى تَمْلَأَ خَطَايَاكُمْ مَا بَيْنَ السَّمَاءِ وَالْأَرْضِ، ثُمَّ اسْتَغْفَرْتُمُ اللهَ تَعَالَىٰ لَغَفَرَ لَكُمْ، وَالَّذِي نَفْسُ مُحَمَّدٍ بِيَدِهِ! لَوْ لَمْ تُخْطِئُوا لَجَاءَ اللهُ عَزَّ وَجَلَّ بِقَوْمٍ يُخْطِئُونَ، ثُمَّ يَسْتَغْفِرُونَ اللهَ فَيَغْفِرُ لَهُمْ
+
+(By the One in Whose Hand is my soul, if you were to commit sin until your sins filled the space between heaven and earth, then you were to ask Allah for forgiveness, He would forgive you. By the One in Whose Hand is the soul of Muhammad, if you did not commit sin, Allah would bring other people who would commit sins and then ask Allah for forgiveness so that He could forgive them.)" This was recorded only by Ahmad.
+
+Imam Ahmad recorded that Abu Ayyub Al-Ansari, may Allah be pleased with him, said, as he was on his deathbed, "I have concealed something from you that I heard from the Messenger of Allah ﷺ; he said:
+
+لَوْلَا أَنَّكُمْ تُذْنِبُونَ لَخَلَقَ اللهُ عَزَّ وَجَلَّ قَوْمًا يُذْنِبُونَ، فَيَغْفِرُ لَهُمْ
+
+(If you did not commit sins, Allah would create people who would sin so that He could forgive them.)" This was recorded by Imam Ahmad; it was also recorded by Muslim in his Sahih, and by At-Tirmidhi.
+
+Allah encourages His servants to hasten to repent, as He says:
+
+وَأَنِيبُوا إِلَىٰ رَبِّكُمْ وَأَسْلِمُوا لَهُ
+
+(And turn in repentance (and in obedience with true faith) to your Lord and submit to Him) meaning, turn back to Allah and submit yourselves to Him.
+
+مِنْ قَبْلِ أَنْ يَأْتِيَكُمُ الْعَذَابُ ثُمَّ لَا تُنْصَرُونَ
+
+(before the torment comes upon you, (and) then you will not be helped.) means, hasten to repent and do righteous deeds before His wrath comes upon you.
+
+وَاتَّبِعُوا أَحْسَنَ مَا أُنْزِلَ إِلَيْكُمْ مِنْ رَبِّكُمْ
+
+(And follow the best of that which is sent down to you from your Lord,) means, the Qur'an.
+
+مِنْ قَبْلِ أَنْ يَأْتِيَكُمُ الْعَذَابُ بَغْتَةً وَأَنْتُمْ لَا تَشْعُرُونَ
+
+(before the torment comes on you suddenly while you perceive not!) means, without you realizing it.
+
+أَنْ تَقُولَ نَفْسٌ يَا حَسْرَتَا عَلَىٰ مَا فَرَّطْتُ فِي جَنْبِ اللَّهِ
+
+(Lest a person should say: "Alas, my grief that I was undutiful to Allah...") means, on the Day of Resurrection, the sinner who neglected to repent and turn back to Allah will regret it, and will wish that he had been one of the righteous who obeyed Allah.
+
+وَإِنْ كُنْتُ لَمِنَ السَّاخِرِينَ
+
+(and I was indeed among those who mocked.) means, 'my actions in this world were those of one who ridicules and makes fun, not of one who has firm faith and is sincere.'
+
+أَوْ تَقُولَ لَوْ أَنَّ اللَّهَ هَدَانِي لَكُنْتُ مِنَ الْمُتَّقِينَ - أَوْ تَقُولَ حِينَ تَرَى الْعَذَابَ لَوْ أَنَّ لِي كَرَّةً فَأَكُونَ مِنَ الْمُحْسِنِينَ
+
+(Or (lest) he should say: "If only Allah had guided me, I 
+
+[TRUNCATED at 12000 chars — 2456 more. Consult the source directly before relying on anything near the cut.]
 
 ### al-Tabari (Arabic)
 
-وقوله: ( وَاتَّبِعُوا أَحْسَنَ مَا أُنـزلَ إِلَيْكُمْ مِنْ رَبِّكُمْ ) يقول تعالى ذكره: واتبعوا أيها الناس ما أمركم به ربكم في تنـزيله, واجتنبوا ما نهاكم فيه عنه, وذلك هو أحسن ما أنـزل إلينا من ربنا.فإن قال قائل: ومن القرآن شيء وهو أحسن من شيء؟ قيل له: القرآن كله حسن, وليس معنى ذلك ما توهمت, وإنما معناه: واتبعوا مما أنـزل إليكم ربكم من الأمر والنهي والخبر, والمثل, والقصص, والجدل, والوعد, والوعيد أحسنه أن تأتمروا لأمره, وتنتهوا عما نهى عنه, لأن النهي مما أنـزل في الكتاب, فلو عملوا بما نهوا عنه...
+القول في تأويل قوله تعالى: ﴿وَأَنِيبُوا إِلَى رَبِّكُمْ وَأَسْلِمُوا لَهُ مِنْ قَبْلِ أَنْ يَأْتِيَكُمُ الْعَذَابُ ثُمَّ لا تُنْصَرُونَ (٥٤) وَاتَّبِعُوا أَحْسَنَ مَا أُنزلَ إِلَيْكُمْ مِنْ رَبِّكُمْ مِنْ قَبْلِ أَنْ يَأْتِيَكُمُ الْعَذَابُ بَغْتَةً وَأَنْتُمْ لا تَشْعُرُونَ (٥٥) ﴾
+
+يقول تعالى ذكره: وأقبلوا أيها الناس إلى ربكم بالتوبة، وارجعوا إليه بالطاعة له، واستجيبوا له إلى ما دعاكم إليه من توحيده، وإفراد الألوهة له، وإخلاص العبادة له.
+
+كما:-
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: ﴿وَأَنِيبُوا إِلَى رَبِّكُمْ﴾ : أي أقبلوا إلى ربكم.
+
+⁕ حدثنا محمد، قال: ثنا أحمد، قال: ثنا أسباط، عن السديّ ﴿وَأَنِيبُوا﴾ قال: أجيبوا.
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله: ﴿وَأَنِيبُوا إِلَى رَبِّكُمْ﴾ قال: الإنابة: الرجوع إلى الطاعة، والنزوع عما كانوا عليه، ألا تراه يقول: ﴿مُنِيبِينَ إِلَيْهِ وَاتَّقُوهُ﴾ .
+
+* *
+
+وقوله: ﴿وَأَسْلِمُوا لَهُ﴾
+
+يقول: واخضعوا له بالطاعة والإقرار بالدين الحنيفي ﴿مِنْ قَبْلِ أَنْ يَأْتِيَكُمُ الْعَذَابُ﴾ من عنده على كفركم به.
+
+﴿ثُمَّ لا تُنْصَرُونَ﴾ يقول: ثم لا ينصركم ناصر، فينقذكم من عذابه النازل بكم.
+
+* *
+
+وقوله: ﴿وَاتَّبِعُوا أَحْسَنَ مَا أُنزلَ إِلَيْكُمْ مِنْ رَبِّكُمْ﴾
+
+يقول تعالى ذكره: واتبعوا أيها الناس ما أمركم به ربكم في تنزيله، واجتنبوا ما نهاكم فيه عنه، وذلك هو أحسن ما أنزل إلينا من ربنا.
+
+فإن قال قائل: ومن القرآن شيء وهو أحسن من شيء؟ قيل له: القرآن كله حسن، وليس معنى ذلك ما توهمت، وإنما معناه: واتبعوا مما أنزل إليكم ربكم من الأمر والنهي والخبر، والمثل، والقصص، والجدل، والوعد، والوعيد أحسنه أن تأتمروا لأمره، وتنتهوا عما نهى عنه، لأن النهي مما أنزل في الكتاب، فلو عملوا بما نهوا عنه كانوا عاملين بأقبحه، فذلك وجهه.
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+محمد، قال: ثنا أحمد، قال: ثنا أسباط، عن السديّ ﴿وَاتَّبِعُوا أَحْسَنَ مَا أُنزلَ إِلَيْكُمْ مِنْ رَبِّكُمْ﴾ يقول: ما أمرتم به في الكتاب ﴿مِنْ قَبْلِ أَنْ يَأْتِيَكُمُ الْعَذَابُ﴾ قوله: ﴿مِنْ قَبْلِ أَنْ يَأْتِيَكُمُ الْعَذَابُ بَغْتَةً﴾ يقول: من قبل أن يأتيكم عذاب الله فجأة ﴿وَأَنْتُمْ لا تَشْعُرُونَ﴾ يقول: وأنتم لا تعلمون به حتى يغشاكم فجأة.
 
 ### al-Muyassar (Arabic)
 
-واتبعوا أحسن ما أُنزل إليكم من ربكم، وهو القرآن العظيم، وكله حسن، فامتثلوا أوامره، واجتنبوا نواهية من قبل أن يأتيكم العذاب فجأة، وأنتم لا تعلمون به.
+واتبعوا أحسن ما أُنزل إليكم من ربكم، وهو القرآن العظيم، وكله حسن، فامتثلوا أوامره، واجتنبوا نواهيه من قبل أن يأتيكم العذاب فجأة، وأنتم لا تعلمون به.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿واتَّبِعُوا أحْسَنَ ما أُنْزِلَ إلَيْكُمْ مِن رَبّكُمْ﴾ هُوَ القُرْآن ﴿مِن قَبْل أنْ يَأْتِيكُمْ العَذاب بَغْتَة وأَنْتُمْ لا تَشْعُرُونَ﴾ قَبْل إتْيانه بِوَقْتِهِ
 
 ---

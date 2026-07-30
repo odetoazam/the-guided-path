@@ -1,8 +1,8 @@
 # Tafsir Cross-Reference Report
 
-Generated: 2026-04-13
-Primary ayah: 18:101
-Tafsir sources checked: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), al-Jalalayn availability checked
+Generated: 2026-07-30
+Ayahs referenced: 1
+Tafsir sources: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), al-Jalalayn (Arabic)
 
 ---
 
@@ -10,46 +10,60 @@ Tafsir sources checked: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (A
 
 ### Ibn Kathir (English)
 
-Ibn Kathir connects this ayah directly to the preceding display of Jahannam. He explains that these are people who neglected Allah's reminder, turned a blind eye and deaf ear to it, refused guidance and truth, and could not understand Allah's commands and prohibitions. He also links the condition to 43:36, where turning blindly from the remembrance of the Most Merciful results in a shaytan companion.
+And on that Day We shall present Hell to the disbelievers, plain to view (100)(To) those whose eyes had been under a covering from My Reminder, and they could not bear to hear (it)(101)Do then those who disbelieved think that they can take My servants as Awliya' [protectors] besides Me? Verily, We have prepared Hell as an entertainment for the disbelievers (102)
+
+Hell will be displayed before the Disbelievers on the Day of Resurrection
+
+Allah tells us what He will do to the disbelievers on the Day of Resurrection. He will show Hell to them, meaning He will bring it forth for them to see its punishment and torment before they enter it. This will intensify their distress and grief. In Sahih Muslim it is recorded that Ibn Mas'ud said, "The Messenger of Allah ﷺ said,
+
+يُؤْتَى بِجَهَنَّمَ تُقَادُ يَوْمَ الْقِيَامَةِ بِسَبْعِينَ أَلْفَ زِمَامٍ، مَعَ كُلِّ زِمَامٍ سَبْعُونَ أَلْفَ مَلَكٍ
+
+(Hell will be brought forth on the Day of Resurrection, pulled by means of seventy thousand reins, each of which will be held by seventy thousand angels.)
+
+Then Allah says of them:
+
+الَّذِينَ كَانَتْ أَعْيُنُهُمْ فِي غِطَاءٍ عَن ذِكْرِي
+
+((To) those whose eyes had been under a covering from My Reminder,) meaning, they neglected it, turning a blind eye and a deaf ear to it, refusing to accept guidance and follow the truth. As Allah says:
+
+وَمَن يَعْشُ عَن ذِكْرِ الرَّحْمَٰنِ نُقَيِّضْ لَهُ شَيْطَانًا فَهُوَ لَهُ قَرِينٌ
+
+(And whosoever turns away blindly from the remembrance of the Most Gracious, We appoint for him a Shaytan to be a companion for him.)(43:36) And here Allah says:
+
+وَكَانُوا لَا يَسْتَطِيعُونَ سَمْعًا
+
+(and they could not bear to hear (it).) meaning, they did not understand the commands and prohibitions of Allah. Then He says:
+
+أَفَحَسِبَ الَّذِينَ كَفَرُوا أَن يَتَّخِذُوا عِبَادِي مِن دُونِي أَوْلِيَاءَ
+
+(Do then those who disbelieved think that they can take My servants as Awliya' [protectors] besides Me?) meaning, do they think that this is right for them and that it is going to benefit them?
+
+كَلَّا ۚ سَيَكْفُرُونَ بِعِبَادَتِهِمْ وَيَكُونُونَ عَلَيْهِمْ ضِدًّا
+
+(Nay, but they will deny their worship of them, and become opponents to them)[19:82].
+
+Allah says that He has prepared Hell as their abode on the Day of Resurrection.
 
 ### al-Tabari (Arabic)
 
-Al-Tabari explains that Jahannam is displayed to the disbelievers whose eyes did not look into Allah's signs with reflection and consideration, so that they would remember, return to tawhid, and submit to Allah's command and prohibition. He explains their inability to hear as inability to bear or receive Allah's reminder and clarification in the Book in a way that would let them distinguish guidance from misguidance and faith from disbelief. He cites Mujahid: "they could not hear" means they did not understand or know.
+القول في تأويل قوله تعالى: ﴿الَّذِينَ كَانَتْ أَعْيُنُهُمْ فِي غِطَاءٍ عَنْ ذِكْرِي وَكَانُوا لا يَسْتَطِيعُونَ سَمْعًا (١٠١) ﴾
+
+يقول تعالى: وعرضنا جهنم يومئذ للكافرين الذين كانوا لا ينظرون في آيات الله، فيتفكَّرون فيها ولا يتأمَّلون حججه، فيعتبرون بها، فيتذكرون وينيبون إلى توحيد الله، وينقادون لأمره ونهيه، وكانوا لا يستطيعون سمعا، يقول: وكانوا لا يطيقون أن يسمعوا ذكر الله الذي ذكَّرهم به، وبيانه الذي بيَّنه لهم في آي كتابه، بخذلان الله إياهم، وغلبة الشقاء عليهم، وشُغلهم بالكفر بالله وطاعة الشيطان، فيتعظون به، ويتدبَّرون، فيعرفون الهدى من الضلالة، والكفر من الإيمان.
+
+وكان مجاهد يقول في ذلك ما:-
+
+⁕ حدثنا محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى، وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء، جميعا عن ابن أبي نجيح، عن مجاهد، قوله ﴿لا يَسْتَطِيعُونَ سَمْعًا﴾ قال: لا يعقلون.
+
+⁕ حدثنا القاسم، قال: ثنا الحسين، ثني حجاج، عن ابن جريج، عن مجاهد ﴿وَكَانُوا لا يَسْتَطِيعُونَ سَمْعًا﴾ قال: لا يعلمون.
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله ﴿الَّذِينَ كَانَتْ أَعْيُنُهُمْ فِي غِطَاءٍ عَنْ ذِكْرِي﴾ الآية، قال: هؤلاء أهل الكفر.
 
 ### al-Muyassar (Arabic)
 
-Al-Muyassar explains that their eyes in worldly life were covered from Allah's remembrance, so they did not see His signs, and they could not bear hearing the proofs that lead to faith in Allah and His Messenger.
+الذين كانت أعينهم في الدنيا في غطاء عن ذكري فلا تبصر آياتي، وكانوا لا يطيقون سماع حججي الموصلة إلى الإيمان بي وبرسولي.
 
 ### al-Jalalayn (Arabic)
 
-A direct per-ayah JSON entry was not available from the configured CDN endpoint during this check.
-
-### Alignment Notes
-
-The reflection aligns with the tafsir sources on the central claim: the ayah describes not a lack of available signs, but a moral-spiritual condition in which sight is covered from Allah's remembrance and hearing cannot receive guidance. The draft's emphasis on trained avoidance becoming incapacity is an interpretive extension, but it is grounded in al-Tabari's explanation of failed reflection and failed reception, Ibn Kathir's "blind eye/deaf ear" framing, and al-Muyassar's statement that they could not bear proofs leading to faith.
+﴿الَّذِينَ كانَتْ أعْيُنهمْ﴾ بَدَل مِن الكافِرِينَ ﴿فِي غِطاء عَنْ ذِكْرِي﴾ أيْ القُرْآن فَهُمْ عُمْي لا يَهْتَدُونَ بِهِ ﴿وكانُوا لا يَسْتَطِيعُونَ سَمْعًا﴾ أيْ لا يَقْدِرُونَ أنْ يَسْمَعُوا مِن النَّبِيّ ما يَتْلُوهُ عَلَيْهِمْ بُغْضًا لَهُ فَلا يُؤْمِنُونَ بِهِ
 
 ---
-
-## Cross-References Used In The Reflection
-
-### 18:57
-
-The reflection uses 18:57 as an internal Al-Kahf echo: one who is reminded of the signs of his Lord turns away and forgets what his hands have sent forth; coverings are placed over hearts and heaviness in ears. This supports the link between refusal of reminder and blocked reception.
-
-### 43:36
-
-The reflection follows Ibn Kathir's own cross-reference to 43:36: turning away blindly from the remembrance of the Most Merciful results in a shaytan companion. This supports the warning that turning from dhikr does not leave the heart neutral.
-
-### 7:179 and 17:45-46
-
-These ayahs are used thematically for the Qur'anic pattern of faculties that exist physically but fail spiritually: hearts, eyes, and ears unused for guidance; coverings and heaviness preventing reception of Qur'an.
-
-### 39:18 and 8:2
-
-These ayahs are used as contrasts: guided people listen and follow the best of what they hear, and believers respond to Allah's mention and recited ayahs with increased faith rather than incapacity.
-
----
-
-## Verdict
-
-No tafsir conflict found. The article's claims remain within the classical frame: 18:101 identifies the inward condition of the disbelievers facing Jahannam's display, namely covered sight from Allah's remembrance and inability to hear guidance. The practical applications are tadabbur extensions rather than independent tafsir claims.

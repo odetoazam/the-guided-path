@@ -1,6 +1,6 @@
 # Tafsir Cross-Reference Report
 
-Generated: 2026-04-10
+Generated: 2026-07-30
 Ayahs referenced: 9
 Tafsir sources: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), al-Jalalayn (Arabic)
 
@@ -10,22 +10,169 @@ Tafsir sources: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), 
 
 ### Ibn Kathir (English)
 
+There is no compulsion in religion. Verily, the right path has become distinct from the wrong path. Whoever disbelieves in Taghut and believes in Allah, then he has grasped the most trustworthy handhold that will never break. And Allah is All-Hearer, All-Knower (256)
+
 No Compulsion in Religion
+
 Allah said,
-لاَ إِكْرَاهَ فِى الدِّينِ
-(There is no compulsion in religion), meaning, "Do not force anyone to become Muslim, for Islam is plain and clear, and its proofs and evidence are plain and clear. Therefore, there is no need to force anyone to embrace Islam. Rather, whoever Allah directs to Islam, opens his heart for it and enlightens his mind, will embrace Islam with certainty. Whoever Allah blinds his heart and seals his hearing and sight, then he will not b...
+
+لَا إِكْرَاهَ فِي الدِّينِ
+
+(There is no compulsion in religion), meaning, "Do not force anyone to become Muslim, for Islam is plain and clear, and its proofs and evidence are plain and clear. Therefore, there is no need to force anyone to embrace Islam. Rather, whoever Allah directs to Islam, opens his heart for it and enlightens his mind, will embrace Islam with certainty. Whoever Allah blinds his heart and seals his hearing and sight, then he will not benefit from being forced to embrace Islam."
+
+It was reported that the Ansar were the reason behind revealing this Ayah, although its indication is general in meaning. Ibn Jarir recorded that Ibn 'Abbas said [that before Islam], "When (an Ansar) woman would not bear children who would live, she would vow that if she gives birth to a child who remains alive, she would raise him as a Jew. When Banu An-Nadir (the Jewish tribe) were evacuated [from Al-Madinah], some of the children of the Ansar were being raised among them, and the Ansar said, 'We will not abandon our children.' Allah revealed,
+
+لَا إِكْرَاهَ فِي الدِّينِ قَد تَّبَيَّنَ الرُّشْدُ مِنَ الْغَيِّ
+
+(There is no compulsion in religion. Verily, the right path has become distinct from the wrong path.)"
+
+Abu Dawud and An-Nasa'i also recorded this Hadith.
+
+As for the Hadith that Imam Ahmad recorded, in which Anas said that the Messenger of Allah ﷺ said to a man,
+
+أَسْلِم
+
+قَالَ: إِنِّي أَجِدُنِي كَارِهًا
+
+قَالَ: وَإِنْ كُنْتَ كَارِهًا
+
+("Embrace Islam." The man said, "I dislike it." The Prophet ﷺ said, "Even if you dislike it.")
+
+First, this is an authentic Hadith, with only three narrators between Imam Ahmad and the Prophet ﷺ. However, it is not relevant to the subject under discussion, for the Prophet ﷺ did not force that man to become Muslim. The Prophet ﷺ merely invited this man to become Muslim, and he replied that he does not find himself eager to become Muslim. The Prophet ﷺ said to the man that even though he dislikes embracing Islam, he should still embrace it, 'for Allah will grant you sincerity and true intent.'
+
+Tawhid is the Most Trustworthy Handhold
+
+Allah's statement,
+
+فَمَن يَكْفُرْ بِالطَّاغُوتِ وَيُؤْمِن بِاللَّهِ فَقَدِ اسْتَمْسَكَ بِالْعُرْوَةِ الْوُثْقَىٰ لَا انفِصَامَ لَهَا وَاللَّهُ سَمِيعٌ عَلِيمٌ
+
+(Whoever disbelieves in Taghut and believes in Allah, then he has grasped the most trustworthy handhold that will never break. And Allah is All-Hearer, All-Knower) is in reference to, "Whoever shuns the rivals of Allah, the idols, and those that Shaytan calls to be worshipped besides Allah, whoever believes in Allah's Oneness, worships Him alone and testifies that there is no deity worthy of worship except Him, then
+
+فَقَدِ اسْتَمْسَكَ بِالْعُرْوَةِ الْوُثْقَىٰ
+
+(then he has grasped the most trustworthy handhold.)
+
+Therefore, this person will have acquired firmness [in the religion] and proceeded on the correct way and the straight path. Abu Al-Qasim Al-Baghawi recorded that 'Umar said, "Jibt means magic, and Taghut means Shaytan. Verily, courage and cowardice are two instincts that appear in men, the courageous fights for those whom he does not know and the coward runs away from defending his own mother. Man's honor resides with his religion and his status is based upon his character, even if he was Persian or Nabatian." 'Umar's statement that Taghut is Shaytan is very sound, for this meaning includes every type of evil that the ignorant people of Jahiliyyah (pre Islamic era of ignorace) fell into, such as worshipping idols, referring to them for judgement, and invoking them for victory.
+
+Allah's statement,
+
+فَقَدِ اسْتَمْسَكَ بِالْعُرْوَةِ الْوُثْقَىٰ لَا انفِصَامَ لَهَا
+
+(then he has grasped the most trustworthy handhold that will never break) means, "He will have hold of the true religion with the strongest grasp." Allah equated this adherence to the firm handhold that never breaks because it is built solid and because its handle is firmly connected. This is why Allah said here,
+
+فَقَدِ اسْتَمْسَكَ بِالْعُرْوَةِ الْوُثْقَىٰ لَا انفِصَامَ لَهَا
+
+(then he has grasped the most trustworthy handhold that will never break.)
+
+Mujahid said, "The most trustworthy handhold is Iman (faith)." As-Suddi said that it refers to Islam. Imam Ahmad recorded that Qays bin 'Abbad said, "I was in the Masjid when a man whose face showed signs of humbleness came and prayed two Rak'ahs that were modest in length. The people said, 'This is a man from among the people of Paradise.' When he left, I followed him until he entered his house, and I entered it after him and spoke with him. When he felt at ease, I said to him, 'When you entered the Masjid, the people said such and such things.' He said, 'All praise is due to Allah! No one should say what he has no knowledge of. I will tell you why they said that. I saw a vision during the time of the Messenger of Allah, and I narrated it to him. I saw that I was in a green garden,' and he described the garden's plants and spaciousness, 'and there was an iron pole in the middle of the garden affixed in the earth and its tip reached the sky. On its tip, there was a handle, and I was told to ascend the pole. I said, 'I cannot.' Then a helper came and raised my robe from behind and said to me, 'Ascend.' I ascended until I grasped the handle and he said to me, 'Hold on to the handle.' I awoke from that dream with the handle in my hand. I went to the Messenger of Allah ﷺ and told him about the vision and he said,
+
+أَمَّا الرَّوْضَةُ فَرَوْضَةُ الْإِسْلَامِ، وَأَمَّا الْعَمُودُ فَعَمُودُ الْإِسْلَامِ، وَأَمَّا الْعُرْوَةُ فَهِيَ الْعُرْوَةُ الْوُثْقَى، أَنْتَ عَلَى الْإِسْلَامِ حَتَّى تَمُوتَ
+
+(As for the garden, it represents Islam; as for the pole, it represents the pillar of Islam; and the handle represents the most trustworthy handhold. You shall remain Muslim until you die.)
+
+This Companion was 'Abdullah bin Salam."
+
+This Hadith was also collected in the Two Sahihs; and Al-Bukhari also recorded it with another chain of narration.
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله :  لا إِكْرَاهَ فِي الدِّينِ قَدْ تَبَيَّنَ الرُّشْدُ مِنَ الْغَيِّقال أبو جعفر: اختلف أهل التأويل في معنى ذلك.فقال بعضهم: نـزلت هذه الآية في قوم من الأنصار- أو في رجل منهم - كان لهم أولاد قد هودوهم أو نصروهم، فلما جاء الله بالإسلام أرادوا إكراههم عليه، فنهاهم الله عن ذلك، حتى يكونوا هم يختارون الدخول في الإسلام.* ذكر من قال ذلك:5812 - حدثنا محمد بن بشار، قال: حدثنا ابن أبي عدي، عن شعبة، &; 5-408 &; عن أبي بشر، عن سعيد بن جبير، عن ابن عباس قال: كانت المرأة تكون مقلاتا، فتج...
+القول في تأويل قوله: ﴿لا إِكْرَاهَ فِي الدِّينِ قَدْ تَبَيَّنَ الرُّشْدُ مِنَ الْغَيِّ﴾
+
+قال أبو جعفر: اختلف أهل التأويل في معنى ذلك.
+
+فقال بعضهم: نزلت هذه الآية في قوم من الأنصار- أو في رجل منهم - كان لهم أولاد قد هودوهم أو نصروهم، فلما جاء الله بالإسلام أرادوا إكراههم عليه، فنهاهم الله عن ذلك، حتى يكونوا هم يختارون الدخول في الإسلام.
+
+ذكر من قال ذلك:
+
+٥٨١٢ - حدثنا محمد بن بشار، قال: حدثنا ابن أبي عدي، عن شعبة، عن أبي بشر، عن سعيد بن جبير، عن ابن عباس قال: كانت المرأة تكون مقلاتا، فتجعل على نفسها إن عاش لها ولد أن تهوده. فلما أجليت بنو النضير كان فيهم من أبناء الأنصار، فقالوا: لا ندع أبناءنا! فأنزل الله تعالى ذكره:"لا إكراه في الدين قد تبين الرشد من الغي".
+
+٥٨١٣ - حدثنا ابن بشار، قال: حدثنا محمد بن جعفر، قال: حدثنا سعيد، عن أبي بشر، عن سعيد بن جبير، قال: كانت المرأة تكون مقلى ولا يعيش لها ولد = قال شعبة. وإنما هو مقلات = فتجعل عليها إن بقي لها ولد لتهودنه. قال: فلما أجليت بنو النضير كان فيهم منهم، فقالت الأنصار: كيف نصنع بأبنائنا؟ فنزلت هذه الآية:"لا إكراه في الدين قد تبين الرشد من الغي". قال: من شاء أن يقيم أقام، ومن شاء أن يذهب ذهب [[الأثران: ٥٨١٢، ٥٨١٣ -في ابن كثير ٢: ١٥، والدر المنثور ١: ٣٢٩ قال ابن كثير: "رواه أبو داود والنسائي جميعا عن بندار به، ومن وجوه أخرى عن شعبة به نحوه. ورواه ابن أبي حاتم وابن حبان في صحيحه من حديث شعبة به". والسنن الكبرى للبيهقى ٩: ١٨٦، وسنن أبي داود -٣: ٧٨ -٧٩ رقم: ٢٦٨٢. وكان في المطبوعة والمخطوطة في رقم ٥٨١٣، "حدثنا محمد بن جعفر، عن سعيد"، وهو خطأ صوابه"شعبة". وقوله: "قال: من شاء أن يقيم أقام" وهو من كلام سعيد بن جبير، كما في السنن للبيهقى. والحديث مرفوع هناك إلى ابن عباس وهو الصواب ولكني تركت ما في الطبري على حاله.
+
+وامرأة مقلت (بضم الميم) ومقلات (بكسر الميم) ، هى المرأة التي لايعيش لها ولد. ويأتى أيضًا "مقلات"، أنها المرأة التي ليس لها إلا ولد واحد. ولكن الأول هو المراد في هذا الأثر.]] .
+
+٥٨١٤ - حدثنا حميد بن مسعدة، قال: حدثنا بشر بن المفضل، قال: حدثنا داود= وحدثني يعقوب قال: حدثنا ابن علية، عن داود= عن عامر، قال: كانت المرأة من الأنصار تكون مقلاتا لا يعيش لها ولد، فتنذر إن عاش ولدها أن تجعله مع أهل الكتاب على دينهم، فجاء الإسلام وطوائف من أبناء الأنصار على دينهم، فقالوا: إنما جعلناهم على دينهم، ونحن نرى أن دينهم أفضل من ديننا! وإذ جاء الله بالإسلام فلنكرهنهم! فنزلت:"لا إكراه في الدين"، فكان فصل ما بين من اختار اليهودية والإسلام، فمن لحق بهم اختار اليهودية، ومن أقام اختار الإسلام= ولفظ الحديث لحميد.
+
+٥٨١٥ - حدثنا محمد بن عبد الأعلى، قال: حدثنا معتمر بن سليمان، قال: سمعت داود، عن عامر، بنحو معناه= إلا أنه قال: فكان فصل ما بينهم، إجلاء رسول الله ﷺ بني النضير، فلحق بهم من كان يهوديا ولم يسلم منهم، وبقي من أسلم.
+
+٥٨١٦ - حدثنا ابن المثنى، قال: حدثنا عبد الأعلى، قال: حدثنا داود، عن عامر بنحوه= إلا أنه قال: إجلاء النضير إلى خيبر، فمن اختار الإسلام أقام، ومن كره لحق بخيبر [[الآثار ٥٨١٤ -٥٨١٦- هى ألفاظ مختلفة لحديث واحد، وانظر ١: ٣٢٩، وقال": أخرجه عبد بن حميد وابن المنذر"، ثم انظر الأثرين رقم: ٥٨٢٣، ٥٨٢٤ فيما يأتي بعد.]] .
+
+٥٨١٧ - حدثني ابن حميد، قال: حدثنا سلمة، عن أبي إسحاق، عن محمد بن أبي محمد الحرشي مولى زيد بن ثابت عن عكرمة، أو عن سعيد بن جبير، عن ابن عباس قوله:"لا إكراه في الدين قد تبين الرشد من الغي"، قال: نزلت في رجل من الأنصار من بني سالم بن عوف يقال له الحصين، كان له ابنان نصرانيان، وكان هو رجلا مسلما، فقال للنبي ﷺ: ألا أستكرههما فإنهما قد أبيا إلا النصرانية؟ فأنزل الله فيه ذلك [[الأثر: ٥٨١٧ -انظر ما قاله الحافظ ابن حجر في تحقيق اسم الصحابي في"حصين الأنصاري" غير منسوب، ثم في باب الكنى"أبو الحصين الأنصاري السالمي"، وفيهما تحقيق جيد.
+
+وانظر تفسير ابن ٢: ١٥، والدر المنثور ١: ٣٢٩. وانظر الأثر التالي رقم: ٥٨١٩.]] .
+
+٥٨١٨ - حدثني المثنى قال: حدثنا حجاج بن المنهال، قال: حدثنا أبو عوانة، عن أبي بشر، قال: سألت سعيد بن جبير عن قوله:"لا إكراه في الدين قد تبين الرشد من الغي" قال: نزلت هذه في الأنصار، قال: قلت خاصة! قال: خاصة! قال: كانت المرأة في الجاهلية تنذر إن ولدت ولدا أن تجعله في اليهود، تلتمس بذلك طول بقائه. قال: فجاء الإسلام وفيهم منهم، فلما أجليت النضير قالوا: يا رسول الله، أبناؤنا وإخواننا فيهم، قال: فسكت عنهم رسول الله ﷺ، فأنزل الله تعالى ذكره:"لا إكراه في الدين قد تبين الرشد من الغي" قال: فقال رسول الله ﷺ:"قد خير أصحابكم، فإن اختاروكم فهم منكم، وإن اختاروهم فهم منهم" قال: فأجلوهم معهم [[الأثر: ٥٨١٨ -في السنن الكبرى للبيهقى ٩: ١٨٦ من طريق سعيد بن منصور عن أبي عوانة، وذكره السيوطي في الدر المنثور ١: ٣٢٩ وزاد نسبته إلى"سعيد بن منصور، وعبدبن حميد، وابن المنذر" وفيها زيادة: "كانت المرأة في الجاهلية إذا كانت نزورا مقلاتا تنذر لئن ولدت ولدا لتجعلنه في اليهود" وسائر الخبر سواء. وكتب في البيهقي والدر المنثور"مقلاة" بالتاء المربوطة وهو خطأ، و"امرأة نزرة" (بفتح وكسر" وامرأة نزور" قليلة الولد. وفي الدر"نزورة" وهو خطأ.]] .
+
+٥٨١٩ - حدثني موسى بن هارون، قال: حدثنا عمرو، قال: حدثنا أسباط، عن السدي قوله:"لا إكراه في الدين قد تبين الرشد من الغي" إلى:"لا انفصام لها" قال: نزلت في رجل من الأنصار يقال له أبو الحصين: كان له ابنان، فقدم تجار من الشام إلى المدينة يحملون الزيت. فلما باعوا وأرادوا أن يرجعوا أتاهم ابنا أبي الحصين، فدعوهما إلى النصرانية، فتنصرا فرجعا إلى الشام معهم. فأتى أبوهما إلى رسول الله ﷺ، فقال [[في المطبوعة: "إلى رسول الله صلى عليه وسلم"، والصواب من المخطوطة والدر المنثور.]] إن ابني تنصرا وخرجا، فأطلبهما؟ فقال:"لا إكراه في الدين" [[في المطبوعة: إتمام الآية"قد تبين الرشد من الغى"، وليس في المخطوطة ولا الدر المنثور.]] .
+
+ولم يؤمر يومئذ بقتال أهل الكتاب، وقال: أبعدهما الله! هما أول من كفر! فوجد أبو الحصين في نفسه على النبي ﷺ حين لم يبعث في طلبهما، فنزلت: ﴿فَلا وَرَبِّكَ لا يُؤْمِنُونَ حَتَّى يُحَكِّمُوكَ فِيمَا شَجَرَ بَيْنَهُمْ ثُمَّ لا يَجِدُوا فِي أَنْفُسِهِمْ حَرَجًا مِمَّا قَضَيْتَ وَيُسَلِّمُوا تَسْلِيمًا﴾ [سورة النساء: ٦٥] ثم إنه نسخ:"لا إكراه في الدين" فأمر بقتال أهل الكتاب في" سورة براءة" [[الأثر: ٥٨١٩ -في الدر المنثور ١: ٣٢٩، وزاد نسبته إلى أبي داود في ناسخه، وابن المنذر، وأشار إليه ابن كثير في تفسيره ٢: ١٥. هذا ولم يذكر أبو جعفر هذا الأثر في تفسير آية"سورة النساء"، ولم يجعلها قولا غير الأقوال التي ذكرها. وهو دليل على اختصاره هذا التفسير، كما رووا عنه.]] .
+
+٥٨٢٠ - حدثني محمد بن عمرو، قال: حدثنا أبو عاصم، عن عيسى، عن ابن أبي نجيح، عن مجاهد في قول الله:"لا إكراه في الدين" قال: كانت في اليهود بني النضير، [[في المطبوعة: "كانت في اليهود يهود أرضعوا ... "، وفي المخطوطة كانت اليهود يهودا أرضعوا" وهما خطأ. وفي الدر المنثور ١: ٣٢٩: " كانت النضير أرضعت". واستظهرت أن تكون العبارة أثبتها، سقط من الناسخ"بني النضير" -أو يكون صوابها كما سيأتى في الأثر رقم: ٥٨٢٢: "كانت النضير يهودا ... ".]] أرضعوا رجالا من الأوس، فلما أمر النبي ﷺ بإجلائهم، قال أبناؤهم من الأوس: لنذهبن معهم، ولندينن بدينهم! فمنعهم أهلوهم، وأكرهوهم على الإسلام، ففيهم نزلت هذه الآية.
+
+٥٨٢١ - حدثنا ابن وكيع، قال: حدثنا أبي، عن سفيان= وحدثنا أحمد بن إسحاق، قال: حدثنا أبو أحمد = جميعا، عن سفيان، عن خصيف، عن مجاهد:"لا إكراه في الدين"، قال: كان ناس من الأنصار مسترضعين في بني قريظة، فأرادوا أن يكرهوهم على الإسلام، فنزلت:"لا إكراه في الدين قد تبين الرشد من الغي".
+
+٥٨٢٢ - حدثنا القاسم، قال: حدثنا الحسين، قال: حدثني الحجاج، عن ابن جريج، قال: قال مجاهد: كانت النضير يهودا فأرضعوا،= ثم ذكر نحو حديث محمد بن عمرو، عن أبي عاصم= قال ابن جريج، وأخبرني عبد الكريم، عن مجاهد: أنهم كانوا قد دان بدينهم أبناء الأوس، [[في المخطوطة: "قد دانوا بدينهم أبناء الأوس"، وأخشى أن يكون ما في المطبوعة أصح.]] دانوا بدين النضير.
+
+٥٨٢٣ - حدثني المثنى، قال: لنا إسحاق، قال: حدثنا ابن أبي جعفر، عن أبيه، عن داود بن أبي هند، عن الشعبي: أن المرأة من الأنصار كانت تنذر إن عاش ولدها لتجعلنه في أهل الكتاب، فلما جاء الإسلام قالت الأنصار: يا رسول الله ألا نكره أولادنا الذين هم في يهود على الإسلام، فإنا إنما جعلناهم فيها ونحن نرى أن اليهودية أفضل الأديان؟ فلما إذ جاء الله بالإسلام، [[في المطبوعة: "فلما أن جاء الإسلام"، وفي المخطوطة: "فلما إذ جاء"، وصواب ذلك ما أثبت.]] .
+
+أفلا نكرههم على الإسلام؟ فأنزل الله تعالى ذكره:"لا إكراه في الدين قد تبين الرشد من الغي".
+
+٥٨٢٤ - حدثت عن عمار، قال: حدثنا ابن أبي جعفر، عن أبيه، عن داود، عن الشعبي مثله = وزاد: قال: كان فصل ما بين من اختار اليهود منهم وبين من اختار الإسلام، إجلاء بني النضير، فمن خرج مع بني النضير كان منهم، ومن تركهم اختار الإسلام [[الأثران: ٥٨٢٣، ٥٨٢٤ -انظر الآثار السالفة: ٥٨١٤ -٥٨١٦.]] .
+
+٥٨٢٥ - حدثني يونس، قال: أخبرنا بن وهب، قال: قال ابن زيد في قوله:"لا إكراه في الدين" إلى قوله:"العروة الوثقى" قال: قال منسوخ.
+
+٥٨٢٦ - حدثني سعيد بن الربيع الرازي، قال: حدثنا سفيان، عن ابن أبي نجيح، عن مجاهد، ووائل، عن الحسن: أن أناسا من الأنصار كانوا مسترضعين في بني النضير، فلما أجلوا أراد أهلوهم أن يلحقوهم بدينهم، فنزلت:"لا إكراه في الدين".
+
+* *
+
+وقال آخرون: بل معنى ذلك: لا يكره أهل الكتاب على الدين إذا بذلوا الجزية، ولكنهم يقرون على دينهم. وقالوا: الآية في خاص من الكفار، ولم ينس منها شيء.
+
+ذكر من قال ذلك:
+
+٥٨٢٧ - حدثنا بشر بن معاذ، قال: حدثنا يزيد، قال: حدثنا سعيد، عن قتادة:"لا إكراه في الدين قد تبين الرشد من الغي"، قال: أكره عليه هذا الحي من العرب، لأنهم كانوا أمة أميه ليس لهم كتاب يعرفونه، فلم يقبل منهم غير الإسلام. ولا يكره عليه أهل الكتاب إذا أقروا بالجزية أو بالخراج، ولم يفتنوا عن دينهم، فيخلى عنهم [[في المخطوطة: " فخلى عنهم"، وهما سواء.]] .
+
+٥٨٢٨ - حدثنا محمد بن بشار، قال: حدثنا سليمان قال: حدثنا أبو هلال، قال: حدثنا قتادة في قوله:"لا إكراه في الدين"، قال: هو هذا الحي من العرب، أكرهوا على الدين، لم يقبل منهم إلا القتل أو الإسلام، وأهل الكتاب قبلت معهم الجزية، ولم يقتلوا.
+
+٥٨٢٩ - حدثنا ابن حميد، قال: حدثنا الحكم بن بشير، قال: حدثنا عمرو بن قيس، عن جويبر، عن الضحاك في قوله:"لا إكراه في الدين"، قال: أمر رسول الله ﷺ أن يقاتل جزيرة العرب من أهل الأوثان، فلم يقبل منهم إلا"لا إله إلا الله"، أو السيف. ثم أمر فيمن سواهم بأن يقبل منهم الجزية، فقال:"لا إكراه في الدين قد تبين الرشد من الغي".
+
+٥٨٣٠ - حدثنا الحسن بن يحيى، قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر، عن قتادة في قوله:"لا إكراه في الدين"، قال: كانت العرب ليس لها دين، فأكرهوا على الدين بالسيف. قال: ولا يكره اليهود ولا النصارى والمجوس، إذا أعطوا الجزية.
+
+٥٨٣١ - حدثنا الحسن بن يحيى، قال: أخبرنا عبد الرزاق، قال: أخبرنا ابن عيينة، عن ابن أبي نجيح، قال: سمعت مجاهدا يقول لغلام له نصراني: يا جرير أسلم. ثم قال: هكذا كان يقال لهم.
+
+٥٨٣٢ - حدثني محمد بن سعد، قال: حدثني أبي، قال: حدثني عمي، قال: حدثني أبي، عن أبيه، عن ابن عباس:"لا إكراه في الدين قد تبين الرشد من الغي"، قال: وذلك لما دخل الناس في الإسلام، وأعطى أهل الكتاب الجزية.
+
+* *
+
+وقال آخرون: هذه الآية منسوخة، وإنما نزلت قبل أن يفرض القتال.
+
+ذكر من قال ذلك:
+
+٥٨٣٣ - حدثني يونس بن عبد الأعلى، قال: أخبرنا ابن وهب، قال: أخبرني يعقوب بن عبد الرحمن الزهري قال: سألت زيد بن أسلم عن قول الله تعالى ذكره:"لا إكراه في الدين"، قال: كان رسول الله ﷺ بمكة عشر سنين لا يكره أحدا في الدين، فأبى المشركون إلا أن يقاتلوهم، فاستأذن الله في قتالهم فأذن له.
+
+* *
+
+قال أبو جعفر: وأولى هذه الأقوال بالصواب قول من قال: نزلت هذه الآية في خاص من الناس- وقال: عنى بقوله تعالى ذكره:"لا إكراه في الدين"، أهل الكتابين والمجوس وكل من جاء إقراره على دينه المخالف دين الحق، وأخذ الجزية منه، وأنكروا أن يكون شيء منها منسوخا [[في المخطوطة: "منسوخ"، والصواب ما في المطبوعة.]] .
+
+وإنما قلنا هذا القول أولى الأقوال في ذلك بالصواب، لما قد دللنا عليه في كتابنا ﴿كتاب اللطيف من البيان عن أصول الأحكام﴾ : من أن الناسخ غير كائن ناسخا إلا ما نفى حكم المنسوخ، فلم يجز اجتماعهما. فأما ما كان ظاهره العموم من الأمر والنهي، وباطنه الخصوص، فهو من الناس والمنسوخ بمعزل [[انظر ما قاله فيما سلف في شرط النسخ ٣: ٣٥٨، ٥٦٣.]] .
+
+وإذ كان ذلك كذلك = وكان غير مستحيل أن يقال: لا إكراه لأحد ممن أخذت منه الجزية في الدين، ولم يكن في الآية دليل على أن تأويلها بخلاف ذلك، وكان المسلمون جميعا قد نقلوا عن نبيهم ﷺ أنه أكره على الإسلام قوما فأبى أن يقبل منهم إلا الإسلام، وحكم بقتلهم إن امتنعوا منه، وذلك كعبدة الأوثان من مشركي العرب، وكالمرتد عن دينه دين الحق إلى الكفر ومن أشبههم، وأنه ترك إكراه الآخرين على الإسلام بقبوله الجزية منه وإقراره على دينه الباطل، وذلك كأهل الكتابين ومن أشبههم = [[سياق الجملة: "وإذ كان ذلك كذلك ... كان بينا". وما بين الخطين، عطوف متتابعة فاصلة بينهما.]] كان بينا بذلك أن معنى قوله:"لا إكراه في الدين"، إنما هو لا إكراه في الدين لأحد ممن حل قبول الجزية منه بأدائه الجزية، ورضاه بحكم الإسلام.
+
+ولا معنى لقول من زعم أن الآية منسوخة الحكم، بالإذن بالمحاربة.
+
+* *
+
+فإن قال قائل: فما أنت قائل فيما روي عن ابن عباس وعمن روي عنه: من أنها نزلت في قوم من الأنصار أرادوا أن يكرهوا أولادهم على الإسلام؟
+
+قلنا: ذلك غير مدفوعة صحته، ولكن الآية قد تنزل في خاص من الأمر، ثم يكون حكمها عاما في كل ما جانس المعنى الذي أنزلت فيه. فالذين أنزلت فيهم هذه الآية - على ما ذكر ابن عباس وغيره - إنما كانوا قوما دانوا بدين أهل التوراة قبل ثبوت عقد الإسلام لهم، فنهى الله تعالى ذكره عن إكراههم على الإسلام، وأنزل بالنهي عن ذلك آية يعم حكمها كل من كان في مثل معناهم، ممن كان على دين من الأديان التي يجوز أخذ
+
+[TRUNCATED at 12000 chars — 11110 more. Consult the source directly before relying on anything near the cut.]
 
 ### al-Muyassar (Arabic)
 
-لكمال هذا الدين واتضاح آياته لا يُحتاج إلى الإكراه عليه لمن تُقبل منهم الجزية، فالدلائل بينة يتضح بها الحق من الباطل، والهدى من الضلال. فَمَن يكفر بكل ما عُبِد من دون الله ويؤمن بالله، فقد ثبت واستقام على الطريقة المثلى، واستمسك من الدين بأقوى سبب لا انقطاع له. والله سميع لأقوال عباده، عليم بأفعالهم ونياتهم، وسيجازيهم على ذلك.
+لكمال هذا الدين واتضاح آياته لا يُحتاج إلى الإكراه عليه، فالدلائل بينة يتضح بها الحق من الباطل، والهدى من الضلال. فَمَن يكفر بكل ما عُبِد من دون الله ويؤمن بالله، فقد ثبت واستقام على الطريقة المثلى، واستمسك من الدين بأقوى سبب لا انقطاع له. والله سميع لأقوال عباده، عليم بنياتهم وأفعالهم، وسيجازيهم على ذلك.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿لا إكْراه فِي الدِّين﴾ عَلى الدُّخُول فِيهِ ﴿قَدْ تَبَيَّنَ الرُّشْد مِن الغَيّ﴾ أيْ ظَهَرَ بِالآياتِ البَيِّنات أنَّ الإيمان رُشْد والكُفْر غَيّ نَزَلَتْ فِيمَن كانَ لَهُ مِن الأَنْصار أوْلاد أرادَ أنْ يُكْرِههُمْ عَلى الإسْلام ﴿فَمَن يَكْفُر بِالطّاغُوتِ﴾ الشَّيْطان أوْ الأَصْنام وهُوَ يُطْلَق عَلى المُفْرَد والجَمْع ﴿ويُؤْمِن بِاللَّهِ فَقَدْ اسْتَمْسَكَ﴾ تَمَسَّكَ ﴿بِالعُرْوَةِ الوُثْقى﴾ بِالعَقْدِ المُحْكَم ﴿لا انْفِصام﴾ انْقِطاع ﴿لَها واللَّه سَمِيع﴾ لِما يُقال ﴿عَلِيم﴾ بِما يَفْعَل
 
 ---
 
@@ -33,22 +180,119 @@ Allah said,
 
 ### Ibn Kathir (English)
 
-Revelation Came to Prophet Muhammad ﷺ, Just as it Came to the Prophets Before Him
-Muhammad bin Ishaq narrated that Muhammad bin Abi Muhammad said that `Ikrimah, or Sa`id bin Jubayr, related to Ibn `Abbas that he said, "Sukayn and `Adi bin Zayd said, `O Muhammad! We do not know that Allah sent down anything to any human after Musa.' Allah sent down a rebuttal of their statement,
-إِنَّآ أَوْحَيْنَآ إِلَيْكَ كَمَآ أَوْحَيْنَآ إِلَى نُوحٍ وَالنَّبِيِّينَ مِن بَعْدِهِ
-(Verily, We have inspired you...
+Verily, We have sent the revelation to you as We sent the revelation to Nuh and the Prophets after him; We (also) sent the revelation to Ibrahim, Isma'il, Ishaq, Ya'qub, and Al-Asbat, (the offspring of the twelve sons of Ya'qub) 'Isa, Ayyub, Yunus, Harun, and Sulayman; and to Dawud We gave the Zabur (163)And Messengers We have mentioned to you before, and Messengers We have not mentioned to you, and to Musa Allah spoke directly (164)Messengers as bearers of good news and warning, in order that mankind should have no plea against Allah after the (coming of) Messengers. And Allah is Ever All-Powerful, All-Wise (165)
+
+Revelation Came to Prophet Muhammad (ﷺ), Just as it Came to the Prophets Before Him
+
+Muhammad bin Ishaq narrated that Muhammad bin Abi Muhammad said that 'Ikrimah, or Sa'id bin Jubayr, related to Ibn 'Abbas that he said, "Sukayn and 'Adi bin Zayd said, 'O Muhammad! We do not know that Allah sent down anything to any human after Musa.' Allah sent down a rebuttal of their statement,
+
+إِنَّا أَوْحَيْنَا إِلَيْكَ كَمَا أَوْحَيْنَا إِلَىٰ نُوحٍ وَالنَّبِيِّينَ مِن بَعْدِهِ
+
+(Verily, We have inspired you (O Muhammad) as We inspired Nuh and the Prophets after him.)"
+
+Allah states that He sent down revelation to His servant and Messenger Muhammad ﷺ just as He sent down revelation to previous Prophets. Allah said,
+
+إِنَّا أَوْحَيْنَا إِلَيْكَ كَمَا أَوْحَيْنَا إِلَىٰ نُوحٍ وَالنَّبِيِّينَ مِن بَعْدِهِ
+
+(Verily, We have inspired you (O Muhammad) as We inspired Nuh and the Prophets after him,) until,
+
+وَآتَيْنَا دَاوُودَ زَبُورًا
+
+(...and to Dawud We gave the Zabur.) The 'Zabur' (Psalms) is the name of the Book revealed to Prophet Dawud, peace be upon him.
+
+Twenty-Five Prophets Are Mentioned in the Qur'an
+
+Allah said,
+
+وَرُسُلًا قَدْ قَصَصْنَاهُمْ عَلَيْكَ مِن قَبْلُ وَرُسُلًا لَّمْ نَقْصُصْهُمْ عَلَيْكَ
+
+(And Messengers We have mentioned to you before, and Messengers We have not mentioned to you)
+
+Before the revelation of this Ayah. The following are the names of the Prophets whom Allah named in the Qur'an. They are: Adam, Idris, Nuh (Noah), Hud, Salih, Ibrahim (Abraham), Lut, Isma'il (Ishmael), Ishaq (Isaac), Ya'qub (Jacob), Yusuf (Joesph), Ayyub (Job), Shu'ayb, Musa (Moses), Harun (Aaron), Yunus (Jonah), Dawud (David), Sulayman (Solomon), Ilyas (Elias), Al-Yasa' (Elisha), Zakariya (Zachariya), Yahya (John) and 'Isa (Jesus), and their leader, Muhammad ﷺ. Several scholars of Tafsir also listed Dhul-Kifl among the Prophets. Allah's statement,
+
+وَرُسُلًا لَّمْ نَقْصُصْهُمْ عَلَيْكَ
+
+(and Messengers We have not mentioned to you,) means, 'there are other Prophets whom We did not mention to you in the Qur'an.'
+
+The Virtue of Musa
+
+Allah said,
+
+وَكَلَّمَ اللَّهُ مُوسَىٰ تَكْلِيمًا
+
+(and to Musa Allah spoke directly.) This is an honor to Musa, and this is why he is called the Kalim, he whom Allah spoke to directly. Al-Hafiz Abu Bakr bin Marduwyah recorded that 'Abdul-Jabbar bin 'Abdullah said, "A man came to Abu Bakr bin 'Ayyash and said, 'I heard a man recite (this Ayah this way):
+
+وَكَلَّمَ اللَّهُ مُوسَىٰ تَكْلِيمًا
+
+"and to Allah, Musa spoke directly." Abu Bakr said, 'Only a disbeliever would recite it like this.' Al-A'mash recited it with Yahya bin Withab, who recited it with Abu 'Abdur-Rahman As-Sulami who recited it with 'Ali bin Abi Talib who recited with the Messenger of Allah ﷺ,
+
+وَكَلَّمَ اللَّهُ مُوسَىٰ تَكْلِيمًا
+
+(and to Musa Allah spoke directly.)
+
+Abu Bakr bin Abi Ayyash was so angry with the man who recited the Ayah differently, because he altered its words and meanings. That person was from the group of Mu'tazilah who denied that Allah spoke to Musa or that He speaks to any of His creation. We were told that some of the Mu'tazilah once recited the Ayah that way, so one teacher present said to him, "O son of a stinking woman! What would you do concerning Allah's statement,
+
+وَلَمَّا جَاءَ مُوسَىٰ لِمِيقَاتِنَا وَكَلَّمَهُ رَبُّهُ
+
+(And when Musa came at the time and place appointed by Us, and his Lord spoke to him,)[7:143]?" The Shaykh meant that the later Ayah cannot be altered or changed.
+
+The Reason Behind Sending the Prophets is to Establish the Proof
+
+Allah said,
+
+رُّسُلًا مُّبَشِّرِينَ وَمُنذِرِينَ
+
+(Messengers as bearers of good news as well as of warning,) meaning, the Prophets bring good news to those who obey Allah and practice the good things that please Him. They also warn against His punishment and torment for those who defy His commandments. Allah said next,
+
+لِئَلَّا يَكُونَ لِلنَّاسِ عَلَى اللَّهِ حُجَّةٌ بَعْدَ الرُّسُلِ وَكَانَ اللَّهُ عَزِيزًا حَكِيمًا
+
+(in order that mankind should have no plea against Allah after the Messengers. And Allah is Ever All-Powerful, All-Wise.)
+
+Allah sent down His Books and sent His Messengers with good news and warnings. He explained what He likes and is pleased with and what He dislikes and is displeased with. This way, no one will have an excuse with Allah. Allah said in other Ayat,
+
+وَلَوْ أَنَّا أَهْلَكْنَاهُم بِعَذَابٍ مِّن قَبْلِهِ لَقَالُوا رَبَّنَا لَوْلَا أَرْسَلْتَ إِلَيْنَا رَسُولًا فَنَتَّبِعَ آيَاتِكَ مِن قَبْلِ أَن نَّذِلَّ وَنَخْزَىٰ
+
+(And if We had destroyed them with a torment before this, they would surely have said: "Our Lord! If only You had sent us a Messenger, we should certainly have followed Your Ayat, before we were humiliated and disgraced.") and,
+
+وَلَوْلَا أَن تُصِيبَهُم مُّصِيبَةٌ بِمَا قَدَّمَتْ أَيْدِيهِمْ
+
+(And if (We had) not (sent you to the people of Makkah) in case a calamity should seize them for (the deeds) that their hands have sent forth.)
+
+It is recorded in the Two Sahihs that Ibn Mas'ud said that the Messenger of Allah ﷺ said,
+
+لَا أَحَدَ أَغْيَرُ مِنَ اللهِ، مِنْ أَجْلِ ذلِكَ حَرَّمَ الْفَوَاحِشَ مَا ظَهَرَ مِنْهَا وَمَا بَطَنَ، وَلَا أَحَدْ أَحَبْ إِلَيْهِ الْمَدْحُ مِنَ اللهِ عَزَّ وَجَلَّ، مِنْ أَجْلِ ذلِكَ مَدَحَ نَفْسَهُ، وَلَا أَحَدَ أَحَبْ إِلَيْهِ الْعُذْرُ مِنَ اللهِ، مِنْ أَجْلِ ذلِكَ بَعَثَ النَّبِيِّينَ مُبَشِّرِينَ وَمُنْذِرِينَ
+
+(No one is more jealous than Allah. This is why He prohibited all types of sin committed in public or secret. No one likes praise more than Allah, and this is why He has praised Himself. No one likes to give excuse more than Allah, and this is why He sent the Prophets as bearers of good news and as warners.) In another narration, the Prophet ﷺ said,
+
+مِنْ أَجْلِ ذلِكَ أَرْسَلَ رُسُلَهُ وَأَنْزَلَ كُتُبَهُ
+
+(And this is why He sent His Messengers and revealed His Books.)
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله :  رُسُلا مُبَشِّرِينَ وَمُنْذِرِينَ لِئَلا يَكُونَ لِلنَّاسِ عَلَى اللَّهِ حُجَّةٌ بَعْدَ الرُّسُلِ وَكَانَ اللَّهُ عَزِيزًا حَكِيمًا (165)قال أبو جعفر: يعني جل ثناؤه بذلك: إنا أوحينا إليك كما أوحينا إلى نوح والنبيين من بعده، ومن ذكر من الرسل (16) =" رسلا "، فنصب " الرسل " على القطع من أسماء الأنبياء الذين ذكر أسماءهم (17) =" مبشرين "، يقول: أرسلتهم رسلا إلى خلقي وعبادي، مبشرين بثوابي من أطاعني واتبع أمري وصدَّق رسلي، ومنذرين عقابي من عصاني وخالف أمري وكذب رسلي=" لئلا يكو...
+القول في تأويل قوله: ﴿رُسُلا مُبَشِّرِينَ وَمُنْذِرِينَ لِئَلا يَكُونَ لِلنَّاسِ عَلَى اللَّهِ حُجَّةٌ بَعْدَ الرُّسُلِ وَكَانَ اللَّهُ عَزِيزًا حَكِيمًا (١٦٥) ﴾
+
+قال أبو جعفر: يعني جل ثناؤه بذلك: إنا أوحينا إليك كما أوحينا إلى نوح والنبيين من بعده، ومن ذكر من الرسل [[في المخطوطة: "ومن ذكر الرسل"، بإسقاط"من"، والصواب ما في المطبوعة.]] ="رسلا"، فنصب"الرسل" على القطع من أسماء الأنبياء الذين ذكر أسماءهم [[في المطبوعة والمخطوطة: "فنصب به الرسل"، بزيادة"به"، والصواب حذفها. انظر معنى"القطع" فيما سلف من فهارس المصطلحات.]] ="مبشرين"، يقول: أرسلتهم رسلا إلى خلقي وعبادي، مبشرين بثوابي من أطاعني واتبع أمري وصدَّق رسلي، ومنذرين عقابي من عصاني وخالف أمري وكذب رسلي="لئلا يكون للناس على الله حجة بعد الرسل"، يقول: أرسلت رسلي إلى عبادي مبشرين ومنذرين، لئلا يحتجّ من كفر بي وعبد الأنداد من دوني، أو ضل عن سبيلي بأن يقول إن أردتُ عقابه: ﴿لَوْلا أَرْسَلْتَ إِلَيْنَا رَسُولا فَنَتَّبِعَ آيَاتِكَ مِنْ قَبْلِ أَنْ نَذِلَّ وَنَخْزَى﴾ [سورة طه: ١٣٤] . فقطع حجة كلّ مبطل ألحدَ في توحيده وخالف أمره، بجميع معاني الحجج القاطعة عذرَه، إعذارًا منه بذلك إليهم، لتكون لله الحجة البالغة عليهم وعلى جميع خلقه.
+
+* *
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+١٠٨٤٩- حدثنا محمد بن الحسين قال، حدثنا أحمد بن المفضل قال، حدثنا أسباط، عن السدي:"لئلا يكون للناس على الله حجة بعد الرسل"، فيقولوا: ما أرسلت إلينا رسلا.
+
+* *
+
+="وكان الله عزيزًا حكيمًا"، يقول: ولم يزل الله ذا عِزة في انتقامه ممن انتقم [منه] من خلقه، [[الزيادة بين القوسين لا بد منها لسياق الكلام.]] على كفره به، ومعصيته إياه، بعد تثبيته حجَّتَه عليه برسله وأدلَّتَه="حكيمًا"، في تدبيره فيهم ما دبّره. [[انظر تفسير"عزيز" فيما سلف: ص٤٠٨، تعليق: ٢، والمراجع هناك= وتفسير"حكيم" فيما سلف من فهارس اللغة.]]
 
 ### al-Muyassar (Arabic)
 
-أرسَلْتُ رسلا إلى خَلْقي مُبشِّرين بثوابي، ومنذرين بعقابي؛ لئلا يكون للبشر حجة يعتذرون بها بعد إرسال الرسل. وكان الله عزيزًا في ملكه، حكيمًا في تدبيره.
+أرسَلْتُ رسلًا إلى خَلْقي مُبشِّرين بثوابي، ومنذرين بعقابي؛ لئلا يكون للبشر حجة يعتذرون بها بعد إرسال الرسل. وكان الله عزيزًا في ملكه، حكيمًا في تدبيره.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿رُسُلًا﴾ بَدَل مِن رُسُلًا قَبْله ﴿مُبَشِّرِينَ﴾ بِالثَّوابِ مَن آمَنَ ﴿ومُنْذِرِينَ﴾ بِالعِقابِ مَن كَفَرَ أرْسَلْناهُمْ ﴿لِئَلّا يَكُون لِلنّاسِ عَلى اللَّه حُجَّة﴾ تُقال ﴿بَعْد﴾ إرْسال ﴿الرُّسُل﴾ إلَيْهِمْ فَيَقُولُوا: رَبّنا لَوْلا أرْسَلْت إلَيْنا رَسُولًا فَنَتَّبِع آياتك ونَكُون مِن المُؤْمِنِينَ فَبَعَثْناهُمْ لِقَطْعِ عُذْرهمْ ﴿وكانَ اللَّه عَزِيزًا﴾ فِي مُلْكه ﴿حَكِيمًا﴾ فِي صُنْعه
 
 ---
 
@@ -56,22 +300,191 @@ Muhammad bin Ishaq narrated that Muhammad bin Abi Muhammad said that `Ikrimah, o
 
 ### Ibn Kathir (English)
 
+It is not (proper) for the Prophet and those who believe to ask Allah's forgiveness for the Mushrikin, even though they be of kin, after it has become clear to them that they are the dwellers of the Fire (because they died in a state of disbelief)(113)And Ibrahim's invoking (of Allah) for his father's forgiveness was only because of a promise he [Ibrahim] had made to him (his father). But when it became clear to him [Ibrahim] that he (his father) is an enemy of Allah, he dissociated himself from him. Verily, Ibrahim was Awwah and forbearing (114)
+
 The Prohibition of supplicating for Polytheists
-Imam Ahmad recorded that Ibn Al-Musayyib said that his father Al-Musayyib said, "When Abu Talib was dying, the Prophet went to him and found Abu Jahl and `Abdullah bin Abi Umayyah present. The Prophet said,
-«أَيْ عَمِّ، قُلْ لَا إِلَهَ إِلِّا اللهُ كَلِمَةً أُحَاجُّ لَكَ بِهَا عِنْدَ اللهِ عَزَّ وَجَل»
-(O uncle! Say, `La ilaha illa-llah,' a word concerning which I will plea for you with Allah, the Exalted and Most Honored.) Abu Jahl and `Abdulla...
+
+Imam Ahmad recorded that Ibn Al-Musayyib said that his father Al-Musayyib said, "When Abu Talib was dying, the Prophet ﷺ went to him and found Abu Jahl and 'Abdullah bin Abi Umayyah present. The Prophet ﷺ said,
+
+أَيْ عَمِّ، قُلْ لَا إِلَهَ إِلِّا اللهُ كَلِمَةً أُحَاجُّ لَكَ بِهَا عِنْدَ اللهِ عَزَّ وَجَلَّ
+
+(O uncle! Say, 'La ilaha illa-llah,' a word concerning which I will plea for you with Allah, the Exalted and Most Honored.)
+
+Abu Jahl and 'Abdullah bin Abi Umayyah said, 'O Abu Talib! Would you leave the religion of Abdul-Muttalib?' Abu Talib said, 'Rather, I will remain on the religion of Abdul-Muttalib.' The Prophet ﷺ said,
+
+لَأَسْتَغْفِرَنَّ لَكَ مَا لَمْ أُنْهَ عَنْكَ
+
+(I will invoke Allah for forgiveness for you, as long as I am not prohibited from doing so.) This verse was revealed,
+
+مَا كَانَ لِلنَّبِيِّ وَالَّذِينَ آمَنُوا أَن يَسْتَغْفِرُوا لِلْمُشْرِكِينَ وَلَوْ كَانُوا أُولِي قُرْبَىٰ مِن بَعْدِ مَا تَبَيَّنَ لَهُمْ أَنَّهُمْ أَصْحَابُ الْجَحِيمِ
+
+(It is not (proper) for the Prophet and those who believe to ask Allah's forgiveness for the Mushrikin, even though they be of kin, after it has become clear to them that they are the dwellers of the Fire.)
+
+Concerning Abu Talib, this Ayah was revealed,
+
+إِنَّكَ لَا تَهْدِي مَنْ أَحْبَبْتَ وَلَٰكِنَّ اللَّهَ يَهْدِي مَن يَشَاءُ
+
+(Verily, you guide not whom you like, but Allah guides whom He wills)[28:56]." This Hadith is recorded in the Two Sahihs.
+
+Ibn Jarir recorded that Sulayman bin Buraydah said that his father said, "When the Prophet ﷺ came to Makkah, he went to a grave, sat next to it, started talking and then stood up with tears in his eyes. We said, 'O Allah's Messenger! We saw what you did.' He said,
+
+إِنِّي اسْتَأْذَنْتُ رَبِّي فِي زِيَارَةِ قَبْرِ أُمِّي فَأَذِنَ لِي، وَاسْتَأْذَنْتُهُ فِي الْاسْتِغْفَارِ لَهَا فَلَمْ يَأْذَنْ لِي
+
+(I asked my Lord for permission to visit the grave of my mother and He gave me permission. I asked for His permission to invoke Him for forgiveness for her, but He did not give me permission.)
+
+We never saw him more tearful than on that day.'" Al-'Awfi narrated from Ibn 'Abbas about Allah's statement,
+
+مَا كَانَ لِلنَّبِيِّ وَالَّذِينَ آمَنُوا أَن يَسْتَغْفِرُوا لِلْمُشْرِكِينَ
+
+(It is not (proper) for the Prophet and those who believe to ask Allah's forgiveness for the Mushrikin)
+
+"The Prophet ﷺ wanted to invoke Allah for forgiveness for his mother, but Allah did not allow him. The Prophet ﷺ said,
+
+إِنَّ إِبْرَاهِيمَ خَلِيلَ اللهِ صلّى الله عليه وسلّم قَدِ اسْتَغْفَرَ لِأَبِيهِ
+
+(Ibrahim, Allah's Khalil, invoked Allah for his father.) Allah revealed,
+
+وَمَا كَانَ اسْتِغْفَارُ إِبْرَاهِيمَ لِأَبِيهِ إِلَّا عَن مَّوْعِدَةٍ وَعَدَهَا إِيَّاهُ
+
+(And Ibrahim's invoking (of Allah) for his father's forgiveness was only because of a promise he [Ibrahim] had made to him (his father))."
+
+Ali bin Abi Talhah narrated that Ibn 'Abbas commented on this Ayah, "They used to invoke Allah for them (pagans) until this Ayah was revealed. They then refrained from invoking Allah to forgive the dead among them, but were not stopped from invoking Allah for the living among them until they die. Allah sent this Ayah,
+
+وَمَا كَانَ اسْتِغْفَارُ إِبْرَاهِيمَ لِأَبِيهِ
+
+(And Ibrahim's invoking (of Allah) for his father's forgiveness was only...)[9:114]." Allah said next,
+
+فَلَمَّا تَبَيَّنَ لَهُ أَنَّهُ عَدُوٌّ لِّلَّهِ تَبَرَّأَ مِنْهُ
+
+(But when it became clear to him [Ibrahim] that he (his father) is an enemy of Allah, he dissociated himself from him)[9:114].
+
+Ibn 'Abbas commented, "Ibrahim kept asking Allah to forgive his father until he died, when he realized that he died as an enemy to Allah, he disassociated himself from him." In another narration, he said, "When his father died he realized that he died as an enemy of Allah." Similar was said by Mujahid, Ad-Dahhak, Qatadah and several others. 'Ubayd bin 'Umayr and Sa'id bin Jubayr said, "Ibrahim will disown his father on the Day of Resurrection, but he will meet his father and see dust and fatigue on his face. He will say, 'O Ibrahim! I disobeyed you, but today, I will not disobey you.' Ibrahim will say, 'O Lord! You promised me that You will not disgrace me on the Day they are resurrected. What more disgrace than witnessing my father being disgraced?' He will be told, 'Look behind you,' where he will see a bloody hyena – for his father will have been transformed into that – and it will be dragged from its feet and thrown in the Fire.'" Allah's statement,
+
+إِنَّ إِبْرَاهِيمَ لَأَوَّاهٌ حَلِيمٌ
+
+(Verily, Ibrahim was Awwah and was forbearing.) means, he invoked Allah always, according to 'Abdullah bin Mas'ud. Several narrations report this from Ibn Mas'ud. It was also said that, 'Awwah', means, 'who invokes Allah with humility', 'merciful', 'who believes with certainty', 'who praises (Allah)', and so forth.
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله :  مَا كَانَ لِلنَّبِيِّ وَالَّذِينَ آمَنُوا أَنْ يَسْتَغْفِرُوا لِلْمُشْرِكِينَ وَلَوْ كَانُوا أُولِي قُرْبَى مِنْ بَعْدِ مَا تَبَيَّنَ لَهُمْ أَنَّهُمْ أَصْحَابُ الْجَحِيمِ (113)قال أبو جعفر: يقول تعالى ذكره: ما كان ينبغي للنبي محمدٍ صلى الله عليه وسلم والذين آمنوا به= " أن يستغفروا ", يقول: أن يدعوا بالمغفرة للمشركين, ولو كان المشركون الذين يستغفرون لهم= " أولي قربى ", ذوي قرابة لهم= " من بعد ما تبين لهم أنهم أصحاب الجحيم "، يقول: من بعد ما ماتوا على شركهم بالله وعبادة ...
+القول في تأويل قوله: ﴿مَا كَانَ لِلنَّبِيِّ وَالَّذِينَ آمَنُوا أَنْ يَسْتَغْفِرُوا لِلْمُشْرِكِينَ وَلَوْ كَانُوا أُولِي قُرْبَى مِنْ بَعْدِ مَا تَبَيَّنَ لَهُمْ أَنَّهُمْ أَصْحَابُ الْجَحِيمِ (١١٣) وَمَا كَانَ اسْتِغْفَارُ إِبْرَاهِيمَ لأبِيهِ إِلا عَنْ مَوْعِدَةٍ وَعَدَهَا إِيَّاهُ فَلَمَّا تَبَيَّنَ لَهُ أَنَّهُ عَدُوٌّ لِلَّهِ تَبَرَّأَ مِنْهُ﴾
+
+قال أبو جعفر: يقول تعالى ذكره: ما كان ينبغي للنبي محمدٍ ﷺ والذين آمنوا به= "أن يستغفروا"، يقول: أن يدعوا بالمغفرة للمشركين، ولو كان المشركون الذين يستغفرون لهم= "أولي قربى"، ذوي قرابة لهم= "من بعد ما تبين لهم أنهم أصحاب الجحيم"، يقول: من بعد ما ماتوا على شركهم بالله وعبادة الأوثان، وتبين لهم أنهم من أهل النار، لأن الله قد قضى أن لا يغفر لمشرك، فلا ينبغي لهم أن يسألوا ربهم أن يفعل ما قد علموا أنه لا يفعله. فإن قالوا: فإن إبراهيم قد استغفر لأبيه وهو مشرك؟ فلم يكن استغفارُ إبراهيم لأبيه إلا لموعدة وعدها إياه. فلما تبين له وعلم أنه لله عدوٌّ، خلاه وتركه، وترك الاستغفار له، وآثر الله وأمرَه عليه، فتبرأ منه حين تبين له أمره. [[انظر تفسير ألفاظ الآية فيما سلف من فهارس اللغة.]]
+
+* *
+
+واختلف أهل التأويل في السبب الذي نزلت هذه الآية فيه.
+
+فقال بعضهم: نزلت في شأن أبي طالب عم النبي ﷺ، لأن النبي ﷺ أراد أن يستغفر له بعد موته، فنهاه الله عن ذلك.
+
+ذكر من قال ذلك:
+
+١٧٣٢٤- حدثنا محمد بن عبد الأعلى قال، حدثنا محمد بن ثور، عن معمر، قال: لما حضرت أبا طالب الوفاة، دخل عليه النبي ﷺ وعنده أبو جهل وعبد الله بن أبي أمية، فقال: يا عم، قل: لا إله إلا الله، كلمةً أحاجُّ لك بها عند الله! فقال له أبو جهل وعبد الله بن أبي أمية: يا أبا طالب، أترغب عن ملة عبد المطلب؟ فقال النبي ﷺ: لأستغفرن لك ما لم أنْهَ عنك! فنزلت: "ما كان للنبي والذين آمنوا أن يستغفروا للمشركين"، ونزلت: ﴿إِنَّكَ لا تَهْدِي مَنْ أَحْبَبْتَ﴾ ، [القصص: ٥٦] .
+
+١٧٣٢٥- حدثني أحمد بن عبد الرحمن بن وهب قال، حدثنا عمي عبد الله بن وهب قال، حدثني يونس، عن الزهري قال، أخبرني سعيد بن المسيب، عن أبيه، قال: لما حضرت أبا طالب الوفاةُ، جاء رسول الله ﷺ، فوجد عنده أبا جهل بن هشام وعبد الله بن أبي أمية بن المغيرة، فقال رسول الله ﷺ: يا عم قل: لا إله إلا الله، كلمةً أشهد لك بها عند الله! قال أبو جهل وعبد الله بن أبي أمية: يا أبا طالب، أترغب عن مِلَّة عبد المطلب؟ فلم يزل رسول الله ﷺ يعرضها عليه ويعيدُ له تلك المقالة، حتى قال أبو طالب آخرَ ما كلَّمهم: "هو على ملة عبد المطلب"، وأبى أن يقول: "لا إله إلا الله"، فقال رسول الله ﷺ: والله لأستغفرنَّ لك ما لم أنْهَ عنك! فأنزل الله: "ما كان للنبي والذين آمنوا أن يستغفروا للمشركين"، وأنزل الله في أبي طالب، فقال لرسول الله: ﴿إِنَّكَ لا تَهْدِي مَنْ أَحْبَبْتَ﴾ ، الآية. [[الأثر: ١٧٣٢٥ - هذا حديث صحيح. رواه البخاري وصححه (الفتح ٣: ١٧٦، ١٧٧) من طريق إسحاق، عن يعقوب بن إبراهيم، عن أبي صالح، عن ابن شهاب الزهري، ورواه أيضا (الفتح ٨: ٢٥٨) من طريق إسحاق بن إبراهيم، عن عبد الرزاق، عن معمر، عن الزهري، ثم رواه أيضا (الفتح: ٨: ٣٨٩) من طريق أبي اليمان، عن شعيب عن الزهري.
+
+ورواه مسلم في صحيحه ١: ٢١٣ - ٢١٦، من طرق، أولها هذه الطريق التي رواها منه أبو جعفر.
+
+ورواه أحمد في مسنده ٥: ٤٣٣، من طريق عبد الرزاق، عن معمر، عن الزهري.
+
+وكلها أسانيد صحاح.
+
+وسيأتي برقم: ١٧٣٢٨، عن سعيد بن المسيب، لم يرفعه عن أبيه، بغير هذا اللفظ.]]
+
+١٧٣٢٦- حدثني محمد بن عمرو قال، حدثنا أبو عاصم قال، حدثنا عيسى، عن ابن أبي نجيح، عن مجاهد: "ما كان للنبي والذين آمنوا أن يستغفروا للمشركين"، قال: يقول المؤمنون: ألا نستغفر لآبائنا وقد استغفر إبراهيم لأبيه كافرًا؟ فأنزل الله: "وما كان استغفار إبراهيم لأبيه إلا عن موعدة وعدها إيّاه"، الآية.
+
+١٧٣٢٧- حدثني المثنى قال، حدثنا أبو حذيفة قال، حدثنا شبل، عن عمرو بن دينار: أن النبي ﷺ قال: استغفر إبراهيم لأبيه وهو مشرك، فلا أزال أستغفر لأبي طالب حتى ينهاني عنه ربّي! فقال أصحابه: لنستغفرن لآبائنا كما استغفر النبي ﷺ لعمه! فأنزل الله: "ما كان للنبي والذين آمنوا أن يستغفروا للمشركين" إلى قوله: "تبرأ منه".
+
+١٧٣٢٨- حدثنا ابن وكيع قال، حدثنا يزيد بن هارون، عن سفيان بن عيينة، عن الزهري، عن سعيد بن المسيب قال: لما حضر أبا طالب الوفاةُ، أتاه رسول الله ﷺ وعنده عبد الله بن أبي أمية وأبو جهل بن هشام، فقال له رسول الله ﷺ: أيْ عم، إنك أعظم الناس عليَّ حقًّا، وأحسنهم عندي يدًا، ولأنت أعظم عليَّ حقًّا من والدي، فقل كلمة تجب لي بها الشفاعة يوم القيامة، قل: لا إله إلا الله = ثم ذكر نحو حديث ابن عبد الأعلى، عن محمد بن ثور.
+
+* *
+
+وقال آخرون: بل نزلت في سبب أمِّ رسول الله ﷺ، وذلك أنه أراد أن يستغفر لها، فمنع من ذلك.
+
+ذكر من قال ذلك:
+
+١٧٣٢٩- حدثنا أحمد بن إسحاق قال، حدثنا أبو أحمد قال، حدثنا فضيل، عن عطية قال: لما قدم رسول الله ﷺ مكة وقف على قبر أمّه حتى سخِنت عليه الشمس، رجاءَ أن يؤذن له فيستغفر لها، حتى نزلت: "ما كان للنبي والذين آمنوا أن يستغفروا للمشركين ولو كانوا أولى قربى"، إلى قوله: "تبرأ منه".
+
+١٧٣٣٠-..... قال، حدثنا أبو أحمد قال، حدثنا قيس، عن علقمة بن مرثد، عن سليمان بن بريدة، عن أبيه: أن النبي ﷺ أتى رَسْمَ = قال: وأكثر ظني أنه قال: قَبْرٍ [[في المطبوعة: " أتى رسما - وأكبر ظني أنه قال: قبرا "، غير ما في المخطوطة، والصواب ما فيها لأنه ذكر المضاف " أتى رسم " ثم فصل وقال: " قبر "، فيما رجح من ظنه، يعني: " رسم قبر "، على الإضافة.]] = فجلس إليه، فجعل يخاطبُ، ثم قام مُسْتَعْبِرًا، [[في المخطوطة: " ثم قام مستغفرا "، والصواب ما في المطبوعة، وتفسير ابن كثير ٤: ٢٥٠، نقلا عن هذا الموضع من تفسير أبي جعفر.]] فقلت: يا رسول الله، إنّا رأينا ما صنعت! قال: إني استأذنت ربي في زيارة قبر أمّي، فأذن لي، واستأذنته في الاستغفار لها فلم يأذن لي. فما رئي باكيًا أكثر من يومئذٍ. [[الأثر: ١٧٣٣٠ - " علقمة بن مرثد الحضرمي "، ثقة، روى له الجماعة، مضى برقم: ١١٣٣٠.
+
+و" سليمان بن بريدة بن الحصيب الأسلمي "، ثقة، روى عن أبيه، ثقة، مضى برقم: ١١٣٣٠.
+
+وأبوه "بريدة بن الحصيب الأسلمي "، صحابي، أسلم قبل بدر، ولم يشهدها. فهذا خبر صحيح الإسناد وذكره ابن كثير في تفسيره ٤: ٣٥، بهذا اللفظ.
+
+ورواه أحمد في مسنده ٥: ٣٥٩، من طريق حسين بن محمد، عن خلف عن خليفة، عن سليمان بن بريدة، عن أبيه بغير هذا اللفظ مطولا.
+
+ورواه من طريق محارب بن دثار، عن ابن بريدة، عن أبيه (٥: ٣٥٥) ، ثم من طريق القاسم بن عبد الرحمن، عن أبي بريدة، عن أبيه (٥: ٣٥٦) .]]
+
+١٧٣٣١- حدثني محمد بن سعد قال، حدثني أبي قال، حدثني عمي قال، حدثني أبي، عن أبيه، عن ابن عباس قوله: "ما كان للنبي والذين آمنوا"، إلى: "أنهم أصحاب الجحيم"، أن رسول الله ﷺ أراد أن يستغفر لأمّه، فنهاه الله عن ذلك، فقال: وإن إبراهيم خليل الله قد استغفر لأبيه! فأنزل الله: "وما كان استغفار إبراهيم"، إلى "لأواه حليم".
+
+وقال آخرون: بل نزلت من أجل أن قومًا من أهل الإيمان كانوا يستغفرون لموتاهم من المشركين، فنهوا عن ذلك.
+
+ذكر من قال ذلك:
+
+١٧٣٣٢- حدثني المثنى قال، حدثني عبد الله بن صالح قال، حدثنا معاوية، عن علي، عن ابن عباس قوله: "ما كان للنبي والذين آمنوا أن يستغفروا للمشركين"، الآية، فكانوا يستغفرون لهم، حتى نزلت هذه الآية. فلما نزلت، أمسكوا عن الاستغفار لأمواتهم، ولم ينههم أن يستغفروا للأحياء حتى يموتوا، ثم أنزل الله: "وما كان استغفار إبراهيم لأبيه إلا عن موعدة وعدها إياه"، الآية.
+
+١٧٣٣٣- حدثنا بشر قال، حدثنا يزيد قال، حدثنا سعيد، عن قتادة قوله: "ما كان للنبي والذين آمنوا أن يستغفروا للمشركين"، الآية، ذكر لنا أن رجالا من أصحاب النبي ﷺ قالوا: يا نبي الله، إن من آبائنا من كان يُحْسِن الجوار، ويصل الأرحام، ويفك العاني، ويوفي بالذمم، أفلا نستغفر لهم؟ قال: فقال النبي ﷺ: بلى! والله لأستغفرنّ لأبي، كما استغفر إبراهيم لأبيه! قال: فأنزل الله: "ما كان للنبي والذين آمنوا أن يستغفروا للمشركين" حتى بلغ: "الجحيم"، ثم عذر الله إبراهيم فقال: "وما كان استغفار إبراهيم لأبيه إلا عن موعدة وعدها إيّاه فلما تبين له أنه عدو لله تبرأ منه"،. قال: وذكر لنا أن نبيَّ الله قال: أوحي إليّ كلمات فدخلن في أذني، ووَقَرْنَ في قلبي: أمرت أن لا أستغفر لمن مات مشركًا، ومن أعطى فَضْلَ ماله فهو خيرٌ له، ومن أمسك فهو شرٌّ له، ولا يلوم اللهُ على كَفافٍ". [[" الكفاف " (بفتح الكاف) ، وهو من الرزق على قدر حاجة المرء، لا يفضل منه شيء.
+
+وإذا لم يكن عند المرء فضل عن قوته، لم يلمه الله تعالى ذكره، على أن لا يعطي أحدا. وانظر مثل هذا المعنى فيما سلف رقم: ٤١٧٣.]] واختلف أهل العربية في معنى قوله: "ما كان للنبي والذين آمنوا أن يستغفروا للمشركين".
+
+فقال بعض نحويي البصرة: معنى ذلك: ما كان لهم الاستغفار = وكذلك معنى قوله: ﴿وَمَا كَانَ لِنَفْسٍ أَنْ تُؤْمِنَ﴾ ، وما كان لنفس الإيمان = ﴿إِلا بِإِذْنِ اللَّهِ﴾ ، [يونس: ١٠٠] .
+
+* *
+
+وقال بعض نحويي الكوفة: معناه: ما كان ينبغي لهم أن يستغفروا لهم. قال: وكذلك إذا جاءت "أن" مع "كان"، فكلها بتأويل: ينبغي، ﴿وَمَا كَانَ لِنَبِيٍّ أَنْ يَغُلَّ﴾ [آل عمران: ١٦١] ما كان ينبغي له، ليس هذا من أخلاقه. قال: فلذلك إذا دخلت "أن" لتدل على الاستقبال، [[في المطبوعة والمخطوطة: " تدل " بغير لام، والسياق يقتضي إثباتها.]] لأن "ينبغي" تطلب الاستقبال.
+
+* *
+
+وأما قوله: "وما كان استغفار إبراهيم لأبيه إلا عن موعدة وعدها إياه"، فإن أهل العلم اختلفوا في السبب الذي أنزل فيه.
+
+فقال بعضهم: أنزل من أجل أن النبي ﷺ وأصحابه كانوا يستغفرون لموتاهم المشركين، ظنًّا منهم أنّ إبراهيم خليل الرحمن قد فعل ذلك، حين أنزل الله قوله خبرًا عن إبراهيم: ﴿قَالَ سَلامٌ عَلَيْكَ سَأَسْتَغْفِرُ لَكَ رَبِّي إِنَّهُ كَانَ بِي حَفِيًّا﴾ [مريم: ٤٧] .
+
+وقد ذكرنا الرواية عن بعض من حضرنا ذكره، وسنذكر عمن لم نذكره.
+
+١٧٣٣٤- حدثنا ابن بشار قال، حدثنا عبد الرحمن قال، حدثنا سفيان، عن أبي إسحاق، عن أبي الخليل، عن علي قال: سمعت رجلا يستغفر لوالديه وهما مشركان، فقلت: أيستغفر الرجل لوالديه وهما مشركان؟ فقال: أولم يستغفر إبراهيم لأبيه؟ قال: فأتيت النبي ﷺ فذكرت ذلك له، فأنزل الله: "وما كان استغفار إبراهيم" إلى "تبرأ منه". [[الأثر: ١٧٣٣٤ - " أبو الخليل "، هو " عبد الله بن أبي الخليل الهمداني "، ثقة، مترجم في التهذيب، وابن أبي حاتم ٢ / ٢ / ٤٥، وابن سعد في الطبقات ٦: ١٦٩، وقال: " روى عن علي ثلاثة أحاديث، من حديث ابن أبي إسحاق ". وفرق بينه وبين " عبد الله بن الخليل الحضرمي " (الطبقات ٦: ١٧٠) ، وكذلك فعل ابن أبي حاتم وغيره.
+
+وهذا الخبر رواه أحمد في مسنده رقم: ١٠٨٥ من طريق وكيع، عن سفيان، عن أبي إسحاق، ومن طريق عبد الرحمن، عن سفيان، عنه، ورواه قبله رقم: ٧٧١، من طريق يحيى بن آدم، عن سفيان. وانظر الخبر التالي.]]
+
+١٧٣٣٥- حدثنا ابن بشار قال، حدثنا يحيى، عن سفيان، عن أبي إسحاق، عن أبي الخليل، عن علي: أن النبي صلى كان يستغفر لأبويه وهما مشركان، حتى نزلت: "وما كان استغفار إبراهيم لأبيه"، إلى قوله: "تبرأ منه". [[الأثر: ١٧٣٣٥ - رواه أحمد في المسند رقم: ٧٧١، من طريق يحيى بن آدم أيضا، ولكن بغير هذا اللفظ، وأن المستغفر رجل من المسلمين، كالذي سلف. وانظر بيانه في شرح أخي السيد أحمد.]]
+
+وقيل: "وما كان استغفار إبراهيم لأبيه إلا عن موعدة"، ومعناه: إلا من بعد موعدة، كما يقال: "ما كان هذا الأمر إلا عن سبب كذا"، بمعنى: من بعد ذلك السبب، أو من أجله. فكذلك قوله: "إلا عن موعدة"، من أجل موعدة وبعدها. [[انظر تفسير " عن " بمعنى " بعد " فيما سلف ١٠: ٣١٣.]]
+
+* *
+
+وقد تأوّل قوم قولَ الله: "ما كان للنبي والذين آمنوا أن يستغفروا للمشركين ولو كانوا أولى قربى"، الآية، أنّ النهي من الله عن الاستغفار للمشركين بعد مماتهم، لقوله: "من بعد ما تبين لهم أنهم أصحاب الجحيم". وقالوا: ذلك لا يتبينه أحدٌ إلا بأن يموت على كفره، وأما وهو حيٌّ فلا سبيل إلى علم ذلك، فللمؤمنين أن يستغفروا لهم.
+
+ذكر من قال ذلك:
+
+١٧٣٣٦- حدثنا سليمان بن عمر الرقي، حدثنا عبد الله بن المبارك، عن سفيان الثوري، عن الشيباني، عن سعيد بن جبير قال: مات رجل يهودي وله ابنٌ مسلم، فلم يخرج معه، فذكر ذلك لابن عباس فقال: كان ينبغي له أن يمشي معه ويدفنه، ويدعو له بالصلاح ما دام حيًا، فإذا مات، وكله إلى شانه! ثم قال: "وما كان استغفار إبراهيم لأبيه إلا عن موعدة وعدها إياه فلما تبين له أنه عدو لله تبرأ منه"، لم يدعُ. [[الأثر: ١٧٣٣٦ - " الشيباني " هو " ضرار بن مرة "، " أبو سنان الشيباني " الأكبر، ثقة، مترجم في التهذيب، والكبير ٢ / ٢ / ٣٤٠، وابن أبي حاتم ٢ / ١ / ٤٦٥. ومضى له ذكر في رقم: ١٠٢٣٨، للتفريق بينه وبين " أبي سنان الشيباني " الأصغر، وهو " سعيد بن سنان البرجمي ".
+
+وسيأتي في الخبر التالي، التصريح باسمه.]]
+
+١٧٣٣٧- حدثنا ابن وكيع قال، حدثنا فضيل، عن ضرار بن مرة، عن سعيد بن جبير قال: مات رجل نصراني، فوكله ابنه إلى أهل دينه، فأتيت ابن عباس فذكرت ذلك له فقال: ما كان عليه لو مشى معه وأجنَّه واستغفر له؟ [[" أجنه "، واراه في قبره.]] ثم تلا "وما كان استغفار إبراهيم لأبيه إلا عن موعدة وعداها إياه"، الآية. [[الأثر: ١٧٣٣٧ - " ضرار بن مرة "، هو الشيباني، سلف في التعليق قبله. وفي لفظ هذا الخبر اضطراب ظاهر، فإن الخبر الأول قبله عن الشيباني، دال على النهي عن الاستغفار له بعد موته، وفي هذا الخبر، إذن بالاستغفار له بعد موته. ولا أدري من أين جاء هذا الاختلاف على الشيباني في لفظه.]]
+
+* *
+
+وتأوّل آخرون "الاستغفارَ"، في هذا الموضع، بمعنى الصلاة. [[في المخطوطة: " بمعنى الصلاح "، والصواب في المطبوعة، كما دل عليه الأثر التالي.]]
+
+ذكر من قال ذلك:
+
+١٧٣٣٨- حدثني المثني قال، ثنى إسحاق قال، حدثنا كثير بن هشام، عن جعفر بن برقان قال، حدثنا حبيب بن أبي مرزوق، عن عطاء بن أبي رباح قال: ما كنت أدع الصلاةَ على أحدٍ من أهل هذه القبلة، ولو كانت حبشيةً حُبْلى من الزنا، لأني لم أسمع الله يَحْجُب الصلاة إلا عن المشركين، يقول الله: "ما كان للنبيّ والذين آمنوا أن يستغفروا للمشركين".
+
+* *
+
+وتأوّله آخرون، بمعنى الاستغفار الذي هو دعاء.
+
+ذكر من قال ذلك:
+
+١٧٣٣٩- حدثنا ابن وكيع قال، حدثنا أبي، عن عصمة بن زامل، عن أبيه قال: سمعت أبا هريرة يقول:
+
+[TRUNCATED at 12000 chars — 9231 more. Consult the source directly before relying on anything near the cut.]
 
 ### al-Muyassar (Arabic)
 
-ما كان ينبغي للنبي محمد صلى الله عليه وسلم والذين آمنوا أن يدعوا بالمغفرة للمشركين، ولو كانوا ذوي قرابة لهم مِن بعد ما ماتوا على شركهم بالله وعبادة الأوثان، وتبين لهم أنهم أصحاب الجحيم لموتهم على الشرك، والله لا يغفر للمشركين، كما قال تعالى: {إِنَّ اللَّهَ لا يَغْفِرُ أَنْ يُشْرَكَ بِهِ (4:48)} وكما قال سبحانه: {إِنَّهُ مَنْ يُشْرِكْ بِاللَّهِ فَقَدْ حَرَّمَ اللَّهُ عَلَيْهِ الْجَنَّةَ (5:72)}.
+ما كان ينبغي للنبي محمد ﷺ والذين آمنوا أن يَدْعوا بالمغفرة للمشركين، ولو كانوا ذوي قرابة لهم، مِن بعد ما ماتوا على شركهم بالله وعبادة الأوثان، وتبين لهم أنهم أصحاب الجحيم لموتهم على الشرك، والله لا يغفر للمشركين، كما قال تعالى: ﴿إِنَّ ٱللَّهَ لا يَغۡفِرُ أَن يُشۡرَكَ بِهِۦ﴾، وكما قال سبحانه: ﴿إِنَّهُۥ مَن يُشۡرِكۡ بِٱللَّهِ فَقَدۡ حَرَّمَ ٱللَّهُ عَلَيۡهِ ٱلۡجَنَّةَ﴾.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+ونَزَلَ فِي اسْتِغْفاره ﷺ لِعَمِّهِ أبِي طالِب اسْتِغْفار بَعْض الصَّحابَة لِأَبَوَيْهِ المُشْرِكَيْنِ ﴿ما كانَ لِلنَّبِيِّ والَّذِينَ آمَنُوا أنْ يَسْتَغْفِرُوا لِلْمُشْرِكِينَ ولَوْ كانُوا أُولِي قُرْبى﴾ ذَوِي قُرْبى ﴿مِن بَعْد ما تَبَيَّنَ لَهُمْ أنَّهُمْ أصْحاب الجَحِيم﴾ النّار بِأَنْ ماتُوا عَلى الكُفْر
 
 ---
 
@@ -79,22 +492,287 @@ Imam Ahmad recorded that Ibn Al-Musayyib said that his father Al-Musayyib said, 
 
 ### Ibn Kathir (English)
 
+It is not (proper) for the Prophet and those who believe to ask Allah's forgiveness for the Mushrikin, even though they be of kin, after it has become clear to them that they are the dwellers of the Fire (because they died in a state of disbelief)(113)And Ibrahim's invoking (of Allah) for his father's forgiveness was only because of a promise he [Ibrahim] had made to him (his father). But when it became clear to him [Ibrahim] that he (his father) is an enemy of Allah, he dissociated himself from him. Verily, Ibrahim was Awwah and forbearing (114)
+
 The Prohibition of supplicating for Polytheists
-Imam Ahmad recorded that Ibn Al-Musayyib said that his father Al-Musayyib said, "When Abu Talib was dying, the Prophet went to him and found Abu Jahl and `Abdullah bin Abi Umayyah present. The Prophet said,
-«أَيْ عَمِّ، قُلْ لَا إِلَهَ إِلِّا اللهُ كَلِمَةً أُحَاجُّ لَكَ بِهَا عِنْدَ اللهِ عَزَّ وَجَل»
-(O uncle! Say, `La ilaha illa-llah,' a word concerning which I will plea for you with Allah, the Exalted and Most Honored.) Abu Jahl and `Abdulla...
+
+Imam Ahmad recorded that Ibn Al-Musayyib said that his father Al-Musayyib said, "When Abu Talib was dying, the Prophet ﷺ went to him and found Abu Jahl and 'Abdullah bin Abi Umayyah present. The Prophet ﷺ said,
+
+أَيْ عَمِّ، قُلْ لَا إِلَهَ إِلِّا اللهُ كَلِمَةً أُحَاجُّ لَكَ بِهَا عِنْدَ اللهِ عَزَّ وَجَلَّ
+
+(O uncle! Say, 'La ilaha illa-llah,' a word concerning which I will plea for you with Allah, the Exalted and Most Honored.)
+
+Abu Jahl and 'Abdullah bin Abi Umayyah said, 'O Abu Talib! Would you leave the religion of Abdul-Muttalib?' Abu Talib said, 'Rather, I will remain on the religion of Abdul-Muttalib.' The Prophet ﷺ said,
+
+لَأَسْتَغْفِرَنَّ لَكَ مَا لَمْ أُنْهَ عَنْكَ
+
+(I will invoke Allah for forgiveness for you, as long as I am not prohibited from doing so.) This verse was revealed,
+
+مَا كَانَ لِلنَّبِيِّ وَالَّذِينَ آمَنُوا أَن يَسْتَغْفِرُوا لِلْمُشْرِكِينَ وَلَوْ كَانُوا أُولِي قُرْبَىٰ مِن بَعْدِ مَا تَبَيَّنَ لَهُمْ أَنَّهُمْ أَصْحَابُ الْجَحِيمِ
+
+(It is not (proper) for the Prophet and those who believe to ask Allah's forgiveness for the Mushrikin, even though they be of kin, after it has become clear to them that they are the dwellers of the Fire.)
+
+Concerning Abu Talib, this Ayah was revealed,
+
+إِنَّكَ لَا تَهْدِي مَنْ أَحْبَبْتَ وَلَٰكِنَّ اللَّهَ يَهْدِي مَن يَشَاءُ
+
+(Verily, you guide not whom you like, but Allah guides whom He wills)[28:56]." This Hadith is recorded in the Two Sahihs.
+
+Ibn Jarir recorded that Sulayman bin Buraydah said that his father said, "When the Prophet ﷺ came to Makkah, he went to a grave, sat next to it, started talking and then stood up with tears in his eyes. We said, 'O Allah's Messenger! We saw what you did.' He said,
+
+إِنِّي اسْتَأْذَنْتُ رَبِّي فِي زِيَارَةِ قَبْرِ أُمِّي فَأَذِنَ لِي، وَاسْتَأْذَنْتُهُ فِي الْاسْتِغْفَارِ لَهَا فَلَمْ يَأْذَنْ لِي
+
+(I asked my Lord for permission to visit the grave of my mother and He gave me permission. I asked for His permission to invoke Him for forgiveness for her, but He did not give me permission.)
+
+We never saw him more tearful than on that day.'" Al-'Awfi narrated from Ibn 'Abbas about Allah's statement,
+
+مَا كَانَ لِلنَّبِيِّ وَالَّذِينَ آمَنُوا أَن يَسْتَغْفِرُوا لِلْمُشْرِكِينَ
+
+(It is not (proper) for the Prophet and those who believe to ask Allah's forgiveness for the Mushrikin)
+
+"The Prophet ﷺ wanted to invoke Allah for forgiveness for his mother, but Allah did not allow him. The Prophet ﷺ said,
+
+إِنَّ إِبْرَاهِيمَ خَلِيلَ اللهِ صلّى الله عليه وسلّم قَدِ اسْتَغْفَرَ لِأَبِيهِ
+
+(Ibrahim, Allah's Khalil, invoked Allah for his father.) Allah revealed,
+
+وَمَا كَانَ اسْتِغْفَارُ إِبْرَاهِيمَ لِأَبِيهِ إِلَّا عَن مَّوْعِدَةٍ وَعَدَهَا إِيَّاهُ
+
+(And Ibrahim's invoking (of Allah) for his father's forgiveness was only because of a promise he [Ibrahim] had made to him (his father))."
+
+Ali bin Abi Talhah narrated that Ibn 'Abbas commented on this Ayah, "They used to invoke Allah for them (pagans) until this Ayah was revealed. They then refrained from invoking Allah to forgive the dead among them, but were not stopped from invoking Allah for the living among them until they die. Allah sent this Ayah,
+
+وَمَا كَانَ اسْتِغْفَارُ إِبْرَاهِيمَ لِأَبِيهِ
+
+(And Ibrahim's invoking (of Allah) for his father's forgiveness was only...)[9:114]." Allah said next,
+
+فَلَمَّا تَبَيَّنَ لَهُ أَنَّهُ عَدُوٌّ لِّلَّهِ تَبَرَّأَ مِنْهُ
+
+(But when it became clear to him [Ibrahim] that he (his father) is an enemy of Allah, he dissociated himself from him)[9:114].
+
+Ibn 'Abbas commented, "Ibrahim kept asking Allah to forgive his father until he died, when he realized that he died as an enemy to Allah, he disassociated himself from him." In another narration, he said, "When his father died he realized that he died as an enemy of Allah." Similar was said by Mujahid, Ad-Dahhak, Qatadah and several others. 'Ubayd bin 'Umayr and Sa'id bin Jubayr said, "Ibrahim will disown his father on the Day of Resurrection, but he will meet his father and see dust and fatigue on his face. He will say, 'O Ibrahim! I disobeyed you, but today, I will not disobey you.' Ibrahim will say, 'O Lord! You promised me that You will not disgrace me on the Day they are resurrected. What more disgrace than witnessing my father being disgraced?' He will be told, 'Look behind you,' where he will see a bloody hyena – for his father will have been transformed into that – and it will be dragged from its feet and thrown in the Fire.'" Allah's statement,
+
+إِنَّ إِبْرَاهِيمَ لَأَوَّاهٌ حَلِيمٌ
+
+(Verily, Ibrahim was Awwah and was forbearing.) means, he invoked Allah always, according to 'Abdullah bin Mas'ud. Several narrations report this from Ibn Mas'ud. It was also said that, 'Awwah', means, 'who invokes Allah with humility', 'merciful', 'who believes with certainty', 'who praises (Allah)', and so forth.
 
 ### al-Tabari (Arabic)
 
-وما كان استغفار إبراهيم لأبيه إلا عن موعدة وعدها إياه فلما تبين له أنه عدو لله تبرأ منهيقول تعالى ذكره : ما كان ينبغي للنبي محمد صلى الله عليه وسلم والذين آمنوا به أن يستغفروا , يقول : أن يدعوا بالمغفرة للمشركين , ولو كان المشركون الذين يستغفرون لهم أولي قربى , ذوي قرابة لهم . { من بعد ما تبين لهم أنهم أصحاب الجحيم } يقول : من بعد ما ماتوا على شركهم بالله وعبادة الأوثان تبين لهم أنهم من أهل النار ; لأن الله قد قضى أن لا يغفر لمشرك فلا ينبغي لهم أن يسألوا ربهم أن يفعل ما قد علموا أنه لا يفعله....
+القول في تأويل قوله: ﴿إِنَّ إِبْرَاهِيمَ لأوَّاهٌ حَلِيمٌ (١١٤) ﴾
+
+قال أبو جعفر: اختلف أهل التأويل في "الأوّاه".
+
+فقال بعضهم: هو الدعَّاء. [[" الدعاء " (بتشديد العين) : الكثير الدعاء.]]
+
+ذكر من قال ذلك:
+
+١٧٣٦١- حدثنا ابن بشار قال، حدثنا عبد الرحمن قال، حدثنا سفيان، عن عاصم، عن زرّ، عن عبد الله قال: "الأوّاه"، الدعّاء.
+
+١٧٣٦٢- حدثنا أبو كريب وابن وكيع قالا حدثنا أبو بكر، عن عاصم، عن زر، عن عبد الله قال: "الأوّاه"، الدعّاء.
+
+١٧٣٦٣- حدثني يونس قال، أخبرنا ابن وهب قال، حدثني جرير بن حازم، عن عاصم بن بهدلة، عن زرّ بن حبيش قال: سألت عبد الله عن "الأواه"، فقال: هو الدعّاء.
+
+١٧٣٦٤- حدثنا ابن وكيع قال، حدثنا محمد بن بشر، عن ابن أبي عروبة، عن عاصم، عن زر، عن عبد الله، مثله.
+
+١٧٣٦٥-..... قال، حدثنا قبيصة، عن سفيان، عن عبد الكريم عن أبي عبيدة، عن عبد الله قال: "الأوّاه": الدعّاء.
+
+١٧٣٦٦-..... قال: حدثنا أبي، عن سفيان، عن عاصم، عن زر، عن عبد الله، مثله.
+
+١٧٣٦٧- حدثنا أحمد قال، حدثنا أبو أحمد قال، حدثنا سفيان، وإسرائيل، عن عاصم، عن زر، عن عبد الله، مثله. [[الآثار: ١٧٣٦٣ - ١٧٣٦٧ - حديث زر، عن عبد الله بن مسعود، خرجه الهيثمي في مجمع الزوائد ٧: ٣٥، وقال: " رواه الطبراني، وفيه عاصم - يعني عاصم بن أبي النجود - وهو ثقة وقد ضعف ".]]
+
+١٧٣٦٨- حدثني يعقوب بن إبراهيم وابن وكيع، قالا حدثنا ابن علية قال، حدثنا داود بن أبي هند، قال: نُبِّئتُ عن عبيد بن عمير، قال: "الأوّاه": الدعاء.
+
+١٧٣٦٩- حدثني إسحاق بن شاهين قال، حدثنا داود، عن عبد الله بن عبيد بن عمير الليثي، عن أبيه قال: "الأوّاه": الدعّاء.
+
+* *
+
+وقال آخرون: بل هو الرحيم.
+
+ذكر من قال ذلك:
+
+١٧٣٧٠- حدثنا ابن بشار قال، حدثنا عبد الرحمن قال، حدثنا سفيان، عن سلمة، عن مسلم البطين، عن أبي العُبَيْدَيْنِ، قال: سئل عبد الله عن "الأوّاه"، فقال: الرحيم. [[الأثر: ١٧٣٧٠ - خبر أبي العبيدين، عن عبد الله، رواه الطبري من رقم: ١٧٣٧٠، ١٧٣٧٨، ١٧٣٨٦.
+
+" سلمة "، هو " سلمة بن كهيل الحضرمي " ثقة، مضى مرارا، آخرها رقم: ١٤٥٠٣.
+
+و" مسلم البطين "، هو " مسلم بن عمران ". ثقة. مضى برقم: ١٤٥٠٣ - ١٤٠٥٦.
+
+و" أبو العبيدين "، هو " معاوية بن سبرة بن حصين السوائي العامري الأعمى "، ثقة، كان ابن مسعود يدنيه ويقربه، مترجم في التهذيب، والكبير ٤ / ١ / ٣٢٩، وابن أبي حاتم ٤ / ١ / ٣٨٧.
+
+وهذا الخبر، خرجه الهيثمي في مجمع الزوائد ٧: ٣٥، مطولا وقال: " رواه كله الطبراني بأسانيد، ورجال الروايتين الأوليين، ثقات ".]]
+
+١٧٣٧١- حدثنا محمد بن المثنى قال، حدثني محمد بن جعفر قال، حدثنا شعبة، عن الحكم قال: سمعت يحيى بن الجزار يحدث، عن أبي العبيدين، رجلٍ ضرير البصر: أنه سأل عبد الله عن "الأواه"، فقال: الرحيم. [[الأثر: ١٧٣٧١ - " يحيى بن الجزار العرني "، ثقة، مضى برقم: ٥٤٢٥، ١٦٤٠٦، ١٦٤٠٥، ١٦٤٠٨.]]
+
+١٧٣٧٢- حدثنا أبو كريب قال، حدثنا المحاربي = وحدثنا خلاد بن أسلم قال، أخبرنا النضر بن شميل = جميعًا، عن المسعوديّ، عن سلمة بن كهيل، عن أبي العبيدين: أنه سأل ابن مسعود، فقال: ما "الأواه"؟ قال: = الرحيم.
+
+١٧٣٧٣- حدثنا زكريا بن يحيى بن أبي زائدة قال، حدثنا ابن إدريس، عن الأعمش، عن الحكم، عن يحيى بن الجزار، عن أبي العبيدين: أنه جاء إلى عبد الله = وكان ضرير البصر = فقال: يا أبا عبد الرحمن، من نسأل إذا لم نسألك؟ فكأن ابن مسعود رقَّ له، قال: أخبرني عن "الأوّاه"، قال: الرحيم.
+
+١٧٣٧٤- حدثنا أبو كريب قال، حدثنا وكيع = وحدثنا ابن وكيع قال، حدثنا أبي =، عن سفيان، عن سلمة بن كهيل، عن مسلم البطين، عن أبي العبيدين، قال: سألت عبد الله عن "الأواه"، فقال: هو الرحيم.
+
+١٧٣٧٥- حدثنا ابن وكيع قال، حدثنا جرير، عن الأعمش، عن الحكم، عن يحيى بن الجزار قال جاء أبو العبيدين إلى عبد الله فقال له: ما حاجتك؟ قال: ما "الأواه"؟ قال: الرحيم.
+
+١٧٣٧٦-..... قال، حدثنا ابن إدريس، عن الأعمش، عن الحكم، عن يحيى بن الجزار، عن أبي العبيدين، رجل من بني سَوَاءَة، قال: جاء رجل إلى عبد الله فسأله عن "الأوّاه"، فقال له عبد الله: الرحيم.
+
+١٧٣٧٧- حدثنا ابن وكيع قال، حدثنا المحاربي، وهانئ بن سعيد، عن حجاج، عن الحكم، عن يحيى بن الجزار، عن أبي العبيدين، عن عبد الله قال: "الأواه"، الرحيم.
+
+١٧٣٧٨- حدثني يعقوب وابن وكيع قالا حدثنا ابن علية، عن شعبة، عن الحكم، عن يحيى بن الجزار: أن أبا العبيدين، رجل من بين نمير = قال يعقوب: كان ضريرَ البصر، وقال ابن وكيع: كان مكفوفَ البصر = سأل ابن مسعود فقال: ما "الأواه"؟ قال: الرحيم.
+
+١٧٣٧٩- حدثنا ابن وكيع قال، حدثنا أبو أسامة، عن زكريا، عن أبي إسحاق، عن أبي ميسرة، قال: "الأواه": الرحيم.
+
+١٧٣٨٠-..... قال: حدثنا أبي، عن سفيان، عن أبي إسحاق، عن أبي ميسرة، مثله.
+
+١٧٣٨١- حدثنا أبو كريب قال، حدثنا وكيع، عن سفيان، عن أبي إسحاق، عن أبي ميسرة، مثله.
+
+١٧٣٨٢- حدثنا ابن وكيع قال، حدثنا محمد بن بشر، عن سعيد، عن قتادة، عن الحسن، قال: هو الرحيم.
+
+١٧٣٨٣- حدثنا بشر قال، حدثنا يزيد قال، حدثنا سعيد، عن قتادة، قال: كنا نحدَّث أن "الأواه" الرحيم.
+
+١٧٣٨٤- حدثنا محمد بن عبد الأعلى قال، حدثنا محمد بن ثور، عن معمر، عن قتادة: "إن إبراهيم لأواه"، قال: رحيم.
+
+* *
+
+قال عبد الكريم الجزري، عن أبي عبيدة، عن ابن مسعود مثل ذلك.
+
+١٧٣٨٥- حدثنا أحمد قال، حدثنا أبو أحمد قال، حدثنا سفيان، عن عبد الكريم، عن أبي عبيدة، عن عبد الله قال: "الأواه": الرحيم.
+
+١٧٣٨٦- حدثنا أحمد قال، حدثنا أبو أحمد قال، حدثنا سفيان، عن سلمة، عن مسلم البطين، عن أبي العبيدين: أنه سأل عبد الله عن "الأواه"، فقال الرحيم.
+
+١٧٣٨٧-...... قال: حدثنا سفيان، عن أبي إسحاق، عن عمرو بن شرحبيل قال: "الأواه": الرحيم.
+
+١٧٣٨٨- حدثني الحارث قال، حدثنا عبد العزيز قال، حدثنا مبارك، عن الحسن، قال: "الأواه": الرحيم بعباد الله.
+
+١٧٣٨٩-..... قال، حدثنا الحسين قال، حدثنا أبو خيثمة زهير قال، حدثنا أبو إسحاق الهمداني، عن أبي ميسرة، عن عمرو بن شرحبيل، قال: "الأواه": الرحيم بلحن الحبشة.
+
+* *
+
+وقال آخرون: بل هو الموقن. [[في المخطوطة في هذا الموضع، وفي أكثر المواضع التالية " الموفق "، وفي بعضها " الموقن "، والذي في المطبوعة أشبه بالصواب، فتركته على حاله، حتى أجد ما يرجحه.]]
+
+ذكر من قال ذلك:
+
+١٧٣٩٠- حدثنا أبو كريب قال، حدثنا وكيع = وحدثنا ابن وكيع قال، حدثنا أبي =، عن سفيان، عن قابوس، عن أبيه، عن ابن عباس قال: "الأواه": الموقن.
+
+١٧٣٩١- حدثنا ابن وكيع قال، حدثنا يحيى بن آدم، عن ابن مبارك، عن خالد، عن عكرمة، عن ابن عباس قال: "الأواه"، الموقن، بلسان الحبشة.
+
+١٧٣٩٢-..... قال، حدثنا حميد بن عبد الرحمن، عن حسن، عن مسلم، عن مجاهد، عن ابن عباس، قال، "الأواه"، الموقن، بلسانه الحبشة.
+
+١٧٣٩٣- حدثني الحارث قال، حدثنا عبد العزيز، قال: سمعت سفيان يقول: "الأواه"، الموقن = وقال بعضهم: الفقيه الموقن.
+
+١٧٣٩٤- حدثني الحارث قال، حدثنا عبد العزيز قال، حدثنا سفيان، عن جابر، عن عطاء، قال: "الأواه"، الموقن، بلسان الحبشة.
+
+١٧٣٩٥- حدثنا ابن وكيع قال، حدثنا ابن إدريس، عن أبيه، عن رجل، عن عكرمة، قال: هو الموقن، بلسان الحبشة.
+
+١٧٣٩٦-..... قال، حدثنا ابن نمير، عن الثوري، عن مجالد، عن أبي هاشم، عن مجاهد، قال: "الأواه"، الموقن.
+
+١٧٣٩٧- حدثنا الحسن بن يحيى قال، أخبرنا عبد الرزاق قال، أخبرنا الثوري، عن مسلم، عن مجاهد قال: "الأواه"، الموقن.
+
+١٧٣٩٨-.... قال، أخبرنا عبد الرزاق قال، أخبرنا معمر، عن قابوس، عن أبي ظبيان، عن ابن عباس قال: "الأواه"، الموقن.
+
+١٧٣٩٩- حدثني المثنى قال، حدثنا أبو حذيفة قال، حدثنا شبل، عن ابن أبي نجيح، عن مجاهد: "أواه"، موقن.
+
+١٧٤٠٠- حدثني محمد بن عمرو قال، حدثنا أبو عاصم، قال، حدثنا عيسى، عن ابن أبي نجيح، عن مجاهد: "أواه"، قال: مؤتمن موقن.
+
+١٧٤٠١- حدثت عن الحسين بن الفرج، قال: سمعت أبا معاذ، يقول، أخبرنا عبيد بن سليمان قال، سمعت الضحاك يقول في قوله: "إن إبراهيم لأواه حليم"، قال: "الأواه": الموقن.
+
+* *
+
+وقال آخرون: هي كلمة بالحبشة، معناها: المؤمن.
+
+ذكر من قال ذلك:
+
+١٧٤٠٢- حدثني محمد بن سعد قال، حدثني أبي قال، حدثني عمي قال، حدثني أبي، عن أبيه، عن ابن عباس: "لأواه حليم"، قال: "الأواه"، هو المؤمن بالحبشية. [[في المطبوعة والمخطوطة: " بالحبشة "، والصواب ما أثبت، كما سيأتي في المخطوطة في التالية.]]
+
+١٧٤٠٣- حدثنا علي بن داود قال، حدثنا عبد الله بن صالح قال، حدثني معاوية، عن علي، عن ابن عباس قوله: "إن إبراهيم لأواه"، يعني: المؤمن التواب.
+
+١٧٤٠٤- حدثنا أحمد قال، حدثنا أبو أحمد قال، حدثنا حسن بن صالح، عن مسلم، عن مجاهد، عن ابن عباس قال: "الأواه": المؤمن.
+
+١٧٤٠٥- حدثنا القاسم قال، حدثنا الحسين قال، حدثني حجاج، عن ابن جريج: "الأواه"، المؤمن بالحبشية. [[في المطبوعة فقط: " بالحبشة "، وأثبت ما في المخطوطة.]]
+
+* *
+
+وقال آخرون: هو المسبِّح، الكثير الذكر لله.
+
+ذكر من قال ذلك:
+
+١٧٤٠٦- حدثني المثنى قال، حدثنا الحماني قال، حدثنا شريك، عن سالم، عن سعيد، قال: "الأواه": المسبِّح.
+
+١٧٤٠٧- حدثنا ابن وكيع قال، حدثنا المحاربي، عن حجاج، عن الحكم، عن الحسن بن مسلم بن يناق: أن رجلا كان يكثر ذكر الله ويسبِّح، فذكر ذلك للنبي ﷺ، فقال: إنه أوَّاه.
+
+١٧٤٠٨- حدثنا ابن وكيع قال، حدثنا يزيد بن حيان، عن ابن لهيعة، عن الحارث بن يزيد، عن علي بن رباح، عن عقبة بن عامر قال: "الأواه"، الكثير الذكر لله.
+
+* *
+
+وقال آخرون: هو الذي يكثر تلاوة القرآن.
+
+ذكر من قال ذلك:
+
+١٧٤٠٩- حدثنا أبو كريب قال، حدثنا ابن يمان قال، حدثنا المنهال بن خليفة، عن حجاج بن أرطأة، عن عطاء، عن ابن عباس: أن النبيّ ﷺ دفن ميتًا، فقال: يرحمك الله، إن كنت لأواهًا! = يعني: تلاءً للقرآن. [[" تلاء " على وزن " فعال " بتشديد العين، من " التلاوة "، يعني كثير التلاوة للقرآن.]]
+
+* *
+
+وقال آخرون: هو من التأوُّه.
+
+ذكر من قال ذلك:
+
+١٧٤١٠- حدثنا ابن المثنى قال، حدثنا محمد بن جعفر قال، حدثنا شعبة، عن أبي يونس القشيري، عن قاصّ كان بمكة: أن رجلا كان في الطواف، فجعل يقول: أوّه! [[" أوه " بتشديد الواو، وفيها لغات أخرى.]] قال: فشكاه أبو ذر للنبي ﷺ فقال: دعه إنه أوَّاه!
+
+١٧٤١١- حدثنا أبو كريب قال، حدثنا وكيع = وحدثنا ابن وكيع قال، حدثنا أبي =، عن شعبة، عن أبي يونس الباهلي قال: سمعت رجلا بمكة كان أصله روميًّا، يحدّث عن أبي ذر، قال: كان رجل يطوف بالبيت ويقول في دعائه: "أوَّه! أوّه"، فذكر للنبي ﷺ فقال: إنه أوَّاه! = زاد أبو كريب في حديثه، قال: فخرجت ذات ليلة فإذا رسول الله ﷺ يدفن ذلك الرجل ليلا ومعه المصباح. [[الأثران: ١٧٤١٠، ١٧٤١١ - " أبو يونس القشيري "، أو " الباهلي "، هو " حاتم بن أبي صغيرة "، ثقة، مضى برقم: ١٥١٨٠.]]
+
+١٧٤١٢- حدثنا ابن وكيع قال، حدثنا زيد بن الحباب، عن جعفر بن سليمان قال، حدثنا عمران، عن عبيد الله بن رباح، عن كعب، قال: "الأواه": إذا ذكر النار قال: أوّه.
+
+١٧٤١٣- حدثنا ابن حميد قال، حدثنا عبد العزيز بن عبد الصمد العمِّي، عن أبي عمران الجوني، عن عبد الله بن رباح، عن كعب قال: كان إذا ذكر النار قال: أوّه. [[الأثر: ١٧٤١٣ - " عبد العزيز بن عبد الصمد العمي " ثقة، مضى برقم: ٣٣٠٢.
+
+وكان في المطبوعة والمخطوطة، " عبد العزيز، عن عبد الصمد العمي "، وهو خطأ محض، وكان في المطبوعة وحدها " القمي "، وهو خطأ، صوابه في المخطوطة.
+
+و" أبو عمران الجوني "، هو " عبد الملك بن حبيب الأزدي "، ثقة، مضى برقم: ٨٠، ١٣٠٤٢.
+
+و"عبد الله بن رباح الأنصاري"، ثقة، مضى برقم: ٤٨، ١٣٠٤٢.
+
+و" كعب "، هو " كعب الأحبار " المشهور.]]
+
+١٧٤١٤- حدثنا الحسن قال، أخبرنا عبد الرزاق، عن جعفر بن سليمان قال، أخبرنا أبو عمران قال، سمعت عبد الله بن رباح الأنصاري يقول، سمعت كعبًا يقول: "إن إبراهيم لأواه"، قال: إذا ذكر النار قال: "أوّهْ من النار".
+
+* *
+
+وقال آخرون: معناه أنه فقيهٌ.
+
+ذكر من قال ذلك:
+
+١٧٤١٥- حدثنا القاسم قال، حدثنا الحسين قال، حدثني حجاج، عن ابن جريج، عن مجاهد: "إن إبراهيم لأوّاه"، قال: فقيه.
+
+* *
+
+وقال آخرون: هو المتضرع الخاشع.
+
+ذكر من قال ذلك:
+
+١٧٤١٦- حدثني المثنى قال، حدثنا الحجاج بن المنهال قال، حدثنا عبد الحميد بن بهرام قال، حدثنا شهر بن حوشب، عن عبد الله بن شداد بن الهاد قال: بينما رسول الله ﷺ جالسٌ، قال رجل: يا رسول الله، ما "الأوَّاه"، قال: المتضرع، قال: "إن إبراهيم لأوّاه حليم".
+
+١٧٤١٧- حدثني المثنى قال، حدثنا إسحاق قال، حدثنا عبد الرحمن بن مغراء، عن عبد الحميد، عن شهر، عن عبد الله بن شداد، قال: قال رسول الله ﷺ: "الأوّاه": الخاشعُ المتضرِّع". [[الأثران: ١٧٤١٦، ١٧٤١٧ - " عبد الحميد بن بهرام الفزاري "، ثقة، متكلم في روايته عن شهر بن حوشب. مضى مرارا. انظر رقم: ١٦٠٥، ٤٢٢١، ٦٦٥٠ - ٦٦٥٢.
+
+و" شهر بن حوشب "، ثقة، متكلم فيه، مضى مرارا.
+
+و" عبد الله بن شداد بن الهاد الليثي "، تابعي ثقة، مضى برقم: ٥٠٨٨. وهذا مرسل.]]
+
+* *
+
+قال أبو جعفر: وأولى الأقوال في ذلك عندي بالصواب، القولُ الذي قاله عبد الله بن مسعود، الذي رواه عنه زرٌّ: أنه الدعَّاء. [[انظر ما سلف من رقم ١٧٣٦١ - ١٧٣٦٨.]]
+
+وإنما قلنا ذلك أولى بالصواب، لأن الله ذكر ذلك، ووصف به إبراهيم خليله صلوات الله عليه، بعد وصفه إياه بالدعاء والاستغفار لأبيه، فقال: "وما كان استغفار إبراهيم لأبيه إلا عن موعدة وعدها إياه فلما تبين له أنه عدوٌّ لله تبرأ منه"، وترك الدعاء والاستغفار له. ثم قال: إن إبراهيم لدعَّاء لربه، شاكٍ له، حليمٌ عمن سبَّه وناله بالمكروه. وذلك أنه صلوات الله عليه وعد أباه بالاستغفار له، ودعاءَ الله له بالمغفرة، عند وعيد أبيه إياه، وتهدُّده له بالشتم، بعد ما ردَّ عليه نصيحته في الله وقوله: ﴿أَرَاغِبٌ أَنْتَ عَنْ آلِهَتِي يَاإِبْرَاهِيمُ لَئِنْ لَمْ تَنْتَهِ لأرْجُمَنَّكَ وَاهْجُرْنِي مَلِيًّا﴾ ، فقال له صلوات الله عليه، ﴿سَلامٌ عَلَيْكَ سَأَسْتَغْفِرُ لَكَ رَبِّي إِنَّهُ كَانَ بِي حَفِيًّا وَأَعْتَزِلُكُمْ وَمَا تَدْعُونَ مِنْ دُونِ اللَّهِ وَأَدْعُو رَبِّي عَسَى أَلا أَكُونَ بِدُعَاءِ رَبِّي شَقِيًّا﴾ ، [مريم: ٤٦-٤٨] . فوفى لأبيه بالاستغفار له، حتى تبيَّن له أنه عدو لله، فوصفه الله بأنه دَعّاء لربه، حليم عمن سَفِه عليه.
+
+* *
+
+وأصله من "التأوّه"، وهو التضرع والمسألة بالحزن والإشفاق، كما روى عبد الله بن شداد عن النبي ﷺ [[انظر رقم: ١٧١٤١٦، ١٧١٧.]] = وكما روى عقبة بن عامر، الخبَرَ الذي حدَّثنيه:-
+
+١٧٤١٨- يحيى بن عثمان 
+
+[TRUNCATED at 12000 chars — 6064 more. Consult the source directly before relying on anything near the cut.]
 
 ### al-Muyassar (Arabic)
 
-وما كان استغفار إبراهيم عليه السلام لأبيه المشرك، إلا عن موعدة وعدها إياه، وهي قوله: {سَأَسْتَغْفِرُ لَكَ رَبِّي إِنَّهُ كَانَ بِي حَفِيًّا (19:47)}. فلما تبيَّن لإبراهيم أن أباه عدو لله ولم ينفع فيه الوعظ والتذكير، وأنه سيموت كافرًا، تركه وترك الاستغفار له، وتبرأ منه. إن إبراهيم عليه السلام عظيم التضرع لله، كثير الصفح عما يصدر مِن قومه من الزلات.
+وما كان استغفار إبراهيم -عليه السلام- لأبيه المشرك، إلا عن موعدة وعدها إياه، وهي قوله: ﴿سَأَسۡتَغۡفِرُ لَكَ رَبِّيٓۖ إِنَّهُۥ كانَ بِي حَفِيّٗا﴾. فلما تبيَّن لإبراهيم أن أباه عدو لله ولم ينفع فيه الوعظ والتذكير، وأنه سيموت كافرًا، تركه وترك الاستغفار له، وتبرأ منه. إن إبراهيم -عليه السلام- عظيم التضرع لله، كثير الصفح عما يصدر مِن قومه من الزلّات.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿وما كانَ اسْتِغْفار إبْراهِيم لِأَبِيهِ إلّا عَنْ مَوْعِدَة وعَدَها إيّاهُ﴾ بِقَوْلِهِ "سَأَسْتَغْفِرُ لَك رَبِّي" رَجاء أنْ يُسْلِم ﴿فَلَمّا تَبَيَّنَ لَهُ أنَّهُ عَدُوّ لِلَّهِ﴾ بِمَوْتِهِ عَلى الكُفْر ﴿تَبَرَّأَ مِنهُ﴾ وتَرَكَ الِاسْتِغْفار لَهُ ﴿إنّ إبْراهِيم لَأَوّاه﴾ كَثِير التَّضَرُّع والدُّعاء ﴿حَلِيم﴾ صَبُور عَلى الأَذى
 
 ---
 
@@ -102,14 +780,109 @@ Imam Ahmad recorded that Ibn Al-Musayyib said that his father Al-Musayyib said, 
 
 ### Ibn Kathir (English)
 
+He (the father) said: "Do you revile my gods, O Ibrahim? If you stop not (this), I will La'arjumannak. So get away from me Maliyan. (46)Ibrahim said: "Peace be on you! I will ask forgiveness of my Lord for you. Verily, He is unto me Hafiyyan (47)And I shall turn away from you and from those whom you invoke besides Allah. And I shall call upon my Lord, and I certainly hope that I shall not be unblessed in my invocation to my Lord. (48)
+
 The Reply of Ibrahim's Father
+
 Allah, the Exalted, informs of the reply of Ibrahim's father to his son, Ibrahim, in reference to what he was calling him to. He said,
-أَرَاغِبٌ أَنتَ عَنْ آلِهَتِى يإِبْرَهِيمُ
-(Do you revile my gods, O Ibrahim) This means, "If you do not want to worship them (the idols) and you are not pleased with them, then at least stop cursing, abusing, and reviling them. For verily, if you do not cease, I will punish you, curse you and revile you." This is the meaning of h...
+
+أَرَاغِبٌ أَنتَ عَنْ آلِهَتِي يَا إِبْرَاهِيمُ
+
+(Do you revile my gods, O Ibrahim?) This means, "If you do not want to worship them (the idols) and you are not pleased with them, then at least stop cursing, abusing, and reviling them. For verily, if you do not cease, I will punish you, curse you and revile you." This is the meaning of his statement;
+
+لَأَرْجُمَنَّكَ
+
+(La'arjumannaka.) Ibn 'Abbas, As-Suddi, Ibn Jurayj, Ad-Dahhak and others said this. Concerning His statement,
+
+وَاهْجُرْنِي مَلِيًّا
+
+(So get away from me Maliyan.) Mujahid, 'Ikrimah, Sa'id bin Jubayr and Mujahid bin Ishaq all said, "Maliyan means forever." Al-Hasan Al-Basri said, "For a long time." As-Suddi said,
+
+وَاهْجُرْنِي مَلِيًّا
+
+(So get away from me safely Maliyan.) "This means forever." Ali bin Abi Talhah and Al-'Awfi both reported that Ibn 'Abbas said,
+
+وَاهْجُرْنِي مَلِيًّا
+
+(So get away from me safely Maliyan.) "This means to go away in peace and safety before you are afflicted with a punishment from me." Ad-Dahhak, Qatadah, 'Atiyah Al-Jadali, Malik and others said the same. This is also the view preferred by Ibn Jarir.
+
+The Reply of Allah's Friend (Khalil)
+
+With this, Ibrahim said to his father,
+
+سَلَامٌ عَلَيْكَ
+
+(Peace be on you!) This is as Allah said concerning the description of the believers,
+
+وَإِذَا خَاطَبَهُمُ الْجَاهِلُونَ قَالُوا سَلَامًا
+
+(and when the foolish address them (with bad words) they say, "Salaman [peace].")[25:63] Allah also says,
+
+وَإِذَا سَمِعُوا اللَّغْوَ أَعْرَضُوا عَنْهُ وَقَالُوا لَنَا أَعْمَالُنَا وَلَكُمْ أَعْمَالُكُمْ سَلَامٌ عَلَيْكُمْ لَا نَبْتَغِي الْجَاهِلِينَ
+
+(And when they hear Al-Laghw (false speech), they withdraw from it and say: "To us our deeds, and to you your deeds. Peace be to you. We seek not (the way of) the ignorant.")[28:55] The meaning of Ibrahim's statement to his father,
+
+سَلَامٌ عَلَيْكَ
+
+(Peace be on you!) "You will not receive any insult or harm from me." This is due to the respect and honor of fatherhood.
+
+سَأَسْتَغْفِرُ لَكَ رَبِّي
+
+(I will ask forgiveness of my Lord for you.) meaning "But, I will ask Allah to guide you and forgive you for your sin."
+
+إِنَّهُ كَانَ بِي حَفِيًّا
+
+(Verily, He is unto me Hafiyya.)
+
+Ibn 'Abbas and others said that Hafiyyan means, "Kind." Meaning, "since He guided me to worship Him and direct my religious devotion to Him alone." As-Suddi said, "Al-Hafi is One Who is concerned with his (Ibrahim's) affair." Thus, Ibrahim sought forgiveness for his father for a very long time, even after he migrated to Ash-Sham. He continued to seek forgiveness for him even after building the Sacred Masjid (in Makkah) and after the birth of his two sons, Isma'il and Ishaq. This can be seen in his statement,
+
+رَبَّنَا اغْفِرْ لِي وَلِوَالِدَيَّ وَلِلْمُؤْمِنِينَ يَوْمَ يَقُومُ الْحِسَابُ
+
+(Our Lord! Forgive me and my parents, and (all) the believers on the Day when the reckoning will be established.)[14:41] From this tradition, during the beginning stages of Islam, the Muslims used to seek forgiveness for their relatives and their family members who were polytheists. They did this following the way of Ibrahim, the Khalil (Friend) of Allah, until Allah revealed,
+
+قَدْ كَانَتْ لَكُمْ أُسْوَةٌ حَسَنَةٌ فِي إِبْرَاهِيمَ وَالَّذِينَ مَعَهُ إِذْ قَالُوا لِقَوْمِهِمْ إِنَّا بُرَآءُ مِنكُمْ وَمِمَّا تَعْبُدُونَ مِن دُونِ اللَّهِ
+
+(Indeed there has been an excellent example for you in Ibrahim and those with him, when they said to their people: "Verily, we are free from you and whatever you worship besides Allah.")[60:4] Until Allah's statement,
+
+إِلَّا قَوْلَ إِبْرَاهِيمَ لِأَبِيهِ لَأَسْتَغْفِرَنَّ لَكَ وَمَا أَمْلِكُ لَكَ مِنَ اللَّهِ مِن شَيْءٍ
+
+(Except the saying of Ibrahim to his father: "Verily, I will ask forgiveness (from Allah) for you, but I have no power to do anything for you before Allah.")[60:4] meaning, except for this statement, so do not follow it. Then Allah explains that Ibrahim abandoned this statement and retracted it. Allah, the Exalted, says,
+
+مَا كَانَ لِلنَّبِيِّ وَالَّذِينَ آمَنُوا أَن يَسْتَغْفِرُوا لِلْمُشْرِكِينَ
+
+(It is not (proper) for the Prophet and those who believe to ask Allah's forgiveness for the idolators.)[9:113] Until Allah's statement,
+
+وَمَا كَانَ اسْتِغْفَارُ إِبْرَاهِيمَ لِأَبِيهِ إِلَّا عَن مَّوْعِدَةٍ وَعَدَهَا إِيَّاهُ فَلَمَّا تَبَيَّنَ لَهُ أَنَّهُ عَدُوٌّ لِّلَّهِ تَبَرَّأَ مِنْهُ ۚ إِنَّ إِبْرَاهِيمَ لَأَوَّاهٌ حَلِيمٌ
+
+(And Ibrahim's invoking for his father's forgiveness was only because of a promise he had made to him. But when it became clear to him that he is an enemy of Allah, he dissociated himself from him. Verily, Ibrahim was Awwah, forbearing.)(9:114) Concerning Allah's statement,
+
+وَأَعْتَزِلُكُمْ وَمَا تَدْعُونَ مِن دُونِ اللَّهِ وَأَدْعُو رَبِّي
+
+(And I shall turn away from you and from those whom you invoke besides Allah. And I shall call upon my Lord,) This means, "And I worship my Lord alone, associating no partners with Him."
+
+عَسَىٰ أَلَّا أَكُونَ بِدُعَاءِ رَبِّي شَقِيًّا
+
+(I certainly hope that I shall not be unblessed in my invocation to my Lord.) The word 'Asa (I hope) here means that which will necessarily occur and not that which is hoped for from the impossible. For verily, he (Ibrahim) is the leader of the Prophets other than Muhammad ﷺ.
 
 ### al-Tabari (Arabic)
 
-يقول تعالى ذكره: قال إبراهيم لأبيه حين توعَّده على نصيحته إياه ودعائه إلى الله بالقول السيئ والعقوبة: سلام عليك يا أبت، يقول: أمنة مني لك أن أعاودك فيما كرهت، ولدعائك إليّ ما توعدتني عليه بالعقوبة، ولكني ( سَأَسْتَغْفِرُ لَكَ رَبِّي ) يقول: ولكني سأسأل ربي أن يستر عليك ذنوبك بعفوه إياك عن عقوبتك عليها( إِنَّهُ كَانَ بِي حَفِيًّا ) يقول: إن ربي عهدته بي لطيفا يجيب دعائي إذا دعوته ، يقال منه: تحفى بي فلان. وقد بيَّنت ذلك بشواهده فيما مضى، بما أغنى عن إعادته هاهنا.وبنحو ما قلنا في ذلك قال أهل ال...
+القول في تأويل قوله تعالى: ﴿قَالَ سَلامٌ عَلَيْكَ سَأَسْتَغْفِرُ لَكَ رَبِّي إِنَّهُ كَانَ بِي حَفِيًّا (٤٧) وَأَعْتَزِلُكُمْ وَمَا تَدْعُونَ مِنْ دُونِ اللَّهِ وَأَدْعُو رَبِّي عَسَى أَلا أَكُونَ بِدُعَاءِ رَبِّي شَقِيًّا (٤٨) ﴾
+
+يقول تعالى ذكره: قال إبراهيم لأبيه حين توعَّده على نصيحته إياه ودعائه إلى الله بالقول السيئ والعقوبة: سلام عليك يا أبت، يقول: أمنة مني لك أن أعاودك فيما كرهت، ولدعائك إليّ ما توعدتني عليه بالعقوبة، ولكني ﴿سَأَسْتَغْفِرُ لَكَ رَبِّي﴾ يقول: ولكني سأسأل ربي أن يستر عليك ذنوبك بعفوه إياك عن عقوبتك عليها ﴿إِنَّهُ كَانَ بِي حَفِيًّا﴾ يقول: إن ربي عهدته بي لطيفا يجيب دعائي إذا دعوته، يقال منه: تحفى بي فلان. وقد بيَّنت ذلك بشواهده فيما مضى، بما أغنى عن إعادته هاهنا.
+
+وبنحو ما قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثني عليّ، قال: ثنا عبد الله، قال: ثني معاوية، عن عليّ، عن ابن عباس، قوله ﴿إِنَّهُ كَانَ بِي حَفِيًّا﴾ يقول: لطيفا.
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله ﴿إِنَّهُ كَانَ بِي حَفِيًّا﴾ قال: إنه كان بي لطيفا، فإن الحفيّ: اللطيف.
+
+* *
+
+وقوله ﴿وَأَعْتَزِلُكُمْ وَمَا تَدْعُونَ مِنْ دُونِ اللَّهِ﴾
+
+يقول: وأجتنبكم وما تدعون من دون الله من الأوثان والأصنام ﴿وأدْعُو رَبّي﴾ يقول: وأدعو ربي، بإخلاص العبادة له، وإفراده بالربوبية ﴿عَسَى أَلا أَكُونَ بِدُعَاءِ رَبِّي شَقِيًّا﴾ يقول: عسى أن لا أشقى بدعاء ربي، ولكن يجيب دعائي، ويعطيني ما أسأله.
 
 ### al-Muyassar (Arabic)
 
@@ -117,7 +890,7 @@ Allah, the Exalted, informs of the reply of Ibrahim's father to his son, Ibrahim
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿قالَ سَلام عَلَيْك﴾ مِنِّي أيْ لا أُصِيبك بِمَكْرُوهٍ ﴿سَأَسْتَغْفِرُ لَك رَبِّي إنّهُ كانَ بِي حَفِيًّا﴾ مِن حَفِيَ أيْ بارًّا فَيُجِيب دُعائِي وقَدْ أوْفى بِوَعْدِهِ المَذْكُور فِي الشُّعَراء ﴿واغْفِرْ لِأَبِي﴾ وهَذا قَبْل أنْ يَتَبَيَّن لَهُ أنَّهُ عَدُوّ اللَّه كَما ذَكَرَهُ فِي بَراءَة
 
 ---
 
@@ -125,20 +898,103 @@ Allah, the Exalted, informs of the reply of Ibrahim's father to his son, Ibrahim
 
 ### Ibn Kathir (English)
 
+And when Luqman said to his son when he was advising him: "O my son! Join not in worship others with Allah. Verily, joining others in worship with Allah is a great Zulm (wrong) indeed. (13)And We have enjoined on man (to be dutiful and good) to his parents. His mother bore him in weakness and hardship upon weakness and hardship, and his weaning is in two years – give thanks to Me and to your parents. Unto Me is the final destination (14)But if they strive with you to make you join in worship with Me others that of which you have no knowledge, then obey them not; but behave with them in the world kindly, and follow the path of him who turns to Me in repentance and in obedience. Then to Me will be your return, and I shall tell you what you used to do (15)
+
 Luqman's Advice to His Son
-Allah tells us how Luqman advised his son. His full name was Luqman bin `Anqa' bin Sadun, and his son's name was Tharan, according to a saying quoted by As-Suhayli. Allah describes him in the best terms, and states that he granted him wisdom. Luqman advised his son, the closest and most beloved of all people to him, who deserved to be given the best of his knowledge. So, Luqman started by advising him to worship Allah Alone, and not to associate anything with Him. T...
+
+Allah tells us how Luqman advised his son. His full name was Luqman bin 'Anqa' bin Sadun, and his son's name was Tharan, according to a saying quoted by As-Suhayli. Allah describes him in the best terms, and states that he granted him wisdom. Luqman advised his son, the closest and most beloved of all people to him, who deserved to be given the best of his knowledge. So, Luqman started by advising him to worship Allah Alone, and not to associate anything with Him. Then he warned him:
+
+إِنَّ الشِّرْكَ لَظُلْمٌ عَظِيمٌ
+
+(Verily, joining others in worship with Allah is a great Zulm (wrong) indeed.) meaning, it is the greatest wrong. Al-Bukhari recorded that 'Abdullah said: "When the Ayah
+
+الَّذِينَ آمَنُوا وَلَمْ يَلْبِسُوا إِيمَانَهُمْ بِظُلْمٍ
+
+(It is those who believe and confuse not their belief with Zulm)(6:82) was revealed, the Companions of the Messenger of Allah ﷺ were distressed by this, and said, 'Who among us does not confuse his belief with Zulm?' The Messenger of Allah ﷺ said:
+
+إِنَّهُ لَيْسَ بِذَاكَ، أَلَا تَسْمَعُ إِلَى قَوْلِ لُقْمَانَ: يَا بُنَيَّ لَا تُشْرِكْ بِاللَّهِ ۖ إِنَّ الشِّرْكَ لَظُلْمٌ عَظِيمٌ
+
+(That is not what it means. Have you not heard what Luqman said: (O my son! Join not in worship others with Allah. Verily, joining others in worship with Allah is a great Zulm (wrong) indeed)?)" It was recorded by Muslim.
+
+When Luqman advised his son to worship Allah Alone, he also told him to honor his parents. This is like the Ayah,
+
+وَقَضَىٰ رَبُّكَ أَلَّا تَعْبُدُوا إِلَّا إِيَّاهُ وَبِالْوَالِدَيْنِ إِحْسَانًا ۚ
+
+(And your Lord has decreed that you worship none but Him. And that you be dutiful to your parents)(17:23). These two things are often mentioned together in the Qur'an. Allah says here:
+
+وَوَصَّيْنَا الْإِنْسَانَ بِوَالِدَيْهِ حَمَلَتْهُ أُمُّهُ وَهْنًا عَلَىٰ وَهْنٍ
+
+(And We have enjoined on man (to be dutiful and good) to his parents. His mother bore him in weakness and hardship upon weakness and hardship,) Mujahid said: "The hardship of bearing the child." Qatadah said: "Exhaustion upon exhaustion." 'Ata' Al-Khurasani said: "Weakness upon weakness."
+
+وَفِصَالُهُ فِي عَامَيْنِ
+
+(and his weaning is in two years) means, after he is born, he is breastfed and weaned within two years. This is like the Ayah,
+
+وَالْوَالِدَاتُ يُرْضِعْنَ أَوْلَادَهُنَّ حَوْلَيْنِ كَامِلَيْنِ ۖ لِمَنْ أَرَادَ أَنْ يُتِمَّ الرَّضَاعَةَ ۚ
+
+(The mothers shall give suck to their children for two whole years, for those who desire to complete the term of suckling)(2:233). On this basis, Ibn 'Abbas and other Imams understood that the shortest possible period of pregnancy was six months, because Allah says elsewhere:
+
+وَحَمْلُهُ وَفِصَالُهُ ثَلَاثُونَ شَهْرًا
+
+(and the bearing of him, and the weaning of him is thirty months)(46:15). Allah mentions how the mother brings the child up, and how she gets tired and suffers stress from staying up with the child night and day, to remind the son of her previous kind treatment of him. This is like the Ayah,
+
+وَقُلْ رَبِّ ارْحَمْهُمَا كَمَا رَبَّيَانِي صَغِيرًا
+
+(and say: "My Lord! Bestow on them Your mercy as they did bring me up when I was young.")(17:24). Allah says here:
+
+أَنِ اشْكُرْ لِي وَلِوَالِدَيْكَ إِلَيَّ الْمَصِيرُ
+
+(give thanks to Me and to your parents. Unto Me is the final destination.) means, 'I will reward you most generously for that.'
+
+وَإِنْ جَاهَدَاكَ عَلَىٰ أَنْ تُشْرِكَ بِي مَا لَيْسَ لَكَ بِهِ عِلْمٌ فَلَا تُطِعْهُمَا ۖ
+
+(But if they strive with you to make you join in worship with Me others that of which you have no knowledge, then obey them not;) means, if they try hard to make you follow them in their religion, then do not accept that from them, but do not let that stop you from behaving with them in the world kindly, i.e. treating them with respect.
+
+وَاتَّبِعْ سَبِيلَ مَنْ أَنَابَ إِلَيَّ
+
+(and follow the path of him who turns to Me in repentance and in obedience.) means, the believers.
+
+ثُمَّ إِلَيَّ مَرْجِعُكُمْ فَأُنَبِّئُكُمْ بِمَا كُنْتُمْ تَعْمَلُونَ
+
+(Then to Me will be your return, and I shall tell you what you used to do.) At-Tabarani recorded in Al-'Ishrah that Sa'd bin Malik said, "This Ayah,
+
+وَإِنْ جَاهَدَاكَ عَلَىٰ أَنْ تُشْرِكَ بِي مَا لَيْسَ لَكَ بِهِ عِلْمٌ فَلَا تُطِعْهُمَا ۖ
+
+(But if they strive with you to make you join in worship with Me others that of which you have no knowledge, then obey them not;) was revealed concerning me. I was a man who honored his mother, but when I became Muslim, she said: 'O Sa'd! What is this new thing I see you doing? Leave this religion of yours, or I will not eat or drink until I die, and people will say: Shame on you, for what you have done to me, and they will say that you have killed your mother.' I said, 'Do not do that, O mother, for I will not give up this religion of mine for anything.' She stayed without eating for one day and one night, and she became exhausted; then she stayed for another day and night without eating, and she became utterly exhausted. When I saw that, I said: 'O my mother, by Allah, even if you had one hundred souls and they were to depart one by one, I would not give up this religion of mine for anything, so if you want to, eat, and if you want to, do not eat.' So she ate."
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله تعالى :  وَإِنْ جَاهَدَاكَ عَلَى أَنْ تُشْرِكَ بِي مَا لَيْسَ لَكَ بِهِ عِلْمٌ فَلا تُطِعْهُمَا وَصَاحِبْهُمَا فِي الدُّنْيَا مَعْرُوفًا وَاتَّبِعْ سَبِيلَ مَنْ أَنَابَ إِلَيَّ ثُمَّ إِلَيَّ مَرْجِعُكُمْ فَأُنَبِّئُكُمْ بِمَا كُنْتُمْ تَعْمَلُونَ (15)يقول تعالى ذكره: وإن جاهدك أيها الإنسان، والداك على أن تشرك بي في عبادتك إياي معي غيري، مما لا تعلم أنه لي شريك، ولا شريك له تعالى ذكره علوّا كبيرا، فلا تطعهما فيما أراداك عليه من الشرك بي، (وَصَاحِبْهُمَا فِي الدُّنْيا مَعْرُ...
+القول في تأويل قوله تعالى: ﴿وَإِنْ جَاهَدَاكَ عَلى أَنْ تُشْرِكَ بِي مَا لَيْسَ لَكَ بِهِ عِلْمٌ فَلا تُطِعْهُمَا وَصَاحِبْهُمَا فِي الدُّنْيَا مَعْرُوفًا وَاتَّبِعْ سَبِيلَ مَنْ أَنَابَ إِلَيَّ ثُمَّ إِلَيَّ مَرْجِعُكُمْ فَأُنَبِّئُكُمْ بِمَا كُنْتُمْ تَعْمَلُونَ (١٥) ﴾
+
+يقول تعالى ذكره: وإن جاهدك أيها الإنسان، والداك على أن تشرك بي في عبادتك إياي معي غيري، مما لا تعلم أنه لي شريك، ولا شريك له تعالى ذكره علوّا كبيرا، فلا تطعهما فيما أراداك عليه من الشرك بي، ﴿وَصَاحِبْهُمَا فِي الدُّنْيا مَعْرُوفًا﴾ يقول: وصاحبهما في الدنيا بالطاعة لهما فيما لا تبعة عليك فيه، فيما بينك وبين ربك ولا إثم.
+
+* *
+
+وقوله: ﴿وَاتَّبِعْ سَبِيلَ مَنْ أنابَ إليَّ﴾
+
+يقول: واسلك طريق من تاب من شركه، ورجع إلى الإسلام، واتبع محمدا ﷺ.
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قَتادة ﴿وَاتَّبِعْ سَبِيلَ مَنْ أَنَابَ إليَّ﴾ أي: من أقبل إليّ.
+
+* *
+
+وقوله: ﴿إليَّ مَرْجِعُكُمْ فأُنَبِّئُكُمْ بِمَا كُنتُمْ تَعْلَمُونَ﴾
+
+فإن إليّ مصيركم ومعادكم بعد مماتكم، فأخبركم بجميع ما كنتم في الدنيا تعملون من خير وشرّ، ثم أجازيكم على أعمالكم، المحسن منكم بإحسانه والمسيء بإساءته.
+
+فإن قال لنا قائل: ما وجه اعتراض هذا الكلام بين الخبر عن وصيتي لقمان ابنه؟ قيل: ذلك أيضا وإن كان خبرا من الله تعالى ذكره عن وصيته عباده به، وأنه إنما أوصى به لقمان ابنه، فكان معنى الكلام: ﴿وَإِذْ قَالَ لُقْمَانُ لابْنِهِ وَهُوَ يَعِظُهُ يَا بُنَيَّ لا تُشْرِكْ بِاللَّهِ إِنَّ الشِّرْكَ لَظُلْمٌ عَظِيمٌ﴾ ولا تطع في الشرك به والديك ﴿وَصَاحِبْهُمَا فِي الدُّنْيا مَعْرُوفا﴾ فإن الله وصّى بهما، فاستؤنف الكلام على وجه الخبر من الله، وفيه هذا المعنى، فذلك وجه اعتراض ذلك بين الخبرين عن وصيته.
 
 ### al-Muyassar (Arabic)
 
-وإن جاهدك- أيها الولد المؤمن- والداك على أن تشرك بي غيري في عبادتك إياي مما ليس لك به عِلم، أو أمراك بمعصية مِن معاصي الله فلا تطعهما؛ لأنه لا طاعة لمخلوق في معصية الخالق، وصاحبهما في الدنيا بالمعروف فيما لا إثم فيه، واسلك- أيها الابن المؤمن- طريق مَن تاب من ذنبه، ورجع إليَّ وآمن برسولي محمد صلى الله عليه وسلم، ثم إليَّ مرجعكم، فأخبركم بما كنتم تعملونه في الدنيا، وأجازي كلَّ عامل بعمله.
+وإن جاهدك -أيها الولد المؤمن- والداك على أن تشرك بي غيري في عبادتك إياي مما ليس لك به عِلم، أو أمراك بمعصية مِن معاصي الله فلا تطعهما؛ لأنه لا طاعة لمخلوق في معصية الخالق، وصاحبهما في الدنيا بالمعروف فيما لا إثم فيه، واسلك -أيها الابن المؤمن- طريق مَن تاب من ذنبه، ورجع إليَّ وآمن برسولي محمد ﷺ، ثم إليَّ مرجعكم، فأخبركم بما كنتم تعملونه في الدنيا، وأجازي كلَّ عامل بعمله.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿وإنْ جاهَداك عَلى أنْ تُشْرِك بِي ما لَيْسَ لَك بِهِ عِلْم﴾ مُوافَقَة لِلْواقِعِ ﴿فَلا تُطِعْهُما وصاحِبهما فِي الدُّنْيا مَعْرُوفًا﴾ أيْ بِالمَعْرُوفِ: البِرّ والصِّلَة ﴿واتَّبِعْ سَبِيل﴾ طَرِيق ﴿مَن أنابَ﴾ رَجَعَ ﴿إلَيَّ﴾ بِالطّاعَةِ ﴿ثُمَّ إلَيَّ مَرْجِعكُمْ فَأُنَبِّئكُمْ بِما كُنْتُمْ تَعْمَلُونَ﴾ فَأُجازِيكُمْ عَلَيْهِ وجُمْلَة الوَصِيَّة وما بَعْدها اعْتِراض
 
 ---
 
@@ -146,22 +1002,139 @@ Allah tells us how Luqman advised his son. His full name was Luqman bin `Anqa' b
 
 ### Ibn Kathir (English)
 
-The Opponents of Allah and His Messenger are the Losers
-Allah and His Messenger shall prevail Allah the Exalted asserts that the rebellious and stubborn disbelievers who defy Him and His Messenger , those who do not embrace the religion and stay away from Truth, are in one area, while the guidance is in another area,
-أُوْلَـئِكَ فِى الاٌّذَلِّينَ
-(They will be among those most humiliated.) they are among the miserable, the cast out, banished from goodness; they are the humiliated ones in this...
+Those who oppose Allah and His Messenger, they will be among those most humiliated (20)Allah has decreed: "Verily, I and My Messengers shall be the victorious." Verily, Allah is All-Powerful, Almighty (21)You will not find any people who believe in Allah and the Last Day, making friendship with those who oppose Allah and His Messenger, even though they were their fathers or their sons or their brothers or their kindred. For such He has written faith in their hearts, and strengthened them with Ruh from Himself. And He will admit them to Gardens under which rivers flow, to dwell therein (forever). Allah is well pleased with them, and they are well pleased with Him. They are the party of Allah. Verily, the party of Allah will be the successful (22)
+
+The Opponents of Allah and His Messenger are the Losers; Allah and His Messenger (ﷺ) shall prevail
+
+Allah the Exalted asserts that the rebellious and stubborn disbelievers who defy Him and His Messenger ﷺ, those who do not embrace the religion and stay away from Truth, are in one area, while the guidance is in another area,
+
+أُولَٰئِكَ فِي الْأَذَلِّينَ
+
+(They will be among those most humiliated.) they are among the miserable, the cast out, banished from goodness; they are the humiliated ones in this life and the Hereafter. Allah said,
+
+كَتَبَ اللَّهُ لَأَغْلِبَنَّ أَنَا وَرُسُلِي ۚ
+
+(Allah has decreed: "Verily, I and My Messengers shall be the victorious.") meaning, He has decreed, written in the First Book, and decided in the decree that He has willed – which can never be resisted, changed or prevented – that final victory is for Him, His Book, His Messengers and the faithful believers, in this life and the Hereafter:
+
+إِنَّ الْعَاقِبَةَ لِلْمُتَّقِينَ
+
+(Surely, the (good) end is for those who have Taqwa.)(11:49),
+
+إِنَّا لَنَنْصُرُ رُسُلَنَا وَالَّذِينَ آمَنُوا فِي الْحَيَاةِ الدُّنْيَا وَيَوْمَ يَقُومُ الْأَشْهَادُ - يَوْمَ لَا يَنْفَعُ الظَّالِمِينَ مَعْذِرَتُهُمْ ۖ وَلَهُمُ اللَّعْنَةُ وَلَهُمْ سُوءُ الدَّارِ
+
+(Verily, We will indeed make victorious Our Messengers and those who believe in the life of this world and on the Day when the witnesses will stand forth, the Day when their excuses will be of no profit to the wrongdoers. Theirs will be the curse, and theirs will be the evil abode.)(40:51-52) Allah said here,
+
+كَتَبَ اللَّهُ لَأَغْلِبَنَّ أَنَا وَرُسُلِي ۚ إِنَّ اللَّهَ قَوِيٌّ عَزِيزٌ
+
+(Allah has decreed: "Verily, I and My Messengers shall be the victorious." Verily, Allah is All-Powerful, Almighty.) meaning, the Almighty, All-Powerful has decreed that He shall prevail over His enemies. Indeed, this is the final judgement and a matter ordained; the final triumph and victory are for the believers in this life and the Hereafter.
+
+The Believers do not befriend the Disbelievers
+
+Allah the Exalted said,
+
+لَا تَجِدُ قَوْمًا يُؤْمِنُونَ بِاللَّهِ وَالْيَوْمِ الْآخِرِ يُوَادُّونَ مَنْ حَادَّ اللَّهَ وَرَسُولَهُ وَلَوْ كَانُوا آبَاءَهُمْ أَوْ أَبْنَاءَهُمْ أَوْ إِخْوَانَهُمْ أَوْ عَشِيرَتَهُمْ ۚ
+
+(You will not find any people who believe in Allah and the Last Day, making friendship with those who oppose Allah and His Messenger, even though they were their fathers or their sons or their brothers or their kindred.) Meaning, do not befriend the deniers, even if they are among the closest relatives. Allah said,
+
+لَا يَتَّخِذِ الْمُؤْمِنُونَ الْكَافِرِينَ أَوْلِيَاءَ مِنْ دُونِ الْمُؤْمِنِينَ ۖ وَمَنْ يَفْعَلْ ذَٰلِكَ فَلَيْسَ مِنَ اللَّهِ فِي شَيْءٍ إِلَّا أَنْ تَتَّقُوا مِنْهُمْ تُقَاةً ۗ وَيُحَذِّرُكُمُ اللَّهُ نَفْسَهُ ۗ
+
+(Let not the believers take the disbelievers as friends instead of the believers, and whoever does that will never be helped by Allah in any way, except if you indeed fear a danger from them. And Allah warns you against Himself.)(3:28), and,
+
+قُلْ إِنْ كَانَ آبَاؤُكُمْ وَأَبْنَاؤُكُمْ وَإِخْوَانُكُمْ وَأَزْوَاجُكُمْ وَعَشِيرَتُكُمْ وَأَمْوَالٌ اقْتَرَفْتُمُوهَا وَتِجَارَةٌ تَخْشَوْنَ كَسَادَهَا وَمَسَاكِنُ تَرْضَوْنَهَا أَحَبَّ إِلَيْكُمْ مِنَ اللَّهِ وَرَسُولِهِ وَجِهَادٍ فِي سَبِيلِهِ فَتَرَبَّصُوا حَتَّىٰ يَأْتِيَ اللَّهُ بِأَمْرِهِ ۗ وَاللَّهُ لَا يَهْدِي الْقَوْمَ الْفَاسِقِينَ
+
+(Say: If your fathers, your sons, your brothers, your wives, your kindred, the wealth that you have gained, the commerce in which you fear a decline, and the dwellings in which you delight are dearer to you than Allah and His Messenger, and striving hard and fighting in His cause, then wait until Allah brings about His decision (torment). And Allah guides not the people who are the rebellious.)(9:24)
+
+Sa'id bin 'Abdul-'Aziz and others said that this Ayah,
+
+لَا تَجِدُ قَوْمًا يُؤْمِنُونَ بِاللَّهِ وَالْيَوْمِ الْآخِرِ
+
+(You will not find any people who believe in Allah and the Last Day...) was revealed in the case of Abu 'Ubaydah 'Amir bin 'Abdullah bin Al-Jarrah when he killed his disbelieving father, during the battle of Badr. This is why when 'Umar bin Al-Khattab placed the matter of Khilafah in the consultation of six men after him, he said; "If Abu 'Ubaydah were alive, I would have appointed him the Khalifah." It was also said that the Ayah,
+
+وَلَوْ كَانُوا آبَاءَهُمْ
+
+(even though they were their fathers), was revealed in the case of Abu 'Ubaydah, when he killed his father during the battle of Badr, while the Ayah,
+
+أَوْ أَبْنَاءَهُمْ
+
+(or their sons) was revealed in the case of Abu Bakr As-Siddiq when he intended to kill his (disbelieving) son, 'Abdur-Rahman, (during Badr), while the Ayah,
+
+أَوْ إِخْوَانَهُمْ
+
+(or their brothers) was revealed about the case of Mus'ab bin 'Umayr, who killed his brother, 'Ubayd bin 'Umayr, during Badr, and that the Ayah,
+
+أَوْ عَشِيرَتَهُمْ
+
+(or their kindred) was revealed about the case of 'Umar, who killed one of his relatives during Badr, and also that this Ayah was revealed in the case of Hamzah, 'Ali and Ubaydah bin Al-Harith. They killed their close relatives 'Utbah, Shaybah and Al-Walid bin 'Utbah that day. Allah knows best.
+
+A similar matter is when Allah's Messenger ﷺ consulted with his Companions about what should be done with the captives of Badr. Abu Bakr As-Siddiq thought that they should accept ransom for them so the Muslims could use the money to strengthen themselves. He mentioned the fact that the captured were the cousins and the kindred, and that they might embrace Islam later on, by Allah's help. 'Umar said, "But I have a different opinion, O Allah's Messenger! Let me kill so-and-so, my relative, and let 'Ali kill 'Aqil ('Ali's brother), and so-and-so kill so-and-so. Let us make it known to Allah that we have no mercy in our hearts for the idolators." Allah said,
+
+أُولَٰئِكَ كَتَبَ فِي قُلُوبِهِمُ الْإِيمَانَ وَأَيَّدَهُمْ بِرُوحٍ مِنْهُ ۖ
+
+(For such He has written faith in their hearts, and strengthened them with Ruh from Himself.) means, those who have the quality of not befriending those who oppose Allah and His Messenger ﷺ, even if they are their fathers or brothers, are those whom Allah has decreed faith, meaning, happiness, in their hearts and made faith dear to their hearts and happiness reside therein. As-Suddi said that the Ayah,
+
+كَتَبَ فِي قُلُوبِهِمُ الْإِيمَانَ
+
+(He has written faith in their hearts,) means, "He has placed faith in their hearts." Ibn 'Abbas said that,
+
+وَأَيَّدَهُمْ بِرُوحٍ مِنْهُ
+
+(and strengthened them with Ruh from Himself.) means, "He gave them strengths." Allah's statement,
+
+وَيُدْخِلُهُمْ جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا ۚ رَضِيَ اللَّهُ عَنْهُمْ وَرَضُوا عَنْهُ ۚ
+
+(And He will admit them to Gardens under which rivers flow, to dwell therein. Allah is well pleased with them, and they are well pleased with Him.) was explained several times before. Allah's statement,
+
+رَضِيَ اللَّهُ عَنْهُمْ وَرَضُوا عَنْهُ ۚ
+
+(Allah is well pleased with them, and they are well pleased with Him.) contains a beautiful secret. When the believers became enraged against their relatives and kindred in Allah's cause, He compensated them by being pleased with them and making them pleased with Him from what He has granted them of eternal delight, ultimate victory and encompassing favor. Allah's statement,
+
+أُولَٰئِكَ حِزْبُ اللَّهِ ۚ أَلَا إِنَّ حِزْبَ اللَّهِ هُمُ الْمُفْلِحُونَ
+
+(They are the party of Allah. Verily, the party of Allah will be the successful.) indicates that they are the party of Allah, meaning, His servants who are worthy of earning His honor. Allah's statement,
+
+أَلَا إِنَّ حِزْبَ اللَّهِ هُمُ الْمُفْلِحُونَ
+
+(Verily, the party of Allah will be the successful.) asserts their success, happiness and triumph in this life and the Hereafter, in contrast to those, who are the party of the devil,
+
+أَلَا إِنَّ حِزْبَ الشَّيْطَانِ هُمُ الْخَاسِرُونَ
+
+(Verily, the party of Shaytan will be the losers!)(58:19)
+
+This is the end of the Tafsir of Surat Al-Mujadilah. All praise and thanks are due to Allah.
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله تعالى :  لا تَجِدُ قَوْمًا يُؤْمِنُونَ بِاللَّهِ وَالْيَوْمِ الآخِرِ يُوَادُّونَ مَنْ حَادَّ اللَّهَ وَرَسُولَهُ وَلَوْ كَانُوا آبَاءَهُمْ أَوْ أَبْنَاءَهُمْ أَوْ إِخْوَانَهُمْ أَوْ عَشِيرَتَهُمْ أُولَئِكَ كَتَبَ فِي قُلُوبِهِمُ الإِيمَانَ وَأَيَّدَهُمْ بِرُوحٍ مِنْهُ وَيُدْخِلُهُمْ جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الأَنْهَارُ خَالِدِينَ فِيهَا رَضِيَ اللَّهُ عَنْهُمْ وَرَضُوا عَنْهُ أُولَئِكَ حِزْبُ اللَّهِ أَلا إِنَّ حِزْبَ اللَّهِ هُمُ الْمُفْلِحُونَ (22)يعني جلّ ثناؤه ب...
+القول في تأويل قوله تعالى: ﴿لا تَجِدُ قَوْمًا يُؤْمِنُونَ بِاللَّهِ وَالْيَوْمِ الآخِرِ يُوَادُّونَ مَنْ حَادَّ اللَّهَ وَرَسُولَهُ وَلَوْ كَانُوا آبَاءَهُمْ أَوْ أَبْنَاءَهُمْ أَوْ إِخْوَانَهُمْ أَوْ عَشِيرَتَهُمْ أُولَئِكَ كَتَبَ فِي قُلُوبِهِمُ الإيمَانَ وَأَيَّدَهُمْ بِرُوحٍ مِنْهُ وَيُدْخِلُهُمْ جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الأنْهَارُ خَالِدِينَ فِيهَا رَضِيَ اللَّهُ عَنْهُمْ وَرَضُوا عَنْهُ أُولَئِكَ حِزْبُ اللَّهِ أَلا إِنَّ حِزْبَ اللَّهِ هُمُ الْمُفْلِحُونَ (٢٢) ﴾
+
+يعني جلّ ثناؤه بقوله: ﴿لا تَجِدُ قَوْمًا يُؤْمِنُونَ بِاللَّهِ وَالْيَوْمِ الآخِرِ يُوَادُّونَ مَنْ حَادَّ اللَّهَ وَرَسُولَهُ﴾ لا تجد يا محمد قومًا يصدّقون الله، ويقرّون باليوم الآخر يوادّون من حادّ الله ورسوله وشاقَّهما وخالف أمر الله ونهيه ﴿وَلَوْ كَانُوا آبَاءَهُمْ﴾ يقول: ولو كان الذين حادّوا الله ورسوله آباءهم ﴿أَوْ أَبْنَاءَهُمْ أَوْ إِخْوَانَهُمْ أَوْ عَشِيرَتَهُمْ﴾ وإنما أخبر الله جلّ ثناؤه نبيه عليه الصلاة والسلام بهذه الآية ﴿أَلَمْ تَرَ إِلَى الَّذِينَ تَوَلَّوْا قَوْمًا غَضِبَ اللَّهُ عَلَيْهِمْ﴾ ليسوا من أهل الإيمان بالله ولا باليوم الآخر، فلذلك تولَّوُا الذين تولَّوْهم من اليهود.
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: ﴿لا تَجِدُ قَوْمًا يُؤْمِنُونَ بِاللَّهِ وَالْيَوْمِ الآخِرِ يُوَادُّونَ مَنْ حَادَّ اللَّهَ وَرَسُولَهُ﴾ لا تجد يا محمد قومًا يؤمنون بالله واليوم الآخر، يوادّون من حادّ الله ورسوله: أي من عادى الله ورسولَه.
+
+* *
+
+وقوله: ﴿أُولَئِكَ كَتَبَ فِي قُلُوبِهِمُ الإيمَانَ﴾
+
+يقول جلّ ثناؤه: هؤلاء الذين لا يوادّون من حادّ الله ورسوله ولو كانوا آباءهم، أو أبناءهم، أو إخوانهم، أو عشيرتهم، كتب الله في قلوبهم الإيمان. وإنما عُنِي بذلك: قضى لقلوبهم الإيمان، ففي بمعنى اللام، وأخبر تعالى ذكره أنه كتب في قلوبهم الإيمان لهم، وذلك لمَّا كان الإيمان بالقلوب، وكان معلومًا بالخبر عن القلوب أن المراد به أهلها، اجتزى بذكرها مِنْ ذكر أهلها.
+
+* *
+
+وقوله: ﴿وَأَيَّدَهُمْ بِرُوحٍ مِنْهُ﴾
+
+يقول: وقوّاهم ببرهان منه ونور وهدى ﴿وَيُدْخِلُهُمْ جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الأنْهَارُ﴾ يقول: ويدخلهم بساتين تجري من تحت أشجارها الأنهار ﴿خَالِدِينَ فِيهَا﴾ يقول: ماكثين فيها أبدا ﴿رَضِيَ اللَّهُ عَنْهُمْ﴾ بطاعتهم إياه في الدنيا ﴿وَرَضُوا عَنْهُ﴾ في الآخرة بإدخاله إياهم الجنة ﴿أُولَئِكَ حِزْبُ اللَّهِ﴾ يقول: أولئك الذين هذه صفتهم جند الله وأولياؤه ﴿أَلا إِنَّ حِزْبَ اللَّهِ﴾ يقول: ألا إن جند الله وأولياءه ﴿هُمُ الْمُفْلِحُونَ﴾ يقول: هم الباقون المُنْجحون بإدراكهم ما طلبوا، والتمسوا ببيعتهم في الدنيا، وطاعتهم ربهم.
+
+آخر تفسير سورة المجادلة
 
 ### al-Muyassar (Arabic)
 
-لا تجد -أيها الرسول- قومًا يصدِّقون بالله واليوم الآخر، ويعملون بما شرع الله لهم، يحبون ويوالون مَن عادى الله ورسوله وخالف أمرهما، ولو كانوا آباءهم أو أبناءهم أو إخوانهم أو أقرباءهم، أولئك الموالون في الله والمعادون فيه ثَبَّتَ في قلوبهم الإيمان، وقوَّاهم بنصر منه وتأييد على عدوهم في الدنيا، ويدخلهم في الآخرة جنات تجري من تحت أشجارها الأنهار، ماكثين فيها زمانًا ممتدًا لا ينقطع، أحلَّ الله عليهم رضوانه فلا يسخط عليهم، ورضوا عن ربهم بما أعطاهم من الكرامات ورفيع الدرجات، أولئك حزب الله وأولياؤه،...
+لا تجد -أيها الرسول- قومًا يصدِّقون بالله واليوم الآخر، ويعملون بما شرع الله لهم، يحبون ويوالون مَن عادى الله ورسوله وخالف أمرهما، ولو كانوا آباءهم أو أبناءهم أو إخوانهم أو أقرباءهم، أولئك الموالون في الله والمعادون فيه ثبَّت في قلوبهم الإيمان، وقوّاهم بنصر منه وتأييد على عدوهم في الدنيا، ويدخلهم في الآخرة جنات تجري من تحت قصورها وأشجارها الأنهار، ماكثين فيها زمانًا ممتدًّا لا ينقطع، أحلَّ الله عليهم رضوانه فلا يسخط عليهم، ورضوا عن ربهم بما أعطاهم من الكرامات ورفيع الدرجات، أولئك حزب الله وأولياؤه، وأولئك هم الفائزون بسعادة الدنيا والآخرة.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿لا تَجِد قَوْمًا يُؤْمِنُونَ بِاللَّهِ واليَوْم الآخِر يُوادُّونَ﴾ يُصادِقُونَ ﴿مَن حادَّ اللَّه ورَسُوله ولَوْ كانُوا﴾ أيْ المُحادُّونَ ﴿آباءَهُمْ﴾ أيْ المُؤْمِنِينَ ﴿أوْ أبْناءَهُمْ أوْ إخْوانهمْ أوْ عَشِيرَتهمْ﴾ بَلْ يَقْصِدُونَهُمْ بِالسُّوءِ ويُقاتِلُونَهُمْ عَلى الإيمان كَما وقَعَ لِجَماعَةٍ مِن الصَّحابَة رَضِيَ اللَّه عَنْهُمْ ﴿أُولَئِكَ﴾ الَّذِينَ لا يُوادُّونَهُمْ ﴿كَتَبَ﴾ أثْبَتَ ﴿فِي قُلُوبهمْ الإيمان وأَيَّدَهُمْ بِرُوحٍ﴾ بِنُورٍ ﴿مِنهُ﴾ تَعالى ﴿ويُدْخِلُهُمْ جَنّات تَجْرِي مِن تَحْتها الأَنْهار خالِدِينَ فِيها رَضِيَ اللَّه عَنْهُمْ﴾ بِطاعَتِهِ ﴿ورَضُوا عَنْهُ﴾ بِثَوابِهِ ﴿أُولَئِكَ حِزْب اللَّه﴾ يَتَّبِعُونَ أمْره ويَجْتَنِبُونَ نَهْيه ﴿ألا إنّ حِزْب اللَّه هُمْ المُفْلِحُونَ﴾ الفائِزُونَ
 
 ---
 
@@ -169,23 +1142,153 @@ Allah and His Messenger shall prevail Allah the Exalted asserts that the rebelli
 
 ### Ibn Kathir (English)
 
+Indeed there has been an excellent example for you in Ibrahim and those with him, when they said to their people: "Verily, we are free from you and whatever you worship besides Allah, we have rejected you, and there has started between us and you, hostility and hatred forever until you believe in Allah alone," – except the saying of Ibrahim to his father: "Verily, I will ask forgiveness for you, but I have no power to do anything for you before Allah." "Our Lord! In You we put our trust, and to You we turn in repentance, and to You is the final Return. (4)"Our Lord! Make us not a trial for the disbelievers, and forgive us, Our Lord! Verily, You, only You, are the Almighty, the All-Wise. (5)Certainly, there has been in them an excellent example for you to follow – for those who look forward to (the meeting with) Allah and the Last Day. And whosoever turns away, then verily, Allah is Al-Ghani, Al-Hamid (6)
+
 The Good Example of Ibrahim and His Followers, when They disowned Their Disbelieving People
+
 Allah the Exalted says to His faithful servants, whom He commanded to disown the disbelievers, to be enemies with them, and to distant themselves and separate from them:
-قَدْ كَانَتْ لَكُمْ أُسْوَةٌ حَسَنَةٌ فِى إِبْرَهِيمَ وَالَّذِينَ مَعَهُ
+
+قَدْ كَانَتْ لَكُمْ أُسْوَةٌ حَسَنَةٌ فِي إِبْرَاهِيمَ وَالَّذِينَ مَعَهُ
+
 (Indeed there has been an excellent example for you in Ibrahim and those with him,) meaning, his followers who believed in him,
-إِذْ قَالُواْ لِقَوْمِهِمْ إِنَّا ...
+
+إِذْ قَالُوا لِقَوْمِهِمْ إِنَّا بُرَآءُ مِنْكُمْ
+
+(when they said to their people: "Verily we are free from you...") meaning, 'we disown you,'
+
+وَمِمَّا تَعْبُدُونَ مِنْ دُونِ اللَّهِ كَفَرْنَا بِكُمْ
+
+(and whatever you worship besides Allah: we rejected you,) meaning, 'we disbelieve in your religion and way,'
+
+وَبَدَا بَيْنَنَا وَبَيْنَكُمُ الْعَدَاوَةُ وَالْبَغْضَاءُ أَبَدًا
+
+(and there has started between us and you, hostility and hatred forever) meaning, 'Animosity and enmity have appeared between us and you from now and as long as you remain on your disbelief; we will always disown you and hate you,'
+
+حَتَّىٰ تُؤْمِنُوا بِاللَّهِ وَحْدَهُ
+
+(until you believe in Allah alone,) meaning, 'unless, and until, you worship Allah alone without partners and disbelieve in the idols and rivals that you worship besides Him.' Allah's statement,
+
+إِلَّا قَوْلَ إِبْرَاهِيمَ لِأَبِيهِ لَأَسْتَغْفِرَنَّ لَكَ
+
+(except the saying of Ibrahim to his father: "Verily, I will ask forgiveness (from Allah) for you...") means, 'you have a good example in Ibrahim and his people; as for Ibrahim's prayers for Allah his father, it was a promise that he made for his father.' When Ibrahim became sure that his father was an enemy of Allah, he declared himself innocent of him.
+
+Some of the believers used to invoke Allah for their parents who died as disbelievers, begging Him to forgive them. They did so claiming that Ibrahim used to invoke Allah to forgive his father. Allah the Exalted said in reply,
+
+مَا كَانَ لِلنَّبِيِّ وَالَّذِينَ آمَنُوا أَنْ يَسْتَغْفِرُوا لِلْمُشْرِكِينَ وَلَوْ كَانُوا أُولِي قُرْبَىٰ مِنْ بَعْدِ مَا تَبَيَّنَ لَهُمْ أَنَّهُمْ أَصْحَابُ الْجَحِيمِ - وَمَا كَانَ اسْتِغْفَارُ إِبْرَاهِيمَ لِأَبِيهِ إِلَّا عَنْ مَوْعِدَةٍ وَعَدَهَا إِيَّاهُ فَلَمَّا تَبَيَّنَ لَهُ أَنَّهُ عَدُوٌّ لِلَّهِ تَبَرَّأَ مِنْهُ ۚ إِنَّ إِبْرَاهِيمَ لَأَوَّاهٌ حَلِيمٌ
+
+(It is not for the Prophet and those who believe to ask Allah's forgiveness for the idolators, even though they be of kin, after it has become clear to them that they are the dwellers of the Fire (because they died in a state of disbelief). And Ibrahim's request for his father's forgiveness was only because of a promise he made to him .But when it became clear to him that he was an enemy of Allah, he dissociated himself from him. Verily, Ibrahim was Awwah and was forbearing.)(9:113-114) Allah said here,
+
+قَدْ كَانَتْ لَكُمْ أُسْوَةٌ حَسَنَةٌ فِي إِبْرَاهِيمَ وَالَّذِينَ مَعَهُ إِذْ قَالُوا لِقَوْمِهِمْ إِنَّا بُرَآءُ مِنْكُمْ
+
+(Indeed there has been an excellent example for you in Ibrahim and those with him, when they said to their people: "Verily, we are free from you...") until,
+
+إِلَّا قَوْلَ إِبْرَاهِيمَ لِأَبِيهِ لَأَسْتَغْفِرَنَّ لَكَ وَمَا أَمْلِكُ لَكَ مِنَ اللَّهِ مِنْ شَيْءٍ
+
+(... except the saying of Ibrahim to his father: "Verily, I will ask forgiveness for you, but I have no power to do anything for you before Allah.") meaning, 'You cannot follow Ibrahim's example as proof in the case mentioned here, as being allowed to ask Allah to forgive those who died on Shirk.' This is the saying of Ibn 'Abbas, Mujahid, Qatadah, Muqatil bin Hayyan, Ad-Dahhak and several others.
+
+Allah the Exalted said that Ibrahim and his companions, who parted with their people and disowned their way, said afterwards, while invoking Allah in humility and submission,
+
+رَبَّنَا عَلَيْكَ تَوَكَّلْنَا وَإِلَيْكَ أَنَبْنَا وَإِلَيْكَ الْمَصِيرُ
+
+(Our Lord! In You we put our trust, and to You we turn in repentance, and to You is the final Return.) meaning, 'we trust in You for all matters, we surrender all of our affairs to You, and to You is the final Return in the Hereafter,'
+
+رَبَّنَا لَا تَجْعَلْنَا فِتْنَةً لِلَّذِينَ كَفَرُوا
+
+(Our Lord! Make us not a trial for the disbelievers,) Mujahid said, "It means, 'Do not punish us by their hands, nor with a punishment from You.' Or they will say, 'Had these people been following the truth, the torment would not have struck them'." Ad-Dahhak said something similar. Qatadah said, "Do not give the disbelievers victory over us, thus subjecting us to trials by their hands. Surely, if You do so, they would then think that they were given victory over us because they are on the truth." This is the meaning that Ibn Jarir preferred. 'Ali bin Abi Talhah reported from Ibn 'Abbas: "Do not give them dominance over us, lest we suffer trials by their hands." Allah's statement,
+
+وَاغْفِرْ لَنَا رَبَّنَا ۖ إِنَّكَ أَنْتَ الْعَزِيزُ الْحَكِيمُ
+
+(and forgive us, Our Lord! Verily, You, only You, are the Almighty, the All-Wise.) means, 'cover our mistakes from being exposed to other than You, and forgive us for what (sin) is between us and You.'
+
+إِنَّكَ أَنْتَ الْعَزِيزُ
+
+(Verily, You, only You, are the Almighty,) 'and those who seek refuge in Your majesty are never dealt with unjustly,'
+
+الْحَكِيمُ
+
+(the All-Wise.) 'in Your statements, actions, legislation and decrees.' Allah the Exalted said,
+
+لَقَدْ كَانَ لَكُمْ فِيهِمْ أُسْوَةٌ حَسَنَةٌ لِمَنْ كَانَ يَرْجُو اللَّهَ وَالْيَوْمَ الْآخِرَ ۚ
+
+(Certainly, there has been in them an excellent example for you to follow – for those who look forward to (the meeting with) Allah and the Last Day.) asserting what He has said before with the exemption mentioned, i.e., the good example that Allah mentioned before,
+
+لِمَنْ كَانَ يَرْجُو اللَّهَ وَالْيَوْمَ الْآخِرَ
+
+(for those who look forward to Allah and the Last Day.) thus encouraging the believers who believe in Allah and the Return to Him. Allah said,
+
+وَمَنْ يَتَوَلَّ
+
+(And whosoever turns away) meaning, from what Allah has ordained,
+
+فَإِنَّ اللَّهَ هُوَ الْغَنِيُّ الْحَمِيدُ
+
+(verily, Allah is Al-Ghani, Al-Hamid.) Allah said in another Ayah,
+
+إِنْ تَكْفُرُوا أَنْتُمْ وَمَنْ فِي الْأَرْضِ جَمِيعًا فَإِنَّ اللَّهَ لَغَنِيٌّ حَمِيدٌ
+
+(If you disbelieve, you and all on the earth together, then verily! Allah is Ghani, Hamid.)(14:8) 'Ali bin Talhah reported from Ibn 'Abbas,
+
+لَغَنِيٌّ
+
+"(Ghani) is the One Who is perfectly rich." That is Allah. This is Allah's attribute that He alone is worthy of being described by; surely, He has no equal, none like unto Him. All praise is due to Allah, the One, the Irresistible.
+
+حَمِيدٌ
+
+(Hamid) means, the praiseworthy, in all His statements and actions, there is no (true) God except Him alone.
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله تعالى :  قَدْ كَانَتْ لَكُمْ أُسْوَةٌ حَسَنَةٌ فِي إِبْرَاهِيمَ وَالَّذِينَ مَعَهُ إِذْ قَالُوا لِقَوْمِهِمْ إِنَّا بُرَآءُ مِنْكُمْ وَمِمَّا تَعْبُدُونَ مِنْ دُونِ اللَّهِ كَفَرْنَا بِكُمْ وَبَدَا بَيْنَنَا وَبَيْنَكُمُ الْعَدَاوَةُ وَالْبَغْضَاءُ أَبَدًا حَتَّى تُؤْمِنُوا بِاللَّهِ وَحْدَهُ إِلا قَوْلَ إِبْرَاهِيمَ لأَبِيهِ لأَسْتَغْفِرَنَّ لَكَ وَمَا أَمْلِكُ لَكَ مِنَ اللَّهِ مِنْ شَيْءٍ رَبَّنَا عَلَيْكَ تَوَكَّلْنَا وَإِلَيْكَ أَنَبْنَا وَإِلَيْكَ الْمَصِيرُ (4)يقول ...
+القول في تأويل قوله تعالى: ﴿قَدْ كَانَتْ لَكُمْ أُسْوَةٌ حَسَنَةٌ فِي إِبْرَاهِيمَ وَالَّذِينَ مَعَهُ إِذْ قَالُوا لِقَوْمِهِمْ إِنَّا بُرَآءُ مِنْكُمْ وَمِمَّا تَعْبُدُونَ مِنْ دُونِ اللَّهِ كَفَرْنَا بِكُمْ وَبَدَا بَيْنَنَا وَبَيْنَكُمُ الْعَدَاوَةُ وَالْبَغْضَاءُ أَبَدًا حَتَّى تُؤْمِنُوا بِاللَّهِ وَحْدَهُ إِلا قَوْلَ إِبْرَاهِيمَ لأبِيهِ لأسْتَغْفِرَنَّ لَكَ وَمَا أَمْلِكُ لَكَ مِنَ اللَّهِ مِنْ شَيْءٍ رَبَّنَا عَلَيْكَ تَوَكَّلْنَا وَإِلَيْكَ أَنَبْنَا وَإِلَيْكَ الْمَصِيرُ (٤) ﴾
+
+يقول تعالى ذكره للمؤمنين به من أصحاب رسول الله ﷺ: قد كان لكم أيها المؤمنون أُسوة حسنة: يقول: قدوة حسنة في إبراهيم خليل الرحمن، تقتدون به، والذين معه من أنبياء الله.
+
+كما:-
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد في قول الله عزّ وجلّ: ﴿قَدْ كَانَتْ لَكُمْ أُسْوَةٌ حَسَنَةٌ فِي إِبْرَاهِيمَ وَالَّذِينَ مَعَهُ﴾ قال: الذين معه الأنبياء.
+
+* *
+
+وقوله: ﴿إِذْ قَالُوا لِقَوْمِهِمْ إِنَّا بُرَآءُ مِنْكُمْ وَمِمَّا تَعْبُدُونَ مِنْ دُونِ اللَّهِ﴾
+
+يقول: حين قالوا لقومهم الذين كفروا بالله، وعبدوا الطاغوت: أيها القوم إنا برآء منكم، ومن الذين تعبدون من دون الله من الآلهة والأنداد.
+
+* *
+
+وقوله: ﴿كَفَرْنَا بِكُمْ وَبَدَا بَيْنَنَا وَبَيْنَكُمُ الْعَدَاوَةُ وَالْبَغْضَاءُ أَبَدًا حَتَّى تُؤْمِنُوا بِاللَّهِ وَحْدَهُ﴾
+
+يقول جلّ ثناؤه مخبرا عن قيل أنبيائه لقومهم الكفرة: كفرنا بكم، أنكرنا ما كنتم عليه من الكفر بالله وجحدنا عبادتكم ما تعبدون من دون الله أن تكون حقًّا، وظهر بيننا وبينكم العداوة والبغضاء أبدًا على كفركم بالله، وعبادتكم ما سواه، ولا صلح بيننا ولا هوادة، حتى تؤمنوا بالله وحده، يقول: حتى تصدّقوا بالله وحده، فتوحدوه، وتفردوه بالعبادة.
+
+وقوله: (إِلا قَوْلَ إِبْرَاهِيمَ لأبِيهِ لأسْتَغْفِرَنَّ لَكَ وَمَا أَمْلِكُ لَكَ مِنَ اللَّهِ مِنْ شَيْءٍ) يقول تعالى ذكره: قد كانت لكم أُسوة حسنة في إبراهيم والذين معه في هذه الأمور التي ذكرناها من مباينة الكفار ومعاداتهم، وترك موالاتهم إلا في قول إبراهيم لأبيه ﴿لأسْتَغْفِرَنَّ لَكَ﴾ فإنه لا أسوة لكم فيه في ذلك، لأن ذلك كان من إبراهيم لأبيه عن موعدة وعدها إياه قبل أن يتبين له أنه عدوّ الله؛ فلما تبين له أنه عدوّ لله تبرأ منه. يقول تعالى ذكره: فكذلك أنتم أيها المؤمنون بالله، فتبرّءوا من أعداء الله من المشركين به ولا تتخذوا منهم أولياء حتى يؤمنوا بالله وحده ويتبرّءوا عن عبادة ما سواه وأظهروا لهم العداوة والبغضاء.
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى؛ وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء، جميعًا، عن ابن أبي نجيح، عن مجاهد ﴿إِلا قَوْلَ إِبْرَاهِيمَ لأبِيهِ﴾ قال: نُهُوا أن يتأسَّوْا باستغفار إبراهيم لأبيه، فيستغفروا للمشركين.
+
+⁕ حدثنا ابن حُمَيد، قال: ثنا مهران، عن سفيان، عن أبي جعفر، عن مطرَّف الحارثي، عن مجاهد: ﴿أُسْوَةٌ حَسَنَةٌ فِي إِبْرَاهِيمَ﴾ ... إلى قوله: ﴿لأسْتَغْفِرَنَّ لَكَ﴾ يقول: في كلّ أمره أسوة، إلا الاستغفار لأبيه.
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: ﴿قَدْ كَانَتْ لَكُمْ أُسْوَةٌ حَسَنَةٌ فِي إِبْرَاهِيمَ﴾ ... الآية، ائتسوا به في كلّ شيء، ما خلا قوله لأبيه: ﴿لأسْتَغْفِرَنَّ لَكَ﴾ فلا تأتسوا بذلك منه، فإنها كانت عن موعدة وعدها إياه.
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة، في قوله: ﴿إِلا قَوْلَ إِبْرَاهِيمَ لأبِيهِ﴾ يقول: لا تأسوا بذلك فإنه كان عليه موعدًا، وتأسوا بأمره كله.
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قول الله عزّ وجلّ: ﴿قَدْ كَانَتْ لَكُمْ أُسْوَةٌ حَسَنَةٌ﴾ ... إلى قوله: ﴿إِلا قَوْلَ إِبْرَاهِيمَ لأبِيهِ لأسْتَغْفِرَنَّ لَكَ﴾ قال: يقول: ليس لكم في هذا أسوة.
+
+ويعني بقوله: ﴿وَمَا أَمْلِكُ لَكَ مِنَ اللَّهِ مِنْ شَيْءٍ﴾ يقول: وما أدفع عنك من الله من عقوبة، إن الله عاقبك على كفرك به، ولا أُغْنِي عنك منه شيئًا.
+
+* *
+
+وقوله: ﴿رَبَّنَا عَلَيْكَ تَوَكَّلْنَا﴾
+
+يقول جلّ ثناؤه مخبرًا عن قيل إبراهيم وأنبيائه صلوات الله عليهم: ﴿رَبَّنَا عَلَيْكَ تَوَكَّلْنَا وَإِلَيْكَ أَنَبْنَا﴾ يعني: وإليك رجعنا بالتوبة مما تكره إلى ما تحب وترضى ﴿وَإِلَيْكَ الْمَصِيرُ﴾ يقول: وإليك مصيرنا ومرجعنا يوم تبعثنا من قبورنا، وتحشرنا في القيامة إلى موقف العَرْض.
 
 ### al-Muyassar (Arabic)
 
-قد كانت لكم-أيها المؤمنون- قدوة حسنة في إبراهيم عليه السلام والذين معه من المؤمنين، حين قالوا لقومهم الكافرين بالله: إنا بريئون منكم وممَّا تعبدون من دون الله من الآلهة والأنداد، كفرنا بكم، وأنكرنا ما أنتم عليه من الكفر، وظهر بيننا وبينكم العداوة والبغضاء أبدًا ما دمتم على كفركم، حتى تؤمنوا بالله وحده، لكن لا يدخل في الاقتداء استغفار إبراهيم لأبيه؛ فإن ذلك إنما كان قبل أن يتبين لإبراهيم أن أباه عدو لله، فلما تبين له أنه عدو لله تبرأ منه، ربنا عليك اعتمدنا، وإليك رجعنا بالتوبة، وإليك المرجع يو...
+قد كانت لكم -أيها المؤمنون- قدوة حسنة في إبراهيم عليه السلام والذين معه من المؤمنين، حين قالوا لقومهم الكافرين بالله: إنا بريئون منكم وممّا تعبدون من دون الله من الآلهة والأنداد، كفرنا بكم، وأنكرنا ما أنتم عليه من الكفر، وظهر بيننا وبينكم العداوة والبغضاء أبدًا ما دمتم على كفركم، حتى تؤمنوا بالله وحده، لكن لا يدخل في الاقتداء استغفار إبراهيم لأبيه؛ فإن ذلك إنما كان قبل أن يتبين لإبراهيم أن أباه عدو لله، فلما تبين له أنه عدو لله تبرأ منه، ربنا عليك اعتمدنا، وإليك رجعنا بالتوبة، وإليك المرجع يوم القيامة.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿قَدْ كانَتْ لَكُمْ إسْوَة﴾ بِكَسْرِ الهَمْزَة وضَمّها فِي المَوْضِعَيْنِ قُدْوَة ﴿حَسَنَة فِي إبْراهِيم﴾ أيْ بِهِ قَوْلًا وفِعْلًا ﴿والَّذِينَ مَعَهُ﴾ مِن المُؤْمِنِينَ ﴿إذْ قالُوا لِقَوْمِهِمْ إنّا بُرَآء﴾ جَمْع بَرِيء كَظَرِيفٍ ﴿مِنكُمْ ومِمّا تَعْبُدُونَ مِن دُون اللَّه كَفَرْنا بِكُمْ﴾ أنْكَرْناكُمْ ﴿وبَدا بَيْننا وبَيْنكُمْ العَداوَة والبَغْضاء أبَدًا﴾ بِتَحْقِيقِ الهَمْزَتَيْنِ وإبْدال الثّانِيَة واوًا ﴿حَتّى تُؤْمِنُوا بِاللَّهِ وحْده إلّا قَوْل إبْراهِيم لِأَبِيهِ لَأَسْتَغْفِرَن لَك﴾ مُسْتَثْنى مِن أُسْوَة فَلَيْسَ لَكُمْ التَّأَسِّي بِهِ فِي ذَلِكَ بِأَنْ تَسْتَغْفِرُوا لِلْكُفّارِ وقَوْله ﴿وما أمْلِك لَك مِن اللَّه﴾ أيْ مِن عَذابه وثَوابه ﴿مِن شَيْء﴾ كَنّى بِهِ عَنْ أنَّهُ لا يَمْلِك لَهُ غَيْر الِاسْتِغْفار فَهُوَ مَبْنِيّ عَلَيْهِ مُسْتَثْنى مِن حَيْثُ المُراد مِنهُ وإنْ كانَ مِن حَيْثُ ظاهِره مِمّا يُتَأَسّى فِيهِ ﴿قُلْ فَمَن يَمْلِك لَكُمْ مِن اللَّه شَيْئًا﴾ واسْتِغْفاره لَهُ قَبْل أنْ يَتَبَيَّن لَهُ أنَّهُ عَدُوّ لِلَّهِ كَما ذَكَرَهُ فِي "بَراءَة" ﴿رَبّنا عَلَيْك تَوَكَّلْنا وإلَيْك أنَبْنا وإلَيْك المَصِير﴾ مِن مَقُول الخَلِيل ومَن مَعَهُ أيْ قالُوا:
 
 ---
 
@@ -193,18 +1296,136 @@ Allah the Exalted says to His faithful servants, whom He commanded to disown the
 
 ### Ibn Kathir (English)
 
-إِنَّمَا يَنْهَـكُمُ اللَّهُ عَنِ الَّذِينَ قَـتَلُوكُمْ فِى الدِّينِ وَأَخْرَجُوكُم مِّن دِيَـرِكُمْ وَظَـهَرُواْ عَلَى إِخْرَجِكُمْ أَن تَوَلَّوْهُمْ وَمَن يَتَوَلَّهُمْ فَأُوْلَـئِكَ هُمُ الظَّـلِمُونَ
+Perhaps Allah will make friendship between you and those whom you hold as enemies. And Allah has power (over all things), and Allah is Oft-Forgiving, Most Merciful (7)Allah does not forbid you to deal justly and kindly with those who fought not against you on account of religion nor drove you out of your homes. Verily, Allah loves those who deal with equity (8)It is only as regards those who fought against you on account of religion, and have driven you out of your homes, and helped to drive you out, that Allah forbids you to befriend them. And whosoever will befriend them, then such are the wrongdoers (9)
+
+Perhaps Allah will make a Friendship between You and Those, whom You hold as Enemies
+
+Allah said to His faithful servants, after ordering them to be enemies with the disbelievers,
+
+عَسَى اللَّهُ أَنْ يَجْعَلَ بَيْنَكُمْ وَبَيْنَ الَّذِينَ عَادَيْتُمْ مِنْهُمْ مَوَدَّةً ۚ
+
+(Perhaps Allah will make friendship between you and those, whom you hold as enemies.) meaning affection after animosity, tenderness after coldness and coming together after parting from each other,
+
+وَاللَّهُ قَدِيرٌ ۚ
+
+(And Allah has power (over all things),) Allah is able to gather opposites and bring together hearts, after feeling hostility and hardness. In this case, the hearts will come together in agreement, just as Allah said when He mentioned His favor on the Ansar,
+
+وَاذْكُرُوا نِعْمَتَ اللَّهِ عَلَيْكُمْ إِذْ كُنْتُمْ أَعْدَاءً فَأَلَّفَ بَيْنَ قُلُوبِكُمْ فَأَصْبَحْتُمْ بِنِعْمَتِهِ إِخْوَانًا وَكُنْتُمْ عَلَىٰ شَفَا حُفْرَةٍ مِنَ النَّارِ فَأَنْقَذَكُمْ مِنْهَا ۗ
+
+(And remember Allah's favor on you, for you were enemies one to another but He joined your hearts together, so that, by His grace, you became brethren and were on the brink of a pit of Fire, and He saved you from it.)(3:103) Also the Prophet ﷺ said to them,
+
+أَلَمْ أَجِدْكُمْ ضُلَّالًا فَهَدَاكُمُ اللهُ بِي، وَكُنْتُمْ مُتَفَرِّقِينَ فَأَلَّفَكُمُ اللهُ بِي؟
+
+(Did I not find you misguided, and Allah guided you through me; and divided, and Allah united [your hearts] through me?) Allah the Exalted said,
+
+وَإِنْ يُرِيدُوا أَنْ يَخْدَعُوكَ فَإِنَّ حَسْبَكَ اللَّهُ ۚ هُوَ الَّذِي أَيَّدَكَ بِنَصْرِهِ وَبِالْمُؤْمِنِينَ - وَأَلَّفَ بَيْنَ قُلُوبِهِمْ ۚ لَوْ أَنْفَقْتَ مَا فِي الْأَرْضِ جَمِيعًا مَا أَلَّفْتَ بَيْنَ قُلُوبِهِمْ وَلَٰكِنَّ اللَّهَ أَلَّفَ بَيْنَهُمْ ۚ إِنَّهُ عَزِيزٌ حَكِيمٌ
+
+(He it is Who has supported you with His help and with the believers. And He has united their hearts. If you had spent all that is in the earth, you could not have united their hearts, but Allah has united them. Certainly He is Almighty, All-Wise.)(8:62,63) And in the Hadith:
+
+أَحْبِبْ حَبِيبَكَ هَوْنًا مَا، فَعَسَى أَنْ يَكُونَ بَغِيضَكَ يَوْمًا مَا، وَأَبْغِضْ بَغِيضَكَ هَوْنًا مَا، فَعَسَى أَنْ يَكُونَ حَبِيبَكَ يَوْمًا مَا
+
+(Love your loved one moderately, because one day, he might become your enemy. Hate your hated one moderately, because one day, he might become your loved one.) Allah's statement,
+
+وَاللَّهُ غَفُورٌ رَحِيمٌ
+
+(And Allah is Oft-Forgiving, Most Merciful.) means, Allah forgives the disbelief of the disbelievers if they repent from it, returned to their Lord and surrendered to Him in Islam. Surely, He is the Oft-Forgiving, the Most-Merciful to those who repent to Him from their sins, no matter what type of the sin it is.
+
+The Permissibility of being Kind to Disbelievers who do not fight against the Religion
+
+And Allah's statement;
+
+لَا يَنْهَاكُمُ اللَّهُ عَنِ الَّذِينَ لَمْ يُقَاتِلُوكُمْ فِي الدِّينِ وَلَمْ يُخْرِجُوكُمْ مِنْ دِيَارِكُمْ
+
+(Allah does not forbid you with those who fought not against you on account of religion nor drove you out of your homes,) means, those who did not have a role in your expulsion. Therefore, Allah does not forbid you from being kind to the disbelievers who do not fight you because of the religion, such as women and weak disbelievers,
+
+أَنْ تَبَرُّوهُمْ
+
+(to deal kindly) to be gentle with them,
+
+وَتُقْسِطُوا إِلَيْهِمْ
+
+(and justly with those) to be fair with them
+
+إِنَّ اللَّهَ يُحِبُّ الْمُقْسِطِينَ
+
+(Verily, Allah loves those who deal with equity.) Imam Ahmad recorded that Asma' bint Abu Bakr said, "My mother, who was an idolatress at the time, came to me during the Treaty of Peace, the Prophet ﷺ conducted with the Quraysh. I came to the Prophet ﷺ and said, 'O Allah's Messenger! My mother came visiting, desiring something from me, should I treat her with good relations?' The Prophet ﷺ said,
+
+نَعَمْ صِلِي أُمَّكِ
+
+(Yes. Keep good relation with your mother.)" The Two Sahihs recorded this Hadith. Imam Ahmad recorded that 'Abdullah bin Zubayr said, "Qutaylah came visiting her daughter, Asma' bint Abi Bakr, with some gifts, such as Dibab, cheese and clarified (cooking) butter, and she was an idolatress at that time. Asma' refused to accept her mother's gifts and did not let her enter her house. 'A'ishah asked the Prophet ﷺ about his verdict and Allah sent down the Ayah,
+
+لَا يَنْهَاكُمُ اللَّهُ عَنِ الَّذِينَ لَمْ يُقَاتِلُوكُمْ فِي الدِّينِ
+
+(Allah does not forbid you with those who fought not against you on account of religion) until the end of the Ayah. Allah's Messenger ﷺ ordered Asma' to accept her mother's gifts and to let her enter her house." Allah's statement,
+
+إِنَّ اللَّهَ يُحِبُّ الْمُقْسِطِينَ
+
+(Allah loves those who deal with equity.) was duly explained in the Tafsir of Surat Al-Hujurat. We also mentioned the authentic Hadith,
+
+الْمُقْسِطُونَ عَلىٰ مَنَابِرَ مِنْ نُورٍ عَنْ يَمِينِ الْعَرْشِ، الَّذِينَ يَعْدِلُونَ فِي حُكْمِهِمْ وَأَهَالِيهِمْ وَمَا وَلُوا
+
+(The just, who are fair in their decisions, families and those under their authority, will be on podiums made of light, to the right of the Throne.)
+
+The Prohibition of being Kind towards Combatant Disbelievers
+
+Allah's statement,
+
+إِنَّمَا يَنْهَاكُمُ اللَّهُ عَنِ الَّذِينَ قَاتَلُوكُمْ فِي الدِّينِ وَأَخْرَجُوكُمْ مِنْ دِيَارِكُمْ وَظَاهَرُوا عَلَىٰ إِخْرَاجِكُمْ أَنْ تَوَلَّوْهُمْ ۚ
+
+(It is only as regards those who fought against you on account of religion, and have driven you out of your homes, and helped to drive you out that Allah forbids you to befriend them.)(60:9) means, 'Allah forbids you from being kind and befriending with the disbelievers who are openly hostile to you, those who fought against you, expelled you and helped to expel you. Allah the Exalted forbids you from being their friends and orders you to be their enemy.'
+
+Then Allah stresses His threat against being friends with them, by saying,
+
+وَمَنْ يَتَوَلَّهُمْ فَأُولَٰئِكَ هُمُ الظَّالِمُونَ
+
+(And whosoever will befriend them, then such are the wrongdoers.) As He said;
+
+يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَتَّخِذُوا الْيَهُودَ وَالنَّصَارَىٰ أَوْلِيَاءَ ۘ بَعْضُهُمْ أَوْلِيَاءُ بَعْضٍ ۚ وَمَنْ يَتَوَلَّهُمْ مِنْكُمْ فَإِنَّهُ مِنْهُمْ ۗ إِنَّ اللَّهَ لَا يَهْدِي الْقَوْمَ الظَّالِمِينَ
+
+(O you who believe! Take not the Jews and the Christians as protecting friends, they are but protecting friends of each other. And if any among you takes them (as protecting friends), then surely, he is one of them. Verily, Allah guides not those people who are the wrongdoers)(5:51)
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله تعالى :  لا يَنْهَاكُمُ اللَّهُ عَنِ الَّذِينَ لَمْ يُقَاتِلُوكُمْ فِي الدِّينِ وَلَمْ يُخْرِجُوكُمْ مِنْ دِيَارِكُمْ أَنْ تَبَرُّوهُمْ وَتُقْسِطُوا إِلَيْهِمْ إِنَّ اللَّهَ يُحِبُّ الْمُقْسِطِينَ (8)يقول تعالى ذكره: ( لا يَنْهَاكُمُ اللَّهُ عَنِ الَّذِينَ لَمْ يُقَاتِلُوكُمْ فِي الدِّينِ ) من أهل مكة ( وَلَمْ يُخْرِجُوكُمْ مِنْ دِيَارِكُمْ أَنْ تَبَرُّوهُمْ وَتُقْسِطُوا إِلَيْهِمْ ) يقول: وتعدلوا فيهم بإحسانكم إليهم، وبرّكم بهم.واختلف أهل التأويل في الذين عُنُوا بهذه الآي...
+القول في تأويل قوله تعالى: ﴿لا يَنْهَاكُمُ اللَّهُ عَنِ الَّذِينَ لَمْ يُقَاتِلُوكُمْ فِي الدِّينِ وَلَمْ يُخْرِجُوكُمْ مِنْ دِيَارِكُمْ أَنْ تَبَرُّوهُمْ وَتُقْسِطُوا إِلَيْهِمْ إِنَّ اللَّهَ يُحِبُّ الْمُقْسِطِينَ (٨) ﴾
+
+يقول تعالى ذكره: ﴿لا يَنْهَاكُمُ اللَّهُ عَنِ الَّذِينَ لَمْ يُقَاتِلُوكُمْ فِي الدِّينِ﴾ من أهل مكة ﴿وَلَمْ يُخْرِجُوكُمْ مِنْ دِيَارِكُمْ أَنْ تَبَرُّوهُمْ وَتُقْسِطُوا إِلَيْهِمْ﴾ يقول: وتعدلوا فيهم بإحسانكم إليهم، وبرّكم بهم.
+
+واختلف أهل التأويل في الذين عُنُوا بهذه الآية، فقال بعضهم: عُني بها: الذين كانوا آمنوا بمكة ولم يهاجروا، فأذن الله للمؤمنين ببرّهم والإحسان إليهم.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا محمد بن عمرو، قال: ثنا أَبو عاصم، قال: ثنا عيسى؛ وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء، جميعًا، عن ابن أَبي نجيح، عن مجاهد، في قوله: ﴿لا يَنْهَاكُمُ اللَّهُ عَنِ الَّذِينَ لَمْ يُقَاتِلُوكُمْ فِي الدِّينِ﴾ أن تستغفروا لهم، ﴿أَنْ تَبَرُّوهُمْ وَتُقْسِطُوا إِلَيْهِمْ﴾ ؛ قال: وهم الذين آمنوا بمكة ولم يهاجروا.
+
+وقال آخرون: عني بها من غير أهل مكة من لم يهاجر.
+
+ذكر من قال ذلك:
+
+⁕ حدثني محمد بن إبراهيم الأنماطيّ، قال: ثنا هارون بن معروف، قال: ثنا بشر بن السريّ، قال: ثنا مصعب بن ثابت، عن عمه عامر بن عبد الله بن الزبير، عن أبيه، قال: نزلت في أسماء بنت أبي بكر، وكانت لها أمّ فى الجاهلية يقال لها قّتَيلة ابنة عبد العُزّى، فأتتها بهدايا وصناب وأقط وسَمْن، فقالت: لا اقبل لك هدية، ولا تدخلي عليّ حتى يأذن رسول الله ﷺ فذكرت ذلك عائشة لرسول الله ﷺ، فأنزل الله ﴿لا يَنْهَاكُمُ اللَّهُ عَنِ الَّذِينَ لَمْ يُقَاتِلُوكُمْ فِي الدِّينِ﴾ ... إلى قوله: ﴿الْمُقْسِطِينَ﴾ .
+
+⁕ قال ثنا إبراهيم بن الحجاج، قال: ثنا عبد الله بن المبارك، قال: ثنا مصعب بن ثابت، عن عامر بن عبد الله بن الزبير، عن أبيه، قال: قَدِمَتْ قُتَيلة بنت عبد العُزّى بن سعد من بني مالك بن حِسْل على ابنتها أسماء بنت أبي بكر، فذكر نحوه.
+
+وقال آخرون: بل عُنِي بها من مشركي مكة من لم يقاتل المؤمنين، ولم يخرجوهم من ديارهم؛ قال: ونسخ الله ذلك بعدُ بالأمر بقتالهم.
+
+ذكر من قال ذلك:
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد: وسألته عن قول الله عزّ وجلّ: ﴿لا يَنْهَاكُمُ اللَّهُ﴾ ... الآية، فقال: هذا قد نسخ، نَسَخَه، القتال، أمروا أن يرجعوا إليهم بالسيوف، ويجاهدوهم بها، يضربونهم، وضرب الله لهم أجلَ أربعة أشهر، إما المذابحة، وإما الإسلام.
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة، في قوله: ﴿لا يَنْهَاكُمُ اللَّهُ﴾ ... الآية، قال: نسختها ﴿فَاقْتُلُوا الْمُشْرِكِينَ حَيْثُ وَجَدْتُمُوهُمْ﴾ .
+
+وأولى الأقوال في ذلك بالصواب قول من قال: عُنِي بذلك: لا ينهاكم الله عن الذين لم يقاتلوكم في الدين، من جميع أصناف الملل والأديان أن تبرُّوهم وتصلوهم، وتقسطوا إليهم، إن الله عزّ وجلّ عمّ بقوله: ﴿الَّذِينَ لَمْ يُقَاتِلُوكُمْ فِي الدِّينِ وَلَمْ يُخْرِجُوكُمْ مِنْ دِيَارِكُمْ﴾ جميع من كان ذلك صفته، فلم يخصصْ به بعضًا دون بعض، ولا معنى لقول من قال: ذلك منسوخ، لأن برّ المؤمن من أهل الحرب ممن بينه وبينه قرابة نسب، أو ممن لا قرابة بينه وبينه ولا نسب غير محرّم ولا منهيّ عنه إذا لم يكن في ذلك دلالة له، أو لأهل الحرب على عورة لأهل الإسلام، أو تقوية لهم بكُراع أو سلاح. قد بين صحة ما قلنا في ذلك، الخبر الذي ذكرناه عن ابن الزبيرفي قصة أسماء وأمها.
+
+* *
+
+وقوله: ﴿إِنَّ اللَّهَ يُحِبُّ الْمُقْسِطِينَ﴾
+
+يقول: إن الله يحبّ المنصفين الذين ينصفون الناس، ويعطونهم الحقّ والعدل من أنفسهم، فيبرّون من برّهم، ويُحْسنون إلى من أحسن إليهم.
 
 ### al-Muyassar (Arabic)
 
-لا ينهاكم الله -أيها المؤمنون- عن الذين550 لم يقاتلوكم من الكفار بسبب الدين، ولم يخرجوكم من دياركم أن تكرموهم بالخير، وتعدلوا فيهم بإحسانكم إليهم وبرِّكم بهم. إن الله يحب الذين يعدلون في أقوالهم وأفعالهم.
+لا ينهاكم الله -أيها المؤمنون- عن الذين لم يقاتلوكم من الكفار بسبب الدين، ولم يخرجوكم من دياركم أن تكرموهم بالخير، وتعدلوا فيهم بإحسانكم إليهم وبرِّكم بهم. إن الله يحب الذين يعدلون في أقوالهم وأفعالهم.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿لا يَنْهاكُمْ اللَّه عَنْ الَّذِينَ لَمْ يُقاتِلُوكُمْ﴾ مِن الكُفّار ﴿فِي الدِّين ولَمْ يُخْرِجُوكُمْ مِن دِياركُمْ أنْ تَبَرُّوهُمْ﴾ بَدَل اشْتِمال مِن الَّذِينَ ﴿وتُقْسِطُوا﴾ تَقْضُوا ﴿إلَيْهِمْ﴾ بِالقِسْطِ أيْ بِالعَدْلِ وهَذا قَبْل الأَمْر بِجِهادِهِمْ ﴿إنّ اللَّه يُحِبّ المُقْسِطِينَ﴾ العادِلِينَ
 
 ---

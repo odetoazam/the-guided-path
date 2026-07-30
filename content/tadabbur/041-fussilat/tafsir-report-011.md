@@ -1,6 +1,6 @@
 # Tafsir Cross-Reference Report
 
-Generated: 2026-04-01
+Generated: 2026-07-30
 Ayahs referenced: 4
 Tafsir sources: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), al-Jalalayn (Arabic)
 
@@ -10,12 +10,125 @@ Tafsir sources: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), 
 
 ### Ibn Kathir (English)
 
+And (remember) when We said to the angels: "Prostrate yourselves before Adam." And they prostrated except Iblis (Shaytan), he refused and was proud and was one of the disbelievers (disobedient to Allah)(34)
+
 Honoring Adam when the Angels prostrated before Him
-This Ayah mentions the great honor that Allah granted Adam, and Allah reminded Adam's offspring of this fact. Allah commanded the angels to prostrate before Adam, as this Ayah and many Hadiths testify, such as the Hadith about the intercession that we discussed. There is a Hadith about the supplication of Musa, "O my Lord! Show me Adam who caused us and himself to be thrown out of Paradise." When Musa met Adam, he said to him, "Are you Adam ...
+
+This Ayah mentions the great honor that Allah granted Adam, and Allah reminded Adam's offspring of this fact. Allah commanded the angels to prostrate before Adam, as this Ayah and many Hadiths testify, such as the Hadith about the intercession that we discussed. There is a Hadith about the supplication of Musa, "O my Lord! Show me Adam who caused us and himself to be thrown out of Paradise." When Musa met Adam, he said to him, "Are you Adam whom Allah created with His Own Hands, blew life into and commanded the angels to prostrate before?"
+
+Iblis was among Those ordered to prostrate before Adam, although He was not an Angel
+
+When Allah commanded the angels to prostrate before Adam, Iblis was included in this command. Although Iblis was not an angel, he was trying - and pretending - to imitate the angels' behavior and deeds, and this is why he was also included in the command to the angels to prostrate before Adam. Satan was criticized for defying that command, as we will explain with detail, Allah willing, when we mention the Tafsir of Allah's statement,
+
+إِلاَّ إِبْلِيسَ كَانَ مِنَ الْجِنِّ فَفَسَقَ عَنْ أَمْرِ رَبِّهِ
+
+(Except Iblis (Satan). He was one of the Jinn; he disobeyed the command of his Lord.)(18:50)
+
+Similarly, Muhammad bin Ishaq reported that Ibn 'Abbas said, "Before he undertook the path of sin, Iblis was with the angels and was called 'Azazil.' He was among the residents of the earth and was one of the most active worshippers and knowledgeable persons among the angels. This fact caused him to be arrogant. Iblis was from a genus called Jinn."
+
+The Prostration was before Adam but the Obedience was to Allah
+
+Qatadah commented on Allah's statement,
+
+وَإِذْ قُلْنَا لِلْمَلَائِكَةِ اسْجُدُوا لِآدَمَ
+
+(And (remember) when We said to the angels: "Prostrate yourselves before Adam.")
+
+"The obedience was for Allah and the prostration was before Adam. Allah honored Adam and commanded the angels to prostrate before him." Some people said that this prostration was just a prostration of greeting, peace and honor, hence Allah's statement,
+
+وَرَفَعَ أَبَوَيْهِ عَلَى الْعَرْشِ وَخَرُّوا لَهُ سُجَّدًا ۖ وَقَالَ يَا أَبَتِ هَٰذَا تَأْوِيلُ رُؤْيَايَ مِن قَبْلُ قَدْ جَعَلَهَا رَبِّي حَقًّا
+
+(And he (Prophet Yusuf) raised his parents to the throne and they fell down before him prostrate. And he said: "O my father! This is the interpretation of my dream aforetime! My Lord has made it come true!")(12:100)
+
+The practice of prostrating was allowed for previous nations, but was repealed for ours. Mu'adh said to the Prophet , "I visited Ash-Sham and found that they used to prostate before their priests and scholars. You, O Messenger of Allah, are more deserving of prostration." The Prophet ﷺ said,
+
+لَا لَوْ كُنْتُ آمِرًا بَشَرًا أنْ يَسْجُدَ لِبَشَرٍ لَأَمَرْتُ الْمَرْأةَ أنْ تَسْجُدَ لِزَوجِهَا مِنْ عِظَمِ حَقِّهِ عَلَيْهَا
+
+(No. If I was to command any human to prostrate before another human, I would command the wife to prostrate before her husband because of the enormity of his right on her.)
+
+Ar-Razi agreed with this view. Also, Qatadah said about Allah's statement,
+
+فَسَجَدُوا إِلَّا إِبْلِيسَ أَبَىٰ وَاسْتَكْبَرَ وَكَانَ مِنَ الْكَافِرِينَ
+
+(And they prostrated except Iblis (Shaytan), he refused and was proud and was one of the disbelievers (disobedient to Allah).)
+
+"Iblis, the enemy of Allah, envied Adam because Allah honored Adam. He said, 'I was created from fire, and he was created from clay.' Therefore, the first error ever committed was arrogance, for the enemy of Allah was too arrogant to prostrate before Adam." I - Ibn Kathir - say, the following is recorded in the Sahih,
+
+لَا يَدْخُلُ الْجَنَّةَ مَنْ كَانَ فِي قَلْبِهِ مِثْقَالُ حَبَّةٍ مِنْ خَرْدَلٍ مِنْ كِبْرٍ
+
+(No person who has the weight of a mustard seed of arrogance in his heart shall enter Paradise.)
+
+Iblis had disbelief, arrogance, and rebellion, all of which caused him to be expelled from the holy presence of Allah, and His mercy.
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله تعالى ذكره:  وَإِذْ قُلْنَا لِلْمَلائِكَةِ اسْجُدُوا لآدَمَ فَسَجَدُوا إِلا إِبْلِيسَ أَبَى وَاسْتَكْبَرَ وَكَانَ مِنَ الْكَافِرِينَ (34)قال أبو جعفر: أمّا قوله: " وإذ قلنا " فمعطوف على قوله:  وَإِذْ قَالَ رَبُّكَ لِلْمَلائِكَةِ ، كأنه قال جل ذكره لليهود - الذين كانوا بين ظهرانَيْ مُهاجَرِ رسول الله صلى الله عليه وسلم من بني إسرائيل، معددًا عليهم نعَمه، ومذكِّرهم آلاءه، على نحو الذي وصفنا فيما مضى قبل-: اذكروا فعلي بكم إذ أنعمت عليكم. &; 1-502 &; فخلقت لكم ما في الأرض جميع...
+القول في تأويل قوله تعالى ذكره: ﴿وَإِذْ قُلْنَا لِلْمَلائِكَةِ اسْجُدُوا لآدَمَ فَسَجَدُوا إِلا إِبْلِيسَ أَبَى وَاسْتَكْبَرَ وَكَانَ مِنَ الْكَافِرِينَ (٣٤) ﴾
+
+قال أبو جعفر: أمّا قوله:"وإذ قلنا" فمعطوف على قوله:"وإذ قال ربّك للملائكة"، كأنه قال جل ذكره لليهود - الذين كانوا بين ظهرانَيْ مُهاجَرِ رسول الله ﷺ من بني إسرائيل، معددًا عليهم نعَمه، ومذكِّرهم آلاءه، على نحو الذي وصفنا فيما مضى قبل-: اذكروا فعلي بكم إذ أنعمت عليكم.
+
+فخلقت لكم ما في الأرض جميعًا، وإذ قلت للملائكة إني جاعل في الأرض خليفة، فكرمت أباكم آدمَ بما آتيته من عِلمي وفضْلي وكرَامتي، وإذْ أسجدت له ملائكتي فسجدوا له. ثم استثنى من جميعهم إبليس، فدلّ باستثنائه إياه منهم على أنه منهم، وأنه ممن قد أمِر بالسجود معهم، كما قال جل ثناؤه: ﴿إِلا إِبْلِيسَ لَمْ يَكُنْ مِنَ السَّاجِدِينَ قَالَ مَا مَنَعَكَ أَلا تَسْجُدَ إِذْ أَمَرْتُكَ﴾ [سورة الأعراف: ١١-١٢] ، فأخبر جل ثناؤه أنه قد أمر إبليس فيمن أمرَه من الملائكة بالسجود لآدمَ. ثم استثناه جل ثناؤه مما أخبر عنهم أنهم فعلوه من السجود لآدمَ، فأخرجه من الصفة التي وصفهم بها من الطاعة لأمره، ونفى عنه ما أثبته لملائكته من السجود لعبده آدم.
+
+ثم اختلف أهل التأويل فيه: هل هو من الملائكة، أم هو من غيرها؟ فقال بعضهم بما:-
+
+٦٨٥ - حدثنا به أبو كريب، قال: حدثنا عثمان بن سعيد، عن بشر بن عمارة، عن أبي روق، عن الضحاك، عن ابن عباس قال: كان إبليس من حيّ من أحياء الملائكة يقال لهم"الحِن"، خلقوا من نار السَّموم من بين الملائكة. قال: فكان اسمه الحارث. قال: وكان خازنًا من خُزَّان الجنة. قال: وخلقت الملائكة من نورٍ غير هذا الحيّ. قال: وخلقت الجنّ الذي ذكروا في القرآن من مارج من نار، وهو لسان النار الذي يكون في طرفها إذا التهبت [[الخبر: ٦٨٥- مضى بتمامه في الخبر السالف رقم: ٦٠٦، وفي ابن كثير ١: ١٣٦، وفيهما معًا "إذا ألهبت". وأعاده ابن كثير ٥: ٢٩٦. وفيه كما هنا"التهبت". وفيه"الجن" بالجيم، وانظر ما مضى ص: ٤٥٥ تعليق: ١.]] .
+
+٦٨٦ - وحدثنا ابن حميد، قال: حدثنا سلمة، عن ابن إسحاق، عن خلاد، عن عطاء، عن طاوس، عن ابن عباس. قال: كان إبليس قبل أن يركب المعصيةَ من الملائكة اسمه"عزازيل"، وكان من سكان الأرض، وكان من أشد الملائكة اجتهادًا وأكثرهم علمًا، فذلك دعاه إلى الكبر، وكان من حيّ يسمون جنا [[الخبر: ٦٨٦ في ابن كثير ١: ١٣٩ و ٥: ٢٩٦، والدر المنثور ١: ١٥٠، والشوكاني ١: ٥٣. وخلاد: هو ابن عبد الرحمن الصنعاني، وهو ثقة، ويروى عن طاوس ومجاهد مباشرة، ولكنه روى عنهما، هنا وفي الخبر التالي، بواسطة عطاء.]] .
+
+٦٨٧ - وحدثنا به ابن حميد مرة أخرى، قال: حدثنا سلمة، عن ابن إسحاق، عن خلاد، عن عطاء، عن طاوس، أو مجاهد أبي الحجاج، عن ابن عباس وغيره بنحوه، إلا أنه قال: كان ملكًا من الملائكة اسمه"عزازيل"، وكان من سكان الأرض وعُمَّارها، وكان سكان الأرض فيهم يسمون"الجنَّ" من بين الملائكة [[الخبر: ٦٨٧- في ابن كثير ١: ١٣٩ عقب الذي قبله.]] .
+
+٦٨٨ - وحدثني موسى بن هارون، قال: حدثنا عمرو بن حماد، قال: حدثنا أسباط، عن السُّدّيّ في خبر ذكره، عن أبي مالك، وعن أبي صالح، عن ابن عباس - وعن مُرَّة، عن ابن مسعود، وعن ناس من أصحاب النبي ﷺ: جعل إبليس على مُلك سماء الدنيا، وكان من قبيلة من الملائكة يقال لهم"الجنّ"، وإنما سُمُّوا الجن لأنهم خُزَّان الجنة. وكان إبليس مع مُلكه خازنًا [[الخبر: ٦٨٨- مختصر من الأثر السالف رقم: ٦٠٧.]] .
+
+٦٨٩ - وحدثنا القاسم بن الحسن، قال: حدثنا حسين، قال: حدثني حجاج، عن ابن جُريج، قال: قال ابن عباس: كان إبليس من أشراف الملائكة وأكرمهم قبيلة، وكان خازنًا على الجنان، وكان له سلطانُ سماء الدنيا، وكان له سلطانُ الأرض. قال: قال ابن عباس: وقوله: ﴿كَانَ مِنَ الْجِنِّ﴾ [سورة الكهف: ٥٠] إنما يسمى بالجنان أنه كان خازنًا عليها، كما يقال للرجل مكي ومدَنيّ وكوفيّ وبصريّ. [[الخبر: ٦٨٩- في ابن كثير ١: ١٣٩ و ٥: ٢٩٦، والدر المنثور ١: ١٧٨.]] .
+
+قال ابن جُريج، وقال آخرون: هم سبط من الملائكة قَبيلِه، فكان اسم قبيلته الجن.
+
+٦٩٠ - وحدثنا القاسم، قال: حدثنا الحسين، قال: حدثني حجاج، عن ابن جُريج، عن صالح مولى التَّوْأمة، وشريك بن أبي نَمِر - أحدهما أو كلاهما - عن ابن عباس، قال: إن من الملائكة قبيلةً من الجن، وكان إبليس منها، وكان يسوس ما بين السماء والأرض [[الخبر: ٦٩٠- في ابن كثير ٥: ٢٩٦- ٢٩٧، وفيه زيادة هناك. وسيأتي بإسناد آخر مطولا: ٧٠٠.]] .
+
+٦٩١ - وحدثت عن الحسن بن الفرج، قال: سمعت أبا معاذ الفضل بن خالد، قال: أخبرنا عُبيد بن سليمان، قال: سمعت الضحاك بن مُزَاحم يقولُ في قوله: ﴿فَسَجَدُوا إِلا إِبْلِيسَ كَانَ مِنَ الْجِنِّ﴾ [سورة الكهف: ٥٠] ، قال: كان ابن عباس يقول: إن إبليس كان من أشراف الملائكة وأكرمهم قبيلة. ثم ذكر مثل حديث ابن جُريج الأول سواء [[الخبر: ٦٩١- الحسن بن الفرج: لم أعرف من هو؟ وأبو معاذ الفضل بن خالد: هو النحوي المروزي، وهو ثقة، ذكره ابن حبان في الثقات، وترجمه ابن أبي حاتم ٣/٢/٦١، وياقوت في الأدباء ٦: ١٤٠، والسيوطي في البغية: ٣٧٣. وقال ياقوت: "روى عنه الأزهري في كتاب التهذيب، فأكثر". وليس يريد بذلك رواية السماع، بل يريد أنه روى آراءه أو نقله في اللغة. أما رواية السماع فلا. لأن الفضل هذا مات سنة ٢١١، والأزهري ولد سنة ٢٨٢. فهذا كلام موهم؛ ولم يكن يجدر بالسيوطي - وهو محدث - أن يتبعه دون تأمل!]] .
+
+٦٩٢ - وحدثنا محمد بن المثنى، قال: حدثني شيبان، قال حدثنا سلام بن مسكين، عن قتادة، عن سعيد بن المسيب، قال: كان إبليس رئيسَ ملائكة سماء الدنيا [[الأثر: ٦٩٢- في ابن كثير ١: ١٣٩. شيبان: هو ابن فروخ، وهو ثقة. سلام بن مسكين الأزدي: ثقة، أخرج له الشيخان.]] .
+
+٦٩٣ - وحدثنا بشر بن معاذ، قال: حدثنا يزيد، قال: حدثنا سعيد، عن قتادة، قوله: ﴿وَإِذْ قُلْنَا لِلْمَلائِكَةِ اسْجُدُوا لآدَمَ فَسَجَدُوا إِلا إِبْلِيسَ كَانَ مِنَ الْجِنِّ﴾ [سورة الكهف: ٥٠] ، كان من قبيل من الملائكة يقال لهم"الجن"، وكان ابن عباس يقول: لو لم يكن من الملائكة لم يُؤمر بالسجود، وكان على خِزانة سماء الدنيا، قال: وكان قتادة يقول: جَنَّ عن طاعة ربه [[الأثر: ٦٩٣- لم نجده في مكان آخر.]] .
+
+٦٩٤ - وحدثنا الحسين بن يحيى، قال: أخبرنا عبد الرَّزَّاق، قال: أخبرنا معمر، عن قتادة، في قوله:"إلا إبليسَ كان من الجن" قال: كان من قبيل من الملائكة يقال لهم الجن [[الأثر: ٦٩٤- لم نجده أيضًا. وقال الحافظ ابن كثير ٥: ٢٩٧- بعد أن نقل كثيرًا من الآثار في مثل هذه المعاني: "وقد روى في هذا آثار كثيرة عن السلف. وغالبها من الإسرائيليات التي تنقل لينظر فيها، والله أعلم بحال كثير منها. ومنها ما قد يقطع بكذبه، لمخالفته للحق الذي بأيدينا. وفي القرآن غنية عن كل ما عداه من الأخبار المثقدمة، لأنها لا تكاد تخلو من تبديل وزيادة ونقصان، وقد وضع فيها أشياء كثيرة. وليس لهم من الحفاظ المتقنين، الذين ينفون عنها تحريف الغالين وانتحال المبطلين- كما لهذه الأمة من الأئمة والعلماء، والسادة والأتقياء، والبررة والنجباء، من الجهابذة النقاد، والحفاظ الجياد. الذين دونوا الحديث وحرروه، وبينوا صحيحه، من حسنه، من ضعيفه، من منكره وموضوعه، ومتروكه ومكذوبه. وعرفوا الوضاعين والكذابين والمجهولين، +وغير ذلك من أصناف الرجال. كل ذلك صيانة للجناب النبوي، والمقام المحمدي، خاتم الرسل، وسيد البشر، ﷺ-: أن ينسب إليه كذب، أو يحدث عنه بما ليس منه. فرضى الله عنهم وأرضاهم، وجعل جنات الفردوس مأواهم. وقد فعل".]] .
+
+٦٩٥ - وحدثنا ابن حميد، قال: حدثنا سلمة، قال: حدثنا محمد بن إسحاق، قال: أما العرب فيقولون: ما الجنّ إلا كل من اجتَنَّ فلم يُرَ. وأما قوله:"إلا إبليس من كان من الجن" أي كان من الملائكة، وذلك أن الملائكة اجتنُّوا فلم يُرَوْا. وقد قال الله جل ثناؤه: ﴿وَجَعَلُوا بَيْنَهُ وَبَيْنَ الْجِنَّةِ نَسَبًا وَلَقَدْ عَلِمَتِ الْجِنَّةُ إِنَّهُمْ لَمُحْضَرُونَ﴾ [سورة الصافات: ١٥٨] ، وذلك لقول قريش: إن الملائكة بناتُ الله، فيقول الله: إن تكن الملائكة بناتي فإبليس منها، وقد جعلوا بيني وبين إبليس وذريته نسبًا. قال: وقد قال الأعشى، أعشى بني قيس بن ثعلبة البكري، وهو يذكر سليمانَ بن داود وما أعطاه الله:
+
+وَلَوْ كَانَ شَيْءٌ خَالِدًا أَوْ مُعَمَّرا ... لَكَانَ سُلَيْمَانُ الْبَرِيءُ مِنَ الدَّهْرِ [[ملحق ديوان الأعشى: ٢٤٣، والأضداد لابن الأنباري: ٢٩٣. ولم يعن بالدهر هاهنا الأمد الممدود، بل عني مصائب الدهر ونكباته، كما قال عدى بن زيد، وجعل مصائب الدهر هي الدهر نفسه: أَيُّهَا الشَّامِتُ المُعَيِّر بِالدَّ ... هْرِ أَأَنْتَ المبرَّأُ المَوْفُورُ]]
+
+بَرَاهُ إِلَهِي وَاصْطَفَاهُ عِبَادَهُ ... وَمَلَّكَهُ مَا بَيْنَ ثُرْيَا إِلَى مِصْرَ [[ثريا: هكذا ضبط في ملحق ديوان الأعشى، ولم أعرف الموضع ولم أجده. ولم أهتد إلى تحريفه إن كان محرفًا. وفي الأضداد: "توفى".]] وَسَخَّرَ مِنْ جِنِّ الْمَلائِكِ تِسْعَةً ... قِيَامًا لَدَيْهِ يَعْمَلُونَ بِلا أَجْرِ
+
+قال: فأبت العربُ في لغتها إلا أنّ "الجن" كل ما اجتنَّ. يقول: ما سمَّى الله الجن إلا أنهم اجتنُّوا فلم يُرَوا، وما سمّي بني آدم الإنس إلا أنهم ظهروا فلم يجتنوا. فما ظهر فهو إنس، وما اجتنّ فلم يُرَ فهو جنّ [[الأثر: ٦٩٥- رواه مختصرًا صاحب الأضداد: ٢٩٣، ولم أجده في مكان آخر.]] .
+
+وقال آخرون بما:-
+
+٦٩٦ - حدثنا به محمد بن بشار، قال: حدثنا ابن أبي عدي، عن عوف، عن الحسن، قال: ما كان إبليسُ من الملائكة طرفةَ عين قطّ، وإنه لأصل الجنّ، كما أن آدم أصل الإنس [[الأثر: ٦٩٦- في ابن كثير ١: ١٣٩ و ٥: ٢٩٦. وقال: "وهذا إسناد صحيح عن الحسن".]] .
+
+٦٩٧ - وحدثنا بشر بن معاذ، قال: حدثنا يزيد بن زُرَيع، قال: حدثنا سعيد، عن قتادة، قال: كان الحسن يقول في قوله:"إلا إبليس كانَ من الجن" ألجأه إلى نسبه [[في المطبوعة: "إلجاء إلى نسبه"، وألجأه إلى نسبه: رده إليه. وانظر رقم: ٦٥٥.]] فقال الله: ﴿أَفَتَتَّخِذُونَهُ وَذُرِّيَّتَهُ أَوْلِيَاءَ مِنْ دُونِي وَهُمْ لَكُمْ عَدُوٌّ بِئْسَ لِلظَّالِمِينَ بَدَلا﴾ [سورة الكهف: ٥٠] ، وهم يتوالدون كما يتوالد بنو آدم [[الأثر: ٦٩٧- لم أجده في مكان.]] .
+
+٦٩٨ - وحدثنا ابن حميد، قال: حدثنا يحيى بن واضح، قال: حدثنا أبو سعيد اليحمَديّ، حدثنا إسماعيل بن إبراهيم، قال: حدثنا سَوار بن الجعد اليحمَديّ، عن شَهر بن حَوْشب، قوله:"من الجنّ"، قال: كان إبليس من الجن الذين طرَدتهم الملائكة، فأسرَه بعض الملائكة فذهب به إلى السماء [[الأثر: ٦٩٨- في ابن كثير ١: ١٣٩.]] .
+
+٦٩٩ - وحدثني علي بن الحسين، قال: حدثني أبو نصر أحمد بن محمد الخلال، قال: حدثني سنيد بن داود، قال حدثنا هشيم، قال أخبرنا عبد الرحمن بن يحيى، عن موسى بن نُمير، وعثمان بن سعيد بن كامل، عن سعد بن مسعود، قال: كانت الملائكة تقاتل الجنّ، فسُبِي إبليس وكان صغيرًا، فكان مع الملائكة فتعبَّد معها، فلما أمِروا بالسجود لآدم سجدوا. فأبى إبليس. فلذلك قال الله:"إلا إبليس كان من الجن" [[الأثر: ٦٩٩- في ابن كير ١: ١٣٩.]] .
+
+٧٠٠ - وحدثنا ابن حميد، قال: حدثنا سلمة بن الفضل، قال: حدثنا المبارك بن مجاهد أبو الأزهر، عن شريك بن عبد الله بن أبي نَمِر، عن صالح مولى التوأمة، عن ابن عباس، قال: إن منَ الملائكة قبيلا يقال لهم: الجن، فكان إبليس منهم، وكان إبليس يسوس ما بين السماء والأرض، فعصَى، فمسخه الله شيطانًا رجيما. [[الخبر: ٧٠٠- هو في ابن كثير ١: ١٣٩. وقد مضى نحوه مختصرًا، بإسناد آخر: ٦٩٠.]]
+
+٧٠١ - قال: وحدثنا يونس، عن ابن وهب، قال: قال ابن زيد: إبليس أبو الجن، كما آدم أبو الإنس [[الأثر: ٧٠١- لم أجده في مكان.]] .
+
+وعلة من قال هذه المقالة، أن الله جل ثناؤه أخبرَ في كتابه أنه خلق إبليس من نار السَّموم، ومن مارج من نار، ولم يخبر عن الملائكة أنه خَلقها من شيء من ذلك، وأن الله جل ثناؤه أخبر أنه من الجنّ - فقالوا: فغيرُ جائز أن يُنسب إلى غير ما نسبه الله إليه. قالوا: ولإبليس نسلٌ وذرية، والملائكة لا تتناسل ولا تتوالد.
+
+٧٠٢ - حدثنا محمد بن سنان القزّاز، قال: حدثنا أبو عاصم، عن شَريك، عن رجل، عن عكرمة، عن ابن عباس، قال: إن الله خلق خلقًا، فقال: اسجدوا لآدم: فقالوا: لا نفعل. فبعث الله عليهم نارًا تُحرقهم، ثم خلق خلقًا آخر، فقال: إني خالقٌ بشرًا من طين، اسجدوا لآدم. فأبوا، فبعث الله عليهم نارًا فأحرقتهم. قال: ثم خلق هؤلاء، فقال: اسجدوا لآدم. فقالوا: نعم. وكان إبليسُ من أولئك الذين أبوا أن يسجدوا لآدم [[الأثر: ٧٠٢- في ابن كثير ١: ١٣٩، والدر المنثور ١: ٥٠ وقال ابن كثير في إسناده: "وهذا غريب، ولا يكاد يصح إسناده، فإن فيه رجلا مبهمًا، ومثله لا يحتج به، والله أعلم".]] .
+
+قال أبو جعفر: وهذه علل تنبئ عن ضعف معرفة أهلها. وذلك أنه غيرُ مستنكر أن يكون الله جل ثناؤه خَلق أصنافَ ملائكته من أصنافٍ من خلقه شَتَّى. فخلق بعضًا من نُور، وبعضًا من نار، وبعضًا مما شاء من غير ذلك. وليس في ترك الله جل ثناؤه الخبر عَما خَلق منه ملائكته [[في المطبوعة: "وليس فيما نزل الله جل ثناؤه. . . "، وهو خطأ صرف. وقوله بعد: "وإخباره عما خلق منه إبليس" معطوف على قوله: "وفي ترك. . . ".]] ، وإخبارِه عما خلق منه إبليس - ما يوجب أن يكون إبليس خارجًا عن معناهم. إذْ كان جائزًا أن يكون خلق صِنفًا من ملائكته من نار كان منهم إبليس، وأن يكون أفرد إبليس بأنْ خَلقه من نار السموم دون سائر ملائكته. وكذلك غيرُ مخرجه أن يكون كان من الملائكة بأنْ كان له نسل وذرية، لِمَا ركَّب فيه من الشهوة واللذة التي نُزعت من سائر الملائكة، لِمَا أراد الله به من المعصية. وأما خبرُ الله عن أنه"من الجن"، فغير مدفوع أن يسمى ما اجتنّ من الأشياء عن الأبصار كلها جنًّا - كما قد ذكرنا قبل في شعر الأعشى - فيكون إبليسُ والملائكةُ منهم، لاجتنانهم عن أبصار بني آدم.
+
+القول في معنى ﴿إِبْلِيسَ﴾
+
+قال أبو جعفر: وإبليس"إفعِيل"، من الإبلاس، وهو الإياس من الخير والندمُ والحزن. كما:-
+
+٧٠٣ - حدثنا به أبو كريب، قال: حدثنا عثمان بن سعيد، قال: حدثنا بشر بن عمارة، عن أبي روق، عن الضحاك، عن ابن عباس، قال: إبليس، أبلسه الله من الخير كله، وجعله شيطانًا رجيمًا عقوبة لمعصيته [[الخبر: ٧٠٣- مختصر من الخبر السالف رقم: ٦٠٦، وهو في الدر المنثور ١: ٥٠، والشوكاني ١: ٥٣.]] .
+
+٧٠٤ - وحدثنا موسى بن هارون، قال: حدثنا عمرو بن حماد، قال: حدثنا أسباط، عن السُّدّيّ، قال: كان اسم إبليس"الحارث"، وإنما سمي إبليس حين أبلس متحيِّرًا [[الأ
+
+[TRUNCATED at 12000 chars — 4148 more. Consult the source directly before relying on anything near the cut.]
 
 ### al-Muyassar (Arabic)
 
@@ -23,7 +136,7 @@ This Ayah mentions the great honor that Allah granted Adam, and Allah reminded A
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿و﴾ اُذْكُرْ ﴿إذْ قُلْنا لِلْمَلائِكَةِ اُسْجُدُوا لِآدَم﴾ سُجُود تَحِيَّة بِالِانْحِناءِ ﴿فَسَجَدُوا إلّا إبْلِيس﴾ هُوَ أبُو الجِنّ كانَ بَيْن المَلائِكَة ﴿أبى﴾ امْتَنَعَ مِن السُّجُود ﴿واسْتَكْبَرَ﴾ تَكَبَّرَ عَنْهُ وقالَ: أنا خَيْر مِنهُ ﴿وكانَ مِن الكافِرِينَ﴾ فِي عِلْم اللَّه
 
 ---
 
@@ -31,13 +144,129 @@ This Ayah mentions the great honor that Allah granted Adam, and Allah reminded A
 
 ### Ibn Kathir (English)
 
+The seven heavens and the earth and all that is therein, glorify Him and there is not a thing but glorifies His praise. But you understand not their glorification. Truly, He is Ever Forbearing, Oft-Forgiving (44)
+
 Everything glorifies Allah
-Allah says: the seven heavens and the earth and all that is therein, meaning the creatures that dwell therein, sanctify Him, exalt Him, venerate Him, glorify Him and magnify Him far above what these idolators say, and they bear witness that He is One in His Lordship and Divinity. In everything there is a sign of Allah indicating that He is One. As Allah says:
-تَكَادُ السَّمَـوَتُ يَتَفَطَّرْنَ مِنْهُ وَتَنشَقُّ الاٌّرْضُ وَتَخِرُّ الْجِبَالُ هَدّاً - أَن دَعَوْا لِل...
+
+Allah says: the seven heavens and the earth and all that is therein, meaning the creatures that dwell therein, sanctify Him, exalt Him, venerate Him, glorify Him and magnify Him far above what these idolators say, and they bear witness that He is One in His Lordship and Divinity.
+
+In everything there is a sign of Allah indicating that He is One. As Allah says:
+
+تَكَادُ السَّمَاوَاتُ يَتَفَطَّرْنَ مِنْهُ وَتَنشَقُّ الْأَرْضُ وَتَخِرُّ الْجِبَالُ هَدًّا - أَن دَعَوْا لِلرَّحْمَٰنِ وَلَدًا
+
+(Whereby the heavens are almost torn, and the earth is split asunder, and the mountains fall in ruins, That they ascribe child to the Most Beneficent)(19:90-91).
+
+وَإِن مِّن شَيْءٍ إِلَّا يُسَبِّحُ بِحَمْدِهِ
+
+(and there is not a thing but glorifies His praise.) there is no created being that does not celebrate the praises of Allah.
+
+وَلَٰكِن لَّا تَفْقَهُونَ تَسْبِيحَهُمْ
+
+(But you understand not their glorification.)
+
+means, 'You do not understand them, O mankind, because it is not like your languages.' This applies to all creatures generally, animal, inanimate and botanical. This is the better known of the two opinions according to the most reliable of two opinions. It was reported in Sahih Al-Bukhari that Ibn Mas'ud said: "We used to hear the Tasbih of the food as it was being eaten."
+
+Imam Ahmad recorded that [Mu'adh bin Anas said that] the Messenger of Allah ﷺ came upon some people who were sitting on their mounts and talking to one another. He said to them:
+
+ارْكَبُوهَا سَالِمَةً وَدَعُوهَا سَالِمَةً، وَلَا تَتَّخِذُوهَا كَرَاسِيَّ لِأَحَادِيثِكُمْ فِي الطُّرُقِ وَالْأَسْوَاقِ، فَرُبَّ مَرْكُوبَةٍ خَيْرٌ مِنْ رَاكِبِهَا، وَأَكْثَرُ ذِكْرًا للهِ مِنْهُ
+
+(Ride them safely then leave them safely. Do not use them as chairs for you to have conversations in the streets and marketplaces, because the one that is ridden may be better than the one who rides it, and may remember Allah more than he does.)
+
+An-Nasa'i recorded in his Sunan that 'Abdullah bin 'Amr said: "The Messenger of Allah ﷺ forbade us from killing frogs."
+
+إِنَّهُ كَانَ حَلِيمًا غَفُورًا
+
+(Truly, He is Ever Forbearing, Oft-Forgiving.) means, He does not hasten to punish those who disobey Him, rather He gives them time and waits, then if they persist in their stubborn Kufr, He seizes them with a punishment of the All-Mighty, All-Capable. It was recorded in the Two Sahihs that:
+
+إِنَّ اللهَ لَيُمْلِي لِلظَّالِمِ حَتَّى إِذَا أَخَذَهُ لَمْ يُفْلِتْهُ
+
+(Allah will let the wrongdoer carry on until, when He does seize him, He will never let him go.) Then the Messenger of Allah ﷺ recited:
+
+وَكَذَٰلِكَ أَخْذُ رَبِّكَ إِذَا أَخَذَ الْقُرَىٰ وَهِيَ ظَالِمَةٌ
+
+(Such is the punishment of your Lord when He seizes the (population of) towns while they are doing wrong.)[11:102] Allah says:
+
+فَكَأَيِّن مِّن قَرْيَةٍ أَهْلَكْنَاهَا وَهِيَ ظَالِمَةٌ
+
+(And many a township did We destroy while they were given to wrongdoing.)[22:45] until the end of two Ayat.
+
+وَكَأَيِّن مِّن قَرْيَةٍ أَمْلَيْتُ لَهَا وَهِيَ ظَالِمَةٌ
+
+(And many a township did I give respite while it was given to wrongdoing.)[22:48]
+
+Whoever gives up his disbelief and disobedience, and turns back to Allah in repentance, Allah will accept his repentance, as He says:
+
+وَمَن يَعْمَلْ سُوءًا أَوْ يَظْلِمْ نَفْسَهُ ثُمَّ يَسْتَغْفِرِ اللَّهَ
+
+(And whoever does evil or wrongs himself but afterwards seeks Allah's forgiveness)[4:110] Here, Allah says:
+
+إِنَّهُ كَانَ حَلِيمًا غَفُورًا
+
+(Truly, He is Ever Forbearing, Oft-Forgiving.) At the end of Surah Fatir, He says:
+
+إِنَّ اللَّهَ يُمْسِكُ السَّمَاوَاتِ وَالْأَرْضَ أَن تَزُولَا ۚ وَلَئِن زَالَتَا إِنْ أَمْسَكَهُمَا مِنْ أَحَدٍ مِّن بَعْدِهِ ۚ إِنَّهُ كَانَ حَلِيمًا غَفُورًا
+
+(Verily, Allah grasps the heavens and the earth lest they should move away from their places, and if they were to move away from their places, there is not one that could grasp them after Him. Truly, He is Ever Most Forbearing, Oft-Forgiving...) until His saying;
+
+وَلَوْ يُؤَاخِذُ اللَّهُ النَّاسَ
+
+(And if Allah were to punish men)(35:41-45)
 
 ### al-Tabari (Arabic)
 
-وقوله ( تُسَبِّحُ لَهُ السَّمَاوَاتُ السَّبْعُ وَالأرْضُ وَمَنْ فِيهِنَّ ) يقول:تنـزه الله أيها المشركون عما وصفتموه به إعظاما له وإجلالا السماوات السبع والأرض، ومن فيهنّ من المؤمنين به من الملائكة والإنس والجنّ، وأنتم مع إنعامه عليكم، وجميل أياديه عندكم، تفترون عليه بما تَفْتَرون.وقوله (وَإِنْ مِنْ شَيْءٍ إِلا يُسَبِّحُ بِحَمْدِهِ) يقول جلّ ثناؤه:وما من شيء من خلقه إلا يسبح بحمده.كما حدثني به نصر بن عبد الرحمن الأوْدِيّ، قال: ثنا محمد بن يعلَى، عن موسى بن عبيدة، عن زيد بن أسلم، عن جابر بن عب...
+القول في تأويل قوله تعالى: ﴿سُبْحَانَهُ وَتَعَالَى عَمَّا يَقُولُونَ عُلُوًّا كَبِيرًا (٤٣) تُسَبِّحُ لَهُ السَّمَاوَاتُ السَّبْعُ وَالأرْضُ وَمَنْ فِيهِنَّ وَإِنْ مِنْ شَيْءٍ إِلا يُسَبِّحُ بِحَمْدِهِ وَلَكِنْ لا تَفْقَهُونَ تَسْبِيحَهُمْ إِنَّهُ كَانَ حَلِيمًا غَفُورًا (٤٤) ﴾
+
+وهذا تنزيه من الله تعالى ذكره نفسه عما وصفه به المشركون، الجاعلون معه آلهة غيره، المضيفون إليه البنات، فقال: تنزيها لله وعلوّا له عما تقولون أيها القوم، من الفرية والكذب، فإن ما تضيفون إليه من هذه الأمور ليس من صفته، ولا ينبغي أن يكون له صفة.
+
+كما:-
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة ﴿سُبْحَانَهُ وَتَعَالَى عَمَّا يَقُولُونَ عُلُوًّا كَبِيرًا﴾ يسبح نفسه إذ قيل عليه البهتان. وقال تعالى ﴿عَمَّا يَقُولُونَ عُلُوًّا﴾ ولم يقل: تعاليا، كما قال ﴿وَتَبَتَّلْ إِلَيْهِ تَبْتِيلا﴾ كما قال الشاعر:
+
+أَنْتَ الفِدَاءُ لكَعْبَةٍ هَدَّمْتَها ... وَنَقَرْتَها بِيَدَيْكَ كُلَّ مَنَقَّر ... مُنِعَ الحَمامُ مَقِيلَهُ مِنْ سَقْفِها ... ومِنَ الحَطِيم فَطَارَ كُلَّ مُطَيَّرِ [[البيتان شاهدان على أن المصدرين منقر ومطير المضافين إلى كل المعرب مفعولا مطلقا ليس من لفظ الفعل السابق عليهما، لأن المنقر من نقر بتشديد القاف، والمطير من طير بتشديد الياء، مع أن الفعلين السابقين ثلاثيان. ولكن العرب تجيز وضع المصادر المختلفة عن الأفعال السابقة عليها، ومنه في القرآن: " وتبتل إليه تبتيلا " ومصدر تبتل: هو التبتل لا التبتيل، ولكن ذلك جائز لأن الحروف الأصول مشتركة في الأفعال والمصادر التي تليها.]]
+
+* *
+
+وقوله ﴿تُسَبِّحُ لَهُ السَّمَاوَاتُ السَّبْعُ وَالأرْضُ وَمَنْ فِيهِنَّ﴾
+
+يقول:
+
+تنزه الله أيها المشركون عما وصفتموه به إعظاما له وإجلالا السماوات السبع والأرض، ومن فيهنّ من المؤمنين به من الملائكة والإنس والجنّ، وأنتم مع إنعامه عليكم، وجميل أياديه عندكم، تفترون عليه بما تَفْتَرون.
+
+* *
+
+وقوله ﴿وَإِنْ مِنْ شَيْءٍ إِلا يُسَبِّحُ بِحَمْدِهِ﴾
+
+يقول جلّ ثناؤه:
+
+وما من شيء من خلقه إلا يسبح بحمده.
+
+كما:-
+
+⁕ حدثني به نصر بن عبد الرحمن الأوْدِيّ، قال: ثنا محمد بن يعلَى، عن موسى بن عبيدة، عن زيد بن أسلم، عن جابر بن عبد الله، قال: قال رسول الله ﷺ: "ألا أُخْبِرُكُمْ بِشَيْءٍ أَمَرَ بِهِ نُوحٌ ابْنَهُ؟ إِنَّ نُوحا قالَ لابْنِهِ يا بُنَيَّ آمُرُكَ أنْ تَقُولَ سُبْحانَ الله وبِحَمْدِهِ فإنَّها صَلاةُ الخَلْق، وَتَسْبِيحُ الخَلْقِ، وبِها تُرْزَقُ الخَلْقُ، قالَ الله ﴿وَإِنْ مِنْ شَيْءٍ إِلا يُسَبِّحُ بِحَمْدِهِ﴾ .
+
+⁕ حدثنا ابن حميد، قال: ثنا يحيى بن واضح، قال: ثنا عيسى بن عبيد، قال: سمعت عكرمة يقول: لا يَعِيبنّ أحدكم دابته ولا ثوبه، فإن كل شيء يسبح بحمده.
+
+⁕ حدثنا ابن حميد، قال: ثنا يحيى بن واضح، قال: ثنا الحسين، عن يزيد، عن عكرمة ﴿وَإِنْ مِنْ شَيْءٍ إِلا يُسَبِّحُ بِحَمْدِهِ﴾ قال: الشجرة تسبح، والأسْطوانة تسبح.
+
+⁕ حدثنا ابن حميد، قال: ثنا يحيى بن واضح وزيد بن حباب، قالا ثنا جرير أبو الخطاب، قال: كنا مع يزيد الرقاشي ومعه الحسن في طعام، فقدّموا الخوان، فقال يزيد الرقاشي: يا أبا سعيد يسبح هذا الخوان: فقال: كان يسبح مرّة.
+
+⁕ حدثني يعقوب، قال: ثنا هشيم، قال: أخبرنا جويبر، عن الضحاك، ويونس، عن الحسن أنهما قالا في قوله ﴿وَإِنْ مِنْ شَيْءٍ إِلا يُسَبِّحُ بِحَمْدِهِ﴾ قالا كلّ شيء فيه الروح.
+
+⁕ حدثنا محمد بن بشار، قال: ثنا عبد الكبير بن عبد المجيد، قال: ثنا سفيان، عن منصور، عن إبراهيم، قال: الطعام يسبح.
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا محمد بن ثور، عن معمر عن قتادة ﴿وَإِنْ مِنْ شَيْءٍ إِلا يُسَبِّحُ بِحَمْدِهِ﴾ قال: كلّ شيء فيه الروح يسبح، من شجر أو شيء فيه الروح.
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، عن عبد الله بن أبي، عن عبد الله بن عمرو، أن الرجل إذا قال: لا إله إلا الله فهي كلمة الإخلاص التي لا يقبل الله من أحد عملا حتى يقولها، فإذا قال الحمد لله، فهي كلمة الشكر التي لم يشكر الله عبد قطّ حتى يقولها، فإذا قال الله أكبر، فهي تملأ ما بين السماء والأرض، فإذا قال سبحان الله، فهي صلاة الخلائق التي لم يَدْعُ الله أحد من خلقه إلا نوّره بالصلاة والتسبيح، فإذا قال لا حول ولا قوّة إلا بالله، قال: أسلم عبدي واستسلم.
+
+* *
+
+وقوله ﴿وَلَكِنْ لا تَفْقَهُونَ تَسْبِيحَهُمْ﴾
+
+يقول تعالى ذكره: ولكن لا تفقهون تسبيح ما عدا تسبيح من كان يسبح بمثل ألسنتكم ﴿إِنَّهُ كَانَ حَلِيمًا﴾ يقول: إن الله كان حليما لا يعجل على خلقه، الذين يخالفون أمره، ويكفرون به، ولولا ذلك لعاجل هؤلاء المشركين الذين يدعون معه الآلهة والأنداد بالعقوبة ﴿غَفُورًا﴾ يقول: ساترا عليهم ذنوبهم، إذا هم تابوا منها بالعفو منه لهم.
+
+كما:-
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة ﴿إِنَّهُ كَانَ حَلِيمًا﴾ عن خلقه، فلا يعجل كعجلة بعضهم على بعض ﴿غَفُورًا﴾ لهم إذا تابوا.
 
 ### al-Muyassar (Arabic)
 
@@ -45,7 +274,7 @@ Allah says: the seven heavens and the earth and all that is therein, meaning the
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿تُسَبِّح لَهُ﴾ تُنَزِّههُ ﴿وإنْ﴾ ما ﴿مِن شَيْء﴾ مِن المَخْلُوقات ﴿إلّا يُسَبِّح﴾ مُتَلَبِّسًا بِحَمْدِهِ ﴿بِحَمْدِهِ﴾ أيْ يَقُول سُبْحان اللَّه وبِحَمْدِهِ ﴿ولَكِنْ لا تَفْقَهُونَ﴾ تَفْهَمُونَ ﴿تَسْبِيحهمْ﴾ لِأَنَّهُ لَيْسَ بِلُغَتِكُمْ ﴿إنّهُ كانَ حَلِيمًا غَفُورًا﴾ حَيْثُ لَمْ يُعاجِلكُمْ بِالعُقُوبَةِ
 
 ---
 
@@ -53,12 +282,123 @@ Allah says: the seven heavens and the earth and all that is therein, meaning the
 
 ### Ibn Kathir (English)
 
+Truly, We did offer the Amanah to the heavens and the earth, and the mountains, but they declined to bear it and were afraid of it. But man bore it. Verily, he was unjust and ignorant (72)So that Allah will punish the hypocrites, men and women, and the men and women who are idolators. And Allah will pardon the believers, men and women. And Allah is Ever Oft-Forgiving, Most Merciful (73)
+
 How Man bore the Amanah
-Al-`Awfi reported that Ibn `Abbas said, "Al-Amanah means obedience. This was offered to them before it was offered to Adam, and they could not bear it. Then Allah said to Adam: `I have offered the Amanah to the heavens and the earth and the mountains, and they could not bear it. Will you take it on' He said, `O Lord, what does it involve' He said, `If you do good, you will be rewarded, and if you do evil, you will be punished.' So Adam took the Amanah and bore it, and ...
+
+Al-'Awfi reported that Ibn 'Abbas said, "Al-Amanah means obedience. This was offered to them before it was offered to Adam, and they could not bear it. Then Allah said to Adam: 'I have offered the Amanah to the heavens and the earth and the mountains, and they could not bear it. Will you take it on?' He said, 'O Lord, what does it involve?' He said, 'If you do good, you will be rewarded, and if you do evil, you will be punished.' So Adam took the Amanah and bore it, and this is what is referred to in the Ayah:
+
+وَحَمَلَهَا الْإِنْسَانُ ۖ إِنَّهُ كَانَ ظَلُومًا جَهُولًا
+
+(But man bore it. Verily, he was unjust and ignorant.)" 'Ali bin Abi Talhah reported that Ibn 'Abbas said, "Al-Amanah means Al-Fara'id (the obligatory duties). Allah offered them to the heavens and the earth and the mountains, (on the grounds that) if they fulfilled them, He would reward them; and if they failed, He would punish them. But they did not want to do that, and they were afraid of it, not because their intention was sinful, but because of their respect for the religion of Allah, in case they could not fulfill the obligations involved. Then Allah offered it to Adam, and he accepted it with all that it entailed. This is what is referred to in the Ayah:
+
+وَحَمَلَهَا الْإِنْسَانُ ۖ إِنَّهُ كَانَ ظَلُومًا جَهُولًا
+
+(But man bore it. Verily, he was unjust and ignorant.) meaning, he underestimated the command of Allah." This was also the view of Mujahid, Sa'id bin Jubayr, Ad-Dahhak, Al-Hasan Al-Basri and others that Al-Amanah means Al-Fara'id. Others said that it meant obedience. Al-A'mash narrated from Abu Ad-Duha from Masruq that Ubayy bin Ka'b said: "Part of Al-Amanah means that woman was entrusted with her own chastity." Qatadah said: "Al-Amanah means religion, obligatory duties and prescribed punishments." Malik narrated that Zayd bin Aslam said: "Al-Amanah means three things: prayer, fasting and performing Ghusl to cleanse oneself from sexual impurity."
+
+There is no contradiction between all of these views; they are all in agreement and all refer to responsibility and the acceptance of commands and prohibitions with their attendant conditions, which is that the one who fulfills this responsibility, will be rewarded; while the one who neglects it, will be punished. Man accepted this despite the fact that he is weak, ignorant and unjust – except for those whom Allah helps, and Allah is the One Whose help we seek.
+
+One of the reports which deal with Al-Amanah is the Hadith recorded by Imam Ahmad from Hudhayfah, may Allah be pleased with him, who said: "The Messenger of Allah ﷺ told us two Hadiths, one of which I have seen and the other I am still waiting to see. He told us that Al-Amanah is deeply rooted in the heart of man, then the Qur'an was revealed and they know it from the Qur'an and from the Sunnah. Then he told us that Al-Amanah will be taken away. He said,
+
+يَنَامُ الرَّجُلُ النَّوْمَةَ فَتُقْبَضُ الْأَمَانَةُ مِنْ قَلْبِهِ، فَيَظَلُّ أَثَرُهَا مِثْلَ أَثَرِ الْمَجْلِ كَجَمْرٍ دَحْرَجْتَهُ عَلَى رِجْلِكِ، تَرَاهُ مُنْتَبِرًا وَلَيْسَ فِيهِ شَيْءٌ
+
+(A man may sleep and Al-Amanah will be taken from his heart, leaving nothing but a trace like a blister left by a coal if you were to roll it over your leg – you will see it protruding but there is nothing inside.) Then he took a pebble and rolled it over his leg, then he said:
+
+فَيُصْبِحُ النَّاسُ يَتَبَايَعُونَ لَا يَكَادُ أَحَدٌ يُؤَدِّي الْأَمَانَةَ حَتَّى يُقَالَ: إِنَّ فِي بَنِي فُلَانٍ رَجُلًا أَمِينًا، حَتَّى يُقَالَ لِلرَّجُلِ مَا أَجْلَدَهُ وَأَظْرَفَهُ وَأَعْقَلَهُ! وَمَا فِي قَلْبِهِ حَبَّةُ خَرْدَلٍ مِنْ إِيمَانٍ
+
+(Then the people will start buying and selling, and hardly anyone will be paying attention to Al-Amanah, until it will be said that among the tribe of so-and-so there is a trustworthy man, and it will said of a man, 'how strong he is, how nice and how wise,' and there is not even a mustard seed of faith in his heart.)
+
+No doubt, there came upon me a time when I did not mind dealing (bargaining) with anyone of you, for if he was a Muslim, his Islam would compel him to pay me what is due to me, and if he was a Christian, or Jew, the Muslim official would compel him to pay me what is due to me, but today, I do not deal except with such and such person among you." It was also recorded in the Two Sahihs from the Hadith of Al-A'mash.
+
+Imam Ahmad recorded that 'Abdullah bin 'Amr, may Allah be pleased with him, said that the Messenger of Allah ﷺ said:
+
+أَرْبَعٌ إِذَا كُنَّ فِيكَ فَلَا عَلَيْكَ مَا فَاتَكَ مِنَ الدُّنْيَا: حِفْظُ أَمَانَةٍ، وَصِدْقُ حَدِيثٍ، وَحُسْنُ خَلِيقَةٍ، وَعِفَّةُ طُعْمَةٍ
+
+(There are four things, if you attain them, then whatever you miss in this world will not matter: preserving trust, speaking the truth, being of good character and moderation in eating.)
+
+The Result of taking on the Amanah
+
+لِيُعَذِّبَ اللَّهُ الْمُنَافِقِينَ وَالْمُنَافِقَاتِ وَالْمُشْرِكِينَ وَالْمُشْرِكَاتِ
+
+(So that Allah will punish the hypocrites, men and women, and the men and women who are idolators.) means, because the sons of Adam have undertaken to fulfill the Amanah, which means duties, Allah will punish the men and women among them who are hypocrites, who are those who make an outward display of faith because they fear the believers, but in their hearts they conceal disbelief and in fact are followers of the disbelievers.
+
+وَالْمُشْرِكِينَ وَالْمُشْرِكَاتِ
+
+(and the men and women who are idolators.) these are the ones who both outwardly and inwardly associate others in worship with Allah and go against His Messengers.
+
+وَيَتُوبَ اللَّهُ عَلَى الْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ
+
+(And Allah will pardon the believers, men and women.) means, He will show mercy to the believers among mankind, who believe in Allah and in His angels, Books and Messengers, and who obey Him.
+
+وَكَانَ اللَّهُ غَفُورًا رَحِيمًا
+
+(And Allah is Ever Oft-Forgiving, Most Merciful.)
+
+This is end of the Tafsir of Surat Al-Ahzab. Allah's is the praise and thanks.
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله تعالى :  إِنَّا عَرَضْنَا الأَمَانَةَ عَلَى السَّمَاوَاتِ وَالأَرْضِ وَالْجِبَالِ فَأَبَيْنَ أَنْ يَحْمِلْنَهَا وَأَشْفَقْنَ مِنْهَا وَحَمَلَهَا الإِنْسَانُ إِنَّهُ كَانَ ظَلُومًا جَهُولا (72)اختلف أهل التأويل في معنى ذلك فقال بعضهم: معناه: إن الله عرض طاعته وفرائضه على السموات والأرض والجبال على أنها إن أحسنت أثيبت وجوزيت، وإن ضيعت عوقبت، فأبت حملها شفقًا منها أن لا تقوم بالواجب عليها، وحملها آدم (إِنَّهُ كَانَ ظَلُومًا) لنفسه (َجُهولا) بالذي فيه الحظ له.* ذكر من قال ذلك:...
+القول في تأويل قوله تعالى: ﴿إِنَّا عَرَضْنَا الأمَانَةَ عَلَى السَّمَاوَاتِ وَالأرْضِ وَالْجِبَالِ فَأَبَيْنَ أَنْ يَحْمِلْنَهَا وَأَشْفَقْنَ مِنْهَا وَحَمَلَهَا الإنْسَانُ إِنَّهُ كَانَ ظَلُومًا جَهُولا (٧٢) ﴾
+
+اختلف أهل التأويل في معنى ذلك فقال بعضهم: معناه: إن الله عرض طاعته وفرائضه على السموات والأرض والجبال على أنها إن أحسنت أثيبت وجوزيت، وإن ضيعت عوقبت، فأبت حملها شفقًا منها أن لا تقوم بالواجب عليها، وحملها آدم ﴿إِنَّهُ كَانَ ظَلُومًا﴾ لنفسه ﴿َجُهولا﴾ بالذي فيه الحظ له.
+
+ذكر من قال ذلك:
+
+⁕ حدثني يعقوب بن إبراهيم، قال: ثنا هشيم عن أَبي بشر عن سعيد بن جبير في قوله ﴿إِنَّا عَرَضْنَا الأمَانَةَ عَلَى السَّمَاوَاتِ وَالأرْضِ وَالْجِبَالِ فَأَبَيْنَ أَنْ يَحْمِلْنَهَا وَأَشْفَقْنَ مِنْهَا﴾ قال: الأمانة: الفرائض التي افترضها الله على العباد.
+
+⁕ قال: ثنا هشيم عن العوام عن الضحاك بن مزاحم عن ابن عباس في قوله ﴿إِنَّا عَرَضْنَا الأمَانَةَ عَلَى السَّمَاوَاتِ وَالأرْضِ وَالْجِبَالِ فَأَبَيْنَ أَنْ يَحْمِلْنَهَا﴾ قال: الأمانة الفرائض التي افترضها الله على عباده.
+
+⁕ قال: ثنا هشيم قال أخبرنا العوام بن حوشب وجويبر [[في الأصل: وجبير. وسيأتي في الحديث نفسه أنه جويبر.]] كلاهما عن الضحاك عن ابن عباس في قوله ﴿إِنَّا عَرَضْنَا الأمَانَةَ ... ﴾ إلى قوله: ﴿جَهُولا﴾ قال: الأمانة الفرائض. قال جويبر في حديثه: فلما عرضت على آدم قال: أي رب وما الأمانة؟ قال: قيل: إن أديتها جزيت، وإن ضيعتها عوقبت، قال: أي رب حملتها بما فيها، قال: فما مكث في الجنة إلا قدر ما بين العصر إلى غروب الشمس حتى عمل بالمعصية، فأخرج منها.
+
+⁕ حدثنا ابن بشار قال ثنا محمد بن جعفر قال ثنا شعبة عن أَبي بشر عن سعيد عن ابن عباس أنه قال في هذه الآية ﴿إِنَّا عَرَضْنَا الأمَانَةَ﴾ قال: عرضت على آدم، فقال: خذها بما فيها فإن أطعت غفرت لك وإن عصيت عذبتك، قال: قد قبلت، فما كان إلا قدر ما بين العصر إلى الليل من ذلك اليوم حتى أصاب الخطيئة.
+
+⁕ حدثني علي قال: ثنا أَبو صالح قال: ثني معاوية عن علي عن ابن عباس قوله: ﴿إِنَّا عَرَضْنَا الأمَانَةَ عَلَى السَّمَاوَاتِ وَالأرْضِ وَالْجِبَالِ﴾ إن أدوها أثابهم وإن ضيعوها عذبهم، فكرهوا ذلك، وأشفقوا من غير معصية، ولكن تعظيما لدين الله أن لا يقوموا بها، ثم عرضها على آدم فقبلها بما فيها، وهو قوله: ﴿وَحَمَلَهَا الإنْسَانُ إِنَّهُ كَانَ ظَلُومًا جَهُولا﴾ غرًّا بأمر الله.
+
+⁕ حدثني محمد بن سعد قال: ثني أَبى قال: ثني عمي قال: ثني أَبي عن أبيه عن ابن عباس قوله ﴿إِنَّا عَرَضْنَا الأمَانَةَ﴾ : الطاعة عرضها عليها قبل أن يعرضها على آدم، فلم تطقها، فقال لآدم: يا آدم إني قد عرضت الأمانة على السموات والأرض والجبال، فلم تطقها، فهل أنت آخذها بما فيها؟ فقال: يا رب: وما فيها؟ قال: إن أحسنت جزيت وإن أسأت عوقبت، فأخذها آدم فتحملها فذلك قوله ﴿وَحَمَلَهَا الإنْسَانُ إِنَّهُ كَانَ ظَلُومًا جَهُولا﴾ .
+
+⁕ حدثنا ابن بشار قال: ثنا أَبو أحمد الزبيري قال: ثنا سفيان عن رجل عن الضحاك بن مزاحم في قوله ﴿إِنَّا عَرَضْنَا الأمَانَةَ عَلَى السَّمَاوَاتِ وَالأرْضِ وَالْجِبَالِ فَأَبَيْنَ أَنْ يَحْمِلْنَهَا وَأَشْفَقْنَ مِنْهَا وَحَمَلَهَا الإنْسَانُ إِنَّهُ كَانَ ظَلُومًا جَهُولا﴾ قال: آدم قيل له خذها بحقها قال وما حقها؟ قيل: إن أحسنت جزيت وإن أسأت عوقبت، فما لبث ما بين الظهر والعصر حتى أخرج منها.
+
+⁕ حُدثت عن الحسين قال سمعت أبا معاذ يقول أخبرنا عبيد قال سمعت الضحاك يقول في قوله: ﴿إِنَّا عَرَضْنَا الأمَانَةَ عَلَى السَّمَاوَاتِ وَالأرْضِ وَالْجِبَالِ﴾ فلم يطقن حملها فهل أنت يا آدم آخذها بما فيها؟ قال آدم وما فيها يا رب؟ قال: إن أحسنت جزيت وإن أسأت عوقبت فقال: تحملتها، فقال الله تبارك وتعالى: قد حملتكها، فما مكث آدم إلا مقدار ما بين الأولى إلى العصر حتى أخرجه إبليس لعنه الله من الجنة، والأمانة الطاعة.
+
+⁕ حدثني سعيد بن عمرو السكوني قال ثنا بقية قال ثني عيسى بن إبراهيم عن موسى بن أبي حبيب عن الحكم بن عمرو وكان من أصحاب النبي ﷺ قال: قال النبي ﷺ: "إِنَّ الأمَانَةَ وَالْوَفَاءَ نزلا عَلَى ابنِ آدَمَ مَعَ الأنْبِيَاءِ، فَأُرْسِلُوا بِهِ؛ فَمِنهُمْ رَسُولَ اللهِ وَمِنْهُمْ نَبِي وَمِنْهُمْ نَبِي رَسُولٌ، نزل القرآن وهو كلام الله ونزلت العربية والعجمية، فعلموا أمر القرآن وعلموا أمر السنن بألسنتهم، ولم يدع الله شيئًا من أمره مما يأتون ومما يجتنبون وهي الحجج عليهم إلا بينة لهم، فليس أهل لسان إلا وهم يعرفون الحسن من القبيح. ثم الأمانة أول شيء يرفع، ويبقى أثرها في جذور قلوب الناس، ثم يرفع الوفاء والعهد والذمم، وتبقى الكتب؛ فعالم يعمل وجاهل يعرفها وينكرها حتى وصل إليَّ وإلى أمتي فلا يهلك على الله إلا هالك، ولا يغفله إلا تارك، والحذر أيها الناس، وإياكم والوسواس الخناس، وإنما يبلوكم أيكم أحسن عملا".
+
+⁕ حدثني محمد بن خلف العسقلاني قال ثنا عبد الله بن عبد المجيد الحنفي قال ثنا العوام العطار قال ثنا قتادة وأبان بن أبي عياش عن خليد العصري عن أَبي الدرداء قال: قال رسول الله ﷺ: "خمس من جاء بهن يوم القيامة مع إيمان دخل الجنة: من حافظ على الصلوات الخمس؛ على وضوئهن وركوعهن وسجودهن ومواقيتهن، وأعطى الزكاة من ماله طيب النفس بها" وكان يقول: وايم الله لا يفعل ذلك إلا مؤمن، وصام رمضان، وحج البيت إن استطاع إلى ذلك سبيلا وأدى الأمانة، قالوا: يا أبا الدرداء وما الأمانة؟ قال: الغسل من الجنابة فإن الله لم يأمن ابن آدم على شيء من دينه غيره.
+
+⁕ حدثنا ابن بشار قال: ثنا عبد الرحمن قال: ثنا سفيان عن الأعمش عن أَبي الضحى عن مسروق عن أُبي بن كعب، قال: من الأمانة أن المرأة اؤتمنت على فرجها.
+
+⁕ حدثني يونس قال: ثنا ابن وهب قال: قال ابن زيد في قول الله ﴿إِنَّا عَرَضْنَا الأمَانَةَ عَلَى السَّمَاوَاتِ وَالأرْضِ وَالْجِبَالِ فَأَبَيْنَ أَنْ يَحْمِلْنَهَا وَأَشْفَقْنَ مِنْهَا﴾ قال: إن الله عرض عليهن الأمانة أن يفترض عليهن الدين، ويجعل لهن ثوابًا وعقابًا، ويستأمنهن على الدين، فقلن: لا نحن مسخرات لأمرك، لا نريد ثوابًا ولا عقابًا، قال رسول الله ﷺ: "وعرضها الله على آدم، فقال: بين أذني وعاتقي". قال ابن زيد فقال الله له: أما إذ تحملت هذا فسأعينك، أجعل لبصرك حجابًا إذا خشيت أن تنظر إلى ما لا يحل لك، فأرْخ عليه حجابه، وأجعل للسانك بابًا وغلقًا، فإذا خشيت فأغلق، وأجعل لفرجك لباسًا، فلا تكشفه إلا على ما أحللت لك.
+
+⁕ حدثنا بشر قال: ثنا يزيد قال: ثنا سعيد عن قتادة قوله ﴿إِنَّا عَرَضْنَا الأمَانَةَ عَلَى السَّمَاوَاتِ وَالأرْضِ وَالْجِبَالِ﴾ يعني به: الدين والفرائض والحدود ﴿فَأَبَيْنَ أَنْ يَحْمِلْنَهَا وَأَشْفَقْنَ مِنْهَا﴾ قيل لهن: احملنها تؤدين حقها؟ فقلن: لا نطيق ذلك ﴿وَحَمَلَهَا الإنْسَانُ إِنَّهُ كَانَ ظَلُومًا جَهُولا﴾ قيل له: أتحملها؟ قال: نعم، قيل: أتؤدي حقها؟ قال: نعم، قال الله: إنه كان ظلومًا جهولا عن حقها.
+
+وقال آخرون: بل عنى بالأمانة في هذا الموضع: أمانات الناس.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا تميم بن المنتصر قال: ثنا إسحاق عن شريك عن الأعمش عن عبد الله بن السائب عن زاذان عن عبد الله بن مسعود عن النبي ﷺ أنه قال: "القتل في سبيل الله يكفر الذنوب كلها، أو قال: يكفر كل شيء إلا الأمانة؛ يؤتى بصاحب الأمانة فيقال له: أد أمانتك، فيقول: أي رب وقد ذهبت الدنيا، ثلاثًا. فيقال: اذهبوا به إلى الهاوية، فيذهب به إليها، فيهوي فيها حتى ينتهي إلى قعرها، فيجدها هناك كهيئتها، فيحملها فيضعها على عاتقه فيصعد بها إلى شفير جهنم، حتى إذا رأى أنه قد خرج زلت، فهوى في أثرها أبد الآبدين". قالوا: والأمانة في الصلاة والأمانة في الصوم والأمانة في الحديث، وأشد ذلك الودائع، فلقيت البراء فقلت: ألا تسمع إلى ما يقول أخوك عبد الله؟ فقال: صدق.
+
+قال شريك وثني عياش العامري عن زاذان عن عبد الله بن مسعود عن النبي ﷺ بنحوه، لم يذكر الأمانة في الصلاة وفي كل شيء.
+
+⁕ حدثني يونس قال أخبرنا ابن وهب قال: قال ابن زيد: أخبرني عمرو بن الحارث عن ابن أَبي هلال عن أَبي حازم قال: إن الله عرض الأمانة على سماء الدنيا فأبت ثم التي تليها حتى فرغ منها، ثم الأرضين ثم الجبال، ثم عرضها على آدم فقال: نعم بين أذني وعاتقي. فثلاث آمرك بهن فإنهن لك عون: إني جعلت لك لسانًا بين لحيين فكفه عن كل شيء نهيتك عنه، وجعلت لك فرجًا وواريته فلا تكشفه إلى ما حرمت عليك [[ترك الثالثة والذي في الدر: إني جعلت لك بصرا، وجعلت لك شفرتين، فعضمها عن كل شيء نهيتك عنه، وجعلت لك لسانك ... إلخ.]] .
+
+وقال آخرون: بل ذلك إنما عنى به ائتمان آدم ابنه قابيل على أهله وولده، وخيانة قابيل أباه في قتله أخاه.
+
+ذكر من قال ذلك:
+
+⁕ حدثني موسى بن هارون قال: ثنا عمرو بن حماد قال: ثنا أسباط عن السدي في خبر ذكره عن أَبي مالك وعن أَبي صالح عن ابن عباس وعن مرة الهمداني عن ابن مسعود وعن ناس من أصحاب النبي ﷺ قال: كان لا يولد لآدم مولود إلا ولد معه جارية، فكان يزوج غلام هذا البطن جارية هذا البطن الآخر، ويزوج جارية هذا البطن غلام هذا البطن الآخر، حتى ولد له اثنان، يقال لهما: قابيل وهابيل، وكان قابيل صاحب زرع وكان هابيل صاحب ضرع، وكان قابيل أكبرهما وكان له أخت أحسن من أخت هابيل، وإن هابيل طلب أن ينكح أخت قابيل، فأبى عليه وقال: هي أختي ولدت معي وهي أحسن من أختك وأنا أحق أن أتزوجها فأمره أبوه أن يزوجها هابيل فأبى، وإنهما قربا قربانًا إلى الله أيهما أحق بالجارية، وكان آدم يومئذ قد غاب عنهما، أي بمكة ينظر إليها، قال الله لآدم: يا آدم هل تعلم أن لي بيتًا في الأرض؟ قال: اللهم لا قال: إن لي بيتا بمكة فأته، فقال آدم للسماء: احفظي ولدي بالأمانة فأبت، وقال للأرض فأبت، فقال للجبال فأبت، فقال لقابيل فقال: نعم، تذهب وترجع وتجد أهلك كما يسرك، فلما انطلق آدم وقربا قربانًا وكان قابيل يفخر عليه فيقول: أنا أحق بها منك؛ هي أختي، وأنا أكبر منك، وأنا وصي والدي، فلما قربا، قرب هابيل جَذَعَة سمينة وقرب هابيل حزمة سنبل، فوجد فيها سنبلة عظيمة ففركها فأكلها، فنزلت النار فأكلت قربان هابيل وتركت قربان قابيل، فغضب وقال: لأقتلنك حتى لا تنكح أختي فقال هابيل ﴿إِنَّمَا يَتَقَبَّلُ اللَّهُ مِنَ الْمُتَّقِينَ لَئِنْ بَسَطْتَ إِلَيَّ يَدَكَ لِتَقْتُلَنِي مَا أَنَا بِبَاسِطٍ يَدِيَ إِلَيْكَ لأقْتُلَكَ إِنِّي أَخَافُ اللَّهَ رَبَّ الْعَالَمِينَ ... ﴾ إلى قوله ﴿فَطَوَّعَتْ لَهُ نَفْسُهُ قَتْلَ أَخِيهِ﴾ فطلبه ليقتله فراغ الغلام منه في رءوس الجبال، وأتاه يوما من الأيام وهو يرعى غنمه في جبل وهو نائم، فرفع صخرة فشدخ بها رأسه فمات، وتركه بالعراء ولا يعلم كيف يدفن؛ فبعث الله غرابين أخوين فاقتتلا فقتل أحدهما صاحبه فحفر له ثم حثا عليه فلما رآه قال: ﴿يَاوَيْلَتَا أَعَجَزْتُ أَنْ أَكُونَ مِثْلَ هَذَا الْغُرَابِ فَأُوَارِيَ سَوْأَةَ أَخِي﴾ فهو قول الله تبارك وتعالى ﴿فَبَعَثَ اللَّهُ غُرَابًا يَبْحَثُ فِي الأرْضِ لِيُرِيَهُ كَيْفَ يُوَارِي سَوْأَةَ أَخِيهِ﴾ فرجع آدم فوجد ابنه قد قتل أخاه فذلك حين يقول ﴿إِنَّا عَرَضْنَا الأمَانَةَ عَلَى السَّمَاوَاتِ وَالأرْضِ وَالْجِبَالِ ... ﴾ إلى آخر الآية.
+
+وأولى الأقوال في ذلك بالصواب ما قاله الذين قالوا: إنه عُنِي بالأمانة في هذا الموضع: جميع معاني الأمانات في الدين وأمانات الناس وذلك أن الله لم يخص بقوله ﴿عَرَضْنَا الأمَانَةَ﴾ بعض معاني الأمانات لما وصفنا.
+
+وبنحو قولنا قال أهل التأويل في معنى قول الله ﴿إِنَّهُ كَانَ ظَلُومًا جَهُولا﴾ .
+
+ذكر من قال ذلك:
+
+⁕ حدثني موسى قال ثنا عمرو قال ثنا أسباط عن السدي ﴿إِنَّهُ كَانَ ظَلُومًا جَهُولا﴾ يعني قابيل حين حمل أمانة آدم لم يحفظ له أهله.
+
+⁕ حدثنا ابن بشار قال ثنا أَبو أحمد الزبيري قال ثنا سفيان عن رجل عن الضحاك في قوله ﴿وَحَملَهَا الإنْسَانُ﴾ قال آدم ﴿إِنَّهُ كَانَ ظَلُومًا جَهُولا﴾ قال: ظلومًا لنفسه جهولا فيما احتمل فيما بينه وبين ربه.
+
+⁕ حدثنا علي قال ثنا أَبو صالح قال ثني معاوية، عن علي عن ابن عباس (إِنَّهُ كَانَ ظَلُومًا جَهُولا) غر بأمر الله.
+
+⁕ حدثنا بشر قال ثنا يزيد قال ثنا سعيد عن قتادة ﴿إِنَّه كَانَ ظَلُومًا جَهُولا﴾ قال: ظلومًا لها يعني الأمانة جهولا عن حقها.
 
 ### al-Muyassar (Arabic)
 
@@ -66,7 +406,7 @@ Al-`Awfi reported that Ibn `Abbas said, "Al-Amanah means obedience. This was off
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿إنّا عَرَضْنا الأَمانَة﴾ الصَّلَوات وغَيْرها مِمّا فِي فِعْلها مِن الثَّواب وتَرْكها مِن العِقاب ﴿عَلى السَّماوات والأَرْض والجِبال﴾ بِأَنْ خَلَقَ فِيهِما فَهْمًا ونُطْقًا ﴿فَأَبَيْنَ أنْ يَحْمِلْنَها وأَشْفَقْنَ﴾ خِفْنَ ﴿مِنها وحَمَلَها الإنْسان﴾ آدَم بَعْد عَرْضها عَلَيْهِ ﴿إنّهُ كانَ ظَلُومًا﴾ لِنَفْسِهِ بِما حَمَلَهُ ﴿جَهُولًا﴾ بِهِ
 
 ---
 
@@ -74,16 +414,307 @@ Al-`Awfi reported that Ibn `Abbas said, "Al-Amanah means obedience. This was off
 
 ### Ibn Kathir (English)
 
-Some Details of the Creation of this Universe Here
-Allah denounces the idolators who worship other gods apart from Him although He is the Creator, Subduer and Controller of all things. He says:
-قُلْ أَءِنَّكُمْ لَتَكْفُرُونَ بِالَّذِى خَلَقَ الاٌّرْضَ فِى يَوْمَيْنِ وَتَجْعَلُونَ لَهُ أَندَاداً
-(Say: "Do you verily disbelieve in Him Who created the earth in two Days And you set up rivals with Him") meaning, `false gods whom you worship alongside Him'
-ذَلِكَ رَبُّ الْعَـلَمِينَ
-(That is the Lo...
+Say: "Do you verily disbelieve in Him Who created the earth in two Days? And you set up rivals with Him? That is the Lord of all that exists. (9)He placed therein firm mountains from above it, and He blessed it, and measured therein its sustenance in four Days equal for all those who ask (10)Then He rose over (Istawa ila) the heaven when it was smoke, and said to it and to the earth: "Come both of you willingly or unwillingly." They both said: "We come willingly. (11)Then He completed and finished their creation (as) seven heavens in two Days and He made in each heaven its affair. And We adorned the nearest (lowest) heaven with lamps (stars) to be an adornment as well as to guard. Such is the decree of Him, the Almighty, the All-Knower (12)
+
+Some Details of the Creation of this Universe
+
+Here Allah denounces the idolators who worship other gods apart from Him although He is the Creator, Subduer and Controller of all things. He says:
+
+قُلْ أَئِنَّكُمْ لَتَكْفُرُونَ بِالَّذِي خَلَقَ الْأَرْضَ فِي يَوْمَيْنِ وَتَجْعَلُونَ لَهُ أَنْدَادًا ۚ
+
+(Say: "Do you verily disbelieve in Him Who created the earth in two Days? And you set up rivals with Him?") meaning, 'false gods whom you worship alongside Him?'
+
+ذَٰلِكَ رَبُّ الْعَالَمِينَ
+
+(That is the Lord of the that exists.) the Creator of all things is the Lord of all the creatures. Here the Ayah;
+
+خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ فِي سِتَّةِ أَيَّامٍ
+
+(Who created the heavens and the earth in Six Days)(7:54). is explained in more detail; the creation of the earth and the creation of the heaven are discussed separately. Allah says that He created the earth first, because it is the foundation, and the foundation should be built first, then the roof. Allah says elsewhere:
+
+هُوَ الَّذِي خَلَقَ لَكُمْ مَا فِي الْأَرْضِ جَمِيعًا ثُمَّ اسْتَوَىٰ إِلَى السَّمَاءِ فَسَوَّاهُنَّ سَبْعَ سَمَاوَاتٍ ۚ
+
+(He it is Who created for you all that is on the earth. Then He rose over (Istawa ila) the heaven and made them seven heavens)(2:29). With regard to the Ayat:
+
+أَأَنْتُمْ أَشَدُّ خَلْقًا أَمِ السَّمَاءُ ۚ بَنَاهَا - رَفَعَ سَمْكَهَا فَسَوَّاهَا - وَأَغْطَشَ لَيْلَهَا وَأَخْرَجَ ضُحَاهَا - وَالْأَرْضَ بَعْدَ ذَٰلِكَ دَحَاهَا - أَخْرَجَ مِنْهَا مَاءَهَا وَمَرْعَاهَا - وَالْجِبَالَ أَرْسَاهَا - مَتَاعًا لَكُمْ وَلِأَنْعَامِكُمْ
+
+(Are you more difficult to create or is the heaven that He constructed? He raised its height, and has perfected it. Its night He covers with darkness and its forenoon He brings out (with light). And after that He spread the earth, And brought forth therefrom its water and its pasture. And the mountains He has fixed firmly, (to be) a provision and benefit for you and your cattle.)(79:27-33)
+
+This Ayah states that the spreading out of the earth came after the creation of the heavens, but the earth itself was created before the heavens according to some texts. This was the response of Ibn 'Abbas, may Allah be pleased with him, as recorded by Al-Bukhari in his Tafsir of this Ayah in his Sahih. He recorded that Sa'id bin Jubayr said: "A man said to Ibn 'Abbas, may Allah be pleased with him, saying: 'I find some things in the Qur'an which confuse me:
+
+فَلَا أَنْسَابَ بَيْنَهُمْ يَوْمَئِذٍ وَلَا يَتَسَاءَلُونَ
+
+(There will be no kinship among them that Day, nor will they ask of one another)(23:101),
+
+وَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍ يَتَسَاءَلُونَ
+
+(And they will turn to one another and question one another)(37:27),
+
+وَلَا يَكْتُمُونَ اللَّهَ حَدِيثًا
+
+(but they will never be able to hide a single fact from Allah)(4:42),
+
+وَاللَّهِ رَبِّنَا مَا كُنَّا مُشْرِكِينَ
+
+(By Allah, our Lord, we were not those who joined others in worship with Allah)(6:23)
+
+But in this Ayah they did hide something. And Allah says:
+
+أَأَنْتُمْ أَشَدُّ خَلْقًا أَمِ السَّمَاءُ ۚ بَنَاهَا
+
+(Are you more difficult to create or is the heaven that He constructed?) until;
+
+وَالْأَرْضَ بَعْدَ ذَٰلِكَ دَحَاهَا
+
+(And after that He spread the earth.)(79:27-30)
+
+So He mentioned the creation of the heavens before the earth, then He said:
+
+قُلْ أَئِنَّكُمْ لَتَكْفُرُونَ بِالَّذِي خَلَقَ الْأَرْضَ فِي يَوْمَيْنِ
+
+(Say: "Do you verily disbelieve in Him Who created the earth in two Days?...") until;
+
+طَائِعِينَ
+
+(We come willingly.) Here He mentioned the creation of the earth before the creation of the heavens. And He says:
+
+وَ كَانَ غَفُورًا رَحِيمًا
+
+(Verily, Allāh (Kāna) is Oft-Forgiving, Most Merciful.)(4:96)
+
+عَزِيزًا حَكِيمًا
+
+(Most Powerful, All-Wise)(4:56).
+
+سَمِيعًا بَصِيرًا
+
+(All-Hearer, All-Seer)(4:58). It is as if He was and is no longer.'
+
+Ibn 'Abbas, may Allah be pleased with him, replied:
+
+فَلَا أَنْسَابَ بَيْنَهُمْ يَوْمَئِذٍ وَلَا يَتَسَاءَلُونَ
+
+(There will be no kinship among them that Day, nor will they ask of one another)(23:101), this will happen when the Trumpet is blown for the first time.
+
+فَصَعِقَ مَنْ فِي السَّمَاوَاتِ وَمَنْ فِي الْأَرْضِ إِلَّا مَنْ شَاءَ اللَّهُ
+
+(And all who are in the heavens and all who are on the earth will swoon away, except him whom Allah wills)(39:68), and at that time there will be no kinship among them, nor will they ask of one another. Then when the Sur will be blown again,
+
+وَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍ يَتَسَاءَلُونَ
+
+(And they will turn to one another and question one another)(37:27). With regard to the Ayat,
+
+وَاللَّهِ رَبِّنَا مَا كُنَّا مُشْرِكِينَ
+
+(By Allah, our Lord, we were not those who joined others in worship with Allah)(6:23) and
+
+وَلَا يَكْتُمُونَ اللَّهَ حَدِيثًا
+
+(but they will never be able to hide a single fact from Allah)(4:42), Allah will forgive the sincere believers their sins, then the idolators will say, 'Let us say that we never joined others in worship with Allah.' Then a seal will be placed over their mouths, and their hands will speak. Then it will be known that not a single fact can be hidden from Allah, and at that point,
+
+يَوَدُّ الَّذِينَ كَفَرُوا
+
+(those who disbelieved will wish)(4:42). Allah created the earth in two days, then He created the heavens, then He (Istawa ila) the heaven and gave it its shape in two more days. Then He spread the earth, which means that He brought forth therefrom its water and its pasture. And He created the mountains, sands, inanimate things, rocks and hills and everything in between, in two more days. This is what Allah says:
+
+دَحَاهَا
+
+((He) spread (the earth))(79:30) And Allah's saying:
+
+خَلَقَ الْأَرْضَ فِي يَوْمَيْنِ
+
+((He) created the earth in two Days) So He created the earth and everything in it in four days, and He created the heavens in two days.
+
+وَ كَانَ غَفُورًا رَحِيمًا
+
+(Verily, Allāh (Kāna) is Oft-Forgiving, Most Merciful.)(4:96). This is how He described Himself, and this is how He still is. Whatever Allah wills comes to pass, so do not be confused about the Qur'an, for all of it comes from Allah.'" This was recorded by Al-Bukhari.
+
+خَلَقَ الْأَرْضَ فِي يَوْمَيْنِ
+
+((He) created the earth in two Days) means, on Sunday and Monday.
+
+وَجَعَلَ فِيهَا رَوَاسِيَ مِنْ فَوْقِهَا وَبَارَكَ فِيهَا
+
+(He placed therein firm mountains from above it, and He blessed it,) means, He blessed it and gave it the potential to be planted with seeds and bring forth produce.
+
+وَقَدَّرَ فِيهَا أَقْوَاتَهَا
+
+(And measured therein its sustenance) means, what its people need of provision and places in which to plant things and grow crops. This was on Tuesday and Wednesday, which together with the two previous days add up to four days.
+
+فِي أَرْبَعَةِ أَيَّامٍ سَوَاءً لِلسَّائِلِينَ
+
+(in four Days equal for all those who ask.) meaning, for those who want to ask about that, so that they might know. 'Ikrimah and Mujahid said concerning the Ayah:
+
+وَقَدَّرَ فِيهَا أَقْوَاتَهَا
+
+(and measured therein its sustenance): "He placed in every land that which is not suited for any other land." Ibn 'Abbas, Qatadah and As-Suddi said, concerning the Ayah,
+
+سَوَاءً لِلسَّائِلِينَ
+
+(equal for all those who ask): this means, "For whoever wants to ask about that." Ibn Zayd said:
+
+وَقَدَّرَ فِيهَا أَقْوَاتَهَا فِي أَرْبَعَةِ أَيَّامٍ سَوَاءً لِلسَّائِلِينَ
+
+(and measured therein its sustenance in four Days equal for all those who ask.) "According to whatever a person who is need of provision wants, Allah measures out for him what he needs." This is like what they said concerning the Ayah:
+
+وَآتَاكُمْ مِنْ كُلِّ مَا سَأَلْتُمُوهُ ۚ
+
+(And He gave you of all that you asked for)(14:34). And Allah knows best.
+
+ثُمَّ اسْتَوَىٰ إِلَى السَّمَاءِ وَهِيَ دُخَانٌ
+
+(Then He rose over (Istawā ilā) towards the heaven when it was smoke,) i.e., steam which arose from it when the earth was created.
+
+فَقَالَ لَهَا وَلِلْأَرْضِ ائْتِيَا طَوْعًا أَوْ كَرْهًا
+
+(and said to it and to the earth: "Come both of you willingly or unwillingly.") meaning, 'respond to My command and be subjected to this action, willingly or unwillingly.'
+
+قَالَتَا أَتَيْنَا طَائِعِينَ
+
+(They both said: "We come willingly.") meaning, 'we will respond to You willingly and everything that You want to create in us – angels, Jinn and men – will all be obedient to You.'
+
+فَقَضَاهُنَّ سَبْعَ سَمَاوَاتٍ فِي يَوْمَيْنِ
+
+(Then He completed and finished their creation (as) seven heavens in two Days) means, He finished forming them as seven heavens in two more days, which were Thursday and Friday.
+
+وَأَوْحَىٰ فِي كُلِّ سَمَاءٍ أَمْرَهَا
+
+(and He decreed in each heaven its affair.) means, He placed in each heaven whatever it needs of angels and things which are known only unto Him.
+
+وَزَيَّنَّا السَّمَاءَ الدُّنْيَا بِمَصَابِيحَ
+
+(And We adorned the nearest (lowest) heaven with lamps) means, the stars and planets which shine on the people of the earth.
+
+وَحِفْظًا
+
+(as well as to guard.) means, as protection against the Shayatin, lest they listen to the angels on high.
+
+ذَٰلِكَ تَقْدِيرُ الْعَزِيزِ الْعَلِيمِ
+
+(Such is the Decree of Him, the Almighty, the All-Knower) means, the Almighty Who has subjugated all things to His control, the All-Knower Who knows all the movements of His creatures.
 
 ### al-Tabari (Arabic)
 
-وقوله: ( ثُمَّ اسْتَوَى إِلَى السَّمَاءِ وَهِيَ دُخَانٌ فَقَالَ لَهَا وَلِلأرْضِ اِئْتِيَا طَوْعًا أَوْ كَرْهًا قَالَتَا أَتَيْنَا طَائِعِينَ ) يعني تعالى ذكره: ثم استوى إلى السماء, ثم ارتفع إلى السماء.وقد بيَّنا أقوال أهل العلم في ذلك فيما مضى قبل.وقوله: ( فَقَالَ لَهَا وَلِلأرْضِ اِئْتِيَا طَوْعًا أَوْ كَرْهًا ) يقول جلّ ثناؤه: فقال الله للسماء والأرض: جيئا بما خلقت فيكما, أما أنت يا سماء فأطلعي ما خلقت فيك من الشمس والقمر والنجوم, وأما أنت يا أرض فأخرجي ما خلقت فيك من الأشجار والثمار والنب...
+القول في تأويل قوله تعالى: ﴿وَجَعَلَ فِيهَا رَوَاسِيَ مِنْ فَوْقِهَا وَبَارَكَ فِيهَا وَقَدَّرَ فِيهَا أَقْوَاتَهَا فِي أَرْبَعَةِ أَيَّامٍ سَوَاءً لِلسَّائِلِينَ (١٠) ثُمَّ اسْتَوَى إِلَى السَّمَاءِ وَهِيَ دُخَانٌ فَقَالَ لَهَا وَلِلأرْضِ اِئْتِيَا طَوْعًا أَوْ كَرْهًا قَالَتَا أَتَيْنَا طَائِعِينَ (١١) ﴾
+
+يقول تعالى ذكره: وجعل في الأرض التي خلق في يومين جبالا رواسي، وهي الثوابت في الأرض من فوقها، يعني: من فوق الأرض على ظهرها.
+
+* *
+
+وقوله: ﴿وَبَارَكَ فِيهَا﴾
+
+يقول: وبارك في الأرض فجعلها دائمة الخير لأهلها.
+
+وقد ذُكر عن السديّ في ذلك ما:-
+
+⁕ حدثنا موسى، قال: ثنا عمرو، قال: ثنا أسباط، عن السديّ: ﴿وَبَارَكَ فِيهَا﴾ قال: أنبت شجرها. ﴿وَقَدَّرَ فِيهَا أَقْوَاتَهَا﴾ اختلف أهل التأويل في ذلك، فقال بعضهم: وقدر فيها أقوات أهلها بمعنى أرزاقهم ومعايشهم.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن الحسن ﴿وَقَدَّرَ فِيهَا أَقْوَاتَهَا﴾ قال: أرزاقها.
+
+⁕ حدثني موسى، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قول الله: ﴿وَقَدَّرَ فِيهَا أَقْوَاتَهَا﴾ قال: قدر فيها أرزاق العباد، ذلك الأقوات.
+
+⁕ حدثنا موسى، قال: ثنا عمرو، قال: ثنا أسباط، عن السديّ ﴿وَقَدَّرَ فِيهَا أَقْوَاتَهَا﴾ يقول: أقواتها لأهلها.
+
+وقال آخرون: بل معناه: وقدر فيها ما يصلحها.
+
+ذكر من قال ذلك:
+
+⁕ حدثني علي بن سهل، قال: ثنا الوليد بن مسلم، عن خليد بن دعلج، عن قتادة، قوله: ﴿وَقَدَّرَ فِيهَا أَقْوَاتَهَا﴾ قال: صلاحها.
+
+وقال آخرون: بل معنى ذلك: وقدر فيها جبالها وأنهارها وأشجارها.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة ﴿وَقَدَّرَ فِيهَا أَقْوَاتَهَا﴾ : خلق فيها جبالها وأنهارها وبحارها وشجرها، وساكنها من الدواب كلها.
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة ﴿وَقَدَّرَ فِيهَا أَقْوَاتَهَا﴾ قال: جبالها ودوابها وأنهارها وبحارها.
+
+وقال آخرون: بل معنى ذلك: وقدر فيها أقواتها من المطر.
+
+ذكر من قال ذلك:
+
+⁕ حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى؛ وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء جميعا، عن ابن أبي نجيح، عن مجاهد، في قوله: ﴿وَقَدَّرَ فِيهَا أَقْوَاتَهَا﴾ قال: من المطر.
+
+وقال آخرون: بل معنى ذلك: وقدر في كل بلدة منها ما لم يجعله في الآخر منها لمعاش، بعضهم من بعض بالتجارة من بلدة إلى بلدة.
+
+ذكر من قال ذلك:
+
+⁕ حدثني الحسين بن محمد الذارع، قال: ثنا أبو محصن، قال: ثنا حسين، عن عكرمة، في قوله: ﴿وَقَدَّرَ فِيهَا أَقْوَاتَهَا﴾ قال: اليمانيّ باليمن، والسابريّ بسابور.
+
+⁕ حدثني محمد بن عبد الله بن بزيع، قال: ثنا أبو محصن، عن حصين، قال: قال عكرمة ﴿وَقَدَّرَ فِيهَا أَقْوَاتَهَا﴾ اليمانية باليمن، والسابرية بسابور، وأشباه هذا.
+
+⁕ حدثنا أبو كُرَيب، قال: ثنا ابن إدريس، قال: سمعت حصينا عن عكرمة في قوله: ﴿وَقَدَّرَ فِيهَا أَقْوَاتَهَا﴾ قال: في كل أرض قوت لا يصلح في غيرها، اليماني باليمن، والسابري بسابور.
+
+⁕ حدثني يعقوب بن إبراهيم، قال: ثنا هشيم، قال: أخبرنا حصين عن عكرمة في قوله: ﴿وَقَدَّرَ فِيهَا أَقْوَاتَهَا﴾ قال: البلد يكون فيه القوت أو الشيء لا يكون لغيره، ألا ترى أن السابري إنما يكون بسابور، وأن العصب إنما يكون باليمن ونحو ذلك.
+
+⁕ حدثني إسماعيل بن سيف، قال: ثنا ابن عبد الواحد بن زياد، عن خصيف، عن مجاهد، في قوله: ﴿وَقَدَّرَ فِيهَا أَقْوَاتَهَا﴾ قال: السابريّ بسابور، والطيالسة من الريّ.
+
+⁕ حدثني إسماعيل، قال: ثنا أبو النضر صاحب البصري، قال: ثنا أبو عوانة، عن مطرف، عن الضحاك في قوله: ﴿وَقَدَّرَ فِيهَا أَقْوَاتَهَا﴾ قال: السابريّ بسابور، والطيالسة من الريّ.
+
+فى قوله ﴿وَقَدَّرَ فِيهَا أَقْوَاتَهَا﴾ قال: السابريّ من سابور، والطيالسة من الريّ، والحِبَر من اليمن.
+
+والصواب من القول في ذلك أن يقال: إن الله تعالى أخبر أنه قدّر في الأرض أقوات أهلها، وذلك ما يقوتهم من الغذاء، ويصلحهم من المعاش، ولم يخصص جلّ ثناؤه بقوله ﴿وَقَدَّرَ فِيهَا أَقْوَاتَهَا﴾ أنه قَدّر فيها قوتا دون قوت، بل عم الخبر عن تقديره فيها جميع الأقوات، ومما يقوت أهلها ما لا يصلحهم غيره من الغذاء، وذلك لا يكون إلا بالمطر والتصرّف في البلاد لما خصّ به بعضا دون بعض، ومما أخرج من الجبال من الجواهر، ومن البحر من المآكل والحليّ، ولا قول في ذلك أصح مما قال جلّ ثناؤه: قدّر في الأرض أقوات أهلها، لما وصفنا من العلة.
+
+وقال جلّ ثناؤه: ﴿فِي أَرْبَعَةِ أَيَّامٍ﴾ لما ذكرنا قبل من الخبر الذي روينا عن ابن عباس، عن رسول الله ﷺ أنه فرغ من خلق الأرض وجميع أسبابها ومنافعها من الأشجار والماء والمدائن والعمران والخراب في أربعة أيام، أوّلهنّ يوم الأحد، وآخرهن يوم الأربعاء.
+
+⁕ حدثني موسى، قال: ثنا عمرو، قال: ثنا أسباط، عن السديّ، قال: خلق الجبال فيها وأقوات أهلها وشجرها وما ينبغي لها في يومين، في الثلاثاء والأربعاء.
+
+وقال بعض نحويي البصرة: قال. خلق الأرض في يومين، ثم قال في أربعة أيام، لأنه يعني أن هذا مع الأول أربعة أيام، كما تقول: تزوّجت أمس امرأة، واليوم ثنتين، وإحداهما التي تزوّجتها أمس.
+
+* *
+
+وقوله: ﴿سَوَاءً لِلسَّائِلِينَ﴾
+
+اختلف أهل التأويل في تأويله، فقال بعضهم: تأويله: سواء لمن سأل عن مبلغ الأجل الذي خلق الله فيه الأرض، وجعل فيها الرواسي من فوقها والبركة، وقدّر فيها الأقوات بأهلها، وجَدَهُ كما أخبر الله أربعه أيام لا يزدن على ذلك ولا ينقصن منه.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة ﴿سَوَاءً لِلسَّائِلِينَ﴾ من سأل عن ذلك وجده، كما قال الله.
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة ﴿سَوَاءً لِلسَّائِلِينَ﴾ قال: من سأل فهو كما قال الله.
+
+⁕ حدثنا موسى بن هارون، قال: ثنا عمرو، قال: ثنا أسباط، عن السديّ ﴿فِي أَرْبَعَةِ أَيَّامٍ سَوَاءً لِلسَّائِلِينَ﴾ يقول: من سأل فهكذا الأمر.
+
+وقال آخرون: بل معنى ذلك: سواء لمن سأل ربه شيئا مما به الحاجة إليه من الرزق، فإن الله قد قدّر له من الأقوات في الأرض، على قدر مسألة كل سائل منهم لو سأله لما نفذ من علمه فيهم قبل أن يخلقهم.
+
+ذكر من قال ذلك:
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب قال: قال ابن زيد في قوله ﴿سَوَاءً لِلسَّائِلِينَ﴾ قال: قدّر ذلك على قدر مسائلهم، يعلم ذلك أنه لا يكون من مسائلهم شيء إلا شيء قد علمه قبل أن يكون. واختلفت القراء في قراءة ذلك. فقرأته عامة قراء الأمصار غير أبي جعفر والحسن البصري: ﴿سَوَاءً﴾ بالنصب. وقرأه أبو جعفر القارئ:"سَوَاءٌ" بالرفع. وقرأ الحسن:"سَوَاءٍ" بالجر.
+
+والصواب من القراءة في ذلك ما عليه قراء الأمصار، وذلك قراءته بالنصب لإجماع الحجة من القراء عليه، ولصحة معناه. وذلك أن معنى الكلام: قدر فيها أقواتها سواء لسائليها على ما بهم إليه الحاجة، وعلى ما يصلحهم.
+
+وقد ذُكر عن ابن مسعود أنه كان يقرأ ذلك:"وَقَسَّمَ فِيهَا أقْوَاتَهَا".
+
+وقد اختلف أهل العربية في وجه نصب سواءً، فقال بعض نحويي البصرة: من نصبه جعله مصدرا، كأنه قال: استواء. قال: وقد قرئ بالجر وجعل اسما للمستويات: أي في أربعة أيام تامَّة. وقال بعض نحويي الكوفة: من خفض سواء، جعلها من نعت الأيام، وإن شئت من نعت الأربعة، ومن نصبها جعلها متصلة بالأقوات. قال: وقد ترفع كأنه ابتداء، كأنه قال: ذلك ﴿سَوَاءً لِلسَّائِلِينَ﴾ يقول: لمن أراد علمه.
+
+والصواب من القول في ذلك أن يكون نصبه إذا نصب حالا من الأقوات، إذ كانت سواء قد شبهت بالأسماء النكرة، فقيل: مررت بقوم سواء، فصارت تتبع النكرات، وإذا تبعت النكرات انقطعت من المعارف فنصبت، فقيل: مررت بإخوتك سواء، وقد يجوز أن يكون إذا لم يدخلها تثنية ولا جمع أن تشبه بالمصادر. وأما إذا رُفعت، فإنما ترفع ابتداء بضمير ذلك ونحوه، وإذا جرت فعلى الاتباع للأيام أو للأربعة.
+
+* *
+
+وقوله: ﴿ثُمَّ اسْتَوَى إِلَى السَّمَاءِ وَهِيَ دُخَانٌ فَقَالَ لَهَا وَلِلأرْضِ اِئْتِيَا طَوْعًا أَوْ كَرْهًا قَالَتَا أَتَيْنَا طَائِعِينَ﴾
+
+يعني تعالى ذكره: ثم استوى إلى السماء، ثم ارتفع إلى السماء.
+
+وقد بيَّنا أقوال أهل العلم في ذلك فيما مضى قبل.
+
+* *
+
+وقوله: ﴿فَقَالَ لَهَا وَلِلأرْضِ اِئْتِيَا طَوْعًا أَوْ كَرْهًا﴾
+
+يقول جلّ ثناؤه: فقال الله للسماء والأرض: جيئا بما خلقت فيكما، أما أنت يا سماء فأطلعي ما خلقت فيك من الشمس والقمر والنجوم، وأما أنت يا أرض فأخرجي ما خلقت فيك من الأشجار والثمار والنبات، وتشقَّقِي عن الأنهار ﴿قَالَتَا أَتَيْنَا طَائِعِينَ﴾ جئنا بما أحدثت فينا من خلقك، مستجيبين لأمرك لا نعصي أمرك.
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا أبو هشام، قال: ثنا ابن يمان، قال: ثنا سفيان، عن ابن جريج، عن سليمان بن موسى، عن مجاهد، عن ابن عباس، ﴿فَقَالَ لَهَا وَلِلأرْضِ اِئْتِيَا طَوْعًا أَوْ كَرْهًا قَالَتَا أَتَيْنَا طَائِعِينَ﴾ قال: قال الله للسموات: أطلعي شمسي وقمري، وأطلعي نجومي، وقال للأرض: شققي أنهارك وأخرجي ثمارك، فقالتا: أعطينا طائعين.
+
+⁕ حدثني يعقوب بن إبراهيم، قال: ثنا ابن علية، عن ابن جريج، عن سليمان الأحول، عن طاوس، عن ابن عباس، في قوله ﴿اِئْتِيَا﴾ : أعطيا. وفي قوله: ﴿قَالَتَا أَتَيْنَا﴾ قالتا: أعطينا.
+
+وقيل: أتينا طائعين، ولم يقل طائعتين، والسماء والأرض مؤنثتان، لأن النون والألف اللتين هما كناية أسمائهما في قوله ﴿أَتَيْنَا﴾ نظيره كناية أسماء المخبرين من الرجال عن أنفسهم، فأجرى قوله ﴿طَائِعِينَ﴾ على ما جرى به الخبر عن الرجال كذلك. وقد كان بعض أهل العربية يقول: ذهب به إلى السموات والأرض ومن فيهنّ.
+
+وقال آخرون منهم: قيل ذلك كذلك لأنهما لما تكلمتا أشبهتا الذكور من بني آدم.
 
 ### al-Muyassar (Arabic)
 
@@ -91,6 +722,6 @@ Allah denounces the idolators who worship other gods apart from Him although He 
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿ثم استوى﴾ قصد ﴿إلى السماء وهي دخان﴾ بخار مرتفع ﴿فقال لها وللأرض ائتيا﴾ إلى مرادي منكما ﴿طوعا أو كرها﴾ في موضع الحال، أي طائعتين أو مكرهتين ﴿قالتا أتينا﴾ بمن فينا ﴿طائعين﴾ فيه تغليب المذكر العاقل أو نزلتا لخطابهما منزلته
 
 ---

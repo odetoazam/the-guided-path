@@ -1,6 +1,6 @@
 # Tafsir Cross-Reference Report
 
-Generated: 2026-04-09
+Generated: 2026-07-30
 Ayahs referenced: 6
 Tafsir sources: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), al-Jalalayn (Arabic)
 
@@ -10,12 +10,175 @@ Tafsir sources: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), 
 
 ### Ibn Kathir (English)
 
+Fighting is ordained for you (Muslims) though you dislike it, and it may be that you dislike a thing which is good for you and that you like a thing which is bad for you. Allah knows but you do not know (216)
+
 Jihad is made Obligatory
-In this Ayah, Allah made it obligatory for the Muslims to fight in Jihad against the evil of the enemy who transgress against Islam. Az-Zuhri said, "Jihad is required from every person, whether he actually joins the fighting or remains behind. Whoever remains behind is required to give support, if support is warranted; to provide aid, if aid is needed; and to march forth, if he is commanded to do so. If he is not needed, then he remains behind." It is reported in the ...
+
+In this Ayah, Allah made it obligatory for the Muslims to fight in Jihad against the evil of the enemy who transgress against Islam. Az-Zuhri said, "Jihad is required from every person, whether he actually joins the fighting or remains behind. Whoever remains behind is required to give support, if support is warranted; to provide aid, if aid is needed; and to march forth, if he is commanded to do so. If he is not needed, then he remains behind." It is reported in the Sahih:
+
+مَنْ مَاتَ وَلَمْ يَغْزُ وَلَمْ يُحَدِّثْ نَفْسَهُ بِالْغَزْوِ، مَاتَ مِيتَةً جَاهِلِيَّــةً
+
+(Whoever dies but neither fought (i.e., in Allah's cause), nor sincerely considered fighting, will die a death of Jahiliyyah (pre-Islamic era of ignorance).)
+
+On the day of Al-Fath (when he conquered Makkah), the Prophet ﷺ said:
+
+لَا هِجْرَةَ بَعْدَ الْفَتْحِ وَلكِنْ جِهَادٌ وَنِيَّةٌ، وَإِذَا اسْتُنْفِرْتُمْ فَانْفِرُوا
+
+(There is no Hijrah (migration from Makkah to Al-Madinah) after the victory, but only Jihad and good intention. If you were required to march forth, then march forth.)
+
+Allah's statement:
+
+وَهُوَ كُرْهٌ لَّكُمْ
+
+(...though you dislike it) means, 'Fighting is difficult and heavy on your hearts.' Indeed, fighting is as the Ayah describes it, as it includes being killed, wounded, striving against the enemies and enduring the hardship of travel. Allah then said:
+
+وَعَسَىٰ أَن تَكْرَهُوا شَيْئًا وَهُوَ خَيْرٌ لَّكُمْ
+
+(...and it may be that you dislike a thing which is good for you) meaning, fighting is followed by victory, dominance over the enemy, taking over their lands, money and offspring. Allah continues:
+
+وَعَسَىٰ أَن تُحِبُّوا شَيْئًا وَهُوَ شَرٌّ لَّكُمْ
+
+(...and that you like a thing which is bad for you.)
+
+This Ayah is general in meaning. Hence, one might covet something, yet in reality it is not good or beneficial for him, such as refraining from joining the Jihad, for it might lead to the enemy taking over the land and the government. Then, Allah said:
+
+وَاللَّهُ يَعْلَمُ وَأَنتُمْ لَا تَعْلَمُونَ
+
+(Allah knows, but you do not know.) meaning, He has better knowledge than you of how things will turn out to be in the end, and of what benefits you in this earthly life and the Hereafter. Hence, obey Him and adhere to His commands, so that you may acquire the true guidance.
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله عز ذكره :  كُتِبَ عَلَيْكُمُ الْقِتَالُقال أبو جعفر: يعني بذلك جل ثناؤه بقوله : " كتب عليكم القتال "، فُرض عليكم القتال، يعني قتال المشركين=  وَهُوَ كُرْهٌ لَكُمْ .* * *واختلف أهل العلم في الذين عُنوا بفرض القتال.فقال بعضهم: عني بذلك أصحابُ رسول الله صلى الله عليه وسلم خاصةً دون غيرهم.* ذكر من قال ذلك:4072 - حدثنا القاسم، قال: حدثنا الحسين، قال: حدثني حجاج، عن ابن جريج، قال: سألت عطاء قلت له: " كُتِبَ عَلَيْكُمُ الْقِتَالُ وَهُوَ كُرْهٌ لَكُمْ" ، أواجبٌ الغزوُ على الناس من...
+القول في تأويل قوله عز ذكره: ﴿كُتِبَ عَلَيْكُمُ الْقِتَالُ﴾
+
+قال أبو جعفر: يعني بذلك جل ثناؤه بقوله: " كتب عليكم القتال"، فُرض عليكم القتال، يعني قتال المشركين=" وهو كُرْهٌ لكم".
+
+* *
+
+واختلف أهل العلم في الذين عُنوا بفرض القتال.
+
+فقال بعضهم: عنى بذلك أصحابُ رسول الله ﷺ خاصةً دون غيرهم.
+
+ذكر من قال ذلك:
+
+٤٠٧٢ - حدثنا القاسم، قال: حدثنا الحسين، قال: حدثني حجاج، عن ابن جريج، قال: سألت عطاء قلت له:" كتب عليكم القتال وهو كُرْهٌ لكم"، أواجبٌ الغزوُ على الناس من أجلها؟ قال: لا! كُتب على أولئك حينئذ.
+
+٤٠٧٣ - حدثنا أبو كريب، قال: حدثنا عثمان بن سعيد، قال: حدثنا خالد، عن حسين بن قيس، عن عكرمة، عن ابن عباس في قوله:" كتب عليكم القتال وهو كره لكم"، قال نسختها ﴿قَالُوا سَمِعْنَا وَأَطَعْنَا﴾ [سورة البقرة: ٢٨٥]
+
+* *
+
+قال أبو جعفر: وهذ اقول لا معنى له، لأن نسخَ الأحكام من قبل الله جل وعزّ، لا من قبل العباد، وقوله:" قالوا سمعنا وأطعنا"، خبر من الله عن عباده المؤمنين وأنهم قالوه لا نسخٌ منه.
+
+٤٠٧٤ - حدثني محمد بن إسحاق، قال: حدثنا معاوية بن عمرو، قال: حدثنا أبو إسحاق الفزاري، قال: سألت الأوزاعي عن قول الله عز وجل:" كتب عليكم القتال وهو كره لكم"، أواجبٌ الغزو على الناس كلهم؟ قال: لا أعلمه، ولكن لا ينبغي للأئمة والعامة تركه، فأما الرجل في خاصة نفسه فلا. [[الأثر: ٤٠٧٤ - محمد بن إسحاق بن جعفر الصاغاني نزل بغداد وكان وجه مشايخ بغداد وكان أحد الحفاظ الأثبات المتقنين مات سنة ٢٧٠، وروى عنه الطبري في المذيل (انظر المنتخب من ذيل المذيل: ١٠٤) ومعاوية بن عمرو بن المهلب الأزدي روى عنه البخاري، توفي ببغداد سنة ٢١٥. وكلاهما مترجم في التهذيب.]]
+
+* *
+
+وقال آخرون: هو على كل واحد حتى يقوم به من في قيامه الكفاية، فيسقطُ فرض ذلك حينئذ عن باقي المسلمين، كالصلاة على الجنائز وغسلهم الموتى ودفنهم، وعلى هذا عامة علماء المسلمين.
+
+* *
+
+قال أبو جعفر: وذلك هو الصواب عندنا لإجماع الحجة على ذلك، ولقول الله عز وجل: ﴿فَضَّلَ اللَّهُ الْمُجَاهِدِينَ بِأَمْوَالِهِمْ وَأَنْفُسِهِمْ عَلَى الْقَاعِدِينَ دَرَجَةً وَكُلا وَعَدَ اللَّهُ الْحُسْنَى﴾ [سورة النساء: ٩٥] ، فأخبر جل ثناؤه أنّ الفضل للمجاهدين، وأن لهم وللقاعدين الحسنى، ولو كان القاعدون مضيِّعين فرضًا لكان لهم السُّوأى لا الحسنى.
+
+* *
+
+وقال آخرون: هو فرضٌ واجبٌ على المسلمين إلى قيام الساعة.
+
+ذكر من قال ذلك:
+
+٤٠٧٥- حدثنا حُبَيش بن مبشر قال: حدثنا روح بن عبادة، عن ابن جريج، عن داود بن أبي عاصم، قال: قلت لسعيد بن المسيب: قد أعلم أن الغزو واجبٌ على الناس! فسكت، وقد أعلم أنْ لو أنكر ما قلت لبيَّن لي. [[الأثر: ٤٠٧٥ - حبيش بن مبشر بن أحمد الطوسي الفقيه، كان ثقة من عقلاء البغداديين مات سنة ٢٥٨، مترجم في التهذيب وتاريخ بغداد. وكان في المطبوعة: "حسين بن ميسر" وليس في الرواة من يعرف بذلك.]]
+
+* *
+
+وقد بينا فيما مضى معنى قوله:"كتب" بما فيه الكفاية. [[انظر ما سلف ٣: ٣٥٧، ٣٦٤، ٣٦٥.]]
+
+* *
+
+القول في تأويل قوله تعالى: ﴿وَهُوَ كُرْهٌ لَكُمْ﴾
+
+قال أبو جعفر: يعني بذلك جل ثناؤه: وهو ذو كره لكم، فترك ذكر"ذو" اكتفاء بدلالة قوله:"كره لكم"، عليه، كما قال: ﴿وَاسْأَلِ الْقَرْيَةَ﴾ [سورة يوسف: ٨٣]
+
+وبنحو الذي قلنا في ذلك روي عن عطاء في تأويله.
+
+ذكر من قال ذلك:
+
+٤٠٧٦ - حدثنا القاسم، قال: حدثنا الحسين، قال: حدثني حجاج، عن ابن جريج، عن عطاء في قوله:" وهو كره لكم" قال: كُرّه إليكم حينئذ.
+
+* *
+
+"والكره" بالضم: هو ما حمل الرجلُ نفسه عليه من غير إكراه أحد إياه عليه،"والكَرْهُ" بفتح"الكاف"، هو ما حمله غيره، فأدخله عليه كرهًا. وممن حكي عنه هذا القول معاذ بن مسلم.
+
+٤٠٧٧ - حدثني المثنى، قال: حدثنا إسحاق، قال: حدثنا عبد الرحمن بن أبي حماد، عن معاذ بن مسلم، قال: الكُرْه المشقة، والكَرْه الإجبار.
+
+* *
+
+وقد كان بعض أهل العربية يقول:"الكُره والكَره" لغتان بمعنى واحد، مثل:"الغُسْل والغَسْل" و"الضُّعف والضَّعف"، و"الرُّهبْ والرَّهبْ". وقال بعضهم:"الكره" بضم"الكاف" اسم و"الكره" بفتحها مصدر.
+
+* *
+
+القول في تأويل قوله تعالى: ﴿وَعَسَى أَنْ تَكْرَهُوا شَيْئًا وَهُوَ خَيْرٌ لَكُمْ وَعَسَى أَنْ تُحِبُّوا شَيْئًا وَهُوَ شَرٌّ لَكُمْ﴾
+
+قال أبو جعفر: يعني بذلك جل ثناؤه: ولا تكرهوا القتالَ، فإنكم لعلكم أن تكرهوه وهو خيرٌ لكم، ولا تحبوا تركَ الجهاد، فلعلكم أن تحبوه وهو شر لكم، كما:-
+
+٤٠٧٨ - حدثني موسى بن هارون، قال: حدثنا عمرو بن حماد، قال: حدثنا أسباط، عن السدي:" كتب عليكم القتال وهو كره لكم وعسى أن تكرهوا شيئًا وهو خيرٌ لكم وعسى أن تحبوا شيئًا وهو شر لكم"، وذلك لأن المسلمين كانوا يكرهون القتال، فقال:"عسى أن تكرهوا شيئًا وهو خيرٌ لكم" يقول: إن لكم في القتال الغنيمةَ والظهور والشهادة، ولكم في القعود أن لا تظهروا على المشركين، ولا تُستْشهدوا، ولا تصيبوا شيئًا.
+
+٤٠٧٩ - حدثني محمد بن إبراهيم السلمي، قال: حدثني يحيى بن محمد بن مجاهد، قال: أخبرني عبيد الله بن أبي هاشم الجعفي، قال: أخبرني عامر بن واثلة قال: قال ابن عباس: كنت رِدْفَ النبي ﷺ، فقال: يا ابن عباس ارضَ عن الله بما قدَّرَ، وإن كان خلافَ هواك، فإنه مثبَتٌ في كتاب الله. قلت: يا رسول الله، فأين؟ وقد قرأت القرآن! قال: في قوله:" وعسى أن تكرهوا شيئًا وهو خيرٌ لكم وعسى أن تحبوا شيئًا وهو شر لكم والله يعلم وأنتم لا تعلمون" [[الحديث: ٤٠٧٩ - هذا إسناد مظلم والمتن منكر! لم أجد ترجمة"يحيى بن محمد بن مجاهد" ولا"عبيد الله بن أبي هاشم" ولا أدري ما هما. ولفظ الحديث لم أجده، ولا نقله أحد +من ينقل عن الطبري.]]
+
+* *
+
+القول في تأويل قوله تعالى: ﴿وَاللَّهُ يَعْلَمُ وَأَنْتُمْ لا تَعْلَمُونَ (٢١٦) ﴾
+
+قال أبو جعفر: يعني بذلك جل ثناؤه: والله يعلم ما هو خيرٌ لكم، مما هو شر لكم، فلا تكرهوا ما كتبتُ عليكم من جهاد عدوكم، وقتال من أمرتكم بقتاله، فإني أعلم أنّ قتالكم إياهم، هو خيرٌ لكم في عاجلكم ومعادكم، وترككم قتالهم شر لكم، وأنتم لا تعلمون من ذلك ما أعلم، يحضّهم جل ذكره بذلك على جهاد أعدائه، ويرغِّبهم في قتال من كفر به.
+
+* *
+
+القول في تأويل قوله تعالى: ﴿يَسْأَلُونَكَ عَنِ الشَّهْرِ الْحَرَامِ قِتَالٍ فِيهِ قُلْ قِتَالٌ فِيهِ كَبِيرٌ وَصَدٌّ عَنْ سَبِيلِ اللَّهِ وَكُفْرٌ بِهِ وَالْمَسْجِدِ الْحَرَامِ وَإِخْرَاجُ أَهْلِهِ مِنْهُ أَكْبَرُ عِنْدَ اللَّهِ وَالْفِتْنَةُ أَكْبَرُ مِنَ الْقَتْلِ﴾
+
+قال أبو جعفر: يعني بذلك جل ثناؤه: يسألك يا محمد أصحابُك عن الشهر الحرام = وذلك رَجبٌ = عن قتالٍ فيه.
+
+وخفضُ"القتال" على معنى تكرير"عن" عليه، وكذلك كانت قراءةُ عبد الله بن مسعود فيما ذكر لنا. وقد:-
+
+٤٠٨٠ - حدثت عن عمار بن الحسن، قال: حدثنا ابن أبي جعفر، عن أبيه، عن الربيع قوله:" يسألونك عن الشهر الحرام قتال فيه"، قال: يقول: يسألونك عن قتال فيه، قال: وكذلك كان يقرؤها:"عن قتال فيه".
+
+* *
+
+= قال أبو جعفر:"قل" يا محمد:"قتالٌ فيه"- يعني في الشهر الحرام"كبيرٌ"، أي عظيمٌ عند الله استحلاله وسفك الدماء فيه.
+
+ومعنى قوله:" قتال فيه"، قل القتال فيه كبير. وإنما قال:"قل قتالٌ فيه كبيرٌ"، لأن العرب كانت لا تقرعُ فيه الأسنَّة، فيلقى الرجل قاتل أبيه أو أخيه فيه فلا يَهيجه تعظيما له، وتسميه مضر"الأصمَّ" [[يعني شهر رجب، وهو رجب الأصم.]] لسكون أصوات السلاح وقعقعته فيه. وقد:-
+
+٤٠٨١ - حدثني محمد بن عبد الله بن عبد الحكم المصري، قال: حدثنا شعيب بن الليث، قال: حدثنا الليث، قال: حدثنا الزبير، عن جابر قال: لم يكن رسول الله ﷺ يغزو في الشهر الحرام إلا أن يُغْزَى، أو يَغزو حتى إذا حضر ذلك أقامَ حتىّ ينسلخ.
+
+* *
+
+وقوله جل ثناؤه:" وصَدٌّ عن سبيل الله". ومعنى"الصدّ" عن الشيء، المنع منه، والدفع عنه، ومنه قيل:" صدّ فلان بوجهه عن فلان"، إذا أعرض عنه فمنعه من النظر إليه.
+
+* *
+
+وقوله:" وكفرٌ به"، يعني: وكفر بالله، و"الباء" في"به" عائدة على اسم الله الذي في"سبيل الله". وتأويل الكلام: وصدٌّ عن سبيل الله، وكفر به، وعن المسجد الحرام، وإخراج أهل المسجد الحرام- وهم أهله وولاته- أكبرُ عند الله من القتال في الشهر الحرام.
+
+فـ "الصدُّ عن سييل الله" مرفوع بقوله:" أكبر عند الله". وقوله:" وإخراج أهله منه" عطف على"الصد". ثم ابتدأ الخبر عن الفتنة فقال:" والفتنة أكبر من القتل"، يعني: الشرك أعظم وأكبرُ من القتل، [[انظر معنى"الفتنة" فيما سلف ٣: ٥٦٥، ٥٦٦ ثم ٥٧٠ن ٥٧١ وفهرس اللغة في الأجزاء السالفة.]] يعني: مِنْ قَتل ابن الحضرميّ الذي استنكرتم قتله في الشهر الحرام.
+
+* *
+
+قال أبو جعفر: وقد كان بعض أهل العربية يزعم أن قوله:" والمسجد الحرام" معطوف على"القتال" وأن معناه: يسألونك عن الشهر الحرام، عن قتال فيه، وعن المسجد الحرام، فقال الله جل ثناؤه:" وإخراجُ أهله منه أكبر عند الله" من القتال في الشهر الحرام. [[هذه مقالة الفراء في معاني القرآن ١: ١٤١.]]
+
+وهذا القول، مع خروجه من أقوال أهل العلم، قولٌ لا وجهَ له. لأن القوم لم يكونوا في شك من عظيم ما أتى المشركون إلى المسلمين في إخراجهم إياهم من منازلهم بمكة، فيحتاجوا إلى أن يسألوا رسول الله ﷺ عن إخراج المشركين إياهم من منازلهم، وهل ذلك كان لهم؟ بل لم يدَّع ذلك عليهم أحدٌ من المسلمين، ولا أنهم سألوا رسول الله ﷺ عن ذلك.
+
+وإذ كان ذلك كذلك، فلم يكن القوم سألوا رسول الله ﷺ إلا عَمَّا ارتابوا بحكمه [[في المطبوعة: "وإذا كان ذلك كذلك، ولم يكن القوم سألوا رسول الله. . . " والصواب ما أثبت، وإلا اختل الكلام اختلالا شديدًا.]] كارتيابهم في أمر قتل ابن الحضرمي، إذ ادَّعوا أن قاتله من أصحاب رسول الله ﷺ قتله في الشهر الحرام، فسألوا عن أمره، لارتيابهم في حكمه. فأما إخراجُ المشركين أهلَ الإسلام من المسجد الحرام، فلم يكن فيهم أحدٌ شاكًّا أنه كان ظلمًا منهم لهم فيسألوا عنه.
+
+ولا خلاف بين أهل التأويل جميعًا أن هذه الآية نزلت على رسول الله ﷺ في سبب قتل ابن الحضرمي وقاتله.
+
+ذكر الرواية عمن قال ذلك:
+
+٤٠٨٢ - حدثنا ابن حميد، قال: حدثنا سلمة بن الفضل، عن ابن إسحاق، قال: حدثني الزهري، ويزيد بن رومان عن عروة بن الزبير، قال: بعث رسول الله ﷺ عبد الله بن جحش في رجب مَقْفَلَه من بدر الأولى، وبعثَ معه بثمانية رهط من المهاجرين، ليس فيهم من الأنصار أحد، وكتب له كتابًا، وأمره أن لا ينظر فيه حتى يسير يومين ثم ينظر فيه فيمضي لما أمره، ولا يستكره من أصحابه أحدًا.
+
+= وكان أصحابُ عبد الله بن جحش من المهاجرين من بني عبد شمس أبو حذيفة [بن عتبة] بن ربيعة- [[الزيادة بين القوسين من سيرة ابن هشام ونص ابن هشام: "أبو حذيفة بن عتبة بن ربيعة بن عبد شمس -ومن حلفائهم: عبد الله بن جحش" بإسقاط: "ومن بني أمية" فتركت ما في الطبري على حاله لأنه صحيح المعنى أيضًا.]] ومن بني أمية- بن عبد شمس، ثم من حلفائهم: عبد الله بن جحش بن رئاب، وهو أمير القوم، وعكاشة بن محصن بن حُرثان أحد بني أسد بن خزيمة- ومن بني نوفل بن عبد مناف عتبة بن غزوان حليف لهم - ومن بني زهرة بن كلاب: سعد بن أبي وقاص- ومن بني عدي بن كعب عامر بن ربيعة حليف لهم، وواقد بن عبد الله بن مناة بن عرين [[في المطبوعة: ". . . عبد الله بن مناة بن عويم" وأثبت ما في نص ابن هشام وهو الموافق لما أجمعت عليه كتب السير والأنساب.]] بن ثعلبة بن يربوع بن حنظلة، وخالد بن البكير أحد بني سعد بن ليث حليف لهم- ومن بني الحارث بن فهر: سهيل بن بيضاء.
+
+= فلما سار عبدُ الله بن جحش يومين فتح الكتاب ونظر فيه، فإذا فيه: "إذا نظرت إلى كتابي هذا، [[في المطبوعة: "إذا نظرت إلى كتابي. . . " وأثبت ما في هشام وتاريخ الطبري وهو الصواب.]] فسرْ حتى تنزل نخلة بين مكة والطائف، فترصَّد بها قريشًا، وتعلَّمْ لنا من أخبارهم". فلما نظر عبد الله بن جحش في الكتاب قال:" سمعا وطاعة"، ثم قال لأصحابه: قد أمرني رسول الله ﷺ أن أمضي إلى نخلة فأرصد بها قريشًا حتى آتيه منهم بخبر، وقد نهاني أن أستكره أحدًا منكم، فمن كان منكم يريد الشهادة ويرغب فيها فلينطلق، ومن كره ذلك فليرجع، فأما أنا فماضٍ لأمر رسول الله ﷺ فمضى ومضى معه أصحابه، فلم يتخلَّف عنه [منهم] أحد، وسلك على الحجاز، حتى إذا كان بمَعْدِن فوق الفُرع يقال له بُحْران، [[في المطبوعة: "نجران" وهو خطأ صرف.]] أضلّ سعد بن أبي وقاص وعتبة بن غزوان بعيرًا لهما كانا عليه يعتقبانه، [["يتعقبانه": أي يركبه هذا عقبة وهذا عقبة، أي هذا نوبة وهذا نوبة.]] فتخلَّفا عليه في طلبه، ومضى عبد الله بن جحش وبقية أصحابه حتى نزل بنخلة، فمرت به عيرٌ لقريش تحمل زبيبًا وأدَمًا وتجارةً من تجارة قريش [[العير: القافلة من الإبل والحمير والبغال تخرج للميرة فيمتار عليها. والأدم جمع أديم: وهو الجلد المدبوغ.]] فيها منهم عمرو بن الحضرمي، وعثمان بن عبد الله بن المغيرة، وأخوه نوفل بن عبد الله بن المغيرة المخزوميان، والحكم بن كيسان مولى هشام بن المغيرة فلما رآهم القوم هابوهم، وقد نزلوا قريبًا منهم، فأشرف لهم عكاشة بن محصن، وقد كان حلق رأسه، فلما رأوه أمنوا وقالوا: عُمّار! فلا بأس علينا منهم. [[عمار: معتمرون. والاعتمار والعمرة زيارة البيت الحرام وأداء حقه، في أي شهر كان. وهو غير الحج يقال عنه"اعتمر" ولم يسمع"عمر" ولكن جاء"عمار" جمع"عامر" على هذا الثلاثي المتروك.]] وتشاور القوم فيهم، وذلك في آخر يوم من جمادى، [[هكذا في المطبوعة: "آخر يوم من جمادى" وفي نص ابن هشام وتاريخ الطبري"آخر يوم من رجب" وهو أصح النصين، ولم أغيرها، لأنه سيأتي بعد ما يدل على أن الرواية هنا هكذا.]] فقال القوم: والله لئن تركتم القومَ هذه الليلة ليدخُلُنَّ الحرم فليمتنعُنَّ به منكم، ولئن قتلتموهم لتقتلنهم في الشهر الحرام! فتردّد القوم فهابوا الإقدام عليهم، ثم شجُعوا عليهم، وأجمعوا على قتل من قدروا عليه منهم، وأخذ ما معهم. فرمى واقدُ بن عبد الله التميمي عمرَو بن الحضرميّ بسهم فقتله، واستأسرَ عثمان بن عبد الله، والحكم بن كيسان، وأفلت نوفل بن عبد الله فأعجزهم.
+
+=وقدم عبد الله بن جحش وأصحابه بالعير والأسيرين، حتى قدموا على رسول الله ﷺ بالمدينة وقد ذكر بعض آل عبد الله بن جحش أنّ عبد الله بن جحش قال لأصحابه: إنّ لرسول الله ﷺ مما غنمتم الخمُس.
+
+وذلك قبل أن يُفرضُ الخمس من الغنائم، فعزل لرسول الله ﷺ خُمس العير، وقسم سائرها على أصحابه فلما قدموا على رسول الله ﷺ قال: ما أمرتكم بقتال في الشهر الحرام! فوقف العير والأسيرين، وأبى أن يأخذ من ذلك شيئًا فلما قال رسول الله ﷺ ذلك، سُقط في أيدي القوم، وظنوا أنهم قد هلكوا، وعنَّفهم ا
+
+[TRUNCATED at 12000 chars — 16307 more. Consult the source directly before relying on anything near the cut.]
 
 ### al-Muyassar (Arabic)
 
@@ -23,7 +186,7 @@ In this Ayah, Allah made it obligatory for the Muslims to fight in Jihad against
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿كُتِبَ﴾ فُرِضَ ﴿عَلَيْكُمْ القِتال﴾ لِلْكُفّارِ ﴿وهُوَ كُرْه﴾ مَكْرُوه ﴿لَكُمْ﴾ لَكُمْ طِبْقًا لِمَشَقَّتِهِ ﴿وعَسى أنْ تَكْرَهُوا شَيْئًا وهُوَ خَيْر لَكُمْ وعَسى أنْ تُحِبُّوا شَيْئًا وهُوَ شَرّ لَكُمْ﴾ لِمَيْلِ النَّفْس إلى الشَّهَوات المُوجِبَة لِهَلاكِها ونُفُورها عَنْ التَّكْلِيفات المُوجِبَة لِسَعادَتِها فَلَعَلَّ لَكُمْ فِي القِتال وإنْ كَرِهْتُمُوهُ خَيْرًا لِأَنَّ فِيهِ إمّا الظَّفَر والغَنِيمَة أوْ الشَّهادَة والأَجْر وفِي تَرْكه وإنْ أحْبَبْتُمُوهُ شَرًّا لِأَنَّ فِيهِ الذُّلّ والفَقْر وحِرْمان الأَجْر ﴿واللَّه يَعْلَم﴾ ما هُوَ خَيْر لَكُمْ ﴿وأَنْتُمْ لا تَعْلَمُونَ﴾ ذَلِكَ فَبادِرُوا إلى ما يَأْمُركُمْ بِهِ
 
 ---
 
@@ -31,23 +194,141 @@ In this Ayah, Allah made it obligatory for the Muslims to fight in Jihad against
 
 ### Ibn Kathir (English)
 
+Many similar ways (and mishaps of life) were faced [by nations (believers and disbelievers) that have passed away] before you, so travel through the earth, and see what was the end of those who denied (137)This is a plain statement for mankind, a guidance and instruction for the Muttaqin (138)So do not become weak, nor be sad, and you will be triumphant if you are indeed believers (139)If a wound has touched you, be sure a similar wound has touched the others. And so are the days, that We give to men by turns, that Allah may know (test) those who believe, and that He may take martyrs from among you. And Allah likes not the wrongdoers (140)And that Allah may test those who believe and destroy the disbelievers. (141)Do you think that you will enter Paradise before Allah knows (tests) those of you who performed Jihad and knows (tests) those who are patient (142)You did indeed wish for death before you met it. Now you have seen it openly with your own eyes (143)
+
 The Wisdom Behind the Losses Muslims Suffered During Uhud
+
 Allah states to His believing servants who suffered losses in the battle of Uhud, including seventy dead,
+
 قَدْ خَلَتْ مِن قَبْلِكُمْ سُنَنٌ
+
 (137... Many similar ways (and mishaps of life) were faced before you), for the previous nations who followed their Prophets before you, they too suffered losses. However, the good end was theirs, and the ultimate defeat was for the disbelievers. This is why Allah said,
-فَسِيرُواْ فِى الاٌّرْضِ فَا...
+
+فَسِيرُوا فِي الْأَرْضِ فَانظُرُوا كَيْفَ كَانَ عَاقِبَةُ الْمُكَذِّبِينَ
+
+(so travel through the earth, and see what was the end of those who denied). Allah said next,) (3:137 end...)
+
+هَٰذَا بَيَانٌ لِّلنَّاسِ
+
+(138.. This is a plain statement for mankind), meaning, the Qur'an explains the true reality of things and narrates how the previous nations suffered by the hands of their enemies.
+
+وَهُدًى وَمَوْعِظَةٌ
+
+(And a guidance and instruction) for the Qur'an contains the news of the past, and,
+
+هُدًى
+
+(guidance) for your hearts,
+
+وَمَوْعِظَةٌ لِّلْمُتَّقِينَ
+
+(and instruction for the Muttaqin) to discourage committing the prohibited and forbidden matters. Allah comforts the believers by saying,
+
+وَلَا تَهِنُوا
+
+(139… So do not become weak), because of what you suffered,
+
+وَلَا تَحْزَنُوا وَأَنتُمُ الْأَعْلَوْنَ إِن كُنتُم مُّؤْمِنِينَ
+
+(nor be sad, and you will be triumphant if you are indeed believers), for surely, the ultimate victory and triumph will be yours, O believers.)
+
+إِن يَمْسَسْكُمْ قَرْحٌ فَقَدْ مَسَّ الْقَوْمَ قَرْحٌ مِّثْلُهُ
+
+(If a wound has touched you, be sure a similar wound has touched the others)[3:140].
+
+Therefore, the Ayah says, if you suffered injuries and some of you were killed, then your enemies also suffered injuries and fatalities.
+
+وَتِلْكَ الْأَيَّامُ نُدَاوِلُهَا بَيْنَ النَّاسِ
+
+(And so are the days, that We give to men by turns) , and at times – out of wisdom – We allow the enemy to overcome you, although the final good end will be yours.
+
+وَلِيَعْلَمَ اللَّهُ الَّذِينَ آمَنُوا
+
+(and that Allah may know (test) those who believe,) meaning, "So that We find out who would be patient while fighting the enemies," according to Ibn 'Abbas.
+
+وَيَتَّخِذَ مِنكُمْ شُهَدَاءَ
+
+(and that He may take martyrs from among you) those who would be killed in Allah's cause and gladly offer their lives seeking His pleasure.
+
+وَاللَّهُ لَا يُحِبُّ الظَّالِمِينَ - وَلِيُمَحِّصَ اللَّهُ الَّذِينَ آمَنُوا
+
+(And Allah likes not the wrongdoers. And that Allah may test those who believe)[3:140-141], by forgiving them their sins if they have any. Otherwise, Allah will raise their grades according to the losses they suffered. Allah's statement,
+
+وَيَمْحَقَ الْكَافِرِينَ
+
+(and destroy the disbelievers), for it is their conduct that if they gain the upper hand, they transgress and commit aggression. However, this conduct only leads to ultimate destruction, extermination, perishing and dying out.
+
+Allah then said,
+
+أَمْ حَسِبْتُمْ أَن تَدْخُلُوا الْجَنَّةَ وَلَمَّا يَعْلَمِ اللَّهُ الَّذِينَ جَاهَدُوا مِنكُمْ وَيَعْلَمَ الصَّابِرِينَ
+
+(142. Do you think that you will enter Paradise before Allah knows (tests) those of you who will perform Jihad and (also) knows (tests) those who are the patient?)
+
+The Ayah asks, do you think that you will enter Paradise without being tested with warfare and hardships? Allah said in Surat Al-Baqarah,
+
+أَمْ حَسِبْتُمْ أَن تَدْخُلُوا الْجَنَّةَ وَلَمَّا يَأْتِكُم مَّثَلُ الَّذِينَ خَلَوْا مِن قَبْلِكُم مَّسَّتْهُمُ الْبَأْسَاءُ وَالضَّرَّاءُ وَزُلْزِلُوا
+
+(Or think you that you will enter Paradise without such (trials) as came to those who passed away before you? They were afflicted with severe poverty and ailments and were so shaken...)[2:214]. Allah said,
+
+الم - أَحَسِبَ النَّاسُ أَن يُتْرَكُوا أَن يَقُولُوا آمَنَّا وَهُمْ لَا يُفْتَنُونَ
+
+(Alif Lam Mim. Do people think that they will be left alone because they say: "We believe," and will not be tested?)[29:1,2], This is why He said here,
+
+أَمْ حَسِبْتُمْ أَن تَدْخُلُوا الْجَنَّةَ وَلَمَّا يَعْلَمِ اللَّهُ الَّذِينَ جَاهَدُوا مِنكُمْ وَيَعْلَمَ الصَّابِرِينَ
+
+(Do you think that you will enter Paradise before Allah knows (tests) those of you who will perform Jihad and (also) knows (tests) those who are the patient?)[3:142] meaning, you will not earn Paradise until you are tested and thus Allah knows who among you are the ones who struggle and fight in His cause and are patient in the face of the enemy. Allah said,
+
+وَلَقَدْ كُنتُمْ تَمَنَّوْنَ الْمَوْتَ مِن قَبْلِ أَن تَلْقَوْهُ فَقَدْ رَأَيْتُمُوهُ وَأَنتُمْ تَنظُرُونَ
+
+(143.. You did indeed wish for death (martyrdom) before you met it. Now you have seen it openly with your own eyes)
+
+The Ayah proclaims, O believers! Before today, you wished that you could meet the enemy and were eager to fight them. What you wished has occurred, so fight them and be patient.
+
+In the Two Sahihs it is recorded that the Messenger of Allah ﷺ said,
+
+لَا تَتَمَنَّوْا لِقَاءَ الْعَدُوِّ، وَسَلُوا اللهَ الْعَافِيَةَ، فَإِذَا لَقِيتُمُوهُمْ فَاصْبِرُوا، وَاعْلَمُوا أَنَّ الْجَنَّـةَ تَحْتَ ظِلَالِ السُّيُوفِ
+
+(Do not wish to encounter the enemy, and ask Allah for your well-being. However, if you do encounter them, then observe patience and know that Paradise is under the shade of swords.)
+
+This is why Allah said here,
+
+فَقَدْ رَأَيْتُمُوهُ
+
+(Now you have seen it): death, you saw it when the swords appeared, the blades were sharpened, the spears crisscrossed and men stood in lines for battle. This part of the Ayah contains a figure of speech that mentions imagining what can be felt but not seen.
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله :  أَمْ حَسِبْتُمْ أَنْ تَدْخُلُوا الْجَنَّةَ وَلَمَّا يَعْلَمِ اللَّهُ الَّذِينَ جَاهَدُوا مِنْكُمْ وَيَعْلَمَ الصَّابِرِينَ (142)قال أبو جعفر: يعني بذلك جل ثناؤه: " أم حسبتم "، يا معشر أصحاب محمد، وظننتم =" أن تدخلوا الجنة "، وتنالوا كرامة ربكم، وشرف المنازل عنده =" ولما يعلم الله الذين جاهدوا منكم "، يقول: ولما يتبيَّن لعبادي المؤمنين، المجاهدُ منكم في سبيل الله، على ما أمره به.* * *وقد بينت معنى قوله: " ولما يعلم الله "،  وَلِيَعْلَمَ اللَّهُ  ، وما أشبه ذلك، بأدلته في...
+القول في تأويل قوله: ﴿أَمْ حَسِبْتُمْ أَنْ تَدْخُلُوا الْجَنَّةَ وَلَمَّا يَعْلَمِ اللَّهُ الَّذِينَ جَاهَدُوا مِنْكُمْ وَيَعْلَمَ الصَّابِرِينَ (١٤٢) ﴾
+
+قال أبو جعفر: يعني بذلك جل ثناؤه:"أم حسبتم"، يا معشر أصحاب محمد، وظننتم ="أن تدخلوا الجنة"، وتنالوا كرامة ربكم، وشرف المنازل عنده ="ولما يعلم الله الذين جاهدوا منكم"، يقول: ولما يتبيَّن لعبادي المؤمنين، المجاهدُ منكم في سبيل الله، على ما أمره به.
+
+* *
+
+وقد بينت معنى قوله:"ولما يعلم الله"،"وليعلم الله"، وما أشبه ذلك، بأدلته فيما مضى، بما أغنى عن إعادته. [[انظر تفسير"لنعلم فيما سلف ٣: ١٥٨ - ١٦٢.]] .
+
+* *
+
+وقوله:"ويعلم الصابرين"، يعني: الصابرين عند البأس على ما ينالهم في ذات الله من جرح وألم ومكروه. كما:-
+
+٧٩٢٩- حدثنا ابن حميد قال، حدثنا سلمة، عن ابن إسحاق:"أم حسبتم أن تدخلوا الجنة" وتصيبوا من ثوابي الكرامة، ولم أختبركم بالشدة، وأبتليكم بالمكاره، حتى أعلم صِدق ذلك منكم الإيمان بي، والصبر على ما أصابكم فيّ. [[الأثر: ٧٩٢٩- سيرة ابن هشام ٣: ١١٧، وهو تتمة الآثار التي آخرها: ٧٩٢٨ وكان في المطبوعة والمخطوطة: "حتى أعلم أصدق ذلكم الإيمان بي. . ." فرددته إلى الصواب من رواية ابن هشام.]]
+
+* *
+
+ونصب"ويعلم الصابرين"، على الصرف. و"الصرف"، أن يجتمع فعلان ببعض حروف النسق، وفي أوله ما لا يحسن إعادته مع حرف النسق، فينصب الذي بعد حرف العطف على الصرف، لأنه مصروف عن معنى الأول، ولكن يكون مع جحد أو استفهام أو نهي في أول الكلام. [[انظر"الصرف" فيما سلف ١: ٥٦٩، وتعليق: ١ / ٣: ٥٥٢، تعليق: ١.]] وذلك كقولهم:"لا يسعني شيء ويضيقَ عنك"، لأن"لا" التي مع"يسعني" لا يحسن إعادتها مع قوله:"ويضيقَ عنك"، فلذلك نصب. [[انظر معاني القرآن للفراء ١: ٢٣٥، ٢٣٦.]] .
+
+والقرأة في هذا الحرف على النصب.
+
+* *
+
+وقد روي عن الحسن أنه كان يقرأ: ﴿وَيَعْلَمِ الصَّابِرِينَ﴾ ، فيكسر"الميم" من"يعلم"، لأنه كان ينوي جزمها على العطف به على قوله:"ولما يعلم الله".
 
 ### al-Muyassar (Arabic)
 
-يا أصحاب محمد -صلى الله عليه وسلم- أظننتم أن تدخلوا الجنة، ولم تُبْتَلوا بالقتال والشدائد؟ لا يحصل لكم دخولها حتى تُبْتلوا، ويعلم الله -علما ظاهرا للخلق- المجاهدين منكم في سبيله، والصابرين على مقاومة الأعداء.
+يا أصحاب محمد ﷺ أظننتم أن تدخلوا الجنة، ولم تُبْتَلوا بالقتال والشدائد؟ لا يحصل لكم دخولها حتى تُبْتلوا، ويعلم الله علمًا ظاهرًا للخلق المجاهدين منكم في سبيله، والصابرين على مقاومة الأعداء.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿أمْ﴾ بَلْ ﴿حَسِبْتُمْ أنْ تَدْخُلُوا الجَنَّة ولَمّا﴾ ولَمْ ﴿يَعْلَم اللَّه الَّذِينَ جاهَدُوا مِنكُمْ﴾ عِلْم ظُهُور ﴿ويَعْلَم الصّابِرِينَ﴾ فِي الشَّدائِد
 
 ---
 
@@ -55,24 +336,225 @@ Allah states to His believing servants who suffered losses in the battle of Uhud
 
 ### Ibn Kathir (English)
 
-The Mujahid and those Who Do not Join Jihad are Not the Same, [and Jihad is Fard Kifayah]
+Not equal are those of the believers who sit (at home), except those who are disabled, and those who strive hard and fight in the cause of Allah with their wealth and their lives. Allah has preferred in grades those who strive hard and fight with their wealth and their lives above those who sit (at home). Unto each, Allah has promised good (Paradise), but Allah has preferred those who strive hard and fight, above those who sit (at home), by a huge reward (95)Degrees of (higher) grades from Him, and forgiveness and mercy. And Allah is Ever Oft-Forgiving, Most Merciful (96)
+
+The Mujahid and those Who Do not Join Jihad are Not the Same [and Jihad is Fard Kifayah]
+
 Al-Bukhari recorded that Al-Bara' said, "When the Ayah,
-لاَّ يَسْتَوِى الْقَـعِدُونَ مِنَ الْمُؤْمِنِينَ
+
+لَّا يَسْتَوِي الْقَاعِدُونَ مِنَ الْمُؤْمِنِينَ
+
 (Not equal are those of the believers who sit (at home),) was revealed, the Messenger of Allah ﷺ called Zayd and commanded him to write it. Then, Ibn Umm Maktum came and mentioned that he was blind. Allah revealed,
-غَيْرُ أُوْلِى الضَّرَرِ
-(except those who are disabled (by injury or are blind or lame...
+
+غَيْرُ أُولِي الضَّرَرِ
+
+(except those who are disabled (by injury or are blind or lame))."
+
+Al-Bukhari recorded that Sahl bin Sa'd As-Sa'di said, "I saw Marwan bin Al-Hakam sitting in the Masjid. I came and sat by his side. He told us that Zayd bin Thabit told him that Allah's Messenger ﷺ dictated this Ayah to him,
+
+لَّا يَسْتَوِي الْقَاعِدُونَ مِنَ الْمُؤْمِنِينَ غَيْرُ أُولِي الضَّرَرِ وَالْمُجَاهِدُونَ فِي سَبِيلِ اللَّهِ
+
+(Not equal are those of the believers who sit (at home), except those who are disabled, and those who strive hard and fight in the cause of Allah)
+
+Ibn Umm Maktum came to the Prophet ﷺ as he was dictating that very Ayah to me. Ibn Umm Maktum said, 'O Allah's Messenger! By Allah, if I had power, I would surely take part in Jihad.' He was a blind man. So Allah sent down revelation to His Messenger while his thigh was on mine and it became so heavy for me that I feared that my thigh would be broken. That ended after Allah revealed,
+
+غَيْرُ أُولِي الضَّرَرِ
+
+(except those who are disabled)." This was recorded by Al-Bukhari. At-Tirmidhi recorded that Ibn 'Abbas said,
+
+لَّا يَسْتَوِي الْقَاعِدُونَ مِنَ الْمُؤْمِنِينَ غَيْرُ أُولِي الضَّرَرِ
+
+(Not equal are those of the believers who sit (at home), except those who are disabled), refers to those who did not go to the battle of Badr and those who went to Badr. When the battle of Badr was about to occur, Abu Ahmad bin Jahsh and Ibn Umm Maktum said, 'We are blind, O Messenger of Allah! Do we have an excuse?' The Ayah,
+
+لَّا يَسْتَوِي الْقَاعِدُونَ مِنَ الْمُؤْمِنِينَ غَيْرُ أُولِي الضَّرَرِ
+
+(Not equal are those of the believers who sit (at home), except those who are disabled) was revealed.
+
+Allah made those who fight, above those who sit in their homes not hindered by disability.
+
+وَفَضَّلَ اللَّهُ الْمُجَاهِدِينَ عَلَى الْقَاعِدِينَ أَجْرًا عَظِيمًا - دَرَجَاتٍ مِّنْهُ
+
+(but Allah has preferred those who strive hard and fight, above those who sit (at home), by a huge reward. Degrees of (higher) grades from Him), above the believers who sit at home without a disability hindering them." This is the wording recorded by At-Tirmidhi, who said, "Hasan Gharib. Allah's statement,
+
+لَّا يَسْتَوِي الْقَاعِدُونَ مِنَ الْمُؤْمِنِينَ
+
+(Not equal are those of the believers who sit (at home),) this is general. Soon after, the revelation came down with,
+
+غَيْرُ أُولِي الضَّرَرِ
+
+(except those who are disabled). So whoever has a disability, such as blindness, a limp, or an illness that prevents them from joining Jihad, they were not compared to the Mujahidin who strive in Allah's cause with their selves and wealth, as those who are not disabled and did not join the Jihad were.
+
+In his Sahih, Al-Bukhari recorded that Anas said that the Messenger of Allah ﷺ said,
+
+إِنَّ بِالْمَدِينَةِ أَقْوَامًا مَا سِرْتُمْ مِنْ مَسِيرٍ، وَلَا قَطَعْتُمْ مِنْ وَادٍ، إِلَّا وَهُمْ مَعَكُمْ فِيهِ
+
+(There are people who remained in Al-Madinah, who were with you in every march you marched and every valley you crossed.)
+
+قالوا: وهم بالمدينة يا رسول الله؟
+
+They said, "While they are still in Al-Madinah, O Messenger of Allah?" He said,
+
+نَعَمْ حَبَسَهُمُ الْعُذْرُ
+
+(Yes. Only their disability hindered them (from joining you).) Allah said,
+
+وَكُلًّا وَعَدَ اللَّهُ الْحُسْنَىٰ
+
+(Unto each, Allah has promised good) meaning, Paradise and tremendous rewards. This Ayah indicates that Jihad is not Fard on each and every individual, but it is Fard Kifayah (which is a collective duty). Allah then said,
+
+وَفَضَّلَ اللَّهُ الْمُجَاهِدِينَ عَلَى الْقَاعِدِينَ أَجْرًا عَظِيمًا
+
+(but Allah has preferred those who strive hard and fight, above those who sit (at home), by a huge reward).
+
+Allah mentions what He has given them rooms in Paradise, along with His forgiveness and the descent of mercy and blessing on them, as a favor and honor from Him. So He said;
+
+دَرَجَاتٍ مِّنْهُ وَمَغْفِرَةً وَرَحْمَةً وَكَانَ اللَّهُ غَفُورًا رَّحِيمًا
+
+(Degrees of (higher) grades from Him, and forgiveness and mercy. And Allah is Ever Oft-Forgiving, Most Merciful.). In the Two Sahihs, it is recorded that Abu Sa'id Al-Khudri said that the Messenger of Allah ﷺ said,
+
+إِنَّ فِي الْجَنَّةِ مِائَةَ دَرَجَةٍ، أَعَدَّهَا اللهُ لِلْمُجَاهِدِينَ فِي سَبِيلِهِ، مَا بَيْنَ كُلِّ دَرَجَتَيْنِ كَمَا بَيْنَ السَّمَاءِ وَالْأَرْضِ
+
+(There are a hundred grades in Paradise that Allah has prepared for the Mujahidin in His cause, between each two grades is the distance between heaven and Earth.)
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله :  لا يَسْتَوِي الْقَاعِدُونَ مِنَ الْمُؤْمِنِينَ غَيْرُ أُولِي الضَّرَرِ وَالْمُجَاهِدُونَ فِي سَبِيلِ اللَّهِ بِأَمْوَالِهِمْ وَأَنْفُسِهِمْقال أبو جعفر: يعني جل ثناؤه بقوله: " لا يستوي القاعدون من المؤمنين غير أولي الضرر والمجاهدون "، لا يعتدل المتخلِّفون عن الجهاد في سبيل الله من أهل الإيمان بالله وبرسوله، المؤثرون الدعةَ والخَفْض وَالقُعودَ في منازلهم على مُقاساة حُزُونة الأسفار والسير في الأرض، ومشقة ملاقاة أعداء الله بجهادهم في ذات الله، وقتالهم في طاعة الله، إلا أه...
+القول في تأويل قوله: ﴿لا يَسْتَوِي الْقَاعِدُونَ مِنَ الْمُؤْمِنِينَ غَيْرُ أُولِي الضَّرَرِ وَالْمُجَاهِدُونَ فِي سَبِيلِ اللَّهِ بِأَمْوَالِهِمْ وَأَنْفُسِهِمْ﴾
+
+قال أبو جعفر: يعني جل ثناؤه بقوله:"لا يستوي القاعدون من المؤمنين غير أولي الضرر والمجاهدون"، لا يعتدل المتخلِّفون عن الجهاد في سبيل الله من أهل الإيمان بالله وبرسوله، المؤثرون الدعةَ والخَفْض وَالقُعودَ في منازلهم على مُقاساة حُزُونة الأسفار والسير في الأرض، ومشقة ملاقاة أعداء الله بجهادهم في ذات الله، وقتالهم في طاعة الله، إلا أهل العذر منهم بذَهَاب أبصارهم، وغير ذلك من العِلل التي لا سبيل لأهلها -للضَّرَر الذي بهم- إلى قتالهم وجهادهم في سبيل الله="والمجاهدون في سبيل الله"، ومنهاج دينه، [[انظر تفسير"في سبيل الله" فيما سلف ... ، والمراجع هناك.]] لتكون كلمة الله هي العليا، المستفرغون طاقَتهم في قتال أعداءِ الله وأعداءِ دينهم= بأموالهم، إنفاقًا لها فيما أوهَن كيد أعداء أهل الإيمان بالله - وبأنفسهم، مباشرة بها قتالهم، بما تكون به كلمة الله العالية، وكلمة الذين كفروا السافلة.
+
+* *
+
+واختلفت القرأة في قراءة قوله:"غير أولي الضرر".
+
+* *
+
+فقرأ ذلك عامة قرأة أهل المدينة ومكة والشأم ﴿غَيْرَ أُولِي الضَّرَرِ﴾ ، نصبًا، بمعنى: إلا أولي الضرر.
+
+وقرأ ذلك عامة قرأة أهل الكوفة والبصرة: [[في المطبوعة: "قرأة أهل العراق والكوفة والبصرة"، وأثبت ما في المخطوطة.]] ﴿غَيْرُ أُولِي الضَّرَرِ﴾ برفع"غير"، على مذهب النّعت"للقاعدين".
+
+قال أبو جعفر: والصواب من القراءة في ذلك عندنا: ﴿غَيْرَ أُولِي الضَّرَرِ﴾ بنصب"غير"، لأن الأخبار متظاهرة بأن قوله:"غير أولي الضرر"، نزل بعد قوله:"لا يستوي القاعدون من المؤمنين والمجاهدون في سبيل الله بأموالهم وأنفسهم"، استثناءً من قوله:"لا يستوي القاعدون من المؤمنين والمجاهدون".
+
+* *
+
+ذكر بعض الأخبار الواردة بذلك:
+
+١٠٢٣٣- حدثنا نصر بن علي الجهضمي قال، حدثنا المعتمر بن سليمان عن أبيه، عن أبي إسحاق، عن البراء: أن رسول الله ﷺ قال: ائتوني بالكتف والَّلوح، فكتب [[في المطبوعة"فكتب"، وأثبت ما في المخطوطة.]] "لا يستوي القاعدون من المؤمنين والمجاهدون"، وعمرو بن أم مكتوم خلف ظَهره، فقال: هل لي من رُخصة يا رسول الله؟ فنزلت:"غير أولي الضرر". [[الحديث: ١٠٢٣٣ - هذا حديث البراء بن عازب، في شأن نزول قوله تعالى (غير أولي الضرر) - وقد رواه الطبري هنا بسبعة أسانيد. خمسة منها في نسق: ١٠٢٣٣ - ١٠٢٣٧، ثم: ١٠٢٤٨، ١٠٢٤٩.
+
+وأبو إسحاق -فيها كلها-: هو أبو إسحاق السبيعي.
+
+فهذا الحديث أولها، "عن نصر بن علي الجهضمي" - رواه الترمذي ٣: ١٩، عن نصر بن علي، بهذا الإسناد.
+
+وكذلك رواه النسائي ٢: ٥٤، عن نصر بن علي.
+
+وكذلك رواه ابن حبان في صحيحه، رقم: ٤٠ - بتحقيقنا- عن محمد بن عمر بن يوسف، عن نصر بن علي.
+
+وقوله: "فكتب: لا يستوي" - إلخ: يعني أمر بالكتابة. وهذا هو الثابت في المطبوعة"فكتب" بالفاء. وهو الموافق لما في الترمذي، والنسائي، وابن حبان، وفي المخطوطة"وكتب" بالواو. فأثبتنا الموافق دون المخالف، وإن كان المعنى واحدًا.]]
+
+١٠٢٣٤- حدثنا ابن وكيع قال، حدثنا أبو بكر بن عياش، عن أبي إسحاق، عن البراء قال: لما نزلت:"لا يستوي القاعدون من المؤمنين"، جاء ابن أم مكتوم وكان أعمى، فقال: يا رسول الله، كيف وأنا أعمى؟ فما برح حتى نزلت:"غير أولي الضرر". [[الحديث: ١٠٢٣٤ - هو تكرار للحديث قبله، على ما في سفيان بن وكيع من ضعف. ولكنه سمع من أبي بكر بن عياش، أبو بكر سمع من أبي إسحاق السبيعي.
+
+والحديث في ذاته صحيح من هذا الوجه:
+
+فقد رواه النسائي ٢: ٥٤، عن محمد بن عبيد، عن أبي بكر بن عياش، به.]]
+
+١٠٢٣٥- حدثنا ابن وكيع قال، حدثنا أبي، عن سفيان، عن أبي إسحاق، عن البراء بن عازب في قوله:"لا يستوي القاعدون من المؤمنين غير أولي الضرر"، قال: لما نزلت، جاء عمرو ابن أم مكتوم إلى النبي ﷺ، وكان ضريرَ البصر، فقال: يا رسول الله، ما تأمرني، فإني ضرير البصر؟ فأنزل الله هذه الآية، فقال: ائتوني بالكتف والدواة، أو: اللوح والدواة. [[الحديث: ١٠٢٣٥ - سفيان بن وكيع لم ينفرد بروايته عن أبيه عن سفيان الثوري: فقد رواه أحمد في المسند ٤: ٢٩٠، ٢٩٩ (حلبي) ، عن وكيع، عن الثوري - بهذا الإسناد. وكذلك رواه الترمذي ٤: ٩٠-٩١، عن محمود بن غيلان، عن وكيع، به. وقال: "هذا حديث حسن صحيح. ويقال: عمرو بن أم مكتوم. ويقال: عبد الله بن أم مكتوم. وهو عبد الله بن زائدة. وأم مكتوم: أمه".]]
+
+١٠٢٣٦- حدثني إسماعيل بن إسرائيل الدلال الرَّملي قال، حدثنا عبد الله بن محمد بن المغيرة قال، حدثنا مسعر، عن أبي إسحاق، عن البراء: أنه لما نزلت:"لا يستوي القاعدون من المؤمنين"، كلمه ابن أم مكتوم، فأنزلت:"غير أولي الضرر". [[الحديث: ١٠٢٣٦- إسماعيل بن إسرائيل الدلال الرملي، أبو محمد: ثقة من شيوخ ابن أبي حاتم، ترجمه في ١ / ١ / ١٥٨، وقال: "كتبنا عنه، وهو صدوق". ولكن عنده"السلال" بدل"الدلال" - ولم نجد مرجحًا، فأثبتنا ما ثبت هنا في المخطوطة والمطبوعة. ولكن فيه خطأ في المطبوعة: "محمد بن إسماعيل" بزياة"محمد بن" وليست في المخطوطة، فحذفناها. ويؤيد ذلك أن الطبري نفسه روى عنه في التاريخ ٢: ٢٧٣، بهذا الإسناد، عن البراء في عدة أصحاب طالوت، وسماه هناك"إسماعيل بن إسرائيل الرملي". وحديث البراء في عدة أصحاب طالوت، مضى بأسانيد: ٥٧٢٤ - ٥٧٢٩، ولكن ليس فيها هذا الإسناد الذي في التاريخ.
+
+عبد الله بن محمد بن المغيرة الكوفي، سكن مصر: ترجمه ابن أبي حاتم ٢ / ٢ / ١٥٨، وروى عن أبيه، قال: "ليس بالقوي". ولم يذكر أنه يروي عن مسعر، ولكن روايته عنه ثابتة في تهذيب الكمال للحافظ المزي، ص: ١٣٢٢ (مخطوط مصور) ، في ترجمة مسعر، في الرواة عنه، وكذلك ثبت في ترجمته هو في لسان الميزان ٣: ٣٣٢ - ٣٣٣ أنه يروي عن مسعر. وفي ترجمته هذه ما يدل على جرحه جرحًا شديدًا، يسقط روايته.
+
+والحديث من رواية مسعر - ثابت صحيح، من غير رواية عبد الله بن محمد بن المغيرة هذا. فرواه مسلم ٢: ١٠١، عن أبي كريب، عن ابن بشر، وهو محمد بن بشر بن الفرافصة العبدي الحافظ، عن مسعر، به.]]
+
+١٠٢٣٧- حدثنا محمد بن المثنى قال، حدثنا محمد بن جعفر قال، حدثنا شعبة، عن أبي إسحاق، أنه سمع البراء يقول في هذه الآية:"لا يستوي القاعدون من المؤمنين والمجاهدون في سبيل الله"، قال: فأمر رسول الله ﷺ زيدًا فجاء بكتف فكتبها. قال: فشكا إليه ابن أم مكتوم ضَرَارته، فنزلت:"لا يستوي القاعدون من المؤمنين غير أولي الضرر".
+
+= قال شعبة، وأخبرني سعد بن إبراهيم، عن أبيه، عن رجل، عن زيد في هذه الآية:"لا يستوي القاعدون"، مثل حديث البراء. [[الحديث: ١٠٢٣٧ - إبو إسحاق: هو السبيعي، كما قلنا آنفًا. ووقع في المطبوعة"عن ابن إسحاق"، وهو خطأ يقينًا. وثبت على الصواب في المخطوطة.
+
+والحديث رواه أحمد في المسند ٤: ٢٨٢ (حلبي) ، عن محمد بن جعفر، عن شعبة، به. ورواه مسلم ٢: ١٠٠-١٠١، عن محمد بن المثنى (شيخ الطبري هنا) ، وعن محمد بن بشار - كلاهما عن محمد بن جعفر، به.
+
+ورواه أبو داود الطيالسي: ٧٠٥، عن شعبة، به.
+
+ورواه أحمد أيضا ٤: ٢٨٤، عن عفان و٢٩٩-٣٠٠، عن عبد الرحمن (وهو ابن مهدي) - كلاهما عن شعبة.
+
+ورواه البخاري ٦: ٣٤ (فتح) ، والدارمي ٢: ٢٠٩ - كلاهما عن أبي الوليد الطيالسي، عن شعبة.
+
+وكذلك رواه ابن حبان في صحيحه، رقم: ٤١ (بتحقيقنا) ، عن أبي خليفة، عن أبي الوليد الطيالسي، به.
+
+ورواه البخاري أيضًا ٨: ١٩٦ (فتح) ، عن حفص بن عمر، عن شعبة.
+
+وكذلك رواه البيهقي في السنن الكبرى ٩: ٢٣، بإسنادين، من طريق حفص بن عمر. وهذا كله عن أصل الحديث، حديث البراء. وأما الإسناد الآخر الملحق به هنا: "شعبة، عن سعد بن إبراهيم، عن أبيه، عن رجل، عن زيد" - وهو ابن ثابت: فإنه في الحقيقة حديث آخر بإسناد آخر، فيه رجل مبهم. فيكون إسناده ضعيفًا. وحديث زيد بن ثابت -في نفسه- صحيح، وسيأتي: ١٠٢٣٩، ١٠٢٤٠.
+
+وأما من هذا الوجه الضعيف، فقد رواه مسلم أيضًا، تبعًا لحديث البراء هذا، كمثل صنيع الطبري هنا. وبالضرورة ليس هذا الإسناد على شرط الصحيح عند مسلم. وإنما ساقه تمامًا للرواية عن شعبة، كما سمعه.
+
+ومن العجب أن لم يتحدث عنه النووي في شرحه ١٣: ٤٢، ولم يذكر علته.
+
+ومن عجب أيضًا أن لم يذكره الحافظ المزي في باب (المبهمات) من تهذيب الكمال، ولا ذكره أحد من فروعه - مع أنه في صحيح مسلم بروايتين: "عن سعد بن إبراهيم، عن رجل، عن زيد"، و"عن سعد بن إبراهيم، عن أبيه، عن رجل، عن زيد".
+
+ثم لما نعرف هذا الرجل المبهم.
+
+وسعد: هو سعد بن إبراهيم بن عبد الرحمن بن عوف. وأبوه: من كبار التابعين، فمن المحتمل جدًا أن يكون شيخه الرجل المبهم هنا صحابيًا. ولكنا لا نستطيع ترجيح ذلك.]]
+
+١٠٢٣٨- حدثنا أبو كريب قال، حدثنا إسحاق بن سليمان، عن أبي سنان الشيباني، عن أبي إسحاق، عن زيد بن أرقم قال: لما نزلت:"لا يستوي القاعدون من المؤمنين والمجاهدون في سبيل الله"، جاء ابن أم مكتوم فقال: يا رسول الله، ما لي رخصة؟ قال: لا! قال ابن أم مكتوم: اللهم إني ضرير فرخِّص! فأنزل الله:"غير أولي الضرر"، وأمر رسول الله ﷺ فكتبها= يعني: الكاتب. [[الحديث: ١٠٢٣٨ - إسحاق بن سليمان الرازي العبدي: مضى توثيقه في: ٦٤٥٦. أبو سنان الشيباني: هو الأصغر الكوفي، واسمه"سعيد بن سنان البرجمي". وهو ثقة، تكلم فيه من أجل بعض خطئه. وقد مضت ترجمته في: ١٧٥.
+
+وقد وهم الحافظ في الفتح ٨: ١٩٦ وهمًا شديدًا، حين أشار إلى هذا الحديث من رواية الطبراني -كما سيأتي- فزعم أنه"ضرار بن مرة"! وهو أبو سنان الشيباني الأكبر. والذي يروي عن أبي إسحاق السبيعي ويروي عنه إسحاق بن سليمان الرازي - هو"أبو سنان الشيباني الأصغر، سعيد بن سنان"، كما هو بين من تهذيب الكمال وفروعه. فلم يذكر الحافظ المزي في ترجمتيهما إلا ما قلنا.
+
+وأبو إسحاق: هو السبيعي، كما ذكرنا آنفًا. ووقع في المطبوعة"عن ابن إسحاق". وهو خطأ، صوابه ما أثبتنا عن المخطوطة. وهو الثابت في الرواية.
+
+والحديث ذكره الهيثمي في مجمع الزوائد ج٧ ص٩، وقال: "رواه الطبراني، ورجاله ثقات".
+
+وأشار إليه الحافظ في الفتح ٨: ١٩٦ -كما قلنا آنفًا. وذكر أنه عند الطبراني، وعلله بأن"المحفوظ: عن أبي إسحاق عن البراء. كذا اتفق الشيخان عليه من طريق شعبة ... "، ثم أشار إلى كثير من الروايات التي ذكرها الطبري هنا وفيما يأتي.
+
+ولسنا نرى هذا علة لذاك، ولا ذاك علة لهذا، فالقصة مشهورة وقد رواها أيضًا زيد بن ثابت، كما سيأتي: ١٠٢٣٩، ١٠٢٤٠.
+
+ورواها أيضًا الفلتان بن عاصم الجرمي الصحابي، مطولة. ذكرها الهيثمي في مجمع الزوائد ج٧ ص٩. وقال: "رواه أبو يعلى، والبزار بنحوه، والطبراني بنحوه ... ورجال أبي يعلى ثقات".
+
+وذكره الحافظ في الإصابة ٥: ٢١٣ في ترجمة الفلتان، من رواية الحسن بن سفيان في مسنده، ثم ذكر أنه رواه ابن أبي شيبة، وأبو يعلى، وابن حبان في صحيحه.
+
+وذكره السيوطي ٢: ٢٠٣-٢٠٤، وزاد نسبته لعبد بن حميد.
+
+ورواها ابن عباس، كما سيأتي: ١٠٢٤٢.]]
+
+١٠٢٣٩- حدثني محمد بن عبد الله بن بزيع ويعقوب بن إبراهيم قالا حدثنا بشر بن المفضل، عن عبد الرحمن بن إسحاق، عن الزهري، عن سهل بن سعد قال: رأيت مروان بن الحكم جالسًا، فجئت حتى جلست إليه، فحدَّثنا عن زيد بن ثابت: أن رسول الله ﷺ أنزل عليه:"لا يستوي القاعدون من المؤمنين والمجاهدون في سبيل الله"، قال: فجاء ابن أم مكتوم وهو يمليها عليّ، فقال: يا رسول الله، لو أستطيع الجهاد لجاهدتُ! قال: فأنزل عليه وفخذُه على فخذي، فثقلت، فظننتُ أن تُرَضَّ فخذي، ثم سُرِّي عنه، فقال:"غير أولي الضرر". [[الحديث: ١٠٢٣٩ - رواه النسائي ٢: ٥٤، عن محمد بن عبد الله بن بزيع، أحد شيخي الطبري هنا - بهذا الإسناد.
+
+ورواه أحمد في المسند ٥: ١٨٤ (حلبي) ، عن يعقوب بن إبراهيم، عن أبيه، عن صالح، عن الزهري، به، ولم يذكر لفظه كاملا، أحاله على رواية قبيصة بن ذؤيب قبله. وهي الرواية التي ستأتي هنا عقب هذا.
+
+ورواه البخاري ٨: ١٩٥-١٩٦ (فتح) ، من طريق إبراهيم بن سعد، عن صالح، به. ورواه الترمذي ٤: ٩٢، والنسائي ٢: ٥٤، وابن الجارود، ص: ٤٦٠ - كلهم من طريق يعقوب بن إبراهيم بن سعد، عن أبيه.
+
+ورواه البيهقي ٩: ٢٣، من طريق إبراهيم بن سعد.
+
+وذكره السيوطي ٢: ٢٠٢-٢٠٣، وزاد نسبته لابن سعد، وعبد بن حميد، وأبي داود، وابن المنذر، وأبي نعيم في الدلائل.
+
+"رض الشيء يرضه رضا": كسره. و"سُري عنه" (بالبناء للمجهول) : أي كشف عنه وتجلى ما كان يأخذه من الكرب عند نزول الوحي.]]
+
+١٠٢٤٠- حدثنا الحسن بن يحيى قال، أخبرنا عبد الرزاق قال، أخبرنا معمر، عن الزهري، عن قبيصة بن ذؤيب، عن زيد بن ثابت قال: كنت أكتب لرسول الله ﷺ، فقال: اكتب:"لا يستوي القاعدون من المؤمنين والمجاهدون في سبيل الله"، فجاء عبد الله بن أم مكتوم فقال: يا رسول الله، إني أحبُّ الجهاد في سبيل الله، ولكن بي من الزَّمَانة ما قد ترى، قد ذهب بصري! قال زيد: فثقلت فخِذ رسول الله ﷺ على فخذي حتى خشيت أن يَرُضَّها، ثم قال: اكتب:"لا يستوي القاعدون من المؤمنين غير أولى الضرر والمجاهدون في سبيل الله". [[الحديث: ١٠٢٤٠ - هو في معنى الحديث السابق عن زيد بن ثابت، ولكنه من رواية قبيصة بن ذؤيب عنه.
+
+وقبيصة بن ذؤيب بن حلحلة: تابعي كبير ثقة، كما مضى في: ٥٤٧١ وهو مترجم في التهذيب وغيره، وفي الإصابة ٥: ٢٧١-٢٧٢.
+
+والحديث في تفسير عبد الرزاق، ص: ٤٨ (مخطوط مصور) .
+
+ورواه أحمد في المسند ٥: ١٨٤ (حلبي) ، عن عبد الرزاق.
+
+وذكره ابن كثير ٢: ٥٤٩، من تفسير عبد الرزاق، ثم قال: "رواه ابن أبي حاتم، وابن جرير.
+
+وأشار إليه الحافظ في الفتح ٨: ١٩٥، ونسبه لأحمد فقط.]]
+
+١٠٢٤١- حدثنا الحسن بن يحيى قال، أخبرنا عبد الرزاق قال، أخبرنا ابن جريج قال، أخبرني عبد الكريم: أن مقسمًا مولى عبد الله بن الحارث أخبره: أن ابن عباس أخبره قال:"لا يستوي القاعدون من المؤمنين"، عن بدر، والخارجون إلى بدر. [[الحديث: ١٠٢٤١ - هذا الحديث ليس في تفسير عبد الرزاق، فلعله في المصنف. ولم يروه أحمد في المسند، فيما وصل إليه تتبعي.
+
+وقد رواه البخاري ٨: ١٩٦-١٩٧، هكذا مختصرًا، من طريق هشام، عن ابن جريج، ومن طريق عبد الرزاق، عن ابن جريج.
+
+وذكره ابن كثير ٢: ٥٤٩، وقال: "انفرد به البخاري دون مسلم".
+
+وذكره السيوطي ٢: ٢٠٣، وزاد نسبته لعبد بن حميد، وابن المنذر، وابن أبي حاتم. وسيأتي عقيب هذا، بأطول منه.]]
+
+١٠٢٤٢- حدثنا القاسم قال: حدثنا الحسين قال، حدثني حجاج قال، أخبرني عبد الكريم: أنه سمع مقسمًا يحدث عن ابن عباس، أنه سمعه يقول:"لا يستوي القاعدون من المؤمنين" عن بدر، والخارجون إلى بدر، لما نزل غزو بدر. [[في المطبوعة: "لما نزلت غزوة بدر"، وأثبت ما في المخطوطة.]] قال 
+
+[TRUNCATED at 12000 chars — 6776 more. Consult the source directly before relying on anything near the cut.]
 
 ### al-Muyassar (Arabic)
 
-لا يتساوى المتخلفون عن الجهاد في سبيل الله -غير أصحاب الأعذار منهم- والمجاهدون في سبيل الله، بأموالهم وأنفسهم، فضَّل الله تعالى المجاهدين على القاعدين، ورفع منزلتهم درجة عالية في الجنة، وقد وعد الله كلا من المجاهدين بأموالهم وأنفسهم والقاعدين من أهل الأعذار الجنة لِما بذلوا وضحَّوا في سبيل الحق، وفضَّل الله تعالى المجاهدين على القاعدين ثوابًا جزيلا.
+لا يتساوى المتخلفون عن الجهاد في سبيل الله -غير أصحاب الأعذار منهم- والمجاهدون في سبيل الله بأموالهم وأنفسهم، فضَّل الله تعالى المجاهدين على القاعدين، ورفع منزلتهم درجة عالية في الجنة، وقد وعد الله كُلًّا من المجاهدين بأموالهم وأنفسهم والقاعدين من أهل الأعذار الجنةَ، لِما بذلوا وضحَّوا في سبيل الحق، وفضَّل الله تعالى المجاهدين على القاعدين ثوابًا جزيلًا.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿لا يَسْتَوِي القاعِدُونَ مِن المُؤْمِنِينَ﴾ عَنْ الجِهاد ﴿غَيْر أُولِي الضَّرَر﴾ بِالرَّفْعِ صِفَة والنَّصْب اسْتِثْناء مِن زَمانَة أوْ عَمًى ونَحْوه ﴿والمُجاهِدُونَ فِي سَبِيل اللَّه بِأَمْوالِهِمْ وأَنْفُسهمْ فَضَّلَ اللَّه المُجاهِدِينَ بِأَمْوالِهِمْ وأَنْفُسهمْ عَلى القاعِدِينَ﴾ لِضَرَرٍ ﴿دَرَجَة﴾ فَضِيلَة لِاسْتِوائِهِما فِي النِّيَّة وزِيادَة المُجاهِدِينَ بِالمُباشَرَةِ ﴿وكُلًّا﴾ مِن الفَرِيقَيْنِ ﴿وعَدَ اللَّه الحُسْنى﴾ الجَنَّة ﴿وفَضَّلَ اللَّه المُجاهِدِينَ عَلى القاعِدِينَ﴾ لِغَيْرِ ضَرَر ﴿أجْرًا عَظِيمًا﴾
 
 ---
 
@@ -80,22 +562,239 @@ Al-Bukhari recorded that Al-Bara' said, "When the Ayah,
 
 ### Ibn Kathir (English)
 
+March forth, whether you are light or heavy, and strive hard with your wealth and your lives in the cause of Allah. This is better for you, if you but knew (41)
+
 Jihad is required in all Conditions
+
 Sufyan Ath-Thawri narrated from his father from Abu Ad-Duha, Muslim bin Subayh, who said, "This Ayah,
-انْفِرُواْ خِفَافًا وَثِقَالاً
-(March forth, whether you are light or heavy) was the first part to be revealed from Surah Bara'ah." Mu`tamir bin Sulayman narrated that his father said, "Hadrami claimed that he was told that some people used to declare that they will not gain sin (if they lag behind the forces of Jihad) because they are ill or old. This Ayah...
+
+انفِرُوا خِفَافًا وَثِقَالًا
+
+(March forth, whether you are light or heavy) was the first part to be revealed from Surah Bara'ah." Mu'tamir bin Sulayman narrated that his father said, "Hadrami claimed that he was told that some people used to declare that they will not gain sin (if they lag behind the forces of Jihad) because they are ill or old. This Ayah was revealed,
+
+انفِرُوا خِفَافًا وَثِقَالًا
+
+(March forth, whether you are light or heavy.)"
+
+Allah commanded mass mobilization together with the Messenger of Allah ﷺ for the battle of Tabuk, to fight the disbelieving, People of the Book, the Romans, Allah's enemies. Allah ordained that the believers all march forth with the Messenger ﷺ regardless whether they felt active, lazy, at ease or had difficult circumstances,
+
+انفِرُوا خِفَافًا وَثِقَالًا
+
+(March forth, whether you are light or heavy)
+
+'Ali bin Zayd narrated that Anas said that Abu Talhah commented (on this Ayah), "Whether you are old or young, Allah did not leave an excuse for anyone." Abu Talhah marched to Ash-Sham and fought until he was killed. In another narration, Abu Talhah recited Surah Bara'ah until he reached this Ayah,
+
+انفِرُوا خِفَافًا وَثِقَالًا وَجَاهِدُوا بِأَمْوَالِكُمْ وَأَنفُسِكُمْ فِي سَبِيلِ اللَّهِ
+
+(March forth, whether you are light or heavy, and strive hard with your wealth and your lives in the cause of Allah.)
+
+He then said, "I see that Allah had called us to mobilize whether we are old or young. O my children! Prepare my supplies." His children said, 'May Allah grant you His mercy! You conducted Jihad along with the Messenger of Allah ﷺ until he died, then with Abu Bakr until he died, then with 'Umar until he died. Let us perform Jihad in your place." Abu Talhah refused and he went to the sea [under the command of Mu'awiyah] where he died. They could not find an island to bury him on until nine days later, during which his body did not deteriorate or change and they buried him on the island. As-Suddi said,
+
+انفِرُوا خِفَافًا وَثِقَالًا
+
+(March forth, whether you are light or heavy), whether you are rich, poor, strong, or weak. A man came forward, and he was fat, complained, and asked for permission to stay behind [from Jihad], but the Prophet ﷺ refused. Then this Ayah,
+
+انفِرُوا خِفَافًا وَثِقَالًا
+
+(March forth, whether you are light or heavy) was revealed, and it became hard on the people. So Allah abrogated it with this Ayah,
+
+لَّيْسَ عَلَى الضُّعَفَاءِ وَلَا عَلَى الْمَرْضَىٰ وَلَا عَلَى الَّذِينَ لَا يَجِدُونَ مَا يُنفِقُونَ حَرَجٌ إِذَا نَصَحُوا لِلَّهِ وَرَسُولِهِ
+
+(There is no blame on those who are weak or ill or who find no resources to spend, if they are sincere and true (in duty) to Allah and His Messenger)[9:91]."
+
+Ibn Jarir said that Hibban bin Zayd Ash-Shar'abi narrated to him, "We mobilized our forces with Safwan bin 'Amr, who was the governor of Hims towards the city of Ephsos appointed to the Jerajima Christian expatriates (in Syria). I saw among the army an old, yet active man, whose eyebrows had sunk over his eyes (from old age), from the residents of Damascus, riding on his animal. I said to him, 'O uncle! Allah has given you an excuse (to lag behind).' He said, 'O my nephew! Allah has mobilized us whether we are light or heavy. Verily, those whom Allah loves, He tests them. Then to Allah is their return and eternal dwelling. Allah tests from His servants whoever thanks (Him) and observes patience and remembrance of Him, all the while worshipping Allah, the Exalted and Most Honored, and worshipping none else.'"
+
+Next, Allah encourages spending in His cause and striving with one's life in His pleasure and the pleasure of His Messenger ﷺ,
+
+وَجَاهِدُوا بِأَمْوَالِكُمْ وَأَنفُسِكُمْ فِي سَبِيلِ اللَّهِ ۚ ذَٰلِكُمْ خَيْرٌ لَّكُمْ إِن كُنتُمْ تَعْلَمُونَ
+
+(and strive hard with your wealth and your lives in the cause of Allah. This is better for you, if you but knew.)
+
+Allah says, this is better for you in this life and the Hereafter. You might spend small amounts, but Allah will reward you the property of your enemy in this life, as well as, the honor that He will keep for you in the Hereafter. The Prophet ﷺ said,
+
+تَكَفَّلَ اللهُ لِلْمُجَاهِدِ فِي سَبِيلِهِ إِنْ تَوَفَّاهُ أَنْ يُدْخِلَهُ الْجَنَّةَ، أَوْ يَرُدَّهُ إِلَى مَنْزِلِهِ بِمَا نَالَ مِنْ أَجْرٍ أَوْ غَنِيمَةٍ
+
+(Allah promised the Mujahid in His cause that if He brings death to him, He will enter him into Paradise. Or, He will return him to his house with whatever reward and war spoils he earns.) So Allah said;
+
+كُتِبَ عَلَيْكُمُ الْقِتَالُ وَهُوَ كُرْهٌ لَّكُمْ ۖ وَعَسَىٰ أَن تَكْرَهُوا شَيْئًا وَهُوَ خَيْرٌ لَّكُمْ ۖ وَعَسَىٰ أَن تُحِبُّوا شَيْئًا وَهُوَ شَرٌّ لَّكُمْ ۗ وَاللَّهُ يَعْلَمُ وَأَنتُمْ لَا تَعْلَمُونَ
+
+(Jihad is ordained for you (Muslims) though you dislike it, and it may be that you dislike a thing which is good for you and that you like a thing which is bad for you. Allah knows but you do not know.)[2:216]
+
+Imam Ahmad recorded that Anas said that the Messenger of Allah ﷺ said to a man,
+
+أَسْلِم
+
+(Embrace Islam,) but the man said, "I dislike doing so." The Messenger ﷺ said,
+
+أَسْلِمْ وَإِنْ كُنْتَ كَارِهًا
+
+(Embrace Islam even if you dislike it)."
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله :  انْفِرُوا خِفَافًا وَثِقَالاقال أبو جعفر: واختلف أهل التأويل في معنى " الخفة " و " الثقل "، اللذين أمر الله من كان به أحدهما بالنفر معه.فقال بعضهم: معنى " الخفة "، التي عناها الله في هذا الموضع، الشباب = ومعنى " الثقل "، الشيخوخة.* ذكر من قال ذلك:16734- حدثنا ابن حميد قال، حدثنا حكام, عن عنبسة, عن رجل, عن الحسن في قوله: (انفروا خفافًا وثقالا)، قال: شيبًا وشبّانًا.16735- حدثنا ابن وكيع قال، حدثنا حفص, عن عمرو, عن الحسن قال: شيوخًا وشبانًا.16736-...... قال، حدثنا ابن عيين...
+القول في تأويل قوله: ﴿انْفِرُوا خِفَافًا وَثِقَالا وَجَاهِدُوا بِأَمْوَالِكُمْ وَأَنْفُسِكُمْ فِي سَبِيلِ اللَّهِ ذَلِكُمْ خَيْرٌ لَكُمْ إِنْ كُنْتُمْ تَعْلَمُونَ (٤١) ﴾
+
+قال أبو جعفر: واختلف أهل التأويل في معنى "الخفة" و"الثقل"، اللذين أمر الله من كان به أحدهما بالنفر معه.
+
+فقال بعضهم: معنى "الخفة"، التي عناها الله في هذا الموضع، الشباب = ومعنى "الثقل"، الشيخوخة.
+
+ذكر من قال ذلك:
+
+١٦٧٣٤- حدثنا ابن حميد قال، حدثنا حكام، عن عنبسة، عن رجل، عن الحسن في قوله: ﴿انفروا خفافًا وثقالا﴾ ، قال: شيبًا وشبّانًا.
+
+١٦٧٣٥- حدثنا ابن وكيع قال، حدثنا حفص، عن عمرو، عن الحسن قال: شيوخًا وشبانًا.
+
+١٦٧٣٦-...... قال، حدثنا ابن عيينة، عن علي بن زيد، عن أنس، عن أبي طلحة: ﴿انفروا خفافا وثقالا﴾ ، قال: كهولا وشبانًا، ما أسمع الله عَذَر واحدًا!! [[في المطبوعة: "عذر أحدًا"، وأثبت ما في المخطوطة.]] فخرج إلى الشأم، فجاهد حتى مات. [[الأثر: ١٦٧٣٦ - " علي بن زيد بن عبد الله بن أبي مليكة"، مضى مرارًا، وثقة.
+
+أخي السيد أحمد فيما سلف رقم: ٤٨٩٧، وقد تكلم فيه أحمد وغيره قال: "ضعيف الحديث". و "أنس" هو "أنس بن مالك" خادم رسول الله ﷺ.
+
+و"أبو طلحة"، هو "زيد بن سهل الأنصاري"، صاحب رسول الله، شهد العقبة، وبدرا، المشاهد كلها.
+
+وهذا الخبر، رواه ابن سعد في الطبقات ٣ \ ٢ \ ٦٦ من طريق عفان بن مسلم، عن حماد بن سلمة، عن ثابت، وعلي بن يزيد، عن أنس، مطولا، بغير هذا اللفظ. ورواه الحاكم في المستدرك ٣: ٣٥٣، من هذه الطريق نفسها وقال: " هذا حديث صحيح على شرط مسلم، ولم يخرجاه ".
+
+وخرجه السيوطي في الدر المنثور ٣: ٢٤٦، وزاد نسبته إلى ابن أبي عمر العدني في مسنده، وعبد الله بن أحمد بن حنبل في زوائد الزهد، وأبي يعلى، وابن المنذر، وابن أبي حاتم، وابن حبان، وأبي الشيخ، وابن مردويه.
+
+وخرجه الهيثمي في مجمع الزوائد ٩: ٣١٢، بغير هذا اللفظ، وقال: " رواه أبو يعلى، ورجاله رجال الصحيح".]]
+
+١٦٧٣٧- حدثنا ابن حميد قال، حدثنا حكام، عن عنبسة، عن المغيرة بن النعمان قال: كان رجل من النَّخع، وكان شيخًا بادنًا، فأراد الغزوَ، فمنعه سعد بن أبي وقاص فقال: إن الله يقول: ﴿انفروا خفافًا وثقالا﴾ ، فأذن له سعد، فقتل الشيخ، فسأل عنه بعدُ عُمَرُ، فقال: ما فعل الشيخ الذي كأنّه من بني هاشم؟ [[في المطبوعة: "كان من بني هاشم"، وهو خطأ لا شك فيه، فإن الرجل "من النخع"، كما ذكر قبل، والصواب ما في المخطوطة.]] فقالوا: قتل يا أمير المؤمنين! [[الأثر: ١٦٧٣٧ - "المغيرة بن النعمان النخعي"، ثقة، مضى برقم: ١٣٦٢٢.]]
+
+١٦٧٣٨- حدثنا ابن وكيع قال، حدثنا يزيد بن هارون، عن إسماعيل، عن أبي صالح قال: الشابُّ والشيخ.
+
+١٦٧٣٩-...... قال، حدثنا أبو أسامة، عن مالك بن مغول، عن إسماعيل، عن عكرمة، قال: الشاب والشيخ.
+
+١٦٧٤٠-...... قال، حدثنا المحاربي، عن جويبر، عن الضحاك: كهولا وشبَّانًا.
+
+١٦٧٤١-...... قال، حدثنا حبويه أبو يزيد، عن يعقوب القمي، عن جعفر بن حميد، عن بشر بن عطية: كهولا وشبانًا [[الأثر: ١٦٧٤١ - " حبويه، أبو يزيد "، هو " إسحاق بن إسماعيل الرازي "، مضى مرارًا، منها رقم: ١٥٩٩٣، وكتب في المطبوعة: "حيوة"، وغير ما في المخطوطة، وهو خطأ محض.
+
+وأما "جعفر بن حميد"، فلم أجد له ذكرًا في شيء من مراجعي، والذي يروي عنه يعقوب بن عبد الله القمي، هو: " جعفر بن أبي المغيرة الخزاعي القمي"، والذي نقله ابن حجر في التهذيب في ترجمته عن أبي نعيم أن اسم "أبي المغيرة" هو: "دينار" لا "حميد".
+
+وأما " بشر بن عطية "، فلم أجد من يسمى بهذا إلا "بشر بن عطية"، رجل روى عنه مكحول، يقال هو صحابي، ويقال هو: "بشر بن عصمة المزني"، انظر لسان الميزان ٢: ٢٦، ٢٧، في الترجمتين، والإصابة في ترجمة الاسمين. وهذا كله مضطرب.]]
+
+١٦٧٤٢- حدثنا الوليد قال، حدثنا علي بن سهل قال، حدثنا الوليد بن مسلم، عن بكير بن معروف، عن مقاتل بن حيان، في قوله: ﴿انفروا خفافًا وثقالا﴾ ، قال: شبانًا وكهولا.
+
+١٦٧٤٣- حدثني محمد بن عمرو قال، حدثنا أبو عاصم قال، حدثنا عيسى، عن ابن أبي نجيح، عن مجاهد: ﴿انفروا خفافًا وثقالا﴾ ، قال: شبابًا وشيوخًا، وأغنياء ومساكين.
+
+١٦٧٤٤- حدثنا بشر قال، حدثنا يزيد قال، حدثنا سعيد، عن قتادة قال، قال الحسن: شيوخًا وشبّانًا.
+
+١٦٧٤٥- حدثني سعيد بن عمرو قال، حدثنا بقية قال، حدثنا حَرِيز قال، حدثني حبان بن زيد الشرعبيّ قال: نفرنا مع صَفْوان بن عمرو، وكان واليًا على حمص قِبَلَ الأفْسوس، إلى الجَرَاجمة، [["الأفسوس"، بلد بثغور طرسوس، و "طرسوس" مدينة بثغور الشأم بين أنطاكية وحلب وبلاد الروم.
+
+و" الجراجمة "، نبط الشأم، ويقال: هم قوم من العجم بالجزيرة.
+
+وكان في المخطوطة: " قبل الأفسون إلى الحراصه"، والصواب في المطبوعة وهو مطابق لما في تفسير ابن كثير ٤: ١٧٦، نقلا عن هذا الموضع من الطبري.]] فلقيت شيخًا كبيرًا هِمًّا، [[" الهم " (بكسر الهاء) : الشيخ الكبير الفاني البالي.]] قد سقط حاجباه على عينيه، من أهل دمشق، على راحلته، فيمن أغار. [[في المخطوطة: "أعات"، والصواب ما في المطبوعة، وهو موافق لما في ابن كثير.]] فأقبلت عليه فقلت: يا عمِّ، لقد أعذر الله إليك! قال: فرفع حاجبيه، فقال: يا ابن أخي استنفرنا الله خفافًا وثقالا من يحبَّه الله يبتَليه، ثم يعيده فيبْتليه، [[في المطبوعة: " من يحبه الله يبتليه، ثم يعيده فيبقيه "، وأثبت ما في المخطوطة، فهو الصواب وحده.]] إنما يبتلي الله من عباده من شكر وصبر وذكر ولم يعبد إلا الله. [[الأثر: ١٦٧٤٥ - "بقية" هو "بقية بن الوليد"، سلف مرارًا كثيرة.
+
+و" حريز" هو " حريز بن عثمان بن جبر الرحبي "، ثقة مأمون، ثبت في الحديث، وإنما وضع منه من وضع، لأنه كان ينال من علي رضي الله عنه، ثم ترك ذلك. و " حريز " (بفتح الحاء، وكسر الراء) . وقال أبو داود: " شيوخ حريز، كلهم ثقات ". مترجم في التهذيب، والكبير ٢\ ١ \ ٩٦، وابن أبي حاتم ١ \ ٢ \ ٢٨٩.
+
+وكان في المطبوعة: " جرير "، وهو في المخطوطة غير منقوط.
+
+و" حبان بن زيد الشرعبي (بكسر الحاء من: حبان) ، أبو خداش الحمصي، ذكره ابن حبان في الثقات، وسلف قبل أن أبا داود، وثق جميع شيوخ حريز بن عثمان. مترجم في التهذيب، والكبير ٢ \ ١ \ ٧٨، وابن أبي حاتم ١ \ ٢ \ ٢٦٩.
+
+و" صفوان بن عمرو "، كأنه هو " صفوان بن عمرو بن هرم السكسكي "، ثقة. والذي حملني على هذا الظن، أني رأيت في ترجمته في التهذيب عن أبي اليمان، عن صفوان: " أدركت من خلافة عبد الملك، وخرجنا في بعث سنة ٩٤ "، ولكني لم أجد ذكرًا لولايته على حمص.
+
+وقد سلف " صفوان بن عمرو السكسكي " مرارًا، منها رقم: ٧٠٠٩، ١٢٨٠٧، ١٣١٠٨.]]
+
+١٦٧٤٦- حدثنا أحمد بن إسحاق قال، حدثنا أبو أحمد قال، حدثنا إسماعيل، عن أبي صالح: ﴿انفروا خفافًا وثقالا﴾ ، قال: كل شيخ وشابّ.
+
+* *
+
+وقال آخرون: معنى ذلك: مشاغيل وغير مشاغيل.
+
+ذكر من قال ذلك:
+
+١٦٧٤٧- حدثنا ابن بشار وابن وكيع قالا حدثنا عبد الرحمن قال، حدثنا سفيان، عن منصور، عن الحكم في قوله: ﴿انفروا خفافًا وثقالا﴾ ، قال: مشاغيل وغير مشاغيل.
+
+* *
+
+وقال آخرون: معناه: انفروا أغنياء وفقراء.
+
+ذكر من قال ذلك:
+
+١٦٧٤٨- حدثنا ابن حميد قال، حدثنا حكام، عن عنبسة، عمن ذكره، عن أبي صالح: ﴿انفروا خفافًا وثقالا﴾ ، قال: أغنياء وفقراء.
+
+* *
+
+وقال آخرون: معناه: نِشاطًا وغير نِشاط.
+
+ذكر من قال ذلك:
+
+١٦٧٤٩- حدثني محمد بن سعد قال، حدثني أبي قال، حدثني عمي قال، حدثني أبي، عن أبيه، عن ابن عباس قوله: ﴿انفروا خفافًا وثقالا﴾ ، يقول: انفروا نِشاطًا وغير نِشاط.
+
+* *
+
+١٦٧٥٠- حدثنا محمد بن عبد الأعلى قال، حدثنا محمد بن ثور، عن معمر عن قتادة: ﴿خفافًا وثقالا﴾ ، قال: نِشاطًا وغير نِشاط.
+
+* *
+
+وقال آخرون: معناه: ركبانًا ومشاةَ.
+
+ذكر من قال ذلك:
+
+١٦٧٥١- حدثنا علي بن سهل قال، حدثنا الوليد قال، قال أبو عمرو: إذا كان النَّفْر إلى دروب الشأم، نفر الناس إليها "خفافًا"، ركبانًا. وإذا كان النَّفْر إلى هذه السواحل، نفروا إليها "خفافًا وثقالا"، ركبانًا ومشاة.
+
+* *
+
+وقال آخرون: معنى ذلك: ذا ضَيْعَة، وغير ذي ضَيْعة.
+
+ذكر من قال ذلك:
+
+١٦٧٥٢- حدثني يونس قال، أخبرنا ابن وهب قال، قال ابن زيد في قوله: ﴿انفروا خفافًا وثقالا﴾ ، قال: "الثقيل"، الذي له الضيعة، فهو ثقيل يكره أن يُضيع ضَيْعته ويخرج = و"الخفيف" الذي لا ضيعة له، فقال الله: ﴿انفروا خفافًا وثقالا﴾ .
+
+١٦٧٥٣- حدثنا ابن عبد الأعلى قال، حدثنا المعتمر، عن أبيه قال: زعم حضرميّ أنه ذُكر له أن ناسًا كانوا عسى أن يكون أحدهم عليلا أو كبيرًا فيقول: إن أجتنبْه إباءً، فإني آثم! [[في المطبوعة مكان: " إن أحتنبه إباء، فإني آثم " ما نصه: " فيقول: إني أحسبه قال: أنا لا آثم "، وهو مضطرب جدًا، وفي تفسير ابن كثير ٤: ١٧٤، ١٧٥، اختصر الكلام وكتب: " فيقول: إني لا آثم "، وفي الدر المنثور ٣: ٢٤٦، مثله مختصرًا.
+
+وأما المخطوطة فكان رسمها هكذا: "فيقول: إن أحسبه أبًا قال آثم"، فآثرت قراءتها كما أثبتها، ومعناه: إن أجتنب النفر إباء للغزو، فإني آثم، ولكن علتي أو كبرى عذر يدفع عنى إثم التخلف. هذا ما رجحته، والله أعلم.]] فأنزل الله: ﴿انفروا خفافًا وثقالا﴾ .
+
+١٦٧٥٤- حدثني يعقوب بن إبراهيم قال، حدثنا ابن علية قال، حدثنا أيوب، عن محمد قال: شهد أبو أيوب مع رسول الله ﷺ بدرًا، ثم لم يتخلف عن غَزاة للمسلمين إلا وهو في أخرى، [[في المطبوعة: "إلا وهو في أخرى "، وفي المخطوطة: "في آخرين"، وحذف هذه العبارة ابن كثير في تفسيره، والسيوطي في الدر المنثور. وهي صحيحة المعنى، رواها ابن سعد " في أخرى " كما في المطبوعة: ورواها الحاكم: " إلا هو فيها ".]] إلا عامًا واحدًا. وكان أيوب يقول: ﴿انفروا خفافًا وثقالا﴾ ، فلا أجدني إلا خفيفًا أو ثقيلا. [[الأثر: ١٦٧٥٤ - رواه ابن سعد في الطبقات ٣ \ ٢ \ ٤٩ من طريق إسماعيل بن إبراهيم الأسدي، وهو " ابن عطية "، مطولا مفصلا.
+
+ورواه الحاكم في المستدرك ٣: ٤٥٨، من هذه الطريق نفسها، مطولا.]]
+
+١٦٧٥٥- حدثنا علي بن سهل قال، حدثنا الوليد بن مسلم قال، حدثنا حَرِيز بن عثمان، عن راشد بن سعد، عمن رأى المقداد بن الأسود فارسَ رسول الله ﷺ على تابوتٍ من توابيت الصَّيارفة بحمص، وقد فَضَل عنها من عِظَمِه، فقلت له: لقد أعذر الله إليك! فقال: أبتْ علينا "سورة البعوث"، [[هكذا جاء هنا في المخطوطة: " البعوث "، وأنا في شك منه شديد، لأني لم أجد من سمى " سورة التوبة "، " سورة البعوث "، بل أجمعوا على تسميتها " سورة البحوث "، كما سأفسره بعد ص: ٢٦٥، تعليق: ٦. ثم انظر آخر التعليق على الخبر رقم: ١٦٧٥٦.]] ﴿انفروا خفافًا وثقالا﴾ . [[الأثر: ١٦٧٥٥. " حريز بن عثمان بن جبر الرحبي "، مضى آنفا برقم ١٦٧٤٥. وكان في المطبوعة: " جرير "، وهو خطأ، وفي المخطوطة غير منقوط.
+
+و" راشد بن سعد المقرائي الحبراني الحمصي "، ثقة، لا بأس به إذا لم يحدث عنه متروك، وشيوخ " حريز بن عثمان " ثقات جميعًا، كما أسلفت في رقم: ١٦٧٤٥، و " حريز " ثقة في نفسه. وهذا الخبر سيأتي بعد هذا، ليس فيه مجهول.]]
+
+١٦٧٥٦- حدثنا سعيد بن عمرو السكوني قال، حدثنا بقية بن الوليد قال: حدثنا حريز قال، حدثني عبد الرحمن بن ميسرة قال، حدثني أبو راشد الحبراني قال: وافيت المقداد بن الأسود فارسَ رسول الله ﷺ جالسًا على تابوت من توابيت الصيارفة بحمص، قد فَضَل عنها من عِظَمه، [[في المطبوعة: " فضل عنه "، وأثبت ما في المخطوطة، لأنه صواب محض، فالتابوت، يذكر، وقد يؤنث.]] يريد الغزو، فقلت له: لقد أعذر الله إليك! فقال: أبَتْ علينا "سورة البُحُوث": [[في المطبوعة: " البعوث "، وأثبت ما في المخطوطة، وهو الموافق لرواية هذا الأثر في المراجع التي سأذكرها. و " البحوث ": منهم من يقولها بضم الباء، جمع " بحث "، سميت بذلك لأنها بحثت عن المنافقين وأسرارهم، أي: استثارتها وفتشت عنها.
+
+وقد قال ابن الأثير إنه رأى في "الفائق" للزمخشري "البحوث" بفتح الباء، ومطبوعة الفائق، لا ضبط فيها. ثم قال ابن الأثير: " فإن صحت، فهي فعول، من أبنية المبالغة، أما الزمخشري فقال: " سورة البحوث: هي سورة التوبة، لما فيها من البحث عن المنافقين وكشف أسرارهم، وتسمى المبعثرة ".
+
+وهذا كله يؤيد ما ذهبت إليه في ص، ٢٦٥، التعليق رقم: ٣.]] ﴿انفروا خفافًا وثقالا﴾ . [[الأثر: ١٦٧٥٦ - انظر التعليق على الأثر السالف رقم: ١٦٧٥٥.
+
+" سعيد بن عمرو السكوني"، شيخ الطبري، ثقة، مضى برقم: ٥٥٦٣، ٦٥٢١، وغيرهما.
+
+و" بقية بن الوليد "، مضى توثيقه، ومن تكلم فيه قريبًا رقم: ١٦٧٤٥.
+
+و" حريز " هو " حريز بن عثمان "، سلف في الأثر السالف، ومراجعه هناك، وكان في المطبوعة هنا " جرير " أيضًا، والمخطوطة غير منقوطة.
+
+و" عبد الرحمن بن ميسرة الحضرمي "، أبو سلمة الحمصي، ثقة، لأن أبا داود قال: و "أبو راشد الحبراني الحميري الحمصي"، تابعي ثقة. لم يرو عنه غير "حريز". مترجم في التهذيب، والكنى للبخاري: ٣٠.
+
+وهذا الخبر رواه ابن سعد في الطبقات ٣ \ ١ \ ١١٥، من طريق يزيد بن هارون، عن حريز بن عثمان (وفي الطبقات: جرير، وهو خطأ كما بينت) .
+
+ورواه الحاكم في المستدرك من طريق: بقية بن الوليد، عن حريز بن عثمان (وفيه: جرير، وهو خطأ) .
+
+وذكره الهيثمي في مجمع الزوائد ٧: ٣٠، وقال: " رواه الطبراني، وفيه بقية بن الوليد، وفيه ضعف، وقد وثق. وبقية رجاله ثقات ".
+
+قلت: قد تبين من التخريج أنه رواه عن " حريز"، " يزيد بن هارون "، وهو ثقة روى له الجماعة، كما سلف مرارًا.
+
+هذا، وقد جاء في مجمع الزوائد "سورة البعوث"، وانظر ما كتبته آنفا في ص: ٢٦٥، تعليق: ٣، وص: ٢٦٥، تعليق: ٦.]]
+
+* *
+
+قال أبو جعفر: وأولى الأقوال في ذلك عندنا بالصواب أن يقال: إن الله تعالى ذكره أمر المؤمنين بالنَّفر لجهاد أعدائه في سبيله، خفافًا وثقالا. وقد يدخل في "الخفاف" كل من كان سهلا عليه النفر لقوة بدنه على ذلك، وصحة جسمه وشبابه، ومن كان ذا يُسْرٍ بمالٍ وفراغ من الاشتغال، [[في المطبوعة: "ذا تيسر"، والذي في المخطوطة محض الصواب.]] وقادرًا على الظهر والركاب.
+
+ويدخل في "الثقال"، كل من كان بخلاف ذلك، من ضعيف الجسم وعليله وسقيمه، ومن مُعسِرٍ من المال، ومشتغل بضيعة ومعاش، ومن كان لا ظهرَ له ولا ركاب، والشيخ وذو السِّن والعِيَال.
+
+فإذ كان قد يدخل في "الخفاف" و"الثقال" من وصفنا من أهل الصفات التي ذكرنا، ولم يكن الله جل ثناؤه خصَّ من ذلك صنفًا دون صنف في الكتاب، ولا على لسان الرسول ﷺ، ولا نَصَب على خصوصه دليلا وجب أن يقال: إن الله جل ثناؤه أمر المؤمنين من أصحاب رسوله بالنفر للجهاد في سبيله خفافًا وثقالا مع رسوله ﷺ، على كل حال من أحوال الخفّة والثقل.
+
+* *
+
+١٦٧٥٧- حدثنا أحمد بن إسحاق قال، حدثنا أبو أحمد قال، حدثنا
+
+[TRUNCATED at 12000 chars — 1303 more. Consult the source directly before relying on anything near the cut.]
 
 ### al-Muyassar (Arabic)
 
-اخرجوا -أيها المؤمنون- للجهاد في سبيل الله شبابًا وشيوخًا في العسر واليسر، على أي حال كنتم، وأنفقوا أموالكم في سبيل الله، وقاتلوا بأيديكم لإعلاء كلمة الله، ذلك الخروج والبذل خير لكم في حالكم ومآلكم فافعلوا ذلك وانفروا واستجيبوا لله ورسوله.
+اخرجوا -أيها المؤمنون- للجهاد في سبيل الله شبابًا وشيوخًا في العسر واليسر، على أي حال كنتم، وأنفقوا أموالكم في سبيل الله، وقاتلوا بأيديكم لإعلاء كلمة الله، ذلك الخروج والبذل خير لكم في حالكم ومآلكم من التثاقل والإمساك والتخلف، إن كنتم من أهل العلم بفضل الجهاد وثوابه عند الله فافعلوا ما أُمرتم به، واستجيبوا لله ورسوله.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿انْفِرُوا خِفافًا وثِقالًا﴾ نَشاطًا وغَيْر نَشاط وقِيلَ أقْوِياء وضُعَفاء أوْ أغْنِياء وفُقَراء وهِيَ مَنسُوخَة بِآيَةِ ﴿لَيْسَ عَلى الضُّعَفاء﴾ ﴿وجاهِدُوا بِأَمْوالِكُمْ وأَنْفُسكُمْ فِي سَبِيل اللَّه ذَلِكُمْ خَيْر لَكُمْ إنْ كُنْتُمْ تَعْلَمُونَ﴾ أنَّهُ خَيْر لَكُمْ فَلا تَثّاقَلُوا
 
 ---
 
@@ -103,14 +802,73 @@ Sufyan Ath-Thawri narrated from his father from Abu Ad-Duha, Muslim bin Subayh, 
 
 ### Ibn Kathir (English)
 
+O you who believe! Shall I guide you to a trade that will save you from a painful torment (10)That you believe in Allah and His Messenger, and that you strive hard and fight in the cause of Allah with your wealth and your lives, that will be better for you, if you but know (11)(If you do so) He will forgive you your sins, and admit you into Gardens under which rivers flow, and pleasant dwellings in 'Adn (Eternal) Paradise; that is indeed the great success (12)And also (He will give you) another (blessing) which you love, help from Allah and a near victory. And give glad tidings to the believers (13)
+
 The Trade that saves One from the Painful Torment
-We mentioned a Hadith from `Abdullah bin Salam in that the Companions wanted to ask the Prophet of Allah about the best actions with Allah the Exalted and Most Honored, so they could practice them. Allah the Exalted sent down this Surah, including this Ayah,
-يأَيُّهَا الَّذِينَ ءَامَنُواْ هَلْ أَدُلُّكمْ عَلَى تِجَـرَةٍ تُنجِيكُم مِّنْ عَذَابٍ أَلِيمٍ
-(O you who believe! Shall I guide you to a trade that will save you from a painful torment) A...
+
+We mentioned a Hadith from 'Abdullah bin Salam in that the Companions wanted to ask the Prophet of Allah ﷺ about the best actions with Allah the Exalted and Most Honored, so they could practice them. Allah the Exalted sent down this Surah, including this Ayah,
+
+يَا أَيُّهَا الَّذِينَ آمَنُوا هَلْ أَدُلُّكُمْ عَلَىٰ تِجَارَةٍ تُنْجِيكُمْ مِنْ عَذَابٍ أَلِيمٍ
+
+(O you who believe! Shall I guide you to a trade that will save you from a painful torment?)
+
+Allah then explained this great trade that will never fail, the trade that will earn one what he wishes and saves him from what he dislikes. Allah the Exalted said,
+
+تُؤْمِنُونَ بِاللَّهِ وَرَسُولِهِ وَتُجَاهِدُونَ فِي سَبِيلِ اللَّهِ بِأَمْوَالِكُمْ وَأَنْفُسِكُمْ ۚ ذَٰلِكُمْ خَيْرٌ لَكُمْ إِنْ كُنْتُمْ تَعْلَمُونَ
+
+(That you believe in Allah and His Messenger, and that you strive hard and fight in the cause of Allah with your wealth and your lives, that will be better for you, if you but know!) this is better than the trade of this life and striving hard for it and amassing it. Allah the Exalted said,
+
+يَغْفِرْ لَكُمْ ذُنُوبَكُمْ
+
+(He will forgive you your sins,) meaning, 'if you fulfill what I commanded you and guided you to, then I will forgive your sins and admit you into the Gardens of Paradise. In them, you will have exalted residences and high postitions.' This is why Allah the Exalted said,
+
+وَيُدْخِلْكُمْ جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ وَمَسَاكِنَ طَيِّبَةً فِي جَنَّاتِ عَدْنٍ ۚ ذَٰلِكَ الْفَوْزُ الْعَظِيمُ
+
+(and admit you into Gardens under which rivers flow, and pleasant dwellings in 'Adn (Eternal) Paradise; that is indeed the great success.)
+
+Allah said,
+
+وَأُخْرَىٰ تُحِبُّونَهَا ۖ
+
+(And also another (blessing) which you love,) meaning, 'I will grant you more favors that you like,'
+
+نَصْرٌ مِنَ اللَّهِ وَفَتْحٌ قَرِيبٌ ۗ
+
+(help from Allah and a near victory.) meaning, if you fight in Allah's cause and support His religion, He will grant you victory. Allah the Exalted said,
+
+يَا أَيُّهَا الَّذِينَ آمَنُوا إِنْ تَنْصُرُوا اللَّهَ يَنْصُرْكُمْ وَيُثَبِّتْ أَقْدَامَكُمْ
+
+(O you who believe! If you help (in the cause of) Allah, He will help you, and make your foothold firm.)(47:7), and,
+
+وَلَيَنْصُرَنَّ اللَّهُ مَنْ يَنْصُرُهُ ۗ إِنَّ اللَّهَ لَقَوِيٌّ عَزِيزٌ
+
+(Verily, Allah will help those who help His (cause). Truly, Allah is All Strong, All-Wise.)(22:40) Allah's statement,
+
+وَفَتْحٌ قَرِيبٌ
+
+(and a near victory.) means, it will come sooner, and this is the increased favor that is earned in this life and continues, becoming the delight of the Hereafter. It is for those who obey Allah and His Messenger ﷺ and support Allah and His religion. Allah said;
+
+وَبَشِّرِ الْمُؤْمِنِينَ
+
+(And give glad tidings to the believers.)
 
 ### al-Tabari (Arabic)
 
-يقول تعالى ذكره: ( يَا أَيُّهَا الَّذِينَ آمَنُوا هَلْ أَدُلُّكُمْ عَلَى تِجَارَةٍ تُنْجِيكُمْ مِنْ عَذَابٍ أَلِيمٍ ) موجع، وذلك عذاب جهنم؛ ثم بين لنا جلّ ثناؤه ما تلك التجارة التي تنجينا من العذاب الأليم، فقال: ( تُؤْمِنُونَ بِاللَّهِ وَرَسُولِهِ ) محمد صَلَّى الله عَلَيْهِ وَسَلَّم.
+القول في تأويل قوله تعالى: ﴿يَا أَيُّهَا الَّذِينَ آمَنُوا هَلْ أَدُلُّكُمْ عَلَى تِجَارَةٍ تُنْجِيكُمْ مِنْ عَذَابٍ أَلِيمٍ (١٠) تُؤْمِنُونَ بِاللَّهِ وَرَسُولِهِ وَتُجَاهِدُونَ فِي سَبِيلِ اللَّهِ بِأَمْوَالِكُمْ وَأَنْفُسِكُمْ ذَلِكُمْ خَيْرٌ لَكُمْ إِنْ كُنْتُمْ تَعْلَمُونَ (١١) ﴾
+
+يقول تعالى ذكره: (يَاأَيُّهَا الَّذِينَ آمَنُوا هَلْ أَدُلُّكُمْ عَلَى تِجَارَةٍ تُنْجِيكُمْ مِنْ عَذَابٍ أَلِيمٍ) موجع، وذلك عذاب جهنم؛ ثم بين لنا جلّ ثناؤه ما تلك التجارة التي تنجينا من العذاب الأليم، فقال: ﴿تُؤْمِنُونَ بِاللَّهِ وَرَسُولِهِ﴾ محمد ﷺ.
+
+فإن قال قائل: وكيف قيل: ﴿تُؤْمِنُونَ بِاللَّهِ وَرَسُولِهِ﴾ ، وقد قيل لهم: ﴿يَاأَيُّهَا الَّذِينَ آمَنُوا﴾ بوصفهم بالإيمان؟ فإن الجواب في ذلك نظير جوابنا في قوله: ﴿يَاأَيُّهَا الَّذِينَ آمَنُوا آمِنُوا بِاللَّهِ﴾ وقد مضى البيان عن ذلك في موضعه بما أغنى عن إعادته.
+
+* *
+
+وقوله: ﴿وَتُجَاهِدُونَ فِي سَبِيلِ اللَّهِ بِأَمْوَالِكُمْ وَأَنْفُسِكُمْ﴾
+
+يقول تعالى ذكره: وتجاهدون في دين الله، وطريقه الذي شرعه لكم بأموالكم وأنفسكم ﴿ذَلِكُمْ خَيْرٌ لَكُمْ﴾ يقول: إيمانكم بالله ورسوله، وجهادكم في سبيل الله بأموالكم وأنفسكم ﴿خَيْرٌ لَكُمْ﴾ من تضييع ذلك والتفريط ﴿إِنْ كُنْتُمْ تَعْلَمُونَ﴾ مضارّ الأشياء ومنافعها. وذُكر أن ذلك في قراءة عبد الله ﴿آمِنُوا بِاللهِ﴾ على وجه الأمر، وبيَّنت التجارة من قوله: ﴿هَلْ أَدُلُّكُمْ عَلَى تِجَارَةٍ تُنْجِيكُمْ﴾ وفسِّرت بقوله: ﴿تُؤْمِنُونَ بِاللَّهِ﴾ ولم يقل: أن تؤمنوا، لأن العرب إذا فسرت الاسم بفعل تثبت في تفسيره أن أحيانًا، وتطرحها أحيانًا، فتقول للرجل: هل لك في خير تقوم بنا إلى فلان فنعوده؟ هل لك في خير أن تقوم إلى فلان فنعوده؟، بأن وبطرحها. ومما جاء في الوجهين على الوجهين جميعًا قوله: ﴿فَلْيَنْظُرِ الإنْسَانُ إِلَى طَعَامِهِ أَنَّا﴾ وإنا؛ فالفتح في أن لغة من أدخل في يقوم أن من قولهم: هل لك في خير أن تقوم، والكسر فيها لغة من يُلقي أن من تقوم؛ ومنه قوله: ﴿فَانْظُرْ كَيْفَ كَانَ عَاقِبَةُ مَكْرِهِمْ أَنَّا دَمَّرْنَاهُمْ﴾ وإنا دمرناهم، على ما بيَّنا.
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: ﴿يَاأَيُّهَا الَّذِينَ آمَنُوا هَلْ أَدُلُّكُمْ عَلَى تِجَارَةٍ تُنْجِيكُمْ﴾ .. الآية، فلولا أن الله بينها، ودلّ عليها المؤمنين، لتلهف عليها رجال أن يكونوا يعلمونها، حتى يضنوا بها [[الذي في الدر "حتى يطلبوها".]] وقد دلكم الله عليها، وأعلمكم إياها فقال: ﴿تُؤْمِنُونَ بِاللَّهِ وَرَسُولِهِ وَتُجَاهِدُونَ فِي سَبِيلِ اللَّهِ بِأَمْوَالِكُمْ وَأَنْفُسِكُمْ ذَلِكُمْ خَيْرٌ لَكُمْ إِنْ كُنْتُمْ تَعْلَمُونَ﴾ .
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، قال: تلا قتادة: ﴿هَلْ أَدُلُّكُمْ عَلَى تِجَارَةٍ تُنْجِيكُمْ مِنْ عَذَابٍ أَلِيمٍ تُؤْمِنُونَ بِاللَّهِ وَرَسُولِهِ وَتُجَاهِدُونَ فِي سَبِيلِ اللَّهِ﴾ قال: الحمد لله الذي بينها.
 
 ### al-Muyassar (Arabic)
 
@@ -118,7 +876,7 @@ We mentioned a Hadith from `Abdullah bin Salam in that the Companions wanted to 
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿يا أيّها الَّذِينَ آمَنُوا هَلْ أدُلّكُمْ عَلى تِجارَة تُنْجِيكُمْ﴾ بِالتَّخْفِيفِ والتَّشْدِيد ﴿مِن عَذاب ألِيم﴾ مُؤْلِم فَكَأَنَّهُمْ قالُوا نَعَمْ
 
 ---
 
@@ -126,14 +884,73 @@ We mentioned a Hadith from `Abdullah bin Salam in that the Companions wanted to 
 
 ### Ibn Kathir (English)
 
+O you who believe! Shall I guide you to a trade that will save you from a painful torment (10)That you believe in Allah and His Messenger, and that you strive hard and fight in the cause of Allah with your wealth and your lives, that will be better for you, if you but know (11)(If you do so) He will forgive you your sins, and admit you into Gardens under which rivers flow, and pleasant dwellings in 'Adn (Eternal) Paradise; that is indeed the great success (12)And also (He will give you) another (blessing) which you love, help from Allah and a near victory. And give glad tidings to the believers (13)
+
 The Trade that saves One from the Painful Torment
-We mentioned a Hadith from `Abdullah bin Salam in that the Companions wanted to ask the Prophet of Allah about the best actions with Allah the Exalted and Most Honored, so they could practice them. Allah the Exalted sent down this Surah, including this Ayah,
-يأَيُّهَا الَّذِينَ ءَامَنُواْ هَلْ أَدُلُّكمْ عَلَى تِجَـرَةٍ تُنجِيكُم مِّنْ عَذَابٍ أَلِيمٍ
-(O you who believe! Shall I guide you to a trade that will save you from a painful torment) A...
+
+We mentioned a Hadith from 'Abdullah bin Salam in that the Companions wanted to ask the Prophet of Allah ﷺ about the best actions with Allah the Exalted and Most Honored, so they could practice them. Allah the Exalted sent down this Surah, including this Ayah,
+
+يَا أَيُّهَا الَّذِينَ آمَنُوا هَلْ أَدُلُّكُمْ عَلَىٰ تِجَارَةٍ تُنْجِيكُمْ مِنْ عَذَابٍ أَلِيمٍ
+
+(O you who believe! Shall I guide you to a trade that will save you from a painful torment?)
+
+Allah then explained this great trade that will never fail, the trade that will earn one what he wishes and saves him from what he dislikes. Allah the Exalted said,
+
+تُؤْمِنُونَ بِاللَّهِ وَرَسُولِهِ وَتُجَاهِدُونَ فِي سَبِيلِ اللَّهِ بِأَمْوَالِكُمْ وَأَنْفُسِكُمْ ۚ ذَٰلِكُمْ خَيْرٌ لَكُمْ إِنْ كُنْتُمْ تَعْلَمُونَ
+
+(That you believe in Allah and His Messenger, and that you strive hard and fight in the cause of Allah with your wealth and your lives, that will be better for you, if you but know!) this is better than the trade of this life and striving hard for it and amassing it. Allah the Exalted said,
+
+يَغْفِرْ لَكُمْ ذُنُوبَكُمْ
+
+(He will forgive you your sins,) meaning, 'if you fulfill what I commanded you and guided you to, then I will forgive your sins and admit you into the Gardens of Paradise. In them, you will have exalted residences and high postitions.' This is why Allah the Exalted said,
+
+وَيُدْخِلْكُمْ جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ وَمَسَاكِنَ طَيِّبَةً فِي جَنَّاتِ عَدْنٍ ۚ ذَٰلِكَ الْفَوْزُ الْعَظِيمُ
+
+(and admit you into Gardens under which rivers flow, and pleasant dwellings in 'Adn (Eternal) Paradise; that is indeed the great success.)
+
+Allah said,
+
+وَأُخْرَىٰ تُحِبُّونَهَا ۖ
+
+(And also another (blessing) which you love,) meaning, 'I will grant you more favors that you like,'
+
+نَصْرٌ مِنَ اللَّهِ وَفَتْحٌ قَرِيبٌ ۗ
+
+(help from Allah and a near victory.) meaning, if you fight in Allah's cause and support His religion, He will grant you victory. Allah the Exalted said,
+
+يَا أَيُّهَا الَّذِينَ آمَنُوا إِنْ تَنْصُرُوا اللَّهَ يَنْصُرْكُمْ وَيُثَبِّتْ أَقْدَامَكُمْ
+
+(O you who believe! If you help (in the cause of) Allah, He will help you, and make your foothold firm.)(47:7), and,
+
+وَلَيَنْصُرَنَّ اللَّهُ مَنْ يَنْصُرُهُ ۗ إِنَّ اللَّهَ لَقَوِيٌّ عَزِيزٌ
+
+(Verily, Allah will help those who help His (cause). Truly, Allah is All Strong, All-Wise.)(22:40) Allah's statement,
+
+وَفَتْحٌ قَرِيبٌ
+
+(and a near victory.) means, it will come sooner, and this is the increased favor that is earned in this life and continues, becoming the delight of the Hereafter. It is for those who obey Allah and His Messenger ﷺ and support Allah and His religion. Allah said;
+
+وَبَشِّرِ الْمُؤْمِنِينَ
+
+(And give glad tidings to the believers.)
 
 ### al-Tabari (Arabic)
 
-فإن قال قائل: وكيف قيل: ( تُؤْمِنُونَ بِاللَّهِ وَرَسُولِهِ ) ، وقد قيل لهم: ( يَا أَيُّهَا الَّذِينَ آمَنُوا ) بوصفهم بالإيمان؟ فإن الجواب في ذلك نظير جوابنا في قوله:  يَا أَيُّهَا الَّذِينَ آمَنُوا آمِنُوا بِاللَّهِ  وقد مضى البيان عن ذلك في موضعه بما أغنى عن إعادته.وقوله: ( وَتُجَاهِدُونَ فِي سَبِيلِ اللَّهِ بِأَمْوَالِكُمْ وَأَنْفُسِكُمْ ) يقول تعالى ذكره: وتجاهدون في دين الله، وطريقه الذي شرعه لكم بأموالكم وأنفسكم ( ذَلِكُمْ خَيْرٌ لَكُمْ ) يقول: إيمانكم بالله ورسوله، وجهادكم في سبيل الل...
+القول في تأويل قوله تعالى: ﴿يَا أَيُّهَا الَّذِينَ آمَنُوا هَلْ أَدُلُّكُمْ عَلَى تِجَارَةٍ تُنْجِيكُمْ مِنْ عَذَابٍ أَلِيمٍ (١٠) تُؤْمِنُونَ بِاللَّهِ وَرَسُولِهِ وَتُجَاهِدُونَ فِي سَبِيلِ اللَّهِ بِأَمْوَالِكُمْ وَأَنْفُسِكُمْ ذَلِكُمْ خَيْرٌ لَكُمْ إِنْ كُنْتُمْ تَعْلَمُونَ (١١) ﴾
+
+يقول تعالى ذكره: (يَاأَيُّهَا الَّذِينَ آمَنُوا هَلْ أَدُلُّكُمْ عَلَى تِجَارَةٍ تُنْجِيكُمْ مِنْ عَذَابٍ أَلِيمٍ) موجع، وذلك عذاب جهنم؛ ثم بين لنا جلّ ثناؤه ما تلك التجارة التي تنجينا من العذاب الأليم، فقال: ﴿تُؤْمِنُونَ بِاللَّهِ وَرَسُولِهِ﴾ محمد ﷺ.
+
+فإن قال قائل: وكيف قيل: ﴿تُؤْمِنُونَ بِاللَّهِ وَرَسُولِهِ﴾ ، وقد قيل لهم: ﴿يَاأَيُّهَا الَّذِينَ آمَنُوا﴾ بوصفهم بالإيمان؟ فإن الجواب في ذلك نظير جوابنا في قوله: ﴿يَاأَيُّهَا الَّذِينَ آمَنُوا آمِنُوا بِاللَّهِ﴾ وقد مضى البيان عن ذلك في موضعه بما أغنى عن إعادته.
+
+* *
+
+وقوله: ﴿وَتُجَاهِدُونَ فِي سَبِيلِ اللَّهِ بِأَمْوَالِكُمْ وَأَنْفُسِكُمْ﴾
+
+يقول تعالى ذكره: وتجاهدون في دين الله، وطريقه الذي شرعه لكم بأموالكم وأنفسكم ﴿ذَلِكُمْ خَيْرٌ لَكُمْ﴾ يقول: إيمانكم بالله ورسوله، وجهادكم في سبيل الله بأموالكم وأنفسكم ﴿خَيْرٌ لَكُمْ﴾ من تضييع ذلك والتفريط ﴿إِنْ كُنْتُمْ تَعْلَمُونَ﴾ مضارّ الأشياء ومنافعها. وذُكر أن ذلك في قراءة عبد الله ﴿آمِنُوا بِاللهِ﴾ على وجه الأمر، وبيَّنت التجارة من قوله: ﴿هَلْ أَدُلُّكُمْ عَلَى تِجَارَةٍ تُنْجِيكُمْ﴾ وفسِّرت بقوله: ﴿تُؤْمِنُونَ بِاللَّهِ﴾ ولم يقل: أن تؤمنوا، لأن العرب إذا فسرت الاسم بفعل تثبت في تفسيره أن أحيانًا، وتطرحها أحيانًا، فتقول للرجل: هل لك في خير تقوم بنا إلى فلان فنعوده؟ هل لك في خير أن تقوم إلى فلان فنعوده؟، بأن وبطرحها. ومما جاء في الوجهين على الوجهين جميعًا قوله: ﴿فَلْيَنْظُرِ الإنْسَانُ إِلَى طَعَامِهِ أَنَّا﴾ وإنا؛ فالفتح في أن لغة من أدخل في يقوم أن من قولهم: هل لك في خير أن تقوم، والكسر فيها لغة من يُلقي أن من تقوم؛ ومنه قوله: ﴿فَانْظُرْ كَيْفَ كَانَ عَاقِبَةُ مَكْرِهِمْ أَنَّا دَمَّرْنَاهُمْ﴾ وإنا دمرناهم، على ما بيَّنا.
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: ﴿يَاأَيُّهَا الَّذِينَ آمَنُوا هَلْ أَدُلُّكُمْ عَلَى تِجَارَةٍ تُنْجِيكُمْ﴾ .. الآية، فلولا أن الله بينها، ودلّ عليها المؤمنين، لتلهف عليها رجال أن يكونوا يعلمونها، حتى يضنوا بها [[الذي في الدر "حتى يطلبوها".]] وقد دلكم الله عليها، وأعلمكم إياها فقال: ﴿تُؤْمِنُونَ بِاللَّهِ وَرَسُولِهِ وَتُجَاهِدُونَ فِي سَبِيلِ اللَّهِ بِأَمْوَالِكُمْ وَأَنْفُسِكُمْ ذَلِكُمْ خَيْرٌ لَكُمْ إِنْ كُنْتُمْ تَعْلَمُونَ﴾ .
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، قال: تلا قتادة: ﴿هَلْ أَدُلُّكُمْ عَلَى تِجَارَةٍ تُنْجِيكُمْ مِنْ عَذَابٍ أَلِيمٍ تُؤْمِنُونَ بِاللَّهِ وَرَسُولِهِ وَتُجَاهِدُونَ فِي سَبِيلِ اللَّهِ﴾ قال: الحمد لله الذي بينها.
 
 ### al-Muyassar (Arabic)
 
@@ -141,6 +958,6 @@ We mentioned a Hadith from `Abdullah bin Salam in that the Companions wanted to 
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿تُؤْمِنُونَ﴾ تَدُومُونَ عَلى الإيمان ﴿بِاللَّهِ ورَسُوله وتُجاهِدُونَ فِي سَبِيل اللَّه بِأَمْوالِكُمْ وأَنْفُسكُمْ ذَلِكُمْ خَيْر لَكُمْ إنْ كُنْتُمْ تَعْلَمُونَ﴾ أنَّهُ خَيْر لَكُمْ فافْعَلُوهُ
 
 ---

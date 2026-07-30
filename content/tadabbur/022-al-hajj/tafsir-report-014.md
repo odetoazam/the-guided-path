@@ -1,6 +1,6 @@
 # Tafsir Cross-Reference Report
 
-Generated: 2026-07-15
+Generated: 2026-07-30
 Ayahs referenced: 1
 Tafsir sources: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), al-Jalalayn (Arabic)
 
@@ -14,7 +14,11 @@ Truly, Allah will admit those who believe and do righteous good deeds to Gardens
 
 The Reward of the Righteous
 
-The mention of the misguided who are doomed is followed by mention of the righteous who are blessed. They are those who believe firmly in their hearts and confirm their faith by their actions, doing all kinds of righteous deeds and avoiding evil actions. Because of this, they will inherit dwellings in the lofty ranks...
+The mention of the misguided who are doomed is followed by mention of the righteous who are blessed. They are those who believe firmly in their hearts and confirm their faith by their actions, doing all kinds of righteous deeds and avoiding evil actions. Because of this, they will inherit dwellings in the lofty ranks of the gardens of Paradise. So Allah tells us that He sends those astray and guides these, and says:
+
+إِنَّ اللَّهَ يَفْعَلُ مَا يُرِيدُ
+
+(Verily, Allah does what He wills.)
 
 ### al-Tabari (Arabic)
 
@@ -24,7 +28,7 @@ The mention of the misguided who are doomed is followed by mention of the righte
 
 * *
 
-القول في...
+القول في تأويل قوله تعالى: ﴿مَنْ كَانَ يَظُنُّ أَنْ لَنْ يَنْصُرَهُ اللَّهُ فِي الدُّنْيَا وَالآخِرَةِ فَلْيَمْدُدْ بِسَبَبٍ إِلَى السَّمَاءِ ثُمَّ لِيَقْطَعْ فَلْيَنْظُرْ هَلْ يُذْهِبَنَّ كَيْدُهُ مَا يَغِيظُ (١٥) ﴾
 
 ### al-Muyassar (Arabic)
 

@@ -1,6 +1,6 @@
 # Tafsir Cross-Reference Report
 
-Generated: 2026-03-31
+Generated: 2026-07-30
 Ayahs referenced: 5
 Tafsir sources: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), al-Jalalayn (Arabic)
 
@@ -10,20 +10,85 @@ Tafsir sources: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), 
 
 ### Ibn Kathir (English)
 
+Say: "O People of the Scripture (Jews and Christians)! Why do you reject the Ayat of Allah, while Allah is Witness to what you do? (98)Say: "O People of the Scripture (Jews and Christians)! Why do you stop those who have believed, from the path of Allah, seeking to make it seem crooked, while you (yourselves) are witnesses? And Allah is not unaware of what you do. (99)
+
 Chastising the People of the Book for Their Disbelief and Blocking the Path of Allah
-In this Ayah Allah criticizes the disbelieving People of the Book for refusing the truth, rejecting Allah's Ayat and hindering those who seek to believe from His path, although they know that what the Messenger was sent with is the truth from Allah. They learned this from the previous Prophets and honorable Messengers, may Allah's peace and blessings be on them all. They all brought the glad tidings and the g...
+
+In this Ayah Allah criticizes the disbelieving People of the Book for refusing the truth, rejecting Allah's Ayat and hindering those who seek to believe from His path, although they know that what the Messenger ﷺ was sent with is the truth from Allah. They learned this from the previous Prophets and honorable Messengers, may Allah's peace and blessings be on them all. They all brought the glad tidings and the good news of the coming of the unlettered, Arab, Hashimi Prophet ﷺ from Makkah, the master of the Children of Adam, the Final Prophet and the Messenger of the Lord of heavens and earth. Allah has warned the People of the Book against this behavior, stating that He is Witness over what they do, indicating their defiance of the knowledge conveyed to them by the Prophets. They rejected, denied and refused the very Messenger whom they were ordered to convey the glad tidings about his coming. Allah states that He is never unaware of what they do, and He will hold them responsible for their actions,
+
+يَوْمَ لَا يَنفَعُ مَالٌ وَلَا بَنُونَ
+
+(The Day whereon neither wealth nor sons will avail)[26:88].
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله تعالى :  قُلْ يَا أَهْلَ الْكِتَابِ لِمَ تَصُدُّونَ عَنْ سَبِيلِ اللَّهِ مَنْ آمَنَ تَبْغُونَهَا عِوَجًا وَأَنْتُمْ شُهَدَاءُ وَمَا اللَّهُ بِغَافِلٍ عَمَّا تَعْمَلُونَ (99)قال أبو جعفر: يعني بذلك جل ثناؤه: يا معشر يهود بني إسرائيل وغيرهم ممن ينتحل التصديق بكتب الله: =" لم تصدُّون عن سبيل الله "، يقول: لم تضِلُّون عن طريق الله ومحجَّته التي شرَعها لأنبيائه وأوليائه وأهل الإيمان= (73) " من آمن "، يقول: من صدّق بالله ورَسوله وما جاء به من عند الله=" تبغونها عوجًا "، يعني: تب...
+القول في تأويل قوله تعالى: ﴿قُلْ يَا أَهْلَ الْكِتَابِ لِمَ تَصُدُّونَ عَنْ سَبِيلِ اللَّهِ مَنْ آمَنَ تَبْغُونَهَا عِوَجًا وَأَنْتُمْ شُهَدَاءُ وَمَا اللَّهُ بِغَافِلٍ عَمَّا تَعْمَلُونَ (٩٩) ﴾
+
+قال أبو جعفر: يعني بذلك جل ثناؤه: يا معشر يهود بني إسرائيل وغيرهم ممن ينتحل التصديق بكتب الله: ="لم تصدُّون عن سبيل الله"، يقول: لم تضِلُّون عن طريق الله ومحجَّته التي شرَعها لأنبيائه وأوليائه وأهل الإيمان= [[انظر معنى"الصد" فيما سلف ٤: ٣٠٠.]] "من آمن"، يقول: من صدّق بالله ورَسوله وما جاء به من عند الله="تبغونها عوجًا"، يعني: تبغون لها عوجًا.
+
+* *
+
+"والهاء والألف" اللتان في قوله:"تبغونها" عائدتان على"السبيل"، وأنثها لتأنيث"السبيل".
+
+* *
+
+ومعنى قوله:"تبغون لها عوجًا"، من قول الشاعر، وهو سحيم عبدُ بني الحسحاس
+
+بَغَاك، وَمَا تَبْغِيهِ حَتَّى وَجَدْتَهُ ... كأَنِّكَ قَدْ وَاعَدْتَهُ أَمْسِ مَوْعِدَا [[سلف تخريجه في ٤: ١٦٣، تعليق: ٢.]]
+
+يعني: طلبك وما تطلبه. [[انظر تفسير"بغى" فيما سلف ٣: ٥٠٨ / ٤: ١٦٣ / ٦: ١٩٦، ٥٦٤، ٥٧٠.]] يقال:"ابغني كذا"، يراد: ابتغه لي. فإذا أرادوا أعِنِّي على طلبه وابتغه معي قالوا:"أبغني" بفتح الألف. وكذلك يقال:"احلُبْني"، بمعنى: اكفني الحلب -"وأحلبني" أعني عليه. وكذلك جميع ما وَرَد من هذا النوع، فعلى هذا. [[انظر معاني القرآن للفراء ١: ٢٢٧، ٢٢٨.]]
+
+* *
+
+وأما"العِوَج" فهو الأوَد والميْل. وإنما يعني بذلك: الضلال عن الهدى.
+
+* *
+
+يقول جل ثناؤه: لم تصدُّون عن دين الله مَنْ صَدّق الله ورسوله تبغون دينَ الله اعوجاجًا عن سننه واستقامته؟
+
+وخرج الكلام على"السبيل"، والمعنى لأهله. كأن المعنى: تبغون لأهل دين الله، ولمن هو على سبيل الحق، عوجا = يقول: ضلالا عن الحق، وزيغًا عن الاستقامة على الهدى والمحجَّة.
+
+* *
+
+"والعِوج" بكسر أوله: الأوَد في الدين والكلام."والعَوَج" بفتح أوله: الميل في الحائط والقناة وكل شيء منتصب قائم. [[انظر مجاز القرآن ١: ٩٨.]]
+
+* *
+
+وأما قوله:"وأنتم شهداء". فإنه يعني: شهداء على أنّ الذي تصدّون عنه من السبيل حقٌّ، تعلمونه وتجدونه في كتبكم ="وما الله بغافل عما تعملون"، يقول: ليس الله بغافل عن أعمالكم التي تعملونها مما لا يرضاه لعباده وغير ذلك من أعمالكم، حتى يعاجلكم بالعقوبة عليها معجَّلة، أو يؤخر ذلك لكم حتى تلقَوْهُ فيجازيكم عليها.
+
+* *
+
+وقد ذكر أن هاتين الآيتين من قوله:"يا أهل الكتاب لم تكفرون بآيات الله" والآياتُ بعدَهما إلى قوله:"فأولئك لهم عذاب عظيم"، نزلت في رجل من اليهود حاول الإغراء بين الحيَّين من الأوس والخزرج بعد الإسلام، ليراجعوا ما كانوا عليه في جاهليتهم من العداوة والبغضاء. فعنَّفه الله بفعله ذلك، وقبَّح له ما فعل ووبَّخه عليه، ووعظ أيضًا أصحابَ رسول الله ﷺ، ونَهاهم عن الافتراق والاختلاف، وأمرهم بالاجتماع والائتلاف.
+
+ذكر الرواية بذلك:
+
+٧٥٢٤- حدثنا ابن حميد قال، حدثنا سلمة، عن محمد بن إسحاق، قال، حدثني الثقة، عن زيد بن أسلم، قال: مرّ شأسُ بن قيس = وكان شيخًا قد عَسَا في الجاهلية، [[عسا الشيخ يعسو عسوا وعسيًا: كبر وأسن، ويقال أيضًا في مثله"عتا". وقوله: "في الجاهلية" ليست في نص ابن هشام عن ابن إسحاق.]] عظيمَ الكفر، شديد الضِّغن على المسلمين، شديدَ الحسد لهم = على نفر من أصحاب رسول الله ﷺ من الأوس والخزرج، في مجلس قد جمعهم يتحدّثون فيه. فغاظه ما رأى من جَماعتهم وألفتهم وصَلاح ذات بينهم على الإسلام، بعد الذي كان بينهم من العداوة في الجاهلية، فقال: قد اجتمع مَلأ بني قَيْلة بهذه البلاد! [[الملأ: الرؤساء وأشراف القوم ووجوههم ومقدموهم، الذين يرجع إلى قولهم ورأيهم. وبنو قيلة: هم الأنصار من الأوس والخزرج، وقيلة: اسم أم لهم قديمة، هي قيلة بنت كاهل، سموا بها.]] لا والله ما لنا معهم، إذا اجتمع ملأهم بها، من قرار! [[في المطبوعة: "والله مالنا"، أسقط"لا"، وهي في المخطوطة وابن هشام.]] فأمر فَتى شابًّا من يهودَ وكان معه، [[في المطبوعة: "من اليهود"، وأثبت ما في المخطوطة وابن هشام.]] فقال: اعمد إليهم، فاجلس معهم، وذَكّرهم يَوْم بعاث وما كان قبله، وأنشدْهم بعض ما كانوا تقاوَلوا فيه من الأشعار =وكان يوم بُعَاث يومًا اقتتلت فيه الأوس والخزرج، وكان الظفرُ فيه للأوس على الخزرج= ففعل. فتكلم القوم عند ذلك فتنازعوا وتفاخروا، حتى تواثب رجُلان من الحيَّين على الرُّكَب: أوسُ بن قَيْظي، أحد بني حارثة بن الحارث من الأوس - وجبّار بن صخر، أحد بني سَلمة من الخزرج. فتقاولا ثم قال أحدهما لصاحبه: إن شئتم والله رَدَدْناها الآن جَذَعَةً! [[ردها جذعة: أي جديدة كما بدأت. والجذع والجذعة: الصغير السن من الأنعام، أول ما يستطاع ركوبه. يعني أعدناها شابة فتية.]] وغضب الفريقان، وقالوا: قد فعلنا، السلاحَ السلاحَ!! موعدُكم الظاهرة =والظاهرةُ: الحَرَّة= فخرجوا إليها. وتحاوز الناس. [["تحاوز الناس"، مثل"تحوز وتحيز وانحاز"، أي تنحى ناحية وانضم إلى جماعته، والذي يلي هذه الكلمة هو تفسيرها قوله: "فانضمت الأوس ... " وفي المطبوعة: "تحاور" بالراء، ولا معنى لها هنا. والجملة كلها من أول قوله"وتحاوز ... " إلى"التي كانو عليها في الجاهلية" مما أسقطه ابن هشام من نص ابن إسحاق، وليس في السيرة. ونص الطبري هنا أتم من نص ابن هشام في مواضع من هذا الأثر.]] فانضمت الأوس بعضها إلى بعض، والخزرج بعضها إلى بعض، على دعواهم التي كانوا عليها في الجاهلية. فبلغَ ذلك رسولَ الله ﷺ، فخرج إليهم فيمن معه من المهاجرين من أصحابه حتى جاءهم، فقال:"يا معشرَ المسلمين، الله الله، أبدعوى الجاهلية وأنا بين أظهُرِكم بعد إذْ هداكم الله إلى الإسلام وأكرمكم به، وقطع به عنكم أمرَ الجاهلية، واستنقذكم به من الكفر، وألَّف به بينكم، ترجعون إلى ما كنتم عليه كفارًا؟ فعرف القوم أنها نزغة من الشيطان، وكيدٌ من عدوهم، فألقوا السلاح من أيديهم، وبكَوْا، وعانقَ الرجال من الأوس والخزرج بعضُهم بعضًا، ثم انصرفوا مع رَسول الله ﷺ سامعين مطيعين، قد أطفأ الله عنهم كيدَ عدوِّ الله شَأس بن قيس وما صنع. فأنزل الله في شأس بن قيس وما صنع:"قل يا أهل الكتاب لم تكفرُون بآيات الله والله شهيدٌ على ما تعملون قل يا أهل الكتاب لم تصدون عن سبيل الله من آمن تبغونها عوجا" [[في المخطوطة والمطبوعة، أسقط الناسخ"قل" من أول الآيتين سهوا منه.]] الآية. وأنزل الله عز وجل في أوس بن قَيْظيّ وجبّار بن صخر ومَنْ كان معهما من قومهما الذين صنعوا ما صنعوا عما أدخل عليهم شأس بن قيس من أمر الجاهلية: [[في المطبوعة: "مما أدخل عليهم ... "، غيروا ما في المخطوطة، وهو المطابق لنص ابن هشام. وقوله: "عما أدخل عليهم"، أي بسبب ما أدخل عليهم ومن جرائه ومن أجله. و"عن" تأتي بهذا المعنى في كلامهم.]] "يا أيها الذين آمنوا إن تطيعوا فريقًا من الذين أوتوا الكتاب يردُّوكم بعد إيمانكم كافرين" إلى قوله:"أولئك لهم عذابٌ عظيم". [[الأثر: ٧٥٢٤- سيرة ابن هشام ٢: ٢٠٤ - ٢٠٦، وهو بقية الآثار السالفة التي كان آخرها رقم: ٧٣٣٣، ٧٣٣٤.]]
+
+* *
+
+وقيل: إنه عنى بقوله:"قل يا أهل الكتاب لم تصدّون عن سبيل الله"، جماعة يهود بني إسرائيل الذين كانوا بين أظهر مدينة رسول الله ﷺ أيام نزلت هذه الآيات، والنصارى = وأن صدّهم عن سبيل الله كانَ بإخبارهم من سألهم عن أمر نبيّ الله محمد ﷺ: هل يجدون ذكره في كتبهم؟. أنهم لا يجدون نعتَه في كتبهم.
+
+ذكر من قال ذلك:
+
+٧٥٢٥- حدثنا محمد بن الحسين قال، حدثنا أحمد بن المفضل قال، حدثنا أسباط، عن السدي:"قل يا أهل الكتاب لم تصدّون عن سبيل الله من آمن تبغونها عوجًا"، كانوا إذا سألهم أحدٌ: هل تجدون محمدًا؟ قالوا: لا! فصدّوا عنه الناس، وبغوْا محمدًا عوجًا: هلاكًا.
+
+٧٥٢٦- حدثنا بشر بن معاذ قال، حدثنا يزيد قال، حدثنا سعيد، عن قتادة، قوله:"قل يا أهل الكتاب لم تصدّون عن سبيل الله"، يقول: لم تصدون عن الإسلام وعن نبي الله، من آمن بالله، وأنتم شهداء فيما تقرأون من كتاب الله: أن محمدًا رسول الله، وأنّ الإسلام دين الله الذي لا يَقبل غيره ولا يجزى إلا به، تجدونه مكتوبًا عندكم في التوراة والإنجيل.
+
+٧٥٢٧- حدثني المثني قال، حدثنا إسحاق قال، حدثنا عبد الله بن أبي جعفر، عن أبيه، عن الربيع، نحوه.
+
+٧٥٢٨- حدثنا محمد بن سنان قال، حدثنا أبو بكر قال، حدثنا عباد، عن الحسن في قوله:"قل يا أهل الكتاب لم تصدّون عن سبيل الله"، قال: هم اليهودُ والنصارى، نهاهم أنْ يصدّوا المسلمين عن سبيل الله، ويريدون أن يعدِلوا الناسَ إلى الضلالة.
+
+* *
+
+قال أبو جعفر: فتأويل الآية على ما قاله السدي: يا معشر اليهود، لم تصدّون عن محمد، وتمنعون من اتباعه المؤمنين به، بكتمانكم صفتَه التي تجدونها في كتبكم؟. و"محمد" على هذا القول: هو"السبيل"، ="تبغونَها عوجًا"، تبغون محمدًا هلاكًا. وأما سائر الروايات غيره والأقوال في ذلك، فإنه نحو التأويل الذي بيّناه قبل: من أن معنى"السبيل" التي ذكرها في هذا الموضع: الإسلام، وما جاء به محمد من الحقّ من عند الله.
 
 ### al-Muyassar (Arabic)
 
-قل -أيها الرسول- لليهود والنصارى: لِمَ تمنعون من الإسلام من يريد الدخول فيه تطلبون له زيغًا وميلا عن القصد والاستقامة، وأنتم تعلمون أن ما جئتُ به هو الحق؟ وما الله بغافل عما تعملون، وسوف يجازيكم على ذلك.
+قل -أيها الرسول- لليهود والنصارى: لِمَ تمنعون من الإسلام من يريد الدخول فيه تطلبون له زيغًا وميلًا عن القصد والاستقامة، وأنتم تعلمون أن ما جئتُ به هو الحق؟ وما الله بغافل عما تعملون، وسوف يجازيكم على ذلك.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿قُلْ يا أهْل الكِتاب لِمَ تَصُدُّونَ﴾ تَصْرِفُونَ ﴿عَنْ سَبِيل اللَّه﴾ أيْ دِينه ﴿مَن آمَنَ﴾ بِتَكْذِيبِكُمْ النَّبِيّ وكَتْم نِعْمَته ﴿تَبْغُونَها﴾ أيْ تَطْلُبُونَ السَّبِيل ﴿عِوَجًا﴾ مَصْدَر بِمَعْنى مُعْوَجَّة أيْ مائِلَة عَنْ الحَقّ ﴿وأَنْتُمْ شُهَداء﴾ عالِمُونَ بِأَنَّ الدِّين المَرْضِيّ القَيِّم هُوَ دِين الإسْلام كَما فِي كِتابكُمْ ﴿وما اللَّه بِغافِلٍ عَمّا تَعْمَلُونَ﴾ مِن الكُفْر والتَّكْذِيب وإنَّما يُؤَخِّركُمْ إلى وقْتكُمْ لِيُجازِيَكُمْ
 
 ---
 
@@ -31,14 +96,81 @@ In this Ayah Allah criticizes the disbelieving People of the Book for refusing t
 
 ### Ibn Kathir (English)
 
+O you who believe! If you obey a group of those who were given the Scripture (Jews and Christians), they would (indeed) render you disbelievers after you have believed (100)And how would you disbelieve, while unto you are recited the verses of Allah, and among you is His Messenger? And whoever depends upon Allah, then he is indeed guided to the right path (101)
+
 Warning Muslims Against Imitating People of the Scriptures
-Allah warns His believing servants against obeying the People of the Book, who envy the believers for the favor that Allah gave them by sending His Messenger . Similarly, Allah said,
-وَدَّ كَثِيرٌ مِّنْ أَهْلِ الْكِتَـبِ لَوْ يَرُدُّونَكُم مِن بَعْدِ إِيمَـنِكُمْ كُفَّارًا حَسَدًا مِّنْ عِنْدِ أَنْفُسِهِمْ
-(Many of the People of the Scripture (Jews and Christians) wish that they could turn you away as disbelievers after you have belie...
+
+Allah warns His believing servants against obeying the People of the Book, who envy the believers for the favor that Allah gave them by sending His Messenger ﷺ. Similarly, Allah said,
+
+وَدَّ كَثِيرٌ مِّنْ أَهْلِ الْكِتَابِ لَوْ يَرُدُّونَكُم مِّن بَعْدِ إِيمَانِكُمْ كُفَّارًا حَسَدًا مِّنْ عِندِ أَنفُسِهِم
+
+(Many of the People of the Scripture (Jews and Christians) wish that they could turn you away as disbelievers after you have believed, out of their own envy)[2:109].
+
+In this Ayah [3:100], Allah said,
+
+إِن تُطِيعُوا فَرِيقًا مِّنَ الَّذِينَ أُوتُوا الْكِتَابَ يَرُدُّوكُم بَعْدَ إِيمَانِكُمْ كَافِرِينَ
+
+(If you obey a group of those who were given the Scripture (Jews and Christians), they would (indeed) render you disbelievers after you have believed!), then said,
+
+وَكَيْفَ تَكْفُرُونَ وَأَنتُمْ تُتْلَىٰ عَلَيْكُمْ آيَاتُ اللَّهِ وَفِيكُمْ رَسُولُهُ
+
+(And how would you disbelieve, while unto you are recited the verses of Allah, and among you is His Messenger?), meaning, disbelief is far from touching you, since the Ayat of Allah are being sent down on His Messenger ﷺ day and night, and he recites and conveys them to you. Similarly, Allah said,
+
+وَمَا لَكُمْ لَا تُؤْمِنُونَ بِاللَّهِ وَالرَّسُولُ يَدْعُوكُمْ لِتُؤْمِنُوا بِرَبِّكُمْ وَقَدْ أَخَذَ مِيثَاقَكُمْ إِن كُنتُم مُّؤْمِنِينَ
+
+(And what is the matter with you that you believe not in Allah! While the Messenger invites you to believe in your Lord; and He has indeed taken your covenant, if you are real believers)[57:8]. A Hadith states that one day, the Prophet said to his Companions,
+
+أَيُّ الْمُؤْمِنِينَ أَعْجَبُ إِلَيْكُمْ إِيمَانًا؟
+
+قالوا: الملائكة.
+
+قال: وَكَيْفَ لَا يُؤْمِنُونَ وَهُمْ عِنْدَ رَبِّهِم؟
+
+وذكروا الأنبياء،
+
+قال: وَكَيْفَ لَا يُؤْمِنُونَ وَالْوَحْيُ يَنْزِلُ عَلَيْهِمْ؟
+
+قالوا: فنحن.
+
+قال: وَكَيْفَ لَا تُؤْمِنُونَ وَأَنَا بَيْنَ أَظْهُرِكُمْ؟
+
+قالوا: فأي الناس أعجب إيمانًا؟
+
+قال: قَوْمٌ يَجِيئُونَ مِنْ بَعْدِكُمْ يَجِدُونَ صُحُفًا يُؤْمِنُونَ بِمَا فِيهَا
+
+("Who among the faithful believers do you consider has the most amazing faith?" They said, "The angels." He said, "Why would they not believe, since they are with their Lord?" They mentioned the Prophets, and the Prophet ﷺ said, "Why would they not believe while the revelation is sent down to them?" They said, "Then, we are." He said, "Why would not you believe when I am among you?" They asked, "Who has the most amazing faith?" The Prophet said, "A people who will come after you and who will find only books that they will believe in.")
+
+Allah said next,
+
+وَمَن يَعْتَصِم بِاللَّهِ فَقَدْ هُدِيَ إِلَىٰ صِرَاطٍ مُّسْتَقِيمٍ
+
+(And whoever depends upon Allah, then he is indeed guided to the right path)[3:101] for trusting and relying on Allah are the basis of achieving the right guidance and staying away from the path of wickedness. They also represent the tool to acquiring guidance and truth and achieving the righteous aims.
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله تعالى :  يَا أَيُّهَا الَّذِينَ آمَنُوا إِنْ تُطِيعُوا فَرِيقًا مِنَ الَّذِينَ أُوتُوا الْكِتَابَ يَرُدُّوكُمْ بَعْدَ إِيمَانِكُمْ كَافِرِينَ (100)قال أبو جعفر: اختلف أهل التأويل فيمن عنى بذلك.فقال بعضهم: عنى بقوله: " يا أيها الذين آمنوا "، الأوس والخزرج، وبـ " الذين أوتوا الكتاب "، شأس بن قيس اليهودي، على ما قد ذكرنا قبلُ من خبره عن زيد بن أسلم. (87)* * *وقال آخرون، فيمن عُني بالذين آمنوا، مثل قول زيد بن أسلم = غير أنهم قالوا: الذي جرى الكلام بينه وبين غيره من الأنصار حتى...
+القول في تأويل قوله تعالى: ﴿يَا أَيُّهَا الَّذِينَ آمَنُوا إِنْ تُطِيعُوا فَرِيقًا مِنَ الَّذِينَ أُوتُوا الْكِتَابَ يَرُدُّوكُمْ بَعْدَ إِيمَانِكُمْ كَافِرِينَ (١٠٠) ﴾
+
+قال أبو جعفر: اختلف أهل التأويل فيمن عنى بذلك.
+
+فقال بعضهم: عنى بقوله:"يا أيها الذين آمنوا"، الأوس والخزرج، وبـ "الذين أوتوا الكتاب"، شأس بن قيس اليهودي، على ما قد ذكرنا قبلُ من خبره عن زيد بن أسلم. [[هو الأثر السالف رقم: ٧٥٢٤.]]
+
+* *
+
+وقال آخرون، فيمن عُني بالذين آمنوا، مثل قول زيد بن أسلم = غير أنهم قالوا: الذي جرى الكلام بينه وبين غيره من الأنصار حتى همّوا بالقتال ووجد اليهوديّ به مغمزًا فيهم: ثعلبة بن عَنَمة الأنصاري. [[في المطبوعة: "بن غنمة"، والصواب بالعين المهملة، وهي في المخطوطة تحتها حرف"ع"، وهو الصواب.]]
+
+ذكر من قال ذلك:
+
+٧٥٢٩- حدثني محمد بن الحسين قال، حدثنا أحمد بن المفضل قال، حدثنا أسباط، عن السدي:"يا أيها الذين آمنوا إن تطيعوا فريقًا من الذين أوتوا الكتاب يردُّوكم بعد إيمانكم كافرين"، قال: نزلت في ثعلبة بن عَنمة الأنصاري، [[انظر ص ٥٨ تعليق ٢.]] كان بينه وبين أناس من الأنصار كلام، فمشى بينهم يهوديٌّ من قَيْنُقاع، فحمَل بعضَهم على بعضٍ، [[حمل بني فلان على بني فلان: إذا أرش بينهم وأوقع.]] حتى همت الطائفتان من الأوس والخزرج أن يحملوا السلاحَ فيقاتلوا، فأنزل الله عز وجل:"إن تطيعوا فريقًا من الذين أوتوا الكتاب يردوكم بعد إيمانكم كافرين"، يقول: إن حملتم السلاحَ فاقتتلتم، كفرتم.
+
+٧٥٣٠- حدثنا الحسن بن يحيى قال، أخبرنا عبد الرزاق قال، أخبرنا جعفر بن سليمان، عن حميد الأعرج، عن مجاهد في قوله:"يا أيها الذين آمنوا إن تطيعوا فريقًا من الذين أوتوا الكتاب"، قال: كان جِماعُ قبائل الأنصار بطنين: الأوس والخزرج، وكان بينهما في الجاهلية حربٌ ودماء وشنَآنٌ، حتى مَنَّ الله عليهم بالإسلام وبالنبي ﷺ، فأطفأ الله الحرب التي كانت بينهم، وألفَّ بينهم بالإسلام. قال: فبينا رجل من الأوس ورجلٌ من الخزرج قاعدان يتحدّثان، ومعهما يهوديّ جالسٌ، فلم يزل يذكِّرهما أيامهما والعداوةَ التي كانت بينهم، حتى استَبَّا ثم اقتتلا. قال: فنادى هذا قومه وهذا قومه، فخرجوا بالسلاح، وصفَّ بعضهم لبعض. قال: ورسولُ الله ﷺ شاهدٌ يومئذ بالمدينة، فجاء رسول الله ﷺ، فلم يزل يمشي بينهم إلى هؤلاء وإلى هؤلاء ليسكنهم، حتى رجعوا ووضعوا السلاح، فأنزل الله عز وجل القرآن في ذلك:"يا أيها الذين آمنوا إن تُطيعوا فريقًا من الذين أوتوا الكتاب" إلى قوله:"عذابٌ عظيم".
+
+* *
+
+قال أبو جعفر: فتأويل الآية: يا أيها الذين صدقوا الله ورسوله، وأقرُّوا بما جاءهم به نبيهم ﷺ من عند الله، إن تطيعوا جماعة ممن ينتحل الكتابَ من أهل التوراة والإنجيل، فتقبلوا منهم ما يأمرونكم به، يُضِلُّوكم فيردّوكم بعد تصديقكم رسولَ ربكم، وبعد إقراركم بما جاء به من عند ربكم، كافرين = يقول: جاحدين لما قد آمنتم به وصدَّقتموه من الحقّ الذي جاءكم من عند ربكم. فنهاهم جَلّ ثناؤه: أن ينتصحوهم، ويقبلوا منهم رأيًا أو مشورةً، ويعلِّمهم تعالى ذكره أنهم لهم منطوُون على غِلٍّ وغِش وحسد وبغض، كما:
+
+٧٥٣١- حدثنا بشر بن معاذ قال، حدثنا يزيد قال، حدثنا سعيد، عن قتادة، قوله:"يا أيها الذين آمنوا إن تطيعوا فريقًا من الذين أوتوا الكتاب يردّوكم بعد إيمانكم كافرين"، قد تقدّم الله إليكم فيهم كما تسمعون، وحذَّركم وأنبأكم بضلالتهم، فلا تأتمنوهم على دينكم، ولا تنتصحوهم على أنفسكم، فإنهم الأعداءُ الحسَدَة الضُّلال. كيف تأتمنون قومًا كفروا بكتابهم، وقتلوا رُسلهم، وتحيَّروا في دينهم، وعجزوا عَنْ أنفسهم؟ أولئك والله هم أهل التُّهَمة والعداوة!
+
+٧٥٣٢- حدثنا المثني قال، حدثنا إسحاق قال، حدثنا ابن أبي جعفر، عن أبيه، عن الربيع، مثله.
 
 ### al-Muyassar (Arabic)
 
@@ -46,7 +178,7 @@ Allah warns His believing servants against obeying the People of the Book, who e
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+ونَزَلَ لَمّا مَرَّ بَعْض اليَهُود عَلى الأَوْس والخَزْرَج وغاظَهُمْ تَأَلُّفهمْ فَذَكَّرُوهُمْ بِما كانَ بَيْنهمْ فِي الجاهِلِيَّة مِن الفِتَن فَتَشاجَرُوا وكادُوا يَقْتَتِلُونَ ﴿يَأَيُّها الَّذِينَ آمَنُوا إنْ تُطِيعُوا فَرِيقًا مِن الَّذِينَ أُوتُوا الكِتاب يَرُدُّوكُمْ بَعْد إيمانكُمْ كافِرِينَ﴾
 
 ---
 
@@ -54,22 +186,107 @@ Allah warns His believing servants against obeying the People of the Book, who e
 
 ### Ibn Kathir (English)
 
+O you who believe! If you obey a group of those who were given the Scripture (Jews and Christians), they would (indeed) render you disbelievers after you have believed (100)And how would you disbelieve, while unto you are recited the verses of Allah, and among you is His Messenger? And whoever depends upon Allah, then he is indeed guided to the right path (101)
+
 Warning Muslims Against Imitating People of the Scriptures
-Allah warns His believing servants against obeying the People of the Book, who envy the believers for the favor that Allah gave them by sending His Messenger . Similarly, Allah said,
-وَدَّ كَثِيرٌ مِّنْ أَهْلِ الْكِتَـبِ لَوْ يَرُدُّونَكُم مِن بَعْدِ إِيمَـنِكُمْ كُفَّارًا حَسَدًا مِّنْ عِنْدِ أَنْفُسِهِمْ
-(Many of the People of the Scripture (Jews and Christians) wish that they could turn you away as disbelievers after you have belie...
+
+Allah warns His believing servants against obeying the People of the Book, who envy the believers for the favor that Allah gave them by sending His Messenger ﷺ. Similarly, Allah said,
+
+وَدَّ كَثِيرٌ مِّنْ أَهْلِ الْكِتَابِ لَوْ يَرُدُّونَكُم مِّن بَعْدِ إِيمَانِكُمْ كُفَّارًا حَسَدًا مِّنْ عِندِ أَنفُسِهِم
+
+(Many of the People of the Scripture (Jews and Christians) wish that they could turn you away as disbelievers after you have believed, out of their own envy)[2:109].
+
+In this Ayah [3:100], Allah said,
+
+إِن تُطِيعُوا فَرِيقًا مِّنَ الَّذِينَ أُوتُوا الْكِتَابَ يَرُدُّوكُم بَعْدَ إِيمَانِكُمْ كَافِرِينَ
+
+(If you obey a group of those who were given the Scripture (Jews and Christians), they would (indeed) render you disbelievers after you have believed!), then said,
+
+وَكَيْفَ تَكْفُرُونَ وَأَنتُمْ تُتْلَىٰ عَلَيْكُمْ آيَاتُ اللَّهِ وَفِيكُمْ رَسُولُهُ
+
+(And how would you disbelieve, while unto you are recited the verses of Allah, and among you is His Messenger?), meaning, disbelief is far from touching you, since the Ayat of Allah are being sent down on His Messenger ﷺ day and night, and he recites and conveys them to you. Similarly, Allah said,
+
+وَمَا لَكُمْ لَا تُؤْمِنُونَ بِاللَّهِ وَالرَّسُولُ يَدْعُوكُمْ لِتُؤْمِنُوا بِرَبِّكُمْ وَقَدْ أَخَذَ مِيثَاقَكُمْ إِن كُنتُم مُّؤْمِنِينَ
+
+(And what is the matter with you that you believe not in Allah! While the Messenger invites you to believe in your Lord; and He has indeed taken your covenant, if you are real believers)[57:8]. A Hadith states that one day, the Prophet said to his Companions,
+
+أَيُّ الْمُؤْمِنِينَ أَعْجَبُ إِلَيْكُمْ إِيمَانًا؟
+
+قالوا: الملائكة.
+
+قال: وَكَيْفَ لَا يُؤْمِنُونَ وَهُمْ عِنْدَ رَبِّهِم؟
+
+وذكروا الأنبياء،
+
+قال: وَكَيْفَ لَا يُؤْمِنُونَ وَالْوَحْيُ يَنْزِلُ عَلَيْهِمْ؟
+
+قالوا: فنحن.
+
+قال: وَكَيْفَ لَا تُؤْمِنُونَ وَأَنَا بَيْنَ أَظْهُرِكُمْ؟
+
+قالوا: فأي الناس أعجب إيمانًا؟
+
+قال: قَوْمٌ يَجِيئُونَ مِنْ بَعْدِكُمْ يَجِدُونَ صُحُفًا يُؤْمِنُونَ بِمَا فِيهَا
+
+("Who among the faithful believers do you consider has the most amazing faith?" They said, "The angels." He said, "Why would they not believe, since they are with their Lord?" They mentioned the Prophets, and the Prophet ﷺ said, "Why would they not believe while the revelation is sent down to them?" They said, "Then, we are." He said, "Why would not you believe when I am among you?" They asked, "Who has the most amazing faith?" The Prophet said, "A people who will come after you and who will find only books that they will believe in.")
+
+Allah said next,
+
+وَمَن يَعْتَصِم بِاللَّهِ فَقَدْ هُدِيَ إِلَىٰ صِرَاطٍ مُّسْتَقِيمٍ
+
+(And whoever depends upon Allah, then he is indeed guided to the right path)[3:101] for trusting and relying on Allah are the basis of achieving the right guidance and staying away from the path of wickedness. They also represent the tool to acquiring guidance and truth and achieving the righteous aims.
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله تعالى :  وَكَيْفَ تَكْفُرُونَ وَأَنْتُمْ تُتْلَى عَلَيْكُمْ آيَاتُ اللَّهِ وَفِيكُمْ رَسُولُهُ وَمَنْ يَعْتَصِمْ بِاللَّهِ فَقَدْ هُدِيَ إِلَى صِرَاطٍ مُسْتَقِيمٍ (101)قال أبو جعفر: يعني بذلك جل ثناؤه: " وكيف تكفرون "، أيها المؤمنون بعد إيمانكم بالله وبرسوله، فترتدّوا على أعقابكم =" وأنتم تتلى عليكم آيات الله "، يعني: حججُ الله عليكم التي أنـزلها في كتابه على نبيه محمد صلى الله عليه وسلم =" وفيكم رسوله " حجةٌ أخرَى عليكم لله، مع آي كتابه، يدعوكم جميع ذلك إلى الحقّ، ويبصِّر...
+القول في تأويل قوله تعالى: ﴿وَكَيْفَ تَكْفُرُونَ وَأَنْتُمْ تُتْلَى عَلَيْكُمْ آيَاتُ اللَّهِ وَفِيكُمْ رَسُولُهُ وَمَنْ يَعْتَصِمْ بِاللَّهِ فَقَدْ هُدِيَ إِلَى صِرَاطٍ مُسْتَقِيمٍ (١٠١) ﴾
+
+قال أبو جعفر: يعني بذلك جل ثناؤه:"وكيف تكفرون"، أيها المؤمنون بعد إيمانكم بالله وبرسوله، فترتدّوا على أعقابكم ="وأنتم تتلى عليكم آيات الله"، يعني: حججُ الله عليكم التي أنزلها في كتابه على نبيه محمد ﷺ ="وفيكم رسوله" حجةٌ أخرَى عليكم لله، مع آي كتابه، يدعوكم جميع ذلك إلى الحقّ، ويبصِّركم الهدَى والرشاد، وينهاكم عن الغيّ والضلال؟. يقول لهم تعالى ذكره: فما وجه عُذْركم عند ربكم في جحودكم نبوَّة نبيِّكم، وارتدادكم على أعقابكم، ورجوعكم إلى أمر جاهليتكم، إنْ أنتم راجعتم ذلك وكفرتم، وفيه هذه الحجج الواضحة والآياتُ البينة على خطأ فعلكم ذلك إن فعلتموه؟ كما:-
+
+٧٥٣٣- حدثنا بشر قال، حدثنا يزيد بن زريع قال، حدثنا سعيد، عن قتادة قوله:"وكيف تكفرون وأنتم تتلى عليكم آيات الله" الآية، علَمان بيِّنان: وُجْدان نبي الله ﷺ، وكتابُ الله. فأما نبيّ الله فمضى ﷺ. وأما كتاب الله، فأبقاه الله بين أظهُركم رحمة من الله ونعمة، فيه حلاله وحرامه، وطاعته ومعصيته.
+
+* *
+
+وأما قوله:"ومن يعتصم بالله فقد هُدي إلى صراط مستقيم"، فإنه يعني: ومن يتعلق بأسباب الله، ويتمسَّك بدينه وطاعته ="فقد هدى"، يقول: فقد وُفِّق لطريق واضح، ومحجةٍ مستقيمة غير معوجَّة، فيستقيم به إلى رضى الله، وإلى النجاة من عذاب الله والفوز بجنته، كما:-
+
+٧٥٣٤- حدثنا القاسم قال، حدثنا الحسين قال، حدثني حجاج، عن ابن جريج، قوله:"ومن يعتصم بالله فقد هدى" قال: يؤمن بالله.
+
+* *
+
+وأصل"العَصْم" المنع، فكل مانع شيئًا فهو"عاصمه"، والممتنع به"معتصمٌ به"، ومنه قول الفرزدق:
+
+أَنَا ابنُ العَاصِمينَ بَنِي تَمِيم ... إذَا مَا أَعْظَمُ الحَدَثَانِ نَابَا [[ديوانه: ١١٥، والنقائض: ٤٥١، مطلع قصيدة ينقض بها هجاء جرير.]]
+
+ولذلك قيل للحبل"عِصام"، وللسبب الذي يتسبب به الرجل إلى حاجته"عِصام"، ومنه قول الأعشى:
+
+إلَى المَرْءِ قَيْسٍ أُطِيلُ السُّرَى ... وَآخُذُ مِنْ كُلِّ حَيٍّ عُصمْ [[ديوانه: ٢٩ من قصيدته في ثنائه على صاحبه قيس بن معد يكرب الكندي، وقد مضت منها أبيات في ١: ٢٤٢ / ٥: ٤٢٢. والسرى: سير الليل كله. والعصم جمع عصام، وهكذا ضبط في شعره، وجائز أن يضبط"عصم" (بكسر العين وفتح الصاد) جمع"عصمة" (بكسر العين وسكون الصاد) وكلاهما مجاز في معنى العهود. وقوله: "وآخذ من كل حي عصم"، يعني أن سطوة قيس في الأحياء، ورهبته في صدورهم، تجعل له عند كل حي عهدًا يأخذه ليجوز به أرضهم آمنًا، لا يمسه أحد ولا ينال منه. وسيأتي مثل هذا المعنى في بيت آخر يأتي بعد قليل ص: ٧٠، تعليق: ٣.]]
+
+يعني بـ "العُصم" الأسباب، أسبابَ الذمة والأمان. يقال منه:"اعتصمت بحبل من فلان" و"اعتصمتَ حبلا منه" و"اعتصمت به واعتصمته"، وأفصح اللغتين إدخال"الباء"، كما قال عز وجل: ﴿وَاعْتَصِمُوا بِحَبْلِ اللَّهِ جَمِيعًا﴾ ، وقد جاء:"اعتصمته"، كما الشاعر: [[لم أعرف قائله.]]
+
+إذَا أَنْتَ جَازَيْتَ الإخاءَ بِمِثْلِهِ ... وَآسَيْتَنِي، ثمَّ اعْتَصَمْتَ حِبَالِيَا [[معاني القرآن للفراء ١: ٢٢٨، وضبطه"ثم" هكذا، وبقى جواب"إذا" في بيت بعده فيما أرجح. ولو قرأته"ثم" بفتح الثاء، أي هناك، كان جواب"إذا"، "اعتصمت حباليا". وتم البيت، وانفرد عما بعده. ولكني لا أستطيع أن أرجح هذا حتى أعرف بقية الأبيات.]]
+
+فقال:"اعتصمت حباليا"، ولم يدخل"الباء". وذلك نظير قولهم:"تناولت الخِطام، وتناولت بالخطام"، و"تعلَّقت به وتعلقته"، كما قال الشاعر: [[لم أعرف قائله.]]
+
+تَعَلَّقَتْ هِنْدًا ناشِئًا ذَاتَ مِئْزَرٍ ... وَأَنْتَ وَقَدَ قَارَفْتَ، لم تَدْرِ مَا الحِلْمُ [[معاني القرآن ١: ٢٢٨. يقال: "غلام ناشئ، وجارية ناشئة"، ولكنه وصف"هندًا" على التذكير فقال: "ناشئًا"، وقد زعم الليث أنه لم يسمع هذا النعت في الجارية، فكأن الشاعر وصفها به، وأمره على التذكير. وقوله: "وقد قارفت"، أي قاربت ودنوت من الكبر، والجملة حال معترضة. يقول: تعلقها صغيرة لم تحجب بعد، وبلغت ما بلغت، ولم تدر بعد ما الحلم، وهو الأناة والعقل ومفارقة الصبا وطيش الشباب.]]
+
+* *
+
+وقد بينت معنى"الهدى"،"والصراط"، وأنه معنيّ به الإسلام، فيما مضى قبل بشواهده، فكرهنا إعادته في هذا الموضع. [[انظر تفسير"الهدى" فيما سلف ١: ١٦٦ - ١٧٠، وفهارس اللغة / وانظر تفسير"الصراط المستقيم" فيما سلف ١: ١٧٠ - ١٧٧ وفهارس اللغة.]]
+
+* *
+
+وقد ذكر أن الذي نزل في سبب تَحاوُز القبيلين [[في المطبوعة: "تحاور"، وقد أسلفت قراءتي لهذا الحرف وبيانه فيما سلف: ص٥٥ تعليق: ٦، وفي المطبوعة: "القبيلتين" بالتاء، وأثبت ما في المخطوطة.]] الأوس والخزرج، كان منْ قوله: [[في المطبوعة والمخطوطة: "كان منه قوله"، وهو خطأ، والصواب ما في المخطوطة. ويعني أن الآيات التي نزلت في شأن تحاوز الأوس والخزرج واقتتالهما، كان من أول هذه الآية، لا الآيتين قبلها.]] "وكيف تكفرُون وأنتم تتلى عليكم آيات الله".
+
+ذكر من قال ذلك:
+
+٧٥٣٥- حدثنا أبو كريب قال، حدثنا حسن بن عطية قال، حدثنا قيس بن الربيع، عن الأغرّ بن الصبّاح، عن خليفة بن حُصَين، عن أبي نصر، عن ابن عباس قال: كانت الأوس والخزرج بينهم حرب في الجاهلية كل شهر، [[قوله: "كل شهر"، هكذا جاء في المخطوطة واضحا، والذي في الدر المنثور ٢: ٥٨: "كانت الأوس والخزرج في الجاهلية بينهم شر"، وفي القرطبي ٤: ١٥٦: "كان بين الأوس والخزرج قتال وشر في الجاهلية"، ويخشى أن يكون ما في المخطوطة: "كل شهر"، تصحيف"وكل شر"، ولكن ليس هذا موضع الرأي، فإن الذين نقلوا هذا الأثر فيما بين يدي، لم ينقلوه بإسناده هذا، ولا بتمام لفظه كما هنا.]] فبينما هم جلوس إذْ ذكروا ما كان بينهم حتى غضبوا، فقام بعضهم إلى بعض بالسلاح، فنزلت هذه الآية:"وكيف تكفرون وأنتم تتلى عليكم آيات الله وفيكم رسوله" إلى آخر الآيتين،"واذكروا نعمة الله عليكم إذْ كنتم أعداءً" إلى آخر الآية. [[الأثر: ٧٥٣٥-"حسن بن عطية بن نجيح القرشي"، سلفت ترجمته في رقم: ٤٩٦٢. و"قيس بن الربيع الأسدي" أبو محمد الكوفي. روي عن أبي إسحاق السبيعي، والأغر بن الصباح، وسماك بن حرب وغيرهم. روى عنه الثوري، وهو من أقرانه، وشعبة، ومات قبله، وعبد الرزاق ووكيع. تكلموا فيه، وثقه الثوري وشعبة وغيرهما. وضعفه آخرون وقالوا: "ليس بقوي، يكتب حديثه ولا يحتج به". مترجم في التهذيب. و"الأغر بن الصباح التميمي المنقري". روى عن خليفة بن حصين، روى عنه الثوري وقيس بن الربيع، وأبو شبيبة. قال ابن معين والنسائي: "ثقة"، وقال أبو حاتم"صالح" مترجم في التهذيب. و"خليفة بن حصين بن قيس بن عاصم التميمي المنقري" روى عن أبيه وجده، وعلي بن أبي طالب، وزيد بن أرقم، وأبي نصر الأسدي. وروى عنه الأغر بن الصباح. ثقة. مترجم في التهذيب. و"أبو نصر الأسدي". روي عن ابن عباس، وعنه خليفة بن حصين. قال البخاري: "لم يعرف سماعه من ابن عباس"، وقال أبو زرعة: "أبو نصر الأسدي الذي يروي عن ابن عباس: ثقة". مترجم في التهذيب، والكنى للبخاري: ٧٦، وأشار إلى هذا الأثر، وابن أبي حاتم ٤ / ٢ / ٤٤٨.]]
 
 ### al-Muyassar (Arabic)
 
-وكيف تكفرون بالله -أيها المؤمنون -، وآيات القرآن تتلى عليكم، وفيكم رسول الله محمد صلى الله عليه وسلم يبلغها لكم؟ ومَن يتوكل على الله ويستمسك بالقرآن والسنة فقد وُفِّق لطريق واضح، ومنهاج مستقيم.
+وكيف تكفرون بالله -أيها المؤمنون- وآيات القرآن تتلى عليكم، وفيكم رسول الله محمد ﷺ يبلغها لكم؟ ومَن يتوكل على الله ويستمسك بالقرآن والسنة فقد وُفِّق لطريق واضح، ومنهاج مستقيم.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿وكَيْفَ تَكْفُرُونَ﴾ اسْتِفْهام تَعْجِيب وتَوْبِيخ ﴿وأَنْتُمْ تُتْلى عَلَيْكُمْ آيات اللَّه وفِيكُمْ رَسُوله ومَن يَعْتَصِم﴾ يَتَمَسَّك ﴿بالله فقد هدي إلى صراط مستقيم﴾
 
 ---
 
@@ -77,23 +294,179 @@ Allah warns His believing servants against obeying the People of the Book, who e
 
 ### Ibn Kathir (English)
 
-Meaning of `Taqwa of Allah
-Ibn Abi Hatim recorded that `Abdullah bin Mas`ud commented on the Ayah,
-اتَّقُواْ اللَّهَ حَقَّ تُقَاتِهِ
+O you who believe! Have Taqwa of Allah as is His due, and die not except as (true) Muslims (102)And hold fast, all of you together, to the Rope of Allah, and be not divided among yourselves, and remember Allah's favor on you, for you were enemies of one another but He joined your hearts together, so that, by His grace, you became brethren, and you were on the brink of a pit of Fire, and He saved you from it. Thus Allah makes His Ayat clear to you, that you may be guided (103)
+
+Meaning of 'Taqwa of Allah'
+
+Ibn Abi Hatim recorded that 'Abdullah bin Mas'ud commented on the Ayah,
+
+اتَّقُوا اللَّهَ حَقَّ تُقَاتِهِ
+
 (Have Taqwa of Allah as is His due,)
-"That He is obeyed and not defied, remembered and not forgotten and appreciated and not unappreciated." This has an authentic chain of narration to `Abdullah bin Mas`ud. Al-Hakim collected this Hadith in his Mustadrak, from Ibn Mas`ud, who related it to the Prophet . Al-Hakim said, "It is authentic according to the criteria o...
+
+"That He is obeyed and not defied, remembered and not forgotten and appreciated and not unappreciated." This has an authentic chain of narration to 'Abdullah bin Mas'ud. Al-Hakim collected this Hadith in his Mustadrak, from Ibn Mas'ud, who related it to the Prophet ﷺ. Al-Hakim said, "It is authentic according to the criteria of the Two Shaykhs [Al-Bukhari and Muslim], and they did not record it." This is what he said, but it appears that it is only a statement of 'Abdullah bin Mas'ud, and Allah knows best. It was also reported that Anas said, "The servant will not have Taqwa of Allah as is His due until he keeps his tongue idle." Allah's statement,
+
+وَلَا تَمُوتُنَّ إِلَّا وَأَنتُم مُّسْلِمُونَ
+
+(and die not except as (true) Muslims)[3:102], means, preserve your Islam while you are well and safe, so that you die as a Muslim. The Most Generous Allah has made it His decision that whatever state one lives in, that is what he dies upon and is resurrected upon. We seek refuge from dying on other than Islam.
+
+Imam Ahmad recorded that Mujahid said, "The people were circling around the Sacred House when Ibn 'Abbas was sitting, holding a bent-handled walking stick. Ibn 'Abbas said, The Messenger of Allah [recited],
+
+يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ حَقَّ تُقَاتِهِ وَلَا تَمُوتُنَّ إِلَّا وَأَنتُم مُّسْلِمُونَ
+
+(Have Taqwa of Allah as is His due, die not except as (true) Muslims.)[3:102], [then he said;]
+
+وَلَوْ أَنَّ قَطْرَةً مِنَ الزَّقُّومِ قُطِرَتْ لَأَمَرَّتْ عَلى أَهْلِ الْأرْضِ عِيشَتَهُمْ، فَكَيْفَ بِمَنْ لَيْسَ لَهُ طَعَامٌ إِلَّا الزَّقُّومُ؟
+
+(Verily, if a drop of Zaqqum (a tree in Hell) falls, it will spoil life for the people of earth. What about those whose food is only from Zaqqum)"
+
+This was recorded by At-Tirmidhi, An-Nasa'i, Ibn Majah, Ibn Hibban in his Sahih and Al-Hakim his Mustadrak. At-Tirmidhi said, "Hasan Sahih" while Al-Hakim said; "It meets the conditions of the Two Sahihs and they did not record it."
+
+Imam Ahmad recorded that Jabir said that three nights before the Messenger of Allah ﷺ died he heard him saying;
+
+لَا يَمُوتَنَّ أَحَدُكُمْ إِلَّا وَهُوَ يُحْسِنُ الظَّنَّ بِاللهِ عَزَّ وَجَلَّ
+
+(None of you should die except while having sincere trust in Allah, the Exalted and Most Honorable.) Muslim also recorded it. The Two Sahihs record that Abu Hurayrah said that the Messenger of Allah ﷺ said,
+
+يَقُولُ اللهُ: أَنَا عِنْدَ ظَنِّ عَبْدِي بِي
+
+(Allah said, "I am as My servant thinks of Me.")
+
+The Necessity of Holding to the Path of Allah and the Community of the Believers
+
+Allah said next,
+
+وَاعْتَصِمُوا بِحَبْلِ اللَّهِ جَمِيعًا وَلَا تَفَرَّقُوا
+
+(And hold fast, all of you together, to the Rope of Allah, and be not divided among yourselves.) It was said that,
+
+بِحَبْلِ اللَّهِ
+
+(to the Rope of Allah) refers to Allah's covenant, just as Allah said in the following Ayah,
+
+ضُرِبَتْ عَلَيْهِمُ الذِّلَّةُ أَيْنَ مَا ثُقِفُوا إِلَّا بِحَبْلٍ مِّنَ اللَّهِ وَحَبْلٍ مِّنَ النَّاسِ
+
+(Indignity is put over them wherever they may be, except when under a covenant (of protection) from Allah, and from men;)[3:112], in reference to pledges and peace treaties.
+
+Allah's statement
+
+وَلَا تَفَرَّقُوا
+
+(and be not divided among yourselves), orders sticking to the community of the believers and forbids division. There are several Hadiths that require adhering to the Jama'ah (congregation of believers) and prohibit division. Muslim recorded that Abu Hurayrah said that the Messenger of Allah ﷺ said,
+
+إِنَّ اللهَ يَرْضَى لَكُمْ ثَلَاثًا، وَيَسْخَطُ لَكُمْ ثَلَاثًا: يَرْضَى لَكُمْ أَنْ تَعْبُدُوهُ وَلَا تُشْرِكُوا بِهِ شَيْئًا، وَأَنْ تَعْتَصِمُوا بِحَبْلِ اللهِ جَمِيعًا وَلَا تَفَرَّقُوا، وَأَنْ تَنَاصَحُوا مَنْ وَلَّاهُ اللهُ أَمْرَكُمْ. وَيَسْخَطُ لَكُمْ ثَلَاثًا: قِيلَ وَقَالَ، وَكَثْرَةَ السُّؤَالِ، وَإِضَاعَةَ الْمَالِ
+
+(It pleases Allah for you to acquire three qualities and displeases Him that you acquire three characteristics. It pleases Him that you worship Him Alone and not associate anything or anyone with Him in worship, that you hold on to the Rope of Allah altogether and do not divide, and that you advise whoever Allah appoints as your Leader. The three that displease Him are that you say, 'It was said,' and, 'So-and-so said,' asking many unnecessary questions and wasting money.)
+
+Allah said,
+
+وَاذْكُرُوا نِعْمَتَ اللَّهِ عَلَيْكُمْ إِذْ كُنتُمْ أَعْدَاءً فَأَلَّفَ بَيْنَ قُلُوبِكُمْ فَأَصْبَحْتُم بِنِعْمَتِهِ إِخْوَانًا
+
+(and remember Allah's favor on you, for you were enemies one to another but He joined your hearts together, so that, by His grace, you became brethren)[3:103].
+
+This was revealed about the Aws and Khazraj. During the time of Jahiliyyah, the Aws and Khazraj were at war and had great hatred, enmity and ill feelings towards each other, causing long conflicts and battles to occur between them. When Allah brought Islam, those among them who embraced it became brothers who loved each other by Allah's grace, having good ties for Allah's sake and helping each other in righteousness and piety. Allah said,
+
+هُوَ الَّذِي أَيَّدَكَ بِنَصْرِهِ وَبِالْمُؤْمِنِينَ - وَأَلَّفَ بَيْنَ قُلُوبِهِمْ لَوْ أَنفَقْتَ مَا فِي الْأَرْضِ جَمِيعًا مَّا أَلَّفْتَ بَيْنَ قُلُوبِهِمْ وَلَٰكِنَّ اللَّهَ أَلَّفَ بَيْنَهُمْ
+
+(He it is Who has supported you with His Help and with the believers. And He has united their hearts. If you had spent all that is in the earth, you could not have united their hearts, but Allah has united them)[8:62-63], until the end of the Ayah. Before Islam, their disbelief had them standing at the edge of a pit of the Fire, but Allah saved them from it and delivered them to faith. The Messenger of Allah ﷺ reminded the Ansar [from both Aws and Khazraj] of this bounty when he was dividing the war booty of Hunayn. During that time, some Ansar did not like the way the booty was divided, since they did not get what the others did, although that was what Allah directed His Prophet ﷺ to do. The Messenger of Allah gave them a speech, in which he said,
+
+يَا مَعْشَرَ الْأَنْصَارِ أَلَمْ أَجِدْكُمْ ضُلَّالًا فَهَدَاكُمُ اللهُ بِي، وَكُنْتُمْ مُتَفَرِّقِينَ فَأَلَّفَكُمُ اللهُ بِي، وَعَالَةً فَأَغْنَاكُمُ اللهُ بِي؟
+
+(O Ansar! Did I not find you misguided and Allah directed you to guidance because of me? Were you not divided beforehand and Allah united you around me? Were you not poor and Allah enriched you because of me?)
+
+Whenever the Prophet ﷺ asked them a question, they would answer, "Indeed, Allah and His Messenger have granted us bounty."
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله تعالى :  يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ حَقَّ تُقَاتِهِ وَلا تَمُوتُنَّ إِلا وَأَنْتُمْ مُسْلِمُونَ (102)قال أبو جعفر: يعني بذلك جل ثناؤه: يا معشر من صدّق الله ورسوله =" اتقوا الله "، خافوا الله ورَاقبوه بطاعته واجتناب معاصيه =" حقّ تُقاته "، حقّ خوفه، (12) وهو أن يُطاع فلا يُعصى، ويُشكر فلا يكفر، ويُذكر فلا يُنسى = " ولا تموتن "، أيها المؤمنون بالله ورسوله =" إلا وأنتم مسلمون " لربكم، مذعنون له بالطاعة. مخلصون له الألوهةَ والعبادة. (13)* * *وبنحو الذي قلن...
+القول في تأويل قوله تعالى: ﴿يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ حَقَّ تُقَاتِهِ وَلا تَمُوتُنَّ إِلا وَأَنْتُمْ مُسْلِمُونَ (١٠٢) ﴾
+
+قال أبو جعفر: يعني بذلك جل ثناؤه: يا معشر من صدّق الله ورسوله ="اتقوا الله"، خافوا الله ورَاقبوه بطاعته واجتناب معاصيه ="حقّ تُقاته"، حقّ خوفه، [[انظر القول في بيان"تقاة" فيما سلف ٦: ٣١٣ - ٣١٧.]] وهو أن يُطاع فلا يُعصى، ويُشكر فلا يكفر، ويُذكر فلا يُنسى = "ولا تموتن"، أيها المؤمنون بالله ورسوله ="إلا وأنتم مسلمون" لربكم، مذعنون له بالطاعة. مخلصون له الألوهةَ والعبادة. [[في المطبوعة: "الألوهية"، وهي صواب، وأثبت ما في المخطوطة، وهي صواب أيضا بمعناها، ولكن هكذا يكتبها أبو جعفر، وانظر ما سلف ٦: ٢٧٥، تعليق: ٢.]]
+
+* *
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+٧٥٣٦- حدثنا محمد بن بشار قال، حدثنا عبد الرحمن قال، حدثنا سفيان = وحدثنا الحسن بن يحيى قال، أخبرنا عبد الرزاق قال، أخبرنا الثوري = عن زبيد، عن مُرّة، عن عبد الله:"اتقوا الله حق تقاته"، قال: أن يطاع فلا يُعصي، ويُذكر فلا يُنسى، ويشكر فلا يُكفر. [[الأثر: ٧٥٣٧- والآثار التي تليه أسانيد مختلفة لهذا الأثر. وأخرجه الحاكم في المستدرك من طريق أبي نعيم، عن مسعر، وهو الأثر رقم: ٧٥٤١، وليس فيه"ويشكر فلا يكفر"، وقال: "هذا حديث صحيح على شرط الشيخين، ولم يخرجاه"، ووافقه الذهبي.]]
+
+٧٥٣٧- حدثنا ابن بشار قال، حدثنا عبد الرحمن قال، حدثنا شعبة، عن زبيد، عن مرة الهمداني، عن عبد الله مثله.
+
+٧٥٣٨- حدثنا ابن المثني قال، حدثنا محمد بن جعفر قال، حدثنا شعبة، عن زبيد، عن مرة الهمداني، عن عبد الله مثله.
+
+٧٥٣٩- حدثنا أبو كريب وأبو السائب قالا حدثنا ابن إدريس قال، سمعت ليثًا، عن زبيد، عن مرة بن شراحيل البَكيليّ، عن عبد الله بن مسعود، مثله. [[الأثر: ٧٥٣٩- في المطبوعة: "مرة بن شراحيل الهمداني". غير ما في المخطوطة، وكلاهما صحيح وصواب، وانظر الأثر رقم: ٢٥٢١، والتعليق عليه.]]
+
+٧٥٤٠- حدثني المثني قال، حدثنا الحجاج بن المنهال قال، حدثنا جرير، عن زبيد، عن عبد الله، مثله.
+
+٧٥٤١- حدثني المثني قال، حدثنا أبو نعيم قال، حدثنا مسعر، عن زبيد، عن مرة، عن عبد الله، مثله.
+
+٧٥٤٢- حدثني المثني قال، حدثنا عمرو بن عون قال، أخبرنا هشيم، عن المسعودي، عن زبيد الأيامي، عن مرة، عن عبد الله، مثله.
+
+٧٥٤٣- حدثنا ابن حميد قال، حدثنا جرير، عن منصور، عن زبيد، عن مرة، عن عبد الله، مثله.
+
+٧٥٤٤- حدثنا محمد بن سنان قال، حدثنا يحيى، عن سفيان، عن أبي إسحاق، عن عمرو بن ميمون:"اتقوا الله حق تقاته"، قال: أن يطاع فلا يعصى، ويشكر فلا يكفر، ويذكر فلا ينسى. [[الأثر: ٧٥٤٤-"يحيى" هو: "يحيى بن أبي بكير الأسدي" مضى في رقم: ٥٧٩٧، "وسفيان" هو الثوري، و"أبو إسحاق" هو: أبو إسحاق السبيعي، وكان في المخطوطة والمطبوعة: "حدثنا يحيى بن سفيان"، وليس في الرواة من يسمى بهذا، والصواب ما أثبته.]]
+
+٧٥٤٥- حدثنا ابن وكيع قال، حدثنا أبي، عن إسرائيل، عن أبي إسحاق، عن عمرو ابن ميمون، نحوه.
+
+٧٥٤٦- حدثنا ابن المثني قال، حدثنا يحيى بن سعيد قال، حدثنا شعبة قال، حدثنا عمرو بن مرة، عن مرة، عن الربيع بن خُثَيم قال: أن يطاع فلا يعصى، ويُشكر فلا يكفر، ويذكر فلا ينسى.
+
+٧٥٤٧- حدثنا المثني قال، حدثنا أبو داود قال، حدثنا شعبة، عن عمرو بن مرة قال، سمعت مرة الهمداني يحدث، عن الربيع بن خُثيم في قول الله عز وجل:"اتقوا الله حق تقاته"، فذكره نحوه. [[الأثران: ٧٥٤٦، ٧٥٤٧ -"الربيع بن خثيم الثوري" مضت ترجمته في رقم: ١٤٣٠، وكان في المطبوعة"بن خيثم"، وهو خطأ مضى مثله في الأثر الآخر، وفي مواضع غيره، وصححته من المخطوطة.]]
+
+٧٥٤٨- حدثني المثني قال، حدثنا أبو حذيفة قال، حدثنا شبل، عن قيس بن سعد، عن طاوس:"يا أيها الذين آمنوا اتقوا الله حق تقاته"، أن يطاع فلا يُعصى.
+
+٧٥٤٩- حدثنا محمد بن سنان قال: حدثنا أبو بكر الحنفي قال، حدثنا عباد، عن الحسن في قوله:"يا أيها الذين آمنوا اتقوا الله حقّ تُقاته"، قال:"حق تقاته"، أن يطاع فلا يُعصى.
+
+٧٥٥٠- حدثني محمد بن الحسين قال، حدثنا أحمد بن المفضل قال، حدثنا أسباط، عن السدي: ثم تقدم إليهم -يعني إلى المؤمنين من الأنصار-. فقال:"يا أيها الذين آمنوا اتقوا الله حق تقاته ولا تموتن إلا وأنتم مسلمون"، أما"حق تقاته"، يطاع فلا يعصى، ويذكر فلا يُنسى، ويشكر فلا يُكفر.
+
+٧٥٥١- حدثني المثني قال، حدثنا حجاج بن المنهال قال، حدثنا همام، عن قتادة:"يا أيها الذين آمنوا اتقوا الله حق تقاته"، أن يطاع فلا يعصى، قال:"ولا تموتن إلا وأنتم مسلمون".
+
+* *
+
+وقال آخرون: بل تأويل ذلك، كما:-
+
+٧٥٥٢- حدثني به المثني قال، حدثنا عبد الله بن صالح قال، حدثني معاوية، عن علي، عن ابن عباس قوله:"اتقوا الله حق تقاته"، قال:"حق تقاته"، أن يجاهدوا في الله حق جهاده، ولا يأخذهم في الله لومةُ لائم، ويقوموا لله بالقسط ولو على أنفسهم وآبائهم وأبنائهم. [[الأثر: ٧٥٥٢- رواه أبو جعفر النحاس في الناسخ والمنسوخ: ٨٨، مع بعض الخلاف في لفظه. وفي المخطوطة: "أن تجاهد في الله" بالإفراد، والسياق يقتضي الجمع، وجاءت على الصواب في المطبوعة وفي الناسخ والمنسوخ، إلا أنه قال: "أن تجاهدوا ... ولا يأخذكم ... وتقوموا ... ولو على أنفسكم وآبائكم وأبنائكم" على الخطاب.]]
+
+* *
+
+ثم اختلف أهل التأويل في هذه الآية: هل هي منسوخة أم لا؟ فقال بعضهم: هي محكمة غيرُ منسوخة.
+
+ذكر من قال ذلك:
+
+٧٥٥٣- حدثني المثني قال، حدثنا عبد الله بن صالح قال، حدثني معاوية بن صالح، عن علي، عن ابن عباس قوله:"اتقوا الله حق تقاته" أنها لم تنسخ، ولكن"حق تقاته"، أن تجاهدَ في الله حق جهاده = ثم ذكر تأويله الذي ذكرناه عنه آنفًا. [[الأثر: ٧٥٥٣- هو الأثر السالف، وفي المخطوطة والمطبوعة: "أن تجاهد"، وانظر التعليق السالف.]]
+
+٧٥٥٤- حدثني المثني قال، حدثنا أبو حذيفة قال، حدثنا شبل، عن ابن أبي نجيح، عن قيس بن سعد، عن طاوس:"يا أيها الذين آمنوا اتقوا الله حق تقاته"، فإن لم تفعلوا ولم تستطيعوا، فلا تموتن إلا وأنتم مسلمون.
+
+٧٥٥٥- حدثنا القاسم قال، حدثنا الحسين قال، حدثني حجاج، عن ابن جريج قال، قال طاوس قوله:"ولا تموتن إلا وأنتم مسلمون"، يقول: إن لم تتقوه فلا تموتن إلا وأنتم مسلمون.
+
+* *
+
+وقال آخرون: هي منسوخة، نسخها قوله: ﴿فَاتَّقُوا اللَّهَ مَا اسْتَطَعْتُمْ﴾ [سورة التغابن: ١٦] .
+
+ذكر من قال ذلك:
+
+٧٥٥٦- حدثنا بشر قال، حدثنا يزيد قال، حدثنا سعيد، عن قتادة، قوله:"يا أيها الذين آمنوا اتقوا الله حق تقاته ولا تموتن إلا وأنتم مسلمون، ثم أنزل التخفيف واليسر، وعاد بعائدته ورحمته على ما يعلم من ضعف خلقه فقال: ﴿فاتَّقُوا اللهَ مَا اسْتَطَعْتُمْ﴾ ، فجاءت هذه الآية، فيها تخفيفٌ وعافيةٌ ويُسر.
+
+٧٥٥٧- حدثني المثني قال، حدثنا الحجاج بن المنهال الأنماطي قال، حدثنا همام، عن قتادة:"يا أيها الذين آمنوا اتقوا الله حق تقاته ولا تموتن إلا وأنتم مسلمون"، قال: نسختها هذه الآية التي في"التغابن": ﴿فَاتَّقُوا اللَّهَ مَا اسْتَطَعْتُمْ وَاسْمَعُوا وَأَطِيعُوا﴾ ، وعليها بايع رسول الله ﷺ على السمع والطاعة فيما استطاعوا.
+
+٧٥٥٨- حدثني المثني قال، حدثنا إسحاق قال، حدثنا عبد الله بن أبي جعفر، عن أبيه، عن الربيع بن أنس قال: لما نزلت:"اتقوا الله حق تقاته"، ثم نزل بعدها: ﴿فَاتَّقُوا اللَّهَ مَا اسْتَطَعْتُمْْ﴾ ، فنسخت هذه الآية التي في"آل عمران".
+
+٧٥٥٩- حدثنا محمد قال، حدثنا أحمد قال، حدثنا أسباط، عن السدي:"يا أيها الذين آمنوا اتقوا الله حق تقاته ولا تموتن إلا وأنتم مسلمون"، فلم يطق الناسُ هذا، فنسخه الله عنهم، فقال: ﴿فَاتَّقُوا اللَّهَ مَا اسْتَطَعْتُمْ﴾
+
+٧٥٦٠- حدثني يونس قال، أخبرنا ابن وهب قال، قال ابن زيد، في قوله:"يا أيها الذين آمنوا اتقوا الله حق تقاته"، قال: جاء أمر شديد! قالوا: ومن يعرف قدر هذا أو يبلغه؟ فلما عرف أنه قد اشتد ذلك عليهم، نسخها عنهم، وجاء بهذه الأخرى فقال: ﴿فاتَّقُوا اللهَ مَا استَطَعْتُمْ﴾ فنسخها. [[ترك أبو جعفر رضي الله عنه، ترجيح أحد القولين على الآخر، وكان حقًا عليه أن يبينه. وقد بينه أبو جعفر النحاس في الناسخ والمنسوخ: ٨٨، ٨٩، قال بعد سياقه الأثر: ٧٥٤٢، وروايته عن قول قتادة: "قال أبو جعفر: محال أن يقال هذا ناسخ ولا منسوخ إلا على حيلة، وذلك أن معنى نسخ الشيء: إزالته والمجيء بضده، فمحال أن يقال: "اتقوا لله" منسوخ، ولا سيما مع قول النبي ﷺ مما فيه بيان الآية، كما قرأ على أحمد بن محمد بن الحجاج، عن يحيى بن سليمان قال، حدثنا أبو الأحوص قال، حدثنا أبو إسحاق، عن عمرو بن ميمون، عن معاذ بن جبل قال: قال رسول الله ﷺ: "يا معاذ، أتدري ما حق الله على العباد؟ قلت: الله ورسوله أعلم! قال: أن يعبدوه ولا يشركوا به شيئا"، أفلا ترى أنه محال أن يقع في هذا نسخ ... قال أبو جعفر: "فكل ما ذكر في الآية واجب على المسلمين أن يستعملوه، ولا يقع فيه نسخ، وهو قول النبي ﷺ: "أن يعبدوا الله ولا يشركوا به شيئا" وكذا على المسلمين - كما قال ابن مسعود: "أن تطيعوا الله فلا تعصوه، وتذكروه فلا تنسوه، وأن تشكروه فلا تكفروه، وأن تجاهدوا فيه حق جهاده. وأما قول قتادة، مع محله من العلم: أنها نسخت، فيجوز أن يكون معناه: نزلت: فاتقوا الله ما استطعتم - بنسخه: اتقوا الله حق تقاته، وأنها مثلها، لأنه لا يكلف أحدًا إلا طاقته".]]
+
+* *
+
+وأما قوله:" ولا تموتن إلا وأنتم مسلمون"، فإن تأويله كما:-
+
+٧٥٦١- حدثني المثني قال، حدثنا أبو حذيفة قال، حدثنا شبل، عن قيس بن سعد، عن طاوس:" ولا تموتن إلا وأنتم مسلمون"، قال: على الإسلام، وعلى حُرْمة الإسلام. [[انظر تفسير أبي جعفر في نظيرة هذه الآية فيما سلف ٣: ٩٦، ٩٧.]]
 
 ### al-Muyassar (Arabic)
 
-يا أيها الذين صدَّقوا الله ورسوله، وعملوا بشرعه، خافوا الله حق خوفه: وذلك بأن يطاع فلا يُعصى، ويُشكَر فلا يكفر، ويُذكَر فلا ينسى، وداوموا على تمسككم بإسلامكم إلى آخر حياتكم؛ لتلقوا الله وأنتم عليه.
+يا أيها الذين صدَّقوا الله ورسوله وعملوا بشرعه، خافوا الله حق خوفه: وذلك بأن يطاع فلا يُعصى، ويُشكَر فلا يكفر، ويُذكَر فلا ينسى، وداوموا على تمسككم بإسلامكم إلى آخر حياتكم؛ لتلقوا الله وأنتم عليه.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿يا أيّها الَّذِينَ آمَنُوا اتَّقُوا اللَّه حَقّ تُقاته﴾ بِأَنْ يُطاع فَلا يُعْصى ويُشْكَر فَلا يُكْفَر ويُذْكَر فَلا يُنْسى فَقالُوا يا رَسُول اللَّه ومَن يَقْوى عَلى هَذا فَنُسِخَ بِقَوْلِهِ تَعالى ﴿فاتَّقُوا اللَّه ما اسْتَطَعْتُمْ﴾ ﴿ولا تَمُوتُنَّ إلّا وأَنْتُمْ مُسْلِمُونَ﴾ مُوَحِّدُونَ
 
 ---
 
@@ -101,22 +474,246 @@ Ibn Abi Hatim recorded that `Abdullah bin Mas`ud commented on the Ayah,
 
 ### Ibn Kathir (English)
 
-Meaning of `Taqwa of Allah
-Ibn Abi Hatim recorded that `Abdullah bin Mas`ud commented on the Ayah,
-اتَّقُواْ اللَّهَ حَقَّ تُقَاتِهِ
+O you who believe! Have Taqwa of Allah as is His due, and die not except as (true) Muslims (102)And hold fast, all of you together, to the Rope of Allah, and be not divided among yourselves, and remember Allah's favor on you, for you were enemies of one another but He joined your hearts together, so that, by His grace, you became brethren, and you were on the brink of a pit of Fire, and He saved you from it. Thus Allah makes His Ayat clear to you, that you may be guided (103)
+
+Meaning of 'Taqwa of Allah'
+
+Ibn Abi Hatim recorded that 'Abdullah bin Mas'ud commented on the Ayah,
+
+اتَّقُوا اللَّهَ حَقَّ تُقَاتِهِ
+
 (Have Taqwa of Allah as is His due,)
-"That He is obeyed and not defied, remembered and not forgotten and appreciated and not unappreciated." This has an authentic chain of narration to `Abdullah bin Mas`ud. Al-Hakim collected this Hadith in his Mustadrak, from Ibn Mas`ud, who related it to the Prophet . Al-Hakim said, "It is authentic according to the criteria o...
+
+"That He is obeyed and not defied, remembered and not forgotten and appreciated and not unappreciated." This has an authentic chain of narration to 'Abdullah bin Mas'ud. Al-Hakim collected this Hadith in his Mustadrak, from Ibn Mas'ud, who related it to the Prophet ﷺ. Al-Hakim said, "It is authentic according to the criteria of the Two Shaykhs [Al-Bukhari and Muslim], and they did not record it." This is what he said, but it appears that it is only a statement of 'Abdullah bin Mas'ud, and Allah knows best. It was also reported that Anas said, "The servant will not have Taqwa of Allah as is His due until he keeps his tongue idle." Allah's statement,
+
+وَلَا تَمُوتُنَّ إِلَّا وَأَنتُم مُّسْلِمُونَ
+
+(and die not except as (true) Muslims)[3:102], means, preserve your Islam while you are well and safe, so that you die as a Muslim. The Most Generous Allah has made it His decision that whatever state one lives in, that is what he dies upon and is resurrected upon. We seek refuge from dying on other than Islam.
+
+Imam Ahmad recorded that Mujahid said, "The people were circling around the Sacred House when Ibn 'Abbas was sitting, holding a bent-handled walking stick. Ibn 'Abbas said, The Messenger of Allah [recited],
+
+يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ حَقَّ تُقَاتِهِ وَلَا تَمُوتُنَّ إِلَّا وَأَنتُم مُّسْلِمُونَ
+
+(Have Taqwa of Allah as is His due, die not except as (true) Muslims.)[3:102], [then he said;]
+
+وَلَوْ أَنَّ قَطْرَةً مِنَ الزَّقُّومِ قُطِرَتْ لَأَمَرَّتْ عَلى أَهْلِ الْأرْضِ عِيشَتَهُمْ، فَكَيْفَ بِمَنْ لَيْسَ لَهُ طَعَامٌ إِلَّا الزَّقُّومُ؟
+
+(Verily, if a drop of Zaqqum (a tree in Hell) falls, it will spoil life for the people of earth. What about those whose food is only from Zaqqum)"
+
+This was recorded by At-Tirmidhi, An-Nasa'i, Ibn Majah, Ibn Hibban in his Sahih and Al-Hakim his Mustadrak. At-Tirmidhi said, "Hasan Sahih" while Al-Hakim said; "It meets the conditions of the Two Sahihs and they did not record it."
+
+Imam Ahmad recorded that Jabir said that three nights before the Messenger of Allah ﷺ died he heard him saying;
+
+لَا يَمُوتَنَّ أَحَدُكُمْ إِلَّا وَهُوَ يُحْسِنُ الظَّنَّ بِاللهِ عَزَّ وَجَلَّ
+
+(None of you should die except while having sincere trust in Allah, the Exalted and Most Honorable.) Muslim also recorded it. The Two Sahihs record that Abu Hurayrah said that the Messenger of Allah ﷺ said,
+
+يَقُولُ اللهُ: أَنَا عِنْدَ ظَنِّ عَبْدِي بِي
+
+(Allah said, "I am as My servant thinks of Me.")
+
+The Necessity of Holding to the Path of Allah and the Community of the Believers
+
+Allah said next,
+
+وَاعْتَصِمُوا بِحَبْلِ اللَّهِ جَمِيعًا وَلَا تَفَرَّقُوا
+
+(And hold fast, all of you together, to the Rope of Allah, and be not divided among yourselves.) It was said that,
+
+بِحَبْلِ اللَّهِ
+
+(to the Rope of Allah) refers to Allah's covenant, just as Allah said in the following Ayah,
+
+ضُرِبَتْ عَلَيْهِمُ الذِّلَّةُ أَيْنَ مَا ثُقِفُوا إِلَّا بِحَبْلٍ مِّنَ اللَّهِ وَحَبْلٍ مِّنَ النَّاسِ
+
+(Indignity is put over them wherever they may be, except when under a covenant (of protection) from Allah, and from men;)[3:112], in reference to pledges and peace treaties.
+
+Allah's statement
+
+وَلَا تَفَرَّقُوا
+
+(and be not divided among yourselves), orders sticking to the community of the believers and forbids division. There are several Hadiths that require adhering to the Jama'ah (congregation of believers) and prohibit division. Muslim recorded that Abu Hurayrah said that the Messenger of Allah ﷺ said,
+
+إِنَّ اللهَ يَرْضَى لَكُمْ ثَلَاثًا، وَيَسْخَطُ لَكُمْ ثَلَاثًا: يَرْضَى لَكُمْ أَنْ تَعْبُدُوهُ وَلَا تُشْرِكُوا بِهِ شَيْئًا، وَأَنْ تَعْتَصِمُوا بِحَبْلِ اللهِ جَمِيعًا وَلَا تَفَرَّقُوا، وَأَنْ تَنَاصَحُوا مَنْ وَلَّاهُ اللهُ أَمْرَكُمْ. وَيَسْخَطُ لَكُمْ ثَلَاثًا: قِيلَ وَقَالَ، وَكَثْرَةَ السُّؤَالِ، وَإِضَاعَةَ الْمَالِ
+
+(It pleases Allah for you to acquire three qualities and displeases Him that you acquire three characteristics. It pleases Him that you worship Him Alone and not associate anything or anyone with Him in worship, that you hold on to the Rope of Allah altogether and do not divide, and that you advise whoever Allah appoints as your Leader. The three that displease Him are that you say, 'It was said,' and, 'So-and-so said,' asking many unnecessary questions and wasting money.)
+
+Allah said,
+
+وَاذْكُرُوا نِعْمَتَ اللَّهِ عَلَيْكُمْ إِذْ كُنتُمْ أَعْدَاءً فَأَلَّفَ بَيْنَ قُلُوبِكُمْ فَأَصْبَحْتُم بِنِعْمَتِهِ إِخْوَانًا
+
+(and remember Allah's favor on you, for you were enemies one to another but He joined your hearts together, so that, by His grace, you became brethren)[3:103].
+
+This was revealed about the Aws and Khazraj. During the time of Jahiliyyah, the Aws and Khazraj were at war and had great hatred, enmity and ill feelings towards each other, causing long conflicts and battles to occur between them. When Allah brought Islam, those among them who embraced it became brothers who loved each other by Allah's grace, having good ties for Allah's sake and helping each other in righteousness and piety. Allah said,
+
+هُوَ الَّذِي أَيَّدَكَ بِنَصْرِهِ وَبِالْمُؤْمِنِينَ - وَأَلَّفَ بَيْنَ قُلُوبِهِمْ لَوْ أَنفَقْتَ مَا فِي الْأَرْضِ جَمِيعًا مَّا أَلَّفْتَ بَيْنَ قُلُوبِهِمْ وَلَٰكِنَّ اللَّهَ أَلَّفَ بَيْنَهُمْ
+
+(He it is Who has supported you with His Help and with the believers. And He has united their hearts. If you had spent all that is in the earth, you could not have united their hearts, but Allah has united them)[8:62-63], until the end of the Ayah. Before Islam, their disbelief had them standing at the edge of a pit of the Fire, but Allah saved them from it and delivered them to faith. The Messenger of Allah ﷺ reminded the Ansar [from both Aws and Khazraj] of this bounty when he was dividing the war booty of Hunayn. During that time, some Ansar did not like the way the booty was divided, since they did not get what the others did, although that was what Allah directed His Prophet ﷺ to do. The Messenger of Allah gave them a speech, in which he said,
+
+يَا مَعْشَرَ الْأَنْصَارِ أَلَمْ أَجِدْكُمْ ضُلَّالًا فَهَدَاكُمُ اللهُ بِي، وَكُنْتُمْ مُتَفَرِّقِينَ فَأَلَّفَكُمُ اللهُ بِي، وَعَالَةً فَأَغْنَاكُمُ اللهُ بِي؟
+
+(O Ansar! Did I not find you misguided and Allah directed you to guidance because of me? Were you not divided beforehand and Allah united you around me? Were you not poor and Allah enriched you because of me?)
+
+Whenever the Prophet ﷺ asked them a question, they would answer, "Indeed, Allah and His Messenger have granted us bounty."
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله تعالى :  وَاعْتَصِمُوا بِحَبْلِ اللَّهِ جَمِيعًاقال أبو جعفر: يعني بذلك جل ثناؤه: وتعلقوا بأسباب الله جميعًا. يريد بذلك تعالى ذكره: وتمسَّكوا بدين الله الذي أمركم به، وعهده الذي عَهده إليكم في كتابه إليكم، من الألفة والاجتماع على كلمة الحق، والتسليم لأمر الله.* * *وقد دللنا فيما مضى قبلُ على معنى " الاعتصام " (22)* * *وأما " الحبل "، فإنه السبب الذي يوصَل به إلى البُغية والحاجة، ولذلك سمي الأمان " حبلا "، لأنه سبب يُوصَل به إلى زوال الخوف، والنجاة من الجزَع والذّعر، ومنه ق...
+القول في تأويل قوله تعالى: ﴿وَاعْتَصِمُوا بِحَبْلِ اللَّهِ جَمِيعًا﴾
+
+قال أبو جعفر: يعني بذلك جل ثناؤه: وتعلقوا بأسباب الله جميعًا. يريد بذلك تعالى ذكره: وتمسَّكوا بدين الله الذي أمركم به، وعهده الذي عَهده إليكم في كتابه إليكم، من الألفة والاجتماع على كلمة الحق، والتسليم لأمر الله.
+
+* *
+
+وقد دللنا فيما مضى قبلُ على معنى"الاعتصام" [[انظر تفسير"الاعتصام" فيما سلف قريبا ص: ٦٢، ٦٣.]]
+
+* *
+
+وأما"الحبل"، فإنه السبب الذي يوصَل به إلى البُغية والحاجة، ولذلك سمي الأمان"حبلا"، لأنه سبب يُوصَل به إلى زوال الخوف، والنجاة من الجزَع والذّعر، ومنه قول أعشى بني ثعلبة:
+
+وَإذَا تُجَوِّزُهَا حِبَالُ قَبِيلَةٍ ... أَخَذَتْ مِنَ الأخْرَى إلَيْكَ حِبَالَها [[ديوانه: ٢٤، ومشكل القرآن: ٣٥٨، والمعاني الكبير: ١١٢٠، واللسان (حبل) وغيرها. من قصيدته في قيس بن معد يكرب، ومضت منها أبيات في ٤: ٢٣٨، ٣٢٧، وهذا البيت في ذكر ناقته، يقول قبله: فَتَرَكْتُها بَعْدَ المِرَاحِ رَذِيةً ... وَأَمِنْتُ عِنْدَ رُكُوبِهَا إِعْجَالَها
+
+فَتَنَاوَلتْ قَيْسًا بِحُرِّ بِلادِه ... فأتَتْهُ بَعْدَ تَنُوفَةٍ فأَنَالَهَا
+
+فإِذَا تُجَوِّزُهَا............ ... . . . . . . . . . . . . . . . . . . .
+
+وقد مضى قبل مثل هذا البيت الأخير ص: ٦٢، تعليق: ٢ إلَى المرءِ قيسٍ أُطِيلُ السُّرَى ... وَآخذُ من كُلّ حَيٍّ عُصُمْ
+
+يقول: إذا أخذت من قبيلة عهودها حتى أجتاز ديارها آمنًا، أعطتها القبيلة التي تليها عهدًا وذمامًا أن تخترق ديارها آمنة لا ينالها أحد بسوء. وذلك أن القبائل كلها ترهب قيسًا وتخافه، فكل قاصد إليه، أجد الأمان حيث سار، لأنه بقصده قيسًا جار له، لا يطيق أحد أن يناله بسوء.]] ومنه قول الله عز وجل: ﴿إِلا بِحَبْلٍ مِنَ اللَّهِ وَحَبْلٍ مِنَ النَّاسِ﴾ [سورة آل عمران: ١١٢]
+
+* *
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+٧٥٦٢- حدثني يعقوب بن إبراهيم قال، حدثنا هشيم قال، أخبرنا العوّام، عن الشعبي، عن عبد الله بن مسعود أنه قال في قوله:"واعتصموا بحبل الله جميعا"، قال: الجماعة.
+
+٧٥٦٣- حدثنا المثني قال، حدثنا عمرو بن عون قال، حدثنا هشيم، عن العوّام، عن الشعبي، عن عبد الله في قوله:"واعتصموا بحبل الله جميعًا"، قال: حبلُ الله، الجماعة.
+
+* *
+
+وقال آخرون: عنى بذلك القرآنَ والعهدَ الذي عَهِدَ فيه.
+
+ذكر من قال ذلك:
+
+٧٥٦٤- حدثنا بشر قال، حدثنا يزيد قال، حدثنا سعيد، عن قتادة، قوله:" واعتصموا بحبل الله جميعًا"، حبل الله المتين الذي أمر أن يُعتصم به: هذا القرآن.
+
+٧٥٦٥- حدثنا الحسن بن يحيى قال أخبرنا عبد الرزاق قال، أخبرنا معمر، عن قتادة، في قوله:"واعتصموا بحبل الله جميعًا" قال: بعهد الله وأمره.
+
+٧٥٦٦- حدثنا ابن حميد قال، حدثنا جرير، عن منصور، عن شقيق، عن عبد الله قال: إن الصراط مُحْتَضَر تحضره الشياطين، ينادون: يا عبد الله، هلمّ هذا الطريق! ليصدّوا عن سبيل الله،. فاعتصموا بحبل الله، فإن حبلَ الله هو كتاب الله. [[الأثر: ٧٥٦٦- رواه في مجمع الزوائد بغير هذا اللفظ، وهو قريب منه. ونسبه إلى الطبراني وقال: "رواه عن شيخه عبد الله بن محمد بن سعيد بن أبي مريم، وهو ضعيف". وهذا الذي رواه الطبري إسناد صحيح.]]
+
+٧٥٦٧ - حدثنا محمد قال، حدثنا أحمد بن المفضل، عن أسباط، عن السدي:"واعتصموا بحبل الله جميعًا"، أما"حبل الله"، فكتاب الله.
+
+٧٥٦٨- حدثني محمد بن عمرو قال، حدثنا أبو عاصم، عن عيسي، عن ابن أبي نجيح، عن مجاهد:"بحبل الله"، بعهد الله.
+
+٧٥٦٩- حدثنا القاسم قال، حدثنا الحسين قال، حدثني حجاج، عن ابن جريج، عن عطاء:"بحبل الله"، قال: العهد.
+
+٧٥٧٠- حدثنا أبو كريب قال، حدثنا وكيع، عن الأعمش، عن أبي وائل، عن عبد الله:"واعتصموا بحبل الله" قال: حبلُ الله: القرآن.
+
+٧٥٧١- حدثني المثني قال، حدثنا إسحاق قال، حدثنا أبو زهير، عن جويبر، عن الضحاك في قوله:"واعتصموا بحبل الله جميعًا"، قال: القرآن.
+
+٧٥٧٢- حدثنا سعيد بن يحيى قال: حدثنا أسباط بن محمد، عن عبد الملك بن أبي سليمان العرزمي، عن عطية، عن أبي سعيد الخدري قال: قال رسول الله ﷺ: كتاب الله، هو حبل الله الممدودُ من السماء إلى الأرض. [[الحديث: ٧٥٧٢- عبد الملك بن أبي سليمان العرزمى -بسكون الراء ثم زاي مفتوحة- أحد الأئمة: مضى توثيقه: ١٤٥٥.
+
+عطية: هو ابن سعد بن جنادة -بضم الجيم- العوفي. وقد بينا في: ٣٠٥ أنه ضعيف.
+
+وقد سقط من المخطوطة والمطبوعة هنا قوله [عن عطية] . وزدناه من نقل ابن كثير ٢: ٢٠٣، عن هذا الموضع من الطبري.
+
+ثم الحديث -من حديث أبي سعيد- يدور في كل ما رأينا من طرقه على عطية العوفي، كما سيأتي:
+
+فرواه أحمد في المسند: ١١٢٢٩، ١١٥٨٢ (ج٣ص ٢٦، ٥٩ حلبي) ، عن ابن نمير، عن عبد الملك بن أبي سليمان، عن عطية العوفي، عن أبي سعيد، بنحوه، مرفوعًا مطولا.
+
+ورواه أيضا: ١١١٢٠ (ج ٣ ص ١٤) ، من طريق إسماعيل بن أبي إسحاق الملائي، عن عطية.
+
+ورواه أيضا: ١١١٤٨ (ج ٣ ص ١٧) ، عن أبي النضر، عن محمد بن طلحة، عن الأعمش عن عطية العوفي.
+
+وكذلك رواه الترمذي ٤: ٣٤٣، من طريق محمد بن فضيل، عن الأعمش، عن عطية، عن أبي سعيد -وعن الأعمش، عن حبيب بن أبي ثابت، عن زيد بن أرقم، مرفوعًا، نحوه مطولا. فهو عنده عن أبي سعيد وعن زيد بن أرقم. ثم قال: "هذا حديث حسن غريب".
+
+فأما حديث أبي سعيد، فقد بينا أنه ضعيف، من أجل عطية العوفي.
+
+وأما حديث زيد بن أرقم، فإنه حديث صحيح. وهو قطعة من قصة مطولة، رواها أحمد في المسند ٤: ٣٦٦ - ٣٦٧ (حلبي) . ورواها مسلم ٢: ٢٣٧ - ٢٣٨، مطولة ومختصرة.
+
+وروى ابن حبان في صحيحه، رقم: ١٢٣ (بتحقيقنا) - قطعة منه، فيها أن"كتاب الله، هو حبل الله".
+
+ثم نعود لحديث أبي سعيد:
+
+فذكره الهيثمي في مجمع الزوائد ٩: ١٦٣، مطولا، بنحو رواية الترمذي. ثم قال: "رواه الطبراني في الأوسط. وفي إسناده رجال مختلف فيهم"!
+
+ولست أدرى، لم ذكره في الزوائد، وهو في الترمذي؟ ثم لم ترك نسبته للمسند، وهو مروي فيه أربع مرات؟!
+
+وذكره السيوطي ٢: ٦٠، مختصرًا كما هنا. ولم ينسبه إلا لابن أبي شيبة وابن جرير. ثم ذكر الرواية المطولة عن أبي سعيد. ونسبه لابن سعد، وأحمد، والطبراني.]]
+
+* *
+
+وقال آخرون: بل ذلك هو إخلاص التوحيد لله.
+
+ذكر من قال ذلك:
+
+٧٥٧٣- حدثني المثني قال، حدثنا إسحاق قال، حدثنا عبد الله بن أبي جعفر، عن أبيه، عن الربيع، عن أبي العالية في قوله:"واعتصموا بحبل الله جميعا"، يقول: اعتصموا بالإخلاص لله وحده.
+
+٧٥٧٤- حدثني يونس قال، أخبرنا ابن وهب قال، قال ابن زيد في قوله:"واعتصموا بحبل الله جميعًا"، قال: الحبل، الإسلام. وقرأ"ولا تفرقوا".
+
+* *
+
+القول في تأويل قوله عز وجل: ﴿وَلا تَفَرَّقُوا﴾
+
+قال أبو جعفر: يعني جل ثناؤه بقوله:"ولا تفرقوا"، ولا تتفرقوا عن دين الله وعهده الذي عهد إليكم في كتابه، من الائتلاف والاجتماع على طاعته وطاعة رسوله ﷺ، والانتهاء إلى أمره. كما:-
+
+٧٥٧٥- حدثنا بشر قال، حدثنا يزيد قال، حدثنا سعيد، عن قتادة:"ولا تفرّقوا واذكروا نعمة الله عليكم"، إنّ الله عز وجل قد كره لكم الفُرْقة، وقدّم إليكم فيها، وحذّركموها، ونهاكم عنها، ورضي لكم السمعَ والطاعة والألفة والجماعة، فارضوا لأنفسكم ما رضى الله لكم إن استطعتم، ولا قوّة إلا بالله.
+
+٧٥٧٦- حدثني المثني قال، حدثنا إسحاق قال، حدثنا عبد الله بن أبي جعفر، عن أبيه، عن الربيع، عن أبى العالية:"ولا تفرّقوا"، لا تعادَوْا عليه، يقول: على الإخلاص لله، وكونوا عليه إخوانًا. [[في المخطوطة"وتكونوا عليه إخوانا"، والصواب ما في المطبوعة، والدر المنثور ٢: ٦١]]
+
+٧٥٧٧- حدثني المثني قال، حدثنا عبد الله بن صالح قال، حدثني معاوية بن صالح: أن الأوزاعي حدثه، أنّ يزيد الرقاشي حدّثه أنه سمع أنس بن مالك قال: قال رسول الله ﷺ:"إنّ بني إسرائيل افترقت على إحدى وسَبعين فرقة، وإن أمتي ستفترق على اثنتين وسبعين فرقة، كلهم في النار إلا واحدة. قال: فقيل: يا رسول الله، وما هذه الواحدة؟ قال: فقبض يَدَه وقال: الجماعة،"واعتصموا بحبل الله جميعًا ولا تفرّقوا". [[الحديث: ٧٥٧٧- يزيد الرقاشي: هو يزيد أبان، أبو عمرو، البصري القاص. وقد أشرنا في شرح: ٦٦٥٤، ٦٧٢٨ إلى أنه ضعيف. وقال البخاري في الكبير ٤ / ٢ / ٣٢٠: "كان شعبة يتكلم فيه"، وقال النسائي في الضعفاء: "متروك"، وقال ابن سعد ٧ / ٢ / ١٣: "كان ضعيفًا قدريًا".
+
+والحديث رواه ابن ماجه: ٣٩٩٣، من طريق الوليد بن مسلم: "حدثنا أبو عمرو [هو الأوزاعي] ، حدثنا قتادة، عن أنس. فذكره نحوه مرفوعًا، ولكن آخره عنده: "كلها في النار إلا واحدة، وهي الجماعة".
+
+وقال البوصيري في زوائده: "إسناده صحيح. رجاله ثقات". وهو كما قال.
+
+فيكون الأوزاعي رواه عن شيخين، أحدهما ضعيف، والآخر ثقة. وأن الضعيف -يزيد الرقاشي- زاد الاستشهاد بالآية. ولا بأس بذلك، فالمعنى قريب.
+
+وذكره السيوطي ٢: ٦٠، وزاد نسبته لابن أبي حاتم.]]
+
+٧٥٧٨- حدثني عبد الكريم بن أبي عمير قال، حدثنا الوليد بن مسلم قال، سمعت الأوزاعي يحدث، عن يزيد الرقاشي، عن أنس بن مالك، عن النبي ﷺ نحوه. [[الحديث: ٧٥٧٨- هذا الحديث تكرار للحديث قبله. وعبد الكريم بن أبي عمير - شيخ الطبري: ذكره الذهبي في الميزان ٢: ١٤٤ بلقب"للدهان"، وقال: "فيه جهالة. والخبر منكر". يريد حديثًا آخر، بينه الحافظ في لسان الميزان ٤: ٥٠ - ٥١، عن تاريخ بغداد. في ترجمة رجل آخر. وهو في تاريخ بغداد ٣: ٢٤٢. وفيه اسم هذا الشيخ في ذاك الإسناد: "عبد الكريم بن أبي عمير الدهقان". ولم أجد له ترجمة ولا ذكرًا في موضع آخر.]]
+
+٧٥٧٩- حدثنا أبو كريب قال، حدثنا المحاربي، عن ابن أبي خالد، عن الشعبي، عن ثابت بن قُطْبَة المدنيّ، عن عبد الله: أنه قال:"يا أيها الناس، عليكم بالطاعة والجماعة، فإنها حبل الله الذي أمرَ به، وإنّ ما تكرهون في الجماعة والطاعة، هو خيرٌ مما تستحبون في الفرقة". [[الأثر: ٧٥٧٩-"ثابت بن قطبة المدني الثقفي"، مترجم في الكبير ١ / ٢ / ١٦٨، والجرح ١ / ١ / ٤٥٧، قال البخاري: "سمع ابن مسعود، روى عنه أبو إسحاق، والشعبي" وزاد ابن أبي حاتم: "وزياد بن علاقة، وسالم بن أبي الجعد". وكان في المطبوعة في هذا الموضع وفي الأثرين التاليين"ثابت بن قطنة" بالنون من"قطنة"، وهو خطأ. وفي المخطوطة في هذا الأثر"فطنه" غير منقوطة، ونقطت الباء في الأثرين التاليين. وفي المخطوطة والمطبوعة: "المرى" في هذا الأثر وفي رقم: ٧٥٨١، والصواب"المدني" كما أثبته، وثابت ثقفي، لا مرى.]]
+
+٧٥٨٠- حدثنا عبد الحميد بن بيان السكريّ قال، أخبرنا محمد بن يزيد، عن إسماعيل بن أبي خالد، عن الشعبي، عن ثابت بن قطبَة قال: سمعت ابن مسعود وهو يخطب وهو يقول: يا أيها الناس، ثم ذكر نحوه. [[الأثر: ٧٥٨٠- في المطبوعة: "عبد الحميد بن بيان اليشكري"، وهو خطأ، والصواب المخطوطة. وقد سلف مثل هذا الخطأ في رقم: ٧٣٧٨، فانظر التعليق عليه.]]
+
+٧٥٨١- حدثنا إسماعيل بن حفص الأبُلِّيُّ قال، حدثنا عبد الله بن نمير أبو هشام قال، حدثنا مجالد بن سعيد، عن عامر، عن ثابت بن قطبة المدني قال: قال عبد الله: عليكم بالطاعة والجماعة، فإنها حبل الله الذي أمرَ به، ثم ذكر نحوه. [[الأثر: ٧٥٨١-"إسماعيل بن حفص بن عمرو الأبلى، أبو بكر الأودي البصري، و"الأبلي" (بضم الهمزة والباء الموحدة، واللام المشددة المكسورة) نسبة إلى"الأبلة". وفي بعض الكتب"الأيلي" بالياء. روى عن أبيه، وحفص بن غياث، ومعتمر بن سليمان وغيرهم. روى عنه النسائي وابن ماجه، وابن خزيمة وجماعة. وسمع منه أبو حاتم، قال ابن أبي حاتم: "وسألت أبي عنه فقال: كتبت عنه وعن أبيه، وكان أبوه يكذب، وهو بخلاف أبيه. قلت: لا بأس به؟ قال: لا يمكنني أن أقول لا بأس به". وذكره ابن حبان في الثقات. مترجم في التهذيب، وابن أبي حاتم ١ / ١ / ١٦٥.]]
+
+* *
+
+القول في تأويل قوله تعالى: ﴿وَاذْكُرُوا نِعْمَةَ اللَّهِ عَلَيْكُمْ إِذْ كُنْتُمْ أَعْدَاءً فَأَلَّفَ بَيْنَ قُلُوبِكُمْ فَأَصْبَحْتُمْ بِنِعْمَتِهِ إِخْوَانًا﴾
+
+قال أبو جعفر: يعني بقوله جل ثناؤه:"واذكروا نعمة الله عليكم"، واذكروا ما أنعم الله به عليكم من الألفة والاجتماع على الإسلام.
+
+واختلف أهل العربية في قوله:"إذ كنتم أعداء فألف بين قلوبكم".
+
+فقال بعض نحويي البصرة في ذلك: انقطع الكلام عند قوله:"واذكروا نعمة الله عليكم"، ثم فسر بقوله:"فألف بين قلوبكم"، وأخبرَ بالذي كانوا فيه قبل التأليف، كما تقول:"أمسَكَ الحائط أن يميل".
+
+وقال بعض نحويي الكوفة: قوله"إذ كنتم أعداء فألف بين قلوبكم"، تابع قوله:"واذكروا نعمة الله عليكم" غير منقطعة منها.
+
+قال أبو جعفر: والصواب من القول في ذلك عندي أن قوله:"إذ كنّتم أعداءً فألّف بين قلوبكم"، متصل بقوله:"واذكروا نعمة الله عليكم"، غير منقطع عنه.
+
+وتأويل ذلك: واذكروا، أيها المؤمنون، نعمة الله عليكم التي أنعمَ بها عليكم، حين كنتم أعداء في شرككم، [[في المطبوعة: "أي بشرككم"، وليست بشيء، وفي المخطوطة"أي شرككم" ولا معنى لها، وفيها زيادة ألف"أي"، و"ى" هي"في" فالذي أثبته هو الصواب والسياق.]] يقتل بعضكم بعضًا، عصبيةً في غير طاعة الله ولا طاعة رسوله، فألف الله بالإسلام بين قلوبكم، فجعل بعضكم لبعض إخوانًا بعد إذ كنتم أعداءً تتواصلون بألفة الإسلام واجتماع كلمتكم عليه، كما:-
+
+٧٥٨٢- حدثنا بشر قال، حدثنا يزيد قال، حدثنا سعيد، عن قتادة، قوله:"واذكروا نعمة الله عليكم إذ كنتم أعداء فألف بين قلوبكم"، كنتم تذابحون فيها، يأكل شديدكم ضعيفكم، حتى جاء الله بالإسلام، فآخى به بينكم، وألَّف به بينكم. أما والله الذي لا إله إلا هو، إنّ الألفة لرحمة، وإن الفرقة لعذابٌ.
+
+٧٥٨٣- حدثني المثني قال، حدثنا إسحاق قال، حدثنا ابن أبي جعفر، عن أبيه، عن الربيع في قوله:"واذكروا نعمة الله عليكم إذ كنتم أعداء"، يقتل بعضكم بعضًا، ويأكل شديدُكم ضعيفكم، حتى جاء الله بالإسلام، فألف به بينكم، وجمع جمعكم عليه، وجعلكم عليه إخوانًا.
+
+* *
+
+قال أبو جعفر: فالنعمة التي أنعم الله على الأنصار التي أمرهم تعالى ذكره في هذه الآية أن يذكرُوها، هي ألفة الإسلام، واجتماع كلمتهم عليها = والعداوةُ التي كانت بينهم، التي قال الله عز وجل:"إذ كنتم أعداء" فإنها عداوة الحروب التي كانت بين الحيين من الأوس والخزرج في الجاهلية قبل الإسلام، يزعم العلماء بأيام العرب أنها تطاولت بينهم عشرين ومائة سنة،. كما:-
+
+٧٥٨٤- حدثنا ابن حميد قال، حدثنا سلمة قال، قال ابن إسحاق: كانت الحرب بين الأوس والخزرج عشرين ومائة سنة، حتى قام الإسلام وهم على ذلك، فكانت حربهم بينهم وهم أخوان لأب وأم، فلم يسمع بقوم كان بينهم من العداوة والحرب ما كان بينهم. ثم إن الله عز وجل أطفأ ذلك بالإسلام، وألف بينهم برسوله محمد ﷺ. [[الأثر: ٧٥٨٤- لم أستطع
+
+[TRUNCATED at 12000 chars — 20200 more. Consult the source directly before relying on anything near the cut.]
 
 ### al-Muyassar (Arabic)
 
-وتمسَّكوا جميعًا بكتاب ربكم وهدي نبيكم، ولا تفعلوا ما يؤدي إلى فرقتكم. واذكروا نعمة جليلة أنعم الله بها عليكم: إذ كنتم -أيها المؤمنون- قبل الإسلام أعداء، فجمع الله قلوبكم على محبته ومحبة رسوله، وألقى في قلوبكم محبة بعضكم لبعض، فأصبحتم -بفضله- إخوانا متحابين، وكنتم على حافة نار جهنم، فهداكم الله بالإسلام ونجَّاكم من النار. وكما بيَّن الله لكم معالم الإيمان الصحيح فكذلك يبيِّن لكم كل ما فيه صلاحكم؛ لتهتدوا إلى سبيل الرشاد، وتسلكوها، فلا تضلوا عنها.
+وتمسَّكوا جميعًا بكتاب ربكم وهدي نبيكم، ولا تفعلوا ما يؤدي إلى فرقتكم. واذكروا نعمة جليلة أنعم الله بها عليكم: إذ كنتم -أيها المؤمنون- قبل الإسلام أعداء، فجمع الله قلوبكم على محبته ومحبة رسوله، وألقى في قلوبكم محبة بعضكم لبعض، فأصبحتم بفضله إخوانًا متحابّين، وكنتم على حافَة نار جهنم، فهداكم الله بالإسلام ونجّاكم من النار. وكما بَيَّن الله لكم معالم الإيمان الصحيح فكذلك يبيِّن لكم كل ما فيه صلاحكم؛ لتهتدوا إلى سبيل الرشاد، وتسلكوها، فلا تضلوا عنها.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿واعْتَصِمُوا﴾ تَمَسَّكُوا ﴿بِحَبْلِ اللَّه﴾ أيْ دِينه ﴿جَمِيعًا ولا تَفَرَّقُوا﴾ بَعْد الإسْلام ﴿واذْكُرُوا نِعْمَة اللَّه﴾. إنْعامه ﴿عَلَيْكُمْ﴾ يا مَعْشَر الأَوْس والخَزْرَج ﴿إذْ كُنْتُمْ﴾ قَبْل الإسْلام ﴿أعْداء فَأَلَّفَ﴾ جَمَعَ ﴿بَيْن قُلُوبكُمْ﴾ بِالإسْلامِ ﴿فَأَصْبَحْتُمْ﴾ فَصِرْتُمْ ﴿بِنِعْمَتِهِ إخْوانًا﴾ فِي الدِّين والوِلايَة ﴿وكُنْتُمْ عَلى شَفا﴾ طَرَف ﴿حُفْرَة مِن النّار﴾ لَيْسَ بَيْنكُمْ وبَيْن الوُقُوع فِيها إلّا أنْ تَمُوتُوا كُفّارًا ﴿فَأَنْقَذَكُمْ مِنها﴾ بِالإيمانِ ﴿كَذَلِكَ﴾ كَما بَيَّنَ لَكُمْ ما ذُكِرَ ﴿يبين الله لكم آياته لعلكم تهتدون﴾
 
 ---

@@ -1,6 +1,6 @@
 # Tafsir Cross-Reference Report
 
-Generated: 2026-07-15
+Generated: 2026-07-30
 Ayahs referenced: 1
 Tafsir sources: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), al-Jalalayn (Arabic)
 
@@ -14,7 +14,129 @@ And the Budn, We have made them for you as among the symbols of Allah, wherein y
 
 The Command to slaughter the Budn (Sacrificial Camel)
 
-Here Allah reminds His servants of the blessing which He has bestowed on His s...
+Here Allah reminds His servants of the blessing which He has bestowed on His servants, by creating the Budn for them and making them one of His symbols. For He has decreed that they should be brought to His Sacred House; indeed, they are the best of that which may be offered as a sacrifice to Allah, as He says:
+
+لَا تُحِلُّوا شَعَائِرَ اللَّهِ وَلَا الشَّهْرَ الْحَرَامَ وَلَا الْهَدْيَ وَلَا الْقَلَائِدَ وَلَا آمِّينَ الْبَيْتَ الْحَرَامَ
+
+(Violate not the sanctity of the Sha'a'ir of Allah, nor of the Sacred Month, nor of the animals brought for sacrifice, nor the garlanded people or animals, and others, nor the people coming to the Sacred House)(5:2)
+
+وَالْبُدْنَ جَعَلْنَاهَا لَكُم مِّن شَعَائِرِ اللَّهِ
+
+(And the Budn, We have made them for you as among the symbols of Allah,)
+
+Ibn Jurayj said: "Ata' commented on this Ayah, 'Cattle and camels.'" A similar view was also reported from Ibn 'Umar, Sa'id bin Al-Musayyib and Al-Hasan Al-Basri. Mujahid said: "Al-Budn means camels." According to Muslim, Jabir bin 'Abdullah and others said, "The Messenger of Allah ﷺ commanded us to share in offering the sacrifice, a Budn (camel) for seven people, and one cow for seven people."
+
+لَكُمْ فِيهَا خَيْرٌ
+
+(wherein you have much good.) means, reward in the Hereafter.
+
+فَاذْكُرُوا اسْمَ اللَّهِ عَلَيْهَا صَوَافَّ
+
+(So mention the Name of Allah over them when they are drawn up in lines (for sacrifice).) It was reported from Al-Muttalib bin 'Abdullah bin Hantab that Jabir bin 'Abdullah said, "I prayed with the Messenger of Allah ﷺ on 'Id Al-Adha. When he finished, he brought a ram and slaughtered it, saying,
+
+بِاسْمِ اللهِ وَاللهُ أَكْبَرُ، اللَّهُمَّ هَذَا عَنِّي وَعَمَّنْ لَمْ يُضَحِّ مِنْ أُمَّتِي
+
+(Bismillah, and Allahu Akbar. O Allah, this is on behalf of me and anyone of my Ummah who has not offered a sacrifice.) This was recorded by Ahmad, Abu Dawud and At-Tirmidhi. Muhammad bin Ishaq recorded from Yazid bin Abi Habib from Ibn 'Abbas that Jabir said, "The Messenger of Allah ﷺ sacrificed two rams on the day of 'Id, and when he lay them down to sacrifice them, he said:
+
+وَجَّهْتُ وَجْهِيَ لِلَّذِي فَطَرَ السَّمٰوَاتِ وَالْأَرْضَ حَنِيفًا مُسْلِمًا وَمَا أَنَا مِنَ الْمُشْرِكِينَ، إِنَّ صَلَاتِي وَنُسُكِي وَمَحْيَايَ وَمَمَاتِي للهِ رَبِّ الْعَالَمِينَ لَا شَرِيكَ لَهُ، وَبِذَلِكَ أُمِرْتُ وَأَنَا أَوَّلُ الْمُسْلِمِينَ، اللَّهُمَّ مِنْكَ وَلَكَ عَنْ مُحَمَّدٍ وَأُمَّتِهِ
+
+(I turn my face to the One Who created the heavens and the earth, being true and sincere in faith submitting myself to Him Alone, and I am not of the idolators. Verily, my prayer, my sacrifice, my living and my dying are for Allah, the Lord of all that exists for, with no partner or associate for Him. Thus am I commanded, and I am the first of the Muslims. O Allah, from You and to You, on behalf of Muhammad and his Ummah.) Then he said, 'Bismillah' and 'Allahu Akbar' and slaughtered them."
+
+It was reported from 'Ali bin Al-Husayn from Abu Rafi' that when the Messenger of Allah ﷺ wanted to offer a sacrifice, he would buy two fat, horned, fine rams. When he had prayed and addressed the people, he would bring one of them to where he was standing in the prayer place, and would sacrifice it himself with a knife, then he would say:
+
+اللَّهُمَّ هَذَا عَنْ أُمَّتِي جَمِيعِهَا: مَنْ شَهِدَ لَكَ بِالتَّوْحِيدِ وَشَهِدَ لِي بِالْبَلَاغِ
+
+(O Allah, this is on behalf of all of my Ummah, whoever bears witness of Tawhid of You and bears witness that I have conveyed.) Then he would bring the other ram and sacrifice it himself, and say,
+
+هَذَا عَنْ مُحَمَّدٍ وَآلِ مُحَمَّدٍ
+
+(This is on behalf of Muhammad and the family of Muhammad.) He would give them to the poor and he and his family would eat from it as well. This was recorded by Ahmad and Ibn Majah. Al-A'mash narrated from Abu Zabiyan from Ibn 'Abbas,
+
+فَاذْكُرُوا اسْمَ اللَّهِ عَلَيْهَا صَوَافَّ
+
+(So mention the Name of Allah over them when they are drawn up in lines (for sacrifice).) "When they are standing on three legs, with the left foreleg tied up. He says Bismillah and Allahu Akbar, La ilaha illallah, Allahumma Minka wa Laka (In the Name of Allah and Allah is Most Great; there is no God but Allah. O Allah, from You and to You)."
+
+In the Two Sahihs it was recorded that Ibn 'Umar came to a man who had made his camel kneel down in order to sacrifice it. He said, "Make it stand up fettered, (this is) the Sunnah of Abu Al-Qasim (i.e. the Prophet Muhammad ﷺ)."
+
+فَإِذَا وَجَبَتْ جُنُوبُهَا
+
+(Then, when they are down on their sides,) Ibn Abi Najih reported that Mujahid said, "This means, when it has fallen to the ground." This was narrated from Ibn 'Abbas, and a similar view was narrated from Muqatil bin Hayyan. 'Abdur-Rahman bin Zayd bin Aslam said,
+
+فَإِذَا وَجَبَتْ جُنُوبُهَا
+
+(Then, when they are down on their sides,) "Meaning, when they have died." This is what was meant by the comment of Ibn 'Abbas and Mujahid, for it is not permitted to eat from the sacrifice when it has been slaughtered until it has died and its movements have ceased. It was reported in a Marfu' Hadith:
+
+لَا تُعَجِّلُوا النُّفُوسَ أَنْ تَزْهَقَ
+
+(Do not rush until you are sure that the animal is dead.) Ath-Thawri narrated in his Jami' that 'Umar bin Al-Khattab said that, and he supported it with the Hadith of Shaddad bin 'Aws in Sahih Muslim:
+
+إِنَّ اللهَ كَتَبَ الْإِحْسَانَ عَلَى كُلِّ شَيْءٍ فَإِذَا قَتَلْتُمْ فَأَحْسِنُوا الْقِتْلَةَ، وَإِذَا ذَبَحْتُمْ فَأَحْسِنُوا الذِّبْحَةَ، وَلْيُحِدَّ أَحَدُكُمْ شَفْرَتَهُ، وَلْيُرِحْ ذَبِيحَتَهُ
+
+(Allah has prescribed proficiency in all things. If you kill, kill well; and if you slaughter, slaughter well. Let each one of you sharpen his blade and let him spare suffering to the animal he slaughters.) It was recorded that Abu Waqid Al-Laythi said, "The Messenger of Allah ﷺ said:
+
+مَا قُطِعَ مِنَ الْبَهِيمَةِ وَهِيَ حَيَّةٌ فَهُوَ مَيْتَةٌ
+
+(Whatever is cut from an animal while it is still alive is Maytah (dead flesh).) This was recorded by Ahmad, Abu Dawud and At-Tirmidhi, who graded it Sahih.
+
+فَكُلُوا مِنْهَا وَأَطْعِمُوا الْقَانِعَ وَالْمُعْتَرَّ
+
+(eat thereof, and feed Qani' and the Mu'tarr...)
+
+This is a command which implies that this is permissible. Al-'Awfi reported that Ibn 'Abbas said, "Qani' is the one who is content with what he is given and he stays in his house, and the Mu'tarr is the one who comes to you and rubs shoulders with you so that you will give him some meat, but he does not ask for it. " This was also the view of Mujahid and Muhammad bin Ka'b Al-Qurazi. 'Ali bin Abi Talhah reported that Ibn 'Abbas said, "Qani' is the one who is too proud to ask, and Mu'tarr is the one who does ask." This was also the view of Qatadah, Ibrahim An-Nakha'i and Mujahid, according to one report narrated from him. And the opposite was also suggested. This Ayah has been quoted as evidence by those scholars who said that the sacrifice should be divided into three: a third for the one who offers the sacrifice to eat from, a third to be given as gifts to his friends, and a third to be given in charity to the poor, because Allah says:
+
+فَكُلُوا مِنْهَا وَأَطْعِمُوا الْقَانِعَ وَالْمُعْتَرَّ
+
+(eat thereof, and feed the poor who does not ask, and the beggar who asks.)
+
+But there is no evidence in this Ayah for this view. According to a Sahih Hadith, the Messenger of Allah ﷺ said to the people:
+
+إِنِّي كُنْتُ نَهَيْتُكُمْ عَنِ ادِّخَارِ لُحُومِ الْأَضَاحِي فَوْقَ ثَلَاثٍ، فَكُلُوا وَادَّخِرُوا مَا بَدَا لَكُم
+
+(I used to forbid you to keep the meat of the sacrifice for more than three days, but now eat from it and keep it as you see fit.) According to another report:
+
+فَكُلُوا وَادَّخِرُوا وَتَصَدَّقُوا
+
+(Eat some, keep some and give some in charity.) According to another report:
+
+فَكُلُوا وَأَطْعِمُوا وَتَصَدَّقُوا
+
+(Eat some, feed others, and give some in charity.) As for the animal skins, it was recorded in Musnad Ahmad from Qatadah bin An-Nu'man in the Hadith about the sacrifice:
+
+فَكُلُوا وَتَصَدَّقُوا، وَاسْتَمْتِعُوا بِجُلُودِهَا وَلَا تَبِيعُوهَا
+
+(Eat and give in charity, and make use of the skins, but do not sell them.)
+
+(Note)
+
+It was recorded that Al-Bara' bin 'Azib said, "The Messenger of Allah ﷺ said:
+
+إِنَّ أَوَّلَ مَا نَبْدَأُ بِهِ فِي يَوْمِنَا هَذَا أَنْ نُصَلِّيَ، ثُمَّ نَرْجِعَ فَنَنْحَرَ، فَمَنْ فَعَلَ ذَلِكَ فَقَدْ أَصَابَ سُنَّتَنَا، وَمَنْ ذَبَحَ قَبْلَ الصَّلَاةِ فَإِنَّمَا هُوَ لَحْمٌ قَدَّمَهُ لِأَهْلِهِ لَيْسَ مِنَ النُّسُكِ فِي شَيْءٍ
+
+(The first thing that we should do on this day of ours ('Id) is to pray, then we return and offer the sacrifice. Whoever does that will have followed our Sunnah. Whoever slaughters his animal before the prayer, this is just meat which he has brought for his family, it is not a sacrifice at all.) This was recorded by (Al-Bukhari and Muslim). And in Sahih Muslim, it is mentioned that one is not to offer the sacrifice until the Imam (leader) has offered his. It is prescribed to offer the sacrifice on the day of Nahr and the following three days of Tashriq, because of the Hadith of Jubayr bin Mut'im who said that the Messenger of Allah ﷺ said:
+
+أَيَّامُ التَّشْرِيقِ كُلُّهَا ذَبْحٌ
+
+(The days of Tashriq are all (for) sacrifice.) This was recorded by Ahmad and Ibn Hibban.
+
+كَذَٰلِكَ سَخَّرْنَاهَا لَكُمْ لَعَلَّكُمْ تَشْكُرُونَ
+
+(Thus have We made them subject to you that you may be grateful.) means, for this reason.
+
+سَخَّرْنَاهَا لَكُمْ
+
+(Thus have We made them subject to you) means, 'We have subjugated them to you, i.e., We have made them submissive towards you, so that if you wish you can ride them, or if you wish you can milk them, or if you wish you can slaughter them,' as Allah says:
+
+أَوَلَمْ يَرَوْا أَنَّا خَلَقْنَا لَهُم مِّمَّا عَمِلَتْ أَيْدِينَا أَنْعَامًا فَهُمْ لَهَا مَالِكُونَ
+
+(Do they not see that We have created for them of what Our Hands have created, the cattle, so that they are their owners.)(36:71) until He said:
+
+أَفَلَا يَشْكُرُونَ
+
+(Will they not then be grateful?)(36:73) And Allah says in this Ayah:
+
+كَذَٰلِكَ سَخَّرْنَاهَا لَكُمْ لَعَلَّكُمْ تَشْكُرُونَ
+
+(Thus have We made them subject to you that you may be grateful.)
 
 ### al-Tabari (Arabic)
 
@@ -24,7 +146,153 @@ Here Allah reminds His servants of the blessing which He has bestowed on His s..
 
 كما:-
 
-⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد في قوله: ﴿الَّذِينَ إِذَا ذُكِرَ اللهُ وَجِلَتْ قُلُوبُهُمْ﴾ قال: لا تقسو قلوبهم. ﴿والصَّابِرينَ عَلى ما ...
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد في قوله: ﴿الَّذِينَ إِذَا ذُكِرَ اللهُ وَجِلَتْ قُلُوبُهُمْ﴾ قال: لا تقسو قلوبهم. ﴿والصَّابِرينَ عَلى ما أصَابَهُمْ﴾ من شدّة في أمر الله، ونالهم من مكروه في جنبه ﴿والمُقِيمي الصَّلاةِ﴾ المفروضة ﴿وَمِمَّا رَزَقْناهُمْ﴾ من الأموال ﴿يُنْفِقُونَ﴾ في الواجب عليهم إنفاقها فيه، في زكاه ونفقة عيال ومن وجبت عليه نفقته وفي سبيل الله.
+
+* *
+
+القول في تأويل قوله تعالى: ﴿وَالْبُدْنَ جَعَلْنَاهَا لَكُمْ مِنْ شَعَائِرِ اللَّهِ لَكُمْ فِيهَا خَيْرٌ فَاذْكُرُوا اسْمَ اللَّهِ عَلَيْهَا صَوَافَّ فَإِذَا وَجَبَتْ جُنُوبُهَا فَكُلُوا مِنْهَا وَأَطْعِمُوا الْقَانِعَ وَالْمُعْتَرَّ كَذَلِكَ سَخَّرْنَاهَا لَكُمْ لَعَلَّكُمْ تَشْكُرُونَ (٣٦) ﴾
+
+يقول تعالى ذكره: والبُدن وهي جمع بدنة، وقد يقال لواحدها: بدن، وإذا قيل بدن احتمل أن يكون جمعا وواحدا، يدلّ على أنه قد يقال ذلك للواحد قول الراجز:
+
+عَليَّ حِينَ نَمْلِكُ الأمُورَا ... صَوْمَ شُهُورٍ وَجَبَتْ نُذُورا وَحَلْقَ راسِي وَافِيا مَضْفُورَا ... وَبَدَنا مُدَرَّعا مُوْفُورَا [[هذه أربعة أبيات من مشطور الرجز رواها المؤلف عن الفراء في معاني القرآن في هذا الوضع من التفسير، وأنشدها قبل ذلك ثلاثة منها في (٧: ١٢٠) عند تفسير قوله تعالى: (فآخران يقومان مقامهما من الذين استحق عليهم الأوليان) في سورة المائدة. مع اختلاف في بعض الألفاظ عن روايته لها هنا، وهي: عَلَيَّ حينَ تمْلِكُ الأمُورَا ... صَوْمَ شُهُورٍ وَجَبَتْ نُدُورَا
+
+وَبادِنا مُقَلَّدًا مَنْحُورا
+
+ولفظة (بادنا) على هذه الرواية، قد تكون صحيحة، يريد جملا سمينا جسيما. كما في (اللسان: بدن) ، يقال: رجل بادن، والأنثى بادن وبادنة والجمع: بدن (بضم فسكون) ، وبدن (بالضم وتشديد الدال المفتوحة) . وقد تكون (بادنا) محرفة عن بدن (بالتحريك) ، بدليل تخريج المؤلف له بقوله " والبدن " (بضم فسكون) جمع بدنة (بالتحريك) ، وقد يقال لواحدها: بدن (بالتحريك) ، يدل عليه قول الراجز. " وبدنا مدرعا موفورا ". أه.
+
+ويؤيده أيضًا قول أبي البقاء العكبري في إعراب القرآن: البدن (بضم فسكون) : وجمع بدن، (بالتحريك) وواحدته: بدنة مثل خشب (بضم فسكون) وخشب (بالتحريك) ويقال هو جمع بدنة، مثل ثمرة وثمر (الأخير بضم فسكون) ، ويقرأ بضم الدال. والبدنة كما في (اللسان: بدن) بالهاء: لعظمها وسمنها. أه. يقول الراجز: أوجبت على نفسي إذا ملكت الأمور بتاء المخاطب أن أصوم شهورا، وأن أحلق رأسي، وأن أنحر بدنا أي جملا ضخما.]]
+
+والبدن: هو الضخم من كلّ شيء، ولذلك قيل لامرئ القيس بن النعمان صاحب الخورنق، والسدير البَدَن: لضخمه واسترخاء لحمه، فإنه يقال: قد بَدَّن تبدينا. فمعنى الكلام. والإبل العظام الأجسام الضخام، جعلناها لكم أيها الناس من شعائر الله: يقول: من أعلام أمر الله الذي أمركم به في مناسك حجكم إذا قلدتموها وجللتموها وأشعرتموها، علم بذلك وشعر أنكم فعلتم ذلك من الإبل والبقر.
+
+كما:-
+
+⁕ حدثنا ابن بشار، قال: ثنا يحيى، عن ابن جُرَيج، قال: قال عطاء: ﴿والبُدْنَ جَعَلنْاها لَكُمْ مِن شَعائِرِ اللهِ﴾ قال: البقرة والبعير.
+
+* *
+
+وقوله: ﴿لَكُمْ فِيها خَيْرٌ﴾
+
+يقول: لكم في البدن خير، وذلك الخير هو الأجر في الآخرة بنحرها والصدقة بها، وفي الدنيا: الركوب إذا احتاج إلى ركوبها.
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك: حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى - وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء جميعا، عن ابن أبي نجيح، عن مجاهد، في قول الله: ﴿لَكُمْ فِيها خَيْرٌ﴾ قال: أجر ومنافع في البدن.
+
+⁕ حدثنا القاسم، قال: ثنا الحسين، قال: ثني حجاج، عن ابن جريج، عن مجاهد، مثله.
+
+⁕ حدثنا ابن بشار، قال: ثنا عبد الرحمن، قال. حدثنا سفيان، عن منصور، عن إبراهيم: ﴿لَكُمْ فِيها خَيْرٌ﴾ قال: اللبن والركوب إذا احتاج.
+
+⁕ حدثنا عبد الحميد بن بيان، قال: أخبرنا إسحاق، عن شريك، عن منصور، عن إبراهيم: ﴿لَكُمْ فِيها خَيْرٌ﴾ قال: إذا اضطررت إلى بدنتك ركبتها وشربت لبنها.
+
+⁕ حدثنا ابن حميد، قال: ثنا جرير، عن منصور، عن إبراهيم: ﴿لَكُمْ فِيها خَيْرٌ﴾ من احتاج إلى ظهر البدنة ركب، ومن احتاج إلى لبنها شرب.
+
+* *
+
+وقوله: ﴿فاذْكُرُوا اسْمَ اللهِ عَلَيْها صَوَافَّ﴾
+
+يقول تعالى ذكره: فاذكروا اسم الله على البدن عند نحركم إياها صوافّ.
+
+واختلفت القرّاء في قراءة ذلك، فقرأته عامة قرّاء الأمصار ﴿فاذْكُرُوا اسْمَ اللهِ عَلَيْها صَوَافَّ﴾ بمعنى مصطفة، واحدها: صافة، وقد صفت بين أيديها. ورُوي عن الحسن ومجاهد وزيد بن أسلم وجماعة أُخر معهم، أنهم قرءوا ذلك. "صَوَافِيَ" بالياء منصوبة، بمعنى: خالصة لله لا شريك له فيها صافية له.
+
+وقرأ بعضهم ذلك: "صَوَاف" بإسقاط الياء وتنوين الحرف، على مثال: عوار وعواد. وروي عن ابن مسعود أنه قرأه: "صَوَافِنّ" بمعنى: معقلة.
+
+والصواب من القراءة في ذلك عندي قراءة من قرأه بتشديد الفاء ونصبها، لإجماع الحجة من القرّاء عليه بالمعنى الذي ذكرناه لمن قرأه كذلك.
+
+ذكر من تأوّله بتأويل من قرأه بتشديد الفاء ونصبها:- حدثنا أبو كريب، قال: ثنا جابر بن نوح، عن الأعمش، عن أبي ظبيان، عن ابن عباس، في قوله: ﴿فاذْكُرُوا اسْمَ اللهِ عَلَيْها صَوَافَّ﴾ قال: الله أكبر الله أكبر، اللهمّ منك ولك. صوافّ: قياما على ثلاث أرجل. فقيل لابن عباس: ما نصنع بجلودها؟ قال: تصدّقوا بها، واستمتعوا بها.
+
+⁕ حدثني محمد بن عبد الله بن عبد الحكم، قال: ثنا أيوب بن سويد، قال: ثنا سفيان، عن الأعمش، عن أبي ظبيان، عن ابن عباس، في قوله: ﴿صَوَافَّ﴾ قال: قائمة، قال: يقول: الله أكبر، لا إله إلا الله، اللهمّ منك ولك.
+
+⁕ حدثني محمد بن المثنى، قال: ثنا ابن أبي عديّ، عن شعبة، عن سليمان، عن أبي ظبيان، عن ابن عباس: ﴿فاذْكُرُوا اسْمَ اللهِ عَلَيْها صَوَافَّ﴾ قال: قياما على ثلاث قوائم معقولة باسم الله، اللهم أكبر، اللهمّ منك ولك.
+
+⁕ حدثني يعقوب، قال: ثنا هشيم، قال: أخبرنا حصين، عن مجاهد، عن ابن عباس، في قوله: ﴿صَوَافَّ﴾ قال: معقولة إحدى يديها، قال: قائمة على ثلاث قوائم.
+
+⁕ حدثني عليّ، قال: ثنا عبد الله، قال: ثني معاوية، عن عليّ، عن ابن عباس، في قوله: ﴿فاذْكُرُوا اسْمَ اللهِ عَلَيْها صَوَافَّ﴾ يقول: قياما.
+
+⁕ حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس، قوله: ﴿فَاذْكُرُوا اسْمَ اللَّهِ عَلَيْهَا صَوَافَّ﴾ والصواف: أن تعقل قائمة واحدة، وتصفها على ثلاث فتنحرها كذلك.
+
+⁕ حدثنا يعقوب، قال: ثنا هشيم، قال: أخبرنا يعلى بن عطاء، قال: أخبرنا بجير بن سالم، قال: رأيت ابن عمر وهو ينحر بدنته، قال: فقال: ﴿صَوَافَّ﴾ كما قال الله، قال: فنحرها وهي قائمة معقولة إحدى يديها.
+
+⁕ حدثنا أبو كريب، قال: ثنا ابن إدريس، قال: أخبرنا ليث، عن مجاهد، قال: الصَّوافّ: إذا عقلت رجلها وقامت على ثلاث.
+
+⁕ قال: ثنا ليث، عن مجاهد، في قوْله: ﴿فَاذْكُرُوا اسْمَ اللَّهِ عَلَيْهَا صَوَافَّ﴾ قال: صوافّ بين أوظافها.
+
+⁕ حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى - وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء جميعا، عن ابن أبي نجيح، عن مجاهد: ﴿صَوَافّ﴾ قال: قيام صواف على ثلاث قوائم.
+
+- حدثنا القاسم، قال: ثنا الحسين، قال: ثني حجاج، عن ابن جريج، عن مجاهد: ﴿فَاذْكُرُوا اسْمَ اللَّهِ عَلَيْهَا صَوَافَّ﴾ قال: بين وظائفها قياما.
+
+⁕ حدثنا ابن البرقي، قال: ثنا ابن أبي مريم، قال: أخبرنا يحيى بن أيوب، عن خالد بن يزيد، عن ابن أبي هلال، عن نافع، عن عبد الله: أنه كان ينحر البُدن وهي قائمة مستقبلة البيت تصفّ أيديها بالقيود، قال: هي التي ذكر الله: ﴿فَاذْكُرُوا اسْمَ اللَّهِ عَلَيْهَا صَوَافَّ﴾ .
+
+⁕ حدثنا ابن حميد، قال: ثني جرير، عن منصور، عن رجل، عن أبي ظبيان، عن ابن عباس، قال: قلت له: قول الله ﴿فَاذْكُرُوا اسْمَ اللَّهِ عَلَيْهَا صَوَافَّ﴾ قال: إذا أردت أن تنحر البدنة فانحرها، وقل: الله أكبر، لا إله إلا الله، اللهم منك ولك، ثم سم ثم انحرها. قلت: فأقول ذلك للأضحية، قال: وللأضحية.
+
+ذكر من تأوّله بتأويل من قرأه: "صَوَافِيَ" بالياء: حدثنا ابن عبد الأعلى، قال: ثنا المعتمر، عن أبيه، عن الحسن أنه قال: " فاذْكُرُوا اسْمَ اللهِ عَلَيْها صَوَافِيَ" قال: مخلصين.
+
+⁕ قال: ثنا ابن ثور، عن معمر، قال: قال الحسن: "صَوَافِيَ": خالصة.
+
+⁕ حدثنا الحسن، قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر، قال: قال الحسن: "صَوَافِيَ": خالصة لله.
+
+⁕ حدثنا ابن بشار، قال: ثنا عبد الرحمن، قال: ثنا سفيان، عن قيس بن مسلم، عن شقيق الضبي: " فاذْكُرُوا اسْمَ اللهِ عَلَيْها صَوَافِيَ" قال: خالصة.
+
+⁕ قال: ثنا عبد الرحمن، قال: ثنا أيمن بن نابل، قال: سألت طاوسا عن قوله: " فاذْكُرُوا اسْمَ اللهِ عَلَيْها صَوَافِيَ" قال: خالصا.
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله: " فاذْكُرُوا اسْمَ اللهِ عَلَيْها صَوَافِيَ" قال: خالصة ليس فيها شريك كما كان المشركون يفعلون، يجعلون لله ولآلهتهم صوافي صافية لله تعالى.
+
+ذكر من تأوّله بتأويل من قرأه "صَوَافِنَ": حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قَتادة: في حرف ابن مسعود: " فاذْكُرُوا اسْمَ اللهِ عَلَيْها صَوَافِنَ": أي معقلة قياما.
+
+⁕ حدثنا الحسن، قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر، عن قتادة: في حرف ابن مسعود: " فاذْكُرُوا اسْمَ اللهِ عَلَيْها صَوَافِنَ" قال: أي معقلة قياما.
+
+⁕ حدثنا ابن بشار، قال: ثنا عبد الرحمن، قال: ثنا سفيان، عن منصور، عن مجاهد، قال: من قرأها "صَوَافِنَ" قال: معقولة. قال: ومن قرأها: ﴿صَوَافَّ﴾ قال: تصفُّ بين يديها.
+
+⁕ حُدثت عن الحسين، قال: سمعت أبا معاذ يقول: أخبرنا عبيد، قال: سمعت الضحاك يقول في قوله: " فاذْكُرُوا اسْمَ اللهِ عَلَيْها صَوَافَّ" يعني صوافن، والبدنة إذا نحرت عقلت يد واحدة، فكانت على ثلاث، وكذلك تنحر.
+
+قال أبو جعفر: وقد تقدم بيان أولى هذه الأقوال بتأويل قوله: ﴿صَوَافَّ﴾ وهي المصطفة بين أيديها المعقولة إحدى قوائمها.
+
+* *
+
+وقوله: ﴿فَإِذَا وَجَبَتْ جُنُوبُهَا﴾
+
+يقول: فإذا سقطت فوقعت جنوبها إلى الأرض بعد النحر، ﴿فَكُلُوا مِنْهَا﴾ وهو من قولهم: قد وجبت الشمس: إذا غابت فسقطت للتغيب، ومنه قول أوس بن حجر:
+
+ألَمْ تُكْسَفِ الشَّمْسُ والبَدْرُ ... والْكَواكِبُ للْجَبَلِ الوِّاجِبِ [[البيت لأوس بن حجر كما قال المؤلف. والجبل هنا: يريد به رجلا عظيما، والواجب الذي مات. قال في (اللسان / وجب) ووجب الرجل وجبا: مات، قال قيس بن الخطيم يصف حربا وقعت بين الأوس والخزرج في يوم بعاث وأن مقدم بني عوف وأميرهم لج في المحاربة، ونهى بني عوف عن السلم حتى كان أول قتيل: أطاعت بنو عوف أميرا نهاهم ... عن السلم حتى كان أول واجب
+
+وبيت أوس بن حجر شاهد على أن قوله تعالى: (فإذا وجبت جنوبها) معناه: فإذا سقطت فوقعت جنوبها على الأرض بعد النحر، فكلوا منها. أه.]] يعني بالواجب: الواقع.
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:- حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثني عيسى؛ وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء جميعا، عن ابن أبي نجيح، عن مجاهد: ﴿فَإِذَا وَجَبَتْ جُنُوبُهَا﴾ سقطت إلى الأرض.
+
+⁕ حدثنا القاسم، قال: ثنا الحسين، قال: ثني حجاج، عن ابن جُرَيج، عن مجاهد، مثله.
+
+⁕ حدثنا ابن حميد، قال: ثنا سلمة، عن ابن إسحاق، في قوله: ﴿فَإِذَا وَجَبَتْ جُنُوبُهَا﴾ قال: إذا فرغت ونُحِرت.
+
+⁕ حدثني محمد بن عمارة، قال: ثنا عبيد الله بن موسى، قال: أخبرنا إسرائيل، عن أبي يحيى، عن مجاهد: ﴿فَإِذَا وَجَبَتْ﴾ نحرت.
+
+⁕ حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس، قوله: ﴿فَإِذَا وَجَبَتْ جُنُوبُهَا﴾ قال: إذا نحرت.
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله: ﴿فَإِذَا وَجَبَتْ جُنُوبُهَا﴾ قال: فإذا ماتت.
+
+* *
+
+وقوله: ﴿فَكُلُوا مِنْهَا﴾
+
+وهذا مخرجه مخرج الأمر ومعناه الإباحة والإطلاق؛ يقول الله: فإذا نحرت فسقطت ميتة بعد النحر فقد حل لكم أكلها، وليس بأمر إيجاب.
+
+وكان إبراهيم النخعي يقول في ذلك ما:- حدثنا محمد بن بشار، قال: ثنا عبد الرحمن، قالا ثنا سفيان، عن منصور، عن إبراهيم، قال: المشركون كانوا لا يأكلون من ذبائحهم، فرخص للمسلمين، فأكلوا منها، فمن شاء أكل ومن شاء لم يأكل.
+
+⁕ حدثنا ابن بشار، قال: ثنا مؤمل، قال: ثنا سفيان، عن حصين، عن مجاهد، قال: إن شاء أكل وإن شاء لم يأكل، فهي بمنزلة: ﴿وَإِذَا حَلَلْتُمْ فَاصْطَادُوا﴾ .
+
+⁕ حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس: ﴿فَكُلُوا مِنْهَا وَأَطْعِمُوا الْقَانِعَ وَالْمُعْتَرَّ﴾ يقول: يأكل منها ويطعم.
+
+⁕ حدثنا القاسم، قال: ثنا الحسين، قال: ثنا هشيم، قال: أخبرنا يونس، عن الحسن. وأخبرنا مغيرة، عن إبراهيم، وأخبرنا حجاج، عن عطاء. وأخبرنا حصين، عن مجاهد، في قوله: ﴿فَكُلُوا مِنْهَا﴾ قال: إن شاء أكل وإن شاء لم يأكل، قال مجاهد: هي رخصة، هي كقوله: ﴿فَإِذَا قُضِيَتِ الصَّلاةُ فَانْتَشِرُوا فِي الأرْضِ﴾ ومثل قوله: ﴿وَإِذَا حَلَلْتُمْ فَاصْطَادُوا﴾ ، وقوله: ﴿وَأَطْعِمُوا الْقَانِعَ وَالْمُعْتَرَّ﴾ يقول: فأطعموا منها القانع.
+
+واختلف أهل التأويل في المعنّي بالقانع والمعترّ، فقال بعضهم: القانع الذي يقنع بما أعطي أو بما عنده ولا يسأل، والمعترّ: الذي يتعرّض لك أن تطعمه من اللحم ولا يسأل.
+
+ذكر من قال ذلك:- حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس، في قوله: ﴿وَأَطْعِمُوا الْقَانِعَ وَالْمُعْتَرَّ﴾ قال: القانع: المستغني بما أعطيته وهو في بيته، والمعترّ: الذي يتعرّض لك ويلمّ بك أن تطعمه من اللحم ولا يسأل. وهؤلاء الذين أمر أن يطعموا من البُدن.
+
+⁕ حدثني يعقوب، قال: ثنا ابن علية، عن ليث، عن مجاهد، قال: القانع: جارك الذي يقنع بما أعطيته، والمعترّ: الذي يتعرض لك ولا يسألك.
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: أخبرني أبو صخر، عن القرظي أنه كان يقول في هذه الآية: ﴿وَأَطْعِمُوا ال
+
+[TRUNCATED at 12000 chars — 6471 more. Consult the source directly before relying on anything near the cut.]
 
 ### al-Muyassar (Arabic)
 
@@ -32,6 +300,6 @@ Here Allah reminds His servants of the blessing which He has bestowed on His s..
 
 ### al-Jalalayn (Arabic)
 
-﴿والبُدْن﴾ جَمْع بَدَنَة: وهِيَ الإبِل ﴿جَعَلْناها لَكُمْ مِن شَعائِر اللَّه﴾ أعْلام دِينه ﴿لَكُمْ فِيها خَيْر﴾ نَفْع فِي الدُّنْيا كَما تَقَدَّمَ وأَجْر فِي العُقْبى ﴿فاذْكُرُوا اسْم اللَّه عَلَيْها﴾ عِنْد نَحْرها ﴿صَوافّ﴾ قائِمَة عَلى ثَلاث مَعْقُولَة اليَد اليُسْرى ﴿فَإذا وجَبَتْ جُنُوبها﴾ سَقَطَتْ إلى الأَرْض بَعْد النَّحْر وهُوَ وقْت الأَكْل مِنها ﴿فَكُلُوا مِنها﴾ إنْ شِئْتُمْ ﴿وأَطْعِمُوا القانِع﴾ الَّذِي يَقْنَع بِما يُعْطى ولا يَسْأَل ولا يَتَعَرَّض ﴿والمُعْتَرّ﴾ والسّائِل أوْ المُتَع...
+﴿والبُدْن﴾ جَمْع بَدَنَة: وهِيَ الإبِل ﴿جَعَلْناها لَكُمْ مِن شَعائِر اللَّه﴾ أعْلام دِينه ﴿لَكُمْ فِيها خَيْر﴾ نَفْع فِي الدُّنْيا كَما تَقَدَّمَ وأَجْر فِي العُقْبى ﴿فاذْكُرُوا اسْم اللَّه عَلَيْها﴾ عِنْد نَحْرها ﴿صَوافّ﴾ قائِمَة عَلى ثَلاث مَعْقُولَة اليَد اليُسْرى ﴿فَإذا وجَبَتْ جُنُوبها﴾ سَقَطَتْ إلى الأَرْض بَعْد النَّحْر وهُوَ وقْت الأَكْل مِنها ﴿فَكُلُوا مِنها﴾ إنْ شِئْتُمْ ﴿وأَطْعِمُوا القانِع﴾ الَّذِي يَقْنَع بِما يُعْطى ولا يَسْأَل ولا يَتَعَرَّض ﴿والمُعْتَرّ﴾ والسّائِل أوْ المُتَعَرِّض ﴿كَذَلِكَ﴾ أيْ مِثْل ذَلِكَ التَّسْخِير ﴿سَخَّرْناها لَكُمْ﴾ بِأَنْ تُنْحَر وتُرْكَب وإلّا لَمْ تُطِقْ ﴿لَعَلَّكُمْ تَشْكُرُونَ﴾ إنْعامِي عَلَيْكُمْ
 
 ---

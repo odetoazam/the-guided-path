@@ -1,6 +1,6 @@
 # Tafsir Cross-Reference Report
 
-Generated: 2026-07-15
+Generated: 2026-07-30
 Ayahs referenced: 1
 Tafsir sources: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), al-Jalalayn (Arabic)
 
@@ -10,13 +10,147 @@ Tafsir sources: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), 
 
 ### Ibn Kathir (English)
 
-And when harm touches men, they cry sincerely only to their Lord, turning to Him in repentance; but when He gives them a taste of His mercy, behold, a party of them associates partners in worship with their Lord (33)So as to be ungrateful for the graces which We have bestowed on them. Then enjoy; but you will come to know (34)Or have We revealed to them an authority, which speaks of that which they have been associating with Him (35)And when We cause mankind to taste of mercy, they rejoice th...
+And when harm touches men, they cry sincerely only to their Lord, turning to Him in repentance; but when He gives them a taste of His mercy, behold, a party of them associates partners in worship with their Lord (33)So as to be ungrateful for the graces which We have bestowed on them. Then enjoy; but you will come to know (34)Or have We revealed to them an authority, which speaks of that which they have been associating with Him (35)And when We cause mankind to taste of mercy, they rejoice therein; but when some evil afflicts them because of what their hands have sent forth, behold, they are in despair (36)Do they not see that Allah expands the provision for whom He wills and straitens (it for whom He wills). Verily, in that are indeed signs for a people who believe (37)
+
+How man sways between Tawhid and Shirk, and between Joy and Despair, according to His Circumstances
+
+Allah tells us that when man is in dire straits, he calls upon Allah alone with no partner or associate, then when times of ease come and they have the choice, some people associate others with Allah and worship others alongside Him.
+
+لِيَكْفُرُوا بِمَا آتَيْنَاهُمْ ۚ
+
+(So as to be ungrateful for the graces which We have bestowed on them.) Then Allah warns them by saying:
+
+فَسَوْفَ تَعْلَمُونَ
+
+(but you will come to know.) One of them said: By Allah, if a law enforcment officer were to say this to me, I would be afraid, so how about when the One Who is issuing the warning is the One Who merely says to a thing "Be!" and it is?
+
+Then Allah denounces the idolators for fabricating lies and worshipping others instead of Him with no evidence or proof:
+
+أَمْ أَنْزَلْنَا عَلَيْهِمْ سُلْطَانًا
+
+(Or have We revealed to them an authority,) means, proof.
+
+فَهُوَ يَتَكَلَّمُ
+
+(which speaks) means, tells
+
+بِمَا كَانُوا بِهِ يُشْرِكُونَ
+
+(of that which they have been associating with Him) This is a rhetorical question intended to denounce them, for they have no such thing.
+
+وَإِذَا أَذَقْنَا النَّاسَ رَحْمَةً فَرِحُوا بِهَا ۖ وَإِنْ تُصِبْهُمْ سَيِّئَةٌ بِمَا قَدَّمَتْ أَيْدِيهِمْ إِذَا هُمْ يَقْنَطُونَ
+
+(And when We cause mankind to taste of mercy, they rejoice therein; but when some evil afflicts them because of what their hands have sent forth, behold, they are in despair!) This is a denunciation of man for the way he is, except for those whom Allah protects and helps, for when man is given blessings, he is proud, and says:
+
+ذَهَبَ السَّيِّئَاتُ عَنِّي ۚ إِنَّهُ لَفَرِحٌ فَخُورٌ
+
+("Ills have departed from me." Surely, he is exultant, and boastful.)(11:10) He rejoices over himself and boasts to others, but when difficulties befall him, He despairs of ever having anything good again. Allah says:
+
+إِلَّا الَّذِينَ صَبَرُوا وَعَمِلُوا الصَّالِحَاتِ
+
+(Except those who show patience and do righteous good deeds). They are patient during times of difficulty and do good deeds at times of ease. It was reported in the Sahih:
+
+عَجَبًا لِلْمُؤْمِنِ لَا يَقْضِي اللهُ لَهُ قَضَاءً إِلَّا كَانَ خَيْرًا لَهُ، إِنْ أَصَابَتْهُ سَرَّاءُ شَكَرَ فَكَانَ خَيْرًا لَهُ، وَإِنْ أَصَابَتْهُ ضَرَّاءُ صَبَرَ فَكَانَ خَيْرًا لَهُ
+
+(How wonderful is the affair of the believer. Allah does not decree anything for him but it is good for him. If good things happen to him, he gives thanks, and that is good for him; and if bad things happen to him, he bears that with patience, and that is good for him.)
+
+أَوَلَمْ يَرَوْا أَنَّ اللَّهَ يَبْسُطُ الرِّزْقَ لِمَنْ يَشَاءُ وَيَقْدِرُ ۚ
+
+(Do they not see that Allah expands the provision for whom He wills and straitens (it for whom He wills).) He is the One Who is controlling and doing that, by His wisdom and justice, so He expands the provision for some people and restricts it for some.
+
+إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِقَوْمٍ يُؤْمِنُونَ
+
+(Verily, in that are indeed signs for a people who believe.)
 
 ### al-Tabari (Arabic)
 
 القول في تأويل قوله تعالى: ﴿أَوَلَمْ يَرَوْا أَنَّ اللَّهَ يَبْسُطُ الرِّزْقَ لِمَنْ يَشَاءُ وَيَقْدِرُ إِنَّ فِي ذَلِكَ لآيَاتٍ لِقَوْمٍ يُؤْمِنُونَ (٣٧) ﴾
 
-يقول تعالى ذكره: أولم ير هؤلاء الذين يفرحون عند الرخاء يصيبهم والخصب، وييأسون من الفرج عند شدّة تنالهم، بعيون قلوبهم، فيعلموا أن الشدّة والرخاء بيد الله، وأن الله يبسط الرزق لمن يشاء من عباده فيوسعه عليه، ويقدر على من أراد فيضيقه عليه ﴿إنَّ فِي ذلكَ لآياتٍ لِقَوْمٍ يُؤمِنُونَ﴾ يقول: إن في بسطه ذلك على من بسطه عليه، وقدره على من قدره عليه...
+يقول تعالى ذكره: أولم ير هؤلاء الذين يفرحون عند الرخاء يصيبهم والخصب، وييأسون من الفرج عند شدّة تنالهم، بعيون قلوبهم، فيعلموا أن الشدّة والرخاء بيد الله، وأن الله يبسط الرزق لمن يشاء من عباده فيوسعه عليه، ويقدر على من أراد فيضيقه عليه ﴿إنَّ فِي ذلكَ لآياتٍ لِقَوْمٍ يُؤمِنُونَ﴾ يقول: إن في بسطه ذلك على من بسطه عليه، وقدره على من قدره عليه، ومخالفته بين من خالف بينه من عباده في الغنى والفقر، لدلالة واضحة لمن صدّق حجج الله وأقرّ بها إذا عاينها ورآها.
+
+* *
+
+القول في تأويل قوله تعالى: ﴿فَآتِ ذَا الْقُرْبَى حَقَّهُ وَالْمِسْكِينَ وَابْنَ السَّبِيلِ ذَلِكَ خَيْرٌ لِلَّذِينَ يُرِيدُونَ وَجْهَ اللَّهِ وَأُولَئِكَ هُمُ الْمُفْلِحُونَ (٣٨) ﴾
+
+يقول تعالى ذكره لنبيه محمد ﷺ: فأعط يا محمد ذا القرابة منك حقه عليك من الصلة والبرّ، والمسكين وابن السبيل، ما فرض الله لهما في ذلك.
+
+كما:-
+
+⁕ حدثنا ابن وكيع، قال: ثنا غندر، عن عوف، عن الحسن ﴿فآت ذَا القُرْبَى حَقَّهُ وَالمِسكينَ وَابْنَ السَّبِيلِ﴾ قال: هو أن توفيهم حقهم إن كان عند يسر، وإن لم يكن عندك؛ فقل لهم قولا ميسورا، قل لهم الخير.
+
+* *
+
+وقوله: ﴿ذَلِكَ خَيْرٌ لِلَّذِينَ يُرِيدُونَ وَجْهَ اللَّهِ﴾
+
+يقول تعالى ذكره: إيتاء هؤلاء حقوقهم التي ألزمها الله عباده، خير للذين يريدون الله بإتيانهم ذلك ﴿وأُولَئِكَ هُمُ المُفْلِحُونَ﴾ يقول: ومن يفعل ذلك مبتغيا وجه الله به، فأولئك هم المنجحون، المدركون طلباتهم عند الله، الفائزون بما ابتغوا والتمسوا بإيتائهم إياهم ما آتوا.
+
+* *
+
+القول في تأويل قوله تعالى: ﴿وَمَا آتَيْتُمْ مِنْ رِبًا لِيَرْبُوَ فِي أَمْوَالِ النَّاسِ فَلا يَرْبُو عِنْدَ اللَّهِ وَمَا آتَيْتُمْ مِنْ زَكَاةٍ تُرِيدُونَ وَجْهَ اللَّهِ فَأُولَئِكَ هُمُ الْمُضْعِفُونَ (٣٩) ﴾
+
+يقول تعالى ذكره: وما أعطيتم أيها الناس، بعضكم بعضا من عطية؛ لتزداد في أموال الناس برجوع ثوابها إليه، ممن أعطاه ذلك، ﴿فَلا يَرْبُو عِنْدَ اللهِ﴾ ، يقول: فلا يزداد ذلك عند الله، لأن صاحبه لم يعطه من أعطاه مبتغيا به وجهه ﴿وَما آتَيْتمْ مِنْ زَكاةٍ﴾ يقول: وما أعطيتم من صدقة تريدون بها وجه الله، ﴿فَأُوْلَئِكَ﴾ يعني الذين يتصدّقون بأموالهم، ملتمسين بذلك وجه الله ﴿هُمُ المُضْعِفُونَ﴾ يقول: هم الذين لهم الضعف من الأجر والثواب. من قول العرب: أصبح القوم مسمِنين معطِشين، إذا سمنت إبلهم وعطشت.
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس قوله: ﴿وَما آتَيْتُمْ مِنْ رِبا لِيَرْبُوَ فِي أمْوَالِ النَّاسِ فَلا يَرْبُو عِنْدَ اللهِ﴾ قال: هو ما يعطي الناس بينهم بعضهم بعضا، يعطي الرجل الرجل العطية، يريد أن يعطى أكثر منها.
+
+⁕ حدثنا ابن بشارة، قال: ثنا عبد الرحمن، قال: ثنا سفيان، عن منصور بن صفية، عن سعيد بن جُبَير ﴿وَما آتَيْتُمْ مِنْ رِبا لِيَرْبُوَ فِي أمْوالِ النَّاسِ﴾ قال: هو الرجل يعطي الرجل العطية ليثيبه.
+
+⁕ قال: ثنا يحيى، قال ثنا سفيان، عن منصور بن صفية، عن سعيد بن جُبَير، مثله.
+
+⁕ حدثنا ابن وكيع، قال: ثني أبي، عن سفيان، عن منصور بن صفية، عن سعيد بن جُبَير ﴿وَما آتَيْتُمْ مِنْ رِبا لِيَرْبُوَ فِي أموَال النَّاس فَلا يَرْبُو عِنْدَ اللهِ﴾ قال: الرجل يعطي ليثاب عليه.
+
+⁕ حدثنا ابن بشار، قال: ثنا يحيى بن سعيد، قال: ثنا سفيان، عن ابن أبي نجيح، عن مجاهد ﴿وَما آتَيْتُمْ مِنْ رِبا لِيَرْبُو فِي أمْوَال النَّاسِ﴾ قال: الهدايا.
+
+⁕ حدثنا ابن وكيع، قال: ثني أبي، قال: ثنا سفيان، عن ابن أبي نجيح، عن مجاهد قال: هي الهدايا.
+
+⁕ حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى، وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء، جميعا عن ابن أبي نجيح، عن مجاهد ﴿وَما آتَيْتُمْ مِنْ رِبا لِيَرْبُو فِي أمْوَالِ النَّاسِ﴾ قال: يعطي ماله يبتغي أفضل منه.
+
+⁕ حدثنا ابن وكيع، قال: ثنا ابن فضيل، عن ابن أبي خالد، عن إبراهيم، قال: هو الرجل يهدي إلى الرجل الهدية؛ ليثيبه أفضل منها.
+
+⁕ قال: ثنا محمد بن حميد المعمري، عن معمر، عن ابن طاوس، عن أبيه: هو الرجل يعطي العطية، ويهدي الهدية، ليثاب أفضل من ذلك، ليس فيه أجر ولا وزر.
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قَتادة ﴿وَما آتَيْتُمْ مِنْ رِبا لِيرْبُوَ فِي أمْوَالِ النَّاس فَلا يَرْبُو عِنْدَ اللهِ﴾ قال: ما أعطيت من شيء تريد مثابة الدنيا، ومجازاة الناس ذاك الربا الذي لا يقبله الله، ولا يجزي به.
+
+⁕ حُدثت عن الحسين، قال: سمعت أبا معاذ يقول: أخبرنا عبيد، قال: سمعت الضحاك يقول في قوله: ﴿وَما آتَيْتُمْ مِنْ رِبا لِيَرْبُوَ فِي أمْوَالِ النَّاسِ﴾ فهو ما يتعاطى الناس بينهم ويتهادون، يعطي الرجل العطية؛ ليصيب منه أفضل منها، وهذا للناس عامة.
+
+وأما قوله: ﴿وَلا تَمْنُنْ تَسْتَكْثِرُ﴾ فَهذَا للنبيّ خاصة، لم يكن له أن يعطي إلا لله، ولم يكن يعطي ليعطى أكثر منه.
+
+وقال آخرون: إنما عنى بهذا الرجل: يعطي ماله الرجل ليعينه بنفسه، ويخدمه، ويعود عليه نفعه، لا لطلب أجر من الله.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا ابن وكيع، قال: ثنا أبي ومحمد بن فضيل، عن زكريا، عن عامر ﴿وَما آتَيْتُمْ مِنْ رِبا لِيَرْبُوَ فِي أمْوَال النَّاسِ﴾ قال: هو الرجل يلزق بالرجل، فيخفّ له ويخدمه، ويسافر معه، فيجعل له ربح بعض ماله ليجزيه، وإنما أعطاه التماس عونه، ولم يرد وجه الله.
+
+وقال آخرون: هو إعطاء الرجل ماله ليكثر به مال من أعطاه ذلك، لا طلب ثواب الله.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا ابن حميد، قال: ثنا جرير، عن مغيرة، عن أبي حصين، عن ابن عباس ﴿وَما آتَيْتُمْ مِنْ رِبًا لِيَرْبُوَ فِي أمْوَال النَّاسِ﴾ قال: ألم تر إلى الرجل يقول للرجل: لأموّلنك، فيعطيه، فهذا لا يربو عند الله؛ لأنه يعطيه لغير الله ليثري ماله.
+
+⁕ قال ثنا عمرو بن عبد الحميد الآملي، قال: ثنا مروان بن معاوية، عن إسماعيل بن أبي خالد، قال: سمعت إبراهيم النخعي يقول في قوله: ﴿وَما آتَيْتُمْ مِنْ رِبًا لِيَرْبُوَ فِي أمْوَال النَّاسِ فَلا يَرْبُو عِندَ اللهِ﴾ قال: كان هذا في الجاهلية، يعطي أحدهم ذا القرابة المال يكثر به ماله.
+
+وقال آخرون: ذلك للنبيّ ﷺ خاصة، وأما لغيره فحلال.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا ابن وكيع، قال: ثنا أبي، عن أبي روّاد، عن الضحاك ﴿وَما آتَيْتُمْ مِنْ رِبا لِيَرْبُوَ فِي أمْوَال النَّاسِ فَلا يَرْبُو عِنْدَ اللهِ﴾ هذا للنبيّ ﷺ، هذا الربا الحلال.
+
+وإنما اخترنا القول الذي اخترناه في ذلك؛ لأنه أظهر معانيه.
+
+واختلفت القرّاء في قراءة ذلك، فقرأته عامة قرّاء الكوفة والبصرة وبعض أهل مكة، ﴿لِيَرْبُو﴾ بفتح الياء من يربو، بمعنى: وما آتيتم من ربا ليربو ذلك الربا في أموال الناس، وقرأ ذلك عامة قرّاء أهل المدينة: ﴿لِتَرْبُوا﴾ بالتاء من تربوا وضمها، بمعنى: وما آتيتم من ربا لتربوا أنتم في أموال الناس.
+
+والصواب من القول في ذلك عندنا، أنهما قراءتان مشهورتان في قرّاء الأمصار مع تقارب معنييهما؛ لأن أرباب المال إذا أربوا ربا المال، وإذا ربا المال فبإرباء أربابه إياه ربا، فإذا كان ذلك كذلك، فبأيّ القراءتين قرأ القارئ فمصيب.
+
+وأما قوله: ﴿وَما آتَيْتُمْ مِنْ زَكاةٍ تُرِيدُونَ وَجْهَ اللهِ فَأُولَئِكَ هُمُ المُضعِفُونَ﴾ فإن أهل التأويل قالوا في تأويله نحو الذي قلنا.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قَتادة قوله: ﴿وَما آتَيْتُمْ مِنْ زَكاةٍ تُرِيدون وَجْهَ اللهِ فَأُولَئِكَ هُمُ المُضْعِفُونَ﴾ قال: هذا الذي يقبله الله ويضعفه لهم عشر أمثالها، وأكثر من ذلك.
+
+⁕ حدثنا عن عبد الرزاق، قال: أخبرنا معمر، عن قَتادة، قال: قال ابن عباس قوله: ﴿وَما آتيتُمْ مِنْ رِبا ليَرْبُوَ فِي أمْوَالِ النَّاسِ فَلا يَرْبُو عِنْدَ اللهِ﴾ قال: هي الهبة، يهب الشيء يريد أن يُثاب عليه أفضل منه، فذلك الذي لا يربو عند الله، لا يؤجر فيه صاحبه، ولا إثم عليه ﴿وَما آتَيْتُمْ مِنْ زَكاةٍ﴾ قال: هي الصدقة تريدون وجه الله ﴿فَأُولَئِكَ هُمُ المُضْعِفونَ﴾ قال معمر: قال ابن أبي نجيح، عن مجاهد، مثل ذلك.
 
 ### al-Muyassar (Arabic)
 

@@ -1,6 +1,6 @@
 # Tafsir Cross-Reference Report
 
-Generated: 2026-04-07
+Generated: 2026-07-30
 Ayahs referenced: 2
 Tafsir sources: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), al-Jalalayn (Arabic)
 
@@ -10,14 +10,67 @@ Tafsir sources: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), 
 
 ### Ibn Kathir (English)
 
-Our Prophet was sent to recite and call to Allah's Revelation
-Allah says, `Just as We sent you, O Muhammad, to your Ummah,
-لِّتَتْلُوَ عَلَيْهِمُ الَّذِى أَوْحَيْنَآ إِلَيْكَ
-(..in order that you might recite unto them what We have revealed to you,) so that you deliver to them Allah's Message. Likewise, We sent others to earlier nations that disbelieved in Allah. The Messengers whom We sent before you, were also denied and rejected, so you have an example in what they faced. And since We sent...
+Thus have We sent you to a community before whom other communities have passed away, in order that you might recite unto them what We have revealed to you, while they disbelieve in the Most Gracious (Allah). Say: "He is my Lord! None has the right to be worshipped but He! In Him is my trust, and to Him I turn. (30)
+
+Our Prophet (ﷺ) was sent to recite and call to Allah's Revelation
+
+Allah says, 'Just as We sent you, O Muhammad, to your Ummah,
+
+لِّتَتْلُوَ عَلَيْهِمُ الَّذِي أَوْحَيْنَا إِلَيْكَ
+
+(..in order that you might recite unto them what We have revealed to you,) so that you deliver to them Allah's Message. Likewise, We sent others to earlier nations that disbelieved in Allah. The Messengers whom We sent before you, were also denied and rejected, so you have an example in what they faced. And since We sent Our torment and revenge on those people, then let these people fear what will strike them, for their denial of you is harsher than the denial that the previous Messengers faced,'
+
+تَاللَّهِ لَقَدْ أَرْسَلْنَا إِلَىٰ أُمَمٍ مِّن قَبْلِكَ
+
+(By Allah, We indeed sent (Messengers) to the nations before you.)[16:63] Allah said in another Ayah,
+
+وَلَقَدْ كُذِّبَتْ رُسُلٌ مِّن قَبْلِكَ فَصَبَرُوا عَلَىٰ مَا كُذِّبُوا وَأُوذُوا حَتَّىٰ أَتَاهُمْ نَصْرُنَا ۚ وَلَا مُبَدِّلَ لِكَلِمَاتِ اللَّهِ ۚ وَلَقَدْ جَاءَكَ مِن نَّبَإِ الْمُرْسَلِينَ
+
+(Verily, many Messengers were denied before you, with patience they bore the denial and suffering until; till Our help reached them, and none can alter the Words (decree) of Allah. Surely, there has reached you the information (news) about the Messengers (before you).)[6:34], meaning, 'How We gave them victory and granted the best end for them and their followers in this life and the Hereafter. ' Allah said next,
+
+وَهُمْ يَكْفُرُونَ بِالرَّحْمَٰنِ
+
+(while they disbelieve in the Most Gracious (Allah).) Allah says, 'These people, that We sent you to, disbelieve in the Most Gracious and deny Him, because they dislike describing Allah by Ar-Rahman Ar-Rahim [the Most Gracious, Most Merciful].' This is why on the day of Al-Hudaybiyyah, as Al-Bukhari narrated, they refused to write, "In the Name of Allah, Ar-Rahman Ar-Rahim," saying, "We do not know Ar-Rahman Ar-Rahim!" Qatadah narrated this words. Allah the Exalted said,
+
+قُلِ ادْعُوا اللَّهَ أَوِ ادْعُوا الرَّحْمَٰنَ ۖ أَيًّا مَّا تَدْعُوا فَلَهُ الْأَسْمَاءُ الْحُسْنَىٰ
+
+(Say: "Invoke Allah or invoke the Most Gracious (Allah), by whatever name you invoke Him, for to Him belong the Best Names.)[17:110] In his Sahih, Imam Muslim recorded that 'Abdullah bin 'Umar said that the Messenger of Allah ﷺ said,
+
+إِنَّ أَحَبَّ الْأَسْمَاءِ إِلَى اللهِ تَعَالَى عَبْدُ اللهِ وَعَبْدُ الرَّحْمَنِ
+
+(The most beloved names to Allah the Exalted are: 'Abdullah and 'Abdur-Rahman.) Allah said next,
+
+قُلْ هُوَ رَبِّي لَا إِلَٰهَ إِلَّا هُوَ
+
+(Say: "He is my Lord! None has the right to be worshipped but He!") meaning: for I believe in Allah in Whom you disbelieve and affirm His Divinity and Lordship. He is my Lord, there is no deity worthy of worship except Him,
+
+عَلَيْهِ تَوَكَّلْتُ
+
+(In Him is my trust,) in all of my affairs,
+
+وَإِلَيْهِ مَتَابِ
+
+(and to Him I turn.) meaning: to Him I return and repent, for He alone is worthy of all this and none else besides Him.
 
 ### al-Tabari (Arabic)
 
-قال أبو جعفر: يقول تعالى ذكره: هكذا أرسلناك يا محمد في جماعة من الناس (23) يعني إلى جماعةٍ قد خلت من قبلها جماعات على مثل الذي هم عليه, فمضت (24) (لتتلو عليهم الذي أوحينا إليك) ، يقول: لتبلغهم ما أرسَلْتك به إليهم من وحيي الذي أوحيته إليك(وهم يكفرون بالرحمن) ، يقول: وهم يجحدون وحدانيّة الله, ويكذّبون بها(قل هو ربي) ، يقول: إنْ كفر هؤلاء الذين أرسلتُك إليهم، يا محمد بالرحمن, فقل أنت: الله ربّي (لا إله إلا هو عليه توكلت وإليه متاب) ، يقول: وإليه مرجعي وأوبتي .* * *وهو مصدر من قول القائل: " تبت ...
+القول في تأويل قوله تعالى: ﴿كَذَلِكَ أَرْسَلْنَاكَ فِي أُمَّةٍ قَدْ خَلَتْ مِنْ قَبْلِهَا أُمَمٌ لِتَتْلُوَ عَلَيْهِمُ الَّذِي أَوْحَيْنَا إِلَيْكَ وَهُمْ يَكْفُرُونَ بِالرَّحْمَنِ قُلْ هُوَ رَبِّي لا إِلَهَ إِلا هُوَ عَلَيْهِ تَوَكَّلْتُ وَإِلَيْهِ مَتَابِ (٣٠) ﴾
+
+قال أبو جعفر: يقول تعالى ذكره: هكذا أرسلناك يا محمد في جماعة من الناس [[انظر تفسير" الأمة" فيما سلف من فهارس اللغة (أمم) .]] يعني إلى جماعةً= قد خلت من قبلها جماعات على مثل الذي هم عليه، فمضت [[انظر تفسير" خلا" فيما سلف، ٣٥٠ تعليق: ٣ والمراجع هناك.]] ﴿لتتلو عليهم الذي أوحينا إليك﴾ ، يقول: لتبلغهم ما أرسَلْتك به إليهم من وحيي الذي أوحيته إليك= ﴿وهم يكفرون بالرحمن﴾ ، يقول: وهم يجحدون وحدانيّة الله، ويكذّبون بها= ﴿قل هو ربي﴾ ، يقول: إنْ كفر هؤلاء الذين أرسلتُك إليهم، يا محمد بالرحمن، فقل أنت: الله ربّي ﴿لا إله إلا هو عليه توكلت والله متاب﴾ ، يقول: وإليه مرجعي وأوبتي.
+
+* *
+
+= وهو مصدر من قول القائل:"تبت مَتَابًا وتوبةً. [[انظر تفسير" التوبة" فيما سلف من فهارس اللغة (توب) .]]
+
+* *
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+٢٠٣٩٧- حدثنا بشر قال: حدثنا يزيد قال، حدثنا سعيد، عن قتادة قوله: ﴿وهم يكفرون بالرحمن﴾ . ذكر لنا أن نبيَّ الله ﷺ زَمَنَ الحديبية حين صالح قريشًا كتب:"هذا ما صالح عليه محمدٌ رسول الله. فقال مشركو قريش: لئن كنت رسولَ الله ﷺ ثم قاتلناك لقد ظلمناك! ولكن اكتب: هذا ما صالح عليه محمد بن عبد الله. فقال أصحاب رسول الله ﷺ: دعنا يا رسول الله نقاتلهم! فقال: لا ولكن اكتبوا كما يريدون إنّي محمد بن عبد الله. فلما كتب الكاتب:"بسم الله الرحمن الرحيم"، قالت قريش: أما"الرحمن" فلا نعرفه ؛ وكان أهل الجاهلية يكتبون:"باسمك اللهم"، فقال أصحابه: يا رسول الله، دعنا نقاتلهم! قال: لا ولكن اكتبوا كما يريدون".
+
+٢٠٣٩٨- حدثنا القاسم قال: حدثنا الحسين قال: حدثنى حجاج، عن ابن جريج، عن مجاهد قال قوله: ﴿كذلك أرسلناك في أمة قد خلت﴾ الآية، قال: هذا لمّا كاتب رسول الله ﷺ قريشًا في الحديبية، كتب:"بسم الله الرحمن الرحيم"، قالوا: لا تكتب"الرحمن"، وما ندري ما"الرحمن"، ولا تكتب إلا"باسمك اللهم".قال الله: ﴿وهم يكفرون بالرحمن قل هو ربي لا إله إلا هو﴾ ، الآية.
 
 ### al-Muyassar (Arabic)
 
@@ -25,7 +78,7 @@ Allah says, `Just as We sent you, O Muhammad, to your Ummah,
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿كَذَلِكَ﴾ كَما أرْسَلْنا الأَنْبِياء قَبْلك ﴿أرْسَلْناك فِي أُمَّة قَدْ خَلَتْ مِن قَبْلها أُمَم لِتَتْلُوَ﴾ تَقْرَأ ﴿عَلَيْهِمْ الَّذِي أوْحَيْنا إلَيْك﴾ أيْ القُرْآن ﴿وهُمْ يَكْفُرُونَ بِالرَّحْمَنِ﴾ حَيْثُ قالُوا لَمّا أُمِرُوا بِالسُّجُودِ لَهُ وما الرَّحْمَن ؟ ﴿قُلْ﴾ لَهُمْ يا مُحَمَّد
 
 ---
 
@@ -33,21 +86,208 @@ Allah says, `Just as We sent you, O Muhammad, to your Ummah,
 
 ### Ibn Kathir (English)
 
+And if there had been a Qur'an with which mountains could be moved (from their places), or the earth could be cloven asunder, or the dead could be made to speak (it would not have been other than this Qur'an). But the decision of all things is certainly with Allah. Have not then those who believed yet known that had Allah willed, He could have guided all mankind And a disaster will not cease to strike those who disbelieved because of their (evil) deeds or it (i.e. the disaster) settles close to their homes, until the promise of Allah comes to pass. Certainly, Allah breaks not His promise (31)
+
 Virtues of the Qur'an and the Denial of Disbelievers
-Allah praises the Qur'an which He has revealed to Muhammad ﷺ and prefers it to all other divinely revealed Books before it,
+
+Allah praises the Qur'an which He has revealed to Muhammad, peace be upon him, and prefers it to all other divinely revealed Books before it,
+
 وَلَوْ أَنَّ قُرْآنًا سُيِّرَتْ بِهِ الْجِبَالُ
-(And if there had been a Qur'an with which mountains could be moved,) Allah says, `If there were a Book among the previous Divine Books with which the mountains could be moved from their places, or the earth could be cleaved asunder, or the dead speak in their graves, it ...
+
+(And if there had been a Qur'an with which mountains could be moved,) Allah says, 'If there were a Book among the previous Divine Books with which the mountains could be moved from their places, or the earth could be cleaved asunder, or the dead speak in their graves, it would have been this Qur'an and none else.' Or, this Qur'an is more worthy to cause all this, because of its marvelous eloquence that defies the ability of mankind and the Jinns, even if all of them gather their forces together to invent something like it or even a Surah like it. Yet, these idolators disbelieve in the Qur'an and reject it. Allah said,
+
+بَل لِّلَّهِ الْأَمْرُ جَمِيعًا
+
+(But the decision of all things is certainly with Allah.)
+
+The decision over all affairs is with Allah Alone, whatever He wills, occurs and whatever He does not will, never occurs. Certainly, he whom Allah misguides, will never find enlightenment and he whom Allah guides, will never be misled.
+
+We should state here that it is possible to call other Divine Books, 'Qur'an', since this Qur'an is based on all of them. Imam Ahmad recorded that Abu Hurayrah said that the Messenger of Allah ﷺ said,
+
+خُفِّفَتْ عَلَى دَاوُدَ الْقِرَاءَةُ فَكَانَ يَأْمُرُ بِدَابَّتِهِ أَنْ تُسْرَجَ، فَكَانَ يَقْرَأُ الْقُرْآنَ مِنْ قَبْلِ أَنْ تُسْرَجَ دَابَّتُهُ، وَكَانَ لَا يَأْكُلُ إِلَّا مِنْ عَمَلِ يَدَيْهِ
+
+(Reciting was made easy for (Prophet) Dawud (David) in that he used to order that his animal be prepared for him to ride and in the meantime he would read the entire Qur'an. He used to eat only from what his hand made.)
+
+Al-Bukhari collected this Hadith. The Qur'an mentioned here is refers to the Zabur. Allah said next,
+
+أَفَلَمْ يَيْأَسِ الَّذِينَ آمَنُوا
+
+(Have not then those who believed yet known) that not all people would believe and understand and that,
+
+أَن لَّوْ يَشَاءُ اللَّهُ لَهَدَى النَّاسَ جَمِيعًا
+
+(had Allah willed, He could have guided all mankind?) Surely, there is not a miracle or evidence more eloquent or effective on the heart and mind than this Qur'an. Had Allah revealed it to a mountain, you would see the mountain shake and humbled from fear of Allah. The Sahih recorded that the Messenger of Allah ﷺ said,
+
+مَا مِنْ نَبِيٍّ إِلَّا وَقَدْ أُوتِيَ مَا آمَنَ عَلَى مِثْلِهِ الْبَشَرُ، وَإِنَّمَا كَانَ الَّذِي أُوتِيتُهُ وَحْيًا أَوْحَاهُ اللهُ إِلَيَّ، فَأَرْجُو أَنْ أَكُونَ أَكْثَرَهُمْ تَابِعًا يَوْمَ الْقِيَامَةِ
+
+(Every Prophet was given (a miracle) the type of which would make (some) people believe. What I was given, however, is a revelation from Allah to me, and I hope that I will have the most following among them (Prophets) on the Day of Resurrection.)
+
+This Hadith indicates that every Prophet's miracle disappeared upon his death, but this Qur'an will remain as evidence for all times. Verily, the miracle of the Qur'an will never end, nor will it become old the more it is read, nor will scholars ever have enough of it. The Qur'an is serious and is not meant for jest; any tyrant that abandons it, Allah will destroy him; he who seeks guidance in other than the Qur'an, then Allah will misguide him.
+
+Allah said next,
+
+بَل لِّلَّهِ الْأَمْرُ جَمِيعًا
+
+(But the decision of all things is certainly with Allah.) Ibn 'Abbas commented, "He will only do what He wills and He decided that He will not do that." Ibn Ishaq reported a chain for this, and Ibn Jarir At-Tabari agreed with it. Allah said next,
+
+وَلَا يَزَالُ الَّذِينَ كَفَرُوا تُصِيبُهُم بِمَا صَنَعُوا قَارِعَةٌ أَوْ تَحُلُّ قَرِيبًا مِّن دَارِهِمْ
+
+(And a disaster will not cease to strike those who disbelieved because of their (evil) deeds or it settles close to their homes,) because of their denial, disasters will still strike them in this life or strike those all around them, as a lesson and example for them. Allah said in other Ayat,
+
+وَلَقَدْ أَهْلَكْنَا مَا حَوْلَكُم مِّنَ الْقُرَىٰ وَصَرَّفْنَا الْآيَاتِ لَعَلَّهُمْ يَرْجِعُونَ
+
+(And indeed We have destroyed towns round about you, and We have shown (them) the Ayat in various ways that they might return (to the truth).)[46:27], and,
+
+أَفَلَا يَرَوْنَ أَنَّا نَأْتِي الْأَرْضَ نَنقُصُهَا مِنْ أَطْرَافِهَا ۚ أَفَهُمُ الْغَالِبُونَ
+
+(See they not that We gradually reduce the land (in their control) from its outlying borders Is it then they who will overcome?)[21:44] Qatadah narrated that Al-Hasan commented on Allah's statement,
+
+أَوْ تَحُلُّ قَرِيبًا مِّن دَارِهِمْ
+
+(or it settles close to their homes,) "It is in reference to the disaster." This is the apparent meaning here. Al-'Awfi reported that bin 'Abbas said about,
+
+تُصِيبُهُم بِمَا صَنَعُوا قَارِعَةٌ
+
+(And a Qari'ah (disaster) strikes them because of their (evil) deeds) "A torment that descends on them from heaven,
+
+أَوْ تَحُلُّ قَرِيبًا مِّن دَارِهِمْ
+
+(or it settles close to their homes,) when the Messenger of Allah ﷺ camps near their area and fights them." Similar was reported from Mujahid and Qatadah. 'Ikrimah said in another narration he reported from Ibn 'Abbas that,
+
+قَارِعَةٌ
+
+(Qari'ah) means affliction. These scholars also said that,
+
+حَتَّىٰ يَأْتِيَ وَعْدُ اللَّهِ
+
+(until the promise of Allah comes to pass.) refers to the conquering of Makkah. Al-Hasan Al-Basri said that it refers to the Day of Resurrection. Allah said next,
+
+إِنَّ اللَّهَ لَا يُخْلِفُ الْمِيعَادَ
+
+(Certainly, Allah breaks not His promise.) to His Messengers to aid them and their followers in this life and the Hereafter,
+
+فَلَا تَحْسَبَنَّ اللَّهَ مُخْلِفَ وَعْدِهِ رُسُلَهُ ۗ إِنَّ اللَّهَ عَزِيزٌ ذُو انتِقَامٍ
+
+(So think not that Allah will fail to keep His promise to His Messengers. Certainly, Allah is All-Mighty, All-Able of Retribution.)[14:47]
 
 ### al-Tabari (Arabic)
 
-قال أبو جعفر: يقول تعالى ذكره: (ولا يزال) يا محمد(الذين كفروا)، من قومك(تصيبهم بما صنعوا) من كفرهم بالله، وتكذيبهم إياك، وإخراجهم لك من بين أظهرهم(قارعة), وهي ما يقرعهم من البلاء والعذاب والنِّقم, بالقتل أحيانًا, وبالحروب أحيانًا, والقحط أحيانًا(أو تحل) ، أنت يا محمد, يقول: أو تنـزل أنت(قريبًا من دارهم) بجيشك وأصحابك(حتى يأتي وعدُ الله) الذي وعدك فيهم, وذلك ظهورُك عليهم وفتحُك أرضَهمْ، وقهرْك إياهم بالسيف(إن الله لا يخلف الميعاد)، يقول: إن الله منجزك، يا محمد ما وعدك من الظهور عليهم, لأنه لا ...
+القول في تأويل قوله تعالى: ﴿وَلَوْ أَنَّ قُرْآنًا سُيِّرَتْ بِهِ الْجِبَالُ أَوْ قُطِّعَتْ بِهِ الأرْضُ أَوْ كُلِّمَ بِهِ الْمَوْتَى بَلْ لِلَّهِ الأمْرُ جَمِيعًا﴾
+
+قال أبو جعفر: اختلف أهل التأويل في معنى ذلك.
+
+فقال بعضهم: معناه: ﴿وهم يكفرون بالرحمن﴾ ، ولو أن قرآنًا سيرت به الجبال) ، أي: يكفرون بالله ولو سَيَّر لهم الجبال بهذا القرآن.وقالوا: هو من المؤخر الذي معناه التقديم. وجعلوا جواب"لو" مقدَّمًا قبلها، وذلك أن الكلام على معنى قيلهم: ولو أنّ هذا القرآن سُيَرت به الجبال أو قطعت به الأرض، لكفروا بالرحمن.
+
+ذكر من قال ذلك:
+
+٢٠٣٩٩- حدثني محمد بن سعد قال: حدثني أبي قال: حدثني عمي قال: حدثني أبي، عن أبيه، عن ابن عباس قوله: ﴿ولو أن قرآنا سُيرت به الجبال أو قطعت به الأرض أو كلم به الموتى﴾ قال: هم المشركون من قريش، قالوا لرسول الله ﷺ: لو وسعت لنا أودية مكَّة، وسيَّرت جبَالها، فاحترثناها، وأحييت من مات منَّا، وقُطّع به الأرض، أو كلم به الموتى! فقال الله تعالى: ﴿ولو أن قرآنا سُيّرت به الجبال أو قُطّعت به الأرض أو كلم به الموتى بل لله الأمر جميعًا﴾ .
+
+٢٠٤٠٠- حدثنا الحسن بن محمد قال: حدثنا شبابة قال: حدثنا ورقاء، عن ابن أبي نجيح، عن مجاهد قوله: ﴿ولو أن قرآنا سيرت به الجبال أو قطعت به الأرض أو كلم به الموتى﴾ ، قول كفار قريش لمحمد: سيِّر جبالنا تتسع لنا أرضُنا فإنها ضيِّقة، أو قرب لنا الشأم فإنا نَتَّجر إليها، أو أخرج لنا آباءنا من القبور نكلمهم! فقال الله تعالى [[قوله:" فقال الله تعالى"، ساقطة من المخطوطة، وهي واجبة.]] ﴿ولو أن قرآنا سيرت به الجبال أو قطعت به الأرض أو كلم به الموتى﴾ .
+
+٢٠٤٠١- حدثني المثنى قال: حدثنا أبو حذيفة قال: حدثنا شبل، عن ابن أبي نجيح، عن مجاهد، بنحوه.
+
+٢٠٤٠٢- حدثنا القاسم قال: حدثنا الحسين قال: حدثنا حجاج، عن ابن جريج، عن مجاهد، نحوه= قال ابن جريج: وقال عبد الله بن كثير قالوا: لو فَسَحت عنّا الجبال، أو أجريت لنا الأنهار، أو كلمتَ به الموتى! فنزل ذلك= قال ابن جريج: وقال ابن عباس: قالوا: سيِّر بالقرآن الجبالَ، قطّع بالقرآن الأرض، أخرج به موتانا.
+
+٢٠٤٠٣- حدثنا الحسن بن محمد قال: حدثنا حجاج، عن ابن جريج قال: قال ابن كثير: قالوا: لو فسحت عنا الجبال، أو أجريت لنا الأنهار، أو كلمت به الموتى! فنزل: ﴿أفلم ييأس الذين آمنوا﴾ .
+
+* *
+
+وقال آخرون: بل معناه: ﴿ولو أن قرآنا سيرت به الجبال﴾ كلامٌ مبتدأ منقطع عن قوله: ﴿وهم يكفرون بالرحمن﴾ . قال: وجوابُ"لو" محذوف اسْتغنيَ بمعرفة السامعين المرادَ من الكلام عن ذكر جوابها. قالوا: والعرب تفعل ذلك كثيرًا، ومنه قول امرئ القيس:
+
+فَلَوْ أَنَّهَا نَفْسٌ تَمُوتُ سَرِيحَةً ... وَلكِنَّهَا نَفْسٌ تَقَطَّعُ أَنْفُسَا [[ديوانه: ١٠٧، وروايتهم: فَلَوْ أَنَّهَا نَفْسٌ تَمُوتُ جَمِيعَةً ... وَلَكِنَّهَا نَفْسٌ تَسَاقَطُ أَنْفُسَا
+
+وقوله:" سريحة"، أي معجلة في سهولة ويسر، من قولهم:" شيء سريح"، أي سهل أو" أمر سريح"، أي معجل.]]
+
+وهو آخر بيت في القصيدة، [[في دواوينه المنشورة، ليس هو آخر القصيدة، ولو أحسن ناشرو دواوين الشعر، لأدوا إلينا الروايات المختلفة على ترتيبها، فإن ديوان امرئ القيس المطبوع حديثًا قد أغفل ترتيب الروايات إغفالًا تامًا، مع شدة حاجتنا إلى ذلك في فهم الشعر، وفي إعادة ترتيبه. وهذا مما ابتلى الله به الشعر الجاهلي، أن يحمله إلى الناس من لا يحسنه، حتى ساء ظن الناس فيه، وأكثروا الطعن في روايته.]] فترك الجواب اكتفاءً بمعرفة سامعه مرادَه، وكما قال الآخر: [[هو امرؤ القيس.]]
+
+فَأُقْسِمُ لَوْ شَيْءٌ أَتَانَا رَسُولُهُ ... سِوَاكَ وَلكِنْ لَمْ نَجِدْ لَكَ مَدْفَعَا [[سلف البيت وتخريجه وشرحه ١٥: ٢٧٧، ٢٧٨.]]
+
+* *
+
+ذكر من قال نحو معنى ذلك:
+
+٢٠٤٠٤- حدثنا بشر قال، حدثنا يزيد قال. حدثنا سعيد، عن قتادة قوله: ﴿ولو أن قرآنا سيرت به الجبال أو قطعت به الأرض أو كلم به الموتى﴾ ، ذكر لنا أن قريشًا قالوا: إن سَرَّك يا محمد، اتباعك= أو: أن نتبعك= فسيّر لنا جبال تِهَامة، أو زد لنا في حَرَمنا حتى نتَّخذ قَطَائع نخترف فيها، [[" نخترف فيها"، أي: نقيم فيها زمن الخريف، وذلك حين ينزل المطر، وتنبت الأرض. والذي في كتب اللغة" أخرفوا"، أقاموا بالمكان خريفهم، وهذا الذي هنا قياس العربية نحو" ارتبع"، و" اصطاف".]] أو أحِي لنا فلانًا وفلانًا! ناسًا ماتوا في الجاهلية. فأنزل الله: ﴿ولو أن قرآنا سيرت به الجبال أو قطعت به الأرض أو كلم به الموتى﴾ ، يقول: لو فعل هذا بقرآنٍ قبل قرآنكم لفُعِل بقرآنكم.
+
+٢٠٤٠٥- حدثنا محمد بن عبد الأعلى قال: حدثنا محمد بن ثور، عن معمر، عن قتادة: أن كفّار قريش قالوا للنبي ﷺ: أذهب عنا جبال تِهَامة حتى نتّخذها زرعًا فتكون لنا أرضين، أو أحي لنا فلانًا وفلانًا يخبروننا: حقٌّ ما تقول! فقال الله: ﴿ولو أن قرآنا سيرت له الجبال أو قطعت به الأرض أو كلم به الموتى بل لله الأمر جميعًا﴾ ، يقول: لو كان فَعل ذلك بشيء من الكتب فيما مضى كان ذلك.
+
+٢٠٤٠٦- حدثت عن الحسين بن الفرج قال: سمعت أبا معاذ يقول: أخبرنا عبيد بن سليمان قال: سمعت الضحاك يقول في قوله: ﴿ولو أن قرآنًا سيرت به الجبال﴾ ، الآية، قال: قال كفار قريش لمحمد ﷺ: سيّر لنا الجبالَ كما سُخِّرت لداود، أو قَطِّع لنا الأرض كما قُطعت لسليمان، فاغتدى بها شهرًا وراح بها شهرًا، أو كلم لنا الموتَى كما كان عيسى يكلمهم، يقول: لم أنزل بهذا كتابًا، ولكن كان شيئًا أعطيته أنبيائي ورسلي.
+
+٢٠٤٠٧- حدثني يونس قال: أخبرنا ابن وهب قال: قال ابن زيد في قوله: ﴿ولو أن قرآنًا سيرت به الجبال﴾ ، الآية، قال: قالوا للنبي ﷺ: إن كنت صادقًا فسيِّر عنا هذه الجبال واجعلها حروثًا كهيئة أرض الشام ومصر والبُلْدان، أو ابعث موتانَا فأخبرهم فإنهم قد ماتوا على الذي نحن عليه! فقال الله: ﴿ولو أن قرآنًا سيرت به الجبال أو قطعت به الأرض أو كلم به الموتى﴾ ، لم يصنع ذلك بقرآن قط ولا كتاب، فيصنع ذلك بهذا القرآن.
+
+* *
+
+القول في تأويل قوله تعالى: ﴿أَفَلَمْ يَيْأَسِ الَّذِينَ آمَنُوا أَنْ لَوْ يَشَاءُ اللَّهُ لَهَدَى النَّاسَ جَمِيعًا﴾
+
+قال أبو جعفر: اختلف أهل المعرفة بكلام العرب في معنى قوله ﴿أفلم ييأس﴾ .
+
+فكان بعض أهل البصرة يزعم أن معناه: ألم يعلمْ ويتبيَّن= ويستشهد لقيله ذلك ببيت سُحَيْم بن وَثيلٍ الرِّياحيّ:
+
+أَقُولُ لَهُمْ بالشِّعْبِ إِذْ يَأْسِرُونَنِي ... أَلَمْ تَيْأَسُوا أَنِّي ابْنُ فَارِسِ زَهْدَمِ [[مجاز القرآن لأبي عبيدة ١: ٣٣٢، وأساس البلاغة (يأس) ، وخرجه الأستاذ سيد صقر في مشكل القرآن: ١٤٨، وغريب القرآن: ٢٢٨، واللسان (يأس) . وشرحه وبينه هنالك، وغير هذه المواضع كثير. و" زهدم" فرس سحيم فيما قالوا. ولو صحت نسبة الشعر لسحيم لكان" زهدم" فرس أبيه وثيل. وهذا الشعر ينسب إلى جابر بن سحيم، فإذا صح ذلك، صح أن" زهدم" فرس سحيم. وانظر نسب الخيل لابن الكلبي: ١٧، وأسماء الخيل لابن الأعرابي: ٦٣.]]
+
+ويروى:"يَيْسِرُونَني"، فمن رواه:"ييسرونني" فإنه أراد: يقتسمونني، من"الميسر"، كما يقسم الجزور. ومن رواه:"يأسرونني"، فإنه أراد الأسر، وقال: عنى بقوله:"ألم تيأسوا"، ألم تعلموا. وأنشدوا أيضًا في ذلك: [[نسب إلى مالك بن عوف، وإلى رياح بن عدي.]]
+
+أَلَمْ يَيْأَسِ الأقْوَامُ أَنِّي أَنَا ابْنُهُ ... وَإِنْ كُنْتُ عَنْ أَرْضِ العَشِيرَةِ نَائِيَا [[معجم غريب القرآن في مسائل نافع بن الأزرق، لابن عباس: ٢٩١: والقرطبي: ٩: ٣٢٠، وأبو حيان ٥: ٣٩٢، وأساس البلاغة (يأس) ، ولم أعرف الشعر.]]
+
+وفسروا قوله:"ألم ييأس": ألم يعلَم ويتبيَّن؟
+
+* *
+
+وذكر عن ابن الكلبي أن ذلك لغة لحيّ من النَّخَع يقال لهم: وَهْبيل، تقول: ألم تيأس، كذا بمعنى: ألم تعلمه؟
+
+* *
+
+وذكر عن القاسم ابن معن أنّها لغة هَوازن، وأنهم يقولون:"يئستْ كذا"، علمتُ.
+
+* *
+
+وأما بعض الكوفيين فكان ينكر ذلك، [[هو الفراء في معاني القرآن، في تفسير الآية، والآتي هو نص كلامه.]] ويزعم أنه لم يسمع أحدًا من العرب يقول:"يئست" بمعنى:"علمت". ويقول هو في المعنى= وإن لم يكن مسموعًا:"يئست" بمعنى: علمت= يتوجَّهُ إلى ذلك إذ أنه قد أوقع إلى المؤمنين، أنه لو شاء لهدى الناس جميعا، [[في المطبوعة:" إن الله قد أوقع ... "، وأثبت ما في المخطوطة، وهو الموافق لما في معاني القرآن.]] فقال:"أفلم ييأسوا علما"، يقول: يؤيسهم العلم، فكأن فيه العلم مضمرًا، [[في معاني القرآن:" فكأن فيهم العلم"، والصواب ما في الطبري، وهو موافق لما في اللسان (يأس) .]] كما يقال: قد يئست منك أن لا تفلح علمًا، كأنه قيل: علمتُه علمًا قال: وقول الشاعر: [[هو لبيد.]]
+
+حَتَّى إِذَا يَئِسَ الرُّمَاةُ وَأَرْسُلوا ... غُضْفًا دَوَاجِنَ قَافِلا أَعْصَامُهَا [[معلقته المشهورة، في صفة صيد البقرة الوحشية. يقول: أرسلوا عليها كلابًا غضف الآذان، وهي كلاب الصيد تسترخى آذانها. و" دواجن" ضاريات قد عودن الصيد. و" القافل" اليابس. و" الأعصام"، جمع" عصام"، وهو قلائد من أدم تجعل في أعناق الكلاب، وهي السواجير أيضًا.]]
+
+معناه: حتى إذا يئسوا من كل شيء مما يمكن، إلا الذي ظهر لهم، أرسلوا، فهو في معنى: حتى إذا علموا أن ليس وجه إلا الذي رأوا وانتهى علمهم، فكان ما سواه يأسا. [[في معاني القرآن:" فكان ما وراءه يأسا"، وهو جيد.]]
+
+* *
+
+وأما أهل التأويل فإنهم تأولوا ذلك بمعنى: أفلم يعلَم ويتبيَّن.
+
+ذكر من قال ذلك
+
+٢٠٤٠٨- حدثني يعقوب قال: حدثنا هشيم، عن أبي إسحاق الكوفي، عن [مولى مولى بحير] أن عليًّا رضي الله عنه كان يقرأ:"أَفَلَمْ يَتَبيَّنِ الَّذِينَ آمنُوا". [[الأثر: ٢٠٤٠٨ -" أبو إسحاق الكوفي"، هو" عبد الله بن ميسرة"، ضعيف واهي الحديث، ووثقه ابن حبان، مضى برقم: ٦٩٢٠، ١٣٤٨٩، ٢٠٠٧٨، وكان هشيم يكنيه بابن له يقال له" إسحاق"، وكنيته" أبو ليلى" وهشيم يدلس بهذه الكنية. وكان في المخطوطة" ابن إسحاق الكوفي"، وهو خطأ صرف.
+
+وأما الذي بين القوسين، فهو هكذا جاء في المخطوطة، وجعل مكانه في المطبوعة:" عن مولى يخبر"، تصرف في الإسناد أسوأ التصرف وأشنعه. وهذا الذي بين القوسين ربما قرئ آخره:" مولى بحتر"، وقد استوعبت ما في تهذيب الكمال للحافظ المزي، في باب من روى عن" علي بن أبي طالب"، وباب من روى عنه" أبو إسحاق الكوفي"، فلم أجد شيئًا قريب التحريف من هذا الذي عندنا.
+
+ومهما يكن من شيء،فحسب هذا الإسناد وهاء أن يكون فيه" أبو سحاق الكوفي"، ثم انظر التعليق على الأثر التالي رقم: ٢٠٤١٠.
+
+وكان في المطبوعة:" كان يقول" مكان:" كان يقرأ"، لم يحسن قراءة المخطوطة، لأن الناسخ كتب"يقول" ثم جعل الواو" راء"، وأدخل الألف في اللام، ووضع عليها الهمزة، فاختلط الأمر على الناشر.]]
+
+٢٠٤٠٩- حدثنا الحسن بن محمد قال: حدثنا عبد الوهاب، عن هارون، عن حنظلة، عن شهر بن حوشب، عن ابن عباس: ﴿أفلم ييأس﴾ يقول: أفلم يتبيّن.
+
+٢٠٤١٠- حدثنا أحمد بن يوسف قال: حدثنا القاسم قال: حدثنا يزيد، عن جرير بن حازم، عن الزبير بن الخِرِّيت= أو يعلى بن حكيم=، عن عكرمة، عن ابن عباس، أنه كان يقرؤها:"أَفَلَمْ يَتَبيَّنِ الَّذِينَ آمنُوا"؛ قال: كتب الكاتب الأخرى وهو ناعسٌ. [[الأثر: ٢٠٤١٠ -" أحمد بن يوسف التغلبي الأحول"، شيخ أبي جعفر الطبري، هو صاحب أبي عبيد القاسم بن سلام، مشهور بصحبته، ثقة مأمون، مضى مرارًا آخرها رقم: ١٢٩٩٤ وهو الذي أخذ عنه أبو جعفر الطبري كتب أبي عبيد القاسم بن سلام.
+
+و" القاسم"، هو" القاسم بن سلام"،" أبو عبيد"، الفقيه القاضي، صاحب التصانيف المشهورة، كان إمام دهره في جميع العلوم، وهو صاحب سنة، ثقة مأمون، وثناء الأئمة عليه ثناء لا يدرك.
+
+و" يزيد"، هو" يزيد بن هرون السلمي"، وهو أحد الحفاظ الثقات الأثبات المشاهير، روى له الجماعة، مضى مرارًا آخرها رقم: ١٠٤٨٤.
+
+و" جرير" هو" جرير بن حازم الأزدي"، ثقة حافظ، روى له الجماعة، مضى مرارًا آخرها رقم: ١٤١٥٧.
+
+و" الزبير بن الخريت". ثقة، روى له الجماعة سوى النسائي، مضى برقم: ٤٩٨٥، ١١٦٩٣، وكان في المطبوعة:" الزبير بن الحارث"، غير ما في المخطوطة مجازفة.
+
+و" يعلي بن حكيم"، ثقة، روى له الجماعة سوى الترمذي، مضى برقم: ١٢٧٤٨.
+
+فهذا خبر رجاله ثقات، بل كل رجاله رجال الصحيحين، سوى أبي عبيد القاسم بن سلام، وهو أمام ثقة صدوق، فإسناده صحيح، لا مطعن فيه - ومع صحة إسناده لم أجد أحدًا من أصحاب الدواوين الكبار، كأحمد في مسنده، أو الحاكم في المستدرك، ولا أحدًا ممن نقل عن الدواوين الكبار، كالهيثمي في مجمع الزوائد، أخرج هذا الخبر أو أشار إلى هذه القراءة عن ابن عباس، أو علي بن أبي طالب، كما جاء في الخبر الذي قبله رقم: ٢٠٤٠٨، بل أعجب من ذلك أن ابن كثير، وهو المتعقب أحاديث أبي جعفر في التفسير، لما بلغ تفسير هذه الآية، لم يفعل سوى أن أشار إلى قراءة ابن عباس، وأغفل هذا الخبر إغفالًا على غير عادته، وأكبر ظني أن ابن كثير عرف صحة إسناده، ولكنه أنكر ظاهر معناه إنكارًا حمله على السكوت عنه، وكان خليقًا أن يذكره ويصفه بالغرابة أو النكارة، ولكنه لم يفعل، لأنه فيما أظن قد تحير في صحة إسناده، مع نكارة ما يدل عليه ظاهر لفظه. وزاد هذا الظاهر نكارة عنده، ما قاله المفسرون قبله في هذا الخبر عن ابن عباس، حين رووه غير مسند بألفاظ غير هذه الألفاظ.
+
+فلما رأيت ذلك من فعل ابن كثير وغيره، تتبعت ما نقله الناقلون من ألفاظ الخبر، فوجدت بين ألفاظ الخبر التي رويت غير مسندة، وبين لفظ أبي جعفر المسند، فرقًا يلوح علانية، وألفاظهم هذه هي التي دعت كثيرًا من الأئمة يقولون في الخبر مقالة سيئة، بلغت مبلغ الطعن في قائله بأنه زنديق ملحد! ونعم، فإنه لحق ما قالوه في الخبر الذي رووه بألفاظهم، أما لفظ أبي جعفر هذا، وإن كان ظاهره مشكلا، فإن دراسته على الوجه الذي ينبغي أن يدرس به، تزيل عنه قتام المعنى الفاسد الذي يبتدر المرء عند أول تلاوته.
+
+فلما شرعت في دراسته من جميع وجوه الدراسة، انفتح لي باب عظيم من القول في هذا الخبر وأشباهه، من مثل قول عائشة أم المؤمنين:" يا ابن أخي، أخطأ الكاتب"، أي ما كتب في المصحف الإمام، ومعاذ الله أن يكون ذلك ظاهر لفظ حديثها. وهذان الخبران وأشباه لهما يتخذهما المستشرقون وبطانتهم ممن ينتسبون إلى أهل الإسلام، مدرجة للطعن في القرآن. أو تسويلا للتلبيس على من لا علم عنده بتنزيل القرآن العظيم، فاقتضاني الأمر أن أكتب رسالة جامعة في بيان معنى قوله ﷺ:" أنزل القرآن على سبعة أحرف"، وكيف كانت هذه الأحرف السبعة وما الذي بقي عندنا منها، وانتهيت إلى أنها بحمد الله باقية بجميعها في قراءات القرأة، وفي شاذ القراءة، وفي رواية الحروف، لا كما ذهب إليه أبو جعفر الطبري في مقدمة تفسيره (١: ٥٥ - ٥٩) ، ومن ذهب في ذلك مذهبه. ثم 
+
+[TRUNCATED at 12000 chars — 8573 more. Consult the source directly before relying on anything near the cut.]
 
 ### al-Muyassar (Arabic)
 
-يردُّ الله -تعالى- على الكافرين الذين طلبوا إنزال معجزات محسوسة على النبي صلى الله عليه وسلم فيقول لهم: ولو أن ثمة قرآنًا يقرأ، فتزول به الجبال عن أماكنها، أو تتشقق به الأرض أنهارًا، أو يحيا به الموتى وتُكَلَّم -كما طلبوا منك- لكان هذا القرآن هو المتصف بذلك دون غيره، ولما آمنوا به. بل لله وحده الأمر كله في المعجزات وغيرها. أفلم يعلم المؤمنون أن الله لو يشاء لآمن أهل الأرض كلهم من غير معجزة؟ ولا يزال الكفار تنزل بهم مصيبة بسبب كفرهم كالقتل والأسر في غزوات المسلمين، أو تنزل تلك المصيبة قريبًا م...
+يردُّ الله -تعالى- على الكافرين الذين طلبوا إنزال معجزات محسوسة على النبي ﷺ فيقول لهم: ولو أن ثمة قرآنًا يقرأ، فتزول به الجبال عن أماكنها، أو تتشقق به الأرض أنهارًا، أو يحيا به الموتى وتُكَلَّم -كما طلبوا منك- لكان هذا القرآن هو المتصف بذلك دون غيره، ولما آمنوا به. بل لله وحده الأمر كله في المعجزات وغيرها. أفلم يعلم المؤمنون أن الله لو يشاء لآمن أهل الأرضِ كلُّهم من غير معجزة؟ ولا يزال الكفار تنزل بهم مصيبة بسبب كفرهم كالقتل والأسر في غزوات المسلمين، أو تنزل تلك المصيبة قريبًا من دارهم، حتى يأتي وعد الله بالنصر عليهم، إن الله لا يخلف الميعاد.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+ونَزَلَ لَمّا قالُوا لَهُ إنْ كُنْت نَبِيًّا فَسَيِّرْ عَنّا جِبال مَكَّة واجَعَل لَنا فِيها أنْهارًا وعُيُونًا لِنَغْرِس ونَزْرَع وابْعَثْ لَنا آباءَنا المَوْتى يُكَلِّمُونا أنَّك نَبِيّ ﴿ولَوْ أنَّ قُرْآنًا سُيِّرَتْ بِهِ الجِبال﴾ نُقِّلَتْ عَنْ أماكِنها ﴿أوْ قُطِّعَتْ﴾ شُقِّقَتْ ﴿بِهِ الأَرْض أوْ كُلِّمَ بِهِ المَوْتى﴾ بِأَنْ يُحْيَوْا لَمّا آمَنُوا ﴿بَلْ لِلَّهِ الأَمْر جَمِيعًا﴾ لا لِغَيْرِهِ فَلا يُؤْمِنُ إلّا مَن شاءَ إيمانَهُ دُون غَيْره إنْ أُوتُوا ما اقْتَرَحُوا ونَزَلَ لَمّا أرادَ الصَّحابَة إظْهار ما اقْتَرَحُوا طَمَعًا فِي إيمانهمْ ﴿أفَلَمْ يَيْأَس﴾ يَعْلَم ﴿الَّذِينَ آمَنُوا أنْ﴾ مُخَفَّفَة أيْ أنَّهُ ﴿لَوْ يَشاء اللَّه لَهَدى النّاس جَمِيعًا﴾ إلى الإيمان مِن غَيْر آيَة ﴿ولا يَزال الَّذِينَ كَفَرُوا﴾ مِن أهْل مَكَّة ﴿تُصِيبهُمْ بِما صَنَعُوا﴾ بِصُنْعِهِمْ أيْ كُفْرهمْ ﴿قارِعَة﴾ داهِيَة تَقْرَعهُمْ بِصُنُوفِ البَلاء مِن القَتْل والأَسْر والحَرْب والجَدْب ﴿أوْ تَحُلّ﴾ يا مُحَمَّد بِجَيْشِك ﴿قَرِيبًا مِن دارهمْ﴾ مَكَّة ﴿حَتّى يَأْتِي وعْد اللَّه﴾ بِالنَّصْرِ عَلَيْهِمْ ﴿إنّ اللَّه لا يُخْلِف المِيعاد﴾ وقَدْ حَلَّ بِالحُدَيْبِيَةِ حَتّى أتى فَتْح مَكَّة
 
 ---

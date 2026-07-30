@@ -1,6 +1,6 @@
 # Tafsir Cross-Reference Report
 
-Generated: 2026-04-10
+Generated: 2026-07-30
 Ayahs referenced: 10
 Tafsir sources: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), al-Jalalayn (Arabic)
 
@@ -10,22 +10,287 @@ Tafsir sources: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), 
 
 ### Ibn Kathir (English)
 
+And perform the Salah, at the two ends of the day and in some hours of the night. Verily, the good deeds remove the evil deeds. That is a reminder for the mindful (114)And be patient; verily, Allah wastes not the reward of the doers of good (115)
+
 The Command to establish the Prayer
-`Ali bin Abi Talhah reported that Ibn `Abbas said,
-وَأَقِمِ الصَّلَوةَ طَرَفَىِ النَّهَارِ
-(And perform the Salah, at the two ends of the day) "This is referring to the morning prayer (Subh) and the evening prayer (Maghrib)." The same was said by Al-Hasan and `Abdur-Rahman bin Zayd bin Aslam. In one narration reported by Qatadah, Ad-Dahhak and others, Al-Hasan said, "It means the morning prayer (Subh) and the late afternoon prayer (`Asr)." Mujahid said, "It...
+
+Ali bin Abi Talhah reported that Ibn 'Abbas said,
+
+وَأَقِمِ الصَّلَاةَ طَرَفَيِ النَّهَارِ
+
+(And perform the Salah, at the two ends of the day) "This is referring to the morning prayer (Subh) and the evening prayer (Maghrib)." The same was said by Al-Hasan and 'Abdur-Rahman bin Zayd bin Aslam. In one narration reported by Qatadah, Ad-Dahhak and others, Al-Hasan said, "It means the morning prayer (Subh) and the late afternoon prayer ('Asr)." Mujahid said, "It is the morning prayer at the beginning of the day and the noon prayer (Zuhr) and late afternoon prayer ('Asr) at the end of the day." This was also said by Muhammad bin Ka'b Al-Qurazi and Ad-Dahhak in one narration from him.
+
+وَزُلَفًا مِّنَ اللَّيْلِ
+
+(and in some hours of the night.) Ibn 'Abbas, Mujahid, Al-Hasan and others said, "This means the night prayer ('Isha')." Ibn Al-Mubarak reported from Mubarak bin Fadalah that Al-Hasan said,
+
+وَزُلَفًا مِّنَ اللَّيْلِ
+
+(and in some hours of the night.) "This means the evening (Maghrib) and late night ('Isha') prayers. The Messenger of Allah ﷺ said,
+
+هُمَا زُلَفَا اللَّيْلِ: الْمَغْرِبُ وَالْعِشَاءُ
+
+(They are the approach of the night: Maghrib and 'Isha'.) The same was said by Mujahid, Muhammad bin Ka'b, Qatadah and Ad-Dahhak (that this means the Maghrib and 'Isha' prayers). It should be noted that this verse was revealed before the five daily prayers were made obligatory during the night of Isra' (the Prophet's night journey to Jerusalem). At that time there were only two obligatory prayers: a prayer before sunrise and a prayer before sunset. During the late night another prayer (Tahajjud) was also made obligatory upon the Prophet ﷺ and his nation. Later, this obligation was abrogated for his nation and remained obligatory upon him . Finally, this obligation was abrogated for the Prophet ﷺ as well, according to one opinion. Allah knows best.
+
+The Good Deeds wipe away the Evil Deeds
+
+Concerning Allah's statement,
+
+إِنَّ الْحَسَنَاتِ يُذْهِبْنَ السَّيِّئَاتِ
+
+(Verily, the good deeds remove the evil deeds.) This is saying that the performance of good deeds is an expiation of previous sins. This has been mentioned in a Hadith recorded by Imam Ahmad and the Sunan Compilers, that the Commander of the faithful, 'Ali bin Abi Talib, said, "Whenever I used to hear a narration from the Messenger of Allah ﷺ, Allah would cause me to benefit by it however He willed. If anyone informed me of any statement that he said, I would make him swear (by Allah) that the Prophet ﷺ said it. If he swore by Allah, then I would believe him. Abu Bakr once told me – and Abu Bakr was truthful – that he heard the Messenger of Allah ﷺ say,
+
+مَا مِنْ مُسْلِمٍ يُذْنِبُ ذَنْبًا فَيَتَوَضَّأُ وَيُصَلِّي رَكْعَتَيْنِ إِلَّا غُفِرَ لَهُ
+
+(There is not any Muslim who commits a sin, then he makes Wudu' and prays two units of prayer, except that he will be forgiven (that sin).) In the Two Sahihs it is recorded that the Commander of the faithful, 'Uthman bin 'Affan made Wudu' for the people (to see), just like the Wudu' of the Messenger of Allah ﷺ. Then he said, "I saw the Messenger of Allah ﷺ make Wudu' like this, and he ﷺ said,
+
+مَنْ تَوَضَّأَ وُضُوئِي هَذَا ثُمَّ صَلَّى رَكْعَتَيْنِ لَا يُحَدِّثُ فِيهِمَا نَفْسَهُ غُفِرَ لَهُ مَا تَقَدَّم مِنْ ذَنْبِهِ
+
+(Whoever makes Wudu' like this Wudu' of mine, then he prays two units of prayer in which he does not speak to himself, he will be forgiven for his previous sins.) In the Sahih it is recorded that Abu Hurayrah said that the Messenger of Allah ﷺ said,
+
+أَرَأَيْتُمْ لَوْ أَنَّ بِبَابِ أَحَدِكُمْ نَهْرًا غَمْرًا، يَغْتَسِلُ فِيهِ كُلَّ يَوْمٍ خَمْسَ مَرَّاتٍ، هَلْ يُبْقِي مِنْ دَرَنِهِ شَيْئًا؟
+
+(Do you think that if there was a flowing river at the door of anyone of you and he bathed in it five times every day, would there be any dirt left on him?) They said, "No, O Messenger of Allah!" He ﷺ said;
+
+كَذَلِكَ الصَّلَوَاتُ الْخَمْسُ يَمْحُو اللهُ بِهِنَّ الذُّنُوبَ وَالْخَطَايَا
+
+(This is like the five daily prayers, for Allah uses them to wipe away the sins and wrongdoings.) Muslim recorded in his Sahih that Abu Hurayrah said that the Messenger of Allah ﷺ used to say,
+
+الصَّلَوَاتُ الْخَمْسُ، وَالْجُمُعَةُ إِلَى الْجُمُعَةِ، وَرَمَضَانُ إِلَى رَمَضَانَ، مُكَفِّرَاتٌ لِمَا بَيْنَهُنَّ مَا اجْتُنِبَتِ الْكَبَائِرُ
+
+(The five daily prayers, Jumu'ah (Friday prayer) to Jumu'ah and (the fast of) Ramadan to Ramadan are expiations for whatever sins were committed between them, as long as you stay away from the major sins.) Al-Bukhari recorded Ibn Mas'ud saying that a man kissed a woman (who was not his relative or wife). He then came to the Prophet ﷺ and informed him about the incident. Thus, Allah revealed,
+
+وَأَقِمِ الصَّلَاةَ طَرَفَيِ النَّهَارِ وَزُلَفًا مِّنَ اللَّيْلِ ۚ إِنَّ الْحَسَنَاتِ يُذْهِبْنَ السَّيِّئَاتِ
+
+(And perform Salah, at the two ends of the day and in some hours of the night. Verily, the good deeds remove the evil deeds.)[11:114] The man then said, "O Messenger of Allah, is this only for me?" The Prophet ﷺ replied,
+
+لِجَمِيعِ أُمَّتِي كُلِّهِم
+
+(This is for all of my (Ummah) followers.) Al-Bukhari recorded this narration in the Book of Prayer as well and the Book of Tafsir.
+
+Imam Ahmad recorded that Ibn 'Abbas said that a man came to 'Umar and said that a woman came to do business with him. During the course of their business, he took her into his place and did everything with her except the actual act of sexual intercourse. 'Umar said, "Woe unto you! She probably was a woman whose husband is away (fighting) in the path of Allah." The man said, "Of course she was." 'Umar then said, "Go to Abu Bakr and ask him about this." The man went to Abu Bakr and asked him about the matter. Abu Bakr said, "She probably was a woman whose husband is away (fighting) in the path of Allah," just as 'Umar had said. Then he went to the Prophet ﷺ and told him the same story. The Prophet ﷺ said,
+
+فَلَعَلَّهَا مُغِيبَةٌ فِي سَبِيلِ اللهِ
+
+(She probably was a woman whose husband is away (fighting) in the path of Allah.) Then a verse of Qur'an was revealed,
+
+وَأَقِمِ الصَّلَاةَ طَرَفَيِ النَّهَارِ وَزُلَفًا مِّنَ اللَّيْلِ ۚ إِنَّ الْحَسَنَاتِ يُذْهِبْنَ السَّيِّئَاتِ
+
+(And perform the Salah, at the two ends of the day and in some hours of the night. Verily, the good deeds remove the evil deeds.) The man then said, "O Messenger of Allah! Is this verse only for me, or does it apply to all of the people in general" 'Umar then struck the man on his chest with his hand and said, "No, rather it is for all of the people in general." Then the Messenger of Allah ﷺ said,
+
+صَدَقَ عُمَرُ
+
+('Umar has spoken the truth.)
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله تعالى :  وَأَقِمِ الصَّلاةَ طَرَفَيِ النَّهَارِ وَزُلَفًا مِنَ اللَّيْلِ إِنَّ الْحَسَنَاتِ يُذْهِبْنَ السَّيِّئَاتِ ذَلِكَ ذِكْرَى لِلذَّاكِرِينَ (114)قال أبو جعفر: يقول تعالى ذكره لنبيه محمد صلى الله عليه وسلم: (وأقم الصلاة ) ، يا محمد، يعني: صَلِّ  ، (طرفي النهار)، يعني الغداة‍َ والعشيَّ.* * *واختلف أهل التأويل في التي عُنِيت بهذه الآية من صَلوات العشيّ، بعد إجماع جميعهم على أن التي عُنيت من صَلاة الغداة، الفجرُ.فقال بعضهم: عُنيت بذلك صلاة الظهر والعصر. قالوا: وهما من ص...
+القول في تأويل قوله تعالى: ﴿وَأَقِمِ الصَّلاةَ طَرَفَيِ النَّهَارِ وَزُلَفًا مِنَ اللَّيْلِ إِنَّ الْحَسَنَاتِ يُذْهِبْنَ السَّيِّئَاتِ ذَلِكَ ذِكْرَى لِلذَّاكِرِينَ (١١٤) ﴾
+
+قال أبو جعفر: يقول تعالى ذكره لنبيه محمد ﷺ: ﴿وأقم الصلاة﴾ ، يا محمد، يعني: صَلِّ = ﴿طرفي النهار﴾ ، يعني الغداةَ والعشيَّ.
+
+* *
+
+واختلف أهل التأويل في التي عُنِيت بهذه الآية من صَلوات العشيّ، بعد إجماع جميعهم على أن التي عُنيت من صَلاة الغداة، الفجرُ.
+
+فقال بعضهم: عُنيت بذلك صلاة الظهر والعصر. قالوا: وهما من صلاة العشيّ.
+
+ذكر من قال ذلك:
+
+١٨٦٠٩- حدثنا أبو كريب قال، حدثنا وكيع = وحدثنا ابن وكيع قال، حدثنا أبي = عن سفيان، عن منصور، عن مجاهد: ﴿أقم الصلاة طرفي النهار﴾ ، قال: الفجر، وصلاتي العشي = يعني الظهر والعصر.
+
+١٨٦١٠- حدثني المثني قال، حدثنا أبو نعيم قال، حدثنا سفيان، عن منصور، عن مجاهد، مثله.
+
+١٨٦١١- حدثنا الحسن بن يحيى قال، أخبرنا عبد الرزاق، قال: أخبرنا الثوري، عن منصور، عن مجاهد، في قوله: ﴿أقم الصلاة طرفي النهار﴾ ، قال: صلاة الفجر، وصلاة العشي.
+
+١٨٦١٢- حدثني المثني قال، حدثنا سويد قال، أخبرنا ابن المبارك، عن أفلح بن سعيد قال: سمعت محمد بن كعب القرظي يقول: ﴿أقم الصلاة طرفي النهار﴾ ، قال: فطرفا النهار: الفجرُ والظهرُ والعصرُ.
+
+١٨٦١٣- حدثني الحارث قال، حدثنا عبد العزيز قال، حدثنا أبو معشر، عن محمد بن كعب القرظي: ﴿أقم الصلاة طرفي النهار﴾ ، قال: ﴿طرفي النهار﴾ ، قال: الفجر والظهر والعصر.
+
+١٨٦١٤- حدثني المثنى قال، حدثنا إسحاق قال، حدثنا عبد الرحمن بن مغراء، عن جويبر، عن الضحاك في قوله: ﴿أقم الصلاة طرفي النهار﴾ ، قال: الفجر والظهر والعصر.
+
+* *
+
+وقال آخرون: بل عنى بها صلاة المغرب.
+
+ذكر من قال ذلك:
+
+١٨٦١٥- حدثني المثني قال، حدثنا عبد الله قال، حدثني معاوية، عن علي، عن ابن عباس في قوله: ﴿أقم الصلاة طرفي النهار﴾ ، يقول: صلاة الغداة وصلاة المغرب.
+
+١٨٦١٦- حدثنا محمد بن بشار قال، حدثنا يحيى، عن عوف، عن الحسن: ﴿أقم الصلاة طرفي النهار﴾ ، قال. صلاة الغداة والمغرب.
+
+١٨٦١٧- حدثني يونس قال، أخبرنا ابن وهب قال، قال ابن زيد في قوله: ﴿أقم الصلاة طرفي النهار﴾ ، الصبح، والمغرب.
+
+* *
+
+وقال آخرون: عني بها: صلاة العصر.
+
+ذكر من قال ذلك:
+
+١٨٦١٨- حدثنا ابن وكيع قال، حدثنا عبدة بن سليمان، عن جويبر، عن الضحاك، في قوله: ﴿أقم الصلاة طرفي النهار﴾ ، قال: صلاة الفجر والعصر.
+
+١٨٦١٩-. . . . قال: حدثنا زيد بن حباب، عن أفلح بن سعيد القبائي، عن محمد بن كعب ﴿أقم الصلاة طرفي النهار﴾ ، الفجر والعصر.
+
+١٨٦٢٠- حدثني يعقوب قال، حدثنا ابن علية قال، حدثنا أبو رجاء، عن الحسن في قوله: ﴿أقم الصلاة طرفي النهار﴾ ، قال: صلاة الصبح وصلاة العصر.
+
+١٨٦٢١- حدثني الحسين بن علي الصدائي قال، حدثنا أبي قال، حدثنا مبارك، عن الحسن قال، قال الله لنبيه: ﴿أقم الصلاة طرفي النهار﴾ ، قال: ﴿طرفي النهار﴾ ، الغداة والعصر.
+
+١٨٦٢٢- حدثنا بشر قال، حدثنا يزيد قال، حدثنا سعيد، عن قتادة قوله ﴿أقم الصلاة طرفي النهار﴾ ، يعني صلاة العصر والصبح.
+
+١٨٦٢٣- حدثني المثني قال، حدثنا سويد قال، أخبرنا ابن المبارك، عن مبارك بن فضالة، عن الحسن: ﴿أقم الصلاة طرفي النهار﴾ ، الغداة والعصر.
+
+١٨٦٢٤- حدثنا ابن وكيع قال، حدثنا زيد بن حباب، عن أفلح بن زيد، عن محمد بن كعب: ﴿أقم الصلاة طرفي النهار﴾ ، الفجر والعصر.
+
+١٨٦٢٥- حدثنا ابن بشار قال، حدثنا أبو عامر قال، حدثنا قرة، عن الحسن: ﴿أقم الصلاة طرفي النهار﴾ ، قال: الغداة والعصر.
+
+* *
+
+وقال بعضهم: بل عنى بطرفي النهار: الظهر، والعصر، وبقوله: ﴿زلفًا من الليل﴾ ، المغر ب، والعشاء، والصبح.
+
+* *
+
+قال أبو جعفر: وأولى هذه الأقوال في ذلك عندي بالصواب، قولُ من قال: "هي صلاة المغرب"، كما ذكرنا عن ابن عباس.
+
+وإنما قلنا هو أولى بالصواب لإجماع الجميع على أن صلاة أحد الطرفين من ذلك صلاة الفجر، وهي تصلى قبل طلُوع الشمس. فالواجب إذ كان ذلك من جميعهم إجماعًا، أن تكون صلاةُ الطرف الآخر المغرب، لأنها تصلى بعد غُروب الشمس. ولو كان واجبًا أن يكون مرادًا بصلاة أحد الطرفين قبل غروب الشمس، وجب أن يكون مرادًا بصلاة الطرف الآخر بعدَ طلوعها، وذلك ما لا نعلم قائلا قاله، إلا من قال: "عنى بذلك صلاة الظهر والعصر". وذلك قول لا يُخِيلُ فساده، [[في المطبوعة: " لا نحيل فساده "، وهو كلام فاسد، وفي المخطوطة غير منقوطة. يقال: " أخال الشيء "، اشتبه. يقال " هذا الأمر لا يخيل على أحد "، أي لا يشكل. و " شيء مخيل "، مشكل. وقد مضى مثله وعلقت عليه في أوائل الكتاب، في مواضع.]] لأنهما إلى أن يكونا جميعًا من صلاة أحد الطرفين، أقربُ منهما إلى أن يكونا من صلاة طرفي النهار. وذلك أن "الظهر" لا شك أنها تصلَّى بعد مضي نصف النهار في النصف الثاني منه، فمحالٌ أن تكون من طرف النهار الأول، وهي في طرفه الآخر.
+
+فإذا كان لا قائلَ من أهل العلم يقول: "عنى بصلاة طرف النهار الأول صلاةً بعد طلوع الشمس"، وجب أن يكون غير جائز أن يقال: "عنى بصلاة طرف النهار الآخر صلاةً قبل غروبها".
+
+وإذا كان ذلك كذلك، صح ما قلنا في ذلك من القول، وفسدَ ما خالفه.
+
+* *
+
+وأما قوله: ﴿وزلفًا من الليل﴾ ، فإنه يعني: ساعاتٍ من الليل.
+
+* *
+
+وهي جمع "زُلْفة"، و"الزلفة"، الساعة، والمنزلة، والقربة، وقيل: إنما سميت "المزدلفة " و"جمع " من ذلك، لأنها منزلٌ بعد عرفة = وقيل سميت بذلك، لازدلاف آدم من عَرَفة إلى حواء وهي بها، ومنه قول العجاج في صفة بعير:
+
+ناجٍ طَوَاهُ الأَيْنُ مِمَّا وجَفا ... طَيَّ اللَّيالِي زُلَفًا فَزُلَفَا [[ديوانه: ٨٤، مجاز القرآن ١: ٣٠٠، وسيبويه ١: ١٨٠، واللسان (زلف) ، (حقف) ، (سما) ، (وجف) وغيرها كثير، وسيأتي في التفسير ١٩: ٥١ (بولاق) . وبعده هناك: سَمَاوَةَ الهِلاَلِ حَتَّى احْقَوْقَفَا
+
+" الأين "، التعب. " وجف " من " الوجيف "، وهو سرعة السير. و " سماوة الهلال " شخصه، إذا ارتفع في الأفق شيئًا. و " احقوقف " اعوج.]]
+
+* *
+
+واختلفت القراء في قراءة ذلك.
+
+فقرأته عامة قراء المدينة والعراق: ﴿وَزُلَفًا﴾ ، بضم الزاي وفتح اللام.
+
+* *
+
+وقرأه بعض أهل المدينة بضم الزاي واللام = كأنه وجَّهه إلى أنه واحدٌ، وأنه بمنزلة "الحُلُم".
+
+* *
+
+وقرأ بعض المكيين: ﴿وَزُلْفًا﴾ ، ضم الزاي وتسكين اللام.
+
+* *
+
+قال أبو جعفر: وأعجب القراءات في ذلك إليّ أن أقرأها: ﴿وزُلَفًا﴾ ، بضم الزاي وفتح اللام، على معنى جمع "زُلْفة"، كما تجمع "غُرْفَة غُرف"، و"حُجْرة حُجر".
+
+وإنما اخترت قراءة ذلك كذلك، لان صلاة العشاء الآخرة إنما تصلى بعد مضيّ زُلَفٍ من الليل، وهي التي عُنِيت عندي بقوله: ﴿وزلفًا من الليل﴾ .
+
+* *
+
+وبنحو الذي قلنا في قوله: ﴿وزلفًا من الليل﴾ ، قال جماعة من أهل التأويل.
+
+ذكر من قال ذلك:
+
+١٨٦٢٦- حدثني محمد بن عمرو قال، حدثنا أبو عاصم قال، حدثنا عيسى، عن ابن أبي نجيح، عن مجاهد، في قول الله: ﴿وزلفًا من الليل﴾ ، قال: الساعات من الليل صلاة العتمة.
+
+١٨٦٢٧- حدثني المثني قال، حدثنا أبو حذيفة قال، حدثنا شبل، عن ابن أبي نجيح، عن مجاهد، مثله.
+
+١٨٦٢٨- حدثنا القاسم قال، حدثنا الحسين قال، حدثني حجاج، عن ابن جريج، عن مجاهد، مثله.
+
+١٨٦٢٩- حدثني المثني قال، حدثنا عبد الله قال، حدثني معاوية، عن علي، عن ابن عباس: ﴿زلفًا من الليل﴾ يقول: صلاة العتمة.
+
+١٨٦٣٠- حدثنا محمد بن بشار قال، حدثنا يحيى، عن عوف، عن الحسن: ﴿وزلفًا من الليل﴾ ، قال: العشاء.
+
+١٨٦٣١- حدثنا أبو كريب قال، حدثنا يحيى بن آدم، عن سفيان، عن عبيد الله بن أبي يزيد قال: كان ابن عباس يعجبه التأخير بالعشاء ويقرأ: ﴿وزلفًا من الليل﴾ .
+
+١٨٦٣٢- حدثنا ابن وكيع قال، حدثنا ابن نمير، عن ورقاء، عن ابن أبي نجيح، عن مجاهد: ﴿وزلفًا من الليل﴾ ، قال: ساعة من الليل، صلاة العتمة.
+
+١٨٦٣٣- حدثني يونس قال، أخبرنا ابن وهب قال، قال ابن زيد في قوله: ﴿وزلفًا من الليل﴾ ، قال: العتمة، وما سمعت أحدًا من فقهائنا ومشايخنا، يقول "العشاء"، ما يقولون إلا "العتمة"
+
+* *
+
+وقال قوم: الصلاة التي أمر النبي ﷺ بإقامتها زُلَفًا من الليل، صلاة المغرب والعشاء.
+
+ذكر من قال ذلك:
+
+١٨٦٣٤- حدثني يعقوب بن إبراهيم، وابن وكيع، واللفظ ليعقوب قالا حدثنا ابن علية قال، حدثنا أبو رجاء عن الحسن: ﴿وزلفًا من الليل﴾ ، قال: هما زُلفتان من الليل: صلاة المغرب، وصلاة العشاء.
+
+١٨٦٣٥- حدثنا ابن حميد وابن وكيع، قالا حدثنا جرير، عن أشعث، عن الحسن في قوله: ﴿وزلفًا من الليل﴾ ، قال: المغرب، والعشاء.
+
+١٨٦٣٦- حدثني الحسن بن علي، قال ثنا أبي قال، حدثنا مبارك، عن الحسن، قال الله لنبيه ﷺ: ﴿أقم الصلاة طرفي النهار وزلفًا من الليل﴾ ، قال: ﴿زلفًا من الليل﴾ : المغرب، والعشاء، قال رسول الله ﷺ هما زُلْفَتا الليل، المغرب والعشاء."
+
+١٨٦٣٧- حدثنا أبو كريب قال، حدثنا وكيع، وحدثنا ابن وكيع قال، حدثنا أبي، عن سفيان عن منصور عن مجاهد: ﴿وزلفًا من الليل﴾ ، قال: المغرب، والعشاء.
+
+١٨٦٣٨- حدثنا الحسن بن يحيى قال، أخبرنا عبد الرزاق قال، أخبرنا الثوري، عن منصور، عن مجاهد، مثله.
+
+١٨٦٣٩- حدثني المثنى قال حدثنا أبو نعيم قال:، حدثنا سفيان، عن منصور، عن مجاهد، مثله.
+
+١٨٦٤٠-. . . . قال، حدثنا سويد قال، أخبرنا ابن المبارك، عن المبارك بن فضالة، عن الحسن قال: قد بيّن اللهُ مواقيتَ الصلاة في القرآن، قال: ﴿أَقِمِ الصَّلاةَ لِدُلُوكِ الشَّمْسِ إِلَى غَسَقِ اللَّيْلِ﴾ [سورة الإسراء: ٧٨] ، قال: "دلوكها": إذا زالت عن بطن السماء، وكان لها في الأرض فيءٌ. وقال: ﴿أقم الصلاة طرفي النهار﴾ ، الغداة، والعصر = ﴿وزلفًا من الليل﴾ ، المغرب، والعشاء. قال: فقال رسول الله ﷺ: هُما زلفتا الليل، المغرب والعشاء.
+
+١٨٦٤١- حدثنا بشر قال، حدثنا يزيد قال، حدثنا سعيد، عن قتادة: ﴿وزلفًا من الليل﴾ ، قال: يعني صلاة المغرب وصلاة العشاء.
+
+١٨٦٤٢- حدثني المثني قال، حدثنا سويد قال، أخبرنا ابن المبارك، عن أفلح بن سعيد قال: سمعت محمد بن كعب القرظي يقول: ﴿زلفًا من الليل﴾ ، المغرب والعشاء.
+
+١٨٦٤٣- حدثنا ابن وكيع قال، حدثنا زيد بن حباب، عن أفلح بن سعيد، عن محمد بن كعب، مثله.
+
+١٨٦٤٤- حدثني الحارث قال، حدثنا عبد العزيز قال، حدثنا أبو معشر، عن محمد بن كعب القرظي: ﴿وزلفًا من الليل﴾ ، المغرب والعشاء.
+
+١٨٦٤٥- حدثني المثني قال، حدثنا سويد قال، أخبرنا ابن المبارك، عن عاصم بن سليمان، عن الحسن قال: زلفتا الليل، المغرب والعشاء.
+
+١٨٦٤٦- حدثني المثني قال، حدثنا إسحاق قال، حدثنا عبد الرحمن بن مغراء، عن جويبر، عن الضحاك في قوله: ﴿وزلفًا من الليل﴾ ، قال: المغرب والعشاء.
+
+١٨٦٤٧- حدثنا ابن وكيع قال، حدثنا جرير، عن الأعمش، عن عاصم، عن الحسن: ﴿وزلفًا من الليل﴾ ، قال: المغرب والعشاء.
+
+١٨٦٤٨- حدثنا ابن وكيع قال، حدثنا عبدة بن سليمان، عن جويبر، عن الضحاك: ﴿وزلفًا من الليل﴾ ، قال: المغرب والعشاء.
+
+١٨٦٤٩- حدثنا ابن حميد قال، حدثنا جرير، عن عاصم، عن الحسن: ﴿زلفًا من الليل﴾ ، صلاة المغرب والعشاء.
+
+* *
+
+وقوله: ﴿إن الحسنات يذهبن السيئات﴾ ، يقول تعالى ذكره: إنّ الإنابة إلى طاعة الله والعمل بما يرضيه، يذهب آثام معصية الله، ويكفّر الذنوب. [[" الأثام "، عقوبة الإثم وجزاؤه. وأما " الآثام " فجمع " إثم "، وهو الذئب.]]
+
+* *
+
+ثم اختلف أهل التأويل في الحسنات التي عنى الله في هذا الموضع، اللاتي يذهبن السيئات، فقال بعضهم: هنّ الصلوات الخمس المكتوبات.
+
+ذكر من قال ذلك:
+
+١٨٦٥٠- حدثني يعقوب بن إبراهيم قال، حدثنا ابن علية، عن الجريري، عن أبي الورد بن ثمامة، عن أبي محمد ابن الحضرمي قال، حدثنا كعب في هذا المسجد، قال: والذي نفس كعب بيده، إن الصلوات الخمس لهُنّ الحسنات التي يذهبن السيئات، كما يغسل الماءُ الدَّرَنَ. [[الأثر: ١٨٦٥٠ - " الجريري "، هو " سعيد بن إياس الجريري "، سلف مرارًا. و " أبو الورد بن ثمامة بن حزن القشيري "، ويقال هو: " ثمامة بن حزن "، تابعي ثقة، لم يدرك غير واحد من الصحابة، وكان قليل الحديث. مترجم في التهذيب، وابن سعد ٧ / ١ / ١٦٤، والكنى للبخاري: ٧٩، وابن أبي حاتم ٤ / ٢ / ٤٥١ في الكنى، وفي " ثمامة بن حزن القشيري " ١ / ١ / ٤٦٥، ولم يقل هو " أبو الورد "، فكأنهما عنده رجلان. " وأبو محمد بن الحضرمي "، هكذا جاء في المخطوطة والمطبوعة، والذي في كتب الرجال: " أبو محمد الحضرمي "، غلام أبي أيوب الأنصاري، مترجم في التهذيب، والكنى للبخاري: ٦٦، وابن أبي حاتم ٤ / ٢ / ٤٣٢، ولم يذكروا له رواية عن كعب، ولكن هذا الخبر يدل على أنه رآه، وسمع منه، وروى عنه.]]
+
+١٨٦٥١- حدثني المثني قال، حدثنا سويد قال، أخبرنا ابن المبارك، عن أفلح قال: سمعت محمد بن كعب القرظى يقول في قوله: ﴿إن الحسنات يذهبن السيئات﴾ ، قال: هن الصلوات الخمس.
+
+١٨٦٥٢- حدثنا الحسن بن يحيى قال، أخبرنا عبد الرزاق قال، أخبرنا الثوري، عن عبد الله بن مسلم، عن سعيد بن جبير، عن ابن عباس: ﴿إن الحسنات يذهبن السيئات﴾ ، قال: الصلوات الخمس.
+
+١٨٦٥٣-. . . . قال، أخبرنا عبد الرزاق قال، أخبرنا الثوري، عن منصور، عن مجاهد: ﴿إن الحسنات﴾ الصلوات.
+
+١٨٦٥٤- حدثنا محمد بن بشار قال، حدثنا يحيى، وحدثنا ابن وكيع قال، حدثنا أبو أسامة جميعا، عن عوف، عن الحسن: ﴿إن الحسنات يذهبن السيئات﴾ ، قال: الصلوات الخمس.
+
+١٨٦٥٥- حدثني زريق بن السَّخت قال، حدثنا قبيصة، عن سفيان، عن عبد الله بن مسلم، عن سعيد بن جبير، عن ابن عباس: (إن الحسنات يذهبن السيئات) ، قال: الصلوات الخمس. [[الأثر: ١٨٦٥٥ - " رزيق بن السخت "، شيخ الطبري، مضى برقم: ١٠٠٥١. وكان في المطبوعة والمخطوطة هنا ". . بن الشخب "، وهو خطأ.]]
+
+١٨٦٥٦- حدثني المثني قال، حدثنا عمرو بن عون، قال، أخبرنا هشيم، عن جويبر، عن الضحاك في قوله تعالى: ﴿إن الحسنات يذهبن السيئات﴾ ، قال: الصلوات الخمس.
+
+١٨٦٥٧- حدثني المثني قال، حدثنا عمرو بن عون قال، أخبرنا هشيم، عن منصور، عن الحسن قال، الصلوات الخمس.
+
+١٨٦٥٨- حدثني المثني قال، حدثنا الحماني قال، حدثنا شريك، عن سماك، عن إبراهيم، عن علقمة، عن عبد الله: ﴿إن الحسنات يذهبن السيئات﴾ ، قال: الصلوات الخمس.
+
+١٨٦٥٩-. . . . قال، حدثنا سويد قال، أخبرنا ابن المبارك، عن سعيد الجريري قال، حدثني أبو عثمان، عن سلمان قال: والذي نفسي بيده، إن الحسنات التي يمحو الله بهن السيئات كما يغسل الماء الدَّرَن: الصلواتُ الخمس.
+
+١٨٦٦٠- حدثنا ابن وكيع قال، حدثنا حفص بن غياث، عن عبد الله بن مسلم، عن سعيد بن جبير، عن ابن عباس: ﴿إن الحسنات يذهبن السيئات﴾ ، قال: الصلوات الخمس.
+
+١٨٦٦١- حدثنا ابن وكيع قال، حدثنا عبد الله، عن إسرائيل، عن أبي إسحاق، عن مزيدة بن 
+
+[TRUNCATED at 12000 chars — 22524 more. Consult the source directly before relying on anything near the cut.]
 
 ### al-Muyassar (Arabic)
 
-وأدِّ الصلاة -أيها النبي- على أتمِّ وجه طَرَفَي النهار في الصباح والمساء، وفي ساعات من الليل. إنَّ فِعْلَ الخيرات يكفِّر الذنوب السالفة ويمحو آثارها، والأمر بإقامة الصلاة وبيان أن الحسنات يذهبن السيئات، موعظة لمن اتعظ بها وتذكر.
+وأدِّ الصلاة -أيها النبي- على أتمِّ وجه، طَرَفَي النهار في الصباح والمساء، وفي ساعات من الليل. إنَّ فِعْلَ الخيرات يكفِّر الذنوب السالفة ويمحو آثارها، والأمر بإقامة الصلاة وبيان أن الحسنات يذهبن السيئات، موعظة لمن اتعظ بها وتذكر.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿وأَقِمْ الصَّلاة طَرَفَيْ النَّهار﴾ الغَداة والعَشِيّ أيْ: الصُّبْح والظُّهْر والعَصْر ﴿وزُلَفًا﴾ جَمْع زُلْفَة أيْ: طائِفَة ﴿مِن اللَّيْل﴾ المَغْرِب والعِشاء ﴿إنّ الحَسَنات﴾ كالصَّلَواتِ الخَمْس ﴿يُذْهِبْنَ السَّيِّئات﴾ الذُّنُوب الصَّغائِر نَزَلَتْ فِيمَن قَبَّلَ أجْنَبِيَّة فَأَخْبَرَهُ النَّبِيّ ﷺ فَقالَ ألِي هَذا ؟ فَقالَ "لِجَمِيعِ أُمَّتِي كُلّهمْ" رَواهُ الشَّيْخانِ ﴿ذَلِكَ ذِكْرى لِلذّاكِرِينَ﴾ عِظَة لِلْمُتَّعِظِينَ
 
 ---
 
@@ -33,22 +298,259 @@ The Command to establish the Prayer
 
 ### Ibn Kathir (English)
 
+Perform the Salah from midday till the darkness of the night, and recite the Qur'an in the early dawn. Verily, the recitation of the Qur'an in the early dawn is ever witnessed (78)And in some parts of the night (also) offer the Salah with it as an additional prayer for you. It may be that your Lord will raise you to Maqam Mahmud (79)
+
 The Command to offer the Prayers at their appointed Times
-Allah says, commanding His Messenger to offer the prescribed prayers at the appointed times:
-أَقِمِ الصَّلَوةَ لِدُلُوكِ الشَّمْسِ
-(Perform the Salat from midday.) Hushaym narrated from Mughirah from Ash-Sha`bi from Ibn `Abbas: "Midday means when the sun is at its zenith." This was also reported by Nafi` from Ibn `Umar, and by Malik in his Tafsir from Az-Zuhri from Ibn `Umar. This was the opinion of Abu Barzah Al-Aslami and Mujahid, an...
+
+Allah says, commanding His Messenger ﷺ to offer the prescribed prayers at the appointed times:
+
+أَقِمِ الصَّلَاةَ لِدُلُوكِ الشَّمْسِ
+
+(Perform the Salat from midday.) Hushaym narrated from Mughirah from Ash-Sha'bi from Ibn 'Abbas: "Midday means when the sun is at its zenith." This was also reported by Nafi' from Ibn 'Umar, and by Malik in his Tafsir from Az-Zuhri from Ibn 'Umar. This was the opinion of Abu Barzah Al-Aslami and Mujahid, and of Al-Hasan, Ad-Dahhak, Abu Ja'far Al-Baqir and Qatadah.
+
+It is also understood to [generally] refer to the times of the five prayers. Allah said;
+
+لِدُلُوكِ الشَّمْسِ إِلَىٰ غَسَقِ اللَّيْلِ
+
+(from midday till the darkness of the night,) meaning darkness, or it was said, sunset. This was understood to mean Zuhr 'Asr, Maghrib and 'Isha'.
+
+وَقُرْآنَ الْفَجْرِ
+
+(and recite the Qur'an in the early dawn.) meaning Salat Al-Fajr. The details of the timings of the prayers were reported in the Mutawatir Sunnah from the words and deeds of the Prophet ﷺ, and this is what the people of Islam have followed until the present day, passing it down from generation to generation, century after century, as we have stated in the appropriate place, praise be to Allah.
+
+The Meeting of the Angels at the Times of Fajr and 'Asr Prayers
+
+إِنَّ قُرْآنَ الْفَجْرِ كَانَ مَشْهُودًا
+
+(Verily the recitation of the Qur'an in the early down is ever witnessed.) Ibn Mas'ud reported from Abu Hurayrah (may Allah be pleased with them both) that the Prophet ﷺ said concerning this Ayah:
+
+وَقُرْآنَ الْفَجْرِ ۖ إِنَّ قُرْآنَ الْفَجْرِ كَانَ مَشْهُودًا
+
+(and recite the Qur'an in the early dawn. Verily, the recitation of the Qur'an in the early dawn is ever witnessed.)
+
+تَشْهَدُهُ مَلَائِكَةُ اللَّيْلِ وَمَلَائِكَةُ النَّهَارِ
+
+(It is witnessed by the angels of the night and the angels of the day.)
+
+Al-Bukhari narrated from Abu Hurayrah that the Prophet ﷺ said:
+
+فَضْلُ صَلَاةِ الْجَمِيعِ عَلَى صَلَاةِ الْوَاحِدِ خَمْسٌ وَعِشْرُونَ دَرَجَةً، وَتَجْتَمِعُ مَلَائِكَةُ اللَّيْلِ وَمَلَائِكَةُ النَّهَارِ فِي صَلَاةِ الْفَجْرِ
+
+(The prayer offered in congregation is twenty-five degrees better than the prayer offered individually, and the angels of the night and the angels of the day meet at Salat Al-Fajr.)
+
+Abu Hurayrah said: Recite, if you wish:
+
+وَقُرْآنَ الْفَجْرِ ۖ إِنَّ قُرْآنَ الْفَجْرِ كَانَ مَشْهُودًا
+
+(and recite the Qur'an in the early dawn. Verily, the recitation of the Qur'an in the early dawn is ever witnessed.)
+
+Imam Ahmad recorded from Ibn Mas'ud and Abu Hurayrah that the Prophet ﷺ said, concerning the Ayah:
+
+وَقُرْآنَ الْفَجْرِ ۖ إِنَّ قُرْآنَ الْفَجْرِ كَانَ مَشْهُودًا
+
+(and recite the Qur'an in the early dawn. Verily, the recitation of the Qur'an in the early dawn is ever witnessed.)
+
+تَشْهَدُهُ مَلَائِكَةُ اللَّيْلِ وَمَلَائِكَةُ النَّهَارِ
+
+(It is witnessed by the angels of the night and the angels of the day.) This was recorded by At-Tirmidhi, An-Nasa'i, and Ibn Majah. At-Tirmidhi said, "It is Hasan Sahih." According to the version recorded in the Two Sahihs from Abu Hurayrah, the Prophet ﷺ said:
+
+يَتَعَاقَبُونَ فِيكُمْ مَلَائِكَةٌ بِاللَّيْلِ وَمَلَائِكَةٌ بِالنَّهَارِ، وَيَجْتَمِعُونَ فِي صَلَاةِ الصُّبْحِ وَفِي صَلَاةِ الْعَصْرِ، فَيَعْرُجُ الَّذِينَ بَاتُوا فِيكُمْ فَيَسْأَلُهُمْ رَبُّهُمْ وَهُوَ أَعْلَمُ بِكُمْ كَيْفَ تَرَكْتُمْ عِبَادِي؟ فَيَقُولُونَ: أَتَيْنَاهُمْ وَهُمْ يُصَلُّونَ، وَتَرَكْنَاهُمْ وَهُمْ يُصَلُّونَ
+
+(The angels of the night and the angels of the day come amongst you in successive groups (in shifts). They meet at the Morning prayer (Fajr) and at the Mid-afternoon prayer ('Asr). Those who stayed among you at ascend, and their Lord asks them, although He knows best about you, "How did you leave My servants?" They say, "We came to them when they were praying and we left them when they were praying.")
+
+Abdullah bin Mas'ud said, "The two guards meet at Salat Al-Fajr, and one group ascends while the other stays where it is. " These were the comments of Ibrahim An-Nakha'i, Mujahid, Qatadah and others on the Tafsir of this Ayah.
+
+The Command to pray Tahajjud
+
+وَمِنَ اللَّيْلِ فَتَهَجَّدْ بِهِ نَافِلَةً لَّكَ
+
+(And in some parts of the night (also) offer the Salah with it as an additional prayer for you.) Here Allah commands him (the Prophet ﷺ) to offer further prayers at night after the prescribed prayers. It was reported in Sahih Muslim from Abu Hurayrah that when the Messenger of Allah ﷺ was asked which prayer is best after the prescribed prayers, he said,
+
+صَلَاةُ اللَّيْلِ
+
+(The Night prayer) Allah commanded His Messenger ﷺ to pray the Night prayer after offering the prescribed prayers, and the term Tahajjud refers to prayer that is offered after sleeping. This was the view of 'Alqamah, Al-Aswad, Ibrahim An-Nakha'i and others. It is also well-known from the Arabic language itself. A number of Hadiths report that the Messenger of Allah ﷺ used to pray Tahajjud after he had slept. These include reports from Ibn 'Abbas, 'A'ishah and other Companions, may Allah be pleased with them. This has been discussed in detail in the appropriate place, praise be to Allah. Al-Hasan Al-Basri said, "This is what comes after 'Isha', or it could mean what comes after sleeping."
+
+[نَافِلَةً لَّكَ]
+
+(an additional prayer (Nawafil)) means the Night prayer has been made an extra prayer specifically for the Prophet ﷺ, because all his previous and future sins had been forgiven. But for other members of his Ummah, offering optional prayers may expiate for whatever sins they may commit. This was the view of Mujahid, and it was reported in Al-Musnad from Abu Umamah Al-Bahili.
+
+عَسَىٰ أَن يَبْعَثَكَ رَبُّكَ مَقَامًا مَّحْمُودًا
+
+(It may be that your Lord will raise you to Maqam Mahmud.) meaning, 'do that which you are commanded to do, and We will raise you to a station of praise and glory (Maqam Mahmud) on the Day of Resurrection, where all of creation will praise you,' as will their Creator, may He be glorified and exalted. Ibn Jarir said, "Most of the commentators said, 'This is the position to which Muhammad ﷺ will be raised on the Day of Resurrection, to intercede for the people so that their Lord will relieve them of some of the hardships they are facing on that Day.'"
+
+It was reported that Hudhayfah said, "Mankind will be gathered in one arena, where they will all hear the call and will all be seen. They will be standing barefoot and naked as they were created, and no person shall speak except by the leave of Allah. He will call out, 'O Muhammad,' and he will respond,
+
+لَبَّيْكَ وَسَعْدَيْكَ، وَالْخَيْرُ فِي يَدَيْكَ وَالشَّرُّ لَيْسَ إِلَيْكَ، وَالْمَهدِيُّ مَنْ هَدَيْتَ، وَعَبْدُكَ بَيْنَ يَدَيْكَ، وَمِنْكَ وَإِلَيْكَ لَا مَنْجَى وَلَا مَلْجَأَ مِنْكَ إِلَّا إِلَيْكَ، تَبَارَكْتَ وَتَعَالَيْتَ سُبْحَانَكَ رَبَّ الْبَيْتِ
+
+(At your service, all goodness is in Your Hands and evil is not to be attributed to You. The one who is guided is the one whom You guide. Your servant is before You, from You, and to You and there is no salvation or refuge from You except with You. May You be blessed and exalted, Glory be to You, Lord of the House (the Ka'bah).)
+
+This is the position of praise and honor (Maqam Mahmud) which was mentioned by Allah."
+
+Ibn 'Abbas said, "The position of praise and honor is the position of intercession." Ibn Abi Najih reported something similar from Mujahid, and this was also the view of Al-Hasan Al-Basri.
+
+Qatadah said, "He is the first one for whom the earth will be opened on the Day of Resurrection, and he will be the first one to intercede." So the scholars consider this the position of praise and glory to which Allah referred in the Ayah:
+
+عَسَىٰ أَن يَبْعَثَكَ رَبُّكَ مَقَامًا مَّحْمُودًا
+
+(It may be that your Lord will raise you to Maqam Mahmud.) I, Ibn Kathir, say: the Messenger of Allah ﷺ will have honors in the Day of Resurrection in which no one else will have a share, honors which will not be matched by anyone else. He is the first one for whom the earth will be opened and he will come forth riding to the gathering place. He will have a banner under which Adam and anyone else will gather, and he will have the Hawd (Lake) to which no one else will have more access than he. He will have the right of the Grand Intercession with Allah when He comes to judge between His creation. This will be after the people ask Adam, then Nuh, then Ibrahim, then Musa, then 'Isa to intercede, and each of them will say, "I am not able for that." Then they will come to Muhammad ﷺ, and he will say,
+
+أَنَا لَهَا أَنَا لَهَا
+
+(I can do that, I can do that.)
+
+We will mention this in more detail shortly, If Allah wills. Part of that will be that he will intercede for some people who had been commanded to be taken to Hell, and they will be brought back. He is the first Prophet whose Ummah will be judged, and the first to take them across the Bridge over the Fire, and the first to intercede in Paradise, as was reported in Sahih Muslim.
+
+In the Hadith about the Trumpet, it says that none of the believers will enter Paradise except through his intercession. He will be the first to enter Paradise, and his Ummah will be the first nation to enter. He will intercede for the status to be raised for people whose deeds could not get them there. He is the one who will reach Al-Wasilah, which is the highest position in Paradise, which befits no one but him. When Allah gives permission for intercession on behalf of sinners, the angels, Prophets and believers will intercede, and he will intercede for people whose number is known only to Allah. No one will intercede like him and no one will match him in intercession. This has been explained in comprehensive detail at the end of the Book of Sirah, in the chapter on the specific qualities. Praise be to Allah. Now with the help of Allah we will mention the Hadiths that were reported concerning Al-Maqam Al-Mahmud.
+
+Al-Bukhari recorded that Ibn 'Umar said: "On the Day of Resurrection, the people will be humbled to their knees, each nation following its Prophet and saying, 'O so-and-so, intercede,' 'O so-and-so, intercede,' until the power of intercession is given to Muhammad ﷺ, and that will be the day when Allah raises him to a position of praise and glory.
+
+Ibn Jarir recorded that 'Abdullah bin 'Umar said that the Messenger of Allah ﷺ said:
+
+إِنَّ الشَّمْسَ لَتَدْنُو حَتَّى يَبْلُغَ الْعَرَقُ نِصْفَ الْأُذُنِ، فَبَيْنَمَا هُمْ كَذَلِكَ اسْتَغَاثُوا بِآدَمَ فَيَقُولُ: لَسْتُ بِصَاحِبِ ذَلِكَ، ثُمَّ بِمُوسَى فَيَقُولُ كَذَلِكَ، ثُمَّ بِمُحَمَّدٍ فَيَشْفَعُ بَيْنَ الْخَلْقِ فَيَمْشِي حَتَّى يَأْخُذَ بِحَلَقَةِ بَابِ الْجَنَّةِ، فَيَوْمَئِذٍ يَبْعَثُهُ اللهُ مَقَامًا مَحْمُودًا
+
+(The sun will come close until the sweat reaches halfway up one's ears. When the people are in that state, they will ask Adam for help, and he will say, "I am not the one to do that." Then they will ask Musa, and he will say likewise, then they will ask Muhammad, and he will intercede for the people and will go and take hold of the handle of the gate of Paradise, and that will be the Day when Allah resurrects him to a position of praise and glory.) Al-Bukhari also recorded it in the Book of Zakah, where he added:
+
+فَيَوْمَئِذٍ يَبْعَثُهُ اللهُ مَقَامًا مَحْمُودًا، يَحْمَدُهُ أَهْلُ الْجَمْعِ كُلُّهُم
+
+(That will be the Day when Allah resurrects him to a position of praise and glory, and all the people will praise him.) Abu Dawud At-Tayalisi recorded that 'Abdullah said, "Then Allah will give permission for intercession, and Ar-Ruh Al-Quddus, Jibril, will stand up, then Ibrahim, the close Friend of Allah will stand up, then 'Isa or Musa will stand up - Abu Az-Za'ra' said, 'I do 
+
+[TRUNCATED at 12000 chars — 8783 more. Consult the source directly before relying on anything near the cut.]
 
 ### al-Tabari (Arabic)
 
-يقول تعالى ذكره لنبيّه محمد صلى الله عليه وسلم ( أَقِمِ الصَّلاةَ ) يا محمد ( لِدُلُوكِ الشَّمْسِ ) .واختلف أهل التأويل في الوقت الذي عناه الله بدلوك الشمس، فقال بعضهم: هو وقت غروبها، والصلاة التي أمر بإقامتها حينئذ: صلاة المغرب .* ذكر من قال ذلك:حدثني واصل بن عبد الأعلى الأسدي، قال : ثنا ابن فضيل، عن أبي إسحاق، يعني الشيباني، عن عبد الرحمن بن الأسود، عن أبيه، أنه كان مع عبد الله بن مسعود، على سطح حين غربت الشمس، فقرأ ( أَقِمِ الصَّلاةَ لِدُلُوكِ الشَّمْسِ إِلَى غَسَقِ اللَّيْلِ ) . حتى فرغ م...
+القول في تأويل قوله تعالى: ﴿سُنَّةَ مَنْ قَدْ أَرْسَلْنَا قَبْلَكَ مِنْ رُسُلِنَا وَلا تَجِدُ لِسُنَّتِنَا تَحْوِيلا (٧٧) ﴾
+
+يقول تعالى ذكره: لو أخرجوك لم يلبثوا خلافك إلا قليلا ولأهلكناهم بعذاب من عندنا، سنتنا فيمن قد أرسلنا قبلك من رسلنا، فإنا كذلك كنا نفعل بالأمم إذا أخرجت رسلها من بين أظهرهم، ونصبت السنة على الخروج من معنى قوله ﴿لا يَلْبَثُونَ خِلافَكَ إِلا قَلِيلا﴾ لأن معنى ذلك: لعذّبناهم بعد قليل كسنتنا في أمم من أرسلنا قبلك من رسلنا، ولا تجد لسنتنا تحويلا عما جرت به.
+
+كما:-
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله ﴿سُنَّةَ مَنْ قَدْ أَرْسَلْنَا قَبْلَكَ مِنْ رُسُلِنَا وَلا تَجِدُ لِسُنَّتِنَا تَحْوِيلا﴾ : أي سنة الأمم والرسل كانت قبلك كذلك إذا كذبوا رسلهم وأخرجوهم، لم يناظروا أن الله أنزل عليهم عذابه.
+
+* *
+
+القول في تأويل قوله تعالى: ﴿أَقِمِ الصَّلاةَ لِدُلُوكِ الشَّمْسِ إِلَى غَسَقِ اللَّيْلِ وَقُرْآنَ الْفَجْرِ إِنَّ قُرْآنَ الْفَجْرِ كَانَ مَشْهُودًا (٧٨) ﴾
+
+يقول تعالى ذكره لنبيّه محمد ﷺ ﴿أَقِمِ الصَّلاةَ﴾ يا محمد ﴿لِدُلُوكِ الشَّمْسِ﴾ .
+
+واختلف أهل التأويل في الوقت الذي عناه الله بدلوك الشمس، فقال بعضهم: هو وقت غروبها، والصلاة التي أمر بإقامتها حينئذ: صلاة المغرب.
+
+ذكر من قال ذلك:
+
+⁕ حدثني واصل بن عبد الأعلى الأسدي، قال: ثنا ابن فضيل، عن أبي إسحاق، يعني الشيباني، عن عبد الرحمن بن الأسود، عن أبيه، أنه كان مع عبد الله بن مسعود، على سطح حين غربت الشمس، فقرأ ﴿أَقِمِ الصَّلاةَ لِدُلُوكِ الشَّمْسِ إِلَى غَسَقِ اللَّيْلِ﴾ . حتى فرغ من الآية، ثم قال: والذي نفسي بيده إن هذا لَحِينَ دَلَكَتِ الشمس وأفطر الصائم ووقت الصلاة.
+
+⁕ حدثنا ابن بشار قال: ثنا ابن أبي عدي، عن سعيد، عن قتادة، عن عقبة بن عبد الغافر، أن عُبيدة بن عبد الله كتب إليه أن عبد الله بن مسعود كان إذا غربت الشمس صلى المغرب. ويفطر عندها إن كان صائما، ويقسم عليها يمينا ما يقسمه على شيء من الصلوات بالله الذي لا إله إلا هو، إن هذه الساعة لميقات هذه الصلاة، ويقرأ فيها تفسيرها من كتاب الله ﴿أَقِمِ الصَّلاةَ لِدُلُوكِ الشَّمْسِ إِلَى غَسَقِ اللَّيْلِ﴾ .
+
+⁕ حدثنا محمد بن المثنى، قال: ثنا ابن أبي عديّ، عن شعبة، عن عاصم، عن أبي وائل، عن عبد الله قال: هذا دلوك الشمس، وهذا غسق الليل، وأشار إلى المشرق والمغرب.
+
+⁕ حدثنا ابن بشار، قال: ثنا عبد الرحمن، قال: ثنا سفيان، عن منصور، عن مجاهد، قال: قال ابن عباس: دلوك الشمس. غروبها، يقول: دلكت براح.
+
+⁕ حدثنا الحسن بن يحيى، قال: أخبرنا عبد الرزاق، قال: أخبرنا الثوري، عن أبي إسحاق. عن الأسود، عن عبد الله، أنه قال: حين غربت الشمس دلكت، يعني براح مكانا.
+
+⁕ حدثنا الحسن بن يحيى، قال: أخبرنا عبد الرزاق، قال: أخبرنا الثوري، عن منصور، عن مجاهد، عن ابن عباس، قال: دلوكها: غروبها.
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قال: قد ذكر لنا أن ابن مسعود كان يصليها إذا وجبت وعندها يفطر إذا كان صائما، ثم يقسم عليها قسما لا يقسمه على شيء من الصلوات بالله الذي لا إله إلا هو، إن هذه الساعة لميقات هذه الصلاة، ثم يقرأ ويصليها وتصديقها من كتاب الله ﴿أَقِمِ الصَّلاةَ لِدُلُوكِ الشَّمْسِ إِلَى غَسَقِ اللَّيْلِ﴾ .
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله ﴿أَقِمِ الصَّلاةَ لِدُلُوكِ الشَّمْسِ إِلَى غَسَقِ اللَّيْلِ﴾ قال: كان أبي يقول: دلوكها: حين تريد الشمس تغرب إلى أن يغسق الليل، قال: هي المغرب حين يغسق الليل، وتَدلُك الشمس للغروب.
+
+⁕ حدثني سعيد بن الربيع، قال: ثنا سفيان بن عيينة، سمع عمرو بن دينار أبا عُبيدة بن عبد الله بن مسعود يقول: كان عبد الله بن مسعود يصلي المغرب حين يغرب حاجب الشمس، ويحلف أنه الوقت الذي قال الله ﴿أَقِمِ الصَّلاةَ لِدُلُوكِ الشَّمْسِ إِلَى غَسَقِ اللَّيْلِ﴾ .
+
+⁕ حدثنا ابن حميد، قال: ثنا جرير، عن مغيرة، عن إبراهيم، قال: قال عبد الله حين غربت الشمس: هذا والله الذي لا إله غيره وقت هذه الصلاة. وقال: دلوكها: غروبها.
+
+وقال آخرون: دلوك الشمس: ميلها للزوال، والصلاة التي أمر رسول الله ﷺ بإقامتها عند دلوكها: الظهر.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا ابن بشار، قال: ثنا عبد الرحمن، قال: ثنا سفيان، عن الأعمش، عن عمارة بن عمير، عن عبد الرحمن بن يزيد، عن عبد الله، قال: دلوكها: ميلها، يعني الشمس.
+
+⁕ حدثني يعقوب بن إبراهيم، قال: ثنا هشيم، عن مغيرة، عن الشعبيّ، عن ابن عباس، قال، في قوله ﴿أَقِمِ الصَّلاةَ لِدُلُوكِ الشَّمْسِ﴾ قال: دلوكها: زوالها.
+
+⁕ حدثني موسى بن عبد الرحمن، قال: ثنا أبو أسامة، عن عبد الحميد بن جعفر، عن نافع، عن ابن عمر، في قوله ﴿أَقِمِ الصَّلاةَ لِدُلُوكِ الشَّمْسِ﴾ قال: دلوكها: ميلها.
+
+⁕ حدثنا ابن حميد، قال: ثنا يحيى بن واضح، قال: ثنا الحسين بن واقد، عن سيار بن سلامة، عن أبي برزة الأسلميّ، قوله ﴿أَقِمِ الصَّلاةَ لِدُلُوكِ الشَّمْسِ﴾ قال: إذا زالت.
+
+⁕ حدثنا ابن حميد مرة أخرى، قال: ثنا أبو تميلة، قال: ثنا الحسين بن واقد، قال: ثنا سيار بن سلامة الرياحي، قال: أتيت أبا برزة فسأله والدي عن مواقيت صلاة رسول الله ﷺ، قال: كان رسول الله ﷺ يصلي الظهر إذا زالت الشمس، ثم تلا ﴿أَقِمِ الصَّلاةَ لِدُلُوكِ الشَّمْسِ﴾ .
+
+⁕ حدثني الحسين بن عليّ الصدائي، قال: ثنا أبي، قال: ثنا مبارك، عن الحسن، قال: قال الله عزّ وجلّ لنبيّه محمد ﷺ ﴿أَقِمِ الصَّلاةَ لِدُلُوكِ الشَّمْسِ إِلَى غَسَقِ اللَّيْلِ﴾ قال: الظهر دلوكها، إذا زالت عن بطن السماء، وكان لها في الأرض فيء.
+
+⁕ حدثنا يعقوب، قال: ثنا هشيم، قال: أخبرنا يونس، عن الحسن، في قوله ﴿أَقِمِ الصَّلاةَ لِدُلُوكِ الشَّمْسِ﴾ قال: دلوكها: زوالها.
+
+⁕ حدثني يعقوب، قال: ثنا هشيم، عن جويبر، عن الضحاك، مثل ذلك.
+
+⁕ حدثنا أبو كريب، قال: ثنا ابن يمان، عن أشعث، عن جعفر، عن أبي جعفر في ﴿أَقِمِ الصَّلاةَ لِدُلُوكِ الشَّمْسِ﴾ قال: لزوال الشمس.
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا محمد بن ثور، عن معمر، عن الزهري، عن ابن عباس، قال دلوك الشمس: زيغها بعد نصف النهار، يعني الظلّ.
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا محمد بن ثور، عن معمر، عن قتادة: دلوك الشمس، قال: حين تزيغ عن بطن السماء.
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله ﴿أَقِمِ الصَّلاةَ لِدُلُوكِ الشَّمْسِ﴾ أي إذا زالت الشمس عن بطن السماء لصلاة الظهر.
+
+⁕ حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى؛ وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء، جميعا عن ابن أبي نجيح، عن مجاهد ﴿لِدُلُوكِ الشَّمْسِ﴾ قال: حين تزيغ.
+
+⁕ حدثنا القاسم، قال: ثنا الحسين، قال: ثني حجاج، عن ابن جريج، عن مجاهد قال: دلوك الشمس: حين تزيغ.
+
+وأولى القولين في ذلك بالصواب قول من قال: عنى بقوله ﴿أَقِمِ الصَّلاةَ لِدُلُوكِ الشَّمْسِ﴾ : صلاة الظهر، وذلك أن الدلوك في كلام العرب: الميل، يقال منه: دلك فلان إلى كذا: إذا مال إليه. ومنه الخبر الذي رُوي عن الحسن أن رجلا قال له: أيُدالك الرجل امرأته؟ يعني بذلك: أيميل بها إلى المماطلة بحقها. ومنه قول الراجز:
+
+هَذَا مَقامُ قَدَميْ رَباحِ ... غُدْوَةَ حتى دَلَكَتْ بِرَاحِ [[الرجز من شواهد الفراء في معاني القرآن (مصورة الجامعة ص ١٨١) وروايته فيه: "ذبب" في موضع "غدوة" وهي كرواية (اللسان: برح) . قال الفراء: "أقم الصلاة لدلوك الشمس": جاء عن ابن عباس قال، هو زيغوغتها وزوالها للظهر. قال أبو زكريا: ورأيت العرب تذهب بالدلوك إلى غياب الشمس أنشدني بعضهم "هذا مقامي....البيت" يعني الساقي -ذبب-طرد الناس يراح: يقول حتى قال بالراحة على العين، فينظر هل غابت؟ قال: هكذا فسروه لنا. وقال أبو عبيدة في مجاز القرآن (١: ٣٨٧) : ودلوك الشمس من عند زوالها إلى أن تغيب. وقال: "هذا مقام" ... البيت ألا ترى أنها تدفع بالراح يضع كفه على حاجبيه من شعاعها لينظر ما بقي من غيابها. والدلوك: دنوها من غيبوبتها. وقال أبو زيد الأنصاري في النوادر (ص ٨٨) : ويقال: دلكت براح وبراح (بفتح الباء، وكسر الحاء أو ضمها) وهو اسم للشمس معروف. قال الراجز: هَذَا مَقَامُ قَدَمْى رَباحِ ... غُدْوَةَ حتى دَلَكَتْ بَرَاحِ
+
+قال أبو حاتم: براح: أي براحة. وفي (اللسان: برح) : وبراح وبراح (بالباء مفتوحة وكسر الحاء وضمها) : اسم للشمس معرفة مثل قطام، سميت بذلك لانتشارها وبيانها.]] ويروى: براح بفتح الباء، فمن روى ذلك: بِراح، بكسر الباء، فإنه يعني: أنه يضع الناظر كفه على حاجبه من شعاعها، لينظر ما لقي من غيارها، وهذا تفسير أهل الغريب أبي عُبيدة والأصمعي وأبي عمرو الشيبانيّ وغيرهم. وقد ذكرت في الخبر الذي رويت عن عبد الله بن مسعود، أنه قال حين غربت الشمس: دلكت براح، يعني: براح مكانا، ولست أدري هذا التفسير، أعني قوله: براح مكانا مِنْ كلام من هو ممن في الإسناد، أو من كلام عبد الله، فإن يكن من كلام عبد الله، فلا شك أنه كان أعلم بذلك من أهل الغريب الذين ذكرت قولهم، وأن الصواب في ذلك قوله، دون قولهم، وإن لم يكن من كلام عبد الله، فإن أهل العربية كانوا أعلم بذلك منه، ولما قال أهل الغريب في ذلك شاهد من قول العجاج، وهو قوله:
+
+والشَّمْسُ قد كادَتْ تَكُونُ دَنَفا ... أدْفَعُها بالرَّاح كَيْ تَزَحْلَفا [[البيتان من مشطور الرجز للعجاج (ديوانه طبع ليبسج سنة ١٩٠٣ ص ٨٢ من أرجوزة عدتها ٨١ بيتا) وهي في زوائد الديوان، لا في أصله. وهما من شواهد أبي عبيدة في مجاز القرآن (١: ٣٨٨) قال: في دلوك الشمس: ألا ترى أنها تدفع بالراح: يضع كفه على حاجبيه من شعاعها لينظر ما بقي من غيابها، والدلوك دنوها من غيبوبتها. قال العجاج: "والشمس ... إلخ". وفي (اللسان: تزحلف) ويقال للشمس إذا مالت للمغيب، إذا زالت عن كبد السماء نصف النهار: قد تزحلفت. قال العجاج: "والشمس ... إلخ".]]
+
+فأخبر أنه يدفع شعاعها لينظر إلى مغيبها براحه. ومن روى ذلك بفتح الباء، فإنه جعله اسما للشمس وكسر الحاء لإخراجه إياه على تقدير قَطامِ وحَذامِ ورَقاشِ، فإذا كان معنى الدلوك في كلام العرب هو الميل، فلا شكّ أن الشمس إذا زالت عن كبد السماء، فقد مالت للغروب، وذلك وقت صلاة الظهر، وبذلك ورد الخبر عن رسول الله ﷺ، وإن كان في إسناد بعضه بعض النظر.
+
+⁕ حدثنا أبو كريب، قال: ثنا خالد بن مخلد، قال: ثني محمد بن جعفر، قال: ثني يحيى بن سعيد، قال: ثني أبو بكر بن عمرو بن حزم الأنصاري، عن أبي مسعود عقبة بن عمرو، قال: قال رسول الله ﷺ: "أتاني جُبْرَائِيلُ عَلَيْهِ السَّلامُ لِدُلُوكِ الشَّمْسِ حِينَ زَالَتْ فَصَلَّى بِيَ الظُّهْرَ".
+
+⁕ حدثنا ابن حميد، قال: ثنا أبو تميلة، قال: ثنا الحسين بن واقد، قال: ثني سيار بن سلامة الرياحي، قال: قال أبو بَرزة: كان رسول الله ﷺ يصلي الظهر إذا زالت الشمس، ثم تلا ﴿أَقِمِ الصَّلاةَ لِدُلُوكِ الشَّمْسِ﴾ .
+
+⁕ حدثنا ابن حميد، قال: ثنا الحكم بن بشير، قال: ثنا عمرو بن قيس، عن ابن أبي ليلى، عن رجل، عن جابر بن عبد الله، قال: دعوت نبيّ الله ﷺ ومن شاء من أصحابه، فطعموا عندي، ثم خرجوا حين زالت الشمس، فخرج النبيّ ﷺ فقال: "اخْرُجْ يا أبا بَكْرٍ قَدْ دَلَكَتِ الشَّمْسُ".
+
+⁕ حدثني محمد بن عثمان الرازي، قال: ثنا سهل بن بكار، قال: ثنا أبو عوانة، عن الأسود بن قيس، عن نُبَيح العَنزيّ، عن جابر بن عبد الله، عن النبيّ ﷺ، نحو حديث ابن حميد.
+
+فإذا كان صحيحا ما قلنا بالذي به استشهدنا، فبين إذن أن معنى قوله جلّ ثناؤه (أَقِمِ الصَّلاةَ لِدُلُوكِ الشَّمْسِ إِلَى غَسَقِ اللَّيْلِ) أن صلاة الظهر والعصر بحدودهما مما أوجب الله عليك فيهما لأنهما الصلاتان اللتان فرضهما الله على نبيّه من وقت دلوك الشمس إلى غسق الليل، وغسق الليل: هو إقباله ودنوه بظلامه، كما قال الشاعر:
+
+آبَ هَذَا اللَّيْلُ إذْ غَسَقَا [[هذا صدر بيت، لعبيد الله بن قيس الرقيات. وعجز * واشتكيت الهم والأرقا *
+
+واستشهد به على أن معنى "غسق الليل": ظلامه. (مجاز القرآن لأبي عبيدة ١: ٣٨٨) ورواية أبي عبيدة * إن هذا الليل قد غسقا *
+
+وتؤيدها رواية اللسان أيضا. قال: غسق الليل يغسق (كيضرب) غسقا وغسقانا، وأغسق: عن ثعلب: انصت وأظلم، ومنه قول ابن الرقيات * إن هطا الليل قد غسقا *
+
+.]]
+
+وبنحو الذي قلنا في ذلك، قال أهل التأويل على اختلاف منهم في الصلاة التي أمر رسول الله ﷺ بإقامتها عنده، فقال بعضهم: الصلاة التي أمر بإقامتها عنده صلاة المغرب.
+
+ذكر من قال ذلك:
+
+⁕ حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس، قوله ﴿أَقِمِ الصَّلاةَ لِدُلُوكِ الشَّمْسِ إِلَى غَسَقِ اللَّيْلِ﴾ قال: غسق الليل: بدوّ الليل.
+
+⁕ حدثني يعقوب، قال: ثنا ابن علية، عن أبي رجاء، قال: سمعت عكرمة سئل عن هذه الآية ﴿أَقِمِ الصَّلاةَ لِدُلُوكِ الشَّمْسِ إِلَى غَسَقِ اللَّيْلِ﴾ قال: بدوّ الليل.
+
+⁕ حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى، وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء، جميعا عن ابن أبي نجيح، عن مجاهد، قال: غسق الليل: غروب الشمس.
+
+⁕ حدثنا القاسم، قال: ثنا الحسين، قال: ثني حجاج، عن ابن جريج، عن مجاهد، مثله.
+
+⁕ حدثنا محمد بن عبد الأعلى، قال: ثنا محمد عن ثور، عن معمر، عن قتادة ﴿غَسَقِ اللَّيْلِ﴾ : صلاة المغرب. حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة ﴿إِلَى غَسَقِ اللَّيْلِ﴾ بدو الليل لصلاة المغرب. وقد ذُكر لنا أن نبيّ الله ﷺ كان يقول: " لا تَزَالُ طائِفَةٌ مِنْ أُمَّتِي عَلَى الْفِطْرَةِ مَا صَلَّوْا الْمَغْرِبَ قَبْلَ أنْ تَبْدُوَ النُّجُومُ ".
+
+⁕ حُدثت عن الحسين، قال: سمعت أبا معاذ يقول: ثنا عبيد. قال: سمعت الضحاك يقول في قوله ﴿إِلَى غَسَقِ اللَّيْلِ﴾ يعني ظلام الليل.
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد: كان أبي يقول ﴿غَسَقِ اللَّيْلِ﴾ : ظلمة الليل.
+
+وقال آخرون: هي صلاة العصر.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا أبو كريب، قال: ثنا ابن يمان، عن أشعث، عن جعفر، عن أبي جعفر ﴿إِلَى غَسَقِ اللَّيْلِ﴾ قال: صلاة العصر.
+
+وأولى القولين في ذلك بالصواب، قول من قال: الصلاة التي أمر النبيّ ﷺ بإقامتها عند غسق الليل، هي صلاة المغرب دون غيرها، لأن غسق الليل هو ما وصفنا من إقبال الليل وظلامه، وذلك لا يكون إلا بعد مغيب الشمس. فأما صلاة العصر، فإنها مما تقام بين ابتداء دلوك الشمس إلى غسق الليل، لا عند غسق الليل، وأما قوله ﴿وَقُرْآنَ الْفَجْرِ﴾ فإن معناه وأقم قرآن الفجر: أي ما تقرأ به صلاة الفجر من القرآن، والقرآن معطوف على الصلاة في قوله ﴿أَقِمِ الصَّلاةَ لِدُلُوك
+
+[TRUNCATED at 12000 chars — 5030 more. Consult the source directly before relying on anything near the cut.]
 
 ### al-Muyassar (Arabic)
 
-أقم الصلاة تامة من وقت زوال الشمس عند الظهيرة إلى وقت ظلمة الليل، ويدخل في هذا صلاة الظهر والعصر والمغرب والعشاء، وأقم صلاة الفجر، وأَطِلِ القراءة فيها؛ إن صلاة الفجر تحضرها ملائكة الليل وملائكة النهار.
+أقم الصلاة تامة مِن وقت زوال الشمس عند الظهيرة إلى وقت ظلمة الليل، ويدخل في هذا صلاة الظهر والعصر والمغرب والعشاء، وأقم صلاة الفجر، وأَطِلْ القراءة فيها؛ إن صلاة الفجر تحضرها ملائكة الليل وملائكة النهار.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿أقِمْ الصَّلاة لِدُلُوكِ الشَّمْس﴾ أيْ مِن وقْت زَوالها ﴿إلى غَسَق اللَّيْل﴾ إقْبال ظُلْمَته أيْ الظُّهْر والعَصْر والمَغْرِب والعِشاء ﴿وقُرْآن الفَجْر﴾ صَلاة الصُّبْح ﴿إنّ قُرْآن الفَجْر كانَ مَشْهُودًا﴾ تَشْهَدهُ مَلائِكَة اللَّيْل ومَلائِكَة النَّهار
 
 ---
 
@@ -56,22 +558,241 @@ Allah says, commanding His Messenger to offer the prescribed prayers at the appo
 
 ### Ibn Kathir (English)
 
+Perform the Salah from midday till the darkness of the night, and recite the Qur'an in the early dawn. Verily, the recitation of the Qur'an in the early dawn is ever witnessed (78)And in some parts of the night (also) offer the Salah with it as an additional prayer for you. It may be that your Lord will raise you to Maqam Mahmud (79)
+
 The Command to offer the Prayers at their appointed Times
-Allah says, commanding His Messenger to offer the prescribed prayers at the appointed times:
-أَقِمِ الصَّلَوةَ لِدُلُوكِ الشَّمْسِ
-(Perform the Salat from midday.) Hushaym narrated from Mughirah from Ash-Sha`bi from Ibn `Abbas: "Midday means when the sun is at its zenith." This was also reported by Nafi` from Ibn `Umar, and by Malik in his Tafsir from Az-Zuhri from Ibn `Umar. This was the opinion of Abu Barzah Al-Aslami and Mujahid, an...
+
+Allah says, commanding His Messenger ﷺ to offer the prescribed prayers at the appointed times:
+
+أَقِمِ الصَّلَاةَ لِدُلُوكِ الشَّمْسِ
+
+(Perform the Salat from midday.) Hushaym narrated from Mughirah from Ash-Sha'bi from Ibn 'Abbas: "Midday means when the sun is at its zenith." This was also reported by Nafi' from Ibn 'Umar, and by Malik in his Tafsir from Az-Zuhri from Ibn 'Umar. This was the opinion of Abu Barzah Al-Aslami and Mujahid, and of Al-Hasan, Ad-Dahhak, Abu Ja'far Al-Baqir and Qatadah.
+
+It is also understood to [generally] refer to the times of the five prayers. Allah said;
+
+لِدُلُوكِ الشَّمْسِ إِلَىٰ غَسَقِ اللَّيْلِ
+
+(from midday till the darkness of the night,) meaning darkness, or it was said, sunset. This was understood to mean Zuhr 'Asr, Maghrib and 'Isha'.
+
+وَقُرْآنَ الْفَجْرِ
+
+(and recite the Qur'an in the early dawn.) meaning Salat Al-Fajr. The details of the timings of the prayers were reported in the Mutawatir Sunnah from the words and deeds of the Prophet ﷺ, and this is what the people of Islam have followed until the present day, passing it down from generation to generation, century after century, as we have stated in the appropriate place, praise be to Allah.
+
+The Meeting of the Angels at the Times of Fajr and 'Asr Prayers
+
+إِنَّ قُرْآنَ الْفَجْرِ كَانَ مَشْهُودًا
+
+(Verily the recitation of the Qur'an in the early down is ever witnessed.) Ibn Mas'ud reported from Abu Hurayrah (may Allah be pleased with them both) that the Prophet ﷺ said concerning this Ayah:
+
+وَقُرْآنَ الْفَجْرِ ۖ إِنَّ قُرْآنَ الْفَجْرِ كَانَ مَشْهُودًا
+
+(and recite the Qur'an in the early dawn. Verily, the recitation of the Qur'an in the early dawn is ever witnessed.)
+
+تَشْهَدُهُ مَلَائِكَةُ اللَّيْلِ وَمَلَائِكَةُ النَّهَارِ
+
+(It is witnessed by the angels of the night and the angels of the day.)
+
+Al-Bukhari narrated from Abu Hurayrah that the Prophet ﷺ said:
+
+فَضْلُ صَلَاةِ الْجَمِيعِ عَلَى صَلَاةِ الْوَاحِدِ خَمْسٌ وَعِشْرُونَ دَرَجَةً، وَتَجْتَمِعُ مَلَائِكَةُ اللَّيْلِ وَمَلَائِكَةُ النَّهَارِ فِي صَلَاةِ الْفَجْرِ
+
+(The prayer offered in congregation is twenty-five degrees better than the prayer offered individually, and the angels of the night and the angels of the day meet at Salat Al-Fajr.)
+
+Abu Hurayrah said: Recite, if you wish:
+
+وَقُرْآنَ الْفَجْرِ ۖ إِنَّ قُرْآنَ الْفَجْرِ كَانَ مَشْهُودًا
+
+(and recite the Qur'an in the early dawn. Verily, the recitation of the Qur'an in the early dawn is ever witnessed.)
+
+Imam Ahmad recorded from Ibn Mas'ud and Abu Hurayrah that the Prophet ﷺ said, concerning the Ayah:
+
+وَقُرْآنَ الْفَجْرِ ۖ إِنَّ قُرْآنَ الْفَجْرِ كَانَ مَشْهُودًا
+
+(and recite the Qur'an in the early dawn. Verily, the recitation of the Qur'an in the early dawn is ever witnessed.)
+
+تَشْهَدُهُ مَلَائِكَةُ اللَّيْلِ وَمَلَائِكَةُ النَّهَارِ
+
+(It is witnessed by the angels of the night and the angels of the day.) This was recorded by At-Tirmidhi, An-Nasa'i, and Ibn Majah. At-Tirmidhi said, "It is Hasan Sahih." According to the version recorded in the Two Sahihs from Abu Hurayrah, the Prophet ﷺ said:
+
+يَتَعَاقَبُونَ فِيكُمْ مَلَائِكَةٌ بِاللَّيْلِ وَمَلَائِكَةٌ بِالنَّهَارِ، وَيَجْتَمِعُونَ فِي صَلَاةِ الصُّبْحِ وَفِي صَلَاةِ الْعَصْرِ، فَيَعْرُجُ الَّذِينَ بَاتُوا فِيكُمْ فَيَسْأَلُهُمْ رَبُّهُمْ وَهُوَ أَعْلَمُ بِكُمْ كَيْفَ تَرَكْتُمْ عِبَادِي؟ فَيَقُولُونَ: أَتَيْنَاهُمْ وَهُمْ يُصَلُّونَ، وَتَرَكْنَاهُمْ وَهُمْ يُصَلُّونَ
+
+(The angels of the night and the angels of the day come amongst you in successive groups (in shifts). They meet at the Morning prayer (Fajr) and at the Mid-afternoon prayer ('Asr). Those who stayed among you at ascend, and their Lord asks them, although He knows best about you, "How did you leave My servants?" They say, "We came to them when they were praying and we left them when they were praying.")
+
+Abdullah bin Mas'ud said, "The two guards meet at Salat Al-Fajr, and one group ascends while the other stays where it is. " These were the comments of Ibrahim An-Nakha'i, Mujahid, Qatadah and others on the Tafsir of this Ayah.
+
+The Command to pray Tahajjud
+
+وَمِنَ اللَّيْلِ فَتَهَجَّدْ بِهِ نَافِلَةً لَّكَ
+
+(And in some parts of the night (also) offer the Salah with it as an additional prayer for you.) Here Allah commands him (the Prophet ﷺ) to offer further prayers at night after the prescribed prayers. It was reported in Sahih Muslim from Abu Hurayrah that when the Messenger of Allah ﷺ was asked which prayer is best after the prescribed prayers, he said,
+
+صَلَاةُ اللَّيْلِ
+
+(The Night prayer) Allah commanded His Messenger ﷺ to pray the Night prayer after offering the prescribed prayers, and the term Tahajjud refers to prayer that is offered after sleeping. This was the view of 'Alqamah, Al-Aswad, Ibrahim An-Nakha'i and others. It is also well-known from the Arabic language itself. A number of Hadiths report that the Messenger of Allah ﷺ used to pray Tahajjud after he had slept. These include reports from Ibn 'Abbas, 'A'ishah and other Companions, may Allah be pleased with them. This has been discussed in detail in the appropriate place, praise be to Allah. Al-Hasan Al-Basri said, "This is what comes after 'Isha', or it could mean what comes after sleeping."
+
+[نَافِلَةً لَّكَ]
+
+(an additional prayer (Nawafil)) means the Night prayer has been made an extra prayer specifically for the Prophet ﷺ, because all his previous and future sins had been forgiven. But for other members of his Ummah, offering optional prayers may expiate for whatever sins they may commit. This was the view of Mujahid, and it was reported in Al-Musnad from Abu Umamah Al-Bahili.
+
+عَسَىٰ أَن يَبْعَثَكَ رَبُّكَ مَقَامًا مَّحْمُودًا
+
+(It may be that your Lord will raise you to Maqam Mahmud.) meaning, 'do that which you are commanded to do, and We will raise you to a station of praise and glory (Maqam Mahmud) on the Day of Resurrection, where all of creation will praise you,' as will their Creator, may He be glorified and exalted. Ibn Jarir said, "Most of the commentators said, 'This is the position to which Muhammad ﷺ will be raised on the Day of Resurrection, to intercede for the people so that their Lord will relieve them of some of the hardships they are facing on that Day.'"
+
+It was reported that Hudhayfah said, "Mankind will be gathered in one arena, where they will all hear the call and will all be seen. They will be standing barefoot and naked as they were created, and no person shall speak except by the leave of Allah. He will call out, 'O Muhammad,' and he will respond,
+
+لَبَّيْكَ وَسَعْدَيْكَ، وَالْخَيْرُ فِي يَدَيْكَ وَالشَّرُّ لَيْسَ إِلَيْكَ، وَالْمَهدِيُّ مَنْ هَدَيْتَ، وَعَبْدُكَ بَيْنَ يَدَيْكَ، وَمِنْكَ وَإِلَيْكَ لَا مَنْجَى وَلَا مَلْجَأَ مِنْكَ إِلَّا إِلَيْكَ، تَبَارَكْتَ وَتَعَالَيْتَ سُبْحَانَكَ رَبَّ الْبَيْتِ
+
+(At your service, all goodness is in Your Hands and evil is not to be attributed to You. The one who is guided is the one whom You guide. Your servant is before You, from You, and to You and there is no salvation or refuge from You except with You. May You be blessed and exalted, Glory be to You, Lord of the House (the Ka'bah).)
+
+This is the position of praise and honor (Maqam Mahmud) which was mentioned by Allah."
+
+Ibn 'Abbas said, "The position of praise and honor is the position of intercession." Ibn Abi Najih reported something similar from Mujahid, and this was also the view of Al-Hasan Al-Basri.
+
+Qatadah said, "He is the first one for whom the earth will be opened on the Day of Resurrection, and he will be the first one to intercede." So the scholars consider this the position of praise and glory to which Allah referred in the Ayah:
+
+عَسَىٰ أَن يَبْعَثَكَ رَبُّكَ مَقَامًا مَّحْمُودًا
+
+(It may be that your Lord will raise you to Maqam Mahmud.) I, Ibn Kathir, say: the Messenger of Allah ﷺ will have honors in the Day of Resurrection in which no one else will have a share, honors which will not be matched by anyone else. He is the first one for whom the earth will be opened and he will come forth riding to the gathering place. He will have a banner under which Adam and anyone else will gather, and he will have the Hawd (Lake) to which no one else will have more access than he. He will have the right of the Grand Intercession with Allah when He comes to judge between His creation. This will be after the people ask Adam, then Nuh, then Ibrahim, then Musa, then 'Isa to intercede, and each of them will say, "I am not able for that." Then they will come to Muhammad ﷺ, and he will say,
+
+أَنَا لَهَا أَنَا لَهَا
+
+(I can do that, I can do that.)
+
+We will mention this in more detail shortly, If Allah wills. Part of that will be that he will intercede for some people who had been commanded to be taken to Hell, and they will be brought back. He is the first Prophet whose Ummah will be judged, and the first to take them across the Bridge over the Fire, and the first to intercede in Paradise, as was reported in Sahih Muslim.
+
+In the Hadith about the Trumpet, it says that none of the believers will enter Paradise except through his intercession. He will be the first to enter Paradise, and his Ummah will be the first nation to enter. He will intercede for the status to be raised for people whose deeds could not get them there. He is the one who will reach Al-Wasilah, which is the highest position in Paradise, which befits no one but him. When Allah gives permission for intercession on behalf of sinners, the angels, Prophets and believers will intercede, and he will intercede for people whose number is known only to Allah. No one will intercede like him and no one will match him in intercession. This has been explained in comprehensive detail at the end of the Book of Sirah, in the chapter on the specific qualities. Praise be to Allah. Now with the help of Allah we will mention the Hadiths that were reported concerning Al-Maqam Al-Mahmud.
+
+Al-Bukhari recorded that Ibn 'Umar said: "On the Day of Resurrection, the people will be humbled to their knees, each nation following its Prophet and saying, 'O so-and-so, intercede,' 'O so-and-so, intercede,' until the power of intercession is given to Muhammad ﷺ, and that will be the day when Allah raises him to a position of praise and glory.
+
+Ibn Jarir recorded that 'Abdullah bin 'Umar said that the Messenger of Allah ﷺ said:
+
+إِنَّ الشَّمْسَ لَتَدْنُو حَتَّى يَبْلُغَ الْعَرَقُ نِصْفَ الْأُذُنِ، فَبَيْنَمَا هُمْ كَذَلِكَ اسْتَغَاثُوا بِآدَمَ فَيَقُولُ: لَسْتُ بِصَاحِبِ ذَلِكَ، ثُمَّ بِمُوسَى فَيَقُولُ كَذَلِكَ، ثُمَّ بِمُحَمَّدٍ فَيَشْفَعُ بَيْنَ الْخَلْقِ فَيَمْشِي حَتَّى يَأْخُذَ بِحَلَقَةِ بَابِ الْجَنَّةِ، فَيَوْمَئِذٍ يَبْعَثُهُ اللهُ مَقَامًا مَحْمُودًا
+
+(The sun will come close until the sweat reaches halfway up one's ears. When the people are in that state, they will ask Adam for help, and he will say, "I am not the one to do that." Then they will ask Musa, and he will say likewise, then they will ask Muhammad, and he will intercede for the people and will go and take hold of the handle of the gate of Paradise, and that will be the Day when Allah resurrects him to a position of praise and glory.) Al-Bukhari also recorded it in the Book of Zakah, where he added:
+
+فَيَوْمَئِذٍ يَبْعَثُهُ اللهُ مَقَامًا مَحْمُودًا، يَحْمَدُهُ أَهْلُ الْجَمْعِ كُلُّهُم
+
+(That will be the Day when Allah resurrects him to a position of praise and glory, and all the people will praise him.) Abu Dawud At-Tayalisi recorded that 'Abdullah said, "Then Allah will give permission for intercession, and Ar-Ruh Al-Quddus, Jibril, will stand up, then Ibrahim, the close Friend of Allah will stand up, then 'Isa or Musa will stand up - Abu Az-Za'ra' said, 'I do 
+
+[TRUNCATED at 12000 chars — 8783 more. Consult the source directly before relying on anything near the cut.]
 
 ### al-Tabari (Arabic)
 
-يقول تعالى ذكره لنبيّه محمد صلى الله عليه وسلم ومن الليل فاسهر بعد نومة يا محمد بالقرآن، نافلة لك خالصة دون أمتك. والتهجد: التيقظ والسهر بعد نومة من الليل. وأما الهجود نفسه: فالنوم، كما قال الشاعر:ألا طَرَقَتْنـــا والرّفــاقُ هُجُــودُفَبــاتَتْ بِعُــلاتِ النَّــوَالِ تَجُـودُ (5)وقال الحطيئةألا طَـرَقَتْ هِنْـدُ الهُنُـودِ وَصُحْـبَتِيبِحَــوْرَانَ حَـورَانِ الجُـنُودِ هُجُـودُ (6)وبنحو الذي قلنا في ذلك، قال أهل التأويل.* ذكر من قال ذلك:حدثني محمد بن عبد الله بن عبد الحكم، قال: ثنا أبي وشع...
+القول في تأويل قوله تعالى: ﴿وَمِنَ اللَّيْلِ فَتَهَجَّدْ بِهِ نَافِلَةً لَكَ عَسَى أَنْ يَبْعَثَكَ رَبُّكَ مَقَامًا مَحْمُودًا (٧٩) ﴾
+
+يقول تعالى ذكره لنبيّه محمد ﷺ ومن الليل فاسهر بعد نومة يا محمد بالقرآن، نافلة لك خالصة دون أمتك. والتهجد: التيقظ والسهر بعد نومة من الليل. وأما الهجود نفسه: فالنوم، كما قال الشاعر:
+
+ألا طَرَقَتْنا والرّفاقُ هُجُودُ ... فَباتَتْ بِعُلاتِ النَّوَالِ تَجُودُ [[البيت لم أقف على قائله. وهجود: يجوز أن يكون مصدر هجد يهجد هجودا إذا نام، ويكون المراد منه: والرفاق ذوو هجود أو والرفاق هاجدون، فيكون بمعنى المشتق. ويجوز أن يكون هجود جمعا لهاجد بلا تأويل، كعقود جمع قاعد، وجلوس جمع جالس وحضور جمع حاضر. والعلات: جمع علة اسم للمرة من العل، وهو السقي الثاني بعد الأول. والنوال: ما يعطيه الحبيب حبيبه من ثمرة الحب.]]
+
+وقال الحطيئة
+
+ألا طَرَقَتْ هِنْدُ الهُنُودِ وَصُحْبَتِي ... بِحَوْرَانَ حَورَانِ الجُنُودِ هُجُودُ [[البيت للحطيئة (ديوانه طبعة الحميدية ص ١٠٣) . وقال شارحه: كل كورة من كور الشام: جند. وهجود: جمع هاجد، وهو النائم، ومثله قعود: جمع قاعد. ومحل الشاهد أن الهجود في الآية معناه: النوم، كما في بيت الحطيئة. مصدر هجد يهجد هجودا إذا نام. ويكون المصدر في معنى المشتق، أو يكون على معنى: والرفاق "ذوو هجود" ثم حذف المضاف، وأقيم المصدر مقامه.]]
+
+وبنحو الذي قلنا في ذلك، قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثني محمد بن عبد الله بن عبد الحكم، قال: ثنا أبي وشعيب بن الليث، عن الليث، عن مجاهد بن يزيد، عن أبي هلال، عن الأعرج أنه قال: أخبرني حميد بن عبد الرحمن بن عوف، عن رجل من الأنصار، أنه كان مع رسول الله ﷺ في سفر، فقال: لأنظرنّ كيف يصلي رسول الله ﷺ، قال: فنام رسول الله ﷺ، ثم استيقظ، فرفع رأسه إلى السماء، فتلا أربع آيات من آخر سورة آل عمران ﴿إِنَّ فِي خَلْقِ السَّمَاوَاتِ وَالأرْضِ وَاخْتِلافِ اللَّيْلِ وَالنَّهَارِ﴾ حتى مرّ بالأربع، ثم أهوى إلى القربة، فأخذ سواكا فاستنّ به، ثم توضأ، ثم صلى، ثم نام، ثم استيقظ فصنع كصنعه أوّل مرّة، ويزعمون أنه التهجد الذي أمره الله.
+
+⁕ حدثني محمد بن المثنى، قال: ثنا محمد بن جعفر وعبد الرحمن، قالا ثنا سعيد، عن أبي إسحاق، عن محمد بن عبد الرحمن، عن علقمة والأسود أنهما قالا التهجد بعد نومة.
+
+⁕ حدثنا ابن بشار، قال: ثنا أبو عامر، قال: ثنا سفيان، عن أبي إسحاق، عن عبد الرحمن بن الأسود، قال: التهجد: بعد نومة.
+
+⁕ حدثنا ابن المثنى، قال: ثنا يحيى بن سعيد، عن شعبة، قال: ثني أبو إسحاق، عن محمد بن عبد الرحمن بن يزيد، عن علقمة والأسود، بمثله.
+
+⁕ حدثني الحارث، قال: ثنا القاسم، قال: ثنا هشيم، عن الأعمش، عن إبراهيم، عن علقمة، قال: التهجد: بعد النوم.
+
+⁕ حدثني الحارث، قال: ثنا القاسم، قال: ثنا يزيد، عن هشام، عن الحسن، قال: التهجد: ما كان بعد العشاء الآخرة.
+
+⁕ حُدثت عن عبد الله بن صالح، عن الليث، عن جعفر بن ربيعة، عن الأعرج، عن كثير بن العباس، عن الحجاج بن عمرو، قال: إنما التهجد بعد رقدة.
+
+وأما قوله ﴿نَافِلَةً لَكَ﴾ فإنه يقول: نفلا لك عن فرائضك التي فرضتها عليك.
+
+واختُلف في المعنى الذي من أجله خصّ بذلك رسول الله ﷺ، مع كون صلاة كلّ مصلّ بعد هجوده، إذا كان قبل هجوده قد كان أدّى فرائضه نافلة نفلا إذ كانت غير واجبة عليه، فقال بعضهم: معنى خصوصه بذلك: هو أنها كانت فريضة عليه، وهي لغيره تطوّع، وقيل له: أقمها نافلة لك: أي فضلا لك من الفرائض التي فرضتها عليك عما فرضت على غيرك.
+
+ذكر من قال ذلك:
+
+⁕ حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس، قوله ﴿وَمِنَ اللَّيْلِ فَتَهَجَّدْ بِهِ نَافِلَةً لَكَ﴾ يعني بالنافلة أنها للنبيّ ﷺ خاصة، أُمر بقيام الليل وكُتب عليه.
+
+وقال آخرون: بل قيل ذلك له ﷺ لأنه لم يكن فعله ذلك يكفِّر عنه شيئا من الذنوب، لأن الله تعالى كان قد غفر له ما تقدّم من ذنبه وما تأخَّر، فكان له نافلة فضل، فأما غيره فهو له كفارة، وليس هو له نافلة.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا القاسم، قال: ثنا الحسين، قال: ثني حجاج، عن ابن جريج، عن عبد الله بن كثير، عن مجاهد، قال: النافلة للنبيّ ﷺ خاصة من أجل أنه قد غُفر له ما تقدّم من ذنبه وما تأخَّر، فما عمل من عمل سوى المكتوبة، فهو نافلة من أجل أنه لا يعمل ذلك في كفارة الذنوب، فهي نوافل وزيادة، والناس يعملون ما سوى المكتوبة لذنوبهم في كفارتها، فليست للناس نوافل.
+
+وأولى القولين بالصواب في ذلك، القول الذي ذكرنا عن ابن عباس، وذلك أن رسول الله ﷺ كان الله تعالى قد خصه بما فرض عليه من قيام الليل، دون سائر أمته، فأما ما ذكر عن مجاهد في ذلك، فقول لا معنى له، لأن رسول الله فيما ذُكِر عنه أكثر ما كان استغفارا لذنوبه بعد نزول قول الله عزّ وجلّ عليه ﴿لِيَغْفِرَ لَكَ اللَّهُ مَا تَقَدَّمَ مِنْ ذَنْبِكَ وَمَا تَأَخَّرَ﴾ وذلك أن هذه السورة أنزلت عليه بعد مُنْصَرَفه من الحديبية، وأنزل عليه ﴿إِذَا جَاءَ نَصْرُ اللَّهِ وَالْفَتْحُ﴾ عام قبض. وقيل له فيها ﴿فَسَبِّحْ بِحَمْدِ رَبِّكَ وَاسْتَغْفِرْهُ إِنَّهُ كَانَ تَوَّابًا﴾ فكان يُعدُّ له ﷺ في المجلس الواحد استغفار مائة مرّة ومعلوم أن الله لم يأمره أن يستغفر إلا لما يغفر له باستغفاره ذلك، فبين إذن وجه فساد ما قاله مجاهد.
+
+⁕ حدثنا ابن وكيع، قال: ثنا أبي، عن الأعمش، عن شمر عن عطية، عن شهر، عن أبي أمامة، قال: إنما كانت النافلة للنبيّ ﷺ.
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا محمد بن ثور، عن معمر، عن قتادة ﴿نَافِلَةً لَكَ﴾ قال: تطوّعا وفضيلة لك.
+
+* *
+
+وقوله ﴿عَسَى أَنْ يَبْعَثَكَ رَبُّكَ مَقَامًا مَحْمُودًا﴾
+
+وعسى من الله واجبة، وإنما وجه قول أهل العلم: عسى من الله واجبة، لعلم المؤمنين أن الله لا يدع أن يفعل بعباده ما أطمعهم فيه من الجزاء على أعمالهم والعوض على طاعتهم إياه ليس من صفته الغرور، ولا شكّ أنه قد أطمع من قال ذلك له في نفعه، إذا هو تعاهده ولزمه، فإن لزم المقول له ذلك وتعاهده ثم لم ينفعه، ولا سبب يحول بينه وبين نفعه إياه مع الأطماع الذي تقدم منه لصاحبه على تعاهده إياه ولزومه، فإنه لصاحبه غارّ بما كان من إخلافه إياه فيما كان أطمعه فيه بقوله الذي قال له. وإذ كان ذلك كذلك، وكان غير جائز أن يكون جلّ ثناؤه من صفته الغرور لعباده صحّ ووجب أن كلّ ما أطمعهم فيه من طمع على طاعته، أو على فعل من الأفعال، أو أمر أو نهى أمرهم به، أو نهاهم عنه، فإنه موف لهم به، وإنهم منه كالعدة التي لا يخلف الوفاء بها، قالوا: عسى ولعلّ من الله واجبة.
+
+وتأويل الكلام: أقم الصلاة المفروضة يا محمد في هذه الأوقات التي أمرتك بإقامتها فيها، ومن الليل فتهجد فرضا فرضته عليك، لعل ربك أن يبعثك يوم القيامة مقاما تقوم فيه محمودا تحمده، وتغبط فيه.
+
+ثم اختلف أهل التأويل في معنى ذلك المقام المحمود، فقال أكثر أهل العلم: ذلك هو المقام الذي هو يقومه ﷺ يوم القيامة للشفاعة للناس ليريحهم ربهم من عظيم ما هم فيه من شدّة ذلك اليوم.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا محمد بن بشار، قال: ثنا عبد الرحمن، قال: ثنا سفيان، عن أبي إسحاق، عن صلة بن زُفَر، عن حُذيفة، قال: يجمع الناس في صعيد واحد، فيسمعهم الداعي، وينفذهم البصر، حفاة عراة كما خُلقوا، قياما لا تكلَّم نفس إلا بإذنه، ينادى: يا محمد، فيقول: لبيك وسعديك والخير في يديك، والشرّ ليس إليك، والمهديّ من هَدَيت، عبدك بين يديك، وبك وإليك، لا ملجأ ولا منجا منك إلا إليك، تبارك وتعاليت، سبحانك ربّ هذا البيت؛ فهذا المقام المحمود الذي ذكره الله تعالى.
+
+⁕ حدثنا محمد بن المثنى، قال: ثنا محمد بن جعفر، قال: ثنا شعبة، عن أبي إسحاق، عن صلة بن زُفر، عن حُذيفة، قال: يُجْمع الناس في صعيد واحد. فلا تكَلَّم نفس، فأوّل ما يدعو محمد النبيّ ﷺ، فيقوم محمد النبيّ ﷺ، فيقول: لبيك، ثم ذكر مثله.
+
+⁕ حدثنا سليمان بن عمرو بن خالد الرقي، قال: ثنا عيسى بن يونس، عن رشدين بن كريب، عن أبيه عن ابن عباس، قوله ﴿عَسَى أَنْ يَبْعَثَكَ رَبُّكَ مَقَامًا مَحْمُودًا﴾ قال: المقام المحمود: مقام الشفاعة.
+
+⁕ حدثنا ابن بشار، قال: ثنا عبد الرحمن، قال: ثنا سفيان، عن سلمة بن كهيل، قال: ثنا أبو الزعراء، عن عبد الله في قصة ذكرها، قال: ثم يؤمر بالصراط فيضرب على جسر جهنم، فيمرّ الناس بقدر أعمالهم؛ يمرّ أولهم كالبرق، وكمرّ الريح، وكمرّ الطير، وكأسرع البهائم، ثم كذلك حتى يمرّ الرجل سعيا، ثم مشيا، حتى يجيء آخرهم يتلبَّط على بطنه، فيقول: ربّ لما أبطأت بي، فيقول: إني لم أبطأ بك، إنما أبطأ بك عملك، قال: ثم يأذن الله في الشفاعة، فيكون أوّل شافع يوم القيامة جبرائيل عليه السلام، روح القُدس، ثم إبراهيم خليل الرحمن، ثم موسى، أو عيسى قال أبو الزعراء: لا أدري أيهما قال، قال: ثم يقوم نبيّكم ﷺ رابعا، فلا يشفع أحد بعده فيما يشفع فيه، وهو المقام المحمود الذي ذكر الله ﴿عَسَى أَنْ يَبْعَثَكَ رَبُّكَ مَقَامًا مَحْمُودًا﴾ .
+
+⁕ حدثنا محمد بن بشار، قال: ثنا ابن أبي عديّ، عن عوف، عن الحسن في قول الله تعالى ﴿وَمِنَ اللَّيْلِ فَتَهَجَّدْ بِهِ نَافِلَةً لَكَ عَسَى أَنْ يَبْعَثَكَ رَبُّكَ مَقَامًا مَحْمُودًا﴾ قال: المقام المحمود: مقام الشفاعة يوم القيامة.
+
+⁕ حدثنا محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى: وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء، جميعا عن ابن أبي نجيح، عن مجاهد، في قول الله تعالى ﴿مَقَامًا مَحْمُودًا﴾ قال: شفاعة محمد يوم القيامة.
+
+⁕ حدثنا القاسم، قال: ثنا الحسين، قال: ثني حجاج، عن ابن جريج، عن مجاهد، مثله.
+
+⁕ حدثنا القاسم، قال: ثنا الحسين، قال: ثنا أبو معاوية، عن عاصم الأحول، عن أبي عثمان، عن سلمان، قال: هو الشفاعة، يشفعه الله في أمته، فهو المقام المحمود.
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله ﴿عَسَى أَنْ يَبْعَثَكَ رَبُّكَ مَقَامًا مَحْمُودًا﴾ وقد ذُكر لنا أن نبيّ الله ﷺ خير بين أن يكون نبيّا عبدا، أو ملكا نبيّا، فأومأ إليه جبرائيل عليه السلام: أن تَوَاضَعْ، فاختار نبيّ الله أن يكون عبدا نبيّا، فأُعْطِي به نبيّ الله ثنتين: إنه أوّل من تنشقّ عنه الأرض، وأوّل شافع. وكان أهل العلم يَرَوْن أنه المقام المحمود الذي قال الله تبارك وتعالى ﴿عَسَى أَنْ يَبْعَثَكَ رَبُّكَ مَقَامًا مَحْمُودًا﴾ شفاعة يوم القيامة.
+
+⁕ حدثنا محمد بن عبد الأعلى، قال: ثنا محمد بن ثور، عن معمر، عن قتادة ﴿مَقَامًا مَحْمُودًا﴾ قال: هي الشفاعة، يشفِّعه الله في أمته.
+
+⁕ حدثنا الحسن بن يحيى، قال: أخبرنا عبد الرزاق، قال: أخبرنا مَعْمر والثوريّ، عن أبي إسحاق، عن صلة بن زُفَر، قال: سمعت حُذيفة يقول في قوله ﴿عَسَى أَنْ يَبْعَثَكَ رَبُّكَ مَقَامًا مَحْمُودًا﴾ قال: يجمع الله الناس في صعيد واحد حيث يُسْمعهم الداعي، فَيَنْفُذُهم البصر حُفاة عُراة، كما خُلِقوا سكوتا لا تكلَّم نفس إلا بإذنه، قال: فينادَى محمد، فيقول: لَبَّيك وسَعْديك، والخيرُ في يديك، والشرّ ليس إليك، والمهديّ من هَدَيت، وعبدُك بين يديك، ولك وإليك، لا ملْجَأَ ولا منجَى منك إلا إليك، تباركت وتعاليت، سبحانك ربّ البيت، قال: فذلك المقامُ المحمودُ الذي ذكر الله ﴿عَسَى أَنْ يَبْعَثَكَ رَبُّكَ مَقَامًا مَحْمُودًا﴾ .
+
+⁕ حدثنا محمد بن عبد الأعلى، قال: ثنا محمد بن ثور، عن معمر، عن أبي إسحاق، عن صلة بن زُفَر، قال حُذيفة: يجمع الله الناس في صعيد واحد، حيث يَنْفُذُهم البصر، ويُسْمعهم الداعي، حُفاة عُراة كما خُلقوا أوّل مرّة، ثم يقوم النبيّ ﷺ فيقول: "لبيك وسعديك"، ثم ذكر نحوه، إلا أنه قال: هو المقام المحمود.
+
+وقال آخرون: بل ذلك المقام المحمود الذي وعد الله نبيّه أن يبعثه إياه، هو أن يقاعده معه على عرشه.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا عباد بن يعقوب الأسدي، قال: ثنا ابن فضيل، عن ليث، عن مجاهد، في قوله ﴿عَسَى أَنْ يَبْعَثَكَ رَبُّكَ مَقَامًا مَحْمُودًا﴾ قال: يُجْلسه معه على عرشه.
+
+وأولى القولين في ذلك بالصواب ما صحّ به الخبر عن رسول الله.
+
+وذلك ما:-
+
+⁕ حدثنا به أبو كريب، قال: ثنا وكيع، عن داود بن يزيد، عن أبيه، عن أبي هريرة، قال: قال رسول الله ﷺ ﴿عَسَى أَنْ يَبْعَثَكَ رَبُّكَ مَقَامًا مَحْمُودًا﴾ سئل عنها، قال: "هِىَ الشَّفاعَةُ".
+
+⁕ حدثنا عليّ بن حرب، قال: ثنا مَكّيّ بن إبراهيم، قال: ثنا داود بن يزيد الأوْدِيّ، عن أبيه، عن أبي هريرة، عن النبيّ ﷺ في قوله ﴿عَسَى أَنْ يَبْعَثَكَ رَبُّكَ مَقَامًا مَحْمُودًا﴾ قال: "هو المقام الذي أشفع فيه لأمتي".
+
+⁕ حدثنا أبو عُتبة الحِمْصِيّ أحمد بن الفَرَج، قال: ثنا بقية بن الوليد، عن الزُّبيديّ، عن الزهريّ، عن عبد الرحمن بن كعب بن مالك، عن كعب بن مالك، أن النبيّ ﷺ قال: " يُحْشَرُ النَّاسُ يَوْمَ الْقِيَامَةِ، فَأَكُونُ أَنَا وَأُمَّتِي عَلَى تَلٍّ فَيَكْسُونِي رَبِّي حُلَّةً خَضْرَاءَ، ثُمَّ يُؤْذَنُ لِي، فَأَقُولُ مَا شَاءَ اللَّهُ أَنْ أَقُولَ، فَذَاكَ الْمَقَامُ الْمَحْمُودُ".
+
+⁕ حدثني محمد بن عبد الله بن عبد الحكم، قال: ثنا شعيب بن الليث، قال: ثني الليث، عن عبيد الله بن أبي جعفر، أنه قال: سمعت حمزة بن عبد الله بن عمر يقول: سمعت عبد الله بن عمر يقول: قال رسول الله ﷺ: " إِنَّ الشَّمْسَ لتَدْنُو حَتَّى يَبْلُغَ الْعَرَقُ نِصْفَ الأذُنِ، فَبَيْنَما هُمْ كَذَلِكَ اسْتَغَاثُوا بِآدَمَ عَلَيْهِ السَّلامُ، فَيَقُولُ لَسْتُ صَاحِبَ ذَلِكَ ثُمَّ بِمُوسَى عَلَيْهِ السَّلامُ، فَيَقُولُ كَذلكَ، ثُمَّ بِمُحَمَّدٍ فَيَشْفَعُ بين الخلق حَتَّى يَأْخُذَ بِحَلْقَةِ الْجنة فَيَوْمَئِذٍ يَبْعَثُهُ اللَّهُ مَقَامًا مَحْمُودًا".
+
+⁕ حدثني أبو زيد عمر بن شَبَّة، قال: ثنا موسى بن إسماعيل، قال: ثنا سعيد بن زيد، عن عليّ بن الحكم، قال: ثني عثمان، عن إبراهيم، عن الأسود وعلقمة، عن ابن مسعود، قال: قال رسول الله ﷺ: "إِنِّي لأقُومُ المَقَامَ المَحْمُودَ" فقال رجل: يا رسول الله، وما ذلك المقام المحمود؟ قال رسول الله ﷺ: "ذَاكَ إِذَا جِيءَ بِكُمْ حُفَاةً عُرَاةً غُرْلا فَيَكُونُ أَوَّلَ مَنْ يُكْسَى إِبْرَاهِيمُ عَلَيْهِ السَّلام، فَيُؤْتَى بِرَيْطَتَيْنِ بَيْضَاوَيْنِ، فَيَلْبِسْهُمَا، ثُمَّ يَقْعُدُ مُسْتَقْبِلَ الْعَرْشِ، ثُمَّ أُوتَى بِكِسْوَتِي فَأَلْبَسُهَا، فَأَقُومُ عَنْ يَمِينِهِ مَقَامًا لا يَقُومُهُ غَيْرِي يَغْبِطُنِي فِيهِ الأوَّلُونَ وَالآخِرُونَ، ثُمَّ يُفْتَحُ نَهَرٌ مِنْ الْكَوْثَرِ إِلَى الْحَوْضِ ".
+
+⁕ حدثنا محمد بن عبد الأعلى، قال: ثنا محمد بن ثور، عن معمر، عن الزهريّ، عن عليّ بن الحسين، أن النبيّ ﷺ ق
+
+[TRUNCATED at 12000 chars — 4640 more. Consult the source directly before relying on anything near the cut.]
 
 ### al-Muyassar (Arabic)
 
-وقم -أيها النبي- من نومك بعض الليل، فاقرأ القرآن في صلاة الليل؛ لتكون صلاة الليل زيادة لك في علو القدر ورفع الدرجات، عسى أن يبعثك الله شافعًا للناس يوم القيامة؛ ليرحمهم الله مما يكونون فيه، وتقوم مقامًا يحمدك فيه الأولون والآخرون.
+وقم -أيها النبي- مِن نومك بعض الليل، فاقرأ القرآن في صلاة الليل؛ لتكون صلاة الليل زيادة لك في علو القدر ورفع الدرجات، عسى أن يبعثك الله شافعًا للناس يوم القيامة؛ ليرحمهم الله مما يكونون فيه، وتقوم مقامًا يحمدك فيه الأولون والآخرون.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿فَتَهَجَّدْ﴾ فَصَلِّ ﴿بِهِ﴾ بِالقُرْآنِ ﴿نافِلَة لَك﴾ فَرِيضَة زائِدَة لَك دُون أُمَّتك أوْ فَضِيلَة عَلى الصَّلَوات المَفْرُوضَة ﴿عَسى أنْ يَبْعَثك﴾ يُقِيمك ﴿رَبّك﴾ فِي الآخِرَة ﴿مَقامًا مَحْمُودًا﴾ يَحْمَدك فِيهِ الأَوَّلُونَ والآخِرُونَ وهُوَ مَقام الشَّفاعَة فِي فَصْل القَضاء ونَزَلَ لَمّا أُمِرَ بِالهِجْرَةِ
 
 ---
 
@@ -79,22 +800,177 @@ Allah says, commanding His Messenger to offer the prescribed prayers at the appo
 
 ### Ibn Kathir (English)
 
+And had it not been for a Word that went forth before from your Lord, and a term determined, (their punishment) must necessarily have come (in this world)(128)So bear patiently what they say, and glorify the praises of your Lord before the rising of the sun, and before its setting, and during some hours of the night, and at the ends of the day, that you may become pleased with the reward which Allah shall give you (129)
+
 Many Nations were destroyed and in Them is a Lesson
+
 Allah, the Exalted, says,
+
 أَفَلَمْ يَهْدِ
-(Is it not a guidance for them...) This is addressed to those who reject what the Prophet came to them with: `We destroyed those who denied the Messengers from the previous nations before them. They showed open hostility, so now there is not trace of them and none of them are left. This is witnessed by the empty homes that these people left behind, and which others have now inherited, moving about in...
+
+(Is it not a guidance for them...?) This is addressed to those who reject what the Prophet ﷺ came to them with: 'We destroyed those who denied the Messengers from the previous nations before them. They showed open hostility, so now there is not trace of them and none of them are left. This is witnessed by the empty homes that these people left behind, and which others have now inherited, moving about in the dwellings of those of the past.'
+
+إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِّأُولِي النُّهَىٰ
+
+(Verily, in this are signs indeed for men of understanding.) This means those who have sound intellect and correct understanding. This is as Allah says,
+
+أَفَلَمْ يَسِيرُوا فِي الْأَرْضِ فَتَكُونَ لَهُمْ قُلُوبٌ يَعْقِلُونَ بِهَا أَوْ آذَانٌ يَسْمَعُونَ بِهَا ۖ فَإِنَّهَا لَا تَعْمَى الْأَبْصَارُ وَلَٰكِن تَعْمَى الْقُلُوبُ الَّتِي فِي الصُّدُورِ
+
+(Have they not traveled through the land, and have they hearts wherewith to understand and ears wherewith to hear? Verily, it is not the eyes that grow blind, but it is the hearts which are in the breasts that grow blind.)(22:46) Allah also said in Surah Alif Lam Mim As-Sajdah,
+
+أَوَلَمْ يَهْدِ لَهُمْ كَمْ أَهْلَكْنَا مِن قَبْلِهِم مِّنَ الْقُرُونِ يَمْشُونَ فِي مَسَاكِنِهِمْ
+
+(Is it not a guidance for them: how many generations We have destroyed before them in whose dwellings they walk about?)[32:26] Then, Allah, the Exalted, says,
+
+وَلَوْلَا كَلِمَةٌ سَبَقَتْ مِن رَّبِّكَ لَكَانَ لِزَامًا وَأَجَلٌ مُّسَمًّى
+
+(And had it not been for a Word that went forth before from your Lord, and a term determined (their punishment), must necessarily have come (in this world).)[20:129]
+
+This means that if it were not for the Word that had already preceded from Allah – that He would not punish anyone until the proof had been established against him and the punishment would take place at an appointed time that He has already determined for these rejecters – then the punishment would certainly seize them immediately.
+
+The Command to be patient and perform the Five daily Prayers
+
+Allah comforts His Prophet ﷺ by saying to him,
+
+فَاصْبِرْ عَلَىٰ مَا يَقُولُونَ
+
+(So bear patiently what they say,) This means, "Be patient concerning their rejection of you."
+
+وَسَبِّحْ بِحَمْدِ رَبِّكَ قَبْلَ طُلُوعِ الشَّمْسِ
+
+(And glorify the praises of your Lord before the rising of the sun,) This is speaking of the Morning (Fajr) prayer.
+
+وَقَبْلَ غُرُوبِهَا
+
+(and before its setting,) This is speaking of the Mid-afternoon ('Asr) prayer. This has been mentioned in the Two Sahihs on the authority of Jarir bin 'Abdullah Al-Bajali, who said, "Once we were sitting with the Messenger of Allah ﷺ when he looked up at the moon on a night when it was full. He said,
+
+إِنَّكُمْ سَتَرَوْنَ رَبَّكُمْ كَمَا تَرَوْنَ هَذَا الْقَمَرَ، لَا تُضَامُونَ فِي رُؤْيَتِهِ، فَإِنِ اسْتَطَعْتُمْ أَنْ لَا تُغْلَبُوا عَلَى صَلَاةٍ قَبْلَ طُلُوعِ الشَّمْسِ وَقَبْلَ غُرُوبِهَا فَافْعَلُوا
+
+(Verily, you all will see your Lord (in the Hereafter) just as you see this moon and you will not have to crowd together to see Him. Therefore, if you are able to not miss a prayer before sunrise (Fajr) and before sunset ('Asr), then you should do so.) Then he recited this Ayah." Imam Ahmad recorded that 'Umarah bin Ru'aybah that he heard the Messenger of Allah ﷺ saying,
+
+لَنْ يَلِجَ النَّارَ أَحَدٌ صَلَّى قَبْلَ طُلُوعِ الشَّمْسِ وَقَبْلَ غُرُوبِهَا
+
+(Anyone who prays before sunrise and before sunset will never enter the Hellfire.) This was also recorded by Muslim. Concerning Allah's statement,
+
+وَمِنْ آنَاءِ اللَّيْلِ فَسَبِّحْ
+
+(and during some hours of the night, glorify the praises.) This means during its hours offer the late night (Tahajjud) prayer. Some of the scholars said it also means the after sunset (Maghrib) and the night ('Isha') prayers.
+
+وَأَطْرَافَ النَّهَارِ
+
+(and at the ends of the day,) This is the opposite of the hours of the night.
+
+لَعَلَّكَ تَرْضَىٰ
+
+(that you may become pleased) As Allah says,
+
+وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَىٰ
+
+(And verily, your Lord will give you (all good) so that you shall be well-pleased.)[93:5] In the Sahih, it is recorded that the Messenger of Allah ﷺ said,
+
+يَقُولُ اللهُ تَعَالَى يَاأَهْلَ الْجَنَّةِ، فَيَقُولُونَ: لَبَّيْكَ رَبَّنَا وَسَعْدَيْكَ، فَيَقُولُ: هَلْ رَضِيتُمْ؟ فَيَقُولُونَ: رَبَّنَا وَمَا لَنَا لَا نَرْضَى وَقَدْ أَعْطَيْتَنَا مَا لَمْ تُعْطِ أَحَدًا مِنْ خَلْقِكَ، فَيَقُولُ: إِنِّي أُعْطِيكُمْ أَفْضَلَ مِنْ ذَلِكَ، فَيَقُولُونَ: وَأَيُّ شَيْءٍ أَفْضَلُ مِنْ ذَلِكَ؟ فَيَقُولُ: أَحِلُّ عَلَيْكُمْ رِضْوَانِي فَلَا أَسْخَطُ عَلَيْكُمْ بَعْدَهُ أَبَدًا
+
+(Allah, the Exalted, says, "O people of Paradise." They will reply, "We are here at Your service and Your pleasure our Lord." He will then say, "Are you all pleased?" They will reply, "Why should we not be pleased our Lord, when You have given us what You have not given any others of Your creation?" Allah will then say, "Verily, I am going to give you something better than that." They will say, "And what thing could be better than that" Allah will say, "I have allowed for you My pleasure, so I will never be angry with you again after this.")
+
+In another Hadith, it states that it will be said,
+
+يَا أَهْلَ الْجَنَّةِ، إِنَّ لَكُمْ عِنْدَ اللهِ مَوْعِدًا يُرِيدُ أَنْ يُنْجِزَكُمُوهُ: فَيَقُولُونَ: وَمَا هُوَ؟ أَلَمْ يُبَيِّضْ وُجُوهَنَا وَيُثْقِلْ مَوَازِينَنَا وَيُزَحْزِحْنَا عَنِ النَّارِ وَيُدْخِلْنَا الْجَنَّةَ، فَيُكْشَفُ الْحِجَابُ فَيَنْظُرُونَ إِلَيْهِ، فَوَ اللهِ مَا أَعْطَاهُمْ خَيْرًا مِنَ النَّظَرِ إِلَيْهِ، وَهِيَ الزِّيَادَةُ
+
+("O people of Paradise, verily you all have an appointed promise with Allah that He would like to fulfill for you." They will say, "And what is that? Has He not already enlightened our faces, made our Scales (of good deeds) heavy, saved us from the Hellfire and entered us into Paradise?" Then, the veil will be lifted and they will gaze upon Him (Allah). By Allah, He has not given them anything better than the opportunity to look upon Him, and that is the increase (extra blessing).)
 
 ### al-Tabari (Arabic)
 
-وقوله ( فَاصْبِرْ عَلَى مَا يَقُولُونَ ) يقول جلّ ثناؤه لنبيه: فاصبر يا محمد على ما يقول هؤلاء المكذبون بآيات الله من قومك لك إنك ساحر، وإنك مجنون وشاعر ونحو ذلك من القول ( وَسَبِّحْ بِحَمْدِ رَبِّكَ ) يقول: وصل بثنائك على ربك، وقال: بحمد ربك، والمعنى: بحمدك ربك، كما تقول: أعجبني ضرب زيد، والمعنى: ضربي زيدا، وقوله: ( قَبْلَ طُلُوعِ الشَّمْسِ ) وذلك صلاة الصبح ( وَقَبْلَ غُرُوبِهَا ) وهي العصر ( وَمِنْ آنَاءِ اللَّيْلِ ) وهي ساعات الليل، واحدها: إنى، على تقدير حمل، ومنه قول المنخل السعدي:حُـلْ...
+القول في تأويل قوله تعالى: ﴿وَلَوْلا كَلِمَةٌ سَبَقَتْ مِنْ رَبِّكَ لَكَانَ لِزَامًا وَأَجَلٌ مُسَمًّى (١٢٩) فَاصْبِرْ عَلَى مَا يَقُولُونَ وَسَبِّحْ بِحَمْدِ رَبِّكَ قَبْلَ طُلُوعِ الشَّمْسِ وَقَبْلَ غُرُوبِهَا وَمِنْ آنَاءِ اللَّيْلِ فَسَبِّحْ وَأَطْرَافَ النَّهَارِ لَعَلَّكَ تَرْضَى (١٣٠) ﴾
+
+يقول تعالى ذكره ﴿وَلَوْلا كَلِمَةٌ سَبَقَتْ مِنْ رَبِّكَ﴾ يا محمد أن كلّ من قضى له أجلا فإنه لا يخترمه قبل بلوغه أجله ﴿وَأَجَلٌ مُسَمًّى﴾ يقول: ووقت مسمى عند ربك سماه لهم في أمّ الكتاب وخطه فيه، هم بالغوه ومستوفوه ﴿لَكَانَ لِزَامًا﴾ يقول: للازمهم الهلاك عاجلا وهو مصدر من قول القائل: لازم فلان فلانا يلازمه ملازمة ولزاما: إذا لم يفارقه، وقدّم قوله ﴿لَكَانَ لِزَامًا﴾ قبل قوله ﴿أَجَلٍ مُسَمًّى﴾ ومعنى الكلام: ولولا كلمة سبقت من ربك وأجل مسمى لكان لزاما، فاصبر على ما يقولون.
+
+وبنحو الذي قلنا في ذلك، قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى، وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء جميعا، عن ابن أبي نجيح، عن مجاهد، قوله ﴿وَلَوْلا كَلِمَةٌ سَبَقَتْ مِنْ رَبِّكَ لَكَانَ لِزَامًا وَأَجَلٌ مُسَمًّى﴾ الأجل المسمى: الدنيا.
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله ﴿وَلَوْلا كَلِمَةٌ سَبَقَتْ مِنْ رَبِّكَ لَكَانَ لِزَامًا وَأَجَلٌ مُسَمًّى﴾ وهذه من مقاديم الكلام، يقول: لولا كلمة سبقت من ربك إلى [[لعله يريد: لولا أن الله سبقت كلمته بتأخير عذابهم إلى أجل مسمى. ويجوز أن تكون " إلى " وضعت في موضع واو العطف سهوًا من الناسخ.]] .
+
+أجل مسمى كان لزاما، والأجل المسمى، الساعة، لأن الله تعالى يقول ﴿بَلِ السَّاعَةُ مَوْعِدُهُمْ وَالسَّاعَةُ أَدْهَى وَأَمَرُّ﴾ .
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله ﴿وَلَوْلا كَلِمَةٌ سَبَقَتْ مِنْ رَبِّكَ لَكَانَ لِزَامًا وَأَجَلٌ مُسَمًّى﴾ قال: هذا مقدّم ومؤخر، ولولا كلمة سبقت من ربك وأجل مسمى لكان لزاما.
+
+واختلف أهل التأويل في معنى قوله ﴿لَكَانَ لِزَامًا﴾ فقال بعضهم: معناه: لكان موتا.
+
+ذكر من قال ذلك:
+
+⁕ حدثني عليّ قال: ثني أبو صالح، قال: ثني معاوية، عن عليّ، عن ابن عباس، قوله ﴿لَكَانَ لِزَامًا﴾ يقول: موتا.
+
+وقال آخرون: معناه لكان قتلا.
+
+ذكر من قال ذلك:
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد ﴿لَكَانَ لِزَامًا﴾ واللزوم: القتل.
+
+* *
+
+وقوله ﴿فَاصْبِرْ عَلَى مَا يَقُولُونَ﴾
+
+يقول جلّ ثناؤه لنبيه: فاصبر يا محمد على ما يقول هؤلاء المكذبون بآيات الله من قومك لك إنك ساحر، وإنك مجنون وشاعر ونحو ذلك من القول ﴿وَسَبِّحْ بِحَمْدِ رَبِّكَ﴾ يقول: وصل بثنائك على ربك، وقال: بحمد ربك، والمعنى: بحمدك ربك، كما تقول: أعجبني ضرب زيد، والمعنى: ضربي زيدا، وقوله: ﴿قَبْلَ طُلُوعِ الشَّمْسِ﴾ وذلك صلاة الصبح ﴿وَقَبْلَ غُرُوبِهَا﴾ وهي العصر ﴿وَمِنْ آنَاءِ اللَّيْلِ﴾ وهي ساعات الليل، واحدها: إنى، على تقدير حمل، ومنه قول المنخل السعدي:
+
+حُلْوٌ وَمُرّ كَعطْفِ القِدْحِ مِرَّتُهُ ... فِي كُلّ إني قَضَاهُ اللَّيْلُ يَنْتَعِلُ [[(في اللسان: أنى) لأني: واحد آناء الليل، وهي ساعاته، وفي التنزيل العزيز: (ومن آناء الليل) . قال أهل اللغة: منهم الزجاج: آناء الليل: ساعاته، واحدها: إني وإني؛ فمن قال: إني، فهو مثل نحى وأنحاء؛ ومن قال: إني فهو مثله معي وأمعاء؛ قال الهذلي المتنخل: السَّالِكُ الثَّغْرَ مَخْشِيًّا مَوَارِدُهُ ... بكُلِّ إني قَضَاه اللَّيْلُ يَنْتَعِلُ
+
+قال الأزهري: كذا رواه ابن الأنباري، وأنشد الجوهري: " حلو ومر. . . البيت " ونسبه أيضًا المتنخل؛ فإما أن يكون هو البيت يعنيه، أو آخر من قصيدة أخرى.]]
+
+ويعني بقوله ﴿وَمِنْ آنَاءِ اللَّيْلِ فَسَبِّحْ﴾ صلاة العشاء الآخرة، لأنها تصلى بعد مضيّ آناء من الليل.
+
+* *
+
+وقوله ﴿وَأَطْرَافَ النَّهَارِ﴾
+
+: يعني صلاة الظهر والمغرب، وقيل: أطراف النهار، والمراد بذلك الصلاتان اللتان ذكرتا، لأن صلاة الظهر في آخر طرف النهار الأول، وفي أوّل طرف النهار الآخر، فهي في طرفين منه، والطرف الثالث: غروب الشمس، وعند ذلك تصلى المغرب، فلذلك قيل أطراف، وقد يحمل أن يقال: أريد به طرفا النهار. وقيل: أطراف، كما قيل ﴿صَغَتْ قُلُوبُكُمَا﴾ فجمع، والمراد: قلبان، فيكون ذلك أول طرف النهار الآخر، وآخر طرفه الأول [[في الأصل: الآخر؟ وهو سهو من الكاتب. كما تبين من عبارة المؤلف.]] .
+
+وبنحو الذي قلنا في ذلك، قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا محمد بن بشار، قال: ثنا عبد الرحمن، قال: ثنا سفيان، عن عاصم، عن ابن أبي زيد، عن ابن عباس ﴿وسبح بحمد ربك قبل طلوع الشمس وقبل غروبها﴾ قال: الصلاة المكتوبة.
+
+⁕ حدثنا تميم بن المنتصر، قال: ثنا يزيد بن هارون، قال: أخبرنا إسماعيل بن أبي خالد، عن قيس بن أبي حازم، عن جرير بن عبد الله، قال: كنا جلوسا عند رسول الله ﷺ، فرأى القمر ليلة البدر فقال: "إنَّكُمْ راَءُونَ رَبَّكُمْ كَما تَرَوْنَ هَذَا، لا تُضَامُونَ فِي رُؤيته، فإن اسْتَطَعْتُم أنْ لا تُغْلَبْوا عَلى صَلاةٍ قَبلَ طُلُوعِ الشَّمْسِ وَقَبْلَ غُرُوبِها فافْعَلُوا" ثم تلا ﴿وَسَبِّحْ بِحَمْدِ رَبِّكَ قَبْلَ طُلُوعِ الشَّمْسِ وَقَبْلَ غُرُوبِهَا﴾ ".
+
+⁕ حدثنا القاسم، قال: ثنا الحسين، قال: ثني حجاج ﴿وَسَبِّحْ بِحَمْدِ رَبِّكَ قَبْلَ طُلُوعِ الشَّمْسِ وَقَبْلَ غُرُوبِهَا﴾ قال ابن جريج: العصر، وأطراف النهار قال: المكتوبة.
+
+⁕ حدثنا الحسن، قال: أخبرنا عبد الرزاق، عن معمر، عن قَتادة في قوله ﴿وَسَبِّحْ بِحَمْدِ رَبِّكَ قَبْلَ طُلُوعِ الشَّمْسِ﴾ قال: هي صلاة الفجر ﴿وَقَبْلَ غُرُوبِهَا﴾ قال: صلاة العصر ﴿وَمِنْ آنَاءِ اللَّيْلِ﴾ قال: صلاة المغرب والعشاء ﴿وَأَطْرَافَ النَّهَارِ﴾ قال: صلاة الظهر.
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله ﴿وَمِنْ آنَاءِ اللَّيْلِ فَسَبِّحْ وَأَطْرَافَ النَّهَارِ﴾ قال: من آناء الليل: العتمة، وأطراف النهار: المغرب والصبح، ونصب قوله ﴿وَأَطْرَافَ النَّهَارِ﴾ عطفا على قوله ﴿قَبْلَ طُلُوعِ الشَّمْسِ﴾ لأن معنى ذلك: فسبح بحمد ربك آخر الليل، وأطراف النهار.
+
+وبنحو الذي قلنا في معنى ﴿آنَاءَ اللَّيْلِ﴾ قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا القاسم، قال: ثنا الحسين، قال: ثني حجاج، عن ابن جُرَيج، قال: قال ابن عباس ﴿وَمِنْ آنَاءِ اللَّيْلِ﴾ قال: المصلى من الليل كله.
+
+⁕ حدثني يعقوب بن إبراهيم، قال: ثنا ابن علية، عن أبي رجاء، قال: سمعت الحسن قرأ ﴿وَمِنْ آنَاءِ اللَّيْلِ﴾ قال: من أوّله، وأوسطه، وآخره.
+
+⁕ حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس، في قوله ﴿وَمِنْ آنَاءِ اللَّيْلِ فَسَبِّحْ﴾ قال: آناء الليل: جوف الليل.
+
+* *
+
+وقوله ﴿لَعَلَّكَ تَرْضَى﴾
+
+يقول: كي ترضى.
+
+وقد اختلفت القرّاء في قراءة ذلك، فقرأته عامة قرّاء المدينة والعراق ﴿لَعَلَّكَ تَرْضَى﴾ بفتح التاء. وكان عاصم والكسائي يقرآن ذلك ﴿لَعَلَّك تُرْضَى﴾ بضم التاء، ورُوي ذلك عن أبي عبد الرحمن السلمي، وكأن الذين قرءوا ذلك بالفتح، ذهبوا إلى معنى: إن الله يعطيك، حتى ترضى عطيَّته وثوابه إياك، وكذلك تأوّله أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله ﴿لَعَلَّكَ تَرْضَى﴾ قال: الثواب، ترضى بما يثيبك الله على ذلك.
+
+⁕ حدثنا القاسم، قال: ثنا الحسين، قال: ثني حجاج، عن ابن جُرَيج ﴿لَعَلَّكَ تَرْضَى﴾ قال: بما تعطى، وكأن الذين قرءوا ذلك بالضم، وجهوا معنى الكلام إلى لعل الله يرضيك من عبادتك إياه، وطاعتك له. والصواب من القول في ذلك عندي: أنهما قراءتان، قد قرأ بكل واحدة منهما علماء من القرّاء، وهما قراءتان مستفيضتان في قراءة الأمصار، متفقتا المعنى، غير مختلفتيه، وذلك أن الله تعالى ذكره إذا أرضاه، فلا شكّ أنه يرضى، وأنه إذا رضي فقد أرضاه الله، فكل واحدة منهما تدلّ على معنى الأخرى، فبأيتهما قرأ القارئ فمصيب الصواب.
 
 ### al-Muyassar (Arabic)
 
-فاصبر - أيها الرسول - على ما يقوله المكذبون بك من أوصاف وأباطيل، وسبِّح بحمد ربك في صلاة الفجر قبل طلوع الشمس، وصلاة العصر قبل غروبها، وصلاة العشاء في ساعات الليل، وصلاة الظهر والمغرب أطراف النهار؛ كي تثاب على هذه الأعمال بما تَرْضى به.
+فاصبر -أيها الرسول- على ما يقوله المكذبون بك من أوصاف وأباطيل، وسبِّح بحمد ربك في صلاة الفجر قبل طلوع الشمس، وفي صلاة العصر قبل غروبها، وفي صلاة العشاء في ساعات الليل، وسبِّح بحمد ربك أطرافَ النهار في صلاة الظهر -إذ وقتها طرف النصف الأول والنصف الثاني من النهار- وفي صلاة المغرب؛ كي تثاب على هذه الأعمال بما تَرْضى به.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿فاصْبِرْ عَلى ما يَقُولُونَ﴾ مَنسُوخ بِآيَةِ القِتال ﴿وسَبِّحْ﴾ صَلِّ ﴿بِحَمْدِ رَبّك﴾ حال: أيْ مُلْتَبِسًا بِهِ ﴿قَبْل طُلُوع الشَّمْس﴾ صَلاة الصُّبْح ﴿وقَبْل غُرُوبها﴾ صَلاة العَصْر ﴿ومِن آناء اللَّيْل﴾ ساعاته ﴿فَسَبِّحْ﴾ صَلِّ المَغْرِب والعِشاء ﴿وأَطْراف النَّهار﴾ عَطْف عَلى مَحَلّ مِن آناء المَنصُوب: أيْ صَلِّ الظُّهْر لِأَنَّ وقْتها يَدْخُل بِزَوالِ الشَّمْس فَهُوَ طَرَف النِّصْف الأَوَّل وطَرَف النِّصْف الثّانِي ﴿لَعَلَّك تَرْضى﴾ بِما تُعْطى مِن الثَّواب
 
 ---
 
@@ -102,25 +978,267 @@ Allah, the Exalted, says,
 
 ### Ibn Kathir (English)
 
-Which was revealed in Makkah
-بِسْمِ اللَّهِ الرَّحْمَـنِ الرَّحِيمِ
+بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
+
 (In the Name of Allah, the Most Gracious, the Most Merciful.
+
+يَا أَيُّهَا الْمُزَّمِّلُ - قُمِ اللَّيْلَ إِلَّا قَلِيلًا - نِصْفَهُ أَوِ انْقُصْ مِنْهُ قَلِيلًا - أَوْ زِدْ عَلَيْهِ وَرَتِّلِ الْقُرْآنَ تَرْتِيلًا - إِنَّا سَنُلْقِي عَلَيْكَ قَوْلًا ثَقِيلًا - إِنَّ نَاشِئَةَ اللَّيْلِ هِيَ أَشَدُّ وَطْئًا وَأَقْوَمُ قِيلًا - إِنَّ لَكَ فِي النَّهَارِ سَبْحًا طَوِيلًا - وَاذْكُرِ اسْمَ رَبِّكَ وَتَبَتَّلْ إِلَيْهِ تَبْتِيلًا - رَبُّ الْمَشْرِقِ وَالْمَغْرِبِ لَا إِلَٰهَ إِلَّا هُوَ فَاتَّخِذْهُ وَكِيلًا
+
+(1. O you wrapped up!)(2. Stand (to pray) all night, except a little.)(3. Half of it or less than that, a little.)(4. Or a little more. And Rattil the Qur'an Tartil.)(5. Verily, We shall send down to you a Word Thaqil.)(6. Verily, rising (Nashi'ah) at night is better for understanding and more suitable for speech (recitation).)(7. Verily, for you in the day is lengthy Sabh.)(8. And remember the Name of your Lord and (Tabattil) devote yourself to Him with complete devotion.)(9. Lord of the east and the west; La ilaha illa Huwa, so take Him as a trustee.)
+
 The Command to stand at Night (in Prayer)
-Allah commands His Messenger to cease being wrapped up, and this means to be covered during the night. He commands him to get up and stand in prayer to His Lord. This is as Allah says,
-تَتَجَافَى جُنُوبُهُمْ عَنِ الْمَضَاجِعِ يَدْعُونَ رَبَّهُمْ خَوْفاً وَطَمَعاً وَمِمَّا رَزَقْنَـهُمْ يُنفِقُونَ
-(Their sides forsake their b...
+
+Allah commands His Messenger ﷺ to cease being wrapped up, and this means to be covered during the night. He commands him to get up and stand in prayer to His Lord. This is as Allah says,
+
+تَتَجَافَىٰ جُنُوبُهُمْ عَنِ الْمَضَاجِعِ يَدْعُونَ رَبَّهُمْ خَوْفًا وَطَمَعًا وَمِمَّا رَزَقْنَاهُمْ يُنْفِقُونَ
+
+(Their sides forsake their beds, to invoke their Lord in fear and hope, and they spend out of what We have bestowed on them.)(32:16)
+
+Thus, the Prophet ﷺ did as Allah ordered him, by standing for prayer at night. This was obligatory upon him alone, as Allah said,
+
+وَمِنَ اللَّيْلِ فَتَهَجَّدْ بِهِ نَافِلَةً لَكَ عَسَىٰ أَنْ يَبْعَثَكَ رَبُّكَ مَقَامًا مَحْمُودًا
+
+(And in some parts of the night offer the Salah with it (the Qur'an), as an additional prayer for you. It may be that your Lord will raise you to Maqam Mahmud.)(17:79)
+
+Here Allah explains how much prayer he should perform. Allah says,
+
+يَا أَيُّهَا الْمُزَّمِّلُ - قُمِ اللَّيْلَ إِلَّا قَلِيلًا
+
+(O you wrapped up! Stand all night, except a little.) Ibn 'Abbas, Ad-Dahhak and As-Suddi all said,
+
+يَا أَيُّهَا الْمُزَّمِّلُ
+
+(O you wrapped up!) "This means, O you who are asleep." Qatadah said, "The one who is wrapped up in his garments." Concerning Allah's statement,
+
+نِصْفَهُ
+
+(Half of it) means, instead of the whole night.
+
+أَوِ انْقُصْ مِنْهُ قَلِيلًا - أَوْ زِدْ عَلَيْهِ
+
+(A little less than that, or a little more.) meaning, 'We have commanded you to stand in prayer for half of the night, either a little more than it or a little less. There is no hardship on you concerning that (slight increase or decrease).
+
+The Way of reciting the Qur'an
+
+Concerning Allah's statement,
+
+وَرَتِّلِ الْقُرْآنَ تَرْتِيلًا
+
+(And Rattil the Qur'an Tartil.) meaning, recite it slowly, for that will help in understanding the Qur'an and contemplating it. This is how the Prophet ﷺ used to recite. 'A'ishah said, "He (the Prophet) used to recite the chapter slowly, so much so that it would be longer than chapters that were actually longer than it."
+
+In Sahih Al-Bukhari, it is recorded from Anas that he was asked about the recitation of the Messenger of Allah ﷺ, so he replied, "He used to elongate the letters." Then he (Anas) recited,
+
+بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
+
+(In the Name of Allah, the Most Gracious, the Most Merciful.)(1:1) and he elongated "In the Name of Allah," and he elongated "The Most Gracious," and he elongated "The Most Merciful."
+
+Ibn Jurayj reported from Ibn Abi Mulaykah, who narrated from Umm Salamah that she was asked about the recitation of the Messenger of Allah , so she said, "He used to pause in his recitation, verse by verse.
+
+بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ - الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ - الرَّحْمَٰنِ الرَّحِيمِ - مَالِكِ يَوْمِ الدِّينِ
+
+(In the Name of Allah, the Most Gracious, the Most Merciful. All praise is Allah's, the Lord of all that exists. The Most Gracious, the Most Merciful. The Only Owner of the Day of Recompense.)(1:1-4)
+
+This was recorded by Ahmad, Abu Dawud and At-Tirmidhi. We have already mentioned the Hadiths which prove the recommendation of slow rhythmic recitation and beautification of the voice while reciting at the beginning of this Tafsir. For example, the Hadith which states,
+
+زَيِّنُوا الْقُرْآنَ بِأَصْوَاتِكُمْ
+
+(Beautify the Qur'an with your voices.) and the Hadith,
+
+لَيْسَ مِنَّا مَنْ لَمْ يَتَغَنَّ بِالْقُرْآنِ
+
+(He is not of us who does not chant nicely with the recitation of the Qur'an.) and the Hadith,
+
+لَقَدْ أُوتِيَ هَذَا مِزْمَارًا مِنْ مَزَامِيرِ آلِ دَاوُدَ
+
+(Verily, he has been given this windpipe from the windpipes of the family of Dawud.) Referring to Abu Musa.
+
+Abu Musa replied, "If I knew that you had been listening to my recitation, I would have truly beautified it for you." It has been narrated from Ibn Mas'ud that he said, "Do not scatter the (recitation of) Qur'an out like the scattering of sand, and do not rush through it like the hasty recitation of poetry. Stop at its amazing parts and make your heart move with it. None of you should let his concern be to reach the end of the chapter." This has been recorded by Al-Baghawi. Al-Bukhari recorded from Abi Wa'il that he said, "A man came to Ibn Mas'ud and said, 'I read the Mufassal chapters (from Qaf to An-Nas) last night in one unit of prayer.' Ibn Mas'ud said, 'This is rushing like the haste of reciting poetry. Verily, I know the pairs (of chapters) that the Messenger of Allah ﷺ used to combine between them (in prayer).' Then he mentioned twenty chapters from the Mufassal chapters, and said that the Prophet ﷺ used to recite two in each prayer unit."
+
+The Magnificence of the Qur'an
+
+Allah then said,
+
+إِنَّا سَنُلْقِي عَلَيْكَ قَوْلًا ثَقِيلًا
+
+(Verily, We shall send down to you a Word Thaqil.)
+
+Al-Hasan and Qatadah both said, "The actions with it." It has also been said that it means it will be heavy at the time of its revelation due to its magnificence. This is similar to what Zayd bin Thabit said. He said, "The Messenger of Allah ﷺ received some revelation while his thigh was on top of my thigh, and my thigh was almost crushed due to it."
+
+Imam Ahmad recorded from 'Abdullah bin 'Amr that he said, "I asked the Prophet ﷺ, 'O Messenger of Allah! Do you feel anything when revelation comes (to you)?' The Messenger of Allah ﷺ replied,
+
+أَسْمَعُ صَلَاصِلَ ثُمَّ أَسْكُتُ عِنْدَ ذَلِكَ، فَمَا مِنْ مَرَّةٍ يُوحَىٰ إِلَيَّ إِلَّا ظَنَنْتُ أَنَّ نَفْسِي تُقْبَضُ
+
+(I hear a ringing and then I remain quiet when that occurs. There has not been a single time that revelation has come to me except that I thought that my soul was about to be taken (death).)"
+
+Ahmad was alone in narrating this. In the beginning of Sahih Al-Bukhari, it is recorded from 'A'ishah that Al-Harith bin Hisham asked the Messenger of Allah ﷺ, "How does the revelation come to you?" The Prophet ﷺ replied,
+
+أَحْيَانًا يَأْتِي فِي مِثْلِ صَلْصَلَةِ الْجَرَسِ وَهُوَ أَشَدُّهُ عَلَيَّ، فَيُفْصَمُ عَنِّي وَقَدْ وَعَيْتُ عَنْهُ مَا قَالَ، وَأَحْيَانًا يَتَمَثَّلُ لِي الْمَلَكُ رَجُلًا فَيُكَلِّمُنِي فَأَعِي مَا يَقُولُ
+
+(Sometimes it comes to me like the ringing of a bell, and it is most severe upon me. Then this state passes away from me after I have grasped what is inspired. Sometimes the angel comes to me in the form of a man and talks to me and I grasp whatever he says.)
+
+A'ishah added, "Verily, I saw him receiving revelation and I noticed the sweat dropping from his forehead on a very cold day as the revelation ended." This is the wording recorded by Al-Bukhari. Imam Ahmad recorded from 'A'ishah that she said, "If the Messenger of Allah ﷺ received any revelation while he was on his riding animal, it would begin moving its Jiran intensely." The Jiran is the bottom of the neck. Ibn Jarir chose the interpretation that it (the revelation) is heavy in both ways simultaneously. This is as 'Abdur-Rahman bin Zayd bin Aslam said, "Just as it is heavy in this world, it will also be heavy on the Day of Judgement in the Scales."
+
+The Virtue of standing at Night for Prayer
+
+Allah says,
+
+إِنَّ نَاشِئَةَ اللَّيْلِ هِيَ أَشَدُّ وَطْئًا وَأَقْوَمُ قِيلًا
+
+(Verily, rising (Nashi'ah) at night is better for understanding and more suitable for speech (recitation).)
+
+Umar, Ibn 'Abbas and Ibn Zubayr, all said, "The entire night is Nashi'ah." Mujahid and others said the same. It is said "Nasha'a" when a person stands at night to pray. In one narration from Mujahid he said, "(It is) after 'Isha' (prayer)." This was also said by Abu Mijlaz, Qatadah, Salim, Abu Hazim and Muhammad bin Al-Munkadir. The point is that Nashi'ah of the night refers to its hours and its times, every hour of it is called Nashi'ah, so it refers to the periods of time.
+
+The purpose of this is that standing at night (for prayer) is better for training the heart and the tongue, and more conducive to recitation. Thus, Allah says,
+
+هِيَ أَشَدُّ وَطْئًا وَأَقْوَمُ قِيلًا
+
+(is better for understanding and more suitable for speech (recitation).) meaning, more comprehensive for the matter of performing the recitation and better for understanding it than in the recitation of the day. This is because the daytime is the time for people to disperse and move about, to raise voices and be lively.
+
+Al-Hafiz Abu Ya'la Al-Mawsili said, "Ibrahim bin Sa'id Al-Jawhari told us that Abu Usamah told us that Al-A'mash informed us that Anas bin Malik recited this Ayah as:
+
+(إِنَّ نَاشِئَةَ اللَّيْلِ هِيَ أَشَدُّ وَأَصْوَبُ قِيلًا)
+
+('Verily, rising at night is better for understanding and more correct for the speech.') So a man said to him, 'We recite it;
+
+وَأَقْوَمُ قِيلًا
+
+(more suitable for speech).' So Anas said to him, 'Most correct (Aswab), most suitable (Aqwam), the best for preparation (Ahya') and similar words are all the same (in meaning).'" Thus, Allah continues saying,
+
+إِنَّ لَكَ فِي النَّهَارِ سَبْحًا طَوِيلًا
+
+(Verily, for you in the day is lengthy Sabh.) Ibn 'Abbas, 'Ikrimah and "Ata' bin Abi Muslim, all said, "Leisure time and sleep." Abu Al-'Aliyah, Mujahid, Abu Malik, Ad-Dahhak, Al-Hasan, Qatadah, Ar-Rabi' bin Anas and Sufyan Ath-Thawri, all said, "A long amount of leisure time." Qatadah said, "Leisure, aspirations and activities." 'Abdur-Rahman bin Zayd bin Aslam said concerning the statement,
+
+إِنَّ لَكَ فِي النَّهَارِ سَبْحًا طَوِيلًا
+
+(Verily, for you in the day is lengthy Sabh.) "This means for your needs. Therefore, leave the night open for your religious devotion. Allah said this when the (voluntary) night prayer was obligatory. Then, Allah blessed His servants, lightened the matter and removed its obligation." Then he recited,
+
+قُمِ اللَّيْلَ إِلَّا قَلِيلًا
+
+(Stand (to pray) all night, except a little.) to the end of the Ayah, then he recited,
+
+إِنَّ رَبَّكَ يَعْلَمُ أَنَّكَ تَقُومُ أَدْنَىٰ مِنْ ثُلُثَيِ اللَّيْلِ وَنِصْفَهُ
+
+(Verily, your Lord knows that you do stand less than two-thirds of the night, or half of it.)(73:20) until he reached,
+
+فَاقْرَءُوا مَا تَيَسَّرَ مِنْهُ
+
+(So recite of it what is easy.)(73:20) and Allah says,
+
+وَمِنَ اللَّيْلِ فَتَهَجَّدْ بِهِ نَافِلَةً لَكَ عَسَىٰ أَنْ يَبْعَثَكَ رَبُّكَ مَقَامًا مَحْمُودًا
+
+(And Tahajjud in some parts of the night (also offer the Salah with it), as an additional prayer for you. It may be that your Lord will raise you to Maqam Mahmud.)(17:79)
+
+In fact, this is as true as what he ('Abdur-Rahman) said, The proof for this view is what Imam Ahmad recorded in his Musnad, that Sa'id bin Hisham divorced his wife and then traveled to Al-Madinah in order to sell some property he had with her. He intended to use its money to buy an animal and a weapon and then go for Jihad against the Romans until he died. In the process of this he met a group of his people and they informed him that a group of six men from his people had intended that in the time of the Messenger of Allah ﷺ, upon which he ﷺ said,
+
+أَلَيْسَ لَكُ
+
+[TRUNCATED at 12000 chars — 7818 more. Consult the source directly before relying on anything near the cut.]
 
 ### al-Tabari (Arabic)
 
-يعني بقوله: ( يَا أَيُّهَا الْمُزَّمِّلُ ) هو الملتفّ بثيابه. وإنما عني بذلك نبيّ الله صلى الله عليه وسلم.واختلف أهل التأويل في المعنى الذي وصف الله به نبيه صلى الله عليه وسلم في هذه الآية من التزمُّل، فقال بعضهم: وصفه بأنه مُتَزمل في ثيابه، متأهب للصلاة.* ذكر من قال ذلك:حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة: ( يَا أَيُّهَا الْمُزَّمِّلُ ) أي المتزمل في ثيابه.حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة ( يَا أَيُّهَا الْمُزَّمِّلُ ) هو الذي تزمل بثيابه.وقال آخرون: وص...
+القول في تأويل قوله تعالى: ﴿يَا أَيُّهَا الْمُزَّمِّلُ (١) قُمِ اللَّيْلَ إِلا قَلِيلا (٢) نِصْفَهُ أَوِ انْقُصْ مِنْهُ قَلِيلا (٣) أَوْ زِدْ عَلَيْهِ وَرَتِّلِ الْقُرْآنَ تَرْتِيلا (٤) ﴾
+
+يعني بقوله: ﴿يَاأَيُّهَا الْمُزَّمِّلُ﴾ هو الملتفّ بثيابه. وإنما عني بذلك نبيّ الله ﷺ.
+
+واختلف أهل التأويل في المعنى الذي وصف الله به نبيه ﷺ في هذه الآية من التزمُّل، فقال بعضهم: وصفه بأنه مُتَزمل في ثيابه، متأهب للصلاة.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة: ﴿يَاأَيُّهَا الْمُزَّمِّلُ﴾ أي المتزمل في ثيابه.
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة ﴿يَاأَيُّهَا الْمُزَّمِّلُ﴾ هو الذي تزمل بثيابه.
+
+وقال آخرون: وصفه بأنه متزمِّل النبوّة والرسالة.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا محمد بن المثنى، قال: ثني عبد الأعلى، قال: ثنا داود، عن عكرِمة، في قوله: ﴿يَا أَيُّهَا الْمُزَّمِّلُ قُمِ اللَّيْلَ إِلا قَلِيلا﴾ قال: زُملت هذا الأمر فقم به.
+
+قال أبو جعفر: والذي هو أولى القولين بتأويل ذلك، ما قاله قتادة؛ لأنه قد عقبه بقوله: ﴿قُمِ اللَّيْلَ﴾ فكان ذلك بيانا عن أن وصفه بالتزمُّل بالثياب للصلاة، وأن ذلك هو أظهر معنييه.
+
+* *
+
+وقوله: ﴿قُمِ اللَّيْلَ إِلا قَلِيلا﴾
+
+يقول لنبيه ﷺ: ﴿قُمِ اللَّيْلَ﴾ يا محمد كله ﴿إِلا قَلِيلا﴾ منه ﴿نِصْفَهُ﴾ يقول: قم نصف الليل ﴿أَوِ انْقُصْ مِنْهُ قَلِيلا أَوْ زِدْ عَلَيْهِ﴾ يقول: أو زد عليه؛ خَيره الله تعالى ذكره حين فرض عليه قيام الليل بين هذه المنازل أي ذلك شاء فعل، فكان رسول الله ﷺ وأصحابه فيما ذُكر يقومون الليل، نحو قيامهم في شهر رمضان فيما ذُكر حتى خفف ذلك عنهم.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا أبو كريب، قال: ثنا أبو أُسامة، عن مِسْعَرٍ، قال: ثنا سماك الحنفي، قال: سمعت ابن عباس يقول: لما نزل أوّل المزمل، كانوا يقومون نحوًا من قيامهم في رمضان، وكان بين أوّلها وآخرها قريب من سنة.
+
+⁕ حدثنا أبو كريب، قال: ثنا محمد بن بشر، عن مِسْعَرٍ، قال: ثنا سماك، أنه سمع ابن عباس يقول، فذكر نحوه. إلا أنه قال: نحوا من قيامهم في شهر رمضان.
+
+⁕ حدثنا ابن وكيع، قال: ثنا يزيد بن حيان، عن موسى بن عبيدة، قال: ثني محمد بن طَحْلاء مولى أمّ سلمة، عن أبي سلمة بن عبد الرحمن، عن عائشة قالت: كنت أجعل لرسول الله ﷺ حصيرا يصلي عليه من الليل، فتسامع به الناس، فاجتمعوا، فخرج كالمغضَب، وكان بهم رحيما، فخشي أن يُكتب عليهم قيام الليل، فقال: "يا أيُّها النَّاسُ اكْلفُوا مِنَ الأعْمالِ ما تُطِيقُونَ، فإنّ الله لا يَمَلُّ مِنَ الثَّوَابِ حَتَّى تَمَلُّوا مِنَ العَمَلِ وخَيْرُ الأعْمال ما دُمْتُمْ عَلَيْه" ونزل القرآن: ﴿يَا أَيُّهَا الْمُزَّمِّلُ قُمِ اللَّيْلَ إِلا قَلِيلا نِصْفَهُ أَوِ انْقُصْ مِنْهُ قَلِيلا أَوْ زِدْ عَلَيْهِ﴾ حتى كان الرجل يربط الحبل ويتعلق، فمكثوا بذلك ثمانية أشهر، فرأى الله ما يبتغون من رضوانه فرحمهم فردّهم إلى الفريضة وترك قيام الليل.
+
+⁕ حدثنا ابن حميد، قال: ثنا مهران، عن موسى بن عبيدة الحميري، عن محمد بن طحلاء، عن أبي سلمة بن عبد الرحمن، عن عائشة قالت: كنت أشتري لرسول الله ﷺ حصيرا، فكان يقوم عليه من أوّل الليل، فتسمع الناس بصلاته، فاجتمعت جماعة من الناس؛ فلما رأى اجتماعهم كره ذلك، فخشي أن يكتب عليهم، فدخل البيت كالمغضب، فجعلوا يتنحنحون ويتسعَّلون حتى خرج إليهم، فقال: "يا أيُّها النَّاس إنَّ الله لا يَمَلُّ حتى تَمَلُّوا - يعنى من الثواب - فاكْلُفوا مِنَ العَمَلِ ما تُطِيقُون فإنَّ خَيَْر العَمَلِ أدْوَمُهُ وَإنْ قَلَّ"،ونزلت عليه: (يَا أَيُّهَا الْمُزَّمِّلُ قُمِ اللَّيْلَ إِلا قَلِيلا) السورة قال: فكتبت عليهم، وأنزلت بمنزلة الفريضة حتى إن كان أحدهم ليربط الحبل فيتعلق به؛ فلما رأى الله ما يكلفون مما يبتغون به وجه الله ورضاه، وضع ذلك عنهم، فقال: ﴿إِنَّ رَبَّكَ يَعْلَمُ أَنَّكَ تَقُومُ أَدْنَى مِنْ ثُلُثَيِ اللَّيْلِ وَنِصْفَهُ﴾ ... إلى ﴿عَلِمَ أَنْ لَنْ تُحْصُوهُ فَتَابَ عَلَيْكُمْ﴾ فردّهم إلى الفريضة، ووضع عنهم النافلة، إلا ما تطوّعوا به.
+
+⁕ حدثني عليّ، قال: ثنا أبو صالح، قال: ثنا معاوية، عن عليّ، عن ابن عباس، في قوله: ﴿قُمِ اللَّيْلَ إِلا قَلِيلا نِصْفَهُ أَوِ انْقُصْ مِنْهُ قَلِيلا أَوْ زِدْ عَلَيْهِ وَرَتِّلِ الْقُرْآنَ تَرْتِيلا﴾ فأمر الله نبيه والمؤمنين بقيام الليل إلا قليلا فشقّ ذلك على المؤمنين، ثم خفَّف عنهم فرحمهم، وأنزل الله بعد هذا: ﴿عَلِمَ أَنْ سَيَكُونُ مِنْكُمْ مَرْضَى وَآخَرُونَ يَضْرِبُونَ فِي الأرْضِ﴾ ... إلى قوله: ﴿فَاقْرَءُوا مَا تَيَسَّرَ مِنْهُ﴾ فوسع الله وله الحمد، ولم يضيق.
+
+⁕ حدثنا ابن حميد، قال: ثنا يعقوب، عن جعفر، عن سعيد، قال: لما أنزل الله على نبيه: ﴿يَاأَيُّهَا الْمُزَّمِّلُ﴾ قال: مكث النبيّ ﷺ على هذا الحال عشر سنين يقوم الليل كما أمره الله، وكانت طائفة من أصحابه يقومون معه، فأنزل الله عليه بعد عشر سنين: ﴿إِنَّ رَبَّكَ يَعْلَمُ أَنَّكَ تَقُومُ أَدْنَى مِنْ ثُلُثَيِ اللَّيْلِ وَنِصْفَهُ وَطَائِفَةٌ مِنَ الَّذِينَ مَعَكَ﴾ ... إلى قوله: ﴿وَأَقِيمُوا الصَّلاةَ﴾ فخفَّف الله عنهم بعد عشر سنين.
+
+⁕ حدثنا ابن حميد، قال: ثنا يحيى بن واضح عن الحسين، عن يزيد، عن عكرِمة والحسن، قالا قال في سورة المزمل ﴿قُمِ اللَّيْلَ إِلا قَلِيلا نِصْفَهُ أَوِ انْقُصْ مِنْهُ قَلِيلا أَوْ زِدْ عَلَيْهِ وَرَتِّلِ الْقُرْآنَ تَرْتِيلا﴾ نسختها الآية التي فيها: ﴿عَلِمَ أَنْ لَنْ تُحْصُوهُ فَتَابَ عَلَيْكُمْ فَاقْرَءُوا مَا تَيَسَّرَ مِنَ الْقُرْآنِ﴾ .
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة ﴿قُمِ اللَّيْلَ إِلا قَلِيلا﴾ قاموا حولا أو حولين حتى انتفخت سوقهم وأقدامهم، فأنزل الله تخفيفا بعد في آخر السورة.
+
+⁕ حدثنا ابن حميد، قال: ثنا مهران، عن سفيان، عن قيس بن وهب، عن أبي عبد الرحمن، قال: لما نزلت: ﴿يَاأَيُّهَا الْمُزَّمِّلُ﴾ قاموا بها حولا حتى ورمت أقدامهم وسوقهم حتى نزلت: ﴿فَاقْرَءُوا مَا تَيَسَّرَ مِنْهُ﴾ فاستراح الناس.
+
+⁕ قال: ثنا مهران، عن سفيان، عن جرير بياع المُلاء عن الحسن، قال: الحمد لله تطوّع بعد فريضة.
+
+⁕ حدثنا أبو كريب، قال: ثنا وكيع، عن مبارك، عن الحسن، قال: لما نزلت ﴿يَاأَيُّهَا الْمُزَّمِّلُ﴾ ... الآية، قام المسلمون حولا فمنهم من أطاقه، ومنهم من لم يطقه، حتى نزلت الرخصة.
+
+⁕ قال: ثنا وكيع، عن إسرائيل، عن سماك، عن عكرِمة، عن ابن عباس، قال: لما نزل أوّل المزمل كانوا يقومون نحوا من قيامهم في شهر رمضان، وكان بين أوّلها وآخرها نحو من سنة.
+
+* *
+
+وقوله: ﴿وَرَتِّلِ الْقُرْآنَ تَرْتِيلا﴾
+
+يقول جلّ وعزّ: وبين القرآن إذا قرأته تبيينا، وترسل فيه ترسلا.
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثني يعقوب بن إبراهيم، قال. ثنا ابن عُلَيَّةَ، قال: ثنا أبو رجاء، عن الحسن، في قوله: ﴿وَرَتِّلِ الْقُرْآنَ تَرْتِيلا﴾ قال: اقرأه قراءة بينة.
+
+⁕ حدثنا ابن بشار، قال. ثنا عبد الرحمن، قال: ثنا سفيان، عن منصور، عن مجاهد ﴿وَرَتِّلِ الْقُرْآنَ تَرْتِيلا﴾ فقال: بعضه على أثر بعض.
+
+⁕ حدثنا محمد بن عبد الله المخزومي، قال. ثنا جعفر بن عون، قال: أخبرنا سفيان، عن منصور، عن مجاهد ﴿وَرَتِّلِ الْقُرْآنَ تَرْتِيلا﴾ فقال: بعضه على أثر بعض، على تؤدة.
+
+⁕ حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى؛ وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء، عن ابن أبي نجيح، عن مجاهد في قوله الله ﴿وَرَتِّلِ الْقُرْآنَ تَرْتِيلا﴾ قال: ترسل فيه ترسلا.
+
+⁕ حدثنا ابن حميد، قال: ثنا مهران، عن سفيان، عن منصور، عن مجاهد ﴿وَرَتِّلِ الْقُرْآنَ تَرْتِيلا﴾ فقال: بعضه على أثر بعض.
+
+⁕ حدثني زكريا بن يحيى بن أبي زائدة، قال: ثنا حجاج بن محمد، قال، قال ابن جريج، عن عطاء ﴿وَرَتِّلِ الْقُرْآنَ تَرْتِيلا﴾ قال: الترتيل النَّبْذ: الطَّرْح.
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة ﴿وَرَتِّلِ الْقُرْآنَ تَرْتِيلا﴾ قال بينه بيانا.
+
+⁕ حدثنا أبو كريب، قال: ثنا وكيع، عن ابن أبي ليلى، عن الحكم، عن مِقْسم، عن ابن عباس ﴿وَرَتِّلِ الْقُرْآنَ تَرْتِيلا﴾ قال: بيِّنه بيانا.
+
+⁕ حدثنا أبو كريب، قال: ثنا وكيع، عن سفيان، عن منصور، عن مجاهد ﴿وَرَتِّلِ الْقُرْآنَ تَرْتِيلا﴾ قال: بعضه على أثر بعض.
 
 ### al-Muyassar (Arabic)
 
-يا أيها المتغطي بثيابه، قم للصلاة في الليل إلا يسيرًا منه. قم نصف الليل أو انقص من النصف قليلا حتى تَصِلَ إلى الثلث، أو زد على النصف حتى تصل إلى الثلثين، واقرأ القرآن بتُؤَدَة وتمهُّلٍ مبيِّنًا الحروف والوقوف.
+تسمية السورة
+
+• سميت المزمل؛ لاستهلالها بنداء النبي ﷺ بهذا الوصف، ويعني: المتغطِّي بالثوب ونحوه.
+
+من مقاصد السورة
+
+• الإشارة إلى ثِقَل الوحي الذي كلَّف الله به رسولَه ﷺ، وأَمْرُه بالاستعانة على ذلك بإحياء الليل في العبادة، وتثبيتُه على ذلك، وأمرُه بالإعراض عن تكذيب المشركين والصبر على أذاهم.
+
+• وعظُ المشركين بما حلَّ بقوم فرعونَ لمّا كذبوا رسولَ الله إليهم، ووعيدهم بالعذاب والنَّكال والفزع يوم القيامة.
+
+• الثناء على طائفةٍ من المؤمنين واظبت على قيام الليل، والأمرُ بإدامة إقامة الصلاة، وأداء الزكاة وإعطاء الصدقات، والوعد بالجزاء العظيم على أفعال الخيرات.
+
+[التفسير]
+
+يا أيها المتغطي بثيابه، قم للصلاة في الليل إلا يسيرًا منه، قم نصف الليل أو انقص من النصف قليلًا حتى تَصِلَ إلى الثلث، أو زد على النصف حتى تصل إلى الثلثين، واقرأ القرآن بتُؤَدَة وتمهُّلٍ مبيِّنًا الحروف والوقوف.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+سُورَة المُزَّمِّل [ مَكِّيَّة إلّا آيَة ٢٠ فَمَدَنِيَّة وآياتها عِشْرُونَ آيَة ]
+
+﴿يا أيّها المُزَّمِّل﴾ النَّبِيّ وأَصْله المُتَزَمِّل أُدْغِمَتْ التّاء فِي الزّاي أيْ المُتَلَفِّف بِثِيابِهِ حِين مَجِيء الوَحْي لَهُ خَوْفًا مِنهُ لِهَيْبَتِهِ
 
 ---
 
@@ -128,25 +1246,265 @@ Allah commands His Messenger to cease being wrapped up, and this means to be cov
 
 ### Ibn Kathir (English)
 
-Which was revealed in Makkah
-بِسْمِ اللَّهِ الرَّحْمَـنِ الرَّحِيمِ
+بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
+
 (In the Name of Allah, the Most Gracious, the Most Merciful.
+
+يَا أَيُّهَا الْمُزَّمِّلُ - قُمِ اللَّيْلَ إِلَّا قَلِيلًا - نِصْفَهُ أَوِ انْقُصْ مِنْهُ قَلِيلًا - أَوْ زِدْ عَلَيْهِ وَرَتِّلِ الْقُرْآنَ تَرْتِيلًا - إِنَّا سَنُلْقِي عَلَيْكَ قَوْلًا ثَقِيلًا - إِنَّ نَاشِئَةَ اللَّيْلِ هِيَ أَشَدُّ وَطْئًا وَأَقْوَمُ قِيلًا - إِنَّ لَكَ فِي النَّهَارِ سَبْحًا طَوِيلًا - وَاذْكُرِ اسْمَ رَبِّكَ وَتَبَتَّلْ إِلَيْهِ تَبْتِيلًا - رَبُّ الْمَشْرِقِ وَالْمَغْرِبِ لَا إِلَٰهَ إِلَّا هُوَ فَاتَّخِذْهُ وَكِيلًا
+
+(1. O you wrapped up!)(2. Stand (to pray) all night, except a little.)(3. Half of it or less than that, a little.)(4. Or a little more. And Rattil the Qur'an Tartil.)(5. Verily, We shall send down to you a Word Thaqil.)(6. Verily, rising (Nashi'ah) at night is better for understanding and more suitable for speech (recitation).)(7. Verily, for you in the day is lengthy Sabh.)(8. And remember the Name of your Lord and (Tabattil) devote yourself to Him with complete devotion.)(9. Lord of the east and the west; La ilaha illa Huwa, so take Him as a trustee.)
+
 The Command to stand at Night (in Prayer)
-Allah commands His Messenger to cease being wrapped up, and this means to be covered during the night. He commands him to get up and stand in prayer to His Lord. This is as Allah says,
-تَتَجَافَى جُنُوبُهُمْ عَنِ الْمَضَاجِعِ يَدْعُونَ رَبَّهُمْ خَوْفاً وَطَمَعاً وَمِمَّا رَزَقْنَـهُمْ يُنفِقُونَ
-(Their sides forsake their b...
+
+Allah commands His Messenger ﷺ to cease being wrapped up, and this means to be covered during the night. He commands him to get up and stand in prayer to His Lord. This is as Allah says,
+
+تَتَجَافَىٰ جُنُوبُهُمْ عَنِ الْمَضَاجِعِ يَدْعُونَ رَبَّهُمْ خَوْفًا وَطَمَعًا وَمِمَّا رَزَقْنَاهُمْ يُنْفِقُونَ
+
+(Their sides forsake their beds, to invoke their Lord in fear and hope, and they spend out of what We have bestowed on them.)(32:16)
+
+Thus, the Prophet ﷺ did as Allah ordered him, by standing for prayer at night. This was obligatory upon him alone, as Allah said,
+
+وَمِنَ اللَّيْلِ فَتَهَجَّدْ بِهِ نَافِلَةً لَكَ عَسَىٰ أَنْ يَبْعَثَكَ رَبُّكَ مَقَامًا مَحْمُودًا
+
+(And in some parts of the night offer the Salah with it (the Qur'an), as an additional prayer for you. It may be that your Lord will raise you to Maqam Mahmud.)(17:79)
+
+Here Allah explains how much prayer he should perform. Allah says,
+
+يَا أَيُّهَا الْمُزَّمِّلُ - قُمِ اللَّيْلَ إِلَّا قَلِيلًا
+
+(O you wrapped up! Stand all night, except a little.) Ibn 'Abbas, Ad-Dahhak and As-Suddi all said,
+
+يَا أَيُّهَا الْمُزَّمِّلُ
+
+(O you wrapped up!) "This means, O you who are asleep." Qatadah said, "The one who is wrapped up in his garments." Concerning Allah's statement,
+
+نِصْفَهُ
+
+(Half of it) means, instead of the whole night.
+
+أَوِ انْقُصْ مِنْهُ قَلِيلًا - أَوْ زِدْ عَلَيْهِ
+
+(A little less than that, or a little more.) meaning, 'We have commanded you to stand in prayer for half of the night, either a little more than it or a little less. There is no hardship on you concerning that (slight increase or decrease).
+
+The Way of reciting the Qur'an
+
+Concerning Allah's statement,
+
+وَرَتِّلِ الْقُرْآنَ تَرْتِيلًا
+
+(And Rattil the Qur'an Tartil.) meaning, recite it slowly, for that will help in understanding the Qur'an and contemplating it. This is how the Prophet ﷺ used to recite. 'A'ishah said, "He (the Prophet) used to recite the chapter slowly, so much so that it would be longer than chapters that were actually longer than it."
+
+In Sahih Al-Bukhari, it is recorded from Anas that he was asked about the recitation of the Messenger of Allah ﷺ, so he replied, "He used to elongate the letters." Then he (Anas) recited,
+
+بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
+
+(In the Name of Allah, the Most Gracious, the Most Merciful.)(1:1) and he elongated "In the Name of Allah," and he elongated "The Most Gracious," and he elongated "The Most Merciful."
+
+Ibn Jurayj reported from Ibn Abi Mulaykah, who narrated from Umm Salamah that she was asked about the recitation of the Messenger of Allah , so she said, "He used to pause in his recitation, verse by verse.
+
+بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ - الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ - الرَّحْمَٰنِ الرَّحِيمِ - مَالِكِ يَوْمِ الدِّينِ
+
+(In the Name of Allah, the Most Gracious, the Most Merciful. All praise is Allah's, the Lord of all that exists. The Most Gracious, the Most Merciful. The Only Owner of the Day of Recompense.)(1:1-4)
+
+This was recorded by Ahmad, Abu Dawud and At-Tirmidhi. We have already mentioned the Hadiths which prove the recommendation of slow rhythmic recitation and beautification of the voice while reciting at the beginning of this Tafsir. For example, the Hadith which states,
+
+زَيِّنُوا الْقُرْآنَ بِأَصْوَاتِكُمْ
+
+(Beautify the Qur'an with your voices.) and the Hadith,
+
+لَيْسَ مِنَّا مَنْ لَمْ يَتَغَنَّ بِالْقُرْآنِ
+
+(He is not of us who does not chant nicely with the recitation of the Qur'an.) and the Hadith,
+
+لَقَدْ أُوتِيَ هَذَا مِزْمَارًا مِنْ مَزَامِيرِ آلِ دَاوُدَ
+
+(Verily, he has been given this windpipe from the windpipes of the family of Dawud.) Referring to Abu Musa.
+
+Abu Musa replied, "If I knew that you had been listening to my recitation, I would have truly beautified it for you." It has been narrated from Ibn Mas'ud that he said, "Do not scatter the (recitation of) Qur'an out like the scattering of sand, and do not rush through it like the hasty recitation of poetry. Stop at its amazing parts and make your heart move with it. None of you should let his concern be to reach the end of the chapter." This has been recorded by Al-Baghawi. Al-Bukhari recorded from Abi Wa'il that he said, "A man came to Ibn Mas'ud and said, 'I read the Mufassal chapters (from Qaf to An-Nas) last night in one unit of prayer.' Ibn Mas'ud said, 'This is rushing like the haste of reciting poetry. Verily, I know the pairs (of chapters) that the Messenger of Allah ﷺ used to combine between them (in prayer).' Then he mentioned twenty chapters from the Mufassal chapters, and said that the Prophet ﷺ used to recite two in each prayer unit."
+
+The Magnificence of the Qur'an
+
+Allah then said,
+
+إِنَّا سَنُلْقِي عَلَيْكَ قَوْلًا ثَقِيلًا
+
+(Verily, We shall send down to you a Word Thaqil.)
+
+Al-Hasan and Qatadah both said, "The actions with it." It has also been said that it means it will be heavy at the time of its revelation due to its magnificence. This is similar to what Zayd bin Thabit said. He said, "The Messenger of Allah ﷺ received some revelation while his thigh was on top of my thigh, and my thigh was almost crushed due to it."
+
+Imam Ahmad recorded from 'Abdullah bin 'Amr that he said, "I asked the Prophet ﷺ, 'O Messenger of Allah! Do you feel anything when revelation comes (to you)?' The Messenger of Allah ﷺ replied,
+
+أَسْمَعُ صَلَاصِلَ ثُمَّ أَسْكُتُ عِنْدَ ذَلِكَ، فَمَا مِنْ مَرَّةٍ يُوحَىٰ إِلَيَّ إِلَّا ظَنَنْتُ أَنَّ نَفْسِي تُقْبَضُ
+
+(I hear a ringing and then I remain quiet when that occurs. There has not been a single time that revelation has come to me except that I thought that my soul was about to be taken (death).)"
+
+Ahmad was alone in narrating this. In the beginning of Sahih Al-Bukhari, it is recorded from 'A'ishah that Al-Harith bin Hisham asked the Messenger of Allah ﷺ, "How does the revelation come to you?" The Prophet ﷺ replied,
+
+أَحْيَانًا يَأْتِي فِي مِثْلِ صَلْصَلَةِ الْجَرَسِ وَهُوَ أَشَدُّهُ عَلَيَّ، فَيُفْصَمُ عَنِّي وَقَدْ وَعَيْتُ عَنْهُ مَا قَالَ، وَأَحْيَانًا يَتَمَثَّلُ لِي الْمَلَكُ رَجُلًا فَيُكَلِّمُنِي فَأَعِي مَا يَقُولُ
+
+(Sometimes it comes to me like the ringing of a bell, and it is most severe upon me. Then this state passes away from me after I have grasped what is inspired. Sometimes the angel comes to me in the form of a man and talks to me and I grasp whatever he says.)
+
+A'ishah added, "Verily, I saw him receiving revelation and I noticed the sweat dropping from his forehead on a very cold day as the revelation ended." This is the wording recorded by Al-Bukhari. Imam Ahmad recorded from 'A'ishah that she said, "If the Messenger of Allah ﷺ received any revelation while he was on his riding animal, it would begin moving its Jiran intensely." The Jiran is the bottom of the neck. Ibn Jarir chose the interpretation that it (the revelation) is heavy in both ways simultaneously. This is as 'Abdur-Rahman bin Zayd bin Aslam said, "Just as it is heavy in this world, it will also be heavy on the Day of Judgement in the Scales."
+
+The Virtue of standing at Night for Prayer
+
+Allah says,
+
+إِنَّ نَاشِئَةَ اللَّيْلِ هِيَ أَشَدُّ وَطْئًا وَأَقْوَمُ قِيلًا
+
+(Verily, rising (Nashi'ah) at night is better for understanding and more suitable for speech (recitation).)
+
+Umar, Ibn 'Abbas and Ibn Zubayr, all said, "The entire night is Nashi'ah." Mujahid and others said the same. It is said "Nasha'a" when a person stands at night to pray. In one narration from Mujahid he said, "(It is) after 'Isha' (prayer)." This was also said by Abu Mijlaz, Qatadah, Salim, Abu Hazim and Muhammad bin Al-Munkadir. The point is that Nashi'ah of the night refers to its hours and its times, every hour of it is called Nashi'ah, so it refers to the periods of time.
+
+The purpose of this is that standing at night (for prayer) is better for training the heart and the tongue, and more conducive to recitation. Thus, Allah says,
+
+هِيَ أَشَدُّ وَطْئًا وَأَقْوَمُ قِيلًا
+
+(is better for understanding and more suitable for speech (recitation).) meaning, more comprehensive for the matter of performing the recitation and better for understanding it than in the recitation of the day. This is because the daytime is the time for people to disperse and move about, to raise voices and be lively.
+
+Al-Hafiz Abu Ya'la Al-Mawsili said, "Ibrahim bin Sa'id Al-Jawhari told us that Abu Usamah told us that Al-A'mash informed us that Anas bin Malik recited this Ayah as:
+
+(إِنَّ نَاشِئَةَ اللَّيْلِ هِيَ أَشَدُّ وَأَصْوَبُ قِيلًا)
+
+('Verily, rising at night is better for understanding and more correct for the speech.') So a man said to him, 'We recite it;
+
+وَأَقْوَمُ قِيلًا
+
+(more suitable for speech).' So Anas said to him, 'Most correct (Aswab), most suitable (Aqwam), the best for preparation (Ahya') and similar words are all the same (in meaning).'" Thus, Allah continues saying,
+
+إِنَّ لَكَ فِي النَّهَارِ سَبْحًا طَوِيلًا
+
+(Verily, for you in the day is lengthy Sabh.) Ibn 'Abbas, 'Ikrimah and "Ata' bin Abi Muslim, all said, "Leisure time and sleep." Abu Al-'Aliyah, Mujahid, Abu Malik, Ad-Dahhak, Al-Hasan, Qatadah, Ar-Rabi' bin Anas and Sufyan Ath-Thawri, all said, "A long amount of leisure time." Qatadah said, "Leisure, aspirations and activities." 'Abdur-Rahman bin Zayd bin Aslam said concerning the statement,
+
+إِنَّ لَكَ فِي النَّهَارِ سَبْحًا طَوِيلًا
+
+(Verily, for you in the day is lengthy Sabh.) "This means for your needs. Therefore, leave the night open for your religious devotion. Allah said this when the (voluntary) night prayer was obligatory. Then, Allah blessed His servants, lightened the matter and removed its obligation." Then he recited,
+
+قُمِ اللَّيْلَ إِلَّا قَلِيلًا
+
+(Stand (to pray) all night, except a little.) to the end of the Ayah, then he recited,
+
+إِنَّ رَبَّكَ يَعْلَمُ أَنَّكَ تَقُومُ أَدْنَىٰ مِنْ ثُلُثَيِ اللَّيْلِ وَنِصْفَهُ
+
+(Verily, your Lord knows that you do stand less than two-thirds of the night, or half of it.)(73:20) until he reached,
+
+فَاقْرَءُوا مَا تَيَسَّرَ مِنْهُ
+
+(So recite of it what is easy.)(73:20) and Allah says,
+
+وَمِنَ اللَّيْلِ فَتَهَجَّدْ بِهِ نَافِلَةً لَكَ عَسَىٰ أَنْ يَبْعَثَكَ رَبُّكَ مَقَامًا مَحْمُودًا
+
+(And Tahajjud in some parts of the night (also offer the Salah with it), as an additional prayer for you. It may be that your Lord will raise you to Maqam Mahmud.)(17:79)
+
+In fact, this is as true as what he ('Abdur-Rahman) said, The proof for this view is what Imam Ahmad recorded in his Musnad, that Sa'id bin Hisham divorced his wife and then traveled to Al-Madinah in order to sell some property he had with her. He intended to use its money to buy an animal and a weapon and then go for Jihad against the Romans until he died. In the process of this he met a group of his people and they informed him that a group of six men from his people had intended that in the time of the Messenger of Allah ﷺ, upon which he ﷺ said,
+
+أَلَيْسَ لَكُ
+
+[TRUNCATED at 12000 chars — 7818 more. Consult the source directly before relying on anything near the cut.]
 
 ### al-Tabari (Arabic)
 
-حدثنا محمد بن المثنى، قال: ثني عبد الأعلى، قال: ثنا داود، عن عكرِمة، في قوله: ( يَا أَيُّهَا الْمُزَّمِّلُ قُمِ اللَّيْلَ إِلا قَلِيلا ) قال: زُملت هذا الأمر فقم به.قال أبو جعفر: والذي هو أولى القولين بتأويل ذلك، ما قاله قتادة؛ لأنه قد عقبه بقوله: ( قُمِ اللَّيْلَ ) فكان ذلك بيانا عن أن وصفه بالتزمُّل بالثياب للصلاة، وأن ذلك هو أظهر معنييه.وقوله: ( قُمِ اللَّيْلَ إِلا قَلِيلا ) يقول لنبيه صلى الله عليه وسلم : ( قُمِ اللَّيْلَ ) يا محمد كله ( إِلا قَلِيلا ) منه ( نِصْفَهُ ) يقول: قم نصف الليل ...
+القول في تأويل قوله تعالى: ﴿يَا أَيُّهَا الْمُزَّمِّلُ (١) قُمِ اللَّيْلَ إِلا قَلِيلا (٢) نِصْفَهُ أَوِ انْقُصْ مِنْهُ قَلِيلا (٣) أَوْ زِدْ عَلَيْهِ وَرَتِّلِ الْقُرْآنَ تَرْتِيلا (٤) ﴾
+
+يعني بقوله: ﴿يَاأَيُّهَا الْمُزَّمِّلُ﴾ هو الملتفّ بثيابه. وإنما عني بذلك نبيّ الله ﷺ.
+
+واختلف أهل التأويل في المعنى الذي وصف الله به نبيه ﷺ في هذه الآية من التزمُّل، فقال بعضهم: وصفه بأنه مُتَزمل في ثيابه، متأهب للصلاة.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة: ﴿يَاأَيُّهَا الْمُزَّمِّلُ﴾ أي المتزمل في ثيابه.
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة ﴿يَاأَيُّهَا الْمُزَّمِّلُ﴾ هو الذي تزمل بثيابه.
+
+وقال آخرون: وصفه بأنه متزمِّل النبوّة والرسالة.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا محمد بن المثنى، قال: ثني عبد الأعلى، قال: ثنا داود، عن عكرِمة، في قوله: ﴿يَا أَيُّهَا الْمُزَّمِّلُ قُمِ اللَّيْلَ إِلا قَلِيلا﴾ قال: زُملت هذا الأمر فقم به.
+
+قال أبو جعفر: والذي هو أولى القولين بتأويل ذلك، ما قاله قتادة؛ لأنه قد عقبه بقوله: ﴿قُمِ اللَّيْلَ﴾ فكان ذلك بيانا عن أن وصفه بالتزمُّل بالثياب للصلاة، وأن ذلك هو أظهر معنييه.
+
+* *
+
+وقوله: ﴿قُمِ اللَّيْلَ إِلا قَلِيلا﴾
+
+يقول لنبيه ﷺ: ﴿قُمِ اللَّيْلَ﴾ يا محمد كله ﴿إِلا قَلِيلا﴾ منه ﴿نِصْفَهُ﴾ يقول: قم نصف الليل ﴿أَوِ انْقُصْ مِنْهُ قَلِيلا أَوْ زِدْ عَلَيْهِ﴾ يقول: أو زد عليه؛ خَيره الله تعالى ذكره حين فرض عليه قيام الليل بين هذه المنازل أي ذلك شاء فعل، فكان رسول الله ﷺ وأصحابه فيما ذُكر يقومون الليل، نحو قيامهم في شهر رمضان فيما ذُكر حتى خفف ذلك عنهم.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا أبو كريب، قال: ثنا أبو أُسامة، عن مِسْعَرٍ، قال: ثنا سماك الحنفي، قال: سمعت ابن عباس يقول: لما نزل أوّل المزمل، كانوا يقومون نحوًا من قيامهم في رمضان، وكان بين أوّلها وآخرها قريب من سنة.
+
+⁕ حدثنا أبو كريب، قال: ثنا محمد بن بشر، عن مِسْعَرٍ، قال: ثنا سماك، أنه سمع ابن عباس يقول، فذكر نحوه. إلا أنه قال: نحوا من قيامهم في شهر رمضان.
+
+⁕ حدثنا ابن وكيع، قال: ثنا يزيد بن حيان، عن موسى بن عبيدة، قال: ثني محمد بن طَحْلاء مولى أمّ سلمة، عن أبي سلمة بن عبد الرحمن، عن عائشة قالت: كنت أجعل لرسول الله ﷺ حصيرا يصلي عليه من الليل، فتسامع به الناس، فاجتمعوا، فخرج كالمغضَب، وكان بهم رحيما، فخشي أن يُكتب عليهم قيام الليل، فقال: "يا أيُّها النَّاسُ اكْلفُوا مِنَ الأعْمالِ ما تُطِيقُونَ، فإنّ الله لا يَمَلُّ مِنَ الثَّوَابِ حَتَّى تَمَلُّوا مِنَ العَمَلِ وخَيْرُ الأعْمال ما دُمْتُمْ عَلَيْه" ونزل القرآن: ﴿يَا أَيُّهَا الْمُزَّمِّلُ قُمِ اللَّيْلَ إِلا قَلِيلا نِصْفَهُ أَوِ انْقُصْ مِنْهُ قَلِيلا أَوْ زِدْ عَلَيْهِ﴾ حتى كان الرجل يربط الحبل ويتعلق، فمكثوا بذلك ثمانية أشهر، فرأى الله ما يبتغون من رضوانه فرحمهم فردّهم إلى الفريضة وترك قيام الليل.
+
+⁕ حدثنا ابن حميد، قال: ثنا مهران، عن موسى بن عبيدة الحميري، عن محمد بن طحلاء، عن أبي سلمة بن عبد الرحمن، عن عائشة قالت: كنت أشتري لرسول الله ﷺ حصيرا، فكان يقوم عليه من أوّل الليل، فتسمع الناس بصلاته، فاجتمعت جماعة من الناس؛ فلما رأى اجتماعهم كره ذلك، فخشي أن يكتب عليهم، فدخل البيت كالمغضب، فجعلوا يتنحنحون ويتسعَّلون حتى خرج إليهم، فقال: "يا أيُّها النَّاس إنَّ الله لا يَمَلُّ حتى تَمَلُّوا - يعنى من الثواب - فاكْلُفوا مِنَ العَمَلِ ما تُطِيقُون فإنَّ خَيَْر العَمَلِ أدْوَمُهُ وَإنْ قَلَّ"،ونزلت عليه: (يَا أَيُّهَا الْمُزَّمِّلُ قُمِ اللَّيْلَ إِلا قَلِيلا) السورة قال: فكتبت عليهم، وأنزلت بمنزلة الفريضة حتى إن كان أحدهم ليربط الحبل فيتعلق به؛ فلما رأى الله ما يكلفون مما يبتغون به وجه الله ورضاه، وضع ذلك عنهم، فقال: ﴿إِنَّ رَبَّكَ يَعْلَمُ أَنَّكَ تَقُومُ أَدْنَى مِنْ ثُلُثَيِ اللَّيْلِ وَنِصْفَهُ﴾ ... إلى ﴿عَلِمَ أَنْ لَنْ تُحْصُوهُ فَتَابَ عَلَيْكُمْ﴾ فردّهم إلى الفريضة، ووضع عنهم النافلة، إلا ما تطوّعوا به.
+
+⁕ حدثني عليّ، قال: ثنا أبو صالح، قال: ثنا معاوية، عن عليّ، عن ابن عباس، في قوله: ﴿قُمِ اللَّيْلَ إِلا قَلِيلا نِصْفَهُ أَوِ انْقُصْ مِنْهُ قَلِيلا أَوْ زِدْ عَلَيْهِ وَرَتِّلِ الْقُرْآنَ تَرْتِيلا﴾ فأمر الله نبيه والمؤمنين بقيام الليل إلا قليلا فشقّ ذلك على المؤمنين، ثم خفَّف عنهم فرحمهم، وأنزل الله بعد هذا: ﴿عَلِمَ أَنْ سَيَكُونُ مِنْكُمْ مَرْضَى وَآخَرُونَ يَضْرِبُونَ فِي الأرْضِ﴾ ... إلى قوله: ﴿فَاقْرَءُوا مَا تَيَسَّرَ مِنْهُ﴾ فوسع الله وله الحمد، ولم يضيق.
+
+⁕ حدثنا ابن حميد، قال: ثنا يعقوب، عن جعفر، عن سعيد، قال: لما أنزل الله على نبيه: ﴿يَاأَيُّهَا الْمُزَّمِّلُ﴾ قال: مكث النبيّ ﷺ على هذا الحال عشر سنين يقوم الليل كما أمره الله، وكانت طائفة من أصحابه يقومون معه، فأنزل الله عليه بعد عشر سنين: ﴿إِنَّ رَبَّكَ يَعْلَمُ أَنَّكَ تَقُومُ أَدْنَى مِنْ ثُلُثَيِ اللَّيْلِ وَنِصْفَهُ وَطَائِفَةٌ مِنَ الَّذِينَ مَعَكَ﴾ ... إلى قوله: ﴿وَأَقِيمُوا الصَّلاةَ﴾ فخفَّف الله عنهم بعد عشر سنين.
+
+⁕ حدثنا ابن حميد، قال: ثنا يحيى بن واضح عن الحسين، عن يزيد، عن عكرِمة والحسن، قالا قال في سورة المزمل ﴿قُمِ اللَّيْلَ إِلا قَلِيلا نِصْفَهُ أَوِ انْقُصْ مِنْهُ قَلِيلا أَوْ زِدْ عَلَيْهِ وَرَتِّلِ الْقُرْآنَ تَرْتِيلا﴾ نسختها الآية التي فيها: ﴿عَلِمَ أَنْ لَنْ تُحْصُوهُ فَتَابَ عَلَيْكُمْ فَاقْرَءُوا مَا تَيَسَّرَ مِنَ الْقُرْآنِ﴾ .
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة ﴿قُمِ اللَّيْلَ إِلا قَلِيلا﴾ قاموا حولا أو حولين حتى انتفخت سوقهم وأقدامهم، فأنزل الله تخفيفا بعد في آخر السورة.
+
+⁕ حدثنا ابن حميد، قال: ثنا مهران، عن سفيان، عن قيس بن وهب، عن أبي عبد الرحمن، قال: لما نزلت: ﴿يَاأَيُّهَا الْمُزَّمِّلُ﴾ قاموا بها حولا حتى ورمت أقدامهم وسوقهم حتى نزلت: ﴿فَاقْرَءُوا مَا تَيَسَّرَ مِنْهُ﴾ فاستراح الناس.
+
+⁕ قال: ثنا مهران، عن سفيان، عن جرير بياع المُلاء عن الحسن، قال: الحمد لله تطوّع بعد فريضة.
+
+⁕ حدثنا أبو كريب، قال: ثنا وكيع، عن مبارك، عن الحسن، قال: لما نزلت ﴿يَاأَيُّهَا الْمُزَّمِّلُ﴾ ... الآية، قام المسلمون حولا فمنهم من أطاقه، ومنهم من لم يطقه، حتى نزلت الرخصة.
+
+⁕ قال: ثنا وكيع، عن إسرائيل، عن سماك، عن عكرِمة، عن ابن عباس، قال: لما نزل أوّل المزمل كانوا يقومون نحوا من قيامهم في شهر رمضان، وكان بين أوّلها وآخرها نحو من سنة.
+
+* *
+
+وقوله: ﴿وَرَتِّلِ الْقُرْآنَ تَرْتِيلا﴾
+
+يقول جلّ وعزّ: وبين القرآن إذا قرأته تبيينا، وترسل فيه ترسلا.
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثني يعقوب بن إبراهيم، قال. ثنا ابن عُلَيَّةَ، قال: ثنا أبو رجاء، عن الحسن، في قوله: ﴿وَرَتِّلِ الْقُرْآنَ تَرْتِيلا﴾ قال: اقرأه قراءة بينة.
+
+⁕ حدثنا ابن بشار، قال. ثنا عبد الرحمن، قال: ثنا سفيان، عن منصور، عن مجاهد ﴿وَرَتِّلِ الْقُرْآنَ تَرْتِيلا﴾ فقال: بعضه على أثر بعض.
+
+⁕ حدثنا محمد بن عبد الله المخزومي، قال. ثنا جعفر بن عون، قال: أخبرنا سفيان، عن منصور، عن مجاهد ﴿وَرَتِّلِ الْقُرْآنَ تَرْتِيلا﴾ فقال: بعضه على أثر بعض، على تؤدة.
+
+⁕ حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى؛ وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء، عن ابن أبي نجيح، عن مجاهد في قوله الله ﴿وَرَتِّلِ الْقُرْآنَ تَرْتِيلا﴾ قال: ترسل فيه ترسلا.
+
+⁕ حدثنا ابن حميد، قال: ثنا مهران، عن سفيان، عن منصور، عن مجاهد ﴿وَرَتِّلِ الْقُرْآنَ تَرْتِيلا﴾ فقال: بعضه على أثر بعض.
+
+⁕ حدثني زكريا بن يحيى بن أبي زائدة، قال: ثنا حجاج بن محمد، قال، قال ابن جريج، عن عطاء ﴿وَرَتِّلِ الْقُرْآنَ تَرْتِيلا﴾ قال: الترتيل النَّبْذ: الطَّرْح.
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة ﴿وَرَتِّلِ الْقُرْآنَ تَرْتِيلا﴾ قال بينه بيانا.
+
+⁕ حدثنا أبو كريب، قال: ثنا وكيع، عن ابن أبي ليلى، عن الحكم، عن مِقْسم، عن ابن عباس ﴿وَرَتِّلِ الْقُرْآنَ تَرْتِيلا﴾ قال: بيِّنه بيانا.
+
+⁕ حدثنا أبو كريب، قال: ثنا وكيع، عن سفيان، عن منصور، عن مجاهد ﴿وَرَتِّلِ الْقُرْآنَ تَرْتِيلا﴾ قال: بعضه على أثر بعض.
 
 ### al-Muyassar (Arabic)
 
-يا أيها المتغطي بثيابه، قم للصلاة في الليل إلا يسيرًا منه. قم نصف الليل أو انقص من النصف قليلا حتى تَصِلَ إلى الثلث، أو زد على النصف حتى تصل إلى الثلثين، واقرأ القرآن بتُؤَدَة وتمهُّلٍ مبيِّنًا الحروف والوقوف.
+تسمية السورة
+
+• سميت المزمل؛ لاستهلالها بنداء النبي ﷺ بهذا الوصف، ويعني: المتغطِّي بالثوب ونحوه.
+
+من مقاصد السورة
+
+• الإشارة إلى ثِقَل الوحي الذي كلَّف الله به رسولَه ﷺ، وأَمْرُه بالاستعانة على ذلك بإحياء الليل في العبادة، وتثبيتُه على ذلك، وأمرُه بالإعراض عن تكذيب المشركين والصبر على أذاهم.
+
+• وعظُ المشركين بما حلَّ بقوم فرعونَ لمّا كذبوا رسولَ الله إليهم، ووعيدهم بالعذاب والنَّكال والفزع يوم القيامة.
+
+• الثناء على طائفةٍ من المؤمنين واظبت على قيام الليل، والأمرُ بإدامة إقامة الصلاة، وأداء الزكاة وإعطاء الصدقات، والوعد بالجزاء العظيم على أفعال الخيرات.
+
+[التفسير]
+
+يا أيها المتغطي بثيابه، قم للصلاة في الليل إلا يسيرًا منه، قم نصف الليل أو انقص من النصف قليلًا حتى تَصِلَ إلى الثلث، أو زد على النصف حتى تصل إلى الثلثين، واقرأ القرآن بتُؤَدَة وتمهُّلٍ مبيِّنًا الحروف والوقوف.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿قُمْ اللَّيْل﴾ صَلِّ
 
 ---
 
@@ -154,25 +1512,265 @@ Allah commands His Messenger to cease being wrapped up, and this means to be cov
 
 ### Ibn Kathir (English)
 
-Which was revealed in Makkah
-بِسْمِ اللَّهِ الرَّحْمَـنِ الرَّحِيمِ
+بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
+
 (In the Name of Allah, the Most Gracious, the Most Merciful.
+
+يَا أَيُّهَا الْمُزَّمِّلُ - قُمِ اللَّيْلَ إِلَّا قَلِيلًا - نِصْفَهُ أَوِ انْقُصْ مِنْهُ قَلِيلًا - أَوْ زِدْ عَلَيْهِ وَرَتِّلِ الْقُرْآنَ تَرْتِيلًا - إِنَّا سَنُلْقِي عَلَيْكَ قَوْلًا ثَقِيلًا - إِنَّ نَاشِئَةَ اللَّيْلِ هِيَ أَشَدُّ وَطْئًا وَأَقْوَمُ قِيلًا - إِنَّ لَكَ فِي النَّهَارِ سَبْحًا طَوِيلًا - وَاذْكُرِ اسْمَ رَبِّكَ وَتَبَتَّلْ إِلَيْهِ تَبْتِيلًا - رَبُّ الْمَشْرِقِ وَالْمَغْرِبِ لَا إِلَٰهَ إِلَّا هُوَ فَاتَّخِذْهُ وَكِيلًا
+
+(1. O you wrapped up!)(2. Stand (to pray) all night, except a little.)(3. Half of it or less than that, a little.)(4. Or a little more. And Rattil the Qur'an Tartil.)(5. Verily, We shall send down to you a Word Thaqil.)(6. Verily, rising (Nashi'ah) at night is better for understanding and more suitable for speech (recitation).)(7. Verily, for you in the day is lengthy Sabh.)(8. And remember the Name of your Lord and (Tabattil) devote yourself to Him with complete devotion.)(9. Lord of the east and the west; La ilaha illa Huwa, so take Him as a trustee.)
+
 The Command to stand at Night (in Prayer)
-Allah commands His Messenger to cease being wrapped up, and this means to be covered during the night. He commands him to get up and stand in prayer to His Lord. This is as Allah says,
-تَتَجَافَى جُنُوبُهُمْ عَنِ الْمَضَاجِعِ يَدْعُونَ رَبَّهُمْ خَوْفاً وَطَمَعاً وَمِمَّا رَزَقْنَـهُمْ يُنفِقُونَ
-(Their sides forsake their b...
+
+Allah commands His Messenger ﷺ to cease being wrapped up, and this means to be covered during the night. He commands him to get up and stand in prayer to His Lord. This is as Allah says,
+
+تَتَجَافَىٰ جُنُوبُهُمْ عَنِ الْمَضَاجِعِ يَدْعُونَ رَبَّهُمْ خَوْفًا وَطَمَعًا وَمِمَّا رَزَقْنَاهُمْ يُنْفِقُونَ
+
+(Their sides forsake their beds, to invoke their Lord in fear and hope, and they spend out of what We have bestowed on them.)(32:16)
+
+Thus, the Prophet ﷺ did as Allah ordered him, by standing for prayer at night. This was obligatory upon him alone, as Allah said,
+
+وَمِنَ اللَّيْلِ فَتَهَجَّدْ بِهِ نَافِلَةً لَكَ عَسَىٰ أَنْ يَبْعَثَكَ رَبُّكَ مَقَامًا مَحْمُودًا
+
+(And in some parts of the night offer the Salah with it (the Qur'an), as an additional prayer for you. It may be that your Lord will raise you to Maqam Mahmud.)(17:79)
+
+Here Allah explains how much prayer he should perform. Allah says,
+
+يَا أَيُّهَا الْمُزَّمِّلُ - قُمِ اللَّيْلَ إِلَّا قَلِيلًا
+
+(O you wrapped up! Stand all night, except a little.) Ibn 'Abbas, Ad-Dahhak and As-Suddi all said,
+
+يَا أَيُّهَا الْمُزَّمِّلُ
+
+(O you wrapped up!) "This means, O you who are asleep." Qatadah said, "The one who is wrapped up in his garments." Concerning Allah's statement,
+
+نِصْفَهُ
+
+(Half of it) means, instead of the whole night.
+
+أَوِ انْقُصْ مِنْهُ قَلِيلًا - أَوْ زِدْ عَلَيْهِ
+
+(A little less than that, or a little more.) meaning, 'We have commanded you to stand in prayer for half of the night, either a little more than it or a little less. There is no hardship on you concerning that (slight increase or decrease).
+
+The Way of reciting the Qur'an
+
+Concerning Allah's statement,
+
+وَرَتِّلِ الْقُرْآنَ تَرْتِيلًا
+
+(And Rattil the Qur'an Tartil.) meaning, recite it slowly, for that will help in understanding the Qur'an and contemplating it. This is how the Prophet ﷺ used to recite. 'A'ishah said, "He (the Prophet) used to recite the chapter slowly, so much so that it would be longer than chapters that were actually longer than it."
+
+In Sahih Al-Bukhari, it is recorded from Anas that he was asked about the recitation of the Messenger of Allah ﷺ, so he replied, "He used to elongate the letters." Then he (Anas) recited,
+
+بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
+
+(In the Name of Allah, the Most Gracious, the Most Merciful.)(1:1) and he elongated "In the Name of Allah," and he elongated "The Most Gracious," and he elongated "The Most Merciful."
+
+Ibn Jurayj reported from Ibn Abi Mulaykah, who narrated from Umm Salamah that she was asked about the recitation of the Messenger of Allah , so she said, "He used to pause in his recitation, verse by verse.
+
+بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ - الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ - الرَّحْمَٰنِ الرَّحِيمِ - مَالِكِ يَوْمِ الدِّينِ
+
+(In the Name of Allah, the Most Gracious, the Most Merciful. All praise is Allah's, the Lord of all that exists. The Most Gracious, the Most Merciful. The Only Owner of the Day of Recompense.)(1:1-4)
+
+This was recorded by Ahmad, Abu Dawud and At-Tirmidhi. We have already mentioned the Hadiths which prove the recommendation of slow rhythmic recitation and beautification of the voice while reciting at the beginning of this Tafsir. For example, the Hadith which states,
+
+زَيِّنُوا الْقُرْآنَ بِأَصْوَاتِكُمْ
+
+(Beautify the Qur'an with your voices.) and the Hadith,
+
+لَيْسَ مِنَّا مَنْ لَمْ يَتَغَنَّ بِالْقُرْآنِ
+
+(He is not of us who does not chant nicely with the recitation of the Qur'an.) and the Hadith,
+
+لَقَدْ أُوتِيَ هَذَا مِزْمَارًا مِنْ مَزَامِيرِ آلِ دَاوُدَ
+
+(Verily, he has been given this windpipe from the windpipes of the family of Dawud.) Referring to Abu Musa.
+
+Abu Musa replied, "If I knew that you had been listening to my recitation, I would have truly beautified it for you." It has been narrated from Ibn Mas'ud that he said, "Do not scatter the (recitation of) Qur'an out like the scattering of sand, and do not rush through it like the hasty recitation of poetry. Stop at its amazing parts and make your heart move with it. None of you should let his concern be to reach the end of the chapter." This has been recorded by Al-Baghawi. Al-Bukhari recorded from Abi Wa'il that he said, "A man came to Ibn Mas'ud and said, 'I read the Mufassal chapters (from Qaf to An-Nas) last night in one unit of prayer.' Ibn Mas'ud said, 'This is rushing like the haste of reciting poetry. Verily, I know the pairs (of chapters) that the Messenger of Allah ﷺ used to combine between them (in prayer).' Then he mentioned twenty chapters from the Mufassal chapters, and said that the Prophet ﷺ used to recite two in each prayer unit."
+
+The Magnificence of the Qur'an
+
+Allah then said,
+
+إِنَّا سَنُلْقِي عَلَيْكَ قَوْلًا ثَقِيلًا
+
+(Verily, We shall send down to you a Word Thaqil.)
+
+Al-Hasan and Qatadah both said, "The actions with it." It has also been said that it means it will be heavy at the time of its revelation due to its magnificence. This is similar to what Zayd bin Thabit said. He said, "The Messenger of Allah ﷺ received some revelation while his thigh was on top of my thigh, and my thigh was almost crushed due to it."
+
+Imam Ahmad recorded from 'Abdullah bin 'Amr that he said, "I asked the Prophet ﷺ, 'O Messenger of Allah! Do you feel anything when revelation comes (to you)?' The Messenger of Allah ﷺ replied,
+
+أَسْمَعُ صَلَاصِلَ ثُمَّ أَسْكُتُ عِنْدَ ذَلِكَ، فَمَا مِنْ مَرَّةٍ يُوحَىٰ إِلَيَّ إِلَّا ظَنَنْتُ أَنَّ نَفْسِي تُقْبَضُ
+
+(I hear a ringing and then I remain quiet when that occurs. There has not been a single time that revelation has come to me except that I thought that my soul was about to be taken (death).)"
+
+Ahmad was alone in narrating this. In the beginning of Sahih Al-Bukhari, it is recorded from 'A'ishah that Al-Harith bin Hisham asked the Messenger of Allah ﷺ, "How does the revelation come to you?" The Prophet ﷺ replied,
+
+أَحْيَانًا يَأْتِي فِي مِثْلِ صَلْصَلَةِ الْجَرَسِ وَهُوَ أَشَدُّهُ عَلَيَّ، فَيُفْصَمُ عَنِّي وَقَدْ وَعَيْتُ عَنْهُ مَا قَالَ، وَأَحْيَانًا يَتَمَثَّلُ لِي الْمَلَكُ رَجُلًا فَيُكَلِّمُنِي فَأَعِي مَا يَقُولُ
+
+(Sometimes it comes to me like the ringing of a bell, and it is most severe upon me. Then this state passes away from me after I have grasped what is inspired. Sometimes the angel comes to me in the form of a man and talks to me and I grasp whatever he says.)
+
+A'ishah added, "Verily, I saw him receiving revelation and I noticed the sweat dropping from his forehead on a very cold day as the revelation ended." This is the wording recorded by Al-Bukhari. Imam Ahmad recorded from 'A'ishah that she said, "If the Messenger of Allah ﷺ received any revelation while he was on his riding animal, it would begin moving its Jiran intensely." The Jiran is the bottom of the neck. Ibn Jarir chose the interpretation that it (the revelation) is heavy in both ways simultaneously. This is as 'Abdur-Rahman bin Zayd bin Aslam said, "Just as it is heavy in this world, it will also be heavy on the Day of Judgement in the Scales."
+
+The Virtue of standing at Night for Prayer
+
+Allah says,
+
+إِنَّ نَاشِئَةَ اللَّيْلِ هِيَ أَشَدُّ وَطْئًا وَأَقْوَمُ قِيلًا
+
+(Verily, rising (Nashi'ah) at night is better for understanding and more suitable for speech (recitation).)
+
+Umar, Ibn 'Abbas and Ibn Zubayr, all said, "The entire night is Nashi'ah." Mujahid and others said the same. It is said "Nasha'a" when a person stands at night to pray. In one narration from Mujahid he said, "(It is) after 'Isha' (prayer)." This was also said by Abu Mijlaz, Qatadah, Salim, Abu Hazim and Muhammad bin Al-Munkadir. The point is that Nashi'ah of the night refers to its hours and its times, every hour of it is called Nashi'ah, so it refers to the periods of time.
+
+The purpose of this is that standing at night (for prayer) is better for training the heart and the tongue, and more conducive to recitation. Thus, Allah says,
+
+هِيَ أَشَدُّ وَطْئًا وَأَقْوَمُ قِيلًا
+
+(is better for understanding and more suitable for speech (recitation).) meaning, more comprehensive for the matter of performing the recitation and better for understanding it than in the recitation of the day. This is because the daytime is the time for people to disperse and move about, to raise voices and be lively.
+
+Al-Hafiz Abu Ya'la Al-Mawsili said, "Ibrahim bin Sa'id Al-Jawhari told us that Abu Usamah told us that Al-A'mash informed us that Anas bin Malik recited this Ayah as:
+
+(إِنَّ نَاشِئَةَ اللَّيْلِ هِيَ أَشَدُّ وَأَصْوَبُ قِيلًا)
+
+('Verily, rising at night is better for understanding and more correct for the speech.') So a man said to him, 'We recite it;
+
+وَأَقْوَمُ قِيلًا
+
+(more suitable for speech).' So Anas said to him, 'Most correct (Aswab), most suitable (Aqwam), the best for preparation (Ahya') and similar words are all the same (in meaning).'" Thus, Allah continues saying,
+
+إِنَّ لَكَ فِي النَّهَارِ سَبْحًا طَوِيلًا
+
+(Verily, for you in the day is lengthy Sabh.) Ibn 'Abbas, 'Ikrimah and "Ata' bin Abi Muslim, all said, "Leisure time and sleep." Abu Al-'Aliyah, Mujahid, Abu Malik, Ad-Dahhak, Al-Hasan, Qatadah, Ar-Rabi' bin Anas and Sufyan Ath-Thawri, all said, "A long amount of leisure time." Qatadah said, "Leisure, aspirations and activities." 'Abdur-Rahman bin Zayd bin Aslam said concerning the statement,
+
+إِنَّ لَكَ فِي النَّهَارِ سَبْحًا طَوِيلًا
+
+(Verily, for you in the day is lengthy Sabh.) "This means for your needs. Therefore, leave the night open for your religious devotion. Allah said this when the (voluntary) night prayer was obligatory. Then, Allah blessed His servants, lightened the matter and removed its obligation." Then he recited,
+
+قُمِ اللَّيْلَ إِلَّا قَلِيلًا
+
+(Stand (to pray) all night, except a little.) to the end of the Ayah, then he recited,
+
+إِنَّ رَبَّكَ يَعْلَمُ أَنَّكَ تَقُومُ أَدْنَىٰ مِنْ ثُلُثَيِ اللَّيْلِ وَنِصْفَهُ
+
+(Verily, your Lord knows that you do stand less than two-thirds of the night, or half of it.)(73:20) until he reached,
+
+فَاقْرَءُوا مَا تَيَسَّرَ مِنْهُ
+
+(So recite of it what is easy.)(73:20) and Allah says,
+
+وَمِنَ اللَّيْلِ فَتَهَجَّدْ بِهِ نَافِلَةً لَكَ عَسَىٰ أَنْ يَبْعَثَكَ رَبُّكَ مَقَامًا مَحْمُودًا
+
+(And Tahajjud in some parts of the night (also offer the Salah with it), as an additional prayer for you. It may be that your Lord will raise you to Maqam Mahmud.)(17:79)
+
+In fact, this is as true as what he ('Abdur-Rahman) said, The proof for this view is what Imam Ahmad recorded in his Musnad, that Sa'id bin Hisham divorced his wife and then traveled to Al-Madinah in order to sell some property he had with her. He intended to use its money to buy an animal and a weapon and then go for Jihad against the Romans until he died. In the process of this he met a group of his people and they informed him that a group of six men from his people had intended that in the time of the Messenger of Allah ﷺ, upon which he ﷺ said,
+
+أَلَيْسَ لَكُ
+
+[TRUNCATED at 12000 chars — 7818 more. Consult the source directly before relying on anything near the cut.]
 
 ### al-Tabari (Arabic)
 
-حدثني عليّ، قال: ثنا أبو صالح، قال: ثنا معاوية، عن عليّ، عن ابن عباس، في قوله: ( قُمِ اللَّيْلَ إِلا قَلِيلا نِصْفَهُ أَوِ انْقُصْ مِنْهُ قَلِيلا أَوْ زِدْ عَلَيْهِ وَرَتِّلِ الْقُرْآنَ تَرْتِيلا ) فأمر الله نبيه والمؤمنين بقيام الليل إلا قليلا فشقّ ذلك على المؤمنين، ثم خفَّف عنهم فرحمهم، وأنـزل الله بعد هذا:  عَلِمَ أَنْ سَيَكُونُ مِنْكُمْ مَرْضَى وَآخَرُونَ يَضْرِبُونَ فِي الأَرْضِ  ... إلى قوله:  فَاقْرَءُوا مَا تَيَسَّرَ مِنْهُ  فوسع الله وله الحمد، ولم يضيق.حدثنا ابن حميد، قال: ثنا يعقوب...
+القول في تأويل قوله تعالى: ﴿يَا أَيُّهَا الْمُزَّمِّلُ (١) قُمِ اللَّيْلَ إِلا قَلِيلا (٢) نِصْفَهُ أَوِ انْقُصْ مِنْهُ قَلِيلا (٣) أَوْ زِدْ عَلَيْهِ وَرَتِّلِ الْقُرْآنَ تَرْتِيلا (٤) ﴾
+
+يعني بقوله: ﴿يَاأَيُّهَا الْمُزَّمِّلُ﴾ هو الملتفّ بثيابه. وإنما عني بذلك نبيّ الله ﷺ.
+
+واختلف أهل التأويل في المعنى الذي وصف الله به نبيه ﷺ في هذه الآية من التزمُّل، فقال بعضهم: وصفه بأنه مُتَزمل في ثيابه، متأهب للصلاة.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة: ﴿يَاأَيُّهَا الْمُزَّمِّلُ﴾ أي المتزمل في ثيابه.
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة ﴿يَاأَيُّهَا الْمُزَّمِّلُ﴾ هو الذي تزمل بثيابه.
+
+وقال آخرون: وصفه بأنه متزمِّل النبوّة والرسالة.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا محمد بن المثنى، قال: ثني عبد الأعلى، قال: ثنا داود، عن عكرِمة، في قوله: ﴿يَا أَيُّهَا الْمُزَّمِّلُ قُمِ اللَّيْلَ إِلا قَلِيلا﴾ قال: زُملت هذا الأمر فقم به.
+
+قال أبو جعفر: والذي هو أولى القولين بتأويل ذلك، ما قاله قتادة؛ لأنه قد عقبه بقوله: ﴿قُمِ اللَّيْلَ﴾ فكان ذلك بيانا عن أن وصفه بالتزمُّل بالثياب للصلاة، وأن ذلك هو أظهر معنييه.
+
+* *
+
+وقوله: ﴿قُمِ اللَّيْلَ إِلا قَلِيلا﴾
+
+يقول لنبيه ﷺ: ﴿قُمِ اللَّيْلَ﴾ يا محمد كله ﴿إِلا قَلِيلا﴾ منه ﴿نِصْفَهُ﴾ يقول: قم نصف الليل ﴿أَوِ انْقُصْ مِنْهُ قَلِيلا أَوْ زِدْ عَلَيْهِ﴾ يقول: أو زد عليه؛ خَيره الله تعالى ذكره حين فرض عليه قيام الليل بين هذه المنازل أي ذلك شاء فعل، فكان رسول الله ﷺ وأصحابه فيما ذُكر يقومون الليل، نحو قيامهم في شهر رمضان فيما ذُكر حتى خفف ذلك عنهم.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا أبو كريب، قال: ثنا أبو أُسامة، عن مِسْعَرٍ، قال: ثنا سماك الحنفي، قال: سمعت ابن عباس يقول: لما نزل أوّل المزمل، كانوا يقومون نحوًا من قيامهم في رمضان، وكان بين أوّلها وآخرها قريب من سنة.
+
+⁕ حدثنا أبو كريب، قال: ثنا محمد بن بشر، عن مِسْعَرٍ، قال: ثنا سماك، أنه سمع ابن عباس يقول، فذكر نحوه. إلا أنه قال: نحوا من قيامهم في شهر رمضان.
+
+⁕ حدثنا ابن وكيع، قال: ثنا يزيد بن حيان، عن موسى بن عبيدة، قال: ثني محمد بن طَحْلاء مولى أمّ سلمة، عن أبي سلمة بن عبد الرحمن، عن عائشة قالت: كنت أجعل لرسول الله ﷺ حصيرا يصلي عليه من الليل، فتسامع به الناس، فاجتمعوا، فخرج كالمغضَب، وكان بهم رحيما، فخشي أن يُكتب عليهم قيام الليل، فقال: "يا أيُّها النَّاسُ اكْلفُوا مِنَ الأعْمالِ ما تُطِيقُونَ، فإنّ الله لا يَمَلُّ مِنَ الثَّوَابِ حَتَّى تَمَلُّوا مِنَ العَمَلِ وخَيْرُ الأعْمال ما دُمْتُمْ عَلَيْه" ونزل القرآن: ﴿يَا أَيُّهَا الْمُزَّمِّلُ قُمِ اللَّيْلَ إِلا قَلِيلا نِصْفَهُ أَوِ انْقُصْ مِنْهُ قَلِيلا أَوْ زِدْ عَلَيْهِ﴾ حتى كان الرجل يربط الحبل ويتعلق، فمكثوا بذلك ثمانية أشهر، فرأى الله ما يبتغون من رضوانه فرحمهم فردّهم إلى الفريضة وترك قيام الليل.
+
+⁕ حدثنا ابن حميد، قال: ثنا مهران، عن موسى بن عبيدة الحميري، عن محمد بن طحلاء، عن أبي سلمة بن عبد الرحمن، عن عائشة قالت: كنت أشتري لرسول الله ﷺ حصيرا، فكان يقوم عليه من أوّل الليل، فتسمع الناس بصلاته، فاجتمعت جماعة من الناس؛ فلما رأى اجتماعهم كره ذلك، فخشي أن يكتب عليهم، فدخل البيت كالمغضب، فجعلوا يتنحنحون ويتسعَّلون حتى خرج إليهم، فقال: "يا أيُّها النَّاس إنَّ الله لا يَمَلُّ حتى تَمَلُّوا - يعنى من الثواب - فاكْلُفوا مِنَ العَمَلِ ما تُطِيقُون فإنَّ خَيَْر العَمَلِ أدْوَمُهُ وَإنْ قَلَّ"،ونزلت عليه: (يَا أَيُّهَا الْمُزَّمِّلُ قُمِ اللَّيْلَ إِلا قَلِيلا) السورة قال: فكتبت عليهم، وأنزلت بمنزلة الفريضة حتى إن كان أحدهم ليربط الحبل فيتعلق به؛ فلما رأى الله ما يكلفون مما يبتغون به وجه الله ورضاه، وضع ذلك عنهم، فقال: ﴿إِنَّ رَبَّكَ يَعْلَمُ أَنَّكَ تَقُومُ أَدْنَى مِنْ ثُلُثَيِ اللَّيْلِ وَنِصْفَهُ﴾ ... إلى ﴿عَلِمَ أَنْ لَنْ تُحْصُوهُ فَتَابَ عَلَيْكُمْ﴾ فردّهم إلى الفريضة، ووضع عنهم النافلة، إلا ما تطوّعوا به.
+
+⁕ حدثني عليّ، قال: ثنا أبو صالح، قال: ثنا معاوية، عن عليّ، عن ابن عباس، في قوله: ﴿قُمِ اللَّيْلَ إِلا قَلِيلا نِصْفَهُ أَوِ انْقُصْ مِنْهُ قَلِيلا أَوْ زِدْ عَلَيْهِ وَرَتِّلِ الْقُرْآنَ تَرْتِيلا﴾ فأمر الله نبيه والمؤمنين بقيام الليل إلا قليلا فشقّ ذلك على المؤمنين، ثم خفَّف عنهم فرحمهم، وأنزل الله بعد هذا: ﴿عَلِمَ أَنْ سَيَكُونُ مِنْكُمْ مَرْضَى وَآخَرُونَ يَضْرِبُونَ فِي الأرْضِ﴾ ... إلى قوله: ﴿فَاقْرَءُوا مَا تَيَسَّرَ مِنْهُ﴾ فوسع الله وله الحمد، ولم يضيق.
+
+⁕ حدثنا ابن حميد، قال: ثنا يعقوب، عن جعفر، عن سعيد، قال: لما أنزل الله على نبيه: ﴿يَاأَيُّهَا الْمُزَّمِّلُ﴾ قال: مكث النبيّ ﷺ على هذا الحال عشر سنين يقوم الليل كما أمره الله، وكانت طائفة من أصحابه يقومون معه، فأنزل الله عليه بعد عشر سنين: ﴿إِنَّ رَبَّكَ يَعْلَمُ أَنَّكَ تَقُومُ أَدْنَى مِنْ ثُلُثَيِ اللَّيْلِ وَنِصْفَهُ وَطَائِفَةٌ مِنَ الَّذِينَ مَعَكَ﴾ ... إلى قوله: ﴿وَأَقِيمُوا الصَّلاةَ﴾ فخفَّف الله عنهم بعد عشر سنين.
+
+⁕ حدثنا ابن حميد، قال: ثنا يحيى بن واضح عن الحسين، عن يزيد، عن عكرِمة والحسن، قالا قال في سورة المزمل ﴿قُمِ اللَّيْلَ إِلا قَلِيلا نِصْفَهُ أَوِ انْقُصْ مِنْهُ قَلِيلا أَوْ زِدْ عَلَيْهِ وَرَتِّلِ الْقُرْآنَ تَرْتِيلا﴾ نسختها الآية التي فيها: ﴿عَلِمَ أَنْ لَنْ تُحْصُوهُ فَتَابَ عَلَيْكُمْ فَاقْرَءُوا مَا تَيَسَّرَ مِنَ الْقُرْآنِ﴾ .
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة ﴿قُمِ اللَّيْلَ إِلا قَلِيلا﴾ قاموا حولا أو حولين حتى انتفخت سوقهم وأقدامهم، فأنزل الله تخفيفا بعد في آخر السورة.
+
+⁕ حدثنا ابن حميد، قال: ثنا مهران، عن سفيان، عن قيس بن وهب، عن أبي عبد الرحمن، قال: لما نزلت: ﴿يَاأَيُّهَا الْمُزَّمِّلُ﴾ قاموا بها حولا حتى ورمت أقدامهم وسوقهم حتى نزلت: ﴿فَاقْرَءُوا مَا تَيَسَّرَ مِنْهُ﴾ فاستراح الناس.
+
+⁕ قال: ثنا مهران، عن سفيان، عن جرير بياع المُلاء عن الحسن، قال: الحمد لله تطوّع بعد فريضة.
+
+⁕ حدثنا أبو كريب، قال: ثنا وكيع، عن مبارك، عن الحسن، قال: لما نزلت ﴿يَاأَيُّهَا الْمُزَّمِّلُ﴾ ... الآية، قام المسلمون حولا فمنهم من أطاقه، ومنهم من لم يطقه، حتى نزلت الرخصة.
+
+⁕ قال: ثنا وكيع، عن إسرائيل، عن سماك، عن عكرِمة، عن ابن عباس، قال: لما نزل أوّل المزمل كانوا يقومون نحوا من قيامهم في شهر رمضان، وكان بين أوّلها وآخرها نحو من سنة.
+
+* *
+
+وقوله: ﴿وَرَتِّلِ الْقُرْآنَ تَرْتِيلا﴾
+
+يقول جلّ وعزّ: وبين القرآن إذا قرأته تبيينا، وترسل فيه ترسلا.
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثني يعقوب بن إبراهيم، قال. ثنا ابن عُلَيَّةَ، قال: ثنا أبو رجاء، عن الحسن، في قوله: ﴿وَرَتِّلِ الْقُرْآنَ تَرْتِيلا﴾ قال: اقرأه قراءة بينة.
+
+⁕ حدثنا ابن بشار، قال. ثنا عبد الرحمن، قال: ثنا سفيان، عن منصور، عن مجاهد ﴿وَرَتِّلِ الْقُرْآنَ تَرْتِيلا﴾ فقال: بعضه على أثر بعض.
+
+⁕ حدثنا محمد بن عبد الله المخزومي، قال. ثنا جعفر بن عون، قال: أخبرنا سفيان، عن منصور، عن مجاهد ﴿وَرَتِّلِ الْقُرْآنَ تَرْتِيلا﴾ فقال: بعضه على أثر بعض، على تؤدة.
+
+⁕ حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى؛ وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء، عن ابن أبي نجيح، عن مجاهد في قوله الله ﴿وَرَتِّلِ الْقُرْآنَ تَرْتِيلا﴾ قال: ترسل فيه ترسلا.
+
+⁕ حدثنا ابن حميد، قال: ثنا مهران، عن سفيان، عن منصور، عن مجاهد ﴿وَرَتِّلِ الْقُرْآنَ تَرْتِيلا﴾ فقال: بعضه على أثر بعض.
+
+⁕ حدثني زكريا بن يحيى بن أبي زائدة، قال: ثنا حجاج بن محمد، قال، قال ابن جريج، عن عطاء ﴿وَرَتِّلِ الْقُرْآنَ تَرْتِيلا﴾ قال: الترتيل النَّبْذ: الطَّرْح.
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة ﴿وَرَتِّلِ الْقُرْآنَ تَرْتِيلا﴾ قال بينه بيانا.
+
+⁕ حدثنا أبو كريب، قال: ثنا وكيع، عن ابن أبي ليلى، عن الحكم، عن مِقْسم، عن ابن عباس ﴿وَرَتِّلِ الْقُرْآنَ تَرْتِيلا﴾ قال: بيِّنه بيانا.
+
+⁕ حدثنا أبو كريب، قال: ثنا وكيع، عن سفيان، عن منصور، عن مجاهد ﴿وَرَتِّلِ الْقُرْآنَ تَرْتِيلا﴾ قال: بعضه على أثر بعض.
 
 ### al-Muyassar (Arabic)
 
-يا أيها المتغطي بثيابه، قم للصلاة في الليل إلا يسيرًا منه. قم نصف الليل أو انقص من النصف قليلا حتى تَصِلَ إلى الثلث، أو زد على النصف حتى تصل إلى الثلثين، واقرأ القرآن بتُؤَدَة وتمهُّلٍ مبيِّنًا الحروف والوقوف.
+تسمية السورة
+
+• سميت المزمل؛ لاستهلالها بنداء النبي ﷺ بهذا الوصف، ويعني: المتغطِّي بالثوب ونحوه.
+
+من مقاصد السورة
+
+• الإشارة إلى ثِقَل الوحي الذي كلَّف الله به رسولَه ﷺ، وأَمْرُه بالاستعانة على ذلك بإحياء الليل في العبادة، وتثبيتُه على ذلك، وأمرُه بالإعراض عن تكذيب المشركين والصبر على أذاهم.
+
+• وعظُ المشركين بما حلَّ بقوم فرعونَ لمّا كذبوا رسولَ الله إليهم، ووعيدهم بالعذاب والنَّكال والفزع يوم القيامة.
+
+• الثناء على طائفةٍ من المؤمنين واظبت على قيام الليل، والأمرُ بإدامة إقامة الصلاة، وأداء الزكاة وإعطاء الصدقات، والوعد بالجزاء العظيم على أفعال الخيرات.
+
+[التفسير]
+
+يا أيها المتغطي بثيابه، قم للصلاة في الليل إلا يسيرًا منه، قم نصف الليل أو انقص من النصف قليلًا حتى تَصِلَ إلى الثلث، أو زد على النصف حتى تصل إلى الثلثين، واقرأ القرآن بتُؤَدَة وتمهُّلٍ مبيِّنًا الحروف والوقوف.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿نِصْفه﴾ بَدَل مِن قَلِيلًا وقِلَّته بِالنَّظَرِ إلى الكُلّ ﴿أوْ اُنْقُصْ مِنهُ﴾ مِن النِّصْف ﴿قَلِيلًا﴾ إلى الثُّلُث
 
 ---
 
@@ -180,25 +1778,265 @@ Allah commands His Messenger to cease being wrapped up, and this means to be cov
 
 ### Ibn Kathir (English)
 
-Which was revealed in Makkah
-بِسْمِ اللَّهِ الرَّحْمَـنِ الرَّحِيمِ
+بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
+
 (In the Name of Allah, the Most Gracious, the Most Merciful.
+
+يَا أَيُّهَا الْمُزَّمِّلُ - قُمِ اللَّيْلَ إِلَّا قَلِيلًا - نِصْفَهُ أَوِ انْقُصْ مِنْهُ قَلِيلًا - أَوْ زِدْ عَلَيْهِ وَرَتِّلِ الْقُرْآنَ تَرْتِيلًا - إِنَّا سَنُلْقِي عَلَيْكَ قَوْلًا ثَقِيلًا - إِنَّ نَاشِئَةَ اللَّيْلِ هِيَ أَشَدُّ وَطْئًا وَأَقْوَمُ قِيلًا - إِنَّ لَكَ فِي النَّهَارِ سَبْحًا طَوِيلًا - وَاذْكُرِ اسْمَ رَبِّكَ وَتَبَتَّلْ إِلَيْهِ تَبْتِيلًا - رَبُّ الْمَشْرِقِ وَالْمَغْرِبِ لَا إِلَٰهَ إِلَّا هُوَ فَاتَّخِذْهُ وَكِيلًا
+
+(1. O you wrapped up!)(2. Stand (to pray) all night, except a little.)(3. Half of it or less than that, a little.)(4. Or a little more. And Rattil the Qur'an Tartil.)(5. Verily, We shall send down to you a Word Thaqil.)(6. Verily, rising (Nashi'ah) at night is better for understanding and more suitable for speech (recitation).)(7. Verily, for you in the day is lengthy Sabh.)(8. And remember the Name of your Lord and (Tabattil) devote yourself to Him with complete devotion.)(9. Lord of the east and the west; La ilaha illa Huwa, so take Him as a trustee.)
+
 The Command to stand at Night (in Prayer)
-Allah commands His Messenger to cease being wrapped up, and this means to be covered during the night. He commands him to get up and stand in prayer to His Lord. This is as Allah says,
-تَتَجَافَى جُنُوبُهُمْ عَنِ الْمَضَاجِعِ يَدْعُونَ رَبَّهُمْ خَوْفاً وَطَمَعاً وَمِمَّا رَزَقْنَـهُمْ يُنفِقُونَ
-(Their sides forsake their b...
+
+Allah commands His Messenger ﷺ to cease being wrapped up, and this means to be covered during the night. He commands him to get up and stand in prayer to His Lord. This is as Allah says,
+
+تَتَجَافَىٰ جُنُوبُهُمْ عَنِ الْمَضَاجِعِ يَدْعُونَ رَبَّهُمْ خَوْفًا وَطَمَعًا وَمِمَّا رَزَقْنَاهُمْ يُنْفِقُونَ
+
+(Their sides forsake their beds, to invoke their Lord in fear and hope, and they spend out of what We have bestowed on them.)(32:16)
+
+Thus, the Prophet ﷺ did as Allah ordered him, by standing for prayer at night. This was obligatory upon him alone, as Allah said,
+
+وَمِنَ اللَّيْلِ فَتَهَجَّدْ بِهِ نَافِلَةً لَكَ عَسَىٰ أَنْ يَبْعَثَكَ رَبُّكَ مَقَامًا مَحْمُودًا
+
+(And in some parts of the night offer the Salah with it (the Qur'an), as an additional prayer for you. It may be that your Lord will raise you to Maqam Mahmud.)(17:79)
+
+Here Allah explains how much prayer he should perform. Allah says,
+
+يَا أَيُّهَا الْمُزَّمِّلُ - قُمِ اللَّيْلَ إِلَّا قَلِيلًا
+
+(O you wrapped up! Stand all night, except a little.) Ibn 'Abbas, Ad-Dahhak and As-Suddi all said,
+
+يَا أَيُّهَا الْمُزَّمِّلُ
+
+(O you wrapped up!) "This means, O you who are asleep." Qatadah said, "The one who is wrapped up in his garments." Concerning Allah's statement,
+
+نِصْفَهُ
+
+(Half of it) means, instead of the whole night.
+
+أَوِ انْقُصْ مِنْهُ قَلِيلًا - أَوْ زِدْ عَلَيْهِ
+
+(A little less than that, or a little more.) meaning, 'We have commanded you to stand in prayer for half of the night, either a little more than it or a little less. There is no hardship on you concerning that (slight increase or decrease).
+
+The Way of reciting the Qur'an
+
+Concerning Allah's statement,
+
+وَرَتِّلِ الْقُرْآنَ تَرْتِيلًا
+
+(And Rattil the Qur'an Tartil.) meaning, recite it slowly, for that will help in understanding the Qur'an and contemplating it. This is how the Prophet ﷺ used to recite. 'A'ishah said, "He (the Prophet) used to recite the chapter slowly, so much so that it would be longer than chapters that were actually longer than it."
+
+In Sahih Al-Bukhari, it is recorded from Anas that he was asked about the recitation of the Messenger of Allah ﷺ, so he replied, "He used to elongate the letters." Then he (Anas) recited,
+
+بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
+
+(In the Name of Allah, the Most Gracious, the Most Merciful.)(1:1) and he elongated "In the Name of Allah," and he elongated "The Most Gracious," and he elongated "The Most Merciful."
+
+Ibn Jurayj reported from Ibn Abi Mulaykah, who narrated from Umm Salamah that she was asked about the recitation of the Messenger of Allah , so she said, "He used to pause in his recitation, verse by verse.
+
+بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ - الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ - الرَّحْمَٰنِ الرَّحِيمِ - مَالِكِ يَوْمِ الدِّينِ
+
+(In the Name of Allah, the Most Gracious, the Most Merciful. All praise is Allah's, the Lord of all that exists. The Most Gracious, the Most Merciful. The Only Owner of the Day of Recompense.)(1:1-4)
+
+This was recorded by Ahmad, Abu Dawud and At-Tirmidhi. We have already mentioned the Hadiths which prove the recommendation of slow rhythmic recitation and beautification of the voice while reciting at the beginning of this Tafsir. For example, the Hadith which states,
+
+زَيِّنُوا الْقُرْآنَ بِأَصْوَاتِكُمْ
+
+(Beautify the Qur'an with your voices.) and the Hadith,
+
+لَيْسَ مِنَّا مَنْ لَمْ يَتَغَنَّ بِالْقُرْآنِ
+
+(He is not of us who does not chant nicely with the recitation of the Qur'an.) and the Hadith,
+
+لَقَدْ أُوتِيَ هَذَا مِزْمَارًا مِنْ مَزَامِيرِ آلِ دَاوُدَ
+
+(Verily, he has been given this windpipe from the windpipes of the family of Dawud.) Referring to Abu Musa.
+
+Abu Musa replied, "If I knew that you had been listening to my recitation, I would have truly beautified it for you." It has been narrated from Ibn Mas'ud that he said, "Do not scatter the (recitation of) Qur'an out like the scattering of sand, and do not rush through it like the hasty recitation of poetry. Stop at its amazing parts and make your heart move with it. None of you should let his concern be to reach the end of the chapter." This has been recorded by Al-Baghawi. Al-Bukhari recorded from Abi Wa'il that he said, "A man came to Ibn Mas'ud and said, 'I read the Mufassal chapters (from Qaf to An-Nas) last night in one unit of prayer.' Ibn Mas'ud said, 'This is rushing like the haste of reciting poetry. Verily, I know the pairs (of chapters) that the Messenger of Allah ﷺ used to combine between them (in prayer).' Then he mentioned twenty chapters from the Mufassal chapters, and said that the Prophet ﷺ used to recite two in each prayer unit."
+
+The Magnificence of the Qur'an
+
+Allah then said,
+
+إِنَّا سَنُلْقِي عَلَيْكَ قَوْلًا ثَقِيلًا
+
+(Verily, We shall send down to you a Word Thaqil.)
+
+Al-Hasan and Qatadah both said, "The actions with it." It has also been said that it means it will be heavy at the time of its revelation due to its magnificence. This is similar to what Zayd bin Thabit said. He said, "The Messenger of Allah ﷺ received some revelation while his thigh was on top of my thigh, and my thigh was almost crushed due to it."
+
+Imam Ahmad recorded from 'Abdullah bin 'Amr that he said, "I asked the Prophet ﷺ, 'O Messenger of Allah! Do you feel anything when revelation comes (to you)?' The Messenger of Allah ﷺ replied,
+
+أَسْمَعُ صَلَاصِلَ ثُمَّ أَسْكُتُ عِنْدَ ذَلِكَ، فَمَا مِنْ مَرَّةٍ يُوحَىٰ إِلَيَّ إِلَّا ظَنَنْتُ أَنَّ نَفْسِي تُقْبَضُ
+
+(I hear a ringing and then I remain quiet when that occurs. There has not been a single time that revelation has come to me except that I thought that my soul was about to be taken (death).)"
+
+Ahmad was alone in narrating this. In the beginning of Sahih Al-Bukhari, it is recorded from 'A'ishah that Al-Harith bin Hisham asked the Messenger of Allah ﷺ, "How does the revelation come to you?" The Prophet ﷺ replied,
+
+أَحْيَانًا يَأْتِي فِي مِثْلِ صَلْصَلَةِ الْجَرَسِ وَهُوَ أَشَدُّهُ عَلَيَّ، فَيُفْصَمُ عَنِّي وَقَدْ وَعَيْتُ عَنْهُ مَا قَالَ، وَأَحْيَانًا يَتَمَثَّلُ لِي الْمَلَكُ رَجُلًا فَيُكَلِّمُنِي فَأَعِي مَا يَقُولُ
+
+(Sometimes it comes to me like the ringing of a bell, and it is most severe upon me. Then this state passes away from me after I have grasped what is inspired. Sometimes the angel comes to me in the form of a man and talks to me and I grasp whatever he says.)
+
+A'ishah added, "Verily, I saw him receiving revelation and I noticed the sweat dropping from his forehead on a very cold day as the revelation ended." This is the wording recorded by Al-Bukhari. Imam Ahmad recorded from 'A'ishah that she said, "If the Messenger of Allah ﷺ received any revelation while he was on his riding animal, it would begin moving its Jiran intensely." The Jiran is the bottom of the neck. Ibn Jarir chose the interpretation that it (the revelation) is heavy in both ways simultaneously. This is as 'Abdur-Rahman bin Zayd bin Aslam said, "Just as it is heavy in this world, it will also be heavy on the Day of Judgement in the Scales."
+
+The Virtue of standing at Night for Prayer
+
+Allah says,
+
+إِنَّ نَاشِئَةَ اللَّيْلِ هِيَ أَشَدُّ وَطْئًا وَأَقْوَمُ قِيلًا
+
+(Verily, rising (Nashi'ah) at night is better for understanding and more suitable for speech (recitation).)
+
+Umar, Ibn 'Abbas and Ibn Zubayr, all said, "The entire night is Nashi'ah." Mujahid and others said the same. It is said "Nasha'a" when a person stands at night to pray. In one narration from Mujahid he said, "(It is) after 'Isha' (prayer)." This was also said by Abu Mijlaz, Qatadah, Salim, Abu Hazim and Muhammad bin Al-Munkadir. The point is that Nashi'ah of the night refers to its hours and its times, every hour of it is called Nashi'ah, so it refers to the periods of time.
+
+The purpose of this is that standing at night (for prayer) is better for training the heart and the tongue, and more conducive to recitation. Thus, Allah says,
+
+هِيَ أَشَدُّ وَطْئًا وَأَقْوَمُ قِيلًا
+
+(is better for understanding and more suitable for speech (recitation).) meaning, more comprehensive for the matter of performing the recitation and better for understanding it than in the recitation of the day. This is because the daytime is the time for people to disperse and move about, to raise voices and be lively.
+
+Al-Hafiz Abu Ya'la Al-Mawsili said, "Ibrahim bin Sa'id Al-Jawhari told us that Abu Usamah told us that Al-A'mash informed us that Anas bin Malik recited this Ayah as:
+
+(إِنَّ نَاشِئَةَ اللَّيْلِ هِيَ أَشَدُّ وَأَصْوَبُ قِيلًا)
+
+('Verily, rising at night is better for understanding and more correct for the speech.') So a man said to him, 'We recite it;
+
+وَأَقْوَمُ قِيلًا
+
+(more suitable for speech).' So Anas said to him, 'Most correct (Aswab), most suitable (Aqwam), the best for preparation (Ahya') and similar words are all the same (in meaning).'" Thus, Allah continues saying,
+
+إِنَّ لَكَ فِي النَّهَارِ سَبْحًا طَوِيلًا
+
+(Verily, for you in the day is lengthy Sabh.) Ibn 'Abbas, 'Ikrimah and "Ata' bin Abi Muslim, all said, "Leisure time and sleep." Abu Al-'Aliyah, Mujahid, Abu Malik, Ad-Dahhak, Al-Hasan, Qatadah, Ar-Rabi' bin Anas and Sufyan Ath-Thawri, all said, "A long amount of leisure time." Qatadah said, "Leisure, aspirations and activities." 'Abdur-Rahman bin Zayd bin Aslam said concerning the statement,
+
+إِنَّ لَكَ فِي النَّهَارِ سَبْحًا طَوِيلًا
+
+(Verily, for you in the day is lengthy Sabh.) "This means for your needs. Therefore, leave the night open for your religious devotion. Allah said this when the (voluntary) night prayer was obligatory. Then, Allah blessed His servants, lightened the matter and removed its obligation." Then he recited,
+
+قُمِ اللَّيْلَ إِلَّا قَلِيلًا
+
+(Stand (to pray) all night, except a little.) to the end of the Ayah, then he recited,
+
+إِنَّ رَبَّكَ يَعْلَمُ أَنَّكَ تَقُومُ أَدْنَىٰ مِنْ ثُلُثَيِ اللَّيْلِ وَنِصْفَهُ
+
+(Verily, your Lord knows that you do stand less than two-thirds of the night, or half of it.)(73:20) until he reached,
+
+فَاقْرَءُوا مَا تَيَسَّرَ مِنْهُ
+
+(So recite of it what is easy.)(73:20) and Allah says,
+
+وَمِنَ اللَّيْلِ فَتَهَجَّدْ بِهِ نَافِلَةً لَكَ عَسَىٰ أَنْ يَبْعَثَكَ رَبُّكَ مَقَامًا مَحْمُودًا
+
+(And Tahajjud in some parts of the night (also offer the Salah with it), as an additional prayer for you. It may be that your Lord will raise you to Maqam Mahmud.)(17:79)
+
+In fact, this is as true as what he ('Abdur-Rahman) said, The proof for this view is what Imam Ahmad recorded in his Musnad, that Sa'id bin Hisham divorced his wife and then traveled to Al-Madinah in order to sell some property he had with her. He intended to use its money to buy an animal and a weapon and then go for Jihad against the Romans until he died. In the process of this he met a group of his people and they informed him that a group of six men from his people had intended that in the time of the Messenger of Allah ﷺ, upon which he ﷺ said,
+
+أَلَيْسَ لَكُ
+
+[TRUNCATED at 12000 chars — 7818 more. Consult the source directly before relying on anything near the cut.]
 
 ### al-Tabari (Arabic)
 
-وقوله: ( وَرَتِّلِ الْقُرْآنَ تَرْتِيلا ) يقول جلّ وعزّ: وبين القرآن إذا قرأته تبيينا، وترسل فيه ترسلا.وبنحو الذي قلنا في ذلك قال أهل التأويل.* ذكر من قال ذلك:حدثني يعقوب بن إبراهيم، قال. ثنا ابن عُلَيَّةَ، قال: ثنا أبو رجاء، عن الحسن، في قوله: ( وَرَتِّلِ الْقُرْآنَ تَرْتِيلا ) قال: اقرأه قراءة بينة.حدثنا ابن بشار، قال. ثنا عبد الرحمن، قال: ثنا سفيان، عن منصور، عن مجاهد ( وَرَتِّلِ الْقُرْآنَ تَرْتِيلا ) فقال: بعضه على أثر بعض.حدثنا محمد بن عبد الله المخزومي، قال. ثنا جعفر بن عون، قال: أخبرن...
+القول في تأويل قوله تعالى: ﴿يَا أَيُّهَا الْمُزَّمِّلُ (١) قُمِ اللَّيْلَ إِلا قَلِيلا (٢) نِصْفَهُ أَوِ انْقُصْ مِنْهُ قَلِيلا (٣) أَوْ زِدْ عَلَيْهِ وَرَتِّلِ الْقُرْآنَ تَرْتِيلا (٤) ﴾
+
+يعني بقوله: ﴿يَاأَيُّهَا الْمُزَّمِّلُ﴾ هو الملتفّ بثيابه. وإنما عني بذلك نبيّ الله ﷺ.
+
+واختلف أهل التأويل في المعنى الذي وصف الله به نبيه ﷺ في هذه الآية من التزمُّل، فقال بعضهم: وصفه بأنه مُتَزمل في ثيابه، متأهب للصلاة.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة: ﴿يَاأَيُّهَا الْمُزَّمِّلُ﴾ أي المتزمل في ثيابه.
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة ﴿يَاأَيُّهَا الْمُزَّمِّلُ﴾ هو الذي تزمل بثيابه.
+
+وقال آخرون: وصفه بأنه متزمِّل النبوّة والرسالة.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا محمد بن المثنى، قال: ثني عبد الأعلى، قال: ثنا داود، عن عكرِمة، في قوله: ﴿يَا أَيُّهَا الْمُزَّمِّلُ قُمِ اللَّيْلَ إِلا قَلِيلا﴾ قال: زُملت هذا الأمر فقم به.
+
+قال أبو جعفر: والذي هو أولى القولين بتأويل ذلك، ما قاله قتادة؛ لأنه قد عقبه بقوله: ﴿قُمِ اللَّيْلَ﴾ فكان ذلك بيانا عن أن وصفه بالتزمُّل بالثياب للصلاة، وأن ذلك هو أظهر معنييه.
+
+* *
+
+وقوله: ﴿قُمِ اللَّيْلَ إِلا قَلِيلا﴾
+
+يقول لنبيه ﷺ: ﴿قُمِ اللَّيْلَ﴾ يا محمد كله ﴿إِلا قَلِيلا﴾ منه ﴿نِصْفَهُ﴾ يقول: قم نصف الليل ﴿أَوِ انْقُصْ مِنْهُ قَلِيلا أَوْ زِدْ عَلَيْهِ﴾ يقول: أو زد عليه؛ خَيره الله تعالى ذكره حين فرض عليه قيام الليل بين هذه المنازل أي ذلك شاء فعل، فكان رسول الله ﷺ وأصحابه فيما ذُكر يقومون الليل، نحو قيامهم في شهر رمضان فيما ذُكر حتى خفف ذلك عنهم.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا أبو كريب، قال: ثنا أبو أُسامة، عن مِسْعَرٍ، قال: ثنا سماك الحنفي، قال: سمعت ابن عباس يقول: لما نزل أوّل المزمل، كانوا يقومون نحوًا من قيامهم في رمضان، وكان بين أوّلها وآخرها قريب من سنة.
+
+⁕ حدثنا أبو كريب، قال: ثنا محمد بن بشر، عن مِسْعَرٍ، قال: ثنا سماك، أنه سمع ابن عباس يقول، فذكر نحوه. إلا أنه قال: نحوا من قيامهم في شهر رمضان.
+
+⁕ حدثنا ابن وكيع، قال: ثنا يزيد بن حيان، عن موسى بن عبيدة، قال: ثني محمد بن طَحْلاء مولى أمّ سلمة، عن أبي سلمة بن عبد الرحمن، عن عائشة قالت: كنت أجعل لرسول الله ﷺ حصيرا يصلي عليه من الليل، فتسامع به الناس، فاجتمعوا، فخرج كالمغضَب، وكان بهم رحيما، فخشي أن يُكتب عليهم قيام الليل، فقال: "يا أيُّها النَّاسُ اكْلفُوا مِنَ الأعْمالِ ما تُطِيقُونَ، فإنّ الله لا يَمَلُّ مِنَ الثَّوَابِ حَتَّى تَمَلُّوا مِنَ العَمَلِ وخَيْرُ الأعْمال ما دُمْتُمْ عَلَيْه" ونزل القرآن: ﴿يَا أَيُّهَا الْمُزَّمِّلُ قُمِ اللَّيْلَ إِلا قَلِيلا نِصْفَهُ أَوِ انْقُصْ مِنْهُ قَلِيلا أَوْ زِدْ عَلَيْهِ﴾ حتى كان الرجل يربط الحبل ويتعلق، فمكثوا بذلك ثمانية أشهر، فرأى الله ما يبتغون من رضوانه فرحمهم فردّهم إلى الفريضة وترك قيام الليل.
+
+⁕ حدثنا ابن حميد، قال: ثنا مهران، عن موسى بن عبيدة الحميري، عن محمد بن طحلاء، عن أبي سلمة بن عبد الرحمن، عن عائشة قالت: كنت أشتري لرسول الله ﷺ حصيرا، فكان يقوم عليه من أوّل الليل، فتسمع الناس بصلاته، فاجتمعت جماعة من الناس؛ فلما رأى اجتماعهم كره ذلك، فخشي أن يكتب عليهم، فدخل البيت كالمغضب، فجعلوا يتنحنحون ويتسعَّلون حتى خرج إليهم، فقال: "يا أيُّها النَّاس إنَّ الله لا يَمَلُّ حتى تَمَلُّوا - يعنى من الثواب - فاكْلُفوا مِنَ العَمَلِ ما تُطِيقُون فإنَّ خَيَْر العَمَلِ أدْوَمُهُ وَإنْ قَلَّ"،ونزلت عليه: (يَا أَيُّهَا الْمُزَّمِّلُ قُمِ اللَّيْلَ إِلا قَلِيلا) السورة قال: فكتبت عليهم، وأنزلت بمنزلة الفريضة حتى إن كان أحدهم ليربط الحبل فيتعلق به؛ فلما رأى الله ما يكلفون مما يبتغون به وجه الله ورضاه، وضع ذلك عنهم، فقال: ﴿إِنَّ رَبَّكَ يَعْلَمُ أَنَّكَ تَقُومُ أَدْنَى مِنْ ثُلُثَيِ اللَّيْلِ وَنِصْفَهُ﴾ ... إلى ﴿عَلِمَ أَنْ لَنْ تُحْصُوهُ فَتَابَ عَلَيْكُمْ﴾ فردّهم إلى الفريضة، ووضع عنهم النافلة، إلا ما تطوّعوا به.
+
+⁕ حدثني عليّ، قال: ثنا أبو صالح، قال: ثنا معاوية، عن عليّ، عن ابن عباس، في قوله: ﴿قُمِ اللَّيْلَ إِلا قَلِيلا نِصْفَهُ أَوِ انْقُصْ مِنْهُ قَلِيلا أَوْ زِدْ عَلَيْهِ وَرَتِّلِ الْقُرْآنَ تَرْتِيلا﴾ فأمر الله نبيه والمؤمنين بقيام الليل إلا قليلا فشقّ ذلك على المؤمنين، ثم خفَّف عنهم فرحمهم، وأنزل الله بعد هذا: ﴿عَلِمَ أَنْ سَيَكُونُ مِنْكُمْ مَرْضَى وَآخَرُونَ يَضْرِبُونَ فِي الأرْضِ﴾ ... إلى قوله: ﴿فَاقْرَءُوا مَا تَيَسَّرَ مِنْهُ﴾ فوسع الله وله الحمد، ولم يضيق.
+
+⁕ حدثنا ابن حميد، قال: ثنا يعقوب، عن جعفر، عن سعيد، قال: لما أنزل الله على نبيه: ﴿يَاأَيُّهَا الْمُزَّمِّلُ﴾ قال: مكث النبيّ ﷺ على هذا الحال عشر سنين يقوم الليل كما أمره الله، وكانت طائفة من أصحابه يقومون معه، فأنزل الله عليه بعد عشر سنين: ﴿إِنَّ رَبَّكَ يَعْلَمُ أَنَّكَ تَقُومُ أَدْنَى مِنْ ثُلُثَيِ اللَّيْلِ وَنِصْفَهُ وَطَائِفَةٌ مِنَ الَّذِينَ مَعَكَ﴾ ... إلى قوله: ﴿وَأَقِيمُوا الصَّلاةَ﴾ فخفَّف الله عنهم بعد عشر سنين.
+
+⁕ حدثنا ابن حميد، قال: ثنا يحيى بن واضح عن الحسين، عن يزيد، عن عكرِمة والحسن، قالا قال في سورة المزمل ﴿قُمِ اللَّيْلَ إِلا قَلِيلا نِصْفَهُ أَوِ انْقُصْ مِنْهُ قَلِيلا أَوْ زِدْ عَلَيْهِ وَرَتِّلِ الْقُرْآنَ تَرْتِيلا﴾ نسختها الآية التي فيها: ﴿عَلِمَ أَنْ لَنْ تُحْصُوهُ فَتَابَ عَلَيْكُمْ فَاقْرَءُوا مَا تَيَسَّرَ مِنَ الْقُرْآنِ﴾ .
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة ﴿قُمِ اللَّيْلَ إِلا قَلِيلا﴾ قاموا حولا أو حولين حتى انتفخت سوقهم وأقدامهم، فأنزل الله تخفيفا بعد في آخر السورة.
+
+⁕ حدثنا ابن حميد، قال: ثنا مهران، عن سفيان، عن قيس بن وهب، عن أبي عبد الرحمن، قال: لما نزلت: ﴿يَاأَيُّهَا الْمُزَّمِّلُ﴾ قاموا بها حولا حتى ورمت أقدامهم وسوقهم حتى نزلت: ﴿فَاقْرَءُوا مَا تَيَسَّرَ مِنْهُ﴾ فاستراح الناس.
+
+⁕ قال: ثنا مهران، عن سفيان، عن جرير بياع المُلاء عن الحسن، قال: الحمد لله تطوّع بعد فريضة.
+
+⁕ حدثنا أبو كريب، قال: ثنا وكيع، عن مبارك، عن الحسن، قال: لما نزلت ﴿يَاأَيُّهَا الْمُزَّمِّلُ﴾ ... الآية، قام المسلمون حولا فمنهم من أطاقه، ومنهم من لم يطقه، حتى نزلت الرخصة.
+
+⁕ قال: ثنا وكيع، عن إسرائيل، عن سماك، عن عكرِمة، عن ابن عباس، قال: لما نزل أوّل المزمل كانوا يقومون نحوا من قيامهم في شهر رمضان، وكان بين أوّلها وآخرها نحو من سنة.
+
+* *
+
+وقوله: ﴿وَرَتِّلِ الْقُرْآنَ تَرْتِيلا﴾
+
+يقول جلّ وعزّ: وبين القرآن إذا قرأته تبيينا، وترسل فيه ترسلا.
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثني يعقوب بن إبراهيم، قال. ثنا ابن عُلَيَّةَ، قال: ثنا أبو رجاء، عن الحسن، في قوله: ﴿وَرَتِّلِ الْقُرْآنَ تَرْتِيلا﴾ قال: اقرأه قراءة بينة.
+
+⁕ حدثنا ابن بشار، قال. ثنا عبد الرحمن، قال: ثنا سفيان، عن منصور، عن مجاهد ﴿وَرَتِّلِ الْقُرْآنَ تَرْتِيلا﴾ فقال: بعضه على أثر بعض.
+
+⁕ حدثنا محمد بن عبد الله المخزومي، قال. ثنا جعفر بن عون، قال: أخبرنا سفيان، عن منصور، عن مجاهد ﴿وَرَتِّلِ الْقُرْآنَ تَرْتِيلا﴾ فقال: بعضه على أثر بعض، على تؤدة.
+
+⁕ حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى؛ وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء، عن ابن أبي نجيح، عن مجاهد في قوله الله ﴿وَرَتِّلِ الْقُرْآنَ تَرْتِيلا﴾ قال: ترسل فيه ترسلا.
+
+⁕ حدثنا ابن حميد، قال: ثنا مهران، عن سفيان، عن منصور، عن مجاهد ﴿وَرَتِّلِ الْقُرْآنَ تَرْتِيلا﴾ فقال: بعضه على أثر بعض.
+
+⁕ حدثني زكريا بن يحيى بن أبي زائدة، قال: ثنا حجاج بن محمد، قال، قال ابن جريج، عن عطاء ﴿وَرَتِّلِ الْقُرْآنَ تَرْتِيلا﴾ قال: الترتيل النَّبْذ: الطَّرْح.
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة ﴿وَرَتِّلِ الْقُرْآنَ تَرْتِيلا﴾ قال بينه بيانا.
+
+⁕ حدثنا أبو كريب، قال: ثنا وكيع، عن ابن أبي ليلى، عن الحكم، عن مِقْسم، عن ابن عباس ﴿وَرَتِّلِ الْقُرْآنَ تَرْتِيلا﴾ قال: بيِّنه بيانا.
+
+⁕ حدثنا أبو كريب، قال: ثنا وكيع، عن سفيان، عن منصور، عن مجاهد ﴿وَرَتِّلِ الْقُرْآنَ تَرْتِيلا﴾ قال: بعضه على أثر بعض.
 
 ### al-Muyassar (Arabic)
 
-يا أيها المتغطي بثيابه، قم للصلاة في الليل إلا يسيرًا منه. قم نصف الليل أو انقص من النصف قليلا حتى تَصِلَ إلى الثلث، أو زد على النصف حتى تصل إلى الثلثين، واقرأ القرآن بتُؤَدَة وتمهُّلٍ مبيِّنًا الحروف والوقوف.
+تسمية السورة
+
+• سميت المزمل؛ لاستهلالها بنداء النبي ﷺ بهذا الوصف، ويعني: المتغطِّي بالثوب ونحوه.
+
+من مقاصد السورة
+
+• الإشارة إلى ثِقَل الوحي الذي كلَّف الله به رسولَه ﷺ، وأَمْرُه بالاستعانة على ذلك بإحياء الليل في العبادة، وتثبيتُه على ذلك، وأمرُه بالإعراض عن تكذيب المشركين والصبر على أذاهم.
+
+• وعظُ المشركين بما حلَّ بقوم فرعونَ لمّا كذبوا رسولَ الله إليهم، ووعيدهم بالعذاب والنَّكال والفزع يوم القيامة.
+
+• الثناء على طائفةٍ من المؤمنين واظبت على قيام الليل، والأمرُ بإدامة إقامة الصلاة، وأداء الزكاة وإعطاء الصدقات، والوعد بالجزاء العظيم على أفعال الخيرات.
+
+[التفسير]
+
+يا أيها المتغطي بثيابه، قم للصلاة في الليل إلا يسيرًا منه، قم نصف الليل أو انقص من النصف قليلًا حتى تَصِلَ إلى الثلث، أو زد على النصف حتى تصل إلى الثلثين، واقرأ القرآن بتُؤَدَة وتمهُّلٍ مبيِّنًا الحروف والوقوف.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿أوْ زِدْ عَلَيْهِ﴾ إلى الثُّلُثَيْنِ وأَوْ لِلتَّخْيِيرِ ﴿ورَتِّلْ القُرْآن﴾ تَثَبَّتْ فِي تِلاوَته
 
 ---
 
@@ -206,25 +2044,335 @@ Allah commands His Messenger to cease being wrapped up, and this means to be cov
 
 ### Ibn Kathir (English)
 
-Which was revealed in Makkah
-بِسْمِ اللَّهِ الرَّحْمَـنِ الرَّحِيمِ
+بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
+
 (In the Name of Allah, the Most Gracious, the Most Merciful.
+
+يَا أَيُّهَا الْمُزَّمِّلُ - قُمِ اللَّيْلَ إِلَّا قَلِيلًا - نِصْفَهُ أَوِ انْقُصْ مِنْهُ قَلِيلًا - أَوْ زِدْ عَلَيْهِ وَرَتِّلِ الْقُرْآنَ تَرْتِيلًا - إِنَّا سَنُلْقِي عَلَيْكَ قَوْلًا ثَقِيلًا - إِنَّ نَاشِئَةَ اللَّيْلِ هِيَ أَشَدُّ وَطْئًا وَأَقْوَمُ قِيلًا - إِنَّ لَكَ فِي النَّهَارِ سَبْحًا طَوِيلًا - وَاذْكُرِ اسْمَ رَبِّكَ وَتَبَتَّلْ إِلَيْهِ تَبْتِيلًا - رَبُّ الْمَشْرِقِ وَالْمَغْرِبِ لَا إِلَٰهَ إِلَّا هُوَ فَاتَّخِذْهُ وَكِيلًا
+
+(1. O you wrapped up!)(2. Stand (to pray) all night, except a little.)(3. Half of it or less than that, a little.)(4. Or a little more. And Rattil the Qur'an Tartil.)(5. Verily, We shall send down to you a Word Thaqil.)(6. Verily, rising (Nashi'ah) at night is better for understanding and more suitable for speech (recitation).)(7. Verily, for you in the day is lengthy Sabh.)(8. And remember the Name of your Lord and (Tabattil) devote yourself to Him with complete devotion.)(9. Lord of the east and the west; La ilaha illa Huwa, so take Him as a trustee.)
+
 The Command to stand at Night (in Prayer)
-Allah commands His Messenger to cease being wrapped up, and this means to be covered during the night. He commands him to get up and stand in prayer to His Lord. This is as Allah says,
-تَتَجَافَى جُنُوبُهُمْ عَنِ الْمَضَاجِعِ يَدْعُونَ رَبَّهُمْ خَوْفاً وَطَمَعاً وَمِمَّا رَزَقْنَـهُمْ يُنفِقُونَ
-(Their sides forsake their b...
+
+Allah commands His Messenger ﷺ to cease being wrapped up, and this means to be covered during the night. He commands him to get up and stand in prayer to His Lord. This is as Allah says,
+
+تَتَجَافَىٰ جُنُوبُهُمْ عَنِ الْمَضَاجِعِ يَدْعُونَ رَبَّهُمْ خَوْفًا وَطَمَعًا وَمِمَّا رَزَقْنَاهُمْ يُنْفِقُونَ
+
+(Their sides forsake their beds, to invoke their Lord in fear and hope, and they spend out of what We have bestowed on them.)(32:16)
+
+Thus, the Prophet ﷺ did as Allah ordered him, by standing for prayer at night. This was obligatory upon him alone, as Allah said,
+
+وَمِنَ اللَّيْلِ فَتَهَجَّدْ بِهِ نَافِلَةً لَكَ عَسَىٰ أَنْ يَبْعَثَكَ رَبُّكَ مَقَامًا مَحْمُودًا
+
+(And in some parts of the night offer the Salah with it (the Qur'an), as an additional prayer for you. It may be that your Lord will raise you to Maqam Mahmud.)(17:79)
+
+Here Allah explains how much prayer he should perform. Allah says,
+
+يَا أَيُّهَا الْمُزَّمِّلُ - قُمِ اللَّيْلَ إِلَّا قَلِيلًا
+
+(O you wrapped up! Stand all night, except a little.) Ibn 'Abbas, Ad-Dahhak and As-Suddi all said,
+
+يَا أَيُّهَا الْمُزَّمِّلُ
+
+(O you wrapped up!) "This means, O you who are asleep." Qatadah said, "The one who is wrapped up in his garments." Concerning Allah's statement,
+
+نِصْفَهُ
+
+(Half of it) means, instead of the whole night.
+
+أَوِ انْقُصْ مِنْهُ قَلِيلًا - أَوْ زِدْ عَلَيْهِ
+
+(A little less than that, or a little more.) meaning, 'We have commanded you to stand in prayer for half of the night, either a little more than it or a little less. There is no hardship on you concerning that (slight increase or decrease).
+
+The Way of reciting the Qur'an
+
+Concerning Allah's statement,
+
+وَرَتِّلِ الْقُرْآنَ تَرْتِيلًا
+
+(And Rattil the Qur'an Tartil.) meaning, recite it slowly, for that will help in understanding the Qur'an and contemplating it. This is how the Prophet ﷺ used to recite. 'A'ishah said, "He (the Prophet) used to recite the chapter slowly, so much so that it would be longer than chapters that were actually longer than it."
+
+In Sahih Al-Bukhari, it is recorded from Anas that he was asked about the recitation of the Messenger of Allah ﷺ, so he replied, "He used to elongate the letters." Then he (Anas) recited,
+
+بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
+
+(In the Name of Allah, the Most Gracious, the Most Merciful.)(1:1) and he elongated "In the Name of Allah," and he elongated "The Most Gracious," and he elongated "The Most Merciful."
+
+Ibn Jurayj reported from Ibn Abi Mulaykah, who narrated from Umm Salamah that she was asked about the recitation of the Messenger of Allah , so she said, "He used to pause in his recitation, verse by verse.
+
+بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ - الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ - الرَّحْمَٰنِ الرَّحِيمِ - مَالِكِ يَوْمِ الدِّينِ
+
+(In the Name of Allah, the Most Gracious, the Most Merciful. All praise is Allah's, the Lord of all that exists. The Most Gracious, the Most Merciful. The Only Owner of the Day of Recompense.)(1:1-4)
+
+This was recorded by Ahmad, Abu Dawud and At-Tirmidhi. We have already mentioned the Hadiths which prove the recommendation of slow rhythmic recitation and beautification of the voice while reciting at the beginning of this Tafsir. For example, the Hadith which states,
+
+زَيِّنُوا الْقُرْآنَ بِأَصْوَاتِكُمْ
+
+(Beautify the Qur'an with your voices.) and the Hadith,
+
+لَيْسَ مِنَّا مَنْ لَمْ يَتَغَنَّ بِالْقُرْآنِ
+
+(He is not of us who does not chant nicely with the recitation of the Qur'an.) and the Hadith,
+
+لَقَدْ أُوتِيَ هَذَا مِزْمَارًا مِنْ مَزَامِيرِ آلِ دَاوُدَ
+
+(Verily, he has been given this windpipe from the windpipes of the family of Dawud.) Referring to Abu Musa.
+
+Abu Musa replied, "If I knew that you had been listening to my recitation, I would have truly beautified it for you." It has been narrated from Ibn Mas'ud that he said, "Do not scatter the (recitation of) Qur'an out like the scattering of sand, and do not rush through it like the hasty recitation of poetry. Stop at its amazing parts and make your heart move with it. None of you should let his concern be to reach the end of the chapter." This has been recorded by Al-Baghawi. Al-Bukhari recorded from Abi Wa'il that he said, "A man came to Ibn Mas'ud and said, 'I read the Mufassal chapters (from Qaf to An-Nas) last night in one unit of prayer.' Ibn Mas'ud said, 'This is rushing like the haste of reciting poetry. Verily, I know the pairs (of chapters) that the Messenger of Allah ﷺ used to combine between them (in prayer).' Then he mentioned twenty chapters from the Mufassal chapters, and said that the Prophet ﷺ used to recite two in each prayer unit."
+
+The Magnificence of the Qur'an
+
+Allah then said,
+
+إِنَّا سَنُلْقِي عَلَيْكَ قَوْلًا ثَقِيلًا
+
+(Verily, We shall send down to you a Word Thaqil.)
+
+Al-Hasan and Qatadah both said, "The actions with it." It has also been said that it means it will be heavy at the time of its revelation due to its magnificence. This is similar to what Zayd bin Thabit said. He said, "The Messenger of Allah ﷺ received some revelation while his thigh was on top of my thigh, and my thigh was almost crushed due to it."
+
+Imam Ahmad recorded from 'Abdullah bin 'Amr that he said, "I asked the Prophet ﷺ, 'O Messenger of Allah! Do you feel anything when revelation comes (to you)?' The Messenger of Allah ﷺ replied,
+
+أَسْمَعُ صَلَاصِلَ ثُمَّ أَسْكُتُ عِنْدَ ذَلِكَ، فَمَا مِنْ مَرَّةٍ يُوحَىٰ إِلَيَّ إِلَّا ظَنَنْتُ أَنَّ نَفْسِي تُقْبَضُ
+
+(I hear a ringing and then I remain quiet when that occurs. There has not been a single time that revelation has come to me except that I thought that my soul was about to be taken (death).)"
+
+Ahmad was alone in narrating this. In the beginning of Sahih Al-Bukhari, it is recorded from 'A'ishah that Al-Harith bin Hisham asked the Messenger of Allah ﷺ, "How does the revelation come to you?" The Prophet ﷺ replied,
+
+أَحْيَانًا يَأْتِي فِي مِثْلِ صَلْصَلَةِ الْجَرَسِ وَهُوَ أَشَدُّهُ عَلَيَّ، فَيُفْصَمُ عَنِّي وَقَدْ وَعَيْتُ عَنْهُ مَا قَالَ، وَأَحْيَانًا يَتَمَثَّلُ لِي الْمَلَكُ رَجُلًا فَيُكَلِّمُنِي فَأَعِي مَا يَقُولُ
+
+(Sometimes it comes to me like the ringing of a bell, and it is most severe upon me. Then this state passes away from me after I have grasped what is inspired. Sometimes the angel comes to me in the form of a man and talks to me and I grasp whatever he says.)
+
+A'ishah added, "Verily, I saw him receiving revelation and I noticed the sweat dropping from his forehead on a very cold day as the revelation ended." This is the wording recorded by Al-Bukhari. Imam Ahmad recorded from 'A'ishah that she said, "If the Messenger of Allah ﷺ received any revelation while he was on his riding animal, it would begin moving its Jiran intensely." The Jiran is the bottom of the neck. Ibn Jarir chose the interpretation that it (the revelation) is heavy in both ways simultaneously. This is as 'Abdur-Rahman bin Zayd bin Aslam said, "Just as it is heavy in this world, it will also be heavy on the Day of Judgement in the Scales."
+
+The Virtue of standing at Night for Prayer
+
+Allah says,
+
+إِنَّ نَاشِئَةَ اللَّيْلِ هِيَ أَشَدُّ وَطْئًا وَأَقْوَمُ قِيلًا
+
+(Verily, rising (Nashi'ah) at night is better for understanding and more suitable for speech (recitation).)
+
+Umar, Ibn 'Abbas and Ibn Zubayr, all said, "The entire night is Nashi'ah." Mujahid and others said the same. It is said "Nasha'a" when a person stands at night to pray. In one narration from Mujahid he said, "(It is) after 'Isha' (prayer)." This was also said by Abu Mijlaz, Qatadah, Salim, Abu Hazim and Muhammad bin Al-Munkadir. The point is that Nashi'ah of the night refers to its hours and its times, every hour of it is called Nashi'ah, so it refers to the periods of time.
+
+The purpose of this is that standing at night (for prayer) is better for training the heart and the tongue, and more conducive to recitation. Thus, Allah says,
+
+هِيَ أَشَدُّ وَطْئًا وَأَقْوَمُ قِيلًا
+
+(is better for understanding and more suitable for speech (recitation).) meaning, more comprehensive for the matter of performing the recitation and better for understanding it than in the recitation of the day. This is because the daytime is the time for people to disperse and move about, to raise voices and be lively.
+
+Al-Hafiz Abu Ya'la Al-Mawsili said, "Ibrahim bin Sa'id Al-Jawhari told us that Abu Usamah told us that Al-A'mash informed us that Anas bin Malik recited this Ayah as:
+
+(إِنَّ نَاشِئَةَ اللَّيْلِ هِيَ أَشَدُّ وَأَصْوَبُ قِيلًا)
+
+('Verily, rising at night is better for understanding and more correct for the speech.') So a man said to him, 'We recite it;
+
+وَأَقْوَمُ قِيلًا
+
+(more suitable for speech).' So Anas said to him, 'Most correct (Aswab), most suitable (Aqwam), the best for preparation (Ahya') and similar words are all the same (in meaning).'" Thus, Allah continues saying,
+
+إِنَّ لَكَ فِي النَّهَارِ سَبْحًا طَوِيلًا
+
+(Verily, for you in the day is lengthy Sabh.) Ibn 'Abbas, 'Ikrimah and "Ata' bin Abi Muslim, all said, "Leisure time and sleep." Abu Al-'Aliyah, Mujahid, Abu Malik, Ad-Dahhak, Al-Hasan, Qatadah, Ar-Rabi' bin Anas and Sufyan Ath-Thawri, all said, "A long amount of leisure time." Qatadah said, "Leisure, aspirations and activities." 'Abdur-Rahman bin Zayd bin Aslam said concerning the statement,
+
+إِنَّ لَكَ فِي النَّهَارِ سَبْحًا طَوِيلًا
+
+(Verily, for you in the day is lengthy Sabh.) "This means for your needs. Therefore, leave the night open for your religious devotion. Allah said this when the (voluntary) night prayer was obligatory. Then, Allah blessed His servants, lightened the matter and removed its obligation." Then he recited,
+
+قُمِ اللَّيْلَ إِلَّا قَلِيلًا
+
+(Stand (to pray) all night, except a little.) to the end of the Ayah, then he recited,
+
+إِنَّ رَبَّكَ يَعْلَمُ أَنَّكَ تَقُومُ أَدْنَىٰ مِنْ ثُلُثَيِ اللَّيْلِ وَنِصْفَهُ
+
+(Verily, your Lord knows that you do stand less than two-thirds of the night, or half of it.)(73:20) until he reached,
+
+فَاقْرَءُوا مَا تَيَسَّرَ مِنْهُ
+
+(So recite of it what is easy.)(73:20) and Allah says,
+
+وَمِنَ اللَّيْلِ فَتَهَجَّدْ بِهِ نَافِلَةً لَكَ عَسَىٰ أَنْ يَبْعَثَكَ رَبُّكَ مَقَامًا مَحْمُودًا
+
+(And Tahajjud in some parts of the night (also offer the Salah with it), as an additional prayer for you. It may be that your Lord will raise you to Maqam Mahmud.)(17:79)
+
+In fact, this is as true as what he ('Abdur-Rahman) said, The proof for this view is what Imam Ahmad recorded in his Musnad, that Sa'id bin Hisham divorced his wife and then traveled to Al-Madinah in order to sell some property he had with her. He intended to use its money to buy an animal and a weapon and then go for Jihad against the Romans until he died. In the process of this he met a group of his people and they informed him that a group of six men from his people had intended that in the time of the Messenger of Allah ﷺ, upon which he ﷺ said,
+
+أَلَيْسَ لَكُ
+
+[TRUNCATED at 12000 chars — 7818 more. Consult the source directly before relying on anything near the cut.]
 
 ### al-Tabari (Arabic)
 
-اختلف أهل التأويل في تأويل قوله: ( إِنَّا سَنُلْقِي عَلَيْكَ قَوْلا ثَقِيلا ) فقال بعضهم: عُنى به إنا سنلقي عليك قولا ثقيلا العمل به.* ذكر من قال ذلك:حدثني يعقوب بن إبراهيم، قال: ثنا ابن علية، عن أبي رجاء، عن الحسن، في قوله: ( إِنَّا سَنُلْقِي عَلَيْكَ قَوْلا ثَقِيلا ) قال: العمل به، قال: إن الرجل لَيَهُذُّ (1) ‌السورة، ولكنّ العمل به ثقيل.حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة قوله: ( إِنَّا سَنُلْقِي عَلَيْكَ قَوْلا ثَقِيلا ) ثقيل والله فرائضه وحدوده.حدثنا ابن عبد الأعلى، قال: ثن...
+القول في تأويل قوله تعالى: ﴿إِنَّا سَنُلْقِي عَلَيْكَ قَوْلا ثَقِيلا (٥) إِنَّ نَاشِئَةَ اللَّيْلِ هِيَ أَشَدُّ وَطْئًا وَأَقْوَمُ قِيلا (٦) إِنَّ لَكَ فِي اَلنَّهَارِ سَبْحًا طَوِيلا (٧) ﴾
+
+اختلف أهل التأويل في تأويل قوله: ﴿إِنَّا سَنُلْقِي عَلَيْكَ قَوْلا ثَقِيلا﴾ فقال بعضهم: عُنى به إنا سنلقي عليك قولا ثقيلا العمل به.
+
+ذكر من قال ذلك:
+
+⁕ حدثني يعقوب بن إبراهيم، قال: ثنا ابن علية، عن أبي رجاء، عن الحسن، في قوله: ﴿إِنَّا سَنُلْقِي عَلَيْكَ قَوْلا ثَقِيلا﴾ قال: العمل به، قال: إن الرجل لَيَهُذُّ [[الهذ: سرعة القراءة. وهو يهذ القرآن هذًا: إذا أسرع فيع وتابعه. وهذا الحديث سرده (التاج)]] السورة، ولكنّ العمل به ثقيل.
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة قوله: ﴿إِنَّا سَنُلْقِي عَلَيْكَ قَوْلا ثَقِيلا﴾ ثقيل والله فرائضه وحدوده.
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة، قوله: ﴿ثَقِيلا﴾ قال: ثقيل والله فرائضه وحدوده.
+
+وقال آخرون: بل عني بذلك أن القول عينه ثقيل محمله.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن هشام بن عروة، عن أبيه "أن النبيّ ﷺ كان إذا أوحي إليه وهو على ناقته وضعت جرانها، فما تستطيع أن تتحرّك حتى يسرَّى عنه".
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال، قال ابن زيد، في قول الله: ﴿إِنَّا سَنُلْقِي عَلَيْكَ قَوْلا ثَقِيلا﴾ قال: هو والله ثقيل مبارك القرآن، كما ثقل في الدنيا ثَقُل في الموازين يوم القيامة.
+
+وأولى الأقوال بالصواب في ذلك أن يقال: إن الله وصفه بأنه قول ثقيل، فهو كما وصفه به ثقيل محمله ثقيل العمل بحدوده وفرائضه.
+
+* *
+
+وقوله: ﴿إِنَّ نَاشِئَةَ اللَّيْلِ هِيَ أَشَدُّ وَطْئًا﴾
+
+يعني جلّ وعزّ بقوله: ﴿إن ناشئة الليل﴾ : إن ساعات الليل، وكلّ ساعة من ساعات الليل ناشئة من الليل.
+
+وقد اختلف أهل التأويل في ذلك.
+
+⁕ حدثني يعقوب بن إبراهيم، قال: ثنا ابن علية، قال: أخبرنا حاتم بن أبي صغيرة، قال: قلت لعبد الله بن أبي مليكة: ألا تحدثني أيّ الليل ناشئة؟ قال: على الثبت سقطت، سألت عنها ابن عباس، فزعم أن الليل كله ناشئة، وسألت عنها ابن الزبير، فأخبرني مثل ذلك.
+
+⁕ حدثنا ابن حميد، قال: ثنا حكام، قال: ثنا عنبسة، عن أبي إسحاق، عن سعيد بن جُبير، عن ابن عباس ﴿إِنَّ نَاشِئَةَ اللَّيْلِ﴾ قال: بلسان الحبشة إذا قام الرجل من الليل، قالوا: نشأ.
+
+⁕ حدثنا ابن بشار، قال: ثنا عبد الرحمن، قال: ثنا إسرائيل، عن أبي إسحاق، عن سعيد بن جُبير، عن ابن عباس ﴿إِنَّ نَاشِئَةَ اللَّيْلِ﴾ نشأ: قام.
+
+⁕ حدثنا ابن بشار، قال: ثنا عبد الرحمن، قال: ثنا إسرائيل، عن أبي مَيْسرة ﴿إِنَّ نَاشِئَةَ اللَّيْلِ﴾ قال: نشأ: قام.
+
+⁕ قال: ثنا عبد الرحمن، قال: ثنا سفيان، عن ابن أبي نجيح، قال: إذا قام الرجل من الليل، فهو ناشئة الليل.
+
+⁕ حدثنا هناد بن السريّ، قال: ثنا أبو الأحوص، عن سماك، عن عكرِمة، في قوله: ﴿إِنَّ نَاشِئَةَ اللَّيْلِ﴾ قال: هو الليل كله.
+
+⁕ حدثنا ابن حميد، قال: ثنا مهران، عن سفيان، عن ابن أبي نجيح، عن مجاهد ﴿إِنَّ نَاشِئَةَ اللَّيْلِ﴾ قال: إذا قمت الليل فهو ناشئة.
+
+⁕ قال: ثنا مهران، عن سفيان، عن ليث، عن مجاهد، قال: كلّ شيء بعد العشاء فهو ناشئة.
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال، قال ابن زيد، في قوله: ﴿إِنَّ نَاشِئَةَ اللَّيْلِ﴾ قال: قيام الليل؛ قال: وأيّ ساعة من الليل قام فقد نشأ.
+
+⁕ حدثنا ابن حميد، قال: ثنا مهران، عن سفيان، عن ابن أبي نجيح، عن مجاهد، قال: أيّ الليل قمت فهو ناشئة.
+
+⁕ قال: ثنا مهران، عن خارجة، عن أبي يونس حاتم بن أبى صغيرة، عن ابن أبي مُلَيكة، قال: سألت ابن عباس وابن الزبير عن ناشئة الليل فقالا كلّ الليل ناشئة، فإذا نشأت قائما فتلك ناشئة.
+
+⁕ حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى؛ وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء، جميعًا عن ابن أبي نجيح، عن مجاهد، قوله: ﴿إِنَّ نَاشِئَةَ اللَّيْلِ﴾ قال: أيّ ساعة تَهَجَّدَ فيها متهجد من الليل.
+
+⁕ حُدثت عن الحسين، قال: سمعت أبا معاذ يقول: ثنا عبيد، قال: سمعت الضحاك يقول في قوله: ﴿إِنَّ نَاشِئَةَ اللَّيْلِ﴾ يعني الليل كله.
+
+⁕ حدثنا أبو كريب، قال: ثنا وكيع، عن أبي عامر الخزاز، ونافع عن ابن أبي مليكة، عن ابن عباس في قوله: ﴿إِنَّ نَاشِئَةَ اللَّيْلِ﴾ قال: الليل كله.
+
+⁕ قال: ثنا وكيع، عن سفيان، عن ابن أبي نجيح، عن مجاهد، قال: الليل كله إذا قام يصلي فهو ناشئة.
+
+وقال آخرون: بل ذلك ما كان بعد العشاء، فأما ما كان قبل العشاء فليس بناشئة.
+
+ذكر من قال ذلك:
+
+⁕ حدثني يعقوب بن إبراهيم، قال: ثنا ابن علية، عن سليمان التيميّ، عن أبي مِجْلَز، في قوله: ﴿إِنَّ نَاشِئَةَ اللَّيْلِ﴾ قال: ما بعد العشاء ناشئة.
+
+⁕ قال: ثنا ابن علية، قال: ثنا أبو رجاء، في قوله: ﴿إِنَّ نَاشِئَةَ اللَّيْلِ﴾ قال: ما بعد العشاء الآخرة.
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: ﴿إِنَّ نَاشِئَةَ اللَّيْلِ﴾ قال: ناشئة الليل: ما كان بعد العشاء فهو ناشئة.
+
+⁕ حدثنا ابن بشار، قال: ثنا سليمان، قال: ثنا أبو هلال، قال، قال قتادة في قوله: ﴿إِنَّ نَاشِئَةَ اللَّيْلِ﴾ قال: كلّ شيء بعد العشاء فهو ناشئة.
+
+* *
+
+وقوله: ﴿هِيَ أَشَدُّ وَطْئًا﴾
+
+اختلفت قرّاء الأمصار في قراءة ذلك، فقرأته عامة قراء مكة والمدينة والكوفة ﴿أَشَدُّ وَطْئًا﴾ بفتح الواو وسكون الطاء. وقرأ ذلك بعض قرّاء البصرة ومكة والشام ﴿وِطاء﴾ بكسر الواو ومدّ الألف على أنه مصدر من قول القائل: واطأ اللسان القلب مواطأة ووِطاء.
+
+والصواب من القول في ذلك عندنا انهما قراءتان معروفتان صحيحتا المعنى، فبأيتهما قرأ القارئ فمصيب.
+
+ويعني بقوله: ﴿هِيَ أَشَدُّ وَطْئًا﴾ ناشئة الليل أشد ثباتا من النهار وأثبت في القلب، وذلك أن العمل بالليل أثبت منه بالنهار. وحُكي عن العرب وَطِئنا الليل وطأ: إذا ساروا فيه.
+
+وبنحو الذي قلنا في ذلك قال من أهل التأويل من قرأه بفتح الواو وسكون الطاء، وإن اختلفت عباراتهم في ذلك.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة: ﴿هِيَ أَشَدُّ وَطْئًا﴾ أي أثبت في الخير، وأحفظ في الحفظ.
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة ﴿هِيَ أَشَدُّ وَطْئًا﴾ قال: القيام بالليل أشدّ وطئا: يقول: أثبت في الخير.
+
+⁕ حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس، قوله: ﴿إِنَّ نَاشِئَةَ اللَّيْلِ هِيَ أَشَدُّ وَطْئًا﴾ يقول: ناشئة الليل كانت صلاتهم أوّل الليل ﴿هِيَ أَشَدُّ وَطْئًا﴾ يقول: هو أجدر أن تُحْصُوا ما فرض الله عليكم من القيام، وذلك أن الإنسان إذا نام لم يدر متى يستيقظ.
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال، قال ابن زيد في قوله: ﴿إِنَّ نَاشِئَةَ اللَّيْلِ هِيَ أَشَدُّ وَطْئًا﴾ قال: إن مصلي الليل القائم بالليل أشدّ وطئا: طمأنينة أفرغ له قلبا، وذلك أنه لا يَعْرِضُ له حوائج ولا شيء.
+
+⁕ حُدثت عن الحسين، قال: سمعت أبا معاذ يقول: ثنا عبيد، قال: سمعت الضحاك يقول في قوله: ﴿هِيَ أَشَدُّ وَطْئًا﴾ يقول: قراءة القرآن بالليل أثبت منه بالنهار، وأشدّ مواطأة بالليل منه بالنهار.
+
+وأما الذين قرءوا ﴿وِطاءً﴾ بكسر الواو ومدّ الألف، فقد ذكرت الذي عَنَوْا بقراءتهم ذلك كذلك.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا ابن بشار، قال: ثنا عبد الرحمن، قال: ثنا سفيان، عن منصور عن مجاهد ﴿أَشَدُّ وَطْئًا﴾ قال: أن تُوَاطئ قلبك وسمعك وبصرك.
+
+⁕ حدثنا ابن حميد، قال: ثنا مهران، عن سفيان، عن منصور، عن مجاهد ﴿إِنَّ نَاشِئَةَ اللَّيْلِ هِيَ أَشَدُّ وَطْئًا﴾ قال: تواطئ سمعك وبصرك وقلبك.
+
+⁕ حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى؛ وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء، جميعًا عن ابن أبي نجيح، عن مجاهد، قوله: ﴿أَشَدُّ وَطْئًا﴾ قال: مُوَاطأة للقول، وفراغا للقلب.
+
+⁕ حدثني يعقوب، قال: ثنا ابن علية، قال: سمعت ابن أبي نجيح يقول في قوله: ﴿إِنَّ نَاشِئَةَ اللَّيْلِ هِيَ أَشَدُّ وَطْئًا وَأَقْوَمُ قِيلا﴾ قال: أجدر أن تواطئ لك سمعك، أن تواطئ لك بصرك.
+
+⁕ حدثنا ابن حميد، قال: ثنا وكيع، عن سفيان، عن منصور، عن مجاهد ﴿أَشَدُّ وَطْئًا﴾ قال: أجدر أن تواطئ سمعك وقلبك.
+
+⁕ حدثنا ابن حميد، قال: ثنا جرير، عن منصور، عن مجاهد في قوله: ﴿إِنَّ نَاشِئَةَ اللَّيْلِ هِيَ أَشَدُّ وَطْئًا وَأَقْوَمُ قِيلا﴾ قال: يواطئ سَمْعُك وبصرك وقلبك بعضه بعضا.
+
+* *
+
+وقوله: ﴿وَأَقْوَمُ قِيلا﴾
+
+يقول: وأصوب قراءة.
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثني يحيى بن داود الواسطي، قال: ثنا أبو أُسامة، عن الأعمش، قال: قرأ أنس هذه الآية ﴿إنَّ ناشِئَةَ اللَّيْلِ هِيَ أشَدُّ وَطْئًا وأصْوَبُ قِيلا﴾ ، فقال له بعض القوم: يا أبا حمزة إنما هي ﴿وَأَقْوَمُ قِيلا﴾ قال: أقوم وأصوب وأهيأ واحد.
+
+⁕ حدثني موسى بن عبد الرحمن المسروقي، قال: ثنا عبد الحميد الحماني، عن الأعمش قال: قرأ أنس ﴿وَأَقْوَمُ قِيلا﴾ وأصوب قيلا؛ قيل له: يا أبا حمزة إنما هي ﴿وَأَقْوَمُ﴾ قال أنس: أصوب وأقوم وأهيأ واحد.
+
+⁕ حدثنا ابن بشار، قال: ثنا عبد الرحمن، قال: ثنا سفيان، عن منصور، عن مجاهد، مثله.
+
+⁕ حدثنا أبو كريب، قال: ثنا وكيع، عن سفيان، عن منصور، عن مجاهد، مثله.
+
+⁕ حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس، قوله: ﴿وَأَقْوَمُ قِيلا﴾ يقول: أدنى من أن تفقهوا القرآن.
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة ﴿وَأَقْوَمُ قِيلا﴾ : أحفظ للقراءة.
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال، قال ابن زيد، في قوله: ﴿وَأَقْوَمُ قِيلا﴾ قال: أقوم قراءة لفراغه من الدنيا.
+
+* *
+
+قوله: ﴿إِنَّ لَكَ فِي اَلنَّهَارِ سَبْحًا طَوِيلا﴾
+
+يقول تعالى ذكره لنبيه محمد ﷺ: إن لك يا محمد في النهار فراغا طويلا تتسع به، وتتقلَّب فيه.
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس ﴿سَبْحًا طَوِيلا﴾ فراغا طويلا يعني النوم.
+
+⁕ حدثنا ابن بشار، قال: ثنا مؤمل، قال: ثنا سفيان، عن منصور، عن مجاهد، قوله: ﴿إِنَّ لَكَ فِي اَلنَّهَارِ سَبْحًا طَوِيلا﴾ قال: متاعا طويلا.
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، في قوله: ﴿سَبْحًا طَوِيلا﴾ قال: فراغا طويلا.
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال، قال ابن زيد، في قوله: ﴿إِنَّ لَكَ فِي اَلنَّهَارِ سَبْحًا طَوِيلا﴾ قال: لحوائجك، فافُرغ لدينك الليل، قالوا: وهذا حين كانت صلاة الليل فريضة، ثم إن الله منّ على العباد فخفَّفها ووضعها، وقرأ: ﴿قُمِ اللَّيْلَ إِلا قَلِيلا﴾ ... إلى آخر الآية، ثم قال: ﴿إِنَّ رَبَّكَ يَعْلَمُ أَنَّكَ تَقُومُ أَدْنَى مِنْ ثُلُثَيِ اللَّيْلِ﴾ حتى بلغ قوله: ﴿فَاقْرَءُوا مَا تَيَسَّرَ مِنْهُ﴾ الليل نصفه أو ثلثه، ثم جاء أمر أوسع وأفسح، وضع الفريضة عنه وعن أمته، فقال: ﴿وَمِنَ اللَّيْلِ فَتَهَجَّدْ بِهِ نَافِلَةً لَكَ عَسَى أَنْ يَبْعَثَكَ رَبُّكَ مَقَامًا مَحْمُودًا﴾ .
+
+⁕ حُدثت عن الحسين، قال: سمعت أبا معاذ يقول في قوله: ﴿إِنَّ لَكَ فِي اَلنَّهَارِ سَبْحًا طَوِيلا﴾ فراغا طويلا. وكان يحيى بن يعمر يقرأ ذلك بالخاء.
+
+⁕ حدثنا ابن حميد، قال: ثنا يحيى بن واضح، قال: ثنا عبد المؤمن، عن غالب الليثي، عن يحيى بن يعمر "من جذيلة قيس" أنه كان يقرأ ﴿سَبْخًا طَوِيلا﴾ قال: وهو النوم.
+
+قال أبو جعفر: والتسبيخ: توسيع القطن والصوف وتنفيشه، يقال للمرأة: سبخي قطنك: أي نفشيه ووسعيه؛ ومنه قول الأخطل:
+
+فأرْسَلُوهُنَّ يُذْرِينَ التَرَابَ كَمَا يُذْرِي سَبائخَ قُطْنٍ نَدْفُ أوْتارُ [[البيت للأخطل يذكر الكلاب (اللسان: سبخ) قال: التسبيخ: التخفيف. ويقال: "اللهم سبخ عني الحمى" أي: خففها وسهلها، ولهذا قيل لقطع القطن إذا ندف: سبائخ، ومنه قول الأخطل يذكر الكلاب: "فأرسلوهن.." البيت. وقال الفراء في معاني القرآن (الورقة ٣٤٦) وقوله: (إن لك في النهار سبحا طويلا) يقول: لك في النهار ما تقضي حوائجك. وقد قرأ بعضهم: سبخا، بالخاء، والتسبيخ: توسعة الصوف والقطن وما أشبهه، يقال: سبخي قطنك. قال أبو العباس (ثعلب) : سمعت أبا عبد الله (ابن الأعرابي) يقول: حضر أبو زياد الكلابي مجلس الفراء في هذا اليوم، فسأله الفراء عن هذا الحرف، فقال: أهل باديتنا يقولون: اللهم سبخ عنه للمريض والملسوع ونحوه.]]
+
+وإنما عني بقوله: ﴿إِنَّ لَكَ فِي اَلنَّهَارِ سَبْحًا طَوِيلا﴾ : إن لك في النهار سعة لقضاء حوائجك وقومك. والسبح والسبخ قريبا المعنى في هذا الموضع.
 
 ### al-Muyassar (Arabic)
 
-إنا سننزل عليك -أيها النبي- قرآنًا عظيمًا مشتملا على الأوامر والنواهي والأحكام الشرعية.
+إنا سننزل عليك -أيها النبي- قرآنًا عظيمًا مشتملًا على الأوامر والنواهي والأحكام الشرعية.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿إنّا سَنُلْقِي عَلَيْك قَوْلًا﴾ قُرْآنًا ﴿ثَقِيلًا﴾ مُهِيبًا أوْ شَدِيدًا لِما فِيهِ مِن التَّكالِيف
 
 ---
 
@@ -232,24 +2380,334 @@ Allah commands His Messenger to cease being wrapped up, and this means to be cov
 
 ### Ibn Kathir (English)
 
-Which was revealed in Makkah
-بِسْمِ اللَّهِ الرَّحْمَـنِ الرَّحِيمِ
+بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
+
 (In the Name of Allah, the Most Gracious, the Most Merciful.
+
+يَا أَيُّهَا الْمُزَّمِّلُ - قُمِ اللَّيْلَ إِلَّا قَلِيلًا - نِصْفَهُ أَوِ انْقُصْ مِنْهُ قَلِيلًا - أَوْ زِدْ عَلَيْهِ وَرَتِّلِ الْقُرْآنَ تَرْتِيلًا - إِنَّا سَنُلْقِي عَلَيْكَ قَوْلًا ثَقِيلًا - إِنَّ نَاشِئَةَ اللَّيْلِ هِيَ أَشَدُّ وَطْئًا وَأَقْوَمُ قِيلًا - إِنَّ لَكَ فِي النَّهَارِ سَبْحًا طَوِيلًا - وَاذْكُرِ اسْمَ رَبِّكَ وَتَبَتَّلْ إِلَيْهِ تَبْتِيلًا - رَبُّ الْمَشْرِقِ وَالْمَغْرِبِ لَا إِلَٰهَ إِلَّا هُوَ فَاتَّخِذْهُ وَكِيلًا
+
+(1. O you wrapped up!)(2. Stand (to pray) all night, except a little.)(3. Half of it or less than that, a little.)(4. Or a little more. And Rattil the Qur'an Tartil.)(5. Verily, We shall send down to you a Word Thaqil.)(6. Verily, rising (Nashi'ah) at night is better for understanding and more suitable for speech (recitation).)(7. Verily, for you in the day is lengthy Sabh.)(8. And remember the Name of your Lord and (Tabattil) devote yourself to Him with complete devotion.)(9. Lord of the east and the west; La ilaha illa Huwa, so take Him as a trustee.)
+
 The Command to stand at Night (in Prayer)
-Allah commands His Messenger to cease being wrapped up, and this means to be covered during the night. He commands him to get up and stand in prayer to His Lord. This is as Allah says,
-تَتَجَافَى جُنُوبُهُمْ عَنِ الْمَضَاجِعِ يَدْعُونَ رَبَّهُمْ خَوْفاً وَطَمَعاً وَمِمَّا رَزَقْنَـهُمْ يُنفِقُونَ
-(Their sides forsake their b...
+
+Allah commands His Messenger ﷺ to cease being wrapped up, and this means to be covered during the night. He commands him to get up and stand in prayer to His Lord. This is as Allah says,
+
+تَتَجَافَىٰ جُنُوبُهُمْ عَنِ الْمَضَاجِعِ يَدْعُونَ رَبَّهُمْ خَوْفًا وَطَمَعًا وَمِمَّا رَزَقْنَاهُمْ يُنْفِقُونَ
+
+(Their sides forsake their beds, to invoke their Lord in fear and hope, and they spend out of what We have bestowed on them.)(32:16)
+
+Thus, the Prophet ﷺ did as Allah ordered him, by standing for prayer at night. This was obligatory upon him alone, as Allah said,
+
+وَمِنَ اللَّيْلِ فَتَهَجَّدْ بِهِ نَافِلَةً لَكَ عَسَىٰ أَنْ يَبْعَثَكَ رَبُّكَ مَقَامًا مَحْمُودًا
+
+(And in some parts of the night offer the Salah with it (the Qur'an), as an additional prayer for you. It may be that your Lord will raise you to Maqam Mahmud.)(17:79)
+
+Here Allah explains how much prayer he should perform. Allah says,
+
+يَا أَيُّهَا الْمُزَّمِّلُ - قُمِ اللَّيْلَ إِلَّا قَلِيلًا
+
+(O you wrapped up! Stand all night, except a little.) Ibn 'Abbas, Ad-Dahhak and As-Suddi all said,
+
+يَا أَيُّهَا الْمُزَّمِّلُ
+
+(O you wrapped up!) "This means, O you who are asleep." Qatadah said, "The one who is wrapped up in his garments." Concerning Allah's statement,
+
+نِصْفَهُ
+
+(Half of it) means, instead of the whole night.
+
+أَوِ انْقُصْ مِنْهُ قَلِيلًا - أَوْ زِدْ عَلَيْهِ
+
+(A little less than that, or a little more.) meaning, 'We have commanded you to stand in prayer for half of the night, either a little more than it or a little less. There is no hardship on you concerning that (slight increase or decrease).
+
+The Way of reciting the Qur'an
+
+Concerning Allah's statement,
+
+وَرَتِّلِ الْقُرْآنَ تَرْتِيلًا
+
+(And Rattil the Qur'an Tartil.) meaning, recite it slowly, for that will help in understanding the Qur'an and contemplating it. This is how the Prophet ﷺ used to recite. 'A'ishah said, "He (the Prophet) used to recite the chapter slowly, so much so that it would be longer than chapters that were actually longer than it."
+
+In Sahih Al-Bukhari, it is recorded from Anas that he was asked about the recitation of the Messenger of Allah ﷺ, so he replied, "He used to elongate the letters." Then he (Anas) recited,
+
+بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
+
+(In the Name of Allah, the Most Gracious, the Most Merciful.)(1:1) and he elongated "In the Name of Allah," and he elongated "The Most Gracious," and he elongated "The Most Merciful."
+
+Ibn Jurayj reported from Ibn Abi Mulaykah, who narrated from Umm Salamah that she was asked about the recitation of the Messenger of Allah , so she said, "He used to pause in his recitation, verse by verse.
+
+بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ - الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ - الرَّحْمَٰنِ الرَّحِيمِ - مَالِكِ يَوْمِ الدِّينِ
+
+(In the Name of Allah, the Most Gracious, the Most Merciful. All praise is Allah's, the Lord of all that exists. The Most Gracious, the Most Merciful. The Only Owner of the Day of Recompense.)(1:1-4)
+
+This was recorded by Ahmad, Abu Dawud and At-Tirmidhi. We have already mentioned the Hadiths which prove the recommendation of slow rhythmic recitation and beautification of the voice while reciting at the beginning of this Tafsir. For example, the Hadith which states,
+
+زَيِّنُوا الْقُرْآنَ بِأَصْوَاتِكُمْ
+
+(Beautify the Qur'an with your voices.) and the Hadith,
+
+لَيْسَ مِنَّا مَنْ لَمْ يَتَغَنَّ بِالْقُرْآنِ
+
+(He is not of us who does not chant nicely with the recitation of the Qur'an.) and the Hadith,
+
+لَقَدْ أُوتِيَ هَذَا مِزْمَارًا مِنْ مَزَامِيرِ آلِ دَاوُدَ
+
+(Verily, he has been given this windpipe from the windpipes of the family of Dawud.) Referring to Abu Musa.
+
+Abu Musa replied, "If I knew that you had been listening to my recitation, I would have truly beautified it for you." It has been narrated from Ibn Mas'ud that he said, "Do not scatter the (recitation of) Qur'an out like the scattering of sand, and do not rush through it like the hasty recitation of poetry. Stop at its amazing parts and make your heart move with it. None of you should let his concern be to reach the end of the chapter." This has been recorded by Al-Baghawi. Al-Bukhari recorded from Abi Wa'il that he said, "A man came to Ibn Mas'ud and said, 'I read the Mufassal chapters (from Qaf to An-Nas) last night in one unit of prayer.' Ibn Mas'ud said, 'This is rushing like the haste of reciting poetry. Verily, I know the pairs (of chapters) that the Messenger of Allah ﷺ used to combine between them (in prayer).' Then he mentioned twenty chapters from the Mufassal chapters, and said that the Prophet ﷺ used to recite two in each prayer unit."
+
+The Magnificence of the Qur'an
+
+Allah then said,
+
+إِنَّا سَنُلْقِي عَلَيْكَ قَوْلًا ثَقِيلًا
+
+(Verily, We shall send down to you a Word Thaqil.)
+
+Al-Hasan and Qatadah both said, "The actions with it." It has also been said that it means it will be heavy at the time of its revelation due to its magnificence. This is similar to what Zayd bin Thabit said. He said, "The Messenger of Allah ﷺ received some revelation while his thigh was on top of my thigh, and my thigh was almost crushed due to it."
+
+Imam Ahmad recorded from 'Abdullah bin 'Amr that he said, "I asked the Prophet ﷺ, 'O Messenger of Allah! Do you feel anything when revelation comes (to you)?' The Messenger of Allah ﷺ replied,
+
+أَسْمَعُ صَلَاصِلَ ثُمَّ أَسْكُتُ عِنْدَ ذَلِكَ، فَمَا مِنْ مَرَّةٍ يُوحَىٰ إِلَيَّ إِلَّا ظَنَنْتُ أَنَّ نَفْسِي تُقْبَضُ
+
+(I hear a ringing and then I remain quiet when that occurs. There has not been a single time that revelation has come to me except that I thought that my soul was about to be taken (death).)"
+
+Ahmad was alone in narrating this. In the beginning of Sahih Al-Bukhari, it is recorded from 'A'ishah that Al-Harith bin Hisham asked the Messenger of Allah ﷺ, "How does the revelation come to you?" The Prophet ﷺ replied,
+
+أَحْيَانًا يَأْتِي فِي مِثْلِ صَلْصَلَةِ الْجَرَسِ وَهُوَ أَشَدُّهُ عَلَيَّ، فَيُفْصَمُ عَنِّي وَقَدْ وَعَيْتُ عَنْهُ مَا قَالَ، وَأَحْيَانًا يَتَمَثَّلُ لِي الْمَلَكُ رَجُلًا فَيُكَلِّمُنِي فَأَعِي مَا يَقُولُ
+
+(Sometimes it comes to me like the ringing of a bell, and it is most severe upon me. Then this state passes away from me after I have grasped what is inspired. Sometimes the angel comes to me in the form of a man and talks to me and I grasp whatever he says.)
+
+A'ishah added, "Verily, I saw him receiving revelation and I noticed the sweat dropping from his forehead on a very cold day as the revelation ended." This is the wording recorded by Al-Bukhari. Imam Ahmad recorded from 'A'ishah that she said, "If the Messenger of Allah ﷺ received any revelation while he was on his riding animal, it would begin moving its Jiran intensely." The Jiran is the bottom of the neck. Ibn Jarir chose the interpretation that it (the revelation) is heavy in both ways simultaneously. This is as 'Abdur-Rahman bin Zayd bin Aslam said, "Just as it is heavy in this world, it will also be heavy on the Day of Judgement in the Scales."
+
+The Virtue of standing at Night for Prayer
+
+Allah says,
+
+إِنَّ نَاشِئَةَ اللَّيْلِ هِيَ أَشَدُّ وَطْئًا وَأَقْوَمُ قِيلًا
+
+(Verily, rising (Nashi'ah) at night is better for understanding and more suitable for speech (recitation).)
+
+Umar, Ibn 'Abbas and Ibn Zubayr, all said, "The entire night is Nashi'ah." Mujahid and others said the same. It is said "Nasha'a" when a person stands at night to pray. In one narration from Mujahid he said, "(It is) after 'Isha' (prayer)." This was also said by Abu Mijlaz, Qatadah, Salim, Abu Hazim and Muhammad bin Al-Munkadir. The point is that Nashi'ah of the night refers to its hours and its times, every hour of it is called Nashi'ah, so it refers to the periods of time.
+
+The purpose of this is that standing at night (for prayer) is better for training the heart and the tongue, and more conducive to recitation. Thus, Allah says,
+
+هِيَ أَشَدُّ وَطْئًا وَأَقْوَمُ قِيلًا
+
+(is better for understanding and more suitable for speech (recitation).) meaning, more comprehensive for the matter of performing the recitation and better for understanding it than in the recitation of the day. This is because the daytime is the time for people to disperse and move about, to raise voices and be lively.
+
+Al-Hafiz Abu Ya'la Al-Mawsili said, "Ibrahim bin Sa'id Al-Jawhari told us that Abu Usamah told us that Al-A'mash informed us that Anas bin Malik recited this Ayah as:
+
+(إِنَّ نَاشِئَةَ اللَّيْلِ هِيَ أَشَدُّ وَأَصْوَبُ قِيلًا)
+
+('Verily, rising at night is better for understanding and more correct for the speech.') So a man said to him, 'We recite it;
+
+وَأَقْوَمُ قِيلًا
+
+(more suitable for speech).' So Anas said to him, 'Most correct (Aswab), most suitable (Aqwam), the best for preparation (Ahya') and similar words are all the same (in meaning).'" Thus, Allah continues saying,
+
+إِنَّ لَكَ فِي النَّهَارِ سَبْحًا طَوِيلًا
+
+(Verily, for you in the day is lengthy Sabh.) Ibn 'Abbas, 'Ikrimah and "Ata' bin Abi Muslim, all said, "Leisure time and sleep." Abu Al-'Aliyah, Mujahid, Abu Malik, Ad-Dahhak, Al-Hasan, Qatadah, Ar-Rabi' bin Anas and Sufyan Ath-Thawri, all said, "A long amount of leisure time." Qatadah said, "Leisure, aspirations and activities." 'Abdur-Rahman bin Zayd bin Aslam said concerning the statement,
+
+إِنَّ لَكَ فِي النَّهَارِ سَبْحًا طَوِيلًا
+
+(Verily, for you in the day is lengthy Sabh.) "This means for your needs. Therefore, leave the night open for your religious devotion. Allah said this when the (voluntary) night prayer was obligatory. Then, Allah blessed His servants, lightened the matter and removed its obligation." Then he recited,
+
+قُمِ اللَّيْلَ إِلَّا قَلِيلًا
+
+(Stand (to pray) all night, except a little.) to the end of the Ayah, then he recited,
+
+إِنَّ رَبَّكَ يَعْلَمُ أَنَّكَ تَقُومُ أَدْنَىٰ مِنْ ثُلُثَيِ اللَّيْلِ وَنِصْفَهُ
+
+(Verily, your Lord knows that you do stand less than two-thirds of the night, or half of it.)(73:20) until he reached,
+
+فَاقْرَءُوا مَا تَيَسَّرَ مِنْهُ
+
+(So recite of it what is easy.)(73:20) and Allah says,
+
+وَمِنَ اللَّيْلِ فَتَهَجَّدْ بِهِ نَافِلَةً لَكَ عَسَىٰ أَنْ يَبْعَثَكَ رَبُّكَ مَقَامًا مَحْمُودًا
+
+(And Tahajjud in some parts of the night (also offer the Salah with it), as an additional prayer for you. It may be that your Lord will raise you to Maqam Mahmud.)(17:79)
+
+In fact, this is as true as what he ('Abdur-Rahman) said, The proof for this view is what Imam Ahmad recorded in his Musnad, that Sa'id bin Hisham divorced his wife and then traveled to Al-Madinah in order to sell some property he had with her. He intended to use its money to buy an animal and a weapon and then go for Jihad against the Romans until he died. In the process of this he met a group of his people and they informed him that a group of six men from his people had intended that in the time of the Messenger of Allah ﷺ, upon which he ﷺ said,
+
+أَلَيْسَ لَكُ
+
+[TRUNCATED at 12000 chars — 7818 more. Consult the source directly before relying on anything near the cut.]
 
 ### al-Tabari (Arabic)
 
-وقوله: ( إِنَّ نَاشِئَةَ اللَّيْلِ هِيَ أَشَدُّ وَطْئًا ) يعني جلّ وعزّ بقوله: (إن ناشئة الليل): إن ساعات الليل، وكلّ ساعة من ساعات الليل ناشئة من الليل.وقد اختلف أهل التأويل في ذلك.حدثني يعقوب بن إبراهيم، قال: ثنا ابن علية، قال: أخبرنا حاتم بن أبي صغيرة، قال: قلت لعبد الله بن أبي مليكة: ألا تحدثني أيّ الليل ناشئة ؟ قال: على الثبت سقطت، سألت عنها ابن عباس، فزعم أن الليل كله ناشئة، وسألت عنها ابن الزبير، فأخبرني مثل ذلك.حدثنا ابن حميد، قال: ثنا حكام، قال: ثنا عنبسة، عن أبي إسحاق، عن سعيد بن جُ...
+القول في تأويل قوله تعالى: ﴿إِنَّا سَنُلْقِي عَلَيْكَ قَوْلا ثَقِيلا (٥) إِنَّ نَاشِئَةَ اللَّيْلِ هِيَ أَشَدُّ وَطْئًا وَأَقْوَمُ قِيلا (٦) إِنَّ لَكَ فِي اَلنَّهَارِ سَبْحًا طَوِيلا (٧) ﴾
+
+اختلف أهل التأويل في تأويل قوله: ﴿إِنَّا سَنُلْقِي عَلَيْكَ قَوْلا ثَقِيلا﴾ فقال بعضهم: عُنى به إنا سنلقي عليك قولا ثقيلا العمل به.
+
+ذكر من قال ذلك:
+
+⁕ حدثني يعقوب بن إبراهيم، قال: ثنا ابن علية، عن أبي رجاء، عن الحسن، في قوله: ﴿إِنَّا سَنُلْقِي عَلَيْكَ قَوْلا ثَقِيلا﴾ قال: العمل به، قال: إن الرجل لَيَهُذُّ [[الهذ: سرعة القراءة. وهو يهذ القرآن هذًا: إذا أسرع فيع وتابعه. وهذا الحديث سرده (التاج)]] السورة، ولكنّ العمل به ثقيل.
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة قوله: ﴿إِنَّا سَنُلْقِي عَلَيْكَ قَوْلا ثَقِيلا﴾ ثقيل والله فرائضه وحدوده.
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة، قوله: ﴿ثَقِيلا﴾ قال: ثقيل والله فرائضه وحدوده.
+
+وقال آخرون: بل عني بذلك أن القول عينه ثقيل محمله.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن هشام بن عروة، عن أبيه "أن النبيّ ﷺ كان إذا أوحي إليه وهو على ناقته وضعت جرانها، فما تستطيع أن تتحرّك حتى يسرَّى عنه".
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال، قال ابن زيد، في قول الله: ﴿إِنَّا سَنُلْقِي عَلَيْكَ قَوْلا ثَقِيلا﴾ قال: هو والله ثقيل مبارك القرآن، كما ثقل في الدنيا ثَقُل في الموازين يوم القيامة.
+
+وأولى الأقوال بالصواب في ذلك أن يقال: إن الله وصفه بأنه قول ثقيل، فهو كما وصفه به ثقيل محمله ثقيل العمل بحدوده وفرائضه.
+
+* *
+
+وقوله: ﴿إِنَّ نَاشِئَةَ اللَّيْلِ هِيَ أَشَدُّ وَطْئًا﴾
+
+يعني جلّ وعزّ بقوله: ﴿إن ناشئة الليل﴾ : إن ساعات الليل، وكلّ ساعة من ساعات الليل ناشئة من الليل.
+
+وقد اختلف أهل التأويل في ذلك.
+
+⁕ حدثني يعقوب بن إبراهيم، قال: ثنا ابن علية، قال: أخبرنا حاتم بن أبي صغيرة، قال: قلت لعبد الله بن أبي مليكة: ألا تحدثني أيّ الليل ناشئة؟ قال: على الثبت سقطت، سألت عنها ابن عباس، فزعم أن الليل كله ناشئة، وسألت عنها ابن الزبير، فأخبرني مثل ذلك.
+
+⁕ حدثنا ابن حميد، قال: ثنا حكام، قال: ثنا عنبسة، عن أبي إسحاق، عن سعيد بن جُبير، عن ابن عباس ﴿إِنَّ نَاشِئَةَ اللَّيْلِ﴾ قال: بلسان الحبشة إذا قام الرجل من الليل، قالوا: نشأ.
+
+⁕ حدثنا ابن بشار، قال: ثنا عبد الرحمن، قال: ثنا إسرائيل، عن أبي إسحاق، عن سعيد بن جُبير، عن ابن عباس ﴿إِنَّ نَاشِئَةَ اللَّيْلِ﴾ نشأ: قام.
+
+⁕ حدثنا ابن بشار، قال: ثنا عبد الرحمن، قال: ثنا إسرائيل، عن أبي مَيْسرة ﴿إِنَّ نَاشِئَةَ اللَّيْلِ﴾ قال: نشأ: قام.
+
+⁕ قال: ثنا عبد الرحمن، قال: ثنا سفيان، عن ابن أبي نجيح، قال: إذا قام الرجل من الليل، فهو ناشئة الليل.
+
+⁕ حدثنا هناد بن السريّ، قال: ثنا أبو الأحوص، عن سماك، عن عكرِمة، في قوله: ﴿إِنَّ نَاشِئَةَ اللَّيْلِ﴾ قال: هو الليل كله.
+
+⁕ حدثنا ابن حميد، قال: ثنا مهران، عن سفيان، عن ابن أبي نجيح، عن مجاهد ﴿إِنَّ نَاشِئَةَ اللَّيْلِ﴾ قال: إذا قمت الليل فهو ناشئة.
+
+⁕ قال: ثنا مهران، عن سفيان، عن ليث، عن مجاهد، قال: كلّ شيء بعد العشاء فهو ناشئة.
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال، قال ابن زيد، في قوله: ﴿إِنَّ نَاشِئَةَ اللَّيْلِ﴾ قال: قيام الليل؛ قال: وأيّ ساعة من الليل قام فقد نشأ.
+
+⁕ حدثنا ابن حميد، قال: ثنا مهران، عن سفيان، عن ابن أبي نجيح، عن مجاهد، قال: أيّ الليل قمت فهو ناشئة.
+
+⁕ قال: ثنا مهران، عن خارجة، عن أبي يونس حاتم بن أبى صغيرة، عن ابن أبي مُلَيكة، قال: سألت ابن عباس وابن الزبير عن ناشئة الليل فقالا كلّ الليل ناشئة، فإذا نشأت قائما فتلك ناشئة.
+
+⁕ حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى؛ وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء، جميعًا عن ابن أبي نجيح، عن مجاهد، قوله: ﴿إِنَّ نَاشِئَةَ اللَّيْلِ﴾ قال: أيّ ساعة تَهَجَّدَ فيها متهجد من الليل.
+
+⁕ حُدثت عن الحسين، قال: سمعت أبا معاذ يقول: ثنا عبيد، قال: سمعت الضحاك يقول في قوله: ﴿إِنَّ نَاشِئَةَ اللَّيْلِ﴾ يعني الليل كله.
+
+⁕ حدثنا أبو كريب، قال: ثنا وكيع، عن أبي عامر الخزاز، ونافع عن ابن أبي مليكة، عن ابن عباس في قوله: ﴿إِنَّ نَاشِئَةَ اللَّيْلِ﴾ قال: الليل كله.
+
+⁕ قال: ثنا وكيع، عن سفيان، عن ابن أبي نجيح، عن مجاهد، قال: الليل كله إذا قام يصلي فهو ناشئة.
+
+وقال آخرون: بل ذلك ما كان بعد العشاء، فأما ما كان قبل العشاء فليس بناشئة.
+
+ذكر من قال ذلك:
+
+⁕ حدثني يعقوب بن إبراهيم، قال: ثنا ابن علية، عن سليمان التيميّ، عن أبي مِجْلَز، في قوله: ﴿إِنَّ نَاشِئَةَ اللَّيْلِ﴾ قال: ما بعد العشاء ناشئة.
+
+⁕ قال: ثنا ابن علية، قال: ثنا أبو رجاء، في قوله: ﴿إِنَّ نَاشِئَةَ اللَّيْلِ﴾ قال: ما بعد العشاء الآخرة.
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: ﴿إِنَّ نَاشِئَةَ اللَّيْلِ﴾ قال: ناشئة الليل: ما كان بعد العشاء فهو ناشئة.
+
+⁕ حدثنا ابن بشار، قال: ثنا سليمان، قال: ثنا أبو هلال، قال، قال قتادة في قوله: ﴿إِنَّ نَاشِئَةَ اللَّيْلِ﴾ قال: كلّ شيء بعد العشاء فهو ناشئة.
+
+* *
+
+وقوله: ﴿هِيَ أَشَدُّ وَطْئًا﴾
+
+اختلفت قرّاء الأمصار في قراءة ذلك، فقرأته عامة قراء مكة والمدينة والكوفة ﴿أَشَدُّ وَطْئًا﴾ بفتح الواو وسكون الطاء. وقرأ ذلك بعض قرّاء البصرة ومكة والشام ﴿وِطاء﴾ بكسر الواو ومدّ الألف على أنه مصدر من قول القائل: واطأ اللسان القلب مواطأة ووِطاء.
+
+والصواب من القول في ذلك عندنا انهما قراءتان معروفتان صحيحتا المعنى، فبأيتهما قرأ القارئ فمصيب.
+
+ويعني بقوله: ﴿هِيَ أَشَدُّ وَطْئًا﴾ ناشئة الليل أشد ثباتا من النهار وأثبت في القلب، وذلك أن العمل بالليل أثبت منه بالنهار. وحُكي عن العرب وَطِئنا الليل وطأ: إذا ساروا فيه.
+
+وبنحو الذي قلنا في ذلك قال من أهل التأويل من قرأه بفتح الواو وسكون الطاء، وإن اختلفت عباراتهم في ذلك.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة: ﴿هِيَ أَشَدُّ وَطْئًا﴾ أي أثبت في الخير، وأحفظ في الحفظ.
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة ﴿هِيَ أَشَدُّ وَطْئًا﴾ قال: القيام بالليل أشدّ وطئا: يقول: أثبت في الخير.
+
+⁕ حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس، قوله: ﴿إِنَّ نَاشِئَةَ اللَّيْلِ هِيَ أَشَدُّ وَطْئًا﴾ يقول: ناشئة الليل كانت صلاتهم أوّل الليل ﴿هِيَ أَشَدُّ وَطْئًا﴾ يقول: هو أجدر أن تُحْصُوا ما فرض الله عليكم من القيام، وذلك أن الإنسان إذا نام لم يدر متى يستيقظ.
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال، قال ابن زيد في قوله: ﴿إِنَّ نَاشِئَةَ اللَّيْلِ هِيَ أَشَدُّ وَطْئًا﴾ قال: إن مصلي الليل القائم بالليل أشدّ وطئا: طمأنينة أفرغ له قلبا، وذلك أنه لا يَعْرِضُ له حوائج ولا شيء.
+
+⁕ حُدثت عن الحسين، قال: سمعت أبا معاذ يقول: ثنا عبيد، قال: سمعت الضحاك يقول في قوله: ﴿هِيَ أَشَدُّ وَطْئًا﴾ يقول: قراءة القرآن بالليل أثبت منه بالنهار، وأشدّ مواطأة بالليل منه بالنهار.
+
+وأما الذين قرءوا ﴿وِطاءً﴾ بكسر الواو ومدّ الألف، فقد ذكرت الذي عَنَوْا بقراءتهم ذلك كذلك.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا ابن بشار، قال: ثنا عبد الرحمن، قال: ثنا سفيان، عن منصور عن مجاهد ﴿أَشَدُّ وَطْئًا﴾ قال: أن تُوَاطئ قلبك وسمعك وبصرك.
+
+⁕ حدثنا ابن حميد، قال: ثنا مهران، عن سفيان، عن منصور، عن مجاهد ﴿إِنَّ نَاشِئَةَ اللَّيْلِ هِيَ أَشَدُّ وَطْئًا﴾ قال: تواطئ سمعك وبصرك وقلبك.
+
+⁕ حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى؛ وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء، جميعًا عن ابن أبي نجيح، عن مجاهد، قوله: ﴿أَشَدُّ وَطْئًا﴾ قال: مُوَاطأة للقول، وفراغا للقلب.
+
+⁕ حدثني يعقوب، قال: ثنا ابن علية، قال: سمعت ابن أبي نجيح يقول في قوله: ﴿إِنَّ نَاشِئَةَ اللَّيْلِ هِيَ أَشَدُّ وَطْئًا وَأَقْوَمُ قِيلا﴾ قال: أجدر أن تواطئ لك سمعك، أن تواطئ لك بصرك.
+
+⁕ حدثنا ابن حميد، قال: ثنا وكيع، عن سفيان، عن منصور، عن مجاهد ﴿أَشَدُّ وَطْئًا﴾ قال: أجدر أن تواطئ سمعك وقلبك.
+
+⁕ حدثنا ابن حميد، قال: ثنا جرير، عن منصور، عن مجاهد في قوله: ﴿إِنَّ نَاشِئَةَ اللَّيْلِ هِيَ أَشَدُّ وَطْئًا وَأَقْوَمُ قِيلا﴾ قال: يواطئ سَمْعُك وبصرك وقلبك بعضه بعضا.
+
+* *
+
+وقوله: ﴿وَأَقْوَمُ قِيلا﴾
+
+يقول: وأصوب قراءة.
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثني يحيى بن داود الواسطي، قال: ثنا أبو أُسامة، عن الأعمش، قال: قرأ أنس هذه الآية ﴿إنَّ ناشِئَةَ اللَّيْلِ هِيَ أشَدُّ وَطْئًا وأصْوَبُ قِيلا﴾ ، فقال له بعض القوم: يا أبا حمزة إنما هي ﴿وَأَقْوَمُ قِيلا﴾ قال: أقوم وأصوب وأهيأ واحد.
+
+⁕ حدثني موسى بن عبد الرحمن المسروقي، قال: ثنا عبد الحميد الحماني، عن الأعمش قال: قرأ أنس ﴿وَأَقْوَمُ قِيلا﴾ وأصوب قيلا؛ قيل له: يا أبا حمزة إنما هي ﴿وَأَقْوَمُ﴾ قال أنس: أصوب وأقوم وأهيأ واحد.
+
+⁕ حدثنا ابن بشار، قال: ثنا عبد الرحمن، قال: ثنا سفيان، عن منصور، عن مجاهد، مثله.
+
+⁕ حدثنا أبو كريب، قال: ثنا وكيع، عن سفيان، عن منصور، عن مجاهد، مثله.
+
+⁕ حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس، قوله: ﴿وَأَقْوَمُ قِيلا﴾ يقول: أدنى من أن تفقهوا القرآن.
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة ﴿وَأَقْوَمُ قِيلا﴾ : أحفظ للقراءة.
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال، قال ابن زيد، في قوله: ﴿وَأَقْوَمُ قِيلا﴾ قال: أقوم قراءة لفراغه من الدنيا.
+
+* *
+
+قوله: ﴿إِنَّ لَكَ فِي اَلنَّهَارِ سَبْحًا طَوِيلا﴾
+
+يقول تعالى ذكره لنبيه محمد ﷺ: إن لك يا محمد في النهار فراغا طويلا تتسع به، وتتقلَّب فيه.
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس ﴿سَبْحًا طَوِيلا﴾ فراغا طويلا يعني النوم.
+
+⁕ حدثنا ابن بشار، قال: ثنا مؤمل، قال: ثنا سفيان، عن منصور، عن مجاهد، قوله: ﴿إِنَّ لَكَ فِي اَلنَّهَارِ سَبْحًا طَوِيلا﴾ قال: متاعا طويلا.
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، في قوله: ﴿سَبْحًا طَوِيلا﴾ قال: فراغا طويلا.
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال، قال ابن زيد، في قوله: ﴿إِنَّ لَكَ فِي اَلنَّهَارِ سَبْحًا طَوِيلا﴾ قال: لحوائجك، فافُرغ لدينك الليل، قالوا: وهذا حين كانت صلاة الليل فريضة، ثم إن الله منّ على العباد فخفَّفها ووضعها، وقرأ: ﴿قُمِ اللَّيْلَ إِلا قَلِيلا﴾ ... إلى آخر الآية، ثم قال: ﴿إِنَّ رَبَّكَ يَعْلَمُ أَنَّكَ تَقُومُ أَدْنَى مِنْ ثُلُثَيِ اللَّيْلِ﴾ حتى بلغ قوله: ﴿فَاقْرَءُوا مَا تَيَسَّرَ مِنْهُ﴾ الليل نصفه أو ثلثه، ثم جاء أمر أوسع وأفسح، وضع الفريضة عنه وعن أمته، فقال: ﴿وَمِنَ اللَّيْلِ فَتَهَجَّدْ بِهِ نَافِلَةً لَكَ عَسَى أَنْ يَبْعَثَكَ رَبُّكَ مَقَامًا مَحْمُودًا﴾ .
+
+⁕ حُدثت عن الحسين، قال: سمعت أبا معاذ يقول في قوله: ﴿إِنَّ لَكَ فِي اَلنَّهَارِ سَبْحًا طَوِيلا﴾ فراغا طويلا. وكان يحيى بن يعمر يقرأ ذلك بالخاء.
+
+⁕ حدثنا ابن حميد، قال: ثنا يحيى بن واضح، قال: ثنا عبد المؤمن، عن غالب الليثي، عن يحيى بن يعمر "من جذيلة قيس" أنه كان يقرأ ﴿سَبْخًا طَوِيلا﴾ قال: وهو النوم.
+
+قال أبو جعفر: والتسبيخ: توسيع القطن والصوف وتنفيشه، يقال للمرأة: سبخي قطنك: أي نفشيه ووسعيه؛ ومنه قول الأخطل:
+
+فأرْسَلُوهُنَّ يُذْرِينَ التَرَابَ كَمَا يُذْرِي سَبائخَ قُطْنٍ نَدْفُ أوْتارُ [[البيت للأخطل يذكر الكلاب (اللسان: سبخ) قال: التسبيخ: التخفيف. ويقال: "اللهم سبخ عني الحمى" أي: خففها وسهلها، ولهذا قيل لقطع القطن إذا ندف: سبائخ، ومنه قول الأخطل يذكر الكلاب: "فأرسلوهن.." البيت. وقال الفراء في معاني القرآن (الورقة ٣٤٦) وقوله: (إن لك في النهار سبحا طويلا) يقول: لك في النهار ما تقضي حوائجك. وقد قرأ بعضهم: سبخا، بالخاء، والتسبيخ: توسعة الصوف والقطن وما أشبهه، يقال: سبخي قطنك. قال أبو العباس (ثعلب) : سمعت أبا عبد الله (ابن الأعرابي) يقول: حضر أبو زياد الكلابي مجلس الفراء في هذا اليوم، فسأله الفراء عن هذا الحرف، فقال: أهل باديتنا يقولون: اللهم سبخ عنه للمريض والملسوع ونحوه.]]
+
+وإنما عني بقوله: ﴿إِنَّ لَكَ فِي اَلنَّهَارِ سَبْحًا طَوِيلا﴾ : إن لك في النهار سعة لقضاء حوائجك وقومك. والسبح والسبخ قريبا المعنى في هذا الموضع.
 
 ### al-Muyassar (Arabic)
 
-إن العبادة التي تنشأ في جوف الليل هي أشد تأثيرًا في القلب، وأبين قولا لفراغ القلب مِن مشاغل الدنيا.
+إن العبادة التي تنشأ في جوف الليل هي أشد تأثيرًا في القلب، وأبين قولًا؛ لفراغ القلب مِن مشاغل الدنيا.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿إنّ ناشِئَة اللَّيْل﴾ القِيام بَعْد النَّوْم ﴿هِيَ أشَدّ وطْئًا﴾ مُوافَقَة السَّمْع لِلْقَلْبِ عَلى تَفَهُّم القُرْآن ﴿وأَقْوَم قِيلًا﴾ أبْيَن قَوْلًا
 
 ---

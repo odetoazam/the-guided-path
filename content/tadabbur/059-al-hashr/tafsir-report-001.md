@@ -1,6 +1,6 @@
 # Tafsir Cross-Reference Report
 
-Generated: 2026-07-15
+Generated: 2026-07-30
 Ayahs referenced: 1
 Tafsir sources: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), al-Jalalayn (Arabic)
 
@@ -12,7 +12,81 @@ Tafsir sources: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), 
 
 Ibn 'Abbas used to call this chapter, 'Surah Bani An-Nadir.' Sa'id bin Mansur recorded that Sa'id bin Jubayr said, "I asked Ibn 'Abbas about Surat Al-Hashr and he said, 'It was revealed about Bani An-Nadir.'" Al-Bukhari and Muslim recorded it using another chain of narration from Ibn 'Abbas. Al-Bukhari also recorded it from Abu 'Awanah, from Abu Bishr from Sa'id bin Jubayr, who said, "I asked Ibn 'Abbas, 'Surat Al-Hashr?' He said, 'Surah Bani An-Nadir.'"
 
-بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيم...
+بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
+
+In the Name of Allah, the Most Gracious, the Most Merciful.
+
+سَبَّحَ لِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۖ وَهُوَ الْعَزِيزُ الْحَكِيمُ - هُوَ الَّذِي أَخْرَجَ الَّذِينَ كَفَرُوا مِنْ أَهْلِ الْكِتَابِ مِنْ دِيَارِهِمْ لِأَوَّلِ الْحَشْرِ ۚ مَا ظَنَنْتُمْ أَنْ يَخْرُجُوا ۖ وَظَنُّوا أَنَّهُمْ مَانِعَتُهُمْ حُصُونُهُمْ مِنَ اللَّهِ فَأَتَاهُمُ اللَّهُ مِنْ حَيْثُ لَمْ يَحْتَسِبُوا ۖ وَقَذَفَ فِي قُلُوبِهِمُ الرُّعْبَ ۚ يُخْرِبُونَ بُيُوتَهُمْ بِأَيْدِيهِمْ وَأَيْدِي الْمُؤْمِنِينَ فَاعْتَبِرُوا يَا أُولِي الْأَبْصَارِ - وَلَوْلَا أَنْ كَتَبَ اللَّهُ عَلَيْهِمُ الْجَلَاءَ لَعَذَّبَهُمْ فِي الدُّنْيَا ۖ وَلَهُمْ فِي الْآخِرَةِ عَذَابُ النَّارِ - ذَٰلِكَ بِأَنَّهُمْ شَاقُّوا اللَّهَ وَرَسُولَهُ ۖ وَمَنْ يُشَاقِّ اللَّهَ فَإِنَّ اللَّهَ شَدِيدُ الْعِقَابِ - مَا قَطَعْتُمْ مِنْ لِينَةٍ أَوْ تَرَكْتُمُوهَا قَائِمَةً عَلَىٰ أُصُولِهَا فَبِإِذْنِ اللَّهِ وَلِيُخْزِيَ الْفَاسِقِينَ
+
+(1. Whatsoever is in the heavens and whatsoever is on the earth glorifies Allah. And He is the Almighty, the All-Wise.)(2. He it is Who drove out the disbelievers among the People of the Scripture from their homes at the first gathering. You did not think that they would get out. And they thought that their fortresses would defend them from Allah! But Allah reached them from a place whereof they expected it not, and He cast terror into their hearts so that they demolished their own dwellings with their own hands and the hands of the believers. Then take admonition, O you with eyes.)(3. And had it not been that Allah had decreed exile for them, He would certainly have punished them in this world; and in the Hereafter theirs shall be the torment of the Fire.)(4. That is because they opposed Allah and His Messenger. And whosoever opposes Allah, then verily, Allah is Severe in punishment.)(5. What you cut down of the Linah, or you left them standing on their stems, it was by leave of Allah, and in order that He might disgrace the rebellious.)
+
+Everything glorifies Allah in its own Way
+
+Allah states that everything that exists in the heavens and on the earth praises, glorifies, reveres and prays to Him and affirms His Oneness. Allah said in another Ayah,
+
+تُسَبِّحُ لَهُ السَّمَاوَاتُ السَّبْعُ وَالْأَرْضُ وَمَنْ فِيهِنَّ ۚ وَإِنْ مِنْ شَيْءٍ إِلَّا يُسَبِّحُ بِحَمْدِهِ وَلَٰكِنْ لَا تَفْقَهُونَ تَسْبِيحَهُمْ ۗ
+
+(The seven heavens and the earth and all that is therein, glorify Him and there is not a thing but glorifies His praise. But you understand not their glorification.)(17:44) Allah's statement,
+
+وَهُوَ الْعَزِيزُ
+
+(And He is the Almighty) meaning of invincible majesty,
+
+الْحَكِيمُ
+
+(the All-Wise.) in what He decrees and legislates.
+
+The End that Bani An-Nadir suffered
+
+Allah said,
+
+هُوَ الَّذِي أَخْرَجَ الَّذِينَ كَفَرُوا مِنْ أَهْلِ الْكِتَابِ
+
+(He it is Who drove out the disbelievers among the People of the Scripture) referring to the Jewish tribe of Bani An-Nadir, according to Ibn 'Abbas, Mujahid, Az-Zuhri and several others.
+
+When the Messenger of Allah ﷺ migrated to Al-Madinah, he made a peace treaty with the Jews stipulating that he would not fight them and they would not fight him. They soon betrayed the treaty that they made with Allah's Messenger ﷺ. Therefore, Allah sent His torment down on them; it can never be averted, and His appointed destiny touched them; it can never be resisted. The Prophet ﷺ forced them to evacuate and abandon their fortified forts that Muslims did not think they would ever control. The Jews thought that their fortifications will save them from Allah's torment, but they did not help them against Allah in the least. Then, that which they did not expect came to them from Allah, and Allah's Messenger ﷺ forced them to leave Al-Madinah. Some of them went to Adhri'at in the area of Ash-Sham, which is the area of the grand Gathering and Resurrection, while others went to Khaybar. The Prophet ﷺ allowed them to evacuate their forts and take whatever their camels could carry. They destroyed the property that they could not carry. This is why Allah the Exalted said,
+
+يُخْرِبُونَ بُيُوتَهُمْ بِأَيْدِيهِمْ وَأَيْدِي الْمُؤْمِنِينَ فَاعْتَبِرُوا يَا أُولِي الْأَبْصَارِ
+
+(they demolished their own dwellings with their own hands and the hands of the believers Then take admonition, O you with eyes.) meaning, "Contemplate the end of those who defied Allah's command, contradicted His Messenger and denied His Book. See how Allah's humiliating torment struck them in this life, as well as, the painful torment that Allah has reserved for them in the Hereafter."
+
+Abu Dawud recorded that 'Abdur-Rahman bin Ka'b bin Malik said that one of the Prophet's Companions said, "The Quraysh idolators wrote to 'Abdullah bin Ubayy and those who were still worshipping idols among the tribes of Al-Aws and Al-Khazraj. The Messenger of Allah ﷺ was in Al-Madinah at the time, before the battle of Badr occurred. They wrote: 'You have given refuge to our citizen. We swear by Allah, you should fight him, or we will expel you or gather all our forces, until we kill your soldiers and take your women captive.'
+
+When the news of this threat reached 'Abdullah bin Ubayy and the idolators of Al-Aws and Al-Khazraj, they prepared to fight the Prophet ﷺ. The news of this reached the Prophet ﷺ and he went to them saying,
+
+لَقَدْ بَلَغَ وَعِيدُ قُرَيْشٍ مِنْكُمُ الْمَبَالِغَ، مَا كَانَتْ تَكِيدُكُمْ بِأَكْثَرَ مِمَّا تُرِيدُ أَن تَكِيدُوا بِهِ أَنْفُسَكُمْ، تُرِيدُونَ أَنْ تُقَاتِلُوا أَبْنَاءَكُمْ وَإِخْوَانَكُمْ
+
+(The threat of the Quraysh has caused you extreme anxiety! The Quraysh cannot cause you more harm than what you will cause yourselves by your actions. Do you want to fight your children and brethren?)
+
+When they heard these words from the Prophet ﷺ, they dispersed and the news of what happened reached the Quraysh idolators. After the battle of Badr, the Quraysh idolators wrote to the Jews of Al-Madinah, 'You have armor and forts! You should fight our citizen or we will do such and such to you, and nothing will prevent us from acquiring your women.'
+
+The news of this letter also reached the Prophet ﷺ and Bani An-Nadir intended to betray their treaty. Bani An-Nadir sent a message to the Prophet ﷺ asking him to come with thirty of his Companions to meet thirty of their rabbis half way, from either side. They said that the rabbis would listen to the Prophet ﷺ and if they believe in him, the rest of Bani An-Nadir would believe. They intended to kill the Messenger ﷺ, and Allah informed His Messenger ﷺ of this plot before they could harm him. The next day, the Prophet ﷺ gathered his forces and laid siege to their area, saying to them,
+
+إِنَّكُمْ وَاللهِ لَا تَأْمَنُونَ عِنْدِي إِلَّا بِعَهْدٍ تُعَاهِدُونَنِي عَلَيْهِ
+
+(By Allah ! You will not be safe until and unless you renew your peace treaty with me.) They refused to do so, and the Prophet ﷺ fought them the rest of that day. The next morning, the Prophet ﷺ laid siege to the tribe of Bani Qurayzah and left Bani An-Nadir alone that day. The Prophet ordered Bani Qurayzah to sign a new treaty of peace, and they accepted. The Prophet ﷺ left Bani Qurayzah and went back to Bani An-Nadir with his forces and fought them until they agreed to surrender in return for safe passage out of Al-Madinah. Bani An-Nadir evacuated Al-Madinah and took with them all whatever their camels could carry from their furniture, including even the wood and the doors to their houses. The date trees of Bani An-Nadir were granted to the Messenger by Allah ﷺ when He said,
+
+وَمَا أَفَاءَ اللَّهُ عَلَىٰ رَسُولِهِ مِنْهُمْ فَمَا أَوْجَفْتُمْ عَلَيْهِ مِنْ خَيْلٍ وَلَا رِكَابٍ
+
+(And what Allah gave as booty to His Messenger from them – for this you made no expedition with either cavalry or camelry)(59:6) that is, what you earned without a fight. The Prophet ﷺ divided most of their trees between the emigrants and gave to only two men who were poor from Al-Ansar. He did not give the Ansar any of it, except for these two men. The Prophet ﷺ kept a part of the war booty for himself and that part of charity of the Prophet ﷺ was transferred to the administration of his daughter's children, i.e., children of Fatimah." However, let us summarize the battle of Bani An-Nadir here. From Allah alone we seek help.
+
+The Reason behind the Battle of Bani An-Nadir
+
+After the seventy Companions whom the Prophet ﷺ sent to teach the Qur'an were killed at the area of Bi'r Ma'unah, excluding 'Amr bin Umayyah Ad-Damri, who killed two men from the tribe of Bani 'Amir on his way back to Al-Madinah. He did not know that these two men had a promise of safe passage from Allah's Messenger ﷺ. When he went back to Al-Madinah, he told the Prophet ﷺ what happened and the Prophet ﷺ said,
+
+لَقَدْ قَتَلْتَ رَجُلَيْنِ لَأَدِيَنَّهُمَا
+
+(You have killed two men, I shall pay the blood money for them.)
+
+Bani An-Nadir and Bani 'Amir were allies and had treaties. The Prophet ﷺ asked Bani An-Nadir to help pay the blood money for the two dead men. The area of Bani An-Nadir was in a suburb of Al-Madinah, a few miles to the east.
+
+In his book of Sirah, Muhammad bin Ishaq bin Yasar said; "Then the Messenger of Allah ﷺ went to Bani An-Nadir to ask them for financial help to pay the blood money of the two men from Bani 'Amir, who were killed by 'Amr bin Umayyah Ad-Damri. They had a promise of safe passage from the Prophet ﷺ according to the (subnarrator) Yazid bin Ruman. Bani An-Nadir and Bani 'Amir had a treaty and were allies. When Allah's Messenger ﷺ went to Bani An-Nadir asking them for help to pay the blood money for the two men, they said, 'Yes, O Abu Al-Qasim! We will help you, since you asked us for help.' Yet, when they met each other in secret, they said, 'You will not find a better chance with this man than this,' while the Messenger of Allah ﷺ was sitting next to a wall of one of their houses. They said, 'Who will ascend this wall and drop a stone on this man and rid us of his trouble?' 'Amr bin Jihash bin Ka'b volunteered and ascended the wall of the house to drop a stone on the Messenger ﷺ. The Messenger of Allah ﷺ was sitting with several of his Companions, such as Abu Bakr, 'Umar and 'Ali. The news of this plot was conveyed to the Prophet ﷺ from heaven, and he stood up and went back to Al-Madinah.
+
+When the Companions thought that the Messenger ﷺ was absent for a long time, they went to see where he was and saw a man coming from Al-Madinah. They asked him, and he said that he saw the Prophet ﷺ enter Al-Madinah. The Messenger's Companions went to him, and he told them the news of the betraying plot that the Jews planned against him. He ordered them to prepare for war and to march forth to Bani An-Nadir. The Prophet ﷺ gathered his forces and marched to the area of Bani An-Nadir, who had taken refuge in their fortified forts. The Messenger ﷺ ordered their date trees be cut down and burned. The Jews heralded at the Prophet, 'O Muhammad! You used to forbid mischief in the earth and blame those who did it. Why is it that you had the date trees cut down and burned?'
+
+Meanwhile, 'Abdullah bin Ubayy bin Salul, Wadi'ah, Malik bin Abi Qawqal, Suwayd, Da'is and several other men who all belonged to the tribe of Al-Khazraj bin Bani 'Awf, sent a message to Bani An-Nadir saying, 'Be firm and strong. We will never abandon you. If you are fought against, we will fight along with you and if you are forced to leave Al-Madinah, we will accompany you.' The Jews waited for this claim of support, but the hypocrites did not deliver. Allah cast terror in the hea
+
+[TRUNCATED at 12000 chars — 9152 more. Consult the source directly before relying on anything near the cut.]
 
 ### al-Tabari (Arabic)
 
@@ -22,7 +96,95 @@ Ibn 'Abbas used to call this chapter, 'Surah Bani An-Nadir.' Sa'id bin Mansur re
 
 * *
 
-القول في تأويل قوله تعالى: ﴿هُوَ الَّذِي أَخْرَجَ الَّذِينَ كَفَرُوا مِنْ أَهْلِ الْكِتَابِ مِنْ دِيَارِهِمْ لأوَّلِ الْحَشْرِ مَا ظَنَنْتُمْ أَ...
+القول في تأويل قوله تعالى: ﴿هُوَ الَّذِي أَخْرَجَ الَّذِينَ كَفَرُوا مِنْ أَهْلِ الْكِتَابِ مِنْ دِيَارِهِمْ لأوَّلِ الْحَشْرِ مَا ظَنَنْتُمْ أَنْ يَخْرُجُوا وَظَنُّوا أَنَّهُمْ مَانِعَتُهُمْ حُصُونُهُمْ مِنَ اللَّهِ فَأَتَاهُمُ اللَّهُ مِنْ حَيْثُ لَمْ يَحْتَسِبُوا وَقَذَفَ فِي قُلُوبِهِمُ الرُّعْبَ يُخْرِبُونَ بُيُوتَهُمْ بِأَيْدِيهِمْ وَأَيْدِي الْمُؤْمِنِينَ فَاعْتَبِرُوا يَا أُولِي الأبْصَارِ (٢) ﴾
+
+يعني تعالى ذكره بقوله: ﴿هُوَ الَّذِي أَخْرَجَ الَّذِينَ كَفَرُوا مِنْ أَهْلِ الْكِتَابِ مِنْ دِيَارِهِمْ لأوَّلِ الْحَشْرِ﴾ : الله الذي أخرج الذين جحدوا نبوّة محمد ﷺ من أهل الكتاب، وهم يهود بني النضير من ديارهم، وذلك خروجهم عن منازلهم ودورهم،. حين صالحوا رسول الله ﷺ على أن يؤمنهم على دمائهم ونسائهم وذراريهم، وعلى أن لهم ما أقلت الإبل من أموالهم، ويخلو له دورهم، وسائر أموالهم، فأجابهم رسول الله ﷺ إلى ذلك، فخرجوا من ديارهم، فمنهم من خرج إلى الشام، ومنهم من خرج إلى خيبر، فذلك قول الله عزّ وجلّ ﴿هُوَ الَّذِي أَخْرَجَ الَّذِينَ كَفَرُوا مِنْ أَهْلِ الْكِتَابِ مِنْ دِيَارِهِمْ لأوَّلِ الْحَشْرِ﴾ .
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى؛ وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء جميعًا عن ابن أَبي نجيح، عن مجاهد، في قول الله عزّ وجلّ: ﴿هُوَ الَّذِي أَخْرَجَ الَّذِينَ كَفَرُوا مِنْ أَهْلِ الْكِتَابِ مِنْ دِيَارِهِمْ لأوَّلِ الْحَشْرِ﴾ قال: النضير حتى قوله: ﴿وَلِيُخْزِيَ الْفَاسِقِينَ﴾ .
+
+ذكر ما بين ذلك كله فيهم:
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة ﴿هُوَ الَّذِي أَخْرَجَ الَّذِينَ كَفَرُوا مِنْ أَهْلِ الْكِتَابِ مِنْ دِيَارِهِمْ لأوَّلِ الْحَشْرِ﴾ قيل: الشام، وهم بنو النضير حيّ من اليهود، فأجلاهم نبيّ الله ﷺ من المدينة إلى خيبر، مرجعه من أحد.
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن الزهري ﴿مِنْ دِيَارِهِمْ لأوَّلِ الْحَشْرِ﴾ قال: هم بنو النضير قاتلهم النبي ﷺ حتى صالحهم على الجلاء، فأجلاهم إلى الشام، وعلى أن لهم ما أقلت الإبل من شيء إلا الحلقة، والحلقة: السلاح، كانوا من سبط لم يصبهم جلاء فيما مضى، وكان الله عزّ وجلّ قد كتب عليهم الجلاء، ولولا ذلك عذبهم في الدنيا بالقتل والسباء.
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال، قال ابن زيد، في قوله: ﴿هُوَ الَّذِي أَخْرَجَ الَّذِينَ كَفَرُوا مِنْ أَهْلِ الْكِتَابِ مِنْ دِيَارِهِمْ لأوَّلِ الْحَشْرِ﴾ قال: هؤلاء النضير حين أجلاهم رسول الله ﷺ.
+
+⁕ حدثنا ابن حميد، قال: ثنا سلمة بن الفضل، قال: ثنا ابن إسحاق، عن يزيد بن رومان، قال: نزلت في بني النضير سورة الحشر بأسرها، يذكر فيها ما أصابهم الله عزّ وجل به من نقمته، وما سلط عليهم به رسول الله ﷺ وما عمل به فيهم، فقال: ﴿هُوَ الَّذِي أَخْرَجَ الَّذِينَ كَفَرُوا مِنْ أَهْلِ الْكِتَابِ مِنْ دِيَارِهِمْ لأوَّلِ الْحَشْرِ﴾ ... الآيات.
+
+* *
+
+وقوله: ﴿لأوَّلِ الْحَشْرِ﴾
+
+يقول تعالى ذكره: لأوّل الجمع في الدنيا، وذلك حشرهم إلى أرض الشام.
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن الزهري، قوله: ﴿لأوَّلِ الْحَشْرِ﴾ قال: "كان جلاءوهم أوّل الحشر في الدنيا إلى الشام".
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة: "تجيء نار من مَشرِق الأرض، تَحْشُر الناس إلى مغاربها، فتبيت معهم حيث باتُوا، تَقِيل معهم حيث قالوا، وتأكل من تَخَلَّف".
+
+⁕ حدثنا ابن بشار، قال: ثنا ابن أَبي عديّ، عن عوف، عن الحسن، قال: بلغني أن رسول الله ﷺ لما أجلى بني النضير، قال: "امْضوا فهذا أوَّل الْحَشْرِ، وإنَّا على الأثَرِ".
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال، قال ابن زيد، في قوله: ﴿لأوَّلِ الْحَشْرِ﴾ قال: الشام حين ردهم إلى الشام، وقرأ قول الله عزّ وجلّ: ﴿يَاأَيُّهَا الَّذِينَ أُوتُوا الْكِتَابَ آمِنُوا بِمَا نزلْنَا مُصَدِّقًا لِمَا مَعَكُمْ مِنْ قَبْلِ أَنْ نَطْمِسَ وُجُوهًا فَنَرُدَّهَا عَلَى أَدْبَارِهَا﴾ قال: من حيث جاءت، أدبارها أن رجعت إلى الشام، من حيث جاءت ردّوا إليه.
+
+* *
+
+وقوله: ﴿مَا ظَنَنْتُمْ أَنْ يَخْرُجُوا﴾
+
+، يقول تعالى ذكره للمؤمنين من أصحاب رسول الله ﷺ: ما ظننتم أن يخرج هؤلاء الذين أخرجهم الله من ديارهم من أهل الكتاب من مساكنهم ومنازلهم، ﴿وَظَنُّوا أَنَّهُمْ مَانِعَتُهُمْ حُصُونُهُمْ مِنَ اللَّهِ﴾ ، وإنما ظن القوم فيما ذكر أن عبد الله بن أَبي، وجماعة من المنافقين بعثوا إليهم لما حصرهم رسول الله ﷺ يأمرونهم بالثبات في حصونهم، ويعدونهم النصر.
+
+كما:-
+
+⁕ حدثنا ابن حُميد، قال: ثنا سلمة، عن ابن إسحاق، عن يزيد بن رومان، أن رهطًا من بني عوف بن الخزرج، منهم عبد الله بن أُبيّ بن سلول، ووديعة ومالك، ابنا نوفل، وسويد وداعس، بعثوا إلى بني النضير أن اثبتوا وتمنَّعوا، فإنا لن نسلمكم، وإن قوتلتم قاتلنا معكم، وإن خرجتم خرجنا معكم، فتربصوا لذلك من نصرهم، فلم يفعلوا، وكانوا قد تحصنوا في الحصون من رسول الله ﷺ حين نزل بهم.
+
+* *
+
+وقوله: ﴿فَأَتَاهُمُ اللَّهُ مِنْ حَيْثُ لَمْ يَحْتَسِبُوا﴾
+
+يقول تعالى ذكره: فأتاهم أمر الله من حيث لم يحتسبوا أنه يأتيهم، وذلك الأمر الذي أتاهم من الله حيث لم يحتسبوا، قذف في قلوبهم الرعب بنزول رسول الله ﷺ بهم في أصحابه، يقول جلّ ثناؤه: ﴿وَقَذَفَ فِي قُلُوبِهِمُ الرُّعْبَ﴾ .
+
+* *
+
+وقوله: ﴿يُخْرِبُونَ بُيُوتَهُمْ بِأَيْدِيهِمْ وَأَيْدِي الْمُؤْمِنِينَ﴾
+
+يعني جلّ ثناؤه بقوله: ﴿يُخْرِبُونَ بُيُوتَهُمْ﴾ بني النضير من اليهود، وأنهم يخربون مساكنهم، وذلك أنهم كانوا ينظرون إلى الخشبة فيما ذُكر في منازلهم مما يستحسنونه، أو العمود أو الباب، فينزعون ذلك منها بأيديهم وأيدي المؤمنين.
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: ﴿يُخْرِبُونَ بُيُوتَهُمْ بِأَيْدِيهِمْ وَأَيْدِي الْمُؤْمِنِينَ﴾ جعلوا يخربونها من أجوافها، وجعل المؤمنون يخربون من ظاهرها.
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن الزُّهريّ، قال: لما صالحوا النبي ﷺ كانوا لا يعجبهم خشبة إلا أخذوها، فكان ذلك خرابها. وقال قتادة: كان المسلمون يخربون ما يليهم من ظاهرها، وتخربها اليهود من داخلها.
+
+⁕ حدثنا ابن حُميد، قال: ثنا سلمة، عن ابن إسحاق، عن يزيد بن رومان، قال: احتملوا من أموالهم، يعني بني النضير، ما استقلت به الإبل، فكان الرجل منهم يهدم بيته عن نجاف بابه، فيضعه على ظهر بعيره فينطلق به، قال: فذلك قوله: ﴿يُخْرِبُونَ بُيُوتَهُمْ بِأَيْدِيهِمْ وَأَيْدِي الْمُؤْمِنِينَ﴾ وذلك هدمهم بيوتهم عن نجف أبوابهم إذا احتملوها.
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال، قال ابن زيد، في قول الله عزّ وجلّ: ﴿يُخْرِبُونَ بُيُوتَهُمْ بِأَيْدِيهِمْ وَأَيْدِي الْمُؤْمِنِينَ﴾ قال: هؤلاء النضير، صالحهم النبيّ ﷺ على ما حملت الإبل، فجعلوا يقلعون الأوتاد يخربون بيوتهم.
+
+وقال آخرون: إنما قيل ذلك كذلك، لأنهم كانوا يخربون بيوتهم ليبنوا بنقضها ما هدم المسلمون من حصونهم.
+
+ذكر من قال ذلك:
+
+⁕ حدثني محمد بن سعد، قال: ثني أَبي، قال: ثني عمي، قال: ثني أَبي، عن أبيه، عن ابن عباس، قوله: ﴿يُخْرِبُونَ بُيُوتَهُمْ بِأَيْدِيهِمْ وَأَيْدِي الْمُؤْمِنِينَ فَاعْتَبِرُوا يَا أُولِي الأبْصَارِ﴾ قال: يعني بني النضير، جعل المسلمون كلما هدموا شيئًا من حصونهم جعلوا ينقضون بيوتهم ويخربونها، ثم يبنون ما يخرب المسلمون، فذلك هلاكهم.
+
+⁕ حُدثت عن الحسين، قال: سمعت أبا معاذ يقول: أخبرنا عبيد، قال: سمعت الضحاك يقول في قوله: ﴿يُخْرِبُونَ بُيُوتَهُمْ بِأَيْدِيهِمْ وَأَيْدِي الْمُؤْمِنِينَ﴾ يعني: أهل النضير، جعل المسلمون كلما هدموا من حصنهم جعلوا ينقضون بيوتهم بأيديهم وأيدي المؤمنين، ثم يبنون ما خرّب المسلمون.
+
+واختلفت القرّاء في قراءة ذلك، فقرأته عامة قرّاء الحجاز والمدينة والعراق سوى أَبي عمرو: ﴿يُخْرِبُونَ﴾ بتخفيف الراء، بمعنى يخرجون منها ويتركونها معطلة خرابًا، وكان أبو عمرو يقرأ ذلك ﴿يخرّبون﴾ بالتشديد في الراء، بمعنى يهدّمون بيوتهم. وقد ذكر عن أَبي عبد الرحمن السلمي والحسن البصري أنهما كانا يقرآن ذلك نحو قراءة أَبي عمرو. وكان أبو عمرو فيما ذكر عنه يزعم أنه إنما اختار التشديد في الراء لما ذكرت من أن الإخراب: إنما هو ترك ذلك خرابًا بغير ساكن، وإن بني النضير لم يتركوا منازلهم، فيرتحلوا عنها، ولكنهم خرّبوها بالنقض والهدم، وذلك لا يكون فيما قال إلا بالتشديد.
+
+وأولى القراءتين في ذلك بالصواب عندي قراءة من قرأه بالتخفيف، لإجماع الحجة من القرّاء عليه. وقد كان بعض أهل المعرفة بكلام العرب يقول: التخريب والإخراب بمعنى واحد، وإنما ذلك في اختلاف اللفظ لا اختلاف في المعنى.
+
+* *
+
+وقوله: ﴿فَاعْتَبِرُوا يَاأُولِي الأبْصَارِ﴾
+
+يقول تعالى ذكره: فاتعظوا يا معشر ذوي الأفهام بما أحلّ الله بهؤلاء اليهود الذين قذف الله في قلوبهم الرعب، وهم في حصونهم من نقمته، واعلموا أن الله وليّ من والاه، وناصر رسوله على كلّ من ناوأه، ومحلّ من نقمته به نظيرَ الذي أحلّ ببني النضير. وإنما عنى بالأبصار في هذا الموضع أبصار القلوب، وذلك أن الاعتبار بها يكون دون الإبصار بالعيون.
 
 ### al-Muyassar (Arabic)
 
@@ -36,7 +198,13 @@ Ibn 'Abbas used to call this chapter, 'Surah Bani An-Nadir.' Sa'id bin Mansur re
 
 • تعظيم قدر أصحاب رسول الله ﷺ، والتنويهُ بفضائل المهاجرين والأنصار، وبمن جاء بعدَهم من المؤمنين الصادقين المحبِّين لهم.
 
-• ذكر جملةٍ من صفا...
+• ذكر جملةٍ من صفات المنافقين، وكشفُ سوء نياتهم، وبيانُ التشابه بين تغرير المنافقين باليهود بنصرتهم بتغرير الشيطان بالذين كفروا، فكان عاقبةُ الجميع الخلودَ في النار.
+
+• وعظ المؤمنين بأمرهم بالتقوى والتذكير بيوم القيامة، وبيانُ التفاوت بين أهل الجنة وأهل النار، والتنويهُ بعظَمة القرآن وجلاله، والختمُ بذكر جملةٍ من أسماء الله الحسنى، الدالة على عظمة الله وكماله وتنزُّهه عن كلِّ نقصٍ.
+
+[التفسير]
+
+نزَّه اللهَ عن كل ما لا يليق به كلُّ ما في السموات وما في الأرض، وهو العزيز الذي لا يغالَب، الحكيم في قَدَره وتدبيره وصنعه وتشريعه، يضع الأمور في مواضعها.
 
 ### al-Jalalayn (Arabic)
 

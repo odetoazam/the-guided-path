@@ -1,6 +1,6 @@
 # Tafsir Cross-Reference Report
 
-Generated: 2026-04-03
+Generated: 2026-07-30
 Ayahs referenced: 4
 Tafsir sources: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), al-Jalalayn (Arabic)
 
@@ -10,22 +10,261 @@ Tafsir sources: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), 
 
 ### Ibn Kathir (English)
 
+And it is He Who produces gardens Ma'rushat and not Ma'rushat, and date palms, and crops of different shape and taste, and olives, and pomegranates, similar, and different. Eat of their fruit when they ripen, but pay the due thereof on the day of their harvest, and waste not by extravagance. Verily, He likes not the wasteful (141)And of the cattle (are some) for burden and (some smaller) for Farsh. Eat of what Allah has provided for you, and follow not the footsteps of Shaytan. Surely, he is to you an open enemy (142)
+
 Allah Created the Produce, Seed Grains and Cattle
+
 Allah states that He created everything, including the produce, fruits and cattle that the idolators mishandled by their misguided ideas, dividing them into various designated parts, allowing some and prohibiting some. Allah said,
-وَهُوَ الَّذِى أَنشَأَ جَنَّـتٍ مَّعْرُوشَـتٍ وَغَيْرَ مَعْرُوشَـتٍ
-(And it is He Who produces gardens Ma`rushat and not Ma`rushat,) `Ali bin Abi Talhah reported that Ibn `Abbas commented, "Ma`rushat refers to what t...
+
+وَهُوَ الَّذِي أَنشَأَ جَنَّاتٍ مَّعْرُوشَاتٍ وَغَيْرَ مَعْرُوشَاتٍ
+
+(And it is He Who produces gardens Ma'rushat and not Ma'rushat,)
+
+'Ali bin Abi Talhah reported that Ibn 'Abbas commented, "Ma'rushat refers to what the people trellise, while 'not Ma'rushat' refers to fruits (and produce) that grow wild inland and on mountains." 'Ata' Al-Khurasani said that Ibn 'Abbas said, "Ma'rushat are the grapevines that are trellised, while 'not Ma'rushat' refers to grapevines that are not trellised." As-Suddi said similarly. As for these fruits being similar, yet different, Ibn Jurayj said, "They are similar in shape, but different in taste." Muhammad bin Ka'b said that the Ayah,
+
+كُلُوا مِن ثَمَرِهِ إِذَا أَثْمَرَ
+
+(Eat of their fruit when they ripen,) means, "(Eat) from the dates and grapes they produce." Allah said next,
+
+وَآتُوا حَقَّهُ يَوْمَ حَصَادِهِ
+
+(but pay the due thereof on the day of their harvest,) Mujahid commented, "When the poor people are present (on the day of harvest), give them some of the produce." 'Abdur-Razzaq recorded that Mujahid commented on the Ayah,
+
+وَآتُوا حَقَّهُ يَوْمَ حَصَادِهِ
+
+(but pay the due thereof on the day of their harvest.)
+
+"When planting, one gives away handfuls (of seed grains) and on harvest, he gives away handfuls and allows them to pick whatever is left on the ground of the harvest." Ath-Thawri said that Hammad narrated that Ibrahim An-Nakha'i said, "One gives away some of the hay." Ibn Al-Mubarak said that Shurayk said that Salim said that Sa'id bin Jubayr commented;
+
+وَآتُوا حَقَّهُ يَوْمَ حَصَادِهِ
+
+(but pay the due thereof on the day of their harvest,) "This ruling, giving the poor the handfuls (of seed grains) and some of the hay as food for their animals, was before Zakah became obligatory."
+
+Allah has chastised those who harvest, without giving away a part of it as charity. Allah mentioned the story of the owners of the garden in Surat Nun,
+
+إِذْ أَقْسَمُوا لَيَصْرِمُنَّهَا مُصْبِحِينَ - وَلَا يَسْتَثْنُونَ - فَطَافَ عَلَيْهَا طَائِفٌ مِّن رَّبِّكَ وَهُمْ نَائِمُونَ - فَأَصْبَحَتْ كَالصَّرِيمِ - فَتَنَادَوْا مُصْبِحِينَ - أَنِ اغْدُوا عَلَىٰ حَرْثِكُمْ إِن كُنتُمْ صَارِمِينَ - فَانطَلَقُوا وَهُمْ يَتَخَافَتُونَ - أَن لَّا يَدْخُلَنَّهَا الْيَوْمَ عَلَيْكُم مِّسْكِينٌ - وَغَدَوْا عَلَىٰ حَرْدٍ قَادِرِينَ - فَلَمَّا رَأَوْهَا قَالُوا إِنَّا لَضَالُّونَ - بَلْ نَحْنُ مَحْرُومُونَ - قَالَ أَوْسَطُهُمْ أَلَمْ أَقُل لَّكُمْ لَوْلَا تُسَبِّحُونَ - قَالُوا سُبْحَانَ رَبِّنَا إِنَّا كُنَّا ظَالِمِينَ - فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍ يَتَلَاوَمُونَ - قَالُوا يَا وَيْلَنَا إِنَّا كُنَّا طَاغِينَ - عَسَىٰ رَبُّنَا أَن يُبْدِلَنَا خَيْرًا مِّنْهَا إِنَّا إِلَىٰ رَبِّنَا رَاغِبُونَ - كَذَٰلِكَ الْعَذَابُ وَلَعَذَابُ الْآخِرَةِ أَكْبَرُ لَوْ كَانُوا يَعْلَمُونَ
+
+(When they swore to pluck the fruits of the (garden) in the morning. Without saying: "If Allah wills." Then there passed by on the (garden) a visitation (fire) from your Lord at night, burning it while they were asleep. So the (garden) became black by the morning, like a pitch dark night (in complete ruins). Then they called out one to another as soon as the morning broke. Saying: "Go to your tilth in the morning, if you would pluck the fruits." So they departed, conversing in secret low tones (saying). "No poor person shall enter upon you into it today." And they went in the morning with strong intention, thinking that they have power (to prevent the poor taking anything of the fruits therefrom). But when they saw the (garden), they said: "Verily, we have gone astray." (Then they said): "Nay! Indeed we are deprived of (the fruits)!" The best among them said: "Did I not tell you, why say you not: 'If Allah wills'." They said: "Glory to Our Lord! Verily, we have been wrongdoers." Then they turned one against another, blaming. They said: "Woe to us! We have transgressed. We hope that our Lord will give us in exchange a better (garden) than this. Truly, we turn to our Lord." Such is the punishment (in this life), but truly, the punishment of the Hereafter is greater if they but knew.)[68:17-33].
+
+Prohibiting Extravagance
+
+Allah said,
+
+وَلَا تُسْرِفُوا إِنَّهُ لَا يُحِبُّ الْمُسْرِفِينَ
+
+(And waste not by extravagance. Verily, He likes not the wasteful.)
+
+It was said that the extravagance prohibited here refers to excessive charity beyond normal amounts. Ibn Jurayj said, "This Ayah was revealed concerning Thabit bin Qays bin Shammas, who plucked the fruits of his date palms. Then he said to himself, 'This day, every person who comes to me, I will feed him from it.' So he kept feeding (them) until the evening came and he ended up with no dates. Allah sent down,
+
+وَلَا تُسْرِفُوا إِنَّهُ لَا يُحِبُّ الْمُسْرِفِينَ
+
+(And waste not by extravagance. Verily, He likes not the wasteful.)"
+
+Ibn Jarir recorded this statement from Ibn Jurayj. However, thhe apparent meaning of this Ayah, and Allah knows best, is that;
+
+كُلُوا مِن ثَمَرِهِ إِذَا أَثْمَرَ وَآتُوا حَقَّهُ يَوْمَ حَصَادِهِ وَلَا تُسْرِفُوا
+
+(Eat of their fruit when they ripen, but pay the due thereof on the day of their harvest, and waste not...) refers to eating, meaning, do not waste in eating because this spoils the mind and the body. Allah said in another Ayah,
+
+وَكُلُوا وَاشْرَبُوا وَلَا تُسْرِفُوا
+
+(And eat and drink but waste not by extravagance.)[7: 31]
+
+In his Sahih, Al-Bukhari recorded a Hadith without a chain of narration;
+
+كُلُوا وَاشْرَبُوا وَالْبَسُوا مِنْ غَيْرِ إِسْرَافٍ وَلَا مَخِيلَةٍ
+
+(Eat, drink and clothe yourselves without extravagance or arrogance.) Therefore, these Ayat have the same meaning as this Hadith. and Allah knows best.
+
+Benefits of Cattle
+
+Allah's statement,
+
+وَمِنَ الْأَنْعَامِ حَمُولَةً وَفَرْشًا
+
+(And of the cattle (are some) for burden and (some smaller) for Farsh.) means, He created cattle for you, some of which are suitable for burden, such as camels, and some are Farsh. Ath-Thawri narrated that Abu Ishaq said that Abu Al-Ahwas said that 'Abdullah said that 'animals for burden' are the camels that are used for carrying things, while, 'Farsh', refers to small camels. Al-Hakim recorded it and said, "Its chain is Sahih and they did not record it." 'Abdur-Rahman bin Zayd bin Aslam said that 'animals for burden' refers to the animals that people ride, while, 'Farsh' is that they eat (its meat) and milk it. The sheep is not able to carry things, so you eat its meat and use its wool for covers and mats (or clothes). This statement of 'Abdur-Rahman is sound, and the following Ayat testify to it,
+
+أَوَلَمْ يَرَوْا أَنَّا خَلَقْنَا لَهُم مِّمَّا عَمِلَتْ أَيْدِينَا أَنْعَامًا فَهُمْ لَهَا مَالِكُونَ - وَذَلَّلْنَاهَا لَهُمْ فَمِنْهَا رَكُوبُهُمْ وَمِنْهَا يَأْكُلُونَ
+
+(Do they not see that We have created for them of what Our Hands have created, the cattle, so that they are their owners. And We have subdued them unto them so that some of them they have for riding and some they eat.)[36:71-72], and,
+
+وَإِنَّ لَكُمْ فِي الْأَنْعَامِ لَعِبْرَةً نُّسْقِيكُم مِّمَّا فِي بُطُونِهِ مِن بَيْنِ فَرْثٍ وَدَمٍ لَّبَنًا خَالِصًا سَائِغًا لِّلشَّارِبِينَ
+
+(And verily, in the cattle, there is a lesson for you. We give you to drink of that which is in their bellies, from between excretions and blood, pure milk; palatable to the drinkers.)[16:66], until,
+
+وَمِنْ أَصْوَافِهَا وَأَوْبَارِهَا وَأَشْعَارِهَا أَثَاثًا وَمَتَاعًا إِلَىٰ حِينٍ
+
+(And of their wool, fur and hair, furnishings and articles of convenience, comfort for a while.)[16:80].
+
+Eat the Meat of These Cattle, But Do Not Follow Shaytan's Law Concerning Them
+
+Allah said,
+
+كُلُوا مِمَّا رَزَقَكُمُ اللَّهُ
+
+(Eat of what Allah has provided for you,) of fruits, produce and cattle. Allah created all these and provided you with them as provision.
+
+وَلَا تَتَّبِعُوا خُطُوَاتِ الشَّيْطَانِ
+
+(and follow not the footsteps of Shaytan.) meaning, his way and orders, just as the idolators followed him and prohibited fruits and produce that Allah provided for them, claiming that this falsehood came from Allah.
+
+إِنَّهُ لَكُمْ
+
+(Surely, he is to you) meaning; Shaytan, O people, is to you,
+
+عَدُوٌّ مُّبِينٌ
+
+(an open enemy) and his enmity to you is clear and apparent. Allah said in other Ayat,
+
+إِنَّ الشَّيْطَانَ لَكُمْ عَدُوٌّ فَاتَّخِذُوهُ عَدُوًّا إِنَّمَا يَدْعُو حِزْبَهُ لِيَكُونُوا مِنْ أَصْحَابِ السَّعِيرِ
+
+(Surely, Shaytan is an enemy to you, so take (treat) him as an enemy. He only invites his Hizb (followers) that they may become the dwellers of the blazing Fire.)[35:6] and,
+
+يَا بَنِي آدَمَ لَا يَفْتِنَنَّكُمُ الشَّيْطَانُ كَمَا أَخْرَجَ أَبَوَيْكُم مِّنَ الْجَنَّةِ يَنزِعُ عَنْهُمَا لِبَاسَهُمَا لِيُرِيَهُمَا سَوْآتِهِمَا
+
+(O Children of Adam! Let not Shaytan deceive you, as he got your parents out of Paradise, stripping them of their raiment, to show them their private parts.)[7:27] and,
+
+أَفَتَتَّخِذُونَهُ وَذُرِّيَّتَهُ أَوْلِيَاءَ مِن دُونِي وَهُمْ لَكُمْ عَدُوٌّ بِئْسَ لِلظَّالِمِينَ بَدَلًا
+
+(Will you then take him (Iblis) and his offspring as protectors and helpers rather than Me while they are enemies to you? What an evil is the exchange for the wrongdoers.)[18:50]
+
+There are many other Ayat on this subject.
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله :  وَهُوَ الَّذِي أَنْشَأَ جَنَّاتٍ مَعْرُوشَاتٍ وَغَيْرَ مَعْرُوشَاتٍقال أبو جعفر: وهذا إعلام من الله تعالى ذكره ما أنعم به عليهم من فضله, وتنبيهٌ منه لهم على موضع إحسانه, وتعريفٌ منه لهم ما أحلَّ وحرَّم وقسم في أموالهم من الحقوق لمن قسم له فيها حقًّا .يقول تعالى ذكره: وربكم، أيها الناس =(أنشأ) ، أي أحدث وابتدع خلقًا, لا  الآلهة والأصنام (34) =(جنات)، يعني: بساتين (35) =(معروشات)، وهي ما عَرَش الناس من الكروم=(وغير معروشات) ، غير مرفوعات مبنيَّات, لا ينبته الناس ولا يرفعو...
+القول في تأويل قوله: ﴿وَهُوَ الَّذِي أَنْشَأَ جَنَّاتٍ مَعْرُوشَاتٍ وَغَيْرَ مَعْرُوشَاتٍ﴾
+
+قال أبو جعفر: وهذا إعلام من الله تعالى ذكره ما أنعم به عليهم من فضله، وتنبيهٌ منه لهم على موضع إحسانه، وتعريفٌ منه لهم ما أحلَّ وحرَّم وقسم في أموالهم من الحقوق لمن قسم له فيها حقًّا.
+
+يقول تعالى ذكره: وربكم، أيها الناس = ﴿أنشأ﴾ ، أي أحدث وابتدع خلقًا، لا الآلهة والأصنام [[انظر تفسير ((أنشأ)) فيما سلف ص: ١٢٨، تعليق: ٢، والمراجع هناك.]] = ﴿جنات﴾ ، يعني: بساتين [[انظر تفسير ((الجنة)) فيما سلف من فهارس اللغة (جنن) .]] = ﴿معروشات﴾ ، وهي ما عَرَش الناس من الكروم= ﴿وغير معروشات﴾ ، غير مرفوعات مبنيَّات، لا ينبته الناس ولا يرفعونه، ولكن الله يرفعه وينبته وينمِّيه، [[انظر تفسير ((عرش)) فيما سلف ٥: ٤٤٥.]] كما:-
+
+١٣٩٥٥- حدثني المثنى قال، حدثنا أبو صالح قال، حدثني معاوية، عن علي بن أبي طلحة، عن ابن عباس قوله: ﴿معروشات﴾ ، يقول: مسموكات.
+
+١٣٩٥٦- وبه عن ابن عباس: ﴿وهو الذي أنشأ جنات معروشات وغير معروشات﴾ ، فـ"المعروشات"، ما عرش الناس="وغير معروشات"، ما خرج في البر والجبال من الثمرات.
+
+١٣٩٥٧- حدثني محمد بن الحسين قال، حدثنا أحمد بن المفضل قال، حدثنا أسباط، عن السدي: أما"جنات"، فالبساتين= وأما" المعروشات"، فما عرش كهيئة الكَرْم.
+
+١٣٩٥٨- حدثنا القاسم قال، حدثنا الحسين قال، حدثني حجاج، عن ابن جريج، عن عطاء الخراساني، عن ابن عباس قوله: ﴿وهو الذي أنشأ جنات معروشات﴾ ، قال: ما يُعرَش من الكروم = ﴿وغير معروشات﴾ ، قال: ما لا يعرش من الكرم.
+
+* *
+
+القول في تأويل قوله: ﴿وَالنَّخْلَ وَالزَّرْعَ مُخْتَلِفًا أُكُلُهُ وَالزَّيْتُونَ وَالرُّمَّانَ مُتَشَابِهًا وَغَيْرَ مُتَشَابِهٍ كُلُوا مِنْ ثَمَرِهِ إِذَا أَثْمَرَ﴾
+
+قال أبو جعفر: يقول جل ثناؤه: وأنشأ النخل والزرع مختلفا أكله= يعني بـ"الأكل"، [[انظر تفسير ((الأكل)) فيما سلف ٥: ٥٣٨.]] الثمر. يقول: وخلق النخل والزرع مختلفًا ما يخرج منه مما يؤكل من الثمر والحب ="والزيتون والرمان متشابهًا وغير متشابه"، في الطعم، [[انظر تفسير ((متشابه)) فيما سلف ١: ٣٨٩ - ٣٩٤ / ٢: ٢١٠، ٢١١ / ٦: ١٧٣ / ١١: ٥٧٨.]] منه الحلو، والحامض، والمزّ، [[((المز)) (بضم الميم) : ما كان طعمه بين الحلو والحامض، يقال: ((شراب مز)) .]] كما:-
+
+١٣٩٥٩- حدثنا القاسم قال، حدثنا الحسين قال، حدثني حجاج، عن ابن جريج قوله: ﴿متشابهًا وغير متشابه﴾ ، قال:"متشابهًا"، في المنظر="وغير متشابه"، في الطعم.
+
+* *
+
+وأما قوله: ﴿كلوا من ثمره إذا أثمر﴾ ، فإنه يقول: كلوا من رطبه ما كان رطبًا ثمره، كما:-
+
+١٣٩٦٠- حدثني المثنى قال، حدثنا إسحاق قال، حدثنا أبو همام الأهوازي قال، حدثنا موسى بن عبيدة، عن محمد بن كعب في قوله: ﴿كلوا من ثمره إذا أثمر﴾ ، قال: من رطبه وعنبه.
+
+١٣٩٦١- حدثنا عمرو بن علي قال، حدثنا محمد بن الزبرقان قال، حدثنا موسى بن عبيدة في قوله: ﴿كلوا من ثمره إذا أثمر﴾ ، قال: من رطبه وعنبه. [[الأثران: ١٣٩٦٠، ١٣٩٦١ - ((أبو همام الأهوازي)) في الأثر الأول، هو ((محمد بن الزبرقان)) ، في الأثر الثاني. ثقة. مضت ترجمته برقم: ٨٧٧.]]
+
+* *
+
+القول في تأويل قوله: ﴿وَآتُوا حَقَّهُ يَوْمَ حَصَادِهِ﴾
+
+اختلف أهل التأويل في تأويل ذلك.
+
+فقال بعضهم: هذا أمر من الله بإيتاء الصدقة المفروضة من الثمر والحبِّ.
+
+ذكر من قال ذلك:
+
+١٣٩٦٢- حدثنا عمرو بن علي قال، حدثنا يزيد بن زريع قال، حدثنا يونس، عن الحسن، في قوله: ﴿وآتوا حقه يوم حصاده﴾ ، قال: الزكاة.
+
+١٣٩٦٣- حدثنا عمرو قال، حدثنا عبد الصمد قال، حدثنا يزيد بن درهم قال، سمعت أنس بن مالك يقول: ﴿وآتوا حقه يوم حصاده﴾ ، قال: الزكاة المفروضة.
+
+١٣٩٦٤- حدثنا عمرو قال، حدثنا معلى بن أسد قال، حدثنا عبد الواحد بن زياد قال، حدثنا الحجاج بن أرطاة، عن الحكم، عن مجاهد، عن ابن عباس في قوله: ﴿وآتوا حقه يوم حصاده﴾ ، قال: العشر ونصف العشر.
+
+١٣٩٦٥- حدثنا ابن وكيع قال، حدثنا هانئ بن سعيد، عن حجاج، عن محمد بن عبيد الله، عن عبد الله بن شداد، عن ابن عباس: ﴿وآتوا حقه يوم حصاده﴾ ، قال: العشر ونصف العشر. [[الأثر: ١٣٩٦٥ - ((هانئ بن سعيد النخعي)) ، مضى برقم: ١٣١٥٩. ((حجاج)) هو ((حجاج بن أرطأة)) ، مضى مرارًا. ((محمد بن عبيد الله بن سعيد)) هو ((أبو عون الثقفي)) ، مضى برقم: ٧٥٩٥.]]
+
+١٣٩٦٦- حدثنا عمرو بن علي وابن وكيع وابن بشار قالوا، حدثنا عبد الرحمن قال، حدثنا إبراهيم بن نافع المكي، عن ابن عباس، عن أبيه، في قوله: ﴿وآتوا حقه يوم حصاده﴾ ، قال: الزكاة. [[الأثر: ١٣٩٦٦ - ((إبراهيم بن نافع المكي المخزومي)) ، مضى برقم: ٤٣٠٥. وأما ((ابن عباس، عن أبيه)) ، فلا أدري ما هو، وهو بلا شك ليس ((عبد الله بن عباس)) حبر الأمة.
+
+وأخشى أن يكون الصواب: ((عن ابن طاوس، عن أبيه)) .]]
+
+١٣٩٦٧- حدثنا عمرو قال، حدثنا عبد الرحمن قال، حدثنا أبو هلال، عن حيان الأعرج، عن جابر بن زيد: ﴿وآتوا حقه يوم حصاده﴾ ، قال: الزكاة. [[الأثر: ١٣٩٦٧ - ((عبد الرحمن)) ، هو ((عبد الرحمن بن مهدي)) ، مضى مرارًا و ((أبو هلال)) هو: ((محمد بن سليم الراسبي البصري)) ، ثقة، مضى برقم: ٢٩٩٦، ٤٦٨١. و ((حيان الأعرج)) الجوفي، البصري. ثقة من أتباع التابعين. روى عن جابر بن زيد. روى عنه قتادة، وابن جرجيج، وسعيد بن أبي عروبة، وغيرهم. مترجم في التهذيب، وابن أبي حاتم ١ / ٢ / ٢٤٦.]]
+
+١٣٩٦٨- حدثني يعقوب قال، حدثنا ابن علية قال، أخبرنا يونس، عن الحسن في قوله: ﴿وآتوا حقه يوم حصاده﴾ ، قال: هي الصدقة = قال: ثم سئل عنها مرة أخرى فقال: هي الصدقة من الحبّ والثمار.
+
+١٣٩٦٩- حدثنا ابن وكيع قال، حدثنا محمد بن بكر، عن ابن جريج قال، أخبرني أبو بكر بن عبد الله، عن عمرو بن سليمان وغيره، عن سعيد بن المسيب أنه قال: ﴿وآتوا حقه يوم حصاده﴾ ، قال: الصدقة المفروضة.
+
+١٣٩٧٠- حدثني يعقوب قال، حدثنا ابن علية، عن أبي رجاء، عن الحسن في قوله: ﴿وآتوا حقه يوم حصاده﴾ ، قال: هي الصدقة من الحب والثمار.
+
+١٣٩٧١- حدثني المثنى قال، حدثنا عبد الله بن صالح قال، حدثني معاوية، عن علي بن أبي طلحة، عن ابن عباس قوله: ﴿وآتوا حقه يوم حصاده﴾ ، يعني بحقه، زكاته المفروضة، يوم يُكال أو يُعلم كيله.
+
+١٣٩٧٢- حدثني محمد بن سعد قال، حدثني أبي قال، حدثني عمي قال، حدثني أبي، عن أبيه، عن ابن عباس قوله: ﴿وآتوا حقه يوم حصاده﴾ ، وذلك أن الرجل كان إذا زرع فكان يوم حصاده، وهو أن يعلم ما كيله وحقّه، فيخرج من كل عشرة واحدًا، وما يَلْقُط الناس من سنبله. [[في المطبوعة: ((وما يلتقط)) ، وأثبت ما في المخطوطة.]]
+
+١٣٩٧٣- حدثنا بشر قال، حدثنا يزيد قال، حدثنا سعيد، عن قتادة قوله: ﴿وآتوا حقه يوم حصاده﴾ ، و"حقه يوم حصاده"، الصدقة المفروضة= ذكر لنا أن نبيّ الله ﷺ سَنَّ فيما سقت السماء أو العين السائحة، أو سقاه الطل = و"الطل"، الندى = أو كان بَعْلا العشرَ كاملا. [[((البعل)) ، من النبات، ما شرب بعروقه من الأرض، بغير سقي من سماء ولا غيرها.]] وإن سقي برشاء: نصفَ العشر = قال قتادة: وهذا فيما يكال من الثمرة. وكان هذا إذا بلغت الثمرة خمسةُ أوسقٍ، [[((الأوسق)) جمع ((وسق)) ، وهو ستون صاعًا، كما فسره بعد، على اختلافهم في مقدار الصاع.]] وذلك ثلثمئة صاع، فقد حق فيها الزكاة. وكانوا يستحبون أن يعطوا مما لا يكال من الثمرة على قدر ذلك.
+
+١٣٩٧٤- حدثنا محمد بن عبد الأعلى قال، حدثنا محمد بن ثور، عن معمر، عن قتادة وطاوس: ﴿وآتوا حقه يوم حصاده﴾ ، قالا هو الزكاة.
+
+١٣٩٧٥- حدثني المثنى قال، حدثنا عمرو بن عون قال، أخبرنا هشيم، عن الحجاج، عن سالم المكي، عن محمد بن الحنفية قوله: ﴿وآتوا حقه يوم حصاده﴾ ، قال: يوم كيله، يعطي العشر أو نصف العشر. [[الأثر: ١٣٩٧٥ - ((سالم المكي)) ، هو ((سالم بن عبد الله الخياط)) ، مترجم في التهذيب، والكبير ٢ / ٢ / ١١٦، وابن أبي حاتم ٢ / ١ / ١٨٤.]]
+
+١٣٩٧٦- حدثني المثنى قال، حدثنا الحماني قال، حدثنا شريك، عن سالم المكي، عن محمد ابن الحنفية قوله: ﴿وآتوا حقه يوم حصاده﴾ ، قال: العشر، ونصف العشر.
+
+١٣٩٧٧- حدثني المثنى قال، حدثنا سويد قال، أخبرنا ابن المبارك، عن معمر، عن ابن طاوس، عن أبيه، وعن قتادة: ﴿وآتوا حقه يوم حصاده﴾ ، قالا الزكاة.
+
+١٣٩٧٨- حدثني المثنى قال، حدثنا إسحاق قال، حدثنا أبو معاوية الضرير، عن الحجاج، عن الحكم، عن مقسم، عن ابن عباس: ﴿وآتوا حقه يوم حصاده﴾ ، قال: العشر ونصف العشر.
+
+١٣٩٧٩- حدثني المثنى قال، حدثنا سويد قال، أخبرنا ابن المبارك، عن شريك، عن الحكم بن عتيبة، عن ابن عباس، مثله.
+
+١٣٩٨٠- حدثت عن الحسين بن الفرج قال، سمعت أبا معاذ قال، أخبرنا عبيد بن سليمان قال، سمعت الضحاك يقول في قوله: ﴿وآتوا حقه يوم حصاده﴾ ، يعني: يوم كيله، ما كان من برّ أو تمر أو زبيب. و"حقه"، زكاته.
+
+١٣٩٨١- حدثني يونس قال، أخبرنا ابن وهب قال، قال ابن زيد في قوله: ﴿كلوا من ثمرة إذا أثمر وآتوا حقه يوم حصاده﴾ ، قال: كُلْ منه، وإذا حصدته فآت حقه، و"حقه"، عشوره.
+
+١٣٩٨٢- حدثنا ابن المثنى قال، حدثنا محمد بن جعفر قال، حدثنا شعبة، عن يونس بن عبيد، عن الحسن أنه قال في هذه الآية: ﴿وآتوا حقه يوم حصاده﴾ ، قال: الزكاة إذا كِلْتَه.
+
+١٣٩٨٣- حدثنا عمرو قال، حدثنا محمد بن جعفر قال، حدثنا شعبة، عن أبي رجاء قال: سألت الحسن عن قوله: ﴿وآتوا حقه يوم حصاده﴾ ، قال: الزكاة.
+
+١٣٩٨٤- حدثني ابن البرقي قال، حدثنا عمرو بن أبي سلمة قال، سألت ابن زيد بن أسلم عن قول الله: ﴿وآتوا حقه يوم حصاده﴾ ، فقلت له: هو العشور؟ قال: نعم! فقلت له: عن أبيك؟ قال: عن أبي وغيره.
+
+* *
+
+وقال آخرون: بل ذلك حقٌّ أوجبه الله في أموال أهل الأموال، غيرُ الصدقة المفروضة.
+
+ذكر من قال ذلك:
+
+١٣٩٨٥- حدثنا عمرو بن علي قال، حدثنا عبد الوهاب قال، حدثنا محمد بن جعفر، عن أبيه: ﴿وآتوا حقه يوم حصاده﴾ ، قال: شيئًا سوى الحق الواجب = قال: وكان في كتابه:"عن علي بن الحسين".
+
+١٣٩٨٦- حدثنا عمرو قال، حدثنا يحيى قال، حدثنا عبد الملك، عن عطاء في قوله: ﴿وآتوا حقه يوم حصاده﴾ ، قال: القبضة من الطعام.
+
+١٣٩٨٧- حدثنا ابن وكيع قال، حدثنا محمد بن بكر، عن ابن جريج، عن عطاء: ﴿وآتوا حقه يوم حصاده﴾ ، قال: من النخل والعنب والحب كله.
+
+١٣٩٨٨- حدثنا ابن وكيع قال، حدثنا محمد بن بكر، عن ابن جريج قال: قلت لعطاء: أرأيت ما حصدتُ من الفواكه؟ قال: ومنها أيضًا تؤتي. وقال: من كل شيء حصدتَ تؤتي منه حقه يوم حصاده، من نخل أو عنب أو حب أو فواكه أو خضر أو قصب، من كل شيء من ذلك. قلت لعطاء: أواجب على الناس ذلك كله؟ قال: نعم! ثم تلا ﴿وآتوا حقه يوم حصاده﴾ . قال: قلت لعطاء: ﴿وآتوا حقه يوم حصاده﴾ ،هل في ذلك شيء مُؤَقّت معلوم؟ قال: لا.
+
+١٣٩٨٩- حدثني المثنى قال، حدثنا سويد قال، أخبرنا ابن المبارك، عن عبد الملك، عن عطاء في قوله: ﴿وآتوا حقه يوم حصاده﴾ ، قال: يعطي من حُضورِ يومئذ ما تيسر، [[في المطبوعة: ((يعطي من حصاده يومئذ)) ، وليس صوابًا، وفي المخطوطة: ((يعطي من حصول يومئذ)) ، وصواب قراءتها ما أثبت، وانظر الأثر التالي. ويعني: مَنْ حضره من الناس والمساكين.]] وليس بالزكاة.
+
+١٣٩٩٠- حدثنا ابن وكيع قال، حدثنا عيسى بن يونس، عن عبد الملك، عن عطاء: ﴿وآتوا حقه يوم حصاده﴾ ، قال: ليس بالزكاة، ولكن يطعم من حضره ساعتئذٍ حَصِيده. [[في المطبوعة: ((حصده)) ، وأثبت ما في المخطوطة. ((الحصاد)) و ((الحصيد)) ، ((الحصد)) (بفتح الحاء والصاد) ، هو من الزرع، المحصود بعد ما يحصد.]]
+
+١٣٩٩١- حدثنا ابن وكيع قال، حدثنا جرير، عن العلاء بن المسيب، عن حماد: ﴿وآتوا حقه يوم حصاده﴾ ، قال: كانوا يعطون رُطبًا.
+
+١٣٩٩٢- حدثنا ابن حميد وابن وكيع قالا حدثنا جرير، عن منصور، عن مجاهد: ﴿وآتوا حقه يوم حصاده﴾ ، قال: إذا حضرك المساكين طرحت لهم منه، وإذا أنقيته وأخذت في كيله حَثَوْت لهم منه. [[((حثا له يحثو حثوا)) أعطاه شيئًا منه ملء الكف.]] وإذا علمتَ كيله عزلتَ زكاته. وإذا أخذت في جَدَاد النخل طَرَحت لهم من الثفاريق. [[في المطبوعة: ((جذاذ الأرض)) (بالذال) ، وهو خطأ محض. ((جداد النخل)) (بفتح الجيم، وبكسرها) : أوان صرامه، وهو قطع ثمره.
+
+و ((الثفاريق)) جمع ((ثفروق)) ، وهو قمع البسرة والتمرة التي تلزق بها. ولم يرد هذا مجاهد، بل أراد: العناقيد، يخرط ما عليها، فتبقى عليها الثمرة والثمرتان والثلاث، يخطئها المخلب الذي تخرط به، فتلقى للمساكين. فكني بالثفاريق عن القليل الباقي في عنقوده وشمراخه.]] وإذا أخذت في كيله حثَوْت لهم منه. وإذا علمت كيله عزلت زكاته.
+
+١٣٩٩٣- حدثنا ابن وكيع قال، حدثنا جرير، عن ليث، عن مجاهد: ﴿وآتوا حقه يوم حصاده﴾ ، قال: سوى الفريضة.
+
+١٣٩٩٤- حدثنا ابن حميد قال، حدثنا حكام، عن عمرو، عن منصور، عن مجاهد: ﴿وآتوا حقه يوم حصاده﴾ ، قال: يلقي إلى السؤَّال عند الحصاد من السنبل، [[((السؤال)) جمع ((سائل)) مثل ((جاهل)) و ((جهال)) .]] فإذا طِينَ = أو طُيِّن، الشك من أبي جعفر [[في المخطوطة: ((فإذا طبن أو طبن)) ، غير منقوطة، وفي المطبوعة: ((فإذا طبن، أو طين)) الأولى لاباء، والثانية بالياء، ولا معنى لهما. وأخشى أن يكون الصواب ما أثبت، يعني به ما يكون مع البر والقمح من الطين. ولا أدري ذلك. وفوق كل ذي علم عليم. ولم أجد الخبر في مكان آخر. وانظر رقم: ١٤٠٠٠، وقوله: ((وإذا أدخله البيدر)) ، فكأنه يعني هذا.]] = ألقى إليهم. فإذا حمله فأراد أن يجعله كُدْسًا ألقى إليهم. [[((الكدس)) (بضم فسكون) ، هو كومة البر إذا جمع.]] وإذا داس أطعمَ منه، وإذا فرغ وعلم كم كيله، عزل زكاته. وقال: في النخل عند الجَدَاد يطعم من الثمرة والشماريخ. [[في المطبوعة: ((الجذاذ)) بالذال، وانظر التعليق السالف ص: ١٦٣، تعليق: ٣.]] فإذا كان عند كيله أطعم من التمر. فإذا فرغ عزل زكاته.
+
+١٣٩٩٥- حدثنا عمرو بن علي ومحمد بن بشار قالا حدثنا عبد الرحمن قال، حدثنا سفيان، عن منصور، عن مجاهد قوله: ﴿وآتوا حقه يوم حصاده﴾ ، قال: إذا حصد الزرع ألقى من السنبل، وإذا جَدَّ النخل ألقى من الشماريخ. [[((جد النخل يجده جدادًا)) ، صرمه وقطعه. وهي في المطبوعة بالذال، كما سلف في التعليق السالف. وسأصححه بعد بغير إشارة إلى الخطأ.]] فإذا كاله زكّاه.
+
+١٣٩٩٦- حدثنا ابن وكيع قال، حدثنا أبي، عن سفيان، عن ابن أبي نجيح، عن مجاهد قال: عند الحصاد، وعند الدِّياس، وعند الصِّرام، يقبض لهم منه، فإذا كاله عزل زكاته.
+
+١٣٩٩٧- وبه، عن سفيان، عن مجاهد مثله= إلا أنه قال: سوى الزكاة.
+
+١٣٩٩٨- حدثنا عمرو بن علي قال، حدثنا يحيى بن سعيد، عن سفيان، عن ابن أبي نجيح، عن مجاهد: ﴿وآتوا حقه يوم حصاده﴾ ، قال: شيء سوى الزكاة، في الحصاد والجَدَاد، إذا حَصَدوا وإذاحَزَرُوا. [
+
+[TRUNCATED at 12000 chars — 18444 more. Consult the source directly before relying on anything near the cut.]
 
 ### al-Muyassar (Arabic)
 
-والله سبحانه وتعالى هو الذي أوجد لكم بساتين: منها ما هو مرفوع عن الأرض كالأعناب، ومنها ما هو غير مرفوع، ولكنه قائم على سوقه كالنخل والزرع، متنوعًا طعمه، والزيتون والرمان متشابهًا منظره، ومختلفًا ثمره وطعمه. كلوا -أيها الناس- مِن ثمره إذا أثمر، وأعطوا زكاته المفروضة عليكم يوم حصاده وقطافه، ولا تتجاوزوا حدود الاعتدال في إخراج المال وأكل الطعام وغير ذلك. إنه تعالى لا يحب المتجاوزين حدوده بإنفاق المال في غير وجهه.
+والله سبحانه وتعالى هو الذي أوجد لكم بساتين: منها ما هو مرفوع عن الأرض كالأعناب، ومنها ما هو غير مرفوع، ولكنه قائم على سوقه كالنخل والزرع، متنوعًا طعمه، والزيتون والرُّمّان متشابهًا منظره، ومختلفًا ثمره وطعمه. كلوا -أيها الناس- مِن ثمره إذا أثمر، وأعطوا زكاته المفروضة عليكم يوم قِطافه وحصاده، ولا تتجاوزوا حدود الاعتدال في إخراج المال وأكل الطعام وغير ذلك. إنه تعالى لا يحب المتجاوزين حدوده بإنفاق المال في غير وجهه.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿وهُوَ الَّذِي أنْشَأَ﴾ خَلَقَ ﴿جَنّات﴾ بَساتِين ﴿مَعْرُوشات﴾ مَبْسُوطات عَلى الأَرْض كالبِطِّيخِ ﴿وغَيْر مَعْرُوشات﴾ بِأَنْ ارْتَفَعَتْ عَلى ساق كالنَّخْلِ ﴿والنَّخْل والزَّرْع مُخْتَلِفًا أُكُله﴾ أنْشَأَ ثَمَره وحَبّه فِي الهَيْئَة والطَّعْم ﴿والزَّيْتُون والرُّمّان مُتَشابِهًا﴾ ورَقهما حال ﴿وغَيْر مُتَشابِه﴾ طَعْمهما ﴿كُلُوا مِن ثَمَره إذا أثْمَرَ﴾ قَبْل النَّضْج ﴿وآتُوا حَقّه﴾ زَكاته ﴿يَوْم حَصاده﴾ بِالفَتْحِ والكَسْر مِن العُشْر أوْ نِصْفه ﴿ولا تُسْرِفُوا﴾ بِإعْطاءِ كُلّه فَلا يَبْقى لِعِيالِكُمْ شَيْء ﴿إنّهُ لا يُحِبّ المُسْرِفِينَ﴾ المُتَجاوِزِينَ ما حُدَّ لَهُمْ
 
 ---
 
@@ -33,14 +272,215 @@ Allah states that He created everything, including the produce, fruits and cattl
 
 ### Ibn Kathir (English)
 
+And it is He Who produces gardens Ma'rushat and not Ma'rushat, and date palms, and crops of different shape and taste, and olives, and pomegranates, similar, and different. Eat of their fruit when they ripen, but pay the due thereof on the day of their harvest, and waste not by extravagance. Verily, He likes not the wasteful (141)And of the cattle (are some) for burden and (some smaller) for Farsh. Eat of what Allah has provided for you, and follow not the footsteps of Shaytan. Surely, he is to you an open enemy (142)
+
 Allah Created the Produce, Seed Grains and Cattle
+
 Allah states that He created everything, including the produce, fruits and cattle that the idolators mishandled by their misguided ideas, dividing them into various designated parts, allowing some and prohibiting some. Allah said,
-وَهُوَ الَّذِى أَنشَأَ جَنَّـتٍ مَّعْرُوشَـتٍ وَغَيْرَ مَعْرُوشَـتٍ
-(And it is He Who produces gardens Ma`rushat and not Ma`rushat,) `Ali bin Abi Talhah reported that Ibn `Abbas commented, "Ma`rushat refers to what t...
+
+وَهُوَ الَّذِي أَنشَأَ جَنَّاتٍ مَّعْرُوشَاتٍ وَغَيْرَ مَعْرُوشَاتٍ
+
+(And it is He Who produces gardens Ma'rushat and not Ma'rushat,)
+
+'Ali bin Abi Talhah reported that Ibn 'Abbas commented, "Ma'rushat refers to what the people trellise, while 'not Ma'rushat' refers to fruits (and produce) that grow wild inland and on mountains." 'Ata' Al-Khurasani said that Ibn 'Abbas said, "Ma'rushat are the grapevines that are trellised, while 'not Ma'rushat' refers to grapevines that are not trellised." As-Suddi said similarly. As for these fruits being similar, yet different, Ibn Jurayj said, "They are similar in shape, but different in taste." Muhammad bin Ka'b said that the Ayah,
+
+كُلُوا مِن ثَمَرِهِ إِذَا أَثْمَرَ
+
+(Eat of their fruit when they ripen,) means, "(Eat) from the dates and grapes they produce." Allah said next,
+
+وَآتُوا حَقَّهُ يَوْمَ حَصَادِهِ
+
+(but pay the due thereof on the day of their harvest,) Mujahid commented, "When the poor people are present (on the day of harvest), give them some of the produce." 'Abdur-Razzaq recorded that Mujahid commented on the Ayah,
+
+وَآتُوا حَقَّهُ يَوْمَ حَصَادِهِ
+
+(but pay the due thereof on the day of their harvest.)
+
+"When planting, one gives away handfuls (of seed grains) and on harvest, he gives away handfuls and allows them to pick whatever is left on the ground of the harvest." Ath-Thawri said that Hammad narrated that Ibrahim An-Nakha'i said, "One gives away some of the hay." Ibn Al-Mubarak said that Shurayk said that Salim said that Sa'id bin Jubayr commented;
+
+وَآتُوا حَقَّهُ يَوْمَ حَصَادِهِ
+
+(but pay the due thereof on the day of their harvest,) "This ruling, giving the poor the handfuls (of seed grains) and some of the hay as food for their animals, was before Zakah became obligatory."
+
+Allah has chastised those who harvest, without giving away a part of it as charity. Allah mentioned the story of the owners of the garden in Surat Nun,
+
+إِذْ أَقْسَمُوا لَيَصْرِمُنَّهَا مُصْبِحِينَ - وَلَا يَسْتَثْنُونَ - فَطَافَ عَلَيْهَا طَائِفٌ مِّن رَّبِّكَ وَهُمْ نَائِمُونَ - فَأَصْبَحَتْ كَالصَّرِيمِ - فَتَنَادَوْا مُصْبِحِينَ - أَنِ اغْدُوا عَلَىٰ حَرْثِكُمْ إِن كُنتُمْ صَارِمِينَ - فَانطَلَقُوا وَهُمْ يَتَخَافَتُونَ - أَن لَّا يَدْخُلَنَّهَا الْيَوْمَ عَلَيْكُم مِّسْكِينٌ - وَغَدَوْا عَلَىٰ حَرْدٍ قَادِرِينَ - فَلَمَّا رَأَوْهَا قَالُوا إِنَّا لَضَالُّونَ - بَلْ نَحْنُ مَحْرُومُونَ - قَالَ أَوْسَطُهُمْ أَلَمْ أَقُل لَّكُمْ لَوْلَا تُسَبِّحُونَ - قَالُوا سُبْحَانَ رَبِّنَا إِنَّا كُنَّا ظَالِمِينَ - فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍ يَتَلَاوَمُونَ - قَالُوا يَا وَيْلَنَا إِنَّا كُنَّا طَاغِينَ - عَسَىٰ رَبُّنَا أَن يُبْدِلَنَا خَيْرًا مِّنْهَا إِنَّا إِلَىٰ رَبِّنَا رَاغِبُونَ - كَذَٰلِكَ الْعَذَابُ وَلَعَذَابُ الْآخِرَةِ أَكْبَرُ لَوْ كَانُوا يَعْلَمُونَ
+
+(When they swore to pluck the fruits of the (garden) in the morning. Without saying: "If Allah wills." Then there passed by on the (garden) a visitation (fire) from your Lord at night, burning it while they were asleep. So the (garden) became black by the morning, like a pitch dark night (in complete ruins). Then they called out one to another as soon as the morning broke. Saying: "Go to your tilth in the morning, if you would pluck the fruits." So they departed, conversing in secret low tones (saying). "No poor person shall enter upon you into it today." And they went in the morning with strong intention, thinking that they have power (to prevent the poor taking anything of the fruits therefrom). But when they saw the (garden), they said: "Verily, we have gone astray." (Then they said): "Nay! Indeed we are deprived of (the fruits)!" The best among them said: "Did I not tell you, why say you not: 'If Allah wills'." They said: "Glory to Our Lord! Verily, we have been wrongdoers." Then they turned one against another, blaming. They said: "Woe to us! We have transgressed. We hope that our Lord will give us in exchange a better (garden) than this. Truly, we turn to our Lord." Such is the punishment (in this life), but truly, the punishment of the Hereafter is greater if they but knew.)[68:17-33].
+
+Prohibiting Extravagance
+
+Allah said,
+
+وَلَا تُسْرِفُوا إِنَّهُ لَا يُحِبُّ الْمُسْرِفِينَ
+
+(And waste not by extravagance. Verily, He likes not the wasteful.)
+
+It was said that the extravagance prohibited here refers to excessive charity beyond normal amounts. Ibn Jurayj said, "This Ayah was revealed concerning Thabit bin Qays bin Shammas, who plucked the fruits of his date palms. Then he said to himself, 'This day, every person who comes to me, I will feed him from it.' So he kept feeding (them) until the evening came and he ended up with no dates. Allah sent down,
+
+وَلَا تُسْرِفُوا إِنَّهُ لَا يُحِبُّ الْمُسْرِفِينَ
+
+(And waste not by extravagance. Verily, He likes not the wasteful.)"
+
+Ibn Jarir recorded this statement from Ibn Jurayj. However, thhe apparent meaning of this Ayah, and Allah knows best, is that;
+
+كُلُوا مِن ثَمَرِهِ إِذَا أَثْمَرَ وَآتُوا حَقَّهُ يَوْمَ حَصَادِهِ وَلَا تُسْرِفُوا
+
+(Eat of their fruit when they ripen, but pay the due thereof on the day of their harvest, and waste not...) refers to eating, meaning, do not waste in eating because this spoils the mind and the body. Allah said in another Ayah,
+
+وَكُلُوا وَاشْرَبُوا وَلَا تُسْرِفُوا
+
+(And eat and drink but waste not by extravagance.)[7: 31]
+
+In his Sahih, Al-Bukhari recorded a Hadith without a chain of narration;
+
+كُلُوا وَاشْرَبُوا وَالْبَسُوا مِنْ غَيْرِ إِسْرَافٍ وَلَا مَخِيلَةٍ
+
+(Eat, drink and clothe yourselves without extravagance or arrogance.) Therefore, these Ayat have the same meaning as this Hadith. and Allah knows best.
+
+Benefits of Cattle
+
+Allah's statement,
+
+وَمِنَ الْأَنْعَامِ حَمُولَةً وَفَرْشًا
+
+(And of the cattle (are some) for burden and (some smaller) for Farsh.) means, He created cattle for you, some of which are suitable for burden, such as camels, and some are Farsh. Ath-Thawri narrated that Abu Ishaq said that Abu Al-Ahwas said that 'Abdullah said that 'animals for burden' are the camels that are used for carrying things, while, 'Farsh', refers to small camels. Al-Hakim recorded it and said, "Its chain is Sahih and they did not record it." 'Abdur-Rahman bin Zayd bin Aslam said that 'animals for burden' refers to the animals that people ride, while, 'Farsh' is that they eat (its meat) and milk it. The sheep is not able to carry things, so you eat its meat and use its wool for covers and mats (or clothes). This statement of 'Abdur-Rahman is sound, and the following Ayat testify to it,
+
+أَوَلَمْ يَرَوْا أَنَّا خَلَقْنَا لَهُم مِّمَّا عَمِلَتْ أَيْدِينَا أَنْعَامًا فَهُمْ لَهَا مَالِكُونَ - وَذَلَّلْنَاهَا لَهُمْ فَمِنْهَا رَكُوبُهُمْ وَمِنْهَا يَأْكُلُونَ
+
+(Do they not see that We have created for them of what Our Hands have created, the cattle, so that they are their owners. And We have subdued them unto them so that some of them they have for riding and some they eat.)[36:71-72], and,
+
+وَإِنَّ لَكُمْ فِي الْأَنْعَامِ لَعِبْرَةً نُّسْقِيكُم مِّمَّا فِي بُطُونِهِ مِن بَيْنِ فَرْثٍ وَدَمٍ لَّبَنًا خَالِصًا سَائِغًا لِّلشَّارِبِينَ
+
+(And verily, in the cattle, there is a lesson for you. We give you to drink of that which is in their bellies, from between excretions and blood, pure milk; palatable to the drinkers.)[16:66], until,
+
+وَمِنْ أَصْوَافِهَا وَأَوْبَارِهَا وَأَشْعَارِهَا أَثَاثًا وَمَتَاعًا إِلَىٰ حِينٍ
+
+(And of their wool, fur and hair, furnishings and articles of convenience, comfort for a while.)[16:80].
+
+Eat the Meat of These Cattle, But Do Not Follow Shaytan's Law Concerning Them
+
+Allah said,
+
+كُلُوا مِمَّا رَزَقَكُمُ اللَّهُ
+
+(Eat of what Allah has provided for you,) of fruits, produce and cattle. Allah created all these and provided you with them as provision.
+
+وَلَا تَتَّبِعُوا خُطُوَاتِ الشَّيْطَانِ
+
+(and follow not the footsteps of Shaytan.) meaning, his way and orders, just as the idolators followed him and prohibited fruits and produce that Allah provided for them, claiming that this falsehood came from Allah.
+
+إِنَّهُ لَكُمْ
+
+(Surely, he is to you) meaning; Shaytan, O people, is to you,
+
+عَدُوٌّ مُّبِينٌ
+
+(an open enemy) and his enmity to you is clear and apparent. Allah said in other Ayat,
+
+إِنَّ الشَّيْطَانَ لَكُمْ عَدُوٌّ فَاتَّخِذُوهُ عَدُوًّا إِنَّمَا يَدْعُو حِزْبَهُ لِيَكُونُوا مِنْ أَصْحَابِ السَّعِيرِ
+
+(Surely, Shaytan is an enemy to you, so take (treat) him as an enemy. He only invites his Hizb (followers) that they may become the dwellers of the blazing Fire.)[35:6] and,
+
+يَا بَنِي آدَمَ لَا يَفْتِنَنَّكُمُ الشَّيْطَانُ كَمَا أَخْرَجَ أَبَوَيْكُم مِّنَ الْجَنَّةِ يَنزِعُ عَنْهُمَا لِبَاسَهُمَا لِيُرِيَهُمَا سَوْآتِهِمَا
+
+(O Children of Adam! Let not Shaytan deceive you, as he got your parents out of Paradise, stripping them of their raiment, to show them their private parts.)[7:27] and,
+
+أَفَتَتَّخِذُونَهُ وَذُرِّيَّتَهُ أَوْلِيَاءَ مِن دُونِي وَهُمْ لَكُمْ عَدُوٌّ بِئْسَ لِلظَّالِمِينَ بَدَلًا
+
+(Will you then take him (Iblis) and his offspring as protectors and helpers rather than Me while they are enemies to you? What an evil is the exchange for the wrongdoers.)[18:50]
+
+There are many other Ayat on this subject.
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله :  وَمِنَ الأَنْعَامِ حَمُولَةً وَفَرْشًاقال أبو جعفر: يقول تعالى ذكره: وأنشأ من الأنعام حمولة وفرشًا, مع ما أنشأ من الجنات المعروشات وغير المعروشات .* * *و " الحمولة "، ما حمل عليه من الإبل وغيرها.و " الفرش "، صغار الإبل التي لم تدرك أن يُحْمَل عليها .* * *واختلف أهل التأويل في تأويل ذلك.فقال بعضهم: " الحمولة "، ما حمل عليه من كبار الإبل ومسانّها= و " الفرش "، صغارها التي لا يحمل عليها لصغرها .* ذكر من قال ذلك:14047- حدثنا ابن وكيع قال، حدثنا أبي, عن سفيان, عن أبي إسحاق, ...
+القول في تأويل قوله: ﴿وَمِنَ الأنْعَامِ حَمُولَةً وَفَرْشًا﴾
+
+قال أبو جعفر: يقول تعالى ذكره: وأنشأ من الأنعام حمولة وفرشًا، مع ما أنشأ من الجنات المعروشات وغير المعروشات.
+
+* *
+
+و"الحمولة"، ما حمل عليه من الإبل وغيرها.
+
+و"الفرش"، صغار الإبل التي لم تدرك أن يُحْمَل عليها.
+
+* *
+
+واختلف أهل التأويل في تأويل ذلك.
+
+فقال بعضهم:"الحمولة"، ما حمل عليه من كبار الإبل ومسانّها= و"الفرش"، صغارها التي لا يحمل عليها لصغرها.
+
+ذكر من قال ذلك:
+
+١٤٠٤٧- حدثنا ابن وكيع قال، حدثنا أبي، عن سفيان، عن أبي إسحاق، عن أبي الأحوص، عن عبد الله في قوله: ﴿حمولة وفرشًا﴾ ، قال:"الحمولة"، الكبار من الإبل="وفرشًا"، الصغار من الإبل.
+
+١٤٠٤٨-. . . . وقال، حدثنا أبي، عن أبي بكر الهذلي، عن عكرمة، عن ابن عباس:"الحمولة"، هي الكبار، و"الفرش"، الصغار من الإبل.
+
+١٤٠٤٩- حدثنا ابن وكيع قال، حدثنا عبيد الله، عن إسرائيل، عن أبي يحيى، عن مجاهد قال:"الحمولة"، ما حمل من الإبل، و"الفرش"، ما لم يحمل.
+
+١٤٠٥٠- وبه عن إسرائيل، عن خصيف، عن مجاهد:"الحمولة"، ما حمل من الإبل، و"الفرش"، ما لم يحمل.
+
+١٤٠٥١- حدثني محمد بن عمرو قال، حدثنا أبو عاصم قال، حدثنا عيسى، عن ابن أبي نجيح، عن مجاهد في قول الله: ﴿وفرشًا﴾ ، قال: صغار الإبل.
+
+١٤٠٥٢- حدثنا محمد بن بشار قال، حدثنا عبد الرحمن قال، حدثنا سفيان، عن أبي إسحاق، عن أبي الأحوص، عن عبد الله في قوله: ﴿حمولة وفرشًا﴾ ، قال:"الحمولة"، الكبار، و"الفرش"، الصغار.
+
+١٤٠٥٣- حدثني يونس قال، أخبرنا ابن وهب قال، حدثنا سفيان، عن أبي إسحاق، عن أبي الأحوص، عن ابن مسعود في قوله: ﴿حمولة وفرشًا﴾ ،"الحمولة"، ما حمل من الإبل، و"الفرش"، هنّ الصغار.
+
+١٤٠٥٤- حدثنا محمد بن المثنى قال، حدثنا محمد بن جعفر قال، حدثنا شعبة، عن أبي إسحاق، عن أبي الأحوص عن عبد الله: أنه قال في هذه الآية: ﴿حمولة وفرشًا﴾ ، قال:"الحمولة"، ما حمل عليه من الإبل، و"الفرش"، الصغار = قال ابن المثنى، قال محمد، قال شعبة: إنما كان حدثني سفيان، عن أبي إسحاق.
+
+١٤٠٥٥- حدثنا ابن عبد الأعلى قال، حدثنا المعتمر بن سليمان، عن أبيه قال، قال الحسن:"الحمولة"، من الإبل والبقر.
+
+* *
+
+وقال بعضهم:"الحمولة"، من الإبل، وما لم يكن من"الحمولة"، فهو"الفرش".
+
+١٤٠٥٦- حدثنا ابن عبد الأعلى قال، حدثنا محمد بن ثور، عن معمر، عن قتادة، عن الحسن: ﴿حمولة وفرشًا﴾ ، قال:"الحمولة"، ما حمل عليه، و"الفرش"، حواشيها، يعني صغارها.
+
+١٤٠٥٧- حدثني محمد بن سعد قال، حدثني أبي قال، حدثني عمي قال، حدثني أبي، عن أبيه، عن ابن عباس قوله: ﴿ومن الأنعام حمولة وفرشًا﴾ ، فـ"الحمولة"، ما حمل من الإبل، و"الفرش"، صغار الإبل، الفصيل وما دون ذلك مما لا يحمل.
+
+* *
+
+ويقال:"الحمولة"، من البقر والإبل = و"الفرش"، الغنم.
+
+* *
+
+وقال آخرون:"الحمولة"، ما حمل عليه من الإبل والخيل والبغال وغير ذلك، و"الفرش"، الغنم.
+
+ذكر من قال ذلك:
+
+١٤٠٥٨- حدثني المثنى قال، حدثنا عبد الله بن صالح قال، حدثني معاوية، عن علي بن أبي طلحة، عن ابن عباس قوله: ﴿ومن الأنعام حمولة وفرشًا﴾ ، فأما"الحمولة"، فالإبل والخيل والبغال والحمير، وكل شيء يحمل عليه، وأما"الفرش"، فالغنم.
+
+١٤٠٥٩- حدثنا ابن وكيع قال، حدثنا عبيد الله، عن أبي جعفر، عن الربيع بن أنس:"الحمولة"، من الإبل والبقر= و"فرشًا". المعز والضأن.
+
+١٤٠٦٠- حدثنا بشر بن معاذ قال، حدثنا يزيد قال، حدثنا سعيد، عن قتادة قوله: ﴿ومن الأنعام حمولة وفرشًا﴾ ، قال: أما"الحمولة"، فالإبل والبقر. قال: وأما"الفرش"، فالغنم.
+
+١٤٠٦١- حدثنا محمد بن عبد الأعلى قال، حدثنا محمد بن ثور، عن معمر، عن قتادة، كان غير الحسن يقول:"الحمولة"، الإبل والبقر، و"الفرش"، الغنم.
+
+١٤٠٦٢- حدثني محمد بن الحسين قال، حدثنا أحمد بن المفضل قال، حدثنا أسباط، عن السدي: ﴿ومن الأنعام حمولة وفرشًا﴾ ، أما"الحمولة"، فالإبل. وأما"الفرش"، فالفُصْلان والعَجَاجيل والغنم. [[((العجاجيل)) جمع ((عجول)) (بكسر العين، وتشديد الجيم وفتحها، وسكون الواو) وهو ((العجل)) ولد البقر.]] وما حمل عليه فهو"حمولة".
+
+١٤٠٦٣- حدثت عن الحسين بن الفرج قال، سمعت أبا معاذ قال، حدثنا عبيد بن سليمان قال، سمعت الضحاك يقول في قوله: ﴿حمولة وفرشًا﴾ ،"الحمولة"، الإبل، و"الفرش"، الغنم.
+
+١٤٠٦٤- حدثنا ابن وكيع قال، حدثنا أبي، عن أبي بكر الهذلي، عن الحسن: ﴿وفرشًا﴾ ، قال:"الفرش"، الغنم.
+
+١٤٠٦٥- حدثني يونس قال، أخبرنا ابن وهب قال، قال ابن زيد في قوله: ﴿حمولة وفرشًا﴾ قال:"الحمولة"، ما تركبون، و"الفرش"، ما تأكلون وتحلبون، شاة لا تحمل، تأكلون لحمها، وتتخذون من أصوافها لحافًا وفرشًا.
+
+* *
+
+قال أبو جعفر: والصواب من القول في ذلك عندي أن يقال: إن"الحمولة"، هي ما حمل من الأنعام، لأن ذلك من صفتها إذا حملت، لا أنه اسم لها، كالإبل والخيل والبغال، فإذا كانت إنما سميت"حمولة" لأنها تحمل، فالواجب أن يكون كل ما حَمَل على ظهره من الأنعام فحمولة. وهي جمع لا واحد لها من لفظها، كالرَّكوبة، و"الجزورة". وكذلك"الفرش"، إنما هو صفة لما لطف فقرب من الأرض جسمه، ويقال له:"الفرش". وأحسبها سميت بذلك تمثيلا لها في استواء أسنانها ولطفها بالفَرْش من الأرض، وهي الأرض المستوية التي يتوطَّؤُها الناس.
+
+فأما"الحمولة"، بضم"الحاء"، فإنها الأحمال، وهي"الحمول" أيضًا بضم الحاء.
+
+* *
+
+القول في تأويل قوله: ﴿كُلُوا مِمَّا رَزَقَكُمُ اللَّهُ وَلا تَتَّبِعُوا خُطُوَاتِ الشَّيْطَانِ إِنَّهُ لَكُمْ عَدُوٌّ مُبِينٌ (١٤٢) ﴾
+
+قال أبو جعفر: يقول جل ثناؤه: كلوا مما رزقكم الله، أيها المؤمنون، فأحلّ لكم ثمرات حروثكم وغروسكم، ولحوم أنعامكم، إذ حرّم بعض ذلك على أنفسهم المشركون بالله، فجعلوا لله ما ذرأ من الحرث والأنعام نصيبًا وللشيطان مثله، فقالوا:"هذا لله بزعمهم وهذا لشركائنا" = ﴿ولا تتبعوا خطوات الشيطان﴾ ، كما اتبعها باحرُو البحيرة، ومسيِّبو السوائب، فتحرموا على أنفسكم من طيب رزق الله الذي رزقكم ما حرموه، فتطيعوا بذلك الشيطان، وتعصوا به الرحمن، كما:-
+
+١٤٠٦٦- حدثني يونس قال، أخبرنا ابن وهب قال، قال ابن زيد في قوله: ﴿ولا تتبعوا خطوات الشيطان﴾ ، لا تتبعوا طاعته، هي ذنوب لكم، وهي طاعة للخبيث.
+
+* *
+
+= إن الشيطان لكم عدو يبغي هلاككم وصدكم عن سبيل ربكم= ﴿مبين﴾ ، قد أبان لكم عدواته، [[في المطبوعة والمخطوطة: ((أبان لكم عدوانه)) ، وصوابها ما أثبت.]] بمناصبته أباكم بالعداوة، حتى أخرجه من الجنة بكيده، وخدَعه حسدًا منه له، [[في المطبوعة: ((وحسدًا منه)) بالواو، والصواب ما في المخطوطة.]] وبغيًا عليه. [[انظر تفسير ((خطوات الشيطان)) فيما سلف ٢: ٣٠٠ - ٣٠٢ / ٤: ٢٥٨.]]
 
 ### al-Muyassar (Arabic)
 
@@ -48,7 +488,7 @@ Allah states that He created everything, including the produce, fruits and cattl
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿و﴾ أنْشَأَ ﴿مِن الأَنْعام حَمُولَة﴾ صالِحَة لِلْحَمْلِ عَلَيْها كالإبِلِ الكِبار ﴿وفَرْشًا﴾ لا تَصْلُح لَهُ كالإبِلِ الصِّغار والغَنَم سُمِّيَتْ فُرُشًا لِأَنَّها كالفُرُشِ لِلْأَرْضِ لِدُنُوِّها مِنها ﴿كُلُوا مِمّا رَزَقَكُمْ اللَّه ولا تَتَّبِعُوا خُطُوات الشَّيْطان﴾ طَرائِقه مِن التَّحْرِيم والتَّحْلِيل ﴿إنّهُ لَكُمْ عَدُوّ مُبِين﴾ بَيِّن العَداوَة
 
 ---
 
@@ -56,20 +496,139 @@ Allah states that He created everything, including the produce, fruits and cattl
 
 ### Ibn Kathir (English)
 
+Eight pairs: of the sheep two (male and female), and of the goats two (male and female). Say: "Has He forbidden the two males or the two females, or (the young) which the wombs of the two females enclose? Inform me with knowledge if you are truthful. (143)And of the camels two, and of oxen two. Say: "Has He forbidden the two males or the two females or (the young) which the wombs of the two females enclose? Or were you present when Allah ordered you such a thing? Then who does more wrong than one who invents a lie against Allah, to lead mankind astray without knowledge. Certainly Allah guides not the people who are wrongdoers. (144)
+
 These Ayat demonstrate the ignorance of the Arabs before Islam.
-They used to prohibit the usage of some of their cattle and designate them as Bahirah, Sa'ibah, Wasilah and Ham etc. These were some of the innovations they invented for cattle, fruits and produce. Allah stated that He has created gardens, trellised and untrellised, and cattle, as animals of burden and as Farsh. Allah next mentioned various kinds of cattle, male and female, such as sheep and goats. He also created male and female...
+
+They used to prohibit the usage of some of their cattle and designate them as 'Baḥīrah', 'Sā'ibah', 'Waşīlah' and 'Ḥām' etc. These were some of the innovations they invented for cattle, fruits and produce. Allah stated that He has created gardens, trellised and untrellised, and cattle, as animals of burden and as Farsh. Allah next mentioned various kinds of cattle, male and female, such as sheep and goats. He also created male and female camels and the same with cows. Allah did not prohibit any of these cattle or their offspring. Rather, they all were created for the sons of Adam as a source for food, transportation, work, milk, and other benefits, which are many. Allah said,
+
+وَأَنزَلَ لَكُم مِّنَ الْأَنْعَامِ ثَمَانِيَةَ أَزْوَاجٍ
+
+(And He has sent down for you of cattle eight pairs...)[39:6] Allah said;
+
+أَمَّا اشْتَمَلَتْ عَلَيْهِ أَرْحَامُ الْأُنثَيَيْنِ
+
+(...or (the young) which the wombs of the two females enclose...) This refutes the idolators' statement,
+
+مَا فِي بُطُونِ هَٰذِهِ الْأَنْعَامِ خَالِصَةٌ لِّذُكُورِنَا وَمُحَرَّمٌ عَلَىٰ أَزْوَاجِنَا
+
+(What is in the bellies of such and such cattle is for our males alone, and forbidden to our females.)[6:139] Allah said,
+
+نَبِّئُونِي بِعِلْمٍ إِن كُنتُمْ صَادِقِينَ
+
+(Inform me with knowledge if you are truthful.) meaning, tell me with sure knowledge, how and when did Allah prohibit what you claimed is prohibited, such as the 'Baḥīrah', 'Sā'ibah', 'Waşīlah' and 'Ḥām' etc.?
+
+Al-'Awfi said that Ibn 'Abbas said, "Allah's statement,
+
+ثَمَانِيَةَ أَزْوَاجٍ مِّنَ الضَّأْنِ اثْنَيْنِ وَمِنَ الْمَعْزِ اثْنَيْنِ
+
+(Eight pairs: of the sheep two, and of the goats two...) these are four pairs,
+
+قُلْ آلذَّكَرَيْنِ حَرَّمَ أَمِ الْأُنثَيَيْنِ
+
+(Say: "Has He forbidden the two males or the two females...") I (Allah) did not prohibit any of these.
+
+أَمَّا اشْتَمَلَتْ عَلَيْهِ أَرْحَامُ الْأُنثَيَيْنِ
+
+(or (the young) which the wombs of the two females enclose?) and does the womb produce but males and females? So why do you prohibit some and allow some others?
+
+نَبِّئُونِي بِعِلْمٍ إِن كُنتُمْ صَادِقِينَ
+
+(Inform me with knowledge if you are truthful.) Allah is saying that all of this is allowed." Allah said,
+
+أَمْ كُنتُمْ شُهَدَاءَ إِذْ وَصَّاكُمُ اللَّهُ بِهَٰذَا
+
+(Or, were you present when Allah ordered you such a thing?) mocking the idolators' innovations, and their lies that Allah made sacred what they have prohibited.
+
+فَمَنْ أَظْلَمُ مِمَّنِ افْتَرَىٰ عَلَى اللَّهِ كَذِبًا لِّيُضِلَّ النَّاسَ بِغَيْرِ عِلْمٍ
+
+(Then who does more wrong than one who invents a lie against Allah, to lead mankind astray without knowledge.)
+
+Therefore, no one is more unjust than the people described here and
+
+إِنَّ اللَّهَ لَا يَهْدِي الْقَوْمَ الظَّالِمِينَ
+
+(Certainly, Allah guides not the people who are wrongdoers.)
+
+The person most worthy of this condemnation is 'Amr bin Luhay bin Qum'ah. He was the first person to change the religion of the Prophets and designate the 'Sā'ibah', 'Waşīlah' and 'Ḥām', as mentioned in the Sahih.
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله :  ثَمَانِيَةَ أَزْوَاجٍ مِنَ الضَّأْنِ اثْنَيْنِ وَمِنَ الْمَعْزِ اثْنَيْنِ قُلْ آلذَّكَرَيْنِ حَرَّمَ أَمِ الأُنْثَيَيْنِ أَمَّا اشْتَمَلَتْ عَلَيْهِ أَرْحَامُ الأُنْثَيَيْنِ نَبِّئُونِي بِعِلْمٍ إِنْ كُنْتُمْ صَادِقِينَ (143)قال أبو جعفر: وهذا تقريعٌ من الله جل ثناؤه العادلين به الأوثان من عبدة الأصنام، الذين بحروا البحائر، وسيَّبوا السوائب، ووصلوا الوصائل= وتعليم منه نبيَّه صلى الله عليه وسلم والمؤمنين به, الحجةَ عليهم في تحريمهم ما حرموا من ذلك. فقال للمؤمنين به وبرسو...
+القول في تأويل قوله: ﴿ثَمَانِيَةَ أَزْوَاجٍ مِنَ الضَّأْنِ اثْنَيْنِ وَمِنَ الْمَعْزِ اثْنَيْنِ قُلْ آلذَّكَرَيْنِ حَرَّمَ أَمِ الأنْثَيَيْنِ أَمَّا اشْتَمَلَتْ عَلَيْهِ أَرْحَامُ الأنْثَيَيْنِ نَبِّئُونِي بِعِلْمٍ إِنْ كُنْتُمْ صَادِقِينَ (١٤٣) ﴾
+
+قال أبو جعفر: وهذا تقريعٌ من الله جل ثناؤه العادلين به الأوثان من عبدة الأصنام، الذين بحروا البحائر، وسيَّبوا السوائب، ووصلوا الوصائل= وتعليم منه نبيَّه ﷺ والمؤمنين به، الحجةَ عليهم في تحريمهم ما حرموا من ذلك. فقال للمؤمنين به وبرسوله: وهو الذي أنشأ جنات معروشات وغير معروشات، ومن الأنعام أنشأ حمولة وفرشًا. ثم بين جل ثناؤه"الحمولة" و"الفرش"، فقال: ﴿ثمانية أزواج﴾ .
+
+* *
+
+وإنما نصب"الثمانية"، لأنها ترجمة عن"الحمولة" و"الفرش"، وبدل منها. كأن معنى الكلام: ومن الأنعام أنشأ ثمانية أزواج= فلما قدّم قبل"الثمانية""الحمولة" و"الفرش" بيّن ذلك بعد فقال: ﴿ثمانية أزواج﴾ ، على ذلك المعنى.
+
+* *
+
+﴿من الضأن اثنين ومن المعز اثنين﴾ ، فذلك أربعة، لأن كل واحد من الأنثيين من الضأن زوج، فالأنثى منه زوج الذكر، والذكر منه زوج الأنثى، وكذلك ذلك من المعز ومن سائر الحيوان. فلذلك قال جل ثناؤه: ﴿ثمانية أزواج﴾ ، كما قال: ﴿وَمِنْ كُلِّ شَيْءٍ خَلَقْنَا زَوْجَيْنِ﴾ ، [سورة الذاريات: ٤٩] ، لأن الذَّكر زوج الأنثى، والأنثى زوج الذكر، فهما وإن كانا اثنين فيهما زوجان، كما قال جل ثناؤه: ﴿وَجَعَلَ مِنْهَا زَوْجَهَا لِيَسْكُنَ إِلَيْهَا﴾ ، [سورة الأعراف: ١٨٩] ، وكما قال: ﴿أَمْسِكْ عَلَيْكَ زَوْجَكَ﴾ ، [سورة الأحزاب: ٣٧] ، وكما:-
+
+١٤٠٦٧- حدثنا ابن وكيع قال، حدثنا أبو معاوية، عن جويبر، عن الضحاك: ﴿من الضان اثنين﴾ ، ذكر وأنثى، ﴿ومن البقر اثنين﴾ ، ذكر وأنثى= ﴿ومن الإبل اثنين﴾ ، ذكر وأنثى.
+
+* *
+
+ويقال للاثنين:"هما زوج"، [[انظر تفسير ((الزوج)) فيما سلف ١: ٥١٤ / ٢: ٤٤٦ / ٧: ٥١٥ / ١٢: ١٥٠.]] كما قال لبيد:
+
+مِنْ كُلِّ مَحْفُوفٍ يُظِلُّ عِصِيَّهُ ... زَوْجٌ عَلَيْهِ كِلَّةٌ وَقِرَامُهَا [[من قصيدته العجيبة المعلقة، وهذا البي في أوائل الشعر، يصف هوادج ظعن الحي. و ((المحفوف)) ، يعني الهودج، حف بالثياب والأنماط. و ((العصى)) ، خشب الهودج، تظلله وتستره الثياب والأنماط. و ((الكلة)) الستر الرقيق. و ((الرقام)) ستر فيه رقم ونقوش وتماثيل.]]
+
+* *
+
+ثم قال لهم: كلوا مما رزقكم الله من هذه الثمار واللحوم، واركبوا هذه الحمولة، أيها المؤمنون، فلا تتبعوا خطوات الشيطان في تحريم ما حرم هؤلاء الجهلة بغير أمري إياهم بذلك.
+
+= قل، يا محمد، لهؤلاء الذين حرّموا ما حرموا من الحرث والأنعام اتباعًا للشيطان، من عبدة الأوثان والأصنام الذين زعموا أن الله حرم عليهم ما هم محرمون من ذلك=: آلذكرين حرم ربكم، أيها الكذبة على الله، من الضأن والمعز؟ فإنهم إن ادعوا ذلك وأقرّوا به، كذبوا أنفسهم وأبانوا جهلهم. لأنهم إذا قالوا:"يحرم الذكرين من ذلك"، أوجبوا تحريم كل ذكرين من ولد الضأن والمعز، وهم يستمتعون بلحوم الذكران منها وظهورها. وفي ذلك فساد دعواهم وتكذيب قولهم = ﴿أم الأنثيين﴾ ، فإنهم إن قالوا:"حرم ربنا الأنثيين"، أوجبوا تحريم لحوم كل أنثى من ولد الضأن والمعز على أنفسهم وظهورها. وفي ذلك أيضًا تكذيب لهم، ودحض دعواهم أنّ ربهم حرم ذلك عليهم، إذ كانوا يستمتعون بلحوم بعض ذلك وظهوره = ﴿أم ما اشتملت عليه أرحام الأنثيين﴾ ، يقول: أم حرم ما اشتملت عليه أرحام الأنثيين، يعني أرحام أنثى الضأن وأنثى المعز، فلذلك قال:"أرحام الأنثيين"، وفي ذلك أيضًا لو أقرُّوا به فقالوا:"حرم علينا ما اشتملت عليه أرحام الأنثيين"، بُطولُ قولهم وبيان كذبهم، لأنهم كانوا يقرّون بإقرارهم بذلك أنّ الله حرّم عليهم ذكور الضأن والمعز وإناثها، أن يأكلوا لحومها أو يركبوا ظهورها، وقد كانوا يستمتعون ببعض ذكورها وإناثها.
+
+* *
+
+و"ما" التي في قوله: ﴿أم ما اشتملت عليه أرحام الأنثيين﴾ ، نصب عطفًا بها على"الأنثيين". [[انظر معاني القرآن للفراء ١: ٣٦٠.]]
+
+* *
+
+= ﴿نبئوني بعلم﴾ ، يقول: قل لهم: خبروني بعلم ذلك على صحته: أيَّ ذلك حرم ربكم عليكم، وكيف حرم؟ [[انظر تفسير ((النبأ)) ، فيما سلف من فهارس اللغة (نبأ) .]] = ﴿إن كنتم صادقين﴾ ، فيما تنحلونه ربكم من دعواكم، وتضيفونه إليه من تحريمكم.
+
+* *
+
+وإنما هذا إعلامٌ من الله جل ثناؤه نبيَّه أنّ كل ما قاله هؤلاء المشركون في ذلك وأضافوه إلى الله، فهو كذب على الله، وأنه لم يحرم شيئًا من ذلك، وأنهم إنما اتّبعوا في ذلك خطوات الشيطان، وخالفوا أمره.
+
+* *
+
+وبنحو الذي قلنا في تأويل ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+١٤٠٦٨- حدثنا بشر بن معاذ قال، حدثنا يزيد قال، حدثنا سعيد، عن قتادة قوله: ﴿ثمانية أزواج من الضأن اثنين ومن المعز اثنين﴾ الآية، إن كل هذا لم أحرم منه قليلا ولا كثيرًا، ذكرًا ولا أنثى.
+
+١٤٠٦٩- حدثنا محمد بن عبد الأعلى قال، حدثنا محمد بن ثور، عن معمر، عن قتادة: ﴿من الضأن اثنين ومن المعز اثنين﴾ ، قال: سلهم: (آلذكرين حرم أم الأنثيين أما اشتملت عليه أرحام الأنثيين) ، أي: لم أحرم من هذا شيئًا = ﴿بعلم إن كنتم صادقين﴾ ، فذكر من الإبل والبقر نحو ذلك.
+
+١٤٠٧٠- حدثنا محمد بن عمرو قال، حدثنا أبو عاصم قال، حدثنا عيسى، عن ابن أبي نجيح، عن مجاهد في قول الله: ﴿ثمانية أزواج﴾ ، في شأن ما نهى الله عنه من البحيرة.
+
+١٤٠٧١- حدثنا القاسم قال، حدثنا الحسين قال، حدثني حجاج، عن ابن جريج، عن مجاهد قوله: ﴿ثمانية أزواج﴾ ، قال: هذا في شأن ما نهى الله عنه من البحائر والسُّيَّب = قال ابن جريج يقول: من أين حرمت هذا؟ من قبل الذكرين أم من قبل الأنثيين، أما اشتملت عليه أرحام الأنثيين؟ وإنها لا تشتمل إلا على ذكر أو أنثى، فمن أين جاء التحريم؟ فأجابوا هم: وجدنا آباءنا كذلك يفعلون.
+
+١٤٠٧٢- حدثني محمد بن الحسين قال، حدثنا أحمد بن المفضل قال، حدثنا أسباط، عن السدي: ثمانية أزواج من الضأن اثنين ومن المعز اثنين، ومن البقر اثنين ومن الإبل اثنين، يقول: أنزلت لكم ثمانية أزواج من هذا الذي عددت، ذكر وأنثى، فالذكرين حرمت عليكم أم الأنثيين، أما اشتملت عليه أرحام الأنثيين؟ يقول: أي: ما اشتملت عليه أرحام الأنثيين، ما تشتمل إلا على ذكر أو أنثى، فما حرمت عليكم ذكرًا ولا أنثى من الثمانية. إنما ذكر هذا من أجل ما حرَّموا من الأنعام.
+
+١٤٠٧٣- حدثني يعقوب بن إبراهيم قال، حدثنا ابن علية، عن أبي رجاء، عن الحسن: ﴿أما اشتملت عليه أرحام الأنثيين﴾ ، قال: ما حملت الرَّحم.
+
+١٤٠٧٤- حدثني يونس قال، أخبرنا ابن وهب قال، قال ابن زيد في قوله: ﴿قل آلذكرين حرم أم الأنثيين﴾ ، قال: هذا لقولهم: ﴿ما في بطون هذه الأنعام خالصة لذكورنا ومحرم على أزواجنا﴾ . قال: وقال ابن زيد في قوله: ﴿ثمانية أزواج من الضأن اثنين ومن المعز اثنين﴾ ، قال:"الأنعام"، هي الإبل والبقر والضأن والمعز، هذه"الأنعام" التي قال الله: "ثمانية أزواج". قال: وقال في قوله: ﴿هذه أنعام وحرث حجر﴾ ، نحتجرها على من نريد، وعمن نريد. وقوله: ﴿وأنعام حرمت ظهورها﴾ ، قال: لا يركبها أحد= ﴿وأنعام لا يذكرون اسم الله عليها﴾ ، فقال: ﴿آلذكرين حرم أم الأنثيين﴾ ، أيّ هذين حرم على هؤلاء؟ أي: أن تكون لهؤلاء حِلا وعلى هؤلاء حرامًا.
+
+١٤٠٧٥- حدثني المثنى قال، حدثنا عبد الله بن صالح قال، حدثني معاوية بن صالح، عن علي بن أبي طلحة، عن ابن عباس قوله: ﴿ثمانية أزواج من الضأن اثنين ومن المعز اثنين قل آلذكرين حرم أم الأنثيين أما اشتملت عليه أرحام الأنثيين﴾ ، يعني: هل تشتمل الرحم إلا على ذكر أو أنثى؟ فهل يحرمون بعضًا ويحلون بعضًا؟ .
+
+١٤٠٧٦- حدثني محمد بن سعد قال، حدثني أبي قال، حدثني عمي قال، حدثني أبي، عن أبيه، عن ابن عباس قوله: ﴿ثمانية أزواج من الضأن اثنين ومن المعز اثنين﴾ ، فهذه أربعة أزواج= ﴿ومن الإبل اثنين ومن البقر اثنين قل آلذكرين حرم أم الأنثيين﴾ ، يقول: لم أحرم شيئًا من ذلك = ﴿نبئوني بعلم إن كنتم صادقين﴾ ، يقول: كله حلال.
+
+* *
+
+و"الضأن" جمع لا واحد له من لفظه، وقد يجمع"الضأن"،"الضَّئين والضِّئين"، مثل"الشَّعير" و"الشِّعير"، كما يجمع"العبد" على"عَبيد، وعِبيد". [[كل ذلك بفتح الضاد، والشين، والعين = ثم بكسر الضاد، والشين، والعين. وقد نصوا على ذلك في ((الضئين)) و ((الشعير)) ، ولم أوفق إلى العثور على ذلك في ((العبيد)) ، وهو موجود إن شاء الله فيما أذكر. وقالوا: إن كسر ((الضاد)) لغة تميمية.]] وأما الواحد من ذكوره فـ"ضائن"، والأنثى"ضائنة"، وجمع"الضائنة""ضوائن".
+
+وكذلك"المعز"، جمع على غير واحد، وكذلك"المعزى"، وأما"الماعز"، فجمعه"مواعز".
 
 ### al-Muyassar (Arabic)
 
-هذه الأنعام التي رزقها الله عباده من الإبل والبقر والغنم ثمانية أصناف: أربعة منها من الغنم، وهي الضأن ذكورًا وإناثًا، والمعز ذكورًا وإناثًا. قل -أيها الرسول- لأولئك المشركين: هل حَرَّم الله الذكرين من الغنم؟ فإن قالوا: نعم، فقد كذبوا في ذلك؛ لأنهم لا يحرمون كل ذكر من الضأن والمعز، وقل لهم: هل حَرَّم الله الأنثيين من الغنم؟ فإن قالوا: نعم، فقد كذبوا أيضًا؛ لأنهم لا يحرمون كل أنثى من ولد الضأن والمعز، وقل لهم: هل حَرَّم الله ما اشتملت عليه أرحام الأنثيين من الضأن والمعز من الحمل؟ فإن قالوا: نعم...
+هذه الأنعام التي رزقها الله عباده من الإبل والبقر والغنم ثمانية أصناف: أربعة منها من الغنم، وهي الضأن ذكورًا وإناثًا، والمعز ذكورًا وإناثًا. قل -أيها الرسول- لأولئك المشركين: هل حَرَّم الله الذكرين من الغنم؟ فإن قالوا: نعم، فقد كذبوا في ذلك؛ لأنهم لا يحرمون كل ذكر من الضأن والمعز، وقل لهم: هل حَرَّم الله الأنثيين من الغنم؟ فإن قالوا: نعم، فقد كذبوا أيضًا؛ لأنهم لا يحرمون كل أنثى من ولد الضأن والمعز، وقل لهم: هل حَرَّم الله ما اشتملت عليه أرحام الأنثيين من الضأن والمعز من الحمل؟ فإن قالوا: نعم، فقد كذبوا أيضًا؛ لأنهم لا يحرمون كل حَمْل مِن ذلك، خبِّروني بعلم يدل على صحة ما ذهبتم إليه، إن كنتم صادقين فيما تنسبونه إلى ربكم.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿ثَمانِيَة أزْواج﴾ أصْناف بَدَل مِن حَمُولَة وفُرُشًا ﴿مِن الضَّأْن﴾ زَوْجَيْنِ ﴿اثْنَيْنِ﴾ ذَكَر وأُنْثى ﴿ومِن المَعْز﴾ بِالفَتْحِ والسُّكُون ﴿اثْنَيْنِ قُلْ﴾ يا مُحَمَّد لِمَن حَرَّمَ ذُكُور الأَنْعام تارَة وإناثهمْ أُخْرى ونَسَبَ ذَلِكَ إلى اللَّه ﴿آلذَّكَرَيْنِ﴾ مِن الضَّأْن والمَعْز ﴿حَرَّمَ﴾ اللَّه عَلَيْكُمْ ﴿أمْ الأُنْثَيَيْنِ﴾ مِنهُما ﴿أمّا اشْتَمَلَتْ عَلَيْهِ أرْحام الأُنْثَيَيْنِ﴾ ذَكَرًا كانَ أوْ أُنْثى ﴿نَبِّئُونِي بِعِلْمٍ﴾ عَنْ كَيْفِيَّة تَحْرِيم ذَلِكَ ﴿إنْ كُنْتُمْ صادِقِينَ﴾ فِيهِ المَعْنى مِن أيْنَ جاءَ التَّحْرِيم ؟ فَإنْ كانَ مِن قِبَل الذُّكُورَة فَجَمِيع الذُّكُور حَرام أوْ الأُنُوثَة فَجَمِيع الإناث أوْ اشْتِمال الرَّحِم فالزَّوْجانِ فَمِن أيْنَ التَّخْصِيص ؟ والِاسْتِفْهام لِلْإنْكارِ
 
 ---
 
@@ -77,19 +636,86 @@ They used to prohibit the usage of some of their cattle and designate them as Ba
 
 ### Ibn Kathir (English)
 
+Eight pairs: of the sheep two (male and female), and of the goats two (male and female). Say: "Has He forbidden the two males or the two females, or (the young) which the wombs of the two females enclose? Inform me with knowledge if you are truthful. (143)And of the camels two, and of oxen two. Say: "Has He forbidden the two males or the two females or (the young) which the wombs of the two females enclose? Or were you present when Allah ordered you such a thing? Then who does more wrong than one who invents a lie against Allah, to lead mankind astray without knowledge. Certainly Allah guides not the people who are wrongdoers. (144)
+
 These Ayat demonstrate the ignorance of the Arabs before Islam.
-They used to prohibit the usage of some of their cattle and designate them as Bahirah, Sa'ibah, Wasilah and Ham etc. These were some of the innovations they invented for cattle, fruits and produce. Allah stated that He has created gardens, trellised and untrellised, and cattle, as animals of burden and as Farsh. Allah next mentioned various kinds of cattle, male and female, such as sheep and goats. He also created male and female...
+
+They used to prohibit the usage of some of their cattle and designate them as 'Baḥīrah', 'Sā'ibah', 'Waşīlah' and 'Ḥām' etc. These were some of the innovations they invented for cattle, fruits and produce. Allah stated that He has created gardens, trellised and untrellised, and cattle, as animals of burden and as Farsh. Allah next mentioned various kinds of cattle, male and female, such as sheep and goats. He also created male and female camels and the same with cows. Allah did not prohibit any of these cattle or their offspring. Rather, they all were created for the sons of Adam as a source for food, transportation, work, milk, and other benefits, which are many. Allah said,
+
+وَأَنزَلَ لَكُم مِّنَ الْأَنْعَامِ ثَمَانِيَةَ أَزْوَاجٍ
+
+(And He has sent down for you of cattle eight pairs...)[39:6] Allah said;
+
+أَمَّا اشْتَمَلَتْ عَلَيْهِ أَرْحَامُ الْأُنثَيَيْنِ
+
+(...or (the young) which the wombs of the two females enclose...) This refutes the idolators' statement,
+
+مَا فِي بُطُونِ هَٰذِهِ الْأَنْعَامِ خَالِصَةٌ لِّذُكُورِنَا وَمُحَرَّمٌ عَلَىٰ أَزْوَاجِنَا
+
+(What is in the bellies of such and such cattle is for our males alone, and forbidden to our females.)[6:139] Allah said,
+
+نَبِّئُونِي بِعِلْمٍ إِن كُنتُمْ صَادِقِينَ
+
+(Inform me with knowledge if you are truthful.) meaning, tell me with sure knowledge, how and when did Allah prohibit what you claimed is prohibited, such as the 'Baḥīrah', 'Sā'ibah', 'Waşīlah' and 'Ḥām' etc.?
+
+Al-'Awfi said that Ibn 'Abbas said, "Allah's statement,
+
+ثَمَانِيَةَ أَزْوَاجٍ مِّنَ الضَّأْنِ اثْنَيْنِ وَمِنَ الْمَعْزِ اثْنَيْنِ
+
+(Eight pairs: of the sheep two, and of the goats two...) these are four pairs,
+
+قُلْ آلذَّكَرَيْنِ حَرَّمَ أَمِ الْأُنثَيَيْنِ
+
+(Say: "Has He forbidden the two males or the two females...") I (Allah) did not prohibit any of these.
+
+أَمَّا اشْتَمَلَتْ عَلَيْهِ أَرْحَامُ الْأُنثَيَيْنِ
+
+(or (the young) which the wombs of the two females enclose?) and does the womb produce but males and females? So why do you prohibit some and allow some others?
+
+نَبِّئُونِي بِعِلْمٍ إِن كُنتُمْ صَادِقِينَ
+
+(Inform me with knowledge if you are truthful.) Allah is saying that all of this is allowed." Allah said,
+
+أَمْ كُنتُمْ شُهَدَاءَ إِذْ وَصَّاكُمُ اللَّهُ بِهَٰذَا
+
+(Or, were you present when Allah ordered you such a thing?) mocking the idolators' innovations, and their lies that Allah made sacred what they have prohibited.
+
+فَمَنْ أَظْلَمُ مِمَّنِ افْتَرَىٰ عَلَى اللَّهِ كَذِبًا لِّيُضِلَّ النَّاسَ بِغَيْرِ عِلْمٍ
+
+(Then who does more wrong than one who invents a lie against Allah, to lead mankind astray without knowledge.)
+
+Therefore, no one is more unjust than the people described here and
+
+إِنَّ اللَّهَ لَا يَهْدِي الْقَوْمَ الظَّالِمِينَ
+
+(Certainly, Allah guides not the people who are wrongdoers.)
+
+The person most worthy of this condemnation is 'Amr bin Luhay bin Qum'ah. He was the first person to change the religion of the Prophets and designate the 'Sā'ibah', 'Waşīlah' and 'Ḥām', as mentioned in the Sahih.
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله :  وَمِنَ الإِبِلِ اثْنَيْنِ وَمِنَ الْبَقَرِ اثْنَيْنِ قُلْ آلذَّكَرَيْنِ حَرَّمَ أَمِ الأُنْثَيَيْنِ أَمَّا اشْتَمَلَتْ عَلَيْهِ أَرْحَامُ الأُنْثَيَيْنِ أَمْ كُنْتُمْ شُهَدَاءَ إِذْ وَصَّاكُمُ اللَّهُ بِهَذَا فَمَنْ أَظْلَمُ مِمَّنِ افْتَرَى عَلَى اللَّهِ كَذِبًا لِيُضِلَّ النَّاسَ بِغَيْرِ عِلْمٍ إِنَّ اللَّهَ لا يَهْدِي الْقَوْمَ الظَّالِمِينَ (144)قال أبو جعفر: وتأويل قوله: (ومن الإبل اثنين ومن البقر اثنين قل آلذكرين حرم أم الأنثيين أما اشتملت عليه أرحام الأنثيين)، ن...
+القول في تأويل قوله: ﴿وَمِنَ الإبِلِ اثْنَيْنِ وَمِنَ الْبَقَرِ اثْنَيْنِ قُلْ آلذَّكَرَيْنِ حَرَّمَ أَمِ الأنْثَيَيْنِ أَمَّا اشْتَمَلَتْ عَلَيْهِ أَرْحَامُ الأنْثَيَيْنِ أَمْ كُنْتُمْ شُهَدَاءَ إِذْ وَصَّاكُمُ اللَّهُ بِهَذَا فَمَنْ أَظْلَمُ مِمَّنِ افْتَرَى عَلَى اللَّهِ كَذِبًا لِيُضِلَّ النَّاسَ بِغَيْرِ عِلْمٍ إِنَّ اللَّهَ لا يَهْدِي الْقَوْمَ الظَّالِمِينَ (١٤٤) ﴾
+
+قال أبو جعفر: وتأويل قوله: ﴿ومن الإبل اثنين ومن البقر اثنين قل آلذكرين حرم أم الأنثيين أما اشتملت عليه أرحام الأنثيين﴾ ، نحو تأويل قوله: ﴿من الضأن اثنين ومن المعز اثنين﴾ ، وهذه أربعة أزواج، على نحو ما بيّنا من الأزواج الأربعة قبلُ من الضأن والمعز، فذلك ثمانية أزواج، كما وصف جل ثناؤه.
+
+* *
+
+وأما قوله: ﴿أم كنتم شهداء إذ وصّاكم الله بهذا فمن أظلم ممن افترى على الله كذبًا ليضل الناس بغير علم﴾ ، فإنه أمرٌ من الله جل ثناؤه نبيَّه ﷺ أن يقول لهؤلاء الجهلة من المشركين الذين قص قصصهم في هذه الآيات التي مضَت. يقول له عز ذكره: قل لهم، يا محمد، أيَّ هذه سألتكم عن تحريمه حرم ربكم عليكم من هذه الأزواج الثمانية؟ فإن أجابوك عن شيء مما سألتهم عنه من ذلك، فقل لهم: أخبرًا قلتم:"إن الله حرم هذا عليكم"، أخبركم به رسول عن ربكم، أم شهدتم ربكم فرأيتموه فوصَّاكم بهذا الذي تقولون وتزوّرون على الله؟ [[في المطبوعة: ((وتردون على الله)) ، وفي المخطوطة: ((وتررون)) ، وصواب قراءتها ما أثبت.]] فإن هذا الذي تقولون من إخباركم عن الله أنه حرام بما تزعمون على ما تزعمون، لا يعلم إلا بوحي من عنده مع رسول يرسله إلى خلقه، أو بسماع منه، فبأي هذين الوجهين علمتم أنّ الله حرم ذلك كذلك، برسول أرسله إليكم، فأنبئوني بعلم إن كنتم صادقين؟ أم شهدتم ربكم فأوصَاكم بذلك، وقال لكم:"حرمت ذلك عليكم"، فسمعتم تحريمه منه، وعهدَه إليكم بذلك؟ [[انظر تفسير ((شهداء)) فيما سلف من فهارس اللغة (شهد)
+
+= وتفسير ((وصى)) فيما سلف ٩: ٢٩٥، تعليق: ٢، والمراجع هناك.]] فإنه لم يكن واحدٌ من هذين الأمرين. يقول جل ثناؤه: ﴿فمن أظلم ممن افترى على الله كذبًا﴾ ، يقول: فمن أشد ظلمًا لنفسه، وأبعد عن الحق ممن تخرَّص على الله قيلَ الكذب، وأضاف إليه تحريم ما لم يحرّم، وتحليل ما لم يحلل [[انظر تفسير ((الافتراء)) فيما سلف ص: ١٥٣، تعليق: ٥، والمراجع هناك.]] = ﴿ليضل الناس بغير علم﴾ ، يقول: ليصدّهم عن سبيله [[انظر تفسير ((الضلال)) فيما سلف من فهارس اللغة (ضلل) .]] = ﴿إن الله لا يهدي القوم الظالمين﴾ ، يقول: لا يوفّق الله للرشد من افترى على الله وقال عليه الزُّور والكذب، وأضاف إليه تحريم ما لم يحرّم، كفرًا بالله، وجحودًا لنبوة نبيِّه محمد ﷺ، [[انظر تفسير ((الهدى)) فيما سلف من فهارس اللغة (هدى) .
+
+= وتفسير ((الظلم)) فيما سلف منها (ظلم) .]] كالذي:-
+
+١٤٠٧٧- حدثني يونس قال، أخبرنا ابن وهب قال، قال ابن زيد في قوله: ﴿أم كنتم شهداء إذ وصاكم الله بهذا﴾ ، الذي تقولون.
+
+١٤٠٧٨- حدثني محمد بن الحسين قال، حدثنا أحمد بن المفضل قال، حدثنا أسباط، عن السدي قال: كانوا يقولون = يعني الذين كانوا يتّخذون البحائر والسوائب =: إن الله أمر بهذا. فقال الله: ﴿فمن أظلم ممن افترى على الله كذبًا ليضل الناس بغير علم﴾ .
 
 ### al-Muyassar (Arabic)
 
-والأصناف الأربعة الأخرى: هي اثنان من الإبل ذكورًا وإناثًا، واثنان من البقر ذكورًا وإناثًا. قل -أيها الرسول- لأولئك المشركين: أحَرَّم الله الذكرين أم الأنثيين؟ أم حرَّم ما اشتملت عليه أرحام الأنثيين ذكورًا وإناثًا؟ أم كنتم أيها المشركون حاضرين، إذ وصاكم الله بهذا التحريم للأنعام، فلا أحد أشد ظلمًا ممن اختلق على الله الكذب؛ ليصرف الناس بجهله عن طريق الهدى. إن الله تعالى لا يوفق للرشد مَن تجاوز حدَّه، فكذب على ربه، وأضلَّ الناس.
+والأصناف الأربعة الأخرى: هي اثنان من الإبل ذكورًا وإناثًا، واثنان من البقر ذكورًا وإناثًا. قل -أيها الرسول- لأولئك المشركين: أحَرَّم الله الذكرين أم الأنثيين؟ أم حرَّم ما اشتملت عليه أرحام الأنثيين ذكورًا وإناثًا؟ أم كنتم أيها المشركون حاضرين، إذ وصّاكم الله بهذا التحريم للأنعام؟ فلا أحد أشد ظلمًا ممن اختلق على الله الكذب؛ ليصرف الناس بجهله عن طريق الهدى. إن الله تعالى لا يوفق للرشد مَن تجاوز حدَّه، فكذب على ربه، وأضلَّ الناس.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿ومِن الإبِل اثْنَيْنِ ومِن البَقَر اثْنَيْنِ قُلْ آلذَّكَرَيْنِ حَرَّمَ أمْ الأُنْثَيَيْنِ أمْ ما اشْتَمَلَتْ عَلَيْهِ أرْحام الأُنْثَيَيْنِ أمْ﴾ بَلْ ﴿كُنْتُمْ شُهَداء﴾ حُضُورًا ﴿إذْ وصّاكُمْ اللَّه بِهَذا﴾ التَّحْرِيم فاعْتَمَدْتُمْ ذَلِكَ ! لا بَلْ أنْتُمْ كاذِبُونَ فِيهِ ﴿فَمَن﴾ أيْ لا أحَد ﴿أظْلَم مِمَّنْ افْتَرى عَلى اللَّه كَذِبًا﴾ بِذَلِكَ
 
 ---

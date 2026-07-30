@@ -1,6 +1,6 @@
 # Tafsir Cross-Reference Report
 
-Generated: 2026-04-09
+Generated: 2026-07-30
 Ayahs referenced: 6
 Tafsir sources: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), al-Jalalayn (Arabic)
 
@@ -10,21 +10,233 @@ Tafsir sources: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), 
 
 ### Ibn Kathir (English)
 
-Which was revealed in Makkah
-Reciting Surat Al-A`la and Al-Ghashiyah in the Friday Prayer
-It has already been mentioned on the authority of An-Nu`man bin Bashir that the Messenger of Allah ﷺ used to recite Surat Al-A`la (87) and Al-Ghashiyah in the `Id and Friday prayers. Imam Malik recorded that Ad-Dahhak bin Qays asked An-Nu`man bin Bashir, "What else did the Messenger of Allah ﷺ recite on Friday along with Surat Al-Jumu`ah" An-Nu`man replied, "Al-Ghashiyah (88)." This narration has been re...
+Reciting Surat Al-A'la and Al-Ghashiyah in the Friday Prayer
+
+It has already been mentioned on the authority of An-Nu'man bin Bashir that the Messenger of Allah ﷺ used to recite Surat Al-A'la (87) and Al-Ghashiyah in the 'Id and Friday prayers. Imam Malik recorded that Ad-Dahhak bin Qays asked An-Nu'man bin Bashir, "What else did the Messenger of Allah ﷺ recite on Friday along with Surat Al-Jumu'ah?" An-Nu'man replied, "Al-Ghashiyah (88)." This narration has been recorded by Abu Dawud, An-Nasa'i, Muslim and Ibn Majah.
+
+بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
+
+In the Name of Allah, the Most Gracious, the Most Merciful.
+
+هَلْ أَتَاكَ حَدِيثُ الْغَاشِيَةِ - وُجُوهٌ يَوْمَئِذٍ خَاشِعَةٌ - عَامِلَةٌ نَّاصِبَةٌ - تَصْلَىٰ نَارًا حَامِيَةً - تُسْقَىٰ مِنْ عَيْنٍ آنِيَةٍ - لَّيْسَ لَهُمْ طَعَامٌ إِلَّا مِن ضَرِيعٍ - لَّا يُسْمِنُ وَلَا يُغْنِي مِن جُوعٍ
+
+(1. Has there come to you the narration of Al-Ghashiyah (the overwhelming)?)(2. Some faces that Day will be Khashi'ah.)(3. Laboring, weary.)(4. They will enter into Fire, Hamiyah.)(5. They will be given to drink from a boiling (Aniyah) spring,)(6. No food will there be for them but from Dari',)(7. Which will neither nourish nor avail against hunger.)
+
+The Day of Judgement and what will happen to the People of the Fire during it
+
+Al-Ghashiyah is one of the names of the Day of Judgement. This was said by Ibn 'Abbas, Qatadah and Ibn Zayd. It has been called this because it will overwhelm the people and overcome them. Allah then says,
+
+وُجُوهٌ يَوْمَئِذٍ خَاشِعَةٌ
+
+(Some faces that Day will be Khashi'ah.)
+
+meaning, humiliated. This was said by Qatadah. Ibn 'Abbas said, "They will be humble but this action will be of no benefit to them." Then Allah says,
+
+عَامِلَةٌ نَّاصِبَةٌ
+
+(Laboring, weary.) meaning, they did many deeds and became weary in their performance, yet they will be cast into a blazing Fire on the Day of Judgement. Al-Hafiz Abu Bakr Al-Burqani narrated from Abu 'Imran Al-Jawni that he said, " 'Umar bin Al-Khattab passed by the monastery of a monk and he said: 'O monk!' Then the monk came out, and 'Umar looked at him and began to weep. Then it was said to him: 'O Commander of the faithful! Why are you weeping?' He replied: 'I remembered the statement of Allah, the Mighty and Majestic, in His Book,
+
+عَامِلَةٌ نَّاصِبَةٌ - تَصْلَىٰ نَارًا حَامِيَةً
+
+(Laboring, weary. They will enter into Fire, Hamiyah.)
+
+So that is what has made me cry.'" Al-Bukhari recorded that Ibn 'Abbas said,
+
+عَامِلَةٌ نَّاصِبَةٌ
+
+(Laboring, weary.) "The Christians." It is narrated that 'Ikrimah and As-Suddi both said, "Laboring in the worldly life with disobedience, and weariness in the Fire from torment and perdition." Ibn 'Abbas, Al-Hasan, and Qatadah all said,
+
+تَصْلَىٰ نَارًا حَامِيَةً
+
+(They will enter into Fire, Hamiyah) meaning, hot with intense heat.
+
+تُسْقَىٰ مِنْ عَيْنٍ آنِيَةٍ
+
+(They will be given to drink from a boiling (Aniyah) spring.)
+
+meaning, its heat has reached its maximum limit and boiling point. This was said by Ibn 'Abbas, Mujahid, Al-Hasan and As-Suddi. Concerning Allah's statement,
+
+لَّيْسَ لَهُمْ طَعَامٌ إِلَّا مِن ضَرِيعٍ
+
+(No food will there be for them but from Dari',)
+
+Ali bin Abi Talhah reported from Ibn 'Abbas that he said, "A tree from the Hellfire." Ibn 'Abbas, Mujahid, 'Ikrimah, Abu Al-Jawza' and Qatadah, all said, "It is Ash-Shibriq (a type of plant)." Qatadah said, "The Quraysh called it Ash-Shabraq in the spring and Ad-Dari' in the summer." 'Ikrimah said, "It is a thorny tree which reaches down to the ground." Al-Bukhari related that Mujahid said, "Ad-Dari' is a plant that is called Ash-Shibriq. The people of the Hijaz call it Ad-Dari' when it dries, and it is poisonous." Ma'mar narrated that Qatadah said,
+
+لَّيْسَ لَهُمْ طَعَامٌ إِلَّا مِن ضَرِيعٍ
+
+(No food will there be for them but from Dari',)
+
+"This is Ash-Shibriq. When it dries it is called Ad-Dari'." Sa'id narrated from Qatadah that he said,
+
+لَّيْسَ لَهُمْ طَعَامٌ إِلَّا مِن ضَرِيعٍ
+
+(No food will there be for them but from Dari',)
+
+"This is of the worst, most disgusting and loathsome of foods." Concerning Allah's statement,
+
+لَّا يُسْمِنُ وَلَا يُغْنِي مِن جُوعٍ
+
+(Which will neither nourish nor avail against hunger.)
+
+This means that the intent in eating it will not be achieved, and nothing harmful will be repelled by it.
 
 ### al-Tabari (Arabic)
 
-وقوله: ( وُجُوهٌ يَوْمَئِذٍ خَاشِعَةٌ ) يقول تعالى ذكره: وجوه يومئذ، وهي وجوه أهل الكفر بهخاشعة، يقول: ذليلة.* ذكر من قال ذلك:حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة ( وُجُوهٌ يَوْمَئِذٍ خَاشِعَةٌ ) : أي ذليلة.حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة، في قوله: ( خَاشِعَةٌ ) قال: خاشعة في النار.
+القول في تأويل قوله تعالى: ﴿هَلْ أَتَاكَ حَدِيثُ الْغَاشِيَةِ (١) وُجُوهٌ يَوْمَئِذٍ خَاشِعَةٌ (٢) عَامِلَةٌ نَاصِبَةٌ (٣) تَصْلَى نَارًا حَامِيَةً (٤) تُسْقَى مِنْ عَيْنٍ آنِيَةٍ (٥) لَيْسَ لَهُمْ طَعَامٌ إِلا مِنْ ضَرِيعٍ (٦) لا يُسْمِنُ وَلا يُغْنِي مِنْ جُوعٍ (٧) ﴾
+
+.
+
+يقول تعالى ذكره لنبيه محمد ﷺ: ﴿هَلْ أَتَاكَ﴾ يا محمد ﴿حَدِيثُ الْغَاشِيَةِ﴾ يعني: قصتها وخبرها.
+
+واختلف أهل التأويل في معنى الغاشية، فقال بعضهم: هي القيامة تغشي الناس بالأهوال.
+
+ذكر من قال ذلك:
+
+⁕ حدثني عليّ، قال: ثنا أبو صالح، قال: ثني معاوية، عن عليّ، عن ابن عباس ﴿الْغَاشِيَةِ﴾ من أسماء يوم القيامة، عظَّمه الله، وحذّره عباده.
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: ﴿هَلْ أَتَاكَ حَدِيثُ الْغَاشِيَةِ﴾ قال: الغاشية: الساعة.
+
+⁕ حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس، في قوله: ﴿هَلْ أَتَاكَ حَدِيثُ الْغَاشِيَةِ﴾ قال: الساعة.
+
+وقال آخرون: بل الغاشية: النار تغشَى وجوه الكَفَرة.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا أبو كُرَيب، قال: ثنا ابن يمان، عن أشعث، عن سعيد، في قوله: ﴿هَلْ أَتَاكَ حَدِيثُ الْغَاشِيَةِ﴾ قال: غاشية النار.
+
+والصواب من القول في ذلك أن يقال: إن الله قال لنبيه ﷺ: ﴿هَلْ أَتَاكَ حَدِيثُ الْغَاشِيَةِ﴾ لم يخبرنا أنه عنى غاشية القيامة، ولا أنه عنى غاشية النار. وكلتاهما غاشية، هذه تغشى الناس بالبلاء والأهوال والكروب، وهذه تغشي الكفار باللفح في الوجوه، والشُّواظ والنحاس، فلا قول في ذلك أصحّ من أن يقال كما قال جلّ ثناؤه، ويعمّ الخبر بذلك كما عمه.
+
+* *
+
+وقوله: ﴿وُجُوهٌ يَوْمَئِذٍ خَاشِعَةٌ﴾
+
+يقول تعالى ذكره: وجوه يومئذ، وهي وجوه أهل الكفر به
+
+خاشعة، يقول: ذليلة.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة ﴿وُجُوهٌ يَوْمَئِذٍ خَاشِعَةٌ﴾ : أي ذليلة.
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة، في قوله: ﴿خَاشِعَةٌ﴾ قال: خاشعة في النار.
+
+* *
+
+وقوله: ﴿عَامِلَةٌ﴾
+
+يعني: عاملة في النار.
+
+* *
+
+وقوله: ﴿ناصِبَةٌ﴾
+
+يقول: ناصبة فيها.
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس ﴿عَامِلَةٌ نَاصِبَةٌ﴾ فإنها تعمل وَتَنْصَب من النار.
+
+⁕ حدثني يعقوب، قال: ثنا ابن علية، عن أبي رجاء، قال: سمعت الحسن، قرأ: ﴿عَامِلَةٌ نَاصِبَةٌ﴾ قال: لم تعمل لله في الدنيا، فأعملها في النار.
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة ﴿عَامِلَةٌ نَاصِبَةٌ﴾ تكبرت في الدنيا عن طاعة الله، فأعملها وأنصبها في النار.
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة، في قوله: ﴿عَامِلَةٌ نَاصِبَةٌ﴾ قال: عاملة ناصبة في النار.
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله: ﴿عَامِلَةٌ نَاصِبَةٌ﴾ قال: لا أحد أنصَبُ ولا أشدّ من أهل النار.
+
+* *
+
+وقوله: ﴿تَصْلَى نَارًا حَامِيَةً﴾
+
+يقول تعالى ذكره: ترد هذه الوجوه نارًا حامية قد حميت واشتد حرها.
+
+واختلفت القرّاء في قراءة ذلك، فقرأته عامة قرّاء الكوفة ﴿تَصْلَى﴾ بفتح التاء، بمعنى: تصلى الوجوه. وقرأ ذلك أبو عمرو ﴿تُصْلَى﴾ بضم التاء اعتبارًا بقوله: ﴿تُسْقَى مِنْ عَيْنٍ آنِيَةٍ﴾ ، والقول في ذلك أنهما قراءتان صحيحتا المعنى، فبأيتهما قرأ القارئ فمصيب.
+
+* *
+
+وقوله: ﴿تُسْقَى مِنْ عَيْنٍ آنِيَةٍ﴾
+
+يقول: تسقى أصحاب هذه الوجوه من شَرَاب عين قد أنى حرّها، فبلغ غايته في شدة الحرّ.
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس، قوله: ﴿تُسْقَى مِنْ عَيْنٍ آنِيَةٍ﴾ قال: هي التي قد أطال أنينها.
+
+⁕ حدثني يعقوب، قال: ثنا ابن عُلَيَة، عن أبي رجاء، عن الحسن، في قوله: ﴿تُسْقَى مِنْ عَيْنٍ آنِيَةٍ﴾ قال: أنَى طبخها منذ يوم خلق الله الدنيا.
+
+⁕ حدثني به يعقوب مرّة أخرى، فقال: منذ يوم خلق الله السموات والأرض.
+
+⁕ حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء، جميعا عن ابن أبي نجيح، عن مجاهد في قول الله: ﴿مِنْ عَيْنٍ آنِيَةٍ﴾ قال: قد بلغت إناها، وحان شربها.
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: ﴿تُسْقَى مِنْ عَيْنٍ آنِيَةٍ﴾ يقول: قد أنَى طبخها منذ خلق الله السموات والأرض.
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن الحسن، في قوله: ﴿مِنْ عَيْنٍ آنِيَةٍ﴾ قال: من عين أنَى حرّها: يقول: قد بلغ حرّها.
+
+وقال بعضهم: عُنِيَ بقوله: ﴿مِنْ عَيْنٍ آنِيَةٍ﴾ من عين حاضرة.
+
+ذكر من قال ذلك:
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله: ﴿تُسْقَى مِنْ عَيْنٍ آنِيَةٍ﴾ قال: آنية: حاضرة.
+
+* *
+
+وقوله: ﴿لَيْسَ لَهُمْ طَعَامٌ إِلا مِنْ ضَرِيعٍ﴾
+
+يقول: ليس لهؤلاء الذين هم أصحاب الخاشعة العاملة الناصبة يوم القيامة طعام، إلا ما يطعمونه من ضَرِيع. والضريع عند العرب: نبت يُقال له الشِّبْرِق، وتسميه أهل الحجاز الضَّريع إذا يبس، ويسميه غيرهم: الشِّبْرق، وهو سمّ.
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس ﴿لَيْسَ لَهُمْ طَعَامٌ إِلا مِنْ ضَرِيعٍ﴾ قال: الضريع: الشِّبْرق.
+
+⁕ حدثني محمد بن عُبيد المحاربيّ، قال: ثنا عباد بن يعقوب الأسديّ، قال محمد: ثنا، وقال عباد: أخبرنا محمد بن سليمان، عن عبد الرحمن الأصبهانيّ، عن عكرِمة في قوله: ﴿لَيْسَ لَهُمْ طَعَامٌ إِلا مِنْ ضَرِيعٍ﴾ قال: الشِّبرق.
+
+⁕ حدثني يعقوب، قال: ثنا إسماعيل بن عُلَية، عن أبي رجاء، قال: ثني نجدة، رجل من عبد القيس عن عكرمة، في قوله: ﴿لَيْسَ لَهُمْ طَعَامٌ إِلا مِنْ ضَرِيعٍ﴾ قال: هي شجرة ذات شوك، لاطئة بالأرض، فإذا كان الربيع سمَّتها قريش الشِّبرق، فإذا هاج العود سمتها الضَّريع.
+
+⁕ حدثنا ابن بشار، قال: ثنا عبد الرحمن، قال: ثنا سفيان، عن ليث، عن مجاهد ﴿لَيْسَ لَهُمْ طَعَامٌ إِلا مِنْ ضَرِيعٍ﴾ قال: الشبرق.
+
+⁕ حدثنا ابن حُميد، قال: ثنا مِهران، عن سفيان، عن ليث، عن مجاهد، مثله.
+
+⁕ حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى؛ وحدثني الحارث، قال: ثنا الحسن؛ قال: ثنا ورقاء، جميعا عن ابن أبي نجيح، عن مجاهد، قوله: ﴿ضَرِيعٍ﴾ قال: الشِّبرق اليابس.
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة ﴿إِلا مِنْ ضَرِيعٍ﴾ قال: هو الشبرق إذا يبس يسمى الضريع.
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: ﴿لَيْسَ لَهُمْ طَعَامٌ إِلا مِنْ ضَرِيعٍ﴾ يقول: من شرّ الطعام، وأبشعه وأخبثه.
+
+⁕ حدثني محمد بن عبيد، قال: ثنا شريك بن عبد الله، في قوله: (لَيْسَ لَهُمْ طَعَامٌ إِلا مِنْ ضَرِيعٍ) قال: الشبرق.
+
+وقال آخرون: الضَّرِيع: الحجارة.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا أبو كُرَيب، قال: ثنا ابن يمان، عن جعفر، عن سعيد، في قوله: ﴿لَيْسَ لَهُمْ طَعَامٌ إِلا مِنْ ضَرِيعٍ﴾ قال: الحجارة.
+
+وقال آخرون: الضَّرِيع: شجر من نار.
+
+ذكر من قال ذلك:
+
+⁕ حدثني عليّ، قال: ثنا أبو صالح، قال: ثني معاوية، عن عليّ، عن ابن عباس، قوله: ﴿لَيْسَ لَهُمْ طَعَامٌ إِلا مِنْ ضَرِيعٍ﴾ يقول: شجر من نار.
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله: ﴿لَيْسَ لَهُمْ طَعَامٌ إِلا مِنْ ضَرِيعٍ﴾ قال: الضريع: الشَّوك من النار. قال: وأما في الدنيا فإنَّ الضريع: الشوك اليابس الذي ليس له ورق، تدعوه العرب الضريع، وهو في الآخرة شوك من نار
+
+* *
+
+وقوله: ﴿لا يُسْمِنُ وَلا يُغْنِي مِنْ جُوعٍ﴾
+
+يقول: لا يُسمن هذا الضريع يوم القيامة أكلته من أهل النار، ﴿ولا يُغني من جوع﴾ يقول: ولا يُشْبعهم من جوع يصيبهم.
 
 ### al-Muyassar (Arabic)
 
-وجوه الكفار يومئذ ذليلة بالعذاب، مجهدة بالعمل متعبة، تصيبها نار شديدة التوهج، تُسقى من عين شديدة الحرارة. ليس لأصحاب النار طعام إلا من نبت ذي شوك لاصق بالأرض، وهو مِن شر الطعام وأخبثه، لا يُسْمن بدن صاحبه من الهُزال، ولا يسدُّ جوعه ورمقه.
+وجوه الكفار يومئذ ذليلة بالعذاب، مجهدة بالعمل متعبة، تصيبها نار شديدة التوهج، تُسقى مِن عين بلغت منتهى الحرارة، ليس لأصحاب النار طعام إلا مِن نبت ذي شوك لاصق بالأرض، وهو مِن شر الطعام وأخبثه، لا يُسْمن بدن صاحبه من الهُزال، ولا يسدُّ جوعه ورَمَقَه.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿وُجُوه يَوْمئِذٍ﴾ عَبَّرَ بِها عَنْ الذَّوات فِي المَوْضِعَيْنِ ﴿خاشِعَة﴾ ذَلِيلَة
 
 ---
 
@@ -32,21 +244,233 @@ It has already been mentioned on the authority of An-Nu`man bin Bashir that the 
 
 ### Ibn Kathir (English)
 
-Which was revealed in Makkah
-Reciting Surat Al-A`la and Al-Ghashiyah in the Friday Prayer
-It has already been mentioned on the authority of An-Nu`man bin Bashir that the Messenger of Allah ﷺ used to recite Surat Al-A`la (87) and Al-Ghashiyah in the `Id and Friday prayers. Imam Malik recorded that Ad-Dahhak bin Qays asked An-Nu`man bin Bashir, "What else did the Messenger of Allah ﷺ recite on Friday along with Surat Al-Jumu`ah" An-Nu`man replied, "Al-Ghashiyah (88)." This narration has been re...
+Reciting Surat Al-A'la and Al-Ghashiyah in the Friday Prayer
+
+It has already been mentioned on the authority of An-Nu'man bin Bashir that the Messenger of Allah ﷺ used to recite Surat Al-A'la (87) and Al-Ghashiyah in the 'Id and Friday prayers. Imam Malik recorded that Ad-Dahhak bin Qays asked An-Nu'man bin Bashir, "What else did the Messenger of Allah ﷺ recite on Friday along with Surat Al-Jumu'ah?" An-Nu'man replied, "Al-Ghashiyah (88)." This narration has been recorded by Abu Dawud, An-Nasa'i, Muslim and Ibn Majah.
+
+بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
+
+In the Name of Allah, the Most Gracious, the Most Merciful.
+
+هَلْ أَتَاكَ حَدِيثُ الْغَاشِيَةِ - وُجُوهٌ يَوْمَئِذٍ خَاشِعَةٌ - عَامِلَةٌ نَّاصِبَةٌ - تَصْلَىٰ نَارًا حَامِيَةً - تُسْقَىٰ مِنْ عَيْنٍ آنِيَةٍ - لَّيْسَ لَهُمْ طَعَامٌ إِلَّا مِن ضَرِيعٍ - لَّا يُسْمِنُ وَلَا يُغْنِي مِن جُوعٍ
+
+(1. Has there come to you the narration of Al-Ghashiyah (the overwhelming)?)(2. Some faces that Day will be Khashi'ah.)(3. Laboring, weary.)(4. They will enter into Fire, Hamiyah.)(5. They will be given to drink from a boiling (Aniyah) spring,)(6. No food will there be for them but from Dari',)(7. Which will neither nourish nor avail against hunger.)
+
+The Day of Judgement and what will happen to the People of the Fire during it
+
+Al-Ghashiyah is one of the names of the Day of Judgement. This was said by Ibn 'Abbas, Qatadah and Ibn Zayd. It has been called this because it will overwhelm the people and overcome them. Allah then says,
+
+وُجُوهٌ يَوْمَئِذٍ خَاشِعَةٌ
+
+(Some faces that Day will be Khashi'ah.)
+
+meaning, humiliated. This was said by Qatadah. Ibn 'Abbas said, "They will be humble but this action will be of no benefit to them." Then Allah says,
+
+عَامِلَةٌ نَّاصِبَةٌ
+
+(Laboring, weary.) meaning, they did many deeds and became weary in their performance, yet they will be cast into a blazing Fire on the Day of Judgement. Al-Hafiz Abu Bakr Al-Burqani narrated from Abu 'Imran Al-Jawni that he said, " 'Umar bin Al-Khattab passed by the monastery of a monk and he said: 'O monk!' Then the monk came out, and 'Umar looked at him and began to weep. Then it was said to him: 'O Commander of the faithful! Why are you weeping?' He replied: 'I remembered the statement of Allah, the Mighty and Majestic, in His Book,
+
+عَامِلَةٌ نَّاصِبَةٌ - تَصْلَىٰ نَارًا حَامِيَةً
+
+(Laboring, weary. They will enter into Fire, Hamiyah.)
+
+So that is what has made me cry.'" Al-Bukhari recorded that Ibn 'Abbas said,
+
+عَامِلَةٌ نَّاصِبَةٌ
+
+(Laboring, weary.) "The Christians." It is narrated that 'Ikrimah and As-Suddi both said, "Laboring in the worldly life with disobedience, and weariness in the Fire from torment and perdition." Ibn 'Abbas, Al-Hasan, and Qatadah all said,
+
+تَصْلَىٰ نَارًا حَامِيَةً
+
+(They will enter into Fire, Hamiyah) meaning, hot with intense heat.
+
+تُسْقَىٰ مِنْ عَيْنٍ آنِيَةٍ
+
+(They will be given to drink from a boiling (Aniyah) spring.)
+
+meaning, its heat has reached its maximum limit and boiling point. This was said by Ibn 'Abbas, Mujahid, Al-Hasan and As-Suddi. Concerning Allah's statement,
+
+لَّيْسَ لَهُمْ طَعَامٌ إِلَّا مِن ضَرِيعٍ
+
+(No food will there be for them but from Dari',)
+
+Ali bin Abi Talhah reported from Ibn 'Abbas that he said, "A tree from the Hellfire." Ibn 'Abbas, Mujahid, 'Ikrimah, Abu Al-Jawza' and Qatadah, all said, "It is Ash-Shibriq (a type of plant)." Qatadah said, "The Quraysh called it Ash-Shabraq in the spring and Ad-Dari' in the summer." 'Ikrimah said, "It is a thorny tree which reaches down to the ground." Al-Bukhari related that Mujahid said, "Ad-Dari' is a plant that is called Ash-Shibriq. The people of the Hijaz call it Ad-Dari' when it dries, and it is poisonous." Ma'mar narrated that Qatadah said,
+
+لَّيْسَ لَهُمْ طَعَامٌ إِلَّا مِن ضَرِيعٍ
+
+(No food will there be for them but from Dari',)
+
+"This is Ash-Shibriq. When it dries it is called Ad-Dari'." Sa'id narrated from Qatadah that he said,
+
+لَّيْسَ لَهُمْ طَعَامٌ إِلَّا مِن ضَرِيعٍ
+
+(No food will there be for them but from Dari',)
+
+"This is of the worst, most disgusting and loathsome of foods." Concerning Allah's statement,
+
+لَّا يُسْمِنُ وَلَا يُغْنِي مِن جُوعٍ
+
+(Which will neither nourish nor avail against hunger.)
+
+This means that the intent in eating it will not be achieved, and nothing harmful will be repelled by it.
 
 ### al-Tabari (Arabic)
 
-وقوله: ( عَامِلَةٌ ) يعني: عاملة في النار. وقوله: ( ناصِبَةٌ ) يقول: ناصبة فيها.وبنحو الذي قلنا في ذلك قال أهل التأويل.* ذكر من قال ذلك:حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس ( عَامِلَةٌ نَاصِبَةٌ ) فإنها تعمل وَتَنْصَب من النار.حدثني يعقوب، قال: ثنا ابن علية، عن أبي رجاء، قال: سمعت الحسن، قرأ: ( عَامِلَةٌ نَاصِبَةٌ ) قال: لم تعمل لله في الدنيا، فأعملها في النار.حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة ( عَامِلَةٌ نَاصِبَةٌ ) تكبرت في الدنيا...
+القول في تأويل قوله تعالى: ﴿هَلْ أَتَاكَ حَدِيثُ الْغَاشِيَةِ (١) وُجُوهٌ يَوْمَئِذٍ خَاشِعَةٌ (٢) عَامِلَةٌ نَاصِبَةٌ (٣) تَصْلَى نَارًا حَامِيَةً (٤) تُسْقَى مِنْ عَيْنٍ آنِيَةٍ (٥) لَيْسَ لَهُمْ طَعَامٌ إِلا مِنْ ضَرِيعٍ (٦) لا يُسْمِنُ وَلا يُغْنِي مِنْ جُوعٍ (٧) ﴾
+
+.
+
+يقول تعالى ذكره لنبيه محمد ﷺ: ﴿هَلْ أَتَاكَ﴾ يا محمد ﴿حَدِيثُ الْغَاشِيَةِ﴾ يعني: قصتها وخبرها.
+
+واختلف أهل التأويل في معنى الغاشية، فقال بعضهم: هي القيامة تغشي الناس بالأهوال.
+
+ذكر من قال ذلك:
+
+⁕ حدثني عليّ، قال: ثنا أبو صالح، قال: ثني معاوية، عن عليّ، عن ابن عباس ﴿الْغَاشِيَةِ﴾ من أسماء يوم القيامة، عظَّمه الله، وحذّره عباده.
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: ﴿هَلْ أَتَاكَ حَدِيثُ الْغَاشِيَةِ﴾ قال: الغاشية: الساعة.
+
+⁕ حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس، في قوله: ﴿هَلْ أَتَاكَ حَدِيثُ الْغَاشِيَةِ﴾ قال: الساعة.
+
+وقال آخرون: بل الغاشية: النار تغشَى وجوه الكَفَرة.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا أبو كُرَيب، قال: ثنا ابن يمان، عن أشعث، عن سعيد، في قوله: ﴿هَلْ أَتَاكَ حَدِيثُ الْغَاشِيَةِ﴾ قال: غاشية النار.
+
+والصواب من القول في ذلك أن يقال: إن الله قال لنبيه ﷺ: ﴿هَلْ أَتَاكَ حَدِيثُ الْغَاشِيَةِ﴾ لم يخبرنا أنه عنى غاشية القيامة، ولا أنه عنى غاشية النار. وكلتاهما غاشية، هذه تغشى الناس بالبلاء والأهوال والكروب، وهذه تغشي الكفار باللفح في الوجوه، والشُّواظ والنحاس، فلا قول في ذلك أصحّ من أن يقال كما قال جلّ ثناؤه، ويعمّ الخبر بذلك كما عمه.
+
+* *
+
+وقوله: ﴿وُجُوهٌ يَوْمَئِذٍ خَاشِعَةٌ﴾
+
+يقول تعالى ذكره: وجوه يومئذ، وهي وجوه أهل الكفر به
+
+خاشعة، يقول: ذليلة.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة ﴿وُجُوهٌ يَوْمَئِذٍ خَاشِعَةٌ﴾ : أي ذليلة.
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة، في قوله: ﴿خَاشِعَةٌ﴾ قال: خاشعة في النار.
+
+* *
+
+وقوله: ﴿عَامِلَةٌ﴾
+
+يعني: عاملة في النار.
+
+* *
+
+وقوله: ﴿ناصِبَةٌ﴾
+
+يقول: ناصبة فيها.
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس ﴿عَامِلَةٌ نَاصِبَةٌ﴾ فإنها تعمل وَتَنْصَب من النار.
+
+⁕ حدثني يعقوب، قال: ثنا ابن علية، عن أبي رجاء، قال: سمعت الحسن، قرأ: ﴿عَامِلَةٌ نَاصِبَةٌ﴾ قال: لم تعمل لله في الدنيا، فأعملها في النار.
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة ﴿عَامِلَةٌ نَاصِبَةٌ﴾ تكبرت في الدنيا عن طاعة الله، فأعملها وأنصبها في النار.
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة، في قوله: ﴿عَامِلَةٌ نَاصِبَةٌ﴾ قال: عاملة ناصبة في النار.
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله: ﴿عَامِلَةٌ نَاصِبَةٌ﴾ قال: لا أحد أنصَبُ ولا أشدّ من أهل النار.
+
+* *
+
+وقوله: ﴿تَصْلَى نَارًا حَامِيَةً﴾
+
+يقول تعالى ذكره: ترد هذه الوجوه نارًا حامية قد حميت واشتد حرها.
+
+واختلفت القرّاء في قراءة ذلك، فقرأته عامة قرّاء الكوفة ﴿تَصْلَى﴾ بفتح التاء، بمعنى: تصلى الوجوه. وقرأ ذلك أبو عمرو ﴿تُصْلَى﴾ بضم التاء اعتبارًا بقوله: ﴿تُسْقَى مِنْ عَيْنٍ آنِيَةٍ﴾ ، والقول في ذلك أنهما قراءتان صحيحتا المعنى، فبأيتهما قرأ القارئ فمصيب.
+
+* *
+
+وقوله: ﴿تُسْقَى مِنْ عَيْنٍ آنِيَةٍ﴾
+
+يقول: تسقى أصحاب هذه الوجوه من شَرَاب عين قد أنى حرّها، فبلغ غايته في شدة الحرّ.
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس، قوله: ﴿تُسْقَى مِنْ عَيْنٍ آنِيَةٍ﴾ قال: هي التي قد أطال أنينها.
+
+⁕ حدثني يعقوب، قال: ثنا ابن عُلَيَة، عن أبي رجاء، عن الحسن، في قوله: ﴿تُسْقَى مِنْ عَيْنٍ آنِيَةٍ﴾ قال: أنَى طبخها منذ يوم خلق الله الدنيا.
+
+⁕ حدثني به يعقوب مرّة أخرى، فقال: منذ يوم خلق الله السموات والأرض.
+
+⁕ حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء، جميعا عن ابن أبي نجيح، عن مجاهد في قول الله: ﴿مِنْ عَيْنٍ آنِيَةٍ﴾ قال: قد بلغت إناها، وحان شربها.
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: ﴿تُسْقَى مِنْ عَيْنٍ آنِيَةٍ﴾ يقول: قد أنَى طبخها منذ خلق الله السموات والأرض.
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن الحسن، في قوله: ﴿مِنْ عَيْنٍ آنِيَةٍ﴾ قال: من عين أنَى حرّها: يقول: قد بلغ حرّها.
+
+وقال بعضهم: عُنِيَ بقوله: ﴿مِنْ عَيْنٍ آنِيَةٍ﴾ من عين حاضرة.
+
+ذكر من قال ذلك:
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله: ﴿تُسْقَى مِنْ عَيْنٍ آنِيَةٍ﴾ قال: آنية: حاضرة.
+
+* *
+
+وقوله: ﴿لَيْسَ لَهُمْ طَعَامٌ إِلا مِنْ ضَرِيعٍ﴾
+
+يقول: ليس لهؤلاء الذين هم أصحاب الخاشعة العاملة الناصبة يوم القيامة طعام، إلا ما يطعمونه من ضَرِيع. والضريع عند العرب: نبت يُقال له الشِّبْرِق، وتسميه أهل الحجاز الضَّريع إذا يبس، ويسميه غيرهم: الشِّبْرق، وهو سمّ.
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس ﴿لَيْسَ لَهُمْ طَعَامٌ إِلا مِنْ ضَرِيعٍ﴾ قال: الضريع: الشِّبْرق.
+
+⁕ حدثني محمد بن عُبيد المحاربيّ، قال: ثنا عباد بن يعقوب الأسديّ، قال محمد: ثنا، وقال عباد: أخبرنا محمد بن سليمان، عن عبد الرحمن الأصبهانيّ، عن عكرِمة في قوله: ﴿لَيْسَ لَهُمْ طَعَامٌ إِلا مِنْ ضَرِيعٍ﴾ قال: الشِّبرق.
+
+⁕ حدثني يعقوب، قال: ثنا إسماعيل بن عُلَية، عن أبي رجاء، قال: ثني نجدة، رجل من عبد القيس عن عكرمة، في قوله: ﴿لَيْسَ لَهُمْ طَعَامٌ إِلا مِنْ ضَرِيعٍ﴾ قال: هي شجرة ذات شوك، لاطئة بالأرض، فإذا كان الربيع سمَّتها قريش الشِّبرق، فإذا هاج العود سمتها الضَّريع.
+
+⁕ حدثنا ابن بشار، قال: ثنا عبد الرحمن، قال: ثنا سفيان، عن ليث، عن مجاهد ﴿لَيْسَ لَهُمْ طَعَامٌ إِلا مِنْ ضَرِيعٍ﴾ قال: الشبرق.
+
+⁕ حدثنا ابن حُميد، قال: ثنا مِهران، عن سفيان، عن ليث، عن مجاهد، مثله.
+
+⁕ حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى؛ وحدثني الحارث، قال: ثنا الحسن؛ قال: ثنا ورقاء، جميعا عن ابن أبي نجيح، عن مجاهد، قوله: ﴿ضَرِيعٍ﴾ قال: الشِّبرق اليابس.
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة ﴿إِلا مِنْ ضَرِيعٍ﴾ قال: هو الشبرق إذا يبس يسمى الضريع.
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: ﴿لَيْسَ لَهُمْ طَعَامٌ إِلا مِنْ ضَرِيعٍ﴾ يقول: من شرّ الطعام، وأبشعه وأخبثه.
+
+⁕ حدثني محمد بن عبيد، قال: ثنا شريك بن عبد الله، في قوله: (لَيْسَ لَهُمْ طَعَامٌ إِلا مِنْ ضَرِيعٍ) قال: الشبرق.
+
+وقال آخرون: الضَّرِيع: الحجارة.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا أبو كُرَيب، قال: ثنا ابن يمان، عن جعفر، عن سعيد، في قوله: ﴿لَيْسَ لَهُمْ طَعَامٌ إِلا مِنْ ضَرِيعٍ﴾ قال: الحجارة.
+
+وقال آخرون: الضَّرِيع: شجر من نار.
+
+ذكر من قال ذلك:
+
+⁕ حدثني عليّ، قال: ثنا أبو صالح، قال: ثني معاوية، عن عليّ، عن ابن عباس، قوله: ﴿لَيْسَ لَهُمْ طَعَامٌ إِلا مِنْ ضَرِيعٍ﴾ يقول: شجر من نار.
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله: ﴿لَيْسَ لَهُمْ طَعَامٌ إِلا مِنْ ضَرِيعٍ﴾ قال: الضريع: الشَّوك من النار. قال: وأما في الدنيا فإنَّ الضريع: الشوك اليابس الذي ليس له ورق، تدعوه العرب الضريع، وهو في الآخرة شوك من نار
+
+* *
+
+وقوله: ﴿لا يُسْمِنُ وَلا يُغْنِي مِنْ جُوعٍ﴾
+
+يقول: لا يُسمن هذا الضريع يوم القيامة أكلته من أهل النار، ﴿ولا يُغني من جوع﴾ يقول: ولا يُشْبعهم من جوع يصيبهم.
 
 ### al-Muyassar (Arabic)
 
-وجوه الكفار يومئذ ذليلة بالعذاب، مجهدة بالعمل متعبة، تصيبها نار شديدة التوهج، تُسقى من عين شديدة الحرارة. ليس لأصحاب النار طعام إلا من نبت ذي شوك لاصق بالأرض، وهو مِن شر الطعام وأخبثه، لا يُسْمن بدن صاحبه من الهُزال، ولا يسدُّ جوعه ورمقه.
+وجوه الكفار يومئذ ذليلة بالعذاب، مجهدة بالعمل متعبة، تصيبها نار شديدة التوهج، تُسقى مِن عين بلغت منتهى الحرارة، ليس لأصحاب النار طعام إلا مِن نبت ذي شوك لاصق بالأرض، وهو مِن شر الطعام وأخبثه، لا يُسْمن بدن صاحبه من الهُزال، ولا يسدُّ جوعه ورَمَقَه.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿عامِلَة ناصِبَة﴾ ذات نَصَب وتَعَب بِالسَّلاسِلِ والأَغْلال
 
 ---
 
@@ -54,21 +478,233 @@ It has already been mentioned on the authority of An-Nu`man bin Bashir that the 
 
 ### Ibn Kathir (English)
 
-Which was revealed in Makkah
-Reciting Surat Al-A`la and Al-Ghashiyah in the Friday Prayer
-It has already been mentioned on the authority of An-Nu`man bin Bashir that the Messenger of Allah ﷺ used to recite Surat Al-A`la (87) and Al-Ghashiyah in the `Id and Friday prayers. Imam Malik recorded that Ad-Dahhak bin Qays asked An-Nu`man bin Bashir, "What else did the Messenger of Allah ﷺ recite on Friday along with Surat Al-Jumu`ah" An-Nu`man replied, "Al-Ghashiyah (88)." This narration has been re...
+Reciting Surat Al-A'la and Al-Ghashiyah in the Friday Prayer
+
+It has already been mentioned on the authority of An-Nu'man bin Bashir that the Messenger of Allah ﷺ used to recite Surat Al-A'la (87) and Al-Ghashiyah in the 'Id and Friday prayers. Imam Malik recorded that Ad-Dahhak bin Qays asked An-Nu'man bin Bashir, "What else did the Messenger of Allah ﷺ recite on Friday along with Surat Al-Jumu'ah?" An-Nu'man replied, "Al-Ghashiyah (88)." This narration has been recorded by Abu Dawud, An-Nasa'i, Muslim and Ibn Majah.
+
+بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
+
+In the Name of Allah, the Most Gracious, the Most Merciful.
+
+هَلْ أَتَاكَ حَدِيثُ الْغَاشِيَةِ - وُجُوهٌ يَوْمَئِذٍ خَاشِعَةٌ - عَامِلَةٌ نَّاصِبَةٌ - تَصْلَىٰ نَارًا حَامِيَةً - تُسْقَىٰ مِنْ عَيْنٍ آنِيَةٍ - لَّيْسَ لَهُمْ طَعَامٌ إِلَّا مِن ضَرِيعٍ - لَّا يُسْمِنُ وَلَا يُغْنِي مِن جُوعٍ
+
+(1. Has there come to you the narration of Al-Ghashiyah (the overwhelming)?)(2. Some faces that Day will be Khashi'ah.)(3. Laboring, weary.)(4. They will enter into Fire, Hamiyah.)(5. They will be given to drink from a boiling (Aniyah) spring,)(6. No food will there be for them but from Dari',)(7. Which will neither nourish nor avail against hunger.)
+
+The Day of Judgement and what will happen to the People of the Fire during it
+
+Al-Ghashiyah is one of the names of the Day of Judgement. This was said by Ibn 'Abbas, Qatadah and Ibn Zayd. It has been called this because it will overwhelm the people and overcome them. Allah then says,
+
+وُجُوهٌ يَوْمَئِذٍ خَاشِعَةٌ
+
+(Some faces that Day will be Khashi'ah.)
+
+meaning, humiliated. This was said by Qatadah. Ibn 'Abbas said, "They will be humble but this action will be of no benefit to them." Then Allah says,
+
+عَامِلَةٌ نَّاصِبَةٌ
+
+(Laboring, weary.) meaning, they did many deeds and became weary in their performance, yet they will be cast into a blazing Fire on the Day of Judgement. Al-Hafiz Abu Bakr Al-Burqani narrated from Abu 'Imran Al-Jawni that he said, " 'Umar bin Al-Khattab passed by the monastery of a monk and he said: 'O monk!' Then the monk came out, and 'Umar looked at him and began to weep. Then it was said to him: 'O Commander of the faithful! Why are you weeping?' He replied: 'I remembered the statement of Allah, the Mighty and Majestic, in His Book,
+
+عَامِلَةٌ نَّاصِبَةٌ - تَصْلَىٰ نَارًا حَامِيَةً
+
+(Laboring, weary. They will enter into Fire, Hamiyah.)
+
+So that is what has made me cry.'" Al-Bukhari recorded that Ibn 'Abbas said,
+
+عَامِلَةٌ نَّاصِبَةٌ
+
+(Laboring, weary.) "The Christians." It is narrated that 'Ikrimah and As-Suddi both said, "Laboring in the worldly life with disobedience, and weariness in the Fire from torment and perdition." Ibn 'Abbas, Al-Hasan, and Qatadah all said,
+
+تَصْلَىٰ نَارًا حَامِيَةً
+
+(They will enter into Fire, Hamiyah) meaning, hot with intense heat.
+
+تُسْقَىٰ مِنْ عَيْنٍ آنِيَةٍ
+
+(They will be given to drink from a boiling (Aniyah) spring.)
+
+meaning, its heat has reached its maximum limit and boiling point. This was said by Ibn 'Abbas, Mujahid, Al-Hasan and As-Suddi. Concerning Allah's statement,
+
+لَّيْسَ لَهُمْ طَعَامٌ إِلَّا مِن ضَرِيعٍ
+
+(No food will there be for them but from Dari',)
+
+Ali bin Abi Talhah reported from Ibn 'Abbas that he said, "A tree from the Hellfire." Ibn 'Abbas, Mujahid, 'Ikrimah, Abu Al-Jawza' and Qatadah, all said, "It is Ash-Shibriq (a type of plant)." Qatadah said, "The Quraysh called it Ash-Shabraq in the spring and Ad-Dari' in the summer." 'Ikrimah said, "It is a thorny tree which reaches down to the ground." Al-Bukhari related that Mujahid said, "Ad-Dari' is a plant that is called Ash-Shibriq. The people of the Hijaz call it Ad-Dari' when it dries, and it is poisonous." Ma'mar narrated that Qatadah said,
+
+لَّيْسَ لَهُمْ طَعَامٌ إِلَّا مِن ضَرِيعٍ
+
+(No food will there be for them but from Dari',)
+
+"This is Ash-Shibriq. When it dries it is called Ad-Dari'." Sa'id narrated from Qatadah that he said,
+
+لَّيْسَ لَهُمْ طَعَامٌ إِلَّا مِن ضَرِيعٍ
+
+(No food will there be for them but from Dari',)
+
+"This is of the worst, most disgusting and loathsome of foods." Concerning Allah's statement,
+
+لَّا يُسْمِنُ وَلَا يُغْنِي مِن جُوعٍ
+
+(Which will neither nourish nor avail against hunger.)
+
+This means that the intent in eating it will not be achieved, and nothing harmful will be repelled by it.
 
 ### al-Tabari (Arabic)
 
-وقوله: ( تَصْلَى نَارًا حَامِيَةً ) يقول تعالى ذكره: ترد هذه الوجوه نارًا حامية قد حميت واشتد حرها.واختلفت القرّاء في قراءة ذلك، فقرأته عامة قرّاء الكوفة ( تَصْلَى ) بفتح التاء، بمعنى: تصلى الوجوه. وقرأ ذلك أبو عمرو ( تُصْلَى ) بضم التاء اعتبارًا بقوله: ( تُسْقَى مِنْ عَيْنٍ آنِيَةٍ ) ، والقول في ذلك أنهما قراءتان صحيحتا المعنى، فبأيتهما قرأ القارئ فمصيب.
+القول في تأويل قوله تعالى: ﴿هَلْ أَتَاكَ حَدِيثُ الْغَاشِيَةِ (١) وُجُوهٌ يَوْمَئِذٍ خَاشِعَةٌ (٢) عَامِلَةٌ نَاصِبَةٌ (٣) تَصْلَى نَارًا حَامِيَةً (٤) تُسْقَى مِنْ عَيْنٍ آنِيَةٍ (٥) لَيْسَ لَهُمْ طَعَامٌ إِلا مِنْ ضَرِيعٍ (٦) لا يُسْمِنُ وَلا يُغْنِي مِنْ جُوعٍ (٧) ﴾
+
+.
+
+يقول تعالى ذكره لنبيه محمد ﷺ: ﴿هَلْ أَتَاكَ﴾ يا محمد ﴿حَدِيثُ الْغَاشِيَةِ﴾ يعني: قصتها وخبرها.
+
+واختلف أهل التأويل في معنى الغاشية، فقال بعضهم: هي القيامة تغشي الناس بالأهوال.
+
+ذكر من قال ذلك:
+
+⁕ حدثني عليّ، قال: ثنا أبو صالح، قال: ثني معاوية، عن عليّ، عن ابن عباس ﴿الْغَاشِيَةِ﴾ من أسماء يوم القيامة، عظَّمه الله، وحذّره عباده.
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: ﴿هَلْ أَتَاكَ حَدِيثُ الْغَاشِيَةِ﴾ قال: الغاشية: الساعة.
+
+⁕ حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس، في قوله: ﴿هَلْ أَتَاكَ حَدِيثُ الْغَاشِيَةِ﴾ قال: الساعة.
+
+وقال آخرون: بل الغاشية: النار تغشَى وجوه الكَفَرة.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا أبو كُرَيب، قال: ثنا ابن يمان، عن أشعث، عن سعيد، في قوله: ﴿هَلْ أَتَاكَ حَدِيثُ الْغَاشِيَةِ﴾ قال: غاشية النار.
+
+والصواب من القول في ذلك أن يقال: إن الله قال لنبيه ﷺ: ﴿هَلْ أَتَاكَ حَدِيثُ الْغَاشِيَةِ﴾ لم يخبرنا أنه عنى غاشية القيامة، ولا أنه عنى غاشية النار. وكلتاهما غاشية، هذه تغشى الناس بالبلاء والأهوال والكروب، وهذه تغشي الكفار باللفح في الوجوه، والشُّواظ والنحاس، فلا قول في ذلك أصحّ من أن يقال كما قال جلّ ثناؤه، ويعمّ الخبر بذلك كما عمه.
+
+* *
+
+وقوله: ﴿وُجُوهٌ يَوْمَئِذٍ خَاشِعَةٌ﴾
+
+يقول تعالى ذكره: وجوه يومئذ، وهي وجوه أهل الكفر به
+
+خاشعة، يقول: ذليلة.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة ﴿وُجُوهٌ يَوْمَئِذٍ خَاشِعَةٌ﴾ : أي ذليلة.
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة، في قوله: ﴿خَاشِعَةٌ﴾ قال: خاشعة في النار.
+
+* *
+
+وقوله: ﴿عَامِلَةٌ﴾
+
+يعني: عاملة في النار.
+
+* *
+
+وقوله: ﴿ناصِبَةٌ﴾
+
+يقول: ناصبة فيها.
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس ﴿عَامِلَةٌ نَاصِبَةٌ﴾ فإنها تعمل وَتَنْصَب من النار.
+
+⁕ حدثني يعقوب، قال: ثنا ابن علية، عن أبي رجاء، قال: سمعت الحسن، قرأ: ﴿عَامِلَةٌ نَاصِبَةٌ﴾ قال: لم تعمل لله في الدنيا، فأعملها في النار.
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة ﴿عَامِلَةٌ نَاصِبَةٌ﴾ تكبرت في الدنيا عن طاعة الله، فأعملها وأنصبها في النار.
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة، في قوله: ﴿عَامِلَةٌ نَاصِبَةٌ﴾ قال: عاملة ناصبة في النار.
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله: ﴿عَامِلَةٌ نَاصِبَةٌ﴾ قال: لا أحد أنصَبُ ولا أشدّ من أهل النار.
+
+* *
+
+وقوله: ﴿تَصْلَى نَارًا حَامِيَةً﴾
+
+يقول تعالى ذكره: ترد هذه الوجوه نارًا حامية قد حميت واشتد حرها.
+
+واختلفت القرّاء في قراءة ذلك، فقرأته عامة قرّاء الكوفة ﴿تَصْلَى﴾ بفتح التاء، بمعنى: تصلى الوجوه. وقرأ ذلك أبو عمرو ﴿تُصْلَى﴾ بضم التاء اعتبارًا بقوله: ﴿تُسْقَى مِنْ عَيْنٍ آنِيَةٍ﴾ ، والقول في ذلك أنهما قراءتان صحيحتا المعنى، فبأيتهما قرأ القارئ فمصيب.
+
+* *
+
+وقوله: ﴿تُسْقَى مِنْ عَيْنٍ آنِيَةٍ﴾
+
+يقول: تسقى أصحاب هذه الوجوه من شَرَاب عين قد أنى حرّها، فبلغ غايته في شدة الحرّ.
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس، قوله: ﴿تُسْقَى مِنْ عَيْنٍ آنِيَةٍ﴾ قال: هي التي قد أطال أنينها.
+
+⁕ حدثني يعقوب، قال: ثنا ابن عُلَيَة، عن أبي رجاء، عن الحسن، في قوله: ﴿تُسْقَى مِنْ عَيْنٍ آنِيَةٍ﴾ قال: أنَى طبخها منذ يوم خلق الله الدنيا.
+
+⁕ حدثني به يعقوب مرّة أخرى، فقال: منذ يوم خلق الله السموات والأرض.
+
+⁕ حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء، جميعا عن ابن أبي نجيح، عن مجاهد في قول الله: ﴿مِنْ عَيْنٍ آنِيَةٍ﴾ قال: قد بلغت إناها، وحان شربها.
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: ﴿تُسْقَى مِنْ عَيْنٍ آنِيَةٍ﴾ يقول: قد أنَى طبخها منذ خلق الله السموات والأرض.
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن الحسن، في قوله: ﴿مِنْ عَيْنٍ آنِيَةٍ﴾ قال: من عين أنَى حرّها: يقول: قد بلغ حرّها.
+
+وقال بعضهم: عُنِيَ بقوله: ﴿مِنْ عَيْنٍ آنِيَةٍ﴾ من عين حاضرة.
+
+ذكر من قال ذلك:
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله: ﴿تُسْقَى مِنْ عَيْنٍ آنِيَةٍ﴾ قال: آنية: حاضرة.
+
+* *
+
+وقوله: ﴿لَيْسَ لَهُمْ طَعَامٌ إِلا مِنْ ضَرِيعٍ﴾
+
+يقول: ليس لهؤلاء الذين هم أصحاب الخاشعة العاملة الناصبة يوم القيامة طعام، إلا ما يطعمونه من ضَرِيع. والضريع عند العرب: نبت يُقال له الشِّبْرِق، وتسميه أهل الحجاز الضَّريع إذا يبس، ويسميه غيرهم: الشِّبْرق، وهو سمّ.
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس ﴿لَيْسَ لَهُمْ طَعَامٌ إِلا مِنْ ضَرِيعٍ﴾ قال: الضريع: الشِّبْرق.
+
+⁕ حدثني محمد بن عُبيد المحاربيّ، قال: ثنا عباد بن يعقوب الأسديّ، قال محمد: ثنا، وقال عباد: أخبرنا محمد بن سليمان، عن عبد الرحمن الأصبهانيّ، عن عكرِمة في قوله: ﴿لَيْسَ لَهُمْ طَعَامٌ إِلا مِنْ ضَرِيعٍ﴾ قال: الشِّبرق.
+
+⁕ حدثني يعقوب، قال: ثنا إسماعيل بن عُلَية، عن أبي رجاء، قال: ثني نجدة، رجل من عبد القيس عن عكرمة، في قوله: ﴿لَيْسَ لَهُمْ طَعَامٌ إِلا مِنْ ضَرِيعٍ﴾ قال: هي شجرة ذات شوك، لاطئة بالأرض، فإذا كان الربيع سمَّتها قريش الشِّبرق، فإذا هاج العود سمتها الضَّريع.
+
+⁕ حدثنا ابن بشار، قال: ثنا عبد الرحمن، قال: ثنا سفيان، عن ليث، عن مجاهد ﴿لَيْسَ لَهُمْ طَعَامٌ إِلا مِنْ ضَرِيعٍ﴾ قال: الشبرق.
+
+⁕ حدثنا ابن حُميد، قال: ثنا مِهران، عن سفيان، عن ليث، عن مجاهد، مثله.
+
+⁕ حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى؛ وحدثني الحارث، قال: ثنا الحسن؛ قال: ثنا ورقاء، جميعا عن ابن أبي نجيح، عن مجاهد، قوله: ﴿ضَرِيعٍ﴾ قال: الشِّبرق اليابس.
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة ﴿إِلا مِنْ ضَرِيعٍ﴾ قال: هو الشبرق إذا يبس يسمى الضريع.
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: ﴿لَيْسَ لَهُمْ طَعَامٌ إِلا مِنْ ضَرِيعٍ﴾ يقول: من شرّ الطعام، وأبشعه وأخبثه.
+
+⁕ حدثني محمد بن عبيد، قال: ثنا شريك بن عبد الله، في قوله: (لَيْسَ لَهُمْ طَعَامٌ إِلا مِنْ ضَرِيعٍ) قال: الشبرق.
+
+وقال آخرون: الضَّرِيع: الحجارة.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا أبو كُرَيب، قال: ثنا ابن يمان، عن جعفر، عن سعيد، في قوله: ﴿لَيْسَ لَهُمْ طَعَامٌ إِلا مِنْ ضَرِيعٍ﴾ قال: الحجارة.
+
+وقال آخرون: الضَّرِيع: شجر من نار.
+
+ذكر من قال ذلك:
+
+⁕ حدثني عليّ، قال: ثنا أبو صالح، قال: ثني معاوية، عن عليّ، عن ابن عباس، قوله: ﴿لَيْسَ لَهُمْ طَعَامٌ إِلا مِنْ ضَرِيعٍ﴾ يقول: شجر من نار.
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله: ﴿لَيْسَ لَهُمْ طَعَامٌ إِلا مِنْ ضَرِيعٍ﴾ قال: الضريع: الشَّوك من النار. قال: وأما في الدنيا فإنَّ الضريع: الشوك اليابس الذي ليس له ورق، تدعوه العرب الضريع، وهو في الآخرة شوك من نار
+
+* *
+
+وقوله: ﴿لا يُسْمِنُ وَلا يُغْنِي مِنْ جُوعٍ﴾
+
+يقول: لا يُسمن هذا الضريع يوم القيامة أكلته من أهل النار، ﴿ولا يُغني من جوع﴾ يقول: ولا يُشْبعهم من جوع يصيبهم.
 
 ### al-Muyassar (Arabic)
 
-وجوه الكفار يومئذ ذليلة بالعذاب، مجهدة بالعمل متعبة، تصيبها نار شديدة التوهج، تُسقى من عين شديدة الحرارة. ليس لأصحاب النار طعام إلا من نبت ذي شوك لاصق بالأرض، وهو مِن شر الطعام وأخبثه، لا يُسْمن بدن صاحبه من الهُزال، ولا يسدُّ جوعه ورمقه.
+وجوه الكفار يومئذ ذليلة بالعذاب، مجهدة بالعمل متعبة، تصيبها نار شديدة التوهج، تُسقى مِن عين بلغت منتهى الحرارة، ليس لأصحاب النار طعام إلا مِن نبت ذي شوك لاصق بالأرض، وهو مِن شر الطعام وأخبثه، لا يُسْمن بدن صاحبه من الهُزال، ولا يسدُّ جوعه ورَمَقَه.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿تَصْلى﴾ بِفَتْحِ التّاء وضَمّها " نارًا حامِيَة "
 
 ---
 
@@ -76,21 +712,233 @@ It has already been mentioned on the authority of An-Nu`man bin Bashir that the 
 
 ### Ibn Kathir (English)
 
-Which was revealed in Makkah
-Reciting Surat Al-A`la and Al-Ghashiyah in the Friday Prayer
-It has already been mentioned on the authority of An-Nu`man bin Bashir that the Messenger of Allah ﷺ used to recite Surat Al-A`la (87) and Al-Ghashiyah in the `Id and Friday prayers. Imam Malik recorded that Ad-Dahhak bin Qays asked An-Nu`man bin Bashir, "What else did the Messenger of Allah ﷺ recite on Friday along with Surat Al-Jumu`ah" An-Nu`man replied, "Al-Ghashiyah (88)." This narration has been re...
+Reciting Surat Al-A'la and Al-Ghashiyah in the Friday Prayer
+
+It has already been mentioned on the authority of An-Nu'man bin Bashir that the Messenger of Allah ﷺ used to recite Surat Al-A'la (87) and Al-Ghashiyah in the 'Id and Friday prayers. Imam Malik recorded that Ad-Dahhak bin Qays asked An-Nu'man bin Bashir, "What else did the Messenger of Allah ﷺ recite on Friday along with Surat Al-Jumu'ah?" An-Nu'man replied, "Al-Ghashiyah (88)." This narration has been recorded by Abu Dawud, An-Nasa'i, Muslim and Ibn Majah.
+
+بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
+
+In the Name of Allah, the Most Gracious, the Most Merciful.
+
+هَلْ أَتَاكَ حَدِيثُ الْغَاشِيَةِ - وُجُوهٌ يَوْمَئِذٍ خَاشِعَةٌ - عَامِلَةٌ نَّاصِبَةٌ - تَصْلَىٰ نَارًا حَامِيَةً - تُسْقَىٰ مِنْ عَيْنٍ آنِيَةٍ - لَّيْسَ لَهُمْ طَعَامٌ إِلَّا مِن ضَرِيعٍ - لَّا يُسْمِنُ وَلَا يُغْنِي مِن جُوعٍ
+
+(1. Has there come to you the narration of Al-Ghashiyah (the overwhelming)?)(2. Some faces that Day will be Khashi'ah.)(3. Laboring, weary.)(4. They will enter into Fire, Hamiyah.)(5. They will be given to drink from a boiling (Aniyah) spring,)(6. No food will there be for them but from Dari',)(7. Which will neither nourish nor avail against hunger.)
+
+The Day of Judgement and what will happen to the People of the Fire during it
+
+Al-Ghashiyah is one of the names of the Day of Judgement. This was said by Ibn 'Abbas, Qatadah and Ibn Zayd. It has been called this because it will overwhelm the people and overcome them. Allah then says,
+
+وُجُوهٌ يَوْمَئِذٍ خَاشِعَةٌ
+
+(Some faces that Day will be Khashi'ah.)
+
+meaning, humiliated. This was said by Qatadah. Ibn 'Abbas said, "They will be humble but this action will be of no benefit to them." Then Allah says,
+
+عَامِلَةٌ نَّاصِبَةٌ
+
+(Laboring, weary.) meaning, they did many deeds and became weary in their performance, yet they will be cast into a blazing Fire on the Day of Judgement. Al-Hafiz Abu Bakr Al-Burqani narrated from Abu 'Imran Al-Jawni that he said, " 'Umar bin Al-Khattab passed by the monastery of a monk and he said: 'O monk!' Then the monk came out, and 'Umar looked at him and began to weep. Then it was said to him: 'O Commander of the faithful! Why are you weeping?' He replied: 'I remembered the statement of Allah, the Mighty and Majestic, in His Book,
+
+عَامِلَةٌ نَّاصِبَةٌ - تَصْلَىٰ نَارًا حَامِيَةً
+
+(Laboring, weary. They will enter into Fire, Hamiyah.)
+
+So that is what has made me cry.'" Al-Bukhari recorded that Ibn 'Abbas said,
+
+عَامِلَةٌ نَّاصِبَةٌ
+
+(Laboring, weary.) "The Christians." It is narrated that 'Ikrimah and As-Suddi both said, "Laboring in the worldly life with disobedience, and weariness in the Fire from torment and perdition." Ibn 'Abbas, Al-Hasan, and Qatadah all said,
+
+تَصْلَىٰ نَارًا حَامِيَةً
+
+(They will enter into Fire, Hamiyah) meaning, hot with intense heat.
+
+تُسْقَىٰ مِنْ عَيْنٍ آنِيَةٍ
+
+(They will be given to drink from a boiling (Aniyah) spring.)
+
+meaning, its heat has reached its maximum limit and boiling point. This was said by Ibn 'Abbas, Mujahid, Al-Hasan and As-Suddi. Concerning Allah's statement,
+
+لَّيْسَ لَهُمْ طَعَامٌ إِلَّا مِن ضَرِيعٍ
+
+(No food will there be for them but from Dari',)
+
+Ali bin Abi Talhah reported from Ibn 'Abbas that he said, "A tree from the Hellfire." Ibn 'Abbas, Mujahid, 'Ikrimah, Abu Al-Jawza' and Qatadah, all said, "It is Ash-Shibriq (a type of plant)." Qatadah said, "The Quraysh called it Ash-Shabraq in the spring and Ad-Dari' in the summer." 'Ikrimah said, "It is a thorny tree which reaches down to the ground." Al-Bukhari related that Mujahid said, "Ad-Dari' is a plant that is called Ash-Shibriq. The people of the Hijaz call it Ad-Dari' when it dries, and it is poisonous." Ma'mar narrated that Qatadah said,
+
+لَّيْسَ لَهُمْ طَعَامٌ إِلَّا مِن ضَرِيعٍ
+
+(No food will there be for them but from Dari',)
+
+"This is Ash-Shibriq. When it dries it is called Ad-Dari'." Sa'id narrated from Qatadah that he said,
+
+لَّيْسَ لَهُمْ طَعَامٌ إِلَّا مِن ضَرِيعٍ
+
+(No food will there be for them but from Dari',)
+
+"This is of the worst, most disgusting and loathsome of foods." Concerning Allah's statement,
+
+لَّا يُسْمِنُ وَلَا يُغْنِي مِن جُوعٍ
+
+(Which will neither nourish nor avail against hunger.)
+
+This means that the intent in eating it will not be achieved, and nothing harmful will be repelled by it.
 
 ### al-Tabari (Arabic)
 
-وقوله: ( تُسْقَى مِنْ عَيْنٍ آنِيَةٍ ) يقول: تسقى أصحاب هذه الوجوه من شَرَاب عين قد أنى حرّها، فبلغ غايته في شدة الحرّ.وبنحو الذي قلنا في ذلك قال أهل التأويل.* ذكر من قال ذلك:حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس، قوله: ( تُسْقَى مِنْ عَيْنٍ آنِيَةٍ ) قال: هي التي قد أطال أنينها.حدثني يعقوب، قال: ثنا ابن عُلَيَة، عن أبي رجاء، عن الحسن، في قوله: ( تُسْقَى مِنْ عَيْنٍ آنِيَةٍ ) قال: أنَى طبخها منذ يوم خلق الله الدنيا.حدثني به يعقوب مرّة أخرى، فقال: من...
+القول في تأويل قوله تعالى: ﴿هَلْ أَتَاكَ حَدِيثُ الْغَاشِيَةِ (١) وُجُوهٌ يَوْمَئِذٍ خَاشِعَةٌ (٢) عَامِلَةٌ نَاصِبَةٌ (٣) تَصْلَى نَارًا حَامِيَةً (٤) تُسْقَى مِنْ عَيْنٍ آنِيَةٍ (٥) لَيْسَ لَهُمْ طَعَامٌ إِلا مِنْ ضَرِيعٍ (٦) لا يُسْمِنُ وَلا يُغْنِي مِنْ جُوعٍ (٧) ﴾
+
+.
+
+يقول تعالى ذكره لنبيه محمد ﷺ: ﴿هَلْ أَتَاكَ﴾ يا محمد ﴿حَدِيثُ الْغَاشِيَةِ﴾ يعني: قصتها وخبرها.
+
+واختلف أهل التأويل في معنى الغاشية، فقال بعضهم: هي القيامة تغشي الناس بالأهوال.
+
+ذكر من قال ذلك:
+
+⁕ حدثني عليّ، قال: ثنا أبو صالح، قال: ثني معاوية، عن عليّ، عن ابن عباس ﴿الْغَاشِيَةِ﴾ من أسماء يوم القيامة، عظَّمه الله، وحذّره عباده.
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: ﴿هَلْ أَتَاكَ حَدِيثُ الْغَاشِيَةِ﴾ قال: الغاشية: الساعة.
+
+⁕ حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس، في قوله: ﴿هَلْ أَتَاكَ حَدِيثُ الْغَاشِيَةِ﴾ قال: الساعة.
+
+وقال آخرون: بل الغاشية: النار تغشَى وجوه الكَفَرة.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا أبو كُرَيب، قال: ثنا ابن يمان، عن أشعث، عن سعيد، في قوله: ﴿هَلْ أَتَاكَ حَدِيثُ الْغَاشِيَةِ﴾ قال: غاشية النار.
+
+والصواب من القول في ذلك أن يقال: إن الله قال لنبيه ﷺ: ﴿هَلْ أَتَاكَ حَدِيثُ الْغَاشِيَةِ﴾ لم يخبرنا أنه عنى غاشية القيامة، ولا أنه عنى غاشية النار. وكلتاهما غاشية، هذه تغشى الناس بالبلاء والأهوال والكروب، وهذه تغشي الكفار باللفح في الوجوه، والشُّواظ والنحاس، فلا قول في ذلك أصحّ من أن يقال كما قال جلّ ثناؤه، ويعمّ الخبر بذلك كما عمه.
+
+* *
+
+وقوله: ﴿وُجُوهٌ يَوْمَئِذٍ خَاشِعَةٌ﴾
+
+يقول تعالى ذكره: وجوه يومئذ، وهي وجوه أهل الكفر به
+
+خاشعة، يقول: ذليلة.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة ﴿وُجُوهٌ يَوْمَئِذٍ خَاشِعَةٌ﴾ : أي ذليلة.
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة، في قوله: ﴿خَاشِعَةٌ﴾ قال: خاشعة في النار.
+
+* *
+
+وقوله: ﴿عَامِلَةٌ﴾
+
+يعني: عاملة في النار.
+
+* *
+
+وقوله: ﴿ناصِبَةٌ﴾
+
+يقول: ناصبة فيها.
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس ﴿عَامِلَةٌ نَاصِبَةٌ﴾ فإنها تعمل وَتَنْصَب من النار.
+
+⁕ حدثني يعقوب، قال: ثنا ابن علية، عن أبي رجاء، قال: سمعت الحسن، قرأ: ﴿عَامِلَةٌ نَاصِبَةٌ﴾ قال: لم تعمل لله في الدنيا، فأعملها في النار.
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة ﴿عَامِلَةٌ نَاصِبَةٌ﴾ تكبرت في الدنيا عن طاعة الله، فأعملها وأنصبها في النار.
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة، في قوله: ﴿عَامِلَةٌ نَاصِبَةٌ﴾ قال: عاملة ناصبة في النار.
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله: ﴿عَامِلَةٌ نَاصِبَةٌ﴾ قال: لا أحد أنصَبُ ولا أشدّ من أهل النار.
+
+* *
+
+وقوله: ﴿تَصْلَى نَارًا حَامِيَةً﴾
+
+يقول تعالى ذكره: ترد هذه الوجوه نارًا حامية قد حميت واشتد حرها.
+
+واختلفت القرّاء في قراءة ذلك، فقرأته عامة قرّاء الكوفة ﴿تَصْلَى﴾ بفتح التاء، بمعنى: تصلى الوجوه. وقرأ ذلك أبو عمرو ﴿تُصْلَى﴾ بضم التاء اعتبارًا بقوله: ﴿تُسْقَى مِنْ عَيْنٍ آنِيَةٍ﴾ ، والقول في ذلك أنهما قراءتان صحيحتا المعنى، فبأيتهما قرأ القارئ فمصيب.
+
+* *
+
+وقوله: ﴿تُسْقَى مِنْ عَيْنٍ آنِيَةٍ﴾
+
+يقول: تسقى أصحاب هذه الوجوه من شَرَاب عين قد أنى حرّها، فبلغ غايته في شدة الحرّ.
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس، قوله: ﴿تُسْقَى مِنْ عَيْنٍ آنِيَةٍ﴾ قال: هي التي قد أطال أنينها.
+
+⁕ حدثني يعقوب، قال: ثنا ابن عُلَيَة، عن أبي رجاء، عن الحسن، في قوله: ﴿تُسْقَى مِنْ عَيْنٍ آنِيَةٍ﴾ قال: أنَى طبخها منذ يوم خلق الله الدنيا.
+
+⁕ حدثني به يعقوب مرّة أخرى، فقال: منذ يوم خلق الله السموات والأرض.
+
+⁕ حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء، جميعا عن ابن أبي نجيح، عن مجاهد في قول الله: ﴿مِنْ عَيْنٍ آنِيَةٍ﴾ قال: قد بلغت إناها، وحان شربها.
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: ﴿تُسْقَى مِنْ عَيْنٍ آنِيَةٍ﴾ يقول: قد أنَى طبخها منذ خلق الله السموات والأرض.
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن الحسن، في قوله: ﴿مِنْ عَيْنٍ آنِيَةٍ﴾ قال: من عين أنَى حرّها: يقول: قد بلغ حرّها.
+
+وقال بعضهم: عُنِيَ بقوله: ﴿مِنْ عَيْنٍ آنِيَةٍ﴾ من عين حاضرة.
+
+ذكر من قال ذلك:
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله: ﴿تُسْقَى مِنْ عَيْنٍ آنِيَةٍ﴾ قال: آنية: حاضرة.
+
+* *
+
+وقوله: ﴿لَيْسَ لَهُمْ طَعَامٌ إِلا مِنْ ضَرِيعٍ﴾
+
+يقول: ليس لهؤلاء الذين هم أصحاب الخاشعة العاملة الناصبة يوم القيامة طعام، إلا ما يطعمونه من ضَرِيع. والضريع عند العرب: نبت يُقال له الشِّبْرِق، وتسميه أهل الحجاز الضَّريع إذا يبس، ويسميه غيرهم: الشِّبْرق، وهو سمّ.
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس ﴿لَيْسَ لَهُمْ طَعَامٌ إِلا مِنْ ضَرِيعٍ﴾ قال: الضريع: الشِّبْرق.
+
+⁕ حدثني محمد بن عُبيد المحاربيّ، قال: ثنا عباد بن يعقوب الأسديّ، قال محمد: ثنا، وقال عباد: أخبرنا محمد بن سليمان، عن عبد الرحمن الأصبهانيّ، عن عكرِمة في قوله: ﴿لَيْسَ لَهُمْ طَعَامٌ إِلا مِنْ ضَرِيعٍ﴾ قال: الشِّبرق.
+
+⁕ حدثني يعقوب، قال: ثنا إسماعيل بن عُلَية، عن أبي رجاء، قال: ثني نجدة، رجل من عبد القيس عن عكرمة، في قوله: ﴿لَيْسَ لَهُمْ طَعَامٌ إِلا مِنْ ضَرِيعٍ﴾ قال: هي شجرة ذات شوك، لاطئة بالأرض، فإذا كان الربيع سمَّتها قريش الشِّبرق، فإذا هاج العود سمتها الضَّريع.
+
+⁕ حدثنا ابن بشار، قال: ثنا عبد الرحمن، قال: ثنا سفيان، عن ليث، عن مجاهد ﴿لَيْسَ لَهُمْ طَعَامٌ إِلا مِنْ ضَرِيعٍ﴾ قال: الشبرق.
+
+⁕ حدثنا ابن حُميد، قال: ثنا مِهران، عن سفيان، عن ليث، عن مجاهد، مثله.
+
+⁕ حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى؛ وحدثني الحارث، قال: ثنا الحسن؛ قال: ثنا ورقاء، جميعا عن ابن أبي نجيح، عن مجاهد، قوله: ﴿ضَرِيعٍ﴾ قال: الشِّبرق اليابس.
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة ﴿إِلا مِنْ ضَرِيعٍ﴾ قال: هو الشبرق إذا يبس يسمى الضريع.
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: ﴿لَيْسَ لَهُمْ طَعَامٌ إِلا مِنْ ضَرِيعٍ﴾ يقول: من شرّ الطعام، وأبشعه وأخبثه.
+
+⁕ حدثني محمد بن عبيد، قال: ثنا شريك بن عبد الله، في قوله: (لَيْسَ لَهُمْ طَعَامٌ إِلا مِنْ ضَرِيعٍ) قال: الشبرق.
+
+وقال آخرون: الضَّرِيع: الحجارة.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا أبو كُرَيب، قال: ثنا ابن يمان، عن جعفر، عن سعيد، في قوله: ﴿لَيْسَ لَهُمْ طَعَامٌ إِلا مِنْ ضَرِيعٍ﴾ قال: الحجارة.
+
+وقال آخرون: الضَّرِيع: شجر من نار.
+
+ذكر من قال ذلك:
+
+⁕ حدثني عليّ، قال: ثنا أبو صالح، قال: ثني معاوية، عن عليّ، عن ابن عباس، قوله: ﴿لَيْسَ لَهُمْ طَعَامٌ إِلا مِنْ ضَرِيعٍ﴾ يقول: شجر من نار.
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله: ﴿لَيْسَ لَهُمْ طَعَامٌ إِلا مِنْ ضَرِيعٍ﴾ قال: الضريع: الشَّوك من النار. قال: وأما في الدنيا فإنَّ الضريع: الشوك اليابس الذي ليس له ورق، تدعوه العرب الضريع، وهو في الآخرة شوك من نار
+
+* *
+
+وقوله: ﴿لا يُسْمِنُ وَلا يُغْنِي مِنْ جُوعٍ﴾
+
+يقول: لا يُسمن هذا الضريع يوم القيامة أكلته من أهل النار، ﴿ولا يُغني من جوع﴾ يقول: ولا يُشْبعهم من جوع يصيبهم.
 
 ### al-Muyassar (Arabic)
 
-وجوه الكفار يومئذ ذليلة بالعذاب، مجهدة بالعمل متعبة، تصيبها نار شديدة التوهج، تُسقى من عين شديدة الحرارة. ليس لأصحاب النار طعام إلا من نبت ذي شوك لاصق بالأرض، وهو مِن شر الطعام وأخبثه، لا يُسْمن بدن صاحبه من الهُزال، ولا يسدُّ جوعه ورمقه.
+وجوه الكفار يومئذ ذليلة بالعذاب، مجهدة بالعمل متعبة، تصيبها نار شديدة التوهج، تُسقى مِن عين بلغت منتهى الحرارة، ليس لأصحاب النار طعام إلا مِن نبت ذي شوك لاصق بالأرض، وهو مِن شر الطعام وأخبثه، لا يُسْمن بدن صاحبه من الهُزال، ولا يسدُّ جوعه ورَمَقَه.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿تُسْقى مِن عَيْن آنِيَّة﴾ شَدِيدَة الحَرارَة
 
 ---
 
@@ -98,21 +946,233 @@ It has already been mentioned on the authority of An-Nu`man bin Bashir that the 
 
 ### Ibn Kathir (English)
 
-Which was revealed in Makkah
-Reciting Surat Al-A`la and Al-Ghashiyah in the Friday Prayer
-It has already been mentioned on the authority of An-Nu`man bin Bashir that the Messenger of Allah ﷺ used to recite Surat Al-A`la (87) and Al-Ghashiyah in the `Id and Friday prayers. Imam Malik recorded that Ad-Dahhak bin Qays asked An-Nu`man bin Bashir, "What else did the Messenger of Allah ﷺ recite on Friday along with Surat Al-Jumu`ah" An-Nu`man replied, "Al-Ghashiyah (88)." This narration has been re...
+Reciting Surat Al-A'la and Al-Ghashiyah in the Friday Prayer
+
+It has already been mentioned on the authority of An-Nu'man bin Bashir that the Messenger of Allah ﷺ used to recite Surat Al-A'la (87) and Al-Ghashiyah in the 'Id and Friday prayers. Imam Malik recorded that Ad-Dahhak bin Qays asked An-Nu'man bin Bashir, "What else did the Messenger of Allah ﷺ recite on Friday along with Surat Al-Jumu'ah?" An-Nu'man replied, "Al-Ghashiyah (88)." This narration has been recorded by Abu Dawud, An-Nasa'i, Muslim and Ibn Majah.
+
+بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
+
+In the Name of Allah, the Most Gracious, the Most Merciful.
+
+هَلْ أَتَاكَ حَدِيثُ الْغَاشِيَةِ - وُجُوهٌ يَوْمَئِذٍ خَاشِعَةٌ - عَامِلَةٌ نَّاصِبَةٌ - تَصْلَىٰ نَارًا حَامِيَةً - تُسْقَىٰ مِنْ عَيْنٍ آنِيَةٍ - لَّيْسَ لَهُمْ طَعَامٌ إِلَّا مِن ضَرِيعٍ - لَّا يُسْمِنُ وَلَا يُغْنِي مِن جُوعٍ
+
+(1. Has there come to you the narration of Al-Ghashiyah (the overwhelming)?)(2. Some faces that Day will be Khashi'ah.)(3. Laboring, weary.)(4. They will enter into Fire, Hamiyah.)(5. They will be given to drink from a boiling (Aniyah) spring,)(6. No food will there be for them but from Dari',)(7. Which will neither nourish nor avail against hunger.)
+
+The Day of Judgement and what will happen to the People of the Fire during it
+
+Al-Ghashiyah is one of the names of the Day of Judgement. This was said by Ibn 'Abbas, Qatadah and Ibn Zayd. It has been called this because it will overwhelm the people and overcome them. Allah then says,
+
+وُجُوهٌ يَوْمَئِذٍ خَاشِعَةٌ
+
+(Some faces that Day will be Khashi'ah.)
+
+meaning, humiliated. This was said by Qatadah. Ibn 'Abbas said, "They will be humble but this action will be of no benefit to them." Then Allah says,
+
+عَامِلَةٌ نَّاصِبَةٌ
+
+(Laboring, weary.) meaning, they did many deeds and became weary in their performance, yet they will be cast into a blazing Fire on the Day of Judgement. Al-Hafiz Abu Bakr Al-Burqani narrated from Abu 'Imran Al-Jawni that he said, " 'Umar bin Al-Khattab passed by the monastery of a monk and he said: 'O monk!' Then the monk came out, and 'Umar looked at him and began to weep. Then it was said to him: 'O Commander of the faithful! Why are you weeping?' He replied: 'I remembered the statement of Allah, the Mighty and Majestic, in His Book,
+
+عَامِلَةٌ نَّاصِبَةٌ - تَصْلَىٰ نَارًا حَامِيَةً
+
+(Laboring, weary. They will enter into Fire, Hamiyah.)
+
+So that is what has made me cry.'" Al-Bukhari recorded that Ibn 'Abbas said,
+
+عَامِلَةٌ نَّاصِبَةٌ
+
+(Laboring, weary.) "The Christians." It is narrated that 'Ikrimah and As-Suddi both said, "Laboring in the worldly life with disobedience, and weariness in the Fire from torment and perdition." Ibn 'Abbas, Al-Hasan, and Qatadah all said,
+
+تَصْلَىٰ نَارًا حَامِيَةً
+
+(They will enter into Fire, Hamiyah) meaning, hot with intense heat.
+
+تُسْقَىٰ مِنْ عَيْنٍ آنِيَةٍ
+
+(They will be given to drink from a boiling (Aniyah) spring.)
+
+meaning, its heat has reached its maximum limit and boiling point. This was said by Ibn 'Abbas, Mujahid, Al-Hasan and As-Suddi. Concerning Allah's statement,
+
+لَّيْسَ لَهُمْ طَعَامٌ إِلَّا مِن ضَرِيعٍ
+
+(No food will there be for them but from Dari',)
+
+Ali bin Abi Talhah reported from Ibn 'Abbas that he said, "A tree from the Hellfire." Ibn 'Abbas, Mujahid, 'Ikrimah, Abu Al-Jawza' and Qatadah, all said, "It is Ash-Shibriq (a type of plant)." Qatadah said, "The Quraysh called it Ash-Shabraq in the spring and Ad-Dari' in the summer." 'Ikrimah said, "It is a thorny tree which reaches down to the ground." Al-Bukhari related that Mujahid said, "Ad-Dari' is a plant that is called Ash-Shibriq. The people of the Hijaz call it Ad-Dari' when it dries, and it is poisonous." Ma'mar narrated that Qatadah said,
+
+لَّيْسَ لَهُمْ طَعَامٌ إِلَّا مِن ضَرِيعٍ
+
+(No food will there be for them but from Dari',)
+
+"This is Ash-Shibriq. When it dries it is called Ad-Dari'." Sa'id narrated from Qatadah that he said,
+
+لَّيْسَ لَهُمْ طَعَامٌ إِلَّا مِن ضَرِيعٍ
+
+(No food will there be for them but from Dari',)
+
+"This is of the worst, most disgusting and loathsome of foods." Concerning Allah's statement,
+
+لَّا يُسْمِنُ وَلَا يُغْنِي مِن جُوعٍ
+
+(Which will neither nourish nor avail against hunger.)
+
+This means that the intent in eating it will not be achieved, and nothing harmful will be repelled by it.
 
 ### al-Tabari (Arabic)
 
-وقوله: ( لَيْسَ لَهُمْ طَعَامٌ إِلا مِنْ ضَرِيعٍ ) يقول: ليس لهؤلاء الذين هم أصحاب الخاشعة العاملة الناصبة يوم القيامة طعام، إلا ما يطعمونه من ضَرِيع. والضريع عند العرب: نبت يُقال له الشِّبْرِق، وتسميه أهل الحجاز الضَّريع إذا يبس، ويسميه غيرهم: الشِّبْرق، وهو سمّ.وبنحو الذي قلنا في ذلك قال أهل التأويل.* ذكر من قال ذلك:حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس ( لَيْسَ لَهُمْ طَعَامٌ إِلا مِنْ ضَرِيعٍ ) قال: الضريع: الشِّبْرق.حدثني محمد بن عُبيد المحاربي...
+القول في تأويل قوله تعالى: ﴿هَلْ أَتَاكَ حَدِيثُ الْغَاشِيَةِ (١) وُجُوهٌ يَوْمَئِذٍ خَاشِعَةٌ (٢) عَامِلَةٌ نَاصِبَةٌ (٣) تَصْلَى نَارًا حَامِيَةً (٤) تُسْقَى مِنْ عَيْنٍ آنِيَةٍ (٥) لَيْسَ لَهُمْ طَعَامٌ إِلا مِنْ ضَرِيعٍ (٦) لا يُسْمِنُ وَلا يُغْنِي مِنْ جُوعٍ (٧) ﴾
+
+.
+
+يقول تعالى ذكره لنبيه محمد ﷺ: ﴿هَلْ أَتَاكَ﴾ يا محمد ﴿حَدِيثُ الْغَاشِيَةِ﴾ يعني: قصتها وخبرها.
+
+واختلف أهل التأويل في معنى الغاشية، فقال بعضهم: هي القيامة تغشي الناس بالأهوال.
+
+ذكر من قال ذلك:
+
+⁕ حدثني عليّ، قال: ثنا أبو صالح، قال: ثني معاوية، عن عليّ، عن ابن عباس ﴿الْغَاشِيَةِ﴾ من أسماء يوم القيامة، عظَّمه الله، وحذّره عباده.
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: ﴿هَلْ أَتَاكَ حَدِيثُ الْغَاشِيَةِ﴾ قال: الغاشية: الساعة.
+
+⁕ حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس، في قوله: ﴿هَلْ أَتَاكَ حَدِيثُ الْغَاشِيَةِ﴾ قال: الساعة.
+
+وقال آخرون: بل الغاشية: النار تغشَى وجوه الكَفَرة.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا أبو كُرَيب، قال: ثنا ابن يمان، عن أشعث، عن سعيد، في قوله: ﴿هَلْ أَتَاكَ حَدِيثُ الْغَاشِيَةِ﴾ قال: غاشية النار.
+
+والصواب من القول في ذلك أن يقال: إن الله قال لنبيه ﷺ: ﴿هَلْ أَتَاكَ حَدِيثُ الْغَاشِيَةِ﴾ لم يخبرنا أنه عنى غاشية القيامة، ولا أنه عنى غاشية النار. وكلتاهما غاشية، هذه تغشى الناس بالبلاء والأهوال والكروب، وهذه تغشي الكفار باللفح في الوجوه، والشُّواظ والنحاس، فلا قول في ذلك أصحّ من أن يقال كما قال جلّ ثناؤه، ويعمّ الخبر بذلك كما عمه.
+
+* *
+
+وقوله: ﴿وُجُوهٌ يَوْمَئِذٍ خَاشِعَةٌ﴾
+
+يقول تعالى ذكره: وجوه يومئذ، وهي وجوه أهل الكفر به
+
+خاشعة، يقول: ذليلة.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة ﴿وُجُوهٌ يَوْمَئِذٍ خَاشِعَةٌ﴾ : أي ذليلة.
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة، في قوله: ﴿خَاشِعَةٌ﴾ قال: خاشعة في النار.
+
+* *
+
+وقوله: ﴿عَامِلَةٌ﴾
+
+يعني: عاملة في النار.
+
+* *
+
+وقوله: ﴿ناصِبَةٌ﴾
+
+يقول: ناصبة فيها.
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس ﴿عَامِلَةٌ نَاصِبَةٌ﴾ فإنها تعمل وَتَنْصَب من النار.
+
+⁕ حدثني يعقوب، قال: ثنا ابن علية، عن أبي رجاء، قال: سمعت الحسن، قرأ: ﴿عَامِلَةٌ نَاصِبَةٌ﴾ قال: لم تعمل لله في الدنيا، فأعملها في النار.
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة ﴿عَامِلَةٌ نَاصِبَةٌ﴾ تكبرت في الدنيا عن طاعة الله، فأعملها وأنصبها في النار.
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة، في قوله: ﴿عَامِلَةٌ نَاصِبَةٌ﴾ قال: عاملة ناصبة في النار.
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله: ﴿عَامِلَةٌ نَاصِبَةٌ﴾ قال: لا أحد أنصَبُ ولا أشدّ من أهل النار.
+
+* *
+
+وقوله: ﴿تَصْلَى نَارًا حَامِيَةً﴾
+
+يقول تعالى ذكره: ترد هذه الوجوه نارًا حامية قد حميت واشتد حرها.
+
+واختلفت القرّاء في قراءة ذلك، فقرأته عامة قرّاء الكوفة ﴿تَصْلَى﴾ بفتح التاء، بمعنى: تصلى الوجوه. وقرأ ذلك أبو عمرو ﴿تُصْلَى﴾ بضم التاء اعتبارًا بقوله: ﴿تُسْقَى مِنْ عَيْنٍ آنِيَةٍ﴾ ، والقول في ذلك أنهما قراءتان صحيحتا المعنى، فبأيتهما قرأ القارئ فمصيب.
+
+* *
+
+وقوله: ﴿تُسْقَى مِنْ عَيْنٍ آنِيَةٍ﴾
+
+يقول: تسقى أصحاب هذه الوجوه من شَرَاب عين قد أنى حرّها، فبلغ غايته في شدة الحرّ.
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس، قوله: ﴿تُسْقَى مِنْ عَيْنٍ آنِيَةٍ﴾ قال: هي التي قد أطال أنينها.
+
+⁕ حدثني يعقوب، قال: ثنا ابن عُلَيَة، عن أبي رجاء، عن الحسن، في قوله: ﴿تُسْقَى مِنْ عَيْنٍ آنِيَةٍ﴾ قال: أنَى طبخها منذ يوم خلق الله الدنيا.
+
+⁕ حدثني به يعقوب مرّة أخرى، فقال: منذ يوم خلق الله السموات والأرض.
+
+⁕ حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء، جميعا عن ابن أبي نجيح، عن مجاهد في قول الله: ﴿مِنْ عَيْنٍ آنِيَةٍ﴾ قال: قد بلغت إناها، وحان شربها.
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: ﴿تُسْقَى مِنْ عَيْنٍ آنِيَةٍ﴾ يقول: قد أنَى طبخها منذ خلق الله السموات والأرض.
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن الحسن، في قوله: ﴿مِنْ عَيْنٍ آنِيَةٍ﴾ قال: من عين أنَى حرّها: يقول: قد بلغ حرّها.
+
+وقال بعضهم: عُنِيَ بقوله: ﴿مِنْ عَيْنٍ آنِيَةٍ﴾ من عين حاضرة.
+
+ذكر من قال ذلك:
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله: ﴿تُسْقَى مِنْ عَيْنٍ آنِيَةٍ﴾ قال: آنية: حاضرة.
+
+* *
+
+وقوله: ﴿لَيْسَ لَهُمْ طَعَامٌ إِلا مِنْ ضَرِيعٍ﴾
+
+يقول: ليس لهؤلاء الذين هم أصحاب الخاشعة العاملة الناصبة يوم القيامة طعام، إلا ما يطعمونه من ضَرِيع. والضريع عند العرب: نبت يُقال له الشِّبْرِق، وتسميه أهل الحجاز الضَّريع إذا يبس، ويسميه غيرهم: الشِّبْرق، وهو سمّ.
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس ﴿لَيْسَ لَهُمْ طَعَامٌ إِلا مِنْ ضَرِيعٍ﴾ قال: الضريع: الشِّبْرق.
+
+⁕ حدثني محمد بن عُبيد المحاربيّ، قال: ثنا عباد بن يعقوب الأسديّ، قال محمد: ثنا، وقال عباد: أخبرنا محمد بن سليمان، عن عبد الرحمن الأصبهانيّ، عن عكرِمة في قوله: ﴿لَيْسَ لَهُمْ طَعَامٌ إِلا مِنْ ضَرِيعٍ﴾ قال: الشِّبرق.
+
+⁕ حدثني يعقوب، قال: ثنا إسماعيل بن عُلَية، عن أبي رجاء، قال: ثني نجدة، رجل من عبد القيس عن عكرمة، في قوله: ﴿لَيْسَ لَهُمْ طَعَامٌ إِلا مِنْ ضَرِيعٍ﴾ قال: هي شجرة ذات شوك، لاطئة بالأرض، فإذا كان الربيع سمَّتها قريش الشِّبرق، فإذا هاج العود سمتها الضَّريع.
+
+⁕ حدثنا ابن بشار، قال: ثنا عبد الرحمن، قال: ثنا سفيان، عن ليث، عن مجاهد ﴿لَيْسَ لَهُمْ طَعَامٌ إِلا مِنْ ضَرِيعٍ﴾ قال: الشبرق.
+
+⁕ حدثنا ابن حُميد، قال: ثنا مِهران، عن سفيان، عن ليث، عن مجاهد، مثله.
+
+⁕ حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى؛ وحدثني الحارث، قال: ثنا الحسن؛ قال: ثنا ورقاء، جميعا عن ابن أبي نجيح، عن مجاهد، قوله: ﴿ضَرِيعٍ﴾ قال: الشِّبرق اليابس.
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة ﴿إِلا مِنْ ضَرِيعٍ﴾ قال: هو الشبرق إذا يبس يسمى الضريع.
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: ﴿لَيْسَ لَهُمْ طَعَامٌ إِلا مِنْ ضَرِيعٍ﴾ يقول: من شرّ الطعام، وأبشعه وأخبثه.
+
+⁕ حدثني محمد بن عبيد، قال: ثنا شريك بن عبد الله، في قوله: (لَيْسَ لَهُمْ طَعَامٌ إِلا مِنْ ضَرِيعٍ) قال: الشبرق.
+
+وقال آخرون: الضَّرِيع: الحجارة.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا أبو كُرَيب، قال: ثنا ابن يمان، عن جعفر، عن سعيد، في قوله: ﴿لَيْسَ لَهُمْ طَعَامٌ إِلا مِنْ ضَرِيعٍ﴾ قال: الحجارة.
+
+وقال آخرون: الضَّرِيع: شجر من نار.
+
+ذكر من قال ذلك:
+
+⁕ حدثني عليّ، قال: ثنا أبو صالح، قال: ثني معاوية، عن عليّ، عن ابن عباس، قوله: ﴿لَيْسَ لَهُمْ طَعَامٌ إِلا مِنْ ضَرِيعٍ﴾ يقول: شجر من نار.
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله: ﴿لَيْسَ لَهُمْ طَعَامٌ إِلا مِنْ ضَرِيعٍ﴾ قال: الضريع: الشَّوك من النار. قال: وأما في الدنيا فإنَّ الضريع: الشوك اليابس الذي ليس له ورق، تدعوه العرب الضريع، وهو في الآخرة شوك من نار
+
+* *
+
+وقوله: ﴿لا يُسْمِنُ وَلا يُغْنِي مِنْ جُوعٍ﴾
+
+يقول: لا يُسمن هذا الضريع يوم القيامة أكلته من أهل النار، ﴿ولا يُغني من جوع﴾ يقول: ولا يُشْبعهم من جوع يصيبهم.
 
 ### al-Muyassar (Arabic)
 
-وجوه الكفار يومئذ ذليلة بالعذاب، مجهدة بالعمل متعبة، تصيبها نار شديدة التوهج، تُسقى من عين شديدة الحرارة. ليس لأصحاب النار طعام إلا من نبت ذي شوك لاصق بالأرض، وهو مِن شر الطعام وأخبثه، لا يُسْمن بدن صاحبه من الهُزال، ولا يسدُّ جوعه ورمقه.
+وجوه الكفار يومئذ ذليلة بالعذاب، مجهدة بالعمل متعبة، تصيبها نار شديدة التوهج، تُسقى مِن عين بلغت منتهى الحرارة، ليس لأصحاب النار طعام إلا مِن نبت ذي شوك لاصق بالأرض، وهو مِن شر الطعام وأخبثه، لا يُسْمن بدن صاحبه من الهُزال، ولا يسدُّ جوعه ورَمَقَه.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿لَيْسَ لَهُمْ طَعام إلّا مِن ضَرِيع﴾ هُوَ نَوْع مِن الشَّوْك لا تَرْعاهُ دابَّة لِخُبْثِهِ
 
 ---
 
@@ -120,20 +1180,232 @@ It has already been mentioned on the authority of An-Nu`man bin Bashir that the 
 
 ### Ibn Kathir (English)
 
-Which was revealed in Makkah
-Reciting Surat Al-A`la and Al-Ghashiyah in the Friday Prayer
-It has already been mentioned on the authority of An-Nu`man bin Bashir that the Messenger of Allah ﷺ used to recite Surat Al-A`la (87) and Al-Ghashiyah in the `Id and Friday prayers. Imam Malik recorded that Ad-Dahhak bin Qays asked An-Nu`man bin Bashir, "What else did the Messenger of Allah ﷺ recite on Friday along with Surat Al-Jumu`ah" An-Nu`man replied, "Al-Ghashiyah (88)." This narration has been re...
+Reciting Surat Al-A'la and Al-Ghashiyah in the Friday Prayer
+
+It has already been mentioned on the authority of An-Nu'man bin Bashir that the Messenger of Allah ﷺ used to recite Surat Al-A'la (87) and Al-Ghashiyah in the 'Id and Friday prayers. Imam Malik recorded that Ad-Dahhak bin Qays asked An-Nu'man bin Bashir, "What else did the Messenger of Allah ﷺ recite on Friday along with Surat Al-Jumu'ah?" An-Nu'man replied, "Al-Ghashiyah (88)." This narration has been recorded by Abu Dawud, An-Nasa'i, Muslim and Ibn Majah.
+
+بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
+
+In the Name of Allah, the Most Gracious, the Most Merciful.
+
+هَلْ أَتَاكَ حَدِيثُ الْغَاشِيَةِ - وُجُوهٌ يَوْمَئِذٍ خَاشِعَةٌ - عَامِلَةٌ نَّاصِبَةٌ - تَصْلَىٰ نَارًا حَامِيَةً - تُسْقَىٰ مِنْ عَيْنٍ آنِيَةٍ - لَّيْسَ لَهُمْ طَعَامٌ إِلَّا مِن ضَرِيعٍ - لَّا يُسْمِنُ وَلَا يُغْنِي مِن جُوعٍ
+
+(1. Has there come to you the narration of Al-Ghashiyah (the overwhelming)?)(2. Some faces that Day will be Khashi'ah.)(3. Laboring, weary.)(4. They will enter into Fire, Hamiyah.)(5. They will be given to drink from a boiling (Aniyah) spring,)(6. No food will there be for them but from Dari',)(7. Which will neither nourish nor avail against hunger.)
+
+The Day of Judgement and what will happen to the People of the Fire during it
+
+Al-Ghashiyah is one of the names of the Day of Judgement. This was said by Ibn 'Abbas, Qatadah and Ibn Zayd. It has been called this because it will overwhelm the people and overcome them. Allah then says,
+
+وُجُوهٌ يَوْمَئِذٍ خَاشِعَةٌ
+
+(Some faces that Day will be Khashi'ah.)
+
+meaning, humiliated. This was said by Qatadah. Ibn 'Abbas said, "They will be humble but this action will be of no benefit to them." Then Allah says,
+
+عَامِلَةٌ نَّاصِبَةٌ
+
+(Laboring, weary.) meaning, they did many deeds and became weary in their performance, yet they will be cast into a blazing Fire on the Day of Judgement. Al-Hafiz Abu Bakr Al-Burqani narrated from Abu 'Imran Al-Jawni that he said, " 'Umar bin Al-Khattab passed by the monastery of a monk and he said: 'O monk!' Then the monk came out, and 'Umar looked at him and began to weep. Then it was said to him: 'O Commander of the faithful! Why are you weeping?' He replied: 'I remembered the statement of Allah, the Mighty and Majestic, in His Book,
+
+عَامِلَةٌ نَّاصِبَةٌ - تَصْلَىٰ نَارًا حَامِيَةً
+
+(Laboring, weary. They will enter into Fire, Hamiyah.)
+
+So that is what has made me cry.'" Al-Bukhari recorded that Ibn 'Abbas said,
+
+عَامِلَةٌ نَّاصِبَةٌ
+
+(Laboring, weary.) "The Christians." It is narrated that 'Ikrimah and As-Suddi both said, "Laboring in the worldly life with disobedience, and weariness in the Fire from torment and perdition." Ibn 'Abbas, Al-Hasan, and Qatadah all said,
+
+تَصْلَىٰ نَارًا حَامِيَةً
+
+(They will enter into Fire, Hamiyah) meaning, hot with intense heat.
+
+تُسْقَىٰ مِنْ عَيْنٍ آنِيَةٍ
+
+(They will be given to drink from a boiling (Aniyah) spring.)
+
+meaning, its heat has reached its maximum limit and boiling point. This was said by Ibn 'Abbas, Mujahid, Al-Hasan and As-Suddi. Concerning Allah's statement,
+
+لَّيْسَ لَهُمْ طَعَامٌ إِلَّا مِن ضَرِيعٍ
+
+(No food will there be for them but from Dari',)
+
+Ali bin Abi Talhah reported from Ibn 'Abbas that he said, "A tree from the Hellfire." Ibn 'Abbas, Mujahid, 'Ikrimah, Abu Al-Jawza' and Qatadah, all said, "It is Ash-Shibriq (a type of plant)." Qatadah said, "The Quraysh called it Ash-Shabraq in the spring and Ad-Dari' in the summer." 'Ikrimah said, "It is a thorny tree which reaches down to the ground." Al-Bukhari related that Mujahid said, "Ad-Dari' is a plant that is called Ash-Shibriq. The people of the Hijaz call it Ad-Dari' when it dries, and it is poisonous." Ma'mar narrated that Qatadah said,
+
+لَّيْسَ لَهُمْ طَعَامٌ إِلَّا مِن ضَرِيعٍ
+
+(No food will there be for them but from Dari',)
+
+"This is Ash-Shibriq. When it dries it is called Ad-Dari'." Sa'id narrated from Qatadah that he said,
+
+لَّيْسَ لَهُمْ طَعَامٌ إِلَّا مِن ضَرِيعٍ
+
+(No food will there be for them but from Dari',)
+
+"This is of the worst, most disgusting and loathsome of foods." Concerning Allah's statement,
+
+لَّا يُسْمِنُ وَلَا يُغْنِي مِن جُوعٍ
+
+(Which will neither nourish nor avail against hunger.)
+
+This means that the intent in eating it will not be achieved, and nothing harmful will be repelled by it.
 
 ### al-Tabari (Arabic)
 
-وقوله: ( لا يُسْمِنُ وَلا يُغْنِي مِنْ جُوعٍ ) يقول: لا يُسمن هذا الضريع يوم القيامة أكلته من أهل النار، ( ولا يُغني من جوع ) يقول: ولا يُشْبعهم من جوع يصيبهم.
+القول في تأويل قوله تعالى: ﴿هَلْ أَتَاكَ حَدِيثُ الْغَاشِيَةِ (١) وُجُوهٌ يَوْمَئِذٍ خَاشِعَةٌ (٢) عَامِلَةٌ نَاصِبَةٌ (٣) تَصْلَى نَارًا حَامِيَةً (٤) تُسْقَى مِنْ عَيْنٍ آنِيَةٍ (٥) لَيْسَ لَهُمْ طَعَامٌ إِلا مِنْ ضَرِيعٍ (٦) لا يُسْمِنُ وَلا يُغْنِي مِنْ جُوعٍ (٧) ﴾
+
+.
+
+يقول تعالى ذكره لنبيه محمد ﷺ: ﴿هَلْ أَتَاكَ﴾ يا محمد ﴿حَدِيثُ الْغَاشِيَةِ﴾ يعني: قصتها وخبرها.
+
+واختلف أهل التأويل في معنى الغاشية، فقال بعضهم: هي القيامة تغشي الناس بالأهوال.
+
+ذكر من قال ذلك:
+
+⁕ حدثني عليّ، قال: ثنا أبو صالح، قال: ثني معاوية، عن عليّ، عن ابن عباس ﴿الْغَاشِيَةِ﴾ من أسماء يوم القيامة، عظَّمه الله، وحذّره عباده.
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: ﴿هَلْ أَتَاكَ حَدِيثُ الْغَاشِيَةِ﴾ قال: الغاشية: الساعة.
+
+⁕ حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس، في قوله: ﴿هَلْ أَتَاكَ حَدِيثُ الْغَاشِيَةِ﴾ قال: الساعة.
+
+وقال آخرون: بل الغاشية: النار تغشَى وجوه الكَفَرة.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا أبو كُرَيب، قال: ثنا ابن يمان، عن أشعث، عن سعيد، في قوله: ﴿هَلْ أَتَاكَ حَدِيثُ الْغَاشِيَةِ﴾ قال: غاشية النار.
+
+والصواب من القول في ذلك أن يقال: إن الله قال لنبيه ﷺ: ﴿هَلْ أَتَاكَ حَدِيثُ الْغَاشِيَةِ﴾ لم يخبرنا أنه عنى غاشية القيامة، ولا أنه عنى غاشية النار. وكلتاهما غاشية، هذه تغشى الناس بالبلاء والأهوال والكروب، وهذه تغشي الكفار باللفح في الوجوه، والشُّواظ والنحاس، فلا قول في ذلك أصحّ من أن يقال كما قال جلّ ثناؤه، ويعمّ الخبر بذلك كما عمه.
+
+* *
+
+وقوله: ﴿وُجُوهٌ يَوْمَئِذٍ خَاشِعَةٌ﴾
+
+يقول تعالى ذكره: وجوه يومئذ، وهي وجوه أهل الكفر به
+
+خاشعة، يقول: ذليلة.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة ﴿وُجُوهٌ يَوْمَئِذٍ خَاشِعَةٌ﴾ : أي ذليلة.
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة، في قوله: ﴿خَاشِعَةٌ﴾ قال: خاشعة في النار.
+
+* *
+
+وقوله: ﴿عَامِلَةٌ﴾
+
+يعني: عاملة في النار.
+
+* *
+
+وقوله: ﴿ناصِبَةٌ﴾
+
+يقول: ناصبة فيها.
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس ﴿عَامِلَةٌ نَاصِبَةٌ﴾ فإنها تعمل وَتَنْصَب من النار.
+
+⁕ حدثني يعقوب، قال: ثنا ابن علية، عن أبي رجاء، قال: سمعت الحسن، قرأ: ﴿عَامِلَةٌ نَاصِبَةٌ﴾ قال: لم تعمل لله في الدنيا، فأعملها في النار.
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة ﴿عَامِلَةٌ نَاصِبَةٌ﴾ تكبرت في الدنيا عن طاعة الله، فأعملها وأنصبها في النار.
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة، في قوله: ﴿عَامِلَةٌ نَاصِبَةٌ﴾ قال: عاملة ناصبة في النار.
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله: ﴿عَامِلَةٌ نَاصِبَةٌ﴾ قال: لا أحد أنصَبُ ولا أشدّ من أهل النار.
+
+* *
+
+وقوله: ﴿تَصْلَى نَارًا حَامِيَةً﴾
+
+يقول تعالى ذكره: ترد هذه الوجوه نارًا حامية قد حميت واشتد حرها.
+
+واختلفت القرّاء في قراءة ذلك، فقرأته عامة قرّاء الكوفة ﴿تَصْلَى﴾ بفتح التاء، بمعنى: تصلى الوجوه. وقرأ ذلك أبو عمرو ﴿تُصْلَى﴾ بضم التاء اعتبارًا بقوله: ﴿تُسْقَى مِنْ عَيْنٍ آنِيَةٍ﴾ ، والقول في ذلك أنهما قراءتان صحيحتا المعنى، فبأيتهما قرأ القارئ فمصيب.
+
+* *
+
+وقوله: ﴿تُسْقَى مِنْ عَيْنٍ آنِيَةٍ﴾
+
+يقول: تسقى أصحاب هذه الوجوه من شَرَاب عين قد أنى حرّها، فبلغ غايته في شدة الحرّ.
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس، قوله: ﴿تُسْقَى مِنْ عَيْنٍ آنِيَةٍ﴾ قال: هي التي قد أطال أنينها.
+
+⁕ حدثني يعقوب، قال: ثنا ابن عُلَيَة، عن أبي رجاء، عن الحسن، في قوله: ﴿تُسْقَى مِنْ عَيْنٍ آنِيَةٍ﴾ قال: أنَى طبخها منذ يوم خلق الله الدنيا.
+
+⁕ حدثني به يعقوب مرّة أخرى، فقال: منذ يوم خلق الله السموات والأرض.
+
+⁕ حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء، جميعا عن ابن أبي نجيح، عن مجاهد في قول الله: ﴿مِنْ عَيْنٍ آنِيَةٍ﴾ قال: قد بلغت إناها، وحان شربها.
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: ﴿تُسْقَى مِنْ عَيْنٍ آنِيَةٍ﴾ يقول: قد أنَى طبخها منذ خلق الله السموات والأرض.
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن الحسن، في قوله: ﴿مِنْ عَيْنٍ آنِيَةٍ﴾ قال: من عين أنَى حرّها: يقول: قد بلغ حرّها.
+
+وقال بعضهم: عُنِيَ بقوله: ﴿مِنْ عَيْنٍ آنِيَةٍ﴾ من عين حاضرة.
+
+ذكر من قال ذلك:
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله: ﴿تُسْقَى مِنْ عَيْنٍ آنِيَةٍ﴾ قال: آنية: حاضرة.
+
+* *
+
+وقوله: ﴿لَيْسَ لَهُمْ طَعَامٌ إِلا مِنْ ضَرِيعٍ﴾
+
+يقول: ليس لهؤلاء الذين هم أصحاب الخاشعة العاملة الناصبة يوم القيامة طعام، إلا ما يطعمونه من ضَرِيع. والضريع عند العرب: نبت يُقال له الشِّبْرِق، وتسميه أهل الحجاز الضَّريع إذا يبس، ويسميه غيرهم: الشِّبْرق، وهو سمّ.
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس ﴿لَيْسَ لَهُمْ طَعَامٌ إِلا مِنْ ضَرِيعٍ﴾ قال: الضريع: الشِّبْرق.
+
+⁕ حدثني محمد بن عُبيد المحاربيّ، قال: ثنا عباد بن يعقوب الأسديّ، قال محمد: ثنا، وقال عباد: أخبرنا محمد بن سليمان، عن عبد الرحمن الأصبهانيّ، عن عكرِمة في قوله: ﴿لَيْسَ لَهُمْ طَعَامٌ إِلا مِنْ ضَرِيعٍ﴾ قال: الشِّبرق.
+
+⁕ حدثني يعقوب، قال: ثنا إسماعيل بن عُلَية، عن أبي رجاء، قال: ثني نجدة، رجل من عبد القيس عن عكرمة، في قوله: ﴿لَيْسَ لَهُمْ طَعَامٌ إِلا مِنْ ضَرِيعٍ﴾ قال: هي شجرة ذات شوك، لاطئة بالأرض، فإذا كان الربيع سمَّتها قريش الشِّبرق، فإذا هاج العود سمتها الضَّريع.
+
+⁕ حدثنا ابن بشار، قال: ثنا عبد الرحمن، قال: ثنا سفيان، عن ليث، عن مجاهد ﴿لَيْسَ لَهُمْ طَعَامٌ إِلا مِنْ ضَرِيعٍ﴾ قال: الشبرق.
+
+⁕ حدثنا ابن حُميد، قال: ثنا مِهران، عن سفيان، عن ليث، عن مجاهد، مثله.
+
+⁕ حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى؛ وحدثني الحارث، قال: ثنا الحسن؛ قال: ثنا ورقاء، جميعا عن ابن أبي نجيح، عن مجاهد، قوله: ﴿ضَرِيعٍ﴾ قال: الشِّبرق اليابس.
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة ﴿إِلا مِنْ ضَرِيعٍ﴾ قال: هو الشبرق إذا يبس يسمى الضريع.
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: ﴿لَيْسَ لَهُمْ طَعَامٌ إِلا مِنْ ضَرِيعٍ﴾ يقول: من شرّ الطعام، وأبشعه وأخبثه.
+
+⁕ حدثني محمد بن عبيد، قال: ثنا شريك بن عبد الله، في قوله: (لَيْسَ لَهُمْ طَعَامٌ إِلا مِنْ ضَرِيعٍ) قال: الشبرق.
+
+وقال آخرون: الضَّرِيع: الحجارة.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا أبو كُرَيب، قال: ثنا ابن يمان، عن جعفر، عن سعيد، في قوله: ﴿لَيْسَ لَهُمْ طَعَامٌ إِلا مِنْ ضَرِيعٍ﴾ قال: الحجارة.
+
+وقال آخرون: الضَّرِيع: شجر من نار.
+
+ذكر من قال ذلك:
+
+⁕ حدثني عليّ، قال: ثنا أبو صالح، قال: ثني معاوية، عن عليّ، عن ابن عباس، قوله: ﴿لَيْسَ لَهُمْ طَعَامٌ إِلا مِنْ ضَرِيعٍ﴾ يقول: شجر من نار.
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله: ﴿لَيْسَ لَهُمْ طَعَامٌ إِلا مِنْ ضَرِيعٍ﴾ قال: الضريع: الشَّوك من النار. قال: وأما في الدنيا فإنَّ الضريع: الشوك اليابس الذي ليس له ورق، تدعوه العرب الضريع، وهو في الآخرة شوك من نار
+
+* *
+
+وقوله: ﴿لا يُسْمِنُ وَلا يُغْنِي مِنْ جُوعٍ﴾
+
+يقول: لا يُسمن هذا الضريع يوم القيامة أكلته من أهل النار، ﴿ولا يُغني من جوع﴾ يقول: ولا يُشْبعهم من جوع يصيبهم.
 
 ### al-Muyassar (Arabic)
 
-وجوه الكفار يومئذ ذليلة بالعذاب، مجهدة بالعمل متعبة، تصيبها نار شديدة التوهج، تُسقى من عين شديدة الحرارة. ليس لأصحاب النار طعام إلا من نبت ذي شوك لاصق بالأرض، وهو مِن شر الطعام وأخبثه، لا يُسْمن بدن صاحبه من الهُزال، ولا يسدُّ جوعه ورمقه.
+وجوه الكفار يومئذ ذليلة بالعذاب، مجهدة بالعمل متعبة، تصيبها نار شديدة التوهج، تُسقى مِن عين بلغت منتهى الحرارة، ليس لأصحاب النار طعام إلا مِن نبت ذي شوك لاصق بالأرض، وهو مِن شر الطعام وأخبثه، لا يُسْمن بدن صاحبه من الهُزال، ولا يسدُّ جوعه ورَمَقَه.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+*Not present in this edition for this ayah (source returned 404).*
 
 ---

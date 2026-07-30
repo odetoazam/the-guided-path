@@ -1,6 +1,6 @@
 # Tafsir Cross-Reference Report
 
-Generated: 2026-04-09
+Generated: 2026-07-30
 Ayahs referenced: 9
 Tafsir sources: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), al-Jalalayn (Arabic)
 
@@ -10,22 +10,169 @@ Tafsir sources: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), 
 
 ### Ibn Kathir (English)
 
+There is no compulsion in religion. Verily, the right path has become distinct from the wrong path. Whoever disbelieves in Taghut and believes in Allah, then he has grasped the most trustworthy handhold that will never break. And Allah is All-Hearer, All-Knower (256)
+
 No Compulsion in Religion
+
 Allah said,
-لاَ إِكْرَاهَ فِى الدِّينِ
-(There is no compulsion in religion), meaning, "Do not force anyone to become Muslim, for Islam is plain and clear, and its proofs and evidence are plain and clear. Therefore, there is no need to force anyone to embrace Islam. Rather, whoever Allah directs to Islam, opens his heart for it and enlightens his mind, will embrace Islam with certainty. Whoever Allah blinds his heart and seals his hearing and sight, then he will not b...
+
+لَا إِكْرَاهَ فِي الدِّينِ
+
+(There is no compulsion in religion), meaning, "Do not force anyone to become Muslim, for Islam is plain and clear, and its proofs and evidence are plain and clear. Therefore, there is no need to force anyone to embrace Islam. Rather, whoever Allah directs to Islam, opens his heart for it and enlightens his mind, will embrace Islam with certainty. Whoever Allah blinds his heart and seals his hearing and sight, then he will not benefit from being forced to embrace Islam."
+
+It was reported that the Ansar were the reason behind revealing this Ayah, although its indication is general in meaning. Ibn Jarir recorded that Ibn 'Abbas said [that before Islam], "When (an Ansar) woman would not bear children who would live, she would vow that if she gives birth to a child who remains alive, she would raise him as a Jew. When Banu An-Nadir (the Jewish tribe) were evacuated [from Al-Madinah], some of the children of the Ansar were being raised among them, and the Ansar said, 'We will not abandon our children.' Allah revealed,
+
+لَا إِكْرَاهَ فِي الدِّينِ قَد تَّبَيَّنَ الرُّشْدُ مِنَ الْغَيِّ
+
+(There is no compulsion in religion. Verily, the right path has become distinct from the wrong path.)"
+
+Abu Dawud and An-Nasa'i also recorded this Hadith.
+
+As for the Hadith that Imam Ahmad recorded, in which Anas said that the Messenger of Allah ﷺ said to a man,
+
+أَسْلِم
+
+قَالَ: إِنِّي أَجِدُنِي كَارِهًا
+
+قَالَ: وَإِنْ كُنْتَ كَارِهًا
+
+("Embrace Islam." The man said, "I dislike it." The Prophet ﷺ said, "Even if you dislike it.")
+
+First, this is an authentic Hadith, with only three narrators between Imam Ahmad and the Prophet ﷺ. However, it is not relevant to the subject under discussion, for the Prophet ﷺ did not force that man to become Muslim. The Prophet ﷺ merely invited this man to become Muslim, and he replied that he does not find himself eager to become Muslim. The Prophet ﷺ said to the man that even though he dislikes embracing Islam, he should still embrace it, 'for Allah will grant you sincerity and true intent.'
+
+Tawhid is the Most Trustworthy Handhold
+
+Allah's statement,
+
+فَمَن يَكْفُرْ بِالطَّاغُوتِ وَيُؤْمِن بِاللَّهِ فَقَدِ اسْتَمْسَكَ بِالْعُرْوَةِ الْوُثْقَىٰ لَا انفِصَامَ لَهَا وَاللَّهُ سَمِيعٌ عَلِيمٌ
+
+(Whoever disbelieves in Taghut and believes in Allah, then he has grasped the most trustworthy handhold that will never break. And Allah is All-Hearer, All-Knower) is in reference to, "Whoever shuns the rivals of Allah, the idols, and those that Shaytan calls to be worshipped besides Allah, whoever believes in Allah's Oneness, worships Him alone and testifies that there is no deity worthy of worship except Him, then
+
+فَقَدِ اسْتَمْسَكَ بِالْعُرْوَةِ الْوُثْقَىٰ
+
+(then he has grasped the most trustworthy handhold.)
+
+Therefore, this person will have acquired firmness [in the religion] and proceeded on the correct way and the straight path. Abu Al-Qasim Al-Baghawi recorded that 'Umar said, "Jibt means magic, and Taghut means Shaytan. Verily, courage and cowardice are two instincts that appear in men, the courageous fights for those whom he does not know and the coward runs away from defending his own mother. Man's honor resides with his religion and his status is based upon his character, even if he was Persian or Nabatian." 'Umar's statement that Taghut is Shaytan is very sound, for this meaning includes every type of evil that the ignorant people of Jahiliyyah (pre Islamic era of ignorace) fell into, such as worshipping idols, referring to them for judgement, and invoking them for victory.
+
+Allah's statement,
+
+فَقَدِ اسْتَمْسَكَ بِالْعُرْوَةِ الْوُثْقَىٰ لَا انفِصَامَ لَهَا
+
+(then he has grasped the most trustworthy handhold that will never break) means, "He will have hold of the true religion with the strongest grasp." Allah equated this adherence to the firm handhold that never breaks because it is built solid and because its handle is firmly connected. This is why Allah said here,
+
+فَقَدِ اسْتَمْسَكَ بِالْعُرْوَةِ الْوُثْقَىٰ لَا انفِصَامَ لَهَا
+
+(then he has grasped the most trustworthy handhold that will never break.)
+
+Mujahid said, "The most trustworthy handhold is Iman (faith)." As-Suddi said that it refers to Islam. Imam Ahmad recorded that Qays bin 'Abbad said, "I was in the Masjid when a man whose face showed signs of humbleness came and prayed two Rak'ahs that were modest in length. The people said, 'This is a man from among the people of Paradise.' When he left, I followed him until he entered his house, and I entered it after him and spoke with him. When he felt at ease, I said to him, 'When you entered the Masjid, the people said such and such things.' He said, 'All praise is due to Allah! No one should say what he has no knowledge of. I will tell you why they said that. I saw a vision during the time of the Messenger of Allah, and I narrated it to him. I saw that I was in a green garden,' and he described the garden's plants and spaciousness, 'and there was an iron pole in the middle of the garden affixed in the earth and its tip reached the sky. On its tip, there was a handle, and I was told to ascend the pole. I said, 'I cannot.' Then a helper came and raised my robe from behind and said to me, 'Ascend.' I ascended until I grasped the handle and he said to me, 'Hold on to the handle.' I awoke from that dream with the handle in my hand. I went to the Messenger of Allah ﷺ and told him about the vision and he said,
+
+أَمَّا الرَّوْضَةُ فَرَوْضَةُ الْإِسْلَامِ، وَأَمَّا الْعَمُودُ فَعَمُودُ الْإِسْلَامِ، وَأَمَّا الْعُرْوَةُ فَهِيَ الْعُرْوَةُ الْوُثْقَى، أَنْتَ عَلَى الْإِسْلَامِ حَتَّى تَمُوتَ
+
+(As for the garden, it represents Islam; as for the pole, it represents the pillar of Islam; and the handle represents the most trustworthy handhold. You shall remain Muslim until you die.)
+
+This Companion was 'Abdullah bin Salam."
+
+This Hadith was also collected in the Two Sahihs; and Al-Bukhari also recorded it with another chain of narration.
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله :  لا إِكْرَاهَ فِي الدِّينِ قَدْ تَبَيَّنَ الرُّشْدُ مِنَ الْغَيِّقال أبو جعفر: اختلف أهل التأويل في معنى ذلك.فقال بعضهم: نـزلت هذه الآية في قوم من الأنصار- أو في رجل منهم - كان لهم أولاد قد هودوهم أو نصروهم، فلما جاء الله بالإسلام أرادوا إكراههم عليه، فنهاهم الله عن ذلك، حتى يكونوا هم يختارون الدخول في الإسلام.* ذكر من قال ذلك:5812 - حدثنا محمد بن بشار، قال: حدثنا ابن أبي عدي، عن شعبة، &; 5-408 &; عن أبي بشر، عن سعيد بن جبير، عن ابن عباس قال: كانت المرأة تكون مقلاتا، فتج...
+القول في تأويل قوله: ﴿لا إِكْرَاهَ فِي الدِّينِ قَدْ تَبَيَّنَ الرُّشْدُ مِنَ الْغَيِّ﴾
+
+قال أبو جعفر: اختلف أهل التأويل في معنى ذلك.
+
+فقال بعضهم: نزلت هذه الآية في قوم من الأنصار- أو في رجل منهم - كان لهم أولاد قد هودوهم أو نصروهم، فلما جاء الله بالإسلام أرادوا إكراههم عليه، فنهاهم الله عن ذلك، حتى يكونوا هم يختارون الدخول في الإسلام.
+
+ذكر من قال ذلك:
+
+٥٨١٢ - حدثنا محمد بن بشار، قال: حدثنا ابن أبي عدي، عن شعبة، عن أبي بشر، عن سعيد بن جبير، عن ابن عباس قال: كانت المرأة تكون مقلاتا، فتجعل على نفسها إن عاش لها ولد أن تهوده. فلما أجليت بنو النضير كان فيهم من أبناء الأنصار، فقالوا: لا ندع أبناءنا! فأنزل الله تعالى ذكره:"لا إكراه في الدين قد تبين الرشد من الغي".
+
+٥٨١٣ - حدثنا ابن بشار، قال: حدثنا محمد بن جعفر، قال: حدثنا سعيد، عن أبي بشر، عن سعيد بن جبير، قال: كانت المرأة تكون مقلى ولا يعيش لها ولد = قال شعبة. وإنما هو مقلات = فتجعل عليها إن بقي لها ولد لتهودنه. قال: فلما أجليت بنو النضير كان فيهم منهم، فقالت الأنصار: كيف نصنع بأبنائنا؟ فنزلت هذه الآية:"لا إكراه في الدين قد تبين الرشد من الغي". قال: من شاء أن يقيم أقام، ومن شاء أن يذهب ذهب [[الأثران: ٥٨١٢، ٥٨١٣ -في ابن كثير ٢: ١٥، والدر المنثور ١: ٣٢٩ قال ابن كثير: "رواه أبو داود والنسائي جميعا عن بندار به، ومن وجوه أخرى عن شعبة به نحوه. ورواه ابن أبي حاتم وابن حبان في صحيحه من حديث شعبة به". والسنن الكبرى للبيهقى ٩: ١٨٦، وسنن أبي داود -٣: ٧٨ -٧٩ رقم: ٢٦٨٢. وكان في المطبوعة والمخطوطة في رقم ٥٨١٣، "حدثنا محمد بن جعفر، عن سعيد"، وهو خطأ صوابه"شعبة". وقوله: "قال: من شاء أن يقيم أقام" وهو من كلام سعيد بن جبير، كما في السنن للبيهقى. والحديث مرفوع هناك إلى ابن عباس وهو الصواب ولكني تركت ما في الطبري على حاله.
+
+وامرأة مقلت (بضم الميم) ومقلات (بكسر الميم) ، هى المرأة التي لايعيش لها ولد. ويأتى أيضًا "مقلات"، أنها المرأة التي ليس لها إلا ولد واحد. ولكن الأول هو المراد في هذا الأثر.]] .
+
+٥٨١٤ - حدثنا حميد بن مسعدة، قال: حدثنا بشر بن المفضل، قال: حدثنا داود= وحدثني يعقوب قال: حدثنا ابن علية، عن داود= عن عامر، قال: كانت المرأة من الأنصار تكون مقلاتا لا يعيش لها ولد، فتنذر إن عاش ولدها أن تجعله مع أهل الكتاب على دينهم، فجاء الإسلام وطوائف من أبناء الأنصار على دينهم، فقالوا: إنما جعلناهم على دينهم، ونحن نرى أن دينهم أفضل من ديننا! وإذ جاء الله بالإسلام فلنكرهنهم! فنزلت:"لا إكراه في الدين"، فكان فصل ما بين من اختار اليهودية والإسلام، فمن لحق بهم اختار اليهودية، ومن أقام اختار الإسلام= ولفظ الحديث لحميد.
+
+٥٨١٥ - حدثنا محمد بن عبد الأعلى، قال: حدثنا معتمر بن سليمان، قال: سمعت داود، عن عامر، بنحو معناه= إلا أنه قال: فكان فصل ما بينهم، إجلاء رسول الله ﷺ بني النضير، فلحق بهم من كان يهوديا ولم يسلم منهم، وبقي من أسلم.
+
+٥٨١٦ - حدثنا ابن المثنى، قال: حدثنا عبد الأعلى، قال: حدثنا داود، عن عامر بنحوه= إلا أنه قال: إجلاء النضير إلى خيبر، فمن اختار الإسلام أقام، ومن كره لحق بخيبر [[الآثار ٥٨١٤ -٥٨١٦- هى ألفاظ مختلفة لحديث واحد، وانظر ١: ٣٢٩، وقال": أخرجه عبد بن حميد وابن المنذر"، ثم انظر الأثرين رقم: ٥٨٢٣، ٥٨٢٤ فيما يأتي بعد.]] .
+
+٥٨١٧ - حدثني ابن حميد، قال: حدثنا سلمة، عن أبي إسحاق، عن محمد بن أبي محمد الحرشي مولى زيد بن ثابت عن عكرمة، أو عن سعيد بن جبير، عن ابن عباس قوله:"لا إكراه في الدين قد تبين الرشد من الغي"، قال: نزلت في رجل من الأنصار من بني سالم بن عوف يقال له الحصين، كان له ابنان نصرانيان، وكان هو رجلا مسلما، فقال للنبي ﷺ: ألا أستكرههما فإنهما قد أبيا إلا النصرانية؟ فأنزل الله فيه ذلك [[الأثر: ٥٨١٧ -انظر ما قاله الحافظ ابن حجر في تحقيق اسم الصحابي في"حصين الأنصاري" غير منسوب، ثم في باب الكنى"أبو الحصين الأنصاري السالمي"، وفيهما تحقيق جيد.
+
+وانظر تفسير ابن ٢: ١٥، والدر المنثور ١: ٣٢٩. وانظر الأثر التالي رقم: ٥٨١٩.]] .
+
+٥٨١٨ - حدثني المثنى قال: حدثنا حجاج بن المنهال، قال: حدثنا أبو عوانة، عن أبي بشر، قال: سألت سعيد بن جبير عن قوله:"لا إكراه في الدين قد تبين الرشد من الغي" قال: نزلت هذه في الأنصار، قال: قلت خاصة! قال: خاصة! قال: كانت المرأة في الجاهلية تنذر إن ولدت ولدا أن تجعله في اليهود، تلتمس بذلك طول بقائه. قال: فجاء الإسلام وفيهم منهم، فلما أجليت النضير قالوا: يا رسول الله، أبناؤنا وإخواننا فيهم، قال: فسكت عنهم رسول الله ﷺ، فأنزل الله تعالى ذكره:"لا إكراه في الدين قد تبين الرشد من الغي" قال: فقال رسول الله ﷺ:"قد خير أصحابكم، فإن اختاروكم فهم منكم، وإن اختاروهم فهم منهم" قال: فأجلوهم معهم [[الأثر: ٥٨١٨ -في السنن الكبرى للبيهقى ٩: ١٨٦ من طريق سعيد بن منصور عن أبي عوانة، وذكره السيوطي في الدر المنثور ١: ٣٢٩ وزاد نسبته إلى"سعيد بن منصور، وعبدبن حميد، وابن المنذر" وفيها زيادة: "كانت المرأة في الجاهلية إذا كانت نزورا مقلاتا تنذر لئن ولدت ولدا لتجعلنه في اليهود" وسائر الخبر سواء. وكتب في البيهقي والدر المنثور"مقلاة" بالتاء المربوطة وهو خطأ، و"امرأة نزرة" (بفتح وكسر" وامرأة نزور" قليلة الولد. وفي الدر"نزورة" وهو خطأ.]] .
+
+٥٨١٩ - حدثني موسى بن هارون، قال: حدثنا عمرو، قال: حدثنا أسباط، عن السدي قوله:"لا إكراه في الدين قد تبين الرشد من الغي" إلى:"لا انفصام لها" قال: نزلت في رجل من الأنصار يقال له أبو الحصين: كان له ابنان، فقدم تجار من الشام إلى المدينة يحملون الزيت. فلما باعوا وأرادوا أن يرجعوا أتاهم ابنا أبي الحصين، فدعوهما إلى النصرانية، فتنصرا فرجعا إلى الشام معهم. فأتى أبوهما إلى رسول الله ﷺ، فقال [[في المطبوعة: "إلى رسول الله صلى عليه وسلم"، والصواب من المخطوطة والدر المنثور.]] إن ابني تنصرا وخرجا، فأطلبهما؟ فقال:"لا إكراه في الدين" [[في المطبوعة: إتمام الآية"قد تبين الرشد من الغى"، وليس في المخطوطة ولا الدر المنثور.]] .
+
+ولم يؤمر يومئذ بقتال أهل الكتاب، وقال: أبعدهما الله! هما أول من كفر! فوجد أبو الحصين في نفسه على النبي ﷺ حين لم يبعث في طلبهما، فنزلت: ﴿فَلا وَرَبِّكَ لا يُؤْمِنُونَ حَتَّى يُحَكِّمُوكَ فِيمَا شَجَرَ بَيْنَهُمْ ثُمَّ لا يَجِدُوا فِي أَنْفُسِهِمْ حَرَجًا مِمَّا قَضَيْتَ وَيُسَلِّمُوا تَسْلِيمًا﴾ [سورة النساء: ٦٥] ثم إنه نسخ:"لا إكراه في الدين" فأمر بقتال أهل الكتاب في" سورة براءة" [[الأثر: ٥٨١٩ -في الدر المنثور ١: ٣٢٩، وزاد نسبته إلى أبي داود في ناسخه، وابن المنذر، وأشار إليه ابن كثير في تفسيره ٢: ١٥. هذا ولم يذكر أبو جعفر هذا الأثر في تفسير آية"سورة النساء"، ولم يجعلها قولا غير الأقوال التي ذكرها. وهو دليل على اختصاره هذا التفسير، كما رووا عنه.]] .
+
+٥٨٢٠ - حدثني محمد بن عمرو، قال: حدثنا أبو عاصم، عن عيسى، عن ابن أبي نجيح، عن مجاهد في قول الله:"لا إكراه في الدين" قال: كانت في اليهود بني النضير، [[في المطبوعة: "كانت في اليهود يهود أرضعوا ... "، وفي المخطوطة كانت اليهود يهودا أرضعوا" وهما خطأ. وفي الدر المنثور ١: ٣٢٩: " كانت النضير أرضعت". واستظهرت أن تكون العبارة أثبتها، سقط من الناسخ"بني النضير" -أو يكون صوابها كما سيأتى في الأثر رقم: ٥٨٢٢: "كانت النضير يهودا ... ".]] أرضعوا رجالا من الأوس، فلما أمر النبي ﷺ بإجلائهم، قال أبناؤهم من الأوس: لنذهبن معهم، ولندينن بدينهم! فمنعهم أهلوهم، وأكرهوهم على الإسلام، ففيهم نزلت هذه الآية.
+
+٥٨٢١ - حدثنا ابن وكيع، قال: حدثنا أبي، عن سفيان= وحدثنا أحمد بن إسحاق، قال: حدثنا أبو أحمد = جميعا، عن سفيان، عن خصيف، عن مجاهد:"لا إكراه في الدين"، قال: كان ناس من الأنصار مسترضعين في بني قريظة، فأرادوا أن يكرهوهم على الإسلام، فنزلت:"لا إكراه في الدين قد تبين الرشد من الغي".
+
+٥٨٢٢ - حدثنا القاسم، قال: حدثنا الحسين، قال: حدثني الحجاج، عن ابن جريج، قال: قال مجاهد: كانت النضير يهودا فأرضعوا،= ثم ذكر نحو حديث محمد بن عمرو، عن أبي عاصم= قال ابن جريج، وأخبرني عبد الكريم، عن مجاهد: أنهم كانوا قد دان بدينهم أبناء الأوس، [[في المخطوطة: "قد دانوا بدينهم أبناء الأوس"، وأخشى أن يكون ما في المطبوعة أصح.]] دانوا بدين النضير.
+
+٥٨٢٣ - حدثني المثنى، قال: لنا إسحاق، قال: حدثنا ابن أبي جعفر، عن أبيه، عن داود بن أبي هند، عن الشعبي: أن المرأة من الأنصار كانت تنذر إن عاش ولدها لتجعلنه في أهل الكتاب، فلما جاء الإسلام قالت الأنصار: يا رسول الله ألا نكره أولادنا الذين هم في يهود على الإسلام، فإنا إنما جعلناهم فيها ونحن نرى أن اليهودية أفضل الأديان؟ فلما إذ جاء الله بالإسلام، [[في المطبوعة: "فلما أن جاء الإسلام"، وفي المخطوطة: "فلما إذ جاء"، وصواب ذلك ما أثبت.]] .
+
+أفلا نكرههم على الإسلام؟ فأنزل الله تعالى ذكره:"لا إكراه في الدين قد تبين الرشد من الغي".
+
+٥٨٢٤ - حدثت عن عمار، قال: حدثنا ابن أبي جعفر، عن أبيه، عن داود، عن الشعبي مثله = وزاد: قال: كان فصل ما بين من اختار اليهود منهم وبين من اختار الإسلام، إجلاء بني النضير، فمن خرج مع بني النضير كان منهم، ومن تركهم اختار الإسلام [[الأثران: ٥٨٢٣، ٥٨٢٤ -انظر الآثار السالفة: ٥٨١٤ -٥٨١٦.]] .
+
+٥٨٢٥ - حدثني يونس، قال: أخبرنا بن وهب، قال: قال ابن زيد في قوله:"لا إكراه في الدين" إلى قوله:"العروة الوثقى" قال: قال منسوخ.
+
+٥٨٢٦ - حدثني سعيد بن الربيع الرازي، قال: حدثنا سفيان، عن ابن أبي نجيح، عن مجاهد، ووائل، عن الحسن: أن أناسا من الأنصار كانوا مسترضعين في بني النضير، فلما أجلوا أراد أهلوهم أن يلحقوهم بدينهم، فنزلت:"لا إكراه في الدين".
+
+* *
+
+وقال آخرون: بل معنى ذلك: لا يكره أهل الكتاب على الدين إذا بذلوا الجزية، ولكنهم يقرون على دينهم. وقالوا: الآية في خاص من الكفار، ولم ينس منها شيء.
+
+ذكر من قال ذلك:
+
+٥٨٢٧ - حدثنا بشر بن معاذ، قال: حدثنا يزيد، قال: حدثنا سعيد، عن قتادة:"لا إكراه في الدين قد تبين الرشد من الغي"، قال: أكره عليه هذا الحي من العرب، لأنهم كانوا أمة أميه ليس لهم كتاب يعرفونه، فلم يقبل منهم غير الإسلام. ولا يكره عليه أهل الكتاب إذا أقروا بالجزية أو بالخراج، ولم يفتنوا عن دينهم، فيخلى عنهم [[في المخطوطة: " فخلى عنهم"، وهما سواء.]] .
+
+٥٨٢٨ - حدثنا محمد بن بشار، قال: حدثنا سليمان قال: حدثنا أبو هلال، قال: حدثنا قتادة في قوله:"لا إكراه في الدين"، قال: هو هذا الحي من العرب، أكرهوا على الدين، لم يقبل منهم إلا القتل أو الإسلام، وأهل الكتاب قبلت معهم الجزية، ولم يقتلوا.
+
+٥٨٢٩ - حدثنا ابن حميد، قال: حدثنا الحكم بن بشير، قال: حدثنا عمرو بن قيس، عن جويبر، عن الضحاك في قوله:"لا إكراه في الدين"، قال: أمر رسول الله ﷺ أن يقاتل جزيرة العرب من أهل الأوثان، فلم يقبل منهم إلا"لا إله إلا الله"، أو السيف. ثم أمر فيمن سواهم بأن يقبل منهم الجزية، فقال:"لا إكراه في الدين قد تبين الرشد من الغي".
+
+٥٨٣٠ - حدثنا الحسن بن يحيى، قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر، عن قتادة في قوله:"لا إكراه في الدين"، قال: كانت العرب ليس لها دين، فأكرهوا على الدين بالسيف. قال: ولا يكره اليهود ولا النصارى والمجوس، إذا أعطوا الجزية.
+
+٥٨٣١ - حدثنا الحسن بن يحيى، قال: أخبرنا عبد الرزاق، قال: أخبرنا ابن عيينة، عن ابن أبي نجيح، قال: سمعت مجاهدا يقول لغلام له نصراني: يا جرير أسلم. ثم قال: هكذا كان يقال لهم.
+
+٥٨٣٢ - حدثني محمد بن سعد، قال: حدثني أبي، قال: حدثني عمي، قال: حدثني أبي، عن أبيه، عن ابن عباس:"لا إكراه في الدين قد تبين الرشد من الغي"، قال: وذلك لما دخل الناس في الإسلام، وأعطى أهل الكتاب الجزية.
+
+* *
+
+وقال آخرون: هذه الآية منسوخة، وإنما نزلت قبل أن يفرض القتال.
+
+ذكر من قال ذلك:
+
+٥٨٣٣ - حدثني يونس بن عبد الأعلى، قال: أخبرنا ابن وهب، قال: أخبرني يعقوب بن عبد الرحمن الزهري قال: سألت زيد بن أسلم عن قول الله تعالى ذكره:"لا إكراه في الدين"، قال: كان رسول الله ﷺ بمكة عشر سنين لا يكره أحدا في الدين، فأبى المشركون إلا أن يقاتلوهم، فاستأذن الله في قتالهم فأذن له.
+
+* *
+
+قال أبو جعفر: وأولى هذه الأقوال بالصواب قول من قال: نزلت هذه الآية في خاص من الناس- وقال: عنى بقوله تعالى ذكره:"لا إكراه في الدين"، أهل الكتابين والمجوس وكل من جاء إقراره على دينه المخالف دين الحق، وأخذ الجزية منه، وأنكروا أن يكون شيء منها منسوخا [[في المخطوطة: "منسوخ"، والصواب ما في المطبوعة.]] .
+
+وإنما قلنا هذا القول أولى الأقوال في ذلك بالصواب، لما قد دللنا عليه في كتابنا ﴿كتاب اللطيف من البيان عن أصول الأحكام﴾ : من أن الناسخ غير كائن ناسخا إلا ما نفى حكم المنسوخ، فلم يجز اجتماعهما. فأما ما كان ظاهره العموم من الأمر والنهي، وباطنه الخصوص، فهو من الناس والمنسوخ بمعزل [[انظر ما قاله فيما سلف في شرط النسخ ٣: ٣٥٨، ٥٦٣.]] .
+
+وإذ كان ذلك كذلك = وكان غير مستحيل أن يقال: لا إكراه لأحد ممن أخذت منه الجزية في الدين، ولم يكن في الآية دليل على أن تأويلها بخلاف ذلك، وكان المسلمون جميعا قد نقلوا عن نبيهم ﷺ أنه أكره على الإسلام قوما فأبى أن يقبل منهم إلا الإسلام، وحكم بقتلهم إن امتنعوا منه، وذلك كعبدة الأوثان من مشركي العرب، وكالمرتد عن دينه دين الحق إلى الكفر ومن أشبههم، وأنه ترك إكراه الآخرين على الإسلام بقبوله الجزية منه وإقراره على دينه الباطل، وذلك كأهل الكتابين ومن أشبههم = [[سياق الجملة: "وإذ كان ذلك كذلك ... كان بينا". وما بين الخطين، عطوف متتابعة فاصلة بينهما.]] كان بينا بذلك أن معنى قوله:"لا إكراه في الدين"، إنما هو لا إكراه في الدين لأحد ممن حل قبول الجزية منه بأدائه الجزية، ورضاه بحكم الإسلام.
+
+ولا معنى لقول من زعم أن الآية منسوخة الحكم، بالإذن بالمحاربة.
+
+* *
+
+فإن قال قائل: فما أنت قائل فيما روي عن ابن عباس وعمن روي عنه: من أنها نزلت في قوم من الأنصار أرادوا أن يكرهوا أولادهم على الإسلام؟
+
+قلنا: ذلك غير مدفوعة صحته، ولكن الآية قد تنزل في خاص من الأمر، ثم يكون حكمها عاما في كل ما جانس المعنى الذي أنزلت فيه. فالذين أنزلت فيهم هذه الآية - على ما ذكر ابن عباس وغيره - إنما كانوا قوما دانوا بدين أهل التوراة قبل ثبوت عقد الإسلام لهم، فنهى الله تعالى ذكره عن إكراههم على الإسلام، وأنزل بالنهي عن ذلك آية يعم حكمها كل من كان في مثل معناهم، ممن كان على دين من الأديان التي يجوز أخذ
+
+[TRUNCATED at 12000 chars — 11110 more. Consult the source directly before relying on anything near the cut.]
 
 ### al-Muyassar (Arabic)
 
-لكمال هذا الدين واتضاح آياته لا يُحتاج إلى الإكراه عليه لمن تُقبل منهم الجزية، فالدلائل بينة يتضح بها الحق من الباطل، والهدى من الضلال. فَمَن يكفر بكل ما عُبِد من دون الله ويؤمن بالله، فقد ثبت واستقام على الطريقة المثلى، واستمسك من الدين بأقوى سبب لا انقطاع له. والله سميع لأقوال عباده، عليم بأفعالهم ونياتهم، وسيجازيهم على ذلك.
+لكمال هذا الدين واتضاح آياته لا يُحتاج إلى الإكراه عليه، فالدلائل بينة يتضح بها الحق من الباطل، والهدى من الضلال. فَمَن يكفر بكل ما عُبِد من دون الله ويؤمن بالله، فقد ثبت واستقام على الطريقة المثلى، واستمسك من الدين بأقوى سبب لا انقطاع له. والله سميع لأقوال عباده، عليم بنياتهم وأفعالهم، وسيجازيهم على ذلك.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿لا إكْراه فِي الدِّين﴾ عَلى الدُّخُول فِيهِ ﴿قَدْ تَبَيَّنَ الرُّشْد مِن الغَيّ﴾ أيْ ظَهَرَ بِالآياتِ البَيِّنات أنَّ الإيمان رُشْد والكُفْر غَيّ نَزَلَتْ فِيمَن كانَ لَهُ مِن الأَنْصار أوْلاد أرادَ أنْ يُكْرِههُمْ عَلى الإسْلام ﴿فَمَن يَكْفُر بِالطّاغُوتِ﴾ الشَّيْطان أوْ الأَصْنام وهُوَ يُطْلَق عَلى المُفْرَد والجَمْع ﴿ويُؤْمِن بِاللَّهِ فَقَدْ اسْتَمْسَكَ﴾ تَمَسَّكَ ﴿بِالعُرْوَةِ الوُثْقى﴾ بِالعَقْدِ المُحْكَم ﴿لا انْفِصام﴾ انْقِطاع ﴿لَها واللَّه سَمِيع﴾ لِما يُقال ﴿عَلِيم﴾ بِما يَفْعَل
 
 ---
 
@@ -33,23 +180,225 @@ Allah said,
 
 ### Ibn Kathir (English)
 
+Allah bears witness that none has the right to be worshipped but He, and the angels, and those having knowledge (also bear witness to this); (He always) maintains His creation in justice. None has the right to be worshipped but He, the Almighty, the All-Wise (18)Truly, the religion with Allah is Islam. Those who were given the Scripture (Jews and Christians) did not differ except out of rivalry, after knowledge had come to them. And whoever disbelieves in the Ayat of Allah, then surely, Allah is Swift in reckoning (19)So if they dispute with you say: "I have submitted myself to Allah, and (so have) those who follow me." And say to those who were given the Scripture (Jews and Christians) and to those who are illiterate (Arab pagans): "Do you (also) submit yourselves?" If they do, they are rightly guided; but if they turn away, your duty is only to convey the Message; and Allah sees the servants (20)
+
 The Testimony of Tawhid
+
 Allah bears witness, and verily, Allah is sufficient as a Witness, and He is the Most Truthful and Just Witness there is; His statement is the absolute truth,
-أَنَّهُ لاَ إِلَـهَ إِلاَّ هُوَ
+
+أَنَّهُ لَا إِلَٰهَ إِلَّا هُوَ
+
 (that La ilaha illa Huwa) meaning, He Alone is the Lord and God of all creation; everyone and everything are His servants, creation and in need of Him. Allah is the Most Rich, Free from needing anyone or anything. Allah said in another Ayah,
-لَّـكِنِ اللَّهُ يَشْهَدُ بِمَآ أَنزَلَ ...
+
+لَّٰكِنِ اللَّهُ يَشْهَدُ بِمَا أَنزَلَ إِلَيْكَ
+
+(But Allah bears witness to that which He has sent down (the Qur'an) unto you (O Muhammad ﷺ))[4:166].
+
+Allah then mentioned the testimony of His angels and those who have knowledge after he mentioned His own testimony,
+
+شَهِدَ اللَّهُ أَنَّهُ لَا إِلَٰهَ إِلَّا هُوَ وَالْمَلَائِكَةُ وَأُولُو الْعِلْمِ
+
+(Allah bears witness that none has the right to be worshipped but He), and the angels, and those having knowledge (also bear witness to this)). This Ayah emphasizes the great virtue of those who have knowledge.
+
+قَائِمًا بِالْقِسْطِ
+
+((He) maintains His creation in justice) in all that He does,
+
+لَا إِلَٰهَ إِلَّا هُوَ
+
+(None has the right to be worshipped but He) thus emphasizing this fact,
+
+الْعَزِيزُ الْحَكِيمُ
+
+(the Almighty, the All-Wise.) the Mighty that does not submit to weakness due to His might and greatness, the Wise in all His statements, actions, legislation and decrees.
+
+The Religion with Allah is Islam
+
+Allah said,
+
+إِنَّ الدِّينَ عِندَ اللَّهِ الْإِسْلَامُ
+
+(Truly, the religion with Allah is Islam.) Allah states that there is no religion accepted with Him from any person, except Islam. Islam includes obeying all of the Messengers until Muhammad ﷺ who finalized their commission, thus closing all paths to Allah except through Muhammad ﷺ. Therefore, after Allah sent Muhammad ﷺ, whoever meets Allah following a path other than Muhammad's, it will not be accepted of him. In another Ayah, Allah said,
+
+وَمَن يَبْتَغِ غَيْرَ الْإِسْلَامِ دِينًا فَلَن يُقْبَلَ مِنْهُ
+
+(And whoever seeks a religion other than Islam, it will never be accepted of him)[3:85].
+
+In this Ayah [3:19], Allah said, asserting that the only religion accepted with Him is Islam,
+
+إِنَّ الدِّينَ عِندَ اللَّهِ الْإِسْلَامُ
+
+(Truly, the religion with Allah is Islam.)
+
+Allah then states that those who were given the Scripture beforehand divided in the religion after Allah sent the Messengers and revealed the Books to them providing them the necessary proofs to not do so. Allah said,
+
+وَمَا اخْتَلَفَ الَّذِينَ أُوتُوا الْكِتَابَ إِلَّا مِن بَعْدِ مَا جَاءَهُمُ الْعِلْمُ بَغْيًا بَيْنَهُمْ
+
+(Those who were given the Scripture (Jews and Christians) did not differ except out of rivalry, after knowledge had come to them.) meaning, some of them wronged others. Therefore, they differed over the truth, out of envy, hatred and enmity for each other. This hatred made some of them defy those whom they hated even if they were correct. Allah then said,
+
+وَمَن يَكْفُرْ بِآيَاتِ اللَّهِ
+
+(And whoever disbelieves in the Ayat of Allah) meaning, whoever rejects what Allah sent down in His Book,
+
+فَإِنَّ اللَّهَ سَرِيعُ الْحِسَابِ
+
+(then surely, Allah is Swift in reckoning.) Allah will punish him for his rejection, reckon him for his denial, and torment him for defying His Book. Thereafter, Allah said.
+
+فَإِنْ حَاجُّوكَ
+
+(So if they dispute with you (Muhammad ﷺ)) so if they argue with you about Tawhid,
+
+فَقُلْ أَسْلَمْتُ وَجْهِيَ لِلَّهِ وَمَنِ اتَّبَعَنِ
+
+(Say: "I have submitted myself to Allah (in Islam), and (so have) those who follow me") meaning, Say, 'I have made my worship sincere for Allah Alone without partners, rivals, offspring or companion,
+
+وَمَنِ اتَّبَعَنِ
+
+(and those who follow me) who followed my religion and embraced my creed.' In another Ayah, Allah said,
+
+قُلْ هَٰذِهِ سَبِيلِي أَدْعُو إِلَى اللَّهِ عَلَىٰ بَصِيرَةٍ أَنَا وَمَنِ اتَّبَعَنِي
+
+(Say (O Muhammad ﷺ): "This is my way; I invite unto Allah with sure knowledge, I and whosoever follows me...")[12:108].
+
+Islam is the Religion of Mankind and the Prophet (ﷺ) Was Sent to all Mankind
+
+Allah commanded His servant and Messenger, Muhammad ﷺ, to call the People of the Two Scriptures and the unlettered idolators to his religion, way, Law and all that Allah sent him with. Allah said,
+
+وَقُل لِّلَّذِينَ أُوتُوا الْكِتَابَ وَالْأُمِّيِّينَ أَأَسْلَمْتُمْ فَإِنْ أَسْلَمُوا فَقَدِ اهْتَدَوا وَّإِن تَوَلَّوْا فَإِنَّمَا عَلَيْكَ الْبَلَاغُ
+
+(And say to those who were given the Scripture (Jews and Christians) and to those who are illiterates (Arab pagans): "Do you (also) submit yourselves?" If they do, they are rightly guided; but if they turn away, your duty is only to convey the Message.) meaning, their reckoning is with Allah and their return and final destination is to Him. It is He Who guides whom He wills and allows whom He wills to stray, and He has the perfect wisdom and the unequivocal proof for all of this. This is why Allah said,
+
+وَاللَّهُ بَصِيرٌ بِالْعِبَادِ
+
+(And Allah sees the servants.) for He has perfect knowledge of who deserves to be guided and who does not deserve to be guided. Verily,
+
+لَا يُسْأَلُ عَمَّا يَفْعَلُ وَهُمْ يُسْأَلُونَ
+
+(He cannot be questioned for what He does, while they will be questioned.)[21:23] because of His perfect wisdom and mercy. This and similar Ayat are clear proofs that the Message of Muhammad ﷺ is universal to all creation, as it is well established in the religion, according to the various texts of the Book and Sunnah. For instance, Allah said,
+
+قُلْ يَا أَيُّهَا النَّاسُ إِنِّي رَسُولُ اللَّهِ إِلَيْكُمْ جَمِيعًا
+
+(Say (O Muhammad ﷺ): "O mankind! Verily, I am sent to you all as the Messenger of Allah.")[7:158], and,
+
+تَبَارَكَ الَّذِي نَزَّلَ الْفُرْقَانَ عَلَىٰ عَبْدِهِ لِيَكُونَ لِلْعَالَمِينَ نَذِيرًا
+
+(Blessed be He Who sent down the criterion to His servant that he may be a warner to the 'Alamin (mankind and Jinn).)[25:1].
+
+The Two Sahihs and other collections of Hadith recorded that the Prophet ﷺ sent letters to the kings of the earth during his time and to different peoples, Arabs and non-Arabs, People of the Book and the unlettered, just as Allah had commanded him. 'Abdur-Razzaq recorded that Ma'mar said, that Hammam said that Abu Hurayrah said that the Prophet ﷺ said,
+
+وَالَّذِي نَفْسِي بِيَدِهِ، لَا يَسْمَعُ بِي أَحَدٌ مِنْ هَذِهِ الْأُمَّةِ: يَهُودِيٌّ وَلَا نَصْرَانِيٌّ، وَمَاتَ وَلَمْ يُؤْمِنْ بِالَّذِي أُرْسِلْتُ بِهِ، إِلَّا كَانَ مِنْ أَهْلِ النَّارِ
+
+(By He in Whose Hand is my soul! No member of this Ummah, no Jew or Christian, hears of me but dies without believing in what I was sent with, but will be among the people of the Fire.) Muslim recorded this Hadith.
+
+The Prophet ﷺ said,
+
+بُعِثْتُ إِلَى الْأَحْمَرِ وَالْأَسْوَدِ
+
+(I was sent to the red and black.) and,
+
+كَانَ النَّبِيُّ يُبْعَثُ إِلى قَوْمِهِ خَاصَّةً، وَبُعِثْتُ إِلَى النَّاسِ عَامَّةً
+
+(A Prophet used to be sent to his people, but I was sent to all mankind.)
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله :  إِنَّ الدِّينَ عِنْدَ اللَّهِ الإِسْلامُقال أبو جعفر: ومعنى " الدين "، في هذا الموضع: الطاعة والذّلة، من قول الشاعر: (28)وَيَــوْمُ الحَــزْنِ إِذْ حُشِـدَتْ مَعَـدٌّوَكَــانَ النَّــاسُ, إِلا نَحْــنُ دِينَـا (29)يعني بذلك: مطيعين على وجه الذل، ومنه قول القطامي:كانَتْ نَوَارُ تَدِينُك الأدْيانا (30)يعني: تُذلك، وقول الأعشى ميمون بن قيس:هُـوَ دَانَ الـرِّبَابَ إذْ كَـرِهُـوا الـدِّينَ دِرَاكًـا بِغَـــزْوَةٍ وَصِيَــالِ (31)يعني بقوله: " دان " ذلل = وبقوله: " كرهوا الدي...
+القول في تأويل قوله: ﴿إِنَّ الدِّينَ عِنْدَ اللَّهِ الإسْلامُ﴾
+
+قال أبو جعفر: ومعنى"الدين"، في هذا الموضع: الطاعة والذّلة، من قول الشاعر: [[لم أعرف قائله بعد.]]
+
+وَيَوْمُ الحَزْنِ إِذْ حُشِدَتْ مَعَدٌّ ... وَكَانَ النَّاسُ، إِلا نَحْنُ دِينَا [[سيأتي في التفسير ٢٦: ١١٥ (بولاق) ومعه بيت سنذكره. والشطر الثاني من البيت الأول في اللسان (دين) ، وفي غيره من كتب اللغة. وأنا في شك من صحة هذا البيت، ولم أعرف"يوم الحزن"، ما أراد به. وأظن"حشدت"، "حشرت" من"الحشر"، والبيت الذي يليه: عَصَيْنَا عَزْمَةَ الجَبَّارِ، حتَّى ... صَبَحْنَا الجُرْفَ ألفًا مُعْلِمِينَا
+
+هكذا صححته هنا من معاني القرآن للفراء، تفسير سورة (ق) مخطوطة، وهو في المطبوعة من التفسير (٢٦: ١١٥) "صحبنا الخوف أكفًا" وهو كلام لا معنى له. وقد قال الطبري بعد هذا البيت هناك"ويروى: الحوف. وقال: أراد بالجبار: المنذر، لولايته" وصوابه"الجرف" فإذا كان ذلك كذلك، فأكبر ظني أنه كما أثبته"الجرف" (بضم الجيم وسكون الراء) : وهو موضع بالحيرة كانت به منازل المنذر.
+
+وفي الطبري هناك"صحبنا" وهو خطأ. و"صبحنا"، من قولهم: "صبح القوم شرًا" أي جاءهم به، و"صبحتهم الخيل"، جاءتهم صبحًا. و"ألفًا" يعني: ألف فرس عليها فرسانها. و"المعلم": الفارس يجعل لنفسه علامة الشجعان، أو جعل على فرسه علامة، فهو فرس معلم. يريد: غزونا معقل المنذر الجبار ومنازله، وصبحناه فدمرنا عليه منازله. وفي الطبري"حرمة الجبار"، والتصحيح من معاني القرآن للفراء، كما أسلفت.]] يعني بذلك: مطيعين على وجه الذل، ومنه قول القطامي:
+
+كانَتْ نَوَارُ تَدِينُك الأدْيانا [[ديوانه: ١٥، من أبيات جياد وصف فيها صاحبته"أميمة"، وسماها"جنوب" في البيت الذي رواه الطبري، وسماها"نوار"، ويروى: "ظلوم"، فكان مما قال: رَمَتِ المَقَاتِلَ مِنْ فُؤَادِكَ، بَعْدَ ما ... كانَتْ جَنُوبُ تَدِينُكَ الأدْيانَا
+
+""أي": تفعل بك الأفاعيل. ويقال: تستعبدك، أو: أنها كانت تعذبك. أو تدينك: تجزيك". وَأَرَى الغَوَانِي إنّمَا هِيَ جِنَّةٌ ... شَبَهُ الرِّيَاحِ تَلَوَّنُ الأَلْوَانَا
+
+فَإذَا دَعَوْنَكَ عَمَّهُنّ، فَلاَ تُجِبْ ... فَهُنَاكَ لاَ يَجِدُ الصَّفَاءُ مَكَانَا
+
+نَسَبٌ يَزِيدُكَ عِنْدَهُنّ حَقَارَةً ... وعَلَى ذَوَاتِ شَبَابِهِنّ هَوَانَا
+
+وَإذَا وَعَدْنَ، فَهُنَّ أكثَرُ واعِدٍ ... خُلْفًا، وَأمْلَحُ حانِثٍ أيْمَانَا
+
+وَإذَا رَأَيْنَ مِنَ الشّبَابِ لدُونَةً، ... فَعَسَتْ حِبَالُكَ أَنْ تَكونَ مِتَانَا!
+
+وهذا شعر بارع مقدم.]]
+
+يعني: تُذلك، وقول الأعشى ميمون بن قيس:
+
+هُوَ دَانَ الرِّبَابَ إذْ كَرِهُوا الدِّ ... ينَ دِرَاكًا بِغَزْوَةٍ وَصِيَالِ [[مضى بيان هذا البيت فيما سلف ٣: ٥٧١.]]
+
+يعني بقوله:"دان" ذلل = وبقوله:"كرهوا الدين"، الطاعة.
+
+* *
+
+وكذلك"الإسلام"، وهو الانقياد بالتذلل والخشوع، والفعل منه:"أسلم" بمعنى: دخل في السلم، كما يقال:"أقحط القوم"، إذا دخلوا في القحط، "وأربعوا"، إذا دخلوا في الربيع = فكذلك"أسلموا"، إذا دخلوا في السلم، وهو الانقياد بالخضوع وترك الممانعة. [[انظر تفسير"الإسلام" و"السلم" فيما سلف ٢: ٥١٠، ٥١١ / ثم ٣: ٧٣، ٧٤، ٩٢، ٩٤، ١١٠ / ثم ٤: ٢٥١-٢٥٥.]]
+
+* *
+
+فإذْ كان ذلك كذلك، فتأويل قوله:"إنّ الدّين عند الله الإسلام": إنَّ الطاعةَ التي هي الطاعة عنده، الطاعةُ له، وإقرار الألسن والقلوب له بالعبودية والذّلة، وانقيادُها له بالطاعة فيما أمر ونهى، وتذلُّلها له بذلك، من غير استكبار عليه، ولا انحراف عنه، دون إشراك غيره من خلقه معه في العبودة والألوهة. [[في المطبوعة: "في العبودية والألوهية"، وأثبت ما في المخطوطة، وقد مضى استعماله العبودة فيما سلف ص: ٢٧١، تعليق: ١. و"الألوهة، والإلاهة، والألوهية": العبادة، وانظر ما سلف ١: ١٢٤ وما قبلها.]]
+
+* *
+
+وبنحو ما قلنا في ذلك قال جماعة من أهل التأويل.
+
+ذكر من قال ذلك:
+
+٦٧٦٣ - حدثنا بشر قال، حدثنا يزيد قال، حدثنا سعيد، عن قتادة قوله:"إنّ الدين عندَ الله الإسلام"، والإسلام: شهادة أنّ لا إله إلا الله، والإقرار بما جاء به من عند الله، [[قوله: "بما جاء به"، الضمير إلى رسول الله ﷺ، كأنه قال: "شهادة أن لا إله إلا الله وأن محمدًا رسول الله"، ولا تتم شهادة إلا به، بأبي هو وأمي. وهكذا ذكره السيوطي بنصه في الدر المنثور ٢: ١٢، ونسبه إلى عبد بن حميد أيضًا بهذا اللفظ.]] وهو دين الله الذي شرع لنفسه، وبعث به رسله، ودلّ عليه أولياءه، لا يقبل غيرَه ولا يجزى إلا به.
+
+٦٧٦٤ - حدثني المثنى قال، حدثنا إسحاق قال، حدثنا ابن أبي جعفر، عن أبيه، عن الربيع قال، حدثنا أبو العالية في قوله:"إن الدين عند الله الإسلام"، قال:"الإسلام"، الإخلاص لله وحده، وعبادته لا شريك له، وإقامُ الصّلاة، وإيتاءُ الزكاة، وسائرُ الفرائض لهذا تَبعٌ.
+
+٦٧٦٥ - حدثني يونس قال، أخبرنا ابن وهب قال، قال ابن زيد في قوله: ﴿أَسْلَمْنَا﴾ [سورة الحجرات: ١٤] ، قال: دخلنا في السِّلم، وتركنا الحرب. [[الأثر: ٦٧٦٥- سيأتي في تفسير"سورة الحجرات" (٢٦- ٩٠ بولاق) ، بغير هذا اللفظ مطولا: "وأسلمنا: استسلمنا، دخلنا في السلم، وتركنا المحاربة والقتال". وإسناده هو هو.]]
+
+٦٧٦٦ - حدثنا ابن حميد قال، حدثنا سلمة، عن ابن إسحاق، عن محمد بن جعفر بن الزبير:"إنّ الدين عند الله الإسلام"، أي: ما أنت عليه يا محمد من التوحيد للربّ، والتصديق للرسل. [[الأثر: ٦٧٦٦ - رواه ابن هشام في سيرته عن ابن إسحاق ٢: ٢٢٧، وأسقط"من" من قوله: "من التوحيد". وهو من بقية الآثار التي آخرها رقم: ٦٧٦١.]]
+
+* *
+
+القول في تأويل قوله: ﴿وَمَا اخْتَلَفَ الَّذِينَ أُوتُوا الْكِتَابَ إِلا مِنْ بَعْدِ مَا جَاءَهُمُ الْعِلْمُ بَغْيًا بَيْنَهُمْ﴾
+
+قال أبو جعفر: يعني بذلك جل ثناؤه: وما اختلف الذين أوتوا الإنجيل - وهو"الكتاب" الذي ذكره الله في هذه الآية - في أمر عيسى، وافترائهم على الله فيما قالوه فيه من الأقوال التي كثر بها اختلافهم بينهم، وتشتّتت بها كلمتهم، وباين بها بعضهم بعضًا؛ حتى استحلّ بها بعضُهم دماءَ بعض ="إلا من بعد ما جَاءهم العلم بغيًا بينهم"، يعني: إلا من بعد ما علموا الحقّ فيما اختلفوا فيه من أمره، وأيقنوا أنهم فيما يقولون فيه من عظيم الفِرْية مبطلون. [[انظر تفسير"البغي" فيما سلف ٢: ٣٤٢ / ثم تفسير مثل هذه الآية فيما سلف ٤: ٢٨١، ٢٨٢.]] فأخبر الله عباده أنهم أتوا ما أتوا من الباطل، وقالوا من القول الذي هو كفر بالله، على علم منهم بخطأ ما قالوه، وأنهم لم يقولوا ذلك جهلا منهم بخطئه، ولكنهم قالوه واختلفوا فيه الاختلافَ الذي هم عليه، تعدِّيًا من بعضهم على بعض، وطلبَ الرياسات والملك والسلطان، كما:-
+
+٦٧٦٧ - حدثني المثنى قال، حدثنا إسحاق قال، حدثنا ابن أبي جعفر، عن أبيه، عن الربيع في قوله:"وما اختلف الذين أتوا الكتاب إلا من بعد ما جاءهم العلم بغيا بينهم"، قال: قال أبو العالية، إلا من بعد ما جاءهم الكتابُ والعلم ="بغيًا بينهم"، يقول: بغيًا على الدنيا، وطلبَ ملكها وسلطانها، فقتل بعضهم بعضًا على الدنيا، من بعد ما كانوا علماءَ الناس.
+
+٦٧٦٨ - حدثني المثنى قال، حدثنا إسحاق قال، حدثنا عبد الله بن أبي جعفر، عن أبيه، عن الربيع، عن ابن عمر: أنه كان يكثر تلاوة هذه الآية:"إنّ الدين عند الله الإسلام وما اختلف الذين أتوا الكتاب إلا من بعد ما جاءهم العلم بغيًا بينهم"، يقول: بغيًا على الدنيا، وطلبَ ملكها وسلطانها. مِنْ قِبَلها والله أتِينا! ما كان علينا مَنْ يكون علينا، [[في المطبوعة: "ما كان علينا من يكون بعد أن يأخذ فينا ... " حذف"علينا" الثانية فاختلط الكلام اختلاطًا، والصواب من المخطوطة. ومعناه: ما كان يضيرنا أن يكون علينا واليًا كائنًا من كان، بعد أن يقيم فينا كتاب الله وسنة رسوله؟]] بعد أن يأخذ فينا كتابَ الله وسنة نبيه، ولكنا أتِينا من قبلها.
+
+٦٧٦٩ - حدثني المثنى قال، حدثنا إسحاق قال، حدثنا ابن أبي جعفر، عن أبيه، عن الربيع، قال: إن موسى لما حضره الموتُ دعا سبعين حَبرا من أحبار بني إسرائيل، فاستودعهم التوراة، وجعلهم أمناء عليه، كلّ حبر جُزءًا منه، [[هكذا جاء نص هذه العبارة في المخطوطة أيضًا، وفي الدر المنثور ٢: ١٣، كأنه قال: استودع كل حبر جزءًا منه. وهي عبارة فيها ما فيها.]] واستخلف موسى يوشع بن نون. فلما مضى القرن الأول ومضى الثاني ومضى الثالث، وقعت الفرقة بينهم - وهم الذين أوتوا العلم من أبناء أولئك السبعين - حتى أهَرقوا بينهم الدماء، ووقع الشرّ والاختلاف. وكان ذلك كله من قبل الذين أتوا العلم، بغيًا بينهم على الدنيا، طلبًا لسلطانها وملكها وخزائنها وزخرفها، فسلَّط الله عليهم جبابرتهم، فقال الله:"إن الدّين عند الله الإسلام" إلى قوله:"والله بصير بالعباد".
+
+* *
+
+فقولُ الربيع بن أنس هَذا، [[في المطبوعة والمخطوطة: "يقول الربيع بن أنس هذا يدل ... "، وهو فاسد جدًا. فإن هذا قول الطبري وتعليقه على خبر الربيع. والصواب ما أثبت، كما هو ظاهر.]] يدلّ على أنه كان عنده أنه معنيٌّ بقوله:"وما اختلف الذين أوتوا الكتاب"، اليهودُ من بني إسرائيل، دون النَّصارى منهم، وغيرهم. [[قوله: "دون النصارى منهم" معناه: دون النصارى من الذين أوتوا العلم. أما قوله: "وغيرهم"، أي: ودون غير النصارى من الذين أوتوا العلم، إشارة إلى ما جاء في خبر ابن عمر السالف رقم ٦٧٦٨. وكان في المطبوعة: "دون النصارى منهم ومن غيرهم"، وهي جملة لا يستقيم معناها، فحذفت"من" لذلك.]]
+
+* *
+
+وكان غيره يوجه ذلك إلى أن المعنىّ به النصارى الذين أوتوا الإنجيل.
+
+ذكر من قال ذلك:
+
+٦٧٧٠ - حدثنا ابن حميد قال حدثنا سلمة، عن ابن إسحاق، عن محمد بن جعفر بن الزبير:"وما اختلف الذين أوتوا الكتاب إلا من بعد ما جاءهم العلم"، الذي جاءك، أي أنّ اللهَ الواحدُ الذي ليس له شريك ="بغيًا بينهم"، يعني بذلك النصارى. [[الأثر: ٦٧٧٠- رواه ابن هشام في سيرته عن ابن إسحاق ٢: ٢٢٧، وهو بقية الآثار التي آخرها رقم: ٦٧٦٦، وقوله: "يعني بذلك النصارى"، ليس في ابن هشام، وكأنه من تفسير الطبري للخبر.]]
+
+* *
+
+القول في تأويل قوله: ﴿وَمَنْ يَكْفُرْ بِآيَاتِ اللَّهِ فَإِنَّ اللَّهَ سَرِيعُ الْحِسَابِ (١٩) ﴾
+
+قال أبو جعفر: يعني بذلك: ومن يجحدُ حجج الله وأعلامه التي نصَبها ذكرَى لمن عقل، وأدلةً لمن اعتبر وتذكر، فإن الله محص عليه أعماله التي كان يعملها في الدنيا، فمجازيه بها في الآخرة، فإنه جل ثناؤه"سريع الحساب"، يعني: سريع الإحصاء. وإنما معنى ذلك أنه حافظ على كل عامل عمله، لا حاجة به إلى عقد كما يعقده خلقه بأكفِّهم، أو يعونه بقلوبهم، ولكنه يحفظ ذلك عليهم، بغير كلفة ولا مؤونة، ولا معاناة لما يعانيه غيرُه من الحساب. [[انظر معنى"الكفر" و"الآيات" فيما سلف من فهارس اللغة (كفر) ، و (أبى) . وتفسير"سريع الحساب" فيما سلف ٤: ٢٠٧، وأيضًا: ٢٧٤، ٢٧٥ / ثم: هذا: ١٠١، ١٠٢.]]
+
+* *
+
+وبنحو الذي قلنا في معنى"سريع الحساب"، كان مجاهد يقول:
+
+٦٧٧١ - حدثني محمد بن عمرو قال، حدثنا أبو عاصم، عن عيسى، عن ابن أبي نجيح، عن مجاهد في قول الله عز وجل:"ومن يكفر بآيات الله فإنّ الله سريع الحساب"، قال: إحصاؤه عليهم.
+
+٦٧٧٢ - حدثني المثنى قال، حدثنا أبو حذيفة قال، حدثنا شبل، عن ابن أبي نجيح، عن مجاهد:"ومن يكفر بآيات الله فإن الله سريع الحساب"، إحصاؤه.
 
 ### al-Muyassar (Arabic)
 
-إن الدين الذي ارتضاه الله لخلقه وأرسل به رسله، ولا يَقْبَل غيره هو الإسلام، وهو الانقياد لله وحده بالطاعة والاستسلام له بالعبودية، واتباع الرسل فيما بعثهم الله به في كل حين حتى خُتموا بمحمد صلى الله عليه وسلم، الذي لا يقبل الله مِن أحد بعد بعثته دينًا سوى الإسلام الذي أُرسل به. وما وقع الخلاف بين أهل الكتاب من اليهود والنصارى، فتفرقوا شيعًا وأحزابًا إلا من بعد ما قامت الحجة عليهم بإرسال الرسل وإنزال الكتب؛ بغيًا وحسدًا طلبًا للدنيا. ومن يجحد آيات الله المنزلة وآياته الدالة على ربوبيته وألوهيت...
+إن الدين الذي ارتضاه الله لخلقه وأرسل به رسله، ولا يَقْبل غيره هو الإسلام، وهو الانقياد لله وحده بالطاعة والاستسلام له بالعبودية، واتباع الرسل فيما بعثهم الله به في كل حين حتى خُتموا بمحمد ﷺ، الذي لا يقبل الله مِن أحد بعد بعثته دينًا سوى الإسلام الذي أُرسل به. وما وقع الخلاف بين أهل الكتاب من اليهود والنصارى، فتفرقوا شيعًا وأحزابًا إلّا من بعد ما قامت الحجة عليهم بإرسال الرسل وإنزال الكتب؛ بغيًا وحسدًا طلبًا للدنيا. ومن يجحد آيات الله المنزلة وآياته الدالة على ربوبيته وأُلوهيته، فإن الله سريع الحساب، وسيجزيهم بما كانوا يعملون.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿إنّ الدِّين﴾ المَرَضِيّ ﴿عِنْد اللَّه﴾ هُوَ ﴿الإسْلام﴾ أيْ الشَّرْع المَبْعُوث بِهِ الرُّسُل المَبْنِيّ عَلى التَّوْحِيد وفِي قِراءَة بِفَتْحِ أنَّ بَدَل مِن أنَّهُ إلَخْ بَدَل اشْتِمال ﴿وما اخْتَلَفَ الَّذِينَ أُوتُوا الكِتاب﴾ اليَهُود والنَّصارى فِي الدِّين بِأَنْ وحَّدَ بَعْض وكَفَرَ بَعْض ﴿إلّا مِن بَعْد ما جاءَهُمْ العِلْم﴾ بِالتَّوْحِيدِ ﴿بَغْيًا﴾ مِن الكافِرِينَ ﴿بينهم ومن يكفر بآيات الله﴾ ﴿فَإنَّ اللَّه سَرِيع الحِساب﴾ أيْ المُجازاة لَهُ.
 
 ---
 
@@ -57,20 +406,183 @@ Allah bears witness, and verily, Allah is sufficient as a Witness, and He is the
 
 ### Ibn Kathir (English)
 
+O you who believe! Verily, the Mushrikin are impure. So let them not come near Al-Masjid Al-Haram after this year; and if you fear poverty, Allah will enrich you if He wills, out of His bounty. Surely, Allah is All-Knowing, All-Wise (28)Fight against those who believe not in Allah, nor in the Last Day, nor forbid that which has been forbidden by Allah and His Messenger, and those who acknowledge not the religion of truth among the People of the Scripture, until they pay the Jizyah with willing submission, and feel themselves subdued (29)
+
 Idolators are no longer allowed into Al-Masjid Al-Haram
-Allah commands His believing servants, who are pure in religion and person, to expel the idolators who are filthy in the religious sense, from Al-Masjid Al-Haram. After the revelation of this Ayah, idolators were no longer allowed to go near the Masjid. This Ayah was revealed in the ninth year of Hijrah. The Messenger of Allah ﷺ sent `Ali in the company of Abu Bakr that year to publicize to the idolators that no Mushrik will be allowed t...
+
+Allah commands His believing servants, who are pure in religion and person, to expel the idolators who are filthy in the religious sense, from Al-Masjid Al-Haram. After the revelation of this Ayah, idolators were no longer allowed to go near the Masjid. This Ayah was revealed in the ninth year of Hijrah. The Messenger of Allah ﷺ sent 'Ali in the company of Abu Bakr that year to publicize to the idolators that no Mushrik will be allowed to perform Hajj after that year, nor a naked person allowed to perform Tawaf around the House. Allah completed this decree, made it a legislative ruling, as well as, a fact of reality. 'Abdur-Razzaq recorded that Jabir bin 'Abdullah commented on the Ayah,
+
+إِنَّمَا الْمُشْرِكُونَ نَجَسٌ فَلَا يَقْرَبُوا الْمَسْجِدَ الْحَرَامَ بَعْدَ عَامِهِمْ هَٰذَا
+
+(O you who believe! Verily, the Mushrikin are impure. So let them not come near Al-Masjid Al-Haram after this year)
+
+"Unless it was a servant or one of the people of Dhimmah." Imam Abu 'Amr Al-Awza'i said, "Umar bin 'Abdul-'Aziz wrote (to his governors) to prevent Jews and Christians from entering the Masjids of Muslims, and he followed his order with Allah's statement,
+
+إِنَّمَا الْمُشْرِكُونَ نَجَسٌ
+
+(Verily, the Mushrikin are impure.) 'Ata' said, "All of the Sacred Area [the Haram] is considered a Masjid, for Allah said,
+
+فَلَا يَقْرَبُوا الْمَسْجِدَ الْحَرَامَ بَعْدَ عَامِهِمْ هَٰذَا
+
+(So let them not come near Al-Masjid Al-Haram (at Makkah) after this year.)"
+
+This Ayah indicates that idolators are impure and that the believers are pure. In the Sahih is the following,
+
+الْمُؤْمِنُ لَا يَنْجُسُ
+
+(The believer does not become impure.) Allah said,
+
+وَإِنْ خِفْتُمْ عَيْلَةً فَسَوْفَ يُغْنِيكُمُ اللَّهُ مِن فَضْلِهِ
+
+(and if you fear poverty, Allah will enrich you, out of His bounty.)
+
+Muhammad bin Ishaq commented, "The people said, 'Our markets will be closed, our commerce disrupted, and what we earned will vanish.' So Allah revealed this verse,
+
+وَإِنْ خِفْتُمْ عَيْلَةً فَسَوْفَ يُغْنِيكُمُ اللَّهُ مِن فَضْلِهِ
+
+(and if you fear poverty, Allah will enrich you, out of His bounty), from other resources,
+
+إِن شَاءَ
+
+(if He wills), until,
+
+وَهُمْ صَاغِرُونَ
+
+(...and feel themselves subdued.) This Ayah means, 'this will be your compensation for the closed markets that you feared would result.' Therefore, Allah compensated them for the losses they incurred because they severed ties with idolators, by the Jizyah they earned from the People of the Book." Similar statements were reported from Ibn 'Abbas, Mujahid, 'Ikrimah, Sa'id bin Jubayr, Qatadah and Ad-Dahhak and others. Allah said,
+
+إِنَّ اللَّهَ عَلِيمٌ
+
+(Surely, Allah is All-Knowing), in what benefits you,
+
+حَكِيمٌ
+
+(All-Wise), in His orders and prohibitions, for He is All-Perfect in His actions and statements, All-Just in His creations and decisions, Blessed and Hallowed be He. This is why Allah compensated Muslims for their losses by the amount of Jizyah that they took from the people of Dhimmah.
+
+The Order to fight People of the Scriptures until They give the Jizyah
+
+Allah said,
+
+قَاتِلُوا الَّذِينَ لَا يُؤْمِنُونَ بِاللَّهِ وَلَا بِالْيَوْمِ الْآخِرِ وَلَا يُحَرِّمُونَ مَا حَرَّمَ اللَّهُ وَرَسُولُهُ وَلَا يَدِينُونَ دِينَ الْحَقِّ مِنَ الَّذِينَ أُوتُوا الْكِتَابَ حَتَّىٰ يُعْطُوا الْجِزْيَةَ عَن يَدٍ وَهُمْ صَاغِرُونَ
+
+(Fight against those who believe not in Allah, nor in the Last Day, nor forbid that which has been forbidden by Allah and His Messenger, and those who acknowledge not the religion of truth among the People of the Scripture, until they pay the Jizyah with willing submission, and feel themselves subdued.)
+
+Therefore, when People of the Scriptures disbelieved in Muhammad ﷺ, they had no beneficial faith in any Messenger or what the Messengers brought. Rather, they followed their religions because this conformed with their ideas, lusts and the ways of their forefathers, not because they are Allah's Law and religion. Had they been true believers in their religions, that faith would have directed them to believe in Muhammad ﷺ, because all Prophets gave the good news of Muhammad's advent and commanded them to obey and follow him. Yet when he was sent, they disbelieved in him, even though he is the mightiest of all Messengers. Therefore, they do not follow the religion of earlier Prophets because these religions came from Allah, but because these suit their desires and lusts. Therefore, their claimed faith in an earlier Prophet will not benefit them because they disbelieved in the master, the mightiest, the last and most perfect of all Prophets ﷺ. Hence Allah's statement,
+
+قَاتِلُوا الَّذِينَ لَا يُؤْمِنُونَ بِاللَّهِ وَلَا بِالْيَوْمِ الْآخِرِ وَلَا يُحَرِّمُونَ مَا حَرَّمَ اللَّهُ وَرَسُولُهُ وَلَا يَدِينُونَ دِينَ الْحَقِّ مِنَ الَّذِينَ أُوتُوا الْكِتَابَ
+
+(Fight against those who believe not in Allah, nor in the Last Day, nor forbid that which has been forbidden by Allah and His Messenger, and those who acknowledge not the religion of truth among the People of the Scripture,)
+
+This honorable Ayah was revealed with the order to fight the People of the Book, after the pagans were defeated, the people entered Allah's religion in large numbers, and the Arabian Peninsula was secured under the Muslims' control. Allah commanded His Messenger ﷺ to fight the People of the Scriptures, Jews and Christians, on the ninth year of Hijrah, and he prepared his army to fight the Romans and called the people to Jihad announcing his intent and destination. The Messenger ﷺ sent his intent to various Arab areas around Al-Madinah to gather forces, and he collected an army of thirty thousand. Some people from Al-Madinah and some hypocrites, in and around it, lagged behind, for that year was a year of drought and intense heat. The Messenger of Allah ﷺ marched, heading towards Ash-Sham to fight the Romans until he reached Tabuk, where he set camp for about twenty days next to its water resources. He then prayed to Allah for a decision and went back to Al-Madinah because it was a hard year and the people were weak, as we will mention, Allah willing.
+
+Paying Jizyah is a Sign of Kufr and Disgrace
+
+Allah said,
+
+حَتَّىٰ يُعْطُوا الْجِزْيَةَ
+
+(until they pay the Jizyah), if they do not choose to embrace Islam,
+
+عَن يَدٍ
+
+(with willing submission), in defeat and subservience,
+
+وَهُمْ صَاغِرُونَ
+
+(and feel themselves subdued.), disgraced, humiliated and belittled. Therefore, Muslims are not allowed to honor the people of Dhimmah or elevate them above Muslims, for they are miserable, disgraced and humiliated. Muslim recorded from Abu Hurayrah that the Prophet ﷺ said,
+
+لَا تَبْدَءُوا الْيَهُودَ وَالنَّصَارَى بِالسَّلَامِ، وَإِذَا لَقِيتُمْ أَحَدَهُمْ فِي طَرِيقٍ فَاضْطَرُّوهُ إِلَى أَضْيَقِهِ
+
+(Do not initiate the Salam to the Jews and Christians, and if you meet any of them in a road, force them to its narrowest alley.)
+
+This is why the Leader of the faithful 'Umar bin Al-Khattab, may Allah be pleased with him, demanded his well-known conditions be met by the Christians, these conditions that ensured their continued humiliation, degradation and disgrace. The scholars of Hadith narrated from 'Abdur-Rahman bin Ghanm Al-Ash'ari that he said, "I recorded for 'Umar bin Al-Khattab, may Allah be pleased with him, the terms of the treaty of peace he conducted with the Christians of Ash-Sham: 'In the Name of Allah, Most Gracious, Most Merciful. This is a document to the servant of Allah 'Umar, the Leader of the faithful, from the Christians of such and such city. When you (Muslims) came to us we requested safety for ourselves, children, property and followers of our religion. We made a condition on ourselves that we will neither erect in our areas a monastery, church, or a sanctuary for a monk, nor restore any place of worship that needs restoration nor use any of them for the purpose of enmity against Muslims. We will not prevent any Muslim from resting in our churches whether they come by day or night, and we will open the doors [of our houses of worship] for the wayfarer and passerby. Those Muslims who come as guests, will enjoy boarding and food for three days. We will not allow a spy against Muslims into our churches and homes or hide deceit (or betrayal) against Muslims. We will not teach our children the Qur'an, publicize practices of Shirk, invite anyone to Shirk or prevent any of our fellows from embracing Islam, if they choose to do so. We will respect Muslims, move from the places we sit in if they choose to sit in them. We will not imitate their clothing, caps, turbans, sandals, hairstyles, speech, nicknames and title names, or ride on saddles, hang swords on the shoulders, collect weapons of any kind or carry these weapons. We will not encrypt our stamps in Arabic, or sell liquor. We will have the front of our hair cut, wear our customary clothes wherever we are, wear belts around our waist, refrain from erecting crosses on the outside of our churches and demonstrating them and our books in public in Muslim fairways and markets. We will not sound the bells in our churches, except discretely, or raise our voices while reciting our holy books inside our churches in the presence of Muslims, nor raise our voices [with prayer] at our funerals, or light torches in funeral processions in the fairways of Muslims, or their markets. We will not bury our dead next to Muslim dead, or buy servants who were captured by Muslims. We will be guides for Muslims and refrain from breaching their privacy in their homes.' When I gave this document to 'Umar, he added to it, 'We will not beat any Muslim. These are the conditions that we set against ourselves and followers of our religion in return for safety and protection. If we break any of these promises that we set for your benefit against ourselves, then our Dhimmah (promise of protection) is broken and you are allowed to do with us what you are allowed of people of defiance and rebellion.'"
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله :  قَاتِلُوا الَّذِينَ لا يُؤْمِنُونَ بِاللَّهِ وَلا بِالْيَوْمِ الآخِرِ وَلا يُحَرِّمُونَ مَا حَرَّمَ اللَّهُ وَرَسُولُهُ وَلا يَدِينُونَ دِينَ الْحَقِّ مِنَ الَّذِينَ أُوتُوا الْكِتَابَ حَتَّى يُعْطُوا الْجِزْيَةَ عَنْ يَدٍ وَهُمْ صَاغِرُونَ (29)قال أبو جعفر: يقول تعالى ذكره للمؤمنين به من أصحاب رسوله صلى الله عليه وسلم: (قاتلوا)، أيها المؤمنون، القومَ =(الذين لا يؤمنون بالله ولا باليوم الآخر)، يقول: ولا يصدّقون بجنة ولا نار (13) =(ولا يحرمون ما حرم الله ورسوله ولا يدينو...
+القول في تأويل قوله: ﴿قَاتِلُوا الَّذِينَ لا يُؤْمِنُونَ بِاللَّهِ وَلا بِالْيَوْمِ الآخِرِ وَلا يُحَرِّمُونَ مَا حَرَّمَ اللَّهُ وَرَسُولُهُ وَلا يَدِينُونَ دِينَ الْحَقِّ مِنَ الَّذِينَ أُوتُوا الْكِتَابَ حَتَّى يُعْطُوا الْجِزْيَةَ عَنْ يَدٍ وَهُمْ صَاغِرُونَ (٢٩) ﴾
+
+قال أبو جعفر: يقول تعالى ذكره للمؤمنين به من أصحاب رسوله ﷺ: ﴿قاتلوا﴾ ، أيها المؤمنون، القومَ = ﴿الذين لا يؤمنون بالله ولا باليوم الآخر﴾ ، يقول: ولا يصدّقون بجنة ولا نار [[انظر تفسير " اليوم الآخر " فيما سلف من فهارس اللغة (أخر) .]] = ﴿ولا يحرمون ما حرم الله ورسوله ولا يدينون دين الحق﴾ ، يقول: ولا يطيعون الله طاعة الحقِّ، يعني: أنهم لا يطيعون طاعةَ أهل الإسلام [[انظر تفسير " الدين " فيما سلف ١: ١٥٥ /٣: ٥٧١ / ٩: ٥٢٢.]] = ﴿من الذين أوتوا الكتاب﴾ ، وهم اليهود والنصارَى.
+
+* *
+
+وكل مطيع ملكًا وذا سلطانٍ، فهو دائنٌ له. يقال منه: دان فلان لفلان فهو يدين له، دينًا"، قال زهير:
+
+لَئِنَ حَلَلْتَ بِجَوٍّ فِي بَنِي أَسَدٍ ... فِي دِينِ عَمْرٍو وَحَالَتْ بَيْنَنا فَدَكُ [[ديوانه: ١٨٣، ومجاز القرآن لأبي عبيدة ١: ٢٨٦، من قصيدة من جيد الكلام، أنذر بها الحارث بن ورقاء الصيداوي، من بني أسد، وكان أغار على بني عبد الله بن غطفان، فغنم، واستاق إبل زهير، وراعيه يسارا: يا حَارِ، لا أُرْمَيَنْ مِنْكُمْ بِدَاهِيَةٍ ... لَمْ يَلْقَهَا سُوقَةٌ قَبْلِي ولا مَلِكُ
+
+فَارْدُدْ يَسَارًا، وَلا تَعْنُفْ عَلَيَّ وَلا ... تَمْعَكْ بِعِرْضِكَ إِن الغَادِرَ المَعِكَ
+
+وَلا تَكُونَنْ كَأَقْوَامٍ عَلِمْتَهُمُ ... يَلْوُونَ مَا عَنْدَهُمْ حَتَّى إذَا نَهِكُوا
+
+طَابْتْ نُفُوسُهُمُ عَنْ حَقِّ خَصْمِهِمْ ... مَخَافَهُ الشَّرِّ، فَارْتَدُّوا لِمَا تَرَكُوا
+
+تَعَلَّمَنْ: هَا، لَعَمْرُ اللهِ ذَا ؛ قَسَمًا ... فَاقْصِدْ بِذَرْعِكَ، وانْظُرْ أَيْنَ تَنْسَلِكَ
+
+لَئِنْ حَلَلْتَ. . . . . .. . . . . . ... . . . . . . . . . . . . . . . . . . .
+
+لَيَأتِيَنَّكَ مِنِّي مَنْطِقٌ قَذَعٌ ... بَاقٍ، كَمَا دَنَّسَ القُبْطِيَّةَ الوَدَكُ
+
+و" جو " اسم لمواضع كثيرة في الجزيرة، وهذا " الجو " هنا في ديار بني أسد. و " عمرو "، هو: " عمرو بن هند بن المنذر بن ماء السماء "، و " فدك " قرية مشهورة بالحجاز، لها ذكر في السير كثير.]] وقوله: ﴿من الذين أوتوا الكتاب﴾ ، يعني: الذين أعطوا كتاب الله، [[انظر تفسير " الإيتاء " فيما سلف من فهارس اللغة (أتى) .]] وهم أهل التوراة والإنجيل = ﴿حتى يعطوا الجزية﴾ .
+
+* *
+
+و"الجزية": الفِعْلة من: "جزى فلان فلانًا ما عليه"، إذا قضاه، "يجزيه"، و"الجِزْية" مثل "القِعْدة" و"الجِلْسة".
+
+* *
+
+ومعنى الكلام: حتى يعطوا الخراجَ عن رقابهم، الذي يبذلونه للمسلمين دَفْعًا عنها.
+
+* *
+
+وأما قوله: ﴿عن يد﴾ ، فإنه يعني: من يده إلى يد من يدفعه إليه.
+
+* *
+
+وكذلك تقول العرب لكل معطٍ قاهرًا له، شيئًا طائعًا له أو كارهًا: "أعطاه عن يده، وعن يد". وذلك نظير قولهم: "كلمته فمًا لفمٍ"، و"لقيته كَفَّةً لكَفَّةٍ، [[يقال: " لقيته كفة كفة " (بفتح الكاف، ونصب التاء) ، إذا استقبلته مواجهته، كأن كل واحد منهما قد كف صاحبه عن مجاوزته إلى غيره ومنعه. وانظر تفصيل ذلك في مادته في لسان العرب (كفف) .]] وكذلك: "أعطيته عن يدٍ ليد".
+
+* *
+
+وأما قوله: ﴿وهم صاغرون﴾ ، فإن معناه: وهم أذلاء مقهورون.
+
+* *
+
+يقال للذليل الحقير: "صاغر". [[انظر تفسير " الصغار " فيما سلف ١٣: ٢٢، تعليق: ٢، والمراجع هناك.]]
+
+* *
+
+وذكر أن هذه الآية نزلت على رسول الله ﷺ في أمره بحرب الروم، فغزا رسول الله ﷺ بعد نزولها غزوة تبوك.
+
+ذكر من قال ذلك:
+
+١٦٦١٦- حدثني محمد بن عروة قال، حدثنا أبو عاصم قال، حدثنا عيسى، عن ابن أبي نجيح، عن مجاهد: ﴿قاتلوا الذين لا يؤمنون بالله واليوم الآخر ولا يحرّمون ما حرّم الله ورسوله ولا يدينون دين الحق من الذين أوتوا الكتاب حتى يعطوا الجزية عن يد وهم صاغرون﴾ ، حين أمر محمدٌ وأصحابه بغزوة تبوك.
+
+١٦٦١٧- حدثنا القاسم قال، حدثنا الحسين قال، حدثني حجاج، عن ابن جريج، عن مجاهد، نحوه.
+
+* *
+
+واختلف أهل التأويل في معنى "الصغار"، الذي عناه الله في هذا الموضع.
+
+فقال بعضهم: أن يعطيها وهو قائمٌ، والآخذ جالسٌ.
+
+ذكر من قال ذلك:
+
+١٦٦١٨- حدثني عبد الرحمن بن بشر النيسابوري قال، حدثنا سفيان، عن أبي سعد، عن عكرمة: ﴿حتى يعطوا الجزية عن يد وهم صاغرون﴾ ، قال: أي تأخذها وأنت جالس، وهو قائم. [[الأثر: ١٦٦١٨ - " عبد الرحمن بن بشر بن الحكم النيسابوري "، شيخ الطبري، ثقة، من شيوخ البخاري، مضى برقم: ١٣٨٠٥.
+
+وفي المطبوعة: " عن ابن سعد "، وهو خطأ، خالف ما في المخطوطة وانظر " أبا سعد " في فهرس الرجال.]]
+
+* *
+
+وقال آخرون: معنى قوله: ﴿حتى يعطوا الجزية عن يد وهم صاغرون﴾ ، عن أنفسهم، بأيديهم يمشون بها، وهم كارهون، وذلك قولٌ رُوي عن ابن عباس، من وجهٍ فيه نظر.
+
+* *
+
+وقال آخرون: إعطاؤهم إياها، هو الصغار.
 
 ### al-Muyassar (Arabic)
 
-أيها المسلمون قاتلوا الكفار الذين لا يؤمنون بالله، ولا يؤمنون بالبعث والجزاء، ولا يجتنبون ما نهى الله عنه ورسوله، ولا يلتزمون أحكام شريعة الإسلام من اليهود والنصارى، حتى يدفعوا الجزية التي تفرضونها عليهم بأيديهم خاضعين أذلاء.
+أيها المسلمون: قاتلوا الكفار الذين لا يؤمنون بالله، ولا يؤمنون بالبعث والجزاء، ولا يجتنبون ما نهى الله عنه ورسوله، ولا يلتزمون أحكام شريعة الإسلام، من اليهود والنصارى، حتى يدفعوا الجزية التي تفرضونها عليهم بأيديهم خاضعين أذلاء.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿قاتِلُوا الَّذِينَ لا يُؤْمِنُونَ بِاللَّهِ ولا بِاليَوْمِ الآخِر﴾ وإلّا لَآمَنُوا بِالنَّبِيِّ ﷺ ﴿ولا يُحَرِّمُونَ ما حَرَّمَ اللَّه ورَسُوله﴾ كالخَمْرِ ﴿ولا يَدِينُونَ دِين الحَقّ﴾ الثّابِت النّاسِخ لِغَيْرِهِ مِن الأَدْيان وهُوَ دِين الإسْلام ﴿مِن﴾ بَيان لِلَّذِينَ ﴿الَّذِينَ أُوتُوا الكِتاب﴾ أيْ اليَهُود والنَّصارى ﴿حَتّى يُعْطُوا الجِزْيَة﴾ الخَراج المَضْرُوب عَلَيْهِمْ كُلّ عام ﴿عَنْ يَد﴾ حال أيْ مُنْقادِينَ أوْ بِأَيْدِيهِمْ لا يُوَكَّلُونَ بِها ﴿وهُمْ صاغِرُونَ﴾ أذِلّاء مُنْقادُونَ لِحُكْمِ الإسْلام
 
 ---
 
@@ -78,20 +590,241 @@ Allah commands His believing servants, who are pure in religion and person, to e
 
 ### Ibn Kathir (English)
 
+Permission (to fight) is given to those (believers) who are fought against, because they have been wronged; and surely, Allah is able to give them victory (39)Those who have been expelled from their homes unjustly only because they said: "Our Lord is Allah." For had it not been that Allah checks one set of people by means of another, Sawami', Biya', Salawat, and Masjids, wherein the Name of Allah is mentioned much, would surely have been pulled down. Verily, Allah will help those who help His (cause). Truly, Allah is All-Strong, All-Mighty (40)
+
 Permission to fight; this is the first Ayah of Jihad
-Al-`Awfi reported that Ibn `Abbas said, "This was revealed about Muhammad ﷺ and his Companions, when they were expelled from Makkah." Mujahid, Ad-Dahhak and others among the Salaf, such as Ibn `Abbas, `Urwah bin Az-Zubayr, Zayd bin Aslam, Muqatil bin Hayan, Qatadah and others said, "This is the first Ayah which was revealed about Jihad." Ibn Jarir recorded that Ibn `Abbas said, "When the Prophet was driven out of Makkah, Abu Bakr said, `The...
+
+Al-'Awfi reported that Ibn 'Abbas said, "This was revealed about Muhammad ﷺ and his Companions, when they were expelled from Makkah." Mujahid, Ad-Dahhak and others among the Salaf, such as Ibn 'Abbas, 'Urwah bin Az-Zubayr, Zayd bin Aslam, Muqatil bin Hayan, Qatadah and others said, "This is the first Ayah which was revealed about Jihad." Ibn Jarir recorded that Ibn 'Abbas said, "When the Prophet ﷺ was driven out of Makkah, Abu Bakr said, 'They have their Prophet. Truly, to Allah we belong and truly, to Him we shall return; surely they are doomed.'" Ibn 'Abbas said, "Then Allah revealed the words:
+
+أُذِنَ لِلَّذِينَ يُقَاتَلُونَ بِأَنَّهُمْ ظُلِمُوا ۚ وَإِنَّ اللَّهَ عَلَىٰ نَصْرِهِمْ لَقَدِيرٌ
+
+(Permission (to fight) is given to those (believers) fought against, because they have been wronged; and surely, Allah is able to give them victory.)"
+
+Abu Bakr, may Allah be pleased with him, said, "Then I knew that there would be fighting." Imam Ahmad added: "Ibn 'Abbas said, 'This was the first Ayah to be revealed concerning fighting.'" This was also recorded by At-Tirmidhi and An-Nasa'i in the Book of Tafsir of their Sunans. At-Tirmidhi said: "It is a Hasan Hadith."
+
+وَإِنَّ اللَّهَ عَلَىٰ نَصْرِهِمْ لَقَدِيرٌ
+
+(and surely, Allah is able to give them victory.) means, He is able to grant victory to His believing servants without any fighting taking place, but He wants His servants to strive their utmost in obeying Him, as He says:
+
+فَإِذَا لَقِيتُمُ الَّذِينَ كَفَرُوا فَضَرْبَ الرِّقَابِ حَتَّىٰ إِذَا أَثْخَنتُمُوهُمْ فَشُدُّوا الْوَثَاقَ فَإِمَّا مَنًّا بَعْدُ وَإِمَّا فِدَاءً حَتَّىٰ تَضَعَ الْحَرْبُ أَوْزَارَهَا ۚ ذَٰلِكَ وَلَوْ يَشَاءُ اللَّهُ لَانتَصَرَ مِنْهُمْ وَلَٰكِن لِّيَبْلُوَ بَعْضَكُم بِبَعْضٍ ۗ وَالَّذِينَ قُتِلُوا فِي سَبِيلِ اللَّهِ فَلَن يُضِلَّ أَعْمَالَهُمْ - سَيَهْدِيهِمْ وَيُصْلِحُ بَالَهُمْ - وَيُدْخِلُهُمُ الْجَنَّةَ عَرَّفَهَا لَهُمْ
+
+(So, when you meet those who disbelieve, strike necks till when you have killed and wounded many of them, then bind a bond firmly. Thereafter either for generosity, or ransom, until war lays down its burden. Thus, but if it had been Allah's will, He Himself could certainly have punished them. But (He lets you fight) in order to test some of you with others. But those who are killed in the way of Allah, He will never let their deeds be lost. He will guide them and set right their state. And admit them to Paradise which He has made known to them.)(47:4-6)
+
+قَاتِلُوهُمْ يُعَذِّبْهُمُ اللَّهُ بِأَيْدِيكُمْ وَيُخْزِهِمْ وَيَنصُرْكُمْ عَلَيْهِمْ وَيَشْفِ صُدُورَ قَوْمٍ مُّؤْمِنِينَ - وَيُذْهِبْ غَيْظَ قُلُوبِهِمْ ۗ وَيَتُوبُ اللَّهُ عَلَىٰ مَن يَشَاءُ ۗ وَاللَّهُ عَلِيمٌ حَكِيمٌ
+
+(Fight against them so that Allah will punish them by your hands, and disgrace them, and give you victory over them, and heal the breasts of a believing people, and remove the anger of their (believers') hearts. Allah accepts the repentance of whom He wills. Allah is All-Knowing, All-Wise.)(9:14-15)
+
+وَلَنَبْلُوَنَّكُمْ حَتَّىٰ نَعْلَمَ الْمُجَاهِدِينَ مِنكُمْ وَالصَّابِرِينَ وَنَبْلُوَ أَخْبَارَكُمْ
+
+(And surely, We shall try you till We test those who strive hard and the patient, and We shall test your facts.)(47:31). And there are many similar Ayat. Ibn 'Abbas commented on the Ayah,
+
+وَإِنَّ اللَّهَ عَلَىٰ نَصْرِهِمْ لَقَدِيرٌ
+
+(and surely, Allah is able to give them (believers) victory.)
+
+And this is what He did. Allah prescribed Jihad at an appropriate time, because when they were in Makkah, the idolators outnumbered them by more than ten to one. Were they to engage in fighting at that time, the results would have been disastrous.
+
+When the idolators went to extremes to persecute Muslims, to expel the Prophet ﷺ and resolving to kill him; when they sent his Companions into exile here and there, so that some went to Ethiopia and others went to Al-Madinah; when they settled in Al-Madinah and the Messenger of Allah ﷺ joined them there, and they gathered around him and lent him their support, and they had a place where Islam prevailed, and a stronghold to which they could retreat; then Allah prescribed Jihad against the enemy, and this was the first Ayah to be revealed for it. Allah said:
+
+أُذِنَ لِلَّذِينَ يُقَاتَلُونَ بِأَنَّهُمْ ظُلِمُوا ۚ وَإِنَّ اللَّهَ عَلَىٰ نَصْرِهِمْ لَقَدِيرٌ - الَّذِينَ أُخْرِجُوا مِن دِيَارِهِم بِغَيْرِ حَقٍّ
+
+(Permission (to fight) is given to those fought against, because they have been wronged; and surely, Allah is able to give them victory. Those who have been expelled from their homes unjustly) Al-'Awfi reported that Ibn 'Abbas said; "They were driven out of Makkah to Al-Madinah unjustly, i.e., Muhammad ﷺ and his Companions."
+
+إِلَّا أَن يَقُولُوا رَبُّنَا اللَّهُ
+
+(only because they said: "Our Lord is Allah.") means, they had not done anything to their people or committed any wrongs against them, apart from the fact that they believed in the Oneness of Allah and they worshipped Him Alone, with no partner or associate. But for the idolators, this was the worst of sins, as Allah says:
+
+يُخْرِجُونَ الرَّسُولَ وَإِيَّاكُمْ ۙ أَن تُؤْمِنُوا بِاللَّهِ رَبِّكُمْ
+
+(and have driven out the Messenger and yourselves because you believe in Allah, your Lord!)(60:1). Then Allah says:
+
+وَلَوْلَا دَفْعُ اللَّهِ النَّاسَ بَعْضَهُم بِبَعْضٍ
+
+(For had it not been that Allah checks one set of people by means of another,) meaning, were it not for the fact that He repels one people by means of another, and restrains the evil of people towards others by means of whatever circumstances He creates and decrees, the earth would have been corrupted and the strong would have destroyed the weak.
+
+لَّهُدِّمَتْ صَوَامِعُ
+
+(Sawami' surely have been pulled down) means the small temples used by monks. This was the view of Ibn 'Abbas, Mujahid, Abu Al-'Aliyah, 'Ikrimah, Ad-Dahhak and others. Qatadah said, "This refers to the places of worship of the Sabians;" according to another report, he said, "The Sawami' of the Zoroastrians." Muqatil bin Hayyan said, "These are houses along the roads."
+
+وَبِيَعٌ
+
+(Biya'.) These are larger than the Sawami' and accommodate more worshippers; the Christians also have these. This was the view of Abu Al-'Aliyah, Qatadah, Ad-Dahhak, Ibn Sakhr, Muqatil bin Hayyan, Khusayf and others. Ibn Jubayr reported from Mujahid and others that this referred to the synagogues of the Jews which are known to them as Salut. And Allah knows best.
+
+وَصَلَوَاتٌ
+
+(Salawat) Al-'Awfi reported that Ibn 'Abbas said, "Salawat means churches." 'Ikrimah, Ad-Dahhak and Qatadah said that it referred to the synagogues of the Jews. Abu Al-'Aliyah and others said, "Salawat refers to the places of worship of the Sabians." Ibn Abi Najih reported that Mujahid said, "Salawat refers to places of worship of the People of the Book and of the people of Islam along the roads." Masjids belong to the Muslims.
+
+يُذْكَرُ فِيهَا اسْمُ اللَّهِ كَثِيرًا
+
+(wherein the Name of Allah is mentioned much,) It was said that the pronoun refers to Masjids, because this is the closest of the words mentioned. Ad-Dahhak said, "In all of them the Name of Allah is often mentioned." Ibn Jarir said, "The correct view is that the monasteries of the monks, the churches of the Christians, the synagogues of the Jews and the Masjids of the Muslims, in which the Name of Allah is mentioned much, would have been destroyed – because this is the usual usage in Arabic." Some of the scholars said, "This is a sequence listing the smallest to the greatest, because the Masjids are more frequented by more worshippers who have the correct intention and way."
+
+وَلَيَنصُرَنَّ اللَّهُ مَن يَنصُرُهُ
+
+(Verily, Allah will help those who help His (cause).) This is like the Ayah:
+
+يَا أَيُّهَا الَّذِينَ آمَنُوا إِن تَنصُرُوا اللَّهَ يَنصُرْكُمْ وَيُثَبِّتْ أَقْدَامَكُمْ - وَالَّذِينَ كَفَرُوا فَتَعْسًا لَّهُمْ وَأَضَلَّ أَعْمَالَهُمْ
+
+(O you who believe! If you help (in the cause of) Allah, He will help you, and make your foothold firm. But those who disbelieve, for them is destruction, and (Allah) will make their deeds vain.)(47:7-8)
+
+إِنَّ اللَّهَ لَقَوِيٌّ عَزِيزٌ
+
+(Truly, Allah is All-Strong, All-Mighty.) Allah describes Himself as being All-Strong and All-Mighty. By His strength He created everything and measured it exactly according to its due measurements; by His might nothing can overpower Him or overwhelm Him, rather everything is humbled before Him and is in need of Him. Whoever is supported by the All-Strong, the All-Mighty, is indeed supported and helped, and his enemy will be overpowered. Allah says:
+
+وَلَقَدْ سَبَقَتْ كَلِمَتُنَا لِعِبَادِنَا الْمُرْسَلِينَ - إِنَّهُمْ لَهُمُ الْمَنصُورُونَ - وَإِنَّ جُندَنَا لَهُمُ الْغَالِبُونَ
+
+(And, verily, Our Word has gone forth of old for Our servants, the Messengers, that they verily, would be made triumphant, and that Our soldiers! They verily, would be the victors.)(37:171-173)
+
+كَتَبَ اللَّهُ لَأَغْلِبَنَّ أَنَا وَرُسُلِي ۚ إِنَّ اللَّهَ قَوِيٌّ عَزِيزٌ
+
+(Allah has decreed: "Verily, it is I and My Messengers who shall be the victorious." Verily, Allah is All-Powerful, All-Mighty.)[58:21]
 
 ### al-Tabari (Arabic)
 
-يقول تعالى ذكره: أذن للذين يقاتلون ( الَّذِينَ أُخْرِجُوا مِنْ دِيَارِهِمْ بِغَيْرِ حَقٍّ ) فالذين الثانية ردّ على الذين الأولى. وعنى بالمخرجين من دورهم: المؤمنين الذين أخرجهم كفار قريش من مكة. وكان إخراجهم إياهم من دورهم وتعذيبهم بعضهم على الإيمان بالله ورسوله, وسبهم بعضهم بألسنتهم ووعيدهم إياهم, حتى اضطرّوهم إلى الخروج عنهم. وكان فعلهم ذلك بهم بغير حقّ، لأنهم كانوا على باطل والمؤمنون على الحقّ, فلذلك قال جل ثناؤه: ( الَّذِينَ أُخْرِجُوا مِنْ دِيَارِهِمْ بِغَيْرِ حَقٍّ ).وقوله: ( إِلا أَنْ ي...
+القول في تأويل قوله تعالى: ﴿الَّذِينَ أُخْرِجُوا مِنْ دِيَارِهِمْ بِغَيْرِ حَقٍّ إِلا أَنْ يَقُولُوا رَبُّنَا اللَّهُ وَلَوْلا دَفْعُ اللَّهِ النَّاسَ بَعْضَهُمْ بِبَعْضٍ لَهُدِّمَتْ صَوَامِعُ وَبِيَعٌ وَصَلَوَاتٌ وَمَسَاجِدُ يُذْكَرُ فِيهَا اسْمُ اللَّهِ كَثِيرًا وَلَيَنْصُرَنَّ اللَّهُ مَنْ يَنْصُرُهُ إِنَّ اللَّهَ لَقَوِيٌّ عَزِيزٌ (٤٠) ﴾
+
+يقول تعالى ذكره: أذن للذين يقاتلون ﴿الَّذِينَ أُخْرِجُوا مِنْ دِيَارِهِمْ بِغَيْرِ حَقٍّ﴾ فالذين الثانية ردّ على الذين الأولى. وعنى بالمخرجين من دورهم: المؤمنين الذين أخرجهم كفار قريش من مكة. وكان إخراجهم إياهم من دورهم وتعذيبهم بعضهم على الإيمان بالله ورسوله، وسبهم بعضهم بألسنتهم ووعيدهم إياهم، حتى اضطرّوهم إلى الخروج عنهم. وكان فعلهم ذلك بهم بغير حقّ، لأنهم كانوا على باطل والمؤمنون على الحقّ، فلذلك قال جل ثناؤه: (الَّذِينَ أُخْرِجُوا مِنْ دِيَارِهِمْ بِغَيْرِ حَقٍّ) .
+
+* *
+
+وقوله: ﴿إِلا أَنْ يَقُولُوا رَبُّنَا اللَّهُ﴾
+
+يقول تعالى ذكره: لم يخرجوا من ديارهم إلا بقولهم: ربنا الله وحده لا شريك له! فأن في موضع خفض ردّا على الباء في قوله: ﴿بِغَيْرِ حَقٍّ﴾ ، وقد يجوز أن تكون في موضع نصب على وجه الاستثناء.
+
+* *
+
+وقوله: ﴿وَلَوْلا دَفْعُ اللَّهِ النَّاسَ بَعْضَهُمْ بِبَعْضٍ﴾
+
+اختلف أهل التأويل في معنى ذلك، فقال بعضهم: معنى ذلك: ولولا دفع الله المشركين بالمسلمين.
+
+ذكر من قال ذلك: حدثنا القاسم، قال: ثنا الحسين، قال: ثني حجاج، عن ابن جريج، قوله: ﴿وَلَوْلا دَفْعُ اللَّهِ النَّاسَ بَعْضَهُمْ بِبَعْضٍ﴾ دفع المشركين بالمسلمين.
+
+وقال آخرون: معنى ذلك: ولولا القتال والجهاد في سبيل الله.
+
+ذكر من قال ذلك: حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله: ﴿وَلَوْلا دَفْعُ اللَّهِ النَّاسَ بَعْضَهُمْ بِبَعْضٍ﴾ قال لولا القتال والجهاد.
+
+وقال آخرون: بل معنى ذلك: ولولا دفع الله بأصحاب رسول الله ﷺ عمن بعدهم من التابعين.
+
+ذكر من قال ذلك: حدثنا إبراهيم بن سعيد، قال: ثنا يعقوب بن إبراهيم، عن سيف بن عمرو، عن أبي روق، عن ثابت بن عوسجة الحضرميّ، قال: حدثني سبعة وعشرون من أصحاب عليّ وعبد الله منهم لاحق بن الأقمر، والعيزار بن جرول، وعطية القرظي، أن عليا رضي الله عنه قال: إنما أنزلت هذه الآية في أصحاب رسول الله ﷺ: ﴿وَلَوْلا دَفْعُ اللَّهِ النَّاسَ بَعْضَهُمْ بِبَعْضٍ﴾ لولا دفاع الله بأصحاب محمد عن التابعين ﴿لَهُدِّمَتْ صَوَامِعُ وَبِيَعٌ﴾ .
+
+وقال آخرون: بل معنى ذلك: لولا أن الله يدفع بمن أوجب قبول شهادته في الحقوق تكون لبعض الناس على بعض عمن لا يجوز شهادته وغيره، فأحيا بذلك مال هذا ويوقي بسبب هذا إراقة دم هذا، وتركوا المظالم من أجله، لتظالم الناس فهدمت صوامع.
+
+ذكر من قال ذلك: حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى؛ وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء جميعا، عن ابن أبي نجيح، عن مجاهد: ﴿وَلَوْلا دَفْعُ اللَّهِ النَّاسَ بَعْضَهُمْ بِبَعْضٍ﴾ يقول: دفع بعضهم بعضا في الشهادة، وفي الحقّ، وفيما يكون من قبل هذا. يقول: لولاهم لأهلكت هذه الصوامع وما ذكر معها.
+
+وأولى الأقوال في ذلك بالصواب أن يقال: إن الله تعالى ذكره أخبر أنه لولا دفاعه الناس بعضهم ببعض، لهُدم ما ذكر، من دفعه تعالى ذكره بعضهم ببعض، وكفِّه المشركين بالمسلمين عن ذلك؛ ومنه كفه ببعضهم التظالم، كالسلطان الذي كفّ به رعيته عن التظالم بينهم؛ ومنه كفُّه لمن أجاز شهادته بينهم ببعضهم عن الذهاب بحق من له قبله حق، ونحو ذلك. وكلّ ذلك دفع منه الناس بعضهم عن بعض، لولا ذلك لتظالموا، فهدم القاهرون صوامع المقهورين وبيَعهم وما سمّى جل ثناؤه. ولم يضع الله تعالى دلالة في عقل على أنه عنى من ذلك بعضا دون بعض، ولا جاء بأن ذلك كذلك خبر يجب التسليم له، فذلك على الظاهر والعموم على ما قد بيَّنته قبل لعموم ظاهر ذلك جميع ما ذكرنا.
+
+* *
+
+وقوله: ﴿لَهُدِّمَتْ صَوَامِعُ﴾
+
+اختلف أهل التأويل في المعنيّ بالصوامع، فقال بعضهم: عني بها صوامع الرهبان.
+
+ذكر من قال ذلك: حدثنا محمد بن المثنى، قال: ثنا عبد الوهاب، قال: ثنا داود، عن رفيع في هذه الآية: ﴿لَهُدِّمَتْ صَوَامِعُ﴾ قال: صوامع الرهبان.
+
+⁕ حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى؛ وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء جميعا، عن ابن أبي نجيح، عن مجاهد، قوله: ﴿لَهُدِّمَتْ صَوَامِعُ﴾ قال: صوامع الرهبان.
+
+- حدثنا القاسم، قال: ثنا الحسين، قال: ثني حجاج، عن ابن جُرَيج، عن مجاهد: ﴿لَهُدِّمَتْ صَوَامِعُ﴾ قال: صوامع الرهبان.
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله: ﴿لَهُدِّمَتْ صَوَامِعُ﴾ قال: صوامع الرهبان.
+
+⁕ حُدثت عن الحسين، قال: سمعت أبا معاذ، يقول: أخبرنا عبيد، قال: سمعت الضحاك يقول: في قوله: ﴿لَهُدِّمَتْ صَوَامِعُ﴾ وهي صوامع الصغار يبنونها [[لعله وهي الصوامع الصغار: أي المعابد الصغار. . الخ.]] وقال آخرون: بل هي صوامع الصابئين.
+
+ذكر من قال ذلك: حدثنا محمد بن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة: ﴿صَوَامِعُ﴾ قال: هي للصابئين.
+
+⁕ حدثنا الحسن، قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر، عن قَتادة، مثله.
+
+واختلفت القرّاء في قراءة قوله: ﴿لَهُدّمَتْ﴾ . فقرأ ذلك عامة قرّاء المدينة: "لَهُدِمَتْ". خفيفة. وقرأته عامة قرّاء أهل الكوفة والبصرة: ﴿لَهُدّمَتْ﴾ بالتشديد بمعنى تكرير الهدم فيها مرّة بعد مرّة. والتشديد في ذلك أعجب القراءتين إليّ. لأن ذلك من أفعال أهل الكفر بذلك.
+
+وأما قوله ﴿وَبِيَعٌ﴾ فإنه يعني بها: بيع النصارى.
+
+وقد اختلف أهل التأويل في ذلك، فقال بعضهم مثل الذي قلنا في ذلك.
+
+ذكر من قال ذلك:- حدثني محمد بن المثنى، قال: ثنا عبد الأعلى، قال: ثنا داود، عن رفيع: ﴿وَبِيَعٌ﴾ قال: بيع النصارى.
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا محمد بن ثور، عن معمر، عن قَتادة: ﴿وَبِيَعٌ﴾ للنصارى.
+
+⁕ حدثنا الحسن، قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر، عن قتادة، مثله.
+
+⁕ حُدثت عن الحسين، قال: سمعت أبا معاذ يقول: أخبرنا عبيد، قال: سمعت الضحاك يقول: البِيَع: بيع النصارى.
+
+وقال آخرون: عني بالبيع في هذا الموضع: كنائس اليهود.
+
+ذكر من قال ذلك: حدثنا محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى؛ وحدثني الحارث. قال: ثنا الحسن، قال: ثنا ورقاء جميعا، عن ابن أبي نجيح، عن مجاهد، قال: ﴿وَبِيَعٌ﴾ قال: وكنائس.
+
+⁕ حدثنا القاسم، قال: ثنا الحسين، قال: ثني حجاج، عن ابن جُرَيج، عن مجاهد، مثله.
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله: ﴿وَبِيَعٌ﴾ قال: البيع للكنائس.
+
+* *
+
+قوله: ﴿وَصَلَوَاتٌ﴾
+
+اختلف أهل التأويل في معناه، فقال بعضهم: عني بالصلوات الكنائس.
+
+ذكر من قال ذلك:- حدثنا محمد سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس، في قوله: ﴿وَصَلَوَاتٌ﴾ قال: يعني بالصلوات الكنائس.
+
+⁕ حُدثت عن الحسن، قال: سمعت أبا معاذ يقول: أخبرنا عبيد، قال: سمعت الضحاك يقول في قوله: ﴿وَصَلَوَاتٌ﴾ كنائس اليهود، ويسمون الكنيسة صلوتا.
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قَتادة: ﴿وَصَلَوَاتٌ﴾ كنائس اليهود.
+
+⁕ حدثنا الحسن، قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر، عن قَتادة، مثله.
+
+وقال آخرون: عنى بالصلوات مساجد الصابئين.
+
+ذكر من قال ذلك: حدثنا ابن المثنى، قال: ثنا عبد الأعلى، قال: ثنا داود، قال: سألت أبا العالية عن الصلوات. قال: هي مساجد الصابئين.
+
+⁕ قال: ثنا عبد الوهاب، قال: ثنا داود، عن رفيع، نحوه.
+
+وقال آخرون: هي مساجد للمسلمين ولأهل الكتاب بالطرق.
+
+ذكر من قال ذلك: حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى؛ وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء جميعا، عن ابن أبي نجيح، عن مجاهد، قوله: ﴿وَصَلَوَاتٌ﴾ قال: مساجد لأهل الكتاب ولأهل الإسلام بالطرق.
+
+⁕ حدثنا القاسم، قال: ثنا الحسين، قال: ثني حجاج، عن ابن جريج، عن مجاهد، نحوه.
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله: ﴿وَصَلَوَاتٌ﴾ قال: الصلوات صلوات أهل الإسلام، تنقطع إذا دخل العدو عليهم، انقطعت العبادة، والمساجد تهدم، كما صنع بختنصر.
+
+* *
+
+وقوله: ﴿وَمَسَاجِدُ يُذْكَرُ فِيهَا اسْمُ اللَّهِ كَثِيرًا﴾
+
+اختلف في المساجد التي أريدت بهذا القول، فقال بعضهم: أريد بذلك مساجد المسلمين.
+
+ذكر من قال ذلك:- حدثنا ابن المثنى، قال: ثنا عبد الوهاب، قال: ثنا داود، عن رفيع، قوله: ﴿وَمَساجِدُ﴾ قال: مساجد المسلمين.
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، قال: ثنا معمر، عن قتادة: ﴿وَمَسَاجِدُ يُذْكَرُ فِيهَا اسْمُ اللَّهِ كَثِيرًا﴾ قال: المساجد: مساجد المسلمين يذكر فيها اسم الله كثيرا.
+
+⁕ حدثنا الحسن، قال: أخبرنا عبد الرزاق، عن معمر، عن قَتاده، نحوه.
+
+وقال آخرون: عني بقوله: ﴿وَمَساجِدُ﴾ الصوامع والبيع والصلوات.
+
+ذكر من قال ذلك:
+
+حُدثت عن الحسين، قال: سمعت أبا معاذ يقول: أخبرنا عبيد، قال: سمعت الضحاك يقول، في قوله: ﴿وَمَساجِدُ﴾ يقول في كل هذا يذكر اسم الله كثيرا، ولم يخصّ المساجد.
+
+وكان بعض أهل العربية من أهل البصرة يقول: الصلوات لا تهدم، ولكن حمله على فعل آخر، كأنه قال: وتركت صلوات. وقال بعضهم: إنما يعني: مواضع الصلوات. وقال بعضهم: إنما هي صلوات، وهي كنائس اليهود، تدعى بالعِبرانية: صلوتا.
+
+وأولى هذه الأقوال في ذلك بالصواب قول من قال: معنى ذلك: لهدِّمت صوامع الرهبان وبِيَع النصارى، وصلوات اليهود، وهي كنائسهم، ومساجد المسلمين التي يذكر فيها اسم الله كثيرا.
+
+وإنما قلنا هذا القول أولى بتأويل ذلك؛ لأن ذلك هو المعروف في كلام العرب المستفيض فيهم، وما خالفه من القول وإن كان له وجه فغير مستعمل فيما وجهه إليه من وجهه إليه.
+
+* *
+
+وقوله: ﴿وَلَيَنْصُرَنَّ اللَّهُ مَنْ يَنْصُرُهُ﴾
+
+يقول تعالى ذكره: وليعيننّ الله من يقاتل في سبيله، لتكون كلمته العليا على عدوّه؛ فنصْر الله عبده: معونته إياه، ونصر العبد ربه: جهاده في سبيله، لتكون كلمته العليا.
+
+* *
+
+وقوله: ﴿إِنَّ اللَّهَ لَقَوِيٌّ عَزِيزٌ﴾
+
+يقول تعالى ذكره: إن الله لقويّ على نصر من جاهد في سبيله من أهل ولايته وطاعته، عزيز في مُلكه، يقول: منيع في سلطانه، لا يقهره قاهر، ولا يغلبه غالب.
 
 ### al-Muyassar (Arabic)
 
-الذين أُلجئوا إلى الخروج من ديارهم، لا لشيء فعلوه إلا لأنهم أسلموا وقالوا: ربنا الله وحده. ولولا ما شرعه الله من دَفْع الظلم والباطل بالقتال لَهُزِم الحقُّ في كل أمة ولخربت الأرض، وهُدِّمت فيها أماكن العبادة من صوامع الرهبان، وكنائس النصارى، ومعابد اليهود، ومساجد المسلمين التي يصلُّون فيها، ويذكرون اسم الله فيها كثيرًا. ومن اجتهد في نصرة دين الله، فإن الله ناصره على عدوه. إن الله لَقوي لا يغالَب، عزيز لا يرام، قد قهر الخلائق وأخذ بنواصيهم.
+الذين أُلجئوا إلى الخروج من ديارهم، لا لشيء فعلوه إلا لأنهم أسلموا وقالوا: ربنا الله وحده. ولولا ما شرعه الله مِن دَفْع الظلم الذي ينتفع به جميع أهل الأديان المنزَّلة، وردِّ الباطل بالقتال المأذون فيه لهُزِم الحقُّ في كل أمة ولخربت الأرض، وهُدِّمت فيها أماكن العبادة من صوامع الرهبان، وكنائس النصارى، ومعابد اليهود، ومساجد المسلمين التي يصلُّون فيها، ويذكرون اسم الله فيها كثيرًا. ومن اجتهد في نصرة دين الله، فإن الله ناصره على عدوه. إن الله لَقوي لا يغالَب، عزيز لا يرام، قد قهر الخلائق وأخذ بنواصيهم.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+هُمْ ﴿الَّذِينَ أُخْرِجُوا مِن دِيارهمْ بِغَيْرِ حَقّ﴾ فِي الإخْراج ما أُخْرِجُوا: ﴿إلّا أنْ يَقُولُوا﴾ أيْ بِقَوْلِهِمْ ﴿رَبّنا اللَّه﴾ وحْده وهَذا القَوْل حَقّ فالإخْراج بِهِ إخْراج بِغَيْرِ حَقّ ﴿ولَوْلا دَفْع اللَّه النّاس بَعْضهمْ﴾ بَدَل بَعْض مِن النّاس ﴿بِبَعْضٍ لَهُدِّمَتْ﴾ بِالتَّشْدِيدِ لِلتَّكْثِيرِ وبِالتَّخْفِيفِ ﴿صَوامِع﴾ لِلرُّهْبانِ ﴿وبِيَع﴾ كَنائِس لِلنَّصارى ﴿وصَلَوات﴾ كَنائِس لِلْيَهُودِ بِالعبرانِيّة ﴿ومَساجِد﴾ لِلْمُسْلِمِينَ ﴿يُذْكَر فِيها﴾ أيْ المَواضِع المَذْكُورَة ﴿اسْم اللَّه كَثِيرًا﴾ وتَنْقَطِع العِبادات بِخَرابِها ﴿ولَيَنْصُرَن اللَّه مَن يَنْصُرهُ﴾ أيْ يَنْصُر دِينه ﴿إنّ اللَّه لَقَوِيّ﴾ عَلى خَلْقه ﴿عَزِيز﴾ مَنِيع فِي سُلْطانه وقُدْرَته
 
 ---
 
@@ -99,24 +832,121 @@ Al-`Awfi reported that Ibn `Abbas said, "This was revealed about Muhammad ﷺ an
 
 ### Ibn Kathir (English)
 
+And argue not with the People of the Scripture, except with that which is better – except with such of them as do wrong; and say (to them): "We believe in that which has been revealed to us and revealed to you; our God and your God is One, and to Him we have submitted. (46)
+
 Arguing with the People of the Book
+
 What is meant here is that anyone who wants to find out about religion from them should argue with them in a manner that is better, as this will be more effective. Allah says:
-ادْعُ إِلِى سَبِيلِ رَبِّكَ بِالْحِكْمَةِ وَالْمَوْعِظَةِ الْحَسَنَةِ
-(Invite to the way of your Lord with wisdom and fair preaching...) (16:125) And Allah said to Musa and Harun when he sent them to Fir`awn:
-فَقُولاَ لَهُ قَوْلاً لَّيِّناً لَّعَلَّهُ يَتَذَكَّرُ أَوْ يَخْشَى
-(And spe...
+
+ادْعُ إِلَىٰ سَبِيلِ رَبِّكَ بِالْحِكْمَةِ وَالْمَوْعِظَةِ الْحَسَنَةِ ۖ
+
+(Invite to the way of your Lord with wisdom and fair preaching...)(16:125) And Allah said to Musa and Harun when he sent them to Fir'awn:
+
+فَقُولَا لَهُ قَوْلًا لَيِّنًا لَعَلَّهُ يَتَذَكَّرُ أَوْ يَخْشَىٰ
+
+(And speak to him mildly, perhaps he may accept admonition or fear.)(20:44) Allah says here:
+
+إِلَّا الَّذِينَ ظَلَمُوا مِنْهُمْ
+
+(except with such of them as do wrong;) meaning, those who turn away from the truth, turning a blind eye to clear evidence, being stubborn and arrogant. In this case you should progress from debate to combat, fighting them in such a way as to deter them from committing aggression against you. Allah says:
+
+لَقَدْ أَرْسَلْنَا رُسُلَنَا بِالْبَيِّنَاتِ وَأَنْزَلْنَا مَعَهُمُ الْكِتَابَ وَالْمِيزَانَ لِيَقُومَ النَّاسُ بِالْقِسْطِ ۖ وَأَنْزَلْنَا الْحَدِيدَ فِيهِ بَأْسٌ شَدِيدٌ
+
+(Indeed We have sent Our Messengers with clear proofs, and revealed with them the Scripture and the Balance that mankind may keep up justice. And We brought forth iron wherein is mighty power) until:
+
+إِنَّ اللَّهَ قَوِيٌّ عَزِيزٌ
+
+(Verily, Allah is All-Strong, All-Mighty)(57:25). Jabir said: "We were commanded to strike with the sword whoever opposes the Book of Allah." And His saying:
+
+وَقُولُوا آمَنَّا بِالَّذِي أُنْزِلَ إِلَيْنَا وَأُنْزِلَ إِلَيْكُمْ
+
+(and say (to them): "We believe in that which has been revealed to us and revealed to you;) means, 'if they tell you something which you do not know to be true or false, say to them: We do not hasten to say it is a lie, because it may be true, and we do not hasten to say it is true because it may be false. We believe in it in general, under the condition that it has been revealed and has not been altered or deliberately misinterpreted.'
+
+Imam Al-Bukhari, may Allah have mercy on him, recorded that Abu Hurayrah, may Allah be pleased with him, said, "The People of the Book used to read the Tawrah in Hebrew and explain it in Arabic to the Muslims. The Messenger of Allah ﷺ said:
+
+لَا تُصَدِّقُوا أَهْلَ الْكِتَابِ وَلَا تُكَذِّبُوهُمْ، وَقُولُوا: آمَنَّا بِاللهِ وَمَا أُنْزِلَ إِلَيْنَا وَمَا أُنْزِلَ إِلَيْكُمْ، وَإِلَهُنَا وَإِلَهُكُمْ وَاحِدٌ، وَنَحْنُ لَهُ مُسْلِمُونَ
+
+(Do not believe the People of the Book and do not deny them. Say: "We believe in Allah and what has been revealed to us and what has been revealed to you. Our God and your God is One, and to Him we have submitted.")" This Hadith was narrated only by Al-Bukhari.
+
+Al-Bukhari recorded that Ibn 'Abbas said: "How can you ask the People of the Book about anything, when your Book that was revealed to the Messenger of Allah ﷺ is more recent, you read it pure and uncontaminated, it tells you that the People of the Book altered and changed the Book, that they write the Book with their own hands and then say, 'This is from Allah,' to purchace with it a small price? Should not the knowledge that you have, prevent you from asking them? No, by Allah, we have never seen any of them asking you about what was sent down to you."
+
+Al-Bukhari recorded that Humayd bin 'Abdur-Rahman heard Mu'awiyah talking to a group of Quraysh in Al-Madinah. He mentioned Ka'b Al-Ahbar, and said: "He was one of the most truthful of those who narrated from the People of the Book, even though we found that some of what he said might be lies."
+
+I say, this means that some of what he said could be classified linguistically as lies, but he did not intend to lie, because he was narrating from manuscripts which he thought were good, but they contained fabricated material, because they did not have people who were so conscientious in memorizing the Scriptures by heart as the people of this great Ummah.
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله تعالى :  وَلا تُجَادِلُوا أَهْلَ الْكِتَابِ إِلا بِالَّتِي هِيَ أَحْسَنُ إِلا الَّذِينَ ظَلَمُوا مِنْهُمْ وَقُولُوا آمَنَّا بِالَّذِي أُنْزِلَ إِلَيْنَا وَأُنْزِلَ إِلَيْكُمْ وَإِلَهُنَا وَإِلَهُكُمْ وَاحِدٌ وَنَحْنُ لَهُ مُسْلِمُونَ (46)يقول تعالى ذكره: (وَلا تُجَادِلُوا) أيها المؤمنون بالله وبرسوله اليهود والنصارى، وهم (أَهْلَ الكِتابِ إلا بالَّتِي هِيَ أَحْسَنُ) يقول: إلا بالجميل من القول، وهو الدعاء إلى الله بآياته، والتنبيه على حُججه.وقوله: (إلا الَّذِينَ ظَلَمُوا مِن...
+القول في تأويل قوله تعالى: ﴿وَلا تُجَادِلُوا أَهْلَ الْكِتَابِ إِلا بِالَّتِي هِيَ أَحْسَنُ إِلا الَّذِينَ ظَلَمُوا مِنْهُمْ وَقُولُوا آمَنَّا بِالَّذِي أُنزلَ إِلَيْنَا وَأُنزلَ إِلَيْكُمْ وَإِلَهُنَا وَإِلَهُكُمْ وَاحِدٌ وَنَحْنُ لَهُ مُسْلِمُونَ (٤٦) ﴾
+
+يقول تعالى ذكره: ﴿وَلا تُجَادِلُوا﴾ أيها المؤمنون بالله وبرسوله اليهود والنصارى، وهم ﴿أَهْلَ الكِتابِ إلا بالَّتِي هِيَ أَحْسَنُ﴾ يقول: إلا بالجميل من القول، وهو الدعاء إلى الله بآياته، والتنبيه على حُججه.
+
+* *
+
+وقوله: ﴿إلا الَّذِينَ ظَلَمُوا مِنْهُمْ﴾
+
+اختلف أهل التأويل في تأويله، فقال بعضهم: معناه: إلا الذين أبوا أن يقرّوا لكم بإعطاء الجزية، ونصبوا دون ذلك لكم حربا، فإنهم ظلمة، فأولئك جادلوهم بالسيف حتى يسلموا، أو يعطوا الجزية.
+
+ذكر من قال ذلك:
+
+⁕ حدثني علي بن سهل، قال: ثنا يزيد، عن سفيان، عن خصيف، عن مجاهد في قوله: ﴿وَلا تُجَادِلُوا أَهْلَ الْكِتَابِ إِلا بِالَّتِي هِيَ أَحْسَنُ إِلا الَّذِينَ ظَلَمُوا مِنْهُمْ﴾ قال: من قاتل ولم يُعط الجزية.
+
+⁕ حدثنا ابن وكيع، قال: ثني أبي، عن سفيان، عن خصيف، عن مجاهد، بنحوه. إلا أنه قال: من قاتلك ولم يعطك الجزية.
+
+⁕ حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى، وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء، جميعا عن ابن أبي نجيح، عن مجاهد ﴿وَلا تُجَادِلُوا أَهْلَ الْكِتَابِ إِلا بِالَّتِي هِيَ أَحْسَنُ﴾ قال: إن قالوا شرّا؛ فقولوا خيرا، ﴿إِلا الَّذِينَ ظَلَمُوا مِنْهُمْ﴾ فانتصروا منهم.
+
+⁕ حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى، وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء، جميعا عن ابن أبي نجيح، عن مجاهد، قوله: ﴿إلا الَّذِينَ ظَلَمُوا مِنْهُمْ﴾ قال: قالوا: مع الله إله، أو له ولد، أو له شريك، أو يد الله مغلولة، أو الله فقير، أو آذوا محمدا ﷺ، قال: هم أهل الكتاب.
+
+⁕ حدثنا ابن وكيع، قال: ثنا يحيى بن آدم، عن شريك، عن سالم، عن سعيد ﴿وَلا تُجَادِلُوا أَهْلَ الْكِتَابِ إِلا بِالَّتِي هِيَ أَحْسَنُ إِلا الَّذِينَ ظَلَمُوا مِنْهُمْ﴾ قال: أهل الحرب، من لا عهد له جادله بالسيف.
+
+وقال آخرون: معنى ذلك: ﴿وَلا تُجَادِلُوا أَهْلَ الكِتابِ﴾ الذين قد آمنوا به، واتبعوا رسوله فيما أخبروكم عنه مما في كتبهم ﴿إِلا بِالَّتِي هِيَ أَحْسَنُ إِلا الَّذِينَ ظَلَمُوا مِنْهُمْ﴾ فأقاموا على كفرهم، وقالوا: هذه الآية محكمة، وليست بمنسوخة.
+
+ذكر من قال ذلك:
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله: ﴿وَلا تُجَادِلُوا أَهْلَ الْكِتَابِ إِلا بِالَّتِي هِيَ أَحْسَنُ﴾ قال: ليست بمنسوخة، لا ينبغي أن تجادل من آمن منهم، لعلهم يحسنون شيئا في كتاب الله، لا تعلمه أنت فلا تجادله، ولا ينبغي أن تجادل إلا الذين ظلموا، المقيمَ منهم على دينه. فقال: هو الذي يُجادَلُ، ويقال له بالسيف [[يقال له بالسيف: أي يرفع عليه السيف. قال في (اللسان: قول) : والعرب تجعل القول عبارة عن جميع الأفعال، وتطلقه على غير الكلام واللسان، فتقول: قال بيده: أي أخذ، وقال برجله: أي مشى. وقال الشاعر وقالت له العينان سمعًا وطاعةً
+
+أي أومأت. وقال بثوب: أي رفعه. وكل ذلك على المجاز والاتساع. وفي الأصل: و"يقال له: السبت" تحريف من الناسخ.]] قال: وهؤلاء يهود. قال: ولم يكن بدار الهجرة من النصارى أحد، إنما كانوا يهودا هم الذي كلَّموا وحالفوا رسول الله ﷺ، وغدرت النضير يوم أُحد، وغدرت قُريظة يوم الأحزاب.
+
+وقال آخرون: بل نزلت هذه الآية قبل أن يؤمر النبيّ ﷺ بالقتال، وقالوا: هي منسوخة، نسخها قوله: ﴿قَاتِلُوا الَّذِينَ لا يُؤْمِنُونَ بِاللَّهِ وَلا بِالْيَوْمِ الآخِرِ﴾ .
+
+ذكر من قال ذلك:
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قَتادة، قوله: (وَلا تُجَادِلُوا أَهْلَ الْكِتَابِ إِلا بِالَّتِي هِيَ أَحْسَنُ) ثم نسخ بعد ذلك، فأمر بقتالهم في سورة براءة، ولا مجادلة أشدّ من السيف، أن يقاتلوا حتى يشهدوا أن لا إله إلا الله، وأن محمدا رسول الله ﷺ، أو يقرّوا بالخراج.
+
+وأولى هذه الأقوال بالصواب، قول من قال: عني بقوله: ﴿إلا الَّذِينَ ظَلَمُوا مِنْهُمْ﴾ : إلا الذين امتنعوا من أداء الجزية، ونصبوا دونها الحرب.
+
+فإن قال قائل: أو غير ظالم من أهل الكتاب إلا من لم يؤدّ الجزية؟ قيل: إن جميعهم، وإن كانوا لأنفسهم بكفرهم بالله، وتكذيبهم رسوله محمدا ﷺ، ظلمة، فإنه لم يعن بقوله: ﴿إلا الَّذِينَ ظَلَمُوا مِنْهُمْ﴾ . ظلم أنفسهم. وإنما عنى به: إلا الذين ظلموا منهم أهل الإيمان بالله ورسوله محمد ﷺ، فإن أولئك جادلوهم بالقتال.
+
+وإنما قلنا: ذلك أولى الأقوال فيه بالصواب؛ لأن الله تعالى ذكره أذن للمؤمنين بجدال ظلمة أهل الكتاب، بغير الذي هو أحسن بقوله: ﴿إلا الَّذِينَ ظَلَمُوا مِنْهُمْ﴾ فمعلوم إذ كان قد أذن لهم في جدالهم، أن الذين لم يؤذن لهم في جدالهم إلا بالتي هي أحسن، غير الذين أذن لهم بذلك فيهم، وأنهم غير المؤمن؛ لأن المؤمن منهم غير جائز جداله إلا في غير الحقّ، لأنه إذا جاء بغير الحق، فقد صار في معنى الظلمة في الذي خالف فيه الحقّ، فإذ كان ذلك كذلك، تبين أن ألا معنى لقول من قال: عنى بقوله: ﴿وَلا تُجَادِلُوا أَهْلَ الْكِتَابِ﴾ أهل الإيمان منهم، وكذلك لا معنى لقول من قال: نزلت هذه الآية قبل الأمر بالقتال، وزعم أنها منسوخة؛ لأنه لا خبر بذلك يقطع العذر، ولا دلالة على صحته من فطرة عقل.
+
+وقد بيَّنا في غير موضع من كتابنا، أنه لا يجوز أن يحكم على حكم الله في كتابه بأنه منسوخ إلا بحجة يجب التسليم لها، من خبر أو عقل.
+
+* *
+
+وقوله: ﴿وَقُولُوا آمَنَّا بِالَّذِي أُنزلَ إِلَيْنَا وَأُنزلَ إِلَيْكُمْ وَإِلَهُنَا وَإِلَهُكُمْ وَاحِدٌ وَنَحْنُ لَهُ مُسْلِمُونَ﴾
+
+يقول تعالى ذكره للمؤمنين به وبرسوله، الذين نهاهم أن يجادلوا أهل الكتاب إلا بالتي هي أحسن: إذا حدثكم أهل الكتاب أيها القوم عن كتبهم، وأخبروكم عنها بما يمكن ويجوز أن يكونوا فيه صادقين، وأن يكونوا فيه كاذبين، ولم تعلموا أمرهم وحالهم في ذلك، فقولوا لهم ﴿آمَنَّا بِالَّذِي أُنزلَ إِلَيْنَا وَأُنزلَ إِلَيْكُمْ﴾ مما في التوراة والإنجيل، (وَإِلَهُنَا وَإِلَهُكُمْ وَاحِدٌ) يقول: ومعبودنا ومعبودكم واحد ﴿وَنَحْنُ لَهُ مُسْلِمُونَ﴾ يقول: ونحن له خاضعون متذللون بالطاعة فيما أمرنا ونهانا.
+
+وبنحو الذي قلنا في ذلك جاء الأثر عن رسول الله ﷺ.
+
+ذكر الرواية بذلك:
+
+⁕ حدثنا محمد بن المثنى، قال: ثنا عثمان بن عمر، قال: أخبرنا عليّ، عن يحيى بن أبي كثير، عن أبي سلمة، عن أبي هريرة، قال: كان أهل الكتاب يقرءون التوراة بالعبرانية، فيفسرونها بالعربية لأهل الإسلام، فقال رسول الله ﷺ: "لا تُصَدِّقُوا أهْلَ الكِتابِ وَلا تُكَذّبُوُهْم، ﴿وَقُولُوا آمَنَّا بالَّذِي أُنزلَ إلَيْنا وأُنزلَ إلَيْكُمْ وَإلَهُنَا وإلهُكُمْ وَاحِدٌ، وَنحْنُ لَهُ مُسْلِمُونَ﴾ ".
+
+⁕ حدثنا ابن بشار، قال: ثنا أبو عاصم، قال: ثنا سفيان، عن سعد بن إبراهيم، عن عطاء بن يسار قال: كان ناس من اليهود يحدثون ناسا من أصحاب النبيّ ﷺ، فقال: "لا تُصَدِّقُوهُمْ وَلا تُكَذّبُوهُمْ، ﴿وَقُولُوا آمَنَّا بالَّذِي أُنزلَ إلَيْنا وأُنزلَ إلَيْكُمْ﴾ ".
+
+⁕ قال: ثنا أبو عامر، قال: ثنا سفيان، عن سليمان، عن عمارة بن عمير، عن حريث بن ظهير، عن عبد الله قال: لا تسألوا أهل الكتاب عن شيء، فإنهم لن يهدوكم وقد ضلوا، إما أن تكذبوا بحقّ أو تصدّقوا بباطل، فإنه ليس أحد من أهل الكتاب إلا وفي قلبه تالية تدعوه إلى دينه كتالية المال [[تالية اسم فاعل من تلاه يتلوه: إذا تبعه. يريد: داعية تدعوه إلى الاستمساك بدينه. وتالية المال: لعل المراد به: التابعة التي تتبع أمهاتها من صغار الإبل ونحوها.]] .
+
+وكان مجاهد يقول في ذلك ما:-
+
+⁕ حدثني به محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى، وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء، جميعا عن ابن أبي نجيح، عن مجاهد، قوله: ﴿إِلا الَّذِينَ ظَلَمُوا مِنْهُمْ﴾ . قال: قالوا: مع الله إله، أو له ولد، أو له شريك، أو يد الله مغلولة، أو الله فقير، أو آذوا محمدا، ﴿وَقُولُوا آمَنَّا بِالَّذِي أُنزلَ إِلَيْنَا وَأُنزلَ إِلَيْكُمْ﴾ لمن لم يقل هذا من أهل الكتاب.
 
 ### al-Muyassar (Arabic)
 
-ولا تجادلوا -أيها المؤمنون- اليهودَ والنصارى إلا بالأسلوب الحسن، والقول الجميل، والدعوة إلى الحق بأيسر طريق موصل لذلك، إلا الذين حادوا عن وجه الحق وعاندوا وكابروا وأعلنوا الحرب عليكم فجالدوهم بالسيف حتى يؤمنوا، أو يعطوا الجزية عن يدٍ وهم صاغرون، وقولوا: آمنا بالقرآن الذي أُنزل إلينا، وآمنا بالتوراة والإنجيل اللذَيْن أُنزلا إليكم، وإلهنا وإلهكم واحد لا شريك له في ألوهيته، ولا في ربوبيته، ولا في أسمائه وصفاته، ونحن له خاضعون متذللون بالطاعة فيما أمرنا به، ونهانا عنه.
+ولا تجادلوا -أيها المؤمنون- اليهودَ والنصارى إلا بالأسلوب الحسن، والقول الجميل، والدعوة إلى الحق بأيسر طريق موصل لذلك، إلا الذين حادوا عن وجه الحق وعاندوا وكابروا وأعلنوا الحرب عليكم فقاتلوهم حتى يؤمنوا، أو يعطوا الجزية بأيديهم وهم أذلّاء، وقولوا: آمنا بالقرآن الذي أُنزل إلينا، وآمنا بالتوراة والإنجيل اللذَيْنِ أُنزلا إليكم، وإلهنا وإلهكم واحد لا شريك له في ألوهيته، ولا في ربوبيته، ولا في أسمائه وصفاته، ونحن له خاضعون متذللون بالطاعة فيما أمرنا به، ونهانا عنه.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿ولا تُجادِلُوا أهْل الكِتاب إلّا بِالَّتِي﴾ أيْ: المُجادَلَة الَّتِي ﴿هِيَ أحْسَن﴾ كالدُّعاءِ إلى اللَّه بِآياتِهِ والتَّنْبِيه عَلى حُجَجه ﴿إلّا الَّذِينَ ظَلَمُوا مِنهُمْ﴾ بِأَنْ حارَبُوا وأَبَوْا أنْ يُقِرُّوا بِالجِزْيَةِ فَجادَلُوهُمْ بِالسَّيْفِ حَتّى يُسْلِمُوا أوْ يُعْطُوا الجِزْيَة ﴿وقُولُوا﴾ لِمَن قَبْل الإقْرار بِالجِزْيَةِ إذا أخْبَرُوكُمْ بِشَيْءٍ مِمّا فِي كُتُبهمْ ﴿آمَنّا بِالَّذِي أُنْزِلَ إلَيْنا وأُنْزِلَ إلَيْكُمْ﴾ ولا تُصَدِّقُوهُمْ ولا تُكَذِّبُوهُمْ فِي ذَلِكَ ﴿وإلَهنا وإلَهكُمْ واحِد ونَحْنُ لَهُ مُسْلِمُونَ﴾ مُطِيعُونَ
 
 ---
 
@@ -124,20 +954,265 @@ What is meant here is that anyone who wants to find out about religion from them
 
 ### Ibn Kathir (English)
 
-Allah has indeed fulfilled the True Vision which He showed to His Prophet
-In a dream, the Messenger of Allah ﷺ saw himself entering Makkah and performing Tawaf around the House. He told his Companions about this dream when he was still in Al-Madinah. When they went to Makkah in the year of Al-Hudaybiyyah, none of them doubted that the Prophet's vision would come true that year. When the treaty of peace was conducted and they had to return to Al-Madinah that year, being allowed to return to Ma...
+Indeed Allah shall fulfill the true vision which He showed to His Messenger in very truth. Certainly, you shall enter Al-Masjid Al-Haram, if Allah wills, secure, (some) having your heads shaved, and (some) having your hair cut short, having no fear. He knew what you knew not, and He granted besides that a near victor (27)He it is Who has sent His Messenger with guidance and the religion of truth, that He may make it superior to all religions. And All-Sufficient is Allah as a Witness (28)
+
+Allah has indeed fulfilled the True Vision which He showed to His Prophet (ﷺ)
+
+In a dream, the Messenger of Allah ﷺ saw himself entering Makkah and performing Tawaf around the House. He told his Companions about this dream when he was still in Al-Madinah. When they went to Makkah in the year of Al-Hudaybiyyah, none of them doubted that the Prophet's vision would come true that year. When the treaty of peace was conducted and they had to return to Al-Madinah that year, being allowed to return to Makkah the next year, some of the Companions disliked what happened. 'Umar bin Al-Khattab asked about this, saying, "Haven't you told us that we will go to the House and perform Tawaf around it?" The Prophet ﷺ said,
+
+بَلَىٰ أَفَأَخْبَرْتُكَ أَنَّكَ تَأْتِيهِ عَامَكَ هٰذَا؟
+
+(Yes. Have I told you that you will go to it this year?) 'Umar said, "No." The Prophet ﷺ said,
+
+فَإِنَّكَ آتِيهِ وَمُطَّوِّفٌ بِهِ
+
+(Then you will go to it and perform Tawaf around it.) 'Umar received the same answer from Abu Bakr As-Siddiq, letter for letter. This is why Allah the Exalted and Most honored said,
+
+لَقَدْ صَدَقَ اللَّهُ رَسُولَهُ الرُّؤْيَا بِالْحَقِّ ۖ لَتَدْخُلُنَّ الْمَسْجِدَ الْحَرَامَ إِنْ شَاءَ اللَّهُ
+
+(Indeed Allah shall fulfill the true vision which He showed to His Messenger in very truth. Certainly, you shall enter Al-Masjid Al-Haram, if Allah wills,) and He willed that this matter shall certainly occur,
+
+آمِنِينَ
+
+(secure,) means, 'upon your entering,'
+
+مُحَلِّقِينَ رُءُوسَكُمْ وَمُقَصِّرِينَ
+
+((some) having your heads shaved, and (some) having your hair cut short,) and some of them indeed had their head hair shaved, while some of them had their head hair shortened. The Two Sahihs recorded that the Messenger of Allah ﷺ said,
+
+رَحِمَ اللهُ الْمُحَلِّقِينَ
+
+(O Allah! Be merciful to those who have their head shaved.) The people said, "O Allah's Messenger! And (invoke Allah for) those who get their hair cut short." He ﷺ said,
+
+رَحِمَ اللهُ الْمُحَلِّقِينَ
+
+(O Allah! Be merciful to those who have their head shaved.) The people said, "O Allah's Messenger! And those who get their hair cut short." The Prophet ﷺ said,
+
+رَحِمَ اللهُ الْمُحَلِّقِينَ
+
+(O Allah! Be merciful to those who have their head shaved.) The people said, "O Allah's Messenger! And those who get their hair cut short." The Prophet ﷺ said (the third or the fourth time),
+
+وَالْمُقَصِّرِينَ
+
+(And to those who get their hair cut short.) Allah said,
+
+لَا تَخَافُونَ
+
+(having no fear), indicating that they will be safe and will have no fear when they enter Makkah. This occurred in the 'Umrah performed the following year, on the seventh year of Hijrah during the month of Dhul-Qa'dah.
+
+When the Messenger ﷺ left from Al-Hudaybiyyah, during the month of Dhul-Qa'dah (the sixth year of Hijrah), he went back to Al-Madinah. He remained in Al-Madinah during the months of Dhul-Hijjah and Al-Muharram. In Safar, he marched forth to Khaybar, and Allah opened that city for him, partly by force and partly by its people surrendering to him. Khaybar was a wealthy province that had abundant date trees and vegetation. The Prophet ﷺ hired the (defeated) Jews of Khaybar to attend to a part of its green fields and divided the province among those who attended Al-Hudaybiyyah with him. No one else except those Companions took part in attacking Khaybar, except Ja'far bin Abi Talib, who came back with his companions from Ethiopia. Abu Musa Al-Ash'ari and his people also attended that battle. None of them were absent except Abu Dujanah Simak bin Kharashah, according to Ibn Zayd. This fact is well recorded in (the Books of) history. The Prophet ﷺ then returned to Al-Madinah.
+
+When the month of Dhul-Qa'dah came, the seventh year of Hijrah, the Prophet ﷺ went to Makkah for 'Umrah accompanied by those who were with him at Al-Hudaybiyyah. He resumed Ihram from Dhul-Hulayfah and took the sacrificial animals with him. It was said that the sacrificial animals were sixty. The Prophet ﷺ and his Companions started reciting the Talbiyah aloud. When they came close to Marr Az-Zahran, he sent Muhammad bin Maslamah before him with the horses and weapons. When the idolators saw this advance regiment, they were overwhelmed with fear. They thought that the Messenger of Allah ﷺ would attack them and that he had betrayed the treaty that he conducted with them, which stipulated cessation of hostilities for ten years. The idolators went quickly to Makkah to inform its people. When the Prophet ﷺ made camp in the area of Marr Az-Zahran, where he was close enough to see the idols that were erected all around the Haram, he sent the weaponry, arrows, arrow cases and spears, to the valley of Ya'jaj. He next went on his way towards Makkah with the swords resting in their sheaths, just as he agreed to in the peace treaty. While the Prophet ﷺ was still on the way to Makkah, the Quraysh sent Mikraz bin Hafs who said, "O Muhammad! We never knew you to be one who betrays his promises." The Prophet ﷺ said,
+
+وَمَا ذَاكَ؟
+
+(Why do you say that?) Mikraz said, "You are headed towards us with the weaponry, the arrows and the spears." The Prophet ﷺ said,
+
+لَمْ يَكُنْ ذٰلِكَ وَقَدْ بَعَثْنَا بِهِ إِلَىٰ يَأْجَجَ
+
+(I did not do that, I sent all that to the valley of Ya'jaj.)
+
+Mikraz said, "This is the way we knew you to be, trustworthy and keeping to your promises." The leaders of the disbelievers left Makkah so that they would not have to look at the Messenger of Allah ﷺ and his Companions, out of rage and anger. As for the rest of the people of Makkah, men, women and children, they sat on the pathways and house roofs watching the Messenger of Allah ﷺ and his Companions. The Messenger ﷺ entered Makkah with his Companions while reciting the Talbiyah. The Prophet ﷺ sent the sacrificial animals to Dhu Tuwa while riding his camel, Al-Qaswa', the same camel he was riding on the day of Hudaybiyyah. 'Abdullah bin Rawahah, from Al-Ansar, was holding the bridle of the Prophet's camel and repeating this poem,
+
+"In the Name of He, other than Whose religion there is no true religion, In the Name of He, Whom Muhammad is His Messenger, O children of the disbelievers, stay out of his way, For today, we shall impose on you the fulfillment of its interpretation, Just as we fought with you to accept its revelation, Severe fighting that removes the heads from where they rest, And overwhelms the companion from attending to his companion, Ar-Rahman has sent down in His revelation, In pages that are being recited before His Messenger, That the best death is that which occurs in His cause, So, O Lord, I believe in its statements." This story is collected from various narrations.
+
+Imam Ahmad recorded that 'Abdullah bin 'Abbas said, "When Allah's Messenger ﷺ and his Companions came to Makkah, the fever of Yathrib (Al-Madinah) had weakened and bothered them. The idolators circulated the news that a group of people were coming to them and that they had been weakened and bothered by the fever of Yathrib (Al-Madinah). The idolators sat in the area close to Al-Hijr. Allah conveyed to His Prophet what the idolators said, so he ordered his Companions to do Ramal in the first three rounds, so that the idolaters witness their strength. The Companions did Ramal the first three rounds. He also ordered them to walk normally between the two corners, for from there the idolators would not be able to see them. The Prophet ﷺ did not order them to do Ramal in all the rounds of Tawaf out of pity for them. The idolators commented, 'Are these the people whom you claimed were weakened by the fever. They are stronger than so-and-so!'" The Two Sahihs also recorded this Hadith.
+
+In another narration, "Allah's Messenger ﷺ and his Companions came (to Makkah) on the morning of the fourth day of Dhul-Qa'dah. The idolators circulated the news that a group of people was coming to them, who had been weakened by the fever of Yathrib (Al-Madinah). So, the Prophet ordered his Companions to do Ramal in the first three rounds of Tawaf. The Prophet ﷺ did not order them to do Ramal in all the rounds of Tawaf out of pity for them."
+
+Al-Bukhari recorded that Ibn 'Abbas said, "In the year when the Prophet ﷺ came as stipulated by the peace treaty, he said, 'Perform Ramal.' So that the idolators may witness their strength. At that time, the idolators were watching from the area of Qu'ayqi'an." Ibn 'Abbas said, "Allah's Messenger ﷺ performed Tawaf of the Ka'bah and the Sa'y at As-Safa and Al-Marwah to show his strength to the idolators."
+
+Al-Bukhari recorded that 'Abdullah bin 'Umar said, "Allah's Messenger ﷺ set out for 'Umrah, but the Quraysh idolators prevented him from reaching the Ka'bah. So, he slaughtered his sacrifice, got his head shaved at Al-Hudaybiyyah, agreed to a formal pact with them that he would perform 'Umrah the following year, would not carry weapons against them, except swords and would not stay in Makkah, except for the period they allowed. The Prophet ﷺ performed the 'Umrah in the following year and entered Makkah according to the treaty. And when he stayed for three days, the idolators ordered him to depart, and he ﷺ departed."
+
+Allah's statement,
+
+فَعَلِمَ مَا لَمْ تَعْلَمُوا فَجَعَلَ مِنْ دُونِ ذَٰلِكَ فَتْحًا قَرِيبًا
+
+(He knew what you knew not, and He granted besides that a near victory.) means, Allah the Exalted and Most Honored knew the benefit and goodness of turning you away from Makkah and preventing you from entering it in the year of Al-Hudaybiyyah, He knew that which you had no knowledge of,
+
+فَجَعَلَ مِنْ دُونِ ذَٰلِكَ
+
+(and He granted besides that) 'before entering Makkah as you were promised in the vision that the Prophet saw, He granted a close victory, i.e. the treaty of peace that you conducted between you and your idolator enemies.
+
+The Good News that Muslims will conquer the Known World, and ultimately the Entire World
+
+Allah the Exalted and Most Honored said, while delivering the glad tidings to the believers that the Messenger ﷺ will triumph over his enemies and the rest of the people of the earth,
+
+هُوَ الَّذِي أَرْسَلَ رَسُولَهُ بِالْهُدَىٰ وَدِينِ الْحَقِّ
+
+(He it is Who has sent His Messenger with guidance and the religion of truth,) with beneficial knowledge and righteous good deeds. Indeed, the Islamic Shari'ah has two factors, knowledge and deeds. The true religious knowledge is by definition true, and the accepted Islamic acts are by definition accepted. Therefore, the news and creed that this religion conveys are true and its commandments are just,
+
+لِيُظْهِرَهُ عَلَى الدِّينِ كُلِّهِ
+
+(that He may make it superior to all religions.) all the religions of the people of the earth, Arabs and non-Arabs alike, whether having certain ideologies or being atheists or idolators.
+
+وَكَفَىٰ بِاللَّهِ شَهِيدًا
+
+(And All-Sufficient is Allah as a Witness.) that Muhammad is His Messenger ﷺ and that He will grant him victory. Allah the Exalted and Most Honored has the best knowledge.
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله تعالى :  هُوَ الَّذِي أَرْسَلَ رَسُولَهُ بِالْهُدَى وَدِينِ الْحَقِّ لِيُظْهِرَهُ عَلَى الدِّينِ كُلِّهِ وَكَفَى بِاللَّهِ شَهِيدًا (28)يعني تعالى ذكره بقوله ( هُوَ الَّذِي أَرْسَلَ رَسُولَهُ بِالْهُدَى وَدِينِ الْحَقِّ ) الذي أرسل رسوله محمدا صَلَّى الله عَلَيْهِ وَسَلَّم بالبيان الواضح, وَدِين الحَق, وهو الإسلام; الذي أرسله داعيا خلقه إليه ( لِيُظْهِرَهُ عَلَى الدِّينِ كُلِّهِ ) يقول: ليبطل به الملل كلها, حتى لا يكون دين سواه, وذلك كان كذلك حتى ينـزل عيسى ابن مريم, فيقتل...
+القول في تأويل قوله تعالى: ﴿هُوَ الَّذِي أَرْسَلَ رَسُولَهُ بِالْهُدَى وَدِينِ الْحَقِّ لِيُظْهِرَهُ عَلَى الدِّينِ كُلِّهِ وَكَفَى بِاللَّهِ شَهِيدًا (٢٨) مُحَمَّدٌ رَسُولُ اللَّهِ وَالَّذِينَ مَعَهُ أَشِدَّاءُ عَلَى الْكُفَّارِ رُحَمَاءُ بَيْنَهُمْ تَرَاهُمْ رُكَّعًا سُجَّدًا يَبْتَغُونَ فَضْلا مِنَ اللَّهِ وَرِضْوَانًا سِيمَاهُمْ فِي وُجُوهِهِمْ مِنْ أَثَرِ السُّجُودِ ذَلِكَ مَثَلُهُمْ فِي التَّوْرَاةِ وَمَثَلُهُمْ فِي الإنْجِيلِ كَزَرْعٍ أَخْرَجَ شَطْأَهُ فَآزَرَهُ فَاسْتَغْلَظَ فَاسْتَوَى عَلَى سُوقِهِ يُعْجِبُ الزُّرَّاعَ لِيَغِيظَ بِهِمُ الْكُفَّارَ وَعَدَ اللَّهُ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ مِنْهُمْ مَغْفِرَةً وَأَجْرًا عَظِيمًا (٢٩) مُحَمَّدٌ رَسُولُ اللَّهِ وَالَّذِينَ مَعَهُ أَشِدَّاءُ عَلَى الْكُفَّارِ رُحَمَاءُ بَيْنَهُمْ تَرَاهُمْ رُكَّعًا سُجَّدًا يَبْتَغُونَ فَضْلا مِنَ اللَّهِ وَرِضْوَانًا سِيمَاهُمْ فِي وُجُوهِهِمْ مِنْ أَثَرِ السُّجُودِ ذَلِكَ مَثَلُهُمْ فِي التَّوْرَاةِ وَمَثَلُهُمْ فِي الإنْجِيلِ كَزَرْعٍ أَخْرَجَ شَطْأَهُ فَآزَرَهُ فَاسْتَغْلَظَ فَاسْتَوَى عَلَى سُوقِهِ يُعْجِبُ الزُّرَّاعَ لِيَغِيظَ بِهِمُ الْكُفَّارَ وَعَدَ اللَّهُ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ مِنْهُمْ مَغْفِرَةً وَأَجْرًا عَظِيمًا (٢٩) ﴾
+
+يعني تعالى ذكره بقوله ﴿هُوَ الَّذِي أَرْسَلَ رَسُولَهُ بِالْهُدَى وَدِينِ الْحَقِّ﴾ الذي أرسل رسوله محمدا ﷺ بالبيان الواضح، وَدِين الحَق، وهو الإسلام؛ الذي أرسله داعيا خلقه إليه ﴿لِيُظْهِرَهُ عَلَى الدِّينِ كُلِّهِ﴾ يقول: ليبطل به الملل كلها، حتى لا يكون دين سواه، وذلك كان كذلك حتى ينزل عيسى ابن مريم، فيقتل الدجال، فحينئذ تبطل الأديان كلها، غير دين الله الذي بعث به محمدا ﷺ، ويظهر الإسلام على الأديان كلها.
+
+* *
+
+وقوله ﴿وَكَفَى بِاللَّهِ شَهِيدًا﴾
+
+يقول جلّ ثناؤه لنبيه ﷺ: أشهدك يا محمد ربك على نفسه، أنه سيظهر الدين الذي بعثك به ﴿وَكَفَى بِاللَّهِ شَهِيدًا﴾ يقول: وحسبك به شاهدا.
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا ابن حُمَيد، قال. ثنا يحيى بن واضح، قال: ثنا أبو بكر الهُذَليّ، عن الحسن ﴿هُوَ الَّذِي أَرْسَلَ رَسُولَهُ بِالْهُدَى وَدِينِ الْحَقِّ لِيُظْهِرَهُ عَلَى الدِّينِ كُلِّهِ وَكَفَى بِاللَّهِ شَهِيدًا﴾ يقول: أشهد لك على نفسه أنه سيظهر دينك على الدين كله، وهذا إعلام من الله تعالى نبيه ﷺ، والذين كرهوا الصلح يوم الحديبية من أصحابه، أن الله فاتح عليهم مكة وغيرها من البلدان، مسليهم بذلك عما نالهم من الكآبة والحزن، بانصرافهم عن مكة قبل دخولهموها، وقبل طوافهم بالبيت.
+
+* *
+
+وقوله ﴿مُحَمَّدٌ رَسُولُ اللَّهِ وَالَّذِينَ مَعَهُ أَشِدَّاءُ عَلَى الْكُفَّارِ رُحَمَاءُ بَيْنَهُمْ﴾
+
+يقول تعالى ذكره: محمد رسول الله وأتباعه من أصحابه الذين هم معه على دينه، ﴿أَشِدَّاءُ عَلَى الْكُفَّارِ﴾ ، غليظة عليهم قلوبهم، قليلة بهم رحمتهم ﴿رُحَمَاءُ بَيْنَهُمْ﴾ يقول: رقيقة قلوب بعضهم لبعض، لينة أنفسهم لهم، هينة عليهم لهم.
+
+كما:-
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة ﴿رُحَمَاءُ بَيْنَهُمْ﴾ ألقى الله في قلوبهم الرحمة، بعضهم لبعض ﴿تَرَاهُمْ رُكَّعًا سُجَّدًا﴾ يقول: تراهم ركعا أحيانا لله في صلاتهم سجدا أحيانا ﴿يَبْتَغُونَ فَضْلا مِنَ اللَّهِ﴾ يقول: يلتمسون بركوعهم وسجودهم وشدّتهم على الكفار ورحمة بعضهم بعضا، فضلا من الله، وذلك رحمته إياهم، بأن يتفضل عليهم، فيُدخلهم جنته ﴿وَرِضْوَانًا﴾ يقول: وأن يرضى عنهم ربهم.
+
+* *
+
+وقوله ﴿سِيمَاهُمْ فِي وُجُوهِهِمْ مِنْ أَثَرِ السُّجُودِ﴾
+
+يقول: علامتهم في وجوههم من أثر السجود في صلاتهم.
+
+ثم اختلف أهل التأويل في السيما الذي عناه الله في هذا الموضع، فقال بعضهم: ذلك علامة يجعلها الله في وجوه المؤمنين يوم القيامة، يعرفون بها لما كان من سجودهم له في الدنيا.
+
+ذكر من قال ذلك:
+
+⁕ حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس ﴿سِيمَاهُمْ فِي وُجُوهِهِمْ مِنْ أَثَرِ السُّجُودِ﴾ قال: صلاتهم تبدو في وجوههم يوم القيامة.
+
+⁕ حدثنا ابن حُمَيد، قال: ثنا يحيى بن واضح، قال: ثنا عبيد الله العتكي، عن خالد الحنفي، قوله ﴿سِيمَاهُمْ فِي وُجُوهِهِمْ مِنْ أَثَرِ السُّجُودِ﴾ قال: يعرف ذلك يوم القيامة في وجوههم من أثر سجودهم في الدنيا، وهو كقوله ﴿تَعْرِفُ فِي وُجُوهِهِمْ نَضْرَةَ النَّعِيمِ﴾ .
+
+⁕ حدثني عبيد بن أسباط بن محمد، قال: ثنا أبي، عن فضيل بن مروزق، عن عطية، في قوله ﴿سِيمَاهُمْ فِي وُجُوهِهِمْ مِنْ أَثَرِ السُّجُودِ﴾ قال: مواضع السجود من وجوههم يوم القيامة أشد وجوههم بياضا.
+
+⁕ حدثنا محمد بن عمارة، قال: ثنا عبيد الله بن موسى، قال: أخبرنا ابن فضيل، عن فضيل، عن عطية، بنحوه.
+
+⁕ حدثني أبو السائب، قال: ثنا ابن فضيل، عن فضيل، عن عطية، بنحوه.
+
+⁕ حدثنا مجاهد بن موسى، قال: ثنا يزيد، قال: أخبرنا فضيل، عن عطية، مثله.
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا المعتمر، قال: سمعت شبيبا يقول عن مقاتل بن حيان، قال: ﴿سِيمَاهُمْ فِي وُجُوهِهِمْ مِنْ أَثَرِ السُّجُودِ﴾ قال: النور يوم القيامة.
+
+⁕ حدثنا ابن سنان القزاز، قال: ثنا هارون بن إسماعيل، قال: قال عليّ بن المبارك: سمعت غير واحد عن الحسن، في قوله ﴿سِيمَاهُمْ فِي وُجُوهِهِمْ مِنْ أَثَرِ السُّجُودِ﴾ قال: بياضا في وجوههم يوم القيامة.
+
+وقال آخرون: بل ذلك سيما الإسلام وَسمْته وخشوعه، وعنى بذلك أنه يرى من ذلك عليهم في الدنيا.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا عليّ، قال: ثنا أبو صالح، قال: ثني معاوية، عن عليّ، عن ابن عباس، في قوله ﴿سِيمَاهُمْ فِي وُجُوهِهِمْ﴾ قال: السَّمْت الحَسَن.
+
+⁕ قال: ثنا مجاهد، قال: ثنا يزيد، قال: ثنا الحسن بن معاوية، عن الحكم، عن مجاهد، عن ابن عباس، في قوله ﴿سِيمَاهُمْ فِي وُجُوهِهِمْ مِنْ أَثَرِ السُّجُودِ﴾ قال: أما إنه ليس بالذي ترون، ولكنه سيما الإسلام وسَحْنته وسَمته وخشوعه.
+
+⁕ حدثنا ابن بشار، قال: ثنا أبو عامر، قال: ثنا سفيان، عن حميد الأعرج، عن مجاهد ﴿سِيمَاهُمْ فِي وُجُوهِهِمْ مِنْ أَثَرِ السُّجُودِ﴾ قال: الخشوع والتواضع.
+
+⁕ حدثنا ابن بشار، قال: ثنا مؤمل، قال: ثنا سفيان، عن حميد الأعرج، عن مجاهد، مثله.
+
+⁕ قال: ثنا أبو عامر، قال: ثنا سفيان، عن منصور، عن مجاهد ﴿سِيمَاهُمْ فِي وُجُوهِهِمْ مِنْ أَثَرِ السُّجُودِ﴾ قال: الخشوع.
+
+⁕ حدثنا محمد بن المثنى، قال: ثنا محمد بن جعفر، عن شعبة، عن الحكم، عن مجاهد، في هذه الآية ﴿سِيمَاهُمْ فِي وُجُوهِهِمْ مِنْ أَثَرِ السُّجُودِ﴾ قال: السَّحْنة.
+
+⁕ حدثنا ابن حُمَيد، قال: ثنا جرير، عن منصور، عن مجاهد، في قوله ﴿سِيمَاهُمْ فِي وُجُوهِهِمْ مِنْ أَثَرِ السُّجُودِ﴾ قال: هو الخشوع، فقلت: هو أثر السجود، فقال: إنه يكون بين عينيه مثل ركبة العنز وهو كما شاء الله.
+
+وقال آخرون: ذلك أثر يكون في وجوه المصلين، مثل أثر السهر، الذي يظهر في الوجه مثل الكلف والتهيج والصفرة، وأشبه ذلك مما يظهره السهر والتعب في الوجه، ووجهوا التأويل في ذلك إلى أنه سيما في الدنيا.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا أبو كُرَيب، قال: ثنا ابن يمان، عن سفيان، عن رجل، عن الحسن ﴿سِيمَاهُمْ فِي وُجُوهِهِمْ مِنْ أَثَرِ السُّجُودِ﴾ قال: الصفرة.
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا المعتمر، عن أبيه، قال: زعم الشيخ الذي كان يقصّ في عُسر، وقرأ ﴿سِيمَاهُمْ فِي وُجُوهِهِمْ مِنْ أَثَرِ السُّجُودِ﴾ فزعم أنه السهر يرى في وجوههم.
+
+⁕ حدثنا ابن حُمَيد، قال: ثنا يعقوب القمِّيُّ، عن حفص، عن شَمِر بن عَطية، في قوله ﴿سِيمَاهُمْ فِي وُجُوهِهِمْ﴾ قال: تهيج في الوجه من سهر الليل.
+
+وقال آخرون: ذلك آثار ترى في الوجه من ثرى الأرض، أو نَدَى الطَّهُور.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا حوثرة بن محمد المنقري، قال: ثنا حماد بن مسعدة؛ وحدثنا ابن حُمَيد، قال: ثنا حرير جميعا عن ثعلبة بن سهيل، عن جعفر بن أبي المُغيرة، عن سعيد بن جُبير، في قوله ﴿سِيمَاهُمْ فِي وُجُوهِهِمْ مِنْ أَثَرِ السُّجُودِ﴾ قال: ثرى الأرض، وندى الطَّهُور.
+
+⁕ حدثنا ابن سنان القزّاز، قال: ثنا هارون بن إسماعيل، قال: ثناء عليّ بن المبارك، قال: ثنا مالك بن دينار، قال: سمعت عكرِمة يقول ﴿سِيمَاهُمْ فِي وُجُوهِهِمْ مِنْ أَثَرِ السُّجُودِ﴾ قال: هو أثر التراب.
+
+وأولى الأقوال في ذلك بالصواب أن يقال: إن الله تعالى ذكره أخبرنا أن سيما هؤلاء القوم الذين وصف صفتهم في وجوههم من أثر السجود، ولم يخصّ ذلك على وقت دون وقت. وإذ كان ذلك كذلك، فذلك على كلّ الأوقات، فكان سيماهم الذي كانوا يعرفون به في الدنيا أثر الإسلام، وذلك خشوعه وهديه وزهده وسمته، وآثار أداء فرائضه وتطوّعِه، وفي الآخرة ما أخبر أنهم يعرفون به، وذلك الغرّة في الوجه والتحجيل في الأيدي والأرجل من أثر الوضوء، وبياض الوجوه من أثر السجود.
+
+وبنحو الذي قلنا في معنى السيما قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة ﴿سِيمَاهُمْ فِي وُجُوهِهِمْ مِنْ أَثَرِ السُّجُودِ﴾ يقول: علامتهم أو أعلمتهم الصلاة.
+
+* *
+
+وقوله ﴿ذَلِكَ مَثَلُهُمْ فِي التَّوْرَاةِ﴾
+
+يقول: هذه الصفة التي وصفت لكم من صفة أتباع محمد ﷺ الذين معه صفتهم في التوراة.
+
+* *
+
+وقوله ﴿وَمَثَلُهُمْ فِي الإنْجِيلِ كَزَرْعٍ أَخْرَجَ شَطْأَهُ﴾
+
+يقول: وصفتهم في إنجيل عيسى صفة زرع أخرج شطأه، وهو فراخه، يقال منه: قد أشطأ الزرع: إذا فرَّخ فهو يشطّي إشطاء، وإنما مثلهم بالزرع المشطئ، لأنهم ابتدءوا في الدخول في الإسلام، وهم عدد قليلون، ثم جعلوا يتزايدون، ويدخل فيه الجماعة بعدهم، ثم الجماعة بعد الجماعة، حتى كثر عددهم، كما يحدث في أصل الزرع الفرخ منه، ثم الفرخ بعده حتى يكثر وينمي.
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثني عليّ، قال: ثنا أبو صالح، قال: ثنا معاوية، عن عليّ، عن ابن عباس، قوله ﴿مُحَمَّدٌ رَسُولُ اللَّهِ وَالَّذِينَ مَعَهُ﴾ أصحابه مثلهم، يعني نعتهم مكتوبا في التوراة والإنجيل قبل أن يخلق السموات والأرض.
+
+⁕ حدثنا ابن حُمَيد، قال: ثنا يحيى بن واضح، قالة: ثنا عبيد، عن الضحاك ﴿مُحَمَّدٌ رَسُولُ اللَّهِ وَالَّذِينَ مَعَهُ أَشِدَّاءُ عَلَى الْكُفَّارِ﴾ ... إلى قوله ﴿ذَلِكَ مَثَلُهُمْ فِي التَّوْرَاةِ﴾ ثم قال ﴿وَمَثَلُهُمْ فِي الإنْجِيلِ كَزَرْعٍ أَخْرَجَ شَطْأَهُ﴾ ... الآية.
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة ذلك ﴿مَثَلُهُمْ فِي التَّوْرَاةِ﴾ : أي هذا المثل في التوراة ﴿وَمَثَلُهُمْ فِي الإنْجِيلِ كَزَرْعٍ أَخْرَجَ شَطْأَهُ﴾ فهذا مثل أصحاب رسول الله ﷺ في الإنجيل.
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة، في قوله ﴿سِيمَاهُمْ فِي وُجُوهِهِمْ مِنْ أَثَرِ السُّجُودِ﴾ قال ﴿ذَلِكَ مَثَلُهُمْ فِي التَّوْرَاةِ وَمَثَلُهُمْ فِي الإنْجِيلِ كَزَرْعٍ أَخْرَجَ شَطْأَهُ﴾ .
+
+⁕ حُدثت عن الحسين، قال: سمعت أبا معاذ يقول: أخبرنا عبيد، قال: سمعت الضحاك يقول في قوله ﴿سِيمَاهُمْ فِي وُجُوهِهِمْ مِنْ أَثَرِ السُّجُودِ ذَلِكَ مَثَلُهُمْ فِي التَّوْرَاةِ﴾ يعني السيما في الوجوه مثلهم في التوراة، وليس بمثلهم في الإنجيل، ثم قال عزّ وجلّ: ﴿وَمَثَلُهُمْ فِي الإنْجِيلِ كَزَرْعٍ أَخْرَجَ شَطْأَهُ﴾ ... الآية، هذا مثلهم في الإنجيل.
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله ﴿سِيمَاهُمْ فِي وُجُوهِهِمْ مِنْ أَثَرِ السُّجُودِ ذَلِكَ مَثَلُهُمْ فِي التَّوْرَاةِ وَمَثَلُهُمْ فِي الإنْجِيلِ كَزَرْعٍ أَخْرَجَ شَطْأَهُ﴾ .
+
+⁕ حدثني عمرو بن عبد الحميد، قال: ثنا مروان بن معاوية، عن جُويبر، عن الضحاك في قول الله: ﴿مُحَمَّدٌ رَسُولُ اللَّهِ وَالَّذِينَ مَعَهُ﴾ ... الآية، قال: هذا مثلهم في التوراة، ومثل آخر في الإنجيل ﴿كَزَرْعٍ أَخْرَجَ شَطْأَهُ فَآزَرَهُ﴾ الآية.
+
+وقال آخرون: هذان المَثَلان في التوراة والإنجيل مثلهم.
+
+ذكر من قال ذلك:
+
+⁕ حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى؛ وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء جميعا، عن ابن أبي نجيح، عن مجاهد، في قوله ﴿ذَلِكَ مَثَلُهُمْ فِي التَّوْرَاةِ﴾ والإنجيل واحد.
+
+وأولى القولين في ذلك بالصواب قول من قال: مثلهم في التوراة، غير مثَلهم في الإنجيل، وإن الخبر عن مثلهم في التوراة متناه عند قوله ﴿ذَلِكَ مَثَلُهُمْ فِي التَّوْرَاةِ﴾ وذلك أن القول لو كان كما قال مجاهد من أن مثلهم في التوراة والإنجيل واحد، لكان التنزيل: ومثلهم في الإنجيل، وكزرع أخرج شطأه، فكان تمثيلهم بالزرع معطوفا على قوله ﴿سِيمَاهُمْ فِي وُجُوهِهِمْ مِنْ أَثَرِ السُّجُودِ﴾ حتى يكون ذلك خبرا عن أن ذلك مَثلهم في التوراة والإنجيل، وفي مجيء الكلام بغير واو في قوله ﴿كَزَرْعٍ﴾ دليل بَيِّن على صحة ما قُلْنا، وأن قولهم ﴿وَمَثَلُهُمْ فِي الإنْجِيلِ﴾ خبر مبتدأ عن صفتهم التي هي في الإنجيل دون ما في التوراة منها.
+
+وبنحو الذي قلنا في قوله ﴿أَخْرَجَ شَطْأَهُ﴾ قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثني يحيى بن إبراهيم المسعوديّ، قال: ثنا أبي، عن أبيه، عن جدّه، عن الأعمش، عن خيثمة، قال: بينا عبد الله يقرئ رجلا عند غروب الشمس، إذ مرّ بهذه الآية ﴿كَزَرْعٍ أَخْرَجَ شَطْأَهُ﴾ قال: أنتم الزرع، وقد دنا حصادكم.
+
+⁕ قال: ثنا يعقوب بن إبراهيم، قال: ثنا ابن علية، عن حُمَيد الطويل، قال: قرأ أنس بن مالك: ﴿كَزَرْعٍ أَخْرَجَ شَطْأَهُ فَآزَرَهُ﴾ قال: تدرون ما شطأه؟ قال: نباته.
+
+⁕ حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس، قوله ﴿ذَلِكَ مَثَلُهُمْ فِي التَّوْرَاةِ وَمَثَلُهُمْ فِي الإنْجِيلِ كَزَرْعٍ أَخْرَجَ شَطْأَهُ﴾ قال: سنبله حين يتسلع نباته عن حباته.
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة ﴿وَمَثَلُهُمْ فِي الإنْجِيلِ كَزَرْعٍ أَخْرَجَ شَطْأَهُ﴾ قال: هذا مثل أصحاب محمد ﷺ في الإنجيل، قيل لهم: إنه سيخرج قوم ينبتون نبات الزرع، منهم قوم يأمرون بالمعروف، وينهوْن عن المنكر.
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة والزهريّ ﴿كَزَرْعٍ أَخْرَجَ شَطْأَهُ﴾ قالا أخرج نباته.
+
+⁕ حُدثت عن الحسين، قال: سمعت أبا معاذ يقول: أخبرنا عبيد، قال: سمعت الضحاك يقول في قوله ﴿وَمَثَلُهُمْ فِي الإنْجِيلِ كَزَرْعٍ أَخْرَجَ شَطْأَهُ﴾ يعني: أصحاب محمد ﷺ، يكونون قليلا ثم يزدادون ويكثرون ويستغلظون.
+
+⁕ حدثني يونس، 
+
+[TRUNCATED at 12000 chars — 3782 more. Consult the source directly before relying on anything near the cut.]
 
 ### al-Muyassar (Arabic)
 
-هو الذي أرسل رسوله محمدًا صلى الله عليه وسلم، بالبيان الواضح ودين الإسلام؛ ليُعْليه على الملل كلها، وحسبك -أيها الرسول- بالله شاهدًا على أنه ناصرك ومظهر دينك على كل دين.
+هو الذي أرسل رسوله محمدًا ﷺ، بالبيان الواضح ودين الإسلام؛ ليُعْليه على الملل كلها، وحسبك -أيها الرسول- بالله شاهدًا على أنه ناصرك ومظهر دينك على كل دين.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿هُوَ الَّذِي أرْسَلَ رَسُوله بِالهُدى ودِين الحَقّ لِيُظْهِرهُ﴾ أيْ دِين الحَقّ ﴿عَلى الدِّين كُلّه﴾ عَلى جَمِيع باقِي الأَدْيان ﴿وكَفى بِاللَّهِ شَهِيدًا﴾ أنَّك مُرْسَل بِما ذُكِرَ كَما قالَ اللَّه تَعالى
 
 ---
 
@@ -145,19 +1220,137 @@ In a dream, the Messenger of Allah ﷺ saw himself entering Makkah and performin
 
 ### Ibn Kathir (English)
 
-إِنَّمَا يَنْهَـكُمُ اللَّهُ عَنِ الَّذِينَ قَـتَلُوكُمْ فِى الدِّينِ وَأَخْرَجُوكُم مِّن دِيَـرِكُمْ وَظَـهَرُواْ عَلَى إِخْرَجِكُمْ أَن تَوَلَّوْهُمْ وَمَن يَتَوَلَّهُمْ فَأُوْلَـئِكَ هُمُ الظَّـلِمُونَ
+Perhaps Allah will make friendship between you and those whom you hold as enemies. And Allah has power (over all things), and Allah is Oft-Forgiving, Most Merciful (7)Allah does not forbid you to deal justly and kindly with those who fought not against you on account of religion nor drove you out of your homes. Verily, Allah loves those who deal with equity (8)It is only as regards those who fought against you on account of religion, and have driven you out of your homes, and helped to drive you out, that Allah forbids you to befriend them. And whosoever will befriend them, then such are the wrongdoers (9)
+
+Perhaps Allah will make a Friendship between You and Those, whom You hold as Enemies
+
+Allah said to His faithful servants, after ordering them to be enemies with the disbelievers,
+
+عَسَى اللَّهُ أَنْ يَجْعَلَ بَيْنَكُمْ وَبَيْنَ الَّذِينَ عَادَيْتُمْ مِنْهُمْ مَوَدَّةً ۚ
+
+(Perhaps Allah will make friendship between you and those, whom you hold as enemies.) meaning affection after animosity, tenderness after coldness and coming together after parting from each other,
+
+وَاللَّهُ قَدِيرٌ ۚ
+
+(And Allah has power (over all things),) Allah is able to gather opposites and bring together hearts, after feeling hostility and hardness. In this case, the hearts will come together in agreement, just as Allah said when He mentioned His favor on the Ansar,
+
+وَاذْكُرُوا نِعْمَتَ اللَّهِ عَلَيْكُمْ إِذْ كُنْتُمْ أَعْدَاءً فَأَلَّفَ بَيْنَ قُلُوبِكُمْ فَأَصْبَحْتُمْ بِنِعْمَتِهِ إِخْوَانًا وَكُنْتُمْ عَلَىٰ شَفَا حُفْرَةٍ مِنَ النَّارِ فَأَنْقَذَكُمْ مِنْهَا ۗ
+
+(And remember Allah's favor on you, for you were enemies one to another but He joined your hearts together, so that, by His grace, you became brethren and were on the brink of a pit of Fire, and He saved you from it.)(3:103) Also the Prophet ﷺ said to them,
+
+أَلَمْ أَجِدْكُمْ ضُلَّالًا فَهَدَاكُمُ اللهُ بِي، وَكُنْتُمْ مُتَفَرِّقِينَ فَأَلَّفَكُمُ اللهُ بِي؟
+
+(Did I not find you misguided, and Allah guided you through me; and divided, and Allah united [your hearts] through me?) Allah the Exalted said,
+
+وَإِنْ يُرِيدُوا أَنْ يَخْدَعُوكَ فَإِنَّ حَسْبَكَ اللَّهُ ۚ هُوَ الَّذِي أَيَّدَكَ بِنَصْرِهِ وَبِالْمُؤْمِنِينَ - وَأَلَّفَ بَيْنَ قُلُوبِهِمْ ۚ لَوْ أَنْفَقْتَ مَا فِي الْأَرْضِ جَمِيعًا مَا أَلَّفْتَ بَيْنَ قُلُوبِهِمْ وَلَٰكِنَّ اللَّهَ أَلَّفَ بَيْنَهُمْ ۚ إِنَّهُ عَزِيزٌ حَكِيمٌ
+
+(He it is Who has supported you with His help and with the believers. And He has united their hearts. If you had spent all that is in the earth, you could not have united their hearts, but Allah has united them. Certainly He is Almighty, All-Wise.)(8:62,63) And in the Hadith:
+
+أَحْبِبْ حَبِيبَكَ هَوْنًا مَا، فَعَسَى أَنْ يَكُونَ بَغِيضَكَ يَوْمًا مَا، وَأَبْغِضْ بَغِيضَكَ هَوْنًا مَا، فَعَسَى أَنْ يَكُونَ حَبِيبَكَ يَوْمًا مَا
+
+(Love your loved one moderately, because one day, he might become your enemy. Hate your hated one moderately, because one day, he might become your loved one.) Allah's statement,
+
+وَاللَّهُ غَفُورٌ رَحِيمٌ
+
+(And Allah is Oft-Forgiving, Most Merciful.) means, Allah forgives the disbelief of the disbelievers if they repent from it, returned to their Lord and surrendered to Him in Islam. Surely, He is the Oft-Forgiving, the Most-Merciful to those who repent to Him from their sins, no matter what type of the sin it is.
+
+The Permissibility of being Kind to Disbelievers who do not fight against the Religion
+
+And Allah's statement;
+
+لَا يَنْهَاكُمُ اللَّهُ عَنِ الَّذِينَ لَمْ يُقَاتِلُوكُمْ فِي الدِّينِ وَلَمْ يُخْرِجُوكُمْ مِنْ دِيَارِكُمْ
+
+(Allah does not forbid you with those who fought not against you on account of religion nor drove you out of your homes,) means, those who did not have a role in your expulsion. Therefore, Allah does not forbid you from being kind to the disbelievers who do not fight you because of the religion, such as women and weak disbelievers,
+
+أَنْ تَبَرُّوهُمْ
+
+(to deal kindly) to be gentle with them,
+
+وَتُقْسِطُوا إِلَيْهِمْ
+
+(and justly with those) to be fair with them
+
+إِنَّ اللَّهَ يُحِبُّ الْمُقْسِطِينَ
+
+(Verily, Allah loves those who deal with equity.) Imam Ahmad recorded that Asma' bint Abu Bakr said, "My mother, who was an idolatress at the time, came to me during the Treaty of Peace, the Prophet ﷺ conducted with the Quraysh. I came to the Prophet ﷺ and said, 'O Allah's Messenger! My mother came visiting, desiring something from me, should I treat her with good relations?' The Prophet ﷺ said,
+
+نَعَمْ صِلِي أُمَّكِ
+
+(Yes. Keep good relation with your mother.)" The Two Sahihs recorded this Hadith. Imam Ahmad recorded that 'Abdullah bin Zubayr said, "Qutaylah came visiting her daughter, Asma' bint Abi Bakr, with some gifts, such as Dibab, cheese and clarified (cooking) butter, and she was an idolatress at that time. Asma' refused to accept her mother's gifts and did not let her enter her house. 'A'ishah asked the Prophet ﷺ about his verdict and Allah sent down the Ayah,
+
+لَا يَنْهَاكُمُ اللَّهُ عَنِ الَّذِينَ لَمْ يُقَاتِلُوكُمْ فِي الدِّينِ
+
+(Allah does not forbid you with those who fought not against you on account of religion) until the end of the Ayah. Allah's Messenger ﷺ ordered Asma' to accept her mother's gifts and to let her enter her house." Allah's statement,
+
+إِنَّ اللَّهَ يُحِبُّ الْمُقْسِطِينَ
+
+(Allah loves those who deal with equity.) was duly explained in the Tafsir of Surat Al-Hujurat. We also mentioned the authentic Hadith,
+
+الْمُقْسِطُونَ عَلىٰ مَنَابِرَ مِنْ نُورٍ عَنْ يَمِينِ الْعَرْشِ، الَّذِينَ يَعْدِلُونَ فِي حُكْمِهِمْ وَأَهَالِيهِمْ وَمَا وَلُوا
+
+(The just, who are fair in their decisions, families and those under their authority, will be on podiums made of light, to the right of the Throne.)
+
+The Prohibition of being Kind towards Combatant Disbelievers
+
+Allah's statement,
+
+إِنَّمَا يَنْهَاكُمُ اللَّهُ عَنِ الَّذِينَ قَاتَلُوكُمْ فِي الدِّينِ وَأَخْرَجُوكُمْ مِنْ دِيَارِكُمْ وَظَاهَرُوا عَلَىٰ إِخْرَاجِكُمْ أَنْ تَوَلَّوْهُمْ ۚ
+
+(It is only as regards those who fought against you on account of religion, and have driven you out of your homes, and helped to drive you out that Allah forbids you to befriend them.)(60:9) means, 'Allah forbids you from being kind and befriending with the disbelievers who are openly hostile to you, those who fought against you, expelled you and helped to expel you. Allah the Exalted forbids you from being their friends and orders you to be their enemy.'
+
+Then Allah stresses His threat against being friends with them, by saying,
+
+وَمَنْ يَتَوَلَّهُمْ فَأُولَٰئِكَ هُمُ الظَّالِمُونَ
+
+(And whosoever will befriend them, then such are the wrongdoers.) As He said;
+
+يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَتَّخِذُوا الْيَهُودَ وَالنَّصَارَىٰ أَوْلِيَاءَ ۘ بَعْضُهُمْ أَوْلِيَاءُ بَعْضٍ ۚ وَمَنْ يَتَوَلَّهُمْ مِنْكُمْ فَإِنَّهُ مِنْهُمْ ۗ إِنَّ اللَّهَ لَا يَهْدِي الْقَوْمَ الظَّالِمِينَ
+
+(O you who believe! Take not the Jews and the Christians as protecting friends, they are but protecting friends of each other. And if any among you takes them (as protecting friends), then surely, he is one of them. Verily, Allah guides not those people who are the wrongdoers)(5:51)
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله تعالى :  لا يَنْهَاكُمُ اللَّهُ عَنِ الَّذِينَ لَمْ يُقَاتِلُوكُمْ فِي الدِّينِ وَلَمْ يُخْرِجُوكُمْ مِنْ دِيَارِكُمْ أَنْ تَبَرُّوهُمْ وَتُقْسِطُوا إِلَيْهِمْ إِنَّ اللَّهَ يُحِبُّ الْمُقْسِطِينَ (8)يقول تعالى ذكره: ( لا يَنْهَاكُمُ اللَّهُ عَنِ الَّذِينَ لَمْ يُقَاتِلُوكُمْ فِي الدِّينِ ) من أهل مكة ( وَلَمْ يُخْرِجُوكُمْ مِنْ دِيَارِكُمْ أَنْ تَبَرُّوهُمْ وَتُقْسِطُوا إِلَيْهِمْ ) يقول: وتعدلوا فيهم بإحسانكم إليهم، وبرّكم بهم.واختلف أهل التأويل في الذين عُنُوا بهذه الآي...
+القول في تأويل قوله تعالى: ﴿لا يَنْهَاكُمُ اللَّهُ عَنِ الَّذِينَ لَمْ يُقَاتِلُوكُمْ فِي الدِّينِ وَلَمْ يُخْرِجُوكُمْ مِنْ دِيَارِكُمْ أَنْ تَبَرُّوهُمْ وَتُقْسِطُوا إِلَيْهِمْ إِنَّ اللَّهَ يُحِبُّ الْمُقْسِطِينَ (٨) ﴾
+
+يقول تعالى ذكره: ﴿لا يَنْهَاكُمُ اللَّهُ عَنِ الَّذِينَ لَمْ يُقَاتِلُوكُمْ فِي الدِّينِ﴾ من أهل مكة ﴿وَلَمْ يُخْرِجُوكُمْ مِنْ دِيَارِكُمْ أَنْ تَبَرُّوهُمْ وَتُقْسِطُوا إِلَيْهِمْ﴾ يقول: وتعدلوا فيهم بإحسانكم إليهم، وبرّكم بهم.
+
+واختلف أهل التأويل في الذين عُنُوا بهذه الآية، فقال بعضهم: عُني بها: الذين كانوا آمنوا بمكة ولم يهاجروا، فأذن الله للمؤمنين ببرّهم والإحسان إليهم.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا محمد بن عمرو، قال: ثنا أَبو عاصم، قال: ثنا عيسى؛ وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء، جميعًا، عن ابن أَبي نجيح، عن مجاهد، في قوله: ﴿لا يَنْهَاكُمُ اللَّهُ عَنِ الَّذِينَ لَمْ يُقَاتِلُوكُمْ فِي الدِّينِ﴾ أن تستغفروا لهم، ﴿أَنْ تَبَرُّوهُمْ وَتُقْسِطُوا إِلَيْهِمْ﴾ ؛ قال: وهم الذين آمنوا بمكة ولم يهاجروا.
+
+وقال آخرون: عني بها من غير أهل مكة من لم يهاجر.
+
+ذكر من قال ذلك:
+
+⁕ حدثني محمد بن إبراهيم الأنماطيّ، قال: ثنا هارون بن معروف، قال: ثنا بشر بن السريّ، قال: ثنا مصعب بن ثابت، عن عمه عامر بن عبد الله بن الزبير، عن أبيه، قال: نزلت في أسماء بنت أبي بكر، وكانت لها أمّ فى الجاهلية يقال لها قّتَيلة ابنة عبد العُزّى، فأتتها بهدايا وصناب وأقط وسَمْن، فقالت: لا اقبل لك هدية، ولا تدخلي عليّ حتى يأذن رسول الله ﷺ فذكرت ذلك عائشة لرسول الله ﷺ، فأنزل الله ﴿لا يَنْهَاكُمُ اللَّهُ عَنِ الَّذِينَ لَمْ يُقَاتِلُوكُمْ فِي الدِّينِ﴾ ... إلى قوله: ﴿الْمُقْسِطِينَ﴾ .
+
+⁕ قال ثنا إبراهيم بن الحجاج، قال: ثنا عبد الله بن المبارك، قال: ثنا مصعب بن ثابت، عن عامر بن عبد الله بن الزبير، عن أبيه، قال: قَدِمَتْ قُتَيلة بنت عبد العُزّى بن سعد من بني مالك بن حِسْل على ابنتها أسماء بنت أبي بكر، فذكر نحوه.
+
+وقال آخرون: بل عُنِي بها من مشركي مكة من لم يقاتل المؤمنين، ولم يخرجوهم من ديارهم؛ قال: ونسخ الله ذلك بعدُ بالأمر بقتالهم.
+
+ذكر من قال ذلك:
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد: وسألته عن قول الله عزّ وجلّ: ﴿لا يَنْهَاكُمُ اللَّهُ﴾ ... الآية، فقال: هذا قد نسخ، نَسَخَه، القتال، أمروا أن يرجعوا إليهم بالسيوف، ويجاهدوهم بها، يضربونهم، وضرب الله لهم أجلَ أربعة أشهر، إما المذابحة، وإما الإسلام.
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة، في قوله: ﴿لا يَنْهَاكُمُ اللَّهُ﴾ ... الآية، قال: نسختها ﴿فَاقْتُلُوا الْمُشْرِكِينَ حَيْثُ وَجَدْتُمُوهُمْ﴾ .
+
+وأولى الأقوال في ذلك بالصواب قول من قال: عُنِي بذلك: لا ينهاكم الله عن الذين لم يقاتلوكم في الدين، من جميع أصناف الملل والأديان أن تبرُّوهم وتصلوهم، وتقسطوا إليهم، إن الله عزّ وجلّ عمّ بقوله: ﴿الَّذِينَ لَمْ يُقَاتِلُوكُمْ فِي الدِّينِ وَلَمْ يُخْرِجُوكُمْ مِنْ دِيَارِكُمْ﴾ جميع من كان ذلك صفته، فلم يخصصْ به بعضًا دون بعض، ولا معنى لقول من قال: ذلك منسوخ، لأن برّ المؤمن من أهل الحرب ممن بينه وبينه قرابة نسب، أو ممن لا قرابة بينه وبينه ولا نسب غير محرّم ولا منهيّ عنه إذا لم يكن في ذلك دلالة له، أو لأهل الحرب على عورة لأهل الإسلام، أو تقوية لهم بكُراع أو سلاح. قد بين صحة ما قلنا في ذلك، الخبر الذي ذكرناه عن ابن الزبيرفي قصة أسماء وأمها.
+
+* *
+
+وقوله: ﴿إِنَّ اللَّهَ يُحِبُّ الْمُقْسِطِينَ﴾
+
+يقول: إن الله يحبّ المنصفين الذين ينصفون الناس، ويعطونهم الحقّ والعدل من أنفسهم، فيبرّون من برّهم، ويُحْسنون إلى من أحسن إليهم.
 
 ### al-Muyassar (Arabic)
 
-لا ينهاكم الله -أيها المؤمنون- عن الذين550 لم يقاتلوكم من الكفار بسبب الدين، ولم يخرجوكم من دياركم أن تكرموهم بالخير، وتعدلوا فيهم بإحسانكم إليهم وبرِّكم بهم. إن الله يحب الذين يعدلون في أقوالهم وأفعالهم.
+لا ينهاكم الله -أيها المؤمنون- عن الذين لم يقاتلوكم من الكفار بسبب الدين، ولم يخرجوكم من دياركم أن تكرموهم بالخير، وتعدلوا فيهم بإحسانكم إليهم وبرِّكم بهم. إن الله يحب الذين يعدلون في أقوالهم وأفعالهم.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿لا يَنْهاكُمْ اللَّه عَنْ الَّذِينَ لَمْ يُقاتِلُوكُمْ﴾ مِن الكُفّار ﴿فِي الدِّين ولَمْ يُخْرِجُوكُمْ مِن دِياركُمْ أنْ تَبَرُّوهُمْ﴾ بَدَل اشْتِمال مِن الَّذِينَ ﴿وتُقْسِطُوا﴾ تَقْضُوا ﴿إلَيْهِمْ﴾ بِالقِسْطِ أيْ بِالعَدْلِ وهَذا قَبْل الأَمْر بِجِهادِهِمْ ﴿إنّ اللَّه يُحِبّ المُقْسِطِينَ﴾ العادِلِينَ
 
 ---
 
@@ -165,16 +1358,155 @@ In a dream, the Messenger of Allah ﷺ saw himself entering Makkah and performin
 
 ### Ibn Kathir (English)
 
+Perhaps Allah will make friendship between you and those whom you hold as enemies. And Allah has power (over all things), and Allah is Oft-Forgiving, Most Merciful (7)Allah does not forbid you to deal justly and kindly with those who fought not against you on account of religion nor drove you out of your homes. Verily, Allah loves those who deal with equity (8)It is only as regards those who fought against you on account of religion, and have driven you out of your homes, and helped to drive you out, that Allah forbids you to befriend them. And whosoever will befriend them, then such are the wrongdoers (9)
+
 Perhaps Allah will make a Friendship between You and Those, whom You hold as Enemies
+
 Allah said to His faithful servants, after ordering them to be enemies with the disbelievers,
-عَسَى اللَّهُ أَن يَجْعَلَ بَيْنَكُمْ وَبَيْنَ الَّذِينَ عَادَيْتُم مِّنْهُم مَّوَدَّةً
+
+عَسَى اللَّهُ أَنْ يَجْعَلَ بَيْنَكُمْ وَبَيْنَ الَّذِينَ عَادَيْتُمْ مِنْهُمْ مَوَدَّةً ۚ
+
 (Perhaps Allah will make friendship between you and those, whom you hold as enemies.) meaning affection after animosity, tenderness after coldness and coming together after parting from each other,
-وَاللَّهُ قَدِيرٌ
-(And Allah has...
+
+وَاللَّهُ قَدِيرٌ ۚ
+
+(And Allah has power (over all things),) Allah is able to gather opposites and bring together hearts, after feeling hostility and hardness. In this case, the hearts will come together in agreement, just as Allah said when He mentioned His favor on the Ansar,
+
+وَاذْكُرُوا نِعْمَتَ اللَّهِ عَلَيْكُمْ إِذْ كُنْتُمْ أَعْدَاءً فَأَلَّفَ بَيْنَ قُلُوبِكُمْ فَأَصْبَحْتُمْ بِنِعْمَتِهِ إِخْوَانًا وَكُنْتُمْ عَلَىٰ شَفَا حُفْرَةٍ مِنَ النَّارِ فَأَنْقَذَكُمْ مِنْهَا ۗ
+
+(And remember Allah's favor on you, for you were enemies one to another but He joined your hearts together, so that, by His grace, you became brethren and were on the brink of a pit of Fire, and He saved you from it.)(3:103) Also the Prophet ﷺ said to them,
+
+أَلَمْ أَجِدْكُمْ ضُلَّالًا فَهَدَاكُمُ اللهُ بِي، وَكُنْتُمْ مُتَفَرِّقِينَ فَأَلَّفَكُمُ اللهُ بِي؟
+
+(Did I not find you misguided, and Allah guided you through me; and divided, and Allah united [your hearts] through me?) Allah the Exalted said,
+
+وَإِنْ يُرِيدُوا أَنْ يَخْدَعُوكَ فَإِنَّ حَسْبَكَ اللَّهُ ۚ هُوَ الَّذِي أَيَّدَكَ بِنَصْرِهِ وَبِالْمُؤْمِنِينَ - وَأَلَّفَ بَيْنَ قُلُوبِهِمْ ۚ لَوْ أَنْفَقْتَ مَا فِي الْأَرْضِ جَمِيعًا مَا أَلَّفْتَ بَيْنَ قُلُوبِهِمْ وَلَٰكِنَّ اللَّهَ أَلَّفَ بَيْنَهُمْ ۚ إِنَّهُ عَزِيزٌ حَكِيمٌ
+
+(He it is Who has supported you with His help and with the believers. And He has united their hearts. If you had spent all that is in the earth, you could not have united their hearts, but Allah has united them. Certainly He is Almighty, All-Wise.)(8:62,63) And in the Hadith:
+
+أَحْبِبْ حَبِيبَكَ هَوْنًا مَا، فَعَسَى أَنْ يَكُونَ بَغِيضَكَ يَوْمًا مَا، وَأَبْغِضْ بَغِيضَكَ هَوْنًا مَا، فَعَسَى أَنْ يَكُونَ حَبِيبَكَ يَوْمًا مَا
+
+(Love your loved one moderately, because one day, he might become your enemy. Hate your hated one moderately, because one day, he might become your loved one.) Allah's statement,
+
+وَاللَّهُ غَفُورٌ رَحِيمٌ
+
+(And Allah is Oft-Forgiving, Most Merciful.) means, Allah forgives the disbelief of the disbelievers if they repent from it, returned to their Lord and surrendered to Him in Islam. Surely, He is the Oft-Forgiving, the Most-Merciful to those who repent to Him from their sins, no matter what type of the sin it is.
+
+The Permissibility of being Kind to Disbelievers who do not fight against the Religion
+
+And Allah's statement;
+
+لَا يَنْهَاكُمُ اللَّهُ عَنِ الَّذِينَ لَمْ يُقَاتِلُوكُمْ فِي الدِّينِ وَلَمْ يُخْرِجُوكُمْ مِنْ دِيَارِكُمْ
+
+(Allah does not forbid you with those who fought not against you on account of religion nor drove you out of your homes,) means, those who did not have a role in your expulsion. Therefore, Allah does not forbid you from being kind to the disbelievers who do not fight you because of the religion, such as women and weak disbelievers,
+
+أَنْ تَبَرُّوهُمْ
+
+(to deal kindly) to be gentle with them,
+
+وَتُقْسِطُوا إِلَيْهِمْ
+
+(and justly with those) to be fair with them
+
+إِنَّ اللَّهَ يُحِبُّ الْمُقْسِطِينَ
+
+(Verily, Allah loves those who deal with equity.) Imam Ahmad recorded that Asma' bint Abu Bakr said, "My mother, who was an idolatress at the time, came to me during the Treaty of Peace, the Prophet ﷺ conducted with the Quraysh. I came to the Prophet ﷺ and said, 'O Allah's Messenger! My mother came visiting, desiring something from me, should I treat her with good relations?' The Prophet ﷺ said,
+
+نَعَمْ صِلِي أُمَّكِ
+
+(Yes. Keep good relation with your mother.)" The Two Sahihs recorded this Hadith. Imam Ahmad recorded that 'Abdullah bin Zubayr said, "Qutaylah came visiting her daughter, Asma' bint Abi Bakr, with some gifts, such as Dibab, cheese and clarified (cooking) butter, and she was an idolatress at that time. Asma' refused to accept her mother's gifts and did not let her enter her house. 'A'ishah asked the Prophet ﷺ about his verdict and Allah sent down the Ayah,
+
+لَا يَنْهَاكُمُ اللَّهُ عَنِ الَّذِينَ لَمْ يُقَاتِلُوكُمْ فِي الدِّينِ
+
+(Allah does not forbid you with those who fought not against you on account of religion) until the end of the Ayah. Allah's Messenger ﷺ ordered Asma' to accept her mother's gifts and to let her enter her house." Allah's statement,
+
+إِنَّ اللَّهَ يُحِبُّ الْمُقْسِطِينَ
+
+(Allah loves those who deal with equity.) was duly explained in the Tafsir of Surat Al-Hujurat. We also mentioned the authentic Hadith,
+
+الْمُقْسِطُونَ عَلىٰ مَنَابِرَ مِنْ نُورٍ عَنْ يَمِينِ الْعَرْشِ، الَّذِينَ يَعْدِلُونَ فِي حُكْمِهِمْ وَأَهَالِيهِمْ وَمَا وَلُوا
+
+(The just, who are fair in their decisions, families and those under their authority, will be on podiums made of light, to the right of the Throne.)
+
+The Prohibition of being Kind towards Combatant Disbelievers
+
+Allah's statement,
+
+إِنَّمَا يَنْهَاكُمُ اللَّهُ عَنِ الَّذِينَ قَاتَلُوكُمْ فِي الدِّينِ وَأَخْرَجُوكُمْ مِنْ دِيَارِكُمْ وَظَاهَرُوا عَلَىٰ إِخْرَاجِكُمْ أَنْ تَوَلَّوْهُمْ ۚ
+
+(It is only as regards those who fought against you on account of religion, and have driven you out of your homes, and helped to drive you out that Allah forbids you to befriend them.)(60:9) means, 'Allah forbids you from being kind and befriending with the disbelievers who are openly hostile to you, those who fought against you, expelled you and helped to expel you. Allah the Exalted forbids you from being their friends and orders you to be their enemy.'
+
+Then Allah stresses His threat against being friends with them, by saying,
+
+وَمَنْ يَتَوَلَّهُمْ فَأُولَٰئِكَ هُمُ الظَّالِمُونَ
+
+(And whosoever will befriend them, then such are the wrongdoers.) As He said;
+
+يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَتَّخِذُوا الْيَهُودَ وَالنَّصَارَىٰ أَوْلِيَاءَ ۘ بَعْضُهُمْ أَوْلِيَاءُ بَعْضٍ ۚ وَمَنْ يَتَوَلَّهُمْ مِنْكُمْ فَإِنَّهُ مِنْهُمْ ۗ إِنَّ اللَّهَ لَا يَهْدِي الْقَوْمَ الظَّالِمِينَ
+
+(O you who believe! Take not the Jews and the Christians as protecting friends, they are but protecting friends of each other. And if any among you takes them (as protecting friends), then surely, he is one of them. Verily, Allah guides not those people who are the wrongdoers)(5:51)
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله تعالى :  إِنَّمَا يَنْهَاكُمُ اللَّهُ عَنِ الَّذِينَ قَاتَلُوكُمْ فِي الدِّينِ وَأَخْرَجُوكُمْ مِنْ دِيَارِكُمْ وَظَاهَرُوا عَلَى إِخْرَاجِكُمْ أَنْ تَوَلَّوْهُمْ وَمَنْ يَتَوَلَّهُمْ فَأُولَئِكَ هُمُ الظَّالِمُونَ (9)يقول تعالى ذكره: ( إِنَّمَا يَنْهَاكُمُ اللَّهُ ) أيها المؤمنون ( عَنِ الَّذِينَ قَاتَلُوكُمْ فِي الدِّينِ ) من كفار أهل مكة ( وَأَخْرَجُوكُمْ مِنْ دِيَارِكُمْ وَظَاهَرُوا عَلَى إِخْرَاجِكُمْ أَنْ تَوَلَّوْهُمْ ) يقول: وعاونوا من أخرجكم من دياركم على إخراجكم ...
+القول في تأويل قوله تعالى: ﴿إِنَّمَا يَنْهَاكُمُ اللَّهُ عَنِ الَّذِينَ قَاتَلُوكُمْ فِي الدِّينِ وَأَخْرَجُوكُمْ مِنْ دِيَارِكُمْ وَظَاهَرُوا عَلَى إِخْرَاجِكُمْ أَنْ تَوَلَّوْهُمْ وَمَنْ يَتَوَلَّهُمْ فَأُولَئِكَ هُمُ الظَّالِمُونَ (٩) ﴾
+
+يقول تعالى ذكره: ﴿إِنَّمَا يَنْهَاكُمُ اللَّهُ﴾ أيها المؤمنون ﴿عَنِ الَّذِينَ قَاتَلُوكُمْ فِي الدِّينِ﴾ من كفار أهل مكة ﴿وَأَخْرَجُوكُمْ مِنْ دِيَارِكُمْ وَظَاهَرُوا عَلَى إِخْرَاجِكُمْ أَنْ تَوَلَّوْهُمْ﴾ يقول: وعاونوا من أخرجكم من دياركم على إخراجكم أن تولوهم، فتكونوا لهم أولياء ونصراء: ﴿وَمَنْ يَتَوَلَّهُمْ﴾ يقول: ومن يجعلهم منكم أو من غيركم أولياء ﴿فَأُولَئِكَ هُمُ الظَّالِمُونَ﴾ يقول: فأولئك هم الذين تولوا غير الذي يجوز لهم أن يتولوهم، ووضعوا ولايتهم في غير موضعها، وخالفوا أمر الله في ذلك.
+
+وبنحو الذي قلنا في معنى قوله: ﴿الَّذِينَ قَاتَلُوكُمْ فِي الدِّينِ﴾ قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى؛ وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء، جميعًا، عن ابن أبي نجيح، عن مجاهد ﴿إِنَّمَا يَنْهَاكُمُ اللَّهُ عَنِ الَّذِينَ قَاتَلُوكُمْ فِي الدِّينِ﴾ قال كفار أهل مكة.
+
+* *
+
+القول في تأويل قوله تعالى: ﴿يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا جَاءَكُمُ الْمُؤْمِنَاتُ مُهَاجِرَاتٍ فَامْتَحِنُوهُنَّ اللَّهُ أَعْلَمُ بِإِيمَانِهِنَّ فَإِنْ عَلِمْتُمُوهُنَّ مُؤْمِنَاتٍ فَلا تَرْجِعُوهُنَّ إِلَى الْكُفَّارِ لا هُنَّ حِلٌّ لَهُمْ وَلا هُمْ يَحِلُّونَ لَهُنَّ﴾
+
+يقول تعالى ذكره للمؤمنين من أصحاب رسول الله ﷺ ﴿يَاأَيُّهَا الَّذِينَ آمَنُوا إِذَا جَاءَكُمُ﴾ النساء ﴿الْمُؤْمِنَاتُ مُهَاجِرَاتٍ﴾ من دار الكفر إلى دار الإسلام ﴿فَامْتَحِنُوهُنَّ﴾ وكانت محنة رسول الله ﷺ إياهن إذا قَدِمن مهاجرات.
+
+كما:-
+
+⁕ حدثنا أَبو كُريب، قال: ثنا يونس بن بكير، عن قيس بن الربيع، عن الأغرّ بن الصباح، عن خليفة بن حصين، عن أَبي نصر الأسديّ، قال: سُئِلَ ابن عباس: كيف كان امتحان رسول الله ﷺ النساء؟ قال: كان يمتحنهنّ بالله ما خرجت من بغض زوج، وبالله ما خرجت رغبة عن أرض إلى أرض، وبالله ما خرجت التماس دنيا، وبالله ما خرجت إلا حبًّا لله ورسوله.
+
+⁕ حدثنا أبو كُرَيب، قال: ثنا الحسن بن عطية، عن قيس، قال: أخبرنا الأغر بن الصباح، عن خليفة بن حصين، عن أَبي نصر، عن ابن عباس، في ﴿يَاأَيُّهَا الَّذِينَ آمَنُوا إِذَا جَاءَكُمُ الْمُؤْمِنَاتُ مُهَاجِرَاتٍ فَامْتَحِنُوهُنَّ﴾ قال كانت المرأة إذا أتت رسول الله ﷺ حلفها بالله ما خرجت ... ثم ذكر نحوه.
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن الزهريّ، أن عائشة قالت: ما كان رسول الله ﷺ يمتحن المؤمنات إلا بالآية، قال الله: ﴿إِذَا جَاءَكَ الْمُؤْمِنَاتُ يُبَايِعْنَكَ عَلَى أَنْ لا يُشْرِكْنَ بِاللَّهِ شَيْئًا﴾ ولا ولا".
+
+⁕ حدثني يونس بن عبد الأعلى، قال: أخبرنا ابن وهب، قال: أخبرني يونس، عن ابن شهاب، قال: أخبرني عروة بن الزبير، أن عائشة زوج النبيّ ﷺ قالت: كانت المؤمنات إذا هاجرن إلى رسول الله ﷺ يمتحنّ بقول الله: ﴿يَاأَيُّهَا النَّبِيُّ إِذَا جَاءَكَ الْمُؤْمِنَاتُ يُبَايِعْنَكَ﴾ ... إلى آخر الآية، قالت عائشة: فمن أقرّ بهذا من المؤمنات، فقد أقرّ بالمحبة، فكان رسول الله ﷺ إذا أقررن بذلك من قولهنّ قال لهنّ: انطلقن فقد بايعتكنّ، ولا والله ما مست يد رسول الله ﷺ يد امرأة قطّ، غير أنه بايعهنّ بالكلام؛ قالت عائشة: والله ما أخذ رسول الله ﷺ على النساء قطّ، إلا بما أمره الله عزّ وجلّ، وكان يقول لهنّ إذا أخذ عليهنّ قد بايعتكنّ كلامًا.
+
+⁕ حدثني محمد بن سعد، قال: ثني أبى، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس، قوله: ﴿يَاأَيُّهَا الَّذِينَ آمَنُوا إِذَا جَاءَكُمُ الْمُؤْمِنَاتُ مُهَاجِرَاتٍ﴾ ... إلى قوله: ﴿عَلِيمٌ حَكِيمٌ﴾ كان امتحانهن أن يشهدن أن لا إله إلا الله، وأن محمدًا عبده ورسوله.
+
+⁕ حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى؛ وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء، جميعًا، عن ابن أبي نجيح، عن مجاهد، قوله: ﴿فَامْتَحِنُوهُنَّ﴾ قال: سلوهنّ ما جاء بهنّ فإن كان جاء بهنّ غضب على أزواجهنّ، أو سخطة، أو غيره، ولم يؤمنّ، فارجعوهنّ إلى أزواجهنّ.
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة ﴿فَامْتَحِنُوهُنَّ﴾ كانت محنتهنّ أن يستحلفن بالله ما أخرجكنّ النشوز، وما أخرجكنّ إلا حبّ الإسلام وأهله، وحِرْصٌ عليه، فإذا قلن ذلك قُبل ذلك منهنّ.
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة، في قوله: ﴿فَامْتَحِنُوهُنَّ﴾ قال: يحلفن ما خرجن إلا رغبة في الإسلام، وحبًّا لله ورسوله.
+
+⁕ حدثنا ابن حُمَيد، قال: ثنا مهران، عن سفيان، عن أبيه أو عكرِمة ﴿إِذَا جَاءَكُمُ الْمُؤْمِنَاتُ مُهَاجِرَاتٍ فَامْتَحِنُوهُنَّ﴾ قال: يقال: ما جاء بك إلا حبّ الله، ولا جاء بك عشق رجل منا، ولا فرارا من زوجك، فذلك قوله: ﴿فَامْتَحِنُوهُنَّ﴾ .
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد:" كانت المرأة من المشركين إذا غضبت على زوجها، وكان بينه وبينها كلام، قالت: والله لأهاجرنّ إلى محمد ﷺ وأصحابه، فقال الله عز وجل: ﴿إِذَا جَاءَكُمُ الْمُؤْمِنَاتُ مُهَاجِرَاتٍ فَامْتَحِنُوهُنَّ﴾ إن كان الغضب أتى بها فردّوها، وإن كان الإسلام أتى بها فلا تردّوها.
+
+⁕ حدثنا يونس، قال: أخبرنا ابن وهب، قال: ثني عمرو بن الحارث، عن بكير بن الأشجّ، قال: كان امتحانهنّ إنه لم يخرجك إلا الدين.
+
+* *
+
+وقوله: ﴿اللَّهُ أَعْلَمُ بِإِيمَانِهِنَّ﴾
+
+يقول: الله أعلم بإيمان من جاء من النساء مهاجرات إليكم.
+
+* *
+
+وقوله: ﴿فَإِنْ عَلِمْتُمُوهُنَّ مُؤْمِنَاتٍ فَلا تَرْجِعُوهُنَّ إِلَى الْكُفَّارِ﴾
+
+يقول: فإن أقررن عند المحنة بما يصحّ به عقد الإيمان لهنّ، والدخول في الإسلام، فلا تردوهنّ عند ذلك إلى الكفار. وإنما قيل ذلك للمؤمنين، لأن العهد كان جرى بين رسول الله ﷺ وبين مشركي قريش في صلح الحديبية أن يرد المسلمون إلى المشركين من جاءهم مسلمًا، فأبطل ذلك الشرط في النساء إذا جئن مؤمنات مهاجرات فامتحنّ، فوجدهنّ المسلمون مؤمنات، وصح ذلك عندهم مما قد ذكرنا قبل، وأمروا أن لا يردّوهنّ إلى المشركين إذا علم أنهنّ مؤمنات، وقال جل ثناؤه لهم: ﴿فَإِنْ عَلِمْتُمُوهُنَّ مُؤْمِنَاتٍ فَلا تَرْجِعُوهُنَّ إِلَى الْكُفَّارِ لا هُنَّ حِلٌّ لَهُمْ وَلا هُمْ يَحِلُّونَ لَهُنَّ﴾ يقول: لا المؤمنات حل للكفار، ولا الكفار يحلون للمؤمنات.
+
+وبنحو الذي قلنا في ذلك جاءت الآثار.
+
+ذكر بعض ما روي في ذلك من الأثر:
+
+⁕ حدثنا ابن حميد، قال: ثنا سلمة، عن محمد بن إسحاق، عن الزهريّ، قال: "دخلت على عُرْوة بن الزُّبير، وهو يكتب كتابًا إلى ابن أَبي هُنيد صاحب الوليد بن عبد الملك، وكتب إليه يسأله عن قول الله عزّ وجلّ: (إِذَا جَاءَكَ
+
+الْمُؤْمِنَاتُ مُهَاجِرَاتٍ) ... إلى قوله: ﴿وَاللَّهُ عَلِيمٌ حَكِيمٌ﴾ وكتب إليه عُرْوَة بن الزُّبير: إن رسول الله ﷺ كان صالح قريشًا عام الحديبية على أن يردّ عليهم من جاء بغير إذن وليه؛ فلما هاجر النساء إلى رسول الله ﷺ وإلى الإسلام، أَبى الله أن يُرْدَدْن إلى المشركين، إذا هنّ امْتَحنّ محنة الإسلام، فعرفوا أنهنّ إنما جئن رغبة فيه".
 
 ### al-Muyassar (Arabic)
 
@@ -182,7 +1514,7 @@ Allah said to His faithful servants, after ordering them to be enemies with the 
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿إنّما يَنْهاكُمْ اللَّه عَنْ الَّذِينَ قاتَلُوكُمْ فِي الدِّين وأَخْرَجُوكُمْ مِن دِياركُمْ وظاهَرُوا﴾ عاوَنُوا ﴿عَلى إخْراجكُمْ أنْ تُوَلُّوهُمْ﴾ بَدَل اشْتِمال مِن الَّذِينَ أيْ تَتَّخِذُوهُمْ أوْلِياء
 
 ---
 
@@ -190,22 +1522,72 @@ Allah said to His faithful servants, after ordering them to be enemies with the 
 
 ### Ibn Kathir (English)
 
+And who does more wrong than the one who invents a lie against Allah, while he is being invited to Islam? And Allah guides not the people who are wrongdoers (7)They intend to put out the Light of Allah with their mouths. But Allah will bring His Light to perfection even though the disbelievers hate (it)(8)He it is Who has sent His Messenger with guidance and the religion of truth to make it victorious over all religions even though idolators hate (it)(9)
+
 The Most Unjust among all People
+
 Allah said,
-وَمَنْ أَظْلَمُ مِمَّنِ افْتَرَى عَلَى اللَّهِ الْكَذِبَ وَهُوَ يُدْعَى إِلَى الإِسْلاَمِ
-(And who does more wrong than the one who invents a lie against Allah, while he is being invited to Islam) meaning, none is more unjust than he who lies about Allah and calls upon rivals and associates partners with Him, even while he is being invited to Tawhid and sincerely worshipping Him. This is why Allah said,
-وَاللَّهُ لاَ يَهْدِى الْقَوْمَ الظَّـلِمِينَ...
+
+وَمَنْ أَظْلَمُ مِمَّنِ افْتَرَىٰ عَلَى اللَّهِ الْكَذِبَ وَهُوَ يُدْعَىٰ إِلَى الْإِسْلَامِ ۚ
+
+(And who does more wrong than the one who invents a lie against Allah, while he is being invited to Islam?) meaning, none is more unjust than he who lies about Allah and calls upon rivals and associates partners with Him, even while he is being invited to Tawhid and sincerely worshipping Him. This is why Allah said,
+
+وَاللَّهُ لَا يَهْدِي الْقَوْمَ الظَّالِمِينَ
+
+(And Allah guides not the people who are wrongdoers.) Allah said,
+
+يُرِيدُونَ لِيُطْفِئُوا نُورَ اللَّهِ بِأَفْوَاهِهِمْ
+
+(They intend to put out the Light of Allah with their mouths.) indicating that the disbelievers will try to contradict the truth with falsehood. Their attempts are similar to one's attempt to extinguish the sun with his mouth, which is impossible. Likewise is the case of their attempt to extinguish truth. So Allah said,
+
+وَاللَّهُ مُتِمُّ نُورِهِ وَلَوْ كَرِهَ الْكَافِرُونَ - هُوَ الَّذِي أَرْسَلَ رَسُولَهُ بِالْهُدَىٰ وَدِينِ الْحَقِّ لِيُظْهِرَهُ عَلَى الدِّينِ كُلِّهِ وَلَوْ كَرِهَ الْمُشْرِكُونَ
+
+(But Allah will bring His Light to perfection even though the disbelievers hate (it). He it is Who has sent His Messenger with guidance and the religion of truth to make it victorious over all (other) religions even though the idolators hate (it).)
+
+We explained the meanings of similar Ayat before, in the Tafsir of Surah Bara'ah. All praise and thanks are due to Allah.
 
 ### al-Tabari (Arabic)
 
-يقول تعالى ذكره: الله الذي أرسل رسوله محمدًا بالهدى ودين الحقّ ، يعني ببيان الحقّ ودين الحقّ يعني: وبدين الله، وهو الإسلام.وقوله: (لِيُظْهِرَهُ عَلَى الدِّينِ كُلِّهِ ) يقول: ليظهر دينه الحقّ الذي أرسل به رسوله على كلّ دين سواه، وذلك عند نـزول عيسى ابن مريم، وحين تصير الملة واحدة، فلا يكون دين غير الإسلام.كما حدثنا ابن حُمَيد، قال: ثنا مهران، عن سفيان، عن أَبي المقدام ثابت بن هرمز، عن أَبي هريرة ( لِيُظْهِرَهُ عَلَى الدِّينِ كُلِّهِ ) قال: خروج عيسى ابن مريم، وقد ذكرنا اختلاف المختلفين في معن...
+القول في تأويل قوله تعالى: ﴿يُرِيدُونَ لِيُطْفِئُوا نُورَ اللَّهِ بِأَفْوَاهِهِمْ وَاللَّهُ مُتِمُّ نُورِهِ وَلَوْ كَرِهَ الْكَافِرُونَ (٨) ﴾
+
+يقول تعالى ذكره: يريد هؤلاء القائلون لمحمد ﷺ: هذا ساحر مبين ﴿لِيُطْفِئُوا نُورَ اللَّهِ بِأَفْوَاهِهِمْ﴾ يقول: يريدون ليبطلوا الحق الذي بعث الله به محمدا ﷺ بأفواههم يعني بقولهم إنه ساحر، وما جاء به سحر، ﴿وَاللَّهُ مُتِمُّ نُورِهِ﴾ يقول: الله معلن الحقّ، ومظهر دينه، وناصر محمدًا عليه الصلاة والسلام على من عاداه، فذلك إتمام نوره، وعنى بالنور في هذا الموضع الإسلام.
+
+وكان ابن زيد يقول: عُنِي به القرآن.
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال، قال ابن زيد، في قوله: ﴿لِيُطْفِئُوا نُورَ اللَّهِ بِأَفْوَاهِهِمْ﴾ قال: نور القرآن.
+
+واختلفت القرّاء في قراءة قوله تعالى: ﴿وَاللَّهُ مُتِمُّ نُورِهِ﴾ فقرأته عامة قرّاء المدينة والبصرة وبعض الكوفيين ﴿مُتِمٌ نُورهِ﴾ بالنصب. وقرأه بعض قرّاء مكة وعامة قرّاء الكوفة ﴿مُتِمُّ﴾ بغير تنوين نوره خفضا وهما قراءتان معروفتان متقاربتا المعنى، فبأيتهما قرأ القارئ فمصيب عندنا.
+
+* *
+
+وقوله: ﴿وَلَوْ كَرِهَ الْكَافِرُونَ﴾
+
+يقول: والله مظهر دينه، وناصر رسوله، ولو كره الكافرون بالله.
+
+* *
+
+القول في تأويل قوله تعالى: ﴿هُوَ الَّذِي أَرْسَلَ رَسُولَهُ بِالْهُدَى وَدِينِ الْحَقِّ لِيُظْهِرَهُ عَلَى الدِّينِ كُلِّهِ وَلَوْ كَرِهَ الْمُشْرِكُونَ (٩) ﴾
+
+يقول تعالى ذكره: الله الذي أرسل رسوله محمدًا بالهدى ودين الحقّ ، يعني ببيان الحقّ ودين الحقّ يعني: وبدين الله، وهو الإسلام.
+
+* *
+
+وقوله: ﴿لِيُظْهِرَهُ عَلَى الدِّينِ كُلِّهِ﴾
+
+يقول: ليظهر دينه الحقّ الذي أرسل به رسوله على كلّ دين سواه، وذلك عند نزول عيسى ابن مريم، وحين تصير الملة واحدة، فلا يكون دين غير الإسلام.
+
+كما:-
+
+⁕ حدثنا ابن حُمَيد، قال: ثنا مهران، عن سفيان، عن أَبي المقدام ثابت بن هرمز، عن أَبي هريرة ﴿لِيُظْهِرَهُ عَلَى الدِّينِ كُلِّهِ﴾ قال: خروج عيسى ابن مريم، وقد ذكرنا اختلاف المختلفين في معنى قوله: ﴿لِيُظْهِرَهُ عَلَى الدِّينِ كُلِّهِ﴾ والصواب عندنا من القول في ذلك بعلله فيما مضى، بما أغنى عن إعادته في هذا الموضع.
+
+⁕ وقد حدثني عبد الحميد بن جعفر، قال: ثنا الأسود بن العلاء، عن أَبي سلمة بن عبد الرحمن، عن عائشة قالت: إن رسول الله ﷺ كان يقول: "لا يَذْهَبُ اللَّيْلُ والنَّهَارُ حَتى تُعْبَدَ اللاتُ وَالعُزَّى"، فقالت عائشة: والله يا رسول الله إن كنت لأظنّ حين أنزل الله ﴿هُوَ الَّذِي أَرْسَلَ رَسُولَهُ بِالْهُدَى وَدِينِ الْحَقِّ لِيُظْهِرَهُ عَلَى الدِّينِ كُلِّهِ﴾ ... الآية، أن ذلك سيكون تامًا، فقال: "إنَّهُ سَيَكُونُ مِنْ ذلِكَ مَا شَاءَ اللهُ، ثُمَّ يَبْعَثُ اللهُ رِيحًا طَيِّبَةً، فَيَتَوَّفَّى مَنْ كاَنَ فِي قَلْبِهِ مِثْقَالُ حَبَّةٍ مِنْ خَرْدَلٍ مَنْ خَيْرٍ، فَيَبْقَى مَنْ لا خَيْرَ فِيهِ، فَيْرجِعُونَ إلَى دينَ آبَائِهِمْ".
 
 ### al-Muyassar (Arabic)
 
-الله هو الذي أرسل رسوله محمدًا بالقرآن ودين الإسلام؛ ليعليه على كل الأديان المخالفة له، ولو كره المشركون ذلك.
+الله هو الذي أرسل رسوله محمدًا ﷺ بالقرآن ودين الإسلام؛ ليعليه على كل الأديان المخالفة له، ولو كره المشركون ذلك.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿هُوَ الَّذِي أرْسَلَ رَسُوله بِالهُدى ودِين الحَقّ لِيُظْهِرهُ﴾ يُعْلِيه ﴿عَلى الدِّين كُلّه﴾ جَمِيع الأَدْيان المُخالِفَة لَهُ ﴿ولَوْ كَرِهَ المُشْرِكُونَ﴾ ذَلِكَ
 
 ---

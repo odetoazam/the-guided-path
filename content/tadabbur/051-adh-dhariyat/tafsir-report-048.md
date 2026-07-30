@@ -1,6 +1,6 @@
 # Tafsir Cross-Reference Report
 
-Generated: 2026-07-15
+Generated: 2026-07-30
 Ayahs referenced: 1
 Tafsir sources: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), al-Jalalayn (Arabic)
 
@@ -14,7 +14,47 @@ With Hands We constructed the heaven. Verily, We are able to expand the vastness
 
 Proofs of Allah's Oneness abound in the Creation of the Heavens and the Earth
 
-Alla...
+Allah reminds us of the creating of the higher and lower worlds,
+
+وَالسَّمَاءَ بَنَيْنَاهَا
+
+(We constructed the heaven.) meaning, 'We made it as a high roof, protected from falling,'
+
+بِأَيْدٍ
+
+(with Hands), meaning, with strength, according to 'Abdullah bin 'Abbas, Mujahid, Qatadah, Ath-Thawri and several others,
+
+وَإِنَّا لَمُوسِعُونَ
+
+(Verily, We are able to extend the vastness of space thereof.) means, 'We made it vast and We brought its roof higher without pillars to support it, and thus it is hanging independently.'
+
+وَالْأَرْضَ فَرَشْنَاهَا
+
+(And We have made the earth a Firash), meaning, 'We have made it a resting place for the created,'
+
+فَنِعْمَ الْمَاهِدُونَ
+
+(how excellent a spreader (thereof) are We!), meaning, 'We spread it for its inhabitants,'
+
+وَمِنْ كُلِّ شَيْءٍ خَلَقْنَا زَوْجَيْنِ
+
+(And of everything We have created pairs,) meaning, all the created are in pairs, the heaven and earth, night and day, sun and moon, land and sea, light and darkness, faith and disbelief, death and life, misery and happiness, Paradise and Fire, in addition to the animals and plants. The statement of Allah the Exalted,
+
+لَعَلَّكُمْ تَذَكَّرُونَ
+
+(that you may remember.) and know that the Creator, Allah, is One without partners,
+
+فَفِرُّوا إِلَى اللَّهِ ۖ
+
+(So, flee to Allah.) meaning, seek shelter with Him and trust in Him in all of your affairs,
+
+إِنِّي لَكُمْ مِنْهُ نَذِيرٌ مُبِينٌ - وَلَا تَجْعَلُوا مَعَ اللَّهِ إِلَٰهًا آخَرَ ۖ
+
+(Verily, I am a plain warner to you from Him. And set not up any other god along with Allah.) do not associate any partners with Him,
+
+إِنِّي لَكُمْ مِنْهُ نَذِيرٌ مُبِينٌ
+
+(Verily, I am a plain warner to you from Him.)
 
 ### al-Tabari (Arabic)
 
@@ -28,7 +68,31 @@ Alla...
 
 ⁕ حدثني عليّ، قال: ثنا أبو صالح، قال: ثني معاوية، عن عليّ، عن ابن عباس، قوله ﴿وَالسَّمَاءَ بَنَيْنَاهَا بِأَيْدٍ﴾ يقول: بقوة.
 
-⁕ حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى؛ وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء جميعا، عن ابن أبي نجي...
+⁕ حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى؛ وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء جميعا، عن ابن أبي نجيح، عن مجاهد، قوله ﴿بِأَيْدٍ﴾ قال: بقوة.
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة ﴿وَالسَّمَاءَ بَنَيْنَاهَا بِأَيْدٍ﴾ : أي بقوّة.
+
+⁕ حدثنا ابن المثنى، قال: ثنا محمد بن جعفر، قال: ثنا شعبة، عن منصور أنه قال في هذه الآية ﴿وَالسَّمَاءَ بَنَيْنَاهَا بِأَيْدٍ﴾ قال: بقوة.
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله ﴿وَالسَّمَاءَ بَنَيْنَاهَا بِأَيْدٍ﴾ قال: بقوة.
+
+⁕ حدثنا ابن حُمَيد، قال: ثنا مهران، عن سفيان ﴿وَالسَّمَاءَ بَنَيْنَاهَا بِأَيْدٍ﴾ قال: بقوة.
+
+* *
+
+وقوله ﴿وَإِنَّا لَمُوسِعُونَ﴾
+
+يقول: لذو سعة بخلقها وخلق ما شئنا أن نخلقه وقدرة عليه. ومنه قوله ﴿عَلَى الْمُوسِعِ قَدَرُهُ وَعَلَى الْمُقْتِرِ قَدَرُهُ﴾ [البقرة: ٢٣٦] يراد به القويّ.
+
+وقال ابن زيد في ذلك ما:-
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله ﴿وَإِنَّا لَمُوسِعُونَ﴾ قال: أوسعها جلّ جلاله.
+
+* *
+
+وقوله ﴿وَالأرْضَ فَرَشْنَاهَا﴾
+
+يقول تعالى ذكره: والأرض جعلناها فراشا للخلق ﴿فَنِعْمَ الْمَاهِدُونَ﴾ يقول: فنعم الماهدون لهم نحن.
 
 ### al-Muyassar (Arabic)
 

@@ -1,6 +1,6 @@
 # Tafsir Cross-Reference Report
 
-Generated: 2026-04-02
+Generated: 2026-07-30
 Ayahs referenced: 5
 Tafsir sources: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), al-Jalalayn (Arabic)
 
@@ -10,24 +10,217 @@ Tafsir sources: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), 
 
 ### Ibn Kathir (English)
 
+Verily! It is Allah Who causes the seed grain and the fruit stone to split and sprout. He brings forth the living from the dead, and it is He Who brings forth the dead from the living. Such is Allah, then how are you deluded away from the truth (95)(He is the) Cleaver of the daybreak. He has appointed the night for resting, and the sun and the moon for reckoning. Such is the measuring of the Almighty, the All-Knowing (96)It is He Who has set the stars for you, so that you may guide your course with their help through the darkness of the land and the sea. We have (indeed) explained in detail Our Ayat for people who know (97)
+
 Recognizing Allah Through Some of His Ayat
+
 Allah states that He causes the seed grain and the fruit stone to split and sprout in the ground, producing various types, colors, shapes, and tastes of grains and produce. The Ayah,
-فَالِقُ الْحَبِّ وَالنَّوَى
+
+فَالِقُ الْحَبِّ وَالنَّوَىٰ
+
 (Who causes the seed grain and the fruit stone to split and sprout.) is explained by the next statement,
-يُخْرِجُ الْحَىَّ مِنَ الْمَيِّتِ وَمُخْرِجُ الْمَيِّتِ مِنَ الْحَىِّ
-(He brings forth the living from the dead, and it is He Who brings f...
+
+يُخْرِجُ الْحَيَّ مِنَ الْمَيِّتِ وَمُخْرِجُ الْمَيِّتِ مِنَ الْحَيِّ
+
+(He brings forth the living from the dead, and it is He Who brings forth the deed from the living.) meaning, He brings the living plant from the seed grain and the fruit stone, which is a lifless and inanimate object. Allah said,
+
+وَآيَةٌ لَّهُمُ الْأَرْضُ الْمَيْتَةُ أَحْيَيْنَاهَا وَأَخْرَجْنَا مِنْهَا حَبًّا فَمِنْهُ يَأْكُلُونَ
+
+(And a sign for them is the dead land. We gave it life, and We brought forth from it grains, so that they eat thereof.)[36:33] until,
+
+وَمِنْ أَنفُسِهِمْ وَمِمَّا لَا يَعْلَمُونَ
+
+(as well as of their own (human) kind (male and female), and of that which they know not.)[36:36] Allah's statement,
+
+وَمُخْرِجُ الْمَيِّتِ مِنَ الْحَيِّ
+
+(and it is He Who brings forth the dead from the living.)
+
+There are similar expressions in meaning such as, He brings the egg from the chicken, and the opposite. Others said that it means, He brings the wicked offspring from the righteous parent and the opposite, and there are other possible meanings for the Ayah. Allah said,
+
+ذَٰلِكُمُ اللَّهُ
+
+(Such is Allah,) meaning, He Who does all this, is Allah, the One and Only without partners,
+
+فَأَنَّىٰ تُؤْفَكُونَ
+
+(then how are you deluded away from the truth?) meaning, look how you are deluded from Truth to the falsehood of worshipping others besides Allah. Allah's statement,
+
+فَالِقُ الْإِصْبَاحِ وَجَعَلَ اللَّيْلَ سَكَنًا
+
+((He is the) Cleaver of the daybreak. He has appointed the night for resting,) means, He is the Creator of light and darkness. Allah said in the beginning of the Surah,
+
+وَجَعَلَ الظُّلُمَاتِ وَالنُّورَ
+
+(And originated the darkness and the light.)[6:1]
+
+Indeed, Allah causes the darkness of the night to disappear and brings forth the day, thus bringing brighteness to the world and light to the horizon, while dissipating darkness and ending the night with its depth of darkness and starting the day with its brightness and light. Allah said,
+
+يُغْشِي اللَّيْلَ النَّهَارَ يَطْلُبُهُ حَثِيثًا
+
+(He brings the night as a cover over the day, seeking it rapidly.)[7:54]
+
+In this Ayah, Allah reminds of His ability to create diversified things in opposites, testifying to His perfect greatness and supreme power. Allah states that He is the Cleaver of the daybreak and mentioned its opposite, when He said,
+
+وَجَعَلَ اللَّيْلَ سَكَنًا
+
+(He has appointed the night for resting,) meaning, created darkness, in order for the creation to become halt and rest during it. Allah said in other Ayat,
+
+وَالضُّحَىٰ - وَاللَّيْلِ إِذَا سَجَىٰ
+
+(By the forenoon. And by the night when it is still.)[93:1-2],
+
+وَاللَّيْلِ إِذَا يَغْشَىٰ - وَالنَّهَارِ إِذَا تَجَلَّىٰ
+
+(By the night as it envelops. And by the day as it appears in brightness.)[92:1-2] and,
+
+وَالنَّهَارِ إِذَا جَلَّاهَا - وَاللَّيْلِ إِذَا يَغْشَاهَا
+
+(And by the day as it shows up (the sun's) brightness. And by the night as it conceals it.)[91:3-4] Allah's statement,
+
+وَالشَّمْسَ وَالْقَمَرَ حُسْبَانًا
+
+(...And the sun and the moon for reckoning.) means, the sun and the moon have specific orbits, according to a term appointed with magnificent precision that never changes or alters. Both the sun and the moon have distinct positions that they assume in summer and winter, effecting changes in the length of night and day. Allah said in other Ayat,
+
+هُوَ الَّذِي جَعَلَ الشَّمْسَ ضِيَاءً وَالْقَمَرَ نُورًا وَقَدَّرَهُ مَنَازِلَ
+
+(It is He Who made the sun a shining thing and the Moon as a light and measured out stages for it.)[10:5],
+
+لَا الشَّمْسُ يَنبَغِي لَهَا أَن تُدْرِكَ الْقَمَرَ وَلَا اللَّيْلُ سَابِقُ النَّهَارِ وَكُلٌّ فِي فَلَكٍ يَسْبَحُونَ
+
+(It is not for the sun to overtake the moon, nor does the night outstrip the day. They all float, each in an orbit.)[36:40], And,
+
+وَالشَّمْسَ وَالْقَمَرَ وَالنُّجُومُ مُسَخَّرَاتٌ بِأَمْرِهِ
+
+(The sun and the moon; and the stars are subjected by His command.)[16:12] Allah's statement,
+
+ذَٰلِكَ تَقْدِيرُ الْعَزِيزِ الْعَلِيمِ
+
+(Such is the measuring of the Almighty, the All-Knowing.) means, all of this occurs according to the decree and due measurement of the Almighty Who is never resisted or contradicted. He is the Knower of all things and nothing ever escapes His knowledge, not even the weight of an atom on earth or in heavens. Allah often mentions the creation of the night, the day, the sun and the moon and then ends His Speech by mentioning His attributes of power and knowledge, as in this Ayah above [6:96], and in His statement,
+
+وَآيَةٌ لَّهُمُ اللَّيْلُ نَسْلَخُ مِنْهُ النَّهَارَ فَإِذَا هُم مُّظْلِمُونَ - وَالشَّمْسُ تَجْرِي لِمُسْتَقَرٍّ لَّهَا ذَٰلِكَ تَقْدِيرُ الْعَزِيزِ الْعَلِيمِ
+
+(And a sign for them is the night, We withdraw therefrom the day, and behold, they are in darkness. And the sun runs on its fixed course for a term. That is the decree of the Almighty, the All-Knowing.)[36:37-38]
+
+In the beginning of Surat Ha-Mim As-Sajdah, after mentioning the creation of the heavens and earth and all that is in them, Allah said:
+
+وَزَيَّنَّا السَّمَاءَ الدُّنْيَا بِمَصَابِيحَ وَحِفْظًا ذَٰلِكَ تَقْدِيرُ الْعَزِيزِ الْعَلِيمِ
+
+(And We adorned the nearest (lowest) heaven with lamps (stars) to be an adornment as well as to guard. Such is the decree of Him, the Almighty, the All-Knower.)[41:12] Allah said next,
+
+وَهُوَ الَّذِي جَعَلَ لَكُمُ النُّجُومَ لِتَهْتَدُوا بِهَا فِي ظُلُمَاتِ الْبَرِّ وَالْبَحْرِ
+
+(It is He Who has set the stars for you, so that you may guide your course with their help through the darkness of the land and the sea.)
+
+Some of the Salaf said; Whoever believes in other than three things about these stars, then he has made a mistake, and lied against Allah. Indeed Allah made them as decorations for the heavens, and to shoot at the Shayatin, and for directions in the dark recesses of the land and sea. Then, Allah said,
+
+قَدْ فَصَّلْنَا الْآيَاتِ
+
+(We have explained in detail Our Ayat.) meaning, We made them clear and plain,
+
+لِقَوْمٍ يَعْلَمُونَ
+
+(for people who know.) who have sound minds and are able to recognize the truth and avoid falsehood.
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله :  إِنَّ اللَّهَ فَالِقُ الْحَبِّ وَالنَّوَىقال أبو جعفر: وهذا تنبيهٌ من الله جل ثناؤه هؤلاء العادلين به الآلهة والأوثان على موضع حجّته عليهم, وتعريفٌ منه لهم خطأ ما هم عليه مقيمون من إشراك الأصنام في عبادتهم إياه. يقول تعالى ذكره: إن الذي له العبادة، أيها الناس، دون كل ما تعبدون من الآلهة والأوثان, هو الله الذي فَلق الحبَّ = يعني: شق الحبَّ من كل ما ينبت من النبات, فأخرج منه الزرع =" والنوى "، من كل ما يغرس مما له نَواة, فأخرج منه الشجر.* * *و " الحبّ" جمع " الحبة ", و " ...
+القول في تأويل قوله: ﴿إِنَّ اللَّهَ فَالِقُ الْحَبِّ وَالنَّوَى﴾
+
+قال أبو جعفر: وهذا تنبيهٌ من الله جل ثناؤه هؤلاء العادلين به الآلهة والأوثان على موضع حجّته عليهم، وتعريفٌ منه لهم خطأ ما هم عليه مقيمون من إشراك الأصنام في عبادتهم إياه. يقول تعالى ذكره: إن الذي له العبادة، أيها الناس، دون كل ما تعبدون من الآلهة والأوثان، هو الله الذي فَلق الحبَّ = يعني: شق الحبَّ من كل ما ينبت من النبات، فأخرج منه الزرع ="والنوى"، من كل ما يغرس مما له نَواة، فأخرج منه الشجر.
+
+* *
+
+و"الحبّ" جمع"الحبة"، و"النوى" جمع"النواة".
+
+* *
+
+وبنحو الذي قلنا في ذلك قال جماعة من أهل التأويل.
+
+ذكر من قال ذلك:
+
+١٣٥٨١ - حدثني محمد بن الحسين قال، حدثنا أحمد بن المفضل قال، حدثنا أسباط، عن السدي:"إن الله فالق الحب والنوى"، أما"فالق الحب والنوى": ففالق الحب عن السنبلة، وفالق النواة عن النخلة.
+
+١٣٥٨٢ - حدثنا محمد بن عبد الأعلى قال، حدثنا محمد بن ثور، عن معمر، عن قتادة:"فالق الحب والنوى"، قال: يفلق الحب والنوى عن النبات.
+
+١٣٥٨٣- حدثني يونس قال، أخبرنا ابن وهب قال: قال ابن زيد في قوله:"فالق الحب والنوى"، قال: الله فالق ذلك، فلقه فأنبت منه ما أنبت. فلق النواة فأخرج منها نَبَات نخلة، وفلق الحبة فأخرج نبات الذي خلق.
+
+* *
+
+وقال آخرون: معنى"فالق"، خالق.
+
+ذكر من قال ذلك:
+
+١٣٥٨٤ - حدثنا هناد بن السري قال، حدثنا مروان بن معاوية، عن جويبر، عن الضحاك في قوله:"إن الله فالق الحب والنوى"، قال: خالق الحب والنوى.
+
+١٣٥٨٥- حدثنا ابن وكيع قال، حدثنا المحاربي، عن جويبر، عن الضحاك، مثله.
+
+١٣٥٨٦ - حدثني محمد بن سعد قال، حدثني أبي قال، حدثني عمي قال، حدثني أبي، عن أبيه، عن ابن عباس قوله:"إن الله فالق الحب والنوى"، قال: خالق الحب والنوى.
+
+* *
+
+وقال آخرون: معنى ذلك: أنه فلق الشقّ الذي في الحبّة والنواة.
+
+ذكر من قال ذلك:
+
+١٣٥٨٧ - حدثني محمد بن عمرو قال، حدثنا أبو عاصم قال، حدثنا عيسى، عن ابن أبي نجيح، عن مجاهد في قول الله:"فالق الحب والنوى"، قال: الشقان اللذان فيهما.
+
+١٣٥٨٨- حدثني المثنى قال، حدثنا أبو حذيفة قال، حدثنا شبل، عن ابن أبي نجيح، عن مجاهد، مثله.
+
+١٣٥٨٩- حدثني المثنى قال، حدثنا معلى بن أسد قال، حدثنا خالد، عن حصين، عن أبي مالك في قول الله:"إن الله فالق الحب والنوى"، قال: الشق الذي يكون في النواة وفي الحنطة.
+
+١٣٥٩٠- حدثنا ابن حميد قال، حدثنا حكام، عن عنبسة، عن محمد بن عبد الرحمن بن أبي ليلى، عن القاسم بن أبي بزة، عن مجاهد:"فالق الحب والنوى"، قال: الشقان اللذان فيهما.
+
+١٣٥٩١ - حدثت عن الحسين بن الفرج قال، سمعت أبا معاذ قال، حدثني عبيد بن سليمان قال، سمعت الضحاك يقول في قوله:"فالق الحب والنوى"، يقول: خالق الحب والنوى، يعني كلّ حبة.
+
+* *
+
+قال أبو جعفر: وأولى الأقوال في ذلك بالصواب عندي، ما قدّمنا القول به. وذلك أن الله جل ثناؤه أتبع ذلك بإخباره عن إخراجه الحي من الميت والميت من الحي، فكان معلومًا بذلك أنه إنَّما عنى بإخباره عن نفسه أنّه فالق الحب عن النبات، والنوى عن الغُرُوس والأشجار، كما هو مخرج الحي من الميت، والميّت من الحي.
+
+* *
+
+وأما القول الذي حكي عن الضحاك في معنى"فالق"، أنه خالق، فقولٌ = إن لم يكن أراد به أنّه خالق منه النبات والغُروس بفلقه إياه = لا أعرف له وجهًا، لأنه لا يعرف في كلام العرب:"فلق الله الشيء"، بمعنى: خلق.
+
+* *
+
+القول في تأويل قوله: ﴿يُخْرِجُ الْحَيَّ مِنَ الْمَيِّتِ وَمُخْرِجُ الْمَيِّتِ مِنَ الْحَيِّ ذَلِكُمُ اللَّهُ فَأَنَّى تُؤْفَكُونَ (٩٥) ﴾
+
+قال أبو جعفر: يقول تعالى ذكره: يخرج السنبل الحيّ من الحبّ الميت، ومخرج الحبِّ الميت من السنبل الحيّ، والشجرِ الحيّ من النوى الميت، والنوى الميِّت من الشجر الحيّ.
+
+* *
+
+والشجر ما دام قائمًا على أصوله لم يجفّ، والنبات على ساقه لم ييبَس، فإن العرب تسميه"حَيًّا"، فإذا يبس وجفّ أو قطع من أصله، سمّوه"ميتًا".
+
+* *
+
+وبنحو الذي قلنا في ذلك قال جماعة من أهل التأويل.
+
+ذكر من قال ذلك:
+
+١٣٥٩٢ - حدثني محمد بن الحسين قال، حدثنا أحمد بن المفضل قال، حدثنا أسباط، عن السدي: أما"يخرج الحي من الميت"، فيخرج السنبلة الحية من الحبة الميتة، ويخرج الحبة الميتة من السنبلة الحية، ويخرج النخلة الحية من النواة الميتة، ويخرج النواة الميتة من النخلة الحية.
+
+١٣٥٩٣ - حدثنا ابن وكيع قال، حدثنا أبي، عن سفيان، عن السدي، عن أبي مالك:"يخرج الحي من الميت ومخرج المميت من الحي"، قال: النخلة من النواة، والنواة من النخلة، والحبة من السنبلة، والسنبلة من الحبة.
+
+* *
+
+وقال آخرون بما:-
+
+١٣٥٩٤- حدثني به المثنى قال، حدثنا عبد الله بن صالح قال، حدثني معاوية بن صالح، عن علي بن أبي طلحة، عن ابن عباس قوله:"إن الله فالق الحبّ والنوى يخرج الحي من الميت ومخرج الميت من الحيّ"، قال: يخرج النطفة الميتة من الحي، ثم يخرج من النطفة بشرًا حيًّا.
+
+* *
+
+قال أبو جعفر: وإنما اخترنا التأويل الذي اخترنا في ذلك، لأنه عَقِيب قوله:"إن الله فالقُ الحب والنوى"، على أن قوله:"يخرج الحي من الميت ومخرج الميت من الحي"، وإن كان خبرًا من الله عن إخراجه من الحبّ السنبل ومن السنبل الحب، فإنه داخل في عمومه ما رُوي عن ابن عباس في تأويل ذلك. وكل ميّت أخرجه الله من جسمٍ حَيٍّ، وكل حيّ أخرجه الله من جسمٍ ميتٍ.
+
+* *
+
+وأما قوله:"ذلكم الله"، فإنه يقول: فاعل ذلك كلِّه اللهُ جل جلاله ="فأنى تؤفكون"، يقول: فأيّ وجوه الصدّ عن الحقّ، أيها الجاهلون، تصدّون عن الصواب وتصرفون، [[انظر تفسير"الأفك" فيما سلف ١٠: ٤٨٥، ٤٨٦.]] أفلا تتدبرون فتعلمون أنّه لا ينبغي أن يُجعل لمن أنعم عليكم بفلق الحب والنوى، فأخرج لكم من يابس الحب والنوى زروعًا وحُروثًا وثمارًا تتغذون ببعضه وتفكّهون ببعضه، شريكٌ في عبادته ما لا يضر ولا ينفع، ولا يسمع ولا يبصر؟
 
 ### al-Muyassar (Arabic)
 
-إن الله تعالى يشق الحب، فيخرج منه الزرع، ويشق النوى، فيخرج منه الشجر، يخرج الحي من الميت كالإنسان والحيوان مثلا من النطفة، ويخرج الميت من الحي كالنطفة من الإنسان والحيوان، ذلكم الله أي: فاعل هذا هو الله وحده لا شريك له المستحق للعبادة، فكيف تُصْرَفون عن الحق إلى الباطل فتعبدون معه غيره؟
+إن الله تعالى يشق الحب، فيخرج منه الزرع، ويشق النوى، فيخرج منه الشجر، يخرج الحي من الميت كالإنسان والحيوان مثلًا من النطفة، ويخرج الميت من الحي كالنطفة من الإنسان والحيوان؛ ذلكم الله أي: فاعل هذا هو الله وحده لا شريك له المستحق للعبادة، فكيف تُصْرَفون عن الحق إلى الباطل فتعبدون معه غيره؟
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿إنّ اللَّه فالِق﴾ شاقّ ﴿الحَبّ﴾ عَنْ النَّبات ﴿والنَّوى﴾ عَنْ النَّخْل ﴿يُخْرِج الحَيّ مِن المَيِّت﴾ كالإنْسانِ والطّائِر مِن النُّطْفَة والبَيْضَة ﴿ومُخْرِج المَيِّت مِن الحَيّ﴾ النُّطْفَة والبَيْضَة ﴿ذَلِكُمْ﴾ الفالِق المُخْرِج ﴿اللَّه فَأَنّى تُؤْفَكُونَ﴾ فَكَيْفَ تُصْرَفُونَ عَنْ الإيمان مَعَ قِيام البُرْهان
 
 ---
 
@@ -35,24 +228,261 @@ Allah states that He causes the seed grain and the fruit stone to split and spro
 
 ### Ibn Kathir (English)
 
+Verily! It is Allah Who causes the seed grain and the fruit stone to split and sprout. He brings forth the living from the dead, and it is He Who brings forth the dead from the living. Such is Allah, then how are you deluded away from the truth (95)(He is the) Cleaver of the daybreak. He has appointed the night for resting, and the sun and the moon for reckoning. Such is the measuring of the Almighty, the All-Knowing (96)It is He Who has set the stars for you, so that you may guide your course with their help through the darkness of the land and the sea. We have (indeed) explained in detail Our Ayat for people who know (97)
+
 Recognizing Allah Through Some of His Ayat
+
 Allah states that He causes the seed grain and the fruit stone to split and sprout in the ground, producing various types, colors, shapes, and tastes of grains and produce. The Ayah,
-فَالِقُ الْحَبِّ وَالنَّوَى
+
+فَالِقُ الْحَبِّ وَالنَّوَىٰ
+
 (Who causes the seed grain and the fruit stone to split and sprout.) is explained by the next statement,
-يُخْرِجُ الْحَىَّ مِنَ الْمَيِّتِ وَمُخْرِجُ الْمَيِّتِ مِنَ الْحَىِّ
-(He brings forth the living from the dead, and it is He Who brings f...
+
+يُخْرِجُ الْحَيَّ مِنَ الْمَيِّتِ وَمُخْرِجُ الْمَيِّتِ مِنَ الْحَيِّ
+
+(He brings forth the living from the dead, and it is He Who brings forth the deed from the living.) meaning, He brings the living plant from the seed grain and the fruit stone, which is a lifless and inanimate object. Allah said,
+
+وَآيَةٌ لَّهُمُ الْأَرْضُ الْمَيْتَةُ أَحْيَيْنَاهَا وَأَخْرَجْنَا مِنْهَا حَبًّا فَمِنْهُ يَأْكُلُونَ
+
+(And a sign for them is the dead land. We gave it life, and We brought forth from it grains, so that they eat thereof.)[36:33] until,
+
+وَمِنْ أَنفُسِهِمْ وَمِمَّا لَا يَعْلَمُونَ
+
+(as well as of their own (human) kind (male and female), and of that which they know not.)[36:36] Allah's statement,
+
+وَمُخْرِجُ الْمَيِّتِ مِنَ الْحَيِّ
+
+(and it is He Who brings forth the dead from the living.)
+
+There are similar expressions in meaning such as, He brings the egg from the chicken, and the opposite. Others said that it means, He brings the wicked offspring from the righteous parent and the opposite, and there are other possible meanings for the Ayah. Allah said,
+
+ذَٰلِكُمُ اللَّهُ
+
+(Such is Allah,) meaning, He Who does all this, is Allah, the One and Only without partners,
+
+فَأَنَّىٰ تُؤْفَكُونَ
+
+(then how are you deluded away from the truth?) meaning, look how you are deluded from Truth to the falsehood of worshipping others besides Allah. Allah's statement,
+
+فَالِقُ الْإِصْبَاحِ وَجَعَلَ اللَّيْلَ سَكَنًا
+
+((He is the) Cleaver of the daybreak. He has appointed the night for resting,) means, He is the Creator of light and darkness. Allah said in the beginning of the Surah,
+
+وَجَعَلَ الظُّلُمَاتِ وَالنُّورَ
+
+(And originated the darkness and the light.)[6:1]
+
+Indeed, Allah causes the darkness of the night to disappear and brings forth the day, thus bringing brighteness to the world and light to the horizon, while dissipating darkness and ending the night with its depth of darkness and starting the day with its brightness and light. Allah said,
+
+يُغْشِي اللَّيْلَ النَّهَارَ يَطْلُبُهُ حَثِيثًا
+
+(He brings the night as a cover over the day, seeking it rapidly.)[7:54]
+
+In this Ayah, Allah reminds of His ability to create diversified things in opposites, testifying to His perfect greatness and supreme power. Allah states that He is the Cleaver of the daybreak and mentioned its opposite, when He said,
+
+وَجَعَلَ اللَّيْلَ سَكَنًا
+
+(He has appointed the night for resting,) meaning, created darkness, in order for the creation to become halt and rest during it. Allah said in other Ayat,
+
+وَالضُّحَىٰ - وَاللَّيْلِ إِذَا سَجَىٰ
+
+(By the forenoon. And by the night when it is still.)[93:1-2],
+
+وَاللَّيْلِ إِذَا يَغْشَىٰ - وَالنَّهَارِ إِذَا تَجَلَّىٰ
+
+(By the night as it envelops. And by the day as it appears in brightness.)[92:1-2] and,
+
+وَالنَّهَارِ إِذَا جَلَّاهَا - وَاللَّيْلِ إِذَا يَغْشَاهَا
+
+(And by the day as it shows up (the sun's) brightness. And by the night as it conceals it.)[91:3-4] Allah's statement,
+
+وَالشَّمْسَ وَالْقَمَرَ حُسْبَانًا
+
+(...And the sun and the moon for reckoning.) means, the sun and the moon have specific orbits, according to a term appointed with magnificent precision that never changes or alters. Both the sun and the moon have distinct positions that they assume in summer and winter, effecting changes in the length of night and day. Allah said in other Ayat,
+
+هُوَ الَّذِي جَعَلَ الشَّمْسَ ضِيَاءً وَالْقَمَرَ نُورًا وَقَدَّرَهُ مَنَازِلَ
+
+(It is He Who made the sun a shining thing and the Moon as a light and measured out stages for it.)[10:5],
+
+لَا الشَّمْسُ يَنبَغِي لَهَا أَن تُدْرِكَ الْقَمَرَ وَلَا اللَّيْلُ سَابِقُ النَّهَارِ وَكُلٌّ فِي فَلَكٍ يَسْبَحُونَ
+
+(It is not for the sun to overtake the moon, nor does the night outstrip the day. They all float, each in an orbit.)[36:40], And,
+
+وَالشَّمْسَ وَالْقَمَرَ وَالنُّجُومُ مُسَخَّرَاتٌ بِأَمْرِهِ
+
+(The sun and the moon; and the stars are subjected by His command.)[16:12] Allah's statement,
+
+ذَٰلِكَ تَقْدِيرُ الْعَزِيزِ الْعَلِيمِ
+
+(Such is the measuring of the Almighty, the All-Knowing.) means, all of this occurs according to the decree and due measurement of the Almighty Who is never resisted or contradicted. He is the Knower of all things and nothing ever escapes His knowledge, not even the weight of an atom on earth or in heavens. Allah often mentions the creation of the night, the day, the sun and the moon and then ends His Speech by mentioning His attributes of power and knowledge, as in this Ayah above [6:96], and in His statement,
+
+وَآيَةٌ لَّهُمُ اللَّيْلُ نَسْلَخُ مِنْهُ النَّهَارَ فَإِذَا هُم مُّظْلِمُونَ - وَالشَّمْسُ تَجْرِي لِمُسْتَقَرٍّ لَّهَا ذَٰلِكَ تَقْدِيرُ الْعَزِيزِ الْعَلِيمِ
+
+(And a sign for them is the night, We withdraw therefrom the day, and behold, they are in darkness. And the sun runs on its fixed course for a term. That is the decree of the Almighty, the All-Knowing.)[36:37-38]
+
+In the beginning of Surat Ha-Mim As-Sajdah, after mentioning the creation of the heavens and earth and all that is in them, Allah said:
+
+وَزَيَّنَّا السَّمَاءَ الدُّنْيَا بِمَصَابِيحَ وَحِفْظًا ذَٰلِكَ تَقْدِيرُ الْعَزِيزِ الْعَلِيمِ
+
+(And We adorned the nearest (lowest) heaven with lamps (stars) to be an adornment as well as to guard. Such is the decree of Him, the Almighty, the All-Knower.)[41:12] Allah said next,
+
+وَهُوَ الَّذِي جَعَلَ لَكُمُ النُّجُومَ لِتَهْتَدُوا بِهَا فِي ظُلُمَاتِ الْبَرِّ وَالْبَحْرِ
+
+(It is He Who has set the stars for you, so that you may guide your course with their help through the darkness of the land and the sea.)
+
+Some of the Salaf said; Whoever believes in other than three things about these stars, then he has made a mistake, and lied against Allah. Indeed Allah made them as decorations for the heavens, and to shoot at the Shayatin, and for directions in the dark recesses of the land and sea. Then, Allah said,
+
+قَدْ فَصَّلْنَا الْآيَاتِ
+
+(We have explained in detail Our Ayat.) meaning, We made them clear and plain,
+
+لِقَوْمٍ يَعْلَمُونَ
+
+(for people who know.) who have sound minds and are able to recognize the truth and avoid falsehood.
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله :  فَالِقُ الإِصْبَاحِ وَجَعَلَ اللَّيْلَ سَكَنًاقال أبو جعفر: يعني بقوله: " فالق الإصباح "، شاقٌّ عمود الصبح عن ظلمة الليل وسواده. (2)* * *و " الإصباح " مصدر من قول القائل: " أصبحنا إصباحًا ".* * *وبنحو ما قلنا في ذلك قال عامة أهل التأويل.* ذكر من قال ذلك:13595 - حدثنا ابن وكيع قال، حدثنا المحاربي, عن جويبر, عن الضحاك: " فالق الإصباح "، قال: إضاءة الصبح.13596 - حدثني محمد بن عمرو قال، حدثنا أبو عاصم قال، حدثنا عيسى, عن ابن أبي, نجيح, عن مجاهد: " فالق الإصباح "، قال: إضاءة...
+القول في تأويل قوله: ﴿فَالِقُ الإصْبَاحِ وَجَعَلَ اللَّيْلَ سَكَنًا﴾
+
+قال أبو جعفر: يعني بقوله:"فالق الإصباح"، شاقٌّ عمود الصبح عن ظلمة الليل وسواده. [[انظر تفسير"الفلق" فيما سلف قريبًا ص: ٥٥٠.]]
+
+* *
+
+و"الإصباح" مصدر من قول القائل:"أصبحنا إصباحًا".
+
+* *
+
+وبنحو ما قلنا في ذلك قال عامة أهل التأويل.
+
+ذكر من قال ذلك:
+
+١٣٥٩٥ - حدثنا ابن وكيع قال، حدثنا المحاربي، عن جويبر، عن الضحاك:"فالق الإصباح"، قال: إضاءة الصبح.
+
+١٣٥٩٦ - حدثني محمد بن عمرو قال، حدثنا أبو عاصم قال، حدثنا عيسى، عن ابن أبي، نجيح، عن مجاهد:"فالق الإصباح"، قال: إضاءة الفجر.
+
+١٣٥٩٧- حدثني المثنى قال، حدثنا أبو حذيفة قال، حدثنا شبل، عن ابن أبي نجيح، عن مجاهد، مثله.
+
+١٣٥٩٨ - حدثنا الحسن بن يحيى قال، أخبرنا عبد الرزاق قال، أخبرنا معمر، عن قتادة في قوله:"فالق الإصباح"، قال: فالق الصُّبح.
+
+١٣٥٩٩ - حدثني المثنى قال، حدثنا أبو صالح قال، حدثني معاوية بن صالح، عن علي بن أبي طلحة، عن ابن عباس في قوله:"فالق الإصباح"، يعني بالإصباح، ضوءَ الشمس بالنهار، وضوءَ القمر بالليل.
+
+١٣٦٠٠ - حدثنا ابن حميد قال، حدثنا حكام قال، حدثنا عنبسة، عن محمد بن عبد الرحمن بن أبي ليلى، عن القاسم بن أبي بزة، عن مجاهد:"فالق الإصباح"، قال: فالق الصبح.
+
+١٣٦٠١- حدثنا به ابن حميد مرة بهذا الإسناد، عن مجاهد فقال في قوله:"فالق الإصباح"، قال إضاءة الصبح.
+
+١٣٦٠٢ - حدثني يونس قال، أخبرنا ابن وهب قال، قال ابن زيد، في قوله:"فالق الإصباح"، قال: فلق الإصباح عن الليل.
+
+١٣٦٠٣ - حدثت عن الحسين بن الفرج قال، سمعت أبا معاذ يقول، حدثنا عبيد بن سليمان قال، سمعت الضحاك يقول في قوله:"فالق الإصباح"، يقول: خالق النور، نور النهار.
+
+* *
+
+وقال آخرون: معنى ذلك: خالق الليل والنهار.
+
+ذكر من قال ذلك:
+
+١٣٦٠٤ - حدثنا محمد بن سعد قال، حدثني أبي قال، حدثني عمي قال، حدثني أبي، عن أبيه، عن ابن عباس في قوله: ﴿فَالِقُ الإصْبَاحِ وَجَاعِلُ اللَّيْلِ سَكَنًا﴾ ، [[هذه قراءة أهل الحجاز كما سيذكر بعد، وتركتها على قراءتهم في هذا الخبر.]] يقول: خلق الليل والنهار.
+
+* *
+
+وذكر عن الحسن البصري أنّه كان يقرأ: ﴿فَالِقُ الأصْبَاحِ﴾ ، بفتح الألف، كأنه تأول ذلك بمعنى جمع"صبح"، كأنه أراد صبح كل يوم، فجعله"أصباحًا"، ولم يبلغنا عن أحد سواه أنه قرأ كذلك. والقراءة التي لا نستجيز تعدِّيها، بكسر الألف: [[في المطبوعة: "لا نستجيز غيرها"، يدل ما كان في المخطوطة وهو محض صواب.]] ﴿فالِقُ الإصْبَاح﴾ ، لإجماع الحجة من القرأة وأهل التأويل على صحة ذلك ورفضِ خلافه.
+
+* *
+
+وأما قوله:"وجاعِلُ الليل سكنًا"، فإن القرأة اختلفت في قراءته.
+
+فقرأ ذلك عامة قرأة الحجاز والمدينة وبعض البصريين: [[في المطبوعة: "عامة قراء الحجاز"، وأثبت ما في المخطوطة.]] ﴿وَجَاعِلُ اللَّيْلِ﴾ بالألف على لفظ الاسم، ورفعه عطفًا على"فالق"، وخفض"الليل" بإضافة"جاعل" إليه، ونصب"الشمس والقمر"، عطفًا على موضع"الليل"، لأن"الليل" وان كان مخفوضًا في اللفظ، فإنه في موضع النصب، لأنه مفعول"جاعل". وحسن عطف ذلك على معنى"الليل" لا على لفظه، لدخول قوله:"سكنًا" بينه وبين"الليل"، قال الشاعر: [[هو الفرزدق.]]
+
+قُعُوداً لَدَى الأبْوَابِ طُلابَ حاجَةٍ ... عَوَانٍ مِنَ الْحَاجَاتِ أَوْ حَاجَةً بِكْرًا [[سلف البيت وتخريجه وتفسيره فيما سلف ٢: ١٩٥، وأزيد هنا مجاز القرآن لأبي عبيدة ١: ٢٠١ وروي هناك: "قعود" بالرفع، كما أشرت إليه ثم.]]
+
+فنصب"الحاجة" الثانية، عطفًا بها على معنى"الحاجة" الأولى، لا على لفظها، لأن معناها النصب، وإن كانت في اللفظ خفضًا. وقد يجيء مثل هذا أيضًا معطوفًا بالثاني على معنى الذي قبله لا على لفظه، وإن لم يكن بينهما حائل، كما قال بعضهم: [[لرجل من قيس عيلان، ونسب أيضا لنصيب]]
+
+بَيْنَا نَحْنُ نَنْظُرْهُ أَتَانَا ... مُعلِّقَ شِكْوَةٍ وَزِنادَ رَاعِ [[سيبويه ١: ٨٧، معاني القرآن للفراء ١: ٣٤٦، الصاحبي: ١١٨، شرح شواهد المغني: ٢٧٠، والذي هنا رواية الفراء وابن فارس. ورواية سيبويه"بيننا نحن نطلبه"، وفي شرحه"نرقبه"، وروايته أيضًا"معلق وفضة". وكان في المطبوعة هنا: "فبيننا" بالفاء، وأثبت ما في المخطوطة. وفي المطبوعة: "شلوه" وهو خطأ.
+
+"ننظره": نرقبه وننتظره. و"الشكوة": وعاء كالدلو أو القرية الصغيرة، يبرد فيه الماء، ويحبس فيه اللبن. وأما "الوفضة"، فهي خريطة كالجعبة، يحمل فيها الراعي أدلته وزاده.
+
+ولم أجد بقية الشعر.]]
+
+* *
+
+وقرأ ذلك عامة قرأة الكوفيين: ﴿وَجَعَلَ اللَّيْلَ سَكَنًا وَالشَّمْسَ﴾ ، على"فَعَلَ"، بمعنى الفعل الماضي، ونصب"الليل".
+
+* *
+
+قال أبو جعفر: والصواب من القول في ذلك عندنا أن يقال: إنهما قراءتان مستفيضتان في قرأة الأمصار، متفقتا المعنى، غير مختلفتيه، فبأيتهما قرأ القارئ فهو مصيب في الإعراب والمعنى.
+
+* *
+
+وأخبر جل ثناؤه أنه جعل الليل سكنًا، لأنه يسكن فيه كل متحرك بالنهار، ويهدأ فيه، فيستقر في مسكنه ومأواه.
+
+* *
+
+القول في تأويل قوله: ﴿وَالشَّمْسَ وَالْقَمَرَ حُسْبَانًا﴾
+
+قال أبو جعفر: اختلف أهل التأويل في ذلك:
+
+فقال بعضهم: معنى ذلك: وجعل الشمس والقمر يجريان في أفلاكهما بحساب.
+
+ذكر من قال ذلك:
+
+١٣٦٠٥ - حدثني المثنى قال، حدثنا عبد الله بن صالح قال، حدثني معاوية بن صالح، عن علي بن أبي طلحة، عن ابن عباس:"والشمس والقمر حسبانًا"، يعني: عدد الأيام والشهور والسنين.
+
+١٣٦٠٦ - حدثني محمد بن سعد قال، حدثني أبي قال، حدثني عمي قال، حدثني أبي، عن أبيه، عن ابن عباس:"والشمس والقمر حسبانًا"، قال: يجريان إلى أجلٍ جُعل لهما.
+
+١٣٦٠٧ - حدثني محمد بن الحسين قال، حدثنا أحمد بن المفضل قال، حدثنا أسباط، عن السدي:"والشمس والقمر حسبانًا"، يقول: بحساب.
+
+١٣٦٠٨ - حدثني المثنى قال، حدثنا إسحاق قال، حدثنا عبد الله بن أبي جعفر، عن أبيه، عن الربيع في قوله:"والشمس والقمر حسبانًا"، قال: الشمس والقمر في حساب، فإذا خَلَتْ أيامهما فذاك آخرُ الدهر، وأول الفزع الأكبر ="ذلك تقدير العزيز العليم".
+
+١٣٦٠٩- حدثنا الحسن بن يحيى قال، أخبرنا عبد الرزاق قال، أخبرنا معمر، عن قتادة في قوله:"والشمس والقمر حسبانًا"، قال: يدوران في حساب.
+
+١٣٦١٠ - حدثنا القاسم قال، حدثنا الحسين قال، حدثني حجاج، عن ابن جريج، عن مجاهد: "والشمس والقمر حسبانًا"، قال هو مثل قوله: كُلٌّ فِي فَلَكٍ يَسْبَحُونَ [سورة يس: ٤٠] ، ومثل قوله: ﴿الشَّمْسُ وَالْقَمَرُ بِحُسْبَانٍ﴾ [سورة الرحمن: ٥] .
+
+* *
+
+وقال آخرون: معنى ذلك: وجعل الشمس والقمر ضياء.
+
+ذكر من قال ذلك:
+
+١٣٦١١- حدثنا بشر بن معاذ قال، حدثنا يزيد قال، حدثنا سعيد، عن قتادة:"والشمس والقمر حسبانًا"، أي ضياء.
+
+* *
+
+قال أبو جعفر: وأولى القولين في تأويل ذلك عندي بالصواب، تأويل من تأوَّله: وجعل الشمس والقمرَ يجريان بحساب وعددٍ لبلوغ أمرهما ونهاية آجالهما، ويدوران لمصالح الخلق التي جُعِلا لها.
+
+وإنما قلنا ذلك أولى التأويلين بالآية، لأن الله تعالى ذكره ذكَر قبلَه أياديه عند خلقه، وعظم سلطانه، بفلقه الإصباح لهم، وإخراج النبات والغِراس من الحب والنوى، وعقّب ذلك بذكره خلق النجوم لهدايتهم في البر والبحر. فكان وصفه إجراءه الشمس والقمرَ لمنافعهم، أشبه بهذا الموضع من ذكر إضاءتهما، لأنه قد وصف ذلك قبلُ بقوله:"فالق الإصباح"، فلا معنى لتكريره مرة أخرى في آية واحدة لغير معنى.
+
+* *
+
+و"الحسبان" في كلام العرب جمع"حِساب"، كما"الشُّهبان" جمع شهاب. [[انظر مجاز القرآن لأبي عبيدة ١: ٢٠١.]] وقد قيل إن"الحسبان"، في هذا الموضع مصدر من قول القائل:"حَسَبْتُ الحساب أحسُبُه حِسابًا وحُسْبانًا". وحكي عن العرب:"على الله حُسْبان فلان وحِسْبته"، أي: حسابه.
+
+* *
+
+وأحسب أن قتادة في تأويل ذلك بمعنى الضياء، ذهب إلى شيء يروى عن ابن عباس في قوله: وَيُرْسِلَ عَلَيْهَا حُسْبَانًا مِنَ السَّمَاءِ [سورة الكهف: ٤٠] . قال: نارًا، فوجه تأويل قوله:"والشمس والقمر حسبانًا"، إلى ذلك التأويل. وليس هذا من ذلك المعنى في شيء.
+
+* *
+
+وأما"الحِسبان" بكسر"الحاء"، فإنه جمع"الحِسبانة"، [[هكذا قال أبو جعفر"بكسر الحاء" والذي أطبقت عليه كتب اللغة أنه بضم الحاء، ولم يشيروا إلى كسر الحاء في هذه.]] وهي الوسادة الصغيرة، وليست من الأوَّليين أيضًا في شيء. يقال:"حَسَّبته"، أجلستُه عليها.
+
+* *
+
+ونصب قوله:"حسبانًا" بقوله:"وجعل".
+
+* *
+
+وكان بعض البصريين يقول: معناه:"والشمس والقمرَ حسبانًا"، أي: بحساب، فحذف"الباء"، كما حذفها من قوله: هُوَ أَعْلَمُ مَنْ يَضِلُّ عَنْ سَبِيلِهِ " [سورة الأنعام: ١١٧] ، أي: أعلم بمن يضل عن سبيله. [[قائل هذا هو الأخفش، كما هو بين في لسان العرب (حسب) .]]
+
+* *
+
+القول في تأويل قوله: ﴿ذَلِكَ تَقْدِيرُ الْعَزِيزِ الْعَلِيمِ (٩٦) ﴾
+
+قال أبو جعفر: يقول تعالى ذكره: وهذا الفعل الذي وصفه أنه فعله، وهو فلقه الإصباح، وجعله الليل سكنًا والشمس والقمر حسبانًا، تقدير الذي عزّ سلطانه، فلا يقدر أحد أراده بسوء وعقاب أو انتقام، من الامتناع منه ="العليم"، بمصالح خلقه وتدبيرهم = لا تقديرُ الأصنام والأوثان التي لا تسمع ولا تبصر، ولا تفقه شيئًا ولا تعقله، ولا تضر ولا تنفع، وإن أريدت بسوء لم تقدر على الامتناع منه ممن أرادها. [[انظر تفسير"العزيز" و"العليم" فيما سلف من فهارس اللغة.]] يقول جل ثناؤه: وأخلصوا، أيها الجهلة، عبادتَكم لفاعل هذه الأشياء، ولا تشركوا في عبادته شيئًا غيره.
 
 ### al-Muyassar (Arabic)
 
-والله سبحانه وتعالى هو الذي شق ضياء الصباح من ظلام الليل، وجعل الليل مستقرًا، يسكن فيه كل متحرك ويهدأ، وجعل الشمس والقمر يجريان في فلكيهما بحساب متقن مقدَّر، لا يتغير ولا يضطرب، ذلك تقدير العزيز الذي عزَّ سلطانه، العليم بمصالح خلقه وتدبير شئونهم. والعزيز والعليم من أسماء الله الحسنى يدلان على كمال العز والعلم.
+والله سبحانه وتعالى هو الذي شق ضياء الصباح من ظلام الليل، وجعل الليل مستقَرًّا، يسكن فيه مَن يتعب بالنهار فيأخذ نصيبه من الراحة، وجعل الشمس والقمر يجريان في فلكيهما بحساب متقن مقدَّر، لا يتغير ولا يضطرب، ذلك تقدير العزيز الذي عَزَّ سلطانه، العليم بمصالح خلقه وتدبير شؤونهم. والعزيز والعليم من أسماء الله الحسنى يدلان على كمال العزة والعلم.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿فالِق الإصْباح﴾ مَصْدَر بِمَعْنى الصُّبْح أيْ شاقّ عَمُود الصُّبْح وهُوَ أوَّل ما يَبْدُو مِن نُور النَّهار عَنْ ظُلْمَة اللَّيْل. ﴿وجَعَلَ اللَّيْل سَكَنًا﴾ تَسْكُن فِيهِ الخَلْق مِن التَّعَب ﴿والشَّمْس والقَمَر﴾ بِالنَّصْبِ عَطْفًا عَلى مَحَلّ اللَّيْل ﴿حُسْبانًا﴾ حِسابًا لِلْأَوْقاتِ أوْ الباء مَحْذُوفَة وهُوَ حال مِن مُقَدَّر أيْ يَجْرِيانِ بِحُسْبانٍ كَما فِي آيَة الرَّحْمَن[[﴿ٱلشَّمۡسُ وٱلۡقَمَرُ بِحُسۡبانࣲ (٥)﴾]] ﴿ذَلِكَ﴾ المَذْكُور ﴿تَقْدِير العَزِيز﴾ فِي مُلْكه ﴿العَلِيم﴾ بِخَلْقِهِ
 
 ---
 
@@ -60,24 +490,143 @@ Allah states that He causes the seed grain and the fruit stone to split and spro
 
 ### Ibn Kathir (English)
 
+Verily! It is Allah Who causes the seed grain and the fruit stone to split and sprout. He brings forth the living from the dead, and it is He Who brings forth the dead from the living. Such is Allah, then how are you deluded away from the truth (95)(He is the) Cleaver of the daybreak. He has appointed the night for resting, and the sun and the moon for reckoning. Such is the measuring of the Almighty, the All-Knowing (96)It is He Who has set the stars for you, so that you may guide your course with their help through the darkness of the land and the sea. We have (indeed) explained in detail Our Ayat for people who know (97)
+
 Recognizing Allah Through Some of His Ayat
+
 Allah states that He causes the seed grain and the fruit stone to split and sprout in the ground, producing various types, colors, shapes, and tastes of grains and produce. The Ayah,
-فَالِقُ الْحَبِّ وَالنَّوَى
+
+فَالِقُ الْحَبِّ وَالنَّوَىٰ
+
 (Who causes the seed grain and the fruit stone to split and sprout.) is explained by the next statement,
-يُخْرِجُ الْحَىَّ مِنَ الْمَيِّتِ وَمُخْرِجُ الْمَيِّتِ مِنَ الْحَىِّ
-(He brings forth the living from the dead, and it is He Who brings f...
+
+يُخْرِجُ الْحَيَّ مِنَ الْمَيِّتِ وَمُخْرِجُ الْمَيِّتِ مِنَ الْحَيِّ
+
+(He brings forth the living from the dead, and it is He Who brings forth the deed from the living.) meaning, He brings the living plant from the seed grain and the fruit stone, which is a lifless and inanimate object. Allah said,
+
+وَآيَةٌ لَّهُمُ الْأَرْضُ الْمَيْتَةُ أَحْيَيْنَاهَا وَأَخْرَجْنَا مِنْهَا حَبًّا فَمِنْهُ يَأْكُلُونَ
+
+(And a sign for them is the dead land. We gave it life, and We brought forth from it grains, so that they eat thereof.)[36:33] until,
+
+وَمِنْ أَنفُسِهِمْ وَمِمَّا لَا يَعْلَمُونَ
+
+(as well as of their own (human) kind (male and female), and of that which they know not.)[36:36] Allah's statement,
+
+وَمُخْرِجُ الْمَيِّتِ مِنَ الْحَيِّ
+
+(and it is He Who brings forth the dead from the living.)
+
+There are similar expressions in meaning such as, He brings the egg from the chicken, and the opposite. Others said that it means, He brings the wicked offspring from the righteous parent and the opposite, and there are other possible meanings for the Ayah. Allah said,
+
+ذَٰلِكُمُ اللَّهُ
+
+(Such is Allah,) meaning, He Who does all this, is Allah, the One and Only without partners,
+
+فَأَنَّىٰ تُؤْفَكُونَ
+
+(then how are you deluded away from the truth?) meaning, look how you are deluded from Truth to the falsehood of worshipping others besides Allah. Allah's statement,
+
+فَالِقُ الْإِصْبَاحِ وَجَعَلَ اللَّيْلَ سَكَنًا
+
+((He is the) Cleaver of the daybreak. He has appointed the night for resting,) means, He is the Creator of light and darkness. Allah said in the beginning of the Surah,
+
+وَجَعَلَ الظُّلُمَاتِ وَالنُّورَ
+
+(And originated the darkness and the light.)[6:1]
+
+Indeed, Allah causes the darkness of the night to disappear and brings forth the day, thus bringing brighteness to the world and light to the horizon, while dissipating darkness and ending the night with its depth of darkness and starting the day with its brightness and light. Allah said,
+
+يُغْشِي اللَّيْلَ النَّهَارَ يَطْلُبُهُ حَثِيثًا
+
+(He brings the night as a cover over the day, seeking it rapidly.)[7:54]
+
+In this Ayah, Allah reminds of His ability to create diversified things in opposites, testifying to His perfect greatness and supreme power. Allah states that He is the Cleaver of the daybreak and mentioned its opposite, when He said,
+
+وَجَعَلَ اللَّيْلَ سَكَنًا
+
+(He has appointed the night for resting,) meaning, created darkness, in order for the creation to become halt and rest during it. Allah said in other Ayat,
+
+وَالضُّحَىٰ - وَاللَّيْلِ إِذَا سَجَىٰ
+
+(By the forenoon. And by the night when it is still.)[93:1-2],
+
+وَاللَّيْلِ إِذَا يَغْشَىٰ - وَالنَّهَارِ إِذَا تَجَلَّىٰ
+
+(By the night as it envelops. And by the day as it appears in brightness.)[92:1-2] and,
+
+وَالنَّهَارِ إِذَا جَلَّاهَا - وَاللَّيْلِ إِذَا يَغْشَاهَا
+
+(And by the day as it shows up (the sun's) brightness. And by the night as it conceals it.)[91:3-4] Allah's statement,
+
+وَالشَّمْسَ وَالْقَمَرَ حُسْبَانًا
+
+(...And the sun and the moon for reckoning.) means, the sun and the moon have specific orbits, according to a term appointed with magnificent precision that never changes or alters. Both the sun and the moon have distinct positions that they assume in summer and winter, effecting changes in the length of night and day. Allah said in other Ayat,
+
+هُوَ الَّذِي جَعَلَ الشَّمْسَ ضِيَاءً وَالْقَمَرَ نُورًا وَقَدَّرَهُ مَنَازِلَ
+
+(It is He Who made the sun a shining thing and the Moon as a light and measured out stages for it.)[10:5],
+
+لَا الشَّمْسُ يَنبَغِي لَهَا أَن تُدْرِكَ الْقَمَرَ وَلَا اللَّيْلُ سَابِقُ النَّهَارِ وَكُلٌّ فِي فَلَكٍ يَسْبَحُونَ
+
+(It is not for the sun to overtake the moon, nor does the night outstrip the day. They all float, each in an orbit.)[36:40], And,
+
+وَالشَّمْسَ وَالْقَمَرَ وَالنُّجُومُ مُسَخَّرَاتٌ بِأَمْرِهِ
+
+(The sun and the moon; and the stars are subjected by His command.)[16:12] Allah's statement,
+
+ذَٰلِكَ تَقْدِيرُ الْعَزِيزِ الْعَلِيمِ
+
+(Such is the measuring of the Almighty, the All-Knowing.) means, all of this occurs according to the decree and due measurement of the Almighty Who is never resisted or contradicted. He is the Knower of all things and nothing ever escapes His knowledge, not even the weight of an atom on earth or in heavens. Allah often mentions the creation of the night, the day, the sun and the moon and then ends His Speech by mentioning His attributes of power and knowledge, as in this Ayah above [6:96], and in His statement,
+
+وَآيَةٌ لَّهُمُ اللَّيْلُ نَسْلَخُ مِنْهُ النَّهَارَ فَإِذَا هُم مُّظْلِمُونَ - وَالشَّمْسُ تَجْرِي لِمُسْتَقَرٍّ لَّهَا ذَٰلِكَ تَقْدِيرُ الْعَزِيزِ الْعَلِيمِ
+
+(And a sign for them is the night, We withdraw therefrom the day, and behold, they are in darkness. And the sun runs on its fixed course for a term. That is the decree of the Almighty, the All-Knowing.)[36:37-38]
+
+In the beginning of Surat Ha-Mim As-Sajdah, after mentioning the creation of the heavens and earth and all that is in them, Allah said:
+
+وَزَيَّنَّا السَّمَاءَ الدُّنْيَا بِمَصَابِيحَ وَحِفْظًا ذَٰلِكَ تَقْدِيرُ الْعَزِيزِ الْعَلِيمِ
+
+(And We adorned the nearest (lowest) heaven with lamps (stars) to be an adornment as well as to guard. Such is the decree of Him, the Almighty, the All-Knower.)[41:12] Allah said next,
+
+وَهُوَ الَّذِي جَعَلَ لَكُمُ النُّجُومَ لِتَهْتَدُوا بِهَا فِي ظُلُمَاتِ الْبَرِّ وَالْبَحْرِ
+
+(It is He Who has set the stars for you, so that you may guide your course with their help through the darkness of the land and the sea.)
+
+Some of the Salaf said; Whoever believes in other than three things about these stars, then he has made a mistake, and lied against Allah. Indeed Allah made them as decorations for the heavens, and to shoot at the Shayatin, and for directions in the dark recesses of the land and sea. Then, Allah said,
+
+قَدْ فَصَّلْنَا الْآيَاتِ
+
+(We have explained in detail Our Ayat.) meaning, We made them clear and plain,
+
+لِقَوْمٍ يَعْلَمُونَ
+
+(for people who know.) who have sound minds and are able to recognize the truth and avoid falsehood.
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله :  وَهُوَ الَّذِي جَعَلَ لَكُمُ النُّجُومَ لِتَهْتَدُوا بِهَا فِي ظُلُمَاتِ الْبَرِّ وَالْبَحْرِ قَدْ فَصَّلْنَا الآيَاتِ لِقَوْمٍ يَعْلَمُونَ (97)قال أبو جعفر: يقول تعالى ذكره: والله الذي جعل لكم، أيها الناس، النجوم أدلةً في البر والبحر إذا ضللتم الطريق, أو تحيرتم فلم تهتدوا فيها ليلا تستدلّون بها على المحجَّة, فتهتدون بها إلى الطريق والمحجة، فتسلكونه وتنجون بها من ظلمات ذلك, كما قال جل ثناؤه:  وَعَلامَاتٍ وَبِالنَّجْمِ هُمْ يَهْتَدُونَ  [سورة النحل: 16] ، أي: من ضلال الط...
+القول في تأويل قوله: ﴿وَهُوَ الَّذِي جَعَلَ لَكُمُ النُّجُومَ لِتَهْتَدُوا بِهَا فِي ظُلُمَاتِ الْبَرِّ وَالْبَحْرِ قَدْ فَصَّلْنَا الآيَاتِ لِقَوْمٍ يَعْلَمُونَ (٩٧) ﴾
+
+قال أبو جعفر: يقول تعالى ذكره: والله الذي جعل لكم، أيها الناس، النجوم أدلةً في البر والبحر إذا ضللتم الطريق، أو تحيرتم فلم تهتدوا فيها ليلا تستدلّون بها على المحجَّة، فتهتدون بها إلى الطريق والمحجة، فتسلكونه وتنجون بها من ظلمات ذلك، كما قال جل ثناؤه: وَعَلامَاتٍ وَبِالنَّجْمِ هُمْ يَهْتَدُونَ [سورة النحل: ١٦] ، أي: من ضلال الطريق في البرّ والبحر = وعنى بالظلمات، ظلمة الليل، وظلمة الخطأ والضلال، وظلمة الأرض أو الماء.
+
+* *
+
+وقوله:"قد فصلنا الآيات لقوم يعلمون"، يقول: قد ميَّزنا الأدلة، وفرَّقنا الحجج فيكم وبيّناها، أيها الناس، [[انظر تفسير"فصل" فيما سلف ص: ٣٩٤ - ٣٩٦.]] ليتدبّرها أولو العلم بالله منكم، ويفهمها أولو الحجا منكم، فينيبوا من جهلهم الذي هم مقيمون عليه، وينزجروا عن خطأ فعلهم الذي هم عليه ثابتون، ولا يتمادوا عنادًا لله = مع علمهم بأن ما هم عليه مقيمون خطأ = في غَيِّهم. [[في المطبوعة: "ولا يتمادوا في عناد الله"، زاد"في"، فأفسد الكلام غاية الإفساد، وسياق العبارة"ولا يتمادوا عنادًا لله. . .في غيهم"، وفصلت الجملة المعترضة بخطين.]]
+
+* *
+
+وبنحو ما قلنا في ذلك قال جماعة من أهل التأويل.
+
+ذكر من قال ذلك:
+
+١٣٦١٢ - حدثني محمد بن سعد قال، حدثني أبي قال، حدثني عمي قال، حدثني أبي، عن أبيه، عن ابن عباس قوله:"وهو الذي جعل لكم النجوم لتهتدوا بها في ظلمات البر والبحر"، قال: يضلّ الرجل وهو في الظلمة والجور عن الطريق.
 
 ### al-Muyassar (Arabic)
 
-والله سبحانه هو الذي جعل لكم أيها الناس النجوم علامات، تعرفون بها الطرق ليلا إذا ضللتم بسبب الظلمة الشديدة في البر والبحر، قد بيَّنَّا البراهين الواضحة؛ ليتدبرها منكم أولو العلم بالله وشرعه.
+والله سبحانه هو الذي جعل لكم - أيها الناس - النجوم علامات، تعرفون بها الطرق ليلًا إذا ضللتم؛ بسبب الظلمة الشديدة في البر والبحر، قد بيَّنّا البراهين الواضحة؛ ليتدبرها منكم أولو العلم بالله وشرعه.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿وهُوَ الَّذِي جَعَلَ لَكُمْ النُّجُوم لِتَهْتَدُوا بِها فِي ظُلُمات البَرّ والبَحْر﴾ فِي الأَسْفار ﴿قَدْ فَصَّلْنا﴾ بَيَّنّا ﴿الآيات﴾ الدَّلالات عَلى قُدْرَتنا ﴿لِقَوْمٍ يَعْلَمُونَ﴾ يَتَدَبَّرُونَ
 
 ---
 
@@ -85,22 +634,249 @@ Allah states that He causes the seed grain and the fruit stone to split and spro
 
 ### Ibn Kathir (English)
 
-وَهُوَ الَّذِى أَنشَأَكُم مِّن نَّفْسٍ وَحِدَةٍ
-(It is He Who has created you from a single person,) 6:98 in reference to Adam, peace be upon him. In another Ayah, Allah said;
-يَـأَيُّهَا النَّاسُ اتَّقُواْ رَبَّكُمُ الَّذِى خَلَقَكُمْ مِّن نَّفْسٍ وَحِدَةٍ وَخَلَقَ مِنْهَا زَوْجَهَا وَبَثَّ مِنْهُمَا رِجَالاً كَثِيراً وَنِسَآءً
-(O mankind! Have Taqwa of your Lord, Who created you from a single person, and from him He created his mate, and from them both He created many men and women.)4:1 All...
+It is He Who has created you from a single person, and has given you a place of residing and a place of storage. Indeed, We have explained in detail Our revelations for people who understand (98)It is He Who sends down water from the sky, and with it We bring forth vegetation of all kinds, and out of it We bring forth green stalks, from which We bring forth thick clustered grain. And out of the date-palm and its sprouts come forth clusters of dates hanging low and near, and gardens of grapes, olives and pomegranates, each similar, yet different. Look at their fruits when they begin to bear, and Yan'ih. Verily! In these things there are signs for people who believe.) Allah sai (99)
+
+وَهُوَ الَّذِي أَنشَأَكُم مِّن نَّفْسٍ وَاحِدَةٍ
+
+(It is He Who has created you from a single person,)[6:98] in reference to Adam, peace be upon him. In another Ayah, Allah said;
+
+يَا أَيُّهَا النَّاسُ اتَّقُوا رَبَّكُمُ الَّذِي خَلَقَكُم مِّن نَّفْسٍ وَاحِدَةٍ وَخَلَقَ مِنْهَا زَوْجَهَا وَبَثَّ مِنْهُمَا رِجَالًا كَثِيرًا وَنِسَاءً
+
+(O mankind! Have Taqwa of your Lord, Who created you from a single person, and from him He created his mate, and from them both He created many men and women.)[4:1] Allah said,
+
+فَمُسْتَقَرٌّ وَمُسْتَوْدَعٌ
+
+(Mustaqar and Mustawda')
+
+Ibn Mas'ud, Ibn 'Abbas, Abu 'Abdur-Rahman As-Sulami, Qays bin Abu Hazim, Mujahid, 'Ata', Ibrahim An-Nakha'i, Ad-Dahhak, Qatadah, As-Suddi and 'Ata' Al-Khurasani and others said that,
+
+فَمُسْتَقَرٌّ
+
+(Mustaqar), 'in the wombs'. They, or most of them, also said that,
+
+وَمُسْتَوْدَعٌ
+
+(And Mustawda',) means, 'in your father's loins'. Ibn Mas'ud and several others said that, Mustaqar, means residence in this life, while, Mustawda', means the place of storage after death (the grave). Allah's statement,
+
+قَدْ فَصَّلْنَا الْآيَاتِ لِقَوْمٍ يَفْقَهُونَ
+
+(Indeed, We have explained in detail Our revelations for people who understand.) refers to those who comprehend and understand Allah's Words and its meanings. Allah said next,
+
+وَهُوَ الَّذِي أَنزَلَ مِنَ السَّمَاءِ مَاءً
+
+(It is He Who sends down water (rain) from the sky) in due measure, as a blessing and provision for the servants, relief and means of survival for the creatures and mercy from Allah for His creation. Allah's statement,
+
+فَأَخْرَجْنَا بِهِ نَبَاتَ كُلِّ شَيْءٍ
+
+(And with it We bring forth vegetation of all kinds,) is similar to,
+
+وَجَعَلْنَا مِنَ الْمَاءِ كُلَّ شَيْءٍ حَيٍّ
+
+(And We have made from water every living thing.)[21:30]
+
+فَأَخْرَجْنَا مِنْهُ خَضِرًا
+
+(and out of it We bring forth green stalks,) green produce and trees, on which We grow seeds and fruits.
+
+نُّخْرِجُ مِنْهُ حَبًّا مُّتَرَاكِبًا
+
+(from which We bring forth thick clustered grain.) lined on top of each other in clusters, like an ear or spike of grain.
+
+وَمِنَ النَّخْلِ مِن طَلْعِهَا قِنْوَانٌ
+
+(And out of the date-palm and its sprouts come forth clusters) of dates
+
+دَانِيَةٌ
+
+(hanging low) Within reach and easy to pick. 'Ali bin Abi Talhah Al-Walibi said that Ibn 'Abbas said that,
+
+قِنْوَانٌ دَانِيَةٌ
+
+(clusters hanging low) refers to short date trees whose branches hang low, close to the ground. This was recorded by Ibn Jarir. Allah's statement
+
+وَجَنَّاتٍ مِّنْ أَعْنَابٍ
+
+(and gardens of grapes,) means, We bring forth gardens of grapes. Grapes and dates are the most precious fruits to the people of Al-Hijaz (Western Arabia), and perhaps both are the best fruits in this world. Allah has reminded His servants of His favor in making these two fruits for them, when He said,
+
+وَمِن ثَمَرَاتِ النَّخِيلِ وَالْأَعْنَابِ تَتَّخِذُونَ مِنْهُ سَكَرًا وَرِزْقًا حَسَنًا
+
+(And from the fruits of date-palms and grapes, you derive strong drink and a goodly provision.)[16:67] before intoxicating drinks were prohibited, and;
+
+وَجَعَلْنَا فِيهَا جَنَّاتٍ مِّن نَّخِيلٍ وَأَعْنَابٍ
+
+(And We have made therein gardens of date-palms and grapes.)[36:34]. Allah said,
+
+وَالزَّيْتُونَ وَالرُّمَّانَ مُشْتَبِهًا وَغَيْرَ مُتَشَابِهٍ
+
+(olives and pomegranates, each similar yet different.)
+
+The leaves are similar in shape and appearence, yet different in the shape, and taste. And the kind of fruit each plant produces is different, according to the explanation of Qatadah and several others. Allah's statement,
+
+انظُرُوا إِلَىٰ ثَمَرِهِ إِذَا أَثْمَرَ وَيَنْعِهِ
+
+(Look at their fruits when they begin to bear, and Yan'ih.) means, when the fruits become ripe, according to Al-Bara' bin 'Azib, Ibn 'Abbas, Ad-Dahhak, 'Ata' Al-Khurasani, As-Suddi, Qatadah and others.
+
+This Ayah means, contemplate the ability of the Creator of these fruits, Who brought them into existence after they were dry wood, and they later became grapes and dates; and similar is the case with the various colors, shapes, tastes and fragrance of whatever Allah created. Allah said,
+
+وَفِي الْأَرْضِ قِطَعٌ مُّتَجَاوِرَاتٌ وَجَنَّاتٌ مِّنْ أَعْنَابٍ وَزَرْعٌ وَنَخِيلٌ صِنْوَانٌ وَغَيْرُ صِنْوَانٍ يُسْقَىٰ بِمَاءٍ وَاحِدٍ وَنُفَضِّلُ بَعْضَهَا عَلَىٰ بَعْضٍ فِي الْأُكُلِ
+
+(And in the earth are neighbouring tracts, and gardens of vines, and green crops, and date-palms, growing out, two or three from a single stem root, or otherwise, watered with the same water, yet some of them We make better than others to eat.)[13:4] This is why Allah said here,
+
+إِنَّ فِي ذَٰلِكُمْ
+
+(In these things there are...) O people,
+
+لَآيَاتٍ
+
+(signs...) and proofs that testify to the perfect ability, wisdom and mercy of He Who created these things,
+
+لِّقَوْمٍ يُؤْمِنُونَ
+
+(for people who believe.) in Allah and obey His Messengers.
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله :  وَهُوَ الَّذِي أَنْشَأَكُمْ مِنْ نَفْسٍ وَاحِدَةٍ فَمُسْتَقَرٌّ وَمُسْتَوْدَعٌ قَدْ فَصَّلْنَا الآيَاتِ لِقَوْمٍ يَفْقَهُونَ (98)قال أبو جعفر: يقول تعالى ذكره: وإلهكم، أيها العادلون بالله غيره =" الذي أنشأكم " ، يعني: الذي ابتدأ خلقكم من غير شيء، فأوجدكم بعد أن لم تكونوا شيئًا (16) =" من نفس واحدة "، يعني: من آدم كما:-13613 - حدثني محمد بن الحسين قال، حدثنا أحمد بن المفضل قال، حدثنا أسباط, عن السدي: " من نفس واحدة "، قال: آدم عليه السلام.13614 - حدثنا بشر بن معاذ قال، ح...
+القول في تأويل قوله: ﴿وَهُوَ الَّذِي أَنْشَأَكُمْ مِنْ نَفْسٍ وَاحِدَةٍ فَمُسْتَقَرٌّ وَمُسْتَوْدَعٌ قَدْ فَصَّلْنَا الآيَاتِ لِقَوْمٍ يَفْقَهُونَ (٩٨) ﴾
+
+قال أبو جعفر: يقول تعالى ذكره: وإلهكم، أيها العادلون بالله غيره ="الذي أنشأكم"، يعني: الذي ابتدأ خلقكم من غير شيء، فأوجدكم بعد أن لم تكونوا شيئًا [[انظر تفسير"أنشأ" فيما سلف: ٢٦٣، ٢٦٤.]] ="من نفس واحدة"، يعني: من آدم كما:-
+
+١٣٦١٣ - حدثني محمد بن الحسين قال، حدثنا أحمد بن المفضل قال، حدثنا أسباط، عن السدي:"من نفس واحدة"، قال: آدم عليه السلام.
+
+١٣٦١٤ - حدثنا بشر بن معاذ قال، حدثنا يزيد قال، حدثنا سعيد، عن قتادة قوله:"وهو الذي أنشأكم من نفس واحدة"، من آدم عليه السلام.
+
+* *
+
+وأما قوله:"فمستقر ومستودع"، فإن أهل التأويل في تأويله مختلفون.
+
+فقال بعضهم: معنى ذلك: وهو الذي أنشأكم من نفس واحدة، فمنكم مستقِرٌّ في الرحم، ومنكم مستودع في القبر حتى يبعثه الله لنَشْر القيامة.
+
+ذكر من قال ذلك:
+
+١٣٦١٥ - حدثنا أبو كريب قال، حدثنا أبو معاوية، عن إسماعيل بن أبي خالد، عن إبراهيم، عن عبد الله: وَيَعْلَمُ مُسْتَقَرَّهَا وَمُسْتَوْدَعَهَا، [سورة هود: ٦] . قال:"مستقرها"، في الأرحام ="ومستودعها"، حيث تموت.
+
+١٣٦١٦- حدثني يعقوب قال، حدثنا هشيم، عن إسماعيل، عن إبراهيم، عن عبد الله أنه قال:"المستودع" حيث تموت، و"المستقر"، ما في الرحم.
+
+١٣٦١٧- حدثت عن عبيد الله بن موسى، عن إسرائيل، عن السدي، عن مرة، عن عبد الله بن مسعود قال:"المستقر"، الرحم، و"المستودع"، المكان الذي تموت فيه.
+
+١٣٦١٨ - حدثني محمد بن عبيد المحاربي قال، حدثنا محمد بن فضيل وعلي بن هاشم، عن إسماعيل بن أبي خالد، عن إبراهيم: وَيَعْلَمُ مُسْتَقَرَّهَا وَمُسْتَوْدَعَهَا قال: ﴿مُسْتَقَرَّهَا﴾ ، في الأرحام = ﴿وَمُسْتَوْدَعَهَا﴾ ، في الأرض، حيث تموت فيها.
+
+١٣٦١٩ - حدثنا أبو كريب وأبو السائب قالا حدثنا ابن إدريس، عن ليث، عن مقسم قال:"مستقرها"، في الصلب حيث تأويل إليه ="ومستودعها"، حيث تموت.
+
+* *
+
+وقال آخرون:"المستودع"، ما كان في أصلاب الآباء = و"المستقر"، ما كان في بطون النساء، وبطون الأرض، أو على ظهورها.
+
+ذكر من قال ذلك:
+
+١٣٦٢٠ - حدثني يعقوب بن إبراهيم قال، حدثنا ابن علية قال، حدثنا كلثوم بن جبر، عن سعيد بن جبير في قوله:"فمستقر ومستودع"، قال: مستودعون، ما كانوا في أصلاب الرجال. فإذا قرّوا في أرحام النساء أو على ظهر الأرض أو في بطنها، فقد استقرّوا.
+
+١٣٦٢١- حدثنا ابن حميد قال، حدثنا ابن علية، عن كلثوم بن جبر، عن سعيد بن جبير:"فمستقر ومستودع"، قال: المستودعون ما كانوا في أصلاب الرجال. فإذا قرّوا في أرحام النساء أو على ظهر الأرض، فقد استقروا.
+
+١٣٦٢٢- حدثنا محمد بن المثنى قال، حدثنا محمد بن جعفر قال، حدثنا شعبة، عن المغيرة بن النعمان، عن سعيد بن جبير قال، قال ابن عباس: ﴿وَيَعْلَمُ مُسْتَقَرَّهَا وَمُسْتَوْدَعَهَا﴾ ، [سورة هود: ٦] . قال:"المستودع" في الصلب = و"المستقر"، ما كان على وجه الأرض أو في الأرض. [[الأثر: ١٣٦٢٢ -"المغيرة بن النعمان النخعي"، يروي عن سعيد بن جبير، وروى عنه شعبة، والثوري، ومسعر، وغيرهم. ثقة. مترجم في التهذيب، والكبير ٤/١/٣٢٥، وابن أبي حاتم ٤/١/٢٣١.]]
+
+* *
+
+وقال آخرون: بل معنى ذلك: فمستقر في الأرض على ظهورها، ومستودع عند الله.
+
+ذكر من قال ذلك:
+
+١٣٦٢٣ - حدثنا ابن وكيع قال، حدثنا يحيى بن يمان، عن سفيان، عن المغيرة، عن أبي الجبر بن تميم بن حذلم، عن سعيد بن جبير، عن ابن عباس:"المستقر" الأرض،"والمستودع"، عند الرحمن. [[الأثر: ١٣٦٢٣ -"المغيرة" في هذ١ الإسناد، هو"المغيرة بن مقسم الضبي"، إمام مشهور، مضى مرارًا، آخرها رقم: ٩٢٩٢. و"أبو الجبر بن تميم بن حذلم"، كان في المطبوعة هنا، وفي رقم: ١٣٦٢٩، ١٣٦٣٧"أبو الخير تميم بن حذلم"، وفي المخطوطة: "أبو الحر تميم بن حذلم"، غير منقوطة وبإسقاط"بن"، وهوخطأ. فإن"تميم بن حذلم الضبي" كنيته"أبو سلمة"، أو "أبو حذلم"، وهو من أصحاب عبد الله بن مسعود، وأدرك أبا بكر، فهو تابعي قديم، وليس يروى عنه"مغيرة"، إنما يروى عنه من طريق ابنه هذا، ومن طريق إبراهيم اللخعي. وهو مترجم في التهذيب، والكبير ١/٢/١٥١، ١٥٢، وابن أبي حاتم ١/١/٤٤٢. وأما ابنه"أبو الجبر بن تميم"، فاسمه"عبد الرحمن بن تميم بن حذلم الضبي"، روى عنه أبو إسحق الهمداني، ومغيرة. فلذلك صححت ما كان في المخطوطة، والمطبوعة، وزدت"بن"، وكذلك أشار إليه البخاري في التاريخ وغيره في ترجمة أبيه، الكبير ١/٢/١٥١، ١٥٢. و"أبو الجبر" بالجيم والباء، وهو مذكور في أكثر الكتب"أبو الخير"، وهو خطأ، ضبطه عبد الغني في المؤتلف والمختلف، وابن ماكولا، والدولابي، وكذلك ذكره ابن أبي حاتم في الكنى (٤/ ٢/ ٣٥٥) في حرف الجيم، وهو مترجم أيضًا فيه ٢/٢/٢١٨. وانظر الأثرين التاليين رقم: ١٣٦٢٩، ١٣٦٣٧.]]
+
+١٣٦٢٤ - حدثنا ابن وكيع قال، حدثنا عبيد الله، عن إسرائيل، عن ابن أبي نجيح، عن مجاهد قال:"المستقر"، الأرض، و"المستودع"، عند ربك.
+
+١٣٦٢٥ - حدثنا الحسن بن يحيى قال، أخبرنا عبد الرزاق قال، أخبرنا ابن عيينة، عن إسماعيل بن أبي خالد، عن إبراهيم قال، قال عبد الله:"مستقرها"، في الدنيا،"ومستودعها"، في الآخرة = يعني="فمستقر ومستودع".
+
+١٣٦٢٦ - حدثني المثنى قال، حدثنا سويد بن نصر قال، أخبرنا ابن المبارك، عن شعبة، عن أبي بشر، عن سعيد بن جبير قال:"المستودع"، في الصلب، و"المستقر"، في الآخرة وعلى وجه الأرض.
+
+* *
+
+وقال آخرون: معنى ذلك: فمستقر في الرحم، ومستودع في الصلب.
+
+ذكر من قال ذلك:
+
+١٣٦٢٧ - حدثنا هناد قال، حدثنا أبو الأحوص، عن أبي الحارث، عن عكرمة، عن ابن عباس في قول الله:"فمستقر ومستودع"، قال: مستقر في الرحم، ومستودع في صلب، لم يخلق سَيُخلق. [[في المطبوعة: "وسيخلق" بزيادة الواو، ولا ضرورة لها.]]
+
+١٣٦٢٨ - حدثنا ابن وكيع قال، حدثنا جرير، عن يحيى الجابر، عن عكرمة:"فمستقر ومستودع"، قال:"المستقر"، الذي قد استقر في الرحم، و"المستودع"، الذي قد استودع في الصلب. [[الأثر: ١٣٦٢٨ -"يحيى الجابر"، هو"يحيى بن المجبر" منسوبًا لجده، و"يحيى بن عبد الله بن الحارث بن المجبر التيمي"، مضى برقم: ١٠١٨٨ - ١٠١٩٠، وكان في المطبوعة هنا"يحيى الجابري"، وهو خطأ صرف.]]
+
+١٣٦٢٩ - حدثنا ابن حميد قال، حدثنا جرير، عن مغيرة، عن أبي الجبر تميم، عن سعيد بن جبير، قال ابن عباس: سل! فقلت: "فمستقرّ ومستودع"؟ قال:"المستقر"، في الرحم، و"المستودع"، ما استودع في الصلب. [[الأثر: ١٣٦٢٩ -"أبو الجبر بن تميم"، انظر التعليق على رقم: ١٣٦٢٣، وكان في المطبوعة: "أبو الخير تميم"، وفي المخطوطة: "أبو الحبر تميم" غير منقوط، وهما خطأ.]]
+
+١٣٦٣٠- حدثنا أبو كريب وأبو السائب قالا حدثنا ابن إدريس، عن قابوس، عن أبيه، عن ابن عباس في قوله:"فمستقر ومستودع"، قال:"المستقر" الرحم، و"المستودع"، ما كان عند رب العالمين مما هو خالقه ولم يخلق.
+
+١٣٦٣١- حدثني يعقوب قال، حدثنا هشيم قال، أخبرنا أبو بشر، عن سعيد بن جبير، عن ابن عباس في قوله: ﴿وَيَعْلَمُ مُسْتَقَرَّهَا وَمُسْتَوْدَعَهَا﴾ [سورة هود: ٦] ، قال:"المستقر"، ما كان في الرحم مما هو حيٌّ، ومما قد مات = و"المستودع"، ما في الصلب.
+
+١٣٦٣٢- حدثني يعقوب قال، حدثنا هشيم قال، أخبرنا أبو بشر، عن سعيد بن جيير قال: قال لي ابن عباس، وذلك قبل أن يَخْرُج وجهي [[قوله: "وذلك قبل أن يخرج وجهي"، يعني: قبل أن تنبت لحيته، وهذا تعبير عزيز لا تجد تفسيره في كتب اللغة والمجاز، فقيده.]] أتزوّجت يا ابن جبير؟ قال: قلت لا وما أريد ذاك يومي هذا! قال فقال: أما إنه مع ذلك سيخرج ما كان في صلبك من المستودَعين.
+
+١٣٦٣٣- حدثنا ابن بشار قال، حدثنا محمد بن جعفر قال، حدثنا شعبة، عن أبي بشر، عن سعيد بن جيير قال: قال لي ابن عباس: تزوجت؟ قلت: لا! قال: فضرب ظهري وقال: ما كان من مستودَع في ظهرك سيخرج.
+
+١٣٦٣٤- حدثني محمد بن سعد قال، حدثني أبي قال، حدثني عمي قال، حدثني أبي، عن أبيه، عن ابن عباس قوله:"فمستقر ومستودع"، قال:"المستقر"، في الأرحام، و"المستودع"، في الصلب، لم يخلق وهو خالقه.
+
+١٣٦٣٥- حدثني المثنى قال، حدثنا عبد الله بن صالح قال، حدثني معاوية بن صالح، عن علي بن أبي طلحة، عن ابن عباس:"فمستقر ومستودع"، قال:"المستقر"، في الرحم، و"المستودع"، ما استودع في أصلاب الرجال والدوابّ.
+
+١٣٦٣٦ - حدثنا ابن وكيع قال، حدثنا جرير، عن ليث، عن مجاهد قال:"المستقر"، ما استقرّ في الرحم، و"المستودع"، ما استودع في الصلب.
+
+١٣٦٣٧- حدثنا ابن وكيع قال، حدثنا جرير، عن مغيرة، عن أبي الجبر بن تميم، عن سعيد بن جبير، عن ابن عباس، بنحوه. [[الأثر: ١٣٦٣٧ -"أبو الجبر بن تميم"، مضى برقم: ١٣٦٢٣، ١٣٦٢٩، تصحيحه، وكان هنا أيضًا في المطبوعة: "أبو الخير تميم"، وفي المخطوطة: "أبو الخير تميم" غير منقوط.]]
+
+١٣٦٣٨ - حدثنا هناد قال، حدثنا عبيدة بن حميد، عن عمار الدهني، عن رجل، عن كريب قال: دعاني ابن عباس فقال: اكتب:"بسم الله الرحمن الرحيم، من عبد الله بن عباس، إلى فلان حَبْر تَيْماء، سلامٌ عليك، فإني أحمد إليك الله الذي لا إله إلا هو، أما بعد = قال، فقلت: تبدؤه تقول: السلام عليك؟ فقال: إن الله هو السلام = ثم قال: اكتب"سلامٌ عليك، أما بعد، فحدثني عن:"مستقر ومستودع". قال: ثم بعثني بالكتاب إلى اليهودي، فأعطيته إياه. فلما نظر إليه قال: مرحبًا بكتاب خليلي من المسلمين! فذهب بي إلى بيته، ففتح أسفاطًا له كبيرة، [["الأسفاط" جمع"سفط" (بفتحتين) : وهو وعاء كالجوالق، وبين الخبر هنا أنهم كانوا يستخدمونه في حفظ الكتب والأسفار.]] فجعل يطرح تلك الأشياء لا يلتفت إليها. قال قلت: ما شأنك؟ قال: هذه أشياء كتبها اليهود! حتى أخرج سفر موسى عليه السلام، قال: فنظر إليه مرتين فقال:"المستقر"، الرحم، قال: ثم قرأ: ﴿وَنُقِرُّ فِي الأرْحَامِ مَا نَشَاءُ﴾ [سورة الحج: ٥] ، وقرأ: ﴿وَلَكُمْ فِي الأرْضِ مُسْتَقَرٌّ وَمَتَاعٌ﴾ ، [سورة البقرة:٣٦] ، [سورة الأعراف:٢٤] . قال: مستقرُّه فوق الأرض، ومستقرُّه في الرحم، ومستقره تحت الأرض حتى يصير إلى الجنة أو إلى النار. [[الأثر: ١٣٦٣٨ -"كريب" هو"كريب بن أبي مسلم الهاشمي" مولى ابن عباس، تابعي ثقة، مضى برقم: ١٠٧٥.]]
+
+١٣٦٣٩ - حدثنا هناد قال، حدثنا قبيصة، عن سفيان، عن ابن جريج، عن عطاء:"فمستقر ومستودع"، قال:"المستقر"، ما استقر في أرحام النساء، و"المستودع"، ما استودع في أصلاب الرجال.
+
+١٣٦٤٠- حدثنا ابن وكيع قال، حدثنا عبيد الله، عن سفيان، عن ابن جريج، عن عطاء قال:"المستقر"، الرحم، و"المستودع"، في أصلاب الرجال.
+
+١٣٦٤١- حدثنا ابن وكيع قال، حدثنا روح بن عبادة، عن ابن جريج، عن عطاء = وعن ابن أبي نجيح، عن مجاهد = قال:"المستقر"، الرحم، و"المستودع"، في الأصلاب.
+
+١٣٦٤٢- حدثني محمد بن عمرو قال، حدثنا أبو عاصم قال، حدثناعيسى، عن ابن أبي نجيح، عن مجاهد:"فمستقر"، ما استقر في أرحام النساء ="ومستودع"، ما كان في أصلاب الرجال.
+
+١٣٦٤٣- حدثني المثنى قال، حدثنا أبو حذيفة قال، حدثنا شبل، عن ابن أبي نجيح، عن مجاهد، بنحوه.
+
+١٣٦٤٤- حدثنا ابن حميد وابن وكيع قالا حدثنا جرير، عن ليث، عن مجاهد قال:"المستقر"، ما استقر في الرحم، و"المستودع"، ما استودع في الصلب.
+
+١٣٦٤٥- حدثنا ابن وكيع قال، حدثنا يحيى بن يمان، عن سفيان، عن ابن أبي نجيح، عن مجاهد قال:"المستقر"، الرحم،"والمستودع"، الصلب.
+
+١٣٦٤٦ - حدثنا ابن وكيع قال، حدثنا معاذ بن معاذ، عن ابن عون قال: أتينا إبراهيم عند المساء فأخبرونا أنه قد مات، فقلنا: هل سأله أحدٌ عن شيء؟ قالوا: عبد الرحمن بن الأسود، عن"المستقر" و"المستودع"، فقال:"المستقر"، في الرحم، و"المستودع"، في الصلب.
+
+١٣٦٤٧- حدثنا حميد بن مسعدة قال، حدثنا بشر بن المفضل قال، حدثنا ابن عون قال: أتينا إبراهيم وقد مات، قال: فحدثني بعضهم: أنّ عبد الرحمن بن الأسود سأله قبل أن يموت عن"المستقر" و"المستودع"، فقال:"المستقر"، في الرحم،"والمستودع"، في الصلب.
+
+١٣٦٤٨- حدثني يعقوب بن إبراهيم قال، حدثنا ابن علية، عن ابن عون: أتينا منزل إبراهيم، فسألنا عنه فقالوا: قد توفي. وسأله عبد الرحمن بن الأسود، فذكر نحوه.
+
+١٣٦٤٩- حدثني به يعقوب بن إبراهيم قال، حدثنا ابن علية، عن ابن عون: أنه بلغه: أنّ عبد الرحمن بن الأسود سأل إبراهيم عن ذلك، فذكر نحوه.
+
+١٣٦٥٠- حدثنا عبيد الله بن محمد الفريابي قال، حدثنا ضمرة بن ربيعة، عن العلاء بن هارون قال: انتهيت إلى منزل إبراهيم حين قبض، فقلت لهم: هل سأله أحد عن شيء؟ قالوا: سأله عبد الرحمن بن الأسود عن"مستقر ومستودع"، فقال: أما"المستقر"، فما استقر في أرحام النساء، و"المستودع"، ما في أصلاب الرجال. [[الأثر: ١٣٦٥٠ -"عبيد الله بن محمد بن هرون الفريابي"، شيخ الطبري، مضى برقم: ١٧، ٩٢٢٧.
+
+و"ضمرة بن ربيعة الفلسطيني"، مضى برقم: ٧١٣٤، ١٢٨٦٨.
+
+و"العلاء بن هرون الواسطي"، سكن الرملة. روى عن ابن عون. ثقة، مترجم في التهذيب، وابن أبي حاتم ٣/١/٣٦٢.
+
+وأخشى أن يكون هذا الخبر، عن العلاء بن هرون، عن ابن عون، بل أرجح أن يكون كذلك.]]
+
+١٣٦٥١- حدثنا أبو كريب وأبو السائب قالا حدثنا ابن إدريس، عن ليث، عن مجاهد في"فمستقر ومستودع"، قال:"المستقر"، الرحم، و"المستودع"، الصلب.
+
+١٣٦٥٢ - حدثني يونس قال، حدثني سفيان، عن رجل حدَّثه، عن سعيد بن جبير قال: قال لي ابن عباس: ألا تنكح؟ ثم قال: أما إني أقول لك هذا، وإني لأعلم أن الله مخرجٌ من صلبك ما كان فيه مستودَع. [[في المطبوعة: "ما كان فيه مستودعًا"، غير ما في المخطوطة بلا طائل.]]
+
+١٣٦٥٣- حدثني محمد بن الحسين قال، حدثنا أحمد بن المفضل قال، حدثنا أسباط، عن السدي قال:"المستقر"، في الرحم، و"المستودع"، في الصلب.
+
+١٣٦٥٤- حدثنا بشر بن معاذ قال، حدثنا يزيد قال، حدثنا سعيد، عن قتادة، عن ابن عباس:"فمستقر ومستودع"، قال:"مستقر"، في الرحم، و"مستودع"، في الصلب.
+
+١٣٦٥٥ - حدثنا محمد بن عبد الأعلى قال، حدثنا محمد بن ثور، عن معمر، عن قتادة:"فمستقر ومستودع"، قال:"مستقر"، في الرحم، و"مستودع"، في الصلب.
+
+١٣٦٥٦ - حدثت عن الحسين بن الفرج قال، سمعت أبا معاذ يقول، حدثنا عبيد بن سليمان، عن الضحاك:"فمستقر ومستودع"، أما"مستقر"، فما استقر في الرحم = وأما"مستودع"، فما استودع في الصلب.
+
+١٣٦٥٧ - حدثني يونس قال، أخبرنا ابن وهب قال، قال ابن زيد في قوله:"فمستقر ومستودع"، قال:"مستقر"، في الأرحام،"ومستودع"، في الأصلاب.
+
+١٣٦٥٨- حدثني المثنى قال، حدثنا الحجاج بن المنهال قال، حدثنا حماد، عن عطاء بن السائب، عن سعيد بن جبير = وأبي حمزة، عن إبراهيم = قالا"مستقر ومستودع"،"المستقر"، في الرحم، و"المستودع"، في الصلب.
+
+* *
+
+وقا
+
+[TRUNCATED at 12000 chars — 2158 more. Consult the source directly before relying on anything near the cut.]
 
 ### al-Muyassar (Arabic)
 
-والله سبحانه هو الذي ابتدأ خلقكم أيها الناس من آدم عليه السلام؛ إذ خلقه من طين، ثم كنتم سلالة ونسلا منه، فجعل لكم مستقَرًا تستقرون فيه، وهو أرحام النساء، ومُستودعًا تُحفَظُون فيه، وهو أصلاب الرجال، قد بينا الحجج وميزنا الأدلة، وأحكمناها لقوم يفهمون مواقع الحجج ومواضع العبر.
+والله سبحانه هو الذي ابتدأ خلقكم - أيها الناس - من آدم عليه السلام؛ إذ خلقه مِن طين، ثم كنتم سلالة ونسلًا منه، فجعل لكم مستقَرًّا تستقرون فيه، وهو أرحام النساء، ومستودعًا تُحفَظُون فيه، وهو أصلاب الرجال، قد بيَّنّا الحجج وميَّزنا الأدلة، وأحكمناها لقوم يفهمون مواقع الحجج ومواضع العبر.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿وهُوَ الَّذِي أنْشَأَكُمْ﴾ خَلَقَكُمْ ﴿مِن نَفْس واحِدَة﴾ هِيَ آدَم ﴿فَمُسْتَقَرّ﴾ مِنكُمْ فِي الرَّحِم ﴿ومُسْتَوْدَع﴾ مِنكُمْ فِي الصُّلْب وفِي قِراءَة بِفَتْحِ القاف أيْ مَكان قَرار لَكُمْ ﴿قَدْ فَصَّلْنا الآيات لِقَوْمٍ يَفْقَهُونَ﴾ ما يُقال لَهُمْ
 
 ---
 
@@ -108,21 +884,324 @@ Allah states that He causes the seed grain and the fruit stone to split and spro
 
 ### Ibn Kathir (English)
 
-وَهُوَ الَّذِى أَنشَأَكُم مِّن نَّفْسٍ وَحِدَةٍ
-(It is He Who has created you from a single person,) 6:98 in reference to Adam, peace be upon him. In another Ayah, Allah said;
-يَـأَيُّهَا النَّاسُ اتَّقُواْ رَبَّكُمُ الَّذِى خَلَقَكُمْ مِّن نَّفْسٍ وَحِدَةٍ وَخَلَقَ مِنْهَا زَوْجَهَا وَبَثَّ مِنْهُمَا رِجَالاً كَثِيراً وَنِسَآءً
-(O mankind! Have Taqwa of your Lord, Who created you from a single person, and from him He created his mate, and from them both He created many men and women.)4:1 All...
+It is He Who has created you from a single person, and has given you a place of residing and a place of storage. Indeed, We have explained in detail Our revelations for people who understand (98)It is He Who sends down water from the sky, and with it We bring forth vegetation of all kinds, and out of it We bring forth green stalks, from which We bring forth thick clustered grain. And out of the date-palm and its sprouts come forth clusters of dates hanging low and near, and gardens of grapes, olives and pomegranates, each similar, yet different. Look at their fruits when they begin to bear, and Yan'ih. Verily! In these things there are signs for people who believe.) Allah sai (99)
+
+وَهُوَ الَّذِي أَنشَأَكُم مِّن نَّفْسٍ وَاحِدَةٍ
+
+(It is He Who has created you from a single person,)[6:98] in reference to Adam, peace be upon him. In another Ayah, Allah said;
+
+يَا أَيُّهَا النَّاسُ اتَّقُوا رَبَّكُمُ الَّذِي خَلَقَكُم مِّن نَّفْسٍ وَاحِدَةٍ وَخَلَقَ مِنْهَا زَوْجَهَا وَبَثَّ مِنْهُمَا رِجَالًا كَثِيرًا وَنِسَاءً
+
+(O mankind! Have Taqwa of your Lord, Who created you from a single person, and from him He created his mate, and from them both He created many men and women.)[4:1] Allah said,
+
+فَمُسْتَقَرٌّ وَمُسْتَوْدَعٌ
+
+(Mustaqar and Mustawda')
+
+Ibn Mas'ud, Ibn 'Abbas, Abu 'Abdur-Rahman As-Sulami, Qays bin Abu Hazim, Mujahid, 'Ata', Ibrahim An-Nakha'i, Ad-Dahhak, Qatadah, As-Suddi and 'Ata' Al-Khurasani and others said that,
+
+فَمُسْتَقَرٌّ
+
+(Mustaqar), 'in the wombs'. They, or most of them, also said that,
+
+وَمُسْتَوْدَعٌ
+
+(And Mustawda',) means, 'in your father's loins'. Ibn Mas'ud and several others said that, Mustaqar, means residence in this life, while, Mustawda', means the place of storage after death (the grave). Allah's statement,
+
+قَدْ فَصَّلْنَا الْآيَاتِ لِقَوْمٍ يَفْقَهُونَ
+
+(Indeed, We have explained in detail Our revelations for people who understand.) refers to those who comprehend and understand Allah's Words and its meanings. Allah said next,
+
+وَهُوَ الَّذِي أَنزَلَ مِنَ السَّمَاءِ مَاءً
+
+(It is He Who sends down water (rain) from the sky) in due measure, as a blessing and provision for the servants, relief and means of survival for the creatures and mercy from Allah for His creation. Allah's statement,
+
+فَأَخْرَجْنَا بِهِ نَبَاتَ كُلِّ شَيْءٍ
+
+(And with it We bring forth vegetation of all kinds,) is similar to,
+
+وَجَعَلْنَا مِنَ الْمَاءِ كُلَّ شَيْءٍ حَيٍّ
+
+(And We have made from water every living thing.)[21:30]
+
+فَأَخْرَجْنَا مِنْهُ خَضِرًا
+
+(and out of it We bring forth green stalks,) green produce and trees, on which We grow seeds and fruits.
+
+نُّخْرِجُ مِنْهُ حَبًّا مُّتَرَاكِبًا
+
+(from which We bring forth thick clustered grain.) lined on top of each other in clusters, like an ear or spike of grain.
+
+وَمِنَ النَّخْلِ مِن طَلْعِهَا قِنْوَانٌ
+
+(And out of the date-palm and its sprouts come forth clusters) of dates
+
+دَانِيَةٌ
+
+(hanging low) Within reach and easy to pick. 'Ali bin Abi Talhah Al-Walibi said that Ibn 'Abbas said that,
+
+قِنْوَانٌ دَانِيَةٌ
+
+(clusters hanging low) refers to short date trees whose branches hang low, close to the ground. This was recorded by Ibn Jarir. Allah's statement
+
+وَجَنَّاتٍ مِّنْ أَعْنَابٍ
+
+(and gardens of grapes,) means, We bring forth gardens of grapes. Grapes and dates are the most precious fruits to the people of Al-Hijaz (Western Arabia), and perhaps both are the best fruits in this world. Allah has reminded His servants of His favor in making these two fruits for them, when He said,
+
+وَمِن ثَمَرَاتِ النَّخِيلِ وَالْأَعْنَابِ تَتَّخِذُونَ مِنْهُ سَكَرًا وَرِزْقًا حَسَنًا
+
+(And from the fruits of date-palms and grapes, you derive strong drink and a goodly provision.)[16:67] before intoxicating drinks were prohibited, and;
+
+وَجَعَلْنَا فِيهَا جَنَّاتٍ مِّن نَّخِيلٍ وَأَعْنَابٍ
+
+(And We have made therein gardens of date-palms and grapes.)[36:34]. Allah said,
+
+وَالزَّيْتُونَ وَالرُّمَّانَ مُشْتَبِهًا وَغَيْرَ مُتَشَابِهٍ
+
+(olives and pomegranates, each similar yet different.)
+
+The leaves are similar in shape and appearence, yet different in the shape, and taste. And the kind of fruit each plant produces is different, according to the explanation of Qatadah and several others. Allah's statement,
+
+انظُرُوا إِلَىٰ ثَمَرِهِ إِذَا أَثْمَرَ وَيَنْعِهِ
+
+(Look at their fruits when they begin to bear, and Yan'ih.) means, when the fruits become ripe, according to Al-Bara' bin 'Azib, Ibn 'Abbas, Ad-Dahhak, 'Ata' Al-Khurasani, As-Suddi, Qatadah and others.
+
+This Ayah means, contemplate the ability of the Creator of these fruits, Who brought them into existence after they were dry wood, and they later became grapes and dates; and similar is the case with the various colors, shapes, tastes and fragrance of whatever Allah created. Allah said,
+
+وَفِي الْأَرْضِ قِطَعٌ مُّتَجَاوِرَاتٌ وَجَنَّاتٌ مِّنْ أَعْنَابٍ وَزَرْعٌ وَنَخِيلٌ صِنْوَانٌ وَغَيْرُ صِنْوَانٍ يُسْقَىٰ بِمَاءٍ وَاحِدٍ وَنُفَضِّلُ بَعْضَهَا عَلَىٰ بَعْضٍ فِي الْأُكُلِ
+
+(And in the earth are neighbouring tracts, and gardens of vines, and green crops, and date-palms, growing out, two or three from a single stem root, or otherwise, watered with the same water, yet some of them We make better than others to eat.)[13:4] This is why Allah said here,
+
+إِنَّ فِي ذَٰلِكُمْ
+
+(In these things there are...) O people,
+
+لَآيَاتٍ
+
+(signs...) and proofs that testify to the perfect ability, wisdom and mercy of He Who created these things,
+
+لِّقَوْمٍ يُؤْمِنُونَ
+
+(for people who believe.) in Allah and obey His Messengers.
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله :  وَهُوَ الَّذِي أَنْزَلَ مِنَ السَّمَاءِ مَاءً فَأَخْرَجْنَا بِهِ نَبَاتَ كُلِّ شَيْءٍ فَأَخْرَجْنَا مِنْهُ خَضِرًا نُخْرِجُ مِنْهُ حَبًّا مُتَرَاكِبًاقال أبو جعفر: يقول تعالى ذكره: والله الذي له العبادة خالصة لا شريك فيها لشيء سواه, (30) هو الإله الذي أنـزل من السماء ماء =" فأخرجنا به نبات كل شيء "، فأخرجنا بالماء الذي أنـزلناه من السماء من غذاء الأنعام والبهائم والطير والوحش وأرزاق بني آدم وأقواتهم، ما يتغذون به ويأكلونه فينبتُون عليه وينمون. وإنما معنى قوله: " فأخرجنا...
+القول في تأويل قوله: ﴿وَهُوَ الَّذِي أَنزلَ مِنَ السَّمَاءِ مَاءً فَأَخْرَجْنَا بِهِ نَبَاتَ كُلِّ شَيْءٍ فَأَخْرَجْنَا مِنْهُ خَضِرًا نُخْرِجُ مِنْهُ حَبًّا مُتَرَاكِبًا﴾
+
+قال أبو جعفر: يقول تعالى ذكره: والله الذي له العبادة خالصة لا شريك فيها لشيء سواه، [[في المطبوعة: "لا شركة فيها لشيء سواء"، غير ما في المخطوطة بسوء رأي!!]] هو الإله الذي أنزل من السماء ماء ="فأخرجنا به نبات كل شيء"، فأخرجنا بالماء الذي أنزلناه من السماء من غذاء الأنعام والبهائم والطير والوحش وأرزاق بني آدم وأقواتهم، ما يتغذون به ويأكلونه فينبتُون عليه وينمون. وإنما معنى قوله:"فأخرجنا به نبات كل شيء"، فأخرجنا به ما ينبت به كل شيء وينمو عليه ويصلحُ.
+
+* *
+
+ولو قيل: معناه: فأخرجنا به نبات جميع أنواع النبات، فيكون"كل شيء"، هو أصناف النبات = كان مذهبًا، وإن كان الوجه الصحيح هو القولَ الأول. [[انظر معاني القرآن للفراء ١: ٣٤٧.]]
+
+* *
+
+وقوله:"فأخرجنا منه خضرًا"، يقول:"فأخرجنا منه"، يعني: من الماء الذي أنزلناه من السماء ="خَضِرًا"، رطبًا من الزرع.
+
+* *
+
+"والخضر"، هو"الأخضر"، كقول العرب:"أرِنيهَا نَمِرة، أُرِكْها مَطِرَة". [[هذا مثل، نسبه صاحب اللسان في (نمر) إلى أبي ذؤيب الهذلي، ولم ينسبه في (خضر) ، ورواه الميداني في الأمثال ١: ٢٥٨، وأبو هلال في جمهرة الأمثال: ١٤، ولم ينسباه إليه، وأذكر أني قرأت قصته ثم افتقدتها الآن فلم أجدها. وقوله: "نمرة" يعني، سحابة، وهو أن يكون سواد وبياض ونمرة، يضرب مثلا في صحة مخيلة الشيء، وصحة الدلالة عليه. وذلك إذا رأيت دليل الشيء، علمت ما يتبعه.]] يقال:"خَضِرَت الأرض خَضَرًا. وخَضَارة". [["الخضارة" مصدر، مثل"الغضارة"، لم يذكر في مادته من كتب اللغة.]] و"الخضر" رطب البقول، ويقال: "نخلة خضيرة"، إذا كانت ترمي ببسرها أخضر قبل أن ينضج. و"قد اختُضِر الرجل" و"اغْتُضِر"، إذا مات شابًّا مُصَحَّحًا. ويقال:"هو لك خَضِرًا مَضِرًا"، أي هنيئًا مريئًا. [[ذكره صاحب اللسان في (خضر) ، ولم يذكره في (مضر) . و"المضر" الغض الطري.]]
+
+* *
+
+قوله:"نخرج منه حبًّا متراكبًا"، يقول: نخرج من الخضر حبًّا = يعني: ما في السنبل، سنبل الحنطة والشعير والأرز، [[انظر تفسير"الحب" فيما سلف ص: ٥٥٠.]] وما أشبه ذلك من السنابل التي حبُّها يركب بعضه بعضًا.
+
+* *
+
+وبنحو الذي قلنا في ذلك قال جماعة أهل التأويل.
+
+ذكر من قال ذلك:
+
+١٣٦٦١ - حدثني محمد بن الحسين قال، حدثنا أحمد بن مفضل قال، حدثنا أسباط، عن السدي قوله:"منه خضرًا نخرج منه حبًّا متراكبًا"، فهذا السنبل.
+
+* *
+
+القول في تأويل قوله: ﴿وَمِنَ النَّخْلِ مِنْ طَلْعِهَا قِنْوَانٌ دَانِيَةٌ﴾
+
+قال أبو جعفر: يقول تعالى ذكره: ومن النخل من طلعها قنوانه دانية، [[في المطبوعة والمخطوطة: "ومن النخل من طلعها قنوان دانية"، وهو نص الآية، وهو بيان لا يستقيم، وإنما الصواب ما أثبت، استظهرته من معاني القرآن للفراء ١: ٣٤٧.]] = ولذلك رفعت"القِنوان".
+
+* *
+
+و"القنوان" جمع"قِنْو"، كما"الصنوان" جمع"صِنْو"، وهو العِذْق، [["العذق" (بكسر فسكون) : كباسة النخل وعراجينها.]] يقال للواحد هو"قِنْو"، و"قُنْو" و"قَنَا"، يثنى"قِنوانِ"، ويجمع"قنوانٌ" و"قُنوانٌ". [[انظر مجاز القرآن لأبي عبيدة ١: ٢٠٢.]] قالوا في جمع قليله:"ثلاثة أقْناء". و"القِنوان" من لغة الحجاز، و"القُنْوان"، من لغة قيس، وقال امرؤ القيس:
+
+فَأَثَّتْ أَعَالِيهِ، وَآدَتْ أُصُولُهُ ... وَمَالَ بِقِنْوانٍ مِنَ البُسْرِ أَحْمَرَا [[ديوانه: ٦٧، واللسان (قنا) ، وغيرها كثير. من قصيدته المستجادة، وهو من أولها، يصف ظعن الحي يشبهها بالنخل، يقول قبله: بِعَيْنيَّ ظُعْنُ الحَيِّ لَمَّا تَحَمَّلُوا ... لَدَى جَانِبِ الأَفْلاجِ مِنْ جَنْبِ تَيْمرَا
+
+فَشَبَّهْتُهُمْ فِي الآلِ لَمَّا تَكَمَّشُوا ... حَدَائِقَ دَوْمٍ، أوْ سَفِينًا مُقَيَّرَا
+
+أَوِ المُكْرِعَاتِ من نَخِيلِ ابْنِ يَامِنٍ ... دُوَيْنَ الصَّفَا اللائِي يَلِينَ المُشقّرا
+
+سَوَامِقَ جَبَّارٍ أَثِيثٍ فُرُوعُهُ ... وَعَالَيْنَ قِنْوَانًا مِنَ البُسْرِ أَحْمَرَا
+
+فهذه رواية أخرى غير التي رواها أبو جعفر وغيره. وقوله: "فأثت أعاليه": أي: عظمت والتفت من ثقل حملها. وقوله: "آدت"، أي تثنت ومالت.]]
+
+و"قِنْيان"، جميعًا، وقال آخر: [[لم أعرف قائله.]]
+
+لَهَا ذَنَبٌ كَالْقِنْوِ قَدْ مَذِلَتْ بِهِ ... وَأَسْحَمَ لِلتَّخْطَارِ بَعْدَ التَّشَذُّرِ [[رواه أبو زيد في نوادره: ١٨٢، بيتًا مفرادًا، وقال في تفسيره: "التشذر"، إذا لقحت الناقة عقدت ذنبها ونصبته على عجزها من التخيل، فذاك التشذر. و"المذل" (بفتحتين) : أن لا تحرك ذنبها. ولم أعرف لقوله"أسحم" في هذا البيت معنى، ورواية أبي زيد: "وأسمح"، وهو حق المعنى فيما أرجح. و"التخطار"، مصدر"خطر الفحل بذنبه خطرًا وخطرانًا وخطيرًا"، رفعه مرة بعد مرة، وضرب به حاذيه، وهما ما ظهر من فخذيه حيث يقع شعر الذنب. وهذا المصدر لم يذكر في شيء من معاجم اللغة. والمعنى: أنها أقرت ذنبها، ثم أسمح لها بعد نشاطها وتبخترها فاسترخى. هكذا ظننت معناه.]]
+
+وتميم تقول:" قُنْيان" بالياء.
+
+* *
+
+ويعني بقوله:"دانية"، قريبة متهدّلة.
+
+* *
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+١٣٦٦٢ - حدثنا المثنى قال، حدثنا عبد الله بن صالح قال، حدثني معاوية بن صالح، عن علي بن أبي طلحة، عن ابن عباس:"قنوان دانية"، يعني ب"القنوان الدانية"، قصار النخل، لاصقة عُذُوقها بالأرض.
+
+١٣٦٦٣ - حدثنا بشر بن معاذ قال، حدثنا يزيد قال، حدثنا سعيد، عن قتادة قوله:"من طلعها قنوان دانية"، قال: عذوق متهدلة.
+
+١٣٦٦٤- حدثنا محمد بن عبد الأعلى قال، حدثنا محمد بن ثور، عن معمر، عن قتادة:"قنوان دانية"، يقول: متهدلة.
+
+١٣٦٦٥ - حدثنا هناد قال، حدثنا وكيع، وحدثنا ابن وكيع قال، حدثنا أبي، عن سفيان، عن أبي إسحاق، عن البراء في قوله:"قنوان دانية"، قال: قريبة.
+
+١٣٦٦٦- حدثنا الحسن بن يحيى قال، أخبرنا عبد الرزاق قال، أخبرنا الثوري، عن أبي إسحاق، عن البراء بن عازب:"قنوان دانية"، قال: قريبة.
+
+١٣٦٦٧- حدثني محمد بن سعد قال، حدثني أبي قال، حدثني عمي قال، حدثني أبي، عن أبيه، عن ابن عباس قوله:"ومن النخل من طلعها قنوان دانية"، قال: الدانية، لتهدُّل العُذوق من الطلع.
+
+١٣٦٦٨ - حدثت عن الحسين بن الفرج قال، سمعت أبا معاذ قال، حدثنا عبيد بن سليمان قال، سمعت الضحاك يقول في قوله:"ومن النخل من طلعها قنوان دانية"، يعني النخل القصارَ الملتزقة بالأرض، و"القنوان" طلعه.
+
+* *
+
+القول في تأويل قوله: ﴿وَجَنَّاتٍ مِنْ أَعْنَابٍ وَالزَّيْتُونَ وَالرُّمَّانَ مُشْتَبِهًا وَغَيْرَ مُتَشَابِهٍ﴾
+
+قال أبو جعفر: يقول تعالى ذكره: وأخرجنا أيضًا جنات من أعناب = يعني: بساتينَ من أعناب. [[انظر تفسير"الجنات" فيما سلف من فهارس اللغة (جنن)]]
+
+* *
+
+واختلف القرأة في قراءة ذلك.
+
+فقرأه عامة القرأة: ﴿وَجَنَّاتٍ﴾ نصبًا، غير أن"التاء" كسرت، لأنها"تاء" جمع المؤنث، وهي تخفض في موضع النصب. [[في المطبوعة، أسقط"في" من الكلام سهوًا.]]
+
+* *
+
+وقد:-
+
+١٣٦٦٩- حدثني الحارث قال، حدثنا القاسم بن سلام، عن الكسائي قال، أخبرنا حمزة، عن الأعمش أنه قرأ: ﴿وَجَنَّاتٌ مِنْ أَعْنَابٍ﴾ .
+
+* *
+
+= بالرفع، فرفع"جنات" على إتباعها"القنوان" في الإعراب، وإن لم تكن من جنسها، كما قال الشاعر:
+
+وَرَأَيْتِ زَوْجَكِ فِي الوَغَى ... مُتَقَلِّدًا سَيْفًا وَرُمْحَا [[مضى البيت وتخريجه مرارًا ١: ١٤٠/٦: ٤٢٣/ ١٠: ٤٠٨.]]
+
+* *
+
+قال أبو جعفر: والقراءة التي لا أستجيز أن يقرأ ذلك إلا بها، النصبُ: ﴿وَجَنَّاتٍ مِنْ أَعْنَابٍ﴾ ، لإجماع الحجة من القرأة على تصويبها والقراءة بها، ورفضهم ما عداها، وبُعْدِ معنى ذلك من الصواب إذ قرئ رفعًا.
+
+* *
+
+وقوله:"والزيتون والرمان"، عطف ب"الزيتون" على"الجنات"، بمعنى: وأخرجنا الزيتونَ والرمان مشتبهًا وغير متشابه.
+
+* *
+
+وكان قتادة يقول في معنى"مشتبهًا وغير متشابه"، ما:-
+
+١٣٦٧٠ - حدثنا بشر بن معاذ قال، حدثنا يزيد قال، حدثنا سعيد، عن قتادة قوله:"وجنات من أعناب والزيتون والرمان مشتبهًا وغير متشابه"، قال: مشتبهًا ورقه، مختلفًا ثمرُه.
+
+* *
+
+وجائز أن يكون مرادًا به: مشتبهًا في الخلق، مختلفًا في الطعم. [[انظر تفسير"متشابه" فيما سلف ١: ٣٨٥ - ٣٩٤/٦: ١٧٣.]]
+
+* *
+
+قال أبو جعفر: ومعنى الكلام: وشجر الزيتون والرمان، فاكتفى من ذكر"الشجر" بذكر ثمره، كما قيل: ﴿واسأل القرية﴾ ، [سورة يوسف: ٨٢] ، فاكتفى بذكر"القرية" من ذكر"أهلها"، لمعرفة المخاطبين بذلك بمعناه.
+
+* *
+
+القول في تأويل قوله: ﴿انْظُرُوا إِلَى ثَمَرِهِ إِذَا أَثْمَرَ وَيَنْعِهِ﴾
+
+قال أبو جعفر: اختلفت القرأة في قراءة ذلك.
+
+فقرأته عامة قرأة أهل المدينة وبعض أهل البصرة: ﴿انْظُرُوا إلَى ثَمَرِهِ﴾ ، بفتح"الثاء" و"الميم".
+
+* *
+
+وقرأه بعض قرأة أهل مكة وعامة قرأة الكوفيين: ﴿إلَى ثُمُرِهِ﴾ ، بضم"الثاء" و"الميم".
+
+* *
+
+= فكأنّ من فتح"الثاء" و"الميم" من ذلك، وجَّه معنى الكلام: انطروا إلى ثمر هذه الأشجار التي سمينا من النخل والأعناب والزيتون والرمان إذا أثمرَ = وأن"الثمر" جمع"ثمرة"، كما"القصب"، جمع"قصبة"، و"الخشب" جمع"خشبة".
+
+* *
+
+= وكأنّ من ضم"الثاء" و"الميم"، وجَّه ذلك إلى أنه جمع"ثِمَار"، كما"الحُمُر" جمع"حمار"، و"الجُرُب" جمع"جراب"، وقد:-
+
+١٣٦٧١ - حدثني المثنى قال، حدثنا إسحاق قال، حدثنا عبد الرحمن بن أبي حماد، عن ابن إدريس، عن الأعمش، عن يحيى بن وثاب: أنه كان يقرأ: ﴿إلَى ثُمُرِهِ﴾ ، يقول: هو أصناف المال.
+
+١٣٦٧٢ - حدثني المثنى قال، حدثنا إسحاق قال، حدثنا ابن أبي حماد قال، حدثنا محمد بن عبيد الله، عن قيس بن سعد، عن مجاهد قال:"الثُّمُر"، هو المال = و"الثمر"، ثَمَر النخل. [[روي عن مجاهد أبين من هذا إذ قال: "هو الذهب والفضة"، كما حكاه الفارسي عنه.]]
+
+* *
+
+وأولى القراءتين في ذلك عندي بالصواب، قراءة من قرأ: ﴿انْظُرُوا إلَى ثُمُرِهِ﴾ بضم"الثاء" و"الميم"، لأن الله جل ثناؤه وصفَ أصنافًا من المال كما قال يحيى بن وثاب، وكذلك حبّ الزرع المتراكب، وقنوان النخل الدانية، والجنات من الأعناب والزيتون والرمان، فكان ذلك أنواعًا من الثمر، فجمعت"الثمرة""ثمرًا"، ثم جمع"الثمر""ثمارًا"، ثم جمع ذلك فقيل: ﴿انْظُرُوا إلَى ثُمُرِهِ﴾ ، فكان ذلك جمع"الثمار" و"الثمار" جمع"الثمر" = و"إثماره"، عقدُ الثمر.
+
+* *
+
+وأما قوله:"وَينْعه"، فإنه نُضجه وبلوغُه حين يبلغ.
+
+* *
+
+وكان بعض أهل العلم بكلام العرب من أهل البصرة يقول في"يَنْعه" إذا فتحت ياؤه، هو جمع"يانع"، كما"التَّجْر" جمع"تاجر"، و"الصحب" جمع"صاحب". [[هو أبو عبيدة في مجاز القرآن ١: ٢٠٢، وهو منسوب أيضًا إلى ابن كيسان، كما جاء في لسان العرب (ينع) .]]
+
+* *
+
+وكان بعض أهل الكوفة ينكر ذلك، ويرى أنه مصدر من قولهم:"ينع الثمر فهو يَيْنع يَنْعًا"، ويحكى في مصدره عن العرب لغات ثلاثًا:"يَنْع"، و"يُنْع"، و"يَنَع"، وكذلك في"النَّضْج""النُّضج" و"النَّضَج". [[ذكر أبو جعفر في"ينع" و"نضج" مصدرًا ثالثًا غير الذي ذكره أصحاب المعاجم، فإنهم اقتصروا في (ينع) على فتح الياء وسكون النون، وضمها وسكون النون = واقتصروا في (نضج) على فتح النون وسكون الضاد، وضمها وسكون الضاد. أما هذا المصدر الثالث الذي رواه أبو جعفر ولم يضبطه، فلم أجده في شيء من المعاجم، وهو مما يزاد عليها، إلا أني استظهرت ضبطه في الحرفين بفتح الياء والنون في ينع"، وبفتح النون والضاد في"نضج". وسيذكر أبو جعفر مصدرًا آخر بعد قليل وهو"ينوع".]]
+
+* *
+
+وأما في قراءة من قرأ ذلك: ﴿وَيَانِعِهِ﴾ ، فإنه يعني به: وناضجه، وبالغه.
+
+* *
+
+وقد يجوز في مصدره"يُنُوعًا"، ومسموع من العرب:"أينعت الثمرة تُونِع إيناعًا"، ومن لغة الذين قالوا:"ينع"، قول الشاعر: [[هذا شعر مختلف فيه من شعر يزيد بن معاوية، ونسبه المبرد إلى الأحوص، ونسبه الجاحظ إلى أبي دهبل، وينسب إلى الأخطل خطأ.]]
+
+فِي قِبَابٍ عِنْدَ دَسْكَرَةٍ ... حَوْلَهَا الزَّيْتُونُ قَدْ يَنَعَا [[الحيوان ٤: ١٠، الكامل ١: ٢٢٦، أنساب الأشراف ٤/٢/٢، مجاز القرآن لأبي عبيدة ١: ٢٠٢، تاريخ ابن كثير ٨: ٢٣٤، تاريخ الخلفاء للسيوطي: ١٤٠، معجم ياقوت (الماطرون) ؛ الخزانة ٣: ٢٧٩، العيني (هامش الخزانة ١: ١٤٩) ، واللسان (ينع) وغيرها. من شعر يقال إن يزيد قاله في نصرانية ترهبت في دير خرب عند الماطرون، وهو موضع بالشأم. وهذا هو الشعر، مع اختلاف الرواية فيه: آبَ هَذَا الهَمُّ فَاكْتَنَعَا ... وأتَرَّ النَّوْمَ فَاْمْتَنَعَا
+
+رَاعِيًا للِنَّجْمِ أرْقُبُهُ ... فَإِذَا ما كَوْكَبٌ طَلَعَا
+
+حَامَ، حَتَّى إنَّنِي لأرَى ... أنَّهُ بِالْغَورِ قَدْ وَقَعَا
+
+وَلَهَا بالمَاطِرُونِ إذَا ... أكَلَ النَّمْلُ الَّذِي جَمَعَا
+
+خُرْفَةٌ، حَتَّى إذَا ارْتَبَعَتْ ... سَكَنَتْ منْ جِلَّقٍ بِيَعَا
+
+فِي قِبَابٍ حَوْلَ دَسْكَرةٍ ... حَوْلَهَا الزَّيْتُونُ قَدْ يَنَعَا
+
+عِنْد غَيْري، فَالْتَمِسْ رَجُلا ... يأكُلُ التَّنُّوَم والسَّلَعَا
+
+ذَاكَ شَيءٌ لَسْتُ آكُلُهُ ... وَأرَاهُ مَأْكَلا فَظِعَا
+
+"اكتنع الهم"، دنا دنوًّا شديدا. و"أتر النوم" أبعده، والرواية المشهورة و"أمر النوم" من المرارة. وقوله: "أكل النمل الذي جمعا"، يعني زمن الشتاء. و"الخرفة" ما يجتنى من الفاكهة. و"ارتبعت" دخلت في الربيع. و"جلق" قرية من قرى دمشق. و"البيع" جمع"بيعة" (بكسر الباء) ، وهي كنيسة اليهود أو النصارى، و"الدسكرة" بناء كالقصر، كانت الأعاجم تتخذه للشرب والملاهي. و"التنوم" و"السلع" نباتان، تأكلها جفاة أهل البادية. و"فظع"، فظيع يستبشعه آكله.
+
+ورواية البلاذري للبيت: فِي جِنَانٍ ثَمَّ مُؤْنِقَةٍ ... حَوْلَهَا الزَّيْتُونُ قَدْ يَنَعَا]]
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+١٣٧٦٣ - حدثني المثنى قال، حدثنا عبد الله بن صالح قال، حدثني معاوية بن صالح، عن علي بن أبي طلحة، عن ابن عباس:"وينعه"، يعني: إذا نضج.
+
+١٣٦٧٤- حدثني محمد بن سعد قال، حدثني أبي قال، حدثني عمي قال، حدثني أبي، عن أبيه، عن ابن عباس قوله:"انطروا إلى ثمره إذا أثمر وينعه"، قال:"ينعه"، نضجه.
+
+١٣٦٧٥ - حدثنا بشر قال، حدثنا يزيد قال، حدثنا سعيد، عن قتادة: " انظروا إلى ثمره إذا أثمر وينعه"، أي نضجه.
+
+١٣٦٧٦- حدثنا الحسن بن يحيى قال، أخبرنا عبد الرزاق قال، أخبرنا معمر، عن قتادة في قوله:"وينعه"، قال: نضجه.
+
+١٣٦٧٧ - حدثني محمد بن الحسين قال، حدثنا أحمد بن المفضل قال، حدثنا أسباط، عن السدي:"وينعه"، يقول: ونضجه.
+
+١٣٦٧٨- حدثت عن الحسين بن الفرج قال، سمعت أبا معاذ قال، حدثنا عبيد بن سليمان قال، سمعت الضحاك يقول في قوله:"وينع
+
+[TRUNCATED at 12000 chars — 916 more. Consult the source directly before relying on anything near the cut.]
 
 ### al-Muyassar (Arabic)
 
-والله سبحانه هو الذي أنزل من السحاب مطرًا فأخرج به نبات كل شيء، فأخرج من النبات زرعًا وشجرًا أخضر، ثم أخرج من الزرع حَبًّا يركب بعضه بعضًا، كسنابل القمح والشعير والأرز، وأخرج من طلع النخل -وهو ما تنشأ فيه عذوق الرطب- عذوقًا قريبة التناول، وأخرج سبحانه بساتين من أعناب، وأخرج شجر الزيتون والرمان الذي يتشابه في ورقه ويختلف في ثمره شكلا وطعمًا وطبعًا. انظروا أيها الناس إلى ثمر هذا النبات إذا أثمر، وإلى نضجه وبلوغه حين يبلغ. إن في ذلكم - أيها الناس - لدلالات على كمال قدرة خالق هذه الأشياء وحكمته و...
+والله سبحانه هو الذي أنزل من السحاب مطرًا فأخرج به نبات كل شيء، فأخرج من النبات زرعًا وشجرًا أخضر، ثم أخرج من الزرع حبًّا يركب بعضه بعضًا، كسنابل القمح والشعير والأُرْزِ، وأخرج من طلع النخل -وهو الغِلاف الذي ينشأ فيه أول ثمر النَّخل- عذوقًا بما فيها من الرُّطب قريبة التناول، وأخرج سبحانه بساتين من أعناب، وأخرج شجر الزيتون والرمان الذي يتشابه في ورقه ويختلف في ثمره شكلًا وطعمًا وطبعًا. انظروا أيها الناس إلى ثمر هذا النبات إذا أثمر، وإلى نضجه وبلوغه حين يبلغ. إن في ذلكم -أيها الناس- لدلالات على كمال قدرة خالق هذه الأشياء وحكمته ورحمته لقوم يصدقون به تعالى ويعملون بشرعه.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿وهُوَ الَّذِي أنْزَلَ مِن السَّماء ماء فَأَخْرَجْنا﴾ فِيهِ التِفات عَنْ الغَيْبَة ﴿بِهِ﴾ بِالماءِ ﴿نَبات كُلّ شَيْء﴾ يَنْبُت ﴿فَأَخْرَجْنا مِنهُ﴾ أيْ النَّبات شَيْئًا ﴿خَضِرًا﴾ بِمَعْنى أخْضَر ﴿نُخْرِج مِنهُ﴾ مِن الخَضِر ﴿حَبًّا مُتَراكِبًا﴾ يَرْكَب بَعْضه بَعْضًا كَسَنابِل الحِنْطَة ونَحْوها ﴿ومِن النَّخْل﴾ خَبَر ويُبْدَل مِنهُ ﴿مِن طَلْعها﴾ أوَّل ما يَخْرُج مِنها والمُبْتَدَأ ﴿قِنْوان﴾ عَراجِين ﴿دانِيَة﴾ قَرِيب بَعْضها مِن بَعْض ﴿وجَنّات﴾ أخْرَجْنا بِهِ بَساتِين ﴿مِن أعْناب والزَّيْتُون والرُّمّان مُشْتَبِهًا﴾ ورَقهما حال ﴿وغَيْر مُتَشابِه﴾ ثَمَرها ﴿اُنْظُرُوا﴾ يا مُخاطَبُونَ نَظَرَ اعْتِبار ﴿إلى ثَمَره﴾ بِفَتْحِ الثّاء والمِيم وبِضَمِّهِما وهُوَ جَمْع ثَمَرَة كَشَجَرَةٍ وشَجَر وخَشَبَة وخَشَب ﴿إذا أثْمَرَ﴾ أوَّل ما يَبْدُو كَيْفَ هُوَ ﴿ويَنْعه﴾ إلى نُضْجه إذا أدْرَكَ كَيْفَ يَعُود ﴿إنّ فِي ذَلِكُمْ لَآيات﴾ دَلالات عَلى قُدْرَته تَعالى عَلى البَعْث وغَيْره ﴿لِقَوْمٍ يُؤْمِنُونَ﴾ خُصُّوا بِالذِّكْرِ لِأَنَّهُمْ المُنْتَفِعُونَ بِها فِي الإيمان بِخِلافِ الكافِرِينَ
 
 ---

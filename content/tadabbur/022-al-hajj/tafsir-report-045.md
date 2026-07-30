@@ -1,6 +1,6 @@
 # Tafsir Cross-Reference Report
 
-Generated: 2026-07-15
+Generated: 2026-07-30
 Ayahs referenced: 1
 Tafsir sources: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), al-Jalalayn (Arabic)
 
@@ -10,13 +10,169 @@ Tafsir sources: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), 
 
 ### Ibn Kathir (English)
 
-And if they deny you, so did deny before them the people of Nuh, 'Ad and Thamud (42)And the people of Ibrahim and the people of Lut (43)And the dwellers of Madyan; and denied was Musa. But I granted respite to the disbelievers for a while, then I seized them, and how (terrible) was My punishment (44)And many a township did We destroy while they were given to wrongdoing, so that it lie in ruins, and a deserted well and castle Mashid (45)Have they not traveled through the land, and have they he...
+And if they deny you, so did deny before them the people of Nuh, 'Ad and Thamud (42)And the people of Ibrahim and the people of Lut (43)And the dwellers of Madyan; and denied was Musa. But I granted respite to the disbelievers for a while, then I seized them, and how (terrible) was My punishment (44)And many a township did We destroy while they were given to wrongdoing, so that it lie in ruins, and a deserted well and castle Mashid (45)Have they not traveled through the land, and have they hearts wherewith to understand and ears wherewith to hear Verily, it is not the eyes that grow blind, but it is the hearts which are in the breasts that grow blind (46)
+
+The Consequences for the Disbelievers
+
+Here Allah consoles His Prophet Muhammad ﷺ for the disbelief of those among his people who opposed him.
+
+وَإِن يُكَذِّبُوكَ فَقَدْ كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍ
+
+(And if they deny you, so did deny before them the people of Nuh) until His saying,
+
+وَكُذِّبَ مُوسَىٰ
+
+(and denied was Musa.) means, despite all the clear signs and evidence that they brought.
+
+فَأَمْلَيْتُ لِلْكَافِرِينَ
+
+(But I granted respite to the disbelievers for a while,) means, 'I delayed and postponed.'
+
+ثُمَّ أَخَذْتُهُمْ ۖ فَكَيْفَ كَانَ نَكِيرِ
+
+(then I seized them, and how (terrible) was My punishment!) means, 'how great was My vengeance against them and My punishment of them!' In the Two Sahihs it is reported from Abu Musa that the Prophet ﷺ said:
+
+إِنَّ اللهَ لَيُمْلِي لِلظَّالِمِ حَتَّى إِذَا أَخَذَهُ لَمْ يُفْلِتْهُ
+
+(Allah lets the wrongdoer carry on until, when He seizes him, He will never let him go.) Then he recited:
+
+وَكَذَٰلِكَ أَخْذُ رَبِّكَ إِذَا أَخَذَ الْقُرَىٰ وَهِيَ ظَالِمَةٌ ۚ إِنَّ أَخْذَهُ أَلِيمٌ شَدِيدٌ
+
+(Such is the punishment of your Lord when He seizes the towns while they are doing wrong. Verily, His punishment is painful (and) severe.)(11:102) Then Allah says:
+
+فَكَأَيِّن مِّن قَرْيَةٍ أَهْلَكْنَاهَا
+
+(And many a township did We destroy)
+
+وَهِيَ ظَالِمَةٌ
+
+(while they were given wrongdoing,) meaning, they were rejecting their Messengers.
+
+فَهِيَ خَاوِيَةٌ عَلَىٰ عُرُوشِهَا
+
+(so that it lie in ruins,) Ad-Dahhak said, "[Leveled to] their roofs," i.e., their houses and cities were destroyed.
+
+وَبِئْرٍ مُّعَطَّلَةٍ
+
+(and (many) a deserted well) means, they draw no water from it, and no one comes to it, after it had been frequented often by crowds of people.
+
+وَقَصْرٍ مَّشِيدٍ
+
+(and a castle Mashid!) 'Ikrimah said, "This means whitened with plaster." Something similar was narrated from 'Ali bin Abi Talib, Mujahid, 'Ata', Sa'id bin Jubayr, Abu Al-Mulayh and Ad-Dahhak. Others said that it means high and impenetrable fortresses. All of these suggestions are close in meaning and do not contradict one another, for this sturdy construction and great height did not help their occupants or afford them any protection when the punishment of Allah came upon them, as He says:
+
+أَيْنَمَا تَكُونُوا يُدْرِككُّمُ الْمَوْتُ وَلَوْ كُنتُمْ فِي بُرُوجٍ مُّشَيَّدَةٍ
+
+("Wheresoever you may be, death will overtake you even if you are in Buruj Mushayyadah!")(4:78)
+
+أَفَلَمْ يَسِيرُوا فِي الْأَرْضِ
+
+(Have they not traveled through the land,) means, have they not traveled in the physical sense and also used their minds to ponder? That is sufficient, as Ibn Abi Ad-Dunya said in his book At-Tafakkur wal-I'tibar, "Some of the wise people said, 'Give life to your heart with lessons, illuminate it with thought, kill it with asceticism, strengthen it with certain faith, remind it of its mortality, make it aware of the calamities of this world, warn it of the disasters that life may bring, show it how things may suddenly change with the passing of days, tell it the stories of the people of the past, and remind it what happened to those who came before.'" Walk through their ruins, see what they did and what became of them, meaning, look at the punishments and divine wrath that struck the nations of the past who belied,
+
+فَتَكُونَ لَهُمْ قُلُوبٌ يَعْقِلُونَ بِهَا أَوْ آذَانٌ يَسْمَعُونَ بِهَا
+
+(and have they hearts wherewith to understand and ears wherewith to hear) meaning, let them learn a lesson from that.
+
+فَإِنَّهَا لَا تَعْمَى الْأَبْصَارُ وَلَٰكِن تَعْمَى الْقُلُوبُ الَّتِي فِي الصُّدُورِ
+
+(Verily, it is not the eyes that grow blind, but it is the hearts which are in the breasts that grow blind.) means, the blind person is not the one whose eyes cannot see, but rather the one who has no insight. Even if the physical eyes are sound, they still cannot learn the lesson.
 
 ### al-Tabari (Arabic)
 
 القول في تأويل قوله تعالى: ﴿وَإِنْ يُكَذِّبُوكَ فَقَدْ كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍ وَعَادٌ وَثَمُودُ (٤٢) وَقَوْمُ إِبْرَاهِيمَ وَقَوْمُ لُوطٍ (٤٣) وَأَصْحَابُ مَدْيَنَ وَكُذِّبَ مُوسَى فَأَمْلَيْتُ لِلْكَافِرِينَ ثُمَّ أَخَذْتُهُمْ فَكَيْفَ كَانَ نَكِيرِ (٤٤) ﴾
 
-يقول تعالى ذكره مسليا نبيه محمدا ﷺ عما يناله من أذى المشركين بالله، وحاضا له على الصبر على ما يلحقه منهم من السبّ والتكذيب: وإن يكذّبك يا محمد هؤلاء المشركون بالله على ما آتيتَهم به من الحق والبرهان، وما تعدهم من العذاب على كفر...
+يقول تعالى ذكره مسليا نبيه محمدا ﷺ عما يناله من أذى المشركين بالله، وحاضا له على الصبر على ما يلحقه منهم من السبّ والتكذيب: وإن يكذّبك يا محمد هؤلاء المشركون بالله على ما آتيتَهم به من الحق والبرهان، وما تعدهم من العذاب على كفرهم بالله، فذلك سنة إخوانهم من الأمم الخالية المكذّبة رسل الله المشركة بالله ومنهاجهم من قبلهم، فلا يصدنك ذلك، فإن العذاب المهين من ورائهم ونصري إياك وأتباعك عليهم آتيهم من وراء ذلك، كما أتى عذابي على أسلافهم من الأمم الذين من قبلهم بعد الإمهال إلى بلوغ الآجال. فقد كذبت قبلهم يعني مشركي قريش؛ قوم نوح، وقوم عاد وثمود، وقوم إبراهيم، وقوم لوط، وأصحاب مدين، وهم قوم شعيب. يقول: كذب كلّ هؤلاء رسلهم. وكذب موسى، فقيل: وكذب موسى، ولم يقل: وقوم موسى، لأن قوم موسى بنو إسرائيل، وكانت قد استجابت له ولم تكذّبه، وإنما كذّبه فرعون وقومه من القبط.
+
+وقد قيل: إنما قيل ذلك كذلك لأنه ولد فيهم كما ولد في أهل مكة.
+
+* *
+
+وقوله: ﴿فَأَمْلَيْتُ لِلْكَافِرِينَ﴾
+
+يقول: فأمهلت لأهل الكفر بالله من هذه الأمم، فلم أعاجلهم بالنقمة والعذاب ﴿ثُمَّ أَخَذْتُهُمْ﴾ يقول: ثم أحللت بهم العقاب بعد الإملاء ﴿فَكَيْفَ كَانَ نَكِيرِ﴾
+
+يقول: فانظر يا محمد كيف كان تغييري ما كان بهم من نعمة وتنكري لهم عما كنت عليه من الإحسان إليهم، ألم أبدلهم بالكثرة قلة وبالحياة موتا وهلاكا وبالعمارة خرابا؟ يقول: فكذلك فعلي بمكذّبيك من قريش، وإن أمليت لهم إلى آجالهم، فإني منجزك وعدي فيهم كما أنجزت غيرك من رسلي وعدي في أممهم، فأهلكناهم وأنجيتهم من بين أظهرهم.
+
+* *
+
+القول في تأويل قوله تعالى: ﴿فَكَأَيِّنْ مِنْ قَرْيَةٍ أَهْلَكْنَاهَا وَهِيَ ظَالِمَةٌ فَهِيَ خَاوِيَةٌ عَلَى عُرُوشِهَا وَبِئْرٍ مُعَطَّلَةٍ وَقَصْرٍ مَشِيدٍ (٤٥) ﴾
+
+يقول تعالى ذكره: وكم يا محمد من قرية أهلكت أهلها وهم ظالمون؛ يقول: وهم يعبدون غير من ينبغي أن يُعبد، ويعصون من لا ينبغي لهم أن يعصوه.
+
+* *
+
+وقوله: ﴿فَهِيَ خَاوِيَةٌ عَلَى عُرُوشِهَا﴾
+
+يقول: فباد أهلها وخلت، وخوت من سكانها، فخربت وتداعت، وتساقطت على عروشها؛ يعني على بنائها وسقوفها.
+
+كما:-
+
+⁕ حدثنا أبو هشام الرفاعي، قال: ثنا أبو خالد، عن جويبر، عن الضحاك: ﴿فَهِيَ خَاوِيَةٌ عَلَى عُرُوشِهَا﴾ قال: خواؤها: خرابها، وعروشها: سقوفها.
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة: ﴿خاويَةٌ﴾ قال: خربة ليس فيها أحد.
+
+⁕ حدثنا الحسن، قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر، عن قتادة. مثله.
+
+* *
+
+وقوله: ﴿وَبِئْرٍ مُعَطَّلَةٍ﴾
+
+يقول تعالى: فكأين من قرية أهلكناها، ومن بئر عطلناها، بإفناء أهلها وهلاك وارديها، فاندفنت وتعطلت، فلا واردة لها ولا شاربة منها ﴿وَ﴾ من ﴿وَقَصْرٍ مَشِيدٍ﴾ رفيع بالصخور والجصّ، قد خلا من سكانه، بما أذقنا أهله من عذابنا بسوء فعالهم، فبادوا وبقي قصورهم المشيدة خالية منهم. والبئر والقصر مخفوضان بالعطف على القرية. كان بعض نحويي الكوفة يقول: هما معطوفان على العروش بالعطف عليها خفضا، وإن لم يحسن فيهما، على أن العروش أعالي البيوت، والبئر في الأرض، وكذلك القصر، لأن القرية لم تخو على القصر، ولكنه أتبع بعضه بعضا كما قال: ﴿وَحُورٌ عِينٌ كَأَمْثَالِ اللُّؤْلُؤِ﴾ فمعنى الكلام على ما قال هذا الذي ذكرنا قوله في ذلك: فكأين من قرية أهلكناها وهي ظالمة، فهي خاوية على عروشها، ولها بئر معطلة وقصر مشيد؛ ولكن لما لم يكن مع البئر رافع ولا عامل فيها، أتبعها في الإعراب العروش، والمعنى ما وصفت.
+
+وبنحو الذي قلنا في معنى قوله: ﴿وَبِئْرٍ مُعَطَّلَةٍ﴾ قال أهل التأويل.
+
+ذكر من قال ذلك: حدثنا القاسم، قال: ثنا الحسين، قال: ثنى حجاج، عن ابن جُرَيج، عن عطاء الخراساني، عن ابن عباس: ﴿وَبِئْرٍ مُعَطَّلَةٍ﴾ قال: التي قد تُرِكت. وقال غيره: لا أهل لها.
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قَتادة: ﴿وَبِئْرٍ مُعَطَّلَةٍ﴾ قال: عطلها أهلها، تركوها.
+
+⁕ حدثنا الحسن، قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر، عن قَتادة، مثله.
+
+⁕ حُدثت عن الحسين، قال: سمعت أبا معاذ يقول: أخبرنا عبيد، قال: سمعت الضحاك يقول في قوله: ﴿وَبِئْرٍ مُعَطَّلَةٍ﴾ قال: لا أهل لها.
+
+واختلف أهل التأويل في معنى قوله: ﴿وَقَصْرٍ مَشِيدٍ﴾ فقال بعضهم: معناه: وقصر مجصص.
+
+ذكر من قال ذلك:- حدثني مطر بن محمد الضبي، قال: ثنا عبد الرحمن بن مهدي، قال: ثنا سفيان، عن هلال بن خباب عن عكرمة، في قوله: ﴿وَقَصْرٍ مَشِيدٍ﴾ قال: مجصص.
+
+⁕ حدثنا أبو كريب، قال: ثنا يحيى بن يمان، عن سفيان، عن هلال بن خباب، عن عكرمة، مثله.
+
+⁕ حدثني محمد بن إسماعيل الأحمسي، قال: ثني غالب بن فائد، قال: ثنا سفيان، عن هلال بن خباب عن عكرمة، مثله.
+
+⁕ حدثني الحسين بن محمد العنقزي، قال: ثني أبي، عن أسباط، عن السديّ، عن عكرمة، في قوله: ﴿وَقَصْرٍ مَشِيدٍ﴾ قال: مجصص.
+
+⁕ حدثني مطر بن محمد، قال: ثنا كثير بن هشام. قال. حدثنا جعفر بن برقان، قال: كنت أمشي مع عكرمة، فرأى حائط آجرّ مصهرج، فوضع يده عليه وقال: هذا المشيد الذي قال الله.
+
+⁕ حدثنا القاسم، قال: ثنا الحسين، قال: ثنا عباد بن العوامّ، عن هلال بن خباب، عن عكرمة: ﴿وَقَصْرٍ مَشِيدٍ﴾ قال: المجصص. قال عكرِمة: والجصّ بالمدينة يسمى الشيد.
+
+⁕ حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى؛ وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء جميعا، عن ابن أبي نجيح، عن مجاهد: ﴿وَقَصْرٍ مَشِيدٍ﴾ قال: بالقصة أو الفضة.
+
+⁕ حدثني الحارث، قال: ثنا الحسن قال: ثنا ورقاء، عن ابن أبي نجيح، عن مجاهد: ﴿وَقَصْرٍ مَشِيدٍ﴾ قال: بالقصة يعني بالجصّ.
+
+⁕ حدثنا القاسم، قال: ثنا الحسين، قال: ثني حجاج، عن ابن جُرَيج، عن مجاهد، مثله.
+
+⁕ حدثنا الحسن، أخبرنا عبد الرزاق، قال: أخبرنا ابن جُرَيج، عن عطاء، في قوله: ﴿وَقَصْرٍ مَشِيدٍ﴾ قال: مجصص.
+
+⁕ حدثنا الحسن، قال: أخبرنا عبد الرزاق، عن الثوري، عن هلال بن خباب، عن سعيد بن جبير، في قوله: ﴿وَقَصْرٍ مَشِيدٍ﴾ قال: مجصص، هكذا هو في كتابي عن سعيد بن جبير.
+
+وقال آخرون: بل معنى ذلك: وقصر رفيع طويل.
+
+ذكر من قال ذلك: حدثنا محمد بن عبد الأعلى، قال: ثنا محمد بن ثور، عن معمر، عن قَتادة: ﴿وَقَصْرٍ مَشِيدٍ﴾ قال: كان أهله شيَّدوه وحصَّنوه، فهلكوا وتركوه.
+
+⁕ حدثنا الحسن، قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر، عن قَتادة، مثله.
+
+⁕ حُدثت عن الحسين، قال: سمعت أبا معاذ يقول: أخبرنا عُبيد، قال: سمعت الضحاك يقول، في قوله: ﴿وَقَصْرٍ مَشِيدٍ﴾ يقول: طويل.
+
+وأولى القولين في ذلك بالصواب: قول من قال: عني بالمشيد المجصص، وذلك أن الشيد في كلام العرب هو الجصّ بعينه؛ ومنه قول الراجز:
+
+كَحَبَّةِ المَاءِ بينَ الطَّيّ والشِّيدِ [[هذا عجز بيت من البسيط، وليس من الرجز. وقال في اللسان: وحبب الماء بالكسر، وحببه وحبابه بالفتح: طرائقه والطي: الحجارة تبنى بها جدار البئر. والشيد، بكسر الشين: كل ما طلي به الحائط من جص أو بلاط، وبالفتح: المصدر تقول شاده يشيده شيدا: جصصه، وبناء مشيد: معمول بالشيد.]]
+
+فالمشيد: إنما هو مفعول من الشِّيد؛ ومنه قول امرئ القيس:
+
+وتَيْماءَ لَمْ يَتْرُكْ بِها جِذْعَ نَخْلَةٍ ... وَلا أُطُما إلا مَشيدًا بِجَنْدَلِ [[البيت لامرئ القيس يصف السيل في معلقته المشهورة (مختار الشعر الجاهلي، بشرح مصطفى السقا، طبعة الحلبي، ص ٣٣) قال شارحه: تيماء: مدينة. والأطم: البيت المسطح، ويروى " ولا أجما "، وهو بمعنى الأطم. يقول: لم يدع السيل بيتا مبينا بحصى وحجارة إلا هدمه إلا المشيد بجندل فإنه سلم لقوته.
+
+وفي (اللسان: شيد) : وبناء مشيد: معمول بالشيد. وكل ما أحكم من البناء فقد شيد، وتشييد البناء إحكامه ورفعه، والمشيد: المبني بالشيد وأنشد: " شاده مرمرا. . . البيت ". قال أبو عبيدة: البناء: المشيد (بالتشديد) : المطول. والمفهوم من نصوص اللغويين من بيت امرئ القيس ومن بيت عدي بن زيد الآتي بعد هذا، أن البناء المشيد بالتخفيف: هو المطول الذاهب في السماء، أو هو المحكم القوي. فيكون للمشيد إذن معنيان: الأول هو المطلي بالجص ونحوه لتزيينه. والثاني هو المبني بالجص ونحوه مع الصخور أو المرمر ... الخ.]] يعني بذلك: إلا بالبناء بالشيد والجندل. وقد يجوز أن يكون معنيا بالمشيد: المرفوع بناؤه بالشيد، فيكون الذين قالوا: عني بالمشيد الطويل نحْوا بذلك إلى هذا التأويل؛ ومنه قول عديّ بن زيد:
+
+شادَهُ مَرْمَرًا وَجَلَّلَهُ كِلْ ... سا فللطْيَر فِي ذُرَاهُ وُكُورُ [[البيت لعدي بن زيد العبادي. وقد أنشده في (اللسان: شيد) ولم ينسبه وقال المشيد: المبني بالتشيد. أه. يريد أنه أحكم بناؤه وأحكم بالتشيد مع المرمر، وهو نوع من الرخام صلب. والكلس قال في (اللسان: كلس) : مثل الصاروج يبنى به. وقيل الكلس: ما طلي به حائط أو باطن قصر، شبه الجص من غير آجر؛ قال عدي بن يزيد العبادي (وذكر أربعة أبيات منها بيت الشاهد، وهو آخرها) ثم قال: والتكليس التمليس، فإذا طلى ثخينا فهو المقرمد. والشاهد في بيت عدي هذا كما بيناه في بيت امرئ القيس قبله أن قوله " شاده مرمرا " يفهم منه الإحكام والتقوية ورفع البناء، ولا يفهم منه الطلاء الخارجي بالشيد. وهو ما قاله المؤلف. والذرا بضم الذال: جمع ذروة، وهي أعلى الشيء. والوكور: جمع وكر وهو عش الطائر، أي أن صاحب ذلك القصر المعروف بالحضر، رفع بناءه بالشيد والمرمر، ثم كلسه وملسه بالجص أو بالكلس، وإن الطير قد اتخذت وكورها في أعلاه.]]
+
+وقد تأوّله بعض أهل العلم بلغات العرب بمعنى المزين بالشيد من شدته أشيده. إذا زيَّنته به، وذلك شبيه بمعنى من قال: مجصص.
 
 ### al-Muyassar (Arabic)
 

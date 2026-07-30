@@ -1,6 +1,6 @@
 # Tafsir Cross-Reference Report
 
-Generated: 2026-04-03
+Generated: 2026-07-30
 Ayahs referenced: 4
 Tafsir sources: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), al-Jalalayn (Arabic)
 
@@ -10,12 +10,53 @@ Tafsir sources: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), 
 
 ### Ibn Kathir (English)
 
-فَتُوبُواْ إِلَى بَارِئِكُمْ فَاقْتُلُواْ أَنفُسَكُمْ ذَلِكُمْ خَيْرٌ لَّكُمْ عِندَ بَارِئِكُمْ فَتَابَ عَلَيْكُمْ إِنَّهُ هُوَ التَّوَّابُ الرَّحِيمُ
-(So turn in repentance to your Creator and kill yourselves (the guilty), that will be better for you before your Creator." Then He accepted your repentance. Truly, He is the One Who accepts repentance, the Most Merciful.) 2:54 As for the humiliation mentioned in the Ayah, it pertains to the disgrace and humiliation that the Jews suffered in the...
+Certainly, those who took the calf (for worship), wrath from their Lord and humiliation will come upon them in the life of this world. Thus do We recompense those who invent lies (152)But those who committed evil deeds and then repented afterwards and believed, verily, your Lord after (all) that is indeed Oft-Forgiving, Most Merciful (153)
+
+The 'wrath' mentioned here that struck the Children of Israel because of their worshipping the calf, means, Allah did not accept their repentance until some of them [who did not worship the calf] killed others [who worshipped the calf]. We mentioned this story in Surat Al-Baqarah,
+
+فَتُوبُوا إِلَىٰ بَارِئِكُمْ فَاقْتُلُوا أَنفُسَكُمْ ذَٰلِكُمْ خَيْرٌ لَّكُمْ عِندَ بَارِئِكُمْ فَتَابَ عَلَيْكُمْ إِنَّهُ هُوَ التَّوَّابُ الرَّحِيمُ
+
+(So turn in repentance to your Creator and kill yourselves (the guilty), that will be better for you before your Creator." Then He accepted your repentance. Truly, He is the One Who accepts repentance, the Most Merciful.)[2:54]
+
+As for the humiliation mentioned in the Ayah, it pertains to the disgrace and humiliation that the Jews suffered in the life of this world. Allah's statement,
+
+وَكَذَٰلِكَ نَجْزِي الْمُفْتَرِينَ
+
+(Thus do We recompense those who invent lies) is for all those who invent an innovation (in religion). Surely, the disgrace resulting from inventing an innovation (in religion) and defying Allah's Message, will be placed in the heart and from there on to the shoulders. Al-Hasan Al-Basri said; "The disgrace of innovation will weigh on their shoulders even if they were to gallop on their mules or trot on their work horses." Ayyub As-Sakhtiyani narrated from Abu Qilabah Al-Jarmi that he commented on this Ayah,
+
+وَكَذَٰلِكَ نَجْزِي الْمُفْتَرِينَ
+
+(Thus do We recompense those who invent lies.)
+
+"By Allah! This Ayah is for all those who invent a lie, until the Day of Resurrection." Also, Sufyan bin 'Uyaynah said, "Every person who invents a Bid'ah (innovation in the religion) will taste disgrace."Allah tells His servants that He accepts repentance from His servants for any sin, even Shirk, Kufr, hypocrisy and disobedience. Allah said:
+
+وَالَّذِينَ عَمِلُوا السَّيِّئَاتِ ثُمَّ تَابُوا مِن بَعْدِهَا وَآمَنُوا إِنَّ رَبَّكَ
+
+(But those who committed evil deeds and then repented afterwards and believed, verily, your Lord)
+
+O Muhammad, Messenger of Repentance and Prophet of Mercy,
+
+مِن بَعْدِهَا
+
+(after that) after committing that evil action,
+
+لَغَفُورٌ رَّحِيمٌ
+
+(is indeed Oft-Forgiving, Most Merciful.)
+
+Ibn Abi Hatim reported that 'Abdullah bin Mas'ud was asked about a man committing fornication with a woman and then marrying her, and Ibn Mas'ud recited this Ayah,
+
+وَالَّذِينَ عَمِلُوا السَّيِّئَاتِ ثُمَّ تَابُوا مِن بَعْدِهَا وَآمَنُوا إِنَّ رَبَّكَ مِن بَعْدِهَا لَغَفُورٌ رَّحِيمٌ
+
+(But those who committed evil deeds and then repented afterwards and believed, verily, your Lord after (all) that is indeed Oft-Forgiving, Most Merciful.)
+
+'Abdullah recited this Ayah ten times, neither allowing nor disallowing it.
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله :  وَالَّذِينَ عَمِلُوا السَّيِّئَاتِ ثُمَّ تَابُوا مِنْ بَعْدِهَا وَآمَنُوا إِنَّ رَبَّكَ مِنْ بَعْدِهَا لَغَفُورٌ رَحِيمٌ (153)قال أبو جعفر: وهذا خبر من الله تعالى ذكره أنه قابلٌ من كل تائب إليه من ذنب أتاه، صغيرةً كانت معصيته أو كبيرةً, كفرًا كانت أو غير كفر, كما  قبل من عَبَدة العجل توبتهم بعد كفرهم به بعبادتهم العجل وارتدادهم عن دينهم. يقول جل ثناؤه: والذين عملوا الأعمال السيئة، ثم رجعوا إلى طلب رضى الله بإنابتهم إلى ما يحب مما يكره، وإلى ما يرضى مما يسخط، من بعد سيئ ...
+القول في تأويل قوله: ﴿وَالَّذِينَ عَمِلُوا السَّيِّئَاتِ ثُمَّ تَابُوا مِنْ بَعْدِهَا وَآمَنُوا إِنَّ رَبَّكَ مِنْ بَعْدِهَا لَغَفُورٌ رَحِيمٌ (١٥٣) ﴾
+
+قال أبو جعفر: وهذا خبر من الله تعالى ذكره أنه قابلٌ من كل تائب إليه من ذنب أتاه، صغيرةً كانت معصيته أو كبيرةً، كفرًا كانت أو غير كفر، كما قبل من عَبَدة العجل توبتهم بعد كفرهم به بعبادتهم العجل وارتدادهم عن دينهم. يقول جل ثناؤه: والذين عملوا الأعمال السيئة، ثم رجعوا إلى طلب رضى الله بإنابتهم إلى ما يحب مما يكره، وإلى ما يرضى مما يسخط، من بعد سيئ أعمالهم، وصدَّقوا بأن الله قابل توبة المذنبين، وتائبٌ على المنيبين، بإخلاص قلوبهم ويقين منهم بذلك= "لغفور"، لهم، يقول: لساتر عليهم أعمالهم السيئة، وغير فاضحهم بها= "رحيم"، بهم، وبكل من كان مثلهم من التائبين. [[(١) انظر تفسير ألفاظ هذه الآية في فهارس اللغة.]]
 
 ### al-Muyassar (Arabic)
 
@@ -23,7 +64,7 @@ Tafsir sources: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), 
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿والَّذِينَ عَمِلُوا السَّيِّئات ثُمَّ تابُوا﴾ رَجَعُوا عَنْها ﴿مِن بَعْدها وآمَنُوا﴾ بِاللَّهِ ﴿إنّ رَبّك مِن بَعْدها﴾ أيْ التَّوْبَة ﴿لَغَفُور﴾ لَهُمْ ﴿رَحِيم﴾ بِهِمْ
 
 ---
 
@@ -31,20 +72,71 @@ Tafsir sources: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), 
 
 ### Ibn Kathir (English)
 
+And when the anger of Musa calmed, he took up the Tablets; and in their inscription was guidance and mercy for those who fear their Lord (154)
+
 Musa picked up the Tablets when His Anger subsided
+
 Allah said next,
+
 وَلَمَّا سَكَتَ
+
 (And when calmed) and subsided,
+
 عَن مُّوسَى الْغَضَبُ
+
 (the anger of Musa) with his people,
-أَخَذَ الاٌّلْوَاحَ
+
+أَخَذَ الْأَلْوَاحَ
+
 (he took up the Tablets), which he had thrown out of jealousy for Allah and anger for His sake, because of his people worshipping the calf,
-وَفِى نُسْخَتِهَا هُدًى وَرَحْمَةٌ لِّلَّذِينَ هُمْ لِرَبِّهِمْ يَرْهَبُونَ
-(and in their inscription was guidance and mercy for those who fear their Lord.) Sever...
+
+وَفِي نُسْخَتِهَا هُدًى وَرَحْمَةٌ لِّلَّذِينَ هُمْ لِرَبِّهِمْ يَرْهَبُونَ
+
+(and in their inscription was guidance and mercy for those who fear their Lord.)
+
+Several scholars of Tafsir said that when Musa threw the Tablets on the ground they were shattered and he collected the pieces afterwards. Musa found in its inscription guidance and mercy, but the specific details of the Law was lost, so they said. They also claimed that the shattered pieces of the Tablets still remained in the treasury safes of some Israelite kings until the Islamic State came into existence. Only Allah knows if these statements are true.
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله :  وَلَمَّا سَكَتَ عَنْ مُوسَى الْغَضَبُ أَخَذَ الأَلْوَاحَ وَفِي نُسْخَتِهَا هُدًى وَرَحْمَةٌ لِلَّذِينَ هُمْ لِرَبِّهِمْ يَرْهَبُونَ (154)قال أبو جعفر: يعني تعالى ذكره بقوله: " ولما سكت عن موسى الغضب ". ولما كفّ عنه وسكن. (31)* * *وكذلك كل كافٍّ عن شيء: " ساكت عنه "، وإنما قيل للساكت عن الكلام " ساكت "، لكفه عنه. (32)وقد ذكر عن يونس الجرمي أنه قال (33) يقال: " سكت عنه الحزن "، وكلُّ شيء، فيما زعم، ومنه قول أبي النجم:وَهَمَّــتِ الأفْعَــى بِــأَنْ تَسِـيحَاوَسَـــكَتَ ال...
+القول في تأويل قوله: ﴿وَلَمَّا سَكَتَ عَنْ مُوسَى الْغَضَبُ أَخَذَ الألْوَاحَ وَفِي نُسْخَتِهَا هُدًى وَرَحْمَةٌ لِلَّذِينَ هُمْ لِرَبِّهِمْ يَرْهَبُونَ (١٥٤) ﴾
+
+قال أبو جعفر: يعني تعالى ذكره بقوله: "ولما سكت عن موسى الغضب". ولما كفّ عنه وسكن. [[(٢) في المطبوعة: ((ولما كف موسى عن الغضب)) ، وهو اجتهاد من ناشر المطبوعة الأولى، ولم يصب. فإن المخطوطة أسقطت تفسير العبارة، وجاء فيها هكذا: ((ولما سكت عن موسى الغضب، وكذلك كل كاف......)) ، والتفسير الذي أثبته الناشر الأول تفسير ذكره الزجاج قال: ((معناه: ولما سكن. وقيل: معناه: ولما سكت موسى عن الغضب - على القلب، كما قالوا: أدخلت القلنسوة في رأس، والمعنى: أدخلت رأسي في القلنسوة. قال والقول الأول الذي معناه سكن، هو قول أهل العربية)) . ولو أراد أبو جعفر، لفسره كما فسره الزجاج، فآثرت أن أضع تفسير أبي عبيدة في مجاز القرآن ١: ٢٢٩، لأن الذي يليه هو قول أبي عبيدة في مجاز القرآن.]]
+
+* *
+
+وكذلك كل كافٍّ عن شيء: "ساكت عنه"، وإنما قيل للساكت عن الكلام "ساكت"، لكفه عنه. [[(١) انظر مجاز القرآن لأبي عبيدة ١: ٢٢٩.]]
+
+وقد ذكر عن يونس الجرمي أنه قال [[(٢) انظر ما سلف ص: ١٢٩، تعليق: ٣.]] يقال: "سكت عنه الحزن"، وكلُّ شيء، فيما زعم، ومنه قول أبي النجم:
+
+وَهَمَّتِ الأفْعَى بِأَنْ تَسِيحَا وَسَكَتَ المُكَّاءُ أَنْ يَصِيحَا [[(٣) لم أجد البيتين. وكان في المطبوعة: ((تسبحا)) و ((تضبحا)) ، وهو خطأ وفساد، ولأبي النجم أبيات كثيرة من الرجز على هذا الوزن، ولم أجد الرجز بتمامه. وصواب قراءة ما كان في المخطوطة هو ما أثبت.]]
+
+* *
+
+= "خذ الألواح"، يقول: أخذها بعد ما ألقاها، وقد ذهب منها ما ذهب = "وفي نسختها هدى ورحمة"، يقول: وفيما نسخ فيها، أي كتب فيها [[(٤) انظر تفسير ((النسخة)) فيما سلف ٢: ٤٧٢. = وكان في المطبوعة هنا، مكان قوله: ((أي: كتب فيها)) ، ما نصه: ((أي: منها)) ، لم يحسن قراءة المخطوطة، لأن الناسخ كتبها بخط دقيق في آخر السطر، فوصل الكلام بعضه ببعض، فساءت كتابته.]] = "هدى" بيان للحق= "ورحمة للذين هم لربهم يرهبون"، يقول: للذين يخافون الله ويخشون عقابَه على معاصيه. [[(٥) انظر تفسير ((الهدى)) فيما سلف من فهارس اللغة (هدى) .]]
+
+* *
+
+واختلف أهل العربية في وجه دخول "اللام" في قوله: "لربهم يرهبون"، مع استقباح العرب أن يقال في الكلام: "رهبت لك": بمعنى رهبتك= "وأكرمت لك"، بمعنى أكرمتك. فقال بعضهم: ذلك كما قال جل ثناؤه: ﴿إِنْ كُنْتُمْ لِلرُّؤْيَا تَعْبُرُونَ﴾ ، [سورة يوسف: ٤٣] ، أوصل الفعل باللام.
+
+* *
+
+وقال بعضهم: من أجل ربِّهم يرهبون.
+
+* *
+
+وقال بعضهم: إنَّما دخلت عَقِيب الإضافة: الذين هم راهبون لربهم، وراهبُو ربِّهم= ثم أدخلت "اللام" على هذا المعنى، لأنها عَقِيب الإضافة، لا على التكليف. [[(١) في المطبوعة: لا على التعليق)) ، وأثبت ما في المخطوطة، وكأنه يعني بقوله: ((التكليف)) معنى التعليق)) ، لأن ((التكليف)) هو ((التحميل)) ، ولم أجد تفسير هذه الكلمة في مكان آخر، ولعلها من اصطلاح بعض قدماء النحاة.]]
+
+* *
+
+وقال بعضهم: إنما فعل ذلك، لأن الاسم تقدم الفعل، فحسن إدخال "اللام".
+
+* *
+
+وقال آخرون: قد جاء مثله في تأخير الاسم في قوله: ﴿رَدِفَ لَكُمْ بَعْضُ الَّذِي تَسْتَعْجِلُونَ﴾ [سورة النمل: ٧٢] . [[(٢) انظر ما سلف ٦: ٥١١ / ٧: ١٦٤، ومعاني القرآن للفراء ١: ٢٣٣.]]
+
+* *
+
+وذكر عن عيسى بن عمر أنه قال: سمعت الفرزدق يقول: "نقدت له مائة درهم"، يريد: نقدته مائة درهم. [[(٣) نقله الفراء في معاني القرآن ١: ٢٣٣ عن الكسائى، قال: ((سمعت بعض العرب يقول: نقدت لها مئة درهم، يريد: نقدتها مئة، لامرأة تزوجها)) .]] قال: والكلام واسع.
 
 ### al-Muyassar (Arabic)
 
@@ -52,7 +144,7 @@ Allah said next,
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿ولَمّا سَكَتَ﴾ سَكَنَ ﴿عَنْ مُوسى الغَضَب أخَذَ الأَلْواح﴾ الَّتِي ألْقاها ﴿وفِي نُسْخَتها﴾ أيْ ما نُسِخَ فِيها أيْ كُتِبَ ﴿هُدًى﴾ مِن الضَّلالَة ﴿ورَحْمَة لِلَّذِينَ هُمْ لِرَبِّهِمْ يَرْهَبُونَ﴾ يَخافُونَ وأَدْخَلَ اللّام عَلى المَفْعُول لِتَقَدُّمِهِ
 
 ---
 
@@ -60,20 +152,253 @@ Allah said next,
 
 ### Ibn Kathir (English)
 
-Seventy Men from the Children of Israel go for the appointedMeeting Place that Allah designated, Allah later on destroys Them
-`Ali bin Abi Talhah reported that Ibn `Abbas commented; "Allah commanded Musa to choose seventy men. So he chose them and proceeded with them in order that they supplicate to their Lord. Their supplication included asking Allah, `O Allah! Give us what you have never given anyone before us and will never give anyone after us!' Allah disliked this supplication and they w...
+And Musa chose out of his people seventy (of the best) men for Our appointed time and place of meeting, and when they were seized with a violent earthquake, he said: "O my Lord, if it had been Your Will, You could have destroyed them and me before; would You destroy us for the deeds of the foolish among us? It is only Your trial by which You lead astray whom You will, and keep guided whom You will. You are our protector, so forgive us and have mercy on us: for You are the best of those who forgive (155)"And ordain for us good in this world, and in the Hereafter. Certainly we have Hudna unto You." He said: (As to) My punishment I afflict therewith whom I will and My mercy embraces all things. That (mercy) I shall ordain for those who have Taqwa, and give Zakah; and those who believe in Our Ayat (156)
+
+Seventy Men from the Children of Israel go for the appointed Meeting Place that Allah designated, Allah later on destroys Them
+
+Ali bin Abi Talhah reported that Ibn 'Abbas commented; "Allah commanded Musa to choose seventy men. So he chose them and proceeded with them in order that they supplicate to their Lord. Their supplication included asking Allah, 'O Allah! Give us what you have never given anyone before us and will never give anyone after us!' Allah disliked this supplication and they were seized with a violent earthquake, Musa said:
+
+رَبِّ لَوْ شِئْتَ أَهْلَكْتَهُم مِّن قَبْلُ وَإِيَّايَ
+
+("O my Lord, if it had been Your will, You could have destroyed them and me before.)'"
+
+As-Suddi said, "Allah commanded Musa to come with thirty men from the Children of Israel, apologizing for worshipping the calf; and He gave them an appointed time and place.
+
+وَاخْتَارَ مُوسَىٰ قَوْمَهُ سَبْعِينَ رَجُلًا
+
+(And Musa chose out of his people seventy (of the best) men.)
+
+He chose these men and went along with them so that they could apologize. When they reached the appointed place, they said,
+
+لَن نُّؤْمِنَ لَكَ
+
+(We shall never believe in you), [2:55] 'O Musa,
+
+حَتَّىٰ نَرَى اللَّهَ جَهْرَةً
+
+(until we see Allah plainly,) for you spoke to Him,' they said, 'therefore, show Him to us,'
+
+فَأَخَذَتْكُمُ الصَّاعِقَةُ
+
+(but they were struck with a bolt of lightning)[4:153] and they died. Musa stood up crying, invoking Allah, 'O Lord! What should I tell the Children of Israel, when I go back to them after You destroyed their best men?'
+
+رَبِّ لَوْ شِئْتَ أَهْلَكْتَهُم مِّن قَبْلُ وَإِيَّايَ
+
+("O my Lord, if it had been Your will, You could have destroyed them and me before").'"
+
+Muhammad bin Ishaq said, "Musa chose seventy of the best men from the Children of Israel. He said to them, 'Go to the meeting with Allah and repent for what you committed. Beg His forgiveness for those of your people whom you left behind. Fast, purify yourselves and clean your clothes.' So, he went with them to Mount Tur in Sinai for the meeting place and time designated by his Lord. He went there only with the leave and knowledge of Allah. According to what has been mentioned to me, when the seventy did what he ordered them to do, and went with him to the meeting of Musa with his Lord, they said, 'Request that we may also hear the words of our Lord.' So he replied, 'I shall.' When Musa approached the mountain it became completely covered with columns of clouds, Musa approached it and entered in them. He said to the people, 'Approach.' But when Allah spoke to Musa, his cloak was surrounded by a brilliant light which no human could bear to look at, so below him a barrier was placed and the people approached. When they entered the cloud they fell prostrate and they heard Him while he was speaking to Musa, commanding him and forbidding him, saying what to do and what not to do. When He completed commanding him, and removed the cloud from Musa, he faced the people and they said, 'O Musa! We will not believe in you unless we see Allah directly.' So the thunder shook them, their souls were captured and they all died. Musa stood up invoking, begging and supplicating to his Lord,
+
+رَبِّ لَوْ شِئْتَ أَهْلَكْتَهُم مِّن قَبْلُ وَإِيَّايَ
+
+("O my Lord, if it had been Your will, You could have destroyed them and me before.")' meaning, 'They were foolish. Would You destroy anyone who comes after me from the Children of Israel?'
+
+Ibn 'Abbas, Qatadah, Mujahid and Ibn Jarir At-Tabari said, "They were seized by the tremor or lightning, because they neither shunned nor forbade their people who worshipped the calf." This is supported by Musa's statement,
+
+أَتُهْلِكُنَا بِمَا فَعَلَ السُّفَهَاءُ مِنَّا
+
+("would You destroy us for the deeds of the fools among us?") He said next,
+
+إِنْ هِيَ إِلَّا فِتْنَتُكَ
+
+("It is only Your Fitnah") affliction, test and trial, according to Ibn 'Abbas, Sa'id bin Jubayr, Abu Al-'Aliyah, Ar-Rabi' bin Anas and several among the Salaf and latter scholars. This is the only plausible meaning, in which Musa says, "The decision is Yours (O Allah), and the judgment, and whatever You will occurs. You misguide whom You will, guide whom You will, and none can guide whom You misguide or misguide whom You guide. There is none who can give what You deprive or avert what You give. The sovereignty is all Yours, and Yours is the judgment, the creation and the decision." The Ayah,
+
+أَنتَ وَلِيُّنَا فَاغْفِرْ لَنَا وَارْحَمْنَا وَأَنتَ خَيْرُ الْغَافِرِينَ
+
+("You are our protector, so forgive us and have mercy on us: for You are the best of those who forgive."), pertains to (Allah's) covering the mistake and not punishing for the sin. Whenever mercy is mentioned along with forgiveness [such as in Musa's supplication to Allah], it includes the hope that Allah does not permit one to fall into that act again.
+
+وَأَنتَ خَيْرُ الْغَافِرِينَ
+
+("for You are the best of those who forgive,") for none except You can forgive the sin.
+
+وَاكْتُبْ لَنَا فِي هَٰذِهِ الدُّنْيَا حَسَنَةً وَفِي الْآخِرَةِ
+
+("And ordain for us good in this world, and in the Hereafter.")
+
+The first part of Musa's supplication was to fend off what should be avoided, while this part is a request for what is sought. The meaning of,
+
+وَاكْتُبْ لَنَا فِي هَٰذِهِ الدُّنْيَا حَسَنَةً وَفِي الْآخِرَةِ
+
+("And ordain for us good in this world, and in the Hereafter.") is, 'ordain for us and grant us all that is good in both lives. We mentioned the meaning of 'good' before in Surat Al-Baqarah.
+
+إِنَّا هُدْنَا إِلَيْكَ
+
+("We have Hudna unto You") 'we repent, go back and return unto You,' according to the meaning of, 'Hudna', given by Ibn 'Abbas, Sa'id bin Jubayr, Mujahid, Abu Al-'Aliyah, Ad-Dahhak, Ibrahim At-Taymi, As-Suddi, Qatadah and several others.
+
+قالَ عَذَابِي أُصِيبُ بِهِ مَنْ أَشَاءُ وَرَحْمَتِي وَسِعَتْ كُلَّ شَيْءٍ فَسَأَكْتُبُهَا لَلَّذِينَ يَتَّقُونَ وَ يُؤْتُونَ الزَّكَاةَ وَالَّذِينَ هُمْ بِآيَاتِنَا يُؤْمِنُونَ
+
+(He said: (As to) My punishment I afflict therewith whom I will and My mercy embraces all things. That (mercy) I shall ordain for those who have Taqwa, and give Zakah; and those who believe in Our Ayat.)[7:156]
+
+Allah's Mercy is for Those Who have Taqwa and believe in Allah's Ayat and His Messenger (ﷺ)
+
+Allah answers the statement,
+
+إِنْ هِيَ إِلَّا فِتْنَتُكَ
+
+("It is only Your trial...")[7:155], by saying,
+
+عَذَابِي أُصِيبُ بِهِ مَنْ أَشَاءُ وَرَحْمَتِي وَسِعَتْ كُلَّ شَيْءٍ
+
+((As to) My punishment I afflict therewith whom I will and My mercy embraces all things.)
+
+Allah says here, 'I do what I will, decide what I will and I have wisdom and justice in all matters.' Certainly, there is no deity worthy of worship except Allah. Allah's statement,
+
+وَرَحْمَتِي وَسِعَتْ كُلَّ شَيْءٍ
+
+(and My mercy embraces all things) testifies to His encompassing mercy. Allah said that the angels who carry His Throne and those around the Throne supplicate,
+
+رَبَّنَا وَسِعْتَ كُلَّ شَيْءٍ رَّحْمَةً وَعِلْمًا
+
+("Our Lord! You comprehend all things in mercy and knowledge.")[40:7]
+
+Imam Ahmad recorded that Jundub bin 'Abdullah Al-Bajali said, "A bedouin man came, he made his camel kneel and he tied it. Then he prayed behind the Messenger of Allah ﷺ. When the Messenger of Allah ﷺ finished the prayer, that man untied his camel mounted it and supplicated aloud, 'O Allah! Grant Your mercy to me and to Muhammad, and do not give a share in it to anyone else.' The Messenger of Allah ﷺ commented (to his Companions),
+
+أَتَقُولُونَ هَذَا أَضَلُّ أَمْ بَعِيرُهُ أَلَمْ تَسْمَعُوا مَا قَالَ؟
+
+(Do you think that this man is more misguided or his camel Did you not hear what this man has said?) They said, 'Yes.' He said,
+
+لَقَدْ حَظَّرْتَ رَحْمَةً وَاسِعَةً إِنَّ اللهَ عَزَّ وَجَلَّ خَلَقَ مِائَةَ رَحْمَةٍ فَأَنْزَلَ رَحْمَةً يَتَعَاطَفُ بِهَا الخَلْقُ جِنُّهَا وَإِنْسُهَا وَبَهَائِمُهَا وَأَخَّرَ عِنْدَهُ تِسْعًا وَتِسْعِينَ رَحْمَةً أَتَقُولُونَ هُوَ أَضَلُّ أَمْ بَعِيرُهُ؟
+
+(You (the bedouin man) have restricted a vast mercy! Allah, the Exalted, the most Honored has created a hundred mercies and sent down one of them by which the creation, men, Jinn and animals, show mercy to each other. He left with Him ninety-nine mercies, so do you say that this man is more misguided or his camel?) Ahmad and Abu Dawud collected this Hadith.
+
+Imam Ahmad recorded that Salman narrated that the Prophet ﷺ said,
+
+إِنَّ للهِ عَزَّ وَجَلَّ مِائَةَ رَحْمَةٍ فَمِنْهَا رَحْمَةٌ يَتَرَاحَمُ بِهَا الْخَلْقُ وَبِهَا تَعْطِفُ الْوُحُوشُ عَلَى أَوْلَادِهَا وَأَخَّرَ تِسْعَةً وَتِسْعِينَ إِلَى يَوْمِ الْقِيَامَةِ
+
+(Allah, the Exalted and Most Honored, has a hundred mercies. With one of them, the creations show mercy to each other, and even the beasts show kindness to their offspring. He has kept ninety-nine mercies with Him for the Day of Resurrection.) Muslim recorded it.
+
+Allah said next,
+
+فَسَأَكْتُبُهَا لِلَّذِينَ يَتَّقُونَ
+
+(That (mercy) I shall ordain for those who have Taqwa,) meaning, I will ordain My mercy for them, as a favor and kindness from Me to them. Allah said in a similar Ayah,
+
+كَتَبَ رَبُّكُمْ عَلَىٰ نَفْسِهِ الرَّحْمَةَ
+
+(your Lord has written Mercy for Himself)[6:54] Allah's statement,
+
+لِلَّذِينَ يَتَّقُونَ
+
+(for those who have Taqwa), means, 'I will ordain My mercy for those who possess these qualities, and they are the Ummah of Muhammad,'
+
+لِلَّذِينَ يَتَّقُونَ
+
+(for those who have Taqwa), who avoid Shirk and major sins,
+
+وَيُؤْتُونَ الزَّكَاةَ
+
+(and give the Zakah), purify themselves, according to one opinion. It was also said that, 'the Zakah', here pertains to wealth. It is possible that both meanings are included here, for this Ayah was revealed in Makkah [before Zakah in fixed shares was ordained],
+
+وَالَّذِينَ هُم بِآيَاتِنَا يُؤْمِنُونَ
+
+(and those who believe in Our Ayat.), those who have faith in them.
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله :  وَاخْتَارَ مُوسَى قَوْمَهُ سَبْعِينَ رَجُلا لِمِيقَاتِنَا فَلَمَّا أَخَذَتْهُمُ الرَّجْفَةُ قَالَ رَبِّ لَوْ شِئْتَ أَهْلَكْتَهُمْ مِنْ قَبْلُ وَإِيَّايَقال أبو جعفر: يقول تعالى ذكره: واختار موسى من قومه سبعين رجلا للوقت والأجل الذي وعده الله أن يلقاه فيه بهم، (40) للتوبة مما كان من فعل سفهائهم في أمر العجل، كما: -15152- حدثني موسى بن هارون قال، حدثنا عمرو بن حماد قال، حدثنا أسباط, عن السدي، قال: إن الله أمر موسى عليه السلام أن يأتيه في ناسٍ من بني إسرائيل، يعتذرون إليه...
+القول في تأويل قوله: ﴿وَاخْتَارَ مُوسَى قَوْمَهُ سَبْعِينَ رَجُلا لِمِيقَاتِنَا فَلَمَّا أَخَذَتْهُمُ الرَّجْفَةُ قَالَ رَبِّ لَوْ شِئْتَ أَهْلَكْتَهُمْ مِنْ قَبْلُ وَإِيَّايَ﴾
+
+قال أبو جعفر: يقول تعالى ذكره: واختار موسى من قومه سبعين رجلا للوقت والأجل الذي وعده الله أن يلقاه فيه بهم، [[(١) انظر تفسير ((الميقات)) فيما سلف ٣: ٥٥٣ - ٥٥٥ / ١٣: ٨٧، ٩٠.]] للتوبة مما كان من فعل سفهائهم في أمر العجل، كما: -
+
+١٥١٥٢- حدثني موسى بن هارون قال، حدثنا عمرو بن حماد قال، حدثنا أسباط، عن السدي، قال: إن الله أمر موسى عليه السلام أن يأتيه في ناسٍ من بني إسرائيل، يعتذرون إليه من عبادة العجل، ووعدهم موعدًا، فاختار موسى قومه سبعين رجلا على عينه، ثم ذهب بهم ليعتذروا. فلما أتوا ذلك المكان قالوا: لن نؤمن لك يا موسى حتى نرى الله جهرة، فإنك قد كلمته، فأرناه! فأخذتهم الصاعقة فماتوا، فقام موسى يبكي ويدعو الله ويقول: رَبِّ ماذا أقول لبني إسرائيل إذا أتيتهم وقد أهلكت خيارهم، لو شئتَ أهلكتهم من قبل وإيّاي! [[(٢) الأثر: ١٥١٥٢ - مضى مطولا برقم ٩٥٨، ومراجعه هناك.]]
+
+١٥١٥٣- حدثنا ابن حميد قال، حدثنا سلمة، عن ابن إسحاق قال: اختار موسى من بني إسرائيل سبعين رجلا الخيِّر فالخيرَ، وقال: انطلقوا إلى الله فتوبوا إليه مما صنعتم، واسألوه التوبة على من تركتم وراءكم من قومكم، صوموا وتَطَهَّروا، وطهِّروا ثيابكم! فخرج بهم إلى طور سيْناء، لميقات وقَّته له ربه. وكان لا يأتيه إلا بإذن منه وعلم. فقال السبعون =فيما ذكر لي= حين صنعوا ما أمرهم به، وخرجوا معه للقاء ربِّه، لموسى: اطلب لنا نسمع كلام ربِّنا! فقال: أفعل. فلما دنا موسى من الجبل، وقع عليه عمودُ الغمام، حتى تغشى الجبلَ كله. ودنا موسى فدخل فيه، وقال للقوم: ادنوا! وكان موسى إذا كلمه الله وقَع على جبهته نور ساطع، لا يستطيع أحد من بني آدم أن ينظر إليه! فضرب دونه بالحجاب. ودنا القوم، حتى إذا دخلوا في الغمام وقَعوا سجودًا، فسمعوه وهو يكلِّم موسى، يأمره وينهاه: افعل، ولا تفعل! فلما فرغ الله من أمره، انكشف عن موسى الغمام. أقبل إليهم، [[(١) في المطبوعة: ((وانكشف عن موسى......... أقبل)) ، غير ما في المخطوطة. كما فعل آنفاً في رقم: ٩٥٧.]] فقالوا لموسى: لن نؤمن لك حتى نرى الله جهرة! فأخذتهم الرجفة= وهي الصاعقة= فَافْتُلِتَتْ أرواحهم، [[(٢) في المطبوعة والمخطوطة: ((فالتقت أرواحهم)) ، ولا معنى لها، صوابها ما أثبته. ((افتلتت نفسه)) (بالبناء للمجهول) : مات فلتة، أي بغتة. وانظر ما سلف ٢: ٨٧، تعليق: ١.]] فماتوا جميعًا، وقام موسى عليه السلام يناشد ربّه ويدعوه ويرغب إليه، ويقول: رب لو شئت أهلكتهم من قبلُ وإياي! قد سفهوا! أفتهلك مَنْ ورائي من بني إسرائيل؟ [[(٣) الأثر: ١٥١٥٣ - مضى هذا الخبر برقم ٩٥٧، ومراجعه هناك.]]
+
+١٥١٥٤- حدثني المثنى قال، حدثنا عبد الله بن صالح قال، حدثني معاوية، عن علي بن أبي طلحة، عن ابن عباس، قوله: "واختار موسى قومه سبعين رجلا لميقاتنا"، قال: كان الله أمرَه أن يختار من قومه سبعين رجلا فاختار سبعين رجلا فبرزَ بهم ليدعوا ربَّهم. فكان فيما دَعَوُا الله قالوا: اللهم أعطِنا ما لم تعط أحدًا بعدنا! فكره الله ذلك من دعائهم، فأخذتهم الرجفة. قال موسى: ربِّ لو شئت أهلكتهم من قبل وإيَّاي!
+
+١٥١٥٥- حدثنا ابن وكيع قال، حدثنا خالد بن حيان، عن جعفر، عن ميمون: "واختار موسى قومه سبعين رجلا لميقاتنا"، قال: لموعدهم الذي وعدهم.
+
+١٥١٥٦ - حدثني المثنى قال، حدثنا أبو حذيفة قال، حدثنا شبل، عن ابن أبي نجيح، عن مجاهد: "سبعين رجلا لميقاتنا"، قال: اختارهم لتمام الوعد.
+
+* *
+
+وقال آخرون: إنما أخذتهم الرجفة من أجل دَعْواهم على موسى قتلَ هارون.
+
+ذكر من قال ذلك:
+
+١٥١٥٧- حدثنا ابن بشار وابن وكيع قالا حدثنا يحيى بن يمان قال، حدثنا سفيان قال، حدثني أبو إسحاق، عن عمارة بن عبد السَّلولي، عن علي رضي الله عنه قال: انطلق موسى وهارون وشبر وشبير، فانطلقوا إلى سفح جَبَلٍ، فنام هارون على سرير، فتوفاه الله. فلما رجع موسى إلى بني إسرائيل قالوا له: أين هارون؟ قال: توفّاه الله. قالوا: أنت قتلته، حسدتنا على خُلقه ولينه= أو كلمة نحوها= قال: فاختاروا من شئتم! قال: فاختاروا سبعين رجلا. قال: فذلك قوله: "واختار موسى قومه سبعين رجلا لميقاتنا"، قال: فلما انتهوا إليه، قالوا: يا هارون، من قتلك؟ قال: ما قتلني أحد، ولكنني توفّاني الله! قالوا: يا موسى لن تعصَي بعد اليوم! قال: فأخذتهم الرجفة. قال: فجعل موسى يرجع يمينًا وشمالا وقال: "يا رب لو شئت أهلكتهم من قبل وإياي أتهلكنا بما فعل السفهاء منّا إن هي إلا فتنتك تضل بها من تشاء وتهدي من تشاء"، قال: فأحياهم الله وجعلهم أنبياءَ كلهم. [[الأثر: ١٥١٥٧ - ((عمارة بن عبد السلولي)) ، هو أخو ((سليم بن عبد السلولى)) و ((زيد بن عبد السلولي)) ، قال العجلي: ((هم ثلاثة إخوة: سليم بن عبد، وعمارة بن عبد، وزيد بن عبد، ثقات، سلوليون، كوفيون)) . روى عن علي، وحذيفة. لم يرو عنه غير أبي إسحق الهمداني.قال أحمد بن حنبل: ((عمارة بن عبد، مستقيم الحديث، لا يروى عنه غير أبي إسحق)) . وقال أبو حاتم: ((شيخ مجهول لا يحتج بحديثه)) . مترجم في ابن سعد ٦: ١٥٨، وابن أبي حاتم ٣/١/٣٦٧، وميزان الاعتدال ٢: ٢٤٨، ومر ذكره في التعليق على رقم ٨٧٥٤.
+
+وهذا الخبر، ذكره ابن كثير في تفسيره ٣: ٥٦١، ٥٦٢: ((وهذا أثر غريب جدا، وعمارة بن عبد هذا، لا أعرفه)) . فقد تبين مما ذكرت أنه معروف، وأن ابن كثير لم يستوعب بحثه. وخرجه السيوطي في الدر المنثور ٣: ١٢٨، ونسبه إلى عبد بن حميد، وابن أبي الدنيا في كتاب: من عاش بعد الموت، وابن أبي حاتم، وأبي الشيخ ولم أجده في كتاب ((من عاش بعد الموت)) المطبوع، فدل هذا علي نقص النسخة المطبوعة منه.]]
+
+١٥١٥٨- حدثنا محمد بن المثنى قال، حدثنا محمد بن جعفر قال، حدثنا شعبة، عن أبي إسحاق، عن رجل من بني سلول، أنه سمع عليًّا رضي الله عنه يقول في هذه الآية: "واختار موسى قومه سبعين رجلا لميقاتنا"، قال: كان هارون حسنَ الخلق محبَّبًا في بني إسرائيل. قال: فلما مات، دَفَنَه موسى. قال: فلما أتى بني إسرائيل، قالوا له: أين هارون؟ قال: مات! فقالوا: قتلته! قال: فاختار منهم سبعين رجلا. قال: فلما أتوا القبرَ قال موسى: أقُتِلت أو مِتّ! قال مت! فأُصعقوا، فقال موسى: ربِّ ما أقول لبني إسرائيل؟ إذا رجعت يقولون: أنت قتلتهم! قال: فأحيُوا وجُعِلوا أنبياء.
+
+١٥١٥٩- حدثني عبد الله بن الحجاج بن المنهال قال، حدثنا أبي قال، حدثنا الربيع بن حبيب قال: سمعت أبا سعيد =يعني الرقاشي= وقرأ هذه الآية: "واختار موسى قومه سبعين رجلا لميقاتنا"، فقال: كانوا أبناءَ ما عدا عشرين، ولم يتجاوزوا الأربعين، وذلك أن ابن عشرين قد ذهب جهلُه وصباه، وأنّ من لم يتجاوز الأربعين لم يفقد من عقله شيئًا. [[(١) الأثر: ١٥١٥٩ - ((عبد الله بن الحجاج بن المنهال)) لم أجد له ترجمة. وأبوه ((الحجاج بن المنهال الأنماطي)) ، مضى مرارا كثيرة.
+
+و ((الربيع بن حبيب الحنفي)) ، ((أبو سعيد)) . روى عن الحسن، وابن سيرين، وأبي جعفر الباقر. روى عنه أبو داود الطيالسي، ويحيى القطان، وعبد الصمد بن عبد الوارث. وثقه أحمد ويحيى. مترجم في التهذيب، والكبير ٢/١/٢٥٣، وابن أبي حاتم ١ / ٢ / ٤٥٧. و ((أبو سعيد الرقاشي)) هو فيما أرجح ((قيس، مولى أبي ساسان حضين بن المنذر الرقاشي)) . وكان أبو سعيد قليل الحديث. مترجم في ابن سعد ٧/١/١٥٤ والكبير ٤/١/١٥١، وابن أبي حاتم ٣/٢/١٠٦. وهناك أيضا ((أبو سعيد الرقاشي)) ، البصري وهو ((بيان بن جندب الرقاشى)) ، روى عن أنس. مترجم في الكبير ١/٢/١٣٣، وابن أبي حاتم ١ / ١ / ٤٢٤، ولسان الميزان ٢: ٦٩. قال ابن حبان في الثقات: ((يخطئ)) .]]
+
+* *
+
+وقال آخرون: إنما أخذت القوم الرَّجفة، لتركهم فِراق عبدة العجل، لا لأنهم كانوا من عَبَدته.
+
+ذكر من قال ذلك:
+
+١٥١٦٠- حدثنا بشر بن معاذ قال، حدثنا يزيد قال، حدثنا سعيد، عن قتادة، قوله: "واختار موسى قومه سبعين رجلا لميقاتنا"، فقرأ حتى بلغ: "السفهاء منا"، ذكر لنا أن ابن عباس كان يقول: إنما تناولتهم الرجفة، لأنهم لم يزايلوا القوم حين نَصَبُوا العجل، وقد كرهوا أن يجامِعُوهم عليه.
+
+١٥١٦١- حدثنا القاسم قال، حدثنا الحسين قال، حدثني حجاج، عن ابن جريج، قوله: "واختار موسى قومه سبعين رجلا لميقاتنا"، ممن لم يكن قال ذلك القول، على أنهم لم يجامعوهم عليه، فأخذتهم الرجفة من أجل أنهم لم يكونوا باينوا قومَهم حين اتخذوا العجل. قال: فلما خرجوا ودعوا، أماتهم الله ثم أحياهم. فلما أخذتهم الرجفة قال: "رب لو شئت أهلكتهم من قبل وإيّاي أتهلكنا بما فعل السفهاء منا".
+
+١٥١٦٢- حدثني الحارث قال، حدثنا عبد العزيز قال، حدثنا أبو سعد قال، قال مجاهد: "واختار موسى قومه سبعين رجلا لميقاتنا"= و"الميقات"، الموعد= فلما أخذتهم الرجفة بعد أن خرج موسى بالسبعين من قومه يدعون الله ويسألونه أن يكشف عنهم البلاءَ فلم يستجب لهم، علم موسى أنهم قد أصابوا من المعصية ما أصابَه قومهم= قال أبو سعد [[(١) في المخطوطة والمطبوعة: ((قال ابن سعد)) ، والصواب ما أثبت، كما سلف في إسناد الخبر.]] فحدثني محمد بن كعب القرظي قال: لم يستجب لهم من أجل أنهم لم ينهوهم عن المنكر ويأمروهم بالمعروف. قال: فأخذتهم الرجفة، فماتوا ثم أحياهم الله.
+
+١٥١٦٣- حدثنا ابن وكيع قال، حدثنا أبو أسامة، عن عون، عن سعيد بن حيان، عن ابن عباس: أن السبعين الذين اختارهم موسى من قومه، إنما أخذتهم الرجفة، أنهم لم يرضَوا ولم ينهَوا عن العجل.
+
+١٥١٦٤- حدثنا ابن بشار قال، حدثنا محمد بن جعفر قال، حدثنا عون قال، حدثنا سعيد بن حيان، عن ابن عباس، بنحوه.
+
+* *
+
+واختلف أهل العربية في وجه نصب قوله: "قومه سبعين رجلا لميقاتنا". فقال بعض نحويي البصرة: معناه: واختار موسى من قومه سبعين رجلا = فلما نزع "من" أعمل الفعل، كما قال الفرزدق: وَمِنَّا الَّذِي اخْتِيرَ الرِّجَالَ سَمَاحَةً وَجُودًا، إِذَا هَبَّ الرِّيَاحُ الزَّعَازِعُ [[(١) ديوانه: ٥١٦، النقائض: ٦٩٦، سيبويه ١: ١٨، الكامل ١: ٢١، أملى الشجرى ١: ١٨٦، الخزانة ٣: ٦٦٩، ٦٧٢، اللسان (خير) وغيرها كثير. وهو أول قصيدة ناقض بها جريراً، وذكر فيها فضائل قومه بني تميم ومآثرهم، وعنى بهذا البيت أباه غالبا، وهو أحد أجواد بني تميم، ثم قال بعده:ومِنَّا الَّذِي أَعْطَى الرَّسُولُ عَطِيَّةً ... أُسَارَى تَمِيمٍ، والعُيُونُ دَوَامِعُ
+
+يعني الأقرع بن حابس، الذي كلم رسول الله في أصحاب الحجرات، وهم بنو عمرو بن جندب ابن العنبر بن عمرو بن تميم، فرد رسول الله سبيهم. ثم أفاض في ذكر مآثرهم.]]
+
+وكما قال الآخر: [[(٢) هو أعشى طرود: ((إياس بن عامر بن سليم بن عامر)) . وروى هذا البيت أيضاً في شعر نسب إلى عمرو بن معد يكرب، وإلى العباس بن مرداس، وإلى زرعة بن السائب، وإلى خفاف بن فدية (الخزانة ١: ١٦٦) .]]
+
+أَمَرْتُكَ الْخَيْرَ، فَافْعَلْ مَا أُمِرْتَ بِهِ فَقَدْ تَرَكْتُكَ ذَا مَالٍ وَذَا نَشَبٍ [[ديوان الأعشين: ٢٨٤، سيبويه ١: ١٧، والمؤتلف والمختلف: ١٧، الكامل ١: ٢١، أمالي الشجري ١: ٢٦٥ / ٢: ٢٤٠، الخزانة ١: ١٦٤ - ١٦٧، وغيرها كثير. فمن نسبها إلى أعشى طرود قال من بعد أبيات يذكر وصية أبيه له: إِنِّي حَوَيْتُ عَلَى الأَقْوَامِ مَكْرُمَة ... قِدْمًا، وَحَذَّرَنِي مَا يَتَّقُونَ أَبِي
+
+وَقَالَ لِي قَوْلَ ذِي عِلْمٍ وَتَجْرُبَةٍ ... بِسَالِفَاتِ أُمُورِ الدَّهْرِ وَالحِقَبِ
+
+أَمَرْتُكَ الرُّشْدَ، فافْعَلْ مَا أُمِرْتَ بِهِ ... فَقَدْ تَرَكْتُكَ ذَا مَالٍ وَذَا نَشَبِ
+
+لا تَبْخَلَنَّ بِمَالٍ عَنْ مَذَاهِبِهِ ... فِي غَيْرِ زَلَّةِ إِسْرَافٍ وَلا تَغَبِ
+
+فَإنّ وُرَّاثَهُ لَنْ يَحْمَدُوكَ بِهِ ... إِذَا أَجَنُّوكَ بَيْنَ اللِّبْنِ وَالخَشَبِ
+
+((التغب)) : الهلاك، يعني إهلاك المال في غير حقه. ويروى: ((ذا مال وذا نسب)) بالسين، وهو أجود، لأن النشب هو المال نفسه. وقوله: ((بين النشب والخشب)) ، يعني: ما يسوى عليه في قبره من الطين والخشب.
+
+أما الشعر المنسوب إلى عمرو بن معد يكرب أو غيره فهو: إِنِّي حَوَيْتُ عَلَى الأقْوَامِ مَكْرُمَةً ... قِدْمًا، وَحَذَّرَنِي مَا يَتَّقُونَ أَبِي
+
+فَقَالَ لِي قَوْلَ ذِي رَأيٍ وَمَقْدِرَةٍ ... مُجَرَّبٍ عَاقِلٍ نَزْهٍ عَنْ الرَّيَبِ
+
+قَدْ نِلْتَ مَجْدًا فَحَاذِرْ أَنْ تُدَنِّسُهُ ... أبٌ كَرِيمٌ، وجَدٌّ غَيْرُ مُؤْتَشَبِ
+
+أَمَرْتُكَ الخَيْرَ................ ... . . . . . . . . . . . . . . . . . . .
+
+واتْرُكْ خَلائِقَ قَوْمٍ لا خَلاقَ لَهُمْ ... وَاعْمِدْ لأَخْلاقِ أَهْلِ الفَضْلِ والأدَبِ
+
+وَإِنْ دُعِيتَ لِغَدْرٍ أوْ أُمِرْتَ بِهِ ... فَاهْرُبْ بِنَفْسِكَ عَنْهُ آبِدَ الْهَرَبِ]]
+
+وقال الراعي:
+
+اخْتَرْتُكَ النَّاسَ إِذْ غَثَّتْ خَلائِقُهُمْ وَاعْتَلَّ مَنْ كَانَ يُرْجَى عِنْدَهُ السُّولُ [[(١) لم أجد البيت في مكان. وكان في المطبوعة والمخطوطة: ((إذ عنت)) بالعين المهملة والنون. ولا معنى لها، ورجحت أن الصواب ((غثت)) بالغين والثاء. يقال: ((غثثت في خلقك وحالك غثاثة وغثوثة)) ، ولذلك إذا ساء خلقه وحاله. و ((الغث)) الردئ من كل شيء. و ((اعتل)) ، طلب العلل لمنع العطاء.]]
+
+* *
+
+وقال بعض نحويي الكوفة: إنما استُجيز وقوع الفعل عليهم إذا طرحت "من"، لأنه مأخوذ من قولك: "هؤلاء خير القوم" و"خير من القوم"، فلما جازت الإضافة مكان "من" ولم يتغير المعنى، [[(٢) في المطبوعة والمخطوطة: ((فإذا جازت الإضافة)) ، وأثبت صواب سياقها من معاني القرآن للفراء، فهو نص كلامه.]] استجازُوا: أن يقولوا: "اخترتكم رجلا"، و"اخترت منكم رجلا"، وقد قال الشاعر: [[(٣) هو الراعي النميري.]]
+
+فَقُلْتُ لَهُ: اخْتَرْهَا قَلُوصًا سَمِينَةً [[(٤) طبقات فحول الشعراء، لابن سلام: ٤٥٠، وما قبلها، وشرح الحماسة ٤: ٣٧، وما قبله، ومعاني القرآن للفراء ١: ٣٩٥ (وهذا روايته) ، وغيرها. وهو من شعر قاله الراعى لما نزل به ضيف من بنى كلاب في سنة حصاء مجدبة، وليس عنده قرى، والكلابي على ناب له (وهي الناقة المسنة) ، فأمر الراعى ابن أخيه حبتراً، فنحرها من حيث لا يعلم الكلابي، فأطمعه لحمها، فقال الراعي في قصيدته يذكر أنه نظر إلى ناقة الكلابي: فَأَبْصَرْتُهَا كَوْمَاءَ ذَاتَ عَرِيَكَةٍ ... هِجَانًا مِنَ الَّلاتِي تَمَتَّعْنَ بِالصَّوَى
+
+فَأَوْمَضْتُ إيمَاضًا خَفَيًّا لِحَبْتَرٍ ... وَللهِ عَيْنًا حَبْتَرٍ! أَيَّمَا فَتَى
+
+فَقُلْتُ لَهُ: أَلْصِقْ بِأَبْيَسِ سَاقِهَا ... فَإنْ يُجْبَرِ العُرْقُوبُ لا يَرْقَأُ النَّسَا
+
+فَقَامَ إِلَيْهَا حَبْتَرٌ بِسِلاحِهِ، ... مَضَى غَيْرَ مَنْكُودٍ، ومُنْصُلَهُ انْتَضَى
+
+كَأَ
+
+[TRUNCATED at 12000 chars — 7310 more. Consult the source directly before relying on anything near the cut.]
 
 ### al-Muyassar (Arabic)
 
-واختار موسى من قومه سبعين رجلا مِن خيارهم، وخرج بهم إلى طور "سيناء" للوقت والأجل الذي واعده الله أن يلقاه فيه بهم للتوبة مما كان من سفهاء بني إسرائيل من عبادة العجل، فلما أتوا ذلك المكان قالوا: لن نؤمن لك -يا موسى- حتى نرى الله جهرة فإنك قد كلَّمته فأرِنَاهُ، فأخذتهم الزلزلة الشديدة فماتوا، فقام موسى يتضرع إلى الله ويقول: رب ماذا أقول لبني إسرائيل إذا أتيتُهم، وقد أهلكتَ خيارهم؟ لو شئت أهلكتهم جميعًا من قبل هذا الحال وأنا معهم، فإن ذلك أخف عليَّ، أتهلكنا بما فعله سفهاء الأحلام منا؟ ما هذه الف...
+واختار موسى من قومه سبعين رجلًا مِن خيارهم، وخرج بهم إلى طور «سيناء» للوقت والأجل الذي واعده الله أن يلقاه فيه بهم؛ للتوبة مما كان من سفهاء بني إسرائيل من عبادة العجل، فلما أتوا ذلك المكان قالوا: لن نؤمن لك –يا موسى- حتى نرى الله جهرة فإنك قد كلَّمته فأرِناهُ، فأخذتهم الزلزلة الشديدة فماتوا، فقام موسى يتضرع إلى الله ويقول: رب ماذا أقول لبني إسرائيل إذا أتيتُهم، وقد أهلكتَ خيارهم؟ لو شئت أهلكتهم جميعًا من قبل هذا الحال وأنا معهم، فإن ذلك أخف عليَّ، أتهلكنا بما فعله سفهاء الأحلام منا؟ ما هذه الفعلة التي فعلها قومي من عبادتهم العجل إلا ابتلاءٌ واختبارٌ، تضلُّ بها مَن تشاء مِن خلقك، وتهدي بها من تشاء هدايته، أنت وليُّنا وناصرنا، فاغفر ذنوبنا، وارحمنا برحمتك، وأنت خير مَن صفح عن جُرْم، وستر عن ذنب.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿واخْتارَ مُوسى قَوْمه﴾ أيْ مِن قَوْمه ﴿سَبْعِينَ رَجُلًا﴾ مِمَّنْ لَمْ يَعْبُدُوا العِجْل بِأَمْرِهِ تَعالى ﴿لِمِيقاتِنا﴾ أيْ لِلْوَقْتِ الَّذِي وعَدْناهُ بِإتْيانِهِمْ فِيهِ لِيَعْتَذِرُوا مِن عِبادَة أصْحابهمْ العِجْل فَخَرَجَ بِهِمْ ﴿فَلَمّا أخَذَتْهُمْ الرَّجْفَة﴾ الزَّلْزَلَة الشَّدِيدَة قالَ ابْن عَبّاس: لِأَنَّهُمْ لَمْ يُزايِلُوا قَوْمهمْ حِين عَبَدُوا العِجْل قالَ: وهُمْ غَيْر الَّذِينَ سَأَلُوا الرُّؤْيَة وأَخَذَتْهُمْ الصّاعِقَة ﴿قالَ﴾ مُوسى ﴿رَبّ لَوْ شِئْت أهْلَكْتهمْ مِن قَبْل وإيّايَ﴾ أيْ قَبْل خُرُوجِي بِهِمْ لِيُعايِن بَنُو إسْرائِيل ذَلِكَ ولا يَتَّهِمُونَ ﴿أتُهْلِكُنا بِما فَعَلَ السُّفَهاء مِنّا﴾ اسْتِفْهام اسْتِعْطاف أيْ لا تُعَذِّبنا بِذَنْبِ غَيْرنا ﴿إنْ﴾ ما ﴿هِيَ﴾ أيْ الفِتْنَة الَّتِي وقَعَ فِيها السُّفَهاء ﴿إلّا فِتْنَتك﴾ ابْتِلاؤُك ﴿تُضِلّ بِها مَن تَشاء﴾ إضْلاله ﴿وتَهْدِي مَن تَشاء﴾ هِدايَته ﴿أنْتَ ولِيّنا﴾ مُتَوَلِّي أُمُورنا
 
 ---
 
@@ -81,12 +406,303 @@ Seventy Men from the Children of Israel go for the appointedMeeting Place that A
 
 ### Ibn Kathir (English)
 
-Seventy Men from the Children of Israel go for the appointedMeeting Place that Allah designated, Allah later on destroys Them
-`Ali bin Abi Talhah reported that Ibn `Abbas commented; "Allah commanded Musa to choose seventy men. So he chose them and proceeded with them in order that they supplicate to their Lord. Their supplication included asking Allah, `O Allah! Give us what you have never given anyone before us and will never give anyone after us!' Allah disliked this supplication and they w...
+And Musa chose out of his people seventy (of the best) men for Our appointed time and place of meeting, and when they were seized with a violent earthquake, he said: "O my Lord, if it had been Your Will, You could have destroyed them and me before; would You destroy us for the deeds of the foolish among us? It is only Your trial by which You lead astray whom You will, and keep guided whom You will. You are our protector, so forgive us and have mercy on us: for You are the best of those who forgive (155)"And ordain for us good in this world, and in the Hereafter. Certainly we have Hudna unto You." He said: (As to) My punishment I afflict therewith whom I will and My mercy embraces all things. That (mercy) I shall ordain for those who have Taqwa, and give Zakah; and those who believe in Our Ayat (156)
+
+Seventy Men from the Children of Israel go for the appointed Meeting Place that Allah designated, Allah later on destroys Them
+
+Ali bin Abi Talhah reported that Ibn 'Abbas commented; "Allah commanded Musa to choose seventy men. So he chose them and proceeded with them in order that they supplicate to their Lord. Their supplication included asking Allah, 'O Allah! Give us what you have never given anyone before us and will never give anyone after us!' Allah disliked this supplication and they were seized with a violent earthquake, Musa said:
+
+رَبِّ لَوْ شِئْتَ أَهْلَكْتَهُم مِّن قَبْلُ وَإِيَّايَ
+
+("O my Lord, if it had been Your will, You could have destroyed them and me before.)'"
+
+As-Suddi said, "Allah commanded Musa to come with thirty men from the Children of Israel, apologizing for worshipping the calf; and He gave them an appointed time and place.
+
+وَاخْتَارَ مُوسَىٰ قَوْمَهُ سَبْعِينَ رَجُلًا
+
+(And Musa chose out of his people seventy (of the best) men.)
+
+He chose these men and went along with them so that they could apologize. When they reached the appointed place, they said,
+
+لَن نُّؤْمِنَ لَكَ
+
+(We shall never believe in you), [2:55] 'O Musa,
+
+حَتَّىٰ نَرَى اللَّهَ جَهْرَةً
+
+(until we see Allah plainly,) for you spoke to Him,' they said, 'therefore, show Him to us,'
+
+فَأَخَذَتْكُمُ الصَّاعِقَةُ
+
+(but they were struck with a bolt of lightning)[4:153] and they died. Musa stood up crying, invoking Allah, 'O Lord! What should I tell the Children of Israel, when I go back to them after You destroyed their best men?'
+
+رَبِّ لَوْ شِئْتَ أَهْلَكْتَهُم مِّن قَبْلُ وَإِيَّايَ
+
+("O my Lord, if it had been Your will, You could have destroyed them and me before").'"
+
+Muhammad bin Ishaq said, "Musa chose seventy of the best men from the Children of Israel. He said to them, 'Go to the meeting with Allah and repent for what you committed. Beg His forgiveness for those of your people whom you left behind. Fast, purify yourselves and clean your clothes.' So, he went with them to Mount Tur in Sinai for the meeting place and time designated by his Lord. He went there only with the leave and knowledge of Allah. According to what has been mentioned to me, when the seventy did what he ordered them to do, and went with him to the meeting of Musa with his Lord, they said, 'Request that we may also hear the words of our Lord.' So he replied, 'I shall.' When Musa approached the mountain it became completely covered with columns of clouds, Musa approached it and entered in them. He said to the people, 'Approach.' But when Allah spoke to Musa, his cloak was surrounded by a brilliant light which no human could bear to look at, so below him a barrier was placed and the people approached. When they entered the cloud they fell prostrate and they heard Him while he was speaking to Musa, commanding him and forbidding him, saying what to do and what not to do. When He completed commanding him, and removed the cloud from Musa, he faced the people and they said, 'O Musa! We will not believe in you unless we see Allah directly.' So the thunder shook them, their souls were captured and they all died. Musa stood up invoking, begging and supplicating to his Lord,
+
+رَبِّ لَوْ شِئْتَ أَهْلَكْتَهُم مِّن قَبْلُ وَإِيَّايَ
+
+("O my Lord, if it had been Your will, You could have destroyed them and me before.")' meaning, 'They were foolish. Would You destroy anyone who comes after me from the Children of Israel?'
+
+Ibn 'Abbas, Qatadah, Mujahid and Ibn Jarir At-Tabari said, "They were seized by the tremor or lightning, because they neither shunned nor forbade their people who worshipped the calf." This is supported by Musa's statement,
+
+أَتُهْلِكُنَا بِمَا فَعَلَ السُّفَهَاءُ مِنَّا
+
+("would You destroy us for the deeds of the fools among us?") He said next,
+
+إِنْ هِيَ إِلَّا فِتْنَتُكَ
+
+("It is only Your Fitnah") affliction, test and trial, according to Ibn 'Abbas, Sa'id bin Jubayr, Abu Al-'Aliyah, Ar-Rabi' bin Anas and several among the Salaf and latter scholars. This is the only plausible meaning, in which Musa says, "The decision is Yours (O Allah), and the judgment, and whatever You will occurs. You misguide whom You will, guide whom You will, and none can guide whom You misguide or misguide whom You guide. There is none who can give what You deprive or avert what You give. The sovereignty is all Yours, and Yours is the judgment, the creation and the decision." The Ayah,
+
+أَنتَ وَلِيُّنَا فَاغْفِرْ لَنَا وَارْحَمْنَا وَأَنتَ خَيْرُ الْغَافِرِينَ
+
+("You are our protector, so forgive us and have mercy on us: for You are the best of those who forgive."), pertains to (Allah's) covering the mistake and not punishing for the sin. Whenever mercy is mentioned along with forgiveness [such as in Musa's supplication to Allah], it includes the hope that Allah does not permit one to fall into that act again.
+
+وَأَنتَ خَيْرُ الْغَافِرِينَ
+
+("for You are the best of those who forgive,") for none except You can forgive the sin.
+
+وَاكْتُبْ لَنَا فِي هَٰذِهِ الدُّنْيَا حَسَنَةً وَفِي الْآخِرَةِ
+
+("And ordain for us good in this world, and in the Hereafter.")
+
+The first part of Musa's supplication was to fend off what should be avoided, while this part is a request for what is sought. The meaning of,
+
+وَاكْتُبْ لَنَا فِي هَٰذِهِ الدُّنْيَا حَسَنَةً وَفِي الْآخِرَةِ
+
+("And ordain for us good in this world, and in the Hereafter.") is, 'ordain for us and grant us all that is good in both lives. We mentioned the meaning of 'good' before in Surat Al-Baqarah.
+
+إِنَّا هُدْنَا إِلَيْكَ
+
+("We have Hudna unto You") 'we repent, go back and return unto You,' according to the meaning of, 'Hudna', given by Ibn 'Abbas, Sa'id bin Jubayr, Mujahid, Abu Al-'Aliyah, Ad-Dahhak, Ibrahim At-Taymi, As-Suddi, Qatadah and several others.
+
+قالَ عَذَابِي أُصِيبُ بِهِ مَنْ أَشَاءُ وَرَحْمَتِي وَسِعَتْ كُلَّ شَيْءٍ فَسَأَكْتُبُهَا لَلَّذِينَ يَتَّقُونَ وَ يُؤْتُونَ الزَّكَاةَ وَالَّذِينَ هُمْ بِآيَاتِنَا يُؤْمِنُونَ
+
+(He said: (As to) My punishment I afflict therewith whom I will and My mercy embraces all things. That (mercy) I shall ordain for those who have Taqwa, and give Zakah; and those who believe in Our Ayat.)[7:156]
+
+Allah's Mercy is for Those Who have Taqwa and believe in Allah's Ayat and His Messenger (ﷺ)
+
+Allah answers the statement,
+
+إِنْ هِيَ إِلَّا فِتْنَتُكَ
+
+("It is only Your trial...")[7:155], by saying,
+
+عَذَابِي أُصِيبُ بِهِ مَنْ أَشَاءُ وَرَحْمَتِي وَسِعَتْ كُلَّ شَيْءٍ
+
+((As to) My punishment I afflict therewith whom I will and My mercy embraces all things.)
+
+Allah says here, 'I do what I will, decide what I will and I have wisdom and justice in all matters.' Certainly, there is no deity worthy of worship except Allah. Allah's statement,
+
+وَرَحْمَتِي وَسِعَتْ كُلَّ شَيْءٍ
+
+(and My mercy embraces all things) testifies to His encompassing mercy. Allah said that the angels who carry His Throne and those around the Throne supplicate,
+
+رَبَّنَا وَسِعْتَ كُلَّ شَيْءٍ رَّحْمَةً وَعِلْمًا
+
+("Our Lord! You comprehend all things in mercy and knowledge.")[40:7]
+
+Imam Ahmad recorded that Jundub bin 'Abdullah Al-Bajali said, "A bedouin man came, he made his camel kneel and he tied it. Then he prayed behind the Messenger of Allah ﷺ. When the Messenger of Allah ﷺ finished the prayer, that man untied his camel mounted it and supplicated aloud, 'O Allah! Grant Your mercy to me and to Muhammad, and do not give a share in it to anyone else.' The Messenger of Allah ﷺ commented (to his Companions),
+
+أَتَقُولُونَ هَذَا أَضَلُّ أَمْ بَعِيرُهُ أَلَمْ تَسْمَعُوا مَا قَالَ؟
+
+(Do you think that this man is more misguided or his camel Did you not hear what this man has said?) They said, 'Yes.' He said,
+
+لَقَدْ حَظَّرْتَ رَحْمَةً وَاسِعَةً إِنَّ اللهَ عَزَّ وَجَلَّ خَلَقَ مِائَةَ رَحْمَةٍ فَأَنْزَلَ رَحْمَةً يَتَعَاطَفُ بِهَا الخَلْقُ جِنُّهَا وَإِنْسُهَا وَبَهَائِمُهَا وَأَخَّرَ عِنْدَهُ تِسْعًا وَتِسْعِينَ رَحْمَةً أَتَقُولُونَ هُوَ أَضَلُّ أَمْ بَعِيرُهُ؟
+
+(You (the bedouin man) have restricted a vast mercy! Allah, the Exalted, the most Honored has created a hundred mercies and sent down one of them by which the creation, men, Jinn and animals, show mercy to each other. He left with Him ninety-nine mercies, so do you say that this man is more misguided or his camel?) Ahmad and Abu Dawud collected this Hadith.
+
+Imam Ahmad recorded that Salman narrated that the Prophet ﷺ said,
+
+إِنَّ للهِ عَزَّ وَجَلَّ مِائَةَ رَحْمَةٍ فَمِنْهَا رَحْمَةٌ يَتَرَاحَمُ بِهَا الْخَلْقُ وَبِهَا تَعْطِفُ الْوُحُوشُ عَلَى أَوْلَادِهَا وَأَخَّرَ تِسْعَةً وَتِسْعِينَ إِلَى يَوْمِ الْقِيَامَةِ
+
+(Allah, the Exalted and Most Honored, has a hundred mercies. With one of them, the creations show mercy to each other, and even the beasts show kindness to their offspring. He has kept ninety-nine mercies with Him for the Day of Resurrection.) Muslim recorded it.
+
+Allah said next,
+
+فَسَأَكْتُبُهَا لِلَّذِينَ يَتَّقُونَ
+
+(That (mercy) I shall ordain for those who have Taqwa,) meaning, I will ordain My mercy for them, as a favor and kindness from Me to them. Allah said in a similar Ayah,
+
+كَتَبَ رَبُّكُمْ عَلَىٰ نَفْسِهِ الرَّحْمَةَ
+
+(your Lord has written Mercy for Himself)[6:54] Allah's statement,
+
+لِلَّذِينَ يَتَّقُونَ
+
+(for those who have Taqwa), means, 'I will ordain My mercy for those who possess these qualities, and they are the Ummah of Muhammad,'
+
+لِلَّذِينَ يَتَّقُونَ
+
+(for those who have Taqwa), who avoid Shirk and major sins,
+
+وَيُؤْتُونَ الزَّكَاةَ
+
+(and give the Zakah), purify themselves, according to one opinion. It was also said that, 'the Zakah', here pertains to wealth. It is possible that both meanings are included here, for this Ayah was revealed in Makkah [before Zakah in fixed shares was ordained],
+
+وَالَّذِينَ هُم بِآيَاتِنَا يُؤْمِنُونَ
+
+(and those who believe in Our Ayat.), those who have faith in them.
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله :  وَاكْتُبْ لَنَا فِي هَذِهِ الدُّنْيَا حَسَنَةً وَفِي الآخِرَةِ إِنَّا هُدْنَا إِلَيْكَقال أبو جعفر: يقول تعالى ذكره: مخبرًا عن دعاء نبيه موسى عليه السلام أنه قال فيه: " واكتب لنا "، أي: اجعلنا ممن كتَبت له= " في هذه الدنيا حسنَةً"، وهي الصالحات من الأعمال (1) = " وفي الآخرة "، ممن كتبتَ له المغفرة لذنوبه، كما : -15176- حدثنا القاسم قال، حدثنا الحسين قال، حدثني حجاج, عن ابن جريج قوله: " واكتب لنا في هذه الدنيا حسنة "، قال: مغفرة.* * *وقوله: " إنا هُدنا إليك "، يقول: إنا ...
+القول في تأويل قوله: ﴿وَاكْتُبْ لَنَا فِي هَذِهِ الدُّنْيَا حَسَنَةً وَفِي الآخِرَةِ إِنَّا هُدْنَا إِلَيْكَ﴾
+
+قال أبو جعفر: يقول تعالى ذكره: مخبرًا عن دعاء نبيه موسى عليه السلام أنه قال فيه: "واكتب لنا"، أي: اجعلنا ممن كتَبت له= "في هذه الدنيا حسنَةً"، وهي الصالحات من الأعمال [[(٣) انظر تفسير ((الحسنة)) فيما سلف من فهارس اللغة (حسن) .]] = "وفي الآخرة"، ممن كتبتَ له المغفرة لذنوبه، كما: -
+
+١٥١٧٦- حدثنا القاسم قال، حدثنا الحسين قال، حدثني حجاج، عن ابن جريج قوله: "واكتب لنا في هذه الدنيا حسنة"، قال: مغفرة.
+
+* *
+
+وقوله: "إنا هُدنا إليك"، يقول: إنا تبنا إليك. [[(٤) انظر تفسير ((هاد)) فيما سلف ١٢: ١٩٨، تعليق: ١، والمراجع هناك.]]
+
+* *
+
+وبنحو ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+١٥١٧٧- حدثنا ابن وكيع قال، حدثنا جرير، وابن فضيل، وعمران بن عيينة، عن عطاء، عن سعيد بن جبير= وقال عمران: عن ابن عباس = "إنا هدنا إليك" قال: تبنا إليك.
+
+١٥١٧٨- قال حدثنا زيد بن حباب، عن حماد بن سلمة، عن عطاء، عن سعيد بن جبير، قال: تبنا إليك.
+
+١٥١٧٩-.... قال، حدثنا جابر بن نوح، عن أبي روق، عن الضحاك، عن ابن عباس قال: تبنا إليك.
+
+١٥١٨٠-.... قال، حدثنا عبد الله بن بكر، عن حاتم بن أبي صغيرة، عن سماك: أن ابن عباس قال في هذه الآية: "إنا هدنا إليك"، قال: تبنا إليك. [[(١) الأثر: ١٥١٨٠ - ((عبد الله بن بكر بن حبيب السهمي)) ، ثقة، من شيوخ أحمد، مضى برقم: ٨٢٨٤، ١٠٨٨٥، ١١٢٣٢. و ((حاتم بن أبي صغيرة)) ، هو ((حاتم بن مسلم)) ((أبو يونس)) القشيري، وقيل: الباهلي، و ((أبو صغيرة)) ، هو أبو أمه، ثقة. روى له الجماعة. مترجم في التهذيب، والكبير ٢ / ١ / ٧١، وابن أبي حاتم ١/٢/٢٥٧. وكان في المخطوطة والمطبوعة: ((حاتم بن أبي مغيرة)) ، بالميم في أوله، وهو خطأ محض.]]
+
+١٥١٨١- حدثني المثنى قال، حدثنا الحجاج قال، حدثنا حماد، عن عطاء بن السائب، عن سعيد بن جبير= قال: أحسبه عن ابن عباس: "إنا هدنا إليك"، قال: تبنا إليك.
+
+١٥١٨٢- حدثني محمد بن سعد قال، حدثني أبي قال، حدثني عمي قال، حدثني أبي، عن أبيه، عن ابن عباس: "إنا هدنا إليك"، يقول تبنا إليك.
+
+١٥١٨٣- حدثنا محمد بن بشار قال، حدثني يحيى بن سعيد قال، حدثنا سفيان قال، حدثنا عبد الرحمن بن الأصبهاني، عن سعيد بن جبير في قوله: "إنا هدنا إليك"، قال: تبنا إليك.
+
+١٥١٨٤-.... قال، حدثنا عبد الرحمن، ووكيع بن الجراح قالا حدثنا سفيان، عن عبد الرحمن بن الأصبهاني، عن سعيد بن جبير، بمثله.
+
+١٥١٨٥- حدثني ابن وكيع قال، حدثنا أبي، عن سفيان، عن ابن الأصبهاني، عن سعيد بن جبير، مثله.
+
+١٥١٨٦-.... قال، حدثنا جرير، عن مغيرة، عن إبراهيم قال: تبنا إليك.
+
+١٥١٨٧-.... قال، حدثنا محمد بن يزيد، عن العوام عن إبراهيم التيمي قال: تبنا إليك.
+
+١٥١٨٧م- حدثني المثنى قال، حدثنا عمرو بن عون قال، أخبرنا هشيم، عن العوام، عن إبراهيم التيمي، مثله.
+
+١٥١٨٨- حدثنا بشر بن معاذ قال، حدثنا يزيد قال، حدثنا سعيد، عن قتادة: "إنا هدنا إليك"، أي: إنا تبنا إليك.
+
+١٥١٨٩- حدثنا محمد بن عبد الأعلى قال، حدثنا محمد بن ثور، عن معمر، عن قتادة، في قوله: "هدنا إليك"، قال: تبنا.
+
+١٥١٩٠- حدثنا موسى قال، حدثنا عمرو قال، حدثنا أسباط، عن السدي: "إنا هدنا إليك"، يقول: تبنا إليك.
+
+١٥١٩١- حدثنا محمد بن عمرو قال، حدثنا أبو عاصم قال، حدثنا عيسى، عن ابن أبي نجيح، عن مجاهد: "إنا هدنا إليك"، يقول: تبنا إليك.
+
+١٥١٩٢- حدثني المثني قال، حدثنا أبو حذيفة قال، حدثنا شبل، عن ابن أبي نجيح، عن مجاهد، مثله.
+
+١٥١٩٣- حدثنا ابن وكيع قال، حدثنا أبي، عن أبي جعفر الرازي، عن الربيع بن أنس، عن أبي العالية، قال: "هدنا إليك"، قال: تبنا إليك.
+
+١٥١٩٤- ... قال، حدثنا أبي، عن أبي حجير، عن الضحاك، قال: تبنا إليك. [[(١) الأثر: ١٥١٩٤ - ((أبو حجير)) الذي يروى عن الضحاك، ويروى عنه وكيع، قال أحمد ابن حنبل: ((ما حدثني عنه إلا وكيع)) ، مترجم في لسان الميزان ٦: ٣٦٣. ولم أجد له ترجمة في غيره من كتب الرجال.]]
+
+١٥١٩٥-.... قال، حدثنا المحاربي، عن جويبر، عن الضحاك قال: تبنا إليك.
+
+١٥١٩٦- وحدثت عن الحسين بن الفرج قال، سمعت أبا معاذ يقول، أخبرنا عبيد بن سليمان قال، سمعت الضحاك يقول، فذكر مثله.
+
+١٥١٩٧- ... قال، حدثنا أبي، وعبيد الله، عن شريك، عن جابر، عن مجاهد قال: تبنا إليك.
+
+١٥١٩٨- ... قال، حدثنا حبويه أبو يزيد، عن يعقوب، عن جعفر، عن سعيد بن جبير، مثله. [[(٢) الأثر: ١٥١٩٨ - ((حبويه)) ، ((أبو يزيد)) ، مضى قريباً برقم ١٥١٧٢.]]
+
+١٥١٩٩- ... قال، حدثنا أبي، عن شريك، عن جابر، عن عبد الله بن يحيى، عن علي عليه السلام قال: إنما سميت "اليهود"، لأنهم قالوا: "هدنا إليك". [[(٣) الأثر: ١٥١٩٩- ((جابر بن عبد الله بن يحيى)) ، هكذا هو في المخطوطة، وفي المطبوعة ((جابر، عن عبد الله بن يحيى)) ، ولم أجد لشيء من ذلك ذكراً في الكتب. وهو محرف بلا شك عن شيء آخر. وانظر ما سلف رقم ١٠٩٤، عن ابن جريج. بمعنى هذا الخبر.]]
+
+١٥٢٠٠- حدثني المثني قال، حدثنا عبد الله بن صالح قال، حدثني معاوية، عن علي، عن ابن عباس: "إنا هدنا إليك"، يعني: تبنا إليك.
+
+١٥٢٠١- حدثنا ابن البرقي قال، حدثنا عمرو قال، سمعت رجلا يسأل سعيدًا: "إنا هدنا إليك"، قال: إنا هدنا إليك.
+
+* *
+
+وقد بينا معنى ذلك بشواهده فيما مضى قبل، بما أغنى عن إعادته. [[(٤) انظر تفسير ((هاد)) فيما سلف ص: ١٥٢، تعليق. ٤، والمراجع هناك.]]
+
+* *
+
+القول في تأويل قوله: ﴿قَالَ عَذَابِي أُصِيبُ بِهِ مَنْ أَشَاءُ وَرَحْمَتِي وَسِعَتْ كُلَّ شَيْءٍ فَسَأَكْتُبُهَا لِلَّذِينَ يَتَّقُونَ وَيُؤْتُونَ الزَّكَاةَ وَالَّذِينَ هُمْ بِآيَاتِنَا يُؤْمِنُونَ (١٥٦) ﴾
+
+قال أبو جعفر: يقول تعالى ذكره: قال الله لموسى: هذا الذي أصبتُ به قومك من الرجفة، عذابي أصيب به من أشاء من خلقي، كما أصيب به هؤلاء الذين أصبتهم به من قومك [[(١) انظر تفسير ((الإصابة)) فيما سلف من فهارس اللغة (صوب) .]] = "ورحمتي وسعت كل شيء"، يقول: ورحمتي عمَّت خلقي كلهم. [[(٢) انظر تفسير ((وسع)) فيما سلف ١٢: ٥٦٢، تعليق ٢، والمراجع هناك.]]
+
+* *
+
+وقد اختلف أهل التأويل في تأويل ذلك.
+
+فقال بعضهم: مخرجه عامٌّ، ومعناه خاص، والمراد به: ورحمتي وَسِعت المؤمنين بي من أمة محمّدٍ ﷺ. واستشهد بالذي بعده من الكلام، وهو قوله: "فسأكتبها للذين يتقون"، الآية.
+
+ذكر من قال ذلك:
+
+١٥٢٠٢- حدثني المثني قال، حدثنا أبو سلمة المنقري قال، حدثنا حماد بن سلمة قال، أخبرنا عطاء بن السائب، عن سعيد بن جبير، عن ابن عباس: أنه قرأ: "ورحمتي وسعت كل شيء فسأكتبها للذين يتقون". قال: جعلها الله لهذه الأمة. [[(٣) الأثر: ١٥٢٠٢ - ((أبو سلمة المنقري)) ، هو ((أبو سلمة التبوذكي)) : ((موسى بن إسماعيل المنقري)) ، مولاهم، روى عنه البخاري، وأبو داود، وروى له الباقون من أصحاب الكتب الستة بالواسطة. ثقة إمام. مترجم في التهذيب، والكبير ٤/١/٢٨٠، وابن أبي حاتم ٤/١/١٣٦.]]
+
+١٥٢٠٣- حدثني عبد الكريم قال، حدثنا إبراهيم بن بشار قال، قال سفيان قال، أبو بكر الهذلي: فلما نزلت: "ورحمتي وسعت كل شيء"، قال إبليس: أنا من "الشيء"! فنزعها الله من إبليس، قال: "فسأكتبها للذين يتقون ويؤتون الزكاة والذين هم بآياتنا يؤمنون"، فقال اليهود: نحن نتقي ونؤتي الزكاة ونؤمن بآيات ربنا! فنزعها الله من اليهود فقال: "الذين يتبعون الرسول النبي الأمي"، قال: نزعها الله عن إبليس، وعن اليهود، وجعلها لهذه الأمة. [[(١) الأثر: ١٥٢٠٣ - لا ((عبد الكريم)) ، هو ((عبد الكريم بن الهيثم بن زياد القطان)) ، شيخ الطبري، ثقة، مضى برقم: ٨٩٢. و ((إبراهيم بن بشار الرمادى)) ، ثقة. مضى برقم ٨٩٢، ٦٣٢١. و ((سفيان)) هو: ابن عيينة. و ((أبو بكر الهذلى)) ضعيف مضى مرارًا، آخرها رقم ١٤٦٩٠.]]
+
+١٥٢٠٤- حدثنا القاسم قال، حدثنا الحسين قال، حدثني حجاج، عن ابن جريج قال: لما نزلت: "ورحمتي وسعت كل شيء"، قال إبليس: أنا من "كل شيء! ". قال الله: "فسأكتبها للذين يتقون ويؤتون الزكاة والذين هم بآياتنا يؤمنون"، الآية. فقالت اليهود: ونحن نتقي ونؤتي الزكاة! فأنزل الله: "الذين يتبعون الرسول النبي الأمي"، قال: نزعها الله عن إبليس، وعن اليهود، وجعلها لأمة محمدٍ: سأكتبها للذين يتّقون من قومك.
+
+١٥٢٠٥- حدثنا بشر بن معاذ قال، حدثنا يزيد قال، حدثنا سعيد، عن قتادة قوله: "عذابي أصيب به من أشاء ورحمتي وسعت كل شيء"، فقال إبليس: أنا من ذلك "الشيء"! فأنزل الله: "فسأكتبها للذين يتقون" معاصي الله= "والذين هم بآياتنا يؤمنون"، فتمنتها اليهود والنصارى، فأنزل الله شرطًا وَثيقًا بَيِّنًا، فقال: "الذين يتبعون الرسول النبيّ الأمي"، فهو نبيّكم، كان أميًّا لا يكتُب ﷺ.
+
+١٥٢٠٦- حدثني يعقوب قال، حدثنا ابن علية قال، أخبرنا خالد الحذاء، عن أنيس بن أبي العريان، عن ابن عباس في قوله: "واكتب لنا في الدنيا حسنة وفي الآخرة إنا هدنا إليك"، قال: فلم يعطها، فقال: "عذابي أصيب به من أشاء ورحمتي وسعت كل شيء فسأكتبها للذين يتقون" إلى قوله: "الرسول النبي الأمي". [[(١) الأثران ١٥٢٠٦، ١٥٢٠٧ - ((أنيس أبو العريان المجاشعى)) ، بغير (ابن) بينهما، مترجم في الكبير ١ / ٢ / ٤٤، وابن أبي حاتم ١/١/٣٣٣، ولم يشر واحد منها إلى انه: ((أنيس ابن أبي العريان)) . وفي المخطوطة في الخبر الأول: ((أنيس بن أبي العريان)) بإثبات (ابن) ، وفي الخبر الثاني في الموضعين كليهما ((أنيس بن العريان)) بغير (ابن) كما أثبتها، وأما في المطبوعة، فإنه جعله في المواضع كلها ((أنيس ابن أبي العريان)) ، وهو تصرف معيب لا شك في ذلك. والظاهر أنه اختلف على ابن علية رواية اسمه، رواه مرة ((أنيس بن أبي العريان)) ، ثم رواه أخرى ((أنيس أبي العريان)) ، كما في الأثر الثاني منهما، وذكر الطبري قول عبد الأعلى، ليؤيد به هذه الرواية عن ابن علية. فإن صح هذا الاختلاف على ابن عيينة، وإلا فإنه ينبغي أن يكون أحد أمرين:
+
+إما أن يكون صواب الخبر الأول: ((أنيس أبي العريان)) .
+
+والثاني ((أنيس أبي العريان)) في الأولى، وعن عبد الأعلى ((أنيس ابن أبي العريان)) . أو: أن يكون الأول عن ابن عيينة: ((أنيس بن أبي العريان)) ، والثاني أيضاً: ((أنيس ابن أبي العريان)) ، وعن عبد الأعلى: ((أنيس بن أبي العريان)) . والله أعلم بالصواب في كل ذلك، ولا مرجح عندي..]]
+
+١٥٢٠٧- حدثني ابن وكيعٍ قال، حدثنا ابن علية، وعبد الأعلى، عن خالد، عن أنيس أبي العُريان= قال عبد الأعلى، عن أنيس أبي العُرْيان= وقال: قال ابن عباس: "واكتب لنا في هذه الدنيا حسنة وفي الآخرة إنَّا هدنا إليك"، قال: فلم يعطها موسى، قال: "عذابي أصيب به من أشاء ورحمتي وسعت كل شيء فسأكتبها"، إلى آخر الآية.
+
+١٥٢٠٨- حدثني المثني قال، حدثنا عبد الله بن صالح قال، حدثني معاوية، عن علي، عن ابن عباس قال: كان الله كتب في الألواح ذكر محمد وذكرَ أمته، وما ذَخَر لهم عنده، وما يسَّر عليهم في دينهم، وما وَسَّع عليهم فيما أحلّ لهم، فقال: "عذابي أصيب به من أشاء ورحمتي وسعت كل شيء فسأكتبها للذين يتقون" = يعني: الشركَ= الآية.
+
+* *
+
+وقال آخرون: بل ذلك على العموم في الدنيا، وعلى الخصوص في الآخرة.
+
+ذكر من قال ذلك:
+
+١٥٢٠٩- حدثنا الحسن بن يحيى قال، أخبرنا عبد الرزاق قال، أخبرنا معمر، عن الحسن وقتادة في قوله: "ورحمتي وسعت كل شيء"، قالا وسعت في الدنيا البَرَّ والفاجر، وهي يوم القيامة للذين اتَّقوا خاصَّةً.
+
+* *
+
+وقال آخرون: هي على العموم، وهي التوبة.
+
+ذكر من قال ذلك:
+
+١٥٢١٠- حدثني يونس قال، أخبرنا ابن وهب قال، قال ابن زيد في قوله: "أنت ولينا فاغفر لنا وارحمنا وأنت خير الغافرين* واكتب لنا في هذه الدنيا حسنة وفي الآخرة إنا هدنا إليك"، فقال: سأل موسى هذا، فقال الله: "عذابي أصيب به من أشاء"= العذاب الذي ذَكر= "ورحمتي"، التوبةُ = ﴿وسعت كل شيء فسأكتبها للذين يتقون﴾ ، قال: فرحمته التوبةُ التي سأل موسى عليه السلام، كتبها الله لنا.
+
+* *
+
+وأما قوله: "فسأكتبها للذين يتقون"، فإنه يقول: فسأكتب رحمتي التي وسعت كل شيء= ومعنى "أكتب" في هذا الموضع: أكتب في اللوح الذي كُتِب فيه التوراة "للذين يتقون"، [[(١) في المطبوعة والمخطوطة: ((الذين يتقون)) بغير لام، والصواب ما أثبت.]] يقول: للقوم الذين يخافون الله ويخشون عقابه على الكفر به والمعصية له في أمره ونهيه، فيؤدُّون فرائضه، ويجتنبون معاصيه. [[(٢) انظر تفسير ((التقوى)) فيما سلف من فهارس اللغة (وقى) .]]
+
+وقد اختلف أهل التأويل في المعنى الذي وصف الله هؤلاء القوم بأنّهم يتقونه. فقال بعضهم: هو الشرك.
+
+ذكر من قال ذلك:
+
+١٥٢١١- حدثني المثني قال، حدثنا عبد الله بن صالح قال، حدثني معاوية، عن علي، عن ابن عباس: "فسأكتبها للذين يتقون"، يعني الشرك.
+
+* *
+
+وقال آخرون: بل هو المعاصي كلها.
+
+ذكر من قال ذلك:
+
+١٥٢١٢- حدثنا بشر قال، حدثنا يزيد قال، حدثنا سعيد، عن قتادة "فسأكتبها للذين يتقون"، معاصي الله.
+
+* *
+
+وأما "الزكاة وإيتاؤها"، فقد بيَّنا صفتها فيما مضى، بما أغنى عن إعادته. [[(١) انظر تفسير ((إيتاء الزكاة)) فيما سلف ١: ٥٧٣، ٥٧٤، وما بعده في فهارس اللغة (زكا) و (أتى) .]]
+
+* *
+
+وقد ذكر عن ابن عباس في هذا الموضع أنه قال في ذلك ما: -
+
+١٥٢١٣- حدثني المثني قال، حدثنا عبد الله قال، حدثني معاوية، عن علي، عن ابن عباس: "ويؤتون الزكاة"، قال: يطيعون الله ورسولَه.
+
+* *
+
+فكأنّ ابن عباس تأوَّل ذلك بمعنى أنه العمل بما يزكِّي النفسَ ويطهِّرها من صالحات الأعمال.
+
+* *
+
+وأما قوله: "والذين هم بآياتنا يؤمنون"، فإنه يقول: وللقوم الذين هم بأعلامنا وأدلتنا يصدِّقون ويقرُّون. [[(٢) انظر تفسير ((الآيات)) و ((والإيمان)) فيما سلف من فهارس اللغة (أيي) و (أمن) .]]
 
 ### al-Muyassar (Arabic)
 
@@ -94,6 +710,6 @@ Seventy Men from the Children of Israel go for the appointedMeeting Place that A
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿واكْتُبْ﴾ أوْجِبْ ﴿لَنا فِي هَذِهِ الدُّنْيا حَسَنَة وفِي الآخِرَة﴾ حَسَنَة ﴿إنّا هُدْنا﴾ تُبْنا ﴿إلَيْك قالَ﴾ تَعالى ﴿عَذابِي أُصِيب بِهِ مَن أشاء﴾ تَعْذِيبه ﴿ورَحْمَتِي وسِعَتْ﴾ عَمَّتْ ﴿كُلّ شَيْء﴾ فِي الدُّنْيا ﴿فَسَأَكْتُبُها﴾ فِي الآخِرَة
 
 ---

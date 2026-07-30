@@ -1,6 +1,6 @@
 # Tafsir Cross-Reference Report
 
-Generated: 2026-07-15
+Generated: 2026-07-30
 Ayahs referenced: 1
 Tafsir sources: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), al-Jalalayn (Arabic)
 
@@ -16,7 +16,37 @@ Allah will definitely help His Messenger ﷺ
 
 Ibn 'Abbas said, "Whoever thinks that Allah will not help Muhammad ﷺ in this world and the Hereafter, let him stretch out a rope
 
-إِلَى السَّمَ...
+إِلَى السَّمَاءِ
+
+(to the ceiling) to the ceiling in his house,
+
+ثُمَّ لْيَقْطَعْ
+
+(and let him strangle himself.) let him hang himself with it." This was also the view of Mujahid, 'Ikrimah, 'Ata', Abu Al-Jawza', Qatadah and others. The meaning is: whoever thinks that Allah will not support Muhammad ﷺ and His Book and His Religion, let him go and kill himself if it annoys him so much. For Allah will most certainly help and support him. Allah says:
+
+إِنَّا لَنَنْصُرُ رُسُلَنَا وَالَّذِينَ آمَنُوا فِي الْحَيَاةِ الدُّنْيَا وَيَوْمَ يَقُومُ الْأَشْهَادُ
+
+(Verily, We will indeed make victorious Our Messengers and those who believe in this world's life and on the Day when the witnesses will stand forth.)(40:51). Allah says here:
+
+فَلْيَنظُرْ هَلْ يُذْهِبَنَّ كَيْدُهُ مَا يَغِيظُ
+
+(Then let him see whether his plan will remove that whereat he rages!) As-Suddi said, "Meaning, in the case of Muhammad ﷺ" 'Ata' Al-Khurasani said, "Let him see whether that will cure the rage he feels in his heart."
+
+وَكَذَٰلِكَ أَنزَلْنَاهُ
+
+(Thus have We sent it down) the Qur'an.
+
+آيَاتٍ بَيِّنَاتٍ
+
+(as clear Ayat,) clear in its wording and its meaning, evidence from Allah to mankind.
+
+وَأَنَّ اللَّهَ يَهْدِي مَن يُرِيدُ
+
+(and surely, Allah guides whom He wills.) He sends astray whomsoever He wills and He guides whomsoever He wills, and He has complete wisdom and definitive proof in doing so.
+
+لَا يُسْأَلُ عَمَّا يَفْعَلُ وَهُمْ يُسْأَلُونَ
+
+(He cannot be questioned about what He does, while they will be questioned.)[21:23]. Because of His wisdom, mercy, justice, knowledge, dominion and might, no one can overturn His ruling, and He is swift in bringing to account.
 
 ### al-Tabari (Arabic)
 
@@ -26,7 +56,7 @@ Ibn 'Abbas said, "Whoever thinks that Allah will not help Muhammad ﷺ in this w
 
 * *
 
-القول في...
+القول في تأويل قوله تعالى: ﴿مَنْ كَانَ يَظُنُّ أَنْ لَنْ يَنْصُرَهُ اللَّهُ فِي الدُّنْيَا وَالآخِرَةِ فَلْيَمْدُدْ بِسَبَبٍ إِلَى السَّمَاءِ ثُمَّ لِيَقْطَعْ فَلْيَنْظُرْ هَلْ يُذْهِبَنَّ كَيْدُهُ مَا يَغِيظُ (١٥) ﴾
 
 ### al-Muyassar (Arabic)
 

@@ -1,6 +1,6 @@
 # Tafsir Cross-Reference Report
 
-Generated: 2026-07-15
+Generated: 2026-07-30
 Ayahs referenced: 1
 Tafsir sources: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), al-Jalalayn (Arabic)
 
@@ -10,13 +10,135 @@ Tafsir sources: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), 
 
 ### Ibn Kathir (English)
 
-And (remember) the Day when He will call to them and say: "Where are My (so-called) partners whom you used to assert? (62)Those about whom the Word will have been fulfilled will say: "Our Lord! These are they whom we led astray. We led them astray, as we were astray ourselves. We declare our innocence before You. It was not us they worshipped. (63)And it will be said: "Call upon your partners," and they will call upon them, but they will give no answer to them, and they will see the torment. ...
+And (remember) the Day when He will call to them and say: "Where are My (so-called) partners whom you used to assert? (62)Those about whom the Word will have been fulfilled will say: "Our Lord! These are they whom we led astray. We led them astray, as we were astray ourselves. We declare our innocence before You. It was not us they worshipped. (63)And it will be said: "Call upon your partners," and they will call upon them, but they will give no answer to them, and they will see the torment. If only they had been guided (64)And the Day He will call to them, and say: "What answer gave you to the Messengers? (65)Then the news of a good answer will be obscured to them on that Day, and they will not be able to ask one another (66)But as for him who repented, believed, and did righteous deeds, then perhaps he will be among those who are successful (67)
+
+The Idolators and Their Partners and the Emnity between Them in the Hereafter
+
+Allah informs of how He will rebuke the idolators on the Day of Resurrection, when He will call them and say:
+
+أَيْنَ شُرَكَائِيَ الَّذِينَ كُنْتُمْ تَزْعُمُونَ
+
+("Where are My (so-called) partners whom you used to assert?") meaning, 'where are the gods which you used to worship in the world, the idols and rivals Can they help you or save you?' This is said in the nature of a rebuke and warning, as in the Ayah,
+
+وَلَقَدْ جِئْتُمُونَا فُرَادَىٰ كَمَا خَلَقْنَاكُمْ أَوَّلَ مَرَّةٍ وَتَرَكْتُمْ مَا خَوَّلْنَاكُمْ وَرَاءَ ظُهُورِكُمْ ۖ وَمَا نَرَىٰ مَعَكُمْ شُفَعَاءَكُمُ الَّذِينَ زَعَمْتُمْ أَنَّهُمْ فِيكُمْ شُرَكَاءُ ۚ لَقَدْ تَقَطَّعَ بَيْنَكُمْ وَضَلَّ عَنْكُمْ مَا كُنْتُمْ تَزْعُمُونَ
+
+(And truly, you have come unto Us alone as We created you the first time. You have left behind you all that which We had bestowed on you. We see not with you your intercessors whom you claimed to be partners with Allah. Now all relations between you and them have been cut off, and all that you used to claim has vanished from you.)(6:94) His saying:
+
+قَالَ الَّذِينَ حَقَّ عَلَيْهِمُ الْقَوْلُ
+
+(Those about whom the Word will have been fulfilled) means the Shayatin and evil Jinn, and those who used to advocate disbelief.
+
+رَبَّنَا هَٰؤُلَاءِ الَّذِينَ أَغْوَيْنَا أَغْوَيْنَاهُمْ كَمَا غَوَيْنَا ۖ تَبَرَّأْنَا إِلَيْكَ ۖ مَا كَانُوا إِيَّانَا يَعْبُدُونَ
+
+("Our Lord! These are they whom we led astray. We led them astray, as we were astray ourselves. We declare our innocence before You. It was not us they worshipped.") They will testify against them and say that they led them astray, then they will declare their innocence of their worship. This is like the Ayat:
+
+وَاتَّخَذُوا مِنْ دُونِ اللَّهِ آلِهَةً لِيَكُونُوا لَهُمْ عِزًّا - كَلَّا ۚ سَيَكْفُرُونَ بِعِبَادَتِهِمْ وَيَكُونُونَ عَلَيْهِمْ ضِدًّا
+
+(And they have taken gods besides Allah, that they might give them honor, power and glory. Nay, but they will deny their worship of them, and become opponents to them.)(19:81-82)
+
+وَمَنْ أَضَلُّ مِمَّنْ يَدْعُو مِنْ دُونِ اللَّهِ مَنْ لَا يَسْتَجِيبُ لَهُ إِلَىٰ يَوْمِ الْقِيَامَةِ وَهُمْ عَنْ دُعَائِهِمْ غَافِلُونَ- وَإِذَا حُشِرَ النَّاسُ كَانُوا لَهُمْ أَعْدَاءً وَكَانُوا بِعِبَادَتِهِمْ كَافِرِينَ
+
+(And who is more astray than one who calls besides Allah, who will not answer him till the Day of Resurrection, and who are (even) unaware of their calls to them? And when mankind are gathered, they will become their enemies and will deny their worshipping.)(46:5-6). Ibrahim Al-Khalil, peace be upon him, said to his people:
+
+إِنَّمَا اتَّخَذْتُمْ مِنْ دُونِ اللَّهِ أَوْثَانًا مَوَدَّةَ بَيْنِكُمْ فِي الْحَيَاةِ الدُّنْيَا ۖ ثُمَّ يَوْمَ الْقِيَامَةِ يَكْفُرُ بَعْضُكُمْ بِبَعْضٍ وَيَلْعَنُ بَعْضُكُمْ بَعْضًا
+
+(You have taken idols instead of Allah. The love between you is only in the life of this world, but on the Day of Resurrection, you shall disown each other, and curse each other.)(29:25)
+
+إِذْ تَبَرَّأَ الَّذِينَ اتُّبِعُوا مِنَ الَّذِينَ اتَّبَعُوا وَرَأَوُا الْعَذَابَ وَتَقَطَّعَتْ بِهِمُ الْأَسْبَابُ
+
+(When those who were followed disown those who followed, and they see the torment, then all their relations will be cut off from them) until:
+
+وَمَا هُمْ بِخَارِجِينَ مِنَ النَّارِ
+
+(And they will never get out of the Fire.)(2:166-167). Allah says:
+
+وَقِيلَ ادْعُوا شُرَكَاءَكُمْ
+
+(And it will be said (to them): "Call upon your partners,") meaning, 'to save you from the predicament you are in, as you hoped that they would do in this world.'
+
+فَدَعَوْهُمْ فَلَمْ يَسْتَجِيبُوا لَهُمْ وَرَأَوُا الْعَذَابَ
+
+(and they will call upon them, but they will give no answer to them, and they will see the torment.) means, they will realize for sure that they are inevitably destined for the Fire. His saying:
+
+لَوْ أَنَّهُمْ كَانُوا يَهْتَدُونَ
+
+(If only they had been guided!) means, when they see the punishment with their own eyes, they will wish that they had been among the guided in this world. This is like the Ayah,
+
+وَيَوْمَ يَقُولُ نَادُوا شُرَكَائِيَ الَّذِينَ زَعَمْتُمْ فَدَعَوْهُمْ فَلَمْ يَسْتَجِيبُوا لَهُمْ وَجَعَلْنَا بَيْنَهُمْ مَوْبِقًا - وَرَأَى الْمُجْرِمُونَ النَّارَ فَظَنُّوا أَنَّهُمْ مُوَاقِعُوهَا وَلَمْ يَجِدُوا عَنْهَا مَصْرِفًا
+
+(And the Day He will say: "Call those partners of Mine whom you claimed." Then they will cry unto them, but they will not answer them, and We shall put a Mawbiq (a barrier) between them. And the criminals, shall see the Fire and apprehend that they have to fall in it. And they will find no way of escape from there.)(18:52-53)
+
+Their attitude towards the Messengers on the Day of Resurrection
+
+وَيَوْمَ يُنَادِيهِمْ فَيَقُولُ مَاذَا أَجَبْتُمُ الْمُرْسَلِينَ
+
+(And the Day He will call to them, and say: "What answer gave you to the Messengers?") The first call will be concerning the issue of Tawhid, which includes evidences of the prophethood – 'What was your response to the Messengers who were sent to you? How did you deal with them?' This is like the questions which will be asked of a person in his grave: 'who is your Lord? who is your Prophet? and what is your religion?' The believer will testify that there is no God except Allah and that Muhammad is His servant and Messenger, but the disbelievers will say, "Oh, oh, I do not know." So he will have no answer on the Day of Resurrection except to remain silent, because whoever is blind in this world (i.e., does not see Allah's signs and believes not in Him), will be blind in the Hereafter, and more astray. Allah says:
+
+فَعَمِيَتْ عَلَيْهِمُ الْأَنْبَاءُ يَوْمَئِذٍ فَهُمْ لَا يَتَسَاءَلُونَ
+
+(Then the news of a good answer will be obscured to them on that Day, and they will not be able to ask one another.) Mujahid said: "The proof will be obscured from them," so they will not be able to ask one another for help by virtue of their blood ties. Allah's saying:
+
+فَأَمَّا مَنْ تَابَ وَآمَنَ وَعَمِلَ صَالِحًا
+
+(But as for him who repented, believed, and did righteous deeds,) means, in this world.
+
+فَعَسَىٰ أَنْ يَكُونَ مِنَ الْمُفْلِحِينَ
+
+(then perhaps he will be among those who are successful.) means, on the Day of Resurrection. And the word; perhaps ('Asa), when used in reference to Allah, may He be exalted, implies that the thing described will inevitably come to pass, and this will undoubtedly happen by the grace and mercy of Allah.
 
 ### al-Tabari (Arabic)
 
 القول في تأويل قوله تعالى: ﴿وَيَوْمَ يُنَادِيهِمْ فَيَقُولُ أَيْنَ شُرَكَائِيَ الَّذِينَ كُنْتُمْ تَزْعُمُونَ (٦٢) قَالَ الَّذِينَ حَقَّ عَلَيْهِمُ الْقَوْلُ رَبَّنَا هَؤُلاءِ الَّذِينَ أَغْوَيْنَا أَغْوَيْنَاهُمْ كَمَا غَوَيْنَا تَبَرَّأْنَا إِلَيْكَ مَا كَانُوا إِيَّانَا يَعْبُدُونَ (٦٣) ﴾
 
-يقول تعالى ذكره: ويوم ينادي ربّ العزّة الذين أشركوا به الأنداد والأوثان في الدنيا، فيقول لهم: ﴿أَيْنَ شُرَكَائِيَ الَّذِينَ كُنْتُمْ تَزْعُمُونَ﴾ أنهم لي في الدنيا شركاء ﴿قَالَ الَّذِينَ حَقَّ عَلَيْهِمُ...
+يقول تعالى ذكره: ويوم ينادي ربّ العزّة الذين أشركوا به الأنداد والأوثان في الدنيا، فيقول لهم: ﴿أَيْنَ شُرَكَائِيَ الَّذِينَ كُنْتُمْ تَزْعُمُونَ﴾ أنهم لي في الدنيا شركاء ﴿قَالَ الَّذِينَ حَقَّ عَلَيْهِمُ الْقَوْلُ﴾ يقول: قال الذين وجب عليهم غضب الله ولعنته، وهم الشياطين الذين كانوا يغوون بني آدم: ﴿رَبَّنَا هَؤُلاءِ الَّذِينَ أَغْوَيْنَا أَغْوَيْنَاهُمْ كَمَا غَوَيْنَا﴾ .
+
+وبنحو الذي قلنا في ذلك، قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا القاسم، قال: ثنا الحسين، قال: ثنا أبو سفيان، عن معمر، عن قَتادة، في قوله: ﴿هَؤُلاءِ الَّذِينَ أَغْوَيْنَا أَغْوَيْنَاهُمْ كَمَا غَوَيْنَا﴾ قال: هم الشياطين.
+
+* *
+
+وقوله: ﴿تَبَرَّأْنَا إِلَيْكَ﴾
+
+يقول: تبرأنا من ولايتهم ونصرتهم إليك ﴿مَا كَانُوا إِيَّانَا يَعْبُدُونَ﴾ يقول: لم يكونوا يعبدوننا.
+
+* *
+
+القول في تأويل قوله تعالى: ﴿وَقِيلَ ادْعُوا شُرَكَاءَكُمْ فَدَعَوْهُمْ فَلَمْ يَسْتَجِيبُوا لَهُمْ وَرَأَوُا الْعَذَابَ لَوْ أَنَّهُمْ كَانُوا يَهْتَدُونَ (٦٤) ﴾
+
+يقول تعالى ذكره: وقيل للمشركين بالله الآلهة والأنداد في الدنيا: ﴿ادْعُوا شُرَكَاءَكُمْ﴾ الذين كنتم تدعون من دون الله ﴿فَدَعَوْهُمْ فَلَمْ يَسْتَجِيبُوا لَهُمْ﴾ يقول: فلم يجيبوهم ﴿وَرَأَوُا الْعَذَابَ﴾ يقول: وعاينوا العذاب ﴿لَوْ أَنَّهُمْ كَانُوا يَهْتَدُونَ﴾ يقول: فودّوا حين رأوا العذاب لو أنهم كانوا في الدنيا مهتدين للحقّ.
+
+* *
+
+القول في تأويل قوله تعالى: ﴿وَيَوْمَ يُنَادِيهِمْ فَيَقُولُ مَاذَا أَجَبْتُمُ الْمُرْسَلِينَ (٦٥) فَعَمِيَتْ عَلَيْهِمُ الأنْبَاءُ يَوْمَئِذٍ فَهُمْ لا يَتَسَاءَلُونَ (٦٦) ﴾
+
+يقول تعالى ذكره: ويوم ينادي الله هؤلاء المشركين، فيقول لهم: ﴿مَاذَا أَجَبْتُمُ الْمُرْسَلِينَ﴾ فيما أرسلناهم به إليكم، من دعائكم إلى توحيدنا، والبراءة من الأوثان والأصنام ﴿فَعَمِيَتْ عَلَيْهِمُ الأنْبَاءُ يَوْمَئِذٍ﴾ يقول: فخفيت عليهم الأخبار، من قولهم: قد عمي عني خبر القوم: إذا خفي. وإنما عُنِي بذلك أنهم عميت عليهم الحجة، فلم يدروا ما يحتجون؛ لأن الله تعالى قد كان أبلغ إليهم في المعذرة، وتابع عليهم الحجة، فلم تكن لهم حجة يحتجون بها، ولا خبر يخبرون به، مما تكون لهم به نجاة ومخلص.
+
+وبنحو الذي قلنا في ذلك، قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى؛ وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء جميعا، عن ابن أبي نجيح، عن مجاهد: ﴿فَعَمِيَتْ عَلَيْهِمُ الأنْبَاءُ﴾ قال: الحجج، يعني الحجة.
+
+⁕ حدثنا القاسم، قال: ثنا الحسين، قال: ثني حجاج، عن ابن جُرَيج، عن مجاهد: ﴿فَعَمِيَتْ عَلَيْهِمُ الأنْبَاءُ﴾ قال: الحجج.
+
+قال: ثني حجاج، عن ابن جُرَيج، في قوله: ﴿وَيَوْمَ يُنَادِيهِمْ فَيَقُولُ مَاذَا أَجَبْتُمُ الْمُرْسَلِينَ﴾ قال: بلا إله إلا الله، التوحيد.
+
+* *
+
+وقوله: ﴿فَهُمْ لا يَتَسَاءَلُونَ﴾
+
+بالأنساب والقرابة.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى؛ وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء جميعا، عن ابن أبي نجيح، عن مجاهد: ﴿فَهُمْ لا يَتَسَاءَلُونَ﴾ قال: لا يتساءلون بالأنساب، ولا يتماتون بالقرابات، إنهم كانوا في الدنيا إذا ألتقوا تساءلوا وتماتوا.
+
+⁕ حدثنا القاسم، قال: ثنا الحسين، قال: ثني حجاج، عن ابن جُرَيج، عن مجاهد: ﴿فَهُمْ لا يَتَسَاءَلُونَ﴾ قال: بالأنساب.
+
+وقيل معنى ذلك: فعميت عليهم الحجج يومئذ، فسكتوا، فهم لا يتساءلون في حال سكوتهم.
 
 ### al-Muyassar (Arabic)
 

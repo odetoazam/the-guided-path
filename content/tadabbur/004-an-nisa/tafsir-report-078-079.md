@@ -1,6 +1,6 @@
 # Tafsir Cross-Reference Report
 
-Generated: 2026-04-02
+Generated: 2026-07-30
 Ayahs referenced: 20
 Tafsir sources: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), al-Jalalayn (Arabic)
 
@@ -10,22 +10,297 @@ Tafsir sources: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), 
 
 ### Ibn Kathir (English)
 
-الرِّجَالُ قَوَّامُونَ عَلَى النِّسَآءِ
+Men are the protectors and maintainers of women, because Allah has made one of them to excel the other, and because they spend (to support them) from their means. Therefore the righteous women are Qanitat, and guard in the husband's absence what Allah orders them to guard. As to those women on whose part you see ill conduct, admonish them, and abandon them in their beds, and beat them, but if they return to obedience, do not seek a means against them. Surely, Allah is Ever Most High, Most Great.) Allah sai (34)
+
+الرِّجَالُ قَوَّامُونَ عَلَى النِّسَاءِ
+
 (Men are the protectors and maintainers of women,) meaning, the man is responsible for the woman, and he is her maintainer, caretaker and leader who disciplines her if she deviates.
-بِمَا فَضَّلَ اللَّهُ بَعْضَهُمْ عَلَى بَعْضٍ
-(because Allah has made one of them to excel the other,) meaning, because men excel over women and are better than them for certain tasks. This is why prophethood was exclusive of men, as well as other important positions of lead...
+
+بِمَا فَضَّلَ اللَّهُ بَعْضَهُمْ عَلَىٰ بَعْضٍ
+
+(because Allah has made one of them to excel the other,) meaning, because men excel over women and are better than them for certain tasks. This is why prophethood was exclusive of men, as well as other important positions of leadership. The Prophet ﷺ said,
+
+لَنْ يُفْلِحَ قَوْمٌ وَلَّوْا أَمْرَهُمُ امْرَأَةً
+
+(People who appoint a woman to be their leader, will never achieve success.) Al-Bukhari recorded this Hadith. Such is the case with appointing women as judges or on other positions of leadership.
+
+وَبِمَا أَنفَقُوا مِنْ أَمْوَالِهِمْ
+
+(and because they spend from their means.) meaning the dowry, expenditures and various expenses that Allah ordained in His Book and the Sunnah of His Messenger for men to spend on women. For these reasons it is suitable that he is appointed her maintainer, just as Allah said,
+
+وَلِلرِّجَالِ عَلَيْهِنَّ دَرَجَةٌ
+
+(But men have a degree (of responsibility) over them). [2:228]
+
+Qualities of the Righteous Wife
+
+Allah said,
+
+فَالصَّالِحَاتُ
+
+(Therefore, the righteous) women,
+
+قَانِتَاتٌ
+
+(are Qanitat), obedient to their husbands, as Ibn 'Abbas and others stated.
+
+حَافِظَاتٌ لِّلْغَيْبِ
+
+(and guard in the husband's absence) As-Suddi and others said that it means she protects her honor and her husband's property when he is absent, and Allah's statement,
+
+بِمَا حَفِظَ اللَّهُ
+
+(what Allah orders them to guard.) means, the protected [husband] is the one whom Allah protects. Ibn Jarir recorded that Abu Hurayrah said that the Messenger of Allah ﷺ said,
+
+خَيْرُ النِّسَاءِ امْرَأَةٌ إِذَا نَظَرْتَ إِلَيْهَا سَرَّتْكَ، وَإِذَا أَمَرْتَهَا أَطَاعَتْكَ، وَإِذَا غِبْتَ عَنْهَا حَفِظَتْكَ فِي نَفْسِهَا وَمَالِكَ
+
+(The best women is she who when you look at her, she pleases you, when you command her she obeys you, and when you are absent, she protects her honor and your property.) Then, the Messenger of Allah ﷺ recited the Ayah,
+
+الرِّجَالُ قَوَّامُونَ عَلَى النِّسَاءِ
+
+(Men are the protectors and maintainers of women,) until its end. Imam Ahmad recorded that 'Abdur-Rahman bin 'Awf said that the Messenger of Allah ﷺ said,
+
+إِذَا صَلَّتِ الْمَرْأَةُ خَمْسَهَا، وَصَامَتْ شَهْرَهَا، وَحَفِظَتْ فَرْجَهَا، وَأَطَاعَتْ زَوْجَهَا، قِيلَ لَهَا: ادْخُلِي الْجَنَّةَ مِنْ أَيِّ الْأَبْوَابِ شِئْتِ
+
+(If the woman prayed her five daily prayers, fasted her month, protected her chastity and obeyed her husband, she will be told, 'Enter Paradise from any of its doors you wish.')
+
+Dealing with the Wife's Ill-Conduct
+
+Allah said,
+
+وَاللَّاتِي تَخَافُونَ نُشُوزَهُنَّ
+
+(As to those women on whose part you see ill conduct,) meaning, the woman from whom you see ill conduct with her husband, such as when she acts as if she is above her husband, disobeys him, ignores him, dislikes him, and so forth. When these signs appear in a woman, her husband should advise her and remind her of Allah's torment if she disobeys him. Indeed, Allah ordered the wife to obey her husband and prohibited her from disobeying him, because of the enormity of his rights and all that he does for her. The Messenger of Allah ﷺ said,
+
+لَوْ كُنْتُ آمِرًا أَحَدًا أَنْ يَسْجُدَ لِأَحَدٍ، لَأَمَرْتُ الْمَرْأَةَ أَنْ تَسْجُدَ لِزَوْجِهَا، مِنْ عِظَمِ حَقِّهِ عَلَيْهَا
+
+(If I were to command anyone to prostrate before anyone, I would have commanded the wife to prostrate before her husband, because of the enormity of his right upon her.)
+
+Al-Bukhari recorded that Abu Hurayrah said that the Messenger of Allah ﷺ said,
+
+إِذَا دَعَا الرَّجُلُ امْرَأَتَهُ إِلى فِرَاشِهِ فَأَبَتْ عَلَيْهِ، لَعَنَتْهَا الْمَلَائِكَةُ حَتَّى تُصْبِحَ
+
+(If the man asks his wife to come to his bed and she declines, the angels will keep cursing her until the morning.) Muslim recorded it with the wording,
+
+إِذَا بَاتَتِ الْمَرْأَةُ هَاجِرَةً فِرَاشَ زَوْجِهَا، لَعَنَتْهَا الْمَلَائِكَةُ حَتَّى تُصْبِحَ
+
+(If the wife goes to sleep while ignoring her husband's bed, the angels will keep cursing her until the morning.) This is why Allah said,
+
+وَاللَّاتِي تَخَافُونَ نُشُوزَهُنَّ فَعِظُوهُنَّ
+
+(As to those women on whose part you see ill conduct, admonish them (first)). Allah's statement,
+
+وَاهْجُرُوهُنَّ فِي الْمَضَاجِعِ
+
+(abandon them in their beds,) 'Ali bin Abi Talhah reported that Ibn 'Abbas said "The abandonment refers to not having intercourse with her, to lie on her bed with his back to her." Several others said similarly. As-Suddi, Ad-Dahhak, 'Ikrimah, and Ibn 'Abbas, in another narration, added, "Not to speak with her or talk to her." The Sunan and Musnad compilers recorded that Mu'awiyah bin Haydah Al-Qushayri said, "O Allah's Messenger! What is the right that the wife of one of us has on him?" The Prophet ﷺ said,
+
+أَنْ تُطْعِمَهَا إِذَا طَعِمْتَ، وَتَكْسُوَهَا إِذَا اكْتَسَيْتَ، وَلَا تَضْرِبِ الْوَجْهَ، وَلَا تُقَبِّحْ، وَلَا تَهْجُرْ إِلَّا فِي الْبَيْتِ
+
+(To feed her when you eat, cloth her when you buy clothes for yourself, refrain from striking her face or cursing her, and to not abandon her, except in the house.) Allah's statement,
+
+وَاضْرِبُوهُنَّ
+
+(beat them) means, if advice and ignoring her in the bed do not produce the desired results, you are allowed to discipline the wife, without severe beating. Muslim recorded that Jabir said that during the Farewell Hajj, the Prophet ﷺ said;
+
+وَاتَّقُوا اللهَ فِي النِّسَاءِ، فَإِنَّهُنَّ عِنْدَكُمْ عَوَانٍ، وَلَكُمْ عَلَيْهِنَّ أَنْ لَا يُوطِئْنَ فُرُشَكُمْ أَحَدًا تَكْرَهُونَهُ، فَإِنْ فَعَلْنَ ذَلِكَ فَاضْرِبُوهُنَّ ضَرْبًا غَيْرَ مُبَرِّحٍ، وَلَهُنَّ عَلَيْكُمْ رِزْقُهُنَّ وَكِسْوَتُهُنَّ بِالْمَعْرُوفِ
+
+(Fear Allah regarding women, for they are your assistants. You have the right on them that they do not allow any person whom you dislike to step on your mat. However, if they do that, you are allowed to discipline them lightly. They have a right on you that you provide them with their provision and clothes, in a reasonable manner.)
+
+Ibn 'Abbas and several others said that the Ayah refers to a beating that is not violent. Al-Hasan Al-Basri said that it means, a beating that is not severe.
+
+When the Wife Obeys Her Husband, Means of Annoyance Against Her are Prohibited
+
+Allah said,
+
+فَإِنْ أَطَعْنَكُمْ فَلَا تَبْغُوا عَلَيْهِنَّ سَبِيلًا
+
+(but if they return to obedience, seek not against them means (of annoyance),) meaning, when the wife obeys her husband in all that Allah has allowed, then no means of annoyance from the husband are allowed against his wife. Therefore, in this case, the husband does not have the right to beat her or shun her bed. Allah's statement,
+
+إِنَّ اللَّهَ كَانَ عَلِيًّا كَبِيرًا
+
+(Surely, Allah is Ever Most High, Most Great.) reminds men that if they transgress against their wives without justification, then Allah, the Ever Most High, Most Great, is their Protector, and He will exert revenge on those who transgress against their wives and deal with them unjustly.
 
 ### al-Tabari (Arabic)
 
-الرجال قوامون على النساء بما فضل الله بعضهم على بعضالقول في تأويل قوله تعالى : { الرجال قوامون على النساء بما فضل الله بعضهم على بعض } يعني بقوله جل ثناؤه : { الرجال قوامون على النساء } الرجال أهل قيام على نسائهم في تأديبهن والأخذ على أيديهن , فيما يجب عليهن لله ولأنفسهم ; { بما فضل الله بعضهم على بعض } يعني بما فضل الله به الرجال على أزواجهم من سوقهم إليهن مهورهن , وإنفاقهم عليهن أموالهم , وكفايتهم إياهن مؤنهن. وذلك تفضيل الله تبارك وتعالى إياهن عليهن , ولذلك صاروا قواما عليهن , نافذي الأمر ...
+القول في تأويل قوله: ﴿الرِّجَالُ قَوَّامُونَ عَلَى النِّسَاءِ بِمَا فَضَّلَ اللَّهُ بَعْضَهُمْ عَلَى بَعْضٍ وَبِمَا أَنْفَقُوا مِنْ أَمْوَالِهِمْ﴾
+
+قال أبو جعفر: يعني بقوله جل ثناؤه: [[في المطبوعة والمخطوطة: "يعني بذلك جل ثناؤه"، والسياق يقتضي ما أثبت.]] "الرجال قوّامون على النساء"، الرجال أهل قيام على نسائهم، في تأديبهن والأخذ على أيديهن فيما يجب عليهن لله ولأنفسهم ="بما فضّل الله بعضهم على بعض"، يعني: بما فضّل الله به الرجال على أزواجهم: من سَوْقهم إليهنّ مهورهن، وإنفاقهم عليهنّ أموالهم، وكفايتهم إياهن مُؤَنهنّ. وذلك تفضيل الله تبارك وتعالى إياهم عليهنّ، ولذلك صارُوا قوّامًا عليهن، نافذي الأمر عليهن فيما جعل الله إليهم من أمورهن.
+
+* *
+
+وبما قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+٩٣٠٠ - حدثني المثنى قال، حدثنا عبد الله بن صالح قال، حدثني معاوية بن صالح، عن علي بن أبي طلحة، عن ابن عباس قوله:"الرجال قوّامون على النساء"، يعني: أمرَاء، عليها أن تطيعه فيما أمرَها الله به من طاعته، وطاعته: أن تكون محسنةً إلى أهله، حافظةً لماله. وفضَّله عليها بنفقته وسعيه.
+
+٩٣٠١ - حدثني المثنى قال، حدثنا إسحاق قال، حدثنا أبو زهير، عن جويبر، عن الضحاك في قوله:"الرجال قوّامون على النساء بما فضّل الله بعضهم على بعض"، يقول: الرجل قائمٌ على المرأة، يأمرها بطاعة الله، فَإن أبت فله أن يضربها ضربًا غير مبرِّح، وله عليها الفضل بنفقته وسعيه.
+
+٩٣٠٢ - حدثنا محمد بن الحسين قال، حدثنا أحمد بن المفضل قال، حدثنا أسباط، عن السدي:"الرجال قوامون على النساء"، قال: يأخذون على أيديهن ويُؤدّبونهن. [[في المطبوعة والمخطوطة: "ويؤدبوهن"، وهو سهو من الناسخ، وفي هامش المخطوطة حرف"ط" دلالة على الخطأ، أو كأنه كان هكذا في الأصل الذي نقله عنه، خطأ أيضًا.]]
+
+٩٣٠٣ - حدثني المثنى قال، حدثنا حبان بن موسى قال، أخبرنا ابن المبارك قال، سمعت سفيان يقول:"بما فضل الله بعضهم على بعض"، قال: بتفضيل الله الرجال على النساء.
+
+* *
+
+وذُكر أنّ هذه الآية نزلت في رجل لطم امرأته، فخوصم إلى النبي ﷺ في ذلك، فقضَى لها بالقصاص.
+
+ذكر الخبر بذلك:
+
+٩٣٠٤ - حدثنا محمد بن بشار قال، حدثنا عبد الأعلى قال، حدثنا سعيد، عن قتادة قال، حدثنا الحسن: أنّ رجلا لطمَ امرأته، فأتت النبي ﷺ، فأراد أن يُقِصّها منه، فأنزل الله:"الرجالُ قوّامون على النساء بما فضل الله بعضهم على بعض وبما أنفقوا من أموالهم"، فدعاه النبيّ ﷺ فتلاها عليه، وقال: أردتُ أمرًا وأراد الله غيرَه.
+
+٩٣٠٥ - حدثنا بشر بن معاذ قال، حدثنا يزيد قال، حدثنا سعيد، عن قتادة قوله:"الرجال قوامون على النساء بما فضّل الله بعضهم على بعض وبما أنفقوا من أموالهم"، ذكر لنا أن رجلا لطم امرأته، فأتت النبي ﷺ، ثم ذكر نحوه.
+
+٩٣٠٦ - حدثنا الحسن بن يحيى قال، أخبرنا عبد الرزاق قال، أخبرنا معمر، عن قتادة في قوله:"الرّجال قوّامون على النساء"، قال: صك رجل امرأته، فأتت النبي ﷺ، فأراد أن يُقِيدَها منه، فأنزل الله:"الرجال قوامون على النساء".
+
+٩٣٠٧ - حدثنا ابن وكيع قال، حدثنا أبي، عن جرير بن حازم، عن الحسن: أنّ رجلا من الأنصار لطم امرأته، فجاءت تلتمس القصاص، فجعل النبي ﷺ بينهما القصاص، فنزلت: ﴿وَلا تَعْجَلْ بِالْقُرْآنِ مِنْ قَبْلِ أَنْ يُقْضَى إِلَيْكَ وَحْيُهُ﴾ [سورة طه: ١١٤] ، ونزلت:"الرجال قوّامون على النساء بما فضّل الله بعضَهم على بعض". [["سورة طه" سورة مكية باتفاق، فيقول الحسن إنها نزلت في شأن المرأة الأنصارية وذلك بالمدينة ولا ريب، قول فيه نظر.]]
+
+٩٣٠٨ - حدثنا القاسم قال، حدثنا الحسين قال، حدثني حجاج، عن ابن جريج قال: لطم رجلٌ امرأته، فأراد النبيّ ﷺ القصاص. فبيناهم كذلك، نزلت الآية.
+
+٩٣٠٩ - حدثنا محمد بن الحسين قال، حدثنا أحمد بن مفضل قال، حدثنا أسباط، عن السدي: أما"الرجال قوامون على النساء"، فإن رجلا من الأنصار كان بينه وبين امرأته كلامٌ فلطمها، فانطلق أهلها، فذكروا ذلك للنبي ﷺ، فأخبرهم:"الرجال قوامون على النساء" الآية.
+
+* *
+
+وكان الزهري يقول: ليس بين الرجل وامرأته قصاص فيما دون النفس.
+
+٩٣١٠ - حدثنا الحسن بن يحيى قال، أخبرنا عبد الرزاق قال، أخبرنا معمر، سمعت الزهري يقول: لو أن رجلا شَجَّ امرأته أو جَرحها، لم يكن عليه في ذلك قَوَدٌ، وكان عليه العَقل، إلا أن يعدُوَ عليها فيقتلها، فيقتل بها. [["القود": القصاص. و"العقل" الدية وما أشبهها.
+
+هذا، وبحسب امرئ مسلم أن يحفظ من صحيح حديث رسول الله ﷺ، وما رواه البخاري ومسلم: "أيضرب أحدكم امرأته، ثم يجامعها في آخر اليوم"، وما رواه ابن ماجه: "خياركم خياركم لنسائهم".]]
+
+* *
+
+وأما قوله:"وبما أنفقوا من أموالهم"، فإنه يعني: وبما ساقوا إليهن من صداق، وأنفقوا عليهن من نفقة، كما:-
+
+٩٣١١ - حدثني المثنى قال، حدثنا أبو صالح قال، حدثني معاوية بن صالح، عن علي بن أبي طلحة، عن ابن عباس قال: فضله عليها بنفقته وسعيه.
+
+٩٣١٢ - حدثني المثنى قال، حدثنا إسحاق قال، حدثنا أبو زهير، عن جويبر، عن الضحاك مثله.
+
+٩٣١٣ - حدثني المثنى قال، حدثنا حبان بن موسى قال، أخبرنا ابن المبارك قال، سمعت سفيان يقول:"وبما أنفقوا من أموالهم"، بما ساقوا من المهر.
+
+* *
+
+قال أبو جعفر: فتأويل الكلام إذًا: الرجال قوامون على نسائهم، بتفضيل الله إياهم عليهن، وبإنفاقهم عليهنّ من أموالهم.
+
+* *
+
+و"ما" التي في قوله:"بما فضل الله"، والتي في قوله:"وبما أنفقوا"، في معنى المصدر.
+
+* *
+
+القول في تأويل قوله: ﴿فَالصَّالِحَاتُ قَانِتَاتٌ حَافِظَاتٌ لِلْغَيْبِ بِمَا حَفِظَ اللَّهُ﴾
+
+قال أبو جعفر: يعني بقوله جل ثناؤه:"فالصالحات"، المستقيمات الدين، العاملات بالخير، [[انظر تفسير"الصالح" فيما سلف ٣: ٩١ / ٦: ٣٨٠ / ٧: ١٣٠.]] كما:-
+
+٩٣١٤ - حدثني المثنى قال، حدثنا حبان بن موسى قال، حدثنا عبد الله بن المبارك قال، سمعت سفيان يقول:"فالصالحات"، يعملن بالخير.
+
+* *
+
+وقوله:"قانتات"، يعني: مطيعات لله ولأزواجهن، كما:-
+
+٩٣١٥ - حدثني محمد بن عمرو قال، حدثنا أبو عاصم، عن عيسى، عن ابن أبي نجيح، عن مجاهد:"قانتات"، قال: مطيعات.
+
+٩٣١٦ - حدثني المثنى قال، حدثنا أبو حذيفة قال، حدثنا شبل، عن ابن أبي نجيح، عن مجاهد:"قانتات"، قال: مطيعات.
+
+٩٣١٧ - حدثنا المثنى قال، حدثنا أبو حذيفة قال، حدثنا شبل، عن ابن أبي نجيح، عن مجاهد مثله. [[الأثر: ٩٣١٧ - هذا الأثر زدته من المخطوطة وقد حذفته المطبوعة، وقد أحسن في حذفه لأنه تكرار لا معنى له للذي قبله، ولكني أثبته هنا مخافة أن يكون الناسخ قد تجاوز بصره، فوضع الإسناد مرة أخرى كما هو، ويكون في الإسناد خلاف أخطأه نظره.]]
+
+٩٣١٨ - حدثني علي بن داود قال، حدثنا أبو صالح قال، حدثني معاوية بن صالح، عن علي بن أبي طلحة، عن ابن عباس:"قانتات"، مطيعات.
+
+٩٣١٩ - حدثنا الحسن بن معاذ قال، حدثنا يزيد قال، حدثنا سعيد، عن قتادة:"قانتات"، أي: مطيعات لله ولأزواجهن.
+
+٩٣٢٠ - حدثنا الحسن بن يحيى قال، أخبرنا عبد الرزاق قال، أخبرنا معمر، عن قتادة قال:"مطيعات".
+
+٩٣٢١ - حدثنا محمد بن الحسين قال، حدثنا أحمد بن مفضل قال، حدثنا أسباط، عن السدي:"القانتات"، المطيعات.
+
+٩٣٢٢ - حدثني المثنى قال، حدثنا حبان بن موسى قال، أخبرنا ابن المبارك قال: سمعت سفيان يقول في قوله:"قانتات"، قال: مطيعات لأزواجهن.
+
+وقد بينا معنى"القنوت" فيما مضى، وأنه الطاعة، ودللنا على صحة ذلك من الشواهد بما أغنى عن إعادته. [[انظر ما سلف ٢: ٥٣٨، ٥٣٩ / ٥: ٢٢٨--٢٣٧ / ٦: ٢٦٤، ٤٠١.]]
+
+* *
+
+وأما قوله:"حافظات للغيب"، فإنه يعني: حافظات لأنفسهن عند غيبة أزواجهن عنهن، في فروجهن وأموالهم، وللواجب عليهن من حق الله في ذلك وغيره، كما:-
+
+٩٣٢٣ - حدثنا بشر بن معاذ قال، حدثنا يزيد قال، حدثنا سعيد، عن قتادة:"حافظات للغيب"، يقول: حافظات لما استودعهن الله من حقه، وحافظات لغيب أزواجهن.
+
+٩٣٢٤ - حدثنا محمد بن الحسين قال، حدثنا أحمد بن مفضل قال، حدثنا أسباط، عن السدي:"حافظات للغيب بما حفظ الله"، يقول: تحفظ على زوجها مالَه وفرجَها حتى يرجع، كما أمرَها الله.
+
+٩٣٢٥ - حدثنا القاسم قال، حدثنا الحسين قال، حدثني حجاج، عن ابن جريج قال: قلت لعطاء ما قوله:"حافظات للغيب"، قال: حافظات للزوج.
+
+٩٣٢٦ - حدثني زكريا بن يحيى بن أبي زائدة قال، حدثنا حجاج قال، قال ابن جريج: سألت عطاء عن"حافظات للغيب"، قال: حافظات للأزواج.
+
+٩٣٢٧ - حدثني المثنى قال، حدثنا حبان بن موسى قال، أخبرنا ابن المبارك قال، سمعت سفيان يقول:"حافظات للغيب"، حافظات لأزواجهن، لما غاب من شأنهن.
+
+٩٣٢٨ - حدثني المثنى قال، حدثنا أبو صالح قال، حدثنا أبو معشر قال، حدثنا سعيد بن أبي سعيد المقبري، عن أبي هريرة قال: قال رسول الله ﷺ: خيرُ النساء امرأةٌ إذا نظرتَ إليها سرَّتك، وإذا أمرَتها أطاعتك، وإذا غبت عنها حفظتك في نفسها ومالك. قال: ثم قرأ رسول الله ﷺ:"الرجال قوامون على النساء" الآية. [[الأثر: ٩٣٢٨ - في المطبوعة والمخطوطة: "سعيد عن أبي سعيد المقبري"، وهو خطأ ظاهر، كما سيتبين لك من تخريجه؛ أخرجه أبو داود الطيالسي في مسنده: ٣٠٦ من حديث أبي معشر، عن سعيد بن أبي سعيد المقبري، وذكر ابن كثير في تفسيره ٢: ٤٣٦، أن ابن أبي حاتم"رواه عن يونس بن حبيب، عن أبي داود الطيالسي، عن محمد بن عبد الرحمن بن أبي ذئب، عن سعيد المقبري، به سواء". فإن يكن ذلك كذلك، فقد أخطأ ابن أبي حاتم في روايته عن أبي داود، فالثابت في مسنده أنه من حديثه عن أبي معشر، ولعله وهم، فإن الآثار التي قبله مباشرة، رواها أبو داود من طريق ابن أبي ذئب عن سعيد بن أبي سعيد المقبري.
+
+وهذا الأثر نسبه السيوطي في الدر المنثور ٢: ١٥١، لابن المنذر، وابن أبي حاتم، والحاكم، والبيهقي في سننه. والذي وجدته في المستدرك للحاكم ٢: ١٦١، من طريق ابن عجلان، عن سعيد بن أبي سعيد المقبري، عن أبي هريرة، بمعناه بغير هذا اللفظ، مختصرًا، وقال: "صحيح على شرط مسلم، ولم يخرجاه". ولم أعرف مكانه في سنن البيهقي.]]
+
+* *
+
+قال أبو جعفر: وهذا الخبر عن رسول الله ﷺ يدُلّ على صحة ما قلنا في تأويل ذلك، وأن معناه: صالحاتٌ في أديانهن، مطيعاتٌ لأزواجهن، حافظات لهم في أنفسهنّ وأموالهم.
+
+* *
+
+وأما قوله:"بما حفظ الله"، فإن القرأة اختلفت في قراءته.
+
+فقرأته عامة القرأة في جميع أمصار الإسلام: ﴿بِمَا حَفِظَ اللَّهُ﴾ ، برفع اسم"الله"، على معنى: بحفظ الله إياهن إذ صيَّرهن كذلك، كما:-
+
+٩٣٢٩ - حدثني زكريا بن يحيى بن أبي زائدة قال، حدثنا حجاج قال، قال ابن جريج سألت عطاء عن قوله:"بما حفظ الله"، قال يقول: حفظهن الله.
+
+٩٣٣٠ - حدثني المثنى قال، حدثنا حبان بن موسى قال، أخبرنا ابن المبارك قال: سمعت سفيان يقول في قوله:"بما حفظ الله"، قال: بحفظ الله إياها، أنه جعلها كذلك.
+
+* *
+
+وقرأ ذلك أبو جعفر يَزيد بن القَعْقاع المدني [["أبو جعفر: يزيد بن القعقاع المدني المخزومي" مولى عبد الله بن عياش بن أبي ربيعة المخزومي، أحد القراء العشرة، تابعي مشهور كبير القدر، أتوا به إلى أم سلمة أم المؤمنين، وهو صغير، فمسحت على رأسه ودعت له بالبركة، وصلى بابن عمر. كان إمام أهل المدينة في القراءة فسمي"القارئ" قال ابن معين: "كان ثقة قليل الحديث". طبقات القراء ٢: ٣٨٢-٣٨٤.]] ﴿بِمَا حَفِظَ اللَّهُ﴾ يعني: بحفظهنّ الله في طاعته وأداء حقه بما أمرهن من حفظ غَيب أزواجهن، كقول الرجل للرجل:"ما حَفِظتَ اللهَ في كذا وكذا"، بمعنى: ما راقبته ولا حِفْتَهُ. [[في المخطوطة: "راقبته ولا خفته"، وفي المطبوعة: "راقبته ولاحظته" وصواب قراءة المخطوطة ما أثبت، بزيادة"ما" قبل"راقبته"، وقوله: "ولا خفته" من الخوف.]]
+
+* *
+
+قال أبو جعفر: والصوابُ من القراءة في ذلك ما جاءت به قرأة المسلمين من القراءة مجيئًا يقطع عذرَ من بَلغه ويُثبّتُ عليهُ حجته، دون ما انفرد به أبو جعفر فشذّ عنهم. وتلك القراءة ترفع اسم"الله" تبارك وتعالى: ﴿بِمَا حَفِظَ اللَّهُ﴾ ، مع صحة ذلك في العربية وكلام العرب، وقُبح نصبه في العربية، لخروجه عن المعروف من منطق العرب.
+
+وذلك أن العربَ لا تحذف الفاعلَ مع المصادر، من أجل أنّ الفاعل إذا حذف معها لم يكن للفعل صاحبٌ معروف.
+
+* *
+
+وفي الكلام متروك استغني بدلالة الظاهر من الكلام عليه من ذكره، ومعناه: فالصالحات قانتات حافظات للغيب بما حفظ الله، فاحسِنوا إليهن وأصلحوا.
+
+* *
+
+وكذلك هو فيما ذكر في قراءة ابن مسعود.
+
+٩٣٣١ - حدثني المثنى قال، حدثنا إسحاق قال، حدثنا عبد الرحمن بن أبي حماد قال، حدثنا عيسى الأعمى، عن طلحة بن مصرف قال: في قراءة عبد الله: ﴿فالصالحات قانتات للغيب بما حفظ الله فأصلحوا إليهن واللاتي تخافون نشوزهن﴾ .
+
+٩٣٣٢ - حدثنا محمد بن الحسين قال، حدثنا أحمد بن مفضل. قال، حدثنا أسباط، عن السدي: ﴿فَالصَّالِحَاتُ قَانِتَاتٌ حَافِظَاتٌ لِلْغَيْبِ بِمَا حَفِظَ اللَّهُ﴾ ، فأحسنوا إليهنّ.
+
+٩٣٣٣ - حدثني علي بن داود قال، حدثنا عبد الله بن صالح قال، حدثني معاوية بن صالح، عن علي بن أبي طلحة، عن ابن عباس قوله:"فالصالحات قانتات حافظات للغيب بما حفظ الله"، فأصلِحوا إليهن.
+
+٩٣٣٤ - حدثني علي بن داود قال، حدثنا عبد الله بن صالح قال، حدثني معاوية، عن علي بن أبي طلحة، عن ابن عباس قوله:"فالصالحات قانتات حافظات للغيب بما حفظ الله"، يعني: إذا كن هكذا، فأصلحوا إليهنّ.
+
+* *
+
+القول في تأويل قوله: ﴿وَاللاتِي تَخَافُونَ نُشُوزَهُنَّ فَعِظُوهُنَّ﴾ [[لم يذكر في المخطوطة والمطبوعة: "فعظوهن"، مع أنه فسرها بعد، ولم يفردها عن هذا الموضع.]]
+
+اختلف أهلُ التأويل في معنى قوله:"واللاتي تخافونُ نشوزهن".
+
+فقال بعضهم: معناه: واللاتي تعلمون نشوزهن. ووجه صرف"الخوف"، في هذا الموضع، إلى"العلم"، في قول هؤلاء، نظيرُ صرف"الظن" إلى"العلم"، لتقارب معنييهما، إذ كان"الظن"، شكًّا، وكان"الخوفُ" مقرونًا برَجاء، وكانا جميعًا من فعل المرء بقلبه [[انظر تفسير"الخوف" فيما سلف ٣: ٥٥٠، ٥٥١.]] كما قال الشاعر: [[هو أبو محجن الثقفي.]]
+
+وَلا تَدْفِنَنَّي فِي الْفَلاةِ فَإِنَّني ... أَخَافُ إذَا مَا مِتُّّ أَنْ لا أَذُوقُهَا [[سلف البيت وتخريجه في ٣: ٥٥١، وأزيد هنا، معاني القرآن للفراء ١: ١٤٦، ٢٦٥، مع اختلاف يسير في الرواية، ونسيت هناك أن أرده إلى هذا الموضع، فألحق ذلك بمكانه هناك.]]
+
+معناه: فإنني أعلم، وكما قال الآخر: [[هو أبو الغول الطهوي.]]
+
+أَتَانِي كَلامٌ عَنْ نُصَيْبٍ يَقُوُلُهُ ... وَمَا خِفْتُ، يَا سَلامُ أَنَّكَ عَائِبي [[سلف تخريجه وشرحه فيما مضى ٣: ٥٥٠، وأزيد هنا معاني القرآن للفراء ١: ١٤٦، ٢٦٥. وكان في المطبوعة هنا"أنك عاتبي"، وهو خطأ فاسد، وهو في المخطوطة غير منقوط.]]
+
+بمعنى: وما ظننتُ.
+
+* *
+
+وقال جماع
+
+[TRUNCATED at 12000 chars — 47977 more. Consult the source directly before relying on anything near the cut.]
 
 ### al-Muyassar (Arabic)
 
-الرجال قوَّامون على توجيه النساء ورعايتهن، بما خصهم الله به من خصائص القِوامَة والتفضيل، وبما أعطوهن من المهور والنفقات. فالصالحات المستقيمات على شرع الله منهن، مطيعات لله تعالى ولأزواجهن، حافظات لكل ما غاب عن علم أزواجهن بما اؤتمنَّ عليه بحفظ الله وتوفيقه، واللاتي تخشون منهن ترفُّعهن عن طاعتكم، فانصحوهن بالكلمة الطيبة، فإن لم تثمر معهن الكلمة الطيبة، فاهجروهن في الفراش، ولا تقربوهن، فإن لم يؤثر فعل الهِجْران فيهن، فاضربوهن ضربًا لا ضرر فيه، فإن أطعنكم فاحذروا ظلمهن، فإن الله العليَّ الكبير و...
+الرجال قوّامون على توجيه النساء ورعايتهن، بما خصهم الله به من خصائص القِوامَة والتفضيل، وبما أعطَوْهن من المهور والنفقات. فالصالحات المستقيمات على شرع الله منهن، مطيعات لله تعالى ولأزواجهن، حافظات لكل ما غاب عن علم أزواجهن بما اؤتمنَّ عليه بحفظ الله وتوفيقه، واللاتي تخشون منهن ترفُّعهن عن طاعتكم، فانصحوهن بالكلمة الطيبة، فإن لم تثمر معهن الكلمة الطيبة، فاهجروهن في الفراش، ولا تقربوهن، فإن لم يؤثر فعل الهِجْران فيهن، فاضربوهن ضربًا لا ضرر فيه، فإن أطعنكم فاحذروا ظلمهن، فإن الله العليَّ الكبير وليُّهن، وهو منتقم ممَّن ظلمهنَّ وبغى عليهن.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿الرِّجال قَوّامُونَ﴾ مُسَلَّطُونَ ﴿عَلى النِّساء﴾ يُؤَدِّبُونَهُنَّ ويَأْخُذُونَ عَلى أيْدِيهنَّ ﴿بِما فَضَّلَ اللَّه بَعْضهمْ عَلى بَعْض﴾ أيْ بِتَفْضِيلِهِ لَهُمْ عَلَيْهِنَّ بِالعِلْمِ والعَقْل والوِلايَة وغَيْر ذَلِكَ ﴿وبِما أنْفَقُوا﴾ عَلَيْهِنَّ ﴿مِن أمْوالهمْ فالصّالِحات﴾ مِنهُنَّ ﴿قانِتات﴾ مُطِيعات لِأَزْواجِهِنَّ ﴿حافِظات لِلْغَيْبِ﴾ أيْ لِفُرُوجِهِنَّ وغَيْرها فِي غَيْبَة أزْواجهنَّ ﴿بِما حَفِظَ﴾ لَهُنَّ ﴿اللَّه﴾ حَيْثُ أوْصى عَلَيْهِنَّ الأَزْواج ﴿واللّاتِي تَخافُونَ نُشُوزهنَّ﴾ عِصْيانهنَّ لَكُمْ بِأَنْ ظَهَرَتْ أمارَته ﴿فَعِظُوهُنَّ﴾ فَخَوِّفُوهُنَّ اللَّه ﴿واهْجُرُوهُنَّ فِي المَضاجِع﴾ اعْتَزِلُوا إلى فِراش آخَر إنْ أظْهَرْنَ النُّشُوز ﴿واضْرِبُوهُنَّ﴾ ضَرْبًا غَيْر مُبْرِّح إنْ لَمْ يَرْجِعْنَ بِالهِجْرانِ ﴿فَإنْ أطَعْنَكُمْ﴾ فِيما يُراد مِنهُنَّ ﴿فَلا تَبْغُوا﴾ تَطْلُبُوا ﴿عَلَيْهِنَّ سَبِيلًا﴾ طَرِيقًا إلى ضَرْبهنَّ ظُلْمًا ﴿إنّ اللَّه كانَ عَلِيًّا كَبِيرًا﴾ فاحْذَرُوهُ أنْ يُعاقِبكُمْ إنْ ظَلَمْتُمُوهُنَّ
 
 ---
 
@@ -33,14 +308,127 @@ Tafsir sources: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), 
 
 ### Ibn Kathir (English)
 
+Verily, Allah commands that you should render back the trusts to those, to whom they are due; and that when you judge between men, you judge with justice. Verily, how excellent is the teaching which He (Allah) gives you! Truly, Allah is Ever All-Hearer, All-Seer (58)
+
 The Command to Return the Trusts to Whomever They Are Due
+
 Allah commands that the trusts be returned to their rightful owners. Al-Hasan narrated that Samurah said that the Messenger of Allah ﷺ said,
-«أَدِّ الْأَمَانَةَ إِلى مَنِ ائْتَمَنَكَ، وَلَا تَخُنْ مَنْ خَانَك»
-(Return the trust to those who entrusted you, and do not betray those who betrayed you.) Imam Ahmad and the collectors of Sunan recorded this Hadith. This command refers to all things that one is expected to look after, such as A...
+
+أَدِّ الْأَمَانَةَ إِلى مَنِ ائْتَمَنَكَ، وَلَا تَخُنْ مَنْ خَانَكَ
+
+(Return the trust to those who entrusted you, and do not betray those who betrayed you.)
+
+Imam Ahmad and the collectors of Sunan recorded this Hadith. This command refers to all things that one is expected to look after, such as Allah's rights on His servants: praying, Zakah, fasting, penalties for sins, vows and so forth. The command also includes the rights of the servants on each other, such as what they entrust each other with, including the cases that are not recorded or documented. Allah commands that all types of trusts be fulfillled. Those who do not implement this command in this life, it will be extracted from them on the Day of Resurrection. It is recorded in the Sahih that the Messenger of Allah ﷺ said,
+
+لَتُؤَدَّنَّ الْحُقُوقُ إِلى أَهْلِهَا حَتَّى يُقْتَصَّ لِلشَّاةِ الْجَمَّاءِ مِنَ الْقَرْنَاءِ
+
+(The rights will be rendered back to those to whom they are due, and even the sheep that does not have horns will take revenge from the horned sheep.)
+
+Ibn Jarir recorded that Ibn Jurayj said about this Ayah, "It was revealed concerning 'Uthman bin Talhah from whom the Messenger of Allah ﷺ took the key of the Ka'bah and entered it on the Day of the victory of Makkah. When the Prophet ﷺ went out, he was reciting this Ayah,
+
+إِنَّ اللَّهَ يَأْمُرُكُمْ أَن تُؤَدُّوا الْأَمَانَاتِ إِلَىٰ أَهْلِهَا
+
+(Verily, Allah commands that you should render back the trusts to those, to whom they are due). He then called 'Uthman and gave the key back to him."
+
+Ibn Jarir also narrated that 'Umar bin Al-Khattab said, "When the Messenger of Allah ﷺ went out of the Ka'bah, he was reciting this Ayah,
+
+إِنَّ اللَّهَ يَأْمُرُكُمْ أَن تُؤَدُّوا الْأَمَانَاتِ إِلَىٰ أَهْلِهَا
+
+(Verily, Allah commands that you should render back the trusts to those, to whom they are due).
+
+May I sacrifice my father and mother for him, I never heard him recite this Ayah before that." It is popular that this is the reason behind revealing the Ayah (4:58). Yet, the application of the Ayah is general, and this is why Ibn 'Abbas and Muhammad bin Al-Hanafiyyah said, "This Ayah is for the righteous and wicked," meaning it is a command that encompasses everyone.
+
+The Order to Be Just
+
+Allah said,
+
+وَإِذَا حَكَمْتُم بَيْنَ النَّاسِ أَن تَحْكُمُوا بِالْعَدْلِ
+
+(and that when you judge between men, you judge with justice.) commanding justice when judging between people. Muhammad bin Ka'b, Zayd bin Aslam and Shahr bin Hawshab said; "This Ayah was revealed about those in authority", meaning those who judge between people. A Hadith states,
+
+إِنَّ اللهَ مَعَ الْحَاكِمِ مَا لَمْ يَجُرْ، فَإِذَا جَارَ وَكَلَهُ اللهُ إِلى نَفْسِهِ
+
+(Allah is with the judge as long as he does not commit injustice, for when he does, Allah will make him reliant on himself.) A statement goes, "One day of justice equals forty years of worship." Allah said,
+
+إِنَّ اللَّهَ نِعِمَّا يَعِظُكُم بِهِ
+
+(Verily, how excellent is the teaching which He (Allah) gives you!) meaning, His commands to return the trusts to their owners, to judge between people with justice, and all of His complete, perfect and great commandments and laws. Allah's statement,
+
+إِنَّ اللَّهَ كَانَ سَمِيعًا بَصِيرًا
+
+(Truly, Allah is Ever All-Hearer, All-Seer.) means, He hears your statements and knows your actions.
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله :  إِنَّ اللَّهَ يَأْمُرُكُمْ أَنْ تُؤَدُّوا الأَمَانَاتِ إِلَى أَهْلِهَا وَإِذَا حَكَمْتُمْ بَيْنَ النَّاسِ أَنْ تَحْكُمُوا بِالْعَدْلِ* * *قال أبو جعفر: اختلف أهل التأويل فيمن عُني بهذه الآية.فقال بعضهم: عني بها ولاة أمور المسلمين.*ذكر من قال ذلك:9839 - حدثني موسى بن عبد الرحمن المسروقي قال، حدثنا أبو أسامة، عن أبي مكين، عن زيد بن أسلم قال: نـزلت هذه الآية: " إن الله يأمركم أن تؤدوا الأمانات إلى أهلها "، في ولاة الأمر. (37)9840 - حدثنا أبو كريب قال، حدثنا ابن إدريس قال، ...
+القول في تأويل قوله: ﴿إِنَّ اللَّهَ يَأْمُرُكُمْ أَنْ تُؤَدُّوا الأمَانَاتِ إِلَى أَهْلِهَا وَإِذَا حَكَمْتُمْ بَيْنَ النَّاسِ أَنْ تَحْكُمُوا بِالْعَدْلِ﴾
+
+* *
+
+قال أبو جعفر: اختلف أهل التأويل فيمن عُني بهذه الآية.
+
+فقال بعضهم: عني بها ولاة أمور المسلمين.
+
+ذكر من قال ذلك:
+
+٩٨٣٩ - حدثني موسى بن عبد الرحمن المسروقي قال، حدثنا أبو أسامة، عن أبي مكين، عن زيد بن أسلم قال: نزلت هذه الآية:"إن الله يأمركم أن تؤدوا الأمانات إلى أهلها"، في ولاة الأمر. [[الأثر: ٩٨٣٩ -"أبو أسامة" هو: حماد بن أسامة بن زيد القرشي، مضى برقم: ٥٢٦٥. و"أبو مكين" هو: نوح بن ربيعة، مضى برقم: ٩٧٤٢.]]
+
+٩٨٤٠ - حدثنا أبو كريب قال، حدثنا ابن إدريس قال، حدثنا ليث، عن شهر قال: نزلت في الأمراء خاصة"إن الله يأمركم أن تؤدوا الأمانات إلى أهلها وإذا حكمتم بين الناس أن تحكموا بالعدل".
+
+٩٨٤١ - حدثنا أبو كريب قال، حدثنا ابن إدريس قال، حدثنا إسماعيل، عن مصعب بن سعد قال، قال علي رضي الله عنه كلماتٍ أصاب فيهن:"حقٌّ على الإمام أن يحكم بما أنزل الله، وأن يؤدِّيَ الأمانة، وإذا فعل ذلك، فحقّ على الناس أن يسمعوا، وأن يُطيعوا، وأن يجيبوا إذا دُعوا". [[الأثر: ٩٨٤١ -"مصعب بن سعد بن أبي وقاص الزهري". روى عن أبيه، وعلي، وطلحة، وعكرمة ابن أبي جهل، وغيرهم، تابعي ثقة، قال ابن سعد: "كان ثقة كثير الحديث". مترجم في التهذيب.]]
+
+٩٨٤٢ - حدثنا أبو كريب قال، حدثنا جابر بن نوح قال، حدثنا إسماعيل عن مصعب بن سعد، عن علي بنحوه.
+
+٩٨٤٣ - حدثني محمد بن عبيد المحاربي قال، حدثنا موسى بن عمير، عن مكحول في قول الله:"وأولي الأمر منكم"، قال: هم أهلُ الآية التي قبلها:"إن الله يأمرُكم أن تؤدّوا الأمانات إلى أهلها"، إلى آخر الآية.
+
+٩٨٤٤ - حدثني يونس قال، أخبرنا ابن وهب قال، أخبرنا ابن زيد قال، قال أبي: هم الوُلاة، أمرهم أن يؤدّوا الأمانات إلى أهلها.
+
+وقال آخرون: أمر السلطان بذلك: أن يعِظوا النساء. [[في المطبوعة: "أن يعطوا الناس"، غير ما في المخطوطة، وهو الذي أثبته، ولكنه كان في المخطوطة غير منقوط، فلم يحسن قراءته، فكتب ما لا معنى له. والمقصود بذلك أن على الأمراء أن يعظوا النساء في النشوز وغيره، حتى يردوهن إلى أزواجهن. وهو القول المنسوب إلى ابن عباس في كتب التفسير.]]
+
+ذكر من قال ذلك:
+
+٩٨٤٥ - حدثني المثنى قال، حدثنا عبد الله بن صالح قال، حدثني معاوية، عن علي بن أبي طلحة، عن ابن عباس قوله:"إن الله يأمرُكم أن تؤدوا الأمانات إلى أهلها"، قال: يعني السلطان، يعظون النساء. [[في المطبوعة: "يعظون الناس"، وهو خطأ، وانظر التعليق السالف.]]
+
+* *
+
+وقال آخرون: الذي خوطب بذلك النبيّ ﷺ في مفتاح الكعبة، أمر برَدّها على عثمان بن طلحة.
+
+ذكر من قال ذلك:
+
+٩٨٤٦ - حدثنا القاسم قال، حدثنا الحسين قال، حدثني حجاج، عن ابن جريج قوله:"إن الله يأمركم أن تؤدوا الأمانات إلى أهلها"، قال: نزلت في عُثمان بن طلحة بن أبي طلحة، قَبض منه النبي ﷺ مفاتيح الكعبة، ودخل به البيت يوم الفتح، [[في المطبوعة: "مفاتيح الكعبة، ودخل بها البيت"، وكان في المخطوطة: "مفاتيح الكعبة ودخل به البيت"، ورد اللفظ مفردًا"المفتاح" في هذا الأثر والذي يليه، وكذلك نقله ابن كثير في تفسيره ٢: ٤٩٢"مفتاح الكعبة" بالإفراد، فصححت نص المخطوطة، كما في ابن كثير.]] فخرج وهو يتلو هذه الآية، فدعا عثمان فدفع إليه المفتاح. قال: وقال عمر بن الخطاب لما خرج رسول الله ﷺ وهو يتلو هذه الآية: فداهُ أبي وأمي! [[في المطبوعة: "فداؤه أبي وأمي"، وأثبت ما في المخطوطة وابن كثير.]] ما سمعته يَتلوها قبل ذلك!
+
+٩٨٤٧ - حدثنا القاسم قال، حدثنا الحسين قال، حدثنا الزنجي بن خالد، عن الزهري قال: دفعه إليه وقال: أعينوه. [[الأثر: ٩٨٤٧ -"الزنجي بن خالد" هو: مسلم بن خالد بن فروة، أبو خالد الزنجي، الفقيه المكي. وإنما سموه"الزنجي" قالوا: لأنه كان شديد السواد. وقالوا: لأنه كان أشقر كالبصلة. وقالوا: كان أبيض مشربًا بحمرة، وإنما سمى"الزنجي" لمحبته التمر. قالت له جاريته: "ما أنت إلا زنجي"، لأكل التمر، فبقي عليه هذا اللقب.
+
+ومن الزنجي تعلم الشافعي الفقه قبل أن يلقى مالكًا. ولكنهم تكلموا في حديثه، فقال البخاري: "منكر الحديث، يكتب حديثه ولا يحتج به". وذكروا عللا في ضعف حديثه وهو صدوق. مترجم في التهذيب.]]
+
+* *
+
+قال أبو جعفر: وأولى هذه الأقوال بالصواب في ذلك عندي، قولُ من قال: هو خطاب من الله ولاةَ أمور المسلمين بأداء الأمانة إلى من وَلُوا أمره في فيئهم وحقوقهم، وما ائتمنوا عليه من أمورهم، بالعدل بينهم في القضية، والقَسْم بينهم بالسوية. يدل على ذلك ما وَعظ به الرعية [[في المطبوعة والمخطوطة: "فدل على ذلك ما وعظ به الرعية"، وهو كلام فاسد جدًا، أخل بحجة الطبري، والصواب ما أثبت.]] في: ﴿أَطِيعُوا اللَّهَ وَأَطِيعُوا الرَّسُولَ وَأُولِي الأمْرِ مِنْكُمْ﴾ ، فأمرهم بطاعتهم، وأوصى الرّاعي بالرعية، وأوصى الرعية بالطاعة، كما:-
+
+٩٨٤٨ - حدثني يونس قال، أخبرنا ابن وهب قال، قال ابن زيد في قوله: ﴿يَا أَيُّهَا الَّذِينَ آمَنُوا أَطِيعُوا اللَّهَ وَأَطِيعُوا الرَّسُولَ وَأُولِي الأمْرِ مِنْكُمْ﴾ قال: قال أبي: هم السلاطين. وقرأ ابن زيد: ﴿تُؤْتِي الْمُلْكَ مَنْ تَشَاءُ وَتَنْزِعُ الْمُلْكَ مِمَّنْ تَشَاءُ وَتُعِزُّ مَنْ تَشَاءُ﴾ [سورة آل عمران: ٢٦] ، وإنما نقول: هم العلماء الذي يُطيفون على السلطان، [[حذف ناشر المطبوعة هذه الجملة إذ لم يفهمها، وجعل سياق الكلام هكذا: " ... ممن تشاء، ألا ترى أنه أمر فقال: إن الله يأمركم"، وهذا فساد شديد، وهجر للأمانة، وعبث بكلام أهل التاويل. وقائل هذا الكلام هو ابن زيد، بعد أن ذكر تأويل أبيه زيد بن أسلم.
+
+وقوله: "يطيفون على السلطان" هم الذين يقاربونه ويدنيهم في مجالسه ويستشيرهم. من قوله: "طاف بالشيء وطاف عليه= وأطاف به وأطاف عليه": دار حوله.]] ألا ترى أنه أمرهم فبدأ بهم، بالولاة فقال [[في المطبوعة: "أنه أمر فقال ... " كما ذكرت في التعليق السالف. وسياق عبارته أنه أمر العلماء بالولاة - فبدأ بهم، أي: بالعلماء. والعلماء هم الذين يفتون الولاة في قسمة الفيء والصدقات، لأنهم هم أهل العلم بها. فهذا خطاب للعلماء الذين ائتمنوا على الدين. ثم قال للولاة: "وإذا حكمتم بين الناس"، كما ترى في سياق الأثر.]] "إن الله يأمركم أن تؤدوا الأمانات إلى أهلها"؟ و"الأمانات"، هي الفيء الذي استأمنهم على جمعه وقَسْمه، والصدقات التي استأمنهم على جمعها وقسمها ="وإذا حكمتم بين الناس أن تحكموا بالعدل" الآية كلها. فأمر بهذا الولاة. ثم أقبل علينا نحن فقال: ﴿يَا أَيُّهَا الَّذِينَ آمَنُوا أَطِيعُوا اللَّهَ وَأَطِيعُوا الرَّسُولَ وَأُولِي الأمْرِ مِنْكُمْ﴾ .
+
+* *
+
+وأما الذي قال ابن جريج من أنّ هذه الآية نزلت في عثمان بن طلحة، فإنه جائز أن تكون نزلت فيه، وأريد به كل مؤتمن على أمانة، فدخلَ فيه ولاة أمور المسلمين، وكلّ مؤتمن على أمانة في دين أو دنيا. ولذلك قال من قال: عُني به قضاءُ الدين، وردّ حقوق الناس، كالذي:-
+
+٩٨٤٩ - حدثني محمد بن سعد قال، حدثني أبي قال، حدثني عمي قال، حدثني أبي، عن أبيه، عن ابن عباس قوله:"إنّ الله يأمركم أن تؤدوا الأمانات إلى أهلها"، فإنه لم يرخص لموسِر ولا معسر أن يُمسكها.
+
+٩٨٥٠ - حدثنا بشر بن معاذ قال، حدثنا يزيد قال، حدثنا سعيد، عن قتادة قوله:"إن الله يأمركم أن تؤدوا الأمانات إلى أهلها"، عن الحسن: أن نبيّ الله ﷺ كان يقول: أدِّ الأمانة إلى من ائتمنك، ولا تخن من خانك. [[الأثر: ٩٨٥٠ - قال ابن كثير في تفسيره ٢: ٤٩٠"وفي حديث الحسن، عن سمرة أن رسول الله ﷺ قال: "أد الأمانة إلى من ائتمنك، ولا تخن من خانك". رواه الإمام أحمد، وأهل السنن".]]
+
+* *
+
+قال أبو جعفر: فتأويل الآية إذًا = إذ كان الأمر على ما وصفنا =: إن الله يأمركم، يا معشر ولاة أمور المسلمين، أن تؤدوا ما ائتمنتكم عليه رعيّتكم من فَيْئهم وحقوقهم وأموالهم وصدقاتهم إليهم، على ما أمركم الله بأداء كل شيء من ذلك إلى من هو له، بعد أن تصير في أيديكم، لا تظلموها أهلها، ولا تستأثروا بشيء منها، ولا تضعوا شيئًا منها في غير موضعه، ولا تأخذوها إلا ممن أذن الله لكم بأخذها منه قبل أن تصيرَ في أيديكم = ويأمركم إذا حكمتم بين رعيتكم أن تحكموا بينهم بالعدل والإنصاف، وذلك حكمُ الله الذي أنزله في كتابه، وبيّنه على لسان رسوله، لا تعدُوا ذلك فتجورُوا عليهم.
+
+* *
+
+القول في تأويل قوله: ﴿إِنَّ اللَّهَ نِعِمَّا يَعِظُكُمْ بِهِ إِنَّ اللَّهَ كَانَ سَمِيعًا بَصِيرًا (٥٨) ﴾
+
+قال أبو جعفر: يعني بذلك جل ثناؤه: يا معشر ولاة أمور المسلمين، إن الله نعم الشيء يَعظكم به، ونعمت العظة يعظكم بها في أمره إياكم أن تؤدوا الأمانات إلى أهلها، وأن تحكموا بين الناس بالعدل [[انظر تفسير"نعما" فيما سلف ٥: ٥٨٢.]]
+
+* *
+
+="إن الله كان سميعًا"، يقول: إن الله لم يزل سميعًا بما تقولون وتنطقون، وهو سميع لذلك منكم إذا حكمتم بين الناس ولما تُحاورونهم به [[في المطبوعة: "ولم تجاوزوهم به"، ولا معنى لها البتة، والصواب ما في المخطوطة، ولكنه لم يفهم ما أراد، فحرفه وغيره.]] "بصيرًا" بما تفعلون فيما ائتمنتم عليه من حقوق رعيتكم وأموالهم، [[في المطبوعة: "فيما ائتمنتكم عليه"، غير ما في المخطوطة لغير شيء.]] وما تقضون به بينهم من أحكامكم: بعدل تحكمون أو جَوْر، لا يخفى عليه شيء من ذلك، حافظٌ ذلك كلَّه، حتى يجازي محسنكم بإحسانه، ومسيئكم بإساءته، أو يعفو بفضله.
 
 ### al-Muyassar (Arabic)
 
@@ -48,7 +436,7 @@ Allah commands that the trusts be returned to their rightful owners. Al-Hasan na
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿إنّ اللَّه يَأْمُركُمْ أنْ تُؤَدُّوا الأَمانات﴾ أيْ ما اُؤْتُمِنَ عَلَيْهِ مِن الحُقُوق ﴿إلى أهْلها﴾ نَزَلَتْ لَمّا أخَذَ عَلِيّ رَضِيَ اللَّه عَنْهُ مِفْتاح الكَعْبَة مِن عُثْمان بْن طَلْحَة الحجبي سادِنها قَسْرًا لَمّا قَدِمَ النَّبِيّ ﷺ مَكَّة عام الفَتْح ومَنَعَهُ وقالَ لَوْ عَلِمْت أنَّهُ رَسُول اللَّه لَمْ أمْنَعهُ فَأَمَرَ رَسُول اللَّه ﷺ بِرَدِّهِ إلَيْهِ وقالَ هاكَ خالِدَة تالِدَة فَعَجِبَ مِن ذَلِكَ فَقَرَأَ لَهُ عَلِيّ الآيَة فَأَسْلَمَ وأَعْطاهُ عِنْد مَوْته لِأَخِيهِ شَيْبَة فَبَقِيَ فِي ولَده والآيَة وإنْ ورَدَتْ عَلى سَبَب خاصّ فَعُمُومها مُعْتَبَر بِقَرِينَةِ الجَمْع ﴿وإذا حَكَمْتُمْ بَيْن النّاس﴾ يَأْمُركُمْ ﴿أنْ تَحْكُمُوا بِالعَدْلِ إنّ اللَّه نِعِمّا﴾ فِيهِ إدْغام مِيم نِعْمَ فِي ما النَّكِرَة المَوْصُوفَة أيْ نِعْمَ شَيْئًا ﴿يَعِظكُمْ بِهِ﴾ تَأْدِيَة الأَمانَة والحُكْم بِالعَدْلِ ﴿إنّ اللَّه كانَ سَمِيعًا﴾ لِما يُقال ﴿بَصِيرًا﴾ بِما يُفْعَل
 
 ---
 
@@ -56,20 +444,173 @@ Allah commands that the trusts be returned to their rightful owners. Al-Hasan na
 
 ### Ibn Kathir (English)
 
+Have you not seen those who were told to hold back their hands (from fighting) and perform Salah and give Zakah, but when the fighting was ordained for them, behold! a section of them fear men as they fear Allah or even more. They say: "Our Lord! Why have You ordained for us fighting? Would that You granted us respite for a short period?" Say: "Short is the enjoyment of this world. The Hereafter is (far) better for him who fears Allah, and you shall not be dealt with unjustly even equal to the 'Fatīl' (77)"Wheresoever you may be, death will overtake you even if you are in fortresses built up strong and high!" And if some good reaches them, they say, "This is from Allah," but if some evil befalls them, they say, "This is from you." Say: "All things are from Allah," so what is wrong with these people that they fail to understand any word (78)Whatever of good reaches you, is from Allah, but whatever of evil befalls you, is from yourself. And We have sent you as a Messenger to mankind, and Allah is sufficient as a Witness (79)
+
 The Wish that the Order for Jihad be Delayed
-In the beginning of Islam, Muslims in Makkah were commanded to perform the prayer and pay some charity, so as to comfort the poor among them. They were also commanded to be forgiving and forbearing with the idolators and to observe patience with them at the time. However, they were eager and anticipating the time when they would be allowed to fight, so that they could punish their enemies. The situation at that time did not permit armed conflict fo...
+
+In the beginning of Islam, Muslims in Makkah were commanded to perform the prayer and pay some charity, so as to comfort the poor among them. They were also commanded to be forgiving and forbearing with the idolators and to observe patience with them at the time. However, they were eager and anticipating the time when they would be allowed to fight, so that they could punish their enemies. The situation at that time did not permit armed conflict for many reasons. For instance, Muslims were few at the time, compared to their numerous enemies. The Muslims' city was a sacred one and the most honored area on the earth, and this is why the command to fight was not revealed in Makkah. Later on when the Muslims controlled a town of their own, Al-Madinah, and had strength, power and support, Jihad was then legislated. Yet, when the command to fight was revealed, just as Muslims wished, some of them became weary and were very fearful of facing the idolators in battle.
+
+وَقَالُوا رَبَّنَا لِمَ كَتَبْتَ عَلَيْنَا الْقِتَالَ لَوْلَا أَخَّرْتَنَا إِلَىٰ أَجَلٍ قَرِيبٍ
+
+(They say: "Our Lord! Why have You ordained for us fighting? Would that You had granted us respite for a short period?") meaning, we wish that Jihad was delayed until a later time, because it means bloodshed, orphans and widows. In a similar Ayah, Allah said,
+
+وَيَقُولُ الَّذِينَ آمَنُوا لَوْلَا نُزِّلَتْ سُورَةٌ فَإِذَا أُنزِلَتْ سُورَةٌ مُّحْكَمَةٌ وَذُكِرَ فِيهَا الْقِتَالُ
+
+(Those who believe say: "Why is not a Surah sent down (for us)? But when a decisive is sent down, and fighting is mentioned). [47:20]
+
+Ibn Abi Hatim recorded that Ibn 'Abbas said that 'Abdur-Rahman bin 'Awf and several of his companions came to the Prophet ﷺ while in Makkah and said, "O Allah's Prophet! We were mighty when we were pagans, but when we embraced the faith, we became weak." The Prophet ﷺ said,
+
+إِنِّي أُمِرْتُ بِالْعَفْوِ فَلَا تُقَاتِلُوا الْقَوْمَ
+
+(I was commanded to pardon the people, so do not fight them.) When Allah transferred the Prophet ﷺ to Al-Madinah, He commanded him to fight (the idolators), but they (some Muslims) held back. So, Allah revealed the Ayah;
+
+أَلَمْ تَرَ إِلَى الَّذِينَ قِيلَ لَهُمْ كُفُّوا أَيْدِيَكُمْ
+
+(Have you not seen those who were told to hold back their hands) This Hadith was collected by An-Nasa'i and Al-Hakim. Allah's statement,
+
+قُلْ مَتَاعُ الدُّنْيَا قَلِيلٌ وَالْآخِرَةُ خَيْرٌ لِّمَنِ اتَّقَىٰ
+
+(Say: "Short is the enjoyment of this world. The Hereafter is (far) better for him who fears Allah,) means, the destination of the one who with Taqwa is better for him than this life.
+
+وَلَا تُظْلَمُونَ فَتِيلًا
+
+(and you shall not be dealt with unjustly even equal to the 'Fatīl'.) for your good deeds. Rather, you will earn your full rewards for them. This promise directs the focus of believers away from this life and makes them eager for the Hereafter, all the while encouraging them to fight in Jihad.
+
+There is No Escaping Death
+
+Allah said,
+
+أَيْنَمَا تَكُونُوا يُدْرِككُّمُ الْمَوْتُ وَلَوْ كُنتُمْ فِي بُرُوجٍ مُّشَيَّدَةٍ
+
+(Wheresoever you may be, death will overtake you even if you are in fortresses built up strong and high!) meaning, you shall certainly die and none of you shall ever escape death. Allah said,
+
+كُلُّ مَنْ عَلَيْهَا فَانٍ
+
+(Whatsooever is on it (the earth) will perish), [55:26]
+
+كُلُّ نَفْسٍ ذَائِقَةُ الْمَوْتِ
+
+(Everyone shall taste death), and,
+
+وَمَا جَعَلْنَا لِبَشَرٍ مِّن قَبْلِكَ الْخُلْدَ
+
+(And We granted not to any human being immortality before you).
+
+Therefore, every soul shall taste death and nothing can save any person from it, whether he performed Jihad or not. Everyone has an appointed time, and a limited term of life.
+
+In the illness that preceded his death, Khalid bin Al-Walid said, while in his bed, "I participated in so and so number of battles, and every part of my body sustained an injury due to a stab or a shot. Yet here I am, I die in my bed! Let not the eyes of the cowards ever taste sleep." Allah's statement,
+
+وَلَوْ كُنتُمْ فِي بُرُوجٍ مُّشَيَّدَةٍ
+
+(even if you are in fortresses built up strong and high!) means, entrenched, fortified, high and towering. No caution or fortification can ever avert death.
+
+The Hypocrites Sense a Bad Omen Because of the Prophet (ﷺ)!
+
+Allah said,
+
+وَإِن تُصِبْهُمْ حَسَنَةٌ
+
+(And if some good reaches them) meaning, fertile years and provision of fruits, produce, children, etc., as said by Ibn 'Abbas, Abu Al-'Aliyah and As-Suddi.
+
+يَقُولُوا هَٰذِهِ مِنْ عِندِ اللَّهِ وَإِن تُصِبْهُمْ سَيِّئَةٌ
+
+(they say, "This is from Allah," but if some evil befalls them) drought, famine, shortages of fruits and produce, death that strikes their children or animals, and so forth, as Abu Al-'Aliyah and As-Suddi stated.
+
+يَقُولُوا هَٰذِهِ مِنْ عِندِكَ
+
+(they say, "This is from you,") meaning, because of you and because we followed you and embraced your religion. Allah said about the people of Fir'awn,
+
+فَإِذَا جَاءَتْهُمُ الْحَسَنَةُ قَالُوا لَنَا هَٰذِهِ ۖ وَإِن تُصِبْهُمْ سَيِّئَةٌ يَطَّيَّرُوا بِمُوسَىٰ وَمَن مَّعَهُ
+
+(But whenever good came to them, they said: "Ours is this." And if evil afflicted them, they ascribed it to evil omens connected with Musa and those with him.)[7:131] Allah said,
+
+وَمِنَ النَّاسِ مَن يَعْبُدُ اللَّهَ عَلَىٰ حَرْفٍ
+
+(And among mankind is he who worships Allah as it were upon the edge (i. e. in doubt)). [22:11]
+
+The same is the statement uttered by the hypocrites, who embraced Islam outwardly, but disliked it inwardly. This is why when a calamity befell them, they attributed it to following the Prophet ﷺ. Consequently, Allah revealed,
+
+قُلْ كُلٌّ مِّنْ عِندِ اللَّهِ
+
+(Say: "All things are from Allah")
+
+Allah's statement that all things are from Him means, everything occurs by the decision and decree of Allah, and His decision shall come to pass for both the righteous and the wicked, the faithful and the disbelievers. Allah then said while addressing His Messenger ﷺ, but refering to mankind in general,
+
+مَّا أَصَابَكَ مِنْ حَسَنَةٍ فَمِنَ اللَّهِ
+
+(Whatever of good reaches you, is from Allah,) meaning, of Allah's bounty, favor, kindness and mercy.
+
+وَمَا أَصَابَكَ مِن سَيِّئَةٍ فَمِن نَّفْسِكَ
+
+(But whatever of evil befalls you, is from yourself.), meaning because of you and due to your actions. Similarly, Allah said,
+
+وَمَا أَصَابَكُم مِّن مُّصِيبَةٍ فَبِمَا كَسَبَتْ أَيْدِيكُمْ وَيَعْفُو عَن كَثِيرٍ
+
+(And whatever of misfortune befalls you, it is because of what your hands have earned. And He pardons much.) As-Suddi, Al-Hasan Al-Basri, Ibn Jurayj and Ibn Zayd said that,
+
+فَمِن نَّفْسِكَ
+
+(from yourself) means, because of your errors. Qatadah said that,
+
+فَمِن نَّفْسِكَ
+
+(From yourself) means, as punishment for you, O son of Adam, because of your sins. Allah said,
+
+وَأَرْسَلْنَاكَ لِلنَّاسِ رَسُولًا
+
+(And We have sent you as a Messenger to mankind,) so that you convey to them Allah's commandments, what He likes and is pleased with, and what He dislikes and refuses.
+
+وَكَفَىٰ بِاللَّهِ شَهِيدًا
+
+(and Allah is sufficient as a Witness.) that He has sent you. He is also Witness over you and them, having full knowledge in what you convey to them and the disbelief and rebellion with which they respond to the truth.
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله :  أَيْنَمَا تَكُونُوا يُدْرِكْكُمُ الْمَوْتُ وَلَوْ كُنْتُمْ فِي بُرُوجٍ مُشَيَّدَةٍقال أبو جعفر: يعني بذلك جل ثناؤه: = حيثما تكونوا يَنَلكم الموت فتموتوا =" ولو كنتم في بروج مشيَّدة "، يقول: لا تجزعوا من الموت، ولا تهربوا من القتال، وتضعفوا عن لقاء عدوكم، حذرًا على أنفسكم من القتل والموت، فإن الموت &; 8-552 &; بإزائكم أين كنتم، وواصلٌ إلى أنفسكم حيث كنتم، ولو تحصَّنتم منه بالحصون المنيعة.* * *واختلف أهل التأويل في معنى قوله: " ولو كنتم في بروج مشيدة ".فقال بعضهم: يعنى به...
+القول في تأويل قوله: ﴿وَإِنْ تُصِبْهُمْ حَسَنَةٌ يَقُولُوا هَذِهِ مِنْ عِنْدِ اللَّهِ وَإِنْ تُصِبْهُمْ سَيِّئَةٌ يَقُولُوا هَذِهِ مِنْ عِنْدِكَ﴾
+
+قل أبو جعفر: يعني بقوله جل ثناؤه:"وإن تصبهم حسنة يقولوا هذه من عند الله"، وإن ينلهم رخاء وظفر وفتح ويصيبوا غنيمة [[انظر تفسير"الإصابة" فيما سلف: ٥١٤، ٥٣٨
+
+وانظر تفسير"الحسنة" فيما سلف ٤: ٢٠٣-٢٠٦.]] ="يقولوا هذه من عند الله"، يعني: من قبل الله ومن تقديره [[انظر تفسير"عند" فيما سلف: ٢: ٥٠٠ / ٧: ٤٩٠، ٤٩٥.]] ="وإن تصبهم سيئة"، يقول: وإن تنلهم شدة من عيش وهزيمة من عدو وجراح وألم، [[انظر تفسير"سيئة" فيما سلف: ٢: ٢٨١، ٢٨٢، / ٧: ٤٨٢، ٤٩٠ / ٨: ٢٥٤.]] = يقولوا لك يا محمد: ="هذه من عندك"، بخطئك التدبير.
+
+وإنما هذا خبر من الله تعالى ذكره عن الذين قال فيهم لنبيه: ﴿أَلَمْ تَرَ إِلَى الَّذِينَ قِيلَ لَهُمْ كُفُّوا أَيْدِيَكُمْ﴾ .
+
+وبنحو ما قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+٩٩٦٢ - حدثني المثنى قال، حدثنا إسحاق قال، حدثنا عبد الرحمن بن سعد وابن أبي جعفر قالا حدثنا أبو جعفر، عن الربيع، عن أبي العالية في قوله: "وإن تصبهم حسنة يقولوا هذه من عند الله وإن تصبهم سيئة يقولوا هذه من عندك"، قال: هذه في السراء والضراء. [[الأثر: ٩٩٦٢ - انظر التعليق على الأثر السالف رقم: ٩٩٦١.]]
+
+٩٩٦٣ - حدثنا القاسم قال، حدثنا الحسين قال، حدثني حجاج، عن أبي جعفر، عن الربيع، عن أبي العالية مثله.
+
+٩٩٦٤ - حدثني يونس قال، أخبرنا ابن وهب قال، قال ابن زيد في قوله:"وإن تصبهم حسنة يقولوا هذه من عند الله وإن تصبهم سيئة يقولوا هذه من عندك" فقرأ حتى بلغ:"وأرسلناك للناس رسولا"، قال: إن هذه الآيات نزلت في شأن الحرب. فقرأ ﴿يَا أَيُّهَا الَّذِينَ آمَنُوا خُذُوا حِذْرَكُمْ فَانْفِرُوا ثُبَاتٍ أَوِ انْفِرُوا جَمِيعًا﴾ فقرأ حتى بلغ:"وإن تصبهم سيئة"، يقولوا:"هذه من عند محمد عليه السلام، أساء التدبير وأساء النظر! ما أحسن التدبير ولا النظر".
+
+* *
+
+القول في تأويل قوله: ﴿قُلْ كُلٌّ مِنْ عِنْدِ اللَّهِ﴾
+
+قال أبو جعفر: يعني جل ثناؤه بقوله:"قل كل من عند الله"، قل، يا محمد، لهؤلاء القائلين إذا أصابتهم حسنة:"هذه من عند الله"، وإذا أصابتهم سيئة:"هذه من عندك": = كل ذلك من عند الله، دوني ودون غيري، من عنده الرخاء والشدة، ومنه النصر والظفر، ومن عنده الفَلُّ والهزيمة، [[في المطبوعة: "القتل والهزيمة"، وفي المخطوطة: "العال والهزيمة" غير منقوطة، ورجحت أن صوابها"الفل"، من قولهم: "فل القوم يفلهم فلا.": هزمهم وكسرهم.]] كما:-
+
+٩٩٦٥ - حدثني المثنى قال، حدثنا عبد الرزاق، عن معمر، عن قتادة:"قل كل من عند الله"، النعم والمصائب.
+
+٩٩٦٦ - حدثني يونس قال، أخبرنا ابن وهب قال، قال ابن زيد في قوله:"كل من عند الله"، النصر والهزيمة.
+
+٩٩٦٧ - حدثني المثنى قال، حدثنا عبد الله بن صالح قال، حدثني معاوية بن صالح، عن علي بن أبي طلحة، عن ابن عباس قوله:"قل كل من عند الله فمال هؤلاء القوم لا يكادون يفقهون حديثًا"، يقول: الحسنة والسيئة من عند الله، أما الحسنة فأنعم بها عليك، وأما السيئة فابتلاك بها.
+
+* *
+
+القول في تأويل قوله: ﴿فَمَالِ هَؤُلاءِ الْقَوْمِ لا يَكَادُونَ يَفْقَهُونَ حَدِيثًا (٧٨) ﴾
+
+قال أبو جعفر: يعني جل ثناؤه بقوله:"فمال هؤلاء القوم"، [[قال الفراء في معاني القرآن ١: ٢٧٨: " (فمال) ، كثرت في الكلام حتى توهموا أن اللام متصلة ب"ما"، وأنها حرف في بعضه".]] فما شأن هؤلاء القوم الذين إن تصبهم حسنة يقولوا:"هذه من عند الله"، وإن تصبهم سيئة يقولوا:"هذه من عندك" ="لا يكادون يفقهون حديثًا"، يقول: لا يكادون يعلمون حقيقة ما تخبرهم به، من أن كل ما أصابهم من خير أو شر، أو ضرّ وشدة ورخاء، فمن عند الله، لا يقدر على ذلك غيره، ولا يصيب أحدًا سيئة إلا بتقديره، ولا ينال رخاءً ونعمة إلا بمشيئته.
+
+وهذا إعلام من الله عبادَه أن مفاتح الأشياء كلها بيده، لا يملك شيئًا منها أحد غيره.
 
 ### al-Muyassar (Arabic)
 
-أينما تكونوا يلحقكم الموت في أي مكان كنتم فيه عند حلول آجالكم، ولو كنتم في حصون منيعة بعيدة عن ساحة المعارك والقتال. وإن يحصل لهم ما يسرُّهم من متاع هذه الحياة، ينسبوا حصوله إلى الله تعالى، وإن وقع عليهم ما يكرهونه ينسبوه إلى الرسول محمد صلى الله عليه وسلم جهالة وتشاؤمًا، وما علموا أن ذلك كله من عند الله وحده، بقضائه وقدره، فما بالهم لا يقاربون فَهْمَ أيِّ حديث تحدثهم به؟
+أينما تكونوا يلحقكم الموت في أي مكان كنتم فيه عند حلول آجالكم، ولو كنتم في حصون منيعة بعيدة عن ساحة المعارك والقتال. وإن يحصل لهم ما يسرُّهم من متاع هذه الحياة، ينسبوا حصوله إلى الله تعالى، وإن يَقَع عليهم ما يكرهونه ينسبوه إلى الرسول محمد ﷺ جهالة وتشاؤمًا، وما علموا أن ذلك كله من عند الله وحده، بقضائه وقدره، فما بالهم لا يقاربون فَهْمَ أيِّ حديث تحدثهم به؟
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿أيْنَما تَكُونُوا يُدْرِككُمْ المَوْت ولَوْ كُنْتُمْ فِي بُرُوج﴾ حُصُون ﴿مُشَيَّدَة﴾ مُرْتَفِعَة فَلا تَخْشَوْا القِتال خَوْف المَوْت ﴿وإنْ تُصِبْهُمْ﴾ أيْ اليَهُود ﴿حَسَنَة﴾ خِصْب وسِعَة ﴿يَقُولُوا هَذِهِ مِن عِنْد اللَّه وإنْ تُصِبْهُمْ سَيِّئَة﴾ جَدْب وبَلاء كَما حَصَلَ لَهُمْ عِنْد قُدُوم النَّبِيّ ﷺ المَدِينَة ﴿يَقُولُوا هَذِهِ مِن عِنْدك﴾ يا مُحَمَّد أيْ بِشُؤْمِك ﴿قُلْ﴾ لَهُمْ ﴿كُلّ﴾ مِن الحَسَنَة والسَّيِّئَة ﴿مِن عِنْد اللَّه﴾ مِن قِبَله ﴿لا يَكادُونَ يَفْقُهُونَ﴾ أيْ لا يُقارِبُونَ أنْ يَفْهَمُوا ﴿حَدِيثًا﴾ يُلْقى إلَيْهِمْ وما اسْتِفْهام تَعْجِيب مِن فَرْط جَهْلهمْ ونَفْي مُقارَبَة الفِعْل أشَدّ مِن نَفْيه
 
 ---
 
@@ -77,20 +618,183 @@ In the beginning of Islam, Muslims in Makkah were commanded to perform the praye
 
 ### Ibn Kathir (English)
 
+Have you not seen those who were told to hold back their hands (from fighting) and perform Salah and give Zakah, but when the fighting was ordained for them, behold! a section of them fear men as they fear Allah or even more. They say: "Our Lord! Why have You ordained for us fighting? Would that You granted us respite for a short period?" Say: "Short is the enjoyment of this world. The Hereafter is (far) better for him who fears Allah, and you shall not be dealt with unjustly even equal to the 'Fatīl' (77)"Wheresoever you may be, death will overtake you even if you are in fortresses built up strong and high!" And if some good reaches them, they say, "This is from Allah," but if some evil befalls them, they say, "This is from you." Say: "All things are from Allah," so what is wrong with these people that they fail to understand any word (78)Whatever of good reaches you, is from Allah, but whatever of evil befalls you, is from yourself. And We have sent you as a Messenger to mankind, and Allah is sufficient as a Witness (79)
+
 The Wish that the Order for Jihad be Delayed
-In the beginning of Islam, Muslims in Makkah were commanded to perform the prayer and pay some charity, so as to comfort the poor among them. They were also commanded to be forgiving and forbearing with the idolators and to observe patience with them at the time. However, they were eager and anticipating the time when they would be allowed to fight, so that they could punish their enemies. The situation at that time did not permit armed conflict fo...
+
+In the beginning of Islam, Muslims in Makkah were commanded to perform the prayer and pay some charity, so as to comfort the poor among them. They were also commanded to be forgiving and forbearing with the idolators and to observe patience with them at the time. However, they were eager and anticipating the time when they would be allowed to fight, so that they could punish their enemies. The situation at that time did not permit armed conflict for many reasons. For instance, Muslims were few at the time, compared to their numerous enemies. The Muslims' city was a sacred one and the most honored area on the earth, and this is why the command to fight was not revealed in Makkah. Later on when the Muslims controlled a town of their own, Al-Madinah, and had strength, power and support, Jihad was then legislated. Yet, when the command to fight was revealed, just as Muslims wished, some of them became weary and were very fearful of facing the idolators in battle.
+
+وَقَالُوا رَبَّنَا لِمَ كَتَبْتَ عَلَيْنَا الْقِتَالَ لَوْلَا أَخَّرْتَنَا إِلَىٰ أَجَلٍ قَرِيبٍ
+
+(They say: "Our Lord! Why have You ordained for us fighting? Would that You had granted us respite for a short period?") meaning, we wish that Jihad was delayed until a later time, because it means bloodshed, orphans and widows. In a similar Ayah, Allah said,
+
+وَيَقُولُ الَّذِينَ آمَنُوا لَوْلَا نُزِّلَتْ سُورَةٌ فَإِذَا أُنزِلَتْ سُورَةٌ مُّحْكَمَةٌ وَذُكِرَ فِيهَا الْقِتَالُ
+
+(Those who believe say: "Why is not a Surah sent down (for us)? But when a decisive is sent down, and fighting is mentioned). [47:20]
+
+Ibn Abi Hatim recorded that Ibn 'Abbas said that 'Abdur-Rahman bin 'Awf and several of his companions came to the Prophet ﷺ while in Makkah and said, "O Allah's Prophet! We were mighty when we were pagans, but when we embraced the faith, we became weak." The Prophet ﷺ said,
+
+إِنِّي أُمِرْتُ بِالْعَفْوِ فَلَا تُقَاتِلُوا الْقَوْمَ
+
+(I was commanded to pardon the people, so do not fight them.) When Allah transferred the Prophet ﷺ to Al-Madinah, He commanded him to fight (the idolators), but they (some Muslims) held back. So, Allah revealed the Ayah;
+
+أَلَمْ تَرَ إِلَى الَّذِينَ قِيلَ لَهُمْ كُفُّوا أَيْدِيَكُمْ
+
+(Have you not seen those who were told to hold back their hands) This Hadith was collected by An-Nasa'i and Al-Hakim. Allah's statement,
+
+قُلْ مَتَاعُ الدُّنْيَا قَلِيلٌ وَالْآخِرَةُ خَيْرٌ لِّمَنِ اتَّقَىٰ
+
+(Say: "Short is the enjoyment of this world. The Hereafter is (far) better for him who fears Allah,) means, the destination of the one who with Taqwa is better for him than this life.
+
+وَلَا تُظْلَمُونَ فَتِيلًا
+
+(and you shall not be dealt with unjustly even equal to the 'Fatīl'.) for your good deeds. Rather, you will earn your full rewards for them. This promise directs the focus of believers away from this life and makes them eager for the Hereafter, all the while encouraging them to fight in Jihad.
+
+There is No Escaping Death
+
+Allah said,
+
+أَيْنَمَا تَكُونُوا يُدْرِككُّمُ الْمَوْتُ وَلَوْ كُنتُمْ فِي بُرُوجٍ مُّشَيَّدَةٍ
+
+(Wheresoever you may be, death will overtake you even if you are in fortresses built up strong and high!) meaning, you shall certainly die and none of you shall ever escape death. Allah said,
+
+كُلُّ مَنْ عَلَيْهَا فَانٍ
+
+(Whatsooever is on it (the earth) will perish), [55:26]
+
+كُلُّ نَفْسٍ ذَائِقَةُ الْمَوْتِ
+
+(Everyone shall taste death), and,
+
+وَمَا جَعَلْنَا لِبَشَرٍ مِّن قَبْلِكَ الْخُلْدَ
+
+(And We granted not to any human being immortality before you).
+
+Therefore, every soul shall taste death and nothing can save any person from it, whether he performed Jihad or not. Everyone has an appointed time, and a limited term of life.
+
+In the illness that preceded his death, Khalid bin Al-Walid said, while in his bed, "I participated in so and so number of battles, and every part of my body sustained an injury due to a stab or a shot. Yet here I am, I die in my bed! Let not the eyes of the cowards ever taste sleep." Allah's statement,
+
+وَلَوْ كُنتُمْ فِي بُرُوجٍ مُّشَيَّدَةٍ
+
+(even if you are in fortresses built up strong and high!) means, entrenched, fortified, high and towering. No caution or fortification can ever avert death.
+
+The Hypocrites Sense a Bad Omen Because of the Prophet (ﷺ)!
+
+Allah said,
+
+وَإِن تُصِبْهُمْ حَسَنَةٌ
+
+(And if some good reaches them) meaning, fertile years and provision of fruits, produce, children, etc., as said by Ibn 'Abbas, Abu Al-'Aliyah and As-Suddi.
+
+يَقُولُوا هَٰذِهِ مِنْ عِندِ اللَّهِ وَإِن تُصِبْهُمْ سَيِّئَةٌ
+
+(they say, "This is from Allah," but if some evil befalls them) drought, famine, shortages of fruits and produce, death that strikes their children or animals, and so forth, as Abu Al-'Aliyah and As-Suddi stated.
+
+يَقُولُوا هَٰذِهِ مِنْ عِندِكَ
+
+(they say, "This is from you,") meaning, because of you and because we followed you and embraced your religion. Allah said about the people of Fir'awn,
+
+فَإِذَا جَاءَتْهُمُ الْحَسَنَةُ قَالُوا لَنَا هَٰذِهِ ۖ وَإِن تُصِبْهُمْ سَيِّئَةٌ يَطَّيَّرُوا بِمُوسَىٰ وَمَن مَّعَهُ
+
+(But whenever good came to them, they said: "Ours is this." And if evil afflicted them, they ascribed it to evil omens connected with Musa and those with him.)[7:131] Allah said,
+
+وَمِنَ النَّاسِ مَن يَعْبُدُ اللَّهَ عَلَىٰ حَرْفٍ
+
+(And among mankind is he who worships Allah as it were upon the edge (i. e. in doubt)). [22:11]
+
+The same is the statement uttered by the hypocrites, who embraced Islam outwardly, but disliked it inwardly. This is why when a calamity befell them, they attributed it to following the Prophet ﷺ. Consequently, Allah revealed,
+
+قُلْ كُلٌّ مِّنْ عِندِ اللَّهِ
+
+(Say: "All things are from Allah")
+
+Allah's statement that all things are from Him means, everything occurs by the decision and decree of Allah, and His decision shall come to pass for both the righteous and the wicked, the faithful and the disbelievers. Allah then said while addressing His Messenger ﷺ, but refering to mankind in general,
+
+مَّا أَصَابَكَ مِنْ حَسَنَةٍ فَمِنَ اللَّهِ
+
+(Whatever of good reaches you, is from Allah,) meaning, of Allah's bounty, favor, kindness and mercy.
+
+وَمَا أَصَابَكَ مِن سَيِّئَةٍ فَمِن نَّفْسِكَ
+
+(But whatever of evil befalls you, is from yourself.), meaning because of you and due to your actions. Similarly, Allah said,
+
+وَمَا أَصَابَكُم مِّن مُّصِيبَةٍ فَبِمَا كَسَبَتْ أَيْدِيكُمْ وَيَعْفُو عَن كَثِيرٍ
+
+(And whatever of misfortune befalls you, it is because of what your hands have earned. And He pardons much.) As-Suddi, Al-Hasan Al-Basri, Ibn Jurayj and Ibn Zayd said that,
+
+فَمِن نَّفْسِكَ
+
+(from yourself) means, because of your errors. Qatadah said that,
+
+فَمِن نَّفْسِكَ
+
+(From yourself) means, as punishment for you, O son of Adam, because of your sins. Allah said,
+
+وَأَرْسَلْنَاكَ لِلنَّاسِ رَسُولًا
+
+(And We have sent you as a Messenger to mankind,) so that you convey to them Allah's commandments, what He likes and is pleased with, and what He dislikes and refuses.
+
+وَكَفَىٰ بِاللَّهِ شَهِيدًا
+
+(and Allah is sufficient as a Witness.) that He has sent you. He is also Witness over you and them, having full knowledge in what you convey to them and the disbelief and rebellion with which they respond to the truth.
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله :  مَا أَصَابَكَ مِنْ حَسَنَةٍ فَمِنَ اللَّهِ وَمَا أَصَابَكَ مِنْ سَيِّئَةٍ فَمِنْ نَفْسِكَقال أبو جعفر: يعني جل ثناؤه بقوله: " ما أصابك من حسنة فمن الله وما أصابك من سيئة فمن نفسك "، ما يصيبك، يا محمد، من رخاء ونعمة وعافية وسلامة، فمن فضل الله عليك، يتفضل به عليك إحسانًا منه إليك = وأما قوله: " وما أصابك من سيئة فمن نفسك "، يعني: وما أصابك من شدة ومشقة وأذى ومكروه =" فمن نفسك "، يعني: بذنب استوجبتها به، اكتسبته نفسك، (39) كما:-9968 - حدثنا محمد بن الحسين قال، حدثنا أحمد ...
+القول في تأويل قوله: ﴿مَا أَصَابَكَ مِنْ حَسَنَةٍ فَمِنَ اللَّهِ وَمَا أَصَابَكَ مِنْ سَيِّئَةٍ فَمِنْ نَفْسِكَ﴾
+
+قال أبو جعفر: يعني جل ثناؤه بقوله:"ما أصابك من حسنة فمن الله وما أصابك من سيئة فمن نفسك"، ما يصيبك، يا محمد، من رخاء ونعمة وعافية وسلامة، فمن فضل الله عليك، يتفضل به عليك إحسانًا منه إليك = وأما قوله:"وما أصابك من سيئة فمن نفسك"، يعني: وما أصابك من شدة ومشقة وأذى ومكروه ="فمن نفسك"، يعني: بذنب استوجبتها به، اكتسبته نفسك، [[انظر تفسير"الحسنة" فيما سلف: ٥٥٥، تعليق: ٢، والمراجع هناك.
+
+وانظر تفسير"السيئة" فيما سلف: ٥٥٥، تعليق: ٤، والمراجع هناك.]] كما:-
+
+٩٩٦٨ - حدثنا محمد بن الحسين قال، حدثنا أحمد بن المفضل قال، حدثنا أسباط، عن السدي:"ما أصابك من حسنة فمن الله وما أصابك من سيئة فمن نفسك"، أما"من نفسك"، فيقول: من ذنبك.
+
+٩٩٦٩ - حدثنا بشر بن معاذ قال، حدثنا يزيد قال، حدثنا سعيد، عن قتادة:"ما أصابك من حسنة فمن الله وما أصابك من سيئة فمن نفسك"، عقوبة، يا ابن آدم بذنبك. قال: وذكر لنا أن نبي الله ﷺ كان يقول: لا يصيب رجلا خَدْش عود، ولا عَثرة قدم، ولا اختلاج عِرْق إلا بذنب، وما يعفو الله عنه أكثر.
+
+٩٩٧٠ - حدثني المثنى قال، حدثنا عبد الله قال، حدثني معاوية، عن علي بن أبي طلحة، عن ابن عباس قوله:"ما أصابك من حسنة فمن الله وما أصابك من سيئة فمن نفسك"، يقول:"الحسنة"، ما فتح الله عليه يوم بدر، وما أصابه من الغنيمة والفتح = و"السيئة"، ما أصابه يوم أُحُد، أنْ شُجَّ في وجهه وكسرت رَبَاعيته.
+
+٩٩٧١ - حدثني المثنى قال، حدثنا إسحاق قال، حدثنا عبد الرزاق قال، أخبرنا معمر، عن قتادة:"ما أصابك من حسنة فمن الله وما أصابك من سيئة فمن نفسك"، يقول: بذنبك = ثم قال: كل من عند الله، النعم والمصيبات.
+
+٩٩٧٢ - حدثني المثنى قال، حدثنا إسحاق قال، حدثنا عبد الرحمن بن سعد، وابن أبي جعفر قالا حدثنا أبو جعفر، عن الربيع، عن أبي العالية قوله:"ما أصابك من حسنة فمن الله وما أصابك من سيئة فمن نفسك"، قال: هذه في الحسنات والسيئات. [[انظر التعليق على الأثرين السالفين: ٩٩٦١، ٩٩٦٢.]]
+
+٩٩٧٣ - حدثنا القاسم قال، حدثنا الحسين قال، حدثني حجاج، عن أبي جعفر، عن الربيع، عن أبي العالية مثله.
+
+٩٩٧٤ - حدثنا القاسم قال، حدثنا الحسين قال، حدثني حجاج، عن ابن جريج:"وما أصابك من سيئة فمن نفسك"، قال: عقوبةً بذنبك.
+
+٩٩٧٥ - حدثني يونس قال، أخبرنا ابن وهب قال، قال ابن زيد في قوله:"ما أصابك من حسنة فمن الله وما أصابك من سيئة فمن نفسك"، بذنبك، كما قال لأهل أُحد: ﴿أَوَلَمَّا أَصَابَتْكُمْ مُصِيبَةٌ قَدْ أَصَبْتُمْ مِثْلَيْهَا قُلْتُمْ أَنَّى هَذَا قُلْ هُوَ مِنْ عِنْدِ أَنْفُسِكُمْ﴾ [سورة آل عمران: ١٦٥] ، بذنوبكم.
+
+٩٩٧٦ - حدثني يونس قال، حدثنا سفيان، عن إسماعيل بن أبي خالد، عن أبي صالح في قوله:"وما أصابك من سيئة فمن نفسك"، قال: بذنبك، وأنا قدّرتها عليك.
+
+٩٩٧٧ - حدثنا محمد بن بشار قال، حدثنا يحيى، عن سفيان، عن إسماعيل بن أبي خالد، عن أبي صالح في قوله:"ما أصابك من حسنة فمن الله وما أصابك من سيئة فمن نفسك"، وأنا الذي قدّرتها عليك.
+
+٩٩٧٨ - حدثني موسى بن عبد الرحمن المسروقي قال، حدثنا محمد بن بشر قال، حدثنيه إسماعيل بن أبي خالد، عن أبي صالح بمثله.
+
+* *
+
+قال أبو جعفر: فإن قال قائل: وما وجه دخول"مِن" في قوله:"ما أصابك من حسنة" و"من سيئة"؟
+
+* *
+
+قيل: اختلف في ذلك أهل العربية.
+
+فقال بعض نحويي البصرة: أدخلت"من" لأن"من" تحسن مع النفي، مثل:"ما جاءني من أحد". [[انظر ما سلف ٢: ١٢٦، ١٢٧، ٤٤٢، ٤٧٠ / ٥: ٥٨٦ / ٦: ٥٥١.]] قال: ودخول الخبر بالفاء، لأن"ما" بمنزلة"مَن". [[في المطبوعة والمخطوطة: "ودخول الخبر بالفاء لازما بمنزلة من"، وهو كلام لا معنى له البتة، صواب قراءته ما أثبت، ويعني بدخول الفاء في الخبر قوله: "فمن الله" و"فمن نفسك".]]
+
+* *
+
+وقال بعض نحويي الكوفة: أدخلت"مِن" مع"ما"، كما تدخل على"إن" في الجزاء، لأنهما حرفا جزاء. وكذلك، تدخل مع"مَن"، إذا كانت جزاء، فتقول العرب:"مَن يزرك مِن أحد فتكرمه"، كما تقول:"إن يَزُرك من أحد فتكرمه". قال: وأدخلوها مع"ما" و"مَنْ"، ليعلم بدخولها معهما أنهما جزاء. قالوا: وإذا دخلت معهما لم تحذف، لأنها إذا حذفت صار الفعل رافعًا شيئين، وذلك أن"ما" في قوله:"ما أصابك من سيئة" رفع بقوله:"أصابك"، [[في المطبوعة والمخطوطة: "ما أصابك من حسنة"، والسياق يقتضي ذكر الأخرى كما أثبتها.]] فلو حذفت"مِن"، رفع قوله:"أصابك""السيئةَ"، لأن معناه: إن تصبك سيئة = فلم يجز حذف"مِن" لذلك، لأن الفعل الذي هو على"فعل" أو"يفعل"، لا يرفع شيئين. [["فعل" أو "يفعل"، يعني الماضي والمضارع.]] وجاز ذلك مع"مَن"، لأنها تشتبه بالصفات، [["الصفات"، حروف الجر، كما سلف مرارًا، فراجعه في فهارس المصطلحات.]] وهي في موضع اسم. فأما"إن" فإن"مِن" تدخل معها وتخرج، ولا تخرج مع"أيٍّ"، لأنها تعرب فيبين فيها الإعراب، ودخلت مع"ما"، لأن الإعراب لا يظهر فيها.
+
+* *
+
+القول في تأويل قوله: ﴿وَأَرْسَلْنَاكَ لِلنَّاسِ رَسُولا وَكَفَى بِاللَّهِ شَهِيدًا (٧٩) ﴾
+
+قال أبو جعفر: يعني بقوله جل ثناؤه:"وأرسلناك للناس رسولا"، إنما جعلناك، يا محمد، رسولا بيننا وبين الخلق، تبلّغهم ما أرسلناك به من رسالة، وليس عليك غير البلاغ وأداء الرسالة إلى من أرسلت، فإن قبلوا ما أرسلت به فلأنفسهم، وإن ردُّوا فعليها ="وكفى بالله" عليك وعليهم ="شهيدًا"، يقول: حسبك الله تعالى ذكره، شاهدًا عليك في بلاغك ما أمرتك ببلاغه من رسالته ووحيه، [[انظر تفسير"الشهيد" فيما سلف من فهارس اللغة.]] وعلى من أرسلت إليه في قبولهم منك ما أرسلت به إليهم، فإنه لا يخفى عليه أمرك وأمرهم، وهو مجازيك ببلاغك ما وعدَك، ومجازيهم ما عملوا من خير وشر، جزاء المحسن بإحسانه، والمسيء بإساءته.
 
 ### al-Muyassar (Arabic)
 
-ما أصابك -أيها الإنسان- مِن خير ونعمة فهو من الله تعالى وحده، فضلا وإحسانًا، وما أصابك من جهد وشدة فبسبب عملك السيئ، وما اقترفته يداك من الخطايا والسيئات. وبعثناك -أيها الرسول- لعموم الناس رسولا تبلغهم رسالة ربك، وكفى بالله شهيدًا على صدق رسالتك.
+ما أصابك -أيها الإنسان- مِن خير ونعمة فهو من الله تعالى وحده، فضلًا وإحسانًا، وما أصابك من جهد وشدة فبسبب عملك السيِّئ، وما اقترفته يداك من الخطايا والسيئات. وبعثناك -أيها الرسول- لعموم الناس رسولًا تبلغهم رسالة ربك، وكفى بالله شهيدًا على صدق رسالتك.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿ما أصابَك﴾ أيّها الإنْسان ﴿مِن حَسَنَة﴾ خَيْر ﴿فَمِن اللَّه﴾ أتَتْك فَضْلًا مِنهُ ﴿وما أصابَك مِن سَيِّئَة﴾ بَلِيَّة ﴿فَمِن نَفْسك﴾ أتَتْك حَيْثُ ارْتَكَبْت ما يَسْتَوْجِبها مِن الذُّنُوب ﴿وأَرْسَلْناك﴾ يا مُحَمَّد ﴿لِلنّاسِ رَسُولًا﴾ حال مُؤَكِّدَة ﴿وكَفى بِاللَّهِ شَهِيدًا﴾ عَلى رِسالَتك
 
 ---
 
@@ -98,25 +802,213 @@ In the beginning of Islam, Muslims in Makkah were commanded to perform the praye
 
 ### Ibn Kathir (English)
 
-Which was revealed in Makkah
-بِسْمِ اللَّهِ الرَّحْمَـنِ الرَّحِيمِ
+بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
+
 In the Name of Allah, the Most Beneficent, the Most Merciful.
+
+عَمَّ يَتَسَاءَلُونَ - عَنِ النَّبَإِ الْعَظِيمِ - الَّذِي هُمْ فِيهِ مُخْتَلِفُونَ - كَلَّا سَيَعْلَمُونَ - ثُمَّ كَلَّا سَيَعْلَمُونَ - أَلَمْ نَجْعَلِ الْأَرْضَ مِهَادًا - وَالْجِبَالَ أَوْتَادًا - وَخَلَقْنَاكُمْ أَزْوَاجًا - وَجَعَلْنَا نَوْمَكُمْ سُبَاتًا - وَجَعَلْنَا اللَّيْلَ لِبَاسًا - وَجَعَلْنَا النَّهَارَ مَعَاشًا - وَبَنَيْنَا فَوْقَكُمْ سَبْعًا شِدَادًا - وَجَعَلْنَا سِرَاجًا وَهَّاجًا - وَأَنزَلْنَا مِنَ الْمُعْصِرَاتِ مَاءً ثَجَّاجًا - لِّنُخْرِجَ بِهِ حَبًّا وَنَبَاتًا - وَجَنَّاتٍ أَلْفَافًا
+
+(1. What are they asking about?)(2. About the great news,)(3. About which they are in disagreement.)(4. Nay, they will come to know!)(5. Nay, again, they will come to know!)(6. Have We not made the earth as a bed,)(7. And the mountains as pegs?)(8. And We have created you in pairs.)(9. And We have made your sleep as a thing for rest.)(10. And We have made the night as a covering,)(11. And We have made the day for livelihood.)(12. And We have built above you seven strong,)(13. And We have made (therein) a shining lamp.)(14. And We have sent down from the Mu'sirat water Thajjaj.)(15. That We may produce therewith grains and vegetations,)(16. And gardens that are Alfaf.)
+
 Refutation against the Idolators' Denial of the Occurrence of the Day of Judgement
+
 In rejection of the idolators' questioning about the Day of Judgement, due to their denial of its occurrence, Allah says,
-عَمَّ يَتَسَآءَلُونَ - عَنِ النَّبَإِ الْعَظِيمِ
-(What are they asking about About the great news,) meaning, what are they asking about They are asking about the ...
+
+عَمَّ يَتَسَاءَلُونَ - عَنِ النَّبَإِ الْعَظِيمِ
+
+(What are they asking about? About the great news,)
+
+meaning, what are they asking about? They are asking about the matter of the Day of Judgement, and it is the great news. Meaning the dreadful, horrifying, overwhelming information.
+
+الَّذِي هُمْ فِيهِ مُخْتَلِفُونَ
+
+(About which they are in disagreement.)
+
+meaning, the people are divided into two ideas about it. There are those who believe in it and those who disbelieve in it. Then Allah threatens those who deny the Day of Judgement by saying,
+
+كَلَّا سَيَعْلَمُونَ - ثُمَّ كَلَّا سَيَعْلَمُونَ
+
+(Nay, they will come to know! Nay, again, they will come to know!)
+
+This is a severe threat and a direct warning.
+
+Mentioning Allah's Power, and the Proof of His Ability to resurrect the Dead
+
+Then, Allah begins to explain His great ability to create strange things and amazing matters. He brings this as a proof of His ability to do whatever He wishes concerning the matter of the Hereafter and other matters as well. He says,
+
+أَلَمْ نَجْعَلِ الْأَرْضَ مِهَادًا
+
+(Have We not made the earth as a bed,)
+
+meaning, an established, firm and peaceful resting place that is subservient to them.
+
+وَالْجِبَالَ أَوْتَادًا
+
+(And the mountains as pegs?)
+
+meaning, He made them as pegs for the earth to hold it in place, make it stable and firm. This is so that it may be suitable for dwelling and not quake with those who are in it. Then Allah says,
+
+وَخَلَقْنَاكُمْ أَزْوَاجًا
+
+(And We have created you in pairs.)
+
+meaning, male and female, both of them enjoying each other, and by this means procreation is achieved. This is similar to Allah's statement,
+
+وَمِنْ آيَاتِهِ أَنْ خَلَقَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَاجًا لِّتَسْكُنُوا إِلَيْهَا وَجَعَلَ بَيْنَكُم مَّوَدَّةً وَرَحْمَةً
+
+(And among His signs is this that He created for you wives from among yourselves, that you may find repose in them, and He has put between you affection and mercy.)(30:21)
+
+وَجَعَلْنَا نَوْمَكُمْ سُبَاتًا
+
+(And We have made your sleep as a thing for rest.)
+
+meaning, a cessation of movement in order to attain rest from the frequent repetition and going about in search of livelihood during the day. A similar Ayah has been mentioned previously in Surat Al-Furqan.
+
+وَجَعَلْنَا اللَّيْلَ لِبَاسًا
+
+(And We have made the night as a covering,)
+
+meaning, its shade and darkness covers the people. This is as Allah says,
+
+وَالَّيْلِ إِذَا يَغْشَاهَا
+
+(By the night as it conceals it.)(91:4)
+
+Qatadah commented;
+
+وَجَعَلْنَا اللَّيْلَ لِبَاسًا
+
+(And We have made the night as a covering,)
+
+meaning, a tranquil residence. Concerning Allah's statement,
+
+وَجَعَلْنَا النَّهَارَ مَعَاشًا
+
+(And We have made the day for livelihood.)
+
+meaning, 'We made it radiant, luminous, and shining so that the people would be able to move about in it.' By it they are able to come and go for their livelihood, earning, business dealings and other than that as well. In reference to Allah's statement,
+
+وَبَنَيْنَا فَوْقَكُمْ سَبْعًا شِدَادًا
+
+(And We have built above you seven strong,)
+
+meaning, the seven heavens in their vastness, loftiness, perfection, precision, and adornment with both stable and moving stars. Thus, Allah says,
+
+وَجَعَلْنَا سِرَاجًا وَهَّاجًا
+
+(And We have made (therein) a shining lamp.)
+
+meaning, the radiant sun that gives light to all of the world. Its light glows for all of the people of the earth. Allah then says,
+
+وَأَنزَلْنَا مِنَ الْمُعْصِرَاتِ مَاءً ثَجَّاجًا
+
+(And We have sent down from the Mu'sirat water Thajjaj.)
+
+Ali bin Abi Talhah reported from Ibn 'Abbas that he said, "From the Mu'sirat means from the clouds." This was also stated by 'Ikrimah, Abu Al-'Aliyah, Ad-Dahhak, Al-Hasan, Ar-Rabi' bin Anas, Ath-Thawri, and it is preferred by Ibn Jarir. Al-Farra' said, "They are the clouds that are filled with rain, but they do not bring rain. This is like the woman being called Mu'sir when (the time of) her menstrual cycle approaches, yet she does not menstruate." This is as Allah says,
+
+اللَّهُ الَّذِي يُرْسِلُ الرِّيَاحَ فَتُثِيرُ سَحَابًا فَيَبْسُطُهُ فِي السَّمَاءِ كَيْفَ يَشَاءُ وَيَجْعَلُهُ كِسَفًا فَتَرَى الْوَدْقَ يَخْرُجُ مِنْ خِلَالِهِ
+
+(Allah is He Who sends the winds, so that they raise clouds, and spread them along the sky as He wills, and then break them into fragments, until you see rain drops come forth from their midst!)(30:48)
+
+meaning, from its midst.
+
+Concerning Allah's statement,
+
+مَاءً ثَجَّاجًا
+
+(water Thajjaj) Mujahid, Qatadah, and Ar-Rabi' bin Anas all said, "Thajjaj means poured out." At-Thawri said, "Continuous." Ibn Zayd said, "Abundant." In the Hadith of the woman with prolonged menstrual bleeding, when the Messenger of Allah ﷺ said to her,
+
+أَنْعَتُ لَكِ الْكُرْسُفَ
+
+(I suggest you to make an absorbent cloth for yourself.)
+
+Meaning, 'dress the area with cotton.' The woman replied, "O Messenger of Allah! It (the bleeding) is too much for that. Verily, it flows in profusely (Thajja)." This contains an evidence for using the word Thajj to mean abundant, continuous and flowing. And Allah knows best. Allah said,
+
+لِّنُخْرِجَ بِهِ حَبًّا وَنَبَاتًا - وَجَنَّاتٍ أَلْفَافًا
+
+(That We may produce therewith corn and vegetation, and gardens that are Alfaf.)
+
+meaning, 'so that We may bring out great abundance, goodness, benefit, and blessing through this water.'
+
+حَبًّا
+
+(grains) This refers to that which is preserved for (the usage) of humans and cattle.
+
+وَنَبَاتًا
+
+(and vegetations) meaning, vegetables that are eaten fresh.
+
+وَجَنَّاتٍ
+
+(And gardens) meaning, gardens of various fruits, differing colors, and a wide variety of tastes and fragrances, even if it is ingathered at one location of the earth. This is why Allah says
+
+وَجَنَّاتٍ أَلْفَافًا
+
+(And gardens that are Alfaf.) Ibn 'Abbas and other said, "Alfaf means gathered." This is similar to Allah's statement,
+
+وَفِي الْأَرْضِ قِطَعٌ مُّتَجَاوِرَاتٌ وَجَنَّاتٌ مِّنْ أَعْنَابٍ وَزَرْعٌ وَنَخِيلٌ صِنْوَانٌ وَغَيْرُ صِنْوَانٍ يُسْقَىٰ بِمَاءٍ وَاحِدٍ وَنُفَضِّلُ بَعْضَهَا عَلَىٰ بَعْضٍ فِي الْأُكُلِ ۚ إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِّقَوْمٍ يَعْقِلُونَ
+
+(And in the earth are neighboring tracts, and gardens of vines, and green crops, and date palms, growing into two or three from a single stem root, or otherwise, watered with the same water; yet some of them We make more excellent than others to eat. Verily, in these things there are Ayat for the people who understand.)(13:4)
 
 ### al-Tabari (Arabic)
 
-( ثُمَّ كَلا سَيَعْلَمُونَ ) المؤمنون، وكذلك كان يقرأها.
+القول في تأويل قوله تعالى: ﴿عَمَّ يَتَسَاءَلُونَ (١) عَنِ النَّبَإِ الْعَظِيمِ (٢) الَّذِي هُمْ فِيهِ مُخْتَلِفُونَ (٣) كَلا سَيَعْلَمُونَ (٤) ثُمَّ كَلا سَيَعْلَمُونَ (٥) ﴾
+
+.
+
+يقول تعالى ذكره: عن أي شيء يتساءل هؤلاء المشركون بالله ورسوله من قريش يا محمد، وقيل ذلك له ﷺ، وذلك أن قريشا جعلت فيما ذُكر عنها تختصم وتتجادل في الذي دعاهم إليه رسول الله ﷺ من الإقرار بنبوّته، والتصديق بما جاء به من عند الله، والإيمان بالبعث، فقال الله لنبيه: فيم يتساءل هؤلاء القوم ويختصمون، و"في" و"عن" في هذا الموضع بمعنى واحد.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا أبو كُريب، قال: ثنا وكيع بن الجراح، عن مِسعر، عن محمد بن جحادة، عن الحسن، قال: لما بُعِث النبيّ ﷺ جعلوا يتساءلون بينهم، فأنزل الله: ﴿عَمَّ يَتَسَاءَلُونَ عَنِ النَّبَإِ الْعَظِيمِ﴾ يعني: الخبر العظيم.
+
+قال أبو جعفر، ثم أخبر الله نبيه ﷺ عن الذي يتساءلونه، فقال: يتساءلون عن النبأ العظيم: يعني: عن الخبر العظيم.
+
+واختلف أهل التأويل في المعنيّ بالنبأ العظيم، فقال بعضهم: أريد به القرآن.
+
+ذكر من قال ذلك:
+
+⁕ حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى، وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء، جميعا عن ابن أبي نجيح، عن مجاهد، في قول الله: ﴿عَنِ النَّبَإِ الْعَظِيمِ﴾ قال: القرآن.
+
+وقال آخرون: عني به البعث.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، في قوله: ﴿عَنِ النَّبَإِ الْعَظِيمِ﴾ وهو البعث بعد الموت.
+
+⁕ حدثنا ابن حميد، قال: ثنا مهران، عن سفيان، عن سعيد، عن قتادة ﴿عَنِ النَّبَإِ الْعَظِيمِ﴾ قال: النبأ العظيم: البعث بعد الموت.
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله: ﴿عَمَّ يَتَسَاءَلُونَ عَنِ النَّبَإِ الْعَظِيمِ الَّذِي هُمْ فِيهِ مُخْتَلِفُونَ﴾ قال: يوم القيامة؛ قال: قالوا هذا اليوم الذي تزعمون أنا نحيا فيه وآباؤنا، قال: فهم فيه مختلفون، لا يؤمنون به، فقال الله: بل هو نبأ عظيم أنتم عنه معرضون: يوم القيامة لا يؤمنون به.
+
+وكان بعض أهل العربية يقول: معنى ذلك: عمّ يتحدّث به قريش في القرآن، ثم أجاب فصارت عمّ كأنها في معنى: لأيّ شيء يتساءلون عن القرآن، ثم أخبر فقال: ﴿الَّذِي هُمْ فِيهِ مُخْتَلِفُونَ﴾ بين مصدق ومكذِّب، فذلك إخلافهم، وقوله: ﴿الَّذِي هُمْ فِيهِ مُخْتَلِفُونَ﴾ يقول تعالى ذكره: الذي صاروا هم فيه مختلفون فريقين: فريق به مصدّق، وفريق به مكذّب. يقول تعالى ذكره: فتساؤلهم بينهم في النبأ الذي هذه صفته.
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا ابن حميد، قال: ثنا مهران، عن سعيد، عن قتادة: عن النبإ ﴿الَّذِي هُمْ فِيهِ مُخْتَلِفُونَ﴾ البعث بعد الموت، فصار الناس فيه فريقين: مصدّق ومكذّب، فأما الموت فقد أقرّوا به لمعاينتهم إياه، واختلفوا في البعث بعد الموت.
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة ﴿الَّذِي هُمْ فِيهِ مُخْتَلِفُونَ﴾ صار الناس فيه رجلين: مصدّق، ومكذّب، فأما الموت فإنهم أقروا به كلهم لمعاينتهم إياه، واختلفوا في البعث بعد الموت.
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة ﴿الَّذِي هُمْ فِيهِ مُخْتَلِفُونَ﴾ قال: مصدّق ومكذّب.
+
+* *
+
+وقوله: ﴿كَلا﴾
+
+يقول تعالى ذكره: ما الأمر كما يزعم هؤلاء المشركون الذين ينكرون بعث الله إياهم أحياء بعد مماتهم، وتوعدهم جل ثناؤه على هذا القول منهم، فقال: ﴿سَيَعْلَمُونَ﴾ يقول: سيعلم هؤلاء الكفار المنُكرون وعيد الله أعداءه، ما الله فاعل بهم يوم القيامة، ثم أكد الوعيد بتكرير آخر، فقال: ما الأمر كما يزعمون من أن الله غير محييهم بعد مماتهم، ولا معاقبهم على كفرهم به، سيعلمون أن القول غير ما قالوا إذا لقوا الله، وأفضوا إلى ما قدّموا من سيئ أعمالهم.
+
+وذُكر عن الضحاك بن مزاحم في ذلك ما:-
+
+⁕ حدثنا ابن حميد، قال: ثنا مهران، عن أبي سنان، عن ثابت، عن الضحاك ﴿كَلا سَيَعْلَمُونَ﴾ الكفار ﴿ثُمَّ كَلا سَيَعْلَمُونَ﴾ المؤمنون، وكذلك كان يقرأها.
 
 ### al-Muyassar (Arabic)
 
-ما الأمر كما يزعم هؤلاء المشركون، سيعلم هؤلاء المشركون عاقبة تكذيبهم، ويظهر لهم ما الله فاعل بهم يوم القيامة، ثم سيتأكد لهم ذلك، ويتأكد لهم صدق ما جاء به محمد صلى الله عليه وسلم، من القرآن والبعث. وهذا تهديد ووعيد لهم.
+ما الأمر كما يزعم هؤلاء المشركون، سيعلم هؤلاء المشركون عاقبة تكذيبهم، ويظهر لهم ما الله فاعل بهم يوم القيامة، ثم سيتأكد لهم ذلك، ويتأكد لهم صدق ما جاء به محمد ﷺ، من القرآن والبعث. وهذا تهديد ووعيد لهم.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿ثُمَّ كَلّا سَيَعْلَمُونَ﴾ تَأْكِيد وجِيءَ فِيهِ بِثُمَّ لِلْإيذانِ بِأَنَّ الوَعِيد الثّانِي أشَدّ مِن الأَوَّل، ثُمَّ أوْمَأَ تَعالى إلى القُدْرَة عَلى البَعْث فَقالَ: " ألَمْ نَجْعَل الأَرْض مِهادًا "
 
 ---
 
@@ -124,25 +1016,193 @@ In rejection of the idolators' questioning about the Day of Judgement, due to th
 
 ### Ibn Kathir (English)
 
-Which was revealed in Makkah
-بِسْمِ اللَّهِ الرَّحْمَـنِ الرَّحِيمِ
+بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
+
 In the Name of Allah, the Most Beneficent, the Most Merciful.
+
+عَمَّ يَتَسَاءَلُونَ - عَنِ النَّبَإِ الْعَظِيمِ - الَّذِي هُمْ فِيهِ مُخْتَلِفُونَ - كَلَّا سَيَعْلَمُونَ - ثُمَّ كَلَّا سَيَعْلَمُونَ - أَلَمْ نَجْعَلِ الْأَرْضَ مِهَادًا - وَالْجِبَالَ أَوْتَادًا - وَخَلَقْنَاكُمْ أَزْوَاجًا - وَجَعَلْنَا نَوْمَكُمْ سُبَاتًا - وَجَعَلْنَا اللَّيْلَ لِبَاسًا - وَجَعَلْنَا النَّهَارَ مَعَاشًا - وَبَنَيْنَا فَوْقَكُمْ سَبْعًا شِدَادًا - وَجَعَلْنَا سِرَاجًا وَهَّاجًا - وَأَنزَلْنَا مِنَ الْمُعْصِرَاتِ مَاءً ثَجَّاجًا - لِّنُخْرِجَ بِهِ حَبًّا وَنَبَاتًا - وَجَنَّاتٍ أَلْفَافًا
+
+(1. What are they asking about?)(2. About the great news,)(3. About which they are in disagreement.)(4. Nay, they will come to know!)(5. Nay, again, they will come to know!)(6. Have We not made the earth as a bed,)(7. And the mountains as pegs?)(8. And We have created you in pairs.)(9. And We have made your sleep as a thing for rest.)(10. And We have made the night as a covering,)(11. And We have made the day for livelihood.)(12. And We have built above you seven strong,)(13. And We have made (therein) a shining lamp.)(14. And We have sent down from the Mu'sirat water Thajjaj.)(15. That We may produce therewith grains and vegetations,)(16. And gardens that are Alfaf.)
+
 Refutation against the Idolators' Denial of the Occurrence of the Day of Judgement
+
 In rejection of the idolators' questioning about the Day of Judgement, due to their denial of its occurrence, Allah says,
-عَمَّ يَتَسَآءَلُونَ - عَنِ النَّبَإِ الْعَظِيمِ
-(What are they asking about About the great news,) meaning, what are they asking about They are asking about the ...
+
+عَمَّ يَتَسَاءَلُونَ - عَنِ النَّبَإِ الْعَظِيمِ
+
+(What are they asking about? About the great news,)
+
+meaning, what are they asking about? They are asking about the matter of the Day of Judgement, and it is the great news. Meaning the dreadful, horrifying, overwhelming information.
+
+الَّذِي هُمْ فِيهِ مُخْتَلِفُونَ
+
+(About which they are in disagreement.)
+
+meaning, the people are divided into two ideas about it. There are those who believe in it and those who disbelieve in it. Then Allah threatens those who deny the Day of Judgement by saying,
+
+كَلَّا سَيَعْلَمُونَ - ثُمَّ كَلَّا سَيَعْلَمُونَ
+
+(Nay, they will come to know! Nay, again, they will come to know!)
+
+This is a severe threat and a direct warning.
+
+Mentioning Allah's Power, and the Proof of His Ability to resurrect the Dead
+
+Then, Allah begins to explain His great ability to create strange things and amazing matters. He brings this as a proof of His ability to do whatever He wishes concerning the matter of the Hereafter and other matters as well. He says,
+
+أَلَمْ نَجْعَلِ الْأَرْضَ مِهَادًا
+
+(Have We not made the earth as a bed,)
+
+meaning, an established, firm and peaceful resting place that is subservient to them.
+
+وَالْجِبَالَ أَوْتَادًا
+
+(And the mountains as pegs?)
+
+meaning, He made them as pegs for the earth to hold it in place, make it stable and firm. This is so that it may be suitable for dwelling and not quake with those who are in it. Then Allah says,
+
+وَخَلَقْنَاكُمْ أَزْوَاجًا
+
+(And We have created you in pairs.)
+
+meaning, male and female, both of them enjoying each other, and by this means procreation is achieved. This is similar to Allah's statement,
+
+وَمِنْ آيَاتِهِ أَنْ خَلَقَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَاجًا لِّتَسْكُنُوا إِلَيْهَا وَجَعَلَ بَيْنَكُم مَّوَدَّةً وَرَحْمَةً
+
+(And among His signs is this that He created for you wives from among yourselves, that you may find repose in them, and He has put between you affection and mercy.)(30:21)
+
+وَجَعَلْنَا نَوْمَكُمْ سُبَاتًا
+
+(And We have made your sleep as a thing for rest.)
+
+meaning, a cessation of movement in order to attain rest from the frequent repetition and going about in search of livelihood during the day. A similar Ayah has been mentioned previously in Surat Al-Furqan.
+
+وَجَعَلْنَا اللَّيْلَ لِبَاسًا
+
+(And We have made the night as a covering,)
+
+meaning, its shade and darkness covers the people. This is as Allah says,
+
+وَالَّيْلِ إِذَا يَغْشَاهَا
+
+(By the night as it conceals it.)(91:4)
+
+Qatadah commented;
+
+وَجَعَلْنَا اللَّيْلَ لِبَاسًا
+
+(And We have made the night as a covering,)
+
+meaning, a tranquil residence. Concerning Allah's statement,
+
+وَجَعَلْنَا النَّهَارَ مَعَاشًا
+
+(And We have made the day for livelihood.)
+
+meaning, 'We made it radiant, luminous, and shining so that the people would be able to move about in it.' By it they are able to come and go for their livelihood, earning, business dealings and other than that as well. In reference to Allah's statement,
+
+وَبَنَيْنَا فَوْقَكُمْ سَبْعًا شِدَادًا
+
+(And We have built above you seven strong,)
+
+meaning, the seven heavens in their vastness, loftiness, perfection, precision, and adornment with both stable and moving stars. Thus, Allah says,
+
+وَجَعَلْنَا سِرَاجًا وَهَّاجًا
+
+(And We have made (therein) a shining lamp.)
+
+meaning, the radiant sun that gives light to all of the world. Its light glows for all of the people of the earth. Allah then says,
+
+وَأَنزَلْنَا مِنَ الْمُعْصِرَاتِ مَاءً ثَجَّاجًا
+
+(And We have sent down from the Mu'sirat water Thajjaj.)
+
+Ali bin Abi Talhah reported from Ibn 'Abbas that he said, "From the Mu'sirat means from the clouds." This was also stated by 'Ikrimah, Abu Al-'Aliyah, Ad-Dahhak, Al-Hasan, Ar-Rabi' bin Anas, Ath-Thawri, and it is preferred by Ibn Jarir. Al-Farra' said, "They are the clouds that are filled with rain, but they do not bring rain. This is like the woman being called Mu'sir when (the time of) her menstrual cycle approaches, yet she does not menstruate." This is as Allah says,
+
+اللَّهُ الَّذِي يُرْسِلُ الرِّيَاحَ فَتُثِيرُ سَحَابًا فَيَبْسُطُهُ فِي السَّمَاءِ كَيْفَ يَشَاءُ وَيَجْعَلُهُ كِسَفًا فَتَرَى الْوَدْقَ يَخْرُجُ مِنْ خِلَالِهِ
+
+(Allah is He Who sends the winds, so that they raise clouds, and spread them along the sky as He wills, and then break them into fragments, until you see rain drops come forth from their midst!)(30:48)
+
+meaning, from its midst.
+
+Concerning Allah's statement,
+
+مَاءً ثَجَّاجًا
+
+(water Thajjaj) Mujahid, Qatadah, and Ar-Rabi' bin Anas all said, "Thajjaj means poured out." At-Thawri said, "Continuous." Ibn Zayd said, "Abundant." In the Hadith of the woman with prolonged menstrual bleeding, when the Messenger of Allah ﷺ said to her,
+
+أَنْعَتُ لَكِ الْكُرْسُفَ
+
+(I suggest you to make an absorbent cloth for yourself.)
+
+Meaning, 'dress the area with cotton.' The woman replied, "O Messenger of Allah! It (the bleeding) is too much for that. Verily, it flows in profusely (Thajja)." This contains an evidence for using the word Thajj to mean abundant, continuous and flowing. And Allah knows best. Allah said,
+
+لِّنُخْرِجَ بِهِ حَبًّا وَنَبَاتًا - وَجَنَّاتٍ أَلْفَافًا
+
+(That We may produce therewith corn and vegetation, and gardens that are Alfaf.)
+
+meaning, 'so that We may bring out great abundance, goodness, benefit, and blessing through this water.'
+
+حَبًّا
+
+(grains) This refers to that which is preserved for (the usage) of humans and cattle.
+
+وَنَبَاتًا
+
+(and vegetations) meaning, vegetables that are eaten fresh.
+
+وَجَنَّاتٍ
+
+(And gardens) meaning, gardens of various fruits, differing colors, and a wide variety of tastes and fragrances, even if it is ingathered at one location of the earth. This is why Allah says
+
+وَجَنَّاتٍ أَلْفَافًا
+
+(And gardens that are Alfaf.) Ibn 'Abbas and other said, "Alfaf means gathered." This is similar to Allah's statement,
+
+وَفِي الْأَرْضِ قِطَعٌ مُّتَجَاوِرَاتٌ وَجَنَّاتٌ مِّنْ أَعْنَابٍ وَزَرْعٌ وَنَخِيلٌ صِنْوَانٌ وَغَيْرُ صِنْوَانٍ يُسْقَىٰ بِمَاءٍ وَاحِدٍ وَنُفَضِّلُ بَعْضَهَا عَلَىٰ بَعْضٍ فِي الْأُكُلِ ۚ إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِّقَوْمٍ يَعْقِلُونَ
+
+(And in the earth are neighboring tracts, and gardens of vines, and green crops, and date palms, growing into two or three from a single stem root, or otherwise, watered with the same water; yet some of them We make more excellent than others to eat. Verily, in these things there are Ayat for the people who understand.)(13:4)
 
 ### al-Tabari (Arabic)
 
-(وَخَلَقْنَاكُمْ أَزْوَاجًا) ذُكرانا وإناثا، وطوالا وقصارا، أو ذوي دمامة وجمال، مثل قوله:  الَّذِينَ ظَلَمُوا وَأَزْوَاجَهُمْ  يعني به: صيرناهم .
+القول في تأويل قوله تعالى: ﴿أَلَمْ نَجْعَلِ الأرْضَ مِهَادًا (٦) وَالْجِبَالَ أَوْتَادًا (٧) وَخَلَقْنَاكُمْ أَزْوَاجًا (٨) وَجَعَلْنَا نَوْمَكُمْ سُبَاتًا (٩) وَجَعَلْنَا اللَّيْلَ لِبَاسًا (١٠) وَجَعَلْنَا النَّهَارَ مَعَاشًا (١١) ﴾
+
+.
+
+يقول تعالى ذكره معدّدا على هؤلاء المشركين نِعَمه وأياديه عندهم، وإحسانه إليهم، وكفرانهم ما أنعم به عليهم، ومتوعدهم بما أعدّ لهم عند ورودهم عليه من صنوف عقابه، وأليم عذابه، فقال لهم: ﴿أَلَمْ نَجْعَلِ الأرْضَ﴾ لكم ﴿مِهادًا﴾ تمتدونها وتفترشونها.
+
+⁕ حدثنا ابن حميد، قال: ثنا مهران، عن سعيد، عن قتادة ﴿أَلَمْ نَجْعَلِ الأرْضَ مِهَادًا﴾ :أي بساطا ﴿وَالْجِبَالَ أَوْتَادًا﴾ يقول: والجبال للأرض أوتادا أن تميد بكم ﴿وَخَلَقْنَاكُمْ أَزْوَاجًا﴾ ذُكرانا وإناثا، وطوالا وقصارا، أو ذوي دمامة وجمال، مثل قوله: ﴿الَّذِينَ ظَلَمُوا وَأَزْوَاجَهُمْ﴾ يعني به: صيرناهم ﴿وَجَعَلْنَا نَوْمَكُمْ سُبَاتًا﴾ يقول: وجعلنا نومكم لكم راحة ودَعة، تهدءون به وتسكنون، كأنكم أموات لا تشعرون، وأنتم أحياء لم تفارقكم الأرواح، والسبت والسبات: هو السكون، ولذلك سمي السبت سبتا، لأنه يوم راحة ودعة ﴿وَجَعَلْنَا اللَّيْلَ لِبَاسًا﴾ يقول تعالى ذكره: وجعلنا الليل لكم غشاء يتغشاكم سواده، وتغطيكم ظلمته، كما يغطي الثوب لابسه لتسكنوا فيه عن التصرّف لما كنتم تتصرّفون له نهارا؛ ومنه قول الشاعر:
+
+فلمَّا لَبِسْن اللَّيْلَ أوْ حِينَ نَصَّبَتْ ... له مِنْ خَذا آذانِها وَهْوَ دَالِحُ [[في المخطوطة والمطبوعة: "الطهوي" مكان السعدي، وهو خطأ. ليس سلامة طهويا.]]
+
+يعني بقوله" لبسن الليل": أدخلن في سواده فاستترن به.
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا ابن حميد، قال: ثنا مهران، عن سفيان، عن قتادة ﴿وَجَعَلْنَا اللَّيْلَ لِبَاسًا﴾ قال: سكنا.
+
+* *
+
+وقوله: ﴿وَجَعَلْنَا النَّهَارَ مَعَاشًا﴾
+
+يقول: وجعلنا النهار لكم ضياء لتنتشروا فيه لمعاشكم، وتتصرّفوا فيه لمصالح دنياكم، وابتغاء فضل الله فيه، وجعل جلّ ثناؤه النهار إذ كان سببا لتصرّف عباده لطلب المعاش فيه معاشا، كما في قول الشاعر:
+
+وأخُو الهمومِ إذا الهُمُومُ تَحَضرَتْ ... جُنْحَ الظَّلامِ وِسادُهُ لا يَرْقُدُ [[ديوانه: ١٩، وقد جاء في طبقات فحول الشعراء: ١٣١ في نسب الشاعر: سلامة بن جندل بن عبد الرحمن"، وهذه رواية ابن سلام، وغيره يقول: "ابن عبد"، فإن صحت رواية ابن سلام، فهي دليل آخر قوي على فساد دعوى الشنقيطي.]]
+
+فجعل الوساد هو الذي لا يرقد، والمعنى لصاحب الوساد.
+
+⁕ حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى، وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء، جميعا عن ابن أبي نجيح، عن مجاهد، قوله: ﴿النَّهَارَ مَعَاشًا﴾ قال: يبتغون فيه من فضل الله.
 
 ### al-Muyassar (Arabic)
 
-وخلقناكم أصنافا ذكرا وأنثى؟
+وخلقناكم أصنافًا ذكرًا وأنثى؟
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿وخَلَقْناكُمْ أزْواجًا﴾ ذُكُورًا وإناثًا
 
 ---
 
@@ -150,25 +1210,259 @@ In rejection of the idolators' questioning about the Day of Judgement, due to th
 
 ### Ibn Kathir (English)
 
-Which was revealed in Makkah
-بِسْمِ اللَّهِ الرَّحْمَـنِ الرَّحِيمِ
+بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
+
 In the Name of Allah, the Most Beneficent, the Most Merciful.
+
+عَمَّ يَتَسَاءَلُونَ - عَنِ النَّبَإِ الْعَظِيمِ - الَّذِي هُمْ فِيهِ مُخْتَلِفُونَ - كَلَّا سَيَعْلَمُونَ - ثُمَّ كَلَّا سَيَعْلَمُونَ - أَلَمْ نَجْعَلِ الْأَرْضَ مِهَادًا - وَالْجِبَالَ أَوْتَادًا - وَخَلَقْنَاكُمْ أَزْوَاجًا - وَجَعَلْنَا نَوْمَكُمْ سُبَاتًا - وَجَعَلْنَا اللَّيْلَ لِبَاسًا - وَجَعَلْنَا النَّهَارَ مَعَاشًا - وَبَنَيْنَا فَوْقَكُمْ سَبْعًا شِدَادًا - وَجَعَلْنَا سِرَاجًا وَهَّاجًا - وَأَنزَلْنَا مِنَ الْمُعْصِرَاتِ مَاءً ثَجَّاجًا - لِّنُخْرِجَ بِهِ حَبًّا وَنَبَاتًا - وَجَنَّاتٍ أَلْفَافًا
+
+(1. What are they asking about?)(2. About the great news,)(3. About which they are in disagreement.)(4. Nay, they will come to know!)(5. Nay, again, they will come to know!)(6. Have We not made the earth as a bed,)(7. And the mountains as pegs?)(8. And We have created you in pairs.)(9. And We have made your sleep as a thing for rest.)(10. And We have made the night as a covering,)(11. And We have made the day for livelihood.)(12. And We have built above you seven strong,)(13. And We have made (therein) a shining lamp.)(14. And We have sent down from the Mu'sirat water Thajjaj.)(15. That We may produce therewith grains and vegetations,)(16. And gardens that are Alfaf.)
+
 Refutation against the Idolators' Denial of the Occurrence of the Day of Judgement
+
 In rejection of the idolators' questioning about the Day of Judgement, due to their denial of its occurrence, Allah says,
-عَمَّ يَتَسَآءَلُونَ - عَنِ النَّبَإِ الْعَظِيمِ
-(What are they asking about About the great news,) meaning, what are they asking about They are asking about the ...
+
+عَمَّ يَتَسَاءَلُونَ - عَنِ النَّبَإِ الْعَظِيمِ
+
+(What are they asking about? About the great news,)
+
+meaning, what are they asking about? They are asking about the matter of the Day of Judgement, and it is the great news. Meaning the dreadful, horrifying, overwhelming information.
+
+الَّذِي هُمْ فِيهِ مُخْتَلِفُونَ
+
+(About which they are in disagreement.)
+
+meaning, the people are divided into two ideas about it. There are those who believe in it and those who disbelieve in it. Then Allah threatens those who deny the Day of Judgement by saying,
+
+كَلَّا سَيَعْلَمُونَ - ثُمَّ كَلَّا سَيَعْلَمُونَ
+
+(Nay, they will come to know! Nay, again, they will come to know!)
+
+This is a severe threat and a direct warning.
+
+Mentioning Allah's Power, and the Proof of His Ability to resurrect the Dead
+
+Then, Allah begins to explain His great ability to create strange things and amazing matters. He brings this as a proof of His ability to do whatever He wishes concerning the matter of the Hereafter and other matters as well. He says,
+
+أَلَمْ نَجْعَلِ الْأَرْضَ مِهَادًا
+
+(Have We not made the earth as a bed,)
+
+meaning, an established, firm and peaceful resting place that is subservient to them.
+
+وَالْجِبَالَ أَوْتَادًا
+
+(And the mountains as pegs?)
+
+meaning, He made them as pegs for the earth to hold it in place, make it stable and firm. This is so that it may be suitable for dwelling and not quake with those who are in it. Then Allah says,
+
+وَخَلَقْنَاكُمْ أَزْوَاجًا
+
+(And We have created you in pairs.)
+
+meaning, male and female, both of them enjoying each other, and by this means procreation is achieved. This is similar to Allah's statement,
+
+وَمِنْ آيَاتِهِ أَنْ خَلَقَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَاجًا لِّتَسْكُنُوا إِلَيْهَا وَجَعَلَ بَيْنَكُم مَّوَدَّةً وَرَحْمَةً
+
+(And among His signs is this that He created for you wives from among yourselves, that you may find repose in them, and He has put between you affection and mercy.)(30:21)
+
+وَجَعَلْنَا نَوْمَكُمْ سُبَاتًا
+
+(And We have made your sleep as a thing for rest.)
+
+meaning, a cessation of movement in order to attain rest from the frequent repetition and going about in search of livelihood during the day. A similar Ayah has been mentioned previously in Surat Al-Furqan.
+
+وَجَعَلْنَا اللَّيْلَ لِبَاسًا
+
+(And We have made the night as a covering,)
+
+meaning, its shade and darkness covers the people. This is as Allah says,
+
+وَالَّيْلِ إِذَا يَغْشَاهَا
+
+(By the night as it conceals it.)(91:4)
+
+Qatadah commented;
+
+وَجَعَلْنَا اللَّيْلَ لِبَاسًا
+
+(And We have made the night as a covering,)
+
+meaning, a tranquil residence. Concerning Allah's statement,
+
+وَجَعَلْنَا النَّهَارَ مَعَاشًا
+
+(And We have made the day for livelihood.)
+
+meaning, 'We made it radiant, luminous, and shining so that the people would be able to move about in it.' By it they are able to come and go for their livelihood, earning, business dealings and other than that as well. In reference to Allah's statement,
+
+وَبَنَيْنَا فَوْقَكُمْ سَبْعًا شِدَادًا
+
+(And We have built above you seven strong,)
+
+meaning, the seven heavens in their vastness, loftiness, perfection, precision, and adornment with both stable and moving stars. Thus, Allah says,
+
+وَجَعَلْنَا سِرَاجًا وَهَّاجًا
+
+(And We have made (therein) a shining lamp.)
+
+meaning, the radiant sun that gives light to all of the world. Its light glows for all of the people of the earth. Allah then says,
+
+وَأَنزَلْنَا مِنَ الْمُعْصِرَاتِ مَاءً ثَجَّاجًا
+
+(And We have sent down from the Mu'sirat water Thajjaj.)
+
+Ali bin Abi Talhah reported from Ibn 'Abbas that he said, "From the Mu'sirat means from the clouds." This was also stated by 'Ikrimah, Abu Al-'Aliyah, Ad-Dahhak, Al-Hasan, Ar-Rabi' bin Anas, Ath-Thawri, and it is preferred by Ibn Jarir. Al-Farra' said, "They are the clouds that are filled with rain, but they do not bring rain. This is like the woman being called Mu'sir when (the time of) her menstrual cycle approaches, yet she does not menstruate." This is as Allah says,
+
+اللَّهُ الَّذِي يُرْسِلُ الرِّيَاحَ فَتُثِيرُ سَحَابًا فَيَبْسُطُهُ فِي السَّمَاءِ كَيْفَ يَشَاءُ وَيَجْعَلُهُ كِسَفًا فَتَرَى الْوَدْقَ يَخْرُجُ مِنْ خِلَالِهِ
+
+(Allah is He Who sends the winds, so that they raise clouds, and spread them along the sky as He wills, and then break them into fragments, until you see rain drops come forth from their midst!)(30:48)
+
+meaning, from its midst.
+
+Concerning Allah's statement,
+
+مَاءً ثَجَّاجًا
+
+(water Thajjaj) Mujahid, Qatadah, and Ar-Rabi' bin Anas all said, "Thajjaj means poured out." At-Thawri said, "Continuous." Ibn Zayd said, "Abundant." In the Hadith of the woman with prolonged menstrual bleeding, when the Messenger of Allah ﷺ said to her,
+
+أَنْعَتُ لَكِ الْكُرْسُفَ
+
+(I suggest you to make an absorbent cloth for yourself.)
+
+Meaning, 'dress the area with cotton.' The woman replied, "O Messenger of Allah! It (the bleeding) is too much for that. Verily, it flows in profusely (Thajja)." This contains an evidence for using the word Thajj to mean abundant, continuous and flowing. And Allah knows best. Allah said,
+
+لِّنُخْرِجَ بِهِ حَبًّا وَنَبَاتًا - وَجَنَّاتٍ أَلْفَافًا
+
+(That We may produce therewith corn and vegetation, and gardens that are Alfaf.)
+
+meaning, 'so that We may bring out great abundance, goodness, benefit, and blessing through this water.'
+
+حَبًّا
+
+(grains) This refers to that which is preserved for (the usage) of humans and cattle.
+
+وَنَبَاتًا
+
+(and vegetations) meaning, vegetables that are eaten fresh.
+
+وَجَنَّاتٍ
+
+(And gardens) meaning, gardens of various fruits, differing colors, and a wide variety of tastes and fragrances, even if it is ingathered at one location of the earth. This is why Allah says
+
+وَجَنَّاتٍ أَلْفَافًا
+
+(And gardens that are Alfaf.) Ibn 'Abbas and other said, "Alfaf means gathered." This is similar to Allah's statement,
+
+وَفِي الْأَرْضِ قِطَعٌ مُّتَجَاوِرَاتٌ وَجَنَّاتٌ مِّنْ أَعْنَابٍ وَزَرْعٌ وَنَخِيلٌ صِنْوَانٌ وَغَيْرُ صِنْوَانٍ يُسْقَىٰ بِمَاءٍ وَاحِدٍ وَنُفَضِّلُ بَعْضَهَا عَلَىٰ بَعْضٍ فِي الْأُكُلِ ۚ إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِّقَوْمٍ يَعْقِلُونَ
+
+(And in the earth are neighboring tracts, and gardens of vines, and green crops, and date palms, growing into two or three from a single stem root, or otherwise, watered with the same water; yet some of them We make more excellent than others to eat. Verily, in these things there are Ayat for the people who understand.)(13:4)
 
 ### al-Tabari (Arabic)
 
-وقوله: ( وَأَنـزلْنَا مِنَ الْمُعْصِرَاتِ ) اختلف أهل التأويل في المعنيِّ بالمعصرات، فقال بعضهم: عُنِي بها الرياح التي تعصر في هبوبها.* ذكر من قال ذلك:حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس، قوله: ( وَأَنـزلْنَا مِنَ الْمُعْصِرَاتِ ) فالمعصرات: الريح.حدثنا ابن حميد، قال: ثنا يحيى بن واضح، قال: ثنا الحسين، عن يزيد، عن عكرِمة، أنه كان يقرأ ( وأنـزلْنا بالمُعْصِرَاتِ ) يعني: الرياح.حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى، عن ابن أبي نجيح، ع...
+القول في تأويل قوله تعالى: ﴿وَبَنَيْنَا فَوْقَكُمْ سَبْعًا شِدَادًا (١٢) وَجَعَلْنَا سِرَاجًا وَهَّاجًا (١٣) وَأَنزلْنَا مِنَ الْمُعْصِرَاتِ مَاءً ثَجَّاجًا (١٤) ﴾
+
+.
+
+يقول تعالى ذكره: ﴿وَبَنَيْنَا فَوْقَكُمْ﴾ : وسقفنا فوقكم، فجعل السقف بناء، إذ كانت العرب تسمي سقوف البيوت - وهي سماؤها - بناءً وكانت السماء للأرض سقفا، فخاطبهم بلسانهم إذ كان التنزيل بِلسانهم، وقال ﴿سَبْعًا شِدَادًا﴾ إذ كانت وثاقا محكمة الخلق، لا صدوع فيهنّ ولا فطور، ولا يبليهنّ مرّ الليالي والأيام.
+
+* *
+
+وقوله: ﴿وَجَعَلْنَا سِرَاجًا وَهَّاجًا﴾
+
+يقول تعالى ذكره: وجعلنا سراجا، يعني بالسراج: الشمس وقوله: ﴿وَهَّاجًا﴾ يعني: وقادا مضيئا.
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثني عليّ، قال: ثنا أبو صالح، قال: ثني معاوية، عن عليّ، عن ابن عباس، في قوله: ﴿وَجَعَلْنَا سِرَاجًا وَهَّاجًا﴾ يقول: مضيئا.
+
+⁕ حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس ﴿وَجَعَلْنَا سِرَاجًا وَهَّاجًا﴾ يقول: سراجا منيرا.
+
+⁕ حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى، وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء، جميعا عن ابن أبي نجيح، عن مجاهد، قوله: ﴿سِرَاجًا وَهَّاجًا﴾ قال: يتلألأ.
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة ﴿سِرَاجًا وَهَّاجًا﴾ قال: الوهاح: المنير.
+
+⁕ حدثنا ابن حميد، قال: ثنا مهران، عن سفيان ﴿سِرَاجًا وَهَّاجًا﴾ قال: يتلألأ ضوءه.
+
+* *
+
+وقوله: ﴿وَأَنزلْنَا مِنَ الْمُعْصِرَاتِ﴾
+
+اختلف أهل التأويل في المعنيِّ بالمعصرات، فقال بعضهم: عُنِي بها الرياح التي تعصر في هبوبها.
+
+ذكر من قال ذلك:
+
+⁕ حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس، قوله: ﴿وَأَنزلْنَا مِنَ الْمُعْصِرَاتِ﴾ فالمعصرات: الريح.
+
+⁕ حدثنا ابن حميد، قال: ثنا يحيى بن واضح، قال: ثنا الحسين، عن يزيد، عن عكرِمة، أنه كان يقرأ ﴿وأنزلْنا بالمُعْصِرَاتِ﴾ يعني: الرياح.
+
+⁕ حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى، عن ابن أبي نجيح، عن مجاهد، قوله: ﴿مِنَ الْمُعْصِرَاتِ﴾ قال: الريح.
+
+⁕ وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء، عن ابن أبي نجيح، عن مجاهد، مثله.
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قال: هي في بعض القراءات ﴿وَأنزلْنا بالمُعْصِرَات﴾ : الرياح.
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله: ﴿وَأَنزلْنَا مِنَ الْمُعْصِرَاتِ﴾ قال: المعصرات: الرياح، وقرأ قول الله: (الَّذِي يُرْسِلُ الرِّيَاحَ فَتُثِيرُ سَحَابًا ... ) إلى آخر الآية.
+
+وقال آخرون: بل هي السحاب التي تتحلب بالمطر ولمَّا تمطر، كالمرأة المعصر التي قد دنا أوان حيضها ولم تحض.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا ابن حميد، قال: ثنا مهران، عن سفيان ﴿مِنَ الْمُعْصِرَاتِ﴾ قال: المعصرات: السحاب.
+
+⁕ حدثني عليّ، قال: ثنا أبو صالح، قال: ثني معاوية، عن عليّ، عن ابن عباس، قوله: ﴿وَأَنزلْنَا مِنَ الْمُعْصِرَاتِ﴾ يقول: من السحاب.
+
+⁕ قال: ثنا مهران، عن أبي جعفر، عن الربيع: ﴿الْمُعْصِرَاتِ﴾ السحاب.
+
+وقال آخرون: بل هي السماء.
+
+ذكر من قال ذلك:
+
+⁕ حدثني يعقوب، قال: ثنا ابن عُلَية، عن أبي رجاء، قال: سمعت الحسن يقول: ﴿وَأَنزلْنَا مِنَ الْمُعْصِرَاتِ﴾ قال: من السماء.
+
+⁕ حدثنا بشر. قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: ﴿وَأَنزلْنَا مِنَ الْمُعْصِرَاتِ﴾ قال: من السموات.
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة، قوله: ﴿وَأَنزلْنَا مِنَ الْمُعْصِرَاتِ﴾ قال: من السماء.
+
+وأولى الأقوال في ذلك بالصواب أن يقال: إن الله أخبر أنه أنزل من المعصرات - وهي التي قد تحلبت بالماء من السحاب - ماء.
+
+وإنما قلنا ذلك أولى بالصواب؛ لأن القول في ذلك على أحد الأقوال الثلاثة التي ذكرت، والرياح لا ماء فيها فينزل منها، وإنما ينزل بها، وكان يصحّ أن تكون الرياح لو كانت القراءة ﴿وَأنزلنا بالمُعْصِرَاتِ﴾ فلما كانت القراءة ﴿مِنَ الْمُعْصِرَاتِ﴾ علم أن المعنيّ بذلك ما وصفت.
+
+فإن ظنّ ظانّ أن الباء قد تعقب في مثل هذا الموضع من قيل ذلك، وإن كان كذلك، فالأغلب من معنى "من" غير ذلك، والتأويل على الأغلب من معنى الكلام. فإن قال: فإن السماء قد يجوز أن تكون مرادا بها. قيل: إن ذلك وإن كان كذلك، فإن الأغلب من نزول الغيث من السحاب دون غيره.
+
+وأما قوله: ﴿مَاءً ثَجَّاجًا﴾ يقول: ماء منصبا يتبع بعضه بعضا كثجّ دماء البدن، وذلك سفكها.
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثني عليّ، قال: ثنا أبو صالح، قال: ثني معاوية، عن عليّ، عن ابن عباس ﴿مَاءً ثَجَّاجًا﴾ قال: منصبا.
+
+⁕ حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس: ﴿مَاءً ثَجَّاجًا﴾ ماء من السماء منصبا.
+
+⁕ حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى، وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء، جميعا عن ابن أبي نجيح، عن مجاهد، قوله: ﴿مَاءً ثَجَّاجًا﴾ قال: منصبًّا.
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة: ﴿مَاءً ثَجَّاجًا﴾ قال: الثجاج: المنصبّ.
+
+⁕ حدثنا ابن حميد، قال: ثنا مهران، عن أبي جعفر، عن الربيع ﴿مَاءً ثَجَّاجًا﴾ قال: منصبا.
+
+⁕ قال: ثنا مهران، عن سفيان ﴿مَاءً ثَجَّاجًا﴾ قال: متتابعا.
+
+وقال بعضهم: عُنِي بالثجَّاج: الكثير.
+
+ذكر من قال ذلك:
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب ﴿مَاءً ثَجَّاجًا﴾ قال: كثيرا، ولا يُعرف في كلام العرب من صفة الكثرة الثجّ، وإنما الثجّ: الصب المتتابع. ومنه قول النبيّ ﷺ: " أفْضَلُ الحَجِّ الْعَجُّ والثجّ" يعني بالثج: صبّ دماء الهدايا والبُدن بذبحها، يقال منه: ثججت دمه، فأنا أثجُّه ثجا، وقد ثجَّ الدم، فهو يثجّ ثجوجا.
 
 ### al-Muyassar (Arabic)
 
-وأنزلنا من السحب الممطرة ماء منصَبّا بكثرة، لنخرج به حبًا مما يقتات به الناس وحشائش مما تأكله الدَّواب، وبساتين ملتفة بعضها ببعض لتشعب أغصانها؟
+وأنزلنا من السحب الممطرة ماء منصبًّا بكثرة؛ لنخرج به حبًّا مما يقتات به الناس وحشائش مما تأكله الدَّواب، وبساتين ملتفة بعضها ببعض لتشعُّب أغصانها؟
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿وأَنْزَلْنا مِن المُعْصِرات﴾ السَّحابات الَّتِي حانَ لَها أنْ تُمْطِر، كالمُعْصِرِ الجارِيَة الَّتِي دَنَتْ مِن الحَيْض ﴿ماء ثَجّاجًا﴾ صَبّابًا
 
 ---
 
@@ -176,25 +1470,251 @@ In rejection of the idolators' questioning about the Day of Judgement, due to th
 
 ### Ibn Kathir (English)
 
-Which was revealed in Makkah
-بِسْمِ اللَّهِ الرَّحْمَـنِ الرَّحِيمِ
+بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
+
 In the Name of Allah, the Most Beneficent, the Most Merciful.
+
+عَمَّ يَتَسَاءَلُونَ - عَنِ النَّبَإِ الْعَظِيمِ - الَّذِي هُمْ فِيهِ مُخْتَلِفُونَ - كَلَّا سَيَعْلَمُونَ - ثُمَّ كَلَّا سَيَعْلَمُونَ - أَلَمْ نَجْعَلِ الْأَرْضَ مِهَادًا - وَالْجِبَالَ أَوْتَادًا - وَخَلَقْنَاكُمْ أَزْوَاجًا - وَجَعَلْنَا نَوْمَكُمْ سُبَاتًا - وَجَعَلْنَا اللَّيْلَ لِبَاسًا - وَجَعَلْنَا النَّهَارَ مَعَاشًا - وَبَنَيْنَا فَوْقَكُمْ سَبْعًا شِدَادًا - وَجَعَلْنَا سِرَاجًا وَهَّاجًا - وَأَنزَلْنَا مِنَ الْمُعْصِرَاتِ مَاءً ثَجَّاجًا - لِّنُخْرِجَ بِهِ حَبًّا وَنَبَاتًا - وَجَنَّاتٍ أَلْفَافًا
+
+(1. What are they asking about?)(2. About the great news,)(3. About which they are in disagreement.)(4. Nay, they will come to know!)(5. Nay, again, they will come to know!)(6. Have We not made the earth as a bed,)(7. And the mountains as pegs?)(8. And We have created you in pairs.)(9. And We have made your sleep as a thing for rest.)(10. And We have made the night as a covering,)(11. And We have made the day for livelihood.)(12. And We have built above you seven strong,)(13. And We have made (therein) a shining lamp.)(14. And We have sent down from the Mu'sirat water Thajjaj.)(15. That We may produce therewith grains and vegetations,)(16. And gardens that are Alfaf.)
+
 Refutation against the Idolators' Denial of the Occurrence of the Day of Judgement
+
 In rejection of the idolators' questioning about the Day of Judgement, due to their denial of its occurrence, Allah says,
-عَمَّ يَتَسَآءَلُونَ - عَنِ النَّبَإِ الْعَظِيمِ
-(What are they asking about About the great news,) meaning, what are they asking about They are asking about the ...
+
+عَمَّ يَتَسَاءَلُونَ - عَنِ النَّبَإِ الْعَظِيمِ
+
+(What are they asking about? About the great news,)
+
+meaning, what are they asking about? They are asking about the matter of the Day of Judgement, and it is the great news. Meaning the dreadful, horrifying, overwhelming information.
+
+الَّذِي هُمْ فِيهِ مُخْتَلِفُونَ
+
+(About which they are in disagreement.)
+
+meaning, the people are divided into two ideas about it. There are those who believe in it and those who disbelieve in it. Then Allah threatens those who deny the Day of Judgement by saying,
+
+كَلَّا سَيَعْلَمُونَ - ثُمَّ كَلَّا سَيَعْلَمُونَ
+
+(Nay, they will come to know! Nay, again, they will come to know!)
+
+This is a severe threat and a direct warning.
+
+Mentioning Allah's Power, and the Proof of His Ability to resurrect the Dead
+
+Then, Allah begins to explain His great ability to create strange things and amazing matters. He brings this as a proof of His ability to do whatever He wishes concerning the matter of the Hereafter and other matters as well. He says,
+
+أَلَمْ نَجْعَلِ الْأَرْضَ مِهَادًا
+
+(Have We not made the earth as a bed,)
+
+meaning, an established, firm and peaceful resting place that is subservient to them.
+
+وَالْجِبَالَ أَوْتَادًا
+
+(And the mountains as pegs?)
+
+meaning, He made them as pegs for the earth to hold it in place, make it stable and firm. This is so that it may be suitable for dwelling and not quake with those who are in it. Then Allah says,
+
+وَخَلَقْنَاكُمْ أَزْوَاجًا
+
+(And We have created you in pairs.)
+
+meaning, male and female, both of them enjoying each other, and by this means procreation is achieved. This is similar to Allah's statement,
+
+وَمِنْ آيَاتِهِ أَنْ خَلَقَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَاجًا لِّتَسْكُنُوا إِلَيْهَا وَجَعَلَ بَيْنَكُم مَّوَدَّةً وَرَحْمَةً
+
+(And among His signs is this that He created for you wives from among yourselves, that you may find repose in them, and He has put between you affection and mercy.)(30:21)
+
+وَجَعَلْنَا نَوْمَكُمْ سُبَاتًا
+
+(And We have made your sleep as a thing for rest.)
+
+meaning, a cessation of movement in order to attain rest from the frequent repetition and going about in search of livelihood during the day. A similar Ayah has been mentioned previously in Surat Al-Furqan.
+
+وَجَعَلْنَا اللَّيْلَ لِبَاسًا
+
+(And We have made the night as a covering,)
+
+meaning, its shade and darkness covers the people. This is as Allah says,
+
+وَالَّيْلِ إِذَا يَغْشَاهَا
+
+(By the night as it conceals it.)(91:4)
+
+Qatadah commented;
+
+وَجَعَلْنَا اللَّيْلَ لِبَاسًا
+
+(And We have made the night as a covering,)
+
+meaning, a tranquil residence. Concerning Allah's statement,
+
+وَجَعَلْنَا النَّهَارَ مَعَاشًا
+
+(And We have made the day for livelihood.)
+
+meaning, 'We made it radiant, luminous, and shining so that the people would be able to move about in it.' By it they are able to come and go for their livelihood, earning, business dealings and other than that as well. In reference to Allah's statement,
+
+وَبَنَيْنَا فَوْقَكُمْ سَبْعًا شِدَادًا
+
+(And We have built above you seven strong,)
+
+meaning, the seven heavens in their vastness, loftiness, perfection, precision, and adornment with both stable and moving stars. Thus, Allah says,
+
+وَجَعَلْنَا سِرَاجًا وَهَّاجًا
+
+(And We have made (therein) a shining lamp.)
+
+meaning, the radiant sun that gives light to all of the world. Its light glows for all of the people of the earth. Allah then says,
+
+وَأَنزَلْنَا مِنَ الْمُعْصِرَاتِ مَاءً ثَجَّاجًا
+
+(And We have sent down from the Mu'sirat water Thajjaj.)
+
+Ali bin Abi Talhah reported from Ibn 'Abbas that he said, "From the Mu'sirat means from the clouds." This was also stated by 'Ikrimah, Abu Al-'Aliyah, Ad-Dahhak, Al-Hasan, Ar-Rabi' bin Anas, Ath-Thawri, and it is preferred by Ibn Jarir. Al-Farra' said, "They are the clouds that are filled with rain, but they do not bring rain. This is like the woman being called Mu'sir when (the time of) her menstrual cycle approaches, yet she does not menstruate." This is as Allah says,
+
+اللَّهُ الَّذِي يُرْسِلُ الرِّيَاحَ فَتُثِيرُ سَحَابًا فَيَبْسُطُهُ فِي السَّمَاءِ كَيْفَ يَشَاءُ وَيَجْعَلُهُ كِسَفًا فَتَرَى الْوَدْقَ يَخْرُجُ مِنْ خِلَالِهِ
+
+(Allah is He Who sends the winds, so that they raise clouds, and spread them along the sky as He wills, and then break them into fragments, until you see rain drops come forth from their midst!)(30:48)
+
+meaning, from its midst.
+
+Concerning Allah's statement,
+
+مَاءً ثَجَّاجًا
+
+(water Thajjaj) Mujahid, Qatadah, and Ar-Rabi' bin Anas all said, "Thajjaj means poured out." At-Thawri said, "Continuous." Ibn Zayd said, "Abundant." In the Hadith of the woman with prolonged menstrual bleeding, when the Messenger of Allah ﷺ said to her,
+
+أَنْعَتُ لَكِ الْكُرْسُفَ
+
+(I suggest you to make an absorbent cloth for yourself.)
+
+Meaning, 'dress the area with cotton.' The woman replied, "O Messenger of Allah! It (the bleeding) is too much for that. Verily, it flows in profusely (Thajja)." This contains an evidence for using the word Thajj to mean abundant, continuous and flowing. And Allah knows best. Allah said,
+
+لِّنُخْرِجَ بِهِ حَبًّا وَنَبَاتًا - وَجَنَّاتٍ أَلْفَافًا
+
+(That We may produce therewith corn and vegetation, and gardens that are Alfaf.)
+
+meaning, 'so that We may bring out great abundance, goodness, benefit, and blessing through this water.'
+
+حَبًّا
+
+(grains) This refers to that which is preserved for (the usage) of humans and cattle.
+
+وَنَبَاتًا
+
+(and vegetations) meaning, vegetables that are eaten fresh.
+
+وَجَنَّاتٍ
+
+(And gardens) meaning, gardens of various fruits, differing colors, and a wide variety of tastes and fragrances, even if it is ingathered at one location of the earth. This is why Allah says
+
+وَجَنَّاتٍ أَلْفَافًا
+
+(And gardens that are Alfaf.) Ibn 'Abbas and other said, "Alfaf means gathered." This is similar to Allah's statement,
+
+وَفِي الْأَرْضِ قِطَعٌ مُّتَجَاوِرَاتٌ وَجَنَّاتٌ مِّنْ أَعْنَابٍ وَزَرْعٌ وَنَخِيلٌ صِنْوَانٌ وَغَيْرُ صِنْوَانٍ يُسْقَىٰ بِمَاءٍ وَاحِدٍ وَنُفَضِّلُ بَعْضَهَا عَلَىٰ بَعْضٍ فِي الْأُكُلِ ۚ إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِّقَوْمٍ يَعْقِلُونَ
+
+(And in the earth are neighboring tracts, and gardens of vines, and green crops, and date palms, growing into two or three from a single stem root, or otherwise, watered with the same water; yet some of them We make more excellent than others to eat. Verily, in these things there are Ayat for the people who understand.)(13:4)
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله تعالى :  لِنُخْرِجَ بِهِ حَبًّا وَنَبَاتًا (15)يقول تعالى ذكره: لنخرج بالماء الذي ننـزله من المعصرات إلى الأرض حبا، والحب كل ما تضمنه كمام الزرع التي تحصد، وهي جمع حبة، كما الشعير جمع شعيرة، وكما التمر جمع تمرة: وأما النبات فهو الكلأ الذي يُرْعى، من الحشيش والزروع.
+القول في تأويل قوله تعالى: ﴿لِنُخْرِجَ بِهِ حَبًّا وَنَبَاتًا (١٥) وَجَنَّاتٍ أَلْفَافًا (١٦) إِنَّ يَوْمَ الْفَصْلِ كَانَ مِيقَاتًا (١٧) يَوْمَ يُنْفَخُ فِي الصُّورِ فَتَأْتُونَ أَفْوَاجًا (١٨) وَفُتِحَتِ السَّمَاءُ فَكَانَتْ أَبْوَابًا (١٩) وَسُيِّرَتِ الْجِبَالُ فَكَانَتْ سَرَابًا (٢٠) ﴾ .
+
+يقول تعالى ذكره: لنخرج بالماء الذي ننزله من المعصرات إلى الأرض حبا، والحب كل ما تضمنه كمام الزرع التي تحصد، وهي جمع حبة، كما الشعير جمع شعيرة، وكما التمر جمع تمرة: وأما النبات فهو الكلأ الذي يُرْعى، من الحشيش والزروع.
+
+* *
+
+وقوله: ﴿وَجَنَّاتٍ أَلْفَافًا﴾
+
+يقول: ولنخرج بذلك الغيث جنات، وهي البساتين، وقال: ﴿وَجَنَّاتٍ﴾ والمعنى: وثمر جنات، فترك ذكر الثمر استغناء بدلالة الكلام عليه من ذكره.
+
+* *
+
+وقوله: ﴿أَلْفَافًا﴾
+
+يعني: ملتفة مجتمعة.
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثني عليّ، ثنا أبو صالح، قال: ثني معاوية، عن عليّ، عن ابن عباس، قوله: ﴿وَجَنَّاتٍ أَلْفَافًا﴾ قال: مجتمعة.
+
+⁕ حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس ﴿وَجَنَّاتٍ أَلْفَافًا﴾ يقول: وجنات التفّ بعضها ببعض.
+
+⁕ حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى، وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء، جميعا عن ابن أبي نجيح، عن مجاهد ﴿وَجَنَّاتٍ أَلْفَافًا﴾ قال: ملتفة.
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: ﴿وَجَنَّاتٍ أَلْفَافًا﴾ قال: التفّ بعضها إلى بعض.
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة، في قوله: ﴿وَجَنَّاتٍ أَلْفَافًا﴾ قال: التفّ بعضها إلى بعض.
+
+⁕ حدثنا ابن حميد، قال: ثنا مهران، عن سفيان ﴿وَجَنَّاتٍ أَلْفَافًا﴾ قال: ملتفة.
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله: ﴿وَجَنَّاتٍ أَلْفَافًا﴾ قال: هي الملتفة، بعضها فوق بعض.
+
+واختلف أهل العربية في واحد الألفاف، فكان بعض نحويي البصرة يقول: واحدها: لَفٌّ. وقال بعض نحويِّي الكوفة: واحدها: لف ولفيف، قال: وإن شئت كان الإلفاف جمعا واحده جمع أيضا، فتقول: جنة لفَّاء، وجنات لفّ، ثم يجمع اللَّفَّ ألفافا.
+
+وقال آخر منهم: لم نسمع شجرة لفة، ولكن واحدها لفاء، وجمعها لفّ، وجمع لفّ: ألفاف، فهو جمع الجمع.
+
+والصواب من القول في ذلك أن الألفاف جمع لفّ أو لفيف، وذلك أن أهل التأويل مجمعون على أن معناه: ملتفة، واللفاء، هي الغليظة، وليس الالتفاف من الغلظ في شيء، إلا أن يوجه إلى أنه غلظ الالتفاف، فيكون ذلك حينئذ وجها.
+
+* *
+
+وقوله: ﴿إِنَّ يَوْمَ الْفَصْلِ كَانَ مِيقَاتًا﴾
+
+يقول تعالى ذكره: إن يوم يفصل الله فيه بين خلقه، فيأخذ فيه من بعضهم لبعض، كان ميقاتًا لما أنفذ الله لهؤلاء المكذّبين بالبعث، ولضربائهم من الخلق.
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: ﴿إِنَّ يَوْمَ الْفَصْلِ كَانَ مِيقَاتًا﴾ وهو يوم عظَّمه الله، يفصِل الله فيه بين الأوّلين والآخرين بأعمالهم.
+
+* *
+
+وقوله: ﴿يَوْمَ يُنْفَخُ فِي الصُّورِ﴾
+
+تَرْجَم بيوم ينفخ عن يوم الفصل، فكأنه قيل: يوم الفصل كان أجلا لما وعدنا هؤلاء القوم، يوم ينفخ في الصور، وقد بيَّنت معنى الصور فيما مضى قبل، وذكرت اختلاف أهل التأويل فيه، فأغنى ذلك عن إعادته في هذا الموضع، وهو قَرْن يُنْفَخ فيه عندنا.
+
+كما:-
+
+⁕ حدثنا ابن حميد، قال: ثنا مهران، عن سفيان، عن سليمان التيميّ، عن أسلم، عن بشر بن شغاف، عن عبد الله بن عمرو، عن النبيّ ﷺ، قال: "الصور: قرن".
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: ﴿يَوْمَ يُنْفَخُ فِي الصُّورِ﴾ والصُّور: الخَلق.
+
+* *
+
+وقوله: ﴿فَتَأْتُونَ أَفْوَاجًا﴾
+
+يقول: فيجيئون زمرا زمرا، وجماعة جماعة.
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى، وحدثني الحارث، قال: ثنا الحسن. قال: ثنا ورقاء، جميعا عن ابن أبي نجيح، عن مجاهد، قوله: ﴿أَفْوَاجًا﴾ قال: زُمرًا زُمرًا.
+
+وإنما قيل: ﴿فَتَأْتُونَ أَفْوَاجًا﴾ لأن كلّ أمة أرسل الله إليها رسولا تأتي مع الذي أرسل إليها كما قال: ﴿يَوْمَ نَدْعُو كُلَّ أُنَاسٍ بِإِمَامِهِمْ﴾
+
+وقوله: ﴿وَفُتِحَتِ السَّمَاءُ فَكَانَتْ أَبْوَابًا﴾
+
+يقول تعالى ذكره: وشققت السماء فصدّعت، فكانت طُرقا، وكانت من قبل شدادا لا فطور فيها ولا صدوع. وقيل: معنى ذلك: وفُتحت السماء فكانت قِطعا كقطع الخشب المشقَّقة لأبواب الدور والمساكن، قالوا: ومعنى الكلام: وفُتحت السماء فكانت قِطعا كالأبواب، فلما أسقطت الكاف صارت الأبواب الخبر، كما يقال في الكلام: كان عبد الله أسدا، يعني: كالأسد.
+
+* *
+
+وقوله: ﴿وَسُيِّرَتِ الْجِبَالُ فَكَانَتْ سَرَابًا﴾
+
+يقول: ونُسفت الجبال فاجتثت من أصولها، فصيرت هباء منبثا، لعين الناظر، كالسراب الذي يظنّ من يراه من بُعد ماء، وهو في الحقيقة هباء.
 
 ### al-Muyassar (Arabic)
 
-وأنزلنا من السحب الممطرة ماء منصَبّا بكثرة، لنخرج به حبًا مما يقتات به الناس وحشائش مما تأكله الدَّواب، وبساتين ملتفة بعضها ببعض لتشعب أغصانها؟
+وأنزلنا من السحب الممطرة ماء منصبًّا بكثرة؛ لنخرج به حبًّا مما يقتات به الناس وحشائش مما تأكله الدَّواب، وبساتين ملتفة بعضها ببعض لتشعُّب أغصانها؟
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿لِنُخْرِج بِهِ حَبًّا﴾ كالحِنْطَةِ ﴿ونَباتًا﴾ كالتِّينِ
 
 ---
 
@@ -202,24 +1722,271 @@ In rejection of the idolators' questioning about the Day of Judgement, due to th
 
 ### Ibn Kathir (English)
 
+Verily, the Day of Decision is a fixed time (17)The Day when the Trumpet will be blown, and you shall come forth in crowds (18)And the heaven shall be opened, and it will become as gates (19)And the mountains shall be moved away from their places and they will be as if they were a mirage (20)Truly, Hell is a place of ambus (21)A dwelling place for the Taghun (22)They will abide therein Ahqab (23)Nothing cool shall they taste therein, nor any drink (24)Except Hamim, and Ghassa (25)An exact recompense (according to their evil crimes)(26)For verily, they used not to look for a reckoning (27)But they denied Our Ayat Kidhdhaba (28)And all things We have recorded in a Book (29)So taste you. No increase shall We give you, except in torment (30)
+
 Explaining the Day of Decision and what occurs during it
-Allah says about the Day of Decision -- and it is the Day of Judgement -- that it is at a fixed time, with a set appointment. Its time cannot be added to or decreased. No one knows its exact time except Allah. This is as Allah says,
-وَمَا نُؤَخِّرُهُ إِلاَّ لاًّجَلٍ مَّعْدُودٍ
-(And We delay it only for a term fixed.) (11:104)
-يَوْمَ يُنفَخُ فِى الصُّورِ فَتَأْتُونَ أَفْوَاجاً
-(The Day when the Trumpet will be blown, and you shall come f...
+
+Allah says about the Day of Decision – and it is the Day of Judgement – that it is at a fixed time, with a set appointment. Its time cannot be added to or decreased. No one knows its exact time except Allah. This is as Allah says,
+
+وَمَا نُؤَخِّرُهُ إِلَّا لِأَجَلٍ مَّعْدُودٍ
+
+(And We delay it only for a term fixed.)(11:104)
+
+يَوْمَ يُنفَخُ فِي الصُّورِ فَتَأْتُونَ أَفْوَاجًا
+
+(The Day when the Trumpet will be blown, and you shall come forth in crowds.)
+
+Mujahid said, "Groups after groups." Ibn Jarir said, "This means that each nation will come with its Messenger. It is similar to Allah's statement,
+
+يَوْمَ نَدْعُو كُلَّ أُنَاسٍ بِإِمَامِهِمْ
+
+(The Day when We shall call together all human beings with their Imam.)(17:71)"
+
+Al-Bukhari reported concerning the explanation of Allah's statement,
+
+يَوْمَ يُنفَخُ فِي الصُّورِ فَتَأْتُونَ أَفْوَاجًا
+
+(The Day when the Trumpet will be blown, and you shall come forth in crowds.)
+
+Abu Hurayrah said that the Messenger of Allah ﷺ said,
+
+مَا بَيْنَ النَّفْخَتَيْنِ أَرْبَعُونَ
+
+(That which is between the two blowings is forty.)
+
+Someone asked, "Is it forty days, O Abu Hurayrah?" But he (Abu Hurayrah) refused to reply, saying "no comment." They then asked, "Is it forty months?" But he (Abu Hurayrah) refused to reply, saying "no comment." They asked again, "Is it forty years?" But he (Abu Hurayrah) refused to reply, saying "no comment." (Abu Hurayrah added:) "Then the Prophet ﷺ went on to say,
+
+ثُمَّ يُنْزِلُ اللهُ مِنَ السَّمَاءِ مَاءً فَيَنْبُتُونَ كَمَا يَنْبُتُ الْبَقْلُ، لَيْسَ مِنَ الْإنْسَانِ شَيْءٌ إِلَّا يَبْلَى، إِلَّا عَظْمًا وَاحِدًا، وَهُوَ عَجْبُ الذَّنَبِ، وَمِنْهُ يُرَكَّبُ الْخَلْقُ يَوْمَ الْقِيَامَةِ
+
+(Then Allah will send down a rain from the sky and the dead body will sprout just as a green plant sprouts. Every part of the last person will deteriorate except for one bone, and it is the coccyx bone (tailbone). From it the creation will be assembled on the Day of Judgement.)"
+
+وَفُتِحَتِ السَّمَاءُ فَكَانَتْ أَبْوَابًا
+
+(And the heaven shall be opened, and it will become as gates.)
+
+meaning, paths, and routes for the descending of the angels.
+
+وَسُيِّرَتِ الْجِبَالُ فَكَانَتْ سَرَابًا
+
+(And the mountains shall be moved away from their places and they will be as if they were a mirage.)
+
+This is similar to Allah's statement,
+
+وَتَرَى الْجِبَالَ تَحْسَبُهَا جَامِدَةً وَهِيَ تَمُرُّ مَرَّ السَّحَابِ
+
+(And you will see the mountains and think them solid, but they shall pass away as the passing away of the clouds.)(27:88)
+
+He also says,
+
+وَتَكُونُ الْجِبَالُ كَالْعِهْنِ الْمَنفُوشِ
+
+(And the mountain will be like carded wool.)(101:5)
+
+And Allah says here,
+
+فَكَانَتْ سَرَابًا
+
+(As if they were a mirage.) meaning, they appear to the one who looks at them as if they are something, but they are actually nothing. After this they will be completely removed. Nothing will be seen of them, and there will be neither base nor trace of them. This is as Allah says,
+
+وَيَسْأَلُونَكَ عَنِ الْجِبَالِ فَقُلْ يَنسِفُهَا رَبِّي نَسْفًا - فَيَذَرُهَا قَاعًا صَفْصَفًا - لَّا تَرَىٰ فِيهَا عِوَجًا وَلَا أَمْتًا
+
+(And they ask you concerning the mountains, say: "My Lord will blast them and scatter them as particles of dust. Then He shall leave them as a level smooth plain. You will see therein nothing crooked or curved.")(20:105-107)
+
+And He says,
+
+وَيَوْمَ نُسَيِّرُ الْجِبَالَ وَتَرَى الْأَرْضَ بَارِزَةً
+
+(And the Day We shall cause the mountains to pass away, and you will see the earth as a leveled plain.)(18:47)
+
+Allah then says,
+
+إِنَّ جَهَنَّمَ كَانَتْ مِرْصَادًا
+
+(Truly, Hell is a place of ambush) meaning, it is waiting in preparation.
+
+لِّلطَّاغِينَ
+
+(for the Taghun) These are the disobedient rejectors who oppose the Messengers.
+
+مَآبًا
+
+(A dwelling place) meaning, a place of return, final destination, final outcome, and residence.
+
+Allah said,
+
+لَّابِثِينَ فِيهَا أَحْقَابًا
+
+(They will abide therein Ahqab.) meaning, they will remain in it for Ahqab, which is the plural of Huqb. Huqb means a period of time.
+
+Khalid bin Ma'dan said, "This Ayah, and the Ayah,
+
+إِلَّا مَا شَاءَ رَبُّكَ
+
+(except your Lord wills.)(11:107) both refer to the people of Tawhid." Ibn Jar0r recorded this statement. Ibn Jarir also recorded from Salim that he heard Al-Hasan being asked about Allah's statement,
+
+لَّابِثِينَ فِيهَا أَحْقَابًا
+
+(They will abide therein Ahqab) "In reference to Ahqab, it has no specific amount of time other than its general meaning of eternity in the Hellfire. However, they have mentioned that the Huqb is seventy years, and every day of it is like one thousand years according to your reckoning (in this life)."
+
+Sa'id reported from Qatadah that he said, "Allah says,
+
+لَّابِثِينَ فِيهَا أَحْقَابًا
+
+(They will abide therein Ahqab.)(78:23)
+
+And it is that which has no end to it. Whenever one era comes to an end, a new era follows it. It has been mentioned to us that the Huqb is eighty years."
+
+Ar-Rabi' bin Anas said,
+
+لَّابِثِينَ فِيهَا أَحْقَابًا
+
+(They will abide therein Ahqab) "No one knows how much time this Ahqab is, except for Allah, the Mighty and Sublime. It has been mentioned to us that one Huqb is eighty years, and the year is three hundred and sixty days, and each day is equivalent to one thousand years according to your reckoning (in this life)." Ibn Jarir has recorded both of these statements.
+
+Allah's statement:
+
+لَّا يَذُوقُونَ فِيهَا بَرْدًا وَلَا شَرَابًا
+
+(Nothing cool shall they taste therein, nor any drink.)
+
+meaning, they will not find any coolness in Hell for their hearts, nor any good drink for them to partake of. Thus, Allah says,
+
+إِلَّا حَمِيمًا وَغَسَّاقًا
+
+(Except Hamim, and Ghassaq) Abu Al-'Aliyah said, "The Hamim has been made an exception to the coolness, and Ghassaq is the exception to the drink." This has also been said by Ar-Rabi' bin Anas. In reference to the Hamim, it is the heat that has reached its maximum temperature and point of boiling. The Ghassaq is gathered from the pus, sweat, tears, and wounds of the people of Hellfire. It is unbearably cold with an intolerable stench. May Allah save us from that by His beneficence and grace. Then He continues,
+
+جَزَاءً وِفَاقًا
+
+(An exact recompense.) meaning, that which will happen to them of this punishment is in accordance with their wicked deeds, which they were doing in this life. Mujahid, Qatadah, and others have said this. Then Allah said,
+
+إِنَّهُمْ كَانُوا لَا يَرْجُونَ حِسَابًا
+
+(For verily, they used not to look for a reckoning.)(78:27)
+
+meaning, they did not believe that there would be an abode in which they would be taken to account.
+
+وَكَذَّبُوا بِآيَاتِنَا كِذَّابًا
+
+(But they denied Our Ayat Kidhdhaba.) meaning, they used to deny the evidences of Allah and His proofs for His creation, which He revealed to His Messengers. So they met these proofs with rejection and obstinance. His statement,
+
+كِذَّابًا
+
+(Kidhdhaba) it means rejection, and it is considered a verbal noun that does not come from a verb. Allah said;
+
+وَكُلَّ شَيْءٍ أَحْصَيْنَاهُ كِتَابًا
+
+(And all things We have recorded in a Book.)
+
+meaning, 'surely We know the deeds of all of the creatures, and We have written these deeds for them. We will reward them based upon this.' If their deeds were good then their reward will be good, and if their deeds were evil their reward will be evil. Allah then says,
+
+فَذُوقُوا فَلَن نَّزِيدَكُمْ إِلَّا عَذَابًا
+
+(So taste you. No increase shall We give you, except in torment.)
+
+This means that it will be said to the people of the Hellfire, "Taste that which you were in. We will never increase you in anything except torment according to its type (of sin), and something else similar to it." Qatadah reported from Abu Ayyub Al-Azdi, who reported from 'Abdullah bin 'Amr that he said, "Allah did not reveal any Ayah against the people of the Hellfire worse than this Ayah,
+
+فَذُوقُوا فَلَن نَّزِيدَكُمْ إِلَّا عَذَابًا
+
+(So taste you. No increase shall We give you, except in torment.)"
+
+Then he said, "They will continue increasing in torment forever."
 
 ### al-Tabari (Arabic)
 
-وقوله: ( وَسُيِّرَتِ الْجِبَالُ فَكَانَتْ سَرَابًا ) يقول: ونُسفت الجبال فاجتثت من أصولها، فصيرت هباء منبثا، لعين الناظر، كالسراب الذي يظنّ من يراه من بُعد ماء، وهو في الحقيقة هباء.
+القول في تأويل قوله تعالى: ﴿لِنُخْرِجَ بِهِ حَبًّا وَنَبَاتًا (١٥) وَجَنَّاتٍ أَلْفَافًا (١٦) إِنَّ يَوْمَ الْفَصْلِ كَانَ مِيقَاتًا (١٧) يَوْمَ يُنْفَخُ فِي الصُّورِ فَتَأْتُونَ أَفْوَاجًا (١٨) وَفُتِحَتِ السَّمَاءُ فَكَانَتْ أَبْوَابًا (١٩) وَسُيِّرَتِ الْجِبَالُ فَكَانَتْ سَرَابًا (٢٠) ﴾ .
+
+يقول تعالى ذكره: لنخرج بالماء الذي ننزله من المعصرات إلى الأرض حبا، والحب كل ما تضمنه كمام الزرع التي تحصد، وهي جمع حبة، كما الشعير جمع شعيرة، وكما التمر جمع تمرة: وأما النبات فهو الكلأ الذي يُرْعى، من الحشيش والزروع.
+
+* *
+
+وقوله: ﴿وَجَنَّاتٍ أَلْفَافًا﴾
+
+يقول: ولنخرج بذلك الغيث جنات، وهي البساتين، وقال: ﴿وَجَنَّاتٍ﴾ والمعنى: وثمر جنات، فترك ذكر الثمر استغناء بدلالة الكلام عليه من ذكره.
+
+* *
+
+وقوله: ﴿أَلْفَافًا﴾
+
+يعني: ملتفة مجتمعة.
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثني عليّ، ثنا أبو صالح، قال: ثني معاوية، عن عليّ، عن ابن عباس، قوله: ﴿وَجَنَّاتٍ أَلْفَافًا﴾ قال: مجتمعة.
+
+⁕ حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس ﴿وَجَنَّاتٍ أَلْفَافًا﴾ يقول: وجنات التفّ بعضها ببعض.
+
+⁕ حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى، وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء، جميعا عن ابن أبي نجيح، عن مجاهد ﴿وَجَنَّاتٍ أَلْفَافًا﴾ قال: ملتفة.
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: ﴿وَجَنَّاتٍ أَلْفَافًا﴾ قال: التفّ بعضها إلى بعض.
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة، في قوله: ﴿وَجَنَّاتٍ أَلْفَافًا﴾ قال: التفّ بعضها إلى بعض.
+
+⁕ حدثنا ابن حميد، قال: ثنا مهران، عن سفيان ﴿وَجَنَّاتٍ أَلْفَافًا﴾ قال: ملتفة.
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله: ﴿وَجَنَّاتٍ أَلْفَافًا﴾ قال: هي الملتفة، بعضها فوق بعض.
+
+واختلف أهل العربية في واحد الألفاف، فكان بعض نحويي البصرة يقول: واحدها: لَفٌّ. وقال بعض نحويِّي الكوفة: واحدها: لف ولفيف، قال: وإن شئت كان الإلفاف جمعا واحده جمع أيضا، فتقول: جنة لفَّاء، وجنات لفّ، ثم يجمع اللَّفَّ ألفافا.
+
+وقال آخر منهم: لم نسمع شجرة لفة، ولكن واحدها لفاء، وجمعها لفّ، وجمع لفّ: ألفاف، فهو جمع الجمع.
+
+والصواب من القول في ذلك أن الألفاف جمع لفّ أو لفيف، وذلك أن أهل التأويل مجمعون على أن معناه: ملتفة، واللفاء، هي الغليظة، وليس الالتفاف من الغلظ في شيء، إلا أن يوجه إلى أنه غلظ الالتفاف، فيكون ذلك حينئذ وجها.
+
+* *
+
+وقوله: ﴿إِنَّ يَوْمَ الْفَصْلِ كَانَ مِيقَاتًا﴾
+
+يقول تعالى ذكره: إن يوم يفصل الله فيه بين خلقه، فيأخذ فيه من بعضهم لبعض، كان ميقاتًا لما أنفذ الله لهؤلاء المكذّبين بالبعث، ولضربائهم من الخلق.
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: ﴿إِنَّ يَوْمَ الْفَصْلِ كَانَ مِيقَاتًا﴾ وهو يوم عظَّمه الله، يفصِل الله فيه بين الأوّلين والآخرين بأعمالهم.
+
+* *
+
+وقوله: ﴿يَوْمَ يُنْفَخُ فِي الصُّورِ﴾
+
+تَرْجَم بيوم ينفخ عن يوم الفصل، فكأنه قيل: يوم الفصل كان أجلا لما وعدنا هؤلاء القوم، يوم ينفخ في الصور، وقد بيَّنت معنى الصور فيما مضى قبل، وذكرت اختلاف أهل التأويل فيه، فأغنى ذلك عن إعادته في هذا الموضع، وهو قَرْن يُنْفَخ فيه عندنا.
+
+كما:-
+
+⁕ حدثنا ابن حميد، قال: ثنا مهران، عن سفيان، عن سليمان التيميّ، عن أسلم، عن بشر بن شغاف، عن عبد الله بن عمرو، عن النبيّ ﷺ، قال: "الصور: قرن".
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: ﴿يَوْمَ يُنْفَخُ فِي الصُّورِ﴾ والصُّور: الخَلق.
+
+* *
+
+وقوله: ﴿فَتَأْتُونَ أَفْوَاجًا﴾
+
+يقول: فيجيئون زمرا زمرا، وجماعة جماعة.
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى، وحدثني الحارث، قال: ثنا الحسن. قال: ثنا ورقاء، جميعا عن ابن أبي نجيح، عن مجاهد، قوله: ﴿أَفْوَاجًا﴾ قال: زُمرًا زُمرًا.
+
+وإنما قيل: ﴿فَتَأْتُونَ أَفْوَاجًا﴾ لأن كلّ أمة أرسل الله إليها رسولا تأتي مع الذي أرسل إليها كما قال: ﴿يَوْمَ نَدْعُو كُلَّ أُنَاسٍ بِإِمَامِهِمْ﴾
+
+وقوله: ﴿وَفُتِحَتِ السَّمَاءُ فَكَانَتْ أَبْوَابًا﴾
+
+يقول تعالى ذكره: وشققت السماء فصدّعت، فكانت طُرقا، وكانت من قبل شدادا لا فطور فيها ولا صدوع. وقيل: معنى ذلك: وفُتحت السماء فكانت قِطعا كقطع الخشب المشقَّقة لأبواب الدور والمساكن، قالوا: ومعنى الكلام: وفُتحت السماء فكانت قِطعا كالأبواب، فلما أسقطت الكاف صارت الأبواب الخبر، كما يقال في الكلام: كان عبد الله أسدا، يعني: كالأسد.
+
+* *
+
+وقوله: ﴿وَسُيِّرَتِ الْجِبَالُ فَكَانَتْ سَرَابًا﴾
+
+يقول: ونُسفت الجبال فاجتثت من أصولها، فصيرت هباء منبثا، لعين الناظر، كالسراب الذي يظنّ من يراه من بُعد ماء، وهو في الحقيقة هباء.
 
 ### al-Muyassar (Arabic)
 
-ونسفت الجبال بعد ثبوتها، فكانت كالسراب.
+ونُسفت الجبال بعد ثبوتها، فكانت كالسراب.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿وسُيِّرَتْ الجِبال﴾ ذُهِبَ بِها عَنْ أماكِنها ﴿فَكانَتْ سَرابًا﴾ هَباء، أيْ مِثْله فِي خِفَّة سَيْرها
 
 ---
 
@@ -227,22 +1994,317 @@ Allah says about the Day of Decision -- and it is the Day of Judgement -- that i
 
 ### Ibn Kathir (English)
 
+Verily, for those who have Taqwa, there will be a success (31)Hada'iq and vineyards (32)And Kawa'ib Atrab (33)And a cup Dihaq (34)No Laghw shall they hear therein, nor lying (35)Rewarded from your Lord with a sufficient gift (36)
+
 The Great Success will be for Those Who have Taqwa
+
 Allah informs about the happy people and what He has prepared for them of esteem, and eternal pleasure. Allah says,
-إِنَّ لِلْمُتَّقِينَ مَفَازاً
-(Verily, for those who have Taqwa, there will be a success;) Ibn `Abbas and Ad-Dahhak both said, "A place of enjoyable recreation." Mujahid and Qatadah both said, "They are successful and thus, they are saved from the Hellfire." The most obvious meaning here is the statement of Ibn `Abbas, because A...
+
+إِنَّ لِلْمُتَّقِينَ مَفَازًا
+
+(Verily, for those who have Taqwa, there will be a success;)
+
+Ibn 'Abbas and Ad-Dahhak both said, "A place of enjoyable recreation." Mujahid and Qatadah both said, "They are successful and thus, they are saved from the Hellfire." The most obvious meaning here is the statement of Ibn 'Abbas, because Allah says after this,
+
+حَدَائِقَ
+
+(Hada'iq) And Hada'iq are gardens of palm trees and other things.
+
+وَأَعْنَابًا - وَكَوَاعِبَ أَتْرَابًا
+
+(And vineyards, and Kawa'ib Atrab,) meaning, wide-eyed maidens with fully developed breasts. Ibn 'Abbas, Mujahid and others have said,
+
+كَوَاعِبَ
+
+(Kawa'ib) "This means round breasts. They meant by this that the breasts of these girls will be fully rounded and not sagging, because they will be virgins, equal in age. This means that they will only have one age." The explanation of this has already been mentioned in Surat Al-Waqi'ah. Concerning Allah's statement,
+
+وَكَأْسًا دِهَاقًا
+
+(And a cup Dihaq.) Ibn 'Abbas said, "Continuously filled." 'Ikrimah said, "Pure." Mujahid, Al-Hasan, Qatadah, and Ibn Zayd all said,
+
+دِهَاقًا
+
+(Dihaq) "This means completely filled." Then Allah says,
+
+لَّا يَسْمَعُونَ فِيهَا لَغْوًا وَلَا كِذَّابًا
+
+(No Laghw shall they hear therein, nor lying;) This is similar to Allah's statement,
+
+لَّا لَغْوٌ فِيهَا وَلَا تَأْثِيمٌ
+
+(Free from any Laghw, and free from sin.)(52:23)
+
+meaning, there will not be any vain, worthless speech therein, nor any sinful lying. Rather, it will be the abode of peace, and everything that is in it will be free of any shortcomings. Allah then says,
+
+جَزَاءً مِّن رَّبِّكَ عَطَاءً حِسَابًا
+
+(Rewarded from your Lord with a sufficient gift.)
+
+meaning, 'this that We have mentioned to you is what Allah will reward them with, and they will be given it by His favor and from Him. It will be a kindness, mercy, gift, and recompense from Him. It will be sufficient, suitable, comprehensive and abundant.' The Arabs say, "He gave me and he sufficed me." This means that he sufficiently provided for me." From this comes the saying, "Allah is sufficient for me."
+
+رَّبِّ السَّمَاوَاتِ وَالْأَرْضِ وَمَا بَيْنَهُمَا الرَّحْمَٰنِ ۖ لَا يَمْلِكُونَ مِنْهُ خِطَابًا - يَوْمَ يَقُومُ الرُّوحُ وَالْمَلَائِكَةُ صَفًّا ۖ لَّا يَتَكَلَّمُونَ إِلَّا مَنْ أَذِنَ لَهُ الرَّحْمَٰنُ وَقَالَ صَوَابًا - ذَٰلِكَ الْيَوْمُ الْحَقُّ ۖ فَمَن شَاءَ اتَّخَذَ إِلَىٰ رَبِّهِ مَآبًا - إِنَّا أَنذَرْنَاكُمْ عَذَابًا قَرِيبًا يَوْمَ يَنظُرُ الْمَرْءُ مَا قَدَّمَتْ يَدَاهُ وَيَقُولُ الْكَافِرُ يَا لَيْتَنِي كُنتُ تُرَابًا
+
+(37. The Lord of the heavens and the earth, and whatsoever is in between them, the Most Gracious, with Whom they cannot dare to speak.)(38. The Day that Ar-Ruh and the angels will stand forth in rows, they will not speak except him whom Ar-Rahman allows, and he will speak what is right.)(39. That is the True Day. So, whosoever wills, let him seek a place with His Lord!)(40. Verily, We have warned you of a near torment – the Day when man will see that which his hands have sent forth, and the disbeliever will say: "Woe to me! Would that I were dust!")
+
+No one will dare to speak before Allah – not even the Angels - without first receiving Permission
+
+Allah informs of His magnificence and His majesty, and that He is the Lord of the heavens and the earth, and whatever is in them and between them. He explains that He is the Most Gracious, Whose mercy covers all things. Then He says,
+
+لَا يَمْلِكُونَ مِنْهُ خِطَابًا
+
+(With Whom they cannot dare to speak.) meaning, no one is able to begin addressing Him except by His permission. This is as Allah says,
+
+مَن ذَا الَّذِي يَشْفَعُ عِندَهُ إِلَّا بِإِذْنِهِ
+
+(Who is he that can intercede with Him except with His permission?)(2:255)
+
+It is also similar to His statement,
+
+يَوْمَ يَأْتِ لَا تَكَلَّمُ نَفْسٌ إِلَّا بِإِذْنِهِ
+
+(On the Day when it comes, no person shall speak except by His leave.)(11:105)
+
+يَوْمَ يَقُومُ الرُّوحُ وَالْمَلَائِكَةُ صَفًّا ۖ لَّا يَتَكَلَّمُونَ
+
+(The Day that Ar-Ruh and the angels will stand forth in rows, they will not speak)(78:38)
+
+The word Ruh here is referring to the angel Jibril. This has been said by Ash-Sha'bi, Sa'id bin Jubayr and Ad-Dahhak. This is as Allah says,
+
+نَزَلَ بِهِ الرُّوحُ الْأَمِينُ - عَلَىٰ قَلْبِكَ لِتَكُونَ مِنَ الْمُنذِرِينَ
+
+(Which the trustworthy Ruh has brought down. Upon your heart that you may be of the warners.)(26:193-194)
+
+Muqatil bin Hayyan said, "The Ruh is the noblest of the angels, the closest of them to the Lord, and the one who delivers the revelation."
+
+Allah said;
+
+إِلَّا مَنْ أَذِنَ لَهُ الرَّحْمَٰنُ
+
+(except him whom Ar-Rahman allows,) This is similar to Allah's statement,
+
+يَوْمَ يَأْتِ لَا تَكَلَّمُ نَفْسٌ إِلَّا بِإِذْنِهِ
+
+(On the Day when it comes, no person shall speak except by His leave.)(11:105)
+
+This is similar to what has been confirmed in the Sahih, that the Prophet ﷺ said,
+
+وَلَا يَتَكَلَّمُ يَوْمَئِذٍ إِلَّا الرُّسُل
+
+(And none will speak on that Day except the Messengers.)"
+
+Allah said,
+
+وَقَالَ صَوَابًا
+
+(and he will speak what is right.) meaning, the truth. And from the truth is the fact that there is no god worthy of worship except Allah. This is as Abu Salih and 'Ikrimah both said. In reference to Allah's statement,
+
+ذَٰلِكَ الْيَوْمُ الْحَقُّ
+
+(That is the True Day.)
+
+meaning, it will come to pass and there is no avoiding it.
+
+فَمَن شَاءَ اتَّخَذَ إِلَىٰ رَبِّهِ مَآبًا
+
+(So, whosoever wills, let him seek a place with His Lord!)
+
+meaning, a place of return, a path that leads to Him, and a way that he may pass by to get to Him.
+
+The Day of Judgement is Near
+
+Allah said,
+
+إِنَّا أَنذَرْنَاكُمْ عَذَابًا قَرِيبًا
+
+(Verily, We have warned you of a near torment)
+
+meaning, the Day of Judgement. It is mentioned here to emphasize the fact that its occurrence has become close, because everything that is coming will certainly come to pass.
+
+يَوْمَ يَنظُرُ الْمَرْءُ مَا قَدَّمَتْ يَدَاهُ
+
+(the Day when man will see that which his hands have sent forth,)
+
+meaning, all of his deeds will be presented to him – the good and bad, and the old and new. This is similar to Allah's statement,
+
+وَوَجَدُوا مَا عَمِلُوا حَاضِرًا
+
+(And they will find all that they did, placed before them.)(18:49)
+
+It is also similar to His statement,
+
+يُنَبَّأُ الْإِنسَانُ يَوْمَئِذٍ بِمَا قَدَّمَ وَأَخَّرَ
+
+(On that Day man will be informed of what he sent forward, and what he left behind.)(75:13)
+
+Then Allah says,
+
+وَيَقُولُ الْكَافِرُ يَا لَيْتَنِي كُنتُ تُرَابًا
+
+(and the disbeliever will say: "Woe to me! Would that I were dust!")
+
+meaning, the disbeliever on that Day will wish that he had only been dust in the worldly life. He will wish that he had not been created and that he had never come into existence. This will be when he sees the torment of Allah and he looks at his wicked deeds that will be written down against him by the noble righteous scribes among angels. It has been said that he will only wish for that when Allah passes judgement between all of the animals that were in the worldly life. He will rectify matters between them with His just wisdom that does not wrong anyone. Even the hornless sheep will be allowed to avenge itself against the sheep with horns. Then, when the judgement between them is finished, He (Allah) will say to them (the animals), "Be dust." So they will all become dust. Upon witnessing this the disbeliever will say,
+
+يَا لَيْتَنِي كُنتُ تُرَابًا
+
+(Would that I were dust!) meaning, 'I wish I was an animal so that I would be returned to dust.' Something of similar meaning to this has been reported in the well-known Hadith about the Sur. There are also narrations recorded from Abu Hurayrah, 'Abdullah bin 'Amr, and others concerning this.
+
+This is the end of the Tafsir of Surat An-Naba'. And all praise and thanks are due to Allah. He is the Giver of success and protection from error.
 
 ### al-Tabari (Arabic)
 
-وقوله: (حَدَائِقَ) والحدائق: ترجمة وبيان عن المفاز، وجاز أن يترجم عنه، لأن المفاز مصدر من قول القائل: فاز فلان بهذا الشيء، إذا طلبه فظفر به، فكأنه قيل: إن للمتقين ظفرا بما طلبوا من حدائق وأعناب، والحدائق: جمع حديقة، وهي البساتين من النخل والأعناب والأشجار المُحَوَّط عليها الحيطان المحدقة بها، لإحداق الحيطان بها تسمى الحديقة حديقة ، فإن لم تكن الحيطان بها محدقة، لم يَقُل لها حديقة، وإحداقها بها: اشتمالها عليها.وقوله: (وَأَعْنَابًا) يعني: وكرومَ أعناب، واستغنى بذكر الأعناب عن ذكر الكروم.
+القول في تأويل قوله تعالى: ﴿إِنَّ لِلْمُتَّقِينَ مَفَازًا (٣١) حَدَائِقَ وَأَعْنَابًا (٣٢) وَكَوَاعِبَ أَتْرَابًا (٣٣) وَكَأْسًا دِهَاقًا (٣٤) لا يَسْمَعُونَ فِيهَا لَغْوًا وَلا كِذَّابًا (٣٥) ﴾
+
+.
+
+يقول: إن للمتقين مَنجَى من النار إلى الجنة، ومخلصا منها لهم إليها، وظفرا بما طلبوا.
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى، وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء، جميعا عن ابن أبي نجيح، عن مجاهد ﴿إِنَّ لِلْمُتَّقِينَ مَفَازًا﴾ قال: فازوا بأن نَجَوا من النار.
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة ﴿إِنَّ لِلْمُتَّقِينَ مَفَازًا﴾ إي والله مفازا من النار إلى الجنة، ومن عذاب الله إلى رحمته.
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة، في قوله: ﴿إِنَّ لِلْمُتَّقِينَ مَفَازًا﴾ قال: مفازا من النار إلى الجنة.
+
+⁕ حدثني عليّ، قال: ثنا أبو صالح، قال: ثني معاومة، عن عليّ، عن ابن عباس، قوله: ﴿إِنَّ لِلْمُتَّقِينَ مَفَازًا﴾ يقول: مُنْتَزَها [[الحديث ١٥١- هذا الإسناد سبق بيان ضعفه في ١٣٧. و "محمد بن العلاء" شيخ الطبري: هو "أبو كريب" نفسه في الإسناد السابق، مرة يسميه ومرة يكنيه. وهذا الحديث نقله ابن كثير في التفسير ١: ٤٣، والسيوطي في الدر المنثور ١: ١١، والشوكاني في تفسيره الذي سماه فتح القدير ١: ١٠، ونسبوه أيضًا لابن أبي حاتم في تفسيره.]] .
+
+* *
+
+وقوله: ﴿حَدَائِقَ﴾
+
+والحدائق: ترجمة وبيان عن المفاز، وجاز أن يترجم عنه، لأن المفاز مصدر من قول القائل: فاز فلان بهذا الشيء، إذا طلبه فظفر به، فكأنه قيل: إن للمتقين ظفرا بما طلبوا من حدائق وأعناب، والحدائق: جمع حديقة، وهي البساتين من النخل والأعناب والأشجار المُحَوَّط عليها الحيطان المحدقة بها، لإحداق الحيطان بها تسمى الحديقة حديقة، فإن لم تكن الحيطان بها محدقة، لم يَقُل لها حديقة، وإحداقها بها: اشتمالها عليها.
+
+* *
+
+وقوله: ﴿وأعْنابًا﴾
+
+يعني: وكرومَ أعناب، واستغنى بذكر الأعناب عن ذكر الكروم.
+
+* *
+
+وقوله: ﴿وَكَوَاعِبَ أَتْرَابًا﴾
+
+يقول: ونواهد في سنّ واحدة.
+
+وبنحو الذي قلنا قي ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثني عليّ، قال: ثنا أبو صالح، قال: ثني معاوية، عن عليّ، عن ابن عباس، قوله: ﴿وَكَوَاعِبَ﴾ يقول: ونواهد.
+
+* *
+
+وقوله: ﴿أَتْرَابًا﴾
+
+يقول: مُسْتَوِيَات.
+
+⁕ حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس، قوله: ﴿وَكَوَاعِبَ أَتْرَابًا﴾ يعني: النساء المستويات.
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة، في قوله: ﴿وَكَوَاعِبَ أَتْرَابًا﴾ قال: نواهد أترابا، يقول: لسن واحدة.
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، ثم وصف ما في الجنة قال: ﴿حَدَائِقَ وَأَعْنَابًا﴾ ﴿وَكَوَاعِبَ أَتْرَابًا﴾ يعني بذلك النساء أترابا لسنٍّ واحدة.
+
+⁕ حدثني عباس بن محمد، قال: ثنا حجاج، عن ابن جُرَيج، قال: الكواعب: النواهد.
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله: ﴿وَكَوَاعِبَ أَتْرَابًا﴾ قال: الكواعب: التي قد نهدت وكَعَبَ ثديها، وقال: أترابا: مستويات، فلانة تربة فلانة، قال: الأتراب: اللِّدات.
+
+⁕ حدثنا نصر بن عليّ، قال: ثنا يحيى بن سليمان، عن ابن جريج، عن مجاهد ﴿وَكَوَاعِبَ أَتْرَابًا﴾ لِدَّات.
+
+* *
+
+وقوله: ﴿وَكَأْسًا دِهَاقًا﴾
+
+يقول: وكأسا ملأى متتابعة على شاربيها بكثرة وامتلاء، وأصله من الدَّهْق: وهو متابعة الضغط على الإنسان بشدّة وعنف، وكذلك الكأس الدهاق: متابعتها على شاربيها بكثرة وامتلاء.
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا أبو كُريب، قال: ثنا مروان، قال: ثنا أبو يزيد يحيى بن ميسرة، عن مسلم بن نَسْطاس، قال: قال ابن عباس لغلامه: اسقني دهاقا، قال: فجاء بها الغلام ملأى، فقال ابن عباس: هذا الدِّهاق.
+
+⁕ حدثني محمد بن عبيد المحاربي، قال: ثنا موسى بن عمير، عن أبي صالح، عن ابن عباس، قوله: ﴿كَأْسًا دِهَاقًا﴾ قال: ملأى.
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، أخبرني سليمان بن بلال، عن جعفر بن محمد، عن عمرو بن دينار، قال: سمعت ابن عباس يُسأل عن ﴿كأْسًا دِهاقًا﴾ قال: دراكا، قال يونس: قال ابن وهب: الذي يَتْبع بعضُه بعضا.
+
+⁕ حدثني عليّ، قال: ثنا أبو صالح، قال: ثنى معاوية، عن عليّ، عن ابن عباس، قوله: ﴿وَكَأْسًا دِهَاقًا﴾ يقول: ممتلئا.
+
+⁕ حدثني يعقوب، قال: ثنا ابن عُلَية، قال: ثنا حميد الطويل، عن ثابت البُنَانيّ، عن أبي رافع، عن أبي هريرة، في قوله: ﴿كَأْسًا دِهَاقًا﴾ قال: دمادم [[الحديث ١٥٢- نقله ابن كثير ١: ٤٣ بإسناد الطبري هذا، وذكره السيوطي في الدر المنثور ١: ١١ ونسبه للطبري والحاكم في تاريخ نيسابور والديلمي "بسند ضعيف". وإسناده ضعيف حقًا، بل هو إسناد لا تقوم له قائمة، كما سنذكر:
+
+أما بقية بن الوليد، فالحق أنه ثقة، وإنما نعوا عليه التدليس، ولا موضع له هنا، فإنه صرح بالتحديث.
+
+ولكن عيسى بن إبراهيم، وهو القرشي الهاشمي، كل البلاء منه في هذا الحديث، وفي أحاديث من نحوه، رواها بهذا الإسناد. وقد قال فيه البخاري في الضعفاء: ٢٧: "منكر الحديث"، وكذلك النسائي: ٢٢. وترجم له ابن أبي حاتم في الجرح والتعديل ٣ / ١ ٢٧١ - ٢٧٢، وروى عن أبيه قال: "متروك الحديث"، وعن ابن معين: "ليس بشيء"، وقال ابن حبان في الضعفاء، الورقة ١٦٣: "لا يجوز الاحتجاج به إذا انفرد". وترجمته في الميزان ولسان الميزان فيها العجب.
+
+وشيخه "موسى بن أبي حبيب" مثله: ضعيف تالف، وقال الذهبي في الميزان: "ضعفه أبو حاتم، وخبره ساقط. وله عن الحكم بن عمير، رجل قيل: له صحبة. والذي أراه أنه لم يلقه. وموسى -مع ضعفه- فمتأخر عن لقي صحابي كبير". فالبلاء من هذين أو من أحدهما.
+
+حتى لقد شك بعض الحفاظ في وجود الصحابي نفسه "الحكم بن عمير"، من أجلهما! فترجم له ابن أبي حاتم في الجرح والتعديل ١ / ٢ / ١٢٥، قال: "الحكم بن عمير: روى عن النبي ﷺ، لا يذكر السماع ولا لقاء، أحاديث منكرة، من رواية ابن أخيه موسى بن أبي حبيب، وهو شيخ ضعيف الحديث، ويروي عن موسى بن أبي حبيب عيسى بن إبراهيم، وهو ذاهب الحديث، سمعت أبي يقول ذلك".
+
+وحتى إن الذهبي أنكر صحبته وترجم له في الميزان، وأخطأ في النقل فيه عن أبي حاتم، ذكر أنه ضعف الحكم! وكلام أبي حاتم -كما ترى- غير ذلك. وتعقبه الحافظ في لسان الميزان ٢: ٣٣٧ وأثبت أنه صحابي، بما ذكره ابن عبد البر وابن منده وأبو نعيم والترمذي وغيرهم، وأن الدارقطني قال: "كان بدريًا".
+
+وقد ذكره ابن حبان في كتاب الثقات (ص ٥٤) في طبقة الصحابة، وقال: "يقال إن له صحبة". ونقل الحافظ هذا في اللسان عن ابن حبان، ولكن سها فزعم أنه ذكره "في ثقات التابعين".
+
+وترجمه ابن عبد البر في الاستيعاب، رقم ٤٧٦: باسم "الحكم بن عمرو الثمالي، وثمالة في الأزد، شهد بدرًا، ورويت عنه أحاديث مناكير من أحاديث أهل الشأم، لا تصح". وتسمية أبيه باسم "عمرو" خطأ قديم في نسخ الاستيعاب، لأن ابن الأثير تبعه في أسد الغابة ١: ٢٦، وأشار إلى الغلط فيه، ثم ترجمه على الصواب: "الحكم بن عمير الثمالي، من الأزد، وكان يسكن حمص". وحقق الحافظ ترجمته في الإصابة ٢: ٣٠ تحقيقًا جيدًا.]] .
+
+⁕ قال ثنا ابن علية، قال: ثنا أبو رجاء، عن الحسن، في قوله: ﴿وَكَأْسًا دِهَاقًا﴾ قال: مَلأى.
+
+⁕ حدثني محمد بن عمرو، قال: ثنا ابن أبي عديّ، عن يونس، عن الحسن ﴿وَكَأْسًا دِهَاقًا﴾ قال: الملأى.
+
+⁕ حدثنا ابن بشار، قال: ثنا عبد الرحمن، قال: ثنا سفيان، عن منصور، عن مجاهد ﴿وَكَأْسًا دِهَاقًا﴾ قال: مَلأى.
+
+⁕ حدثنا ابن المثنى، قال: ثنا ابن أبي عديّ، قال: ثنا شعبة، عن منصور، عن مجاهد، مثله.
+
+⁕ حدثني يعقوب، قال: ثنا ابن علية، عن سعيد بن أبي عَرُوبة، عن قتادة، في قوله: ﴿وَكَأْسًا دِهَاقًا﴾ قال: مُتْرَعة مَلأى.
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة ﴿وَكَأْسًا دِهَاقًا﴾ قال: الدهاق: المَلأى المُتْرَعة.
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة، في قوله: ﴿كأْسًا دِهاقًا﴾ قال: الدهاق: الممتلئة.
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله: ﴿كأْسًا دِهاقًا﴾ قال: الدِّهاق المملوءة.
+
+وقال آخرون: الدِّهاق: الصافية.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا محمد بن يحيى الأزديّ وعباس بن محمد، قالا ثنا حجاج، عن ابن جريج، قال: ثنا عمر بن عطاء، عن عكرِمة، في قوله: ﴿وَكَأْسًا دِهَاقًا﴾ قال: صافية.
+
+وقال آخرون: بل هي المتتابعة.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، قال: قال سعيد بن جُبير في قوله: ﴿وَكَأْسًا دِهَاقًا﴾ دهاقًا: المتتابعة.
+
+⁕ حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى، وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء، جميعا عن ابن أبي نجيح، عن مجاهد، قوله: ﴿وَكَأْسًا دِهَاقًا﴾ قال: المتتابع.
+
+⁕ حدثنا عمرو بن عبد الحميد، قال: ثنا جرير، عن حصين، عن عكرِمة، عن ابن عباس، في قوله: ﴿وَكَأْسًا دِهَاقًا﴾ قال: الملأى المتتابعة.
+
+⁕ حدثنا ابن حميد، قال: ثنا جرير، عن منصور، عن مجاهد، في قوله: ﴿وَكَأْسًا دِهَاقًا﴾ قال: المتتابعة.
+
+* *
+
+وقوله: ﴿لا يَسْمَعُونَ فِيهَا لَغْوًا وَلا كِذَّابًا﴾
+
+يقول تعالى ذكره: لا يسمعون في الجنة لغوا، يعني باطلا من القول، ولا كذّابًا، يقول: ولا مكاذبة، أي لا يكذب بعضهم بعضا، وقرأت القرّاء في الأمصار بتشديد الذال على ما بيَّنت في قوله: ﴿وَكَذَّبُوا بِآيَاتِنَا كِذَّابًا﴾ سوى الكسائيّ فإنه خَفَّفها لما وصفت قبل، والتشديد أحبّ إليّ من التخفيف، وبالتشديد القراءة، ولا أرى قراءة ذلك بالتخفيف لإجماع الحجة من القرّاء على خلافه، ومن التخفيف قول الأعشى:
+
+فَصَدَقْتُها وكَذبْتُها ... والمَرْءُ يَنْفَعُهُ كِذَابُهُ [[الخبر ١٥٣- هذا الإسناد صحيح، وسواء صح أم ضعف، فلا قيمة له، إذ منتهاه إلى كعب الأحبار. وما كان كلام كعب حجة قط، في التفسير وغيره. و "الصدفي": بفتح الصاد والدال المهملتين، نسبة إلى "الصدف" بفتح الصاد وكسر الدال، وهي قبيلة من حمير، نزلت مصر. و "السلولي"، هو: عبد الله بن ضمرة السلولي، تابعي ثقة.
+
+وهذا الخبر -عن كعب- ذكره ابن كثير ١: ٤٣ دون إسناد ولا نسبة. وذكر السيوطي ١: ١١ ونسبه للطبري وابن أبي حاتم.]]
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة ﴿لَغْوًا وَلا كِذَّابًا﴾ قال: باطلا وإثمًا.
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله: ﴿لا يَسْمَعُونَ فِيهَا لَغْوًا وَلا كِذَّابًا﴾ قال: وهي كذلك ليس فيها لغوٌ ولا كذَّاب.
 
 ### al-Muyassar (Arabic)
 
-إن للذين يخافون ربهم ويعملون صالحًا، فوزًا بدخولهم الجنة. إن لهم بساتين عظيمة وأعنابًا، ولهم زوجات حديثات السن، نواهد مستويات في سن واحدة، ولهم كأس مملوءة خمرًا. لا يسمعون في هذه الجنة باطلا من القول، ولا يكذب بعضهم بعضًا.
+إن للذين يخافون ربهم ويعملون صالحًا، فوزًا بدخولهم الجنة. إن لهم بساتين عظيمة وأعنابًا، ولهم زوجات حديثات السن قد استدارتْ أثداؤهنَّ مع ارتفاع يسير، مستويات في سن واحدة، ولهم كأس مملوءة خمرًا. لا يسمعون في هذه الجنة باطلًا من القول، ولا يكذب بعضهم بعضًا.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿حَدائِق﴾ بَساتِين بَدَل مِن مَفازًا أوْ بَيان لَهُ ﴿وأَعْنابًا﴾ عَطْف عَلى مَفازًا
 
 ---
 
@@ -250,19 +2312,19 @@ Allah informs about the happy people and what He has prepared for them of esteem
 
 ### Ibn Kathir (English)
 
-*Not available for this ayah*
+*Not present in this edition for this ayah (source returned 404).*
 
 ### al-Tabari (Arabic)
 
-*Not available for this ayah*
+*Not present in this edition for this ayah (source returned 404).*
 
 ### al-Muyassar (Arabic)
 
-*Not available for this ayah*
+*Not present in this edition for this ayah (source returned 404).*
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+*Not present in this edition for this ayah (source returned 404).*
 
 ---
 
@@ -270,19 +2332,19 @@ Allah informs about the happy people and what He has prepared for them of esteem
 
 ### Ibn Kathir (English)
 
-*Not available for this ayah*
+*Not present in this edition for this ayah (source returned 404).*
 
 ### al-Tabari (Arabic)
 
-*Not available for this ayah*
+*Not present in this edition for this ayah (source returned 404).*
 
 ### al-Muyassar (Arabic)
 
-*Not available for this ayah*
+*Not present in this edition for this ayah (source returned 404).*
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+*Not present in this edition for this ayah (source returned 404).*
 
 ---
 
@@ -290,19 +2352,19 @@ Allah informs about the happy people and what He has prepared for them of esteem
 
 ### Ibn Kathir (English)
 
-*Not available for this ayah*
+*Not present in this edition for this ayah (source returned 404).*
 
 ### al-Tabari (Arabic)
 
-*Not available for this ayah*
+*Not present in this edition for this ayah (source returned 404).*
 
 ### al-Muyassar (Arabic)
 
-*Not available for this ayah*
+*Not present in this edition for this ayah (source returned 404).*
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+*Not present in this edition for this ayah (source returned 404).*
 
 ---
 
@@ -310,25 +2372,385 @@ Allah informs about the happy people and what He has prepared for them of esteem
 
 ### Ibn Kathir (English)
 
-The Tafsir of Surat An-Nazi`at (Chapter - 79) Which was revealed in Makkah
-بِسْمِ اللَّهِ الرَّحْمَـنِ الرَّحِيمِ
+بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
+
 In the Name of Allah, the Most Gracious, the Most Merciful.
+
+وَالنَّازِعَاتِ غَرْقًا - وَالنَّاشِطَاتِ نَشْطًا - وَالسَّابِحَاتِ سَبْحًا - فَالسَّابِقَاتِ سَبْقًا - فَالْمُدَبِّرَاتِ أَمْرًا - يَوْمَ تَرْجُفُ الرَّاجِفَةُ - تَتْبَعُهَا الرَّادِفَةُ - قُلُوبٌ يَوْمَئِذٍ وَاجِفَةٌ - أَبْصَارُهَا خَاشِعَةٌ - يَقُولُونَ أَإِنَّا لَمَرْدُودُونَ فِي الْحَافِرَةِ - أَإِذَا كُنَّا عِظَامًا نَّخِرَةً - قَالُوا تِلْكَ إِذًا كَرَّةٌ خَاسِرَةٌ - فَإِنَّمَا هِيَ زَجْرَةٌ وَاحِدَةٌ - فَإِذَا هُم بِالسَّاهِرَةِ
+
+(1. By those who pull out, drowning.)(2. By those who free briskly.)(3. And by the swimmers, swimming.)(4. And by the racers, racing.)(5. And by those who arrange affairs.)(6. On the Day the Rajifah shakes,)(7. Followed by the Radifah.)(8. Hearts that Day will tremble.)(9. Their vision humiliated.)(10. They say: "Shall we indeed be brought back from Al-Hafirah?")(11. "Even after we are bones Nakhirah?")(12. They say: "It would in that case, be a return with loss!")(13. But it will be only a single Zajrah.)(14. When behold, they are at As-Sahirah.)
+
 Swearing by Five Characteristics that the Day of Judgement will occur
-Ibn Mas`ud, Ibn `Abbas, Masruq, Sa`id bin Jubayr, Abu Salih, Abu Ad-Duha and As-Suddi all said,
-وَالنَّـزِعَـتِ غَرْقاً
-(By those who pull out, drowning.) "These are the angels who remove the souls from the Children of Adam." Among them are those whose ...
+
+Ibn Mas'ud, Ibn 'Abbas, Masruq, Sa'id bin Jubayr, Abu Salih, Abu Ad-Duha and As-Suddi all said,
+
+وَالنَّازِعَاتِ غَرْقًا
+
+(By those who pull out, drowning.) "These are the angels who remove the souls from the Children of Adam."
+
+Among them are those whose souls are removed by the angels with difficulty, as if he is being drowned during its removal. There are those people whose souls the angels remove with ease, as if they were unraveling him (i.e., his soul from him) due to their briskness. This is the meaning of Allah's statement,
+
+وَالنَّاشِطَاتِ نَشْطًا
+
+(By those who free briskly.) This has been mentioned by Ibn 'Abbas. In reference to Allah's statement,
+
+وَالسَّابِحَاتِ سَبْحًا
+
+(And by the swimmers, swimming.) Ibn Mas'ud said, "They are the angels." Similar statements have been reported from 'Ali, Mujahid, Sa'id bin Jubayr, and Abu Salih. Concerning Allah's statement,
+
+فَالسَّابِقَاتِ سَبْقًا
+
+(And by the racers, racing.) It has been narrated from 'Ali, Masruq, Mujahid, Abu Salih, and Al-Hasan Al-Basri that this means the angels. Then Allah says,
+
+فَالْمُدَبِّرَاتِ أَمْرًا
+
+(And by those who arrange affairs.)
+
+Ali, Mujahid, 'Ata', Abu Salih, Al-Hasan, Qatadah, Ar-Rabi' bin Anas, and As-Suddi all said, "They are the angels." Al-Hasan added, "They control the affairs from the heaven to the earth, meaning by the command of their Lord, the Mighty and Majestic."
+
+The Description of the Day of Judgement, the People, and what They will say
+
+Then Allah says,
+
+يَوْمَ تَرْجُفُ الرَّاجِفَةُ - تَتْبَعُهَا الرَّادِفَةُ
+
+(On the Day the Rajifah shakes, followed by the Radifah.)
+
+Ibn 'Abbas said, "These are the two blasts (of the Trumpet) – the first and the second." Mujahid, Al-Hasan, Qatadah, Ad-Dahhak and others have made similar statements. It has been reported from Mujahid that he said, "In reference to the first, it is the statement of Allah,
+
+يَوْمَ تَرْجُفُ الرَّاجِفَةُ
+
+(On the Day the Rajifah shakes,) This is similar to Allah's statement,
+
+يَوْمَ تَرْجُفُ الْأَرْضُ وَالْجِبَالُ
+
+(On the Day the earth and the mountains shake.)(73:14)
+
+The second is Ar-Radifah, and it is like the Allah's statement,
+
+وَحُمِلَتِ الْأَرْضُ وَالْجِبَالُ فَدُكَّتَا دَكَّةً وَاحِدَةً
+
+(And the earth and mountains shall be removed from their places, and crushed with a single crushing.)(69:14)"
+
+Concerning Allah's statement,
+
+قُلُوبٌ يَوْمَئِذٍ وَاجِفَةٌ
+
+(Hearts that Day will tremble.) Ibn 'Abbas said, "This means afraid." Mujahid and Qatadah also said this.
+
+أَبْصَارُهَا خَاشِعَةٌ
+
+(Their vision humiliated.) meaning, the eyes of the people. It means that the eyes will be lowly and disgraced from what they will witness of terrors. Allah then says,
+
+يَقُولُونَ أَإِنَّا لَمَرْدُودُونَ فِي الْحَافِرَةِ
+
+(They say: "Shall we indeed be brought back from Al-Hafirah?")
+
+meaning, the idolators of the Quraysh and whoever rejects the Hereafter as they did. They consider the occurrence of the resurrection after being placed in Al-Hafirah – which are the graves – as something farfetched. This has been said by Mujahid. They feel that this is something impossible after the destruction of their physical bodies and the disintegration of their bones and their decaying. Thus, Allah says,
+
+أَإِذَا كُنَّا عِظَامًا نَّخِرَةً
+
+(Even after we are bones Nakhirah?) It has also been recited:
+
+(نَاخِرَةً)
+
+(Nākhirah)
+
+Ibn 'Abbas, Mujahid and Qatadah, all said, "This means decayed." Ibn 'Abbas said, "It is the bone when it has decayed and air enters into it." Concerning their saying,
+
+تِلْكَ إِذًا كَرَّةٌ خَاسِرَةٌ
+
+(It would in that case be a return with loss.)(79:12)
+
+Muhammad bin Ka'b said that the Quraysh said, "If Allah brings us back to life after we die, then surely we will be losers." Allah then says,
+
+فَإِنَّمَا هِيَ زَجْرَةٌ وَاحِدَةٌ - فَإِذَا هُم بِالسَّاهِرَةِ
+
+(But it will be only a single Zajrah. When behold, they are at As-Sahirah.)
+
+meaning, this is a matter that is from Allah that will not occur twice, nor will there be any opportunity to affirm it or verify it. The people will be standing and looking. This will be when Allah commands the angel Israfil to blow into the Sur, which will be the blowing of the resurrection. At that time the first people and the last people will all be standing before their Lord looking. This is as Allah says,
+
+يَوْمَ يَدْعُوكُمْ فَتَسْتَجِيبُونَ بِحَمْدِهِ وَتَظُنُّونَ إِن لَّبِثْتُمْ إِلَّا قَلِيلًا
+
+(On the Day when He will call you, and you will answer with His praise and obedience, and you will think that you have stayed but a little while!)(17:52)
+
+Allah has also said,
+
+وَمَا أَمْرُنَا إِلَّا وَاحِدَةٌ كَلَمْحٍ بِالْبَصَرِ
+
+(And our commandment is but one as the twinkling of an eye.)(54:50)
+
+Allah also says,
+
+وَمَا أَمْرُ السَّاعَةِ إِلَّا كَلَمْحِ الْبَصَرِ أَوْ هُوَ أَقْرَبُ
+
+(And the matter of the Hour is not but as a twinkling of the eye, or even nearer.)(16:77)
+
+Allah then says,
+
+فَإِذَا هُم بِالسَّاهِرَةِ
+
+(When behold, they are at As-Sahirah.) Ibn 'Abbas said, "As-Sahirah means the entire earth." Sa'id bin Jubayr, Qatadah and Abu Salih have all said this as well. 'Ikrimah, Al-Hasan, Ad-Dahhak, and Ibn Zayd have all said, "As-Sahirah means the face of the earth." Mujahid said, "They will be at its (the earth's) lowest part, and they will be brought out to highest part." Then he said, "As-Sahirah is a level place."
+
+Ar-Rabi' bin Anas said,
+
+فَإِذَا هُم بِالسَّاهِرَةِ
+
+(When behold, they are at As-Sahirah.)
+
+"Allah says,
+
+يَوْمَ تُبَدَّلُ الْأَرْضُ غَيْرَ الْأَرْضِ وَالسَّمَاوَاتُ ۖ وَبَرَزُوا لِلَّهِ الْوَاحِدِ الْقَهَّارِ
+
+(On the Day when the earth will be changed to another earth and so will be the heavens, and they will appear before Allah, the One, the Irresistible.)(14:48)
+
+and He says,
+
+وَيَسْأَلُونَكَ عَنِ الْجِبَالِ فَقُلْ يَنسِفُهَا رَبِّي نَسْفًا - فَيَذَرُهَا قَاعًا صَفْصَفًا - لَّا تَرَىٰ فِيهَا عِوَجًا وَلَا أَمْتًا
+
+(And they ask you concerning the mountains, say: "My Lord will blast them and scatter them as particles of dust. Then He shall leave them as a level smooth plain. You will see therein nothing crooked or curved.")(20:105-107)
+
+and Allah says,
+
+وَيَوْمَ نُسَيِّرُ الْجِبَالَ وَتَرَى الْأَرْضَ بَارِزَةً
+
+(And the Day We shall cause the mountains to pass away, and you will see the earth as a leveled plain.)(18:47)
+
+and the earth will be brought forth which will have mountains upon it, and it will not be considered from this earth (of this life). It will be an earth that no sin will be performed on it, nor will any blood be shed upon it."
 
 ### al-Tabari (Arabic)
 
-وقوله:  وَالنَّاشِطَاتِ نَشْطًا  اختلف أهل التأويل أيضا فيهنّ، وما هنّ، وما الذي ينشط، فقال بعضهم: هم الملائكة، تنشِط نفس المؤمن فتقبضُها، كما ينشط العقال من البعير إذا حُلّ عنه.* ذكر من قال ذلك:حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس:  وَالنَّاشِطَاتِ نَشْطًا  قال: الملائكة .وكان الفرّاء يقول: الذي سمعت من العرب أن يقولوا: أنشطت، وكأنما أنشط من عقال، ورَبْطُها: نشطها، والرابط: الناشط؛ قال: وإذا رَبَطْتَ الحبل في يد البعير فقد نشطته تنشطه، وأنت ناشط، ...
+القول في تأويل قوله تعالى: ﴿وَالنَّازِعَاتِ غَرْقًا (١) وَالنَّاشِطَاتِ نَشْطًا (٢) وَالسَّابِحَاتِ سَبْحًا (٣) فَالسَّابِقَاتِ سَبْقًا (٤) فَالْمُدَبِّرَاتِ أَمْرًا (٥) يَوْمَ تَرْجُفُ الرَّاجِفَةُ (٦) تَتْبَعُهَا الرَّادِفَةُ (٧) قُلُوبٌ يَوْمَئِذٍ وَاجِفَةٌ (٨) أَبْصَارُهَا خَاشِعَةٌ (٩) ﴾
+
+.
+
+أقسم ربنا جلّ جلاله بالنازعات، واختلف أهل التأويل فيها، وما هي، وما تنزع؟ فقال بعضهم: هم الملائكة التي تنزع نفوس بني آدم، والمنزوع نفوس الآدميين.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا إسحاق بن أبي إسرائيل، قال: ثنا النضر بن شُمَيل، قال: أخبرنا شعبة، عن سليمان، قال: سمعت أبا الضحى، عن مسروق، عن عبد الله ﴿وَالنَّازِعَاتِ غَرْقًا﴾ قال: الملائكة.
+
+⁕ حدثني أبو السائب، قال: ثنا أبو معاوية، عن الأعمش، عن مسلم، عن مسروق أنه كان يقول في النازعات: هي الملائكة.
+
+⁕ حدثنا ابن المثنى، قال: ثنا يوسف بن يعقوب، قال: ثنا شعبة، عن السُّدِّي، عن أبي صالح، عن ابن عباس في النازعات قال: حين تنزع نفسه.
+
+⁕ حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس، قوله: ﴿وَالنَّازِعَاتِ غَرْقًا﴾ قال: تنزع الأنفس.
+
+⁕ حدثنا أبو كُريب، قال: ثنا ابن يمان، عن أشعث، عن جعفر، عن سعيد، في قوله: ﴿وَالنَّازِعَاتِ غَرْقًا﴾ قال: نزعت أرواحهم، ثم غرقت، ثم قذف بها في النار.
+
+وقال آخرون: بل هو الموت ينزع النفوس.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا أبو كُريب، قال: ثنا وكيع، عن سفيان، عن ابن أبي نجيح، عن مجاهد ﴿وَالنَّازِعَاتِ غَرْقًا﴾ قال: الموت.
+
+⁕ حدثنا ابن حميد، قال: ثنا مهران، عن سفيان، عن عبد الله بن أبي نجيح، عن مجاهد، مثله.
+
+⁕ حدثنا ابن بشار، قال: ثنا عبد الرحمن، قال: ثنا سفيان، عن ابن أبي نجيح، عن مجاهد، مثله.
+
+وقال آخرون: هي النجوم تنزع من أفق إلى أفق.
+
+⁕ حدثنا الفضل بن إسحاق، قال: ثنا أبو قُتَيبة، قال: ثنا أبو العوّام، أنه سمع الحسن في ﴿وَالنَّازِعَاتِ غَرْقًا﴾ قال: النجوم.
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة، في قوله: ﴿وَالنَّازِعَاتِ غَرْقًا﴾ قال: النجوم.
+
+وقال آخرون: هي القسيّ تنزع بالسهم.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا أبو كُريب، قال: ثنا وكيع، عن واصل بن السائب، عن عطاء ﴿وَالنَّازِعَاتِ غَرْقًا﴾ قال: القسيّ.
+
+وقال آخرون: هي النفس حين تُنزع.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا أبو كُريب، قال: ثنا وكيع، عن سفيان، عن السدّي ﴿وَالنَّازِعَاتِ غَرْقًا﴾ قال: النفس حين تَغرق في الصدر.
+
+والصواب من القول في ذلك عندي أن يقال: إن الله تعالى ذكره أقسم بالنازعات غرقا، ولم يخصص نازعة دون نازعة، فكلّ نازعة غرقا، فداخلة في قسمه، ملكا كان أو موتا، أو نجما، أو قوسا، أو غير ذلك. والمعنى: والنازعات إغراقا كما يغرق النازع في القوس.
+
+* *
+
+وقوله: ﴿وَالنَّاشِطَاتِ نَشْطًا﴾
+
+اختلف أهل التأويل أيضا فيهنّ، وما هنّ، وما الذي ينشط، فقال بعضهم: هم الملائكة، تنشِط نفس المؤمن فتقبضُها، كما ينشط العقال من البعير إذا حُلّ عنه.
+
+ذكر من قال ذلك:
+
+⁕ حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس: ﴿وَالنَّاشِطَاتِ نَشْطًا﴾ قال: الملائكة.
+
+وكان الفرّاء يقول: الذي سمعت من العرب أن يقولوا: أنشطت، وكأنما أنشط من عقال، ورَبْطُها: نشطها، والرابط: الناشط؛ قال: وإذا رَبَطْتَ الحبل في يد البعير فقد نشطته تنشطه، وأنت ناشط، وإذا حللته فقد أنشطته.
+
+وقال آخرون: ﴿النَّاشِطاتِ نَشْطا﴾ هو الموت يَنْشِط نفسَ الإنسان.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا أبو كُريب، قال: ثنا وكيع، عن سفيان، عن ابن أبي نجيح، عن مجاهد ﴿وَالنَّاشِطَاتِ نَشْطًا﴾ قال: الموت.
+
+⁕ حدثنا ابن حميد، قال: ثنا مهران، قال: ثنا سفيان، عن عبد الله بن أبي نجيح، عن مجاهد، مثله.
+
+⁕ حدثنا ابن بشار، قال: ثنا يحيى، قال: ثنا سفيان، عن ابن أبي نجيح، عن مجاهد، مثله.
+
+⁕ حدثنا ابن المثنى، قال: ثنا يوسف بن يعقوب، قال: ثنا شعبة عن السديّ، عن ابن عباس ﴿وَالنَّاشِطَاتِ نَشْطًا﴾ قال: حين تَنشِط نفسه.
+
+⁕ حدثنا أبو كُرَيب، قال: ثنا وكيع، عن سفيان، عن السدي ﴿وَالنَّاشِطَاتِ نَشْطًا﴾ قال: نشطها حين تُنشط من القدمين.
+
+وقال آخرون: هي النجوم تنشط من أفق إلى أفق.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة، قوله: ﴿وَالنَّاشِطَاتِ نَشْطًا﴾ قال: النجوم.
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة ﴿وَالنَّاشِطَاتِ نَشْطًا﴾ قال: هنّ النجوم.
+
+وقال آخرون: هي الأوهاق [[تكلم العلماء في نقض ما ذهب إليه أبو جعفر من أن "الحمد والشكر" بمعنى، وأن أحدهما يوضع موضع الآخر، وهو ما ذهب إليه المبرد أيضًا. انظر القرطبي ١: ١١٦، وابن كثير ١: ٤٢، وأخطأ النقل عن القرطبي، فظنه استدل لصحة قول الطبري، وهو وهم. والذي قاله الطبري أقوى حجة وأعرق عربية من الذين ناقضوه. وقوله "مصدر أشكر"، وقوله "أن يصدر من الحمد"، يعني به المفعول المطلق. وانظر ما مضى: ١١٧، تعليق: ١.]] .
+
+ذكر من قال ذلك:
+
+⁕ حدثنا أبو كُرَيب، قال: ثنا وكيع، عن واصل بن السائب، عن عطاء ﴿وَالنَّاشِطَاتِ نَشْطًا﴾ قال: الأوهاق.
+
+والصواب من القول في ذلك عندي أن يقال: إن الله جلّ ثناؤه أقسم بالناشطات نشطا، وهي التي تنشط من موضع إلى موضع، فتذهب إليه، ولم يخصص الله بذلك شيئا دون شيء، بل عم القسم بجميع الناشطات والملائكة تنشط من موضع إلى موضع، وكذلك الموت، وكذلك النجوم والأوهاق وبقر الوحش أيضا تَنْشُط، كما قال الطِّرِمَّاح:
+
+وَهَلْ بِحَلِيفِ الخَيْلِ مِمَّنْ عَهِدْتُه ... بِهِ غَيْرُ أُحْدانَ النَّوَاشِطِ رُوع [[في المطبوعة: "مبني على أن معناه"، أدخلوا عليه التبديل.]]
+
+يعني بالنواشط: بقر الوحش، لأنها تنشط من بلدة إلى بلدة، كما قال رؤبة بن العجَّاج:
+
+تَنَشَّطَتْهُ كُلُّ مِغْلاةِ الْوَهْق [[سياق الكلام: "أن العرب من شأنها. . . حذف" وما بينهما فصل.]]
+
+والهموم تنشط صاحبها، كما قال هِيمان بن قحافة:
+
+أمْسَتْ هُمُومِي تَنْشِطُ المَناشِطَا ... الشَّامَ بِي طَوْرًا وَطَوْرًا وَاسِطَا [[تأتي في تفسير آية سورة المؤمنون: ٨٧ (١٨: ٢٧ بولاق) .، ونسبهما لبعض بني عامر، وكذلك في معاني القرآن للفراء ١: ١٧٠ وهما في البيان والتبيين ٣: ١٨٤ منسوبان للوزيري، ولم أعرفه، وفيها اختلاف في الرواية. الرمس: القبر المسوى عليه التراب. يقول: أصبح قبرا يزار أو يناح عليه. ورواه الجاحظ: "سأصير ميتًا"، وهي لا شيء. والنواعج جمع ناعجة: وهي الإبل السراع، نعجت في سيرها، أي سارت في كل وجه من نشاطها. وفي البيان ومعاني الفراء "النواجع"، وليست بشيء.]]
+
+فكل ناشط فداخل فيما أقسم به إلا أن تقوم حجة يجب التسليم لها بأن المعنيّ بالقسم من ذلك بعض دون بعض.
+
+* *
+
+وقوله: ﴿وَالسَّابِحَاتِ سَبْحًا﴾
+
+يقول تعالى ذكره: واللواتي تسبح سبحا.
+
+واختلف أهل التأويل في التي أقسم بها جلّ ثناؤه من السابحات، فقال بعضهم: هي الموت تسبح في نفس ابن آدم.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا أبو كُريب، قال: ثنا وكيع، عن سفيان، عن ابن أبي نجيح، عن مجاهد ﴿وَالسَّابِحَاتِ سَبْحًا﴾ قال: الموت، هكذا وجدته في كتابي [[رواية الجاحظ: "فقال السائلون: من المسجى". وفي المعاني "السائرون".]] .
+
+⁕ وقد حدثنا به ابن حميد، قال: ثنا مهران، قال: ثنا سفيان، عن عبد الله بن أبي نجيح، عن مجاهد ﴿وَالسَّابِحَاتِ سَبْحًا﴾ قال: الملائكة، وهكذا وجدت هذا أيضا في كتابي، فإن يكن ما ذكرنا عن ابن حميد صحيحا، فإن مجاهدا كان يرى أن نزول الملائكة من السماء سبَّاحة، كما يقال للفرس الجواد: إنه لسابح إذا مرّ يُسرعُ.
+
+وقال آخرون: هي النجوم تَسْبَح في فلكها.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة ﴿وَالسَّابِحَاتِ سَبْحًا﴾ قال: هِي النجوم.
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة، مثله.
+
+وقال آخرون: هي السفن.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا أبو كُرَيب، قال: ثنا وكيع، عن واصل بن السائب، عن عطاء ﴿وَالسَّابِحَاتِ سَبْحًا﴾ قال: السفن.
+
+والصواب من القول في ذلك عندي أن يقال: إن الله جلّ ثناؤه أقسم بالسابحات سبحا من خلقه، ولم يخصص من ذلك بعضا دون بعض، فذلك [[يأتي في تفسير آيات سورة البقرة: ٧ / وسورة آل عمران: ٤٩ / وسورة المائدة: ٥٣ / وسورة الأنعام: ٩٩ / وسورة الأنفال: ١٤ / وسورة يونس: ٧١ / وسورة الرحمن: ٢٢. وهو بيت مستشهد به في كل كتاب.]] كل سابح، لما وصفنا قبل في النازعات [[في المطبوعة: "في تنزيل قول الله".]] .
+
+* *
+
+وقوله: ﴿فَالسَّابِقَاتِ سَبْقًا﴾
+
+اختلف أهل التأويل فيها، فقال بعضهم: هي الملائكة.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا ابن حميد، قال: ثنا مهران، عن سفيان، عن عبد الله بن أبي نجيح، عن مجاهد ﴿فَالسَّابِقَاتِ سَبْقًا﴾ قال: الملائكة.
+
+⁕ وقد حدثنا بهذا الحديث أبو كُرَيب، قال: ثنا وكيع، عن سفيان، عن ابن أبي نجيح، عن مجاهد ﴿فَالسَّابِقَاتِ سَبْقًا﴾ قال: الموت.
+
+وقال آخرون: بل هي الخيل السابقة.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا أبو كُرَيب، قال: ثنا وكيع، عن واصل بن السائب، عن عطاء ﴿فَالسَّابِقَاتِ سَبْقًا﴾ قال: الخيل.
+
+وقال آخرون: بل هي النجوم يسبق بعضها بعضا في السير.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة ﴿فَالسَّابِقَاتِ سَبْقًا﴾ قال: هي النجوم.
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة، مثله.
+
+والقول عندنا في هذه مثل القول في سائر الأحرف الماضية.
+
+* *
+
+وقوله: ﴿فَالْمُدَبِّرَاتِ أَمْرًا﴾
+
+يقول: فالملائكة المدبرة ما أمرت به من أمر الله، وكذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة ﴿فَالْمُدَبِّرَاتِ أَمْرًا﴾ قال: هي الملائكة.
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة، مثله.
+
+* *
+
+وقوله: ﴿يَوْمَ تَرْجُفُ الرَّاجِفَةُ﴾
+
+يقول تعالى ذكره: يوم ترجف الأرض والجبال للنفخة الأولى ﴿تَتْبَعُهَا الرَّادِفَةُ﴾ تتبعها الأخرى بعدها، هي النفخة الثانية التي ردفت الأولى لبعث يوم القيامة.
+
+ذكر من قال ذلك:
+
+⁕ حدثني عليّ، قال: ثنا أبو صالح، قال: ثني معاوية، عن علي، عن ابن عباس، قوله: ﴿يَوْمَ تَرْجُفُ الرَّاجِفَةُ﴾ يقول: النفخة الأولى.
+
+* *
+
+وقوله: ﴿تَتْبَعُهَا الرَّادِفَةُ﴾
+
+يقول: النفخة الثانية.
+
+⁕ حدثنا محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس، قوله: ﴿يَوْمَ تَرْجُفُ الرَّاجِفَةُ تَتْبَعُهَا الرَّادِفَةُ﴾ يقول: تتبع الآخرة الأولى، والراجفة: النفخة الأولى، والرادفة: النفخة الآخرة.
+
+⁕ حدثني يعقوب، قال: ثنا ابن علية، عن أبي رجاء، عن الحسن، في قوله: ﴿يَوْمَ تَرْجُفُ الرَّاجِفَةُ تَتْبَعُهَا الرَّادِفَةُ﴾ قال: هما النفختان: أما الأولى فتميت الأحياء، وأما الثانية فتُحيي الموتى، ثم تلا الحسن: ﴿وَنُفِخَ فِي الصُّورِ فَصَعِقَ مَنْ فِي السَّمَاوَاتِ وَمَنْ فِي الأرْضِ إِلا مَنْ شَاءَ اللَّهُ ثُمَّ نُفِخَ فِيهِ أُخْرَى فَإِذَا هُمْ قِيَامٌ يَنْظُرُونَ﴾ .
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة ﴿يَوْمَ تَرْجُفُ الرَّاجِفَةُ تَتْبَعُهَا الرَّادِفَةُ﴾ قال: هما الصيحتان، أما الأولى فتُميت كل شيء بإذن الله، وأما الأخرى فتُحيي كل شيء بإذن الله، إن نبيّ الله ﷺ كان يقول: " بَيْنَهُما أرْبَعُونَ" قال أصحابه: والله ما زادنا على ذلك. وذُكر لنا أن نبيّ الله ﷺ كان يقول: " يُبْعَثُ فِي تِلْك الأرْبَعِينَ مَطَرٌ يُقال لَهُ الْحَياةُ، حتى تَطِيبَ الأرْضُ وتَهْتَزَّ، وتَنْبُتَ أجْسادُ النَّاسِ نَباتَ البَقْل، ثُمَّ تُنْفَخُ الثَّانِيَةُ، فإذَا هُمْ قِيامٌ يَنْظُرُونَ".
+
+⁕ حدثنا أبو كُرَيب، قال: ثنا عبد الرحمن بن محمد المحاربي، عن إسماعيل بن رافع المدني، عن يزيد ابن أبي زياد عن رجل، عن محمد بن كعب القرظي، عن رجل من الأنصار، عن أبي هريرة، قال: قال رسول الله ﷺ، وذكر الصور، فقال أبو هريرة: يا رسول الله، وما الصور؟ قال: " قَرْنٌ". قال: فكيف هو؟ قال: " قَرْنٌ عَظِيمٌ يُنْفَخُ فِيهِ ثَلاثُ نَفَخاتٍ: الأولى نَفْخَةُ الفَزَع، والثَّانِيَةُ نَفْخَةُ الصَّعْق، والثَّالِثَةُ نَفْخَةُ القِيام، فَيَفْزَعُ أهْلُ السَّمَوَاتِ والأرْضِ إلا مَنْ شاء الله، ويأمر الله فيدِيمُها، ويطوّلها، ولا يفتر، وهي التي تقول: ما ينظر هؤلاء إلا صيحة واحدة مالها من فَوَاق فيسير الله الجبال، فتكون سَرابًا، وتُرَجّ الأرضُ بأهلها رجًّا، وهي التي يقول: ﴿يَوْمَ تَرْجُفُ الرَّاجِفَةُ تَتْبَعُهَا الرَّادِفَةُ قُلُوبٌ يَوْمَئِذٍ وَاجِفَةٌ﴾ ".
+
+⁕ حدثنا أبو كُرَيب، قال: ثنا وكيع، عن سفيان، عن عبيد الله بن محمد بن عقيل، عن الطفيل بن أبيّ، عن أبيه، قال: قرأ رسول الله ﷺ: (يَوْمَ تَرْجُفُ الرَّاجِفَةُ تَتْبَعُهَا الرَّادِفَةُ) فقال: " جاءت الراجفة تتبعها الرادفة، جاء الموت بما فيه".
+
+⁕ حُدثت عن الحسين، قال: سمعت أبا معاذ يقول: ثنا عبيد، قال: سمعت الضحاك يقول في قوله: ﴿يَوْمَ تَرْجُفُ الرَّاجِفَةُ﴾ : النفخة الأولى ﴿تَتْبَعُهَا الرَّادِفَةُ﴾ : النفخة الأخرى.
+
+وقال آخرون: في ذلك ما:-
+
+⁕ حدثني به محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى؛ وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء، جميعا عن ابن أبي نجيح، عن مجاهد، في قول الله: ﴿يَوْمَ تَرْجُفُ الرَّاجِفَةُ﴾ قال: ترجف الأرض والجبال، وهي الزلزلة وقوله: ﴿الرَّادِفَةُ﴾ قال: هو قوله: ﴿إِذَا السَّمَاءُ انْشَقَّتْ﴾ ﴿فَدُكَّتَا دَكَّةً وَاحِدَةً﴾ .
+
+وقال آخرون: ترجف الأرض، والرادفة: الساعة.
+
+ذكر من قال ذلك:
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله: ﴿يَوْمَ تَرْجُفُ الرَّاجِفَةُ﴾ الأرض، وفي قوله: ﴿تَتْبَعُهَا الرَّادِفَةُ﴾ قال: الرادفة: الساعة.
+
+واختلف أهل العربية في موضع جواب قوله: ﴿وَالنَّازِعَاتِ غَرْقًا﴾ فقال بعض نحويِّي البصرة: قوله ﴿وَالنَّازِعَاتِ غَرْقًا﴾ : قسم والله أعلم على ﴿إِنَّ فِي ذَلِكَ لَعِبْرَةً لِمَنْ يَخْشَى﴾ وإن شئت جعلتها على ﴿يَوْمَ تَرْجُفُ الرَّاجِفَةُ﴾ ﴿قُلُوبٌ يَوْمَئِذٍ وَاجِفَةٌ﴾ وهو كما قال الله وشاء أن يكون في كل هذا، وفي كلّ الأمور. وقال بعض نحويي الكُوفة: جواب القسم في النازعات: ما تُرِك لمعرفة السامعين بالمعنى، كأنه لو ظهر كان لَتُبْعَثُنّ ولتحاسبنّ. قال: ويدل على ذلك ﴿أَئِذَا كُنَّا عِظَامًا نَخِرَةً﴾ . ألا ترى أنه كالجواب لقوله: ﴿لَتُبْعَثُنَّ﴾ إذ قال: ﴿أَئِذَا كُنَّا عِظَامًا نَخِرَةً﴾ ، وقال آخر منهم نحو هذا، غير أنه قال: لا يجوز حذف اللام في جوا
+
+[TRUNCATED at 12000 chars — 1232 more. Consult the source directly before relying on anything near the cut.]
 
 ### al-Muyassar (Arabic)
 
-أقسم الله تعالى بالملائكة التي تنزع أرواح الكفار نزعا شديدا، والملائكة التي تقبض أرواح المؤمنين بنشاط ورفق، والملائكة التي تَسْبَح في نزولها من السماء وصعودها إليها، فالملائكة التي تسبق وتسارع إلى تنفيذ أمر الله، فالملائكة المنفذات أمر ربها فيما أوكل إليها تدبيره من شؤون الكون -ولا يجوز للمخلوق أن يقسم بغير خالقه، فإن فعل فقد أشرك- لتُبعثَنَّ الخلائق وتُحَاسَب، يوم تضطرب الأرض بالنفخة الأولى نفخة الإماتة، تتبعها نفخة أخرى للإحياء.
+تسمية السورة
+
+• سميت النازعات؛ لافتتاحها بقَسَم الله بالنازعات، وهم الملائكة الذين ينزعون أرواح بني آدم، ولم يرد هذا اللفظ في غير هذه السورة.
+
+من مقاصد السورة
+
+• تأكيد البعث والجزاء بالقَسَم، وإبطالُ شبهة المشركين في إحالة وقوع البعث، وتهويلُ يوم القيامة وتصويرُ حال الناس فيه.
+
+[التفسير]
+
+أقسم الله تعالى بالملائكة التي تنزع أرواح الكفار نزعًا شديدًا، والملائكة التي تقبض أرواح المؤمنين بنشاط ورفق، والملائكة التي تَسْبَح في نزولها من السماء وصعودها إليها، فالملائكة التي تسبق وتسارع إلى تنفيذ أمر الله، فالملائكة المنفذات أمر ربها فيما أوكل إليها تدبيره مِن شؤون الكون، -ولا يجوز للمخلوق أن يقسم بغير خالقه، فإن فعل فقد أشرك- لتُبعثَنَّ الخلائق وتُحاسَب، يوم تضطرب الأرض بالنفخة الأولى نفخة الإماتة، تتبعها نفخة أخرى للإحياء.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿والنّاشِطات نَشْطًا﴾ المَلائِكَة تَنْشِط أرْواح المُؤْمِنِينَ، أيْ تَسُلّها بِرِفْقٍ
 
 ---
 
@@ -336,25 +2758,385 @@ Ibn Mas`ud, Ibn `Abbas, Masruq, Sa`id bin Jubayr, Abu Salih, Abu Ad-Duha and As-
 
 ### Ibn Kathir (English)
 
-The Tafsir of Surat An-Nazi`at (Chapter - 79) Which was revealed in Makkah
-بِسْمِ اللَّهِ الرَّحْمَـنِ الرَّحِيمِ
+بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
+
 In the Name of Allah, the Most Gracious, the Most Merciful.
+
+وَالنَّازِعَاتِ غَرْقًا - وَالنَّاشِطَاتِ نَشْطًا - وَالسَّابِحَاتِ سَبْحًا - فَالسَّابِقَاتِ سَبْقًا - فَالْمُدَبِّرَاتِ أَمْرًا - يَوْمَ تَرْجُفُ الرَّاجِفَةُ - تَتْبَعُهَا الرَّادِفَةُ - قُلُوبٌ يَوْمَئِذٍ وَاجِفَةٌ - أَبْصَارُهَا خَاشِعَةٌ - يَقُولُونَ أَإِنَّا لَمَرْدُودُونَ فِي الْحَافِرَةِ - أَإِذَا كُنَّا عِظَامًا نَّخِرَةً - قَالُوا تِلْكَ إِذًا كَرَّةٌ خَاسِرَةٌ - فَإِنَّمَا هِيَ زَجْرَةٌ وَاحِدَةٌ - فَإِذَا هُم بِالسَّاهِرَةِ
+
+(1. By those who pull out, drowning.)(2. By those who free briskly.)(3. And by the swimmers, swimming.)(4. And by the racers, racing.)(5. And by those who arrange affairs.)(6. On the Day the Rajifah shakes,)(7. Followed by the Radifah.)(8. Hearts that Day will tremble.)(9. Their vision humiliated.)(10. They say: "Shall we indeed be brought back from Al-Hafirah?")(11. "Even after we are bones Nakhirah?")(12. They say: "It would in that case, be a return with loss!")(13. But it will be only a single Zajrah.)(14. When behold, they are at As-Sahirah.)
+
 Swearing by Five Characteristics that the Day of Judgement will occur
-Ibn Mas`ud, Ibn `Abbas, Masruq, Sa`id bin Jubayr, Abu Salih, Abu Ad-Duha and As-Suddi all said,
-وَالنَّـزِعَـتِ غَرْقاً
-(By those who pull out, drowning.) "These are the angels who remove the souls from the Children of Adam." Among them are those whose ...
+
+Ibn Mas'ud, Ibn 'Abbas, Masruq, Sa'id bin Jubayr, Abu Salih, Abu Ad-Duha and As-Suddi all said,
+
+وَالنَّازِعَاتِ غَرْقًا
+
+(By those who pull out, drowning.) "These are the angels who remove the souls from the Children of Adam."
+
+Among them are those whose souls are removed by the angels with difficulty, as if he is being drowned during its removal. There are those people whose souls the angels remove with ease, as if they were unraveling him (i.e., his soul from him) due to their briskness. This is the meaning of Allah's statement,
+
+وَالنَّاشِطَاتِ نَشْطًا
+
+(By those who free briskly.) This has been mentioned by Ibn 'Abbas. In reference to Allah's statement,
+
+وَالسَّابِحَاتِ سَبْحًا
+
+(And by the swimmers, swimming.) Ibn Mas'ud said, "They are the angels." Similar statements have been reported from 'Ali, Mujahid, Sa'id bin Jubayr, and Abu Salih. Concerning Allah's statement,
+
+فَالسَّابِقَاتِ سَبْقًا
+
+(And by the racers, racing.) It has been narrated from 'Ali, Masruq, Mujahid, Abu Salih, and Al-Hasan Al-Basri that this means the angels. Then Allah says,
+
+فَالْمُدَبِّرَاتِ أَمْرًا
+
+(And by those who arrange affairs.)
+
+Ali, Mujahid, 'Ata', Abu Salih, Al-Hasan, Qatadah, Ar-Rabi' bin Anas, and As-Suddi all said, "They are the angels." Al-Hasan added, "They control the affairs from the heaven to the earth, meaning by the command of their Lord, the Mighty and Majestic."
+
+The Description of the Day of Judgement, the People, and what They will say
+
+Then Allah says,
+
+يَوْمَ تَرْجُفُ الرَّاجِفَةُ - تَتْبَعُهَا الرَّادِفَةُ
+
+(On the Day the Rajifah shakes, followed by the Radifah.)
+
+Ibn 'Abbas said, "These are the two blasts (of the Trumpet) – the first and the second." Mujahid, Al-Hasan, Qatadah, Ad-Dahhak and others have made similar statements. It has been reported from Mujahid that he said, "In reference to the first, it is the statement of Allah,
+
+يَوْمَ تَرْجُفُ الرَّاجِفَةُ
+
+(On the Day the Rajifah shakes,) This is similar to Allah's statement,
+
+يَوْمَ تَرْجُفُ الْأَرْضُ وَالْجِبَالُ
+
+(On the Day the earth and the mountains shake.)(73:14)
+
+The second is Ar-Radifah, and it is like the Allah's statement,
+
+وَحُمِلَتِ الْأَرْضُ وَالْجِبَالُ فَدُكَّتَا دَكَّةً وَاحِدَةً
+
+(And the earth and mountains shall be removed from their places, and crushed with a single crushing.)(69:14)"
+
+Concerning Allah's statement,
+
+قُلُوبٌ يَوْمَئِذٍ وَاجِفَةٌ
+
+(Hearts that Day will tremble.) Ibn 'Abbas said, "This means afraid." Mujahid and Qatadah also said this.
+
+أَبْصَارُهَا خَاشِعَةٌ
+
+(Their vision humiliated.) meaning, the eyes of the people. It means that the eyes will be lowly and disgraced from what they will witness of terrors. Allah then says,
+
+يَقُولُونَ أَإِنَّا لَمَرْدُودُونَ فِي الْحَافِرَةِ
+
+(They say: "Shall we indeed be brought back from Al-Hafirah?")
+
+meaning, the idolators of the Quraysh and whoever rejects the Hereafter as they did. They consider the occurrence of the resurrection after being placed in Al-Hafirah – which are the graves – as something farfetched. This has been said by Mujahid. They feel that this is something impossible after the destruction of their physical bodies and the disintegration of their bones and their decaying. Thus, Allah says,
+
+أَإِذَا كُنَّا عِظَامًا نَّخِرَةً
+
+(Even after we are bones Nakhirah?) It has also been recited:
+
+(نَاخِرَةً)
+
+(Nākhirah)
+
+Ibn 'Abbas, Mujahid and Qatadah, all said, "This means decayed." Ibn 'Abbas said, "It is the bone when it has decayed and air enters into it." Concerning their saying,
+
+تِلْكَ إِذًا كَرَّةٌ خَاسِرَةٌ
+
+(It would in that case be a return with loss.)(79:12)
+
+Muhammad bin Ka'b said that the Quraysh said, "If Allah brings us back to life after we die, then surely we will be losers." Allah then says,
+
+فَإِنَّمَا هِيَ زَجْرَةٌ وَاحِدَةٌ - فَإِذَا هُم بِالسَّاهِرَةِ
+
+(But it will be only a single Zajrah. When behold, they are at As-Sahirah.)
+
+meaning, this is a matter that is from Allah that will not occur twice, nor will there be any opportunity to affirm it or verify it. The people will be standing and looking. This will be when Allah commands the angel Israfil to blow into the Sur, which will be the blowing of the resurrection. At that time the first people and the last people will all be standing before their Lord looking. This is as Allah says,
+
+يَوْمَ يَدْعُوكُمْ فَتَسْتَجِيبُونَ بِحَمْدِهِ وَتَظُنُّونَ إِن لَّبِثْتُمْ إِلَّا قَلِيلًا
+
+(On the Day when He will call you, and you will answer with His praise and obedience, and you will think that you have stayed but a little while!)(17:52)
+
+Allah has also said,
+
+وَمَا أَمْرُنَا إِلَّا وَاحِدَةٌ كَلَمْحٍ بِالْبَصَرِ
+
+(And our commandment is but one as the twinkling of an eye.)(54:50)
+
+Allah also says,
+
+وَمَا أَمْرُ السَّاعَةِ إِلَّا كَلَمْحِ الْبَصَرِ أَوْ هُوَ أَقْرَبُ
+
+(And the matter of the Hour is not but as a twinkling of the eye, or even nearer.)(16:77)
+
+Allah then says,
+
+فَإِذَا هُم بِالسَّاهِرَةِ
+
+(When behold, they are at As-Sahirah.) Ibn 'Abbas said, "As-Sahirah means the entire earth." Sa'id bin Jubayr, Qatadah and Abu Salih have all said this as well. 'Ikrimah, Al-Hasan, Ad-Dahhak, and Ibn Zayd have all said, "As-Sahirah means the face of the earth." Mujahid said, "They will be at its (the earth's) lowest part, and they will be brought out to highest part." Then he said, "As-Sahirah is a level place."
+
+Ar-Rabi' bin Anas said,
+
+فَإِذَا هُم بِالسَّاهِرَةِ
+
+(When behold, they are at As-Sahirah.)
+
+"Allah says,
+
+يَوْمَ تُبَدَّلُ الْأَرْضُ غَيْرَ الْأَرْضِ وَالسَّمَاوَاتُ ۖ وَبَرَزُوا لِلَّهِ الْوَاحِدِ الْقَهَّارِ
+
+(On the Day when the earth will be changed to another earth and so will be the heavens, and they will appear before Allah, the One, the Irresistible.)(14:48)
+
+and He says,
+
+وَيَسْأَلُونَكَ عَنِ الْجِبَالِ فَقُلْ يَنسِفُهَا رَبِّي نَسْفًا - فَيَذَرُهَا قَاعًا صَفْصَفًا - لَّا تَرَىٰ فِيهَا عِوَجًا وَلَا أَمْتًا
+
+(And they ask you concerning the mountains, say: "My Lord will blast them and scatter them as particles of dust. Then He shall leave them as a level smooth plain. You will see therein nothing crooked or curved.")(20:105-107)
+
+and Allah says,
+
+وَيَوْمَ نُسَيِّرُ الْجِبَالَ وَتَرَى الْأَرْضَ بَارِزَةً
+
+(And the Day We shall cause the mountains to pass away, and you will see the earth as a leveled plain.)(18:47)
+
+and the earth will be brought forth which will have mountains upon it, and it will not be considered from this earth (of this life). It will be an earth that no sin will be performed on it, nor will any blood be shed upon it."
 
 ### al-Tabari (Arabic)
 
-وقوله:  فَالْمُدَبِّرَاتِ أَمْرًا  يقول: فالملائكة المدبرة ما أمرت به من أمر الله ، وكذلك قال أهل التأويل.* ذكر من قال ذلك:حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة  فَالْمُدَبِّرَاتِ أَمْرًا  قال: هي الملائكة .حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة، مثله.
+القول في تأويل قوله تعالى: ﴿وَالنَّازِعَاتِ غَرْقًا (١) وَالنَّاشِطَاتِ نَشْطًا (٢) وَالسَّابِحَاتِ سَبْحًا (٣) فَالسَّابِقَاتِ سَبْقًا (٤) فَالْمُدَبِّرَاتِ أَمْرًا (٥) يَوْمَ تَرْجُفُ الرَّاجِفَةُ (٦) تَتْبَعُهَا الرَّادِفَةُ (٧) قُلُوبٌ يَوْمَئِذٍ وَاجِفَةٌ (٨) أَبْصَارُهَا خَاشِعَةٌ (٩) ﴾
+
+.
+
+أقسم ربنا جلّ جلاله بالنازعات، واختلف أهل التأويل فيها، وما هي، وما تنزع؟ فقال بعضهم: هم الملائكة التي تنزع نفوس بني آدم، والمنزوع نفوس الآدميين.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا إسحاق بن أبي إسرائيل، قال: ثنا النضر بن شُمَيل، قال: أخبرنا شعبة، عن سليمان، قال: سمعت أبا الضحى، عن مسروق، عن عبد الله ﴿وَالنَّازِعَاتِ غَرْقًا﴾ قال: الملائكة.
+
+⁕ حدثني أبو السائب، قال: ثنا أبو معاوية، عن الأعمش، عن مسلم، عن مسروق أنه كان يقول في النازعات: هي الملائكة.
+
+⁕ حدثنا ابن المثنى، قال: ثنا يوسف بن يعقوب، قال: ثنا شعبة، عن السُّدِّي، عن أبي صالح، عن ابن عباس في النازعات قال: حين تنزع نفسه.
+
+⁕ حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس، قوله: ﴿وَالنَّازِعَاتِ غَرْقًا﴾ قال: تنزع الأنفس.
+
+⁕ حدثنا أبو كُريب، قال: ثنا ابن يمان، عن أشعث، عن جعفر، عن سعيد، في قوله: ﴿وَالنَّازِعَاتِ غَرْقًا﴾ قال: نزعت أرواحهم، ثم غرقت، ثم قذف بها في النار.
+
+وقال آخرون: بل هو الموت ينزع النفوس.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا أبو كُريب، قال: ثنا وكيع، عن سفيان، عن ابن أبي نجيح، عن مجاهد ﴿وَالنَّازِعَاتِ غَرْقًا﴾ قال: الموت.
+
+⁕ حدثنا ابن حميد، قال: ثنا مهران، عن سفيان، عن عبد الله بن أبي نجيح، عن مجاهد، مثله.
+
+⁕ حدثنا ابن بشار، قال: ثنا عبد الرحمن، قال: ثنا سفيان، عن ابن أبي نجيح، عن مجاهد، مثله.
+
+وقال آخرون: هي النجوم تنزع من أفق إلى أفق.
+
+⁕ حدثنا الفضل بن إسحاق، قال: ثنا أبو قُتَيبة، قال: ثنا أبو العوّام، أنه سمع الحسن في ﴿وَالنَّازِعَاتِ غَرْقًا﴾ قال: النجوم.
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة، في قوله: ﴿وَالنَّازِعَاتِ غَرْقًا﴾ قال: النجوم.
+
+وقال آخرون: هي القسيّ تنزع بالسهم.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا أبو كُريب، قال: ثنا وكيع، عن واصل بن السائب، عن عطاء ﴿وَالنَّازِعَاتِ غَرْقًا﴾ قال: القسيّ.
+
+وقال آخرون: هي النفس حين تُنزع.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا أبو كُريب، قال: ثنا وكيع، عن سفيان، عن السدّي ﴿وَالنَّازِعَاتِ غَرْقًا﴾ قال: النفس حين تَغرق في الصدر.
+
+والصواب من القول في ذلك عندي أن يقال: إن الله تعالى ذكره أقسم بالنازعات غرقا، ولم يخصص نازعة دون نازعة، فكلّ نازعة غرقا، فداخلة في قسمه، ملكا كان أو موتا، أو نجما، أو قوسا، أو غير ذلك. والمعنى: والنازعات إغراقا كما يغرق النازع في القوس.
+
+* *
+
+وقوله: ﴿وَالنَّاشِطَاتِ نَشْطًا﴾
+
+اختلف أهل التأويل أيضا فيهنّ، وما هنّ، وما الذي ينشط، فقال بعضهم: هم الملائكة، تنشِط نفس المؤمن فتقبضُها، كما ينشط العقال من البعير إذا حُلّ عنه.
+
+ذكر من قال ذلك:
+
+⁕ حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس: ﴿وَالنَّاشِطَاتِ نَشْطًا﴾ قال: الملائكة.
+
+وكان الفرّاء يقول: الذي سمعت من العرب أن يقولوا: أنشطت، وكأنما أنشط من عقال، ورَبْطُها: نشطها، والرابط: الناشط؛ قال: وإذا رَبَطْتَ الحبل في يد البعير فقد نشطته تنشطه، وأنت ناشط، وإذا حللته فقد أنشطته.
+
+وقال آخرون: ﴿النَّاشِطاتِ نَشْطا﴾ هو الموت يَنْشِط نفسَ الإنسان.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا أبو كُريب، قال: ثنا وكيع، عن سفيان، عن ابن أبي نجيح، عن مجاهد ﴿وَالنَّاشِطَاتِ نَشْطًا﴾ قال: الموت.
+
+⁕ حدثنا ابن حميد، قال: ثنا مهران، قال: ثنا سفيان، عن عبد الله بن أبي نجيح، عن مجاهد، مثله.
+
+⁕ حدثنا ابن بشار، قال: ثنا يحيى، قال: ثنا سفيان، عن ابن أبي نجيح، عن مجاهد، مثله.
+
+⁕ حدثنا ابن المثنى، قال: ثنا يوسف بن يعقوب، قال: ثنا شعبة عن السديّ، عن ابن عباس ﴿وَالنَّاشِطَاتِ نَشْطًا﴾ قال: حين تَنشِط نفسه.
+
+⁕ حدثنا أبو كُرَيب، قال: ثنا وكيع، عن سفيان، عن السدي ﴿وَالنَّاشِطَاتِ نَشْطًا﴾ قال: نشطها حين تُنشط من القدمين.
+
+وقال آخرون: هي النجوم تنشط من أفق إلى أفق.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة، قوله: ﴿وَالنَّاشِطَاتِ نَشْطًا﴾ قال: النجوم.
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة ﴿وَالنَّاشِطَاتِ نَشْطًا﴾ قال: هنّ النجوم.
+
+وقال آخرون: هي الأوهاق [[تكلم العلماء في نقض ما ذهب إليه أبو جعفر من أن "الحمد والشكر" بمعنى، وأن أحدهما يوضع موضع الآخر، وهو ما ذهب إليه المبرد أيضًا. انظر القرطبي ١: ١١٦، وابن كثير ١: ٤٢، وأخطأ النقل عن القرطبي، فظنه استدل لصحة قول الطبري، وهو وهم. والذي قاله الطبري أقوى حجة وأعرق عربية من الذين ناقضوه. وقوله "مصدر أشكر"، وقوله "أن يصدر من الحمد"، يعني به المفعول المطلق. وانظر ما مضى: ١١٧، تعليق: ١.]] .
+
+ذكر من قال ذلك:
+
+⁕ حدثنا أبو كُرَيب، قال: ثنا وكيع، عن واصل بن السائب، عن عطاء ﴿وَالنَّاشِطَاتِ نَشْطًا﴾ قال: الأوهاق.
+
+والصواب من القول في ذلك عندي أن يقال: إن الله جلّ ثناؤه أقسم بالناشطات نشطا، وهي التي تنشط من موضع إلى موضع، فتذهب إليه، ولم يخصص الله بذلك شيئا دون شيء، بل عم القسم بجميع الناشطات والملائكة تنشط من موضع إلى موضع، وكذلك الموت، وكذلك النجوم والأوهاق وبقر الوحش أيضا تَنْشُط، كما قال الطِّرِمَّاح:
+
+وَهَلْ بِحَلِيفِ الخَيْلِ مِمَّنْ عَهِدْتُه ... بِهِ غَيْرُ أُحْدانَ النَّوَاشِطِ رُوع [[في المطبوعة: "مبني على أن معناه"، أدخلوا عليه التبديل.]]
+
+يعني بالنواشط: بقر الوحش، لأنها تنشط من بلدة إلى بلدة، كما قال رؤبة بن العجَّاج:
+
+تَنَشَّطَتْهُ كُلُّ مِغْلاةِ الْوَهْق [[سياق الكلام: "أن العرب من شأنها. . . حذف" وما بينهما فصل.]]
+
+والهموم تنشط صاحبها، كما قال هِيمان بن قحافة:
+
+أمْسَتْ هُمُومِي تَنْشِطُ المَناشِطَا ... الشَّامَ بِي طَوْرًا وَطَوْرًا وَاسِطَا [[تأتي في تفسير آية سورة المؤمنون: ٨٧ (١٨: ٢٧ بولاق) .، ونسبهما لبعض بني عامر، وكذلك في معاني القرآن للفراء ١: ١٧٠ وهما في البيان والتبيين ٣: ١٨٤ منسوبان للوزيري، ولم أعرفه، وفيها اختلاف في الرواية. الرمس: القبر المسوى عليه التراب. يقول: أصبح قبرا يزار أو يناح عليه. ورواه الجاحظ: "سأصير ميتًا"، وهي لا شيء. والنواعج جمع ناعجة: وهي الإبل السراع، نعجت في سيرها، أي سارت في كل وجه من نشاطها. وفي البيان ومعاني الفراء "النواجع"، وليست بشيء.]]
+
+فكل ناشط فداخل فيما أقسم به إلا أن تقوم حجة يجب التسليم لها بأن المعنيّ بالقسم من ذلك بعض دون بعض.
+
+* *
+
+وقوله: ﴿وَالسَّابِحَاتِ سَبْحًا﴾
+
+يقول تعالى ذكره: واللواتي تسبح سبحا.
+
+واختلف أهل التأويل في التي أقسم بها جلّ ثناؤه من السابحات، فقال بعضهم: هي الموت تسبح في نفس ابن آدم.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا أبو كُريب، قال: ثنا وكيع، عن سفيان، عن ابن أبي نجيح، عن مجاهد ﴿وَالسَّابِحَاتِ سَبْحًا﴾ قال: الموت، هكذا وجدته في كتابي [[رواية الجاحظ: "فقال السائلون: من المسجى". وفي المعاني "السائرون".]] .
+
+⁕ وقد حدثنا به ابن حميد، قال: ثنا مهران، قال: ثنا سفيان، عن عبد الله بن أبي نجيح، عن مجاهد ﴿وَالسَّابِحَاتِ سَبْحًا﴾ قال: الملائكة، وهكذا وجدت هذا أيضا في كتابي، فإن يكن ما ذكرنا عن ابن حميد صحيحا، فإن مجاهدا كان يرى أن نزول الملائكة من السماء سبَّاحة، كما يقال للفرس الجواد: إنه لسابح إذا مرّ يُسرعُ.
+
+وقال آخرون: هي النجوم تَسْبَح في فلكها.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة ﴿وَالسَّابِحَاتِ سَبْحًا﴾ قال: هِي النجوم.
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة، مثله.
+
+وقال آخرون: هي السفن.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا أبو كُرَيب، قال: ثنا وكيع، عن واصل بن السائب، عن عطاء ﴿وَالسَّابِحَاتِ سَبْحًا﴾ قال: السفن.
+
+والصواب من القول في ذلك عندي أن يقال: إن الله جلّ ثناؤه أقسم بالسابحات سبحا من خلقه، ولم يخصص من ذلك بعضا دون بعض، فذلك [[يأتي في تفسير آيات سورة البقرة: ٧ / وسورة آل عمران: ٤٩ / وسورة المائدة: ٥٣ / وسورة الأنعام: ٩٩ / وسورة الأنفال: ١٤ / وسورة يونس: ٧١ / وسورة الرحمن: ٢٢. وهو بيت مستشهد به في كل كتاب.]] كل سابح، لما وصفنا قبل في النازعات [[في المطبوعة: "في تنزيل قول الله".]] .
+
+* *
+
+وقوله: ﴿فَالسَّابِقَاتِ سَبْقًا﴾
+
+اختلف أهل التأويل فيها، فقال بعضهم: هي الملائكة.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا ابن حميد، قال: ثنا مهران، عن سفيان، عن عبد الله بن أبي نجيح، عن مجاهد ﴿فَالسَّابِقَاتِ سَبْقًا﴾ قال: الملائكة.
+
+⁕ وقد حدثنا بهذا الحديث أبو كُرَيب، قال: ثنا وكيع، عن سفيان، عن ابن أبي نجيح، عن مجاهد ﴿فَالسَّابِقَاتِ سَبْقًا﴾ قال: الموت.
+
+وقال آخرون: بل هي الخيل السابقة.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا أبو كُرَيب، قال: ثنا وكيع، عن واصل بن السائب، عن عطاء ﴿فَالسَّابِقَاتِ سَبْقًا﴾ قال: الخيل.
+
+وقال آخرون: بل هي النجوم يسبق بعضها بعضا في السير.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة ﴿فَالسَّابِقَاتِ سَبْقًا﴾ قال: هي النجوم.
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة، مثله.
+
+والقول عندنا في هذه مثل القول في سائر الأحرف الماضية.
+
+* *
+
+وقوله: ﴿فَالْمُدَبِّرَاتِ أَمْرًا﴾
+
+يقول: فالملائكة المدبرة ما أمرت به من أمر الله، وكذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة ﴿فَالْمُدَبِّرَاتِ أَمْرًا﴾ قال: هي الملائكة.
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة، مثله.
+
+* *
+
+وقوله: ﴿يَوْمَ تَرْجُفُ الرَّاجِفَةُ﴾
+
+يقول تعالى ذكره: يوم ترجف الأرض والجبال للنفخة الأولى ﴿تَتْبَعُهَا الرَّادِفَةُ﴾ تتبعها الأخرى بعدها، هي النفخة الثانية التي ردفت الأولى لبعث يوم القيامة.
+
+ذكر من قال ذلك:
+
+⁕ حدثني عليّ، قال: ثنا أبو صالح، قال: ثني معاوية، عن علي، عن ابن عباس، قوله: ﴿يَوْمَ تَرْجُفُ الرَّاجِفَةُ﴾ يقول: النفخة الأولى.
+
+* *
+
+وقوله: ﴿تَتْبَعُهَا الرَّادِفَةُ﴾
+
+يقول: النفخة الثانية.
+
+⁕ حدثنا محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس، قوله: ﴿يَوْمَ تَرْجُفُ الرَّاجِفَةُ تَتْبَعُهَا الرَّادِفَةُ﴾ يقول: تتبع الآخرة الأولى، والراجفة: النفخة الأولى، والرادفة: النفخة الآخرة.
+
+⁕ حدثني يعقوب، قال: ثنا ابن علية، عن أبي رجاء، عن الحسن، في قوله: ﴿يَوْمَ تَرْجُفُ الرَّاجِفَةُ تَتْبَعُهَا الرَّادِفَةُ﴾ قال: هما النفختان: أما الأولى فتميت الأحياء، وأما الثانية فتُحيي الموتى، ثم تلا الحسن: ﴿وَنُفِخَ فِي الصُّورِ فَصَعِقَ مَنْ فِي السَّمَاوَاتِ وَمَنْ فِي الأرْضِ إِلا مَنْ شَاءَ اللَّهُ ثُمَّ نُفِخَ فِيهِ أُخْرَى فَإِذَا هُمْ قِيَامٌ يَنْظُرُونَ﴾ .
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة ﴿يَوْمَ تَرْجُفُ الرَّاجِفَةُ تَتْبَعُهَا الرَّادِفَةُ﴾ قال: هما الصيحتان، أما الأولى فتُميت كل شيء بإذن الله، وأما الأخرى فتُحيي كل شيء بإذن الله، إن نبيّ الله ﷺ كان يقول: " بَيْنَهُما أرْبَعُونَ" قال أصحابه: والله ما زادنا على ذلك. وذُكر لنا أن نبيّ الله ﷺ كان يقول: " يُبْعَثُ فِي تِلْك الأرْبَعِينَ مَطَرٌ يُقال لَهُ الْحَياةُ، حتى تَطِيبَ الأرْضُ وتَهْتَزَّ، وتَنْبُتَ أجْسادُ النَّاسِ نَباتَ البَقْل، ثُمَّ تُنْفَخُ الثَّانِيَةُ، فإذَا هُمْ قِيامٌ يَنْظُرُونَ".
+
+⁕ حدثنا أبو كُرَيب، قال: ثنا عبد الرحمن بن محمد المحاربي، عن إسماعيل بن رافع المدني، عن يزيد ابن أبي زياد عن رجل، عن محمد بن كعب القرظي، عن رجل من الأنصار، عن أبي هريرة، قال: قال رسول الله ﷺ، وذكر الصور، فقال أبو هريرة: يا رسول الله، وما الصور؟ قال: " قَرْنٌ". قال: فكيف هو؟ قال: " قَرْنٌ عَظِيمٌ يُنْفَخُ فِيهِ ثَلاثُ نَفَخاتٍ: الأولى نَفْخَةُ الفَزَع، والثَّانِيَةُ نَفْخَةُ الصَّعْق، والثَّالِثَةُ نَفْخَةُ القِيام، فَيَفْزَعُ أهْلُ السَّمَوَاتِ والأرْضِ إلا مَنْ شاء الله، ويأمر الله فيدِيمُها، ويطوّلها، ولا يفتر، وهي التي تقول: ما ينظر هؤلاء إلا صيحة واحدة مالها من فَوَاق فيسير الله الجبال، فتكون سَرابًا، وتُرَجّ الأرضُ بأهلها رجًّا، وهي التي يقول: ﴿يَوْمَ تَرْجُفُ الرَّاجِفَةُ تَتْبَعُهَا الرَّادِفَةُ قُلُوبٌ يَوْمَئِذٍ وَاجِفَةٌ﴾ ".
+
+⁕ حدثنا أبو كُرَيب، قال: ثنا وكيع، عن سفيان، عن عبيد الله بن محمد بن عقيل، عن الطفيل بن أبيّ، عن أبيه، قال: قرأ رسول الله ﷺ: (يَوْمَ تَرْجُفُ الرَّاجِفَةُ تَتْبَعُهَا الرَّادِفَةُ) فقال: " جاءت الراجفة تتبعها الرادفة، جاء الموت بما فيه".
+
+⁕ حُدثت عن الحسين، قال: سمعت أبا معاذ يقول: ثنا عبيد، قال: سمعت الضحاك يقول في قوله: ﴿يَوْمَ تَرْجُفُ الرَّاجِفَةُ﴾ : النفخة الأولى ﴿تَتْبَعُهَا الرَّادِفَةُ﴾ : النفخة الأخرى.
+
+وقال آخرون: في ذلك ما:-
+
+⁕ حدثني به محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى؛ وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء، جميعا عن ابن أبي نجيح، عن مجاهد، في قول الله: ﴿يَوْمَ تَرْجُفُ الرَّاجِفَةُ﴾ قال: ترجف الأرض والجبال، وهي الزلزلة وقوله: ﴿الرَّادِفَةُ﴾ قال: هو قوله: ﴿إِذَا السَّمَاءُ انْشَقَّتْ﴾ ﴿فَدُكَّتَا دَكَّةً وَاحِدَةً﴾ .
+
+وقال آخرون: ترجف الأرض، والرادفة: الساعة.
+
+ذكر من قال ذلك:
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله: ﴿يَوْمَ تَرْجُفُ الرَّاجِفَةُ﴾ الأرض، وفي قوله: ﴿تَتْبَعُهَا الرَّادِفَةُ﴾ قال: الرادفة: الساعة.
+
+واختلف أهل العربية في موضع جواب قوله: ﴿وَالنَّازِعَاتِ غَرْقًا﴾ فقال بعض نحويِّي البصرة: قوله ﴿وَالنَّازِعَاتِ غَرْقًا﴾ : قسم والله أعلم على ﴿إِنَّ فِي ذَلِكَ لَعِبْرَةً لِمَنْ يَخْشَى﴾ وإن شئت جعلتها على ﴿يَوْمَ تَرْجُفُ الرَّاجِفَةُ﴾ ﴿قُلُوبٌ يَوْمَئِذٍ وَاجِفَةٌ﴾ وهو كما قال الله وشاء أن يكون في كل هذا، وفي كلّ الأمور. وقال بعض نحويي الكُوفة: جواب القسم في النازعات: ما تُرِك لمعرفة السامعين بالمعنى، كأنه لو ظهر كان لَتُبْعَثُنّ ولتحاسبنّ. قال: ويدل على ذلك ﴿أَئِذَا كُنَّا عِظَامًا نَخِرَةً﴾ . ألا ترى أنه كالجواب لقوله: ﴿لَتُبْعَثُنَّ﴾ إذ قال: ﴿أَئِذَا كُنَّا عِظَامًا نَخِرَةً﴾ ، وقال آخر منهم نحو هذا، غير أنه قال: لا يجوز حذف اللام في جوا
+
+[TRUNCATED at 12000 chars — 1232 more. Consult the source directly before relying on anything near the cut.]
 
 ### al-Muyassar (Arabic)
 
-أقسم الله تعالى بالملائكة التي تنزع أرواح الكفار نزعا شديدا، والملائكة التي تقبض أرواح المؤمنين بنشاط ورفق، والملائكة التي تَسْبَح في نزولها من السماء وصعودها إليها، فالملائكة التي تسبق وتسارع إلى تنفيذ أمر الله، فالملائكة المنفذات أمر ربها فيما أوكل إليها تدبيره من شؤون الكون -ولا يجوز للمخلوق أن يقسم بغير خالقه، فإن فعل فقد أشرك- لتُبعثَنَّ الخلائق وتُحَاسَب، يوم تضطرب الأرض بالنفخة الأولى نفخة الإماتة، تتبعها نفخة أخرى للإحياء.
+تسمية السورة
+
+• سميت النازعات؛ لافتتاحها بقَسَم الله بالنازعات، وهم الملائكة الذين ينزعون أرواح بني آدم، ولم يرد هذا اللفظ في غير هذه السورة.
+
+من مقاصد السورة
+
+• تأكيد البعث والجزاء بالقَسَم، وإبطالُ شبهة المشركين في إحالة وقوع البعث، وتهويلُ يوم القيامة وتصويرُ حال الناس فيه.
+
+[التفسير]
+
+أقسم الله تعالى بالملائكة التي تنزع أرواح الكفار نزعًا شديدًا، والملائكة التي تقبض أرواح المؤمنين بنشاط ورفق، والملائكة التي تَسْبَح في نزولها من السماء وصعودها إليها، فالملائكة التي تسبق وتسارع إلى تنفيذ أمر الله، فالملائكة المنفذات أمر ربها فيما أوكل إليها تدبيره مِن شؤون الكون، -ولا يجوز للمخلوق أن يقسم بغير خالقه، فإن فعل فقد أشرك- لتُبعثَنَّ الخلائق وتُحاسَب، يوم تضطرب الأرض بالنفخة الأولى نفخة الإماتة، تتبعها نفخة أخرى للإحياء.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿فالمُدَبِّرات أمْرًا﴾ المَلائِكَة تُدَبِّر أمْر الدُّنْيا، أيْ تَنْزِل بِتَدْبِيرِهِ، وجَواب هَذِهِ الأَقْسام مَحْذُوف، أيْ لَتُبْعَثُنَّ يا كُفّار مَكَّة وهُوَ عامِل فِي " يَوْم تَرْجُف الرّاجِفَة "
 
 ---
 
@@ -362,17 +3144,295 @@ Ibn Mas`ud, Ibn `Abbas, Masruq, Sa`id bin Jubayr, Abu Salih, Abu Ad-Duha and As-
 
 ### Ibn Kathir (English)
 
-The Tafsir of Surat An-Nazi`at (Chapter - 79) Which was revealed in Makkah
-بِسْمِ اللَّهِ الرَّحْمَـنِ الرَّحِيمِ
+بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
+
 In the Name of Allah, the Most Gracious, the Most Merciful.
+
+وَالنَّازِعَاتِ غَرْقًا - وَالنَّاشِطَاتِ نَشْطًا - وَالسَّابِحَاتِ سَبْحًا - فَالسَّابِقَاتِ سَبْقًا - فَالْمُدَبِّرَاتِ أَمْرًا - يَوْمَ تَرْجُفُ الرَّاجِفَةُ - تَتْبَعُهَا الرَّادِفَةُ - قُلُوبٌ يَوْمَئِذٍ وَاجِفَةٌ - أَبْصَارُهَا خَاشِعَةٌ - يَقُولُونَ أَإِنَّا لَمَرْدُودُونَ فِي الْحَافِرَةِ - أَإِذَا كُنَّا عِظَامًا نَّخِرَةً - قَالُوا تِلْكَ إِذًا كَرَّةٌ خَاسِرَةٌ - فَإِنَّمَا هِيَ زَجْرَةٌ وَاحِدَةٌ - فَإِذَا هُم بِالسَّاهِرَةِ
+
+(1. By those who pull out, drowning.)(2. By those who free briskly.)(3. And by the swimmers, swimming.)(4. And by the racers, racing.)(5. And by those who arrange affairs.)(6. On the Day the Rajifah shakes,)(7. Followed by the Radifah.)(8. Hearts that Day will tremble.)(9. Their vision humiliated.)(10. They say: "Shall we indeed be brought back from Al-Hafirah?")(11. "Even after we are bones Nakhirah?")(12. They say: "It would in that case, be a return with loss!")(13. But it will be only a single Zajrah.)(14. When behold, they are at As-Sahirah.)
+
 Swearing by Five Characteristics that the Day of Judgement will occur
-Ibn Mas`ud, Ibn `Abbas, Masruq, Sa`id bin Jubayr, Abu Salih, Abu Ad-Duha and As-Suddi all said,
-وَالنَّـزِعَـتِ غَرْقاً
-(By those who pull out, drowning.) "These are the angels who remove the souls from the Children of Adam." Among them are those whose ...
+
+Ibn Mas'ud, Ibn 'Abbas, Masruq, Sa'id bin Jubayr, Abu Salih, Abu Ad-Duha and As-Suddi all said,
+
+وَالنَّازِعَاتِ غَرْقًا
+
+(By those who pull out, drowning.) "These are the angels who remove the souls from the Children of Adam."
+
+Among them are those whose souls are removed by the angels with difficulty, as if he is being drowned during its removal. There are those people whose souls the angels remove with ease, as if they were unraveling him (i.e., his soul from him) due to their briskness. This is the meaning of Allah's statement,
+
+وَالنَّاشِطَاتِ نَشْطًا
+
+(By those who free briskly.) This has been mentioned by Ibn 'Abbas. In reference to Allah's statement,
+
+وَالسَّابِحَاتِ سَبْحًا
+
+(And by the swimmers, swimming.) Ibn Mas'ud said, "They are the angels." Similar statements have been reported from 'Ali, Mujahid, Sa'id bin Jubayr, and Abu Salih. Concerning Allah's statement,
+
+فَالسَّابِقَاتِ سَبْقًا
+
+(And by the racers, racing.) It has been narrated from 'Ali, Masruq, Mujahid, Abu Salih, and Al-Hasan Al-Basri that this means the angels. Then Allah says,
+
+فَالْمُدَبِّرَاتِ أَمْرًا
+
+(And by those who arrange affairs.)
+
+Ali, Mujahid, 'Ata', Abu Salih, Al-Hasan, Qatadah, Ar-Rabi' bin Anas, and As-Suddi all said, "They are the angels." Al-Hasan added, "They control the affairs from the heaven to the earth, meaning by the command of their Lord, the Mighty and Majestic."
+
+The Description of the Day of Judgement, the People, and what They will say
+
+Then Allah says,
+
+يَوْمَ تَرْجُفُ الرَّاجِفَةُ - تَتْبَعُهَا الرَّادِفَةُ
+
+(On the Day the Rajifah shakes, followed by the Radifah.)
+
+Ibn 'Abbas said, "These are the two blasts (of the Trumpet) – the first and the second." Mujahid, Al-Hasan, Qatadah, Ad-Dahhak and others have made similar statements. It has been reported from Mujahid that he said, "In reference to the first, it is the statement of Allah,
+
+يَوْمَ تَرْجُفُ الرَّاجِفَةُ
+
+(On the Day the Rajifah shakes,) This is similar to Allah's statement,
+
+يَوْمَ تَرْجُفُ الْأَرْضُ وَالْجِبَالُ
+
+(On the Day the earth and the mountains shake.)(73:14)
+
+The second is Ar-Radifah, and it is like the Allah's statement,
+
+وَحُمِلَتِ الْأَرْضُ وَالْجِبَالُ فَدُكَّتَا دَكَّةً وَاحِدَةً
+
+(And the earth and mountains shall be removed from their places, and crushed with a single crushing.)(69:14)"
+
+Concerning Allah's statement,
+
+قُلُوبٌ يَوْمَئِذٍ وَاجِفَةٌ
+
+(Hearts that Day will tremble.) Ibn 'Abbas said, "This means afraid." Mujahid and Qatadah also said this.
+
+أَبْصَارُهَا خَاشِعَةٌ
+
+(Their vision humiliated.) meaning, the eyes of the people. It means that the eyes will be lowly and disgraced from what they will witness of terrors. Allah then says,
+
+يَقُولُونَ أَإِنَّا لَمَرْدُودُونَ فِي الْحَافِرَةِ
+
+(They say: "Shall we indeed be brought back from Al-Hafirah?")
+
+meaning, the idolators of the Quraysh and whoever rejects the Hereafter as they did. They consider the occurrence of the resurrection after being placed in Al-Hafirah – which are the graves – as something farfetched. This has been said by Mujahid. They feel that this is something impossible after the destruction of their physical bodies and the disintegration of their bones and their decaying. Thus, Allah says,
+
+أَإِذَا كُنَّا عِظَامًا نَّخِرَةً
+
+(Even after we are bones Nakhirah?) It has also been recited:
+
+(نَاخِرَةً)
+
+(Nākhirah)
+
+Ibn 'Abbas, Mujahid and Qatadah, all said, "This means decayed." Ibn 'Abbas said, "It is the bone when it has decayed and air enters into it." Concerning their saying,
+
+تِلْكَ إِذًا كَرَّةٌ خَاسِرَةٌ
+
+(It would in that case be a return with loss.)(79:12)
+
+Muhammad bin Ka'b said that the Quraysh said, "If Allah brings us back to life after we die, then surely we will be losers." Allah then says,
+
+فَإِنَّمَا هِيَ زَجْرَةٌ وَاحِدَةٌ - فَإِذَا هُم بِالسَّاهِرَةِ
+
+(But it will be only a single Zajrah. When behold, they are at As-Sahirah.)
+
+meaning, this is a matter that is from Allah that will not occur twice, nor will there be any opportunity to affirm it or verify it. The people will be standing and looking. This will be when Allah commands the angel Israfil to blow into the Sur, which will be the blowing of the resurrection. At that time the first people and the last people will all be standing before their Lord looking. This is as Allah says,
+
+يَوْمَ يَدْعُوكُمْ فَتَسْتَجِيبُونَ بِحَمْدِهِ وَتَظُنُّونَ إِن لَّبِثْتُمْ إِلَّا قَلِيلًا
+
+(On the Day when He will call you, and you will answer with His praise and obedience, and you will think that you have stayed but a little while!)(17:52)
+
+Allah has also said,
+
+وَمَا أَمْرُنَا إِلَّا وَاحِدَةٌ كَلَمْحٍ بِالْبَصَرِ
+
+(And our commandment is but one as the twinkling of an eye.)(54:50)
+
+Allah also says,
+
+وَمَا أَمْرُ السَّاعَةِ إِلَّا كَلَمْحِ الْبَصَرِ أَوْ هُوَ أَقْرَبُ
+
+(And the matter of the Hour is not but as a twinkling of the eye, or even nearer.)(16:77)
+
+Allah then says,
+
+فَإِذَا هُم بِالسَّاهِرَةِ
+
+(When behold, they are at As-Sahirah.) Ibn 'Abbas said, "As-Sahirah means the entire earth." Sa'id bin Jubayr, Qatadah and Abu Salih have all said this as well. 'Ikrimah, Al-Hasan, Ad-Dahhak, and Ibn Zayd have all said, "As-Sahirah means the face of the earth." Mujahid said, "They will be at its (the earth's) lowest part, and they will be brought out to highest part." Then he said, "As-Sahirah is a level place."
+
+Ar-Rabi' bin Anas said,
+
+فَإِذَا هُم بِالسَّاهِرَةِ
+
+(When behold, they are at As-Sahirah.)
+
+"Allah says,
+
+يَوْمَ تُبَدَّلُ الْأَرْضُ غَيْرَ الْأَرْضِ وَالسَّمَاوَاتُ ۖ وَبَرَزُوا لِلَّهِ الْوَاحِدِ الْقَهَّارِ
+
+(On the Day when the earth will be changed to another earth and so will be the heavens, and they will appear before Allah, the One, the Irresistible.)(14:48)
+
+and He says,
+
+وَيَسْأَلُونَكَ عَنِ الْجِبَالِ فَقُلْ يَنسِفُهَا رَبِّي نَسْفًا - فَيَذَرُهَا قَاعًا صَفْصَفًا - لَّا تَرَىٰ فِيهَا عِوَجًا وَلَا أَمْتًا
+
+(And they ask you concerning the mountains, say: "My Lord will blast them and scatter them as particles of dust. Then He shall leave them as a level smooth plain. You will see therein nothing crooked or curved.")(20:105-107)
+
+and Allah says,
+
+وَيَوْمَ نُسَيِّرُ الْجِبَالَ وَتَرَى الْأَرْضَ بَارِزَةً
+
+(And the Day We shall cause the mountains to pass away, and you will see the earth as a leveled plain.)(18:47)
+
+and the earth will be brought forth which will have mountains upon it, and it will not be considered from this earth (of this life). It will be an earth that no sin will be performed on it, nor will any blood be shed upon it."
 
 ### al-Tabari (Arabic)
 
-وقوله: ( فَإِذَا هُمْ بِالسَّاهِرَةِ ) يقول تعالى ذكره: فإذا هؤلاء المكذبون بالبعث المتعجبون من إحياء الله إياهم من بعد مماتهم، تكذيبا منهم بذلك بالساهرة، يعني بظهر الأرض، والعرب تسمي الفلاة ووجه الأرض ساهرة، وأراهم سموا ذلك بها، لأن فيه نوم الحيوان وسهرها، فوصف بصفة ما فيه؛ ومنه قول أُميَّة بن أبي الصَّلْت:وفِيهــا لَحْــمُ ســاهِرَةٍ وبَحْــرٍوَمَــا فــاهُوا بِــهِ لَهُــمُ مُقِيـمُ (14)ومنه قول أخي نهم يوم ذي قار لفرسه:أَقْــدِمْ " مِحـاجُ" إنهــا الأسـاوِرَهوَلا يَهُــولَنَّكَ رِجْــــلٌ...
+القول في تأويل قوله تعالى: ﴿يَقُولُونَ أَئِنَّا لَمَرْدُودُونَ فِي الْحَافِرَةِ (١٠) أَئِذَا كُنَّا عِظَامًا نَخِرَةً (١١) قَالُوا تِلْكَ إِذًا كَرَّةٌ خَاسِرَةٌ (١٢) فَإِنَّمَا هِيَ زَجْرَةٌ وَاحِدَةٌ (١٣) فَإِذَا هُمْ بِالسَّاهِرَةِ (١٤) ﴾
+
+.
+
+يقول تعالى ذكره: يقول هؤلاء المكذّبون بالبعث من مشركي قريش إذا قيل لهم: إنكم مبعوثون من بعد الموت: أئنا لمردودون إلى حالنا الأولى قبل الممات، فراجعون أحياء كما كنا قبل هلاكنا، وقبل مماتنا، وهو من قولهم: رجع فلان على حافرته: إذا رجع من حيث جاء؛ ومنه قول الشاعر:
+
+أحافِرَةً عَلى صَلَعٍ وشَيْبٍ ... مَعاذَ اللهِ مِنْ سَفَهٍ وطَيْشٍ [[انظر ما مضى آنفًا لحديث رقم: ١٥١.]]
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثني عليّ، قال: ثنا أبو صالح، قال: ثني معاوية، عن عليّ، عن ابن عباس، قوله: ﴿الْحَافِرَةِ﴾ يقول: الحياة.
+
+⁕ حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس، قوله: ﴿أَئِنَّا لَمَرْدُودُونَ فِي الْحَافِرَةِ﴾ يقول: أئنا لنحيا بعد موتنا، ونبعث من مكاننا هذا.
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة يقول: ﴿أَئِنَّا لَمَرْدُودُونَ فِي الْحَافِرَةِ﴾ أئنا لمبعوثون خلقا جديدا.
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة ﴿فِي الْحَافِرَةِ﴾ قال: أي مردودون خَلقا جديدا.
+
+⁕ حدثنا أبو كُرَيب، قال: ثنا وكيع، عن أبي معشر، عن محمد بن قيس أو محمد بن كعب القُرَظيّ ﴿أَئِنَّا لَمَرْدُودُونَ فِي الْحَافِرَةِ﴾ قال: في الحياة.
+
+⁕ حدثنا ابن حميد، قال: ثنا مهران، عن سفيان، عن السديّ ﴿أَئِنَّا لَمَرْدُودُونَ فِي الْحَافِرَةِ﴾ قال: في الحياة.
+
+وقال آخرون: الحافرة: الأرض المحفورة التي حُفرت فيها قبورهم، فجعلوا ذلك نظير قوله: ﴿مِنْ مَاءٍ دَافِقٍ﴾ . يعني مدفوق، وقالوا: الحافرة بمعنى المحفورة، ومعنى الكلام عندهم: أئنا لمردودون في قبورنا أمواتا.
+
+⁕ حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى، عن ابن أبي نجيح، عن مجاهد، قوله: ﴿الْحَافِرَةِ﴾ قال: الأرض: نبعث خلقا جديدا، قال: البعث.
+
+⁕ حدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء، جميعا عن ابن أبي نجيح، عن مجاهد ﴿أَئِنَّا لَمَرْدُودُونَ فِي الْحَافِرَةِ﴾ قال: الأرض، نبعث خلقا جديدا.
+
+وقال آخرون: الحافرة: النار.
+
+ذكر من قال ذلك:
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: سمعت ابن زيد يقول في قول الله: ﴿أَئِنَّا لَمَرْدُودُونَ فِي الْحَافِرَةِ﴾ قال: الحافرة: النار، وقرأ قول الله ﴿تِلْكَ إِذًا كَرَّةٌ خَاسِرَةٌ﴾ قال: ما أكثر أسماءها، هي النار، وهي الجحيم، وهي سَقَرُ، وهي جهنم، وهي الهاوية، وهي الحافرة، وهي لَظَى، وهي الحُطَمة.
+
+* *
+
+وقوله: ﴿أَئِذَا كُنَّا عِظَامًا نَخِرَةً﴾
+
+اختلفت القرّاء قي قراءة ذلك، فقرأته عامة قرّاء المدينة والحجاز والبصرة ﴿نَخِرَةً﴾ بمعنى: بالية. وقرأ ذلك عامة قرّاء الكوفة ﴿ناخِرَةً﴾ بألف، بمعنى: أنها مجوّفة تنخَر الرياح في جوفها إذا مرّت بها. وكان بعض أهل العلم بكلام العرب من الكوفيين يقول: الناخرة والنخرة سواء في المعنى، بمنزلة الطامع والطمِع، والباخل والبَخِل؛ وأفصح اللغتين عندنا وأشهرهما عندنا ﴿نَخِرَةً﴾ ، بغير ألف، بمعنى: بالية، غير أن رءوس الآي قبلها وبعدها جاءت بالألف، فأعجب إليّ لذلك أن تُلْحق ناخرة بها ليتفق هو وسائر رءوس الآيات، لولا ذلك كان أعجب القراءتين إليّ حذف الألف منها.
+
+ذكر من قال ﴿نَخِرَةً﴾ : بالية:
+
+⁕ حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس ﴿أَئِذَا كُنَّا عِظَامًا نَخِرَةً﴾ فالنخرة: الفانية البالية.
+
+⁕ حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى، وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء، جميعا عن ابن أبي نجيح، عن مجاهد ﴿عِظَامًا نَخِرَةً﴾ قال: مرفوتة.
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة ﴿أَئِذَا كُنَّا عِظَامًا﴾ تكذيبا بالبعث ﴿نَاخِرَةً﴾ بالية. قالوا: ﴿تِلْكَ إِذًا كَرَّةٌ خَاسِرَةٌ﴾ يقول جلّ ثناؤه عن قيل هؤلاء المكذّبين بالبعث، قالوا: تلك: يعنون تلك الرجعة أحياء بعد الممات، إذًا: يعنون الآن، كرّة: يعنون رجعة، خاسرة: يعنون غابنة.
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة ﴿إِذًا كَرَّةٌ خَاسِرَةٌ﴾ : أي رجعة خاسرة.
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله: ﴿تِلْكَ إِذًا كَرَّةٌ خَاسِرَةٌ﴾ قال: وأيّ كرّة أخسر منها، أُحيوا ثم صاروا إلى النار، فكانت كرّة سوء.
+
+* *
+
+وقوله: ﴿فَإِنَّمَا هِيَ زَجْرَةٌ وَاحِدَةٌ﴾
+
+يقول تعالى ذكره: فإنما هي صيحة واحدة، ونَفخة تنفخ في الصور، وذلك هو الزجرة.
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى، وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء، جميعا عن ابن أبي نجيح، عن مجاهد، قوله: ﴿زَجْرَةٌ وَاحِدَةٌ﴾ قال: صيحة.
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله: ﴿زَجْرَةٌ وَاحِدَةٌ﴾ قال: الزجرة: النفخة في الصور.
+
+* *
+
+وقوله: ﴿فَإِذَا هُمْ بِالسَّاهِرَةِ﴾
+
+يقول تعالى ذكره: فإذا هؤلاء المكذبون بالبعث المتعجبون من إحياء الله إياهم من بعد مماتهم، تكذيبا منهم بذلك بالساهرة، يعني بظهر الأرض، والعرب تسمي الفلاة ووجه الأرض ساهرة، وأراهم سموا ذلك بها، لأن فيه نوم الحيوان وسهرها، فوصف بصفة ما فيه؛ ومنه قول أُميَّة بن أبي الصَّلْت:
+
+وفِيها لَحْمُ ساهِرَةٍ وبَحْرٍ ... وَمَا فاهُوا بِهِ لَهُمُ مُقِيمُ [[ديوانه القصيدة: ١٥ / ٣٢. وسيد كندة هو حجر أبو امرئ القيس. ورب معد: حذيفة بن بدر، كما يقول شارح ديوانه، وأنا في شك منه، فإن حذيفة بن بدر قتل بالهباءة. ولبيد يذكر خبتًا وعرعرًا، وهما موضعان غيره.]]
+
+ومنه قول أخي نهم يوم ذي قار لفرسه:
+
+أَقْدِمْ "مِحاجُ" إنها الأساوِرَه ... وَلا يَهُولَنَّكَ رِجْلٌ نادِرَهْ ... فإنَّمَا قَصْرُكَ تُرْبُ السَّاهِرَهْ ... ثُمَّ تَعُودُ بَعْدَها فِي الْحَافِرَهْ ... مِنْ بَعْدِ ما كُنْتَ عِظاما ناخِرَهْ [[ديوانه: ٨٩، والمخصص ٧: ١٥٤. الطريف والطارف: المال المستحدث، خلاف التليد والتالد: وهو العتيق الذي ولد عندك.]]
+
+واختلف أهل التأويل في معناها، فقال بعضهم مثل الذي قلنا.
+
+ذكر من قال ذلك:
+
+⁕ حدثني يعقوب بن إبراهيم، قال: ثنا هشيم، قال: أخبرنا حصين، عن عكرِمة، عن ابن عباس، في قوله: ﴿فَإِذَا هُمْ بِالسَّاهِرَةِ﴾ قال: على الأرض، قال: فذكر شعرا قاله أُمية بن أبي الصلت، فقال:
+
+عِنْدَنا صَيْدُ بَحْرٍ وصَيْدُ ساهِرَةٍ [[ديوانه: ٢٥. سلأ السمن يسلؤه: طبخه وعالجه فأذاب زبده. والسلاء، بكسر السين: السمن. وحقن اللبن في الوطب، والماء في السقاء: حبسه فيه وعبأه. رب نحى السمن يربه: دهنه بالرب، وهو دبس كل ثمرة، وكانوا يدهنون أديم النحى بالرب حتى يمتنوه ويصلحوه، فتطيب رائحته، ويمنع السمن أن يرشح، من غير أن يفسد طعمه أو ريحه. وإذا لم يفعلوا ذلك بالنحى فسد السمن. وأديم مربوب: جدا قد أصلح بالرب. يقول: فعلوا فعل هذه الحمقاء، ففسد ما جهدوا في تدبيره وعمله.]]
+
+⁕ حدثنا محمد بن عبد الله بن بزيع، قال: ثنا أبو محصن، عن حصين، عن عكرِمة، في قوله: ﴿فَإِذَا هُمْ بِالسَّاهِرَةِ﴾ قال: الساهرة: الأرض، أما سمعت: لهم صيد بحر، وصيد ساهرة.
+
+⁕ حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس، قوله: ﴿فَإِذَا هُمْ بِالسَّاهِرَةِ﴾ يعني: الأرض.
+
+⁕ حدثني يعقوب، قال: ثنا ابن علية، قال: ثنا عُمارة بن أبي حفصة، عن عكرِمة، في قوله: ﴿فَإِذَا هُمْ بِالسَّاهِرَةِ﴾ قال: فإذا هم على وجه الأرض، قال: أو لم تسمعوا ما قال أُمية بن أبي الصلت لهم:
+
+وفِيها لَحْمُ ساهِرَةٍ وبَحْرٍ ... .......
+
+⁕ حدثنا عمارة بن موسى، قال: ثنا عبد الوارث بن سعيد، قال: ثنا عمارة، عن عكرمة، في قوله: ﴿فَإِذَا هُمْ بِالسَّاهِرَةِ﴾ قال: فإذا هم على وجه الأرض، قال أمية:
+
+وفِيها لَحْمُ ساهِرَةٍ وبَحْرٍ ... .......
+
+⁕ حدثنا يعقوب، قال: ثنا ابن علية، عن أبي رجاء، عن الحسن ﴿فَإِذَا هُمْ بِالسَّاهِرَةِ﴾ فإذا هم على وجه الأرض.
+
+⁕ حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى، وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء جميعا، عن ابن أبي نجيح، عن مجاهد، قوله: ﴿بِالسَّاهِرَةِ﴾ قال: المكان المستوي.
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قال: لما تباعد البعث في أعين القوم قال الله: ﴿فَإِنَّمَا هِيَ زَجْرَةٌ وَاحِدَةٌ فَإِذَا هُمْ بِالسَّاهِرَةِ﴾ يقول: فإذا هم بأعلى الأرض بعد ما كانوا في جوفها.
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة ﴿بِالسَّاهِرَةِ﴾ قال: فإذا هم يخرجون من قبورهم فوق الأرض والأرض، الساهرة، قال: فإذا هم يخرجون.
+
+⁕ حدثنا ابن حميد، قال: ثنا مهران، عن سفيان، عن خصيف، عن عكرمة وأبي الهيثم، عن سعيد بن جُبير ﴿فَإِذَا هُمْ بِالسَّاهِرَةِ﴾ قال: بالأرض.
+
+⁕ حدثنا أبو كُرَيب، قال: ثنا وكيع، عن سفيان، عن أبي الهيثم، عن سعيد بن جُبير، مثله.
+
+⁕ حدثنا أبو كُرَيب، قال: ثنا وكيع، عن سفيان، عن حصين، عن عكرمة، مثله.
+
+⁕ حُدثت عن الحسين، قال: سمعت أبا معاذ يقول: ثنا عبيد، قال: سمعت الضحاك يقول في قوله: ﴿فَإِذَا هُمْ بِالسَّاهِرَةِ﴾ : وجه الأرض.
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله: ﴿فَإِذَا هُمْ بِالسَّاهِرَةِ﴾ قال: الساهرة ظهر الأرض فوق ظهرها.
+
+وقال آخرون: الساهرة: اسم مكان من الأرض بعينه معروف.
+
+ذكر من قال ذلك:
+
+⁕ حدثني عليّ بن سهل، قال: ثني الوليد بن مسلم، عن عثمان بن أبي العاتكة، قوله: ﴿فَإِنَّمَا هِيَ زَجْرَةٌ وَاحِدَةٌ فَإِذَا هُمْ بِالسَّاهِرَةِ﴾ قال: بالصُّقْع الذي بين جبل حسان وجبل أريحاء، يمدّه الله كيف يشاء.
+
+⁕ حدثنا ابن حميد، قال: ثنا مهران، عن سفيان ﴿فَإِذَا هُمْ بِالسَّاهِرَةِ﴾ قال: أرض بالشام.
+
+وقال آخرون: هو جبل بعينه معروف.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا عليّ بن سهل، قال: ثنا الحسن بن بلال، قال: ثنا حماد، قال: أخبرنا أبو سنان، عن وهب بن منبه، قال في قول الله: ﴿فَإِذَا هُمْ بِالسَّاهِرَةِ﴾ قال: الساهرة: جبل إلى جنب بيت المقدس.
+
+وقال آخرون: هي جهنم.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا ابن بشار، قال: ثنا محمد بن مروان العقيلي، قال: ثني سعيد بن أبي عروبة، عن قتادة ﴿فَإِذَا هُمْ بِالسَّاهِرَةِ﴾ قال: في جهنم.
 
 ### al-Muyassar (Arabic)
 
@@ -380,7 +3440,7 @@ Ibn Mas`ud, Ibn `Abbas, Masruq, Sa`id bin Jubayr, Abu Salih, Abu Ad-Duha and As-
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿فَإذا هُمْ﴾ أيْ كُلّ الخَلائِق ﴿بِالسّاهِرَةِ﴾ بِوَجْهِ الأَرْض أحْياء بَعْدَما كانُوا بِبَطْنِها أمْواتًا
 
 ---
 
@@ -388,20 +3448,241 @@ Ibn Mas`ud, Ibn `Abbas, Masruq, Sa`id bin Jubayr, Abu Salih, Abu Ad-Duha and As-
 
 ### Ibn Kathir (English)
 
+Has there come to you the story of Musa (15)When his Lord called him in the holy valley of Tuwa (16)Go to Fir'awn; verily, he has transgressed all bounds (17)And say to him: "Would you purify yourself? (18)"And that I guide you to your Lord, so you should fear Him? (19)Then he showed him the great sign (20)But he denied and disobeyed (21)Then he turned back, striving (22)So he gathered and called out (23)Saying: "I am your lord, most high. (24)So Allah seized him with punishing example for the Hereafter and the first (life)(25)In this is a lesson for whoever fears (26)
+
 Mentioning the Story of Musa and that it is a Lesson for Those Who fear Allah
-Allah informs His Messenger Muhammad ﷺ about His Messenger Musa. He mentions that he sent Musa to Fir`awn and He aided him with miracles. Yet, even after this, Fir`awn continued in his disbelief and transgression until Allah seized him with a mighty and powerful punishment. Thus is the punishment of whoever opposes you (Muhammad ﷺ) and rejects that which you have been sent with. This is why Allah says at the end of ...
+
+Allah informs His Messenger Muhammad ﷺ about His Messenger Musa. He mentions that he sent Musa to Fir'awn and He aided him with miracles. Yet, even after this, Fir'awn continued in his disbelief and transgression until Allah seized him with a mighty and powerful punishment. Thus is the punishment of whoever opposes you (Muhammad ﷺ) and rejects that which you have been sent with. This is why Allah says at the end of the story,
+
+إِنَّ فِي ذَٰلِكَ لَعِبْرَةً لِّمَن يَخْشَىٰ
+
+(In this is a Lesson for whoever fears.)
+
+Allah begins by saying,
+
+هَلْ أَتَاكَ حَدِيثُ مُوسَىٰ
+
+(Has there come to you the story of Musa?)
+
+meaning, have you heard of his story?
+
+إِذْ نَادَاهُ رَبُّهُ
+
+(When his Lord called him) meaning, He called out speaking to him.
+
+بِالْوَادِ الْمُقَدَّسِ
+
+(in the holy valley) meaning purified
+
+طُوًى
+
+(Tuwa) According to what is correct, it is the name of a valley, as preceded in Surah Ta Ha. So, He said to him:
+
+اذْهَبْ إِلَىٰ فِرْعَوْنَ إِنَّهُ طَغَىٰ
+
+(Go to Fir'awn; verily, he has transgressed all bounds.)
+
+meaning, he has become haughty, rebellious and arrogant.
+
+فَقُلْ هَل لَّكَ إِلَىٰ أَن تَزَكَّىٰ
+
+(And say to him: "Would you purify yourself'?')
+
+meaning, say to him, "Will you respond to the path and way that will purify you?" This means, 'will you submit (accept Islam) and be obedient?'
+
+وَأَهْدِيَكَ إِلَىٰ رَبِّكَ
+
+(And that I guide to your Lord,) meaning, 'I will guide you to the worship of your Lord.'
+
+فَتَخْشَىٰ
+
+(so that you fear) meaning, 'so that your heart will become humble, obedient, and submissive to Him after it was hard, evil, and far away from goodness.'
+
+فَأَرَاهُ الْآيَةَ الْكُبْرَىٰ
+
+(Then he showed him the great sign.) This means that Musa showed him – along with this truthful call – a strong evidence and a clear proof of the truthfulness of what he had come up with from Allah.
+
+فَكَذَّبَ وَعَصَىٰ
+
+(But he denied and disobeyed.) meaning, he (Fir'awn) rejected the truth and opposed what Musa commanded him with of obedience. So what happened with him was that his heart disbelieved, and Musa (i.e., his call) could not internally or externally affect it. Along with this, his knowledge that what Musa had come to him with was the truth, did not necessitate his being a believer in it. This is because recognition is the knowledge of the heart, and faith is its action. And it (faith) is to comply with the truth and submit to it.
+
+Concerning Allah's statement,
+
+ثُمَّ أَدْبَرَ يَسْعَىٰ
+
+(Then he turned back, striving.) meaning, in responding to the truth with falsehood. This was by his gathering the group of magicians in order to confront that which Musa had come up with of spectacular miracles.
+
+فَحَشَرَ فَنَادَىٰ
+
+(So he gathered (his people) and called out) meaning, among his people.
+
+فَقَالَ أَنَا رَبُّكُمُ الْأَعْلَىٰ
+
+(Saying; I am your lord, most high.")
+
+Ibn 'Abbas and Mujahid both said, "This is the word which Fir'awn said after he said,
+
+مَا عَلِمْتُ لَكُم مِّنْ إِلَٰهٍ غَيْرِي
+
+('I have not known of any other god for you all other than me)(28:38) for the past forty years.'" Allah then says,
+
+فَأَخَذَهُ اللَّهُ نَكَالَ الْآخِرَةِ وَالْأُولَىٰ
+
+(So Allah seized him with a punishing example for the Hereafter and the first (life).
+
+meaning, Allah avenged Himself against him with a severe vengeance, and He made an example and admonition of him for those rebellious people in the world who are like him.
+
+وَيَوْمَ الْقِيَامَةِ ۚ بِئْسَ الرِّفْدُ الْمَرْفُودُ
+
+(And on the Day of Resurrection, evil indeed is the gift gifted [i.e., the curse (in this world) pursued by another curse (in this world) pursued by another curse (in the Hereafter)].)(11:99)
+
+This is as Allah says,
+
+وَجَعَلْنَاهُمْ أَئِمَّةً يَدْعُونَ إِلَى النَّارِ ۖ وَيَوْمَ الْقِيَامَةِ لَا يُنصَرُونَ
+
+(And We made them leaders inviting to the Fire: and on the Day of Resurrection, they will not be helped.)(28:41)
+
+Allah said;
+
+إِنَّ فِي ذَٰلِكَ لَعِبْرَةً لِّمَن يَخْشَىٰ
+
+(In this is a lesson for whoever fears.)
+
+أَأَنتُمْ أَشَدُّ خَلْقًا أَمِ السَّمَاءُ ۚ بَنَاهَا - رَفَعَ سَمْكَهَا فَسَوَّاهَا - وَأَغْطَشَ لَيْلَهَا وَأَخْرَجَ ضُحَاهَا - وَالْأَرْضَ بَعْدَ ذَٰلِكَ دَحَاهَا - أَخْرَجَ مِنْهَا مَاءَهَا وَمَرْعَاهَا - وَالْجِبَالَ أَرْسَاهَا - مَتَاعًا لَّكُمْ وَلِأَنْعَامِكُمْ
+
+(27. Are you more difficult to create or is the heaven that He constructed?)(28. He raised its height, and has perfected it.)(29. Its night He covers and He brings out its forenoon.)(30. And after that He spread the earth,)(31. And brought forth therefrom its water and its pasture.)(32. And the mountains He has fixed firmly,)(33. As provision and benefit for you and your cattle.)
+
+Creating the Heavens and the Earth is more difficult than repeating Creation
+
+In refutation of the claim rejecting resurrection due to the renewal of creation after its original state, Allah says;
+
+أَأَنتُمْ
+
+(Are you) 'O people'
+
+أَشَدُّ خَلْقًا أَمِ السَّمَاءُ
+
+(more difficult to create or is the heaven…?)
+
+meaning, 'rather the heaven is more difficult to create than you.' As Allah said;
+
+لَخَلْقُ السَّمَاوَاتِ وَالْأَرْضِ أَكْبَرُ مِنْ خَلْقِ النَّاسِ
+
+(the creation of the heavens and the earth is greater than the creation of mankind;)(40:57)
+
+And His saying;
+
+أَوَلَيْسَ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ بِقَادِرٍ عَلَىٰ أَن يَخْلُقَ مِثْلَهُم ۚ بَلَىٰ وَهُوَ الْخَلَّاقُ الْعَلِيمُ
+
+(Is not the One Who created the heavens and the earth, capable of creating the similar to them. Yes, indeed! He is the Supreme Creator, the All-Knowing.)(36:81)
+
+Then Allah says,
+
+بَنَاهَا
+
+(He constructed) He explains this by His statement,
+
+رَفَعَ سَمْكَهَا فَسَوَّاهَا
+
+(He raised its height, and has perfected it.)
+
+meaning, He made it a lofty structure, vast in its space, with equal sides, and adorned with stars at night and in the darkness. Then Allah says,
+
+وَأَغْطَشَ لَيْلَهَا وَأَخْرَجَ ضُحَاهَا
+
+(Its night He covers and He brings out its forenoon.)
+
+meaning, He made its night dark and extremely black, and its day bright, luminous, shining and clear. Ibn 'Abbas said, "He did Aghtasha of its night means that He made it dark." Mujahid, 'Ikrimah, Sa'id bin Jubayr and a large group have said this as well. In reference to Allah's statement,
+
+وَأَخْرَجَ ضُحَاهَا
+
+(And He brings out its forenoon.) meaning, He illuminated its day. Then Allah says,
+
+وَالْأَرْضَ بَعْدَ ذَٰلِكَ دَحَاهَا
+
+(And after that He spread the earth,) He explains this statement by the statement that follows it,
+
+أَخْرَجَ مِنْهَا مَاءَهَا وَمَرْعَاهَا
+
+(And brought forth therefrom its water and its pasture.)
+
+It already has been mentioned previously in Surat Ha Mim As-Sajdah that the earth was created before the heaven was created, but it was only spread out after the creation of the heaven. This means that He brought out what was in it with a forceful action. This is the meaning of what was said by Ibn 'Abbas and others, and it was the explanation preferred by Ibn Jarir.
+
+In reference to the statement of Allah,
+
+وَالْجِبَالَ أَرْسَاهَا
+
+(And the mountains He has fixed firmly,) meaning, He settled them, made them firm, and established them in their places. And He is the Most Wise, the All-Knowing. He is Most Kind to His creation, Most Merciful.
+
+Allah then says,
+
+مَتَاعًا لَّكُمْ وَلِأَنْعَامِكُمْ
+
+(As provision and benefit for you and your cattle.)
+
+meaning, He spread out the earth, caused its springs to gush forth, brought forth its hidden benefits, caused its rivers to flow, and caused its vegetation, trees, and fruits to grow. He also made its mountains firm so that it (the earth) would be calmly settled with its dwellers, and He stabilized its dwelling places. All of this is a means of beneficial enjoyment for His creatures (mankind) providing them of what cattle they need, which they eat and ride upon. He has granted them these beneficial things for the period that they need them, in this worldly abode, until the end of time and the expiration of this life.
 
 ### al-Tabari (Arabic)
 
-وقوله: ( اذْهَبْ إِلَى فِرْعَوْنَ إِنَّهُ طَغَى ) يقول تعالى ذكره: نادى موسى ربُّه: أن اذهب إلى فرعون، فحذفت " أن " إذ كان النداء قولا فكأنه قيل لموسى قال ربه: اذهب إلى فرعون. وقوله: ( إِنَّهُ طَغَى ) يقول: عتا وتجاوز حدّه في العدوان، والتكبر على ربه.
+القول في تأويل قوله تعالى: ﴿إِذْ نَادَاهُ رَبُّهُ بِالْوَادِي الْمُقَدَّسِ طُوًى (١٦) اذْهَبْ إِلَى فِرْعَوْنَ إِنَّهُ طَغَى (١٧) فَقُلْ هَلْ لَكَ إِلَى أَنْ تَزَكَّى (١٨) ﴾
+
+.
+
+يقول تعالى ذكره لنبيه محمد ﷺ: هل أتاك يا محمد حديث موسى بن عمران، وهل سمعت خبره حين ناجاه ربه بالواد المقدّس، يعني بالمقدّس: المطهر المبارك. وقد ذكرنا أقوال أهل العلم في ذلك فيما مضى، فأغنى عن إعادته في هذا الموضع، وكذلك بيَّنَّا معنى قوله: ﴿طُوًى﴾ وما قال فيه أهل التأويل، غير أنا نذكر بعض ذلك هاهنا.
+
+وقد اختلف أهل التأويل في قوله: ﴿طُوى﴾ فقال بعضهم: هو اسم الوادي.
+
+ذكر من قال ذلك:
+
+⁕ حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى، وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء، جميعا عن ابن أبي نجيح، عن مجاهد، قوله: ﴿طُوًى﴾ اسم الوادي.
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله: ﴿إِنَّكَ بِالْوَادِي الْمُقَدَّسِ طُوًى﴾ قال: اسم المقدّس طوى.
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة ﴿إِذْ نَادَاهُ رَبُّهُ بِالْوَادِي الْمُقَدَّسِ طُوًى﴾ كنا نحدّث أنه قدّس مرّتين، واسم الوادي طُوًى.
+
+وقال آخرون: بل معنى ذلك: طأ الأرض حافيا.
+
+ذكر بعض من قال ذلك:
+
+⁕ حدثنا أبو كُريب، قال: ثنا وكيع، عن سفيان، عن ابن جُرَيج، عن مجاهد ﴿إِنَّكَ بِالْوَادِي الْمُقَدَّسِ طُوًى﴾ قال: طأ الأرض بقدمك.
+
+وقال آخرون: بل معنى ذلك أن الوادي قدّس طوى: أي مرّتين، وقد بيَّنا ذلك كله ووجوهه فيما مضى بما أغنى عن إعادته في هذا الموضع. وقرأ ذلك الحسن بكسر الطاء، وقال: بُثَّتْ فيه البركة والتقديس مرّتين. حدثنا بذلك أحمد بن يوسف، قال: ثنا القاسم، قال: ثنا هشيم، عن عوف، عن الحسن.
+
+واختلفت القراء في قراءة ذلك، فقرأته عامة قرّاء المدينة والبصرة ﴿طُوًى﴾ بالضمّ ولم يجرّوه وقرأ ذلك بعض أهل الشأم والكوفة ﴿طُوًى﴾ بضمّ الطاء والتنوين.
+
+* *
+
+وقوله: ﴿اذْهَبْ إِلَى فِرْعَوْنَ إِنَّهُ طَغَى﴾
+
+يقول تعالى ذكره: نادى موسى ربُّه: أن اذهب إلى فرعون، فحذفت " أن" إذ كان النداء قولا فكأنه قيل لموسى قال ربه: اذهب إلى فرعون.
+
+* *
+
+وقوله: ﴿إِنَّهُ طَغَى﴾
+
+يقول: عتا وتجاوز حدّه في العدوان، والتكبر على ربه.
+
+* *
+
+وقوله: ﴿فَقُلْ هَلْ لَكَ إِلَى أَنْ تَزَكَّى﴾
+
+يقول: فقل له: هل لك إلى أن تتطهَّر من دنس الكفر، وتؤمِن بربك؟
+
+كما:-
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد في قوله: ﴿هَلْ لَكَ إِلَى أَنْ تَزَكَّى﴾ قال: إلى أن تُسلم. قال: والتزكي في القرآن كله: الإسلام، وقرأ قول الله: ﴿وَذَلِكَ جَزَاءُ مَنْ تَزَكَّى﴾ قال: من أسلم، وقرأ ﴿وَمَا يُدْرِيكَ لَعَلَّهُ يَزَّكَّى﴾ قال: يسلم، وقرأ ﴿وَمَا عَلَيْكَ أَلا يَزَّكَّى﴾ . ألا يسلم.
+
+⁕ حدثني سعيد بن عبد الله بن عبد الحَكَم، قال: ثنا حفص بن عُمَرَ العَدَنِيّ، عن الحكم بن أبان عن عكرمة، قول موسى لفرعون: ﴿هَلْ لَكَ إِلَى أَنْ تَزَكَّى﴾ هل لك إلى أن تقول: لا إله إلا الله.
+
+واختلفت القرّاء في قراءة قوله: ﴿تَزَكَّى﴾ فقرأته عامة قرَّاء المدينة ﴿تَزَّكَّى﴾ بتشديد الزاي، وقرأته عامة قرّاء الكوفة والبصرة ﴿إِلَى أَنْ تَزَكَّى﴾ بتخفيف الزاي. وكان أبو عمرو يقول فيما ذُكر عنه ﴿تَزَّكَّى﴾ بتشديد الزاي، بمعنى: تتصدّق بالزكاة، فتقول: تتزكى، ثم تدغم، وموسى لم يدع فرعون إلى أن يتصدّق وهو كافر، إنما دعاه إلى الإسلام، فقال: تزكى: أي تكون زاكيا مؤمنا، والتخفيف في الزاي هو أفصح القراءتين في العربية.
 
 ### al-Muyassar (Arabic)
 
-حين ناداه ربه بالوادي المطهَّر المبارك "طوى"، فقال له: اذهب إلى فرعون، إنه قد أفرط في العصيان، فقل له: أتودُّ أن تطهِّر نفسك من النقائص وتحليها بالإيمان، وأُرشدك إلى طاعة ربك، فتخشاه وتتقيه؟
+فقال له: اذهب إلى فرعون، إنه قد أفرط في العصيان، فقل له: أتودُّ أن تطهِّر نفسك من النقائص وتحليها بالإيمان، وأُرشدك إلى طاعة ربك، فتخشاه وتتقيه؟
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿اِذْهَبْ إلى فِرْعَوْن إنَّهُ طَغى﴾ تَجاوَزَ الحَدّ فِي الكُفْر
 
 ---
 
@@ -409,20 +3690,277 @@ Allah informs His Messenger Muhammad ﷺ about His Messenger Musa. He mentions t
 
 ### Ibn Kathir (English)
 
+Has there come to you the story of Musa (15)When his Lord called him in the holy valley of Tuwa (16)Go to Fir'awn; verily, he has transgressed all bounds (17)And say to him: "Would you purify yourself? (18)"And that I guide you to your Lord, so you should fear Him? (19)Then he showed him the great sign (20)But he denied and disobeyed (21)Then he turned back, striving (22)So he gathered and called out (23)Saying: "I am your lord, most high. (24)So Allah seized him with punishing example for the Hereafter and the first (life)(25)In this is a lesson for whoever fears (26)
+
 Mentioning the Story of Musa and that it is a Lesson for Those Who fear Allah
-Allah informs His Messenger Muhammad ﷺ about His Messenger Musa. He mentions that he sent Musa to Fir`awn and He aided him with miracles. Yet, even after this, Fir`awn continued in his disbelief and transgression until Allah seized him with a mighty and powerful punishment. Thus is the punishment of whoever opposes you (Muhammad ﷺ) and rejects that which you have been sent with. This is why Allah says at the end of ...
+
+Allah informs His Messenger Muhammad ﷺ about His Messenger Musa. He mentions that he sent Musa to Fir'awn and He aided him with miracles. Yet, even after this, Fir'awn continued in his disbelief and transgression until Allah seized him with a mighty and powerful punishment. Thus is the punishment of whoever opposes you (Muhammad ﷺ) and rejects that which you have been sent with. This is why Allah says at the end of the story,
+
+إِنَّ فِي ذَٰلِكَ لَعِبْرَةً لِّمَن يَخْشَىٰ
+
+(In this is a Lesson for whoever fears.)
+
+Allah begins by saying,
+
+هَلْ أَتَاكَ حَدِيثُ مُوسَىٰ
+
+(Has there come to you the story of Musa?)
+
+meaning, have you heard of his story?
+
+إِذْ نَادَاهُ رَبُّهُ
+
+(When his Lord called him) meaning, He called out speaking to him.
+
+بِالْوَادِ الْمُقَدَّسِ
+
+(in the holy valley) meaning purified
+
+طُوًى
+
+(Tuwa) According to what is correct, it is the name of a valley, as preceded in Surah Ta Ha. So, He said to him:
+
+اذْهَبْ إِلَىٰ فِرْعَوْنَ إِنَّهُ طَغَىٰ
+
+(Go to Fir'awn; verily, he has transgressed all bounds.)
+
+meaning, he has become haughty, rebellious and arrogant.
+
+فَقُلْ هَل لَّكَ إِلَىٰ أَن تَزَكَّىٰ
+
+(And say to him: "Would you purify yourself'?')
+
+meaning, say to him, "Will you respond to the path and way that will purify you?" This means, 'will you submit (accept Islam) and be obedient?'
+
+وَأَهْدِيَكَ إِلَىٰ رَبِّكَ
+
+(And that I guide to your Lord,) meaning, 'I will guide you to the worship of your Lord.'
+
+فَتَخْشَىٰ
+
+(so that you fear) meaning, 'so that your heart will become humble, obedient, and submissive to Him after it was hard, evil, and far away from goodness.'
+
+فَأَرَاهُ الْآيَةَ الْكُبْرَىٰ
+
+(Then he showed him the great sign.) This means that Musa showed him – along with this truthful call – a strong evidence and a clear proof of the truthfulness of what he had come up with from Allah.
+
+فَكَذَّبَ وَعَصَىٰ
+
+(But he denied and disobeyed.) meaning, he (Fir'awn) rejected the truth and opposed what Musa commanded him with of obedience. So what happened with him was that his heart disbelieved, and Musa (i.e., his call) could not internally or externally affect it. Along with this, his knowledge that what Musa had come to him with was the truth, did not necessitate his being a believer in it. This is because recognition is the knowledge of the heart, and faith is its action. And it (faith) is to comply with the truth and submit to it.
+
+Concerning Allah's statement,
+
+ثُمَّ أَدْبَرَ يَسْعَىٰ
+
+(Then he turned back, striving.) meaning, in responding to the truth with falsehood. This was by his gathering the group of magicians in order to confront that which Musa had come up with of spectacular miracles.
+
+فَحَشَرَ فَنَادَىٰ
+
+(So he gathered (his people) and called out) meaning, among his people.
+
+فَقَالَ أَنَا رَبُّكُمُ الْأَعْلَىٰ
+
+(Saying; I am your lord, most high.")
+
+Ibn 'Abbas and Mujahid both said, "This is the word which Fir'awn said after he said,
+
+مَا عَلِمْتُ لَكُم مِّنْ إِلَٰهٍ غَيْرِي
+
+('I have not known of any other god for you all other than me)(28:38) for the past forty years.'" Allah then says,
+
+فَأَخَذَهُ اللَّهُ نَكَالَ الْآخِرَةِ وَالْأُولَىٰ
+
+(So Allah seized him with a punishing example for the Hereafter and the first (life).
+
+meaning, Allah avenged Himself against him with a severe vengeance, and He made an example and admonition of him for those rebellious people in the world who are like him.
+
+وَيَوْمَ الْقِيَامَةِ ۚ بِئْسَ الرِّفْدُ الْمَرْفُودُ
+
+(And on the Day of Resurrection, evil indeed is the gift gifted [i.e., the curse (in this world) pursued by another curse (in this world) pursued by another curse (in the Hereafter)].)(11:99)
+
+This is as Allah says,
+
+وَجَعَلْنَاهُمْ أَئِمَّةً يَدْعُونَ إِلَى النَّارِ ۖ وَيَوْمَ الْقِيَامَةِ لَا يُنصَرُونَ
+
+(And We made them leaders inviting to the Fire: and on the Day of Resurrection, they will not be helped.)(28:41)
+
+Allah said;
+
+إِنَّ فِي ذَٰلِكَ لَعِبْرَةً لِّمَن يَخْشَىٰ
+
+(In this is a lesson for whoever fears.)
+
+أَأَنتُمْ أَشَدُّ خَلْقًا أَمِ السَّمَاءُ ۚ بَنَاهَا - رَفَعَ سَمْكَهَا فَسَوَّاهَا - وَأَغْطَشَ لَيْلَهَا وَأَخْرَجَ ضُحَاهَا - وَالْأَرْضَ بَعْدَ ذَٰلِكَ دَحَاهَا - أَخْرَجَ مِنْهَا مَاءَهَا وَمَرْعَاهَا - وَالْجِبَالَ أَرْسَاهَا - مَتَاعًا لَّكُمْ وَلِأَنْعَامِكُمْ
+
+(27. Are you more difficult to create or is the heaven that He constructed?)(28. He raised its height, and has perfected it.)(29. Its night He covers and He brings out its forenoon.)(30. And after that He spread the earth,)(31. And brought forth therefrom its water and its pasture.)(32. And the mountains He has fixed firmly,)(33. As provision and benefit for you and your cattle.)
+
+Creating the Heavens and the Earth is more difficult than repeating Creation
+
+In refutation of the claim rejecting resurrection due to the renewal of creation after its original state, Allah says;
+
+أَأَنتُمْ
+
+(Are you) 'O people'
+
+أَشَدُّ خَلْقًا أَمِ السَّمَاءُ
+
+(more difficult to create or is the heaven…?)
+
+meaning, 'rather the heaven is more difficult to create than you.' As Allah said;
+
+لَخَلْقُ السَّمَاوَاتِ وَالْأَرْضِ أَكْبَرُ مِنْ خَلْقِ النَّاسِ
+
+(the creation of the heavens and the earth is greater than the creation of mankind;)(40:57)
+
+And His saying;
+
+أَوَلَيْسَ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ بِقَادِرٍ عَلَىٰ أَن يَخْلُقَ مِثْلَهُم ۚ بَلَىٰ وَهُوَ الْخَلَّاقُ الْعَلِيمُ
+
+(Is not the One Who created the heavens and the earth, capable of creating the similar to them. Yes, indeed! He is the Supreme Creator, the All-Knowing.)(36:81)
+
+Then Allah says,
+
+بَنَاهَا
+
+(He constructed) He explains this by His statement,
+
+رَفَعَ سَمْكَهَا فَسَوَّاهَا
+
+(He raised its height, and has perfected it.)
+
+meaning, He made it a lofty structure, vast in its space, with equal sides, and adorned with stars at night and in the darkness. Then Allah says,
+
+وَأَغْطَشَ لَيْلَهَا وَأَخْرَجَ ضُحَاهَا
+
+(Its night He covers and He brings out its forenoon.)
+
+meaning, He made its night dark and extremely black, and its day bright, luminous, shining and clear. Ibn 'Abbas said, "He did Aghtasha of its night means that He made it dark." Mujahid, 'Ikrimah, Sa'id bin Jubayr and a large group have said this as well. In reference to Allah's statement,
+
+وَأَخْرَجَ ضُحَاهَا
+
+(And He brings out its forenoon.) meaning, He illuminated its day. Then Allah says,
+
+وَالْأَرْضَ بَعْدَ ذَٰلِكَ دَحَاهَا
+
+(And after that He spread the earth,) He explains this statement by the statement that follows it,
+
+أَخْرَجَ مِنْهَا مَاءَهَا وَمَرْعَاهَا
+
+(And brought forth therefrom its water and its pasture.)
+
+It already has been mentioned previously in Surat Ha Mim As-Sajdah that the earth was created before the heaven was created, but it was only spread out after the creation of the heaven. This means that He brought out what was in it with a forceful action. This is the meaning of what was said by Ibn 'Abbas and others, and it was the explanation preferred by Ibn Jarir.
+
+In reference to the statement of Allah,
+
+وَالْجِبَالَ أَرْسَاهَا
+
+(And the mountains He has fixed firmly,) meaning, He settled them, made them firm, and established them in their places. And He is the Most Wise, the All-Knowing. He is Most Kind to His creation, Most Merciful.
+
+Allah then says,
+
+مَتَاعًا لَّكُمْ وَلِأَنْعَامِكُمْ
+
+(As provision and benefit for you and your cattle.)
+
+meaning, He spread out the earth, caused its springs to gush forth, brought forth its hidden benefits, caused its rivers to flow, and caused its vegetation, trees, and fruits to grow. He also made its mountains firm so that it (the earth) would be calmly settled with its dwellers, and He stabilized its dwelling places. All of this is a means of beneficial enjoyment for His creatures (mankind) providing them of what cattle they need, which they eat and ride upon. He has granted them these beneficial things for the period that they need them, in this worldly abode, until the end of time and the expiration of this life.
 
 ### al-Tabari (Arabic)
 
-وقوله: ( إِنَّ فِي ذَلِكَ لَعِبْرَةً لِمَنْ يَخْشَى ) يقول تعالى ذكره: إن في العقوبة التي عاقب الله بها فرعون في عاجل الدنيا، وفي أخذه إياه نكال الآخرة والأولى، عظة ومعتبرا لمن يخاف الله ويخشى عقابه، وأخرج نكال الآخرة مصدرا من قوله: ( فَأَخَذَهُ اللَّهُ ) لأن قوله ( فَأَخَذَهُ اللَّهُ ) نكل به فجعل ( نَكَالَ الآخِرَةِ ) مصدرا من معناه لا من لفظه.
+القول في تأويل قوله تعالى: ﴿فَأَخَذَهُ اللَّهُ نَكَالَ الآخِرَةِ وَالأولَى (٢٥) إِنَّ فِي ذَلِكَ لَعِبْرَةً لِمَنْ يَخْشَى (٢٦) أَأَنْتُمْ أَشَدُّ خَلْقًا أَمِ السَّمَاءُ بَنَاهَا (٢٧) رَفَعَ سَمْكَهَا فَسَوَّاهَا (٢٨) ﴾
+
+.
+
+يعني تعالى ذكره بقوله: ﴿فَأَخَذَهُ اللَّهُ﴾ فعاقبه الله ﴿نَكَالَ الآخِرَةِ وَالأولَى﴾ يقول: عقوبة الآخرة من كلمتيه، وهي قوله: ﴿أَنَا رَبُّكُمُ الأعْلَى﴾ ، والأولى قوله: ﴿مَا عَلِمْتُ لَكُمْ مِنْ إِلَهٍ غَيْرِي﴾ .
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا أبو كُرَيب، قال: سمعت أبا بكر، وسُئل عن هذا فقال: كان بينهما أربعون سنة، بين قوله: ﴿مَا عَلِمْتُ لَكُمْ مِنْ إِلَهٍ غَيْرِي﴾ ، وقوله: ﴿أَنَا رَبُّكُمُ الأعْلَى﴾ قال: هما كلمتاه، ﴿فَأَخَذَهُ اللَّهُ نَكَالَ الآخِرَةِ وَالأولَى﴾ قيل له: مَن ذكره؟ قال: أبو حصين، فقيل له: عن أبي الضُّحَى، عن ابن عباس؟ قال: نعم.
+
+⁕ حدثني محمد بن سعد، قال: ثني أبي قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس، قوله: ﴿فَأَخَذَهُ اللَّهُ نَكَالَ الآخِرَةِ وَالأولَى﴾ قال: أما الأولى فحين قال: ﴿مَا عَلِمْتُ لَكُمْ مِنْ إِلَهٍ غَيْرِي﴾ ، وأما الآخرة فحين قال: ﴿أَنَا رَبُّكُمُ الأعْلَى﴾ .
+
+⁕ حدثنا ابن بشار، قال: ثنا عبد الرحمن، قال: ثنا محمد بن أبي الوضَّاح، عن عبد الكريم الجَزريّ، عن مجاهد، في قوله: ﴿فَأَخَذَهُ اللَّهُ نَكَالَ الآخِرَةِ وَالأولَى﴾ قال: هو قوله: ﴿مَا عَلِمْتُ لَكُمْ مِنْ إِلَهٍ غَيْرِي﴾ ، وقوله: ﴿أَنَا رَبُّكُمُ الأعْلَى﴾ وكان بينهما أربعون سنة.
+
+⁕ حدثنا ابن بشار، قال: ثنا عبد الرحمن، قال: ثنا أبو عوانة، عن إسماعيل الأسدي، عن الشعبيّ بمثله.
+
+⁕ حدثنا أبو كُرَيب، قال: ثنا وكيع، عن زكريا، عن عامر ﴿نَكَالَ الآخِرَةِ وَالأولَى﴾ قال: هما كلمتاه ﴿مَا عَلِمْتُ لَكُمْ مِنْ إِلَهٍ غَيْرِي﴾ و ﴿أَنَا رَبُّكُمُ الأعْلَى﴾ .
+
+⁕ حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى، وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء، جميعا عن ابن أبي نجيح، عن مجاهد، قوله: ﴿نَكَالَ الآخِرَةِ وَالأولَى﴾ فذلك قوله: ﴿مَا عَلِمْتُ لَكُمْ مِنْ إِلَهٍ غَيْرِي﴾ والآخرة في قوله: ﴿أَنَا رَبُّكُمُ الأعْلَى﴾ .
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، قال: أخبرني من سمع مجاهدا يقول: كان بين قول فرعون: ﴿مَا عَلِمْتُ لَكُمْ مِنْ إِلَهٍ غَيْرِي﴾ وبين قوله: ﴿أَنَا رَبُّكُمُ الأعْلَى﴾ أربعون سنة.
+
+⁕ حُدثت عن الحسين، قال: سمعت أبا معاذ يقول: ثنا عبيد، قال: سمعت الضحاك يقول في قوله: ﴿نَكَالَ الآخِرَةِ وَالأولَى﴾ أما الأولى فحين قال فرعون: ﴿مَا عَلِمْتُ لَكُمْ مِنْ إِلَهٍ غَيْرِي﴾ ، وأما الآخرة فحين قال: ﴿أَنَا رَبُّكُمُ الأعْلَى﴾ فأخذه الله بكلمتيه كلتيهما، فأغرقه في اليم.
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد في قوله: ﴿فَأَخَذَهُ اللَّهُ نَكَالَ الآخِرَةِ وَالأولَى﴾ قال: اختلفوا فيها فمنهم من قال: نكال الآخرة من كلمتيه، والأولى قوله: ﴿مَا عَلِمْتُ لَكُمْ مِنْ إِلَهٍ غَيْرِي﴾ وقوله: ﴿أَنَا رَبُّكُمُ الأعْلَى﴾ .
+
+وقال آخرون: عذاب الدنيا وعذاب الآخرة، عجَّل الله له الغرق مع ما أعدّ له من العذاب في الآخرة.
+
+⁕ حدثنا ابن حميد، قال: ثنا مهران، عن سفيان، عن الأعمش، عن خيثمة الجعفي، قال: كان بين كلمتي فرعون أربعون سنة، قوله: ﴿أَنَا رَبُّكُمُ الأعْلَى﴾ ، وقوله: ﴿مَا عَلِمْتُ لَكُمْ مِنْ إِلَهٍ غَيْرِي﴾ .
+
+⁕ حدثنا أبو كُرَيب، قال: ثنا وكيع، عن إسرائيل، عن ثُوير، عن مجاهد، قال: مكث فرعون في قومه بعد ما قال: ﴿أَنَا رَبُّكُمُ الأعْلَى﴾ أربعين سنة.
+
+قال آخرون: بل عُنِيَ بذلك: فأخذه الله نكال الدنيا والآخرة.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا ابن بشار، قال: ثنا هَوْذَة، قال: ثنا عوف، عن الحسن، في قوله: ﴿فَأَخَذَهُ اللَّهُ نَكَالَ الآخِرَةِ وَالأولَى﴾ قال: الدنيا والآخرة.
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، عن الحسن ﴿فَأَخَذَهُ اللَّهُ نَكَالَ الآخِرَةِ وَالأولَى﴾ قال: عقوبة الدنيا والآخرة، وهو قول قتادة.
+
+وقال آخرون: الأولى عصيانه ربه وكفره به، والآخرة قوله: ﴿أَنَا رَبُّكُمُ الأعْلَى﴾ .
+
+ذكر من قال ذلك:
+
+⁕ حدثنا ابن حميد، قال: ثنا مهران، عن سفيان، عن إسماعيل بن سميع، عن أبي رَزين ﴿فَأَخَذَهُ اللَّهُ نَكَالَ الآخِرَةِ وَالأولَى﴾ قال: الأولى تكذيبه وعصيانه، والآخرة قوله: ﴿أَنَا رَبُّكُمُ الأعْلَى﴾ ، ثم قرأ: ﴿فَكَذَّبَ وَعَصَى ثُمَّ أَدْبَرَ يَسْعَى فَحَشَرَ فَنَادَى فَقَالَ أَنَا رَبُّكُمُ الأعْلَى﴾ فهي الكلمة الآخرة.
+
+وقال آخرون: بل عُنِيَ بذلك أنه أخذه بأوّل عمله وآخره.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا ابن حميد، قال: ثنا مهران، عن سفيان، عن منصور، عن مجاهد ﴿فَأَخَذَهُ اللَّهُ نَكَالَ الآخِرَةِ وَالأولَى﴾ قال: أوّل عمله وآخره.
+
+⁕ حدثنا ابن بشار، قال: ثنا عبد الرحمن، قال: ثنا سفيان، عن منصور، عن مجاهد ﴿فَأَخَذَهُ اللَّهُ نَكَالَ الآخِرَةِ وَالأولَى﴾ قال: أول أعماله وآخرها.
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن الكلبي: ﴿فَأَخَذَهُ اللَّهُ نَكَالَ الآخِرَةِ وَالأولَى﴾ قال: نكال الآخرة من المعصية والأولى.
+
+⁕ حدثنا ابن حميد، قال: ثنا جرير، عن منصور، عن مجاهد، قوله: ﴿نَكَالَ الآخِرَةِ وَالأولَى﴾ قال: عمله للآخرة والأولى.
+
+* *
+
+وقوله: ﴿إِنَّ فِي ذَلِكَ لَعِبْرَةً لِمَنْ يَخْشَى﴾
+
+يقول تعالى ذكره: إن في العقوبة التي عاقب الله بها فرعون في عاجل الدنيا، وفي أخذه إياه نكال الآخرة والأولى، عظة ومعتبرا لمن يخاف الله ويخشى عقابه، وأخرج نكال الآخرة مصدرا من قوله: ﴿فَأَخَذَهُ اللَّهُ﴾ لأن قوله ﴿فَأَخَذَهُ اللَّهُ﴾ نكل به فجعل ﴿نَكَالَ الآخِرَةِ﴾ مصدرا من معناه لا من لفظه.
+
+* *
+
+وقوله: ﴿أَأَنْتُمْ أَشَدُّ خَلْقًا أَمِ السَّمَاءُ بَنَاهَا﴾
+
+يقول تعالى ذكره للمكذّبين بالبعث من قريش، القائلين: ﴿أَئِذَا كُنَّا عِظَامًا نَخِرَةً قَالُوا تِلْكَ إِذًا كَرَّةٌ خَاسِرَةٌ﴾ أأنتم أيها الناس أشد خلقا، أم السماء بناها ربكم، فإن من بنى السماء فرفعها سقفا، هَيِّن عليه خلقكم وخلق أمثالكم، وإحياؤكم بعد مماتكم وليس خلقكم بعد مماتكم بأشدّ من خلق السماء. وعني بقوله: ﴿بَناها﴾ : رفعها فجعلها للأرض سقفا.
+
+* *
+
+وقوله: ﴿رَفَعَ سَمْكَهَا فَسَوَّاهَا﴾
+
+يقول تعالى ذكره: فسوّى السماء، فلا شيء أرفع من شيء، ولا شيء أخفض من شيء، ولكن جميعها مستوي الارتفاع والامتداد.
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: ﴿رَفَعَ سَمْكَهَا فَسَوَّاهَا﴾ يقول: رفع بناءها فسوّاها.
+
+⁕ حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى، وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء، جميعا عن ابن أبي نجيح، عن مجاهد، قوله: ﴿رَفَعَ سَمْكَهَا فَسَوَّاهَا﴾ قال: رفع بناءها بغير عمد.
+
+⁕ حدثني عليّ، قال: ثنا أبو صالح، قال: ثني معاوية، عن عليّ، عن ابن عباس، قوله: ﴿رَفَعَ سَمْكَهَا﴾ يقول: بُنيانها.
 
 ### al-Muyassar (Arabic)
 
-فجمع أهل مملكته وناداهم، فقال: أنا ربكم الذي لا ربَّ فوقه، فانتقم الله منه بالعذاب في الدنيا والآخرة، وجعله عبرة ونكالا لأمثاله من المتمردين. إن في فرعون وما نزل به من العذاب لموعظةً لمن يتعظ وينزجر.
+فجمع أهل مملكته وناداهم، فقال: أنا ربكم الذي لا ربَّ فوقه، فانتقم الله منه بالعذاب في الدنيا والآخرة، وجعله عبرة ونكالًا لأمثاله من المتمردين. إن في فرعون وما نزل به من العذاب لموعظةً لمن يتعظ وينزجر.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿إنَّ فِي ذَلِكَ﴾ المَذْكُور ﴿لَعِبْرَةٌ لِمَن يَخْشى﴾ اللَّه تَعالى
 
 ---
 
@@ -430,26 +3968,277 @@ Allah informs His Messenger Muhammad ﷺ about His Messenger Musa. He mentions t
 
 ### Ibn Kathir (English)
 
+Has there come to you the story of Musa (15)When his Lord called him in the holy valley of Tuwa (16)Go to Fir'awn; verily, he has transgressed all bounds (17)And say to him: "Would you purify yourself? (18)"And that I guide you to your Lord, so you should fear Him? (19)Then he showed him the great sign (20)But he denied and disobeyed (21)Then he turned back, striving (22)So he gathered and called out (23)Saying: "I am your lord, most high. (24)So Allah seized him with punishing example for the Hereafter and the first (life)(25)In this is a lesson for whoever fears (26)
+
+Mentioning the Story of Musa and that it is a Lesson for Those Who fear Allah
+
+Allah informs His Messenger Muhammad ﷺ about His Messenger Musa. He mentions that he sent Musa to Fir'awn and He aided him with miracles. Yet, even after this, Fir'awn continued in his disbelief and transgression until Allah seized him with a mighty and powerful punishment. Thus is the punishment of whoever opposes you (Muhammad ﷺ) and rejects that which you have been sent with. This is why Allah says at the end of the story,
+
+إِنَّ فِي ذَٰلِكَ لَعِبْرَةً لِّمَن يَخْشَىٰ
+
+(In this is a Lesson for whoever fears.)
+
+Allah begins by saying,
+
+هَلْ أَتَاكَ حَدِيثُ مُوسَىٰ
+
+(Has there come to you the story of Musa?)
+
+meaning, have you heard of his story?
+
+إِذْ نَادَاهُ رَبُّهُ
+
+(When his Lord called him) meaning, He called out speaking to him.
+
+بِالْوَادِ الْمُقَدَّسِ
+
+(in the holy valley) meaning purified
+
+طُوًى
+
+(Tuwa) According to what is correct, it is the name of a valley, as preceded in Surah Ta Ha. So, He said to him:
+
+اذْهَبْ إِلَىٰ فِرْعَوْنَ إِنَّهُ طَغَىٰ
+
+(Go to Fir'awn; verily, he has transgressed all bounds.)
+
+meaning, he has become haughty, rebellious and arrogant.
+
+فَقُلْ هَل لَّكَ إِلَىٰ أَن تَزَكَّىٰ
+
+(And say to him: "Would you purify yourself'?')
+
+meaning, say to him, "Will you respond to the path and way that will purify you?" This means, 'will you submit (accept Islam) and be obedient?'
+
+وَأَهْدِيَكَ إِلَىٰ رَبِّكَ
+
+(And that I guide to your Lord,) meaning, 'I will guide you to the worship of your Lord.'
+
+فَتَخْشَىٰ
+
+(so that you fear) meaning, 'so that your heart will become humble, obedient, and submissive to Him after it was hard, evil, and far away from goodness.'
+
+فَأَرَاهُ الْآيَةَ الْكُبْرَىٰ
+
+(Then he showed him the great sign.) This means that Musa showed him – along with this truthful call – a strong evidence and a clear proof of the truthfulness of what he had come up with from Allah.
+
+فَكَذَّبَ وَعَصَىٰ
+
+(But he denied and disobeyed.) meaning, he (Fir'awn) rejected the truth and opposed what Musa commanded him with of obedience. So what happened with him was that his heart disbelieved, and Musa (i.e., his call) could not internally or externally affect it. Along with this, his knowledge that what Musa had come to him with was the truth, did not necessitate his being a believer in it. This is because recognition is the knowledge of the heart, and faith is its action. And it (faith) is to comply with the truth and submit to it.
+
+Concerning Allah's statement,
+
+ثُمَّ أَدْبَرَ يَسْعَىٰ
+
+(Then he turned back, striving.) meaning, in responding to the truth with falsehood. This was by his gathering the group of magicians in order to confront that which Musa had come up with of spectacular miracles.
+
+فَحَشَرَ فَنَادَىٰ
+
+(So he gathered (his people) and called out) meaning, among his people.
+
+فَقَالَ أَنَا رَبُّكُمُ الْأَعْلَىٰ
+
+(Saying; I am your lord, most high.")
+
+Ibn 'Abbas and Mujahid both said, "This is the word which Fir'awn said after he said,
+
+مَا عَلِمْتُ لَكُم مِّنْ إِلَٰهٍ غَيْرِي
+
+('I have not known of any other god for you all other than me)(28:38) for the past forty years.'" Allah then says,
+
+فَأَخَذَهُ اللَّهُ نَكَالَ الْآخِرَةِ وَالْأُولَىٰ
+
+(So Allah seized him with a punishing example for the Hereafter and the first (life).
+
+meaning, Allah avenged Himself against him with a severe vengeance, and He made an example and admonition of him for those rebellious people in the world who are like him.
+
+وَيَوْمَ الْقِيَامَةِ ۚ بِئْسَ الرِّفْدُ الْمَرْفُودُ
+
+(And on the Day of Resurrection, evil indeed is the gift gifted [i.e., the curse (in this world) pursued by another curse (in this world) pursued by another curse (in the Hereafter)].)(11:99)
+
+This is as Allah says,
+
+وَجَعَلْنَاهُمْ أَئِمَّةً يَدْعُونَ إِلَى النَّارِ ۖ وَيَوْمَ الْقِيَامَةِ لَا يُنصَرُونَ
+
+(And We made them leaders inviting to the Fire: and on the Day of Resurrection, they will not be helped.)(28:41)
+
+Allah said;
+
+إِنَّ فِي ذَٰلِكَ لَعِبْرَةً لِّمَن يَخْشَىٰ
+
+(In this is a lesson for whoever fears.)
+
+أَأَنتُمْ أَشَدُّ خَلْقًا أَمِ السَّمَاءُ ۚ بَنَاهَا - رَفَعَ سَمْكَهَا فَسَوَّاهَا - وَأَغْطَشَ لَيْلَهَا وَأَخْرَجَ ضُحَاهَا - وَالْأَرْضَ بَعْدَ ذَٰلِكَ دَحَاهَا - أَخْرَجَ مِنْهَا مَاءَهَا وَمَرْعَاهَا - وَالْجِبَالَ أَرْسَاهَا - مَتَاعًا لَّكُمْ وَلِأَنْعَامِكُمْ
+
+(27. Are you more difficult to create or is the heaven that He constructed?)(28. He raised its height, and has perfected it.)(29. Its night He covers and He brings out its forenoon.)(30. And after that He spread the earth,)(31. And brought forth therefrom its water and its pasture.)(32. And the mountains He has fixed firmly,)(33. As provision and benefit for you and your cattle.)
+
 Creating the Heavens and the Earth is more difficult than repeating Creation
-in refutation of the claim rejecting resurrection due to the renewal of creation after its original state, Allah says;
-ءَأَنتُمْ
-(Are you) `O people'
-أَشَدُّ خَلْقاً أَمِ السَّمَآءُ
-(more difficult to create or is the heaven...) meaning, `rather the heaven is more difficult to create than you.' As Allah said;
-لَخَلْقُ السَّمَـوَتِ وَالاٌّرْضِ أَكْـبَرُ مِنْ خَلْقِ النَّاسِ
-(the creation of the heavens and the earth i...
+
+In refutation of the claim rejecting resurrection due to the renewal of creation after its original state, Allah says;
+
+أَأَنتُمْ
+
+(Are you) 'O people'
+
+أَشَدُّ خَلْقًا أَمِ السَّمَاءُ
+
+(more difficult to create or is the heaven…?)
+
+meaning, 'rather the heaven is more difficult to create than you.' As Allah said;
+
+لَخَلْقُ السَّمَاوَاتِ وَالْأَرْضِ أَكْبَرُ مِنْ خَلْقِ النَّاسِ
+
+(the creation of the heavens and the earth is greater than the creation of mankind;)(40:57)
+
+And His saying;
+
+أَوَلَيْسَ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ بِقَادِرٍ عَلَىٰ أَن يَخْلُقَ مِثْلَهُم ۚ بَلَىٰ وَهُوَ الْخَلَّاقُ الْعَلِيمُ
+
+(Is not the One Who created the heavens and the earth, capable of creating the similar to them. Yes, indeed! He is the Supreme Creator, the All-Knowing.)(36:81)
+
+Then Allah says,
+
+بَنَاهَا
+
+(He constructed) He explains this by His statement,
+
+رَفَعَ سَمْكَهَا فَسَوَّاهَا
+
+(He raised its height, and has perfected it.)
+
+meaning, He made it a lofty structure, vast in its space, with equal sides, and adorned with stars at night and in the darkness. Then Allah says,
+
+وَأَغْطَشَ لَيْلَهَا وَأَخْرَجَ ضُحَاهَا
+
+(Its night He covers and He brings out its forenoon.)
+
+meaning, He made its night dark and extremely black, and its day bright, luminous, shining and clear. Ibn 'Abbas said, "He did Aghtasha of its night means that He made it dark." Mujahid, 'Ikrimah, Sa'id bin Jubayr and a large group have said this as well. In reference to Allah's statement,
+
+وَأَخْرَجَ ضُحَاهَا
+
+(And He brings out its forenoon.) meaning, He illuminated its day. Then Allah says,
+
+وَالْأَرْضَ بَعْدَ ذَٰلِكَ دَحَاهَا
+
+(And after that He spread the earth,) He explains this statement by the statement that follows it,
+
+أَخْرَجَ مِنْهَا مَاءَهَا وَمَرْعَاهَا
+
+(And brought forth therefrom its water and its pasture.)
+
+It already has been mentioned previously in Surat Ha Mim As-Sajdah that the earth was created before the heaven was created, but it was only spread out after the creation of the heaven. This means that He brought out what was in it with a forceful action. This is the meaning of what was said by Ibn 'Abbas and others, and it was the explanation preferred by Ibn Jarir.
+
+In reference to the statement of Allah,
+
+وَالْجِبَالَ أَرْسَاهَا
+
+(And the mountains He has fixed firmly,) meaning, He settled them, made them firm, and established them in their places. And He is the Most Wise, the All-Knowing. He is Most Kind to His creation, Most Merciful.
+
+Allah then says,
+
+مَتَاعًا لَّكُمْ وَلِأَنْعَامِكُمْ
+
+(As provision and benefit for you and your cattle.)
+
+meaning, He spread out the earth, caused its springs to gush forth, brought forth its hidden benefits, caused its rivers to flow, and caused its vegetation, trees, and fruits to grow. He also made its mountains firm so that it (the earth) would be calmly settled with its dwellers, and He stabilized its dwelling places. All of this is a means of beneficial enjoyment for His creatures (mankind) providing them of what cattle they need, which they eat and ride upon. He has granted them these beneficial things for the period that they need them, in this worldly abode, until the end of time and the expiration of this life.
 
 ### al-Tabari (Arabic)
 
-وقوله: ( رَفَعَ سَمْكَهَا فَسَوَّاهَا ) يقول تعالى ذكره: فسوّى السماء، فلا شيء أرفع من شيء، ولا شيء أخفض من شيء، ولكن جميعها مستوي الارتفاع والامتداد.وبنحو الذي قلنا في ذلك قال أهل التأويل.* ذكر من قال ذلك:حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: ( رَفَعَ سَمْكَهَا فَسَوَّاهَا ) يقول: رفع بناءها فسوّاها .حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى، وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء، جميعا عن ابن أبي نجيح، عن مجاهد، قوله: ( رَفَعَ سَمْكَهَا فَسَوَّاهَا ) قا...
+القول في تأويل قوله تعالى: ﴿فَأَخَذَهُ اللَّهُ نَكَالَ الآخِرَةِ وَالأولَى (٢٥) إِنَّ فِي ذَلِكَ لَعِبْرَةً لِمَنْ يَخْشَى (٢٦) أَأَنْتُمْ أَشَدُّ خَلْقًا أَمِ السَّمَاءُ بَنَاهَا (٢٧) رَفَعَ سَمْكَهَا فَسَوَّاهَا (٢٨) ﴾
+
+.
+
+يعني تعالى ذكره بقوله: ﴿فَأَخَذَهُ اللَّهُ﴾ فعاقبه الله ﴿نَكَالَ الآخِرَةِ وَالأولَى﴾ يقول: عقوبة الآخرة من كلمتيه، وهي قوله: ﴿أَنَا رَبُّكُمُ الأعْلَى﴾ ، والأولى قوله: ﴿مَا عَلِمْتُ لَكُمْ مِنْ إِلَهٍ غَيْرِي﴾ .
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا أبو كُرَيب، قال: سمعت أبا بكر، وسُئل عن هذا فقال: كان بينهما أربعون سنة، بين قوله: ﴿مَا عَلِمْتُ لَكُمْ مِنْ إِلَهٍ غَيْرِي﴾ ، وقوله: ﴿أَنَا رَبُّكُمُ الأعْلَى﴾ قال: هما كلمتاه، ﴿فَأَخَذَهُ اللَّهُ نَكَالَ الآخِرَةِ وَالأولَى﴾ قيل له: مَن ذكره؟ قال: أبو حصين، فقيل له: عن أبي الضُّحَى، عن ابن عباس؟ قال: نعم.
+
+⁕ حدثني محمد بن سعد، قال: ثني أبي قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس، قوله: ﴿فَأَخَذَهُ اللَّهُ نَكَالَ الآخِرَةِ وَالأولَى﴾ قال: أما الأولى فحين قال: ﴿مَا عَلِمْتُ لَكُمْ مِنْ إِلَهٍ غَيْرِي﴾ ، وأما الآخرة فحين قال: ﴿أَنَا رَبُّكُمُ الأعْلَى﴾ .
+
+⁕ حدثنا ابن بشار، قال: ثنا عبد الرحمن، قال: ثنا محمد بن أبي الوضَّاح، عن عبد الكريم الجَزريّ، عن مجاهد، في قوله: ﴿فَأَخَذَهُ اللَّهُ نَكَالَ الآخِرَةِ وَالأولَى﴾ قال: هو قوله: ﴿مَا عَلِمْتُ لَكُمْ مِنْ إِلَهٍ غَيْرِي﴾ ، وقوله: ﴿أَنَا رَبُّكُمُ الأعْلَى﴾ وكان بينهما أربعون سنة.
+
+⁕ حدثنا ابن بشار، قال: ثنا عبد الرحمن، قال: ثنا أبو عوانة، عن إسماعيل الأسدي، عن الشعبيّ بمثله.
+
+⁕ حدثنا أبو كُرَيب، قال: ثنا وكيع، عن زكريا، عن عامر ﴿نَكَالَ الآخِرَةِ وَالأولَى﴾ قال: هما كلمتاه ﴿مَا عَلِمْتُ لَكُمْ مِنْ إِلَهٍ غَيْرِي﴾ و ﴿أَنَا رَبُّكُمُ الأعْلَى﴾ .
+
+⁕ حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى، وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء، جميعا عن ابن أبي نجيح، عن مجاهد، قوله: ﴿نَكَالَ الآخِرَةِ وَالأولَى﴾ فذلك قوله: ﴿مَا عَلِمْتُ لَكُمْ مِنْ إِلَهٍ غَيْرِي﴾ والآخرة في قوله: ﴿أَنَا رَبُّكُمُ الأعْلَى﴾ .
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، قال: أخبرني من سمع مجاهدا يقول: كان بين قول فرعون: ﴿مَا عَلِمْتُ لَكُمْ مِنْ إِلَهٍ غَيْرِي﴾ وبين قوله: ﴿أَنَا رَبُّكُمُ الأعْلَى﴾ أربعون سنة.
+
+⁕ حُدثت عن الحسين، قال: سمعت أبا معاذ يقول: ثنا عبيد، قال: سمعت الضحاك يقول في قوله: ﴿نَكَالَ الآخِرَةِ وَالأولَى﴾ أما الأولى فحين قال فرعون: ﴿مَا عَلِمْتُ لَكُمْ مِنْ إِلَهٍ غَيْرِي﴾ ، وأما الآخرة فحين قال: ﴿أَنَا رَبُّكُمُ الأعْلَى﴾ فأخذه الله بكلمتيه كلتيهما، فأغرقه في اليم.
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد في قوله: ﴿فَأَخَذَهُ اللَّهُ نَكَالَ الآخِرَةِ وَالأولَى﴾ قال: اختلفوا فيها فمنهم من قال: نكال الآخرة من كلمتيه، والأولى قوله: ﴿مَا عَلِمْتُ لَكُمْ مِنْ إِلَهٍ غَيْرِي﴾ وقوله: ﴿أَنَا رَبُّكُمُ الأعْلَى﴾ .
+
+وقال آخرون: عذاب الدنيا وعذاب الآخرة، عجَّل الله له الغرق مع ما أعدّ له من العذاب في الآخرة.
+
+⁕ حدثنا ابن حميد، قال: ثنا مهران، عن سفيان، عن الأعمش، عن خيثمة الجعفي، قال: كان بين كلمتي فرعون أربعون سنة، قوله: ﴿أَنَا رَبُّكُمُ الأعْلَى﴾ ، وقوله: ﴿مَا عَلِمْتُ لَكُمْ مِنْ إِلَهٍ غَيْرِي﴾ .
+
+⁕ حدثنا أبو كُرَيب، قال: ثنا وكيع، عن إسرائيل، عن ثُوير، عن مجاهد، قال: مكث فرعون في قومه بعد ما قال: ﴿أَنَا رَبُّكُمُ الأعْلَى﴾ أربعين سنة.
+
+قال آخرون: بل عُنِيَ بذلك: فأخذه الله نكال الدنيا والآخرة.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا ابن بشار، قال: ثنا هَوْذَة، قال: ثنا عوف، عن الحسن، في قوله: ﴿فَأَخَذَهُ اللَّهُ نَكَالَ الآخِرَةِ وَالأولَى﴾ قال: الدنيا والآخرة.
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، عن الحسن ﴿فَأَخَذَهُ اللَّهُ نَكَالَ الآخِرَةِ وَالأولَى﴾ قال: عقوبة الدنيا والآخرة، وهو قول قتادة.
+
+وقال آخرون: الأولى عصيانه ربه وكفره به، والآخرة قوله: ﴿أَنَا رَبُّكُمُ الأعْلَى﴾ .
+
+ذكر من قال ذلك:
+
+⁕ حدثنا ابن حميد، قال: ثنا مهران، عن سفيان، عن إسماعيل بن سميع، عن أبي رَزين ﴿فَأَخَذَهُ اللَّهُ نَكَالَ الآخِرَةِ وَالأولَى﴾ قال: الأولى تكذيبه وعصيانه، والآخرة قوله: ﴿أَنَا رَبُّكُمُ الأعْلَى﴾ ، ثم قرأ: ﴿فَكَذَّبَ وَعَصَى ثُمَّ أَدْبَرَ يَسْعَى فَحَشَرَ فَنَادَى فَقَالَ أَنَا رَبُّكُمُ الأعْلَى﴾ فهي الكلمة الآخرة.
+
+وقال آخرون: بل عُنِيَ بذلك أنه أخذه بأوّل عمله وآخره.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا ابن حميد، قال: ثنا مهران، عن سفيان، عن منصور، عن مجاهد ﴿فَأَخَذَهُ اللَّهُ نَكَالَ الآخِرَةِ وَالأولَى﴾ قال: أوّل عمله وآخره.
+
+⁕ حدثنا ابن بشار، قال: ثنا عبد الرحمن، قال: ثنا سفيان، عن منصور، عن مجاهد ﴿فَأَخَذَهُ اللَّهُ نَكَالَ الآخِرَةِ وَالأولَى﴾ قال: أول أعماله وآخرها.
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن الكلبي: ﴿فَأَخَذَهُ اللَّهُ نَكَالَ الآخِرَةِ وَالأولَى﴾ قال: نكال الآخرة من المعصية والأولى.
+
+⁕ حدثنا ابن حميد، قال: ثنا جرير، عن منصور، عن مجاهد، قوله: ﴿نَكَالَ الآخِرَةِ وَالأولَى﴾ قال: عمله للآخرة والأولى.
+
+* *
+
+وقوله: ﴿إِنَّ فِي ذَلِكَ لَعِبْرَةً لِمَنْ يَخْشَى﴾
+
+يقول تعالى ذكره: إن في العقوبة التي عاقب الله بها فرعون في عاجل الدنيا، وفي أخذه إياه نكال الآخرة والأولى، عظة ومعتبرا لمن يخاف الله ويخشى عقابه، وأخرج نكال الآخرة مصدرا من قوله: ﴿فَأَخَذَهُ اللَّهُ﴾ لأن قوله ﴿فَأَخَذَهُ اللَّهُ﴾ نكل به فجعل ﴿نَكَالَ الآخِرَةِ﴾ مصدرا من معناه لا من لفظه.
+
+* *
+
+وقوله: ﴿أَأَنْتُمْ أَشَدُّ خَلْقًا أَمِ السَّمَاءُ بَنَاهَا﴾
+
+يقول تعالى ذكره للمكذّبين بالبعث من قريش، القائلين: ﴿أَئِذَا كُنَّا عِظَامًا نَخِرَةً قَالُوا تِلْكَ إِذًا كَرَّةٌ خَاسِرَةٌ﴾ أأنتم أيها الناس أشد خلقا، أم السماء بناها ربكم، فإن من بنى السماء فرفعها سقفا، هَيِّن عليه خلقكم وخلق أمثالكم، وإحياؤكم بعد مماتكم وليس خلقكم بعد مماتكم بأشدّ من خلق السماء. وعني بقوله: ﴿بَناها﴾ : رفعها فجعلها للأرض سقفا.
+
+* *
+
+وقوله: ﴿رَفَعَ سَمْكَهَا فَسَوَّاهَا﴾
+
+يقول تعالى ذكره: فسوّى السماء، فلا شيء أرفع من شيء، ولا شيء أخفض من شيء، ولكن جميعها مستوي الارتفاع والامتداد.
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: ﴿رَفَعَ سَمْكَهَا فَسَوَّاهَا﴾ يقول: رفع بناءها فسوّاها.
+
+⁕ حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى، وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء، جميعا عن ابن أبي نجيح، عن مجاهد، قوله: ﴿رَفَعَ سَمْكَهَا فَسَوَّاهَا﴾ قال: رفع بناءها بغير عمد.
+
+⁕ حدثني عليّ، قال: ثنا أبو صالح، قال: ثني معاوية، عن عليّ، عن ابن عباس، قوله: ﴿رَفَعَ سَمْكَهَا﴾ يقول: بُنيانها.
 
 ### al-Muyassar (Arabic)
 
-أبَعْثُكم أيها الناس- بعد الموت أشد في تقديركم أم خلق السماء؟ رفعها فوقكم كالبناء، وأعلى سقفها في الهواء لا تفاوت فيها ولا فطور، وأظلم ليلها بغروب شمسها، وأبرز نهارها بشروقها. والأرض بعد خلق السماء بسطها، وأودع فيها منافعها، وفجَّر فيها عيون الماء، وأنبت فيها ما يُرعى من النباتات، وأثبت فيها الجبال أوتادًا لها. خلق سبحانه كل هذه النعم منفعة لكم ولأنعامكم. (إن إعادة خلقكم يوم القيامة أهون على الله من خلق هذه الأشياء، وكله على الله هين يسير).
+أبَعْثُكم -أيها الناس- بعد الموت أشد في تقديركم أم خلق السماء؟ رفعها فوقكم كالبناء، وأعلى سقفها في الهواء لا تفاوت فيها ولا فطور، وأظلم ليلها بغروب شمسها، وأبرز نهارها بشروقها. والأرض بعد خلق السماء بسطها، وأودع فيها منافعها، وفجَّر فيها عيون الماء، وأنبت فيها ما يُرعى من النباتات، وأثبت فيها الجبال أوتادًا لها. خلق سبحانه كل هذه النعم منفعة لكم ولأنعامكم. إن إعادة خلقكم يوم القيامة أهون على الله مِن خلق هذه الأشياء، وكله على الله هين يسير.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿رَفَعَ سَمْكها﴾ تَفْسِير لِكَيْفِيَّةِ البِناء، أيْ جَعَلَ سَمْتها فِي جِهَة العُلُوّ رَفِيعًا، وقِيلَ سَمْكها سَقْفها ﴿فَسَوّاها﴾ جَعَلَها مُسْتَوِيَة بِلا عَيْب
 
 ---
 
@@ -457,25 +4246,308 @@ in refutation of the claim rejecting resurrection due to the renewal of creation
 
 ### Ibn Kathir (English)
 
+Has there come to you the story of Musa (15)When his Lord called him in the holy valley of Tuwa (16)Go to Fir'awn; verily, he has transgressed all bounds (17)And say to him: "Would you purify yourself? (18)"And that I guide you to your Lord, so you should fear Him? (19)Then he showed him the great sign (20)But he denied and disobeyed (21)Then he turned back, striving (22)So he gathered and called out (23)Saying: "I am your lord, most high. (24)So Allah seized him with punishing example for the Hereafter and the first (life)(25)In this is a lesson for whoever fears (26)
+
+Mentioning the Story of Musa and that it is a Lesson for Those Who fear Allah
+
+Allah informs His Messenger Muhammad ﷺ about His Messenger Musa. He mentions that he sent Musa to Fir'awn and He aided him with miracles. Yet, even after this, Fir'awn continued in his disbelief and transgression until Allah seized him with a mighty and powerful punishment. Thus is the punishment of whoever opposes you (Muhammad ﷺ) and rejects that which you have been sent with. This is why Allah says at the end of the story,
+
+إِنَّ فِي ذَٰلِكَ لَعِبْرَةً لِّمَن يَخْشَىٰ
+
+(In this is a Lesson for whoever fears.)
+
+Allah begins by saying,
+
+هَلْ أَتَاكَ حَدِيثُ مُوسَىٰ
+
+(Has there come to you the story of Musa?)
+
+meaning, have you heard of his story?
+
+إِذْ نَادَاهُ رَبُّهُ
+
+(When his Lord called him) meaning, He called out speaking to him.
+
+بِالْوَادِ الْمُقَدَّسِ
+
+(in the holy valley) meaning purified
+
+طُوًى
+
+(Tuwa) According to what is correct, it is the name of a valley, as preceded in Surah Ta Ha. So, He said to him:
+
+اذْهَبْ إِلَىٰ فِرْعَوْنَ إِنَّهُ طَغَىٰ
+
+(Go to Fir'awn; verily, he has transgressed all bounds.)
+
+meaning, he has become haughty, rebellious and arrogant.
+
+فَقُلْ هَل لَّكَ إِلَىٰ أَن تَزَكَّىٰ
+
+(And say to him: "Would you purify yourself'?')
+
+meaning, say to him, "Will you respond to the path and way that will purify you?" This means, 'will you submit (accept Islam) and be obedient?'
+
+وَأَهْدِيَكَ إِلَىٰ رَبِّكَ
+
+(And that I guide to your Lord,) meaning, 'I will guide you to the worship of your Lord.'
+
+فَتَخْشَىٰ
+
+(so that you fear) meaning, 'so that your heart will become humble, obedient, and submissive to Him after it was hard, evil, and far away from goodness.'
+
+فَأَرَاهُ الْآيَةَ الْكُبْرَىٰ
+
+(Then he showed him the great sign.) This means that Musa showed him – along with this truthful call – a strong evidence and a clear proof of the truthfulness of what he had come up with from Allah.
+
+فَكَذَّبَ وَعَصَىٰ
+
+(But he denied and disobeyed.) meaning, he (Fir'awn) rejected the truth and opposed what Musa commanded him with of obedience. So what happened with him was that his heart disbelieved, and Musa (i.e., his call) could not internally or externally affect it. Along with this, his knowledge that what Musa had come to him with was the truth, did not necessitate his being a believer in it. This is because recognition is the knowledge of the heart, and faith is its action. And it (faith) is to comply with the truth and submit to it.
+
+Concerning Allah's statement,
+
+ثُمَّ أَدْبَرَ يَسْعَىٰ
+
+(Then he turned back, striving.) meaning, in responding to the truth with falsehood. This was by his gathering the group of magicians in order to confront that which Musa had come up with of spectacular miracles.
+
+فَحَشَرَ فَنَادَىٰ
+
+(So he gathered (his people) and called out) meaning, among his people.
+
+فَقَالَ أَنَا رَبُّكُمُ الْأَعْلَىٰ
+
+(Saying; I am your lord, most high.")
+
+Ibn 'Abbas and Mujahid both said, "This is the word which Fir'awn said after he said,
+
+مَا عَلِمْتُ لَكُم مِّنْ إِلَٰهٍ غَيْرِي
+
+('I have not known of any other god for you all other than me)(28:38) for the past forty years.'" Allah then says,
+
+فَأَخَذَهُ اللَّهُ نَكَالَ الْآخِرَةِ وَالْأُولَىٰ
+
+(So Allah seized him with a punishing example for the Hereafter and the first (life).
+
+meaning, Allah avenged Himself against him with a severe vengeance, and He made an example and admonition of him for those rebellious people in the world who are like him.
+
+وَيَوْمَ الْقِيَامَةِ ۚ بِئْسَ الرِّفْدُ الْمَرْفُودُ
+
+(And on the Day of Resurrection, evil indeed is the gift gifted [i.e., the curse (in this world) pursued by another curse (in this world) pursued by another curse (in the Hereafter)].)(11:99)
+
+This is as Allah says,
+
+وَجَعَلْنَاهُمْ أَئِمَّةً يَدْعُونَ إِلَى النَّارِ ۖ وَيَوْمَ الْقِيَامَةِ لَا يُنصَرُونَ
+
+(And We made them leaders inviting to the Fire: and on the Day of Resurrection, they will not be helped.)(28:41)
+
+Allah said;
+
+إِنَّ فِي ذَٰلِكَ لَعِبْرَةً لِّمَن يَخْشَىٰ
+
+(In this is a lesson for whoever fears.)
+
+أَأَنتُمْ أَشَدُّ خَلْقًا أَمِ السَّمَاءُ ۚ بَنَاهَا - رَفَعَ سَمْكَهَا فَسَوَّاهَا - وَأَغْطَشَ لَيْلَهَا وَأَخْرَجَ ضُحَاهَا - وَالْأَرْضَ بَعْدَ ذَٰلِكَ دَحَاهَا - أَخْرَجَ مِنْهَا مَاءَهَا وَمَرْعَاهَا - وَالْجِبَالَ أَرْسَاهَا - مَتَاعًا لَّكُمْ وَلِأَنْعَامِكُمْ
+
+(27. Are you more difficult to create or is the heaven that He constructed?)(28. He raised its height, and has perfected it.)(29. Its night He covers and He brings out its forenoon.)(30. And after that He spread the earth,)(31. And brought forth therefrom its water and its pasture.)(32. And the mountains He has fixed firmly,)(33. As provision and benefit for you and your cattle.)
+
 Creating the Heavens and the Earth is more difficult than repeating Creation
-in refutation of the claim rejecting resurrection due to the renewal of creation after its original state, Allah says;
-ءَأَنتُمْ
-(Are you) `O people'
-أَشَدُّ خَلْقاً أَمِ السَّمَآءُ
-(more difficult to create or is the heaven...) meaning, `rather the heaven is more difficult to create than you.' As Allah said;
-لَخَلْقُ السَّمَـوَتِ وَالاٌّرْضِ أَكْـبَرُ مِنْ خَلْقِ النَّاسِ
-(the creation of the heavens and the earth i...
+
+In refutation of the claim rejecting resurrection due to the renewal of creation after its original state, Allah says;
+
+أَأَنتُمْ
+
+(Are you) 'O people'
+
+أَشَدُّ خَلْقًا أَمِ السَّمَاءُ
+
+(more difficult to create or is the heaven…?)
+
+meaning, 'rather the heaven is more difficult to create than you.' As Allah said;
+
+لَخَلْقُ السَّمَاوَاتِ وَالْأَرْضِ أَكْبَرُ مِنْ خَلْقِ النَّاسِ
+
+(the creation of the heavens and the earth is greater than the creation of mankind;)(40:57)
+
+And His saying;
+
+أَوَلَيْسَ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ بِقَادِرٍ عَلَىٰ أَن يَخْلُقَ مِثْلَهُم ۚ بَلَىٰ وَهُوَ الْخَلَّاقُ الْعَلِيمُ
+
+(Is not the One Who created the heavens and the earth, capable of creating the similar to them. Yes, indeed! He is the Supreme Creator, the All-Knowing.)(36:81)
+
+Then Allah says,
+
+بَنَاهَا
+
+(He constructed) He explains this by His statement,
+
+رَفَعَ سَمْكَهَا فَسَوَّاهَا
+
+(He raised its height, and has perfected it.)
+
+meaning, He made it a lofty structure, vast in its space, with equal sides, and adorned with stars at night and in the darkness. Then Allah says,
+
+وَأَغْطَشَ لَيْلَهَا وَأَخْرَجَ ضُحَاهَا
+
+(Its night He covers and He brings out its forenoon.)
+
+meaning, He made its night dark and extremely black, and its day bright, luminous, shining and clear. Ibn 'Abbas said, "He did Aghtasha of its night means that He made it dark." Mujahid, 'Ikrimah, Sa'id bin Jubayr and a large group have said this as well. In reference to Allah's statement,
+
+وَأَخْرَجَ ضُحَاهَا
+
+(And He brings out its forenoon.) meaning, He illuminated its day. Then Allah says,
+
+وَالْأَرْضَ بَعْدَ ذَٰلِكَ دَحَاهَا
+
+(And after that He spread the earth,) He explains this statement by the statement that follows it,
+
+أَخْرَجَ مِنْهَا مَاءَهَا وَمَرْعَاهَا
+
+(And brought forth therefrom its water and its pasture.)
+
+It already has been mentioned previously in Surat Ha Mim As-Sajdah that the earth was created before the heaven was created, but it was only spread out after the creation of the heaven. This means that He brought out what was in it with a forceful action. This is the meaning of what was said by Ibn 'Abbas and others, and it was the explanation preferred by Ibn Jarir.
+
+In reference to the statement of Allah,
+
+وَالْجِبَالَ أَرْسَاهَا
+
+(And the mountains He has fixed firmly,) meaning, He settled them, made them firm, and established them in their places. And He is the Most Wise, the All-Knowing. He is Most Kind to His creation, Most Merciful.
+
+Allah then says,
+
+مَتَاعًا لَّكُمْ وَلِأَنْعَامِكُمْ
+
+(As provision and benefit for you and your cattle.)
+
+meaning, He spread out the earth, caused its springs to gush forth, brought forth its hidden benefits, caused its rivers to flow, and caused its vegetation, trees, and fruits to grow. He also made its mountains firm so that it (the earth) would be calmly settled with its dwellers, and He stabilized its dwelling places. All of this is a means of beneficial enjoyment for His creatures (mankind) providing them of what cattle they need, which they eat and ride upon. He has granted them these beneficial things for the period that they need them, in this worldly abode, until the end of time and the expiration of this life.
 
 ### al-Tabari (Arabic)
 
-وقوله: ( أَخْرَجَ مِنْهَا مَاءَهَا ) يقول: فجَّر فيها الأنهار ( وَمَرْعَاهَا ) يقول: أنبت نَباتها.وبنحو الذي قلنا في ذلك قال أهل التأويل.* ذكر من قال ذلك:حُدثت عن الحسين، قال: سمعت أبا معاذ يقول: أخبرنا عبيد، قال: سمعت الضحاك يقول في قوله: ( وَمَرْعَاهَا ) ما خلق الله فيها من النبات، ومَاءهَا ما فجر فيها من الأنهار .
+القول في تأويل قوله تعالى: ﴿وَأَغْطَشَ لَيْلَهَا وَأَخْرَجَ ضُحَاهَا (٢٩) وَالأرْضَ بَعْدَ ذَلِكَ دَحَاهَا (٣٠) أَخْرَجَ مِنْهَا مَاءَهَا وَمَرْعَاهَا (٣١) وَالْجِبَالَ أَرْسَاهَا (٣٢) ﴾
+
+.
+
+* *
+
+وقوله: ﴿وَأَغْطَشَ لَيْلَهَا﴾
+
+يقول تعالى ذكره: أظلم ليل السماء، فأضاف الليل إلى السماء، لأن الليل غروب الشمس، وغروبها وطلوعها فيها، فأضيف إليها لمَّا كان فيها، كما قيل: نجوم الليل، إذ كان فيه الطلوع والغروب.
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثني عليّ، قال: ثنا أبو صالح، قال: ثني معاوية، عن عليّ، عن ابن عباس، قوله: ﴿وَأَغْطَشَ لَيْلَهَا﴾ يقول: أظلم ليلها.
+
+⁕ حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس ﴿وَأَغْطَشَ لَيْلَهَا﴾ يقول: أظلم ليلها.
+
+⁕ حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى، وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء، جميعا عن ابن أبي نجيح، عن مجاهد، قوله: ﴿وَأَغْطَشَ لَيْلَهَا﴾ قال: أظلم.
+
+⁕ حدثني بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: ﴿وَأَغْطَشَ لَيْلَهَا﴾ قال: أظلم ليلها.
+
+⁕ حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة ﴿وَأَغْطَشَ لَيْلَهَا﴾ قال: أظلم.
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب. قال: قال ابن زيد، في قوله: ﴿وَأَغْطَشَ لَيْلَهَا﴾ قال: الظُّلمة.
+
+⁕ حُدثت عن الحسين، قال: سمعت أبا معاذ يقول: ثنا عبيد، قال: سمعت الضحاك يقول في قوله: ﴿وَأَغْطَشَ لَيْلَهَا﴾ يقول: أظلم ليلها.
+
+⁕ حدثنا محمد بن سنان القزّاز، قال: ثنا حفص بن عمر، قال: ثنا الحكم عن عكرمة ﴿وَأَغْطَشَ لَيْلَهَا﴾ قال: أظلم ليلها.
+
+* *
+
+وقوله: ﴿وَأَخْرَجَ ضُحَاهَا﴾
+
+يقول: وأخرج ضياءها، يعني: أبرز نهارها فأظهره، ونوّر ضحاها.
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى، وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء، جميعا عن ابن أبي نجيح، عن مجاهد ﴿وَأَخْرَجَ ضُحَاهَا﴾ نوّرها.
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: ﴿وَأَخْرَجَ ضُحَاهَا﴾ يقول: نوّر ضياءها.
+
+⁕ حُدثت عن الحسين، قال: سمعت أبا معاذ يقول: أخبرنا عبيد، قال: سمعت الضحاك يقول في قوله: ﴿وَأَخْرَجَ ضُحَاهَا﴾ قال: نهارها.
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله: (وَأَخْرَجَ ضُحَاهَا) قال: ضوء النهار.
+
+* *
+
+وقوله: ﴿وَالأرْضَ بَعْدَ ذَلِكَ دَحَاهَا﴾
+
+اختلف أهل التأويل في معنى قوله ﴿بَعْدَ ذَلكَ﴾ فقال بعضهم: دُحِيت الأرض من بعد خَلق السماء.
+
+ذكر من قال ذلك:
+
+⁕ حدثني عليّ، قال: ثنا أبو صالح، قال: ثني معاوية، عن عليّ، عن ابن عباس، قوله حيث ذكر خلق الأرض قبل السماء، ثم ذكر السماء قبل الأرض، وذلك أن الله خَلق الأرض بأقواتها من غير أن يدحوها قبل السماء، ثم استوى إلى السماء فسوّاهنّ سبع سموات، ثم دحا الأرض بعد ذلك، فذلك قوله: ﴿وَالأرْضَ بَعْدَ ذَلِكَ دَحَاهَا﴾ .
+
+⁕ حدثني محمد بن سعد، قال: ثني أبي قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس ﴿وَالأرْضَ بَعْدَ ذَلِكَ دَحَاهَا أَخْرَجَ مِنْهَا مَاءَهَا وَمَرْعَاهَا وَالْجِبَالَ أَرْسَاهَا﴾ يعني: أن الله خلق السموات والأرض، فلما فرغ من السموات قبل أن يخلق أقوات الأرض فيها بعد خلق السماء، وأرسى الجبال، يعني بذلك دحْوَها الأقوات، ولم تكن تصلح أقوات الأرض ونباتها إلا بالليل والنهار، فذلك قوله: ﴿وَالأرْضَ بَعْدَ ذَلِكَ دَحَاهَا﴾ ألم تسمع أنه قال: ﴿أَخْرَجَ مِنْهَا مَاءَهَا وَمَرْعَاهَا﴾ .
+
+⁕ حدثنا ابن حميد، قال: ثنا يعقوب، عن حفص، عن عكرمة، عن ابن عباس، قال: وضع البيت على الماء على أربعة أركان قبل أن يخلق الدنيا بألفي عام، ثم دُحيت الأرض من تحت البيت.
+
+⁕ حدثنا ابن حميد، قال: ثنا مهران، عن سفيان، عن الأعمش، عن بكير بن الأخنس، عن مجاهد عن عبد الله بن عمرو، قال: خلق الله البيت قبل الأرض بألفي سنة، ومنه دُحيت الأرض.
+
+وقال آخرون: بل معنى ذلك: والأرض مع ذلك دحاها، وقالوا: الأرض خُلِقت ودُحِيت قبل السماء، وذلك أن الله قال: ﴿هُوَ الَّذِي خَلَقَ لَكُمْ مَا فِي الأرْضِ جَمِيعًا ثُمَّ اسْتَوَى إِلَى السَّمَاءِ فَسَوَّاهُنَّ سَبْعَ سَمَاوَاتٍ﴾ . قالوا: فأخبر الله أنه سوّى السماوات بعد أن خلق ما في الأرض جميعا، قالوا فإذا كان ذلك كذلك، فلا وجه لقوله: ﴿وَالأرْضَ بَعْدَ ذَلِكَ دَحَاهَا﴾ إلا ما ذكرنا من أنه مع ذلك دحاها قالوا: وذلك كقول الله عز وجلّ: ﴿عُتُلٍّ بَعْدَ ذَلِكَ زَنِيمٍ﴾ . بمعنى: مع ذلك زنيم، وكما يقال للرجل: أنت أحمق، وأنت بعد هذا لئيم الحسب، بمعنى: مع هذا، وكما قال جلّ ثناؤه: ﴿وَلَقَدْ كَتَبْنَا فِي الزَّبُورِ مِنْ بَعْدِ الذِّكْرِ﴾ : أي من قبل الذكر، واستشهد بقول الهُذَليّ:
+
+حَمِدْتُ إلَهِي بَعْدَ عُرْوَةَ إذْ نَجَا ... خِراشٌ وبَعْضُ الشِّر أهْوَنُ مِنْ بَعْضِ [[ديوانه: ٢٩، ويأتي في تفسير آية سورة آل عمران: ٧٩، (٣: ٢٣٣ بولاق) والمخصص ١٧: ١٥٤، والشعر يقوله للحارث بن أبي شمر الغساني ملك غسان، وهو الحارث الأعرج المشهور. قال ابن سيده: "ربوب: جمع رب، أي الملوك الذين كانوا قبلك ضيعوا أمري، وقد صارت الآن ربابتي إليك - أي تدبير أمري وإصلاحه - فهذا رب بمعنى مالك، كأنه قال: الذين كانوا يملكون أمري قبلك ضيعوه". وقال الطبري فيما سيأتي: "يعني بقوله: ربتني: ولي أمري والقيام به قبلك من يربه ويصلحه فلم يصلحوه، ولكنهم أضاعوني فضعت". والربابة: المملكة، وهي أيضًا الميثاق والعهد. وبها فسر هذا البيت، وأيدوه برواية من روى بدل"ربابتي"، "أمانتي". والأول أجود.]]
+
+وزعموا أن خراشا نجا قبل عروة.
+
+⁕ حدثنا أبو كُرَيب، قال: ثنا وكيع، عن سفيان، عن خَصِيفٍ، عن مجاهد ﴿وَالأرْضَ بَعْدَ ذَلِكَ دَحَاهَا﴾ قال: مع ذلك دحاها.
+
+⁕ حدثنا ابن بشار، قال: ثنا عبد الرحمن، قال: ثنا سفيان، عن الأعمش، عن مجاهد، أنه قال: والأرْضَ عِنْدَ ذَلكَ دَحاها.
+
+⁕ حدثنا عبد الرحمن بن عبد الله بن عبد الحكم، قال: ثنا عليّ بن معبد، قال: ثنا محمد بن سلمة، عن خصيف، عن مجاهد ﴿وَالأرْضَ بَعْدَ ذَلِكَ دَحَاهَا﴾ قال: مع ذلك دحاها.
+
+⁕ حدثني محمد بن خلف العسقلاني، قال: ثنا روّاد بن الجرّاح، عن أبي حمزة، عن السدي في قوله: ﴿وَالأرْضَ بَعْدَ ذَلِكَ دَحَاهَا﴾ قال: مع ذلك دحاها.
+
+والقول الذي ذكرناه عن ابن عباس من أن الله تعالى خلق الأرض، وقدّر فيها أقواتها، ولم يدحها، ثم استوى إلى السماء، فسوّاهن سبع سموات، ثم دحا الأرض بعد ذلك، فأخرج منها ماءها ومرعاها، وأرسى جبالها، أشبه بما دلّ عليه ظاهر التنزيل، لأنه جلّ ثناؤه قال: ﴿وَالأرْضَ بَعْدَ ذَلِكَ دَحَاهَا﴾ والمعروف من معنى " بَعْدَ " أنه خلاف معنى " قَبْل " وليس في دحوِّ الله الأرض بعد تسويته السماوات السبع، وإغطاشه ليلها، وإخراجه ضحاها، ما يوجب أن تكون الأرض خُلقت بعد خلق السموات لأن الدحوّ إنما هو البسط في كلام العرب، والمدّ يقال منه: دحا يدحو دَحْوا، ودَحيْتُ أدْحي دَحْيا، لغتان؛ ومنه قول أُميَّة بن أبي الصلت:
+
+دَارٌ دَحاها ثُمَّ أعْمَرَنا بِها ... وَأقامَ بالأخْرَى الَّتِي هي أمجدُ [[في المطبوعة: "من الملوك الذين كانوا"، غيروه ليوافق ما ألفوا من العبارة.]]
+
+وقول أوس بن حجر في نعت غيث:
+
+يَنْفِي الحصَى عن جديد الأرْضِ مُبْتَرِكٌ ... كأنَّه فاحِصٌ أو لاعِبٌ داحِي [[الحديث ١٥٥- سبق الكلام مفصلا في ضعف هذا الإسناد، برقم ١٣٧. وهذا الحديث في ابن كثير ١: ٤٤، والدر المنثور ١: ١٣، والشوكاني ١: ١١. ونسبه الأخيران أيضًا لابن أبي حاتم. وفي المطبوع وابن كثير "والأرض ومن فيهن".]]
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة ﴿وَالأرْضَ بَعْدَ ذَلِكَ دَحَاهَا﴾ : أي بسطها.
+
+⁕ حدثني محمد بن خلف، قال: ثنا رَوّاد، عن أبي حمزة، عن السدي ﴿دَحَاها﴾ قال: بسطها.
+
+⁕ حدثنا ابن بشار، قال: ثنا عبد الرحمن، قال: ثنا سفيان: ﴿دَحَاها﴾ بسطها.
+
+وقال ابن زيد في ذلك ما:-
+
+⁕ حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله: ﴿دَحَاها﴾ قال: حرثها شقَّها وقال: ﴿أَخْرَجَ مِنْهَا مَاءَهَا وَمَرْعَاهَا﴾ ، وقرأ: ﴿ثُمَّ شَقَقْنَا الأرْضَ شَقًّا ... ﴾ حتى بلغ ﴿وَفَاكِهَةً وَأَبًّا﴾ ، وقال حين شقَّها أنْبتَ هذا منها، وقرأ ﴿وَالأرْضِ ذَاتِ الصَّدْعِ﴾ .
+
+* *
+
+وقوله: ﴿أَخْرَجَ مِنْهَا مَاءَهَا﴾
+
+يقول: فجَّر فيها الأنهار ﴿وَمَرْعَاهَا﴾ يقول: أنبت نَباتها.
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+⁕ حُدثت عن الحسين، قال: سمعت أبا معاذ يقول: أخبرنا عبيد، قال: سمعت الضحاك يقول في قوله: ﴿وَمَرْعَاهَا﴾ ما خلق الله فيها من النبات، ومَاءهَا ما فجر فيها من الأنهار.
+
+* *
+
+وقوله: ﴿وَالْجِبَالَ أَرْسَاهَا﴾
+
+يقول: والجبال أثبتها فيها، وفي الكلام متروك استغني بدلالة الكلام عليه من ذكره، وهو فيها، وذلك أن معنى الكلام: والجبال أرساها فيها.
+
+⁕ حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد عن قتادة ﴿وَالْجِبَالَ أَرْسَاهَا﴾ أي: أثبتها لا تَمِيد بأهلها حدثنا ابن حميد، قال: ثنا جرير، عن عطاء، عن أبي عبد الرحمن السلمي، عن علي قال: لما خلق الله الأرض قمصت وقالت: تخلق عليّ آدم وذرّيته يلقون عليّ نتْنهم، ويعملون عليّ بالخطايا، فأرساها الله، فمنها ما ترون، ومنها ما لا ترون، فكان أوَّل قرار الأرض كلحم الجزور إذا نُحِر يحتلج لحمها.
 
 ### al-Muyassar (Arabic)
 
-أبَعْثُكم أيها الناس- بعد الموت أشد في تقديركم أم خلق السماء؟ رفعها فوقكم كالبناء، وأعلى سقفها في الهواء لا تفاوت فيها ولا فطور، وأظلم ليلها بغروب شمسها، وأبرز نهارها بشروقها. والأرض بعد خلق السماء بسطها، وأودع فيها منافعها، وفجَّر فيها عيون الماء، وأنبت فيها ما يُرعى من النباتات، وأثبت فيها الجبال أوتادًا لها. خلق سبحانه كل هذه النعم منفعة لكم ولأنعامكم. (إن إعادة خلقكم يوم القيامة أهون على الله من خلق هذه الأشياء، وكله على الله هين يسير).
+أبَعْثُكم -أيها الناس- بعد الموت أشد في تقديركم أم خلق السماء؟ رفعها فوقكم كالبناء، وأعلى سقفها في الهواء لا تفاوت فيها ولا فطور، وأظلم ليلها بغروب شمسها، وأبرز نهارها بشروقها. والأرض بعد خلق السماء بسطها، وأودع فيها منافعها، وفجَّر فيها عيون الماء، وأنبت فيها ما يُرعى من النباتات، وأثبت فيها الجبال أوتادًا لها. خلق سبحانه كل هذه النعم منفعة لكم ولأنعامكم. إن إعادة خلقكم يوم القيامة أهون على الله مِن خلق هذه الأشياء، وكله على الله هين يسير.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿أخْرَجَ﴾ حال بِإضْمارِ قَدْ أيْ مُخْرِجًا ﴿مِنها ماءَها﴾ بِتَفْجِيرِ عُيُونها ﴿ومَرْعاها﴾ ما تَرْعاهُ النَّعَم مِن الشَّجَر والعُشْب وما يَأْكُلهُ النّاس مِن الأَقْوات والثِّمار، وإطْلاق المَرْعى عَلَيْهِ اِسْتِعارَة
 
 ---

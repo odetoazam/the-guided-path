@@ -1,6 +1,6 @@
 # Tafsir Cross-Reference Report
 
-Generated: 2026-04-01
+Generated: 2026-07-30
 Ayahs referenced: 1
 Tafsir sources: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), al-Jalalayn (Arabic)
 
@@ -10,21 +10,298 @@ Tafsir sources: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), 
 
 ### Ibn Kathir (English)
 
+O you who believe! When you stand (intend) to offer the Salah (the prayer), then wash your faces and your hands (forearms) up to the elbows, rub (by passing wet hands over) your heads, and (wash) your feet up to the ankles. If you are in a state of Janaba, purify yourselves (bathe your whole body). But if you are ill or on a journey or any of you comes from the Gha'it (toilet) or you have touched women and you find no water, then perform Tayammum with clean earth and rub therewith your faces and hands. Allah does not want to place you in difficulty, but He wants to purify you, and to complete His Favor to you that you may be thankful (6)
+
 The Order to Perform Wudu
+
 Allah said,
-إِذَا قُمْتُمْ إِلَى الصَّلوةِ
-(When you stand for (intend to offer) the Salah,) Allah commanded performing Wudu' for the prayer. This is a command of obligation in the case of impurity, and in the case of purity, it is merely a recommendation. It was said that in the beginning of Islam, Muslims had to perform Wudu' for every prayer, but later on, this ruling was abrogated. Imam Ahmad bin Hanbal recorded that Sulayman bin Buraydah said that his father sai...
+
+إِذَا قُمْتُمْ إِلَى الصَّلَاةِ
+
+(When you stand for (intend to offer) the Salah,)
+
+Allah commanded performing Wudu' for the prayer. This is a command of obligation in the case of impurity, and in the case of purity, it is merely a recommendation. It was said that in the beginning of Islam, Muslims had to perform Wudu' for every prayer, but later on, this ruling was abrogated. Imam Ahmad bin Hanbal recorded that Sulayman bin Buraydah said that his father said, "The Prophet ﷺ used to perform Wudu' before every prayer. On the Day of Victory, he performed Wudu' and wiped on his Khuffs and prayed the five prayers with one Wudu'. 'Umar said to him, 'O Messenger of Allah! You did something new that you never did before.' The Prophet ﷺ said,
+
+إني عمدا فعلته يا عمر
+
+('I did that intentionally O 'Umar!)'" Muslim and the collectors of the Sunan also recorded this Hadith. At-Tirmidhi said,"Hasan Sahih."
+
+Ibn Jarir recorded that Al-Fadl bin Al-Mubashshir said, "I saw Jabir bin 'Abdullah perform several prayers with only one Wudu'. When he would answer the call of nature, he performed Wudu' and wiped the top of his Khuffs with his wet hand. I said, 'O Abu 'Abdullah! Do you do this according to your own opinion?' He said, 'Rather, I saw the Prophet ﷺ do the same thing. So, I do what I saw the Messenger of Allah ﷺ doing.'" Ibn Majah also recorded this Hadith. Ahmad recorded that 'Ubaydullah bin 'Abdullah bin 'Umar was asked; "Did you see 'Abdullah bin 'Umar perform Wudu' for every prayer, whether he was in a state of purity or not?" So he replied, "Asma' bint Zayd bin Al-Khattab told him that 'Abdullah bin Hanzalah bin Abi 'Amir Al-Ghasil told her that the Messenger of Allah ﷺ was earlier commanded to perform Wudu' for every prayer, whether he needed it or not. When that became hard on him, he was commanded to use Siwak for every prayer, and to perform Wudu' when Hadath (impurity) occurs. 'Abdullah (Ibn 'Umar) thought that he was able to do that (perform Wudu' for every prayer) and he kept doing that until he died." Abu Dawud also collected this narration. This practice by Ibn 'Umar demonstrates that it is encouraged, not obligatory, to perform Wudu' for every prayer, and this is also the opinion of the majority of scholars.
+
+Abu Dawud recorded that 'Abdullah bin 'Abbas said that when the Messenger of Allah ﷺ once left the area where he answered the call of nature, he was brought something to eat. They said, "Should we bring you your water for Wudu?" He said,
+
+إنَّمَا أُمِرْتُ بِالْوُضُوءِ إِذَا قُمْتُ إِلَى الصَّلَاةِ
+
+(I was commanded to perform Wudu' when I stand up for prayer.)
+
+At-Tirmidhi and An-Nasa'i also recorded this Hadith and At-Tirmidhi said, "This Hadith is Hasan." Muslim recorded that Ibn 'Abbas said, "We were with the Prophet ﷺ when he went to answer the call of nature and when he came back, he was brought some food. He was asked, 'O Messenger of Allah! Do you want to perform Wudu?" He said,
+
+لِمَ؟ أَأُصَلِّي فَأَتَوَضَّأَ
+
+('Why? Am I about to pray so that I have to make Wudu'.)"
+
+The Intention and Mentioning Allah's Name for Wudu
+
+Allah said;
+
+فَاغْسِلُوا وُجُوهَكُمْ
+
+(then wash your faces...) The obligation for the intention before Wudu' is proven by this Ayah;
+
+إِذَا قُمْتُمْ إِلَى الصَّلَاةِ فَاغْسِلُوا وُجُوهَكُمْ
+
+(When you stand (intend) to offer the Salah then wash your faces...)
+
+This is because it is just like the Arabs saying; "When you see the leader, then stand." Meaning stand for him. And the Two Sahihs recorded the Hadith,
+
+الْأَعْمَالُ بِالنِّــيَّاتِ وَإِنَّمَا لِكُلِّ امْرِىءٍ مَانَوَى
+
+(Actions are judged by their intentions, and each person will earn what he intended.)
+
+It is also recommended before washing the face that one mentions Allah's Name for the Wudu'. A Hadith that was narrated by several Companions states that the Prophet ﷺ said,
+
+لَا وُضْوءَ لِمَنْ لَمْ يَذْكُرِ اسْمَ اللهِ عَلَيْهِ
+
+(There is no Wudu' for he who does not mention Allah's Name over it.)
+
+It is also recommended that one washes his hands before he puts his hands in the vessel of water, especially after one wakes up from sleep, for the Two Sahihs recorded that Abu Hurayrah said that the Messenger of Allah ﷺ said,
+
+إِذَا اسْتَيْقَظَ أَحَدُكُمْ مِنْ نَوْمِهِ فَلَا يُدْخِلْ يَدَهُ فِي الْإِنَاءِ قَبْلَ أَنْ يَغْسِلَهَا ثَلَاثًا، فَإِنَّ أَحَدَكُمْ لَا يَدْرِي أَيْنَ بَاتَتْ يَدُهُ
+
+(If one of you wakes up from his sleep, let him not put his hand in the pot until he washes it thrice, for one of you does not know where his hand spent the night.)
+
+The face according to the scholars of Fiqh starts where the hair line on the head starts, regardless of one's lack or abundance of hair, until the end of the cheeks and chin, and from ear to ear.
+
+Passing the Fingers through the Beard While Performing Wudu
+
+Imam Ahmad recorded that Abu Wa'il said, "I saw 'Uthman when he was performing Wudu'... When he washed his face, he passed his fingers through his beard three times. He said, 'I saw the Messenger of Allah do what you saw me doing.'" At-Tirmidhi and Ibn Majah also recorded this Hadith. At-Tirmidhi said "Hasan Sahih." while Al-Bukhari graded it Hasan.
+
+How to Perform Wudu
+
+Imam Ahmad recorded that Ibn 'Abbas once performed Wudu' and took a handful of water and rinsed his mouth and nose with it. He took another handful of water and joined both hands and washed his face. He took another handful of water and washed his right hand, and another handful and washed his left hand with it. He next wiped his head. Next, he took a handful of water and sprinkled it on his right foot and washed it and took another handful of water and washed his left foot. When he finished, he said, "This is how I saw the Messenger of Allah ﷺ (performing Wudu')." Al-Bukhari also recorded it. Allah said,
+
+وَأَيْدِيَكُمْ إِلَى الْمَرَافِقِ
+
+(and your hands (forearms) up to (Ila) the elbows...) meaning, including the elbows. Allah said in another Ayah [using Ila],
+
+وَلَا تَأْكُلُوا أَمْوَالَهُمْ إِلَىٰ أَمْوَالِكُمْ إِنَّهُ كَانَ حُوبًا كَبِيرًا
+
+(And devour not their substance to (Ila) your substance (by adding or including it in your property). Surely, this is a great sin.)
+
+It is recommended that those who perform Wudu' should wash a part of the upper arm with the elbow. Al-Bukhari and Muslim recorded that Abu Hurayrah said that the Messenger of Allah ﷺ said,
+
+إِنَّ أُمَّتِي يُدْعَوْنَ يَوْمَ الْقِيَامَةِ غُرًّا مُحَجَّلِينَ مِنْ آثَارِ الْوُضُوءِ، فَمَنِ اسْتَطَاعَ مِنْكُمْ أَنْ يُطِيلَ غُرَّتَهُ فَلْيَفْعَل
+
+(On the Day of Resurrection, my Ummah will be called "those with the radiant appendages" because of the traces of Wudu'. Therefore, whoever can increase the area of his radiance should do so.)
+
+Muslim recorded that Abu Hurayrah said, "I heard my intimate friend (the Messenger ﷺ) saying,
+
+تَبْلُغُ الْحِلْيَةُ مِنَ الْمُؤْمِنِ حَيْثُ يَبْلُغُ الْوَضُوءُ
+
+(The radiance of the believer reaches the areas that the water of (his) Wudu' reaches.)" Allah said next,
+
+وَامْسَحُواْ بِرُؤُوسِكُمْ
+
+(Rub your heads.) It is recorded in the Two Sahihs that Malik bin 'Amr bin Yahya Al-Mazini said that his father said that a man said to 'Abdullah bin Zayd bin 'Asim, the grandfather of 'Amr bin Yahya and one of the Companions of the Messenger ﷺ, "Can you show me how the Messenger of Allah ﷺ used to perform Wudu'?" 'Abdullah bin Zayd said, "Yes." He then asked for a pot of water. He poured from it on his hands and washed them twice, then he rinsed his mouth and washed his nose [with water] thrice [by putting water in it and blowing it out]. He washed his face thrice and after that he washed his forearms up to the elbows twice. He then passed his wet hands over his head from its front to its back and vice versa, beginning from the front and taking them to the back of his head up to the nape of the neck and then brought them to the front again from where he had started. He next washed his feet. A similar description of the Wudu' of the Messenger of Allah ﷺ was performed by 'Ali in the Hadith by 'Abdu Khayr. Abu Dawud recorded that Mu'awiyah and Al-Miqdad bin Ma'dikarib narrated similar descriptions of the Wudu' of the Messenger of Allah ﷺ. These Hadiths indicate that it is necessary to wipe the entire head.
+
+Abdur-Razzaq recorded that Humran bin Aban said, "I saw 'Uthman bin 'Affan performing Wudu', and he poured water over his hands and washed them thrice, and then rinsed his mouth and washed his nose [by putting water in it, and then blowing it out]. Then he washed his face thrice, and then his right forearm up to the elbows thrice, and washed the left forearm thrice. Then he passed his wet hands over his head, then he washed his right foot thrice, and next his left foot thrice. After that 'Uthman said, 'I saw the Prophet ﷺ performing Wudu' like this, and said,
+
+مَنْ تَوَضَّأَ نَحْوَ وُضُوئِي هَذَا، ثُمَّ صَلَّى رَكْعَتَيْنِ لَا يُحَدِّثُ فِيهِمَا نَفْسَهُ، غُفِرَ لَهُ مَا تَقَدَّمَ مِنْ ذَنْبِهِ
+
+(If anyone performs Wudu' like that of mine and offers a two-Rak'ah prayer during which he does not think of anything else, then his past sins will be forgiven.)'" Al-Bukhari and Muslim also recorded this Hadith in the Two Sahihs. In his Sunan, Abu Dawud also recorded it from 'Uthman, under the description of Wudu', and in it, that he wiped his head one time.
+
+The Necessity of Washing the Feet
+
+Allah said,
+
+وَأَرْجُلَكُمْ إِلَى الْكَعْبَيْنِ
+
+(and your feet up to ankles.) Ibn Abi Hatim recorded that Ibn 'Abbas stated that the Ayah refers to washing (the feet). 'Abdullah bin Mas'ud, 'Urwah, 'Ata', 'Ikrimah, Al-Hasan, Mujahid, Ibrahim, Ad-Dahhak, As-Suddi, Muqatil bin Hayyan, Az-Zuhri and Ibrahim At-Taymi said similarly. This clearly indicates the necessity of washing the feet, just as the Salaf have said, and not only wiping over the top of the bare foot.
+
+The Hadiths that Indicate the Necessity of Washing the Feet
+
+We mentioned the Hadiths by the two Leaders of the Faithful, 'Uthman and 'Ali, and also by Ibn 'Abbas, Mu'awiyah, 'Abdullah bin Zayd bin 'Asim and Al-Miqdad bin Ma'dikarib, that the Messenger of Allah ﷺ washed his feet for Wudu', either once, twice or thrice.
+
+It is recorded in the Two Sahihs that 'Abdullah bin 'Amr said, "The Messenger of Allah ﷺ was once late during a trip we were taking, and he caught up with us when the time remaining for the 'Asr prayer was short. We were still performing Wudu' (in a rush) and we were wiping our feet. He shouted at the top of his voice,
+
+أَسْبِغُوا الْوُضُوءَ وَيْلٌ لِلْأَعْقَابِ مِنَ النَّارِ
+
+(Perform Wudu' thoroughly. Save your heels from the Fire.)"
+
+The same narration was also collected in the Two Sahihs from Abu Hurayrah. Muslim recorded that 'A'ishah said that the Prophet ﷺ said,
+
+أَسْبِغُوا الْوُضُوءَ وَيْلٌ لِلْأَعْقَابِ مِنَ النَّارِ
+
+(Perform Wudu' thoroughly. Save your heels from the Fire.)
+
+'Abdullah bin Al-Harith bin Jaz' said that he heard the Messenger of Allah ﷺ saying,
+
+وَيْلٌ لِلْأَعْقَابِ وَبُطُونِ الْأَقْدَامِ مِنَ النَّارِ
+
+(Save your heels and the bottom of the feet from the Fire.)
+
+It was recorded by Al-Bayhaqi and Al-Hakim, and this chain is Sahih.
+
+Muslim recorded that 'Umar bin Al-Khattab said that a man once performed Wudu' and left a dry spot the size of a fingernail on his foot. The Prophet saw that and he said to him,
+
+ارْجِعْ فَأَحْسِنْ وُضُوءَكَ
+
+(Go back and perform proper Wudu'.)
+
+[TRUNCATED at 12000 chars — 8971 more. Consult the source directly before relying on anything near the cut.]
 
 ### al-Tabari (Arabic)
 
-يا أيها الذين آمنوا إذا قمتم إلىالقول في تأويل قوله تعالى : { يا أيها الذين آمنوا إذا قمتم إلى الصلاة } يعني بذلك جل ثناؤه : يا أيها الذين آمنوا إذا قمتم إلى الصلاة وأنتم على غير طهر الصلاة , فاغسلوا وجوهكم بالماء , وأيديكم إلى المرافق . ثم اختلف أهل التأويل في قوله : { إذا قمتم إلى الصلاة } أمراد به كل حال قام إليها , أو بعضها ؟ وأي أحوال القيام إليها ؟ فقال بعضهم في ذلك بنحو ما قلنا فيه من أنه معني به بعض أحوال القيام إليها دون كل الأحوال , وأن الحال التي عنى بها حال القيام إليها على غير طه...
+القول في تأويل قوله عز ذكره: ﴿يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا قُمْتُمْ إِلَى الصَّلاةِ﴾
+
+قال أبو جعفر: يعني بذلك جل ثناؤه: يا أيها الذين آمنوا إذا قمتم إلى الصلاة، وأنتم على غير طهر الصلاة، فاغسلوا وجوهكم بالماء، وأيديكم إلى المرافق.
+
+* *
+
+ثم اختلف أهل التأويل في قوله:"إذا قمتم إلى الصلاة"، أمرادٌ به كلَّ حال قام إليها، أو بعضها؟ وأيّ أحوال القيام إليها؟
+
+فقال بعضهم في ذلك بنحو ما قلنا فيه، من أنه معنيٌّ به بعضُ أحوال القيام إليها دون كل الأحوال، وأنّ الحال التي عُني بها، حالُ القيام إليها على غير طُهْر.
+
+ذكر من قال ذلك:
+
+١١٣٠٠ - حدثنا ابن حميد قال: حدثنا يحيى بن واضح قال: حدثنا عبيد الله قال: سئل عكرمة عن قول الله:"إذا قمتم إلى الصلاة فاغسلوا وجوهكم وأيديكم إلى المرافق"، فكلَّ ساعة يتوضأ؟ فقال: قال ابن عباس: لا وضوء إلا من حَدَثٍ.
+
+١١٣٠١ - حدثنا ابن المثنى قال، حدثنا محمد بن جعفر قال، حدثنا شعبة قال، سمعت مسعود بن علي الشيباني قال، سمعت عكرمة قال: كان سعد بن أبي وقاص يُصلِّي الصلوات بوضوءٍ واحد. [[الأثر: ١١٣٠١ -"مسعود بن على الشيباني"، قال البخاري: "سمع عكرمة، مرسل. روى عنه يحيى القطان وقال: لم يكن به بأس". وقال ابن أبي حاتم: "روى عنه شعبة، ويحيى بن سعيد القطان". الكبير للبخاري ٤/ ١ / ٤٢٣، وابن أبي حاتم: ٤ / ١ / ٢٨٣. وسيأتي في الأثر التالي.
+
+وفي الأثرين رقم: ١١٣٢٢، ١١٣٢٣. وفي الأثر التالي. والأثر: ١١٣٢٢، أنه قد روى عنه"سفيان بن حبيب". وانظر التعليق على الأثر التالي.]]
+
+١١٣٠٢ - حدثنا حميد بن مسعدة قال، حدثنا سفيان بن حبيب، عن مسعود بن علي، عن عكرمة قال: كان سعد بن أبي وقاص يقول: صلّ بطهورك ما لم تحدث. [[الأثر: ١١٣٠٢ -"سفيان بن حبيب البصري"، كان عالما بحديث شعبة وابن أبي عروبة. مترجم في التهذيب، والكبير ٢/٢/٩١، وابن أبي حاتم ٢/١/٢٢٨، ولم يذكر في ترجمته أنه روى عن"مسعود بن علي الشيباني". وخبر مسعود هذا من رواية شعبة، كما مر في الأثر السالف، فأخشى أن يكون إسناده"سفيان بن حبيب، عن شعبة، عن مسعود بن علي".
+
+وانظر التعليق على الأثر السالف، وتعليق الأثر الآتي: ١١٣٢٢.]]
+
+١١٣٠٣ - حدثنا أحمد بن عبدة الضبي قال: أخبرنا سليم بن أخضر قال، أخبرنا ابن عون، عن محمد قال: قلت لعبيدة السلماني: ما يوجب الوضوء؟ قال: الحدَث.
+
+١١٣٠٤ - حدثنا حميد بن مسعدة قال، حدثنا يزيد قال، حدثنا سعيد، عن قتادة، عن واقع بن سحبان، عن يزيد بن طريف= أو: طريف بن يزيد=: أنهم كانوا مع أبي موسى على شاطئ دجلة، فتوضأوا فصلوا الظهر، فلما نودي بالعصر، قام رجال يتوضأون من دجلة، فقال: إنه لا وضوء إلا على من أحدث.
+
+١١٣٠٥ - حدثنا ابن بشار قال، حدثنا ابن أبي عدي، عن سعيد، عن قتادة، عن طريف بن زياد= أو: زياد بن طريف= عن واقع بن سحبان: أنه شهد أبا موسى صلى بأصحابه الظهر، ثم جلسوا حِلَقًا على شاطئ دجلة، فنودي بالعصر، فقام رجال يتوضأون، فقال أبو موسى: لا وضوء إلا على من أحدث.
+
+١١٣٠٦ - حدثنا ابن بشار وابن المثنى قالا حدثنا محمد بن جعفر قال، حدثنا شعبة قال، سمعت قتادة يحدث، عن واقع بن سحبان، عن طريف بن يزيد= أو: يزيد بن طريف= قال: كنت مع أبي موسى بشاطئ دجلة، فذكر نحوه.
+
+١١٣٠٧ - حدثنا ابن بشار وابن المثنى قالا حدثنا عبد الرحمن بن مهدي قال، حدثنا شعبة، عن قتادة، عن واقع بن سحبان، عن طريف بن يزيد =أو: يزيد بن طريف=، عن أبي موسى، مثله. [[الآثار ١١٣٠٤ - ١١٣٠٧ - أربعة أسانيد لخبر واحد، اتفقت ثلاثة منها في الراوي عن أبي موسى، وهو"طريف بن يزيد"، على ما في اسمه من الاختلاف، وانفرد رقم: ١١٣٠٥، فجعل الراوي عن أبي موسى هو"واقع بن سحبان"، وكأنه إسناد مقلوب، إذ جعل الراوي عن أبي موسى هو الراوي عن"طريف بن يزيد" في الأسانيد الثلاثة الأخرى.
+
+وأما "واقع بن سحبان"، فقد ترجم له البخاري في الكبير ٤/٢/١٨٩، وقال: "يعد في البصريين، أبو عقيل. روى عنه قتادة، وثابت البناني"، ولم يزد. وأما ابن أبي حاتم ٤/٢/٤٩، فإنه قال: "روى عن أسير بن جابر. روى عنه قتادة، وثابت البناني، وحميد الطويل. وكان ابن المبارك يقول: "واقع بن سحبا"، بغير نون، ولا يقول: سحبان. سمعت أبي يقول ذلك".
+
+وأما "طريف بن يزيد الحنفي"، فقد ترجم له في لسان الميزان ٣: ٢٠٩، والبخاري في الكبير ٢/٢/٣٥٨، لم يزد على أن قال: "طريف بن يزيد الحنفي، عن أبي موسى". وترجم له ابن أبي حاتم ٢/١/٤٩٣، وفي ترجمته بياض مكانه نقط، قال: "روى عن أبي موسى، روى عنه ... سمعت أبي يقول: هما مجهولان". وقال الحافظ في لسان الميزان: "طريف بن يزيد، عن أبي موسى" مجهول، وكذا شيخه. انتهى.
+
+وذكره ابن حبان في الثقات في التابعي، فقال: الحنفي، روى عنه أهل اليمامة. فمقتضى ذكره في التابعين، أن يكون شيخه أبو موسى، هو الأشعري.
+
+وليس في كتاب ابن أبي حاتم أن شيخ طريف"مجهول". واعتراض ابن حجر صحيح، فإن المجهول هو الراوي عن طريف، لا شيخه.
+
+ولم يذكر في سائر الكتب الاختلاف في اسمه"يزيد بن طريف"، أو "طريف بن زياد" أو" زياد بن طريف"، فهذه مما أفادها تفسير أبي جعفر.
+
+وقد تبين من كتب التراجم أن الإسناد: ١١٣٠٥، مقلوب لا شك فيه.]]
+
+١١٣٠٨ - حدثنا حميد بن مسعدة قال، حدثنا يزيد بن زريع قال، حدثنا أبو خالد قال، توضأت عند أبي العالية الظهرَ أو العصر، فقلت: أصلي بوضوئي هذا، فإني لا أرجع إلى أهلي إلى العَتَمة؟ قال أبو العالية: لا حرج. وعلّمنا: إذا توضأ الإنسان فهو في وضوئه حتى يحدث حدثا.
+
+١١٣٠٩ - حدثنا ابن بشار قال، حدثنا عبد الرحمن قال، حدثنا ابن هلال، عن قتادة، عن سعيد بن المسيب قال: الوضوء من غير حدث اعتداء. [[الأثر: ١١٣٠٩، ١١٣١٠ - هذان الأثران، ذكرهما ابن كثير في تفسيره ٣: ٨٤ قال: "وأما ما رواه أبو داود الطيالسي، عن أبي هلال، عن قتادة، عن سعيد بن المسيب أنه قال: الوضوء من غير حدث اعتداء = فهو غريب عن سعيد بن المسيب، ثم هو محمول على أن من اعتقد وجوبه فهو معتد. وأما مشروعيته استحبابا، فقد دلت السنة على ذلك".]]
+
+١١٣١٠ - حدثنا ابن المثنى قال، حدثنا أبو داود، قال حدثنا أبو هلال، عن قتادة، عن سعيد، مثله. [[الأثر: ١١٣٠٩، ١١٣١٠ - هذان الأثران، ذكرهما ابن كثير في تفسيره ٣: ٨٤ قال: "وأما ما رواه أبو داود الطيالسي، عن أبي هلال، عن قتادة، عن سعيد بن المسيب أنه قال: الوضوء من غير حدث اعتداء = فهو غريب عن سعيد بن المسيب، ثم هو محمول على أن من اعتقد وجوبه فهو معتد. وأما مشروعيته استحبابا، فقد دلت السنة على ذلك".]]
+
+١١٣١١ - حدثني أبو السائب قال، حدثنا أبو معاوية عن الأعمش قال: رأيت إبراهيم صلَّى بوضوء واحد، الظهرَ والعصرَ والمغربَ.
+
+١١٣١٢ - حدثنا أبو كريب قال، حدثنا عثام قال، حدثنا الأعمش قال: كنت مع يحيى، فأصلّي الصلوات بوضوء واحد. قال: وإبراهيم مثل ذلك.
+
+١١٣١٣ - حدثنا سوّار بن عبد الله قال، حدثنا بشر بن المفضل قال، حدثنا يزيد بن إبراهيم قال: سمعت الحسن سئل عن الرجل يتوضأ فيصلي الصلوات كلها بوضوء واحد، فقال: لا بأس به ما لم يُحْدث.
+
+١١٣١٤ - حدثنا ابن حميد قال، حدثنا يحيى بن واضح قال، حدثنا عبيد، عن الضحاك، قال: يصلِّي الصلوات بالوضوء الواحد ما لم يحدث.
+
+١١٣١٥ - حدثنا ابن بشار قال، حدثنا عبد الرحمن قال، حدثنا زائدة، عن الأعمش، عن عمارة قال: كان الأسود يصلي الصلوات بوضوء واحد. [[الأثر: ١١٣١٥ -"الأعمش" هو: "سليمان بن مهران"، مضى مرارا كثيرة.
+
+و"عمارة"، هو: "عمارة بن عمير التيمي"، مضى برقم: ٣٢٩٤، ٥٧٨٩.
+
+و"الأسود" هو: "الأسود بن يزيد النخعي"، مضى برقم: ٣٢٩٩، ٤٨٨٨، ٨٢٦٧.]]
+
+١١٣١٦ - حدثنا محمد بن الحسين قال، حدثنا أحمد بن مفضل قال، حدثنا أسباط، عن السدي:"يا أيها الذين آمنوا إذا قمتم إلى الصلاة" يقول: قمتم وأنتم على غير طهر.
+
+١١٣١٧ - حدثنا أبو السائب قال، حدثنا أبو معاوية، عن الأعمش، عن عمارة، عن الأسود: أنه كان له قَعبٌ قدرَ رِيِّ رجل [["القعب": قدح صغير من خشب مقعر، وهو يروي الرجل.]] ، فكان يتوضأ ثم يصلي بوضوئه ذلك الصلوات كلها.
+
+١١٣١٨ - حدثنا محمد بن عباد بن موسى قال، أخبرنا زياد بن عبد الله بن الطفيل البكائي قال، حدثنا الفضل بن المبشر قال: رأيت جابر بن عبد الله يصلي الصلوات بوضوء واحد، فإذا بال أو أحدثَ، توضأ ومسح بفضل طَهوره الخفين. فقلت: أبا عبد الله، أشيء تصنعه برأيك؟ قال: بل رأيت رسول الله ﷺ يصنعه، فأنا أصنعه كما رأيت رسول الله ﷺ يصنع. [[الأثر: ١١٣١٨ -"محمد بن عباد بن موسى الختلي"، شيخ الطبري. روى عن هشام بن محمد الكلبي، والوليد بن صالح، روى عنه أبو بكر بن أبي الدنيا. مترجم في ابن أبي حاتم ٤/١/١٥. روى عنه أبو جعفر في التاريخ ٦: ٢١.
+
+و"زياد بن عبد الله بن الطفيل البكائي". قال أحمد: "ليس به بأس، حديثه حديث أهل الصدق". وقال وكيع: "هو أشرف من أن يكذب". مترجم في التهذيب، والكبير ٢/١/٣٢٩.
+
+و"الفضل بن المبشر الأنصاري"، سمع جابر بن عبد الله، وسالم بن عبد الله بن عمر.
+
+قال ابن معين: "ضعيف"، وقال ابن عدي: "عامة أحاديثه لا يتابع عليها". مترجم في التهذيب، والكبير ٤/١/١١٤، وابن أبي حاتم ٣/٢/٦٦.
+
+والحديث رواه ابن ماجه ١: ١٧٠ رقم: ٥١١، عن إسمعيل بن توبة، عن زياد بن عبد الله، به. وانظر ابن كثير في تفسيره ٣: ٨٣.]]
+
+* *
+
+وقال آخرون: معنى ذلك: يا أيها الذين آمنوا إذا قمتم من نومكم إلى الصلاة.
+
+ذكر من قال ذلك:
+
+١١٣١٩ - حدثنا القاسم قال، حدثنا الحسين قال، حدثني من سمع مالك بن أنس، يحدث عن زيد بن أسلم، قوله:"يا أيها الذين آمنوا إذا قمتم إلى الصلاة" قال: يعني: إذا قمتم من النوم.
+
+١١٣٢٠ - حدثني يونس قال، أخبرنا ابن وهب: أن مالك بن أنس أخبره عن زيد بن أسلم، بمثله. [[الأثران: ١١٣١٩، ١١٣٢٠ - انظر الموطأ ص: ٢١.]]
+
+١١٣٢١ - حدثنا محمد بن الحسين قال، حدثنا أحمد بن مفضل قال، حدثنا أسباط، عن السدي قوله:"إذا قمتم إلى الصلاة فاغسلوا وجوهكم" قال فقال، قمتم إلى الصلاة من النوم.
+
+* *
+
+وقال آخرون: بل ذلك معنيٌّ به كل حال قيام المرء إلى صلاته، أن يجدِّد لها طُهرًا.
+
+ذكر من قال ذلك:
+
+١١٣٢٢ - حدثنا حميد بن مسعدة قال، حدثنا سفيان بن حبيب، عن مسعود بن علي قال، سألت عكرمة، قال قلت: يا أبا عبد الله، أتوضأ لصلاة الغداة، ثم آتي السوق فتحضر صلاة الظهر، فأصلي؟ قال: كان علي بن أبي طالب رضوان الله عليه يقول:"يا أيها الذين آمنوا إذا قمتم إلى الصلاة فاغسلوا وجوهكم وأيديكم إلى المرافق". [[الأثر: ١١٣٢٢ -"سفيان بن حبيب" و"مسعود بن علي الشيباني". انظر التعليق على الأثرين السالفين: ١١٣٠١، ١١٣٠٢.
+
+وقوله في جواب السؤال: "قال كان علي بن أبي طالب رضوان الله عليه ... "، وتلاوته الآية بعد ذلك، دون أن يذكر فعل علي، جائز في مثل هذا السياق. كأنه قال: كان علي بن أبي طالب يفعل مثل ذلك ويقرأ هذه الآية. وانظر الأثر التالي.]]
+
+١١٣٢٣ - حدثنا محمد بن المثنى قال، حدثنا محمد بن جعفر قال، حدثنا شعبة قال، سمعت مسعود بن علي الشيباني قال، سمعت عكرمة يقول: كان علي رضي الله عنه يتوضأ عند كل صلاة، ويقرأ هذه الآية:"يا أيها الذين آمنوا إذا قمتم
+
+إلى الصلاة فاغسلوا وجوهكم" ... الآية. [[الأثر: ١١٣٢٣ -"مسعود بن علي الشيباني" انظر التعليق على الأثر السالف.
+
+وهذا الأثر ساقه ابن كثير في تفسيره ٣: ٨٣، ٨٤، وساق معه الأثرين ١١٣٢٦، ١١٣٢٧، وقال: "هذه طرق جيدة عن علي، يقوي بعضها بعضا".]]
+
+١١٣٢٤ - حدثنا زكريا بن يحيى بن أبي زائدة قال، حدثنا أزهر، عن ابن عون، عن ابن سيرين: أن الخلفاء كانوا يتوضأون لكل صلاة.
+
+١١٣٢٥ - حدثنا ابن بشار قال، حدثنا ابن أبي عدي، عن حميد، عن أنس قال، توضأ عمر بن الخطاب وضوءًا فيه تجوٌّز خفيفًا، فقال، هذا وضوء من لم يحدث. [[الأثر: ١١٣٢٥ -"ابن أبي عدي"، هو: "محمد بن إبراهيم بن أبي عدي"، مضى برقم: ٥٤٤٠، ٦٤٩٧.
+
+و"حميد"، هو"حميد الطويل"، مضى مرارا كثيرة.
+
+و"أنس"، هو أنس بن مالك.
+
+وهذا الأثر، نقله ابن كثير في تفسيره ٣: ٨٤، عن هذا الموضع من الطبري، وقال: "هذا إسناد صحيح".]]
+
+١١٣٢٦ - حدثنا ابن المثنى قال، حدثني وهب بن جرير قال، أخبرنا شعبة، عن عبد الملك بن ميسرة، عن النزال، قال، رأيت عليًّا صلى الظهر ثم قعد للناس في الرَّحْبة، ثم أتِيَ بماء فغسل وجهه ويديه، ثم مَسَح برأسه ورجليه، وقال: هذا وضوء من لم يحدِث. [[الأثر: ١١٣٢٦ -"عبد الملك بن ميسرة الهلالي الزراد"، ثقة، من صغار التابعين، مضى برقم: ٥٠٣، ٥٠٤.
+
+و"النزال"، هو: "النزال بن سبرة الهلالي"، مختلف في صحبته. روى عن رسول الله -يقال هو مرسل- وعن عثمان، وعلي، وابن مسعود وغيرهم. ثقة من كبار التابعين.
+
+وهذا خبر إسناده صحيح، وانظر التعليق على الأثر السالف: ١١٣٢٣. خرجه ابن كثير في تفسيره ٣: ٨٣، ٨٤. ورواه أحمد في مسنده من طرق، بالأرقام: ٥٨٣، ١٠٠٥، ١١٧٣، ١١٧٤، ١٢٢٢، ١٣١٥، ١٣٦٦، وخرجه أخي السيد أحمد هناك.]]
+
+١١٣٢٧ - حدثني يعقوب بن إبراهيم، قال، حدثنا هشيم، عن مغيرة، عن إبراهيم: أن عليًّا اكتالَ من حُبٍّ فتوضأ وضوءًا فيه تجوُّزٌ، فقال: هذا وضوء من لم يحدث. [[الأثر: ١١٣٢٧ - انظر التعليق على الأثر السالف: ١١٣٢٣. وخرجه ابن كثير في تفسيره ٣: ٨٤.
+
+"اكتال"، مأخوذ من"كيل الطعام وغيره"، وأراد به هنا أنه أخذ من الماء مقدار ما يكفي في وضوئه. وهو عربي صحيح المجاز.
+
+و"الحب" (بضم الحاء) : هو الجرة الضخمة، أو الجابية التي يجعل فيها الماء.]]
+
+* *
+
+وقال آخرون: بل كان هذا أمرًا من الله عز ذكره نبيَّه ﷺ والمؤمنين به: أن يتوضَّأوا لكل صلاة، ثم نُسخ ذلك بالتخفيف.
+
+ذكر من قال ذلك:
+
+١١٣٢٨ - حدثني عبد الله بن أبي زياد القطواني، قال، حدثنا يعقوب بن إبراهيم قال، حدثنا أبي، عن ابن إسحاق قال، حدثني محمد بن يحيى بن حبان الأنصاري =ثم المازني، مازن بني النجار= فقال لعبيد الله بن عبد الله بن عمر: أخبرني عن وضوء عبد الله لكل صلاة، طاهرا كان أو غير طاهر، عمَّن هو؟ قال: حدثتنيه أسماء ابنة زيد بن الخطاب: أن عبد الله بن حنظلة بن أبي عامر، الغسيل حدَّثها: أن النبي ﷺ أُمِرَ بالوضوء عند كل صلاة، فشق ذلك عليه، فأمِر بالسواك، ورفع عنه الوضوء إلا من حدّث. فكان عبد الله يرى أنّ به قوة عليه، فكان يتوضأ. [[الأثر: ١١٣٢٨ -"عبد الله بن أبي زياد القطواني"، هو"عبد الله بن الحكم بن أبي زياد"، مضى برقم: ٢٢٤٧، ٥٧٩٦.
+
+و"يعقوب بن إبراهيم بن سعد بن إبراهيم بن عبد الرحمن بن عوف الزهري"، مضى برقم: ٤٣١٤، ٥٤٩٣.
+
+وأبوه"إبراهيم بن سعد بن إبراهيم الزهري"، مضى برقم: ٤٣١٤، وكان من أكثر أهل المدينة حديثا في زمانه. قال البخاري: "قال لي إبراهيم بن حمزة: كان عند إبراهيم بن سعد، عن ابن إسحق، نحو من سبعة عشر ألف حديث في الأحكام، سوى المغازي". مترجم في التهذيب.
+
+و"ابن إسحق" هو: "
+
+[TRUNCATED at 12000 chars — 68274 more. Consult the source directly before relying on anything near the cut.]
 
 ### al-Muyassar (Arabic)
 
-يا أيها الذين آمنوا إذا أردتم القيام إلى الصلاة، وأنتم على غير طهارة فاغسلوا وجوهكم وأيديكم مع المرافق (والمِرْفَق: المِفْصَل الذي بين الذراع والعَضُد) وامسحوا رؤوسكم، واغسلوا أرجلكم مع الكعبين (وهما: العظمان البارزان عند ملتقى الساق بالقدم). وإن أصابكم الحدث الأكبر فتطهروا بالاغتسال منه قبل الصلاة. فإن كنتم مرضى، أو على سفر في حال الصحة، أو قضى أحدكم حاجته، أو جامع زوجته فلم تجدوا ماء فاضربوا بأيديكم وجه الأرض، وامسحوا وجوهكم وأيديكم منه. ما يريد الله في أمر الطهارة أن يُضَيِّق عليكم، بل أبا...
+يا أيها الذين آمنوا إذا أردتم القيام إلى الصلاة، وأنتم على غير طهارة فاغسلوا وجوهكم وأيديكم مع المرافق (والمِرْفَق: المِفْصَل الذي بين الذراع والعَضُد) وامسحوا رؤوسكم، واغسلوا أرجلكم مع الكعبين (وهما العظمان البارزان عند ملتقى الساق بالقدم). وإن أصابكم الحدث الأكبر فتطهروا بالاغتسال منه قبل الصلاة. وإن كنتم مرضى، أو على سفر في حال الصحة، أو قضى أحدكم حاجته، أو جامع زوجته فلم تجدوا ماء فاضربوا بأيديكم وجه الأرض، وامسحوا وجوهكم وأيديكم منه. ما يريد الله في أمر الطهارة أن يُضَيِّق عليكم، بل أباح التيمم توسعةً عليكم، ورحمةً بكم، إذ جعله بديلًا للماء في الطهارة، فكانت رخصةُ التيمُّم من تمام النعم التي تقتضي شكر المنعم؛ بطاعته فيما أمر وفيما نهى.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿يا أيّها الَّذِينَ آمَنُوا إذا قُمْتُمْ﴾ أيْ أرَدْتُمْ القِيام ﴿إلى الصَّلاة﴾ وأَنْتُمْ مُحْدِثُونَ ﴿فاغْسِلُوا وُجُوهكُمْ وأَيْدِيكُمْ إلى المَرافِق﴾ أيْ مَعَها كَما بَيَّنَتْهُ السُّنَّة. ﴿وامْسَحُوا بِرُءُوسِكُمْ﴾ الباء لِلْإلْصاقِ أيْ ألْصِقُوا المَسْح بِها مِن غَيْر إسالَة ماء وهُوَ اسْم جِنْس فَيَكْفِي أقَلّ ما يَصْدُق عَلَيْهِ وهُوَ مَسْح بَعْض شَعْره وعَلَيْهِ الشّافِعِيّ ﴿وأَرْجُلكُمْ﴾ بِالنَّصْبِ عَطْفًا عَلى أيْدِيكُمْ وبِالجَرِّ عَلى الجِوار ﴿إلى الكَعْبَيْنِ﴾ أيْ مَعَهُما كَما بَيَّنَتْهُ السُّنَّة وهُما العَظْمانِ النّاتِئانِ فِي كُلّ رِجْل عِنْد مَفْصِل السّاق والقَدَم والفَصْل بَيْن الأَيْدِي والأَرْجُل المَغْسُولَة بِالرَّأْسِ المَمْسُوح يُفِيد وُجُوب التَّرْتِيب فِي طَهارَة هَذِهِ الأَعْضاء وعَلَيْهِ الشّافِعِيّ ويُؤْخَذ مِن السُّنَّة وُجُوب النِّيَّة فِيهِ كَغَيْرِهِ مِن العِبادات ﴿وإنْ كُنْتُمْ جُنُبًا فاطَّهَّرُوا﴾ فاغْتَسِلُوا ﴿وإنْ كُنْتُمْ مَرْضى﴾ مَرَضًا يَضُرّهُ الماء ﴿أوْ عَلى سَفَر﴾ أيْ مُسافِرِينَ ﴿أوْ جاءَ أحَد مِنكُمْ مِن الغائِط﴾ أيْ أحْدَثَ ﴿أوْ لامَسْتُمْ النِّساء﴾ سَبَقَ مِثْله فِي آيَة النِّساء ﴿فَلَمْ تَجِدُوا ماء﴾ بَعْد طَلَبه ﴿فَتَيَمَّمُوا﴾ اقْصِدُوا ﴿صَعِيدًا طَيِّبًا﴾ تُرابًا طاهِرًا ﴿فامْسَحُوا بِوُجُوهِكُمْ وأَيْدِيكُمْ﴾ مَعَ المِرْفَقَيْنِ ﴿مِنهُ﴾ بِضَرْبَتَيْنِ والباء لِلْإلْصاقِ وبَيَّنَتْ السُّنَّة أنَّ المُراد اسْتِيعاب العُضْوَيْنِ بِالمَسْحِ ﴿ما يُرِيد اللَّه لِيَجْعَل عَلَيْكُمْ مِن حَرَج﴾ ضِيق بِما فَرَضَ عَلَيْكُمْ مِن الوُضُوء والغُسْل والتَّيَمُّم ﴿ولَكِنْ يُرِيد لِيُطَهِّركُمْ﴾ مِن الأَحْداث والذُّنُوب ﴿ولِيُتِمّ نِعْمَته عَلَيْكُمْ﴾ بِالإسْلامِ بِبَيانِ شَرائِع الدِّين ﴿لَعَلَّكُمْ تَشْكُرُونَ﴾ نِعَمه
 
 ---

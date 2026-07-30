@@ -1,6 +1,6 @@
 # Tafsir Cross-Reference Report
 
-Generated: 2026-04-02
+Generated: 2026-07-30
 Ayahs referenced: 2
 Tafsir sources: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), al-Jalalayn (Arabic)
 
@@ -10,22 +10,207 @@ Tafsir sources: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), 
 
 ### Ibn Kathir (English)
 
+O you who believe! Whoever from among you turns back from his religion (Islam), Allah will bring a people whom He will love and they will love Him; humble towards the believers, stern towards the disbelievers, fighting in the way of Allah, and never fearing the blame of the blamers. That is the grace of Allah which He bestows on whom He wills. And Allah is All-Sufficient for His creatures' needs, All-Knower (54)Verily, your Protector is Allah, His Messenger, and the believers, those who perform the Salah, and give Zakah, and they bow down (55)And whosoever takes Allah, His Messenger, and those who have believed, as protectors, then the party of Allah will be the victorious (56)
+
 Threatening to Replace the Believers With Another People if They Revert from Islam
+
 Allah emphasizes His mighty ability and states that whoever reverts from supporting His religion and establishing His Law, then Allah will replace them with whomever is better, mightier and more righteous in Allah's religion and Law. Allah said in other Ayat,
-الْفُقَرَآءُ وَإِن تَتَوَلَّوْاْ يَسْتَبْدِلْ قَوْماً غَيْرَكُمْ ثُمَّ لاَ يَكُونُواْ
-(And if you turn away, He will exchange you for some other people an...
+
+وَإِن تَتَوَلَّوْا يَسْتَبْدِلْ قَوْمًا غَيْرَكُمْ ثُمَّ لَا يَكُونُوا أَمْثَالَكُم
+
+(And if you turn away, He will exchange you for some other people and they will not be your likes.) and,
+
+أَلَمْ تَرَ أَنَّ اللَّهَ خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ بِالْحَقِّ ۚ إِن يَشَأْ يُذْهِبْكُمْ وَيَأْتِ بِخَلْقٍ جَدِيدٍ - وَمَا ذَٰلِكَ عَلَى اللَّهِ بِعَزِيزٍ
+
+(Do you not see that Allah has created the heavens and the earth with truth? If He will, He can remove you and bring (in your place) a new creation! And for Allah that is not hard or difficult.)[14:19-20]. Verily this is not difficult or hard on Allah. Allah said here,
+
+يَا أَيُّهَا الَّذِينَ آمَنُوا مَن يَرْتَدَّ مِنكُمْ عَن دِينِهِ
+
+(O you who believe! Whoever from among you turns back from his religion...) and turns back from the truth to falsehood, from now until the commencement of the Last Hour. Allah said next,
+
+أَذِلَّةٍ عَلَى الْمُؤْمِنِينَ أَعِزَّةٍ عَلَى الْكَافِرِينَ
+
+(humble towards the believers, stern towards the disbelievers.)
+
+These are the qualities of perfect believers, as they are humble with their believing brothers and allies, stern with their enemies and adversaries. In another Ayah, Allah said,
+
+مُّحَمَّدٌ رَّسُولُ اللَّهِ وَالَّذِينَ مَعَهُ أَشِدَّاءُ عَلَى الْكُفَّارِ رُحَمَاءُ بَيْنَهُمْ
+
+(Muhammad is the Messenger of Allah. And those who are with him are severe against disbelievers, and merciful among themselves.)[48:29]
+
+The Prophet ﷺ is described as the smiling fighter, smiling to his allies and fighting his enemies. Allah's statement,
+
+يُجَاهِدُونَ فِي سَبِيلِ اللَّهِ وَلَا يَخَافُونَ لَوْمَةَ لَائِمٍ
+
+(Fighting in the way of Allah, and never fearing the blame of the blamers.)
+
+Nothing prevents them from obeying Allah, establishing His Law, fighting His enemies, enjoining righteousness and forbidding evil. Certainly, nothing prevents them from taking this path, neither someone who seeks to hinder them, nor one who blames or chastises them.
+
+Imam Ahmad recorded that Abu Dharr said, "My Khalil (intimate friend, the Messenger) has commanded me to do seven deeds. He commanded me to love the poor and to be close to them. He commanded me to look at those who are less than me and not those who are above me. He commanded me to keep the relations of the womb, even if they cut it. He commanded me not to ask anyone for anything, to say the truth even if it was bitter, and to not fear the blame of anyone for the sake of Allah. He commanded me to often repeat, 'La hawla wa la quwwata illa billah (There is no strength or power except from Allah)', for these words are from a treasure under the Throne (of Allah)." It is confirmed in the Sahih;
+
+مَا يَنْبَغِي لِلْمُؤْمِنِ أَنْ يُذِلَّ نَفْسَهُ
+
+(The believer is not required to humiliate himself.) He ﷺ was asked; "How does one humiliate himself, O Messenger of Allah?" So he ﷺ replied;
+
+يَتَحَمَّلُ مِنَ الْبَلَاءِ مَا لَا يُطِيقُ
+
+(He takes on tests that he cannot bear.)
+
+ذَٰلِكَ فَضْلُ اللَّهِ يُؤْتِيهِ مَن يَشَاءُ
+
+(That is the grace of Allah which He bestows on whom He wills.) meaning, those who have these qualities, acquired it by Allah's bounty and favor and because He granted them these qualities.
+
+وَاللَّهُ وَاسِعٌ عَلِيمٌ
+
+(And Allah is All-Sufficient for His creatures' needs, All-Knower,) His favor is ever extending, and He has perfect knowledge of those who deserve or do not deserve His favor and bounty. Allah's statement,
+
+إِنَّمَا وَلِيُّكُمُ اللَّهُ وَرَسُولُهُ وَالَّذِينَ آمَنُوا
+
+(Verily, your Protector is Allah, His Messenger, and the believers...) means, the Jews are not your friends. Rather, your allegiance is to Allah, His Messenger and the faithful believers.
+
+الَّذِينَ يُقِيمُونَ الصَّلَاةَ وَيُؤْتُونَ الزَّكَاةَ
+
+(those who perform the Salah, and give the Zakah...) referring to the believers who have these qualities and establish the prayer, which is one of the most important pillars of Islam, for it includes worshipping Allah alone without partners. They pay Zakah, which is the right of the creation and a type of help extended to the needy and the poor. As for Allah's statement,
+
+وَهُمْ رَاكِعُونَ
+
+(and they bow down,) some people thought that they give the Zakah while bowing down. If this were the case, then paying the Zakah while bowing would be the best form of giving Zakah. No scholar from whom religious rulings are taken says this, as much as we know. Therefore,
+
+وَهُمْ رَاكِعُونَ
+
+(and they bow down,) means, they attend the prayer in congregation in Allah's Masjids and spend by way of charity on the various needs of Muslims. Allah said;
+
+وَمَن يَتَوَلَّ اللَّهَ وَرَسُولَهُ وَالَّذِينَ آمَنُوا فَإِنَّ حِزْبَ اللَّهِ هُمُ الْغَالِبُونَ
+
+(And whosoever takes Allah, His Messenger, and those who have believed, as protectors, then the party of Allah will be the victorious.) similarly Allah said;
+
+كَتَبَ اللَّهُ لَأَغْلِبَنَّ أَنَا وَرُسُلِي إِنَّ اللَّهَ قَوِيٌّ عَزِيزٌ - لَّا تَجِدُ قَوْمًا يُؤْمِنُونَ بِاللَّهِ وَالْيَوْمِ الْآخِرِ يُوَادُّونَ مَنْ حَادَّ اللَّهَ وَرَسُولَهُ وَلَوْ كَانُوا آبَاءَهُمْ أَوْ أَبْنَاءَهُمْ أَوْ إِخْوَانَهُمْ أَوْ عَشِيرَتَهُمْ أُولَٰئِكَ كَتَبَ فِي قُلُوبِهِمُ الْإِيمَانَ وَأَيَّدَهُم بِرُوحٍ مِّنْهُ وَيُدْخِلُهُمْ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا رَضِيَ اللَّهُ عَنْهُمْ وَرَضُوا عَنْهُ أُولَٰئِكَ حِزْبُ اللَّهِ أَلَا إِنَّ حِزْبَ اللَّهِ هُمُ الْمُفْلِحُونَ
+
+(Allah has decreed: "Verily, it is I and My Messengers who shall be the victorious." Verily, Allah is All-Powerful, Almighty. You will not find any people who believe in Allah and the Last Day, making friendship with those who oppose Allah and His Messenger, even though they were their fathers or their sons or their brothers or their kindred (people). For such He has written faith in their hearts, and strengthened them with a Ruh (proof) from Himself. And He will admit them to Gardens (Paradise) under which rivers flow to dwell therein (forever). Allah is pleased with them, and they with Him. They are the party of Allah. Verily, it is the party of Allah that will be the successful.)
+
+Therefore, those who accept the allegiance of Allah - His Messenger and the faithful believers - will gain success in this life and the Hereafter. Hence Allah's statement here,
+
+وَمَن يَتَوَلَّ اللَّهَ وَرَسُولَهُ وَالَّذِينَ آمَنُوا فَإِنَّ حِزْبَ اللَّهِ هُمُ الْغَالِبُونَ
+
+(And whosoever takes Allah, His Messenger, and those who have believed, as protectors, then the party of Allah will be the victorious.)
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله :  يَا أَيُّهَا الَّذِينَ آمَنُوا مَنْ يَرْتَدَّ مِنْكُمْ عَنْ دِينِهِ فَسَوْفَ يَأْتِي اللَّهُ بِقَوْمٍ يُحِبُّهُمْ وَيُحِبُّونَهُقال أبو جعفر: يقول تعالى ذكره للمؤمنين بالله وبرسوله: " يا أيها الذين آمنوا "، أي: صدّقوا لله ورسوله، وأقرُّوا بما جاءهم به نبيُّهم محمد صلى الله عليه وسلم=" من يرتد منكم عن دينه "، يقول: من يرجع منكم عن دينه الحق الذي &; 10-410 &; هو عليه اليوم، فيبدِّله ويغيره بدخوله في الكفر، إما في اليهودية أو النصرانية أو غير ذلك من صنوف الكفر، (33) فلن يض...
+القول في تأويل قوله: ﴿يَا أَيُّهَا الَّذِينَ آمَنُوا مَنْ يَرْتَدَّ مِنْكُمْ عَنْ دِينِهِ فَسَوْفَ يَأْتِي اللَّهُ بِقَوْمٍ يُحِبُّهُمْ وَيُحِبُّونَهُ﴾
+
+قال أبو جعفر: يقول تعالى ذكره للمؤمنين بالله وبرسوله:"يا أيها الذين آمنوا"، أي: صدّقوا لله ورسوله، وأقرُّوا بما جاءهم به نبيُّهم محمد ﷺ="من يرتد منكم عن دينه"، يقول: من يرجع منكم عن دينه الحق الذي هو عليه اليوم، فيبدِّله ويغيره بدخوله في الكفر، إما في اليهودية أو النصرانية أو غير ذلك من صنوف الكفر، [[انظر تفسير"ارتد" فيما سلف ص: ١٧٠، تعليق: ١، والمراجع هناك.]] فلن يضر الله شيئا، وسيأتي الله بقوم يحبهم ويحبونه، يقول: فسوف يجيء الله بدلا منهم، المؤمنين الذين لم يبدِّلوا ولم يغيروا ولم يرتدوا، بقومٍ خير من الذين ارتدُّوا وابدَّلوا دينهم، يحبهم الله ويحبون الله. [[سياق هذه العبارة: "فسوف يجي الله ... المؤمنين ... بقوم ... ".]]
+
+وكان هذا الوعيد من الله لمن سبق في علمه أنه سيرتدُّ بعد وفاةِ نبيّه محمد ﷺ. وكذلك وعدُه من وعدَ من المؤمنين ما وعدَه في هذه الآية، لمن سبق له في علمه أنه لا يبدّل ولا يغير دينه، ولا يرتدّ. فلما قَبَض الله نبيَّه ﷺ، ارتدّ أقوام من أهل الوبَرِ، وبعضُ أهل المَدَر، فأبدل الله المؤمنين بخيرٍ منهم كما قال تعالى ذكره، ووفى للمؤمنين بوعده، وأنفذ فيمن ارتدَّ منهم وعيدَه.
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+١٢١٧٧ - حدثني يونس قال، أخبرنا ابن وهب قال، أخبرني عبد الله بن عياش، عن أبي صخر، عن محمد بن كعب: أن عمر بن عبد العزيز أرسل إليه يومًا، وعمر أمير المدينة يومئذ، فقال: يا أبا حمزة، آية أسهرتني البارحة! قال محمدٌ: وما هي، أيها الأمير؟ قال: قول الله:"يا أيها الذين آمنوا من يرتد منكم عن دينه" حتى بلغ"ولا يخافون لومة لائم". فقال محمد: أيها الأمير، إنما عنى الله بالذين آمنوا، الولاةَ من قريش، من يرتدَّ عن الحق. [[الأثر: ١٢١٧٧-"عبد الله بن عياش بن عباس القتباني"، ليس بالمتين، وهو ثقة. مترجم في التهذيب.
+
+و"أبو صخر" هو"حميد بن زياد الخراط"، مضى مرارًا، منها برقم: ٤٢٨٠، ٤٣٢٥، ٥٣٨٦، ٨٣٩١، ١١٨٦٧، ١١٨٩١.
+
+ثم انظر الأثر التالي برقم: ١٢١٩٩.]] ثم اختلف أهل التأويل في أعيان القوم الذين أتى الله بهم المؤمنين، وأبدل المؤمنين مكانَ من ارتدَّ منهم.
+
+فقال بعضهم: هو أبو بكر الصديق وأصحابه الذين قاتلوا أهل الردة حتى أدخلوهم من الباب الذي خرجوا منه.
+
+ذكر من قال ذلك:
+
+١٢١٧٨ - حدثنا هناد بن السري قال، حدثنا حفص بن غياث، عن الفضل بن دلهم، عن الحسن في قوله:"يا أيها الذين آمنوا من يرتدّ منكم عن دينه فسوف يأتي الله بقوم يحبهم ويحبونه"، قال: هذا والله أبو بكر وأصحابه. [[الأثر: ١٢١٧٨-"الفضل بن دلهم الواسطي القصاب". مختلف في أمره. مضى برقم: ٤٩٢٨.]]
+
+١٢١٧٩ - حدثنا ابن وكيع قال، حدثنا أبي، عن الفضل بن دلهم، عن الحسن، مثله.
+
+١٢١٨٠ - حدثنا هناد قال، حدثنا عبدة بن سليمان، عن جويبر، عن سهل، عن الحسن في قوله:"فسوف يأتي الله بقوم يحبهم ويحبونه"، قال: أبو بكر وأصحابه.
+
+١٢١٨١ - حدثنا ابن وكيع قال، حدثنا حسين بن علي، عن أبي موسى قال: قرأ الحسن:"فسوف يأتي الله بقوم يحبهم ويحبونه"، قال: هي والله لأبي بكر وأصحابه. [[الأثر: ١٢١٨١-"حسين بن علي بن الوليد الجعفي"، مضى قريبًا: ١٢١٦٤.
+
+و"أبو موسى"، هو: "إسرائيل بن موسى البصري"، نزيل الهند. روى عن الحسن البصري. ثقة لا بأس به. مترجم في التهذيب.]]
+
+١٢١٨٢ - حدثني نصر بن عبد الرحمن الأزدي قال، حدثنا أحمد بن بشير، عن هشام، عن الحسن في قوله:"فسوف يأتي الله بقوم يحبهم ويحبونه"، قال: نزلت في أبي بكر وأصحابه. [[الأثر: ١٢١٨٢-"نصر بن عبد الرحمن الأزدي"، هكذا جاء هنا أيضًا في المخطوطة والمطبوعة: "الأودي"، وقد سلف أن تكلم عليه أخي السيد أحمد، وصححه"الأزدي" كما أثبته هنا، ولكني في شك من تصحيح ذلك كذلك، لكثرة إثباته في التفسير في كل مكان"الأودي" انظر ما سلف: ٤٢٣، ٨٧٥، ٢٨٥٩، ٨٧٨٣.
+
+و"أحمد بن بشير القرشي المخزومي"، أبو بكر الكوفي. مضى برقم: ٧٨١٩.
+
+و"هشام" هو: "هشام بن عروة بن الزبير بن العوام"، مضى برقم: ٢٨٨٩، ٨٤٦١.]]
+
+١٢١٨٣ - حدثني علي بن سعيد بن مسروق الكندي قال، حدثنا عبد الرحمن بن محمد المحاربي، عن جويبر، عن الضحاك في قوله:"فسوف يأتي الله بقوم يحبهم ويحبونه أذلة على المؤمنين أعزة على الكافرين يجاهدون في سبيل الله ولا يخافون لومة لائم"، قال: هو أبو بكر وأصحابه. لما ارتد من ارتدَّ من العرب عن الإسلام، جاهدهم أبو بكر وأصحابه حتى ردَّهم إلى الإسلام.
+
+١٢١٨٤ - حدثنا بشر قال، حدثنا يزيد بن زريع قال، حدثنا سعيد، عن قتادة:"من يرتد منكم عن دينه فسوف يأتي الله بقوم يحبهم ويحبونه"، إلى قوله:"والله واسع عليم"، أنزل الله هذه الآية وقد علم أن سيرتدُّ مرتدُّون من الناس، فلما قبض الله نبيَّه محمدًا ﷺ، ارتدّ عامة العرب عن الإسلام= إلا ثلاثة مساجد: أهل المدينة، وأهل مكة، وأهل البحرين من عبد القيس= قالوا: نصلي ولا نزكِّي، والله لا تُغصب أموالنا! [[القائلون: "نصلي ولا نزكي"، هم الذين ارتدور من عامة العرب.]] فكُلِّم أبو بكر في ذلك فقيل له: إنهم لو قد فُقِّهوا لهذا أعطوها= أو: أدَّوها= [[في المطبوعة: "أعطوها أو زادوها"، وهو تخليط فاحش، وصوابه من المخطوطة وقوله: "أو: أدوها"، كأنه قال: روى بدل"أعطوها"، "أدوها". و"الهاء" فيهما راجعة إلى"الزكاة" التي منعوها.]] فقال: لا والله، لا أفرق بين شيء جمع الله بينه، ولو منعوا عِقالا مما فرضَ الله ورسوله لقاتلناهم عليه! [["العقال" (بكسر العين) : زكاة عام من الإبل والغنم. يقال: "أخذ منهم عقال هذا العام"، أي زكاته وصدقته. وقد فسره آخرون بأنه الحبل الذي كان تعقل به الفريضة التي كانت تؤخذ في الصدقة. وذلك أنه كان على صاحب الإبل أن يؤدي مع كل فريضة عقالا تعقل به، و"رواء" أي: حبلا. ويروي الخبر"لو منعوني عناقًا". و"العناق": الأنثى من أولاد المعز، إذا أتت عليها سنة.]] فبعث الله عصابة مع أبي بكر، فقاتل على ما قاتل عليه نبيّ الله ﷺ، حتى سبَى وقتل وحرق بالنيران أناسًا ارتدّوا عن الإسلام ومنعوا الزكاة، فقاتلهم حتى أقرّوا بالماعون =وهي الزكاة= صَغرة أقمياء. [["صغرة" جمع"صاغر": وهو الراضي بالذل والضيم. و"أقمياء"جمع"قمئ": وهو الذليل الضارع المتضائل. والذي في كتب اللغة من جمع"قمئ""قماء" (بكسر القاف) و"قماء" (بضمها) . وقد مر في الأثر رقم: ٤٢٢١"قمأة" في المخطوطة، وانظر التعليق عليه هناك. و"أقمياء" جمع عزيز هنا، فإن"فعيلا" الصفة، يجمع قياسا على"أفعلاء"، إذا كان مضاعفًا، مثل"شديد" و"أشداء"، وكذلك إذا كان ناقصا واويًا أو يائيًا، نحو"غني" و"أغنياء"، و"شقي" و"أشقياء". أما الصحيح، فقليل جمعه على"أفعلاء"، مثل"صديق" و"أصدقاء". فإذا صحت رواية"أقمياء" في هذا الخبر، فهو صحيح في العربية إن شاء الله، لهذه العلة ولغيرها أيضا.]] فأتته وفود العرب، فخيَّرهم بين خُطَّة مخزية أو حرب مُجْلية. فاختاروا الخطة المخزية، وكانت أهون عليهم أن يقرُّوا: أن قتلاهم في النار، وأن قتلى المؤمنين في الجنة، [[في المطبوعة: "أن يستعدوا أن قتلاهم في النار"، وفي المخطوطة مثلها غير منقوطة، ولم أجد لها تحريفًا أقرب مما أثبت، استظهرته من الخبر الذي رواه الشعبي، عن ابن مسعود وهو: قوله: "فوالله ما رضى لهم إلا بالخطة المخزية، أو الحرب المجلية. فأما الخطة المخزية فأن أقروا بأن من قتل منهم في النار، وأن ما أخذوا من أموالنا مردود علينا. وأما الحرب المجلية، فأن يخرجوا من ديارهم" (فتوح البلدان للبلاذري: ١٠١) .]] وأن ما أصابوا من المسلمين من مال ردّوه عليهم، وما أصاب المسلمون لهم من مال فهو لهم حلال.
+
+١٢١٨٥ - حدثنا القاسم قال، حدثنا الحسين قال، حدثني حجاج، عن ابن جريج قوله:"يا أيها الذين آمنوا من يرتد منكم عن دينه فسوف يأتي الله بقوم يحبهم ويحبونه"، قال ابن جريج: ارتدوا حين توفي رسول الله ﷺ، فقاتلهم أبو بكر.
+
+١٢١٨٦ - حدثني المثنى قال، حدثنا إسحاق قال، حدثنا عبد الله بن هشام قال، أخبرنا سيف بن عمر، عن أبي روق، عن الضحاك، عن أبي أيوب، عن علي في قوله:"يا أيها الذين آمنوا من يرتد منكم عن دينه"، قال: عَلِم الله المؤمنين، ووقع معنى السوء على الحَشْو الذي فيهم من المنافقين ومن في علمه أن يرتدُّوا، [[في المطبوعة: "وأوقع معنى السوء"، وأثبت ما في المخطوطة، وأنا في شك من العبارة كلها، وإن كان لها وجه ومعنى.]] قال:"يا أيها الذين آمنوا من يرتد منكم عن دينه فسوف يأتي الله"، المرتدَّة في دورهم [[في المطبوعة: "المرتدة عن دينهم"، وفي المخطوطة: "في دينهم"، والصواب ما أثبته من الأثر التالي رقم: ١٢٢٠١.]] ="بقوم يحبهم ويحبونه"، بأبي بكر وأصحابه. [[الأثر: ١٢١٨٦- في المطبوعة: "سيف بن عمرو"، وهو خطأ، صوابه ما أثبت من المخطوطة. وقد مضى مثل هذا الأثر برقم: ١٢١٢٨ وفيه"عبد الله بن هشام". وقد ذكرت هنالك أني لم أعرفه. وسقط من الترقيم؛ رقم: ١٢١٨٧ سهوًا.]]
+
+* *
+
+وقال آخرون: يعني بذلك قومًا من أهل اليمن. وقال بعض من قال ذلك منهم: هم رهط أبي موسى الأشعري، عبد الله بن قيس. [[عن هذا الموضع، انتهى جزء من تقسيم قديم، وفي المخطوطة ما نصه:
+
+"يتلوه: ذكر من قال ذلك:
+
+وصلى الله على محمد".
+
+ثم يتلوه ما نصه:
+
+"بسم الله الرحمن الرحيم
+
+رَبِّ يَسِّرْ برحمتك".]]
+
+ذكر من قال ذلك:
+
+١٢١٨٨ - حدثنا محمد بن المثنى قال، حدثنا محمد بن جعفر قال، حدثنا شعبة، عن سماك بن حرب، عن عياض الأشعري قال: لما نزلت هذه الآية،"يا أيها الذين آمنوا من يرتدّ منكم عن دينه فسوف يأتي الله بقوم يحبهم ويحبونه"، قال: أومأ رسول الله ﷺ إلى أبي موسى بشيء كان معه، فقال: هم قومُ هذا!
+
+١٢١٨٩ - حدثنا ابن المثنى قال، حدثنا أبو الوليد قال، حدثنا شعبة، عن سماك بن حرب، قال: سمعت عياضًا يحدّث عن أبي موسى: أن النبي ﷺ قرأ هذه الآية:"فسوف يأتي الله بقوم يحبهم ويحبونه"، قال: يعني قوم أبي موسى.
+
+١٢١٩٠ - حدثني أبو السائب سلم بن جنادة قال، حدثنا ابن إدريس، عن شعبة = قال أبو السائب: قال أصحابنا: هو:"عن سماك بن حرب"، وأنا لا أحفظ"سماكًا" = عن عياض الأشعريّ، قال رسول الله ﷺ: هم قوم هذا يعني أبا موسى.
+
+١٢١٩١ - حدثنا سفيان بن وكيع قال حدثنا ابن إدريس، عن شعبة، عن سماك، عن عياض الأشعري، قال النبي ﷺ لأبي موسى: هم قوم هذا= في قوله:"فسوف يأتي الله بقوم يحبهم ويحبونه".
+
+١٢١٩٢ - حدثنا مجاهد بن موسى قال، حدثنا يزيد قال، أخبرنا شعبة، عن سماك بن حرب قال: سمعت عياضًا الأشعري يقول: لما نزلت:"فسوف يأتي الله بقوم يحبهم ويحبونه"، قال رسول الله ﷺ: هم قومك يا أبا موسى! = أو قال: هم قوم هذا= يعني أبا موسى. [[الآثار: ١٢١٨٨- ١٢١٩٢-"عياض الأشعري"، هو"عياض بن عمرو الأشعري"، تابعي، مختلف في صحبته، روى عن النبي ﷺ مرسلا. رأى أبا عبيدة بن الجراح، وعمر بن الخطاب، وأبا موسى الأشعري، وغيرهم. قال ابن سعد ٦: ١٠٤: "كان قليل الحديث". روى عنه الشعبي، وسماك بن حرب. مترجم في التهذيب، وأسد الغابة، والإصابة، والاستيعاب: ٤٩٨، والكبير للبخاري ٤/ ١/ ١٩.
+
+وهذا الخبر رواه ابن سعد في الطبقات ٤/ ١/ ٧٩، من طريق عبد الله بن إدريس، وعفان بن مسلم، عن شعبة، عن سماك، عن عياض. والحاكم في المستدرك ٢: ٣١٣، من طريق وهب بن جرير، وسعيد بن عامر، عن شعبة، عن سماك، عن عياض، وقال: "هذا حديث صحيح على شرط مسلم، ولم يخرجاه"، ووافقه الذهبي. وخرجه الهيثمي في مجمع الزوائد ٧: ١٦، وقال: "رواه الطبراني، ورجاله رجال الصحيح". وخرجه السيوطي في الدر المنثور ٢: ٢٩٢، وزاد نسبته لابن أبي شيبة في مسنده، وعبد بن حميد، والحكيم الترمذي، وابن المنذر، وابن أبي حاتم، وأبي الشيخ، وابن مردويه، والبيهقي في الدلائل. وذكره ابن كثير في تفسيره ٣: ١٧٩، ١٨٠، عن ابن أبي حاتم، عن عمر بن شبة، عن عبد الصمد بن عبد الوارث، عن شعبة.]]
+
+١٢١٩٣ - حدثنا ابن وكيع قال، حدثنا أبو سفيان الحميري، عن حصين، عن عياض= أو: ابن عياض="فسوف يأتي الله بقوم يحبهم ويحبونه"، قال: هم أهل اليمن. [[الأثر: ١٢١٩٣-"وأبو سفيان الحميري"، هو"سعيد بن يحيى بن مهدي الحميري" الحذاء، الواسطي. صدوق، وقال الدارقطني: "متوسط الحال ليس بالقوي". مترجم في التهذيب، والكبير للبخاري ٢/ ١/ ٤٧٧، وابن أبي حاتم ٢/ ١/ ٧٤.
+
+و"حصين" هو"حصين بن عبد الرحمن السلمي"، ثقة، من كبار الأئمة. مضى برقم: ٥٧٩، ٢٩٨٦.
+
+و"عياض" هو الأشعري كما سلف في الآثار السابقة. وأما "ابن عياض"، فلم أجد من ذكر ذلك، وكأنه شك من أبي سفيان الحميري، أو سفيان بن وكيع.
+
+وانظر تخريج الآثار السالفة.]]
+
+١٢١٩٤ - حدثنا محمد بن عوف قال، حدثنا أبو المغيرة قال، حدثنا صفوان قال، حدثنا عبد الرحمن بن جبير، عن شريح بن عبيد قال: لما أنزل الله:"يا أيها الذين آمنوا من يرتد منكم عن دينه" إلى آخر الآية، قال عمر: أنا وقومي هم، يا رسول الله؟ قال:"لا بل هذا وقومه! يعني أبا موسى الأشعري. [[الأثر: ١٢١٩٤-"محمد بن عوف بن سفيان الطائي"، شيخ الطبري، ثقة حافظ، مضى برقم: ٥٤٤٥.
+
+و"أبو المغيرة" هو: "عبد القدوس بن الحجاج الخولاني"، "أبو المغيرة الحمصي" ثقة، صدوق. مضى برقم: ١٠٣٧١.
+
+و"صفوان"، هو: "صفوان بن عمرو بن هرم السكسكي"، سمع عبد الرحمن بن جبير، مضى برقم: ٧٠٠٩. وهو مترجم في التهذيب، والكبير للبخاري ٢/ ٢/ ٣٠٩، وابن أبي حاتم ٢/ ١/ ٤٢٢، وفي ترجمته في التهذيب خطأ بين، ذكر أنه مات سنة (١٠٠) والصواب سنة (١٥٥) ، كما في التاريخ الكبير وغيره.
+
+و"عبد الرحمن بن جبير بن نفير الحضرمي"، تابعي ثقة. مضى برقم: ١٨٦، ١٨٧.
+
+و"شريح بن عبيد بن شريح الحضرمي" تابعي ثقة، مضى برقم: ٥٤٤٥. و"صفون بن عمرو" يروي عن شريح مباشرة، ولكنه روى هنا عنه بواسطة"عبد الرحمن بن جبير".
+
+وهذا الأثر خرجه السيوطي في الدّرّ المنثور ٢: ٢٩٢، ولم ينسبه لغير ابن جرير.]]
+
+* *
+
+وقال آخرون منهم: بل هم أهل اليمن جميعًا.
+
+ذكر من قال ذلك:
+
+١٢١٩٥ - حدثني محمد بن عمرو قال، حدثنا أبو عاصم قال، حدثنا عيسى، عن ابن أبي نجيح، عن مجاهد في قول الله:"يحبهم ويحبونه"، قال: أناسٌ من أهل اليمن.
+
+١٢١٩٦ - حدثني المثنى قال، حدثنا أبو حذيفة قال، حدثنا شبل، عن ابن أبي نجيح، عن مجاهد، مثله.
+
+١٢١٩٧ - حدثنا ابن وكيع قال، حدثنا ابن إدريس، عن ليث، عن مجاهد قال: هم قوم سَبَأ.
+
+١٢١٩٨ - حدثنا مطر بن محمد الضبي قال، حدثنا أبو داود قال، أخبرنا شعبة قال، أخبرني من سمع شهر بن حوشب قال: هم أهل اليمن. [[الأثر: ١٢١٩٨-"مطر بن محمد الضبي"، شيخ الطبري، لم أجد له ترجمة ولا ذكرًا. وفيمن اسمه"مطر": "مطر بن محمد بن نصر التميمي الهروي"، مترجم في تاريخ بغداد ٣: ٢٧٥. و"
+
+[TRUNCATED at 12000 chars — 8144 more. Consult the source directly before relying on anything near the cut.]
 
 ### al-Muyassar (Arabic)
 
-يا أيها الذين صدَّقوا الله ورسوله وعملوا بشرعه من يرجع منكم عن دينه، ويستبدل به اليهودية أو النصرانية أو غير ذلك، فلن يضرُّوا الله شيئًا، وسوف يأتي الله بقوم خير منهم يُحِبُّهم ويحبونه، رحماء بالمؤمنين أشدَّاء على الكافرين، يجاهدون أعداء الله، ولا يخافون في ذات الله أحدًا. ذلك الإنعام مِن فضل الله يؤتيه من أراد، والله واسع الفضل، عليم بمن يستحقه من عباده.
+يا أيها الذين صدَّقوا الله ورسوله وعملوا بشرعه مَن يرجع منكم عن دينه، ويستبدل به اليهودية أو النصرانية أو غير ذلك، فلن يضرُّوا الله شيئًا، وسوف يأتي الله بقوم خير منهم يُحِبُّهم ويحبونه، رحماء بالمؤمنين أشدّاء على الكافرين، يجاهدون أعداء الله، ولا يخافون في ذات الله أحدًا. ذلك الإنعام مِن فضل الله يؤتيه من أراد، والله واسع الفضل، عليم بمن يستحقه من عباده.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿يا أيّها الَّذِينَ آمَنُوا مَن يَرْتَدّ﴾ بِالفَكِّ والإدْغام يَرْجِع ﴿مِنكُمْ عَنْ دِينه﴾ إلى الكُفْر إخْبار بِما عَلِمَ اللَّه وُقُوعه وقَدْ ارْتَدَّ جَماعَة بَعْد مَوْت النَّبِيّ ﷺ ﴿فَسَوْفَ يَأْتِي اللَّه﴾ بَدَلهمْ ﴿بِقَوْمٍ يُحِبّهُمْ ويُحِبُّونَهُ﴾ قالَ ﷺ: "هُمْ قَوْم هَذا وأَشارَ إلى أبِي مُوسى الأَشْعَرِيّ" رَواهُ الحاكِم فِي صَحِيحه ﴿أذِلَّة عَلى المُؤْمِنِينَ﴾ عاطِفِينَ ﴿أعِزَّة عَلى الكافِرِينَ﴾ أشِدّاء ﴿يُجاهِدُونَ فِي سَبِيل اللَّه ولا يَخافُونَ لَوْمَة لائِم﴾ فِيهِ كَما يَخاف المُنافِقُونَ لَوْم الكُفّار ﴿ذَلِكَ فَضْل اللَّه يُؤْتِيه مَن يَشاء واللَّه واسِع﴾ كَثِير الفَضْل ﴿عَلِيم﴾ بِمَن هُوَ أهْله ونَزَلَ لَمّا قالَ ابْن سَلام يا رَسُول اللَّه إنّ قَوْمنا هَجَرُونا
 
 ---
 
@@ -33,21 +218,116 @@ Allah emphasizes His mighty ability and states that whoever reverts from support
 
 ### Ibn Kathir (English)
 
+O you who believe! Whoever from among you turns back from his religion (Islam), Allah will bring a people whom He will love and they will love Him; humble towards the believers, stern towards the disbelievers, fighting in the way of Allah, and never fearing the blame of the blamers. That is the grace of Allah which He bestows on whom He wills. And Allah is All-Sufficient for His creatures' needs, All-Knower (54)Verily, your Protector is Allah, His Messenger, and the believers, those who perform the Salah, and give Zakah, and they bow down (55)And whosoever takes Allah, His Messenger, and those who have believed, as protectors, then the party of Allah will be the victorious (56)
+
 Threatening to Replace the Believers With Another People if They Revert from Islam
+
 Allah emphasizes His mighty ability and states that whoever reverts from supporting His religion and establishing His Law, then Allah will replace them with whomever is better, mightier and more righteous in Allah's religion and Law. Allah said in other Ayat,
-الْفُقَرَآءُ وَإِن تَتَوَلَّوْاْ يَسْتَبْدِلْ قَوْماً غَيْرَكُمْ ثُمَّ لاَ يَكُونُواْ
-(And if you turn away, He will exchange you for some other people an...
+
+وَإِن تَتَوَلَّوْا يَسْتَبْدِلْ قَوْمًا غَيْرَكُمْ ثُمَّ لَا يَكُونُوا أَمْثَالَكُم
+
+(And if you turn away, He will exchange you for some other people and they will not be your likes.) and,
+
+أَلَمْ تَرَ أَنَّ اللَّهَ خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ بِالْحَقِّ ۚ إِن يَشَأْ يُذْهِبْكُمْ وَيَأْتِ بِخَلْقٍ جَدِيدٍ - وَمَا ذَٰلِكَ عَلَى اللَّهِ بِعَزِيزٍ
+
+(Do you not see that Allah has created the heavens and the earth with truth? If He will, He can remove you and bring (in your place) a new creation! And for Allah that is not hard or difficult.)[14:19-20]. Verily this is not difficult or hard on Allah. Allah said here,
+
+يَا أَيُّهَا الَّذِينَ آمَنُوا مَن يَرْتَدَّ مِنكُمْ عَن دِينِهِ
+
+(O you who believe! Whoever from among you turns back from his religion...) and turns back from the truth to falsehood, from now until the commencement of the Last Hour. Allah said next,
+
+أَذِلَّةٍ عَلَى الْمُؤْمِنِينَ أَعِزَّةٍ عَلَى الْكَافِرِينَ
+
+(humble towards the believers, stern towards the disbelievers.)
+
+These are the qualities of perfect believers, as they are humble with their believing brothers and allies, stern with their enemies and adversaries. In another Ayah, Allah said,
+
+مُّحَمَّدٌ رَّسُولُ اللَّهِ وَالَّذِينَ مَعَهُ أَشِدَّاءُ عَلَى الْكُفَّارِ رُحَمَاءُ بَيْنَهُمْ
+
+(Muhammad is the Messenger of Allah. And those who are with him are severe against disbelievers, and merciful among themselves.)[48:29]
+
+The Prophet ﷺ is described as the smiling fighter, smiling to his allies and fighting his enemies. Allah's statement,
+
+يُجَاهِدُونَ فِي سَبِيلِ اللَّهِ وَلَا يَخَافُونَ لَوْمَةَ لَائِمٍ
+
+(Fighting in the way of Allah, and never fearing the blame of the blamers.)
+
+Nothing prevents them from obeying Allah, establishing His Law, fighting His enemies, enjoining righteousness and forbidding evil. Certainly, nothing prevents them from taking this path, neither someone who seeks to hinder them, nor one who blames or chastises them.
+
+Imam Ahmad recorded that Abu Dharr said, "My Khalil (intimate friend, the Messenger) has commanded me to do seven deeds. He commanded me to love the poor and to be close to them. He commanded me to look at those who are less than me and not those who are above me. He commanded me to keep the relations of the womb, even if they cut it. He commanded me not to ask anyone for anything, to say the truth even if it was bitter, and to not fear the blame of anyone for the sake of Allah. He commanded me to often repeat, 'La hawla wa la quwwata illa billah (There is no strength or power except from Allah)', for these words are from a treasure under the Throne (of Allah)." It is confirmed in the Sahih;
+
+مَا يَنْبَغِي لِلْمُؤْمِنِ أَنْ يُذِلَّ نَفْسَهُ
+
+(The believer is not required to humiliate himself.) He ﷺ was asked; "How does one humiliate himself, O Messenger of Allah?" So he ﷺ replied;
+
+يَتَحَمَّلُ مِنَ الْبَلَاءِ مَا لَا يُطِيقُ
+
+(He takes on tests that he cannot bear.)
+
+ذَٰلِكَ فَضْلُ اللَّهِ يُؤْتِيهِ مَن يَشَاءُ
+
+(That is the grace of Allah which He bestows on whom He wills.) meaning, those who have these qualities, acquired it by Allah's bounty and favor and because He granted them these qualities.
+
+وَاللَّهُ وَاسِعٌ عَلِيمٌ
+
+(And Allah is All-Sufficient for His creatures' needs, All-Knower,) His favor is ever extending, and He has perfect knowledge of those who deserve or do not deserve His favor and bounty. Allah's statement,
+
+إِنَّمَا وَلِيُّكُمُ اللَّهُ وَرَسُولُهُ وَالَّذِينَ آمَنُوا
+
+(Verily, your Protector is Allah, His Messenger, and the believers...) means, the Jews are not your friends. Rather, your allegiance is to Allah, His Messenger and the faithful believers.
+
+الَّذِينَ يُقِيمُونَ الصَّلَاةَ وَيُؤْتُونَ الزَّكَاةَ
+
+(those who perform the Salah, and give the Zakah...) referring to the believers who have these qualities and establish the prayer, which is one of the most important pillars of Islam, for it includes worshipping Allah alone without partners. They pay Zakah, which is the right of the creation and a type of help extended to the needy and the poor. As for Allah's statement,
+
+وَهُمْ رَاكِعُونَ
+
+(and they bow down,) some people thought that they give the Zakah while bowing down. If this were the case, then paying the Zakah while bowing would be the best form of giving Zakah. No scholar from whom religious rulings are taken says this, as much as we know. Therefore,
+
+وَهُمْ رَاكِعُونَ
+
+(and they bow down,) means, they attend the prayer in congregation in Allah's Masjids and spend by way of charity on the various needs of Muslims. Allah said;
+
+وَمَن يَتَوَلَّ اللَّهَ وَرَسُولَهُ وَالَّذِينَ آمَنُوا فَإِنَّ حِزْبَ اللَّهِ هُمُ الْغَالِبُونَ
+
+(And whosoever takes Allah, His Messenger, and those who have believed, as protectors, then the party of Allah will be the victorious.) similarly Allah said;
+
+كَتَبَ اللَّهُ لَأَغْلِبَنَّ أَنَا وَرُسُلِي إِنَّ اللَّهَ قَوِيٌّ عَزِيزٌ - لَّا تَجِدُ قَوْمًا يُؤْمِنُونَ بِاللَّهِ وَالْيَوْمِ الْآخِرِ يُوَادُّونَ مَنْ حَادَّ اللَّهَ وَرَسُولَهُ وَلَوْ كَانُوا آبَاءَهُمْ أَوْ أَبْنَاءَهُمْ أَوْ إِخْوَانَهُمْ أَوْ عَشِيرَتَهُمْ أُولَٰئِكَ كَتَبَ فِي قُلُوبِهِمُ الْإِيمَانَ وَأَيَّدَهُم بِرُوحٍ مِّنْهُ وَيُدْخِلُهُمْ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا رَضِيَ اللَّهُ عَنْهُمْ وَرَضُوا عَنْهُ أُولَٰئِكَ حِزْبُ اللَّهِ أَلَا إِنَّ حِزْبَ اللَّهِ هُمُ الْمُفْلِحُونَ
+
+(Allah has decreed: "Verily, it is I and My Messengers who shall be the victorious." Verily, Allah is All-Powerful, Almighty. You will not find any people who believe in Allah and the Last Day, making friendship with those who oppose Allah and His Messenger, even though they were their fathers or their sons or their brothers or their kindred (people). For such He has written faith in their hearts, and strengthened them with a Ruh (proof) from Himself. And He will admit them to Gardens (Paradise) under which rivers flow to dwell therein (forever). Allah is pleased with them, and they with Him. They are the party of Allah. Verily, it is the party of Allah that will be the successful.)
+
+Therefore, those who accept the allegiance of Allah - His Messenger and the faithful believers - will gain success in this life and the Hereafter. Hence Allah's statement here,
+
+وَمَن يَتَوَلَّ اللَّهَ وَرَسُولَهُ وَالَّذِينَ آمَنُوا فَإِنَّ حِزْبَ اللَّهِ هُمُ الْغَالِبُونَ
+
+(And whosoever takes Allah, His Messenger, and those who have believed, as protectors, then the party of Allah will be the victorious.)
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله :  وَمَنْ يَتَوَلَّ اللَّهَ وَرَسُولَهُ وَالَّذِينَ آمَنُوا فَإِنَّ حِزْبَ اللَّهِ هُمُ الْغَالِبُونَ (56)قال أبو جعفر: وهذا إعلامٌ من الله تعالى ذكره عبادَه جميعًا= الذين تبرأوا من حلف اليهود وخلعوهم رضًى بولاية الله ورسوله والمؤمنين، (78) والذين تمسكوا بحلفهم وخافوا دوائر السوء تدور عليهم، فسارعوا إلى موالاتهم= أنّ مَن وثق بالله وتولى الله ورسوله والمؤمنين، (79) ومن كان على مثل حاله من أولياء الله من المؤمنين، لهم الغلبة والدوائر والدولة على من عاداهم وحادّهم، لأنهم حزب ...
+القول في تأويل قوله: ﴿وَمَنْ يَتَوَلَّ اللَّهَ وَرَسُولَهُ وَالَّذِينَ آمَنُوا فَإِنَّ حِزْبَ اللَّهِ هُمُ الْغَالِبُونَ (٥٦) ﴾
+
+قال أبو جعفر: وهذا إعلامٌ من الله تعالى ذكره عبادَه جميعًا= الذين تبرأوا من حلف اليهود وخلعوهم رضًى بولاية الله ورسوله والمؤمنين، [[في المطبوعة: "الذين تبرأوا من اليهود وحلفهم رضى بولاية الله ... "، غير ما في المخطوطة إذ لم يحسن قراءته، والذي أثبت هو صواب القراءة.]] والذين تمسكوا بحلفهم وخافوا دوائر السوء تدور عليهم، فسارعوا إلى موالاتهم= أنّ مَن وثق بالله وتولى الله ورسوله والمؤمنين، [[في المطبوعة: "بأن من وثق بالله ... "، وفي المخطوطة مكان ذلك كله: "ووثقوا بالله". والذي أثبت هو صواب المعنى.]] ومن كان على مثل حاله من أولياء الله من المؤمنين، لهم الغلبة والدوائر والدولة على من عاداهم وحادّهم، لأنهم حزب الله، وحزبُ الله هم الغالبون، دون حزب الشيطان، كما:-
+
+١٢٢١٥ - حدثنا محمد بن الحسين قال، حدثنا أحمد بن مفضل قال، حدثنا أسباط، عن السدي قال: أخبرهم= يعني الرب تعالى ذكره= مَنِ الغالب، فقال: لا تخافوا الدولة ولا الدائرة، فقال:"ومن يتول الله ورسوله والذين آمنوا فإن حزب الله هم الغالبون"، و"الحزب"، هم الأنصار.
+
+* *
+
+ويعني بقوله:"فإن حزب الله"، فإن أنصار الله، [[انظر تفسير"الحزب" فيما سلف ١: ٢٤٤. وهذا التفسير الذي هنا لا تجده في كتب اللغة.]] ومنه قول الراجز: [[هو رؤبة بن العجاج.]]
+
+وَكَيْفَ أَضْوَى وَبِلالٌ حِزْبِي! [[ديوانه: ١٦، ومجاز القرآن لأبي عبيدة ١: ١٦٩، من أرجوزة يمدح بها بلال ابن أبي بردة، ذكر في أولها نفسه، ثم قال يذكر من يعترضه ويعبي له الهجاء والذم: ذَاكِ، وإن عَبَّى لِيَ المُعَبِّي ... وَطِحْطَحَ الجِدُّ لِحَاءَ القَشْبِ
+
+أَلَقَيتُ أَقْوَالَ الرِّجَالِ الكُذْبِ ... فَكَيْفَ أَضْوَى وَبِلالٌ حِزْبِي!
+
+ورواية الديوان: "ولست أضوي". وفي المخطوطة: "وكيف أضرى"، وهو تصحيف"طحطح الشيء": فرقه وبدده وعصف به فأهلكه. و"اللحاء": المخاصمة. و"القشب"، (بفتح فسكون) : الكلام المفترى: ولو قرئت"القشب" (بكسر فسكون) ، فهو الرجل الذي لا خير فيه.]]
+
+يعني بقوله:"أضوى"، أستضْعَفُ وأضام= من الشيء"الضاوي". [["الضاوي": الضعيف من الهزال وغيره."ضوى يضوي ضوى": ضعف ورق. وكان في المخطوطة: "أضرى" و"الضاري"، وهو خطأ وتصحيف.]] ويعني بقوله:"وبلال حزبي"، يعني: ناصري.
 
 ### al-Muyassar (Arabic)
 
-ومن وثق بالله وتولَّى الله ورسوله والمؤمنين، فهو من حزب الله، وحزب الله هم الغالبون المنتصرون.
+ومن وثق بالله وتولّى الله ورسوله والمؤمنين، فهو من حزب الله، وحزب الله هم الغالبون المنتصرون.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿ومَن يَتَوَلَّ اللَّه ورَسُوله والَّذِينَ آمَنُوا﴾ فَيُعِينهُمْ ويَنْصُرهُمْ ﴿فَإنَّ حِزْب اللَّه هُمْ الغالِبُونَ﴾ لِنَصْرِهِ إيّاهُمْ أوْقَعه مَوْقِع فَإنَّهُمْ بَيانًا لِأَنَّهُمْ مِن حِزْبه أيْ أتْباعه
 
 ---

@@ -1,6 +1,6 @@
 # Tafsir Cross-Reference Report
 
-Generated: 2026-04-07
+Generated: 2026-07-30
 Ayahs referenced: 4
 Tafsir sources: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), al-Jalalayn (Arabic)
 
@@ -10,22 +10,119 @@ Tafsir sources: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), 
 
 ### Ibn Kathir (English)
 
+If only there had been among the generations before you persons having wisdom, prohibiting (others) from Fasad (corruption) in the earth, except a few of those whom We saved from among them! Those who did wrong pursued the enjoyment of good things of (this worldly) life, and were criminals (116)And your Lord would never destroy the towns wrongfully, while their people were doers of good (117)
+
 There must be a Group of People Who forbid Lewdness
+
 Allah, the Exalted, says that there should have been a group of wise people present among the past generations who called to good and forbade the evil and corruption that took place among them in the land. His statement,
-إِلاَّ قَلِيلاً
-(except a few) This means that there were only a small number of people present among them who were of this caliber. They were those whom Allah saved at the sudden striking of His vengeance, when His anger wa...
+
+إِلَّا قَلِيلًا
+
+(except a few) This means that there were only a small number of people present among them who were of this caliber. They were those whom Allah saved at the sudden striking of His vengeance, when His anger was let lose. For this reason Allah commanded this noble Ummah (followers of Muhammad ) to always have among them those who command the good and forbid the evil. This is as Allah says,
+
+وَلْتَكُن مِّنكُمْ أُمَّةٌ يَدْعُونَ إِلَى الْخَيْرِ وَيَأْمُرُونَ بِالْمَعْرُوفِ وَيَنْهَوْنَ عَنِ الْمُنكَرِ ۚ وَأُولَٰئِكَ هُمُ الْمُفْلِحُونَ
+
+(Let there arise out of you a group of people inviting to all that is good, enjoining righteousness and forbidding evil. And it is they who are the successful.)[3:104] It is related in a Hadith that the Prophet ﷺ said,
+
+إِنَّ النَّاسَ إِذَا رَأَوُا الْمُنْكَرَ فَلَمْ يُغَيِّرُوهُ أَوْشَكَ أَنْ يَعُمَّهُمُ اللَّهُ بِعِقَابٍ
+
+(Verily, whenever a group of people see an evil and they do not change it, it is likely that Allah will cover them with (His) punishment.) Thus, Allah says,
+
+فَلَوْلَا كَانَ مِنَ الْقُرُونِ مِن قَبْلِكُمْ أُولُو بَقِيَّةٍ يَنْهَوْنَ عَنِ الْفَسَادِ فِي الْأَرْضِ إِلَّا قَلِيلًا مِّمَّنْ أَنجَيْنَا مِنْهُمْ
+
+(If only there had been among the generations before you persons having wisdom, prohibiting (others) from the Fasad in the earth, except a few of those whom We saved from among them!) Concerning the statement,
+
+وَاتَّبَعَ الَّذِينَ ظَلَمُوا مَا أُتْرِفُوا فِيهِ
+
+(Those who did wrong pursued the enjoyment of good things of (this worldly) life,) This means that they continued in their ways of disobedience and evils and they did not heed the protesting of those righteous people, until the torment suddenly seized them.
+
+وَكَانُوا مُجْرِمِينَ
+
+(and were criminals.) Then, Allah informs that he does not destroy any town, except that it has wronged itself. No correctional punishment or torment comes to any town, except that its people were wrongdoers. This is as Allah says,
+
+وَمَا ظَلَمْنَاهُمْ وَلَٰكِن ظَلَمُوا أَنفُسَهُمْ
+
+(We wronged them not, but they wronged themselves.)[11:101] Allah also says,
+
+وَمَا رَبُّكَ بِظَلَّامٍ لِّلْعَبِيدِ
+
+(And your Lord is not at all unjust to (His) servants.)[41:46]
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله تعالى :  فَلَوْلا كَانَ مِنَ الْقُرُونِ مِنْ قَبْلِكُمْ أُولُو بَقِيَّةٍ يَنْهَوْنَ عَنِ الْفَسَادِ فِي الأَرْضِ إِلا قَلِيلا مِمَّنْ أَنْجَيْنَا مِنْهُمْ وَاتَّبَعَ الَّذِينَ ظَلَمُوا مَا أُتْرِفُوا فِيهِ وَكَانُوا مُجْرِمِينَ (116)قال أبو جعفر : يقول تعالى ذكره: فهلا كان من القرون الذين قصصت عليك نبأهم في هذه السورة ، الذين أهلكتهم بمعصيتهم إياي ، وكفرهم برسلي (64) من قبلكم.(أولو بقية) ، يقول: ذو بقية من الفهم والعقل، (65) يعتبرون مواعظَ الله ويتدبرون حججه، فيعرفون ما له...
+القول في تأويل قوله تعالى: ﴿وَاصْبِرْ فَإِنَّ اللَّهَ لا يُضِيعُ أَجْرَ الْمُحْسِنِينَ (١١٥) ﴾
+
+قال أبو جعفر: يقول تعالى ذكره: واصبر، يا محمد، على ما تلقى من مشركي قومك من الأذى في الله والمكروه، رجاءَ جزيل ثواب الله على ذلك، فإن الله لا يضيع ثوابَ عمل من أحسن فأطاع الله واتبع أمره، فيذهب به، بل يوَفّره أحوجَ ما يكون إليه.
+
+* *
+
+القول في تأويل قوله تعالى: ﴿فَلَوْلا كَانَ مِنَ الْقُرُونِ مِنْ قَبْلِكُمْ أُولُو بَقِيَّةٍ يَنْهَوْنَ عَنِ الْفَسَادِ فِي الأَرْضِ إِلا قَلِيلا مِمَّنْ أَنْجَيْنَا مِنْهُمْ وَاتَّبَعَ الَّذِينَ ظَلَمُوا مَا أُتْرِفُوا فِيهِ وَكَانُوا مُجْرِمِينَ (١١٦) ﴾
+
+قال أبو جعفر: يقول تعالى ذكره: فهلا كان من القرون الذين قصصت عليك نبأهم في هذه السورة، الذين أهلكتهم بمعصيتهم إياي، وكفرهم برسلي [[انظر تفسير " القرن " فيما سلف ١١: ٢٦٣ / ١٥: ٣٧.]] من قبلكم. ﴿أولو بقية﴾ ، يقول: ذو بقية من الفهم والعقل، [[انظر تفسير " البقية " فيما سلف ص: ٤٤٧ - ٤٤٩.]] يعتبرون مواعظَ الله ويتدبرون حججه، فيعرفون ما لهم في الإيمان بالله، وعليهم في الكفر به [[في المطبوعة والمخطوطة: " وعليهم " بإسقاط " ما "، والأجود إثباتها.]] = ﴿ينهون عن الفساد في الأرض﴾ ، يقول: ينهون أهل المعاصي عن معاصيهم، وأهل الكفر بالله عن كفرهم به، في أرضه [[انظر تفسير " الفساد في الأرض " فيما سلف من فهارس اللغة (فسد) .]] = ﴿إلا قليلا ممن أنجينا منهم﴾ ، يقول: لم يكن من القرون من قبلكم أولو بقية ينهون عن الفساد في الأرض، إلا يسيرًا، فإنهم كانوا ينهون عن الفساد في الأرض، فنجاهم الله من عذابه، حين أخذ من كان مقيمًا على الكفر بالله عذابُه = وهم اتباع الأنبياء والرسل.
+
+* *
+
+ونصب "قليلا" لأن قوله: ﴿إلا قليلا﴾ استثناء منقطع مما قبله، كما قال: ﴿إِلا قَوْمَ يُونُسَ لَمَّا آمَنُوا﴾ ، [سورة يونس: ٩٨] . وقد بينا ذلك في غير موضع، بما أغنى عن إعادته. [[انظر فهارس مباحث العربية والنحو وغيرهما.]]
+
+* *
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+١٨٦٩٠- حدثني يونس قال، أخبرنا ابن وهب قال، قال ابن زيد: اعتذر فقال: ﴿فلولا كان من القرون من قبلكم﴾ ، حتى بلغ: ﴿إلا قليلا ممن أنجينا منهم﴾ ، فإذا هم الذين نجوا حين نزل عذاب الله. وقرأ: ﴿واتبع الذين ظلموا ما أترفوا فيه﴾ .
+
+١٨٦٩١- حدثنا القاسم قال، حدثنا الحسين قال، حدثني حجاج، عن ابن جريج قوله: ﴿فلولا كان من القرون من قبلكم أولو بقية﴾ ، إلى قوله: ﴿إلا قليلا ممن أنجينا منهم﴾ ، قال: يستقلَّهم الله من كل قوم.
+
+١٨٦٩٢- حدثنا محمد بن المثني قال، حدثنا ابن أبي عدي، عن داود قال: سألني بلال عن قول الحسن في القدر، [[في المطبوعة والمخطوطة هنا: " في العذر "، والصواب ما أثبت، وانظر التعليق التالي.]] قال: فقال: سمعت الحسن يقول: ﴿قيل يا نوح اهبط بسلام منا وبركات عليك وعلى أمم ممن معك وأمم سنمتعهم ثم يمسهم منا عذاب أليم﴾ ، قال: بعث الله هودًا إلى عاد، فنجى الله هودًا والذين آمنوا معه وهلك المتمتعون. وبعث الله صالحًا إلى ثمود، فنجى الله صالحًا وهلك المتمتعون. فجعلت أستقريه الأمم، فقال: ما أراه إلا كان حسَّن القول في القَدر. [[في المطبوعة وحدها: " في العذر، والصواب من المخطوطة. ويعني أنه أمر قد فرغ منه، لقول الله سبحانه لنوح: " وأمم سنمتعهم ثم يمسهم منا عذاب أليم "، وذلك قبل أن يكونوا، وهو قول أهل الإثبات، من أهل الحق.]]
+
+١٨٦٩٣- حدثنا بشر قال، حدثنا يزيد قال، حدثنا سعيد، عن قتادة: ﴿فلولا كان من القرون من قبلكم أولوا بقية ينهون عن الفساد في الأرض إلا قليلا ممن أنجينا منهم﴾ ، أي: لم يكن من قبلكم من ينهى عن الفساد في الأرض = ﴿إلا قليلا ممن أنجينا منهم﴾ .
+
+* *
+
+وقوله: ﴿واتبع الذين ظلموا ما أترفوا فيه﴾ ، يقول تعالى ذكره: واتبع الذين ظلموا أنفسهم فكفروا بالله ما أترفوا فيه.
+
+ذكر من قال ذلك:
+
+١٨٦٩٤- حدثنا القاسم قال، حدثنا الحسين قال، حدثني حجاج، عن ابن جريج قال: قال ابن عباس: ﴿واتبع الذين ظلموا ما أترفوا فيه﴾ ، قال: ما أُنْظروا فيه.
+
+١٨٦٩٥- حدثنا بشر قال، حدثنا يزيد قال، حدثنا سعيد، عن قتادة قوله: ﴿واتبع الذين ظلموا ما أترفوا فيه﴾ ، من دنياهم.
+
+=وكأنّ هؤلاء وجَّهوا تأويل الكلام: واتبع الذين ظلموا الشيء الذي أنظرهم فيه ربُّهم من نعيم الدنيا ولذاتها، إيثارًا له على عمل الآخرة وما ينجيهم من عذاب الله.
+
+* *
+
+وقال آخرون: معنى ذلك: واتبع الذين ظلَموا ما تجبَّروا فيه من الملك، وعتَوْا عن أمر الله.
+
+ذكر من قال ذلك:
+
+١٨٦٩٦- حدثني محمد بن عمرو قال، حدثنا أبو عاصم قال، حدثنا عيسى، عن ابن أبي نجيح، عن مجاهد، في قول الله: ﴿واتبع الذين ظلموا ما أترفوا فيه﴾ ، قال: في ملكهم وتجبُّرهم، وتركوا الحق.
+
+١٨٦٩٧- حدثني المثني قال، حدثنا أبو حذيفة قال، حدثنا شبل، عن ابن أبي نجيح، عن مجاهد، نحوه، إلا أنه قال: وتركِهم الحق.
+
+١٨٦٩٨- حدثني القاسم قال، حدثنا الحسين قال، حدثني حجاج، عن ابن جريج، عن مجاهد، مثل حديث محمد بن عمرو سواء.
+
+* *
+
+قال أبو جعفر: وأولى الأقوال في ذلك بالصواب أن يقال: إن الله أخبر تعالى ذكره: أن الذين ظلموا أنفسهم من كل أمة سلفت فكفروا بالله، اتبعوا ما أنظروا فيه من لذات الدنيا، فاستكبروا وكفروا بالله، واتبعوا ما أنظروا فيه من لذات الدنيا، فاستكبروا عن أمر الله وتجبروا وصدوا عن سبيله.
+
+* *
+
+= وذلك أن المترف في كلام العرب: هو المنعم الذي قد غُذِّي باللذات، ومنه قول الراجز: [[هو رؤبة.]]
+
+نُهْدِي رُءُوسَ المُتْرَفينَ الصُّدَّادْ ... إلى أمِير المُؤْمِنِينَ المُمْتَادْ [[سلف البيت وتخريجه وشرح فيما سلف ١١: ٢٢٣، تعليق: ١.، " الممتاد "، الذي نسأله العطاء فيعطي.]]
+
+* *
+
+وقوله: ﴿وكانوا مجرمين﴾ ، يقول: وكانوا مكتسبي الكفر بالله. [[انظر تفسير " الإجرام " فيما سلف من فهارس اللغة (جرم) .]]
 
 ### al-Muyassar (Arabic)
 
-فهلاَّ وُجد من القرون الماضية بقايا من أهل الخير والصلاح، ينهون أهل الكفر عن كفرهم، وعن الفساد في الأرض، لم يوجد من أولئك الأقوام إلا قليل ممن آمن، فنجَّاهم الله بسبب ذلك مِن عذابه حين أخذ الظالمين. واتَّبع عامتهم من الذين ظلموا أنفسهم ما مُتِّعوا فيه من لذات الدنيا ونعيمها، وكانوا مجرمين ظالمين باتباعهم ما تنعموا فيه، فحقَّ عليهم العذاب.
+فهلّا وُجد من القرون الماضية بقايا من أهل الخير والصلاح، ينهَوْن أهل الكفر عن كفرهم، وعن الفساد في الأرض، لم يوجد من أولئك الأقوام إلا قليل ممن آمن، فنجّاهم الله بسبب ذلك مِن عذابه حين أخذ الظالمين. واتَّبع الذين ظلموا أنفسهم من كلِّ أمَّة سَلَفت ما مُتِّعوا فيه من لذات الدنيا ونعيمها، وكانوا مجرمين ظالمين باتباعهم ما تَنَعَّموا فيه، فحقَّ عليهم العذاب. وفي الآية عبرة وموعظة للعصاةِ من المسلمين؛ لأنهم لا يَخْلُون من ظلمِ أنفسهم.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿فَلَوْلا﴾ فَهَلّا ﴿كانَ مِن القُرُون﴾ الأُمَم الماضِيَة ﴿مِن قَبْلكُمْ أُولُو بَقِيَّة﴾ أصْحاب دِين وفَضْل ﴿يَنْهَوْنَ عَنْ الفَساد فِي الأَرْض﴾ المُراد بِهِ النَّفْي: أيْ ما كانَ فِيهِمْ ذَلِكَ ﴿إلّا﴾ لَكِنَّ ﴿قَلِيلًا مِمَّنْ أنْجَيْنا مِنهُمْ﴾ نَهَوْا فَنَجَوْا ومِن لِلْبَيانِ ﴿واتَّبَعَ الَّذِينَ ظَلَمُوا﴾ بِالفَسادِ وتَرْك النَّهْي ﴿ما أُتْرِفُوا﴾ نَعِمُوا
 
 ---
 
@@ -33,14 +130,53 @@ Allah, the Exalted, says that there should have been a group of wise people pres
 
 ### Ibn Kathir (English)
 
+If only there had been among the generations before you persons having wisdom, prohibiting (others) from Fasad (corruption) in the earth, except a few of those whom We saved from among them! Those who did wrong pursued the enjoyment of good things of (this worldly) life, and were criminals (116)And your Lord would never destroy the towns wrongfully, while their people were doers of good (117)
+
 There must be a Group of People Who forbid Lewdness
+
 Allah, the Exalted, says that there should have been a group of wise people present among the past generations who called to good and forbade the evil and corruption that took place among them in the land. His statement,
-إِلاَّ قَلِيلاً
-(except a few) This means that there were only a small number of people present among them who were of this caliber. They were those whom Allah saved at the sudden striking of His vengeance, when His anger wa...
+
+إِلَّا قَلِيلًا
+
+(except a few) This means that there were only a small number of people present among them who were of this caliber. They were those whom Allah saved at the sudden striking of His vengeance, when His anger was let lose. For this reason Allah commanded this noble Ummah (followers of Muhammad ) to always have among them those who command the good and forbid the evil. This is as Allah says,
+
+وَلْتَكُن مِّنكُمْ أُمَّةٌ يَدْعُونَ إِلَى الْخَيْرِ وَيَأْمُرُونَ بِالْمَعْرُوفِ وَيَنْهَوْنَ عَنِ الْمُنكَرِ ۚ وَأُولَٰئِكَ هُمُ الْمُفْلِحُونَ
+
+(Let there arise out of you a group of people inviting to all that is good, enjoining righteousness and forbidding evil. And it is they who are the successful.)[3:104] It is related in a Hadith that the Prophet ﷺ said,
+
+إِنَّ النَّاسَ إِذَا رَأَوُا الْمُنْكَرَ فَلَمْ يُغَيِّرُوهُ أَوْشَكَ أَنْ يَعُمَّهُمُ اللَّهُ بِعِقَابٍ
+
+(Verily, whenever a group of people see an evil and they do not change it, it is likely that Allah will cover them with (His) punishment.) Thus, Allah says,
+
+فَلَوْلَا كَانَ مِنَ الْقُرُونِ مِن قَبْلِكُمْ أُولُو بَقِيَّةٍ يَنْهَوْنَ عَنِ الْفَسَادِ فِي الْأَرْضِ إِلَّا قَلِيلًا مِّمَّنْ أَنجَيْنَا مِنْهُمْ
+
+(If only there had been among the generations before you persons having wisdom, prohibiting (others) from the Fasad in the earth, except a few of those whom We saved from among them!) Concerning the statement,
+
+وَاتَّبَعَ الَّذِينَ ظَلَمُوا مَا أُتْرِفُوا فِيهِ
+
+(Those who did wrong pursued the enjoyment of good things of (this worldly) life,) This means that they continued in their ways of disobedience and evils and they did not heed the protesting of those righteous people, until the torment suddenly seized them.
+
+وَكَانُوا مُجْرِمِينَ
+
+(and were criminals.) Then, Allah informs that he does not destroy any town, except that it has wronged itself. No correctional punishment or torment comes to any town, except that its people were wrongdoers. This is as Allah says,
+
+وَمَا ظَلَمْنَاهُمْ وَلَٰكِن ظَلَمُوا أَنفُسَهُمْ
+
+(We wronged them not, but they wronged themselves.)[11:101] Allah also says,
+
+وَمَا رَبُّكَ بِظَلَّامٍ لِّلْعَبِيدِ
+
+(And your Lord is not at all unjust to (His) servants.)[41:46]
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله تعالى :  وَمَا كَانَ رَبُّكَ لِيُهْلِكَ الْقُرَى بِظُلْمٍ وَأَهْلُهَا مُصْلِحُونَ (117)قال أبو جعفر: يقول تعالى ذكره: وما كان ربك ، يا محمد، ليهلك القرى ، التي أهلكها، التي قَصَّ عليك نبأها، ظُلمًا وأهلها مصلحون في أعمالهم، غير مسيئين، فيكون إهلاكه إياهم مع إصلاحهم في أعمالهم وطاعتهم ربّهم ، ظلمًا، ولكنه أهلكها بكفر أهلها بالله وتماديهم في غيِّهم، وتكذيبهم رُسُلهم ، وركوبهم السيئات.* * *وقد قيل: معنى ذلك : لم يكن ليهلكهم بشركهم بالله. وذلك قوله " بظلم " يعني: بشرك  ، (وأهل...
+القول في تأويل قوله تعالى: ﴿وَمَا كَانَ رَبُّكَ لِيُهْلِكَ الْقُرَى بِظُلْمٍ وَأَهْلُهَا مُصْلِحُونَ (١١٧) ﴾
+
+قال أبو جعفر: يقول تعالى ذكره: وما كان ربك، يا محمد، ليهلك القرى، التي أهلكها، التي قَصَّ عليك نبأها، ظُلمًا وأهلها مصلحون في أعمالهم، غير مسيئين، فيكون إهلاكه إياهم مع إصلاحهم في أعمالهم وطاعتهم ربّهم، ظلمًا، ولكنه أهلكها بكفر أهلها بالله وتماديهم في غيِّهم، وتكذيبهم رُسُلهم، وركوبهم السيئات.
+
+* *
+
+وقد قيل: معنى ذلك: لم يكن ليهلكهم بشركهم بالله. وذلك قوله "بظلم" يعني: بشرك = ﴿وأهلها مصلحون﴾ ، فيما بينهم لا يتظالمون، ولكنهم يتعاطَون الحقّ بينهم، وإن كانوا مشركين، إنما يهلكهم إذا تظالموا.
 
 ### al-Muyassar (Arabic)
 
@@ -48,7 +184,7 @@ Allah, the Exalted, says that there should have been a group of wise people pres
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿وما كانَ رَبّك لِيُهْلِك القُرى بِظُلْمٍ﴾ مِنهُ لَهُمْ ﴿وأَهْلها مُصْلِحُونَ﴾ مُؤْمِنُونَ
 
 ---
 
@@ -56,16 +192,205 @@ Allah, the Exalted, says that there should have been a group of wise people pres
 
 ### Ibn Kathir (English)
 
+And if your Lord had so willed, He could surely have made mankind one Ummah, but they will not cease to disagree (118)Except him on whom your Lord has bestowed His mercy, and for that did He create them. And the Word of your Lord has been fulfilled (His saying): "Surely, I shall fill Hell with Jinn and men all together. (119)
+
 Allah has not made Faith universally accepted
+
 Allah, the Exalted, informs that He is able to make all of mankind one nation upon belief, or disbelief. This is just as He said,
-وَلَوْ شَآءَ رَبُّكَ لآمَنَ مَن فِى الاٌّرْضِ كُلُّهُمْ جَمِيعًا
-(And had your Lord willed, those on earth would have believed, all of them together.) 10:99 Allah goes on to say,
-وَلاَ يَزَالُونَ مُخْتَلِفِينَإِلاَّ مَن رَّحِمَ رَبُّكَ
-(but they will not cease to disagree. Except him on whom your Lord has bestowed His m...
+
+وَلَوْ شَاءَ رَبُّكَ لَآمَنَ مَن فِي الْأَرْضِ كُلُّهُمْ جَمِيعًا
+
+(And had your Lord willed, those on earth would have believed, all of them together.)[10:99] Allah goes on to say,
+
+وَلَا يَزَالُونَ مُخْتَلِفِينَ - إِلَّا مَن رَّحِمَ رَبُّكَ
+
+(but they will not cease to disagree. Except him on whom your Lord has bestowed His mercy,) This means that people will always differ in religions, creeds, beliefs, opinions and sects. Concerning Allah's statement,
+
+إِلَّا مَن رَّحِمَ رَبُّكَ
+
+(Except him on whom your Lord has bestowed His mercy,) This means that those who have received the mercy of Allah by following the Messengers are excluded from this. They are those who adhere to what they are commanded in the religion by the Messengers of Allah. That has always been their characteristic until the coming of the finality of the Prophets and Messengers (Muhammad ﷺ). Those who received Allah's mercy are those who followed him, believed in him and supported him. Therefore, they succeeded by achieving happiness in this life and the Hereafter. They are the Saved Sect mentioned in the Hadith recorded in the Musnad and Sunan collections of Hadith. The routes of transmission of this Hadith all strengthen each other (in authenticity). In these narrations the Prophet ﷺ said,
+
+إِنَّ الْيَهُودَ افْتَرَقَتْ عَلَى إِحْدَى وَسَبْعِينَ فِرْقَةً، وَإِنَّ النَّصَارَى افْتَرَقَتْ عَلَى اثْنَتَيْنِ وَسَبْعِينَ فِرْقَةً، وَسَتَفْتَرِقُ هَذِهِ الْأُمَّةُ عَلَى ثَلَاثٍ وَسَبْعِينَ فِرْقَةً، كُلُّهَا فِي النَّارِ إِلَّا فِرْقَةً وَاحِدَةً
+
+(Verily, the Jews split into seventy-one sects, and the Christians split into seventy-two sects, and this nation (of Muslims) will split into seventy-three sects. All of them will be in the Fire except one sect.) They (the Companions) said, "Who are they (the Saved Sect) O Messenger of Allah?" He said,
+
+مَا أَنَا عَلَيْهِ وَأَصْحَابِي
+
+(The sect that is upon what my Companions and I are upon.) Al-Hakim recorded this narration in his Mustadrak with this additional wording. Concerning Allah's statement,
+
+وَتَمَّتْ كَلِمَةُ رَبِّكَ لَأَمْلَأَنَّ جَهَنَّمَ مِنَ الْجِنَّةِ وَالنَّاسِ أَجْمَعِينَ
+
+(And the Word of your Lord has been fulfilled (His saying): "Surely, I shall fill Hell with Jinn and men all together.") Allah, the Exalted, informs that He precedes everything in His preordainment and decree, by His perfect knowledge and penetrating wisdom. The result of this decree is that from those whom He has created, some deserve the Paradise and some deserve the Hell Fire. From this decree is that He will fill the Hellfire with both mankind and Jinns. His is the profound evidence and the perfect wisdom. In the Two Sahihs it is recorded that Abu Hurayrah said that the Messenger of Allah ﷺ said,
+
+اخْتَصَمَتِ الْجَنَّةُ وَالنَّارُ فَقَالَتِ الْجَنَّةُ: مَا لِي لَا يَدْخُلُنِي إِلَّا ضُعَفَاءُ النَّاسِ وَسَقَطُهُمْ وَقَالَتِ النَّارُ: أُوثِرْتُ بِالْمُتَكَبِّرِينَ وَالْمُتَجَبِّرِينَ. فَقَالَ اللهُ عَزَّ وَجَلَّ لِلْجَنَّةِ: أَنْتِ رَحْمَتِي أَرْحَمُ بِكِ مَنْ أَشَاءُ، وَقَالَ لِلنَّارِ: أَنْتِ عَذَابِي أَنْتَقِمُ بِكِ مِمَّنْ أَشَاءُ، وَلِكُلِّ وَاحِدَةٍ مِنْكُمَا مِلْؤُهَا، فَأَمَّا الْجَنَّةُ فَلَا يَزَالُ فِيهَا فَضْلٌ، حَتَّى يُنْشِىءَ اللهُ لَهَا خَلْقًا يُسْكِنُ فَضْلَ الْجَنَّةِ، وَأَمَّا النَّارُ فَلَا تَزَالُ تَقُولُ: هَلْ مِنْ مَزِيدٍ حَتَّى يَضَعَ عَلَيْهَا رَبُّ الْعِزَّةِ قَدَمَهُ فَتَقُولُ: قَطْ قَطْ وَعِزَّتِكَ
+
+(Paradise and the Hellfire debated. Paradise said, 'None will enter me except the weak and despised of the people.' The Hell-fire said, 'I have inherited the haughty and the arrogant people.' Then Allah said to the Paradise, 'You are My mercy and I grant mercy with you to whoever I wish.' Then He said to the Hellfire, 'You are My torment and I take vengeance with you upon whoever I wish. I will fill each one of you.' However, the Paradise will always have more bounties, to such an extent that Allah will create more creatures to dwell in it and enjoy its extra bounties. The Hellfire will continue saying, 'Are there anymore (to enter me),' until the Lord of might places His Foot over it. Then it (Hell) will say, "Enough, enough, by Your might!")
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله تعالى :  وَلَوْ شَاءَ رَبُّكَ لَجَعَلَ النَّاسَ أُمَّةً وَاحِدَةً وَلا يَزَالُونَ مُخْتَلِفِينَ (118)قال أبو جعفر : يقول تعالى ذكره: ولو شاء ربك ، يا محمد ، لجعل الناس كلها جماعة واحدة على ملة واحدة ، ودين واحد، (1) كما:-18699- حدثنا بشر قال ، حدثنا يزيد قال ، حدثنا سعيد، عن قتادة، قوله: (وَلَوْ شَاءَ رَبُّكَ لَجَعَلَ النَّاسَ أُمَّةً وَاحِدَةً) ، يقول: لجعلهم مسلمين كلهم.* * *وقوله: (وَلا يَزَالُونَ مُخْتَلِفِينَ) ، يقول تعالى ذكره: ولا يزال النَّاس مختلفين  ، (إلا من رحم...
+القول في تأويل قوله تعالى: ﴿وَلَوْ شَاءَ رَبُّكَ لَجَعَلَ النَّاسَ أُمَّةً وَاحِدَةً وَلا يَزَالُونَ مُخْتَلِفِينَ (١١٨) إِلا مَنْ رَحِمَ رَبُّكَ وَلِذَلِكَ خَلَقَهُمْ وَتَمَّتْ كَلِمَةُ رَبِّكَ لأَمْلأنَّ جَهَنَّمَ مِنَ الْجِنَّةِ وَالنَّاسِ أَجْمَعِينَ (١١٩) ﴾
+
+قال أبو جعفر: يقول تعالى ذكره: ولو شاء ربك، يا محمد، لجعل الناس كلها جماعة واحدة على ملة واحدة، ودين واحد، [[انظر تفسير " الأمة " فيما سلف ص: ٣٥٣ تعليق: ٤، والمراجع هناك.]] كما:-
+
+١٨٦٩٩- حدثنا بشر قال، حدثنا يزيد قال، حدثنا سعيد، عن قتادة، قوله: ﴿ولو شاء ربك لجعل الناس أمة واحدة﴾ ، يقول: لجعلهم مسلمين كلهم.
+
+* *
+
+وقوله: ﴿ولا يزالون مختلفين﴾ ، يقول تعالى ذكره: ولا يزال النَّاس مختلفين = ﴿إلا من رحم ربك﴾ .
+
+* *
+
+ثم اختلف أهل التأويل في "الاختلاف" الذي وصف الله الناس أنهم لا يزالون به.
+
+فقال بعضهم: هو الاختلاف في الأديان = فتأويل ذلك على مذهب هؤلاء: ولا يزال الناس مختلفين على أديان شتى، من بين يهوديّ ونصرانيّ، ومجوسي، ونحو ذلك.
+
+وقال قائلو هذه المقالة: استثنى الله من ذلك من رحمهم، وهم أهل الإيمان.
+
+ذكر من قال ذلك:
+
+١٨٧٠٠- حدثنا ابن وكيع قال، حدثنا ابن نمير عن طلحة بن عمرو، عن عطاء: ﴿ولا يزالون مختلفين﴾ ، قال: اليهود والنصارى والمجوس، والحنيفيَّة همُ الذين رحم ربُّك
+
+١٨٧٠١- حدثني المثني قال، حدثنا قبيصة قال، حدثنا سفيان، عن طلحة بن عمرو، عن عطاء: ﴿ولا يزالون مختلفين﴾ ، قال: اليهود والنصارى والمجوس، ﴿إلا من رحم ربك﴾ ، قال: هم الحنيفية.
+
+١٨٧٠٢- حدثني يعقوب بن إبراهيم، وابن وكيع قالا حدثنا ابن علية قال، أخبرنا منصور بن عبد الرحمن قال: قلت للحسن قوله: ﴿ولا يزالون مختلفين إلا من رحم ربك﴾ ، قال: الناس مختلفون على أديان شتى، إلا من رحم ربك، فمن رحم غير مختلفين.
+
+١٨٧٠٣- حدثنا ابن وكيع قال، حدثنا أبي، عن حسن بن صالح، عن ليث، عن مجاهد: ﴿ولا يزالون مختلفين﴾ ، قال: أهل الباطل = ﴿إلا من رحم ربك﴾ ، قال: أهل الحقّ.
+
+١٨٧٠٤- حدثني محمد بن عمرو قال، حدثنا أبو عاصم قال، حدثنا عيسى، عن ابن أبي نجيح، عن مجاهد: ﴿ولا يزالون مختلفين﴾ ، قال: أهل الباطل = ﴿إلا من رحم ربك﴾ ، قال: أهل الحق.
+
+١٨٧٠٥- حدثني المثني قال، حدثنا أبو حذيفة قال، حدثنا شبل، عن ابن أبي نجيح، عن مجاهد، نحوه.
+
+١٨٧٠٦-. . . . قال، حدثنا معلي بن أسد قال، حدثنا عبد العزيز، عن منصور بن عبد الرحمن قال: سئل الحسن عن هذه الآية: ﴿ولا يزالون مختلفين إلا من رحم ربك﴾ ، قال: الناس كلهم مختلفون على أديان شتى، إلا من رحم ربك، فمن رحم غير مختلف. فقلت له: ﴿ولذلك خلقهم﴾ ؟ فقال: خلق هؤلاء لجنته، وهؤلاء لناره، وخلق هؤلاء لرحمته، وخلق هؤلاء لعذابه.
+
+١٨٧٠٧-. . . . قال، حدثنا إسحاق قال، حدثنا عبد الرحمن بن سعد قال، حدثنا أبو جعفر، عن ليث، عن مجاهد، في قوله: ﴿ولا يزالون مختلفين﴾ ، قال: أهل الباطل = ﴿إلا من رحم ربك﴾ ، قال: أهل الحق.
+
+١٨٧٠٨-. . . . قال، حدثنا الحماني قال، حدثنا شريك، عن خصيف، عن مجاهد، قوله: ﴿ولا يزالون مختلفين﴾ ، قال: أهل الحقّ وأهل الباطل. ﴿إلا من رحم ربك﴾ ، قال: أهل الحق.
+
+١٨٧٠٩-. . . . قال، حدثنا شريك، عن ليث، عن مجاهد، مثله.
+
+١٨٧١٠-. . . . قال، حدثنا سويد بن نصر قال، أخبرنا ابن المبارك: ﴿إلا من رحم ربك﴾ ، قال: أهل الحقّ، ليس فيهم اختلاف.
+
+١٨٧١١- حدثنا ابن وكيع قال، حدثنا ابن يمان، عن سفيان، عن ابن جريج، عن عكرمة: ﴿ولا يزالون مختلفين﴾ ، قال: اليهود والنصارى = ﴿إلا من رحم ربك﴾ ، قال: أهل القبلة.
+
+١٨٧١٢- حدثنا القاسم قال، حدثنا الحسين قال، حدثني حجاج، عن ابن جريج قال، أخبرني الحكم بن أبان عن عكرمة، عن ابن عباس: ﴿ولا يزالون مختلفين﴾ قال: أهل الباطل= ﴿إلا من رحم ربك﴾ ، قال: أهل الحق.
+
+١٨٧١٣- حدثنا هناد قال، حدثنا أبو الأحوص، عن سماك، عن عكرمة، في قوله: ﴿ولا يزالون مختلفين إلا من رحم ربك﴾ ، قال: لا يزالون مختلفين في الهوى.
+
+١٨٧١٤- حدثنا بشر قال، حدثنا يزيد قال، حدثنا سعيد، عن قتادة قوله: ﴿ولا يزالون مختلفين إلا من رحم ربك﴾ ، فأهل رحمة الله أهل جماعة، وإن تفرقت دورهم وأبدانهم، وأهل معصيته أهل فرقة، وإن اجتمعت دورهم وأبدانهم.
+
+١٨٧١٥- حدثني الحارث قال، حدثنا عبد العزيز قال، حدثنا سفيان، عن الأعمش: ﴿ولا يزالون مختلفين إلا من رحم ربك﴾ ، قال: من جعله على الإسلام.
+
+١٨٧١٦-. . . . قال، حدثنا عبد العزيز قال، حدثنا الحسن بن واصل، عن الحسن: ﴿ولا يزالون مختلفين﴾ ، قال: أهل الباطل، ﴿إلا من رحم ربك﴾ . [[الأثر: ١٨٧١٦ - " الحسن بن واصل "، لم أجد له ذكرًا، وأخشى أن يكون فيه تحريف. وأن يكون صوابه: " الحسن، عن واصل "، وكأنه يعني: " واصل بن عبد الرحمن " " أبا حرة "، وهو يروي عن الحسن، مضى برقم: ٦٣٨٥، ١١٤٩٦، ١٢٦١٦.]]
+
+١٨٧١٧-. . . . قال، حدثنا ابن حميد قال، حدثنا حكام، عن عنبسة، عن محمد بن عبد الرحمن، عن القاسم بن أبي بزة عن مجاهد في قوله: ﴿ولا يزالون مختلفين﴾ ، قال: أهل الباطل = ﴿إلا من رحم ربك﴾ ، قال: أهل الحق.
+
+١٨٧١٨- حدثنا ابن حميد وابن وكيع قالا حدثنا جرير، عن ليث، عن مجاهد، مثله.
+
+* *
+
+وقال آخرون: بل معنى ذلك: ولا يزالون مختلفين في الرزق، فهذا فقير وهذا غنى.
+
+ذكر من قال ذلك:
+
+١٨٧١٩- حدثنا ابن عبد الأعلى قال، حدثنا معتمر، عن أبيه، أن الحسن قال: مختلفين في الرزق، سخر بعضهم لبعض.
+
+* *
+
+وقال بعضهم: مختلفين في المغفرة والرحمة، أو كما قال.
+
+* *
+
+قال أبو جعفر: وأولى الأقوال في تأويل ذلك، بالصواب قولُ من قال: معنى ذلك: "ولا يزال الناس مختلفين في أديانهم وأهوائهم على أديان وملل وأهواء شتى، إلا من رحم ربك، فآمن بالله وصدق رسله، فإنهم لا يختلفون في توحيد الله، وتصديق رسله، وما جاءهم من عند الله".
+
+وإنما قلت ذلك أولى بالصواب في تأويل ذلك، لأن الله جل ثناؤه أتبع ذلك قوله: ﴿وتمت كلمة ربك لأملأن جهنم من الجِنة والناس أجمعين﴾ ، ففي ذلك دليلٌ واضح أن الذي قبله من ذكر خبره عن اختلاف الناس، إنما هو خبرٌ عن اختلاف مذموم يوجب لهم النار، ولو كان خبرًا عن اختلافهم في الرزق، لم يعقّب ذلك بالخبر عن عقابهم وعَذابهم.
+
+* *
+
+وأما قوله: ﴿ولذلك خلقهم﴾ ، فإن أهل التأويل اختلفوا في تأويله:
+
+فقال بعضهم: معناه: وللاختلاف خلقهم.
+
+ذكر من قال ذلك:
+
+١٨٧٢٠- حدثنا أبو كريب قال، حدثنا وكيع، وحدثنا ابن وكيع قال، حدثنا أبي، عن مبارك بن فضالة، عن الحسن: ﴿ولذلك خلقهم﴾ ، قال: للاختلاف.
+
+١٨٧٢١- حدثني يعقوب قال، حدثنا ابن علية قال، حدثنا منصور بن عبد الرحمن، قال: قلت للحسن: ﴿ولذلك خلقهم﴾ ؟ فقال: خلق هؤلاء لجنته وخلق هؤلاء لناره، وخلق هؤلاء لرحمته، وخلق هؤلاء لعذابه.
+
+١٨٧٢٢- حدثنا ابن وكيع قال، حدثنا ابن عليه، عن منصور، عن الحسن، مثله.
+
+١٨٧٢٣- حدثني المثني قال، حدثنا المعلى بن أسد قال، حدثنا عبد العزيز، عن منصور بن عبد الرحمن، عن الحسن. بنحوه.
+
+١٨٧٢٤-. . . . قال، حدثنا الحجاج بن المنهال قال، حدثنا حماد، عن خالد الحذاء، أن الحسن قال في هذه الآية: ﴿ولذلك خلقهم﴾ ، قال: خلق هؤلاء لهذه، وخلق هؤلاء لهذه.
+
+١٨٧٢٥- حدثنا محمد بن بشار قال، حدثنا هوذة بن خليفة قال، حدثنا عوف، عن الحسن قال: ﴿ولذلك خلقهم﴾ ، قال: أما أهل رحمة الله فإنهم لا يختلفون اختلافًا يضرُّهم.
+
+١٨٧٢٦- حدثني المثني قال، حدثنا عبد الله بن صالح قال، حدثني معاوية، عن علي، عن ابن عباس قوله: ﴿ولذلك خلقهم﴾ ، قال: خلقهم فريقين: فريقًا يرحم فلا يختلف، وفريقًا لا يرحم يختلف، وذلك قوله: ﴿فَمِنْهُمْ شَقِيٌّ وَسَعِيدٌ﴾ ، [سورة هود: ١٠٥] .
+
+١٨٧٢٧- حدثني الحارث قال، حدثنا عبد العزيز قال، حدثنا سفيان، عن طلحة بن عمرو، عن عطاء في قوله: ﴿ولا يزالون مختلفين﴾ ، قال: يهود ونصارى ومجوس= ﴿إلا من رحم ربك﴾ ، قال: من جعله على الإسلام = ﴿ولذلك خلقهم﴾ ، قال: مؤمن وكافر.
+
+١٨٧٢٨- حدثني الحارث قال، حدثنا عبد العزيز قال، حدثنا سفيان، قال، حدثنا الأعمش: "ولذلك خلقهم "، قال: مؤمن وكافر.
+
+١٨٧٢٩- حدثني يونس قال، أخبرنا أشهب قال: سئل مالك عن قول الله: ﴿ولا يزالون مختلفين إلا من رحم ربك ولذلك خلقهم﴾ ، قال: خلقهم ليكونوا فريقين: فريقٌ في الجنة، وفريقٌ في السعير.
+
+* *
+
+وقال آخرون: بل معنى ذلك: وللرحمة خلقهم.
+
+ذكر من قال ذلك:
+
+١٨٧٣٠- حدثني أبو كريب قال، حدثنا وكيع، وحدثنا ابن وكيع قال، حدثنا أبي، عن حسن بن صالح، عن ليث، عن مجاهد: ﴿ولذلك خلقهم﴾ ، قال: للرحمة.
+
+١٨٧٣١- حدثنا ابن حميد وابن وكيع قالا حدثنا جرير، عن ليث، عن مجاهد: ﴿ولذلك خلقهم﴾ ، قال للرحمة.
+
+١٨٧٣٢- حدثني المثني قال، حدثنا الحماني قال، حدثنا شريك، عن خصيف، عن مجاهد، مثله.
+
+١٨٧٣٣- حدثني المثني قال، حدثنا سويد قال، أخبرنا ابن المبارك، عن شريك، عن ليث، عن مجاهد، مثله.
+
+١٨٧٣٤-. . . . قال، حدثنا إسحاق قال، حدثنا عبد الرحمن بن سعد قال، أخبرنا أبو حفص، عن ليث، عن مجاهد، مثله، إلا أنه قال: للرحمة خلقهم.
+
+١٨٧٣٥- حدثني محمد بن عبد الأعلى قال، حدثنا محمد بن ثور، عن معمر، عن قتادة: ﴿ولذلك خلقهم﴾ ، قال: للرحمة خلقهم.
+
+١٨٧٣٦- حدثنا ابن وكيع قال، حدثنا أبو معاوية، عمن ذكره عن ثابت، عن الضحاك: ﴿ولذلك خلقهم﴾ ، قال: للرحمة.
+
+١٨٧٣٧- حدثنا القاسم قال، حدثنا الحسين قال، حدثني حجاج، عن ابن جريج قال، أخبرني الحكم بن أبان، عن عكرمة: ﴿ولذلك خلقهم﴾ ، قال: أهل الحقّ ومن اتبعه لرحمته.
+
+١٨٧٣٨- حدثني سعد بن عبد الله قال، حدثنا حفص بن عمر قال، حدثنا الحكم بن أبان، عن عكرمة، عن ابن عباس في قوله: ﴿ولا يزالون مختلفين إلا من رحم ربك ولذلك﴾ ، قال: للرحمة خلقهم ولم يخلقهم للعذاب.
+
+* *
+
+قال أبو جعفر: وأولى القولين في ذلك بالصواب، قولُ من قال: وللاختلاف بالشقاء والسعادة خلقهم، لأن الله جل ذكره ذكر صنفين من خلقه: أحدهما أهل اختلاف وباطل، والآخر أهل حق، ثم عقَّب ذلك بقوله: ﴿ولذلك خلقهم﴾ ، فعمّ بقوله: ﴿ولذلك خلقهم﴾ ، صفة الصنفين، فأخبر عن كل فريق منهما أنه ميَسَّر لما خلق له.
+
+* *
+
+فإن قال قائل: فإن كان تأويل ذلك كما ذكرت، فقد ينبغي أن يكون المختلفون غير ملومين على اختلافهم، إذ كان لذلك خلقهم ربُّهم، وأن يكون المتمتِّعون هم الملومين؟
+
+قيل: إن معنى ذلك بخلاف ما إليه ذهبت، وإنما معنى الكلام: ولا يزال الناس مختلفين بالباطل من أديانهم ومللهم، ﴿إلا من رحم ربك﴾ ، فهداه للحقّ ولعلمه، وعلى علمه النافذ فيهم قبل أن يخلقهم أنه يكون فيهم المؤمن والكافر، والشقي والسعيد خلقهم = فمعنى اللام في قوله: ﴿ولذلك خلقهم﴾ بمعنى "على" كقولك للرجل: أكرمتك على برك بي، وأكرمتك لبرك بي.
+
+* *
+
+وأما قوله: ﴿وتمت كلمة ربك لأملأن جهنم من الجنة والناس أجمعين﴾ ، لعلمه السابق فيهم أنهم يستوجبون صليها بكفرهم بالله، وخلافهم أمره.
+
+* *
+
+وقوله: ﴿وتمت كلمة ربك﴾ ، قسم كقول القائل: حلفي لأزورنك، وبدًا لي لآتينك، ولذلك تُلُقِّيَت بلام اليمين.
+
+* *
+
+وقوله: ﴿من الجنة﴾ ، وهي ما اجتَنَّ عن أبصار بني آدم = ﴿والناس﴾ ، يعني: وبنى آدم.
+
+* *
+
+وقيل: إنهم سموا "الجنة"، لأنهم كانوا على الجنان.
+
+ذكر من قال ذلك:
+
+١٨٧٣٩- حدثنا ابن وكيع قال، حدثنا عبد الله، عن إسرائيل، عن السدي، عن أبي مالك: وإنما سموا "الجنة " أنهم كانوا على الجنان، والملائكة كلهم "جنة"
+
+١٨٧٤٠- حدثنا ابن وكيع قال، حدثنا عبد الله، عن إسرائيل، عن السدي، عن أبي مالك قال: "الجنة": الملائكة.
+
+* *
+
+وأما معنى قول أبى مالك هذا: أن إبليس كان من الملائكة، والجن ذريته، وأن الملائكة تسمى عنده الجن، لما قد بينت فيما مضى من كتابنا هذا. [[انظر تفسير " الجن " فيما سلف ١: ٥٠٢ - ٥٠٨.]]
 
 ### al-Muyassar (Arabic)
 
@@ -73,7 +398,7 @@ Allah, the Exalted, informs that He is able to make all of mankind one nation up
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿ولَوْ شاءَ رَبّك لَجَعَلَ النّاس أُمَّة واحِدَة﴾ أهْل دِين واحِد ﴿ولا يَزالُونَ مُخْتَلِفِينَ﴾ فِيالدِّين
 
 ---
 
@@ -81,23 +406,212 @@ Allah, the Exalted, informs that He is able to make all of mankind one nation up
 
 ### Ibn Kathir (English)
 
+And if your Lord had so willed, He could surely have made mankind one Ummah, but they will not cease to disagree (118)Except him on whom your Lord has bestowed His mercy, and for that did He create them. And the Word of your Lord has been fulfilled (His saying): "Surely, I shall fill Hell with Jinn and men all together. (119)
+
 Allah has not made Faith universally accepted
+
 Allah, the Exalted, informs that He is able to make all of mankind one nation upon belief, or disbelief. This is just as He said,
-وَلَوْ شَآءَ رَبُّكَ لآمَنَ مَن فِى الاٌّرْضِ كُلُّهُمْ جَمِيعًا
-(And had your Lord willed, those on earth would have believed, all of them together.) 10:99 Allah goes on to say,
-وَلاَ يَزَالُونَ مُخْتَلِفِينَإِلاَّ مَن رَّحِمَ رَبُّكَ
-(but they will not cease to disagree. Except him on whom your Lord has bestowed His m...
+
+وَلَوْ شَاءَ رَبُّكَ لَآمَنَ مَن فِي الْأَرْضِ كُلُّهُمْ جَمِيعًا
+
+(And had your Lord willed, those on earth would have believed, all of them together.)[10:99] Allah goes on to say,
+
+وَلَا يَزَالُونَ مُخْتَلِفِينَ - إِلَّا مَن رَّحِمَ رَبُّكَ
+
+(but they will not cease to disagree. Except him on whom your Lord has bestowed His mercy,) This means that people will always differ in religions, creeds, beliefs, opinions and sects. Concerning Allah's statement,
+
+إِلَّا مَن رَّحِمَ رَبُّكَ
+
+(Except him on whom your Lord has bestowed His mercy,) This means that those who have received the mercy of Allah by following the Messengers are excluded from this. They are those who adhere to what they are commanded in the religion by the Messengers of Allah. That has always been their characteristic until the coming of the finality of the Prophets and Messengers (Muhammad ﷺ). Those who received Allah's mercy are those who followed him, believed in him and supported him. Therefore, they succeeded by achieving happiness in this life and the Hereafter. They are the Saved Sect mentioned in the Hadith recorded in the Musnad and Sunan collections of Hadith. The routes of transmission of this Hadith all strengthen each other (in authenticity). In these narrations the Prophet ﷺ said,
+
+إِنَّ الْيَهُودَ افْتَرَقَتْ عَلَى إِحْدَى وَسَبْعِينَ فِرْقَةً، وَإِنَّ النَّصَارَى افْتَرَقَتْ عَلَى اثْنَتَيْنِ وَسَبْعِينَ فِرْقَةً، وَسَتَفْتَرِقُ هَذِهِ الْأُمَّةُ عَلَى ثَلَاثٍ وَسَبْعِينَ فِرْقَةً، كُلُّهَا فِي النَّارِ إِلَّا فِرْقَةً وَاحِدَةً
+
+(Verily, the Jews split into seventy-one sects, and the Christians split into seventy-two sects, and this nation (of Muslims) will split into seventy-three sects. All of them will be in the Fire except one sect.) They (the Companions) said, "Who are they (the Saved Sect) O Messenger of Allah?" He said,
+
+مَا أَنَا عَلَيْهِ وَأَصْحَابِي
+
+(The sect that is upon what my Companions and I are upon.) Al-Hakim recorded this narration in his Mustadrak with this additional wording. Concerning Allah's statement,
+
+وَتَمَّتْ كَلِمَةُ رَبِّكَ لَأَمْلَأَنَّ جَهَنَّمَ مِنَ الْجِنَّةِ وَالنَّاسِ أَجْمَعِينَ
+
+(And the Word of your Lord has been fulfilled (His saying): "Surely, I shall fill Hell with Jinn and men all together.") Allah, the Exalted, informs that He precedes everything in His preordainment and decree, by His perfect knowledge and penetrating wisdom. The result of this decree is that from those whom He has created, some deserve the Paradise and some deserve the Hell Fire. From this decree is that He will fill the Hellfire with both mankind and Jinns. His is the profound evidence and the perfect wisdom. In the Two Sahihs it is recorded that Abu Hurayrah said that the Messenger of Allah ﷺ said,
+
+اخْتَصَمَتِ الْجَنَّةُ وَالنَّارُ فَقَالَتِ الْجَنَّةُ: مَا لِي لَا يَدْخُلُنِي إِلَّا ضُعَفَاءُ النَّاسِ وَسَقَطُهُمْ وَقَالَتِ النَّارُ: أُوثِرْتُ بِالْمُتَكَبِّرِينَ وَالْمُتَجَبِّرِينَ. فَقَالَ اللهُ عَزَّ وَجَلَّ لِلْجَنَّةِ: أَنْتِ رَحْمَتِي أَرْحَمُ بِكِ مَنْ أَشَاءُ، وَقَالَ لِلنَّارِ: أَنْتِ عَذَابِي أَنْتَقِمُ بِكِ مِمَّنْ أَشَاءُ، وَلِكُلِّ وَاحِدَةٍ مِنْكُمَا مِلْؤُهَا، فَأَمَّا الْجَنَّةُ فَلَا يَزَالُ فِيهَا فَضْلٌ، حَتَّى يُنْشِىءَ اللهُ لَهَا خَلْقًا يُسْكِنُ فَضْلَ الْجَنَّةِ، وَأَمَّا النَّارُ فَلَا تَزَالُ تَقُولُ: هَلْ مِنْ مَزِيدٍ حَتَّى يَضَعَ عَلَيْهَا رَبُّ الْعِزَّةِ قَدَمَهُ فَتَقُولُ: قَطْ قَطْ وَعِزَّتِكَ
+
+(Paradise and the Hellfire debated. Paradise said, 'None will enter me except the weak and despised of the people.' The Hell-fire said, 'I have inherited the haughty and the arrogant people.' Then Allah said to the Paradise, 'You are My mercy and I grant mercy with you to whoever I wish.' Then He said to the Hellfire, 'You are My torment and I take vengeance with you upon whoever I wish. I will fill each one of you.' However, the Paradise will always have more bounties, to such an extent that Allah will create more creatures to dwell in it and enjoy its extra bounties. The Hellfire will continue saying, 'Are there anymore (to enter me),' until the Lord of might places His Foot over it. Then it (Hell) will say, "Enough, enough, by Your might!")
 
 ### al-Tabari (Arabic)
 
-(إلا من رحم ربك) ، قال: هم الحنيفية.18702- حدثني يعقوب بن إبراهيم ، وابن وكيع قالا حدثنا ابن علية قال، أخبرنا منصور بن عبد الرحمن قال: قلت للحسن قوله: (وَلا يَزَالُونَ مُخْتَلِفِينَ إِلا مَنْ رَحِمَ رَبُّكَ) ، قال: الناس مختلفون على أديان شتى، إلا من رحم ربك، فمن رحم غير مختلفين.18703- حدثنا ابن وكيع قال ، حدثنا أبي، عن حسن بن صالح، عن ليث، عن مجاهد: (وَلا يَزَالُونَ مُخْتَلِفِينَ) ، قال: أهل الباطل  ، (إلا من رحم ربك) ، قال: أهل الحقّ.18704- حدثني محمد بن عمرو قال ، حدثنا أبو عاصم قال ، حدثن...
+القول في تأويل قوله تعالى: ﴿وَلَوْ شَاءَ رَبُّكَ لَجَعَلَ النَّاسَ أُمَّةً وَاحِدَةً وَلا يَزَالُونَ مُخْتَلِفِينَ (١١٨) إِلا مَنْ رَحِمَ رَبُّكَ وَلِذَلِكَ خَلَقَهُمْ وَتَمَّتْ كَلِمَةُ رَبِّكَ لأَمْلأنَّ جَهَنَّمَ مِنَ الْجِنَّةِ وَالنَّاسِ أَجْمَعِينَ (١١٩) ﴾
+
+قال أبو جعفر: يقول تعالى ذكره: ولو شاء ربك، يا محمد، لجعل الناس كلها جماعة واحدة على ملة واحدة، ودين واحد، [[انظر تفسير " الأمة " فيما سلف ص: ٣٥٣ تعليق: ٤، والمراجع هناك.]] كما:-
+
+١٨٦٩٩- حدثنا بشر قال، حدثنا يزيد قال، حدثنا سعيد، عن قتادة، قوله: ﴿ولو شاء ربك لجعل الناس أمة واحدة﴾ ، يقول: لجعلهم مسلمين كلهم.
+
+* *
+
+وقوله: ﴿ولا يزالون مختلفين﴾ ، يقول تعالى ذكره: ولا يزال النَّاس مختلفين = ﴿إلا من رحم ربك﴾ .
+
+* *
+
+ثم اختلف أهل التأويل في "الاختلاف" الذي وصف الله الناس أنهم لا يزالون به.
+
+فقال بعضهم: هو الاختلاف في الأديان = فتأويل ذلك على مذهب هؤلاء: ولا يزال الناس مختلفين على أديان شتى، من بين يهوديّ ونصرانيّ، ومجوسي، ونحو ذلك.
+
+وقال قائلو هذه المقالة: استثنى الله من ذلك من رحمهم، وهم أهل الإيمان.
+
+ذكر من قال ذلك:
+
+١٨٧٠٠- حدثنا ابن وكيع قال، حدثنا ابن نمير عن طلحة بن عمرو، عن عطاء: ﴿ولا يزالون مختلفين﴾ ، قال: اليهود والنصارى والمجوس، والحنيفيَّة همُ الذين رحم ربُّك
+
+١٨٧٠١- حدثني المثني قال، حدثنا قبيصة قال، حدثنا سفيان، عن طلحة بن عمرو، عن عطاء: ﴿ولا يزالون مختلفين﴾ ، قال: اليهود والنصارى والمجوس، ﴿إلا من رحم ربك﴾ ، قال: هم الحنيفية.
+
+١٨٧٠٢- حدثني يعقوب بن إبراهيم، وابن وكيع قالا حدثنا ابن علية قال، أخبرنا منصور بن عبد الرحمن قال: قلت للحسن قوله: ﴿ولا يزالون مختلفين إلا من رحم ربك﴾ ، قال: الناس مختلفون على أديان شتى، إلا من رحم ربك، فمن رحم غير مختلفين.
+
+١٨٧٠٣- حدثنا ابن وكيع قال، حدثنا أبي، عن حسن بن صالح، عن ليث، عن مجاهد: ﴿ولا يزالون مختلفين﴾ ، قال: أهل الباطل = ﴿إلا من رحم ربك﴾ ، قال: أهل الحقّ.
+
+١٨٧٠٤- حدثني محمد بن عمرو قال، حدثنا أبو عاصم قال، حدثنا عيسى، عن ابن أبي نجيح، عن مجاهد: ﴿ولا يزالون مختلفين﴾ ، قال: أهل الباطل = ﴿إلا من رحم ربك﴾ ، قال: أهل الحق.
+
+١٨٧٠٥- حدثني المثني قال، حدثنا أبو حذيفة قال، حدثنا شبل، عن ابن أبي نجيح، عن مجاهد، نحوه.
+
+١٨٧٠٦-. . . . قال، حدثنا معلي بن أسد قال، حدثنا عبد العزيز، عن منصور بن عبد الرحمن قال: سئل الحسن عن هذه الآية: ﴿ولا يزالون مختلفين إلا من رحم ربك﴾ ، قال: الناس كلهم مختلفون على أديان شتى، إلا من رحم ربك، فمن رحم غير مختلف. فقلت له: ﴿ولذلك خلقهم﴾ ؟ فقال: خلق هؤلاء لجنته، وهؤلاء لناره، وخلق هؤلاء لرحمته، وخلق هؤلاء لعذابه.
+
+١٨٧٠٧-. . . . قال، حدثنا إسحاق قال، حدثنا عبد الرحمن بن سعد قال، حدثنا أبو جعفر، عن ليث، عن مجاهد، في قوله: ﴿ولا يزالون مختلفين﴾ ، قال: أهل الباطل = ﴿إلا من رحم ربك﴾ ، قال: أهل الحق.
+
+١٨٧٠٨-. . . . قال، حدثنا الحماني قال، حدثنا شريك، عن خصيف، عن مجاهد، قوله: ﴿ولا يزالون مختلفين﴾ ، قال: أهل الحقّ وأهل الباطل. ﴿إلا من رحم ربك﴾ ، قال: أهل الحق.
+
+١٨٧٠٩-. . . . قال، حدثنا شريك، عن ليث، عن مجاهد، مثله.
+
+١٨٧١٠-. . . . قال، حدثنا سويد بن نصر قال، أخبرنا ابن المبارك: ﴿إلا من رحم ربك﴾ ، قال: أهل الحقّ، ليس فيهم اختلاف.
+
+١٨٧١١- حدثنا ابن وكيع قال، حدثنا ابن يمان، عن سفيان، عن ابن جريج، عن عكرمة: ﴿ولا يزالون مختلفين﴾ ، قال: اليهود والنصارى = ﴿إلا من رحم ربك﴾ ، قال: أهل القبلة.
+
+١٨٧١٢- حدثنا القاسم قال، حدثنا الحسين قال، حدثني حجاج، عن ابن جريج قال، أخبرني الحكم بن أبان عن عكرمة، عن ابن عباس: ﴿ولا يزالون مختلفين﴾ قال: أهل الباطل= ﴿إلا من رحم ربك﴾ ، قال: أهل الحق.
+
+١٨٧١٣- حدثنا هناد قال، حدثنا أبو الأحوص، عن سماك، عن عكرمة، في قوله: ﴿ولا يزالون مختلفين إلا من رحم ربك﴾ ، قال: لا يزالون مختلفين في الهوى.
+
+١٨٧١٤- حدثنا بشر قال، حدثنا يزيد قال، حدثنا سعيد، عن قتادة قوله: ﴿ولا يزالون مختلفين إلا من رحم ربك﴾ ، فأهل رحمة الله أهل جماعة، وإن تفرقت دورهم وأبدانهم، وأهل معصيته أهل فرقة، وإن اجتمعت دورهم وأبدانهم.
+
+١٨٧١٥- حدثني الحارث قال، حدثنا عبد العزيز قال، حدثنا سفيان، عن الأعمش: ﴿ولا يزالون مختلفين إلا من رحم ربك﴾ ، قال: من جعله على الإسلام.
+
+١٨٧١٦-. . . . قال، حدثنا عبد العزيز قال، حدثنا الحسن بن واصل، عن الحسن: ﴿ولا يزالون مختلفين﴾ ، قال: أهل الباطل، ﴿إلا من رحم ربك﴾ . [[الأثر: ١٨٧١٦ - " الحسن بن واصل "، لم أجد له ذكرًا، وأخشى أن يكون فيه تحريف. وأن يكون صوابه: " الحسن، عن واصل "، وكأنه يعني: " واصل بن عبد الرحمن " " أبا حرة "، وهو يروي عن الحسن، مضى برقم: ٦٣٨٥، ١١٤٩٦، ١٢٦١٦.]]
+
+١٨٧١٧-. . . . قال، حدثنا ابن حميد قال، حدثنا حكام، عن عنبسة، عن محمد بن عبد الرحمن، عن القاسم بن أبي بزة عن مجاهد في قوله: ﴿ولا يزالون مختلفين﴾ ، قال: أهل الباطل = ﴿إلا من رحم ربك﴾ ، قال: أهل الحق.
+
+١٨٧١٨- حدثنا ابن حميد وابن وكيع قالا حدثنا جرير، عن ليث، عن مجاهد، مثله.
+
+* *
+
+وقال آخرون: بل معنى ذلك: ولا يزالون مختلفين في الرزق، فهذا فقير وهذا غنى.
+
+ذكر من قال ذلك:
+
+١٨٧١٩- حدثنا ابن عبد الأعلى قال، حدثنا معتمر، عن أبيه، أن الحسن قال: مختلفين في الرزق، سخر بعضهم لبعض.
+
+* *
+
+وقال بعضهم: مختلفين في المغفرة والرحمة، أو كما قال.
+
+* *
+
+قال أبو جعفر: وأولى الأقوال في تأويل ذلك، بالصواب قولُ من قال: معنى ذلك: "ولا يزال الناس مختلفين في أديانهم وأهوائهم على أديان وملل وأهواء شتى، إلا من رحم ربك، فآمن بالله وصدق رسله، فإنهم لا يختلفون في توحيد الله، وتصديق رسله، وما جاءهم من عند الله".
+
+وإنما قلت ذلك أولى بالصواب في تأويل ذلك، لأن الله جل ثناؤه أتبع ذلك قوله: ﴿وتمت كلمة ربك لأملأن جهنم من الجِنة والناس أجمعين﴾ ، ففي ذلك دليلٌ واضح أن الذي قبله من ذكر خبره عن اختلاف الناس، إنما هو خبرٌ عن اختلاف مذموم يوجب لهم النار، ولو كان خبرًا عن اختلافهم في الرزق، لم يعقّب ذلك بالخبر عن عقابهم وعَذابهم.
+
+* *
+
+وأما قوله: ﴿ولذلك خلقهم﴾ ، فإن أهل التأويل اختلفوا في تأويله:
+
+فقال بعضهم: معناه: وللاختلاف خلقهم.
+
+ذكر من قال ذلك:
+
+١٨٧٢٠- حدثنا أبو كريب قال، حدثنا وكيع، وحدثنا ابن وكيع قال، حدثنا أبي، عن مبارك بن فضالة، عن الحسن: ﴿ولذلك خلقهم﴾ ، قال: للاختلاف.
+
+١٨٧٢١- حدثني يعقوب قال، حدثنا ابن علية قال، حدثنا منصور بن عبد الرحمن، قال: قلت للحسن: ﴿ولذلك خلقهم﴾ ؟ فقال: خلق هؤلاء لجنته وخلق هؤلاء لناره، وخلق هؤلاء لرحمته، وخلق هؤلاء لعذابه.
+
+١٨٧٢٢- حدثنا ابن وكيع قال، حدثنا ابن عليه، عن منصور، عن الحسن، مثله.
+
+١٨٧٢٣- حدثني المثني قال، حدثنا المعلى بن أسد قال، حدثنا عبد العزيز، عن منصور بن عبد الرحمن، عن الحسن. بنحوه.
+
+١٨٧٢٤-. . . . قال، حدثنا الحجاج بن المنهال قال، حدثنا حماد، عن خالد الحذاء، أن الحسن قال في هذه الآية: ﴿ولذلك خلقهم﴾ ، قال: خلق هؤلاء لهذه، وخلق هؤلاء لهذه.
+
+١٨٧٢٥- حدثنا محمد بن بشار قال، حدثنا هوذة بن خليفة قال، حدثنا عوف، عن الحسن قال: ﴿ولذلك خلقهم﴾ ، قال: أما أهل رحمة الله فإنهم لا يختلفون اختلافًا يضرُّهم.
+
+١٨٧٢٦- حدثني المثني قال، حدثنا عبد الله بن صالح قال، حدثني معاوية، عن علي، عن ابن عباس قوله: ﴿ولذلك خلقهم﴾ ، قال: خلقهم فريقين: فريقًا يرحم فلا يختلف، وفريقًا لا يرحم يختلف، وذلك قوله: ﴿فَمِنْهُمْ شَقِيٌّ وَسَعِيدٌ﴾ ، [سورة هود: ١٠٥] .
+
+١٨٧٢٧- حدثني الحارث قال، حدثنا عبد العزيز قال، حدثنا سفيان، عن طلحة بن عمرو، عن عطاء في قوله: ﴿ولا يزالون مختلفين﴾ ، قال: يهود ونصارى ومجوس= ﴿إلا من رحم ربك﴾ ، قال: من جعله على الإسلام = ﴿ولذلك خلقهم﴾ ، قال: مؤمن وكافر.
+
+١٨٧٢٨- حدثني الحارث قال، حدثنا عبد العزيز قال، حدثنا سفيان، قال، حدثنا الأعمش: "ولذلك خلقهم "، قال: مؤمن وكافر.
+
+١٨٧٢٩- حدثني يونس قال، أخبرنا أشهب قال: سئل مالك عن قول الله: ﴿ولا يزالون مختلفين إلا من رحم ربك ولذلك خلقهم﴾ ، قال: خلقهم ليكونوا فريقين: فريقٌ في الجنة، وفريقٌ في السعير.
+
+* *
+
+وقال آخرون: بل معنى ذلك: وللرحمة خلقهم.
+
+ذكر من قال ذلك:
+
+١٨٧٣٠- حدثني أبو كريب قال، حدثنا وكيع، وحدثنا ابن وكيع قال، حدثنا أبي، عن حسن بن صالح، عن ليث، عن مجاهد: ﴿ولذلك خلقهم﴾ ، قال: للرحمة.
+
+١٨٧٣١- حدثنا ابن حميد وابن وكيع قالا حدثنا جرير، عن ليث، عن مجاهد: ﴿ولذلك خلقهم﴾ ، قال للرحمة.
+
+١٨٧٣٢- حدثني المثني قال، حدثنا الحماني قال، حدثنا شريك، عن خصيف، عن مجاهد، مثله.
+
+١٨٧٣٣- حدثني المثني قال، حدثنا سويد قال، أخبرنا ابن المبارك، عن شريك، عن ليث، عن مجاهد، مثله.
+
+١٨٧٣٤-. . . . قال، حدثنا إسحاق قال، حدثنا عبد الرحمن بن سعد قال، أخبرنا أبو حفص، عن ليث، عن مجاهد، مثله، إلا أنه قال: للرحمة خلقهم.
+
+١٨٧٣٥- حدثني محمد بن عبد الأعلى قال، حدثنا محمد بن ثور، عن معمر، عن قتادة: ﴿ولذلك خلقهم﴾ ، قال: للرحمة خلقهم.
+
+١٨٧٣٦- حدثنا ابن وكيع قال، حدثنا أبو معاوية، عمن ذكره عن ثابت، عن الضحاك: ﴿ولذلك خلقهم﴾ ، قال: للرحمة.
+
+١٨٧٣٧- حدثنا القاسم قال، حدثنا الحسين قال، حدثني حجاج، عن ابن جريج قال، أخبرني الحكم بن أبان، عن عكرمة: ﴿ولذلك خلقهم﴾ ، قال: أهل الحقّ ومن اتبعه لرحمته.
+
+١٨٧٣٨- حدثني سعد بن عبد الله قال، حدثنا حفص بن عمر قال، حدثنا الحكم بن أبان، عن عكرمة، عن ابن عباس في قوله: ﴿ولا يزالون مختلفين إلا من رحم ربك ولذلك﴾ ، قال: للرحمة خلقهم ولم يخلقهم للعذاب.
+
+* *
+
+قال أبو جعفر: وأولى القولين في ذلك بالصواب، قولُ من قال: وللاختلاف بالشقاء والسعادة خلقهم، لأن الله جل ذكره ذكر صنفين من خلقه: أحدهما أهل اختلاف وباطل، والآخر أهل حق، ثم عقَّب ذلك بقوله: ﴿ولذلك خلقهم﴾ ، فعمّ بقوله: ﴿ولذلك خلقهم﴾ ، صفة الصنفين، فأخبر عن كل فريق منهما أنه ميَسَّر لما خلق له.
+
+* *
+
+فإن قال قائل: فإن كان تأويل ذلك كما ذكرت، فقد ينبغي أن يكون المختلفون غير ملومين على اختلافهم، إذ كان لذلك خلقهم ربُّهم، وأن يكون المتمتِّعون هم الملومين؟
+
+قيل: إن معنى ذلك بخلاف ما إليه ذهبت، وإنما معنى الكلام: ولا يزال الناس مختلفين بالباطل من أديانهم ومللهم، ﴿إلا من رحم ربك﴾ ، فهداه للحقّ ولعلمه، وعلى علمه النافذ فيهم قبل أن يخلقهم أنه يكون فيهم المؤمن والكافر، والشقي والسعيد خلقهم = فمعنى اللام في قوله: ﴿ولذلك خلقهم﴾ بمعنى "على" كقولك للرجل: أكرمتك على برك بي، وأكرمتك لبرك بي.
+
+* *
+
+وأما قوله: ﴿وتمت كلمة ربك لأملأن جهنم من الجنة والناس أجمعين﴾ ، لعلمه السابق فيهم أنهم يستوجبون صليها بكفرهم بالله، وخلافهم أمره.
+
+* *
+
+وقوله: ﴿وتمت كلمة ربك﴾ ، قسم كقول القائل: حلفي لأزورنك، وبدًا لي لآتينك، ولذلك تُلُقِّيَت بلام اليمين.
+
+* *
+
+وقوله: ﴿من الجنة﴾ ، وهي ما اجتَنَّ عن أبصار بني آدم = ﴿والناس﴾ ، يعني: وبنى آدم.
+
+* *
+
+وقيل: إنهم سموا "الجنة"، لأنهم كانوا على الجنان.
+
+ذكر من قال ذلك:
+
+١٨٧٣٩- حدثنا ابن وكيع قال، حدثنا عبد الله، عن إسرائيل، عن السدي، عن أبي مالك: وإنما سموا "الجنة " أنهم كانوا على الجنان، والملائكة كلهم "جنة"
+
+١٨٧٤٠- حدثنا ابن وكيع قال، حدثنا عبد الله، عن إسرائيل، عن السدي، عن أبي مالك قال: "الجنة": الملائكة.
+
+* *
+
+وأما معنى قول أبى مالك هذا: أن إبليس كان من الملائكة، والجن ذريته، وأن الملائكة تسمى عنده الجن، لما قد بينت فيما مضى من كتابنا هذا. [[انظر تفسير " الجن " فيما سلف ١: ٥٠٢ - ٥٠٨.]]
 
 ### al-Muyassar (Arabic)
 
-إلا مَن رحم ربك فآمنوا به واتبعوا رسله، فإنهم لا يختلفون في توحيد الله وما جاءت به الرسل من عند الله، وقد اقتضت حكمته سبحانه وتعالى أنه خَلَقهم مختلفين: فريق شقيٌّ وفريق سعيد، وكل ميسر لما خُلِق له. وبهذا يتحقق وعد ربك في قضائه وقدره: أنه سبحانه سيملأ جهنم من الجن والإنس الذين اتبعوا إبليس وجنده ولم يهتدوا للإيمان.
+إلا مَن رحم ربك فآمنوا به واتبعوا رسله، فإنهم لا يختلفون في توحيد الله وما جاءت به الرسل من عند الله، وقد اقتضت حكمته سبحانه وتعالى أنه خَلَقهم مختلفين: فريق شقيٌّ وفريق سعيد، وكل ميسَّر لما خُلِق له. وبهذا يتحقق وعد ربك في قضائه وقدره: أنه سبحانه سيملأ جهنم من الجن والإنس الذين اتبعوا إبليس وجنده ولم يهتدوا للإيمان.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿إلّا مَن رَحِمَ رَبّك﴾ أرادَ لَهُمْ الخَيْر فَلا يَخْتَلِفُونَ فِيهِ ﴿ولِذَلِكَ خَلَقَهُمْ﴾ أيْ أهْل الِاخْتِلاف لَهُ وأَهْل الرَّحْمَة لَها ﴿وتَمَّتْ كَلِمَة رَبّك﴾ وهِيَ
 
 ---

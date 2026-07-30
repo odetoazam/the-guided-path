@@ -1,6 +1,6 @@
 # Tafsir Cross-Reference Report
 
-Generated: 2026-03-23
+Generated: 2026-07-30
 Ayahs referenced: 8
 Tafsir sources: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), al-Jalalayn (Arabic)
 
@@ -10,20 +10,277 @@ Tafsir sources: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), 
 
 ### Ibn Kathir (English)
 
+And (remember) when you said, "O Musa ! We cannot endure one kind of food. So invoke your Lord for us to bring forth for us of what the earth grows, its herbs, its cucumber its Fum, its lentils and its onions." He said, "Would you exchange that which is better for that which is lower? Go you down to any town and you shall find what you want! (61)
+
 The Children of Israel preferred Foods inferior to Manna and Quails
-Allah said, "And remember My favor on you when I sent down the manna and quails to you, a good, pure, beneficial, easily acquired food. And remember your ungratefulness for what We granted you. Remember how you asked Musa to exchange this type of food for an inferior type that consists of vegetation, and so forth." Al-Hasan Al-Basri said about the Children of Israel, "They were bored and impatient with the type of food they w...
+
+Allah said, "And remember My favor on you when I sent down the manna and quails to you, a good, pure, beneficial, easily acquired food. And remember your ungratefulness for what We granted you. Remember how you asked Musa to exchange this type of food for an inferior type that consists of vegetation, and so forth." Al-Hasan Al-Basri said about the Children of Israel, "They were bored and impatient with the type of food they were provided. They also remembered the life they used to live, when their diet consisted of lentils, onions, garlic and herbs." They said,
+
+يَا مُوسَىٰ لَن نَّصْبِرَ عَلَىٰ طَعَامٍ وَاحِدٍ فَادْعُ لَنَا رَبَّكَ يُخْرِجْ لَنَا مِمَّا تُنبِتُ الْأَرْضُ مِن بَقْلِهَا وَقِثَّائِهَا وَفُومِهَا وَعَدَسِهَا وَبَصَلِهَا
+
+(O Musa ! We cannot endure one kind of food. So invoke your Lord for us to bring forth for us of what the earth grows, its herbs, its cucumbers, its Fum, its lentils and its onions). They said,
+
+عَلَىٰ طَعَامٍ وَاحِدٍ
+
+(One kind of food) meaning, the manna and quails, because they ate the same food day after day. The Ayah mentioned lentils, onions and herbs, which are all known types of foods. As for the Fum, Ibn Mas'ud read it, Thum (garlic). Also, Ibn Abi Hatim narrated that Al-Hasan said about the Ayah,
+
+وَفُومِهَا
+
+(Its Fum), "Ibn 'Abbas said that Fum means, garlic."
+
+He also said that the expression, 'Fumu-lanna' means, 'bake for us', according to the languages of old. Ibn Jarir commented, "If this is true, then 'Fum' is one of the words whose pronounciation were altered, the letter 'fa' was replaced by the letter 'tha', since they are similar in sound." And Allah knows best. Others said that Fum is wheat, the kind used for bread. Al-Bukhari said, "Some of them said that Fum includes all grains or seeds that are eaten."
+
+Allah's statement,
+
+قَالَ أَتَسْتَبْدِلُونَ الَّذِي هُوَ أَدْنَىٰ بِالَّذِي هُوَ خَيْرٌ
+
+(He said, "Would you exchange that which is better for that which is lower?") criticized the Jews for asking for inferior foods, although they were living an easy life, eating tasty, beneficial and pure food. Allah's statement,
+
+اهْبِطُوا مِصْرًا
+
+(Go you down to any Misr) means, 'any city', as Ibn 'Abbas said. Ibn Jarir also reported that Abu Al-'Aliyah and Ar-Rabi' bin Anas said that the Ayah refers to Misr, the Egypt of Fir'awn. The truth is that the Ayah means any city, as Ibn 'Abbas and other scholars stated. Therefore, the meaning of Musa's statement to the Children of Israel becomes, "What you are asking for is easy, for it is available in abundance in any city that you might enter. So since what you asked for is available in all of the villages and cities, I will not ask Allah to provide us with it, especially when it is an inferior type of food. " This is why Musa said to them,
+
+أَتَسْتَبْدِلُونَ الَّذِي هُوَ أَدْنَىٰ بِالَّذِي هُوَ خَيْرٌ ۚ اهْبِطُوا مِصْرًا فَإِنَّ لَكُم مَّا سَأَلْتُمْ
+
+(Would you exchange that which is better for that which is lower? Go you down to any town and you shall find what you want!)
+
+Since their request was the result of boredom and arrogance and since fulfilling it was unnecessary, their request was denied. Allah knows best.
+
+وَضُرِبَتْ عَلَيْهِمُ الذِّلَّةُ وَالْمَسْكَنَةُ وَبَاءُوا بِغَضَبٍ مِّنَ اللَّهِ ۗ ذَٰلِكَ بِأَنَّهُمْ كَانُوا يَكْفُرُونَ بِآيَاتِ اللَّهِ وَيَقْتُلُونَ النَّبِيِّينَ بِغَيْرِ الْحَقِّ ۗ ذَٰلِكَ بِمَا عَصَوا وَّكَانُوا يَعْتَدُونَ
+
+(61 cont. - And they were covered with humiliation and misery, and they drew on themselves the wrath of Allah. That was because they used to disbelieve in the Ayat (proofs, evidence) of Allah and killed the Prophets wrongfully. That was because they disobeyed and used to transgress the bounds (in their disobedience to Allah, i.e. commit crimes and sins.))(2:61)
+
+Covering the Jews in Humiliation and Misery
+
+Allah said,
+
+وَضُرِبَتْ عَلَيْهِمُ الذِّلَّةُ وَالْمَسْكَنَةُ
+
+(And they were covered with humiliation and misery). This Ayah indicates that the Children of Israel were plagued with humiliation, and that this will continue, meaning that it will never cease. They will continue to suffer humiliation at the hands of all who interact with them, along with the disgrace that they feel inwardly. Al-Hasan commented, "Allah humiliated them, and they shall have no protector. Allah put them under the feet of the Muslims, who appeared at a time when the Majus (Zoroastrians) were taking the Jizyah (tax) from the Jews." Also, Abu Al-'Aliyah, Ar-Rabi' bin Anas and As-Suddi said that 'misery' used in the Ayah means, 'poverty.' 'Atiyah Al-'Awfi said that 'misery' means, 'paying the tilth (tax).' In addition, Ad-Dahhak commented on Allah's statement,
+
+وَبَاءُوا بِغَضَبٍ مِّنَ اللَّهِ
+
+(and they drew on themselves the wrath of Allah), "They deserved Allah's anger." Also, Ibn Jarir said that,
+
+وَبَاءُوا بِغَضَبٍ مِّنَ اللَّهِ
+
+(and they drew on themselves the wrath of Allah) means, "They went back with the wrath. Similarly, Allah said,
+
+إِنِّى أُرِيدُ أَن تَبُوءَ بِإِثْمِى وَإِثْمِكَ
+
+(Verily, I intend to let you draw my sin on yourself as well as yours)(Al-Ma'idah 5:29) meaning, 'You will end up carrying my, and your, mistakes instead of me'. Thus, the meaning of the Ayah becomes, 'They went back carrying Allah's anger; Allah's wrath descended on them; they deserved Allah's anger.'"
+
+Allah's statement,
+
+ذَٰلِكَ بِأَنَّهُمْ كَانُوا يَكْفُرُونَ بِآيَاتِ اللَّهِ وَيَقْتُلُونَ النَّبِيِّينَ بِغَيْرِ الْحَقِّ
+
+(That was because they used to disbelieve in the Ayat (proofs, evidences, etc.) of Allah and killed the Prophets wrongfully.) means, "This is what We rewarded the Children of Israel with: humiliation and misery." Allah's anger that descended on the Children of Israel was a part of the humiliation they earned, because of their defiance of the truth, disbelief in Allah's Ayat and belittling the carriers of Allah's Law i.e. the Prophets and their following. The Children of Israel rejected the Messengers and even killed them. Surely, there is no form of disbelief worse than disbelieving in Allah's Ayat and murdering the Prophets of Allah.
+
+Meaning of Kibr
+
+Similarly, in a Hadith recorded in the Two Sahihs the Messenger of Allah ﷺ said,
+
+الْكِبْرُ بَطَرُ الْحَقِّ وَغَمْطُ النَّاسِ
+
+('Kibr, is refusing the truth and degrading (belittling) people.)
+
+Imam Ahmad recorded, 'Abdullah bin Mas'ud saying that the Messenger of Allah ﷺ said,
+
+أَشَدُّ النَّاسِ عَذَابًا يَوْمَ الْقِيَامَةِ رَجُلٌ قَتَلَهُ نَبِيٌّ أَوْ قَتَلَ نَبِيًّا: وَإِمَامُ ضَلَالَةٍ وَمُـمَثِّلٌ مِنَ الْمُمَثِّلِينَ
+
+(The people who will receive the most torment on the Day of Resurrection are: (1)a man who was killed by a Prophet or who killed a Prophet, (2)an unjust ruler and (3)one who mutilates (the dead).) Allah's statement,
+
+ذَٰلِكَ بِمَا عَصَوا وَّكَانُوا يَعْتَدُونَ
+
+(That was because they disobeyed and used to transgress the bounds) mentions another reason why the Children of Israel were punished in this manner, for they used to disobey and transgress the limits. Disobedience is to do what is prohibited, while transgression entails overstepping the set limits of what is allowed and what is prohibited. Allah knows best.
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله تعالى :  وَإِذْ قُلْتُمْ يَا مُوسَى لَنْ نَصْبِرَ عَلَى طَعَامٍ وَاحِدٍ فَادْعُ لَنَا رَبَّكَ يُخْرِجْ لَنَا مِمَّا تُنْبِتُ الأَرْضُ مِنْ بَقْلِهَا وَقِثَّائِهَا وَفُومِهَا وَعَدَسِهَا وَبَصَلِهَاقد دللنا -فيما مضى قبل- على معنى " الصبر " وأنه كف النفس وحبسها عن الشيء. (46) فإذ كان ذلك كذلك , فمعنى الآية إذا: واذكروا إذا قلتم -يا معشر بني إسرائيل-: لن نطيق حبس أنفسنا على طعام واحد - وذلك " الطعام الواحد "، هو ما أخبر الله جل ثناؤه أنه أطعمهموه في تيههم، وهو " السلوى " &; ...
+القول في تأويل قوله تعالى: ﴿وَإِذْ قُلْتُمْ يَا مُوسَى لَنْ نَصْبِرَ عَلَى طَعَامٍ وَاحِدٍ فَادْعُ لَنَا رَبَّكَ يُخْرِجْ لَنَا مِمَّا تُنْبِتُ الأَرْضُ مِنْ بَقْلِهَا وَقِثَّائِهَا وَفُومِهَا وَعَدَسِهَا وَبَصَلِهَا﴾
+
+قد دللنا -فيما مضى قبل- على معنى "الصبر" وأنه كف النفس وحبسها عن الشيء. [[انظر ما مضى في هذا الجزء ٢: ١١]] فإذ كان ذلك كذلك، فمعنى الآية إذا: واذكروا إذا قلتم -يا معشر بني إسرائيل-: لن نطيق حبس أنفسنا على طعام واحد - وذلك"الطعام الواحد"، هو ما أخبر الله جل ثناؤه أنه أطعمهموه في تيههم، وهو"السلوى" في قول بعض أهل التأويل، وفي قول وهب بن منبه هو"الخبز النقي مع اللحم" - فاسأل لنا ربك يخرج لنا مما تنبت الأرض من البقل والقثاء، وما سمى الله مع ذلك، وذكر أنهم سألوه موسى.
+
+* *
+
+وكان سبب مسألتهم موسى ذلك فيما بلغنا، ما: -
+
+١٠٥٤ - حدثنا به بشر بن معاذ قال، حدثنا يزيد بن زريع قال، حدثنا سعيد، عن قتادة قوله: ﴿وإذ قلتم يا موسى لن نصبر على طعام واحد﴾ قال: كان القوم في البرية قد ظلل عليهم الغمام، وأنزل عليهم المن والسلوى، فملوا ذلك، وذكروا عيشا كان لهم بمصر، فسألوه موسى. فقال الله تعالى: ﴿اهبطوا مصرا فإن لكم ما سألتم﴾ .
+
+١٠٥٥ - حدثنا الحسن بن يحيى قال، أخبرنا عبد الرزاق قال، أخبرنا معمر، عن قتادة في قوله: ﴿لن نصبر على طعام واحد﴾ ، قال: ملوا طعامهم، وذكروا عيشهم الذي كانوا فيه قبل ذلك، قالوا: ﴿ادع لنا ربك يخرج لنا مما تنبت الأرض من بقلها وقثائها وفومها﴾ الآية.
+
+١٠٥٦ - حدثني المثنى بن إبراهيم قال، حدثنا آدم قال، حدثنا أبو جعفر، عن الربيع، عن أبي العالية في قوله: ﴿وإذ قلتم يا موسى لن نصبر على طعام واحد﴾ ، قال: كان طعامهم السلوى، وشرابهم المن، فسألوا ما ذكر، فقيل لهم: ﴿اهبطوا مصرا فإن لكم ما سألتم﴾ .
+
+* *
+
+قال أبو جعفر: وقال قتادة: إنهم لما قدموا الشام فقدوا أطعمتهم التي كانوا يأكلونها، فقالوا: ﴿ادع لنا ربك يخرج لنا مما تنبت الأرض من بقلها وقثائها وفومها وعدسها وبصلها﴾ ، وكانوا قد ظلل عليهم الغمام، وأنزل عليهم المن والسلوى، فملوا ذلك، وذكروا عيشا كانوا فيه بمصر.
+
+١٠٥٧ - حدثني محمد بن عمرو قال، حدثنا أبو عاصم قال، حدثنا عيسى قال، سمعت ابن أبي نجيح في قوله عز وجل: ﴿لن نصبر على طعام واحد﴾ ، المن والسلوى، فاستبدلوا به البقل وما ذكر معه.
+
+١٠٥٨ - حدثني المثنى قال، حدثنا أبو حذيفة قال، حدثنا شبل، عن ابن أبي نجيح، عن مجاهد بمثله سواء.
+
+١٠٥٩ - حدثنا القاسم قال، حدثنا الحسين قال، حدثنا حجاج، عن ابن جريج، عن مجاهد بمثله.
+
+١٠٦٠ - حدثني موسى بن هارون قال، حدثنا عمرو بن حماد قال، حدثنا أسباط، عن السدي: أُعطوا في التيه ما أُعطوا، فملوا ذلك وقالوا: ﴿يا موسى لن نصبر على طعام واحد فادع لنا ربك يخرج لنا مما تنبت الأرض من بقلها وقثائها وفومها وعدسها وبصلها﴾ .
+
+١٠٦١ - حدثني يونس بن عبد الأعلى قال، أخبرنا ابن وهب قال، أنبأنا ابن زيد قال: كان طعام بني إسرائيل في التيه واحدا، وشرابهم واحدا. كان شرابهم عسلا ينزل لهم من السماء يقال له المن، وطعامهم طير يقال له السلوى، يأكلون الطير ويشربون العسل، لم يكونوا يعرفون خبزا ولا غيره. فقالوا: يا موسى لن نصبر على طعام واحد فادع لنا ربك يخرج لنا مما تنبت الأرض من بقلها"، فقرأ حتى بلغ: ﴿اهبطوا مصرا فإن لكم ما سألتم﴾ .
+
+* *
+
+وإنما قال جل ذكره: ﴿يخرج لنا مما تنبت الأرض﴾ - ولم يذكر الذي سألوه أن يدعو ربه ليخرج لهم من الأرض، فيقول: قالوا ادع لنا ربك يخرج لنا كذا وكذا مما تنبته الأرض من بقلها وقثائها - لأن"من" تأتي بمعنى التبعيض لما بعدها، فاكتفي بها عن ذكر التبعيض، إذ كان معلوما بدخولها معنى ما أريد بالكلام الذي هي فيه. كقول القائل: أصبح اليوم عند فلان من الطعام" يريد شيئا منه.
+
+وقد قال بعضهم:"من" ههنا بمعنى الإلغاء والإسقاط. كأن معنى الكلام عنده: يخرج لنا ما تنبت الأرض من بقلها. واستشهد على ذلك بقول العرب:"ما رأيت من أحد" بمعنى: ما رأيت أحدا، وبقول الله: ﴿وَيُكَفِّرُ عَنْكُمْ مِنْ سَيِّئَاتِكُمْ﴾ [البقرة: ٢٧١] ، وبقولهم:"قد كان من حديث، فخل عني حتى أذهب"، يريدون: قد كان حديث.
+
+وقد أنكر من أهل العربية جماعة أن تكون"من" بمعنى الإلغاء في شيء من الكلام، وادعوا أن دخولها في كل موضع دخلت فيه، مؤذن أن المتكلم مريد لبعض ما أدخلت فيه لا جميعه، وأنها لا تدخل في موضع إلا لمعنى مفهوم.
+
+فتأويل الكلام إذا - على ما وصفنا من أمر"من" [[في المطبوعة: "على ما وصفنا من أمر من ذكرنا"، و"ذكرنا" زائدة ولا شك، كما تبين من سياق كلامه السالف والآتي.]] -: فادع لنا ربك يخرج لنا بعض ما تنبت الأرض من بقلها وقثائها.
+
+* *
+
+و"البقل" و"القثاء" و"العدس" و"البصل"، هو ما قد عرفه الناس بينهم من نبات الأرض وحبها.
+
+* *
+
+وأما"الفوم"، فإن أهل التأويل اختلفوا فيه. فقال بعضهم: هو الحنطة والخبز.
+
+ذكر من قال ذلك:
+
+١٠٦٢ - حدثنا محمد بن بشار قال، حدثنا أبو أحمد ومؤمل قالا حدثنا سفيان، عن ابن أبي نجيح، عن عطاء قال: الفوم:، الخبز.
+
+١٠٦٣ - حدثنا أحمد بن إسحاق قال، حدثنا أبو أحمد، حدثنا سفيان، عن ابن جريج، عن عطاء ومجاهد قوله: ﴿وفومها﴾ قالا خبزها.
+
+١٠٦٤ - حدثني زكريا بن يحيى بن أبي زائدة ومحمد بن عمرو قالا حدثنا أبو عاصم، عن عيسى بن ميمون، عن ابن أبي نجيح، عن مجاهد: ﴿وفومها﴾ ، قال: الخبز.
+
+١٠٦٥ - حدثنا بشر بن معاذ قال، حدثنا يزيد، عن سعيد، عن قتادة والحسن: الفوم، هو الحب الذي يختبزه الناس.
+
+١٠٦٦ - حدثنا الحسن بن يحيى قال، أخبرنا عبد الرزاق قال، أخبرنا معمر، عن قتادة والحسن بمثله.
+
+١٠٦٧ - حدثني يعقوب بن إبراهيم قال، حدثنا هشيم قال، أخبرنا حصين، عن أبي مالك في قوله: ﴿وفومها﴾ قال: الحنطة.
+
+١٠٦٨ - حدثني موسى بن هارون قال، حدثنا عمرو بن حماد قال، حدثنا أسباط بن نصر عن السدي: ﴿وفومها﴾ ، الحنطة.
+
+١٠٦٩ - حدثني المثنى قال، حدثنا عمرو بن عون قال، حدثنا هشيم، عن يونس، عن الحسن وحصين، عن أبي مالك في قوله: ﴿وفومها﴾ ، الحنطة.
+
+١٠٧٠ - حدثني المثنى قال، حدثنا آدم قال، حدثنا أبو جعفر الرازي، عن قتادة قال: الفوم، الحب الذي يختبز الناس منه.
+
+١٠٧١ - حدثني القاسم قال، حدثنا الحسين قال، حدثني حجاج، عن ابن جريج قال، قال لى عطاء بن أبي رياح قوله: ﴿وفومها﴾ ، قال: خبزها، قالها مجاهد.
+
+١٠٧٢ - حدثني يونس قال، أخبرنا ابن وهب قال، قال لي ابن زيد: الفوم، الخبز.
+
+١٠٧٣ - حدثني يحيى بن عثمان السهمي قال، حدثنا عبد الله بن صالح قال، حدثني معاوية، عن علي بن أبي طلحة، عن ابن عباس في قوله: ﴿وفومها﴾ يقول: الحنطة والخبز.
+
+١٠٧٤ - حُدثت عن المنجاب قال، حدثنا بشر، عن أبي روق، عن الضحاك، عن ابن عباس في قوله: ﴿وفومها﴾ قال: هو البر بعينه، الحنطة.
+
+١٠٧٥ - حدثنا علي بن الحسن قال، حدثنا مسلم الجرمي قال، حدثنا عيسى بن يونس، عن رشدين بن كريب، عن أبيه، عن ابن عباس في قول الله عز وجل: ﴿وفومها﴾ قال: الفوم، الحنطة بلسان بني هاشم. [[الحديث: ١٠٧٥ - مسلم الجرمي: سبق أن رجحنا في: ١٥٤، ٦٤٩، ٨٤٦ أنه"الجرمي" بالجيم. وقد ثبت هنا في المطبوعة بالجيم على ما رجحنا. رشدين - بكسر الراء وسكون الشين المعجمعة وكسر الدال المهملة - بن كريب: ضعيف، بينا القول في ضعفه في شرح المسند: ٢٥٧١. وأبوه، كريب بن أبي مسلم: تابعي ثقة.]]
+
+١٠٧٦ - حدثني عبد الرحمن بن عبد الله بن عبد الحكم قال، حدثنا عبد العزيز بن منصور، عن نافع بن أبي نعيم، أن عبد الله بن عباس سئل عن قول الله: ﴿وفومها﴾ ، قال: الحنطة، أما سمعت قول أُحَيْحة بن الجُلاحح وهو يقول:
+
+قد كنت أغنى الناس شخصا واحدا ... وَرَد المدينة عن زراعة فوم [[الحديث: ١٠٧٦ - عبد الرحمن بن عبد الحكم المصري: ثقة، كان من أهل الحديث عالما بالتواريخ، صنف تاريخ مصر وغيره، كما في التهذيب، مات سنة ٢٥٧. وهو مؤلف كتاب (فتوح مصر) المطبوع في أوربة. شيخه عبد العزيز بن منصور: لم أجد له ذكرا فيما بين يدي من المراجع، إلا في فتوح مصر، ص ٤٠ س ٧ - ٨ قال ابن عبد الحكم هناك:"حدثنا عبد العزيز بن منصور اليحصبى، عن عاصم بن حكيم.." وشيخه، نافع: هو نافع بن عبد الرحمن بن أبي نعيم المدني، أحد القراء السبعة المعروفين وهو لم يدرك ابن عباس، إنما يروي عن التابعين، وله ترجمة في التهذيب، والكبير للبخاري ٤ / ٢ / ٨، وابن أبي حاتم ٤ / ١ /٤٥٦ - ٤٥٧، وتاريخ إصبهان لأبي نعيم ٢: ٣٢٦ - ٣٢٧.
+
+والبيت في اللسان (فوم) ، ونسبه لأبي محجن الثقفي، أنشده الأخفش له، وروايته:
+
+قد كنت أحسبني كأغنى واحد ... نزل المدينة. . .
+
+وفي الروض الأنف ٢: ٤٥ نسبه لأحيحة، أو لأبي محجن، ورواه"سكن المدينة".]]
+
+* *
+
+وقال آخرون: هو الثوم.
+
+ذكر من قال ذلك:
+
+١٠٧٧ - حدثني أحمد بن إسحاق الأهوازي قال، حدثنا أبو أحمد قال، حدثنا شريك، عن ليث، عن مجاهد قال: هو هذا الثوم.
+
+١٠٧٨ - حدثني المثنى بن إبراهيم قال، حدثنا إسحاق قال، حدثنا ابن أبي جعفر، عن أبيه، عن الربيع قال: الفوم، الثوم.
+
+* *
+
+وهو في بعض القراءات"وثومها".
+
+* *
+
+وقد ذكر أن تسمية الحنطة والخبز جميعا"فوما" من اللغة القديمة. حكي سماعا من أهل هذه اللغة:"فوموا لنا"، بمعنى اختبزوا لنا.
+
+* *
+
+وذكر أن ذلك قراءة عبد الله بن مسعود:"وثومها" بالثاء. [[انظر معاني القرآن للفراء ١: ٤١]] فإن كان ذلك صحيحا، فإنه من الحروف المبدلة كقولهم:"وقعوا في عاثور شر: وعافور شر" وكقولهم""للأثافي، أثاثي؛ وللمغافير، مغاثير" وما أشبه ذلك مما تقلب الثاء فاء والفاء ثاء، لتقارب مخرج الفاء من مخرج الثاء. و"المغافير" شبيه بالشيء الحلو، يشبه بالعسل، ينزل من السماء حلوا، يقع على الشجر ونحوها.
+
+* *
+
+القول في تأويل قوله تعالى: ﴿قَالَ أَتَسْتَبْدِلُونَ الَّذِي هُوَ أَدْنَى بِالَّذِي هُوَ خَيْرٌ﴾
+
+يعني بقوله: ﴿قال أتستبدلون الذي هو أدنى بالذي هو خير﴾ ، قال: لهم موسى: أتأخذون الذي هو أخس خطرا وقيمة وقدرا من العيش، بدلا بالذي هو خير منه خطرا وقيمة وقدرا؟ وذلك كان استبدالهم.
+
+* *
+
+وأصل"الاستبدال": هو ترك شيء لآخر غيره مكان المتروك.
+
+* *
+
+ومعنى قوله: ﴿أدنى﴾ أخس وأوضع وأصغر قدرا وخطرا. وأصله من قولهم:"هذا رجل دني بين الدناءة" و"إنه ليدنِّي في الأمور" بغير همز، إذا كان يتتبع خسيسها. وقد ذكر الهمز عن بعض العرب في ذلك، سماعا منهم. يقولون:"ما كنتَ دانئا، ولقد دنأتَ، [[هذا كله من قول الفراء في معاني القرآن ١: ٤٢. وكان في المطبوعة"ما كنت دنيا"، والصواب ما أثبته من كتاب الفراء.]] وأنشدني بعض أصحابنا عن غيره، أنه سمع بعض بني كلاب ينشد بيت الأعشى [[الذي سمع هذا هو الفراء. انظر معاني القرآن له ١: ٤٢، والطبري يجهله دائما]]
+
+باسلةُ الوقعِ سرابيلها ... بيض إلى دانِئِها الظاهر [[ديوانه: ١٠٨، وروايته"إلى جانبه الظاهر". يصف حصنا. قال قبل:
+
+في مجدل شيد بنيانه ... يزل عنه ظفر الطائر
+
+يجمع خضراء لها سورة ... تعصف بالدارع والحاسر
+
+باسلة الوقع. . . . . . ... . . . . . . . . . . . . . . . . . . .
+
+والضمير في قوله:"سرابيلها" راجع إلى"خضراء" يقال: كتيبة خضراء، وهي التي غلب عليها لبس الحديد وعلاها سواده، والخضرة سواد عندهم. والسرابيل هنا: الدروع، جمع سربال: وهو كل ما لبس كالدرع وغيره. وقال الفراء:"يعني الدروع على خاصتها - يعني الكتيبة - إلى الخسيس منها". كأنه أراد: يلبسون الدروع من شريف إلى خسيس. وأما رواية الديوان: فالضمير في"جانبه"، راجع إلى"المجدل" وهي أبين الروايتين معنى وأصحهما.]]
+
+بهمز الدانئ، وأنه سمعهم يقولون:"إنه لدانئ خبيث" بالهمز. [[في معاني الفراء زيادة بين قوسين من بعض النسخ: [إذا كان ماجنا]]] فإن كان ذلك عنهم صحيحا، فالهمز فيه لغة، وتركه أخرى.
+
+* *
+
+ولا شك أن من استبدل بالمن والسلوى البقل والقثاء والعدس والبصل والثوم، فقد استبدل الوضيع من العيش الرفيع منه.
+
+* *
+
+وقد تأول بعضهم قوله: ﴿الذي هو أدنى﴾ بمعنى: الذي هو أقرب، ووجه قوله: ﴿أدنى﴾ ، إلى أنه أفعل من"الدنو" الذي هو بمعنى القرب.
+
+* *
+
+وبنحو الذي قلنا في معنى قوله: ﴿الذي هو أدنى﴾ قاله عدد من أهل التأويل في تأويله.
+
+ذكر من قال ذلك:
+
+١٠٧٩ - حدثنا بشر بن معاذ قال، حدثنا يزيد بن زريع، عن سعيد، عن قتادة قال: ﴿أتستبدلون الذي هو أدنى بالذي هو خير﴾ ، يقول: أتستبدلون الذي هو شر بالذي هو خير منه.
+
+١٠٨٠ - حدثنا القاسم قال، حدثنا الحسين قال، حدثني حجاج عن ابن جريج، عن مجاهد قوله: ﴿الذي هو أدنى﴾ قال: أردأ.
+
+* *
+
+القول في تأويل قوله تعالى ذكره ﴿اهْبِطُوا مِصْرًا فَإِنَّ لَكُمْ مَا سَأَلْتُمْ﴾
+
+وتأويل ذلك: فدعا موسى، فاستجبنا له، فقلنا لهم:"اهبطوا مصرا"، وهو من المحذوف الذي اجتزئ بدلالة ظاهره على ذكر ما حذف وترك منه.
+
+* *
+
+وقد دللنا -فيما مضى- على أن معنى"الهبوط" إلى المكان، إنما هو النزول إليه والحلول به. [[انظر ما مضى ١: ٥٣٤.]]
+
+* *
+
+فتأويل الآية إذا: وإذ قلتم يا موسى لن نصبر على طعام واحد، فادع لنا ربك يخرج لنا مما تنبت الأرض من بقلها وقثائها وفومها وعدسها وبصلها. قال لهم موسى: أتستبدلون الذي هو أخس وأردأ من العيش، بالذي هو خير منه. فدعا لهم موسى ربه أن يعطيهم ما سألوه، فاستجاب الله له دعاءه، فأعطاهم ما طلبوا، وقال الله لهم: ﴿اهبطوا مصرا فإن لكم ما سألتم﴾ .
+
+* *
+
+ثم اختلف القَرَأَة في قراءة قوله [[في المطبوعة: "الفراء"، ورددناها إلى الذي جرى عليه لفظ الطبري فيما سلف، في كل المواضع التي جروا على تبديلها من"قرأة"، إلى"قراء".]] ﴿مصرا﴾ فقرأه عامة القَرَأَة: "مصرا" بتنوين"المصر" وإجرائه. وقرأه بعضهم بترك التنوين وحذف الألف منه. فأما الذين نونوه وأجروه، فإنهم عنوا به مصرا من الأمصار، لا مصرا بعينه. فتأويله -على قراءتهم-: اهبطوا مصرا من الأمصار، لأنكم في البدو، والذي طلبتم لا يكون في البوادي والفيافي، وإنما يكون في القرى والأمصار، فإن لكم -إذا هبطتموه- ما سألتم من العيش. وقد يجوز أن يكون بعض من قرأ ذلك بالإجراء والتنوين، كان تأويل الكلام عنده:"اهبطوا مصرا" البلدة التي تعرف بهذا الاسم، وهي"مصر" التي خرجوا عنها. غير أنه أجراها ونونها اتباعا منه خط المصحف، لأن في المصحف ألفا ثابتة في"مصر"، فيكون سبيل قراءته ذلك بالإجراء والتنوين، سبيل من قرأ: ﴿قواريرا قواريرا من فضة﴾ [الإنسان: ١٥-١٦] منونة اتباعا منه خط المصحف. وأما الذي لم ينون"مصر" فإنه لا شك أنه عنى"مصر" التي تعرف بهذا الاسم بعينها دون سائر البلدان غيرها. [[انظر ما قاله الفراء في معاني القرآن ١: ٤٢ - ٤٣.]]
+
+* *
+
+وقد اختلف أهل التأويل في ذلك، نظير اختلاف القَرَأَة في قراءته.
+
+١٠٨١ - حدثنا بشر بن معاذ قال، حدثنا يزيد بن زريع، عن سعيد، عن قتادة: ﴿اهبطوا مصرا﴾
+
+[TRUNCATED at 12000 chars — 13468 more. Consult the source directly before relying on anything near the cut.]
 
 ### al-Muyassar (Arabic)
 
-واذكروا حين أنزلنا عليكم الطعام الحلو، والطير الشهي، فبطِرتم النعمة كعادتكم، وأصابكم الضيق والملل، فقلتم: يا موسى لن نصبر على طعام ثابت لا يتغير مع الأيام، فادع لنا ربك يخرج لنا من نبات الأرض طعامًا من البقول والخُضَر، والقثاء والحبوب التي تؤكل، والعدس، والبصل. قال موسى -مستنكرًا عليهم-: أتطلبون هذه الأطعمة التي هي أقل قدرًا، وتتركون هذا الرزق النافع الذي اختاره الله لكم؟ اهبطوا من هذه البادية إلى أي مدينة، تجدوا ما اشتهيتم كثيرًا في الحقول والأسواق. ولما هبطوا تبيَّن لهم أنهم يُقَدِّمون اختي...
+واذكروا حين أنزلنا عليكم الطعام الحلو، والطير الشهي، فبطِرتم النعمة كعادتكم، وأصابكم الضيق والملل، فقلتم: يا موسى لن نصبر على طعام ثابت لا يتغير مع الأيام، فادع لنا ربك يخرج لنا من نبات الأرض طعامًا من البقول والخُضَر، والقِثّاء، والحبوب التي تؤكل، والعدس، والبصل. قال موسى -مستنكرًا عليهم-: أتطلبون هذه الأطعمة التي هي أقل قَدْرًا، وتتركون هذا الرزق النافع الذي اختاره الله لكم؟ اهبطوا من هذه البادية إلى أي مدينة، تجدوا ما اشتهيتم كثيرًا في الحقول والأسواق. ولما هبطوا تبيَّن لهم أنهم يُقَدِّمون اختيارهم -في كل موطن- على اختيار الله، ويُؤْثرون شهواتهم على ما اختاره الله لهم؛ لذلك لزمتهم صِفَةُ الذُّل وفقر النفوس، وانصرفوا ورجعوا بغضب من الله؛ لإعراضهم عن دين الله، ولأنهم كانوا يكفرون بآيات الله ويقتلون النبيين ظلمًا وعدوانًا؛ وذلك بسبب عصيانهم وتجاوزهم حدود ربهم.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿وإذْ قُلْتُمْ يا مُوسى لَنْ نَصْبِر عَلى طَعام﴾ أيْ نَوْع مِنهُ ﴿واحِد﴾ وهُوَ المَنّ والسَّلْوى ﴿فادْعُ لَنا رَبّك يُخْرِج لَنا﴾ شَيْئًا ﴿مِمّا تُنْبِت الأَرْض مِن﴾ لِلْبَيانِ ﴿بَقْلها وقِثّائِها وفُومها﴾ حِنْطَتها ﴿وعَدَسها وبَصَلها قالَ﴾ لَهُمْ مُوسى ﴿أتَسْتَبْدِلُونَ الَّذِي هُوَ أدْنى﴾ أخَسّ ﴿بِالَّذِي هُوَ خَيْر﴾ أشْرَف أتَأْخُذُونَهُ بَدَله والهَمْزَة لِلْإنْكارِ فَأَبَوْا أنْ يَرْجِعُوا فَدَعا اللَّه تَعالى فَقالَ تَعالى ﴿اهْبِطُوا﴾ انْزِلُوا ﴿مِصْرًا﴾ مِن الأَمْصار ﴿فَإنَّ لَكُمْ﴾ فِيهِ ﴿ما سَأَلْتُمْ﴾ مِن النَّبات ﴿وضُرِبَتْ﴾ جُعِلَتْ ﴿عَلَيْهِمْ الذِّلَّة﴾ الذُّلّ والهَوان ﴿والمَسْكَنَة﴾ أيْ أثَر الفَقْر مِن السُّكُون والخِزْي فَهِيَ لازِمَة لَهُمْ وإنْ كانُوا أغْنِياء لُزُوم الدِّرْهَم المَضْرُوب لِسِكَّتِهِ ﴿وباءُوا﴾ رَجَعُوا ﴿بِغَضَبٍ مِن اللَّه ذَلِكَ﴾ أيْ الضَّرْب والغَضَب ﴿بِأَنَّهُمْ﴾ أيْ بِسَبَبِ أنَّهُمْ ﴿كانُوا يَكْفُرُونَ بِآياتِ اللَّه ويَقْتُلُونَ النَّبِيِّينَ﴾ كَزَكَرِيّا ويَحْيى ﴿بِغَيْرِ الحَقّ﴾ أيْ ظُلْمًا ﴿ذَلِكَ بِما عَصَوْا وكانُوا يَعْتَدُونَ﴾ يَتَجاوَزُونَ الحَدّ فِي المَعاصِي وكَرَّرَهُ لِلتَّأْكِيدِ
 
 ---
 
@@ -31,22 +288,113 @@ Allah said, "And remember My favor on you when I sent down the manna and quails 
 
 ### Ibn Kathir (English)
 
+And indeed you knew those amongst you who transgressed in the matter of the Sabbath (i.e. Saturday). We said to them: "Be you monkeys, despised and rejected. (65)So We made this punishment an example for those in front of it and those behind it, and a lesson for Al-Muttaqin (the pious (66)
+
 The Jews breach the Sanctity of the Sabbath
+
 Allah said,
+
 وَلَقَدْ عَلِمْتُمُ
-(And indeed you knew). This Ayah means, O Jews! Remember that Allah sent His torment on the village that disobeyed Him and broke their pledge and their covenant to observe the sanctity of the Sabbath. They began using deceitful means to avoid honoring the Sabbath by placing nets, ropes and artificial pools of water for the purpose of fishing before the Sabbath. When the fish came in abundance on Saturday as usual, the...
+
+(And indeed you knew). This Ayah means, O Jews! Remember that Allah sent His torment on the village that disobeyed Him and broke their pledge and their covenant to observe the sanctity of the Sabbath. They began using deceitful means to avoid honoring the Sabbath by placing nets, ropes and artificial pools of water for the purpose of fishing before the Sabbath. When the fish came in abundance on Saturday as usual, they were caught in the ropes and nets for the rest of Saturday. During the night, the Jews collected the fish after the Sabbath ended. When they did that, Allah changed them from humans into monkeys, the animals having the form closest to humans. Their evil deeds and deceit appeared lawful on the surface, but they were in reality wicked. This is why their punishment was compatible with their crime. This story is explained in detail in Surat Al-A'raf, where Allah said (7:163),
+
+وَاسْأَلْهُمْ عَنِ الْقَرْيَةِ الَّتِي كَانَتْ حَاضِرَةَ الْبَحْرِ إِذْ يَعْدُونَ فِي السَّبْتِ إِذْ تَأْتِيهِمْ حِيتَانُهُمْ يَوْمَ سَبْتِهِمْ شُرَّعًا وَيَوْمَ لَا يَسْبِتُونَ ۙ لَا تَأْتِيهِمْ ۚ كَذَٰلِكَ نَبْلُوهُم بِمَا كَانُوا يَفْسُقُونَ
+
+(And ask them (O Muhammad ﷺ) about the town that was by the sea; when they transgressed in the matter of the Sabbath (i.e. Saturday): when their fish came to them openly on the Sabbath day, and did not come to them on the day they had no Sabbath. Thus We made a trial of them, for they used to rebel (disobey Allah).)(7:163)
+
+In his Tafsir, Al-'Awfi reported from Ibn 'Abbas that he said,
+
+فَقُلْنَا لَهُمْ كُونُوا قِرَدَةً خَاسِئِينَ
+
+(We said to them: "Be you monkeys, despised and rejected") means, "Allah changed their bodies into those of monkeys and swines. The young people turned into monkeys while the old people turned into swine." Shayban An-Nahwi reported that Qatadah commented on,
+
+فَقُلْنَا لَهُمْ كُونُوا قِرَدَةً خَاسِئِينَ
+
+(We said to them: "Be you monkeys, despised and rejected"), "These people were turned into howling monkeys with tails, after being men and women."
+
+The Monkeys and Swine that exist now are not the Descendants of Those that were transformed
+
+Ibn Abi Hatim recorded that Ibn 'Abbas said, "Those who violated the sanctity of the Sabbath were turned into monkeys, then they perished without offspring." Ad-Dahhak said that Ibn 'Abbas said, "Allah turned them into monkeys because of their sins. They only lived on the earth for three days, for no transformed person ever lives more than three days. They did not eat, drink or have offspring. Allah transformed their shapes into monkeys, and He does what He wills, with whom He wills and He changes the shape of whomever He wills. On the other hand, Allah created the monkeys, swines and the rest of the creation in the six days (of creation) that He mentioned in His Book."
+
+Allah's statement,
+
+فَجَعَلْنَاهَا نَكَالًا
+
+(So We made this punishment an example) means, Allah made the people of this village, who violated the sanctity of the Sabbath,
+
+نَكَالًا
+
+(an example) via the way they were punished. Similarly, Allah said about Pharaoh,
+
+فَأَخَذَهُ اللَّهُ نَكَالَ الْآخِرَةِ وَالْأُولَىٰ
+
+(So Allah, seized him with punishing example for his last and first transgression)(79:25). Allah's statement,
+
+لِّمَا بَيْنَ يَدَيْهَا وَمَا خَلْفَهَا
+
+(for those in front of it and those behind it) meaning, for the other villages. Ibn 'Abbas commented, "Meaning, 'We made this village an example for the villages around it by the manner in which We punished its people." Similarly, Allah said,
+
+وَلَقَدْ أَهْلَكْنَا مَا حَوْلَكُم مِّنَ الْقُرَىٰ وَصَرَّفْنَا الْآيَاتِ لَعَلَّهُمْ يَرْجِعُونَ
+
+(And indeed We have destroyed towns (populations) round about you, and We have (repeatedly) shown (them) the Ayat (proofs, evidences, verses, lessons, signs, revelations, etc.) in various ways that they might return (to the truth and believe in the Oneness of Allah ـ Islamic Monotheism)).(46:27)
+
+Therefore, Allah made them an example for those who lived during their time as well as a reminder for those to come, by preserving their story. This is why Allah said,
+
+وَمَوْعِظَةً لِّلْمُتَّقِينَ
+
+(and a lesson for Al-Muttaqin (the pious)), meaning, a reminder. This Ayah means, "The torment and punishment that this village suffered was a result of indulging in Allah's prohibitions and their deceit. Hence, those who have Taqwa should be aware of their evil behavior, so that what occurred to this village does not befall them as well." Also, Imam Abu 'Abdullah bin Battah reported that Abu Hurayrah said that the Messenger of Allah ﷺ said,
+
+لَا تَرْتَكِبُوا مَا ارْتَكَبَتِ الْيَهُودُ فَتَسْتَحِلُّوا مَحَارِمَ اللهِ بِأَدْنَى الْـحِيَلِ
+
+(Do not commit what the Jews committed, breaching what Allah has forbidden, by resorting to the lowest types of deceit.)
+
+This Hadith has a good (Jayid) chain of narration. Allah knows best.
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله تعالى :  وَلَقَدْ عَلِمْتُمُ الَّذِينَ اعْتَدَوْا مِنْكُمْ فِي السَّبْتِقال أبو جعفر: يعني بقوله: (ولقد علمتم)، ولقد عرفتم. (46) كقولك: " قد علمت أخاك ولم أكن أعلمه ", يعني عرفته، ولم أكن أعرفه, كما قال جل ثناؤه:  وَآخَرِينَ مِنْ دُونِهِمْ لا تَعْلَمُونَهُمُ اللَّهُ يَعْلَمُهُمْ  [ الأنفال: 60]، يعني: لا تعرفونهم الله يعرفهم.* * *وقوله: (الذين اعتدوا منكم في السبت)، أي الذين تجاوزوا حدي، وركبوا ما نهيتهم عنه في يوم السبت، وعصوا أمري.وقد دللت -فيما مضى- على أن " الاعتداء "،...
+القول في تأويل قوله تعالى: ﴿فَقُلْنَا لَهُمْ كُونُوا قِرَدَةً خَاسِئِينَ (٦٥) ﴾
+
+قال أبو جعفر: يعني بقوله: ﴿فقلنا لهم﴾ أي: فقلنا للذين اعتدوا في السبت - يعني في يوم السبت.
+
+* *
+
+وأصل"السبت" الهدوّ والسكون في راحة ودعة، ولذلك قيل للنائم"مسبوت" لهدوّه وسكون جسده واستراحته، كما قال جل ثناؤه: ﴿وَجَعَلْنَا نَوْمَكُمْ سُبَاتًا﴾ [النبأ: ٩] أي راحة لأجسادكم. وهو مصدر من قول القائل:"سبت فلان يسبت سبتا".
+
+وقد قيل: إنه سمي"سبتا"، لأن الله جل ثناؤه فرغ يوم الجمعة - وهو اليوم الذي قبله - من خلق جميع خلقه.
+
+* *
+
+وقوله: ﴿كونوا قردة خاسئين﴾ ، أي: صيروا كذلك.
+
+* *
+
+و"الخاسئ" المبعد المطرود، كما يخسأ الكلب يقال منه:"خسأته أخسؤه خسأ وخسوءا، وهو يخسأ خسوءا". قال: ويقال:"خسأته فخسأ وانخسأ". ومنه قول الراجز:
+
+كالكلب إن قلت له اخسأ انخسأ [[لسان العرب: (خسأ) ، وروايته: "إن قيل له".]]
+
+يعني: إن طردته انطرد ذليلا صاغرا.
+
+فكذلك معنى قوله: ﴿كونوا قردة خاسئين﴾ أي، مبعدين من الخير أذلاء صغراء، [[صاغر، جمعه صغرة (بفتحات) . وهذا ما نصوا عليه، ولم أجد"صغراء" على وزن جهلاء، وهو جمع في بعض الصفات التي على وزن"فاعل"، مثل شاعر وشعراء، وعالم وعلماء. فهم يشبهون"فاعلا" بـ "فعيل" نحو كريم وكرماء، فيجمعونه كجمعه.]] كما:-
+
+١١٤٥ - حدثنا محمد بن بشار، [[في المطبوعة"حدثنا بشار" وهو خطأ لا شك فيه، وأقرب إسناد مثله مر بنا هو رقم: ١٠٦٢.]] قال، حدثنا أبو أحمد الزبيري قال، حدثنا سفيان، عن ابن أبي نجيح، عن مجاهد في قوله: ﴿كونوا قردة خاسئين﴾ قال: صاغرين.
+
+١١٤٦ - حدثنا أحمد بن إسحاق قال، حدثنا أبو أحمد قال، حدثنا سفيان، عن رجل، عن مجاهد مثله.
+
+١١٤٧ - حدثني المثنى قال، حدثنا أبو حذيفة قال، حدثنا شبل، عن ابن أبي نجيح، عن مجاهد مثله.
+
+١١٤٨ - حدثني الحسن بن يحيى قال، أخبرنا عبد الرزاق قال، أخبرنا معمر، عن قتادة: ﴿خاسئين﴾ ، قال: صاغرين.
+
+١١٤٩ - حدثني المثنى قال، حدثنا إسحاق قال، حدثنا ابن أبي جعفر، عن أبيه، عن الربيع في قوله: ﴿كونوا قردة خاسئين﴾ ، أي أذلة صاغرين.
+
+١١٥٠ - وحدثت عن المنجاب قال، حدثنا بشر بن عمارة، عن أبي روق، عن الضحاك، عن ابن عباس: خاسئا، يعني ذليلا.
 
 ### al-Muyassar (Arabic)
 
-ولقد علمتم -يا معشر اليهود- ما حلَّ من البأس بأسلافكم من أهل القرية التي عصت الله، فيما أخذه عليهم من تعظيم السبت، فاحتالوا لاصطياد السمك في يوم السبت، بوضع الشِّباك وحفر البِرَك، ثم اصطادوا السمك يوم الأحد حيلة إلى المحرم، فلما فعلوا ذلك، مسخهم الله قردة منبوذين.
+ولقد علمتم -يا معشر اليهود- ما حلَّ من البأس بأسلافكم من أهل القرية التي عصت أمر الله، فيما أخذه عليهم من تعظيم السبت، فاحتالوا لاصطياد السَّمَك في يوم السبت بوضع الشِّباك وحفر البِرَك، ثم اصطادوا السَّمَك يوم الأحد؛ حيلة إلى المحرَّم، فلما فعلوا ذلك، مسخهم الله قردة منبوذين.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿ولَقَدْ﴾ لام قَسَم ﴿عَلِمْتُمْ﴾ عَرَفْتُمْ ﴿الَّذِينَ اعْتَدَوْا مِنكُمْ فِي السَّبْت﴾ تَجاوَزُوا الحَدّ بِصَيْدِ السَّمَك وقَدْ نَهَيْناهُمْ عَنْهُ وهُمْ أهْل أيْلَة ﴿فَقُلْنا لَهُمْ كُونُوا قِرَدَة خاسِئِينَ﴾ مُبْعَدِينَ فَكانُوا وهَلَكُوا بَعْد ثَلاثَة أيّام
 
 ---
 
@@ -54,14 +402,207 @@ Allah said,
 
 ### Ibn Kathir (English)
 
+And indeed you knew those amongst you who transgressed in the matter of the Sabbath (i.e. Saturday). We said to them: "Be you monkeys, despised and rejected. (65)So We made this punishment an example for those in front of it and those behind it, and a lesson for Al-Muttaqin (the pious (66)
+
 The Jews breach the Sanctity of the Sabbath
+
 Allah said,
+
 وَلَقَدْ عَلِمْتُمُ
-(And indeed you knew). This Ayah means, O Jews! Remember that Allah sent His torment on the village that disobeyed Him and broke their pledge and their covenant to observe the sanctity of the Sabbath. They began using deceitful means to avoid honoring the Sabbath by placing nets, ropes and artificial pools of water for the purpose of fishing before the Sabbath. When the fish came in abundance on Saturday as usual, the...
+
+(And indeed you knew). This Ayah means, O Jews! Remember that Allah sent His torment on the village that disobeyed Him and broke their pledge and their covenant to observe the sanctity of the Sabbath. They began using deceitful means to avoid honoring the Sabbath by placing nets, ropes and artificial pools of water for the purpose of fishing before the Sabbath. When the fish came in abundance on Saturday as usual, they were caught in the ropes and nets for the rest of Saturday. During the night, the Jews collected the fish after the Sabbath ended. When they did that, Allah changed them from humans into monkeys, the animals having the form closest to humans. Their evil deeds and deceit appeared lawful on the surface, but they were in reality wicked. This is why their punishment was compatible with their crime. This story is explained in detail in Surat Al-A'raf, where Allah said (7:163),
+
+وَاسْأَلْهُمْ عَنِ الْقَرْيَةِ الَّتِي كَانَتْ حَاضِرَةَ الْبَحْرِ إِذْ يَعْدُونَ فِي السَّبْتِ إِذْ تَأْتِيهِمْ حِيتَانُهُمْ يَوْمَ سَبْتِهِمْ شُرَّعًا وَيَوْمَ لَا يَسْبِتُونَ ۙ لَا تَأْتِيهِمْ ۚ كَذَٰلِكَ نَبْلُوهُم بِمَا كَانُوا يَفْسُقُونَ
+
+(And ask them (O Muhammad ﷺ) about the town that was by the sea; when they transgressed in the matter of the Sabbath (i.e. Saturday): when their fish came to them openly on the Sabbath day, and did not come to them on the day they had no Sabbath. Thus We made a trial of them, for they used to rebel (disobey Allah).)(7:163)
+
+In his Tafsir, Al-'Awfi reported from Ibn 'Abbas that he said,
+
+فَقُلْنَا لَهُمْ كُونُوا قِرَدَةً خَاسِئِينَ
+
+(We said to them: "Be you monkeys, despised and rejected") means, "Allah changed their bodies into those of monkeys and swines. The young people turned into monkeys while the old people turned into swine." Shayban An-Nahwi reported that Qatadah commented on,
+
+فَقُلْنَا لَهُمْ كُونُوا قِرَدَةً خَاسِئِينَ
+
+(We said to them: "Be you monkeys, despised and rejected"), "These people were turned into howling monkeys with tails, after being men and women."
+
+The Monkeys and Swine that exist now are not the Descendants of Those that were transformed
+
+Ibn Abi Hatim recorded that Ibn 'Abbas said, "Those who violated the sanctity of the Sabbath were turned into monkeys, then they perished without offspring." Ad-Dahhak said that Ibn 'Abbas said, "Allah turned them into monkeys because of their sins. They only lived on the earth for three days, for no transformed person ever lives more than three days. They did not eat, drink or have offspring. Allah transformed their shapes into monkeys, and He does what He wills, with whom He wills and He changes the shape of whomever He wills. On the other hand, Allah created the monkeys, swines and the rest of the creation in the six days (of creation) that He mentioned in His Book."
+
+Allah's statement,
+
+فَجَعَلْنَاهَا نَكَالًا
+
+(So We made this punishment an example) means, Allah made the people of this village, who violated the sanctity of the Sabbath,
+
+نَكَالًا
+
+(an example) via the way they were punished. Similarly, Allah said about Pharaoh,
+
+فَأَخَذَهُ اللَّهُ نَكَالَ الْآخِرَةِ وَالْأُولَىٰ
+
+(So Allah, seized him with punishing example for his last and first transgression)(79:25). Allah's statement,
+
+لِّمَا بَيْنَ يَدَيْهَا وَمَا خَلْفَهَا
+
+(for those in front of it and those behind it) meaning, for the other villages. Ibn 'Abbas commented, "Meaning, 'We made this village an example for the villages around it by the manner in which We punished its people." Similarly, Allah said,
+
+وَلَقَدْ أَهْلَكْنَا مَا حَوْلَكُم مِّنَ الْقُرَىٰ وَصَرَّفْنَا الْآيَاتِ لَعَلَّهُمْ يَرْجِعُونَ
+
+(And indeed We have destroyed towns (populations) round about you, and We have (repeatedly) shown (them) the Ayat (proofs, evidences, verses, lessons, signs, revelations, etc.) in various ways that they might return (to the truth and believe in the Oneness of Allah ـ Islamic Monotheism)).(46:27)
+
+Therefore, Allah made them an example for those who lived during their time as well as a reminder for those to come, by preserving their story. This is why Allah said,
+
+وَمَوْعِظَةً لِّلْمُتَّقِينَ
+
+(and a lesson for Al-Muttaqin (the pious)), meaning, a reminder. This Ayah means, "The torment and punishment that this village suffered was a result of indulging in Allah's prohibitions and their deceit. Hence, those who have Taqwa should be aware of their evil behavior, so that what occurred to this village does not befall them as well." Also, Imam Abu 'Abdullah bin Battah reported that Abu Hurayrah said that the Messenger of Allah ﷺ said,
+
+لَا تَرْتَكِبُوا مَا ارْتَكَبَتِ الْيَهُودُ فَتَسْتَحِلُّوا مَحَارِمَ اللهِ بِأَدْنَى الْـحِيَلِ
+
+(Do not commit what the Jews committed, breaching what Allah has forbidden, by resorting to the lowest types of deceit.)
+
+This Hadith has a good (Jayid) chain of narration. Allah knows best.
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله تعالى :  فَجَعَلْنَاهَاقال أبو جعفر: اختلف أهل التأويل في تأويل " الهاء والألف " في قوله: (فجعلناها)، وعلام هي عائدة؟ فروي عن ابن عباس فيها قولان: أحدهما ما:-1151 - حدثنا به أبو كريب قال، حدثنا عثمان بن سعيد قال، حدثنا بشر بن عمارة قال، حدثنا أبو روق، عن الضحاك, عن ابن عباس: (فجعلناها) فجعلنا تلك العقوبة -وهي المسخة-" نكالا ".فالهاء والألف من قوله: (فجعلناها) -على قول ابن عباس هذا- كناية &; 2-176 &; عن " المسخة ", وهي" فعلة " مسخهم الله مسخة. (64)فمعنى الكلام على هذا التأو...
+القول في تأويل قوله تعالى: ﴿فَجَعَلْنَاهَا﴾
+
+قال أبو جعفر: اختلف أهل التأويل في تأويل"الهاء والألف" في قوله: ﴿فجعلناها﴾ ، وعلام هي عائدة؟ فروي عن ابن عباس فيها قولان: أحدهما ما:-
+
+١١٥١ - حدثنا به أبو كريب قال، حدثنا عثمان بن سعيد قال، حدثنا بشر بن عمارة قال، حدثنا أبو روق، عن الضحاك، عن ابن عباس: ﴿فجعلناها﴾ فجعلنا تلك العقوبة -وهي المسخة-"نكالا".
+
+فالهاء والألف من قوله: ﴿فجعلناها﴾ -على قول ابن عباس هذا- كناية عن"المسخة"، وهي"فعلة" مسخهم الله مسخة. [[كأنه يريد أنه مصدر: كقولهم: رحمه الله رحمة، ولم يرد المرة، وسيدل على ذلك ما يقوله بعد سطرين.]]
+
+فمعنى الكلام على هذا التأويل: فقلنا لهم: كونوا قردة خاسئين، فصاروا قردة ممسوخين، ﴿فجعلناها﴾ ، فجعلنا عقوبتنا ومسخنا إياهم، ﴿نكالا لما بين يديها وما خلفها وموعظة للمتقين﴾ .
+
+* *
+
+والقول الآخر من قولي ابن عباس، ما:-
+
+١١٥١ - حدثني به محمد بن سعد قال، حدثني أبي قال، حدثني عمي قال، حدثني أبي، عن أبيه، عن ابن عباس: ﴿فجعلناها﴾ ، يعني الحيتان.
+
+و"الهاء والألف" -على هذا القول- من ذكر الحيتان، ولم يجر لها ذكر. ولكن لما كان في الخبر دلالة، كني عن ذكرها. والدلالة على ذلك قوله: ﴿ولقد علمتم الذين اعتدوا منكم في السبت﴾ .
+
+* *
+
+وقال آخرون: فجعلنا القرية التي اعتدى أهلها في السبت. فـ "الهاء" و "الألف" -في قول هؤلاء- كناية عن قرية القوم الذين مسخوا.
+
+* *
+
+وقال آخرون: معنى ذلك فجعلنا القردة الذين مسخوا"نكالا لما بين يديها وما خلفها"، فجعلوا"الهاء والألف" كناية عن القردة.
+
+* *
+
+وقال آخرون: ﴿فجعلناها﴾ ، يعني به: فجعلنا الأمة التي اعتدت في السبت"نكالا".
+
+* *
+
+القول في تأويل قوله تعالى: ﴿نَكَالا﴾
+
+و"النكال" مصدر من قول القائل: "نكَّل فلان بفلان تنكيلا ونكالا". وأصل "النكال"، العقوبة، كما قال عدي بن زيد العباد:
+
+لا
+
+يسخط الضليل ما يسع العبـ ... د ولا في نكاله تنكير [[لم أجد البيت في جميع المراجع التي ذكرت قصيدة عدي بن زيد التي كتبها إلى النعمان من محبسه. وقد أثبت البيت كما هو في النسخ السقيمة التي بقيت من تفسير الطبري، وظني أن يكون البيت: لا يكُظ المليك ما يسع العبـ ... ـد ولا في نكاله تنكير
+
+فلم يحسن الناسخ قراءة"يكظ" كتبها "يسخط"، ووضع مكان"المليك""الضليل" وكظه الأمر: بهظه وشق عليه. يقول للنعمان: أنت مليك قادر، فلا يبهظك ما يسع عبيدك من العفو عمن أساء واجترم، فإن عاقبت، فما في عقابك ما يستنكر، فأنت السيد المطاع النافذ أمرك في رعيتك صغيرهم وكبيرهم.]]
+
+* *
+
+وبمثل الذي قلنا في ذلك روي الخبر عن ابن عباس:
+
+١١٥٢ - حدثنا أبو كريب قال، حدثنا عثمان بن سعيد قال، حدثنا بشر بن عمارة قال، حدثنا أبو روق، عن الضحاك، عن ابن عباس: ﴿نكالا﴾ يقول: عقوبة.
+
+١١٥٣ - حدثني المثنى قال، حدثني إسحاق قال، حدثني ابن أبي جعفر، عن أبيه، عن الربيع في قوله: ﴿فجعلناها نكالا﴾ ، أي عقوبة.
+
+* *
+
+القول في تأويل قوله تعالى: ﴿لِمَا بَيْنَ يَدَيْهَا وَمَا خَلْفَهَا﴾
+
+قال أبو جعفر: اختلف أهل التأويل في تأويل ذلك. فقال بعضهم بما:-
+
+١١٥٤ - حدثنا به أبو كريب قال، حدثنا عثمان بن سعيد قال، حدثنا بشر بن عمارة، عن أبي روق، عن الضحاك، عن ابن عباس: ﴿لما بين يديها﴾ يقول: ليحذر من بعدهم عقوبتي. ﴿وما خلفها﴾ ، يقول: الذين كانوا بقوا معهم.
+
+١١٥٥ - حدثني المثنى قال، حدثنا إسحاق قال، حدثنا ابن أبي جعفر، عن أبيه، عن الربيع: ﴿لما بين يدلها وما خلفها﴾ ، لما خلا لهم من الذنوب، [[خلا: مضى وذهب وانقضى.]] ﴿وما خلفها﴾ ، أي عبرة لمن بقي من الناس.
+
+* *
+
+وقال آخرون بما:
+
+١١٥٦ - حدثني ابن حميد قال، حدثنا سلمة قال، حدثني ابن إسحاق، عن داود بن الحصين، عن عكرمة مولى ابن عباس قال: قال ابن عباس: ﴿فجعلناها نكالا لما بين يديها وما خلفها﴾ ، أي من القرى.
+
+* *
+
+وقال آخرون بما:-
+
+١١٥٧ - حدثنا به بشر بن معاذ قال، حدثنا يزيد قال، حدثنا سعيد، عن قتادة قال الله ﴿فجعلناها نكالا لما بين يديها﴾ -من ذنوب القوم- ﴿وما خلفها﴾ ، أي للحيتان التي أصابوا.
+
+١١٥٨ - حدثنا الحسن بن يحيى قال، أخبرنا عبد الرزاق قال، أخبرنا معمر، عن قتادة في قوله: ﴿لما بين يديها﴾ ، من ذنوبها، ﴿وما خلفها﴾ ، من الحيتان.
+
+١١٥٩ - حدثني محمد بن عمرو قال، حدثنا أبو عاصم قال، حدثني عيسى، عن ابن أبي نجيح، عن مجاهد في قول الله تعالى: ﴿لما بين يديها﴾ ، ما مضى من خطاياهم إلى أن هلكوا به.
+
+١١٦٠ - حدثني المثنى قال، حدثنا أبو حذيفة قال، حدثنا شبل، عن ابن أبي نجيح، عن مجاهد: ﴿نكالا لما بين يديها وما خلفها﴾ ، يقول:"بين يديها"، ما مضى من خطاياهم، ﴿وما خلفها﴾ خطاياهم التي هلكوا بها.
+
+١١٦١ - حدثنا القاسم قال، حدثنا الحسين قال، حدثني حجاج، عن ابن جريج، عن مجاهد، مثله - إلا أنه قال: ﴿وما خلفها﴾ ، خطيئتهم التي هلكوا بها.
+
+* *
+
+وقال آخرون بما:-
+
+١١٦٢ - حدثني به موسى بن هارون قال، حدثنا عمرو قال، حدثنا أسباط، عن السدي: ﴿فجعلناها نكالا لما بين يديها وما خلفها﴾ قال: أما"ما بين يديها" فما سلف من عملهم، ﴿وما خلفها﴾ ، فمن كان بعدهم من الأمم، أن يعصوا فيصنع الله بهم مثل ذلك.
+
+* *
+
+وقال آخرون بما:-
+
+١١٦٣ - حدثني به ابن سعد قال، حدثني أبي قال، حدثني عمي قال، حدثني أبي، عن أبيه، عن ابن عباس قوله، ﴿فجعلناها نكالا لما بين يديها وما خلفها﴾ ، يعني الحيتان، جعلها نكالا"لما بين يديها وما خلفها"، من الذنوب التي عملوا قبل الحيتان، وما عملوا بعد الحيتان. فذلك قوله: ﴿ما بين يديها وما خلفها﴾ .
+
+* *
+
+قال أبو جعفر: وأولى هذه التأويلات بتأويل الآية، ما رواه الضحاك عن ابن عباس. وذلك لما وصفنا من أن"الهاء والألف" - في قوله: ﴿فجعلناها نكالا﴾ - بأن تكون من ذكر العقوبة والمسخة التي مسخها القوم، أولى منها بأن تكون من ذكر غيرها. من أجل أن الله جل ثناؤه إنما يحذر خلقه بأسه وسطوته، بذلك يخوفهم [[في المطبوعة: "وبذلك يخوفهم"، ولعل الأجود ما أثبت.]] . وفي إبانته عز ذكره - بقوله: ﴿نكالا﴾ : أنه عنى به العقوبة التي أحلها بالقوم - ما يعلم أنه عنى بقوله: ﴿فعلناها نكالا لما بين يديها وما خلفها﴾ ، فجعلنا عقوبتنا التي أحللناها بهم عقوبة لما بين يديها وما خلفها - دون غيره من المعاني. وإذْ كانت "الهاء والألف" - بأن تكون من ذكر المسخة والعقوبة، أولى منها بأن تكون من ذكر غيرها؛ فكذلك العائد في قوله: ﴿لما بين يديها وما خلفها﴾ من"الهاء والألف": أن يكون من ذكر"الهاء والألف" اللتين في قوله: ﴿فجعلناها﴾ ، أولى من أن يكون من [ذكر] غيره. [[ما بين القوسين زيادة لا بد منها في سياق الجملة.]]
+
+فتأويل الكلام - إذْ كان الأمر على ما وصفنا -: فقلنا لهم كونوا قردة خاسئين، فجعلنا عقوبتنا لهم عقوبة لما بين يديها من ذنوبهم السالفة منهم، بمسخنا إياهم وعقوبتنا لهم - [[في المطبوعة"مسخنا إياهم" بحذف حرف الجر، وهو غير مستقيم، وقوله: "ولما خلف عقوبتنا لهم" على قوله: "لما بين يديها. . . ".]] ولما خلف عقوبتنا لهم من أمثال ذنوبهم: أن يعمل بها عامل، فيمسخوا مثل ما مسخوا، وأن يحل بهم مثل الذي حل بهم، تحذيرا من الله تعالى ذكره عباده: أن يأتوا من معاصيه مثل الذي أتى الممسوخون، فيعاقبوا عقوبتهم.
+
+وأما الذي قال في تأويل ذلك: ﴿فجعلناها﴾ ، يعني الحيتان، عقوبة لما بين يدي الحيتان من ذنوب القوم وما بعدها من ذنوبهم - فإنه أبعد في الانتزاع. وذلك أن الحيتان لم يجر لها ذكر فيقال: ﴿فجعلناها﴾ . فإن ظن ظان أن ذلك جائز - وإن لم يكن جرى للحيتان ذكر - لأن العرب قد تكني عن الاسم ولم يجر له ذكر، فإن ذلك وإن كان كذلك، فغير جائز أن يترك المفهوم من ظاهر الكتاب - والمعقول به ظاهر في الخطاب والتنزيل - إلى باطن لا دلالة عليه من ظاهر التنزيل، ولا خبر عن الرسول ﷺ منقول، [[انظر تفسير"ظاهر" و"باطن" فيما سلف من هذا الجزء ٢: ١٥ والمراجع.]] ولا فيه من الحجة إجماع مستفيض.
+
+وأما تأويل من تأول ذلك: لما بين يديها من القرى وما خلفها، فينظر إلى تأويل من تأول ذلك: بما بين يدي الحيتان وما خلفها.
+
+* *
+
+القول في تأويل قوله تعالى: ﴿وَمَوْعِظَةً﴾
+
+و"الموعظة"، مصدر من قول القائل:"وعظت الرجل أعظه وعظا وموعظة"، إذا ذكرته.
+
+* *
+
+فتأويل الآية: فجعلناها نكالا لما بين يديها وما خلفها وتذكرة للمتقين، ليتعظوا بها، ويعتبروا، ويتذكروا بها، كما:-
+
+١١٦٤ - حدثنا أبو كريب قال، حدثنا عثمان بن سعيد قال، حدثنا بشر بن عمارة، عن أبي روق، عن الضحاك، عن ابن عباس: ﴿وموعظة﴾ يقول: وتذكرة وعبرة للمتقين.
+
+* *
+
+القول في تأويل قوله تعالى ﴿لِلْمُتَّقِينَ (٦٦) ﴾
+
+وأما"المتقون"، فهم الذين اتقوا، بأداء فرائضه واجتناب معاصيه، كما:-
+
+١١٦٥ - حدثنا أبو كريب قال، حدثنا عثمان بن سعيد قال، حدثنا بشر بن عمارة قال، حدثنا أبو روق، عن الضحاك، عن ابن عباس: ﴿وموعظة للمتقين﴾ ، يقول: للمؤمنين الذين يتقون الشرك ويعملون بطاعتي.
+
+* *
+
+فجعل تعالى ذكره ما أحل بالذين اعتدوا في السبت من عقوبته، موعظة للمتقين خاصة، وعبرة للمؤمنين، دون الكافرين به - إلى يوم القيامة -، كالذي:-
+
+١١٦٦ - حدثنا ابن حميد قال، حدثنا سلمة قال، حدثني ابن إسحاق، عن داود بن الحصين، عن عكرمة مولى ابن عباس، عن عبد الله بن عباس في قوله: ﴿وموعظة للمتقين﴾ ، إلى يوم القيامة.
+
+١١٦٧ - حدثنا بشر بن معاذ قال، حدثنا يزيد قال، حدثنا سعيد، عن قتادة: ﴿وموعظة للمتقين﴾ ، أي: بعدهم.
+
+١١٦٨ - حدثنا الحسن بن يحيى قال، أخبرنا عبد الرزاق قال، أخبرنا معمر، عن قتادة مثله.
+
+١١٦٩ - حدثنا موسى قال، حدثنا عمرو قال، حدثنا أسباط، عن السدي: أما"موعظة للمتقين"، فهم أمة محمد ﷺ.
+
+١١٧٠ - حدثني المثنى قال، حدثنا إسحاق قال، حدثنا ابن أبي جعفر، عن أبيه، عن الربيع: ﴿وموعظة للمتقين﴾ ، قال: فكانت موعظة للمتقين خاصة.
+
+١١٧١ - حدثنا القاسم قال، حدثنا الحسن قال، حدثني حجاج، عن ابن جريج في قوله: ﴿وموعظة للمتقين﴾ ، أي لمن بعدهم.
 
 ### al-Muyassar (Arabic)
 
@@ -69,7 +610,7 @@ Allah said,
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿فَجَعَلْناها﴾ أيْ تِلْكَ العُقُوبَة ﴿نَكالًا﴾ عِبْرَة مانِعَة مِن ارْتِكاب مِثْل ما عَمِلُوا ﴿لِما بَيْن يَدَيْها وما خَلْفها﴾ أيْ لِلْأُمَمِ الَّتِي فِي زَمانها وبَعْدها ﴿ومَوْعِظَة لِلْمُتَّقِينَ﴾ اللَّه وخُصُّوا بِالذِّكْرِ لِأَنَّهُمْ المُنْتَفِعُونَ بِخِلافِ غَيْرهمْ.
 
 ---
 
@@ -77,21 +618,83 @@ Allah said,
 
 ### Ibn Kathir (English)
 
+And (remember) when Musa said to his people: "Verily, Allah commands you that you slaughter a cow." They said, "Do you make fun of us?" He said, "I take Allah's refuge from being among Al-Jahilin (the ignorant or the foolish). (67)
+
 The Story of the murdered Israeli Man and the Cow
-Allah said, `O Children of Israel! Remember how I blessed you with miracle of the cow that was the means for discovering the identity of the murderer, when the murdered man was brought back to life.'
-Ibn Abi Hatim recorded `Ubaydah As-Salmani saying, "There was a man from among the Children of Israel who was impotent. He had substantial wealth, and only a nephew who would inherit from him. So his nephew killed him and moved his body at night, ...
+
+Allah said, 'O Children of Israel! Remember how I blessed you with miracle of the cow that was the means for discovering the identity of the murderer, when the murdered man was brought back to life.'
+
+Ibn Abi Hatim recorded 'Ubaydah As-Salmani saying, "There was a man from among the Children of Israel who was impotent. He had substantial wealth, and only a nephew who would inherit from him. So his nephew killed him and moved his body at night, placing it at the doorstep of a certain man. The next morning, the nephew cried out for revenge, and the people took up their weapons and almost fought each other. The wise men among them said, 'Why would you kill each other, while the Messenger of Allah is still among you?' So they went to Musa and mentioned the matter to him and Musa said,
+
+إِنَّ اللَّهَ يَأْمُرُكُمْ أَن تَذْبَحُوا بَقَرَةً قَالُوا أَتَتَّخِذُنَا هُزُوًا قَالَ أَعُوذُ بِاللَّهِ أَنْ أَكُونَ مِنَ الْجَاهِلِينَ
+
+("Verily, Allah commands you that you slaughter a cow." They said, "Do you make fun of us?" He said, "I take Allah's refuge from being among Al-Jahilin (the ignorant or the foolish))."
+
+"Had they not disputed, it would have been sufficient for them to slaughter any cow. However, they disputed, and the matter was made more difficult for them, until they ended up looking for the specific cow that they were later ordered to slaughter. They found the designated cow with a man, only who owned that cow. He said, 'By Allah! I will only sell it for its skin's fill of gold.' So they paid the cow's fill of its skin in gold, slaughtered it and touched the dead man with a part of it. He stood up, and they asked him, 'Who killed you?' He said, 'That man,' and pointed to his nephew. He died again, and his nephew was not allowed to inherit him. Thereafter, whoever committed murder for the purpose of gaining inheritance was not allowed to inherit. Ibn Jarir reported something similar to that. Allah knows best.
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله تعالى :  وَإِذْ قَالَ مُوسَى لِقَوْمِهِ إِنَّ اللَّهَ يَأْمُرُكُمْ أَنْ تَذْبَحُوا بَقَرَةً قَالُوا أَتَتَّخِذُنَا هُزُوًا قَالَ أَعُوذُ بِاللَّهِ أَنْ أَكُونَ مِنَ الْجَاهِلِينَ (67)قال أبو جعفر: وهذه الآية مما وبخ الله بها المخاطبين من بني إسرائيل، في نقض أوائلهم الميثاق الذي أخذه الله عليهم بالطاعة لأنبيائه, فقال لهم: واذكروا أيضا من نكثكم ميثاقي," إذ قال موسى لقومه " - وقومه بنو إسرائيل, إذ ادارءوا في القتيل الذي قتل فيهم إليه: (إن الله يأمركم أن تذبحوا بقرة قالوا أتتخ...
+القول في تأويل قوله تعالى: ﴿وَإِذْ قَالَ مُوسَى لِقَوْمِهِ إِنَّ اللَّهَ يَأْمُرُكُمْ أَنْ تَذْبَحُوا بَقَرَةً قَالُوا أَتَتَّخِذُنَا هُزُوًا قَالَ أَعُوذُ بِاللَّهِ أَنْ أَكُونَ مِنَ الْجَاهِلِينَ (٦٧) ﴾
+
+قال أبو جعفر: وهذه الآية مما وبخ الله بها المخاطبين من بني إسرائيل، في نقض أوائلهم الميثاق الذي أخذه الله عليهم بالطاعة لأنبيائه، فقال لهم: واذكروا أيضا من نكثكم ميثاقي،"إذ قال موسى لقومه" - وقومه بنو إسرائيل، إذ ادارؤوا في القتيل الذي قتل فيهم إليه: ﴿إن الله يأمركم أن تذبحوا بقرة قالوا أتتخذنا هزوا﴾ .
+
+و"الهزؤ": اللعب والسخرية، كما قال الراجز: [[هو صخير بن عمير التميمي، ويقال إن القصيدة للأصمعي نفسه.]]
+
+قد هزئت مني أم طيسله ... قالت أراه معدما لا شيء له [[الأصمعيات: ٥٨، وأمالي القالي ٢: ٢٨٤، وانظر تحقيق ما قيل فيها في تعليق سمط اللآلي للراجكوتي: ٩٣٠ وروايتهم جميعا: تهزأ مني أخت آل طيسله ... . . . . . . . . . . . . . . . . . . .
+
+ويروى"مملقا لا شيء له" و"مبلطا"، وكلها بمعنى واحد: فقيرا لا شيء له.]]
+
+يعني بقوله: قد هزئت: قد سخرت ولعبت.
+
+ولا ينبغي أن يكون من أنبياء الله -فيما أخبرت عن الله من أمر أو نهي- هزؤ أو لعب. فظنوا بموسى أنه في أمره إياهم -عن أمر الله تعالى ذكره بذبح البقرة عند تدارئهم في القتيل إليه - أنه هازئ لاعب. ولم يكن لهم أن يظنوا ذلك بنبي الله، وهو يخبرهم أن الله هو الذي أمرهم بذبح البقرة.
+
+* *
+
+وحذفت"الفاء" من قوله: ﴿أتتخذنا هزوا﴾ ، وهو جواب، لاستغناء ما قبله من الكلام عنه، وحَسُن السكوت على قوله: ﴿إن الله يأمركم أن تذبحوا بقرة﴾ ، فجاز لذلك إسقاط"الفاء" من قوله: ﴿أتتخذنا هزوا﴾ ، كما جاز وحسن إسقاطها من قوله تعالى ﴿قَالَ فَمَا خَطْبُكُمْ أَيُّهَا الْمُرْسَلُونَ قَالُوا إِنَّا أُرْسِلْنَا﴾ [الحجر: ٥٧، ٥٨ الذاريات: ٣١، ٣٢] ، ولم يقل: فقالوا إنا أرسلنا. ولو قيل"فقالوا" كان حسنا أيضا جائزا. ولو كان ذلك على كلمة واحدة، لم تسقط منه"الفاء". وذلك أنك إذا قلت:"قمت ففعلت كذا وكذا"، لم تقل: قمت فعلت كذا وكذا" [[في المطبوعة: "قمت وفعلت" وفي المطبوعة: "ولم تقل: قمت. . " بزيادة الواو، وهو فاسد. وانظر معاني القرآن للفراء ١: ٤٤.]] لأنها عطف، لا استفهام يوقف عليه.
+
+فأخبرهم موسى -إذْ قالوا له ما قالوا- أن المخبر عن الله جل ثناؤه بالهزء والسخرية، من الجاهلين. [[سياق معناه: أخبرهم موسى أن المخبر عن الله بهُزُء وسخرية، هو من الجاهلين.]] وبرأ نفسه مما ظنوا به من ذلك فقال: ﴿أعوذ بالله أن أكون من الجاهلين﴾ ، يعني من السفهاء الذين يروون عن الله الكذب والباطل.
+
+* *
+
+وكان سبب قيل موسى لهم: ﴿إن الله يأمركم أن تذبحوا بقرة﴾ ، ما:-
+
+١١٧٢ - حدثنا به محمد بن عبد الأعلى قال، حدثنا المعتمر بن سليمان قال، سمعت أيوب، عن محمد بن سيرين، عن عبيدة قال: كان في بني إسرائيل رجل عقيم -أو عاقر- قال: فقتله وليه، ثم احتمله فألقاه في سبط غير سبطه. قال: فوقع بينهم فيه الشر حتى أخذوا السلاح. قال: فقال أولو النهى: أتقتتلون وفيكم رسول الله؟ قال: فأتوا نبي الله، فقال: اذبحوا بقرة! فقالوا: أتتخذنا هزوا، قال:"أعوذ بالله أن أكون من الجاهلين * قالوا ادع لنا ربك يبين لنا ما هي قال إنه يقول إنها بقرة) ، إلى قوله: ﴿فذبحوها وما كادوا يفعلون﴾ قال: فضرب، فأخبرهم بقاتله. قال: ولم تؤخذ البقرة إلا بوزنها ذهبا، قال: ولو أنهم أخذوا أدنى بقرة لأجزأت عنهم. فلم يورث قاتل بعد ذلك. [[الأثر: ١١٧٢ - عبيدة، بفتح العين وبعد الباء الموحدة ياء تحتية: هو عبيدة السلماني. وهذا الأثر نقله ابن كثير ١: ١٩٧ - ١٩٨، من رواية ابن أبي حاتم، من طريق هشام بن حسان"عن محمد بن سيرين، عن عبيدة السلماني". ثم أشار إلى رواية الطبري هذه.
+
+وقد مضى أثر آخر: ٢٤٥ من رواية أيوب وابن عون، عن ابن سيرين، عن"عبيدة". ورجحنا هناك أن صوابه"عبيدة". فهذا الإسناد الذي هنا يؤيد ما رجحنا.]]
+
+١١٧٣ - وحدثني المثنى قال، حدثنا آدم قال، حدثني أبو جعفر، عن الربيع، عن أبي العالية في قول الله ﴿إن الله يأمركم أن تذبحوا بقرة﴾ . قال: كان رجل من بني إسرائيل، وكان غنيا ولم يكن له ولد، وكان له قريب وارثه، فقتله ليرثه، ثم ألقاه على مجمع الطريق، [[مجمع الطريق: هو حيث يلتقى الناس ويجتمعون، أو حيث تلتقى الطرق.]] وأتى موسى فقال له: إن قريبي قتل وأُتي إلي أمر عظيم، وإني لا أجد أحدا يبين لي من قتله غيرك يا نبي الله. قال: فنادى موسى في الناس: أنشد الله من كان عنده من هذا علم إلا بينه لنا. فلم يكن عندهم علمه. فأقبل القاتل على موسى فقال: أنت نبي الله، فاسأل لنا ربك أن يبين لنا. فسأل ربه، فأوحى الله إليه: ﴿إن الله يأمركم أن تذبحوا بقرة﴾ . فعجبوا وقالوا: ﴿أتتخذنا هزوا قال أعوذ بالله أن أكون من الجاهلين * قالوا ادع لنا ربك يبين لنا ما هي، قال إنه يقول إنها بقرة لا فارض﴾ - يعني: لا هرمة - ﴿ولا بكر﴾ - يعني: ولا صغيرة - ﴿عوان بين ذلك﴾ - أي: نصف، بين البكر والهرمة - ﴿قالوا ادع لنا ربك يبين لنا ما لونها، قال إنه يقول إنها بقرة صفراء فاقع لونها﴾ - أي: صاف لونها - ﴿تسر الناظرين﴾ - أي تعجب الناظرين - ﴿قالوا ادع لنا ربك يبين لنا ما هي إن البقر تشابه علينا وإنا إن شاء الله لمهتدون * قال إنه يقول إنها بقرة لا ذلول﴾ أي: لم يذللها العمل - ﴿تثير الأرض﴾ - يعني ليست بذلول فتثير الأرض - ﴿ولا تسقي الحرث﴾ - يقول: ولا تعمل في الحرث - ﴿مسلمة﴾ ، يعني مسلمة من العيوب، ﴿لا شية فيها﴾ - يقول: لا بياض فيها - (قالوا الآن جئت بالحق فذبحوها وما كادوا يفعلون) . قال: ولو أن القوم حين أمروا أن يذبحوا بقرة، استعرضوا بقرة من البقر فذبحوها، [[استعرضوا: أخذوا من عرض البقر (بضم العين وسكون الراء) فلم يبالوا أيها أخذوا. والعرض: الوجه والناحية، أي ما يعرض لك من الشيء.]] لكانت إياها، ولكنهم شددوا على أنفسهم، فشدد الله عليهم. ولولا أن القوم استثنوا فقالوا: ﴿وإنا إن شاء الله لمهتدون﴾ ، لما هدوا إليها أبدا. فبلغنا أنهم لم يجدوا البقرة التي نعتت لهم، إلا عند عجوز عندها يتامى، وهي القيمة عليهم. فلما علمت أنهم لا يزكو لهم غيرها، [[تقول: "هذا الأمر لا يزكو بفلان" أي لا يليق به ولا يصلح له. فقوله: "لا يزكو لهم غيرها" أي لا يصلح لهم غيرها ولا ينفع فيما أمرهم الله به.]] أضعفت عليهم الثمن. فأتوا موسى فأخبروه أنهم لم يجدوا هذا النعت إلا عند فلانة، وأنها سألتهم أضعاف ثمنها. فقال لهم موسى: إن الله قد كان خفف عليكم، فشددتم على أنفسكم، فأعطوها رضاها وحكمها. ففعلوا، واشتروها فذبحوها. فأمرهم موسى أن يأخذوا عظما منها فيضربوا به القتيل. ففعلوا، فرجع إليه روحه، فسمى لهم قاتله، ثم عاد ميتا كما كان. فأخذوا قاتله - وهو الذي كان أتى موسى فشكى إليه، - فقتله الله على أسوء عمله.
+
+١١٧٤ - حدثني موسى قال، حدثنا عمرو قال، حدثنا أسباط، عن السدي: ﴿وإذ قال موسى لقومه إن الله يأمركم أن تذبحوا بقرة﴾ . قال: كان رجل من بني إسرائيل مكثرا من المال، وكانت له ابنة، وكان له ابن أخ محتاج. فخطب إليه ابن أخيه ابنته، فأبي أن يزوجه إياها، فغضب الفتى وقال: والله لأقتلن عمي، ولآخذن ماله، ولأنكحن ابنته، ولآكلن ديته! فأتاه الفتى، وقد قدم تجار في أسباط بني إسرائيل، فقال: يا عم، انطلق معي فخذ لي من تجارة هؤلاء القوم، لعلي أصيب منها، [[في المطبوعة: "أصيب فيها"، وهو خطأ، والصواب من تفسير ابن كثير ١: ٢٠٠. أصاب الإنسان من المال وغيره: تناول وأخذ. ويريد أصيب منها ربحا.]] فإنهم إذا رأوك معي أعطوني. فخرج العم مع الفتى ليلا فلما بلغ الشيخ ذلك السبط، قتله الفتى، ثم رجع إلى أهله.
+
+فلما أصبح، جاء كأنه يطلب عمه، كأنه لا يدري أين هو، فلم يجده. فانطلق نحوه، فإذا هو بذلك السبط مجتمعين عليه، فأخذهم وقال: قتلتم عمي فأدوا إلي ديته. وجعل يبكي ويحثو التراب على رأسه وينادى: واعماه! فرفعهم إلى موسى، فقضى عليهم بالدية، فقالوا له: يا رسول الله، ادع لنا ربك حتى يبين له من صاحبه، فيؤخذ صاحب الجريمة، [[في المطبوعة: "ادع لنا حتى يتبين". ونص ابن كثير في تفسيره ١: ٢٠٠"ادع لنا ربك حتى يبين لنا من صاحبه، فيؤخذ صاحب القضية".]] فوالله إن ديته علينا لهينة، ولكنا نستحي أن نعير به. فذلك حين يقول الله جل ثناؤه: ﴿وإذ قتلتم نفسا فادارأتم فيها والله مخرج ما كنتم تكتمون﴾ . فقال لهم موسى: ﴿إن الله يأمركم أن تذبحوا بقرة﴾ . قالوا: نسألك عن القتيل وعمن قتله، وتقول: اذبحوا بقرة! أتهزأ بنا؟ قال موسى: ﴿أعوذ بالله أن أكون من الجاهلين﴾ - قال، قال ابن عباس: فلو اعترضوا بقرة فذبحوها لأجزأت عنهم، ولكنهم شددوا وتعنتوا موسى فشدد الله عليهم - [[أعنته وتعنته: سأله عن شيء أراد به اللبس عليه والمشقة.]] فقالوا: ﴿ادع لنا ربك يبين لنا ما هي قال إنه يقول إنها بقرة لا فارض ولا بكر عوان بين ذلك﴾ - والفارض: الهرمة التي لا تلد، والبكر: التي لم تلد إلا ولدا واحدا، والعوان: النصف التي بين ذلك، التي قد ولدت وولد ولدها -"فافعلوا ما تؤمرون" * ﴿قالوا ادع لنا ربك يبين لنا ما لونها قال إنه يقول إنها بقرة صفراء فاقع لونها تسر الناظرين﴾ - قال: تعجب الناظرين - ﴿قالوا ادع لنا ربك يبين لنا ما هي إن البقر تشابه علينا وإنا إن شاء الله لمهتدون * قال إنه يقول إنها بقرة لا ذلول تثير الأرض ولا تسقي الحرث مسلمة لا شية فيها﴾ - من بياض ولا سواد ولا حمرة - ﴿قالوا الآن جئت بالحق﴾ . فطلبوها فلم يقدروا عليها.
+
+وكان رجل من بني إسرائيل من أبر الناس بأبيه، وإن رجلا مر به معه لؤلؤ يبيعه، فكان أبوه نائما تحت رأسه المفتاح، فقال له الرجل: تشتري مني هذا اللؤلؤ بسبعين ألفا؟ فقال له الفتى: كما أنت حتى يستيقظ أبي فآخذه بثمانين ألفا. فقال له الآخر: أيقظ أباك وهو لك بستين ألفا. فجعل التاجر يحط له حتى بلغ ثلاثين ألفا، وزاد الآخر على أن ينتظر حتى يستيقظ أبوه، حتى بلغ مائة ألف. فلما أكثر عليه قال: لا والله، لا أشتريه منك بشيء أبدا، وأبى أن يوقظ أباه. فعوضه الله من ذلك اللؤلؤ أن جعل له تلك البقرة. فمرت به بنو إسرائيل يطلبون البقرة، فأبصروا البقرة عنده، فسألوه أن يبيعهم إياها بقرة ببقرة، فأبي، فأعطوه ثنتين فأبي، فزادوه حتى بلغوا عشرا، فأبي، فقالوا: والله لا نتركك حتى نأخذها منك. فانطلقوا به إلى موسى فقالوا: يا نبي الله، إنا وجدنا البقرة عند هذا فأبي أن يعطيناها، وقد أعطيناه ثمنا. فقال له موسى: أعطهم بقرتك. فقال: يا رسول الله، أنا أحق بمالي. فقال: صدقت. وقال للقوم: أرضوا صاحبكم. فأعطوه وزنها ذهبا فأبي، فأضعفوا له مثل ما أعطوه وزنها، حتى أعطوه وزنها عشر مرات، فباعهم إياها وأخذ ثمنها. فقال: اذبحوها. فذبحوها فقال: اضربوه ببعضها. فضربوه بالبضعة التي بين الكتفين، فعاش، فسألوه: من قتلك؟ فقال لهم: ابن أخي، قال: أقتله، وآخذ ماله، وأنكح ابنته. فأخذوا الغلام فقتلوه.
+
+١١٧٥ - حدثنا بشر قال، حدثنا يزيد قال، حدثنا سعيد، عن قتادة -
+
+١١٧٦ - وحدثني يونس قال، أخبرنا ابن وهب، عن ابن زيد، عن مجاهد -
+
+١١٧٧ - وحدثني المثنى قال، حدثنا أبو حذيفة قال، حدثنا شبل قال، حدثني خالد بن يزيد، عن مجاهد -
+
+١١٧٨ - وحدثني المثنى قال، حدثنا إسحاق قال، حدثنا إسماعيل بن عبد الكريم قال، حدثني عبد الصمد بن معقل: أنه سمع وهبا يذكر -
+
+١١٧٩ - وحدثني القاسم قال، حدثنا الحسين قال، حدثني حجاج، عن ابن جريج، عن مجاهد - وحجاج، عن أبي معشر، عن محمد بن كعب القرظي ومحمد بن قيس -
+
+١١٨٠ - وحدثني محمد بن سعد قال، حدثني أبي قال، حدثني عمي قال، أخبرني أبي، عن أبيه، عن ابن عباس -
+
+- فذكر جميعهم أن السبب الذي من أجله قال لهم موسى: ﴿إن الله يأمركم أن تذبحوا بقرة﴾ ، نحو السبب الذي ذكره عبيدة وأبو العالية والسدي، غير أن بعضهم ذكر أن الذي قتل القتيل الذي اختصم في أمره إلى موسى، كان أخا المقتول، وذكر بعضهم أنه كان ابن أخيه، وقال بعضهم: بل كانوا جماعة ورثة استبطئوا حياته. إلا أنهم جميعا مجمعون على أن موسى إنما أمرهم بذبح البقرة من أجل القتيل إذ احتكموا إليه - عن أمر الله إياهم بذلك - [[الأجود أن يكون"عن أمر الله إياه بذلك".]] فقالوا له: وما ذبح البقرة؟ يبين لنا خصومتنا التي اختصمنا فيها إليك في قتل من قتل، فادُّعِي على بعضنا أنه القاتل! أتهزأ بنا؟ كما:-
+
+١١٨١ - حدثني يونس قال، أخبرنا ابن وهب قال، قال ابن زيد: قتل قتيل من بني إسرائيل، فطرح في سبط من الأسباط، فأتى أهل ذلك القتيل إلى ذلك السبط فقالوا: أنتم والله قتلتم صاحبنا. قالوا: لا والله. فأتوا موسى فقالوا: هذا قتيلنا بين أظهرهم، وهم والله قتلوه! فقالوا: لا والله يا نبي الله، طرح علينا! فقال لهم موسى: إن الله يأمركم أن تذبحوا بقرة. فقالوا: أتستهزئ بنا؟ وقرأ قول الله جل ثناؤه: ﴿أتتخذنا هزوا﴾ . قالوا: نأتيك فنذكر قتيلنا والذي نحن فيه، فتستهزئ بنا؟ فقال موسى: (أعوذ بالله أن أكون من الجاهلين) .
+
+١١٨٢ - حدثنا القاسم قال، حدثنا الحسين قال، حدثني حجاج، عن ابن جريج، عن مجاهد وحجاج، عن أبي معشر، عن محمد بن كعب القرظي، ومحمد بن قيس: لما أتى أولياء القتيل والذين ادعوا عليهم قتل صاحبهم - موسى وقصوا قصتهم عليه، أوحى الله إليه أن يذبحوا بقرة، فقال لهم موسى: ﴿إن الله يأمركم أن تذبحوا بقرة، قالوا أتتخذنا هزوا قال أعوذ بالله أن أكون من الجاهلين﴾ . قالوا: وما البقرة والقتيل؟ قال: أقول لكم:"إن الله يأمركم أن تذبحوا بقرة"، وتقولون:"أتتخذنا هزوا".
 
 ### al-Muyassar (Arabic)
 
-واذكروا يا بني إسرائيل جناية أسلافكم، وكثرة تعنتهم وجدالهم لموسى عليه الصلاة والسلام، حين قال لهم: إن الله يأمركم أن تذبحوا بقرة، فقالوا -مستكبرين-: أتجعلنا موضعًا للسخرية والاستخفاف؟ فردَّ عليهم موسى بقوله: أستجير بالله أن أكون من المستهزئين.
+واذكروا –يا بني إسرائيل- جناية أسلافكم، وكثرة تعنتهم وجدالهم لموسى عليه الصلاة والسلام، حين قال لهم: إن الله يأمركم أن تذبحوا بقرة، فقالوا -مستكبرين-: أتجعلنا موضعًا للسخرية والاستخفاف؟ فردَّ عليهم موسى بقوله: أستجير بالله أن أكون من المستهزئين.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿و﴾ اُذْكُرْ ﴿إذْ قالَ مُوسى لِقَوْمِهِ﴾ وقَدْ قُتِلَ لَهُمْ قَتِيل لا يُدْرى قاتِله وسَأَلُوهُ أنْ يَدْعُو اللَّه أنْ يُبَيِّنهُ لَهُمْ فَدَعاهُ ﴿إنّ اللَّه يَأْمُركُمْ أنْ تَذْبَحُوا بَقَرَة قالُوا أتَتَّخِذُنا هُزُوًا﴾ مَهْزُوءًا بِنا حَيْثُ تُجِيبنا بِمِثْلِ ذَلِكَ ﴿قالَ أعُوذ﴾ أمْتَنِع ﴿بِاللَّهِ أنْ أكُون مِن الجاهِلِينَ﴾ المُسْتَهْزِئِينَ
 
 ---
 
@@ -99,12 +702,229 @@ Ibn Abi Hatim recorded `Ubaydah As-Salmani saying, "There was a man from among t
 
 ### Ibn Kathir (English)
 
+They said, "Call upon your Lord for us that He may make plain to us what it is!" He said, "He says, 'Verily, it is a cow neither too old nor too young, but (it is) between the two conditions', so do what you are commanded. (68)They said, "Call upon your Lord for us to make plain to us its colour." He said, "He says, 'It is a yellow cow, bright in its colour, pleasing the beholders.' ( 69)They said, "Call upon your Lord for us to make plain to us what it is. Verily, to us all cows are alike. And surely, if Allah wills, we will be guided. ( 70)He (Musa) said, "He says, 'It is a cow neither trained to till the soil nor water the fields, sound, having no blemish in it.'" They said, "Now you have brought the truth." So they slaughtered it though they were near to not doing it (71)
+
 The Stubbornness of the Jews regarding the Cow; Allah made the Matter difficult for Them
-Allah mentioned the stubbornness of the Children of Israel and the many unnecessary questions they asked their Messengers. This is why when they were stubborn, Allah made the decisions difficult for them. Had they slaughtered a cow, any cow, it would have been sufficient for them, as Ibn `Abbas and `Ubaydah have said. Instead, they made the matter difficult, and this is why Allah made it even more difficu...
+
+Allah mentioned the stubbornness of the Children of Israel and the many unnecessary questions they asked their Messengers. This is why when they were stubborn, Allah made the decisions difficult for them. Had they slaughtered a cow, any cow, it would have been sufficient for them, as Ibn 'Abbas and 'Ubaydah have said. Instead, they made the matter difficult, and this is why Allah made it even more difficult for them. They said,
+
+ادْعُ لَنَا رَبَّكَ يُبَيِّن لَّنَا مَا هِيَ
+
+(Call upon your Lord for us that He may make plain to us what it is!), meaning, "What is this cow and what is its description?" Musa said,
+
+إِنَّهُ يَقُولُ إِنَّهَا بَقَرَةٌ لَّا فَارِضٌ وَلَا بِكْرٌ
+
+(He says, 'Verily, it is a cow neither too old nor too young'), meaning, that it is neither old nor below the age of breeding. This is the opinion of Abu Al-'Aliyah, As-Suddi, Mujahid, 'Ikrimah, 'Atiyah Al-'Awfi, 'Ata', Al-Khurasani, Wahb bin Munabbih, Ad-Dahhak, Al-Hasan, Qatadah and Ibn 'Abbas. Ad-Dahhak reported that Ibn 'Abbas said that,
+
+عَوَانٌ بَيْنَ ذَٰلِكَ
+
+(But (it is) between the two conditions) means, "Neither old nor young. Rather, she was at the age when the cow is strongest and fittest." In his Tafsir Al-'Awfi reported from Ibn 'Abbas that,
+
+فَاقِعٌ لَّوْنُهَا
+
+(bright in its colour) "A deep yellowish white."
+
+As-Suddi said,
+
+تَسُرُّ النَّاظِرِينَ
+
+(pleasing the beholder) meaning, that it pleases those who see it. This is also the opinion of Abu Al-'Aliyah, Qatadah and Ar-Rabi' bin Anas. Furthermore, Wahb bin Munabbih said, "If you look at the cow's skin, you will think that the sun's rays radiate through its skin." The modern version of the Tawrah mentions that the cow in the Ayah was red, but this is an error. Or, it might be that the cow was so yellow that it appeared blackish or reddish in color. Allah's knows best.
+
+إِنَّ الْبَقَرَ تَشَابَهَ عَلَيْنَا
+
+(Verily, to us all cows are alike) this means, that since cows are plentiful, then describe this cow for us further,
+
+وَإِنَّا إِن شَاءَ اللَّهُ
+
+(And surely, if Allah wills) and if you further describe it to us,
+
+لَمُهْتَدُونَ
+
+(we will be guided.)
+
+قَالَ إِنَّهُ يَقُولُ إِنَّهَا بَقَرَةٌ لَّا ذَلُولٌ تُثِيرُ الْأَرْضَ وَلَا تَسْقِي الْحَرْثَ
+
+(He says, 'It is a cow neither trained to till the soil nor water the fields') meaning, it is not used in farming, or for watering purposes. Rather, it is honorable and fair looking. 'Abdur-Razzaq said that Ma'mar said that Qatadah said that,
+
+مُسَلَّمَةٌ
+
+(sound) means, "The cow does not suffer from any defects." This is also the opinion of Abu Al-'Aliyah and Ar-Rabi'. Mujahid also said that the Ayah means the cow is free from defects. Further, 'Ata' Al-Khurasani said that the Ayah means that its legs and body are free of physical defects.
+
+Also, Ad-Dahhak said that Ibn 'Abbas said that the Ayah,
+
+فَذَبَحُوهَا وَمَا كَادُوا يَفْعَلُونَ
+
+(So they slaughtered it though they were near to not doing it) means, "They did not want to slaughter it."
+
+This means that even after all the questions and answers about the cow's description, the Jews were still reluctant to slaughter the cow. This part of the Qur'an criticized the Jews for their behavior, because their only goal was to be stubborn, and this is why they nearly did not slaughter the cow. Also, 'Ubaydah, Mujahid, Wahb bin Munabbih, Abu Al-'Aliyah and 'Abdur-Rahman bin Zayd bin Aslam said, "The Jews bought the cow with a large amount of money." There is a difference of opinion over this.
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله تعالى :  قَالُوا ادْعُ لَنَا رَبَّكَ يُبَيِّنْ لَنَا مَا هِيَ قَالَ إِنَّهُ يَقُولُ إِنَّهَا بَقَرَةٌ لا فَارِضٌ  (83)قال أبو جعفر: فقال الذين قيل لهم:  إِنَّ اللَّهَ يَأْمُرُكُمْ أَنْ تَذْبَحُوا بَقَرَةً  - بعد أن علموا واستقر عندهم، أن الذي أمرهم به موسى من ذلك عن أمر الله من ذبح بقرة - جد وحق، (84) (ادع لنا ربك يبين لنا ما هي)، فسألوا موسى أن يسأل ربه لهم ما كان الله قد كفاهم بقوله لهم: " اذبحوا بقرة ". لأنه جل ثناؤه إنما أمرهم بذبح بقرة من البقر - أي بقرة شاءوا ذبحها م...
+القول في تأويل قوله تعالى: ﴿قَالُوا ادْعُ لَنَا رَبَّكَ يُبَيِّنْ لَنَا مَا هِيَ قَالَ إِنَّهُ يَقُولُ إِنَّهَا بَقَرَةٌ لا فَارِضٌ﴾
+
+[[الآية كلها ساقطة من الأصول، فوضعتها في موضعها.]]
+
+قال أبو جعفر: فقال الذين قيل لهم: ﴿إن الله يأمركم أن تذبحوا بقرة﴾ - بعد أن علموا واستقر عندهم، أن الذي أمرهم به موسى من ذلك عن أمر الله من ذبح بقرة - جد وحق، [[قوله"جد وحق"، خبر قوله"أن الذي أمرهم به موسى. . . "]] ﴿ادع لنا ربك يبين لنا ما هي﴾ ، فسألوا موسى أن يسأل ربه لهم ما كان الله قد كفاهم بقوله لهم:"اذبحوا بقرة". لأنه جل ثناؤه إنما أمرهم بذبح بقرة من البقر - أي بقرة شاءوا ذبحها من غير أن يحصر لهم ذلك على نوع منها دون نوع أو صنف دون صنف - فقالوا بجفاء أخلاقهم وغلظ طبائعهم، وسوء أفهامهم، وتكلف ما قد وضع الله عنهم مؤونته، تعنتا منهم لرسول الله ﷺ، كما:-
+
+١١٨٣ - حدثني محمد بن سعد قال، حدثني أبي قال، حدثني عمي قال، حدثني أبي، عن أبيه، عن ابن عباس قال: لما قال لهم موسى: ﴿أعوذ بالله أن أكون من الجاهلين﴾ . قالوا له يتعنتونه: ﴿ادع لنا ربك يبين لنا ما هي﴾ .
+
+فلما تكلفوا جهلا منهم ما تكلفوا من البحث عما كانوا قد كفوه من صفة البقرة التي أمروا بذبحها، تعنتا منهم نبيهم موسى صلوات الله عليه، بعد الذي كانوا أظهروا له من سوء الظن به فيما أخبرهم عن الله جل ثناؤه، بقولهم: ﴿أتتخذنا هزوا﴾ [[سياق العبارة: "فلما تكلفوا جهلا منهم ما تكلفوا. . عاقبهم. . "، وما بينهما فصل.]] - عاقبهم عز وجل بأن حصر ذبح ما كان أمرهم بذبحه من البقر على نوع منها دون نوع، [[في المطبوعة"بأن خص بذبح ما كان أمرهم"، وعبارة الطبري فيما أرجح هي ما أثبته/، وقد قال آنفًا: ١٨٩"من غير أن يحصر لهم ذلك على نوع منها دون نوع"، وسيقول بعد: ١٩٧"فحصروا على نوع دون سائر الأنواع".]] فقال لهم جل ثناؤه - إذ سألوه فقالوا: ما هي؟ ما صفتها؟ وما حليتها؟ حَلِّها لنا لنعرفها! [[الحلية (بكسر فسكون) الصفة والصورة: حلى الرجل يحليه تحلية: وصف صورته وهيأته. وتحليت الرجل: عرفت صفته.]] -قال: ﴿إنها بقرة لا فارض ولا بكر﴾ .
+
+* *
+
+يعني بقوله جل ثناؤه: ﴿لا فارض﴾ لا مسنة هرمة. يقال منه: فرضت البقرة تفرض فروضا"، يعني بذلك: أسنت. ومن ذلك قول الشاعر:
+
+يا رب ذي ضغن عليَّ فارضِ ... له قروء كقروء الحائضِ [[مجالس ثعلب: ٣٦٤، والمعاني الكبير: ٨٥٠، ١١٤٣، والحيوان ٦: ٦٦ - ٦٧، والأضداد: ٢٢، وكتاب القرطين ١: ٤٤، ٧٧، واللسان (فرض) ، وغيرها، وصواب إنشاده: يارب مولى حاسد مباغض ... عليّ ذي ضغن وضب فارض
+
+والضب: الغيظ والحقد تضمره في القلب. قروء وأقراء جمع قرء (بضم فسكون) : وهو وقت الحيض قال ابن قتيبة: "أي له أوقات تهيج فيها عداوته"، وقال الجاحظ: "كأنه ذهب إلى أن حقده يخبو ثم يستعر، ثم يخبو ثم يستعر".]]
+
+يعني بقوله:"فارض"، قديم. يصف ضغنا قديما. ومنه قول الآخر:
+
+لها زِجاج ولهاة فارض ... حدلاء كالوطب نحاه الماخض [[البيت الأول في اللسان (زجج) ، والثاني في المخصص ١: ١٦٢. وكان في الأصل: له زجاج ولهاة فارض ... هدلاء كالوطب تجاه الماخض
+
+وهو تصحيف. والزجاج جمع زج: وهو الحديدة التي تركب في أسفل الرمح يركز به في الأرض. فاستعاره للألباب. واللهاة: لحمة حمراء في الحنك، معلقة على عكدة اللسان، مشرفة على الحلق. والفارض في هذا البيت: الواسع العظيم الضخم يقال: لحية فارض، وشِقْشِقَة فارض. (وهي لهاة البعير) ودلو فارض قال أبو محمد الفقعسي يذكر دلوا واسعا (وهو الغرب) . والغرب غرب بقري فارض
+
+وحدلاء وأحدل: وهو الذي يمشي في شق، وفي منكبيه ورقبته إقبال على صدره، وانحناء. والوطب: سقاء اللبن، يكون من جلد. ونحاه: صرفه وأماله. والماخض: من مخض اللبن: إذا وضع في الممخضة، ليخرج زبده. لعله يهجو امرأته، ويذكر قبح أنيابها، وسعة لهاتها، من شدة شرهها. ويصف مشيتها مائلة على شق، وتكدس بدنها بعضه على بعض، كأنها وطب أماله الماخض يمنة ويسرة يحركه.]] وبمثل الذي قلنا في تأويل"فارض" قال المتأولون:
+
+ذكر من قال ذلك:
+
+١١٨٤ - حدثني علي بن سعيد الكندي قال، حدثنا عبد السلام بن حرب، عن خصيف، عن مجاهد: ﴿لا فارض﴾ ، قال: لا كبيرة. [[الخبر ١١٨٤ - علي بن سعيد بن مسروق الكندي، شيخ الطبري: كوفي ثقة، مترجم في التهذيب، وابن أبي حاتم ٣ / ١ /١٨٩ - ١٩٠، مات سنة ٢٤٩. عبد السلام بن حرب الملائي الكوفي، الحافظ: ثقة حجة، أخرج له أصحاب الكتب الستة. وترجمه ابن أبي حاتم ٣ / ١ /٤٧.]]
+
+١١٨٥ - حدثنا أبو كريب قال، حدثنا ابن عطية قال، حدثنا شريك، عن خصيف، عن سعيد بن جبير، عن ابن عباس، أو عن عكرمة، شك شريك-: ﴿لا فارض﴾ ، قال: الكبيرة.
+
+١١٨٥ - حدثني محمد بن سعد قال، أخبرني أبي قال، حدثني عمي قال، حدثني أبي، عن أبيه، عن ابن عباس قوله: ﴿لا فارض﴾ ، الفارض: الهرمة.
+
+١١٨٦ - حدثت عن المنجاب قال، حدثنا بشر، عن أبي روق، عن الضحاك، عن ابن عباس: ﴿لا فارض﴾ ، يقول: ليست بكبيرة هرمة.
+
+١١٨٧ - حدثنا القاسم قال، حدثنا الحسين قال، حدثني حجاج قال، قال ابن جريج، عن عطاء الخراساني عن ابن عباس: ﴿لا فارض﴾ ، الهرمة.
+
+١١٨٨ - حدثني المثنى قال، حدثنا أبو حذيفة قال، حدثنا شبل، عن ابن أبي نجيح، عن مجاهد:"الفارض" الكبيرة.
+
+١١٨٩ - حدثنا أحمد بن إسحاق الأهوازي قال، حدثنا أبو أحمد الزبيري قال، حدثنا شريك، عن خصيف، عن مجاهد قوله: ﴿لا فارض﴾ ، قال: الكبيرة.
+
+١١٩٠ - حدثنا المثنى قال، حدثنا آدم قال، حدثنا أبو جعفر، عن الربيع، عن أبي العالية: ﴿لا فارض﴾ ، يعني: لا هرمة.
+
+١١٩١ - حدثت عن عمار قال، حدثنا ابن أبي جعفر، عن أبيه، عن الربيع مثله.
+
+١١٩٢ - حدثنا بشر قال، حدثنا يزيد قال، حدثنا سعيد، عن قتادة:"الفارض"، الهرمة.
+
+١١٩٣ - حدثنا الحسن بن يحيى قال، أخبرنا عبد الرزاق قال، قال معمر، قال قتادة:"الفارض" الهرمة. يقول: ليست بالهرمة ولا البكر عوان بين ذلك.
+
+١١٩٤ - حدثني موسى بن هارون قال، حدثنا عمرو بن حماد قال، حدثنا أسباط، عن السدي:"الفارض"، الهرمة التي لا تلد.
+
+١١٩٥ - حدثني يونس قال، أخبرنا ابن وهب قال، قال ابن زيد:"الفارض"، الكبيرة.
+
+* *
+
+القول في تأويل قوله تعالى: ﴿وَلا بِكْرٌ﴾
+
+قال أبو جعفر: و"البكر" من إناث البهائم وبني آدم، ما لم يفتحله الفحل، وهي مكسورة الباء، لم يسمع منه "فَعَل" ولا "يفعل". وأما"البكر" بفتح الباء فهو الفتي من الإبل.
+
+* *
+
+وإنما عنى جل ثناؤه بقوله ﴿ولا بكر﴾ ولا صغيرة لم تلد، كما:-
+
+١١٩٦ - حدثني علي بن سعيد الكندي قال، حدثنا عبد السلام بن حرب، عن خصيف، عن مجاهد: ﴿ولا بكر﴾ ، صغيرة.
+
+١١٩٧ - حدثني المثنى قال، حدثنا أبو حذيفة قال، حدثنا شبل عن ابن أبي نجيح، عن مجاهد:"البكر"، الصغيرة.
+
+١١٩٨ - حدثنا أبو كريب قال، حدثنا الحسن بن عطية قال، حدثنا شريك، عن خصيف، عن سعيد، عن ابن عباس -أو عكرمة، شك-: ﴿ولا بكر﴾ ، قال: الصغيرة.
+
+١١٩٩ - حدثنا القاسم قال، حدثنا الحسن قال، حدثني حجاج قال، قال ابن جريج، عن عطاء الخراساني، عن ابن عباس: ﴿ولا بكر﴾ ، الصغيرة.
+
+١٢٠٠ - حدثنا القاسم قال، حدثنا الحسين قال، حدثني أبو سفيان، عن معمر، عن قتادة: ﴿ولا بكر﴾ ولا صغيرة.
+
+١٢٠١ - حدثت عن المنجاب قال، حدثنا بشر، عن أبي روق، عن الضحاك، عن ابن عباس: ﴿ولا بكر﴾ ، ولا صغيرة ضعيفة.
+
+١٢٠٢ - حدثني المثنى قال، حدثنا آدم قال، حدثنا أبو جعفر، عن الربيع، عن أبي العالية: ﴿ولا بكر﴾ ، يعني: ولا صغيرة.
+
+١٢٠٣ - حدثت عن عمار قال، حدثنا ابن أبي جعفر، عن أبيه، عن الربيع، مثله.
+
+١٢٠٤ - وحدثني موسى بن هارون قال، حدثنا عمرو قال، حدثنا أسباط، عن السدي: في"البكر"، لم تلد إلا ولدا واحدا.
+
+* *
+
+القول في تأويل قوله تعالى: ﴿عَوَانٌ﴾
+
+قال أبو جعفر:"العوان" النصف التي قد ولدت بطنا بعد بطن، وليست بنعت للبكر. يقال منه:"قد عونت" إذا صارت كذلك.
+
+وإنما معنى الكلام أنه يقول: إنها بقرة لا فارض ولا بكر بل عوان بين ذلك. ولا يجوز أن يكون"عوان" إلا مبتدأ. لأن قوله ﴿بين ذلك﴾ ، كناية عن الفارض والبكر، فلا يجوز أن يكون متقدما عليهما، ومنه قول الأخطل:
+
+وما بمكة من شُمط مُحَفِّلة ... وما بيثرب من عُونٍ وأبكار [[ديوانه: ١١٩، وهو يخالف ما رواه الطبري، وقبله: إني حلفت برب الراقصات وما ... أضحي بمكة من حجب وأستار
+
+وبالهدي - إذا احمرت مذارعها ... في يوم نسك وتشريق وتنحار
+
+وما بزمزم من شمط محلقه ... وما بيثرب من عون وأبكار
+
+يعني: حلقوا رؤوسهم، وقد تحللوا من إحرامهم وقضوا حجتهم، والشمط جمع أشمط: وهو الذي خالط سواد شعره بياض الشيب. فإن صحت رواية الطبري"شمط مُحَفِّلَةٍ"، فكأنها من الحفيل والاحتفال: وهو الجد والاجتهاد، يقال منه: رجل ذو حفيل، وذو حفل وحفلة: له جد واجتهاد ومبالغة فيما أخذ فيه من الأمور. فكأنه عنى: مجتهدون في العبادة والنسك.]]
+
+وجمعها"عون" يقال:"امرأة عوان من نسوة عون". ومنه قول تميم بن مقبل:
+
+ومأتم كالدمي حورٍ مدامعها ... لم تبأس العيش أبكارا ولا عونا [[جمهرة أشعار العرب: ١٦٢، من جيد شعر تميم بن أبي بن مقبل. والمأتم عند العرب: جماعة النساء - أو الرجال - في خير أو شر. قالوا: والعامة تغلط فتظن أن"المأتم" النوح والنياحة. والدمى جمع دمية: الصورة أو التمثال، يتنوق في صنعتها ويبالغ في تحسينها، والعرب تكثر من تشبيه النساء بالدمي. والحور جمع حوراء. والحور أن يشتد بياض بياض العين، وسواد سوادها، تستدير حدقتها، وترق جفونها، ويبيض ما حولها. وقوله: "لم تبأس" أي لم يلحقها بؤس عيش، أو لم تشك بؤس عيش بئس يبأس بؤسا، فهو بائس وبئيس، افتقر واشتد عليه البؤس. وفي الأصل المطبوع، وفي اللسان (أتم) : "لم تيأس" بالياء المثناة، وهو خطأ.]]
+
+وبقرة "عوان، وبقر عون". قال: وربما قالت العرب: "بقر عُوُن" مثل"رسل" يطلبون بذلك الفرق بين جمع"عوان" من البقر، وجمع"عانة" من الحمر. ويقال:"هذه حرب عوان"، إذا كانت حربا قد قوتل فيها مرة بعد مرة. يمثل ذلك بالمرأة التي ولدت بطنا بعد بطن. وكذلك يقال:"حاجة عوان"، إذا كانت قد قضيت مرة بعد مرة.
+
+١٢٠٥ - حدثني يونس قال، أخبرنا ابن وهب، أن ابن زيد أنشده:
+
+قعود لدى الأبواب طلاب حاجة ... عوانٍ من الحاجات أو حاجةً بكرا [[ديوان الفرزدق: ٢٢٧، وطبقات فحول الشعراء: ٢٥٦، وتاريخ الطبري: ١٣٨، وغيرها. وسيأتي في ٧: ١٨٨ (بولاق) ، والشعر في زياد، وقبله: دعاني زياد للعطاء ولم أكن ... لأقربه ما ساق ذو حسب وفرا
+
+وعند زياد، لو يريد عطاءهم، ... رجال كثير قد يرى بهمُ فقرا
+
+ويروى: قعودا، ورواية ابن سلام"طالب حاجة"، ونصب"أو حاجة بكرا" عطفا على محل"حاجة عوان"، فمحلها نصب بقوله: "طلاب".]]
+
+قال أبو جعفر: والبيت للفرزدق.
+
+وبنحو الذي قلنا في ذلك تأوله أهل التأويل.
+
+ذكر من قال ذلك:
+
+١٢٠٦ - حدثنا علي بن سعيد الكندي، حدثنا عبد السلام بن حرب، عن خصيف، عن مجاهد: ﴿عوان بين ذلك﴾ ، وسط، قد ولدت بطنا أو بطنين. [[الخبر: ١٢٠٦ -"على بن سعيد الكندي": ترجمنا له في: ١١٨٤، وفي الأصول هنا"سعد" بدل"سعيد"، وهو خطأ.]]
+
+١٢٠٧ - حدثني محمد بن عمرو قال، حدثنا أبو عاصم، عن عيسى، عن ابن أبي نجيح، عن مجاهد: ﴿عوان﴾ ، قال:"العوان": العانس النصف.
+
+١٢٠٨ - حدثني المثنى قال، حدثنا أبو حذيفة قال، حدثنا شبل، عن ابن أبي نجيح، عن مجاهد:"العوان"، النصف.
+
+١٢٠٩ - حدثنا أبو كريب قال، حدثنا ابن عطية قال، حدثنا شريك، عن خصيف، عن سعيد بن جبير، عن ابن عباس -أو عكرمة، شك شريك- ﴿عوان﴾ ، قال: بين ذلك.
+
+١٢١٠ - حُدثت عن المنجاب قال، حدثنا بشر، عن أبي روق، عن الضحاك، عن ابن عباس: ﴿عوان﴾ ، قال: بين الصغيرة والكبيرة، وهى أقوى ما تكون من البقر والدواب، وأحسن ما تكون.
+
+١٢١١ - حدثنا القاسم قال، حدثنا الحسن قال، حدثني حجاج قال، قال ابن جريج، عن عطاء الخراساني عن ابن عباس: ﴿عوان﴾ ، قال: النصف.
+
+١٢١٢ - حدثني المثنى قال، حدثنا آدم قال، حدثنا أبو جعفر، عن الربيع، عن أبي العالية: ﴿عوان﴾ نَصَف.
+
+١٢١٣ - وحُدثت عن عمار، عن ابن أبي جعفر، عن أبيه، عن الربيع، مثله.
+
+١٢١٤ - حدثنا بشر بن معاذ قال، حدثنا يزيد بن زريع، عن سعيد، عن قتادة:"العوان"، نَصَف بين ذلك.
+
+١٢١٤ - حدثنا أحمد بن إسحاق قال، حدثنا أبو أحمد الزبيري قال، حدثنا شريك، عن خصيف، عن مجاهد: ﴿عوان﴾ ، التي تنتج شيئا بشرط أن تكون التي قد نتجت بكرة أو بكرتين.
+
+١٢١٥ - حدثنا موسى قال، حدثنا عمرو قال، حدثنا أسباط، عن السدي:"العوان"، النصَف التي بين ذلك، التي قد ولدت وولد ولدُها.
+
+١٢١٦ - حدثني يونس قال، أخبرنا ابن وهب قال، قال ابن زيد:"العوان"، بين ذلك، ليست ببكر ولا كبيرة.
+
+* *
+
+القول في تأويل قوله تعالى: ﴿بَيْنَ ذَلِكَ﴾
+
+قال أبو جعفر: يعني بقوله: ﴿بين ذلك﴾ بين البكر والهرمة، كما:-
+
+١٢١٧ - حدثني المثنى قال، حدثنا آدم قال، حدثنا أبو جعفر، عن الربيع، عن أبي العالية: ﴿بين ذلك﴾ ، أي بين البكر والهرمة.
+
+* *
+
+فإن قال قائل: قد علمت أن"بين" لا تصلح إلا أن تكون مع شيئين فصاعدا، فكيف قيل"بين ذلك" و"ذلك" واحد في اللفظ؟
+
+قيل: إنما صلحت مع كونها واحدة، لأن"ذلك" بمعنى اثنين، والعرب تجمع في"ذلك" و"ذاك" شيئين ومعنيين من الأفعال، كما يقول القائل:"أظن أخاك قائما، وكان عمرو أباك"، [[عبارة الفراء هنا أوضح قال: فلا بد لـ"كان" من شيئين"، ولا بد لـ"أظن" من شيئين ثم يجوز أن تقول: "قد كان ذاك، وأظن ذلك". معاني القرآن ١: ٤٥.]] ثم يقول:"قد كان ذاك، وأظن ذلك". فيجمع ب"ذلك" و"ذاك" الاسم والخبر، الذي كان لا بد لـ "ظن" و "كان" منهما. [[كان في المطبوعة: "الذي كان لا بد للظن وكان منهما"، وهو كلام يضطرب.]]
+
+* *
+
+فمعنى الكلام: قال: إنه يقول إنما بقرة لا مسنة هرمة، ولا صغيرة لم تلد، ولكنها بقرة نصف قد ولدت بطنا بعد بطن، بين الهرم والشباب. فجمع"ذلك" معنى الهرم والشباب لما وصفنا، ولو كان مكان الفارض والبكر اسما شخصين، لم يجمع مع"بين" ذلك. وذلك أن"ذلك" لا يؤدي عن اسم شخصين، وغير جائز لمن قال:"كنت بين زيد وعمرو"، أن يقول:"كنت بين ذلك"، وإنما يكون ذلك مع أسماء الأفعال دون أسماء الأشخاص. [[انظر معاني القرآن للفراء ١: ٤٥.]]
+
+* *
+
+القول في تأويل قوله تعالى: ﴿فَافْعَلُوا مَا تُؤْمَرُونَ (٦٨) ﴾
+
+قال أبو جعفر: يقول الله لهم جل ثناؤه: افعلوا ما آمركم به، تدركوا حاجاتكم وطلباتكم عندي؛ واذبحوا البقرة التي أمرتكم بذبحها، تصلوا - بانتهائكم إلى طاعتي بذبحها - إلى العلم بقاتل قتيلكم.
 
 ### al-Muyassar (Arabic)
 
@@ -112,7 +932,7 @@ Allah mentioned the stubbornness of the Children of Israel and the many unnecess
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+فَلَمّا عَلِمُوا أنَّهُ عَزَمَ ﴿قالُوا اُدْعُ لَنا رَبّك يُبَيِّن لَنا ما هِيَ﴾ أيْ ما سِنّها ﴿قالَ﴾ مُوسى ﴿إنّهُ﴾ أيْ اللَّه ﴿يَقُول إنّها بَقَرَة لا فارِض﴾ مُسِنَّة ﴿ولا بِكْر﴾ صَغِيرَة ﴿عَوان﴾ نِصْف ﴿بَيْن ذَلِكَ﴾ المَذْكُور مِن السِّنِينَ ﴿فافْعَلُوا ما تُؤْمَرُونَ﴾ بِهِ مِن ذَبْحها
 
 ---
 
@@ -120,12 +940,143 @@ Allah mentioned the stubbornness of the Children of Israel and the many unnecess
 
 ### Ibn Kathir (English)
 
+They said, "Call upon your Lord for us that He may make plain to us what it is!" He said, "He says, 'Verily, it is a cow neither too old nor too young, but (it is) between the two conditions', so do what you are commanded. (68)They said, "Call upon your Lord for us to make plain to us its colour." He said, "He says, 'It is a yellow cow, bright in its colour, pleasing the beholders.' ( 69)They said, "Call upon your Lord for us to make plain to us what it is. Verily, to us all cows are alike. And surely, if Allah wills, we will be guided. ( 70)He (Musa) said, "He says, 'It is a cow neither trained to till the soil nor water the fields, sound, having no blemish in it.'" They said, "Now you have brought the truth." So they slaughtered it though they were near to not doing it (71)
+
 The Stubbornness of the Jews regarding the Cow; Allah made the Matter difficult for Them
-Allah mentioned the stubbornness of the Children of Israel and the many unnecessary questions they asked their Messengers. This is why when they were stubborn, Allah made the decisions difficult for them. Had they slaughtered a cow, any cow, it would have been sufficient for them, as Ibn `Abbas and `Ubaydah have said. Instead, they made the matter difficult, and this is why Allah made it even more difficu...
+
+Allah mentioned the stubbornness of the Children of Israel and the many unnecessary questions they asked their Messengers. This is why when they were stubborn, Allah made the decisions difficult for them. Had they slaughtered a cow, any cow, it would have been sufficient for them, as Ibn 'Abbas and 'Ubaydah have said. Instead, they made the matter difficult, and this is why Allah made it even more difficult for them. They said,
+
+ادْعُ لَنَا رَبَّكَ يُبَيِّن لَّنَا مَا هِيَ
+
+(Call upon your Lord for us that He may make plain to us what it is!), meaning, "What is this cow and what is its description?" Musa said,
+
+إِنَّهُ يَقُولُ إِنَّهَا بَقَرَةٌ لَّا فَارِضٌ وَلَا بِكْرٌ
+
+(He says, 'Verily, it is a cow neither too old nor too young'), meaning, that it is neither old nor below the age of breeding. This is the opinion of Abu Al-'Aliyah, As-Suddi, Mujahid, 'Ikrimah, 'Atiyah Al-'Awfi, 'Ata', Al-Khurasani, Wahb bin Munabbih, Ad-Dahhak, Al-Hasan, Qatadah and Ibn 'Abbas. Ad-Dahhak reported that Ibn 'Abbas said that,
+
+عَوَانٌ بَيْنَ ذَٰلِكَ
+
+(But (it is) between the two conditions) means, "Neither old nor young. Rather, she was at the age when the cow is strongest and fittest." In his Tafsir Al-'Awfi reported from Ibn 'Abbas that,
+
+فَاقِعٌ لَّوْنُهَا
+
+(bright in its colour) "A deep yellowish white."
+
+As-Suddi said,
+
+تَسُرُّ النَّاظِرِينَ
+
+(pleasing the beholder) meaning, that it pleases those who see it. This is also the opinion of Abu Al-'Aliyah, Qatadah and Ar-Rabi' bin Anas. Furthermore, Wahb bin Munabbih said, "If you look at the cow's skin, you will think that the sun's rays radiate through its skin." The modern version of the Tawrah mentions that the cow in the Ayah was red, but this is an error. Or, it might be that the cow was so yellow that it appeared blackish or reddish in color. Allah's knows best.
+
+إِنَّ الْبَقَرَ تَشَابَهَ عَلَيْنَا
+
+(Verily, to us all cows are alike) this means, that since cows are plentiful, then describe this cow for us further,
+
+وَإِنَّا إِن شَاءَ اللَّهُ
+
+(And surely, if Allah wills) and if you further describe it to us,
+
+لَمُهْتَدُونَ
+
+(we will be guided.)
+
+قَالَ إِنَّهُ يَقُولُ إِنَّهَا بَقَرَةٌ لَّا ذَلُولٌ تُثِيرُ الْأَرْضَ وَلَا تَسْقِي الْحَرْثَ
+
+(He says, 'It is a cow neither trained to till the soil nor water the fields') meaning, it is not used in farming, or for watering purposes. Rather, it is honorable and fair looking. 'Abdur-Razzaq said that Ma'mar said that Qatadah said that,
+
+مُسَلَّمَةٌ
+
+(sound) means, "The cow does not suffer from any defects." This is also the opinion of Abu Al-'Aliyah and Ar-Rabi'. Mujahid also said that the Ayah means the cow is free from defects. Further, 'Ata' Al-Khurasani said that the Ayah means that its legs and body are free of physical defects.
+
+Also, Ad-Dahhak said that Ibn 'Abbas said that the Ayah,
+
+فَذَبَحُوهَا وَمَا كَادُوا يَفْعَلُونَ
+
+(So they slaughtered it though they were near to not doing it) means, "They did not want to slaughter it."
+
+This means that even after all the questions and answers about the cow's description, the Jews were still reluctant to slaughter the cow. This part of the Qur'an criticized the Jews for their behavior, because their only goal was to be stubborn, and this is why they nearly did not slaughter the cow. Also, 'Ubaydah, Mujahid, Wahb bin Munabbih, Abu Al-'Aliyah and 'Abdur-Rahman bin Zayd bin Aslam said, "The Jews bought the cow with a large amount of money." There is a difference of opinion over this.
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله تعالى :  قَالُوا ادْعُ لَنَا رَبَّكَ يُبَيِّنْ لَنَا مَا لَوْنُهَا قَالَ إِنَّهُ يَقُولُ إِنَّهَا بَقَرَةٌ صَفْرَاءُقال أبو جعفر: ومعنى ذلك: قال قوم موسى لموسى: ادع لنا ربك يبين لنا ما لونها؟ أي لون البقرة التي أمرتنا بذبحها. وهذا أيضا تعنت آخر منهم بعد الأول, وتكلف طلب ما قد كانوا كفوه في المرة الثانية والمسألة الآخرة. وذلك أنهم لم يكونوا حصروا في المرة الثانية - إذ قيل لهم بعد مسألتهم عن حلية البقرة التي كانوا أمروا بذبحها، فأبوا إلا تكلف ما قد كفوه من المسألة عن صفتها، ...
+القول في تأويل قوله تعالى: ﴿قَالُوا ادْعُ لَنَا رَبَّكَ يُبَيِّنْ لَنَا مَا لَوْنُهَا قَالَ إِنَّهُ يَقُولُ إِنَّهَا بَقَرَةٌ صَفْرَاءُ﴾
+
+قال أبو جعفر: ومعنى ذلك: قال قوم موسى لموسى: ادع لنا ربك يبين لنا ما لونها؟ أي لون البقرة التي أمرتنا بذبحها. وهذا أيضا تعنت آخر منهم بعد الأول، وتكلف طلب ما قد كانوا كفوه في المرة الثانية والمسألة الآخرة. وذلك أنهم لم يكونوا حصروا في المرة الثانية - إذ قيل لهم بعد مسألتهم عن حلية البقرة التي كانوا أمروا بذبحها، فأبوا إلا تكلف ما قد كفوه من المسألة عن صفتها، فحصروا على نوع دون سائر الأنواع، عقوبة من الله لهم على مسألتهم التي سألوها نبيهم ﷺ، تعنتا منهم له. ثم لم يحصرهم على لون منها دون لون، فأبوا إلا تكلف ما كانوا عن تكلفه أغنياء، فقالوا - تعنتا منهم لنبيهم ﷺ كما ذكر ابن عباس-: ﴿ادع لنا ربك يبين لنا ما لونها﴾ فقيل لهم عقوبة لهم: ﴿إنها بقرة صفراء فاقع لونها تسر الناظرين﴾ . فحصروا على لون منها دون لون. ومعنى ذلك: أن البقرة التي أمرتكم بذبحها صفراء فاقع لونها.
+
+* *
+
+قال أبو جعفر: ومعنى قوله: ﴿يبين لنا ما لونها﴾ ، أي شيء لونها؟ فلذلك كان اللون مرفوعا، لأنه مرافع"ما". وإنما لم ينصب"ما" بقوله"يبين لنا"، لأن أصل"أي" و"ما"، جمع متفرق الاستفهام. يقول القائل [[في الأصل المطبوعة"كقول القائل"، وهو فساد.]] بين لنا أسوداء هذه البقرة أم صفراء؟ فلما لم يكن لقوله:"بين لنا" أن يقع على الاستفهام متفرقا، لم يكن له أن يقع على"أي"، لأنه جمع ذلك المتفرق. [[كانت هذه الجملة في المطبوعة: "فلما لم يكن كقوله: بين لنا، ارتفع على الاستفهام منصرفا، لم يكن له ارتفع على أي. . "، وهو كلام ضرب عليه التصحيف ضربا. وانظر ما جاء في معاني الفراء ١: ٤٦ - ٤٨، ففيه بيان شاف كاف.]] وكذلك كل ما كان من نظائره فالعمل فيه واحد، في"ما" و"أي".
+
+واختلف أهل التأويل في معنى قوله: ﴿صفراء﴾ . فقال بعضهم: معنى ذلك سوداء شديدة السواد.
+
+ذكر من قال ذلك منهم:
+
+١٢١٨ - حدثني أبو مسعود إسماعيل بن مسعود الجحدري قال، حدثنا نوح بن قيس، عن محمد بن سيف، عن الحسن: ﴿صفراء فاقع لونها﴾ ، قال: سوداء شديدة السواد. [[الخبر: ١٢١٨ - أبو مسعود إسماعيل بن مسعود الجحدري البصري: ثقة، روى عنه أيضًا النسائي وأبو حاتم. مترجم في التهذيب، وابن أبي حاتم ١ / ١ ٢٠٠ مات سنة ٢٤٨. نوح بن قيس بن رباح الأزدي الحداني:، ثقة، مترجم في التهذيب، والكبير ٤ / ١ /١١١ - ١١٢، وابن أبي حاتم ٤ / ١ / ٤٨٣.]]
+
+١٢١٩ - حدثني أبو زائدة زكريا بن يحيى بن أبي زائده. والمثنى بن إبراهيم قالا حدثنا مسلم بن إبراهيم قال، حدثنا نوح بن قيس، عن محمد بن سيف، عن أبي رجاء، عن الحسن مثله. [[الخبر: ١٢١٩ - أبو زائدة زكريا بن يحيى بن أبي يحيى بن أبي زائدة: ثقة، روى عنه أبو حاتم وغيره، وذكر بعضهم أن البخاري روى عنه. وهو مترجم في التهذيب، وابن أبي حاتم ١/٢/٦٠١ - ٦٠٢. مسلم بن إبراهيم: هو الأزدي الفراهيدي الحافظ. محمد بن سيف عن أبي رجاء". وهو خطأ، صوابه حذف"عن".]]
+
+* *
+
+وقال آخرون: معنى ذلك: صفراء القرن والظلف.
+
+ذكر من قال ذلك:
+
+١٢٢٠ - حدثني هشام بن يونس النهشلي قال، حدثنا حفص بن غياث، عن أشعث، عن الحسن في قوله: ﴿صفراء فاقع لونها﴾ ، قال: صفراء القرن والظلف. [[الخبر: ١٢٢٠ - هشام بن يونس بن وابل النهشلي اللؤلؤي: ثقة، روى عنه الترمذي، وسمع منه أبو حاتم. مترجم في التهذيب، وابن أبي حاتم ٤ / ٢ / ٧٢.]]
+
+١٢٢١ - حدثني يعقوب بن إبراهيم قال، حدثني هشيم قال، أخبرنا جويبر، عن كثير بن زياد، عن الحسن في قوله: ﴿صفراء فاقع لونها﴾ ، قال: كانت وحشية. [[الخبر: ١٢٢١ - كثير بن زياد أبو سهل البرساني - بضم الموحدة وسكون الراء- الأزدي العتكي: ثقة من أكابر أصحاب الحسن. مترجم في التهذيب، والكبير ٤ / ١ /٢١٥، وابن أبي حاتم ٣ / ٢ / ١٥١. والإسناد ضعيف، من أجل"جويبر بن سعيد"، كما ذكرنا ضعفه في: ٢٨٤. وسيأتي قريبا برقم: ١٢٥٤.]]
+
+١٢٢٢ - حدثني يعقوب قال، حدثنا مروان بن معاوية، عن إبراهيم، عن أبي حفص، عن مغراء - أو عن رجل -، عن سعيد بن جبير: ﴿بقرة صفراء فاقع لونها﴾ ، قال: صفراء القرن والظلف. [[الخبر: ١٢٢٢ - مروان بن معاوية: هو الفزاري الكوفي الحافظ، من شيوخ أحمد وإسحاق والأئمة. مغراء، بفتح الميم وسكون الغين المعجمة: تابعي روى عن ابن عمر، وذكره ابن حبان في الثقات، وترجمه البخاري في الكبير ٤ / ٢ / ٦٥، وابن أبي حاتم ٤ / ١/٤٢٩، فلم يذكروا فيه جرحا. ولكن هذا الإسناد ضعيف، لتردد الراوي: أنه عن مغراء، أو عن رجل، فتردد بين ثقة وبين مبهم]]
+
+١٢٢٣ - حدثني يونس قال، أخبرنا ابن وهب قال، قال ابن زيد: هي صفراء.
+
+١٢٢٤ - حدثني محمد بن عمرو قال، حدثنا الضحاك بن مخلد، عن عيسى، عن ابن أبي نجيح، عن مجاهد: ﴿إنها بقرة صفراء فاقع لونها﴾ ، قال: لو أخذوا بقرة صفراء لأجزأت عنهم.
+
+* *
+
+قال أبو جعفر: وأحسب أن الذي قال في قوله: ﴿صفراء﴾ ، يعني به سوداء، ذهب إلى قوله في نعت الإبل السود: [[في المطبوعة: "ذهب إلى قوله"، وليس بشيء.]] "هذه إبل صفر، وهذه ناقة صفراء" يعني بها سوداء. وإنما قيل ذلك في الإبل لأن سوادها يضرب إلى الصفرة، ومنه قول الشاعر: [[هو الأعشى الكبير.]]
+
+تلك خيلي منه وتلك ركابي ... هن صفر أولادها كالزبيب [[ديوانه: ٢١٩، والأضداد: ١٣٨، واللسان (صفر) ، وغيرها. من قصيدة يمدح بها أبا الأشعث قيس بن معد يكرب الكندي. وكان في الأصل: "تلك خيلي منها" وهو خطأ، فسياق الشعر: إن قيسا، قيس الفعال أبا الأشـ ... عث أمست أمداؤه لِشعوب
+
+كل عام يمدني بجموم ... عند وضع العنان أو بنجيب
+
+تلك خيلي منه ... . . . . . . . . . . . . . . . . . . . . .
+
+وما أظن الطبري يخطئ في رواية هذا الشعر، والركاب: الإبل التي يسار عليها، لا واحد لها من لفظها، واحدتها راحلة. والزبيب: ذاوي العنب، وأسوده أجوده، ولكنه ليس خالص السواد. يقول: كل ما أملك من خيل، ومن إبل قد ولدت لي خير ما تلد الإبل، فهو من جود أبي الأشعث.]] يعني بقوله:"هن صفر" هن سود وذلك إن وصفت الإبل به، فليس مما توصف به البقر. مع أن العرب لا تصف السواد بالفقوع، وإنما تصف السواد -إذا وصفته- بالشدة بالحلوكة ونحوها، فتقول:"هو أسود حالك وحانك وحُلكوك، وأسود غِربيب ودَجوجي" - ولا تقول: هو أسود فاقع. وإنما تقول:"هو أصفر فاقع". فوصفه إياه بالفقوع، من الدليل البين على خلاف التأويل الذي تأول قوله: ﴿إنها بقرة صفراء فاقع﴾ المتأول، بأن معناه سوداء شديدة السواد. [[مجرى العبارة: الذي تأول المتأول بأن معناه. "المتأول" فاعل مرفوع.]]
+
+* *
+
+القول في تأويل قوله تعالى: ﴿فَاقِعٌ لَوْنُهَا﴾
+
+قال أبو جعفر: يعني خالص لونها. و"الفقوع" في الصفر، نظير النصوع في البياض، وهو شدته وصفاؤه، كما:-
+
+١٢٢٥ - حدثنا الحسن بن يحيى قال، أخبرنا عبد الرزاق قال، أخبرنا معمر قال، قال قتادة: ﴿فاقع لونها﴾ ، هي الصافي لونها.
+
+١٢٢٦ - حدثني المثنى قال، حدثنا آدم قال، حدثنا أبو جعفر، عن الربيع، عن أبي العالية: ﴿فاقع لونها﴾ ، أي صاف لونها.
+
+١٢٢٧ - حُدثت عن عمار قال، حدثنا ابن أبي جعفر، عن أبيه، عن الربيع بمثله.
+
+١٢٢٨ - حدثنا موسى قال، حدثنا عمرو قال، حدثنا أسباط، عن السدي: ﴿فاقع﴾ ، قال: نقي لونها.
+
+١٢٢٩ - حدثني محمد بن سعد قال، حدثني أبي قال، حدثني عمي قال، حدثني أبي عن أبيه، عن ابن عباس: ﴿فاقع لونها﴾ ، شديدة الصفرة، تكاد من صفرتها تَبْيَضُّ. وقال أبو جعفر: أُراه أبيض! [[كأن أبا جعفر أراد أن يعترض على قوله: "تكاد من صفرتها تبيض"، فقال ما معناه: لو صح ذلك لكان قوله: "فاقع لونها"، أي أبيض، والصفرة تشتد، فإذا خفت ابيضت. هذا هو معنى ما قاله فيما أرجح.]]
+
+١٢٣٠ - حدثني يونس قال، أخبرنا ابن وهب قال، قال ابن زيد في قوله: ﴿فاقع لونها﴾ ، قال: شديدة صفرتها.
+
+* *
+
+يقال منه:"فقع لونه يفقع ويفقع فقعا وفقوعا، فهو فاقع، كما قال الشاعر:
+
+حملت عليه الوَرد حتى تركته ... ذليلا يسُف الترب واللون فاقع [[لم أعرف قائله. والورد: فرسه.]]
+
+* *
+
+القول في تأويل قوله تعالى: ﴿تَسُرُّ النَّاظِرِينَ (٦٩) ﴾
+
+قال أبو جعفر: يعني بقوله: ﴿تسر الناظرين﴾ ، تعجب هذه البقرة -في حسن خلقها ومنظرها وهيئتها- الناظر إليها، كما:-
+
+١٢٣١ - حدثنا بشر قال، حدثنا يزيد قال، حدثنا سعيد، عن قتادة: ﴿تسر الناظرين﴾ ، أي تعجب الناظرين.
+
+١٢٣٢ - حدثني المثنى قال، حدثنا إسحاق قال، حدثنا إسماعيل بن عبد الكريم قال، حدثني عبد الصمد بن معقل أنه سمع وهبا: ﴿تسر الناظرين﴾ ، إذا نظرت إليها يخيل إليك أن شعاع الشمس يخرج من جلدها.
+
+١٢٣٣ - حدثنا موسى قال، حدثنا عمرو قال، حدثنا أسباط، عن السدي: ﴿تسر الناظرين﴾ ، قال: تعجب الناطرين.
 
 ### al-Muyassar (Arabic)
 
@@ -133,7 +1084,7 @@ Allah mentioned the stubbornness of the Children of Israel and the many unnecess
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿قالُوا اُدْعُ لَنا رَبّك يُبَيِّن لَنا ما لَوْنها قالَ إنّهُ يَقُول إنّها بَقَرَة صَفْراء فاقِع لَوْنها﴾ شَدِيد الصُّفْرَة ﴿تَسُرّ النّاظِرِينَ﴾ إلَيْها بِحُسْنِها أيْ تُعْجِبهُمْ
 
 ---
 
@@ -141,20 +1092,145 @@ Allah mentioned the stubbornness of the Children of Israel and the many unnecess
 
 ### Ibn Kathir (English)
 
+They said, "Call upon your Lord for us that He may make plain to us what it is!" He said, "He says, 'Verily, it is a cow neither too old nor too young, but (it is) between the two conditions', so do what you are commanded. (68)They said, "Call upon your Lord for us to make plain to us its colour." He said, "He says, 'It is a yellow cow, bright in its colour, pleasing the beholders.' ( 69)They said, "Call upon your Lord for us to make plain to us what it is. Verily, to us all cows are alike. And surely, if Allah wills, we will be guided. ( 70)He (Musa) said, "He says, 'It is a cow neither trained to till the soil nor water the fields, sound, having no blemish in it.'" They said, "Now you have brought the truth." So they slaughtered it though they were near to not doing it (71)
+
 The Stubbornness of the Jews regarding the Cow; Allah made the Matter difficult for Them
-Allah mentioned the stubbornness of the Children of Israel and the many unnecessary questions they asked their Messengers. This is why when they were stubborn, Allah made the decisions difficult for them. Had they slaughtered a cow, any cow, it would have been sufficient for them, as Ibn `Abbas and `Ubaydah have said. Instead, they made the matter difficult, and this is why Allah made it even more difficu...
+
+Allah mentioned the stubbornness of the Children of Israel and the many unnecessary questions they asked their Messengers. This is why when they were stubborn, Allah made the decisions difficult for them. Had they slaughtered a cow, any cow, it would have been sufficient for them, as Ibn 'Abbas and 'Ubaydah have said. Instead, they made the matter difficult, and this is why Allah made it even more difficult for them. They said,
+
+ادْعُ لَنَا رَبَّكَ يُبَيِّن لَّنَا مَا هِيَ
+
+(Call upon your Lord for us that He may make plain to us what it is!), meaning, "What is this cow and what is its description?" Musa said,
+
+إِنَّهُ يَقُولُ إِنَّهَا بَقَرَةٌ لَّا فَارِضٌ وَلَا بِكْرٌ
+
+(He says, 'Verily, it is a cow neither too old nor too young'), meaning, that it is neither old nor below the age of breeding. This is the opinion of Abu Al-'Aliyah, As-Suddi, Mujahid, 'Ikrimah, 'Atiyah Al-'Awfi, 'Ata', Al-Khurasani, Wahb bin Munabbih, Ad-Dahhak, Al-Hasan, Qatadah and Ibn 'Abbas. Ad-Dahhak reported that Ibn 'Abbas said that,
+
+عَوَانٌ بَيْنَ ذَٰلِكَ
+
+(But (it is) between the two conditions) means, "Neither old nor young. Rather, she was at the age when the cow is strongest and fittest." In his Tafsir Al-'Awfi reported from Ibn 'Abbas that,
+
+فَاقِعٌ لَّوْنُهَا
+
+(bright in its colour) "A deep yellowish white."
+
+As-Suddi said,
+
+تَسُرُّ النَّاظِرِينَ
+
+(pleasing the beholder) meaning, that it pleases those who see it. This is also the opinion of Abu Al-'Aliyah, Qatadah and Ar-Rabi' bin Anas. Furthermore, Wahb bin Munabbih said, "If you look at the cow's skin, you will think that the sun's rays radiate through its skin." The modern version of the Tawrah mentions that the cow in the Ayah was red, but this is an error. Or, it might be that the cow was so yellow that it appeared blackish or reddish in color. Allah's knows best.
+
+إِنَّ الْبَقَرَ تَشَابَهَ عَلَيْنَا
+
+(Verily, to us all cows are alike) this means, that since cows are plentiful, then describe this cow for us further,
+
+وَإِنَّا إِن شَاءَ اللَّهُ
+
+(And surely, if Allah wills) and if you further describe it to us,
+
+لَمُهْتَدُونَ
+
+(we will be guided.)
+
+قَالَ إِنَّهُ يَقُولُ إِنَّهَا بَقَرَةٌ لَّا ذَلُولٌ تُثِيرُ الْأَرْضَ وَلَا تَسْقِي الْحَرْثَ
+
+(He says, 'It is a cow neither trained to till the soil nor water the fields') meaning, it is not used in farming, or for watering purposes. Rather, it is honorable and fair looking. 'Abdur-Razzaq said that Ma'mar said that Qatadah said that,
+
+مُسَلَّمَةٌ
+
+(sound) means, "The cow does not suffer from any defects." This is also the opinion of Abu Al-'Aliyah and Ar-Rabi'. Mujahid also said that the Ayah means the cow is free from defects. Further, 'Ata' Al-Khurasani said that the Ayah means that its legs and body are free of physical defects.
+
+Also, Ad-Dahhak said that Ibn 'Abbas said that the Ayah,
+
+فَذَبَحُوهَا وَمَا كَادُوا يَفْعَلُونَ
+
+(So they slaughtered it though they were near to not doing it) means, "They did not want to slaughter it."
+
+This means that even after all the questions and answers about the cow's description, the Jews were still reluctant to slaughter the cow. This part of the Qur'an criticized the Jews for their behavior, because their only goal was to be stubborn, and this is why they nearly did not slaughter the cow. Also, 'Ubaydah, Mujahid, Wahb bin Munabbih, Abu Al-'Aliyah and 'Abdur-Rahman bin Zayd bin Aslam said, "The Jews bought the cow with a large amount of money." There is a difference of opinion over this.
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله تعالى :  قَالُوا ادْعُ لَنَا رَبَّكَ يُبَيِّنْ لَنَا مَا هِيَ إِنَّ الْبَقَرَ تَشَابَهَ عَلَيْنَا وَإِنَّا إِنْ شَاءَ اللَّهُ لَمُهْتَدُونَ (70)قال أبو جعفر: يعني بقوله: (قالوا) قال قوم موسى - الذين أمروا بذبح البقرة - لموسى. فترك ذكر موسى، وذكر عائد ذكره، اكتفاء بما دل عليه ظاهر الكلام. وذلك أن معنى الكلام: قالوا له: " ادع ربك ". فلم يذكر " له " لما وصفنا.وقوله: (يبين لنا ما هي)، خبر من الله عن القوم بجهلة منهم ثالثة. وذلك أنهم لو كانوا، إذ أمروا بذبح البقرة، ذبحوا أيتها ...
+القول في تأويل قوله تعالى: ﴿قَالُوا ادْعُ لَنَا رَبَّكَ يُبَيِّنْ لَنَا مَا هِيَ إِنَّ الْبَقَرَ تَشَابَهَ عَلَيْنَا وَإِنَّا إِنْ شَاءَ اللَّهُ لَمُهْتَدُونَ (٧٠) ﴾
+
+قال أبو جعفر: يعني بقوله: ﴿قالوا﴾ قال قوم موسى - الذين أمروا بذبح البقرة - لموسى. فترك ذكر موسى، وذكر عائد ذكره، اكتفاء بما دل عليه ظاهر الكلام. وذلك أن معنى الكلام: قالوا له:"ادع ربك". فلم يذكر"له" لما وصفنا.
+
+وقوله: ﴿يبين لنا ما هي﴾ ، خبر من الله عن القوم بجهلة منهم ثالثة. وذلك أنهم لو كانوا، إذ أمروا بذبح البقرة، ذبحوا أيتها تيسرت مما يقع عليه اسم بقرة، كانت عنهم مجزئة، ولم يكن عليهم غيرها، لأنهم لم يكونوا كلفوها بصفة دون صفة. فلما سألوا بيانها بأي صفة هي، بين لهم أنها بسن من الأسنان دون سن سائر الأسنان، [[في المطبوعة: "فبين لهم أنها بسن. . "، والفاء لا مكان لها هنا.]] فقيل لهم: هي عوان بين الفارض والبكر والضرع. [[الضرع: الضعيف الضاوي الجسم.]] فكانوا - إذْ بينت لهم سنها- لو ذبحوا أدنى بقرة بالسن التي بينت لهم، كانت عنهم مجزئة، لأنهم لم يكونوا كلفوها بغير السن التي حدت لهم، ولا كانوا حصروا على لون منها دون لون. فلما أبوا إلا أن تكون معرفة لهم بنعوتها، مبينة بحدودها التي تفرق بينها وبين سائر بهائم الأرض، فشددوا على أنفسهم - شدد الله عليهم بكثرة سؤالهم نبيهم واختلافهم عليه. ولذلك قال نبينا ﷺ لأمته:-
+
+١٢٣٤ -"ذروني ما تركتكم، فإنما أُهلك من كان قبلكم بكثرة سؤالهم واختلافهم على أنبيائهم. فإذا أمرتكم بشيء فأتوه، وإذا نهيتكم عن شيء فانتهوا عنه ما استطعتم". [[الحديث: ١٢٣٤ - رواه هنا دون إسناد. وهو من حديث أبي هريرة. ووقع في آخره خطأ، قلب معناه. واللفظ الصحيح، بالمعنى الصحيح؛"فإذا نهيتكم عن شيء فاجتنبوه، وإذا أمرتكم بشيء فأتوا منه ما استطعتم". هذا لفظ البخاري. وقد أفاض الحافظ في شرحه، في الفتح ١٣: ٢١٩ - ٢٢٦. ورواه أيضًا أحمد: ٧٣٦١، بنحو معناه. وأشرنا هناك إلى كثير من طرقه في المسند وغيره وكذلك رواه مسلم ٢: ٢٢١، بنحوه، من طرق. وكذلك رواه ابن حبان في صحيحه، من طرق: ١٧، ١٨، ١٩، ٢٠ (بتحقيقنا) وفي رواية ابن حبان: ١٧، "قال ابن عجلان: فحدثت به أبان بن صالح، فقال لي: ما أجود هذه الكلمة، قوله: فأتوا منه ما استطعتم". وهو الحديث التاسع من الأربعين النووية، وقد شرحه ابن رجب، في جامع العلوم والحكم، شرحا مسهبا. ولعل الخطأ الذي وقع هنا خطأ من الناسخين. فما أظن الطبري يخفي عليه ما في هذا اللفظ من تهافت.]]
+
+قال أبو جعفر: ولكن القوم لما زادوا نبيهم موسى ﷺ أذى وتعنتا، زادهم الله عقوبة وتشديدا، كما:-
+
+١٢٣٥ - حدثنا أبو كريب قال، حدثنا عثام بن علي، عن الأعمش، عن المنهال بن عمرو، عن سعيد بن جبير، عن ابن عباس، قال: لو أخذوا أدنى بقرة اكتفوا بها، لكنهم شددوا فشدد الله عليهم.
+
+١٢٣٦ - حدثنا محمد بن عبد الأعلى قال، حدثنا المعتمر قال، سمعت أيوب، عن محمد بن سيرين، عن عَبيدة قال: لو أنهم أخذوا أدنى بقرة لأجزأت عنهم. [[الخبر: ١٢٣٦ - جاء شيخ الطبري هنا باسم"عمرو بن عبد الأعلى"! وما وجدت راويا يسمى بهذا. وإنما هو"محمد بن عبد الأعلى الصنعاني"، من شيوخ مسلم وأبي داود وغيرهما، كما مضى مثل هذا الإسناد على الصواب: ١١٧٢. ومحمد بن عبد الأعلى: بصري ثقة، مات سنة ٢٤٥، مترجم في التهذيب، والكبير للبخاري ١ / ١ / ١٧٤، وابن أبي حاتم ٤ / ١ /١٦.]]
+
+١٢٣٧ - حدثنا الحسن بن يحيى قال، أخبرنا عبد الرزاق قال، أخبرنا معمر عن أيوب-
+
+١٢٣٨ - وحدثني المثنى قال، حدثنا آدم قال، حدثنا أبو جعفر، عن هشام بن حسان جميعا، عن ابن سيرين، عن عبيدة السلماني قال: سألوا وشددوا فشدد الله عليهم.
+
+١٢٣٩ - حدثنا الحسن بن يحيى قال، أخبرنا عبد الرزاق قال، أخبرنا ابن عيينة، عن عمرو بن دينار، عن عكرمة قال: لو أخذ بنو إسرائيل بقرة لأجزأت عنهم. ولولا قولهم: ﴿وإنا إن شاء الله لمهتدون﴾ ، لما وجدوها.
+
+١٢٤٠ - حدثني محمد بن عمرو قال، حدثنا أبو عاصم، عن عيسى، عن ابن أبي نجيح، عن مجاهد في قول الله: ﴿وإذ قال موسى لقومه إن الله يأمركم أن تذبحوا بقرة﴾ ، لو أخذوا بقرة ما كانت، لأجزأت عنهم. ﴿قالوا ادع لنا ربك يبين لنا ما هي قال إنه يقول إنها بقرة لا فارض ولا بكر﴾ ، قال: لو أخذوا بقرة من هذا الوصف لأجزأت عنهم. ﴿قالوا ادع لنا ربك يبين لنا ما لونها قال إنه يقول إنها بقرة صفراء فاقع لونها تسر الناظرين﴾ ، قال: لو أخذوا بقرة صفراء لأجزأت عنهم. ﴿قالوا ادع لنا ربك يبين لنا ما هي * قال إنه يقول إنها بقرة لا ذلول تثير الأرض ولا تسقي الحرث﴾ الآية.
+
+١٢٤١ - حدثني المثنى بن إبراهيم قال، حدثنا أبو حذيفة قال، حدثنا شبل، عن ابن أبي نجيح، عن مجاهد بنحوه، وزاد فيه: ولكنهم شددوا فشدد عليهم.
+
+١٢٤٢ - حدثنا القاسم قال، حدثنا الحسين قال، حدثتي حجاج قال، قال ابن جريج قال، مجاهد:"لو أخذوا بقرة مَّا كانت أجزأت عنهم. قال ابن جريج، قال لي عطاء: لو أخذوا أدنى بقرة كفتهم. قال ابن جريج، قال رسول الله ﷺ: إنما أمروا بأدنى بقرة، ولكنهم لما شددوا على أنفسهم شُدد الله عليهم؛ وأيم الله لو أنهم لم يستثنوا لما بينت لهم آخر الأبد". [[الخبر: ١٢٤٢ - جاء في آخره حديث مرفوع، ذكره ابن جريج. وهو مرسل لا تقوم به حجة. وسيأتي أيضًا: ١٢٤٤، عن قتادة مرسلا. وذكر معناه ابن كثير ١: ٢٠٣، من تفسيرى ابن أبي حاتم وابن مردويه، بإسناديهما، من رواية الحسن، عن أبي رافع، عن أبي هريرة، مرفوعا، بنحوه. قال ابن كثير: "وهذا حديث غريب من هذا الوجه. وأحسن أحواله أن يكون من كلام أبي هريرة كما تقدم مثله عن السدي ".]]
+
+١٢٤٣ - حدثني المثنى قال، حدثنا آدم قال، حدثنا أبو جعفر، عن الربيع، عن أبي العالية قال: لو أن القوم حين أمروا أن يذبحوا بقرة، استعرضوا بقرة فذبحوها لكانت إياها، ولكنهم شددوا على أنفسهم فشدد الله عليهم، ولولا أن القوم استثنوا فقالوا: ﴿وإنا إن شاء الله لمهتدون﴾ ، لما هدوا إليها أبدا.
+
+١٢٤٤ - حدثنا بشر قال، حدثنا يزيد قال، حدثنا سعيد، عن قتادة قال: ذكر لنا أن نبي الله ﷺ كان يقول:"إنما أمر القوم بأدنى بقرة، ولكنهم لما شددوا على أنفسهم شدد عليهم. والذي نفس محمد بيده، لو لم يستثنوا لما بينت لهم آخر الأبد.
+
+١٢٤٥ - حدثني موسى قال، حدثنا عمرو قال، حدثنا أسباط، عن السدي في خبر ذكره، عن أبي مالك، وعن أبي صالح، عن ابن عباس قال: لو اعترضوا بقرة فذبحوها لأجزأت عنهم، ولكنهم شددوا وتعنتوا موسى فشدد الله عليهم.
+
+١٢٤٦ - حدثنا أبو كريب قال، قال أبو بكر بن عياش، قال ابن عباس: لو أن القوم نظروا أدنى بقرة -يعني بني إسرائيل- لأجزأت عنهم، ولكن شددوا فشدد عليهم، فاشتروها بملء جلدها دنانير. [[الخبر: ١٢٤٦ - هذا الإسناد منقطع بين أبي بكر بن عياش وابن عباس، كما هو ظاهر لأن ابا بكر يروى عن التابعين، ومولده بعد موت ابن عباس بدهر. وهذا الخبر ذكره السيوطي ١: ٧٧، ونسبه لابن جرير، وابن أبي حاتم"من طرق".]]
+
+١٢٤٧ - حدثني يونس قال، أخبرنا ابن وهب قال، قال ابن زيد: لو أخذوا بقرة كما أمرهم الله كفاهم ذلك، ولكن البلاء في هذه المسائل، فقالوا: ﴿ادع لنا ربك يبين لنا ما هي﴾ ، فشدد عليهم، فقال: ﴿إنه يقول إنها بقرة لا فارض ولا بكر عوان بين ذلك﴾ ، فقالوا: ﴿ادع لنا ربك يبين لنا ما لونها، قال إنه يقول إنها بقرة صفراء فاقع لونها تسر الناظرين﴾ ، قال: وشدد عليهم أشد من الأول، فقرأ حتى بلغ: ﴿مسلمة لا شية فيها﴾ فأبوا أيضا فقالوا: ﴿ادع لنا ربك يبين لنا ما هي إن البقر تشابه علينا وإنا إن شاء الله لمهتدون﴾ فشدد عليهم، فقال: "إنه يقول إنها بقرة لا ذلول تثير الأرض ولا تسقى الحرث مسلمة لا شية فيها) ، قال: فاضطروا إلى بقرة لا يعلم على صفتها غيرها، وهي صفراء، ليس فيها سواد ولا بياض. [[الأثر: ١٢٤٧ - سيأتي تمامه في رقم: ١٢٧٣.]]
+
+* *
+
+قال أبو جعفر: وهذه الأقوال التي ذكرناها عمن ذكرناها عنه - من الصحابة والتابعين والخالفين بعدهم، من قولهم إن بني إسرائيل لو كانوا أخذوا أدنى بقرة فذبحوها أجزأت عنهم، ولكنهم شددوا فشدد الله عليهم - من أوضح الدلالة على أن القوم كانوا يرون أن حكم الله، فيما أمر ونهى في كتابه وعلى لسان رسوله ﷺ، على العموم الظاهر، دون الخصوص الباطن، [[انظر ما مضى في تفسير" الظاهر، والباطن": ٢: ١٥ والمراجع.]] إلا أن يخص، بعض ما عمه ظاهر التنزيل، كتاب من الله أو رسولُ الله، وأن التنزيل أو الرسول، إن خص بعض ما عمه ظاهر التنزيل بحكم خلاف ما دل عليه الظاهر، فالمخصوص من ذلك خارج من حكم الآية التي عمت ذلك الجنس خاصة، وسائر حكم الآية على العموم؛ على نحو ما قد بيناه في كتابنا ﴿كتاب الرسالة﴾ من ﴿لطيف القول في البيان عن أصول الأحكام﴾ - في قولنا في العموم والخصوص، وموافقة قولهم في ذلك قولنا، ومذهبهم مذهبنا، وتخطئتهم قول القائلين بالخصوص في الأحكام، وشهادتهم على فساد قول من قال: حكم الآية الجائية مجيء العموم على العموم، ما لم يختص منها بعض ما عمته الآية. فإن خص منها بعض، فحكم الآية حينئذ على الخصوص.
+
+وذلك أن جميع من ذكرنا قوله آنفا - ممن عاب على بني إسرائيل مسألتهم نبيهم ﷺ عن صفة البقرة التي أمروا بذبحها وسنها وحليتها - رأوا أنهم كانوا في مسألتهم رسول الله ﷺ موسى ذلك مخطئين، وأنهم لو كانوا استعرضوا أدنى بقرة من البقر - إذ أمروا بذبحها بقوله: ﴿إن الله يأمركم أن تذبحوا بقرة﴾ ، فذبحوها - كانوا للواجب عليهم من أمر الله في ذلك مؤدين، وللحق مطيعين، إذْ لم يكن القوم حصروا على نوع من البقر دون نوع، وسن دون سن.
+
+ورأوا مع ذلك أنهم - إذْ سألوا موسى عن سنها فأخبرهم عنها، وحصرهم منها على سن دون سن، ونوع دون نوع، وخص من جميع أنواع البقر نوعا منها - كانوا في مسألتهم إياه في المسألة الثانية، بعد الذي خص لهم من أنوع البقر، من الخطأ على مثل الذي كانوا عليه من الخطأ في مسألتهم إياه المسألة الأولى.
+
+وكذلك رأوا أنهم في المسألة الثالثة على مثل الذي كانوا عليه من ذلك في الأولى والثانية، وأن اللازم كان لهم في الحالة الأولى، استعمال ظاهر الأمر، وذبح أي بهيمة شاؤوا مما وقع عليها اسم بقرة.
+
+وكذلك رأوا أن اللازم كان لهم في الحال الثانية، استعمال ظاهر الأمر وذبح أي بهيمة شاؤوا مما وقع عليها اسم بقرة عوان لا فارض ولا بكر، ولم يروا أن حكمهم - إذ خص لهم بعض البقر دون البعض في الحالة الثانية - انتقل عن اللازم الذي كان لهم في الحالة الأولى، من استعمال ظاهر الأمر إلى الخصوص. ففي إجماع جميعهم على ما روينا عنهم من ذلك - مع الرواية التي رويناها عن رسول الله ﷺ بالموافقة لقولهم - دليل واضح على صحة قولنا في العموم والخصوص، وأن أحكام الله جل ثناؤه في آي كتابه - فيما أمر ونهى - على العموم، ما لم يخص ذلك ما يجب التسليم له. وأنه إذا خص منه شيء، فالمخصوص منه خارج حكمه من حكم الآية العامة الظاهر، وسائر حكم الآية على ظاهرها العام - ومؤيد حقيقة ما قلنا في ذلك، [[في المطبوعة: " ويؤيد حقيقة ما قلنا. . . "، وهو خطأ، وقوله"مؤيد حقيقة ما قلنا" معطوف على قوله آنفًا: " ففي إجماع جميعهم. . دليل واضح. . ومؤيد حقيقة ما قلنا. . وشاهد عدل. . ".]] وشاهد عدل على فساد قول من خالف قولنا فيه.
+
+وقد زعم بعض من عظمت جهالته، واشتدت حيرته، أن القوم إنما سألوا موسى ما سألوا بعد أمر الله إياهم بذبح بقرة من البقر، لأنهم ظنوا أنهم أمروا بذبح بقرة بعينها خصت بذلك، كما خصت عصا موسى في معناها، فسألوه أن يحليها لهم ليعرفوها.
+
+ولو كان الجاهل تدبر قوله هذا، لسهل عليه ما استصعب من القول. وذلك أنه استعظم من القوم مسألتهم نبيهم ما سألوه تشددا منهم في دينهم، ثم أضاف إليهم من الأمر ما هو أعظم مما استنكره أن يكون كان منهم. فزعم أنهم كانوا يرون أنه جائز أن يفرض الله عليهم فرضا، ويتعبدهم بعبادة، ثم لا يبين لهم ما يفرض عليهم ويتعبدهم به، حتى يسألوا بيان ذلك لهم! فأضاف إلى الله تعالى ذكره ما لا يجوز إضافته إليه، ونسب القوم من الجهل إلى ما لا ينسب المجانين إليه، فزعم أنهم كانوا يسألون ربهم أن يفرض عليهم الفرائض، فنعوذ بالله من الحيرة، ونسأله التوفيق والهداية.
+
+* *
+
+وأما قوله: ﴿إن البقر تشابه علينا﴾ ، فإن"البقر" جماع بقرة.
+
+وقد قرأ بعضهم: ﴿إن الباقر﴾ ، وذلك - وإن كان في الكلام جائزا، لمجيئه في كلام العرب وأشعارها، كما قال ميمون بن قيس: [[يعني الأعشى الكبير.]]
+
+وما ذنبه أن عافت الماء باقر ... وما إن تعاف الماء إلا ليضربا [[ديوانه: ٩٠، والحيوان ١: ١٩ (وانظر أيضًا ١: ٣٠١، ٦: ١٧٤) ، واللسان (ثور) وغيرها. من قصيدة يقولها لبني قيس بن سعد، وما كان بينه وبينهم من قطيعة بعد مواصلة ومودة، وقبل البيت: وإني وما كلفتموني - وربكم ... ليعلم من أمسى أعق وأحربا
+
+لكالثور، والجِنِّيّ يضرب ظهره ... وما ذنبه إن عافت الماء مشربا
+
+قال الجاحظ: "كانوا إذا أوردوا البقر فلم تشرب، إما لكدر الماء أو لقلة العطش، ضربوا الثور ليقتحم، لأن البقر تتبعه كما تتبع الشول الفحل، وكما تتبع أتن الوحش الحمار. . وكانوا يزعمون أن الجن هي التي تصد الثيران عن الماء، حتى تمسك البقر عن الشرب، حتى تهلك. . كأنه قال: إذا كان يضرب أبدا لأنها عافت الماء، فكأنها إنما عافت الماء ليضرب".]] وكما قال أمية: [[يعني: أمية بن أبي الصلت.]]
+
+ويسوقون باقر السهل للط ... ود مهازيل خشية أن تبورا [[ديوانه: ٣٥، والحيوان ٤: ٤٦٧، والأزمنة والأمكنة ٢: ١٢٤، وغيرها. وفي الأصل المطبوع: "باقر الطود للسهل"، وفي الديوان والحيوان"باقرا يطرد السهل"، وصواب الرواية ما أثبته من الأزمنة. قال الجاحظ في ذكر نيران العرب: ""ونار أخرى: وهي النار التي كانوا يستمطرون بها في الجاهلية الأولى. فإنهم كانوا إذا تتابعت عليهم الأزمات، وركد عليهم البلاء، واشتد الجدب، واحتاجوا إلى الاستمطار، اجتمعوا وجمعوا ما قدروا عليه من البقر، ثم عقدوا في أذنابها وبين عراقيبها السلع والعشر، ثم صعدوا بها في جبل وعر، وأشعلوا فيها النيران، وضجوا بالدعاء والتضرع، فكانوا يرون أن ذلك من أسباب السقيا"، وقال ابن الكلبي: " كانوا يضرمون تفاؤلا للبرق" والمهازيل جمع مهزول، مثل هزيل وجمعه هزلي: وهي التي ضعفت ضعفا شديدا وذهب سمنها. وتبور: تهلك.]]
+
+- فغير جائزة القراءة به لمخالفته القراءة الجائية مجيء الحجة، بنقل من لا يجوز - عليه فيما نقلوه مجمعين عليه - الخطأ والسهو والكذب.
+
+* *
+
+وأما تأويل: ﴿تشابه علينا﴾ ، فإنه يعني به، التبس علينا. والقَرَأَة مختلفة في تلاوته. [[في المطبوعة: "والقراء"، ورددتها إلى ما جرى عليه لفظ الطبري، كما سلف مرارا.]] فبعضهم كانوا يتلونه:"تشابه علينا"، بتخفيف الشين ونصب الهاء على مثال "تفاعل"، ويُذَكِّر الفعل، وإن كان "البقر" جماعا. لأ
+
+[TRUNCATED at 12000 chars — 1881 more. Consult the source directly before relying on anything near the cut.]
 
 ### al-Muyassar (Arabic)
 
-قال بنو إسرائيل لموسى: ادع لنا ربك يوضح لنا صفات أخرى غير ما سبق؛ لأن البقر -بهذه الصفات- كثير فاشْتَبَهَ علينا ماذا نختار؟ وإننا -إن شاء الله- لمهتدون إلى البقرة المأمور بذبحها.
+قال بنو إسرائيل لموسى: ادع لنا ربك يوضح لنا صفاتٍ أخرى غير ما سبق؛ لأن البقر -بهذه الصفات- كثير فاشْتَبَهَ علينا ماذا نختار؟ وإننا -إن شاء الله- لمهتدون إلى البقرة المأمور بذبحها.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿قالُوا اُدْعُ لَنا رَبّك يُبَيِّن لَنا ما هِيَ﴾ أسائِمَة أمْ عامِلَة ﴿إنّ البَقَر﴾ أيْ جِنْسه المَنعُوت بِما ذُكِرَ ﴿تَشابَهَ عَلَيْنا﴾ لِكَثْرَتِهِ فَلَمْ نَهْتَدِ إلى المَقْصُودَة ﴿وإنّا إنْ شاءَ اللَّه لَمُهْتَدُونَ﴾ إلَيْها وفِي الحَدِيث (لَوْ لَمْ يَسْتَثْنُوا لَما بُيِّنَت لَهُمْ لِآخِرِ الأَبَد)
 
 ---
 
@@ -162,12 +1238,231 @@ Allah mentioned the stubbornness of the Children of Israel and the many unnecess
 
 ### Ibn Kathir (English)
 
+They said, "Call upon your Lord for us that He may make plain to us what it is!" He said, "He says, 'Verily, it is a cow neither too old nor too young, but (it is) between the two conditions', so do what you are commanded. (68)They said, "Call upon your Lord for us to make plain to us its colour." He said, "He says, 'It is a yellow cow, bright in its colour, pleasing the beholders.' ( 69)They said, "Call upon your Lord for us to make plain to us what it is. Verily, to us all cows are alike. And surely, if Allah wills, we will be guided. ( 70)He (Musa) said, "He says, 'It is a cow neither trained to till the soil nor water the fields, sound, having no blemish in it.'" They said, "Now you have brought the truth." So they slaughtered it though they were near to not doing it (71)
+
 The Stubbornness of the Jews regarding the Cow; Allah made the Matter difficult for Them
-Allah mentioned the stubbornness of the Children of Israel and the many unnecessary questions they asked their Messengers. This is why when they were stubborn, Allah made the decisions difficult for them. Had they slaughtered a cow, any cow, it would have been sufficient for them, as Ibn `Abbas and `Ubaydah have said. Instead, they made the matter difficult, and this is why Allah made it even more difficu...
+
+Allah mentioned the stubbornness of the Children of Israel and the many unnecessary questions they asked their Messengers. This is why when they were stubborn, Allah made the decisions difficult for them. Had they slaughtered a cow, any cow, it would have been sufficient for them, as Ibn 'Abbas and 'Ubaydah have said. Instead, they made the matter difficult, and this is why Allah made it even more difficult for them. They said,
+
+ادْعُ لَنَا رَبَّكَ يُبَيِّن لَّنَا مَا هِيَ
+
+(Call upon your Lord for us that He may make plain to us what it is!), meaning, "What is this cow and what is its description?" Musa said,
+
+إِنَّهُ يَقُولُ إِنَّهَا بَقَرَةٌ لَّا فَارِضٌ وَلَا بِكْرٌ
+
+(He says, 'Verily, it is a cow neither too old nor too young'), meaning, that it is neither old nor below the age of breeding. This is the opinion of Abu Al-'Aliyah, As-Suddi, Mujahid, 'Ikrimah, 'Atiyah Al-'Awfi, 'Ata', Al-Khurasani, Wahb bin Munabbih, Ad-Dahhak, Al-Hasan, Qatadah and Ibn 'Abbas. Ad-Dahhak reported that Ibn 'Abbas said that,
+
+عَوَانٌ بَيْنَ ذَٰلِكَ
+
+(But (it is) between the two conditions) means, "Neither old nor young. Rather, she was at the age when the cow is strongest and fittest." In his Tafsir Al-'Awfi reported from Ibn 'Abbas that,
+
+فَاقِعٌ لَّوْنُهَا
+
+(bright in its colour) "A deep yellowish white."
+
+As-Suddi said,
+
+تَسُرُّ النَّاظِرِينَ
+
+(pleasing the beholder) meaning, that it pleases those who see it. This is also the opinion of Abu Al-'Aliyah, Qatadah and Ar-Rabi' bin Anas. Furthermore, Wahb bin Munabbih said, "If you look at the cow's skin, you will think that the sun's rays radiate through its skin." The modern version of the Tawrah mentions that the cow in the Ayah was red, but this is an error. Or, it might be that the cow was so yellow that it appeared blackish or reddish in color. Allah's knows best.
+
+إِنَّ الْبَقَرَ تَشَابَهَ عَلَيْنَا
+
+(Verily, to us all cows are alike) this means, that since cows are plentiful, then describe this cow for us further,
+
+وَإِنَّا إِن شَاءَ اللَّهُ
+
+(And surely, if Allah wills) and if you further describe it to us,
+
+لَمُهْتَدُونَ
+
+(we will be guided.)
+
+قَالَ إِنَّهُ يَقُولُ إِنَّهَا بَقَرَةٌ لَّا ذَلُولٌ تُثِيرُ الْأَرْضَ وَلَا تَسْقِي الْحَرْثَ
+
+(He says, 'It is a cow neither trained to till the soil nor water the fields') meaning, it is not used in farming, or for watering purposes. Rather, it is honorable and fair looking. 'Abdur-Razzaq said that Ma'mar said that Qatadah said that,
+
+مُسَلَّمَةٌ
+
+(sound) means, "The cow does not suffer from any defects." This is also the opinion of Abu Al-'Aliyah and Ar-Rabi'. Mujahid also said that the Ayah means the cow is free from defects. Further, 'Ata' Al-Khurasani said that the Ayah means that its legs and body are free of physical defects.
+
+Also, Ad-Dahhak said that Ibn 'Abbas said that the Ayah,
+
+فَذَبَحُوهَا وَمَا كَادُوا يَفْعَلُونَ
+
+(So they slaughtered it though they were near to not doing it) means, "They did not want to slaughter it."
+
+This means that even after all the questions and answers about the cow's description, the Jews were still reluctant to slaughter the cow. This part of the Qur'an criticized the Jews for their behavior, because their only goal was to be stubborn, and this is why they nearly did not slaughter the cow. Also, 'Ubaydah, Mujahid, Wahb bin Munabbih, Abu Al-'Aliyah and 'Abdur-Rahman bin Zayd bin Aslam said, "The Jews bought the cow with a large amount of money." There is a difference of opinion over this.
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله تعالى :  قَالَ إِنَّهُ يَقُولُ إِنَّهَا بَقَرَةٌ لا ذَلُولٌ تُثِيرُ الأَرْضَ وَلا تَسْقِي الْحَرْثَقال أبو جعفر: وتأويل ذلك: قال موسى: إن الله يقول إن البقرة التي أمرتكم بذبحها بقرة لا ذلول.ويعني بقوله: (لا ذلول)، أي لم يذللها العمل. فمعنى الآية: إنها بقرة لم تذللها إثارة الأرض بأظلافها, ولا سُنِيَ عليها الماء فيُسقى عليها الزرع. (19) كما يقال للدابة التي قد ذللها الركوب أو العمل: " دابة ذلول بينة الذِّل " بكسر الذال. (20) ويقال في مثله من بني آدم: " رجل ذليل بين الذِّل وا...
+القول في تأويل قوله تعالى: ﴿قَالَ إِنَّهُ يَقُولُ إِنَّهَا بَقَرَةٌ لا ذَلُولٌ تُثِيرُ الأَرْضَ وَلا تَسْقِي الْحَرْثَ﴾
+
+قال أبو جعفر: وتأويل ذلك: قال موسى: إن الله يقول إن البقرة التي أمرتكم بذبحها بقرة لا ذلول.
+
+ويعني بقوله: ﴿لا ذلول﴾ ، أي لم يذللها العمل. فمعنى الآية: إنها بقرة لم تذللها إثارة الأرض بأظلافها، ولا سُنِيَ عليها الماء فيُسقى عليها الزرع. [[سنت الناقة تسنو، وسنا الرجل يسنو سنوا وسناية: إذا سقى الأرض. والسانية: هي الناضحة، وهي الناقة أو غيرها مما يسقى عليها الزرع، والجمع: السواني.]] كما يقال للدابة التي قد ذللها الركوب أو العمل:"دابة ذلول بينة الذِّل" بكسر الذال. [[الذل: اللين، ضد الصعوبة.]] ويقال في مثله من بني آدم:"رجل ذليل بين الذِّل والذلة".
+
+١٢٤٨ - حدثنا بشر قال، حدثنا يزيد قال، حدثنا سعيد، عن قتادة قوله: ﴿إنها بقرة لا ذلول﴾ ، يقول: صعبة لم يذلها عمل، ﴿تثير الأرض، ولا تسقي الحرث﴾ .
+
+١٢٤٩ - حدثني موسى قال، حدثنا عمرو قال، حدثنا أسباط، عن السدي: ﴿إنها بقرة لا ذلول تثير الأرض﴾ ، يقول: بقرة ليست بذلول يزرع عليها، وليست تسقي الحرث.
+
+١٢٥٠ - حدثني المثنى قال، حدثنا آدم قال، حدثنا أبو جعفر، عن الربيع، عن أبي العالية: ﴿إنها بقرة لا ذلول﴾ ، أي لم يذللها العمل. ﴿تثير الأرض﴾ يعني: ليست بذلول فتثير الأرض. ﴿ولا تسقي الحرث﴾ يقول: ولا تعمل في الحرث.
+
+١٢٥١ - حُدثت عن عمار قال، حدثنا ابن أبي جعفر، عن أبيه، عن الربيع: ﴿إنها بقرة لا ذلول﴾ يقول: لم يذلها العمل، ﴿تثير الأرض﴾ يقول: تثير الأرض بأظلافها، [[في المطبوعة: "تبين الأرض"، وهو تصحيف.]] ﴿ولا تسقي الحرث﴾ ، يقول: لا تعمل في الحرث.
+
+١٢٥٢ - حدثنا القاسم قال، حدثنا الحسين قال، حدثني حجاج قال، قال ابن جريج، قال الأعرج، قال مجاهد، قوله: ﴿لا ذلول تثير الأرض ولا تسقي الحرث﴾ ، يقول: ليست بذلول فتفعل ذلك.
+
+١٢٥٣ - حدثنا القاسم قال، حدثنا الحسين قال، حدثنا أبو سفيان، عن معمر، عن قتادة: ليست بذلول تثير الأرض ولا تسقي الحرث.
+
+* *
+
+قال أبو جعفر: ويعني بقوله: ﴿تثير الأرض﴾ ، تقلب الأرض للحرث. يقال منه:"أثرت الأرض أثيرها إثارة"، إذا قلبتها للزرع. وإنما وصفها جل ثناؤه بهذه الصفة، لأنها كانت -فيما قيل- وَحشِيّة.
+
+١٢٥٤ - حدثني يعقوب بن إبراهيم قال، حدثنا هشيم قال، أخبرنا جويبر، عن كثير بن زياد، عن الحسن قال: كانت وحشية. [[الأثر: ١٢٥٤ - سلف قريبا برقم: ١٢٢١.]]
+
+* *
+
+القول في تأويل قوله تعالى: ﴿مُسَلَّمَةٌ﴾
+
+قال أبو جعفر: ومعنى "مسلمة" "مفعلة" من "السلامة". يقال منه: " سُلِّمت تسلم فهي مسلمة.
+
+* *
+
+ثم اختلف أهل التأويل في المعنى الذي سلمت منه، فوصفها الله بالسلامة منه. فقال مجاهد بما:-
+
+١٢٥٥ - حدثنا به محمد بن عمرو قال، حدثنا أبو عاصم، عن عيسى، عن ابن أبي نجيح، عن مجاهد:"مسلمة"، يقول: مسلمة من الشية، و ﴿لا شية فيها﴾ ، لا بياض فيها ولا سواد.
+
+١٢٥٦ - حدثني المثنى قال، حدثنا أبو حذيفة قال، حدثنا شبل، عن ابن أبي نجيح، عن مجاهد مثله.
+
+١٢٥٧ - حدثنا القاسم قال، حدثنا الحسين قال، حدثني حجاج، عن ابن جريج قال، قال مجاهد: ﴿مسلمة﴾ ، قال: مسلمة من الشية، ﴿لا شية فيها﴾ لا بياض فيها ولا سواد.
+
+* *
+
+وقال آخرون: مسلمة من العيوب.
+
+ذكر من قال ذلك:
+
+١٢٥٨ - حدثنا بشر قال، حدثنا يزيد قال، حدثنا سعيد، عن قتادة: ﴿مسلمة لا شية فيها﴾ ، أي مسلمة من العيوب.
+
+١٢٥٩ - حدثنا الحسن بن يحيى قال، أخبرنا عبد الرزاق قال، أخبرنا معمر، عن قتادة: ﴿مسلمة﴾ ، يقول: لا عيب فيها.
+
+١٢٦٠ - حدثني المثنى قال، حدثنا آدم قال، حدثنا أبو جعفر، عن الربيع، عن أبي العالية: ﴿مسلمة﴾ ، يعني مسلمة من العيوب.
+
+١٢٦١ - حُدثت عن عمار قال، حدثنا ابن أبي جعفر، عن أبيه، عن الربيع بمثله.
+
+١٢٦٢ - حدثنا القاسم قال، حدثنا الحسين قال، حدثني حجاج قال، قال ابن جريج، قال ابن عباس قوله: ﴿مسلمة﴾ ، لا عَوَارَ فيها. [[العوار (بفتح العين، وتضم) : العيب.]]
+
+* *
+
+قال أبو جعفر: والذي قاله ابن عباس وأبو العالية ومن قال بمثل قولهما في تأويل ذلك، أولى بتأويل الآية مما قاله مجاهد. لأن سلامتها لو كانت من سائر أنواع الألوان سوى لون جلدها، لكان في قوله: ﴿مسلمة﴾ مُكْتَفًى عن قوله: ﴿لا شية فيها﴾ . وفي قوله: ﴿لا شية فيها﴾ ، ما يوضح عن أن معنى قوله: ﴿مُسَلَّمة﴾ ، غير معنى قوله: ﴿لا شية فيها﴾ ، وإذ كان ذلك كذلك، فمعنى الكلام: إنه يقول: إنها بقرة لم تذللها إثارة الأرض وقلبها للحراثة، ولا السنو عليها للمزارع، [[انظر ما سلف في هذا الجزء: ٢١١ تعليق: ١.]] وهي مع ذلك صحيحة مسلمة من العيوب.
+
+* *
+
+القول في تأويل قوله تعالى: ﴿لا شِيَةَ فِيهَا﴾
+
+قال أبو جعفر: يعني بقوله: ﴿لا شية فيها﴾ ، لا لون فيها يخالف لون جلدها. وأصله من "وشي الثوب"، وهو تحسين عيوبه التي تكون فيه، بضروب مختلفة من ألوان سداه ولحمته، [[السدَى: الأسفل من الثوب، واللُّحمة: الأعلى منه يداخل السدَى.]] يقال منه:"وشيت الثوب فأنا أشيه شية ووشيا"، ومنه قيل للساعي بالرجل إلى السلطان أو غيره:"واش"، لكذبه عليه عنده، وتحسينه كذبه بالأباطيل. يقال منه:"وشيت به إلى السلطان وشاية". ومنه قول كعب بن زهير:
+
+تسعى الوشاة جَنَابَيْها وقولهُمُ ... إنك يا ابن أبي سُلمى لمقتول [[ديوانه: ١٩، وسيرة ابن هشام ٤: ١٥٣، والروض الأنف ٢: ٣١٤، والفائق (قحل) ورواية الديوان "بجنبيها" ورواية ابن هشام: "تسعى الغواة". وقوله: "جنابيها". والجناب: الناحية، ويريد ناحية الجنب. يقال: "جنبيه، وجانبيه، وجنابيه،. والضمير في قوله: "جنابيها" لناقته التي ذكرها قبل. وقوله: "وقولهم: إنك. . "، حال، أي: وهم يقولون، والمعنى يكثرون القول عليه: إنك يا ابن أبي سلمى لمقتول، كأنهم لا يقولون غير ذلك، ترهيبا له وتخويفا.]]
+
+و"الوشاة جمع واش"، يعني أنهم يتقولون بالأباطيل، ويخبرونه أنه إن لحق بالنبي ﷺ قتله.
+
+وقد زعم بعض أهل العربية أن"الوشي"، العلامة. وذلك لا معنى له، إلا أن يكون أراد بذلك تحسين الثوب بالأعلام. لأنه معلوم أن القائل:"وشيت بفلان إلى فلان" غير جائز أن يتوهم عليه أنه أراد: جعلت له عنده علامة.
+
+وإنما قيل: ﴿لا شية فيها﴾ وهي من"وشيت"، لأن"الواو" لما أسقطت من أولها أبدلت مكانها"الهاء" في آخرها. كما قيل: "وزنته زنة" و "وسن سِنة" [[في المطبوعة: " ووسيته سية"، وهو كلام لا أصل له، وكأنه مصحف ما أثبت.]] و"وعدته عِدة" و"وديته دِية".
+
+* *
+
+وبمثل الذي قلنا في معنى قوله: ﴿لا شية فيها﴾ ، قال أهل التأويل:
+
+١٢٦٣ - حدثنا بشر بن معاذ قال، حدثنا يزيد قال، حدثنا سعيد، عن قتادة: ﴿لا شية فيها﴾ ، أي لا بياض فيها.
+
+١٢٦٤ - حدثنا الحسن قال، أخبرنا عبد الرزاق قال، أخبرنا معمر، عن قتادة مثله.
+
+١٢٦٥ - حدثني المثنى قال، حدثنا آدم قال، حدثنا أبو جعفر، عن الربيع، عن أبي العالية: ﴿لا شية فيها﴾ ، يقول: لا بياض فيها.
+
+١٢٦٦ - حدثني محمد بن عمرو قال، حدثنا أبو عاصم قال، حدثنا عيسى، عن ابن أبي نجيح، عن مجاهد: ﴿لا شية فيها﴾ أي لا بياض فيها ولا سواد.
+
+١٢٦٧ - حدثني المثنى قال، حدثنا أبو حذيفة قال، حدثنا شبل، عن ابن أبي نجيح، عن مجاهد مثله.
+
+١٢٦٨ - حدثنا أبو كريب قال، حدثنا ابن إدريس، عن أبيه، عن عطية: ﴿لا شية فيها﴾ ، قال: لونها واحد، ليس فيها سوى لونها.
+
+١٢٦٩ - حدثني موسى قال، حدثنا عمرو قال، حدثنا أسباط، عن السدي: ﴿لا شية فيها﴾ ، من بياض ولا سواد ولا حمرة.
+
+١٢٧٠ - حدثني يونس بن عبد الأعلى قال، أخبرنا ابن وهب قال، قال ابن زيد: ﴿لا شية فيها﴾ ، هي صفراء، ليس فيها بياض ولا سواد.
+
+١٢٧١ - حدثت عن عمار قال، حدثنا ابن أبي جعفر، عن أبيه، عن الربيع: ﴿لا شية فيها﴾ ، يقول: لا بياض فيها.
+
+* *
+
+القول في تأويل قوله تعالى: ﴿قَالُوا الآنَ جِئْتَ بِالْحَقِّ﴾
+
+قال أبو جعفر: اختلف أهل التأويل في تأويل قوله: ﴿قالوا الآن جئت بالحق﴾ . فقال بعضهم: معنى ذلك: الآن بينت لنا الحق فتبيناه، وعرفنا أية بقرة عنيت. [[في المطبوعة: "فتبيناه وعرفناه أنه بقرة عينت"، تصحيف وتحريف، وهو فاسد جدا. مضى في ص" ٢٠٩ نقض الطبري لقول من زعم أنهم ظنوا أنهم أمروا بذبح بقرة بعينها. فسألوه أن يصفها لهم ليعرفوها، وسمى قائل ذلك: جاهلا، وشفى في بيان جهله، فلو كان الله تعالى"عينها" لهم، لبين لهم ما عين، إذا أمر بذبحها.]] وممن قال ذلك قتادة:
+
+١٢٧٢ - حدثنا بشر بن معاذ قال، حدثنا يزيد قال، حدثنا سعيد، عن قتادة: ﴿قالوا الآن جئت بالحق﴾ ، أي الآن بينت لنا.
+
+* *
+
+وقال بعضهم: ذلك خبر من الله جل ثناؤه عن القوم أنهم نسبوا نبي الله موسى صلوات الله عليه، إلى أنه لم يكن يأتيهم بالحق في أمر البقرة قبل ذلك. وممن روي عنه هذا القول عبد الرحمن بن زيد:
+
+١٢٧٣ - حدثني يونس قال، أخبرنا ابن وهب قال، قال ابن زيد: اضطروا إلى بقرة لا يعلمون على صفتها غيرها، وهي صفراء ليس فيها سواد ولا بياض، فقالوا: هذه بقرة فلان: ﴿الآن جئت بالحق﴾ ، وقبل ذلك والله قد جاءهم بالحق. [[الأثر: ١٢٧٣ - بعض الأثر: ١٢٤٧، وهنا زيادة عليه من تمامه.]]
+
+* *
+
+قال أبو جعفر: وأولى التأويلين عندنا بقوله: ﴿قالوا الآن جئت بالحق﴾ ، قول قتادة. وهو أن تأويله: الآن بينت لنا الحق في أمر البقر، فعرفنا أيها الواجب علينا ذبحها منها. [[في المطبوعة: "الآن بينت لنا الحق في أمر البقرة، فعرفنا أنها الواجب علينا ذبحها منها"، و"البقرة"و"أنها" تصحيف وتحريف، يفسد معنى ما قال الطبري ىنفا ص: ٢٠٩، وما سيأتي بعد هذه الجملة. وانظر التعليق السالف رقم: ١.]] لأن الله جل ثناؤه قد أخبر عنهم أنهم قد أطاعوه فذبحوها، بعد قيلهم هذا. مع غلظ مؤونة ذبحها عليهم، وثقل أمرها، فقال: ﴿فذبحوها وما كادوا يفعلون﴾ ، وإن كانوا قد قالوا - بقولهم: الآن بينت لنا الحق - هراء من القول، وأتوا خطأ وجهلا من الأمر. وذلك أن نبي الله موسى ﷺ كان مبينا لهم - في كل مسألة سألوها إياه، ورد رادوه في أمر البقر - [[السياق: "كان مبينا لهم. . الحق"، ما بينهما فصل، كعادته في الفصل.]] الحق. وإنما يقال:"الآن بينت لنا الحق" لمن لم يكن مبينا قبل ذلك، فأما من كان كل قيله -فيما أبان عن الله تعالى ذكره- حقا وبيانا، فغير جائز أن يقال له = في بعض ما أبان عن الله في أمره ونهيه، وأدى عنه إلى عباده من فرائضه التي أوجبها عليهم: ﴿الآن جئت بالحق﴾ ، كأنه لم يكن جاءهم بالحق قبل ذلك!
+
+* *
+
+وقد كان بعض من سلف يزعم أن القوم ارتدوا عن دينهم وكفروا بقولهم لموسى: ﴿الآن جئت بالحق﴾ ، ويزعم أنهم نفوا أن يكون موسى أتاهم بالحق في أمر البقرة قبل ذلك، وأن ذلك من فعلهم وقيلهم كفر.
+
+وليس الذي قال من ذلك عندنا كما قال، لأنهم أذعنوا بالطاعة بذبحها، وإن كان قيلهم الذي قالوه لموسى جهلة منهم وهفوة من هفواتهم.
+
+* *
+
+القول في تأويل قوله تعالى: ﴿فَذَبَحُوهَا وَمَا كَادُوا يَفْعَلُونَ (٧١) ﴾
+
+قال أبو جعفر: يعني بقوله: ﴿فذبحوها﴾ ، فذبح قوم موسى البقرة، التي وصفها الله لهم وأمرهم بذبحها.
+
+ويعني بقوله: ﴿وما كادوا يفعلون﴾ ، أي: قاربوا أن يَدَعوا ذبحها، ويتركوا فرض الله عليهم في ذلك.
+
+* *
+
+ثم اختلف أهل التأويل في السبب الذي من أجله كادوا أن يضيعوا فرض الله عليهم، في ذبح ما أمرهم بذبحه من ذلك. فقال بعضهم: ذلك السبب كان غلاء ثمن البقرة التي أمروا بذبحها، وبينت لهم صفتها.
+
+ذكر من قال ذلك:
+
+١٢٧٤ - حدثنا الحسن بن يحيى قال، أخبرنا عبد الرزاق قال، أخبرنا أبو معشر المدني، عن محمد بن كعب القرظي في قوله: ﴿فذبحوها وما كادوا يفعلون﴾ قال: لغلاء ثمنها.
+
+١٢٧٥ - حدثنا محمد بن عبد الله بن عبيد الهلالي قال، حدثنا عبد العزيز بن الخطاب قال، حدثنا أبو معشر، عن محمد بن كعب القرظي: ﴿فذبحوها وما كادوا يفعلون﴾ ، قال: من كثرة قيمتها. [[الخبر: ١٢٧٥ - محمد بن عبد الله بن عبيد بن عقيل الهلالي، شيخ الطبري: ثقة، روى عنه أيضًا أبو داود والنسائي وابن ماجه وغيرهم. مترجم في التهذيب، ولم أجد له ترجمة في غيره. عبد العزيز ابن الخطاب الكوفي أبو الحسن: ثقة، روى عنه أبو زرعة وأبو حاتم وغيرهما، مترجم في التهذيب، وابن أبي حاتم ٢ / ٢ /٣٨١. أبو معشر: هو نجيح - بفتح النون - بن عبد الرحمن السندي - بكسر السين - المدني، وهو ضعيف. البخاري في الكبير ٤ / ٢ /١١٤، وقال: "منكر الحديث" وابن أبي حاتم ٤ /١ / ٤٩٥. محمد بن كعب القرظي: تابعي ثقة معروف.]]
+
+١٢٧٦ - حدثنا القاسم قال، أخبرنا الحسين قال، حدثنا حجاج، عن ابن جريج، عن مجاهد وحجاج، عن أبي معشر، عن محمد بن كعب القرظي ومحمد بن قيس - في حديث فيه طول، ذكر أن حديث بعضهم دخل في حديث بعض - قوله: ﴿فذبحوها وما كادوا يفعلون﴾ ، لكثرة الثمن، أخذوها بملء مسكها ذهبا من مال المقتول، [[المسك (بفتح فسكون) : جلد البقرة وغيرها من الحيوان.]] فكان سواء لم يكن فيه فضل فذبحوها.
+
+١٢٧٧ - حدثت عن المنجاب قال، حدثنا بشر بن عمارة، عن أبي روق، عن الضحاك، عن ابن عباس: ﴿فذبحوها وما كادوا يفعلون﴾ ، يقول: كادوا لا يفعلون، ولم يكن الذي أرادوا، لأنهم أرادوا أن لا يذبحوها: وكل شيء في القرآن"كاد" أو"كادوا" أو"لو"، فإنه لا يكون. وهو مثل قوله: ﴿أكاد أخفيها﴾ [طه: ٢٠]
+
+* *
+
+وقال آخرون: لم يكادوا أن يفعلوا ذلك خوف الفضيحة، إن أطلع الله على قاتل القتيل الذي اختصموا فيه إلى موسى.
+
+* *
+
+قال أبو جعفر: والصواب من التأويل عندنا، أن القوم لم يكادوا يفعلون ما أمرهم الله به من ذبح البقرة، للخلتين كلتيهما: إحداهما غلاء ثمنها، مع ما ذكر لنا من صغر خطرها وقلة قيمتها؛ والأخرى خوف عظيم الفضيحة على أنفسهم، بإظهار الله نبيه موسى صلوات الله عليه وأتباعه - على قاتله.
+
+* *
+
+فأما غلاء ثمنها، فإنه قد روي لنا فيه ضروب من الروايات.
+
+١٢٧٨ - فحدثني موسى بن هارون قال، حدثنا عمرو بن حماد قال، حدثنا أسباط، عن السدي قال: اشتروها بوزنها عشر مرات ذهبا، فباعهم صاحبها إياها وأخذ ثمنها.
+
+١٢٧٩ - حدثنا محمد بن عبد الأعلى قال، حدثنا المعتمر بن سليمان قال، سمعت أيوب، عن محمد بن سيرين، عن عبيدة قال: اشتروها بملء جلدها دنانير.
+
+١٢٨٠ - حدثني محمد بن عمرو قال، حدثنا أبو عاصم قال، حدثنا عيسى، عن ابن أبي نجيح، عن مجاهد قال: كانت البقرة لرجل يبر أمه، فرزقه الله أن جعل تلك البقرة له، فباعها بملء جلدها ذهبا.
+
+١٢٨١ - حدثني المثنى قال، حدثنا أبو حذيفة قال، حدثنا شبل قال، حدثني خالد بن يزيد، عن مجاهد قال: أعطوا صاحبها ملء مسكها ذهبا فباعها منهم.
+
+١٢٨٢ - حدثني المثنى قال، حدثنا إسحاق قال، حدثنا إسماعيل، بن عبد الكريم قال، حدثني عبد الصمد بن معقل أنه سمع وهبا يقول: اشتروها منه على أن يملئوا له جلدها دنانير، ثم ذبحوها فعمدوا إلى جلد البقرة فملئوه دنانير، ثم دفعوها إليه.
+
+١٢٨٣ - حدثني محمد 
+
+[TRUNCATED at 12000 chars — 1821 more. Consult the source directly before relying on anything near the cut.]
 
 ### al-Muyassar (Arabic)
 
@@ -175,6 +1470,6 @@ Allah mentioned the stubbornness of the Children of Israel and the many unnecess
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿قالَ إنّهُ يَقُول إنّها بَقَرَة لا ذَلُول﴾ غَيْر مُذَلَّلَة بِالعَمَلِ ﴿تُثِير الأَرْض﴾ تُقَلِّبها لِلزِّراعَةِ والجُمْلَة صِفَة ذَلُول داخِلَة فِي النَّهْي ﴿ولا تَسْقِي الحَرْث﴾ الأَرْض المُهَيَّأَة لِلزِّراعَةِ ﴿مُسَلَّمَة﴾ مِن العُيُوب وآثار العَمَل ﴿لا شِيَة﴾ لَوْن ﴿فِيها﴾ غَيْر لَوْنها ﴿قالُوا الآن جِئْت بِالحَقِّ﴾ نَطَقْت بِالبَيانِ التّامّ فَطَلَبُوها فَوَجَدُوها عِنْد الفَتى البارّ بِأُمِّهِ فاشْتَرَوْها بِمِلْءِ مِسْكها ذَهَبًا ﴿فَذَبَحُوها وما كادُوا يَفْعَلُونَ﴾ لِغَلاءِ ثَمَنها وفِي الحَدِيث: (لَوْ ذَبَحُوا أيّ بَقَرَة كانَتْ لَأَجْزَأَتْهُمْ ولَكِنْ شَدَّدُوا عَلى أنْفُسهمْ فَشَدَّدَ اللَّه عَلَيْهِمْ)
 
 ---

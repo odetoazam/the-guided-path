@@ -1,6 +1,6 @@
 # Tafsir Cross-Reference Report
 
-Generated: 2026-04-03
+Generated: 2026-07-30
 Ayahs referenced: 7
 Tafsir sources: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), al-Jalalayn (Arabic)
 
@@ -10,20 +10,169 @@ Tafsir sources: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), 
 
 ### Ibn Kathir (English)
 
+And to Thamud (people, We sent) their brother Salih. He said: "O my people! Worship Allah! You have no other god but Him. Indeed there has come to you a clear sign from your Lord. This she-camel of Allah is a sign unto you; so you leave her to graze in Allah's earth, and touch her not with harm, lest a painful torment should seize you (73)And remember when He made you successors (generations) after 'Ad and gave you habitations in the land, you build for yourselves palaces in plains, and carve out homes in the mountains. So remember the graces (bestowed upon you) from Allah, and do not go about making mischief on the earth (74)The leaders of those who were arrogant among his people said to those who were counted weak – to such of them as believed: "Know you that Salih is one sent from his Lord." They said: "We indeed believe in that with which he has been sent. (75)Those who were arrogant said: "Verily, we disbelieve in that which you believe in. (76)So they killed the she-camel and insolently defied the commandment of their Lord, and said: "O Salih! Bring about your threats if you are indeed one of the Messengers (of Allah). (77)So the earthquake seized them, and they lay (dead), prostrate in their homes (78)
+
 Thamud: Their Land and Their Lineage
-Scholars of Tafsir and genealogy say that (the tribe of Thamud descended from) Thamud bin `Athir bin Iram bin Sam bin Nuh, and he is brother of Jadis son of `Athir, similarly the tribe of Tasm, and they were from the ancient Arabs, Al-`Aribah, before the time of Ibrahim, Thamud came after `Ad. They dwelled between the area of the Hijaz (Western Arabia) and Ash-Sham (Greater Syria). The Messenger of Allah ﷺ passed by the area and ruins of Thamud when he wen...
+
+Scholars of Tafsir and genealogy say that (the tribe of Thamud descended from) Thamud bin 'Athir bin Iram bin Sam bin Nuh, and he is brother of Jadis son of 'Athir, similarly the tribe of Tasm, and they were from the ancient Arabs, Al-'Aribah, before the time of Ibrahim, Thamud came after 'Ad. They dwelled between the area of the Hijaz (Western Arabia) and Ash-Sham (Greater Syria). The Messenger of Allah ﷺ passed by the area and ruins of Thamud when he went to Tabuk (in northern Arabia) during the ninth year of Hijrah.
+
+Imam Ahmad recorded that Ibn 'Umar said, "When the Messenger of Allah ﷺ went to the area of Al-Hijr in Tabuk with the people, he camped near the homes of Thamud, in Al-Hijr and the people brought water from the wells that Thamud used before. They used that water to make dough and placed the pots (on fire) for cooking. However, the Prophet ﷺ commanded them to spill the contents of the pots and to give the dough to their camels. He then marched forth with them from that area to another area, near the well that the camel (as will follow) used to drink from. He forbade the Companions from entering the area where people were tormented, saying,
+
+إِنِّي أَخْشَى أَنْ يُصِيبَكُمْ مِثْلُ مَا أَصَابَهُمْ فَلَا تَدْخُلُوا عَلَيْهِم
+
+(I fear that what befell them might befall you as well. Therefore, do not enter on them.)"
+
+Ahmad narrated that 'Abdullah bin 'Umar said that the Messenger of Allah ﷺ said while in the Hijr area,
+
+لَا تَدْخُلُوا عَلَى هؤُلَاءِ الْمُعَذَّبِينَ إِلَّا أَنْ تَكُونُوا بَاكِينَ فَإِنْ لَمْ تَكُونُوا بَاكِينَ فَلَا تَدْخُلُوا عَلَيْهِمْ أَنْ يُصِيبَكُمْ مِثْلَ مَا أَصَابَهُم
+
+(Do not enter on these who were tormented, unless you do so while crying. If you are not crying, then do not enter on them, so that what befell them does not befall you, as well.) The basis of this Hadith is mentioned in Two Sahihs.
+
+The Story of Prophet Salih and Thamud
+
+Allah said,
+
+وَإِلَىٰ ثَمُودَ
+
+(And to Thamud), meaning, to the tribe of Thamud, We sent their brother Salih,
+
+قَالَ يَا قَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَٰهٍ غَيْرُهُ
+
+(He said: "O my people! Worship Allah! You have no other god but Him.")
+
+All Allah's Messengers called to the worship of Allah alone without partners. Allah said in other Ayat,
+
+وَمَا أَرْسَلْنَا مِن قَبْلِكَ مِن رَّسُولٍ إِلَّا نُوحِي إِلَيْهِ أَنَّهُ لَا إِلَٰهَ إِلَّا أَنَا فَاعْبُدُونِ
+
+(And We did not send any Messenger before you but We revealed to him (saying): "None has the right to be worshipped but I, so worship Me.")[21:25] and,
+
+وَلَقَدْ بَعَثْنَا فِي كُلِّ أُمَّةٍ رَّسُولًا أَنِ اعْبُدُوا اللَّهَ وَاجْتَنِبُوا الطَّاغُوتَ
+
+(And verily, We have sent among every Ummah a Messenger (proclaiming): "Worship Allah (Alone), and avoid Taghut (all false deities)")[16:36].
+
+Thamud asked that a Camel appear from a Stone, and it did
+
+Prophet Salih said,
+
+قَدْ جَاءَتْكُم بَيِّنَةٌ مِّن رَّبِّكُمْ هَٰذِهِ نَاقَةُ اللَّهِ لَكُمْ آيَةً
+
+("Indeed there has come to you a clear sign from your Lord. This she-camel of Allah is a sign unto you;")
+
+meaning, a miracle has come to you from Allah testifying to the truth of what I came to you with.
+
+Salih's people asked him to produce a miracle and suggested a certain solid rock that they chose, which stood lonely in the area of Hijr, and which was called Al-Katibah. They asked him to bring a pregnant camel out of that stone. Salih took their covenant and promises that if Allah answers their challenge, they would believe and follow him. When they gave him their oaths and promises to that, Salih started praying and invoked Allah (to produce that miracle). All of a sudden, the stone moved and broke apart, producing a she-camel with thick wool. It was pregnant and its fetus was visibly moving in its belly, exactly as Salih's people asked. This is when their chief, Jundu' bin 'Amr, and several who followed him believed. The rest of the noblemen of Thamud wanted to believe as well, but Dhu'ab bin 'Amr bin Labid, Al-Habbab, who tended their idols, and Rabbab bin Sum'ar bin Jilhis stopped them. One of the cousins of Jundu' bin 'Amr, whose name was Shihab bin Khalifah bin Mikhlat bin Labid bin Jawwas, was one of the leaders of Thamud, and he also wanted to accept the message. However, the chiefs whom we mentioned prevented him, and he conceded to their promptings.
+
+The camel remained in Thamud, as well as, its offspring after she delivered it before them. The camel used to drink from its well on one day and leave the well for Thamud the next day. They also used to drink its milk, for on the days she drank water, they used to milk her and fill their containers from its milk. Allah said in other Ayat,
+
+وَنَبِّئْهُمْ أَنَّ الْمَاءَ قِسْمَةٌ بَيْنَهُمْ كُلُّ شِرْبٍ مُّحْتَضَرٌ
+
+(And inform them that the water is to be shared between (her and) them, each one's right to drink being established (by turns))[54:28] and,
+
+هَٰذِهِ نَاقَةٌ لَّهَا شِرْبٌ وَلَكُمْ شِرْبُ يَوْمٍ مَّعْلُومٍ
+
+(Here is a she-camel: it has a right to drink (water), and you have a right to drink (water)(each) on a day, known)[26:155]
+
+The camel used to graze in some of their valleys, going through a pass and coming out through another pass. She did that so as to be able to move easily, because she used to drink a lot of water. She was a tremendous animal that had a strikingly beautiful appearance. When she used to pass by their cattle, the cattle would be afraid of her. When this matter continued for a long time and Thamud's rejection of Salih became intense, they intended to kill her so that they could take the water for themselves every day. It was said that all of them (the disbelievers of Thamud) conspired to kill the camel. Qatadah said that he was told that, "The designated killer of the camel approached them all, including women in their rooms and children, and found out that all of them agreed to kill her." This fact is apparent from the wording of the Ayat,
+
+فَكَذَّبُوهُ فَعَقَرُوهَا فَدَمْدَمَ عَلَيْهِمْ رَبُّهُم بِذَنبِهِمْ فَسَوَّاهَا
+
+(Then they denied him and they killed it. So their Lord destroyed them because of their sin, and made them equal in destruction!)[91:14], and,
+
+وَآتَيْنَا ثَمُودَ النَّاقَةَ مُبْصِرَةً فَظَلَمُوا بِهَا
+
+(And We sent the she-camel to Thamud as a clear sign, but they did her wrong.)[17:59] Allah said here,
+
+فَعَقَرُوا النَّاقَةَ
+
+(So they killed the she-camel)
+
+Therefore, these Ayat stated that the entire tribe shared in agreeing to this crime, and Allah knows best.
+
+Thamud kills the She-Camel
+
+Imam Abu Ja'far Ibn Jarir and other scholars of Tafsir said that the reason behind killing the camel was that a disbelieving old woman among them named Umm Ghanm 'Unayzah, the daughter of Ghanm bin Mijlaz, had the severest enmity among Thamud towards Salih, peace be upon him. She had beautiful daughters and she was wealthy, and Dhu'ab bin 'Amr, one of the leaders of Thamud, was her husband.
+
+There was another noblewoman whose name was Saduf bint Al-Muhayya bin Dahr bin Al-Muhayya, who was of noble family, wealthy and beautiful. She was married to a Muslim man from Thamud, but she left him. These two women offered a prize for those who swore to them that they would kill the camel. Once, Saduf summoned a man called Al-Habbab and offered herself to him if he would kill the camel, but he refused. So she called a cousin of hers whose name was Musaddi' bin Mihraj bin Al-Muhayya, and he agreed. As for 'Unayzah bint Ghanm, she called Qudar bin Salif bin Jundu', a short person with red-blue skin, a bastard, according to them. Qudar was not the son of his claimed father, Salif, but the son of another man called, Suhyad. However, he was born on Salif's bed (and thus named after him). 'Unayzah said to Qudar, "I will give you any of my daughters you wish, if you kill the camel." Qudar bin Salif and Musaddi' bin Mihraj went along and recruited several mischievous persons from Thamud to kill the camel. Seven more from Thamud agreed, and the group became nine, as Allah described, when He said,
+
+وَكَانَ فِي الْمَدِينَةِ تِسْعَةُ رَهْطٍ يُفْسِدُونَ فِي الْأَرْضِ وَلَا يُصْلِحُونَ
+
+(And there were in the city nine men, who made mischief in the land, and would not reform.)[27:48]
+
+These nine men were chiefs of their people, and they lured the entire tribe into agreeing to kill the camel. So they waited until the camel left the water well, where Qudar waited beside a rock on its path, while Musaddi' waited at another rock. When the camel passed by Musaddi' he shot an arrow at her and the arrow pierced her leg. At that time, 'Unayzah came out and ordered her daughter, who was among the most beautiful women, to uncover her face for Qudar, encouraging Qudar to swing his sword, hitting the camel on her knee. So she fell to the ground and screamed once to warn her offspring. Qudar stabbed her in her neck and slaughtered her. Her offspring went up a high rock and screamed. 'Abdur-Razzaq recorded from Ma'mar that someone reported from Al-Hasan Al-Basari that the offspring said, "O my Lord! Where is my mother?" It was said that her offspring screamed thrice and entered a rock and vanished in it, or, they followed it and killed it together with its mother. Allah knows best. When they finished the camel off and the news reached Prophet Salih, he came to them while they were gathered. When he saw the camel, he cried and proclaimed,
+
+تَمَتَّعُوا فِي دَارِكُمْ ثَلَاثَةَ أَيَّامٍ
+
+("Enjoy yourselves in your homes for three days.")[11:65]
+
+The Wicked Ones Plot to Kill Prophet Salih, But the Torment descended on Them
+
+The nine wicked persons killed the camel on a Wednesday, and that night, they conspired to kill Salih. They said, "If he is truthful, we should finish him before we are finished. If he is a liar, we will make him follow his camel."
+
+قَالُوا تَقَاسَمُوا بِاللَّهِ لَنُبَيِّتَنَّهُ وَأَهْلَهُ ثُمَّ لَنَقُولَنَّ لِوَلِيِّهِ مَا شَهِدْنَا مَهْلِكَ أَهْلِهِ وَإِنَّا لَصَادِقُونَ - وَمَكَرُوا مَكْرًا وَمَكَرْنَا مَكْرًا وَهُمْ لَا يَشْعُرُونَ
+
+(They said: "Swear one to another by Allah that we shall make a secret night attack on him and his household, and thereafter we will surely say to his near relatives: 'We witnessed not the destruction of his household, and verily, we are telling the truth.'" So they plotted a plot, and We planned a plan, while they perceived not.)[27:49-50]
+
+When they conspired to kill Salih and gathered at night to carry out their plot, Allah, to Whom belongs all might and Who protects His Messengers, rained down stones that smashed the heads of these nine people before the rest of the tribe. On Thursday, the first of the three days of respite, the people woke up and their faces were pale (yellow), just as Prophet Salih had promised them. On the second day of respite,
+
+[TRUNCATED at 12000 chars — 2196 more. Consult the source directly before relying on anything near the cut.]
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله :  وَإِلَى ثَمُودَ أَخَاهُمْ صَالِحًا قَالَ يَا قَوْمِ اعْبُدُوا اللَّهَ مَا لَكُمْ مِنْ إِلَهٍ غَيْرُهُ قَدْ جَاءَتْكُمْ بَيِّنَةٌ مِنْ رَبِّكُمْ هَذِهِ نَاقَةُ اللَّهِ لَكُمْ آيَةً فَذَرُوهَا تَأْكُلْ فِي أَرْضِ اللَّهِ وَلا تَمَسُّوهَا بِسُوءٍ فَيَأْخُذَكُمْ عَذَابٌ أَلِيمٌ (73)قال أبو جعفر : يقول تعالى ذكره: ولقد أرسلنا إلى ثمود أخاهم صالحًا.* * *و " ثمود " ، هو ثمود بن غاثر بن إرم بن سام بن نوح، وهو أخو جَدِيس بن غاثر ، (82) وكانت مساكنهما الحِجْر ، بين الحجاز والشأم ...
+القول في تأويل قوله: ﴿وَإِلَى ثَمُودَ أَخَاهُمْ صَالِحًا قَالَ يَا قَوْمِ اعْبُدُوا اللَّهَ مَا لَكُمْ مِنْ إِلَهٍ غَيْرُهُ قَدْ جَاءَتْكُمْ بَيِّنَةٌ مِنْ رَبِّكُمْ هَذِهِ نَاقَةُ اللَّهِ لَكُمْ آيَةً فَذَرُوهَا تَأْكُلْ فِي أَرْضِ اللَّهِ وَلا تَمَسُّوهَا بِسُوءٍ فَيَأْخُذَكُمْ عَذَابٌ أَلِيمٌ (٧٣) ﴾
+
+قال أبو جعفر: يقول تعالى ذكره: ولقد أرسلنا إلى ثمود أخاهم صالحًا.
+
+* *
+
+و"ثمود"، هو ثمود بن غاثر بن إرم بن سام بن نوح، وهو أخو جَدِيس بن غاثر، [[في المطبوعة في الموضعين"ثمود بن عابر"، و"جديس بن عابر"، وأثبت ما في المخطوطة، وهو كذلك في تاريخ الطبري ١: ١٠٣"غاثر" بالغين والثاء، إلا أنه جاء في التاريخ ١: ١١٥"جاثر" بالجيم والثاء، وكأن الأول هو الأصل، وأن الآخر على القلب عن الغين، هذا إذا لم يكن خطأ.]] وكانت مساكنهما الحِجْر، بين الحجاز والشأم، إلى وادي القُرَى وما حوله.
+
+* *
+
+ومعنى الكلام: وإلى بني ثمود أخاهم صالحًا.
+
+* *
+
+وإنما منع"ثمود"، لأن"ثمود" قبيلة، كما"بكر" قبيلة، وكذلك"تميم".
+
+* *
+
+﴿قال يا قوم اعبدوا الله ما لكم من إله غيره﴾ ، يقول: قال صالح لثمود: يا قوم اعبدوا الله وحده لا شريك له، فما لكم إله يجوزُ لكم أن تعبدوه غيره، وقد جاءتكم حُجَّة وبرهان على صدق ما أقول، [[انظر تفسير"البينة" فيما سلف من فهارس اللغة (بين) .]] وحقيقة ما إليه أدعو، من إخلاص التوحيد لله، وإفراده بالعبادة دون ما سواه، وتصديقي على أني له رسول. وبيِّنتي على ما أقول وحقيقة ما جئتكم به من عند ربي، وحجتي عليه، هذه الناقة التي أخرجها الله من هذه الهَضْبة، دليلا على نبوّتي وصدق مقالتي، فقد علمتم أن ذلك من المعجزات التي لا يقدر على مثلها أحدٌ إلا الله.
+
+* *
+
+وإنما استشهد صالح، فيما بلغني، على صحة نبوّته عند قومه ثمود بالناقة، لأنهم سألُوه إياها آيةً ودلالة على حقيقةِ قوله.
+
+ذكر من قال ذلك، وذكر سبب قتل قوم صالح الناقة:
+
+١٤٨١٠-حدثنا الحسن بن يحيى قال، أخبرنا عبد الرزاق قال، أخبرنا إسرائيل، عن عبد العزيز بن رفيع، عن أبي الطفيل قال، قالت ثمود لصالح: ائتنا بآية إن كنت من حدثنا الحسن بن يحيى قال، أخبرنا عبد الرزاق قال، أخبرنا إسرائيل، عن عبد العزيز بن رفيع، عن أبي الطفيل قال، قالت ثمود لصالح: ائتنا بآية إن كنت من الصادقين! قال: فقال لهم صالح: اخرجوا إلى هَضْبَةٍ من الأرض! فخرجوا، فإذا هي تَتَمَخَّض كما تتمخَّض الحامل، ثم إنها انفرجت فخرجت من وسَطها الناقة، فقال صالح: ﴿هذه ناقة الله لكم آية فذروها تأكل في أرض الله ولا تمسُّوها بسوء فيأخذكم عذاب أليم (= (لَهَا شِرْبٌ وَلَكُمْ شِرْبُ يَوْمٍ مَعْلُومٍ﴾ ، [سورة الشعراء:١٥٥] . فلما ملُّوها عقروها، فقال لهم: ﴿تَمَتَّعُوا فِي دَارِكُمْ ثَلاثَةَ أَيَّامٍ ذَلِكَ وَعْدٌ غَيْرُ مَكْذُوبٍ﴾ ، [سورة هود:٦٥] قال عبد العزيز: وحدثني رجل آخر: أنّ صالحًا قال لهم: إن آية العذاب أن تصبحوا غدًا حُمْرًا، واليوم الثاني صُفْرًا، واليوم الثالث سُودًا. قال: فصبَّحهم العذاب، فلما رأوا ذلك تحنَّطُوا واستعدُّوا. [[الأثر: ١٤٨١٠ -"عبد العزيز بن رفيع الأسدي"، تابعي ثقة، روى له الجماعة. روى عن أنس، وابن الزبير، وابن عباس، وابن عمر، وأبي الطفيل. مترجم في التهذيب. و"أبو الطفيل"، هو: "عامر بن واثلة الليثي"، مضى برقم: ٩١٩٦.
+
+وقوله: "تحنطوا"، أي اتخذوا الحنوط، كما يفعلون بالميت: و"الحنوط"، هو ذريرة من مسك أوعنبر أو كافور أو صندل مدقوق، أو صبر، يتخذ للميت حتى لا يجيف ولا ينتن، أو لا تظهر رائحته للحي. وسقط من الترقيم: "١٤٨١١": سهوًا مني.]]
+
+١٤٨١٢-حدثني محمد بن الحسين قال، حدثنا أحمد بن المفضل قال، حدثنا أسباط، عن السدي: ﴿وإلى ثمود أخاهم صالحًا﴾ ، قال: إن الله بعث صالحا إلى ثمود، فدعاهم فكذّبوه، فقال لهم ما ذكر الله في القرآن، فسألوه أن يأتيهم بآية، فجاءهم بالناقة، لها شِرْب ولهم شِرْبُ يومٍ معلوم. وقال: ﴿ذروها تأكل في أرض الله ولا تمسوها بسوء﴾ . فأقرُّوا بها جميعًا، فذلك قوله: ﴿فَهَدَيْنَاهُمْ فَاسْتَحَبُّوا الْعَمَى عَلَى الْهُدَى﴾ ، [سورة فصلت: ١٧] . وكانوا قد أقرُّوا به على وجه النفاق والتقيَّة، وكانت الناقة لها شِرْبٌ، فيومَ تشرب فيه الماء تمرّ بين جبلين فيرحمانها، [[في المطبوعة: "فيرجمونها، ففيها أثرها ... "، والصواب من المخطوطة.]] ففيهما أثرُها حتى الساعة، ثم تأتي فتقف لهم حتى يحلبُوا اللبنَ، فيرويهم، إنما تصبُّ صبًّا، [[في المطبوعة: "فكانت تصب اللبن صبًا"، غير ما في المخطوطة وبدله.]] ويوم يشربون الماءَ لا تأتيهم. وكان معها فصيل لها، فقال لهم صالح: إنه يولدُ في شهركم هذا غلامٌ يكون هلاككم على يديه! فولد لتسعة منهم في ذلك الشهر، فذبحوا أبناءهم، ثم وُلد للعاشر فأبَى أن يذبح ابنه، وكان لم يولد له قبل ذلك شيء. فكان ابن العاشر أزْرَق أحمرَ، فنبت نباتًا سريعًا، فإذا مرَّ بالتسعة فرأوه قالوا: لو كان أبناؤنا أحياءَ كانوا مثل هذا! فغضب التِّسعة على صالح، لأنه أمرهم بذبح أبنائهم= ﴿تَقَاسَمُوا بِاللَّهِ لَنُبَيِّتَنَّهُ وَأَهْلَهُ ثُمَّ لَنَقُولَنَّ لِوَلِيِّهِ مَا شَهِدْنَا مَهْلِكَ أَهْلِهِ وَإِنَّا لَصَادِقُونَ﴾ ، [النمل:٤٩] . قالوا: نخرج، فيرى الناس أنّا قد خرجنا إلى سفر، فنأتي الغار فنكون فيه، حتى إذا كان الليل وخرج صالح إلى المسجد، أتيناه فقتلناه، ثم رجعنا إلى الغار فكنا فيه، ثم رجعنا فقلنا: ﴿ما شهدنا مهلك أهله وإنا لصادقون﴾ ، يصدقوننا، يعلمون أنّا قد خرجنا إلى سفر! فانطلقوا، فلما دخلوا الغارَ أرادوا أن يخرجوا من الليل، فسقط عليهم الغارُ فقتلهم، فذلك قوله: ﴿وَكَانَ فِي الْمَدِينَةِ تِسْعَةُ رَهْطٍ يُفْسِدُونَ فِي الأَرْضِ وَلا يُصْلِحُونَ﴾ حتى بلغ ها هنا: ﴿فَانْظُرْ كَيْفَ كَانَ عَاقِبَةُ مَكْرِهِمْ أَنَّا دَمَّرْنَاهُمْ وَقَوْمَهُمْ أَجْمَعِينَ﴾ [سورة النمل: ٤٨-٥١] . =وكبر الغلام ابن العاشر، ونبت نباتًا عجبًا من السرعة، فجلس مع قومٍ يصيبون من الشَّراب، فأرادُوا ماءً يمزجون به شرابهم، وكان ذلك اليوم يوم شِرب الناقة، فوجدوا الماء قد شربته الناقةُ، فاشتدَّ ذلك عليهم، وقالوا في شأن الناقة: ما نَصْنع نحن باللبن؟ لو كنا نأخذ هذا الماء الذي تشربه هذه الناقة، فنُسْقيه أنعامنا وحروثنا، كان خيرًا لنا! فقال الغلام ابن العاشر: هل لكم في أن أعْقِرَها لكم؟ قالوا: نعم! فأظهروا دينَهم، فأتاها الغلام، فلما بَصُرت به شدَّت عليه، فهرب منها، فلما رأى ذلك، دخل خلف صخرةٍ على طريقها فاستتر بها، فقال: أحِيشوها عليّ! فأحَاشوها عليه، [[في المطبوعة: "أجيشوها ... فأجاشوها" بالجيم، والصواب بالحاء."حاش عليه الصيد حوشًا وحياشًا" و"أحاشه عليه"، إذا نفره نحوه، وساقه إليه، وجمعه عليه.]] فلما جازت به نادوه: عليك! [["عليك"، إغراء، بمعنى: خذه.]] فتناولها فعقرها، فسقطت، فذلك قوله: ﴿فَنَادَوْا صَاحِبَهُمْ فَتَعَاطَى فَعَقَرَ﴾ ، [سورة القمر:٢٩] . وأظهروا حينئذٍ أمرهم، وعقروا الناقة، وعَتَوْا عن أمر ربهم، وقالوا: يا صالحُ ائتنا بما تعِدنا. وفزع ناسٌ منهم إلى صالح، وأخبروه أن الناقة قد عُقرت، فقال: عليَّ بالفصيل! فطلبوا الفَصِيل فوجدوه على رَابية من الأرض، فطلبوه، فارتفعت به حتى حلَّقت به في السماء، فلم يقدروا عليه. ثم رَغَا [[في المطبوعة والمخطوطة: "ثم دعا"، والصواب ما أثبت. من"رغاء الناقة"، وهو صوتها إذا ضجت.]] الفصيلُ إلى الله، فأوحى الله إلى صالح: أنْ مُرْهم فليتمتَّعوا في دارهم ثلاثة أيام! فقال لهم صالح: تَمتَّعوا في داركم ثلاثة أيام، وآية ذلك أن تُصبح وجوهكم أوَّل يوم مصفَرَّة، والثاني محمرّة، واليوم الثالث مسوَدّة، واليومُ الرابعُ فيه العذاب. فلما رأوا العلامات تكفّنوا وتحنّطوا ولطَّخوا أنفسهم بالمرّ، ولبسوا الأنْطاع، وحفروا الأسراب فدخلوا فيها ينتظرون الصيحة، حتى جاءهم العذاب فهلكوا. فذلك قوله: ﴿دَمَّرْنَاهُمْ وَقَوْمَهُمْ أَجْمَعِينَ﴾ .
+
+حدثنا ابن حميد قال، حدثنا سلمة، عن ابن إسحاق قال، لما أهلك الله عادًا وتقضَّى أمرها، عَمِرتْ ثمود بعدَها واستُخْلِفوا في الأرض، [["عمر يعمر" (نحو: فرح يفرح) و"عمر يعمر" (نحو: نصر ينصر) : عاش وبقي زمانًا طويلا.]] فنزلوا فيها وانتشروا، ثم عتوا على الله. فلما ظهر فسادهم وعبدوا غيرَ الله، بعث إليهم صالحًا = وكانوا قومًا عَربًا، وهو من أوسطهم نسبًا وأفضلهم موضعًا = [[في المطبوعة: "وكانوا قومًا عزبًا"، وفي المخطوطة: "وكانوا قومًا عربًا وهم من أوسطهم" والصواب ما أثبت.]] رسولا [[السياق: "بعث إليهم صالحًا ... رسولا".]] وكانت منازلهم الحِجر إلى قُرْح، [["قرح" (بضم فسكون) ، وهو سوق وادي القرى.]] وهو وادي القرى، وبين ذلك ثمانية عشر ميلا فيما بين الحجاز والشأم! فبعث الله إليهم غلامًا شابًا، فدعاهم إلى الله، حتى شَمِط وكبر، [["شمط": ابيض شعره.]] لا يتبعه منهم إلا قليل مستضعَفون، فلما ألحّ عليهم صالح بالدعاء، وأكثر لهم التحذير، وخوَّفهم من الله العذاب والنقمة، سألوه أن يُريهم آية تكون مِصداقًا لما يقول فيما يدعوهم إليه، فقال لهم: أيَّ آية تريدون؟ قالوا: تخرج معنا إلى عِيدِنا هذا = وكان لهم عيد يخرجون إليه بأصنامهم وما يعبدون من دون الله، في يوم معلوم من السنة = فتدعو إلهك وندْعُو آلهتنا، فإن استجيب لك اتَّبعناك! وإن استجيب لنا اتَّبعتنا! فقال لهم صالح: نعم! فخرجوا بأوثانهم إلى عيدهم ذلك، وخرج صالح معهم إلى الله فدعَوْا أوثانهم وسألوها أن لا يستجاب لصالح في شيء ممّا يدعو به. ثم قال له جندع بن عمرو بن جواس بن عمرو بن الدميل، [[في المطبوعة"حراش"، ولعل ما في المخطوطة يقرأ كما أثبته، وكما سيأتي في نسب آخر بعد قليل.]] وكان يومئذٍ سيّد ثمود وعظيمَهم: يا صالح، أخرج لنا من هذه الصخرة = لصخرة منفردة في ناحية الحِجْر، يقال لها الكاثِبة = ناقةً مخترجة جَوْفاء وَبْرَاء = و"المخترجة"، ما شاكلت البُخْت من الإبل. [[شرح"المخترجة"، لم أجده في غير هذا الخب، وهو بمثله في قصص الأنبياء للثعلبي. و"البخت" من الإبل، جمال طوال الأعناق، وهي الإبل الخراسانية، تنتج من بين عربية وفالج.]] وقالت ثمود لصالح مثل ما قال جندع بن عمرو = فإن فعلت آمنَّا بك وصَدَّقناك، وشهدنا أنَّ ما جئت به هو الحقّ! وأخذ عليهم صالح مواثيقهم: لئن فعلتُ وفَعَل الله لتصدِّقُنِّي ولتؤمنُنَّ بي! قالوا: نعم! فأعطوه على ذلك عهودَهم. فدعا صالح ربَّه بأن يخرجَها لهم من تلك الهَضْبة، كما وصفوا.
+
+= فحدثنا ابن حميد قال، حدثنا سلمة، عن ابن إسحاق، عن يعقوب بن عتبة بن المغيرة بن الأخنس، أنه حدَّث: أنَّهم نظروا إلى الهضبة، حين دعا الله صالح بما دعا به، تتمخَّض بالناقة تمخُّض النَّتُوج بولدها، [["النتوج" (بفتح النون) : الحامل.]] فتحركت الهضبة، ثم انتفضت بالناقة، [[في المطبوعة: "ثم أسقطت الناقة" غير ما في المخطوطة، وفيها: "ثم استفصت الناقة" كل ذلك غير منقوطة، فرأيت صواب قرأتها ما أثبت.]] فانصدعت عن ناقة، كما وصَفوا، جوفاءَ وَبْرَاء نَتُوج، ما بين جنبيها لا يعلمه إلا الله عِظمًا، فآمن به جندع بن عمرو ومَنْ كان معه على أمره من رهطه، وأراد أشرافُ ثمود أن يؤمنوا به ويصدِّقوا، فنهاهم ذؤاب بن عمرو بن لبيد، والحباب صاحبُ أوثانهم، ورباب بن صمعر بن جلهس، وكانوا من أشراف ثمود، فردُّوا أشرافَها عن الإسلام والدخول فيما دعاهم إليه صالح من الرَّحمة والنجاة، [[في المطبوعة: "وردوا أشرافها" بالواو، والأجود ما في المخطوطة.]] وكان لجندع ابن عم يقال له:"شهاب بن خليفة بن مخلاة بن لبيد بن جواس"، فأراد أن يسلم، فنهاه أولئك الرهط عن ذلك، فأطاعهم، وكان من أشراف ثمود وأفاضلها، فقال رجل من ثمود يقال له:"مهوس بن عنمة بن الدّميل"، وكان مسلمًا:
+
+وَكَانَتْ عُصْبَةٌ مِنْ آلِ عَمْروٍ ... إِلَى دِينِ النَّبِيِّ دَعَوْا شِهَابَا [[الأبيات في البداية والنهاية لابن كثير ١: ١٣٤، وقصص الأنبياء للثعلبي: ٥٧، ٥٨.]] عَزِيزَ ثَمُودَ كُلِّهِمُ جَمِيعًا ... فَهَمَّ بِأَنْ يُجِيبَ وَلَوْ أَجَابَا
+
+لأَصْبَحَ صَالِحٌ فِينَا عَزِيزًا ... وَمَا عَدَلوا بصَاحِبِهم ذُؤَابَا
+
+وَلكِنَّ الغُوَاةَ مِن َآلِ حُجْرٍ ... تَوَلَّوْا بَعْدَ رُشْدِهِمُ ذُبَابَا [[في المطبوعة: "ذئابًا"، وفي البداية والنهاية"ذآبا"، وكأن الصواب ما في قصص الأنبياء، وهو ما أثبته. والمخطوطة غير منقوطة.]]
+
+فمكثت الناقة التي أخرجها الله لهم معها سَقْبها في أرض ثمودَ ترعى الشجر وتشرب الماء، فقال لهم صالح عليه السلام: ﴿هذه ناقة الله لكم آية فذروها تأكل في أرض الله ولا تمسوها بسوء فيأخذكم عذاب أليم﴾ ، وقال الله لصالح: إن الماء قسمةٌ بينهم، كُلّ شِرْبٍ مُحْتَضَر= أي: إن الماء نصفان، لهم يوم، ولها يوم وهي محتضرة، فيومها لا تدع شربها. [[هذا تفسير آية"سورة القمر": ٢٨.]] وقال: ﴿لَهَا شِرْبٌ وَلَكُمْ شِرْبُ يَوْمٍ مَعْلُومٍ﴾ ، [سورة الشعراء:١٥٥] . فكانت، فيما بلغني والله أعلم، إذا وردت، وكانت تَرِد غِبًّا، [["غبا" (بكسر الغين) ، أي: ترد يومًا، وتدع يومًا، ثم ترد.]] وضعت رأسها في بئر في الحجر يقال لها"بئر الناقة"، فيزعمون أنها منها كانت تشرب إذا وردت، تضع رأسَها فيها، فما ترْفَعه حتى تشرب كل قطرة ماء في الوادي، ثم ترفع رأسها فتفشَّج [[في المطبوعة: "تفسح"، والصواب ما أثبت، "تفشجت الناقة" (بالجيم) ، تفاجت، وذلك أن تباعد بين رجليها، ومثله"تفشحت" بالحاء المهملة.]] = يعني تفحَّج لهم [["تفحجت"، باعدت بين رجليها.]] = فيحتلبون ما شاؤوا من لبن، فيشربون ويدَّخرون، حتى يملؤوا كل آنيتهم، ثم تصدر من غير الفجّ الذي منه وردت، لا تقدِرُ على أن تصدر من حيث ترِدُ لضيقِه عنها، فلا ترجع منه. حتى إذا كان الغدُ، كان يومهم، فيشربون ما شاؤوا من الماء، ويدّخرون ما شاؤوا ليوم الناقة، فهم من ذلك في سعة. وكانت الناقة، فيما يذكرون، تَصِيف إذا كان الحرّ ظَهْرَ الوادي، [[في المطبوعة: "بظهر الوادي"، وأثبت ما في المخطوطة. و"الظهر" ما غلظ وارتفع من الوادي. و"البطن"، ما لان وسهل ورق واطمأن.]] فتهرب منها المواشي، أغنامُهم وأبْقارهم وإبلُهم، فتهبط إلى بطن الوادي في حرِّه وجَدْبه= وذلك أن المواشي تنفِرُ منها إذا رأتها= وتشتو في بطن الوادي إذا كان الشتاء، فتهرب مَواشيهم إلى ظهر الوادي في البرد والجدْب، فأضرّ ذلك بمواشيهم للبلاءِ والاختبار. وكانت مرابعُها، [[في المطبوعة: "مراتعها"، والصواب ما في المخطوطة.]] فيما يزعمون، الحبابُ وحِسْمَى، كل ذلك ترعى مع وادي الحِجر، فكبر ذلك عليهم، فعتوا عن أمر ربهم، وأجمعوا في عقر الناقة رأيَهم.
+
+= وكانت امرأة من ثمودَ يقال لها:"عنيزة بنت غنم بن مجلز"، تكني بأم غنم، وهي من بني عبيد بن ال
+
+[TRUNCATED at 12000 chars — 14171 more. Consult the source directly before relying on anything near the cut.]
 
 ### al-Muyassar (Arabic)
 
-ولقد أرسلنا إلى قبيلة ثمود أخاهم صالحًا لـمَّا عبدوا الأوثان من دون الله تعالى. فقال صالح لهم: يا قوم اعبدوا الله وحده؛ ليس لكم من إله يستحق العبادة غيره جل وعلا، فأخلصوا له العبادة، قد جئتكم بالبرهان على صدق ما أدعوكم إليه، إذ دعوتُ الله أمامكم، فأخرج لكم من الصخرة ناقة عظيمة كما سألتم، فاتركوها تأكل في أرض الله من المراعي، ولا تتعرضوا لها بأي أذى، فيصيبكم بسبب ذلك عذاب موجع.
+ولقد أرسلنا إلى قبيلة ثمود أخاهم صالحًا لمّا عبدوا الأوثان من دون الله تعالى، فقال صالح لهم: يا قوم اعبدوا الله وحده؛ ليس لكم من إله يستحق العبادة غيره جلَّ وعلا، فأخلصوا له العبادة، قد جئتكم بالبرهان على صدق ما أدعوكم إليه، إذ دعوتُ الله أمامكم، فأخرج لكم من الصخرة ناقة عظيمة كما سألتم، فاتركوها تأكلْ في أرض الله من المراعي، ولا تتعرضوا لها بأي أذى، فيصيبكم بسبب ذلك عذاب موجع.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿و﴾ أرْسَلْنا ﴿إلى ثَمُود﴾ بِتَرْكِ الصَّرْف مُرادًا بِهِ القَبِيلَة ﴿أخاهُمْ صالِحًا قالَ يا قَوْم اُعْبُدُوا اللَّه ما لَكُمْ مِن إلَه غَيْره قَدْ جاءَتْكُمْ بَيِّنَة﴾ مُعْجِزَة ﴿مِن رَبّكُمْ﴾ عَلى صِدْقِي ﴿هَذِهِ ناقَة اللَّه لَكُمْ آيَة﴾ حال عامِلها مَعْنى الإشارَة وكانُوا سَأَلُوهُ أنْ يُخْرِجها لَهُمْ مِن صَخْرَة عَيَّنُوها ﴿فَذَرُوها تَأْكُل فِي أرْض اللَّه ولا تَمَسُّوها بِسُوءٍ﴾ بِعَقْرٍ أوْ ضَرْب
 
 ---
 
@@ -31,12 +180,145 @@ Scholars of Tafsir and genealogy say that (the tribe of Thamud descended from) T
 
 ### Ibn Kathir (English)
 
+And to Thamud (people, We sent) their brother Salih. He said: "O my people! Worship Allah! You have no other god but Him. Indeed there has come to you a clear sign from your Lord. This she-camel of Allah is a sign unto you; so you leave her to graze in Allah's earth, and touch her not with harm, lest a painful torment should seize you (73)And remember when He made you successors (generations) after 'Ad and gave you habitations in the land, you build for yourselves palaces in plains, and carve out homes in the mountains. So remember the graces (bestowed upon you) from Allah, and do not go about making mischief on the earth (74)The leaders of those who were arrogant among his people said to those who were counted weak – to such of them as believed: "Know you that Salih is one sent from his Lord." They said: "We indeed believe in that with which he has been sent. (75)Those who were arrogant said: "Verily, we disbelieve in that which you believe in. (76)So they killed the she-camel and insolently defied the commandment of their Lord, and said: "O Salih! Bring about your threats if you are indeed one of the Messengers (of Allah). (77)So the earthquake seized them, and they lay (dead), prostrate in their homes (78)
+
 Thamud: Their Land and Their Lineage
-Scholars of Tafsir and genealogy say that (the tribe of Thamud descended from) Thamud bin `Athir bin Iram bin Sam bin Nuh, and he is brother of Jadis son of `Athir, similarly the tribe of Tasm, and they were from the ancient Arabs, Al-`Aribah, before the time of Ibrahim, Thamud came after `Ad. They dwelled between the area of the Hijaz (Western Arabia) and Ash-Sham (Greater Syria). The Messenger of Allah ﷺ passed by the area and ruins of Thamud when he wen...
+
+Scholars of Tafsir and genealogy say that (the tribe of Thamud descended from) Thamud bin 'Athir bin Iram bin Sam bin Nuh, and he is brother of Jadis son of 'Athir, similarly the tribe of Tasm, and they were from the ancient Arabs, Al-'Aribah, before the time of Ibrahim, Thamud came after 'Ad. They dwelled between the area of the Hijaz (Western Arabia) and Ash-Sham (Greater Syria). The Messenger of Allah ﷺ passed by the area and ruins of Thamud when he went to Tabuk (in northern Arabia) during the ninth year of Hijrah.
+
+Imam Ahmad recorded that Ibn 'Umar said, "When the Messenger of Allah ﷺ went to the area of Al-Hijr in Tabuk with the people, he camped near the homes of Thamud, in Al-Hijr and the people brought water from the wells that Thamud used before. They used that water to make dough and placed the pots (on fire) for cooking. However, the Prophet ﷺ commanded them to spill the contents of the pots and to give the dough to their camels. He then marched forth with them from that area to another area, near the well that the camel (as will follow) used to drink from. He forbade the Companions from entering the area where people were tormented, saying,
+
+إِنِّي أَخْشَى أَنْ يُصِيبَكُمْ مِثْلُ مَا أَصَابَهُمْ فَلَا تَدْخُلُوا عَلَيْهِم
+
+(I fear that what befell them might befall you as well. Therefore, do not enter on them.)"
+
+Ahmad narrated that 'Abdullah bin 'Umar said that the Messenger of Allah ﷺ said while in the Hijr area,
+
+لَا تَدْخُلُوا عَلَى هؤُلَاءِ الْمُعَذَّبِينَ إِلَّا أَنْ تَكُونُوا بَاكِينَ فَإِنْ لَمْ تَكُونُوا بَاكِينَ فَلَا تَدْخُلُوا عَلَيْهِمْ أَنْ يُصِيبَكُمْ مِثْلَ مَا أَصَابَهُم
+
+(Do not enter on these who were tormented, unless you do so while crying. If you are not crying, then do not enter on them, so that what befell them does not befall you, as well.) The basis of this Hadith is mentioned in Two Sahihs.
+
+The Story of Prophet Salih and Thamud
+
+Allah said,
+
+وَإِلَىٰ ثَمُودَ
+
+(And to Thamud), meaning, to the tribe of Thamud, We sent their brother Salih,
+
+قَالَ يَا قَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَٰهٍ غَيْرُهُ
+
+(He said: "O my people! Worship Allah! You have no other god but Him.")
+
+All Allah's Messengers called to the worship of Allah alone without partners. Allah said in other Ayat,
+
+وَمَا أَرْسَلْنَا مِن قَبْلِكَ مِن رَّسُولٍ إِلَّا نُوحِي إِلَيْهِ أَنَّهُ لَا إِلَٰهَ إِلَّا أَنَا فَاعْبُدُونِ
+
+(And We did not send any Messenger before you but We revealed to him (saying): "None has the right to be worshipped but I, so worship Me.")[21:25] and,
+
+وَلَقَدْ بَعَثْنَا فِي كُلِّ أُمَّةٍ رَّسُولًا أَنِ اعْبُدُوا اللَّهَ وَاجْتَنِبُوا الطَّاغُوتَ
+
+(And verily, We have sent among every Ummah a Messenger (proclaiming): "Worship Allah (Alone), and avoid Taghut (all false deities)")[16:36].
+
+Thamud asked that a Camel appear from a Stone, and it did
+
+Prophet Salih said,
+
+قَدْ جَاءَتْكُم بَيِّنَةٌ مِّن رَّبِّكُمْ هَٰذِهِ نَاقَةُ اللَّهِ لَكُمْ آيَةً
+
+("Indeed there has come to you a clear sign from your Lord. This she-camel of Allah is a sign unto you;")
+
+meaning, a miracle has come to you from Allah testifying to the truth of what I came to you with.
+
+Salih's people asked him to produce a miracle and suggested a certain solid rock that they chose, which stood lonely in the area of Hijr, and which was called Al-Katibah. They asked him to bring a pregnant camel out of that stone. Salih took their covenant and promises that if Allah answers their challenge, they would believe and follow him. When they gave him their oaths and promises to that, Salih started praying and invoked Allah (to produce that miracle). All of a sudden, the stone moved and broke apart, producing a she-camel with thick wool. It was pregnant and its fetus was visibly moving in its belly, exactly as Salih's people asked. This is when their chief, Jundu' bin 'Amr, and several who followed him believed. The rest of the noblemen of Thamud wanted to believe as well, but Dhu'ab bin 'Amr bin Labid, Al-Habbab, who tended their idols, and Rabbab bin Sum'ar bin Jilhis stopped them. One of the cousins of Jundu' bin 'Amr, whose name was Shihab bin Khalifah bin Mikhlat bin Labid bin Jawwas, was one of the leaders of Thamud, and he also wanted to accept the message. However, the chiefs whom we mentioned prevented him, and he conceded to their promptings.
+
+The camel remained in Thamud, as well as, its offspring after she delivered it before them. The camel used to drink from its well on one day and leave the well for Thamud the next day. They also used to drink its milk, for on the days she drank water, they used to milk her and fill their containers from its milk. Allah said in other Ayat,
+
+وَنَبِّئْهُمْ أَنَّ الْمَاءَ قِسْمَةٌ بَيْنَهُمْ كُلُّ شِرْبٍ مُّحْتَضَرٌ
+
+(And inform them that the water is to be shared between (her and) them, each one's right to drink being established (by turns))[54:28] and,
+
+هَٰذِهِ نَاقَةٌ لَّهَا شِرْبٌ وَلَكُمْ شِرْبُ يَوْمٍ مَّعْلُومٍ
+
+(Here is a she-camel: it has a right to drink (water), and you have a right to drink (water)(each) on a day, known)[26:155]
+
+The camel used to graze in some of their valleys, going through a pass and coming out through another pass. She did that so as to be able to move easily, because she used to drink a lot of water. She was a tremendous animal that had a strikingly beautiful appearance. When she used to pass by their cattle, the cattle would be afraid of her. When this matter continued for a long time and Thamud's rejection of Salih became intense, they intended to kill her so that they could take the water for themselves every day. It was said that all of them (the disbelievers of Thamud) conspired to kill the camel. Qatadah said that he was told that, "The designated killer of the camel approached them all, including women in their rooms and children, and found out that all of them agreed to kill her." This fact is apparent from the wording of the Ayat,
+
+فَكَذَّبُوهُ فَعَقَرُوهَا فَدَمْدَمَ عَلَيْهِمْ رَبُّهُم بِذَنبِهِمْ فَسَوَّاهَا
+
+(Then they denied him and they killed it. So their Lord destroyed them because of their sin, and made them equal in destruction!)[91:14], and,
+
+وَآتَيْنَا ثَمُودَ النَّاقَةَ مُبْصِرَةً فَظَلَمُوا بِهَا
+
+(And We sent the she-camel to Thamud as a clear sign, but they did her wrong.)[17:59] Allah said here,
+
+فَعَقَرُوا النَّاقَةَ
+
+(So they killed the she-camel)
+
+Therefore, these Ayat stated that the entire tribe shared in agreeing to this crime, and Allah knows best.
+
+Thamud kills the She-Camel
+
+Imam Abu Ja'far Ibn Jarir and other scholars of Tafsir said that the reason behind killing the camel was that a disbelieving old woman among them named Umm Ghanm 'Unayzah, the daughter of Ghanm bin Mijlaz, had the severest enmity among Thamud towards Salih, peace be upon him. She had beautiful daughters and she was wealthy, and Dhu'ab bin 'Amr, one of the leaders of Thamud, was her husband.
+
+There was another noblewoman whose name was Saduf bint Al-Muhayya bin Dahr bin Al-Muhayya, who was of noble family, wealthy and beautiful. She was married to a Muslim man from Thamud, but she left him. These two women offered a prize for those who swore to them that they would kill the camel. Once, Saduf summoned a man called Al-Habbab and offered herself to him if he would kill the camel, but he refused. So she called a cousin of hers whose name was Musaddi' bin Mihraj bin Al-Muhayya, and he agreed. As for 'Unayzah bint Ghanm, she called Qudar bin Salif bin Jundu', a short person with red-blue skin, a bastard, according to them. Qudar was not the son of his claimed father, Salif, but the son of another man called, Suhyad. However, he was born on Salif's bed (and thus named after him). 'Unayzah said to Qudar, "I will give you any of my daughters you wish, if you kill the camel." Qudar bin Salif and Musaddi' bin Mihraj went along and recruited several mischievous persons from Thamud to kill the camel. Seven more from Thamud agreed, and the group became nine, as Allah described, when He said,
+
+وَكَانَ فِي الْمَدِينَةِ تِسْعَةُ رَهْطٍ يُفْسِدُونَ فِي الْأَرْضِ وَلَا يُصْلِحُونَ
+
+(And there were in the city nine men, who made mischief in the land, and would not reform.)[27:48]
+
+These nine men were chiefs of their people, and they lured the entire tribe into agreeing to kill the camel. So they waited until the camel left the water well, where Qudar waited beside a rock on its path, while Musaddi' waited at another rock. When the camel passed by Musaddi' he shot an arrow at her and the arrow pierced her leg. At that time, 'Unayzah came out and ordered her daughter, who was among the most beautiful women, to uncover her face for Qudar, encouraging Qudar to swing his sword, hitting the camel on her knee. So she fell to the ground and screamed once to warn her offspring. Qudar stabbed her in her neck and slaughtered her. Her offspring went up a high rock and screamed. 'Abdur-Razzaq recorded from Ma'mar that someone reported from Al-Hasan Al-Basari that the offspring said, "O my Lord! Where is my mother?" It was said that her offspring screamed thrice and entered a rock and vanished in it, or, they followed it and killed it together with its mother. Allah knows best. When they finished the camel off and the news reached Prophet Salih, he came to them while they were gathered. When he saw the camel, he cried and proclaimed,
+
+تَمَتَّعُوا فِي دَارِكُمْ ثَلَاثَةَ أَيَّامٍ
+
+("Enjoy yourselves in your homes for three days.")[11:65]
+
+The Wicked Ones Plot to Kill Prophet Salih, But the Torment descended on Them
+
+The nine wicked persons killed the camel on a Wednesday, and that night, they conspired to kill Salih. They said, "If he is truthful, we should finish him before we are finished. If he is a liar, we will make him follow his camel."
+
+قَالُوا تَقَاسَمُوا بِاللَّهِ لَنُبَيِّتَنَّهُ وَأَهْلَهُ ثُمَّ لَنَقُولَنَّ لِوَلِيِّهِ مَا شَهِدْنَا مَهْلِكَ أَهْلِهِ وَإِنَّا لَصَادِقُونَ - وَمَكَرُوا مَكْرًا وَمَكَرْنَا مَكْرًا وَهُمْ لَا يَشْعُرُونَ
+
+(They said: "Swear one to another by Allah that we shall make a secret night attack on him and his household, and thereafter we will surely say to his near relatives: 'We witnessed not the destruction of his household, and verily, we are telling the truth.'" So they plotted a plot, and We planned a plan, while they perceived not.)[27:49-50]
+
+When they conspired to kill Salih and gathered at night to carry out their plot, Allah, to Whom belongs all might and Who protects His Messengers, rained down stones that smashed the heads of these nine people before the rest of the tribe. On Thursday, the first of the three days of respite, the people woke up and their faces were pale (yellow), just as Prophet Salih had promised them. On the second day of respite,
+
+[TRUNCATED at 12000 chars — 2196 more. Consult the source directly before relying on anything near the cut.]
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله :  وَاذْكُرُوا إِذْ جَعَلَكُمْ خُلَفَاءَ مِنْ بَعْدِ عَادٍ وَبَوَّأَكُمْ فِي الأَرْضِ تَتَّخِذُونَ مِنْ سُهُولِهَا قُصُورًا وَتَنْحِتُونَ الْجِبَالَ بُيُوتًا فَاذْكُرُوا آلاءَ اللَّهِ وَلا تَعْثَوْا فِي الأَرْضِ مُفْسِدِينَ (74)قال أبو جعفر : يقول تعالى ذكره مخبرًا عن قيل صالح لقومه ، واعظًا لهم: واذكروا ، أيها القوم ، نعمة الله عليكم=( إذ جعلكم خلفاء ) ، يقول: تخلفون عادًا في الأرض بعد هلاكها.* * *و " خلفاء " جمع " خليفة ". وإنما جمع " خليفة "" خلفاء " ، و " فُعلاء "  إنم...
+القول في تأويل قوله: ﴿وَاذْكُرُوا إِذْ جَعَلَكُمْ خُلَفَاءَ مِنْ بَعْدِ عَادٍ وَبَوَّأَكُمْ فِي الأَرْضِ تَتَّخِذُونَ مِنْ سُهُولِهَا قُصُورًا وَتَنْحِتُونَ الْجِبَالَ بُيُوتًا فَاذْكُرُوا آلاءَ اللَّهِ وَلا تَعْثَوْا فِي الأَرْضِ مُفْسِدِينَ (٧٤) ﴾
+
+قال أبو جعفر: يقول تعالى ذكره مخبرًا عن قيل صالح لقومه، واعظًا لهم: واذكروا، أيها القوم، نعمة الله عليكم= ﴿إذ جعلكم خلفاء﴾ ، يقول: تخلفون عادًا في الأرض بعد هلاكها.
+
+* *
+
+و"خلفاء" جمع"خليفة". وإنما جمع"خليفة""خلفاء"، و"فُعلاء" إنما هي جمع"فعيل"، كما"الشركاء" جمع"شريك"، و"العلماء" جمع"عليم"، و"الحلماء" جمع"حليم"، لأنه ذهب بالخليفة إلى الرجل، فكأن واحدهم"خليف"، ثم جمع"خلفاء"، فأما لو جمعت"الخليفة" على أنها نظيرة"كريمة" و"حليلة" و"رغيبة"، قيل"خلائف"، كما يقال:"كرائم" و"حلائل" و"رغائب"، إذ كانت من صفات الإناث. وإنما جمعت"الخليفة" على الوجهين اللذين جاء بهما القرآن، لأنها جُمعت مرّة على لفظها، ومرة على معناها. [[انظر تفسير"خليفة" فيما سلف ١: ٤٤٩- ٤٥٣/ ١٢: ٢٨٨، ٥٠٥ وقد استوفى هنا ما لم يذكره هناك.]]
+
+* *
+
+وأما قوله: ﴿وبوأكم في الأرض﴾ ، فإنه يقول: وأنزلكم في الأرض، وجعل لكم فيها مساكن وأزواجًا، [[انظر تفسير"بوأ" فيما سلف ص٤: ١٦٤.]] = ﴿تتخذون من سهولها قصورًا وتنحتون الجبال بيوتًا﴾ ، ذكر أنهم كانوا ينقُبون الصخر مساكن، كما:-
+
+١٤٨٢٣-حدثني محمد بن الحسين قال، حدثنا أحمد بن مفضل قال، حدثنا أسباط، عن السدي: ﴿وتنحتون الجبال بيوتًا﴾ ، كانوا ينقبون في الجبال البيوتَ.
+
+* *
+
+وقوله: ﴿فاذكروا آلاء الله﴾ ، يقول: فاذكروا نعمة الله التي أنعم بها عليكم [[انظر تفسير"الآلاء" فيما سلف ص: ٥٠٦.
+
+وكان في المطبوعة: "التي أنعمها"، وأثبت ما في المخطوطة، ولا أدري لم تصرف الناشر في مثل هذا!!.]] = ﴿ولا تعثوا في الأرض مفسدين﴾ .
+
+* *
+
+وكان قتادة يقول في ذلك ما:-
+
+١٤٨٢٤-حدثنا بشر بن معاذ قال، حدثنا يزيد قال، حدثنا سعيد، عن قتادة قوله: ﴿ولا تعثوا في الأرض مفسدين﴾ ، يقول: لا تسيروا في الأرض مفسدين.
+
+* *
+
+وقد بينت معنى ذلك بشواهده واختلاف المختلفين فيه فيما مضى، بما أغنى عن إعادته في هذا الموضع. [[انظر تفسير"عثا" فيما سلف ٢: ١٢٣، ١٢٤/ ٥: ٤٩٩.
+
+= وتفسير"الفساد في الأرض" فيما سلف: ٤٨٧، تعليق: ١، والمراجع هناك.]]
 
 ### al-Muyassar (Arabic)
 
@@ -44,7 +326,7 @@ Scholars of Tafsir and genealogy say that (the tribe of Thamud descended from) T
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿واذْكُرُوا إذْ جَعَلَكُمْ خُلَفاء﴾ فِي الأَرْض ﴿مِن بَعْد عادٍ وبَوَّأَكُمْ﴾ أسْكَنَكُمْ ﴿فِي الأَرْض تَتَّخِذُونَ مِن سُهُولها قُصُورًا﴾ تَسْكُنُونَها فِي الصَّيْف ﴿وتَنْحِتُونَ الجِبال بُيُوتًا﴾ تَسْكُنُونَها فِي الشِّتاء ونَصَبَهُ عَلى الحال المُقَدَّرَة
 
 ---
 
@@ -52,20 +334,127 @@ Scholars of Tafsir and genealogy say that (the tribe of Thamud descended from) T
 
 ### Ibn Kathir (English)
 
+And to Thamud (people, We sent) their brother Salih. He said: "O my people! Worship Allah! You have no other god but Him. Indeed there has come to you a clear sign from your Lord. This she-camel of Allah is a sign unto you; so you leave her to graze in Allah's earth, and touch her not with harm, lest a painful torment should seize you (73)And remember when He made you successors (generations) after 'Ad and gave you habitations in the land, you build for yourselves palaces in plains, and carve out homes in the mountains. So remember the graces (bestowed upon you) from Allah, and do not go about making mischief on the earth (74)The leaders of those who were arrogant among his people said to those who were counted weak – to such of them as believed: "Know you that Salih is one sent from his Lord." They said: "We indeed believe in that with which he has been sent. (75)Those who were arrogant said: "Verily, we disbelieve in that which you believe in. (76)So they killed the she-camel and insolently defied the commandment of their Lord, and said: "O Salih! Bring about your threats if you are indeed one of the Messengers (of Allah). (77)So the earthquake seized them, and they lay (dead), prostrate in their homes (78)
+
 Thamud: Their Land and Their Lineage
-Scholars of Tafsir and genealogy say that (the tribe of Thamud descended from) Thamud bin `Athir bin Iram bin Sam bin Nuh, and he is brother of Jadis son of `Athir, similarly the tribe of Tasm, and they were from the ancient Arabs, Al-`Aribah, before the time of Ibrahim, Thamud came after `Ad. They dwelled between the area of the Hijaz (Western Arabia) and Ash-Sham (Greater Syria). The Messenger of Allah ﷺ passed by the area and ruins of Thamud when he wen...
+
+Scholars of Tafsir and genealogy say that (the tribe of Thamud descended from) Thamud bin 'Athir bin Iram bin Sam bin Nuh, and he is brother of Jadis son of 'Athir, similarly the tribe of Tasm, and they were from the ancient Arabs, Al-'Aribah, before the time of Ibrahim, Thamud came after 'Ad. They dwelled between the area of the Hijaz (Western Arabia) and Ash-Sham (Greater Syria). The Messenger of Allah ﷺ passed by the area and ruins of Thamud when he went to Tabuk (in northern Arabia) during the ninth year of Hijrah.
+
+Imam Ahmad recorded that Ibn 'Umar said, "When the Messenger of Allah ﷺ went to the area of Al-Hijr in Tabuk with the people, he camped near the homes of Thamud, in Al-Hijr and the people brought water from the wells that Thamud used before. They used that water to make dough and placed the pots (on fire) for cooking. However, the Prophet ﷺ commanded them to spill the contents of the pots and to give the dough to their camels. He then marched forth with them from that area to another area, near the well that the camel (as will follow) used to drink from. He forbade the Companions from entering the area where people were tormented, saying,
+
+إِنِّي أَخْشَى أَنْ يُصِيبَكُمْ مِثْلُ مَا أَصَابَهُمْ فَلَا تَدْخُلُوا عَلَيْهِم
+
+(I fear that what befell them might befall you as well. Therefore, do not enter on them.)"
+
+Ahmad narrated that 'Abdullah bin 'Umar said that the Messenger of Allah ﷺ said while in the Hijr area,
+
+لَا تَدْخُلُوا عَلَى هؤُلَاءِ الْمُعَذَّبِينَ إِلَّا أَنْ تَكُونُوا بَاكِينَ فَإِنْ لَمْ تَكُونُوا بَاكِينَ فَلَا تَدْخُلُوا عَلَيْهِمْ أَنْ يُصِيبَكُمْ مِثْلَ مَا أَصَابَهُم
+
+(Do not enter on these who were tormented, unless you do so while crying. If you are not crying, then do not enter on them, so that what befell them does not befall you, as well.) The basis of this Hadith is mentioned in Two Sahihs.
+
+The Story of Prophet Salih and Thamud
+
+Allah said,
+
+وَإِلَىٰ ثَمُودَ
+
+(And to Thamud), meaning, to the tribe of Thamud, We sent their brother Salih,
+
+قَالَ يَا قَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَٰهٍ غَيْرُهُ
+
+(He said: "O my people! Worship Allah! You have no other god but Him.")
+
+All Allah's Messengers called to the worship of Allah alone without partners. Allah said in other Ayat,
+
+وَمَا أَرْسَلْنَا مِن قَبْلِكَ مِن رَّسُولٍ إِلَّا نُوحِي إِلَيْهِ أَنَّهُ لَا إِلَٰهَ إِلَّا أَنَا فَاعْبُدُونِ
+
+(And We did not send any Messenger before you but We revealed to him (saying): "None has the right to be worshipped but I, so worship Me.")[21:25] and,
+
+وَلَقَدْ بَعَثْنَا فِي كُلِّ أُمَّةٍ رَّسُولًا أَنِ اعْبُدُوا اللَّهَ وَاجْتَنِبُوا الطَّاغُوتَ
+
+(And verily, We have sent among every Ummah a Messenger (proclaiming): "Worship Allah (Alone), and avoid Taghut (all false deities)")[16:36].
+
+Thamud asked that a Camel appear from a Stone, and it did
+
+Prophet Salih said,
+
+قَدْ جَاءَتْكُم بَيِّنَةٌ مِّن رَّبِّكُمْ هَٰذِهِ نَاقَةُ اللَّهِ لَكُمْ آيَةً
+
+("Indeed there has come to you a clear sign from your Lord. This she-camel of Allah is a sign unto you;")
+
+meaning, a miracle has come to you from Allah testifying to the truth of what I came to you with.
+
+Salih's people asked him to produce a miracle and suggested a certain solid rock that they chose, which stood lonely in the area of Hijr, and which was called Al-Katibah. They asked him to bring a pregnant camel out of that stone. Salih took their covenant and promises that if Allah answers their challenge, they would believe and follow him. When they gave him their oaths and promises to that, Salih started praying and invoked Allah (to produce that miracle). All of a sudden, the stone moved and broke apart, producing a she-camel with thick wool. It was pregnant and its fetus was visibly moving in its belly, exactly as Salih's people asked. This is when their chief, Jundu' bin 'Amr, and several who followed him believed. The rest of the noblemen of Thamud wanted to believe as well, but Dhu'ab bin 'Amr bin Labid, Al-Habbab, who tended their idols, and Rabbab bin Sum'ar bin Jilhis stopped them. One of the cousins of Jundu' bin 'Amr, whose name was Shihab bin Khalifah bin Mikhlat bin Labid bin Jawwas, was one of the leaders of Thamud, and he also wanted to accept the message. However, the chiefs whom we mentioned prevented him, and he conceded to their promptings.
+
+The camel remained in Thamud, as well as, its offspring after she delivered it before them. The camel used to drink from its well on one day and leave the well for Thamud the next day. They also used to drink its milk, for on the days she drank water, they used to milk her and fill their containers from its milk. Allah said in other Ayat,
+
+وَنَبِّئْهُمْ أَنَّ الْمَاءَ قِسْمَةٌ بَيْنَهُمْ كُلُّ شِرْبٍ مُّحْتَضَرٌ
+
+(And inform them that the water is to be shared between (her and) them, each one's right to drink being established (by turns))[54:28] and,
+
+هَٰذِهِ نَاقَةٌ لَّهَا شِرْبٌ وَلَكُمْ شِرْبُ يَوْمٍ مَّعْلُومٍ
+
+(Here is a she-camel: it has a right to drink (water), and you have a right to drink (water)(each) on a day, known)[26:155]
+
+The camel used to graze in some of their valleys, going through a pass and coming out through another pass. She did that so as to be able to move easily, because she used to drink a lot of water. She was a tremendous animal that had a strikingly beautiful appearance. When she used to pass by their cattle, the cattle would be afraid of her. When this matter continued for a long time and Thamud's rejection of Salih became intense, they intended to kill her so that they could take the water for themselves every day. It was said that all of them (the disbelievers of Thamud) conspired to kill the camel. Qatadah said that he was told that, "The designated killer of the camel approached them all, including women in their rooms and children, and found out that all of them agreed to kill her." This fact is apparent from the wording of the Ayat,
+
+فَكَذَّبُوهُ فَعَقَرُوهَا فَدَمْدَمَ عَلَيْهِمْ رَبُّهُم بِذَنبِهِمْ فَسَوَّاهَا
+
+(Then they denied him and they killed it. So their Lord destroyed them because of their sin, and made them equal in destruction!)[91:14], and,
+
+وَآتَيْنَا ثَمُودَ النَّاقَةَ مُبْصِرَةً فَظَلَمُوا بِهَا
+
+(And We sent the she-camel to Thamud as a clear sign, but they did her wrong.)[17:59] Allah said here,
+
+فَعَقَرُوا النَّاقَةَ
+
+(So they killed the she-camel)
+
+Therefore, these Ayat stated that the entire tribe shared in agreeing to this crime, and Allah knows best.
+
+Thamud kills the She-Camel
+
+Imam Abu Ja'far Ibn Jarir and other scholars of Tafsir said that the reason behind killing the camel was that a disbelieving old woman among them named Umm Ghanm 'Unayzah, the daughter of Ghanm bin Mijlaz, had the severest enmity among Thamud towards Salih, peace be upon him. She had beautiful daughters and she was wealthy, and Dhu'ab bin 'Amr, one of the leaders of Thamud, was her husband.
+
+There was another noblewoman whose name was Saduf bint Al-Muhayya bin Dahr bin Al-Muhayya, who was of noble family, wealthy and beautiful. She was married to a Muslim man from Thamud, but she left him. These two women offered a prize for those who swore to them that they would kill the camel. Once, Saduf summoned a man called Al-Habbab and offered herself to him if he would kill the camel, but he refused. So she called a cousin of hers whose name was Musaddi' bin Mihraj bin Al-Muhayya, and he agreed. As for 'Unayzah bint Ghanm, she called Qudar bin Salif bin Jundu', a short person with red-blue skin, a bastard, according to them. Qudar was not the son of his claimed father, Salif, but the son of another man called, Suhyad. However, he was born on Salif's bed (and thus named after him). 'Unayzah said to Qudar, "I will give you any of my daughters you wish, if you kill the camel." Qudar bin Salif and Musaddi' bin Mihraj went along and recruited several mischievous persons from Thamud to kill the camel. Seven more from Thamud agreed, and the group became nine, as Allah described, when He said,
+
+وَكَانَ فِي الْمَدِينَةِ تِسْعَةُ رَهْطٍ يُفْسِدُونَ فِي الْأَرْضِ وَلَا يُصْلِحُونَ
+
+(And there were in the city nine men, who made mischief in the land, and would not reform.)[27:48]
+
+These nine men were chiefs of their people, and they lured the entire tribe into agreeing to kill the camel. So they waited until the camel left the water well, where Qudar waited beside a rock on its path, while Musaddi' waited at another rock. When the camel passed by Musaddi' he shot an arrow at her and the arrow pierced her leg. At that time, 'Unayzah came out and ordered her daughter, who was among the most beautiful women, to uncover her face for Qudar, encouraging Qudar to swing his sword, hitting the camel on her knee. So she fell to the ground and screamed once to warn her offspring. Qudar stabbed her in her neck and slaughtered her. Her offspring went up a high rock and screamed. 'Abdur-Razzaq recorded from Ma'mar that someone reported from Al-Hasan Al-Basari that the offspring said, "O my Lord! Where is my mother?" It was said that her offspring screamed thrice and entered a rock and vanished in it, or, they followed it and killed it together with its mother. Allah knows best. When they finished the camel off and the news reached Prophet Salih, he came to them while they were gathered. When he saw the camel, he cried and proclaimed,
+
+تَمَتَّعُوا فِي دَارِكُمْ ثَلَاثَةَ أَيَّامٍ
+
+("Enjoy yourselves in your homes for three days.")[11:65]
+
+The Wicked Ones Plot to Kill Prophet Salih, But the Torment descended on Them
+
+The nine wicked persons killed the camel on a Wednesday, and that night, they conspired to kill Salih. They said, "If he is truthful, we should finish him before we are finished. If he is a liar, we will make him follow his camel."
+
+قَالُوا تَقَاسَمُوا بِاللَّهِ لَنُبَيِّتَنَّهُ وَأَهْلَهُ ثُمَّ لَنَقُولَنَّ لِوَلِيِّهِ مَا شَهِدْنَا مَهْلِكَ أَهْلِهِ وَإِنَّا لَصَادِقُونَ - وَمَكَرُوا مَكْرًا وَمَكَرْنَا مَكْرًا وَهُمْ لَا يَشْعُرُونَ
+
+(They said: "Swear one to another by Allah that we shall make a secret night attack on him and his household, and thereafter we will surely say to his near relatives: 'We witnessed not the destruction of his household, and verily, we are telling the truth.'" So they plotted a plot, and We planned a plan, while they perceived not.)[27:49-50]
+
+When they conspired to kill Salih and gathered at night to carry out their plot, Allah, to Whom belongs all might and Who protects His Messengers, rained down stones that smashed the heads of these nine people before the rest of the tribe. On Thursday, the first of the three days of respite, the people woke up and their faces were pale (yellow), just as Prophet Salih had promised them. On the second day of respite,
+
+[TRUNCATED at 12000 chars — 2196 more. Consult the source directly before relying on anything near the cut.]
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله :  قَالَ الْمَلأُ الَّذِينَ اسْتَكْبَرُوا مِنْ قَوْمِهِ لِلَّذِينَ اسْتُضْعِفُوا لِمَنْ آمَنَ مِنْهُمْ أَتَعْلَمُونَ أَنَّ صَالِحًا مُرْسَلٌ مِنْ رَبِّهِ قَالُوا إِنَّا بِمَا أُرْسِلَ بِهِ مُؤْمِنُونَ (75)قال أبو جعفر : يعني جل ثناؤه بقوله: (قَالَ الْمَلأُ الَّذِينَ اسْتَكْبَرُوا مِنْ قَوْمِهِ) ، قال الجماعة الذين استكبروا من قوم صالح عن اتباع صالح والإيمان بالله وبه (5) =( للذين استضعفوا ) ، يعني: لأهل المسكنة من تبَّاع صالح والمؤمنين به منهم، دون ذوي شرفهم وأهل السُّؤدد ...
+القول في تأويل قوله: ﴿قَالَ الْمَلأُ الَّذِينَ اسْتَكْبَرُوا مِنْ قَوْمِهِ لِلَّذِينَ اسْتُضْعِفُوا لِمَنْ آمَنَ مِنْهُمْ أَتَعْلَمُونَ أَنَّ صَالِحًا مُرْسَلٌ مِنْ رَبِّهِ قَالُوا إِنَّا بِمَا أُرْسِلَ بِهِ مُؤْمِنُونَ (٧٥) قَالَ الَّذِينَ اسْتَكْبَرُوا إِنَّا بِالَّذِي آمَنْتُمْ بِهِ كَافِرُونَ (٧٦) ﴾
+
+قال أبو جعفر: يعني جل ثناؤه بقوله: ﴿قال الملأ الذين استكبروا من قومه﴾ ، قال الجماعة الذين استكبروا من قوم صالح عن اتباع صالح والإيمان بالله وبه [[انظر تفسير"الملأ" فيما سلف ٥: ٢٩١/ ١٢: ٤٩٩، ٥٠٣.
+
+= وتفسير"الاستكبار" فيما سلف: ١١: ٥٤٠/ ١٢: ٤٢١، ٤٦٧.]] = ﴿للذين استضعفوا﴾ ، يعني: لأهل المسكنة من تبَّاع صالح والمؤمنين به منهم، دون ذوي شرفهم وأهل السُّؤدد منهم= ﴿أتعلمون أن صالحًا مرسل من ربه﴾ ، أرسله الله إلينا وإليكم، قال الذين آمنوا بصالح من المستضعفين منهم: إنا بما أرسل الله به صالحًا من الحقّ والهدى مؤمنون، يقول: مصدِّقون مقرّون أنه من عند الله، وأن الله أمر به، وعن أمر الله دعانا صالح إليه= ﴿قال الذين استكبروا﴾ ، عن أمر الله وأمر رسوله صالح= ﴿إنا﴾ ، أيها القوم (بالذي آمنتم به) ، يقول: صدقتم به من نبوّة صالح، وأن الذي جاء به حق من عند الله= ﴿كافرون﴾ ، يقول: جاحدون منكرون، لا نصدِّق به ولا نقرُّ.
 
 ### al-Muyassar (Arabic)
 
-قال السادة والكبراء من الذين استعلَوا -من قوم صالح- للمؤمنين الذين استضعفوهم، واستهانوا بهم: أتعلمون حقيقة أن صالحًا قد أرسله الله إلينا؟ قال الذين آمنوا: إنا مصدقون بما أرسله الله به، متَّبعون لشرعه.
+قال السادة والكبراء من الذين استعلَوا -من قوم صالح- للمؤمنين الذين استضعفوهم، واستهانوا بهم: أتعلمون حقيقة أن صالحًا قد أرسله الله إلينا؟ قال الذين آمنوا: إنا مصدِّقون بما أرسله الله به، متَّبعون لشرعه.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿قالَ المَلَأ الَّذِينَ اسْتَكْبَرُوا مِن قَوْمه﴾ تَكَبَّرُوا عَنْ الإيمان بِهِ ﴿لِلَّذِينَ اُسْتُضْعِفُوا لِمَن آمَنَ مِنهُمْ﴾ أيْ مِن قَوْمه بَدَل مِمّا قَبْله بِإعادَةِ الجار ﴿أتَعْلَمُونَ أنَّ صالِحًا مُرْسَل مِن رَبّه﴾ إلَيْكُمْ ﴿قالُوا﴾ نَعَمْ
 
 ---
 
@@ -73,20 +462,127 @@ Scholars of Tafsir and genealogy say that (the tribe of Thamud descended from) T
 
 ### Ibn Kathir (English)
 
+And to Thamud (people, We sent) their brother Salih. He said: "O my people! Worship Allah! You have no other god but Him. Indeed there has come to you a clear sign from your Lord. This she-camel of Allah is a sign unto you; so you leave her to graze in Allah's earth, and touch her not with harm, lest a painful torment should seize you (73)And remember when He made you successors (generations) after 'Ad and gave you habitations in the land, you build for yourselves palaces in plains, and carve out homes in the mountains. So remember the graces (bestowed upon you) from Allah, and do not go about making mischief on the earth (74)The leaders of those who were arrogant among his people said to those who were counted weak – to such of them as believed: "Know you that Salih is one sent from his Lord." They said: "We indeed believe in that with which he has been sent. (75)Those who were arrogant said: "Verily, we disbelieve in that which you believe in. (76)So they killed the she-camel and insolently defied the commandment of their Lord, and said: "O Salih! Bring about your threats if you are indeed one of the Messengers (of Allah). (77)So the earthquake seized them, and they lay (dead), prostrate in their homes (78)
+
 Thamud: Their Land and Their Lineage
-Scholars of Tafsir and genealogy say that (the tribe of Thamud descended from) Thamud bin `Athir bin Iram bin Sam bin Nuh, and he is brother of Jadis son of `Athir, similarly the tribe of Tasm, and they were from the ancient Arabs, Al-`Aribah, before the time of Ibrahim, Thamud came after `Ad. They dwelled between the area of the Hijaz (Western Arabia) and Ash-Sham (Greater Syria). The Messenger of Allah ﷺ passed by the area and ruins of Thamud when he wen...
+
+Scholars of Tafsir and genealogy say that (the tribe of Thamud descended from) Thamud bin 'Athir bin Iram bin Sam bin Nuh, and he is brother of Jadis son of 'Athir, similarly the tribe of Tasm, and they were from the ancient Arabs, Al-'Aribah, before the time of Ibrahim, Thamud came after 'Ad. They dwelled between the area of the Hijaz (Western Arabia) and Ash-Sham (Greater Syria). The Messenger of Allah ﷺ passed by the area and ruins of Thamud when he went to Tabuk (in northern Arabia) during the ninth year of Hijrah.
+
+Imam Ahmad recorded that Ibn 'Umar said, "When the Messenger of Allah ﷺ went to the area of Al-Hijr in Tabuk with the people, he camped near the homes of Thamud, in Al-Hijr and the people brought water from the wells that Thamud used before. They used that water to make dough and placed the pots (on fire) for cooking. However, the Prophet ﷺ commanded them to spill the contents of the pots and to give the dough to their camels. He then marched forth with them from that area to another area, near the well that the camel (as will follow) used to drink from. He forbade the Companions from entering the area where people were tormented, saying,
+
+إِنِّي أَخْشَى أَنْ يُصِيبَكُمْ مِثْلُ مَا أَصَابَهُمْ فَلَا تَدْخُلُوا عَلَيْهِم
+
+(I fear that what befell them might befall you as well. Therefore, do not enter on them.)"
+
+Ahmad narrated that 'Abdullah bin 'Umar said that the Messenger of Allah ﷺ said while in the Hijr area,
+
+لَا تَدْخُلُوا عَلَى هؤُلَاءِ الْمُعَذَّبِينَ إِلَّا أَنْ تَكُونُوا بَاكِينَ فَإِنْ لَمْ تَكُونُوا بَاكِينَ فَلَا تَدْخُلُوا عَلَيْهِمْ أَنْ يُصِيبَكُمْ مِثْلَ مَا أَصَابَهُم
+
+(Do not enter on these who were tormented, unless you do so while crying. If you are not crying, then do not enter on them, so that what befell them does not befall you, as well.) The basis of this Hadith is mentioned in Two Sahihs.
+
+The Story of Prophet Salih and Thamud
+
+Allah said,
+
+وَإِلَىٰ ثَمُودَ
+
+(And to Thamud), meaning, to the tribe of Thamud, We sent their brother Salih,
+
+قَالَ يَا قَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَٰهٍ غَيْرُهُ
+
+(He said: "O my people! Worship Allah! You have no other god but Him.")
+
+All Allah's Messengers called to the worship of Allah alone without partners. Allah said in other Ayat,
+
+وَمَا أَرْسَلْنَا مِن قَبْلِكَ مِن رَّسُولٍ إِلَّا نُوحِي إِلَيْهِ أَنَّهُ لَا إِلَٰهَ إِلَّا أَنَا فَاعْبُدُونِ
+
+(And We did not send any Messenger before you but We revealed to him (saying): "None has the right to be worshipped but I, so worship Me.")[21:25] and,
+
+وَلَقَدْ بَعَثْنَا فِي كُلِّ أُمَّةٍ رَّسُولًا أَنِ اعْبُدُوا اللَّهَ وَاجْتَنِبُوا الطَّاغُوتَ
+
+(And verily, We have sent among every Ummah a Messenger (proclaiming): "Worship Allah (Alone), and avoid Taghut (all false deities)")[16:36].
+
+Thamud asked that a Camel appear from a Stone, and it did
+
+Prophet Salih said,
+
+قَدْ جَاءَتْكُم بَيِّنَةٌ مِّن رَّبِّكُمْ هَٰذِهِ نَاقَةُ اللَّهِ لَكُمْ آيَةً
+
+("Indeed there has come to you a clear sign from your Lord. This she-camel of Allah is a sign unto you;")
+
+meaning, a miracle has come to you from Allah testifying to the truth of what I came to you with.
+
+Salih's people asked him to produce a miracle and suggested a certain solid rock that they chose, which stood lonely in the area of Hijr, and which was called Al-Katibah. They asked him to bring a pregnant camel out of that stone. Salih took their covenant and promises that if Allah answers their challenge, they would believe and follow him. When they gave him their oaths and promises to that, Salih started praying and invoked Allah (to produce that miracle). All of a sudden, the stone moved and broke apart, producing a she-camel with thick wool. It was pregnant and its fetus was visibly moving in its belly, exactly as Salih's people asked. This is when their chief, Jundu' bin 'Amr, and several who followed him believed. The rest of the noblemen of Thamud wanted to believe as well, but Dhu'ab bin 'Amr bin Labid, Al-Habbab, who tended their idols, and Rabbab bin Sum'ar bin Jilhis stopped them. One of the cousins of Jundu' bin 'Amr, whose name was Shihab bin Khalifah bin Mikhlat bin Labid bin Jawwas, was one of the leaders of Thamud, and he also wanted to accept the message. However, the chiefs whom we mentioned prevented him, and he conceded to their promptings.
+
+The camel remained in Thamud, as well as, its offspring after she delivered it before them. The camel used to drink from its well on one day and leave the well for Thamud the next day. They also used to drink its milk, for on the days she drank water, they used to milk her and fill their containers from its milk. Allah said in other Ayat,
+
+وَنَبِّئْهُمْ أَنَّ الْمَاءَ قِسْمَةٌ بَيْنَهُمْ كُلُّ شِرْبٍ مُّحْتَضَرٌ
+
+(And inform them that the water is to be shared between (her and) them, each one's right to drink being established (by turns))[54:28] and,
+
+هَٰذِهِ نَاقَةٌ لَّهَا شِرْبٌ وَلَكُمْ شِرْبُ يَوْمٍ مَّعْلُومٍ
+
+(Here is a she-camel: it has a right to drink (water), and you have a right to drink (water)(each) on a day, known)[26:155]
+
+The camel used to graze in some of their valleys, going through a pass and coming out through another pass. She did that so as to be able to move easily, because she used to drink a lot of water. She was a tremendous animal that had a strikingly beautiful appearance. When she used to pass by their cattle, the cattle would be afraid of her. When this matter continued for a long time and Thamud's rejection of Salih became intense, they intended to kill her so that they could take the water for themselves every day. It was said that all of them (the disbelievers of Thamud) conspired to kill the camel. Qatadah said that he was told that, "The designated killer of the camel approached them all, including women in their rooms and children, and found out that all of them agreed to kill her." This fact is apparent from the wording of the Ayat,
+
+فَكَذَّبُوهُ فَعَقَرُوهَا فَدَمْدَمَ عَلَيْهِمْ رَبُّهُم بِذَنبِهِمْ فَسَوَّاهَا
+
+(Then they denied him and they killed it. So their Lord destroyed them because of their sin, and made them equal in destruction!)[91:14], and,
+
+وَآتَيْنَا ثَمُودَ النَّاقَةَ مُبْصِرَةً فَظَلَمُوا بِهَا
+
+(And We sent the she-camel to Thamud as a clear sign, but they did her wrong.)[17:59] Allah said here,
+
+فَعَقَرُوا النَّاقَةَ
+
+(So they killed the she-camel)
+
+Therefore, these Ayat stated that the entire tribe shared in agreeing to this crime, and Allah knows best.
+
+Thamud kills the She-Camel
+
+Imam Abu Ja'far Ibn Jarir and other scholars of Tafsir said that the reason behind killing the camel was that a disbelieving old woman among them named Umm Ghanm 'Unayzah, the daughter of Ghanm bin Mijlaz, had the severest enmity among Thamud towards Salih, peace be upon him. She had beautiful daughters and she was wealthy, and Dhu'ab bin 'Amr, one of the leaders of Thamud, was her husband.
+
+There was another noblewoman whose name was Saduf bint Al-Muhayya bin Dahr bin Al-Muhayya, who was of noble family, wealthy and beautiful. She was married to a Muslim man from Thamud, but she left him. These two women offered a prize for those who swore to them that they would kill the camel. Once, Saduf summoned a man called Al-Habbab and offered herself to him if he would kill the camel, but he refused. So she called a cousin of hers whose name was Musaddi' bin Mihraj bin Al-Muhayya, and he agreed. As for 'Unayzah bint Ghanm, she called Qudar bin Salif bin Jundu', a short person with red-blue skin, a bastard, according to them. Qudar was not the son of his claimed father, Salif, but the son of another man called, Suhyad. However, he was born on Salif's bed (and thus named after him). 'Unayzah said to Qudar, "I will give you any of my daughters you wish, if you kill the camel." Qudar bin Salif and Musaddi' bin Mihraj went along and recruited several mischievous persons from Thamud to kill the camel. Seven more from Thamud agreed, and the group became nine, as Allah described, when He said,
+
+وَكَانَ فِي الْمَدِينَةِ تِسْعَةُ رَهْطٍ يُفْسِدُونَ فِي الْأَرْضِ وَلَا يُصْلِحُونَ
+
+(And there were in the city nine men, who made mischief in the land, and would not reform.)[27:48]
+
+These nine men were chiefs of their people, and they lured the entire tribe into agreeing to kill the camel. So they waited until the camel left the water well, where Qudar waited beside a rock on its path, while Musaddi' waited at another rock. When the camel passed by Musaddi' he shot an arrow at her and the arrow pierced her leg. At that time, 'Unayzah came out and ordered her daughter, who was among the most beautiful women, to uncover her face for Qudar, encouraging Qudar to swing his sword, hitting the camel on her knee. So she fell to the ground and screamed once to warn her offspring. Qudar stabbed her in her neck and slaughtered her. Her offspring went up a high rock and screamed. 'Abdur-Razzaq recorded from Ma'mar that someone reported from Al-Hasan Al-Basari that the offspring said, "O my Lord! Where is my mother?" It was said that her offspring screamed thrice and entered a rock and vanished in it, or, they followed it and killed it together with its mother. Allah knows best. When they finished the camel off and the news reached Prophet Salih, he came to them while they were gathered. When he saw the camel, he cried and proclaimed,
+
+تَمَتَّعُوا فِي دَارِكُمْ ثَلَاثَةَ أَيَّامٍ
+
+("Enjoy yourselves in your homes for three days.")[11:65]
+
+The Wicked Ones Plot to Kill Prophet Salih, But the Torment descended on Them
+
+The nine wicked persons killed the camel on a Wednesday, and that night, they conspired to kill Salih. They said, "If he is truthful, we should finish him before we are finished. If he is a liar, we will make him follow his camel."
+
+قَالُوا تَقَاسَمُوا بِاللَّهِ لَنُبَيِّتَنَّهُ وَأَهْلَهُ ثُمَّ لَنَقُولَنَّ لِوَلِيِّهِ مَا شَهِدْنَا مَهْلِكَ أَهْلِهِ وَإِنَّا لَصَادِقُونَ - وَمَكَرُوا مَكْرًا وَمَكَرْنَا مَكْرًا وَهُمْ لَا يَشْعُرُونَ
+
+(They said: "Swear one to another by Allah that we shall make a secret night attack on him and his household, and thereafter we will surely say to his near relatives: 'We witnessed not the destruction of his household, and verily, we are telling the truth.'" So they plotted a plot, and We planned a plan, while they perceived not.)[27:49-50]
+
+When they conspired to kill Salih and gathered at night to carry out their plot, Allah, to Whom belongs all might and Who protects His Messengers, rained down stones that smashed the heads of these nine people before the rest of the tribe. On Thursday, the first of the three days of respite, the people woke up and their faces were pale (yellow), just as Prophet Salih had promised them. On the second day of respite,
+
+[TRUNCATED at 12000 chars — 2196 more. Consult the source directly before relying on anything near the cut.]
 
 ### al-Tabari (Arabic)
 
-(قال الذين استكبروا) ، عن أمر الله وأمر رسوله صالح=( إنا ) ، أيها القوم ( بالذي  آمنتم به ) ، يقول: صدقتم به من نبوّة صالح، وأن الذي جاء به حق من عند الله=( كافرون ) ، يقول: جاحدون منكرون، لا نصدِّق به ولا نقرُّ.* * *
+القول في تأويل قوله: ﴿قَالَ الْمَلأُ الَّذِينَ اسْتَكْبَرُوا مِنْ قَوْمِهِ لِلَّذِينَ اسْتُضْعِفُوا لِمَنْ آمَنَ مِنْهُمْ أَتَعْلَمُونَ أَنَّ صَالِحًا مُرْسَلٌ مِنْ رَبِّهِ قَالُوا إِنَّا بِمَا أُرْسِلَ بِهِ مُؤْمِنُونَ (٧٥) قَالَ الَّذِينَ اسْتَكْبَرُوا إِنَّا بِالَّذِي آمَنْتُمْ بِهِ كَافِرُونَ (٧٦) ﴾
+
+قال أبو جعفر: يعني جل ثناؤه بقوله: ﴿قال الملأ الذين استكبروا من قومه﴾ ، قال الجماعة الذين استكبروا من قوم صالح عن اتباع صالح والإيمان بالله وبه [[انظر تفسير"الملأ" فيما سلف ٥: ٢٩١/ ١٢: ٤٩٩، ٥٠٣.
+
+= وتفسير"الاستكبار" فيما سلف: ١١: ٥٤٠/ ١٢: ٤٢١، ٤٦٧.]] = ﴿للذين استضعفوا﴾ ، يعني: لأهل المسكنة من تبَّاع صالح والمؤمنين به منهم، دون ذوي شرفهم وأهل السُّؤدد منهم= ﴿أتعلمون أن صالحًا مرسل من ربه﴾ ، أرسله الله إلينا وإليكم، قال الذين آمنوا بصالح من المستضعفين منهم: إنا بما أرسل الله به صالحًا من الحقّ والهدى مؤمنون، يقول: مصدِّقون مقرّون أنه من عند الله، وأن الله أمر به، وعن أمر الله دعانا صالح إليه= ﴿قال الذين استكبروا﴾ ، عن أمر الله وأمر رسوله صالح= ﴿إنا﴾ ، أيها القوم (بالذي آمنتم به) ، يقول: صدقتم به من نبوّة صالح، وأن الذي جاء به حق من عند الله= ﴿كافرون﴾ ، يقول: جاحدون منكرون، لا نصدِّق به ولا نقرُّ.
 
 ### al-Muyassar (Arabic)
 
-قال الذين استعلَوْا: إنَّا بالذي صدَّقتم به واتبعتموه من نبوة صالح جاحدون.
+قال الذين استعلَوْا: إنّا بالذي صدَّقتم به واتبعتموه من نبوة صالح جاحدون.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+*Not present in this edition for this ayah (source returned 404).*
 
 ---
 
@@ -94,20 +590,141 @@ Scholars of Tafsir and genealogy say that (the tribe of Thamud descended from) T
 
 ### Ibn Kathir (English)
 
+And to Thamud (people, We sent) their brother Salih. He said: "O my people! Worship Allah! You have no other god but Him. Indeed there has come to you a clear sign from your Lord. This she-camel of Allah is a sign unto you; so you leave her to graze in Allah's earth, and touch her not with harm, lest a painful torment should seize you (73)And remember when He made you successors (generations) after 'Ad and gave you habitations in the land, you build for yourselves palaces in plains, and carve out homes in the mountains. So remember the graces (bestowed upon you) from Allah, and do not go about making mischief on the earth (74)The leaders of those who were arrogant among his people said to those who were counted weak – to such of them as believed: "Know you that Salih is one sent from his Lord." They said: "We indeed believe in that with which he has been sent. (75)Those who were arrogant said: "Verily, we disbelieve in that which you believe in. (76)So they killed the she-camel and insolently defied the commandment of their Lord, and said: "O Salih! Bring about your threats if you are indeed one of the Messengers (of Allah). (77)So the earthquake seized them, and they lay (dead), prostrate in their homes (78)
+
 Thamud: Their Land and Their Lineage
-Scholars of Tafsir and genealogy say that (the tribe of Thamud descended from) Thamud bin `Athir bin Iram bin Sam bin Nuh, and he is brother of Jadis son of `Athir, similarly the tribe of Tasm, and they were from the ancient Arabs, Al-`Aribah, before the time of Ibrahim, Thamud came after `Ad. They dwelled between the area of the Hijaz (Western Arabia) and Ash-Sham (Greater Syria). The Messenger of Allah ﷺ passed by the area and ruins of Thamud when he wen...
+
+Scholars of Tafsir and genealogy say that (the tribe of Thamud descended from) Thamud bin 'Athir bin Iram bin Sam bin Nuh, and he is brother of Jadis son of 'Athir, similarly the tribe of Tasm, and they were from the ancient Arabs, Al-'Aribah, before the time of Ibrahim, Thamud came after 'Ad. They dwelled between the area of the Hijaz (Western Arabia) and Ash-Sham (Greater Syria). The Messenger of Allah ﷺ passed by the area and ruins of Thamud when he went to Tabuk (in northern Arabia) during the ninth year of Hijrah.
+
+Imam Ahmad recorded that Ibn 'Umar said, "When the Messenger of Allah ﷺ went to the area of Al-Hijr in Tabuk with the people, he camped near the homes of Thamud, in Al-Hijr and the people brought water from the wells that Thamud used before. They used that water to make dough and placed the pots (on fire) for cooking. However, the Prophet ﷺ commanded them to spill the contents of the pots and to give the dough to their camels. He then marched forth with them from that area to another area, near the well that the camel (as will follow) used to drink from. He forbade the Companions from entering the area where people were tormented, saying,
+
+إِنِّي أَخْشَى أَنْ يُصِيبَكُمْ مِثْلُ مَا أَصَابَهُمْ فَلَا تَدْخُلُوا عَلَيْهِم
+
+(I fear that what befell them might befall you as well. Therefore, do not enter on them.)"
+
+Ahmad narrated that 'Abdullah bin 'Umar said that the Messenger of Allah ﷺ said while in the Hijr area,
+
+لَا تَدْخُلُوا عَلَى هؤُلَاءِ الْمُعَذَّبِينَ إِلَّا أَنْ تَكُونُوا بَاكِينَ فَإِنْ لَمْ تَكُونُوا بَاكِينَ فَلَا تَدْخُلُوا عَلَيْهِمْ أَنْ يُصِيبَكُمْ مِثْلَ مَا أَصَابَهُم
+
+(Do not enter on these who were tormented, unless you do so while crying. If you are not crying, then do not enter on them, so that what befell them does not befall you, as well.) The basis of this Hadith is mentioned in Two Sahihs.
+
+The Story of Prophet Salih and Thamud
+
+Allah said,
+
+وَإِلَىٰ ثَمُودَ
+
+(And to Thamud), meaning, to the tribe of Thamud, We sent their brother Salih,
+
+قَالَ يَا قَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَٰهٍ غَيْرُهُ
+
+(He said: "O my people! Worship Allah! You have no other god but Him.")
+
+All Allah's Messengers called to the worship of Allah alone without partners. Allah said in other Ayat,
+
+وَمَا أَرْسَلْنَا مِن قَبْلِكَ مِن رَّسُولٍ إِلَّا نُوحِي إِلَيْهِ أَنَّهُ لَا إِلَٰهَ إِلَّا أَنَا فَاعْبُدُونِ
+
+(And We did not send any Messenger before you but We revealed to him (saying): "None has the right to be worshipped but I, so worship Me.")[21:25] and,
+
+وَلَقَدْ بَعَثْنَا فِي كُلِّ أُمَّةٍ رَّسُولًا أَنِ اعْبُدُوا اللَّهَ وَاجْتَنِبُوا الطَّاغُوتَ
+
+(And verily, We have sent among every Ummah a Messenger (proclaiming): "Worship Allah (Alone), and avoid Taghut (all false deities)")[16:36].
+
+Thamud asked that a Camel appear from a Stone, and it did
+
+Prophet Salih said,
+
+قَدْ جَاءَتْكُم بَيِّنَةٌ مِّن رَّبِّكُمْ هَٰذِهِ نَاقَةُ اللَّهِ لَكُمْ آيَةً
+
+("Indeed there has come to you a clear sign from your Lord. This she-camel of Allah is a sign unto you;")
+
+meaning, a miracle has come to you from Allah testifying to the truth of what I came to you with.
+
+Salih's people asked him to produce a miracle and suggested a certain solid rock that they chose, which stood lonely in the area of Hijr, and which was called Al-Katibah. They asked him to bring a pregnant camel out of that stone. Salih took their covenant and promises that if Allah answers their challenge, they would believe and follow him. When they gave him their oaths and promises to that, Salih started praying and invoked Allah (to produce that miracle). All of a sudden, the stone moved and broke apart, producing a she-camel with thick wool. It was pregnant and its fetus was visibly moving in its belly, exactly as Salih's people asked. This is when their chief, Jundu' bin 'Amr, and several who followed him believed. The rest of the noblemen of Thamud wanted to believe as well, but Dhu'ab bin 'Amr bin Labid, Al-Habbab, who tended their idols, and Rabbab bin Sum'ar bin Jilhis stopped them. One of the cousins of Jundu' bin 'Amr, whose name was Shihab bin Khalifah bin Mikhlat bin Labid bin Jawwas, was one of the leaders of Thamud, and he also wanted to accept the message. However, the chiefs whom we mentioned prevented him, and he conceded to their promptings.
+
+The camel remained in Thamud, as well as, its offspring after she delivered it before them. The camel used to drink from its well on one day and leave the well for Thamud the next day. They also used to drink its milk, for on the days she drank water, they used to milk her and fill their containers from its milk. Allah said in other Ayat,
+
+وَنَبِّئْهُمْ أَنَّ الْمَاءَ قِسْمَةٌ بَيْنَهُمْ كُلُّ شِرْبٍ مُّحْتَضَرٌ
+
+(And inform them that the water is to be shared between (her and) them, each one's right to drink being established (by turns))[54:28] and,
+
+هَٰذِهِ نَاقَةٌ لَّهَا شِرْبٌ وَلَكُمْ شِرْبُ يَوْمٍ مَّعْلُومٍ
+
+(Here is a she-camel: it has a right to drink (water), and you have a right to drink (water)(each) on a day, known)[26:155]
+
+The camel used to graze in some of their valleys, going through a pass and coming out through another pass. She did that so as to be able to move easily, because she used to drink a lot of water. She was a tremendous animal that had a strikingly beautiful appearance. When she used to pass by their cattle, the cattle would be afraid of her. When this matter continued for a long time and Thamud's rejection of Salih became intense, they intended to kill her so that they could take the water for themselves every day. It was said that all of them (the disbelievers of Thamud) conspired to kill the camel. Qatadah said that he was told that, "The designated killer of the camel approached them all, including women in their rooms and children, and found out that all of them agreed to kill her." This fact is apparent from the wording of the Ayat,
+
+فَكَذَّبُوهُ فَعَقَرُوهَا فَدَمْدَمَ عَلَيْهِمْ رَبُّهُم بِذَنبِهِمْ فَسَوَّاهَا
+
+(Then they denied him and they killed it. So their Lord destroyed them because of their sin, and made them equal in destruction!)[91:14], and,
+
+وَآتَيْنَا ثَمُودَ النَّاقَةَ مُبْصِرَةً فَظَلَمُوا بِهَا
+
+(And We sent the she-camel to Thamud as a clear sign, but they did her wrong.)[17:59] Allah said here,
+
+فَعَقَرُوا النَّاقَةَ
+
+(So they killed the she-camel)
+
+Therefore, these Ayat stated that the entire tribe shared in agreeing to this crime, and Allah knows best.
+
+Thamud kills the She-Camel
+
+Imam Abu Ja'far Ibn Jarir and other scholars of Tafsir said that the reason behind killing the camel was that a disbelieving old woman among them named Umm Ghanm 'Unayzah, the daughter of Ghanm bin Mijlaz, had the severest enmity among Thamud towards Salih, peace be upon him. She had beautiful daughters and she was wealthy, and Dhu'ab bin 'Amr, one of the leaders of Thamud, was her husband.
+
+There was another noblewoman whose name was Saduf bint Al-Muhayya bin Dahr bin Al-Muhayya, who was of noble family, wealthy and beautiful. She was married to a Muslim man from Thamud, but she left him. These two women offered a prize for those who swore to them that they would kill the camel. Once, Saduf summoned a man called Al-Habbab and offered herself to him if he would kill the camel, but he refused. So she called a cousin of hers whose name was Musaddi' bin Mihraj bin Al-Muhayya, and he agreed. As for 'Unayzah bint Ghanm, she called Qudar bin Salif bin Jundu', a short person with red-blue skin, a bastard, according to them. Qudar was not the son of his claimed father, Salif, but the son of another man called, Suhyad. However, he was born on Salif's bed (and thus named after him). 'Unayzah said to Qudar, "I will give you any of my daughters you wish, if you kill the camel." Qudar bin Salif and Musaddi' bin Mihraj went along and recruited several mischievous persons from Thamud to kill the camel. Seven more from Thamud agreed, and the group became nine, as Allah described, when He said,
+
+وَكَانَ فِي الْمَدِينَةِ تِسْعَةُ رَهْطٍ يُفْسِدُونَ فِي الْأَرْضِ وَلَا يُصْلِحُونَ
+
+(And there were in the city nine men, who made mischief in the land, and would not reform.)[27:48]
+
+These nine men were chiefs of their people, and they lured the entire tribe into agreeing to kill the camel. So they waited until the camel left the water well, where Qudar waited beside a rock on its path, while Musaddi' waited at another rock. When the camel passed by Musaddi' he shot an arrow at her and the arrow pierced her leg. At that time, 'Unayzah came out and ordered her daughter, who was among the most beautiful women, to uncover her face for Qudar, encouraging Qudar to swing his sword, hitting the camel on her knee. So she fell to the ground and screamed once to warn her offspring. Qudar stabbed her in her neck and slaughtered her. Her offspring went up a high rock and screamed. 'Abdur-Razzaq recorded from Ma'mar that someone reported from Al-Hasan Al-Basari that the offspring said, "O my Lord! Where is my mother?" It was said that her offspring screamed thrice and entered a rock and vanished in it, or, they followed it and killed it together with its mother. Allah knows best. When they finished the camel off and the news reached Prophet Salih, he came to them while they were gathered. When he saw the camel, he cried and proclaimed,
+
+تَمَتَّعُوا فِي دَارِكُمْ ثَلَاثَةَ أَيَّامٍ
+
+("Enjoy yourselves in your homes for three days.")[11:65]
+
+The Wicked Ones Plot to Kill Prophet Salih, But the Torment descended on Them
+
+The nine wicked persons killed the camel on a Wednesday, and that night, they conspired to kill Salih. They said, "If he is truthful, we should finish him before we are finished. If he is a liar, we will make him follow his camel."
+
+قَالُوا تَقَاسَمُوا بِاللَّهِ لَنُبَيِّتَنَّهُ وَأَهْلَهُ ثُمَّ لَنَقُولَنَّ لِوَلِيِّهِ مَا شَهِدْنَا مَهْلِكَ أَهْلِهِ وَإِنَّا لَصَادِقُونَ - وَمَكَرُوا مَكْرًا وَمَكَرْنَا مَكْرًا وَهُمْ لَا يَشْعُرُونَ
+
+(They said: "Swear one to another by Allah that we shall make a secret night attack on him and his household, and thereafter we will surely say to his near relatives: 'We witnessed not the destruction of his household, and verily, we are telling the truth.'" So they plotted a plot, and We planned a plan, while they perceived not.)[27:49-50]
+
+When they conspired to kill Salih and gathered at night to carry out their plot, Allah, to Whom belongs all might and Who protects His Messengers, rained down stones that smashed the heads of these nine people before the rest of the tribe. On Thursday, the first of the three days of respite, the people woke up and their faces were pale (yellow), just as Prophet Salih had promised them. On the second day of respite,
+
+[TRUNCATED at 12000 chars — 2196 more. Consult the source directly before relying on anything near the cut.]
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله :  فَعَقَرُوا النَّاقَةَ وَعَتَوْا عَنْ أَمْرِ رَبِّهِمْ وَقَالُوا يَا صَالِحُ ائْتِنَا بِمَا تَعِدُنَا إِنْ كُنْتَ مِنَ الْمُرْسَلِينَ (77)قال أبو جعفر : يقول تعالى ذكره: فعقرت ثمودُ الناقةَ التي جعلها الله لهم آية=( وعتوا عن أمر ربهم ) ، يقول: تكبروا وتجبروا عن اتباع الله، واستعلوا عن الحق ، كما:-حدثني المثنى قال، حدثنا أبو حذيفة قال، حدثنا شبل، عن ابن أبي نجيح، عن مجاهد: ( وعتوا ) ، علوا عن الحق ، لا يبصرون. (6)14825-حدثنا القاسم قال، حدثنا الحسين قال، حدثني حجاج، عن اب...
+القول في تأويل قوله: ﴿فَعَقَرُوا النَّاقَةَ وَعَتَوْا عَنْ أَمْرِ رَبِّهِمْ وَقَالُوا يَا صَالِحُ ائْتِنَا بِمَا تَعِدُنَا إِنْ كُنْتَ مِنَ الْمُرْسَلِينَ (٧٧) ﴾
+
+قال أبو جعفر: يقول تعالى ذكره: فعقرت ثمودُ الناقةَ التي جعلها الله لهم آية= ﴿وعتوا عن أمر ربهم﴾ ، يقول: تكبروا وتجبروا عن اتباع الله، واستعلوا عن الحق، كما:-
+
+حدثني المثنى قال، حدثنا أبو حذيفة قال، حدثنا شبل، عن ابن أبي نجيح، عن مجاهد: ﴿وعتوا﴾ ، علوا عن الحق، لا يبصرون. [[في المطبوعة: "لا يبصرونه"، وأثبت ما في المخطوطة.]]
+
+١٤٨٢٥-حدثنا القاسم قال، حدثنا الحسين قال، حدثني حجاج، عن ابن جريج قال، قال مجاهد: ﴿عتوا عن أمر ربهم﴾ ، علوا في الباطل.
+
+١٤٨٢٦-حدثني الحارث قال، حدثنا عبد العزيز قال، حدثنا أبو سعد، عن مجاهد في قوله: ﴿وعتوا عن أمر ربهم﴾ ، قال: عتوا في الباطل وتركوا الحق.
+
+١٤٨٢٧-حدثني محمد بن عمرو قال، حدثنا أبو عاصم قال، حدثنا عيسى، عن ابن أبي نجيح، عن مجاهد، في قول الله: ﴿وعتوا عن أمر ربهم﴾ ، قال: علوا في الباطل.
+
+* *
+
+وهو من قولهم:"جبّار عاتٍ"، إذا كان عاليًا في تجبُّره.
+
+* *
+
+= ﴿وقالوا يا صالح ائتنا بما تعدُنا﴾ ، يقول: قالوا: جئنا، يا صالح، بما تعدنا من عذاب الله ونقمته، استعجالا منهم للعذاب= ﴿إن كنت من المرسلين﴾ ، يقول: إن كنت لله رسولا إلينا، فإن الله ينصر رسله على أعدائه، فعجَّل ذلك لهم كما استعجلوه، يقول جل ثناؤه: ﴿فأخذتهم الرجفة فأصبحوا في دارهم جاثمين﴾ .
 
 ### al-Muyassar (Arabic)
 
-فنحروا الناقة استخفافا منهم بوعيد صالح، واستكبروا عن امتثال أمر ربهم، وقالوا على سبيل الاستهزاء واستبعاد العذاب: يا صالح ائتنا بما تتوعَّدنا به من العذاب، إن كنت مِن رسل الله.
+فنحروا الناقة استخفافًا منهم بوعيد صالح، واستكبروا عن امتثال أمر ربهم، وقالوا على سبيل الاستهزاء واستبعاد العذاب: يا صالح ائتنا بما تتوعَّدنا به من العذاب، إن كنت مِن رسل الله.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+وكانَتْ النّاقَة لَها يَوْم فِي الماء ولَهُمْ يَوْم فَمَلُّوا ذَلِكَ ﴿فَعَقَرُوا النّاقَة﴾ عَقَرَها قَدّار بِأَمْرِهِمْ بِأَنْ قَتَلَها بِالسَّيْفِ ﴿وعَتَوْا عَنْ أمْر رَبّهمْ وقالُوا يا صالِح ائْتِنا بِما تَعِدنا﴾ بِهِ مِن العَذاب عَلى قَتْلها
 
 ---
 
@@ -115,12 +732,185 @@ Scholars of Tafsir and genealogy say that (the tribe of Thamud descended from) T
 
 ### Ibn Kathir (English)
 
+And to Thamud (people, We sent) their brother Salih. He said: "O my people! Worship Allah! You have no other god but Him. Indeed there has come to you a clear sign from your Lord. This she-camel of Allah is a sign unto you; so you leave her to graze in Allah's earth, and touch her not with harm, lest a painful torment should seize you (73)And remember when He made you successors (generations) after 'Ad and gave you habitations in the land, you build for yourselves palaces in plains, and carve out homes in the mountains. So remember the graces (bestowed upon you) from Allah, and do not go about making mischief on the earth (74)The leaders of those who were arrogant among his people said to those who were counted weak – to such of them as believed: "Know you that Salih is one sent from his Lord." They said: "We indeed believe in that with which he has been sent. (75)Those who were arrogant said: "Verily, we disbelieve in that which you believe in. (76)So they killed the she-camel and insolently defied the commandment of their Lord, and said: "O Salih! Bring about your threats if you are indeed one of the Messengers (of Allah). (77)So the earthquake seized them, and they lay (dead), prostrate in their homes (78)
+
 Thamud: Their Land and Their Lineage
-Scholars of Tafsir and genealogy say that (the tribe of Thamud descended from) Thamud bin `Athir bin Iram bin Sam bin Nuh, and he is brother of Jadis son of `Athir, similarly the tribe of Tasm, and they were from the ancient Arabs, Al-`Aribah, before the time of Ibrahim, Thamud came after `Ad. They dwelled between the area of the Hijaz (Western Arabia) and Ash-Sham (Greater Syria). The Messenger of Allah ﷺ passed by the area and ruins of Thamud when he wen...
+
+Scholars of Tafsir and genealogy say that (the tribe of Thamud descended from) Thamud bin 'Athir bin Iram bin Sam bin Nuh, and he is brother of Jadis son of 'Athir, similarly the tribe of Tasm, and they were from the ancient Arabs, Al-'Aribah, before the time of Ibrahim, Thamud came after 'Ad. They dwelled between the area of the Hijaz (Western Arabia) and Ash-Sham (Greater Syria). The Messenger of Allah ﷺ passed by the area and ruins of Thamud when he went to Tabuk (in northern Arabia) during the ninth year of Hijrah.
+
+Imam Ahmad recorded that Ibn 'Umar said, "When the Messenger of Allah ﷺ went to the area of Al-Hijr in Tabuk with the people, he camped near the homes of Thamud, in Al-Hijr and the people brought water from the wells that Thamud used before. They used that water to make dough and placed the pots (on fire) for cooking. However, the Prophet ﷺ commanded them to spill the contents of the pots and to give the dough to their camels. He then marched forth with them from that area to another area, near the well that the camel (as will follow) used to drink from. He forbade the Companions from entering the area where people were tormented, saying,
+
+إِنِّي أَخْشَى أَنْ يُصِيبَكُمْ مِثْلُ مَا أَصَابَهُمْ فَلَا تَدْخُلُوا عَلَيْهِم
+
+(I fear that what befell them might befall you as well. Therefore, do not enter on them.)"
+
+Ahmad narrated that 'Abdullah bin 'Umar said that the Messenger of Allah ﷺ said while in the Hijr area,
+
+لَا تَدْخُلُوا عَلَى هؤُلَاءِ الْمُعَذَّبِينَ إِلَّا أَنْ تَكُونُوا بَاكِينَ فَإِنْ لَمْ تَكُونُوا بَاكِينَ فَلَا تَدْخُلُوا عَلَيْهِمْ أَنْ يُصِيبَكُمْ مِثْلَ مَا أَصَابَهُم
+
+(Do not enter on these who were tormented, unless you do so while crying. If you are not crying, then do not enter on them, so that what befell them does not befall you, as well.) The basis of this Hadith is mentioned in Two Sahihs.
+
+The Story of Prophet Salih and Thamud
+
+Allah said,
+
+وَإِلَىٰ ثَمُودَ
+
+(And to Thamud), meaning, to the tribe of Thamud, We sent their brother Salih,
+
+قَالَ يَا قَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَٰهٍ غَيْرُهُ
+
+(He said: "O my people! Worship Allah! You have no other god but Him.")
+
+All Allah's Messengers called to the worship of Allah alone without partners. Allah said in other Ayat,
+
+وَمَا أَرْسَلْنَا مِن قَبْلِكَ مِن رَّسُولٍ إِلَّا نُوحِي إِلَيْهِ أَنَّهُ لَا إِلَٰهَ إِلَّا أَنَا فَاعْبُدُونِ
+
+(And We did not send any Messenger before you but We revealed to him (saying): "None has the right to be worshipped but I, so worship Me.")[21:25] and,
+
+وَلَقَدْ بَعَثْنَا فِي كُلِّ أُمَّةٍ رَّسُولًا أَنِ اعْبُدُوا اللَّهَ وَاجْتَنِبُوا الطَّاغُوتَ
+
+(And verily, We have sent among every Ummah a Messenger (proclaiming): "Worship Allah (Alone), and avoid Taghut (all false deities)")[16:36].
+
+Thamud asked that a Camel appear from a Stone, and it did
+
+Prophet Salih said,
+
+قَدْ جَاءَتْكُم بَيِّنَةٌ مِّن رَّبِّكُمْ هَٰذِهِ نَاقَةُ اللَّهِ لَكُمْ آيَةً
+
+("Indeed there has come to you a clear sign from your Lord. This she-camel of Allah is a sign unto you;")
+
+meaning, a miracle has come to you from Allah testifying to the truth of what I came to you with.
+
+Salih's people asked him to produce a miracle and suggested a certain solid rock that they chose, which stood lonely in the area of Hijr, and which was called Al-Katibah. They asked him to bring a pregnant camel out of that stone. Salih took their covenant and promises that if Allah answers their challenge, they would believe and follow him. When they gave him their oaths and promises to that, Salih started praying and invoked Allah (to produce that miracle). All of a sudden, the stone moved and broke apart, producing a she-camel with thick wool. It was pregnant and its fetus was visibly moving in its belly, exactly as Salih's people asked. This is when their chief, Jundu' bin 'Amr, and several who followed him believed. The rest of the noblemen of Thamud wanted to believe as well, but Dhu'ab bin 'Amr bin Labid, Al-Habbab, who tended their idols, and Rabbab bin Sum'ar bin Jilhis stopped them. One of the cousins of Jundu' bin 'Amr, whose name was Shihab bin Khalifah bin Mikhlat bin Labid bin Jawwas, was one of the leaders of Thamud, and he also wanted to accept the message. However, the chiefs whom we mentioned prevented him, and he conceded to their promptings.
+
+The camel remained in Thamud, as well as, its offspring after she delivered it before them. The camel used to drink from its well on one day and leave the well for Thamud the next day. They also used to drink its milk, for on the days she drank water, they used to milk her and fill their containers from its milk. Allah said in other Ayat,
+
+وَنَبِّئْهُمْ أَنَّ الْمَاءَ قِسْمَةٌ بَيْنَهُمْ كُلُّ شِرْبٍ مُّحْتَضَرٌ
+
+(And inform them that the water is to be shared between (her and) them, each one's right to drink being established (by turns))[54:28] and,
+
+هَٰذِهِ نَاقَةٌ لَّهَا شِرْبٌ وَلَكُمْ شِرْبُ يَوْمٍ مَّعْلُومٍ
+
+(Here is a she-camel: it has a right to drink (water), and you have a right to drink (water)(each) on a day, known)[26:155]
+
+The camel used to graze in some of their valleys, going through a pass and coming out through another pass. She did that so as to be able to move easily, because she used to drink a lot of water. She was a tremendous animal that had a strikingly beautiful appearance. When she used to pass by their cattle, the cattle would be afraid of her. When this matter continued for a long time and Thamud's rejection of Salih became intense, they intended to kill her so that they could take the water for themselves every day. It was said that all of them (the disbelievers of Thamud) conspired to kill the camel. Qatadah said that he was told that, "The designated killer of the camel approached them all, including women in their rooms and children, and found out that all of them agreed to kill her." This fact is apparent from the wording of the Ayat,
+
+فَكَذَّبُوهُ فَعَقَرُوهَا فَدَمْدَمَ عَلَيْهِمْ رَبُّهُم بِذَنبِهِمْ فَسَوَّاهَا
+
+(Then they denied him and they killed it. So their Lord destroyed them because of their sin, and made them equal in destruction!)[91:14], and,
+
+وَآتَيْنَا ثَمُودَ النَّاقَةَ مُبْصِرَةً فَظَلَمُوا بِهَا
+
+(And We sent the she-camel to Thamud as a clear sign, but they did her wrong.)[17:59] Allah said here,
+
+فَعَقَرُوا النَّاقَةَ
+
+(So they killed the she-camel)
+
+Therefore, these Ayat stated that the entire tribe shared in agreeing to this crime, and Allah knows best.
+
+Thamud kills the She-Camel
+
+Imam Abu Ja'far Ibn Jarir and other scholars of Tafsir said that the reason behind killing the camel was that a disbelieving old woman among them named Umm Ghanm 'Unayzah, the daughter of Ghanm bin Mijlaz, had the severest enmity among Thamud towards Salih, peace be upon him. She had beautiful daughters and she was wealthy, and Dhu'ab bin 'Amr, one of the leaders of Thamud, was her husband.
+
+There was another noblewoman whose name was Saduf bint Al-Muhayya bin Dahr bin Al-Muhayya, who was of noble family, wealthy and beautiful. She was married to a Muslim man from Thamud, but she left him. These two women offered a prize for those who swore to them that they would kill the camel. Once, Saduf summoned a man called Al-Habbab and offered herself to him if he would kill the camel, but he refused. So she called a cousin of hers whose name was Musaddi' bin Mihraj bin Al-Muhayya, and he agreed. As for 'Unayzah bint Ghanm, she called Qudar bin Salif bin Jundu', a short person with red-blue skin, a bastard, according to them. Qudar was not the son of his claimed father, Salif, but the son of another man called, Suhyad. However, he was born on Salif's bed (and thus named after him). 'Unayzah said to Qudar, "I will give you any of my daughters you wish, if you kill the camel." Qudar bin Salif and Musaddi' bin Mihraj went along and recruited several mischievous persons from Thamud to kill the camel. Seven more from Thamud agreed, and the group became nine, as Allah described, when He said,
+
+وَكَانَ فِي الْمَدِينَةِ تِسْعَةُ رَهْطٍ يُفْسِدُونَ فِي الْأَرْضِ وَلَا يُصْلِحُونَ
+
+(And there were in the city nine men, who made mischief in the land, and would not reform.)[27:48]
+
+These nine men were chiefs of their people, and they lured the entire tribe into agreeing to kill the camel. So they waited until the camel left the water well, where Qudar waited beside a rock on its path, while Musaddi' waited at another rock. When the camel passed by Musaddi' he shot an arrow at her and the arrow pierced her leg. At that time, 'Unayzah came out and ordered her daughter, who was among the most beautiful women, to uncover her face for Qudar, encouraging Qudar to swing his sword, hitting the camel on her knee. So she fell to the ground and screamed once to warn her offspring. Qudar stabbed her in her neck and slaughtered her. Her offspring went up a high rock and screamed. 'Abdur-Razzaq recorded from Ma'mar that someone reported from Al-Hasan Al-Basari that the offspring said, "O my Lord! Where is my mother?" It was said that her offspring screamed thrice and entered a rock and vanished in it, or, they followed it and killed it together with its mother. Allah knows best. When they finished the camel off and the news reached Prophet Salih, he came to them while they were gathered. When he saw the camel, he cried and proclaimed,
+
+تَمَتَّعُوا فِي دَارِكُمْ ثَلَاثَةَ أَيَّامٍ
+
+("Enjoy yourselves in your homes for three days.")[11:65]
+
+The Wicked Ones Plot to Kill Prophet Salih, But the Torment descended on Them
+
+The nine wicked persons killed the camel on a Wednesday, and that night, they conspired to kill Salih. They said, "If he is truthful, we should finish him before we are finished. If he is a liar, we will make him follow his camel."
+
+قَالُوا تَقَاسَمُوا بِاللَّهِ لَنُبَيِّتَنَّهُ وَأَهْلَهُ ثُمَّ لَنَقُولَنَّ لِوَلِيِّهِ مَا شَهِدْنَا مَهْلِكَ أَهْلِهِ وَإِنَّا لَصَادِقُونَ - وَمَكَرُوا مَكْرًا وَمَكَرْنَا مَكْرًا وَهُمْ لَا يَشْعُرُونَ
+
+(They said: "Swear one to another by Allah that we shall make a secret night attack on him and his household, and thereafter we will surely say to his near relatives: 'We witnessed not the destruction of his household, and verily, we are telling the truth.'" So they plotted a plot, and We planned a plan, while they perceived not.)[27:49-50]
+
+When they conspired to kill Salih and gathered at night to carry out their plot, Allah, to Whom belongs all might and Who protects His Messengers, rained down stones that smashed the heads of these nine people before the rest of the tribe. On Thursday, the first of the three days of respite, the people woke up and their faces were pale (yellow), just as Prophet Salih had promised them. On the second day of respite,
+
+[TRUNCATED at 12000 chars — 2196 more. Consult the source directly before relying on anything near the cut.]
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله :  فَأَخَذَتْهُمُ الرَّجْفَةُ فَأَصْبَحُوا فِي دَارِهِمْ جَاثِمِينَ (78)قال أبو جعفر : يقول تعالى ذكره: فأخذت الذين عقروا الناقةَ من ثمود =(الرجفة)، وهي الصيحة.* * *و " الرجفة " ،" الفعلة "، من قول القائل: " رجَف بفلان كذا يرجُفُ رجْفًا "، وذلك إذا حرَّكه وزعزعه، كما قال الأخطل:إِمَّـا تَـرَيْنِي حَنَـانِي الشَّـيْبُ مِنْ كِبَرٍكَالنَّسْـرِ أَرْجُـفُ , وَالإنْسَـانُ مَهْدُودُ (7)وإنما عنى بـ" الرجفة " ، ها هنا الصيحة التي زعزعتهم وحركتهم للهلاك، لأن ثمود هلكت بالصيحة ، فيم...
+القول في تأويل قوله: ﴿فَأَخَذَتْهُمُ الرَّجْفَةُ فَأَصْبَحُوا فِي دَارِهِمْ جَاثِمِينَ (٧٨) ﴾
+
+قال أبو جعفر: يقول تعالى ذكره: فأخذت الذين عقروا الناقةَ من ثمود = ﴿الرجفة﴾ ، وهي الصيحة.
+
+* *
+
+و"الرجفة"،"الفعلة"، من قول القائل:"رجَف بفلان كذا يرجُفُ رجْفًا"، وذلك إذا حرَّكه وزعزعه، كما قال الأخطل:
+
+إِمَّا تَرَيْنِي حَنَانِي الشَّيْبُ مِنْ كِبَرٍ ... كَالنَّسْرِ أَرْجُفُ، وَالإنْسَانُ مَهْدُودُ [[ديوانه: ١٤٦ من قصيدة له جيدة، قالها في يزيد بن معاوية، وذكر فيها الشباب ذكرًا عجبًا، وقد رأى إعراض الغواني عنه من أجله، يقول بعده: وَقَدْ يَكُونُ الصِّبَى مِنِّي بِمَنْزِلَةٍ ... يَوْمًا، وتَقْتَادُنِي الهِيفُ الرَّعَادِيدُ
+
+يَا قَلَّ خَيْرُ الغَوَانِي، كيف رُغْنَ بِهِ ... فَشُرْبُهُ وَشَلٌ فِيهِنَّ تَصْرِيدُ
+
+أَعْرَضْنَ مِنْ شَمَطٍ في الرَّأْسِ لاحَ بِهِ ... فَهُنّ مِنْهُ، إِذَا أَبْصَرْنَهُ، حِيدُ
+
+قَدْ كُنَّ يَعْهَدْنَ مِنِّي مَضْحَكًا حَسَنًا ... وَمَفْرِقًا حَسَرَتْ عَنْهُ العَنَاقِيدُ
+
+فَهُنَّ يَشْدُونَ مِنِّي بَعْضَ مَعْرِفَةٍ، ... وَهُنَّ بالوُدِّ، لا بُخْلٌ ولا جُودُ
+
+قَدْ كَانَ عَهْدِي جَدِيدًا، فَاسْتُبِدَّ بِهِ، ... وَالعَهْدُ مُتَّبَعٌ مَا فِيهِ، مَنشُودُ
+
+يَقُلْنَ: لا أَنْتَ بَعْلٌ يُسْتَقَادُ لَهُ، ... وَلا الشَّبَابُ الَّذِي قَدْ فَاتَ مَرْدُودُ
+
+هَلْ لِلشَّبَابِ الذي قَدْ فَاتَ مرْدُودُ ؟ ... أَمْ هَلْ دَوَاءٌ يَرُدُّ الشِّيبَ مَوْجُودُ ؟
+
+لَنْ يَرْجِعَ الشِّيبُ شُبَّانًا، وَلَنْ يَجِدُوا ... عِدْلَ الشَّبَابِ، مَا أَوْرَقَ العُودُ
+
+إِنَّ الشَّبَابَ لَمَحْمُودٌ بَشَاشَتُهُ ... والشَّيْبُ مُنْصَرفٌ عَنْهُ وَمَصْدُودُ
+
+وهي أبيات ملئت عاطفة وحزنًا وحسرة، فاحفظها.]] وإنما عنى بـ"الرجفة"، ها هنا الصيحة التي زعزعتهم وحركتهم للهلاك، لأن ثمود هلكت بالصيحة، فيما ذكر أهل العلم.
+
+* *
+
+وبنحو ما قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+١٤٨٢٨-حدثني محمد بن عمرو قال، حدثنا أبو عاصم قال، حدثنا عيسى، عن ابن أبي نجيح، عن مجاهد، في قول الله:"الرجفة"، قال: الصيحة.
+
+١٤٨٢٩-حدثني المثنى قال، حدثنا أبو حذيفة قال، حدثنا شبل، عن ابن أبي نجيح، عن مجاهد، مثله.
+
+١٤٨٣٠-حدثني محمد بن الحسين قال، حدثنا أحمد بن المفضل قال، حدثنا أسباط، عن السدي: ﴿فأخذتهم الرجفة﴾ ، وهي الصيحة.
+
+١٤٨٣١-حدثني الحارث قال، حدثنا عبد العزيز قال، حدثنا أبو سعد، عن مجاهد: ﴿فأخذتهم الرجفة﴾ ، قال: الصيحة.
+
+* *
+
+وقوله: ﴿فأصبحوا في دارهم جاثمين﴾ ، يقول: فأصبح الذين أهلك الله من ثمود= ﴿في دارهم﴾ ، يعني في أرضهم التي هلكوا فيها وبلدتهم.
+
+* *
+
+ولذلك وحَّد"الدار" ولم يجمعها فيقول" في دورهم"= وقد يجوز أن يكون أريد بها الدور، ولكن وجَّه بالواحدة إلى الجميع، كما قيل: ﴿وَالْعَصْرِ إِنَّ الإنْسَانَ لَفِي خُسْرٍ﴾ [العصر: ١-٢] .
+
+* *
+
+وقوله: ﴿جاثمين﴾ ، يعني: سقوطًا صرعَى لا يتحركون، لأنهم لا أرواح فيهم، قد هلكوا. والعرب تقول للبارك على الركبة:"جاثم"، ومنه قول جرير:
+
+عَرَفْتُ المُنْتَأَى، وَعَرَفْتُ مِنْهَا ... مَطَايَا القِدْرِ كَالحِدَإِ الجُثُومِ [[ديوانه: ٥٠٧، ومجاز القرآن لأبي عبيدة ١: ٢١٨، من قصيدته في هشام بن عبد الملك، مضى منها بيت فيما سلف ١: ١٧٠.
+
+يقول قبله: وَقَفْتُ عَلَى الدِّيَارِ، وَمَا ذَكَرْنَا ... كَدَارٍ بَيْنَ تَلْعَةَ والنَّظِيم
+
+و"المنتأى"، حفير النؤى حول البيت. و"مطايا القدر"، أثافيها، تركبها القدر فهي لها مطية. وجعلها كالحدإ الجثوم، لسوادها من سخام النار.
+
+وكان في المخطوطة: "عرفت الصاى"، غير منقوطة، وخطأ، صوابه ما في المطبوعة.]]
+
+* *
+
+وبنحو الذي قلنا في ذلك قال أهل التأويل.
+
+ذكر من قال ذلك:
+
+١٤٨٣٢-حدثني يونس قال، أخبرنا ابن وهب قال، قال ابن زيد، في قوله: ﴿فأصبحوا في دارهم جاثمين﴾ ، قال: ميتين.
 
 ### al-Muyassar (Arabic)
 
@@ -128,7 +918,7 @@ Scholars of Tafsir and genealogy say that (the tribe of Thamud descended from) T
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿فَأَخَذَتْهُمْ الرَّجْفَة﴾ الزَّلْزَلَة الشَّدِيدَة مِن الأَرْض والصَّيْحَة مِن السَّماء ﴿فَأَصْبَحُوا فِي دارهمْ جاثِمِينَ﴾ بارِكِينِ عَلى الرُّكَب مَيِّتِينَ
 
 ---
 
@@ -136,19 +926,44 @@ Scholars of Tafsir and genealogy say that (the tribe of Thamud descended from) T
 
 ### Ibn Kathir (English)
 
-«يَا أَبَا جَهْلِ بْنَ هِشَامٍ يَا عُتْبَةَ بْنَ رَبِيعَةَ يَا شَيْبَةَ بْنَ رَبِيعَةَ وَيَا فُلَانَ بْنَ فُلَانٍ هَلْ وَجَدْتُمْ مَا وَعَدَ رَبُّكُمْ حَقًّا،؟ فَإِنِّي وَجَدْتُ مَا وَعَدَنِي رَبِّي حَقًّا»
-(O Abu Jahl bin Hisham! O `Utbah bin Rabi`ah! O Shaybah bin Rabi`ah! Did you find what your Lord has promised you (of torment) to be true, for I found what my Lord promised me (of victory) to be true.) `Umar said to him, "O Allah's Messenger! Why do you speak to a people who have rotted" H...
+Then he [Salih] turned from them, and said: "O my people! I have indeed conveyed to you the Message of my Lord, and have given you good advice, but you like not good advisers. (79)
+
+These are the words of admonishment that Salih conveyed to his people after Allah destroyed them for defying Him, rebelling against Him, refusing to accept the truth, avoiding guidance, and preferring misguidance instead. Salih said these words of admonishment and criticism to them after they perished, and they heard him (as a miracle for Prophet Salih from Allah). Similarly, it is recorded in the Two Sahihs that after the Messenger of Allah ﷺ defeated the disbelievers in the battle of Badr, he remained in that area for three days, and then rode his camel, which was prepared for him during the latter part of the night. He went on until he stood by the well of Badr (where the corpses of the disbelievers were thrown) and said,
+
+يَا أَبَا جَهْلِ بْنَ هِشَامٍ يَا عُتْبَةَ بْنَ رَبِيعَةَ يَا شَيْبَةَ بْنَ رَبِيعَةَ وَيَا فُلَانَ بْنَ فُلَانٍ هَلْ وَجَدْتُمْ مَا وَعَدَ رَبُّكُمْ حَقًّا،؟ فَإِنِّي وَجَدْتُ مَا وَعَدَنِي رَبِّي حَقًّا
+
+(O Abu Jahl bin Hisham! O 'Utbah bin Rabi'ah! O Shaybah bin Rabi'ah! Did you find what your Lord has promised you (of torment) to be true, for I found what my Lord promised me (of victory) to be true.) 'Umar said to him, "O Allah's Messenger! Why do you speak to a people who have rotted?" He ﷺ said,
+
+وَالَّذِي نَفْسِي بِيَدِهِ مَا أَنْتُمْ بِأَسْمَعَ لِمَا أَقُولُ مِنْهُمْ وَلَكِنْ لَا يـُجِيبُونَ
+
+(By He in Whose Hand is my soul! You do not hear what I am saying better than they, but they cannot reply.)
+
+Similarly, Prophet Salih, peace be upon him, said to his people,
+
+لَقَدْ أَبْلَغْتُكُمْ رِسَالَةَ رَبِّي وَنَصَحْتُ لَكُمْ
+
+("I have indeed conveyed to you the Message of my Lord, and have given you good advice,") but you did not benefit from it because you do not like the Truth and do not follow those who give you sincere advice,
+
+وَلَٰكِن لَّا تُحِبُّونَ النَّاصِحِينَ
+
+("but you like not good advisers.")
 
 ### al-Tabari (Arabic)
 
-القول في تأويل قوله :  فَتَوَلَّى عَنْهُمْ وَقَالَ يَا قَوْمِ لَقَدْ أَبْلَغْتُكُمْ رِسَالَةَ رَبِّي وَنَصَحْتُ لَكُمْ وَلَكِنْ لا تُحِبُّونَ النَّاصِحِينَ (79)قال أبو جعفر : يقول تعالى ذكره: فأدبر صالح عنهم حين استعجلوه العذاب وعقروا ناقة الله ، خارجًا عن أرضهم من بين أظهُرهم ، (9) لأن الله تعالى ذكره أوحَى إليه: إنّي مهلكهم بعد ثالثة. (10)وقيل: إنه لم تهلك أمة ونبيها بين أظهُرها. (11)فأخبر الله جل ثناؤه عن خروج صالح من بين قومه الذين عتوا على ربهم حين أراد الله إحلال عقوبته بهم، فقال: (فتول...
+القول في تأويل قوله: ﴿فَتَوَلَّى عَنْهُمْ وَقَالَ يَا قَوْمِ لَقَدْ أَبْلَغْتُكُمْ رِسَالَةَ رَبِّي وَنَصَحْتُ لَكُمْ وَلَكِنْ لا تُحِبُّونَ النَّاصِحِينَ (٧٩) ﴾
+
+قال أبو جعفر: يقول تعالى ذكره: فأدبر صالح عنهم حين استعجلوه العذاب وعقروا ناقة الله، خارجًا عن أرضهم من بين أظهُرهم، [[انظر تفسير"تولى" فيما سلف ١٠: ٥٧٥، تعليق: ١، والمراجع هناك.]] لأن الله تعالى ذكره أوحَى إليه: إنّي مهلكهم بعد ثالثة. [[في المطبوعة: "بعد ثلاثة"، والصواب المحض ما أثبت من المخطوطة.]]
+
+وقيل: إنه لم تهلك أمة ونبيها بين أظهُرها. [[انظر معاني القرآن ١: ٣٨٥.]]
+
+فأخبر الله جل ثناؤه عن خروج صالح من بين قومه الذين عتوا على ربهم حين أراد الله إحلال عقوبته بهم، فقال: ﴿فتولى عنهم﴾ صالح= وقال لقومه ثمود= ﴿لقد أبلغتكم رسالة ربي﴾ ، وأدّيت إليكم ما أمرني بأدائه إليكم ربّي من أمره ونهيه [[انظر تفسير"الإبلاغ" فيما سلف: ١٠: ٥٧٥/ ١١: ٩٥/ ١٢: ٥٠٤.]] = ﴿ونصحت لكم﴾ ، في أدائي رسالة الله إليكم، في تحذيركم بأسه بإقامتكم على كفركم به وعبادتكم الأوثان= ﴿ولكن لا تحبون الناصحين﴾ ، لكم في الله، الناهين لكم عن اتباع أهوائكم، الصادِّين لكم عن شهوات أنفسكم.
 
 ### al-Muyassar (Arabic)
 
-فأعرض صالح عليه السلام عن قومه -حين عقروا الناقة وحل بهم الهلاك- وقال لهم: يا قوم لقد أبلغتكم ما أمرني ربي بإبلاغه من أمره ونهيه، وبَذَلْت لكم وسعي في الترغيب والترهيب والنصح، ولكنكم لا تحبون الناصحين، فرددتم قولهم، وأطعتم كل شيطان رجيم.
+فأعرض صالح عليه السلام عن قومه -حين عقروا الناقة وحلَّ بهم الهلاك- وقال لهم: يا قوم لقد أبلغتكم ما أمرني ربي بإبلاغه مِن أمره ونهيه، وبَذَ لْتُ لكم وسعي في الترغيب والترهيب والنصح، ولكنكم لا تحبون الناصحين، فرددتم قولهم، وأطعتم كل شيطان رجيم.
 
 ### al-Jalalayn (Arabic)
 
-*Not available for this ayah*
+﴿فَتَوَلّى﴾ أعَرَضَ صالِح
 
 ---
