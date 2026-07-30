@@ -64,22 +64,37 @@ recommended one:
 Then always confirm: `node scripts/verify_arabic.mjs <your-draft> --scan` must report
 **0 warnings**. If it doesn't, splice the original bytes back and re-check.
 
-## TAFSIR REPORTS ARE UNRELIABLE PER-AYAH — MEASURED
+## READING THE TAFSIR REPORTS (revised 2026-07-28)
 
-Do not trust a `## S:A` heading to tell you which ayah a commentator is discussing.
-Measured across the corpus on 2026-07-27:
+All 1,367 reports were REGENERATED on 2026-07-28. They are no longer truncated, and
+al-Jalalayn — previously marked "not available" in 4,952 sections, falsely — is now
+present. If you are working from memory of how thin these reports used to be, discard it.
 
-| | |
-|---|---|
-| Multi-ayah tafsir reports | 800 |
-| With one source's block repeated **identically under every heading** | **314 (39.2%)** |
-| — of those, Ibn Kathir | **313** |
+**One commentator's block often appears under several `## S:A` headings. That is NOT a
+defect.** Ibn Kathir comments on *passages*, not single ayahs, and the source maps every
+ayah in a passage to the same block. An earlier version of this spec told agents the
+repeated block was "usually commentary on a different ayah"; that was an artifact of the
+old 500-char truncation, which cut passage blocks near their opening so only the first
+ayah's material was visible. Several agents consequently refused to cite Ibn Kathir at
+all. Do not repeat that.
 
-The repeated block is usually commentary on the passage's *first* ayah, or on the ayah
-*before* it, and is frequently truncated mid-sentence. **Read the Arabic the
-commentator actually quotes and confirm it matches the ayah before attributing
-anything to him.** If it doesn't match, attribute to the ayah he is really discussing
-and say so in your report. Three agents caught exactly this on 2026-07-27.
+So:
+- **Read the whole block** and see which ayahs it actually treats. A passage block
+  legitimately covers the whole passage.
+- **Still verify the Arabic a commentator quotes** before attributing a specific point to
+  him at a specific ayah. Genuine misfiling does exist — `003-aal-imran/tafsir-report-133-136.md`,
+  `005-al-maidah/tafsir-report-051.md`, and al-Tabari offset by one throughout
+  `014-ibrahim/tafsir-report-024-027.md` were all hand-verified.
+- **Do not infer silence.** If a block says FETCH FAILED, that is a pipeline failure, not
+  evidence the commentator is silent. Consult the source before concluding anything.
+- Reports now cut only at 12,000 chars, with an explicit marker. If you see that marker,
+  consult the source before relying on anything near it.
+
+**Why this matters for your writing:** the old truncation cut al-Tabari off exactly where
+he states `واختلف أهل التأويل في...`. Files written against those reports settled live
+disagreements without knowing a disagreement existed — that is the single most common
+real defect found in this corpus. You now have the full text. **Look for the ikhtilaf and
+report it.**
 
 ## POST-BATCH STEP (pipeline owner, not the agent)
 
