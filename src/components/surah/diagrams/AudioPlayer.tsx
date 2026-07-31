@@ -16,14 +16,25 @@ export function AudioPlayer({ audio }: AudioPlayerProps) {
   const progressRef = useRef<HTMLDivElement>(null)
   const src = `https://cdn.islamic.network/quran/audio-surah/128/${audio.reciter}/${audio.surahNumber}.mp3`
 
-  const toggle = () => {
+  const toggle = async () => {
     if (!audioRef.current) return
-    if (playing) { audioRef.current.pause() } else { audioRef.current.play() }
-    setPlaying(!playing)
+    if (playing) {
+      audioRef.current.pause()
+      setPlaying(false)
+    } else {
+      try {
+        await audioRef.current.play()
+        setPlaying(true)
+      } catch (e: unknown) {
+        if (e instanceof Error && e.name === 'AbortError') return
+        throw e
+      }
+    }
   }
 
   const seekTo = (clientX: number) => {
     if (!audioRef.current || !progressRef.current) return
+    if (!Number.isFinite(audioRef.current.duration)) return
     const rect = progressRef.current.getBoundingClientRect()
     const pct = Math.max(0, Math.min(1, (clientX - rect.left) / rect.width))
     audioRef.current.currentTime = pct * audioRef.current.duration

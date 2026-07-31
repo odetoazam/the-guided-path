@@ -288,6 +288,72 @@
     font-weight: 600;
   }
 
+  /* ── Ayah reflection pages (/reflections/[slug]) ───────────────────────
+     Layered on .prose-blog; only the constructs unique to the tadabbur
+     corpus are defined here: quoted ayah blocks, inline ayah citations,
+     Arabic runs inside English prose, and the wide grammar tables. */
+
+  .reflection-body .reflection-ayah {
+    @apply my-7 sm:my-9 rounded-xl border border-zinc-200 bg-zinc-50 px-5 py-4 dark:border-white/[0.06] dark:bg-white/[0.02];
+    border-left: 3px solid rgba(201, 168, 76, 0.5);
+    font-style: normal;
+  }
+
+  .reflection-body .reflection-ayah-ref {
+    @apply mb-2 inline-block rounded-md bg-gold-500/10 px-2 py-0.5 text-xs font-medium tabular-nums text-gold-500;
+    font-family: var(--font-sans);
+  }
+
+  .reflection-body .reflection-ayah-arabic {
+    direction: rtl;
+    text-align: right;
+    font-family: var(--font-amiri), 'Amiri', serif;
+    @apply mb-0 text-xl leading-[2.1] text-navy dark:text-cream/90 sm:text-2xl sm:leading-[2.3];
+    word-break: break-word;
+    overflow-wrap: anywhere;
+  }
+
+  .reflection-body .reflection-ayah-gloss {
+    @apply mb-0 text-base leading-relaxed text-zinc-600 dark:text-cream/70;
+  }
+
+  /* A citation that sits mid-sentence rather than as a block quote. */
+  .reflection-body .reflection-ayah-inline {
+    @apply rounded bg-gold-500/10 px-1.5 py-0.5 text-[0.8em] font-medium tabular-nums text-gold-500;
+    font-family: var(--font-sans);
+    white-space: nowrap;
+  }
+
+  /* Arabic words quoted inside an English sentence. */
+  .reflection-body .ar {
+    font-family: var(--font-amiri), 'Amiri', serif;
+    font-size: 1.15em;
+    line-height: 1.9;
+    unicode-bidi: isolate;
+  }
+
+  /* Grammar tables scroll themselves; the page never scrolls sideways. */
+  .reflection-body .reflection-table-wrap {
+    @apply my-7 overflow-x-auto rounded-xl border border-zinc-200 dark:border-white/[0.06];
+    -webkit-overflow-scrolling: touch;
+  }
+
+  .reflection-body .reflection-table-wrap table {
+    @apply w-full border-collapse text-sm;
+    min-width: 32rem;
+  }
+
+  .reflection-body .reflection-table-wrap th {
+    @apply bg-zinc-50 px-4 py-2.5 text-left text-xs font-semibold uppercase tracking-wider text-zinc-500 dark:bg-white/[0.03] dark:text-cream/40;
+    font-family: var(--font-sans);
+    border-bottom: 1px solid rgba(201, 168, 76, 0.2);
+  }
+
+  .reflection-body .reflection-table-wrap td {
+    @apply px-4 py-3 align-top text-zinc-700 dark:text-cream/75;
+    border-top: 1px solid rgba(128, 128, 128, 0.12);
+  }
+
   /* Gold gradient text */
   .text-gold-gradient {
     @apply bg-gradient-to-r from-gold-400 to-gold-600 bg-clip-text text-transparent;

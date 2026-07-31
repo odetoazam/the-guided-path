@@ -22,6 +22,7 @@ function getInitials(user: User): string {
 const topLinks = [
   { href: '/surahs', label: 'Surahs' },
   { href: '/articles', label: 'Articles' },
+  { href: '/reflections', label: 'Reflections' },
 ]
 
 const learnLinks = [

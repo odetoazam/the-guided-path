@@ -208,7 +208,7 @@ export function SurahTabs({
                           <div key={tab.id} className={activeSubTab !== tab.id ? 'hidden' : ''}>
                             <DiagramRenderer
                               tab={tab}
-                              diagrams={visualData.diagrams}
+                              diagrams={visualData.diagrams ?? {}}
                               fullText={visualData.full_text}
                               heartVerse={visualData.heart_verse}
                             />

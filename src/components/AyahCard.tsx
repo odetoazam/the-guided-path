@@ -11,6 +11,8 @@ interface AyahCardProps {
   title?: string
   layerA?: Record<string, any>
   expandable?: boolean
+  /** Link to the passage's full reflection page, when one exists. */
+  href?: string
 }
 
 export function AyahCard({
@@ -22,6 +24,7 @@ export function AyahCard({
   title,
   layerA,
   expandable = false,
+  href,
 }: AyahCardProps) {
   const [expanded, setExpanded] = useState(false)
 
@@ -30,7 +33,10 @@ export function AyahCard({
       ? `${surahNumber}:${ayahStart}`
       : `${surahNumber}:${ayahStart}-${ayahEnd}`
 
-  const hasGrounding = expandable && layerA && Object.keys(layerA).length > 0
+  // With a reflection page available, link to it rather than unfolding the raw
+  // layer_a payload — that panel printed the pipeline's own scaffolding
+  // (grounding tables inside HTML comments) as visible text.
+  const hasGrounding = !href && expandable && layerA && Object.keys(layerA).length > 0
 
   return (
     <div className="rounded-xl border border-zinc-200 bg-zinc-50 dark:border-white/[0.05] dark:bg-white/[0.015]">
@@ -94,6 +100,16 @@ export function AyahCard({
               </div>
             )}
           </div>
+        )}
+
+        {href && (
+          <a
+            href={href}
+            className="mt-4 inline-flex items-center gap-1.5 text-xs font-medium text-gold-500 transition-colors hover:text-gold-400"
+          >
+            <span>Read the full reflection</span>
+            <span aria-hidden>→</span>
+          </a>
         )}
       </div>
     </div>

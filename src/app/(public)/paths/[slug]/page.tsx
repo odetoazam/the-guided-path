@@ -4,13 +4,14 @@ import type { Metadata } from 'next'
 import { PATHS, PATHS_BY_SLUG, type Path, type PathStop } from '@/data/paths'
 import { createClient } from '@/lib/supabase/server'
 import { CANONICAL_URL, SITE_NAME } from '@/lib/constants'
+import { reflectionSlug } from '@/lib/reflection-render'
 
 // ─── Types ─────────────────────────────────────────────────────────────────
 
 interface ResolvedStop extends PathStop {
   resolvedTitle: string
   resolvedExcerpt: string | null
-  resolvedHref: string | null // null = ayah (displayed inline, no link)
+  resolvedHref: string | null // null = the stop has no page yet
   resolvedArabic?: string
   resolvedTranslation?: string
   found: boolean
@@ -109,7 +110,12 @@ async function resolveStops(path: Path): Promise<ResolvedStop[]> {
       resolvedTitle: label,
       resolvedExcerpt: match?.translation ?? null,
       resolvedArabic: match?.arabic_text ?? undefined,
-      resolvedHref: null,
+      // Ayah stops used to be dead ends: the card showed Arabic and a clipped
+      // translation with nothing to open, so the deepest stop on every path was
+      // the one a reader could not actually read. Each record now has a page.
+      resolvedHref: match
+        ? `/reflections/${reflectionSlug(match.surah_number, match.ayah_start, match.ayah_end)}`
+        : null,
       found: !!match,
     }
   })
