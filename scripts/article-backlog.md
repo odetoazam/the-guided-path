@@ -32061,3 +32061,18 @@ Sitemap fix from the 2026-07-30 session was **still sitting uncommitted** — ma
 - The negation budget in the skill ("< 10 per 2000 words") uses a narrower token list than a plain regex: **every already-published article scores 12.9–30.5** on a broad regex. Calibrate against published articles rather than the raw number.
 - Dropped a tempting claim mid-draft: `albāb` as "kernels/cores". Lane's in `lanes-roots.json` gives the **chest** sense for ل-ب-ب, so the etymology went unused rather than asserted.
 - **Open:** `nazm` article; the 9 newly-found synthesis gaps; a note editor on reflection pages (the API only accepts `post|surah` and `user_reflections` is empty, so a DB check constraint could not be confirmed — needs a migration check before adding an `ayah` type).
+
+### 2026-07-31 (cont.) — ayah records tagged into the graph + the last path stop closed
+
+**5. The 182 reflection pages were orphaned from the semantic graph.** Only **35 of 182** carried any entity tag, so most hubs showed "Ayah Records 0" and the new pages had almost nothing linking to them.
+- `scripts/tag-ayah-records-to-hubs.ts`. Rule: an entity is tagged to a passage when **the entity's own Arabic name appears as a LEMMA** there, per the corpus.
+- **Root matching was tried FIRST and rejected — do not repeat it.** Roots conflate distinct concepts: ق-و-م put `qiyamah` on Al-Fatiha (via *mustaqīm*), أ-ن-س put `uns` wherever *insān* appears, أ-م-ن made `iman` and `amanah` indistinguishable. Lemma matching removes that whole class of error.
+- Two names excluded outright, because the name is also an ordinary word and **every** match was false: **`salih`** (5/5 were *ʿamila ṣāliḥan*, "righteous deeds") and **`hud`** (2/2 were *hūdan*, "Jews", 2:111 / 2:135).
+- 398 tags written. Records in the graph **35 → 160 of 182**; hubs surfacing ayah records **4 → 44**. Musa's hub alone now carries 18 links into the reflection pages (verified live).
+
+**6. `nazm` article published — ALL 20 PATH STOPS NOW LAND ON REAL CONTENT** (13 at session start).
+- `nazm-sentence-crosses-surah-quran`. The root ن-ظ-م never occurs in the Quran, so this had to be structural rather than a frequency piece. Surah Quraysh opens with a preposition and no verb (*li-īlāfi Quraysh*); Ibn Kathir reports **Ibn Ishaq + Ibn Zayd** holding the missing action is in Al-Fil, while **Ibn Jarir al-Ṭabari** reads the lām as a particle of amazement and holds the two surahs separate. The mushaf keeps both — separated by the basmala, joined in sense. Across the seam the imagery answers itself: the army ends as something *eaten* (105:5), the people of the House are *fed* (106:4) — stated as imagery, since أكل and طعم are distinct roots.
+- **al-Jalalayn's entry for 106:1 FAILED TO FETCH.** The tool warns not to read a failed fetch as silence, so nothing was attributed to him. Worth re-checking if that article is ever revised.
+- Also fills the `quraysh` hub (one of the 9 newly-found synthesis gaps).
+
+**Still open:** the remaining 8 hubs with 3+ articles and no synthesis (dhikr, jinn, luqman, thamud, layl, dunya, yawm, haqq) — they need focused articles first, since their "primary" tags are mostly surah overview pages.
