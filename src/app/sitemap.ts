@@ -5,6 +5,13 @@ import { GLOSSARY_TERMS } from '@/data/glossary'
 import { PATHS } from '@/data/paths'
 import { MetadataRoute } from 'next'
 
+// The Supabase REST calls below go through Next's patched fetch, which caches
+// responses in the Data Cache. Without this the sitemap silently froze against an
+// old snapshot of `posts` (it was serving 114 surah URLs and omitting all 208
+// article URLs). Regenerate hourly, and always read fresh data when we do.
+export const revalidate = 3600
+export const fetchCache = 'force-no-store'
+
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const now = new Date()
   const entries: MetadataRoute.Sitemap = [
@@ -85,19 +92,38 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     }
 
     // Entity hub pages (e.g. /hub/shaytan)
+    // Only hubs that actually have published content are submitted. A hub with no
+    // tagged articles renders as a thin page (name, root, and a placeholder
+    // overview), so including them would spend crawl budget on empty pages.
     const { data: entities } = await supabase
       .from('entities')
-      .select('slug, updated_at')
+      .select('id, slug, updated_at')
 
     if (entities) {
-      entities.forEach((entity) => {
-        entries.push({
-          url: `${CANONICAL_URL}/hub/${entity.slug}`,
-          lastModified: entity.updated_at ? new Date(entity.updated_at) : now,
-          changeFrequency: 'monthly',
-          priority: 0.75,
+      // Paginated: entity_tags exceeds PostgREST's 1000-row default page size,
+      // and a truncated read would silently drop populated hubs from the sitemap.
+      const populated = new Set<string>()
+      for (let from = 0; ; from += 1000) {
+        const { data: page } = await supabase
+          .from('entity_tags')
+          .select('entity_id, posts!inner(status)')
+          .eq('posts.status', 'published')
+          .range(from, from + 999)
+
+        page?.forEach((t) => populated.add(t.entity_id))
+        if (!page || page.length < 1000) break
+      }
+
+      entities
+        .filter((entity) => populated.has(entity.id))
+        .forEach((entity) => {
+          entries.push({
+            url: `${CANONICAL_URL}/hub/${entity.slug}`,
+            lastModified: entity.updated_at ? new Date(entity.updated_at) : now,
+            changeFrequency: 'monthly',
+            priority: 0.75,
+          })
         })
-      })
     }
   } catch {
     // Supabase not configured
