@@ -43,6 +43,7 @@ const DRAFTS = [
   'scripts/drafts/tadabbur/tadabbur-never-a-command-quran.md',
   'scripts/drafts/tawakkul/tawakkul-after-the-decision-quran.md',
   'scripts/drafts/khushu/khushu-ground-before-rain-quran.md',
+  'scripts/drafts/nazm/nazm-sentence-crosses-surah-boundary.md',
 ]
 
 type Draft = {

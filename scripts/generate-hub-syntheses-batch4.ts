@@ -25,6 +25,22 @@ const supabase = createClient(
 
 export const SYNTHESES: Record<string, string> = {
 
+'nazm': `<div class="hub-synthesis">
+  <p class="hub-synthesis-lead">Nazm is the classical study of the Quran's arrangement — the question of why a passage sits where it sits. The word never appears in the Quran itself; it is the name scholars gave to a question they kept meeting, and its root means to string things together, the way pearls are threaded so that each one's position is deliberate.</p>
+
+  <h3>The question it asks</h3>
+  <p>Nazm asks something narrower than "what does this mean". It asks what a verse is doing <em>here</em> — after the one before it, before the one after it. Order is treated as evidence rather than as packaging. Most of the time the question resolves inside a single surah; the sharpest cases are the ones where a connection appears to run across a boundary.</p>
+
+  <h3>The test case in this collection</h3>
+  <p>Surah Quraysh opens with a preposition and never supplies the verb it belongs to — <em>for the uniting of Quraysh</em> (106:1). For it, what? One classical reading, which Ibn Kathir reports from Muhammad ibn Ishaq and 'Abd al-Rahman ibn Zayd ibn Aslam, is that the missing action is in the surah before: God dealt with the elephant army (105:1-5) <em>in order to</em> hold this tribe together and keep it safe. Ibn Jarir al-Ṭabari reads the prefix instead as a particle of amazement, and holds that the two are separate independent surahs.</p>
+
+  <h3>What the mushaf preserves</h3>
+  <p>Ibn Kathir notes that the two were kept apart in the primary copy, with the opening formula written on the line between them — and that this was done even though the surah is directly related to the one preceding it. The boundary was not erased to smooth the sentence, and the sentence was not rewritten to respect the boundary. Both were transmitted intact, disagreement included.</p>
+
+  <h3>Why it is worth a reader's time</h3>
+  <p>The technical vocabulary makes nazm sound like a specialist's field, but the question underneath costs nothing to ask and changes what a page looks like. Treat the order as deliberate, and the arrangement starts supplying evidence of its own.</p>
+</div>`,
+
 'fitrah': `<div class="hub-synthesis">
   <p class="hub-synthesis-lead">Fitrah names the shape a human being already has before anything is added. The root <strong>f-ṭ-r</strong> means to originate, to bring into being — and also to split something open, the way a seed splits when it begins. The word for a person's original disposition is built from the vocabulary of first creation.</p>
 
