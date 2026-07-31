@@ -22,7 +22,9 @@ function getInitials(user: User): string {
 const topLinks = [
   { href: '/surahs', label: 'Surahs' },
   { href: '/articles', label: 'Articles' },
-  { href: '/reflections', label: 'Reflections' },
+  // "Ayah Reflections", not "Reflections" — the profile already calls a
+  // signed-in reader's own saved notes "Your reflections".
+  { href: '/reflections', label: 'Ayah Reflections' },
 ]
 
 const learnLinks = [
