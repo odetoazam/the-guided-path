@@ -68,7 +68,8 @@ function renderEmphasis(escaped: string): string {
       continue
     }
     if (part.length === 1) {
-      italic ? closeItalic() : openItalic()
+      if (italic) closeItalic()
+      else openItalic()
     } else if (part.length === 2) {
       // Close the italic first if it opened inside this bold span, so tags nest.
       if (bold) closeBold()
