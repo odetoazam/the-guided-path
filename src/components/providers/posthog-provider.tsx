@@ -11,6 +11,17 @@ const POSTHOG_HOST = process.env.NEXT_PUBLIC_POSTHOG_HOST || 'https://us.i.posth
 
 let posthogInitialized = false
 
+function isLocalStorageAccessible() {
+  try {
+    const testKey = '__posthog_storage_test__'
+    localStorage.setItem(testKey, '1')
+    localStorage.removeItem(testKey)
+    return true
+  } catch {
+    return false
+  }
+}
+
 function initPostHog() {
   if (!POSTHOG_KEY || posthogInitialized) return
   posthog.init(POSTHOG_KEY, {
@@ -20,7 +31,7 @@ function initPostHog() {
     person_profiles: 'identified_only',
     capture_pageview: false,
     capture_pageleave: true,
-    persistence: 'localStorage+cookie',
+    persistence: isLocalStorageAccessible() ? 'localStorage+cookie' : 'memory',
     loaded: (ph) => {
       if (process.env.NODE_ENV === 'development') ph.debug()
     },

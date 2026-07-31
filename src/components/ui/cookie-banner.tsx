@@ -9,18 +9,30 @@ export function CookieBanner() {
   const [visible, setVisible] = useState(false)
 
   useEffect(() => {
-    const stored = localStorage.getItem(STORAGE_KEY)
-    if (!stored) setVisible(true)
+    try {
+      const stored = localStorage.getItem(STORAGE_KEY)
+      if (!stored) setVisible(true)
+    } catch {
+      // localStorage inaccessible (private mode, storage partitioning, etc.) — skip the banner
+    }
   }, [])
 
   function accept() {
-    localStorage.setItem(STORAGE_KEY, 'granted')
+    try {
+      localStorage.setItem(STORAGE_KEY, 'granted')
+    } catch {
+      // ignore — storage unavailable
+    }
     setVisible(false)
     window.dispatchEvent(new Event('cookie_consent_granted'))
   }
 
   function decline() {
-    localStorage.setItem(STORAGE_KEY, 'denied')
+    try {
+      localStorage.setItem(STORAGE_KEY, 'denied')
+    } catch {
+      // ignore — storage unavailable
+    }
     setVisible(false)
   }
 

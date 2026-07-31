@@ -3,6 +3,7 @@
 import { useState } from 'react'
 import Link from 'next/link'
 import { AyahCard } from '@/components/AyahCard'
+import { reflectionSlug } from '@/lib/reflection-slug'
 import { trackHubTabSwitch } from '@/lib/analytics'
 import type { EntityCategory } from '@/types'
 
@@ -509,6 +510,7 @@ export function HubTabs({
                     title={ar.title}
                     layerA={ar.layer_a}
                     expandable
+                    href={`/reflections/${reflectionSlug(ar.surah_number, ar.ayah_start, ar.ayah_end)}`}
                   />
                 ))}
               </div>
