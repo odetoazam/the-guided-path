@@ -1,0 +1,59 @@
+[
+  {
+    "file": "007-al-araf/ayahs-052-053.md",
+    "verdict": "PASS",
+    "thesis": "The Book was given as guidance and mercy to be trusted before its ta'wil arrives as witnessed reality, because once fulfillment forces recognition, recognition can no longer function as saving faith.",
+    "thesis_grounding": "GROUNDED",
+    "claims_checked": 8,
+    "claims_failed": 0,
+    "flags": [],
+    "notes": "Clean. All four tafsir editions fetched successfully; no truncation. Every interpretive move is carried by a classical source: (1) ta'wil = the realized outcome/consequence, not later technical hermeneutics -- al-Tabari 'ما يؤول إليه أمرهم', Qatadah 'عاقبته', Mujahid 'جزاؤه', Ibn Abbas 'يوم القيامة', Ibn Kathir 'final fulfillment of the event'; (2) 'the forgetfulness here was not innocent memory lapse, it was lived disregard' matches Ibn Kathir verbatim in substance -- 'those who ignored it in this life and neglected abiding by its implications'; (3) the file's central 'no excuse remains, revelation already came' frame is Ibn Kathir's own section heading ('The Idolators have no Excuse') plus his 17:15 citation. Zero countable or absolute claims in the file (grep-verified), zero named tafsir attributions, so rubric checks 2 and 3 are vacuous here. Not ahkam-bearing. One watch-item for the human, NOT a flag: the passage handles shufa'a, a theologically loaded topic, and the file says the remaining questions are 'impossible ones: is there an intercessor now'. The file never generalizes this into a denial of valid shafa'ah, and it stays inside the ayah's own frame -- Ibn Kathir confines it identically ('What they used to worship instead of Allah abandoned them and will not intercede'). No fix needed; noting only in case a reviewer wants an explicit clarifying line for lay readers."
+  },
+  {
+    "file": "010-yunus/ayahs-054-056.md",
+    "verdict": "FLAG",
+    "thesis": "No created wealth can ransom the wronging soul once punishment is seen, because everything it would offer already belongs to Allah, whose promise is true and who alone owns life, death, and return.",
+    "thesis_grounding": "GROUNDED",
+    "claims_checked": 9,
+    "claims_failed": 1,
+    "flags": [
+      {
+        "quote": "That verb is striking. **Asarru**. They kept it hidden, held it inside, secreted it. The regret is real, immense, and undeniable, but it does not emerge as liberating confession. It sits inwardly as a sealed pain under the sight of punishment.",
+        "issue": "The file supplies a psychological reason for the concealment (regret too deep for speech, sealed inward pain) that no fetched source carries, and it omits the specific reason two of the four sources give. al-Tabari: 'وأخفتْ رؤساء هؤلاء المشركين من وضعائهم وسفلتهم الندامةَ' -- the CHIEFS of the mushrikin hid their regret FROM their lowly followers. al-Jalalayn is more explicit still: 'أخْفاها رُؤَساؤُهُمْ عَنْ الضُّعَفاء الَّذِينَ أضَلُّوهُمْ مَخافَة التَّعْيِير' -- the leaders hid it from the weak ones they had misled, out of fear of being reproached. That is a social/shame motive between two named parties, not interiority. The generic inward reading the file builds on is supported only by al-Muyassar ('وأخفى الذين ظلموا حسرتهم', unspecified) and Ibn Kathir's English rendering ('would feel in their hearts regret'), so the base fact of concealment is fine -- it is the asserted WHY, which is also the section heading and therefore load-bearing for the whole section, that has no classical basis and is not marked as contemplation.",
+        "severity": "moderate"
+      }
+    ],
+    "notes": "Named fix: in section 2, either (a) add the al-Tabari/al-Jalalayn gloss -- the leaders concealing regret from the followers they misled, out of fear of reproach -- before the psychological reading, or (b) mark 'too deep even for speech' explicitly as reflection rather than as what the verb means. Retitling the section is the cheapest version of (b). Everything else in the file holds and some of it is unusually well grounded: section 4's claim that divine ownership is WHY the ransom fails is al-Tabari's own argument on 10:55 nearly point for point ('فليس لهذا الكافر بالله يومئذٍ شيء يملكه فيفتدي به من عذاب ربّه ... ولو كانت له الأشياء التي هي في الأرض ثم افتدى بها، لم يقبل منه'); the qist / 'wa hum la yuzlamun' reading matches al-Tabari ('لا يعاقب أحدًا منهم إلا بجريرته') and al-Muyassar; the nadamah-is-not-tawbah distinction is sound for this eschatological context. All four editions fetched cleanly for 10:54, 10:55, 10:56; no truncation artifacts (the file quotes no tafsir blocks at all). Zero countable or absolute claims (grep-verified), zero named attributions. Not ahkam-bearing."
+  },
+  {
+    "file": "017-al-isra/ayahs-026-030.md",
+    "verdict": "FLAG",
+    "thesis": "Wealth is measured not only by how much is spent but by whether rights are given, waste avoided, gentleness preserved when one cannot give, and balance kept under the knowledge that rizq is Allah's to expand and constrict.",
+    "thesis_grounding": "GROUNDED",
+    "claims_checked": 14,
+    "claims_failed": 4,
+    "flags": [
+      {
+        "quote": "The verbal noun intensifies the prohibition. This is not merely \"avoid a little excess.\" It is a rejection of the spirit of scattering wealth without purpose, proportion, or gratitude.",
+        "issue": "This defines tabdhir quantitatively (scattering, lack of proportion) and omits the dominant classical definition, which is qualitative. al-Tabari reports it from Ibn Mas'ud through six separate chains -- 'التبذير: إنفاق المال في غير حقه' / 'النفقة في غير حقه' -- and from Ibn Abbas twice, Qatadah ('النفقة في معصية الله'), and Ibn Zayd ('لا تعطِ في معاصي الله'). Ibn Kathir carries the same set. Most importantly both al-Tabari and Ibn Kathir preserve Mujahid's criterion, which inverts the file's framing: 'لو أنفق إنسان ماله كله في الحقّ ما كان تبذيرا، ولو أنفق مدّا في باطل كان تبذيرا' -- spending ALL your wealth on what is due is not tabdhir, and spending a single mudd on what is false IS. A reader taking the file's definition would draw the opposite conclusion in both directions. This is the ahkam-bearing definitional core of the passage (tabdhir is what grounds the fiqh of hajr on the mubadhdhir), and the file states it without anchor.",
+        "severity": "moderate"
+      },
+      {
+        "quote": "The ayah is teaching that wealth is never purely private in meaning. It carries claims upon it.",
+        "issue": "Rubric check 4 failure. The passage is ahkam-bearing (kinship dues, definition of squandering, the spending balance) and the file acknowledges no ikhtilaf anywhere and never distinguishes tadabbur from ruling. al-Tabari's commentary on 17:26 opens with the words 'اختلف أهل التأويل في المعنيّ بقوله ﴿وآتِ ذَا القُرْبى﴾' and lays out two positions -- one's own paternal/maternal kin (al-Hasan, Ikrimah, Ibn Abbas) versus the kin of the Messenger (the report from Ali b. al-Husayn) -- before ruling for the first. He records a second ikhtilaf immediately after on ibn al-sabil: whether the due is general assistance or specifically three days' hosting ('وقد قيل: إنما عنى بالأمر بإتيان ابن السبيل حقه أن يضاف ثلاثة أيام'). The file presents one settled reading of both. Given the flagged tabdhir gap above, a reader could take this file as a spending ruling.",
+        "severity": "moderate"
+      },
+      {
+        "quote": "That word `haqqahu` matters. The ayah does not frame this first as optional generosity. It frames it as a right. Something owed. Something fitting. Something not invented by your mood.",
+        "issue": "An obligation-shaped claim stated with no anchor, and the sources pull in two directions the file does not mention. Supporting it: al-Tabari's report of al-Hasan, asked whether zakah may be given to relatives -- 'إن لهم في ذلك لحقا سوى الزكاة' (they have a right in that besides zakah); and Ibn Kathir's hadith of the man from Banu Tamim ('وَتَعْرِفُ حَقَّ السَّائِلِ وَالْجَارِ وَالْمِسْكِينِ'). Limiting it: al-Jalalayn glosses حقه as 'مِن البِرّ والصِّلَة' -- his due of kindness and kinship-maintenance, i.e. moral rather than legally enforceable -- and al-Muyassar likewise reads it as ihsan and birr. The file cites neither side, so the reader cannot tell whether 'owed' means enforceable.",
+        "severity": "minor"
+      },
+      {
+        "quote": "You may lack money in that moment. You are not permitted to lack mercy.",
+        "issue": "The gloss on qawlan maysura is confined to gentleness of manner and drops the concrete content the mufassirun assign to it. Ibn Kathir: '(then, speak unto them a soft, kind word.) meaning, with a promise. This was the opinion of Mujahid, Ikrimah, Sa'id bin Jubayr, Al-Hasan, Qatadah and others.' The classical reading is that the easy word is a promise to give once Allah provides -- which also explains the ayah's own 'ibtigha'a rahmatin min rabbika tarjuha'. Nothing in the file is false here; the omission just costs the section its strongest classical support.",
+        "severity": "minor"
+      }
+    ],
+    "notes": "Named fixes, in priority order. (1) In section 1, add the Ibn Mas'ud / Ibn Abbas / Qatadah definition of tabdhir as spending in other than its right or in disobedience, and add Mujahid's criterion -- it directly contradicts the current 'proportion' framing and is present in BOTH Ibn Kathir and al-Tabari, so there is no sourcing cost. (2) Add one ikhtilaf line for dhu al-qurba (own kin vs. the Prophet's kin, al-Tabari preferring the former) and one tadabbur-not-fatwa line covering spending obligations; that closes rubric check 4 for the whole file. (3) Optional: fold Ibn Kathir's 'with a promise' into the qawlan maysura section. Verified GOOD and worth preserving: I checked the naẓm claim 'Again the image of sitting returns, as in verse 22' against the corpus -- root قعد occurs at exactly 17:22:7:2 (فَتَقْعُدَ مَذْمُومًا مَّخْذُولًا) and 17:29:11:2 (فَتَقْعُدَ مَلُومًا مَّحْسُورًا) and nowhere else in the surah, so the parallel is real and exclusive; 'begins with haqq and ends with rizq' verifies (حَقَّ at 17:26, رِّزْقَ at 17:30); تَبْذِيرًا is tagged VN, so 'verbal noun' is correct. The malum/mahsur glosses match al-Tabari's حسير note (the worn-out mount) and Ibn Kathir's, the both-extremes reading of 17:29 matches all four editions, and the tabdhir-as-failure-of-shukr link is al-Tabari's own ('فكذلك إخوانه من بني آدم المبذّرون ... لا يشكرون الله على نعمه عليهم'). All four editions fetched cleanly for all five ayahs; no truncation artifacts. Note on the counts above: 3 of the 4 flags are claim-level, the ikhtilaf one is a rubric-4 adab failure rather than a false claim."
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "file": "013-ar-rad/ayahs-012-013.md",
+    "verdict": "FLAG",
+    "thesis": "The storm in 13:12-13 is not scenery but active theology: lightning trains the heart to hold fear and hope together, thunder itself performs tasbih, the angels stand in awe, and human disputation is exposed as dissonance beneath an already-worshipping sky.",
+    "thesis_grounding": "GROUNDED",
+    "claims_checked": 10,
+    "claims_failed": 1,
+    "flags": [
+      {
+        "quote": "Not that thunder vaguely points toward praise. Not that it can be poetically compared to praise. The ayah names thunder itself in the grammar of tasbih.",
+        "issue": "The file forecloses a live classical ikhtilaf on what al-ra'd IS. al-Jalalayn glosses the word with no hedge as an angel, not the atmospheric sound: 'wa-yusabbihu al-ra'du — huwa malakun muwakkalun bi'l-sahabi yasuquhu' ('he is an angel appointed over the cloud, driving it'), i.e. the tasbih is the angel's, and 'bi-hamdihi' means 'he says subhan Allah wa bihamdihi.' al-Tabari does not settle the identification here at all — he explicitly defers it ('wa-qad bayyanna ma'na al-ra'd fima mada' → Jami' al-Bayan 1:338-342), which is exactly where he records the disagreement. Only al-Tabari's gloss of the verb ('wa-yu'azzimu Allaha al-ra'du wa-yumajjiduhu') and al-Muyassar ('tasbihan yadullu 'ala khudu'ihi li-rabbihi') support the natural-phenomenon reading the file adopts. So the reading is grounded — but the emphatic double negation asserts it as the only possible sense while a fetched edition carries the opposite identification as its plain meaning.",
+        "severity": "moderate"
+      },
+      {
+        "quote": "The scene is now vertically layered. Thunder in tasbih. Angels in khifah.",
+        "issue": "This structural claim (two distinct tiers of worshipper) is built on the contested identification above. On al-Jalalayn's reading there is no second tier — the ra'd IS an angel, so the ayah names angelic tasbih twice rather than layering creation beneath the angels. The 'vertical layering' is therefore an interpretive construction dependent on one side of an unacknowledged ikhtilaf, not a feature of the ayah all four editions would grant.",
+        "severity": "minor"
+      }
+    ],
+    "notes": "Fix is additive, not a rewrite: insert one clause acknowledging that classical sources differ on whether al-ra'd here is the atmospheric sound or an angel driving the clouds (al-Jalalayn takes the latter; al-Tabari and al-Muyassar gloss the verb as the thunder's own magnification of Allah), then soften 'Not that... Not that...' to present the natural reading as the one the file is following rather than the only one available. Do NOT swap in the angel view as settled either — the marfu' hadith usually cited for it has grading problems and the file is right not to lean on it. Two things checked clean and are worth recording: (1) NO modern-science bridging on thunder/lightning anywhere in the file — the one adjacent phrase, 'not treated as random atmospheric accumulation,' is a negation, not a scientific claim, so the house-style quarantine holds; (2) 'the line that gives the surah its name' verifies — root رعد occurs exactly twice in the corpus, 2:19 and 13:13, so 13:13 is the sole occurrence in Surah 13. Also note (no action needed) that the gloss of shadid al-mihal as 'severe might, force, overpowering capacity' captures al-Tabari's reports of shadid al-quwwa / shadid al-akhdh / shadid al-hawl but omits his own preferred derivation from mumahalah (contending, stratagem — Qatada's 'al-quwwa wa'l-hila'); the file's hedge 'even if translations vary at the edges' covers this adequately."
+  },
+  {
+    "file": "012-yusuf/ayahs-109-111.md",
+    "verdict": "FLAG",
+    "thesis": "Surah Yusuf's closing widens the story into the universal prophetic pattern — messengers were human men from real towns, help arrives at the far edge of extremity, and the stories are sealed as 'ibrah, a crossing-over into transformed understanding rather than material for spectators.",
+    "thesis_grounding": "GROUNDED",
+    "claims_checked": 10,
+    "claims_failed": 1,
+    "flags": [
+      {
+        "quote": "The verb **istay'asa** carries extremity. This is not mild discouragement. It is the edge of expectation after long delay and pressure.",
+        "issue": "The file never names WHAT the messengers despaired of, and all four editions do name it unanimously: al-Tabari — 'hatta idha istay'asa al-rusulu... an yu'minu billahi wa-yusaddiquhum' (they despaired of their people believing); al-Muyassar — 'hatta idha ya'isa al-rusulu min imani qawmihim'; al-Jalalayn — 'fa-tarakha nasruhum'; Ibn Kathir reports the same from Sa'id b. Jubayr, Ibn Mas'ud and Mujahid. Leaving 'reached despair' objectless lets the reader supply 'despaired of Allah's help' — precisely the reading 'A'ishah rejected in Bukhari, quoted in the fetched Ibn Kathir: 'Allah forbid! The Messengers did not suspect their Lord of such a thing.' Theme 1 then leans that way in application ('We think, \"If Allah were going to open this, He would have done it already.\"'). Nothing false is asserted, but the ayah's most 'isma-sensitive point is left open where the tafsir is closed.",
+        "severity": "moderate"
+      },
+      {
+        "quote": "The exact interpretive discussions around the pronouns here are weighty in tafsir, but the shared force is unmistakable",
+        "issue": "This is the file's only ikhtilaf acknowledgment on 12:110, and it is too vague to do the adab work the passage demands. The dispute is not merely 'around the pronouns': it is a recitation variance (kudhibu vs. kudhdhibu — al-Jalalayn gives both, Ibn Kathir attributes the shadda reading to 'A'ishah) attached to a recorded disagreement between 'A'ishah and Ibn 'Abbas in Sahih al-Bukhari over whether any despair can be attributed to the messengers at all. Ibn Kathir also records the questioner who told Sa'id b. Jubayr he wished he had not read the surah because of this word. A reader cannot tell from the file's sentence that anything doctrinal is at stake.",
+        "severity": "minor"
+      }
+    ],
+    "notes": "Both flags are fixed by the same two-sentence insertion in section 2 — no rewrite. Name the object of the despair ('they despaired of their people ever believing,' per al-Tabari, al-Muyassar and Ibn Kathir's chain from Sa'id b. Jubayr and Ibn Mas'ud), and replace the vague 'discussions around the pronouns' with the actual shape of the ikhtilaf: two recitations (kudhibu / kudhdhibu) and 'A'ishah's explicit rejection in Bukhari of any reading in which the messengers doubted their Lord. Everything else in the file verifies. 12:109 is clean on all points — 'rijal, not angels' is Ibn 'Abbas via Ibn Kathir and matches al-Tabari ('la nisa'an wa-la mala'ikatan') and al-Jalalayn ('la mala'ikata'); 'min ahli al-qura grounds messengership in actual settled societies' matches al-Tabari's 'min ahli al-amsar duna ahli al-bawadi' and Qatada's reasoning. 12:111 is clean — the file reads qasasihim as the messengers' stories generally, which is al-Tabari's own preferred position over Mujahid's narrower 'Yusuf and his brothers,' and matches al-Jalalayn ('ay al-rusul'); the 'ibrah-as-crossing-over gloss is standard lexical (root عبر) and consistent with al-Tabari's ''ibratun li-ahli al-hija wa'l-'uqul... wa-maw'izatun.' One non-blocking observation: the file renders rijal only against the angel objection and passes over the tafsir's other reading of the same word (Ibn Kathir's opening section on female prophethood, al-Tabari's 'la nisa'an'). That is an omission on a contested topic, not a misstatement, so it is not counted as a failed claim — but flag it to the human if house policy wants such omissions surfaced. No countable, 'only', 'never', or hapax claims appear anywhere in this file; nothing required corpus verification. No named tafsir attributions to check. No truncation artifacts."
+  },
+  {
+    "file": "006-al-anam/ayahs-133-135.md",
+    "verdict": "PASS",
+    "thesis": "Allah's being al-Ghaniyy joined to Dhu al-Rahmah means our continued existence is an act of mercy rather than proof of necessity, so the truth of any path is settled not by its present confidence but by 'aqibat al-dar, the outcome it reaches under Allah's judgment.",
+    "thesis_grounding": "GROUNDED",
+    "claims_checked": 11,
+    "claims_failed": 0,
+    "flags": [],
+    "notes": "Clean read; no fix needed. The central move — that Allah's freedom from need is immediately joined to mercy, so what we receive is gift and not requirement — is not merely compatible with the tafsir, it is al-Tabari's own gloss on the ayah nearly clause for clause: 'fa-lam akhluqhum... li-hajatin li ilayhim, wa-la ila a'malihim, wa-lakin li-atafaddala 'alayhim bi-rahmati.' Ibn Kathir matches ('Rich, free from needing His creatures in any way or form, while they stand in need of Him in all situations') and adduces 35:15-17 and 47:38, the same pairing the file builds on. Remaining claims verified individually: yudhhibkum / yastakhlif as removal-and-replacement is Ibn Kathir and al-Tabari ('yu'ti bi-khalqin ghayrikum wa-umamin siwakum yakhlufunakum fi'l-ard') and al-Muyassar; 'inna ma tu'aduna la'atin' as the certainty of the promised reckoning is Ibn Kathir; 'makanah carries the sense of place and standing' matches Ibn 'Abbas's gloss 'tariqatikum' reported by 'Ali b. Abi Talha in the fetched Ibn Kathir, with the parallel at 11:121-122; ''aqibat al-dar' as the final home is Ibn Kathir's '(happy) end in the Hereafter.' The file's paraphrase 'brought you forth from the descendants of another people... They stand downstream of earlier lives, earlier peoples, earlier collapses, earlier transitions' is safe on both classical readings of the min: Ibn Kathir carries Aban b. 'Uthman's lineage sense (dhurriyyah = offspring and children), while al-Tabari argues the min is li'l-ta'qib (succession — brought into being in the PLACE of a people who perished, not literally from their loins); the file's wording holds both. No countable, 'only', 'never', 'first', or hapax claims anywhere in the file — nothing needed corpus arithmetic. No named tafsir attributions ('Ibn Kathir says...') to verify. Passage is not ahkam-bearing or contested, so check 4 does not bite. No truncated tafsir quotation — the file quotes no tafsir directly. Theme 1's application to religious communities, families and institutions is explicitly framed as contemplation ('These ayahs are a cure for spiritual arrogance, including religious arrogance') and stays inside the ayah's own logic. Frontmatter passage_context is accurate: 6:132 does read 'wa-li-kullin darajatun mimma 'amilu.'"
+  }
+]

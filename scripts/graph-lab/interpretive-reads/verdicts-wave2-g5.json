@@ -1,0 +1,65 @@
+[
+  {
+    "file": "010-yunus/ayahs-037-040.md",
+    "verdict": "FLAG",
+    "thesis": "The Qur'an is not fabricable speech but confirming and clarifying revelation, and the denial it meets is not mastered critique but premature refusal issued before knowledge has encircled it and before its ta'wil has unfolded.",
+    "thesis_grounding": "GROUNDED",
+    "claims_checked": 8,
+    "claims_failed": 0,
+    "flags": [
+      {
+        "quote": "**wa ادعوا man استطعتum min duni Allah**.",
+        "issue": "Script-corruption artifact in reader-facing prose. The transliteration line has had two words replaced with raw Arabic script mid-sentence ('wa ادعوا man استطعتum'), producing an unreadable hybrid. Every other transliteration in the file is clean Latin (e.g. line 177 'bal kadhdhabu bima lam yuhitu bi-'ilmihi'). This is a mechanical defect, not an interpretive one — should read 'wa ud'u man istata'tum min duni Allah', matching the file's own earlier rendering at line 73.",
+        "severity": "moderate"
+      }
+    ],
+    "notes": "Thesis is solidly grounded: Ibn Kathir on 10:39 reads it exactly as the file does — 'They did not believe in the Qur'an and they have not yet grasped it or comprehended it... So they belied it out of ignorance and foolishness.' al-Muyassar and al-Jalalayn on 10:40 both carry the split-audience reading, and al-Jalalayn adds tahdid (threat) for the mufsidin, which the file's 'not merely the doubters, the corrupters' matches. ZERO countable/absolute claims in the file (grepped for only/never/first/exactly/hapax/N-times — nothing). No tafsir attributions at all, so no attribution or 500-char truncation risk. Not ahkam-bearing. THE ONLY FIX NEEDED: line 167, replace the mixed-script transliteration with 'wa ud'u man istata'tum min duni Allah'. Optional enrichment (not a defect): Ibn Kathir stages the tahaddi as a descending challenge — 17:88 (all jinn and men), then 11:13 (ten surahs), then 10:38 (one surah), then 2:23-24 ('you can never do it'). The file presents 10:38 in isolation and misses that this ayah is the narrowest rung of a documented sequence."
+  },
+  {
+    "file": "006-al-anam/ayahs-042-045.md",
+    "verdict": "FLAG",
+    "thesis": "Hardship sent to produce tadarru' is mercy, while doors opened after a reminder has been forgotten are istidraj — a widening that ends in sudden seizure and the total cutting-off of the wrongdoers.",
+    "thesis_grounding": "GROUNDED",
+    "claims_checked": 9,
+    "claims_failed": 0,
+    "flags": [
+      {
+        "quote": "the last remnant of the ظلم-doing people is cut off",
+        "issue": "Script-corruption artifact: raw Arabic 'ظلم' spliced into an English hyphenated compound in the Introduction. Should be 'zulm-doing' (the file uses Latin transliteration everywhere else, e.g. 'alladhina zalamu' at line 210).",
+        "severity": "minor"
+      },
+      {
+        "quote": "The ظلم-making people reached an end with no remainder.",
+        "issue": "Second instance of the same corruption, in Part 1 section 4. Should be 'zulm-making'. Two occurrences in one file suggests a bad find/replace pass over the corpus rather than an authoring slip — worth checking sibling files for the same pattern.",
+        "severity": "minor"
+      }
+    ],
+    "notes": "Interpretively this is the strongest of the three. The istidraj reading the file builds is named explicitly by two of the four editions: al-Muyassar on 6:44 says 'استدراجًا مِنّا لهم' and al-Jalalayn says 'اسْتِدْراجًا لَهُمْ'; Ibn Kathir renders it 'We opened the gates of provisions for them from wherever they wished, so that We deceive them' and closes with al-Hasan al-Basri's line that whoever receives provision and does not think Allah is testing him has no wisdom. The 'total cutting-off' reading of dabir is carried by al-Tabari ('فاستؤصل... عن آخرهم، فلم يترك منهم أحد'), al-Muyassar ('فلم يبق منهم أحد') and al-Jalalayn ('أيْ آخِرهمْ بِأَنْ اُسْتُؤْصِلُوا'), and the hamd-after-destruction reading matches al-Jalalayn's 'عَلى نَصْر الرُّسُل وإهْلاك الكافِرِينَ'. Zero countable/absolute claims; no tafsir attributions, so no truncation or attribution exposure. Not ahkam-bearing (6:45 is a historical-destruction verse, not a fighting verse), and the file keeps it theological — it never maps 'the wrongdoing people' onto any present-day group. FIX = the two ظلم -> zulm substitutions only. Nothing else in this file needs a human decision."
+  },
+  {
+    "file": "007-al-araf/ayahs-023-025.md",
+    "verdict": "FLAG",
+    "thesis": "Adam and his wife model the return to Allah by naming sin as a wrong done to their own selves rather than explaining it away as Iblis did, and their forgiveness does not cancel the earthly descent — earth remains a place of enmity, provision, death and resurrection under the same lordship.",
+    "thesis_grounding": "GROUNDED",
+    "claims_checked": 8,
+    "claims_failed": 0,
+    "flags": [
+      {
+        "quote": "they do not begin with the serpent's biography",
+        "issue": "Imports an isra'iliyyat figure into an otherwise strictly Qur'anic reading. There is no serpent anywhere in the Qur'an's Adam narrative — I checked 2:30-39, 7:11-25, 15:28-44, 20:115-123 and 38:71-85 for حية / ثعبان / جانّ with full normalization (harakat + waqf marks stripped, alif variants and alif maqsura folded): zero hits. حية occurs at 20:20 (Musa's staff) and ثعبان at 7:107 and 26:32 (also Musa) — never in the Adam account. The Qur'an names only al-shaytan's waswasa (7:20). Ibn Kathir himself treats the snake as an unresolved report ('Some scholars did not mention the snake, and Allah knows best... If the story about the snake is true'), and in the same passage warns that details of the descent 'are taken from the Israelite tales.' The file's phrasing presents the serpent as an established part of the account the reader could have appealed to. The file's own earlier line ('They could have emphasized the whisper, pointed to deception') is the correct Qur'anic formulation — the Theme 1 sentence should be brought into line with it.",
+        "severity": "moderate"
+      },
+      {
+        "quote": "tags: [tawbah, zulm-al-nafs, hبوط, mustaqarr, resurrection]",
+        "issue": "Corrupted frontmatter tag: 'hبوط' is a half-converted 'hubut' (h + بوط). This is a machine-readable field — it will be indexed into the tag system and the entity graph as a literal garbage token. Should be 'hubut'. Same corruption family as the two mid-prose Arabic splices found in 006-al-anam/ayahs-042-045.md, which suggests a bad normalization pass across a batch of files.",
+        "severity": "moderate"
+      },
+      {
+        "quote": "*Qala rabbana zalamna anfusana wa in lam taghfir lana wa tarhamna la-nakunanna mina al-khasirin.*",
+        "issue": "The Arabic is قَالَا (dual, 3MD — the corpus confirms 7:23:1 as قَالَ + ا with features PERF|ROOT:قول|3MD), but the transliteration renders it 'Qala', identical to the genuinely singular قَالَ of 7:24 and 7:25 where Allah is the speaker. The file's entire thesis rests on Adam AND his wife confessing jointly, and the dual verb is the grammatical marker of exactly that — yet the transliteration erases it and the linguistic section never mentions it. Fix: 'Qala' -> 'Qalaa'/'Qālā' at lines 51 and 89, and consider noting the dual/singular contrast across the three ayahs.",
+        "severity": "minor"
+      }
+    ],
+    "notes": "PER THE TASK'S SPECIFIC WARNING: this file makes NO uniqueness or first-instance claim about the confession. Grepped for only/never/first/exactly/hapax/N-times — the only hits are 'the first words placed on their tongues' (a claim about narrative order within 7:22->7:23, which is correct) and 'the first medicine of tawbah' (rhetorical, not countable). Nothing to retract. FOR THE REVIEWER'S REFERENCE, a uniqueness claim would in fact have been true had it been made: ظلمنا أنفسنا occurs exactly once in the Qur'an (7:23 only), verified against quran-verses.json with full normalization; the singular ظلمت نفسي occurs twice (27:44 Bilqis, 28:16 Musa). If the existing zulm al-nafs article is ever cross-linked to this file, those are the verified numbers. Thesis grounding is direct: al-Tabari on 7:23 states the confession/Iblis contrast in almost the file's own terms — 'واعترافِهما على أنفسهما بالذنب، ومسألتهما إياه المغفرة منه والرحمة، خلاف جواب اللعين إبليس إياه' — and Qatadah's report (in both Ibn Kathir and al-Tabari) that Adam asked for tawbah while Iblis asked only for respite carries the file's Theme 1 exactly. The mustaqarr/mata' reading matches al-Jalalayn and Ibn Kathir; 'from it you will be brought out' as resurrection is unanimous across all four editions. No tafsir attributions in the file, so no truncation or misattribution risk. Not ahkam-bearing. Credit where due: the file correctly avoids the descent-location isra'iliyyat that Ibn Kathir warns about — which makes the single serpent reference look like an inherited idiom rather than a deliberate choice, and an easy one-sentence fix."
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "file": "010-yunus/ayahs-065-067.md",
+    "verdict": "PASS",
+    "thesis": "Hostile speech has no authority over truth because all 'izzah belongs to Allah alone, false worship rests on conjecture rather than knowledge, and the ordered night and day keep testifying for hearts willing to receive the sign.",
+    "thesis_grounding": "GROUNDED",
+    "claims_checked": 10,
+    "claims_failed": 0,
+    "flags": [],
+    "notes": "Clean. Every move in the file tracks the fetched tafsir closely. 'Izzah belonging to Allah without remainder = al-Tabari 'فإن الله هو المنفرد بعزة الدنيا والآخرة، لا شريك له فيها'; al-Jalalayn glosses al-'izzah as al-quwwah. Zann-as-doubt-not-certainty = al-Tabari 'إلا الشك لا اليقين'; yakhrusun = 'يتقوّلون الباطل تظنّيًا وتخرّصا للإفك عن غير علمٍ منهم' — which is exactly the file's section 4 (conjecture hardening into confident speech). The file's best move, section 6 ('Hearing Means Receiving the Sign, Not Merely Being Near It'), is al-Tabari verbatim in substance: 'ولم يرد به: الذين يسمعون بآذانهم، ثم يعرضون عن عبره وعظاته'; al-Jalalayn: 'سماع تدبر واتعاظ'. Li-taskunu as rest from the day's toil = al-Tabari and al-Muyassar. Mechanically verified: Arabic of 10:65-67 matches the Uthmani reference exactly after normalization; 10:67 does contain مُبْصِرًا and does end in يَسْمَعُونَ, so the file's 'could have ended with seeing, but ends with listening' holds; the soft claim that unknowing speech is 'one of the recurring moral diseases in Yunus' verifies — root ظنن occurs 6x in Surah 10 (10:22, 24, 36 x2, 60, 66) and خرص at 10:66 (5x Quran-wide). Not ahkam-bearing, no fiqh touched, no tafsir quoted so no truncation risk. One optional enrichment for the human, not a defect: Ibn Kathir glosses 'izzah as belonging to 'Him, His Messenger and the believers' (cf. 63:8) — the file's 'Honor Is Not Distributed Away From Him' is compatible with al-Tabari's tafarrud framing but omits that derivative sense."
+  },
+  {
+    "file": "007-al-araf/ayahs-026-027.md",
+    "verdict": "FLAG",
+    "thesis": "Allah answers the human vulnerability of exposure with garments that cover and beautify plus a better inner garment of taqwa, while Shaytan's unchanged project is to strip both away.",
+    "thesis_grounding": "GROUNDED",
+    "claims_checked": 10,
+    "claims_failed": 1,
+    "flags": [
+      {
+        "quote": "The word *khayr* - better - does not abolish outer clothing. It ranks the deeper thing above it.",
+        "issue": "Presented as what the ayah does, but this depends on a qira'ah the file never mentions. Al-Tabari records both readings (raf' وَلِبَاسُ read by the Makkan, Kufan and Basran reciters; nasb وَلِبَاسَ by the Madinans and some Kufans) and explicitly PREFERS the nasb reading: 'وهذه القراءة أولى القراءتين في ذلك عندي بالصواب، أعني نصب قوله وَلِبَاسَ التَّقْوَى'. Under that preferred reading the comparison is not inner-vs-outer at all — the whole set (clothing + rish + libas al-taqwa) is better than the mushrikun's naked tawaf, and al-Tabari states the rejection of the file's move in so many words: 'لا أنه أعلمهم أن بعض ما أنزل إليهم خيرٌ من بعض' ('not that He informed them that some of what was sent down to them is better than some other part'). The file's ranking IS carried by al-Tabari's gloss of the raf' reading ('خير لكم يا بني آدم، من لباس الثياب التي تواري سوءاتكم، ومن الرياش'), so it is not false — but the file's entire architecture rests on it with no ikhtilaf note.",
+        "severity": "moderate"
+      },
+      {
+        "quote": "So the ayah points us to a deeper covering: taqwa, the inward state that guards, restrains, and keeps the servant under Allah's watchful awareness.",
+        "issue": "Stated as the meaning of libas al-taqwa. Al-Tabari carries six named views: al-iman (Qatadah, al-Suddi, Ibn Jurayj), al-haya' (Ma'bad al-Juhani), al-'amal al-salih (Ibn 'Abbas), al-samt al-hasan (Ibn 'Abbas, and the 'Uthman b. 'Affan minbar report — which al-Tabari himself weakens via Sulayman b. Arqam), khashyat Allah ('Urwah b. al-Zubayr), and satr al-'awrah (Ibn Zayd: 'يتقي الله، فيواري عورته، ذلك لباس التقوى'). Ibn Zayd's view collapses the file's inner/outer contrast entirely — under it libas al-taqwa IS the physical covering. The file's own rendering is within warrant: it is essentially al-Tabari's synthesis ('استشعار النفوس تقوى الله ... وذلك يجمع الإيمان، والعمل الصالح، والحياء، وخشية الله، والسمت الحسن'), and al-Muyassar and al-Jalalayn agree. So this is an ikhtilaf-suppression flag, not a false-thesis flag.",
+        "severity": "moderate"
+      },
+      {
+        "quote": "But the order matters. Concealment comes first. Beauty is not permitted to cancel modesty.",
+        "issue": "Ruling-flavored normative language ('is not permitted') on a passage that is routinely quoted in dress and hijab arguments, with no tadabbur-vs-fatwa line anywhere in the file. The underlying priority claim is grounded — Ibn Kathir: 'the first type is essential while the second type is complimentary' — but the file states it as a rule rather than as the mufassirun's ordering of two functions.",
+        "severity": "minor"
+      }
+    ],
+    "notes": "No false thesis, no failed count-claim, no fiqh ruling actually issued — the file never mentions hijab, gendered dress, or awrah boundaries, and it correctly refuses to speculate about what Adam and Hawwa's stripped garment was (al-Tabari records fingernails / light / taqwa and then declines: 'ولا خبر عندنا بأيِّ ذلك تثبت به الحجة'). Arabic of 7:26-27 matches the Uthmani reference exactly after normalization; roots verified against the corpus (لبس, ريش, وقي, خير, نزع, شطن, ولي). The FLAG is for ikhtilaf suppression on an adversarially-quoted ayah, and the fix is small: (1) add one sentence in section 3 noting the two qira'at and that al-Tabari's preferred reading makes 'better' a comparison against the mushrikun's naked tawaf rather than an inner-vs-outer ranking — the historical referent al-Tabari and al-Muyassar both anchor the ayah to, which the file omits entirely; (2) add one sentence listing the classical range for libas al-taqwa (iman / haya' / righteous action / good bearing / khashyah / satr al-'awrah) and note the file is following al-Tabari's synthesis of them; (3) soften 'is not permitted' to the mufassirun's essential-vs-complementary framing, or add the standard tadabbur-not-fatwa line. Optional: al-Tabari's dominant reported gloss of رِيشًا is al-mal (Ibn 'Abbas, Mujahid, al-Dahhak, al-Suddi) — the file's 'adornment' follows Ibn Kathir and Ibn Zayd's al-jamal, which is fine but is one strand."
+  },
+  {
+    "file": "015-al-hijr/ayahs-090-093.md",
+    "verdict": "FLAG",
+    "thesis": "One of the gravest betrayals of revelation is not outright rejection but breaking the Quran into ego-sized fragments, because Allah swears that all will be questioned about what they actually did with the truth.",
+    "thesis_grounding": "REFLECTION-FLAGGED",
+    "claims_checked": 9,
+    "claims_failed": 1,
+    "flags": [
+      {
+        "quote": "**This passage warns that breaking revelation into ego-sized fragments is itself a punishable betrayal, because Allah will question people not only about what they said of the Quran, but about what they did with it.**",
+        "issue": "The file never once identifies who the muqtasimin are, so this lands the ayah's punishment-threat directly on a believing reader whose fault is inconsistent obedience. Every fetched source names rejecters: Ibn Kathir via al-Bukhari from Ibn 'Abbas ('They are the People of the Book, who divided the Book into parts, believing in some of it, and rejecting some of it'), plus the Ibn Ishaq report of al-Walid b. al-Mughirah organizing Quraysh to call the Prophet a sorcerer during al-Mawsim; al-Jalalayn: 'اليهود والنصارى'; al-Muyassar: 'من اليهود والنصارى وكفار قريش'. Al-Tabari is sharpest against the slide: he settles on the slander sense precisely because 'فمعلوم أنه لم يكن في مشركي قومه من يؤمن ببعض القرآن ويكفر ببعض' — among the Prophet's people nobody believed part and disbelieved part; they were wholly one or the other. The file's homiletic extension to selective obedience IS legitimately grounded by al-Tabari's own generalization ('وجب أن يكون مقتضيا بأن كلّ من اقتسم كتابا لله بتكذيب بعض وتصديق بعض ... فداخل في ذلك'), but that generalization is about takdhib of part of the Book — a kufr category — not about a believer who reads devotionally and obeys unevenly. The file draws no line between the two.",
+        "severity": "moderate"
+      },
+      {
+        "quote": "**kama anzalna 'ala al-muqtasimin**\n\nJust as We sent down upon the dividers.",
+        "issue": "The elided object of anzalna is left blank, and the section is then titled 'Al-Muqtasimin: Revelation Can Be Met With a Dividing Mind', which invites the reading that revelation is what was sent down upon them. All four sources supply the punishment: al-Jalalayn '﴿كَما أنْزَلْنا﴾ العَذاب'; al-Tabari 'مثل الذي أنزل الله تعالى من البلاء والعقاب على الذين اقتسموا القرآن'; al-Muyassar 'ومنذركم أن يصيبكم العذاب، كما أنزله الله على الذين قسَّموا القرآن'. The frontmatter passage_context and the Closing Synthesis do read it as a threat, so this is an unstated-antecedent problem in the body, not a contradiction.",
+        "severity": "moderate"
+      },
+      {
+        "quote": "And then **'idin**: broken portions, separated pieces, dismembered segments.",
+        "issue": "One of two classical derivations given as the word's meaning. The corpus assigns root عضو (from 'udw, limb), which supports the file's gloss, and Ibn 'Abbas / al-Dahhak carry it ('جزّءوه فجعلوه أعضاء كأعضاء الجزور'). But al-Tabari records the competing derivation from عِضَة / عَضْه = slander and calumny ('العَضْه: السحر بلسان قريش، تقول للساحرة: إنها العاضهة' — 'Ikrimah, Qatadah, Mujahid), and his tarjih leans that way: 'فالصحيح ... الذين زعموا أنهم عَضَهوه، فقال بعضهم: هو سحر، وقال بعضهم: هو شعر'. Under that reading the sin is defaming the Quran, not partitioning it — which changes the file's central image.",
+        "severity": "minor"
+      }
+    ],
+    "notes": "Mechanically clean: Arabic of 15:90-93 matches the Uthmani reference exactly after normalization; muqtasimin root قسم and 'idin root عضو both confirmed in the corpus (each a single Quran-wide occurrence, though the file makes no uniqueness claim); no countable or absolute claims anywhere in the file; no named-mufassir attribution and no quoted tafsir, so nothing to truncate. The file's one attribution-shaped sentence — 'The classical tafsir tradition mentions forms of this dividing ... believing one part and denying another; ... calling it magic, poetry, or other labels' — does match al-Tabari and Ibn Kathir on both counts. Fix is additive, not a rebuild: (1) name the referents once in Part 1 (People of the Book per Ibn 'Abbas / al-Bukhari, and/or the Quraysh who agreed on 'sorcerer' at al-Mawsim), then explicitly mark the turn to 'we' as i'tibar — al-Tabari's own generalization is the warrant to cite; (2) state that what was 'sent down upon' them is the punishment; (3) one clause acknowledging the 'idah/slander derivation alongside 'udw/limbs. Graded REFLECTION-FLAGGED rather than UNGROUNDED because the file does signal the application ('This is a warning to every age', 'One way to sit with this passage is to ask...') and the underlying principle has al-Tabari behind it — but 'punishable betrayal' in the distillation outruns that flagging."
+  }
+]

@@ -12,9 +12,10 @@ word_count: 1294
 estimated_duration: "25-35 minutes"
 passage_context: "After the warning of the scales, Al-A'raf pauses on the worldly setting in which human beings are being tested. Allah reminds them that He settled them on the earth and prepared for them livelihoods within it, so the natural response should be gratitude. Instead, the verse closes with a searching rebuke: little is it that they give thanks. Coming right before the Adam-Iblis sequence, this ayah becomes a bridge between the gift of human placement and the battle over whether that gift will produce shukr or rebellion."
 generated_by: "codex-tadabbur"
-validated: false
+validated: true
 tags: [tamkin, maayish, shukr, ard, khalq]
 concepts: [shukr, rizq, creation, fitrah, signs-of-allah]
+interpretive_read: "fable-2026-07-31"
 ---
 
 <!-- morphology:7:10:4 root=مكن pos=V -->
