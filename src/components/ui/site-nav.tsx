@@ -19,12 +19,12 @@ function getInitials(user: User): string {
   return (user.email ?? 'U').slice(0, 2).toUpperCase()
 }
 
+// No /reflections entry here — NORTH-STAR decision 4 (Jul 7, 2026) keeps the
+// ayah corpus off the public web. The reader route exists only so guided-path
+// ayah stops and hub ayah cards have somewhere to land.
 const topLinks = [
   { href: '/surahs', label: 'Surahs' },
   { href: '/articles', label: 'Articles' },
-  // "Ayah Reflections", not "Reflections" — the profile already calls a
-  // signed-in reader's own saved notes "Your reflections".
-  { href: '/reflections', label: 'Ayah Reflections' },
 ]
 
 const learnLinks = [

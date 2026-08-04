@@ -155,6 +155,12 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     title,
     description,
     alternates: { canonical },
+    // NORTH-STAR decision 4 (Jul 7, 2026, Azam, explicit): the tadabbur corpus
+    // is NOT a web-publishing asset — it is the grounding corpus for AI
+    // surfaces. This route exists so guided-path ayah stops and hub ayah cards
+    // have a destination; it is deliberately kept out of search indexes and
+    // out of the sitemap.
+    robots: { index: false, follow: false },
     openGraph: {
       title,
       description,

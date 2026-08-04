@@ -47,6 +47,10 @@ export const metadata: Metadata = {
   title: TITLE,
   description: DESCRIPTION,
   alternates: { canonical: `${CANONICAL_URL}/reflections` },
+  // NORTH-STAR decision 4 (Jul 7, 2026): the ayah corpus stays off the public
+  // web. This index is reachable by direct link only — not indexed, not in the
+  // sitemap, not in the nav.
+  robots: { index: false, follow: false },
   openGraph: {
     title: TITLE,
     description: DESCRIPTION,
