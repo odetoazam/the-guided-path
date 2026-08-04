@@ -1,0 +1,36 @@
+{
+  "proposal_id": "ZAYNAB-1",
+  "advisor": "ZAYNAB",
+  "skeptic_pass": "v3",
+  "verdict": "SURVIVES",
+  "attack_summary": "Non-count pattern; primary attack was IMPOSED-vs-REAL. The core reveal (10:22 you->them iltifat) is REAL and classically named, verified verbatim in al-Jalalayn. Breaks are confined to peripheral framing (cross-passage 'repeats', secondary attributions, a superlative), which are fixable and do not touch the load-bearing spine.",
+  "substrate_check": {
+    "status": "EXACT",
+    "10:22": "2MP open (yusayyiru+KUM 2MP obj; kuntum 2MP) -> 3rd person block (jarayna 3FP ships; bihim 3MP; farihu 3MP; ja'at-ha 3FS; ja'a-humu 3MP; zannu 3MP; uhiTa 3MS PASS; bihim 3MP; da'aw 3MP) -> quoted vow anjay-TA-na (najja 2MS + 1P) addressed to God. CONFIRMED in corpus features.",
+    "6:63": "tad'una 2MP (call upon Him, 3MS obj) then quoted vow anja-NA = 3MS verb + 1P ('if HE saves us'). NOT 2nd-person address to God. Proposal correctly does not claim otherwise. CONFIRMED.",
+    "6:64": "second-pass finding: dry-land ingratitude is 2nd person — thumma ANTUM tushrikuna (antum 2MP + tushrikuna 2MP). So 6:63-64's forgetting is addressed as 'you', NOT distanced to 'them'. Directly contradicts the 'forgets Him into He/them on dry land' half of the headline. CONFIRMED.",
+    "10:23_dryland": "second-pass finding: within the PRIMARY passage the ghayba does not persist onto land — yabghuna 3MP is immediately followed by a return to 2nd-person address (ya ayyuha al-nas; baghyu-KUM 2MP; anfusi-KUM; marji'u-KUM; nunabbi'u-KUM). So even in 10:22-23 'dry land = them' is only the narration verb, not the sustained register. CONFIRMED.",
+    "17:67": "addressee stays 2MP throughout (massa+kum, tad'una 2MP, najja+kum, a'radtum 2MP); God referenced 3MS (iyyahu). No khitab->ghayba turn. CONFIRMED.",
+    "31:32": "entirely 3rd person (ghashiya-hum, da'aw 3MP, najja-hum, min-hum). No 2nd-person address at all. CONFIRMED.",
+    "disguised_count": "NO. Person/tense/voice are fixed morphological features, not a frequency tally."
+  },
+  "imposed_test": {
+    "status": "PASSES for core claim",
+    "verified_grounding": "al-Jalalayn on 10:22 states verbatim on wa-jarayna bihim: 'فِيهِ التِفات عَنْ الخِطاب' (fihi iltifat 'an al-khitab). Confirmed live via scripts/cross_reference_tafsir.mjs --surah 10 --ayahs 22. This is recovered balagha, not a modern overlay.",
+    "unverified_grounding": "al-Zamakhshari (al-Kashshaf) 'THE textbook example' and al-Razi 'discusses it' could NOT be confirmed with available tooling (tool returns Ibn Kathir/Tabari/Muyassar/Jalalayn only). Plausible but unverified — must be checked against primary text before naming, or dropped in favor of the verified al-Jalalayn attribution."
+  },
+  "overlap_check": {
+    "status": "CLEAR",
+    "existing_tadabbur": "content/tadabbur/010-yunus/ayahs-021-024.md covers the psychological rhythm across 7 linguistic-journey sections (adhaqna/taste, makr, da'awu-as-tawhid, rescue-without-reform, boomerang baghy, zukhruf, sudden cut) + 2 themes. It does NOT anywhere spotlight the pronoun person-shift / iltifat mechanism. Fresh angle confirmed.",
+    "published_articles": "No published article covers ship/storm/sea/iltifat of 10:22. Existing 'grammar of X' pieces (permission, tyranny, verb-fork) and Yunus pieces (dhul-nun, the-fish, two-complaints) do not touch this pattern. No self-overlap."
+  },
+  "quran_only": "PASS. Payoff is entirely intra-Quranic (grammar + cross-passage theme); no hadith load-bearing.",
+  "broken_claims": [
+    "THESIS WORDING (false as stated): 'the same choreography repeats across the other sea-rescues (6:63, 17:67, 31:32).' The you->them->You arc occurs ONLY in 10:22. 17:67 keeps 2nd-person throughout (no ghayba turn); 31:32 is wholly 3rd-person (no khitab at all); 6:63 quotes the vow in 3rd person ('if HE saves us'), not 2nd; and 6:64 addresses the dry-land ingratitude in 2nd person (antum tushrikuna), not 'them'. The choreography does NOT repeat — the verses VARY. Must reword.",
+    "ATTRIBUTION CREEP (risks section): 'the you->them->You turn WITHIN 10:22 is classical iltifat (al-Zamakhshari, al-Jalalayn, named).' Only the you->them (khitab->ghayba) turn at wa-jarayna bihim is classically catalogued. The snap-back to 'You' (anjaytana, 2MS+1P) is quoted passenger supplication — the article's own structural observation, NOT a second catalogued iltifat. Do not attribute the snap-back to the mufassirun.",
+    "UNVERIFIED NAMED SOURCES: al-Kashshaf (al-Zamakhshari) and al-Razi citations unverified with available tooling; Zaynab's own cardinal sin is naming unverified classical attributions. Only al-Jalalayn is confirmed.",
+    "OVERCLAIM (why_now): 'the single most citable example in the classical balagha tradition.' 1:5 (iyyaka na'budu, ghayba->khitab) is the more canonical stock example; 10:22 is A well-known example, not THE single most citable. Cosmetic, soften."
+  ],
+  "required_corrections": "1) Reword the thesis so 6:63/17:67/31:32 are presented as VARIATIONS on the sea-rescue address (17:67 keeps 'you' throughout; 31:32 stays 'them' throughout; 6:63 quotes the vow in the third person), NOT as a repeated identical choreography — only 10:22 dramatizes the full you->them->You arc; keep the honestly-flagged 'modern structural reading' label on the four-verse synthesis. 2) Restrict the classical iltifat attribution to the you->them turn at wa-jarayna bihim (al-Jalalayn, verified verbatim); frame the return to 'You' (anjaytana) as the passengers' quoted supplication and the article's own reading, not a mufassir-named iltifat. 3) Independently verify the al-Kashshaf and al-Razi citations against primary text before naming them, or drop them and lead solely with the verified al-Jalalayn attribution. 4) Soften 'the single most citable example in the classical balagha tradition.'",
+  "notes": "Substrate exact across all six refs (persons/tense/voice/word-order confirmed in corpus). Primary IMPOSED attack FAILS to break it: the load-bearing 10:22 you->them iltifat is real, mechanically readable, and classically named — al-Jalalayn verbatim 'fihi iltifat an al-khitab' verified live. Not a disguised count. No self-overlap (existing Yunus 21-24 file is psychological, not grammatical). Quran-only. The breaks are peripheral framing errors the proposal itself half-concedes; the spine holds. SURVIVES conditional on the four required corrections — most importantly killing the 'same choreography repeats' wording, which a hostile reader refutes in one tweet ('17:67 says you the whole way and 31:32 never says you at all')."
+}

@@ -1,0 +1,97 @@
+{
+  "advisor": "Dr. Yasmin Farid",
+  "lens": "academic Quranic studies — interpretive honesty, morphological transparency, mixed (Muslim + outsider-curious) audience, anti-triumphalism, ikhtilaf honesty, the Quran read as a literary whole and in conversation with the traditions it engages",
+  "run": "2026-07-16",
+  "proposals": [
+    {
+      "id": "YASMIN-1",
+      "title": "Ibrahim's Wife Laughs in One Telling and Slaps Her Own Face in Another",
+      "thesis": "The Quran narrates the same annunciation twice and records two different reactions from the same woman: at 11:71 she laughs (fa-dahikat), and at 51:29 she comes forward in a clamor and strikes her own face (fa-sakkat wajhaha) while calling herself a barren old woman. The strike-word (root ص-ك-ك) is used nowhere else in the Quran. Reading the two tellings together shows the Quran is not giving one flat account of a miracle but layering a laugh and a shocked recoil into a single human moment — and inviting the reader to hold both.",
+      "exhibits": ["SCENE-6"],
+      "personas": {
+        "amina": 4,
+        "khalil": 4,
+        "sara": 4,
+        "yusuf": 3,
+        "note": "Amina and Sara get an unusually human, un-triumphant portrait of a scriptural woman; Khalil gets the hapax and the two-telling method laid bare. The comparative resonance (a wife of Ibrahim who laughs at the news of a son is also how the Genesis account remembers Sarah) is handled as a one-line acknowledgement that the Quran narrates inside a shared conversation — not as the payoff. The payoff stays Quran-internal: laugh vs. slap, and a word spent only here."
+      },
+      "risks": "The Genesis parallel is a strength for my lens but a trap if it becomes the argument; keep it a single dignified sentence, never a superiority claim. Do not assert the two tellings are 'the same instant' as historical fact — frame as two Quranic tellings of one annunciation. Avoid psychologizing the woman beyond what the two verbs license.",
+      "why_now": "The site's engagement with the Jewish and Christian scriptures the Quran is in dialogue with is almost entirely absent — this is the flagged gap. A piece that models the right posture (acknowledgement, shared conversation, dignity to the interlocutor) on a warm human scene rather than a contested doctrine is the safest first step into that territory."
+    },
+    {
+      "id": "YASMIN-2",
+      "title": "In the Quran's Paradise, You Are Never the One Who Puts On the Jewelry",
+      "thesis": "The verb 'to be adorned with jewelry' (root ح-ل-ي) is used four times in the Quran, and in mushaf order — 18:31, 22:23, 35:33, 76:21 — all four are passive: the people of the Garden 'are adorned' with bracelets, never the grammatical subject of their own adornment. The consistency is total across four separate passages. It is a small grammatical fact with a large theological reading: in the Quran's picture of reward, even the ornament of the saved is something done to them, not something they do.",
+      "exhibits": ["VOICE-3"],
+      "personas": {
+        "amina": 4,
+        "khalil": 5,
+        "sara": 3,
+        "yusuf": 4,
+        "note": "Khalil and Yusuf get exactly the morphological transparency they came for — a claim that is checkable token by token (4 of 4 passive, verb tokens only) and scoped precisely. Amina gets a gentle, non-polemical entry into how Quranic grammar carries meaning. The article shows its work: it names that this is the verbal sense of the root only, and that the lone non-verb token is the crescent moons of 2:189."
+      },
+      "risks": "Passive voice in Arabic does not always carry theological weight; the honest version says 'here the pattern is total and worth noticing,' not 'the passive always means X.' Must not over-read a single grammatical feature into a full doctrine of grace. State the scope (verb tokens, this root) plainly so a critic checking the corpus finds the claim holds.",
+      "why_now": "This is the cleanest possible demonstration of the site's method — a claim any reader with a concordance can verify — and it lands without any triumphalist framing. It is the kind of page I would hand a skeptical graduate student to show that morphological reading is disciplined, not decorative."
+    },
+    {
+      "id": "YASMIN-3",
+      "title": "A Pagan Queen and a Future Prophet Say the Exact Same Four Words of Confession",
+      "thesis": "The confession 'My Lord, I have wronged myself' (rabbi inni zalamtu nafsi) is spoken by exactly two people in the Quran: in mushaf order, the Queen of Sheba as she submits in Sulayman's court (27:44) and Musa right after he kills a man in Egypt (28:16). One is a foreign monarch outside the covenant community, the other a man who will become a prophet — and the Quran gives them the identical words. The reveal is that the Quran does not reserve the language of self-accountability for its heroes; it hands the same sentence to a pagan queen and a future messenger.",
+      "exhibits": ["PHRASE-2"],
+      "personas": {
+        "amina": 5,
+        "khalil": 4,
+        "sara": 4,
+        "yusuf": 3,
+        "note": "Amina's segment — the reconnector who arrives needing permission and depth without an Arabic prerequisite — is served directly: the Quran levels the confession across insider and outsider. Sara gets something she can say to a teenager about who is allowed to repent. The piece distinguishes this singular first-person confession from the dual (Adam, 7:23) and from Yunus (21:87) so the scope is honest."
+      },
+      "risks": "Easy to slide into a triumphalist 'only the Quran does this' claim — do not. Frame locally and comparatively per my two allowed registers, not as a superiority claim. Bilqis's later status is debated in the tradition; the article should rest on what the verse says (she submits with Sulayman) and not adjudicate her afterlife. Avoid flattening Musa's act into a tidy moral.",
+      "why_now": "Contested-verse and permission-seeking readers are the largest arriving segment. A page whose whole point is that scripture hands the same words of repentance to an outsider and a prophet meets that reader where she is, and it does so without any of the defensiveness that makes the site's tone inconsistent."
+    },
+    {
+      "id": "YASMIN-4",
+      "title": "The Meat With No Name: Why the Quran Never Says Who Dedicated It",
+      "thesis": "In the four verses that list forbidden foods — 2:173, 5:3, 6:145, 16:115 — the clause for meat 'dedicated to other than God' is passive every time: 'that over which [a name] other than God has been invoked' (ma uhilla li-ghayri-llahi bihi). The Quran never once names who did the invoking. The grammatical suppression of the agent is consistent across all four dietary passages, and it does quiet work: the prohibition attaches to the act of false dedication itself, not to any named party doing it.",
+      "exhibits": ["VOICE-7"],
+      "personas": {
+        "amina": 3,
+        "khalil": 5,
+        "sara": 3,
+        "yusuf": 4,
+        "note": "This is a Khalil-and-Yusuf piece: a fiqh-anchored claim (the four dietary-law verses) with morphological transparency (4 of 4 passive, same lemma) and near-total juristic consensus behind the ruling, so ikhtilaf is minimal and can be stated as such. The article should note that the lone non-verb token of the root is the crescent moons of 2:189, so the reader can see the scope is verbal sense only."
+      },
+      "risks": "Ahkam-bearing territory: the piece is a reading of the Quran's grammar, not a fatwa on any specific slaughter practice. Say so. Do not extend the point into contemporary halal-certification debates, where the ikhtilaf is real and beyond a tadabbur's remit. Keep the claim to the four verses and the passive pattern.",
+      "why_now": "The site is strongest when it pairs classical fiqh anchoring with morphological rigor — the exact combination that made the 2:282 page publishable in a graduate seminar. This applies the same discipline to dietary law, a topic converts and students are asked about constantly and rarely get a rigorous, checkable answer on."
+    },
+    {
+      "id": "YASMIN-5",
+      "title": "The Excuse God Puts in Their Mouths Before They Can Make It",
+      "thesis": "Twice — in mushaf order at 20:134 and 28:47 — the Quran quotes a complaint the guilty would have raised: 'Our Lord, if only You had sent us a messenger, we would have followed Your signs.' Both times it is framed as a preemptive excuse, voiced by God in advance to explain why messengers are sent before any reckoning. The reveal is that the Quran anticipates one of the oldest objections to divine justice — how can people be judged without warning? — and answers it by quoting the objection itself, in the mouth of the one who would have used it.",
+      "exhibits": ["PHRASE-9"],
+      "personas": {
+        "amina": 4,
+        "khalil": 4,
+        "sara": 3,
+        "yusuf": 5,
+        "note": "Yusuf's segment — the student meeting the academic critique that scripture is arbitrary or unjust — gets a citable, precisely scoped answer: the text names the fairness objection and structures its own response to it, twice, in identical words. Amina and Khalil get a piece that treats a hard question honestly rather than defensively. The two verses' framing verbs (law-la...la-qalu / fa-yaqulu) are shown so the 'preemptive' reading is grounded, not asserted."
+      },
+      "risks": "This touches theodicy, where over-claiming reads as apologetics. The honest version: the Quran raises and addresses the objection; it does not pretend the whole philosophical problem is thereby closed. Present the two verses as the Quran's own move, and let the reader weigh it — do not declare the debate settled.",
+      "why_now": "Interpretive honesty about the hard questions is what separates a scholarly page from a defensive one, and the site's tone still wobbles here. A piece that shows the Quran naming a critique in advance — rather than the site scrambling to rebut critics — models the confident, non-defensive posture the site is still reaching for."
+    },
+    {
+      "id": "YASMIN-6",
+      "title": "The Verb Turns Around: You Shove the Orphan, Then You Are Shoved Into the Fire",
+      "thesis": "The blunt physical verb 'to shove' (root د-ع-ع) is used as a verb exactly twice in the Quran, both the same form, differing only in voice: at 107:2 it is active — the one who 'shoves away the orphan' — and at 52:13 it is passive — the day the deniers 'are shoved toward the Fire with a shove.' The same rough push, done by a hand in one verse, done to that hand in the other. The grammar itself carries the moral: the gesture a person aims at the powerless comes back aimed at them.",
+      "exhibits": ["VOICE-1"],
+      "personas": {
+        "amina": 4,
+        "khalil": 4,
+        "sara": 5,
+        "yusuf": 3,
+        "note": "Sara's piece: a single vivid, shareable point a parent can say to a teenager about how you treat the vulnerable, grounded in one checkable grammatical fact rather than a sermon. Amina and Khalil get the reciprocity read with its scope stated (2 verb tokens, only 1 other non-verb token of the root exists). The article should resist moralizing beyond what the voice-flip licenses."
+      },
+      "risks": "The active/passive mirror is real, but the piece must not claim the Quran 'designed' the pairing as a deliberate rhyme — state the two facts (same verb, opposite voice) and let the reader see the resonance. Keep it to the two verb tokens; do not fold in the third non-verb token as if it were part of the pattern.",
+      "why_now": "The site needs pages that a WhatsApp-sharing parent can actually pass along without stripping the rigor — short, visceral, and still checkable. This one is teen-readable on its surface and morphologically exact underneath, which is the composite voice the site has been trying to settle into."
+    }
+  ]
+}

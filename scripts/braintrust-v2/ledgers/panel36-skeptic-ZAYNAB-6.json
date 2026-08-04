@@ -1,0 +1,35 @@
+{
+  "proposal_id": "ZAYNAB-6",
+  "reviewer": "skeptic",
+  "advisor": "ZAYNAB",
+  "verdict": "SURVIVES",
+  "verified": {
+    "extinguish_root_طفأ_verses": ["5:64", "9:32", "61:8"],
+    "extinguish_token_count": 3,
+    "extinguish_verse_count": 3,
+    "extinguish_variant_roots_checked": ["طفا", "طفي"],
+    "extinguish_variant_hits": 0,
+    "all_three_lemma": "أَطْفَأَ (Form IV atfa'a) — verb-form uniform across all 3",
+    "9:32": {"verb": "يُطْفِـُٔوا (IMPF 3MP = people)", "object": "نُورَ ٱللَّهِ (light of Allah)", "with_mouths": "بِأَفْوَٰهِهِمْ present", "completion_clause": "يُتِمَّ نُورَهُ (Allah completes His light)"},
+    "61:8": {"verb": "يُطْفِـُٔوا (IMPF 3MP = people)", "object": "نُورَ ٱللَّهِ (light of Allah)", "with_mouths": "بِأَفْوَٰهِهِمْ present", "completion_clause": "مُتِمُّ نُورِهِ (Allah completer of His light)"},
+    "5:64": {"verb": "أَطْفَأَ (PERF 3MS = Allah, subject ٱللَّهُ explicit)", "object": "هَا = نَارًا (fire), kindled أَوْقَدُوا لِلْحَرْبِ (for war)"},
+    "nur_nar_shared_root": "corpus assigns lemma نار (145 tokens) 100% to root نور; lemma نُور (43) and مُنِير (6) also root نور — matches classical lexicography (Lisan al-Arab / Lane places نار under ن-و-ر)",
+    "root_level_companion": "3/3 same-verse (all three atfa'a verses contain a root-نور word)",
+    "lemma_level_split": "2 نُور (9:32, 61:8) / 1 نار (5:64) — the reveal, confirmed",
+    "base_rate": "174/6236 verses contain a root-نور word = 2.79% — exhibit figure exact",
+    "aspect_contrast_strengthens": "9:32/61:8 imperfect inside يريدون أن/لـ (mere wish/attempt) vs 5:64 perfect أطفأ after كلّما (accomplished, habitual) — reinforces 0-for-2 vs 1-for-1",
+    "overlap": "none — grep of published-articles.md (185 slugs) + 6 week-shipped slugs finds no atfa/nur/nar-extinguish/9:32/61:8/5:64 article; 8 existing fire/light slugs are all different topics (Musa's fire, hell-fire names, Ibrahim's fire 21:69)",
+    "quran_only": true,
+    "hadith_dependency": false
+  },
+  "broken_claims": [],
+  "required_corrections": [
+    "5:64 is a contested/polemical verse: it opens 'The Jews say: Allah's hand is chained' (قَالَتِ ٱلْيَهُودُ). Building the article's third leg on it without the site's contested-verse care invites the quote-mine 'AyahGuide celebrates a verse against the Jews.' Frame the 'fire for war' per classical tafsir as sedition/warmongering they instigate, acknowledge the historical context, and avoid ethnic-condemnation optics. This is the single most important fix.",
+    "Downplay/drop the 2.79% base-rate-as-marvel framing. The 3/3 نور co-occurrence is semantically expected — atfa'a MEANS 'extinguish,' whose natural objects ARE light and fire — so it is near-tautological, not a statistical improbability. A one-tweet rebuttal ('of course you extinguish light or fire') defeats the base-rate angle. Keep the load-bearing payoff (morphology: root-3/3 vs lemma-2/1 split, plus the agent/object flip); cut the statistical mystique.",
+    "Soften authorial-intent language ('the Quran uses that closeness deliberately'). Intent is not provable from counts. Present it as a tadabbur observation of a real pattern, not a demonstrated claim of deliberate divine punning.",
+    "Keep the nur/nar distinction strictly MORPHOLOGICAL, not phonetic. State it precisely: surface نور vs نار differ by one weak letter (و vs ا), both from underlying root ن-و-ر; nūr realizes the waw as long /uː/, nār shifts it to alif /aː/. Do not dramatize 'they sound almost the same.' (Risk note already flags this — hold the line.)",
+    "Do not imply the root ن-و-ر produces only two words: it yields نُور (light), نار (fire) AND مُنِير (luminous, 6×). Frame light/fire as two members of one luminous root-family, not the root's only children.",
+    "Scope the count to the verb/root طفأ; do not claim atfa'a is the Quran's 'only' word for extinguishing. The 'exactly three' claim is airtight for this lexeme (verified exhaustively incl. variant roots) — keep it lexeme-scoped."
+  ],
+  "notes": "Every load-bearing claim re-derived from scripts/.corpus-cache/quranic-corpus.json and confirmed. Root طفأ occurs in exactly and only 3 verses (5:64, 9:32, 61:8), all lemma أَطْفَأَ — verified against variant spellings طفا/طفي (0 hits), so the complete-set claim is exhaustive. Agent/object structure holds perfectly: people→light→fail (Allah completes His light) x2; Allah→fire→done x1. nur/nar shared root ن-و-ر is corpus-consistent (145/145 نار tokens root نور) and classically grounded. Root-3/3 vs lemma-2/1 split and base rate 2.79% both exact. No overlap with 185 published slugs or the 6 week-shipped slugs; Quran-only payoff, no hadith. Bonus: the imperfect-attempt (9:32/61:8) vs perfect-accomplished (5:64) aspect contrast actively strengthens the thesis and should be foregrounded. The corrections are craft/framing and sensitivity guards, not defects in the linguistic core — none is load-bearing, so the proposal SURVIVES."
+}

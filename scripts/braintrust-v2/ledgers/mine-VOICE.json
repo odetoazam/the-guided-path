@@ -1,0 +1,112 @@
+[
+  {
+    "id": "VOICE-1",
+    "title_idea": "The Same Verb: You Shove the Orphan Away — Then You Get Shoved Into the Fire",
+    "claim": "The root د-ع-ع (a rough, physical shove) occurs as a verb exactly 2 times in the Quran, both imperfect form-I of the same lemma. At 107:2 it is ACTIVE — 'the one who shoves away the orphan' (yadu''u al-yatim). At 52:13 it is PASSIVE — 'the day they are shoved toward the fire of Hell with a shove' (yuda''una ila nari jahannama da''a). Scope: ROOT field of the morphological corpus; 2 verb tokens, 2 verses; only 1 other (non-verb) token of the root exists.",
+    "evidence": "ROOT:دعع verb census = 2 tokens: 107:2 يَدُعُّ (act, VF:1, IMPF), 52:13 يُدَعُّ (PASS, VF:1, IMPF). Same triliteral, same form, same aspect — only the voice differs. 107:2: 'fa-dhalika alladhi yadu''u al-yatim'. 52:13: 'yawma yuda''una ila nari jahannama da''a' (the passive is intensified by the cognate accusative da''a).",
+    "refs": ["107:2", "52:13"],
+    "verify_method": "python3: load scripts/.corpus-cache/quranic-corpus.json; for every segment where root=='دعع' and pos=='V', record ref and whether 'PASS' is in features.split('|'). Expect exactly 2: 107:2 active, 52:13 passive. Confirm no third verb token. Cross-check textSimple in node_modules/quran-validator/data/quran-verses.json.",
+    "overlap_note": "none. Not in published-articles.md; not in verified-pool.json. Distinct from budge-root (زحزح) template — different root, and this one is a single-verb active/passive flip where the DEED and the PUNISHMENT are literally the same verb.",
+    "angle": "The Quran's word for how a heartless person pushes an orphan out of the way is the exact same word for how that person will be pushed into Hell. You did the shoving; then you get shoved. Grammar makes the punishment fit the crime to the letter."
+  },
+  {
+    "id": "VOICE-2",
+    "title_idea": "'When We Are Torn to Shreds' — The Mockers' Own Verb, Turned Against a City That Already Fell",
+    "claim": "The root م-ز-ق (to tear to pieces) occurs as a verb exactly 2 times in the Quran, both form-II perfect, both inside Surah Saba (34), and both followed by the identical emphatic phrase 'kulla mumazzaq' (into utter shreds). At 34:7 it is PASSIVE, in the deniers' mocking mouths: 'when you have been torn to utter shreds [will you really be a new creation]?' At 34:19 it is ACTIVE, with God as agent, about the people of Saba: 'so We made them tales and tore them to utter shreds.' Scope: ROOT field; 2 verb tokens, 2 verses, same surah.",
+    "evidence": "ROOT:مزق verb census = 2 tokens: 34:7 مُزِّقْتُمْ (PASS, VF:2, PERF) '...idha muzziqtum kulla mumazzaq...'; 34:19 مَزَّقْنَاهُمْ (act, VF:2, PERF) 'wa mazzaqnahum kulla mumazzaq'. Both carry the cognate-accusative tail 'kulla mumazzaq'.",
+    "refs": ["34:7", "34:19"],
+    "verify_method": "python3: filter root=='مزق', pos=='V'; expect 2 tokens, both in surah 34, one PASS (34:7) one active (34:19). Grep textSimple for 'ممزق' to confirm both verses contain the phrase 'كل ممزق'.",
+    "overlap_note": "none. BRACKET-8 covers Surah Yusuf's shirt; no overlap. This is a within-surah active↔passive flip on a self-identical phrase.",
+    "angle": "The deniers sneer, 'When we've been ripped to shreds, we'll be remade?' Twelve verses later the same surah uses the same verb and same phrase — but now God is the one doing the tearing, and the victim is a real civilization He already scattered. The mockers' hypothetical is history's fact."
+  },
+  {
+    "id": "VOICE-3",
+    "title_idea": "In Paradise You Never Dress Yourself — Every Time the Quran Adorns the Saved, the Verb Is Passive",
+    "claim": "The root ح-ل-ي in its verbal sense 'to adorn (with jewelry)' occurs as a verb exactly 4 times in the Quran, and every single one is PASSIVE — the people of Paradise 'are adorned' (yuhallawna / hullu) with bracelets: 18:31, 22:23, 35:33 (gold), 76:21 (silver). The dwellers of Jannah are never the grammatical subject of their own adornment; they are always the ones adorned. Scope: ROOT field, verb tokens only; 4 of 4 passive.",
+    "evidence": "ROOT:حلي verb census = 4 tokens, 4/4 PASS, all VF:2: 18:31 يُحَلَّوْنَ, 22:23 يُحَلَّوْنَ, 35:33 يُحَلَّوْنَ, 76:21 حُلُّوٓاْ. All four verses place them in Jannah ('jannatu 'adnin' / 'jannatun tajri...') and specify 'asawir' (bracelets) of gold or silver.",
+    "refs": ["18:31", "22:23", "35:33", "76:21"],
+    "verify_method": "python3: filter root=='حلي', pos=='V'; expect 4 tokens, assert all have 'PASS' in features. Confirm each ref's textSimple contains 'اساور' and a Jannah marker.",
+    "overlap_note": "none. jannah-vocabulary and jannah-rivers articles exist but none turns on the grammatical voice of adornment. This is a voice-census reveal, not a vocabulary list.",
+    "angle": "On earth you labor to look put-together. The Quran describes Paradise with a quiet grammatical choice: the saved are always 'adorned,' never 'adorning' — the effort is lifted off them entirely. You are beautified; you don't have to earn the mirror."
+  },
+  {
+    "id": "VOICE-4",
+    "title_idea": "You Can't Rank Yourself: The Verb for Marshaling Armies Is the Same One Sulayman Used to Beg for a Grateful Heart",
+    "claim": "The root و-ز-ع (to hold in ordered ranks / restrain from breaking formation) occurs as a verb exactly 5 times in the Quran. All 3 PASSIVE tokens mean 'to be marshaled into ranks' by an outside force — Sulayman's assembled hosts (27:17) and the deniers herded to the Fire (27:83, 41:19). Both ACTIVE tokens are form-IV and are the identical prayer 'rabbi awzi'ni an ashkura ni'mataka' — 'my Lord, dispose me to thank You for Your favor' (27:19 Sulayman; 46:15 the believer turning forty). Scope: ROOT field; 5 verb tokens, 3 passive / 2 active.",
+    "evidence": "ROOT:وزع verb census = 5 tokens: PASS — 27:17, 27:83, 41:19 (all يُوزَعُونَ, VF:1, IMPF); ACT — 27:19, 46:15 (both أَوْزِعْنِى, VF:4, IMPV). The two active tokens are word-for-word the same du'a opening ('rabbi awzi'ni an ashkura ni'mata...').",
+    "refs": ["27:17", "27:83", "41:19", "27:19", "46:15"],
+    "verify_method": "python3: filter root=='وزع', pos=='V'; expect 5 tokens, 3 PASS + 2 active. Confirm 27:19 and 46:15 textSimple both begin the clause 'رب اوزعني ان اشكر'. Confirm 27:17/27:83/41:19 end 'فهم يوزعون'.",
+    "overlap_note": "none. No published article on gratitude/ranks uses this root. Distinct mechanism from the vocabulary pieces.",
+    "angle": "The Quran uses one verb for troops marshaled into disciplined ranks and for crowds herded to judgment — always passive, always done TO people. The only time a human is the subject, it's a prayer: 'God, arrange ME to be grateful.' You cannot line up your own heart. You can only ask to be lined up."
+  },
+  {
+    "id": "VOICE-5",
+    "title_idea": "Rout: The Only Two Times This Verb Appears, Grammar Hands the Victory to God Both Ways",
+    "claim": "The root ه-ز-م (to rout / put to flight) occurs as a verb exactly 2 times in the Quran. At 2:251 it is ACTIVE — the believers 'routed them by the leave of God' (fa-hazamuhum bi-idhni-llah), the human agent named but immediately subordinated to divine permission. At 54:45 it is PASSIVE — 'the host will be routed and turn their backs' (sa-yuhzamu al-jam'u), the human victor erased entirely and the agency left to God. Scope: ROOT field; 2 verb tokens, 2 verses.",
+    "evidence": "ROOT:هزم verb census = 2 tokens: 2:251 هَزَمُوهُم (act, VF:1, PERF) tagged 'bi-idhni-llah'; 54:45 يُهْزَمُ (PASS, VF:1, IMPF). The active verse defuses human credit with the phrase 'by God's leave'; the passive verse suppresses the human agent altogether.",
+    "refs": ["2:251", "54:45"],
+    "verify_method": "python3: filter root=='هزم', pos=='V'; expect exactly 2 tokens: 2:251 active, 54:45 passive. Confirm 2:251 textSimple contains 'باذن الله' adjacent to 'فهزموهم'.",
+    "overlap_note": "none. talut-river-test article covers 2:249 (the river test) but not the routing verb or its passive twin. Payoff is fully Quran-internal (no Badr hadith invoked).",
+    "angle": "The Quran names the verb for military rout exactly twice — and never lets a human keep the win. When believers rout the enemy, it's 'by God's leave.' When the enemy is routed, no human is even mentioned — it's just done to them. Whoever wins, the grammar says God did it."
+  },
+  {
+    "id": "VOICE-6",
+    "title_idea": "Struck Speechless: The Verb the Quran Reserves for a Denier With Nothing Left to Say",
+    "claim": "The root ب-ه-ت in its verbal sense 'to be dumbfounded / struck speechless' occurs as a verb exactly 2 times in the Quran, and in both the one left speechless is a denier. At 2:258 it is PASSIVE — the king who argued with Ibrahim 'was struck dumb' (fa-buhita alladhi kafara) once the argument turned on him. At 21:40 it is ACTIVE — the Hour comes suddenly and 'dumbfounds them' (fa-tabhatuhum), the deniers unable to respond. Scope: ROOT field, verb tokens only; 2 verb tokens (the root's other 6 tokens are the noun buhtan, 'slander').",
+    "evidence": "ROOT:بهت verb census = 2 tokens: 2:258 بُهِتَ (PASS, VF:1, PERF); 21:40 تَبْهَتُ (act, VF:1, IMPF). 2:258: '...fa-buhita alladhi kafara' (the disbeliever, after Ibrahim's counter, is silenced). 21:40: 'bal ta'tihim baghtatan fa-tabhatuhum' (the Hour dumbfounds them). 6 remaining root tokens are pos=N (buhtan).",
+    "refs": ["2:258", "21:40"],
+    "verify_method": "python3: filter root=='بهت'; split by pos. Verb tokens = 2 (2:258 PASS, 21:40 act); non-verb = 6 (nouns). Confirm the two verb refs by textSimple.",
+    "overlap_note": "none. No published piece on being silenced/dumbfounded. Distinct root and mechanism.",
+    "angle": "There's a word the Quran uses only for the moment a denier runs out of words. Once it's a tyrant mid-debate with Ibrahim, silenced when the logic flips on him. Once it's every denier at the end, silenced by the Hour. Same verb — the sound of an argument collapsing."
+  },
+  {
+    "id": "VOICE-7",
+    "title_idea": "The Meat With No Name: Why the Quran Keeps the Verb for 'Dedicated to Other Than God' Passive Every Time",
+    "claim": "The root ه-ل-ل in its verbal sense (to raise the voice in dedication over a slaughter) occurs as a verb exactly 4 times in the Quran, and every one is PASSIVE, in the identical dietary-law phrase 'ma uhilla li-ghayri-llahi bihi' — 'that over which [a name] other than God has been invoked' (2:173, 5:3, 6:145, 16:115). The Quran never once names who does the invoking; the agent of false dedication is grammatically suppressed in all four. Scope: ROOT field, verb tokens only; 4 of 4 passive.",
+    "evidence": "ROOT:هلل verb census = 4 tokens, all أُهِلَّ (PASS, VF:4, PERF): 2:173, 5:3, 6:145, 16:115. Each sits in the same prohibition list (carrion, blood, swine, and 'ma uhilla li-ghayri-llahi bihi'). The lone non-verb token of the root is 'ahilla' (crescent moons) at 2:189.",
+    "refs": ["2:173", "5:3", "6:145", "16:115"],
+    "verify_method": "python3: filter root=='هلل', pos=='V'; expect 4 tokens, assert all PASS. Confirm each ref's textSimple contains 'اهل ... لغير الله به' (word order varies by verse).",
+    "overlap_note": "none. No published article on dietary law or this root. This is a voice-consistency reveal.",
+    "angle": "Four times the Quran forbids meat 'consecrated to other than God' — and four times it refuses to say who did the consecrating. The verb stays passive, the idolater stays nameless. The Quran won't even grant a false dedication the dignity of a subject."
+  },
+  {
+    "id": "VOICE-8",
+    "title_idea": "Never Slackens — One Verb for Worship That Never Tires and Punishment That Never Eases",
+    "claim": "The root ف-ت-ر (to slacken, flag, let up) occurs as a verb exactly 2 times in the Quran, both negated, and the voice flips between them. At 21:20 it is ACTIVE and negated of the angels: they glorify night and day 'and do not slacken' (la yafturun). At 43:75 it is PASSIVE and negated of the punishment of the damned: it 'will not be lightened for them' (la yufattaru 'anhum). Scope: ROOT field; 2 verb tokens, 2 verses.",
+    "evidence": "ROOT:فتر verb census = 2 tokens: 21:20 يَفْتُرُونَ (act, VF:1, IMPF, negated 'la'); 43:75 يُفَتَّرُ (PASS, VF:2, IMPF, negated 'la'). Active = the angels never let up praising; passive = the fire is never let up for the damned.",
+    "refs": ["21:20", "43:75"],
+    "verify_method": "python3: filter root=='فتر', pos=='V'; expect 2 tokens, 21:20 active + 43:75 passive. Confirm both textSimple carry the negation 'لا' immediately before the verb.",
+    "overlap_note": "none. No published article on this root. Distinct from the fear/mercy census pieces.",
+    "angle": "The Quran uses one verb, 'to let up,' exactly twice — and negates it both times. The angels never let up in praise; the fire is never let up on the damned. Two engines that never idle: one of devotion, one of consequence."
+  },
+  {
+    "id": "VOICE-9",
+    "title_idea": "Turned Back Into the Trap: The Hypocrite's Reversal, From Both Sides of the Grammar",
+    "claim": "The root ر-ك-س (to revert, to be turned back to a former bad state) occurs as a verb exactly 2 times in the Quran, both form-IV, both in Surah An-Nisa (4), three verses apart, both about the hypocrites — and the voice flips. At 4:88 it is ACTIVE with God as agent: 'God has reverted them for what they earned' (wallahu arkasahum). At 4:91 it is PASSIVE: whenever they are pulled back to temptation, 'they are plunged back into it' (urkisu fiha). Scope: ROOT field; 2 verb tokens, both in surah 4.",
+    "evidence": "ROOT:ركس verb census = 2 tokens (0 non-verb): 4:88 أَرْكَسَهُم (act, VF:4, PERF); 4:91 أُرْكِسُواْ (PASS, VF:4, PERF). Same root, same form, same surah, same subject (the munafiqun) — only the voice differs.",
+    "refs": ["4:88", "4:91"],
+    "verify_method": "python3: filter root=='ركس', pos=='V'; expect exactly 2 tokens, both surah 4, one active (4:88) one passive (4:91), both VF:4.",
+    "overlap_note": "none. No published article on hypocrisy uses this root. A tight same-surah, same-form voice flip (زحزح-style twin, different root).",
+    "angle": "The Quran describes the hypocrite's relapse twice in one surah with one rare verb — once 'God turned them back,' once 'they got turned back.' Read together, the grammar says the same thing from two directions: the door they keep walking back through was also locked behind them."
+  },
+  {
+    "id": "VOICE-10",
+    "title_idea": "Reversed in Creation: One Verb for the Body That Ages Backward and the Mind That Relapses",
+    "claim": "The root ن-ك-س (to turn upside down / set back) occurs as a verb exactly 2 times in the Quran, and the voice flips. At 21:65 it is PASSIVE — Ibrahim's idolaters, after admitting their idols cannot speak, 'were turned upside down onto their heads' (nukisu 'ala ru'usihim), i.e., relapsed into denial. At 36:68 it is ACTIVE with God as agent — 'whomever We grant long life, We set back in creation' (nunakkis-hu fi al-khalq), aging as a reversal toward weakness. Scope: ROOT field; 2 verb tokens, 2 verses.",
+    "evidence": "ROOT:نكس verb census = 2 tokens: 21:65 نُكِسُواْ (PASS, VF:1, PERF); 36:68 نُنَكِّسْهُ (act, VF:2, IMPF). Passive = an intellectual relapse (the idolaters); active = God's reversal of the aged body.",
+    "refs": ["21:65", "36:68"],
+    "verify_method": "python3: filter root=='نكس', pos=='V'; expect 2 tokens, 21:65 passive + 36:68 active. Confirm 36:68 textSimple contains 'ننكسه في الخلق' and 21:65 contains 'نكسوا على رءوسهم'.",
+    "overlap_note": "none. No published article on this root or on aging-as-reversal.",
+    "angle": "The Quran has one verb for 'reversal,' and it splits it cleanly. The body: God 'sets back' the long-lived toward infancy — aging is a return trip. The mind: the idolaters 'were turned upside down,' relapsing the instant clarity became inconvenient. Two ways a person gets walked backward."
+  },
+  {
+    "id": "VOICE-11",
+    "title_idea": "Thunderstruck: The Cosmic Blast Everyone Faints From — and the One the Deniers Are Singled Out For",
+    "claim": "The root ص-ع-ق in its verbal sense 'to fall thunderstruck / swoon dead' occurs as a verb exactly 2 times in the Quran, and the voice flips. At 39:68 it is ACTIVE and universal — at the trumpet, 'whoever is in the heavens and earth swoons' (sa'iqa man fi as-samawati wa-l-ard), all creation as subject. At 52:45 it is PASSIVE and targeted — the deniers' 'day in which they are struck down' (yus'aqun). Scope: ROOT field, verb tokens only; 2 verb tokens (the root's 9 other tokens are the noun sa'iqa, 'thunderbolt').",
+    "evidence": "ROOT:صعق verb census = 2 tokens: 39:68 صَعِقَ (act, VF:1, PERF, subject = all in heavens/earth); 52:45 يُصْعَقُونَ (PASS, VF:1, IMPF, subject = the deniers left to their day). 9 remaining root tokens are pos=N (sa'iqa).",
+    "refs": ["39:68", "52:45"],
+    "verify_method": "python3: filter root=='صعق'; verb tokens = 2 (39:68 act, 52:45 PASS), non-verb = 9. Confirm 39:68 textSimple 'فصعق من في السماوات ومن في الارض' and 52:45 'يومهم الذي فيه يصعقون'.",
+    "overlap_note": "none. al-qiyamah articles cover mountains/scales but not this verb's voice split.",
+    "angle": "The Quran's verb for being struck down appears twice. Once it's everyone — the whole cosmos faints at the blast, no one exempt. Once it's just the deniers, passive, singled out and struck on 'their day.' The same collapse, once as a universal leveling and once as a personal reckoning."
+  }
+]

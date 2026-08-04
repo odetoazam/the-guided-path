@@ -1,0 +1,17 @@
+{
+  "verifier": "grounding",
+  "date": "2026-07-21",
+  "results": [
+    {
+      "id": "GRAMMAR-CHOICE-5",
+      "verdict": "NEEDS_HEDGE",
+      "notes": "SUBSTRATE CONFIRMED mechanically from quranic-corpus.json: 24:2 segment order is al-zaniyah (ACT_PCPL, F, NOM) BEFORE al-zani (M, NOM); 5:38 is al-sariq (M, NOM) BEFORE al-sariqah (F, NOM). The flip is real and readable straight off the segment stream. TAFSIR CHECK: all four pulled sources (Ibn Kathir, al-Tabari, al-Muyassar, al-Jalalayn) on both verses discuss hadd rulings and case-grammar (al-Jalalayn: 'al' mawsulah/mubtada'; al-Tabari on 5:38: why nominative not accusative, plus Ibn Mas'ud's variant reading al-sariqun wal-sariqat) — NONE discusses the gender-ordering flip. The claimed al-Zamakhshari/al-Razi/al-Qurtubi grounding is NOT verifiable with the project's pulled sources and must be checked against al-Kashshaf/Mafatih directly before publishing. OVERLAP CONFIRMED: content/tadabbur/024-an-nur/ayah-002.md (line 85, 'Why the Woman Comes First') already publishes the masculine-default-broken argument as a central element; only the 5:38 contrast is new. High adversarial-quotation sensitivity stands.",
+      "corrected": "Build the piece EXCLUSIVELY as the 5:38-vs-24:2 contrast (link to the existing 24:2 tadabbur rather than restating it). Before publish: verify the ordering-explanation passages in al-Kashshaf and Mafatih al-Ghayb directly — the four project tafsir sources do not contain it. Present the WHY of the flip as ikhtilaf among later commentators (locus/initiative of each offense, explicitly not a moral ranking of the sexes), and mark that the earliest pulled sources discuss the verses' grammar without commenting on the order at all. The 'order as argument' pair-synthesis is a modern literary reading offered as reflection. Footnote Ibn Mas'ud's variant reading of 5:38 for honesty."
+    },
+    {
+      "id": "GRAMMAR-CHOICE-6",
+      "verdict": "CONFIRMED",
+      "notes": "SUBSTRATE CONFIRMED as an ABSENCE: full segment read of 12:31 shows NO adjective, noun, or descriptive phrase for Yusuf's appearance anywhere in the verse — the narrator gives only akbarnahu (PERF, VF:4, 3FP + 3MS object) and qatta'na aydiyahunna (VF:2 intensive, 3FP). The only quasi-descriptive words (malak karim) are the women's quoted speech describing what he is NOT (ma hadha basharan), not narrator description. TAFSIR CHECK: classical inference-from-effect is explicitly present — al-Muyassar: 'akhadha-hunna husnuhu wa-jamaluhu... li-anna jamalahu ghayr ma'hud fil-bashar' (beauty inferred from the reaction); al-Jalalayn: 'lam yash'urna bil-alam li-shaghli qalbihinna bi-Yusuf' (felt no pain, hearts occupied with him). The mufassirun read the beauty FROM the wound, exactly as claimed. The 'omission as deliberate show-don't-tell technique' framing is a modern literary layer which the candidate ALREADY self-flags, resting on the classical inference — correct posture. OVERLAP CHECK: content/tadabbur/012-yusuf/ayahs-030-035.md covers the scene but does not spotlight the omission-of-description; fresh angle confirmed. Keep the literary-observation flag in the published piece."
+    }
+  ]
+}

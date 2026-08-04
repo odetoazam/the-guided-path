@@ -1,0 +1,168 @@
+{
+  "advisor": "HASAN",
+  "lens": "classical tafsir — tradition-fidelity, interpretive warrant, ikhtilaf-honesty, phonetic-symbolism restraint",
+  "critiques": [
+    {
+      "proposal_id": "ZAYNAB-1",
+      "accuracy": 8,
+      "freshness": 8,
+      "audience": 6,
+      "shippability": 8,
+      "fatal": false,
+      "notes": "The reframe is classically warranted: Ibn Abbas in al-Tabari glosses al-khannas as the one who withdraws when the servant makes dhikr — retreat, not power, is his signature. The risk note correctly refuses to read the shaddah as 'heavy sound' (that is the fa''al mubalaghah pattern, not phonetics) and flags the 81:15 planets/stars ikhtilaf for disclosure. My one caution: KHALID-2 claims the same khannas reveal with more payload; only one should carry it."
+    },
+    {
+      "proposal_id": "ZAYNAB-2",
+      "accuracy": 6,
+      "freshness": 7,
+      "audience": 6,
+      "shippability": 7,
+      "fatal": true,
+      "notes": "The object-exclusivity claim is true and clever, but tab'a 'ala al-qulub is the single most-quoted proof-text for 'the Quran predestines people to hell,' and this treatment is purely morphological — it names no ikhtilaf. Its own twin, YASMIN-3, flags the kasb / earned-sealing readings; this one does not. Shipping a sealing-verb piece to Khalil/Yusuf without the tools to answer 'God seals them against their will' is the exact betrayal I warn against. Must not ship until it absorbs YASMIN-3's ikhtilaf discipline."
+    },
+    {
+      "proposal_id": "ZAYNAB-3",
+      "accuracy": 7,
+      "freshness": 8,
+      "audience": 6,
+      "shippability": 6,
+      "fatal": false,
+      "notes": "Passive-voice-as-theology is modern balaghah-synthesis, not classical exegesis — permissible so long as it is offered as the author's reading, which it is. The risk note holds the jabr/kasb line honestly ('dependence, not removal of effort; keep taqwa's active side in view'). But zalzala and shuhh are yoked only by grammatical voice — two unrelated roots under one banner; the weld is the weakest joint here."
+    },
+    {
+      "proposal_id": "ZAYNAB-4",
+      "accuracy": 9,
+      "freshness": 8,
+      "audience": 6,
+      "shippability": 7,
+      "fatal": false,
+      "notes": "This is the most disciplined proposal in the slate and it lands on my own ground: the risk note expressly forbids calling the rafa'na case iltifat — it is one fixed Form I verb with a changed harf al-jarr, and mislabeling a preposition-shift as iltifat is precisely the sloppy-balaghah error I spend my life correcting. That the harf carries the theology is defensible classical rhetoric. Both brackets honestly marked as mushaf order, not chronology. Warrant intact throughout."
+    },
+    {
+      "proposal_id": "ZAYNAB-5",
+      "accuracy": 8,
+      "freshness": 8,
+      "audience": 6,
+      "shippability": 6,
+      "fatal": false,
+      "notes": "Both halves are sound tikrar/muqabala, correctly kept off phonetic ground, and the tartil mirror answers a real question every reciter carries — 'slow down' as imitation of the divine delivery is a genuine payload. But khardal and tartil share nothing but the 'said twice' shape; the tartil census (GRAPH-2) would stand taller alone than shackled to a mustard seed."
+    },
+    {
+      "proposal_id": "ZAYNAB-6",
+      "accuracy": 8,
+      "freshness": 8,
+      "audience": 6,
+      "shippability": 7,
+      "fatal": false,
+      "notes": "The landmine here is phonetic symbolism, and the risk note defuses it correctly: nur and nar share the root n-w-r, and the reveal is the morphological root-vs-lemma count, not sound-play. 9:32/61:8 (people blow at the light) versus 5:64 (God extinguishes the fire) is a clean agent-object symmetry on a verse adversaries love. A precise, verifiable teaching artifact — verify the agent in each of the three as the note demands."
+    },
+    {
+      "proposal_id": "YASMIN-1",
+      "accuracy": 8,
+      "freshness": 8,
+      "audience": 7,
+      "shippability": 8,
+      "fatal": false,
+      "notes": "A clean object-level census, and the corrected structural fact (three roots, not five) is already carried in the note. The comparative move is the live wire: give Yusuf's coat in Genesis its dignity and do not stage a deficient predecessor, and never call the healing-shirt detail 'unique' without qualification. Handled with that restraint, this is one of the best-balanced pieces in the pool — concrete enough for Sara, deep enough for Amina."
+    },
+    {
+      "proposal_id": "YASMIN-2",
+      "accuracy": 8,
+      "freshness": 8,
+      "audience": 7,
+      "shippability": 8,
+      "fatal": false,
+      "notes": "The pairing of al-Wadud with a forgiveness-name in both 11:90 and 85:14, spoken into the wreckage of grave sin, is a textual observation that needs no embellishment — and the note rightly forbids a Christian 'God is love' strawman and any triumphalist register. Note only that KHALID-4 is the identical exhibit and near-identical thesis; the two are one article, not two. This version has the tighter comparative-frame discipline."
+    },
+    {
+      "proposal_id": "YASMIN-3",
+      "accuracy": 8,
+      "freshness": 7,
+      "audience": 6,
+      "shippability": 7,
+      "fatal": false,
+      "notes": "This is the theologically responsible sealing-piece: it names the predestination hazard head-on and demands the kasb / earned-sealing ikhtilaf rather than a flattened answer — exactly what the contested-verse searcher needs and exactly what ZAYNAB-2 omits. It also flags 74:31's later-classification. The marad bookend rides slightly behind the tab'a law, but the pairing coheres under 'the Quran locates the sickness in the heart.' Cite qalb-sealed-rusted and do not reuse its first/last framing, as the note says."
+    },
+    {
+      "proposal_id": "YASMIN-4",
+      "accuracy": 8,
+      "freshness": 8,
+      "audience": 6,
+      "shippability": 7,
+      "fatal": false,
+      "notes": "The interpretive restraint IS the article, and the note guards it well: disclose the independence assumption behind 'expected ~8,' disclose that the +/-1 window yields nine, and above all do NOT inflate a lexical co-occurrence gap into 'denial is unforgivable' — the Quran forgives the former denier who turns. The 'expected 8' figure is a statistical heuristic and must be labeled as such, never dressed as proof of design. Held to that, this survives a hostile reader better than anything else here."
+    },
+    {
+      "proposal_id": "YASMIN-5",
+      "accuracy": 8,
+      "freshness": 5,
+      "audience": 6,
+      "shippability": 6,
+      "fatal": false,
+      "notes": "The census is clean, but /posts/musa-fire-three-tellings already owns the Musa borrow-a-flame narrative, and the genuinely new payload is a single verse — 57:13, the wall. That is thin ground for a standalone; as a sequel it must not re-tell the night scene in the same words. The 'ask early vs ask too late' arc is warranted, but the freshness is the binding constraint."
+    },
+    {
+      "proposal_id": "YASMIN-6",
+      "accuracy": 8,
+      "freshness": 7,
+      "audience": 7,
+      "shippability": 8,
+      "fatal": false,
+      "notes": "A rare non-technical reveal, and I respect that the note refuses the feel-good arc: the laughter that gets the last word (83:34) does so at the disbelievers' expense, and honesty requires naming that discomfort rather than sanding it into warmth. Mushaf order, not revelation order — stated. Mild tangency to this week's ibrahim-wife-laugh-strike piece via the dahik root, but the mechanic (first/last bracket) is distinct."
+    },
+    {
+      "proposal_id": "KHALID-1",
+      "accuracy": 7,
+      "freshness": 8,
+      "audience": 7,
+      "shippability": 7,
+      "fatal": false,
+      "notes": "The kazm census is sound and the distinction the Quran draws — swallowing anger praised (3:134), the throat-panic never denied (40:18) — is textual, not imported. Two of the six verses touch the published Ya'qub pieces, so frame it as a word-law census, not his story, and cite them. The real hazard is register: keep 'swallow your anger' from sliding into a self-help listicle; the anatomy of held-in feeling is the point, not a technique."
+    },
+    {
+      "proposal_id": "KHALID-2",
+      "accuracy": 7,
+      "freshness": 7,
+      "audience": 6,
+      "shippability": 7,
+      "fatal": false,
+      "notes": "Both facts are exclusivity-clean — nazgh 4/4 Shaytan, khannas the vanishing-star root — and 'he jabs and hides' is warranted (nazgh is incitement, khunnas is retreat, both classical). The note's hard rule to avoid khutuwat and waswasa keeps it off the shipped Shaytan pieces. It claims the same khannas reveal as ZAYNAB-1 but carries more; if only one khannas article ships, this is the richer vessel. Keep the tone off folklore, on the two verifiable facts."
+    },
+    {
+      "proposal_id": "KHALID-3",
+      "accuracy": 7,
+      "freshness": 6,
+      "audience": 7,
+      "shippability": 7,
+      "fatal": false,
+      "notes": "The complete-set framing is honest (karb 4/4 with najat; awjasa 3/3 answered by la-takhaf), but the theological line is thin and the note names it: this is textual co-occurrence of vocabulary, NOT a promise that God rescues you from your worldly distress. Let that guarantee slip in and it becomes false consolation to a person searching their panic into a phone at 1am. The genre is also crowded by qunut-despair-mercy; the tighter same-verse claim is its only real differentiator."
+    },
+    {
+      "proposal_id": "KHALID-4",
+      "accuracy": 8,
+      "freshness": 8,
+      "audience": 7,
+      "shippability": 8,
+      "fatal": false,
+      "notes": "Devotionally the strongest doorway for Amina, and the guardrail is exactly right: the verses pair al-Wadud WITH a call to turn back, so the piece must not drift into 'sin freely.' Lemma-scoped to wadud, both Meccan, no chronology claim — clean. But this is the same exhibit and thesis as YASMIN-2; the panel ships one, and I would let the two advisors' framings be merged rather than duplicated."
+    },
+    {
+      "proposal_id": "KHALID-5",
+      "accuracy": 7,
+      "freshness": 8,
+      "audience": 6,
+      "shippability": 7,
+      "fatal": false,
+      "notes": "The brackets are clean corpus facts and 'blessing enters as a request, exits as an interrogation' is a warranted mushaf-order reading. Two disclosures are mandatory and the note carries them: the nima root also covers an'am (livestock), and these are mushaf order with both bookends Meccan, not revelation order. Guard against an anti-wealth sermon — the point is accountability for ni'mah, not a polemic against having."
+    },
+    {
+      "proposal_id": "KHALID-6",
+      "accuracy": 7,
+      "freshness": 8,
+      "audience": 6,
+      "shippability": 7,
+      "fatal": false,
+      "notes": "The counter-cultural claim is theologically defensible — 4:128, 'wa-uhdirat al-anfusu al-shuhh,' does make the clinging the soul's default, and yuqa is genuinely passive. The note holds the jabr/kasb tension I most watch for: protection is received AND the command to urge feeding remains an active obligation — hold both, or it tips into fatalism. Two roots under one theme is the structural risk; frame shuhh as the inner default and the never-urging (hadd, all negated) as its visible symptom, or it reads as two half-articles."
+    }
+  ]
+}

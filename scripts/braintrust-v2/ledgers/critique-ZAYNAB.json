@@ -1,0 +1,168 @@
+{
+  "critic": "ZAYNAB",
+  "lens": "Arabic linguistics & classical balaghah — accuracy (scope-shift, superlatives, hadith-dependence), freshness, persona pull, shippability",
+  "critiques": [
+    {
+      "proposal_id": "HASAN-1",
+      "accuracy": 8,
+      "freshness": 9,
+      "audience": 6,
+      "shippability": 7,
+      "fatal": false,
+      "notes": "This is the model of how a grammar reveal carries its warrant: two Quran-verified passive censuses (4/4 ح-ل-ي, 4/4 ه-ل-ل) anchored to a NAMED classical category — hadhf al-fa'il / bina' li-l-majhul, with al-Zamakhshari's honor-vs-contempt distinction. Mark it as classical balaghah, not modern discovery, and it stands. One caution: the adornment passive is not classically read as 'agent too exalted to name' — it is reward done-to-them; do not force both roots mechanically onto a single honor/contempt axis."
+    },
+    {
+      "proposal_id": "HASAN-2",
+      "accuracy": 8,
+      "freshness": 8,
+      "audience": 5,
+      "shippability": 6,
+      "fatal": false,
+      "notes": "Phrase-count is exact and fareedah is genuinely the heaviest fard-term, so 'heaviest word for a fixed duty' is defensible rather than a superlative reach. Ahkam-bearing — stays on Tariq's right side only if it describes the classical fard positions and names the ikhtilaf inside each share rather than flattening. Legally dry for Amina/Sara; a Khalil/Yusuf piece."
+    },
+    {
+      "proposal_id": "HASAN-3",
+      "accuracy": 7,
+      "freshness": 6,
+      "audience": 7,
+      "shippability": 7,
+      "fatal": false,
+      "notes": "Phrase and root census both verified (5 tokens وزع, 2 active = this du'a). But awzi'ni's primary tafsir sense is alhimni/inspire-me (al-Tabari), not 'marshal into ranks' — the ranks reading is a same-sura root-resonance (27:17 yuza'un), a beautiful added LAYER that must be labelled as such, never the load-bearing lexical claim. Freshness dented: same-prayer-two-speakers is now a well-worn genre (afrigh, arini, aftuni all published)."
+    },
+    {
+      "proposal_id": "HASAN-4",
+      "accuracy": 8,
+      "freshness": 7,
+      "audience": 6,
+      "shippability": 7,
+      "fatal": false,
+      "notes": "Verbatim clause match {12:40, 17:23} is exact and the powerless-man-states-the-decree image is clean. Adjacent to the published yusuf-prison piece but turns on a different clause, so no duplicate reveal. Keep it modest — verbatim identity with 17:23 is the whole point, not any claim about Yusuf's rank."
+    },
+    {
+      "proposal_id": "HASAN-5",
+      "accuracy": 8,
+      "freshness": 7,
+      "audience": 6,
+      "shippability": 7,
+      "fatal": false,
+      "notes": "Framing verbs verified (la-qalu / fa-yaqulu, both preemptive) — the 'God quotes the excuse in advance' reading is grammatically grounded, not imposed. Usul territory: report itmam al-hujjah as the classical explanation and explicitly leave the ahl al-fatrah ikhtilaf open. Note three advisors landed on this same exhibit (PHRASE-9); this is the rigor-forward framing of it."
+    },
+    {
+      "proposal_id": "HASAN-6",
+      "accuracy": 8,
+      "freshness": 8,
+      "audience": 7,
+      "shippability": 6,
+      "fatal": false,
+      "notes": "Linguistically the most valuable piece on the slate: qatalahumu Allah is precisely the idiomatic imprecation/ta'ajjub the mufassirun (al-Zamakhshari, al-Qurtubi, al-Tabari) read as rebuke-astonishment, not literal killing — exactly the balaghah honesty I keep asking for. But highest-supervision: it MUST cite named mufassirun in-body and present the range of readings without softening that both verses remain severe condemnation, or it collapses into apologetics. Writable this week only with that discipline."
+    },
+    {
+      "proposal_id": "YASMIN-1",
+      "accuracy": 7,
+      "freshness": 8,
+      "audience": 6,
+      "shippability": 6,
+      "fatal": false,
+      "notes": "Hapax سكك (51:29) and the laugh/slap contrast are verified and warm. But the note omits the classical ikhtilaf on dahikat (11:71): Ibn Abbas/Mujahid read it as 'she menstruated,' not 'laughed.' Presenting 'she laughs' as settled is a lexical scope-blur — name the dispute, then rest the reveal on the two preserved reactions, which survive either reading. Keep the Genesis parallel to one dignified sentence, never superiority."
+    },
+    {
+      "proposal_id": "YASMIN-2",
+      "accuracy": 5,
+      "freshness": 6,
+      "audience": 6,
+      "shippability": 5,
+      "fatal": true,
+      "notes": "The core census (4/4 passive ح-ل-ي) is sound, but the scope note is wrong: 'the lone non-verb token is the crescent moons of 2:189' belongs to root ه-ل-ل (ahillah), NOT to ح-ل-ي (jewelry), whose non-verb tokens are huliyy at 7:148, 16:14, 35:12, 43:35 — multiple, not lone. This is a root misattribution imported from the dietary exhibit. Fatal as written precisely because this is 'the page I'd hand a skeptical graduate student': the first thing he checks with a concordance is the scope claim, and he finds it false. Fix the non-verb tokens before this ships."
+    },
+    {
+      "proposal_id": "YASMIN-3",
+      "accuracy": 9,
+      "freshness": 7,
+      "audience": 7,
+      "shippability": 8,
+      "fatal": false,
+      "notes": "The cleanest scope discipline on the slate: exact singular first-person confession {27:44 Bilqis, 28:16 Musa}, explicitly walled off from the dual (Adam 7:23 zalamna) and from Yunus (21:87, different construction). That is exactly the granularity that protects the reader. Permission genre for Amina, the largest arriving segment. Rest on 'she submits with Sulayman'; do not adjudicate Bilqis's afterlife."
+    },
+    {
+      "proposal_id": "YASMIN-4",
+      "accuracy": 8,
+      "freshness": 7,
+      "audience": 5,
+      "shippability": 7,
+      "fatal": false,
+      "notes": "Verified correct AND its scope note is correct — the 2:189 ahillah non-verb token genuinely shares root ه-ل-ل with uhilla, unlike its jewelry twin YASMIN-2. Fiqh-anchored with near-consensus, so ikhtilaf can honestly be stated as minimal. A reading of grammar, not a fatwa — say so and stay out of halal-certification debates. Dry register; a Khalil/Yusuf piece."
+    },
+    {
+      "proposal_id": "YASMIN-5",
+      "accuracy": 8,
+      "freshness": 7,
+      "audience": 6,
+      "shippability": 7,
+      "fatal": false,
+      "notes": "Same verified exhibit as HASAN-5/KHALID-5, framed as interpretive honesty — and this is the framing my lens most trusts: it says the Quran raises and structures the objection without pretending the whole theodicy is closed. Show the framing verbs (law-la...la-qalu / fa-yaqulu) so the 'preemptive' reading is grounded rather than asserted."
+    },
+    {
+      "proposal_id": "YASMIN-6",
+      "accuracy": 8,
+      "freshness": 6,
+      "audience": 7,
+      "shippability": 8,
+      "fatal": false,
+      "notes": "Two verb tokens of دعع, active/passive, scoped exactly (1 non-verb cognate accusative da''an at 52:13 correctly set aside). The voice-flip carries the moral — real morphology, but state the two facts and let resonance show; do not claim the Quran 'designed' it as rhyme. Freshness dented: structurally the same root-voice-flip reveal-type as the published budge-root piece; differentiate the framing."
+    },
+    {
+      "proposal_id": "KHALID-1",
+      "accuracy": 8,
+      "freshness": 6,
+      "audience": 8,
+      "shippability": 8,
+      "fatal": false,
+      "notes": "The laymanized twin of YASMIN-6 and the stronger single screenshot — same verified census, one image, brutal symmetry, Sara's WhatsApp forward. Morphology holds underneath. Same freshness caveat: the root-voice-flip genre already appears (budge-root piece); keep tone off the threat-sermon and name the lone non-verb token."
+    },
+    {
+      "proposal_id": "KHALID-2",
+      "accuracy": 8,
+      "freshness": 7,
+      "audience": 7,
+      "shippability": 8,
+      "fatal": false,
+      "notes": "Same verified pairing as YASMIN-3, with the checkable bonus that the two-word core zalamtu nafsi is also unique to these two. Amina's exact need — low-shame on-ramp, a queen and a pre-prophetic Musa on one identical line. Do not smuggle a fiqh ruling on Musa's act; the reveal is the shared words, not his culpability."
+    },
+    {
+      "proposal_id": "KHALID-3",
+      "accuracy": 7,
+      "freshness": 6,
+      "audience": 7,
+      "shippability": 7,
+      "fatal": false,
+      "notes": "Same content as HASAN-3, better packaged ('you can pray Sulayman's exact words') and widened past teens by the turning-40 verse. Same two conditions: keep PHRASE-3 and VOICE-4 as separate scoped claims, and present the awzi'ni root-nuance as an added layer, not the proof. Genre fatigue on same-prayer-two-speakers is the real drag."
+    },
+    {
+      "proposal_id": "KHALID-4",
+      "accuracy": 8,
+      "freshness": 8,
+      "audience": 7,
+      "shippability": 6,
+      "fatal": false,
+      "notes": "The better-executed twin of YASMIN-1 from my lens, because it NAMES the dahikat ikhtilaf (laughed vs. menstruated) before resting the reveal on the two preserved reactions. Hapax سكك verified. Woman-centered, un-airbrushed, high forwardability. Keep the ص-ك-ك / ض-ح-ك roots distinct in the prose."
+    },
+    {
+      "proposal_id": "KHALID-5",
+      "accuracy": 7,
+      "freshness": 7,
+      "audience": 7,
+      "shippability": 7,
+      "fatal": false,
+      "notes": "The laymanized member of the PHRASE-9 triplet — citable, sober, a clean line Sara can say aloud and Yusuf can hold under a TA's pressure. Slightly more exposed to overclaim than Yasmin's honesty-framed version: say plainly it does not settle ahl al-fatrah and point outward to scholars."
+    },
+    {
+      "proposal_id": "KHALID-6",
+      "accuracy": 7,
+      "freshness": 7,
+      "audience": 7,
+      "shippability": 8,
+      "fatal": false,
+      "notes": "Exact three-verse phrase khawiyatun ala urushiha verified in mushaf order — a genuine visual quote-card. Lexical care on urush: it is 'roofs' here, but the root can carry trellis/throne (arsh), so translate per context and do not let 18:42 (already in the published two-garden-owners piece) read as a repeat. Anti-flex angle travels for a young audience."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "proposal_id": "YASMIN-6",
+  "reviewer": "adversarial-skeptic",
+  "panel": 36,
+  "verdict": "SURVIVES",
+  "checked": {
+    "laugh_root_dahik": {
+      "root": "ضحك",
+      "segments_claimed": 10,
+      "segments_found": 10,
+      "refs_found": ["9:82","11:71","23:110","27:19","43:47","53:43","53:60","80:39","83:29","83:34"],
+      "match": true
+    },
+    "weep_root_bky": {
+      "root": "بكي",
+      "segments_claimed": 7,
+      "segments_found": 7,
+      "refs_found": ["9:82","12:16","17:109","19:58","44:29","53:43","53:60"],
+      "match": true
+    },
+    "shared_first_verse": {"claim": "9:82", "verified": true, "note": "both roots first appear at 9:82: falyadhaku qalilan walyabku kathiran"},
+    "weep_last": {"claim": "53:60", "verified": true},
+    "laugh_last": {"claim": "83:34", "verified": true},
+    "reversal_83_29_to_34": {
+      "verified": true,
+      "83:29": "criminals (alladhina ajramu) used to laugh AT believers (alladhina amanu)",
+      "83:34": "believers (alladhina amanu) laugh AT disbelievers (al-kuffar)",
+      "note": "mocker<->mocked flip confirmed in text"
+    },
+    "tears_never_return_after_53_60": {
+      "verified": true,
+      "note": "root بكي last=53:60; adjacent noun root دمع (tears) only at 5:83 & 9:92, both earlier -> claim robust across both roots"
+    },
+    "distractor_root_excluded": {"root": "ضحو", "note": "forenoon/heat (Duha), correctly NOT counted as laughter; no silent mixing"},
+    "surface_sweep": {"laugh": "10 surface hits == 10 root refs, none outside range", "weep": "5 out-of-range surface hits all false positives (bi-kum/akwab/etc.), none carry بكي root"}
+  },
+  "soft_spots": [
+    "THESIS numeric error: 'weeping shows up for the last time about thirty surahs from the end' is false — weep-last is surah 53, i.e. 61 surahs from the end (114). The '30' is the GAP between weep-last (53) and laugh-last (83); laughter continues ~30 surahs LONGER. Exhibit states this correctly ('laughter continues for thirty more surahs'); thesis prose must be fixed.",
+    "Scope/cherry-pick framing: thesis calls these 'two ordinary human reactions entering together', but weeping-as-emotion appears earlier at 5:83 ('eyes overflow with tears', root دمع). Bracket holds only at the VERB/root level (b-k-y). Article must be explicit it tracks the verbs laugh/weep, not the concept of crying, or a one-tweet rebuttal ('crying enters at 5:83') lands. (Claim still survives: دمع also stops before 53:60.)",
+    "Meccan/Medinan: al-Mutaffifin (83) classification is contested (mainstream Meccan, some hold Medinan/last-Meccan). Mushaf-order-not-chronology disclosure is correct and load-bearing point holds; hedge 'generally classified Meccan'.",
+    "11:71 (Ibrahim's wife laughed) is one of the 10 laugh refs and is the focus of already-shipped /posts/ibrahim-wife-laugh-strike-quran. Different mechanic (corpus bracket vs verse-pair); article should not dwell on 11:71."
+  ],
+  "overlap": "No mechanic overlap. Nearest published piece is the Shu'ayb prophet-profile ('...Who Wept for a City That Mocked Him') — narrative, not a lexical first/last bracket, and not a بكي-root verse. Shipped ibrahim-wife-laugh-strike shares only the incidental 11:71 datapoint.",
+  "hadith_dependency": false,
+  "load_bearing_failure": false
+}

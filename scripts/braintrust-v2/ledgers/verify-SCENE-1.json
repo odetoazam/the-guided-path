@@ -1,0 +1,8 @@
+{
+  "results": [
+    {"id":"SCENE-5","verdict":"CONFIRMED","notes":"Root قذف in exactly 8 verses {20:39,20:87,21:18,33:26,34:48,34:53,37:8,59:2}; occurs twice in 20:39 (اقذفيه/فاقذفيه). 28:7 uses فالقيه + ولا تخافي ولا تحزني; 20:39 has no reassurance clause. All exact."},
+    {"id":"SCENE-6","verdict":"CONFIRMED","notes":"Root صكك hapax = exactly {51:29}. ضحك present at 11:71 (فضحكت). Root صرر in 6 verses {3:117,3:135,45:8,51:29,56:46,71:7}. 51:29 has فصكت وجهها + عجوز عقيم. All exact."},
+    {"id":"SCENE-7","verdict":"CONFIRMED","notes":"'اضرب بعصاك' sweep = exactly {2:60,7:160,26:63}. Objects: الحجر (2:60,7:160), البحر (26:63). Results: فانفجرت(فجر) 2:60, فانبجست(بجس) 7:160, فانفلق(فلق) 26:63 كالطود العظيم. All exact."},
+    {"id":"SCENE-8","verdict":"CONFIRMED","notes":"'بغلام' sweep = exactly {15:53,19:7,37:101,51:28}. Adjectives: عليم at 15:53 & 51:28, حليم at 37:101, 19:7 اسمه يحيى. 37:102 contains الصابرين. All exact."}
+  ]
+}

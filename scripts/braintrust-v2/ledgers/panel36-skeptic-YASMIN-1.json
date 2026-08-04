@@ -1,0 +1,36 @@
+{
+  "proposal_id": "YASMIN-1",
+  "skeptic": "panel36-adversarial",
+  "verdict": "SURVIVES",
+  "headline": "Central reveal (six qamīṣ, all in Yusuf, lie→verdict→cure) is fully verified and publishable. But the proposal ships a false structural number and a false ṣayd count, plus a 'same shirt' literal oversell. Corrections mandatory before write.",
+  "verified": {
+    "root_qms_count": {
+      "root": "قمص",
+      "n": 6,
+      "refs": ["12:18", "12:25", "12:26", "12:27", "12:28", "12:93"],
+      "lemma": "قَمِيص (all six)",
+      "confined_to_surah": 12,
+      "first": "12:18",
+      "last": "12:93",
+      "phrase_level_confirm": "textSimple sweep for قم.{0,2}ص yields exactly the same 6 words, all in surah 12; none elsewhere",
+      "status": "SOLID"
+    },
+    "band_size": "roots with frequency 5-100 = 721 (confirmed). total distinct roots = 1651."
+  },
+  "broken_claims": [
+    "STRUCTURAL FALSE: 'one of only THREE roots of frequency 5-100 whose first and last occurrence fall in the same surah.' Independent re-derivation gives FIVE such roots: شطر (5, surah 2), ميل (6, surah 4), صيد (6, surah 5), قمص (6, surah 12), كهف (6, surah 18). This is exactly the exhibit's OWN evidence line — the exhibit's headline 'verified count is three' contradicts its own evidence.",
+    "EXHIBIT SELF-NOTE FALSE: '[Miner original five roots is wrong — verified count is three.]' Backwards. The original FIVE is correct; the reduction to three is the error. No coherent filter (freq band, exactly-6, or purely-nominal-noun) yields the exhibit's specific set {qms, ṣayd, kahf} — a purely-nominal filter would drop ṣayd itself (verb ٱصْطَادُ at 5:2) and keep شطر, producing a different three.",
+    "ṢAYD COUNT FALSE: 'صيد (game/hunting, all 5 occurrences in al-Maidah).' ṣayd has SIX occurrences, all in al-Maidah: 5:1, 5:2 (verb ٱصْطَادُ), 5:94, 5:95, 5:96, 5:96.",
+    "PROPOSAL RISK-NOTE FALSE: 'State the corrected structural fact as THREE roots (qamīṣ, ṣayd, kahf), not five.' The correct count is FIVE; the proposal's own self-correction is wrong.",
+    "OVERSELL (title/thesis): 'Every One Is the Same Shirt' / 'the same garment each time' read literally is unsupported by the Quran alone. The six are Yusuf's shirt as a recurring WORD/motif but at least 2-3 distinct physical garments: boyhood blood-shirt in Canaan (12:18), torn shirt in Egypt years later (12:25-28), shirt sent to the father (12:93). Literal single-object identity is only reachable via the isra'iliyyat 'shirt of Ibrahim from paradise' tradition — an extra-Quranic/hadith payoff that must NOT be invoked."
+  ],
+  "load_bearing_assessment": "The headline and title depend ONLY on the six-count, which is verified. The 'rare structural fact' is a supporting flourish for the Khalil/Yusuf personas; correcting three->five keeps the payoff (5 of 721 band roots, 5 of 1651 total roots, confined to a single surah is still genuinely rare). Thesis does not collapse. Therefore SURVIVES with mandatory corrections rather than REFUTED.",
+  "other_checks": {
+    "overlap": "CLEAN. Multiple Yusuf articles published (believer-pharaoh, yusuf-musa-mirror, the-well, yusuf-prison) and shipped this week (yusuf-decree-worship-none-but-him) but NONE on the shirt/qamīṣ. Object-level reveal is distinct.",
+    "quran_only": "PASS. The healing is in the Quran itself (12:96, alqāhu alā wajhihi fartadda baṣīran). Genesis comparison is comparative-scripture, not hadith. Payoff does not depend on hadith — PROVIDED the 'same physical shirt' oversell is not rescued via isra'iliyyat.",
+    "first_last_chronology": "SAFE. Single Meccan surah; mushaf first=12:18, last=12:93; chronology does not reorder within a surah.",
+    "hostile_tweet": "'The Quran says shirt six times, fine — but your \"only three roots confined to one surah\" is false, it is five (you dropped shatr and mayl), and your ṣayd count is six not five.' This lands and embarrasses UNLESS the structural claim is fixed. The headline six-count tweet-survives."
+  },
+  "required_corrections": "1) Structural fact: state FIVE roots of freq 5-100 confined to one surah (شطر/al-Baqarah, ميل/an-Nisa, صيد/al-Maidah, قمص/Yusuf, كهف/al-Kahf), NOT three. Delete the exhibit's 'verified count is three' note and the proposal risk-note's 'three roots ... not five.' If a tighter set is wanted, define the extra filter explicitly and honestly (e.g. 'concrete singular noun confined to one surah') and re-derive — do not assert an unfiltered 'only three.' 2) ṣayd is SIX occurrences in al-Maidah, not five. 3) Reframe the title/thesis away from literal single-object identity: the reveal is that the same WORD (qamīṣ, always Yusuf's shirt) recurs and never leaves the surah — lie -> verdict -> cure — which is true and beautiful; do NOT claim it is numerically one physical cloth, and do NOT rescue that claim via the 'shirt of Ibrahim' isra'iliyyat. 4) Keep the flagged comparative-Genesis discipline (give Joseph's coat dignity; qualify any 'unique to the Quran' framing of the sight-restoration).",
+  "notes": "Root count is bulletproof (morphological + phrase-level). The proposal is undermined by its own botched self-correction: it flags the structural fact as needing fixing but fixes it to the wrong number. The true answer (five) coincidentally equals the exhibit's raw evidence line — so the fix is trivial and the article remains strong. Survives on the strength of a verified, non-overlapping, Quran-internal, object-level reveal."
+}

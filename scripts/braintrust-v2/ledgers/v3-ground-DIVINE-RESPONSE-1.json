@@ -1,0 +1,31 @@
+{
+  "verifier": "GROUNDING",
+  "batch": "DIVINE-RESPONSE-1",
+  "date": "2026-07-21",
+  "method": "corpus features (scripts/.corpus-cache/quranic-corpus.json) + quran-verses.json + cross_reference_tafsir.mjs (Ibn Kathir EN, al-Tabari, al-Muyassar, al-Jalalayn)",
+  "results": [
+    {
+      "id": "DIVINE-RESPONSE-5",
+      "verdict": "CONFIRMED",
+      "notes": "Substrate mechanically verified: 8:32 has vocative Allahumma (PN + VOC suffix) and IMPV amtir (2MS, VF:4) with 'alayna (1P) — a literal self-directed stone-prayer; 8:33 has the double 'ma kana llahu' negation exactly as claimed (NEG + kana + li-yu'adhdhiba-hum with circumstantial wa-anta fihim [2MS], then NEG + kana + mu'adhdhiba-hum [ACT_PCPL] with circumstantial wa-hum yastaghfirun [3MP IMPF VF:10]). Grounding verbatim: al-Jalalayn on 8:33 ties the refusal to what they asked ('bi-ma sa'aluhu') and states no ummah was punished until its prophet and the believers left; al-Tabari records the post-emigration lifting. Recovered tafsir, adjacent verses, not a count. Article-level caution (not a defect): al-Tabari reads the requested 'adhab as having arrived at Badr, and 8:34 pivots to 'why should Allah not punish them' — keep the shields framed as conditional/temporary, which the candidate's own grounding already does."
+    },
+    {
+      "id": "DIVINE-RESPONSE-6",
+      "verdict": "NEEDS_HEDGE",
+      "corrected": "Drop the universal claim ('Every earlier plea, even the wicked's, got an answer' / angle: 'Everyone in the Quran who calls on God gets an answer') — it is attackable (e.g. 40:50: 'the du'a of the disbelievers is only in error/vain'). Reframe concretely: even Iblis, cursed and expelled, asked and received a reply and a reprieve (38:79-81); here the plea from the Fire is answered by ikhsa'u — the verb Arabic uses for driving off a dog — and then the channel itself is closed: 'wa la tukallimun.' Al-Muyassar's own words: 'so their supplication and their hope were cut off at that point.' Optionally note al-Jalalayn's detail that the reply comes via Malik, keeper of Hell, after a long silence.",
+      "notes": "Substrate fully verified: 23:107 rabbana + IMPV akhrij-na (2MS + 1P obj); 23:108 IMPV ikhsa'u (VF:1, root kh-s-', 2MP) + prohibition la tukallimu-ni (IMPF 2MP MOOD:JUS + 1S object suffix = 'do not speak to Me'). Consecutive verses. Grounding verified: al-Tabari gives the khasa'a dog-driving morphology; al-Muyassar literally 'fanqata'a 'inda dhalika du'a'uhum wa-raja'uhum'; al-Jalalayn 'li-yanqati'a raja'uhum'. The end-of-address reading is classical, near-verbatim. Only the everyone-gets-answered universal overreaches; core reveal is recovered tafsir. Overlap with 'The Door That Closes' honestly flagged and distinct (specific verse-pair rhetoric vs theme); article must cite it."
+    },
+    {
+      "id": "DIVINE-RESPONSE-7",
+      "verdict": "NEEDS_HEDGE",
+      "corrected": "Iblis's oath is textual and uncontested: 38:82 'fa-bi-'izzatika la-ughwiyanna-hum' (oath bi- + 'izzatika + emphatic lam and nun, 1S). But 'God swore back' must be presented as one classical parsing, not settled text. Al-Tabari and al-Jalalayn record multiple i'rab/qira'at readings of 'fal-haqqu wal-haqqa aqul': the oath reading ('ala naz' harf al-qasam; al-Jalalayn: 'fal-haqqu qasami wa-jawabu l-qasam'), but also 'the Truth is from Me' (al-Muyassar's chosen non-oath rendering) and 'I am al-Haqq.' Frame as: 'Iblis swears by God's might; classical grammarians read the reply several ways — one, recorded in al-Jalalayn and al-Tabari, is a counter-oath by al-Haqq — and on that reading the swap of oath-objects is the point.' Downgrade the substrate line 'that both statements are oaths is textual' to 'the counter-oath is an attested classical parsing among several.'",
+      "notes": "Substrate verified: 38:82 bi + 'izzati-ka (2MS) + la-ughwiyanna (1S IMPF with EMPH prefix and suffix nun); 38:83 illa 'ibada-ka al-mukhlasin (PASS_PCPL VF:4); 38:84 fal-haqqu (NOM) wal-haqqa (ACC) aqul (1S) — the case-split the qira'at debate turns on is visible in corpus features; 38:85 la-amla'anna jahannama minka wa mimman tabi'aka. Adjacent vow and reply; differing lexical objects ('izza vs haqq) as claimed. The one overreach: asserting the reply IS an oath as plain textual fact — al-Muyassar reads it non-oath, so oath-vs-oath is a genuinely attested classical option (al-Jalalayn explicitly: qasam + jawab al-qasam) but must be flagged as one parsing among several. No overlap with existing Iblis articles per candidate's check."
+    },
+    {
+      "id": "DIVINE-RESPONSE-8",
+      "verdict": "NEEDS_HEDGE",
+      "corrected": "Fix the count: the petition in 20:25-32 contains SIX imperatives, not five — ishrah (25), yassir (26), uhlul (27), ij'al (29), ushdud (31), ashrik (32); the candidate's own reveal text lists six items while the title/angle say five. Either say 'six requests' or sidestep numbering with 'every item on the list' (safest, and matches al-Muyassar's 'qad a'taytuka KULLA ma sa'alta'). Also soften 'granted in one word' to 'granted in one line' — 'qad utita su'laka' is a clause. Keep the mandatory citation of the published 'The First Conversation: Musa at the Burning Bush' article and pitch this piece strictly as the response-SHAPE entry in the DIVINE-RESPONSE cluster (maximal, itemized, instant, passive-perfect grant).",
+      "notes": "Substrate verified: 20:25-32 imperative chain confirmed segment-by-segment (six IMPV verbs, all enablement requests, none protective); 20:36 'qad utita' is PERF + PASS + VF:4 + 2MS with su'la-ka ('your asked-thing') and qad (CERT) — a completed passive total grant, exactly as claimed grammatically. Grounding verified: al-Tabari itemizes the grant point-by-point (sharh sadr, taysir amr, hall 'uqdat al-lisan, Harun wazir, shadd azr, ishrak fi l-risala) and al-Muyassar: 'I have given you ALL that you asked, O Musa.' Recovered tafsir. Only defects are the five-vs-six count error and the honestly-flagged overlap, both fixable by the corrected framing."
+    }
+  ]
+}

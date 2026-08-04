@@ -1,0 +1,33 @@
+{
+  "proposal_id": "KHALID-1",
+  "title": "You Ask God for One Thing 17 Times a Day. The Next Verse of the Quran Is the Answer.",
+  "verdict": "SURVIVES",
+  "advisor": "KHALID",
+  "lens": "NAZM",
+  "reviewer": "adversarial-skeptic-v3",
+  "checked_on": "2026-07-22",
+  "substrate_check": {
+    "status": "CONFIRMED",
+    "1:6": "ٱهْدِ = V IMPV|VF:1|ROOT:هدي + suffix نَا (1P). Imperative plea 'guide us'. Verified in corpus.",
+    "1:7": "Last verse of al-Fatiha; continues/specifies the same sirat plea. The imperative VERB itself sits in 1:6, not 1:7 — treat 1:6-7 as one closing request.",
+    "2:1": "الٓمٓ = single INL (muqatta'at) segment. Confirmed — so 2:2 is the first content-line of al-Baqarah.",
+    "2:2": "ذَٰ (DEM ذا, MS) + الْكِتَٰبُ ... هُدًى = N|ROOT:هدي|INDEF|NOM. Same root هدي as 1:6, in noun form. Verified.",
+    "seam": "Mushaf order: al-Fatiha (surah 1) immediately precedes al-Baqarah (surah 2). Root ه-د-ي on both sides of the seam — imperative plea 'guide us' then noun 'guidance'. Lexical fact, NOT a thematic projection."
+  },
+  "imposed_test": "PASS as a lexical observation. The root echo is real and mechanically checkable at the exact structural seam (last closing plea -> first content-line). The request->fulfillment shape (imperative verb 'guide us' -> noun 'here is the guidance') is present in the text, not read into it. Not imposed.",
+  "disguised_count_test": "PASS. Single positional root-echo across a surah boundary, not a 'word appears N times' claim.",
+  "quran_only_test": "PASS for the payoff (reveal is 1:6 -> 2:2, purely Quranic). CAUTION: Ibn Kathir's gloss on 1:6-7 leans on the famous hadith qudsi ('I divided the prayer between Me and My servant... My servant shall have what he asked for'). The 'answered du'a' emotional payoff resonates strongly with that hadith. Keep the proof on the 2:2 textual seam; do not let the hadith qudsi become the load-bearing evidence, or it flips to a hadith payoff.",
+  "overlap_check": {
+    "status": "CLEAR",
+    "published_articles": "CLEAN. No hits for fatiha/baqarah/munasaba/seam/ihdina/hudan/2:2 in scripts/braintrust-v2/published-articles.md.",
+    "fatiha_tadabbur": "content/tadabbur/001-al-fatiha/ayahs-006-007.md does NOT connect to 2:2 or al-Baqarah's opening (only a generic note that the closing du'a can be answered). No duplicate.",
+    "kahf_tadabbur": "content/tadabbur/018-al-kahf/ayahs-001-005.md cites 2:2 as a 'no doubt / no crookedness' parallel (as the exhibit claimed) AND runs a distinct surah-seam munasaba (al-Isra 17:111 -> al-Kahf 18:1, 'the two surahs meet at the mouth'). Genre-adjacent technique already lives on-site; the specific 1->2 seam and the هدي root are distinct. Soft note, not a refutation."
+  },
+  "broken_claims": [
+    "'recovered classical tafsir (al-Razi opens his al-Baqarah commentary on it; Ibn al-Qayyim states it outright), not modern cleverness' — UNVERIFIED with available tools. None of the four accessible mufassirun (Ibn Kathir, al-Tabari, al-Muyassar, al-Jalalayn) draw the Fatiha->Baqarah seam in their gloss of 1:6, 1:7, or 2:2; they gloss dhalika=hadha (presentational) but never link it to ihdina. The two named attributions carry overstatement risk (especially 'al-Razi OPENS his al-Baqarah tafsir on it' — al-Razi's al-Baqarah opening in Mafatih al-Ghayb is dominated by the muqatta'at discussion). This is the sentence most likely to break under a hostile 'cite the exact passage / page number' challenge.",
+    "'answers word-for-word' — false as literally stated. ٱهْدِنَا (imperative verb) and هُدًى (indefinite noun) share the ROOT ه-د-ي but are different word forms. Root echo, not a word-for-word repeat."
+  ],
+  "required_corrections": "1) VERIFY OR REFRAME THE CLASSICAL GROUNDING (load-bearing, non-negotiable). None of the four tools-accessible tafsirs draw the seam. If the al-Razi and Ibn al-Qayyim citations cannot be pinned to a locatable, quotable passage, DROP the tagline 'recovered classical tafsir ... not modern cleverness' and present the piece as a modern reflection anchored on the undeniable lexical seam — which is strong and honest on its own. Do NOT sell it as classical on the strength of two unverifiable attributions; that is exactly the modern-reading-in-classical-clothes failure this run guards against. 2) WORDING: change 'answers word-for-word' to 'answers with the same root' in thesis and reveal. 3) PRECISION: the imperative verb sits in 1:6; 1:7 is the last verse and completes the same plea — do not imply 1:6 is the final verse. 4) GENRE OVERLAP: the site's Kahf 001-005 file already runs a 'two surahs meet at the seam' munasaba (Isra->Kahf) and cites 2:2 — don't present surah-seam munasaba as a novel discovery; quiet-hand link. 5) Keep the payoff on the 2:2 textual answer; do not let the hadith qudsi ('I divided the prayer...') become the proof.",
+  "one_tweet_rebuttal": "''Guide us' and 'guidance' share a root in every language — English does too. Turning an ordinary root-repeat at a surah break into 'the Quran answering its own prayer,' then pinning it on al-Razi with no page number, is folk-tafsir laundering itself as classical.' RESPONSE: the position is not arbitrary (exact mushaf seam, last plea -> first content-line, imperative->noun request/fulfillment shape), so the pattern stands; but the rebuttal lands squarely on the citation, which is why correction #1 is mandatory before print.",
+  "notes": "Pattern is REAL, not imposed: root ه-د-ي is mechanically present on both sides of the surah 1/2 mushaf seam — imperative plea 'guide us' (1:6) then the noun 'guidance' (2:2, first content-line after the muqatta'at). The request->fulfillment shape is in the text. Survives the imposed, disguised-count, Quran-only, and overlap tests. The ONE genuine vulnerability is FRAMING: the 'recovered classical tafsir' claim rests entirely on al-Razi + Ibn al-Qayyim, neither confirmable with the cross_reference tool, and the four accessible mufassirun do not draw the seam — so the strong 'classical, not modern' selling point is unproven and at least one attribution ('al-Razi opens on it') is likely overstated. That is a correctable framing failure, not a refutation of the pattern, because the reveal stands on its own as an undeniable lexical fact. SURVIVES conditional on the corrections above; the single non-negotiable one is #1 (pin the citations or reframe as modern reflection)."
+}

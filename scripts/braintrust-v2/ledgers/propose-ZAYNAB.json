@@ -1,0 +1,97 @@
+{
+  "advisor": "Dr. Zaynab al-Mansouri",
+  "lens": "Arabic linguistics & classical balaghah — voice (active/passive), form classification, lexical precision, hapax legomena, verb-choice across retellings; grammar-claim vs literary-claim kept marked",
+  "run": "2026-07-16",
+  "proposals": [
+    {
+      "id": "ZAYNAB-1",
+      "title": "You Shove the Orphan Away. The Same Verb Shoves You Into the Fire.",
+      "thesis": "The rough physical verb 'to shove' (root د-ع-ع) is used as a verb only twice in the whole Quran. In Surah al-Ma'un it is active — the person who 'shoves the orphan away.' In Surah at-Tur it turns passive — the same people 'are shoved toward the Fire with a shove.' The grammar itself delivers the sentence: the hand that pushes becomes the body that is pushed, one verb doing both.",
+      "exhibits": ["VOICE-1"],
+      "personas": {
+        "amina": 4,
+        "khalil": 5,
+        "sara": 5,
+        "yusuf": 4,
+        "note": "The payoff lands with zero Arabic prerequisite — 'same verb, active then passive' is a sentence any parent can say to a teenager. Sara can WhatsApp it verbatim; Khalil gets a clean, verifiable root census (2 verb tokens, 1 other non-verb token)."
+      },
+      "risks": "Scope must be stated exactly: 2 verb tokens across 2 verses; the root has 1 further non-verb token, so 'used only twice' must specify 'as a verb.' Do not call the sound of the doubled 'ayn violent — that is folk-phonetics; the point is morphological (active vs passive of one lemma), not acoustic.",
+      "why_now": "A voice-flip article already performs on the site (the funeral-verb piece). This is the strongest untouched case: it carries a moral edge (orphan care) that reads as measure-for-measure justice built into the grammar, exactly the contested-adjacent, shareable register the audience arrives on."
+    },
+    {
+      "id": "ZAYNAB-2",
+      "title": "Two Places the Quran Drops the Doer: Paradise, and the Forbidden Meat",
+      "thesis": "The passive voice hides who acts, and the Quran uses it deliberately in two opposite directions. Every time it describes the saved being adorned with jewelry (root ح-ل-ي, four verb tokens, all passive) the people never dress themselves — they 'are adorned.' Every time it forbids meat 'dedicated to other than God' (root ه-ل-ل as a verb, four tokens, all passive) it never names who did the dedicating. One passive lifts a reward you did not hand yourself; the other buries the false invoker so his name is never spoken.",
+      "exhibits": ["VOICE-3", "VOICE-7"],
+      "personas": {
+        "amina": 3,
+        "khalil": 5,
+        "sara": 3,
+        "yusuf": 5,
+        "note": "This is a genuine balaghah teaching — the passive as agent-suppression doing two jobs. Khalil and Yusuf get a citable 4-of-4 / 4-of-4 census and a classical category (hadhf al-fa'il). Lower for Sara/Amina because the reward is conceptual, not narrative."
+      },
+      "risks": "Must scope 'verb tokens only' for both roots — ح-ل-ي and ه-ل-ل each have non-verbal tokens (ornaments; the crescent/hilal sense). Keep the claim at the level of grammar (agent deletion), and mark plainly that the theological reading is an extension of the classical observation, not identical to it.",
+      "why_now": "The site's own advisor note asks for a 'linguistic honesty' habit — grammar-claim marked apart from literary reading. This article is that habit made into content: one clean grammatical device (the passive), two verified data sets, and a payoff a reader can check against the corpus."
+    },
+    {
+      "id": "ZAYNAB-3",
+      "title": "You Can't Line Yourself Up: The Army Verb That Becomes a Prayer for Gratitude",
+      "thesis": "The verb 'to hold in ordered ranks' (root و-ز-ع) appears as a verb five times. In its passive it means being marshaled by a force outside you — Sulayman's hosts drawn up in ranks, and deniers herded toward the Fire. Its only two active uses are the identical prayer: 'My Lord, marshal me to be grateful for Your favor.' You cannot rank yourself into gratitude; you ask God to order your heart the way He orders armies. And that exact prayer is spoken by only two people in the Quran — Sulayman at the height of his kingdom, and an ordinary person reaching forty.",
+      "exhibits": ["VOICE-4", "PHRASE-3"],
+      "personas": {
+        "amina": 4,
+        "khalil": 5,
+        "sara": 4,
+        "yusuf": 5,
+        "note": "The prayer is short, memorizable, and immediately usable — Sara and Amina can take it away as their own du'a. Khalil/Yusuf get the double reveal: the voice split (3 passive / 2 active) AND the word-for-word phrase twin across 27:19 and 46:15."
+      },
+      "risks": "Two insights share the same verses, so the article must not double-count them as separate proofs — it is one phenomenon (the active tokens ARE the prayer). State form-IV for the active tokens and scope the phrase claim to the exact contiguous string. No superlative on 'mightiest king'; say 'a king at the height of his power.'",
+      "why_now": "It converts a grammar observation into a devotional takeaway without overreaching — the reader leaves with a verified prayer and a reason it is phrased the way it is. That combination (rigor plus something to hold) is the site's sweet spot and is currently unbuilt for this root."
+    },
+    {
+      "id": "ZAYNAB-4",
+      "title": "'Strike With Your Staff' Is Said Three Times — and the Water Word Is One the Quran Uses Nowhere Else",
+      "thesis": "The command 'strike with your staff' appears in exactly three verses. Twice the target is a rock and the result is water; once the target is the sea and the result is dry land. Even the rock-tellings do not agree on the verb: al-Baqarah says the water 'burst out' (fanfajarat), while al-A'raf swaps in 'fanbajasat' — a trickle-word that appears in exactly one verse in the entire Quran. Same staff, same twelve springs; the Quran reaches for a word it never reuses to color one telling differently.",
+      "exhibits": ["SCENE-7", "SCENE-1"],
+      "personas": {
+        "amina": 4,
+        "khalil": 5,
+        "sara": 4,
+        "yusuf": 5,
+        "note": "The hapax (a word used exactly once) is catnip for Khalil and Yusuf and is fully verifiable. The mirror-miracle framing — strike stone, get water; strike water, get stone-hard ground — gives Sara and Amina a vivid line to carry."
+      },
+      "risks": "Overlap watch: two published pieces touch Musa's staff/sea thematically. This proposal's reveal is strictly lexical — the shared imperative appearing exactly 3 times and the forked result-verbs including the whole-Quran hapax inbajasa (7:160). Keep it on morphology/lexicon, not on retelling the narrative, to stay clear of the existing articles.",
+      "why_now": "It is the cleanest hapax case in the pool, and hapax legomena are a documented content vein the site wants to mine in the AI era. Corpus tools now let a reader confirm 'one verse, one time' in seconds — the article's whole claim is independently checkable."
+    },
+    {
+      "id": "ZAYNAB-5",
+      "title": "Ibrahim's Wife Laughed in One Surah. In Another, She Slapped Her Own Face.",
+      "thesis": "When the angels tell Ibrahim's wife she will have a son, the Quran gives her two different reactions in two tellings. In Surah Hud she 'laughed'; in adh-Dhariyat she 'came forward in a clamor and struck her own face,' calling herself a barren old woman. The verb for that slap (root ص-ك-ك) is used exactly once in the whole Quran — the Quran keeps a word in reserve for the one gesture no other moment needed.",
+      "exhibits": ["SCENE-6"],
+      "personas": {
+        "amina": 5,
+        "khalil": 4,
+        "sara": 5,
+        "yusuf": 3,
+        "note": "A woman's startled, human reaction to impossible news — highly relatable and shareable for Amina and Sara. Khalil gets a second hapax to verify. Slightly lower for Yusuf since the payoff is narrative-emotional more than argumentative."
+      },
+      "risks": "Do not harmonize the two reactions into a single event or claim contradiction — the honest frame is 'two tellings, two facets of one moment.' Scope the hapax as 'root ص-ك-ك, exactly one verse (51:29).' Avoid reading tone into the laugh beyond what the text supports.",
+      "why_now": "No published article covers this annunciation reaction, and it opens the underused territory of women's voices in the narrative with a verifiable linguistic anchor rather than sentiment. It is teen-readable and travels well on messaging apps."
+    },
+    {
+      "id": "ZAYNAB-6",
+      "title": "Watch the Verb Flip: When a Human Wins, the Grammar Hands the Win to God",
+      "thesis": "Several verbs in the Quran appear only a handful of times, and their voice flips in a consistent direction. When believers rout an army, the verb stays active but is chained to 'by God's leave'; elsewhere the same verb goes fully passive and the human victor disappears. A denier is 'struck dumb' (passive); the hypocrites 'are plunged back' into the trap while God 'reverts them' (active); people 'are turned upside down' while God 'sets back in creation' whomever He gives long life. Read together, the grammar keeps handing the agency to God — every time a human could take the credit, the voice removes it.",
+      "exhibits": ["VOICE-5", "VOICE-6", "VOICE-9", "VOICE-10", "VOICE-11"],
+      "personas": {
+        "amina": 3,
+        "khalil": 5,
+        "sara": 3,
+        "yusuf": 5,
+        "note": "A corpus-survey piece for the rigor readers — each root is a verified 2-token census and the pattern is checkable end to end. Lower for Sara/Amina because it is a pattern-across-verses argument, not a single scene."
+      },
+      "risks": "This must NOT become a phonetic-symbolism piece — rakasa and nakasa sound alike but that is not the claim; the claim is voice + shared meaning of reversal, and I would state explicitly that the resemblance is not being read as sound-symbolism. Scope each root as 'verb tokens' (several have separate noun tokens: buhtan, sa'iqa). Present each case, then the pattern; do not overstate it as a universal rule of Quranic grammar.",
+      "why_now": "The voice-flip genre already works on the site, but only as one-verse pieces; no article has surveyed the pattern itself. AI-era corpus access is exactly what makes a multi-root survey verifiable and citable — the piece models the site's methodology-transparency goal while giving MSA and student readers something to cite."
+    }
+  ]
+}

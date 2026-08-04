@@ -1,0 +1,128 @@
+{
+  "miner": "RAREADJ",
+  "lens": "Rare-word adjacency laws (qunut/rahmah pattern)",
+  "run_date": "2026-07-16",
+  "method_note": "All counts derived in-session via python3 over scripts/.corpus-cache/quranic-corpus.json (root = ROOT field per segment, verse-level presence) and node_modules/quran-validator/data/quran-verses.json (textSimple for surface-phrase checks). Sweep: all 546 roots occurring in 3-12 verses, checked for zero-exception companions in same verse and verse±1 (same surah). Inverse sweep: all root pairs with >=30 verses each, expected same-verse co-occurrence >=5 under independence, observed 0.",
+  "insights": [
+    {
+      "id": "RAREADJ-1",
+      "title_idea": "The Quran Has a Verb for 'Stamping Shut' — and the Only Thing It Ever Stamps Is a Heart",
+      "claim": "The root طبع (to stamp/seal) occurs in exactly 11 verses of the Quran. In all 11, the noun 'heart' (lemma قَلْب) appears in the same verse — zero exceptions, no adjacency window needed. All 11 are Form I verbs with Allah as agent (9 active, 2 passive). The sister root قسو (to harden) shows the same law: 6 verses, heart-noun in the same verse 6/6.",
+      "evidence": "طبع 11/11 same-verse with lemma قَلْب: 4:155, 7:100, 7:101, 9:87, 9:93, 10:74, 16:108, 30:59, 40:35, 47:16, 63:3 (passive: 9:87, 63:3). قسو 6/6: 2:74, 5:13, 6:43, 22:53, 39:22, 57:16. Base rate of qalb-root verses is 2.49%, so 11 straight same-verse hits is a law, not chance.",
+      "refs": ["4:155", "7:100", "9:87", "16:108", "30:59", "47:16", "63:3", "2:74", "39:22"],
+      "verify_method": "Load quranic-corpus.json. For each verse, collect segments with ROOT:طبع. For the 11 verses found, check the same verse contains a segment with lemma قَلْب (not merely root قلب — the root also covers 'turn' verbs). Repeat for ROOT:قسو (6 verses). Check verb features PERF/IMPF|VF:1 and PASS flags for agent claim.",
+      "overlap_note": "/posts/qalb-sealed-rusted-heart-quran covers the heart's first/last mushaf-order words (khatm/ran framing). This is a different verb (طبع, never covered) and a different claim shape: an exclusivity law — the stamp-verb has no other object in the whole Quran. Must cite the published piece as a sibling and not reuse its first/last framing.",
+      "angle": "You can hear the bureaucratic horror in it: a stamp that closes a file. The Quran owns a verb for that, and in eleven uses it never stamps a door, a book, or a fate — only hearts."
+    },
+    {
+      "id": "RAREADJ-2",
+      "title_idea": "God Only Ever 'Opens' One Thing",
+      "claim": "The root شرح (to open up/expand) occurs in exactly 5 verses. In all 5, the word 'chest' (root صدر) appears in the same verse — zero exceptions. The Quran never uses this verb for a door, a land, or a matter: only chests. And once (16:106) the chest is opened to disbelief — the verb is an aperture, not a blessing by default.",
+      "evidence": "5/5 same-verse: 6:125 (chest opened to Islam vs made tight), 16:106 (opened a chest to kufr), 20:25 (Musa: 'open my chest'), 39:22 (opened to Islam, contrasted with hardened hearts), 94:1 ('Did We not open your chest?'). Companion root صدر base rate 0.69%.",
+      "refs": ["6:125", "16:106", "20:25", "39:22", "94:1"],
+      "verify_method": "quranic-corpus.json: find verses with any segment ROOT:شرح (5 verses), confirm each contains a segment ROOT:صدر in the same verse. Read 16:106 textSimple to confirm the kufr direction.",
+      "overlap_note": "An IG carousel exists (scripts/carousel/content/sharh-twice.ts, the 20:25/94:1 pairing) but no published article in the 185-list. The article adds the full 5-verse exclusivity law plus the dark twin 16:106, which the carousel does not touch.",
+      "angle": "Musa asked for it, the Prophet was given it without asking — and one verse warns the same door can be opened the other way. Five verses, one verb, one organ."
+    },
+    {
+      "id": "RAREADJ-3",
+      "title_idea": "The Quran Never Says 'Crushing Distress' Without Saying 'Rescued' in the Same Breath",
+      "claim": "The noun karb (root كرب, crushing distress) occurs in exactly 4 verses — and every one of the 4 also contains the rescue root نجو in the same verse. Zero exceptions, no adjacency window needed. With n=4 this is a complete-set observation, not a statistical law: there is no verse in the Quran where karb appears un-rescued.",
+      "evidence": "4/4 same-verse: 6:64 ('Allah rescues you from it and from every karb'), 21:76 (Nuh: 'We rescued him and his family from the great karb'), 37:76 (Nuh again, same formula), 37:115 (Musa and Harun: 'We rescued them both and their people from the great karb'). Companion root نجو base rate 1.2%.",
+      "refs": ["6:64", "21:76", "37:76", "37:115"],
+      "verify_method": "quranic-corpus.json: verses containing ROOT:كرب (4), check each for ROOT:نجو same verse. Confirm wording in quran-verses.json textSimple.",
+      "overlap_note": "none — /posts/qunut-despair-mercy-quran is the template (despair→mercy) but كرب/نجو is an untouched pair; this one is even tighter (100% same-verse, the qunut law needed a next-verse window for 2 of 6).",
+      "angle": "The Quran has a word for the distress that crushes — and grammatically refuses to let it stand alone. Every karb in the Book is already inside a rescue sentence."
+    },
+    {
+      "id": "RAREADJ-4",
+      "title_idea": "Three People Hid Their Fear in the Quran. All Three Heard the Same Two Words.",
+      "claim": "The verb awjasa (root وجس, to feel a hidden flicker of fear) occurs exactly 3 times, always as 'awjasa khīfah' — the fear root خوف is in the same verse 3/3. And in all 3 scenes the answer is the identical phrase 'la takhaf' (do not fear): same verse in 11:70 and 51:28, the immediately following verse (20:68) for Musa. Complete-set observation (n=3): every concealed fear in the Quran is met, within one verse, by 'do not fear.'",
+      "evidence": "11:70 (Ibrahim and the strange guests — 'qalu la takhaf' same verse), 20:67-68 (Musa before the sorcerers' snakes — 'qulna la takhaf' next verse), 51:28 (Ibrahim again — 'qalu la takhaf' same verse). Root خوف same-verse 3/3; the reassurance speaker is angels twice, Allah once.",
+      "refs": ["11:70", "20:67", "20:68", "51:28"],
+      "verify_method": "quranic-corpus.json: verses with ROOT:وجس (3). Check ROOT:خوف same verse. Then read textSimple of each verse and its successor (mushaf order, same surah) for the surface string 'لا تخف'.",
+      "overlap_note": "none — no published article on awjasa; the Musa-at-the-bush and Ibrahim-guests narratives exist as story articles but none makes this cross-scene word-law the reveal.",
+      "angle": "It is the Quran's word for the fear you don't say out loud — and the Book never lets it sit for more than one verse before someone says 'don't be afraid.'"
+    },
+    {
+      "id": "RAREADJ-5",
+      "title_idea": "Four Times the Quran Says 'Hand It Over.' It Only Ever Asks for One Thing.",
+      "claim": "The imperative hātū ('produce it! hand it over!') occurs exactly 4 times in the Quran as a surface word — and all 4 are the identical two-word demand 'hātū burhānakum' (bring your proof). Exact-phrase claim on textSimple: the word هاتوا never appears outside this phrase. Complete-set observation (n=4).",
+      "evidence": "2:111 (against 'only Jews or Christians enter Paradise'), 21:24 (against taking other gods), 27:64 (against a partner besides Allah), 28:75 (on Judgment Day, a witness pulled from every nation — same demand). Surface count of 'هاتوا برهانكم' = 4 = surface count of 'هاتوا'. Root برهن same-verse base rate 0.13%.",
+      "refs": ["2:111", "21:24", "27:64", "28:75"],
+      "verify_method": "quran-verses.json: count textSimple occurrences of substring 'هاتوا' (4) and of 'هاتوا برهانكم' (4) — equality proves the exclusivity. Cross-check ROOT:هات verses in quranic-corpus.json (same 4).",
+      "overlap_note": "Genre sibling: /posts/aftuni-two-monarchs-counsel-quran and /posts/arini-show-me-ibrahim-musa-quran are imperative-sweep articles — different words, different reveals. No burhan/hatu article exists.",
+      "angle": "Money, worship, loyalty — the Quran never says 'hand it over' about any of them. The only thing it ever demands you produce on the spot is your evidence — three times in debate, and a fourth time on the Day when the demand comes back."
+    },
+    {
+      "id": "RAREADJ-6",
+      "title_idea": "The Quran's Verb for 'Urging Each Other' Appears 3 Times — Always About Feeding the Poor, Always in the Negative",
+      "claim": "The root حضض (to urge, spur one another on) occurs in exactly 3 verses. All 3 share the same-verse companion 'the food of the poor' (root طعم, 3/3), and all 3 are negated: 'he does not urge…' / 'you do not urge one another…'. Complete-set observation (n=3): the Quran never shows this verb being done — only the failure to do it, and only about one act: feeding the needy.",
+      "evidence": "69:34 ('wa la yahuddu ala ta'am al-miskin' — the man given his book in his left hand), 89:18 ('wa la tahaddun ala ta'am al-miskin' — addressed to a whole society), 107:3 ('wa la yahuddu ala ta'am al-miskin' — the one who denies the Din). Root طعم same-verse 3/3, base rate 0.66%.",
+      "refs": ["69:34", "89:18", "107:3"],
+      "verify_method": "quranic-corpus.json: verses with ROOT:حضض (3); check ROOT:طعم same verse. Read textSimple to confirm each occurrence sits under the negation لا.",
+      "overlap_note": "none — no published article touches hadd/tahaddun or Surah Al-Ma'un's corpus pattern.",
+      "angle": "Of everything a society could fail to campaign for, the Quran indicts exactly one — and it defines the religion-denier not by his creed but by the dinner he never lobbied for."
+    },
+    {
+      "id": "RAREADJ-7",
+      "title_idea": "The Quran Has a Verb for the Jab That Starts a Fight — and Only One Character Ever Does It",
+      "claim": "The root نزغ (to prod/incite, the needling jab that sets people against each other) occurs in exactly 4 verses — and in all 4 the agent is Shaytan, named in the same verse (root شطن, 4/4, zero exceptions). No human, no jinn, no group ever nazagha in the Quran. Complete-set observation (n=4).",
+      "evidence": "7:200 and 41:36 (near-twin verses: 'if a nazgh from Shaytan prods you, seek refuge'), 17:53 ('Shaytan yanzaghu between them' — right after 'say the better word'), 12:100 (Yusuf, at the reunion: 'after Shaytan nazagha between me and my brothers'). Companion شطن base rate 1.25%.",
+      "refs": ["7:200", "17:53", "41:36", "12:100"],
+      "verify_method": "quranic-corpus.json: verses with ROOT:نزغ (4); check ROOT:شطن same verse (4/4). textSimple confirms Shaytan is the grammatical agent in each.",
+      "overlap_note": "Sibling published pieces: /posts/footsteps-of-shaytan (khutuwat — a different exclusive-to-Shaytan word, so do NOT reuse خطو) and /posts/weapons-against-waswasa (waswasa, different verb). The nazgh law itself is unshipped; Yusuf's use of it to excuse his brothers is the emotional payload.",
+      "angle": "When Yusuf finally faced the brothers who threw him in a well, he reached for this verb — the one the Quran reserves for Shaytan alone — and by choosing it, moved the blame off his brothers entirely."
+    },
+    {
+      "id": "RAREADJ-8",
+      "title_idea": "'Extinguish' Appears 3 Times in the Quran: Twice People Try It on God's Light and Fail, Once God Does It and It Works",
+      "claim": "The root طفأ (to extinguish) occurs in exactly 3 verses — a complete set with a perfect symmetry. Twice the subject is people trying to blow out the light (nur) of Allah 'with their mouths,' and both verses immediately state God will complete His light. Once the subject is Allah, extinguishing the fire (nar) people kindle for war — stated as something He simply does. Scope note: at root level the companion is نور 3/3 same-verse, because nur (light) and nar (fire) share the root ن-و-ر; at lemma level it splits 2 nur / 1 nar — which IS the reveal.",
+      "evidence": "9:32 ('they wish to extinguish the light of Allah with their mouths — Allah refuses except to complete His light'), 61:8 (same structure, 'Allah will complete His light'), 5:64 ('whenever they kindle a fire for war, Allah extinguishes it'). Root نور same-verse 3/3, base rate 2.79%.",
+      "refs": ["9:32", "61:8", "5:64"],
+      "verify_method": "quranic-corpus.json: verses with ROOT:طفأ (3); check ROOT:نور same verse (3/3); then read the lemma field of the نور-root segments: نُور in 9:32 and 61:8, نار in 5:64. textSimple confirms who is subject in each.",
+      "overlap_note": "none — no published article on itfa'/nur; /posts/ibrahim-fire-cool-peaceful is about a different fire and different verb.",
+      "angle": "Same verb, opposite scoreboard: humanity's extinguishing attempts are 0 for 2, God's is 1 for 1 — and the Arabic even rhymes the targets, because 'light' and 'fire' grow from one root."
+    },
+    {
+      "id": "RAREADJ-9",
+      "title_idea": "The Quran Mentions 'Denying' in 257 Verses and 'Forgiving' in 202 — They Never Once Share a Verse",
+      "claim": "Inverse adjacency law. The root كذب (to lie / to call truth a lie) appears in 257 verses; the root غفر (to forgive) appears in 202 verses. If the two were sprinkled independently you would expect them to land in the same verse about 8 times. Observed: zero — not one verse in the Quran contains both roots. Disclosed window: even loosening to verse±1 within the same surah yields only 9 adjacency cases; at the same-verse level the separation is total.",
+      "evidence": "257 kadhib-root verses x 202 ghafr-root verses / 6236 total = 8.3 expected same-verse co-occurrences; observed 0 (confirmed independently by surface-substring scan: no textSimple verse contains both كذب-family and غفر-family strings). Supporting quarantine: كذب also has zero same-verse co-occurrence with خلق (create, 218 verses, 9.0 expected) and صلح (set right/righteous deeds, 170 verses, 7.0 expected). Verse±1 adjacency cases for kadhib/ghafr: 3:137, 5:10, 5:41, 6:144, 9:90, 16:116, 42:24, 57:19, 59:11.",
+      "refs": ["39:53", "4:48", "5:10", "57:19", "42:24"],
+      "verify_method": "quranic-corpus.json: build verse->root sets; intersect the verse lists of ROOT:كذب and ROOT:غفر (empty). Compute expected = |A|x|B|/6236. Repeat with a ±1-verse same-surah window (9 hits). Sanity-check with quran-verses.json textSimple substring scan for كذب/كذاب vs غفر/غفور/غفار.",
+      "overlap_note": "Structural sibling of /posts/despair-of-mercy-unbelief-quran and the qunut article (both are presence laws; this is the shipped genre's first large-n absence law). Core reveal — a statistically impossible-looking gap between the Quran's forgiveness vocabulary and its denial vocabulary — is unshipped.",
+      "angle": "Forgiveness verses reach thieves, adulterers, even those who fought the Prophet — but the vocabulary of calling truth a lie is kept in a separate room, 6,236 doors and not one shared. The Quran's grammar quietly agrees with its theology: every sin can sit next to forgiveness except the one that denies the Forgiver."
+    },
+    {
+      "id": "RAREADJ-10",
+      "title_idea": "The Quran's Smallest Unit of Measure Exists Only to Promise You Won't Be Cheated",
+      "claim": "Fatil — the thread in the groove of a date-stone, the Quran's tiniest named quantity — occurs in exactly 3 verses (root فتل). All 3 have the root ظلم (to wrong) in the same verse, zero exceptions, and all 3 are the same negated promise: 'they/you will not be wronged a fatil.' The word never measures anything else — no wealth, no distance, no sin. Complete-set observation (n=3).",
+      "evidence": "4:49 ('wa la yuzlamuna fatila' — on those who certify themselves pure), 4:77 ('wa la tuzlamuna fatila' — to those flinching from the fight: the world is little, the akhirah is better, and you won't be shorted a thread), 17:71 (Judgment Day, books given by the right hand — 'wa la yuzlamuna fatila'). Root ظلم same-verse 3/3, base rate 4.65%.",
+      "refs": ["4:49", "4:77", "17:71"],
+      "verify_method": "quranic-corpus.json: verses with ROOT:فتل (3); check ROOT:ظلم same verse (3/3). textSimple confirms all 3 carry the negation لا + passive 'be wronged' + فتيلا.",
+      "overlap_note": "none — no published article on fatil or the Quran's micro-measures.",
+      "angle": "A language invents its smallest unit for what it most fears losing. The Quran coins its tiniest measure for exactly one purpose: to tell you the audit of your life will not short you by the width of a thread."
+    },
+    {
+      "id": "RAREADJ-11",
+      "title_idea": "Dead by Morning, in Their Own Homes: The 5-Word Formula the Quran Repeats for Every Destroyed Town",
+      "claim": "The word jathimin (root جثم, fallen lifeless where they knelt) occurs in exactly 5 verses — and every one of the 5 carries the same three companions in the same verse: 'seized' (root أخذ, 5/5), 'by morning' (root صبح, 5/5), and 'in their home(s)' (root دور, 5/5). Zero exceptions on all three. The Quran never uses this death-posture word outside the formula: seized, morning, home.",
+      "evidence": "7:78 (Thamud, the quake), 7:91 (Madyan, the quake), 11:67 (Thamud, the blast), 11:94 (Madyan, the blast — same verse first rescues Shu'ayb 'by mercy from Us'), 29:37 (Madyan again). Companion base rates: أخذ 3.91%, صبح 0.69%, دور 0.85% — three simultaneous 5/5 laws.",
+      "refs": ["7:78", "7:91", "11:67", "11:94", "29:37"],
+      "verify_method": "quranic-corpus.json: verses with ROOT:جثم (5); check ROOT:أخذ, ROOT:صبح, ROOT:دور each same verse (each 5/5). textSimple shows the shared surface skeleton 'فأصبحوا في دارهم/ديارهم جاثمين'.",
+      "overlap_note": "Narrative articles on Thamud/Shu'ayb exist (/posts/thamud-the-civilization-that-carved-mountains, /posts/the-overturned-cities-...) but none makes the corpus formula the reveal. This is a formula-law piece, not a story piece.",
+      "angle": "The punishment never chases anyone down. Five for five, the Quran's word for the final posture comes with the same stage directions: it happened overnight, and they were found at home — the place they felt safest."
+    },
+    {
+      "id": "RAREADJ-12",
+      "title_idea": "Every Ear of Grain in the Quran Comes in Sevens",
+      "claim": "The word sunbulah (ear of grain, root سنبل) occurs in exactly 4 verses — and all 4 contain the number seven (root سبع) in the same verse. Zero exceptions. Complete-set observation (n=4): the Quran never mentions an ear of grain without counting to seven, across two unrelated contexts — the charity parable and Yusuf's famine economics.",
+      "evidence": "2:261 (one grain grows seven ears, a hundred grains each — the charity multiplication), 12:43 (the king's dream: seven fat cows, seven green ears), 12:46 (Yusuf asked to interpret: seven and seven again), 12:47 ('you will plant seven years… leave it in its ear'). Root سبع base rate 0.38%.",
+      "refs": ["2:261", "12:43", "12:46", "12:47"],
+      "verify_method": "quranic-corpus.json: verses with ROOT:سنبل (4); check ROOT:سبع same verse (4/4). Note 12:47's seven is 'seven years' — the law is root-level (the number seven), not 'seven ears'; say so in the article.",
+      "overlap_note": "none — no published article on sunbulah or Quranic number-word pairings; /posts/jamil-seven-beautiful-things-quran uses seven as a count of results, not as this word-pairing law.",
+      "angle": "One seven multiplies a gift into seven hundred; the other seven rations a nation through famine. The Quran's grain never grows in any other number — abundance and scarcity measured on the same stalk."
+    }
+  ]
+}

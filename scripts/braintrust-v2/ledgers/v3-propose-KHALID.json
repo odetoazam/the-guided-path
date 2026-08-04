@@ -1,0 +1,105 @@
+{
+  "advisor": "Ustadh Khalid Siddiqui — digital dawah / Muslim youth",
+  "run": "2026-07-20 diversified braintrust v3 (structural/rhetorical/dialogical/intertextual, NOT frequency)",
+  "lens": "90-second test: one insight the reader did not have, one phrase they can repeat tonight, a reason to come back, a unit they can screenshot. Phone-first. Contested-verse arrival paths. A voice a 16-year-old wants to follow.",
+  "pool_corrections": [
+    "INTERTEXT-2 overlap note in the pool says 'None found' — WRONG: /posts/the-son-who-said-do-what-you-are-commanded (published) already owns the son's consent at 37:102. INTERTEXT-2 is dead on arrival as-is; do not build it without a full pivot.",
+    "INTERTEXT-7 overlap note claims no article on 2:31-33 — /posts/the-naming-that-changed-everything (published) covers the naming scene. The Genesis direction-reversal could survive as a section added to that piece, but not as a standalone article."
+  ],
+  "proposals": [
+    {
+      "id": "KHALID-1",
+      "title": "You Ask God for One Thing 17 Times a Day. The Next Verse of the Quran Is the Answer.",
+      "thesis": "Al-Fatiha ends begging for one thing — 'Guide us' (ihdina) — and the first content-sentence of al-Baqarah answers with the same root: 'This is the Book... GUIDANCE (hudan) for the God-conscious.' The most-recited passage in Islam turns out to be the request, and the rest of the Quran is the reply. This seam is recovered classical tafsir, not modern cleverness — al-Razi opens his al-Baqarah commentary on it and Ibn al-Qayyim states it outright — and it reframes every salah: you are not reciting filler, you are asking a question whose answer is already in your hands.",
+      "exhibits": ["NAZM-1"],
+      "personas": {
+        "amina": 5,
+        "khalil": 4,
+        "sara": 5,
+        "yusuf": 4,
+        "note": "Amina: the permission-to-return piece — the prayer she still half-remembers becomes a live conversation. Sara: the most WhatsApp-sayable line in the pool ('you ask for guidance 17 times a day; the next verse is the answer') — she can say it to her kid at maghrib. Khalil: named classical sources (al-Razi, Ibn al-Qayyim) clear his citation bar. Yusuf: citable but uncontested, so slightly lower urgency for him."
+      },
+      "risks": "Low. Grounding is classical and named (munasaba tradition); the 1:6-7 tadabbur file does not draw the seam and no published article covers it (checked). The only real risk is over-writing: this is a 90-second reveal that dies at 3,000 words. Keep it short, end with the one-thing box, and let the quiet-hand links (Fatiha tadabbur, 2:2) carry the depth.",
+      "why_now": "Widest possible audience (every Muslim who prays), zero Arabic prerequisite, and the ideal first-tap page for the 16-year-old landing path. Also the site currently has no Fatiha-to-Baqarah seam content at all — an open goal in the most-trafficked real estate in the Quran."
+    },
+    {
+      "id": "KHALID-2",
+      "title": "Watch Your Grammar Change When the Storm Hits",
+      "thesis": "In Yunus 10:22 God starts by speaking straight TO you — 'He carries YOU... when YOU are aboard' — then, the instant the wind turns pleasant, the pronoun slides to 'them': the ships sailed with THEM, THEY rejoiced. You stop being addressed and become a spectacle watched from outside — until terror snaps the grammar back to second person, now aimed at God: 'if YOU save us.' The single-verse turn is classical, named balagha (al-Jalalayn writes 'fihi iltifat' verbatim on 10:22; al-Zamakhshari uses it as the textbook case), while the cross-passage map (6:63, 17:67, 31:32) of faith that only says 'You' in the storm is flagged as a modern structural synthesis. The grammar is a diagnosis every reader recognizes: comfort turns God into third person; crisis restores the second.",
+      "exhibits": ["ILTIFAT-1", "GRAMMAR-CHOICE-3"],
+      "personas": {
+        "amina": 5,
+        "khalil": 5,
+        "sara": 3,
+        "yusuf": 5,
+        "note": "This IS Amina's story told in grammar — the drift into 'them' during the calm years, named without shaming her. Khalil and Yusuf: verbatim classical citation plus honest classical-vs-modern layering is exactly their bar; iltifat is the balagha topic academic critics respect. Sara: the setup needs more than one sentence, so mid-tier for her WhatsApp use. Screenshot line: 'Comfort is God saying you to you. Real prayer is when you finally say You back.'"
+      },
+      "risks": "Moderate-low. The 010-yunus/ayahs-021-024 tadabbur covers the psychological rhythm but NOT the pronoun choreography — cite and differentiate, don't duplicate. Keep the 6:63/17:67/31:32 tour to one tight section explicitly flagged as modern reflection; do not overclaim design intent on the cross-passage layer. The two exhibits are the same verse at two zoom levels, so combining is natural.",
+      "why_now": "The most phone-native reveal in the pool — the reader can re-read the translation and SEE the pronouns move, no Arabic needed. Perfect 30-second vertical companion (three screens, three pronouns, one heart) for the reel pipeline, and it flags the flagship of a repeatable pronoun-shift franchise."
+    },
+    {
+      "id": "KHALID-3",
+      "title": "They Asked About Fasting, War, Orphans, the Soul. Every Answer Starts 'Say...' — Except One.",
+      "thesis": "Every 'they ask you about ___' verse in the Quran routes the answer through the Prophet with the imperative qul ('Say...') — except when they ask about God Himself. In 2:186 the relay disappears and God answers in first person: 'When My servants ask you about Me — I am near.' The dropped qul is a classically celebrated observation (al-Zamakhshari reads it as God drawing near without intermediary; al-Tabari and al-Jalalayn gloss the direct answer), with two honest hedges carried in the open: al-Muyassar's implied 'faqul' is a minority gloss, and 79:42's Hour-question is the second qul-less exception — the two exceptions being precisely the two questions whose answers cannot be handed over, a pairing flagged as a modern structural reading. It matters because the Quran's own architecture makes the point every seeker needs: everything else comes through a messenger; nearness He handles Himself.",
+      "exhibits": ["DIVINE-RESPONSE-1"],
+      "personas": {
+        "amina": 5,
+        "khalil": 4,
+        "sara": 5,
+        "yusuf": 4,
+        "note": "Amina: 'I am near, no relay' is the exact sentence the reconnector needs — a potential aha-moment landing page. Sara: perfectly sayable and 2:186 is beloved and uncontroversial. Khalil: gets the ikhtilaf honesty he demands (minority gloss + second exception) — handled right, this builds his trust. Yusuf: the corpus-verified qul-census is citable rigor for an MSA halaqa."
+      },
+      "risks": "Moderate. NEEDS_HEDGE and the hedges are load-bearing: (1) no false universal — present 79:42 as the honest second exception whose answer withholds where 2:186's discloses; (2) flag the two-exception mapping as modern structure built on the classically attested 2:186 observation; (3) say 'strongly attested,' not 'unanimous,' because of al-Muyassar. All three fixes are specified in the grounding ledger. No overlap among 185 published articles.",
+      "why_now": "2:186 sits inside the fasting passage and spikes in search every Ramadan — built-in annual discovery. It is also the pool's best named-voice piece: the writer gets to say 'I checked every ask-you verse in the Book,' which serves the editorial-voice brand gap I keep flagging."
+    },
+    {
+      "id": "KHALID-4",
+      "title": "Everyone Blames Eve. The Quran's Blame-Verse Uses the Singular — and Names Adam.",
+      "thesis": "The Quran tells the eating and the shame in the dual — they two ate, they two covered themselves — but the moment disobedience is assigned, the verb drops to the singular with a named subject: 'and ADAM disobeyed his Lord' (20:121). Then the couple confess jointly as one 'we' (7:23), neither deflecting — the opposite of the Genesis blame-chain where Adam blames the woman and the woman the serpent. The grammatical facts are recovered tafsir (al-Jalalayn glosses 20:121 with Adam as singular subject; al-Tabari frames 7:23's joint confession against Iblis's refusal), while the Genesis-divergence framing is flagged as a modern comparative reading. It matters because 'Islam blames Eve' is one of the most common charges young Muslims absorb secondhand — and the answer is sitting in the verb endings.",
+      "exhibits": ["INTERTEXT-1"],
+      "personas": {
+        "amina": 5,
+        "khalil": 5,
+        "sara": 5,
+        "yusuf": 5,
+        "note": "The only 5/5/5/5 in my slate, because it sits on the contested-verse arrival path — the site's proven discovery vector. Amina googles this exact question; Sara's daughter asks it after a class discussion; Yusuf hears it in a religious-studies seminar; Khalil respects that the answer is morphology plus named tafsir, not apologetics. The shareable unit: 'The act is dual. The confession is plural. The blame-verb is singular — and it names Adam.'"
+      },
+      "risks": "Moderate. Comparative-scripture framing must stay respectful and minimal — quote Genesis 3 accurately, no triumphalism (per the contested-ayah house pattern: acknowledge, cite, don't gloat). Also do not overswing into 'the Quran blames Adam alone': 7:23's joint 'we wronged ourselves' is the resolution and must land as the piece's final note. Existing Adam articles (Adam's Tawbah, Adam's Prayer) don't read the person/number grammar of blame — cite both.",
+      "why_now": "This targets the highest-intent traffic the site gets: contested-question search. It's the pool's best answer-in-your-pocket piece for Sara's WhatsApp network, and it does gender-question dawah in the register the audience research says works — grammar receipts, not defensiveness."
+    },
+    {
+      "id": "KHALID-5",
+      "title": "Yusuf's Dream Came True Before Anyone Interpreted It — One Grammar Ending Gave It Away",
+      "thesis": "In 12:4 the boy says he saw eleven stars, the sun, and the moon 'prostrating' — but he uses the pronoun and plural ending Arabic reserves for people (ra'aytu-HUM, saajidiin), quietly promoting the stars to persons before anyone mentions brothers or parents. Ninety-six verses later the surah closes the bracket: the family falls in prostration (12:100) and Yusuf himself says 'this is the interpretation of my dream from before' — the same root s-j-d sealing both ends, with the character pointing at the seam out loud. The agreement-shift is recovered balagha (al-Zamakhshari, Abu Hayyan: the non-rational treated as rational because of the sujud) and the fulfillment link is textually explicit (al-Tabari, Ibn Kathir); together they show the Quran's storytelling precision down to a single letter-ending — the meaning was in the grammar the whole time.",
+      "exhibits": ["ILTIFAT-3", "RING-7"],
+      "personas": {
+        "amina": 4,
+        "khalil": 4,
+        "sara": 4,
+        "yusuf": 4,
+        "note": "The balanced broad-reach pick — Yusuf is the one narrative every segment already knows, so entry cost is zero. Sara: kids learn this dream in Sunday school; 'the grammar knew before Ya'qub did' is a dinner-table line. Khalil: named balagha tradition plus mechanically checkable morphology. Best visual-asset candidate in the pool: the surah drawn as a ring (12:4 dream → 12:100 prostration) is a native shareable."
+      },
+      "risks": "Low-moderate. Two honest flags: the four bundled tafsirs did not spell out the agreement point (grounding rests on the named balagha tradition + verifiable morphology — say so in one sentence), and the 12:4-6 tadabbur covers the dream thematically, so this article contributes only the grammar hinge + the whole-surah bracket, cross-linking the rest. Heavy Yusuf coverage site-wide means the framing must be 'the surah's architecture,' not another story retelling; verify no echo of this week's shipped yusuf-decree piece at draft time (different verses, different reveal).",
+      "why_now": "Yusuf is the site's highest-traffic narrative cluster; this gives that existing audience a reason to re-read the entire surah with new eyes — the classic return-visit mechanic — and feeds the visual-page pipeline with its most natural ring diagram yet."
+    },
+    {
+      "id": "KHALID-6",
+      "title": "Two Surahs You Memorized as a Kid Are a Diagnosis and Its Cure, Back to Back",
+      "thesis": "Al-Ma'un ends with prayer gone wrong: people who pray to be SEEN and withhold small kindnesses (107:4-7). The very next surah answers with the same root on the opposite footing: 'We GAVE you abundance — so PRAY to your Lord and give' (108:1-2). Fake prayer that withholds, answered by real prayer that gives — an antithetical pairing that is recovered munasaba (al-Razi and al-Biqa'i read the two surahs as a matched pair). Inside al-Kawthar itself, the three verses form bookends — inna...inna bracketing the single command, abundance (kawthar) at one end and cut-off (abtar) at the other — with that ring framing flagged as a modern reading. It matters because these are the first two surahs almost every Muslim child memorizes, recited for years without anyone showing them the seam.",
+      "exhibits": ["NAZM-3", "RING-2"],
+      "personas": {
+        "amina": 4,
+        "khalil": 3,
+        "sara": 5,
+        "yusuf": 3,
+        "note": "Sara is the bullseye: her kids are memorizing exactly these surahs right now, and 'the surah you just learned answers the one before it' is the best parent-to-child teaching unit in the pool — a pure WhatsApp forward. Amina: rote childhood recitation reframed as design she never saw. Khalil/Yusuf: solid munasaba citations but lighter analytic meat than the iltifat pieces — this is the reach pick, not the rigor pick."
+      },
+      "risks": "Low. Neither the al-Ma'un nor al-Kawthar tadabbur files draw the cross-surah seam, and al-Kawthar is absent from published articles entirely (verified in pool). Carry two flags: the disease/cure pairing is classical (name al-Razi/al-Biqa'i); the inna-bracket ring inside 108 is a modern reading. Keep RING-2 as a short second act, not co-headliner — one page, one seam, one bonus structure.",
+      "why_now": "The best entry point for the youngest end of the audience — a 14-year-old who knows exactly two surahs by heart can read this page and have both transformed. And the reel writes itself: two surahs, one root, disease/cure in 35 seconds, giving the article a built-in discovery loop."
+    }
+  ],
+  "dropped_from_earlier_draft": [
+    "ILTIFAT-2 (khalaqNA/khalaqTU) — real duplication risk vs 051-adh-dhariyat/ayah-056.md which already owns the intimacy point; the corpus-census framing is a frequency-adjacent move this diversified run should avoid leaning on.",
+    "DIVINE-RESPONSE-4 (Nuh's ahl redefined) — strong and CONFIRMED, but /posts/nuh-son-quran and /posts/ya-bunayya already carry the son's story; with only six slots the contested-verse magnet (INTERTEXT-1) and the kids-surah seam (NAZM-3) serve my lens better. Recommend DR-4 to Hasan's or Tariq's slate."
+  ]
+}

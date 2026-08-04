@@ -1,0 +1,166 @@
+{
+  "critiques": [
+    {
+      "proposal_id": "ZAYNAB-1",
+      "accuracy": 8,
+      "freshness": 7,
+      "audience": 6,
+      "shippability": 8,
+      "fatal": false,
+      "notes": "Disciplined: root-scoped to two verses, discloses the planets/stars ikhtilaf on 81:15, and correctly quarantines 81:16's kunnas as a different root — that is exactly the honesty I ask for. My only reservation is internal: GRAPH-1 is the load-bearing exhibit for three separate proposals (this, HASAN-5, KHALID-2), and only one can ship without cannibalizing itself. This is the purest lexical treatment of the three, but it is also the thinnest payoff."
+    },
+    {
+      "proposal_id": "ZAYNAB-2",
+      "accuracy": 6,
+      "freshness": 7,
+      "audience": 6,
+      "shippability": 7,
+      "fatal": false,
+      "notes": "The object-exclusivity frame (seal→heart, open→chest) is elegant and the 16:106 complication is the right kind of honesty. But the risk note is entirely morphological and says nothing about the theology — and 'God stamps hearts shut' is the single most common academic objection to Quranic anthropology (determinism, divine injustice). Presenting it as a neutral 'syntactic law' without the punitive-consequence-vs-antecedent-decree ikhtilaf would read as hard fatalism to any outsider. It cannot ship without that paragraph; HASAN-3 is the same material handled correctly."
+    },
+    {
+      "proposal_id": "ZAYNAB-3",
+      "accuracy": 7,
+      "freshness": 7,
+      "audience": 6,
+      "shippability": 6,
+      "fatal": false,
+      "notes": "'Passive voice as theology' is a real balaghah move, and the proposal pre-empts the trap I would flag — do not moralize the passive into fatalism. Watch the overreach: passive voice is pervasive in Arabic, so the claim must stay local to these exhibits and not imply the Quran 'always' encodes agency this way. Two exhibits needing a weld; shares GRAPH-8 with KHALID-6."
+    },
+    {
+      "proposal_id": "ZAYNAB-4",
+      "accuracy": 8,
+      "freshness": 8,
+      "audience": 6,
+      "shippability": 6,
+      "fatal": false,
+      "notes": "The most linguistically careful proposal in the set — explicitly refuses the iltifat mislabel, names the particles, and marks mushaf-order rather than chronology. 'The theology lives in the particle' is a genuinely teachable, un-obvious claim that will survive a trained reader. Cost is only that it welds two brackets, so it needs a single spine to avoid reading as two half-articles."
+    },
+    {
+      "proposal_id": "ZAYNAB-5",
+      "accuracy": 8,
+      "freshness": 8,
+      "audience": 7,
+      "shippability": 6,
+      "fatal": false,
+      "notes": "Warm and non-triumphalist; the tartil mirror answers a live devotional question ('how am I meant to read this?') with the text's own grammar, and the Luqman-to-son register is genuinely tender. Correct to classify Form II as measured/spaced rather than merely 'slow' and to ground the repetition in tikrar rather than sound-symbolism. Two exhibits, but they share one real theme (verbatim repetition), so the weld is honest rather than forced."
+    },
+    {
+      "proposal_id": "ZAYNAB-6",
+      "accuracy": 8,
+      "freshness": 8,
+      "audience": 6,
+      "shippability": 8,
+      "fatal": false,
+      "notes": "This is the best teaching artifact in the pool for the discipline I most want the site to internalize — that root-level and lemma-level counts answer different questions — and the proposal knows it. Single exhibit, so highly shippable. One caution: keep the exhibit's '0 for 2 vs 1 for 1 scoreboard' framing off the page; 9:32 and 61:8 are verses adversaries quote, and a triumphalist scoreline undoes the sober morphological point that carries it."
+    },
+    {
+      "proposal_id": "HASAN-1",
+      "accuracy": 8,
+      "freshness": 8,
+      "audience": 6,
+      "shippability": 8,
+      "fatal": false,
+      "notes": "Clean three-verse census, somber register owned rather than dodged, pawnshop analogy kept illustrative and explicitly not the source of the theology. Fresh lane (no accountability-vocabulary piece exists) and single-exhibit shippable. The Tabari/Qurtubi anchor for 74:38/52:21 is legitimate; just keep the classical citation load light so it stays a tadabbur, not a tafsir digest."
+    },
+    {
+      "proposal_id": "HASAN-2",
+      "accuracy": 7,
+      "freshness": 6,
+      "audience": 6,
+      "shippability": 7,
+      "fatal": false,
+      "notes": "The al-Wadud claim is sound, but the proposal cites GRAPH-12 (which is the sarsar/'Ad wind exhibit) when it means BRACKET-12 — a sourcing slip worth catching before anyone drafts from it. More decisively, this is a near-duplicate of KHALID-4, which cites the correct exhibit and is the better-built twin; only one Wadud piece ships. The 85:14 'burned believers alive' identification leans on sira, so anchor it to what the verse itself says."
+    },
+    {
+      "proposal_id": "HASAN-3",
+      "accuracy": 8,
+      "freshness": 7,
+      "audience": 7,
+      "shippability": 6,
+      "fatal": false,
+      "notes": "This is the piece I would most want the site to write, because it meets the strongest academic objection to Quranic anthropology head-on rather than around it — and Hasan is right that the ikhtilaf on whether sealing is kasb/istihqaq or antecedent decree MUST live in the body, not the footnotes. It is the mature version of ZAYNAB-2. It cannot ship on autopilot; the 'I would want to read this draft' condition is not deference, it is a requirement. Overlaps qalb-sealed-rusted as a disclosed sibling; two exhibits welded."
+    },
+    {
+      "proposal_id": "HASAN-4",
+      "accuracy": 7,
+      "freshness": 8,
+      "audience": 6,
+      "shippability": 7,
+      "fatal": false,
+      "notes": "Genuinely fresh (opens the eschatology-vocabulary lane) and the proposal pre-empts my exact fear: the two-seas-don't-mix image is the crown jewel of bad i'jaz-'ilmi da'wah, and 'do not overstate the natural-science angle' must be enforced, not gestured at. Keep it Quran-only and resist importing the hadith grave-punishment apparatus that popular barzakh treatments smuggle in. Handled with that restraint, it's a clean single-exhibit piece."
+    },
+    {
+      "proposal_id": "HASAN-5",
+      "accuracy": 8,
+      "freshness": 7,
+      "audience": 6,
+      "shippability": 6,
+      "fatal": false,
+      "notes": "Richer than ZAYNAB-1 because it adds the first-isti'adhah bracket (Musa's refuge from mockery), and it honors the 113-114 classification dispute and refuses to overclaim the star etymology — precisely the ikhtilaf-honesty I test for. But it draws on GRAPH-1, the same exhibit ZAYNAB-1 and KHALID-2 rely on; the slate must pick one Shaytan-cluster piece. Two threads to weld to a single last-surah payoff."
+    },
+    {
+      "proposal_id": "HASAN-6",
+      "accuracy": 8,
+      "freshness": 8,
+      "audience": 7,
+      "shippability": 8,
+      "fatal": false,
+      "notes": "This is the honest-handling-of-a-contested-verse work the site is strongest at: 4:94 is combat-adjacent, and reframing it as a prohibition on refusing peace — with the classical ruling fully visible — converts a verse adversaries quote into a mercy reveal without softening it. Single exhibit, tightly scoped to the salam noun-lemma, Qadr dispute disclosed. Guard only that 'peace can be refused' never tips into license; the point is the ban on refusing it."
+    },
+    {
+      "proposal_id": "KHALID-1",
+      "accuracy": 7,
+      "freshness": 8,
+      "audience": 7,
+      "shippability": 6,
+      "fatal": false,
+      "notes": "The emotional-literacy angle earns its persona pull, and the corpus census gives it a spine most 'the Quran and mental health' content lacks. The live risk is register: keep it from collapsing into therapy-speak or a self-help listicle, and frame it as the word-law census rather than re-telling Ya'qub, whose grief is already two shipped pieces. Two exhibits, honest weld (choking-down and heart-in-throat are one bodily vocabulary)."
+    },
+    {
+      "proposal_id": "KHALID-2",
+      "accuracy": 7,
+      "freshness": 7,
+      "audience": 6,
+      "shippability": 7,
+      "fatal": false,
+      "notes": "Two checkable exclusivity facts, correctly walled off from the shipped khutuwat/waswasa material. My caution is interpretive: 'coward who runs' is a gloss layered on khannas (retreats/hides) and nazgh (incites) — legitimate as a reframe, but the youth-content 'cheap shot' register should not harden the lexical facts into more than they say. Competes with ZAYNAB-1 and HASAN-5 for the single GRAPH-1 slot."
+    },
+    {
+      "proposal_id": "KHALID-3",
+      "accuracy": 7,
+      "freshness": 7,
+      "audience": 7,
+      "shippability": 6,
+      "fatal": false,
+      "notes": "Two tight complete-set laws, and the proposal names the one thing that would sink it — the claim is textual co-occurrence, not a worldly-rescue guarantee, and saying so plainly keeps it out of prosperity-gospel territory. That distinction must be on the page, not just in the brief. Differentiated from the shipped qunut piece by using untouched pairs; two exhibits under one comfort spine."
+    },
+    {
+      "proposal_id": "KHALID-4",
+      "accuracy": 8,
+      "freshness": 6,
+      "audience": 7,
+      "shippability": 8,
+      "fatal": false,
+      "notes": "The better-sourced of the two Wadud twins (correct BRACKET-12 citation, single exhibit, cleanest build) and the strongest single permission-piece for the largest reader segment. 'Most loving name reserved for the least deserving' is superlative but anchored to an exact count of exactly two, so it survives. Only one Wadud article ships — this is the one; guard the 'so sin freely' slide the paired call-to-turn-back already prevents."
+    },
+    {
+      "proposal_id": "KHALID-5",
+      "accuracy": 7,
+      "freshness": 6,
+      "audience": 6,
+      "shippability": 6,
+      "fatal": false,
+      "notes": "The two bookends (blessing prayer→question, forever paradise→delusion) are accurate but only loosely joined; 'comfort bracketed by a question, eternity by a delusion' staples two separate reveals into one frame. And the first/last-word-retirement genre is getting crowded — qalb, iqra, an-nasr already occupy it, so the form reads as familiar even where the roots are new. Disclose the an'am/livestock coverage and the mushaf-not-revelation ordering, both of which the brief correctly flags."
+    },
+    {
+      "proposal_id": "KHALID-6",
+      "accuracy": 8,
+      "freshness": 7,
+      "audience": 7,
+      "shippability": 6,
+      "fatal": false,
+      "notes": "Genuinely counter-cultural theology handled with the exact nuance I demand: 'you are protected, not self-mastered' held together with 'the Quran still commands the urging' — dependence without fatalism, both sides live. The two roots (inner default shuhh, visible symptom of never urging to feed) actually cohere as default-and-symptom, so the weld is earned rather than forced. Shares GRAPH-8 with ZAYNAB-3; the passive-verb reveal makes it the stronger home for that exhibit."
+    }
+  ]
+}

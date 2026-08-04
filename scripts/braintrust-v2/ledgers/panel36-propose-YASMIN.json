@@ -1,0 +1,97 @@
+{
+  "advisor": "Dr. Yasmin Farid",
+  "lens": "Academic Quranic studies (Princeton/Chicago). Reads the Quran as a literary whole against itself; prizes comparative honesty with Jewish/Christian scripture, scope discipline (root vs lemma vs phrase), morphological transparency, ikhtilaf honesty, and the removal of triumphalist superlatives. Serves the mixed Muslim + curious-outsider audience.",
+  "run": "2026-07-20",
+  "proposals": [
+    {
+      "id": "YASMIN-1",
+      "title": "The Quran Mentions a Shirt Six Times. Every One Is the Same Shirt.",
+      "thesis": "The word for shirt (root q-m-ṣ) appears exactly six times in the whole Quran, and all six sit inside the story of Yusuf — the same garment each time. It is dipped in fake blood to sell a lie, produced torn as courtroom evidence, and at the end laid over an old blind father's face to give him back his sight. Readers who know Joseph's coat from Genesis will recognize the object but not what the Quran does with it: the cloth that carried the crime is the cloth that carries the cure. One ordinary thing quietly holds a whole story's moral weight.",
+      "exhibits": ["BRACKET-8"],
+      "personas": {
+        "amina": 4,
+        "khalil": 5,
+        "sara": 5,
+        "yusuf": 4,
+        "note": "Khalil/Yusuf get a verifiable count plus a genuinely rare structural fact (one of only three roots of frequency 5–100 whose first and last occurrence fall in the same surah). Sara gets a single concrete object, teen-readable and WhatsApp-shareable. Amina gets narrative depth without an Arabic prerequisite. The comparative-Genesis angle is my standing recommendation made concrete — the Quran reading inside a conversation it acknowledges."
+      },
+      "risks": "Scope: the count is root-level (q-m-ṣ, six occurrences, 12:18/25/26/27/28/93). State the corrected structural fact as THREE roots (qamīṣ, ṣayd, kahf), not five — the miner's original count was wrong. The comparative move is the live wire: the biblical Joseph's coat must be given dignity, not staged as a deficient predecessor, and I would not assert the healing detail is 'unique to the Quran' without qualification — frame it as what the Quran chooses to foreground, not as a scorecard against Genesis. No triumphalist 'greatest object in scripture' phrasing.",
+      "why_now": "Several Yusuf articles already draw traffic (the well, the women of Egypt, la-tathrib, prison) and none touches the shirt — a clean object-level reveal. It is also the single best vehicle in this pool for the comparative-scripture sensibility I have asked the site to develop for its outsider readers."
+    },
+    {
+      "id": "YASMIN-2",
+      "title": "God Calls Himself 'the Most Loving' Only Twice — Both Times to People Who Just Did Something Terrible",
+      "thesis": "As a fixed divine name, al-Wadūd ('the Most Loving') appears exactly twice in the Quran. Once the prophet Shuʿayb says it to a town of cheats and mockers; once it lands in the verse right after people burn believers alive. Both times it is paired with a forgiveness-name, and both times it is spoken into the wreckage of serious sin. The Quran reserves its tenderest name for precisely the moments a reader braces for wrath — a pattern worth sitting with, and one that quietly answers the caricature of a scripture that only threatens.",
+      "exhibits": ["BRACKET-12"],
+      "personas": {
+        "amina": 5,
+        "khalil": 4,
+        "sara": 4,
+        "yusuf": 3,
+        "note": "Amina's core need is permission plus divine warmth on her own terms; a mercy-name placed exactly where mercy seems impossible is her doorway. Khalil scores well because the claim is honestly lemma-scoped and checkable. Yusuf is lower — this is theological rather than critique-defense material — but it does engage the 'the God of the Quran is only severe' trope with evidence rather than assertion."
+      },
+      "risks": "Scope must be stated plainly: this is the lemma وَدُود, not the wider w-d-d root that also yields ordinary 'affection' verbs. The comparative frame (Christian readers who associate 'God is love' with their own tradition) must be handled without a strawman — no 'they say love, we say wrath' setup. Avoid the triumphalist register entirely ('the most tender name ever spoken') — make the claim locally, inside the text. Both surahs (Hud, al-Buruj) are Meccan by standard classification; the first/last bracket is mushaf order, not chronology.",
+      "why_now": "Divine love/mercy is Amina's most reliable entry point, and this reveal doubles as an honest, evidence-based response to the severity caricature that outsider readers (journalists, comparative-religion students) bring to the text — exactly the mixed-audience service I keep flagging."
+    },
+    {
+      "id": "YASMIN-3",
+      "title": "The Quran Has a Verb for 'Stamping Something Shut.' It Only Ever Stamps One Thing.",
+      "thesis": "The verb ṭabaʿa (to stamp or seal) appears in eleven verses, and in every one the thing being stamped is a heart — never a door, a letter, a vessel. Its sister verb, 'to harden,' does the same: six verses, a heart each time. And the Quran's word for a spiritual 'disease' opens and closes on the identical three-word phrase, 'in their hearts is a disease.' Read together, they show a text that is mechanically consistent about where it locates the real sickness: not in the body, but in the organ of understanding.",
+      "exhibits": ["RAREADJ-1", "BRACKET-3"],
+      "personas": {
+        "amina": 3,
+        "khalil": 5,
+        "sara": 3,
+        "yusuf": 5,
+        "note": "This is a morphological-rigor piece — Khalil and Yusuf are the primary readers (an exclusivity law with zero exceptions, plus a first/last phrase bracket, all self-checkable). Amina and Sara score lower because the payoff is structural rather than narrative, but the underlying question ('does God seal people against their will?') is one Amina meets in contested-verse searches."
+      },
+      "risks": "Must cite /posts/qalb-sealed-rusted-heart-quran as an explicit sibling and NOT reuse its first/last framing for ṭabaʿa — the ṭabaʿa claim is an exclusivity law (only object is a heart), a different mechanic. Scope: ROOT-level for the ṭabaʿa/qasā counts; PHRASE-level for the marad bookends (the exact phrase occurs 11 times, first 2:10, last 74:31). Disclose that 74:31 sits in a verse some classical lists flag as later. The real hazard is theological: God 'stamping' hearts is the verse cluster critics read as arbitrary predestination — handle with genuine ikhtilaf honesty (the classical kasb / earned-sealing readings, sealing as consequence not caprice), not a single flattened answer.",
+      "why_now": "The heart-sealing verses are among the most-quoted 'proof texts' that the Quran predestines people to hell. A rigorous, scope-disciplined, ikhtilaf-honest treatment is exactly what the contested-verse searcher needs and what survives a trained skeptic's reading."
+    },
+    {
+      "id": "YASMIN-4",
+      "title": "The Quran Talks About Denial in 257 Verses and Forgiveness in 202. They Never Once Land in the Same Verse.",
+      "thesis": "The root for calling-truth-a-lie appears in 257 verses; the root for forgiving appears in 202. If the two words were scattered independently across the text you would expect them to collide in roughly eight verses. They collide in zero — not one verse in the Quran holds both at once. It is a pattern you can check yourself, line by line, and it suggests the text keeps its vocabulary of stubborn denial and its vocabulary of forgiveness on deliberately opposite sides of a line.",
+      "exhibits": ["RAREADJ-9"],
+      "personas": {
+        "amina": 3,
+        "khalil": 5,
+        "sara": 3,
+        "yusuf": 5,
+        "note": "The most peer-review-survivable reveal in the pool and therefore Yusuf's and Khalil's piece — a large-n, fully checkable absence law, the shipped genre's first (existing law-articles are presence laws). Amina and Sara score lower on immediacy, but the honesty of the method is itself the draw for the recommender/critique-facing readers."
+      },
+      "risks": "The method must be disclosed, not smuggled: the 'expected ~8' figure assumes independent distribution — state that assumption openly, and disclose that loosening the window to adjacent verses (±1) within a surah yields only nine cases. The interpretive restraint is the whole game: do NOT inflate the co-occurrence gap into 'denial is unforgivable.' The Quran repeatedly forgives former deniers who turn — the law is about two words sharing a single verse, not about a person's eligibility for mercy. Scope is root-level (k-dh-b / gh-f-r). Overreaching here would be precisely the apologetic move I flag.",
+      "why_now": "This is the reveal most likely to be cited by a student or shared by a convert precisely because it is falsifiable and clean. It models the site's methodological confidence — a checkable claim offered without theological overreach — which is the editorial posture I have been urging."
+    },
+    {
+      "id": "YASMIN-5",
+      "title": "Musa Went to Borrow Fire and Came Back a Prophet. The Only Other People Who Ask to Borrow Light Are Turned Away.",
+      "thesis": "The word for a borrowed flame (root q-b-s) appears three times. Twice it is Musa, telling his family he will bring them a burning branch from a fire in the distance — and instead of a branch he receives prophethood. The third and last time, it is the hypocrites on the Day of Judgment begging the believers, 'let us borrow from your light' — and a wall is struck between them. The same small word tracks two ways of coming to light: one who walked toward it in the dark and was given everything, and those who waited to borrow it when it was already too late.",
+      "exhibits": ["GRAPH-3"],
+      "personas": {
+        "amina": 4,
+        "khalil": 4,
+        "sara": 4,
+        "yusuf": 3,
+        "note": "Well-balanced: the light/dark imagery is accessible for Amina and Sara, the three-occurrence census is verifiable for Khalil, and Yusuf gets a clean corpus claim. The emotional arc (asking early vs asking too late) travels without any Arabic prerequisite."
+      },
+      "risks": "Overlap discipline: /posts/musa-fire-three-tellings-quran already owns the Musa-fire narrative and the 'borrow a flame' framing. This piece must be positioned explicitly as a sequel — the NEW payload is the root's third occurrence (57:13, the hypocrites at the wall), not the Musa scene. Do not re-tell the night-borrowing story in the same words. Scope: root q-b-s, three occurrences (20:10, 27:7, 57:13). Keep the contrast descriptive, not gloating over the hypocrites.",
+      "why_now": "It extends an already-popular Musa article into fresh territory rather than competing with it, and the 'ask now vs ask too late' arc is a natural contemplative payload for the reflection audience."
+    },
+    {
+      "id": "YASMIN-6",
+      "title": "Laughing and Crying Both Enter the Quran in the Very Same Verse. Only One of Them Gets the Last Word.",
+      "thesis": "In the order of the mushaf, the words for laughing and for weeping make their first appearance together, inside a single verse: 'so let them laugh a little and weep much.' Weeping shows up for the last time about thirty surahs from the end, and after that tears never return. Laughter keeps going, and its final appearance turns the opening scene inside out — the people once mocked are now the ones laughing. You can trace two ordinary human reactions entering together and leaving on very different terms.",
+      "exhibits": ["BRACKET-7"],
+      "personas": {
+        "amina": 4,
+        "khalil": 3,
+        "sara": 5,
+        "yusuf": 3,
+        "note": "Sara's piece above all — teen-readable, one clean image she can actually say aloud at a dinner table, and shareable. Amina gets an accessible literary reveal. Khalil/Yusuf score moderate: the mechanic is real and checkable but lighter on morphological payload than the law-pieces."
+      },
+      "risks": "Must state clearly that first/last is mushaf order, not order of revelation (first bookend Medinan at-Tawbah, last Meccan al-Mutaffifin). Scope: roots ḍ-ḥ-k / b-k-y. Verify the reversal direction — 83:29 (criminals laughing at believers) flipped by 83:34 (believers laughing at disbelievers). The honesty risk is sentimentality: the laughter that 'gets the last word' does so at the disbelievers' expense, so do not package this as a warm feel-good arc — name the reversal for what the text says it is, including the discomfort a thoughtful reader will feel at it.",
+      "why_now": "A rare accessible, non-technical reveal for the WhatsApp-sharing parent segment that the heavier law-pieces do not serve — and it demonstrates the Quran's literary architecture to a reader with no Arabic, which broadens who the site can reach."
+    }
+  ]
+}

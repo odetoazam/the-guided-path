@@ -1,0 +1,29 @@
+{
+  "verifier": "GROUNDING",
+  "batch": "ILTIFAT-0",
+  "date": "2026-07-21",
+  "method": "python3 over scripts/.corpus-cache/quranic-corpus.json + quran-verses.json; cross_reference_tafsir.mjs on 10:22-23, 51:56, 12:4-6, 89:27-30, 32:14",
+  "results": [
+    {
+      "id": "ILTIFAT-1",
+      "verdict": "CONFIRMED",
+      "notes": "Substrate fully verified: 10:22 yusayyiru-KUM (2MP suffix), kun-TUM (PERF 2MP), then jarayna bi-HIM (3MP), farihu 3MP, ja'a-HUM (3MP obj), zannu 3MP, da'aw 3MP, quoted anjay-TA-na (PERF 2MS + 1P). Parallels hold: 6:63 tad'una-HU 2MP + quoted anja-NA 1P; 17:67 massa-KUM / najja-KUM / a'rad-TUM all 2MP; 31:32 ghashiya-HUM / da'aw-U / najja-HUM entirely 3rd person. Grounding is RECOVERED exactly as claimed: al-Jalalayn on 10:22 states verbatim 'wa-jarayna bihim — fihi iltifatun 'an al-khitab' (verified in bundle). One precision point for drafting: the snap-back to 2nd person (anjayta-na) is inside the sailors' quoted vow, not a second narrator-level iltifat — the candidate's framing ('you finally say You to Him') already handles this correctly, keep it that way. Cross-passage synthesis (6:63/17:67/31:32 as map of the heart) correctly self-flagged as modern structural reading — keep that flag in the article."
+    },
+    {
+      "id": "ILTIFAT-2",
+      "verdict": "NEEDS_HEDGE",
+      "corrected": "Substrate stands, framing must change: (1) Present the corpus-wide 'worship never takes a plural divine object' law and the false-gods 1P-disowning mirror as an explicitly MODERN structural observation built on morphology, not as classical tafsir. (2) Do not claim classical mufassirun flagged the 51:49 khalaqNA vs 51:56 khalaqTU seam unless al-Razi is independently sourced and cited — none of the four bundled tafsirs (Ibn Kathir, Tabari, Muyassar, Jalalayn) comment on the singular/plural switch at 51:56. (3) The local intimacy point ('worship at ME not US') is already owned by content/tadabbur/051-adh-dhariyat/ayah-056.md — the article must lead with the corpus-wide census + false-gods mirror and link the existing tadabbur for the single-verse reading, or it collapses into duplicate content.",
+      "notes": "Mechanical substrate 100% verified: 51:56 khalaqTU = PERF|1S with li-ya'budu-NI 1S object; 51:49 khalaqNA = 1P (also 15:26, 23:12, 76:2, 95:4, 21:16, 76:28 all 1P). Full corpus census of 'abada verbs with 1st-person objects: 1S divine objects at 20:14, 21:25, 21:92, 24:55, 29:56, 36:61, 51:56; the ONLY 1P worship-objects are 10:28 (iyyana ta'buduna) and 28:63 (iyyana ya'buduna), both false gods disowning worship exactly as claimed (16:35 and 43:20 hits are 1P SUBJECT suffixes 'we worshipped', not objects). 20:14 fully singular confirmed. The negative law holds mechanically. Downgraded only on grounding: bundled classical sources are silent on the switch, so the al-Razi attribution is unverified here, and overlap with the existing 51:56 tadabbur is real per the candidate's own cut condition."
+    },
+    {
+      "id": "ILTIFAT-3",
+      "verdict": "CONFIRMED",
+      "notes": "Substrate verified: 12:4 ra'aytu-HUM = PERF 1S + PRON|SUFF|3MP object referring to al-kawkab/ash-shams/al-qamar; sajidin = ACT_PCPL|MP|ACC (sound masculine plural, rational-agent agreement). Grounding is STRONGER than the candidate claimed: the candidate said the four bundled tafsirs did not spell it out, but al-Jalalayn on 12:4 states it verbatim — 'li sajidin: jumi'a bil-ya' wal-nun lil-wasf bil-sujud alladhi huwa min sifat al-'uqala' (the ya-nun plural is used because sujud is among the attributes of rational beings). This is RECOVERED tafsir from a bundled source, not just Zamakhshari/Abu Hayyan. Jalalayn on 12:5 also confirms the brothers already knew the interpretation (stars=brothers, sun=mother, moon=father), supporting the foreshadowing frame. Overlap check: content/tadabbur/012-yusuf/ayahs-004-006.md contains no mention of pronoun/rational-agreement — genuinely fresh. Update the grounding line in the article to cite al-Jalalayn directly."
+    },
+    {
+      "id": "ILTIFAT-4",
+      "verdict": "CONFIRMED",
+      "notes": "Substrate verified: 89:23 yatadhakkaru 3MS + 89:24 yaqulu 3MS (third-person narration), then 89:28 irji'I = IMPV|2FS + rabbi-KI 2FS, 89:29-30 udkhulI 2FS + 'ibad-I and jannat-I 1S divine possessives. Mirror verified: 32:20 narrates fasiqun in 3MP (fasaqu, aradu, u'idu) then dhuuqU = IMPV|2MP + kuntum tukadhdhibun 2MP; 32:14 dhuuqU 2MP + nasi-TUM 2MP + inna nasii-NAA-kum 1P divine. The 3rd-to-2nd turn is in the verb forms in both surahs with opposite valence, exactly as claimed. Grounding per half confirmed (Jalalayn glosses 89:28 'yuqalu laha dhalika 'inda al-mawt... wa yuqalu laha fi al-qiyamah'; Muyassar/Jalalayn on 32:14 gloss the direct dhuuqu address); pairing correctly self-flagged as modern. One drafting precision: tafsir renders both addresses via 'yuqalu' (it will be said) — 32:20's dhuuqu comes through passive qiila lahum, so phrase the delivery as 'the soul is addressed / they are told' where needed, while noting the words are in God's own voice via the 1S/1P forms ('MY servants, MY garden'; 'WE forgot you'). Overlap: 089-al-fajr file covers the local shift as admitted; the cross-surah pairing is the new move and no file owns it."
+    }
+  ]
+}

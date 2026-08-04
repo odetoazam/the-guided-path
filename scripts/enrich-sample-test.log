@@ -1,0 +1,41 @@
+
+✨ Semantic enricher — 5 files  (model: claude-sonnet-4-6)
+   Rough token estimate: ~50,000 tokens  (~$0)
+   CRITICAL-flagged files processed first.
+   Ctrl-C to stop; progress is saved.
+
+[1/5]  content/tadabbur/104-al-humazah/ayahs-006-007.md  (none)
+   ✨ ENRICHED
+[2/5]  content/tadabbur/109-al-kafirun/ayahs-001-006.md  (none)
+   ⚠️  ERROR
+   error: API Error: Response stalled mid-stream. The response above may be incomplete.
+
+[3/5]  content/tadabbur/101-al-qariah/ayahs-006-011.md  (none)
+   ✨ ENRICHED
+[4/5]  content/tadabbur/111-al-masad/ayahs-001-003.md  (none)
+   ✨ ENRICHED
+[5/5]  content/tadabbur/102-at-takathur/ayahs-005-007.md  (none)
+   ✨ ENRICHED
+
+──────────────────────────────────────────────────
+Enriched: 1029   Errors: 11
+
+By prior verdict:
+  CRITICAL: 147
+  MINOR: 110
+  MODERATE: 347
+  PASS: 12
+  UNKNOWN: 2
+  none: 411
+
+Recent errors:
+  content/tadabbur/109-al-kafirun/ayahs-001-006.md: You've hit your session limit · resets 9:50pm (America/Los_Angeles)
+
+  content/tadabbur/111-al-masad/ayahs-001-003.md: You've hit your session limit · resets 9:50pm (America/Los_Angeles)
+
+  content/tadabbur/111-al-masad/ayahs-004-005.md: You've hit your session limit · resets 9:50pm (America/Los_Angeles)
+
+  content/tadabbur/113-al-falaq/ayah-003.md: You've hit your session limit · resets 9:50pm (America/Los_Angeles)
+
+  content/tadabbur/109-al-kafirun/ayahs-001-006.md: API Error: Response stalled mid-stream. The response above may be incomplete.
+

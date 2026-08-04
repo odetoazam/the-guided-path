@@ -1,0 +1,342 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+  <meta charset="UTF-8"/>
+  <link rel="preconnect" href="https://fonts.googleapis.com"/>
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="anonymous"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&family=Playfair+Display:ital,wght@0,600;1,400&family=Source+Serif+4:ital,opsz,wght@0,8..60,300;0,8..60,400;1,8..60,300&family=Inter:wght@400;500&display=swap"/>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      width: 1080px;
+      height: 1920px;
+      overflow: hidden;
+      background: #080E18;
+      position: relative;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+    }
+
+    /* ── Ambient layers ─────────────────────────────────────────── */
+    .glow-top {
+      position: absolute;
+      top: -200px;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 900px;
+      height: 700px;
+      background: radial-gradient(ellipse, rgba(201,168,76,0.09) 0%, transparent 65%);
+      pointer-events: none;
+    }
+    .glow-bottom {
+      position: absolute;
+      bottom: -200px;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 700px;
+      height: 500px;
+      background: radial-gradient(ellipse, rgba(201,168,76,0.04) 0%, transparent 65%);
+      pointer-events: none;
+    }
+
+    /* ── Core content wrapper ───────────────────────────────────── */
+    .stage {
+      position: relative;
+      z-index: 2;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
+      width: 860px;
+    }
+
+    /* ── Arabic headline ─────────────────────────────────────────── */
+    .arabic-headline {
+      font-family: 'Amiri', serif;
+      font-size: 220px;
+      color: #C9A84C;
+      line-height: 1.1;
+      letter-spacing: 8px;
+      margin-bottom: 0;
+      /* subtle text glow */
+      text-shadow:
+        0 0 80px rgba(201,168,76,0.25),
+        0 0 160px rgba(201,168,76,0.10);
+    }
+
+    /* ── Translation ─────────────────────────────────────────────── */
+    .translation {
+      font-family: 'Playfair Display', serif;
+      font-style: italic;
+      font-size: 56px;
+      color: rgba(245,240,232,0.80);
+      letter-spacing: 2px;
+      margin-top: 28px;
+    }
+
+    /* ── Divider ─────────────────────────────────────────────────── */
+    .divider {
+      display: flex;
+      align-items: center;
+      gap: 20px;
+      width: 520px;
+      margin: 64px auto;
+    }
+    .divider-line {
+      flex: 1;
+      height: 1px;
+      background: rgba(201,168,76,0.30);
+    }
+    .divider-dot {
+      width: 9px;
+      height: 9px;
+      border-radius: 50%;
+      background: #C9A84C;
+      opacity: 0.6;
+    }
+
+    /* ── Setup line ──────────────────────────────────────────────── */
+    .setup-line {
+      font-family: 'Source Serif 4', serif;
+      font-size: 44px;
+      color: rgba(245,240,232,0.65);
+      line-height: 1.5;
+      letter-spacing: 0.5px;
+      margin-bottom: 60px;
+    }
+
+    /* ── Names list ──────────────────────────────────────────────── */
+    .names {
+      display: flex;
+      flex-direction: column;
+      gap: 0;
+      width: 100%;
+      text-align: left;
+    }
+
+    .name-row {
+      display: flex;
+      align-items: flex-start;
+      gap: 24px;
+      padding: 28px 0;
+      border-bottom: 1px solid rgba(201,168,76,0.10);
+    }
+    .name-row:first-child { border-top: 1px solid rgba(201,168,76,0.10); }
+
+    .name-dot {
+      width: 10px;
+      height: 10px;
+      border-radius: 50%;
+      background: #C9A84C;
+      margin-top: 16px;
+      flex-shrink: 0;
+    }
+
+    .name-text {
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+    .name-label {
+      font-family: 'Playfair Display', serif;
+      font-size: 46px;
+      color: #F5F0E8;
+      line-height: 1.2;
+    }
+    .name-context {
+      font-family: 'Source Serif 4', serif;
+      font-style: italic;
+      font-size: 36px;
+      color: rgba(245,240,232,0.50);
+      line-height: 1.4;
+    }
+
+    /* ── Closing line ─────────────────────────────────────────────── */
+    .closing {
+      font-family: 'Source Serif 4', serif;
+      font-size: 42px;
+      color: rgba(245,240,232,0.70);
+      line-height: 1.65;
+      text-align: center;
+      font-style: italic;
+      margin-top: 70px;
+    }
+    .closing strong {
+      color: #C9A84C;
+      font-style: normal;
+      font-weight: 600;
+    }
+
+    /* ── Footer ──────────────────────────────────────────────────── */
+    .footer {
+      position: absolute;
+      bottom: 80px;
+      left: 0; right: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 24px;
+      z-index: 3;
+    }
+    .footer-handle {
+      font-family: 'Inter', sans-serif;
+      font-size: 32px;
+      font-weight: 500;
+      color: rgba(201,168,76,0.70);
+      letter-spacing: 2px;
+    }
+    .footer-sep {
+      width: 5px;
+      height: 5px;
+      border-radius: 50%;
+      background: rgba(201,168,76,0.35);
+    }
+    .footer-site {
+      font-family: 'Inter', sans-serif;
+      font-size: 30px;
+      color: rgba(245,240,232,0.35);
+      letter-spacing: 3px;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="glow-top"  id="glowTop"></div>
+  <div class="glow-bottom" id="glowBottom"></div>
+
+  <div class="stage">
+    <!-- Arabic + translation always present, animated by JS -->
+    <div id="arabic"      class="arabic-headline">لَا تَحْزَنْ</div>
+    <div id="translation" class="translation">Do not grieve.</div>
+
+    <div id="divider" class="divider">
+      <div class="divider-line"></div>
+      <div class="divider-dot"></div>
+      <div class="divider-line"></div>
+    </div>
+
+    <div id="setupLine" class="setup-line">
+      He said it three times — to three people alone.
+    </div>
+
+    <div class="names" id="names">
+      <div id="name1" class="name-row">
+        <div class="name-dot"></div>
+        <div class="name-text">
+          <div class="name-label">Hajar</div>
+          <div class="name-context">alone in the desert, her infant dying of thirst</div>
+        </div>
+      </div>
+      <div id="name2" class="name-row">
+        <div class="name-dot"></div>
+        <div class="name-text">
+          <div class="name-label">Maryam</div>
+          <div class="name-context">alone in labor, under a palm tree</div>
+        </div>
+      </div>
+      <div id="name3" class="name-row">
+        <div class="name-dot"></div>
+        <div class="name-text">
+          <div class="name-label">Muhammad ﷺ</div>
+          <div class="name-context">in the cave, enemies searching outside</div>
+        </div>
+      </div>
+    </div>
+
+    <div id="closing" class="closing">
+      Same two words.<br/>
+      <strong>Three centuries apart.</strong><br/>
+      He knows exactly where you are.
+    </div>
+  </div>
+
+  <div id="footer" class="footer">
+    <span class="footer-handle">@ayahguideus</span>
+    <div class="footer-sep"></div>
+    <span class="footer-site">ayahguide.com</span>
+  </div>
+
+  <script>
+    // ── Easing helpers ───────────────────────────────────────────────
+    function clamp(v, lo, hi) { return Math.max(lo, Math.min(hi, v)); }
+    function easeOut(t)    { return 1 - Math.pow(1 - clamp(t,0,1), 3); }
+    function easeInOut(t)  { t = clamp(t,0,1); return t<0.5 ? 4*t*t*t : 1-Math.pow(-2*t+2,3)/2; }
+
+    // Fade an element in between startMs and endMs, with optional Y float
+    function fadeIn(el, t, startMs, durationMs, floatY) {
+      floatY = floatY === undefined ? 24 : floatY;
+      const p = easeOut(clamp((t - startMs) / durationMs, 0, 1));
+      el.style.opacity = p;
+      el.style.transform = 'translateY(' + (floatY * (1 - p)).toFixed(2) + 'px)';
+    }
+    // Fade out between startMs and endMs
+    function fadeOut(el, t, startMs, durationMs) {
+      const p = easeInOut(clamp((t - startMs) / durationMs, 0, 1));
+      el.style.opacity = 1 - p;
+    }
+
+    // ── Scene timeline (ms) ──────────────────────────────────────────
+    // Total: 22 000 ms  (22 s)
+    const TL = {
+      arabicIn:     { start: 600,   dur: 1600 },
+      transIn:      { start: 2400,  dur: 1200 },
+      dividerIn:    { start: 3400,  dur: 900  },
+      setupIn:      { start: 4200,  dur: 1100 },
+      name1In:      { start: 5700,  dur: 900  },
+      name2In:      { start: 7200,  dur: 900  },
+      name3In:      { start: 8700,  dur: 900  },
+      closingIn:    { start: 10600, dur: 1400 },
+      footerIn:     { start: 13000, dur: 1000 },
+    };
+    const TOTAL_MS = 22000;
+
+    function updateFrame(t) {
+      const arabic      = document.getElementById('arabic');
+      const translation = document.getElementById('translation');
+      const divider     = document.getElementById('divider');
+      const setupLine   = document.getElementById('setupLine');
+      const name1       = document.getElementById('name1');
+      const name2       = document.getElementById('name2');
+      const name3       = document.getElementById('name3');
+      const closing     = document.getElementById('closing');
+      const footer      = document.getElementById('footer');
+      const glowTop     = document.getElementById('glowTop');
+
+      // Glow pulses gently
+      const glowP = 0.7 + 0.3 * Math.sin(t / 4000);
+      glowTop.style.opacity = glowP;
+
+      fadeIn(arabic,      t, TL.arabicIn.start,  TL.arabicIn.dur,  32);
+      fadeIn(translation, t, TL.transIn.start,   TL.transIn.dur,   20);
+      fadeIn(divider,     t, TL.dividerIn.start,  TL.dividerIn.dur, 0);
+      fadeIn(setupLine,   t, TL.setupIn.start,    TL.setupIn.dur,   18);
+      fadeIn(name1,       t, TL.name1In.start,    TL.name1In.dur,   22);
+      fadeIn(name2,       t, TL.name2In.start,    TL.name2In.dur,   22);
+      fadeIn(name3,       t, TL.name3In.start,    TL.name3In.dur,   22);
+      fadeIn(closing,     t, TL.closingIn.start,  TL.closingIn.dur, 20);
+      fadeIn(footer,      t, TL.footerIn.start,   TL.footerIn.dur,  0);
+    }
+
+    // ── Puppeteer control API ────────────────────────────────────────
+    // All elements start invisible
+    document.querySelectorAll([
+      '#arabic','#translation','#divider',
+      '#setupLine','#name1','#name2','#name3',
+      '#closing','#footer'
+    ].join(',')).forEach(function(el) {
+      el.style.opacity = '0';
+    });
+
+    window.setAnimTime = function(ms) {
+      updateFrame(ms);
+    };
+
+    window.TOTAL_MS = TOTAL_MS;
+    // Initial render at t=0 (everything invisible)
+    updateFrame(0);
+  </script>
+</body>
+</html>

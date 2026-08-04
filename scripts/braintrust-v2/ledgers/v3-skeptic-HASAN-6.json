@@ -1,0 +1,45 @@
+{
+  "proposal_id": "HASAN-6",
+  "reviewer": "adversarial-skeptic",
+  "date": "2026-07-22",
+  "verdict": "SURVIVES",
+  "one_line": "Core munasaba (ihdina->hudan across the 1/2 seam) is real classical, mechanically verified, and unpublished — SURVIVES, but two named citations are unverifiable/high-risk and the RING exhibit's overlap + count-dependency are understated.",
+
+  "substrate_check": {
+    "status": "CONFIRMED",
+    "nazm_1": {
+      "1:6 ihdina": "corpus 1:6:1:1 ٱهْدِ = V | IMPV | VF:1 | ROOT:هدي, + 1:6:1:2 نَا = PRON|SUFF|1P. Imperative plea addressed to God (2MS verb). CONFIRMED.",
+      "2:1 muqatta'at": "corpus 2:1:1:1 الٓمٓ = single INL segment. CONFIRMED — so 2:2 is the first CONTENT verse of al-Baqarah; adjacency claim holds.",
+      "2:2 hudan": "corpus 2:2:6:1 هُدًى = N | ROOT:هدي | INDEF | NOM. SAME ROOT هدي as ihdina. Verse opens 2:2:1:1 ذَٰ = DEM|MS (dhalika, presentational). CONFIRMED.",
+      "root_echo": "√هدي present on both sides of the surah-1/surah-2 seam — a lexical fact in the corpus, not a projection. PASSES imposed test."
+    },
+    "ring_1": {
+      "person_shift": "corpus: 1:1-1:4 contain ZERO 2nd-person address to God (basmala + praise + attributes + maliki yawm ad-din, all 3rd-person description). First 2MS = 1:5:1:1 إِيَّاكَ (PRON|2MS); then na'budu/nasta'inu (1P IMPF), ihdina (2MS IMPV, 1:6), an'amta (2MS PERF, 1:7). The iltifat lands at 1:5, immediately AFTER the arithmetic-center verse 1:4. CONFIRMED.",
+      "arithmetic_center": "In the Kufan/Hafs count (basmala = v1) the 7 verses put v4 (maliki yawm ad-din) at the exact center (3 before / 3 after). CONFIRMED — but COUNT-DEPENDENT (see broken_claims)."
+    }
+  },
+
+  "imposed_test": "PASS for the core. The ihdina->hudan 'answered du'a' munasaba between al-Fatiha and al-Baqarah is a genuine, named classical reading (munasaba tradition: al-Razi's Mafatih opens al-Baqarah on the Fatiha connection; al-Biqa'i Nazm al-Durar and al-Suyuti carry the 'this is the guidance you asked for' reading). NOT a modern reading in classical clothing. The RING-1 whole-surah-ring-with-1:4-as-pivot is correctly self-flagged as modern (Islahi/Farrin); the bare iltifat at 1:5 is classical (Razi/Zamakhshari, and the corpus confirms it).",
+
+  "disguised_count_test": "PASS. Reveal is a root-echo across a surah seam + a grammatical person-shift, not 'word appears N times.'",
+
+  "quran_only_test": "PASS. NAZM-1 payoff is a cross-verse root echo; RING-1 payoff is grammatical person-shift + arithmetic center. No hadith is load-bearing. (The existing 1:5 tadabbur leans on the hadith qudsi 'qasamtu al-salata' for its hinge; RING-1 must NOT inherit that dependency — its center claim stands on grammar + numbering alone.)",
+
+  "overlap_test": {
+    "nazm_1": "CLEAN. content/tadabbur/001-al-fatiha/ayahs-006-007.md never connects to 2:2/al-Baqarah/hudan (grep clean). published-articles.md has no ihdina/hudan/Fatiha-seam article. Repo-wide grep for the answered-du'a seam is empty. NOTE: 006-007 already frames ihdina as 'the first du'a in the Quran' and the whole surah as 'one request' — adjacent territory; the article must BUILD ON / cross-link that file, not re-derive ihdina-as-du'a.",
+    "ring_1": "UNDERSTATED OVERLAP. content/tadabbur/001-al-fatiha/ayah-005.md already develops (a) the iltifat as 'the most famous address shift in the Quran', (b) 'the exact midpoint of the surah' language, (c) 'Al-Fatiha divides into two halves, and this ayah is the hinge', and (d) the 'seventeen rak'ahs / seventeen times a day' hook — all at length. The candidate's overlap note ('no piece frames the surah as a ring... person-shift seam') is too generous."
+  },
+
+  "tafsir_pull_notes": "cross_reference_tafsir --surah 2 --ayahs 1-2 returned Ibn Kathir / al-Tabari / al-Muyassar / al-Jalalayn. ALL gloss dhalika = hadha (presentational 'this Book') and hudan = 'guidance for the muttaqin' LOCALLY — NONE of the four draws the connection back to al-Fatiha's ihdina. So the Fatiha->Baqarah answered-du'a reading is NOT universal/unanimous tafsir; it is the munasaba-tradition reading (al-Razi/al-Biqa'i/al-Suyuti), which the article must attribute as such rather than implying every mufassir saw it. al-Razi and Ibn al-Qayyim are NOT in the tool's source set and could not be verified with available tooling.",
+
+  "broken_claims": [
+    "'answers word-for-word' (NAZM-1 reveal body): FALSE as stated. ihdina (imperative verb, √هدي) and hudan (indefinite verbal noun, √هدي) are NOT the same word — only the same ROOT. Must read 'answers with the same root.'",
+    "'Ibn al-Qayyim (Madarij al-Salikin) reads al-Fatiha as a du'a whose answer is dhalika al-kitab': UNVERIFIABLE with available tooling and a HIGH-RISK misattribution. Ibn al-Qayyim reads al-Fatiha as du'a (true, well-attested), but the specific 'answer = 2:2' move belongs to the munasaba tafsirs (al-Biqa'i Nazm al-Durar, al-Suyuti, al-Razi), not securely to Madarij. Fusing them into one named citation invites a fabricated-citation kill on the very Khalil/Yusuf citation checks the proposal claims to pass.",
+    "'1:4 is the exact/literal center' (RING-1 substrate + reveal, stated flatly): TRUE ONLY in the Kufan/Hafs count where the basmala is verse 1. In the Basran and several other canonical counts the basmala is not a separate ayah and the final verse splits, making the center verse the iyyaka SHIFT verse itself — so 'the exact middle is Judgment' is an artifact of one numbering, not a fact of the bare text.",
+    "RING-1 overlap note materially understates content/tadabbur/001-al-fatiha/ayah-005.md, which ALREADY owns the iltifat / hinge / 'exact midpoint' / seventeen-rak'ahs framing — and calls 1:5 (not 1:4) 'the exact midpoint', creating a potential site-internal contradiction with RING-1's '1:4 is the center.'"
+  ],
+
+  "required_corrections": "1) NAZM-1: change 'answers word-for-word' to 'answers with the same root' (√هدي). 2) Split the grounding into two separately-defensible claims and do NOT fuse them: (a) al-Fatiha is a du'a whose climax is ihdina — attribute to Ibn al-Qayyim (Madarij) ONLY if verified against the primary text, else to the mufassirun generally; (b) al-Baqarah 2:2 hudan is the answer to that du'a — attribute to the munasaba tradition (al-Razi's Mafatih opening of al-Baqarah, al-Biqa'i Nazm al-Durar, al-Suyuti), NOT to Ibn al-Qayyim. VERIFY the al-Razi 'opens his tafsir on the sequence' and the Ibn al-Qayyim claim against primary texts before publishing either as a named quote; the tool's four sources (Ibn Kathir/Tabari/Muyassar/Jalalayn) gloss 2:2 locally and do not draw the seam, so frame the reading as a specific classical school, not unanimous tafsir. 3) RING-1: add the count-dependency hedge in one honest sentence — '1:4 sits at the arithmetic center only in the Hafs seven-count; in other canonical counts the center is the iyyaka verse' — and present the whole-surah ring explicitly as a modern structural reading (Islahi/Farrin). 4) RING-1 MUST cross-link and defer to the existing ayah-005.md, reconciling the two 'center' claims (1:5 = conceptual/hadith-qudsi hinge already published; 1:4 = arithmetic center of the Hafs count) rather than asserting a bare contradiction; keep RING-1's core payoff (person-shift + numbering) Quran-only, not dependent on the hadith qudsi. 5) NAZM-1 should build on / cross-link 006-007's 'first du'a in the Quran' framing rather than re-deriving it.",
+
+  "recommendation": "Lead with NAZM-1 (clean overlap, real classical munasaba, universal entry point). Run RING-1 as a complementary modern-reading sidebar with the mandatory cross-link + count hedge. Do not inflate into a 'every surah answers the previous' theory (proposal already warns against this — hold that line)."
+}

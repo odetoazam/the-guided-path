@@ -1,0 +1,44 @@
+{
+  "proposal_id": "ZAYNAB-5",
+  "verdict": "SURVIVES",
+  "reviewer": "adversarial-skeptic (panel36)",
+  "date": "2026-07-21",
+  "load_bearing_claims_tested": [
+    {
+      "claim": "Root خردل occurs in exactly 2 verses",
+      "method": "corpus ROOT-field census over all 6236 verses",
+      "result": "CONFIRMED — 2 tokens / 2 verses: 21:47:15:1, 31:16:8:1"
+    },
+    {
+      "claim": "Identical phrase 'mithqala habbatin min khardal' appears in exactly 2 verses",
+      "method": "textSimple substring sweep (quran-verses.json)",
+      "result": "CONFIRMED — 'مثقال حبة من خردل' -> exactly [21:47, 31:16]; even the shorter 'مثقال حبة' and 'حبة من خردل' hit only these 2"
+    },
+    {
+      "claim": "21:47 is the mawazin (scales) Day-of-Judgment verse; 31:16 is Luqman addressing his son",
+      "method": "context read 21:45-48 and 31:12-19",
+      "result": "CONFIRMED — 21:47 opens 'wa-nada'u al-mawazina al-qista li-yawmi al-qiyamah'; 31:16 opens 'ya bunayya' resuming Luqman's speech begun at 31:13 ('wa-idh qala Luqmanu li-ibnihi wa-huwa ya'izuhu')"
+    },
+    {
+      "claim": "Root رتل occurs in exactly 2 verses; identical Form II verb (LEM رَتَّلْ) + identical verbal noun (تَرْتِيل); 25:32 = God's own delivery (1P perfect), 73:4 = command (2MS imperative)",
+      "method": "corpus ROOT-field census + feature inspection",
+      "result": "CONFIRMED — 4 tokens / 2 verses: 25:32 رَتَّلْ (PERF|VF:2|1P) + تَرْتِيلًا (VN), 73:4 رَتِّلِ (IMPV|VF:2|2MS) + تَرْتِيلًا (VN)"
+    }
+  ],
+  "quran_only_gate": "PASS — both reveals are fully Quran-internal (corpus counts + verse contexts); no hadith payoff",
+  "overlap_check": {
+    "published_articles_md": "No exact-reveal overlap. NEAR: /posts/mizan-weighing-day-of-judgment covers the scales concept generally — differs from this two-occurrence + register-split reveal, but article must foreground the exact-phrase-twice + Luqman split, not re-tell the mizan concept.",
+    "six_shipped_this_week": "No overlap (none touch mustard seed or tartil).",
+    "tadabbur_layer_note": "NOT a published-article overlap, but flagged for honesty: both reveals already exist in the tadabbur cross-reference layer — content/tadabbur/025-al-furqan/ayah-032.md already states the 73:4 tartil mirror verbatim and lists 73:4 in related_ayahs; content/tadabbur/021-al-anbiya/ayah-047.md already lists 31:16 (and 99:7-8, 4:40) as related. This de-risks the reveal (corpus-validated) but the article should extend/credit existing tadabbur rather than present as first discovery."
+  },
+  "required_corrections": [
+    "SMALLEST-UNIT OVERSTATEMENT: The thesis hook 'the courtroom's smallest unit' / 'smallest unit of measure' is imprecise. The Quran deploys 'mithqala dharratin' (weight of an atom, the proverbially SMALLER unit) as an accountability/non-injustice measure in 4:40 ('Allah does not wrong the weight of an atom'), 99:7-8 ('whoever does an atom's weight of good/evil will see it'), and 10:61/34:3/34:22 — a direct thematic competitor sharing 21:47's judgment register. Reframe mustard seed as 'this exact measure' / 'a proverbially tiny amount', not the superlative smallest, and acknowledge mithqala dharratin exists to preempt the 'what about atom's weight?' one-tweet rebuttal.",
+    "TARTIL NUZUL-ORDER INVERSION (highest-risk soft spot): By revelation chronology Al-Muzzammil (73, the COMMAND) is one of the earliest surahs (~3rd revealed) and Al-Furqan (25, God's self-description) is ~42nd — so historically the command was revealed BEFORE the self-description. The thesis prose ('first describe God's OWN delivery', 'do what He already did') reads as temporal and will be rebutted in one tweet by any reader who knows nuzul order. Ground 'first/already' ONLY in (a) mushaf order (25 precedes 73 in the book) and (b) the perfect-tense grammar of rattalnahu (completed action) vs the imperative of 73:4. Explicitly disavow revelation-chronology; never write 'God did it, then commanded you' as a historical claim. The exhibit already says 'mushaf-position only' — carry that discipline into the prose.",
+    "TARTIL REFERENT NUANCE: In 25:32 rattalnahu primarily denotes God's measured/staged SENDING-DOWN of the revelation (context answers 'why not sent all at once?' — Ibn Kathir/Tabari: revealed distinctly, part by part, well-spaced over time), whereas 73:4 is measured RECITATION by the reciter. The mirror is a shared MODALITY (measured / well-spaced / deliberate arrangement, from the root's sense of even ordering), not 'God recited slowly in the tajwid sense and you must copy it.' Do not over-flatten to the exhibit's 'slow recitation is imitation of the divine delivery'; frame as 'receive it the way it was given — measured.'",
+    "KEEP THE GLOSS HONEST: Foreground 'measured / well-spaced / distinct' over 'slow' (Form II fa''ala / masdar taf'il). Proposal already flags this in risks — retain it in the final title and body; 'slowly' may appear once but must be immediately qualified.",
+    "LUQMAN ATTRIBUTION: Note that 31:14-15 is a divine parenthesis ('wa-wassayna al-insana bi-walidayh...') and 31:16 resumes Luqman's voice; the father-to-son reading of 31:16 is the dominant tafsir view (Tabari, Ibn Kathir, Qurtubi). State it as the majority reading rather than the only one, to stay adversarial-quotation-resilient.",
+    "MIZAN OVERLAP GUARD: Because /posts/mizan-weighing-day-of-judgment already covers the scales, the article's engine must be the two-occurrence exactness + register split (courtroom unit taught earlier by a father, gently), not a second exposition of how the mizan works."
+  ],
+  "broken_claims": [],
+  "notes": "Verdict SURVIVES. Every empirical count re-derived from scratch and confirmed airtight: khardal = exactly 2 verses with the identical 5-word phrase 'mithqala habbatin min khardal' (21:47, 31:16); root رتل = exactly 2 verses / 4 tokens with the identical Form II verb LEM رَتَّلْ and identical verbal noun تَرْتِيل, correctly split as 1P perfect (25:32, God's delivery) vs 2MS imperative (73:4, the command). Verse contexts confirmed: 21:47 is the mawazin verse, 31:16 is Luqman to his son, 25:32 is the 'why not all at once' passage, 73:4 is the recitation command. No scope-mixing that inflates a count — the proposal correctly distinguishes ROOT-level census from exact-PHRASE substring for the mustard seed. Quran-only gate passes; no published-article overlap. No load-bearing failure exists, so the proposal is not refuted. The soft spots are all correctable framing risks — most importantly the tartil revelation-chronology trap (the command surah is chronologically the EARLIER one, so 'God did it first' must be grounded in mushaf order + perfect-tense grammar, never nuzul order) and the 'smallest unit' overstatement (dharrah is smaller and shares the judgment register). Apply the required corrections and the piece is publishable and adversary-resilient."
+}

@@ -1,0 +1,83 @@
+{
+  "panel": "panel36",
+  "run_date": "2026-07-20",
+  "role": "editorial-deliberator",
+  "pool": "GRAPH/BRACKET/RAREADJ",
+  "surviving_proposals": ["YASMIN-1", "ZAYNAB-5", "HASAN-1", "ZAYNAB-6", "HASAN-2", "YASMIN-6"],
+  "portfolio_logic": {
+    "requirement": "one acquisition/search-doorway, one classical-recovery flagship, one high-shareability; avoid three of one mechanism",
+    "mechanism_map": {
+      "YASMIN-1": "BRACKET (first/last same-surah) + root census",
+      "ZAYNAB-5": "GRAPH (exactly-twice verbatim)",
+      "HASAN-1": "GRAPH (rare-root semantic gradient)",
+      "ZAYNAB-6": "RAREADJ (root-vs-lemma + agent/object flip)",
+      "HASAN-2": "GRAPH (divine-name census in sin-context)",
+      "YASMIN-6": "BRACKET (first/last mushaf)"
+    },
+    "locked_two": {
+      "HASAN-1": "classical-recovery flagship — Tabari/Qurtubi soul-held-in-pledge, bulletproof 3-verse count, Khalil-5, fresh lane (no rahn article exists)",
+      "YASMIN-1": "acquisition/search-doorway + high shareability — highest avg critique (31.33), best-balanced, comparative-Genesis outsider doorway riding existing Yusuf traffic, most shareable single object in pool"
+    },
+    "third_slot_decision": {
+      "candidates": ["HASAN-2 (al-Wadud)", "ZAYNAB-6 (light/fire)"],
+      "chosen": "HASAN-2",
+      "gap-coverage_argument": "The locked two (collateral + shirt) are already strong on Khalil (5/5) and Yusuf (4/4). They leave a gap: no Amina-5 and no clean permission/mercy note for the LARGEST segment. HASAN-2 fills exactly that gap (Amina-5, Sara-5) and supplies a mercy counterweight to collateral's somber accountability register (answers Khalid's 'pair the dread with redemption' note at portfolio level).",
+      "why_not_ZAYNAB-6": "ZAYNAB-6 would add mechanism/advisor diversity (RAREADJ/ZAYNAB) and Yusuf-5, but doubles down on already-covered segments, tops Amina at 3, and builds its third leg on 5:64 ('the Jews say Allah's hand is chained') — stacking a second polemically-charged verse in the same week as the already-shipped /posts/qatalahum-allah-curse-quran. Reputational sequencing favors holding it as reserve #1. Its reveal is also the thinnest of the pool (atfa'a's natural objects ARE light/fire, so 3/3 co-occurrence is near-tautological once the base-rate framing is dropped)."
+    },
+    "mechanism_note": "Recommended set is BRACKET + GRAPH + GRAPH. 'Avoid three of one' is satisfied. The two GRAPH pieces are distinct sub-genres (rare-root semantic gradient vs divine-name census) and read very differently. RAREADJ is showcased at reserve #1."
+  },
+  "recommended": [
+    {
+      "proposal_id": "HASAN-1",
+      "title": "You Are the Deposit: The Quran's Pawnshop Word Ends Up Meaning Your Soul",
+      "role": "classical-recovery flagship",
+      "personas": {"amina": 4, "khalil": 5, "sara": 3, "yusuf": 4},
+      "mechanism": "GRAPH"
+    },
+    {
+      "proposal_id": "YASMIN-1",
+      "title": "The Quran's Shirt-Word Appears Six Times — and Never Leaves One Surah",
+      "role": "acquisition/search-doorway (+ high shareability)",
+      "personas": {"amina": 4, "khalil": 5, "sara": 5, "yusuf": 4},
+      "mechanism": "BRACKET"
+    },
+    {
+      "proposal_id": "HASAN-2",
+      "title": "The Quran Names God 'The Most Loving' Exactly Twice — Both Times to People Who Had Just Done Something Terrible",
+      "role": "high-shareability / permission (largest segment)",
+      "personas": {"amina": 5, "khalil": 4, "sara": 5, "yusuf": 3},
+      "mechanism": "GRAPH"
+    }
+  ],
+  "reserve": [
+    {"proposal_id": "ZAYNAB-6", "rank": 1, "why": "Best pure apologetics/search doorway (Khalil-5/Yusuf-5) and the only RAREADJ piece; held to avoid stacking 5:64 polemic with this week's qatalahum piece, and because its reveal is near-tautological once base-rate framing is dropped."},
+    {"proposal_id": "ZAYNAB-5", "rank": 2, "why": "Sara-5 devotional return-fuel (tartil answers a live reciter question); tempered because both reveals already exist verbatim in the tadabbur cross-reference layer (25:32 + 21:47 files) — must extend/credit, not claim discovery — plus a mizan-article overlap to route around."},
+    {"proposal_id": "YASMIN-6", "rank": 3, "why": "Sara-5 non-technical shareable bracket; lightest morphological payload, carries a numeric error in the thesis to fix and a tangency to the shipped ibrahim-wife-laugh-strike via the dahik root."}
+  ],
+  "corrections_folded": {
+    "HASAN-1": [
+      "Preempt the burhan collision IN-ARTICLE: رهن (pledge, 3 verses) is a different root from برهن (burhan/proof, 8 verses); فَرِهَٰنٌ in 2:283 only visually resembles بُرْهَٰن — this is the single strongest one-tweet attack, disarm it explicitly.",
+      "Defend 'you ARE the collateral' grammatically: رهين/رهينة is فعيل بمعنى مفعول (that-which-is-held-in-pledge), anchored to Tabari/Qurtubi (marhun/marhunah bi-amalihi); assert the grammar because Khalil-readers will test whether رهين could be active.",
+      "Make redemption STRUCTURAL not an optional coda: 74:39 illa ashaba l-yamin and the 52:21 context (believers reunited, deeds undiminished) make the pledge redeemable; a one-sided doom framing misreads the very verses cited (also answers Khalid's pair-the-dread-with-redemption note).",
+      "Surface Zaynab's gem: gender concord — rahin agrees with masc. imri (52:21), rahinah with fem. nafs (74:38); the Quran matches the collateral's grammar to the debtor it names.",
+      "Keep the pawnshop analogy strictly illustrative; theology is textual (kasaba/kasabat), not metaphor-derived. Keep 3-verse scope; no 'the Quran always' overreach. Keep citation load light — a tadabbur, not a tafsir digest.",
+      "Optional one-liner: 2:283 has a variant qiraah (رِهان vs رُهُن), irrelevant to the 3-verse root count, pre-empts a rigorous reader."
+    ],
+    "YASMIN-1": [
+      "FIX the botched self-correction: state FIVE roots of freq 5-100 confined to one surah (شطر/al-Baqarah, ميل/an-Nisa, صيد/al-Maidah, قمص/Yusuf, كهف/al-Kahf), NOT three; delete the 'three' note. If a smaller set is wanted, define the extra filter explicitly and re-derive honestly.",
+      "ṣayd (صيد) is SIX occurrences in al-Maidah, not five.",
+      "Reframe title/thesis away from literal single-physical-object identity: the reveal is that the same WORD (qamis, always Yusuf's shirt) recurs six times and never leaves the surah (lie -> verdict -> cure); do not claim it is one physical cloth, and do not rescue that via the 'shirt of Ibrahim' israiliyyat.",
+      "Comparative-Genesis discipline: give Joseph's coat its dignity, no deficient-predecessor staging; do not assert the sight-restoration (12:93/96) is 'unique to the Quran' without qualification.",
+      "Scope the count as root-level q-m-ṣ, six occurrences (12:18/25/26/27/28/93). Simple layman title, no superlatives, mushaf-order safe (single surah)."
+    ],
+    "HASAN-2": [
+      "REPLACE THE EXHIBIT: GRAPH-12 (sarsar/wind/Ad) is a different word entirely; attach a real Wadud census (root ودد = 29 tokens; divine-name lemma وَدُود = exactly 2 at 11:90 and 85:14) before drafting.",
+      "Fix the paired-name claim: name the actual frames — 85:14 = al-Ghafur (the Forgiving); 11:90 = ar-Rahim (the Merciful) right after 'seek forgiveness of your Lord and repent.' Reword to 'both within a frame of forgiveness and mercy,' not 'both paired with a forgiveness name.'",
+      "Reframe title/thesis — 11:90 is Shuayb speaking about his Lord — prefer 'The Quran names God the Most Loving exactly twice' over 'God calls Himself.'",
+      "Soften 'right after' for 85:14 to 'in the same passage / in the aftermath of.'",
+      "Keep 'burned believers' Quran-anchored (fire, fuel, al-hariq, 'what they did to the believers'); note 'alive' is the mainstream reading, not verbatim text. Do not soften the sin to make the mercy land.",
+      "Disclose lemma-scope (broader love-vocabulary is not only twice). Acknowledge al-Wadud's faul pattern — loving-and-beloved / worthy of love — not the flat 'Most Loving.'",
+      "Differentiate from the existing Shuayb marketplace/anguish pieces that already treat the 11:90 Madyan context."
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "verifier": "GROUNDING",
+  "batch": "NAZM-0",
+  "date": "2026-07-21",
+  "method": "python3 over scripts/.corpus-cache/quranic-corpus.json + quran-verses.json for morphological substrate; node scripts/cross_reference_tafsir.mjs (Ibn Kathir EN, al-Tabari, al-Muyassar, al-Jalalayn) on 2:2, 57:1, 108:1-2, 110:1-2 for classical grounding; grep over content/tadabbur for overlap claims.",
+  "results": [
+    {
+      "id": "NAZM-1",
+      "verdict": "CONFIRMED",
+      "notes": "Substrate fully verified: 1:6:1:1 ٱهْدِ V IMPV|VF:1|ROOT:هدي + 1P suffix نَا; 2:1 is a single INL segment (muqatta'at الٓمٓ); 2:2:6:1 هُدًى N ROOT:هدي; 2:2 opens with demonstrative ذَٰلِكَ (DEM + DIST ل + ADDR ك). Mushaf adjacency 1:7 -> 2:1 -> 2:2 holds. Same root هدي on both sides of the seam is a lexical fact, not projection. Classical grounding: al-Jalalayn and al-Tabari (pulled via tafsir tool) both gloss dhalika = hadha ('THIS Book' — presentational), and the Fatiha-as-du'a / Baqarah-as-answer sequence is famously stated by Ibn al-Qayyim (Madarij al-Salikin) and al-Razi's Baqarah opening — well-attested munasaba, correctly labeled recovered tafsir. Overlap re-checked: Fatiha ayahs-006-007 has zero hudan/2:2 content (the one grep hit in ayah-002.md is a morphology comment '1:2:2'); no published article covers the seam. Minor wording note: it is a same-root echo (ihdina -> hudan), so soften 'answers word-for-word' to 'answers with the same root.'"
+    },
+    {
+      "id": "NAZM-2",
+      "verdict": "CONFIRMED",
+      "notes": "Substrate fully verified: 56:96:1:2 سَبِّحْ V IMPV|VF:2|ROOT:سبح|2MS (final verse of al-Waqi'ah); 57:1:1:1 سَبَّحَ V PERF|VF:2|ROOT:سبح|3MS with subject مَا فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ (opening al-Hadid). Same root, same Form II, imperative-to-perfect mood shift across adjacent surahs — mechanically real. The four available tafsir sources gloss 57:1 verse-locally without noting the seam, so the candidate's own hedge is load-bearing and must survive into the article: surah pairing is generic musabbihat/munasaba territory, the specific 'command answered by completed chorus' reading is a modern reflection on the checkable mood shift — the grounding field already says exactly this, which satisfies the CONFIRMED bar for a fair, clearly-flagged reflection. Footnote for the writer: 56:96 is verbatim identical to 56:74 (same fa-sabbih refrain mid-surah), so call it 'the surah's closing verse,' not a unique wording. Overlap confirmed clean (no cross-references between 056 and 057 files)."
+    },
+    {
+      "id": "NAZM-3",
+      "verdict": "CONFIRMED",
+      "notes": "Substrate fully verified: 107:4:2:3 مُصَلِّينَ ACT_PCPL|VF:2|ROOT:صلو; 107:5 صَلَاتِ ROOT:صلو + سَاهُونَ ROOT:سهو; 107:6 يُرَآءُونَ IMPF VF:3 ROOT:رأي (prayed to be seen); 107:7 يَمْنَعُونَ IMPF ROOT:منع; 108:1 أَعْطَيْ PERF VF:4 ROOT:عطو 1P; 108:2 صَلِّ IMPV|VF:2|ROOT:صلو|2MS + ٱنْحَرْ IMPV ROOT:نحر. Root صلو sits on both sides of the seam and the منع/عطو withhold-give opposition is lexical. Classical grounding: al-Razi's Mafatih al-Ghayb reads al-Kawthar as the point-by-point antithesis of al-Ma'un — genuine recovered munasaba; al-Muyassar on 108:2 ('fa-akhlis li-rabbika salataka') independently supplies the sincerity axis. Two precision flags for the writer: (1) ٱلْمَاعُونَ is tagged ROOT:عون in the corpus — do not assert any root link between ma'un and salla; (2) render ٱنْحَرْ honestly as 'sacrifice' with the generosity gloss secondary. Overlap confirmed clean: no cross-surah references in the 107 or 108 files."
+    },
+    {
+      "id": "NAZM-4",
+      "verdict": "NEEDS_HEDGE",
+      "corrected": "Keep the din-echo as the spine — it is mechanically airtight: دِينِ (ROOT:دين + PRON|SUFF|1S) is verifiably the final word of 109:6 and of surah 109, and 110:2 reads يَدْخُلُونَ فِى دِينِ ٱللَّهِ أَفْوَاجًا (same root, ROOT:فوج 'crowds'). Fixes: (1) frame the seam explicitly as a mushaf-order phenomenon that also happens to match chronology (al-Kafirun early Meccan; an-Nasr the last full surah revealed per Ibn 'Abbas in Ibn Kathir) — 'the arrangement of the mushaf places the surah of standing alone right before the surah of everyone arriving,' not an implied narrative sequence; (2) downgrade 'sits in al-Biqa'i / al-Suyuti surah-order munasaba' to 'the adjacent placement invites the classical munasaba question' unless a specific citation is pulled — none of our four tafsir sources records the 109-110 pairing; (3) flag the wall-becomes-door reversal itself as a modern reflection on a checkable word-echo, not classical tafsir.",
+      "notes": "Substrate fully verified: 109:6:4:1 دِينِ ROOT:دين + PRON|SUFF|1S is the last word of surah 109 (after دِينُكُمْ ROOT:دين earlier in the verse); 110:2:5:1 دِينِ ROOT:دين GEN with يَدْخُلُونَ IMPF 3MP and أَفْوَاجًا ROOT:فوج — the echo and reversed valence are real. Tabari/Jalalayn/Muyassar on 110:1-2 confirm the mass-conversion-after-Fath-Makkah reading (Jalalayn: 'ba'da ma kana yadkhulu fihi wahid wahid'), supporting the crowds half. However, unlike NAZM-1 (Ibn al-Qayyim/al-Razi citable) and NAZM-3 (al-Razi antithesis citable), the al-Biqa'i/al-Suyuti attribution here is asserted without a citation checkable in our toolset, and no available source records the seam or the din-reversal. Substrate correct, but the reveal must carry the modern-reflection flag and the mushaf-order framing before it ships. Overlap confirmed clean (no cross-references between 109 and 110 files)."
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "run": "2026-07-20 DIVERSIFIED braintrust — editorial deliberation",
+  "deliberated": "2026-07-22",
+  "surviving_proposals": 9,
+  "reveal_clusters": [
+    {
+      "cluster": "fatiha-baqarah-seam-munasaba",
+      "mode": "munasaba / surah-seam structural (ihdina 1:6 -> hudan 2:2, same root هدي)",
+      "versions": ["YASMIN-6", "KHALID-1", "HASAN-6"],
+      "chosen": "YASMIN-6",
+      "note": "All three advisors and the skeptic converge on YASMIN-6 as the execution to ship — single exhibit, verse-numbering arithmetic sidestepped by construction, explicit refusal to inflate the seam into a global compositional theory. KHALID-1 and HASAN-6 retire INTO it (HASAN-6's ring sidebar dropped; KHALID-1's youngest-landing framing and hadith-qudsi guard folded in as corrections)."
+    },
+    {
+      "cluster": "yunus-10-22-iltifat",
+      "mode": "iltifat / grammatical person-shift (khitab -> ghayba at wa-jarayna bihim; al-Jalalayn verbatim 'fihi iltifat')",
+      "versions": ["HASAN-3", "ZAYNAB-1", "KHALID-2"],
+      "chosen": "HASAN-3",
+      "note": "Highest avg critique score in the pool (33.67) and the best warrant-to-payoff. ZAYNAB-1 (dissertation-domain, merges the two exhibits) and KHALID-2 (phone-native) are the same article; their best framing folds into HASAN-3. ZAYNAB-1's precise category-naming (min al-khitab ila al-ghaybah) and al-Zamakhshari's classical i'rad rationale, plus KHALID-2's 'spectacle watched from outside' gloss and phone-native re-read hook, are folded into HASAN-3's corrections."
+    },
+    {
+      "cluster": "eve-adam-blame-intertext",
+      "mode": "intertextual divergence + dual/singular morphology (20:121 dual acts -> singular 'asa Adam; 7:23 joint 'we'; Eve never named)",
+      "versions": ["HASAN-4", "YASMIN-1"],
+      "chosen": "HASAN-4",
+      "note": "HASAN-4 wins over YASMIN-1 because the 20:122 election-and-tawbah counterweight is built in, so it cannot be flipped into 'the Quran blames Adam instead' by a bad-faith screenshot. YASMIN-1's 'if the disobedience-verb lands anywhere, it lands on the man' runs hotter and omits 20:122 — the overswing HASAN-4's risk note forbids. YASMIN-1's comparative-dignity guardrails (Genesis 3 does not blame Eve alone; Eve-centric blame is reception history — 1 Tim 2:14, Sirach 25:24, Augustine) fold into HASAN-4."
+    },
+    {
+      "cluster": "yusuf-dream-sjd-ring",
+      "mode": "ring composition + rational-agent agreement (12:4 hum/sajidin -> 12:100 sujjadan; s-j-d inclusio, root's only two occurrences in the surah)",
+      "versions": ["ZAYNAB-2"],
+      "chosen": "ZAYNAB-2 (RESERVE)",
+      "note": "A genuinely distinct FOURTH mode with strong classical warrant (Yusuf names the seam himself; al-Jalalayn reads the sound-masc-plural ending as rational-being agreement). Held to reserve, not because it is weak but because (a) the recommended-3 already covers three different modes cleanly against the three portfolio slots, and (b) a Yusuf article shipped this week and the surah is crowded. First to ship next cycle."
+    }
+  ],
+  "portfolio_logic": {
+    "principle": "Three recommended MUST showcase three different analytical modes (the whole point of the diversified run) and map to the three requested slots: one acquisition/search-doorway, one classical-recovery flagship, one high-shareability/universal-doorway.",
+    "acquisition_search_doorway": "HASAN-4 (Eve/Adam) — contested-verse search is the site's proven acquisition channel; 'does Islam blame Eve' is a perennial query with no rigorous English answer. Mode: intertextual divergence.",
+    "classical_recovery_flagship": "HASAN-3 (Yunus 10:22 iltifat) — verbatim al-Jalalayn on a verse everyone can feel; inaugurates iltifat as a named site category. Mode: grammatical person-shift.",
+    "high_shareability_universal_doorway": "YASMIN-6 (Fatiha->Baqarah seam) — every persona scores 4+, the most sayable line in the pool, zero Arabic prerequisite, likely first article a new reader ever meets; teaches the munasaba lens. Mode: surah-seam munasaba.",
+    "mode_diversity_check": "intertextual divergence (HASAN-4) != grammatical person-shift (HASAN-3) != surah-seam munasaba (YASMIN-6). No two share a lens. The fourth mode (ring composition, ZAYNAB-2) is reserved."
+  },
+  "recommended": [
+    {
+      "proposal_id": "YASMIN-6",
+      "title": "The Quran's First Prayer Is Answered by Its First Sentence",
+      "mode": "surah-seam munasaba",
+      "slot": "high-shareability / universal doorway",
+      "personas": {"amina": 5, "khalil": 5, "sara": 5, "yusuf": 4},
+      "why": "The one piece where every persona scores 4+; the universal entry point the slate needs; teaches the munasaba lens the other reveals depend on; mechanically-checkable root echo (هدي on both sides of the surah 1/2 seam) with attributed munasaba tradition.",
+      "corrections_to_apply": "1) DE-PIN THE CLASSICAL ATTRIBUTIONS (non-negotiable): before any 'classical/unimpeachably classical' claim, verify in primary Arabic that al-Razi's Mafatih al-Ghayb intro to al-Baqarah opens on the ihdina->hudan sequence and that Ibn al-Qayyim (Madarij al-Salikin) states 2:2 is God's answer to ihdina. If either cannot be pinned to a specific passage, DROP the pinned citation and reframe to: 'a celebrated munasaba (tanasub al-suwar), rooted in the classical framing of al-Fatiha as du'a (Ibn al-Qayyim) and stated crisply by later mufassirun including Mawdudi (Tafhim al-Qur'an)' — the crispest attested wording of this exact reading is modern, so do not sell it as unimpeachably classical on unverifiable citations. 2) Say 'same root (هدي)', NOT 'word-for-word' — 1:6 is an imperative verb (ihdina), 2:2 a noun (hudan). 3) Keep the basmala-numbering caution (Hafs counts basmala as 1:1): say 'closing request / first content-sentence', never 'last ayah / verse 1'. 4) Phrase ihdina as the closing REQUEST, the du'a unit 1:6-7. 5) Do NOT inflate the attested seam-reading into an unattributed global 'the whole Quran is compositionally structured as an answered du'a'; keep it 'the seam reads as request-and-answer.' 6) Build on / quiet-hand link the existing content/tadabbur/001-al-fatiha/ayahs-006-007 tadabbur (which already frames 1:6 as 'the first du'a') rather than re-presenting it as new; since the site already uses the seam-munasaba lens (Isra->Kahf in the Kahf 001-005 page), scope 'rare structural reveal' to the CONTENT, not the method. 7) Keep the payoff on the 2:2 TEXTUAL answer; do not let the hadith qudsi ('I divided the prayer...') that Ibn Kathir cites on 1:6-7 become the proof, or the piece flips to a hadith payoff. 8) Keep it short — resist over-writing a 90-second reveal; let quiet-hand links carry the depth."
+    },
+    {
+      "proposal_id": "HASAN-3",
+      "title": "The Storm Changes the Grammar: Why God Stops Calling the Sailors 'You'",
+      "mode": "iltifat / grammatical person-shift",
+      "slot": "classical-recovery flagship",
+      "personas": {"amina": 4, "khalil": 5, "sara": 4, "yusuf": 5},
+      "why": "Best warrant-to-payoff in the pool — verbatim classical tafsir (al-Jalalayn 'fihi iltifat 'an al-khitab' on wa-jarayna bihim) on a verse everyone can feel; person-marking is mechanically verifiable; inaugurates iltifat as a named category future pronoun articles build on. Khalil/Yusuf get a named classical category with verbatim citation; Amina/Sara feel the diagnosis without Arabic.",
+      "corrections_to_apply": "1) Name the category and direction precisely: iltifat min al-khitab ila al-ghaybah (address -> absence) at wa-jarayna bihim, attributed to classical tafsir (al-Jalalayn verbatim). 2) Reframe the cross-passage layer: do NOT say the choreography 'repeats'. State that 6:63-64, 17:67, 31:32 form a FAMILY handling the God-address differently — 17:67 stays entirely 2nd person, 31:32 stays entirely 3rd, 6:63's vow says 'He' (anjana, 3MS) — and that ONLY 10:22 completes the full you->them->You-to-God turn. Keep the four-verse map bracketed as modern synthesis / flagged-modern coda. 3) Verify al-Zamakhshari (al-Kashshaf) / al-Razi against primary text before asserting, or DROP the 'paradigm/textbook case' superlative and rest the classical grounding on the confirmed al-Jalalayn verbatim alone. 4) Attribute only the DEVICE to classical tafsir; present the comfort->forgetting->distance reading explicitly as tadabbur/reflection, not the mufassir's stated reason (al-Zamakhshari's classical rationale for the turn is i'rad — recounting the sailors' ingratitude to others — layer the modern distance-of-the-heart reading ON TOP of that, do not replace it). 5) Keep the narration honest: the storyline stays 3rd person through the ENTIRE storm (ja'ahum / zannu / da'aw all 3MP); narration never resumes addressing the passengers as 'you'. The only 2nd person that returns is the sailors' QUOTED speech to God (anjaytana). 6) Distinguish the two second persons — the theological point: opening 'you' (2MP) is God->mankind; storm 'You' (2MS) is mankind->God — the direction REVERSES. 7) Cross-link (don't restate) the existing content/tadabbur/010-yunus/ayahs-021-024 tadabbur, which covers the psychological rhythm (crisis sincerity, storms strip to tawhid) but not the pronoun choreography — foreground the pronoun mechanism as the article's reason to exist. 8) No phonetic-symbolism drift; keep claims where the person-marking evidence is."
+    },
+    {
+      "proposal_id": "HASAN-4",
+      "title": "Everyone Blames Eve. The Verse That Assigns the Fault Uses the Singular — and Names Adam.",
+      "mode": "intertextual divergence + dual/singular morphology",
+      "slot": "acquisition / contested-search doorway",
+      "personas": {"amina": 5, "khalil": 4, "sara": 5, "yusuf": 4},
+      "why": "The Amina/Sara acquisition piece — 'does Islam blame Eve' is a perennial contested-verse query (the site's proven acquisition channel) with no rigorous English answer built on verifiable morphology plus named tafsir. HASAN-4 over YASMIN-1 because the 20:122 election-and-tawbah counterweight is built in, so it cannot be flipped into 'the Quran blames Adam instead.' Sara reads it with her 14-year-old; the WhatsApp forward.",
+      "corrections_to_apply": "1) Rewrite the overlap note to disclose and differentiate from BOTH content/tadabbur/020-ta-ha/ayahs-121-122 (already notes the dual->singular verb-subject shift) and content/tadabbur/007-al-araf/ayahs-023-025 (already frames 7:23 as the opposite of Iblis); cite them as the site's own groundwork the article synthesizes — do NOT present the pronoun-shift or the confession-vs-Iblis contrast as fresh discoveries. 2) Narrow the genuinely-new legs to: the 'does Islam blame Eve' reader-wound framing, that Eve is never named in the Quran (verified: zero Hawwa tokens in corpus), and the Genesis divergence. 3) Keep the 'if anything, lands on Adam' HEDGE — do NOT overstate into 'the Quran blames Adam instead'; 20:122 immediately records Adam's election (ijtaba) and tawbah, so the point is shared confession, not transferred blame. State explicitly that al-Tabari / al-Muyassar gloss 20:121's disobedience as dual/shared, so the classical tradition did NOT read the singular as exculpating Eve — the singular-isolates-Adam inference is the article's own modern comparative reflection, clearly labeled. 4) State that 20:121 is the SOLE verse individuating the disobedience (7:22-23 keeps the reproach dual and the confession joint; 2:36 assigns the slip to Shaytan); frame as 'the one place blame is individuated, it is Adam — never Eve,' not a distributed pattern. 5) Foreground the in-verse dual->singular contrast (shared acts dual, disobedience singular) to pre-empt the 'it's just default masculine narration' rebuttal. 6) GENESIS GUARDRAIL (fold YASMIN-1's comparative-dignity discipline): Genesis 3 does NOT blame Eve alone (Adam deflects, God addresses both) — the Eve-centric blame is reception history (1 Timothy 2:14, Sirach 25:24, Augustine), not the Hebrew text; say 'the interpretive tradition around Genesis,' grant the Christian interlocutor dignity, brief paraphrase with no long quotation, descriptive never triumphal — make the claim locally: this is what THIS text does. 7) Fix 'no serpent scapegoated' — the Quran DOES name Shaytan as the tempter (2:36 azallahuma; 20:120 waswasa ilayhi); the point is that the couple do not deflect onto him, not that the text hides him. 8) Scope to the Quranic text: 'the Quran names Adam' — note that extra-Quranic tafsir / Israiliyyat (e.g. al-Tabari's al-Suddi isnad) does narrate Hawwa's role, so do not claim the tradition is silent on her."
+    }
+  ],
+  "reserve": [
+    {
+      "proposal_id": "ZAYNAB-2",
+      "title": "Yusuf's Dream Was Already Interpreted — by One Grammar Ending, and the Surah Closes the Loop 96 Verses Later",
+      "mode": "ring composition + rational-agent agreement",
+      "rank": 1,
+      "why": "The genuinely distinct FOURTH mode the recommended-3 does not cover — a textually-explicit s-j-d inclusio (Yusuf names the seam himself at 12:100) plus rational-agent agreement (12:4 hum/sajidin for inanimate stars). Strong classical warrant (al-Jalalayn reads the sound-masc-plural ending as rational-being agreement; al-Tabari/al-Muyassar read 12:100 as the ta'wil of 12:4). Held only because a Yusuf article shipped this week and the surah is crowded — first to ship next cycle. On ship: lead with the s-j-d verbal inclusio (root's only two occurrences in the surah) as the fresh structural seal, cite al-Jalalayn on sajidin as RECOVERED tafsir (not a merely-modern literary reading), use 'only two occurrences' solely to certify a clean bracket (never as frequency significance), and differentiate from 012-yusuf/ayahs-004-006 (thematic) and 012-yusuf/ayahs-099-101 (fulfillment theme)."
+    },
+    {
+      "proposal_id": "ZAYNAB-1",
+      "title": "The Storm Changes Your Grammar (iltifat, alternate framing)",
+      "mode": "iltifat / grammatical person-shift (same reveal as HASAN-3)",
+      "rank": 2,
+      "why": "Not an independent ship — the same 10:22 reveal as the recommended HASAN-3. Held as the fold-in source: its precise category-naming and the demoted cross-passage map are absorbed into HASAN-3's corrections. Standby if HASAN-3 execution stalls; do NOT publish alongside HASAN-3 (near-duplicate)."
+    },
+    {
+      "proposal_id": "YASMIN-1",
+      "title": "Everyone Blames Eve. The Quran Names Adam. (alternate framing)",
+      "mode": "intertextual divergence (same reveal as HASAN-4)",
+      "rank": 3,
+      "why": "Not an independent ship — the same Eve/Adam reveal as the recommended HASAN-4. Its comparative-dignity guardrails (Genesis reception-history distinction, interlocutor dignity) are folded into HASAN-4. Its 'if the verb lands anywhere it lands on the man' framing is the overswing to AVOID. Do NOT publish alongside HASAN-4."
+    }
+  ],
+  "retired_into_chosen": {
+    "KHALID-1": "-> YASMIN-6 (youngest-landing framing + hadith-qudsi guard folded in)",
+    "HASAN-6": "-> YASMIN-6 (ring/RING-1 sidebar dropped; the ihdina->hudan seam is the whole piece)",
+    "ZAYNAB-1": "-> HASAN-3 (category-naming + i'rad rationale + flagged-modern map)",
+    "KHALID-2": "-> HASAN-3 ('spectacle watched from outside' gloss + phone-native re-read hook)",
+    "YASMIN-1": "-> HASAN-4 (comparative-dignity guardrails)"
+  },
+  "house_rules_applied": [
+    "Quran-only: all three payoffs are structural/grammatical/intertextual; no hadith load-bearing (hadith-qudsi guards added to YASMIN-6).",
+    "Simple titles: kept the plainest surviving title per reveal.",
+    "Mark classical-vs-modern: every recommended carries an explicit correction separating the classically-attributed device from the modern reflection layer.",
+    "No superlatives: 'paradigm/textbook case', 'single most citable', 'unimpeachably classical' all flagged for removal or verification.",
+    "No disguised counts: none of the three rests on word-frequency; 'same root' and 'only two occurrences (as a bracket)' guards added where a count could be misread."
+  ]
+}

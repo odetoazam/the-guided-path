@@ -1,0 +1,28 @@
+
+✨ Semantic enricher — 26 files  (model: claude-opus-4-8)
+   Rough token estimate: ~260,000 tokens  (~$12)
+   CRITICAL-flagged files processed first.
+   Ctrl-C to stop; progress is saved.
+
+[1/26]  content/tadabbur/002-al-baqarah/ayahs-204-210.md  (CRITICAL)
+   ✨ ENRICHED
+[2/26]  content/tadabbur/009-at-tawbah/ayahs-107-110.md  (CRITICAL)
+   ✨ ENRICHED
+[3/26]  content/tadabbur/018-al-kahf/ayahs-089-091.md  (CRITICAL)
+   ✨ ENRICHED
+[4/26]  content/tadabbur/020-taha/ayah-039.md  (CRITICAL)
+Traceback (most recent call last):
+  File "/Users/azamkhan/the-guided-path/scripts/semantic-enrich.py", line 518, in <module>
+    main()
+    ~~~~^^
+  File "/Users/azamkhan/the-guided-path/scripts/semantic-enrich.py", line 498, in main
+    result = enrich_file(f, review_entry, model)
+  File "/Users/azamkhan/the-guided-path/scripts/semantic-enrich.py", line 237, in enrich_file
+    content = tadabbur_path.read_text()
+  File "/opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/pathlib/__init__.py", line 787, in read_text
+    with self.open(mode='r', encoding=encoding, errors=errors, newline=newline) as f:
+         ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/pathlib/__init__.py", line 771, in open
+    return io.open(self, mode, buffering, encoding, errors, newline)
+           ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/Users/azamkhan/the-guided-path/content/tadabbur/020-taha/ayah-039.md'

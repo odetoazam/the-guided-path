@@ -8,6 +8,96 @@ what's been flagged, fixed, and queued — across all ops functions.
 
 <!-- Agents append new entries below this line, newest first -->
 
+## 2026-07-28 — Site Health
+
+**Status:** 🔴 2 critical, 2 warnings
+**Fixed this run:** Nothing regressed from Jul 7. Deployments, all 10 key pages, and DB integrity are clean. Both criticals are pre-existing silent failures surfaced for the first time by the Vercel runtime-error check — neither was visible from page checks alone.
+**Actions queued:**
+- 🔴 **OG images broken on all 114 surah pages + all glossary pages.** `/api/og/quote` returns a 0-byte PNG (HTTP 200, so nothing alerted) whenever `arabic=` is passed. Failing since 2026-06-17. Cause: `ImageResponse` gets no `fonts` option and no Arabic-capable font exists in the repo, so satori chokes on the fallback font's contextual-substitution table. Fix = add `NotoNaskhArabic-Regular.ttf` to `src/app/fonts/`, pass it via `fonts:`, and add a try/catch fallback that drops the Arabic block instead of emitting an empty image.
+- 🔴 **Saved reading progress 500s for returning users.** `user_progress` has select/insert/delete RLS policies but no **update** policy, while `/api/progress` upserts — so the first mark succeeds and every repeat fails. `user_favorites` has the identical latent bug. Fix = two `create policy ... for update` statements (SQL in the report), then commit as `supabase/migrations/20260728_progress_favorites_update_policy.sql`.
+- 🟡 Update this monitor's homepage assertion — it still expects "Receive Spiritual Guidance", removed in the Jul 27 landing redesign. Will throw a false positive every week until changed.
+- 🟡 `/api/health` doesn't exist (404). Either drop it from the check list or build it.
+
+**DB snapshot:** 205 published articles (+30 vs Jul 7) · 114 surahs · 4 tadabbur · 15 active subscribers (21 total) · 114 surah_visual_data rows · 691 sitemap URLs
+
+## 2026-07-07 — Site Health
+
+**Status:** 🟡 1 warning (0 critical)
+**Fixed this run:** N/A — first Site Health run since Apr 28; no prior-flagged health issues had regressed. All 10 key pages serving 200s, DB clean.
+**Actions queued:**
+- Fix OG font error on `/api/og/quote` — `@vercel/og`/Satori rejects the Arabic font's substFormat-3 GSUB lookup (`lookupType: 5 - substFormat: 3 is not yet supported`), breaking some quote share-cards. Swap to Noto Naskh Arabic / Amiri static subset + try/catch fallback. 6 hits / 3 users, persistent since Apr 21.
+- Still can't query Vercel deploy status/build logs (no MCP deploy tool; `.env.local` OIDC token rejected by REST API). Add a personal Vercel access token to unblock (carried over from 2026-06-13 digest).
+**DB snapshot:** 293 published (175 articles · 114 surahs · 4 tadabbur; +14 articles vs Apr 28) · 114 surah_visual_data rows · 18 subscribers (12 active/5 pending/1 unsub, +2). Newest post 2026-07-05.
+
+## 2026-06-13 — Analytics Digest
+
+**Wins:** Biggest traffic week on record — 136 pageviews / 65 sessions, up 4.9× WoW (28 / 23 prior). Custom-event instrumentation is **confirmed firing in production** (scroll_depth 133, guidance_entry_point 102, surah_tab_switch 30) — resolves the multi-week "custom events dark in prod" finding. ChatGPT referrals appear for the first time (3 visits), Google organic 36 — GEO/AEO investment is landing. Sentry down to 1 unresolved issue (from 5). Scroll depth healthy: 53% of engaged pages reach 100%.
+**Issues:** Subscribe funnel is the bottleneck — 1 attempt / 1 success in 30 days vs 65 sessions this week (18 subscribers total, +2 since April). One benign Sentry error (`AbortError` on `/`, 0 users, last seen Jun 2). Could not query Vercel API — OIDC token in .env.local is rejected by the REST API (`invalidToken`); needs a personal Vercel access token. Supabase `posts` has no `view_count` column (engagement must come from PostHog $pageview, not DB). Audience is mobile-majority (35 mobile / 29 desktop).
+**Actions queued:** Redesign the subscribe CTA (mobile-first inline/end-of-article placement or a lead magnet); add a Vercel personal access token to .env.local so deploy/runtime logs are queryable; extend the high-performing "names of" eschatology listicle format with FAQPage schema.
+**Content gaps flagged:** Eschatology / "names of the Fire" + Qiyamah-names cluster is overperforming and under-supplied; Ar-Rahman / Nuh / An-Nisa drawing traffic without deep hub treatment.
+
+## 2026-04-30 — Analytics Digest
+
+**Wins:**
+- Production PostHog tracking is finally live (14 of 35 pageviews this week have `$host = www.ayahguide.com` and `$referring_domain = www.google.com`) — first real organic-traffic data after 5+ weeks of localhost-only. Pageviews 35 vs prior 7d 4 (8.75×).
+- 5 surah pages drew Google referrals (al-alaq, al-baqarah, al-fatiha, ghafir, fatir) — Quran-specific search traffic is starting to land.
+- Two prophet-narrative posts converted into deep engagement: `/posts/ayyub-yunus-two-complaints-quran` and `/posts/musa-burning-bush-first-conversation` — 6 unique scroll_depth events each, the only multi-engagement non-home pages.
+
+**Issues:**
+- **0 `subscribe_attempt` / 0 `subscribe_success` / 0 `share_click` events in 7 days** — instrumentation likely not deployed to production despite components existing in the codebase. Subscribers held flat at 16 (no new signups; matches event drought).
+- **All 163 `type=article` posts have `surah_number = NULL`** in Supabase — the field is set on `type=surah` posts only, blocking related-article queries.
+- **Sentry: 5 unresolved issues, all on `/surahs/:slug` paths** (3× TypeError on `.map()`, 1× null `parallelRoutes.get`, 1× audio AbortError); first seen 2026-04-07 to 2026-04-18, none new in 7d, but still firing on real visitors arriving from Google.
+- **0 deploys in last 7 days** (last prod deploy 2026-04-22). 10-day publishing gap — last article 2026-04-20.
+- **`guidance_entry_point` event property schema is inconsistent** — 19 events fired, but some have `path_id` (null), others have `path` (set), others have neither. Different code paths emit different shapes; standardize the helper.
+- **`hub_tab_switch` fired only 1× in 7 days** despite hub page traffic — tab UX may be underused or the default tab is sufficient.
+- 2 rageclicks recorded — small sample, but worth a follow-up check on which page.
+
+**Actions queued:**
+- Fix the 5 unresolved Sentry issues on `/surahs/:slug` (null guards on `.map()`; check Suspense/parallel-route boundary in `/overview`; surface or swallow the audio AbortError)
+- Verify `subscribe_attempt`, `subscribe_success`, `share_click` event firing in production (open the live site, trigger each, check PostHog Live Events) — if missing, find the gap in `src/lib/analytics.ts` consumers
+- Backfill `posts.surah_number` for `type=article` rows where the post is clearly about a surah (start with the slugs that name a surah/prophet)
+- Standardize `guidance_entry_point` payload — single helper that always emits `{path_id, entry_label, source}`
+- Confirm whether the `/hub/muhasaba` tab UX is actually engaged or whether the default-tab content is serving everyone
+
+**Content gaps flagged:**
+- al-alaq, ghafir, fatir, al-baqarah, al-fatiha — all received Google referrals this week, none have any `type=article` companion post. Companion deep-dives + the surah_number backfill would surface them as "go deeper" automatically.
+- More paired-prophet narrative pieces (Ibrahim/Yusuf, Dawud/Sulayman, Hud/Salih) — the only two posts with multi-visitor engagement this week were both in this format.
+
+## 2026-04-28 — Site Health
+
+**Status:** 🟡 2 warnings (carried-over critical items unchanged)
+**Fixed this run:** PostHog `guidance_entry_point` `path_id` null — verified resolved by commit `169c378` (6 days ago); removed from carry-over list
+**Actions queued:**
+- 🔴 PostHog `$host = localhost:3000` — 5+ weeks dark; check Vercel Production env vars for `NEXT_PUBLIC_POSTHOG_KEY` / `NEXT_PUBLIC_POSTHOG_HOST` and `posthog.init()` config
+- 🔴 Add null guards on `surah_visual_data` `.map()` calls — Quraysh-specific fix Apr 21 was data-only; code path still vulnerable
+- 🟡 0 new posts in 7 days (last: Apr 20); not yet at 14-day flag threshold
+- 🟡 ~864 modified `content/tadabbur/` files uncommitted; deploy is current but content edits pending push
+- 🟡 Subscribers flat at 16 for 3 consecutive weeks (11 active · 4 pending · 1 unsub)
+**DB snapshot:** 161 published articles · 114 surahs · 4 tadabbur · 11 active subscribers (Δ vs Apr 21: 0 across all)
+
+## 2026-04-22 — Community & Mentions Monitor
+
+**Reddit:** 0 drafts — domain still fully blocked (5th consecutive run; not a 429). 5 archetype drafts written for user review in community-drafts-2026-04-22.md. Reddit access requires structural fix — RSS/third-party API or manual thread submission.
+**Mentions found:** 0 external citations / 0 unlinked mentions / 3 ecosystem opportunities
+**Actions queued:**
+- 🔴 URGENT: MuslimMatters "Art of Tadabbur" outreach — now 7 weeks old, send email this week or close the opportunity (see draft in community-drafts-2026-04-22.md)
+- 🔴 URGENT: Claim @ayahguide on X/Twitter — 5th consecutive flag, handle still unclaimed
+- 🟡 Engage Quran4ever blog (quran4ever2026.wordpress.com) — new find, active April 2026, daily Surah Ta Ha tafsir, same niche; engage 2 weeks then outreach
+- 🟡 Engage Sincerely, Sumayah Substack (carried from Apr 15) — start engaging content before outreach
+**Content gaps from community:** Muhasabah hub (5th flag — highest priority), Musa hub (6 articles exist to anchor it), "Why does Quran repeat stories?" meta-explainer, Surah Al-Kahf hub article, "Most misunderstood ayahs" framing article
+
+## 2026-04-21 — Site Health
+
+**Status:** 🔴→✅ 1 critical found and fixed
+**Fixed this run:** `/surahs/quraysh` 500 error (12 hits in 24h) — `causalChain.links` renamed to `causalChain.sections` in Supabase. Data-only fix, no deploy needed. Page now 200.
+**Actions queued:**
+- ~~CRITICAL: Fix PostHog localhost tracking~~ — CLOSED 2026-04-21. Keys were set in Vercel since Mar 22. "Localhost" events = Azam's own dev sessions. No external users yet, not a config bug.
+- ~~Fix publish_date null on 161 articles~~ — CLOSED 2026-04-21. SQL backfill done.
+- ~~Fix guidance_entry_point path_id null~~ — CLOSED 2026-04-21. Now extracts slug from /paths/[slug] URLs. Deployed.
+- ~~CRITICAL: Sentry TypeError undefined.map on /surahs/:slug~~ — CLOSED 2026-04-21. Root was /overview route (now permanently redirected to /surahs/:slug). No errors in 72h logs.
+- ~~PostHog localhost tracking~~ — CLOSED 2026-04-21. Keys were in Vercel since Mar 22. Was a no-traffic problem, not a config bug.
+**DB snapshot:** 279 published posts (161 articles · 114 surahs · 4 tadabbur) · 11 active subscribers
+
 ## 2026-04-15 — Community & Mentions Monitor
 
 **Reddit:** 0 drafts — domain still fully blocked (4th consecutive run; not a 429). Skill prompt needs RSS/webhook fallback — Reddit will never be accessible via WebFetch or site: search in this environment.

@@ -1,0 +1,114 @@
+{
+  "advisor": "YASMIN",
+  "role": "Academic Quranic studies — interpretive honesty, comparative framing, mixed-audience service",
+  "critiques": [
+    {
+      "proposal_id": "HASAN-1",
+      "accuracy": 8,
+      "freshness": 8,
+      "audience": 7,
+      "shippability": 7,
+      "fatal": false,
+      "notes": "The dropped-qul observation is real and the near/far pairing is elegant, but the whole piece lives or dies on the 79:42 caveat — assert the census without it and a comparative reader catches you inside one search. Kept honest here (79:42 named as the second exception, al-Muyassar's faqul gloss flagged), so it survives peer scrutiny. Devotional register, narrower academic pull than the contested pieces."
+    },
+    {
+      "proposal_id": "HASAN-2",
+      "accuracy": 7,
+      "freshness": 4,
+      "audience": 5,
+      "shippability": 6,
+      "fatal": false,
+      "notes": "The ma/man essence-vs-attribute answer is genuine balagha and al-Jalalayn's 'jawab that did not match' is citable — but both halves land on ground the site has tilled three ways (grammar-of-tyranny, architecture-of-the-mirror, the gaslighting piece for Pharaoh; the-son-who-stayed-behind for Nuh's 11:46). The reveal is technically new; the reader's sense of deja-vu is not. Mark the 'God answers the question you should have asked' through-line hard as modern, or it reads as an imposed divine method."
+    },
+    {
+      "proposal_id": "HASAN-3",
+      "accuracy": 9,
+      "freshness": 8,
+      "audience": 8,
+      "shippability": 8,
+      "fatal": false,
+      "notes": "The single strongest warrant in the pool I'm reading — verbatim Jalalayn 'fihi iltifat' on the paradigm case al-Zamakhshari himself uses to teach the category. Person-marking is mechanically checkable, so the claims stay where the evidence is; cross-passage map correctly demoted to reflection. Nothing to object to — only note the intra-batch triplication with the other storm proposals, which is the orchestrator's problem, not the article's."
+    },
+    {
+      "proposal_id": "HASAN-4",
+      "accuracy": 7,
+      "freshness": 8,
+      "audience": 8,
+      "shippability": 7,
+      "fatal": false,
+      "notes": "This is my file to guard. The Quranic morphology is airtight — 20:121 drops to the singular and names Adam, 7:23 is a joint 'we.' But the comparative claim needs a scalpel: Genesis 3 does NOT blame Eve alone (Adam deflects, God addresses both, both are cursed); the Eve-centric blame the reader 'expects' is reception history — 1 Timothy 2:14, Sirach 25:24 — not the Genesis narrative. Say 'the interpretive tradition around Genesis,' not 'the Genesis account,' and grant the Christian interlocutor its dignity. Do that and it ships clean; skip it and a comparative reader closes the tab."
+    },
+    {
+      "proposal_id": "HASAN-5",
+      "accuracy": 8,
+      "freshness": 8,
+      "audience": 7,
+      "shippability": 8,
+      "fatal": false,
+      "notes": "The 12:4-to-12:100 s-j-d ring is textually explicit and the character names his own closure aloud — the cleanest teaching case of inclusio the corpus offers. Two-tier labeling is right: the ring is classical, the tanzil-ghayr-al-aqil agreement point is named balagha the four bundled tafsirs don't spell out, and the proposal says so. A rare non-contested piece that still earns its rigor."
+    },
+    {
+      "proposal_id": "HASAN-6",
+      "accuracy": 8,
+      "freshness": 7,
+      "audience": 8,
+      "shippability": 8,
+      "fatal": false,
+      "notes": "The ihdina-hudan munasaba is well-attested (al-Razi opens Baqarah on it, Ibn al-Qayyim states it outright) and honestly the site's best universal entry point. One insistence: the 1:4-as-center ring is Hafs-count-dependent and the proposal flags it in a single sentence — keep that sentence, do not let the ring co-headline, and resist any drift toward 'every surah answers the previous.' The seam carries the piece; the ring is garnish."
+    },
+    {
+      "proposal_id": "KHALID-1",
+      "accuracy": 8,
+      "freshness": 7,
+      "audience": 8,
+      "shippability": 9,
+      "fatal": false,
+      "notes": "The disciplined version of the Fatiha seam — it takes only the attested munasaba and drops the count-dependent ring, exactly the right editorial cut. Classically grounded, zero contested surface, the most shippable single-reveal in the batch. My only flag is that it competes head-on with HASAN-6 for the same territory; pick one."
+    },
+    {
+      "proposal_id": "KHALID-2",
+      "accuracy": 9,
+      "freshness": 8,
+      "audience": 7,
+      "shippability": 8,
+      "fatal": false,
+      "notes": "Same verbatim-Jalalayn warrant as HASAN-3, framed for the phone-native reader who can watch the pronouns move in translation. The 'you become a spectacle watched from outside' gloss on the third-person turn is genuinely what the iltifat does; cross-passage tour correctly quarantined as one flagged section. Strong, and redundant with HASAN-3 on substance."
+    },
+    {
+      "proposal_id": "KHALID-3",
+      "accuracy": 6,
+      "freshness": 8,
+      "audience": 8,
+      "shippability": 6,
+      "fatal": false,
+      "notes": "The headline promises 'except one' and the body immediately concedes a second exception (79:42) — that gap IS the integrity risk, and a hostile reader quotes the contradiction, not the insight. Reconcile it honestly: the clean frame is 'except when they ask about God Himself,' with 79:42 (the Hour) as a different category of unanswerable. Fix the hook and it's a fine Ramadan-search piece; leave it and the census overclaims."
+    },
+    {
+      "proposal_id": "KHALID-4",
+      "accuracy": 7,
+      "freshness": 8,
+      "audience": 8,
+      "shippability": 7,
+      "fatal": false,
+      "notes": "Same real morphology as HASAN-4, and the 5/5/5/5 self-rating is optimistic — the comparative frame is not a free win, it's the entire risk surface, and it's mine to police. Quote Genesis 3 accurately (Adam blame-shifts too; God addresses both), locate the Eve-blame in reception tradition not the narrative, and let 7:23's shared confession — not 'the Quran blames Adam instead' — be the last note. Guardrails are stated; hold the author to them."
+    },
+    {
+      "proposal_id": "KHALID-5",
+      "accuracy": 8,
+      "freshness": 8,
+      "audience": 7,
+      "shippability": 8,
+      "fatal": false,
+      "notes": "The broad-reach cut of the Yusuf ring, same solid two-tier grounding as HASAN-5, with the added merit that the surah-as-ring diagram is a native visual asset. Different verse from this week's yusuf-decree piece (12:4/12:100 vs 12:40), so it clears freshness. Warm, non-contested, a genuine return-visit mechanic."
+    },
+    {
+      "proposal_id": "KHALID-6",
+      "accuracy": 7,
+      "freshness": 7,
+      "audience": 6,
+      "shippability": 7,
+      "fatal": false,
+      "notes": "The Ma'un/Kawthar munasaba is attested (al-Razi, al-Biqa'i) and the shared salah root is real — but the thesis blurs it: the shared ROOT is prayer (s-l-w in both), while the withhold/give contrast (mana'a vs nahara) is thematic echo, not the same root. Say 'the same act, inverted,' not 'the same root,' across the giving half. Sara-bullseye for the child-memorization audience; thinner analytic meat for Khalil/Yusuf, as the author concedes. Keep the inna-bracket ring a short second act."
+    }
+  ]
+}

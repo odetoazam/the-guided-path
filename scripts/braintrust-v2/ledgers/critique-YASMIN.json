@@ -1,0 +1,169 @@
+{
+  "critic": "Dr. Yasmin Farid (academic Quranic studies, U Chicago Divinity)",
+  "stage": "cross-critique",
+  "lens": "interpretive honesty, comparative/mixed-audience service; penalize triumphalist superlatives, scope-shift, hadith-dependence, ikhtilaf-flattening",
+  "critiques": [
+    {
+      "proposal_id": "ZAYNAB-1",
+      "accuracy": 9,
+      "freshness": 7,
+      "audience": 7,
+      "shippability": 9,
+      "fatal": false,
+      "notes": "The census is clean and the risk note already insists on 'as a verb' — no scope-shift, no superlative, no hadith. My only editorial worry is tone: the payoff wants to tip into a threat-sermon, and that register loses the very reader the site should court. Note it is functionally identical to KHALID-1 (same VOICE-1, same reveal) — one of the two should be dropped, not both written."
+    },
+    {
+      "proposal_id": "ZAYNAB-2",
+      "accuracy": 7,
+      "freshness": 6,
+      "audience": 5,
+      "shippability": 7,
+      "fatal": false,
+      "notes": "A real balaghah teaching, verified 4-of-4 both roots. But HASAN-1 is the same article with the classical category (hadhf al-fa'il, al-Zamakhshari's honor/contempt distinction) named — and that naming is exactly what keeps agent-suppression from reading as a modern discovery. Prefer HASAN-1; this version leaves the warrant implicit."
+    },
+    {
+      "proposal_id": "ZAYNAB-3",
+      "accuracy": 8,
+      "freshness": 5,
+      "audience": 7,
+      "shippability": 8,
+      "fatal": false,
+      "notes": "Honest self-policing — the risk note concedes it is 'one phenomenon, not two proofs' and refuses the 'mightiest king' superlative, which I respect. But it collides three ways with HASAN-3 and KHALID-3 on the same awzi'ni verses, and the same-prayer-two-speakers genre already shipped (afrigh). HASAN-3 anchors the root gloss to al-Tabari; pick that one."
+    },
+    {
+      "proposal_id": "ZAYNAB-4",
+      "accuracy": 8,
+      "freshness": 5,
+      "audience": 7,
+      "shippability": 7,
+      "fatal": false,
+      "notes": "The fanfajarat/fanbajasat fork plus a verified hapax is genuine lexical interest. My reservation is freshness: two published staff pieces (musa-staff-and-sea, musa-sea-that-split) crowd this ground, and only a strict lexical treatment — never a retelling — earns it a lane. The overlap risk is the highest in the pool."
+    },
+    {
+      "proposal_id": "ZAYNAB-5",
+      "accuracy": 6,
+      "freshness": 6,
+      "audience": 8,
+      "shippability": 8,
+      "fatal": false,
+      "notes": "The hapax is verified and the 'two tellings, two facets' framing is right, but the thesis states 'she laughed' flatly and omits the live classical dispute over dahikat (laughed vs. menstruated) — that is exactly the ikhtilaf-flattening I flag. KHALID-4 is the same reveal and does name the dispute; supersede this with that."
+    },
+    {
+      "proposal_id": "ZAYNAB-6",
+      "accuracy": 6,
+      "freshness": 7,
+      "audience": 4,
+      "shippability": 5,
+      "fatal": false,
+      "notes": "Each root checks out, but 'the grammar keeps handing agency to God' is a theological pattern assembled from five hand-picked roots — apophenia risk. To ship honestly it must present the cases before the pattern AND acknowledge counter-cases where the human victor is NOT erased; otherwise it is pattern-hunting dressed as census. A five-root survey is also the heaviest lift here for one week."
+    },
+    {
+      "proposal_id": "HASAN-1",
+      "accuracy": 9,
+      "freshness": 8,
+      "audience": 6,
+      "shippability": 8,
+      "fatal": false,
+      "notes": "This is the model of how a grammar reveal should carry its warrant: verified 4-of-4 census, the classical device named (bina' li-l-majhul), marked as classical not discovered, author reflection kept visually apart. It answers my standing flag that author-voice and classical-voice look identical on the page. Lead with the Paradise image so the rigor doesn't smother the outsider reader."
+    },
+    {
+      "proposal_id": "HASAN-2",
+      "accuracy": 8,
+      "freshness": 8,
+      "audience": 5,
+      "shippability": 7,
+      "fatal": false,
+      "notes": "A phrase-twin with real legal payoff, corpus-verified, and the risk note already draws Tariq's line — describe, never rule. My condition for publication: the ikhtilaf must live INSIDE each case (awl/radd in inheritance shares, the disputed reach of the eight zakat categories), not be flattened to one fard position. Handled that way it demonstrates the site can carry a fiqh-bearing reveal with descriptive discipline."
+    },
+    {
+      "proposal_id": "HASAN-3",
+      "accuracy": 7,
+      "freshness": 5,
+      "audience": 8,
+      "shippability": 8,
+      "fatal": false,
+      "notes": "Best-anchored of the three awzi'ni proposals — the 'marshal me into gratitude' payoff is tied to how al-Tabari actually glosses the verb, not a modern flourish. But the title carries 'the Mightiest King,' precisely the 'the most X' superlative I keep tightening; scope or soften it. Triple-collides with ZAYNAB-3/KHALID-3 and the afrigh genre; if any awzi'ni piece runs, run this one."
+    },
+    {
+      "proposal_id": "HASAN-4",
+      "accuracy": 8,
+      "freshness": 7,
+      "audience": 7,
+      "shippability": 8,
+      "fatal": false,
+      "notes": "Verified verbatim two-verse match, emotionally legible, and modest about Yusuf's rank. One rhetorical trim: 17:23 is God's decree on worship-and-parents, not the mechanics that 'run the universe' — keep it to 'the decree,' not cosmic overreach. Adjacent to the published yusuf-prison piece but genuinely a different clause."
+    },
+    {
+      "proposal_id": "HASAN-5",
+      "accuracy": 8,
+      "freshness": 7,
+      "audience": 7,
+      "shippability": 8,
+      "fatal": false,
+      "notes": "This is the kind of piece that serves my mixed audience — it answers the fairness objection a comparative-religion student actually raises, voiced first by the text, grounded in itmam al-hujjah and honest that the ahl al-fatrah question stays disputed. That last honesty is load-bearing; keep it. It is the more rigorous twin of KHALID-5 — prefer this framing."
+    },
+    {
+      "proposal_id": "HASAN-6",
+      "accuracy": 7,
+      "freshness": 8,
+      "audience": 8,
+      "shippability": 7,
+      "fatal": false,
+      "notes": "Exactly the contested-verse, adversarial-quotation terrain the site should own honestly. The one discipline that keeps it scholarship rather than apologetics: present the astonishment/rebuke reading AND the la'anahum reading as both classical — do not stage 'idiom' as the true meaning and 'curse' as the naive misreading, and do not soften that both verses condemn. The proposal knows this; execution is everything. Cite Tabari and Qurtubi by name in the body."
+    },
+    {
+      "proposal_id": "KHALID-1",
+      "accuracy": 9,
+      "freshness": 7,
+      "audience": 8,
+      "shippability": 9,
+      "fatal": false,
+      "notes": "Same verified reveal as ZAYNAB-1 with the mushaf-order active-then-passive sequence made explicit — the sharpest single unit in the pool. It leans harder into 'brutal moral symmetry,' which is where I'd apply the brake: the linguistic anchor is honest, so let it do the work without the scroll-stopper moralizing. Duplicate of ZAYNAB-1; ship one."
+    },
+    {
+      "proposal_id": "KHALID-2",
+      "accuracy": 8,
+      "freshness": 8,
+      "audience": 8,
+      "shippability": 8,
+      "fatal": false,
+      "notes": "Verified exact-phrase and unique two-word core, a genuine low-shame on-ramp, and admirably careful to place Musa's confession pre-prophethood without smuggling a fiqh ruling on the killing. Minor register note: 'pagan Queen' in the headline is a loaded gloss — the body's 'sun-worshipping monarch' is the more accurate and less sensational frame. Amina's exact need, and nothing published pairs these two."
+    },
+    {
+      "proposal_id": "KHALID-3",
+      "accuracy": 7,
+      "freshness": 5,
+      "audience": 8,
+      "shippability": 8,
+      "fatal": false,
+      "notes": "Correctly demotes the root nuance to an added layer rather than load-bearing proof — good instinct. But 'The Most Powerful King in the Quran' is the superlative register I flag on sight; scope it. Third of the three awzi'ni collisions and the afrigh genre already exists; HASAN-3's classical anchor wins the slot."
+    },
+    {
+      "proposal_id": "KHALID-4",
+      "accuracy": 8,
+      "freshness": 6,
+      "audience": 8,
+      "shippability": 8,
+      "fatal": false,
+      "notes": "The stronger of the two annunciation-reaction proposals: same verified hapax as ZAYNAB-5, but this one names the dahikat ikhtilaf instead of asserting 'laughed' as settled — that is the difference between scholarship and a nice line. Opens genuinely underused women's-voice territory on a linguistic anchor, not sentiment. Supersedes ZAYNAB-5."
+    },
+    {
+      "proposal_id": "KHALID-5",
+      "accuracy": 7,
+      "freshness": 6,
+      "audience": 8,
+      "shippability": 8,
+      "fatal": false,
+      "notes": "Same verified pairing as HASAN-5, but thinner on the classical scaffolding — it gestures at 'point readers to scholars' where HASAN-5 actually names itmam al-hujjah and the ahl al-fatrah dispute. On a usul-touching, academically-probed verse the reader deserves the named principle. Prefer HASAN-5's framing; drop this."
+    },
+    {
+      "proposal_id": "KHALID-6",
+      "accuracy": 8,
+      "freshness": 8,
+      "audience": 7,
+      "shippability": 8,
+      "fatal": false,
+      "notes": "Clean three-verse contiguous phrase, no superlative, and it wisely leaves 2:259's disputed identification (Uzayr/Jeremiah/a ruined town) as 'a passerby' rather than picking a side — good restraint. The anti-status reading lands without a prosperity-guilt sermon if kept descriptive. Fresh: no published piece isolates the collapsed-roof phrase across all three, and it exports naturally as a quote-card."
+    }
+  ]
+}

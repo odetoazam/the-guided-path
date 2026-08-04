@@ -1,0 +1,32 @@
+{
+  "proposal_id": "HASAN-6",
+  "verdict": "SURVIVES",
+  "reviewer": "adversarial-skeptic",
+  "date": "2026-07-20",
+  "load_bearing_claim": "The exact contiguous phrase 'قاتلهم الله انى يوفكون' ends exactly 2 verses (9:30, 63:4), both verse-final, mushaf first & last of the pair.",
+  "rederivation": {
+    "exact_contiguous_phrase_textSimple": ["9:30", "63:4"],
+    "all_4_words_any_order": ["9:30", "63:4"],
+    "verb_token_قاتلهم_substring": ["9:30", "63:4"],
+    "both_verse_final_ends_يوفكون": true,
+    "mushaf_order_of_pair": ["9:30", "63:4"],
+    "morphology_both_verses": "قَٰتَلَ PERF|VF:3(FormIII)|ROOT:قتل + هُمُ 3MP + ٱللَّهُ + أَنَّىٰ INTG + يُؤْفَكُونَ IMPF|VF:1|PASS|ROOT:أفك|3MP — identical in both",
+    "9:30_target_confirmed": "deifiers — Uzayr / al-Masih 'ibn Allah'",
+    "63:4_target_confirmed": "hypocrites — 'كانهم خشب مسندة' (like propped-up planks)"
+  },
+  "counterexample_and_scope_checks": {
+    "silent_scope_mixing": "none — contiguous-phrase, all-4-words, and verb-token methods ALL return the same {9:30,63:4}; count is robust",
+    "hidden_chronology": "no defect — claim explicitly scopes 'first/last' to MUSHAF order. (Chronologically both Medinan; 63/Al-Munafiqun likely precedes 9/At-Tawbah, but the article never claims chronological order.)",
+    "astonishment_refrain_recurs": "'انى يوفكون' (annā yu'fakūn) appears in 5 verses total (5:75, 9:30, 29:61, 43:87, 63:4); only 2 carry the qātalahumu-llāh curse. Strengthens the idiom argument.",
+    "quran_only": "PASS — corpus-verifiable core (the pairing) contains no hadith. The lexical/idiom payoff is TAFSIR (al-Tabari/al-Qurtubi), honestly framed as 'what the mufassirun said', not a corpus-fact in disguise. No hadith dependency."
+  },
+  "overlap_published_articles": "none — no hit for 9:30, 63:4, the phrase, يوفكون, munafiqun/propped-plank, or Uzayr in published-articles.md",
+  "required_corrections": [
+    "SUPERLATIVE (exhibit title_idea 'The Quran's Harshest Curse'): unverifiable from corpus. Explicit curse لعنهم الله appears 7×, لعنة الله 5×, plus qutila-imprecations (80:17, 51:10, 85:4). Hostile-reader one-tweet rebuttal: 'qātalahumu-llāh isn't even the harshest or most frequent curse — laʿanahum appears 7 times.' Drop/hedge 'harshest'; the thesis's own 'gets quoted as a curse' framing is already safe.",
+    "LEXICAL CONFLATION: the astonishment sense 'how deluded they are' belongs to 'annā yu'fakūn', NOT to 'qātalahumu-llāh'. The curse proper is qātalahumu-llāh (2 words); annā yu'fakūn is a separate, recurring astonishment clause. Article should split these cleanly and can cite the 3 curse-free recurrences (5:75, 29:61, 43:87) as positive evidence that 'annā yu'fakūn' is idiomatic astonishment.",
+    "VERB FORM: قَٰتَلَ is Form III (VF:3, 'to war/fight against'), not Form I قتل ('to kill'). The 'wooden' reading is thus 'may God war against them', already non-literal — this HELPS the idiom argument. But the macron-less transliteration 'qatalahum' in id/title/thesis risks reading as Form I; use 'qātalahum' and note Form III.",
+    "TAFSIR ACCURACY (unverifiable here): classical mufassirun treat qātalahumu-llāh as a curse/imprecation (often glossed laʿanahum / 'may God destroy') used idiomatically to voice astonishment — not mere gentle astonishment. Keep the RISK-note discipline: name the range of readings, do not soften that both verses are severe condemnations. Verify the al-Tabari/al-Qurtubi quotes at draft time.",
+    "MINOR: 9:30's Uzayr has debated prophet-status in the tradition; the thesis line 'those who called a prophet the son of God' fits Isa cleanly but is looser for Uzayr. 'First and last in mushaf order' is trivially true for a 2-element set — fine as color, don't imply deliberate structural bracketing."
+  ],
+  "notes": "Core load-bearing claim is airtight and robust under three independent derivation methods. All corrections are lexical-precision / editorial hedges; none touch the pairing. Payoff is Quran+tafsir, honestly sourced, no hadith. SURVIVES."
+}

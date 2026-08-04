@@ -1,0 +1,8 @@
+{
+  "results": [
+    {"id":"PHRASE-9","verdict":"CONFIRMED","notes":"Contiguous 'ربنا لولا ارسلت الينا رسولا فنتبع اياتك' matches exactly {20:134, 28:47} in mushaf order. 20:134 preceded by لقالوا (law...la-qalu, preemptive conditional), 28:47 by فيقولوا (fa-yaqulu, preemptive). Both God quoting the excuse in advance."},
+    {"id":"PHRASE-10","verdict":"CONFIRMED","notes":"First-person 'لا نكلف نفسا الا وسعها' matches exactly {6:152, 7:42}. 6:152 attached to give-full-measure/orphan commands; 7:42 to اصحاب الجنة (Paradise). 2:286 variant 'لا يكلف الله نفسا الا وسعها' matches only {2:286}, distinct 3rd-person form."},
+    {"id":"PHRASE-11","verdict":"CONFIRMED","notes":"'السماوات بغير عمد ترونها' matches exactly {13:2, 31:10}. 13:2 verb رفع (raised), 31:10 verb خلق (created). Verb split confirmed."}
+  ],
+  "ledger_path":"/Users/azamkhan/the-guided-path/scripts/braintrust-v2/ledgers/verify-PHRASE-2.json"
+}

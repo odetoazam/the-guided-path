@@ -1,0 +1,29 @@
+{
+  "proposal_id": "HASAN-1",
+  "advisor": "HASAN",
+  "verdict": "SURVIVES",
+  "checked_by": "adversarial-skeptic-panel36",
+  "date": "2026-07-21",
+  "counts_rederived": {
+    "root_رهن_tokens": 3,
+    "root_رهن_verses": ["2:283", "52:21", "74:38"],
+    "method": "ROOT field exact match over scripts/.corpus-cache/quranic-corpus.json (6236 verses)",
+    "token_forms": {
+      "2:283": "رِهَٰنٌ (LEM:رِhan, MP, INDEF, NOM) — plural pledges/goods, 'fa-rihanun maqbudah'",
+      "52:21": "رَهِينٌ (LEM:رَهِين, MS) — 'kullu imri'in bima kasaba rahin'",
+      "74:38": "رَهِينَةٌ (LEM:رَهِينَة, F) — 'kullu nafsin bima kasabat rahinah'"
+    }
+  },
+  "attacks_run": {
+    "scope_shift_root_vs_lemma_vs_phrase": "PASS — claim scoped to ROOT field and stated as such; 3 tokens = 3 lemmas = 3 verses, no silent mixing.",
+    "counterexample_exactly_three": "PASS — surface-skeleton sweep over quran-verses.json textSimple: substrings رهن/رهين/رهان that appear elsewhere are all unrelated roots (كره=كارهين 7:88, فره=فارهين 26:149, feminine-plural -hunna endings like ujurahunna/absarihinna, makrihinna, fa-surhunna 2:260). None are the pledge root. No murtahin/irtahana/rahā'in forms exist in the Quran (0 hits).",
+    "burhan_conflation_check": "PASS but NOTE — برهن (burhan/proof) is 8 tokens across 8 verses and is a SEPARATE root correctly excluded. Visual hazard: فَرِهَٰنٌ (2:283) and بُرْهَٰن look alike; a hostile reader may allege a miscount.",
+    "first_last_chronology": "N/A — proposal makes no first/last or chronology claim; only 'one commercial vs two hereafter' which holds (2:283 debt-law; 52:21 At-Tur judgment; 74:38 Al-Muddaththir judgment).",
+    "overlap_published_and_shipped": "PASS — zero matches for rahn/pledge/collateral/2:283/52:21/74:38 in scripts/braintrust-v2/published-articles.md; none of the 6 slugs shipped this week touch collateral. Existing tadabbur files on 52:21/74:38 are a different genre, not the connection-reveal article.",
+    "quran_only_payoff": "PASS — the payoff (commercial word -> person is the pledged thing) is fully derivable from the Arabic surface text; Tabari/Qurtubi citations are supportive, not load-bearing. No hadith dependency.",
+    "hostile_one_tweet_rebuttal": "Strongest: 'burhan is the same root, so it is not 3.' Rebuttal: burhan = root برهن (quadriliteral), tagged separately; the pledge root ر-ه-ن is exactly 3. Second: 'رهين is active (one who holds a pledge), not passive.' Rebuttal: فعيل here is بمعنى مفعول (that-which-is-held); classical mufassirun and grammar agree, and 74:38 رهينة is unambiguously the pledged thing."
+  },
+  "broken_claims": [],
+  "required_corrections": "1) Preempt the burhan confusion IN THE ARTICLE: state plainly that رهن (pledge, 3 verses) is a different root from برهن (burhan/proof, 8 verses) — فَرِهَٰنٌ in 2:283 only looks like بُرْهَٰن. This is the one-tweet attack vector; disarm it in a footnote or aside. 2) Defend the 'you ARE the collateral' reading grammatically: رهين/رهينة is فعيل بمعنى مفعول (that which is held in pledge), anchored to Tabari/Qurtubi (marhūnun/marhūnatun bi-ʿamalihi) — assert the grammar, do not just gesture at it, since Khalil-readers will check. 3) Make the redemption/settlement side STRUCTURAL, not an optional coda: 74:39 'illā aṣḥāba l-yamīn' (except the companions of the right hand) and the 52:21 context (believers reunited with descendants, deeds undiminished) both convert the pledge into a redeemable one. A one-sided doom framing would misread the very verses cited. 4) Keep the pawnshop analogy strictly illustrative; the theology is textual, not metaphor-derived. 5) Optional: 2:283 carries a variant qirāʾah (رِهانٌ vs رُهُنٌ) — irrelevant to the 3-verse root count but a one-line note pre-empts a rigorous reader.",
+  "notes": "Core is airtight. Root رهن = exactly 3 tokens in exactly 3 verses (2:283, 52:21, 74:38), all three texts verified verbatim. The semantic gradient is real and text-grounded: 2:283 = goods/plural pledges handed over (rihān maqbūḍah) in the no-scribe-while-traveling clause; 52:21 & 74:38 = the person/soul itself is the thing held (rahīn/rahīnah) against the debt of its own deeds. One commercial use, two eschatological uses — no 'always/never' overreach (thesis and risks already guard this). Zero overlap with published or this-week-shipped articles. No load-bearing failure found; corrections are hardening only."
+}

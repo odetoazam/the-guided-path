@@ -1,0 +1,29 @@
+{
+  "verifier": "GROUNDING",
+  "batch": "v3-ground-INTERTEXT-0",
+  "date": "2026-07-21",
+  "method": "python3 over scripts/.corpus-cache/quranic-corpus.json + quran-verses.json for morphology (PGN, tense, voice, particles, segment order); cross_reference_tafsir.mjs (Ibn Kathir EN, al-Tabari, al-Muyassar, al-Jalalayn) on 20:121, 7:23, 37:102-103, 12:18, 12:86, 27:44.",
+  "results": [
+    {
+      "id": "INTERTEXT-1",
+      "verdict": "CONFIRMED",
+      "notes": "Substrate mechanically verified: 20:121 akalaa PERF|3MD, tafiqaa PERF|3MD, yakhsifaan IMPF|3MD (act and cover-up dual), then 'asaa PERF|3MS with named nominative subject Aadam + ghawaa 3MS — the dual-to-singular shift is exactly in the tags. 7:23 qaalaa 3MD + zalamnaa 1P + anfusanaa 1P — joint 'we' confession confirmed. Tafsir grounding verified verbatim: al-Jalalayn glosses 'wa 'asaa Aadamu rabbahu fa-ghawaa bil-akl' (Adam singular, named); al-Muyassar likewise 'khaalafa Aadamu amra rabbihi'; al-Tabari on 7:23 frames the confession as 'khilaaf jawaab al-la'een Iblees'. Genesis-divergence framing already self-flagged as modern comparative. One drafting caution: al-Tabari narrates the disobedience of 20:121 with duals too ('ataa'aa amra Iblees wa khaalafaa amra rabbihimaa'), so keep the candidate's existing hedge ('if anything') — the claim is about which clause grammatically assigns fault, not that Hawwa did not sin; the joint 7:23 confession already carries that nuance."
+    },
+    {
+      "id": "INTERTEXT-2",
+      "verdict": "CONFIRMED",
+      "notes": "Substrate mechanically verified: 37:102 unzur IMPV|2MS + maadhaa INTG + taraa IMPF|2MS — a genuine interrogative from father to son; son's reply if'al IMPV|2MS + tu'mar IMPF|PASS|2MS ('what YOU are commanded') + sa-tajidunee; 37:103 aslamaa PERF|VF:4|3MD dual. All exactly as claimed. Tafsir grounding verified verbatim: al-Jalalayn on fanzur maadhaa taraa — 'shaawarahu li-ya'nasa bil-dhabhi wa yanqaada' (the mushaawara/consultation reading is explicitly classical); al-Muyassar casts the son as 'mu'eenan lahu 'alaa taa'at Allah'; al-Tabari on aslamaa — 'ittafaqaa 'alaa al-tasleem li-amrihi wa al-ridaa bi-qadaa'ihi' (they agreed together on submission): shared two-will submission is the classical reading, not projected. Genesis 22 divergence properly flagged as modern comparative. Recovered tafsir; strongest of the batch."
+    },
+    {
+      "id": "INTERTEXT-3",
+      "verdict": "CONFIRMED",
+      "notes": "Substrate mechanically verified: 12:18 bal (RET particle of rejection/retraction) + sawwalat lakum anfusukum amran + fa-sabrun jameel; 12:84 wabyaddat 'aynaahu min al-huzn (grief to blindness); 12:86 innamaa ashkoo baththee wa huznee ilaa Allah + a'lamu min Allah maa laa ta'lamoon — all present as claimed. Tafsir grounding verified verbatim: al-Jalalayn on 12:18 — 'qaala Ya'qub lammaa ra'aahu saheehan wa 'alima kadhibahum' (seeing the shirt intact he knew their lie); al-Muyassar independently: the untorn shirt 'kaana daleelan 'alaa kadhibihim'; al-Jalalayn on 12:86 — what he knows is 'anna ru'yaa Yusuf sidq wa huwa hayy'. The non-deception reading is fully classical, and the intact-shirt mechanism is worth including in the article — it strengthens the reveal. Genesis divergence flagged as modern comparative. Grounded, not imposed."
+    },
+    {
+      "id": "INTERTEXT-4",
+      "verdict": "NEEDS_HEDGE",
+      "corrected": "Keep the load-bearing syntactic point at full strength: the object of aslamtu (1S, Form IV) is lillaahi — her submission is routed TO God, past the throne — and this is classically supported (al-Muyassar: 'daakhilatan fee deen rabb al-'aalameen'; the conversion-climax is the recognized reading). But DOWNGRADE the ma'a claim from 'sets her alongside the king, not beneath him' (strong) to suggestive, with an explicit modern-reading flag: ma'a denotes accompaniment, and al-Muyassar actually glosses her words as 'inqadtu mutaaba'atan li-Sulaymaan' — FOLLOWING Solomon — i.e. the classical tradition reads ma'a as submitting through/with Solomon's call, mildly deferential, not a statement of parity. Frame it as: 'the preposition permits — though the classical commentators did not draw — a reading in which she stands beside the king rather than beneath him; what they all agree on is where the submission lands: on God.' The 1 Kings 10 divergence stays flagged as modern comparative.",
+      "notes": "Substrate mechanically verified: 27:44 aslamtu PERF|VF:4|1S, ma'a (LOC) + Sulaymaana (GEN), li- + Allaahi (GEN) — the two prepositions and the 1S Form-IV verb are exactly as claimed, and the syntactic goal of the submission is God, not Solomon. Tafsir check: al-Muyassar and al-Tabari confirm the conversion climax and the intellect-test framing (al-Tabari: 'li-yakhtabira 'aqlahaa'), but al-Muyassar's gloss 'mutaaba'atan li-Sulaymaan' (following Solomon) cuts directly against the specific 'with, not beneath' parity spin — that half of the reveal is a modern inference from the preposition, not recovered tafsir. Per the contract, a correspondence claimed as strong that the tradition reads otherwise must be downgraded to suggestive: NEEDS_HEDGE. Overlap with published Bilqis articles is adjacent as self-flagged; the closing-line + preposition-routing focus is genuinely distinct. Note: a prior ledger at this path had marked this CONFIRMED with a 'light caution'; this pass judges the caution load-bearing enough to require the hedge in the published framing."
+    }
+  ]
+}

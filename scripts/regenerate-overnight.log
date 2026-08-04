@@ -1,0 +1,111 @@
+
+🔨 Processing 50 file(s) — mode: full (model: claude-opus-4-8)
+   Ctrl-C to stop; progress is saved.
+
+[1/50]    5:12  (content/tadabbur/005-al-maidah/ayah-012.md)
+    ⚠️  generation failed: API Error: Response stalled mid-stream. The response above may be incomplete.
+
+[2/50]    5:17  (content/tadabbur/005-al-maidah/ayah-017.md)
+    ⚠️  generation failed: output structurally incomplete: no morphology tags
+[3/50]    5:55  (content/tadabbur/005-al-maidah/ayah-055.md)
+    ✨ REGENERATED + VALIDATED
+[4/50]    6:21  (content/tadabbur/006-al-anam/ayah-021.md)
+    ⚠️  generation failed: output structurally incomplete: no morphology tags
+[5/50]    20:17-21  (content/tadabbur/020-ta-ha/ayahs-017-021.md)
+    ⚠️  validators failed (arabic=4, morph=0) — kept on disk, still queued
+[6/50]    20:92-94  (content/tadabbur/020-ta-ha/ayahs-092-094.md)
+    ⚠️  generation failed: output missing frontmatter
+[7/50]    20:97-98  (content/tadabbur/020-ta-ha/ayahs-097-098.md)
+    ⚠️  generation failed: output structurally incomplete: no morphology tags
+[8/50]    21:89  (content/tadabbur/021-al-anbiya/ayah-089.md)
+    ⚠️  generation failed: output structurally incomplete: no tagged ayah quote
+[9/50]    21:94  (content/tadabbur/021-al-anbiya/ayah-094.md)
+    ⚠️  generation failed: output missing frontmatter
+[10/50]    22:61-62  (content/tadabbur/022-al-hajj/ayahs-061-062.md)
+    ⚠️  generation failed: output structurally incomplete: no morphology tags
+[11/50]    23:15-16  (content/tadabbur/023-al-muminun/ayahs-015-016.md)
+    ✨ REGENERATED + VALIDATED
+[12/50]    23:23-25  (content/tadabbur/023-al-muminun/ayahs-023-025.md)
+    ⚠️  generation failed: output structurally incomplete: no tagged ayah quote
+[13/50]    23:101-103  (content/tadabbur/023-al-muminun/ayahs-101-103.md)
+    ⚠️  generation failed: output structurally incomplete: no tagged ayah quote
+[14/50]    23:104-105  (content/tadabbur/023-al-muminun/ayahs-104-105.md)
+    ⚠️  generation failed: output missing frontmatter
+[15/50]    23:112-115  (content/tadabbur/023-al-muminun/ayahs-112-115.md)
+    ⚠️  generation failed: output structurally incomplete: no morphology tags
+[16/50]    25:12-14  (content/tadabbur/025-al-furqan/ayahs-012-014.md)
+    ✨ REGENERATED + VALIDATED
+[17/50]    26:23-29  (content/tadabbur/026-ash-shuara/ayahs-023-029.md)
+    ⚠️  generation failed: output missing frontmatter
+[18/50]    26:40-45  (content/tadabbur/026-ash-shuara/ayahs-040-045.md)
+    ✨ REGENERATED + VALIDATED
+[19/50]    26:105-110  (content/tadabbur/026-ash-shuara/ayahs-105-110.md)
+    ✨ REGENERATED + VALIDATED
+[20/50]    26:116-120  (content/tadabbur/026-ash-shuara/ayahs-116-120.md)
+    ⚠️  generation failed: output structurally incomplete: no morphology tags
+[21/50]    26:128-130  (content/tadabbur/026-ash-shuara/ayahs-128-130.md)
+    ⚠️  generation failed: output structurally incomplete: no tagged ayah quote
+[22/50]    26:141-145  (content/tadabbur/026-ash-shuara/ayahs-141-145.md)
+    ✨ REGENERATED + VALIDATED
+[23/50]    26:167-173  (content/tadabbur/026-ash-shuara/ayahs-167-173.md)
+    ⚠️  generation failed: output structurally incomplete: no morphology tags
+[24/50]    26:181-183  (content/tadabbur/026-ash-shuara/ayahs-181-183.md)
+    ✨ REGENERATED + VALIDATED
+[25/50]    26:192-197  (content/tadabbur/026-ash-shuara/ayahs-192-197.md)
+    ⚠️  generation failed: output structurally incomplete: no morphology tags
+[26/50]    26:218-219  (content/tadabbur/026-ash-shuara/ayahs-218-219.md)
+    ⚠️  validators failed (arabic=1, morph=0) — kept on disk, still queued
+[27/50]    27:67-68  (content/tadabbur/027-an-naml/ayahs-067-068.md)
+    ⚠️  generation failed: output missing frontmatter
+[28/50]    36:20-27  (content/tadabbur/036-ya-sin/ayahs-020-027.md)
+    ⚠️  generation failed: output missing frontmatter
+[29/50]    37:102  (content/tadabbur/037-as-saffat/ayah-102.md)
+    ⚠️  generation failed: output structurally incomplete: no morphology tags
+[30/50]    37:50-61  (content/tadabbur/037-as-saffat/ayahs-050-061.md)
+    ✨ REGENERATED + VALIDATED
+[31/50]    37:137-138  (content/tadabbur/037-as-saffat/ayahs-137-138.md)
+    ⚠️  generation failed: output structurally incomplete: no morphology tags
+[32/50]    38:73-74  (content/tadabbur/038-sad/ayahs-073-074.md)
+    ⚠️  generation failed: output missing frontmatter
+[33/50]    40:1-3  (content/tadabbur/040-ghafir/ayahs-001-003.md)
+    ⚠️  generation failed: output structurally incomplete: no morphology tags
+[34/50]    40:79-81  (content/tadabbur/040-ghafir/ayahs-079-081.md)
+    ⚠️  generation failed: output structurally incomplete: no morphology tags
+[35/50]    41:1-4  (content/tadabbur/041-fussilat/ayahs-001-004.md)
+    ✨ REGENERATED + VALIDATED
+[36/50]    41:27-28  (content/tadabbur/041-fussilat/ayahs-027-028.md)
+    ✨ REGENERATED + VALIDATED
+[37/50]    43:71  (content/tadabbur/043-az-zukhruf/ayah-071.md)
+    ⚠️  generation failed: output structurally incomplete: no tagged ayah quote
+[38/50]    43:82  (content/tadabbur/043-az-zukhruf/ayah-082.md)
+    ✨ REGENERATED + VALIDATED
+[39/50]    43:83  (content/tadabbur/043-az-zukhruf/ayah-083.md)
+    ✨ REGENERATED + VALIDATED
+[40/50]    43:86  (content/tadabbur/043-az-zukhruf/ayah-086.md)
+    ⚠️  generation failed: output structurally incomplete: no tagged ayah quote
+[41/50]    43:88  (content/tadabbur/043-az-zukhruf/ayah-088.md)
+    ⚠️  generation failed: output missing frontmatter
+[42/50]    43:46-50  (content/tadabbur/043-az-zukhruf/ayahs-046-050.md)
+    ✨ REGENERATED + VALIDATED
+[43/50]    43:79-80  (content/tadabbur/043-az-zukhruf/ayahs-079-080.md)
+    ⚠️  generation failed: output structurally incomplete: no morphology tags
+[44/50]    44:17-24  (content/tadabbur/044-ad-dukhan/ayahs-017-024.md)
+    ⚠️  generation failed: output structurally incomplete: no morphology tags
+[45/50]    44:25-29  (content/tadabbur/044-ad-dukhan/ayahs-025-029.md)
+    ⚠️  generation failed: output structurally incomplete: no morphology tags
+[46/50]    47:29-30  (content/tadabbur/047-muhammad/ayahs-029-030.md)
+    ⚠️  generation failed: output structurally incomplete: no morphology tags
+[47/50]    ?:50-51  (content/tadabbur/053-an-najm/needs-review/ayahs-050-051.md)
+    ⚠️  generation failed: output missing frontmatter
+[48/50]    55:36  (content/tadabbur/055-ar-rahman/ayah-036.md)
+    ✨ REGENERATED + VALIDATED
+[49/50]    55:56  (content/tadabbur/055-ar-rahman/ayah-056.md)
+    ⚠️  generation failed: output structurally incomplete: no morphology tags
+[50/50]    55:58  (content/tadabbur/055-ar-rahman/ayah-058.md)
+    ✨ REGENERATED + VALIDATED
+
+──────────────────────────────────────────────────
+  DONE: 41
+  ERROR: 33
+  NEEDS_FIX: 2
+  Remaining in queue: 35

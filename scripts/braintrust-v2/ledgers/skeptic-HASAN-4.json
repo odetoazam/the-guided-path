@@ -1,0 +1,31 @@
+{
+  "proposal_id": "HASAN-4",
+  "verdict": "SURVIVES",
+  "advisor": "HASAN",
+  "checked": "2026-07-20",
+  "core_claim_status": "CONFIRMED",
+  "rederived_counts": {
+    "contiguous_phrase 'الا تعبدوا الا اياه'": "{12:40, 17:23} (exactly 2)",
+    "whole_word_token_sweep [الا, تعبدوا, اياه]": "{12:40, 17:23}",
+    "broad standalone 'اياه' sweep": "8 verses {2:172, 6:41, 9:114, 12:40, 16:114, 17:23, 17:67, 41:37}; only 12:40 & 17:23 use 'worship none but Him'",
+    "corpus_morphology": "12:40 & 17:23 clause-verb both IMPF|VF:1|2MP|SUBJ, ROOT:عبد, LEM:عَبَدَ — morphologically identical"
+  },
+  "context_verified": {
+    "12:40": "Yusuf's prison sermon; clause + 'ذالك الدين القيم' (that is the upright religion) — accurate",
+    "17:23": "God's qada joined to parental kindness (وبالوالدين احسانا) — accurate",
+    "yusuf_slave_imprisoned": "sold as slave 12:20-21, imprisoned 12:33ff, two young men 12:36 — accurate"
+  },
+  "quran_only": "PASS — payoff is a purely intra-Quranic verbatim phrase match plus Quranic narrative; no hadith dependency",
+  "overlap": "PASS — yusuf-prison-dearer-to-me turns on 12:33 ('prison is dearer to me'), a different clause; no published article touches the 12:40/17:23 tawhid clause",
+  "graph_edges": "N/A — proposal makes no edge/graph claim",
+  "broken_claims": [
+    "FLAVOR-INACCURACY: 'two condemned cellmates' — 12:41 restores one (wine-server) and crucifies only the other; not both condemned. Use 'two fellow prisoners' (as the thesis itself does).",
+    "AMBIGUOUS-AS-WORDED: '(first and last in mushaf order)' attached to 'kindness to parents' asserts nothing a reader can verify; the only true reading (12:40 precedes 17:23) is trivial and misplaced."
+  ],
+  "required_corrections": [
+    "DISCLOSE THE FAMILY (biggest soft spot): the near-synonymous 'worship none but Allah' appears in 11:2, 41:14, 46:21 (and 'an la ta'budu illa llah' in 11:26). The 'only two verses' reveal is true ONLY for the PRONOUN form (إِيَّاهُ). The article MUST surface this family and frame the payoff as PRONOUN-EXACT VERBATIM IDENTITY of the 4-word clause — not as 'the cosmic law is stated only twice' or Yusuf's conceptual uniqueness. Otherwise the one-tweet rebuttal lands: 'You cherry-picked the pronoun; worship-none-but-Allah is all over the Quran.'",
+    "Clarify or drop the '(first and last in mushaf order)' parenthetical.",
+    "Replace 'two condemned cellmates' with 'two fellow prisoners' (Quran 12:41 frees one, crucifies one)."
+  ],
+  "notes": "Load-bearing claim (exact clause 'الا تعبدوا الا اياه' in exactly two verses — a jailed slave's mouth and God's decree, verbatim + morphologically identical) is fully verified across four methods and survives every attack angle. The proposal is already self-aware (risk note: 'verbatim identity, not a claim about Yusuf's rank'). Survives on condition the required corrections are applied — the pronoun-vs-Allah disclosure is essential to survive a hostile reader."
+}

@@ -1,0 +1,101 @@
+{
+  "advisor": "Dr. Yasmin Farid",
+  "run": "2026-07-20 diversified (v3)",
+  "lens": "Academic Quranic studies: intertextual divergence, dialogical structure, interpretive honesty for a mixed Muslim + outsider-curious audience. Deliberately closing the April flag: the site reads the Quran in isolation from the scriptures it is in conversation with. Every comparative claim is built on a mechanically-checkable choice inside the Quran (classical grounding cited), with the cross-scripture divergence explicitly labelled a modern comparative reading. House rule for all six: the Jewish/Christian interlocutor is given dignity, never staged as the deficient predecessor — that is the difference between comparative scholarship and apologetics.",
+  "overlap_corrections": [
+    "INTERTEXT-2 ledger said 'no overlap' — WRONG: /posts/the-patience-of-ismail-what-sabr-looks-like covers 37:102 thematically. Proposal YASMIN-2 must cite and differentiate (structure of the exchange, not the son's sabr).",
+    "INTERTEXT-7 ledger said 'none found' — WRONG: /posts/the-naming-that-changed-everything sits in the published Adam cluster and almost certainly covers 2:31-33. INTERTEXT-7 DROPPED from my slate."
+  ],
+  "proposals": [
+    {
+      "id": "YASMIN-1",
+      "title": "Everyone Blames Eve. The Quran Names Adam.",
+      "thesis": "When the Quran narrates the eating and the shame, the verbs are dual — they two ate, they two covered themselves — but the one verse that assigns disobedience drops to the singular and names Adam (20:121), and the couple then confess together as one 'we' (7:23). There is no blame-chain: no woman blamed, no serpent scapegoated, and if the disobedience-verb lands anywhere, it lands on the man. This answers, from grammar the reader can check, the single most common accusation reconnecting Muslims carry in from Christian-inflected culture — that scripture blames the woman for the Fall.",
+      "exhibits": ["INTERTEXT-1"],
+      "personas": {
+        "amina": 5,
+        "khalil": 4,
+        "sara": 5,
+        "yusuf": 4,
+        "note": "Amina arrives via 'does Islam blame Eve' search — this is her exact entry wound. Sara gets a one-sentence WhatsApp answer ('the verse that assigns fault uses the singular, and it names Adam'). Khalil gets al-Jalalayn and al-Tabari citations plus an honest modern-reading flag on the Genesis comparison. Yusuf can cite it against the feminist critique of scripture in seminar."
+      },
+      "risks": "This is the site's first explicitly comparative article; the Genesis treatment must give the Jewish and Christian tradition dignity — state what Genesis 3 says plainly and briefly (paraphrase, no long quotation), note that Jewish and Christian interpreters have their own long counter-history of reading the blame-chain generously, and mark the divergence framing as a modern comparative reading, not classical tafsir. Avoid the triumphalist register ('the Quran alone...') I flagged in April — make the claim locally: this is what THIS text does.",
+      "why_now": "Closes my standing flag that AyahGuide ignores the scriptures the Quran is in dialogue with, on the safest possible beachhead: a divergence that runs in the direction of women's dignity, grounded in checkable morphology (dual vs singular), with classical glosses on the Quranic side. Nothing in the 185 published articles or the 6 shipped this week touches the grammar of blame."
+    },
+    {
+      "id": "YASMIN-2",
+      "title": "The Father Asked the Son First",
+      "thesis": "In the Quran's near-sacrifice, Ibrahim turns the command into a question — 'look, what do you see?' (37:102) — and the son answers with his own imperative: 'do what you are commanded.' The next verse then uses a dual verb: 'when they had BOTH submitted' (37:103). Obedience in this telling is not something done to the son but something two wills do together — a structural divergence from Genesis 22, where Isaac is bound without being consulted, and a picture of religious formation as invitation rather than imposition.",
+      "exhibits": ["INTERTEXT-2"],
+      "personas": {
+        "amina": 4,
+        "khalil": 4,
+        "sara": 5,
+        "yusuf": 3,
+        "note": "Sara is the bullseye: a parent whose children ask hard questions gets a scripture where the paradigm father ASKS his child before the hardest act of obedience in the Book — instantly shareable, instantly usable at her own dinner table. Amina gets consent-language she didn't expect to find. Khalil gets al-Jalalayn's shaawarahu gloss verbatim. Yusuf lower — less contested-verse ammunition."
+      },
+      "risks": "OVERLAP CORRECTION: the mining ledger claimed no overlap, but /posts/the-patience-of-ismail-what-sabr-looks-like already covers this scene thematically (the son's sabr). This piece survives only as the STRUCTURAL entry — the interrogative (unzur/taraa), the son's passive tu'mar ('what YOU are commanded' — he cites the command, not the father's authority), and the dual aslamaa — and must cite the existing article in its opening. Also: do not overclaim the Genesis contrast — rabbinic midrash has its own rich material on Isaac's willing consent; acknowledge it in one sentence or the comparison will not survive a literate Jewish reader. Flag Genesis-divergence as modern comparative reading.",
+      "why_now": "Second beachhead for the comparative program, and the strongest parenting-resonant piece in the pool at a moment when Sara's segment (WhatsApp sharers) is the site's organic-growth engine."
+    },
+    {
+      "id": "YASMIN-3",
+      "title": "They Handed the Grieving Father a Bloody Shirt. He Said No.",
+      "thesis": "Handed the blood-stained shirt, the Quran's Yaqub disbelieves the wolf story on the spot — 'rather, your souls have enticed you; so, beautiful patience' (12:18) — and though his grief is lifelong enough to take his sight (12:84), he never despairs and complains only to God (12:86). This diverges from the Genesis telling, where the father accepts the bloodied coat and mourns as if the son were dead. The structural reveal is a scripture that lets a prophet grieve fully without ever being deceived — grief and clarity held in the same man for decades.",
+      "exhibits": ["INTERTEXT-3"],
+      "personas": {
+        "amina": 5,
+        "khalil": 3,
+        "sara": 4,
+        "yusuf": 3,
+        "note": "Amina highest: 'grief without despair' is the pastoral register that keeps reconnectors on the site — this is a loss-and-patience piece wearing an intertextual coat. Sara gets a sayable line ('he cried until he went blind, and he never once believed the lie'). Khalil mid — solid Jalalayn grounding but fewer ikhtilaf layers. Yusuf mid — literary, not contested."
+      },
+      "risks": "The prophetic-dignity framing ('the Quran protects the prophet from being fooled') edges toward the deficient-predecessor register I warned against — write it as two tellings doing different theological work (Genesis dramatizes the cost of deception inside a family; the Quran dramatizes sabr jamil), not as correction of an error. Genesis divergence flagged modern-comparative. Many Yusuf articles exist; none covers this node, but the piece should cross-link the Yusuf cluster explicitly.",
+      "why_now": "The Yusuf cycle is the site's deepest published cluster and its readers are primed; this adds the one major character-beat no existing article owns, and extends the comparative program into pastoral territory where it is least likely to read as polemic."
+    },
+    {
+      "id": "YASMIN-4",
+      "title": "The Murdered Brother Gets to Speak",
+      "thesis": "In Genesis, Abel never says a word. In the Quran the victim speaks first — 'I will not stretch my hand against you to kill you; I fear God' (5:28) — and the first murder flows directly into a law: 'whoever kills a soul — except for a soul, or for corruption in the land — it is as if he killed all mankind' (5:32, quoted in full). The structure is the argument: scripture gives the victim a voice and a refusal BEFORE the crime, then converts the crime into the sanctity of every single life. It matters because 5:32 is among the most-quoted and most-misquoted verses in public discourse about Islam, and almost no one who quotes it knows it rises out of this dialogue.",
+      "exhibits": ["INTERTEXT-6"],
+      "personas": {
+        "amina": 4,
+        "khalil": 4,
+        "sara": 4,
+        "yusuf": 5,
+        "note": "Yusuf highest in my slate: 5:32 is the verse he will be asked about in every interfaith panel and every seminar on religion and violence, and a piece that quotes it IN FULL with the exception clause, names its addressee ('written upon the Children of Israel'), and gives the Ibn Abbas universalizing logic is exactly the citable rigor he lacks. Sara: kids ask about Cain and Abel; she gets the 'the brother refused to fight back' beat. Khalil: full ikhtilaf on the decree's scope."
+      },
+      "risks": "Highest-sensitivity piece of my slate. Per the grounding hedge: 5:32 MUST be quoted with its exception clause and its 'upon the Children of Israel' address — the site's credibility on contested verses (its best asset, per my April review) dies the day it truncates a verse the way sermon posters do. The universal reading must be attributed (Ibn Abbas, al-Muyassar: one-soul-equals-all-souls logic) rather than asserted. Genesis-divergence (silent Abel, the crow, no equivalence-law) flagged modern-comparative; note that rabbinic tradition (Mishnah Sanhedrin 4:5) carries a strikingly parallel one-soul teaching — including that parallel is not a concession, it is the honesty that makes the piece citable.",
+      "why_now": "No published article covers the two sons of Adam at all — a genuinely empty node — and 5:32 misquotation traffic is perennial contested-verse search intent, the site's strongest acquisition channel."
+    },
+    {
+      "id": "YASMIN-5",
+      "title": "The Dream That Interpreted Itself: How Surah Yusuf Closes Its Own Circle",
+      "thesis": "In verse 4 a boy says he saw eleven stars, the sun, and the moon 'prostrating' — and the grammar has already interpreted the dream, because Yusuf refers to the stars with the pronoun and plural endings Arabic reserves for persons (ra'aytu-HUM... saajidiin). Ninety-six verses later the family falls in prostration and Yusuf says out loud, 'this is the interpretation of my dream from before' (12:100) — the same root, s-j-d, opening and sealing the whole surah, with the character himself pointing at the seam. One article, two verified structures: agreement-grammar that smuggles the meaning in at the start, and a surah-length ring the text explicitly closes.",
+      "exhibits": ["ILTIFAT-3", "RING-7"],
+      "personas": {
+        "amina": 3,
+        "khalil": 4,
+        "sara": 3,
+        "yusuf": 4,
+        "note": "Khalil and Yusuf carry this one: the rational-agreement point (tanzil ghayr al-'aqil manzilat al-'aqil, via al-Zamakhshari and Abu Hayyan) plus a textually explicit inclusio (all major mufassirun on 12:100) makes it the most citation-dense piece in my slate. Amina and Sara mid — beautiful but not a felt-need entry point; the payoff is literary wonder, not pastoral relief."
+      },
+      "risks": "Grounding asymmetry must be stated: the ring (12:4 to 12:100) is classical and textually explicit — the strongest grounding in the entire pool — but the rational-agreement reading rests on the named balagha tradition, NOT on the four bundled tafsirs, and the article must say so in those words. Overlap: tadabbur file 012-yusuf/ayahs-004-006.md covers the dream thematically without either mechanism; cross-link, don't restate. Keep the two structures in one arc (grammar plants, ring harvests) or the piece splits into two half-articles.",
+      "why_now": "The diversification mandate asked for structure over counting; this is the cleanest demonstration on the site's most-read narrative surah that FORM carries meaning — the article that teaches readers how to see every other structural piece."
+    },
+    {
+      "id": "YASMIN-6",
+      "title": "The Quran's First Prayer Is Answered by Its First Sentence",
+      "thesis": "Al-Fatiha ends with the Book's opening request — 'guide us' (ihdina, root h-d-y) — and the first content-sentence of al-Baqarah answers in the same root: 'this is the Book... a GUIDANCE (hudan) for the God-conscious' (2:2). The seam turns the entire Quran into a single answered supplication: the most-recited passage in Islam, said seventeen-plus times a day, is the request, and everything after it is the reply. This is not a modern discovery — al-Razi opens his Baqarah commentary on the sequence and Ibn al-Qayyim states it outright — which makes it the rare structural reveal that is simultaneously astonishing and unimpeachably classical.",
+      "exhibits": ["NAZM-1"],
+      "personas": {
+        "amina": 5,
+        "khalil": 5,
+        "sara": 5,
+        "yusuf": 4,
+        "note": "The broadest piece in my slate — the only one every persona scores 4+. Amina re-meets the prayer she already knows by heart; Khalil gets named classical sources (al-Razi, Ibn al-Qayyim in Madarij al-Salikin) doing the heavy lifting; Sara gets the single most sayable line of the batch ('you ask to be guided; the next thing God says is: here is the guidance'); Yusuf gets munasaba methodology he can cite by name."
+      },
+      "risks": "Lowest-risk proposal I have — the root-echo is mechanically checkable and the reading is attributed classical munasaba, not modern reconstruction. Two small cautions: verse numbering (Hafs counts the basmala as 1:1; say 'closing request / first content-sentence' rather than hard verse arithmetic), and resist inflating from 'the seam reads as answer' (attributed, safe) to 'the whole Quran is structured as an answered du'a' as a global compositional claim (unattributed, apologetic). Overlap verified clean: Fatiha tadabbur files and published articles do not draw the seam.",
+      "why_now": "After a diversified batch of subtle structures, the slate needs one universal-doorway piece — this is the article most likely to be the first thing a new reader ever reads on the site, and it teaches the munasaba lens the other five pieces depend on."
+    }
+  ]
+}

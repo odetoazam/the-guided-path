@@ -1,0 +1,25 @@
+{
+  "results": [
+    {
+      "id": "PHRASE-5",
+      "verdict": "CONFIRMED",
+      "notes": "Contiguous 'خاوية على عروشها' in textSimple = exactly {2:259, 18:42, 22:45}, mushaf order. Token-membership sweep agrees. All three contexts as claimed."
+    },
+    {
+      "id": "PHRASE-6",
+      "verdict": "CONFIRMED",
+      "notes": "Contiguous 'الا تعبدوا الا اياه' in textSimple = exactly {12:40, 17:23}, mushaf order. Token sweep agrees. 12:40 Yusuf prison speech, 17:23 God's decree."
+    },
+    {
+      "id": "PHRASE-7",
+      "verdict": "CONFIRMED",
+      "notes": "Contiguous 'ان شاء الله امنين' in textSimple = exactly {12:99, 48:27}, mushaf order. Token sweep agrees."
+    },
+    {
+      "id": "PHRASE-8",
+      "verdict": "CONFIRMED",
+      "notes": "Contiguous 'يا معشر الجن والانس' = exactly {6:130, 55:33}. Bare 'يا معشر الجن' = {6:128, 6:130, 55:33}; 6:128 lacks 'والانس' (reads 'يا معشر الجن قد استكثرتم من الانس'), confirming joint vocative count = 2."
+    }
+  ],
+  "ledger_path": "/Users/azamkhan/the-guided-path/scripts/braintrust-v2/ledgers/verify-PHRASE-1.json"
+}

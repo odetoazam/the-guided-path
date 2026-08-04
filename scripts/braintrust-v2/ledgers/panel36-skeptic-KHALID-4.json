@@ -1,0 +1,39 @@
+{
+  "proposal_id": "KHALID-4",
+  "verdict": "REFUTED",
+  "reviewer": "adversarial-skeptic",
+  "date": "2026-07-21",
+  "verified_facts_that_survive": {
+    "lemma_wadud_count": "CONFIRMED n=2, exactly at 11:90 (loc 11:90:9:1) and 85:14 (loc 85:14:3:2). No hidden third occurrence.",
+    "root_wdd_count": "CONFIRMED root ودد n=29; first 2:96, last 85:14; lemma breakdown ودّ/verb 19, مودة 8, ودود 2. Exhibit's numbers exact.",
+    "scope_discipline": "No silent scope mixing. Thesis correctly isolates the divine-NAME lemma ودود (faʿul intensive) from the ḥubb root and from مودة. 'The Most Loving' as a Name = only ودود. Clean.",
+    "pairing": "CONFIRMED. 11:90 = رحيم ودود (Rahim + Wadud). 85:14 = الغفور الودود (al-Ghafur + al-Wadud). In both, the love-name is paired with a mercy/forgiveness name, and the mercy/forgiveness name precedes it.",
+    "meccan_classification": "CONFIRMED. Hud (11) and al-Buruj (85) both Meccan by standard classification; thesis correctly makes NO chronology claim.",
+    "first_last_bracket": "Trivially true for a 2-occurrence lemma; also 85:14 is simultaneously the last root AND last lemma occurrence. Honest.",
+    "11_90_addressee": "CONFIRMED addressed to sinners. Shuʿayb tells the cheating/mocking people of Madyan (short measure 11:84-85; sarcastic mockery + stoning threat 11:87,91) to seek forgiveness; al-Wadud is held out to the wrongdoers themselves."
+  },
+  "load_bearing_failure": {
+    "claim": "Thesis/title/angle: 'Both Times to People Who Least Deserved to Hear It' — 'both are aimed straight into the wreckage of serious sin' — 'both times the name appears it's being held out to people standing in the wreckage of what THEY did.' This requires 85:14's al-Wadud to be addressed to the PERSECUTORS (the people of the ditch who burned believers).",
+    "refutation": "For 85:14 the dominant classical reading, and AyahGuide's OWN already-published tadabbur, direct al-Wadud at the murdered BELIEVERS (the victims), NOT the perpetrators. content/tadabbur/085-al-buruj/ayahs-012-016.md line 145: 'To the very people who just watched their loved ones burn... to them Allah says: I am al-Wadud.' Line 155 cites al-Muyassar: al-Wadud = love 'for His awliyaʾ... the very believers standing at the trench. The love is aimed... and the direction is them,' and al-Jalalayn (line 109): the severe grip is 'upon those who reject Him... not the faithful.' So in al-Buruj the batsh is aimed at the perpetrators while al-Ghafur/al-Wadud are aimed at the persecuted. The proposal reads it exactly backwards.",
+    "consequence": "The 'exactly twice, BOTH to the worst people' symmetry — the entire hook and the sole basis for the Amina 5/5 ('the most loving name is reserved for people worse off than her / people who did the worst') — collapses on the 85:14 data point. 11:90 IS to sinners; 85:14 is to the most faithful people in the story (martyrs who refused to recant). The parallel is a false symmetry.",
+    "self_contradiction": "Publishing this would directly contradict AyahGuide's existing article on the same verse, creating an internal inconsistency: the site would assert two opposite readings of who al-Wadud in 85:14 is for."
+  },
+  "broken_claims": [
+    "Title/thesis 'Both Times to People Who Least Deserved to Hear It' — false for 85:14, whose al-Wadud is directed at the persecuted believers (the victims), not the persecutors.",
+    "'Both are aimed straight into the wreckage of serious sin' — false symmetry; 85:14 is aimed at those sinned against, not those who sinned.",
+    "Angle 'both times... held out to people standing in the wreckage of what they did' — for 85:14 the audience is the wronged, not the wrongdoers.",
+    "Amina 5/5 persona hook rests entirely on the refuted 'reserved for people who did the worst' symmetry.",
+    "Reading of 85:14 contradicts AyahGuide's own published 085-al-buruj/ayahs-012-016.md and the cited classical glosses (al-Muyassar, al-Jalalayn)."
+  ],
+  "required_corrections": "Salvage requires abandoning the central hook. The only defensible framing is the ASYMMETRIC one: al-Wadud appears exactly twice, both paired with a forgiveness/mercy name, both in the aftermath of grave sin — but once (11:90) the love-name is extended to the PERPETRATORS as an open door back, and once (85:14) it is aimed at the VICTIMS at the site of their suffering. That is a different, weaker thesis than 'both times to the worst people,' and it dissolves the proposal as written. Any version must (a) drop 'both times to people who least deserved to hear it,' (b) not read 85:14's al-Wadud as spoken to the ditch-diggers, and (c) reconcile with the existing al-Buruj article rather than contradict it.",
+  "attack_log": {
+    "recount": "PASS — every count re-derived from scripts/.corpus-cache/quranic-corpus.json; lemma n=2, root n=29 exact.",
+    "scope_shift": "PASS — no silent lemma/root/phrase mixing; name-scope correctly isolated.",
+    "counterexample_exactly_N": "PASS — no third ودود occurrence exists.",
+    "first_last": "PASS — 2:96 first root / 85:14 last root & lemma, verified by mushaf iteration.",
+    "overlap": "PASS — no published Wadud piece; jamil-seven is the acknowledged exactly-N sibling; no overlap with the 6 shipped slugs.",
+    "quran_only": "PASS — payoff is Quran-internal, no hadith dependency.",
+    "hostile_one_tweet": "FAIL (fatal) — 'Your <<both times to the worst people>> hook misreads half your evidence: 85:14's Most Loving is aimed at the murdered believers, not the murderers — al-Muyassar (love for His awliyaʾ) and your own AyahGuide article on al-Buruj say so.' This rebuttal is correct and unanswerable within the proposal's frame.",
+    "interpretive_frame": "FAIL — the 'addressed to grave sinners' reading of 85:14 is not merely one option among equals; it is the minority side, and the house/dominant side is the opposite. Load-bearing."
+  }
+}

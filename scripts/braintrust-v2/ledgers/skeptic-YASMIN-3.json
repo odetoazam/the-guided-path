@@ -1,0 +1,46 @@
+{
+  "proposal_id": "YASMIN-3",
+  "verdict": "SURVIVES",
+  "reviewer": "adversarial-skeptic",
+  "date": "2026-07-20",
+  "checks": {
+    "phrase_full_rabbi_inni_zalamtu_nafsi": {
+      "method": "contiguous token sequence ['رب','اني','ظلمت','نفسي'] over textSimple, all 6236 verses",
+      "result": ["27:44", "28:16"],
+      "status": "CONFIRMED — exactly 2 verses"
+    },
+    "phrase_core_zalamtu_nafsi": {
+      "method": "token sequence ['ظلمت','نفسي'] and loose substring, both over textSimple",
+      "result": ["27:44", "28:16"],
+      "status": "CONFIRMED — same 2 verses only"
+    },
+    "counterexample_hunt_zalamtu": {
+      "method": "loose substring 'ظلمت' -> 5 verses; inspected the other 3",
+      "other_verses": {
+        "2:54": "إنكم ظلمتم أنفسكم — 2nd person plural (Musa to his people, the calf)",
+        "10:54": "لكل نفس ظلمت — 3rd person, 'a soul that wronged'",
+        "43:39": "إذ ظلمتم — 2nd person plural"
+      },
+      "status": "CONFIRMED — none is a first-person singular 'I wronged myself'; 'exactly 2 speakers' is airtight"
+    },
+    "speakers": {
+      "27:44": "قَالَتْ رَبِّ إِنِّى ظَلَمْتُ نَفْسِى وَأَسْلَمْتُ مَعَ سُلَيْمَـٰنَ — the Queen (fem. verb qalat), submitting with Sulayman. CONFIRMED",
+      "28:16": "قَالَ رَبِّ إِنِّى ظَلَمْتُ نَفْسِى فَٱغْفِرْ لِى — Musa; 28:15 = فَوَكَزَهُۥ مُوسَىٰ فَقَضَىٰ عَلَيْهِ (the killing). CONFIRMED"
+    },
+    "distinguishing_verses": {
+      "7:23": "قَالَا رَبَّنَا ظَلَمْنَآ أَنفُسَنَا — dual (Adam + wife). Correctly excluded.",
+      "21:87": "إِنِّى كُنتُ مِنَ ٱلظَّـٰلِمِينَ — Yunus, different phrase. Correctly excluded."
+    },
+    "pagan_grounding": "27:24 وَجَدتُّهَا وَقَوْمَهَا يَسْجُدُونَ لِلشَّمْسِ مِن دُونِ ٱللَّهِ — sun-worship, Quran-grounded (not hadith).",
+    "mushaf_order": "27:44 (index 3202) precedes 28:16 (index 3267). CONFIRMED.",
+    "quran_only": "Payoff rests entirely on 27:44, 28:16, 27:24, 28:15 — no hadith dependency.",
+    "overlap": "Published corpus has zulm-al-nafs (concept) and 3 Bilqis pieces + many Musa pieces, but none makes this phrase-exact speaker-pairing. Adjacent, not duplicate."
+  },
+  "broken_claims": [],
+  "soft_spots": [
+    "Name 'Bilqis' is extra-Quranic (tafsir tradition), not in the Quran. Thesis body correctly says 'Queen of Sheba'; the exhibit uses 'Bilqis'. Page should say 'Queen of Sheba' or flag the name as traditional.",
+    "'Pagan Queen' is Quran-grounded via 27:24 (sun-worship) but at the moment of the utterance she is mid-submission ('wa aslamtu ma'a Sulayman'). Frame it as her prior identity, not her state at the confession.",
+    "Historical/narrative time reverses mushaf order (Musa's killing predates Sulayman's era by centuries). Keep framing scoped to 'in mushaf order' as written; do not imply the Queen's confession is historically first."
+  ],
+  "notes": "All counts re-derived independently. Full phrase and 2-word core each appear in exactly 2 verses (27:44, 28:16); the three other 'ظلمت' verses are 2nd/3rd-person and not counterexamples. Speakers, killing context (28:15), pagan context (27:24), distinguishing verses (7:23, 21:87), and mushaf order all verified. Note: textSimple normalizes نفسى -> نفسي; using textSimple (as the exhibit prescribes) is the correct scope. No load-bearing failure. SURVIVES."
+}

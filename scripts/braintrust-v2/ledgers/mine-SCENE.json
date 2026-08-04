@@ -1,0 +1,102 @@
+[
+  {
+    "id": "SCENE-1",
+    "title_idea": "One Rock, Two Water Words: The Quran Told Musa's Spring Twice — and Used a Word It Never Reuses",
+    "claim": "The same scene — Musa strikes a rock and twelve springs appear — is told in exactly two verses that share the identical command 'idrib bi 'asaka al-hajar' (strike the rock with your staff). The first telling in mushaf order (2:60, al-Baqarah) says the water 'fanfajarat' (burst/gushed, root ف-ج-ر, which occurs in 21 verses). The second telling (7:160, al-A'raf) swaps in 'fanbajasat' (trickled/began to seep, root ب-ج-س) — a hapax that appears in exactly 1 verse in the whole Quran (7:160 only). Same rock, same staff, same twelve springs; one word for a gush, one word — used nowhere else — for a trickle.",
+    "evidence": "Exact phrase sweep of textSimple for 'اضرب بعصاك الحجر' returns exactly {2:60, 7:160}. Root ف-ج-ر present in 21 verses; root ب-ج-س present in exactly 1 verse {7:160} (hapax). Both verses continue identically: 'minhu ithnata 'ashrata 'aynan' (twelve springs from it).",
+    "refs": ["2:60", "7:160"],
+    "verify_method": "Load node_modules/quran-validator/data/quran-verses.json; count textSimple containing 'اضرب بعصاك الحجر' (=2). In scripts/.corpus-cache/quranic-corpus.json count keys with any segment root=='فجر' (=21) and root=='بجس' (=1, only 7:160). Confirm 'اثنتا عشرة عينا' in both.",
+    "overlap_note": "Nearest published is /posts/musa-sea-that-split (the SEA splitting, 26:63) and /posts/musa-staff-and-sea (the staff as object) — neither touches the ROCK-spring scene or its two water verbs. Verified pool RAREADJ-2 is God 'opening' hearts, unrelated. None.",
+    "angle": "Readers who recite these two verses assume they're the same sentence. They're not: God narrated His own miracle twice and changed the verb from 'burst' to a word He uses exactly once in the entire Book. Classical grammarians read it as one telling emphasizing power, the other restraint — and the reader can check the hapax themselves in one line of code."
+  },
+  {
+    "id": "SCENE-2",
+    "title_idea": "Same Sentence to the Angels, Different Verb: 'I Am Placing' vs 'I Am Creating'",
+    "claim": "God's announcement to the angels opens with the identical frame 'qala rabbuka lil-mala'ikati inni...' (your Lord said to the angels: I am...) in exactly 3 verses. In 2:30 (al-Baqarah) the predicate is 'ja'ilun fi al-ardi khalifah' — I am PLACING a vicegerent on earth (root ج-ع-ل, appoint/place). In 15:28 (al-Hijr) and 38:71 (Sad) the predicate is 'khaliqun basharan' — I am CREATING a human (root خ-ل-ق). Same speaker, same audience, same opening seven words; one telling frames the human as a governing office (khalifah), the other as a fashioned body (bashar). Bonus fork: the two 'creating' tellings even differ on the clay — 'salsal min hama' masnun' (15:28) vs plain 'tin' (38:71).",
+    "evidence": "Sweep of textSimple for 'للملايكة اني' returns exactly {2:30, 15:28, 38:71}. Roots: 2:30 has ج-ع-ل (ja'il) + خ-ل-ف (khalifah); 15:28 and 38:71 both have خ-ل-ق (khaliq) + ب-ش-ر (bashar). Substance words: صلصل/حمأ (15:28) vs طين (38:71).",
+    "refs": ["2:30", "15:28", "38:71"],
+    "verify_method": "Sweep quran-verses textSimple for 'للملايكة اني' (=3 hits). For each key, list segment roots from the corpus and confirm جعل+خلف in 2:30 vs خلق+بشر in 15:28 and 38:71.",
+    "overlap_note": "Published Adam pieces (/posts/the-naming-that-changed-everything, /posts/the-first-descent) treat the angels' prostration and Adam's naming, not the ja'il/khaliq predicate fork. No verified-pool insight touches جعل vs خلق here. None.",
+    "angle": "The Quran describes the making of humanity twice in the same breath and picks a different verb each time — appoint vs fashion. It's the theological difference between what a human is FOR (a khalifah, a trustee) and what a human is MADE OF (bashar, clay), stated by God to the same audience, and you can line the two sentences up word-for-word."
+  },
+  {
+    "id": "SCENE-3",
+    "title_idea": "Musa's Staff Becomes Three Different Snakes — and the Word Depends on Who's Watching",
+    "claim": "Musa's staff turns into a snake in the Quran, but the Quran never settles on one word for it. In Pharaoh's public court it is a 'thu'ban mubin' — a clear/large serpent (root ث-ع-ب, which appears in exactly 2 verses: 7:107 and 26:32). At the private valley of Tuwa it is a 'hayyah tas'a' — a snake that glides (20:20). At the first commissioning by the fire it is 'ka'annaha jann' — as if it were a jann, a small darting snake (27:10, 28:31). Three different creatures for one staff: the grand serpent for the throne-room showdown; the small, fast snake for the intimate moment where Musa turns and flees in fear.",
+    "evidence": "Root ث-ع-ب (thu'ban) occurs in exactly 2 verses {7:107, 26:32} — both the Pharaoh-court scene ('fa-alqa 'asahu fa-idha hiya thu'ban mubin', identical wording). 'حية' (hayyah) at 20:20 (Tuwa). 'جان' (jann, root ج-ن-ن) at 27:10 and 28:31, both with 'walla mudbiran wa lam yu'aqqib' (he turned in flight) and the reassurance 'la takhaf'. The court verses carry no fear; the private ones do.",
+    "refs": ["7:107", "26:32", "20:20", "27:10", "28:31"],
+    "verify_method": "Corpus: root ث-ع-ب appears only in {7:107,26:32}; textSimple of both is identical. Check 20:20 word 'حية'; 27:10 and 28:31 word 'جان' + presence of خوف/'la takhaf'. Confirm 7:107/26:32 lack any خوف segment.",
+    "overlap_note": "/posts/musa-staff-and-sea treats the staff as one of 'two objects', not the three-snake vocabulary; /posts/musa-fire-three-tellings is the fire-fetch (roots covered by verified GRAPH-3), not the snake. The snake-word fork is untouched. None.",
+    "angle": "The scariest snake in the story is the smallest word. In front of Pharaoh the staff is a huge 'thu'ban' and Musa is calm; alone with God it's a tiny darting 'jann' and Musa runs. The Quran sizes the snake to the moment, not to the reptile — and the whole claim is one root-count away from proof."
+  },
+  {
+    "id": "SCENE-4",
+    "title_idea": "How Shaytan Reached Adam: 'Made Them Slip' in One Telling, 'Whispered' in Two Others",
+    "claim": "The temptation of Adam is told three times with a forked verb for what Shaytan actually did. Al-Baqarah 2:36 says 'fa-azallahuma al-shaytanu' — Satan made the two of them SLIP (root ز-ل-ل; in the Adam scene it appears only at 2:36). Al-A'raf 7:20 and Ta-Ha 20:120 both say 'fa-waswasa... al-shaytanu' — Satan WHISPERED (root و-س-و-س). One telling names the outcome (a slip/fall), the others name the method (a whisper). A second fork rides on top: 7:20 whispers 'lahuma' (to the two of them, plural) while 20:120 whispers 'ilayhi' (to him, singular Adam).",
+    "evidence": "Root ز-ل-ل appears in 4 verses total {2:36, 2:209, 3:155, 16:94}; only 2:36 is the Adam-fall scene. Root و-س-و-س appears in 5 verses {7:20, 20:120, 50:16, 114:4, 114:5}; the two in the Adam scene are 7:20 and 20:120. Pronoun object: 7:20 'لهما' (dual/both), 20:120 'اليه' (singular).",
+    "refs": ["2:36", "7:20", "20:120"],
+    "verify_method": "Corpus root ز-ل-ل -> {2:36,2:209,3:155,16:94}; root و-س-و-س -> {7:20,20:120,50:16,114:4,114:5}. Confirm 2:36 begins فازلهما, 7:20 فوسوس لهما, 20:120 فوسوس اليه.",
+    "overlap_note": "/posts/footsteps-of-shaytan and /posts/weapons-against-waswasa discuss waswasa as a general theme; neither pairs it against 'azalla' in the Adam scene or notes the lahuma/ilayhi pronoun shift. Differentiated: this is the same-scene verb fork, not a waswasa survey. None on the fork itself.",
+    "angle": "Two ways to describe the first sin: what it did to you (you slipped) and how it got in (a whisper). The Quran uses both, in different surahs, for the same moment — and even changes whether the whisper is aimed at both spouses or at Adam alone. It's a lesson in temptation delivered through one changed verb."
+  },
+  {
+    "id": "SCENE-5",
+    "title_idea": "A Mother Puts Her Baby in the River: the Quran's Word for It Is Usually Reserved for Hurling",
+    "claim": "God's command to Musa's mother to set her infant on the water is told twice with a forked verb. In Ta-Ha 20:39 it is 'iqdhifihi fi al-tabut faqdhifihi fi al-yamm' — HURL him into the chest, then HURL it into the sea (root ق-ذ-ف, used twice; elsewhere this root means hurling truth at falsehood, casting terror, being pelted). In al-Qasas 28:7 it softens to 'alqihi fi al-yamm' — CAST/lay him on the sea (root ل-ق-ي), immediately followed by 'wa la takhafi wa la tahzani' (do not fear, do not grieve). Same command to the same mother; one telling uses a forceful throw-verb (twice), the other a gentler placing-verb wrapped in reassurance.",
+    "evidence": "Root ق-ذ-ف appears in 8 verses {20:39, 20:87, 21:18, 33:26, 34:48, 34:53, 37:8, 59:2}; only 20:39 is the mother's command, where it occurs twice in one verse. 28:7 uses ل-ق-ي ('alqihi') and adds 'ولا تخافي ولا تحزني'. 20:39 has no such reassurance clause.",
+    "refs": ["20:39", "28:7"],
+    "verify_method": "Corpus root ق-ذ-ف -> 8 verses incl. 20:39 (two segments). textSimple 20:39 contains 'اقذفيه' twice; 28:7 contains 'فالقيه' + 'ولا تخافي ولا تحزني'.",
+    "overlap_note": "/posts/maryam-umm-musa-two-commands pairs Umm Musa with Maryam (cross-character). This is the within-Umm-Musa verb fork across surahs (qadhafa vs alqa) — a different mechanism. Differentiated.",
+    "angle": "The Quran describes a mother's most terrified, tender act with the same violent verb it uses for hurling a spear of truth or casting terror into enemies. Then, in the other telling, it gentles the verb and adds 'don't be afraid.' Two words for one river, and they hold the whole emotional split of the scene."
+  },
+  {
+    "id": "SCENE-6",
+    "title_idea": "Ibrahim's Wife Hears She'll Have a Child: She 'Laughs' in One Surah, 'Strikes Her Face' in Another",
+    "claim": "When the angels tell Ibrahim's wife she will bear a son, the Quran gives her two different reactions in two tellings. In Hud 11:71 'fa-dahikat' — she laughed (root ض-ح-ك). In adh-Dhariyat 51:29 'fa-aqbalat... fi sarratin fa-sakkat wajhaha' — she came forward in a clamor and STRUCK her own face (root ص-ك-ك, a hapax appearing in exactly 1 verse in the whole Quran, 51:29), calling herself 'a barren old woman'. Same annunciation, same woman; one telling records a laugh, the other a startled cry and a slap of disbelief — and the slap-word is used nowhere else.",
+    "evidence": "Root ض-ح-ك at 11:71 ('فضحكت'). 51:29: 'صرة' (root ص-ر-ر, clamor; that root in 6 verses) + 'صكت' (root ص-ك-ك, hapax = exactly 1 verse {51:29}) + 'عجوز عقيم' (barren old woman). Both verses are the same guests-of-Ibrahim annunciation.",
+    "refs": ["11:71", "51:29"],
+    "verify_method": "Corpus: root ص-ك-ك -> exactly {51:29}; root ض-ح-ك present at 11:71. Confirm 51:29 textSimple 'فصكت وجهها' and 'عجوز عقيم'; confirm both verses sit in the Ibrahim-guests annunciation.",
+    "overlap_note": "Verified RAREADJ-4 uses the adjacent verse 51:28 (the guests' 'la takhaf' to Ibrahim) but its mechanism is the shared reassurance across three prophets — not the wife's reaction. No published article covers Sarah's dahikat/sakkat fork. None on this fork.",
+    "angle": "Two halves of the same shock, split across two surahs: the quiet laugh and the hands-to-the-face 'you must be joking.' The Quran captures both, and reserves a word it never uses again for the moment an old woman slapped her own cheek at impossible news."
+  },
+  {
+    "id": "SCENE-7",
+    "title_idea": "'Strike With Your Staff' — Said Three Times, Once to a Sea and Twice to a Rock, With Opposite Results",
+    "claim": "The exact command 'idrib bi 'asaka' (strike with your staff) appears in exactly 3 verses. Twice the object is a rock and the result is water: 2:60 and 7:160, '...al-hajar' -> twelve springs. Once the object is the sea and the result is dry land: 26:63, '...al-bahr fa-nfalaqa' -> the sea split into two walls like mountains. One gesture, two mirror-image miracles: strike solid stone and it opens into water; strike open water and it opens into a path of solid ground. The result-verb forks too — 'infalaqa' (split, of the sea) vs 'infajarat/inbajasat' (burst, of the rock).",
+    "evidence": "textSimple sweep for 'اضرب بعصاك' returns exactly {2:60, 7:160, 26:63}. Objects: الحجر (2:60, 7:160), البحر (26:63). Results: فانفلق (root ف-ل-ق, sea, 26:63); فانفجرت/فانبجست (roots فجر/بجس, rock, 2:60/7:160). 26:63 continues 'kalttawdi al-'azim' (like the great mountain).",
+    "refs": ["2:60", "7:160", "26:63"],
+    "verify_method": "Sweep quran-verses textSimple for 'اضرب بعصاك' (=3). Confirm object word (الحجر vs البحر) and result root (فلق for 26:63; فجر/بجس for the two rock verses).",
+    "overlap_note": "/posts/musa-sea-that-split and /posts/musa-staff-and-sea treat the sea and the staff thematically; neither builds the rock/sea mirror off the single shared imperative 'idrib bi 'asaka'. SCENE-1 (this batch) is the rock's two water-verbs; SCENE-7 is the command-and-object mirror. Differentiated.",
+    "angle": "The same three words in Musa's hand do opposite things depending on what he aims at: water where there was stone, dry land where there was water. The Quran repeats the command exactly and lets the object flip the miracle — a symmetry you only see when you line up all three verses."
+  },
+  {
+    "id": "SCENE-8",
+    "title_idea": "Every Son the Angels Announce to Ibrahim Gets an Adjective — 'Forbearing' for One, 'Knowing' for the Other",
+    "claim": "The Quran announces a son with the phrase 'bi ghulam' (with a boy) in exactly 4 verses. Two describe the son the guests bring word of to Ibrahim as 'ghulam 'alim' — a KNOWING boy (15:53 and 51:28). One describes the son Ibrahim is later told to sacrifice as 'ghulam halim' — a FORBEARING boy (37:101). The remaining case, Yahya (19:7), gets a name instead of an adjective ('ismuhu Yahya'). The adjective forks to fit the son's defining act: the sacrifice-son is called 'forbearing' — the exact trait he shows moments later when he answers 'you will find me, God willing, among the patient'.",
+    "evidence": "Sweep 'بغلام' returns exactly {15:53, 19:7, 37:101, 51:28}. Adjectives: عليم (root ع-ل-م) at 15:53 and 51:28; حليم (root ح-ل-م) at 37:101; 19:7 has اسمه يحيى (a name, no adjective). 37:102 has the son's reply 'ستجدني ان شاء الله من الصابرين'.",
+    "refs": ["15:53", "51:28", "37:101", "19:7"],
+    "verify_method": "Sweep quran-verses textSimple for 'بغلام' (=4). Read the following word: عليم/حليم/اسمه. Confirm 37:102 contains الصابرين (patience) directly after the halim announcement.",
+    "overlap_note": "Annunciation space is crowded: /posts/verb-fork-zakariyya-maryam (kun vs wahaba), /posts/yahya-and-isa-two-births, and verified RAREADJ-4 (la takhaf across three) all live nearby. None of them isolate the ghulam ADJECTIVE fork (halim vs 'alim) or tie halim to the sacrifice-son's patience. Medium overlap — differentiated on the adjective.",
+    "angle": "The Quran labels the boy before you meet him, and the label is a spoiler: the son called 'forbearing' is the one who will lie down for the knife and say 'you'll find me patient.' One word chosen four verses early tells you who he'll turn out to be."
+  },
+  {
+    "id": "SCENE-9",
+    "title_idea": "The Magicians Just Believed in 'the Lord of Musa and Harun' — Except in One Surah, Where They Say 'Harun and Musa'",
+    "claim": "When Pharaoh's magicians fall in belief, they name the God of two brothers. In al-A'raf 7:122 and ash-Shu'ara 26:48 the order is 'rabbi Musa wa Harun' — the Lord of Musa and Harun. In Ta-Ha 20:70 alone the order flips: 'rabbi Harun wa Musa' — the Lord of Harun and Musa, with the younger-in-mention brother placed first. The same credo, reordered in exactly one of its three tellings — and the flip lands on the verse-final word that carries the surah's rhyme (Ta-Ha's ayahs cadence on the long-a sound of 'Musa').",
+    "evidence": "Sweep 'امنا برب' returns the magicians' declarations at 7:121 (+7:122 'رب موسى وهارون'), 20:70 ('امنا برب هارون وموسى'), 26:47 (+26:48 'رب موسى وهارون'). Order is Musa-then-Harun in 7:122 and 26:48; Harun-then-Musa only in 20:70. Verse-final word of 20:70 is 'موسى' (long-a), matching Ta-Ha's rhyme scheme.",
+    "refs": ["20:70", "7:122", "26:48"],
+    "verify_method": "Sweep textSimple for 'امنا برب' (magicians' verses). Compare word order 'موسى وهارون' (7:122, 26:48) vs 'هارون وموسى' (20:70). Note 20:70 ends on موسى.",
+    "overlap_note": "No published article or verified-pool insight addresses the name-order flip in the magicians' declaration. None.",
+    "angle": "Even a two-word confession of faith gets re-sequenced to fit the music of the surah it lives in. The Quran will reorder the names of two prophets — putting the older brother second — so the sentence lands on the right sound. It's a tiny, checkable window into how sound shapes the text."
+  },
+  {
+    "id": "SCENE-10",
+    "title_idea": "One Nation, Four Deaths: The Quran Describes the End of Thamud With a Different Word Every Time",
+    "claim": "Thamud, the people who carved the mountains, are destroyed once in history but named four different ways in the Quran. Al-A'raf 7:78: 'al-rajfah' — the QUAKE (root ر-ج-ف). Al-Qamar 54:31: 'sayhatan wahidah' — a single CRY/blast (root ص-ي-ح). Fussilat 41:17: 'sa'iqat al-'adhab' — the THUNDERBOLT of punishment (root ص-ع-ق). Al-Haqqah 69:5: 'uhliku bi al-taghiyah' — destroyed by the OVERWHELMING event (root ط-غ-ي). Same nation, same end, four distinct nouns — earth-shudder, sound-blast, sky-fire, and sheer excess — each fitted to the surah that carries it.",
+    "evidence": "Thamud's destruction verses: 7:78 root ر-ج-ف; 54:31 root ص-ي-ح ('صيحة واحدة'); 41:17 root ص-ع-ق ('صاعقة العذاب'; cf. 41:13 'صاعقة عاد وثمود'); 69:5 root ط-غ-ي ('بالطاغية'). Four different destruction-nouns across four surahs for one people.",
+    "refs": ["7:78", "54:31", "41:17", "69:5"],
+    "verify_method": "For each verse confirm the destruction noun's root: 7:78=رجف, 54:31=صيح, 41:17=صعق, 69:5=طغي. Confirm each verse's context names Thamud (7:73-79, 54:23, 41:17, 69:4-5).",
+    "overlap_note": "Verified RAREADJ-11 groups 7:78/7:91/11:67/11:94/29:37 by their SHARED tail 'fa-asbahu fi diyarihim jathimin' (sameness). SCENE-10 is the opposite mechanism — the DIVERGENT head-noun for one nation across surahs — and draws mainly on verses RAREADJ-11 does not use (54:31, 41:17, 69:5). Shares only 7:78. Differentiated on mechanism; flagged.",
+    "angle": "History gave Thamud one ending; the Quran gives it four names, and each surah reaches for the word that fits its own register — quake, cry, thunderbolt, overwhelmer. Same event, four camera angles, and you can pull all four verses and watch the noun change."
+  }
+]

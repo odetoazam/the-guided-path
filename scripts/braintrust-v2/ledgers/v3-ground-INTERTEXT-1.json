@@ -1,0 +1,31 @@
+{
+  "verifier": "GROUNDING v3",
+  "date": "2026-07-21",
+  "batch": "INTERTEXT-1",
+  "results": [
+    {
+      "id": "INTERTEXT-5",
+      "verdict": "CONFIRMED",
+      "notes": "Substrate mechanically verified: 19:30 first predicate after qala is 'inni ABDU-llah' (abd, ROOT عبد, NOM) before any other title; then aataa-niya (3MS PERF + 1S suffix), ja'ala-ni nabiyyan (3MS + 1S), 19:31 ja'ala-ni mubaarakan (3MS + 1S; mubaarak is itself a PASS_PCPL — even 'blessed' is passive in form), awsaa-ni (3MS + 1S). First-person verbs across 19:30-33 are all non-power: kuntu/dumtu (stative), wulidtu (PASS), amootu (dying, not power), ub'athu (PASS). 'No active verb of power' holds as guarded; avoid the looser 'recipient throughout' phrasing since amootu is formally active. Classical grounding confirmed: al-Tabari 'mutakalliman an ummihi' (speaking in defense of his mother); al-Muyassar/al-Jalalayn render abd Allah plainly; abd-first as anti-exaltation is standard in tafsir of the passage (19:35 seals it in context). Word-order-as-sequenced-argument is a light modern layer on classically-noticed content — keep the comparative Christology paragraph flagged and minimal as promised. Editor should do the adjacency check against the two flagged Isa articles; focus (cradle-speech word order) is distinct.",
+      "corrected": null
+    },
+    {
+      "id": "INTERTEXT-6",
+      "verdict": "NEEDS_HEDGE",
+      "notes": "Substrate all verified: 5:28 basatta (2MS PERF), li-taqtula-ni (2MS SUBJ), maa ana bi-baasitin (negated ACT_PCPL — the refusal is nominal, an identity statement), li-aqtula-ka (1S SUBJ inside the negation), akhaafu (1S IMPF). 5:31 crow yabhathu fil-ard + min al-naadimeen confirmed. 5:32 ka-annamaa qatala n-naasa jamee'aa confirmed, consecutive text. Classical grounding strong: al-Muyassar explicitly 'wa qaala Haabeelu WAA'IZAN akhaahu' (admonishing) — the maw'iza reading is recovered tafsir; al-Jalalayn narrates the crow and cites Ibn Abbas on 5:32 sanctity logic. Genesis 4 divergence factually right (Abel never speaks — only his blood cries out; curse and mark on Cain; no crow; no one-soul law). TWO HEDGES REQUIRED: (1) never quote 5:32 with the qualifier elided — the text is 'man qatala nafsan BI-GHAYRI NAFSIN AW FASAADIN FIL-ARD'; 5:32 is a known adversarial-quotation target and AyahGuide's contested-verse standard demands the full clause; (2) the decree is 'kutibnaa alaa BANEE ISRAA'EEL' — present the universalization as the tradition's reading of the story's logic (Ibn Abbas via al-Jalalayn, al-Muyassar's hurma reasoning), not as if the address were to all mankind.",
+      "corrected": "Keep the reveal but fix two framings: quote 5:32 in full ('whoever kills a soul — other than for a soul, or for corruption in the land — it is as if he killed all mankind'), and say the decree is written 'upon the Children of Israel,' with the classical tradition reading its logic — the sanctity of one life is the sanctity of all — as the universal point."
+    },
+    {
+      "id": "INTERTEXT-7",
+      "verdict": "CONFIRMED",
+      "notes": "Substrate mechanically verified: 2:31 'wa ALLAMA Aadama l-asmaa'a kullahaa' — allama is PERF VF:2 (Form II causative) 3MS, God subject, Adam object; the God->Adam direction is in the morphology exactly as claimed. 2:32 'illaa maa allamta-naa' (2MS + 1P — angels confirm the same direction). 2:33 anbi'hum (IMPV 2MS) — Adam displays received knowledge on command. Classical grounding confirmed verbatim: al-Jalalayn 'bi-an alqaa fee qalbihi ilmahaa' (He cast its knowledge into his heart); al-Muyassar 'wa bayaanan li-fadli Aadam... allamahu llaahu.' Genesis 2:19-20 (Adam names the creatures himself; 'whatever the man called each living creature, that was its name') is the correct comparative text, flagged as the modern layer. The directional-reversal reading is genuinely in the grammar, not imposed. No site overlap on 2:31-33. Clean.",
+      "corrected": null
+    },
+    {
+      "id": "INTERTEXT-8",
+      "verdict": "NEEDS_HEDGE",
+      "notes": "Substrate all verified: 26:46 fa-ULQIYA s-saharatu saajideen (PERF VF:4 PASS 3MS — thrown down, passive, exactly as claimed); 26:47 aamannaa (1P); 26:48 rabbi Moosaa wa Haaroon; 26:49 la-usallibanna-kum ajma'een (energetic-nun crucifixion threat); 26:50 laa dayra innaa ilaa rabbinaa munqaliboon; 20:72 fa-qdi maa anta qaadin (IMPV 2MS — defiant imperative to Pharaoh). Tafsir grounding confirmed: al-Muyassar on 26:46 'aamanoo billaahi wa sajadoo lahu'; al-Tabari carries the threat verbatim; al-Jalalayn on 26:50 'laa darara alaynaa.' Exodus divergence essentially right (magicians replicate then fail, concede 'finger of God' at the gnats, Ex 8:19; never convert, never suffer). TWO HEDGES: (1) SEQUENCE — the title's 'they say it KNOWING he's about to crucify them' is wrong for the first declaration: the creed (26:47-48) PRECEDES the threat (26:49); what follows the threat is refusal to retract (26:50, 20:72). Belief first, sentence second, steadfastness third — actually the stronger arc. (2) 'first martyrs' — the Quranic text never narrates their execution; that is narration-level (the Ibn Abbas athar 'sorcerers at dawn, martyrs by dusk'), so attribute it to the narration or soften. 'First believers' is safe — their own words in 26:51 (an kunnaa awwala l-mu'mineen). Partial adjacency to 'Afrigh Pour Patience' honestly flagged; the Exodus-divergence angle is distinct.",
+      "corrected": "Title/arc fix: 'Pharaoh's Magicians Believe Before He Can Threaten Them — and When the Sentence Is Crucifixion, They Don't Take It Back.' Body: creed (26:47-48) comes before the threat (26:49); the post-threat lines (26:50, 20:72) are refusal to retract. Present their death as narration-based (Ibn Abbas athar), not Quranic narrative, or soften 'first martyrs' to 'the first to put their lives behind their faith.'"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "lessons": [
+    {
+      "date": "2026-05-01",
+      "type": "error",
+      "topic": "shareNow mode fails for video Reels",
+      "detail": "Buffer's mode:'shareNow' for Instagram Reels causes a media container error. Instagram's API requires async video processing time before publishing.",
+      "fix": "Use mode:'customScheduled' with dueAt at least 30 minutes in the future. Never use shareNow for video content."
+    },
+    {
+      "date": "2026-05-04",
+      "type": "fix",
+      "topic": "Buffer video publishing fixed — account was personal, not Professional",
+      "detail": "All video Reel failures traced to @ayahguideus being a personal Instagram account. Instagram's Content Publishing API requires Professional (Business/Creator) account for video. Buffer showed 'Instagram Professional Account' but refresh revealed it was personal. Fix: switched account to Business in Instagram settings, then did Refresh Connection in Buffer Channels. Video publishing now confirmed working (PostActionSuccess).",
+      "fix": "Connection refreshed 2026-05-04. Video Reels now publish via Buffer API. No more manual posting needed."
+    },
+    {
+      "date": "2026-05-01",
+      "type": "error",
+      "topic": "H.264 High profile rejected by Instagram Reels",
+      "detail": "HyperFrames default render uses H.264 High profile level 4.0, which Instagram's container API rejects with 'Unable to get media container status from Instagram: ERROR: ERROR'. Failed twice on word-for-human (10:39 PM ET 4/30 and 10:52 AM ET 5/1) before fix.",
+      "fix": "ALWAYS re-encode HyperFrames MP4 output before uploading to Buffer. Use ffmpeg with: -profile:v main -level 4.0 -preset slow -crf 21 -pix_fmt yuv420p -movflags +faststart -c:a aac -b:a 128k -ar 48000",
+      "impact": "Two failed publish attempts on word-for-human"
+    },
+    {
+      "date": "2026-05-01",
+      "type": "best-practice",
+      "topic": "Font sizes too small in carousel inner slides + reel labels",
+      "detail": "User feedback: inner carousel slides had 11-27px font sizes, illegible at Instagram display scale. Reels had 22-26px secondary text, also too small (Instagram displays at ~2.7x reduction).",
+      "fix": "Carousel minimum body 30px, headers 50px, labels 22px. Reels minimum 36px for any readable text. Bumped all 4 scheduled posts on 5/1 — ran sed across all three reel HTML files plus targeted edits across slides.ts."
+    },
+    {
+      "date": "2026-05-13",
+      "type": "fix",
+      "topic": "Instagram carousel type must be post, not carousel",
+      "detail": "Buffer rejected instagram type:carousel — valid types are post, story, reel. Carousels with multiple images use type:post.",
+      "fix": "Changed metadata.instagram.type from carousel to post in scripts/post.ts"
+    },
+    {
+      "date": "2026-06-01",
+      "type": "error",
+      "topic": "BREAKING: Buffer changed assets schema — broke BOTH post.ts and post-reel.ts",
+      "detail": "Buffer's CreatePostInput.assets is now [AssetInput!]! — a LIST of typed wrappers, each one { image | video | document | link }. The old object forms { videos: [{url,thumbnailUrl}] } (reels) and { images: [{url}] } (carousels) are REMOVED. Reels failed with 'Field \"videos\" is not defined by type \"AssetInput\"'. This silent break likely contributed to the late-May publishing gap. Introspected the live schema to confirm: VideoAssetInput={url!,thumbnailUrl,metadata}; ImageAssetInput={url!,thumbnailUrl,metadata}; metadata.instagram=InstagramPostMetadataInput{type:PostType!, shouldShareToFeed:Boolean!}; PostType enum includes reel,post,story,carousel.",
+      "fix": "post-reel.ts: assets: [{ video: { url, thumbnailUrl } }]. post.ts: assets: imageUrls.map(url => ({ image: { url } })). Both fixed + verified scheduling live on 2026-06-01. To re-introspect later: query { __type(name:\"AssetInput\"){inputFields{name}} } with the Buffer bearer token."
+    }
+  ],
+  "what_works": {
+    "video_specs": {
+      "codec": "H.264 MAIN profile, level 4.0 (NOT High — High is rejected by IG container API)",
+      "reencode_cmd": "ffmpeg -i in.mp4 -c:v libx264 -profile:v main -level 4.0 -preset slow -crf 21 -pix_fmt yuv420p -movflags +faststart -c:a aac -b:a 128k -ar 48000 -y out_ig.mp4",
+      "audio": "AAC LC, 48000 Hz",
+      "resolution": "1080x1920 (9:16 portrait)",
+      "fps": 30,
+      "min_lead_time_minutes": 30,
+      "confirmed_working": true,
+      "confirmed_date": "2026-06-01 (nafs-self + ar-rahman-sequence scheduled successfully)"
+    },
+    "carousel_specs": {
+      "format": "PNG",
+      "resolution": "1080x1080",
+      "confirmed_working": true,
+      "note": "Multiple successful posts via post.ts"
+    },
+    "buffer_api": {
+      "assets_shape": "assets is [AssetInput!]! — a LIST of typed wrappers. Reel: [{ video: { url, thumbnailUrl } }]. Carousel: [{ image: { url } }, ...]. (Updated 2026-06-01; old { videos:[...] } / { images:[...] } object forms REMOVED by Buffer.)",
+      "reel_mode": "metadata.instagram = { type: 'reel', shouldShareToFeed: true }",
+      "carousel_mode": "metadata.instagram = { type: 'post', shouldShareToFeed: true }; multiple image assets render as a carousel",
+      "share_now_for_images": "untested",
+      "share_now_for_video": "DO NOT USE — causes container error; use customScheduled with dueAt >= 30min out"
+    }
+  },
+  "performance_log": [],
+  "todo": [
+    "Add retry logic to post-reel.ts — poll post status after scheduling, alert if error",
+    "Add Buffer analytics fetch to pull reach/saves 48h after each post",
+    "Wire analytics into reel-queue.json performance_log",
+    "Update /cofounder skill to read publisher-memory.json and performance_log"
+  ]
+}

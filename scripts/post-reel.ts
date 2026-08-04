@@ -59,6 +59,8 @@ async function bufferPostReel(
       createPost(input: $input) {
         __typename
         ... on UnexpectedError { message }
+        ... on InvalidInputError { message }
+        ... on LimitReachedError { message }
       }
     }
   `;
@@ -68,13 +70,17 @@ async function bufferPostReel(
     text: caption,
     schedulingType: 'automatic',
     mode: shareNow ? 'shareNow' : 'customScheduled',
-    // Buffer schema (2026-06): assets is [AssetInput!]!, each a typed wrapper.
-    // Video reels use { video: { url, thumbnailUrl } } — NOT the old { videos: [...] }.
+    // Buffer schema (2026-07): assets is [AssetInput!]!, each a typed wrapper.
+    // Video reels use { video: { url, metadata: { thumbnailOffset } } }.
+    // NOTE: video.thumbnailUrl was REMOVED by Buffer — social networks don't accept
+    // custom thumbnail images, so it now hard-rejects with InvalidInputError. Pick the
+    // cover frame via thumbnailOffset (ms into the video) instead. 2400ms matches the
+    // ffmpeg `-ss 2.4` cover-frame convention used elsewhere in this pipeline.
     assets: [
       {
         video: {
           url: videoUrl,
-          thumbnailUrl,
+          metadata: { thumbnailOffset: 2400 },
         },
       },
     ],
@@ -153,12 +159,16 @@ async function main(): Promise<void> {
     process.exit(1);
   }
 
-  // Find the latest render
+  // Find the latest render — prefer _ig.mp4 (IG-re-encoded) over _raw.mp4
   const rendersDir = path.join(reelDir, 'renders');
-  const mp4Files = fs.readdirSync(rendersDir)
-    .filter(f => f.endsWith('.mp4'))
-    .sort()
-    .reverse();
+  const allMp4s = fs.readdirSync(rendersDir).filter(f => f.endsWith('.mp4'));
+  const igFiles = allMp4s.filter(f => f.includes('_ig') || f.includes('-ig'));
+  // Pick the NEWEST render by mtime, not by filename sort — otherwise a stale
+  // `name_ig.mp4` (old underscore convention) can outrank a newer `name-ig.mp4`.
+  const mp4Files = (igFiles.length > 0 ? igFiles : allMp4s)
+    .sort((a, b) =>
+      fs.statSync(path.join(rendersDir, b)).mtimeMs -
+      fs.statSync(path.join(rendersDir, a)).mtimeMs);
 
   if (mp4Files.length === 0) {
     console.error(`No MP4 renders found in exports/video/${name}/renders/`);

@@ -1,0 +1,70 @@
+{
+  "proposal_id": "HASAN-2",
+  "role": "adversarial-skeptic",
+  "verdict": "SURVIVES",
+  "attacked_on": "2026-07-21",
+  "corpus": "scripts/.corpus-cache/quranic-corpus.json + node_modules/quran-validator/data/quran-verses.json",
+  "core_claim_status": "CONFIRMED",
+  "rederived_counts": {
+    "root_wdd_ودد_tokens": 29,
+    "name_form_lemma_wadud_وَدُود_tokens": 2,
+    "name_form_locations": ["11:90", "85:14"],
+    "excluded_same_root_non_name": {
+      "verb_وَدَّ_wish": "17 tokens",
+      "noun_مَوَدَّة_affection": "8 tokens (4:73,5:82,29:25,30:21,42:23,60:1x2,60:7)",
+      "وُدّ_19:96": "1",
+      "idol_وَدّ_Wadd_71:23": "1 (proper noun, pagan idol of Nuh's people)"
+    },
+    "note": "Lemma-level count of the DIVINE NAME = exactly 2. Robust to scope-shift; proposal correctly discloses lemma scope."
+  },
+  "context_verification": {
+    "11:90": {
+      "speaker": "Shu'ayb (prophet) describing his Lord — NOT God self-referring",
+      "audience": "Madyan: short-measuring/cheating (11:84-85), shirk, mockery + threat to stone him (11:87,11:91) — 'cheats and mockers' holds",
+      "paired_name": "رحيم Rahim = the MERCIFUL (a mercy name, NOT a forgiveness name); forgiveness is carried by the imperative wastaghfiru rabbakum thumma tubu ilayhi in the same verse",
+      "text": "واستغفروا ربكم ثم توبوا اليه ان ربي رحيم ودود"
+    },
+    "85:14": {
+      "speaker": "Quranic voice / God (wa huwa al-ghafur al-wadud)",
+      "context": "Ashab al-Ukhdud (85:4-10): fire full of fuel, witnessing 'what they did to the believers', 'punishment of the Burning' (al-hariq)",
+      "distance": "85:14 sits 6 verses after the burning description (85:4-7), with 85:8-13 intervening (God's dominion, believers' reward, threat of Hell, severe grip) — 'right after' is a compression",
+      "paired_name": "الغفور al-Ghafur = the FORGIVING (a genuine forgiveness name)",
+      "text": "وهو الغفور الودود"
+    }
+  },
+  "exhibit_audit": {
+    "cited_exhibit": "GRAPH-12",
+    "mismatch": true,
+    "detail": "GRAPH-12 is about the wind-word sarsar (root صرصر), NOT al-Wadud. The proposal's ONLY cited exhibit provides zero evidential support for the Wadud thesis.",
+    "graph12_own_claims_independently_verified": {
+      "root_صرصر_tokens": 3,
+      "locations": ["41:16", "54:19", "69:6"],
+      "all_describe_Ad": "CONFIRMED (41:15 names عاد, 54:18 names عاد, 69:6 'wa amma Adun fa-uhliku bi-rihin sarsarin atiya')",
+      "phrase_ريحا_صرصرا_verbatim": ["41:16", "54:19"],
+      "graph12_status": "internally TRUE but IRRELEVANT to HASAN-2"
+    }
+  },
+  "quran_only_check": "PASS — every element (exactly-twice, both contexts, paired names) is derivable purely from Quran text. No hadith payoff. 'Burned alive' leans on mainstream tafsir but is Quran-anchored (fire+fuel+al-hariq).",
+  "overlap_check": {
+    "published_articles_md": "no Wadud article; mahabbah articles cover حبب root only (why_now prediction holds)",
+    "near_overlap": "/posts/shuaybs-anguish-... and /posts/the-prophet-of-the-marketplace-shuayb-... cover the Madyan/11:90 half thematically, but neither claims the Wadud two-occurrence reveal",
+    "six_shipped_slugs": "no overlap",
+    "verdict": "clean — core reveal is novel"
+  },
+  "broken_claims": [
+    "'paired with a forgiveness name' — literally true only for 85:14 (al-Ghafur); 11:90 pairs Wadud with ar-Rahim (Merciful), a mercy name, with forgiveness carried by the verb istighfar not a name",
+    "'God Calls Himself the Most Loving' (title) — in 11:90 it is the prophet Shu'ayb describing his Lord, not God self-referring",
+    "'right after describing people who burned believers alive' — 85:14 is 6 verses downstream of the burning description (85:4-7), with 4+ intervening verses"
+  ],
+  "required_corrections": [
+    "REPLACE THE EXHIBIT: GRAPH-12 (sarsar/wind/'Ad) does not support this thesis. Attach a proper al-Wadud census exhibit (root ودد=29 tokens; name-form lemma وَدُود=exactly 2 at 11:90 & 85:14) before drafting.",
+    "Fix the paired-name claim: state the ACTUAL names — 85:14 pairs Wadud with al-Ghafur (the Forgiving); 11:90 pairs it with ar-Rahim (the Merciful) immediately after the command 'seek forgiveness of your Lord and repent.' Reword to 'both within a frame of forgiveness and mercy,' not 'both paired with a forgiveness name.'",
+    "Reframe the title/opening: prefer 'The Quran names God the Most Loving exactly twice' — 11:90 is Shu'ayb's speech about his Lord, not divine self-reference.",
+    "Soften 'right after' for 85:14 to 'in the same passage / in the aftermath of' — the name lands 6 verses after the ukhdud fire, past the reward/threat/grip verses.",
+    "Keep 'burned believers' Quran-anchored (fire, fuel, al-hariq, 'what they did to the believers'); note 'alive'/thrown-into-fire is the mainstream reading, not verbatim text.",
+    "Retain the lemma-scope disclosure already in risks (broader love-vocab حبب is separate).",
+    "Optional linguistic nuance: al-Wadud (fa'ul pattern) also carries 'the Beloved / worthy of love'; 'the Most Loving' is one valid rendering — acknowledge to preempt a linguist's objection.",
+    "Differentiate explicitly from existing Shu'ayb marketplace/anguish pieces which already treat the 11:90 Madyan context."
+  ],
+  "notes": "Central factual thesis is TRUE and independently re-derived: the divine name al-Wadud occurs at exactly two loci (11:90, 85:14), each embedded in a grave-sin context (Madyan's cheating+mockery; the Ukhdud burning), each within a forgiveness/mercy frame. No counterexample to 'exactly twice'; lemma scope is correctly disclosed; payoff is Quran-only; overlap is clean. Failures found are packaging/precision, not load-bearing: (1) the cited exhibit GRAPH-12 is about a different word entirely and must be swapped for a real Wadud exhibit; (2) 'paired with a forgiveness name' overstates 11:90 (ar-Rahim, not al-Ghafur); (3) 'God calls Himself' and 'right after' are compressions. None refute the reveal. SURVIVES with required corrections."
+}

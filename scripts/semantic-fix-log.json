@@ -1,0 +1,14 @@
+[
+  {
+    "path": "content/tadabbur/011-hud/ayahs-023-024.md",
+    "status": "FIXED",
+    "issue_type": "wrong_tafsir",
+    "fixed_at": "2026-05-28T10:53:02"
+  },
+  {
+    "path": "content/tadabbur/040-ghafir/ayah-060.md",
+    "error": "output didn't start with frontmatter",
+    "status": "ERROR",
+    "issue_type": "content_error"
+  }
+]

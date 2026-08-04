@@ -1,0 +1,3647 @@
+[
+ {
+  "ayah_record_id": "33e6de91-ca4b-4edc-8edb-fc0e1ea22230",
+  "entity_id": "a3221ae5-2aea-497d-bdca-c26ef513ccfa",
+  "is_primary": true,
+  "slug": "musa",
+  "ref": "2:60-60",
+  "n": 1,
+  "title": "The Staff That Didn't Produce the Water — And the Spring That Has Your Name on It"
+ },
+ {
+  "ayah_record_id": "33e6de91-ca4b-4edc-8edb-fc0e1ea22230",
+  "entity_id": "ed6c92b9-5e62-482d-a320-ef27dad84ef7",
+  "is_primary": false,
+  "slug": "rizq",
+  "ref": "2:60-60",
+  "n": 1,
+  "title": "The Staff That Didn't Produce the Water — And the Spring That Has Your Name on It"
+ },
+ {
+  "ayah_record_id": "d2067337-7aa9-43e0-b000-1423a1157527",
+  "entity_id": "a3221ae5-2aea-497d-bdca-c26ef513ccfa",
+  "is_primary": true,
+  "slug": "musa",
+  "ref": "2:53-54",
+  "n": 2,
+  "title": "The Book That Should Have Been Enough and the Repentance That Cost Everything"
+ },
+ {
+  "ayah_record_id": "d2067337-7aa9-43e0-b000-1423a1157527",
+  "entity_id": "97e10ca8-5612-4861-9117-3e11e28974d5",
+  "is_primary": false,
+  "slug": "zulm",
+  "ref": "2:53-54",
+  "n": 1,
+  "title": "The Book That Should Have Been Enough and the Repentance That Cost Everything"
+ },
+ {
+  "ayah_record_id": "d2067337-7aa9-43e0-b000-1423a1157527",
+  "entity_id": "84e3be67-e74d-45e0-abb6-7fb969907b3c",
+  "is_primary": true,
+  "slug": "nafs",
+  "ref": "2:53-54",
+  "n": 2,
+  "title": "The Book That Should Have Been Enough and the Repentance That Cost Everything"
+ },
+ {
+  "ayah_record_id": "666c787d-f433-4d81-8d6d-f1196c7bd859",
+  "entity_id": "8839f2d2-7f00-4793-b1a6-12f6b968acd0",
+  "is_primary": true,
+  "slug": "sirat",
+  "ref": "1:6-7",
+  "n": 2,
+  "title": "The Ask — Guide Us on the Path of Those You Chose, Not Those Who Lost It"
+ },
+ {
+  "ayah_record_id": "d0693c3b-ccfa-453e-a28c-4d705fe5f2e9",
+  "entity_id": "56af54d0-73ac-4b9b-b140-9043d89357ed",
+  "is_primary": false,
+  "slug": "shukr",
+  "ref": "2:55-56",
+  "n": 1,
+  "title": "Show Me God — When the Demand for Proof Becomes the Proof of Arrogance"
+ },
+ {
+  "ayah_record_id": "d0693c3b-ccfa-453e-a28c-4d705fe5f2e9",
+  "entity_id": "a3221ae5-2aea-497d-bdca-c26ef513ccfa",
+  "is_primary": true,
+  "slug": "musa",
+  "ref": "2:55-56",
+  "n": 1,
+  "title": "Show Me God — When the Demand for Proof Becomes the Proof of Arrogance"
+ },
+ {
+  "ayah_record_id": "d0693c3b-ccfa-453e-a28c-4d705fe5f2e9",
+  "entity_id": "77fdf19d-232b-4b70-88e8-42442403ec2c",
+  "is_primary": false,
+  "slug": "mawt",
+  "ref": "2:55-56",
+  "n": 1,
+  "title": "Show Me God — When the Demand for Proof Becomes the Proof of Arrogance"
+ },
+ {
+  "ayah_record_id": "c0d984d6-56ac-4037-8f84-e9337d330cd2",
+  "entity_id": "77fdf19d-232b-4b70-88e8-42442403ec2c",
+  "is_primary": false,
+  "slug": "mawt",
+  "ref": "2:94-96",
+  "n": 1,
+  "title": "If Paradise Is Yours, Then Wish for Death — The Test They Will Never Pass"
+ },
+ {
+  "ayah_record_id": "c0d984d6-56ac-4037-8f84-e9337d330cd2",
+  "entity_id": "5f5b0000-1633-49d3-b407-2665ad013009",
+  "is_primary": false,
+  "slug": "hayah",
+  "ref": "2:94-96",
+  "n": 1,
+  "title": "If Paradise Is Yours, Then Wish for Death — The Test They Will Never Pass"
+ },
+ {
+  "ayah_record_id": "1dfd693d-cdb8-45f1-8dce-9e42021d4a15",
+  "entity_id": "c80b11d3-0403-4f3f-b9ca-a6e459a67b49",
+  "is_primary": false,
+  "slug": "sabr",
+  "ref": "2:44-46",
+  "n": 1,
+  "title": "The Preacher Who Forgot Himself — When Knowledge Becomes the Heaviest Burden"
+ },
+ {
+  "ayah_record_id": "1dfd693d-cdb8-45f1-8dce-9e42021d4a15",
+  "entity_id": "a1b0da07-3f1a-40bc-b378-d48742c8326c",
+  "is_primary": false,
+  "slug": "aql",
+  "ref": "2:44-46",
+  "n": 1,
+  "title": "The Preacher Who Forgot Himself — When Knowledge Becomes the Heaviest Burden"
+ },
+ {
+  "ayah_record_id": "1dfd693d-cdb8-45f1-8dce-9e42021d4a15",
+  "entity_id": "304c48bd-3f01-45e6-b2be-489db85a9c9a",
+  "is_primary": false,
+  "slug": "birr",
+  "ref": "2:44-46",
+  "n": 1,
+  "title": "The Preacher Who Forgot Himself — When Knowledge Becomes the Heaviest Burden"
+ },
+ {
+  "ayah_record_id": "1dfd693d-cdb8-45f1-8dce-9e42021d4a15",
+  "entity_id": "84e3be67-e74d-45e0-abb6-7fb969907b3c",
+  "is_primary": false,
+  "slug": "nafs",
+  "ref": "2:44-46",
+  "n": 1,
+  "title": "The Preacher Who Forgot Himself — When Knowledge Becomes the Heaviest Burden"
+ },
+ {
+  "ayah_record_id": "a315a46f-8af5-4894-ad31-722a3c823118",
+  "entity_id": "56af54d0-73ac-4b9b-b140-9043d89357ed",
+  "is_primary": false,
+  "slug": "shukr",
+  "ref": "2:51-52",
+  "n": 1,
+  "title": "Forty Nights and a Golden Calf — How Quickly the Heart Forgets What the Eyes Just Saw"
+ },
+ {
+  "ayah_record_id": "a315a46f-8af5-4894-ad31-722a3c823118",
+  "entity_id": "a3221ae5-2aea-497d-bdca-c26ef513ccfa",
+  "is_primary": true,
+  "slug": "musa",
+  "ref": "2:51-52",
+  "n": 1,
+  "title": "Forty Nights and a Golden Calf — How Quickly the Heart Forgets What the Eyes Just Saw"
+ },
+ {
+  "ayah_record_id": "30ae96ec-9815-42d6-b0e1-bd907d754492",
+  "entity_id": "21c6143a-7e57-4e8c-92ea-66415f5d4da7",
+  "is_primary": false,
+  "slug": "rahmah",
+  "ref": "2:104-105",
+  "n": 1,
+  "title": "Close the Loophole — When the Quran Taught the Believers Linguistic Self-Defense"
+ },
+ {
+  "ayah_record_id": "30ae96ec-9815-42d6-b0e1-bd907d754492",
+  "entity_id": "3f784701-1e99-48cb-813b-858d36f9ae8a",
+  "is_primary": false,
+  "slug": "kufr",
+  "ref": "2:104-105",
+  "n": 1,
+  "title": "Close the Loophole — When the Quran Taught the Believers Linguistic Self-Defense"
+ },
+ {
+  "ayah_record_id": "8d4530bb-f8dc-4f6c-87fc-4380bfc0223d",
+  "entity_id": "a009f2b7-96cd-4f4b-a7ed-bde70faab918",
+  "is_primary": false,
+  "slug": "dhikr",
+  "ref": "2:238-239",
+  "n": 1,
+  "title": "Guard the Prayers — When Allah Interrupted Divorce Law to Remind You What Actually Holds Your Life Together"
+ },
+ {
+  "ayah_record_id": "cbb2f010-ef29-468f-b1ad-a428a9983bfc",
+  "entity_id": "a1b0da07-3f1a-40bc-b378-d48742c8326c",
+  "is_primary": false,
+  "slug": "aql",
+  "ref": "2:240-242",
+  "n": 1,
+  "title": "That You Might Use Reason — When Allah Closed the Family Law Passage by Asking You to Think"
+ },
+ {
+  "ayah_record_id": "cbb2f010-ef29-468f-b1ad-a428a9983bfc",
+  "entity_id": "b04b0f60-7126-4740-aef8-5960f3ee0712",
+  "is_primary": false,
+  "slug": "haqq",
+  "ref": "2:240-242",
+  "n": 1,
+  "title": "That You Might Use Reason — When Allah Closed the Family Law Passage by Asking You to Think"
+ },
+ {
+  "ayah_record_id": "cbb2f010-ef29-468f-b1ad-a428a9983bfc",
+  "entity_id": "84e3be67-e74d-45e0-abb6-7fb969907b3c",
+  "is_primary": false,
+  "slug": "nafs",
+  "ref": "2:240-242",
+  "n": 1,
+  "title": "That You Might Use Reason — When Allah Closed the Family Law Passage by Asking You to Think"
+ },
+ {
+  "ayah_record_id": "e306211b-ae61-4f62-90ce-495049cb18ee",
+  "entity_id": "528d53ab-b9c3-4b18-b167-26a882fa61ca",
+  "is_primary": false,
+  "slug": "sidq",
+  "ref": "2:177-177",
+  "n": 1,
+  "title": "It Is Not Righteousness That You Turn Your Face — When Allah Dismantled the Checklist and Built a Portrait"
+ },
+ {
+  "ayah_record_id": "e306211b-ae61-4f62-90ce-495049cb18ee",
+  "entity_id": "d6566772-9797-4a38-93ed-f91694d8efb5",
+  "is_primary": false,
+  "slug": "yawm",
+  "ref": "2:177-177",
+  "n": 1,
+  "title": "It Is Not Righteousness That You Turn Your Face — When Allah Dismantled the Checklist and Built a Portrait"
+ },
+ {
+  "ayah_record_id": "e306211b-ae61-4f62-90ce-495049cb18ee",
+  "entity_id": "304c48bd-3f01-45e6-b2be-489db85a9c9a",
+  "is_primary": true,
+  "slug": "birr",
+  "ref": "2:177-177",
+  "n": 2,
+  "title": "It Is Not Righteousness That You Turn Your Face — When Allah Dismantled the Checklist and Built a Portrait"
+ },
+ {
+  "ayah_record_id": "c908e627-3277-4818-b10d-1793508fd792",
+  "entity_id": "dc5cd1d2-00d3-482d-bdcd-2d20344e7838",
+  "is_primary": true,
+  "slug": "ibrahim",
+  "ref": "2:258-260",
+  "n": 4,
+  "title": "Show Me How You Give Life to the Dead — Three Proofs of Resurrection, From Debate to Death to the Beating Wings of Certainty"
+ },
+ {
+  "ayah_record_id": "c908e627-3277-4818-b10d-1793508fd792",
+  "entity_id": "77fdf19d-232b-4b70-88e8-42442403ec2c",
+  "is_primary": false,
+  "slug": "mawt",
+  "ref": "2:258-260",
+  "n": 1,
+  "title": "Show Me How You Give Life to the Dead — Three Proofs of Resurrection, From Debate to Death to the Beating Wings of Certainty"
+ },
+ {
+  "ayah_record_id": "c908e627-3277-4818-b10d-1793508fd792",
+  "entity_id": "d6566772-9797-4a38-93ed-f91694d8efb5",
+  "is_primary": true,
+  "slug": "yawm",
+  "ref": "2:258-260",
+  "n": 2,
+  "title": "Show Me How You Give Life to the Dead — Three Proofs of Resurrection, From Debate to Death to the Beating Wings of Certainty"
+ },
+ {
+  "ayah_record_id": "c908e627-3277-4818-b10d-1793508fd792",
+  "entity_id": "3f784701-1e99-48cb-813b-858d36f9ae8a",
+  "is_primary": false,
+  "slug": "kufr",
+  "ref": "2:258-260",
+  "n": 1,
+  "title": "Show Me How You Give Life to the Dead — Three Proofs of Resurrection, From Debate to Death to the Beating Wings of Certainty"
+ },
+ {
+  "ayah_record_id": "efd75968-cce1-48ed-b30b-3377808ce595",
+  "entity_id": "ed6c92b9-5e62-482d-a320-ef27dad84ef7",
+  "is_primary": false,
+  "slug": "rizq",
+  "ref": "67:13-15",
+  "n": 1,
+  "title": "The One Who Knows the Chest and Tamed the Earth for You to Walk On"
+ },
+ {
+  "ayah_record_id": "e4119404-307d-4053-be33-d7d5615341ec",
+  "entity_id": "8839f2d2-7f00-4793-b1a6-12f6b968acd0",
+  "is_primary": false,
+  "slug": "sirat",
+  "ref": "7:16-17",
+  "n": 1,
+  "title": "The Four-Direction Declaration"
+ },
+ {
+  "ayah_record_id": "dad7d4c9-09a8-4b66-8a4c-554691469ec9",
+  "entity_id": "3f784701-1e99-48cb-813b-858d36f9ae8a",
+  "is_primary": false,
+  "slug": "kufr",
+  "ref": "14:22-22",
+  "n": 1,
+  "title": "The Confession That Arrives Too Late"
+ },
+ {
+  "ayah_record_id": "dad7d4c9-09a8-4b66-8a4c-554691469ec9",
+  "entity_id": "b04b0f60-7126-4740-aef8-5960f3ee0712",
+  "is_primary": false,
+  "slug": "haqq",
+  "ref": "14:22-22",
+  "n": 1,
+  "title": "The Confession That Arrives Too Late"
+ },
+ {
+  "ayah_record_id": "dad7d4c9-09a8-4b66-8a4c-554691469ec9",
+  "entity_id": "84e3be67-e74d-45e0-abb6-7fb969907b3c",
+  "is_primary": false,
+  "slug": "nafs",
+  "ref": "14:22-22",
+  "n": 1,
+  "title": "The Confession That Arrives Too Late"
+ },
+ {
+  "ayah_record_id": "dd76c53e-6932-4d72-9ef8-f3c61982c159",
+  "entity_id": "8773a3a8-b008-4e18-87bb-a6b070b64f28",
+  "is_primary": false,
+  "slug": "ruh",
+  "ref": "15:28-33",
+  "n": 1,
+  "title": "The Refusal — What Clay and Fire Really Mean"
+ },
+ {
+  "ayah_record_id": "d292febb-322b-45fe-93e5-99f811f7495f",
+  "entity_id": "c4234212-2e03-44d7-84ee-78d10582f18f",
+  "is_primary": false,
+  "slug": "jannah",
+  "ref": "114:1-6",
+  "n": 1,
+  "title": "The Whisperer Who Withdraws"
+ },
+ {
+  "ayah_record_id": "20198063-13bb-4a6b-8938-39e65196a95d",
+  "entity_id": "21c6143a-7e57-4e8c-92ea-66415f5d4da7",
+  "is_primary": false,
+  "slug": "rahmah",
+  "ref": "18:98-98",
+  "n": 1,
+  "title": "The Promise That Outlasts Everything"
+ },
+ {
+  "ayah_record_id": "20198063-13bb-4a6b-8938-39e65196a95d",
+  "entity_id": "b04b0f60-7126-4740-aef8-5960f3ee0712",
+  "is_primary": false,
+  "slug": "haqq",
+  "ref": "18:98-98",
+  "n": 1,
+  "title": "The Promise That Outlasts Everything"
+ },
+ {
+  "ayah_record_id": "7edf2f91-77e4-45eb-825f-97cafc5088c6",
+  "entity_id": "21c6143a-7e57-4e8c-92ea-66415f5d4da7",
+  "is_primary": false,
+  "slug": "rahmah",
+  "ref": "18:65-66",
+  "n": 1,
+  "title": "The Prophet Who Asked Permission to Follow — Musa and the Unnamed Servant"
+ },
+ {
+  "ayah_record_id": "623abc13-84c0-4a60-ada1-c44dfab026e0",
+  "entity_id": "6a46d926-bbf3-473e-890d-3dad83f13aa8",
+  "is_primary": false,
+  "slug": "shaytan",
+  "ref": "28:15-16",
+  "n": 1,
+  "title": "The Punch and the Prayer — What Happened Before the Burning Bush"
+ },
+ {
+  "ayah_record_id": "623abc13-84c0-4a60-ada1-c44dfab026e0",
+  "entity_id": "97e10ca8-5612-4861-9117-3e11e28974d5",
+  "is_primary": false,
+  "slug": "zulm",
+  "ref": "28:15-16",
+  "n": 1,
+  "title": "The Punch and the Prayer — What Happened Before the Burning Bush"
+ },
+ {
+  "ayah_record_id": "623abc13-84c0-4a60-ada1-c44dfab026e0",
+  "entity_id": "84e3be67-e74d-45e0-abb6-7fb969907b3c",
+  "is_primary": false,
+  "slug": "nafs",
+  "ref": "28:15-16",
+  "n": 1,
+  "title": "The Punch and the Prayer — What Happened Before the Burning Bush"
+ },
+ {
+  "ayah_record_id": "bf5a45e5-3fe2-4c6e-bcb0-03852dd564d3",
+  "entity_id": "a009f2b7-96cd-4f4b-a7ed-bde70faab918",
+  "is_primary": false,
+  "slug": "dhikr",
+  "ref": "20:11-14",
+  "n": 1,
+  "title": "The Voice Before the Name: How Allah Introduced Himself to Musa"
+ },
+ {
+  "ayah_record_id": "75f61a13-aae7-45da-97e6-07f996623a4e",
+  "entity_id": "97e10ca8-5612-4861-9117-3e11e28974d5",
+  "is_primary": true,
+  "slug": "zulm",
+  "ref": "2:58-59",
+  "n": 2,
+  "title": "The One Word That Would Have Saved Them — And the Word They Said Instead"
+ },
+ {
+  "ayah_record_id": "95d770ed-8d24-443a-b3b8-70563f37e7c7",
+  "entity_id": "f0b13a63-1a8a-4dcd-b111-a74905614c2d",
+  "is_primary": false,
+  "slug": "dunya",
+  "ref": "3:56-56",
+  "n": 1,
+  "title": "The Verdict That Leaves No Backup"
+ },
+ {
+  "ayah_record_id": "95d770ed-8d24-443a-b3b8-70563f37e7c7",
+  "entity_id": "3f784701-1e99-48cb-813b-858d36f9ae8a",
+  "is_primary": false,
+  "slug": "kufr",
+  "ref": "3:56-56",
+  "n": 1,
+  "title": "The Verdict That Leaves No Backup"
+ },
+ {
+  "ayah_record_id": "cd0402a0-02b5-4b89-af19-a28914aa3ebd",
+  "entity_id": "d6566772-9797-4a38-93ed-f91694d8efb5",
+  "is_primary": false,
+  "slug": "yawm",
+  "ref": "88:2-7",
+  "n": 1,
+  "title": "The Anti-Feast — Faces That Worked for Nothing and Ate What Cannot Nourish"
+ },
+ {
+  "ayah_record_id": "f3718488-c2a4-48e8-bd2b-27541fd661bb",
+  "entity_id": "d6566772-9797-4a38-93ed-f91694d8efb5",
+  "is_primary": false,
+  "slug": "yawm",
+  "ref": "88:8-16",
+  "n": 1,
+  "title": "The Table Already Set — Faces That Worked for Something That Lasted"
+ },
+ {
+  "ayah_record_id": "7bd95ec8-67bb-4738-a015-eecc72933f8e",
+  "entity_id": "a009f2b7-96cd-4f4b-a7ed-bde70faab918",
+  "is_primary": false,
+  "slug": "dhikr",
+  "ref": "88:21-26",
+  "n": 1,
+  "title": "The Reminder and the Return — You Cannot Force Faith, but the Account Is Coming"
+ },
+ {
+  "ayah_record_id": "7bd95ec8-67bb-4738-a015-eecc72933f8e",
+  "entity_id": "469b9370-7460-49ae-9695-68e48eac127c",
+  "is_primary": false,
+  "slug": "hisab",
+  "ref": "88:21-26",
+  "n": 1,
+  "title": "The Reminder and the Return — You Cannot Force Faith, but the Account Is Coming"
+ },
+ {
+  "ayah_record_id": "7bd95ec8-67bb-4738-a015-eecc72933f8e",
+  "entity_id": "3f784701-1e99-48cb-813b-858d36f9ae8a",
+  "is_primary": false,
+  "slug": "kufr",
+  "ref": "88:21-26",
+  "n": 1,
+  "title": "The Reminder and the Return — You Cannot Force Faith, but the Account Is Coming"
+ },
+ {
+  "ayah_record_id": "4c25a970-2eec-4cdd-a0e1-fbed00b76877",
+  "entity_id": "3f784701-1e99-48cb-813b-858d36f9ae8a",
+  "is_primary": false,
+  "slug": "kufr",
+  "ref": "2:6-7",
+  "n": 1,
+  "title": "The Sealed Heart — When Allah Gave Disbelief Two Ayahs and Did Not Need More"
+ },
+ {
+  "ayah_record_id": "9004863a-1088-493a-947b-6d9d5f9a7652",
+  "entity_id": "6a46d926-bbf3-473e-890d-3dad83f13aa8",
+  "is_primary": false,
+  "slug": "shaytan",
+  "ref": "2:8-17",
+  "n": 1,
+  "title": "The Stolen Light — When Hypocrisy Receives Five Times More Attention Than Disbelief"
+ },
+ {
+  "ayah_record_id": "9004863a-1088-493a-947b-6d9d5f9a7652",
+  "entity_id": "d6566772-9797-4a38-93ed-f91694d8efb5",
+  "is_primary": false,
+  "slug": "yawm",
+  "ref": "2:8-17",
+  "n": 1,
+  "title": "The Stolen Light — When Hypocrisy Receives Five Times More Attention Than Disbelief"
+ },
+ {
+  "ayah_record_id": "9004863a-1088-493a-947b-6d9d5f9a7652",
+  "entity_id": "84e3be67-e74d-45e0-abb6-7fb969907b3c",
+  "is_primary": false,
+  "slug": "nafs",
+  "ref": "2:8-17",
+  "n": 1,
+  "title": "The Stolen Light — When Hypocrisy Receives Five Times More Attention Than Disbelief"
+ },
+ {
+  "ayah_record_id": "649c13cf-28ce-4adc-8169-721b8f436817",
+  "entity_id": "a009f2b7-96cd-4f4b-a7ed-bde70faab918",
+  "is_primary": false,
+  "slug": "dhikr",
+  "ref": "19:16-21",
+  "n": 1,
+  "title": "The Screen and the Announcement — When Privacy Became the Room Where the Angel Arrived"
+ },
+ {
+  "ayah_record_id": "649c13cf-28ce-4adc-8169-721b8f436817",
+  "entity_id": "8773a3a8-b008-4e18-87bb-a6b070b64f28",
+  "is_primary": false,
+  "slug": "ruh",
+  "ref": "19:16-21",
+  "n": 1,
+  "title": "The Screen and the Announcement — When Privacy Became the Room Where the Angel Arrived"
+ },
+ {
+  "ayah_record_id": "649c13cf-28ce-4adc-8169-721b8f436817",
+  "entity_id": "21c6143a-7e57-4e8c-92ea-66415f5d4da7",
+  "is_primary": false,
+  "slug": "rahmah",
+  "ref": "19:16-21",
+  "n": 1,
+  "title": "The Screen and the Announcement — When Privacy Became the Room Where the Angel Arrived"
+ },
+ {
+  "ayah_record_id": "85cce98a-cf56-468f-a2cd-a8f71381ae8f",
+  "entity_id": "d6566772-9797-4a38-93ed-f91694d8efb5",
+  "is_primary": false,
+  "slug": "yawm",
+  "ref": "19:23-26",
+  "n": 1,
+  "title": "The Tree, the Stream, and the Shake — What Allah Provided When Maryam Wished to Disappear"
+ },
+ {
+  "ayah_record_id": "d7187d11-c273-4d27-904b-02ebe288d078",
+  "entity_id": "4319881e-8d55-4afe-8d2c-bf583e5dc8b2",
+  "is_primary": true,
+  "slug": "harun",
+  "ref": "19:27-30",
+  "n": 1,
+  "title": "She Pointed — When Silence Became the Stage for a Miracle"
+ },
+ {
+  "ayah_record_id": "eb0e61e3-941f-4e4c-a4a7-c77ac676c6a6",
+  "entity_id": "77fdf19d-232b-4b70-88e8-42442403ec2c",
+  "is_primary": false,
+  "slug": "mawt",
+  "ref": "4:17-18",
+  "n": 1,
+  "title": "The \"Now\" That Comes Too Late"
+ },
+ {
+  "ayah_record_id": "0f7a2c81-b83b-4804-98c1-7244774d04cf",
+  "entity_id": "97e10ca8-5612-4861-9117-3e11e28974d5",
+  "is_primary": false,
+  "slug": "zulm",
+  "ref": "4:64-64",
+  "n": 1,
+  "title": "They Would Have Found Allah"
+ },
+ {
+  "ayah_record_id": "0f7a2c81-b83b-4804-98c1-7244774d04cf",
+  "entity_id": "84e3be67-e74d-45e0-abb6-7fb969907b3c",
+  "is_primary": false,
+  "slug": "nafs",
+  "ref": "4:64-64",
+  "n": 1,
+  "title": "They Would Have Found Allah"
+ },
+ {
+  "ayah_record_id": "2d8599c4-f16f-4387-ae27-9660da88383e",
+  "entity_id": "b0cb4ac7-a3d7-4843-93de-33f8a6112861",
+  "is_primary": true,
+  "slug": "firaun",
+  "ref": "10:90-91",
+  "n": 1,
+  "title": "Now?: Fir'awn's Confession at the Waterline"
+ },
+ {
+  "ayah_record_id": "58f42ff6-0a6e-47e7-a3c0-d2d1e4bd0177",
+  "entity_id": "8773a3a8-b008-4e18-87bb-a6b070b64f28",
+  "is_primary": false,
+  "slug": "ruh",
+  "ref": "38:71-76",
+  "n": 1,
+  "title": "I Am Better Than Him: The First Argument of Pride"
+ },
+ {
+  "ayah_record_id": "59e253cd-d02a-487b-b2ae-fdc631bfb59c",
+  "entity_id": "d6566772-9797-4a38-93ed-f91694d8efb5",
+  "is_primary": false,
+  "slug": "yawm",
+  "ref": "50:30-30",
+  "n": 1,
+  "title": "Is There Any More?: When Jahannam Answers"
+ },
+ {
+  "ayah_record_id": "d56c9a96-a46a-49e3-b4e0-28e42c4d6d40",
+  "entity_id": "6b0f4289-73f5-426d-bc75-f271dbffe67f",
+  "is_primary": false,
+  "slug": "iman",
+  "ref": "74:30-31",
+  "n": 1,
+  "title": "Over It Are Nineteen: A Number That Tests Hearts"
+ },
+ {
+  "ayah_record_id": "d56c9a96-a46a-49e3-b4e0-28e42c4d6d40",
+  "entity_id": "3f784701-1e99-48cb-813b-858d36f9ae8a",
+  "is_primary": false,
+  "slug": "kufr",
+  "ref": "74:30-31",
+  "n": 1,
+  "title": "Over It Are Nineteen: A Number That Tests Hearts"
+ },
+ {
+  "ayah_record_id": "bddacc36-b80a-4be1-a519-a1846ea94062",
+  "entity_id": "c4234212-2e03-44d7-84ee-78d10582f18f",
+  "is_primary": false,
+  "slug": "jannah",
+  "ref": "89:27-30",
+  "n": 1,
+  "title": "Come Home — The Four Words Every Soul Was Made to Hear"
+ },
+ {
+  "ayah_record_id": "7457e68e-d3e6-45da-a8aa-77650c9a8462",
+  "entity_id": "a009f2b7-96cd-4f4b-a7ed-bde70faab918",
+  "is_primary": false,
+  "slug": "dhikr",
+  "ref": "49:13-13",
+  "n": 1,
+  "title": "The Only Hierarchy That Matters Is the One No Human Eye Can See"
+ },
+ {
+  "ayah_record_id": "480cac0b-8dd0-4a66-ba36-6303ac54052b",
+  "entity_id": "ed6c92b9-5e62-482d-a320-ef27dad84ef7",
+  "is_primary": false,
+  "slug": "rizq",
+  "ref": "17:70-70",
+  "n": 1,
+  "title": "You Were Honored Before You Did Anything — The Verb That Made Dignity Your Nature"
+ },
+ {
+  "ayah_record_id": "480cac0b-8dd0-4a66-ba36-6303ac54052b",
+  "entity_id": "68c432ec-afed-46ce-8a95-5fc97deb11cc",
+  "is_primary": true,
+  "slug": "adam",
+  "ref": "17:70-70",
+  "n": 1,
+  "title": "You Were Honored Before You Did Anything — The Verb That Made Dignity Your Nature"
+ },
+ {
+  "ayah_record_id": "480cac0b-8dd0-4a66-ba36-6303ac54052b",
+  "entity_id": "304c48bd-3f01-45e6-b2be-489db85a9c9a",
+  "is_primary": false,
+  "slug": "birr",
+  "ref": "17:70-70",
+  "n": 1,
+  "title": "You Were Honored Before You Did Anything — The Verb That Made Dignity Your Nature"
+ },
+ {
+  "ayah_record_id": "b312cc3a-b8af-4006-9bc4-dca576aab3ab",
+  "entity_id": "d6566772-9797-4a38-93ed-f91694d8efb5",
+  "is_primary": false,
+  "slug": "yawm",
+  "ref": "1:3-4",
+  "n": 1,
+  "title": "Mercy and Sovereignty — The Two Faces of the One You're About to Address"
+ },
+ {
+  "ayah_record_id": "e7462f18-f986-4aed-951e-6cc1f449aa16",
+  "entity_id": "c80b11d3-0403-4f3f-b9ca-a6e459a67b49",
+  "is_primary": false,
+  "slug": "sabr",
+  "ref": "18:28-28",
+  "n": 1,
+  "title": "Bind Yourself to the People Who Want His Face — The Command That Reorganizes Every Relationship You Have"
+ },
+ {
+  "ayah_record_id": "e7462f18-f986-4aed-951e-6cc1f449aa16",
+  "entity_id": "a009f2b7-96cd-4f4b-a7ed-bde70faab918",
+  "is_primary": false,
+  "slug": "dhikr",
+  "ref": "18:28-28",
+  "n": 1,
+  "title": "Bind Yourself to the People Who Want His Face — The Command That Reorganizes Every Relationship You Have"
+ },
+ {
+  "ayah_record_id": "e7462f18-f986-4aed-951e-6cc1f449aa16",
+  "entity_id": "5f5b0000-1633-49d3-b407-2665ad013009",
+  "is_primary": false,
+  "slug": "hayah",
+  "ref": "18:28-28",
+  "n": 1,
+  "title": "Bind Yourself to the People Who Want His Face — The Command That Reorganizes Every Relationship You Have"
+ },
+ {
+  "ayah_record_id": "e7462f18-f986-4aed-951e-6cc1f449aa16",
+  "entity_id": "f0b13a63-1a8a-4dcd-b111-a74905614c2d",
+  "is_primary": false,
+  "slug": "dunya",
+  "ref": "18:28-28",
+  "n": 1,
+  "title": "Bind Yourself to the People Who Want His Face — The Command That Reorganizes Every Relationship You Have"
+ },
+ {
+  "ayah_record_id": "e7462f18-f986-4aed-951e-6cc1f449aa16",
+  "entity_id": "84e3be67-e74d-45e0-abb6-7fb969907b3c",
+  "is_primary": false,
+  "slug": "nafs",
+  "ref": "18:28-28",
+  "n": 1,
+  "title": "Bind Yourself to the People Who Want His Face — The Command That Reorganizes Every Relationship You Have"
+ },
+ {
+  "ayah_record_id": "fff3c3bc-5ee1-4bb3-885e-29b48607f22e",
+  "entity_id": "84e3be67-e74d-45e0-abb6-7fb969907b3c",
+  "is_primary": false,
+  "slug": "nafs",
+  "ref": "50:16-16",
+  "n": 1,
+  "title": "Closer Than Your Own Pulse — The Ayah That Collapses Every Distance You Thought Existed Between You and Allah"
+ },
+ {
+  "ayah_record_id": "628ca9f3-605e-4506-a5a9-ed90c2be4cb3",
+  "entity_id": "c80b11d3-0403-4f3f-b9ca-a6e459a67b49",
+  "is_primary": false,
+  "slug": "sabr",
+  "ref": "103:1-3",
+  "n": 1,
+  "title": "Everyone Is Losing — The Three-Ayah Surah That Diagnosed the Human Condition and Prescribed Its Only Cure"
+ },
+ {
+  "ayah_record_id": "628ca9f3-605e-4506-a5a9-ed90c2be4cb3",
+  "entity_id": "b04b0f60-7126-4740-aef8-5960f3ee0712",
+  "is_primary": false,
+  "slug": "haqq",
+  "ref": "103:1-3",
+  "n": 1,
+  "title": "Everyone Is Losing — The Three-Ayah Surah That Diagnosed the Human Condition and Prescribed Its Only Cure"
+ },
+ {
+  "ayah_record_id": "d54e953e-b854-439e-9158-b5e62950a55e",
+  "entity_id": "a009f2b7-96cd-4f4b-a7ed-bde70faab918",
+  "is_primary": false,
+  "slug": "dhikr",
+  "ref": "94:1-8",
+  "n": 1,
+  "title": "We Already Opened Your Chest — The Eight Ayahs That Rewrite What Comfort Actually Means"
+ },
+ {
+  "ayah_record_id": "bb084d1e-a82a-423d-ab54-5cab8bbee407",
+  "entity_id": "84e3be67-e74d-45e0-abb6-7fb969907b3c",
+  "is_primary": false,
+  "slug": "nafs",
+  "ref": "81:1-9",
+  "n": 1,
+  "title": "The Universe Collapsed for Her Testimony — The Nine Ayahs Where Creation Unwinds to Give Voice to One Voiceless Girl"
+ },
+ {
+  "ayah_record_id": "3abdb9e5-5c33-4898-8d0d-6eff7d3c8011",
+  "entity_id": "83f81335-3cac-492b-b8f5-8e73606406da",
+  "is_primary": false,
+  "slug": "jahannam",
+  "ref": "40:60-60",
+  "n": 1,
+  "title": "Just Ask — The Ayah Where Allah Uses the Same Grammar to Describe His Generosity and Your Arrogance"
+ },
+ {
+  "ayah_record_id": "9880d377-e508-4bf3-95d2-ca1ccc64514a",
+  "entity_id": "d6566772-9797-4a38-93ed-f91694d8efb5",
+  "is_primary": false,
+  "slug": "yawm",
+  "ref": "19:22-26",
+  "n": 1,
+  "title": "She Wished to Be Nothing — The Five Ayahs Where the Most Remembered Woman Asked to Be Forgotten"
+ },
+ {
+  "ayah_record_id": "e10281cf-fe8d-424d-8d3d-377f2de35854",
+  "entity_id": "a009f2b7-96cd-4f4b-a7ed-bde70faab918",
+  "is_primary": false,
+  "slug": "dhikr",
+  "ref": "73:1-8",
+  "n": 1,
+  "title": "He Called You by Your Blanket — The Eight Ayahs Where Allah Prepared One Man to Carry the Heaviest Word Ever Spoken"
+ },
+ {
+  "ayah_record_id": "e10281cf-fe8d-424d-8d3d-377f2de35854",
+  "entity_id": "ad884f07-2ffb-4bbc-a98a-8d57a1d2f663",
+  "is_primary": true,
+  "slug": "layl",
+  "ref": "73:1-8",
+  "n": 2,
+  "title": "He Called You by Your Blanket — The Eight Ayahs Where Allah Prepared One Man to Carry the Heaviest Word Ever Spoken"
+ },
+ {
+  "ayah_record_id": "33a22145-1544-414f-97bb-29da014952d5",
+  "entity_id": "ed6c92b9-5e62-482d-a320-ef27dad84ef7",
+  "is_primary": true,
+  "slug": "rizq",
+  "ref": "2:25-25",
+  "n": 3,
+  "title": "The Fruit You Already Know — When Paradise Feels Like Coming Home"
+ },
+ {
+  "ayah_record_id": "33a22145-1544-414f-97bb-29da014952d5",
+  "entity_id": "c4234212-2e03-44d7-84ee-78d10582f18f",
+  "is_primary": false,
+  "slug": "jannah",
+  "ref": "2:25-25",
+  "n": 1,
+  "title": "The Fruit You Already Know — When Paradise Feels Like Coming Home"
+ },
+ {
+  "ayah_record_id": "649110a5-d2a8-42d4-aa4a-712e2fa327e9",
+  "entity_id": "ed6c92b9-5e62-482d-a320-ef27dad84ef7",
+  "is_primary": false,
+  "slug": "rizq",
+  "ref": "2:57-57",
+  "n": 1,
+  "title": "Cloud Shade and Heavenly Food — Why Ingratitude Only Hurts the Ingrate"
+ },
+ {
+  "ayah_record_id": "649110a5-d2a8-42d4-aa4a-712e2fa327e9",
+  "entity_id": "97e10ca8-5612-4861-9117-3e11e28974d5",
+  "is_primary": true,
+  "slug": "zulm",
+  "ref": "2:57-57",
+  "n": 2,
+  "title": "Cloud Shade and Heavenly Food — Why Ingratitude Only Hurts the Ingrate"
+ },
+ {
+  "ayah_record_id": "649110a5-d2a8-42d4-aa4a-712e2fa327e9",
+  "entity_id": "84e3be67-e74d-45e0-abb6-7fb969907b3c",
+  "is_primary": false,
+  "slug": "nafs",
+  "ref": "2:57-57",
+  "n": 1,
+  "title": "Cloud Shade and Heavenly Food — Why Ingratitude Only Hurts the Ingrate"
+ },
+ {
+  "ayah_record_id": "c0546598-c424-4f7a-af42-18bcc67e3156",
+  "entity_id": "c80b11d3-0403-4f3f-b9ca-a6e459a67b49",
+  "is_primary": false,
+  "slug": "sabr",
+  "ref": "2:61-61",
+  "n": 1,
+  "title": "When the Verb of Provision Becomes the Verb of Punishment"
+ },
+ {
+  "ayah_record_id": "c0546598-c424-4f7a-af42-18bcc67e3156",
+  "entity_id": "a3221ae5-2aea-497d-bdca-c26ef513ccfa",
+  "is_primary": true,
+  "slug": "musa",
+  "ref": "2:61-61",
+  "n": 1,
+  "title": "When the Verb of Provision Becomes the Verb of Punishment"
+ },
+ {
+  "ayah_record_id": "c0546598-c424-4f7a-af42-18bcc67e3156",
+  "entity_id": "3f784701-1e99-48cb-813b-858d36f9ae8a",
+  "is_primary": false,
+  "slug": "kufr",
+  "ref": "2:61-61",
+  "n": 1,
+  "title": "When the Verb of Provision Becomes the Verb of Punishment"
+ },
+ {
+  "ayah_record_id": "c0546598-c424-4f7a-af42-18bcc67e3156",
+  "entity_id": "b04b0f60-7126-4740-aef8-5960f3ee0712",
+  "is_primary": false,
+  "slug": "haqq",
+  "ref": "2:61-61",
+  "n": 1,
+  "title": "When the Verb of Provision Becomes the Verb of Punishment"
+ },
+ {
+  "ayah_record_id": "021995c1-92c7-4fb6-bcdc-e9ed4e099ae4",
+  "entity_id": "9c6d5f53-fb49-4c90-8976-c6ce06cadffd",
+  "is_primary": true,
+  "slug": "salih",
+  "ref": "2:62-62",
+  "n": 1,
+  "title": "Four Labels, One 'Whoever' — The Ayah That Erases Everything Except What Actually Saves You"
+ },
+ {
+  "ayah_record_id": "021995c1-92c7-4fb6-bcdc-e9ed4e099ae4",
+  "entity_id": "ace16e83-01f6-441b-83cb-d8d378658964",
+  "is_primary": false,
+  "slug": "khawf",
+  "ref": "2:62-62",
+  "n": 1,
+  "title": "Four Labels, One 'Whoever' — The Ayah That Erases Everything Except What Actually Saves You"
+ },
+ {
+  "ayah_record_id": "021995c1-92c7-4fb6-bcdc-e9ed4e099ae4",
+  "entity_id": "d6566772-9797-4a38-93ed-f91694d8efb5",
+  "is_primary": false,
+  "slug": "yawm",
+  "ref": "2:62-62",
+  "n": 1,
+  "title": "Four Labels, One 'Whoever' — The Ayah That Erases Everything Except What Actually Saves You"
+ },
+ {
+  "ayah_record_id": "e1937ca1-7cf6-492d-b097-3d03599dfafe",
+  "entity_id": "ed6c92b9-5e62-482d-a320-ef27dad84ef7",
+  "is_primary": false,
+  "slug": "rizq",
+  "ref": "2:233-233",
+  "n": 1,
+  "title": "The One for Whom the Child Was Born — When Allah Built a System That Refuses to Let a Child Become a Weapon"
+ },
+ {
+  "ayah_record_id": "e1937ca1-7cf6-492d-b097-3d03599dfafe",
+  "entity_id": "84e3be67-e74d-45e0-abb6-7fb969907b3c",
+  "is_primary": false,
+  "slug": "nafs",
+  "ref": "2:233-233",
+  "n": 1,
+  "title": "The One for Whom the Child Was Born — When Allah Built a System That Refuses to Let a Child Become a Weapon"
+ },
+ {
+  "ayah_record_id": "f958f311-5e62-4b9f-89ea-5eeb1b00b129",
+  "entity_id": "ed6c92b9-5e62-482d-a320-ef27dad84ef7",
+  "is_primary": false,
+  "slug": "rizq",
+  "ref": "2:1-5",
+  "n": 1,
+  "title": "No Doubt — How the Quran Opened Its Longest Surah by Telling You This Book Is Not for Everyone"
+ },
+ {
+  "ayah_record_id": "9ef05669-34a9-4df6-8ec5-bc2431f0348e",
+  "entity_id": "77fdf19d-232b-4b70-88e8-42442403ec2c",
+  "is_primary": false,
+  "slug": "mawt",
+  "ref": "2:18-20",
+  "n": 1,
+  "title": "The Storm They Cannot Leave — When Guidance Becomes the Thing You Fear"
+ },
+ {
+  "ayah_record_id": "a5025819-8691-4508-825c-2bd01cf1ff8e",
+  "entity_id": "ed6c92b9-5e62-482d-a320-ef27dad84ef7",
+  "is_primary": false,
+  "slug": "rizq",
+  "ref": "2:21-22",
+  "n": 1,
+  "title": "The First Command — Why the Quran's Opening Demand Is Not What You Think It Is"
+ },
+ {
+  "ayah_record_id": "7b5b7dd3-f0e4-4093-ad26-86a8d04cb407",
+  "entity_id": "3f784701-1e99-48cb-813b-858d36f9ae8a",
+  "is_primary": false,
+  "slug": "kufr",
+  "ref": "2:26-27",
+  "n": 1,
+  "title": "The Mosquito That Divided Humanity — When the Same Truth Builds One Heart and Breaks Another"
+ },
+ {
+  "ayah_record_id": "7b5b7dd3-f0e4-4093-ad26-86a8d04cb407",
+  "entity_id": "b04b0f60-7126-4740-aef8-5960f3ee0712",
+  "is_primary": false,
+  "slug": "haqq",
+  "ref": "2:26-27",
+  "n": 1,
+  "title": "The Mosquito That Divided Humanity — When the Same Truth Builds One Heart and Breaks Another"
+ },
+ {
+  "ayah_record_id": "7b5b7dd3-f0e4-4093-ad26-86a8d04cb407",
+  "entity_id": "9a4f5ebe-d31e-4b0d-8753-5d62a73f9b75",
+  "is_primary": false,
+  "slug": "mithaq",
+  "ref": "2:26-27",
+  "n": 1,
+  "title": "The Mosquito That Divided Humanity — When the Same Truth Builds One Heart and Breaks Another"
+ },
+ {
+  "ayah_record_id": "65996a91-bf92-4a59-bb5f-0fe6983408f4",
+  "entity_id": "3f784701-1e99-48cb-813b-858d36f9ae8a",
+  "is_primary": false,
+  "slug": "kufr",
+  "ref": "2:28-29",
+  "n": 1,
+  "title": "You Were Nothing — The Argument That Begins Before You Were Born"
+ },
+ {
+  "ayah_record_id": "c915070f-ee9c-47d8-8fa5-f637a786c95c",
+  "entity_id": "6647d520-3558-4ff2-882e-c85a706b1c47",
+  "is_primary": true,
+  "slug": "iblis",
+  "ref": "2:30-34",
+  "n": 1,
+  "title": "The Appointment — When God Told the Angels About You and They Worried"
+ },
+ {
+  "ayah_record_id": "c915070f-ee9c-47d8-8fa5-f637a786c95c",
+  "entity_id": "68c432ec-afed-46ce-8a95-5fc97deb11cc",
+  "is_primary": true,
+  "slug": "adam",
+  "ref": "2:30-34",
+  "n": 3,
+  "title": "The Appointment — When God Told the Angels About You and They Worried"
+ },
+ {
+  "ayah_record_id": "25fecb8e-b87e-4a19-844c-4d8b24823a7f",
+  "entity_id": "68c432ec-afed-46ce-8a95-5fc97deb11cc",
+  "is_primary": true,
+  "slug": "adam",
+  "ref": "2:35-39",
+  "n": 2,
+  "title": "The Fall That Was Always the Plan — How the First Sin Became the First Mercy"
+ },
+ {
+  "ayah_record_id": "25fecb8e-b87e-4a19-844c-4d8b24823a7f",
+  "entity_id": "6a46d926-bbf3-473e-890d-3dad83f13aa8",
+  "is_primary": false,
+  "slug": "shaytan",
+  "ref": "2:35-39",
+  "n": 1,
+  "title": "The Fall That Was Always the Plan — How the First Sin Became the First Mercy"
+ },
+ {
+  "ayah_record_id": "25fecb8e-b87e-4a19-844c-4d8b24823a7f",
+  "entity_id": "ace16e83-01f6-441b-83cb-d8d378658964",
+  "is_primary": false,
+  "slug": "khawf",
+  "ref": "2:35-39",
+  "n": 1,
+  "title": "The Fall That Was Always the Plan — How the First Sin Became the First Mercy"
+ },
+ {
+  "ayah_record_id": "25fecb8e-b87e-4a19-844c-4d8b24823a7f",
+  "entity_id": "c4234212-2e03-44d7-84ee-78d10582f18f",
+  "is_primary": false,
+  "slug": "jannah",
+  "ref": "2:35-39",
+  "n": 1,
+  "title": "The Fall That Was Always the Plan — How the First Sin Became the First Mercy"
+ },
+ {
+  "ayah_record_id": "25fecb8e-b87e-4a19-844c-4d8b24823a7f",
+  "entity_id": "3f784701-1e99-48cb-813b-858d36f9ae8a",
+  "is_primary": false,
+  "slug": "kufr",
+  "ref": "2:35-39",
+  "n": 1,
+  "title": "The Fall That Was Always the Plan — How the First Sin Became the First Mercy"
+ },
+ {
+  "ayah_record_id": "c2f1da20-812f-429d-b7dd-51e9b3684014",
+  "entity_id": "6ce90516-9141-476e-8f4a-bb50e1e77925",
+  "is_primary": true,
+  "slug": "maryam",
+  "ref": "2:87-88",
+  "n": 1,
+  "title": "The Pattern That Never Broke — When Prophets Bring What Your Nafs Doesn't Want"
+ },
+ {
+  "ayah_record_id": "c2f1da20-812f-429d-b7dd-51e9b3684014",
+  "entity_id": "a3221ae5-2aea-497d-bdca-c26ef513ccfa",
+  "is_primary": true,
+  "slug": "musa",
+  "ref": "2:87-88",
+  "n": 1,
+  "title": "The Pattern That Never Broke — When Prophets Bring What Your Nafs Doesn't Want"
+ },
+ {
+  "ayah_record_id": "c2f1da20-812f-429d-b7dd-51e9b3684014",
+  "entity_id": "14ec6c99-9696-4592-8945-ef905403b3ce",
+  "is_primary": true,
+  "slug": "isa",
+  "ref": "2:87-88",
+  "n": 1,
+  "title": "The Pattern That Never Broke — When Prophets Bring What Your Nafs Doesn't Want"
+ },
+ {
+  "ayah_record_id": "c2f1da20-812f-429d-b7dd-51e9b3684014",
+  "entity_id": "8773a3a8-b008-4e18-87bb-a6b070b64f28",
+  "is_primary": false,
+  "slug": "ruh",
+  "ref": "2:87-88",
+  "n": 1,
+  "title": "The Pattern That Never Broke — When Prophets Bring What Your Nafs Doesn't Want"
+ },
+ {
+  "ayah_record_id": "c2f1da20-812f-429d-b7dd-51e9b3684014",
+  "entity_id": "3f784701-1e99-48cb-813b-858d36f9ae8a",
+  "is_primary": false,
+  "slug": "kufr",
+  "ref": "2:87-88",
+  "n": 1,
+  "title": "The Pattern That Never Broke — When Prophets Bring What Your Nafs Doesn't Want"
+ },
+ {
+  "ayah_record_id": "c2f1da20-812f-429d-b7dd-51e9b3684014",
+  "entity_id": "84e3be67-e74d-45e0-abb6-7fb969907b3c",
+  "is_primary": false,
+  "slug": "nafs",
+  "ref": "2:87-88",
+  "n": 1,
+  "title": "The Pattern That Never Broke — When Prophets Bring What Your Nafs Doesn't Want"
+ },
+ {
+  "ayah_record_id": "019c80d6-1ffb-4159-9310-b332d536bd17",
+  "entity_id": "a009f2b7-96cd-4f4b-a7ed-bde70faab918",
+  "is_primary": false,
+  "slug": "dhikr",
+  "ref": "2:40-43",
+  "n": 1,
+  "title": "The Deal You Already Signed — When God Reminds a Nation of Its Own Promise"
+ },
+ {
+  "ayah_record_id": "019c80d6-1ffb-4159-9310-b332d536bd17",
+  "entity_id": "b04b0f60-7126-4740-aef8-5960f3ee0712",
+  "is_primary": true,
+  "slug": "haqq",
+  "ref": "2:40-43",
+  "n": 2,
+  "title": "The Deal You Already Signed — When God Reminds a Nation of Its Own Promise"
+ },
+ {
+  "ayah_record_id": "6bb81cdc-cae5-4864-a577-98f61e5df92b",
+  "entity_id": "a009f2b7-96cd-4f4b-a7ed-bde70faab918",
+  "is_primary": false,
+  "slug": "dhikr",
+  "ref": "2:47-48",
+  "n": 1,
+  "title": "The Favor That Became a Trap — When Chosenness Meets Accountability"
+ },
+ {
+  "ayah_record_id": "6bb81cdc-cae5-4864-a577-98f61e5df92b",
+  "entity_id": "d6566772-9797-4a38-93ed-f91694d8efb5",
+  "is_primary": false,
+  "slug": "yawm",
+  "ref": "2:47-48",
+  "n": 1,
+  "title": "The Favor That Became a Trap — When Chosenness Meets Accountability"
+ },
+ {
+  "ayah_record_id": "6bb81cdc-cae5-4864-a577-98f61e5df92b",
+  "entity_id": "4d29e056-cdc0-42a1-9074-64d1c3ebd6b9",
+  "is_primary": false,
+  "slug": "adl",
+  "ref": "2:47-48",
+  "n": 1,
+  "title": "The Favor That Became a Trap — When Chosenness Meets Accountability"
+ },
+ {
+  "ayah_record_id": "6bb81cdc-cae5-4864-a577-98f61e5df92b",
+  "entity_id": "84e3be67-e74d-45e0-abb6-7fb969907b3c",
+  "is_primary": true,
+  "slug": "nafs",
+  "ref": "2:47-48",
+  "n": 2,
+  "title": "The Favor That Became a Trap — When Chosenness Meets Accountability"
+ },
+ {
+  "ayah_record_id": "655f3ff0-b9ad-41c2-bdd9-ef9dc725092d",
+  "entity_id": "b0cb4ac7-a3d7-4843-93de-33f8a6112861",
+  "is_primary": true,
+  "slug": "firaun",
+  "ref": "2:49-50",
+  "n": 2,
+  "title": "The Sea That Remembered Whose Side It Was On — Oppression, Deliverance, and the Trial You Didn't Expect"
+ },
+ {
+  "ayah_record_id": "c8ca4aad-ed38-46ee-8c54-afbabe18d698",
+  "entity_id": "a009f2b7-96cd-4f4b-a7ed-bde70faab918",
+  "is_primary": false,
+  "slug": "dhikr",
+  "ref": "2:63-64",
+  "n": 1,
+  "title": "The Mountain Above Your Head and the Grace That Caught Your Fall"
+ },
+ {
+  "ayah_record_id": "c8ca4aad-ed38-46ee-8c54-afbabe18d698",
+  "entity_id": "21c6143a-7e57-4e8c-92ea-66415f5d4da7",
+  "is_primary": false,
+  "slug": "rahmah",
+  "ref": "2:63-64",
+  "n": 1,
+  "title": "The Mountain Above Your Head and the Grace That Caught Your Fall"
+ },
+ {
+  "ayah_record_id": "c8ca4aad-ed38-46ee-8c54-afbabe18d698",
+  "entity_id": "9a4f5ebe-d31e-4b0d-8753-5d62a73f9b75",
+  "is_primary": false,
+  "slug": "mithaq",
+  "ref": "2:63-64",
+  "n": 1,
+  "title": "The Mountain Above Your Head and the Grace That Caught Your Fall"
+ },
+ {
+  "ayah_record_id": "fbcd21a6-8358-425b-95cb-2db183fd450d",
+  "entity_id": "a3221ae5-2aea-497d-bdca-c26ef513ccfa",
+  "is_primary": true,
+  "slug": "musa",
+  "ref": "2:67-71",
+  "n": 1,
+  "title": "The Cow They Created by Asking Too Many Questions"
+ },
+ {
+  "ayah_record_id": "fbcd21a6-8358-425b-95cb-2db183fd450d",
+  "entity_id": "b04b0f60-7126-4740-aef8-5960f3ee0712",
+  "is_primary": false,
+  "slug": "haqq",
+  "ref": "2:67-71",
+  "n": 1,
+  "title": "The Cow They Created by Asking Too Many Questions"
+ },
+ {
+  "ayah_record_id": "7d9e4cc3-0c73-4288-81fb-62b3bb6d0c93",
+  "entity_id": "a1b0da07-3f1a-40bc-b378-d48742c8326c",
+  "is_primary": false,
+  "slug": "aql",
+  "ref": "2:72-74",
+  "n": 1,
+  "title": "When Stone Has More Heart Than the Heart"
+ },
+ {
+  "ayah_record_id": "7d9e4cc3-0c73-4288-81fb-62b3bb6d0c93",
+  "entity_id": "7389f7a7-982c-4e81-af7f-448461aea62b",
+  "is_primary": false,
+  "slug": "khashya",
+  "ref": "2:72-74",
+  "n": 1,
+  "title": "When Stone Has More Heart Than the Heart"
+ },
+ {
+  "ayah_record_id": "7d9e4cc3-0c73-4288-81fb-62b3bb6d0c93",
+  "entity_id": "84e3be67-e74d-45e0-abb6-7fb969907b3c",
+  "is_primary": false,
+  "slug": "nafs",
+  "ref": "2:72-74",
+  "n": 1,
+  "title": "When Stone Has More Heart Than the Heart"
+ },
+ {
+  "ayah_record_id": "95faaa91-eb4d-4343-92e4-55c0988982c1",
+  "entity_id": "a1b0da07-3f1a-40bc-b378-d48742c8326c",
+  "is_primary": true,
+  "slug": "aql",
+  "ref": "2:75-79",
+  "n": 2,
+  "title": "The Ecosystem of Distortion: Scholars Who Rewrite and Masses Who Don't Read"
+ },
+ {
+  "ayah_record_id": "b2cf420b-0914-4a55-986d-9f6dc951cedb",
+  "entity_id": "c4234212-2e03-44d7-84ee-78d10582f18f",
+  "is_primary": false,
+  "slug": "jannah",
+  "ref": "2:80-82",
+  "n": 1,
+  "title": "The Fire Won't Touch Us — and Other Lies We Tell Ourselves About Accountability"
+ },
+ {
+  "ayah_record_id": "b2cf420b-0914-4a55-986d-9f6dc951cedb",
+  "entity_id": "d6566772-9797-4a38-93ed-f91694d8efb5",
+  "is_primary": false,
+  "slug": "yawm",
+  "ref": "2:80-82",
+  "n": 1,
+  "title": "The Fire Won't Touch Us — and Other Lies We Tell Ourselves About Accountability"
+ },
+ {
+  "ayah_record_id": "17b81e7f-dafb-4a79-b8c2-3ffee7ff7d34",
+  "entity_id": "8812097f-cefd-4b6f-8dba-8c947a0a4fb3",
+  "is_primary": false,
+  "slug": "ihsan",
+  "ref": "2:83-86",
+  "n": 1,
+  "title": "The Covenant They Signed and the Religion They Shopped — Selective Belief as a Business Model"
+ },
+ {
+  "ayah_record_id": "17b81e7f-dafb-4a79-b8c2-3ffee7ff7d34",
+  "entity_id": "5f5b0000-1633-49d3-b407-2665ad013009",
+  "is_primary": true,
+  "slug": "hayah",
+  "ref": "2:83-86",
+  "n": 2,
+  "title": "The Covenant They Signed and the Religion They Shopped — Selective Belief as a Business Model"
+ },
+ {
+  "ayah_record_id": "17b81e7f-dafb-4a79-b8c2-3ffee7ff7d34",
+  "entity_id": "45b71f83-1a4f-4edf-9c2a-1bbb5957a20a",
+  "is_primary": false,
+  "slug": "qiyamah",
+  "ref": "2:83-86",
+  "n": 1,
+  "title": "The Covenant They Signed and the Religion They Shopped — Selective Belief as a Business Model"
+ },
+ {
+  "ayah_record_id": "17b81e7f-dafb-4a79-b8c2-3ffee7ff7d34",
+  "entity_id": "f0b13a63-1a8a-4dcd-b111-a74905614c2d",
+  "is_primary": true,
+  "slug": "dunya",
+  "ref": "2:83-86",
+  "n": 2,
+  "title": "The Covenant They Signed and the Religion They Shopped — Selective Belief as a Business Model"
+ },
+ {
+  "ayah_record_id": "17b81e7f-dafb-4a79-b8c2-3ffee7ff7d34",
+  "entity_id": "d6566772-9797-4a38-93ed-f91694d8efb5",
+  "is_primary": false,
+  "slug": "yawm",
+  "ref": "2:83-86",
+  "n": 1,
+  "title": "The Covenant They Signed and the Religion They Shopped — Selective Belief as a Business Model"
+ },
+ {
+  "ayah_record_id": "17b81e7f-dafb-4a79-b8c2-3ffee7ff7d34",
+  "entity_id": "3f784701-1e99-48cb-813b-858d36f9ae8a",
+  "is_primary": false,
+  "slug": "kufr",
+  "ref": "2:83-86",
+  "n": 1,
+  "title": "The Covenant They Signed and the Religion They Shopped — Selective Belief as a Business Model"
+ },
+ {
+  "ayah_record_id": "17b81e7f-dafb-4a79-b8c2-3ffee7ff7d34",
+  "entity_id": "9a4f5ebe-d31e-4b0d-8753-5d62a73f9b75",
+  "is_primary": true,
+  "slug": "mithaq",
+  "ref": "2:83-86",
+  "n": 2,
+  "title": "The Covenant They Signed and the Religion They Shopped — Selective Belief as a Business Model"
+ },
+ {
+  "ayah_record_id": "17b81e7f-dafb-4a79-b8c2-3ffee7ff7d34",
+  "entity_id": "84e3be67-e74d-45e0-abb6-7fb969907b3c",
+  "is_primary": true,
+  "slug": "nafs",
+  "ref": "2:83-86",
+  "n": 2,
+  "title": "The Covenant They Signed and the Religion They Shopped — Selective Belief as a Business Model"
+ },
+ {
+  "ayah_record_id": "90f9ca59-94c4-4b7d-9452-d8f2b08ad327",
+  "entity_id": "3f784701-1e99-48cb-813b-858d36f9ae8a",
+  "is_primary": true,
+  "slug": "kufr",
+  "ref": "2:89-91",
+  "n": 4,
+  "title": "They Prayed for Him Before He Came — Then Rejected Him When He Arrived"
+ },
+ {
+  "ayah_record_id": "90f9ca59-94c4-4b7d-9452-d8f2b08ad327",
+  "entity_id": "b04b0f60-7126-4740-aef8-5960f3ee0712",
+  "is_primary": false,
+  "slug": "haqq",
+  "ref": "2:89-91",
+  "n": 1,
+  "title": "They Prayed for Him Before He Came — Then Rejected Him When He Arrived"
+ },
+ {
+  "ayah_record_id": "90f9ca59-94c4-4b7d-9452-d8f2b08ad327",
+  "entity_id": "84e3be67-e74d-45e0-abb6-7fb969907b3c",
+  "is_primary": false,
+  "slug": "nafs",
+  "ref": "2:89-91",
+  "n": 1,
+  "title": "They Prayed for Him Before He Came — Then Rejected Him When He Arrived"
+ },
+ {
+  "ayah_record_id": "7d1c1db1-942c-432f-9a40-31135b0e18b3",
+  "entity_id": "6b0f4289-73f5-426d-bc75-f271dbffe67f",
+  "is_primary": false,
+  "slug": "iman",
+  "ref": "2:92-93",
+  "n": 1,
+  "title": "We Hear and We Disobey — When the Calf Moves from the Altar into the Heart"
+ },
+ {
+  "ayah_record_id": "7d1c1db1-942c-432f-9a40-31135b0e18b3",
+  "entity_id": "a3221ae5-2aea-497d-bdca-c26ef513ccfa",
+  "is_primary": true,
+  "slug": "musa",
+  "ref": "2:92-93",
+  "n": 1,
+  "title": "We Hear and We Disobey — When the Calf Moves from the Altar into the Heart"
+ },
+ {
+  "ayah_record_id": "7d1c1db1-942c-432f-9a40-31135b0e18b3",
+  "entity_id": "3f784701-1e99-48cb-813b-858d36f9ae8a",
+  "is_primary": false,
+  "slug": "kufr",
+  "ref": "2:92-93",
+  "n": 1,
+  "title": "We Hear and We Disobey — When the Calf Moves from the Altar into the Heart"
+ },
+ {
+  "ayah_record_id": "7d1c1db1-942c-432f-9a40-31135b0e18b3",
+  "entity_id": "9a4f5ebe-d31e-4b0d-8753-5d62a73f9b75",
+  "is_primary": false,
+  "slug": "mithaq",
+  "ref": "2:92-93",
+  "n": 1,
+  "title": "We Hear and We Disobey — When the Calf Moves from the Altar into the Heart"
+ },
+ {
+  "ayah_record_id": "9a1e4967-c039-4b12-b417-44963fd12ef3",
+  "entity_id": "3f784701-1e99-48cb-813b-858d36f9ae8a",
+  "is_primary": false,
+  "slug": "kufr",
+  "ref": "2:99-101",
+  "n": 1,
+  "title": "They Threw the Book Behind Their Backs — The Final Image of a People Who Knew and Pretended Not To"
+ },
+ {
+  "ayah_record_id": "a29cb2d7-0383-4a94-8b4e-2a6647d242f2",
+  "entity_id": "81cf692d-a516-42f9-b039-b56b2a7ef1ad",
+  "is_primary": true,
+  "slug": "sulayman",
+  "ref": "2:102-103",
+  "n": 2,
+  "title": "The Devils Had Their Own Scripture — When They Threw the Book Behind Their Backs, This Is What They Picked Up Instead"
+ },
+ {
+  "ayah_record_id": "a29cb2d7-0383-4a94-8b4e-2a6647d242f2",
+  "entity_id": "6a46d926-bbf3-473e-890d-3dad83f13aa8",
+  "is_primary": true,
+  "slug": "shaytan",
+  "ref": "2:102-103",
+  "n": 2,
+  "title": "The Devils Had Their Own Scripture — When They Threw the Book Behind Their Backs, This Is What They Picked Up Instead"
+ },
+ {
+  "ayah_record_id": "a29cb2d7-0383-4a94-8b4e-2a6647d242f2",
+  "entity_id": "3f784701-1e99-48cb-813b-858d36f9ae8a",
+  "is_primary": true,
+  "slug": "kufr",
+  "ref": "2:102-103",
+  "n": 3,
+  "title": "The Devils Had Their Own Scripture — When They Threw the Book Behind Their Backs, This Is What They Picked Up Instead"
+ },
+ {
+  "ayah_record_id": "a29cb2d7-0383-4a94-8b4e-2a6647d242f2",
+  "entity_id": "84e3be67-e74d-45e0-abb6-7fb969907b3c",
+  "is_primary": false,
+  "slug": "nafs",
+  "ref": "2:102-103",
+  "n": 1,
+  "title": "The Devils Had Their Own Scripture — When They Threw the Book Behind Their Backs, This Is What They Picked Up Instead"
+ },
+ {
+  "ayah_record_id": "24ab7c42-dd19-42fe-80f9-72451aaa83a4",
+  "entity_id": "6b0f4289-73f5-426d-bc75-f271dbffe67f",
+  "is_primary": false,
+  "slug": "iman",
+  "ref": "2:106-108",
+  "n": 1,
+  "title": "The Owner Changes the Rules — Sovereignty, Abrogation, and the Questions That Replace Submission"
+ },
+ {
+  "ayah_record_id": "24ab7c42-dd19-42fe-80f9-72451aaa83a4",
+  "entity_id": "a3221ae5-2aea-497d-bdca-c26ef513ccfa",
+  "is_primary": true,
+  "slug": "musa",
+  "ref": "2:106-108",
+  "n": 1,
+  "title": "The Owner Changes the Rules — Sovereignty, Abrogation, and the Questions That Replace Submission"
+ },
+ {
+  "ayah_record_id": "24ab7c42-dd19-42fe-80f9-72451aaa83a4",
+  "entity_id": "3f784701-1e99-48cb-813b-858d36f9ae8a",
+  "is_primary": false,
+  "slug": "kufr",
+  "ref": "2:106-108",
+  "n": 1,
+  "title": "The Owner Changes the Rules — Sovereignty, Abrogation, and the Questions That Replace Submission"
+ },
+ {
+  "ayah_record_id": "c535afbe-e015-4375-9ece-9174e5202575",
+  "entity_id": "6b0f4289-73f5-426d-bc75-f271dbffe67f",
+  "is_primary": false,
+  "slug": "iman",
+  "ref": "2:109-110",
+  "n": 1,
+  "title": "The Diagnosis and the Prescription — When Envy Masquerades as Doubt, and the Cure Allah Gave"
+ },
+ {
+  "ayah_record_id": "c535afbe-e015-4375-9ece-9174e5202575",
+  "entity_id": "b04b0f60-7126-4740-aef8-5960f3ee0712",
+  "is_primary": false,
+  "slug": "haqq",
+  "ref": "2:109-110",
+  "n": 1,
+  "title": "The Diagnosis and the Prescription — When Envy Masquerades as Doubt, and the Cure Allah Gave"
+ },
+ {
+  "ayah_record_id": "c535afbe-e015-4375-9ece-9174e5202575",
+  "entity_id": "84e3be67-e74d-45e0-abb6-7fb969907b3c",
+  "is_primary": true,
+  "slug": "nafs",
+  "ref": "2:109-110",
+  "n": 2,
+  "title": "The Diagnosis and the Prescription — When Envy Masquerades as Doubt, and the Cure Allah Gave"
+ },
+ {
+  "ayah_record_id": "ee5e2d75-71a9-4e46-9549-f06e3a2ce0bf",
+  "entity_id": "e936b118-b326-4674-aed3-6546d7e5aafb",
+  "is_primary": true,
+  "slug": "hud",
+  "ref": "2:111-112",
+  "n": 1,
+  "title": "Your Membership Card Won't Open This Door — When Allah Replaced Group Identity with a Face and a Standard"
+ },
+ {
+  "ayah_record_id": "ee5e2d75-71a9-4e46-9549-f06e3a2ce0bf",
+  "entity_id": "ace16e83-01f6-441b-83cb-d8d378658964",
+  "is_primary": false,
+  "slug": "khawf",
+  "ref": "2:111-112",
+  "n": 1,
+  "title": "Your Membership Card Won't Open This Door — When Allah Replaced Group Identity with a Face and a Standard"
+ },
+ {
+  "ayah_record_id": "ee5e2d75-71a9-4e46-9549-f06e3a2ce0bf",
+  "entity_id": "c4234212-2e03-44d7-84ee-78d10582f18f",
+  "is_primary": false,
+  "slug": "jannah",
+  "ref": "2:111-112",
+  "n": 1,
+  "title": "Your Membership Card Won't Open This Door — When Allah Replaced Group Identity with a Face and a Standard"
+ },
+ {
+  "ayah_record_id": "05abb613-2ecb-4d24-b491-5fb2fc06c868",
+  "entity_id": "a009f2b7-96cd-4f4b-a7ed-bde70faab918",
+  "is_primary": false,
+  "slug": "dhikr",
+  "ref": "2:113-115",
+  "n": 1,
+  "title": "From 'You're Nothing' to 'Wherever You Turn' — The Narrowness of Mutual Denial and the God Who Cannot Be Contained"
+ },
+ {
+  "ayah_record_id": "05abb613-2ecb-4d24-b491-5fb2fc06c868",
+  "entity_id": "45b71f83-1a4f-4edf-9c2a-1bbb5957a20a",
+  "is_primary": false,
+  "slug": "qiyamah",
+  "ref": "2:113-115",
+  "n": 1,
+  "title": "From 'You're Nothing' to 'Wherever You Turn' — The Narrowness of Mutual Denial and the God Who Cannot Be Contained"
+ },
+ {
+  "ayah_record_id": "05abb613-2ecb-4d24-b491-5fb2fc06c868",
+  "entity_id": "f0b13a63-1a8a-4dcd-b111-a74905614c2d",
+  "is_primary": false,
+  "slug": "dunya",
+  "ref": "2:113-115",
+  "n": 1,
+  "title": "From 'You're Nothing' to 'Wherever You Turn' — The Narrowness of Mutual Denial and the God Who Cannot Be Contained"
+ },
+ {
+  "ayah_record_id": "05abb613-2ecb-4d24-b491-5fb2fc06c868",
+  "entity_id": "d6566772-9797-4a38-93ed-f91694d8efb5",
+  "is_primary": false,
+  "slug": "yawm",
+  "ref": "2:113-115",
+  "n": 1,
+  "title": "From 'You're Nothing' to 'Wherever You Turn' — The Narrowness of Mutual Denial and the God Who Cannot Be Contained"
+ },
+ {
+  "ayah_record_id": "1d28fbaa-4c89-4503-9462-11072809b189",
+  "entity_id": "b04b0f60-7126-4740-aef8-5960f3ee0712",
+  "is_primary": false,
+  "slug": "haqq",
+  "ref": "2:118-119",
+  "n": 1,
+  "title": "Their Hearts Look Alike — When 'Show Me a Sign' Is Not Really a Question"
+ },
+ {
+  "ayah_record_id": "eeba0c2d-8d71-4620-8a5d-791719e93ffc",
+  "entity_id": "3f784701-1e99-48cb-813b-858d36f9ae8a",
+  "is_primary": false,
+  "slug": "kufr",
+  "ref": "2:120-121",
+  "n": 1,
+  "title": "They Will Never Be Pleased — And the Few Who Read It Right"
+ },
+ {
+  "ayah_record_id": "eeba0c2d-8d71-4620-8a5d-791719e93ffc",
+  "entity_id": "b04b0f60-7126-4740-aef8-5960f3ee0712",
+  "is_primary": false,
+  "slug": "haqq",
+  "ref": "2:120-121",
+  "n": 1,
+  "title": "They Will Never Be Pleased — And the Few Who Read It Right"
+ },
+ {
+  "ayah_record_id": "e1aacb65-0e54-4c16-88fd-d29ff27c997b",
+  "entity_id": "a009f2b7-96cd-4f4b-a7ed-bde70faab918",
+  "is_primary": false,
+  "slug": "dhikr",
+  "ref": "2:122-123",
+  "n": 1,
+  "title": "The Closing Bracket — When the Same Words Hit Differently After Eighty Verses"
+ },
+ {
+  "ayah_record_id": "e1aacb65-0e54-4c16-88fd-d29ff27c997b",
+  "entity_id": "d6566772-9797-4a38-93ed-f91694d8efb5",
+  "is_primary": false,
+  "slug": "yawm",
+  "ref": "2:122-123",
+  "n": 1,
+  "title": "The Closing Bracket — When the Same Words Hit Differently After Eighty Verses"
+ },
+ {
+  "ayah_record_id": "e1aacb65-0e54-4c16-88fd-d29ff27c997b",
+  "entity_id": "4d29e056-cdc0-42a1-9074-64d1c3ebd6b9",
+  "is_primary": false,
+  "slug": "adl",
+  "ref": "2:122-123",
+  "n": 1,
+  "title": "The Closing Bracket — When the Same Words Hit Differently After Eighty Verses"
+ },
+ {
+  "ayah_record_id": "e1aacb65-0e54-4c16-88fd-d29ff27c997b",
+  "entity_id": "84e3be67-e74d-45e0-abb6-7fb969907b3c",
+  "is_primary": true,
+  "slug": "nafs",
+  "ref": "2:122-123",
+  "n": 2,
+  "title": "The Closing Bracket — When the Same Words Hit Differently After Eighty Verses"
+ },
+ {
+  "ayah_record_id": "9cb8eee8-75f5-496e-a3bf-7031670dda8f",
+  "entity_id": "dc5cd1d2-00d3-482d-bdcd-2d20344e7838",
+  "is_primary": true,
+  "slug": "ibrahim",
+  "ref": "2:124-126",
+  "n": 4,
+  "title": "Back to the Source — When Allah Tested Ibrahim and Redefined the Covenant"
+ },
+ {
+  "ayah_record_id": "9cb8eee8-75f5-496e-a3bf-7031670dda8f",
+  "entity_id": "ed6c92b9-5e62-482d-a320-ef27dad84ef7",
+  "is_primary": false,
+  "slug": "rizq",
+  "ref": "2:124-126",
+  "n": 1,
+  "title": "Back to the Source — When Allah Tested Ibrahim and Redefined the Covenant"
+ },
+ {
+  "ayah_record_id": "9cb8eee8-75f5-496e-a3bf-7031670dda8f",
+  "entity_id": "77de72a0-f89b-4bdc-ac47-7b179a84e846",
+  "is_primary": true,
+  "slug": "ismail",
+  "ref": "2:124-126",
+  "n": 1,
+  "title": "Back to the Source — When Allah Tested Ibrahim and Redefined the Covenant"
+ },
+ {
+  "ayah_record_id": "9cb8eee8-75f5-496e-a3bf-7031670dda8f",
+  "entity_id": "d6566772-9797-4a38-93ed-f91694d8efb5",
+  "is_primary": false,
+  "slug": "yawm",
+  "ref": "2:124-126",
+  "n": 1,
+  "title": "Back to the Source — When Allah Tested Ibrahim and Redefined the Covenant"
+ },
+ {
+  "ayah_record_id": "9cb8eee8-75f5-496e-a3bf-7031670dda8f",
+  "entity_id": "3f784701-1e99-48cb-813b-858d36f9ae8a",
+  "is_primary": false,
+  "slug": "kufr",
+  "ref": "2:124-126",
+  "n": 1,
+  "title": "Back to the Source — When Allah Tested Ibrahim and Redefined the Covenant"
+ },
+ {
+  "ayah_record_id": "44e16a13-2748-487c-8f6b-ea3073442d4d",
+  "entity_id": "dc5cd1d2-00d3-482d-bdcd-2d20344e7838",
+  "is_primary": true,
+  "slug": "ibrahim",
+  "ref": "2:127-129",
+  "n": 1,
+  "title": "Bricks and Prayers — When a Father and Son Built the House and Asked for You"
+ },
+ {
+  "ayah_record_id": "44e16a13-2748-487c-8f6b-ea3073442d4d",
+  "entity_id": "77de72a0-f89b-4bdc-ac47-7b179a84e846",
+  "is_primary": true,
+  "slug": "ismail",
+  "ref": "2:127-129",
+  "n": 1,
+  "title": "Bricks and Prayers — When a Father and Son Built the House and Asked for You"
+ },
+ {
+  "ayah_record_id": "44e16a13-2748-487c-8f6b-ea3073442d4d",
+  "entity_id": "36b1c5af-f85c-4a5f-a699-c00a4ab86501",
+  "is_primary": false,
+  "slug": "hikmah",
+  "ref": "2:127-129",
+  "n": 1,
+  "title": "Bricks and Prayers — When a Father and Son Built the House and Asked for You"
+ },
+ {
+  "ayah_record_id": "44e16a13-2748-487c-8f6b-ea3073442d4d",
+  "entity_id": "acd0a518-f8d4-4235-a4f1-7546f3d90c7f",
+  "is_primary": false,
+  "slug": "ummah",
+  "ref": "2:127-129",
+  "n": 1,
+  "title": "Bricks and Prayers — When a Father and Son Built the House and Asked for You"
+ },
+ {
+  "ayah_record_id": "f02d7ca0-1cc5-4481-abf9-eb6c28c9a25a",
+  "entity_id": "dc5cd1d2-00d3-482d-bdcd-2d20344e7838",
+  "is_primary": true,
+  "slug": "ibrahim",
+  "ref": "2:130-134",
+  "n": 3,
+  "title": "You Weren't There — When Ibrahim Submitted Instantly, Ya'qub Died Asking One Question, and the Quran Severed Inherited Credit"
+ },
+ {
+  "ayah_record_id": "f02d7ca0-1cc5-4481-abf9-eb6c28c9a25a",
+  "entity_id": "9c6d5f53-fb49-4c90-8976-c6ce06cadffd",
+  "is_primary": true,
+  "slug": "salih",
+  "ref": "2:130-134",
+  "n": 1,
+  "title": "You Weren't There — When Ibrahim Submitted Instantly, Ya'qub Died Asking One Question, and the Quran Severed Inherited Credit"
+ },
+ {
+  "ayah_record_id": "f02d7ca0-1cc5-4481-abf9-eb6c28c9a25a",
+  "entity_id": "77de72a0-f89b-4bdc-ac47-7b179a84e846",
+  "is_primary": true,
+  "slug": "ismail",
+  "ref": "2:130-134",
+  "n": 1,
+  "title": "You Weren't There — When Ibrahim Submitted Instantly, Ya'qub Died Asking One Question, and the Quran Severed Inherited Credit"
+ },
+ {
+  "ayah_record_id": "f02d7ca0-1cc5-4481-abf9-eb6c28c9a25a",
+  "entity_id": "77388cec-46b9-49ca-80b8-aad0ad332dcc",
+  "is_primary": true,
+  "slug": "ishaq",
+  "ref": "2:130-134",
+  "n": 1,
+  "title": "You Weren't There — When Ibrahim Submitted Instantly, Ya'qub Died Asking One Question, and the Quran Severed Inherited Credit"
+ },
+ {
+  "ayah_record_id": "f02d7ca0-1cc5-4481-abf9-eb6c28c9a25a",
+  "entity_id": "94205c7f-b2a2-4b2b-be51-a8c8678676e4",
+  "is_primary": true,
+  "slug": "yaqub",
+  "ref": "2:130-134",
+  "n": 2,
+  "title": "You Weren't There — When Ibrahim Submitted Instantly, Ya'qub Died Asking One Question, and the Quran Severed Inherited Credit"
+ },
+ {
+  "ayah_record_id": "f02d7ca0-1cc5-4481-abf9-eb6c28c9a25a",
+  "entity_id": "77fdf19d-232b-4b70-88e8-42442403ec2c",
+  "is_primary": false,
+  "slug": "mawt",
+  "ref": "2:130-134",
+  "n": 1,
+  "title": "You Weren't There — When Ibrahim Submitted Instantly, Ya'qub Died Asking One Question, and the Quran Severed Inherited Credit"
+ },
+ {
+  "ayah_record_id": "f02d7ca0-1cc5-4481-abf9-eb6c28c9a25a",
+  "entity_id": "f0b13a63-1a8a-4dcd-b111-a74905614c2d",
+  "is_primary": false,
+  "slug": "dunya",
+  "ref": "2:130-134",
+  "n": 1,
+  "title": "You Weren't There — When Ibrahim Submitted Instantly, Ya'qub Died Asking One Question, and the Quran Severed Inherited Credit"
+ },
+ {
+  "ayah_record_id": "f02d7ca0-1cc5-4481-abf9-eb6c28c9a25a",
+  "entity_id": "acd0a518-f8d4-4235-a4f1-7546f3d90c7f",
+  "is_primary": false,
+  "slug": "ummah",
+  "ref": "2:130-134",
+  "n": 1,
+  "title": "You Weren't There — When Ibrahim Submitted Instantly, Ya'qub Died Asking One Question, and the Quran Severed Inherited Credit"
+ },
+ {
+  "ayah_record_id": "f02d7ca0-1cc5-4481-abf9-eb6c28c9a25a",
+  "entity_id": "84e3be67-e74d-45e0-abb6-7fb969907b3c",
+  "is_primary": false,
+  "slug": "nafs",
+  "ref": "2:130-134",
+  "n": 1,
+  "title": "You Weren't There — When Ibrahim Submitted Instantly, Ya'qub Died Asking One Question, and the Quran Severed Inherited Credit"
+ },
+ {
+  "ayah_record_id": "a475ef21-a0c5-4760-9630-d90688d1984e",
+  "entity_id": "a3221ae5-2aea-497d-bdca-c26ef513ccfa",
+  "is_primary": true,
+  "slug": "musa",
+  "ref": "2:135-141",
+  "n": 1,
+  "title": "The Dye of Allah — When the Quran Declared Its Credo, Named Its Color, and Sealed the Ibrahim Section"
+ },
+ {
+  "ayah_record_id": "a475ef21-a0c5-4760-9630-d90688d1984e",
+  "entity_id": "dc5cd1d2-00d3-482d-bdcd-2d20344e7838",
+  "is_primary": true,
+  "slug": "ibrahim",
+  "ref": "2:135-141",
+  "n": 3,
+  "title": "The Dye of Allah — When the Quran Declared Its Credo, Named Its Color, and Sealed the Ibrahim Section"
+ },
+ {
+  "ayah_record_id": "a475ef21-a0c5-4760-9630-d90688d1984e",
+  "entity_id": "14ec6c99-9696-4592-8945-ef905403b3ce",
+  "is_primary": true,
+  "slug": "isa",
+  "ref": "2:135-141",
+  "n": 1,
+  "title": "The Dye of Allah — When the Quran Declared Its Credo, Named Its Color, and Sealed the Ibrahim Section"
+ },
+ {
+  "ayah_record_id": "a475ef21-a0c5-4760-9630-d90688d1984e",
+  "entity_id": "e936b118-b326-4674-aed3-6546d7e5aafb",
+  "is_primary": true,
+  "slug": "hud",
+  "ref": "2:135-141",
+  "n": 2,
+  "title": "The Dye of Allah — When the Quran Declared Its Credo, Named Its Color, and Sealed the Ibrahim Section"
+ },
+ {
+  "ayah_record_id": "a475ef21-a0c5-4760-9630-d90688d1984e",
+  "entity_id": "77de72a0-f89b-4bdc-ac47-7b179a84e846",
+  "is_primary": true,
+  "slug": "ismail",
+  "ref": "2:135-141",
+  "n": 2,
+  "title": "The Dye of Allah — When the Quran Declared Its Credo, Named Its Color, and Sealed the Ibrahim Section"
+ },
+ {
+  "ayah_record_id": "a475ef21-a0c5-4760-9630-d90688d1984e",
+  "entity_id": "77388cec-46b9-49ca-80b8-aad0ad332dcc",
+  "is_primary": true,
+  "slug": "ishaq",
+  "ref": "2:135-141",
+  "n": 2,
+  "title": "The Dye of Allah — When the Quran Declared Its Credo, Named Its Color, and Sealed the Ibrahim Section"
+ },
+ {
+  "ayah_record_id": "a475ef21-a0c5-4760-9630-d90688d1984e",
+  "entity_id": "94205c7f-b2a2-4b2b-be51-a8c8678676e4",
+  "is_primary": true,
+  "slug": "yaqub",
+  "ref": "2:135-141",
+  "n": 2,
+  "title": "The Dye of Allah — When the Quran Declared Its Credo, Named Its Color, and Sealed the Ibrahim Section"
+ },
+ {
+  "ayah_record_id": "a475ef21-a0c5-4760-9630-d90688d1984e",
+  "entity_id": "acd0a518-f8d4-4235-a4f1-7546f3d90c7f",
+  "is_primary": false,
+  "slug": "ummah",
+  "ref": "2:135-141",
+  "n": 1,
+  "title": "The Dye of Allah — When the Quran Declared Its Credo, Named Its Color, and Sealed the Ibrahim Section"
+ },
+ {
+  "ayah_record_id": "b76a9b44-5c9e-4f43-a331-8b1b98878381",
+  "entity_id": "6b0f4289-73f5-426d-bc75-f271dbffe67f",
+  "is_primary": false,
+  "slug": "iman",
+  "ref": "2:142-145",
+  "n": 1,
+  "title": "We See Your Face Turning — The Qiblah Change, the Middle Nation, and the Test Hidden Inside a Direction"
+ },
+ {
+  "ayah_record_id": "b76a9b44-5c9e-4f43-a331-8b1b98878381",
+  "entity_id": "8839f2d2-7f00-4793-b1a6-12f6b968acd0",
+  "is_primary": false,
+  "slug": "sirat",
+  "ref": "2:142-145",
+  "n": 1,
+  "title": "We See Your Face Turning — The Qiblah Change, the Middle Nation, and the Test Hidden Inside a Direction"
+ },
+ {
+  "ayah_record_id": "b76a9b44-5c9e-4f43-a331-8b1b98878381",
+  "entity_id": "b04b0f60-7126-4740-aef8-5960f3ee0712",
+  "is_primary": false,
+  "slug": "haqq",
+  "ref": "2:142-145",
+  "n": 1,
+  "title": "We See Your Face Turning — The Qiblah Change, the Middle Nation, and the Test Hidden Inside a Direction"
+ },
+ {
+  "ayah_record_id": "b76a9b44-5c9e-4f43-a331-8b1b98878381",
+  "entity_id": "acd0a518-f8d4-4235-a4f1-7546f3d90c7f",
+  "is_primary": false,
+  "slug": "ummah",
+  "ref": "2:142-145",
+  "n": 1,
+  "title": "We See Your Face Turning — The Qiblah Change, the Middle Nation, and the Test Hidden Inside a Direction"
+ },
+ {
+  "ayah_record_id": "d90f07d4-bbfb-4b5f-a994-b5a9fc0af080",
+  "entity_id": "b04b0f60-7126-4740-aef8-5960f3ee0712",
+  "is_primary": true,
+  "slug": "haqq",
+  "ref": "2:146-148",
+  "n": 2,
+  "title": "They Know Him Like Their Own Sons — Recognition, Concealment, and the Race That Replaces the Argument"
+ },
+ {
+  "ayah_record_id": "abe83017-73b9-406e-972e-66ecf6d897a1",
+  "entity_id": "56af54d0-73ac-4b9b-b140-9043d89357ed",
+  "is_primary": false,
+  "slug": "shukr",
+  "ref": "2:149-152",
+  "n": 1,
+  "title": "Remember Me and I Will Remember You — The Triple Command, the Completed Favor, and the Most Reciprocal Promise in the Quran"
+ },
+ {
+  "ayah_record_id": "abe83017-73b9-406e-972e-66ecf6d897a1",
+  "entity_id": "a009f2b7-96cd-4f4b-a7ed-bde70faab918",
+  "is_primary": true,
+  "slug": "dhikr",
+  "ref": "2:149-152",
+  "n": 2,
+  "title": "Remember Me and I Will Remember You — The Triple Command, the Completed Favor, and the Most Reciprocal Promise in the Quran"
+ },
+ {
+  "ayah_record_id": "abe83017-73b9-406e-972e-66ecf6d897a1",
+  "entity_id": "3f784701-1e99-48cb-813b-858d36f9ae8a",
+  "is_primary": false,
+  "slug": "kufr",
+  "ref": "2:149-152",
+  "n": 1,
+  "title": "Remember Me and I Will Remember You — The Triple Command, the Completed Favor, and the Most Reciprocal Promise in the Quran"
+ },
+ {
+  "ayah_record_id": "abe83017-73b9-406e-972e-66ecf6d897a1",
+  "entity_id": "36b1c5af-f85c-4a5f-a699-c00a4ab86501",
+  "is_primary": false,
+  "slug": "hikmah",
+  "ref": "2:149-152",
+  "n": 1,
+  "title": "Remember Me and I Will Remember You — The Triple Command, the Completed Favor, and the Most Reciprocal Promise in the Quran"
+ },
+ {
+  "ayah_record_id": "abe83017-73b9-406e-972e-66ecf6d897a1",
+  "entity_id": "b04b0f60-7126-4740-aef8-5960f3ee0712",
+  "is_primary": false,
+  "slug": "haqq",
+  "ref": "2:149-152",
+  "n": 1,
+  "title": "Remember Me and I Will Remember You — The Triple Command, the Completed Favor, and the Most Reciprocal Promise in the Quran"
+ },
+ {
+  "ayah_record_id": "abe83017-73b9-406e-972e-66ecf6d897a1",
+  "entity_id": "97e10ca8-5612-4861-9117-3e11e28974d5",
+  "is_primary": false,
+  "slug": "zulm",
+  "ref": "2:149-152",
+  "n": 1,
+  "title": "Remember Me and I Will Remember You — The Triple Command, the Completed Favor, and the Most Reciprocal Promise in the Quran"
+ },
+ {
+  "ayah_record_id": "e2825b55-1e25-4dc4-9de9-e3acca7a8500",
+  "entity_id": "c80b11d3-0403-4f3f-b9ca-a6e459a67b49",
+  "is_primary": false,
+  "slug": "sabr",
+  "ref": "2:153-157",
+  "n": 1,
+  "title": "Something of Fear, Something of Hunger — When Allah Told You the Test Is Coming and Gave You the Words to Survive It"
+ },
+ {
+  "ayah_record_id": "e2825b55-1e25-4dc4-9de9-e3acca7a8500",
+  "entity_id": "ace16e83-01f6-441b-83cb-d8d378658964",
+  "is_primary": false,
+  "slug": "khawf",
+  "ref": "2:153-157",
+  "n": 1,
+  "title": "Something of Fear, Something of Hunger — When Allah Told You the Test Is Coming and Gave You the Words to Survive It"
+ },
+ {
+  "ayah_record_id": "e2825b55-1e25-4dc4-9de9-e3acca7a8500",
+  "entity_id": "21c6143a-7e57-4e8c-92ea-66415f5d4da7",
+  "is_primary": false,
+  "slug": "rahmah",
+  "ref": "2:153-157",
+  "n": 1,
+  "title": "Something of Fear, Something of Hunger — When Allah Told You the Test Is Coming and Gave You the Words to Survive It"
+ },
+ {
+  "ayah_record_id": "e2825b55-1e25-4dc4-9de9-e3acca7a8500",
+  "entity_id": "84e3be67-e74d-45e0-abb6-7fb969907b3c",
+  "is_primary": false,
+  "slug": "nafs",
+  "ref": "2:153-157",
+  "n": 1,
+  "title": "Something of Fear, Something of Hunger — When Allah Told You the Test Is Coming and Gave You the Words to Survive It"
+ },
+ {
+  "ayah_record_id": "07125997-979b-435a-8c08-f1904a7b36d3",
+  "entity_id": "3f784701-1e99-48cb-813b-858d36f9ae8a",
+  "is_primary": false,
+  "slug": "kufr",
+  "ref": "2:158-162",
+  "n": 1,
+  "title": "Landmarks You Can Feel — When Allah Called His Rituals sha'a'ir and Then Warned About Those Who Bury the Light"
+ },
+ {
+  "ayah_record_id": "ec5330ac-d4d5-4770-8089-40a2a32f2932",
+  "entity_id": "a1b0da07-3f1a-40bc-b378-d48742c8326c",
+  "is_primary": false,
+  "slug": "aql",
+  "ref": "2:163-167",
+  "n": 1,
+  "title": "Your God Is One God — When the Universe Testified and the Rivals Collapsed"
+ },
+ {
+  "ayah_record_id": "ec5330ac-d4d5-4770-8089-40a2a32f2932",
+  "entity_id": "ad884f07-2ffb-4bbc-a98a-8d57a1d2f663",
+  "is_primary": false,
+  "slug": "layl",
+  "ref": "2:163-167",
+  "n": 1,
+  "title": "Your God Is One God — When the Universe Testified and the Rivals Collapsed"
+ },
+ {
+  "ayah_record_id": "ec5330ac-d4d5-4770-8089-40a2a32f2932",
+  "entity_id": "77fdf19d-232b-4b70-88e8-42442403ec2c",
+  "is_primary": false,
+  "slug": "mawt",
+  "ref": "2:163-167",
+  "n": 1,
+  "title": "Your God Is One God — When the Universe Testified and the Rivals Collapsed"
+ },
+ {
+  "ayah_record_id": "ec5330ac-d4d5-4770-8089-40a2a32f2932",
+  "entity_id": "97e10ca8-5612-4861-9117-3e11e28974d5",
+  "is_primary": false,
+  "slug": "zulm",
+  "ref": "2:163-167",
+  "n": 1,
+  "title": "Your God Is One God — When the Universe Testified and the Rivals Collapsed"
+ },
+ {
+  "ayah_record_id": "b21d2961-6f83-42b4-be0f-6adba06e00b8",
+  "entity_id": "a1b0da07-3f1a-40bc-b378-d48742c8326c",
+  "is_primary": true,
+  "slug": "aql",
+  "ref": "2:168-171",
+  "n": 2,
+  "title": "Footsteps You Can't See — When Allah Called Shaytan's Strategy a Trail and Compared the Blind Follower to Livestock"
+ },
+ {
+  "ayah_record_id": "b21d2961-6f83-42b4-be0f-6adba06e00b8",
+  "entity_id": "6a46d926-bbf3-473e-890d-3dad83f13aa8",
+  "is_primary": false,
+  "slug": "shaytan",
+  "ref": "2:168-171",
+  "n": 1,
+  "title": "Footsteps You Can't See — When Allah Called Shaytan's Strategy a Trail and Compared the Blind Follower to Livestock"
+ },
+ {
+  "ayah_record_id": "b21d2961-6f83-42b4-be0f-6adba06e00b8",
+  "entity_id": "3f784701-1e99-48cb-813b-858d36f9ae8a",
+  "is_primary": false,
+  "slug": "kufr",
+  "ref": "2:168-171",
+  "n": 1,
+  "title": "Footsteps You Can't See — When Allah Called Shaytan's Strategy a Trail and Compared the Blind Follower to Livestock"
+ },
+ {
+  "ayah_record_id": "61207853-9023-4167-bcf5-91cbfc6f4838",
+  "entity_id": "3f784701-1e99-48cb-813b-858d36f9ae8a",
+  "is_primary": false,
+  "slug": "kufr",
+  "ref": "18:29-30",
+  "n": 1,
+  "title": "The Truth Is From Your Lord"
+ },
+ {
+  "ayah_record_id": "61207853-9023-4167-bcf5-91cbfc6f4838",
+  "entity_id": "b04b0f60-7126-4740-aef8-5960f3ee0712",
+  "is_primary": false,
+  "slug": "haqq",
+  "ref": "18:29-30",
+  "n": 1,
+  "title": "The Truth Is From Your Lord"
+ },
+ {
+  "ayah_record_id": "24c3b554-02ca-44f8-97c3-f89f3af0d776",
+  "entity_id": "d6566772-9797-4a38-93ed-f91694d8efb5",
+  "is_primary": false,
+  "slug": "yawm",
+  "ref": "18:47-49",
+  "n": 1,
+  "title": "The Day Nothing Is Left Out"
+ },
+ {
+  "ayah_record_id": "24c3b554-02ca-44f8-97c3-f89f3af0d776",
+  "entity_id": "97e10ca8-5612-4861-9117-3e11e28974d5",
+  "is_primary": false,
+  "slug": "zulm",
+  "ref": "18:47-49",
+  "n": 1,
+  "title": "The Day Nothing Is Left Out"
+ },
+ {
+  "ayah_record_id": "1a6c1149-d329-42d3-ab4c-612d2bfa4b60",
+  "entity_id": "56af54d0-73ac-4b9b-b140-9043d89357ed",
+  "is_primary": false,
+  "slug": "shukr",
+  "ref": "2:172-176",
+  "n": 1,
+  "title": "How Patient They Are for the Fire — When Allah Mocked the Ones Who Traded Guidance for a Small Price"
+ },
+ {
+  "ayah_record_id": "1a6c1149-d329-42d3-ab4c-612d2bfa4b60",
+  "entity_id": "c80b11d3-0403-4f3f-b9ca-a6e459a67b49",
+  "is_primary": false,
+  "slug": "sabr",
+  "ref": "2:172-176",
+  "n": 1,
+  "title": "How Patient They Are for the Fire — When Allah Mocked the Ones Who Traded Guidance for a Small Price"
+ },
+ {
+  "ayah_record_id": "1a6c1149-d329-42d3-ab4c-612d2bfa4b60",
+  "entity_id": "ed6c92b9-5e62-482d-a320-ef27dad84ef7",
+  "is_primary": false,
+  "slug": "rizq",
+  "ref": "2:172-176",
+  "n": 1,
+  "title": "How Patient They Are for the Fire — When Allah Mocked the Ones Who Traded Guidance for a Small Price"
+ },
+ {
+  "ayah_record_id": "1a6c1149-d329-42d3-ab4c-612d2bfa4b60",
+  "entity_id": "45b71f83-1a4f-4edf-9c2a-1bbb5957a20a",
+  "is_primary": false,
+  "slug": "qiyamah",
+  "ref": "2:172-176",
+  "n": 1,
+  "title": "How Patient They Are for the Fire — When Allah Mocked the Ones Who Traded Guidance for a Small Price"
+ },
+ {
+  "ayah_record_id": "1a6c1149-d329-42d3-ab4c-612d2bfa4b60",
+  "entity_id": "dc936227-55ad-42b5-a5b5-9752edfbaaea",
+  "is_primary": false,
+  "slug": "ad",
+  "ref": "2:172-176",
+  "n": 1,
+  "title": "How Patient They Are for the Fire — When Allah Mocked the Ones Who Traded Guidance for a Small Price"
+ },
+ {
+  "ayah_record_id": "1a6c1149-d329-42d3-ab4c-612d2bfa4b60",
+  "entity_id": "d6566772-9797-4a38-93ed-f91694d8efb5",
+  "is_primary": false,
+  "slug": "yawm",
+  "ref": "2:172-176",
+  "n": 1,
+  "title": "How Patient They Are for the Fire — When Allah Mocked the Ones Who Traded Guidance for a Small Price"
+ },
+ {
+  "ayah_record_id": "1a6c1149-d329-42d3-ab4c-612d2bfa4b60",
+  "entity_id": "b04b0f60-7126-4740-aef8-5960f3ee0712",
+  "is_primary": false,
+  "slug": "haqq",
+  "ref": "2:172-176",
+  "n": 1,
+  "title": "How Patient They Are for the Fire — When Allah Mocked the Ones Who Traded Guidance for a Small Price"
+ },
+ {
+  "ayah_record_id": "5370ac0e-d248-4a93-ac7b-b01ec7b1df44",
+  "entity_id": "8812097f-cefd-4b6f-8dba-8c947a0a4fb3",
+  "is_primary": false,
+  "slug": "ihsan",
+  "ref": "2:178-182",
+  "n": 1,
+  "title": "In Retribution There Is Life — When Allah Hid Life Inside the Law of Death and Called the Killer Your Brother"
+ },
+ {
+  "ayah_record_id": "5370ac0e-d248-4a93-ac7b-b01ec7b1df44",
+  "entity_id": "77fdf19d-232b-4b70-88e8-42442403ec2c",
+  "is_primary": false,
+  "slug": "mawt",
+  "ref": "2:178-182",
+  "n": 1,
+  "title": "In Retribution There Is Life — When Allah Hid Life Inside the Law of Death and Called the Killer Your Brother"
+ },
+ {
+  "ayah_record_id": "5370ac0e-d248-4a93-ac7b-b01ec7b1df44",
+  "entity_id": "5f5b0000-1633-49d3-b407-2665ad013009",
+  "is_primary": false,
+  "slug": "hayah",
+  "ref": "2:178-182",
+  "n": 1,
+  "title": "In Retribution There Is Life — When Allah Hid Life Inside the Law of Death and Called the Killer Your Brother"
+ },
+ {
+  "ayah_record_id": "5370ac0e-d248-4a93-ac7b-b01ec7b1df44",
+  "entity_id": "21c6143a-7e57-4e8c-92ea-66415f5d4da7",
+  "is_primary": false,
+  "slug": "rahmah",
+  "ref": "2:178-182",
+  "n": 1,
+  "title": "In Retribution There Is Life — When Allah Hid Life Inside the Law of Death and Called the Killer Your Brother"
+ },
+ {
+  "ayah_record_id": "5370ac0e-d248-4a93-ac7b-b01ec7b1df44",
+  "entity_id": "b04b0f60-7126-4740-aef8-5960f3ee0712",
+  "is_primary": false,
+  "slug": "haqq",
+  "ref": "2:178-182",
+  "n": 1,
+  "title": "In Retribution There Is Life — When Allah Hid Life Inside the Law of Death and Called the Killer Your Brother"
+ },
+ {
+  "ayah_record_id": "ba4363dd-f98a-4e1a-b353-7dc4d0490894",
+  "entity_id": "56af54d0-73ac-4b9b-b140-9043d89357ed",
+  "is_primary": false,
+  "slug": "shukr",
+  "ref": "2:183-187",
+  "n": 1,
+  "title": "They Are Clothing for You — When Allah Placed the Most Intimate Ayah in the Quran Inside the Legislation of Hunger"
+ },
+ {
+  "ayah_record_id": "ba4363dd-f98a-4e1a-b353-7dc4d0490894",
+  "entity_id": "cb4621d9-fbd2-4acf-a13a-d5a9b645677c",
+  "is_primary": false,
+  "slug": "dawah",
+  "ref": "2:183-187",
+  "n": 1,
+  "title": "They Are Clothing for You — When Allah Placed the Most Intimate Ayah in the Quran Inside the Legislation of Hunger"
+ },
+ {
+  "ayah_record_id": "ba4363dd-f98a-4e1a-b353-7dc4d0490894",
+  "entity_id": "ad884f07-2ffb-4bbc-a98a-8d57a1d2f663",
+  "is_primary": false,
+  "slug": "layl",
+  "ref": "2:183-187",
+  "n": 1,
+  "title": "They Are Clothing for You — When Allah Placed the Most Intimate Ayah in the Quran Inside the Legislation of Hunger"
+ },
+ {
+  "ayah_record_id": "ba4363dd-f98a-4e1a-b353-7dc4d0490894",
+  "entity_id": "d6566772-9797-4a38-93ed-f91694d8efb5",
+  "is_primary": true,
+  "slug": "yawm",
+  "ref": "2:183-187",
+  "n": 3,
+  "title": "They Are Clothing for You — When Allah Placed the Most Intimate Ayah in the Quran Inside the Legislation of Hunger"
+ },
+ {
+  "ayah_record_id": "ba4363dd-f98a-4e1a-b353-7dc4d0490894",
+  "entity_id": "84e3be67-e74d-45e0-abb6-7fb969907b3c",
+  "is_primary": false,
+  "slug": "nafs",
+  "ref": "2:183-187",
+  "n": 1,
+  "title": "They Are Clothing for You — When Allah Placed the Most Intimate Ayah in the Quran Inside the Legislation of Hunger"
+ },
+ {
+  "ayah_record_id": "c1738a17-b0fc-4a5e-9360-20412d40d98c",
+  "entity_id": "304c48bd-3f01-45e6-b2be-489db85a9c9a",
+  "is_primary": true,
+  "slug": "birr",
+  "ref": "2:188-191",
+  "n": 2,
+  "title": "Do Not Transgress — When Allah Permitted Fighting and Then Built a Fence Around It"
+ },
+ {
+  "ayah_record_id": "bf439c99-d50c-41ae-b23a-d5bc478c17d2",
+  "entity_id": "d6566772-9797-4a38-93ed-f91694d8efb5",
+  "is_primary": false,
+  "slug": "yawm",
+  "ref": "2:192-196",
+  "n": 1,
+  "title": "If They Cease — When Allah Made Forgiveness the First Response to Surrender and Then Told You Not to Destroy Yourself with Your Own Hands"
+ },
+ {
+  "ayah_record_id": "bf439c99-d50c-41ae-b23a-d5bc478c17d2",
+  "entity_id": "52eb2455-902d-404e-b085-a79b1db0fe12",
+  "is_primary": false,
+  "slug": "sadaqah",
+  "ref": "2:192-196",
+  "n": 1,
+  "title": "If They Cease — When Allah Made Forgiveness the First Response to Surrender and Then Told You Not to Destroy Yourself with Your Own Hands"
+ },
+ {
+  "ayah_record_id": "a26bc0dd-588f-4a6f-b9d9-be828ca0caf8",
+  "entity_id": "a009f2b7-96cd-4f4b-a7ed-bde70faab918",
+  "is_primary": true,
+  "slug": "dhikr",
+  "ref": "2:197-203",
+  "n": 6,
+  "title": "The Best Provision Is Taqwa — When Allah Told You What to Pack for the Journey That Doesn't End and Taught You the Du'a That Covers Both Worlds"
+ },
+ {
+  "ayah_record_id": "a26bc0dd-588f-4a6f-b9d9-be828ca0caf8",
+  "entity_id": "469b9370-7460-49ae-9695-68e48eac127c",
+  "is_primary": false,
+  "slug": "hisab",
+  "ref": "2:197-203",
+  "n": 1,
+  "title": "The Best Provision Is Taqwa — When Allah Told You What to Pack for the Journey That Doesn't End and Taught You the Du'a That Covers Both Worlds"
+ },
+ {
+  "ayah_record_id": "a26bc0dd-588f-4a6f-b9d9-be828ca0caf8",
+  "entity_id": "f0b13a63-1a8a-4dcd-b111-a74905614c2d",
+  "is_primary": true,
+  "slug": "dunya",
+  "ref": "2:197-203",
+  "n": 2,
+  "title": "The Best Provision Is Taqwa — When Allah Told You What to Pack for the Journey That Doesn't End and Taught You the Du'a That Covers Both Worlds"
+ },
+ {
+  "ayah_record_id": "a26bc0dd-588f-4a6f-b9d9-be828ca0caf8",
+  "entity_id": "d6566772-9797-4a38-93ed-f91694d8efb5",
+  "is_primary": true,
+  "slug": "yawm",
+  "ref": "2:197-203",
+  "n": 2,
+  "title": "The Best Provision Is Taqwa — When Allah Told You What to Pack for the Journey That Doesn't End and Taught You the Du'a That Covers Both Worlds"
+ },
+ {
+  "ayah_record_id": "a26bc0dd-588f-4a6f-b9d9-be828ca0caf8",
+  "entity_id": "d55b7b37-e2af-4f78-bd00-5aa8da982434",
+  "is_primary": false,
+  "slug": "taqwa",
+  "ref": "2:197-203",
+  "n": 1,
+  "title": "The Best Provision Is Taqwa — When Allah Told You What to Pack for the Journey That Doesn't End and Taught You the Du'a That Covers Both Worlds"
+ },
+ {
+  "ayah_record_id": "b7c4a89e-7531-4056-96eb-c129962f8131",
+  "entity_id": "8da43031-c75d-4f82-b53c-f0e324374752",
+  "is_primary": false,
+  "slug": "fasad",
+  "ref": "2:204-210",
+  "n": 1,
+  "title": "His Speech Pleases You — When Allah Drew Two Portraits Side by Side and Asked Which One You Recognize in the Mirror"
+ },
+ {
+  "ayah_record_id": "b7c4a89e-7531-4056-96eb-c129962f8131",
+  "entity_id": "83f81335-3cac-492b-b8f5-8e73606406da",
+  "is_primary": false,
+  "slug": "jahannam",
+  "ref": "2:204-210",
+  "n": 1,
+  "title": "His Speech Pleases You — When Allah Drew Two Portraits Side by Side and Asked Which One You Recognize in the Mirror"
+ },
+ {
+  "ayah_record_id": "b7c4a89e-7531-4056-96eb-c129962f8131",
+  "entity_id": "6a46d926-bbf3-473e-890d-3dad83f13aa8",
+  "is_primary": false,
+  "slug": "shaytan",
+  "ref": "2:204-210",
+  "n": 1,
+  "title": "His Speech Pleases You — When Allah Drew Two Portraits Side by Side and Asked Which One You Recognize in the Mirror"
+ },
+ {
+  "ayah_record_id": "b7c4a89e-7531-4056-96eb-c129962f8131",
+  "entity_id": "5f5b0000-1633-49d3-b407-2665ad013009",
+  "is_primary": false,
+  "slug": "hayah",
+  "ref": "2:204-210",
+  "n": 1,
+  "title": "His Speech Pleases You — When Allah Drew Two Portraits Side by Side and Asked Which One You Recognize in the Mirror"
+ },
+ {
+  "ayah_record_id": "b7c4a89e-7531-4056-96eb-c129962f8131",
+  "entity_id": "f0b13a63-1a8a-4dcd-b111-a74905614c2d",
+  "is_primary": false,
+  "slug": "dunya",
+  "ref": "2:204-210",
+  "n": 1,
+  "title": "His Speech Pleases You — When Allah Drew Two Portraits Side by Side and Asked Which One You Recognize in the Mirror"
+ },
+ {
+  "ayah_record_id": "b7c4a89e-7531-4056-96eb-c129962f8131",
+  "entity_id": "84e3be67-e74d-45e0-abb6-7fb969907b3c",
+  "is_primary": false,
+  "slug": "nafs",
+  "ref": "2:204-210",
+  "n": 1,
+  "title": "His Speech Pleases You — When Allah Drew Two Portraits Side by Side and Asked Which One You Recognize in the Mirror"
+ },
+ {
+  "ayah_record_id": "2dba20d7-4d76-4a78-8c3a-71ebe16e9729",
+  "entity_id": "469b9370-7460-49ae-9695-68e48eac127c",
+  "is_primary": false,
+  "slug": "hisab",
+  "ref": "2:211-216",
+  "n": 1,
+  "title": "Perhaps You Hate a Thing and It Is Good for You — When Allah Told You That You Don't Know What's Best for You and Then Proved It"
+ },
+ {
+  "ayah_record_id": "2dba20d7-4d76-4a78-8c3a-71ebe16e9729",
+  "entity_id": "ed6c92b9-5e62-482d-a320-ef27dad84ef7",
+  "is_primary": false,
+  "slug": "rizq",
+  "ref": "2:211-216",
+  "n": 1,
+  "title": "Perhaps You Hate a Thing and It Is Good for You — When Allah Told You That You Don't Know What's Best for You and Then Proved It"
+ },
+ {
+  "ayah_record_id": "2dba20d7-4d76-4a78-8c3a-71ebe16e9729",
+  "entity_id": "5f5b0000-1633-49d3-b407-2665ad013009",
+  "is_primary": false,
+  "slug": "hayah",
+  "ref": "2:211-216",
+  "n": 1,
+  "title": "Perhaps You Hate a Thing and It Is Good for You — When Allah Told You That You Don't Know What's Best for You and Then Proved It"
+ },
+ {
+  "ayah_record_id": "2dba20d7-4d76-4a78-8c3a-71ebe16e9729",
+  "entity_id": "c4234212-2e03-44d7-84ee-78d10582f18f",
+  "is_primary": false,
+  "slug": "jannah",
+  "ref": "2:211-216",
+  "n": 1,
+  "title": "Perhaps You Hate a Thing and It Is Good for You — When Allah Told You That You Don't Know What's Best for You and Then Proved It"
+ },
+ {
+  "ayah_record_id": "2dba20d7-4d76-4a78-8c3a-71ebe16e9729",
+  "entity_id": "8839f2d2-7f00-4793-b1a6-12f6b968acd0",
+  "is_primary": false,
+  "slug": "sirat",
+  "ref": "2:211-216",
+  "n": 1,
+  "title": "Perhaps You Hate a Thing and It Is Good for You — When Allah Told You That You Don't Know What's Best for You and Then Proved It"
+ },
+ {
+  "ayah_record_id": "2dba20d7-4d76-4a78-8c3a-71ebe16e9729",
+  "entity_id": "45b71f83-1a4f-4edf-9c2a-1bbb5957a20a",
+  "is_primary": false,
+  "slug": "qiyamah",
+  "ref": "2:211-216",
+  "n": 1,
+  "title": "Perhaps You Hate a Thing and It Is Good for You — When Allah Told You That You Don't Know What's Best for You and Then Proved It"
+ },
+ {
+  "ayah_record_id": "2dba20d7-4d76-4a78-8c3a-71ebe16e9729",
+  "entity_id": "f0b13a63-1a8a-4dcd-b111-a74905614c2d",
+  "is_primary": false,
+  "slug": "dunya",
+  "ref": "2:211-216",
+  "n": 1,
+  "title": "Perhaps You Hate a Thing and It Is Good for You — When Allah Told You That You Don't Know What's Best for You and Then Proved It"
+ },
+ {
+  "ayah_record_id": "2dba20d7-4d76-4a78-8c3a-71ebe16e9729",
+  "entity_id": "d6566772-9797-4a38-93ed-f91694d8efb5",
+  "is_primary": false,
+  "slug": "yawm",
+  "ref": "2:211-216",
+  "n": 1,
+  "title": "Perhaps You Hate a Thing and It Is Good for You — When Allah Told You That You Don't Know What's Best for You and Then Proved It"
+ },
+ {
+  "ayah_record_id": "2dba20d7-4d76-4a78-8c3a-71ebe16e9729",
+  "entity_id": "3f784701-1e99-48cb-813b-858d36f9ae8a",
+  "is_primary": false,
+  "slug": "kufr",
+  "ref": "2:211-216",
+  "n": 1,
+  "title": "Perhaps You Hate a Thing and It Is Good for You — When Allah Told You That You Don't Know What's Best for You and Then Proved It"
+ },
+ {
+  "ayah_record_id": "2dba20d7-4d76-4a78-8c3a-71ebe16e9729",
+  "entity_id": "b04b0f60-7126-4740-aef8-5960f3ee0712",
+  "is_primary": true,
+  "slug": "haqq",
+  "ref": "2:211-216",
+  "n": 2,
+  "title": "Perhaps You Hate a Thing and It Is Good for You — When Allah Told You That You Don't Know What's Best for You and Then Proved It"
+ },
+ {
+  "ayah_record_id": "2dba20d7-4d76-4a78-8c3a-71ebe16e9729",
+  "entity_id": "acd0a518-f8d4-4235-a4f1-7546f3d90c7f",
+  "is_primary": false,
+  "slug": "ummah",
+  "ref": "2:211-216",
+  "n": 1,
+  "title": "Perhaps You Hate a Thing and It Is Good for You — When Allah Told You That You Don't Know What's Best for You and Then Proved It"
+ },
+ {
+  "ayah_record_id": "ef58cb0b-30ca-477c-8fdb-64041f44e263",
+  "entity_id": "623cdc3b-0de1-488f-9549-33a74e75811a",
+  "is_primary": false,
+  "slug": "afw",
+  "ref": "2:217-220",
+  "n": 1,
+  "title": "Their Sin Is Greater Than Their Benefit — When Allah Weighed Wine on a Scale and Called the Orphan Your Brother"
+ },
+ {
+  "ayah_record_id": "ef58cb0b-30ca-477c-8fdb-64041f44e263",
+  "entity_id": "21c6143a-7e57-4e8c-92ea-66415f5d4da7",
+  "is_primary": false,
+  "slug": "rahmah",
+  "ref": "2:217-220",
+  "n": 1,
+  "title": "Their Sin Is Greater Than Their Benefit — When Allah Weighed Wine on a Scale and Called the Orphan Your Brother"
+ },
+ {
+  "ayah_record_id": "ef58cb0b-30ca-477c-8fdb-64041f44e263",
+  "entity_id": "f0b13a63-1a8a-4dcd-b111-a74905614c2d",
+  "is_primary": true,
+  "slug": "dunya",
+  "ref": "2:217-220",
+  "n": 2,
+  "title": "Their Sin Is Greater Than Their Benefit — When Allah Weighed Wine on a Scale and Called the Orphan Your Brother"
+ },
+ {
+  "ayah_record_id": "ef58cb0b-30ca-477c-8fdb-64041f44e263",
+  "entity_id": "3f784701-1e99-48cb-813b-858d36f9ae8a",
+  "is_primary": false,
+  "slug": "kufr",
+  "ref": "2:217-220",
+  "n": 1,
+  "title": "Their Sin Is Greater Than Their Benefit — When Allah Weighed Wine on a Scale and Called the Orphan Your Brother"
+ },
+ {
+  "ayah_record_id": "812f9b0a-f8ce-49da-8381-8541a7ec8785",
+  "entity_id": "c4234212-2e03-44d7-84ee-78d10582f18f",
+  "is_primary": false,
+  "slug": "jannah",
+  "ref": "2:221-224",
+  "n": 1,
+  "title": "Those Invite to the Fire — When Allah Told You Who to Marry by Telling You Where Each Marriage Leads"
+ },
+ {
+  "ayah_record_id": "812f9b0a-f8ce-49da-8381-8541a7ec8785",
+  "entity_id": "acd0a518-f8d4-4235-a4f1-7546f3d90c7f",
+  "is_primary": false,
+  "slug": "ummah",
+  "ref": "2:221-224",
+  "n": 1,
+  "title": "Those Invite to the Fire — When Allah Told You Who to Marry by Telling You Where Each Marriage Leads"
+ },
+ {
+  "ayah_record_id": "812f9b0a-f8ce-49da-8381-8541a7ec8785",
+  "entity_id": "84e3be67-e74d-45e0-abb6-7fb969907b3c",
+  "is_primary": false,
+  "slug": "nafs",
+  "ref": "2:221-224",
+  "n": 1,
+  "title": "Those Invite to the Fire — When Allah Told You Who to Marry by Telling You Where Each Marriage Leads"
+ },
+ {
+  "ayah_record_id": "d68c531f-5621-4741-b8c8-e0e5dd60d77d",
+  "entity_id": "a009f2b7-96cd-4f4b-a7ed-bde70faab918",
+  "is_primary": false,
+  "slug": "dhikr",
+  "ref": "2:225-232",
+  "n": 1,
+  "title": "Either Keep with Kindness or Release with Kindness — When Allah Legislated Divorce and Made bi-Ma'ruf the Law of Every Exit"
+ },
+ {
+  "ayah_record_id": "d68c531f-5621-4741-b8c8-e0e5dd60d77d",
+  "entity_id": "8812097f-cefd-4b6f-8dba-8c947a0a4fb3",
+  "is_primary": false,
+  "slug": "ihsan",
+  "ref": "2:225-232",
+  "n": 1,
+  "title": "Either Keep with Kindness or Release with Kindness — When Allah Legislated Divorce and Made bi-Ma'ruf the Law of Every Exit"
+ },
+ {
+  "ayah_record_id": "d68c531f-5621-4741-b8c8-e0e5dd60d77d",
+  "entity_id": "1df62517-8bb2-444e-a873-ab3bf72afb7c",
+  "is_primary": true,
+  "slug": "ajal",
+  "ref": "2:225-232",
+  "n": 2,
+  "title": "Either Keep with Kindness or Release with Kindness — When Allah Legislated Divorce and Made bi-Ma'ruf the Law of Every Exit"
+ },
+ {
+  "ayah_record_id": "d68c531f-5621-4741-b8c8-e0e5dd60d77d",
+  "entity_id": "d6566772-9797-4a38-93ed-f91694d8efb5",
+  "is_primary": true,
+  "slug": "yawm",
+  "ref": "2:225-232",
+  "n": 2,
+  "title": "Either Keep with Kindness or Release with Kindness — When Allah Legislated Divorce and Made bi-Ma'ruf the Law of Every Exit"
+ },
+ {
+  "ayah_record_id": "d68c531f-5621-4741-b8c8-e0e5dd60d77d",
+  "entity_id": "36b1c5af-f85c-4a5f-a699-c00a4ab86501",
+  "is_primary": false,
+  "slug": "hikmah",
+  "ref": "2:225-232",
+  "n": 1,
+  "title": "Either Keep with Kindness or Release with Kindness — When Allah Legislated Divorce and Made bi-Ma'ruf the Law of Every Exit"
+ },
+ {
+  "ayah_record_id": "d68c531f-5621-4741-b8c8-e0e5dd60d77d",
+  "entity_id": "97e10ca8-5612-4861-9117-3e11e28974d5",
+  "is_primary": false,
+  "slug": "zulm",
+  "ref": "2:225-232",
+  "n": 1,
+  "title": "Either Keep with Kindness or Release with Kindness — When Allah Legislated Divorce and Made bi-Ma'ruf the Law of Every Exit"
+ },
+ {
+  "ayah_record_id": "d68c531f-5621-4741-b8c8-e0e5dd60d77d",
+  "entity_id": "84e3be67-e74d-45e0-abb6-7fb969907b3c",
+  "is_primary": true,
+  "slug": "nafs",
+  "ref": "2:225-232",
+  "n": 2,
+  "title": "Either Keep with Kindness or Release with Kindness — When Allah Legislated Divorce and Made bi-Ma'ruf the Law of Every Exit"
+ },
+ {
+  "ayah_record_id": "325d7f3d-a6d4-4335-ba96-fd73cf95ccd2",
+  "entity_id": "a009f2b7-96cd-4f4b-a7ed-bde70faab918",
+  "is_primary": false,
+  "slug": "dhikr",
+  "ref": "2:234-235",
+  "n": 1,
+  "title": "Allah Knows You Will Think of Them — When the Quran Legislated Grief, Desire, and the Space Between"
+ },
+ {
+  "ayah_record_id": "325d7f3d-a6d4-4335-ba96-fd73cf95ccd2",
+  "entity_id": "1df62517-8bb2-444e-a873-ab3bf72afb7c",
+  "is_primary": true,
+  "slug": "ajal",
+  "ref": "2:234-235",
+  "n": 2,
+  "title": "Allah Knows You Will Think of Them — When the Quran Legislated Grief, Desire, and the Space Between"
+ },
+ {
+  "ayah_record_id": "325d7f3d-a6d4-4335-ba96-fd73cf95ccd2",
+  "entity_id": "84e3be67-e74d-45e0-abb6-7fb969907b3c",
+  "is_primary": true,
+  "slug": "nafs",
+  "ref": "2:234-235",
+  "n": 4,
+  "title": "Allah Knows You Will Think of Them — When the Quran Legislated Grief, Desire, and the Space Between"
+ },
+ {
+  "ayah_record_id": "d2cf1137-baaa-4052-b0fc-fc3310242660",
+  "entity_id": "f0760586-2cfb-497a-af2e-76a68af2d5e1",
+  "is_primary": true,
+  "slug": "qadar",
+  "ref": "2:236-237",
+  "n": 2,
+  "title": "Do Not Forget Graciousness Between You — When Allah Turned a Broken Contract into an Invitation to Become Better Than Fair"
+ },
+ {
+  "ayah_record_id": "d2cf1137-baaa-4052-b0fc-fc3310242660",
+  "entity_id": "d55b7b37-e2af-4f78-bd00-5aa8da982434",
+  "is_primary": false,
+  "slug": "taqwa",
+  "ref": "2:236-237",
+  "n": 1,
+  "title": "Do Not Forget Graciousness Between You — When Allah Turned a Broken Contract into an Invitation to Become Better Than Fair"
+ },
+ {
+  "ayah_record_id": "d2cf1137-baaa-4052-b0fc-fc3310242660",
+  "entity_id": "b04b0f60-7126-4740-aef8-5960f3ee0712",
+  "is_primary": false,
+  "slug": "haqq",
+  "ref": "2:236-237",
+  "n": 1,
+  "title": "Do Not Forget Graciousness Between You — When Allah Turned a Broken Contract into an Invitation to Become Better Than Fair"
+ },
+ {
+  "ayah_record_id": "f742caf1-fb56-4dc3-91ed-1f8bc72a9a97",
+  "entity_id": "56af54d0-73ac-4b9b-b140-9043d89357ed",
+  "is_primary": false,
+  "slug": "shukr",
+  "ref": "2:243-245",
+  "n": 1,
+  "title": "Who Will Loan Allah? — When God Asked His Servants for a Loan and Promised to Multiply It Back"
+ },
+ {
+  "ayah_record_id": "f742caf1-fb56-4dc3-91ed-1f8bc72a9a97",
+  "entity_id": "77fdf19d-232b-4b70-88e8-42442403ec2c",
+  "is_primary": false,
+  "slug": "mawt",
+  "ref": "2:243-245",
+  "n": 1,
+  "title": "Who Will Loan Allah? — When God Asked His Servants for a Loan and Promised to Multiply It Back"
+ },
+ {
+  "ayah_record_id": "96e3560a-74bf-4195-af4e-071fdc96d646",
+  "entity_id": "c80b11d3-0403-4f3f-b9ca-a6e459a67b49",
+  "is_primary": false,
+  "slug": "sabr",
+  "ref": "2:246-252",
+  "n": 1,
+  "title": "The River That Separated the Committed from the Comfortable — When Allah Tested an Army with a Handful of Water"
+ },
+ {
+  "ayah_record_id": "96e3560a-74bf-4195-af4e-071fdc96d646",
+  "entity_id": "a3221ae5-2aea-497d-bdca-c26ef513ccfa",
+  "is_primary": true,
+  "slug": "musa",
+  "ref": "2:246-252",
+  "n": 2,
+  "title": "The River That Separated the Committed from the Comfortable — When Allah Tested an Army with a Handful of Water"
+ },
+ {
+  "ayah_record_id": "96e3560a-74bf-4195-af4e-071fdc96d646",
+  "entity_id": "98babf3b-47f1-4ea0-a081-95c85d378065",
+  "is_primary": true,
+  "slug": "talut",
+  "ref": "2:246-252",
+  "n": 2,
+  "title": "The River That Separated the Committed from the Comfortable — When Allah Tested an Army with a Handful of Water"
+ },
+ {
+  "ayah_record_id": "96e3560a-74bf-4195-af4e-071fdc96d646",
+  "entity_id": "2dd733a0-c756-46de-ab8f-df1bea95142f",
+  "is_primary": true,
+  "slug": "jalut",
+  "ref": "2:246-252",
+  "n": 3,
+  "title": "The River That Separated the Committed from the Comfortable — When Allah Tested an Army with a Handful of Water"
+ },
+ {
+  "ayah_record_id": "96e3560a-74bf-4195-af4e-071fdc96d646",
+  "entity_id": "4319881e-8d55-4afe-8d2c-bf583e5dc8b2",
+  "is_primary": true,
+  "slug": "harun",
+  "ref": "2:246-252",
+  "n": 1,
+  "title": "The River That Separated the Committed from the Comfortable — When Allah Tested an Army with a Handful of Water"
+ },
+ {
+  "ayah_record_id": "96e3560a-74bf-4195-af4e-071fdc96d646",
+  "entity_id": "d6566772-9797-4a38-93ed-f91694d8efb5",
+  "is_primary": false,
+  "slug": "yawm",
+  "ref": "2:246-252",
+  "n": 1,
+  "title": "The River That Separated the Committed from the Comfortable — When Allah Tested an Army with a Handful of Water"
+ },
+ {
+  "ayah_record_id": "96e3560a-74bf-4195-af4e-071fdc96d646",
+  "entity_id": "36b1c5af-f85c-4a5f-a699-c00a4ab86501",
+  "is_primary": false,
+  "slug": "hikmah",
+  "ref": "2:246-252",
+  "n": 1,
+  "title": "The River That Separated the Committed from the Comfortable — When Allah Tested an Army with a Handful of Water"
+ },
+ {
+  "ayah_record_id": "96e3560a-74bf-4195-af4e-071fdc96d646",
+  "entity_id": "b04b0f60-7126-4740-aef8-5960f3ee0712",
+  "is_primary": false,
+  "slug": "haqq",
+  "ref": "2:246-252",
+  "n": 1,
+  "title": "The River That Separated the Committed from the Comfortable — When Allah Tested an Army with a Handful of Water"
+ },
+ {
+  "ayah_record_id": "1fb9b8ac-1fd3-4660-b962-7ce3df38bcf6",
+  "entity_id": "6ce90516-9141-476e-8f4a-bb50e1e77925",
+  "is_primary": true,
+  "slug": "maryam",
+  "ref": "2:253-254",
+  "n": 1,
+  "title": "Before a Day Comes — When Allah Named Three Things That Will Not Help You and Then Told You What Will"
+ },
+ {
+  "ayah_record_id": "1fb9b8ac-1fd3-4660-b962-7ce3df38bcf6",
+  "entity_id": "14ec6c99-9696-4592-8945-ef905403b3ce",
+  "is_primary": true,
+  "slug": "isa",
+  "ref": "2:253-254",
+  "n": 1,
+  "title": "Before a Day Comes — When Allah Named Three Things That Will Not Help You and Then Told You What Will"
+ },
+ {
+  "ayah_record_id": "1fb9b8ac-1fd3-4660-b962-7ce3df38bcf6",
+  "entity_id": "8773a3a8-b008-4e18-87bb-a6b070b64f28",
+  "is_primary": false,
+  "slug": "ruh",
+  "ref": "2:253-254",
+  "n": 1,
+  "title": "Before a Day Comes — When Allah Named Three Things That Will Not Help You and Then Told You What Will"
+ },
+ {
+  "ayah_record_id": "1fb9b8ac-1fd3-4660-b962-7ce3df38bcf6",
+  "entity_id": "ed6c92b9-5e62-482d-a320-ef27dad84ef7",
+  "is_primary": false,
+  "slug": "rizq",
+  "ref": "2:253-254",
+  "n": 1,
+  "title": "Before a Day Comes — When Allah Named Three Things That Will Not Help You and Then Told You What Will"
+ },
+ {
+  "ayah_record_id": "1fb9b8ac-1fd3-4660-b962-7ce3df38bcf6",
+  "entity_id": "d6566772-9797-4a38-93ed-f91694d8efb5",
+  "is_primary": false,
+  "slug": "yawm",
+  "ref": "2:253-254",
+  "n": 1,
+  "title": "Before a Day Comes — When Allah Named Three Things That Will Not Help You and Then Told You What Will"
+ },
+ {
+  "ayah_record_id": "1fb9b8ac-1fd3-4660-b962-7ce3df38bcf6",
+  "entity_id": "3f784701-1e99-48cb-813b-858d36f9ae8a",
+  "is_primary": false,
+  "slug": "kufr",
+  "ref": "2:253-254",
+  "n": 1,
+  "title": "Before a Day Comes — When Allah Named Three Things That Will Not Help You and Then Told You What Will"
+ },
+ {
+  "ayah_record_id": "18a32a06-67af-48bc-8b07-f08989cdbcc1",
+  "entity_id": "3f784701-1e99-48cb-813b-858d36f9ae8a",
+  "is_primary": true,
+  "slug": "kufr",
+  "ref": "2:256-257",
+  "n": 2,
+  "title": "From Darknesses into the Light — When Allah Declared Freedom of Belief and Then Showed You Where Each Path Leads"
+ },
+ {
+  "ayah_record_id": "2ed7abbf-ab3a-47e1-99c9-f520652b81e7",
+  "entity_id": "c372ba93-037b-447c-84a4-f3866c48cba4",
+  "is_primary": true,
+  "slug": "yahya",
+  "ref": "19:7-11",
+  "n": 1,
+  "title": "A Name No One Had Ever Borne: How Allah Answers a Whisper"
+ },
+ {
+  "ayah_record_id": "2ed7abbf-ab3a-47e1-99c9-f520652b81e7",
+  "entity_id": "178975a6-a53a-48db-8426-00adba42422f",
+  "is_primary": true,
+  "slug": "zakariyya",
+  "ref": "19:7-11",
+  "n": 1,
+  "title": "A Name No One Had Ever Borne: How Allah Answers a Whisper"
+ },
+ {
+  "ayah_record_id": "2ed7abbf-ab3a-47e1-99c9-f520652b81e7",
+  "entity_id": "ad884f07-2ffb-4bbc-a98a-8d57a1d2f663",
+  "is_primary": false,
+  "slug": "layl",
+  "ref": "19:7-11",
+  "n": 1,
+  "title": "A Name No One Had Ever Borne: How Allah Answers a Whisper"
+ },
+ {
+  "ayah_record_id": "e605d8da-10f1-45ee-a579-7935ea829244",
+  "entity_id": "6f201af4-c352-4b7d-a68a-00963bb22888",
+  "is_primary": true,
+  "slug": "luqman",
+  "ref": "31:13-13",
+  "n": 1,
+  "title": "My Dear Son, Don't Do This to Yourself — Why a Father Called Shirk the Greatest Self-Harm"
+ },
+ {
+  "ayah_record_id": "e605d8da-10f1-45ee-a579-7935ea829244",
+  "entity_id": "97e10ca8-5612-4861-9117-3e11e28974d5",
+  "is_primary": false,
+  "slug": "zulm",
+  "ref": "31:13-13",
+  "n": 1,
+  "title": "My Dear Son, Don't Do This to Yourself — Why a Father Called Shirk the Greatest Self-Harm"
+ },
+ {
+  "ayah_record_id": "e605d8da-10f1-45ee-a579-7935ea829244",
+  "entity_id": "0739ee97-f110-4fd2-81c9-ce5ebe82c41a",
+  "is_primary": false,
+  "slug": "shirk",
+  "ref": "31:13-13",
+  "n": 1,
+  "title": "My Dear Son, Don't Do This to Yourself — Why a Father Called Shirk the Greatest Self-Harm"
+ },
+ {
+  "ayah_record_id": "c92f102b-db45-47e0-beca-aeaa761c43da",
+  "entity_id": "a009f2b7-96cd-4f4b-a7ed-bde70faab918",
+  "is_primary": false,
+  "slug": "dhikr",
+  "ref": "41:41-42",
+  "n": 1,
+  "title": "Bāṭil Cannot Approach From In Front or Behind: The Quran's Self-Description"
+ },
+ {
+  "ayah_record_id": "c92f102b-db45-47e0-beca-aeaa761c43da",
+  "entity_id": "3f784701-1e99-48cb-813b-858d36f9ae8a",
+  "is_primary": false,
+  "slug": "kufr",
+  "ref": "41:41-42",
+  "n": 1,
+  "title": "Bāṭil Cannot Approach From In Front or Behind: The Quran's Self-Description"
+ },
+ {
+  "ayah_record_id": "171b6ae3-744f-4254-bdd4-4abd31c0a510",
+  "entity_id": "f0760586-2cfb-497a-af2e-76a68af2d5e1",
+  "is_primary": false,
+  "slug": "qadar",
+  "ref": "2:261-266",
+  "n": 1,
+  "title": "The Grain, the Rock, and the Burning Garden — When Allah Taught You That Charity Has a Soil Problem, Not a Seed Problem"
+ },
+ {
+  "ayah_record_id": "171b6ae3-744f-4254-bdd4-4abd31c0a510",
+  "entity_id": "ace16e83-01f6-441b-83cb-d8d378658964",
+  "is_primary": false,
+  "slug": "khawf",
+  "ref": "2:261-266",
+  "n": 1,
+  "title": "The Grain, the Rock, and the Burning Garden — When Allah Taught You That Charity Has a Soil Problem, Not a Seed Problem"
+ },
+ {
+  "ayah_record_id": "171b6ae3-744f-4254-bdd4-4abd31c0a510",
+  "entity_id": "c4234212-2e03-44d7-84ee-78d10582f18f",
+  "is_primary": true,
+  "slug": "jannah",
+  "ref": "2:261-266",
+  "n": 2,
+  "title": "The Grain, the Rock, and the Burning Garden — When Allah Taught You That Charity Has a Soil Problem, Not a Seed Problem"
+ },
+ {
+  "ayah_record_id": "171b6ae3-744f-4254-bdd4-4abd31c0a510",
+  "entity_id": "d6566772-9797-4a38-93ed-f91694d8efb5",
+  "is_primary": false,
+  "slug": "yawm",
+  "ref": "2:261-266",
+  "n": 1,
+  "title": "The Grain, the Rock, and the Burning Garden — When Allah Taught You That Charity Has a Soil Problem, Not a Seed Problem"
+ },
+ {
+  "ayah_record_id": "171b6ae3-744f-4254-bdd4-4abd31c0a510",
+  "entity_id": "52eb2455-902d-404e-b085-a79b1db0fe12",
+  "is_primary": true,
+  "slug": "sadaqah",
+  "ref": "2:261-266",
+  "n": 2,
+  "title": "The Grain, the Rock, and the Burning Garden — When Allah Taught You That Charity Has a Soil Problem, Not a Seed Problem"
+ },
+ {
+  "ayah_record_id": "171b6ae3-744f-4254-bdd4-4abd31c0a510",
+  "entity_id": "84e3be67-e74d-45e0-abb6-7fb969907b3c",
+  "is_primary": false,
+  "slug": "nafs",
+  "ref": "2:261-266",
+  "n": 1,
+  "title": "The Grain, the Rock, and the Burning Garden — When Allah Taught You That Charity Has a Soil Problem, Not a Seed Problem"
+ },
+ {
+  "ayah_record_id": "7c700c19-1a6f-4251-b80f-a52e8b34a70e",
+  "entity_id": "6a46d926-bbf3-473e-890d-3dad83f13aa8",
+  "is_primary": false,
+  "slug": "shaytan",
+  "ref": "2:267-274",
+  "n": 1,
+  "title": "Shaytan Promises You Poverty — When Allah Exposed the Voice in Your Head That Says 'You Can't Afford to Give'"
+ },
+ {
+  "ayah_record_id": "7c700c19-1a6f-4251-b80f-a52e8b34a70e",
+  "entity_id": "ad884f07-2ffb-4bbc-a98a-8d57a1d2f663",
+  "is_primary": false,
+  "slug": "layl",
+  "ref": "2:267-274",
+  "n": 1,
+  "title": "Shaytan Promises You Poverty — When Allah Exposed the Voice in Your Head That Says 'You Can't Afford to Give'"
+ },
+ {
+  "ayah_record_id": "7c700c19-1a6f-4251-b80f-a52e8b34a70e",
+  "entity_id": "ace16e83-01f6-441b-83cb-d8d378658964",
+  "is_primary": false,
+  "slug": "khawf",
+  "ref": "2:267-274",
+  "n": 1,
+  "title": "Shaytan Promises You Poverty — When Allah Exposed the Voice in Your Head That Says 'You Can't Afford to Give'"
+ },
+ {
+  "ayah_record_id": "7c700c19-1a6f-4251-b80f-a52e8b34a70e",
+  "entity_id": "3f784701-1e99-48cb-813b-858d36f9ae8a",
+  "is_primary": false,
+  "slug": "kufr",
+  "ref": "2:267-274",
+  "n": 1,
+  "title": "Shaytan Promises You Poverty — When Allah Exposed the Voice in Your Head That Says 'You Can't Afford to Give'"
+ },
+ {
+  "ayah_record_id": "7c700c19-1a6f-4251-b80f-a52e8b34a70e",
+  "entity_id": "36b1c5af-f85c-4a5f-a699-c00a4ab86501",
+  "is_primary": true,
+  "slug": "hikmah",
+  "ref": "2:267-274",
+  "n": 2,
+  "title": "Shaytan Promises You Poverty — When Allah Exposed the Voice in Your Head That Says 'You Can't Afford to Give'"
+ },
+ {
+  "ayah_record_id": "7c700c19-1a6f-4251-b80f-a52e8b34a70e",
+  "entity_id": "52eb2455-902d-404e-b085-a79b1db0fe12",
+  "is_primary": false,
+  "slug": "sadaqah",
+  "ref": "2:267-274",
+  "n": 1,
+  "title": "Shaytan Promises You Poverty — When Allah Exposed the Voice in Your Head That Says 'You Can't Afford to Give'"
+ },
+ {
+  "ayah_record_id": "7c700c19-1a6f-4251-b80f-a52e8b34a70e",
+  "entity_id": "97e10ca8-5612-4861-9117-3e11e28974d5",
+  "is_primary": false,
+  "slug": "zulm",
+  "ref": "2:267-274",
+  "n": 1,
+  "title": "Shaytan Promises You Poverty — When Allah Exposed the Voice in Your Head That Says 'You Can't Afford to Give'"
+ },
+ {
+  "ayah_record_id": "7c700c19-1a6f-4251-b80f-a52e8b34a70e",
+  "entity_id": "84e3be67-e74d-45e0-abb6-7fb969907b3c",
+  "is_primary": false,
+  "slug": "nafs",
+  "ref": "2:267-274",
+  "n": 1,
+  "title": "Shaytan Promises You Poverty — When Allah Exposed the Voice in Your Head That Says 'You Can't Afford to Give'"
+ },
+ {
+  "ayah_record_id": "46c98291-734a-4eaa-84fc-a0634b553fb1",
+  "entity_id": "6a46d926-bbf3-473e-890d-3dad83f13aa8",
+  "is_primary": false,
+  "slug": "shaytan",
+  "ref": "2:275-281",
+  "n": 1,
+  "title": "A War from Allah — When the Quran Declared Riba the Only Sin That Triggers a Divine Declaration of War"
+ },
+ {
+  "ayah_record_id": "46c98291-734a-4eaa-84fc-a0634b553fb1",
+  "entity_id": "ace16e83-01f6-441b-83cb-d8d378658964",
+  "is_primary": false,
+  "slug": "khawf",
+  "ref": "2:275-281",
+  "n": 1,
+  "title": "A War from Allah — When the Quran Declared Riba the Only Sin That Triggers a Divine Declaration of War"
+ },
+ {
+  "ayah_record_id": "46c98291-734a-4eaa-84fc-a0634b553fb1",
+  "entity_id": "dc936227-55ad-42b5-a5b5-9752edfbaaea",
+  "is_primary": false,
+  "slug": "ad",
+  "ref": "2:275-281",
+  "n": 1,
+  "title": "A War from Allah — When the Quran Declared Riba the Only Sin That Triggers a Divine Declaration of War"
+ },
+ {
+  "ayah_record_id": "46c98291-734a-4eaa-84fc-a0634b553fb1",
+  "entity_id": "d6566772-9797-4a38-93ed-f91694d8efb5",
+  "is_primary": false,
+  "slug": "yawm",
+  "ref": "2:275-281",
+  "n": 1,
+  "title": "A War from Allah — When the Quran Declared Riba the Only Sin That Triggers a Divine Declaration of War"
+ },
+ {
+  "ayah_record_id": "46c98291-734a-4eaa-84fc-a0634b553fb1",
+  "entity_id": "52eb2455-902d-404e-b085-a79b1db0fe12",
+  "is_primary": false,
+  "slug": "sadaqah",
+  "ref": "2:275-281",
+  "n": 1,
+  "title": "A War from Allah — When the Quran Declared Riba the Only Sin That Triggers a Divine Declaration of War"
+ },
+ {
+  "ayah_record_id": "46c98291-734a-4eaa-84fc-a0634b553fb1",
+  "entity_id": "97e10ca8-5612-4861-9117-3e11e28974d5",
+  "is_primary": true,
+  "slug": "zulm",
+  "ref": "2:275-281",
+  "n": 3,
+  "title": "A War from Allah — When the Quran Declared Riba the Only Sin That Triggers a Divine Declaration of War"
+ },
+ {
+  "ayah_record_id": "46c98291-734a-4eaa-84fc-a0634b553fb1",
+  "entity_id": "84e3be67-e74d-45e0-abb6-7fb969907b3c",
+  "is_primary": false,
+  "slug": "nafs",
+  "ref": "2:275-281",
+  "n": 1,
+  "title": "A War from Allah — When the Quran Declared Riba the Only Sin That Triggers a Divine Declaration of War"
+ },
+ {
+  "ayah_record_id": "6fa206d3-11ff-466f-9793-8bbb8c67621b",
+  "entity_id": "a009f2b7-96cd-4f4b-a7ed-bde70faab918",
+  "is_primary": false,
+  "slug": "dhikr",
+  "ref": "2:282-286",
+  "n": 1,
+  "title": "You Are Our Protector — How the Longest Surah in the Quran Closes with the Most Vulnerable Du'a a Human Being Can Make"
+ },
+ {
+  "ayah_record_id": "6fa206d3-11ff-466f-9793-8bbb8c67621b",
+  "entity_id": "1df62517-8bb2-444e-a873-ab3bf72afb7c",
+  "is_primary": true,
+  "slug": "ajal",
+  "ref": "2:282-286",
+  "n": 2,
+  "title": "You Are Our Protector — How the Longest Surah in the Quran Closes with the Most Vulnerable Du'a a Human Being Can Make"
+ },
+ {
+  "ayah_record_id": "6fa206d3-11ff-466f-9793-8bbb8c67621b",
+  "entity_id": "4d29e056-cdc0-42a1-9074-64d1c3ebd6b9",
+  "is_primary": true,
+  "slug": "adl",
+  "ref": "2:282-286",
+  "n": 2,
+  "title": "You Are Our Protector — How the Longest Surah in the Quran Closes with the Most Vulnerable Du'a a Human Being Can Make"
+ },
+ {
+  "ayah_record_id": "6fa206d3-11ff-466f-9793-8bbb8c67621b",
+  "entity_id": "b04b0f60-7126-4740-aef8-5960f3ee0712",
+  "is_primary": true,
+  "slug": "haqq",
+  "ref": "2:282-286",
+  "n": 2,
+  "title": "You Are Our Protector — How the Longest Surah in the Quran Closes with the Most Vulnerable Du'a a Human Being Can Make"
+ },
+ {
+  "ayah_record_id": "6fa206d3-11ff-466f-9793-8bbb8c67621b",
+  "entity_id": "84e3be67-e74d-45e0-abb6-7fb969907b3c",
+  "is_primary": true,
+  "slug": "nafs",
+  "ref": "2:282-286",
+  "n": 2,
+  "title": "You Are Our Protector — How the Longest Surah in the Quran Closes with the Most Vulnerable Du'a a Human Being Can Make"
+ },
+ {
+  "ayah_record_id": "c39542a7-fc3f-482f-bb24-3eebe683d4f0",
+  "entity_id": "c1674cad-a153-47c6-a14d-e1a5257c8ffc",
+  "is_primary": false,
+  "slug": "amanah",
+  "ref": "4:58-58",
+  "n": 1,
+  "title": "Two Commands That Built a Civilisation — The Amānah You're Carrying and the Justice You Owe"
+ },
+ {
+  "ayah_record_id": "c39542a7-fc3f-482f-bb24-3eebe683d4f0",
+  "entity_id": "4d29e056-cdc0-42a1-9074-64d1c3ebd6b9",
+  "is_primary": false,
+  "slug": "adl",
+  "ref": "4:58-58",
+  "n": 1,
+  "title": "Two Commands That Built a Civilisation — The Amānah You're Carrying and the Justice You Owe"
+ },
+ {
+  "ayah_record_id": "33f73146-2c0c-4da3-91eb-88556d323208",
+  "entity_id": "77fdf19d-232b-4b70-88e8-42442403ec2c",
+  "is_primary": false,
+  "slug": "mawt",
+  "ref": "4:78-79",
+  "n": 1,
+  "title": "Who Did This to Me? — The Ayah That Settles Where Good and Evil Come From"
+ },
+ {
+  "ayah_record_id": "33f73146-2c0c-4da3-91eb-88556d323208",
+  "entity_id": "84e3be67-e74d-45e0-abb6-7fb969907b3c",
+  "is_primary": false,
+  "slug": "nafs",
+  "ref": "4:78-79",
+  "n": 1,
+  "title": "Who Did This to Me? — The Ayah That Settles Where Good and Evil Come From"
+ },
+ {
+  "ayah_record_id": "2a201249-6175-4137-be6c-b0770bec9c79",
+  "entity_id": "c4234212-2e03-44d7-84ee-78d10582f18f",
+  "is_primary": false,
+  "slug": "jannah",
+  "ref": "18:31-31",
+  "n": 1,
+  "title": "The Beautiful Resting Place"
+ },
+ {
+  "ayah_record_id": "e871996f-37d2-4e55-b1f0-9c1b13775e0d",
+  "entity_id": "a009f2b7-96cd-4f4b-a7ed-bde70faab918",
+  "is_primary": false,
+  "slug": "dhikr",
+  "ref": "18:83-83",
+  "n": 1,
+  "title": "The Question That Became a Reminder"
+ },
+ {
+  "ayah_record_id": "e75e1d02-c327-4496-beec-a65149864095",
+  "entity_id": "d6566772-9797-4a38-93ed-f91694d8efb5",
+  "is_primary": false,
+  "slug": "yawm",
+  "ref": "18:99-99",
+  "n": 1,
+  "title": "When the Barrier Opens Into the Gathering"
+ },
+ {
+  "ayah_record_id": "27b1aac6-9161-4ff1-b141-b34400034e60",
+  "entity_id": "84e3be67-e74d-45e0-abb6-7fb969907b3c",
+  "is_primary": false,
+  "slug": "nafs",
+  "ref": "18:6-8",
+  "n": 1,
+  "title": "The Grief, the Glitter, and the Barren Ground"
+ },
+ {
+  "ayah_record_id": "7e1ebe60-6174-43b6-a99d-66a96a2ce717",
+  "entity_id": "21c6143a-7e57-4e8c-92ea-66415f5d4da7",
+  "is_primary": false,
+  "slug": "rahmah",
+  "ref": "18:9-12",
+  "n": 1,
+  "title": "The Cave That Was Not the Strangest Sign"
+ },
+ {
+  "ayah_record_id": "a0e3e398-a32c-426d-a2d5-6044f55c0135",
+  "entity_id": "21c6143a-7e57-4e8c-92ea-66415f5d4da7",
+  "is_primary": false,
+  "slug": "rahmah",
+  "ref": "18:13-16",
+  "n": 1,
+  "title": "When Young Hearts Stand"
+ },
+ {
+  "ayah_record_id": "a0e3e398-a32c-426d-a2d5-6044f55c0135",
+  "entity_id": "b04b0f60-7126-4740-aef8-5960f3ee0712",
+  "is_primary": false,
+  "slug": "haqq",
+  "ref": "18:13-16",
+  "n": 1,
+  "title": "When Young Hearts Stand"
+ },
+ {
+  "ayah_record_id": "cc76d5c3-f210-48a1-98ef-eea8036a9df7",
+  "entity_id": "c80b11d3-0403-4f3f-b9ca-a6e459a67b49",
+  "is_primary": false,
+  "slug": "sabr",
+  "ref": "18:71-73",
+  "n": 1,
+  "title": "The Hole in the Ship"
+ },
+ {
+  "ayah_record_id": "5f39b799-e388-4fb4-aba2-bb642938648f",
+  "entity_id": "ed6c92b9-5e62-482d-a320-ef27dad84ef7",
+  "is_primary": false,
+  "slug": "rizq",
+  "ref": "18:19-20",
+  "n": 1,
+  "title": "The Errand After the Miracle"
+ },
+ {
+  "ayah_record_id": "5f39b799-e388-4fb4-aba2-bb642938648f",
+  "entity_id": "d6566772-9797-4a38-93ed-f91694d8efb5",
+  "is_primary": true,
+  "slug": "yawm",
+  "ref": "18:19-20",
+  "n": 2,
+  "title": "The Errand After the Miracle"
+ },
+ {
+  "ayah_record_id": "e8a7af91-0b37-40d3-8bc6-5d371da4cdfb",
+  "entity_id": "b04b0f60-7126-4740-aef8-5960f3ee0712",
+  "is_primary": false,
+  "slug": "haqq",
+  "ref": "18:21-22",
+  "n": 1,
+  "title": "The Sign They Tried to Count"
+ },
+ {
+  "ayah_record_id": "63768f71-85f5-4fc0-ae30-2cf26af4c8f9",
+  "entity_id": "a009f2b7-96cd-4f4b-a7ed-bde70faab918",
+  "is_primary": false,
+  "slug": "dhikr",
+  "ref": "18:23-24",
+  "n": 1,
+  "title": "Do Not Promise Tomorrow Without Allah"
+ },
+ {
+  "ayah_record_id": "27147908-e13d-4782-9ef1-dd13bd3d973d",
+  "entity_id": "c4234212-2e03-44d7-84ee-78d10582f18f",
+  "is_primary": true,
+  "slug": "jannah",
+  "ref": "18:32-36",
+  "n": 3,
+  "title": "When the Garden Became His Proof"
+ },
+ {
+  "ayah_record_id": "27147908-e13d-4782-9ef1-dd13bd3d973d",
+  "entity_id": "97e10ca8-5612-4861-9117-3e11e28974d5",
+  "is_primary": false,
+  "slug": "zulm",
+  "ref": "18:32-36",
+  "n": 1,
+  "title": "When the Garden Became His Proof"
+ },
+ {
+  "ayah_record_id": "27147908-e13d-4782-9ef1-dd13bd3d973d",
+  "entity_id": "84e3be67-e74d-45e0-abb6-7fb969907b3c",
+  "is_primary": false,
+  "slug": "nafs",
+  "ref": "18:32-36",
+  "n": 1,
+  "title": "When the Garden Became His Proof"
+ },
+ {
+  "ayah_record_id": "1f859f2a-1505-43fc-835e-e41adcd4307c",
+  "entity_id": "c4234212-2e03-44d7-84ee-78d10582f18f",
+  "is_primary": true,
+  "slug": "jannah",
+  "ref": "18:37-41",
+  "n": 2,
+  "title": "The Sentence He Should Have Said"
+ },
+ {
+  "ayah_record_id": "1f859f2a-1505-43fc-835e-e41adcd4307c",
+  "entity_id": "3f784701-1e99-48cb-813b-858d36f9ae8a",
+  "is_primary": false,
+  "slug": "kufr",
+  "ref": "18:37-41",
+  "n": 1,
+  "title": "The Sentence He Should Have Said"
+ },
+ {
+  "ayah_record_id": "b7ae8270-3c10-4591-8849-9ccdccba08a5",
+  "entity_id": "b04b0f60-7126-4740-aef8-5960f3ee0712",
+  "is_primary": false,
+  "slug": "haqq",
+  "ref": "18:42-44",
+  "n": 1,
+  "title": "When the Garden Fell Into Its Own Roofs"
+ },
+ {
+  "ayah_record_id": "dc248b99-8461-440e-b9b7-5775df5dc5e6",
+  "entity_id": "5f5b0000-1633-49d3-b407-2665ad013009",
+  "is_primary": true,
+  "slug": "hayah",
+  "ref": "18:45-46",
+  "n": 2,
+  "title": "What Remains After the Wind"
+ },
+ {
+  "ayah_record_id": "dc248b99-8461-440e-b9b7-5775df5dc5e6",
+  "entity_id": "f0b13a63-1a8a-4dcd-b111-a74905614c2d",
+  "is_primary": true,
+  "slug": "dunya",
+  "ref": "18:45-46",
+  "n": 2,
+  "title": "What Remains After the Wind"
+ },
+ {
+  "ayah_record_id": "821ff865-465d-44b3-a0c3-378ca119e770",
+  "entity_id": "c80b11d3-0403-4f3f-b9ca-a6e459a67b49",
+  "is_primary": false,
+  "slug": "sabr",
+  "ref": "18:74-76",
+  "n": 1,
+  "title": "The Second Shock"
+ },
+ {
+  "ayah_record_id": "821ff865-465d-44b3-a0c3-378ca119e770",
+  "entity_id": "84e3be67-e74d-45e0-abb6-7fb969907b3c",
+  "is_primary": true,
+  "slug": "nafs",
+  "ref": "18:74-76",
+  "n": 2,
+  "title": "The Second Shock"
+ },
+ {
+  "ayah_record_id": "ea739353-1fcd-41d5-ae81-dfc2322bdc80",
+  "entity_id": "9cfce557-39f1-4beb-8a15-e03f0cd92a2c",
+  "is_primary": false,
+  "slug": "jinn",
+  "ref": "18:50-53",
+  "n": 1,
+  "title": "The Allies Who Cannot Answer"
+ },
+ {
+  "ayah_record_id": "ea739353-1fcd-41d5-ae81-dfc2322bdc80",
+  "entity_id": "6647d520-3558-4ff2-882e-c85a706b1c47",
+  "is_primary": true,
+  "slug": "iblis",
+  "ref": "18:50-53",
+  "n": 1,
+  "title": "The Allies Who Cannot Answer"
+ },
+ {
+  "ayah_record_id": "ea739353-1fcd-41d5-ae81-dfc2322bdc80",
+  "entity_id": "68c432ec-afed-46ce-8a95-5fc97deb11cc",
+  "is_primary": true,
+  "slug": "adam",
+  "ref": "18:50-53",
+  "n": 1,
+  "title": "The Allies Who Cannot Answer"
+ },
+ {
+  "ayah_record_id": "ea739353-1fcd-41d5-ae81-dfc2322bdc80",
+  "entity_id": "d6566772-9797-4a38-93ed-f91694d8efb5",
+  "is_primary": false,
+  "slug": "yawm",
+  "ref": "18:50-53",
+  "n": 1,
+  "title": "The Allies Who Cannot Answer"
+ },
+ {
+  "ayah_record_id": "ea739353-1fcd-41d5-ae81-dfc2322bdc80",
+  "entity_id": "84e3be67-e74d-45e0-abb6-7fb969907b3c",
+  "is_primary": false,
+  "slug": "nafs",
+  "ref": "18:50-53",
+  "n": 1,
+  "title": "The Allies Who Cannot Answer"
+ },
+ {
+  "ayah_record_id": "090d0164-0314-4b4b-8472-ba99caf2d870",
+  "entity_id": "3f784701-1e99-48cb-813b-858d36f9ae8a",
+  "is_primary": false,
+  "slug": "kufr",
+  "ref": "18:54-56",
+  "n": 1,
+  "title": "The Argument After Every Example"
+ },
+ {
+  "ayah_record_id": "090d0164-0314-4b4b-8472-ba99caf2d870",
+  "entity_id": "b04b0f60-7126-4740-aef8-5960f3ee0712",
+  "is_primary": false,
+  "slug": "haqq",
+  "ref": "18:54-56",
+  "n": 1,
+  "title": "The Argument After Every Example"
+ },
+ {
+  "ayah_record_id": "d781bb20-69ca-45ff-b631-f3c486a776cf",
+  "entity_id": "a009f2b7-96cd-4f4b-a7ed-bde70faab918",
+  "is_primary": false,
+  "slug": "dhikr",
+  "ref": "18:57-59",
+  "n": 1,
+  "title": "When Reminder Becomes Heavy"
+ },
+ {
+  "ayah_record_id": "d781bb20-69ca-45ff-b631-f3c486a776cf",
+  "entity_id": "21c6143a-7e57-4e8c-92ea-66415f5d4da7",
+  "is_primary": false,
+  "slug": "rahmah",
+  "ref": "18:57-59",
+  "n": 1,
+  "title": "When Reminder Becomes Heavy"
+ },
+ {
+  "ayah_record_id": "d781bb20-69ca-45ff-b631-f3c486a776cf",
+  "entity_id": "97e10ca8-5612-4861-9117-3e11e28974d5",
+  "is_primary": false,
+  "slug": "zulm",
+  "ref": "18:57-59",
+  "n": 1,
+  "title": "When Reminder Becomes Heavy"
+ },
+ {
+  "ayah_record_id": "2c1bbb34-2ca5-4245-9660-f66c0e6139b6",
+  "entity_id": "a009f2b7-96cd-4f4b-a7ed-bde70faab918",
+  "is_primary": false,
+  "slug": "dhikr",
+  "ref": "18:60-65",
+  "n": 1,
+  "title": "The Fish Left a Tunnel in the Sea, and the Forgetting Was the Sign"
+ },
+ {
+  "ayah_record_id": "2c1bbb34-2ca5-4245-9660-f66c0e6139b6",
+  "entity_id": "a3221ae5-2aea-497d-bdca-c26ef513ccfa",
+  "is_primary": true,
+  "slug": "musa",
+  "ref": "18:60-65",
+  "n": 1,
+  "title": "The Fish Left a Tunnel in the Sea, and the Forgetting Was the Sign"
+ },
+ {
+  "ayah_record_id": "2c1bbb34-2ca5-4245-9660-f66c0e6139b6",
+  "entity_id": "6a46d926-bbf3-473e-890d-3dad83f13aa8",
+  "is_primary": false,
+  "slug": "shaytan",
+  "ref": "18:60-65",
+  "n": 1,
+  "title": "The Fish Left a Tunnel in the Sea, and the Forgetting Was the Sign"
+ },
+ {
+  "ayah_record_id": "2c1bbb34-2ca5-4245-9660-f66c0e6139b6",
+  "entity_id": "21c6143a-7e57-4e8c-92ea-66415f5d4da7",
+  "is_primary": false,
+  "slug": "rahmah",
+  "ref": "18:60-65",
+  "n": 1,
+  "title": "The Fish Left a Tunnel in the Sea, and the Forgetting Was the Sign"
+ },
+ {
+  "ayah_record_id": "fbe7c1a7-6696-499f-9025-fc9cdb35effb",
+  "entity_id": "c80b11d3-0403-4f3f-b9ca-a6e459a67b49",
+  "is_primary": true,
+  "slug": "sabr",
+  "ref": "18:66-70",
+  "n": 2,
+  "title": "The Discipline Before the Journey"
+ },
+ {
+  "ayah_record_id": "fbe7c1a7-6696-499f-9025-fc9cdb35effb",
+  "entity_id": "a009f2b7-96cd-4f4b-a7ed-bde70faab918",
+  "is_primary": false,
+  "slug": "dhikr",
+  "ref": "18:66-70",
+  "n": 1,
+  "title": "The Discipline Before the Journey"
+ },
+ {
+  "ayah_record_id": "fbe7c1a7-6696-499f-9025-fc9cdb35effb",
+  "entity_id": "a3221ae5-2aea-497d-bdca-c26ef513ccfa",
+  "is_primary": true,
+  "slug": "musa",
+  "ref": "18:66-70",
+  "n": 1,
+  "title": "The Discipline Before the Journey"
+ },
+ {
+  "ayah_record_id": "b8c40514-8b01-47db-9743-9bf660670e4b",
+  "entity_id": "c80b11d3-0403-4f3f-b9ca-a6e459a67b49",
+  "is_primary": false,
+  "slug": "sabr",
+  "ref": "18:77-78",
+  "n": 1,
+  "title": "The Wall and the Parting"
+ },
+ {
+  "ayah_record_id": "0952b95d-9e29-4416-a1fa-9e840bd8d2cb",
+  "entity_id": "c80b11d3-0403-4f3f-b9ca-a6e459a67b49",
+  "is_primary": false,
+  "slug": "sabr",
+  "ref": "18:79-82",
+  "n": 1,
+  "title": "The Interpretation of the Three Wounds"
+ },
+ {
+  "ayah_record_id": "0952b95d-9e29-4416-a1fa-9e840bd8d2cb",
+  "entity_id": "9c6d5f53-fb49-4c90-8976-c6ce06cadffd",
+  "is_primary": true,
+  "slug": "salih",
+  "ref": "18:79-82",
+  "n": 1,
+  "title": "The Interpretation of the Three Wounds"
+ },
+ {
+  "ayah_record_id": "0952b95d-9e29-4416-a1fa-9e840bd8d2cb",
+  "entity_id": "21c6143a-7e57-4e8c-92ea-66415f5d4da7",
+  "is_primary": false,
+  "slug": "rahmah",
+  "ref": "18:79-82",
+  "n": 1,
+  "title": "The Interpretation of the Three Wounds"
+ },
+ {
+  "ayah_record_id": "0952b95d-9e29-4416-a1fa-9e840bd8d2cb",
+  "entity_id": "3f784701-1e99-48cb-813b-858d36f9ae8a",
+  "is_primary": false,
+  "slug": "kufr",
+  "ref": "18:79-82",
+  "n": 1,
+  "title": "The Interpretation of the Three Wounds"
+ },
+ {
+  "ayah_record_id": "a2c2b3cf-6795-467f-b1fe-6e04c0b31b62",
+  "entity_id": "9c6d5f53-fb49-4c90-8976-c6ce06cadffd",
+  "is_primary": true,
+  "slug": "salih",
+  "ref": "18:86-88",
+  "n": 1,
+  "title": "Justice at the Western Horizon"
+ },
+ {
+  "ayah_record_id": "a2c2b3cf-6795-467f-b1fe-6e04c0b31b62",
+  "entity_id": "97e10ca8-5612-4861-9117-3e11e28974d5",
+  "is_primary": false,
+  "slug": "zulm",
+  "ref": "18:86-88",
+  "n": 1,
+  "title": "Justice at the Western Horizon"
+ },
+ {
+  "ayah_record_id": "9a35d7b1-afb7-4308-8a11-37f74930d7a2",
+  "entity_id": "9c6d5f53-fb49-4c90-8976-c6ce06cadffd",
+  "is_primary": true,
+  "slug": "salih",
+  "ref": "18:109-110",
+  "n": 1,
+  "title": "The Ink That Ran Out Before the Words Did"
+ },
+ {
+  "ayah_record_id": "a5379d6d-1d2a-40f3-8ba1-88b36b2d10e4",
+  "entity_id": "84e3be67-e74d-45e0-abb6-7fb969907b3c",
+  "is_primary": false,
+  "slug": "nafs",
+  "ref": "42:11-11",
+  "n": 1,
+  "title": "Nothing Like His Likeness — The Six Words That Broke Every Comparison"
+ },
+ {
+  "ayah_record_id": "ef91dba8-0041-418f-8b11-0056480fae8f",
+  "entity_id": "c4234212-2e03-44d7-84ee-78d10582f18f",
+  "is_primary": false,
+  "slug": "jannah",
+  "ref": "53:13-18",
+  "n": 1,
+  "title": "The Tree Where Knowledge Ends: On What the Quran Refuses to Tell You"
+ },
+ {
+  "ayah_record_id": "fa31db98-37cc-4bc3-8b84-a78cae742579",
+  "entity_id": "ed6c92b9-5e62-482d-a320-ef27dad84ef7",
+  "is_primary": false,
+  "slug": "rizq",
+  "ref": "56:75-82",
+  "n": 1,
+  "title": "The Falling of the Stars and the Book That Cannot Be Touched"
+ },
+ {
+  "ayah_record_id": "5c1ccea2-b256-445a-b4f8-7bddf4580618",
+  "entity_id": "547e36b8-aa55-4c03-a139-cd94f1df456a",
+  "is_primary": false,
+  "slug": "tawakkul",
+  "ref": "65:3-3",
+  "n": 1,
+  "title": "Sufficiency Is Not the Absence of Measure"
+ },
+ {
+  "ayah_record_id": "5c1ccea2-b256-445a-b4f8-7bddf4580618",
+  "entity_id": "f0760586-2cfb-497a-af2e-76a68af2d5e1",
+  "is_primary": false,
+  "slug": "qadar",
+  "ref": "65:3-3",
+  "n": 1,
+  "title": "Sufficiency Is Not the Absence of Measure"
+ },
+ {
+  "ayah_record_id": "5c1ccea2-b256-445a-b4f8-7bddf4580618",
+  "entity_id": "ed6c92b9-5e62-482d-a320-ef27dad84ef7",
+  "is_primary": false,
+  "slug": "rizq",
+  "ref": "65:3-3",
+  "n": 1,
+  "title": "Sufficiency Is Not the Absence of Measure"
+ },
+ {
+  "ayah_record_id": "ef4a838e-7203-4e57-85db-c4100c9bd956",
+  "entity_id": "f0760586-2cfb-497a-af2e-76a68af2d5e1",
+  "is_primary": false,
+  "slug": "qadar",
+  "ref": "80:19-19",
+  "n": 1,
+  "title": "From Drop to Due Form"
+ }
+]

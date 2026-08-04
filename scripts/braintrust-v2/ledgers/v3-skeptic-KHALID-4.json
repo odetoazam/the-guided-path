@@ -1,0 +1,77 @@
+{
+  "proposal_id": "KHALID-4",
+  "advisor": "KHALID",
+  "lens": "INTERTEXT",
+  "verdict": "REFUTED",
+  "checked": "2026-07-22",
+  "supersedes_prior_run": "2026-07-21 (same REFUTED verdict; this pass adds two further self-overlaps the prior run did not catch)",
+  "substrate_check": {
+    "status": "CONFIRMED",
+    "20:121": {
+      "akalaa": "V PERF 3MD dual 'they two ate' — CONFIRMED",
+      "badat": "V PERF 3FS (agrees with FP sawaat); lahumaa/sawaatuhumaa 3D — CONFIRMED",
+      "tafiqaa": "V PERF 3MD dual — CONFIRMED",
+      "yakhsifaan": "V IMPF 3MD dual — CONFIRMED",
+      "asaa": "V PERF 3MS singular — CONFIRMED",
+      "Aadam": "PN NOM named subject — CONFIRMED",
+      "ghawaa": "V PERF 3MS singular — CONFIRMED",
+      "note": "Within-verse dual->singular shift (eating/covering dual; disobedience singular+named) read straight off the tags. REAL, not imposed."
+    },
+    "7:23": {
+      "qaalaa": "V PERF 3MD dual speech-frame — CONFIRMED",
+      "zalamnaa": "V PERF 1P 'we wronged' + anfusanaa 1P — CONFIRMED",
+      "note": "Joint 1P confession inside dual frame; neither deflects. CONFIRMED."
+    },
+    "2:36": "azalla-humaa 3MS + dual object + ash-shaytaanu NOM — slip attributed to Shaytan, couple joint object. CONFIRMED.",
+    "hawwa_never_named": "0 lemma hits for Hawwa/Eve in the corpus — Eve is never named, let alone blamed.",
+    "shareable_unit_true": "act dual / confession plural / blame-verb singular+named — all three legs mechanically verified."
+  },
+  "grounding_check": {
+    "status": "RECOVERED_TAFSIR_CONFIRMED",
+    "jalalayn_20:121": "VERIFIED verbatim: (wa asaa Aadam rabbahu fa-ghawaa) bil-akli min al-shajara — al-Jalalayn names Adam as the singular disobedient. NOTE: exhibit body compresses this to 'wa asaa Aadamu rabbahu bil-akl', misattaching bil-akl to 'asaa; al-Jalalayn attaches it to fa-ghawaa.",
+    "tabari_7:23": "VERIFIED verbatim: ...KHILAAF JAWAAB al-la'een Iblees — al-Tabari frames the joint confession as the opposite of Iblis's deflection. Exactly the claim.",
+    "genesis_divergence": "Correctly self-flagged MODERN comparative reflection; Genesis 3 blame-chain quoted accurately in premise.",
+    "caveat_tabari_20:121": "al-Tabari paraphrases the 20:121 disobedience in the DUAL: wa khaalafaa amra rabbihimaa (both disobeyed). Classical tradition did NOT read singular 'asaa as exonerating Eve. 'if anything' hedge is mandatory; do not overclaim 'only Adam sinned.'"
+  },
+  "imposed_test": "PASS — pattern is morphologically real, not projected.",
+  "disguised_count_test": "PASS — person/number/named-subject grammar across three verses, not a frequency count.",
+  "hadith_test": "PASS — Quran text + Quran-anchored glosses + Genesis comparison; no hadith payoff.",
+  "overlap_test": {
+    "status": "FAIL — LOAD-BEARING SELF-OVERLAP ON ALL THREE COMPONENTS",
+    "exhibit_self_certification": "overlap_note vetted only 'Adam's Tawbah and Iblis's Refusal' and 'Adam's Prayer' and asserts 'neither reads the person/number grammar of blame or the intertextual point.' This is FALSE on multiple counts.",
+    "neighbor_1_headline_reveal": {
+      "file": "content/tadabbur/020-ta-ha/ayahs-121-122.md ('Eight Verbs from Fall to Guidance', slug 020-121)",
+      "evidence": [
+        "L177: 'In ayah 121, the subject of every verb is Adam, or Adam and his wife. They ate. They were exposed. They began patching. He (Adam) disobeyed. He erred.' — the dual->singular shift.",
+        "L207: 'the Quran names it directly, with Adam's own name attached: not it was done but Adam disobeyed his Lord.' — the disobedience-verb-names-Adam point.",
+        "L327: 'The first five: fa-akala (they ate) ... asaa (he disobeyed) ... Every subject is human.'"
+      ],
+      "verdict": "The proposal's HEADLINE reveal ('The Verse That Assigns the Fault Uses the Singular — and Names Adam') is already published here. The proposal's stated edge ('Mine is grammar-of-blame') is precisely the already-published part."
+    },
+    "neighbor_2_seven23_pillar": {
+      "file": "content/tadabbur/007-al-araf/ayahs-023-025.md ('Our Lord, We Have Wronged Ourselves', slug 007-023-025)",
+      "evidence": [
+        "passage_context + L173: 'the response of Adam and his wife becomes the model opposite to Iblis. They do not justify themselves, shift blame, or reinterpret the command. They confess wrongdoing against their own selves.'"
+      ],
+      "verdict": "The proposal's SECOND pillar — 7:23 joint confession, 'neither deflects', opposite of the blame-chain — is already published here, grounded in the same al-Tabari 'opposite of Iblis' framing."
+    },
+    "neighbor_3_anti_genesis_residue": {
+      "file": "content/tadabbur/002-al-baqarah/ayahs-035-039.md",
+      "evidence": [
+        "L86: 'She is not named. Not Hawwa (Eve)... The story is not about a woman named Eve. It is about every couple.'",
+        "L164-168: explicit contrast — 'Western Christianity built an entire theology of original sin around Eden' vs the Quranic tawbah initiated by Allah."
+      ],
+      "verdict": "Even the 'genuinely novel residue' the prior run banked on — the anti-Eve / Genesis-original-sin divergence — is substantially already published here."
+    },
+    "corpus_note": "docs/articles-source/two-who-wronged-themselves.html additionally already flags 7:23's plural 'we have wronged ourselves' in the article corpus (distinguishing it from the singular 27:44/28:16).",
+    "analysis": "All three of the proposal's load-bearing components are individually already on-site: (1) singular-named Adam disobeys [020-121]; (2) 7:23 joint confession as opposite-of-Iblis with no blame-shift [007-023-025]; (3) wife-unnamed / anti-Genesis original-sin [002/035-039]. The only non-existent-as-a-unit element is welding the three into one contested-question SEO article. The proposal's own differentiation claim is false, and it presents recycled grammar as a fresh discovery. Under this run's explicit anti-self-overlap mandate ('overlapping any core reveal is dead on arrival'), that is a load-bearing failure."
+  },
+  "one_tweet_rebuttal": "'AyahGuide sells this as a fresh discovery, but its own Ta-Ha 20:121 page already spells out the dual->they / singular-Adam grammar, its Al-Araf 7:23 page already calls the joint confession the opposite of Iblis, and its Baqarah 2:35 page already says the Quran refuses to name or blame Eve. The reveal is three existing pages with an Eve headline bolted on.'",
+  "broken_claims": [
+    "overlap_note: 'neither reads the person/number grammar of blame or the intertextual point' — FALSE. content/tadabbur/020-ta-ha/ayahs-121-122.md (L177/L207/L327) already states the dual->singular shift and the disobedience-verb-names-Adam point (the headline); content/tadabbur/007-al-araf/ayahs-023-025.md already delivers the 7:23 'opposite of Iblis / no blame-shift' pillar; content/tadabbur/002-al-baqarah/ayahs-035-039.md already makes the anti-Eve / anti-Genesis point.",
+    "imposed_check self-certification 'read off the text, not projected ... distinct from existing Adam articles' — the three closest on-site neighbors were not checked; the headline and both pillars duplicate published content.",
+    "grounding (minor): al-Jalalayn 20:121 gloss compressed as 'wa asaa Aadamu rabbahu bil-akl' misattaches bil-akl to 'asaa; al-Jalalayn attaches it to fa-ghawaa ('...fa-ghawaa bil-akl min al-shajara')."
+  ],
+  "required_corrections": "This is a KILL as written, not a light edit. Any salvage requires re-scoping into a different deliverable: (1) Do NOT ship the grammar-of-blame ('names Adam, singular') as the headline — already published on 020-121; treat it as a known fact and internally link that page. (2) Do NOT ship the 7:23 'joint confession / opposite of Iblis' as a reveal — already published on 007-023-025; link it. (3) Do NOT ship the anti-Eve / anti-Genesis point as fresh — already published on 002/035-039; link it. (4) The ONLY defensible new artifact is an explicitly-labeled CONSOLIDATION / contested-question answer page ('Does Islam blame Eve?') whose value is aggregation + SEO/AEO capture on the contested-search vector, that cites and links all three existing pages and adds no new grammatical claim it presents as discovery. If the editor cannot justify a consolidation page as additive beyond internal linking, drop it. (5) If any consolidation ships: keep the 'if anything' hedge — al-Tabari narrates 20:121's disobedience in the dual (khaalafaa amra rabbihimaa); claim only that the one named subject of the disobedience CLAUSE is Adam, act shared (dual), confession shared (1P), Eve never named — not that Hawwa did not sin. Use accurate al-Jalalayn quote. Optional strengthener: the Quran never singles Eve out for the whisper (7:20 waswasa dual lahumaa; 20:120 addresses Adam, adulluka 2MS).",
+  "notes": "Substrate airtight and classical grounding genuinely recovered (al-Jalalayn 20:121, al-Tabari 7:23 both verbatim). Pattern is REAL, not imposed, not a count, Quran-only — it passes every textual and grounding test. It fails on the one axis this run is built to hunt, and fails it harder than the prior pass recorded: not one but THREE load-bearing components are already published across the site's own 020-121, 007-023-025, and 002/035-039 tadabbur pages, and the proposal falsely certifies itself as distinct. The 5/5/5/5 persona case (contested 'Islam blames Eve' search path) is real, but it argues for a CONSOLIDATION/answer page that links existing deep content — not for this proposal, which repackages recycled reveals as a fresh grammatical discovery. REFUTED as written; re-scope to a labeled consolidation page or drop."
+}

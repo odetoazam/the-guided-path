@@ -1,0 +1,105 @@
+{
+  "advisor": "Dr. Hasan al-Qasimi",
+  "lens": "classical-tafsir fidelity — tafsir-warrant test, ikhtilaf honored, classical-voice vs modern-reading kept typographically and verbally distinct",
+  "run": "2026-07-20 diversified (revised pass)",
+  "selection_principle": "I did not chase word-counts. I chose the reveals that the classical mufassirun already carry — where the tradition itself supplies the observation and the modern layer is only the framing. Where the reveal is a modern structural reading (rings, corpus-wide laws, cross-passage maps), I have said so in the thesis itself, per my standing recommendation that author-voice and classical-voice must never wear the same clothes. Revision note: I swapped the Iblis request/reply piece out for the 10:22 storm-iltifat — the verse al-Zamakhshari uses as the textbook case of the turn from address to absence, with al-Jalalayn's verbatim 'fihi iltifatun.' Three divine-response pairs over-weighted one lens, and no serious iltifat run should leave the tradition's own paradigm verse on the table.",
+  "note_to_panel": "EXCLUSIONS on warrant or overlap grounds: (1) INTERTEXT-7 (Adam and the names) — the ledger's overlap note ('None found') is WRONG: the published article /posts/the-naming-that-changed-everything already treats 2:31-33 with naming-as-fulcrum as its spine (verified in scripts/insert-adam-articles.ts). The Genesis arrow-reversal alone cannot carry a second article on the same three verses. (2) GRAMMAR-CHOICE-5 (zaniyah/sariq fronting) — the Kashshaf/Mafatih ordering-explanations are unverified on a gender-sensitive hadd verse; do not shortlist before someone opens the actual pages. (3) ILTIFAT-2 — the al-Razi attribution on the 51:49/51:56 seam is unverified and the local reveal is already owned by the 51:56 tadabbur. (4) DIVINE-RESPONSE-2/7 (Iblis) — sound (Tabari-explicit deadline cap) but cut for balance; hold as reserve, not rejected.",
+  "proposals": [
+    {
+      "id": "HASAN-1",
+      "title": "The Prayer God Answered Himself — and the Prayer He Refused to Answer at All",
+      "thesis": "In one verse a servant asks about God and, uniquely, God answers in His own first-person voice with no messenger relay: 'When My servants ask you about Me — then I am near, I answer' (2:186). In another, the damned beg from the Fire and God shuts the channel of speech itself: 'Get back in, and do not speak to Me' (23:108). Reading the two together shows the whole span of what it means to address God: the nearest verse in the Quran drops the 'say' and lets God speak directly; the farthest ends all speaking. That the 'say' is absent from 2:186 is a famous classical observation (al-Zamakhshari reads it as God drawing near without an intermediary; al-Tabari and al-Jalalayn gloss it as God informing them Himself); that 'la tukallimun' seals the door is al-Tabari and al-Muyassar ('their supplication was cut off'). The pairing of the two as the two poles of divine address is my modern reflection, offered as reflection, resting on the classical readings of each half.",
+      "exhibits": ["DIVINE-RESPONSE-1", "DIVINE-RESPONSE-6"],
+      "why_now": "2:186 sits inside the Ramadan-fasting passage most Muslims meet every year, yet its grammar — God answering without the usual 'qul' relay — is invisible in translation. Amina recites; this gives her the single most intimate sentence in the Book with its classical warrant intact.",
+      "personas": {
+        "amina": 5,
+        "khalil": 4,
+        "sara": 4,
+        "yusuf": 3,
+        "note": "Amina's verse: 'God is near' with the reason it reads that way. Khalil gets a named Kashshaf citation plus honest ikhtilaf. Yusuf lower — this is a devotional, not a contested-academic, verse."
+      },
+      "risks": "Two hard warrant-guards. (1) DO NOT claim 'qul' appears in every question-verse with exactly one exception — the corpus supports it only as a strong tendency; note that 79:42 also drops 'qul' but answers with rebuke, and flag al-Muyassar's minority reading that inserts an implied 'faqul lahum.' State it as al-Zamakhshari's balaghi observation, not an exceptionless law. (2) The near/far pairing is my synthesis; keep it verbally marked as reflection. Cite the published 'The Door That Closes' for thematic overlap on 23:107-108.",
+      "warrant_grade": "strong per-half (each pole is named-mufassir recovered); pairing labeled modern"
+    },
+    {
+      "id": "HASAN-2",
+      "title": "They Asked God 'What Are You?' — and God Answered a Different Question",
+      "thesis": "Twice the Quran shows a man pressing God for a definition and receiving, deliberately, something else. Pharaoh demands 'and what is the Lord of the worlds?' using 'ma' — the particle that asks a thing's essence — and Musa never answers it; three times he hands back a relationship instead ('Lord of the heavens and the earth,' 'your Lord and the Lord of your fathers,' 26:23-28). Nuh appeals for his drowning son on blood — 'my son is of my family' — and God does not deny the promise; He lifts the very word Nuh used and re-anchors it: 'he is not of your family; he is conduct other than righteous' (11:45-46). In both, the answer refuses the terms of the question. This is not a modern cleverness: al-Jalalayn states outright that Musa's reply is 'the answer that did not match the question' and that creatures have no path to God's essence, only His attributes; al-Razi builds the whole 'ma / man' distinction; al-Jalalayn and al-Tabari record the redefinition of 'ahl' onto faith rather than blood (with real ikhtilaf between 'not of your lineage' and 'not of your covenant-people'). The through-line — God answers the question you should have asked — is my framing over their observations.",
+      "exhibits": ["DIVINE-RESPONSE-3", "DIVINE-RESPONSE-4"],
+      "why_now": "The 'define God' challenge is exactly the demand Yusuf meets in a comparative-religion seminar and Khalil met before converting. The classical answer — the Lord is not a 'what' you dissect, only attributes are accessible — is a citable, first-principles response, not apologetics.",
+      "personas": {
+        "amina": 3,
+        "khalil": 5,
+        "sara": 3,
+        "yusuf": 5,
+        "note": "Khalil and Yusuf's piece: al-Jalalayn's 'jawab that did not match the su'al' is a named, verifiable rhetorical observation they can cite and defend. Honor the 11:46 ikhtilaf explicitly — it is the strongest trust signal for both."
+      },
+      "risks": "Keep the two scenes as two recovered classical observations, not a single 'divine method' law — I do not want a modern system imposed on the tradition. Preserve the 11:46 ikhtilaf in the body, not the frontmatter. On Pharaoh, the site already publishes 'The Grammar of Tyranny' and 'Architecture of the Mirror' — differentiate by isolating the tafsir-noted 'ma'-question / attribute-answer mismatch, which neither covers. Cite 'The Son Who Stayed Behind' for the Nuh overlap.",
+      "warrant_grade": "high — both halves explicitly recovered (al-Jalalayn/al-Razi/al-Tabari)"
+    },
+    {
+      "id": "HASAN-3",
+      "title": "The Storm Changes the Grammar: Why God Stops Calling the Sailors 'You'",
+      "thesis": "In the sailing verse (10:22) God speaks TO you — 'He carries YOU on land and sea... until when YOU are aboard the ships' — and then, at the exact moment of ease, the grammar turns away and describes the passengers from a distance: 'the ships sailed with THEM... and THEY rejoiced.' Only the storm snaps address back into second person, and this time it is the humans crying 'if YOU save us' to God. This is not a modern discovery: al-Jalalayn writes 'fihi iltifatun 'an al-khitab' on this very clause, and al-Zamakhshari uses 10:22 in al-Kashshaf as the paradigm case of the turn from khitab (address) to ghayba (absence). The classical observation carries a spiritual diagnosis the mufassirun would recognize: distance from God is written into the pronouns before it is felt in the heart. The wider map — reading the parallel sea-rescues (6:63-64, 17:67, 31:32) as stations of the same forgetting — is my modern synthesis, offered as reflection.",
+      "exhibits": ["GRAMMAR-CHOICE-3", "ILTIFAT-1"],
+      "why_now": "The single best warrant-to-payoff ratio in the diversified pool: the central claim is verbatim, verifiable classical tafsir on a verse everyone can feel without a word of Arabic. It also inaugurates iltifat as a named category on the site — the door through which the other pronoun articles can later walk.",
+      "personas": {
+        "amina": 4,
+        "khalil": 5,
+        "sara": 4,
+        "yusuf": 5,
+        "note": "Khalil and Yusuf get a named classical category with a verbatim Jalalayn citation — exactly the citable rigor they ask for. Sara gets a sayable line: 'when life is calm the forgetful become they; in the storm they finally say You.' Amina needs no Arabic to feel the diagnosis."
+      },
+      "risks": "The single-verse iltifat is classical balagha, fully attested — assert it with both named sources. The cross-passage synthesis (6:63, 17:67, 31:32 as a map of the heart's distance) is modern and MUST be verbally and typographically marked as reflection. The existing tadabbur on 10:21-24 covers the psychological rhythm without the pronoun choreography — cross-link, do not restate. Do not drift into phonetic-symbolism claims; the mechanism here is person-marking, which the morphology validator can confirm segment by segment.",
+      "warrant_grade": "very high — verbatim al-Jalalayn + Kashshaf paradigm case; cross-passage map flagged modern"
+    },
+    {
+      "id": "HASAN-4",
+      "title": "Everyone Blames Eve. The Verse That Assigns the Fault Uses the Singular — and Names Adam.",
+      "thesis": "The Quran tells the eating and the shame of the first couple in the dual — they two ate, their shame appeared, they two covered themselves — but the instant it assigns disobedience it drops to the singular and names one person: 'and Adam disobeyed his Lord and erred' (20:121). When the couple then repent, they speak as one 'we': 'our Lord, we have wronged ourselves' (7:23) — neither deflects onto the other. The grammar itself refuses the blame-chain that the Genesis account builds, where the man blames the woman and the woman the serpent; here sin is not gendered onto Eve, and the disobedience-verb, if it lands anywhere singular, lands on Adam. The Quranic side is recovered tafsir: al-Jalalayn glosses 20:121 as Adam himself disobeying by the eating; al-Tabari frames the joint confession of 7:23 as the deliberate opposite of Iblis's refusal to own his sin. The comparison with the Genesis blame-sequence is a modern comparative reading, flagged as such — offered to illuminate, not to polemicize.",
+      "exhibits": ["INTERTEXT-1"],
+      "why_now": "'Islam blames Eve for the fall' is a live claim Amina deflects from a colleague and Sara's daughter hears at school. The answer is not spin — it is the morphology of 20:121 and 7:23, verifiable and classical. This is contested-topic content of the exact kind that first brings the Reconnector and the Questioning Parent to the site.",
+      "personas": {
+        "amina": 5,
+        "khalil": 4,
+        "sara": 5,
+        "yusuf": 4,
+        "note": "Amina and Sara's piece — a gender-and-blame answer with something to SAY, grounded in grammar rather than assertion. Sara can read it with a 14-year-old. Keep the comparative layer respectful and clearly labeled so Khalil and Yusuf trust it."
+      },
+      "risks": "The comparative-scripture frame is the sensitive edge. Present the Genesis divergence descriptively, not triumphally — the point is what the Quran's grammar does, not that another scripture is inferior. Do not overstate into 'the Quran blames Adam INSTEAD' — 20:122 immediately records his election and tawbah; the point is shared confession, not transferred blame. Mark the comparison as modern reading; keep the al-Jalalayn/al-Tabari citations carrying the Quranic weight. Distinct from published 'Adam's Tawbah and Iblis's Refusal' and 'Adam's Prayer' — this is the grammar-of-blame lens, not the tawbah lens; cite them.",
+      "warrant_grade": "high on the Quranic side (recovered); comparative layer flagged modern"
+    },
+    {
+      "id": "HASAN-5",
+      "title": "Yusuf's Dream Was Already Interpreted — by One Word Ending at the Start and One Scene at the End",
+      "thesis": "Surah Yusuf is bracketed by a single act of prostration, and the boy himself seals the bracket out loud. In verse 4 Yusuf reports eleven stars, the sun and the moon 'prostrating' to him — and the grammar quietly gives away the meaning before anyone interprets a thing: he calls these inanimate bodies by 'hum' (the pronoun for rational beings) and 'sajidin' (the plural reserved for conscious agents), promoting the stars to persons through agreement alone. Near the surah's close (12:100) his family fall before him in prostration — the same root, s-j-d — and Yusuf says, in the text, 'this is the interpretation of my dream from before; my Lord has made it come true.' The dream's meaning was smuggled in through sentence-endings at the start and confirmed by the character at the end. The closing inclusio is the strongest kind of reading — textually explicit, since al-Tabari, al-Zamakhshari and Ibn Kathir all identify 12:100 as the fulfillment because Yusuf declares it. The rational-agreement point is recovered balagha (tanzil ghayr al-'aqil manzilat al-'aqil, al-Zamakhshari and Abu Hayyan explaining the agreement by the act of sujud).",
+      "exhibits": ["RING-7", "ILTIFAT-3"],
+      "why_now": "Surah Yusuf is the most-read narrative on the site, yet no page frames the whole surah as a dream-to-fulfillment ring or notes that the grammar of 12:4 pre-interprets the dream. This is the structural key to the surah's design and the single cleanest morphology lesson in the corpus.",
+      "personas": {
+        "amina": 4,
+        "khalil": 4,
+        "sara": 4,
+        "yusuf": 5,
+        "note": "Yusuf's piece for its morphological rigor (hum + sajidin for inanimate stars, verifiable in the corpus) and its citable inclusio. Broadly warm for all four — a beautiful, non-contested narrative reveal."
+      },
+      "risks": "Two-tier labeling. The 12:4 to 12:100 inclusio is textually explicit and may be asserted with the three named mufassirun. The rational-agreement claim is recovered balagha, not spelled out in the four bundled tafsirs — anchor it to the named balagha category and the mechanically verifiable morphology, and mark it as balaghi reading rather than plain tafsir. Existing tadabbur/012-yusuf/ayahs-004-006.md covers the dream thematically, not the closing bracket or the agreement — cite it and state the differentiation.",
+      "warrant_grade": "very high on the ring (textually explicit); balaghi on the agreement (flagged)"
+    },
+    {
+      "id": "HASAN-6",
+      "title": "The Most-Recited Prayer in Islam Is a Question — and the Answer Is the Very Next Sentence",
+      "thesis": "Al-Fatiha, said seventeen-plus times a day, ends by begging for one thing: 'guide us to the straight path' (ihdina, root h-d-y) — a plea. The first content-verse of the next surah answers word-for-word: 'That is the Book, no doubt in it — guidance (hudan, same root) for the God-conscious' (2:2), with a demonstrative that points as if presenting the reply. The reader asks to be guided; the next thing God says is 'here is the guidance,' reframing the whole Quran as a single answered du'a. And al-Fatiha turns on itself internally too: its exact middle verse, 'Master of the Day of Judgment' (1:4), is the hinge where the prayer stops speaking about God in the third person and begins addressing Him directly — 'You alone we worship' (1:5). The Fatiha-to-Baqarah answer is well-attested classical munasaba — al-Razi opens his Baqarah tafsir on this sequence, and Ibn al-Qayyim in Madarij al-Salikin reads al-Fatiha as a du'a centered on 'ihdina' with 2:2 as its answer. The iltifat at 1:5 is classical (al-Razi, al-Zamakhshari); the whole-surah ring with 1:4 as pivot is a modern reading (Islahi, Farrin), flagged.",
+      "exhibits": ["NAZM-1", "RING-1"],
+      "why_now": "Amina memorized al-Fatiha in Sunday school and has recited it for decades without knowing it is a request — or that the next breath of the Book is its reply. This is the highest-resonance, lowest-Arabic-prerequisite reveal on the whole diversified pool: everyone who prays already carries both halves.",
+      "personas": {
+        "amina": 5,
+        "khalil": 4,
+        "sara": 5,
+        "yusuf": 4,
+        "note": "Amina and Sara's piece — a daily-prayer revelation with no Arabic prerequisite, immediately shareable and Sunday-school-usable. The munasaba is well-attested, so it also survives Khalil's and Yusuf's citation checks."
+      },
+      "risks": "Two distinct warrant levels must stay visible: the ihdina-to-hudan answer is well-attested munasaba (assert with al-Razi and Ibn al-Qayyim named); the whole-surah ring with 1:4 as center is modern (Islahi/Farrin) — mark it as reflection, and flag the verse-count dependency (the center-verse claim holds in the Hafs numbering that counts the basmala). Do not let the modern ring borrow the authority of the classical munasaba. Do not inflate into a general 'every surah answers the previous one' theory — one seam, fully attested, presented as itself. Fatiha 006-007 and ayah-005 tadabbur files do not draw either seam — cite for coverage.",
+      "warrant_grade": "very high on the munasaba (well-attested); ring framing flagged modern"
+    }
+  ]
+}

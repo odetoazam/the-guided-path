@@ -1,0 +1,77 @@
+{
+  "proposal_id": "KHALID-6",
+  "title": "Surah Yusuf Closes a Ring It Opened in Verse 4 — and Yusuf Says So Out Loud",
+  "reviewer_role": "adversarial fact-checker (VETO)",
+  "date": "2026-07-21",
+  "verdict": "REFUTED",
+  "verdict_basis": "self-overlap (load-bearing failure); substrate and imposed-test both pass",
+  "substrate_checks": {
+    "12:4_sajidin": {
+      "claim": "12:4 ends with سَٰجِدِينَ (saajidin), root سجد, in the dream of 11 stars + sun + moon prostrating",
+      "corpus_loc": "12:4:15:1",
+      "features": "N|ACT_PCPL|VF:1|ROOT:سجد|LEM:ساجِد|MP|ACC",
+      "dream_content_confirmed": "12:4 has ahada 'ashara kawkaban (11 stars) + ash-shamsa (sun) + al-qamara (moon); ra'aytu (r-'-y) x2",
+      "status": "CONFIRMED"
+    },
+    "12:100_sujjadan": {
+      "claim": "12:100 has سُجَّدًا (sujjadan), same root سجد, family falls in prostration; Yusuf back-references the dream",
+      "corpus_loc": "12:100:7:1",
+      "features": "N|ACT_PCPL|VF:1|ROOT:سجد|LEM:ساجِد|MP|INDEF|ACC",
+      "back_reference_confirmed": "12:100 has 'hadha ta'wilu ru'yaya min qablu qad ja'alaha rabbi haqqan' — ru'yaya (رُءْيَٰىَ) root رأي, ta'wil root أول",
+      "status": "CONFIRMED"
+    },
+    "inclusio_exclusivity": {
+      "claim": "s-j-d brackets the surah (opens and closes)",
+      "test": "counted every سجد segment across all 111 verses of Surah 12",
+      "result": "s-j-d occurs in EXACTLY TWO places in the whole surah — 12:4 (saajidin) and 12:100 (sujjadan) — and nowhere else. Both are active participles of the same lemma ساجِد. Genuinely clean, exclusive inclusio, not diluted by any middle occurrence.",
+      "status": "CONFIRMED — strongest single fact in the proposal"
+    }
+  },
+  "imposed_test": {
+    "question": "Is the pattern real or projected onto the text?",
+    "finding": "REAL, not imposed. s-j-d is literally present at both endpoints; the character (Yusuf) names the seam aloud at 12:100.",
+    "status": "PASSES"
+  },
+  "classical_grounding": {
+    "al_Muyassar": "explicit — 'hadha as-sujud huwa tafsiru ru'yaya allati qasastuha 'alayka min qablu' (this prostration IS the interpretation of my dream I told you before). Directly links sujud@100 to the dream@4.",
+    "al_Tabari": "reads 99-100 as the dream's ta'wil / fulfillment",
+    "al_Jalalayn": "'wa kharru lahu sujjadan' + 'hadha ta'wilu ru'yaya' — fulfillment of the prior vision",
+    "Ibn_Kathir": "'This is the interpretation of my dream aforetime! My Lord has made it come true'",
+    "verdict": "The DREAM-TO-FULFILLMENT reading is fully classical. The 'ring/inclusio' LABEL is a modern structural gloss (acceptable as reflection). Grounding claim in the proposal is accurate."
+  },
+  "disguised_count_test": {
+    "finding": "SOFT FLAG. Once the already-published dream->fulfillment narrative is stripped out, the residual fresh contribution reduces largely to 'the same root سجد appears exactly twice, at both ends.' That is count-flavored. It is defensible as a positional verbal inclusio (frame-word at frame-positions only, not numerology), so it does not fail outright — but the payoff is thinner than the proposal's 'strongest grounding in the pool' claim once overlap is removed.",
+    "status": "SOFT — not fatal by itself"
+  },
+  "overlap_test": {
+    "finding": "LOAD-BEARING FAILURE. The proposal's thesis as written is already published on the site's own Yusuf assets.",
+    "src/data/visual/surah-12.tsx": {
+      "line19": "'a boy's dream, the decades that follow it, and the night it finally comes true' — whole-surah-as-one-dream already framed",
+      "line34_and_68": "ayah 4 'prostrating to me' is EXPLICITLY paired with ayah 100 'They all prostrate. The dream from ayah 4 is now awake in the world. This is the ta'wil of my vision from before.'",
+      "line48": "structural spine already stated: 'Dream -> compression -> the still center -> release -> fulfillment'",
+      "line54": "'Ta'wil closes its bracket' — the word BRACKET is already used",
+      "chiasticRing": "already titled a RING and already places ayah-4 dream opposite ayah-100 throne/prostration",
+      "note": "The visual page does NOT name the Arabic root سجد or the saajidin/sujjadan participle morphology or the two-occurrences-only exclusivity — that root-level fact is the ONLY genuinely unpublished seam."
+    },
+    "content/tadabbur/012-yusuf/ayahs-004-006.md": "line 117 already flags 'sajidin' at the open and reads it as foreshadowing future divine elevation",
+    "content/tadabbur/012-yusuf/ayahs-099-101.md": "line 119 ties the ending back to the opening dream via ta'wil; line 197 explicitly discusses 'the climax is verse 100: the throne, the prostration, the dream fulfilled'; line 99 notes 'The surah began with a young Yusuf needing protection. Now Yusuf has become the one who receives and shelters.'",
+    "self_defeating_admission": "The proposal's own persona note markets the reveal as 'the native-shareable the visual pages already prove works (verse 4 on one end, verse 100 on the other, s-j-d bridging)' — i.e. it concedes the reveal is ALREADY on the visual page. You cannot ship as a fresh structural 'oh' something your own published visual page already displays.",
+    "status": "FAILS"
+  },
+  "hostile_one_tweet_rebuttal": "'Yusuf's dream comes true at the end and he says so' — every reader of Surah Yusuf already knows this; it's the plot. Your own AyahGuide visual page already calls it a ring, already pairs verse 4 with verse 100, already says 'the dream from ayah 4 is now awake.' The only thing you added is 'it's the same Arabic root' — which is just noticing a word appears twice.",
+  "hadith_dependency": "None — Quran-only. OK.",
+  "salvage_path": "Only the ROOT-LEVEL lexical fact is unpublished: سجد occurs in exactly two places in all 111 verses — saajidin (12:4) and sujjadan (12:100), both active participles of ساجِد, and nowhere between. A salvaged article must lead with and confine itself to that morphological/exclusivity observation (name the Arabic root, the participle form both times, the zero middle occurrences), and must NOT re-tell the dream-to-fulfillment arc or the ayah-4<->ayah-100 prostration pairing, both already live on surah-12.tsx and in ayahs-099-101.md. Even salvaged, downgrade the persona/grounding claims: the residual is count-flavored and the payoff is materially thinner than 'strongest grounding in the pool.'",
+  "broken_claims": [
+    "THESIS (as written): 'the whole surah is one dream from opening to fulfillment, and the character seals the ring for you' — already published on src/data/visual/surah-12.tsx (whole-surah dream->fulfillment ring; ayah-4 prostration paired with ayah-100 prostration; the words 'ring' and 'bracket'; 'the dream from ayah 4 is now awake in the world').",
+    "SELLING POINT: 'you don't have to impose the symmetry, because he points at it' — the non-imposed, character-named ring is not a fresh insight; the site's Yusuf visual page and the ayahs-099-101 tadabbur already state exactly this.",
+    "overlap_note UNDERSTATES self-overlap: it names only ayahs-004-006.md ('covers the dream, not the closing bracket') and omits (a) surah-12.tsx, which publishes the fullest version of the reveal including the ayah-4<->100 prostration pairing and the words ring/bracket, and (b) ayahs-099-101.md lines 119/197, which already frame verse 100 as the fulfilled-dream climax tied back to the opening.",
+    "persona/risk claim 'strongest grounding in the pool / payoff is unusually secure' — overstated: once the published overlap is removed, the fresh residual is the narrow, count-flavored root-exclusivity fact."
+  ],
+  "confirmed_not_broken": [
+    "s-j-d at 12:4 (saajidin) and 12:100 (sujjadan) — same root, both active participles — CONFIRMED",
+    "s-j-d occurs in EXACTLY two places in all 111 verses — CONFIRMED (mechanical count)",
+    "12:100 back-references the dream: 'hadha ta'wilu ru'yaya min qablu qad ja'alaha rabbi haqqan' — CONFIRMED",
+    "Classical fulfillment grounding (al-Muyassar explicit, al-Tabari, al-Jalalayn, Ibn Kathir) — CONFIRMED",
+    "Pattern is real, not imposed; character names it aloud — CONFIRMED"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "results": [
+    {"id":"VOICE-5","verdict":"CONFIRMED","notes":"root هزم: 3 tokens total; 2 verbs — 2:251 هَزَمُوهُم (act VF:1 PERF, textSimple has فهزموهم + باذن الله), 54:45 يُهْزَمُ (PASS VF:1 IMPF). 3rd token is participle مَهْزُوم at 38:11 (not a finite verb, correctly excluded). Scope exact."},
+    {"id":"VOICE-6","verdict":"CONFIRMED","notes":"root بهت: 8 tokens; 2 verbs — 2:258 بُهِتَ (PASS PERF), 21:40 تَبْهَتُ (act IMPF); 6 nouns بهتان (4:20,4:112,4:156,24:16,33:58,60:12). Matches claim exactly."},
+    {"id":"VOICE-7","verdict":"CONFIRMED","notes":"root هلل: 5 tokens; 4 verbs all أُهِلَّ PASS VF:4 PERF (2:173,5:3,6:145,16:115), each textSimple contains لغير الله; lone non-verb أَهِلَّة at 2:189. 4/4 passive confirmed."},
+    {"id":"VOICE-8","verdict":"CONFIRMED","notes":"root فتر: 3 tokens; 2 verbs — 21:20 يَفْتُرُونَ (act VF:1 IMPF, negated لا), 43:75 يُفَتَّرُ (PASS VF:2 IMPF, negated لا); 3rd token noun فَتْرَة at 5:19. Voice flip + double negation confirmed."}
+  ]
+}

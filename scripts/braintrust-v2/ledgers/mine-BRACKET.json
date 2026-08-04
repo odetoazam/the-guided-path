@@ -1,0 +1,128 @@
+{
+  "miner": "BRACKET",
+  "lens": "First/last occurrence architecture (mushaf order)",
+  "run_date": "2026-07-16",
+  "method_note": "All counts computed this session from scripts/.corpus-cache/quranic-corpus.json (root = ROOT: field, lemma = LEM: field in segment features; mushaf order = dict key insertion order) and node_modules/quran-validator/data/quran-verses.json (textSimple for phrase checks). Every first/last claim is a MUSHAF ORDER claim, not revelation chronology.",
+  "insights": [
+    {
+      "id": "BRACKET-1",
+      "title_idea": "The Quran's First Word About Blessing Is a Prayer for It. Its Last Is a Question About It.",
+      "claim": "In mushaf order, the root نعم (140 tagged segments; covers anʿama/niʿmah/naʿīm and also anʿām 'livestock') first occurs at 1:7 — the Fatiha's 'the path of those You have blessed' (anʿamta) — and last occurs at 102:8 — 'then you will surely be asked, that Day, about the blessings' (al-naʿīm). Blessing enters the Quran as something you ask to be given and exits as something you will be asked about. Both bookend surahs are Meccan by standard classification.",
+      "evidence": "root نعم n=140 segments; first=1:7 (أنعمت, 'صراط الذين انعمت عليهم'), last=102:8 (النعيم, 'ثم لتسالن يوميذ عن النعيم'); tail check confirms nothing after 102:8 (prior three: 89:15, 92:19, 93:11). Lemma breakdown of the root: أنعم 17, نعمة 50, نِعْمَ 18, نَعَم/أنعام 33, نعيم 17, نعماء 1, نعمة(alt) 2, ناعمة 1, نعّم 1.",
+      "refs": ["1:7", "102:8"],
+      "verify_method": "Load scripts/.corpus-cache/quranic-corpus.json; iterate keys in load order (mushaf order); collect every segment whose features contain ROOT:نعم; first list element must be in 1:7, last in 102:8, len=140. Full verse text from quran-verses.json textSimple.",
+      "overlap_note": "an-nasr-final-words-corpus-quran shares the 'word retires meaningfully' flavor but is about surah 110's vocabulary; no published article on niʿmah/naʿīm or on 102:8. Disclose in-article that the root also covers anʿām (livestock — itself named as blessing).",
+      "angle": "Every du'a you make for blessing sits between these two verses: the opening prayer to receive it and the closing notice that you'll answer for it."
+    },
+    {
+      "id": "BRACKET-2",
+      "title_idea": "The Quran's First 'Forever' Is Paradise. Its Last Is a Man Who Thinks Money Bought It.",
+      "claim": "In mushaf order, the root خلد (to last forever; 87 tagged segments) first occurs at 2:25 — believers 'abiding forever' (khalidun) in gardens — and last occurs at 104:3 — the wealth-hoarder who 'thinks his money has made him immortal' (akhladahu). Real eternity opens the root's story; counterfeit, purchasable eternity closes it. First is Medinan (al-Baqarah), last is Meccan (al-Humazah) — this is mushaf order, not order of revelation.",
+      "evidence": "root خلد n=87; first=2:25 (خالدون), last=104:3 (أخلده, 'يحسب ان ماله اخلده'); tail: 76:19, 98:6, 98:8, then 104:3 — nothing after.",
+      "refs": ["2:25", "104:3"],
+      "verify_method": "quranic-corpus.json, mushaf key order, filter segments with root=خلد; check first ref 2:25, last ref 104:3, count 87.",
+      "overlap_note": "No published article on khulud/akhlada; the-weight-of-keys covers Qarun's wealth but not this root or 104:3.",
+      "angle": "The same word carries the thing everyone wants (living forever) from the only place it's real to the place everyone actually shops for it."
+    },
+    {
+      "id": "BRACKET-3",
+      "title_idea": "The Quran's First Disease and Its Last Are the Same Disease — and It's Not in the Body",
+      "claim": "In mushaf order, the root مرض (sickness; 24 tagged segments) first occurs at 2:10 and last occurs at 74:31 — and both bookends sit inside the identical three-word phrase 'في قلوبهم مرض' ('in their hearts is a disease'), an exact textSimple phrase that occurs 11 times in the Quran with 2:10 as its first and 74:31 as its last. In between, the root mostly means ordinary bodily illness (travel and prayer concessions for 'the sick'). First is Medinan (al-Baqarah); last is in Meccan al-Muddaththir (74:31 is a verse some classical lists flag as later — disclose in-article).",
+      "evidence": "root مرض n=24; first=2:10, last=74:31; phrase 'في قلوبهم مرض' count=11 in textSimple, first hit 2:10, last hit 74:31; substring confirmed present in 74:31.",
+      "refs": ["2:10", "74:31"],
+      "verify_method": "Root sweep as above for مرض (n=24, first 2:10, last 74:31). Phrase: substring-count 'في قلوبهم مرض' over textSimple in quran-verses.json (11 hits; check first/last).",
+      "overlap_note": "qalb-sealed-rusted-heart-quran is the template sibling (first/last of قلب). Different root, different mechanic: qalb's bookends reverse agency; marad's bookends are the same unchanged diagnosis. Position as a companion piece, and say so.",
+      "angle": "The word for sickness enters the Quran attached to the heart, spends the middle of the book excusing sick bodies from fasting and fighting, then exits attached to the heart again — the body's illness gets concessions, the heart's gets a bracket."
+    },
+    {
+      "id": "BRACKET-4",
+      "title_idea": "The First Refuge Anyone Seeks in the Quran Isn't From the Devil",
+      "claim": "In mushaf order, the root عوذ (seeking refuge; 17 tagged segments) first occurs at 2:67, where Musa says 'aʿudhu billah' — seeking refuge from 'being among the ignorant' (i.e., from mocking people). Its final two occurrences are the opening words of the mushaf's last two surahs (113:1, 114:1), and the very last is 114:1 'qul aʿudhu bi-rabbi-n-nas.' The first and last occurrence are the identical surface word أعوذ. First is Medinan (al-Baqarah); the classification of 113–114 is disputed (Meccan by majority). Mushaf order, not chronology.",
+      "evidence": "root عوذ n=17; first=2:67 (أعوذ, Musa: 'اعوذ بالله ان اكون من الجاهلين'), last=114:1 (أعوذ); tail: 44:20, 72:6, 113:1, 114:1 — the final two occurrences open the final two surahs.",
+      "refs": ["2:67", "113:1", "114:1"],
+      "verify_method": "Root sweep for عوذ in quranic-corpus.json: n=17, first ref 2:67, last four refs 44:20, 72:6, 113:1, 114:1. Surface words from the 'word' field.",
+      "overlap_note": "weapons-against-waswasa presumably cites the muʿawwidhatayn as a tool; no published piece on the first istiʿadhah being Musa's refuge from mockery, or on the aʿudhu bracket across the whole mushaf.",
+      "angle": "Everyone knows the Quran ends in 'I seek refuge.' Almost no one knows the first person to say it in the book was fleeing sarcasm, not Shaytan — the first thing a prophet refuses to be is a mocker."
+    },
+    {
+      "id": "BRACKET-5",
+      "title_idea": "'We Raised It Over You' vs 'We Raised It For You': One Verb, Two Prepositions, the Whole Difference",
+      "claim": "In mushaf order, the root رفع (to raise; 29 tagged segments) first occurs at 2:63 — 'wa-rafaʿna fawqakum al-Tur' (We raised the Mount OVER you, a warning hanging above covenant-breakers) — and last occurs at 94:4 — 'wa-rafaʿna laka dhikrak' (We raised FOR you your renown, a gift to the Prophet). Both bookends are the identical divine first-person-plural perfect verb رفعنا; only the preposition changes: fawqa (over) vs laka (for). First is Medinan, last is Meccan ash-Sharh — mushaf order, not chronology.",
+      "evidence": "root رفع n=29; first=2:63 (رفعنا فوقكم الطور), last=94:4 (رفعنا لك ذكرك); tail: 80:14, 88:13, 88:18, 94:4. Both first and last segments have surface word رَفَعْ + نَا (rafaʿna).",
+      "refs": ["2:63", "94:4"],
+      "verify_method": "Root sweep for رفع: n=29, first 2:63, last 94:4. Confirm both are V, PERF, 1P ('We') in the features field, and read fawqakum vs laka in the verse text.",
+      "overlap_note": "budge-root-voice-flip-death uses a voice flip (passive/active); this is a different mechanic (same active verb, preposition flip). No published rafa'a article.",
+      "angle": "The same divine 'We raised' that once held a mountain over a nation's head ends the Quran's story holding a man's name up — the distance between fear and honor is one preposition."
+    },
+    {
+      "id": "BRACKET-6",
+      "title_idea": "The Quran Describes Deluded People for 79 Surahs. Then It Turns and Asks If You're One.",
+      "claim": "In mushaf order, the root غرر (to delude/deceive; 27 tagged segments) first occurs at 3:24 — 'their forgeries deluded THEM in their religion' (gharrahum, third person, about other people) — and last occurs at 82:6 — 'O human, what deluded YOU about your Generous Lord?' (gharraka, second person, direct address to the reader). Both bookends are the same bare perfect verb غرّ; the only change is the pronoun: from them to you, from description to interrogation. First is Medinan (Aal Imran), last is Meccan (al-Infitar) — mushaf order, not chronology.",
+      "evidence": "root غرر n=27; first=3:24 (غرهم, 'وغرهم في دينهم ما كانوا يفترون'), last=82:6 (غرك, 'يا ايها الانسان ما غرك بربك الكريم'); tail: 57:14, 57:20, 67:20, 82:6.",
+      "refs": ["3:24", "82:6"],
+      "verify_method": "Root sweep for غرر: n=27, first 3:24, last 82:6. Both segments are V PERF of the same verb; person read from attached pronoun in verse text.",
+      "overlap_note": "none — no published article on ghurur/82:6.",
+      "angle": "Every earlier verse with this word lets you watch deluded people from a safe distance; the word's final appearance closes the distance and points at you."
+    },
+    {
+      "id": "BRACKET-7",
+      "title_idea": "Laughing and Crying Enter the Quran in the Same Verse. Only One Gets the Last Word.",
+      "claim": "In mushaf order, the roots ضحك (laugh; 10 tagged segments) and بكي (weep; 7 tagged segments) BOTH make their first appearance in the same verse, 9:82 ('so let them laugh a little and weep much'). Weeping's last occurrence is 53:60 — 'you laugh and you do not weep' — after which tears never appear again. Laughter continues for thirty more surahs and exits at 83:34: 'so Today, those who believed are laughing at the disbelievers' — the direct reversal of 83:29, where the criminals used to laugh at the believers. First bookend is Medinan (at-Tawbah), last is Meccan (al-Mutaffifin) — mushaf order, not chronology.",
+      "evidence": "root ضحك all refs (n=10): 9:82, 11:71, 23:110, 27:19, 43:47, 53:43, 53:60, 80:39, 83:29, 83:34. root بكي all refs (n=7): 9:82, 12:16, 17:109, 19:58, 44:29, 53:43, 53:60. Shared first ref: 9:82. Weep-last=53:60; laugh-last=83:34.",
+      "refs": ["9:82", "53:60", "83:29", "83:34"],
+      "verify_method": "Root sweep for ضحك and بكي in quranic-corpus.json; print full ref lists and compare first elements (both 9:82) and last elements (53:60 vs 83:34).",
+      "overlap_note": "none — no published laughter/weeping article.",
+      "angle": "'Who laughs last' is literally answerable in the Quran, by count: tears run out at 53:60, and the book's final laugh belongs to the believers who were being laughed at."
+    },
+    {
+      "id": "BRACKET-8",
+      "title_idea": "The Quran Mentions a Shirt Exactly Six Times. All Six Are the Same Shirt.",
+      "claim": "The root قمص (shirt) occurs exactly 6 times in the Quran, all six inside Surah Yusuf (12:18, 12:25, 12:26, 12:27, 12:28, 12:93) — it is one of only five roots of frequency 5–100 whose first and last occurrence fall in the same surah. Its first appearance is the shirt smeared with lying blood (12:18 — the deception that begins Yaqub's grief), and its last is the shirt cast over Yaqub's face that restores his sight (12:93). Between them, the shirt torn from behind (12:25–28) is the evidence that clears Yusuf. One garment: instrument of the lie, instrument of the verdict, instrument of the healing.",
+      "evidence": "root قمص n=6, refs: 12:18, 12:25, 12:26, 12:27, 12:28, 12:93 — no occurrence outside surah 12. Same-surah bracket sweep over 721 roots (freq 5–100) yields exactly 5 such roots: شطر, ميل, صيد, قمص, كهف.",
+      "refs": ["12:18", "12:25", "12:26", "12:27", "12:28", "12:93"],
+      "verify_method": "Root sweep for قمص: list all refs, confirm all begin '12:'. For the exactly-five claim: over all roots with 5<=n<=100, keep those where first and last ref share a surah number.",
+      "overlap_note": "Several Yusuf articles are published (the well, the women of Egypt, la-tathrib, prison) but none on the shirt. Distinct object-level reveal.",
+      "angle": "The same piece of cloth that carried the lie that blinded a father carries the truth that heals him — and the Quran never lets the word leave that one story."
+    },
+    {
+      "id": "BRACKET-9",
+      "title_idea": "The First 'Salam' in the Quran Gets Rejected. The Last One Can't Be.",
+      "claim": "In mushaf order, the lemma سَلام (the noun 'peace,' 42 tagged occurrences — scoped to this lemma, not the wider سلم root that covers islam/muslim/sallama) first occurs at 4:94: believers on campaign are ordered NOT to say 'you are not a believer' to the man who offers them salam, chasing the goods of this world. Its last occurrence is 97:5: 'Peace it is, until the rising of dawn' — Laylat al-Qadr, a night that does not offer peace but IS peace. Salam enters the mushaf as a greeting a human can refuse and exits as a state nothing can interrupt. First is Medinan (an-Nisa); al-Qadr is Meccan by majority classification (disputed) — mushaf order, not chronology.",
+      "evidence": "lemma سَلام n=42; first=4:94 ('ولا تقولوا لمن القى اليكم السلام لست مومنا تبتغون عرض الحياة الدنيا'), last=97:5 ('سلام هي حتى مطلع الفجر'); tail: 56:26, 56:91, 59:23, 97:5.",
+      "refs": ["4:94", "97:5"],
+      "verify_method": "Sweep quranic-corpus.json for segments whose features contain LEM:سَلام (exact lemma string as stored; find it by diacritic-stripping match on 'سلام'); n=42, first 4:94, last 97:5.",
+      "overlap_note": "none — no published salam article; jannah/vocabulary pieces don't build on 4:94 or the bracket.",
+      "angle": "The Quran's peace-story starts with people too busy fighting to accept a salam, and ends with one night a year when peace stops being an offer and becomes the weather."
+    },
+    {
+      "id": "BRACKET-10",
+      "title_idea": "The Quran's Last 'Orphan' and Its Last 'Denial' Are Next-Door Verses",
+      "claim": "In mushaf order, the root يتم (orphan; 23 tagged segments) first occurs at 2:83 — inside Bani Israil's covenant: worship Allah, honor parents, kin, ORPHANS, the needy — and last occurs at 107:2: 'that is the one who shoves away the orphan.' And the root كذب (to lie/deny; 282 tagged segments) makes its own final appearance one verse earlier, at 107:1: 'have you seen the one who DENIES the Judgment?' The mushaf's last word on orphans and its last word on denial sit in adjacent verses, welded into one definition: lying about religion looks like pushing a child away. First bookend Medinan (al-Baqarah), last Meccan (al-Maʿun) — mushaf order, not chronology.",
+      "evidence": "root يتم n=23; first=2:83, last=107:2; tail: 90:15, 93:6, 93:9, 107:2. root كذب n=282; last=107:1; tail: 96:13, 96:16, 107:1.",
+      "refs": ["2:83", "107:1", "107:2"],
+      "verify_method": "Root sweeps for يتم (n=23, first 2:83, last 107:2) and كذب (n=282, last 107:1) in quranic-corpus.json, mushaf key order.",
+      "overlap_note": "an-nasr-final-words-corpus-quran is the pattern sibling ('a word retires in a fitting surah') — different surah, different words, and the two-roots-retiring-together mechanic is new.",
+      "angle": "If you want the Quran's closing definition of religious fraud, it isn't a doctrine — it's a doorway with a child being pushed back out of it."
+    },
+    {
+      "id": "BRACKET-11",
+      "title_idea": "The Quran's First 'Forget' Is You Forgetting Yourself. Its Last Is God Promising You Won't.",
+      "claim": "In mushaf order, the root نسي (to forget; 45 tagged segments) first occurs at 2:44 — 'do you command people to righteousness and FORGET yourselves, while you recite the Book?' — and last occurs at 87:6 — 'We will make you recite, so you will not forget.' Both bookends are about forgetting in the presence of recitation: the first is people reciting yet forgetting themselves; the last is God guaranteeing His reciter forgets nothing. First is Medinan (al-Baqarah), last is Meccan (al-Aʿla) — mushaf order, not chronology.",
+      "evidence": "root نسي n=45; first=2:44 (تنسون, 'اتامرون الناس بالبر وتنسون انفسكم وانتم تتلون الكتاب'), last=87:6 (تنسى, 'سنقريك فلا تنسى'); tail: 59:19, 59:19, 87:6.",
+      "refs": ["2:44", "87:6"],
+      "verify_method": "Root sweep for نسي: n=45, first 2:44, last 87:6. Note both verses pair the forgetting-verb with a recitation-verb (تتلون / سنقرئك) — verifiable in verse text.",
+      "overlap_note": "none — no published nisyan article.",
+      "angle": "Both ends of the Quran's forgetting-story happen mid-recitation — the difference between reading the Book and being carried by it is whether the forgetting stops."
+    },
+    {
+      "id": "BRACKET-12",
+      "title_idea": "God Calls Himself 'The Most Loving' Exactly Twice — Both Times to People Who Least Deserved to Hear It",
+      "claim": "The lemma وَدُود (al-Wadud, 'The Most Loving') occurs exactly twice in the Quran: 11:90, where Shuʿayb tells a town of cheating mockers 'seek your Lord's forgiveness, then turn to Him — my Lord is Rahim, Wadud,' and 85:14 — immediately after the people of the ditch burn believers alive — 'and He is al-Ghafur al-Wadud.' Both occurrences pair the love-name with a mercy/forgiveness name, and both are addressed into the aftermath of grave sin. This doubles as a first/last bracket: the name enters and exits the mushaf only at these two points. Both surahs (Hud, al-Buruj) are Meccan by standard classification.",
+      "evidence": "lemma وَدُود n=2, refs 11:90 ('ان ربي رحيم ودود') and 85:14 ('وهو الغفور الودود'). Wider root ودد n=29 (first 2:96, last 85:14) — the name-lemma scope is what carries the claim.",
+      "refs": ["11:90", "85:14"],
+      "verify_method": "Sweep quranic-corpus.json for LEM:وَدُود (exact lemma string; locate by diacritic-stripped match on 'ودود'); confirm exactly 2 hits at 11:90 and 85:14, and read the paired divine name in each verse text.",
+      "overlap_note": "jamil-seven-beautiful-things is the exactly-N sibling; mahabbah articles cover the حبب root, not ودد. No published Wadud piece.",
+      "angle": "The Quran never says 'The Most Loving' to the already-lovable — both times the name appears, it's being held out to people standing in the wreckage of what they did."
+    }
+  ]
+}

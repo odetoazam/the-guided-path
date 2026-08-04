@@ -1,0 +1,60 @@
+{
+  "proposal_id": "YASMIN-2",
+  "title": "God Calls Himself 'the Most Loving' Only Twice — Both Times to People Who Just Did Something Terrible",
+  "advisor": "YASMIN",
+  "skeptic_verdict": "REFUTED",
+  "reviewed": "2026-07-21",
+  "counts_reverified": {
+    "lemma_wadud": {
+      "claim": 2,
+      "derived": 2,
+      "refs": ["11:90", "85:14"],
+      "method": "corpus segment scan lemma=='وَدُود' + independent textSimple string sweep 'ودود' (both give exactly 2)",
+      "status": "CONFIRMED"
+    },
+    "root_wdd": {
+      "claim": "n=29, first 2:96, last 85:14",
+      "derived": "29 segments / 28 unique verses; first 2:96 (يَوَدُّ), last 85:14",
+      "lemma_breakdown": {"وَدَّ": 17, "مَوَدَّة": 8, "وَدُود": 2, "وُدّ (19:96)": 1, "وَدّ (71:23, the idol)": 1},
+      "status": "CONFIRMED — no divine-name form mis-tagged under another lemma; scoping to lemma is clean"
+    },
+    "pairing_11_90": {"names": "رَحِيم (root رحم = MERCY) + وَدُود", "note": "Rahim is a mercy-name, not a forgiveness-name"},
+    "pairing_85_14": {"names": "الْغَفُور (root غفر = FORGIVENESS) + الْوَدُود", "status": "CONFIRMED"},
+    "meccan": {"hud_11": "Meccan", "buruj_85": "Meccan", "status": "CONFIRMED; correctly disclaimed as mushaf order not chronology (chronologically al-Buruj precedes Hud, which would flip first/last — proposal pre-empts this)"}
+  },
+  "fatal_finding": {
+    "id": "ADDRESSEE-ASYMMETRY-85-14",
+    "severity": "load-bearing",
+    "summary": "The distinctive hook — 'both times to people who just did something terrible' / the name 'held out to people standing in the wreckage of what THEY did' — is false at 85:14. The recipient of al-Wadud there is NOT the people of the ditch who burned the believers; under the dominant classical reading it is the persecuted believers (the victims).",
+    "evidence": [
+      "85:14 is a third-person description of God ('And He is al-Ghafur al-Wadud'), NOT speech addressed to the ditch-people. Contrast 11:90, where Shuʿayb DOES address the love-name directly to the wrongdoers of Madyan.",
+      "AyahGuide's OWN tadabbur, content/tadabbur/085-al-buruj/ayahs-012-016.md, adopts the al-Muyassar reading: al-Wadud here is 'abundant in affection and love for His awliyāʾ ... the very believers standing at the trench. The love is aimed ... the direction is them' (line 155). Lines 153/255: al-Ghafur/al-Wadud are 'spoken to people who were tested past the breaking point' — believers who may have wavered under torture, not the burners.",
+      "The only 'sin' al-Ghafur covers at 85:14 (in the site's own reading and standard tafsir) is the persecuted believers' possible wavering under torture — categorically not the atrocity of burning people alive.",
+      "Result: at 11:90 the love-name is held out TO the wrongdoers (Madyan); at 85:14 it is held out to the WRONGED. The symmetry the title, thesis, and exhibit angle all rest on is not corpus- or tafsir-grounded — it is an imposed misreading of the 85:14 addressee."
+    ],
+    "one_tweet_rebuttal": "At 85:14 'the Most Loving' isn't spoken TO the people who burned the believers — it's God consoling the believers they burned. Your own site's tafsir says the love is 'aimed ... at the awliyāʾ.' One verse is love for the sinner, the other is love for the sinned-against. Not the same move."
+  },
+  "novelty_failure": {
+    "id": "SELF-OVERLAP",
+    "summary": "overlap_note claims 'No published Wadud piece' — technically true for the article genre, but the exact reveal is already fully developed in AyahGuide's own tadabbur corpus.",
+    "evidence": [
+      "content/tadabbur/085-al-buruj/ayahs-012-016.md line 69: 'calls Himself al-Wadūd ... A name so tender it appears only twice in the entire Quran.' Line 141: 'appears in the entire Quran only twice. Once in Surah Hūd (11:90), and here.' Line 310: 'appears only twice ... Allah chose to place one of them beside the most broken people in the surah.' — plus the al-Ghafur pairing, the faʿūl intensive, the batsh→Wadud placement.",
+      "content/tadabbur/011-hud/ayahs-087-090.md lines 208-220: 'Even Here the Door Back Is Opened Through Love' — Rahim+Wadud into the aftermath of Madyan's sin.",
+      "The residual TRUE core (twice-only, forgiveness/mercy-paired, grave-sin context) is therefore not new to the site; it is a restatement of existing tadabbur."
+    ]
+  },
+  "confirmed_true_but_minor": [
+    "Lemma occurs exactly twice — no counterexample exists (verified against two independent corpora).",
+    "Both surahs Meccan; mushaf-order bracket correctly distinguished from chronology.",
+    "Root's LAST occurrence is also 85:14 — accurate, correctly scoped, and the strongest surviving structural detail.",
+    "Payoff is Quran-internal (no hadith load-bearing); tafsir citations are support, not the punch — passes Quran-only."
+  ],
+  "required_corrections": [
+    "RETITLE: drop 'both times to people who just did something terrible' and the exhibit angle 'held out to people standing in the wreckage of what THEY did.' At 85:14 the name is for the victims, not the perpetrators. If anything, the honest and more interesting reveal is the ASYMMETRY: once love offered to the sinner (Madyan), once love offered to the sinned-against (the burned believers).",
+    "Fix 'immediately after ... burn believers alive': five verses (85:9-13) intervene before 85:14; say 'in the passage following the ukhdud narrative.'",
+    "Thesis says 'both paired with a forgiveness-name' — false: 11:90 pairs with Raḥīm (a MERCY name, root رحم); only 85:14 has al-Ghafūr. Use the exhibit's accurate 'mercy/forgiveness name' hedge.",
+    "'First/last bracket' is inflated for a two-token lemma (nothing in between to bracket); reframe around the root's genuine last-occurrence coincidence at 85:14 instead.",
+    "Disclose and clear the self-overlap with the two existing tadabbur files; a publishable article must add a layer they don't already carry."
+  ],
+  "salvage_path": "A de-clawed version survives: 'al-Wadud appears exactly twice, both in the immediate literary aftermath of grave sin, where the reader braces for wrath and gets the tenderest divine name instead — but note the recipients differ: the wrongdoers at 11:90, the wronged at 85:14.' That asymmetry is defensible, tafsir-grounded, and genuinely new relative to the existing tadabbur. As submitted, however, the load-bearing symmetric hook is refuted."
+}

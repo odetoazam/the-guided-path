@@ -1,0 +1,168 @@
+{
+  "advisor": "HASAN",
+  "lens": "classical tafsir — tafsir-warrant test, correct classical-vs-modern marking, ikhtilaf honored, no disguised counts or superlatives",
+  "critiques": [
+    {
+      "proposal_id": "ZAYNAB-1",
+      "accuracy": 9,
+      "freshness": 8,
+      "audience": 7,
+      "shippability": 8,
+      "fatal": false,
+      "notes": "This is warranted to the letter — al-Jalalayn's 'fihi iltifat' on 10:22 is the textbook case, and the you-to-them-to-You turn is genuine, not imposed. The cross-passage map (6:63/17:67/31:32) is correctly quarantined as modern synthesis. Drop the pitch's superlative 'single most citable' and let the grammar carry itself; the warrant is already there."
+    },
+    {
+      "proposal_id": "ZAYNAB-2",
+      "accuracy": 9,
+      "freshness": 8,
+      "audience": 7,
+      "shippability": 8,
+      "fatal": false,
+      "notes": "The 12:4-to-12:100 s-j-d inclusio is textually explicit (Yusuf names the seam himself) — the strongest structural warrant in the batch. The tanzil ghayr al-'aqil manzilat al-'aqil reading is real balagha (al-Zamakhshari, Abu Hayyan), and the proposal honestly concedes the four bundled tafsirs did not spell it out here. Say that asymmetry in the body, not the frontmatter. Note: three proposals converge on this reveal — only one may ship."
+    },
+    {
+      "proposal_id": "ZAYNAB-3",
+      "accuracy": 8,
+      "freshness": 7,
+      "audience": 7,
+      "shippability": 7,
+      "fatal": false,
+      "notes": "Each second-person turn is standard mufassir reading; the pairing of 89:27 with 32:14/32:20 as one inverted move is modern and is flagged as such — acceptable. The 'dhuqu' address carries a real pastoral hazard for a raw reader and must not be delivered as a poster. Since 089-al-fajr already treats the Fajr shift, the whole freshness warrant rests on the cross-surah pairing — if it collapses to Fajr alone, cut it."
+    },
+    {
+      "proposal_id": "ZAYNAB-4",
+      "accuracy": 8,
+      "freshness": 8,
+      "audience": 7,
+      "shippability": 7,
+      "fatal": false,
+      "notes": "The number-grammar is real — 'ghullat aydihim' plural against 'yadahu mabsutatan' dual, and al-Razi treats the dual as fullness of generosity. But 'yad' is a divine attribute and the bila-kayf fence is load-bearing: the piece is about grammatical NUMBER, never anthropomorphism, and that boundary must stand in the first paragraph or the piece becomes fatal. Bundling 36:22 dilutes; 5:64 alone may be stronger. Do not essentialize any community via the sabab."
+    },
+    {
+      "proposal_id": "ZAYNAB-5",
+      "accuracy": 7,
+      "freshness": 8,
+      "audience": 6,
+      "shippability": 7,
+      "fatal": false,
+      "notes": "The idha/in distinction is genuine nahw, but the rule admits exceptions in classical usage, so 'worship is the default' must stay a reflective reading, not a fixed law of the particle — the proposal already says so, and rightly forbids adjudicating wudu fiqh. Verify Abu Hayyan/al-Alusi actually apply it at 5:6 before naming them; if not, attribute generically. The driest piece in the slate."
+    },
+    {
+      "proposal_id": "ZAYNAB-6",
+      "accuracy": 7,
+      "freshness": 8,
+      "audience": 8,
+      "shippability": 7,
+      "fatal": false,
+      "notes": "The 1:5 iltifat and the ihdina-hudan munasaba (al-Razi opens his Baqarah tafsir on it) are both warranted. But the added whole-surah ring with 1:4 as the arithmetic 'center' is a disguised count — it holds only in the Hafs numbering that counts the basmala, precisely the move I penalize even when flagged. Of the three Fatiha proposals this one over-reaches; the leaner YASMIN-6 carries the same reveals without staking anything on verse arithmetic."
+    },
+    {
+      "proposal_id": "YASMIN-1",
+      "accuracy": 8,
+      "freshness": 8,
+      "audience": 8,
+      "shippability": 7,
+      "fatal": false,
+      "notes": "The morphology is checkable and the classical glosses sit correctly on the Quranic side (al-Jalalayn on 20:121, al-Tabari on 7:23). Two warnings the proposal already carries and must honor: Genesis gets dignity and a brief accurate paraphrase, not a foil, and the divergence stays explicitly modern-comparative. Do not let 'the blame-verb names Adam' harden into 'the Quran blames Adam' — 7:23's joint confession is the true resting note."
+    },
+    {
+      "proposal_id": "YASMIN-2",
+      "accuracy": 8,
+      "freshness": 5,
+      "audience": 7,
+      "shippability": 6,
+      "fatal": false,
+      "notes": "The dual 'aslama' and the interrogative 'ma dha tara' are real, and the overlap correction is honest — this survives ONLY as the structural entry beside the two existing Ismail articles, which it must cite up front. The one-sentence acknowledgment of the rabbinic tradition of Isaac's consent is not a concession but the warrant that keeps the comparison from reading as caricature. Freshness is thin because the scene is already twice-published."
+    },
+    {
+      "proposal_id": "YASMIN-3",
+      "accuracy": 7,
+      "freshness": 6,
+      "audience": 7,
+      "shippability": 6,
+      "fatal": false,
+      "notes": "12:18's 'sabrun jamil' and the grief-without-despair arc are accurate. The hazard is the deficient-predecessor register — 'he never believed the lie' can slide into scoring points off Genesis; the proposal's own remedy (two tellings, two theological tasks) must be enforced in tone. Yaqub is the site's most-covered figure across three published articles, so the fresh warrant is narrow: the bloody-shirt beat plus the comparative frame, nothing restated."
+    },
+    {
+      "proposal_id": "YASMIN-4",
+      "accuracy": 8,
+      "freshness": 9,
+      "audience": 8,
+      "shippability": 7,
+      "fatal": false,
+      "notes": "The strongest contested-verse piece in the set from my lens — a genuinely empty node with perennial 5:32 misquotation traffic. But the warrant lives or dies on integrity: 5:32 MUST carry its exception clause AND its 'kutiba 'ala bani Isra'il' address in full, with the Ibn Abbas universalizing attributed. Ship it that way and it is a gift; ship it truncated like a sermon poster and it is fatal to the site's credibility. The Mishnah Sanhedrin 4:5 parallel is the honesty that earns the citation."
+    },
+    {
+      "proposal_id": "YASMIN-5",
+      "accuracy": 9,
+      "freshness": 8,
+      "audience": 6,
+      "shippability": 8,
+      "fatal": false,
+      "notes": "Same textually-explicit s-j-d inclusio as ZAYNAB-2, and the 'form carries meaning' framing is the pedagogy the diversification mandate asked for. The grounding-asymmetry disclosure (ring = classical and explicit; agreement = named balagha tradition, not the four bundled tafsirs) is stated plainly — exactly the discipline I keep asking for. Lower audience pull than its twins; if the panel keeps one Yusuf-ring piece, this is the most rigorously framed candidate."
+    },
+    {
+      "proposal_id": "YASMIN-6",
+      "accuracy": 9,
+      "freshness": 8,
+      "audience": 8,
+      "shippability": 9,
+      "fatal": false,
+      "notes": "The disciplined Fatiha piece — it deliberately sidesteps verse-numbering arithmetic and refuses to inflate the attested seam into a global 'the whole Quran is one answered du'a.' That restraint is precisely what separates warranted munasaba (al-Razi, Ibn al-Qayyim) from apologetic over-reach. Of the three Fatiha proposals this is the one to ship; it teaches the munasaba lens without spending any credibility."
+    },
+    {
+      "proposal_id": "KHALID-1",
+      "accuracy": 8,
+      "freshness": 8,
+      "audience": 8,
+      "shippability": 8,
+      "fatal": false,
+      "notes": "Same warranted ihdina-hudan seam, optimized for the youngest landing path — a legitimate reach play. Slightly lighter on caveats than YASMIN-6, so if it ships it must borrow that piece's two guardrails: no verse-count arithmetic, and no leap from 'this seam reads as answer' to 'the Quran is architected as an answered supplication.' Keep it short; the reveal survives without embellishment."
+    },
+    {
+      "proposal_id": "KHALID-2",
+      "accuracy": 9,
+      "freshness": 8,
+      "audience": 7,
+      "shippability": 8,
+      "fatal": false,
+      "notes": "The phone-native framing of the 10:22 iltifat is honest and the classical citation is verbatim-correct (al-Jalalayn, al-Zamakhshari's textbook case). The cross-passage tour is confined to one section flagged as modern reflection — good. Do not let 'comfort turns God into third person' overclaim authorial design intent on that synthetic layer; the single-verse turn is the classical warrant, the map is the reflection."
+    },
+    {
+      "proposal_id": "KHALID-3",
+      "accuracy": 8,
+      "freshness": 9,
+      "audience": 8,
+      "shippability": 8,
+      "fatal": false,
+      "notes": "The dropped 'qul' at 2:186 is a celebrated classical observation (al-Zamakhshari: God draws near without intermediary), and the census is corpus-real — I confirm 2:186 and 79:42 are the two yas'alunaka verses lacking qul. The hedges are load-bearing and the proposal carries them: present 79:42 as the genuine second exception, flag al-Muyassar's implied 'faqul' as the minority gloss, say 'strongly attested' not 'unanimous.' This is a count-of-absence, not a frequency tally, so it escapes the word-count fatigue. Best editorial-voice piece in the pool."
+    },
+    {
+      "proposal_id": "KHALID-4",
+      "accuracy": 8,
+      "freshness": 8,
+      "audience": 9,
+      "shippability": 8,
+      "fatal": false,
+      "notes": "The 5/5/5/5 is earned — this sits on the site's proven contested-verse arrival path and the answer is morphology plus named tafsir, not apologetics. The dual-eat / singular-disobey / plural-confess reading is accurate. Two conditions: Genesis 3 quoted respectfully with no triumphalism (the contested-ayah house pattern), and the final beat must land on 7:23's joint 'we wronged ourselves,' not on 'Adam alone,' or the piece over-corrects into a new distortion."
+    },
+    {
+      "proposal_id": "KHALID-5",
+      "accuracy": 9,
+      "freshness": 8,
+      "audience": 7,
+      "shippability": 8,
+      "fatal": false,
+      "notes": "The same textually-explicit Yusuf ring, framed for return-visit reach and a native ring-diagram — the visual instinct is sound because the structure is real, not imposed. Carries the required disclosure that the four bundled tafsirs did not spell out the agreement point. Three proposals share this reveal; if the visual pipeline is a factor this is the natural pick, but it competes with YASMIN-5's tighter scholarly framing."
+    },
+    {
+      "proposal_id": "KHALID-6",
+      "accuracy": 8,
+      "freshness": 8,
+      "audience": 7,
+      "shippability": 8,
+      "fatal": false,
+      "notes": "The Ma'un-Kawthar pairing is warranted munasaba — al-Razi and al-Biqa'i do read consecutive surahs as matched pairs, and salat-that-withholds against salat-that-gives is a real contrast on the shared root. Correctly demotes the inna-bracket ring to a short second act flagged as modern; keep it there and do not let it co-headline, because that ring is the weakest structural claim in the piece. Clean, warm, and genuinely empty on the site."
+    }
+  ]
+}

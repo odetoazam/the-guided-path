@@ -1,0 +1,375 @@
+<style>
+:root{--ground:#eeece4;--surface:#f7f5ef;--surface-2:#e7e4d9;--ink:#21242c;--muted:#65635b;--faint:#8a877d;
+ --lapis:#345a8f;--gold:#a9782f;--line:#d5d1c4;--line-strong:#c3bead;--good:#3f7a4e;--amber:#a9782f;--rose:#9a4b47;
+ --serif:"Iowan Old Style","Palatino Linotype",Palatino,Georgia,serif;
+ --sans:system-ui,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+ --mono:ui-monospace,"SF Mono","Cascadia Code",Menlo,Consolas,monospace;}
+@media(prefers-color-scheme:dark){:root{--ground:#14161c;--surface:#1c1f27;--surface-2:#232732;--ink:#e7e4d9;
+ --muted:#9d9a8f;--faint:#7c7a71;--lapis:#7aa0d0;--gold:#cba24e;--line:#2b2f3a;--line-strong:#39404e;--good:#6bab79;--amber:#cba24e;--rose:#d98b86;}}
+:root[data-theme="light"]{--ground:#eeece4;--surface:#f7f5ef;--surface-2:#e7e4d9;--ink:#21242c;--muted:#65635b;--faint:#8a877d;--lapis:#345a8f;--gold:#a9782f;--line:#d5d1c4;--line-strong:#c3bead;--good:#3f7a4e;--amber:#a9782f;--rose:#9a4b47;}
+:root[data-theme="dark"]{--ground:#14161c;--surface:#1c1f27;--surface-2:#232732;--ink:#e7e4d9;--muted:#9d9a8f;--faint:#7c7a71;--lapis:#7aa0d0;--gold:#cba24e;--line:#2b2f3a;--line-strong:#39404e;--good:#6bab79;--amber:#cba24e;--rose:#d98b86;}
+*{box-sizing:border-box}
+body{margin:0;background:var(--ground);color:var(--ink);font-family:var(--sans);line-height:1.6;-webkit-font-smoothing:antialiased}
+.wrap{max-width:1080px;margin:0 auto;padding:0 24px 96px}
+a{color:var(--lapis);text-decoration:none}
+header.top{border-bottom:1px solid var(--line-strong);padding:56px 0 32px}
+.kicker{font-family:var(--mono);font-size:12px;letter-spacing:.16em;text-transform:uppercase;color:var(--gold);margin:0 0 18px}
+h1.title{font-family:var(--serif);font-weight:600;font-size:clamp(30px,4.4vw,46px);line-height:1.08;margin:0 0 14px;text-wrap:balance;max-width:22ch}
+.dek{font-size:17px;color:var(--muted);max-width:62ch;margin:0}.dek b{color:var(--ink);font-weight:600}
+.summary{display:grid;grid-template-columns:repeat(5,1fr);gap:1px;background:var(--line);border:1px solid var(--line);border-radius:4px;overflow:hidden;margin:30px 0 0}
+.stat{background:var(--surface);padding:16px 15px}
+.stat .n{font-family:var(--serif);font-size:28px;font-weight:600;font-variant-numeric:tabular-nums;line-height:1}
+.stat .l{font-family:var(--mono);font-size:10px;letter-spacing:.09em;text-transform:uppercase;color:var(--faint);margin-top:8px}
+.stat.g .n{color:var(--good)}
+@media(max-width:720px){.summary{grid-template-columns:repeat(2,1fr)}}
+.sec{margin-top:56px}
+.sec-eyebrow{font-family:var(--mono);font-size:11.5px;letter-spacing:.14em;text-transform:uppercase;color:var(--lapis);margin:0 0 5px}
+.sec h2{font-family:var(--serif);font-weight:600;font-size:clamp(23px,2.6vw,30px);margin:0 0 6px}
+.sec .lead{font-size:15px;color:var(--muted);max-width:70ch;margin:0 0 24px}
+/* recommended */
+.rec{display:grid;grid-template-columns:56px 1fr;gap:20px;background:var(--surface);border:1px solid var(--line);
+ border-left:3px solid var(--gold);border-radius:5px;padding:24px;margin-bottom:18px}
+.rec-num{font-family:var(--serif);font-size:38px;font-weight:600;color:var(--gold);line-height:1;opacity:.85}
+.rec-top{display:flex;justify-content:space-between;align-items:center;gap:10px;margin-bottom:10px}
+.rid{font-family:var(--mono);font-size:11.5px;color:var(--faint)}
+.skeptic{font-family:var(--mono);font-size:10px;letter-spacing:.06em;text-transform:uppercase;color:var(--good);
+ border:1px solid color-mix(in srgb,var(--good) 40%,transparent);background:color-mix(in srgb,var(--good) 9%,transparent);padding:3px 9px;border-radius:20px}
+.rec-ttl{font-family:var(--serif);font-weight:600;font-size:23px;line-height:1.2;margin:0 0 8px;text-wrap:balance}
+.rec-role{font-size:13px;color:var(--lapis);font-family:var(--mono);letter-spacing:.02em;margin-bottom:14px}
+.rec-mech,.rec-gap{font-size:14px;color:var(--muted);margin-bottom:12px;line-height:1.55}
+.tag{font-family:var(--mono);font-size:9.5px;letter-spacing:.12em;text-transform:uppercase;color:var(--faint);margin-right:8px;white-space:nowrap}
+.receipt{background:var(--ground);border:1px solid var(--line);border-radius:4px;padding:12px 14px;margin-bottom:14px}
+.receipt-label{font-family:var(--mono);font-size:9.5px;letter-spacing:.14em;text-transform:uppercase;color:var(--gold);margin-bottom:7px}
+.receipt p{margin:0;font-family:var(--mono);font-size:12px;color:var(--ink);line-height:1.65;word-break:break-word}
+.personas{display:grid;grid-template-columns:repeat(2,1fr);gap:6px 22px;margin-bottom:14px;max-width:440px}
+.prow{display:flex;align-items:center;gap:9px}
+.pn{font-size:11.5px;color:var(--muted);width:44px;text-transform:capitalize}
+.pbar{display:inline-flex;gap:3px}
+.pbar i{width:11px;height:6px;border-radius:1px}
+.pbar i.on{background:var(--lapis)}.pbar i.off{background:var(--line-strong)}
+.pv{font-family:var(--mono);font-size:11px;color:var(--faint)}
+.fix{margin-top:4px;border-top:1px solid var(--line);padding-top:12px}
+.fix summary{font-family:var(--mono);font-size:11px;letter-spacing:.05em;text-transform:uppercase;color:var(--amber);cursor:pointer}
+.fix p{margin:10px 0 0;font-size:12.5px;color:var(--muted);line-height:1.6}
+/* reserve */
+.resgrid{display:grid;grid-template-columns:repeat(2,1fr);gap:16px}
+@media(max-width:760px){.resgrid{grid-template-columns:1fr}.rec{grid-template-columns:1fr;gap:12px}.rec-num{font-size:30px}}
+.res{background:var(--surface);border:1px solid var(--line);border-radius:5px;padding:18px}
+.res-top{margin-bottom:8px}.res h4{font-family:var(--serif);font-weight:600;font-size:17px;line-height:1.25;margin:0 0 8px;text-wrap:balance}
+.res p{margin:0;font-size:13px;color:var(--muted);line-height:1.55}
+/* AB */
+.ab{display:grid;grid-template-columns:1fr 1fr;gap:18px;margin-bottom:8px}
+@media(max-width:640px){.ab{grid-template-columns:1fr}}
+.abcard{background:var(--surface);border:1px solid var(--line);border-radius:5px;padding:20px}
+.abcard h3{font-family:var(--mono);font-size:12px;letter-spacing:.08em;text-transform:uppercase;margin:0 0 4px;color:var(--ink)}
+.abcard .tier{font-size:12px;color:var(--faint);margin-bottom:16px}
+.abmetric{display:flex;justify-content:space-between;align-items:baseline;padding:9px 0;border-top:1px solid var(--line)}
+.abmetric .k{font-size:13px;color:var(--muted)}
+.abmetric .v{font-family:var(--serif);font-size:20px;font-weight:600;font-variant-numeric:tabular-nums}
+.abnote{font-size:13.5px;color:var(--muted);margin:16px 0 0;line-height:1.6;max-width:72ch}
+/* board */
+.board{overflow-x:auto;border:1px solid var(--line);border-radius:5px}
+table{width:100%;border-collapse:collapse;font-size:13px;min-width:640px}
+thead th{font-family:var(--mono);font-size:10px;letter-spacing:.08em;text-transform:uppercase;color:var(--faint);
+ text-align:left;padding:11px 12px;background:var(--surface-2);border-bottom:1px solid var(--line);white-space:nowrap}
+tbody td{padding:10px 12px;border-bottom:1px solid var(--line);background:var(--surface)}
+tbody tr:last-child td{border-bottom:0}
+.rk{font-family:var(--mono);color:var(--faint);width:34px}
+.rid-c{font-family:var(--mono);font-size:11.5px;color:var(--gold);white-space:nowrap}
+.rt{font-family:var(--serif);font-size:14px;line-height:1.3}
+.adv{font-family:var(--mono);font-size:10.5px;color:var(--faint);text-transform:uppercase}
+.sc{font-family:var(--serif);font-size:16px;font-weight:600;font-variant-numeric:tabular-nums;text-align:right}
+.mk{white-space:nowrap}
+.sv{font-family:var(--mono);font-size:9.5px;letter-spacing:.05em;text-transform:uppercase;padding:2px 7px;border-radius:12px}
+.sv.surv{color:var(--good);background:color-mix(in srgb,var(--good) 10%,transparent)}
+.fatal{font-family:var(--mono);font-size:9.5px;color:var(--rose);margin-left:6px}
+.callout{margin-top:18px;border:1px solid var(--line-strong);border-left:3px solid var(--lapis);background:var(--surface);
+ border-radius:3px;padding:15px 18px;font-size:14px;color:var(--muted);line-height:1.6}
+.callout b{color:var(--ink);font-weight:600}
+footer{margin-top:64px;border-top:1px solid var(--line-strong);padding-top:22px;font-size:12.5px;color:var(--faint);font-family:var(--mono);line-height:1.75}
+footer b{color:var(--muted);font-weight:400}
+</style>
+<div class="wrap">
+<header class="top">
+  <p class="kicker">AyahGuide · Article Braintrust v2 · final dossier</p>
+  <h1 class="title">The panel picked three. Here is the reasoning.</h1>
+  <p class="dek">Six lenses mined the full Quranic morphology corpus; every count was mechanically verified,
+  four advisors drafted and cross-critiqued <b>24 proposals</b>, and an adversarial skeptic with veto power
+  tried to break the top ten. All ten survived. Below: the recommended three, the reserve, and the full board.</p>
+  <div class="summary">
+    <div class="stat"><div class="n">24</div><div class="l">proposals</div></div>
+    <div class="stat g"><div class="n">10/10</div><div class="l">survived skeptic</div></div>
+    <div class="stat g"><div class="n">3</div><div class="l">recommended</div></div>
+    <div class="stat"><div class="n">4</div><div class="l">reserve</div></div>
+    <div class="stat g"><div class="n">32/32</div><div class="l">counts verified</div></div>
+  </div>
+</header>
+
+<section class="sec">
+  <p class="sec-eyebrow">the verdict</p>
+  <h2>Recommended 3 — a portfolio, not a top-3</h2>
+  <p class="lead">One acquisition doorway, two high-shareability pieces on three distinct mechanisms.
+  Persona scores are the panel's (1–5, for Amina · Khalil · Sara · Yusuf). Each carries the skeptic's
+  required corrections — fold them in before drafting.</p>
+  <article class="rec">
+  <div class="rec-num">1</div>
+  <div class="rec-body">
+    <div class="rec-top">
+      <span class="rid">HASAN-6</span>
+      <span class="skeptic">skeptic ✓ survives</span>
+    </div>
+    <h3 class="rec-ttl">The Four Words People Read as a Curse — and What the Mufassirun Actually Said</h3>
+    <div class="rec-role">acquisition / search-doorway + classical-recovery flagship</div>
+    <div class="rec-mech"><span class="tag">mechanism</span>contested-phrase pairing (9:30 / 63:4) + classical idiom recovery</div>
+    <div class="receipt"><div class="receipt-label">verified receipt</div><p>Exact phrase قاٰتَلَهُمُ اللّٰه اَنّىٰ يُؤفَكون at exactly 9:30, 63:4 (both verse-final). قاتل = Form III (fight-against), not Form I &quot;kill&quot;. The &quot;how deluded&quot; clause اَنّىٰ يُؤفَكون recurs curse-free at 5:75, 29:61, 43:87.</p></div>
+    <div class="personas"><div class="prow"><span class="pn">amina</span><span class="pbar"><i class="on"></i><i class="on"></i><i class="on"></i><i class="on"></i><i class="on"></i></span><span class="pv">5</span></div><div class="prow"><span class="pn">khalil</span><span class="pbar"><i class="on"></i><i class="on"></i><i class="on"></i><i class="on"></i><i class="on"></i></span><span class="pv">5</span></div><div class="prow"><span class="pn">sara</span><span class="pbar"><i class="on"></i><i class="on"></i><i class="on"></i><i class="off"></i><i class="off"></i></span><span class="pv">3</span></div><div class="prow"><span class="pn">yusuf</span><span class="pbar"><i class="on"></i><i class="on"></i><i class="on"></i><i class="on"></i><i class="on"></i></span><span class="pv">5</span></div></div>
+    <div class="rec-gap"><span class="tag">fills</span>Catalog has 185 pieces — many concept/root/pairing/story pieces — but the only contested-adversarial-quotation piece is the 9:5 sword-verse (line 25), a different verse and mechanism. No piece turns a weaponized phrase into named classical lexical honesty. This is the highest-intent acquisition doorway: Amina and Yusuf both arrive via contested-verse search.</div>
+    <details class="fix"><summary>corrections the writer must apply</summary><p>1) Drop the exhibit&#x27;s unverifiable &#x27;harshest curse&#x27; superlative (لعنهم الله appears 7x, لعنة الله 5x, plus qutila-imprecations at 80:17/51:10/85:4) — also required by house &#x27;no superlatives&#x27; rule; the thesis&#x27;s own &#x27;gets quoted as a curse&#x27; wording is already safe. 2) Split the two clauses cleanly: the curse proper is the 2-word qatalahumu-llah; the astonishment gloss &#x27;how deluded they are&#x27; belongs to anna yu&#x27;fakun, which recurs CURSE-FREE at 5:75, 29:61, 43:87 — use those as positive evidence for the idiom, never conflate. 3) Note قاتل is Form III (war/fight-against), not Form I &#x27;kill&#x27;; transliterate &#x27;qātalahum&#x27; (long a) — the Form III fact strengthens the non-literal idiom argument. 4) Cite named mufassirun in-body (al-Tabari, al-Qurtubi, al-Zamakhshari); present the RANGE (imprecation used idiomatically for astonishment/rebuke) WITHOUT softening that both verses remain severe condemnations; verify quotes at draft time. 5) &#x27;those who called a prophet the son of God&#x27; fits Isa cleanly but is looser for Uzayr (prophet-status debated) — phrase carefully; &#x27;first and last in mushaf order&#x27; is trivially true for a 2-element set, use as color only, do not imply deliberate bracketing. Scope: exact phrase قاتلهم الله انى يوفكون = {9:30, 63:4}, both verse-final; core pairing is Quran-only, idiom payoff flagged as tafsir.</p></details>
+  </div>
+</article><article class="rec">
+  <div class="rec-num">2</div>
+  <div class="rec-body">
+    <div class="rec-top">
+      <span class="rid">ZAYNAB-1</span>
+      <span class="skeptic">skeptic ✓ survives</span>
+    </div>
+    <h3 class="rec-ttl">You Shove the Orphan Away. The Same Verb Shoves You Into the Fire.</h3>
+    <div class="rec-role">high-shareability (single-screenshot moral punch) + morphology-carries-meaning for the rigor readers</div>
+    <div class="rec-mech"><span class="tag">mechanism</span>verb voice-flip census (root د-ع-ع, 2 verb tokens: 107:2 active / 52:13 passive)</div>
+    <div class="receipt"><div class="receipt-label">verified receipt</div><p>Root د-ع-ع = 2 verb tokens only: 107:2 يَدُعُّ (active, 3rd-masc-SINGULAR) vs 52:13 يُدَعُّ (passive, 3rd-masc-PLURAL) — a voice flip AND a number shift; plus 1 verbal noun دَعًّا at 52:13. Distinct from the homograph دعو &quot;to call&quot; (212 tokens).</p></div>
+    <div class="personas"><div class="prow"><span class="pn">amina</span><span class="pbar"><i class="on"></i><i class="on"></i><i class="on"></i><i class="on"></i><i class="off"></i></span><span class="pv">4</span></div><div class="prow"><span class="pn">khalil</span><span class="pbar"><i class="on"></i><i class="on"></i><i class="on"></i><i class="on"></i><i class="on"></i></span><span class="pv">5</span></div><div class="prow"><span class="pn">sara</span><span class="pbar"><i class="on"></i><i class="on"></i><i class="on"></i><i class="on"></i><i class="on"></i></span><span class="pv">5</span></div><div class="prow"><span class="pn">yusuf</span><span class="pbar"><i class="on"></i><i class="on"></i><i class="on"></i><i class="on"></i><i class="off"></i></span><span class="pv">4</span></div></div>
+    <div class="rec-gap"><span class="tag">fills</span>The voice-flip FORM is published (budge-root زحزح, line 6) but this CONTENT is new and morally sharper — the strongest untouched voice-flip case, zero Arabic prerequisite, a one-sentence WhatsApp forward. Fills the &#x27;grammar itself carries the meaning&#x27; shareable unit with fresh, moral content.</div>
+    <details class="fix"><summary>corrections the writer must apply</summary><p>1) MORPHOLOGY: not &#x27;same aspect, only voice differs&#x27; — 107:2 is 3MS (singular active يَدُعُّ), 52:13 is 3MP (plural passive يُدَعّونَ). State active→passive voice flip WITH a singular→plural number shift (the single shover answered by the plural shoved). 2) &#x27;THE SAME PEOPLE&#x27; / &#x27;the hand that pushes becomes the body that is pushed&#x27; is a moral/contrapasso RESONANCE, not a Quranic identity claim — the subjects are textually distinct. Earn the link honestly via shared root كذب: both are deniers of the din (107:1 يكذب بالدين; 52:11 المكذبين; 52:14 كنتم بها تكذبون). Do not assert the Quran identifies the same individuals. 3) SCOPE: keep the &#x27;as a verb&#x27; qualifier on &#x27;only twice&#x27; — a 3rd token, verbal noun دَعًا at 52:13, exists. 4) Differentiate from the published زحزح voice-flip template (novelty is the moral content, not the form) and position so it does NOT duplicate the verified-pool BRACKET-10 use of 107:2 (يتم/كذب census). No folk-phonetics on the doubled ʿayn — the point is voice, not sound. 5) State the two facts and let the resonance show; do not claim the Quran &#x27;designed&#x27; a rhyme; no superlatives.</p></details>
+  </div>
+</article><article class="rec">
+  <div class="rec-num">3</div>
+  <div class="rec-body">
+    <div class="rec-top">
+      <span class="rid">KHALID-4</span>
+      <span class="skeptic">skeptic ✓ survives</span>
+    </div>
+    <h3 class="rec-ttl">The Angels Tell Ibrahim&#x27;s Wife She&#x27;ll Have a Son — She Laughs in One Surah and Slaps Her Own Face in Another</h3>
+    <div class="rec-role">high-shareability (warm, human, woman-centered) + classical ikhtilaf recovery (dahikat)</div>
+    <div class="rec-mech"><span class="tag">mechanism</span>cross-telling scene-reaction contrast (11:71 / 51:29) + hapax (sakkat, root ص-ك-ك)</div>
+    <div class="receipt"><div class="receipt-label">verified receipt</div><p>أوجَسَ منهم خيفة is verbatim in both tellings (11:70, 51:28), anchoring the same annunciation scene. صَكَّت (she struck her face) is a true hapax — root ص-ك-ك occurs only at 51:29. ضَحِكَت (she laughed) is at 11:71. &quot;Sarah&quot; is extra-Quranic — use &quot;Ibrahim&#x27;s wife&quot;.</p></div>
+    <div class="personas"><div class="prow"><span class="pn">amina</span><span class="pbar"><i class="on"></i><i class="on"></i><i class="on"></i><i class="on"></i><i class="on"></i></span><span class="pv">5</span></div><div class="prow"><span class="pn">khalil</span><span class="pbar"><i class="on"></i><i class="on"></i><i class="on"></i><i class="on"></i><i class="off"></i></span><span class="pv">4</span></div><div class="prow"><span class="pn">sara</span><span class="pbar"><i class="on"></i><i class="on"></i><i class="on"></i><i class="on"></i><i class="on"></i></span><span class="pv">5</span></div><div class="prow"><span class="pn">yusuf</span><span class="pbar"><i class="on"></i><i class="on"></i><i class="on"></i><i class="off"></i><i class="off"></i></span><span class="pv">3</span></div></div>
+    <div class="rec-gap"><span class="tag">fills</span>Catalog is dense with woman-centered pieces — Maryam (multiple), Asiya, Bilqis, mother of Musa, women of Egypt — all reverent and theological. NONE shows a matriarch&#x27;s raw, un-airbrushed startled reaction. Different register (warm, almost funny), high forwardability; fills the &#x27;permission to be human&#x27; + non-solemn woman-centered gap.</div>
+    <details class="fix"><summary>corrections the writer must apply</summary><p>1) Keep the dahikat &#x27;laughed vs. menstruated&#x27; ikhtilaf visible in published copy; do not present &#x27;she laughs&#x27; as the settled or only reading. 2) Reframe &#x27;the laugh and the disbelief&#x27;: incredulity is present in Hud too (11:72 &#x27;woe to me, shall I bear while I am an old woman&#x27;). The clean, corpus-grounded contrast is between two physical GESTURES preserved across the two tellings (she laughed / she struck her own face in a cry), NOT joy-in-one-surah vs. disbelief-in-the-other — do not imply Hud lacks shock. 3) If citing the ص-ر-ر root&#x27;s 6 verses, do not imply all mean &#x27;clamor&#x27; — 4 mean persist/be-obstinate, 1 (3:117) means cold wind; the clamor sense (صَرّة) is in fact unique to 51:29 — either drop the count or state the clamor sense itself is rare. 4) Keep صكك (sakkat, hapax at 51:29) and ضحك (present at 11:71) roots distinct in prose; ground the same-annunciation claim on أوجس منهم خيفة (verbatim in 11:70 and 51:28); &#x27;Sarah&#x27; is extra-Quranic — keep the name out of the payoff, use &#x27;Ibrahim&#x27;s wife&#x27;. No superlatives.</p></details>
+  </div>
+</article>
+</section>
+
+<section class="sec">
+  <p class="sec-eyebrow">held in reserve</p>
+  <h2>Four more, ranked by promotability</h2>
+  <div class="resgrid"><article class="res">
+  <div class="res-top"><span class="rid">KHALID-2</span></div>
+  <h4>A Pagan Queen and a Future Prophet Say the Exact Same Four Words: &#x27;My Lord, I Have Wronged Myself&#x27;</h4>
+  <p>Strongest reserve and closest to promotion. Permission-genre, Amina&#x27;s exact need (low-shame on-ramp), verifiable exact phrase {27:44, 28:16} with the two-word-core bonus. Held out because it is a third mechanism only adjacent to the recommended, freshness is dented by the published zulm-al-nafs page, and HASAN-6 is the stronger doorway. Twin of YASMIN-3 (ship one). Corrections if promoted: use &#x27;Queen of Sheba&#x27; not the tafsir name &#x27;Bilqis&#x27;; frame paganism as her STARTING POINT (she speaks the line mid-submission, 27:44 واسلمت); anchor &#x27;four words&#x27; to the Arabic (رب/اني/ظلمت/نفسي); keep &#x27;mushaf order&#x27; prominent (Musa historically precedes Sulayman); differentiate from zulm-al-nafs and bilqis-* pieces; do not smuggle a fiqh ruling on Musa&#x27;s killing.</p>
+</article><article class="res">
+  <div class="res-top"><span class="rid">HASAN-4</span></div>
+  <h4>A Jailed Slave States the Law That Runs the Universe — Word for Word</h4>
+  <p>Verified verbatim clause match {12:40, 17:23}; powerless-man-states-the-decree image is legible and Khalil-strong. Held out because the reveal is true only for the PRONOUN form (إياه) — near-synonymous &#x27;worship none but Allah&#x27; appears in 11:2/41:14/46:21/11:26 — so it must be reframed as PRONOUN-EXACT verbatim identity, not conceptual uniqueness, which slightly blunts the &#x27;only twice&#x27; punch. Distinct mechanism; a clean future run if that family is disclosed up front.</p>
+</article><article class="res">
+  <div class="res-top"><span class="rid">KHALID-6</span></div>
+  <h4>One Phrase for a Roof That Caved In — the Quran Uses It on Three Monuments to People Who Thought They&#x27;d Last</h4>
+  <p>Exact three-verse phrase khawiyatun &#x27;ala &#x27;urushiha {2:259, 18:42, 22:45}, verified, no superlative, and it exports naturally as a visual quote-card (IG cross-over path). Held out because the unifying &#x27;false permanence&#x27; theme overreaches on 2:259 (no owner, resurrection lesson) and the &#x27;one image for ruin&#x27; framing exposes a 5x-vs-3x cherry-pick a hostile reader will catch (27:52, 69:7). Publishable once reframed as &#x27;one exact phrase, one collapse-image, three ruins, three different lessons&#x27;; strong reserve for a design-forward slot.</p>
+</article><article class="res">
+  <div class="res-top"><span class="rid">HASAN-3</span></div>
+  <h4>The Same Prayer From the Mightiest King and an Ordinary Person at Forty</h4>
+  <p>Verified phrase + وزع root census with a genuine grammatical floor. Ranked last: freshness is the real problem — same-prayer-two-speakers is now a worn genre with THREE published pieces (afrigh line 15, arini line 16, aftuni line 22); the skeptic downgraded the &#x27;marshal into ranks&#x27; payoff to a labelled shared-root layer (the load-bearing gloss is al-Tabari&#x27;s alhimni/dispose-me); the title carries a &#x27;mightiest king&#x27; superlative to strip; and the 27:19 ant scene overlaps the published sulayman-ants piece (line 39). Lowest avg_critique (28.67). Hold until the genre rests.</p>
+</article></div>
+</section>
+
+<section class="sec">
+  <p class="sec-eyebrow">the experiment</p>
+  <h2>High vs xhigh mining — the A/B result</h2>
+  <div class="ab">
+    <div class="abcard">
+      <h3>High-effort miners</h3><div class="tier">VOICE lens</div>
+      <div class="abmetric"><span class="k">insights mined</span><span class="v">11</span></div>
+      <div class="abmetric"><span class="k">survived verification</span><span class="v">11/11</span></div>
+      <div class="abmetric"><span class="k">reached top 10</span><span class="v">4</span></div>
+      <div class="abmetric"><span class="k">survived skeptic</span><span class="v">4</span></div>
+    </div>
+    <div class="abcard">
+      <h3>Xhigh-effort miners</h3><div class="tier">PHRASE + SCENE lenses</div>
+      <div class="abmetric"><span class="k">insights mined</span><span class="v">21</span></div>
+      <div class="abmetric"><span class="k">survived verification</span><span class="v">21/21</span></div>
+      <div class="abmetric"><span class="k">reached top 10</span><span class="v">7</span></div>
+      <div class="abmetric"><span class="k">survived skeptic</span><span class="v">7</span></div>
+    </div>
+  </div>
+  <p class="abnote"><b>Read:</b> both tiers verified at 100% — mining effort didn't change factual survival.
+  But xhigh insights supplied 7 of the top-10 proposals to high's 4 (and all recommended-3 draw on
+  xhigh exhibits), suggesting the extra effort buys <i>article-worthiness</i>, not accuracy. Caveat: only
+  one high lens (VOICE) ran in this batch vs two xhigh, so the top-10 split partly reflects volume.</p>
+</section>
+
+<section class="sec">
+  <p class="sec-eyebrow">full board</p>
+  <h2>All 24 proposals, ranked</h2>
+  <div class="board">
+    <table>
+      <thead><tr><th></th><th>id</th><th>title</th><th>advisor</th><th>score</th><th>skeptic</th></tr></thead>
+      <tbody><tr>
+  <td class="rk">1</td><td class="rid-c">ZAYNAB-1</td>
+  <td class="rt">You Shove the Orphan Away. The Same Verb Shoves You Into the Fire.</td>
+  <td class="adv">ZAYNAB</td>
+  <td class="sc">32.7</td>
+  <td class="mk"><span class="sv surv">survives</span></td>
+</tr><tr>
+  <td class="rk">2</td><td class="rid-c">KHALID-1</td>
+  <td class="rt">The Same Word: You Shove the Orphan Away — Then You Get Shoved Into the Fire</td>
+  <td class="adv">KHALID</td>
+  <td class="sc">32.0</td>
+  <td class="mk"><span class="sv surv">survives</span></td>
+</tr><tr>
+  <td class="rk">3</td><td class="rid-c">YASMIN-3</td>
+  <td class="rt">A Pagan Queen and a Future Prophet Say the Exact Same Four Words of Confession</td>
+  <td class="adv">YASMIN</td>
+  <td class="sc">31.3</td>
+  <td class="mk"><span class="sv surv">survives</span></td>
+</tr><tr>
+  <td class="rk">4</td><td class="rid-c">YASMIN-6</td>
+  <td class="rt">The Verb Turns Around: You Shove the Orphan, Then You Are Shoved Into the Fire</td>
+  <td class="adv">YASMIN</td>
+  <td class="sc">31.0</td>
+  <td class="mk"><span class="sv surv">survives</span></td>
+</tr><tr>
+  <td class="rk">5</td><td class="rid-c">KHALID-2</td>
+  <td class="rt">A Pagan Queen and a Future Prophet Say the Exact Same Four Words: &#x27;My Lord, I Have Wronged Myself&#x27;</td>
+  <td class="adv">KHALID</td>
+  <td class="sc">30.7</td>
+  <td class="mk"><span class="sv surv">survives</span></td>
+</tr><tr>
+  <td class="rk">6</td><td class="rid-c">KHALID-6</td>
+  <td class="rt">One Phrase for a Roof That Caved In — the Quran Uses It on Three Monuments to People Who Thought They&#x27;d Last</td>
+  <td class="adv">KHALID</td>
+  <td class="sc">30.3</td>
+  <td class="mk"><span class="sv surv">survives</span></td>
+</tr><tr>
+  <td class="rk">7</td><td class="rid-c">HASAN-4</td>
+  <td class="rt">A Jailed Slave States the Law That Runs the Universe — Word for Word</td>
+  <td class="adv">HASAN</td>
+  <td class="sc">30.0</td>
+  <td class="mk"><span class="sv surv">survives</span></td>
+</tr><tr>
+  <td class="rk">8</td><td class="rid-c">HASAN-6</td>
+  <td class="rt">The Four Words People Read as a Curse — and What the Mufassirun Actually Said</td>
+  <td class="adv">HASAN</td>
+  <td class="sc">29.7</td>
+  <td class="mk"><span class="sv surv">survives</span></td>
+</tr><tr>
+  <td class="rk">9</td><td class="rid-c">KHALID-4</td>
+  <td class="rt">The Angels Tell Ibrahim&#x27;s Wife She&#x27;ll Have a Son — She Laughs in One Surah and Slaps Her Own Face in Another</td>
+  <td class="adv">KHALID</td>
+  <td class="sc">29.7</td>
+  <td class="mk"><span class="sv surv">survives</span></td>
+</tr><tr>
+  <td class="rk">10</td><td class="rid-c">HASAN-3</td>
+  <td class="rt">The Same Prayer From the Mightiest King and an Ordinary Person at Forty</td>
+  <td class="adv">HASAN</td>
+  <td class="sc">28.7</td>
+  <td class="mk"><span class="sv surv">survives</span></td>
+</tr><tr>
+  <td class="rk">11</td><td class="rid-c">KHALID-5</td>
+  <td class="rt">The Excuse God Answered Before Anyone Could Make It</td>
+  <td class="adv">KHALID</td>
+  <td class="sc">28.7</td>
+  <td class="mk"></td>
+</tr><tr>
+  <td class="rk">12</td><td class="rid-c">HASAN-1</td>
+  <td class="rt">When the Quran Drops the Doer: Two Verbs That Never Name Who Acts</td>
+  <td class="adv">HASAN</td>
+  <td class="sc">28.3</td>
+  <td class="mk"></td>
+</tr><tr>
+  <td class="rk">13</td><td class="rid-c">HASAN-5</td>
+  <td class="rt">The Excuse God Answered Before Anyone Could Make It</td>
+  <td class="adv">HASAN</td>
+  <td class="sc">28.3</td>
+  <td class="mk"></td>
+</tr><tr>
+  <td class="rk">14</td><td class="rid-c">ZAYNAB-3</td>
+  <td class="rt">You Can&#x27;t Line Yourself Up: The Army Verb That Becomes a Prayer for Gratitude</td>
+  <td class="adv">ZAYNAB</td>
+  <td class="sc">27.7</td>
+  <td class="mk"></td>
+</tr><tr>
+  <td class="rk">15</td><td class="rid-c">YASMIN-2</td>
+  <td class="rt">In the Quran&#x27;s Paradise, You Are Never the One Who Puts On the Jewelry</td>
+  <td class="adv">YASMIN</td>
+  <td class="sc">27.7</td>
+  <td class="mk"><span class="fatal">1 fatal</span></td>
+</tr><tr>
+  <td class="rk">16</td><td class="rid-c">YASMIN-4</td>
+  <td class="rt">The Meat With No Name: Why the Quran Never Says Who Dedicated It</td>
+  <td class="adv">YASMIN</td>
+  <td class="sc">27.7</td>
+  <td class="mk"></td>
+</tr><tr>
+  <td class="rk">17</td><td class="rid-c">YASMIN-5</td>
+  <td class="rt">The Excuse God Puts in Their Mouths Before They Can Make It</td>
+  <td class="adv">YASMIN</td>
+  <td class="sc">27.7</td>
+  <td class="mk"></td>
+</tr><tr>
+  <td class="rk">18</td><td class="rid-c">ZAYNAB-5</td>
+  <td class="rt">Ibrahim&#x27;s Wife Laughed in One Surah. In Another, She Slapped Her Own Face.</td>
+  <td class="adv">ZAYNAB</td>
+  <td class="sc">27.0</td>
+  <td class="mk"><span class="fatal">1 fatal</span></td>
+</tr><tr>
+  <td class="rk">19</td><td class="rid-c">KHALID-3</td>
+  <td class="rt">The Most Powerful King in the Quran and an Ordinary Person Turning 40 Pray the Exact Same Prayer</td>
+  <td class="adv">KHALID</td>
+  <td class="sc">27.0</td>
+  <td class="mk"></td>
+</tr><tr>
+  <td class="rk">20</td><td class="rid-c">HASAN-2</td>
+  <td class="rt">The Quran Stamps Only Two Money Laws &#x27;An Obligation From God&#x27;</td>
+  <td class="adv">HASAN</td>
+  <td class="sc">26.7</td>
+  <td class="mk"></td>
+</tr><tr>
+  <td class="rk">21</td><td class="rid-c">YASMIN-1</td>
+  <td class="rt">Ibrahim&#x27;s Wife Laughs in One Telling and Slaps Her Own Face in Another</td>
+  <td class="adv">YASMIN</td>
+  <td class="sc">26.7</td>
+  <td class="mk"><span class="fatal">1 fatal</span></td>
+</tr><tr>
+  <td class="rk">22</td><td class="rid-c">ZAYNAB-4</td>
+  <td class="rt">&#x27;Strike With Your Staff&#x27; Is Said Three Times — and the Water Word Is One the Quran Uses Nowhere Else</td>
+  <td class="adv">ZAYNAB</td>
+  <td class="sc">25.3</td>
+  <td class="mk"></td>
+</tr><tr>
+  <td class="rk">23</td><td class="rid-c">ZAYNAB-2</td>
+  <td class="rt">Two Places the Quran Drops the Doer: Paradise, and the Forbidden Meat</td>
+  <td class="adv">ZAYNAB</td>
+  <td class="sc">23.7</td>
+  <td class="mk"></td>
+</tr><tr>
+  <td class="rk">24</td><td class="rid-c">ZAYNAB-6</td>
+  <td class="rt">Watch the Verb Flip: When a Human Wins, the Grammar Hands the Win to God</td>
+  <td class="adv">ZAYNAB</td>
+  <td class="sc">20.7</td>
+  <td class="mk"></td>
+</tr></tbody>
+    </table>
+  </div>
+  <div class="callout"><b>Scope note.</b> This panel ranked the 32 insights from the three lenses that ran
+  in this batch (VOICE / PHRASE / SCENE). The <b>36 insights from the first three lenses</b>
+  (GRAPH / BRACKET / RAREADJ) were separately mined and verified — 35 confirmed, 1 corrected, 0 refuted —
+  but a workflow sandbox limitation kept them from reaching the advisors, so they remain a verified,
+  un-ranked reserve pool. All 68 are shippable article seeds; the 36 can be run through a panel later at low cost.</div>
+</section>
+
+<footer>
+  <b>run:</b> wf_f6f1b94f-a59 (resume) · 31 agents, 0 errors, 2.07M tokens · Opus 4.8<br>
+  <b>method:</b> corpus counts re-derived from quranic-corpus.json + quran-verses.json; recommended-3 receipts re-verified in-session.<br>
+  <b>ledgers:</b> scripts/braintrust-v2/ledgers/ (deliberation.json · propose-*.json · critique-*.json · skeptic-*.json · verified-pool.json)<br>
+  <b>guards:</b> Quran-only payoffs · exact morphological scope · first/last = mushaf order · overlap-checked vs 185 published articles.
+</footer>
+</div>

@@ -1,0 +1,7 @@
+{
+  "results": [
+    {"id":"VOICE-9","verdict":"CONFIRMED","notes":"ROOT:ركس verb census = 2 tokens, 0 non-verb. 4:88 أَرْكَسَ PERF|VF:4|3MS (active). 4:91 أُرْكِسُ PERF|VF:4|PASS|3MP (passive). Both surah 4, three verses apart, both form-IV. Active/passive voice flip exact."},
+    {"id":"VOICE-10","verdict":"CONFIRMED","notes":"ROOT:نكس verb census = 2 tokens (plus 1 non-verb noun token, claim only asserts 2 VERB occurrences). 21:65 نُكِسُ PERF|VF:1|PASS (passive). 36:68 نُنَكِّسْ IMPF|VF:2|1P (active). Voice flip exact. textSimple phrases 'نكسوا على رءوسهم' and 'ننكسه في الخلق' confirmed."},
+    {"id":"VOICE-11","verdict":"CONFIRMED","notes":"ROOT:صعق verb census = 2 tokens; 9 non-verb tokens all pos=N (sa'iqa). 39:68 صَعِقَ PERF|VF:1|3MS (active, universal). 52:45 يُصْعَقُ IMPF|VF:1|PASS|3MP (passive, deniers). textSimple 'فصعق من في السماوات ومن في الارض' and 'يومهم الذي فيه يصعقون' confirmed."}
+  ]
+}

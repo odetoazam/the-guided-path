@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <link rel="preconnect" href="https://fonts.googleapis.com"/>
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="anonymous"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&family=Playfair+Display:ital,wght@0,600;0,700;1,400;1,600&family=Inter:wght@300;400;500;600&display=swap"/>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    html, body { width: 1080px; height: 1920px; overflow: hidden; background: #0A1322; font-family: 'Inter', system-ui, sans-serif; }
+    #stage { position: absolute; inset: 0; }
+    .bg-glow { position: absolute; top: 42%; left: 50%; transform: translate(-50%,-50%); width: 1200px; height: 1200px; border-radius: 50%; background: radial-gradient(circle, rgba(201,168,76,0.10) 0%, rgba(201,168,76,0) 62%); pointer-events: none; z-index: 0; }
+    .scene { position: absolute; inset: 0; display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 180px 96px; text-align: center; z-index: 1; }
+    .ar { font-family: 'Amiri', serif; color: #C9A84C; direction: rtl; line-height: 1.6; text-shadow: 0 0 70px rgba(201,168,76,0.20), 0 0 180px rgba(201,168,76,0.07); }
+    .label { font-family: 'Inter', sans-serif; font-weight: 500; letter-spacing: 0.32em; text-transform: uppercase; color: rgba(201,168,76,0.62); }
+    .eng { font-family: 'Playfair Display', serif; color: #F5F0E8; line-height: 1.3; }
+    .eng-it { font-family: 'Playfair Display', serif; font-style: italic; color: rgba(245,240,232,0.82); line-height: 1.5; }
+    .dim { font-family: 'Inter', sans-serif; font-weight: 300; color: rgba(245,240,232,0.58); line-height: 1.6; }
+    .gold { color: #C9A84C; }
+
+    #s0 .label { font-size: 30px; margin-bottom: 50px; }
+    #s0 .ar { font-size: 80px; font-weight: 700; max-width: 1000px; white-space: nowrap; }
+    #s0 #s0-eng { font-size: 64px; font-weight: 700; margin-top: 46px; max-width: 880px; }
+    #s0-brand { position:absolute; bottom: 116px; left:50%; transform:translateX(-50%); font-family:'Playfair Display',serif; font-weight:600; font-size:34px; color:rgba(245,240,232,0.6); letter-spacing:0.06em; }
+
+    #s1 #s1-ar { font-family:'Amiri',serif; color:#C9A84C; direction:rtl; font-size:74px; font-weight:700; line-height:1.6; max-width:1000px; white-space:nowrap; text-shadow:0 0 50px rgba(201,168,76,0.16); }
+    #s1 #s1-tr { font-family:'Playfair Display',serif; font-style:italic; font-size:50px; color:rgba(245,240,232,0.8); margin-top:40px; max-width:840px; line-height:1.45; }
+
+    #s2 #s2-a { font-family:'Inter',sans-serif; font-weight:300; font-size:50px; color:rgba(245,240,232,0.6); max-width:860px; line-height:1.6; }
+    #s2 #s2-b { font-family:'Playfair Display',serif; font-style:italic; font-size:56px; color:rgba(245,240,232,0.85); margin-top:50px; max-width:860px; line-height:1.4; }
+
+    #s3 #s3-ar { font-family:'Amiri',serif; color:#C9A84C; direction:rtl; font-size:184px; font-weight:700; text-shadow:0 0 60px rgba(201,168,76,0.18); }
+    #s3 #s3-l1 { font-family:'Playfair Display',serif; font-style:italic; font-size:46px; color:rgba(245,240,232,0.72); margin-top:34px; max-width:880px; line-height:1.45; }
+    #s3 #s3-l2 { font-family:'Playfair Display',serif; font-weight:700; font-size:64px; color:#F5F0E8; margin-top:24px; line-height:1.24; max-width:920px; }
+    #s3 #s3-ref { font-family:'Inter',sans-serif; font-size:26px; color:rgba(201,168,76,0.6); letter-spacing:0.18em; text-transform:uppercase; margin-top:34px; }
+
+    #s4 #s4-l1 { font-family:'Playfair Display',serif; font-size:60px; color:rgba(245,240,232,0.78); line-height:1.3; max-width:900px; }
+    #s4 #s4-l2 { font-family:'Playfair Display',serif; font-style:italic; font-weight:600; font-size:56px; color:#C9A84C; margin-top:24px; line-height:1.32; max-width:920px; }
+    #s4-brand { position:absolute; bottom: 150px; left:50%; transform:translateX(-50%); display:flex; flex-direction:column; align-items:center; gap:14px; }
+    #s4-brand .bn { font-family:'Playfair Display',serif; font-weight:600; font-size:56px; color:#F5F0E8; }
+    #s4-brand .hn { font-family:'Inter',sans-serif; font-size:30px; color:rgba(201,168,76,0.8); letter-spacing:0.16em; }
+
+    #frame { position:absolute; inset:0; pointer-events:none; z-index:30; }
+    #frame .border { position:absolute; top:30px; left:30px; right:30px; bottom:30px; border:1px solid rgba(201,168,76,0.26); }
+    .corner { position:absolute; width:74px; height:74px; }
+    .corner.tl{top:30px;left:30px;} .corner.tr{top:30px;right:30px;transform:scaleX(-1);}
+    .corner.bl{bottom:30px;left:30px;transform:scaleY(-1);} .corner.br{bottom:30px;right:30px;transform:scale(-1,-1);}
+    .sdm{position:absolute;width:7px;height:7px;transform:rotate(45deg);border:1px solid rgba(201,168,76,0.4);}
+    .sdm.t{top:27px;left:50%;margin-left:-3.5px;} .sdm.b{bottom:27px;left:50%;margin-left:-3.5px;}
+    .sdm.l{left:27px;top:50%;margin-top:-3.5px;} .sdm.r{right:27px;top:50%;margin-top:-3.5px;}
+  </style>
+</head>
+<body>
+  <div id="stage">
+    <div class="bg-glow" id="bgGlow"></div>
+
+    <div id="s0" class="scene">
+      <div class="label">Al-Fātiḥa · 1:6</div>
+      <div class="ar">ٱهْدِنَا ٱلصِّرَاطَ ٱلْمُسْتَقِيمَ</div>
+      <div id="s0-eng" class="eng">The prayer you repeat<br/>17 times a day.</div>
+      <div id="s0-brand">AyahGuide</div>
+    </div>
+
+    <div id="s1" class="scene" style="opacity:0;">
+      <div id="s1-ar">ٱهْدِنَا ٱلصِّرَاطَ ٱلْمُسْتَقِيمَ</div>
+      <div id="s1-tr">“Guide us to the straight path.” You say it in every single rakʿah.</div>
+    </div>
+
+    <div id="s2" class="scene" style="opacity:0;">
+      <div id="s2-a">You’re already Muslim. The Prophet ﷺ asked for it too.</div>
+      <div id="s2-b">So why keep begging for guidance you already have?</div>
+    </div>
+
+    <div id="s3" class="scene" style="opacity:0;">
+      <div id="s3-ar">ٱهْدِنَا</div>
+      <div id="s3-l1">Because it never meant “make me guided” — once, done.</div>
+      <div id="s3-l2">It means: <span class="gold">keep guiding me</span> — this step, and the next, and the next.</div>
+      <div id="s3-ref">Al-Fātiḥa · 1:6</div>
+    </div>
+
+    <div id="s4" class="scene" style="opacity:0;">
+      <div id="s4-l1">Guidance isn’t a place you arrive.</div>
+      <div id="s4-l2">It’s a path you walk — and every step<br/>needs fresh direction. So the asking never ends.</div>
+      <div id="s4-brand"><div class="bn">AyahGuide</div><div class="hn">ayahguide.com</div></div>
+    </div>
+
+    <div id="frame">
+      <div class="border"></div>
+      <svg class="corner tl" viewBox="0 0 74 74" fill="none"><path d="M10 10 H40 M10 10 V40" stroke="rgba(201,168,76,0.55)" stroke-width="1.4"/><rect x="6" y="6" width="20" height="20" stroke="rgba(201,168,76,0.5)" stroke-width="1" transform="rotate(45 16 16)"/><circle cx="16" cy="16" r="2" fill="rgba(201,168,76,0.6)"/></svg>
+      <svg class="corner tr" viewBox="0 0 74 74" fill="none"><path d="M10 10 H40 M10 10 V40" stroke="rgba(201,168,76,0.55)" stroke-width="1.4"/><rect x="6" y="6" width="20" height="20" stroke="rgba(201,168,76,0.5)" stroke-width="1" transform="rotate(45 16 16)"/><circle cx="16" cy="16" r="2" fill="rgba(201,168,76,0.6)"/></svg>
+      <svg class="corner bl" viewBox="0 0 74 74" fill="none"><path d="M10 10 H40 M10 10 V40" stroke="rgba(201,168,76,0.55)" stroke-width="1.4"/><rect x="6" y="6" width="20" height="20" stroke="rgba(201,168,76,0.5)" stroke-width="1" transform="rotate(45 16 16)"/><circle cx="16" cy="16" r="2" fill="rgba(201,168,76,0.6)"/></svg>
+      <svg class="corner br" viewBox="0 0 74 74" fill="none"><path d="M10 10 H40 M10 10 V40" stroke="rgba(201,168,76,0.55)" stroke-width="1.4"/><rect x="6" y="6" width="20" height="20" stroke="rgba(201,168,76,0.5)" stroke-width="1" transform="rotate(45 16 16)"/><circle cx="16" cy="16" r="2" fill="rgba(201,168,76,0.6)"/></svg>
+      <div class="sdm t"></div><div class="sdm b"></div><div class="sdm l"></div><div class="sdm r"></div>
+    </div>
+  </div>
+
+  <script>
+    window.TOTAL_MS = 14500;
+    function clamp(v,a,b){ return Math.max(a, Math.min(b, v)); }
+    function easeOut(t){ return 1 - Math.pow(1 - clamp(t,0,1), 3); }
+    function easeInOut(t){ t = clamp(t,0,1); return t < 0.5 ? 4*t*t*t : 1 - Math.pow(-2*t+2, 3)/2; }
+    function sceneOpacity(t, vs, ve, fi, fo){ if (t < vs || t >= ve) return 0; var o = 1; if (fi>0 && t<vs+fi) o = easeOut((t-vs)/fi); if (fo>0 && t>ve-fo) o = Math.min(o, 1-easeInOut((t-(ve-fo))/fo)); return o; }
+    function reveal(el, t, start, dur, dy){ if(!el) return; dy = dy===undefined?22:dy; var p = easeOut((t-start)/dur); el.style.opacity = clamp(p,0,1); el.style.transform = 'translateY('+((1-clamp(p,0,1))*dy).toFixed(2)+'px)'; }
+    var S = { s0:[0,2900,0,600], s1:[2600,5500,520,560], s2:[5200,8500,520,560], s3:[8200,11900,520,520], s4:[11600,14500,560,0] };
+    function frame(t){
+      var warm = clamp((t-8200)/4500,0,1);
+      var g = document.getElementById('bgGlow');
+      g.style.opacity = (0.7 + 0.45*warm).toFixed(3);
+      g.style.transform = 'translate(-50%,-50%) scale('+(1+0.16*warm).toFixed(3)+')';
+      for (var k in S){ document.getElementById(k).style.opacity = sceneOpacity(t,S[k][0],S[k][1],S[k][2],S[k][3]).toFixed(3); }
+      reveal(document.getElementById('s1-ar'), t, 2950, 850, 20);
+      reveal(document.getElementById('s1-tr'), t, 3850, 850, 18);
+      reveal(document.getElementById('s2-a'), t, 5550, 800, 18);
+      reveal(document.getElementById('s2-b'), t, 6650, 850, 18);
+      reveal(document.getElementById('s3-ar'), t, 8550, 900, 22);
+      reveal(document.getElementById('s3-l1'), t, 9550, 800, 18);
+      reveal(document.getElementById('s3-l2'), t, 10350, 800, 18);
+      reveal(document.getElementById('s3-ref'), t, 11150, 650, 12);
+      reveal(document.getElementById('s4-l1'), t, 11750, 850, 18);
+      reveal(document.getElementById('s4-l2'), t, 12450, 850, 18);
+      reveal(document.getElementById('s4-brand'), t, 13350, 700, 14);
+    }
+    ['s1-ar','s1-tr','s2-a','s2-b','s3-ar','s3-l1','s3-l2','s3-ref','s4-l1','s4-l2','s4-brand'].forEach(function(id){ var e=document.getElementById(id); if(e) e.style.opacity='0'; });
+    window.setAnimTime = function(ms){ frame(ms); };
+    frame(0);
+  </script>
+</body>
+</html>

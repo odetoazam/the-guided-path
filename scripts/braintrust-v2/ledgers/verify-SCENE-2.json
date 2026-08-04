@@ -1,0 +1,7 @@
+{
+  "results": [
+    {"id":"SCENE-9","verdict":"CONFIRMED","notes":"7:122 & 26:48 = 'رب موسى وهارون' (Musa then Harun); 20:70 = 'امنا برب هارون وموسى' (Harun then Musa) — flip in exactly 1 of 3 tellings. 20:70 verse-final word = موسى, matching Ta-Ha long-a rhyme (68-72 end: الاعلى/اتى/وموسى/وابقى/الدنيا). Minor: 'امنا برب' sweep also hits 20:73 (further magician speech), not just the 3 listed, but order-flip thesis unaffected.","corrected_claim":""},
+    {"id":"SCENE-10","verdict":"CONFIRMED","notes":"Destruction-noun roots all verified: 7:78 رجف (الرجفة), 54:31 صيح (صيحة واحدة), 41:17 صعق (صاعقة العذاب), 69:5 طغي (الطاغية). 41:13 cross-ref صاعقة عاد وثمود also confirmed (root صعق). All four verses name/contextualize Thamud. Four distinct nouns for one nation confirmed."}
+  ],
+  "ledger_path":"/Users/azamkhan/the-guided-path/scripts/braintrust-v2/ledgers/verify-SCENE-2.json"
+}

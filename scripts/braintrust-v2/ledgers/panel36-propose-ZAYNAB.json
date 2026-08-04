@@ -1,0 +1,103 @@
+{
+  "advisor": "Dr. Zaynab al-Mansouri",
+  "lens": "Arabic morphology & classical balaghah — scope discipline (root/lemma/phrase), form classification, government/transitivity of verbs, passive voice, particle & pronoun weight, verbatim repetition; mark classical balaghah vs literary reading; mushaf-order not chronology.",
+  "run": "2026-07-20",
+  "proposals": [
+    {
+      "id": "ZAYNAB-1",
+      "title": "Shaytan's Name in the Last Surah Means 'The One Who Slinks Away' — the Same Word Used for Stars That Vanish at Dawn",
+      "thesis": "The very last surah names Shaytan al-Khannas, from a root (خ-ن-س) that means to shrink back and hide. The only other place that root appears, God swears by al-khunnas — the stars that retreat and vanish as morning comes. So the whisperer and the disappearing stars are named with the same word: something that shows up, prods you, and then slips out of sight. The Arabic is even more exact than that — al-Khannas is the fa''al intensive form (the habitual, compulsive retreater), while al-khunnas is the plural of the plain active participle. Naming Shaytan this way tells you his defining move is not power; it is retreat.",
+      "thesis_note": "Payoff is Quran-internal (81:15 vs 114:4). Emotional core: the enemy is named a coward, not a titan.",
+      "exhibits": ["GRAPH-1"],
+      "personas": {
+        "amina": 4,
+        "khalil": 5,
+        "sara": 4,
+        "yusuf": 4,
+        "note": "Khalil/Yusuf get the form-precision (fa''al intensive vs plural participle) they trust; Sara gets a clean sentence to say ('his name means he slinks away'); Amina gets the reframe that the whisperer is small, not overwhelming."
+      },
+      "risks": "Must mark the form distinction precisely: al-Khannas (khannās, fa''al muballaghah = habitual retreater) vs al-khunnas (khunnas, plural of khānis, active participle). Do NOT read the shaddah as a 'heavy sound' — it is the morphological marker of intensity, not phonetic symbolism (this is exactly the drift I flagged in the 4:34 file). Scope the claim as ROOT-level (خ-ن-س, 2 verses). 81:15's al-kunnas (54 kaf, 'those that sweep/hide in their courses') is a different root and should not be conflated with al-khunnas. Do not assert the classical astronomers' identification of the specific planets as certain; the tafsir range (retreating planets / stars) is ikhtilaf worth a one-line disclosure.",
+      "why_now": "No published piece touches the khunnas/khannas link; the two shaytan-tactics articles (footsteps, waswasa) never reach it. This is the cleanest morphology-carries-meaning gem in the pool — the form of the word IS the reveal — and it lands on the single most-recited surah, so search intent is permanent."
+    },
+    {
+      "id": "ZAYNAB-2",
+      "title": "God Has a Verb for 'Sealing' That Only Ever Seals One Thing — and a Verb for 'Opening' That Only Ever Opens One Thing",
+      "thesis": "In grammar, a verb 'governs' an object — and some Quranic verbs are locked to a single object across the whole book. The verb tab'a (to stamp shut) appears in 11 verses, and in every one the thing stamped is a heart — never a door, never a letter, only a heart. Its mirror image, sharaha (to open up), appears in 5 verses, and every time the thing opened is a chest — never a road, never an affair, only a chest. The Quran keeps one verb for closing a person and one for opening a person, and it never lets either touch anything else. The unsettling detail: one of those 'openings' (16:106) is a chest opened wide to disbelief — so the opening-verb is a capacity, not automatically a mercy.",
+      "thesis_note": "Two exclusivity laws, both same-verse (zero adjacency window). The sister root qasw (harden→heart, 6/6) is a supporting cross-check.",
+      "exhibits": ["RAREADJ-1", "RAREADJ-2"],
+      "personas": {
+        "amina": 3,
+        "khalil": 5,
+        "sara": 3,
+        "yusuf": 5,
+        "note": "Peak Khalil/Yusuf material — a checkable, exceptionless syntactic law with named verse lists. Amina/Sara pulled up by the vivid human payoff (a heart that can be sealed, a chest that can be opened even to the wrong thing)."
+      },
+      "risks": "State scope as ROOT tab' (ط-ب-ع) and ROOT sharh (ش-ر-ح), and be explicit that the companion (heart / chest) is same-verse, not adjacency-window. Form-classify honestly: both are Form I; tab'a is 9 active + 2 passive with Allah as agent — say so, don't imply it is always active. Must cite /posts/qalb-sealed-rusted-heart-quran as the sibling and NOT reuse its khatm/ran first-last framing — this is a different verb (tab') and a different mechanic (object-exclusivity, not first/last of the noun). For 16:106 do not overstate: the chest is 'opened to' (sharaha bi) disbelief; keep the classical sense. Disclose that an IG carousel already pairs 20:25/94:1 for sharh, so the reveal here is the full 5-verse exclusivity plus the dark twin, not the du'a pairing.",
+      "why_now": "The stamp-verb has never been written up despite being the mechanical engine behind the site's most-read heart article. 'A verb the Quran will only ever aim at one target' is a fresh claim-shape for the shipped corpus-law genre, and it doubles as a grammar lesson (transitivity/government) for the exact readers who cite us in essays."
+    },
+    {
+      "id": "ZAYNAB-3",
+      "title": "When the Quran Wants to Show You're Not in Charge, It Changes the Grammar: You Don't Shake the Earthquake — You Get Shaken",
+      "thesis": "Arabic can put a person in the driver's seat of a sentence or in the passenger seat, and the Quran chooses on purpose. The earthquake verb (zulzila) is always passive — the earth 'is shaken,' and twice it is believers who 'are shaken,' hard enough that even the Messenger asks when God's help is coming. And the one line that promises rescue from your own worst instinct is passive too: 'whoever is protected (yuqa) from the greed of his own soul' — protected, not self-mastered. The grammar is the message: some things happen TO you, and deliverance is something you receive, not something you achieve.",
+      "thesis_note": "Two passive-voice (mabni lil-majhul) reveals stacked: helplessness (zalzala) + received protection (yuqa). Both hinge on the reader noticing who is subject vs object.",
+      "exhibits": ["GRAPH-9", "GRAPH-8"],
+      "personas": {
+        "amina": 4,
+        "khalil": 5,
+        "sara": 3,
+        "yusuf": 5,
+        "note": "Amina rises because the payoff — 'you don't have to defeat your greed alone, you can be protected from it' — is permission-giving and needs no Arabic. Khalil/Yusuf get a genuine balaghah category (passive voice as theology). Sara needs the strong opening line to carry it on WhatsApp."
+      },
+      "risks": "Be exact that zulzila and zulzilu are passive (mabni lil-majhul) and that yuqa is the passive of waqa — this is verifiable and the whole claim rests on it. Scope zalzala as ROOT (verb 3 verses passive; add the noun zalzalah and it's 4 verses — state the verb/noun split, don't blur the counts). For GRAPH-8, scope shuhh as ROOT (5 tokens / 4 verses) and note the identical closing sentence (59:9 = 64:16) is an exact phrase match in exactly those two verses. Do not moralize the passive into fatalism — the point is dependence, not the removal of human effort; keep taqwa's active side in view (the sibling caution to my own dunya/rabb note: usage governs, etymology illuminates).",
+      "why_now": "No published article treats passive voice as a theological device, and the two exhibits are unshipped (no zalzala-applied-to-believers piece, no shuhh piece). This is the kind of grammar-as-meaning reading my Michigan students memorize the Quran but were never taught — it converts a dry verb-voice into a spiritual insight, which is the site's whole value proposition."
+    },
+    {
+      "id": "ZAYNAB-4",
+      "title": "One Letter Is the Difference Between a Threat and a Gift: 'We Raised It OVER You' vs 'We Raised It FOR You'",
+      "thesis": "The smallest words in Arabic — a one-letter preposition, a single pronoun — carry the heaviest weight, and the Quran proves it twice. The exact same divine verb, rafa'na ('We raised'), opens with the Mount held OVER a covenant-breaking people as a warning (fawqa = over), and closes with renown raised FOR the Prophet as a gift (laka = for). Same verb; only the preposition changes, and it changes everything. A second case does it with a pronoun: for most of the Quran the delusion-verb describes other people — 'their forgeries deluded THEM' — until near the end it wheels around and asks the reader directly: 'what deluded YOU about your Generous Lord?' The theology lives in the particle and the pronoun, not the verb.",
+      "thesis_note": "Two 'the small word does the work' brackets: harf al-jarr (fawqa vs laka) and a them→you address pivot. Reader-facing lesson: watch the tiny words.",
+      "exhibits": ["BRACKET-5", "BRACKET-6"],
+      "personas": {
+        "amina": 4,
+        "khalil": 5,
+        "sara": 4,
+        "yusuf": 4,
+        "note": "'One letter = threat vs gift' is a ready-made shareable line for Sara. The gharra pivot ('the Quran describes deluded people, then turns and asks if you're one') is Amina's contested-verse-adjacent, self-implicating hook. Khalil/Yusuf get precise particle analysis."
+      },
+      "risks": "Do NOT label the rafa'a case iltifat — it is not a pronominal shift; it is one identical active verb (rafa'na, Form I perfect 1st-person plural) with a changed harf al-jarr. Be precise: fawqa is a locative adverb governing 'over,' lam al-jarr governs 'for/to' — name them correctly. For gharra, frame the them→you as an audience pivot across the mushaf's sequence, NOT as classical iltifat within a single passage (both are the bare Form I perfect gharra; only the object pronoun -hum vs -ka differs). Both brackets are MUSHAF ORDER, not chronology — say so plainly (2:63 Medinan / 94:4 Meccan; 3:24 Medinan / 82:6 Meccan). Cite /posts/budge-root-voice-flip-death-quran as a sibling but distinguish the mechanic: that piece flips voice (passive/active); this one holds the verb fixed and moves a particle/pronoun.",
+      "why_now": "No rafa'a or ghurur article is published, and 'the meaning is in the preposition' is a teachable, un-obvious move that rewards exactly the readers who paste our morphology into their own arguments. The 82:6 self-address ('what deluded YOU') is a natural landing page for the reconnecting reader who arrived skeptical."
+    },
+    {
+      "id": "ZAYNAB-5",
+      "title": "The Quran Says It Twice, Word for Word — and the Second Time Changes How You Hear the First",
+      "thesis": "When the Quran repeats a phrase verbatim, classical rhetoric says stop and ask why. Two cases show what the repetition is for. First: the exact phrase 'the weight of a mustard seed' appears twice — once as the unit of measure on the Scales of Judgment Day that miss nothing, and once as a father, Luqman, gently warning his son that a deed that small, hidden in a rock, will still be brought out. The courtroom's smallest unit is what a dad whispers to his boy before any courtroom convenes. Second: God commands the Prophet to 'recite it slowly, measured' (rattil...tartila) — but the identical verb and verbal noun first describe God's OWN delivery of the revelation ('We recited it slowly, measured'). The command to slow down is God asking you to do what He already did.",
+      "thesis_note": "Two verbatim-repetition (tikrar) reveals: register shift (courtroom→father) and reflexive mirror (God describes His act, then commands it). Morphology anchor: rattala/tartil = Form II (taf'il), the deliberate/measured intensive.",
+      "exhibits": ["GRAPH-10", "GRAPH-2"],
+      "personas": {
+        "amina": 4,
+        "khalil": 4,
+        "sara": 5,
+        "yusuf": 3,
+        "note": "Sara's ceiling piece — Luqman-to-his-son is a parent talking to a child, exactly her share context, with a clean teachable line. Amina gets the warmth (the Day's arithmetic taught tenderly). Khalil gets the Form II precision on tartil; Yusuf slightly lower as the payoff is thematic more than adversarial-rigor."
+      },
+      "risks": "Scope carefully: for GRAPH-10 the shared string 'mithqala habbatin min khardal' is an exact PHRASE match found in exactly 2 verses, while the standalone count of khardal is ROOT-level (2 verses) — state both. For GRAPH-2, the mirror is ROOT rattala (2 verses), both the identical Form II verb (rattil/rattalna) and the identical verbal noun tartil — classify the form correctly (Form II fa''ala / masdar taf'il = deliberate, measured, NOT merely 'slow'; 'slowly' is a serviceable gloss but the sense is measured/spaced, disclose this). 25:32's 'We recited it slowly' is God describing the manner of sending down; do not overstate it as a claim about chronology of recitation. Present both as verbatim repetition (tikrar/muqabala), literary-structural observation grounded in classical balaghah — this is defensible as balaghah, not phonetic symbolism.",
+      "why_now": "Neither tartil/recitation-pace nor khardal has a published article, and the exactly-twice-verbatim mechanic is a proven genre for the site. The tartil mirror also answers a live practical question every reciting Muslim has — 'how am I supposed to read this?' — with the Quran's own grammar."
+    },
+    {
+      "id": "ZAYNAB-6",
+      "title": "'Light' and 'Fire' Are the Same Word in Arabic — and That's the Whole Point of the Verse About Blowing Out God's Light",
+      "thesis": "Nur (light) and nar (fire) come from the same three-letter root; only the vowels change. The Quran uses that closeness deliberately. The extinguish-verb (atfa'a) appears exactly three times. Twice, people try to blow out the LIGHT (nur) of God 'with their mouths' — and both times the verse immediately says God will complete His light instead. The third time, God is the one extinguishing — and what He puts out is the FIRE (nar) that people kindle for war. Same root, one letter apart: human breath cannot extinguish God's light, but God extinguishes the fire humans light. If you only read the root you would miss it; the reveal is hidden in the vowel that splits light from fire.",
+      "thesis_note": "A scope-precision case study — the reveal literally depends on reading at the LEMMA level (nur vs nar), not the root (ن-و-ر). Doubles as a lesson in why careful reading matters.",
+      "exhibits": ["RAREADJ-8"],
+      "personas": {
+        "amina": 3,
+        "khalil": 5,
+        "sara": 3,
+        "yusuf": 5,
+        "note": "Khalil/Yusuf ceiling — it models exactly the root-vs-lemma discipline they need to defend a claim under academic fire, and it's a live apologetics topic (mouths-blowing-out-the-light). Amina/Sara moderate: the payoff is vivid but the mechanism takes a beat to land."
+      },
+      "risks": "This is the piece where scope IS the content, so be surgical: at ROOT level (ن-و-ر) the companion is 3/3 same-verse (because nur and nar share the root); at LEMMA level it splits 2 nur / 1 nar — and that split is the reveal, so state both explicitly. Verb atfa'a: ROOT ط-ف-أ, exactly 3 verses (9:32, 61:8 = people/light; 5:64 = God/fire) — verify the agent-object assignment in each. Do not phonetically dramatize the nur/nar closeness ('the vowel sounds like...') — the point is morphological (shared consonantal root, differing vowel pattern), which is classical and verifiable, not sound-symbolism. Distinguish from /posts/ibrahim-fire-cool-peaceful (different fire, different verb).",
+      "why_now": "No atfa'/nur article exists, and this is the single best teaching artifact in the pool for the lesson I most want the site to internalize — that root-level and lemma-level counts answer different questions. It arms the recommender segment (Khalil) with a precise, checkable reading of a verse adversaries love to quote ('they want to blow out God's light')."
+    }
+  ]
+}

@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+  <meta charset="UTF-8"/>
+  <link rel="preconnect" href="https://fonts.googleapis.com"/>
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="anonymous"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&family=Playfair+Display:ital,wght@0,700;1,400&family=Source+Serif+4:ital,opsz,wght@0,8..60,300;0,8..60,400;1,8..60,300&family=Inter:wght@400;500;600&display=swap"/>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      width: 1080px;
+      height: 1920px;
+      overflow: hidden;
+      background: #07101C;
+      position: relative;
+    }
+
+    /* ── Atmospheric layers ──────────────────────────────────────── */
+    .bg-glow {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      width: 1000px;
+      height: 1000px;
+      background: radial-gradient(ellipse, rgba(201,168,76,0.06) 0%, transparent 60%);
+      pointer-events: none;
+    }
+
+    /* ── Full-screen stage ──────────────────────────────────────── */
+    .stage {
+      position: absolute;
+      inset: 0;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 0 100px;
+      gap: 0;
+    }
+
+    /* ── Surah label ─────────────────────────────────────────────── */
+    .surah-label {
+      font-family: 'Inter', sans-serif;
+      font-size: 28px;
+      font-weight: 500;
+      letter-spacing: 6px;
+      text-transform: uppercase;
+      color: rgba(201,168,76,0.5);
+      margin-bottom: 60px;
+    }
+
+    /* ── Sequence rows ───────────────────────────────────────────── */
+    .seq {
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 0;
+      width: 100%;
+      margin-bottom: 70px;
+    }
+
+    .seq-row {
+      display: flex;
+      align-items: baseline;
+      gap: 28px;
+      padding: 22px 0;
+      border-bottom: 1px solid rgba(201,168,76,0.10);
+      width: 100%;
+    }
+    .seq-row:first-child { border-top: 1px solid rgba(201,168,76,0.10); }
+
+    .seq-num {
+      font-family: 'Inter', sans-serif;
+      font-size: 22px;
+      font-weight: 600;
+      color: rgba(201,168,76,0.45);
+      letter-spacing: 2px;
+      flex-shrink: 0;
+      width: 36px;
+    }
+
+    .seq-arabic {
+      font-family: 'Amiri', serif;
+      font-size: 68px;
+      color: #C9A84C;
+      line-height: 1.3;
+      flex-shrink: 0;
+      text-shadow: 0 0 40px rgba(201,168,76,0.18);
+    }
+
+    .seq-english {
+      font-family: 'Source Serif 4', serif;
+      font-style: italic;
+      font-size: 38px;
+      color: rgba(245,240,232,0.55);
+      line-height: 1.4;
+    }
+
+    /* ── The payoff block ────────────────────────────────────────── */
+    .divider {
+      display: flex;
+      align-items: center;
+      gap: 18px;
+      width: 100%;
+      margin-bottom: 64px;
+    }
+    .div-line { flex: 1; height: 1px; background: rgba(201,168,76,0.20); }
+    .div-diamond {
+      width: 10px; height: 10px;
+      background: #C9A84C;
+      transform: rotate(45deg);
+      opacity: 0.5;
+    }
+
+    .payoff-line1 {
+      font-family: 'Source Serif 4', serif;
+      font-size: 48px;
+      color: rgba(245,240,232,0.65);
+      line-height: 1.55;
+      text-align: center;
+      font-style: italic;
+      margin-bottom: 32px;
+    }
+
+    .payoff-line2 {
+      font-family: 'Playfair Display', serif;
+      font-size: 62px;
+      font-weight: 700;
+      color: #F5F0E8;
+      line-height: 1.25;
+      text-align: center;
+      margin-bottom: 32px;
+    }
+    .payoff-line2 em {
+      font-style: italic;
+      color: #C9A84C;
+      font-weight: 400;
+    }
+
+    .payoff-ref {
+      font-family: 'Inter', sans-serif;
+      font-size: 28px;
+      color: rgba(201,168,76,0.45);
+      letter-spacing: 3px;
+      text-transform: uppercase;
+      text-align: center;
+    }
+
+    /* ── Footer ──────────────────────────────────────────────────── */
+    .footer {
+      position: absolute;
+      bottom: 72px;
+      left: 0; right: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 20px;
+    }
+    .footer-handle {
+      font-family: 'Inter', sans-serif;
+      font-size: 30px;
+      font-weight: 500;
+      color: rgba(201,168,76,0.60);
+      letter-spacing: 2px;
+    }
+    .footer-sep {
+      width: 4px; height: 4px;
+      border-radius: 50%;
+      background: rgba(201,168,76,0.30);
+    }
+    .footer-site {
+      font-family: 'Inter', sans-serif;
+      font-size: 26px;
+      color: rgba(245,240,232,0.28);
+      letter-spacing: 3px;
+    }
+  </style>
+</head>
+<body>
+  <div class="bg-glow" id="bgGlow"></div>
+
+  <div class="stage">
+    <div id="surahLabel" class="surah-label">Ar-Rahman · 55:1–4</div>
+
+    <div class="seq">
+      <div id="row1" class="seq-row">
+        <span class="seq-num">①</span>
+        <span class="seq-arabic">عَلَّمَ الْقُرْآنَ</span>
+        <span class="seq-english">He taught the Quran.</span>
+      </div>
+      <div id="row2" class="seq-row">
+        <span class="seq-num">②</span>
+        <span class="seq-arabic">خَلَقَ الْإِنسَانَ</span>
+        <span class="seq-english">He created the human.</span>
+      </div>
+      <div id="row3" class="seq-row">
+        <span class="seq-num">③</span>
+        <span class="seq-arabic">عَلَّمَهُ الْبَيَانَ</span>
+        <span class="seq-english">He taught him speech.</span>
+      </div>
+    </div>
+
+    <div id="divider" class="divider">
+      <div class="div-line"></div>
+      <div class="div-diamond"></div>
+      <div class="div-line"></div>
+    </div>
+
+    <div id="payoff1" class="payoff-line1">
+      Guidance was step one.<br/>
+      Existence was step two.
+    </div>
+
+    <div id="payoff2" class="payoff-line2">
+      Your rescue was written<br/>
+      <em>before your need existed.</em>
+    </div>
+
+    <div id="payoffRef" class="payoff-ref">Ar-Rahman · 55:1–4</div>
+  </div>
+
+  <div id="footer" class="footer">
+    <span class="footer-handle">@ayahguideus</span>
+    <div class="footer-sep"></div>
+    <span class="footer-site">ayahguide.com</span>
+  </div>
+
+  <script>
+    function clamp(v,lo,hi){return Math.max(lo,Math.min(hi,v));}
+    function easeOut(t){return 1-Math.pow(1-clamp(t,0,1),3);}
+    function easeIn(t){return Math.pow(clamp(t,0,1),2);}
+
+    function fadeIn(el, t, startMs, durMs, floatY) {
+      floatY = floatY===undefined ? 18 : floatY;
+      var p = easeOut(clamp((t-startMs)/durMs,0,1));
+      el.style.opacity = p;
+      el.style.transform = 'translateY('+(floatY*(1-p)).toFixed(2)+'px)';
+    }
+
+    // Timeline — everything happens in 14 seconds
+    var TL = {
+      surahLabel: { start: 200,  dur: 700  },
+      row1:       { start: 700,  dur: 700  },
+      row2:       { start: 1700, dur: 700  },
+      row3:       { start: 2700, dur: 700  },
+      divider:    { start: 3900, dur: 500  },
+      payoff1:    { start: 4600, dur: 900  },
+      payoff2:    { start: 6000, dur: 1000 },
+      payoffRef:  { start: 7200, dur: 600  },
+      footer:     { start: 8400, dur: 800  },
+    };
+
+    window.TOTAL_MS = 14000;
+
+    var ids = ['surahLabel','row1','row2','row3','divider','payoff1','payoff2','payoffRef','footer'];
+    ids.forEach(function(id){
+      var el = document.getElementById(id);
+      if(el){ el.style.opacity='0'; el.style.transform='translateY(18px)'; }
+    });
+
+    function updateFrame(t) {
+      var bgGlow = document.getElementById('bgGlow');
+      bgGlow.style.opacity = 0.6 + 0.4*Math.sin(t/5000);
+
+      fadeIn(document.getElementById('surahLabel'), t, TL.surahLabel.start, TL.surahLabel.dur, 12);
+      fadeIn(document.getElementById('row1'),       t, TL.row1.start,       TL.row1.dur,       22);
+      fadeIn(document.getElementById('row2'),       t, TL.row2.start,       TL.row2.dur,       22);
+      fadeIn(document.getElementById('row3'),       t, TL.row3.start,       TL.row3.dur,       22);
+      fadeIn(document.getElementById('divider'),    t, TL.divider.start,    TL.divider.dur,     0);
+      fadeIn(document.getElementById('payoff1'),    t, TL.payoff1.start,    TL.payoff1.dur,    20);
+      fadeIn(document.getElementById('payoff2'),    t, TL.payoff2.start,    TL.payoff2.dur,    20);
+      fadeIn(document.getElementById('payoffRef'),  t, TL.payoffRef.start,  TL.payoffRef.dur,  10);
+      fadeIn(document.getElementById('footer'),     t, TL.footer.start,     TL.footer.dur,      0);
+    }
+
+    window.setAnimTime = function(ms){ updateFrame(ms); };
+    updateFrame(0);
+  </script>
+</body>
+</html>

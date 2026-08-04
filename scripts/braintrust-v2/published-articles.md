@@ -1,0 +1,188 @@
+# Published AyahGuide articles (posts table, type=article) — overlap guard for braintrust v2
+# Fetched 2026-07-16. 185 published articles. A proposal overlapping any core reveal below is dead on arrival.
+
+- /posts/musa-fire-three-tellings-quran — One Fire, Three Tellings: The Night Musa Went to Borrow a Flame
+- /posts/qunut-despair-mercy-quran — I Checked Every Verse That Uses the Word "Despair." Mercy Is Always Right There.
+- /posts/budge-root-voice-flip-death-quran — The Funeral Verse Is Passive. Its Only Twin Isn't.
+- /posts/ya-abati-vocative-righteous-children-quran — Every "O My Dear Father" in the Quran Is Spoken by a Child Who Turned Out Right
+- /posts/despair-of-mercy-unbelief-quran — The One Despair the Quran Files Under Unbelief
+- /posts/ayat-al-kursi-throne-twin-quran — You Recite Ayat al-Kursi Before Sleep. Its Only Twin Verse Holds a Corpse.
+- /posts/an-nasr-final-words-corpus-quran — The Quran's Retirement Ceremony: How the Corpus Confirms Ibn Abbas Read a Death Into Surah An-Nasr
+- /posts/jamil-seven-beautiful-things-quran — God Calls Exactly Seven Things "Beautiful" — and Every One Is a Letting-Go
+- /posts/verb-fork-zakariyya-maryam-quran — God Changed One Verb: Zakariyya, Maryam, and the Grammar of Two Miracles
+- /posts/qalb-sealed-rusted-heart-quran — Sealed by God, Rusted by You: The Quran's First and Last Word on the Heart
+- /posts/iqra-first-last-word-quran — "Read": The First Command of the Quran and the Last Command to the Soul
+- /posts/afrigh-pour-patience-soldier-magician-quran — "Pour Patience Over Us": The Same Prayer From a Soldier and a Sorcerer
+- /posts/arini-show-me-ibrahim-musa-quran — "Show Me": The Two Prophets Who Asked to See
+- /posts/four-women-tahrim-salvation-quran — Four Women, Two Parables: What At-Tahrim Says About Who You Marry and Who You Are
+- /posts/hunalika-zakariyya-prayer-maryam-quran — "Right There": Where Zakariyya Learned to Pray Again
+- /posts/samiri-hidden-insider-inversion-quran — The Samiri: The Hidden Insider Who Worked the Other Way
+- /posts/how-long-did-you-remain-quran-time — "How Long Did You Remain?" — The Question the Whole Quran Is Rehearsing
+- /posts/man-who-comes-running-quran-archetype — The Man Who Comes Running: One Archetype, Two Endings
+- /posts/aftuni-two-monarchs-counsel-quran — "Counsel Me": The Two Rulers Who Asked, and the One Who Never Did
+- /posts/ibni-li-tower-house-pharaoh-quran — "Build For Me": The Tower and the House in Pharaoh's Palace
+- /posts/believer-pharaoh-family-yusuf-ghafir — The Man Who Remembered Yusuf: A Secret Believer in Pharaoh's Court
+- /posts/quran-9-5-sword-verse-kill-the-unbelievers — Does the Quran Say “Kill the Unbelievers Wherever You Find Them”? Reading 9:5, the ‘Sword Verse,’ in Full
+- /posts/musa-firaun-dialogue-gaslighting-quran — The Throne Room: How Musa Handled Pharaoh's Gaslighting, Word by Word
+- /posts/nuh-ibrahim-decree-surah-hud — Two Prophets, One Surah, One Line: Nuh and Ibrahim at the Edge of Allah's Decree
+- /posts/reason-after-decision-iblis-bani-israil — The Reason That Arrived After the Decision
+- /posts/iblis-refusal-al-araf-7-11-15 — I Am Better: The First Time Pride Sounded Like Reason
+- /posts/talut-river-test-baqarah-249 — The River That Decided the Battle
+- /posts/quran-enclosed-spaces-well-cave-whale-fire — The Well, the Cave, the Whale, the Fire: What the Quran Does with Enclosed Spaces
+- /posts/two-garden-owners-being-having-al-kahf — The Two Garden Owners: Being vs. Having in Al-Kahf
+- /posts/yusuf-musa-mirror-lives-quran — Yusuf and Musa: The Mirror Lives the Quran Places Side by Side
+- /posts/ayyub-yunus-two-complaints-quran — The Two Complaints the Quran Records: Ayyub and Yunus
+- /posts/maryam-umm-musa-two-commands-quran — Maryam and the Mother of Musa: Two Women, Two Commands, One Pattern
+- /posts/sulayman-wind-kingdom-quran — Sulayman's Wind: The Kingdom That Moved
+- /posts/bani-israil-covenant-sinai-quran — The Twelve Tribes and the Covenant: What the Quran Remembers of Sinai
+- /posts/bani-israil-sea-crossing-quran — Bani Isra'il and the Sea: The Crossing That Couldn't Be Undone
+- /posts/sulayman-ants-hearing-quran — Sulayman and the Ants: The Prophet Who Heard What We Can't Hear
+- /posts/sulayman-horses-sun-test-quran — The Horses and the Sun: Sulayman's Test and What He Did Next
+- /posts/bani-israil-golden-calf-quran — The Calf of Gold: The Scene the Quran Returns to Five Times
+- /posts/mahabbah-what-allah-loves-quran — What Allah Loves: The Quran's Enumeration of the Beloved
+- /posts/khawf-engine-not-paralysis-quran — The Fear That Doesn't Paralyze: Khawf as Engine in the Quran
+- /posts/bilqis-sulayman-throne-letter-quran — Bilqis and Sulayman: The Throne, the Letter, and the Question of Power
+- /posts/iman-amal-pair-quran — Iman and Amal: The Pair That Never Separates in the Quran
+- /posts/iman-stages-vocabulary-quran — The Stages of Iman: Vocabulary of Belief
+- /posts/ihsan-muhsin-root-quran — Muhsin: The One Who Does It Beautifully
+- /posts/ihsan-three-layers-quran — Ihsan and Its Siblings: Islam, Iman, Ihsan as the Quran's Three-Layer Structure
+- /posts/qadar-root-measure-quran — The Root That Means Measure: Qadar Before It Became Fate
+- /posts/qadar-qaddara-creation-quran — Qaddara: The Verb the Quran Uses for Creation Itself
+- /posts/qadar-human-choice-tension-quran — Qadar and Human Choice: What the Quran Holds in Tension
+- /posts/rizq-al-razzaq-divine-name-quran — Al-Razzaq: What the Divine Name Means and Where It Comes From
+- /posts/rizq-gratitude-economic-theology-quran — Rizq and Gratitude: The Quran's Economic Theology
+- /posts/mahabbah-root-seed-quran — The Root That Means Seed: Mahabbah Before It Became Love
+- /posts/mahabbah-mutual-love-quran — Yuhibbuhum wa Yuhibbunahu: The Mutual Love the Quran Announces
+- /posts/khawf-khashya-two-fears-quran — Khawf vs. Khashya: Two Words for Fear, Two Theological Positions
+- /posts/sidq-root-solid-quran — The Root That Means Solid: Sidq Before It Became Truth
+- /posts/sidq-al-siddiq-rank-quran — Al-Siddiq: The Rank the Quran Places Between Prophets and Martyrs
+- /posts/qarun-earth-swallowed-reversal-quran — The Earth Swallowed Him: Qarun's End and the Quran's Theology of Reversal
+- /posts/dawud-zabur-absence-quran — Dawud and the Zabur: The Prophet Whose Book the Quran Mentions Without Quoting
+- /posts/bilqis-throne-moved-quran — Bilqis's Throne: The Object Moved Before She Arrived
+- /posts/dawud-sound-voice-quran — The Sound of Dawud: The Quran's Description of His Voice
+- /posts/dawud-judgment-against-himself-quran — Dawud's Hasty Judgment: The Moment He Ruled Against Himself
+- /posts/iman-alladhina-amanu — Alladhina Amanu: The Address That Defines a Community
+- /posts/ayyub-musa-argument-answered — Ayyub and Musa: Two Prophets Who Argued With Allah and Were Answered
+- /posts/zakariyya-three-objections — The Old Man and the Impossible: Zakariyya's Three Objections
+- /posts/ayyub-patience-complaint — The Patience That Had Limits: Ayyub's Complaint and Why the Quran Records It
+- /posts/ittaqu-allah-most-repeated-command — Ittaqu Allah: The Command the Quran Repeats Most Often
+- /posts/taqwa-fruits-what-quran-promises-muttaqin — Taqwa and Its Fruits: What the Quran Promises the Muttaqin
+- /posts/taqwa-root-shield-protective-cover — The Shield: Taqwa's Root as Protective Cover
+- /posts/zulm-al-nafs-wronging-the-self — Zulm al-Nafs: When the Quran Turns the Word Against the Self
+- /posts/zulm-and-adl-architecture-of-justice — Zulm and Its Opposite: The Quran's Architecture of Justice
+- /posts/zulm-root-meaning-misplacement — The Root That Means Putting Things Out of Place: Zulm Before It Meant Oppression
+- /posts/malaika-angels-who-dont-disobey — The Angels Who Don't Disobey: What the Quran Actually Says About Malaika
+- /posts/jibril-ruh-al-amin-architecture-of-revelation — Jibril: The Ruh al-Amin and the Architecture of Revelation
+- /posts/kiraman-katibin-recording-angels-theology-of-witness — The Recording Angels: Kiraman Katibin and the Theology of Being Witnessed
+- /posts/al-qiyamah-mountains-move — When the Mountains Move: The Quran's Physical Description of the End
+- /posts/mizan-weighing-day-of-judgment — The Weighing: Mizan and What Gets Placed on the Scale
+- /posts/al-qiyamah-seventy-names — The Day of Qiyamah: Seventy Names and What Each One Reveals
+- /posts/jahannam-two-processions-choice — Two Processions: What the Quran's Grammar Reveals About Choice
+- /posts/jahannam-fire-that-speaks — The Fire That Speaks: Jahannam as a Character in the Quran
+- /posts/jahannam-names-of-the-fire — The Names of the Fire: How the Quran Refuses a Single Word for Hell
+- /posts/nafs-three-stations-quran — The Three Nafs: Ammara, Lawwama, Mutma'inna — A Taxonomy From the Quran
+- /posts/nafs-quran-translation-semantics — What the Quran Means When It Says 'Nafs': The Word the Translators Can't Agree On
+- /posts/nafs-lawwama-al-qiyamah — The Nafs That Accuses Itself: Surah Al-Qiyamah and the Internal Witness
+- /posts/jannah-productive-silence-quran — What the Quran Withholds About Jannah: The Productive Silence
+- /posts/tawasau-bil-sabr-why-patience-is-a-community-obligation — Tawasau bil-Sabr: Why Patience Is a Community Obligation
+- /posts/bi-ghayri-hisab-the-one-reward-without-an-account — Bi-Ghayri Hisab: The One Reward Without an Account
+- /posts/the-root-that-means-binding-sabr-before-it-meant-patience — The Root That Means Binding: Sabr Before It Meant Patience
+- /posts/what-iblis-got-right-where-the-adversarys-analysis-is-accurate — What Iblis Got Right: The Verses Where the Adversary's Analysis Is Accurate
+- /posts/the-argument-from-origins-iblis-logic-and-the-flaw-inside-it — The Argument From Origins: Iblis's Logic and the Flaw Inside It
+- /posts/al-tawwab-the-name-that-makes-returning-mutual — Al-Tawwab: The Name That Makes Returning Mutual
+- /posts/the-door-that-closes-tawbah-and-the-qurans-concept-of-too-late — The Door That Closes: Tawbah and the Quran's Concept of Too Late
+- /posts/adams-tawbah-and-iblis-refusal-the-fork-at-the-moment-of-wrong — Adam's Tawbah and Iblis's Refusal: The Fork at the Moment of Wrong
+- /posts/the-root-that-means-return-tawbah-before-it-became-repentance — The Root That Means Return: Tawbah Before It Became Repentance
+- /posts/la-tathrib-the-forgiveness-that-didnt-ask-for-an-apology — La Tathrib: The Forgiveness That Didn't Ask for an Apology
+- /posts/the-women-of-egypt-what-the-quran-preserves-of-the-trial — The Women of Egypt: What the Quran Preserves of the Trial
+- /posts/the-well-what-allah-revealed-to-yusuf-at-the-bottom — The Well: What Allah Revealed to Yusuf at the Bottom
+- /posts/wa-qila-the-most-compressed-command-in-the-flood-narrative — Wa Qīla: The Most Compressed Command in the Flood Narrative
+- /posts/the-ark-in-an-age-of-mockery — The Ark in an Age of Mockery: What the Quran Says About Building
+- /posts/ya-bunayya-the-son-who-wouldnt-board-the-ark — Ya Bunayya: The Son Who Wouldn't Board the Ark
+- /posts/950-years-what-the-quran-preserves-of-a-prophets-report — 950 Years: What the Quran Preserves of a Prophet's Report
+- /posts/dhul-nun-why-the-quran-gives-yunus-a-nickname — Dhul-Nun: Why the Quran Gives Yunus a Nickname
+- /posts/the-only-town-that-believed-before-the-punishment-came — The Only Town That Believed Before the Punishment Came
+- /posts/la-ilaha-illa-anta-the-dua-that-makes-no-request — La ilaha illa Anta: The Du'a That Makes No Request
+- /posts/the-fish-that-swallowed-a-prophet — The Fish That Swallowed a Prophet: What the Quran Preserves of Yunus
+- /posts/the-palm-tree-what-allah-provided-when-maryam-asked-to-disappear — The Palm Tree: What Allah Provided When Maryam Asked to Disappear
+- /posts/she-pointed-maryams-silence-before-her-people — She Pointed: Maryam's Silence Before Her People
+- /posts/al-siddiqah-the-name-the-quran-gives-maryam — Al-Siddiqah: The Name the Quran Gives Maryam
+- /posts/the-woman-who-asked-maryams-question-and-the-angels-answer — The Woman Who Asked: Maryam's Question and the Angel's Answer
+- /posts/the-first-trial-why-al-kahf-opens-with-a-cave — The First Trial: Why Al-Kahf Opens With a Cave
+- /posts/the-dog-at-the-threshold-ashab-al-kahf — The Dog at the Threshold: A Detail the Quran Won't Let Go
+- /posts/309-years-what-the-quran-does-with-a-disputed-number — 309 Years: What the Quran Does With a Disputed Number
+- /posts/the-young-men-who-left-the-city-ashab-al-kahf — The Young Men Who Left the City: Ashab al-Kahf and the First Trial
+- /posts/nuh-ark-quran — The Ark: Architecture of Faith in an Age of Mockery
+- /posts/nuh-son-quran — The Son Who Stayed Behind
+- /posts/nuh-950-years-quran — The Prophet Who Preached for 950 Years
+- /posts/rahmah-architecture-quran — Mercy as Architecture: How Rahma Structures the Quran's Worldview
+- /posts/rahmah-conditional-quran — When Mercy Is Withheld: The Quran's Conditional Mercy
+- /posts/rahman-rahim-two-names-quran — The Two Names: Rahman and Rahim, One Root, Two Registers
+- /posts/jannah-rivers-quran — The Rivers Beneath Which Rivers Flow: The Most Repeated Phrase in the Quran
+- /posts/jannah-reunion-quran — Jannah as Reunion: The Quran's Promise of Restored Relationships
+- /posts/jannah-vocabulary-quran — What the Quran Actually Describes: The Vocabulary of Jannah
+- /posts/ibrahim-four-birds-quran — The Four Birds: Ibrahim's Question About Death and the Answer He Was Given
+- /posts/ibrahim-father-dua-prayer — Ibrahim's Du'a for His Father: The Prayer That Stopped
+- /posts/ibrahim-king-argument-quran — Ibrahim's Argument With the King: The First Kalima
+- /posts/ibrahim-idols-breaking-quran — The Breaking of the Idols: What Ibrahim Actually Said
+- /posts/iblis-seven-surahs-quran — Iblis Across Seven Surahs: What Changes Each Time
+- /posts/musa-story-across-surahs-quran — The Story Told in Pieces: Musa Across the Quran
+- /posts/musa-sea-that-split-what-quran-says — The Sea That Split: What the Quran Says and Doesn't Say
+- /posts/musa-and-khidr-limits-of-prophetic-knowledge — Musa and Khidr: The Limits of Prophetic Knowledge
+- /posts/musa-anger-prophet-breaks — Musa's Anger: What the Quran Preserves When a Prophet Breaks
+- /posts/musa-and-firaun-forty-year-conversation — Musa and Fir'awn: A Forty-Year Conversation
+- /posts/musa-staff-and-sea — Staff and Sea: The Two Objects Musa Couldn't Put Down
+- /posts/musa-burning-bush-first-conversation — The First Conversation: Musa at the Burning Bush
+- /posts/the-queen-who-consulted-bilqis-and-the-qurans-model-of-deliberative-leadership — The Queen Who Consulted: Bilqis and the Quran's Model of Deliberative Leadership
+- /posts/asiya-and-maryam-the-two-women-the-quran-holds-up-for-all-believers — Asiya and Maryam: The Two Women the Quran Holds Up for All Believers
+- /posts/the-prayer-inside-the-palace-asiya-and-the-house-she-actually-wanted — The Prayer Inside the Palace: Asiya and the House She Actually Wanted
+- /posts/the-father-who-waited-yaqub-and-the-grief-that-became-blindness — The Father Who Waited: Ya'qub and the Grief That Became Blindness
+- /posts/the-name-no-one-had-carried-yahya-and-the-qurans-theology-of-naming — The Name No One Had Carried: Yahya and the Quran's Theology of Naming
+- /posts/yaqubs-intuition-the-father-who-knew-what-he-could-not-prove — Ya'qub's Intuition: The Father Who Knew What He Could Not Prove
+- /posts/sabr-jamil-yaqubs-beautiful-patience-as-a-quranic-standard — Sabr Jamil: Ya'qub's Beautiful Patience as a Quranic Standard
+- /posts/ayyubs-prayer-the-most-compressed-dua-in-the-quran — Ayyub's Prayer: The Most Compressed Du'a in the Quran
+- /posts/yahya-and-isa-two-births-one-surah-architecture-of-the-miraculous — Yahya and 'Isa: Two Births, One Surah, and the Architecture of the Miraculous
+- /posts/harun-in-the-qurans-genealogy-of-praise — Harun in the Quran's Genealogy of Praise
+- /posts/harun-and-the-golden-calf-the-man-who-held-the-line-alone — Harun and the Golden Calf: The Man Who Held the Line Alone
+- /posts/the-brother-who-was-asked-for-harun-as-musas-prayer — The Brother Who Was Asked For: Harun as Musa's Prayer
+- /posts/the-patience-of-ismail-what-sabr-looks-like — The Patience of Isma'il: What Sabr Looks Like When the Blade Is Real
+- /posts/ismail-and-the-building-of-the-kabah-architecture-as-worship — Isma'il and the Building of the Ka'bah: Architecture as Worship
+- /posts/the-son-who-said-do-what-you-are-commanded — The Son Who Said: Do What You Are Commanded
+- /posts/zakariyyas-sign-the-prophet-who-was-silenced-to-speak — Zakariyya's Sign: The Prophet Who Was Silenced to Speak
+- /posts/yahya-the-boy-given-judgment-as-a-child — Yahya: The Boy Given Judgment as a Child
+- /posts/the-prayer-in-the-chamber-zakariyya-and-the-impossible-request — The Prayer in the Chamber: Zakariyya and the Impossible Request
+- /posts/a-word-from-him-the-quranic-isa-before-the-cradle — A Word From Him: The Quranic 'Isa Before the Cradle
+- /posts/the-table-from-the-sky-the-maidah-and-the-limits-of-asking — The Table From the Sky: The Ma'idah and the Limits of Asking
+- /posts/isas-miracles-and-the-grammar-of-permission — 'Isa's Miracles and the Grammar of Permission
+- /posts/thamud-the-civilization-that-carved-mountains — Thamud: The Civilization That Carved Mountains and Could Not Carve Humility
+- /posts/three-days-the-countdown-that-salih-gave-thamud — Three Days: The Countdown That Salih Gave Thamud
+- /posts/hud-and-ad-when-the-wind-became-the-message — Hud and 'Ad: When the Wind Became the Message
+- /posts/huds-defiance-the-prophet-who-said-plot-against-me — Hud's Defiance: The Prophet Who Said 'Plot Against Me'
+- /posts/iram-of-the-pillars-the-lost-city-and-the-qurans-geography-of-warning — Iram of the Pillars: The Lost City and the Quran's Geography of Warning
+- /posts/the-she-camel-of-allah-a-sign-you-could-touch — The She-Camel of Allah: A Sign You Could Touch
+- /posts/shuaybs-anguish-the-prophet-who-wept-for-a-city-that-mocked-him — Shu'ayb's Anguish: The Prophet Who Wept for a City That Mocked Him
+- /posts/the-orator-of-the-prophets-why-the-quran-calls-shuayb-khatib — The Orator of the Prophets: Why the Quran Calls Shu'ayb Khatib
+- /posts/the-prophet-of-the-marketplace-shuayb-and-the-theology-of-fair-trade — The Prophet of the Marketplace: Shu'ayb and the Theology of Fair Trade
+- /posts/the-prophet-who-had-no-tribe — The Prophet Who Had No Tribe
+- /posts/the-wife-who-remained-luts-household-and-the-limits-of-proximity — The Wife Who Remained: Lut's Household and the Limits of Proximity
+- /posts/the-overturned-cities-what-the-quran-preserves-of-sodom — The Overturned Cities: What the Quran Preserves of Sodom
+- /posts/qarun-firaun-and-haman-the-triad-of-surah-ghafir — Qarun, Fir'awn, and Haman: The Triad of Surah Ghafir
+- /posts/the-weight-of-keys-qarun-and-the-theology-of-wealth — The Weight of Keys: Qarun and the Theology of Wealth
+- /posts/the-first-descent-architecture-not-punishment — The First Descent: Architecture, Not Punishment
+- /posts/adams-prayer-the-first-words-of-return — Adam's Prayer: The First Words of Return
+- /posts/the-naming-that-changed-everything — The Naming That Changed Everything
+- /posts/the-drowning-that-came-too-late — The Drowning That Came Too Late
+- /posts/firaun-and-musa-the-architecture-of-the-mirror — Fir'awn and Musa: The Architecture of the Mirror
+- /posts/the-grammar-of-tyranny-how-the-quran-frames-firauns-speech — The Grammar of Tyranny: How the Quran Frames Fir'awn's Speech
+- /posts/the-wall-that-was-always-meant-to-fall — The Wall That Was Always Meant to Fall
+- /posts/three-journeys-to-the-edge-of-the-world — Three Journeys to the Edge of the World
+- /posts/dhul-qarnayn-and-sulayman-two-models-of-quranic-sovereignty — Dhul-Qarnayn and Sulayman: Two Models of Quranic Sovereignty
+- /posts/the-sovereign-who-refused-to-be-paid — The Sovereign Who Refused to Be Paid
+- /posts/what-quran-doesnt-say-about-shaytan — What the Quran Doesn't Say About Shaytan
+- /posts/footsteps-of-shaytan — The Footsteps of Shaytan
+- /posts/shaytans-promise — Shaytan's Promise: The Day of Judgment Confession
+- /posts/iblis-and-the-nafs — The Alliance of Iblis and the Nafs
+- /posts/weapons-against-waswasa — The Weapons Against Waswasa
+- /posts/yusuf-prison-dearer-to-me — My Lord, Prison Is Dearer to Me
+- /posts/psychology-of-shaytan — The Psychology of Shaytan: A Dissection
+- /posts/ibrahim-fire-cool-peaceful — The Fire That Became Cool and Peaceful

@@ -1,0 +1,97 @@
+{
+  "advisor": "Dr. Hasan al-Qasimi",
+  "lens": "classical tafsir fidelity — warrant, ikhtilaf honesty, author-voice vs classical-voice",
+  "run": "2026-07-16",
+  "proposals": [
+    {
+      "id": "HASAN-1",
+      "title": "When the Quran Drops the Doer: Two Verbs That Never Name Who Acts",
+      "thesis": "The Quran has two verbs it keeps in the passive every single time it uses them, and the two cases sit at opposite ends of value. When the people of Paradise are 'adorned' with bracelets, the verb is passive in all four places (18:31, 22:23, 35:33, 76:21) — they never dress themselves; someone unnamed honors them. When meat is 'dedicated to other than God,' the verb is passive in all four places too (2:173, 5:3, 6:145, 16:115) — the Quran never names the one who made the false dedication. Classical rhetoric already had a name for dropping the doer (hadhf al-fa'il / bina' li-l-majhul): sometimes the agent is too exalted to name, sometimes too low to name. This piece shows both moves in the same page.",
+      "exhibits": ["VOICE-3", "VOICE-7"],
+      "personas": {
+        "amina": 3,
+        "khalil": 5,
+        "sara": 3,
+        "yusuf": 5,
+        "note": "Khalil and Yusuf get the morphology-plus-classical-category payoff (both verb censuses are 4-of-4 passive, and the rhetorical device is a named classical one). Amina and Sara need the reveal carried by the human image — 'you are honored, you don't earn the crown' — before any grammar."
+      },
+      "risks": "Two roots in one article risks feeling like a grammar lecture. Fix by leading with the Paradise image and treating the dietary case as the mirror. Must label the balaghah category (hadhf al-fa'il) as a classical device, not a modern discovery — and cite that al-Zamakhshari and the balaghiyyun distinguish deletion-for-honor from deletion-for-contempt, so the two-sided reading is warranted, not invented. Do not overclaim theological weight the mufassirun did not draw; present the pattern, then the classical explanation, then a modest reflection kept visually separate.",
+      "why_now": "Directly answers my standing flag that author-voice and classical-voice look identical on the page. This piece is built on a mechanically verified census (Quran-only) AND anchored to a named classical rhetorical category — the model of how a grammar reveal should carry its warrant on its sleeve."
+    },
+    {
+      "id": "HASAN-2",
+      "title": "The Quran Stamps Only Two Money Laws 'An Obligation From God'",
+      "thesis": "The exact three-word phrase 'fareedatan min Allah' — an ordained obligation from God — appears in only two verses: 4:11, which fixes the inheritance shares, and 9:60, which fixes the eight categories who may receive zakat (first and last in mushaf order). Both verses are about who gets which portion of wealth, and both close on the same seal of God being Knowing and Wise. The Quran uses its heaviest word for a fixed duty — fareedah — for exactly these two wealth transfers and nothing else.",
+      "exhibits": ["PHRASE-1"],
+      "personas": {
+        "amina": 3,
+        "khalil": 5,
+        "sara": 3,
+        "yusuf": 5,
+        "note": "Highest for Khalil and Yusuf: a citable, legally precise, verifiable phrase-count with clear fiqh anchoring. Sara can use the one-line 'the Quran calls only two money rules a fixed obligation.' Amina lower unless the framing foregrounds why fixed shares are a mercy, not a constraint."
+      },
+      "risks": "These are ahkam-bearing verses — this is Tariq's tafsir/fatwa line. The article must describe, never rule: report that the mufassirun and fuqaha treat both as fard, name that the inheritance shares and the eight zakat categories are the classical positions, and stop short of applying any share to a reader's situation. Add the standard note that detailed application belongs to a qualified scholar. Do not flatten the real ikhtilaf inside each (e.g. the exact reckoning of shares); acknowledge the classical detail exists and point outward.",
+      "why_now": "A phrase-twin with genuine legal payoff, corpus-verified. It shows the site can handle a fiqh-bearing reveal with descriptive discipline — exactly the standard I set for politically and legally loaded ayahs."
+    },
+    {
+      "id": "HASAN-3",
+      "title": "The Same Prayer From the Mightiest King and an Ordinary Person at Forty",
+      "thesis": "One prayer appears word-for-word in only two verses: 'My Lord, enable me to be grateful for Your favor upon me and my parents, and to do righteousness that pleases You.' Sulayman says it at the height of his command over wind and jinn, smiling at an ant (27:19); the person reaching forty says it as an ordinary milestone of a life (46:15) — first and last in mushaf order. There is a second layer under the shared words: the verb 'awzi'ni' comes from a root (و-ز-ع) whose passive form means to be marshaled into ordered ranks by an outside force — Sulayman's own armies are 'marshaled' by that verb (27:17). So the king who could rank his troops turns and asks God to rank HIM — into gratitude.",
+      "exhibits": ["PHRASE-3", "VOICE-4"],
+      "personas": {
+        "amina": 4,
+        "khalil": 5,
+        "sara": 4,
+        "yusuf": 4,
+        "note": "Broadest reach. Amina and Sara get the permission-giving reveal (the same prayer fits a prophet-king and an unremarkable fortieth birthday). Khalil and Yusuf get the root-census layer that makes 'awzi'ni' precise. WhatsApp-shareable for Sara."
+      },
+      "risks": "The root-payoff ('marshal me into gratitude') is a lexical observation — must be labeled as such, anchored to what the mufassirun actually gloss awzi'ni as (al-Tabari: alhimni / wazzi'ni — inspire me, keep me disposed), not presented as a modern etymological flourish. Avoid overreading the ant scene. Keep the census claim scoped: 5 verb tokens of the root, 3 passive / 2 active, the 2 active being this identical prayer.",
+      "why_now": "Same-prayer-two-speakers is a proven genre on the site (the 'pour patience' soldier/sorcerer piece), and this one adds a verified grammatical floor beneath the shared phrase. No published article touches this prayer."
+    },
+    {
+      "id": "HASAN-4",
+      "title": "A Jailed Slave States the Law That Runs the Universe — Word for Word",
+      "thesis": "One clause — 'that you worship none but Him' — appears in only two verses. In 12:40 it is spoken by Yusuf, a wrongly imprisoned slave, preaching to two fellow prisoners: 'the command is that you worship none but Him; that is the upright religion.' In 17:23 the identical clause is God's own decree, joined immediately to kindness to parents (first and last in mushaf order). The Quran lets a man with no power on earth state the exact words of the decree that governs everything.",
+      "exhibits": ["PHRASE-6"],
+      "personas": {
+        "amina": 4,
+        "khalil": 5,
+        "sara": 4,
+        "yusuf": 4,
+        "note": "The powerless-man-speaks-the-cosmic-law image travels well for Amina and Sara. Khalil and Yusuf get a clean verbatim phrase match they can verify. A ready line for a parent: 'tawhid doesn't need a pulpit — Yusuf said it from a cell.'"
+      },
+      "risks": "A published piece (yusuf-prison-dearer-to-me) is nearby but turns on a different clause (prison being dearer); flag the adjacency and make clear this reveal is the phrase-exact match, not the prison-preference. Keep the reading modest — the mufassirun note Yusuf's da'wah in the cell; the point is the verbatim identity with 17:23, not a claim about Yusuf's rank. Present 'dhalika al-din al-qayyim' (12:40) accurately.",
+      "why_now": "A verified two-verse phrase match with an emotionally legible payoff and no core overlap. Serves the tawhid-from-the-margins theme without straying past what the text gives."
+    },
+    {
+      "id": "HASAN-5",
+      "title": "The Excuse God Answered Before Anyone Could Make It",
+      "thesis": "One complaint appears, word-for-word, in only two verses: 'Our Lord, if only You had sent us a messenger, we would have followed Your signs' (20:134 and 28:47, first and last in mushaf order). In both, it is not something people actually said — it is the excuse God quotes in advance, on their behalf, as the reason messengers are sent before any punishment falls. The Quran pre-empts the objection 'we were never warned' by putting it in the mouths of the guilty ahead of time.",
+      "exhibits": ["PHRASE-9"],
+      "personas": {
+        "amina": 4,
+        "khalil": 5,
+        "sara": 3,
+        "yusuf": 5,
+        "note": "Strong for Yusuf and Khalil: this is the citable answer to the academic/atheist challenge 'what about people who never got the message?' Amina gets a fairness reveal that gives permission. Sara medium — usable but abstract for a teen without framing."
+      },
+      "risks": "This touches the classical doctrine that God does not punish a people until a messenger is sent (17:15) — that is usul territory (Tariq's lane) and the mufassirun and usuliyyun discuss itmam al-hujjah / iqamat al-hujjah. Report the doctrine as the classical explanation for WHY these two verses pre-quote the excuse; do not adjudicate the harder question of those the message never reached (real ikhtilaf: fatrah, ahl al-fatrah). Name that the scholars differ there and point outward rather than settling it.",
+      "why_now": "Answers one of the most common academic and comparative-religion challenges Yusuf faces, grounded in an exact two-verse phrase count and the established classical principle — rigor and honesty in one piece, no overlap."
+    },
+    {
+      "id": "HASAN-6",
+      "title": "The Four Words People Read as a Curse — and What the Mufassirun Actually Said",
+      "thesis": "One four-word phrase, 'qatalahumu Allahu anna yu'fakun,' ends only two verses: 9:30, aimed at those who called a prophet the son of God, and 63:4, aimed at the hypocrites 'like propped-up planks of wood' (first and last in mushaf order). Read woodenly, 'qatalahum' looks like 'God kills them,' and the phrase gets quoted as a curse. But the classical commentators read the form here as an idiom of rebuke and astonishment — closer to 'how deluded they are' — not a call to violence. This piece shows the two places the phrase lands and lets the mufassirun explain what the construction means.",
+      "exhibits": ["PHRASE-4"],
+      "personas": {
+        "amina": 5,
+        "khalil": 5,
+        "sara": 3,
+        "yusuf": 5,
+        "note": "Amina arrives via contested-verse search — this is that path. Khalil and Yusuf get the ikhtilaf-honest, citable lexical treatment. Sara medium: usable if she needs to answer a 'the Quran curses Christians' claim, but the register is more adult."
+      },
+      "risks": "This is a contested, adversarially-quoted phrase — the exact place my flag about apologetics applies. Frame it NOT as defense but as classical lexical honesty: report what al-Tabari, al-Qurtubi and others say 'qatalahum' means as a construction (a mode of rebuke/istib'ad), name the range of classical readings rather than picking one, and do not soften the fact that both verses are severe condemnations. The reveal is the shared phrase and its classical sense, not a claim that the verses are gentle. Cite the mufassirun by name in the body, not only a note.",
+      "why_now": "The Qur'an does not need apologetics; it needs honest mufassirun. This is exactly the kind of contested phrase where the site should show the classical reading in the open — a verified two-verse pairing that converts an adversarial quotation into a teaching moment about how the language actually works."
+    }
+  ]
+}

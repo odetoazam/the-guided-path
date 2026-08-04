@@ -1,0 +1,68 @@
+
+✨ Semantic enricher — 22 files  (model: claude-opus-4-8)
+   Rough token estimate: ~220,000 tokens  (~$10)
+   CRITICAL-flagged files processed first.
+   Ctrl-C to stop; progress is saved.
+
+[1/22]  content/tadabbur/026-ash-shuara/ayah-191.md  (CRITICAL)
+   ✨ ENRICHED
+[2/22]  content/tadabbur/055-ar-rahman/ayahs-001-004.md  (CRITICAL)
+   ✨ ENRICHED
+[3/22]  content/tadabbur/075-al-qiyamah/ayahs-026-030.md  (CRITICAL)
+   ✨ ENRICHED
+[4/22]  content/tadabbur/002-al-baqarah/ayah-233.md  (MODERATE)
+   ✨ ENRICHED
+[5/22]  content/tadabbur/002-al-baqarah/ayahs-225-232.md  (MODERATE)
+   ✨ ENRICHED
+[6/22]  content/tadabbur/002-al-baqarah/ayahs-275-281.md  (MODERATE)
+   ✨ ENRICHED
+[7/22]  content/tadabbur/017-al-isra/ayahs-105-106.md  (MODERATE)
+   ✨ ENRICHED
+[8/22]  content/tadabbur/021-al-anbiya/ayahs-076-077.md  (MODERATE)
+   ✨ ENRICHED
+[9/22]  content/tadabbur/023-al-muminun/ayahs-104-105.md  (MODERATE)
+   ✨ ENRICHED
+[10/22]  content/tadabbur/026-ash-shuara/ayahs-023-029.md  (MODERATE)
+   ✨ ENRICHED
+[11/22]  content/tadabbur/026-ash-shuara/ayahs-040-045.md  (MODERATE)
+   ✨ ENRICHED
+[12/22]  content/tadabbur/026-ash-shuara/ayahs-052-060.md  (MODERATE)
+   ✨ ENRICHED
+[13/22]  content/tadabbur/026-ash-shuara/ayahs-116-120.md  (MODERATE)
+   ✨ ENRICHED
+[14/22]  content/tadabbur/026-ash-shuara/ayahs-141-145.md  (MODERATE)
+   ✨ ENRICHED
+[15/22]  content/tadabbur/085-al-buruj/ayahs-001-009.md  (MODERATE)
+   ✨ ENRICHED
+[16/22]  content/tadabbur/089-al-fajr/ayahs-015-020.md  (MINOR)
+   ✨ ENRICHED
+[17/22]  content/tadabbur/036-ya-sin/ayahs-020-027.md  (none)
+   ✨ ENRICHED
+[18/22]  content/tadabbur/036-ya-sin/ayahs-074-075.md  (none)
+   ✨ ENRICHED
+[19/22]  content/tadabbur/037-as-saffat/ayahs-137-138.md  (none)
+   ✨ ENRICHED
+[20/22]  content/tadabbur/038-sad/ayahs-021-025.md  (none)
+   ✨ ENRICHED
+[21/22]  content/tadabbur/038-sad/ayahs-036-040.md  (none)
+   ✨ ENRICHED
+[22/22]  content/tadabbur/052-at-tur/ayahs-048-049.md  (none)
+   ✨ ENRICHED
+
+──────────────────────────────────────────────────
+Enriched: 910   Errors: 14
+
+By prior verdict:
+  CRITICAL: 90
+  MINOR: 99
+  MODERATE: 307
+  PASS: 12
+  UNKNOWN: 1
+  none: 401
+
+Recent errors:
+  content/tadabbur/036-ya-sin/ayahs-020-027.md: output too short (1235c vs 2508c original) — refused to overwrite (likely stub/changelog response)
+  content/tadabbur/036-ya-sin/ayahs-074-075.md: output missing frontmatter (2 attempts)
+  content/tadabbur/037-as-saffat/ayahs-137-138.md: output too short (1434c vs 2534c original) — refused to overwrite (likely stub/changelog response)
+  content/tadabbur/038-sad/ayahs-036-040.md: output too short (770c vs 2863c original) — refused to overwrite (likely stub/changelog response)
+  content/tadabbur/052-at-tur/ayahs-048-049.md: output too short (1055c vs 2675c original) — refused to overwrite (likely stub/changelog response)

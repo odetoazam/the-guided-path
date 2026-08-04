@@ -1,0 +1,44 @@
+{
+  "proposal_id": "HASAN-4",
+  "verdict": "SURVIVES",
+  "reviewer_role": "adversarial-fact-checker (veto)",
+  "date": "2026-07-22",
+  "substrate_check": {
+    "status": "CONFIRMED",
+    "20:121": "akala 3MD (dual 'they two ate'), badat 3FS (sawaat subject, FP noun), tafiqa 3MD + yakhsifaani 3MD (dual 'they two began patching'), then 'asa 3MS SINGULAR + named subject Aadam (PN NOM) + ghawa 3MS SINGULAR. Dual->singular shift is in the corpus tags, verbatim as claimed.",
+    "20:122": "ijtaba 3MS, taba 3MS, hada 3MS — election + tawbah, all singular (guards the 'not transferred blame' risk).",
+    "7:22": "dallahuma (Shaytan 3MS + 3D obj), dhaqa 3MD dual, badat 3FS, tafiqa/yakhsifaani 3MD dual, nadahuma 3MS, 'alam anhakuma' 2D address (reproach is DUAL, not singular).",
+    "7:23": "qala 3MD dual, rabbana/zalamna/anfusana all 1P — joint 'we wronged ourselves'. Confirmed.",
+    "2:36": "azallahuma (Shaytan caused BOTH to slip, 3MS+3D), akhraja-huma 3D — Baqarah telling assigns the slip to Shaytan; no singular-Adam disobedience clause here.",
+    "eve_never_named": "Mechanical corpus scan for Hawwa/حواء token = ZERO hits. Eve is never named in the Quran; referred to only as zawj. The 'no verse blaming Eve by name' claim is airtight."
+  },
+  "tafsir_check": {
+    "status": "CONFIRMED_VERBATIM",
+    "al_jalalayn_20:121": "Preserves the singular: 'wa 'asa Aadamu rabbahu fa-ghawa bil-akli min al-shajara' — Adam (singular) disobeyed his Lord by eating. Proposal's paraphrase is faithful.",
+    "al_tabari_7:23": "'wa-'tirafihima 'ala anfusihima bil-dhanb ... khilaf jawab al-la'in Iblis iyyah' — their confession against themselves = the OPPOSITE of the cursed Iblis's answer. Anchor verified verbatim.",
+    "CAVEAT": "al-Tabari on 20:121 paraphrases the disobedience in the DUAL: 'khalafa amra rabbihima' (both contravened their Lord). al-Muyassar keeps it singular ('khalafa Adamu amra rabbihi'). So classical tradition is SPLIT on the singular, and NO classical source draws the inference that the singular deliberately exculpates Eve. That inference is modern. The proposal's 'if anything, lands on Adam' hedge and its flagging of Genesis-divergence as modern are therefore MANDATORY, not optional."
+  },
+  "imposed_test": "PASS. The dual->singular shift is mechanical (verb tags), not projected; al-Jalalayn independently preserves the named singular subject. The reveal is recovered morphology + recovered tafsir on the two anchor points. Only the Genesis-comparison and the synthesis 'therefore the grammar refuses to blame Eve' are modern — and both are explicitly flagged as reflection.",
+  "disguised_count_test": "PASS. Person/number/subject shift, not a token-frequency claim.",
+  "quran_only_test": "PASS. Load-bearing claim rests on Quran + morphology + al-Jalalayn/al-Tabari. No hadith payoff. Genesis (Bible) is comparative reflection, correctly labeled.",
+  "overlap_finding": {
+    "severity": "SERIOUS — mandatory correction",
+    "detail": "Proposal's overlap_note names only two Adam articles and claims the person/number grammar of blame is unread on-site. This is INACCURATE. BOTH mechanical pillars are already published on the site's own tadabbur pages:",
+    "hit_1": "content/tadabbur/020-ta-ha/ayahs-121-122.md line 177 already states the dual->singular verb-subject shift verbatim in substance: 'They ate. They were exposed. They began patching. He (Adam) disobeyed. He erred.'",
+    "hit_2": "content/tadabbur/007-al-araf/ayahs-023-025.md ('Our Lord, We Have Wronged Ourselves') is ENTIRELY built on 7:23 as 'the model opposite to Iblis' (line 71: 'That sentence is the opposite of Iblis. He explained himself. They confessed.') — the exact al-Tabari anchor the proposal leans on.",
+    "why_not_fatal": "Neither existing page asks the Eve-blame question, observes that Eve is never named, or makes the Genesis divergence. The reader-facing REVEAL ('does the Quran blame Eve? — no verse names/blames her; the one clause individuating disobedience is singular+Adam') is NOT published as a reveal anywhere. So it is not dead-on-arrival — but its two classically-grounded legs are duplicative of on-site content, and the genuinely-novel leg (Genesis divergence) is precisely the part the proposal itself flags as non-classical/modern."
+  },
+  "hostile_rebuttal": {
+    "tweet": "'Ta-Ha only tells Adam's side, Hawwa is barely there, so the singular is just default masculine narration — you're reading exculpation into grammar.'",
+    "defense": "Fails: within the SAME verse the shared acts (ate/exposed/patched) are explicitly DUAL, so the switch to singular for 'asa is a deliberate in-verse contrast, and al-Jalalayn preserves Adam as the singular subject. The article must foreground this in-verse contrast to pre-empt it.",
+    "second_tweet": "'You cherry-picked the one surah (20) where Adam is named singular and ignored that 7 and 2 keep it dual/joint.'",
+    "defense_2": "Partially lands — 20:121 is the SOLE singular-individual assignment; 7 renders the reproach dual and 2:36 assigns the slip to Shaytan. Claim must be stated as 'the one place disobedience is individuated, it is Adam — never Eve,' NOT as a distributed pattern."
+  },
+  "broken_claims": [
+    "overlap_note is materially incomplete: it omits the two on-site tadabbur pages (Ta-Ha 121-122 and al-Araf 023-025) that already contain both of the proposal's mechanical pillars.",
+    "The implicit claim that the person/number 'grammar of blame' is unread on the site is false — the Ta-Ha 121-122 page already states the dual->singular verb-subject shift.",
+    "The thesis leans on 'al-Jalalayn's gloss' as if the classical tradition read the singular as narrowing blame; al-Tabari (and the Muyassar reading aside) render the disobedience of 20:121 as DUAL/shared and none draw the Eve-exculpation inference — so that inference must be owned as the article's modern reflection, not recovered tafsir."
+  ],
+  "required_corrections": "1) Rewrite the overlap_note to disclose and differentiate from BOTH content/tadabbur/020-ta-ha/ayahs-121-122.md (already notes the dual->singular verb-subject shift) and content/tadabbur/007-al-araf/ayahs-023-025.md (already frames 7:23 as the opposite of Iblis). Cite these as the site's own groundwork the article synthesizes — do NOT present the pronoun-shift or the confession-vs-Iblis contrast as fresh discoveries. 2) Narrow the novelty claim to the genuinely new contributions: the Eve-blame reader question, the fact that Eve is never named in the Quran, and the Genesis divergence. 3) Keep the 'if anything, lands on Adam' hedge; explicitly state that al-Tabari and al-Muyassar gloss 20:121's disobedience as dual/shared, so the classical tradition did NOT read the singular as exculpating Eve — that reading is the article's own comparative reflection. 4) State that 20:121 is the SOLE verse individuating the disobedience (7 dual, 2:36 Shaytan-caused); frame as 'the one place blame is individuated it is Adam, never Eve,' not a pattern. 5) Foreground the in-verse dual->singular contrast (shared acts dual, disobedience singular) to pre-empt the 'default masculine narration' rebuttal.",
+  "notes": "Substrate 100% verified mechanically; both tafsir anchors verified verbatim; imposed/count/Quran-only tests all pass; the Genesis layer is honestly flagged as modern. The single load-bearing vulnerability is self-overlap: both classically-grounded legs are already published on the site's own tadabbur pages and the proposal's overlap_note conceals this, while the only fully-novel leg (Genesis divergence) is the part explicitly marked non-classical. Not dead-on-arrival because the reader-facing reveal (the Eve-blame answer) exists nowhere on-site as a reveal — but ships only with the mandatory corrections above."
+}

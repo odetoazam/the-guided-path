@@ -12,6 +12,7 @@ export async function exportCarousel(
 ): Promise<void> {
   const browser = await puppeteer.launch({
     headless: true,
+    protocolTimeout: 60000,
     args: ['--no-sandbox', '--disable-setuid-sandbox', '--font-render-hinting=none'],
   });
 
@@ -23,16 +24,19 @@ export async function exportCarousel(
     await page.setViewport({ width: 1200, height: 6000, deviceScaleFactor: 1 });
 
     if (isFilePath) {
-      await page.goto(`file://${path.resolve(htmlOrFile)}`, { waitUntil: 'networkidle0' });
+      await page.goto(`file://${path.resolve(htmlOrFile)}`, { waitUntil: 'domcontentloaded', timeout: 30000 });
     } else {
       // Write to a temp file so Google Fonts load correctly via file:// protocol bypass
       tmpFile = path.join(os.tmpdir(), `ayahguide-carousel-${crypto.randomBytes(4).toString('hex')}.html`);
       fs.writeFileSync(tmpFile, htmlOrFile, 'utf-8');
-      await page.goto(`file://${tmpFile}`, { waitUntil: 'networkidle0' });
+      await page.goto(`file://${tmpFile}`, { waitUntil: 'domcontentloaded', timeout: 30000 });
     }
 
-    // Ensure web fonts are fully loaded
-    await page.evaluate(() => (document as any).fonts.ready);
+    // Wait for fonts — race against 8s timeout so a slow CDN can't hang the job
+    await Promise.race([
+      page.evaluate(() => (document as any).fonts.ready),
+      new Promise(r => setTimeout(r, 8000)),
+    ]);
     await new Promise(r => setTimeout(r, 1800));
 
     fs.mkdirSync(outputDir, { recursive: true });

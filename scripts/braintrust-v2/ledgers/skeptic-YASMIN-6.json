@@ -1,0 +1,36 @@
+{
+  "proposal_id": "YASMIN-6",
+  "verdict": "SURVIVES",
+  "adversary": "skeptic",
+  "checked_at": "2026-07-20",
+  "census": {
+    "root": "دعع",
+    "total_tokens": 3,
+    "verb_tokens": 2,
+    "verb_detail": [
+      {"ref": "107:2", "loc": "107:2:3:1", "word": "يَدُعُّ", "voice": "ACT", "features": "IMPF|VF:1|ROOT:دعع|LEM:يَدُعُّ|3MS|MOOD:IND"},
+      {"ref": "52:13", "loc": "52:13:2:1", "word": "يُدَعُّ", "voice": "PASS", "features": "IMPF|VF:1|PASS|ROOT:دعع|LEM:يَدُعُّ|3MP|MOOD:IND"}
+    ],
+    "nonverb_tokens": 1,
+    "nonverb_detail": [
+      {"ref": "52:13", "loc": "52:13:6:1", "word": "دَعًّا", "pos": "N", "features": "VN|VF:1|ROOT:دعع|LEM:دَعّ|M|INDEF|ACC"}
+    ]
+  },
+  "confirmed": [
+    "Root دعع = exactly 3 tokens; exactly 2 are verbs (pos=V); exactly 1 is a non-verb (VN/cognate accusative دَعًّا at 52:13).",
+    "Both verbs are form-I imperfect (IMPF|VF:1) of lemma يَدُعُّ; 107:2 active, 52:13 passive (PASS in features).",
+    "52:13 passive is intensified by cognate accusative دَعًّا (VN, root دعع, ACC).",
+    "Verse text verified: 107:2 فَذَٰلِكَ ٱلَّذِى يَدُعُّ ٱلْيَتِيمَ ; 52:13 يَوْمَ يُدَعُّونَ إِلَىٰ نَارِ جَهَنَّمَ دَعًّا.",
+    "Root دعع is distinct from the common homograph root دعو (call/invoke, 212 tokens) — no contamination; morphological ROOT field used, not an undiacritized phrase sweep (which would false-match يدعون from دعو).",
+    "Payoff is entirely Quran-internal — two verses, grammatical voice. No hadith dependency."
+  ],
+  "required_corrections": [
+    "FACTUAL: 'differing only in voice' / 'only voice differs' is inexact. The two verbs also differ in person-number: 107:2 is 3MS (singular, 'he shoves'), 52:13 is 3MP (plural, 'they are shoved'). State: they differ in voice AND number — the single shover (3MS) is answered by the plural shoved (3MP). This matters doubly because the proposal comes from the linguistics advisor and advertises morphological exactness.",
+    "GRAMMAR OF THE MORAL: 'the gesture comes back aimed at the one who made it' overstates grammatical tightness. The active subject is one individual (3MS); the passive subject is a plural collective of deniers (3MP). The link from the lone orphan-shover to the shoved plural is interpretive, not grammatical. Frame it as resonance, as the risks note already urges.",
+    "ORDERING: In mushaf order the passive 52:13 (shoved into fire) precedes the active 107:2 (shoves orphan) by 55 surahs. Present 'you shove, then you get shoved' strictly as moral/logical consequence, never as textual sequence, or a hostile reader rebuts 'your order is backwards in the actual book.' (Revelation order runs the other way — Al-Maʿun earlier — but invoking that needs contested, non-Quran-internal chronology; safest to make no ordering claim.)",
+    "TEMPLATE/OVERLAP: The site already published 'The Funeral Verse Is Passive. Its Only Twin Isn't.' (/posts/budge-root-voice-flip-death-quran, root زحزح: active 2:96 + passive 3:185, VOICE lens). This proposal is the same structural template (exactly-2 tokens, active↔passive voice-flip, punishment on the passive side) with a different root. The reveal is factually distinct and the author flagged it, but the article must actively differentiate from that published piece so it does not read as the same trick reskinned. Also note 107:2 is already mined in verified-pool.json (a يتم/كذب last-occurrence bookend proposal) — coordinate so two pending pieces don't both hook on Al-Maʿun 107:2."
+  ],
+  "broken_claims": [],
+  "load_bearing_failure": false,
+  "notes": "Every hard count is exact: root دعع has 3 tokens total, 2 verbs (107:2 active 3MS, 52:13 passive 3MP), 1 non-verb (52:13 دَعًّا cognate accusative). Both verbs are form-I imperfect of one lemma, so the active↔passive mirror on the identical verb is genuine and Quran-internal. The reveal's load-bearing spine holds. The only outright factual error is 'differing only in voice' — the verbs also differ in number (3MS→3MP) — but the reveal does not depend on voice being the sole difference, so this is a wording correction, not a refutation. Ordering must be framed as consequence (mushaf order actually runs passive-before-active), and the piece must be walled off from the already-published زحزح voice-flip template. SURVIVES with corrections."
+}

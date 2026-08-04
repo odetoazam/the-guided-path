@@ -1,0 +1,52 @@
+{
+  "proposal_id": "HASAN-3",
+  "advisor": "HASAN",
+  "verdict": "SURVIVES",
+  "reviewer_role": "adversarial fact-checker (veto)",
+  "date": "2026-07-20",
+  "rederived_counts": {
+    "phrase_core_loci": {
+      "phrase": "رب اوزعني ان اشكر نعمتك التي انعمت علي وعلى والدي",
+      "method": "contiguous substring in textSimple across all 6236 verses",
+      "hits": ["27:19", "46:15"],
+      "count": 2,
+      "status": "CONFIRMED"
+    },
+    "phrase_extended_through_tardah": {
+      "phrase": "رب اوزعني ... وان اعمل صالحا ترضاه",
+      "hits": ["27:19", "46:15"],
+      "count": 2,
+      "status": "CONFIRMED — identical word-for-word through ترضاه, then diverges"
+    },
+    "root_wzc_verb_census": {
+      "root": "وزع",
+      "pos": "V",
+      "total": 5,
+      "passive": ["27:17 يوزعون VF:1", "27:83 يوزعون VF:1", "41:19 يوزعون VF:1"],
+      "active": ["27:19 اوزع VF:4 IMPV", "46:15 اوزع VF:4 IMPV"],
+      "passive_count": 3,
+      "active_count": 2,
+      "non_verb_occurrences_of_root": 0,
+      "misrooted_tokens_found": 0,
+      "status": "CONFIRMED — exact; root appears in the entire Quran ONLY as these 5 verbs"
+    },
+    "mushaf_order": {
+      "first": "27:19",
+      "last": "46:15",
+      "chronology_flip_check": "both Makki; An-Naml precedes Al-Ahqaf in standard revelation order too — no flip",
+      "status": "CONFIRMED"
+    },
+    "proximity_bonus": "27:17 (troops يوزعون, passive) sits two verses before 27:19 (اوزعني, the prayer) in the same passage — the root's two senses collide inside one scene. Verified, strengthens VOICE-4."
+  },
+  "load_bearing_facts_hold": true,
+  "quran_only_check": "PASS — payoff is lexical/grammatical from the corpus; tafsir gloss of awzi'ni is exegesis, not a hadith. No hadith dependency.",
+  "broken_claims": [],
+  "required_corrections": [
+    "DISCLOSE DIVERGENT TAILS (transparency, sharpest hostile rebuttal): the two du'as are identical ONLY through '...wa an a'mala salihan tardah' (ترضاه). After that they diverge — Sulayman adds 'wa adkhilni bi-rahmatika fi ibadika s-salihin' (admit me among Your righteous servants, 27:19), the forty-year-old adds 'wa aslih li fi dhurriyyati... inni tubtu ilayka wa inni min al-muslimin' (set right my offspring; I have repented, 46:15). The thesis quote correctly stops at 'that pleases You', but the article must state the tails explicitly and turn shared-core/station-specific-tail into the feature — never imply the FULL prayers are word-for-word identical.",
+    "FIX VOICE-4 'subject' wording: the angle line 'The only time a human is the subject, it is a prayer' is grammatically inverted — in the passive يوزعون the humans/troops ARE the grammatical subject, and in اوزعني God is the subject while the human is the object (-ni). Reword to the accurate insight: the human is NEVER the AGENT/doer of وزع — always marshaled by an unnamed force (passive) or asking God to do the marshaling (the prayer). Also tighten 'one verb' to 'one root': form-I passive يوزعون and form-IV active اوزعني are different measures of the shared root, not the same verb.",
+    "COMPLETE THE OVERLAP NOTE: overlap_note names two Sulayman pieces (sovereign-who-refused-to-be-paid, dhul-qarnayn-and-sulayman) but omits the directly relevant PUBLISHED '/posts/sulayman-ants-hearing-quran — Sulayman and the Ants', which covers the 27:18-19 ant scene where this prayer sits. The core thesis (46:15 twin + وزع census) is genuinely novel and NOT in that article, but the 27:19 scene description overlaps — cross-link and differentiate rather than claim 'none'.",
+    "ANCHOR awzi'ni GLOSS (already flagged in proposal risks — keep it mandatory): ground the 'rank me into gratitude' reading in classical mufassirun (al-Tabari / Ibn Kathir gloss اوزعني as الهمني / dispose-me / make-me-cling). Form-IV اوزعني carries 'dispose / make cling to'; the 'marshal into ranks' sense belongs to form-I يوزعون. Present the payoff as a shared-ROOT resonance, not identical meaning across measures.",
+    "MINOR — 'peak of his command over jinn/wind/animal-speech' (PHRASE-3): wind is not in Surah 27's immediate scene (established at 21:81 / 34:12 / 38:36). Fine as overall characterization of Sulayman's dominion; do not imply the wind appears in this passage."
+  ],
+  "notes": "Every load-bearing count re-derived independently and holds: contiguous prayer-core in EXACTLY 2 verses (27:19, 46:15); root و-ز-ع appears in the whole Quran ONLY as 5 verbs — 3 passive form-I يوزعون (27:17 troops, 27:83/41:19 judgment-crowds) and 2 active form-IV اوزعني (27:19, 46:15), the two active being this identical prayer-opening; 0 non-verb and 0 mis-rooted occurrences. Mushaf first/last holds and revelation chronology does not flip it. Quran-only: passes (no hadith payoff). Bonus the proposal under-sells: 27:17 (marshaled troops) sits two verses before 27:19 (marshal-me prayer) in the SAME passage. No refuting counterexample found under counterexample hunt, scope-shift audit, or hostile one-tweet test. Verdict SURVIVES — the four corrections are transparency/precision fixes (chiefly: the du'as share an identical CORE but have station-specific tails, and the 'subject' phrasing must become 'agent'), none of which collapses the thesis."
+}

@@ -1,0 +1,241 @@
+{
+ "ab_mining": {
+  "high": {
+   "mined": 11,
+   "confirmed": 11,
+   "corrected": 0,
+   "refuted": 0
+  },
+  "xhigh": {
+   "mined": 21,
+   "confirmed": 21,
+   "corrected": 0,
+   "refuted": 0
+  }
+ },
+ "ab_downstream": {
+  "high": {
+   "inTop10": 4,
+   "survived": 4
+  },
+  "xhigh": {
+   "inTop10": 7,
+   "survived": 7
+  }
+ },
+ "pool_size": 32,
+ "usable": 32,
+ "proposals": 24,
+ "ranked": [
+  {
+   "id": "ZAYNAB-1",
+   "title": "You Shove the Orphan Away. The Same Verb Shoves You Into the Fire.",
+   "advisor": "ZAYNAB",
+   "avg": 32.67,
+   "fatals": 0
+  },
+  {
+   "id": "KHALID-1",
+   "title": "The Same Word: You Shove the Orphan Away — Then You Get Shoved Into the Fire",
+   "advisor": "KHALID",
+   "avg": 32,
+   "fatals": 0
+  },
+  {
+   "id": "YASMIN-3",
+   "title": "A Pagan Queen and a Future Prophet Say the Exact Same Four Words of Confession",
+   "advisor": "YASMIN",
+   "avg": 31.33,
+   "fatals": 0
+  },
+  {
+   "id": "YASMIN-6",
+   "title": "The Verb Turns Around: You Shove the Orphan, Then You Are Shoved Into the Fire",
+   "advisor": "YASMIN",
+   "avg": 31,
+   "fatals": 0
+  },
+  {
+   "id": "KHALID-2",
+   "title": "A Pagan Queen and a Future Prophet Say the Exact Same Four Words: 'My Lord, I Have Wronged Myself'",
+   "advisor": "KHALID",
+   "avg": 30.67,
+   "fatals": 0
+  },
+  {
+   "id": "KHALID-6",
+   "title": "One Phrase for a Roof That Caved In — the Quran Uses It on Three Monuments to People Who Thought They'd Last",
+   "advisor": "KHALID",
+   "avg": 30.33,
+   "fatals": 0
+  },
+  {
+   "id": "HASAN-4",
+   "title": "A Jailed Slave States the Law That Runs the Universe — Word for Word",
+   "advisor": "HASAN",
+   "avg": 30,
+   "fatals": 0
+  },
+  {
+   "id": "HASAN-6",
+   "title": "The Four Words People Read as a Curse — and What the Mufassirun Actually Said",
+   "advisor": "HASAN",
+   "avg": 29.67,
+   "fatals": 0
+  },
+  {
+   "id": "KHALID-4",
+   "title": "The Angels Tell Ibrahim's Wife She'll Have a Son — She Laughs in One Surah and Slaps Her Own Face in Another",
+   "advisor": "KHALID",
+   "avg": 29.67,
+   "fatals": 0
+  },
+  {
+   "id": "HASAN-3",
+   "title": "The Same Prayer From the Mightiest King and an Ordinary Person at Forty",
+   "advisor": "HASAN",
+   "avg": 28.67,
+   "fatals": 0
+  },
+  {
+   "id": "KHALID-5",
+   "title": "The Excuse God Answered Before Anyone Could Make It",
+   "advisor": "KHALID",
+   "avg": 28.67,
+   "fatals": 0
+  },
+  {
+   "id": "HASAN-1",
+   "title": "When the Quran Drops the Doer: Two Verbs That Never Name Who Acts",
+   "advisor": "HASAN",
+   "avg": 28.33,
+   "fatals": 0
+  },
+  {
+   "id": "HASAN-5",
+   "title": "The Excuse God Answered Before Anyone Could Make It",
+   "advisor": "HASAN",
+   "avg": 28.33,
+   "fatals": 0
+  },
+  {
+   "id": "ZAYNAB-3",
+   "title": "You Can't Line Yourself Up: The Army Verb That Becomes a Prayer for Gratitude",
+   "advisor": "ZAYNAB",
+   "avg": 27.67,
+   "fatals": 0
+  },
+  {
+   "id": "YASMIN-2",
+   "title": "In the Quran's Paradise, You Are Never the One Who Puts On the Jewelry",
+   "advisor": "YASMIN",
+   "avg": 27.67,
+   "fatals": 1
+  },
+  {
+   "id": "YASMIN-4",
+   "title": "The Meat With No Name: Why the Quran Never Says Who Dedicated It",
+   "advisor": "YASMIN",
+   "avg": 27.67,
+   "fatals": 0
+  },
+  {
+   "id": "YASMIN-5",
+   "title": "The Excuse God Puts in Their Mouths Before They Can Make It",
+   "advisor": "YASMIN",
+   "avg": 27.67,
+   "fatals": 0
+  },
+  {
+   "id": "ZAYNAB-5",
+   "title": "Ibrahim's Wife Laughed in One Surah. In Another, She Slapped Her Own Face.",
+   "advisor": "ZAYNAB",
+   "avg": 27,
+   "fatals": 1
+  },
+  {
+   "id": "KHALID-3",
+   "title": "The Most Powerful King in the Quran and an Ordinary Person Turning 40 Pray the Exact Same Prayer",
+   "advisor": "KHALID",
+   "avg": 27,
+   "fatals": 0
+  },
+  {
+   "id": "HASAN-2",
+   "title": "The Quran Stamps Only Two Money Laws 'An Obligation From God'",
+   "advisor": "HASAN",
+   "avg": 26.67,
+   "fatals": 0
+  },
+  {
+   "id": "YASMIN-1",
+   "title": "Ibrahim's Wife Laughs in One Telling and Slaps Her Own Face in Another",
+   "advisor": "YASMIN",
+   "avg": 26.67,
+   "fatals": 1
+  },
+  {
+   "id": "ZAYNAB-4",
+   "title": "'Strike With Your Staff' Is Said Three Times — and the Water Word Is One the Quran Uses Nowhere Else",
+   "advisor": "ZAYNAB",
+   "avg": 25.33,
+   "fatals": 0
+  },
+  {
+   "id": "ZAYNAB-2",
+   "title": "Two Places the Quran Drops the Doer: Paradise, and the Forbidden Meat",
+   "advisor": "ZAYNAB",
+   "avg": 23.67,
+   "fatals": 0
+  },
+  {
+   "id": "ZAYNAB-6",
+   "title": "Watch the Verb Flip: When a Human Wins, the Grammar Hands the Win to God",
+   "advisor": "ZAYNAB",
+   "avg": 20.67,
+   "fatals": 0
+  }
+ ],
+ "skeptic": [
+  {
+   "id": "ZAYNAB-1",
+   "verdict": "SURVIVES"
+  },
+  {
+   "id": "KHALID-1",
+   "verdict": "SURVIVES"
+  },
+  {
+   "id": "YASMIN-3",
+   "verdict": "SURVIVES"
+  },
+  {
+   "id": "YASMIN-6",
+   "verdict": "SURVIVES"
+  },
+  {
+   "id": "KHALID-2",
+   "verdict": "SURVIVES"
+  },
+  {
+   "id": "KHALID-6",
+   "verdict": "SURVIVES"
+  },
+  {
+   "id": "HASAN-4",
+   "verdict": "SURVIVES"
+  },
+  {
+   "id": "HASAN-6",
+   "verdict": "SURVIVES"
+  },
+  {
+   "id": "KHALID-4",
+   "verdict": "SURVIVES"
+  },
+  {
+   "id": "HASAN-3",
+   "verdict": "SURVIVES"
+  }
+ ]
+}

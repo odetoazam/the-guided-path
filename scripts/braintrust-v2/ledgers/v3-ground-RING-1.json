@@ -1,0 +1,28 @@
+{
+  "results": [
+    {
+      "id": "RING-5",
+      "verdict": "REJECTED",
+      "notes": "Substrate CORRECT: 2:257 has yukhriju 3MS (Allah) zulumat->nur vs yukhrijuna 3MP (taghut/awliya) nur->zulumat; reversed roots kh-r-j/zulumat/nur confirmed; waliyy(sg) vs awliya(pl) confirmed; al-Jalalayn explicitly calls it muqabala, so the mirror is classical. BUT REJECTED for duplication + a false overlap claim. The overlap_note says 'No 2:257 tadabbur (dir has ayah-255 only)' -- FALSE. content/tadabbur/002-al-baqarah/ayahs-256-257.md exists and already develops this exact reveal, including the SINGULAR/PLURAL verb contrast the candidate claims is an unpublished 'modern reflection': the file states yukhrijuhum '3MS -- HE (singular, Allah)... One God. One action' vs yukhrijunahum '3MP -- THEY... a MOB', plus waliyy-sg/awliya-pl and zulumat-pl/nur-sg asymmetries, reaching the identical tawhid conclusion. Nothing new to add.",
+      "corrected": ""
+    },
+    {
+      "id": "RING-6",
+      "verdict": "REJECTED",
+      "notes": "Substrate CORRECT: 95:4 ahsan taqwim (root h-s-n, elative) adjacent to 95:5 asfal safilin (root s-f-l, elative) joined by thumma; 8-verse frame with place-oaths and closing ahkam al-hakimin confirmed. BUT REJECTED for duplication. content/tadabbur/095-at-tin/ayahs-001-008.md ('The Best of Uprights and the Lowest of the Low: Surah At-Tin as a Courtroom Argument') already covers the candidate's exact ARCHITECTURE angle: ahsan/asfal as 'mirror images in the same grammatical frame,' the elative-of-elative parallel, thumma as the pivot/interval, and the whole-surah high/low courtroom structure framed by oaths and the closing Judge. The candidate's claim that its angle is 'the architecture, not the word meanings' does not differentiate it -- the architecture is precisely what the published file already argues.",
+      "corrected": ""
+    },
+    {
+      "id": "RING-7",
+      "verdict": "CONFIRMED",
+      "notes": "Substrate CORRECT and classically explicit -- strongest in the set. 12:4 saajidin (root s-j-d) at the opening dream; 12:100 sujjadan (root s-j-d) at the prostration, immediately followed by Yusuf's own 'hadha ta'wilu ru'yaya min qabl qad ja'alaha rabbi haqqan' (root r-'-y). al-Tabari and al-Muyassar both explicitly read 12:100 as the ta'wil/fulfillment of the 12:4 dream. Same root s-j-d genuinely brackets both ends; corpus scan confirms s-j-d occurs EXACTLY TWICE in all of Surah 12 (12:4 and 12:100, nowhere in between), making the inclusio mechanical rather than impressionistic. The character seals the ring aloud. NOT imposed. SCOPING CAUTION: the dream-to-fulfillment THEME is already published in content/tadabbur/012-yusuf/ayahs-099-101.md ('the dream from the beginning of the surah finally stands... this is its ta'wil'). What that file does NOT do is name the s-j-d LEXICAL inclusio (saajidin @12:4 <-> sujjadan @12:100) as the structural seal. The article must lead with that root-level bracket as its fresh, load-bearing contribution -- not re-tell the fulfillment theme -- to avoid duplicating the existing tadabbur.",
+      "corrected": "Frame the article specifically around the s-j-d verbal inclusio (saajidin 12:4 -> sujjadan 12:100) as the surah's opening/closing bracket, since the dream-fulfillment reading itself is classical and already published; the novel move is the lexical ring, not the fulfillment."
+    },
+    {
+      "id": "RING-8",
+      "verdict": "REJECTED",
+      "notes": "Substrate CORRECT: 107:1 a-ra'ayta (2MS, root r-'-y) + ad-din; 107:4 waylun lil-musallin (root s-l-w); 107:6 yura'un (3MP Form III, root r-'-y); 107:7 al-ma'un (root '-w-n). Roots at v1 and v6 genuinely share r-'-y. The woe-on-worshippers shock is classical (al-Muyassar). BUT REJECTED for duplication. The candidate's whole headline reveal is already published across TWO al-Ma'un tadabbur files: (a) ayahs-004-007.md 'Woe to the Ones Who Pray' explicitly stages the bait-and-switch ('It opens by attacking the man who shoves the orphan... And then the surah pivots... woe... lands on the one who prays'), the yura'un Form III 'cause themselves to be seen'/riya morphology, the al-ma'un='bucket/smallest kindness' ending, AND the whole-surah architecture ('feel the architecture of the whole surah closing... the disbeliever at the start and the heedless worshipper at the end commit the same crime'); (b) ayahs-001-003.md is literally titled 'Have You Seen Him?' covering the a-ra'ayta opening. The only unpublished sliver is the explicit r-'-y v1<->v6 root echo as a deliberate ring, which is too thin (and not classically noted) to carry a distinct article given how fully the surah's bait-and-switch and architecture are already served.",
+      "corrected": ""
+    }
+  ]
+}

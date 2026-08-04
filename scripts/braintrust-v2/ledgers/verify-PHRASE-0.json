@@ -1,0 +1,9 @@
+{
+  "results": [
+    {"id":"PHRASE-1","verdict":"CONFIRMED","notes":"['فريضة','من','الله'] contiguous in exactly 4:11, 9:60. 4:11 ends 'ان الله كان عليما حكيما'; 9:60 ends 'والله عليم حكيم'. Both seals present."},
+    {"id":"PHRASE-2","verdict":"CONFIRMED","notes":"['رب','اني','ظلمت','نفسي'] = {27:44,28:16}; core ['ظلمت','نفسي'] = same 2. Speakers: 27:44 Bilqis, 28:16 Musa."},
+    {"id":"PHRASE-3","verdict":"CONFIRMED","notes":"10-token sequence 'رب اوزعني...والدي' = {27:19,46:15}; both continue 'صالحا ترضاه'."},
+    {"id":"PHRASE-4","verdict":"CONFIRMED","notes":"['قاتلهم','الله','انى','يوفكون'] = {9:30,63:4}, both verse-final."}
+  ],
+  "ledger_path": "/Users/azamkhan/the-guided-path/scripts/braintrust-v2/ledgers/verify-PHRASE-0.json"
+}

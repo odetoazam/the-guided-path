@@ -1,0 +1,28 @@
+{
+  "proposal_id": "ZAYNAB-1",
+  "reviewer": "SKEPTIC",
+  "verdict": "REFUTED",
+  "summary": "Every Quranic/morphological fact in the proposal is CONFIRMED, but the load-bearing pillar (novelty / 'no published piece touches the khunnas–khannas link') is FALSE: the site's own live At-Takwir tadabbur already ships the exact same-root reveal, including the star-dawn payoff, and even lists 114:4 in its related_ayahs.",
+  "facts_confirmed": {
+    "root_census": "ROOT خنس = exactly 2 tokens / 2 verses. Verified two ways: (a) full-corpus root-field census over quranic-corpus.json; (b) consonantal-skeleton counterexample sweep (all other خن-skeleton words are unrelated roots: خنزر pig, خنق strangle, خون betray, دخن smoke, ثخن). No missed tokens.",
+    "81:15": "خُنَّسِ — ROOT:خنس, LEM:خُنَّس, MP GEN (fuʿʿal broken plural).",
+    "114:4": "خَنَّاسِ — ROOT:خنس, LEM:خَنّاس, MS GEN ADJ (faʿʿāl intensive / sīghat al-mubālagha).",
+    "81:16_different_root": "الكُنَّس is ROOT:كنس (distinct). Proposal correctly warns against conflating it — GOOD.",
+    "last_surah": "114 An-Nas is the final mushaf surah; 114:4 names al-khannas. Correct.",
+    "oath": "81:15 fa-lā uqsimu = emphatic oath ('I do swear by the khunnas'); lā-zāʾida reading is mainstream. Correct.",
+    "forms": "faʿʿāl = intensive/hyperbolic; fuʿʿal = plural of active participle فاعِل (خانِس). Grammatically sound."
+  },
+  "broken_claims": [
+    "why_now: 'No published piece touches the khunnas/khannas link' — FALSE. content/tadabbur/081-at-takwir/ayahs-015-018.md (committed live content, commit a80be50) lines 131-135 ship the exact same-root cross-link to 114:4: 'The same root — خ-ن-س — appears at the very end of the Book, in Sūrat an-Nās... Shayṭān is named al-khannās from this exact root.' Its frontmatter related_ayahs explicitly lists '114:4'.",
+    "GRAPH-1 overlap_note: 'None ships this reveal' — FALSE. The exhibit only checked /posts/weapons-against-waswasa and /posts/footsteps-of-shaytan and missed the At-Takwir tadabbur, which ships the whole reveal.",
+    "Distinctive 'angle' (the whisperer disappears the way stars vanish; dhikr is the dawn) is already published, arguably more richly, at At-Takwir line 133: 'The khunnas stars withdraw... and return with the dawn... The khannās whisperer withdraws too... Same motion, opposite trust.'",
+    "The retreater-meaning + faʿʿāl-intensive analysis are ALSO already published in the An-Nas 114 tadabbur (content/tadabbur/114-an-nas/ayahs-001-006.md, 'The One Who Retreats', 'the professional retreater', 'pattern فَعَّال... intensive') and in /posts/weapons-against-waswasa (khannas x3, 'retreater', 'retreats'). Only the star-census atom was ever new — and even that is on-site."
+  ],
+  "required_corrections": [
+    "Thesis lead 'named with the same word' is imprecise: it is the same ROOT, two different words/forms (khunnas = fuʿʿal plural vs khannas = faʿʿāl intensive). The proposal self-corrects later; fix the lead to 'same root'.",
+    "Risk-note verse error: '81:15's al-kunnas is a different root' — al-kunnas (ROOT:كنس) is at 81:16, not 81:15. Fix the attribution.",
+    "Morphology precision: the corpus tags خُنَّس as MP noun (no ADJ/ACT_PCPL feature) while خَنّاس carries ADJ. The 'plural of the active participle خانِس (فُعَّل of فاعِل)' reading is sound classical grammar but is lexical analysis, not a corpus tag — present it as such, don't assert the corpus labels it a participle.",
+    "If salvaged: the article's ONLY genuinely non-duplicated atom is the census fact ('the root occurs in exactly 2 places'). It must NOT re-tread the retreater exposition or the star-dawn payoff as new — both are live on the At-Takwir tadabbur (which owns this framing) and the An-Nas tadabbur. Re-scope to build ON and internal-link the At-Takwir page rather than claim novelty; otherwise it self-cannibalizes."
+  ],
+  "notes": "Quran-only: PASSES — the linguistic payoff rests on the lexicon + the 2 Quranic verses, not on hadith (the hadith about khanasa/waswasa is optional flavor). Hostile-tweet resilience on the LINGUISTICS: fine (classical tafsir backs both as 'retreat'). Hostile-tweet resilience on NOVELTY/VALUE: fails — 'you already published this exact star↔whisperer reveal on your At-Takwir page, and linked 114:4 there yourself.' That collapses the reason-to-build. Verdict REFUTED on load-bearing novelty failure, despite an impeccable factual spine."
+}

@@ -1,0 +1,215 @@
+{
+  "_note": "scheduled[]/posted[] here are a local convenience log only — Buffer is the source of truth (some 2026-05 posts e.g. tawbah, sea-land-ratio, re-runs were never logged here). Query Buffer to see real state.",
+  "ready_to_queue": [],
+  "_ready_note": "Queue at 10/10 through ~Jul 19. Auto-topup will push these as slots open. Order: fatiha-grammar-reveals → iltifat-reveal → yusuf-arc.",
+  "scheduled": [
+    {
+      "name": "nafs-self",
+      "title": "Nafs Is Not Soul — It's You",
+      "scheduledAt": "2026-06-02T11:00:00Z",
+      "format": "Translation Betrayal",
+      "channel": "instagram-reel",
+      "note": "Shipped from pre-rendered exports/video/nafs-self (was built 5/11, never posted). 3:185 fragment validated vs corpus."
+    },
+    {
+      "name": "ar-rahman-sequence",
+      "title": "Ar-Rahman 55:1–4 — Guidance Before Existence",
+      "scheduledAt": "2026-06-04T11:00:00Z",
+      "format": "Structural Surprise",
+      "channel": "instagram-reel",
+      "note": "Re-encoded High->Main/4.0 + muxed ambient. 55:2-4 verified; payoff grounded in validated 055 ayahs-001-004."
+    },
+    {
+      "name": "duha-not-forsaken",
+      "title": "Ad-Duha — He Has Not Forsaken You",
+      "scheduledAt": "2026-06-12T11:00:00Z",
+      "format": "dropped-pronoun reveal",
+      "channel": "instagram-reel",
+      "note": "93:3 — waddaʿa-KA keeps 'you', qalā drops it. Built fresh via reel-export.ts; grounded in validated 093 ayahs-001-005."
+    },
+    {
+      "name": "taqwa-shield",
+      "title": "Taqwa — Shield, Not Fear",
+      "scheduledAt": "2026-06-14T11:00:00Z",
+      "format": "Translation Betrayal",
+      "channel": "instagram-reel",
+      "note": "و-ق-ي = to shield. Verse 3:131 (ittaqu an-nar = shield against the Fire). Arabic NFC-verified vs validated 003 ayahs-130-132."
+    },
+    {
+      "name": "qalb-the-turning",
+      "title": "Qalb — The Turning Heart",
+      "scheduledAt": "2026-06-16T11:00:00Z",
+      "format": "Root Word Revelation",
+      "channel": "instagram-reel",
+      "note": "ق-ل-ب = to turn/overturn. Verse 24:37 (tataqallabu al-qulub). Arabic NFC-verified vs validated 024 ayahs-036-038."
+    },
+    {
+      "name": "sabr-binding",
+      "title": "Sabr — Bind, Not 'Patience'",
+      "scheduledAt": "2026-06-18T11:00:00Z",
+      "format": "Translation Betrayal",
+      "channel": "instagram-reel",
+      "note": "ص-ب-ر = to bind/hold firm/restrain. Verse 2:153 (Allah is with the sabirin). Arabic NFC-verified vs validated 002 ayahs-153-157."
+    },
+    {
+      "name": "hidayah-guide-us",
+      "title": "Hidayah — Why You Ask 17x a Day",
+      "scheduledAt": "2026-06-20T11:00:00Z",
+      "format": "Conceptual reveal",
+      "channel": "instagram-reel",
+      "note": "اهدنا الصراط المستقيم (1:6) — ihdina = 'keep guiding me' not 'made guided once'. Ties to Azam's hidayah book. NFC-verified vs validated 001 ayahs-006-007."
+    },
+    {
+      "slug": "yusuf-arc",
+      "scheduled_for": "2026-07-29",
+      "via": "post-reel"
+    },
+    {
+      "slug": "taqwa-shield",
+      "scheduled_for": "2026-07-31",
+      "via": "post-reel"
+    },
+    {
+      "slug": "tawbah-return",
+      "scheduled_for": "2026-08-02",
+      "via": "post-reel",
+      "note": "cream/navy inverted; 2:37 God-turns-first reveal; 41.5s"
+    }
+  ],
+  "posted": [
+    {
+      "name": "word-for-human",
+      "title": "The Word for Human — إنسان / نَسِيَ",
+      "scheduledAt": "2026-05-02T12:00:00Z",
+      "postedAt": "2026-05-02T12:00:00Z",
+      "audio": "arunangshubanerjee-quran-recitation",
+      "duration": 15,
+      "format": "Root Word Revelation",
+      "palette": "dark navy + gold",
+      "path": "exports/video/word-for-human"
+    },
+    {
+      "name": "silent-surah",
+      "title": "The Silent Surah — At-Tawbah",
+      "scheduledAt": "2026-05-06T12:00:00Z",
+      "postedAt": "2026-05-06T12:00:00Z",
+      "audio": "desifreemusic-minimal-ambient",
+      "duration": 14,
+      "format": "Absent Word",
+      "palette": "dark navy + gold",
+      "path": "exports/video/silent-surah"
+    },
+    {
+      "name": "rabb-gardener",
+      "title": "Rabb Is Not Lord — The Cultivator",
+      "scheduledAt": "2026-05-10T12:00:00Z",
+      "postedAt": "2026-05-10T12:00:00Z",
+      "audio": "abdul2025-my-heart-belongs-to-allah-nasheed",
+      "duration": 14,
+      "format": "Translation Betrayal",
+      "palette": "INVERTED — cream + navy",
+      "path": "exports/video/rabb-gardener"
+    }
+  ],
+  "ideas": [
+    {
+      "name": "baqarah-chiastic-spine",
+      "format": "Structural Surprise (Format 6 — first build)",
+      "concept": "Al-Baqarah's chiastic structure folds around its center verse. Mirror symmetry visualized as a spine that draws then folds. Use data-chart block.",
+      "content_source": "content/tadabbur/002-al-baqarah/ — validated corpus"
+    },
+    {
+      "name": "fatiha-three-voices",
+      "note": "BUILT — renamed to fatiha-grammar-reveals"
+    },
+    {
+      "name": "quran-self-weighting",
+      "format": "Structural Surprise — data visualization",
+      "concept": "The Quran's own edge-centrality reveals its most important ayahs (tawakkul→65:3, sabr→73:10 etc). 'The graph of 14,000 connections, weighted by the Quran itself.' Use data-chart block.",
+      "content_source": "scripts/graph-lab/edges-typed.json"
+    },
+    {
+      "name": "morph-translation-betrayal",
+      "format": "Translation Betrayal with morph-text",
+      "concept": "English translation morphs/dissolves into the real Arabic meaning. Use morph-text component for the gooey word-morph transition.",
+      "candidates": [
+        "taqwa (shield, not fear)",
+        "ummah (community, not nation)",
+        "fitna (trial, not chaos)"
+      ],
+      "status": "built",
+      "note": "BUILT as taqwa-shield (2026-07-01). 48.4s. fear→shield morph."
+    },
+    {
+      "name": "sabr-binding",
+      "title": "Sabr Is Not Patience",
+      "format": "Root Word Revelation",
+      "palette": "TBD",
+      "length": "12s",
+      "notes": "ص-ب-ر root = to bind, contain, restrain. Sabr is active containment, not passive waiting. Note: a 'sabr-unlock' carousel exists in queue.json — may want to retire that and let the reel carry the topic."
+    },
+    {
+      "name": "fitna-furnace",
+      "title": "Fitna — The Word for the Furnace",
+      "format": "Root Word Revelation",
+      "palette": "dark navy + gold",
+      "length": "13s",
+      "notes": "ف-ت-ن root = process of melting gold to test purity. Modern usage 'trial/chaos' comes from this metallurgical origin. Visual: letters → fire → pure metal. [BUILT AS CAROUSEL 2026-06-01, scheduled June 6, quote 21:35. A reel version is still open.]"
+    },
+    {
+      "name": "tawbah-return",
+      "title": "Tawbah — Return, Not Repent",
+      "format": "Root Word Revelation",
+      "palette": "INVERTED — cream + navy",
+      "length": "12s",
+      "notes": "Root means return, not repent. 'You didn't fall — you drifted. The word is a GPS reroute, not a courtroom.' Pairs nicely with silent-surah as a follow-up. [BUILT + SCHEDULED 2026-08-02 as cream/navy inverted reel, 41.5s, anchored on 2:37 fatāba ʿalayhi — God turns first. Dark-draft variant preserved at exports/video/_drafts/.]",
+      "status": "built"
+    },
+    {
+      "name": "kafir-cover",
+      "title": "Kafir — Not Disbeliever, but One Who Covers",
+      "format": "Translation Betrayal",
+      "palette": "dark navy + gold",
+      "length": "13s",
+      "notes": "Root k-f-r = to cover, conceal, bury. Same root used for 'gratitude' (concealing favors) and 'ingratitude' (concealing the giver). Show a hand covering something. [BUILT AS CAROUSEL 2026-06-01, scheduled June 8, quote 57:20 farmers=al-kuffār. A reel version is still open.]"
+    },
+    {
+      "name": "fatiha-pivot",
+      "title": "Al-Fatiha's Hidden Pivot",
+      "format": "Iltifāt Reveal",
+      "palette": "dark navy + gold",
+      "length": "15s",
+      "notes": "BUILT as iltifat-reveal (2026-06-09). 22s. Perspective-tilt mechanic, warm gold pivot, iyyāka face-on stamp. Ready to queue.",
+      "status": "built"
+    },
+    {
+      "name": "yusuf-arc",
+      "title": "Yusuf — Story Beat Map",
+      "format": "Story Beat Map",
+      "palette": "dark navy + gold",
+      "length": "20.5s",
+      "notes": "BUILT 2026-06-15. S-curve spine, 4 nodes: رُءْيَا (12:4) → الْجُبّ (12:15) → السِّجْن (12:33) → الْخَزَائِن (12:55). Close ayah: 12:56. exports/video/yusuf-arc. Ready to queue after tawbah-return slot (~Jul 8+).",
+      "status": "built"
+    },
+    {
+      "name": "duha-blank",
+      "title": "What Depression Sounds Like, vs. What the Quran Replies",
+      "format": "Absent Word",
+      "palette": "dark navy + gold",
+      "length": "14s",
+      "notes": "The word 'abandoned' never appears. God says 'your Lord has not abandoned you' (waddaʿaka). The feeling is named but the reel holds on the blank space first. [BUILT 2026-06-01 as duha-not-forsaken (scheduled June 12) — angle shifted to the dropped-pronoun reveal on qalā.]"
+    }
+  ],
+  "performance_log": {
+    "evaluation_date_target": "2026-05-30",
+    "metrics_to_compare": [
+      "reach",
+      "saves",
+      "shares",
+      "comments",
+      "follow_conversion"
+    ],
+    "decision_threshold": "If reels show >2x saves per impression vs carousels, shift to reel-heavy. If 2x worse, return to carousel-only."
+  },
+  "_last_need_content_email": "2026-08-03T06:48:59.532Z"
+}

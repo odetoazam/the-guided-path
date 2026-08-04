@@ -1,0 +1,20 @@
+
+🔨 Processing 5 file(s) — mode: full (model: claude-opus-4-8)
+   Ctrl-C to stop; progress is saved.
+
+[1/5]    23:104-105  (content/tadabbur/023-al-muminun/ayahs-104-105.md)
+    ✨ REGENERATED + VALIDATED
+[2/5]    23:112-115  (content/tadabbur/023-al-muminun/ayahs-112-115.md)
+    ✨ REGENERATED + VALIDATED
+[3/5]    26:116-120  (content/tadabbur/026-ash-shuara/ayahs-116-120.md)
+    ✨ REGENERATED + VALIDATED
+[4/5]    26:167-173  (content/tadabbur/026-ash-shuara/ayahs-167-173.md)
+    ✨ REGENERATED + VALIDATED
+[5/5]    43:79-80  (content/tadabbur/043-az-zukhruf/ayahs-079-080.md)
+   retry with feedback (output structurally incomplete: no morphology tags)...
+    ⚠️  generation failed: output structurally incomplete: no morphology tags
+
+──────────────────────────────────────────────────
+  DONE: 75
+  ERROR: 1
+  Remaining in queue: 1

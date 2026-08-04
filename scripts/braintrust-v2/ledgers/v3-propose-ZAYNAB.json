@@ -1,0 +1,102 @@
+{
+  "advisor": "Dr. Zaynab al-Mansouri",
+  "lens": "Arabic linguistics & classical balagha; iltifat (pronoun/person shift) is my dissertation area",
+  "run": "2026-07-20 diversified",
+  "panel_notes": [
+    "OVERLAP CORRECTION for the ledger: INTERTEXT-7 (Adam and the names, 2:31-33) claims 'no AyahGuide article exists on 2:31-33.' That is FALSE. The published article /posts/the-naming-that-changed-everything (source: scripts/insert-adam-articles.ts) is exactly this scene — 'Allah taught Adam the names... this single capacity — naming — is the fulcrum.' I have not proposed INTERTEXT-7 and recommend the panel treat its overlap note as unreliable; any advisor proposing it must differentiate against that live article, not against an empty field.",
+    "ILTIFAT-1 and GRAMMAR-CHOICE-3 are the same verse (10:22) at two zoom levels; I combined them into one proposal (ZAYNAB-1) so two advisors do not ship near-duplicates.",
+    "DIVINE-RESPONSE-1 (the dropped qul at 2:186, al-Zamakhshari's famous observation) did not make my six but is squarely balagha and well-corrected by its hedge; if another advisor claims it, I endorse the corrected framing as written."
+  ],
+  "proposals": [
+    {
+      "id": "ZAYNAB-1",
+      "title": "The Storm Changes Your Grammar: How One Verse Stops Calling You 'You' the Moment the Sea Turns Rough",
+      "thesis": "In Yunus 10:22 God speaks straight TO you — 'He carries YOU on land and sea, until when YOU are aboard the ships' — then the instant the good wind fails and the storm hits, the grammar turns away and describes the passengers from the outside as 'them': 'the ships sailed with THEM... THEY rejoiced... waves came at THEM... THEY thought they were doomed.' Only in real terror does the pronoun snap back to the second person, but now aimed at God: 'if YOU save us.' The reveal is that the pronoun choreography maps the heart's distance — intimate 'you' inside God's care, distant 'them' the moment comfort makes them forget Him, desperate 'You' only when the water rises — and the same choreography repeats across the other sea-rescue verses (6:63-64, 17:67, 31:32). It matters because the grammar diagnoses a faith that only says 'You' to God in the storm and forgets Him into 'He/them' on dry land.",
+      "exhibits": ["ILTIFAT-1", "GRAMMAR-CHOICE-3"],
+      "personas": {
+        "amina": 5,
+        "khalil": 4,
+        "sara": 5,
+        "yusuf": 4,
+        "note": "Amina/Sara feel the choreography without needing Arabic — the translation carries it; the storm-forgetting-dry-land arc is instantly WhatsApp-shareable. Khalil/Yusuf get airtight grounding: al-Zamakhshari cites 10:22 in al-Kashshaf as THE textbook example of iltifat 'an al-khitab ila al-ghayba, and al-Jalalayn states verbatim on 'wa-jarayna bihim' — 'fihi iltifatun 'an al-khitab.'"
+      },
+      "risks": "Must mark the layers: the you→them→You turn WITHIN 10:22 is classical iltifat (al-Zamakhshari, al-Jalalayn, named); the cross-passage synthesis reading 6:63/17:67/31:32 together as a single 'map of the heart's distance from God' is a MODERN structural reading built on the classical observation — flag it explicitly as reflection, not tafsir. Do not claim the mufassirun articulated the four-verse map. The overlapping tadabbur file (010-yunus/ayahs-021-024) treats the psychological rhythm but not the pronoun mechanism, so cite it and stake the fresh angle on the grammar.",
+      "why_now": "Pure iltifat — my dissertation domain — and the single most citable example in the classical balagha tradition, so it doubles as the site's flagship demonstration that pronoun-shift reading is grounded scholarship, not modern cleverness. Emotionally universal (storms, forgetting God when safe) and AEO-friendly: no published article covers ship/storm/sea/nearness, and the cross-surah move belongs to no single tadabbur file."
+    },
+    {
+      "id": "ZAYNAB-2",
+      "title": "Yusuf's Dream Was Already Interpreted — by One Grammar Ending, and the Surah Closes the Loop 96 Verses Later",
+      "thesis": "A boy tells his father he saw eleven stars, the sun and the moon 'prostrating to me' (12:4). Stars, sun and moon are inanimate and should take the non-rational, feminine-singular agreement Arabic gives to lifeless plurals — but Yusuf refers to them with HUM (the pronoun reserved for conscious persons) and saajidiin (the sound-masculine-plural participle reserved for rational agents). The grammar quietly promotes the 'stars' to people before anyone mentions brothers or parents; the dream's meaning is smuggled in through the word-endings, not the interpretation. Then the whole surah closes the ring: at 12:100 his family literally fall in prostration (sujjadan, same root s-j-d) and Yusuf seals it out loud — 'this is the meaning of my dream from before; my Lord has made it come true.' The reveal is that a single agreement choice at verse 4 already decided the ending, and the surah is architected as a dream-to-fulfillment ring hinged on one root.",
+      "exhibits": ["ILTIFAT-3", "RING-7"],
+      "personas": {
+        "amina": 4,
+        "khalil": 5,
+        "sara": 3,
+        "yusuf": 5,
+        "note": "Khalil/Yusuf get the most citable material in the batch — the closing ring is textually explicit (Yusuf says the dream is fulfilled), and the rational-agent agreement is standard balagha (tanzil ghayr al-'aqil manzilat al-'aqil) in al-Zamakhshari and Abu Hayyan. Amina enjoys the whole-story elegance; Sara is lower because the agreement point is harder to compress into one spoken line, though the ring is shareable."
+      },
+      "risks": "Two distinct grounding tiers: (a) the ring — 12:100 fulfilling the 12:4 dream — is classical and textually explicit (al-Tabari, al-Zamakhshari, Ibn Kathir all name it because Yusuf names it), the strongest grounding in the set; (b) the rational-agent agreement (hum + saajidiin for inanimate stars) is a named balagha category but the four bundled tafsirs did not spell it out here, so rest that claim on the mechanically verifiable morphology plus the named tradition, and present the 'grammar interpreted the dream first' framing as a literary reading. Existing 012-yusuf/ayahs-004-006 file discusses sajidin thematically but not the agreement mismatch — cite and differentiate.",
+      "why_now": "This is my PhD surah — iltifat and agreement in Yusuf — and the piece models exactly the form-decision rigor the site is praised for while staying story-driven. High MSA/student citability, and it turns the most beloved narrative surah into a lesson in how Arabic morphology carries meaning invisible in translation. No published Yusuf article frames the whole surah as an s-j-d ring or notes the verse-4 agreement."
+    },
+    {
+      "id": "ZAYNAB-3",
+      "title": "The Last Grammar Change: When God Stops Talking About You and Starts Talking To You",
+      "thesis": "Most afterlife scenes describe people from the outside in the third person — 'the human will remember,' 'they defied their Lord.' At the final moment the grammar turns and God addresses the soul directly in the second person, and whether that turn is the sweetest or the most terrible sentence you will ever hear IS the whole afterlife. To the settled soul: 'O tranquil soul, RETURN to your Lord... enter among MY servants, enter MY garden' (89:27-30) — the pivot to 'you' arrives wrapped in God's own 'My.' To the defiant, after a passage narrating them in the third person: 'TASTE it, because YOU forgot the meeting of this Day' (32:14); '...TASTE the punishment of eternity for what YOU denied' (32:20). One grammatical move — third person to second — lands twice with opposite valence. The reveal is that the same turn of address is simultaneously the promise and the sentence.",
+      "exhibits": ["ILTIFAT-4"],
+      "personas": {
+        "amina": 4,
+        "khalil": 4,
+        "sara": 4,
+        "yusuf": 4,
+        "note": "Even spread. 'One move, two destinations' is a clean, sayable idea for Sara and shareable; Amina/Khalil get the tender-address grounding; Yusuf gets the cross-surah rigor. Slightly capped across the board because hellfire address ('taste it') is a heavy register that some readers arrive to raw."
+      },
+      "risks": "Each half is classical (the tender direct address of the tranquil soul; the direct-address 'dhuuqu' to the damned are standard mufassir readings) — but the PAIRING of the two as a single grammatical move with inverted meaning is a MODERN structural reading; flag it. Handle the punishment register with care per the site's house tone (simple, not triumphalist). The 089-al-fajr/ayahs-027-030 file already treats the Al-Fajr spoken-about-vs-spoken-to shift in depth, so this piece must live on the CROSS-SURAH pairing with 32:14/32:20; if reduced to just Al-Fajr it duplicates and should be cut.",
+      "why_now": "A second-person iltifat reveal that carries the entire emotional stakes of the afterlife in one grammatical hinge — exactly the kind of 'the grammar is the theology' piece that distinguishes the site. Pairs a mercy-scene with a judgment-scene so it does not read as fear-only, and the existing Al-Fajr tadabbur gives it an internal-link anchor while the 32:14/32:20 pairing keeps it fresh."
+    },
+    {
+      "id": "ZAYNAB-4",
+      "title": "They Said God's Hand Is Chained. He Answered With Two. — When the Grammar of Number and Person Is the Whole Argument",
+      "thesis": "Sometimes the rebuttal in the Quran is not the words but the inflection. A group mocked that 'God's hand is chained' — SINGULAR, one shackled hand, an image of stinginess (5:64). The reply moves through three grammatical numbers on the same root in one breath: it turns their image back on them in the PLURAL ('may THEIR hands be chained'), then answers not with a matching singular but with the DUAL ('rather, both His hands are outstretched'). They shrank God to one bound hand; the grammar widens Him to two open ones. The same principle drives a gentler scene: in Ya-Sin the lone believer argues 'why would I not worship the One who created ME?' — and where you expect him to finish 'and to Him I will be returned,' he swings the person from himself to them mid-breath: 'and to Him YOU will be returned' (36:22). My Maker is your destination too; the pronoun IS the invitation. The reveal is that Arabic number and person are not decoration here — they carry the rebuttal and the da'wah.",
+      "exhibits": ["GRAMMAR-CHOICE-4", "ILTIFAT-6"],
+      "personas": {
+        "amina": 4,
+        "khalil": 5,
+        "sara": 3,
+        "yusuf": 5,
+        "note": "5:64 is an adversarially-quoted verse, so Amina (contested-verse searcher) and Khalil/Yusuf (want ikhtilaf + citations) are well served; the number-as-rebuttal move is citable (al-Razi, al-Zamakhshari on the dual). Sara lower — two grammatical cases in one piece is harder to reduce to a single spoken line, though 'they said one hand, He answered with two' travels well."
+      },
+      "risks": "'Hand' is a divine attribute handled per classical adab (bila kayf) — the piece is strictly about the grammatical NUMBER move, not the anthropomorphism debate; state that boundary up front. Do not let 5:64's occasion-of-revelation slide into essentializing any community; keep it about the claim and its grammatical answer. Grounding: the dual-intensifies-against-the-singular reading is classical (al-Razi, al-Zamakhshari, al-Muyassar on boundless giving); al-Tabari/al-Jalalayn gloss 36:22's turja'un as the man turning to address his people ('wa antum kadhalik') — recovered. 'Grammar is the da'wah' is a light modern gloss on the classical observation; mark it. The two cases share a thesis but different registers (rebuttal vs invitation) — frame the link as illustration, not identity.",
+      "why_now": "A grammatical-number/person reveal squarely in my domain that also serves the contested-verse funnel: 5:64 gets quoted against Muslims, and the cleanest, most dignified answer is the grammar of the reply itself. Surah al-Ma'idah has no tadabbur file on the site (entirely uncovered), so this opens fresh territory while teaching how Arabic inflection can carry a polemic."
+    },
+    {
+      "id": "ZAYNAB-5",
+      "title": "The Ablution Verse Assumes You WILL Pray — and Only 'Maybe' You'll Be Impure",
+      "thesis": "The wudu verse (5:6) uses two different Arabic 'if/when' words back to back, and the choice is the teaching. For prayer it uses idha — 'WHEN you rise to pray' — the particle Arabic reserves for something certain and expected to recur. For major impurity, illness, or travel it switches to in — 'IF you are impure... IF you are ill' — the particle for a contingency that may or may not happen. The grammar quietly assumes prayer is the settled rhythm of a believer's life (a 'when,' not an 'if'), while treating impurity, sickness and travel as the exceptions that interrupt it. The reveal: worship is the grammatical default; everything else is the deviation — the Arabic frames a life built around the prayer, not a prayer squeezed into a life.",
+      "exhibits": ["GRAMMAR-CHOICE-1"],
+      "personas": {
+        "amina": 3,
+        "khalil": 5,
+        "sara": 4,
+        "yusuf": 5,
+        "note": "Khalil/Yusuf get a clean, citable point of classical nahw (idha = certain/recurring time, in = hypothetical) applied by Abu Hayyan and al-Alusi — rigorous and fresh. Sara gets a genuinely sayable takeaway ('the Quran calls prayer a when, not an if'). Amina lower: the particle contrast is drier and less narrative than the pronoun pieces, though the payoff is warm."
+      },
+      "risks": "The idha-vs-in distinction is standard classical grammar; its APPLICATION here (prayer certain, impurity contingent) is noted by Abu Hayyan (al-Bahr al-Muhit) and al-Alusi — name them. The four commonly-pulled sources treat wudu fiqh, not the particle, so anchor the grammar claim on the nahw tradition, and mark the 'worship is the default' payoff as a reflective reading, NOT a fiqh ruling — the verse's legal content (what invalidates wudu, tayammum) is settled elsewhere and this piece does not adjudicate it. Note al-Tabari records ikhtilaf on idha's scope, which turns precisely on the particle's force — an honest hook, not a weakness.",
+      "why_now": "A pure grammatical-CHOICE reveal (particle selection) in my domain that is both rigorous and pastoral — it reframes the daily prayer without touching a single contested ruling. Surah al-Ma'idah is entirely uncovered on the site and this is not among the 185 published articles, so it is genuinely fresh, and it models the 'linguistic honesty markup' I keep asking for: fact-grammar clearly separated from reflective payoff."
+    },
+    {
+      "id": "ZAYNAB-6",
+      "title": "Al-Fatiha Turns at Its Own Center: The Verse Where You Stop Talking About God and Start Talking To Him — and the Prayer the Next Sentence Answers",
+      "thesis": "The most-recited passage in Islam is built as a seven-verse ring whose exact middle verse — 1:4, 'Master of the Day of Judgment' — is the hinge. Every verse before it describes God in the third person ('praise to Him,' 'the Merciful,' 'Master'); every verse after it addresses God in the second person ('YOU alone we worship,' 'guide US,' 'You have favored'). The surah places accountability at dead center, and it is exactly there that the prayer turns from speaking ABOUT God to speaking TO Him — the person-shift lands the instant the Day of Reckoning is named. Then the ring opens outward: al-Fatiha ends by begging 'GUIDE us' (ihdina, root h-d-y), and the very next content-sentence of the Quran answers word-for-word — 'This is the Book... GUIDANCE (hudan, same root) for the God-conscious' (2:2). The reveal is that the passage you recite seventeen times a day is a ring pivoting on Judgment into direct address, and its closing plea is answered by the Book's first sentence.",
+      "exhibits": ["RING-1", "NAZM-1"],
+      "personas": {
+        "amina": 5,
+        "khalil": 4,
+        "sara": 5,
+        "yusuf": 4,
+        "note": "Highest-reach in the batch — everyone recites al-Fatiha, so Amina and Sara score top (Sara's line writes itself: 'the prayer you say 17 times a day turns at its exact center from about-Him to to-Him'). Khalil/Yusuf get solid grounding: the 1:5 iltifat is classical (al-Razi, al-Zamakhshari), and the ihdina→hudan answer is well-attested munasaba (al-Razi opens his al-Baqarah tafsir on it; Ibn al-Qayyim in Madarij al-Salikin)."
+      },
+      "risks": "Two grounding tiers: the iltifat at 1:5 (third person to second) is classical and named; the WHOLE-SURAH ring with 1:4 as the pivot is a modern reading (Islahi, Farrin) — flag it as reflection. The center claim is also COUNT-DEPENDENT: 1:4 is the arithmetic middle only in the standard Hafs numbering that counts the basmala as verse 1 — the article must say this in one honest sentence, since other counting traditions shift the center and the claim must not be presented as numbering-independent. The ihdina→hudan seam is recovered classical munasaba (al-Razi, Ibn al-Qayyim), so it can carry more weight, but present it as the classical link it is, not as my discovery. The existing 001-al-fatiha/ayah-005 tadabbur treats the iyyaka shift at verse level and does not frame the surah as a ring or reach to 2:2 — cite it and stake the structural + cross-surah angle.",
+      "why_now": "Maximum reach on the passage every reader already owns, and it demonstrates two of my favorite structures at once — iltifat (person shift) and ring composition — without any contested content, then rewards the reader with the Quran's own answered-du'a seam into al-Baqarah. Ideal WhatsApp/AEO piece: high recognition, a single memorable claim, and a classically-anchored payoff that no current article or tadabbur file covers."
+    }
+  ]
+}

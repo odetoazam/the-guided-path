@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <link rel="preconnect" href="https://fonts.googleapis.com"/>
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="anonymous"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&family=Playfair+Display:ital,wght@0,600;0,700;1,400;1,600&family=Inter:wght@300;400;500;600&display=swap"/>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    html, body {
+      width: 1080px; height: 1920px; overflow: hidden;
+      background: #0A1322;
+      font-family: 'Inter', system-ui, sans-serif;
+    }
+    #stage { position: absolute; inset: 0; }
+
+    .bg-glow {
+      position: absolute; top: 42%; left: 50%;
+      transform: translate(-50%,-50%);
+      width: 1200px; height: 1200px; border-radius: 50%;
+      background: radial-gradient(circle, rgba(201,168,76,0.10) 0%, rgba(201,168,76,0) 62%);
+      pointer-events: none; z-index: 0;
+    }
+
+    .scene {
+      position: absolute; inset: 0;
+      display: flex; flex-direction: column;
+      align-items: center; justify-content: center;
+      padding: 180px 96px; text-align: center; z-index: 1;
+    }
+
+    /* ── Arabic / text styles ── */
+    .ar       { font-family: 'Amiri', serif; color: #C9A84C; direction: rtl; line-height: 1.6;
+                text-shadow: 0 0 70px rgba(201,168,76,0.20), 0 0 180px rgba(201,168,76,0.07); }
+    .label    { font-family: 'Inter', sans-serif; font-weight: 500; letter-spacing: 0.32em;
+                text-transform: uppercase; color: rgba(201,168,76,0.62); }
+    .eng      { font-family: 'Playfair Display', serif; color: #F5F0E8; line-height: 1.32; }
+    .eng-it   { font-family: 'Playfair Display', serif; font-style: italic; color: rgba(245,240,232,0.82); line-height: 1.5; }
+    .dim      { font-family: 'Inter', sans-serif; font-weight: 300; color: rgba(245,240,232,0.55); line-height: 1.6; }
+    .gold     { color: #C9A84C; }
+    .goldsoft { color: rgba(201,168,76,0.85); }
+
+    .divider { width: 540px; height: 1px; background: rgba(201,168,76,0.30); margin: 0 auto; }
+    .dot-rule { display:flex; align-items:center; justify-content:center; gap:16px; width:62%; margin:0 auto; }
+    .dot-rule .ln { flex:1; height:1px; background: rgba(201,168,76,0.18); }
+    .dot-rule .dt { width:7px; height:7px; border-radius:50%; background:#C9A84C; opacity:0.55; }
+
+    /* ── Scene 0 cover ── */
+    #s0 .label { font-size: 30px; margin-bottom: 54px; }
+    #s0 .ar    { font-size: 98px; font-weight: 700; max-width: 940px; white-space: nowrap; }
+    #s0 #s0-eng { font-size: 70px; font-weight: 700; margin-top: 50px; max-width: 880px; }
+    #s0-brand  { position:absolute; bottom: 116px; left:50%; transform:translateX(-50%);
+                 font-family:'Playfair Display',serif; font-weight:600; font-size:34px; color:rgba(245,240,232,0.6); letter-spacing:0.06em; }
+
+    /* ── Scene 1 silence ── */
+    #s1 .dim   { font-size: 52px; max-width: 820px; }
+    #s1 .mock  { font-size: 46px; margin-top: 56px; max-width: 840px; }
+
+    /* ── Scene 2 response ── */
+    #s2 .label { font-size: 28px; margin-bottom: 50px; }
+    #s2 .ar    { font-size: 108px; font-weight: 700; max-width: 900px; }
+    #s2 #s2-tr { font-size: 50px; margin-top: 52px; max-width: 880px; }
+
+    /* ── Scene 3 reveal ── */
+    #s3 .ln1   { font-family:'Inter',sans-serif; font-weight:300; font-size: 46px; color: rgba(245,240,232,0.6); max-width: 880px; }
+    #s3 #s3-ar { font-size: 188px; font-weight: 700; margin: 30px 0 8px; }
+    #s3 .ln2   { font-family:'Playfair Display',serif; font-weight:700; font-size: 76px; color:#F5F0E8; line-height:1.18; max-width: 900px; }
+    #s3 .ln3   { font-family:'Playfair Display',serif; font-style:italic; font-size: 46px; color: rgba(201,168,76,0.92); margin-top: 34px; max-width: 860px; line-height:1.4; }
+    #s3 .strike { position: relative; display:inline-block; }
+    #s3 .strike .x { position:absolute; top:54%; left:-10px; right:-10px; height:5px; background:#C9A84C; transform-origin:left; }
+
+    /* ── Scene 4 promise ── */
+    #s4 .ar    { font-size: 96px; font-weight: 700; max-width: 920px; }
+    #s4 #s4-tr { font-size: 54px; margin-top: 50px; max-width: 860px; }
+    #s4-brand  { position:absolute; bottom: 150px; left:50%; transform:translateX(-50%); display:flex; flex-direction:column; align-items:center; gap:14px; }
+    #s4-brand .bn { font-family:'Playfair Display',serif; font-weight:600; font-size:58px; color:#F5F0E8; }
+    #s4-brand .hn { font-family:'Inter',sans-serif; font-size:30px; color:rgba(201,168,76,0.8); letter-spacing:0.16em; }
+
+    /* ── Persistent frame ── */
+    #frame { position:absolute; inset:0; pointer-events:none; z-index:30; }
+    #frame .border { position:absolute; top:30px; left:30px; right:30px; bottom:30px; border:1px solid rgba(201,168,76,0.26); }
+    .corner { position:absolute; width:74px; height:74px; }
+    .corner.tl{top:30px;left:30px;} .corner.tr{top:30px;right:30px;transform:scaleX(-1);}
+    .corner.bl{bottom:30px;left:30px;transform:scaleY(-1);} .corner.br{bottom:30px;right:30px;transform:scale(-1,-1);}
+    .sdm{position:absolute;width:7px;height:7px;transform:rotate(45deg);border:1px solid rgba(201,168,76,0.4);}
+    .sdm.t{top:27px;left:50%;margin-left:-3.5px;} .sdm.b{bottom:27px;left:50%;margin-left:-3.5px;}
+    .sdm.l{left:27px;top:50%;margin-top:-3.5px;} .sdm.r{right:27px;top:50%;margin-top:-3.5px;}
+  </style>
+</head>
+<body>
+  <div id="stage">
+    <div class="bg-glow" id="bgGlow"></div>
+
+    <!-- SCENE 0 — COVER (static from frame 0) -->
+    <div id="s0" class="scene">
+      <div class="label">Ad-Duḥā · 93:3</div>
+      <div class="ar">مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ</div>
+      <div id="s0-eng" class="eng">Your Lord has not<br/>forsaken you.</div>
+      <div id="s0-brand">AyahGuide</div>
+    </div>
+
+    <!-- SCENE 1 — THE SILENCE -->
+    <div id="s1" class="scene" style="opacity:0;">
+      <div class="dim" id="s1-a">For days, no revelation came.<br/>The sky went quiet.</div>
+      <div class="eng-it mock" id="s1-b">And they mocked him:<br/><span class="goldsoft">“His Lord has abandoned him.”</span></div>
+    </div>
+
+    <!-- SCENE 2 — THE RESPONSE -->
+    <div id="s2" class="scene" style="opacity:0;">
+      <div class="label" id="s2-l">Then this came down</div>
+      <div class="ar" id="s2-ar">مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ</div>
+      <div class="eng-it" id="s2-tr">“Your Lord has not bid you farewell,<br/>nor does He detest—”</div>
+    </div>
+
+    <!-- SCENE 3 — THE DROPPED WORD (the reveal) -->
+    <div id="s3" class="scene" style="opacity:0;">
+      <div class="ln1" id="s3-l1">He kept “you” on the first verb — <span class="gold">waddaʿa-<b>ka</b></span>.</div>
+      <div class="ar" id="s3-ar">وَمَا قَلَىٰ</div>
+      <div class="ln2" id="s3-l2">But here, He dropped it.<br/>Not <span class="strike" id="s3-strike">qalā-<b>ka</b><span class="x" id="s3-x"></span></span>. Just <span class="gold">qalā</span>.</div>
+      <div class="ln3" id="s3-l3">He would not let the word “detest” touch you —<br/>not even to say no.</div>
+    </div>
+
+    <!-- SCENE 4 — THE PROMISE -->
+    <div id="s4" class="scene" style="opacity:0;">
+      <div class="ar" id="s4-ar">وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَىٰ</div>
+      <div class="eng-it" id="s4-tr">And your Lord is going to keep giving to you —<br/><span class="gold">until you are pleased.</span></div>
+      <div id="s4-brand"><div class="bn">AyahGuide</div><div class="hn">ayahguide.com</div></div>
+    </div>
+
+    <!-- FRAME -->
+    <div id="frame">
+      <div class="border"></div>
+      <svg class="corner tl" viewBox="0 0 74 74" fill="none">
+        <path d="M10 10 H40 M10 10 V40" stroke="rgba(201,168,76,0.55)" stroke-width="1.4"/>
+        <rect x="6" y="6" width="20" height="20" stroke="rgba(201,168,76,0.5)" stroke-width="1" transform="rotate(45 16 16)"/>
+        <circle cx="16" cy="16" r="2" fill="rgba(201,168,76,0.6)"/>
+      </svg>
+      <svg class="corner tr" viewBox="0 0 74 74" fill="none">
+        <path d="M10 10 H40 M10 10 V40" stroke="rgba(201,168,76,0.55)" stroke-width="1.4"/>
+        <rect x="6" y="6" width="20" height="20" stroke="rgba(201,168,76,0.5)" stroke-width="1" transform="rotate(45 16 16)"/>
+        <circle cx="16" cy="16" r="2" fill="rgba(201,168,76,0.6)"/>
+      </svg>
+      <svg class="corner bl" viewBox="0 0 74 74" fill="none">
+        <path d="M10 10 H40 M10 10 V40" stroke="rgba(201,168,76,0.55)" stroke-width="1.4"/>
+        <rect x="6" y="6" width="20" height="20" stroke="rgba(201,168,76,0.5)" stroke-width="1" transform="rotate(45 16 16)"/>
+        <circle cx="16" cy="16" r="2" fill="rgba(201,168,76,0.6)"/>
+      </svg>
+      <svg class="corner br" viewBox="0 0 74 74" fill="none">
+        <path d="M10 10 H40 M10 10 V40" stroke="rgba(201,168,76,0.55)" stroke-width="1.4"/>
+        <rect x="6" y="6" width="20" height="20" stroke="rgba(201,168,76,0.5)" stroke-width="1" transform="rotate(45 16 16)"/>
+        <circle cx="16" cy="16" r="2" fill="rgba(201,168,76,0.6)"/>
+      </svg>
+      <div class="sdm t"></div><div class="sdm b"></div><div class="sdm l"></div><div class="sdm r"></div>
+    </div>
+  </div>
+
+  <script>
+    window.TOTAL_MS = 15000;
+
+    function clamp(v,a,b){ return Math.max(a, Math.min(b, v)); }
+    function easeOut(t){ return 1 - Math.pow(1 - clamp(t,0,1), 3); }
+    function easeInOut(t){ t = clamp(t,0,1); return t < 0.5 ? 4*t*t*t : 1 - Math.pow(-2*t+2, 3)/2; }
+
+    // Scene crossfade opacity over [vs, ve] with fade-in fi and fade-out fo (ms)
+    function sceneOpacity(t, vs, ve, fi, fo){
+      if (t < vs || t >= ve) return 0;
+      var o = 1;
+      if (fi > 0 && t < vs + fi) o = easeOut((t - vs) / fi);
+      if (fo > 0 && t > ve - fo) o = Math.min(o, 1 - easeInOut((t - (ve - fo)) / fo));
+      return o;
+    }
+    // Per-element rise+fade beginning at absolute time `start`
+    function reveal(el, t, start, dur, dy){
+      if (!el) return;
+      dy = dy === undefined ? 22 : dy;
+      var p = easeOut((t - start) / dur);
+      el.style.opacity = clamp(p, 0, 1);
+      el.style.transform = 'translateY(' + ((1 - clamp(p,0,1)) * dy).toFixed(2) + 'px)';
+    }
+
+    var S = {
+      s0: [0,    3000, 0,   600],
+      s1: [2700, 5800, 520, 560],
+      s2: [5500, 9300, 540, 560],
+      s3: [9000, 12900, 540, 520],
+      s4: [12500, 15000, 560, 0]
+    };
+
+    function frame(t){
+      // Color-temperature warm-up: glow swells toward the promise
+      var warm = clamp((t - 9000) / 5000, 0, 1);
+      var g = document.getElementById('bgGlow');
+      g.style.opacity = (0.7 + 0.5 * warm).toFixed(3);
+      g.style.transform = 'translate(-50%,-50%) scale(' + (1 + 0.18 * warm).toFixed(3) + ')';
+
+      for (var k in S){
+        var el = document.getElementById(k);
+        el.style.opacity = sceneOpacity(t, S[k][0], S[k][1], S[k][2], S[k][3]).toFixed(3);
+      }
+
+      // Scene 1 staged
+      reveal(document.getElementById('s1-a'), t, 3050, 800, 20);
+      reveal(document.getElementById('s1-b'), t, 4050, 850, 20);
+
+      // Scene 2 staged
+      reveal(document.getElementById('s2-l'),  t, 5900, 650, 16);
+      reveal(document.getElementById('s2-ar'), t, 6250, 950, 22);
+      reveal(document.getElementById('s2-tr'), t, 7150, 850, 18);
+
+      // Scene 3 staged — the reveal
+      reveal(document.getElementById('s3-l1'), t, 9350, 750, 18);
+      reveal(document.getElementById('s3-ar'), t, 9900, 800, 24);
+      reveal(document.getElementById('s3-l2'), t, 10650, 800, 18);
+      // strike-through sweep across "qalā-ka"
+      var sx = document.getElementById('s3-x');
+      if (sx){ sx.style.transform = 'scaleX(' + easeOut((t - 11250)/450).toFixed(3) + ')'; }
+      reveal(document.getElementById('s3-l3'), t, 11550, 850, 16);
+
+      // Scene 4 staged
+      reveal(document.getElementById('s4-ar'), t, 12700, 950, 22);
+      reveal(document.getElementById('s4-tr'), t, 13550, 850, 18);
+      reveal(document.getElementById('s4-brand'), t, 14150, 700, 14);
+    }
+
+    // Initialise hidden states for staged elements
+    ['s1-a','s1-b','s2-l','s2-ar','s2-tr','s3-l1','s3-ar','s3-l2','s3-l3','s4-ar','s4-tr','s4-brand'].forEach(function(id){
+      var e = document.getElementById(id); if(e){ e.style.opacity = '0'; }
+    });
+    var sx0 = document.getElementById('s3-x'); if (sx0) sx0.style.transform = 'scaleX(0)';
+
+    window.setAnimTime = function(ms){ frame(ms); };
+    frame(0);
+  </script>
+</body>
+</html>

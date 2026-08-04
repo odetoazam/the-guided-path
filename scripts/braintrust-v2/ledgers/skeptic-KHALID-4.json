@@ -1,0 +1,66 @@
+{
+  "proposal_id": "KHALID-4",
+  "verdict": "SURVIVES",
+  "checked_by": "adversarial-fact-checker",
+  "date": "2026-07-20",
+  "load_bearing_facts": {
+    "sakkat_root_hapax": {
+      "claim": "root ص-ك-ك appears in exactly 1 verse {51:29}",
+      "result": "CONFIRMED",
+      "corpus": "root صكك: 1 verse, 1 occurrence, at 51:29 (word صَكَّتْ). True hapax."
+    },
+    "dahikat_at_11_71": {
+      "claim": "root ض-ح-ك present at 11:71 (فضحكت)",
+      "result": "CONFIRMED",
+      "corpus": "11:71 has ضَحِكَتْ (root ضحك). Root ضحك itself occurs in 10 verses total; proposal does NOT claim it is rare, only 'present at 11:71' — accurate."
+    },
+    "sarrah_root_count": {
+      "claim": "root ص-ر-ر in 6 verses",
+      "result": "CONFIRMED (count) / SCOPE-BLUR (sense)",
+      "corpus": "root صرر in exactly {3:117,3:135,45:8,51:29,56:46,71:7}. BUT only 51:29 (صَرَّة) carries the 'clamor/cry' sense; 3:135/45:8/56:46/71:7 mean 'persist/be obstinate', 3:117 means 'cold wind'. Labeling the whole root 'clamor' is a texture-level scope blur, not load-bearing."
+    },
+    "text_51_29": {
+      "claim": "textSimple has فصكت وجهها + عجوز عقيم",
+      "result": "CONFIRMED",
+      "corpus": "51:29 simple = 'فاقبلت امراته في صرة فصكت وجهها وقالت عجوز عقيم'"
+    },
+    "same_annunciation": {
+      "claim": "both verses are the same Ibrahim-guests annunciation to the same woman",
+      "result": "CONFIRMED",
+      "corpus": "11:69-73 and 51:24-30 are the same scene: guests come, salam, calf offered, fear, 'la takhaf', glad tidings of a son, wife's reaction. The phrase أوجس منهم خيفة is VERBATIM in both 11:70 and 51:28. امرأته (his wife) explicit in both. Ironclad."
+    },
+    "overlap": {
+      "claim": "no published article covers this fork",
+      "result": "CONFIRMED",
+      "corpus": "0 matches for 11:71/51:29/sakkat/dahikat/Sarah/annunciation across 185 published articles. Nearest Hud article (nuh-ibrahim-decree-surah-hud) is Nuh+Ibrahim-at-the-decree, not the wife's reaction. No overlap."
+    },
+    "quran_only": {
+      "result": "CONFIRMED",
+      "corpus": "Reveal is entirely Quran-internal (two surahs, two verb reactions, one hapax). Wife identified only as 'Ibrahim's wife' in title/thesis; 'Sarah' name appears only in internal notes and no payoff depends on it or on any hadith."
+    }
+  },
+  "hostile_reader_probes": [
+    {
+      "tweet": "دحكت means she MENSTRUATED, not laughed — your headline is a mistranslation.",
+      "status": "SURVIVES-WITH-CAVEAT",
+      "note": "Proposal already flags this ikhtilaf in risks. Reveal survives either reading (two distinct reactions preserved + sakkat hapax), but the headline 'She Laughs' must not present 'laughed' as the settled/only reading. -> required correction."
+    },
+    {
+      "tweet": "There is no 'fork' — Hud ALSO shows her shock (11:72 'woe to me, shall I bear, an old woman'). Both surahs record incredulity.",
+      "status": "SURVIVES-WITH-CAVEAT",
+      "note": "11:72 does carry incredulity + 'عجوز'. The defensible reveal is two distinct physical GESTURES (laugh vs. face-slap+cry) across the tellings, not joy-in-Hud vs. disbelief-in-Dhariyat. Thesis wording 'the laugh and the disbelief' overstates a clean split. -> required correction (reframe as two gestures/facets)."
+    },
+    {
+      "tweet": "The son in 51:28 is غلام عليم (unnamed) — could be Ismail; different annunciation.",
+      "status": "SURVIVES",
+      "note": "The wife (امرأته) + 'barren old woman' + verbatim أوجس منهم خيفة parallel tie 51 to the same Sarah/Ishaq annunciation as 11:71. Reveal hinges on the wife's reaction, and the wife is explicit in both — son's naming is not load-bearing."
+    }
+  ],
+  "required_corrections": [
+    "Keep the dahikat 'laughed vs. menstruated' ikhtilaf visible in the published copy (proposal flags it in risks — enforce it in the final piece); do not headline 'she laughs' as settled fact.",
+    "Reframe 'the laugh and the disbelief': incredulity ('woe to me... an old woman') is present in Hud 11:72 too. The clean, corpus-grounded contrast is between two physical GESTURES recorded across the two tellings (laughed vs. struck-her-face-in-a-cry), not joy-in-one-surah vs. disbelief-in-the-other. Avoid implying Hud lacks shock.",
+    "If the piece cites the صرر root's '6 verses', do not imply all six mean 'clamor' — 4 of 6 mean 'persist/be obstinate' and 1 means 'cold wind'; the clamor sense (صَرَّة) is in fact unique to 51:29. Either drop the count or state that the clamor sense itself is rare."
+  ],
+  "broken_claims": [],
+  "notes": "All load-bearing corpus facts confirmed exactly: صكك is a true hapax at 51:29; فضحكت at 11:71; صرر in exactly the 6 stated verses; 51:29 text matches; both verses are the same Ibrahim-guests annunciation (verbatim أوجس منهم خيفة parallel). No overlap with 185 published articles. Quran-only, no hadith payoff. Corrections are framing/nuance only — none breaks the reveal."
+}

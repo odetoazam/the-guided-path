@@ -5,6 +5,7 @@ const BASE = {
   headerArabic: 'مُوسَىٰ',
   headerLabel:  'Prophet Series',
   totalSlides:  5,
+  theme:        'dark',   // Musa — water, the sea, divine speech
 } as const;
 
 const slides: AnySlide[] = [

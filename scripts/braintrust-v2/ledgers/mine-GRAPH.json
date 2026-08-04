@@ -1,0 +1,128 @@
+{
+  "miner": "GRAPH",
+  "lens": "semantic-graph seams (edges-typed.json rare-root bridges, verified down to corpus)",
+  "run_date": "2026-07-16",
+  "method_note": "Started from scripts/graph-lab/edges-typed.json cross-surah lexical-root edges with min_df<=8, then verified every count against scripts/.corpus-cache/quranic-corpus.json (ROOT field) and node_modules/quran-validator/data/quran-verses.json (textSimple substring sweeps) via python3 scripts run this session. Every number below was produced by a script in-session.",
+  "insights": [
+    {
+      "id": "GRAPH-1",
+      "title_idea": "The Whisperer Who Retreats: Shaytan's Name in the Last Surah Is a Vanishing-Star Word",
+      "claim": "The root خنس (to shrink back, retreat) appears in exactly 2 verses of the Quran: 81:15, where al-khunnas are the retreating celestial bodies Allah swears by (paired with 'al-jawar al-kunnas' in 81:16), and 114:4, where al-khannas is the whisperer who retreats. Scope: ROOT field of the morphological corpus; 2 tokens, 2 verses.",
+      "evidence": "ROOT:خنس census = 2 tokens / 2 verses: 81:15 خُنَّسِ (N, LEM:خُنَّس) and 114:4 خَنَّاسِ (N, LEM:خَنّاس, ADJ). 81:15-16 context: 'fa-la uqsimu bil-khunnas, al-jawari al-kunnas'; 114:4: 'min sharri al-waswas al-khannas'.",
+      "refs": ["81:15", "114:4"],
+      "verify_method": "python3: load scripts/.corpus-cache/quranic-corpus.json; collect all segments where root == 'خنس'; expect exactly 2 tokens in verses 81:15 and 114:4. Print textSimple of 81:15-16 and 114:4 from node_modules/quran-validator/data/quran-verses.json for context.",
+      "overlap_note": "Nearest: /posts/weapons-against-waswasa and /posts/footsteps-of-shaytan (shaytan tactics). Neither touches the khunnas/khannas root link. None ships this reveal.",
+      "angle": "The Quran's final surah names shaytan with the same rare root it uses for stars that vanish when dawn comes — the whisperer disappears the way stars do when light shows up, and dhikr is the dawn."
+    },
+    {
+      "id": "GRAPH-2",
+      "title_idea": "Recite It Slowly: The Command Allah Describes Himself Doing First",
+      "claim": "The root رتل occurs in exactly 2 verses of the Quran, and they mirror each other: 25:32 'rattalnahu tartilan' — Allah describing His own delivery of the Quran — and 73:4 'rattil al-Qur'ana tartilan' — the command to the Prophet to recite it slowly. Both use the identical Form II verb (LEM:رَتَّلْ) plus the identical verbal noun tartil (LEM:تَرْتِيل). Scope: ROOT field; 4 tokens, 2 verses. Ordering claim is mushaf-position only, no chronology asserted.",
+      "evidence": "ROOT:رتل census = 4 tokens / 2 verses: 25:32 رَتَّلْ (PERF|VF:2|1P) + تَرْتِيلًا (VN), 73:4 رَتِّلِ (IMPV|VF:2|2MS) + تَرْتِيلًا (VN). 25:32 text: 'kadhalika linuthabbita bihi fu'adaka wa-rattalnahu tartila'; 73:4: 'wa-rattil al-qur'ana tartila'.",
+      "refs": ["25:32", "73:4"],
+      "verify_method": "python3: load quranic-corpus.json; collect segments with root == 'رتل'; expect 4 tokens in exactly 25:32 and 73:4; check features show VF:2 PERF 1P in 25:32 and VF:2 IMPV 2MS in 73:4, and both verses carry the VN تَرْتِيل.",
+      "overlap_note": "none — no published article on tartil or recitation pace.",
+      "angle": "Whatever tajwid class told you to slow down, the Quran itself only uses this word twice: once as a command to you, once as Allah saying He did it that way first — slow recitation is imitation of the divine delivery."
+    },
+    {
+      "id": "GRAPH-3",
+      "title_idea": "Borrowed Fire, Borrowed Light: The Word From Musa's Night That Comes Back on Judgment Day",
+      "claim": "The root قبس (a borrowed flame; to borrow fire/light) occurs in exactly 3 verses: 20:10 and 27:7, where Musa tells his family he hopes to bring them a qabas from the fire he sees, and 57:13, where the hypocrites on Judgment Day beg the believers 'let us borrow (naqtabis) from your light' — and are refused with a wall struck between them. Scope: ROOT field; 3 tokens, 3 verses.",
+      "evidence": "ROOT:قبس census = 3 tokens / 3 verses: 20:10 قَبَسٍ (N), 27:7 قَبَسٍ (N, 'bi-shihabin qabas'), 57:13 نَقْتَبِسْ (V, IMPF|VF:8). 57:13 context verified: hypocrites ask 'unzuruna naqtabis min nurikum', answer 'irji'u wara'akum fa-l-tamisu nura', then 'fa-duriba baynahum bi-surin lahu bab'.",
+      "refs": ["20:10", "27:7", "57:13"],
+      "verify_method": "python3: load quranic-corpus.json; collect segments with root == 'قبس'; expect exactly 3 tokens in 20:10, 27:7, 57:13. Read textSimple of 57:13 to confirm the borrow-light request and the wall.",
+      "overlap_note": "NEAR: /posts/musa-fire-three-tellings-quran ('The Night Musa Went to Borrow a Flame') owns the Musa-fire narrative and the borrow framing. This differs: the reveal is the root's third and final occurrence — the only other people in the Quran who ask to borrow light are the hypocrites at the wall, and they are turned away. Position as a sequel: the word's whole arc is Musa asked and got prophethood; they ask and get a door slammed.",
+      "angle": "The man who went to borrow a flame walked back with revelation; the people who ask to borrow light on the Last Day get a wall — same rare word, opposite endings, and the difference was when you asked."
+    },
+    {
+      "id": "GRAPH-4",
+      "title_idea": "You Are the Deposit: The Quran's Pawn Word Appears Three Times",
+      "claim": "The root رهن (pledge/collateral) occurs in exactly 3 verses: 2:283, the debt-law verse where goods are handed over as security (rihan maqbudah); 52:21, 'every person is held in pledge (rahin) for what he earned'; and 74:38, 'every soul is held in pledge (rahinah) for what it earned.' Its one commercial use has goods as the deposit; its two hereafter uses make the person the deposit. Scope: ROOT field; 3 tokens, 3 verses.",
+      "evidence": "ROOT:رهن census = 3 tokens / 3 verses: 2:283 رِهَٰنٌ (LEM:رِهان, MP), 52:21 رَهِينٌ (LEM:رَهِين), 74:38 رَهِينَةٌ (LEM:رَهِينَة). Texts verified: 2:283 'fa-rihanun maqbudah' in the no-scribe-while-traveling clause; 52:21 'kullu imri'in bima kasaba rahin'; 74:38 'kullu nafsin bima kasabat rahinah'.",
+      "refs": ["2:283", "52:21", "74:38"],
+      "verify_method": "python3: load quranic-corpus.json; collect segments with root == 'رهن'; expect exactly 3 tokens in 2:283, 52:21, 74:38. Confirm contexts in quran-verses.json textSimple.",
+      "overlap_note": "none — no published article touches rahn/collateral.",
+      "angle": "In the Quran's one verse about collateral you hand over your goods until the debt clears; in the other two uses of the same word, the thing sitting in the vault is you — held against a debt only your own deeds can redeem."
+    },
+    {
+      "id": "GRAPH-5",
+      "title_idea": "The Word for Swallowing What You Feel: All Six Times the Quran Uses It",
+      "claim": "The root كظم (to choke back, suppress) occurs in exactly 6 verses: 3:134 (those who swallow their anger — praised, al-kazimin al-ghayz), 12:84 (Ya'qub, kazim with grief over Yusuf), 16:58 and 43:17 (the man told his newborn is a girl — 'his face darkens and he is kazim' — an identical 5-word sentence in both verses), 40:18 (Judgment Day: hearts at the throats, kazimin), and 68:48 (Yunus, makzum inside the fish). Scope: ROOT field; 6 tokens, 6 verses. The 16:58/43:17 repetition is an exact textSimple substring match found in exactly those 2 verses.",
+      "evidence": "ROOT:كظم census = 6 tokens / 6 verses: 3:134 كَٰظِمِينَ, 12:84 كَظِيمٌ, 16:58 كَظِيمٌ, 40:18 كَٰظِمِينَ, 43:17 كَظِيمٌ, 68:48 مَكْظُومٌ. Substring 'ظل وجهه مسودا وهو كظيم' matches exactly 2 verses: 16:58, 43:17.",
+      "refs": ["3:134", "12:84", "16:58", "40:18", "43:17", "68:48"],
+      "verify_method": "python3: load quranic-corpus.json; collect segments with root == 'كظم'; expect 6 tokens in the 6 listed verses. Then sweep quran-verses.json textSimple for substring 'ظل وجهه مسودا وهو كظيم'; expect hits only at 16:58 and 43:17.",
+      "overlap_note": "NEAR: /posts/the-father-who-waited-yaqub-and-the-grief-that-became-blindness and /posts/sabr-jamil cover Ya'qub's grief (one of the six). This differs: it is a full census of one bodily word — praised in one verse, embodied by a prophet in two, and diagnosed in the daughter-news idolater in two — showing the Quran distinguishes swallowing anger (praised) from swallowing shame (condemned context) with the same muscle.",
+      "angle": "The Quran has one word for choking your feelings down, and its six uses split cleanly: swallow your anger and you're praised; swallow your grief and you're Ya'qub; swallow your shame at a daughter and you're the verse's villain — same throat, different verdicts."
+    },
+    {
+      "id": "GRAPH-6",
+      "title_idea": "Hearts in Throats: The Quran Uses This Image Exactly Twice",
+      "claim": "The word hanajir (throats, root حنجر) occurs in exactly 2 verses: 33:10, describing the believers at the siege of the Trench ('when hearts reached the throats'), and 40:18, describing everyone on the approaching Day ('hearts at the throats, choking'). Scope: ROOT field; 2 tokens, 2 verses; substring 'الحناجر' also matches exactly these 2 verses.",
+      "evidence": "ROOT:حنجر census = 2 tokens / 2 verses: 33:10 حَنَاجِرَ, 40:18 حَنَاجِرِ. textSimple substring 'الحناجر' -> ['33:10','40:18']. Bonus corpus fact: 40:18 also carries كَٰظِمِينَ (root كظم), linking it to the swallowed-feelings census.",
+      "refs": ["33:10", "40:18"],
+      "verify_method": "python3: load quranic-corpus.json; collect segments with root == 'حنجر'; expect exactly 33:10 and 40:18. Sweep quran-verses.json textSimple for 'الحناجر'; expect the same 2 verses.",
+      "overlap_note": "none — no published article on the hanajir pair or the Trench/Judgment mirror.",
+      "angle": "The Quran's most physical image of fear appears twice: once on the believers' worst day in this world — a day they survived — and once on the Day everyone meets; the first time is given to you as a rehearsal you can actually study."
+    },
+    {
+      "id": "GRAPH-7",
+      "title_idea": "Barzakh: The Word for Where the Dead Wait Is an Ocean Word",
+      "claim": "Barzakh occurs exactly 3 times in the Quran, and two of the three are about seawater: 25:53 and 55:20 describe the unseen barrier that keeps two seas — sweet and salt — from mixing as they meet; 23:100 names the barrier behind the dead 'until the Day they are raised.' Scope: ROOT field (root برزخ); 3 tokens, 3 verses.",
+      "evidence": "ROOT:برزخ census = 3 tokens / 3 verses: 23:100 بَرْزَخٌ, 25:53 بَرْزَخًا, 55:20 بَرْزَخٌ. Contexts verified: 25:53 'maraja al-bahrayni... wa-ja'ala baynahuma barzakhan'; 55:20 'baynahuma barzakhun la yabghiyan'; 23:100 'wa-min wara'ihim barzakhun ila yawmi yub'athun'.",
+      "refs": ["23:100", "25:53", "55:20"],
+      "verify_method": "python3: load quranic-corpus.json; collect segments with root == 'برزخ'; expect exactly 3 tokens in 23:100, 25:53, 55:20. Confirm the two-seas context in textSimple of 25:53 and 55:19-20.",
+      "overlap_note": "none — no published article on barzakh; the enclosed-spaces article (/posts/quran-enclosed-spaces-well-cave-whale-fire) is about narrative spaces, not this word.",
+      "angle": "Before the Quran uses 'barzakh' for the wait between death and resurrection, it points at it twice in nature — the invisible wall where two seas touch and never mix — so the word for your own waiting room is something you can go stand on a shore and watch working."
+    },
+    {
+      "id": "GRAPH-8",
+      "title_idea": "The Greed You're Born Holding — and the Sentence the Quran Repeats Word for Word About It",
+      "claim": "The root شحح (shuhh, clinging greed of the soul) occurs in exactly 4 verses: 4:128 ('souls are made ever-present with shuhh' — it is the default state), 33:19 (the hypocrites, ashihhah, twice in the one verse), and 59:9 and 64:16, which both end with the identical sentence 'wa man yuqa shuhha nafsihi fa-ula'ika hum al-muflihun' — 'whoever is protected from the shuhh of his own soul, those are the successful.' The verb yuqa is passive: protection is received, not achieved. Scope: ROOT field, 5 tokens / 4 verses; the repeated sentence is an exact textSimple substring found in exactly those 2 verses.",
+      "evidence": "ROOT:شحح census = 5 tokens / 4 verses: 4:128 شُّحَّ, 33:19 أَشِحَّةً ×2, 59:9 شُحَّ, 64:16 شُحَّ. Substring 'ومن يوق شح نفسه فاولايك هم المفلحون' -> exactly ['59:9','64:16']. 4:128 context: 'wa-uhdirat al-anfusu al-shuhh'.",
+      "refs": ["4:128", "33:19", "59:9", "64:16"],
+      "verify_method": "python3: load quranic-corpus.json; collect segments with root == 'شحح'; expect 5 tokens across 4:128, 33:19 (x2), 59:9, 64:16. Sweep textSimple for the full sentence 'ومن يوق شح نفسه فاولايك هم المفلحون'; expect exactly 59:9 and 64:16. Note morphology of يوق (passive) via the verse text / corpus features.",
+      "overlap_note": "none — bukhl/stinginess root has no published article either; nearest is the infaq material inside taqwa/rizq articles, which never treats shuhh.",
+      "angle": "One verse says this greed comes pre-installed in every soul, and the Quran's twice-repeated verdict sentence uses a passive verb — you don't beat your greed, you get shielded from it, which changes what you ask for."
+    },
+    {
+      "id": "GRAPH-9",
+      "title_idea": "Shaken: The Quran's Earthquake Verb Hits Believers Twice and the Earth Once",
+      "claim": "The verb from root زلزل (to quake) occurs 3 times in the Quran, always passive: 99:1, where the earth is shaken (zulzilat), and 2:214 and 33:11, where it is the believers who are shaken (zulzilu) — in 2:214 shaken until the Messenger himself says 'when is Allah's help coming?', and in 33:11 at the Trench, 'shaken with a severe shaking.' Counting the noun too, the root appears in exactly 4 verses (add 22:1, the zalzalah of the Hour). Scope: ROOT field, verb vs noun split stated explicitly; 6 tokens, 4 verses.",
+      "evidence": "ROOT:زلزل census = 6 tokens / 4 verses: verbs (all PERF|PASS): 2:214 زُلْزِلُ (3MP), 33:11 زُلْزِلُ (3MP), 99:1 زُلْزِلَتِ (3FS); nouns: 22:1 زَلْزَلَةَ, 33:11 زِلْزَالًا, 99:1 زِلْزَالَ. Contexts verified: 2:214 'wa-zulzilu hatta yaqula al-rasul... mata nasru Allah'; 33:11 'hunalika ubtuliya al-mu'minuna wa-zulzilu zilzalan shadida'.",
+      "refs": ["2:214", "22:1", "33:11", "99:1"],
+      "verify_method": "python3: load quranic-corpus.json; collect segments with root == 'زلزل'; split by pos V vs N; expect 3 passive verbs (2:214, 33:11, 99:1) and 3 nouns (22:1, 33:11, 99:1). Confirm PASS in features for all three verbs.",
+      "overlap_note": "none — /posts/al-qiyamah-mountains-move is about mountains on the Day, not the zalzala verb applied to believers.",
+      "angle": "Everyone knows Surah Az-Zalzalah, where the ground shakes — but the Quran uses that exact verb on people twice and on the planet once, and one of the people-verses says the shaking got bad enough that a prophet asked where God's help was; being shaken is written into the believer's job description, not a sign you failed it."
+    },
+    {
+      "id": "GRAPH-10",
+      "title_idea": "The Mustard Seed Appears Twice: Once on God's Scales, Once in a Father's Advice",
+      "claim": "Khardal (mustard seed) occurs in exactly 2 verses, inside the identical phrase 'mithqala habbatin min khardal' (the weight of a mustard seed): 21:47, describing the scales of the Day of Judgment that miss nothing of that weight, and 31:16, where Luqman tells his son that a deed of that weight — hidden in a rock, in the heavens, or in the earth — Allah will bring out. Scope: ROOT field for the count; exact textSimple substring for the shared phrase (2 verses).",
+      "evidence": "ROOT:خردل census = 2 tokens / 2 verses: 21:47, 31:16. Substring 'مثقال حبة من خردل' -> exactly ['21:47','31:16']. 21:47 is the mawazin (scales) verse; 31:16 opens 'ya bunayya' (O my dear son).",
+      "refs": ["21:47", "31:16"],
+      "verify_method": "python3: load quranic-corpus.json; collect segments with root == 'خردل'; expect exactly 21:47 and 31:16. Sweep textSimple for 'مثقال حبة من خردل'; expect the same 2 verses.",
+      "overlap_note": "NEAR: /posts/mizan-weighing-day-of-judgment covers the scales generally. This differs: the reveal is the two-occurrence exactness and the register split — the courtroom's unit of measure is taught the other time by a father to his boy, gently, before the courtroom ever convenes.",
+      "angle": "The unit of measure the Last Day's scales will use appears exactly one other time in the Quran — in a father's quiet advice to his son — which means the syllabus for the final exam was handed out at home."
+    },
+    {
+      "id": "GRAPH-11",
+      "title_idea": "Maqt: The Disgust Word the Quran Uses in Five Verses — Once for How the Damned Feel About Themselves",
+      "claim": "The root مقت (loathing, abhorrence) occurs in exactly 5 verses (6 tokens): 4:22 (marrying your father's former wife 'was a fahishah and maqt'), 35:39 (disbelief increases its people only in maqt before their Lord), 40:35 (those who argue against Allah's signs without warrant — 'great is the maqt'), 61:3 ('great is the maqt with Allah that you say what you do not do'), and 40:10, the only verse with the word twice: 'Allah's maqt of you is greater than your maqt of yourselves' — addressed to the damned, presupposing they already loathe themselves. Scope: ROOT field.",
+      "evidence": "ROOT:مقت census = 6 tokens / 5 verses: 4:22, 35:39, 40:10 (مَقْتُ + مَّقْتِ), 40:35, 61:3. 40:10 text verified: 'la-maqtu Allahi akbaru min maqtikum anfusakum idh tud'awna ila al-imani fa-takfurun'. 61:3 verified: 'kabura maqtan inda Allahi an taqulu ma la taf'alun'.",
+      "refs": ["4:22", "35:39", "40:10", "40:35", "61:3"],
+      "verify_method": "python3: load quranic-corpus.json; collect segments with root == 'مقت'; expect 6 tokens across the 5 listed verses, with 40:10 carrying 2. Print textSimple of all 5 for context.",
+      "overlap_note": "none — no published article on maqt.",
+      "angle": "Make the short list of what actually triggers the Quran's word for divine disgust and one entry stops you cold: saying what you don't do sits on the same five-verse list as incest-adjacent marriage and outright disbelief — and the list's only doubled use says the damned will hate themselves before they learn God's hatred was greater."
+    },
+    {
+      "id": "GRAPH-12",
+      "title_idea": "Sarsar: The Wind Word the Quran Reserves for Exactly One People",
+      "claim": "Sarsar (a furious, shrieking wind, root صرصر) occurs in exactly 3 verses — 41:16, 54:19, 69:6 — and in all three it describes the wind sent on the people of 'Ad and no one else (context verified: 41:15 names 'Ad, 54:18 names 'Ad, 69:6 opens 'wa-amma 'Adun'). The two-word phrase 'rihan sarsaran' repeats verbatim in 41:16 and 54:19. Scope: ROOT field for the count; textSimple for the contexts and phrase.",
+      "evidence": "ROOT:صرصر census = 3 tokens / 3 verses: 41:16 صَرْصَرًا, 54:19 صَرْصَرًا, 69:6 صَرْصَرٍ. Substring 'ريحا صرصرا' -> exactly ['41:16','54:19']. 'Ad attribution verified in 41:15, 54:18, 69:4-6 textSimple.",
+      "refs": ["41:16", "54:19", "69:6"],
+      "verify_method": "python3: load quranic-corpus.json; collect segments with root == 'صرصر'; expect exactly 3 tokens in 41:16, 54:19, 69:6. Print textSimple of 41:15-16, 54:18-19, 69:4-6 to confirm every occurrence sits in an 'Ad passage.",
+      "overlap_note": "NEAR: /posts/hud-and-ad-when-the-wind-became-the-message tells the 'Ad wind story. This differs: the reveal is corpus-exclusivity of the word itself — a vocabulary item locked to one nation across three surahs — which the narrative article does not claim. If the braintrust judges the overlap too close, drop this one first; the other 11 are clean.",
+      "angle": "The Quran keeps a special word for wind that it spends on exactly one nation — the people who bragged 'who is stronger than us?' got a wind with its own name, used three times and never lent to anyone else."
+    }
+  ]
+}

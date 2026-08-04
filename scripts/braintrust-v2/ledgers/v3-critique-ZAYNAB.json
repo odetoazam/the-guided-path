@@ -1,0 +1,169 @@
+{
+  "advisor": "ZAYNAB",
+  "role": "Arabic linguistics & classical balaghah; iltifat specialist",
+  "date": "2026-07-21",
+  "critiques": [
+    {
+      "proposal_id": "HASAN-1",
+      "accuracy": 8,
+      "freshness": 7,
+      "audience": 7,
+      "shippability": 7,
+      "fatal": false,
+      "notes": "The dropped relay at 2:186 is real and classically noted, but be exact: the frame is 'wa idha sa'alaka ibadi' — perfect-tense sa'alaka, not the yas'alunaka of the other question-verses — so define the set being compared or a careful reader catches the seam. Strike 'the most intimate sentence in the Book'; superlatives are not warrant. The 23:108 pairing is homiletic symmetry — adequately hedged, but KHALID-3's single-exhibit version is the leaner, safer execution of the same discovery."
+    },
+    {
+      "proposal_id": "HASAN-2",
+      "accuracy": 6,
+      "freshness": 4,
+      "audience": 6,
+      "shippability": 5,
+      "fatal": false,
+      "notes": "The ma-as-mahiyyah point is genuinely classical — al-Razi carries it — but the title is wrong on its face: Pharaoh asked MUSA, and Musa answered; God answers only in the Nuh half. That asymmetry breaks the 'God answered a different question' through-line before the first paragraph. And the published throne-room piece already walks 26:23-29 'word by word' — the freshness claim rests on the site not having said what it very likely has already said."
+    },
+    {
+      "proposal_id": "HASAN-3",
+      "accuracy": 9,
+      "freshness": 8,
+      "audience": 8,
+      "shippability": 9,
+      "fatal": false,
+      "notes": "This is my dissertation territory and the claim survives me: 10:22 is the shahid the balaghah manuals themselves reach for — iltifat min al-khitab ila al-ghaybah, with Jalalayn's note on the clause and al-Zamakhshari's extended treatment in al-Kashshaf. Name the category and the direction precisely (second person to third at 'jarayna bihim'; the storm speech is the sailors turning TO God, not God turning back), and note al-Zamakhshari's classical rationale for the turn is i'rad — recounting their ingratitude to others — before layering the modern distance-of-the-heart reading. Keep the cross-passage map in its flagged section and this is the most defensible piece in the pool."
+    },
+    {
+      "proposal_id": "HASAN-4",
+      "accuracy": 9,
+      "freshness": 8,
+      "audience": 8,
+      "shippability": 8,
+      "fatal": false,
+      "notes": "The morphology is exactly right and sits inside a single verse: 20:121 opens with dual 'akalaa' and closes with singular ''asaa Adamu' — mechanically checkable. Add 20:120, where the waswasa comes 'ilayhi' — to him alone — it strengthens the case for free. One precision the piece must carry: Arabic has no first-person dual, so the 7:23 'we' is the grammar's only way for two people to confess together — say it, or readers over-read the plural."
+    },
+    {
+      "proposal_id": "HASAN-5",
+      "accuracy": 8,
+      "freshness": 7,
+      "audience": 7,
+      "shippability": 8,
+      "fatal": false,
+      "notes": "Tanzil ghayr al-'aqil manzilat al-'aqil is real balaghah with al-Zamakhshari and Abu Hayyan behind it, and the 12:100 fulfillment is textually explicit — correct two-tier plan. But the exhibit label ILTIFAT-3 is a category error: rational-agreement treatment is tanzil, not iltifat, which is a shift in reference to the same referent. The article must never use the word for it, or I will be the one correcting it publicly."
+    },
+    {
+      "proposal_id": "HASAN-6",
+      "accuracy": 8,
+      "freshness": 7,
+      "audience": 8,
+      "shippability": 7,
+      "fatal": false,
+      "notes": "The ihdina-to-hudan seam is attested munasaba and the Hafs-count hedge is the right instinct. But bundling the 1:5 iltifat and the ring-center framing on top of the seam makes two half-articles wearing one title — the 1:5 turn is THE textbook iltifat and deserves its own piece done properly, and the ring must not borrow the munasaba's classical authority. Of the three versions of this seam in the pool, YASMIN-6's single-exhibit execution is the one I would ship."
+    },
+    {
+      "proposal_id": "YASMIN-1",
+      "accuracy": 8,
+      "freshness": 8,
+      "audience": 9,
+      "shippability": 8,
+      "fatal": false,
+      "notes": "The grammar is checkable and correct, and the reception-vs-text framing (blame-on-Eve as Christian-inflected culture, Genesis 3's own deflection chain) is the honest comparative register. But 'if the disobedience-verb lands anywhere, it lands on the man' edges toward the transferred-blame overswing HASAN-4's risk note rightly forbids — 20:122 records ijtaba and tawbah immediately, and the piece must end on the joint 7:23 confession, not a re-aimed verdict. Strongest audience fit in the batch; the discipline is the whole game."
+    },
+    {
+      "proposal_id": "YASMIN-2",
+      "accuracy": 7,
+      "freshness": 3,
+      "audience": 7,
+      "shippability": 3,
+      "fatal": true,
+      "notes": "Dual aslamaa, passive tu'mar, the interrogative unzur — all correct at my layers. But the overlap correction corrects the wrong overlap: the published 'The Son Who Said: Do What You Are Commanded' is a direct hit on this exact scene and this exact line, and it goes unmentioned while only the sabr piece is cited. As proposed, this fails the site's own dead-on-arrival rule; it cannot ship until someone reads that article and proves the structural layer is genuinely unclaimed."
+    },
+    {
+      "proposal_id": "YASMIN-3",
+      "accuracy": 7,
+      "freshness": 3,
+      "audience": 6,
+      "shippability": 4,
+      "fatal": false,
+      "notes": "The site already owns this reveal three times over — 'Ya'qub's Intuition: The Father Who Knew What He Could Not Prove' IS 'he never once believed the lie', flanked by the grief-blindness and sabr-jamil pieces. What remains new is only the Genesis frame, and the piece has almost no morphological spine to justify itself as analysis rather than retelling. Weakest warrant-to-novelty ratio in the pool."
+    },
+    {
+      "proposal_id": "YASMIN-4",
+      "accuracy": 8,
+      "freshness": 8,
+      "audience": 8,
+      "shippability": 7,
+      "fatal": false,
+      "notes": "Genuinely empty node, and the full-quotation discipline on 5:32 — exception clause, Bani Isra'il address, attributed universalization — is precisely the house bar. One standing correction of mine applies: if the piece touches ka-annama, it is an emphatic tashbih functioning near equivalence, not 'ontological reality' — al-Tabari and Ibn Kathir keep the simile grammatically alive. The Mishnah Sanhedrin 4:5 acknowledgment is honesty, not concession; keep it."
+    },
+    {
+      "proposal_id": "YASMIN-5",
+      "accuracy": 9,
+      "freshness": 7,
+      "audience": 7,
+      "shippability": 8,
+      "fatal": false,
+      "notes": "The best-executed of the three Yusuf-ring versions: it states the grounding asymmetry in so many words — the ring classical and textually explicit, the agreement-reading resting on the named balaghah tradition rather than the bundled tafsirs. Same warning as HASAN-5: the ILTIFAT-3 tag is taxonomically wrong (tanzil, not iltifat) and the word must not appear in prose for the agreement point. Keep both structures in one arc as proposed, or it splits."
+    },
+    {
+      "proposal_id": "YASMIN-6",
+      "accuracy": 9,
+      "freshness": 8,
+      "audience": 9,
+      "shippability": 9,
+      "fatal": false,
+      "notes": "The cleanest of the three Fatiha-seam versions: one exhibit, verse-numbering arithmetic sidestepped by construction ('closing request / first content-sentence'), and an explicit refusal to inflate from attributed seam-reading into a global compositional theory. The root-echo is mechanically checkable and the munasaba attribution holds. This is the execution to ship; retire the other two into it."
+    },
+    {
+      "proposal_id": "KHALID-1",
+      "accuracy": 8,
+      "freshness": 8,
+      "audience": 8,
+      "shippability": 8,
+      "fatal": false,
+      "notes": "Sound on every layer and correctly restrained about its own length — the reveal is ninety seconds and should stay so. YASMIN-6's version hedges the inflation risk slightly more carefully; whichever ships, do not let 'the rest of the Quran is the reply' harden from attributed reading into structural law. One of the three must absorb the other two."
+    },
+    {
+      "proposal_id": "KHALID-2",
+      "accuracy": 9,
+      "freshness": 8,
+      "audience": 8,
+      "shippability": 8,
+      "fatal": false,
+      "notes": "Correct at all three of my layers, and 'fihi iltifat' verbatim in Jalalayn is exactly the kind of citation that survives hostile checking. Identical territory to HASAN-3 — merge them; the resulting article must name the category and the direction (khitab to ghaybah), not just say 'the grammar changes'. The screenshot line is good precisely because the morphology underneath it is real."
+    },
+    {
+      "proposal_id": "KHALID-3",
+      "accuracy": 8,
+      "freshness": 8,
+      "audience": 8,
+      "shippability": 8,
+      "fatal": false,
+      "notes": "The census holds, and carrying 79:42 openly is what makes it hold. One precision the piece must state: 2:186's frame verb is 'idha sa'alaka' — different form and tense from yas'alunaka — so define the census set honestly or the exception structure wobbles. The hedge discipline written into the proposal is already at the right level; this is the leanest execution of the 2:186 material and the one I prefer over HASAN-1's paired version."
+    },
+    {
+      "proposal_id": "KHALID-4",
+      "accuracy": 8,
+      "freshness": 8,
+      "audience": 9,
+      "shippability": 8,
+      "fatal": false,
+      "notes": "The shareable triplet — dual act, plural confession, singular blame-verb — is accurate and mechanically verifiable, which is why it will travel. Same required footnote as HASAN-4: first-person Arabic has no dual, so the plural 'we' at 7:23 is the only grammar available to two confessors — one sentence, and the triplet becomes unassailable. Three advisors converged on INTERTEXT-1; that convergence is the signal to ship exactly one careful version, with YASMIN-1's reception-vs-text guardrail."
+    },
+    {
+      "proposal_id": "KHALID-5",
+      "accuracy": 8,
+      "freshness": 7,
+      "audience": 7,
+      "shippability": 8,
+      "fatal": false,
+      "notes": "The one-sentence grounding note (bundled tafsirs silent, named balaghah tradition carrying the agreement point) is the right honesty, and the ring diagram is the pool's best visual asset. Same taxonomy correction as the other two versions: agreement-shift is tanzil, not iltifat — do not let the internal exhibit label leak into prose. Verify against the shipped yusuf-decree piece at draft time as proposed."
+    },
+    {
+      "proposal_id": "KHALID-6",
+      "accuracy": 8,
+      "freshness": 8,
+      "audience": 8,
+      "shippability": 8,
+      "fatal": false,
+      "notes": "The Ma'un-to-Kawthar correspondence is attested in the tafsir tradition and the two-flag plan (pairing classical, inna-bracket modern) is correct and honest. One lexical precision: wanhar is 'sacrifice', not 'give' — the giving lives inside the nahr, and flattening it costs the verse its concreteness for one cheap symmetry. Render it exactly and the disease-cure reading gets stronger, not weaker."
+    }
+  ]
+}

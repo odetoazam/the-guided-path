@@ -1,0 +1,98 @@
+{
+  "run": "braintrust-v2 2026-07-16",
+  "role": "editorial-deliberator",
+  "portfolio_design_goals": {
+    "acquisition_search_doorway": "HASAN-6",
+    "classical_recovery_flagship": "HASAN-6 (also serves this role) + KHALID-4 (dahikat ikhtilaf recovery)",
+    "high_shareability": ["ZAYNAB-1", "KHALID-4"],
+    "mechanism_diversity_check": "3 distinct mechanisms: contested-phrase+tafsir-idiom (HASAN-6), verb voice-flip census (ZAYNAB-1), cross-telling scene-reaction + hapax (KHALID-4). No three-of-one-mechanism."
+  },
+  "duplicate_resolution": {
+    "shove_voice_flip_twins": {
+      "candidates": ["ZAYNAB-1", "KHALID-1", "YASMIN-6"],
+      "chosen": "ZAYNAB-1",
+      "reason": "Highest avg_critique (32.67). Balaghah advisor's own piece (morphology credibility). Its framing rests on the verb/voice, NOT textual sequence, so it sidesteps the mushaf-order trap that forces a MANDATORY correction on KHALID-1 (which falsely claims 107:2 is first; passive 52:13 actually precedes). Cleanest moral-screenshot title. KHALID-1 and YASMIN-6 are superseded duplicates — ship one, not three.",
+      "superseded": ["KHALID-1", "YASMIN-6"]
+    },
+    "queen_musa_phrase_twins": {
+      "candidates": ["KHALID-2", "YASMIN-3"],
+      "chosen_for_reserve": "KHALID-2",
+      "reason": "Adds the verifiable two-word-core bonus ('zalamtu nafsi' unique to the same two verses) and a sharper low-shame on-ramp headline. YASMIN-3 is its twin — ship one. Both are RESERVE, not recommended: strong permission-genre but the zulm-al-nafs page already touches this vocabulary, and HASAN-6 is the stronger doorway.",
+      "superseded": ["YASMIN-3"]
+    }
+  },
+  "recommended": [
+    {
+      "proposal_id": "HASAN-6",
+      "title": "The Four Words People Read as a Curse — and What the Mufassirun Actually Said",
+      "role": "acquisition / search-doorway + classical-recovery flagship",
+      "mechanism": "contested-phrase pairing (9:30 / 63:4) + classical idiom recovery",
+      "gap_filled": "Catalog has 185 pieces — many concept/root/pairing/story pieces — but the only contested-adversarial-quotation piece is the 9:5 sword-verse (line 25), a different verse and mechanism. No piece turns a weaponized phrase into named classical lexical honesty. This is the highest-intent acquisition doorway: Amina and Yusuf both arrive via contested-verse search.",
+      "personas": {"amina": 5, "khalil": 5, "sara": 3, "yusuf": 5},
+      "persona_rationale": "Amina 5: contested-verse search is her literal arrival path; the difficulty is acknowledged then the classical range shown — the release she describes. Khalil 5: named mufassirun + ikhtilaf-honest lexical treatment = his 'would I cite this on Reddit' bar. Yusuf 5: citable rigor, engages the adversarial quotation on its own terms rather than papering over it. Sara 3: adult register; the munafiqun/deification context is heavier than a car-conversation with Layla.",
+      "corrections_to_apply": "1) Drop the exhibit's unverifiable 'harshest curse' superlative (لعنهم الله appears 7x, لعنة الله 5x, plus qutila-imprecations at 80:17/51:10/85:4) — also required by house 'no superlatives' rule; the thesis's own 'gets quoted as a curse' wording is already safe. 2) Split the two clauses cleanly: the curse proper is the 2-word qatalahumu-llah; the astonishment gloss 'how deluded they are' belongs to anna yu'fakun, which recurs CURSE-FREE at 5:75, 29:61, 43:87 — use those as positive evidence for the idiom, never conflate. 3) Note قاتل is Form III (war/fight-against), not Form I 'kill'; transliterate 'qātalahum' (long a) — the Form III fact strengthens the non-literal idiom argument. 4) Cite named mufassirun in-body (al-Tabari, al-Qurtubi, al-Zamakhshari); present the RANGE (imprecation used idiomatically for astonishment/rebuke) WITHOUT softening that both verses remain severe condemnations; verify quotes at draft time. 5) 'those who called a prophet the son of God' fits Isa cleanly but is looser for Uzayr (prophet-status debated) — phrase carefully; 'first and last in mushaf order' is trivially true for a 2-element set, use as color only, do not imply deliberate bracketing. Scope: exact phrase قاتلهم الله انى يوفكون = {9:30, 63:4}, both verse-final; core pairing is Quran-only, idiom payoff flagged as tafsir.",
+      "skeptic_verdict": "SURVIVES"
+    },
+    {
+      "proposal_id": "ZAYNAB-1",
+      "title": "You Shove the Orphan Away. The Same Verb Shoves You Into the Fire.",
+      "role": "high-shareability (single-screenshot moral punch) + morphology-carries-meaning for the rigor readers",
+      "mechanism": "verb voice-flip census (root د-ع-ع, 2 verb tokens: 107:2 active / 52:13 passive)",
+      "gap_filled": "The voice-flip FORM is published (budge-root زحزح, line 6) but this CONTENT is new and morally sharper — the strongest untouched voice-flip case, zero Arabic prerequisite, a one-sentence WhatsApp forward. Fills the 'grammar itself carries the meaning' shareable unit with fresh, moral content.",
+      "personas": {"amina": 4, "khalil": 5, "sara": 5, "yusuf": 4},
+      "persona_rationale": "Sara 5: a vivid, checkable single grammatical fact she can say to a teenager about treating the vulnerable — her WhatsApp forward. Khalil 5: a clean root census (2 verbs, 1 non-verb named) with the morphological argument shown in English — the tool he's missing. Amina 4: payoff lands with no Arabic tax; permission to see the Quran read WITH her. Yusuf 4: morphologically exact under a teen-readable surface, usable in MSA.",
+      "corrections_to_apply": "1) MORPHOLOGY: not 'same aspect, only voice differs' — 107:2 is 3MS (singular active يَدُعُّ), 52:13 is 3MP (plural passive يُدَعّونَ). State active→passive voice flip WITH a singular→plural number shift (the single shover answered by the plural shoved). 2) 'THE SAME PEOPLE' / 'the hand that pushes becomes the body that is pushed' is a moral/contrapasso RESONANCE, not a Quranic identity claim — the subjects are textually distinct. Earn the link honestly via shared root كذب: both are deniers of the din (107:1 يكذب بالدين; 52:11 المكذبين; 52:14 كنتم بها تكذبون). Do not assert the Quran identifies the same individuals. 3) SCOPE: keep the 'as a verb' qualifier on 'only twice' — a 3rd token, verbal noun دَعًا at 52:13, exists. 4) Differentiate from the published زحزح voice-flip template (novelty is the moral content, not the form) and position so it does NOT duplicate the verified-pool BRACKET-10 use of 107:2 (يتم/كذب census). No folk-phonetics on the doubled ʿayn — the point is voice, not sound. 5) State the two facts and let the resonance show; do not claim the Quran 'designed' a rhyme; no superlatives.",
+      "skeptic_verdict": "SURVIVES"
+    },
+    {
+      "proposal_id": "KHALID-4",
+      "title": "The Angels Tell Ibrahim's Wife She'll Have a Son — She Laughs in One Surah and Slaps Her Own Face in Another",
+      "role": "high-shareability (warm, human, woman-centered) + classical ikhtilaf recovery (dahikat)",
+      "mechanism": "cross-telling scene-reaction contrast (11:71 / 51:29) + hapax (sakkat, root ص-ك-ك)",
+      "gap_filled": "Catalog is dense with woman-centered pieces — Maryam (multiple), Asiya, Bilqis, mother of Musa, women of Egypt — all reverent and theological. NONE shows a matriarch's raw, un-airbrushed startled reaction. Different register (warm, almost funny), high forwardability; fills the 'permission to be human' + non-solemn woman-centered gap.",
+      "personas": {"amina": 5, "khalil": 4, "sara": 5, "yusuf": 3},
+      "persona_rationale": "Sara 5: a warm, forwardable moment she can read with Layla — scripture keeping an un-airbrushed reaction models honesty. Amina 5: warmth pulls the reconnector back; a real woman, not a lesson. Khalil 4: a verified hapax and a same-scene proof (أوجس منهم خيفة verbatim in both tellings) with the dahikat ikhtilaf named. Yusuf 3: less citational payoff, but the ikhtilaf handling is teachable.",
+      "corrections_to_apply": "1) Keep the dahikat 'laughed vs. menstruated' ikhtilaf visible in published copy; do not present 'she laughs' as the settled or only reading. 2) Reframe 'the laugh and the disbelief': incredulity is present in Hud too (11:72 'woe to me, shall I bear while I am an old woman'). The clean, corpus-grounded contrast is between two physical GESTURES preserved across the two tellings (she laughed / she struck her own face in a cry), NOT joy-in-one-surah vs. disbelief-in-the-other — do not imply Hud lacks shock. 3) If citing the ص-ر-ر root's 6 verses, do not imply all mean 'clamor' — 4 mean persist/be-obstinate, 1 (3:117) means cold wind; the clamor sense (صَرّة) is in fact unique to 51:29 — either drop the count or state the clamor sense itself is rare. 4) Keep صكك (sakkat, hapax at 51:29) and ضحك (present at 11:71) roots distinct in prose; ground the same-annunciation claim on أوجس منهم خيفة (verbatim in 11:70 and 51:28); 'Sarah' is extra-Quranic — keep the name out of the payoff, use 'Ibrahim's wife'. No superlatives.",
+      "skeptic_verdict": "SURVIVES"
+    }
+  ],
+  "reserve": [
+    {
+      "proposal_id": "KHALID-2",
+      "title": "A Pagan Queen and a Future Prophet Say the Exact Same Four Words: 'My Lord, I Have Wronged Myself'",
+      "rank": 1,
+      "why": "Strongest reserve and closest to promotion. Permission-genre, Amina's exact need (low-shame on-ramp), verifiable exact phrase {27:44, 28:16} with the two-word-core bonus. Held out because it is a third mechanism only adjacent to the recommended, freshness is dented by the published zulm-al-nafs page, and HASAN-6 is the stronger doorway. Twin of YASMIN-3 (ship one). Corrections if promoted: use 'Queen of Sheba' not the tafsir name 'Bilqis'; frame paganism as her STARTING POINT (she speaks the line mid-submission, 27:44 واسلمت); anchor 'four words' to the Arabic (رب/اني/ظلمت/نفسي); keep 'mushaf order' prominent (Musa historically precedes Sulayman); differentiate from zulm-al-nafs and bilqis-* pieces; do not smuggle a fiqh ruling on Musa's killing."
+    },
+    {
+      "proposal_id": "HASAN-4",
+      "title": "A Jailed Slave States the Law That Runs the Universe — Word for Word",
+      "rank": 2,
+      "why": "Verified verbatim clause match {12:40, 17:23}; powerless-man-states-the-decree image is legible and Khalil-strong. Held out because the reveal is true only for the PRONOUN form (إياه) — near-synonymous 'worship none but Allah' appears in 11:2/41:14/46:21/11:26 — so it must be reframed as PRONOUN-EXACT verbatim identity, not conceptual uniqueness, which slightly blunts the 'only twice' punch. Distinct mechanism; a clean future run if that family is disclosed up front."
+    },
+    {
+      "proposal_id": "KHALID-6",
+      "title": "One Phrase for a Roof That Caved In — the Quran Uses It on Three Monuments to People Who Thought They'd Last",
+      "rank": 3,
+      "why": "Exact three-verse phrase khawiyatun 'ala 'urushiha {2:259, 18:42, 22:45}, verified, no superlative, and it exports naturally as a visual quote-card (IG cross-over path). Held out because the unifying 'false permanence' theme overreaches on 2:259 (no owner, resurrection lesson) and the 'one image for ruin' framing exposes a 5x-vs-3x cherry-pick a hostile reader will catch (27:52, 69:7). Publishable once reframed as 'one exact phrase, one collapse-image, three ruins, three different lessons'; strong reserve for a design-forward slot."
+    },
+    {
+      "proposal_id": "HASAN-3",
+      "title": "The Same Prayer From the Mightiest King and an Ordinary Person at Forty",
+      "rank": 4,
+      "why": "Verified phrase + وزع root census with a genuine grammatical floor. Ranked last: freshness is the real problem — same-prayer-two-speakers is now a worn genre with THREE published pieces (afrigh line 15, arini line 16, aftuni line 22); the skeptic downgraded the 'marshal into ranks' payoff to a labelled shared-root layer (the load-bearing gloss is al-Tabari's alhimni/dispose-me); the title carries a 'mightiest king' superlative to strip; and the 27:19 ant scene overlaps the published sulayman-ants piece (line 39). Lowest avg_critique (28.67). Hold until the genre rests."
+    }
+  ],
+  "superseded_duplicates": {
+    "KHALID-1": "duplicate of recommended ZAYNAB-1 (shove voice-flip); carries a mandatory inverted-mushaf-order correction ZAYNAB-1 avoids — do not ship separately.",
+    "YASMIN-6": "duplicate of recommended ZAYNAB-1 (shove voice-flip), Sara-framed — do not ship separately.",
+    "YASMIN-3": "duplicate of reserve KHALID-2 (queen+Musa phrase pairing) — do not ship separately."
+  },
+  "portfolio_persona_totals": {
+    "amina": 14,
+    "khalil": 14,
+    "sara": 13,
+    "yusuf": 12,
+    "note": "Balanced across all four segments; no persona starved. Amina and Khalil top-served, matching the largest-arriving (Amina) and highest-recommender (Khalil) segments."
+  },
+  "rationale": "Recommended-3 is one acquisition doorway (HASAN-6, contested-verse search — the highest-intent arrival path and the only true classical-recovery flagship in the pool) plus two high-shareability pieces on DIFFERENT mechanisms: ZAYNAB-1 (verb voice-flip, the single sharpest moral screenshot, morphology-grounded for the rigor readers) and KHALID-4 (a warm woman-centered scene the catalog's solemn woman pieces never offer). Three distinct mechanisms, no three-of-one. Each fills a real catalog gap: contested-adversarial-quotation (only the 9:5 sword-verse occupies that space today), un-airbrushed matriarch reaction (all existing woman pieces are reverent), and a fresh moral voice-flip (the form is proven, the content new). Persona coverage is balanced (Amina 14 / Khalil 14 / Sara 13 / Yusuf 12). Duplicates collapsed: one shove piece (ZAYNAB-1 over KHALID-1/YASMIN-6, because its verb/voice framing sidesteps the mushaf-order error) and one queen+Musa piece (KHALID-2 to reserve over its twin YASMIN-3). Reserve is ranked by promotability: KHALID-2 (permission on-ramp, Amina), HASAN-4 (Khalil census, needs pronoun-family disclosure), KHALID-6 (visual quote-card, needs de-cherry-picked framing), HASAN-3 (worn genre, superlative + overlap, hold)."
+}

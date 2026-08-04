@@ -1,0 +1,168 @@
+{
+  "advisor": "KHALID",
+  "lens": "digital dawah / Muslim youth — phone-first, 90-second test, WhatsApp/screenshot travel, persona pull (Amina via contested search, Sara as WhatsApp sharer)",
+  "critiques": [
+    {
+      "proposal_id": "ZAYNAB-1",
+      "accuracy": 9,
+      "freshness": 7,
+      "audience": 9,
+      "shippability": 9,
+      "fatal": false,
+      "notes": "This is the WhatsApp forward of the whole slate, bro — one verb, zero Arabic tax, a moral gut-punch a parent can text a teen. Voice-flip is a proven genre on the site (budge-root) but the content here is brand new and morally sharper. Note it's the same reveal as YASMIN-6; pick one framing and ship it."
+    },
+    {
+      "proposal_id": "ZAYNAB-2",
+      "accuracy": 8,
+      "freshness": 5,
+      "audience": 4,
+      "shippability": 6,
+      "fatal": false,
+      "notes": "Two roots at once reads as a grammar lecture — the reader has to hold Paradise AND forbidden meat before any payoff lands. Zaynab's own 3/3 for Amina/Sara admits the pull isn't there. Also collides with HASAN-1 (identical two roots) and YASMIN-2/4 (which split them cleaner). Rigor readers only."
+    },
+    {
+      "proposal_id": "ZAYNAB-3",
+      "accuracy": 8,
+      "freshness": 6,
+      "audience": 7,
+      "shippability": 7,
+      "fatal": false,
+      "notes": "A memorizable du'a to carry away is exactly the shareable unit I keep asking for. But HASAN-3 is the same two verses done better — it fuses the phrase-twin and the root-census into one piece instead of pretending they're two proofs. Ship HASAN-3, not this."
+    },
+    {
+      "proposal_id": "ZAYNAB-4",
+      "accuracy": 8,
+      "freshness": 5,
+      "audience": 6,
+      "shippability": 6,
+      "fatal": false,
+      "notes": "The hapax is real candy for the concordance crowd, and the mirror-miracle line travels. But staff/sea is some of the most-trodden ground on the site (musa-staff-and-sea already published) — keeping it strictly lexical is the only thing saving it from feeling like a retread."
+    },
+    {
+      "proposal_id": "ZAYNAB-5",
+      "accuracy": 8,
+      "freshness": 6,
+      "audience": 8,
+      "shippability": 8,
+      "fatal": false,
+      "notes": "Laughed here, slapped her own face there — that's a human, screenshot-worthy moment that opens the underused women's-voice lane, with a hapax to keep it from being sentiment. Same exhibit as YASMIN-1 (which adds the Genesis angle); pick one. Strong Sara/Amina pull."
+    },
+    {
+      "proposal_id": "ZAYNAB-6",
+      "accuracy": 7,
+      "freshness": 6,
+      "audience": 3,
+      "shippability": 4,
+      "fatal": false,
+      "notes": "Five exhibits stitched into a corpus survey — this fails the 90-second test flat. A 16-year-old bounces before the pattern resolves. It's a Khalil/Yusuf reference essay, not a share unit, and it's the heaviest write in the pool. Not the youth play."
+    },
+    {
+      "proposal_id": "HASAN-1",
+      "accuracy": 9,
+      "freshness": 5,
+      "audience": 4,
+      "shippability": 6,
+      "fatal": false,
+      "notes": "The named classical device (hadhf al-fa'il) is the right way to warrant a grammar reveal — I respect the discipline. But it's the same two-root pairing as ZAYNAB-2, and two opposite-value roots in one piece still asks a lot before the human image lands. Rigor readers, not the scroll crowd."
+    },
+    {
+      "proposal_id": "HASAN-2",
+      "accuracy": 8,
+      "freshness": 7,
+      "audience": 4,
+      "shippability": 6,
+      "fatal": false,
+      "notes": "Fresh and precise, but 'inheritance shares + zakat categories' is where a young reader's thumb keeps scrolling. Fiqh-bearing, so it needs the ask-a-scholar rails, and even done right it's a citable Khalil/Yusuf piece with no emotional handle for Amina or Sara."
+    },
+    {
+      "proposal_id": "HASAN-3",
+      "accuracy": 9,
+      "freshness": 6,
+      "audience": 8,
+      "shippability": 8,
+      "fatal": false,
+      "notes": "The strongest same-prayer piece here — the king who ranks his armies asking God to rank HIM into gratitude is a line people repeat, and it ends with a du'a you can carry. Same-prayer is a proven genre (afrigh piece) but this prayer is new. This is the one to run over ZAYNAB-3."
+    },
+    {
+      "proposal_id": "HASAN-4",
+      "accuracy": 9,
+      "freshness": 7,
+      "audience": 8,
+      "shippability": 8,
+      "fatal": false,
+      "notes": "'Tawhid doesn't need a pulpit' — a jailed slave speaking the exact decree that runs the universe is emotionally legible in one breath and verifiable in one click. Adjacent to yusuf-prison-dearer but a different clause, so it clears freshness. Travels for Amina and Sara both."
+    },
+    {
+      "proposal_id": "HASAN-5",
+      "accuracy": 8,
+      "freshness": 6,
+      "audience": 6,
+      "shippability": 7,
+      "fatal": false,
+      "notes": "The citable answer to 'what about people who never got the message' — that's exactly the challenge Yusuf walks into an MSA room carrying. Duplicate of YASMIN-5 (same PHRASE-9). More head than heart, so mid pull outside the student segment, but a genuinely useful page to have."
+    },
+    {
+      "proposal_id": "HASAN-6",
+      "accuracy": 8,
+      "freshness": 8,
+      "audience": 8,
+      "shippability": 6,
+      "fatal": false,
+      "notes": "This is the discovery vector — Amina lands here from a contested-verse search, which is our highest-intent traffic. Turning an adversarial quote into 'here's how the language actually works, per named mufassirun' is the honest posture that builds trust. Costs more editorial care to source, but worth it."
+    },
+    {
+      "proposal_id": "YASMIN-1",
+      "accuracy": 8,
+      "freshness": 6,
+      "audience": 8,
+      "shippability": 7,
+      "fatal": false,
+      "notes": "Same warm laugh/slap scene as ZAYNAB-5, plus a one-line Genesis nod that models the right posture without superiority — I like the maturity of that move if it stays one sentence. Pick this or ZAYNAB-5, not both. Strong messaging-app travel."
+    },
+    {
+      "proposal_id": "YASMIN-2",
+      "accuracy": 9,
+      "freshness": 6,
+      "audience": 5,
+      "shippability": 8,
+      "fatal": false,
+      "notes": "Cleaner than the two-root versions — one root, one checkable claim, the page you hand a skeptic to prove the method is disciplined. But 'you're adorned, you don't dress yourself' is a quiet insight, not a share trigger. Pretty method demo, soft pull."
+    },
+    {
+      "proposal_id": "YASMIN-3",
+      "accuracy": 9,
+      "freshness": 7,
+      "audience": 9,
+      "shippability": 8,
+      "fatal": false,
+      "notes": "This is the Amina piece of the whole board — scripture handing a pagan queen and a future prophet the identical words of repentance is exactly the permission-without-lecture the reconnector arrives needing. Warm, no defensiveness, verifiable. The scope discipline vs the dual (Adam) and Yunus keeps it honest. Ship it."
+    },
+    {
+      "proposal_id": "YASMIN-4",
+      "accuracy": 8,
+      "freshness": 5,
+      "audience": 4,
+      "shippability": 7,
+      "fatal": false,
+      "notes": "The meat-half of ZAYNAB-2/HASAN-1 pulled out solo — cleaner to write, but dietary-law grammar is a hard sell to a phone-first 20-year-old. Fiqh-anchored and consensus-heavy so low ikhtilaf risk, but it's a Khalil/Yusuf reference page, not a scroll-stopper."
+    },
+    {
+      "proposal_id": "YASMIN-5",
+      "accuracy": 8,
+      "freshness": 6,
+      "audience": 6,
+      "shippability": 7,
+      "fatal": false,
+      "notes": "Duplicate of HASAN-5 (same PHRASE-9, same fairness objection). Yasmin's theodicy-honest framing — 'the Quran raises and addresses it, doesn't pretend the problem is closed' — is the version I'd trust in front of Yusuf's critics. Merge with HASAN-5; don't run two."
+    },
+    {
+      "proposal_id": "YASMIN-6",
+      "accuracy": 9,
+      "freshness": 6,
+      "audience": 8,
+      "shippability": 9,
+      "fatal": false,
+      "notes": "Same shove-verb reveal as ZAYNAB-1, scoped tight for Sara to say to a teenager. Both framings are strong; ZAYNAB-1's title lands the moral harder ('shoves you into the fire'), so I'd take that headline. Either way this reveal ships this week."
+    }
+  ]
+}

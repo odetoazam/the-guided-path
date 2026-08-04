@@ -1,0 +1,8 @@
+{
+  "results": [
+    {"id":"VOICE-1","verdict":"CONFIRMED","notes":"ROOT:دعع verb tokens=2 exactly: 107:2 active (IMPF VF:1), 52:13 PASS (IMPF VF:1). Only 1 non-verb token (52:13 دَعًّا, N=cognate accusative). All exact."},
+    {"id":"VOICE-2","verdict":"CONFIRMED","notes":"ROOT:مزق verb tokens=2 exactly: 34:7 PASS PERF VF:2, 34:19 active PERF VF:2, both surah 34. Both textSimple contain 'كل ممزق'. All exact."},
+    {"id":"VOICE-3","verdict":"CONFIRMED","notes":"ROOT:حلي verb tokens=4, all 4 PASS, all VF:2: 18:31/22:23/35:33 يُحَلَّوْنَ, 76:21 حُلُّوا (PERF). All four contain اساور. All exact."},
+    {"id":"VOICE-4","verdict":"CONFIRMED","notes":"ROOT:وزع verb tokens=5: 3 PASS (27:17/27:83/41:19, VF:1, all end فهم يوزعون), 2 active (27:19/46:15, VF:4 IMPV), both contain identical du'a 'رب اوزعني ان اشكر'. All exact."}
+  ]
+}

@@ -33,7 +33,7 @@ This document is read by the hub-article-pipeline skill at the start of every se
 | Zakariyya | 5 ✅ | Three objections (impossible request) + 4 more | — |
 | Qarun | 3 ✅ | Earth swallowed (reversal theology), [2 more] | Qarun and Iblis: parallel pride |
 | Bilqis | 3 ✅ | Throne + letter + power question, throne moved before arrival, [1 more] | — |
-| Dawud | 3 ✅ | Book mentioned without quoting, hasty judgment, voice | — |
+| Dawud | 8 ✅ | Book mentioned without quoting, hasty judgment, voice, giant/dafʿ law (2:251), iron/work-as-worship (34:11), khalifa+hawa (38:26) | Sulayman course spine (shukr/al-Ghaniyy al-Karīm) bridges via anāba (38:24/38:34) |
 | Sulayman | 4 ✅ | Wind/kingdom, ants (hearing), horses/sun/test, [1 more] | — |
 | Adam | 3 ✅ | [Articles written pre-backlog] | Adam across 7 surahs (retelling pattern) |
 | Firaun | 3 ✅ | [Articles written] | — |

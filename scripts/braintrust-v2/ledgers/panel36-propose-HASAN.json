@@ -1,0 +1,109 @@
+{
+  "advisor": "Dr. Hasan al-Qasimi",
+  "lens": "classical tafsir warrant; ikhtilaf honored not flattened; scope stated (root/lemma/phrase); first-last = mushaf order only; no modern bridge that outruns its text; no unprovable superlatives",
+  "run": "2026-07-20 panel36",
+  "proposals": [
+    {
+      "id": "HASAN-1",
+      "title": "You Are the Deposit: The Quran's Pawnshop Word Ends Up Meaning Your Soul",
+      "thesis": "The root that means a pledge left as security for a debt (rahn) is used exactly three times. Once it is ordinary goods handed over to guarantee a loan. The other two times the thing being held as security is you — 'every soul is held in pledge for what it earned.' The Quran takes a plain commercial word everyone understood and quietly turns the borrower into the collateral.",
+      "exhibits": ["GRAPH-4"],
+      "scope_note": "Count is at ROOT level (رهن): 3 tokens, 3 verses — 2:283 (rihan maqbudah), 52:21 (rahin), 74:38 (rahinah). Not a first/last-mushaf claim; it is a full census of a small set. rahin (52:21) and rahinah (74:38) are the two hereafter uses; 2:283 is the one commercial use.",
+      "warrant": "Classically anchored: the mufassirun already read 74:38 rahinah / 52:21 rahin as the soul held answerable for its deeds (a recognized reading in Tabari and Qurtubi). The reveal is not a new interpretation — it is the corpus arithmetic showing the same word does the debt-law work and the accountability work. Article stays illustrative: strip the modern pawnshop framing and the Quranic claim (the soul is answerable, held until it settles its account) still stands on its own.",
+      "personas": {
+        "amina": 4,
+        "khalil": 5,
+        "sara": 3,
+        "yusuf": 4,
+        "note": "Khalil-first: exactly-three count, the two derived forms rahin/rahinah, and a classical citation he can check — top-recommender material. Amina gets weight and permission without needing Arabic. Sara can say it ('your soul is the deposit for what you do') but it is a heavy image for a young teen."
+      },
+      "risks": "Register is somber — accountability, not comfort; pair the ending with the settlement side (the pledge can be redeemed) so it is not left purely as dread. Must not overstate: this is a 3-verse set, so avoid any 'the Quran always' phrasing beyond the three. Keep the pawnshop analogy as illustration, never as the source of the theology.",
+      "why_now": "No published article touches rahn or collateral; the whole accountability-vocabulary lane is open. Clean, self-contained corpus reveal with a classical citation already waiting for it."
+    },
+    {
+      "id": "HASAN-2",
+      "title": "God Calls Himself 'The Most Loving' Exactly Twice — Both Times to People Who Had Just Done Something Terrible",
+      "thesis": "The divine name al-Wadud, 'the Most Loving,' appears only twice in the whole Quran. Once it is spoken to a town of cheats and mockers; once it comes right after describing people who burned believers alive. Both times the name arrives in the aftermath of grave sin, and both times it is paired with a forgiveness name. The Quran reserves its most tender name for exactly the moments a reader would least expect to hear it.",
+      "exhibits": ["GRAPH-12"],
+      "scope_note": "Count is at LEMMA level (وَدود, al-Wadud) — exactly 2 occurrences: 11:90 (Shu'ayb to his people, paired with Rahim) and 85:14 (after the people of the ditch, paired with al-Ghafur). This is the wider ودد root's only two points too, so it doubles as a first/last bracket in mushaf order. Both surahs (Hud, al-Buruj) are Meccan by standard classification.",
+      "warrant": "al-Wadud as a name of Allah is classical, uncontested territory; the mufassirun distinguish wudd (active, expressed love) from the wider hubb. The reveal adds nothing interpretive — it reports where the name lands. Honest note in-article: this is a name-count observation, not a claim that Allah loves only these two audiences; the point is the placement, not an exhaustive theology of divine love.",
+      "personas": {
+        "amina": 5,
+        "khalil": 4,
+        "sara": 5,
+        "yusuf": 3,
+        "note": "Amina and Sara top out — pure permission-and-mercy payload, instantly sayable and shareable ('the Quran saves its most loving name for people who wrecked things'). Khalil gets the clean lemma-scope and the paired-name pattern. Yusuf lower: less academic-critique-facing than the harder pieces."
+      },
+      "risks": "Do not soften the sin to make the mercy land — the article's force depends on the audiences being exactly as bad as the text says. Avoid sentimentality; keep the divine name's dignity. State clearly it is a lemma-level count so no one thinks the broader love-vocabulary is only twice.",
+      "why_now": "No published Wadud piece; the mahabbah articles cover the حبب root, never ودد. This is the mercy-counterweight to the site's heavier accountability pieces and the strongest single 'permission' article in the pool for the largest reader segment."
+    },
+    {
+      "id": "HASAN-3",
+      "title": "The Only Thing the Quran Ever Says God 'Seals' Is a Heart — and the Same Disease Opens the Book and Closes It",
+      "thesis": "The Quran has a verb for stamping something shut (taba'a). It uses it eleven times, and every single time the thing being stamped shut is a heart — never a door, a letter, or a container. The sister verb for hardening (qasa) does the same: six times, always a heart. And the word 'disease' first enters the Quran and last leaves it inside the identical three-word phrase, 'in their hearts is a disease.' The Quran keeps locating the real sickness in one place, and it never moves.",
+      "exhibits": ["RAREADJ-1", "BRACKET-3"],
+      "scope_note": "taba'a (طبع): 11 verses, heart-noun (قلب) in the same verse 11/11, all Form I with Allah as agent (9 active, 2 passive). qasa (قسو): 6 verses, heart 6/6. marad (مرض, ROOT, 24 tagged segments): first mushaf occurrence 2:10, last 74:31, both inside the exact phrase 'fi qulubihim marad' (which itself occurs 11 times, 2:10 first, 74:31 last). Disclose: 74:31 sits in Meccan al-Muddaththir but some classical lists flag it as a later verse — mushaf order, not chronology.",
+      "warrant": "This is the heart of classical theology — khatm, tab', qaswah al-qalb are load-bearing terms in Tabari, Razi, Qurtubi, and the whole free-will/predestination discussion. The two passive occurrences of taba'a matter and must be handled with the classical reading: sealing follows the person's own turning-away (the kasb / istihqaq framing), it is not arbitrary. Must cite /posts/qalb-sealed-rusted-heart-quran as the sibling piece and NOT reuse its khatm/ran first-last framing — this is a different verb (taba') plus an exclusivity law plus the marad bracket.",
+      "personas": {
+        "amina": 4,
+        "khalil": 5,
+        "sara": 3,
+        "yusuf": 5,
+        "note": "Yusuf and Khalil top out: this is the citable-rigor piece that directly meets the academic critique 'the Quran says God seals hearts, so belief is predestined and God is unfair.' The exclusivity law plus the classical kasb reading is exactly what an MSA student needs to answer that. Sara lower — abstract for a young teen unless framed as 'your heart is the one thing you have to guard.'"
+      },
+      "risks": "This is the single most sensitive theological zone in the whole pool — handled loosely it reads as fatalism. The two passive tab' verses and the ikhtilaf on whether sealing is punitive-consequence or antecedent decree MUST be honored in the body, not buried in a note; classical schools differ and the reader deserves both. Do not let the 'exclusivity law' framing imply mechanical determinism. Keep 74:31's disputed placement disclosed. This piece needs the most careful classical warranting of the six — I would want to read the draft before it ships.",
+      "why_now": "qalb-sealed-rusted proved the genre works and left the taba' verb and the marad bracket untouched; positioned as its companion it deepens the site's most-visited theological lane. It is also the best defensive piece the site could publish against the most common academic objection to Quranic anthropology."
+    },
+    {
+      "id": "HASAN-4",
+      "title": "The Word the Quran Uses for Where the Dead Wait Is a Word for the Sea",
+      "thesis": "Barzakh — the barrier — appears exactly three times. Two of those times it is the unseen wall of water that keeps the sweet sea and the salt sea from mixing where they meet. The third time it is the barrier behind the dead, holding them 'until the Day they are raised.' The Quran describes the space between this life and resurrection with the same word it uses for two bodies of water that touch but never blend.",
+      "exhibits": ["GRAPH-7"],
+      "scope_note": "ROOT برزخ: exactly 3 tokens, 3 verses — 25:53 and 55:20 (the two-seas barrier), 23:100 (the barrier behind the dead until resurrection). Full census of a 3-verse set, not a first/last claim.",
+      "warrant": "barzakh in 23:100 as the interspace before the Day is standard classical eschatology (Tabari, Qurtubi read it as the barrier/interval preventing return to this life). The two-seas verses are equally classical. The reveal is the shared vocabulary, not a new doctrine of the intermediate state — so the article should NOT smuggle in detailed grave-life claims that depend on hadith (policy: Quran-only payoff). Keep it to what the three verses actually give: a barrier you cannot cross back through.",
+      "personas": {
+        "amina": 4,
+        "khalil": 4,
+        "sara": 4,
+        "yusuf": 4,
+        "note": "Evenly strong. The physical image (two seas meeting without mixing) makes an abstract eschatological word concrete and teen-graspable for Sara; Khalil/Yusuf get a clean 3-verse census; Amina gets a wonder-driven entry into a topic she rarely sees handled without folklore."
+      },
+      "risks": "The magnet is the intermediate-state topic, which is heavily hadith-laden in popular treatment; discipline is required to stay Quran-only and resist importing grave-punishment narratives. Do not overstate the natural-science angle (the 'two seas don't mix' point is an observation the verse makes, not a modern discovery to claim). Three verses only — no 'the Quran always' overreach.",
+      "why_now": "No published barzakh article; the enclosed-spaces piece is about narrative settings, not this word. Opens the eschatology-vocabulary lane cleanly and gives readers a Quran-grounded handle on a topic usually served only through weak popular material."
+    },
+    {
+      "id": "HASAN-5",
+      "title": "The First Time Anyone Says 'I Seek Refuge' in the Quran, It Isn't From the Devil",
+      "thesis": "We learn 'a'udhu billah' as the shield against Shaytan. But the first person to say it in the Quran's order is Musa — seeking refuge not from the devil but from being the kind of person who mocks others. The very same word then closes the whole Book, as the opening cry of its final surah, whose villain is named with a strange word that means a thing that shrinks back and hides — the same word used elsewhere only for stars that vanish at dawn.",
+      "exhibits": ["BRACKET-4", "GRAPH-1"],
+      "scope_note": "'awdh (عوذ, seeking refuge, 17 tagged segments): first mushaf occurrence 2:67 (Musa, a'udhu billah, from being among the ignorant/mockers); final two occurrences open 113:1 and 114:1; the very last is 114:1. First and last are the identical surface word أعوذ. Separately, root خنس (to shrink back/retreat): exactly 2 verses — 81:15 (al-khunnas, the retreating stars Allah swears by) and 114:4 (al-khannas, the whisperer who retreats). Mushaf order, not chronology. Disclose: 2:67 Medinan; 113–114 classification is disputed (Meccan by majority).",
+      "warrant": "The isti'adhah is classical bedrock and the mu'awwidhatayn are the paradigm refuge-texts. The Musa refuge (2:67) reading — refuge from ignorance/mockery in the cow-slaughter episode — is straight from the tafsir of that ayah. The khunnas/khannas link is a lexical observation the classical lexicographers already note (the shared sense of retreating/withdrawing); the article reports it, it does not invent it. Honor the ikhtilaf on 113–114's Meccan/Medinan status explicitly — do not assert a chronology the tradition disputes.",
+      "personas": {
+        "amina": 4,
+        "khalil": 5,
+        "sara": 4,
+        "yusuf": 4,
+        "note": "Khalil-first: root census, the exact khunnas/khannas 2-verse lexical link, and disciplined disclosure of the 113–114 dispute — exactly the ikhtilaf-honesty he tests for. Sara gets a vivid, teachable hook (kids already say a'udhu; the whisperer who 'shrinks back' is memorable). Amina/Yusuf solid."
+      },
+      "risks": "Overlaps the neighborhood of /posts/weapons-against-waswasa and /posts/footsteps-of-shaytan — must NOT reuse their waswasa/khutuwat material; the new reveals (Musa's refuge-from-mockery as the first isti'adhah, and the khunnas/khannas star link) are untouched and must carry the piece. Do not overclaim the star-word connection as settled etymology beyond what the lexicographers grant. Keep the two threads (refuge bracket + khannas) welded to one payoff — the last surah — so it does not read as two half-articles.",
+      "why_now": "GRAPH-1 confirms no piece ships the khunnas/khannas reveal and BRACKET-4 confirms no piece treats the first isti'adhah; both live in the site's highest-traffic Shaytan cluster, so they extend proven demand rather than opening cold ground."
+    },
+    {
+      "id": "HASAN-6",
+      "title": "The First 'Peace' in the Quran Can Be Refused. The Last One Can't Be.",
+      "thesis": "The Quran's word for peace, salam, first appears as a greeting soldiers are ordered NOT to throw back in a man's face just because they want his goods — a peace a human being can accept or reject. Its last appearance is a night that does not offer peace but simply is peace, 'until the break of dawn.' Peace enters the Book as something you can turn away and leaves it as something nothing can interrupt.",
+      "exhibits": ["GRAPH-9"],
+      "scope_note": "Scoped to the LEMMA سَلام (the noun 'peace,' 42 tagged occurrences) — NOT the wider سلم root that also covers islam/muslim/sallama. First mushaf occurrence 4:94 (the campaign-greeting ruling), last 97:5 (Laylat al-Qadr, 'salamun hiya hatta matla'i al-fajr'). Disclose: 4:94 Medinan; al-Qadr Meccan by majority but disputed. Mushaf order, not chronology.",
+      "warrant": "4:94 is fiqh-anchored and asbab-anchored: the classical reading forbids rejecting the one who offers you salam or surrender in order to seize worldly gain, with a well-known occasion of revelation. This is exactly the kind of contested combat-adjacent verse the site should present with its classical ruling intact rather than as a bare bracket — name the ruling, name that the schools treat the greeting/surrender as binding. 97:5 as a state of peace (not merely a wish of peace) is a recognized reading. The bracket is the frame; the fiqh warrant on 4:94 is what keeps it honest.",
+      "personas": {
+        "amina": 5,
+        "khalil": 4,
+        "sara": 5,
+        "yusuf": 3,
+        "note": "Amina-first: 4:94 is a contested-verse doorway (a rule about restraint in conflict) reframed as mercy — her exact search path. Sara gets a beautifully sayable, shareable line for a teen ('peace you can refuse vs. peace nothing can break'). Khalil gets the lemma-scope discipline and the fiqh anchor. Yusuf lower — less directly critique-facing than the sealing piece."
+      },
+      "risks": "Must scope tightly to the salam noun-lemma or the count collapses (the سلم root is everywhere). 4:94 is combat-adjacent — handle the ruling with classical care and do not let the 'peace can be refused' framing read as license; the point is the prohibition on refusing it. Honor the al-Qadr classification dispute. Keep the mercy reading of 97:5 as the recognized classical one, not an invention.",
+      "why_now": "No published salam article; jannah/vocabulary pieces never build on 4:94 or this bracket. It converts a restraint-in-conflict verse (the kind adversarial readers quote) into a mercy reveal with the classical ruling fully visible — precisely the honest-handling-of-contested-verses work the site is strongest at."
+    }
+  ]
+}

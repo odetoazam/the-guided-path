@@ -1,0 +1,97 @@
+{
+  "advisor": "Ustadh Khalid Siddiqui",
+  "lens": "digital dawah / Muslim youth — phone-first, 90-second test, shareable unit, teen-readable, follows people not institutions",
+  "run": "2026-07-16",
+  "proposals": [
+    {
+      "id": "KHALID-1",
+      "title": "The Same Word: You Shove the Orphan Away — Then You Get Shoved Into the Fire",
+      "thesis": "There is a rough, physical verb in Arabic for shoving someone away with your hand. It shows up as a verb only twice in the whole Quran. The first time (in mushaf order, 107:2) you are the one doing it — 'the one who shoves the orphan away.' The second time (52:13) it is done to you — 'the day they are shoved toward the Fire with a shove.' Same exact word, active then passive: the gesture you aim at a helpless kid is the gesture aimed at you on Judgment Day.",
+      "exhibits": ["VOICE-1"],
+      "personas": {
+        "amina": 5,
+        "khalil": 4,
+        "sara": 5,
+        "yusuf": 4,
+        "note": "This is the strongest single screenshot on the whole list. One sentence, one image, brutal moral symmetry — the exact unit a 16-year-old forwards on Instagram. Sara can say it to a teen in ten seconds. Amina feels the moral weight without needing Arabic. The 90-second test passes on the headline alone."
+      },
+      "risks": "Must scope precisely: 2 verb tokens of root د-ع-ع, both imperfect form-I; one further non-verb token of the root exists and should be named so a reader who checks a lexicon isn't surprised. Keep the tone from tipping into a threat sermon — the payoff is the grammar mirroring the deed, not a scare.",
+      "why_now": "We have contested-verse and mercy pieces but nothing that lands a moral punch this fast for the scroll. It is the clearest demonstration that Quranic grammar itself carries meaning — exactly the 'what is this?' first impression Khalid wants a stranger to have."
+    },
+    {
+      "id": "KHALID-2",
+      "title": "A Pagan Queen and a Future Prophet Say the Exact Same Four Words: 'My Lord, I Have Wronged Myself'",
+      "thesis": "The Quran gives the confession 'My Lord, I have wronged myself' to exactly two people, and they could not be more different. In mushaf order it is first the Queen of Sheba, a sun-worshipping monarch, the moment she submits in Sulayman's palace (27:44); then Musa, right after he kills a man in Egypt, before he is ever a prophet (28:16). Even the shorter two-word core, 'I have wronged myself,' appears nowhere else. The same doorway back is open to a queen and to a man with blood on his hands.",
+      "exhibits": ["PHRASE-2"],
+      "personas": {
+        "amina": 5,
+        "khalil": 4,
+        "sara": 4,
+        "yusuf": 3,
+        "note": "Pure permission-and-depth, which is Amina's exact need — the largest segment arriving on her own terms. The reveal is that your starting point (idolater, killer) does not disqualify the words. Khalil gets a verifiable exact-phrase claim he can check. Highly quotable."
+      },
+      "risks": "Scope: exact contiguous phrase 'rabbi inni zalamtu nafsi' in textSimple, 2 verses; note the 2-word core is also unique to these two. Do not smuggle in a fiqh claim about whether Musa's act was sinful — stay on the shared confession the Quran records, not a ruling.",
+      "why_now": "The confession-and-return theme is proven on the site (tawbah cluster performs), but no published piece pairs a non-Muslim queen with a pre-prophetic Musa on one identical line. It is a low-shame on-ramp for the reader who thinks they are too far gone to pray."
+    },
+    {
+      "id": "KHALID-3",
+      "title": "The Most Powerful King in the Quran and an Ordinary Person Turning 40 Pray the Exact Same Prayer",
+      "thesis": "Sulayman — commanding the wind, the jinn, and the speech of animals — smiles at an ant and prays a specific prayer of thanks (27:19). Word for word, that same prayer is put in the mouth of 'the human being' reaching full strength at forty (46:15): 'My Lord, enable me to be grateful for the favor You gave me and my parents, and to do good You are pleased with.' The verb at its center, awzi'ni, comes from a root that otherwise means being marshaled into ranks by an outside force — so even the request for gratitude is a request to be arranged by God. The king's peak-of-power prayer is handed to a regular middle-aged person as their own.",
+      "exhibits": ["PHRASE-3", "VOICE-4"],
+      "personas": {
+        "amina": 4,
+        "khalil": 5,
+        "sara": 4,
+        "yusuf": 4,
+        "note": "Aspirational and immediately usable — 'you can pray Sulayman's exact words' is a share and a save. VOICE-4 gives Khalil and Yusuf the morphological floor (root و-ز-ع, 5 verb tokens, the two active ones both this identical prayer). The turning-40 verse makes it land for an older cohort too, widening the audience Khalid worries skews only teen."
+      },
+      "risks": "Two scoped claims to keep separate and honest: PHRASE-3 is the exact-phrase match across 27:19 and 46:15; VOICE-4 is the 5-token root distribution (3 passive 'marshaled,' 2 active = this prayer at 27:19 and 46:15). Present the root nuance as an added layer, not as the load-bearing proof, so the piece survives if a reader only checks the phrase.",
+      "why_now": "Gives readers a memorized, actionable du'a with a story attached — the format that travels furthest on WhatsApp. Nothing published pairs Sulayman's ant-scene prayer with the forty-year-old verse."
+    },
+    {
+      "id": "KHALID-4",
+      "title": "The Angels Tell Ibrahim's Wife She'll Have a Son — She Laughs in One Surah and Slaps Her Own Face in Another",
+      "thesis": "The Quran tells the same annunciation twice and gives Ibrahim's elderly wife two different reactions. In Hud 11:71 she laughs. In adh-Dhariyat 51:29 she comes forward with a cry and strikes her own face, calling herself 'a barren old woman.' The verb for that slap, sakkat, is used nowhere else in the Quran — one word for one startled human moment. Two tellings, one woman, and the Quran keeps both the laugh and the disbelief instead of tidying her into a single pious reaction.",
+      "exhibits": ["SCENE-6"],
+      "personas": {
+        "amina": 5,
+        "khalil": 4,
+        "sara": 5,
+        "yusuf": 3,
+        "note": "This is the human, almost funny one — a real woman slapping her own face — and warmth is what pulls Amina and Sara back. The point that scripture preserves an un-airbrushed reaction is exactly the 'permission to be human' angle. The unique word gives it a memorable hook and a screenshot."
+      },
+      "risks": "Scope carefully: 'she laughed' (root ض-ح-ك) at 11:71; the slap sakkat (root ص-ك-ك) a hapax at 51:29. Note the classical ikhtilaf on whether dahikat means 'laughed' or 'menstruated' so Khalil/Yusuf see we know the debate, then keep the reveal on the two preserved reactions, not on resolving that dispute.",
+      "why_now": "The site's woman-centered pieces (Maryam, Asiya) are theological and reverent; none show a matriarch's raw, startled reaction. Different emotional register, high forwardability, closes a tonal gap."
+    },
+    {
+      "id": "KHALID-5",
+      "title": "The Excuse God Answered Before Anyone Could Make It",
+      "thesis": "Twice the Quran quotes a complaint the guilty would raise on Judgment Day — 'our Lord, if only You had sent us a messenger, we would have followed Your signs' (in mushaf order 20:134, then 28:47). Both times it is put in their mouths in advance: God states the objection Himself, as the reason messengers were sent before any punishment came. It is the fairness question — 'how could I be judged if no one warned me?' — asked and closed inside the text.",
+      "exhibits": ["PHRASE-9"],
+      "personas": {
+        "amina": 4,
+        "khalil": 4,
+        "sara": 4,
+        "yusuf": 5,
+        "note": "This is Yusuf's piece: it is the exact fairness objection a philosophy TA raises, and the Quran voices it first. Citable, rigorous, defensible. Sara gets a clean answer to 'what about people who never heard the message?' that she can say out loud. The reveal — the objection is pre-empted by God — is a strong, sober hook."
+      },
+      "risks": "Scope: exact contiguous phrase across 20:134 and 28:47. Do not overclaim it settles the full theological question of those who never received a message (ahl al-fatrah) — that is a separate scholarly discussion. Frame precisely: the Quran records this specific excuse being answered in advance, and point readers to scholars for the broader ruling.",
+      "why_now": "The contested-verse and objection-handling lane is our proven high-intent traffic. This is a fairness challenge answered by the corpus itself — precisely the citable-under-pressure content Yusuf needs and the MSA crowd shares."
+    },
+    {
+      "id": "KHALID-6",
+      "title": "One Phrase for a Roof That Caved In — the Quran Uses It on Three Monuments to People Who Thought They'd Last",
+      "thesis": "The Quran has one vivid image for a building collapsed down onto its own roof — khawiyatun ala urushiha — and it uses that exact phrase on three ruins (in mushaf order): the dead town that made a passerby ask 'how will God revive this?' (2:259), the arrogant garden-owner's flattened vineyard (18:42), and a whole destroyed city with 'an idle well and a lofty palace' standing empty (22:45). Same three words each time, pointed at three different symbols of 'this will last forever.' The roof — the top, the finish, the flex — is exactly what ends up on the ground.",
+      "exhibits": ["PHRASE-5"],
+      "personas": {
+        "amina": 4,
+        "khalil": 4,
+        "sara": 4,
+        "yusuf": 4,
+        "note": "Strong visual, which is the shareable currency: a caved-in roof is a picture, not a concept. The anti-flex, 'nothing you build outlasts you' angle reads well for a young audience surrounded by status signaling. Balanced across all four personas — no single one owns it, but none is left cold."
+      },
+      "risks": "Scope: exact contiguous phrase 'khawiyatun ala urushiha' across 2:259, 18:42, 22:45. Keep it descriptive, not a prosperity-guilt sermon; the reveal is the repeated image, not a lecture against owning things. Translate urush as 'roofs' plainly and note the root sense so Khalil can verify.",
+      "why_now": "Pairs naturally as a visual quote-card (the export-as-image path Khalid keeps pushing). The garden-owner and the 2:259 town already appear in tadabbur; nothing published isolates the shared collapsed-roof phrase across all three, so it deepens existing content instead of repeating it."
+    }
+  ]
+}

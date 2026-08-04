@@ -1,0 +1,35 @@
+{
+  "proposal_id": "ZAYNAB-2",
+  "advisor": "ZAYNAB",
+  "verdict": "SURVIVES",
+  "reviewer_role": "adversarial fact-checker (v3 skeptic, VETO power)",
+  "date": "2026-07-22",
+  "substrate_checks": {
+    "12:4 ra'aytuhum": "CONFIRMED — 12:4:13 = PERF|1S verb + PRON|SUFF|3MP (rational masculine plural pronoun). Referents kawkaban(M), ash-shams(F), al-qamar(M) are all inanimate/mixed-gender, which normatively take feminine-singular non-rational agreement. The 3MP is a marked choice.",
+    "12:4 sajidin": "CONFIRMED — 12:4:15 = ACT_PCPL|VF:1|ROOT:سجد, sound masculine plural (MP|ACC) = rational-agent agreement.",
+    "12:100 sujjadan + back-reference": "CONFIRMED — 12:100:7 sujjadan = ACT_PCPL|ROOT:سجد|MP|ACC; immediately followed verbatim by 'hadha ta'wilu ru'yaya min qablu qad ja'alaha rabbi haqqan' (ta'wil root أول, ru'ya root رأي back-referencing 12:4).",
+    "s-j-d occurrence count in Surah 12": "CONFIRMED EXACTLY TWICE — only 12:4 (sajidin) and 12:100 (sujjadan). Inclusio is mechanical, not impressionistic.",
+    "ru'ya link": "ru'ya lemma occurs 12:5, 12:43, 12:100; 12:100 back-references the same dream-word introduced at 12:5 (Ya'qub: 'la taqsus ru'yaka')."
+  },
+  "imposed_test": "PASS. The rational-agent agreement (tanzil ghayr al-'aqil manzilat al-'aqil) is NOT read-in: al-Jalalayn — a BUNDLED classical source — spells it out verbatim on 12:4: 'جُمِعَ بِالياءِ والنُّون لِلْوَصْفِ بِالسُّجُودِ الَّذِي هُوَ مِن صِفات العُقَلاء' (pluralized with the ya-nun ending because of the description with sujud, which is among the attributes of rational beings). Zamakhshari and Abu Hayyan corroborate. RECOVERED tafsir, not a modern claim in classical clothes.",
+  "grounding_correction": "The proposal's risk statement is FACTUALLY WRONG where it says 'the four bundled tafsirs did not spell it out here, so say so' and downgrades the agreement point to a merely-modern 'literary reading.' al-Jalalayn (bundled) DOES spell it out. Grounding is STRONGER than the proposal claims. The article must cite al-Jalalayn directly and NOT hedge it as an unrecovered modern reflection.",
+  "ring_grounding": "CONFIRMED classical — al-Tabari, al-Muyassar ('هذا السجود هو تفسير رؤياي'), and al-Jalalayn all read 12:100 as the ta'wil/fulfillment of the 12:4 dream because Yusuf says so in the text.",
+  "disguised_count_test": "PASS (with guard). The reveal does NOT reduce to 'this word appears N times' as a frequency-significance claim. ILTIFAT-3 is purely morphological (rational agreement) with zero count. RING-7 uses 'exactly twice' only to certify that the opening/closing bracket is clean (no intermediate s-j-d), i.e. structural inclusio, not numerology. Required guard: frame 'only two occurrences' as establishing the bracket, never as 'the number two means X.'",
+  "overlap_test": "PASS — genuinely fresh, with one enforceable scoping constraint. (a) content/tadabbur/012-yusuf/ayahs-004-006.md discusses the ra'aytu...ra'aytuhum repetition ('a child repeats what overwhelmed him') and sajidin thematically ('cosmic image drawn toward prostration') but NEVER the rational-agreement mismatch (hum/sajidin as rational morphology on inanimate stars). (b) content/tadabbur/012-yusuf/ayahs-099-101.md EXTENSIVELY publishes the dream-fulfillment THEME ('the dream from the beginning of the surah finally stands... this is its ta'wil') but NEVER names the s-j-d lexical inclusio (root's only two occurrences bracketing the surah). No overlap with scripts/braintrust-v2/published-articles.md (published Yusuf articles: believer-in-Pharaoh's-court, Yusuf-Musa mirror, the well, prison-dearer-to-me — none frame the surah as an s-j-d ring or note the verse-4 agreement).",
+  "quran_only_test": "PASS. Payoff is entirely textual (morphology at 12:4 + Yusuf's own words at 12:100). No hadith load-bearing. (al-Muyassar's note that the sujud was greeting-not-worship is fiqh background, not part of the reveal.)",
+  "hostile_one_tweet_rebuttals": [
+    "'Promoting stars to rational is just automatic Arabic grammar' — FALSE: mixed inanimate plurals normatively take feminine-singular agreement; the 3MP pronoun + sound-masculine-plural participle is the marked tanzil construction, and al-Jalalayn explicitly flags it as triggered by sujud (a rational-being attribute).",
+    "'The ring is just Yusuf saying my dream came true — obvious and already on your site' — TRUE of the fulfillment theme (already published at 099-101), which is why the fresh contribution is narrowed to the s-j-d root bracketing the surah with exactly two occurrences; the article must lead with the lexical seal, not re-tell the fulfillment."
+  ],
+  "broken_claims": [
+    "Proposal risk statement: 'the four bundled tafsirs did not spell it out here' — REFUTED as stated; al-Jalalayn (bundled) spells out the rational-agreement point verbatim on 12:4. (Error is in the proposal's favor: grounding is stronger, but the inaccurate hedge must not survive into the article.)"
+  ],
+  "required_corrections": [
+    "Fix the grounding framing: cite al-Jalalayn on 12:4 directly ('جُمِعَ بِالياءِ والنُّون لِلْوَصْفِ بِالسُّجُودِ الَّذِي هُوَ مِن صِفات العُقَلاء') as recovered classical tafsir; add Zamakhshari/Abu Hayyan (tanzil ghayr al-'aqil manzilat al-'aqil). Do NOT present the agreement point as a merely-modern literary reading — it is classically attested in a bundled source.",
+    "Anchor the explicit classical claim on the participle sajidin (where al-Jalalayn comments), and present the 3MP pronoun hum as the corroborating, mechanically-verifiable choice (Jalalayn labels ra'aytuhum a ta'kid; the rational-agreement comment lands on sajidin).",
+    "RING-7 scoping (load-bearing to avoid self-overlap): the dream-fulfillment reading is already published at content/tadabbur/012-yusuf/ayahs-099-101.md. The article must LEAD with the s-j-d verbal inclusio (sajidin 12:4 -> sujjadan 12:100, the root's only two occurrences in the surah) as the fresh structural seal; the fulfillment is background, not the headline.",
+    "Disguised-count guard: use 'only two occurrences' solely to certify a clean opening/closing bracket, never as a frequency-significance/numerology claim.",
+    "Differentiate explicitly from content/tadabbur/012-yusuf/ayahs-004-006.md, which already treats sajidin thematically without the agreement mismatch — say what is new."
+  ],
+  "notes": "Strongest-grounded proposal in the class. Every load-bearing fact verified mechanically (corpus morphology + s-j-d count) and classically (al-Jalalayn explicit on both the verse-4 agreement AND the 12:100 fulfillment). No load-bearing failure -> SURVIVES. All corrections are framing/scoping, not substance."
+}

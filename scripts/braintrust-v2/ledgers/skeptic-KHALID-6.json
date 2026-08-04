@@ -1,0 +1,42 @@
+{
+  "proposal_id": "KHALID-6",
+  "verdict": "SURVIVES",
+  "reviewer": "skeptic",
+  "reviewed_utc": "2026-07-20",
+  "core_claim_status": "CONFIRMED",
+  "rederivation": {
+    "phrase": "خاوية على عروشها",
+    "method_1_contiguous_textSimple": [[2, 259], [18, 42], [22, 45]],
+    "method_2_all_three_tokens_membership": [[2, 259], [18, 42], [22, 45]],
+    "method_3_possessive_form_عروشها_anywhere": [[2, 259], [18, 42], [22, 45]],
+    "count": 3,
+    "mushaf_order_correct": true,
+    "morphology_check": "خاوية = root خوي ACT_PCPL; عروش = root عرش lemma عَرْش; both co-occur only in the 3 verses",
+    "quran_only": true,
+    "hadith_dependency": false
+  },
+  "counterexample_hunt": {
+    "bare_word_خاوية_appears_in": [[2, 259], [18, 42], [22, 45], [27, 52], [69, 7]],
+    "bare_word_count": 5,
+    "dropped_27_52": "فتلك بيوتهم خاوية بما ظلموا — Thamud's houses fallen empty because they wronged: a SECOND ruin-for-wrongdoing verse using khawiya (but NOT the full phrase على عروشها)",
+    "dropped_69_7": "كأنهم أعجاز نخل خاوية — 'Ad fallen like hollow palm-trunks (simile for corpses, not a building)",
+    "impact": "Exact-phrase count of 3 is airtight; but bare-word count of 5 is a cherry-pick vector the article must preempt"
+  },
+  "theme_stress_test": {
+    "18_42_fits": "YES — 18:35 explicit false permanence: ما اظن ان تبيد هاذه ابدا ('I do not think this will EVER perish')",
+    "22_45_fits": "YES — towns destroyed وهي ظالمة (while wrongdoing)",
+    "2_259_fits": "NO — passerby, no owner, no arrogance, no permanence claim; the lesson is resurrection/revival (انى يحيي هاذه الله بعد موتها). The 'monuments to people who thought they'd last' banner does not apply here.",
+    "exhibit_self_concedes": "PHRASE-5 evidence field admits 'three DISTINCT lessons: mortality/resurrection, arrogance punished, wrongdoing'"
+  },
+  "overlap_check": {
+    "published_touching_18_42": "/posts/two-garden-owners-being-having-al-kahf (being vs having in Al-Kahf) covers 18:32-44 incl. 18:42",
+    "core_reveal_overlap": false,
+    "note": "18:42's ruin context is already published under a different reveal; stay off the being/having angle. The shared collapse-phrase across all 3 is not published — reveal is novel."
+  },
+  "broken_claims": [
+    "THESIS/TITLE 'three monuments to people who thought they'd last' / 'three symbols of this will last forever' — false for 2:259 (no owner, no arrogance, no permanence theme; it is a resurrection lesson). The unifying anti-flex banner fits only 18:42 and 22:45.",
+    "'The Quran has ONE phrase / one image for ruin' framing invites a cherry-pick rebuttal: the bare word خاوية appears 5x incl. 27:52 (another ruin-for-wrongdoing verse) and 69:7."
+  ],
+  "required_corrections": "1) Do NOT sell all three under a single 'false permanence / they thought they'd last' theme — that fits 18:42 (18:35 'I do not think this will ever perish') and 22:45 (destroyed while wrongdoing) but NOT 2:259, whose town has no owner and no arrogance and whose lesson is resurrection. Present the shared PHRASE/IMAGE as the unifying thread and let the three lessons differ (as the exhibit itself states). 2) Preempt cherry-pick: state up front that the bare word khawiya appears 5x, but the exact 3-word phrase with 'ala 'urushiha (fallen onto its roofs) is the specific recurring image unique to these 3 — acknowledge 27:52 (Thamud's houses 'fallen empty because they wronged') and 69:7 ('Ad like hollow palm-trunks). 3) In 18:42 the structure is a garden/vineyard; 'urush there reads as grape trellises, so 'a building whose roof caved in' is strained for that verse — describe the collapse-onto-supports image without over-literalizing 'roof.' 4) Avoid the being/having angle on 18:42 (already published in the Two Gardens article).",
+  "notes": "Load-bearing exhibit PHRASE-5 is bulletproof: exact contiguous phrase خاوية على عروشها = exactly {2:259, 18:42, 22:45}, mushaf order, purely Quranic, no hadith. Verified by contiguous-substring, token-membership, possessive-form, and corpus morphology. Proposal SURVIVES on the facts. The failures are in the persona-facing FRAME, not the count: the 'monuments to false permanence' headline overreaches on 2:259, and the 'one image for ruin' language exposes a 5x-vs-3x cherry-pick that a hostile reader will catch (27:52 is a second ruin-for-wrongdoing verse). Corrected article — 'one exact phrase, one collapse-image, three ruins, three lessons' — is straightforwardly publishable and more honest."
+}

@@ -1,0 +1,40 @@
+{
+  "proposal_id": "ZAYNAB-1",
+  "advisor": "ZAYNAB",
+  "verdict": "SURVIVES",
+  "reviewed_by": "adversarial-fact-checker (VETO)",
+  "date": "2026-07-20",
+  "core_census_rederived": {
+    "root": "دعع",
+    "total_tokens": 3,
+    "verb_tokens": 2,
+    "non_verb_tokens": 1,
+    "verb_detail": [
+      {"ref": "107:2", "word": "يَدُعُّ", "voice": "ACTIVE", "form": "VF:1", "aspect": "IMPF", "person_gender_number": "3MS", "lemma": "يَدُعُّ", "surah": "al-Ma'un"},
+      {"ref": "52:13", "word": "يُدَعُّونَ", "voice": "PASSIVE", "form": "VF:1", "aspect": "IMPF", "person_gender_number": "3MP", "lemma": "يَدُعُّ", "surah": "at-Tur"}
+    ],
+    "non_verb_detail": [
+      {"ref": "52:13", "word": "دَعًّا", "pos": "N", "features": "VN (verbal noun / cognate accusative — maf'ul mutlaq intensifying the passive)"}
+    ]
+  },
+  "verified_true": [
+    "Root دعع occurs as a verb EXACTLY twice (107:2 active, 52:13 passive) — re-derived from corpus root field.",
+    "Both verbs are form-I (VF:1), imperfect (IMPF), same lemma يَدُعُّ.",
+    "52:13 is passive (PASS in features), 107:2 is active — the active→passive flip is REAL.",
+    "Exactly 1 non-verb token exists: دَعًّا (52:13), a cognate accusative intensifying the passive.",
+    "Payoff is entirely Quran-internal (verbal echo + morphology); no hadith dependency — passes Quran-only.",
+    "Scope-shift guard: corpus cleanly separates دعع (3 tokens) from the near-homograph دعو 'to call' (212 tokens); the surface form يدعون appears in 26 verses but only 52:13 is from دعع. Count is robust.",
+    "'Rough/physical shove' gloss is lexically defensible (daʿʿa = to thrust/push roughly).",
+    "Thematic bridge is genuine and Quran-internal: BOTH subjects are مكذّبون/deniers of the Judgment via shared root كذب (107:1 يُكذّب بالدين; 52:11 المكذّبين; 52:14 كنتم بها تكذّبون)."
+  ],
+  "soft_spots_required_corrections": [
+    "MORPHOLOGY (must fix — Zaynab is the balaghah advisor): exhibit says 'same aspect; only voice differs.' Inaccurate — 107:2 is 3MS (singular) and 52:13 is 3MP (plural). Active→passive is the salient shift, but number also changes singular→plural. Reword to 'active→passive (with a singular→plural shift).'",
+    "'THE SAME PEOPLE' / 'the hand that pushes becomes the body that is pushed' is a moral/contrapasso echo, NOT a Quranic identity claim. The two passages describe textually distinct subjects (a singular orphan-shover vs. plural deniers driven to the Fire). Earn the link honestly via the shared root كذب (both are deniers of the din) rather than asserting the Quran identifies the same individuals.",
+    "OVERLAP_NOTE INACCURATE: it claims the case is 'not in verified-pool.json.' False — BRACKET-10 in verified-pool.json already anchors on 107:2 with the exact 'shoves away the orphan' gloss (different mechanic: يتم/كذب first-last census). Position the article so it does not duplicate BRACKET-10's use of the same verse image.",
+    "MECHANIC IS A TEMPLATE REPEAT: the voice-flip-twin format ('a rare verb occurs only twice, one passive one active') is already PUBLISHED as /posts/budge-root-voice-flip-death-quran ('The Funeral Verse Is Passive. Its Only Twin Isn't.', root زحزح). Novelty of ZAYNAB-1 is the moral content, not the form. overlap_note should stop implying mechanic novelty.",
+    "Retain the 'as a verb' qualifier on 'only twice' in published copy (a 3rd token, the verbal noun دَعًّا, exists). Already flagged in the proposal's risks — keep it."
+  ],
+  "broken_claims": [],
+  "load_bearing_failures": [],
+  "notes": "All load-bearing facts survive re-derivation. Root دعع verb census = exactly 2 (107:2 active 3MS, 52:13 passive 3MP), both form-I imperfect, same lemma; 1 non-verb cognate-accusative token; active→passive flip is real; thematic bridge is genuine (both subjects are مكذّبون). Corrections are precision/positioning, not factual defeats: fix 'only voice differs' (number also flips), frame 'same people' as a moral echo earned via shared كذب, and correct the overlap_note (BRACKET-10 already uses 107:2; the voice-flip mechanic is already published as the budge article). Verdict: SURVIVES."
+}

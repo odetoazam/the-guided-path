@@ -1,0 +1,38 @@
+{
+  "proposal_id": "KHALID-1",
+  "verdict": "SURVIVES",
+  "adjudicator": "skeptic (adversarial fact-checker, veto power)",
+  "core_thesis_status": "INTACT",
+  "census_rederived": {
+    "root": "دعع",
+    "verb_tokens": 2,
+    "verb_detail": [
+      {"ref": "107:2", "loc": "107:2:3:1", "word": "يَدُعُّ", "voice": "ACT", "features": "IMPF|VF:1|3MS|MOOD:IND", "lemma": "يَدُعُّ"},
+      {"ref": "52:13", "loc": "52:13:2:1", "word": "يُدَعُّ", "voice": "PASS", "features": "IMPF|VF:1|PASS|3MP|MOOD:IND", "lemma": "يَدُعُّ"}
+    ],
+    "nonverb_tokens": 1,
+    "nonverb_detail": [
+      {"ref": "52:13", "loc": "52:13:6:1", "word": "دَعًّا", "pos": "N", "features": "VN|VF:1|M|INDEF|ACC", "lemma": "دَعّ", "note": "cognate accusative intensifier"}
+    ],
+    "both_verbs_same_lemma": true,
+    "both_verbs_form_I_imperfect": true,
+    "only_voice_differs": true
+  },
+  "attack_vectors": {
+    "count_rederivation": "PASS — exactly 2 verb tokens + 1 verbal-noun token; no third token (surface geminate دعّ search confirms only 52:13 and 107:2).",
+    "scope_shift_root_vs_lemma_vs_phrase": "PASS — claim scoped to morphological ROOT field. Surface substring يدع hits 52 verses but those are root دعو (call/supplicate, 212 tokens), a DISTINCT root. No silent mixing; scoping to ROOT is what makes the census clean.",
+    "counterexample_only_2": "PASS — no counterexample; census is exactly 2 verbs.",
+    "root_conflation_daal_ayn_waw": "PASS — دعع (shove, geminate) is not دعو (call/dua). Corpus keys them separately; a naive reader could conflate but the proposal did not.",
+    "first_last_by_mushaf_iteration": "FAIL — see broken_claims. Mushaf order is inverted in the thesis.",
+    "hidden_chronology_check": "The 'active is first' claim is TRUE under revelation chronology (Al-Maʿun 107 early Makkan precedes At-Tur 52) but the proposal explicitly and wrongly labels it 'mushaf order.'",
+    "overlap_published_articles": "PASS — no overlap (grep exit 1); not in published-articles.md.",
+    "quran_only_no_hadith": "PASS — thesis is fully intra-Quranic (107:2 + 52:13); no hadith dependency.",
+    "hostile_reader_one_tweet": "The inverted mushaf-order claim IS a clean one-tweet rebuttal ('At-Tur 52 precedes Al-Maʿun 107 — the passive comes first, you flipped the order'). Neutralized by the required correction; the core moral-symmetry payoff is order-independent and unaffected."
+  },
+  "broken_claims": [
+    "Thesis parenthetical 'The first time (in mushaf order, 107:2)' is factually INVERTED. In mushaf order 52:13 (At-Tur, dict index 4747) comes FIRST and is the PASSIVE; 107:2 (Al-Maʿun, index 6198) comes SECOND and is the ACTIVE. The active occurrence is the SECOND, not first, by mushaf order."
+  ],
+  "why_survives": "The load-bearing payoff — one root, two verb tokens, active (107:2) vs passive (52:13), same lemma, one intensifying cognate-accusative noun — is verified EXACT against the corpus. The moral symmetry ('the gesture you aim at the orphan is the gesture aimed at you') is order-INDEPENDENT: it holds regardless of textual sequence. The false mushaf-order phrase is a decorative anchor, not structural — striking it leaves the thesis fully standing on the dunya→akhira deed/recompense logic. Therefore the error is a mandatory correction, not a load-bearing failure.",
+  "required_corrections": "1) MANDATORY: Remove or fix the false 'in mushaf order, 107:2 is first' claim. In mushaf order the PASSIVE (52:13, At-Tur) comes first and the ACTIVE (107:2, Al-Maʿun) second. Either (a) drop the textual-ordering parenthetical entirely and let the 'you shove → you get shoved' sequence rest on its true axis — the theological deed-now/recompense-later sequence (dunya → Judgment Day), which needs no verse order; or (b) if ordering is kept, label it revelation chronology (Al-Maʿun early Makkan precedes At-Tur) AND flag that revelation order is not canonical/certain (a Quran-only purist will object to leaning on it). Option (a) is strongly preferred. 2) The title/thesis word 'then' must be tied explicitly to life→Judgment-Day, not to textual position, so no body copy re-introduces the inverted-order error. 3) MINOR: 'rough, physical verb for shoving with the hand' is a lexicon/tafsir gloss (Lane: دَعّ = thrust/push away with violence), not corpus-derivable — keep it but present as classical lexical meaning, not a morphological output.",
+  "notes": "Corpus census re-derived independently and matches the exhibit exactly: 2 verb tokens (107:2 ACT / 52:13 PASS, both IMPF VF:1, lemma يَدُعُّ) + 1 verbal-noun token (52:13 دَعًّا). No third token; no overlap; no hadith reliance; root correctly disambiguated from دعو. The single defect is the inverted mushaf-order claim — a factual error but NOT load-bearing, since the active/passive moral symmetry stands on the deed→recompense axis independent of verse sequence. SURVIVES with mandatory correction."
+}

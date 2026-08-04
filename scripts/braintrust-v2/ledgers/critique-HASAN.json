@@ -1,0 +1,169 @@
+{
+  "critic": "Dr. Hasan al-Qasimi",
+  "lens": "classical tafsir warrant — scope-shift, superlatives, hadith-dependence, ikhtilaf-honoring, passive-voice over-read, author-vs-classical voice",
+  "critiques": [
+    {
+      "proposal_id": "ZAYNAB-1",
+      "accuracy": 8,
+      "freshness": 7,
+      "audience": 8,
+      "shippability": 9,
+      "fatal": false,
+      "notes": "Scope is disciplined — 'as a verb, twice,' the one non-verb cognate accusative named, and the risk note forbids folk-phonetics on the doubled 'ayn, which is precisely where I would have reached for my red pen. No hadith load, no superlative. The moral symmetry is the text's own, not a modern graft. This ships clean."
+    },
+    {
+      "proposal_id": "ZAYNAB-2",
+      "accuracy": 5,
+      "freshness": 7,
+      "audience": 5,
+      "shippability": 6,
+      "fatal": false,
+      "notes": "Two roots the tradition never joined, welded by the author into 'one passive lifts, the other buries.' That is a rhetorical construction, not a classical reading, and the passive does not always carry theology — my standing caution. Ship each root alone (Yasmin does) and mark this pairing plainly as reflection, or the reader mistakes an authorial figure for a warrant."
+    },
+    {
+      "proposal_id": "ZAYNAB-3",
+      "accuracy": 7,
+      "freshness": 5,
+      "audience": 7,
+      "shippability": 8,
+      "fatal": false,
+      "notes": "Honest that the two insights are one phenomenon, not two proofs — good. But the 'same prayer, two speakers' form is now worn thin on the site (afrigh, arini already published, and two more in this very slate). A memorizable du'a is real value; the format is no longer fresh."
+    },
+    {
+      "proposal_id": "ZAYNAB-4",
+      "accuracy": 7,
+      "freshness": 5,
+      "audience": 6,
+      "shippability": 6,
+      "fatal": false,
+      "notes": "The fanfajarat/fanbajasat fork is a genuine classical crux — al-Zamakhshari and al-Razi weighed 'burst' against 'trickle' — so the hapax carries real warrant if kept strictly lexical. My worry is duplication: two staff-and-sea pieces already stand. Differentiate on the single word inbajasa or it reads as a retelling of what is published."
+    },
+    {
+      "proposal_id": "ZAYNAB-5",
+      "accuracy": 4,
+      "freshness": 7,
+      "audience": 7,
+      "shippability": 5,
+      "fatal": true,
+      "notes": "The entire reveal rests on dahikat meaning 'laughed' — yet the classical corpus records a real ikhtilaf (some read it as the onset of menses, Ibn 'Abbas among them). To present 'laughed vs slapped' as settled is exactly the ikhtilaf-flattening I named the most common failure mode. It cannot ship until that dispute is named in the body; Khalid's version does this, this one does not."
+    },
+    {
+      "proposal_id": "ZAYNAB-6",
+      "accuracy": 4,
+      "freshness": 7,
+      "audience": 5,
+      "shippability": 4,
+      "fatal": false,
+      "notes": "Bundling hazama, sa'iqa, nakasa, rakasa under one thesis — 'the grammar keeps handing agency to God' — is an authorial generalization stretched across roots the tradition never surveyed together. Some cases (routing bi-idhni-llah) carry genuine theology; others (swooning at the Trumpet) do not. The passive is not a doctrine. Survey-scale over-reading, and the hardest of the pool to write clean in a week."
+    },
+    {
+      "proposal_id": "YASMIN-1",
+      "accuracy": 5,
+      "freshness": 7,
+      "audience": 6,
+      "shippability": 6,
+      "fatal": true,
+      "notes": "It reaches outward to the Genesis memory of Sarah — handled with one dignified line, which I respect — while omitting the internal dispute over dahikat itself. To name the neighbor's reading and pass over your own tradition's ikhtilaf is backwards. Name the laughed/menses dispute in the body and it ships; as written it flattens the very word it hinges on."
+    },
+    {
+      "proposal_id": "YASMIN-2",
+      "accuracy": 9,
+      "freshness": 8,
+      "audience": 7,
+      "shippability": 9,
+      "fatal": false,
+      "notes": "This is the discipline I asked for: four of four passive, verb-tokens only, the lone crescent-moon token named, and — decisively — it refuses to say 'the passive always means grace,' claiming only that here the pattern is total and worth noticing. That single act of restraint is what separates warranted reading from decoration. The page I would hand a skeptical student."
+    },
+    {
+      "proposal_id": "YASMIN-3",
+      "accuracy": 8,
+      "freshness": 6,
+      "audience": 8,
+      "shippability": 8,
+      "fatal": false,
+      "notes": "Scope is honest — it distinguishes this singular confession from Adam's dual and from Yunus, and rests Bilqis on what the verse says without adjudicating her afterlife, which is right. My only reserve is freshness: the site already carries a zulm-al-nafs piece working the same 'zalamtu nafsi' ground, so lead hard on the two-speaker census, not the phrase itself."
+    },
+    {
+      "proposal_id": "YASMIN-4",
+      "accuracy": 9,
+      "freshness": 8,
+      "audience": 7,
+      "shippability": 8,
+      "fatal": false,
+      "notes": "Fiqh anchor, morphological census, near-total consensus, and an explicit refusal to drift into a halal-certification fatwa — this is the 2:282 method applied to dietary law, and it is the site at its best. The mufassirun did note the agent-suppression in ma uhilla li-ghayri-llah, so the warrant is there. A single line acknowledging the juristic discussion on what counts as 'dedication' would round it off."
+    },
+    {
+      "proposal_id": "YASMIN-5",
+      "accuracy": 6,
+      "freshness": 7,
+      "audience": 8,
+      "shippability": 7,
+      "fatal": false,
+      "notes": "The reveal is text-clean — God voices the excuse preemptively at 20:134 and 28:47 — and I welcome the posture that the Quran names its own critique rather than the site scrambling to rebut. But this stands on the edge of the ahl al-fatrah question, where Ash'ari, Maturidi and Mu'tazili readings genuinely divide. The guard must be load-bearing: name that ikhtilaf in the body and refer the ruling to scholars, do not imply the problem is closed."
+    },
+    {
+      "proposal_id": "YASMIN-6",
+      "accuracy": 8,
+      "freshness": 7,
+      "audience": 8,
+      "shippability": 9,
+      "fatal": false,
+      "notes": "Same shove-verb as Zaynab and Khalid, framed for the WhatsApp parent, and the scope is exact — two verb tokens, the one non-verb named, and a proper refusal to claim the Quran 'designed' a rhyme. State the two facts, let the reader see the resonance: that is the correct modesty. A strong, clean piece; the slate must pick one of the three shove framings, not run all."
+    },
+    {
+      "proposal_id": "KHALID-1",
+      "accuracy": 8,
+      "freshness": 7,
+      "audience": 9,
+      "shippability": 9,
+      "fatal": false,
+      "notes": "Precise to the form — imperfect form-I, the extra non-verb token named — and it guards against tipping into a threat-sermon, which is the pastoral risk I would have raised. Corpus-internal, no hadith, no superlative. Of the three shove pieces this has the sharpest reach without loosening the scholarship. My preferred framing of the exhibit."
+    },
+    {
+      "proposal_id": "KHALID-2",
+      "accuracy": 8,
+      "freshness": 6,
+      "audience": 8,
+      "shippability": 8,
+      "fatal": false,
+      "notes": "Exact contiguous phrase plus the two-word core, both scoped, and it explicitly refuses to smuggle a fiqh ruling on Musa's killing — precisely the restraint an ahkam-adjacent verse demands. Freshness is the soft spot: the zulm-al-nafs page already touches this vocabulary, so the pagan-queen-and-pre-prophet contrast must carry the piece."
+    },
+    {
+      "proposal_id": "KHALID-3",
+      "accuracy": 6,
+      "freshness": 5,
+      "audience": 7,
+      "shippability": 8,
+      "fatal": false,
+      "notes": "The title asserts 'the Most Powerful King in the Quran' — a superlative I penalize, though 38:35 ('a kingdom granted to no one after me') gives it partial warrant, so soften it rather than strike it. The morphological layer is correctly kept subordinate to the phrase-match. But the same-prayer-two-speakers form is fatigued, and Zaynab's own note already warned against the 'mightiest king' flourish this title keeps."
+    },
+    {
+      "proposal_id": "KHALID-4",
+      "accuracy": 8,
+      "freshness": 7,
+      "audience": 7,
+      "shippability": 8,
+      "fatal": false,
+      "notes": "This is the laugh-and-slap done correctly: it names the dahikat ikhtilaf — laughed or menstruated — before resting the reveal on the two preserved reactions, and scopes sakkat as the hapax it is. Where two other advisors flattened the contested word, Khalid honored it. That one sentence is the whole difference between warrant and error; take this version of the exhibit."
+    },
+    {
+      "proposal_id": "KHALID-5",
+      "accuracy": 7,
+      "freshness": 7,
+      "audience": 8,
+      "shippability": 7,
+      "fatal": false,
+      "notes": "Same preemptive-excuse reveal as Yasmin, and its risk note is the more explicit of the two — 'do not settle the ahl al-fatrah question, point readers to scholars.' That referral is exactly the intellectual modesty this theodicy terrain requires. Sober, citable under pressure; keep the referral in the body, not only the frontmatter."
+    },
+    {
+      "proposal_id": "KHALID-6",
+      "accuracy": 8,
+      "freshness": 7,
+      "audience": 7,
+      "shippability": 9,
+      "fatal": false,
+      "notes": "A descriptive phrase-census — khawiyatun 'ala 'urushiha across three ruins — with almost no interpretive exposure and a plain, honest translation of 'urush as roofs. This is the safest kind of corpus reading: the image is the Quran's, aimed thrice at monuments to permanence, and the note rightly keeps it from becoming a prosperity-guilt sermon. Quote-card ready and classically unimpeachable."
+    }
+  ],
+  "ledger_path": "/Users/azamkhan/the-guided-path/scripts/braintrust-v2/ledgers/critique-HASAN.json"
+}

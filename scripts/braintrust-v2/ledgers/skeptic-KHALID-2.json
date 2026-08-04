@@ -1,0 +1,57 @@
+{
+  "proposal_id": "KHALID-2",
+  "role": "skeptic",
+  "verdict": "SURVIVES",
+  "verified_at": "2026-07-20",
+  "attack_summary": "Independently re-derived every count via python3 over quran-verses.json (6236 verses) and cross-checked against the corpus morphology cache and the Uthmani text. All two empirical load-bearing claims confirmed; no counterexample found even under aggressive orthographic normalization.",
+  "checks": [
+    {
+      "claim": "Exact contiguous 4-word phrase 'رب اني ظلمت نفسي' occurs in exactly 2 verses",
+      "method": "whitespace-token sequence match on textSimple; repeated on Uthmani text and with alif/hamza/ya-maqsura/ta-marbuta normalization",
+      "result": "{27:44, 28:16} — CONFIRMED (identical result across textSimple, Uthmani, and normalized variants)"
+    },
+    {
+      "claim": "2-word core 'ظلمت نفسي' occurs only in the same 2 verses",
+      "method": "token-sequence match + broadened substring 'ظلمت نفس' to catch any possessor (نفسي/نفسك/نفسه/نفسها)",
+      "result": "{27:44, 28:16} — CONFIRMED; broadened possessor sweep also yields only these 2"
+    },
+    {
+      "claim": "The lone third 'ظلمت' token (10:54) is not a counterexample",
+      "method": "corpus morphology inspection",
+      "result": "10:54 = ظَلَمَتْ PERF 3FS ('a soul that wronged'), NOT 1S, and not followed by نفسي (reads 'نفس ظلمت ما في الارض'). Correctly excluded. Both target verses are ظَلَمْتُ PERF|VF:1|1S = 'I wronged'."
+    },
+    {
+      "claim": "Speaker of 27:44 is the Queen of Sheba",
+      "method": "context read",
+      "result": "CONFIRMED — 'قالت رب اني ظلمت نفسي واسلمت مع سليمان' (feminine 'she said'); scene is the Queen entering Sulayman's glass palace. Sun-worship origin grounded in 27:24 'يسجدون للشمس'; disbelieving people in 27:43."
+    },
+    {
+      "claim": "Speaker of 28:16 is Musa, immediately after killing the Egyptian, before prophethood",
+      "method": "context read of 28:15-16, 28:29-30",
+      "result": "CONFIRMED — 28:15 'فوكزه موسى فقضى عليه' (Musa strikes and kills); 28:16 is the confession directly after. Commissioning at the bush (28:29-30) comes only after flight to Madyan, so he is not yet a prophet. Quran-grounded, no hadith."
+    },
+    {
+      "claim": "Mushaf order is 27:44 then 28:16",
+      "method": "surah index",
+      "result": "CONFIRMED — surah 27 precedes 28. Thesis explicitly scopes ordering to 'mushaf order,' so the historical fact that Musa predates Sulayman does not refute it."
+    },
+    {
+      "claim": "Distinct from 7:23 (plural 'ظلمنا انفسنا', Adam+wife) and 21:87 (Yunus, 'اني كنت من الظالمين')",
+      "method": "phrase check",
+      "result": "CONFIRMED — 7:23 is the plural first-person, different phrase; 21:87 uses a different construction. Neither collides with the singular exact phrase."
+    },
+    {
+      "claim": "Quran-only, no hadith payoff",
+      "method": "review",
+      "result": "PASS — phrase, both speakers, sun-worship, killing, pre-prophetic status, and submission are all in the text. Only the proper name 'Bilqis' is extra-Quranic (tafsir), and it is incidental, not load-bearing."
+    },
+    {
+      "claim": "Overlap vs published-articles.md",
+      "method": "grep published-articles.md",
+      "result": "ADJACENT BUT DISTINCT — published zulm-al-nafs-wronging-the-self covers the concept; bilqis-* cover throne/letter/leadership; musa-burning-bush covers the commissioning (28:29+), not the killing/confession. None pairs the two speakers on the identical exact phrase. Novel angle stands."
+    }
+  ],
+  "broken_claims": [],
+  "required_corrections": "None load-bearing. Editorial soft spots to tighten before publish: (1) 'Bilqis' is a tafsir name, not Quranic — either drop it or flag it as traditional; the Quran identifies her only as the Queen of Sheba who and whose people prostrate to the sun (27:24). (2) 'Pagan queen' — she utters the line in the very act of submitting (27:44 'واسلمت'); frame paganism as her STARTING POINT (the reveal), not her status mid-sentence, or a pedant will object she is already converting. (3) Anchor 'four words' explicitly to the Arabic (رب/اني/ظلمت/نفسي); the English gloss is longer, so 'four words' only holds in Arabic. (4) Keep the 'mushaf order' qualifier prominent — historically Musa precedes Sulayman by generations, so avoid any 'first/then' phrasing that implies chronological firstness. (5) Differentiate the piece explicitly from published zulm-al-nafs-wronging-the-self and the bilqis pieces to avoid cannibalization. (6) Optional pre-empt: 12:53 ('ما ابري نفسي', disputed speaker) and 7:23 (plural, Adam+wife) are near-cousins but NOT the same phrase — naming them shows the 'only these two' claim is airtight.",
+  "notes": "The two empirical claims that carry the piece are exactly correct and robust under textSimple, Uthmani, and aggressive normalization. Morphology confirms both verbs are 1S perfect. Narrative framing is Quran-grounded. No refuting counterexample exists. Survives with editorial-only corrections."
+}

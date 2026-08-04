@@ -1,0 +1,94 @@
+{
+  "proposals": [
+    {
+      "id": "KHALID-1",
+      "title": "The Quran Has a Word for Choking Back What You Feel",
+      "thesis": "There is one Arabic root (kazm) the Quran uses for swallowing a feeling instead of letting it out, and it shows up in exactly six verses: a man swallowing his anger (praised), Ya'qub swallowing grief, a father swallowing shame at bad news, and everyone on Judgment Day with 'hearts at their throats.' That last image — the heart climbing up into the throat — is a separate word (hanajir) the Quran uses exactly twice: once for believers under siege, once for everybody on the Day. Put together, the Quran has a precise vocabulary for the physical feeling of holding something in — and it treats swallowing anger as a strength but never pretends the panic doesn't reach your throat.",
+      "exhibits": ["GRAPH-5", "GRAPH-6"],
+      "personas": {
+        "amina": 5,
+        "khalil": 4,
+        "sara": 5,
+        "yusuf": 3,
+        "note": "This is the mental-health / emotional-literacy piece for the phone generation. Amina and Sara both land here: the Quran naming the exact bodily feeling of bottling up (throat tightening, choking it down) is the 'permission + it sees me' hit. Sara can hand this to a teen who shuts down — 'the Quran has a word for that.' Khalil gets the morphology (kazim vs kazimin, the identical 16:58/43:17 sentence). Yusuf lower — it's affective, not a critique-answer, but the exact 6-verse census gives him citable rigor."
+      },
+      "risks": "Two of the six verses (Ya'qub's grief) touch published pieces (the-father-who-waited, sabr-jamil). Fix: those are narrative pieces; this is a full census of ONE bodily word and must be framed as the word-law, not Ya'qub's story — cite them as siblings. Do not let the 'swallow your anger' verse drift into a self-help listicle; keep it Quran-grounded. Scope carefully: kazm is a ROOT claim (6 verses), hanajir is ROOT-level (2 verses) — say so.",
+      "why_now": "The under-25 audience talks openly about anxiety, bottling up, and emotional regulation. A piece that shows the Quran already has a precise anatomy of held-in feeling is the most shareable emotional-literacy angle in the pool — a screenshot line ('the Quran has a word for the heart climbing into your throat') that spreads on Instagram without needing Arabic."
+    },
+    {
+      "id": "KHALID-2",
+      "title": "Shaytan's Only Move Is a Cheap Shot — and His Name Means He Runs",
+      "thesis": "The Quran has a specific verb (nazgh) for the needling jab that turns people against each other — the poke that starts a fight — and in all four places it's used, the one doing it is Shaytan. No human, no crowd, no one else ever does it. And in the very last surah, the name the Quran gives him is al-khannas — from a root that means 'the one who shrinks back and hides,' the same word used for stars that vanish at dawn. So the Quran's whole picture of the enemy is: he throws the cheap shot that starts the argument, then he ducks out of sight. He never fights you in the open.",
+      "exhibits": ["GRAPH-1", "RAREADJ-7"],
+      "personas": {
+        "amina": 3,
+        "khalil": 4,
+        "sara": 4,
+        "yusuf": 4,
+        "note": "This is dawah-native and teen-native — the single most 'clip-able' concept in the pool. Sara can literally say it to a kid mid-argument ('that jab you just felt? the Quran has a name for who plants it'). Yusuf scores well: the exclusivity claims (nazgh 4/4 Shaytan, khunnas root in exactly 2 verses) are hard, checkable facts he can cite. Khalil gets the root reveal (khannas = the vanishing-star word). Amina lower — she's here for mercy/permission, not the enemy's tactics — but the 'he's a coward who runs' reframe still serves her."
+      },
+      "risks": "Overlap is the live danger: footsteps-of-shaytan (khutuwat) and weapons-against-waswasa are shipped. Hard rule — do NOT reuse the khutuwat root or the waswasa verb; this piece is built only on nazgh + the khunnas/khannas root, both unshipped. Cite the two published Shaytan pieces as siblings up front. Keep the tone from tipping into folklore about the devil; stay strictly on the two verb/name facts.",
+      "why_now": "Youth content about Shaytan usually goes vague and spooky. This does the opposite — two precise, verifiable Quranic facts that reframe the enemy as a coward who jabs and hides. That reframe ('he can't beat you head-on, he can only whisper and run') is exactly the confidence-building, share-in-a-groupchat unit this audience forwards."
+    },
+    {
+      "id": "KHALID-3",
+      "title": "Every Time the Quran Says 'Crushing Distress,' It Says 'Rescued' in the Same Breath",
+      "thesis": "The Quran has a word for the distress that crushes you (karb). It appears in exactly four verses — and every single one also contains the word for being rescued, in the same verse. There's no verse in the whole Quran where that crushing distress is left un-rescued. And there's a matching pattern for fear: three times someone feels a hidden flicker of fear (a private, secret fear), and all three times the answer comes within one verse — the same two words, 'do not fear.' The Quran doesn't leave its own panic-words hanging; rescue is welded to the very next breath.",
+      "exhibits": ["RAREADJ-3", "RAREADJ-4"],
+      "personas": {
+        "amina": 5,
+        "khalil": 4,
+        "sara": 4,
+        "yusuf": 3,
+        "note": "The anxiety-generation piece, and Amina's ceiling — 'the Quran refuses to leave distress un-answered' is exactly the reconnection payload. The two complete-set laws (karb 4/4 with rescue; hidden-fear 3/3 answered by 'do not fear' within a verse) give it structural spine, not just sentiment. Khalil values the tight n=4 / n=3 complete-set framing (no adjacency window needed). Sara can hand a scared teen the 'do not fear' line. Yusuf moderate — it's comfort, not a critique-rebuttal, but the exactness keeps it citable."
+      },
+      "risks": "Sits in a shipped genre (qunut-despair-mercy is the template). Differentiate hard: this is TIGHTER than qunut (100% same-verse, no next-verse window) and uses two untouched word-pairs (karb/najat, awjasa/la-takhaf) — say so, cite qunut as the sibling. Avoid the trap of implying the Quran promises worldly rescue on demand; the claim is textual co-occurrence, not a life guarantee — state that plainly to keep it honest.",
+      "why_now": "This audience searches its distress into a phone at 1am. A piece proving the Quran never lets its own word for crushing distress stand alone — rescue is always in the same verse — is the highest-comfort, most-forwardable unit here, and it holds up to a skeptic because it's a complete set, not a cherry-pick."
+    },
+    {
+      "id": "KHALID-4",
+      "title": "God Calls Himself 'The Most Loving' Exactly Twice — Both Times to People Who Least Deserved to Hear It",
+      "thesis": "One of God's names in the Quran is al-Wadud — 'the Most Loving.' It appears exactly twice, and this is the surprise: neither time is it spoken to good people. Once it's said to a town of cheats and mockers, told 'ask forgiveness and turn back — your Lord is Most Loving.' The other time comes right after a group burns believers alive — and the verse still calls Him 'the Forgiving, the Most Loving.' The Quran saves its most tender name for the exact moments you'd expect wrath. Both times it's paired with a mercy-name, and both are aimed straight into the wreckage of serious sin.",
+      "exhibits": ["BRACKET-12"],
+      "personas": {
+        "amina": 5,
+        "khalil": 4,
+        "sara": 4,
+        "yusuf": 3,
+        "note": "Amina's single strongest piece in the whole pool — the reconnector arriving with guilt, and the Quran's most loving name is reserved for people worse off than her. Pure permission-and-return. Khalil gets the exactly-twice lemma scope (wadud, not the wider habb root) plus the both-times-paired-with-a-mercy-name observation. Sara can carry the one line to anyone drowning in shame. Yusuf lower — devotional, not a debate tool — but the 'exactly twice, both to the worst' is a clean citable fact."
+      },
+      "risks": "jamil-seven is the exactly-N sibling and mahabbah pieces cover the habb root — must scope explicitly to the lemma al-Wadud (not habb, not the broader 'love' vocabulary) and cite those as siblings. Both verses are Meccan by standard classification — say so, no chronology claim. Guard against sliding into 'so sin freely' — the verses pair love WITH a call to forgiveness/turning back; keep that intact.",
+      "why_now": "The reconnecting-Muslim segment is the largest, and it's blocked by shame, not by argument. Nothing converts that reader faster than proof — from the text itself — that God's most loving name was placed precisely where people had done the worst. It's the most quotable single-line reveal for the audience that most needs a reason to come back."
+    },
+    {
+      "id": "KHALID-5",
+      "title": "The Quran's First Word About Blessing Is a Prayer for It. Its Last Is a Question About It.",
+      "thesis": "Reading the Quran cover to cover, the root for 'blessing' first shows up in the Fatiha — 'the path of those You have blessed,' something we're asking God to give us. The very last time the same root appears, it's flipped into a question: 'then you will be asked, that Day, about the blessings.' Blessing enters the book as something you beg for and exits as something you'll be questioned about. And in between, there's a matching warning: the root for 'forever' ends its run on a man who 'thinks his money made him immortal.' The Quran bookends comfort with a question and eternity with a rich man's delusion.",
+      "exhibits": ["BRACKET-1", "BRACKET-2"],
+      "personas": {
+        "amina": 4,
+        "khalil": 3,
+        "sara": 5,
+        "yusuf": 3,
+        "note": "Sara's piece — the parent raising kids inside a consumer culture, looking for something to SAY about gratitude and 'stuff' that isn't a lecture. 'Everything you enjoy, you'll be asked about it' is a dinner-table line and a WhatsApp forward. Amina gets the gentle accountability reframe. Khalil moderate — the first/last brackets are clean but he'll want the disclosure that the nima root also covers 'livestock/an'am.' Yusuf moderate: the mushaf-order bracket is citable but not a critique-answer."
+      },
+      "risks": "Two mechanical disclosures required for honesty (Khalil/Yusuf will check): the nima root also covers an'am/livestock — disclose it; and these are MUSHAF-order first/last, both bookend surahs Meccan, NOT order of revelation — state it. an-nasr-final-words is the 'word retires meaningfully' sibling; the-weight-of-keys covers Qarun's wealth — cite both, and note this uses different roots (nima, khulud) and different verses (102:8, 104:3). Keep it from becoming an anti-wealth rant; the point is accountability, not that comfort is bad.",
+      "why_now": "Gratitude content is everywhere and mostly toothless. A structural reveal — the Quran opens 'blessing' as a request and closes it as an interrogation — gives the tired topic a spine and a memorable frame parents actually want to pass to kids."
+    },
+    {
+      "id": "KHALID-6",
+      "title": "The Quran Says You're Born a Little Greedy — and You Don't Beat It, You Get Saved From It",
+      "thesis": "The Quran names a specific kind of greed (shuhh) — the tight-fisted clinging of the self — and calls it the soul's default setting: 'souls are made ever-present with it.' Then, in two different surahs, it repeats the exact same sentence word for word: 'whoever is protected from the greed of his own soul — those are the ones who succeed.' The verb is passive: you are protected, you don't conquer it. And there's a matching pattern for the tight fist in action — a rare verb for 'urging each other to feed the poor' shows up three times, every time negated, every time about feeding the hungry: the Quran only ever shows this generosity as the thing people fail to do.",
+      "exhibits": ["GRAPH-8", "RAREADJ-6"],
+      "personas": {
+        "amina": 5,
+        "khalil": 5,
+        "sara": 3,
+        "yusuf": 4,
+        "note": "Khalil's top pick in my set — the passive-verb reveal (yuqa: protection is received, not achieved) plus the verbatim-repeated sentence across two surahs is exactly the morphological transparency he recommends and rewards. Amina high: 'you're not broken for feeling this, and you were never expected to beat it alone' is deep permission plus humility. Yusuf gets a citable structural claim (shuhh 4 verses, the identical closing sentence in exactly 59:9 and 64:16). Sara moderate — real, but heavier and less obviously teen-forwardable than KHALID-1 or KHALID-4."
+      },
+      "risks": "Two roots, one theme (grip / failed generosity) — must connect them cleanly or it reads as two half-articles; frame as 'the inner default (shuhh) and its visible symptom (never urging to feed).' Scope: shuhh is a ROOT claim (5 tokens / 4 verses), the repeated sentence is an exact-phrase match in exactly 2 verses, hadd is a ROOT claim (3 verses, all negated) — state each. Theologically sensitive — 'protection is received' must not tip into fatalism/no-effort; the Quran commands the urging even as it says protection is granted, so hold both.",
+      "why_now": "The self-improvement generation believes everything is a willpower problem you defeat alone. A verse that says greed is your factory setting and the win is being protected from it — passive verb, no bootstrapping — is a genuinely counter-cultural, deeply relieving reveal, and the morphology makes it bulletproof for the skeptics."
+    }
+  ]
+}
