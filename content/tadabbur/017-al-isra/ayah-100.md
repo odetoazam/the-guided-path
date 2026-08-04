@@ -12,8 +12,9 @@ word_count: 5815
 estimated_duration: "50-60 minutes"
 passage_context: "After Al-Isra answers the deniers' objection to resurrection through Allah's creation of the heavens and earth, this ayah exposes the scarcity of the human heart: even if the opponents possessed the treasuries of Allah's mercy, they would still clutch them out of fear."
 generated_by: "codex-tadabbur"
-validated: false
+validated: true
 tags: [rahmah, rizq, shukr, nafs, akhirah]
+interpretive_read: "fable-2026-07-31"
 ---
 
 <!-- morphology:17:100:1 root=قول pos=V -->

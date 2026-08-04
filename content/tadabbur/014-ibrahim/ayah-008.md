@@ -12,8 +12,9 @@ word_count: 1303
 estimated_duration: "25-35 minutes"
 passage_context: "This ayah comes immediately after Musa recalls Allah's proclamation that gratitude brings increase and ingratitude meets severe punishment. Here Musa cuts off the deepest possible misunderstanding by reminding his people that their gratitude does not enrich Allah and their disbelief does not diminish Him."
 generated_by: "codex-tadabbur"
-validated: false
+validated: true
 tags: [musa, shukr, kufr, tawhid]
+interpretive_read: "fable-2026-07-31"
 ---
 
 <!-- morphology:14:8:2 root=قول pos=V -->

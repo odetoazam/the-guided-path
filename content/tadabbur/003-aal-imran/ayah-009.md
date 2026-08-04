@@ -11,9 +11,10 @@ translation: "Our Lord, indeed You will gather the people for a Day about which 
 estimated_duration: "48-59 minutes"
 passage_context: "The closing line of the du'a of ar-rasikhun fi'l-'ilm — those firmly rooted in knowledge. Having just asked that their hearts not deviate after guidance, they end not with a request but with two statements of fact about God."
 generated_by: "claude-fable"
-validated: false
+validated: true
 semantic_review: "fixed-2026-07-27"
 tags: [aal-imran, rasikhun, dua, gathering, certainty, doubt, promise, miad, iltifat, tawakkul]
+interpretive_read: "fable-2026-07-31"
 ---
 
 <!-- morphology:3:9:1 root=ربب pos=N -->
