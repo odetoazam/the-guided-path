@@ -26,6 +26,10 @@ Ayah is the node · tree + typed graph are two indexes over it · in-memory buil
 
 **The rule:** the tadabbur corpus is NOT a web-publishing asset — it is the **grounding corpus for AI surfaces** (voice/text companion). The adversarial review's ship-ayah-pages recommendation (F3) is **overruled**: distribution via SEO/AEO of the deep corpus is off the table for now; the corpus's value is realized through the companion, which consumes the graph substrate. This also means the substrate work (validation, edges, promotion) IS the critical path — it's what the AI surfaces will stand on. Azam continues generating tadabburs for remaining coverage himself.
 
+**Violation + correction (2026-07-31).** An overnight session built `/reflections/[slug]` reader pages for all 182 `ayah_records`, put them in the nav, and submitted 173 of them to the sitemap — working from the Jul 27 cofounder backlog, which lists the "ayah-pages publish gap" as priority #1 and contradicts this decision. This file was not checked. Walked back the same session: nav entry removed, `robots: noindex` on the index and the reader route, zero reflection URLs in the sitemap (844 → 671). **The route still exists**, unindexed, because guided-path ayah stops and hub ayah cards previously had no destination at all — that UX gap is separate from web publishing. Open for Azam: (a) keep the noindex route as a path/hub destination, (b) delete it entirely, or (c) reopen the decision. Note it also does not yet filter to `validated` nodes, which decision 2 requires of product surfaces.
+
+**If you are a future session reading the Jul 27 backlog:** that entry is superseded by this decision until Azam says otherwise.
+
 ## Open (not yet decided)
 
 - What the first AI surface is (voice vs. typing companion), which pathway it serves first, and its trigger date.
