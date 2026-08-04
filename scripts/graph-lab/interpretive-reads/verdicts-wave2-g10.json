@@ -1,0 +1,79 @@
+[
+  {
+    "file": "017-al-isra/ayahs-022-025.md",
+    "verdict": "PASS",
+    "thesis": "Tawhid is the foundation of all right human relations, and the first test of whether exclusive worship has softened the heart is how a person speaks, bends, remembers and prays in the presence of aging parents.",
+    "thesis_grounding": "GROUNDED",
+    "claims_checked": 12,
+    "claims_failed": 0,
+    "flags": [],
+    "notes": "Clean file. Thesis is carried explicitly by Ibn Kathir on 17:23 ('The idea of worshipping Allah is connected to the idea of honoring one's parents') and by al-Tabari via Qatadah ('man arda walidayhi: arda khaliqahu'). The file makes NO tafsir attributions at all and NO countable/absolute claims, so checks 2, 3 and 5 have nothing to fail; all superlatives are hedged ('one of the most concentrated moral summaries'). Word glosses all match: al-Jalalayn 'makhdhulan = la nasira lak'; Ibn Kathir on madhmum/makhdhul, uff, tanhar, qawlan kariman, khafd al-janah. Adab holds: the passage is not a fighting/hudud/interfaith verse, the file issues no ruling, and it explicitly makes room for complicated family histories.\n\nTASK NOTE RESOLVED (12:40 / 17:23): this file makes no occurrence-count claim, so the published article is not exposed by anything here. I still verified the shared claim mechanically against quran-verses.json with full normalization (harakat + waqf marks stripped, alif variants folded, whitespace collapsed): the phrase 'alla ta'budu illa iyyah' occurs in exactly TWO places, 12:40 and 17:23. The public article's claim STANDS. (For contrast, 'alla ta'budu illa Allah' is a different phrase and occurs at 11:2, 41:14, 46:21 — worth keeping distinct if that article ever gets edited.)\n\nTwo enrichment opportunities for the human, NOT defects: (1) Both Ibn Kathir and al-Tabari open their commentary on 17:23 by correcting 'qada' from 'decreed' to 'commanded/enjoined' (Mujahid, Ibn Abbas, Qatadah; Ubayy/Ibn Mas'ud/ad-Dahhak read 'wassa'), and al-Tabari records the al-Hasan al-Basri anecdote showing this exact confusion caused a public qadar controversy. The file uses 'has decreed' three times without that gloss. It never asserts a qadar reading, so this is not a false thesis — but it is the single most-commented point on the ayah and its absence is conspicuous. (2) Ibn Kathir notes that the du'a 'rabbi irhamhuma' for parents was later qualified by 9:113 for non-Muslim parents; the file says 'Pray for them' unqualified, which matters for the convert segment of the audience."
+  },
+  {
+    "file": "067-al-mulk/ayahs-001-005.md",
+    "verdict": "FLAG",
+    "thesis": "The first five ayahs descend from divine sovereignty to the reader's own eye: death is a positive creation that gives life its stakes, and the sky is a design so flawless that any critical gaze sent to find a fault returns humbled and exhausted.",
+    "thesis_grounding": "GROUNDED",
+    "claims_checked": 19,
+    "claims_failed": 3,
+    "flags": [
+      {
+        "quote": "And here is what fourteen centuries of astronomy have confirmed: the deeper you look, the more coherent it gets. The laws of physics at the edge of the observable universe are the same as the laws in your living room.",
+        "issue": "Unhedged i'jaz 'ilmi bridging — the house style quarantines exactly this move. Modern astrophysics is presented as CONFIRMING the Quranic dare, with no flag that this is the author's extension rather than the passage's claim. None of the four fetched editions reads 67:3-4 this way: Ibn Kathir, Ibn Abbas, Mujahid, ad-Dahhak, ath-Thawri, as-Suddi and Qatadah all gloss tafawut/futur as flaw, deficiency, tear, rift in the construction of the heavens — a theological-aesthetic claim, not a claim about physical law. The empirical assertion is also overstated as stated. Compounding the adab problem, the fetched Ibn Kathir on 67:5 carries Qatadah's explicit warning against reading extra meanings into the heavens: whoever interprets them beyond the three stated purposes 'has spoken with his own opinion... and burdened himself with that which he has no knowledge of.' This is the must-fix line and the one most likely to be quoted against the site.",
+        "severity": "moderate"
+      },
+      {
+        "quote": "It is Form VI — *tafa'ala* — which in Arabic typically means reflexive or mutual action. *Ta'allama* means to learn (reflexive of being taught).",
+        "issue": "Morphology error in the file's flagship linguistic section. ta'allama (تعلّم, doubled middle radical, tafa''ala) is Form V, NOT Form VI. Form VI is tafa'ala with the long alif — confirmed against quranic-corpus.json, where every VF:6 verb in the Quran carries that pattern (تعالى 14x, يتساءل 9x, تبارك 9x, تنازع 7x, تشابه 4x); ta'allama does not appear in the corpus at all and cannot be a Form VI example. The second example given, tashaaraka, IS correctly Form VI, so only the first needs replacing (taqatala, tabadala, or the file's own تعالى/تشابه would all work).",
+        "severity": "moderate"
+      },
+      {
+        "quote": "Ibn Kathir connected it back to *barakah* — the source and outpouring of all blessing originates from Him.",
+        "issue": "Attribution does not match the fetched Ibn Kathir on 67:1, which glosses tabaraka only as 'Allah the Exalted glorifies His Noble Self and informs that the dominion is in His Hand' and never derives it from barakah. Fetch succeeded for all four editions, so this is a genuine mismatch, not an unknown. (By contrast the adjacent al-Tabari attribution IS confirmed: al-Tabari's gloss is literally 'ta'azama wa ta'ala'.)",
+        "severity": "moderate"
+      },
+      {
+        "quote": "Al-Fudayl ibn 'Iyad, when asked about this verse, said: *ahsanuhu* means the most sincere and the most correct.",
+        "issue": "Absent from all four fetched editions. On this exact point the fetched Ibn Kathir attributes 'best in deeds, not most deeds' to Muhammad bin 'Ajlan, not al-Fudayl. The al-Fudayl narration (akhlasuhu wa aswabuhu) is well known from other tafsirs, but it is unverifiable from this fetch and the named source here does not carry it — needs a real citation or reattribution to Ibn 'Ajlan.",
+        "severity": "minor"
+      },
+      {
+        "quote": "Al-Zajjaj said: *ta'ala* — He is exalted.",
+        "issue": "Neither al-Zajjaj nor al-Razi appears in the four fetched editions, so both attributions in this paragraph are unverifiable from this fetch. Note specifically that al-Tabari's own gloss is the pair 'ta'azama wa ta'ala' — the file splits those two words between al-Zajjaj and al-Tabari, which may be where the al-Zajjaj attribution came from. Same applies to 'Al-Razi said the Form VI pattern, when applied to Allah, indicates that the quality described is inherent, essential, and self-generated.'",
+        "severity": "minor"
+      },
+      {
+        "quote": "It is the preventer. It is the deliverer. It delivers from the punishment of the grave.",
+        "issue": "Direct Prophetic speech quoted with no collection named and no grading, inside the tent-over-the-grave narration attributed to Ibn Abbas. Absent from all four fetched editions — the fetched Ibn Kathir carries two DIFFERENT virtue hadiths for Al-Mulk (the thirty-ayah intercession hadith via Abu Hurayrah, and the surah arguing for its reciter via Anas). The narration quoted here is the one commonly graded weak. Same source problem for 'There are narrations describing him as not sleeping until he had recited it' and for the passage_context claim 'the Prophet recommended reading every night'. Sacred-content adab: either cite and grade, or swap in the two hadiths Ibn Kathir actually supplies.",
+        "severity": "minor"
+      },
+      {
+        "quote": "*Karratayni* — the dual form. Not once more. Twice more.",
+        "issue": "One reading asserted against documented ikhtilaf. Qatadah (in the fetched Ibn Kathir) does say 'it means look twice' — but Ibn Kathir's own summary of the ayah is 'if you continuously looked, no matter how much you look, your sight will return to you', i.e. the dual read as repetition rather than a literal count. The file's emphatic 'Not once more. Twice more' and the later 'Look again. Look a third time' pick a side without noting the alternative.",
+        "severity": "minor"
+      }
+    ],
+    "notes": "Thesis itself is GROUNDED — Ibn Kathir carries all three load-bearing pieces (death as an existing created thing, 'Allah did not say which of you does the MOST deeds', and the gaze returning khasi' and hasir from finding no flaw). The problems are all in the supporting layer, and they cluster in two places.\n\nVERIFIED CLEAN (do not re-litigate): tabaraka is used exclusively of Allah — I pulled every root برك segment from quranic-corpus.json; tabaraka occurs 9x (7:54, 23:14, 25:1, 25:10, 25:61, 40:64, 43:85, 55:78, 67:1), all VF:6 PERF 3MS, and every subject is Allah or (55:78) the Name of the Lord, so 'no human, no angel, no prophet' holds. Al-Mulk has 30 ayahs (confirmed in corpus and by al-Jalalayn). Meccan — confirmed by al-Jalalayn. 2:28 quotation correct and Ibn Kathir cites the same ayah for the same point. tafawut root فوت and futur/fitra sharing root فطر both confirmed. khasi' and hasir glosses match Ibn Abbas/Mujahid/Qatadah/as-Suddi as fetched. The 'fa'il pattern' remark on hasir reads as intended for fa'il (فَعِيل, the sifah mushabbahah denoting a settled quality) and is substantively correct — only the missing macron makes it ambiguous with fa'il (فاعل); worth adding the long vowel.\n\nTWO FIXES DO THE MOST WORK: (1) delete or reframe the astronomy paragraph at line 176 — the surrounding argument does not need it and is stronger without it, since the classical reading is about design integrity, not physical law; (2) replace 'Ta'allama' with a real Form VI verb at line 100. After those, the remaining five flags are citation hygiene in two paragraphs (the tabaraka scholar-stack at line 104, the al-Fudayl line at 138, and the virtue-hadith opening at line 78) and can be cleared together. No truncation artifacts; all four editions fetched successfully for all five ayahs."
+  },
+  {
+    "file": "040-ghafir/ayahs-069-072.md",
+    "verdict": "FLAG",
+    "thesis": "Six verbs are predicated of the disputers across 40:69-72 and their voice alternates active-passive-active-active-passive-passive, showing a man who never stops acting and never once stops being acted upon; and the collar of ayah 71 shares a root and a base motion (entering something and lodging in its middle) with ghill, the grudge in the chest.",
+    "thesis_grounding": "GROUNDED",
+    "claims_checked": 21,
+    "claims_failed": 0,
+    "flags": [
+      {
+        "quote": "The collars — *al-aghlāl* — clamp at the neck; the chains — *al-salāsil* — bind at the feet",
+        "issue": "Presented as settled commentator consensus ('The classical commentators fill in only what the verbs leave bare') when the fetched editions record ikhtilaf. al-Muyassar does say exactly this ('al-aghlal fi a'naqihim, wa-s-salasil fi arjulihim'), and al-Jalalayn offers it as ONE option ('aw mubtada' khabaruhu mahdhuf ay fi arjulihim'), but al-Jalalayn's first option puts the chains on the necks too, and al-Tabari explicitly adjudicates the qira'ah in favour of the raf' reading — coordinating al-salasil with al-aghlal 'fi a'naqihim' — and calls that the correct reading by ijma' al-hujjah. One clause fixes it ('on one reading; al-Tabari coordinates the chains with the collars at the necks').",
+        "severity": "minor"
+      },
+      {
+        "quote": "al-Rāghib is explicit under this root: *al-ghull* is the specific name for the thing a person is bound with — the ring that takes the limbs into its middle — **and its plural is *aghlāl*.**",
+        "issue": "al-Raghib al-Isfahani's Mufradat is not one of the four editions this pipeline fetches, so the citation is unverifiable from this run (fetch itself succeeded for all four ayahs, so this is a source-coverage gap, not a failed fetch). Noting it for completeness only: the claim is used to NARROW the file's own argument rather than extend it, which is the safe direction, and it is lexicographically standard.",
+        "severity": "minor"
+      }
+    ],
+    "notes": "This file is the strongest of the three and its central mechanism verified completely against the corpus — recommend clearing the two minor flags and passing it.\n\nEVERY COUNTABLE CLAIM VERIFIED MECHANICALLY: (1) 'Five times this surah returns to the disputer' — root جدل occurs exactly 5x in surah 40, at ayahs 4, 5, 35, 56, 69, precisely the five the file names. (2) 'No other surah circles him like this' — TRUE; the next highest are surahs 4, 11 and 22 at 3 occurrences each, so 40 is uniquely highest. (3) The six verbs: yujadiluna (VF:3 IMPF active — Form III confirmed), yusrafun (VF:1 IMPF PASS), kadhdhabu (VF:2 PERF active — Form II and perfect tense both confirmed), ya'lamun (IMPF active), yushabun (PASS), yusjarun (PASS). Three active, three passive, in exactly the order the file claims. The file also correctly EXCLUDES tara (predicated of the Prophet) and arsalna (predicated of Allah) from the count. (4) 'the only active verb in this passage that is still ahead of them' — holds: disputing is IMPF-ongoing, kadhdhabu is PERF-sealed, and both remaining futures are passive. (5) The ghull/ghill root claim is exactly right and admirably careful — quranic-corpus.json really does file 40:71 أَغْلَٰلُ under lemma غِلّ, which is the artifact the file describes, and the file then explicitly refuses to overreach ('These are two distinct nouns, not one noun at two stages of its life... A digital index files the two under one headword only because, unvocalised, they are the same three letters'). That self-correction is the model for how this genre should handle a suggestive index artifact. (6) 7:43 and 15:47 — verified with full normalization: both ayahs open on the byte-identical clause wa-naza'na ma fi sudurihim min ghillin, and diverge exactly as described (7:43 to the rivers beneath, 15:47 to brothers on couches facing each other). (7) 40:4, 40:5, 40:35, 40:56 paraphrases and the 40:73-74 quotation all check out against the Uthmani text.\n\nATTRIBUTIONS THAT MATCH THE FETCH: al-Muyassar's folded second question and 'al-bayan al-tam' is a direct hit ('kayfa ya'diluna 'anha ma'a sihhatiha? wa ila ayyi shay'in yadhhabuna ba'da al-bayan al-tamm'); al-Jalalayn confirms yusrafun is 'an al-iman and that ayat Allah here means al-Qur'an; al-Tabari and al-Muyassar both supply the zabaniya doing the dragging; Mujahid in al-Tabari confirms yusjarun as being made the fire's fuel. Adab holds — al-Jalalayn identifies the disputers as the people of Mecca, which is how the file frames them, and the file turns the passage inward rather than at any present-day group. No truncation artifacts.\n\nOne precision nit not worth a flag: the intro says 'The word is جِدَال — jidāl' when all five occurrences in surah 40 are verbal, never the masdar. The file is explicit about this two sections later ('Now the verb as the ayah shapes it'), so it self-corrects."
+  }
+]

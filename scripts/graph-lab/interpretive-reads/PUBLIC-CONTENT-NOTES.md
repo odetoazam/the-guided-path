@@ -54,8 +54,14 @@ commentaries".
 
 ## Verified sound, no action
 
-- **`/posts/yusuf-decree-worship-none-but-him-quran`** — its "exactly two
-  places" claim for the *worship none but Him* construction (12:40, 17:23) was
-  assigned to a wave-2 reviewer alongside `017-al-isra/ayahs-022-025.md`
-  specifically because a public article depends on it. See that group's
-  verdict file for the mechanical result.
+- **`/posts/yusuf-decree-worship-none-but-him-quran`** — VERIFIED 2026-07-31.
+  The exact construction أَلَّا تَعْبُدُوٓا۟ إِلَّآ إِيَّاهُ occurs in exactly
+  two verses, 12:40 and 17:23. Checked directly against the Uthmani text rather
+  than relying on the wave-2 read, because that reviewer correctly reported the
+  tadabbur file itself makes no countable claims — so the article's claim was
+  never actually under test.
+
+  Method note for whoever re-runs this: the word carries a maddah (تَعْبُدُوٓا۟)
+  and a normalizer that strips it returns ZERO matches for the phrase, which
+  looks like a refuted claim and is not. Strip harakat but keep the maddah, or
+  search for the longest shared substring between the two verses and count that.
