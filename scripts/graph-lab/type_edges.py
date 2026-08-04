@@ -137,8 +137,23 @@ for f in files:
         proots |= ayah_roots.get(f"{surah}:{a}", set())
     nodes[ref] = {'surah': surah, 'lo': lo, 'hi': hi, 'file': f,
                   'title': title, 'themes': themes, 'roots': proots}
+    # 40 ayahs are covered by more than one node (e.g. 9:5 is claimed by both
+    # the single-ayah node 9:5 and the passage node 9:4-6). A plain assignment
+    # here let whichever file the glob happened to visit last own the ayah, so
+    # the same corpus could produce different graphs on different machines.
+    # Resolve deterministically instead: the NARROWEST node wins, because a
+    # citation of 9:5 belongs with the treatment of 9:5 rather than with the
+    # passage that merely contains it. Equal spans tie-break on ref so the
+    # result is stable regardless of filesystem order.
     for a in range(lo, hi + 1):
-        ayah_index[f"{surah}:{a}"] = ref
+        key = f"{surah}:{a}"
+        prev = ayah_index.get(key)
+        if prev is not None:
+            prev_span = nodes[prev]['hi'] - nodes[prev]['lo']
+            span = hi - lo
+            if (span, ref) >= (prev_span, prev):
+                continue
+        ayah_index[key] = ref
     mr = re.search(r'related_ayahs:\s*\[(.*?)\]', fm, re.S)
     if mr:
         for x in mr.group(1).split(','):

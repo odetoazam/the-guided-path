@@ -56,9 +56,11 @@ def corpus_hash():
 
 
 def overlap_report():
-    """Ayahs claimed by more than one node. Edge resolution attaches a cited
-    ayah to whichever node the glob happened to register last -> arbitrary. Not
-    fatal, but every overlap is a reconciliation TODO."""
+    """Ayahs covered by more than one node — e.g. 9:5 is treated both by the
+    single-ayah file 9:5 and by the passage file 9:4-6. Edge attachment is
+    deterministic (narrowest node wins, see type_edges.py), so this no longer
+    changes the graph between machines. It remains a content reconciliation
+    TODO: two files claim the same ayah."""
     claims = defaultdict(list)
     for f in content_files():
         sm = re.match(r'(\d+)', f.split('/')[-2])
@@ -110,7 +112,7 @@ def build():
     print(f"corpus_hash stamped: {h}  ({len(content_files())} files)")
     ov = overlap_report()
     if ov:
-        print(f"⚠  {len(ov)} ayah(s) claimed by >1 node (edge attachment is glob-order-arbitrary):")
+        print(f"⚠  {len(ov)} ayah(s) covered by >1 node (resolution: narrowest wins; content-reconciliation TODO):")
         for k, v in list(ov.items())[:8]:
             print(f"     {k[0]}:{k[1]}  {v}")
         if len(ov) > 8:

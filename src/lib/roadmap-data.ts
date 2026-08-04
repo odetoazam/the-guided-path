@@ -1,7 +1,7 @@
 // ── Updated by /cofounder skill at session end ────────────────────────────────
 
 export const ROADMAP = {
-  lastUpdated: 'July 13, 2026',
+  lastUpdated: 'July 31, 2026',
 
   content: {
     totalAyahs: 6236,
@@ -61,10 +61,16 @@ export const ROADMAP = {
     'Definition of "substrate v1.0 done" — measurable gates so graph work has a finish line (deliberation F5); discovery below DF≤10 stays closed pending a phrase-level method.',
     'Do we collect user reflections? Unlocks longitudinal memory (the Blomma moat).',
     'Paths bet review 2026-09-25: do article/hub attribution strips (?src=) beat the old homepage baseline (9 visitors/60d)? If not, archive paths.',
+    'Ayah reader route (/reflections): built 2026-07-31 against NORTH-STAR decision 4, then noindexed + pulled from nav and sitemap. Keep it as an unindexed path/hub destination, delete it, or reopen the decision? It also does not filter to validated nodes yet (decision 2).',
     'Monetization + scholar endorsements: who first, what the ask looks like.',
   ],
 
   shipped: [
+    { title: 'Guided paths repaired: all 20 stops now land on real content (was 13)', date: 'Jul 2026' },
+    { title: 'Hub synthesis backlog closed — 25 written; every hub with 3+ articles has a real overview', date: 'Jul 2026' },
+    { title: '4 corpus-verified articles filling empty path hubs (tadabbur, tawakkul, khushu, nazm)', date: 'Jul 2026' },
+    { title: 'Ayah records tagged into the graph: 398 tags, 35 -> 160 records connected, 4 -> 44 hubs', date: 'Jul 2026' },
+    { title: 'Sitemap repair: articles were entirely omitted (Next Data-Cache froze the Supabase read)', date: 'Jul 2026' },
     { title: 'Landing redesign (advisor/persona-tested): content-forward hero, articles surfaced, honest paths band', date: 'Jul 2026' },
     { title: 'Paths distribution: /paths index + attribution strips on article/hub pages (instrumented)', date: 'Jul 2026' },
     { title: 'FAQ AEO layer: 36 Q&As across top-10 organic articles (FAQPage schema 1→11)', date: 'Jul 2026' },
