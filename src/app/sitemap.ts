@@ -3,7 +3,7 @@ import { CANONICAL_URL } from '@/lib/constants'
 import { SURAHS, surahSlug } from '@/lib/surahs'
 import { GLOSSARY_TERMS } from '@/data/glossary'
 import { PATHS } from '@/data/paths'
-import { reflectionSlug, reflectionContentLength } from '@/lib/reflection-render'
+
 import { MetadataRoute } from 'next'
 
 // The Supabase REST calls below go through Next's patched fetch, which caches
@@ -21,7 +21,6 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     { url: `${CANONICAL_URL}/understanding-quran`, lastModified: now, changeFrequency: 'monthly', priority: 0.85 },
     { url: `${CANONICAL_URL}/ulum-al-quran`, lastModified: now, changeFrequency: 'monthly', priority: 0.8 },
     { url: `${CANONICAL_URL}/articles`, lastModified: now, changeFrequency: 'daily', priority: 0.8 },
-    { url: `${CANONICAL_URL}/reflections`, lastModified: now, changeFrequency: 'weekly', priority: 0.85 },
     { url: `${CANONICAL_URL}/paths`, lastModified: now, changeFrequency: 'monthly', priority: 0.8 },
     { url: `${CANONICAL_URL}/glossary`, lastModified: now, changeFrequency: 'weekly', priority: 0.75 },
     { url: `${CANONICAL_URL}/about`, lastModified: now, changeFrequency: 'monthly', priority: 0.7 },
@@ -93,30 +92,12 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
       })
     }
 
-    // Ayah reflection pages (e.g. /reflections/ash-sharh-94-1-8) — the deepest
-    // content on the site, ~4,000 words each. A handful of records hold only a
-    // stub of prose, so submit the substantial ones and leave the rest to be
-    // reached through the index and their surah pages.
-    const { data: ayahRecords } = await supabase
-      .from('ayah_records')
-      .select('surah_number, ayah_start, ayah_end, updated_at, layer_a, layer_b')
-      .eq('status', 'published')
-
-    if (ayahRecords) {
-      ayahRecords.forEach((record) => {
-        if (reflectionContentLength(record as never) < 3000) return
-        entries.push({
-          url: `${CANONICAL_URL}/reflections/${reflectionSlug(
-            record.surah_number,
-            record.ayah_start,
-            record.ayah_end
-          )}`,
-          lastModified: record.updated_at ? new Date(record.updated_at) : now,
-          changeFrequency: 'monthly',
-          priority: 0.8,
-        })
-      })
-    }
+    // Ayah reflection pages are deliberately NOT submitted. NORTH-STAR
+    // decision 4 (Jul 7, 2026, Azam, explicit): the tadabbur corpus is not a
+    // web-publishing asset — it is the grounding corpus for AI surfaces, and
+    // SEO/AEO distribution of the deep corpus is off the table. The route at
+    // /reflections/[slug] exists only to give guided-path ayah stops and hub
+    // ayah cards a destination, and carries robots: noindex.
 
     // Entity hub pages (e.g. /hub/shaytan)
     // Only hubs that actually have published content are submitted. A hub with no
