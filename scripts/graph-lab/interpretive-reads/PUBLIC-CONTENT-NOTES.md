@@ -65,3 +65,43 @@ commentaries".
   and a normalizer that strips it returns ZERO matches for the phrase, which
   looks like a refuted claim and is not. Strip harakat but keep the maddah, or
   search for the longest shared substring between the two verses and count that.
+
+---
+
+## ⚠ `041-fussilat/ayah-053.md` — FALSE THESIS. Needs regeneration, not a patch.
+
+The first UNGROUNDED thesis in the whole pass (53 files read at the time). Every
+other flagged file has a sound thesis with defective scaffolding; this one's
+central claim does not survive the tafsir.
+
+**The file reads 41:53 as an "evidence program" — signs unfolding across
+centuries of human scientific discovery until truth self-clarifies.** That
+reading depends on two moves the commentators unanimously reject:
+
+1. **The pronoun in أَنَّهُ ٱلْحَقُّ.** All four editions gloss it as **the
+   Qur'an**, with no ikhtilaf — al-Jalalayn: ﴿حتى يتبين لهم أنه﴾ أي القرآن
+   ﴿الحق﴾; al-Muyassar: أن القرآن الكريم هو الحق; Ibn Kathir: "until it becomes
+   manifest to them that this (the Qur'an) is the truth". The file reads it as
+   truth-in-general, which is what lets the verse become a prophecy about
+   science rather than a statement about the Qur'an being vindicated.
+2. **أَوَلَمْ يَكْفِ is inverted.** The file has Allah turning away from the
+   doubter to address the Prophet. The editions read the sufficiency as aimed
+   AT the deniers, as proof of the Prophet's truthfulness (al-Muyassar: أولم
+   يكفهم دليلًا على أن القرآن حق، ومَن جاء به صادق).
+
+Plus a claim that is simply false, verified twice — once by the reviewer, once
+directly: the file says fingers-in-ears is "literally described in this surah".
+Surah Fussilat contains أذان only at 41:5 (deafness in the ears) and 41:44.
+The fingers-in-ears image is not in this surah at all.
+
+**Why this one is different:** the other 26 flags are additive — supply the
+missing ikhtilaf and the file is sound. Here the thesis itself is the defect,
+so a paragraph cannot fix it. Per the master validation policy this belongs in
+the priority regeneration queue via `/quranic-tadabbur`, not in an editing pass.
+It stays `validated: false` until then.
+
+**Method note worth keeping:** this file was caught because the wave-3 brief
+warned the reviewer that 41:53 and 86:5-7 are the two most common iʿjāz ʿilmī
+anchor verses in circulation and that house style quarantines that move.
+Targeting known-risk verses with an explicit warning is what surfaced it —
+a generic read might not have pushed on the pronoun.
