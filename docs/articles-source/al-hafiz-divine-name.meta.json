@@ -1,0 +1,40 @@
+{
+  "slug": "al-hafiz-divine-name-quran",
+  "title": "Al-Hafiz: The Divine Name Yusuf Used About Himself",
+  "excerpt": "Al-Hafiz occurs twelve times in the Quran, and one of them is not about God. Standing before the king of Egypt, Yusuf describes himself with the same word — and the tradition treats that as entirely ordinary.",
+  "seo_title": "Al-Hafiz: Meaning of the Divine Name in the Quran",
+  "seo_description": "Al-Hafiz, the Preserver, appears twelve times in the Quran — and once Yusuf uses it of himself. What the root means and why the tradition is untroubled.",
+  "tags": [
+    "al-hafiz",
+    "asma-al-husna",
+    "divine-names",
+    "yusuf",
+    "hud",
+    "al-hijr",
+    "name-breakdown"
+  ],
+  "entity_tags": [
+    {
+      "slug": "tawhid",
+      "is_primary": true
+    },
+    {
+      "slug": "yusuf"
+    },
+    {
+      "slug": "hud"
+    },
+    {
+      "slug": "amanah"
+    }
+  ],
+  "quran_refs": [
+    "11:57",
+    "12:55",
+    "15:9",
+    "34:21",
+    "42:48"
+  ],
+  "reading_time_minutes": 6,
+  "html_path": "docs/articles-source/al-hafiz-divine-name.html"
+}
