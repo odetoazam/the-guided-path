@@ -1,62 +1,57 @@
-# Script-corruption queue (found 2026-07-31)
+# Script corruption — found and repaired 2026-07-31
 
-Raw Arabic characters spliced into English / transliteration in reader-facing
-prose — e.g. `نearness` for "nearness", `wa ادعوا man استطعتum` for a romanized
-line. Surfaced by the wave-2 interpretive reads, then swept corpus-wide.
+Raw Arabic characters spliced into English or transliteration in reader-facing
+prose. Surfaced by two wave-2 interpretive reads, then swept corpus-wide with a
+check for any Arabic character directly adjacent to a Latin one.
 
-Each needs the intended romanization supplied, so this is a focused pass rather
-than a find-replace. Two hits are in `tafsir-report-*.md` files and are just a
-tatweel carried in from the source text — harmless.
+The pattern is consistent: a Latin letter or word was replaced by a visually or
+phonetically similar Arabic one — `ن` for *n*, `م` for *m*, a bare damma for the
+vowel *u*, and in a few places a whole Arabic word dropped into a romanized
+line.
 
-**18 occurrences across 16 files.**
+**18 occurrences across 16 files. 16 repaired, 2 left below.**
 
+## Repaired
 
-## 001-al-fatiha/ayahs-003-004.md
-- …r the other way around?  - Where in your life are you being نurturing like a رب but calling it something else…
+| file | was | now |
+|---|---|---|
+| 003-aal-imran/ayah-022 | `allā yُqbal` | `allā yuqbal` |
+| 050-qaf/ayah-031 | `نearness` | `nearness` |
+| 001-al-fatiha/ayahs-003-004 | `نurturing` | `nurturing` |
+| 001-al-fatiha/ayahs-003-004 | `like a رب` | `like a rabb` |
+| 045-al-jathiyah/ayah-016 | `آتَيْnā` | `ātaynā` |
+| 077-al-mursalat/ayah-047 | `mكذِّب` | `mukadhdhib` |
+| 060-al-mumtahanah/ayah-007 | `عَادَيْتُm` | `ʿādaytum` |
+| 010-yunus/ayahs-037-040 | `wa ادعوا man استطعتum min duni Allah` | `wa'dʿū man istaṭaʿtum min dūni Allāh` |
+| 008-al-anfal/ayahs-047-049 | `wa inni جارun lakum` | `wa innī jārun lakum` |
+| 016-an-nahl/ayahs-112-119 | `Fa-mani اضطرra` | `Fa-mani uḍṭurra` |
+| 005-al-maidah/ayah-003 (×2) | `mani اضطرra` | `mani uḍṭurra` |
+| 046-al-ahqaf/ayah-017 | `ufﭐin` | `uffin` |
+| 028-al-qasas/ayah-012 | `mِن قَبْلُ` | `مِن قَبْلُ` (Latin m had replaced the meem) |
+| 004-an-nisa/tafsir-report-162 | `themـand` | `them and` (tatweel for a space) |
+| 005-al-maidah/tafsir-report-003 (×2) | `horns ـand`, `animal ـunless` | spaces restored |
 
-## 003-aal-imran/ayah-022.md
-- …ng void **in the dunyā** means *it is not accepted* — *allā yُqbal.* Its being void **in the ākhirah** means *…
+`verify_arabic` re-run on the touched files: 0 failures.
 
-## 004-an-nisa/ayah-040.md
-- …reward, recompense, return for what was done - and it is وصفed as **'azim**, tremendous, immense, weighty in…
+## Left for Azam — 2, because the intended wording is a judgment call
 
-## 004-an-nisa/tafsir-report-162.md
-- …ul for them certain good foods which had been lawful for themـand for their hindering many from Allah's way (1…
+**`004-an-nisa/ayah-040.md`**
+> …what was done - and it is **وصفed** as *'azim*, tremendous…
 
-## 005-al-maidah/ayah-003.md
-- …alaykum ni'mati wa raditu lakumu al-islama dina. Fa mani اضطرra fi makhmasatin ghayra mutajanifin li-ithmin fa…
-- …completion, and divine approval, the verse says:  fa man اضطرra fi makhmasah ghayra mutajanifin li-ithm.  Whoe…
+The Arabic وصف (*waṣf*, description) sits where an English verb belongs. Reads
+naturally as "it is **described** as ʿaẓīm", but that is a guess at the author's
+sentence rather than a repair of a corrupted character, so it is left alone.
 
-## 005-al-maidah/tafsir-report-003.md
-- …lent blow, or by a headlong fall, or by the goring of horns ـand that which has been (partly) eaten by a wild…
-- …ns ـand that which has been (partly) eaten by a wild animal ـunless you are able to slaughter it (before its d…
+**`055-ar-rahman/ayah-053.md`**
+> Some say *ilā*, some *aluw*, some *ilْy*. Several candidate singulars…
 
-## 008-al-anfal/ayahs-047-049.md
-- …He knows how to read crowds, not qadar.  Then:  **wa inni جارun lakum**.  I am your neighboring protector. I a…
+A bare sukun (ْ) sits inside a romanized form in a list of proposed singulars.
+Probably `ily`, but the passage is enumerating competing lexical proposals and
+the intended form matters, so this needs the author rather than an inference.
 
-## 010-yunus/ayahs-037-040.md
-- …able force.  Then it widens the field:  **wa ادعوا man استطعتum min duni Allah**.  Call whoever you can beside…
+## Worth adding to the pipeline
 
-## 016-an-nahl/ayahs-112-119.md
-- …al-khinziri wa ma uhilla li-ghayri Allahi bihi. Fa-mani اضطرra ghayra baghin wa la 'adin fa-inna Allaha ghafu…
-
-## 028-al-qasas/ayah-012.md
-- …ey return to is the one that was always — purely, entirely, mِن قَبْلُ — theirs.**  ---  ### The Closing Invit…
-
-## 045-al-jathiyah/ayah-016.md
-- …e two verbs name two different *orders* of gift.  Under آتَيْnā — the verb of weighty conferral — He places **…
-
-## 046-al-ahqaf/ayah-017.md
-- …in several ways — some with a final *kasra* and tanwīn (**ufﭐin**), some with *fatḥa* and no tanwīn (**uffa**…
-
-## 050-qaf/ayah-031.md
-- …nd favor.**  From this same root comes the word **zulfa** — نearness in the sense of *closeness to a king, a p…
-
-## 055-ar-rahman/ayah-053.md
-- …t its singular even is. Some say *ilā*, some *aluw*, some *ilْy*. Several candidate singulars are offered, and…
-
-## 060-al-mumtahanah/ayah-007.md
-- …at these people were enemies — it says it plainly, `عَادَيْتُm`, "you fought them," and the surah's other vers…
-
-## 077-al-mursalat/ayah-047.md
-- …ing to the specific measure of what each one denied*. Every mكذِّب who denied a particular thing carries a woe…
+The check is two lines and catches the whole class — any Arabic character
+directly adjacent to a Latin one, outside frontmatter and HTML comments. Worth
+running alongside `check_frontmatter_arabic.py` whenever new tadabbur lands,
+since neither of the existing validators looks for it.

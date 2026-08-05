@@ -326,7 +326,7 @@ Take these with you. They are not rhetorical. Leave them genuinely open.
 
 ### One-Sentence Distillation
 
-**When Allah closes every door of foreign sustenance, He does so not to abandon the beloved but to ensure that the only hand they return to is the one that was always — purely, entirely, mِن قَبْلُ — theirs.**
+**When Allah closes every door of foreign sustenance, He does so not to abandon the beloved but to ensure that the only hand they return to is the one that was always — purely, entirely, مِن قَبْلُ — theirs.**
 
 ---
 

@@ -218,7 +218,7 @@ Because here is the theology hiding underneath, and it is staggering. When you f
 
 So sit with what this asks of you.
 
-It is not asking you to pretend the harm didn't happen. The verse does not deny that these people were enemies — it says it plainly, `عَادَيْتُm`, "you fought them," and the surah's other verses preserve real, lawful boundaries against those still waging war. Allah is not naïve about evil. **He is just not finished with people the way we are finished with people.**
+It is not asking you to pretend the harm didn't happen. The verse does not deny that these people were enemies — it says it plainly, `ʿādaytum`, "you fought them," and the surah's other verses preserve real, lawful boundaries against those still waging war. Allah is not naïve about evil. **He is just not finished with people the way we are finished with people.**
 
 The hardness in *your* heart you cannot move by willpower. You have tried. You know you cannot simply *decide* to stop resenting someone who wounded you; the resentment has roots you didn't plant and can't pull. But that same hardness — in *their* heart, and in yours — is `هَيِّن` before `al-Qadīr`. Light. Movable. The thing you experience as a permanent feature of reality is, to Allah, a temporary weather pattern.
 

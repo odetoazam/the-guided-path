@@ -47,7 +47,7 @@ concepts: [tawhid, quran, khashyah, law-and-ethics, iman]
 
 [ayah:5:3] حُرِّمَتْ عَلَيْكُمُ ٱلْمَيْتَةُ وَٱلدَّمُ وَلَحْمُ ٱلْخِنزِيرِ وَمَآ أُهِلَّ لِغَيْرِ ٱللَّهِ بِهِۦ وَٱلْمُنْخَنِقَةُ وَٱلْمَوْقُوذَةُ وَٱلْمُتَرَدِّيَةُ وَٱلنَّطِيحَةُ وَمَآ أَكَلَ ٱلسَّبُعُ إِلَّا مَا ذَكَّيْتُمْ وَمَا ذُبِحَ عَلَى ٱلنُّصُبِ وَأَن تَسْتَقْسِمُوا۟ بِٱلْأَزْلَـٰمِ ۚ ذَٰلِكُمْ فِسْقٌ ۗ ٱلْيَوْمَ يَئِسَ ٱلَّذِينَ كَفَرُوا۟ مِن دِينِكُمْ فَلَا تَخْشَوْهُمْ وَٱخْشَوْنِ ۚ ٱلْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ نِعْمَتِى وَرَضِيتُ لَكُمُ ٱلْإِسْلَـٰمَ دِينًا ۚ فَمَنِ ٱضْطُرَّ فِى مَخْمَصَةٍ غَيْرَ مُتَجَانِفٍ لِّإِثْمٍ ۙ فَإِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ
 
-*Hurrimat 'alaykumu al-maytatu wa al-damu wa lahmu al-khinziri wa ma uhilla lighayri Allahi bihi wa al-munkhaniqatu wa al-mawqudhatu wa al-mutaraddiyatu wa al-natihatu wa ma akala al-sabu'u illa ma dhakkaytum wa ma dhubiha 'ala al-nusubi wa an tastaqsimu bil-azlam. Dhalikum fisq. Al-yawma ya'isa alladhina kafaru min dinikum fala takhshawhum wa ikhshawni. Al-yawma akmaltu lakum dinakum wa atmamtu 'alaykum ni'mati wa raditu lakumu al-islama dina. Fa mani اضطرra fi makhmasatin ghayra mutajanifin li-ithmin fa inna Allaha ghafurun rahim.*
+*Hurrimat 'alaykumu al-maytatu wa al-damu wa lahmu al-khinziri wa ma uhilla lighayri Allahi bihi wa al-munkhaniqatu wa al-mawqudhatu wa al-mutaraddiyatu wa al-natihatu wa ma akala al-sabu'u illa ma dhakkaytum wa ma dhubiha 'ala al-nusubi wa an tastaqsimu bil-azlam. Dhalikum fisq. Al-yawma ya'isa alladhina kafaru min dinikum fala takhshawhum wa ikhshawni. Al-yawma akmaltu lakum dinakum wa atmamtu 'alaykum ni'mati wa raditu lakumu al-islama dina. Fa mani uḍṭurra fi makhmasatin ghayra mutajanifin li-ithmin fa inna Allaha ghafurun rahim.*
 
 **Forbidden to you are carrion, blood, the flesh of swine, and that which has been dedicated to other than Allah, and the strangled, the beaten, the fallen, the gored, and that which a wild animal has eaten, except what you are able to slaughter before its death, and that which is sacrificed on stone altars, and that you seek decision through divining arrows. That is grave disobedience. Today those who disbelieve have despaired of your religion, so do not fear them; fear Me. Today I have perfected for you your religion and completed My favor upon you and have approved for you Islam as religion. But whoever is compelled by severe hunger, not inclining to sin, then indeed Allah is Forgiving and Merciful.**
 
@@ -157,7 +157,7 @@ This gives the verse emotional warmth after its legal strength. The religion is 
 
 And then comes the final surprise. Right after perfection, completion, and divine approval, the verse says:
 
-fa man اضطرra fi makhmasah ghayra mutajanifin li-ithm.
+fa man uḍṭurra fi makhmasah ghayra mutajanifin li-ithm.
 
 Whoever is compelled in severe hunger, without inclining toward sin.
 

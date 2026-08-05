@@ -74,7 +74,7 @@ These are two opposite directions of motion. In almost everything we know about 
 
 The verb is **أُزْلِفَتِ** — *uzlifat*. Its root is *zā-lām-fā* (ز ل ف). And this root does not mean "to move" in any neutral sense. It carries a very specific flavor: **to bring near in a way that confers honor, rank, and favor.**
 
-From this same root comes the word **zulfa** — نearness in the sense of *closeness to a king, a place of high standing in his presence*. From this root comes the name of **Muzdalifah**, the place on Hajj — the place of *drawing near*. When the Qur'an wants a word for the proximity of the honored servants to their Lord, it reaches for this root: *wa inna lahu ʿindanā la-zulfā* — "and indeed he has nearness with Us" (38:25, of Dawud).
+From this same root comes the word **zulfa** — nearness in the sense of *closeness to a king, a place of high standing in his presence*. From this root comes the name of **Muzdalifah**, the place on Hajj — the place of *drawing near*. When the Qur'an wants a word for the proximity of the honored servants to their Lord, it reaches for this root: *wa inna lahu ʿindanā la-zulfā* — "and indeed he has nearness with Us" (38:25, of Dawud).
 
 So *uzlifat* does not merely say Paradise was *moved closer*. It says Paradise was **drawn near as an act of honoring** — the way a host brings the finest thing in the house *to* the most honored guest rather than making the guest go fetch it.
 

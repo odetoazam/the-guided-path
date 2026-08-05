@@ -111,7 +111,7 @@ Why?
 
 Because the two verbs name two different *orders* of gift.
 
-Under آتَيْnā — the verb of weighty conferral — He places **the Scripture, the Ḥukm, the Prophethood.** These are the instruments of guidance. They are how a people knows God and lives rightly. They are imperishable goods. They are the *why* of a nation.
+Under ātaynā — the verb of weighty conferral — He places **the Scripture, the Ḥukm, the Prophethood.** These are the instruments of guidance. They are how a people knows God and lives rightly. They are imperishable goods. They are the *why* of a nation.
 
 Then the verb changes to *razaqnā* — from the root of *rizq*, sustenance, provision. And under this verb He places **"the good things," al-ṭayyibāt.** Al-Qurṭubī and al-Baghawī gloss these as the lawful, wholesome sustenance — the foods and fruits and produce, and, by another report, the *mann* and *salwā* that fell upon them in the wilderness. Bread, in other words. The tangible. The edible. The provision that keeps a body alive.
 

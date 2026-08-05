@@ -214,7 +214,7 @@ The surah did not choose these signs by accident. Every single piece of evidence
 
 The مكذبون have been given this. They have been living inside this evidence. And they have actively called it a lie.
 
-Al-Qurtubi, the Andalusian scholar of tafsir and Islamic legal thought, makes an observation in his commentary that I want you to sit with slowly. He says — commenting on the ten-fold repetition of this refrain — that the woe is not a single punishment distributed uniformly. It is distributed among the deniers *according to the specific measure of what each one denied*. Every mكذِّب who denied a particular thing carries a woe for that particular denial — separate from, and in addition to, the woe for other denials. Some denials are graver than others, he notes, because some truths were presented more clearly, more repeatedly, more unavoidably.
+Al-Qurtubi, the Andalusian scholar of tafsir and Islamic legal thought, makes an observation in his commentary that I want you to sit with slowly. He says — commenting on the ten-fold repetition of this refrain — that the woe is not a single punishment distributed uniformly. It is distributed among the deniers *according to the specific measure of what each one denied*. Every mukadhdhib who denied a particular thing carries a woe for that particular denial — separate from, and in addition to, the woe for other denials. Some denials are graver than others, he notes, because some truths were presented more clearly, more repeatedly, more unavoidably.
 
 He then connects this to verse twenty-six of the following surah: *"jazā'an wifāqā"* — "a recompense proportionate" (78:26).
 

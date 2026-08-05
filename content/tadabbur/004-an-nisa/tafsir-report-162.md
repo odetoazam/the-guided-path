@@ -10,7 +10,7 @@ Tafsir sources: Ibn Kathir (English), al-Tabari (Arabic), al-Muyassar (Arabic), 
 
 ### Ibn Kathir (English)
 
-For the wrongdoing of the Jews, We made unlawful for them certain good foods which had been lawful for themـand for their hindering many from Allah's way (160)And their taking of Riba though they were forbidden from taking it, and their devouring men's substance wrongfully. And We have prepared for the disbelievers among them a painful torment (161)But those among them who are well-grounded in knowledge, and the believers, believe in what has been sent down to you and what was sent down before you; and those who perform the Salah, and give Zakah and believe in Allah and in the Last Day, it is they to whom We shall give a great reward (162)
+For the wrongdoing of the Jews, We made unlawful for them certain good foods which had been lawful for them and for their hindering many from Allah's way (160)And their taking of Riba though they were forbidden from taking it, and their devouring men's substance wrongfully. And We have prepared for the disbelievers among them a painful torment (161)But those among them who are well-grounded in knowledge, and the believers, believe in what has been sent down to you and what was sent down before you; and those who perform the Salah, and give Zakah and believe in Allah and in the Last Day, it is they to whom We shall give a great reward (162)
 
 Some Foods Were Made Unlawful for the Jews Because of their Injustice and Wrongdoing
 
