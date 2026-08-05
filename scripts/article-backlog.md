@@ -1,5 +1,23 @@
 # AyahGuide Article Backlog
 
+## Next Divine-Names Batch — SCANNED + ANGLES VERIFIED 2026-08-04 (not yet written)
+
+Overlap scan run per `docs/content-category-playbook.md` §5. All five **CLEAR** at article level — mentions are surah pages only, plus `ibrahim-fire-cool-peaceful` (Wakil 6×, Hafiz 3×) and passing mentions of Shakur inside the two new name articles. **Zero reflection pages** on any target ayah (checked 3:173, 12:100, 6:103, 42:19, 11:57, 35:30, 64:17, 44:49, 27:40, 42:23).
+
+Corpus counts verified by lemma with POS filter (noun/adj only):
+
+| Name | Count | Verified angle |
+|---|---|---|
+| **Al-Wakil** | 24× | Root و-ك-ل is the same root as *tawakkul*. This is the ownership line in action: `tawakkul` = the human act, Al-Wakil = the One relied on. 3:173 *ḥasbunā'llāhu wa niʿma'l-wakīl* is the pivotal verse. |
+| **Al-Latif** | 7× | Only 7 occurrences. **5 of 7 pair with al-Khabīr** (6:103, 22:63, 31:16, 33:34, 67:14) — subtlety joined to knowledge. The two exceptions are both about *treatment* rather than perception: 42:19 *laṭīfun bi-ʿibādihi* (→ provision) and 12:100 (Yusuf after reunion). Root = so fine it penetrates, which serves both senses. |
+| **Al-Karim** | 30× | Most of the 30 describe other things (*rizq karīm*, *ajr karīm*, *qurʾān karīm*) — as a name of Allah it is far narrower. Striking angle: **44:49 throws the pair back at a man in the Fire** — *dhuq innaka anta'l-ʿazīzu'l-karīm* — the only sarcastic use. Needs tafsir confirmation before writing. |
+| **Al-Hafiz** | 12× (+13× as *ḥāfiẓ*) | 12:55 has **Yusuf using *ḥafīẓ* of himself** (*innī ḥafīẓun ʿalīm*) — the same word he applies to God's domain applied to a granary. 11:57 *rabbī ʿalā kulli shayʾin ḥafīẓ*. |
+| **Ash-Shakur** | 12× | **The best of the five.** The same intensive form describes God and the servant. Of Allah 4× — and 3 of those 4 pair it with **Al-Ghafur** (35:30, 35:34, 42:23; plus 64:17 *shakūrun ḥalīm*). Of humans it pairs with **ṣabbār** (14:5, 31:31, 34:19, 42:33), and 17:3 names Nuh *ʿabdan shakūrā*. Direct cross-link to the published Al-Ghafur article. |
+
+**Held: Al-Hayy.** The published Al-Qayyum article already owns its two standalone verses (25:58, 40:65); a separate Al-Hayy piece would have to earn different ground.
+
+Before writing: pull tafsir for 44:49 (the sarcastic *karīm* — do not assert without it), 12:55 (Yusuf's self-description), 3:173, 42:19, 35:30.
+
 ## Session Log — 2026-08-03 (DIVINE NAMES batch — 5 articles PUBLISHED, asma al-husna SEO gap)
 
 Azam's brief: divine names are the biggest open SEO gap (Al-Razzaq is already a top-5 organic driver; ~40 major names had no article). Hard requirement: **the searchable name must be in the H1, the slug, and the meta description** — no clever-but-unsearchable titles.
