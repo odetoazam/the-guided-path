@@ -1,0 +1,95 @@
+[
+  {
+    "file": "086-at-tariq/ayahs-001-010.md",
+    "verdict": "FLAG",
+    "thesis": "The star that pierces the night sky is the sign of the God who pierces every layer of human concealment — sky, soul, body, secrets — culminating in the Day the innermost secrets are put on trial with no power and no helper left to the person.",
+    "thesis_grounding": "GROUNDED",
+    "claims_checked": 14,
+    "claims_failed": 4,
+    "flags": [
+      {
+        "quote": "The origin is located deep inside the body — between the *sulb* (backbone, the hard structural column) and the *taraa'ib* (ribs, the cage that protects). Your beginning was hidden inside the most protected, most interior space of the body.",
+        "issue": "All four fetched tafsirs read 86:7 as TWO bodies, not one: al-Jalalayn is explicit — 'min bayn al-sulb' li-l-rajul, 'wa-l-tara'ib' li-l-mar'a wa-hiya 'izam al-sadr; al-Muyassar — 'yakhruju min bayni sulbi l-rajuli wa-sadri l-mar'a'; Ibn Kathir — 'the backbone (or loins) of the man and the ribs of the woman, which is referring to her chest,' with Ibn Abbas via Ikrima: 'The child will not be born except from both of them'; al-Tabari's own tarjih (al-sawab min al-qawl 'indana) is 'mawdi' al-qilada min al-mar'a.' The file collapses both organs into a single individual's own torso and then makes that anatomy load-bearing ('the place you can't reach'). It also gives no hint of the ikhtilaf al-Tabari records at length (necklace-place / between shoulders and chest / hands-feet-eyes / man's sulb and his nahr / ribs below the backbone / 'usarat al-qalb). NOTE ON THE BRIEF'S SPECIFIC CONCERN: the file is CLEAN on i'jaz 'ilmi — it makes no embryology claim, cites no modern science, and explicitly disclaims scientific bridging elsewhere ('This is not an astronomy lesson'). The problem here is the opposite of scientific over-reach: it is a bare anatomical gloss asserted as the verse's meaning against unanimous classical testimony. The practical cost is that the two-parent reading IS the standard classical answer to the common polemic that semen does not originate between one's own spine and ribs, and the file has removed it.",
+        "severity": "critical"
+      },
+      {
+        "quote": "The active participle: this star is not just bright. It is **actively piercing.**",
+        "issue": "The 'piercing' gloss is attested but is the minority view; the file inverts the weighting and explicitly rejects the dominant one. Of the fetched sources: Ibn Abbas = al-mudi' (illuminating); Mujahid = alladhi yatawahhaj (blazing); Qatadah = thuqubuhu daw'uhu (its thuqub is its light); al-Muyassar = al-najm al-mudi' al-mutawahhij; al-Tabari's own gloss = 'yatawaqqadu diya'uhu wa-yatawahhaj.' Only 'Ikrima gives 'alladhi yathqub.' Ibn Kathir carries both ('Ikrima: 'illuminating and it burns the Shaytan'). So the thesis has a classical carrier and stands, but 'not just bright' dismisses precisely what four of the five named authorities actually say.",
+        "severity": "moderate"
+      },
+      {
+        "quote": "The fluid is described with its own active participle — it *rushes.* It has momentum. It moves without the person's deliberate control.",
+        "issue": "Directly contradicted by al-Tabari on 86:6, who states the fa'il form here carries mafu'l meaning: 'yaʿni min maa'in madfuq, wa-huwa mimma akhrajathu l-'arab bi-lafzi faa'il wa-huwa bi-ma'na l-maf'ul,' citing the Hijazi idiom (sirrun katim, hammun nasib). The file builds an interpretive point on daafiq being agentive when the strongest fetched source says the form is active but the sense is passive ('poured out'). Al-Muyassar likewise reads it passively ('maniyyin munsabbin bi-sur'a').",
+        "severity": "moderate"
+      },
+      {
+        "quote": "The classical scholars offer readings: it is the recording angels (*kiraam kaatibeen*). It is Allah Himself.",
+        "issue": "'It is Allah Himself' is not carried by any of the four fetched editions. All four are unanimous that the hafiz is an angel: al-Tabari (Ibn Abbas — 'hafaza mina l-mala'ika'; Qatadah — 'hafaza yahfazuna 'amalaka wa-rizqaka wa-ajalaka'); al-Jalalayn — 'wa-l-hafiz mina l-mala'ika yahfazu 'amalaha min khayrin wa-sharr'; al-Muyassar — 'uwkila biha malakun raqib'; Ibn Kathir — 'a guardian over it from Allah,' cross-referenced to the mu'aqqibat of 13:11. The file's framing that the identity is left open as a classical matter overstates the ikhtilaf. Separately (not flagged, but note for the reviewer): the file reads hafiz purely as surveillance and drops Ibn Kathir's protective sense entirely ('protects it from the calamities'), which is half of what the word carries here.",
+        "severity": "moderate"
+      }
+    ],
+    "notes": "Thesis stands — 'Ikrima's 'alladhi yathqub' carries the piercing star, and al-Jalalayn's gloss of al-sara'ir as 'dama'ir al-qulub fi l-'aqa'id wa-l-niyyat' grounds the secrets/intentions payload precisely. Mechanically verified and CORRECT: At-Tariq is 17 ayahs; the maa adraaka parallel in Al-Haqqah is 69:3; nabtaleehi is at 76:2 (root b-l-w). The one required fix before this ships is the 86:7 gloss in section III — rewrite 'between the sulb and the tara'ib' as the man's backbone and the woman's chest (per Jalalayn/Muyassar/Ibn Kathir/Tabari's tarjih), and add one sentence naming that the tara'ib referent is itself contested in Tabari. The file's contemplative point about involuntary origin survives that fix intact — arguably it gets stronger, since the origin then lies between two bodies neither of which was yours. Secondary fixes: soften 'not just bright' to acknowledge the majority illuminating/blazing gloss; drop or attribute 'It is Allah Himself'; and either drop the agentive reading of daafiq or note that al-Tabari reads the participle as passive in sense. NO i'jaz 'ilmi anywhere in the file — the quarantine holds. No truncation artifacts (the file quotes no tafsir directly). Not ahkam-bearing."
+  },
+  {
+    "file": "017-al-isra/ayah-096.md",
+    "verdict": "FLAG",
+    "thesis": "After proof has been conveyed and refusal persists, the Prophet is given a sentence of release — Allah's witness is sufficient — and that witness is complete because Allah is Khabir of the inward and Basir of the outward, which both frees the truthful from chasing human vindication and forbids using 'Allah knows' as a shield.",
+    "thesis_grounding": "GROUNDED",
+    "claims_checked": 16,
+    "claims_failed": 2,
+    "flags": [
+      {
+        "quote": "Al-Muyassar explicitly names both sides: Allah is enough as witness to the Prophet's truthfulness and their denial.",
+        "issue": "Al-Muyassar does not name the deniers' side. His full text on 17:96 is: 'qul lahum: kafa billahi shahidan bayni wa-baynakum 'ala SIDQI wa-HAQIQATI NUBUWWATI. Innahu subhanahu khabirun bi-ahwali 'ibadihi, basirun bi-a'malihim, wa-sayujazihim 'alayha.' That is one side only — the Prophet's truthfulness and the reality of his prophethood. There is no takdhib/denial clause. The file asserts this attribution three separate times ('Al-Muyassar states the heart of it: ...and your denial'; 'Al-Muyassar explicitly names both sides'; 'Al-Muyassar's reading is helpful because it makes both sides explicit'), and Theme 2's central argument — that invoking Allah's witness exposes the invoker because 'between means the whole space is exposed' — is rested on it. The two-sided reading is a legitimate inference from 'bayni wa-baynakum' and can be kept; it just cannot be hung on al-Muyassar.",
+        "severity": "moderate"
+      },
+      {
+        "quote": "Al-Tabari reads this as Allah commanding His Prophet to say to the idolaters: Allah is sufficient as a witness between me and you that I am His messenger to you, and He knows His servants.",
+        "issue": "The 'that I am His messenger to you' clause is not in al-Tabari. His text: 'qul ya Muhammad li-l-qa'ilina laka [a-ba'atha llahu basharan rasula]: kafa billahi shahidan bayni wa-baynakum, fa-innahu ni'ma l-kafi wa-l-hakim' — the addressees are identified by their objection, and Tabari adds 'the sufficient One and the Judge.' The truthfulness/prophethood content the file attributes to Tabari is al-Muyassar's. Minor cross-contamination between the two attributions in the same paragraph.",
+        "severity": "minor"
+      }
+    ],
+    "notes": "Cleanest of the three. Every scriptural cross-reference in the file was verified mechanically against the Uthmani text and ALL PASS: 4:79, 4:166, 48:28, 13:43 and 29:52 all carry kafa billahi shahidan (13:43 and 17:96 are the only two with the full 'shahidan bayni wa-baynakum'; 29:52 has the same words in inverted order, which the file quotes correctly); Nuh at 10:71, Hud at 11:55-56, 67:13-14, 40:19, and the surrounding movement at 17:88 / 17:89 / 17:94 / 17:95 all check out. The load-bearing Khabir=inward / Basir=outward pairing is directly grounded — al-Jalalayn on this ayah: ''aliman bi-bawatinihim wa-zawahirihim.' The negative asbab claim ('no widely established separate asbab al-nuzul for this ayah as an isolated event') is properly hedged and none of the four sources supplies one. No ahkam content, no truncation artifacts. Fix is small and surgical: in the Introduction, in Theme 2, and in section 3, restate al-Muyassar as witnessing the Prophet's truthfulness and prophethood, and carry the 'both sides' point on 'bayni wa-baynakum' itself rather than on a tafsir attribution. Then this is a PASS."
+  },
+  {
+    "file": "031-luqman/ayahs-014-015.md",
+    "verdict": "FLAG",
+    "thesis": "The mother's structural deterioration in pregnancy records a debt that the quality of the parenting that followed cannot cancel, and 31:15 commands the child to hold refusal (in shirk) and companionship (in everything else) simultaneously rather than collapsing one into the other.",
+    "thesis_grounding": "GROUNDED",
+    "claims_checked": 18,
+    "claims_failed": 6,
+    "flags": [
+      {
+        "quote": "And Form II, on this root, is one level more intense than Form IV.",
+        "issue": "The file's opening pillar, and it runs backwards against the Quran's own distribution on this root. Corpus check of every w-s-y token: the TESTAMENT/will register is Form IV, not Form II — yusi/tusu/yusa in the inheritance verses 4:11-12, musin (ACT_PCPL VF:4) at 2:182, awsa at 19:31, plus the noun wasiyya at 2:180, 2:240, 4:11, 4:12, 5:106. Form II wassa is the ROUTINE form for a divine injunction: 2:132, 4:131, 6:144, 6:151, 6:152, 6:153, 29:8, 31:14, 42:13 (x2), 46:15 — including the ordinary commandment-lists of 6:151-153. So the file imports the 'weight of a last will and testament' from derivatives that are Form IV, and then claims Form II outranks Form IV. Worse for the argument: 29:8 and 46:15 carry the IDENTICAL formula wa-wassayna l-insana bi-walidayhi, so the choice at 31:14 is a fixed formula, not a marked escalation for this passage. And all four fetched tafsirs flatten it to a plain command: al-Tabari 'wa-amarna l-insana bi-birri walidayhi'; al-Muyassar 'wa-amarna l-insana bi-birri walidayhi wa-l-ihsani ilayhima'; al-Jalalayn 'amarnahu an yabarrahuma.' None treats it as an intensified testamentary bequest. The claim is repeated in the Closing Synthesis ('Form II wassayna locks the testament') and in 'Bring It Together,' so the fix has to reach all three places.",
+        "severity": "moderate"
+      },
+      {
+        "quote": "Thirty-three months, minimum, of a specific woman's body being drawn on so that your body could become a body that is now reading or hearing these words.",
+        "issue": "The word 'minimum' is false and is contradicted by the Quran and by Ibn Kathir on this very ayah. 46:15 (verified in the Uthmani text): 'wa-hamluhu wa-fisaluhu THALATHUNA shahran' — thirty months for carrying plus weaning combined, not thirty-three. Ibn Kathir's commentary on 31:14 makes this explicit: 'On this basis, Ibn Abbas and other Imams understood that the shortest possible period of pregnancy was SIX MONTHS, because Allah says elsewhere [46:15].' So the classical minimum is 6 + 24 = 30, and the file's 9 + 24 = 33 is the typical case, not the floor. Repeated in Questions to Carry #1 ('The 33 months of wahn plus fisal'). Fix: say 'roughly thirty-three months in the ordinary case' and, if the number is kept, cite 46:15's thirty and the six-month derivation.",
+        "severity": "moderate"
+      },
+      {
+        "quote": "The Prophet ﷺ said: *al-jannatu taḥta aqdāmi l-ummahāt*",
+        "issue": "Presented as an unqualified prophetic hadith and then made load-bearing ('This is not a poetic line. It is a *spatial* statement... you walk to paradise *through* her... there is no detour'). This exact wording is graded weak by the hadith critics; the sound narration on the point is al-Nasa'i's Jahima report ('ilzamha / fa-thamma l-janna' — stay at her feet, for Paradise is there). It appears in none of the four fetched tafsir editions on 31:14-15. Under the Tier policy an unattributed weak wording should not carry a theme's conclusion. Fix: substitute the Nasa'i wording, or keep the famous phrase with an explicit grading note.",
+        "severity": "moderate"
+      },
+      {
+        "quote": "He went to the Prophet ﷺ — devastated, torn apart, loving her more than he could bear — and this ayah was revealed about that exact moment.",
+        "issue": "The asbab al-nuzul itself is solid — al-Tabari carries three isnads via Simak b. Harb / Mus'ab b. Sa'd, and Ibn Kathir carries at-Tabarani's report from Sa'd b. Malik. But NONE of them has Sa'd going to the Prophet, and none describes his emotional state. Tabari's versions: she swore off food and drink, he refused, she fainted and her sons gave her drink, she supplicated against him, and the ayah came down. Ibn Kathir's version ends with Sa'd's 'even if you had one hundred souls...' and 'So she ate.' The scene at the Prophet is invented narrative. Related, in Theme 2: 'He continued to try to feed her' attributes to Sa'd what al-Tabari attributes to the household in the plural — 'fa-kanu idha aradu an yut'imuha shajaru faha bi-'asa thumma awjaruha' (when THEY wanted to feed her, they pried her mouth open with a stick and poured it in). Also 'Her eyes began to sink' has no source.",
+        "severity": "moderate"
+      },
+      {
+        "quote": "do not let the modern frameworks convince you that the damage cancels the debt",
+        "issue": "Rubric check 4. The passage is ahkam-bearing — it is the locus classicus for the LIMITS of ta'at al-walidayn — and the file gives direct, prescriptive counsel to readers with abusive or estranged parents across most of Theme 1 and the Closing Invitation. It does carry one caveat ('The ayah is not telling abused children to subject themselves to further abuse') and it does cite al-Muyassar's maxim, but it never marks the tadabbur/fatwa line and never acknowledges that the scholars have real latitude on harm-avoidance, distancing, and what minimum birr looks like when contact is unsafe. Given the concrete instructions the file issues ('Call your mother... Sit beside her'), one explicit sentence distinguishing reflection from ruling, and naming that a specific harmful situation is a question for a scholar, is needed.",
+        "severity": "moderate"
+      },
+      {
+        "quote": "Allah does something the grammarians call *tamkīn* — he repeats the word and builds it on top of itself.",
+        "issue": "Misused technical term, attributed to 'the grammarians.' In 'ilm al-badi', tamkin is i'tilaf al-fasila — the verse-ending sitting firmly because the preceding clause prepared for it. Repetition of a word is takrar/tikrar. The error is also baked into the frontmatter tags ('tamkin-repetition'), so it will propagate into the graph. Same paragraph, minor lexical slip: '*Faṣl* is the joint in a limb where two bones meet' — the joint is MAFSIL; fasl is the separation/division itself, which is in fact what the file needs for its own weaning argument.",
+        "severity": "minor"
+      }
+    ],
+    "notes": "The thesis survives and the file's best material is genuinely verified — do not let the flag count obscure that. CONFIRMED AGAINST THE FETCHED TEXT: al-Tabari does quote Zuhayr at 31:14 to gloss wahn ('fa-lan yaqulu bi-hablin wahinin khalaqin...'), and the file's rendering 'they will not say it is a weak rope, frayed through' is accurate; al-Tabari's gloss 'du'fan 'ala du'f, wa-shiddatan 'ala shidda' is quoted verbatim and correctly; al-Muyassar really does insert the thumma ('wa-qulna lahu: ishkur lillah, THUMMA ishkur li-walidayk'), exactly as the file claims; al-Muyassar really does supply 'la ta'ata li-makhluqin fi ma'siyati l-khaliq' verbatim; the Sa'd b. Abi Waqqas asbab is carried by both al-Tabari (three isnads) and Ibn Kathir (at-Tabarani); and al-Tabari explicitly raises and answers the mid-Luqman interruption the file's Introduction builds on ('ma wajhu i'tiradi hadha l-kalami bayna l-khabari 'an wasiyyati Luqmana bnah?'). CONFIRMED AGAINST THE CORPUS: wassay is VF:2, jahada is VF:3, sahib is VF:3, ma'rufa is PASS_PCPL of '-r-f — every morphological tag in the file checks out. And the uniqueness claim VERIFIES: the imperative of sh-k-r occurs at 2:152, 2:172, 16:114, 29:17, 31:12, 31:14, 34:15, and 31:14 is the only one of the seven whose object includes a created being alongside Allah — every other instance directs shukr to Allah alone. Priority of fixes for the human reviewer: (1) the Form II/Form IV intensity ladder, since it opens the file and is restated twice in the synthesis; (2) the 'Paradise beneath the feet' grading; (3) the invented Sa'd-goes-to-the-Prophet scene; (4) 'thirty-three months, minimum'; (5) one tadabbur-vs-fatwa sentence in Theme 1; (6) the tamkin term, including the frontmatter tag. One optional strengthener, not a defect: 29:8 carries wassayna + jahadaka + fa-la tuti'huma WITHOUT wa-sahibhuma fi d-dunya ma'rufa — which sharpens rather than undercuts the file's whole argument about the companionship clause, and is currently unmentioned."
+  }
+]

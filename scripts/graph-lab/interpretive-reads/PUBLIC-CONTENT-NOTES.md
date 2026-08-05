@@ -105,3 +105,42 @@ warned the reviewer that 41:53 and 86:5-7 are the two most common iʿjāz ʿilm�
 anchor verses in circulation and that house style quarantines that move.
 Targeting known-risk verses with an explicit warning is what surfaced it —
 a generic read might not have pushed on the pronoun.
+
+---
+
+## Two i'jaz-'ilmi warnings that both paid off (wave 3)
+
+Both wave-3 briefs that named a known-risk verse came back with the risk
+realised. This is now the method, not a one-off.
+
+**`086-at-tariq/ayahs-001-010.md` — CRITICAL.** 86:7 (*min bayni'l-sulbi
+wa'l-tara'ib*) is read by the file as ONE body. All four editions read it as
+**two**: al-Jalalayn is explicit — *min bayn al-sulb* for the man, *wa'l-tara'ib*
+for the woman; al-Muyassar — *min bayni sulbi'l-rajuli wa-sadri'l-mar'a*; Ibn
+Kathir the same. The single-body reading is the one modern embryological
+bridging requires, and it is the reading the classical sources do not hold.
+Three more in the same file: *tariq* glossed as "piercing" (attested but the
+minority view — Ibn Abbas, Mujahid, Qatada and al-Muyassar all read
+illuminating/blazing); *dafiq* treated as agentive when al-Tabari says the
+fa'il form here carries maf'ul meaning; and the *hafiz* of 86:4 called "Allah
+Himself" when all four editions say an **angel**.
+
+**`031-luqman/ayahs-014-015.md` — 6 of 18 claims failed.** Two are factual: the
+w-s-y register claim runs backwards against the corpus distribution (the
+testament sense is Form IV, not Form II), and "thirty-three months minimum" is
+contradicted by 46:15, which says **thirty** — Ibn Kathir works the arithmetic
+on this very ayah. Also a weak-graded hadith presented unqualified and made
+load-bearing, and an asbab al-nuzul embellished with details in none of the
+three isnads al-Tabari carries.
+
+### The one with a graph consequence
+
+That file misuses *tamkin* — in 'ilm al-badi' it means the verse-ending sitting
+firmly because the clause prepared for it, not word repetition (that is
+takrar) — **and the error is baked into the frontmatter tags**
+(`tamkin-repetition`), which is how tags reach the semantic graph.
+
+Checked, and the guard holds: the node carries `v: 0`, and NORTH-STAR decision 2
+filters product surfaces to `v == 1`, so the bad tag cannot reach a reader.
+But it is in the raw export, and it would have activated the moment the file
+was validated. Worth a tag-vocabulary check before any bulk validation flip.
