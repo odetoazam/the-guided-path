@@ -1,0 +1,41 @@
+{
+  "slug": "al-wadud-divine-name-quran",
+  "title": "Al-Wadud: The Divine Name for Love, and the Two Verses That Carry It",
+  "excerpt": "Al-Wadud appears twice in the Quran. Both times it arrives attached to forgiveness — once in Shu’ayb’s last appeal to Madyan, once four verses after believers are burned alive in Surah Al-Buruj.",
+  "seo_title": "Al-Wadud: The Divine Name for Love in the Quran",
+  "seo_description": "Al-Wadud, the Loving, appears twice in the Quran: Hud 11:90 and Al-Buruj 85:14. Both times it stands directly downstream of forgiveness. What the name means.",
+  "tags": [
+    "al-wadud",
+    "asma-al-husna",
+    "divine-names",
+    "mahabbah",
+    "al-buruj",
+    "shuayb",
+    "tawbah"
+  ],
+  "entity_tags": [
+    {
+      "slug": "mahabbah",
+      "is_primary": true
+    },
+    {
+      "slug": "tawbah"
+    },
+    {
+      "slug": "shuayb"
+    },
+    {
+      "slug": "ashab-al-ukhdud"
+    }
+  ],
+  "quran_refs": [
+    "11:90",
+    "19:96",
+    "85:7",
+    "85:8",
+    "85:10",
+    "85:14"
+  ],
+  "reading_time_minutes": 8,
+  "html_path": "docs/articles-source/al-wadud-divine-name.html"
+}

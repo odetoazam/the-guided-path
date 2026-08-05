@@ -1,0 +1,43 @@
+{
+  "slug": "al-ghafur-al-ghaffar-divine-name-quran",
+  "title": "Al-Ghafur and Al-Ghaffar: The Quran’s Two Names for Forgiveness, and the Difference Between Them",
+  "excerpt": "Al-Ghafur appears ninety-one times in the Quran. Al-Ghaffar appears five. Same root, different pattern — and the rarer name lands only where repetition is the point being made.",
+  "seo_title": "Al-Ghafur and Al-Ghaffar: Two Names in the Quran",
+  "seo_description": "Al-Ghafur appears 91 times in the Quran; Al-Ghaffar just 5. One root, two patterns. What the difference means and where each forgiveness name lands.",
+  "tags": [
+    "al-ghafur",
+    "al-ghaffar",
+    "asma-al-husna",
+    "divine-names",
+    "tawbah",
+    "istighfar",
+    "maghfirah"
+  ],
+  "entity_tags": [
+    {
+      "slug": "tawbah",
+      "is_primary": true
+    },
+    {
+      "slug": "rahmah"
+    },
+    {
+      "slug": "afw"
+    },
+    {
+      "slug": "nuh"
+    }
+  ],
+  "quran_refs": [
+    "20:82",
+    "35:28",
+    "38:66",
+    "39:5",
+    "40:42",
+    "71:10",
+    "71:11",
+    "71:12"
+  ],
+  "reading_time_minutes": 8,
+  "html_path": "docs/articles-source/al-ghafur-divine-name.html"
+}

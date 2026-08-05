@@ -1,0 +1,41 @@
+{
+  "slug": "al-qayyum-divine-name-quran",
+  "title": "Al-Qayyum: The Divine Name That Never Appears Alone",
+  "excerpt": "Al-Qayyum occurs three times in the Quran, and all three times the name al-Hayy stands directly in front of it. Al-Hayy can stand alone. Al-Qayyum never does.",
+  "seo_title": "Al-Qayyum: Meaning of the Divine Name in the Quran",
+  "seo_description": "Al-Qayyum appears three times in the Quran — 2:255, 3:2, 20:111 — always joined to al-Hayy. What the name means and why it never stands on its own.",
+  "tags": [
+    "al-qayyum",
+    "al-hayy",
+    "asma-al-husna",
+    "divine-names",
+    "ayat-al-kursi",
+    "al-baqarah",
+    "tawhid"
+  ],
+  "entity_tags": [
+    {
+      "slug": "tawhid",
+      "is_primary": true
+    },
+    {
+      "slug": "al-kursi"
+    },
+    {
+      "slug": "hayah"
+    },
+    {
+      "slug": "tawakkul"
+    }
+  ],
+  "quran_refs": [
+    "2:255",
+    "3:2",
+    "20:111",
+    "20:112",
+    "25:58",
+    "40:65"
+  ],
+  "reading_time_minutes": 8,
+  "html_path": "docs/articles-source/al-qayyum-divine-name.html"
+}

@@ -92,6 +92,7 @@ export interface DashboardStats {
 // ── Content Architecture types ────────────────────────────────────────────────
 
 export type EntityCategory =
+  | 'divine_names'
   | 'states_of_the_heart'
   | 'the_unseen'
   | 'quranic_characters'
