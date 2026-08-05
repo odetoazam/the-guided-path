@@ -1,0 +1,33 @@
+{
+  "slug": "al-wakil-divine-name-quran",
+  "title": "Al-Wakil: The Divine Name Behind the Word Tawakkul",
+  "excerpt": "Al-Wakil occurs 24 times in the Quran, and it shares its root with tawakkul. In ordinary Arabic a wakil is an agent — the person you appoint to handle a matter you cannot handle yourself.",
+  "seo_title": "Al-Wakil: Meaning of the Divine Name in the Quran",
+  "seo_description": "Al-Wakil appears 24 times in the Quran and shares its root with tawakkul. What the name means, and why reliance is an appointment rather than a mood.",
+  "tags": [
+    "al-wakil",
+    "asma-al-husna",
+    "divine-names",
+    "tawakkul",
+    "aal-imran",
+    "name-breakdown"
+  ],
+  "entity_tags": [
+    {
+      "slug": "tawakkul",
+      "is_primary": true
+    },
+    {
+      "slug": "iman"
+    }
+  ],
+  "quran_refs": [
+    "3:173",
+    "4:81",
+    "12:66",
+    "17:2",
+    "33:3"
+  ],
+  "reading_time_minutes": 6,
+  "html_path": "docs/articles-source/al-wakil-divine-name.html"
+}
