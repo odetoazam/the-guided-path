@@ -1,22 +1,22 @@
 # AyahGuide Article Backlog
 
-## Next Divine-Names Batch — SCANNED + ANGLES VERIFIED 2026-08-04 (not yet written)
+## Session Log — 2026-08-04 (DIVINE NAMES wave 2 — 5 more PUBLISHED + /names index shipped)
 
-Overlap scan run per `docs/content-category-playbook.md` §5. All five **CLEAR** at article level — mentions are surah pages only, plus `ibrahim-fire-cool-peaceful` (Wakil 6×, Hafiz 3×) and passing mentions of Shakur inside the two new name articles. **Zero reflection pages** on any target ayah (checked 3:173, 12:100, 6:103, 42:19, 11:57, 35:30, 64:17, 44:49, 27:40, 42:23).
+**`/names` index shipped** (`src/app/(public)/names/page.tsx`, registry `src/data/divine-names.ts`). All 99 with Arabic, root, and a corpus-derived word count. Three things make it defensible where other 99-names pages are not: (1) counts are POS-filtered — matching Al-Ali's lemma without a filter returns **1,458 hits because 1,444 are the preposition *ʿalā***; (2) the page states the count is of the *word*, not the name (Al-Muʾmin 202× is mostly human believers; An-Nur 43× names Allah once); (3) **17 of the 99 never appear in that form at all** and are marked. The list's own ikhtilāf is stated up front — the 99-names hadith is sahih, the itemised Tirmidhi list is not, and Ibn Taymiyyah / Ibn Hajar treated it as a transmitter's work.
 
-Corpus counts verified by lemma with POS filter (noun/adj only):
+**5 articles published**, all clear on the full overlap scan, zero reflection pages on any target ayah:
 
-| Name | Count | Verified angle |
-|---|---|---|
-| **Al-Wakil** | 24× | Root و-ك-ل is the same root as *tawakkul*. This is the ownership line in action: `tawakkul` = the human act, Al-Wakil = the One relied on. 3:173 *ḥasbunā'llāhu wa niʿma'l-wakīl* is the pivotal verse. |
-| **Al-Latif** | 7× | Only 7 occurrences. **5 of 7 pair with al-Khabīr** (6:103, 22:63, 31:16, 33:34, 67:14) — subtlety joined to knowledge. The two exceptions are both about *treatment* rather than perception: 42:19 *laṭīfun bi-ʿibādihi* (→ provision) and 12:100 (Yusuf after reunion). Root = so fine it penetrates, which serves both senses. |
-| **Al-Karim** | 30× | Most of the 30 describe other things (*rizq karīm*, *ajr karīm*, *qurʾān karīm*) — as a name of Allah it is far narrower. Striking angle: **44:49 throws the pair back at a man in the Fire** — *dhuq innaka anta'l-ʿazīzu'l-karīm* — the only sarcastic use. Needs tafsir confirmation before writing. |
-| **Al-Hafiz** | 12× (+13× as *ḥāfiẓ*) | 12:55 has **Yusuf using *ḥafīẓ* of himself** (*innī ḥafīẓun ʿalīm*) — the same word he applies to God's domain applied to a granary. 11:57 *rabbī ʿalā kulli shayʾin ḥafīẓ*. |
-| **Ash-Shakur** | 12× | **The best of the five.** The same intensive form describes God and the servant. Of Allah 4× — and 3 of those 4 pair it with **Al-Ghafur** (35:30, 35:34, 42:23; plus 64:17 *shakūrun ḥalīm*). Of humans it pairs with **ṣabbār** (14:5, 31:31, 34:19, 42:33), and 17:3 names Nuh *ʿabdan shakūrā*. Direct cross-link to the published Al-Ghafur article. |
+1. `/posts/al-wakil-divine-name-quran` — 24×; shares its root with *tawakkul*. A *wakīl* is an agent you appoint; al-Jalalayn: *al-mufawwaḍ ilayhi al-amr*. Reliance as appointment, not mood — Yaqub took the oath first (12:66), the believers still marched (3:173). Entity: tawakkul (primary).
+2. `/posts/al-latif-divine-name-quran` — 7×; **5 pair with al-Khabīr**, the 2 exceptions (42:19, 12:100) describe treatment not perception. Jalalayn on 42:19 is concrete: gentle with *barrahum wa fājirahum*, in not destroying them by hunger. Entity: tawhid (primary).
+3. `/posts/ash-shakur-divine-name-quran` — 12×; the word for gratitude applied to God. Of Allah 4×, **3 of them behind Al-Ghafur**; of people it pairs with *ṣabbār* (4×). Jalalayn splits 35:30 in four words: *ghafūr* of their sins, *shakūr* of their obedience. Entity: shukr (primary).
+4. `/posts/al-karim-divine-name-quran` — 44:49 speaks *al-ʿAzīz al-Karīm* to a man in the Fire. **Confirmed before asserting:** al-Muyassar names it mockery outright (*ʿalā wajhi al-tahakkum*), al-Jalalayn shows it quotes his own boast back (*bi-zaʿmika wa qawlika* — none between the two mountains mightier or more generous), Ibn Kathir reports him identified as Abu Jahl. Entity: tawhid (primary).
+5. `/posts/al-hafiz-divine-name-quran` — 12×, and **one is Yusuf using it of himself** (12:55 *innī ḥafīẓun ʿalīm*). The tradition is untroubled: shared word, unshared manner. Entity: tawhid (primary).
 
-**Held: Al-Hayy.** The published Al-Qayyum article already owns its two standalone verses (25:58, 40:65); a separate Al-Hayy piece would have to earn different ground.
+QA: **verify_arabic 24/24 exact (0 warnings), verify_morphology 27/27, tafsir cross-reference pulled and read for all 24 ayahs, 0 fetch failures.**
 
-Before writing: pull tafsir for 44:49 (the sarcastic *karīm* — do not assert without it), 12:55 (Yusuf's self-description), 3:173, 42:19, 35:30.
+**Trap worth keeping:** the morphology pass first failed **13 of 14** because I wrote segment indices by estimate. They must be *computed* from the corpus — the index is the flat 1-based **segment** position, and e.g. *wakīl* in 3:173 is segment 32, not the ~20 a reader would guess. Never hand-write them.
+
+Divine names now: **15 of 99 written**, all with `divine_names` entities and hubs.
 
 ## Session Log — 2026-08-03 (DIVINE NAMES batch — 5 articles PUBLISHED, asma al-husna SEO gap)
 
