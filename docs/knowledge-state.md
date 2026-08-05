@@ -1,7 +1,7 @@
 # AyahGuide Knowledge State
 
 *Maintained by the hub-article-pipeline skill. Updated at the end of every writing session.*
-*Last updated: 2026-08-03*
+*Last updated: 2026-08-04*
 
 ---
 
@@ -64,7 +64,7 @@ This document is read by the hub-article-pipeline skill at the start of every se
 | Qadar | 3 ✅ | Root as measure, qaddara in creation, qadar vs human choice |
 | Ihsan | 2 ✅ | Muhsin, ihsan-iman-islam three layers |
 | Rizq | 2 ✅ | Al-Razzaq, rizq and gratitude/economic theology |
-| Divine Names | 8 ✅ | Al-Razzaq, Rahman/Rahim pair, At-Tawwab, **As-Samad (hapax + Tabari's ikhtilaf)**, **Al-Qayyum (never alone)**, **Al-Wadud (love downstream of pardon)**, **An-Nur (is Allah light?)**, **Al-Ghafur/Al-Ghaffar (fa'ul vs fa''al)** |
+| Divine Names | 13 ✅ (15 of 99 names) | Al-Razzaq, Rahman/Rahim pair, At-Tawwab, **As-Samad (hapax + Tabari's ikhtilaf)**, **Al-Qayyum (never alone)**, **Al-Wadud (love downstream of pardon)**, **An-Nur (is Allah light?)**, **Al-Ghafur/Al-Ghaffar (fa'ul vs fa''al)** |
 | Mahabbah | 4 ✅ | Root (seed), mutual love (yuhibbuhum), what Allah loves, **Al-Wadud — the divine name itself (11:90/85:14)** |
 | Khawf | 2 ✅ | Khawf vs khashya (two theological positions), fear as engine |
 | Sidq | 2 ✅ | Root (solid), al-Siddiq (rank between prophets and martyrs) |
@@ -102,11 +102,18 @@ The site's biggest open SEO gap. `rizq-al-razzaq-divine-name-quran` was already 
 | `/posts/al-qayyum-divine-name-quran` | ٱلْقَيُّوم 3x (2:255, 3:2, 20:111), al-Hayy immediately before it every time; al-Hayy stands alone at 25:58/40:65. 20:112 verified verbatim: *zulm*=addition, *hadm*=subtraction (Jalalayn). |
 | `/posts/al-wadud-divine-name-quran` | ٱلْوَدُود 2x (11:90, 85:14), both downstream of forgiveness. Jalalayn's Form V *al-mutawaddid* = God makes the overture. 85:10's *thumma lam yatubu* keeps the door open to the men at the trench. |
 | `/posts/an-nur-divine-name-quran` | Allah named *as* light exactly 1x (24:35); 5:15 is the near-miss (*min* Allah). Early split: Ibn Abbas *hadi* / Mujahid governance / as-Suddi radiance / Jalalayn *munawwir*. 24:40's counter-tower glossed by Muyassar as *fa-ma lahu min had*. |
+| `/posts/al-wakil-divine-name-quran` | 24×, same root as *tawakkul*; a *wakīl* is an appointed agent (Jalalayn: *al-mufawwaḍ ilayhi al-amr*). |
+| `/posts/al-latif-divine-name-quran` | 7× only; 5 pair with al-Khabīr, the 2 exceptions describe treatment not perception. |
+| `/posts/ash-shakur-divine-name-quran` | 12×; of Allah 4× (3 behind Al-Ghafur), of people paired with *ṣabbār*. Jalalayn 35:30: *ghafūr* of sins, *shakūr* of obedience. |
+| `/posts/al-karim-divine-name-quran` | 44:49 speaks *al-ʿAzīz al-Karīm* to a man in the Fire — his own boast quoted back (Jalalayn), named as mockery (Muyassar). |
+| `/posts/al-hafiz-divine-name-quran` | 12×; one is Yusuf using it of himself (12:55). Shared word, unshared manner. |
 | `/posts/al-ghafur-al-ghaffar-divine-name-quran` | ٱلْغَفُور 91x vs ٱلْغَفَّار 5x — fa'ul vs fa''al. al-'Aziz directly precedes Ghaffar in 3 of 5; Ghafur takes Rahim 64 of 91 times. |
 
 **Overlap guard used:** As-Samad vs the live 112:1-4 reflection page; Al-Qayyum vs the 2:255 reflection AND `ayat-al-kursi-throne-twin-quran` (anchored on 3:2/20:111 instead); Al-Wadud vs `the-orator-of-the-prophets-why-the-quran-calls-shuayb-khatib`, which **already publishes the "only twice" fact** — the article goes deeper and links to it rather than repeating it as a headline; Al-Ghafur steered off 39:53, owned by the two despair articles.
 
-**Unwritten, same cluster (~35 names remain):** Al-Wakil · Al-Hayy (needs care against the Qayyum piece — would have to earn the two standalone verses) · Al-Latif · Al-Karim · Al-Hafiz · Ash-Shakur · Al-Halim · Al-Muhaymin · Al-Jabbar · Al-Quddus · Al-Fattah · Al-Basir/As-Sami' as a pair.
+**Index layer SHIPPED 2026-08-04:** `/names` lists all 99 with corpus-verified data and states the list's own ikhtilāf. 15 written.
+
+**Unwritten (~84 remain):** Al-Hayy (needs care — the Qayyum piece owns its two standalone verses) · Al-Halim · Al-Muhaymin · Al-Jabbar · Al-Quddus · Al-Fattah · Al-Basir/As-Sami' as a pair · Al-Muqit · Al-Hasib · Ar-Raqib.
 
 ---
 
