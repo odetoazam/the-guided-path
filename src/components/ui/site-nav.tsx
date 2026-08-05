@@ -29,6 +29,7 @@ const topLinks = [
 
 const learnLinks = [
   { href: '/names', label: 'Names of Allah', desc: 'All 99, checked against the Quran' },
+  { href: '/prophets', label: 'Prophets', desc: 'The 25 the Quran names, and how often' },
   { href: '/paths', label: 'Guided Paths', desc: 'Short curated sequences — start from where you are' },
   { href: '/understanding-quran', label: 'Understanding Quran', desc: 'The tools for receiving guidance' },
   { href: '/ulum-al-quran', label: 'Sciences of the Quran', desc: '18 disciplines, mapped' },
