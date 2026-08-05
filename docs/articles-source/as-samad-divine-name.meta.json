@@ -1,0 +1,33 @@
+{
+  "slug": "as-samad-divine-name-quran",
+  "title": "As-Samad: The Divine Name That Appears Only Once in the Quran",
+  "excerpt": "As-Samad occurs a single time in the whole Quran, at 112:2, and the earliest scholars of Islam recorded at least seven different readings of what it means. Al-Tabari lists them all, then settles the question with a line of pre-Islamic poetry.",
+  "seo_title": "As-Samad: Meaning of the Divine Name (Quran 112:2)",
+  "seo_description": "As-Samad appears once in the Quran, at 112:2. Al-Tabari records seven early readings of the name and settles it with pre-Islamic poetry. What it means.",
+  "tags": [
+    "as-samad",
+    "asma-al-husna",
+    "divine-names",
+    "al-ikhlas",
+    "tawhid",
+    "hapax",
+    "what-the-arabic-does"
+  ],
+  "entity_tags": [
+    {
+      "slug": "tawhid",
+      "is_primary": true
+    },
+    {
+      "slug": "ikhlas"
+    }
+  ],
+  "quran_refs": [
+    "112:1",
+    "112:2",
+    "112:3",
+    "112:4"
+  ],
+  "reading_time_minutes": 9,
+  "html_path": "docs/articles-source/as-samad-divine-name.html"
+}

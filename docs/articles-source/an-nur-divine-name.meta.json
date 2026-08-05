@@ -1,0 +1,35 @@
+{
+  "slug": "an-nur-divine-name-quran",
+  "title": "An-Nur: What the Classical Scholars Said “Allah Is the Light” Actually Means",
+  "excerpt": "The Quran names Allah as light exactly once, in the Light Verse. Ibn Abbas read it as Guide, Mujahid as the One directing their affairs, as-Suddi as radiance, and al-Jalalayn turned the noun into an agent.",
+  "seo_title": "An-Nur: Is Allah the Light? The Divine Name Explained",
+  "seo_description": "An-Nur appears once in the Quran, at 24:35. Ibn Abbas read it as Guide, al-Jalalayn as the One who illuminates. What the classical scholars actually said.",
+  "tags": [
+    "an-nur",
+    "asma-al-husna",
+    "divine-names",
+    "light-verse",
+    "ayat-an-nur",
+    "tawhid",
+    "tafsir"
+  ],
+  "entity_tags": [
+    {
+      "slug": "tawhid",
+      "is_primary": true
+    },
+    {
+      "slug": "tafsir"
+    },
+    {
+      "slug": "balaghah"
+    }
+  ],
+  "quran_refs": [
+    "5:15",
+    "24:35",
+    "24:40"
+  ],
+  "reading_time_minutes": 8,
+  "html_path": "docs/articles-source/an-nur-divine-name.html"
+}

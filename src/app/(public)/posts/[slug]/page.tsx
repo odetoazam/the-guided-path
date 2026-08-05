@@ -15,20 +15,12 @@ import { PathAttribution } from '@/components/paths/PathAttribution'
 import { PostActions } from '@/components/PostActions'
 import { ReflectionEditor } from '@/components/ReflectionEditor'
 import { SelectionQuoteShare } from '@/components/share/SelectionQuoteShare'
+import { CATEGORY_STYLES } from '@/lib/entity-categories'
 
 interface Props {
   params: Promise<{ slug: string }>
 }
 
-const CATEGORY_STYLES: Record<EntityCategory, string> = {
-  states_of_the_heart: 'bg-rose-500/10 text-rose-300/70 border-rose-500/15',
-  the_unseen: 'bg-violet-500/10 text-violet-300/70 border-violet-500/15',
-  quranic_characters: 'bg-amber-500/10 text-amber-300/70 border-amber-500/15',
-  nations_and_peoples: 'bg-teal-500/10 text-teal-300/70 border-teal-500/15',
-  concepts_of_existence: 'bg-sky-500/10 text-sky-300/70 border-sky-500/15',
-  theology_and_ethics: 'bg-indigo-500/10 text-indigo-300/70 border-indigo-500/15',
-  study_terms: 'bg-zinc-500/10 text-zinc-300/70 border-zinc-500/15',
-}
 
 async function getPost(slug: string) {
   try {

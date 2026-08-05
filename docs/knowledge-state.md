@@ -1,7 +1,7 @@
 # AyahGuide Knowledge State
 
 *Maintained by the hub-article-pipeline skill. Updated at the end of every writing session.*
-*Last updated: 2026-04-05*
+*Last updated: 2026-08-03*
 
 ---
 
@@ -53,7 +53,7 @@ This document is read by the hub-article-pipeline skill at the start of every se
 | Iman | 3 ✅ | Address (alladhina amanu), iman-amal pair, stages/vocabulary |
 | Taqwa | 3 ✅ | Root as shield, repeated command, fruits/muttaqin |
 | Sabr | 3 ✅ | Root as binding, bi-ghayri hisab reward, community obligation |
-| Tawbah | 4 ✅ | Root as return, Adam vs Iblis fork, door that closes, al-Tawwab (mutual) |
+| Tawbah | 6 ✅ | Root as return, Adam vs Iblis fork, door that closes, al-Tawwab (mutual), **Al-Ghafur/Ghaffar (primary)**, **Al-Wadud (secondary)** |
 | Rahmah | 3 ✅ | Rahman vs Rahim (two registers), conditional mercy, mercy as architecture |
 | Jannah | 4 ✅ | Vocabulary, repeated river phrase, reunion, productive silence |
 | Jahannam | 3 ✅ | Names of fire, fire as character, two processions/grammar |
@@ -64,12 +64,49 @@ This document is read by the hub-article-pipeline skill at the start of every se
 | Qadar | 3 ✅ | Root as measure, qaddara in creation, qadar vs human choice |
 | Ihsan | 2 ✅ | Muhsin, ihsan-iman-islam three layers |
 | Rizq | 2 ✅ | Al-Razzaq, rizq and gratitude/economic theology |
-| Mahabbah | 3 ✅ | Root (seed), mutual love (yuhibbuhum), what Allah loves |
+| Divine Names | 8 ✅ | Al-Razzaq, Rahman/Rahim pair, At-Tawwab, **As-Samad (hapax + Tabari's ikhtilaf)**, **Al-Qayyum (never alone)**, **Al-Wadud (love downstream of pardon)**, **An-Nur (is Allah light?)**, **Al-Ghafur/Al-Ghaffar (fa'ul vs fa''al)** |
+| Mahabbah | 4 ✅ | Root (seed), mutual love (yuhibbuhum), what Allah loves, **Al-Wadud — the divine name itself (11:90/85:14)** |
 | Khawf | 2 ✅ | Khawf vs khashya (two theological positions), fear as engine |
 | Sidq | 2 ✅ | Root (solid), al-Siddiq (rank between prophets and martyrs) |
 | Dunya | 1 ✅ | Being vs. having (Al-Kahf two gardens parable — complete scene + philosophy + surah positioning) |
 | Shukr | 0 — | Not started |
 | Ikhlas | 0 — | Not started |
+
+---
+
+### Quranic Economics (new cluster, 2026-07-26 — 5 articles)
+
+Seeded by a Nouman Ali Khan khutbah transcript ("Quranic Economics 101"): the Makkan Quran argues with the **elite**, and economic corruption is one of its main lines of criticism. Corpus-first selection; all five published.
+
+| Article | Hook (corpus-verified) |
+|---|---|
+| `/posts/mutrafun-affluent-rejected-every-prophet-quran` | مُتْرَف = passive participle (form IV, ت-ر-ف), 5×, all negative; stated as a rule twice (34:34, 43:23). Jalālayn glosses it *ruʾasāʾihā*, chiefs. |
+| `/posts/istudifu-made-weak-passive-verb-quran` | ٱسْتُضْعِفُوا form X **passive** ×5 vs ٱسْتَكْبَرُوا form X **active**; 28:4 active-with-Pharaoh → 28:5 passive-with-God's-reversal. |
+| `/posts/wealthy-arguments-always-theology-quran` | Every argument the Quran quotes from the wealthy is a claim about God: 36:47, 34:35, 11:87, 43:31→32. |
+| `/posts/riba-only-declaration-of-war-quran` | Root ح-ر-ب ×11; only 2:279 runs a war God→humans, over a financial practice. Guardrail: no ruling on modern instruments. |
+| `/posts/aqabah-steep-climb-al-balad-quran` | Root ق-ح-م ×2, both form VIII: plunging *down* into fire (38:59) vs never plunging *up* the pass (90:11). Hapax-dense definition, all economic. |
+
+**Unwritten, corpus-verified, same cluster:** `qāla al-malaʾ` ×10 (opposition always named by job title; 11:27's slur *arādhilunā*) · the identical `yabkhalūna wa-yaʾmurūna'n-nāsa bi'l-bukhl` at 4:37 // 57:24 · 9:34 *yaknizūn* + religious office as economic actor · **أكل as the Quran's verb for financial crime** (2:188, 4:2, 4:10, 4:29, 9:34, 2:275 — corruption as *eating*) · Al-Fajr 89:15–20's pivot from ancient civilisations to "you do not honour the orphan" · 93:6–11, the Prophet's biography mirrored clause-for-clause in the commands.
+
+**Overlap guard used:** Shuʿayb fair-trade, Qārūn wealth-theology, two-garden-owners, and al-Māʿūn's *yaduʿʿu* were already published and own their angles; these five avoid them.
+
+---
+
+### Divine Names / Asma al-Husna (new cluster, 2026-08-03 — 5 articles)
+
+The site's biggest open SEO gap. `rizq-al-razzaq-divine-name-quran` was already a top-5 organic traffic driver while ~40 major names had no article at all. Naming rule for this cluster, set by Azam: **the searchable name goes in the H1, the slug, and the meta description** — someone types "Al-Wadud meaning" before they have ever heard of us.
+
+| Article | Hook (corpus-verified) |
+|---|---|
+| `/posts/as-samad-divine-name-quran` | Hapax — ٱلصَّمَد occurs 1x (112:2). Al-Tabari's own *wa-khtalafa ahl al-ta'wil* + 7 named early positions, then his tarjih from pre-Islamic poetry and his caveat that a sound marfu' report would outrank it. |
+| `/posts/al-qayyum-divine-name-quran` | ٱلْقَيُّوم 3x (2:255, 3:2, 20:111), al-Hayy immediately before it every time; al-Hayy stands alone at 25:58/40:65. 20:112 verified verbatim: *zulm*=addition, *hadm*=subtraction (Jalalayn). |
+| `/posts/al-wadud-divine-name-quran` | ٱلْوَدُود 2x (11:90, 85:14), both downstream of forgiveness. Jalalayn's Form V *al-mutawaddid* = God makes the overture. 85:10's *thumma lam yatubu* keeps the door open to the men at the trench. |
+| `/posts/an-nur-divine-name-quran` | Allah named *as* light exactly 1x (24:35); 5:15 is the near-miss (*min* Allah). Early split: Ibn Abbas *hadi* / Mujahid governance / as-Suddi radiance / Jalalayn *munawwir*. 24:40's counter-tower glossed by Muyassar as *fa-ma lahu min had*. |
+| `/posts/al-ghafur-al-ghaffar-divine-name-quran` | ٱلْغَفُور 91x vs ٱلْغَفَّار 5x — fa'ul vs fa''al. al-'Aziz directly precedes Ghaffar in 3 of 5; Ghafur takes Rahim 64 of 91 times. |
+
+**Overlap guard used:** As-Samad vs the live 112:1-4 reflection page; Al-Qayyum vs the 2:255 reflection AND `ayat-al-kursi-throne-twin-quran` (anchored on 3:2/20:111 instead); Al-Wadud vs `the-orator-of-the-prophets-why-the-quran-calls-shuayb-khatib`, which **already publishes the "only twice" fact** — the article goes deeper and links to it rather than repeating it as a headline; Al-Ghafur steered off 39:53, owned by the two despair articles.
+
+**Unwritten, same cluster (~35 names remain):** Al-Wakil · Al-Hayy (needs care against the Qayyum piece — would have to earn the two standalone verses) · Al-Latif · Al-Karim · Al-Hafiz · Ash-Shakur · Al-Halim · Al-Muhaymin · Al-Jabbar · Al-Quddus · Al-Fattah · Al-Basir/As-Sami' as a pair.
 
 ---
 
@@ -164,6 +201,13 @@ These are connections that exist implicitly in already-published articles but ha
 | "Enclosed Spaces" | Ibrahim's fire — God speaks to the element, bypasses Ibrahim entirely | "The Fire That Became Cool and Peaceful" | Same scene, different analytical lens — preservation as unmediated encounter vs. the theological mechanics of the command |
 | "Enclosed Spaces" | Yusuf at the bottom — destination announced inside the pit | "The Well: What Allah Revealed to Yusuf at the Bottom" | Same scene — the enclosures article treats it as part of a cross-story pattern; the Well article treats it as biography |
 
+| "Al-Wadud" | The hubb-vs-wudd distinction in the opening section | "The Root That Means Seed: Mahabbah Before It Became Love" | Same two roots, opposite entry points — the mahabbah piece enters through h-b-b, this one through the divine name built on w-d-d |
+| "Al-Wadud" | Shu'ayb closing his appeal on the name for affection | "The Orator of the Prophets" | That article already carries the "appears only twice" fact as an aside; this one makes it the subject and adds the forgiveness attachment |
+| "Al-Ghafur and Al-Ghaffar" | The opening statement that one root yields two names | "The Two Names: Rahman and Rahim, One Root, Two Registers" | Identical analytical move on a different root — the strongest sibling pair on the site |
+| "An-Nur" | The point about a divine attribute sharing a word with a created thing | "As-Samad" | Both names would collapse into physical description if read at face value; the tradition applies the same discipline to each |
+| "Al-Qayyum" | The clause about drowsiness and sleep | "You Recite Ayat al-Kursi Before Sleep. Its Only Twin Verse Holds a Corpse." | Same verse, different cut — that article takes the kursi/throne twin, this one takes the name pair |
+| "As-Samad" | Al-Tabari publishing his method and naming what would have overturned it | [future article: "How the Mufassirun Show Their Work"] | Classical scholarship's own transparency as a subject — would anchor the methodology page |
+
 *Add new entries here after each writing session where a cross-article connection is noticed during research or drafting.*
 
 ---
@@ -196,6 +240,10 @@ musa · dhul-qarnayn · firaun · adam · ismail · lut · isa · harun · yaqub
 
 ### States of Heart with Zero Articles
 shukr · ikhlas
+
+### Divine Names with Zero Articles (~35 remain — highest-yield SEO gap)
+Al-Wakil · Al-Hayy · Al-Latif · Al-Karim · Al-Hafiz · Ash-Shakur · Al-Halim · Al-Muhaymin · Al-Jabbar · Al-Quddus · Al-Fattah · As-Sami'/Al-Basir (pair)
+*Proven format: name-in-H1 + name-in-slug + name-in-meta-description. Al-Razzaq is a top-5 organic driver on that pattern alone.*
 
 ---
 
