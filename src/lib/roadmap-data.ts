@@ -6,7 +6,7 @@ export const ROADMAP = {
   content: {
     totalAyahs: 6236,
     doneAyahs: 6236,
-    queuePosition: 'COVERAGE COMPLETE — all 6,236 ayahs covered by 3,018 files. Validation split: 2,158 validated / 844 pending (triage: 272 auto-verified awaiting interpretive read · 566 awaiting enrichment · 0 defects) / 36 unflagged',
+    queuePosition: 'COVERAGE COMPLETE — all 6,236 ayahs covered. Validation: 2,166 validated / 814 pending. Interpretive-read pass live (Jul 31): 50 files read, 24 activated, 26 queued for human review, ZERO false theses found. Triage: 271 auto-verified / 543 awaiting enrichment / 0 defects.',
     surahsInProgress: 114,
   },
 
@@ -17,7 +17,7 @@ export const ROADMAP = {
       sub: '3,018 files · 100% ayah coverage · 2,158 validated — the moat',
       why: 'Every other layer is built on top of this. Coverage is COMPLETE (all 6,236 ayahs, verified Jul 12); validation triage (Jul 12) found 0 defects — the 844 pending files split into 272 auto-verified (awaiting the interpretive tafsir read) and 566 awaiting enrichment. NOT a web-publishing asset (decision Jul 7): it is the grounding corpus for AI surfaces.',
       status: 'active' as const,
-      current: 'validation burn-down: 272 interpretive reads + 566 enrichments (unlock: tafsir re-key plan)',
+      current: 'validation burn-down RUNNING — interpretive-read workflow proven (rubric + parallel reviewers + audit log). 177 auto-verified files left; enrichment still gated on the tafsir re-key.',
       blockedBy: null,
     },
     {
@@ -26,7 +26,7 @@ export const ROADMAP = {
       sub: 'validated nodes + typed munāsabāt edges',
       why: 'THE current priority (decision Jul 7: "graph connections made to make future stuff easier"). Substrate hardened Jul 12-13: freshness gate (npm run graph / graph:check), provenance-preserving promotion overlay, motif-level review. Discovery runs 1+2 complete: 643 root-motifs reviewed, +669 confirmed cross-surah edges each carrying a quotable basis. Graph now 13,279 traversable edges; validated-only view 7,320.',
       status: 'active' as const,
-      current: 'runs 1+2 merged · 39-root cleanup pass queued · next lever: validation burn-down activates edges',
+      current: 'validated-only view 7,438 edges (was 7,355). Edge attachment made deterministic Jul 31 — overlapping nodes had let glob order pick the owner. Next lever: keep burning down validation; 350-elite promotion queue untouched.',
       blockedBy: null,
     },
     {
@@ -57,7 +57,8 @@ export const ROADMAP = {
 
   openQuestions: [
     'Which AI surface first — typing companion or voice — and what triggers the build? (NORTH-STAR open item)',
-    'Interpretive-read workflow for the 272 auto-verified files (Fable first-pass flagger + human final call?) and executing the tafsir re-key plan to unlock enrichment of the 566.',
+    'ANSWERED Jul 31 — the interpretive-read workflow is running (rubric + parallel reviewers + audit log; 50 files done, 0 false theses). The open half is the tafsir re-key, still gating enrichment of the 543.',
+    'The 26 flagged files all share one defect: a classical ikhtilaf stated in one voice. One exemplar paragraph is drafted (9:4-6) awaiting a yes/no on the shape before the pattern is repeated.',
     'Definition of "substrate v1.0 done" — measurable gates so graph work has a finish line (deliberation F5); discovery below DF≤10 stays closed pending a phrase-level method.',
     'Do we collect user reflections? Unlocks longitudinal memory (the Blomma moat).',
     'Paths bet review 2026-09-25: do article/hub attribution strips (?src=) beat the old homepage baseline (9 visitors/60d)? If not, archive paths.',
@@ -66,6 +67,7 @@ export const ROADMAP = {
   ],
 
   shipped: [
+    { title: 'Interpretive-read gate: 50 files read, 24 activated, 0 false theses; 3 frontmatter Arabic defects + 16 script-corruption spots repaired', date: 'Jul 2026' },
     { title: 'Guided paths repaired: all 20 stops now land on real content (was 13)', date: 'Jul 2026' },
     { title: 'Hub synthesis backlog closed — 25 written; every hub with 3+ articles has a real overview', date: 'Jul 2026' },
     { title: '4 corpus-verified articles filling empty path hubs (tadabbur, tawakkul, khushu, nazm)', date: 'Jul 2026' },
