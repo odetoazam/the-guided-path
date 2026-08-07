@@ -81,6 +81,14 @@ export default function NamesPage() {
             one of them.
           </p>
           <p>
+            The count is also of one <em>word</em>, not of everything spelled like it.
+            Arabic packs different words into the same letters, and adding them together
+            inflates a number badly: counted loosely, <strong>Al-Malik</strong> comes to
+            152 — but 88 of those are <em>malak</em>, angel, and 48 are <em>mulk</em>,
+            dominion. The name itself is 15. Every count here is tied to a specific
+            dictionary entry, and a script re-checks all 99 against the corpus.
+          </p>
+          <p>
             <strong>{absent} of the 99 never appear in the Quran in that form at all.</strong>{' '}
             Several are drawn from its verbs rather than quoted from it — the Quran says{' '}
             <em>He gives life and causes death</em>, and from that verb pair come Al-Muhyi
