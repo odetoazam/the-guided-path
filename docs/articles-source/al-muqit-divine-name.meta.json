@@ -1,0 +1,16 @@
+{
+  "slug": "al-muqit-divine-name-quran",
+  "title": "Al-Muqit: The Divine Name Built on the Word for a Day's Ration",
+  "excerpt": "Al-Muqit occurs once in the Quran, and its root occurs only twice in the entire book. Al-Tabari records four early readings of the name and then chooses the one supported by a line of pre-Islamic verse.",
+  "seo_title": "Al-Muqit: Meaning of the Divine Name in the Quran",
+  "seo_description": "Al-Muqit appears once, at Quran 4:85. Its root appears only twice in the whole Quran. Al-Tabari's four readings, his verdict, and why \"the Nourisher\" is incomplete.",
+  "tags": ["al-muqit", "asma-al-husna", "divine-names", "rizq", "an-nisa", "fussilat", "name-breakdown"],
+  "entity_tags": [
+    { "slug": "rizq", "is_primary": true },
+    { "slug": "qadar" },
+    { "slug": "hisab" }
+  ],
+  "quran_refs": ["4:85", "41:10"],
+  "reading_time_minutes": 6,
+  "html_path": "docs/articles-source/al-muqit-divine-name.html"
+}

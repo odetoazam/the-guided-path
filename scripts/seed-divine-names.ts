@@ -34,6 +34,12 @@ type Seed = {
   occurrence_note: string
   /** Article slug this name should become the PRIMARY tag of. Optional. */
   primary_for?: string
+  /**
+   * Article slug this name should be attached to as a SECONDARY tag. Used for the
+   * second (and third, fourth) name in a pair-or-set article, so that no hub is
+   * ever born empty — every entity below owns at least one tag.
+   */
+  secondary_for?: string
 }
 
 const NAMES: Seed[] = [
@@ -125,6 +131,7 @@ const NAMES: Seed[] = [
     occurrence_count: 5,
     occurrence_note:
       'Occurs 5 times (20:82, 38:66, 39:5, 40:42, 71:10). Three of the five put al-ʿAziz directly before it; al-Jalalayn reads the pair as naming two audiences at once — mighty over enemies, forgiving to those close to Him.',
+    secondary_for: 'al-ghafur-al-ghaffar-divine-name-quran',
   },
   {
     slug: 'ar-razzaq',
@@ -184,6 +191,7 @@ const NAMES: Seed[] = [
     occurrence_count: 116,
     occurrence_note:
       'Occurs 116 times, most often as the second half of a name pair — 64 of those follow Al-Ghafur directly.',
+    secondary_for: 'rahman-rahim-two-names-quran',
   },
   {
     slug: 'al-wakil',
@@ -318,6 +326,128 @@ const NAMES: Seed[] = [
     occurrence_count: 51,
     occurrence_note:
       'Occurs 51 times, and stands directly after as-Samiʿ in seven of them. The pair covers what is said and what is done.',
+    secondary_for: 'as-sami-al-basir-divine-names-quran',
+  },
+  {
+    slug: 'al-halim',
+    name_arabic: 'ٱلْحَلِيم',
+    name_translit: 'Al-Halim',
+    name_english: 'The Forbearing',
+    one_line: 'Not that the penalty was cancelled — that it has not arrived yet.',
+    pronunciation: 'al-ha-LEEM · guttural "h", long "ee"',
+    root_letters: 'ح-ل-م',
+    root_translit: 'ḥā-lām-mīm',
+    root_meaning:
+      'Restraint that holds back a response one is entitled to make; the same root gives ḥulum — dreams, and the age at which a child becomes accountable',
+    occurrence_count: 15,
+    occurrence_note:
+      'Occurs 15 times, of which 11 name God and 4 name people: Ibrahim twice (9:114, 11:75), the promised boy (37:101), and once as sarcasm aimed at Shuʿayb by his own people (11:87), which both al-Jalalayn and al-Muyassar mark as istihzāʾ. Al-Jalalayn glosses the divine name at 2:225 as bi-taʾkhīr al-ʿuqūbah ʿan mustaḥiqqihā — by delaying the punishment away from the one who deserves it. In all 11 divine uses it is paired with another name, most often Al-Ghafur.',
+    primary_for: 'al-halim-divine-name-quran',
+  },
+  {
+    slug: 'al-wasi',
+    name_arabic: 'ٱلْوَٰسِع',
+    name_translit: 'Al-Wasi',
+    name_english: 'The Vast in Giving',
+    one_line: 'The answer the Quran gives to the arithmetic that says there is not enough.',
+    pronunciation: 'al-WAA-si‘ · long "aa", light closing ayn',
+    root_letters: 'و-س-ع',
+    root_translit: 'wāw-sīn-ʿayn',
+    root_meaning: 'Breadth, room, capacity — saʿah is the space or means a person has to work with',
+    occurrence_count: 9,
+    occurrence_note:
+      'Occurs 9 times, all naming God: 7 as wāsiʿun ʿalīm, once as wāsiʿan ḥakīmā (4:130), and once in construct as wāsiʿu’l-maghfirah (53:32) — the only place the Quran says what the breadth is of. Al-Jalalayn glosses the name almost every time with one word, faḍluhu, His bounty. At 2:247 the objection against Talut uses the same root (saʿatan mina’l-māl) that the verse then returns as God’s name.',
+    primary_for: 'al-wasi-divine-name-quran',
+  },
+  {
+    slug: 'al-qahhar',
+    name_arabic: 'ٱلْقَهَّار',
+    name_translit: 'Al-Qahhar',
+    name_english: 'The Overwhelming',
+    one_line: 'Six occurrences, six times bolted to “the One” — the name belongs to an argument about number.',
+    pronunciation: 'al-qah-HAAR · doubled "h", long "aa"',
+    root_letters: 'ق-ه-ر',
+    root_translit: 'qāf-hā-rā',
+    root_meaning: 'To overpower so completely that the other party has no move left',
+    occurrence_count: 6,
+    occurrence_note:
+      'Occurs 6 times (12:39, 13:16, 14:48, 38:65, 39:4, 40:16) and every one reads al-Wāḥid al-Qahhār — the name never stands alone. Al-Jalalayn glosses it li-khalqihi, over His creation. The plain participle qāhir is used of God at 6:18 and 6:61 and, once, of Pharaoh’s court at 7:127. The root’s only verb in the Quran is the prohibition at 93:9 — do not crush the orphan.',
+    primary_for: 'al-qahhar-divine-name-quran',
+  },
+  {
+    slug: 'al-awwal',
+    name_arabic: 'ٱلْأَوَّل',
+    name_translit: 'Al-Awwal',
+    name_english: 'The First',
+    one_line: 'Before everything, with no beginning of His own.',
+    pronunciation: 'al-AW-wal · doubled "w"',
+    root_letters: 'أ-و-ل',
+    root_translit: 'alif-wāw-lām',
+    root_meaning: 'Firstness, priority — the same root gives taʾwīl, tracing a thing back to what it comes from',
+    occurrence_count: 1,
+    occurrence_note:
+      'As a name of God, once — at 57:3. The masculine definite form appears only twice in the Quran; the other (50:15) describes the first creation, not God. Al-Jalalayn: before everything, with no beginning.',
+    primary_for: 'al-awwal-al-akhir-az-zahir-al-batin-quran',
+  },
+  {
+    slug: 'al-akhir',
+    name_arabic: 'ٱلْـَٔاخِر',
+    name_translit: 'Al-Akhir',
+    name_english: 'The Last',
+    one_line: 'After everything, with no end of His own.',
+    pronunciation: 'al-AA-khir · long "aa", guttural "kh"',
+    root_letters: 'أ-خ-ر',
+    root_translit: 'alif-khā-rā',
+    root_meaning: 'Lastness, what comes after — the same root gives al-ākhirah, the life that comes after this one',
+    occurrence_count: 1,
+    occurrence_note:
+      'As a name of God, once — at 57:3. The word itself is one of the most common in the Quran, but almost always as al-ākhirah (the hereafter) or in al-yawm al-ākhir (the Last Day), where it describes the day rather than God.',
+    secondary_for: 'al-awwal-al-akhir-az-zahir-al-batin-quran',
+  },
+  {
+    slug: 'az-zahir',
+    name_arabic: 'ٱلظَّاهِر',
+    name_translit: 'Az-Zahir',
+    name_english: 'The Outer, The Manifest',
+    one_line: 'Unmistakable in the evidence — or, on the other reading, with nothing above Him.',
+    pronunciation: 'az-ZAA-hir · long "aa", emphatic "z"',
+    root_letters: 'ظ-ه-ر',
+    root_translit: 'ẓā-hā-rā',
+    root_meaning: 'To be outward, visible, on the surface — the same root gives ẓahr, the back',
+    occurrence_count: 1,
+    occurrence_note:
+      'As a name of God, once — at 57:3. The two commentaries diverge: al-Jalalayn reads it as manifest through the proofs that point to Him; al-Muyassar as the Outer with nothing above Him, which is the wording of the Prophet’s own supplication as Ibn Kathir records it.',
+    secondary_for: 'al-awwal-al-akhir-az-zahir-al-batin-quran',
+  },
+  {
+    slug: 'al-batin',
+    name_arabic: 'ٱلْبَاطِن',
+    name_translit: 'Al-Batin',
+    name_english: 'The Inner, The Hidden',
+    one_line: 'Beyond the reach of the senses — or, on the other reading, with nothing beneath Him.',
+    pronunciation: 'al-BAA-ṭin · long "aa", emphatic "t"',
+    root_letters: 'ب-ط-ن',
+    root_translit: 'bā-ṭā-nūn',
+    root_meaning: 'To be inward, concealed — the same root gives baṭn, the belly, the inside of a thing',
+    occurrence_count: 1,
+    occurrence_note:
+      'As a name of God, once — at 57:3. Al-Jalalayn glosses it as hidden from the grasp of the senses; al-Muyassar as the Inner with nothing below Him. Ibn Kathir reports that the commentators produced more than ten different explanations of this verse.',
+    secondary_for: 'al-awwal-al-akhir-az-zahir-al-batin-quran',
+  },
+  {
+    slug: 'al-muqit',
+    name_arabic: 'ٱلْمُقِيت',
+    name_translit: 'Al-Muqit',
+    name_english: 'The Apportioner of Sustenance',
+    one_line: 'Built on the word for a day’s ration — and read by al-Tabari as the power that sets it.',
+    pronunciation: 'al-mu-QEET · long "ee"',
+    root_letters: 'ق-و-ت',
+    root_translit: 'qāf-wāw-tā',
+    root_meaning: 'Qūt is the measured amount of food that keeps a person going — the ration, not food in general',
+    occurrence_count: 1,
+    occurrence_note:
+      'Occurs once, at 4:85, and the root occurs only twice in the whole Quran — the other is aqwātahā at 41:10, the earth’s apportioned provisions. Al-Tabari records four early readings (ḥafīẓ from Ibn ʿAbbas; shahīd and ḥasīb from Mujahid; one reading as al-wāṣib; al-qadīr from as-Suddi and Ibn Zayd) and prefers al-qadīr on the usage of Quraysh.',
+    primary_for: 'al-muqit-divine-name-quran',
   },
 ]
 
@@ -326,11 +456,16 @@ async function main() {
   console.log(dryRun ? '── DRY RUN ──' : '── APPLYING ──')
 
   for (const n of NAMES) {
-    const { primary_for, ...entity } = n
+    const { primary_for, secondary_for, ...entity } = n
     const payload = { ...entity, category: 'divine_names' as const }
 
     if (dryRun) {
-      console.log(`would upsert  ${n.slug.padEnd(14)} (${n.occurrence_count}×)${primary_for ? `  → primary on /posts/${primary_for}` : ''}`)
+      const attach = primary_for
+        ? `  → primary on /posts/${primary_for}`
+        : secondary_for
+          ? `  → secondary on /posts/${secondary_for}`
+          : '  ⚠ NO ARTICLE — would leave an empty hub'
+      console.log(`would upsert  ${n.slug.padEnd(14)} (${n.occurrence_count}×)${attach}`)
       continue
     }
 
@@ -350,19 +485,22 @@ async function main() {
       console.log(`  created  ${n.slug}`)
     }
 
-    if (!primary_for) continue
+    const articleSlug = primary_for ?? secondary_for
+    if (!articleSlug) { console.warn(`    ⚠ ${n.slug} has no article — hub would be empty`); continue }
 
     const { data: post } = await supabase
-      .from('posts').select('id').eq('slug', primary_for).maybeSingle()
-    if (!post) { console.warn(`    ⚠ article not found: ${primary_for}`); continue }
+      .from('posts').select('id').eq('slug', articleSlug).maybeSingle()
+    if (!post) { console.warn(`    ⚠ article not found: ${articleSlug}`); continue }
 
-    // Demote whatever currently holds primary, then attach this name as primary.
-    await supabase.from('entity_tags').update({ is_primary: false }).eq('post_id', post.id)
+    if (primary_for) {
+      // Demote whatever currently holds primary, then attach this name as primary.
+      await supabase.from('entity_tags').update({ is_primary: false }).eq('post_id', post.id)
+    }
     await supabase.from('entity_tags').delete().eq('post_id', post.id).eq('entity_id', entityId)
     const { error: tagErr } = await supabase
-      .from('entity_tags').insert({ post_id: post.id, entity_id: entityId, is_primary: true })
+      .from('entity_tags').insert({ post_id: post.id, entity_id: entityId, is_primary: !!primary_for })
     if (tagErr) console.warn(`    ⚠ tag: ${tagErr.message}`)
-    else console.log(`    → primary on /posts/${primary_for}`)
+    else console.log(`    → ${primary_for ? 'primary' : 'secondary'} on /posts/${articleSlug}`)
   }
 
   if (!dryRun) {

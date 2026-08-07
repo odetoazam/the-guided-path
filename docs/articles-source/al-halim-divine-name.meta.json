@@ -1,0 +1,17 @@
+{
+  "slug": "al-halim-divine-name-quran",
+  "title": "Al-Halim: The Divine Name for the Punishment That Has Not Come Yet",
+  "excerpt": "Al-Halim is translated \"the Forbearing.\" Al-Jalalayn defines it far more sharply: by delaying the punishment away from the one who deserves it. Fifteen occurrences, eleven of them naming God.",
+  "seo_title": "Al-Halim: Meaning of the Divine Name in the Quran",
+  "seo_description": "Al-Halim occurs 15 times in the Quran, 11 naming God. Al-Jalalayn glosses it as the deferral of a deserved punishment. What the name means, verse by verse.",
+  "tags": ["al-halim", "asma-al-husna", "divine-names", "hilm", "al-baqarah", "hud", "fatir", "name-breakdown"],
+  "entity_tags": [
+    { "slug": "hilm", "is_primary": true },
+    { "slug": "ibrahim" },
+    { "slug": "shuayb" },
+    { "slug": "sabr" }
+  ],
+  "quran_refs": ["2:225", "2:235", "2:263", "3:155", "4:12", "5:101", "9:114", "11:75", "11:87", "17:44", "22:59", "33:51", "35:41", "37:101", "64:17"],
+  "reading_time_minutes": 8,
+  "html_path": "docs/articles-source/al-halim-divine-name.html"
+}

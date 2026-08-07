@@ -64,7 +64,7 @@ This document is read by the hub-article-pipeline skill at the start of every se
 | Qadar | 3 ✅ | Root as measure, qaddara in creation, qadar vs human choice |
 | Ihsan | 2 ✅ | Muhsin, ihsan-iman-islam three layers |
 | Rizq | 2 ✅ | Al-Razzaq, rizq and gratitude/economic theology |
-| Divine Names | 16 ✅ (19 of 99 names) | Al-Razzaq, Rahman/Rahim pair, At-Tawwab, **As-Samad (hapax + Tabari's ikhtilaf)**, **Al-Qayyum (never alone)**, **Al-Wadud (love downstream of pardon)**, **An-Nur (is Allah light?)**, **Al-Ghafur/Al-Ghaffar (fa'ul vs fa''al)** |
+| Divine Names | 21 ✅ (27 of 99 names) | Al-Razzaq, Rahman/Rahim pair, At-Tawwab, **As-Samad (hapax + Tabari's ikhtilaf)**, **Al-Qayyum (never alone)**, **Al-Wadud (love downstream of pardon)**, **An-Nur (is Allah light?)**, **Al-Ghafur/Al-Ghaffar (fa'ul vs fa''al)** |
 | Mahabbah | 4 ✅ | Root (seed), mutual love (yuhibbuhum), what Allah loves, **Al-Wadud — the divine name itself (11:90/85:14)** |
 | Khawf | 2 ✅ | Khawf vs khashya (two theological positions), fear as engine |
 | Sidq | 2 ✅ | Root (solid), al-Siddiq (rank between prophets and martyrs) |
@@ -115,9 +115,19 @@ The site's biggest open SEO gap. `rizq-al-razzaq-divine-name-quran` was already 
 
 **Wave 3 (2026-08-05):** Al-Fattah (1×, glossed *al-ḥākim* — Judge not Opener) · Ar-Raqib (Isa hands the watch back, 5:117) · As-Sami/Al-Basir (7 adjacent pairs, 6 divine + 1 human at 76:2). **Al-Quddus dropped** — 59:23 already has a live reflection on the whole cascade; same applies to Al-Muhaymin.
 
-**Next up, scanned + angled:** Al-Halim (forbearance as *taʾkhīr al-ʿuqūbah*) · Al-Wasi (lands where the fear is scarcity).
+**Wave 4 (2026-08-06) — 5 articles, 8 names:**
 
-**Unwritten (~80 remain):** Al-Hayy (needs care — the Qayyum piece owns its two standalone verses) · Al-Halim · Al-Muhaymin · Al-Jabbar · Al-Quddus · Al-Fattah · Al-Basir/As-Sami' as a pair · Al-Muqit · Al-Hasib · Ar-Raqib.
+| Article | Hook (corpus-verified) |
+|---|---|
+| `/posts/al-halim-divine-name-quran` | 15×, of which **11 name God and 4 name people** (Ibrahim ×2, the promised boy, and 11:87 which is *sarcasm* — both commentaries mark it *istihzāʾ*). Al-Jalalayn 2:225: *bi-taʾkhīr al-ʿuqūbah ʿan mustaḥiqqihā*. Never alone in the 11 divine uses. Ibrahim is called *ḥalīm* (11:75) in the verse right after he argues for a postponement. |
+| `/posts/al-wasi-divine-name-quran` | 9×, all divine. Al-Jalalayn glosses it *faḍluhu* — breadth **of giving**. 2:247's objection uses the same root (*saʿatan mina'l-māl*) that the verse returns as the name; 4:130 repeats the trick in nine words. 53:32 is the only construct — *wāsiʿu'l-maghfirah*. |
+| `/posts/al-qahhar-divine-name-quran` | 6×, **all six read *al-Wāḥid al-Qahhār***, and all six argue about number rather than power. Jalalayn: *li-khalqihi*. *Qāhir* + *fawqa* is God's at 6:18/6:61 and Pharaoh's at 7:127; nobody is ever *qahhār*. The root's only verb is 93:9 — do not crush the orphan. |
+| `/posts/al-awwal-al-akhir-az-zahir-al-batin-quran` | Four names in one sentence (57:3), none naming God elsewhere. Al-Jalalayn reads *Zahir/Batin* epistemically, al-Muyassar spatially — and al-Muyassar's wording is the Prophet's supplication (Ibn Kathir ← Abu Hurayrah), which ends *settle our debt and free us from poverty*. Ibn Kathir counts the ikhtilāf ("ten and some odd sayings") and marks the "thousand verses" identification as his own inference. |
+| `/posts/al-muqit-divine-name-quran` | 1× (4:85), and **the whole root ق-و-ت appears exactly twice** — the other is *aqwātahā* (41:10). *Qūt* is the measured ration. Al-Tabari records four early readings and prefers *al-qadīr*, backed by a verse line about power held back. |
+
+**Overlap guard used (wave 4):** 57:3 is already framed in the `al-hadid` surah page ("four divine names… no other verse achieves this compression" + the Muslim supplication) — same situation as Al-Wadud vs the Shuʿayb article, handled the same way. 2:247 belongs to `dawud-jalut-victory-quran`, 5:54 to both mahabbah articles, 11:87 to `wealthy-arguments-always-theology-quran`, 93:9 to the `ad-dhuha` surah page, and 2:115 / 2:247 / 2:261 / 2:268 all have live reflections — cross-linked, not re-covered. **Al-Hasib dropped** (17:14 is owned by `iqra-first-last-word-quran`), **Ar-Ra'uf dropped** for this wave (same referent-split move as Al-Halim), **Al-Ghani held** (it is the named divine name of the held Sulayman course design).
+
+**Unwritten (~72 remain), best next candidates:** Al-Hayy (needs care — the Qayyum piece owns its two standalone verses) · Ar-Ra'uf (11×, 2 describing the Prophet) · Al-Hasib (needs a cut that avoids 17:14) · Al-Ghani (needs Azam's call vs the Sulayman course) · Al-Mujib (2×, one of them plural-majestic) · Al-Muhaymin and Al-Quddus remain **excluded** — both live at 59:23, which has a live reflection on the whole cascade.
 
 ---
 
@@ -252,8 +262,9 @@ musa · dhul-qarnayn · firaun · adam · ismail · lut · isa · harun · yaqub
 ### States of Heart with Zero Articles
 shukr · ikhlas
 
-### Divine Names with Zero Articles (~35 remain — highest-yield SEO gap)
-Al-Wakil · Al-Hayy · Al-Latif · Al-Karim · Al-Hafiz · Ash-Shakur · Al-Halim · Al-Muhaymin · Al-Jabbar · Al-Quddus · Al-Fattah · As-Sami'/Al-Basir (pair)
+### Divine Names with Zero Articles (~72 remain — highest-yield SEO gap)
+*Written through wave 4 (2026-08-06): 27 of 99. Next best: Al-Hayy · Ar-Ra'uf · Al-Hasib · Al-Ghani · Al-Mujib · Al-Jabbar · Al-Khabir · Al-Afuw.*
+*Excluded on purpose: Al-Quddus and Al-Muhaymin (both live at 59:23, which already has a live reflection covering the cascade).*
 *Proven format: name-in-H1 + name-in-slug + name-in-meta-description. Al-Razzaq is a top-5 organic driver on that pattern alone.*
 
 ---
