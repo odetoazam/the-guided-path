@@ -1,5 +1,20 @@
 # AyahGuide Article Backlog
 
+## Session Log — 2026-08-06c (DIVINE NAMES wave 6 — 2 more; 31 → 33 written)
+
+**Published:** `/posts/al-hayy-divine-name-quran` · `/posts/al-aziz-divine-name-quran`
+
+- **Al-Hayy** (24×, only **5 divine**) — the Qayyum article already owns the al-Hayy/al-Qayyum pairing, so this one takes the other ground. The two standalone divine uses each hand the name to a command: *rely* on the Living who does not die (25:58), *call* on Him (40:65) — the name is given as the reason for an act, not as a topic. The payoff is 16:21, where the idols are *amwātun ghayru aḥyāʾ*, dead and not living, and **al-Jalalayn draws the conclusion himself**: "so how are they worshipped, when none can be a god except the Creator, **the Living**" — he imports the divine name into a verse that does not contain it, because the argument needs it.
+- **Al-Aziz** (101×) — two lenses in one article so it is not another referent piece. (1) In Surah Yusuf the word is an *office*: it belongs to the man who buys Yusuf (12:30, 12:51) and by the end his brothers are calling **Yusuf** by it (12:78, 12:88). The title changes hands inside one surah and the Quran never comments. (2) Distribution: 47 of the occurrences take *al-Ḥakīm*. And 5:118 attaches the pair to **forgiveness**, not punishment — Isa's line, *if You forgive them, You are the Mighty, the Wise*.
+
+**A claim of mine was wrong and got caught by a script, not by re-reading.** The Al-Aziz draft said *ʿAzīz + Ḥakīm* (47) is the most frequent divine-name pairing in the Quran. It is **second** — *Ghafūr + Raḥīm* is 71 adjacent. Corrected before publish. The same check then caught **an error in Ar-Ra'uf, published an hour earlier**: it said the *raʾūf raḥīm* pair occurs "nine times of God and once of the Prophet", which is ten. The pair occurs **nine times total — eight of God, one of the Prophet**. Fixed and republished. Lesson: any superlative about the corpus ("the most X") needs its own ranking query, not an impression formed while writing.
+
+**Al-Wahhab HELD, not dropped.** 3 occurrences, and the angle is good — the verb *hab* appears 7× and the name only 3×, but twice they land in the same duʿā (3:8, 38:35 Sulayman). It is held because `dhul-qarnayn-and-sulayman-two-models-of-quranic-sovereignty` already makes essentially this point about 38:35, and because *al-Ghaniyy al-Karīm* / the Sulayman course is Azam's held design. Worth writing once he rules on the course boundary.
+
+QA: verify_arabic 7/7 exact (0 warnings), verify_morphology 11/11. 33 `divine_names` entities, 0 empty hubs. Count audit still 97 verified / 2 phrase-counted / 0 failing.
+
+Divine names now **33 of 99 written**.
+
 ## Session Log — 2026-08-06b (DIVINE NAMES wave 5 — 4 more; 27 → 31 written)
 
 Azam went to sleep and asked for as much as the session could carry, starting with the `/names` count audit. That audit is logged in the wave-4 entry below; it fed two of the four angles here directly.

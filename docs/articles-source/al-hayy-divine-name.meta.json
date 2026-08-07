@@ -1,0 +1,16 @@
+{
+  "slug": "al-hayy-divine-name-quran",
+  "title": "Al-Hayy: The Divine Name for Life, and the Verse That Calls the Other Gods Dead",
+  "excerpt": "The word occurs 24 times in the Quran and only five name God. The other nineteen describe created things — and one of them is the verse that calls the idols dead, not living.",
+  "seo_title": "Al-Hayy: Meaning of the Divine Name in the Quran",
+  "seo_description": "Al-Hayy, the Ever-Living, appears 24 times in the Quran; only 5 name Allah. What al-Jalalayn concludes from 16:21, where the idols are called dead, not living.",
+  "tags": ["al-hayy", "asma-al-husna", "divine-names", "hayah", "an-nahl", "al-furqan", "name-breakdown"],
+  "entity_tags": [
+    { "slug": "hayah", "is_primary": true },
+    { "slug": "tawhid" },
+    { "slug": "shirk" }
+  ],
+  "quran_refs": ["2:154", "2:255", "3:2", "16:21", "19:15", "19:33", "20:111", "21:30", "25:58", "40:65"],
+  "reading_time_minutes": 7,
+  "html_path": "docs/articles-source/al-hayy-divine-name.html"
+}

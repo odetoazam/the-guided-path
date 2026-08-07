@@ -1,7 +1,7 @@
 // ── Updated by /cofounder skill at session end ────────────────────────────────
 
 export const ROADMAP = {
-  lastUpdated: 'July 31, 2026',
+  lastUpdated: 'August 6, 2026',
 
   content: {
     totalAyahs: 6236,
@@ -67,6 +67,9 @@ export const ROADMAP = {
   ],
 
   shipped: [
+    { title: 'Divine names cluster: 31 of 99 written (waves 1-5), each with an entity + hub; /names index live with all 99', date: 'Aug 2026' },
+    { title: '/names counts audited and repaired: 9 of 99 were wrong (Al-Malik read 152 — 88 of those were malak, ANGEL). Three published articles carried the error. audit-divine-name-counts.mjs now verifies all 99 on demand', date: 'Aug 2026' },
+    { title: 'Content category playbook written — Index/Entry/Depth layers, the 5-step overlap scan, the validator traps', date: 'Aug 2026' },
     { title: 'Interpretive-read gate: 50 files read, 24 activated, 0 false theses; 3 frontmatter Arabic defects + 16 script-corruption spots repaired', date: 'Jul 2026' },
     { title: 'Guided paths repaired: all 20 stops now land on real content (was 13)', date: 'Jul 2026' },
     { title: 'Hub synthesis backlog closed — 25 written; every hub with 3+ articles has a real overview', date: 'Jul 2026' },

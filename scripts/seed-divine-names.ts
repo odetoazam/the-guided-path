@@ -511,6 +511,36 @@ const NAMES: Seed[] = [
       'The word malik occurs 15 times, NOT the 150-plus often quoted — that figure adds in malak (angel, 88×) and mulk (dominion, 48×), which are different words sharing a spelling. Five name Allah: 20:114 and 23:116, which share the phrase fa-taʿāla’llāhu’l-Maliku’l-Ḥaqq word for word; 62:1; 59:23; and 114:2, maliki’n-nās, the Quran’s last mention of kingship, inside a plea for shelter. The other ten are human kings — Talut, the ruler of Egypt (5×), the king in Al-Kahf, and the Queen of Sheba’s remark about what kings do to a town.',
     primary_for: 'al-malik-divine-name-quran',
   },
+  {
+    slug: 'al-hayy',
+    name_arabic: 'ٱلْحَىّ',
+    name_translit: 'Al-Hayy',
+    name_english: 'The Living',
+    one_line: 'Everything else in the Quran that is called alive received it from outside itself.',
+    pronunciation: 'al-HAYY · doubled "y"',
+    root_letters: 'ح-ي-ي',
+    root_translit: 'ḥā-yā-yā',
+    root_meaning: 'To live; the same root gives ḥayāh, life, and iḥyāʾ, the giving of life',
+    occurrence_count: 24,
+    occurrence_note:
+      'The word occurs 24 times and only 5 name Allah. Three of those five sit immediately before Al-Qayyum (2:255, 3:2, 20:111); the other two stand alone and each is followed by a command — rely on Him (25:58, which adds alladhī lā yamūt, who does not die) and call on Him (40:65). The remaining 19 describe created things, including 16:21, where the idols are amwātun ghayru aḥyāʾ, dead and not living — and al-Jalalayn draws the conclusion himself: none can be a god except the Creator, the Living.',
+    primary_for: 'al-hayy-divine-name-quran',
+  },
+  {
+    slug: 'al-aziz',
+    name_arabic: 'ٱلْعَزِيز',
+    name_translit: 'Al-Aziz',
+    name_english: 'The Mighty',
+    one_line: 'Might that does not lose — and, in Surah Yusuf, an Egyptian job title that changes hands.',
+    pronunciation: 'al-a-ZEEZ · long "ee"',
+    root_letters: 'ع-ز-ز',
+    root_translit: 'ʿayn-zāy-zāy',
+    root_meaning: 'To be unassailable, not to be overcome; the same root gives ʿizzah, honour that cannot be taken',
+    occurrence_count: 101,
+    occurrence_note:
+      'Occurs 101 times. Al-Jalalayn glosses it ghālibun lā yuʿjizuhu shayʾ (14:47); al-Muyassar alladhī lā yughālab (5:118). 47 of the occurrences are followed by Al-Hakim — the second-longest pairing of divine names in the Quran, behind Al-Ghafur + Ar-Rahim at 71 — then Ar-Rahim (13), Al-Alim (6), Al-Hamid (3), Al-Ghafur (2), and once each with Al-Wahhab, Al-Muqtadir and Al-Jabbar. Four occurrences are human: in Surah Yusuf it is an office, held first by the man who buys Yusuf (12:30, 12:51) and then by Yusuf himself, whom his brothers address as yā ayyuhā’l-ʿAzīz (12:78, 12:88).',
+    primary_for: 'al-aziz-divine-name-quran',
+  },
 ]
 
 async function main() {
