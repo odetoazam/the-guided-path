@@ -1,0 +1,17 @@
+{
+  "slug": "al-qahhar-divine-name-quran",
+  "title": "Al-Qahhar: The Divine Name the Quran Only Ever Uses to Argue About Number",
+  "excerpt": "Al-Qahhar occurs six times, and all six read al-Wahid al-Qahhar. Every one sits inside an argument about how many gods there are — and the only command built from its root forbids you to use it on an orphan.",
+  "seo_title": "Al-Qahhar: Meaning of the Divine Name in the Quran",
+  "seo_description": "Al-Qahhar appears 6 times in the Quran, always preceded by al-Wahid, the One. What the name means, how al-Jalalayn glosses it, and why 93:9 forbids the root to you.",
+  "tags": ["al-qahhar", "asma-al-husna", "divine-names", "tawhid", "yusuf", "ad-duha", "name-breakdown"],
+  "entity_tags": [
+    { "slug": "tawhid", "is_primary": true },
+    { "slug": "shirk" },
+    { "slug": "yusuf" },
+    { "slug": "firaun" }
+  ],
+  "quran_refs": ["6:18", "7:127", "12:39", "13:16", "14:48", "38:65", "39:4", "40:16", "93:9"],
+  "reading_time_minutes": 8,
+  "html_path": "docs/articles-source/al-qahhar-divine-name.html"
+}

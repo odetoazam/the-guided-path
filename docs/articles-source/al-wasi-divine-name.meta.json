@@ -1,0 +1,17 @@
+{
+  "slug": "al-wasi-divine-name-quran",
+  "title": "Al-Wasi: The Divine Name That Answers the Fear There Will Not Be Enough",
+  "excerpt": "Al-Wasi occurs nine times in the Quran, and every one of them lands right after somebody's calculation that there is not enough to go around — money, marriage, membership, even forgiveness.",
+  "seo_title": "Al-Wasi: Meaning of the Divine Name in the Quran",
+  "seo_description": "Al-Wasi appears 9 times in the Quran. Al-Jalalayn glosses it as the breadth of His bounty, and each occurrence answers a specific fear of scarcity.",
+  "tags": ["al-wasi", "asma-al-husna", "divine-names", "rizq", "al-baqarah", "an-nur", "an-najm", "name-breakdown"],
+  "entity_tags": [
+    { "slug": "rizq", "is_primary": true },
+    { "slug": "sadaqah" },
+    { "slug": "talut" },
+    { "slug": "shaytan" }
+  ],
+  "quran_refs": ["2:115", "2:247", "2:261", "2:268", "3:73", "4:130", "5:54", "24:32", "53:32"],
+  "reading_time_minutes": 8,
+  "html_path": "docs/articles-source/al-wasi-divine-name.html"
+}

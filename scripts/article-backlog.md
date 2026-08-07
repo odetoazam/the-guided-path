@@ -1,5 +1,35 @@
 # AyahGuide Article Backlog
 
+## Session Log — 2026-08-06 (DIVINE NAMES wave 4 — 5 articles, 8 names; 19 → 27 written)
+
+**Published:** `/posts/al-halim-divine-name-quran` · `/posts/al-wasi-divine-name-quran` · `/posts/al-qahhar-divine-name-quran` · `/posts/al-awwal-al-akhir-az-zahir-al-batin-quran` · `/posts/al-muqit-divine-name-quran`
+
+Two were Azam's carry-forwards (Al-Halim, Al-Wasi); three were picked by the scan this session. The 57:3 article carries **four** names, so the batch adds 8 entities on 5 articles.
+
+**Angles:**
+- **Al-Halim** (15×) — the gloss is astonishingly uniform. Al-Jalalayn at 2:225: *bi-taʾkhīr al-ʿuqūbah **ʿan mustaḥiqqihā*** — delaying the punishment away from the one who **deserves** it; the same idea at 2:263, 3:155 (*lā yuʿajjil ʿalā'l-ʿuṣāt*), 17:44, 22:59, 35:41, 64:17. The name describes something that is *not happening*. Never alone in the 11 divine uses (ghafūr ×6, ʿalīm ×3, ghaniyy, shakūr) — the ʿalīm pairing is the guard rail against reading delay as inattention. 35:41 runs it at cosmic scale (the heavens held from ceasing = the same attribute). **Referent check paid off again:** 4 of the 15 are human — Ibrahim ×2, the promised boy (37:101), and 11:87, which is *sarcasm*, marked *istihzāʾ* by both al-Jalalayn and al-Muyassar. Best find: Ibrahim is named *ḥalīm* (11:75) in the verse immediately after he argues to postpone the destruction of Lut's people — he is doing what the name does.
+- **Al-Wasi** (9×) — al-Jalalayn glosses the name with one word nearly every time: *faḍluhu*, His bounty. Not vastness, breadth **of giving**. Headline: at 2:247 the objection against Talut uses the same root (*lam yuʾta **saʿatan** mina'l-māl*, seg 36) and the verse answers by naming God ***wāsiʿ*** (seg 66); 4:130 does it again inside nine words (*min **saʿatih*** → ***wāsiʿan***). 7 of 9 read *wāsiʿun ʿalīm*; 53:32 is the only construct and the only place the Quran says what the breadth is *of* — *wāsiʿu'l-maghfirah*. Took the scarcity cut and cross-linked out to the live 2:115 / 2:247 / 2:261 / 2:268 reflections rather than re-covering them.
+- **Al-Qahhar** (6×) — **6 of 6 read *al-Wāḥid al-Qahhār***, never alone, and in all six the argument is about *number*, not power (4 anti-shirk, 2 Judgment scenes). Jalalayn's gloss is two words: *li-khalqihi*. The *faʿʿāl*/*fāʿil* split lands differently from Ghafur/Ghaffar — here it separates God from a human court: *qāhir* + *fawqa* is used of God (6:18, 6:61) and, once, by Pharaoh (7:127, *wa innā fawqahum qāhirūn*); nobody is ever *qahhār*. Payoff: the root's only verb in the Quran is 93:9, a prohibition — *do not crush the orphan*.
+- **Al-Awwal / Al-Akhir / Az-Zahir / Al-Batin** (57:3) — four names, one sentence, none of them naming God anywhere else. Stated carefully because three of the four are common words: *al-Awwal* masculine-definite appears twice (50:15 = the first *creation*); *al-Akhir* is everywhere as *al-ākhirah* / *al-yawm al-ākhir*; *az-Zahir* and *al-Batin* occur together at 6:120 and 57:13, neither about God. Real recorded fork: **al-Jalalayn reads the second pair epistemically** (manifest by the proofs / hidden from the senses), **al-Muyassar spatially** (nothing above / nothing below) — and al-Muyassar's wording is the Prophet's own supplication, which Ibn Kathir quotes from Abu Hurayrah. Ibn Kathir also counts the ikhtilāf out loud ("about ten and some odd sayings") and identifies 57:3 as the ʿIrbad "better than a thousand verses" ayah **with his own *wa'llāhu aʿlam*** — kept marked as inference, not report. Best payoff: that supplication ends *settle our debt for us and free us from poverty*.
+- **Al-Muqit** (1×, 4:85) — hapax genre, like Al-Fattah/As-Samad. **The whole root appears exactly twice in the Quran**: this name and *aqwātahā* (41:10, the earth's apportioned provisions). *Qūt* = the measured ration, not food in general. Al-Tabari runs a full *ikhtilāf* — *ḥafīẓ* (Ibn ʿAbbas), *shahīd*/*ḥasīb* (Mujahid), *al-wāṣib*, *al-qadīr* (as-Suddi, Ibn Zayd) — then prefers *al-qadīr* on Quraysh usage, backed by a line of old verse about a man who could have retaliated and held back. That line is the bridge to Al-Halim. Poet attribution left unnamed: the editions disagree.
+
+**DROPPED by the scan, with reasons (so they are not re-proposed):**
+- **Al-Hasib** (4×) — genuinely good fact (*kafā bi'llāhi ḥasībā* ×3 vs *kafā bi-nafsika… ḥasībā* once, 17:14). But `/posts/iqra-first-last-word-quran` already quotes 17:14 and already makes "you are the sole examiner" its payoff. Would need a different cut.
+- **Ar-Ra'uf** (11×) — has the same divine/human referent split as Al-Halim; would have duplicated this batch's move. Hold for a later wave.
+- **Al-Ghani** (24×) — clean, searchable, but *al-Ghaniyy al-Karīm* is the named divine name of the **held** Sulayman course design. Left alone pending Azam's call.
+
+**Overlap scan (all 5 steps, article bodies grepped not titles).** Adjacent-not-taken, all cross-linked rather than repeated: 2:247 inside `dawud-jalut-victory-quran` · 5:54 inside both mahabbah articles · 53:32 mentioned in the `an-najm` surah page · 11:87 quoted in `wealthy-arguments-always-theology-quran` · 11:75/9:114 in `hud`, `adh-dhariyat`, `ibrahim-father-dua-prayer`, the Shuʿayb article · 93:9 in the `ad-dhuha` surah page · **57:3 in the `al-hadid` surah page, which already carries the "four names, no other verse achieves this compression" framing plus the Muslim supplication** — the Al-Wadud/Shuʿayb situation exactly, handled the same way (go deeper, link out).
+
+QA: **verify_arabic 18/18 exact (0 warnings), verify_morphology 32/32, tafsir pulled and read for all 35 cited ayahs, 0 fetch failures.** All 27 `divine_names` entities have ≥1 tagged post; 0 empty hubs.
+
+**Two tooling notes worth keeping.**
+1. `scripts/.tmp/inject-ayat.mjs` (new): write `{{AYAH:S:A}}` placeholders in the draft, then inject the exact text from `QuranValidator.getVerse()`. Arabic is never typed by hand — that is why this batch had 0 diacritic warnings on the first pass.
+2. **Do not pipe `grep -v` into a file in this repo.** The RTK hook rewrites `grep`, so `grep -v pat f > tmp && mv tmp f` writes RTK's *match report* over the file. It destroyed one finished article, which had to be rewritten. Use the Edit tool.
+
+**Data fix shipped alongside:** `src/data/divine-names.ts` had Al-Akhir at wordCount **225**, which was two distinct lemmas added together — *ākhir* (155) + *ākhar*, "another" (70). Corrected to 155 with a comment. Worth a spot-check of the other high counts on `/names`.
+
+Divine names now **27 of 99 written**.
+
 ## Session Log — 2026-08-05 (DIVINE NAMES wave 3 — 3 published; Al-Quddus dropped by the scan)
 
 **Published:** `/posts/al-fattah-divine-name-quran` · `/posts/ar-raqib-divine-name-quran` · `/posts/as-sami-al-basir-divine-names-quran`
