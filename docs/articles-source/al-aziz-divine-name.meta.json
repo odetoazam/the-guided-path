@@ -1,0 +1,17 @@
+{
+  "slug": "al-aziz-divine-name-quran",
+  "title": "Al-Aziz: The Divine Name That Is Also an Egyptian Job Title — and Who Ends Up Holding It",
+  "excerpt": "The word occurs 101 times. Four are in Surah Yusuf, where it is an office — and by the end of the surah the title has passed from the man who bought Yusuf to Yusuf himself.",
+  "seo_title": "Al-Aziz: Meaning of the Divine Name in the Quran",
+  "seo_description": "Al-Aziz appears 101 times in the Quran and 47 of those attach al-Hakim, the Wise. In Surah Yusuf it is a human office — and the title changes hands.",
+  "tags": ["al-aziz", "asma-al-husna", "divine-names", "yusuf", "al-maidah", "ibrahim", "name-breakdown"],
+  "entity_tags": [
+    { "slug": "tawhid", "is_primary": true },
+    { "slug": "yusuf" },
+    { "slug": "isa" },
+    { "slug": "hikmah" }
+  ],
+  "quran_refs": ["5:118", "12:30", "12:51", "12:78", "12:88", "14:47"],
+  "reading_time_minutes": 7,
+  "html_path": "docs/articles-source/al-aziz-divine-name.html"
+}

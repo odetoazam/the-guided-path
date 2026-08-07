@@ -64,7 +64,7 @@ This document is read by the hub-article-pipeline skill at the start of every se
 | Qadar | 3 ✅ | Root as measure, qaddara in creation, qadar vs human choice |
 | Ihsan | 2 ✅ | Muhsin, ihsan-iman-islam three layers |
 | Rizq | 2 ✅ | Al-Razzaq, rizq and gratitude/economic theology |
-| Divine Names | 25 ✅ (31 of 99 names) | Al-Razzaq, Rahman/Rahim pair, At-Tawwab, **As-Samad (hapax + Tabari's ikhtilaf)**, **Al-Qayyum (never alone)**, **Al-Wadud (love downstream of pardon)**, **An-Nur (is Allah light?)**, **Al-Ghafur/Al-Ghaffar (fa'ul vs fa''al)** |
+| Divine Names | 27 ✅ (33 of 99 names) | Al-Razzaq, Rahman/Rahim pair, At-Tawwab, **As-Samad (hapax + Tabari's ikhtilaf)**, **Al-Qayyum (never alone)**, **Al-Wadud (love downstream of pardon)**, **An-Nur (is Allah light?)**, **Al-Ghafur/Al-Ghaffar (fa'ul vs fa''al)** |
 | Mahabbah | 4 ✅ | Root (seed), mutual love (yuhibbuhum), what Allah loves, **Al-Wadud — the divine name itself (11:90/85:14)** |
 | Khawf | 2 ✅ | Khawf vs khashya (two theological positions), fear as engine |
 | Sidq | 2 ✅ | Root (solid), al-Siddiq (rank between prophets and martyrs) |
@@ -138,7 +138,11 @@ The site's biggest open SEO gap. `rizq-al-razzaq-divine-name-quran` was already 
 
 **The count audit that produced two of those angles** is logged in `scripts/article-backlog.md` (2026-08-06 entry). Nine `/names` counts were wrong from summing lemmas that share a spelling; **three published articles carried the error** (Ash-Shakur 12→10, the Mu'min-Aal-Firʿawn "six times"→five, and Al-Akhir on the index). `scripts/audit-divine-name-counts.mjs` now verifies all 99 and fails on an undeclared ambiguous spelling.
 
-**Unwritten (~68 remain), best next candidates:** Al-Hayy (needs care — the Qayyum piece owns its two standalone verses) · Ar-Ra'uf (11×, 2 describing the Prophet) · Al-Hasib (needs a cut that avoids 17:14) · Al-Ghani (needs Azam's call vs the Sulayman course) · Al-Mujib (2×, one of them plural-majestic) · Al-Muhaymin and Al-Quddus remain **excluded** — both live at 59:23, which has a live reflection on the whole cascade.
+**Wave 6 (2026-08-06c) — 2 articles:** `/posts/al-hayy-divine-name-quran` (24×, only 5 divine; the Qayyum article owns the pairing, so this takes the other ground — the two standalone uses each precede a command, and 16:21 has al-Jalalayn importing the name into a verse about idols being *dead, not living*) · `/posts/al-aziz-divine-name-quran` (101×; in Surah Yusuf it is an office that passes from the man who bought Yusuf to Yusuf himself, 12:78/12:88; 47 pair with al-Ḥakīm; 5:118 attaches the pair to forgiveness rather than punishment).
+
+**Al-Wahhab HELD** — the *hab* / al-Wahhāb duʿā pairing is a real angle (the verb appears 7×, the name 3×, and twice they land in the same prayer), but `dhul-qarnayn-and-sulayman-two-models-of-quranic-sovereignty` already makes that point about 38:35, and the Sulayman course boundary is Azam's call.
+
+**Unwritten (~66 remain), best next candidates:** Al-Hayy (needs care — the Qayyum piece owns its two standalone verses) · Ar-Ra'uf (11×, 2 describing the Prophet) · Al-Hasib (needs a cut that avoids 17:14) · Al-Ghani (needs Azam's call vs the Sulayman course) · Al-Mujib (2×, one of them plural-majestic) · Al-Muhaymin and Al-Quddus remain **excluded** — both live at 59:23, which has a live reflection on the whole cascade.
 
 ---
 
@@ -273,7 +277,7 @@ musa · dhul-qarnayn · firaun · adam · ismail · lut · isa · harun · yaqub
 ### States of Heart with Zero Articles
 shukr · ikhlas
 
-### Divine Names with Zero Articles (~68 remain — highest-yield SEO gap)
+### Divine Names with Zero Articles (~66 remain — highest-yield SEO gap)
 *Written through wave 4 (2026-08-06): 27 of 99. Next best: Al-Hayy · Ar-Ra'uf · Al-Hasib · Al-Ghani · Al-Mujib · Al-Jabbar · Al-Khabir · Al-Afuw.*
 *Excluded on purpose: Al-Quddus and Al-Muhaymin (both live at 59:23, which already has a live reflection covering the cascade).*
 *Proven format: name-in-H1 + name-in-slug + name-in-meta-description. Al-Razzaq is a top-5 organic driver on that pattern alone.*
