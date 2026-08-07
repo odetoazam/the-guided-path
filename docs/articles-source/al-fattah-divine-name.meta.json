@@ -1,0 +1,33 @@
+{
+  "slug": "al-fattah-divine-name-quran",
+  "title": "Al-Fattah: The Divine Name That Means Judge, Not Opener",
+  "excerpt": "Al-Fattah occurs once in the Quran. It is widely rendered \"the Opener\" — but in the one verse where it appears, al-Jalalayn glosses it with a single word: al-hakim, the Judge.",
+  "seo_title": "Al-Fattah: Meaning of the Divine Name in the Quran",
+  "seo_description": "Al-Fattah appears once in the Quran, at 34:26. Al-Jalalayn glosses it \"the Judge\", not \"the Opener\". What the name means and why the difference matters.",
+  "tags": [
+    "al-fattah",
+    "asma-al-husna",
+    "divine-names",
+    "saba",
+    "qiyamah",
+    "name-breakdown"
+  ],
+  "entity_tags": [
+    {
+      "slug": "tawhid",
+      "is_primary": true
+    },
+    {
+      "slug": "qiyamah"
+    },
+    {
+      "slug": "adl"
+    }
+  ],
+  "quran_refs": [
+    "34:26",
+    "48:1"
+  ],
+  "reading_time_minutes": 5,
+  "html_path": "docs/articles-source/al-fattah-divine-name.html"
+}
