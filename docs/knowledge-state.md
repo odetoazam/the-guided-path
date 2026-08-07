@@ -1,7 +1,7 @@
 # AyahGuide Knowledge State
 
 *Maintained by the hub-article-pipeline skill. Updated at the end of every writing session.*
-*Last updated: 2026-08-04*
+*Last updated: 2026-08-05*
 
 ---
 
@@ -64,7 +64,7 @@ This document is read by the hub-article-pipeline skill at the start of every se
 | Qadar | 3 ✅ | Root as measure, qaddara in creation, qadar vs human choice |
 | Ihsan | 2 ✅ | Muhsin, ihsan-iman-islam three layers |
 | Rizq | 2 ✅ | Al-Razzaq, rizq and gratitude/economic theology |
-| Divine Names | 13 ✅ (15 of 99 names) | Al-Razzaq, Rahman/Rahim pair, At-Tawwab, **As-Samad (hapax + Tabari's ikhtilaf)**, **Al-Qayyum (never alone)**, **Al-Wadud (love downstream of pardon)**, **An-Nur (is Allah light?)**, **Al-Ghafur/Al-Ghaffar (fa'ul vs fa''al)** |
+| Divine Names | 16 ✅ (19 of 99 names) | Al-Razzaq, Rahman/Rahim pair, At-Tawwab, **As-Samad (hapax + Tabari's ikhtilaf)**, **Al-Qayyum (never alone)**, **Al-Wadud (love downstream of pardon)**, **An-Nur (is Allah light?)**, **Al-Ghafur/Al-Ghaffar (fa'ul vs fa''al)** |
 | Mahabbah | 4 ✅ | Root (seed), mutual love (yuhibbuhum), what Allah loves, **Al-Wadud — the divine name itself (11:90/85:14)** |
 | Khawf | 2 ✅ | Khawf vs khashya (two theological positions), fear as engine |
 | Sidq | 2 ✅ | Root (solid), al-Siddiq (rank between prophets and martyrs) |
@@ -113,7 +113,11 @@ The site's biggest open SEO gap. `rizq-al-razzaq-divine-name-quran` was already 
 
 **Index layer SHIPPED 2026-08-04:** `/names` lists all 99 with corpus-verified data and states the list's own ikhtilāf. 15 written.
 
-**Unwritten (~84 remain):** Al-Hayy (needs care — the Qayyum piece owns its two standalone verses) · Al-Halim · Al-Muhaymin · Al-Jabbar · Al-Quddus · Al-Fattah · Al-Basir/As-Sami' as a pair · Al-Muqit · Al-Hasib · Ar-Raqib.
+**Wave 3 (2026-08-05):** Al-Fattah (1×, glossed *al-ḥākim* — Judge not Opener) · Ar-Raqib (Isa hands the watch back, 5:117) · As-Sami/Al-Basir (7 adjacent pairs, 6 divine + 1 human at 76:2). **Al-Quddus dropped** — 59:23 already has a live reflection on the whole cascade; same applies to Al-Muhaymin.
+
+**Next up, scanned + angled:** Al-Halim (forbearance as *taʾkhīr al-ʿuqūbah*) · Al-Wasi (lands where the fear is scarcity).
+
+**Unwritten (~80 remain):** Al-Hayy (needs care — the Qayyum piece owns its two standalone verses) · Al-Halim · Al-Muhaymin · Al-Jabbar · Al-Quddus · Al-Fattah · Al-Basir/As-Sami' as a pair · Al-Muqit · Al-Hasib · Ar-Raqib.
 
 ---
 
