@@ -72,7 +72,7 @@ export const DIVINE_NAMES: DivineName[] = [
   { number: 32, arabic: 'ٱلْحَلِيم', translit: 'Al-Halim', english: 'The Forbearing', root: 'ح-ل-م', wordCount: 15, articleSlug: 'al-halim-divine-name-quran', hubSlug: 'al-halim' },
   { number: 33, arabic: 'ٱلْعَظِيم', translit: 'Al-Azim', english: 'The Magnificent', root: 'ع-ظ-م', wordCount: 107 },
   { number: 34, arabic: 'ٱلْغَفُور', translit: 'Al-Ghafur', english: 'The Forgiving', root: 'غ-ف-ر', wordCount: 91, articleSlug: 'al-ghafur-al-ghaffar-divine-name-quran', hubSlug: 'al-ghafur' },
-  { number: 35, arabic: 'ٱلشَّكُور', translit: 'Ash-Shakur', english: 'The Appreciative', root: 'ش-ك-ر', wordCount: 12, articleSlug: 'ash-shakur-divine-name-quran', hubSlug: 'ash-shakur' },
+  { number: 35, arabic: 'ٱلشَّكُور', translit: 'Ash-Shakur', english: 'The Appreciative', root: 'ش-ك-ر', wordCount: 10, articleSlug: 'ash-shakur-divine-name-quran', hubSlug: 'ash-shakur' },
   { number: 36, arabic: 'ٱلْعَلِيّ', translit: 'Al-Ali', english: 'The Most High', root: 'ع-ل-و', wordCount: 14 },
   { number: 37, arabic: 'ٱلْكَبِير', translit: 'Al-Kabir', english: 'The Most Great', root: 'ك-ب-ر', wordCount: 40 },
   { number: 38, arabic: 'ٱلْحَفِيظ', translit: 'Al-Hafiz', english: 'The Preserver', root: 'ح-ف-ظ', wordCount: 12, articleSlug: 'al-hafiz-divine-name-quran', hubSlug: 'al-hafiz' },

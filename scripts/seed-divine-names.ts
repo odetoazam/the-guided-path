@@ -233,9 +233,9 @@ const NAMES: Seed[] = [
     root_letters: 'ش-ك-ر',
     root_translit: 'shīn-kāf-rā',
     root_meaning: 'To thank; also, of an animal, to yield much from little grazing',
-    occurrence_count: 12,
+    occurrence_count: 10,
     occurrence_note:
-      'Occurs 12 times — 4 naming Allah, the rest describing people. Three of the four divine uses put Al-Ghafur immediately before it; the human uses pair it with ṣabbār.',
+      'The adjective shakūr occurs 10 times — 4 naming Allah, 6 describing people. Three of the four divine uses put Al-Ghafur immediately before it; the human uses pair it with ṣabbār. (The root also gives shukūr, the act of thanks, twice more at 25:62 and 76:9 — a different word, not this name.)',
     primary_for: 'ash-shakur-divine-name-quran',
   },
   {

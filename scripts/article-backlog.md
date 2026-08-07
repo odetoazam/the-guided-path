@@ -26,7 +26,26 @@ QA: **verify_arabic 18/18 exact (0 warnings), verify_morphology 32/32, tafsir pu
 1. `scripts/.tmp/inject-ayat.mjs` (new): write `{{AYAH:S:A}}` placeholders in the draft, then inject the exact text from `QuranValidator.getVerse()`. Arabic is never typed by hand — that is why this batch had 0 diacritic warnings on the first pass.
 2. **Do not pipe `grep -v` into a file in this repo.** The RTK hook rewrites `grep`, so `grep -v pat f > tmp && mv tmp f` writes RTK's *match report* over the file. It destroyed one finished article, which had to be rewritten. Use the Edit tool.
 
-**Data fix shipped alongside:** `src/data/divine-names.ts` had Al-Akhir at wordCount **225**, which was two distinct lemmas added together — *ākhir* (155) + *ākhar*, "another" (70). Corrected to 155 with a comment. Worth a spot-check of the other high counts on `/names`.
+**Data fix shipped alongside:** `src/data/divine-names.ts` had Al-Akhir at wordCount **225**, which was two distinct lemmas added together — *ākhir* (155) + *ākhar*, "another" (70). Corrected to 155 with a comment.
+
+**FOLLOW-UP AUDIT — the merge was not isolated, and one published article was wrong.** Re-derived all 99 counts from the corpus (`scripts/.tmp/audit-counts.mjs`). The registry's figures are **sums over every lemma sharing a spelling**, which for several names silently adds up different words:
+
+| Name | On `/names` | What it actually is |
+|---|---|---|
+| **Ash-Shakur** | 12 | **10** — *shakūr* the adjective. The other 2 are *shukūr*, the act of thanks (25:62, 76:9). **This one was live in a published article.** |
+| Al-Malik | 152 | **15** — *malik*, king. The 152 folds in 88 × *malak* (**angel**) and 48 × *mulk* (dominion). Worst offender, and a high-traffic name. |
+| Al-Hakam | 33 | **3** — and two of the three (4:35) are human arbitrators in a marriage dispute. |
+| Al-Ali | 14 | **11** — the rest are *ʿalā* and *ʿilliyy*. |
+| Al-Barr | 30 | *barr* = 22, but several of those are *al-barr wa'l-baḥr*, land vs sea — needs a sense split, not just a lemma split. |
+| Al-Afuww | 7 | **5** — the other 2 are *ʿafw*, the noun. |
+| Al-Hadi | 7 | the participle is spelled across two lemmas (*hād* 7 + *hādī* 3); several of the 7 are "they have no guide". |
+| Al-Baqi | 1 | **0** as a name — *bāqī* ×2 (26:120, 37:77) both mean "the ones remaining". |
+
+**Ash-Shakur fixed and republished** (article body, H2, excerpt, seed note, registry). Its other claims all survived re-checking: divine 4× (35:30, 35:34, 42:23, 64:17), 3 of them behind Al-Ghafur, *ṣabbār* pairing 4× — only the headline total was wrong, and the article's own list had always described six human uses under a heading that said eight.
+
+**None of the other 26 published names are affected** — Al-Halim 15, Al-Wasi 9, Al-Qahhar 6, Al-Muqit 1, Al-Ghafur 91, Al-Ghaffar 5, Ar-Rahman 57, Ar-Rahim 116, As-Sami 47, Al-Basir 51, Al-Latif 7, Al-Karim 30, Al-Hafiz 12, Al-Wakil 24, Ar-Raqib 5, Al-Fattah 1, Ar-Razzaq 1, As-Samad 1, Al-Qayyum 3, Al-Wadud 2, An-Nur 43, At-Tawwab 12 all re-derive exactly.
+
+**Important distinction for the fix pass:** `/names` already discloses that it counts *the word, not the name* — that caveat legitimately covers Al-Mu'min 202 (mostly human believers) and An-Nur 43 (mostly created light), where it is the **same word with a different referent**. It does **not** cover Al-Malik 152, where 88 hits are a **different word**. Referent-drift is disclosed; lemma-merge is a bug. The remaining rows need a per-name sense decision, so this is a name-by-name pass, not a bulk rewrite — `scripts/.tmp/audit-counts.mjs` has false positives on multi-word names (Malik al-Mulk, Dhul-Jalal) and on names whose lemma is spelled two ways (Al-Hadi).
 
 Divine names now **27 of 99 written**.
 
