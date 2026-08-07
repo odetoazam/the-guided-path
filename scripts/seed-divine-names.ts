@@ -449,6 +449,68 @@ const NAMES: Seed[] = [
       'Occurs once, at 4:85, and the root occurs only twice in the whole Quran — the other is aqwātahā at 41:10, the earth’s apportioned provisions. Al-Tabari records four early readings (ḥafīẓ from Ibn ʿAbbas; shahīd and ḥasīb from Mujahid; one reading as al-wāṣib; al-qadīr from as-Suddi and Ibn Zayd) and prefers al-qadīr on the usage of Quraysh.',
     primary_for: 'al-muqit-divine-name-quran',
   },
+  {
+    slug: 'al-jabbar',
+    name_arabic: 'ٱلْجَبَّار',
+    name_translit: 'Al-Jabbar',
+    name_english: 'The Overwhelming in Will',
+    one_line: 'Ten occurrences — nine of them accusations aimed at human beings, and one divine name.',
+    pronunciation: 'al-jab-BAAR · doubled "b", long "aa"',
+    root_letters: 'ج-ب-ر',
+    root_translit: 'jīm-bā-rā',
+    root_meaning:
+      'To set a broken bone, and so to bring something forcibly to the state one intends; of a person, to grow large in one’s own estimation and handle others accordingly',
+    occurrence_count: 10,
+    occurrence_note:
+      'Occurs 10 times, of which 9 describe human beings and every one is hostile: the feared people of the land (5:22), the chiefs ʿĀd obeyed (11:59), the ruined tyrant (14:15), Hud’s people who strike without mercy (26:130), the accusation against Musa (28:19), the sealed heart (40:35), and three negations — Yahya (19:14), Isa (19:32) and the Prophet himself (50:45), each told they are NOT this. Al-Jalalayn glosses the human uses as mutakabbir, arrogant, and at 26:130 as min ghayri raʾfah, without tenderness. The one divine use is 59:23, glossed jabara khalqahu ʿalā mā arāda — He brings His creation to what He wills.',
+    primary_for: 'al-jabbar-divine-name-quran',
+  },
+  {
+    slug: 'ar-rauf',
+    name_arabic: 'ٱلرَّءُوف',
+    name_translit: 'Ar-Rauf',
+    name_english: 'The Tender',
+    one_line: 'The mercy that flinches at a particular person’s pain — and the quality whose absence defines a tyrant.',
+    pronunciation: 'ar-ra-OOF · long "oo"',
+    root_letters: 'ر-أ-ف',
+    root_translit: 'rā-hamzah-fā',
+    root_meaning: 'Tenderness at its most acute — mercy directed at a specific difficulty rather than mercy in general',
+    occurrence_count: 11,
+    occurrence_note:
+      'Occurs 11 times. Ten name Allah; the eleventh (9:128) names the Prophet ﷺ, in a verse whose first clause says the believers’ hardship weighs on him. Nine of the eleven pair raʾūf with raḥīm; the two exceptions (2:207, 3:30) read raʾūfun bi’l-ʿibād. At 16:47 and 24:20 al-Jalalayn glosses the name as the punishment not being hastened — the same gloss he gives Al-Halim. And at 26:130 he defines a tyrant as one who strikes min ghayri raʾfah, without this quality.',
+    primary_for: 'ar-rauf-divine-name-quran',
+  },
+  {
+    slug: 'al-afuww',
+    name_arabic: 'ٱلْعَفُوّ',
+    name_translit: 'Al-Afuww',
+    name_english: 'The Pardoner',
+    one_line: 'Not a fault covered over — a trace erased.',
+    pronunciation: 'al-a-FUWW · doubled "w"',
+    root_letters: 'ع-ف-و',
+    root_translit: 'ʿayn-fā-wāw',
+    root_meaning:
+      'To efface a trace, as wind effaces a footprint — distinct from ghafara, which covers a thing so it is no longer exposed',
+    occurrence_count: 5,
+    occurrence_note:
+      'Occurs 5 times, all naming Allah. Four pair it with Al-Ghafur (4:43, 4:99, 22:60, 58:2), and their settings are strikingly ordinary — being unfit for prayer, being unable to emigrate, the ẓihār formula, a cycle of retaliation. The fifth, 4:149, pairs it with al-Qadīr instead; al-Muyassar explains the pairing outright — He pardons His servants while having the power over them.',
+    primary_for: 'al-afuww-divine-name-quran',
+  },
+  {
+    slug: 'al-malik',
+    name_arabic: 'ٱلْمَلِك',
+    name_translit: 'Al-Malik',
+    name_english: 'The King',
+    one_line: 'Fifteen occurrences, and ten of them are other people’s kings.',
+    pronunciation: 'al-MA-lik · short vowels',
+    root_letters: 'م-ل-ك',
+    root_translit: 'mīm-lām-kāf',
+    root_meaning: 'To own and to rule — the same three letters also spell malak (angel), mulk (dominion) and mālik (owner)',
+    occurrence_count: 15,
+    occurrence_note:
+      'The word malik occurs 15 times, NOT the 150-plus often quoted — that figure adds in malak (angel, 88×) and mulk (dominion, 48×), which are different words sharing a spelling. Five name Allah: 20:114 and 23:116, which share the phrase fa-taʿāla’llāhu’l-Maliku’l-Ḥaqq word for word; 62:1; 59:23; and 114:2, maliki’n-nās, the Quran’s last mention of kingship, inside a plea for shelter. The other ten are human kings — Talut, the ruler of Egypt (5×), the king in Al-Kahf, and the Queen of Sheba’s remark about what kings do to a town.',
+    primary_for: 'al-malik-divine-name-quran',
+  },
 ]
 
 async function main() {

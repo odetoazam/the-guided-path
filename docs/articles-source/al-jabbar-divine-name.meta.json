@@ -1,0 +1,18 @@
+{
+  "slug": "al-jabbar-divine-name-quran",
+  "title": "Al-Jabbar: The Quran Uses This Word Ten Times. Nine of Them Are an Accusation.",
+  "excerpt": "Al-Jabbar occurs ten times in the Quran. Nine describe human beings and every one of the nine is hostile — two of them are prophets being cleared of it. The tenth is the divine name.",
+  "seo_title": "Al-Jabbar: Meaning of the Divine Name in the Quran",
+  "seo_description": "Al-Jabbar appears 10 times in the Quran; 9 describe tyrants and 1 names Allah. What al-Jalalayn says the divine name means, and why the human uses are all accusations.",
+  "tags": ["al-jabbar", "asma-al-husna", "divine-names", "maryam", "ash-shuara", "qaf", "name-breakdown"],
+  "entity_tags": [
+    { "slug": "tawhid", "is_primary": true },
+    { "slug": "zulm" },
+    { "slug": "yahya" },
+    { "slug": "isa" },
+    { "slug": "ad" }
+  ],
+  "quran_refs": ["5:22", "11:59", "14:15", "19:14", "19:32", "26:130", "28:19", "40:35", "50:45", "59:23"],
+  "reading_time_minutes": 8,
+  "html_path": "docs/articles-source/al-jabbar-divine-name.html"
+}

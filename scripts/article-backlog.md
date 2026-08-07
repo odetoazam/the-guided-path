@@ -1,5 +1,26 @@
 # AyahGuide Article Backlog
 
+## Session Log — 2026-08-06b (DIVINE NAMES wave 5 — 4 more; 27 → 31 written)
+
+Azam went to sleep and asked for as much as the session could carry, starting with the `/names` count audit. That audit is logged in the wave-4 entry below; it fed two of the four angles here directly.
+
+**Published:** `/posts/al-jabbar-divine-name-quran` · `/posts/ar-rauf-divine-name-quran` · `/posts/al-afuww-divine-name-quran` · `/posts/al-malik-divine-name-quran`
+
+**Angles:**
+- **Al-Jabbar** (10×) — the best find of the batch. **Nine of the ten describe human beings and every one is hostile.** ʿĀd's chiefs (11:59), the ruined tyrant (14:15), the feared people of the land (5:22), men who strike without pausing (26:130), the accusation flung at Musa (28:19), the sealed heart (40:35) — and three *negations*: Yahya (19:14), Isa (19:32) and the Prophet himself (50:45) are each told they are NOT this. Both Maryam verses use the identical formula: *barran* to a parent, and not a *jabbār*. Al-Jalalayn glosses the human uses *mutakabbir*; the divine one (59:23) *jabara khalqahu ʿalā mā arāda*. Article lives entirely in the nine, so the live 59:22-24 reflection keeps its ground.
+- **Ar-Ra'uf** (11×) — 10 name Allah, **1 names the Prophet** (9:128), in a verse whose first clause is that the believers' hardship *weighs on him*. Nine of eleven pair with *raḥīm*; the two exceptions read *raʾūfun bi'l-ʿibād*. At 16:47 and 24:20 al-Jalalayn glosses it exactly as he glosses Al-Halim — the punishment not hastened.
+- **The bridge between those two** is the sharpest thing in the batch and it is al-Jalalayn's, not mine: at 26:130 he defines *jabbārīn* as **مِن غَيْر رَأْفَة**, *without raʾfah*. The tyrant is defined by the absence of the other name. Each article carries the pairing from its own side.
+- **Al-Afuww** (5×, all divine) — 4 pair with Al-Ghafur and their settings are pointedly ordinary (unfit for prayer 4:43, unable to emigrate 4:99, the ẓihār formula 58:2, a retaliation cycle 22:60). The fifth, **4:149, pairs pardon with *qadīr***, and al-Muyassar states the reason outright: *pardoning His servants **while having the power over them***. Root distinction kept: *ʿafw* effaces a trace, *ghafara* covers it.
+- **Al-Malik** (15×) — straight out of the audit. **Ten of the fifteen are human kings**; five name Allah, two of which (20:114, 23:116) share *fa-taʿāla'llāhu'l-Maliku'l-Ḥaqq* word for word, and the last is 114:2, the Quran's final mention of kingship, sitting inside a plea for shelter. The article also explains the 152 error in public, which is the honest way to ship a corrected number.
+
+**Overlap scan run in full.** Adjacent, cross-linked not repeated: `qaf` quotes 50:45 · `hud-and-ad` quotes 26:130 · `yahya-the-boy-given-judgment-as-a-child` quotes 19:14 · `luqman` mentions "not al-Jabbār" in passing · `al-hashr` lists the 59:23 cascade · `an-nas` covers 114:2 and 114:1-6 has a live reflection · `al-qadr` already carries the *ʿafuww* Laylat al-Qadr duʿā (linked to, not restated) · 2:246-252 and 18:79-82 reflections own Talut and the Kahf king. **Ar-Ra'uf scanned completely clear — zero hits anywhere.**
+
+**A THIRD published article was carrying the lemma-merge error.** `believer-pharaoh-family-yusuf-ghafir` said Surah Yusuf calls the ruler *al-malik* "six times". It is **five** (12:43, 12:50, 12:54, 12:72, 12:76). The sixth was almost certainly 12:31 — *malakun karīm*, ANGEL, the women's remark about Yusuf. The load-bearing claim (Firʿawn appears zero times in Surah Yusuf) is untouched, and since that article invites the reader to check the number, it now cites the five references. Patched directly in the DB — it predates the meta.json publisher and has no meta file.
+
+QA: **verify_arabic 13/13 exact (0 warnings), verify_morphology 25/25, tafsir pulled for all 35 cited ayahs.** Two Jalalayn fetch failures were reported by the tool (4:99, 114:2) and **treated as unknown, not as silence** — neither is cited from al-Jalalayn. 31 `divine_names` entities, 0 empty hubs.
+
+Divine names now **31 of 99 written**.
+
 ## Session Log — 2026-08-06 (DIVINE NAMES wave 4 — 5 articles, 8 names; 19 → 27 written)
 
 **Published:** `/posts/al-halim-divine-name-quran` · `/posts/al-wasi-divine-name-quran` · `/posts/al-qahhar-divine-name-quran` · `/posts/al-awwal-al-akhir-az-zahir-al-batin-quran` · `/posts/al-muqit-divine-name-quran`

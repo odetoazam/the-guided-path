@@ -1,0 +1,16 @@
+{
+  "slug": "ar-rauf-divine-name-quran",
+  "title": "Ar-Ra'uf: The Divine Name Given to a Human Being Exactly Once",
+  "excerpt": "Ar-Ra'uf occurs eleven times. Ten name God; the eleventh names the Prophet, in a verse whose first clause is about your difficulty being heavy on him. And al-Jalalayn defines a tyrant as one who strikes without ra'fah.",
+  "seo_title": "Ar-Ra'uf: Meaning of the Divine Name in the Quran",
+  "seo_description": "Ar-Ra'uf appears 11 times in the Quran, 10 of God and once of the Prophet (9:128). What ra'fah means, and why al-Jalalayn defines a tyrant by its absence.",
+  "tags": ["ar-rauf", "asma-al-husna", "divine-names", "rahmah", "at-tawbah", "an-nur", "name-breakdown"],
+  "entity_tags": [
+    { "slug": "rahmah", "is_primary": true },
+    { "slug": "tawhid" },
+    { "slug": "ihsan" }
+  ],
+  "quran_refs": ["2:143", "2:207", "3:30", "9:117", "9:128", "16:7", "16:47", "22:65", "24:20", "26:130", "57:9", "59:10"],
+  "reading_time_minutes": 7,
+  "html_path": "docs/articles-source/ar-rauf-divine-name.html"
+}
