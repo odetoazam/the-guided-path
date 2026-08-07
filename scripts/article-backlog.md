@@ -1,5 +1,26 @@
 # AyahGuide Article Backlog
 
+## Session Log — 2026-08-05 (DIVINE NAMES wave 3 — 3 published; Al-Quddus dropped by the scan)
+
+**Published:** `/posts/al-fattah-divine-name-quran` · `/posts/ar-raqib-divine-name-quran` · `/posts/as-sami-al-basir-divine-names-quran`
+
+**The scan did its job — Al-Quddus was DROPPED.** It occurs only twice (59:23, 62:1), and 59:23 already has a live reflection ("Twelve Names and Nothing Left to Look For — The Closing Cascade of Al-Hashr") covering that entire cascade. Not enough independent ground. Same reasoning would apply to **Al-Muhaymin** (2×, and one of them is also 59:23).
+
+**Angles:**
+- **Al-Fattah** (1×, 34:26) — corrects a popular misreading. Widely rendered "the Opener"; al-Jalalayn glosses it **al-ḥākim, the Judge**, al-Muyassar "the One who judges between His creation". The verse makes the case itself: *yaftaḥu **bayna*** one clause earlier — opening *between* gathered parties is settling a dispute, not unlocking a door.
+- **Ar-Raqib** (5×) — 5:117, Isa marking the boundary of his own accountability (*mā dumtu fīhim*), then handing the watch over. 50:18 gives the same noun to the recording angel.
+- **As-Sami / Al-Basir** — adjacent 7×. Al-Mujadila opens *qad samiʿa'llāh*, perfect tense: He **has** heard, before any ruling, in a surah named after the woman who argued.
+
+**ERROR CAUGHT PRE-PUBLISH — worth remembering.** The draft listed 76:2 among the divine pairings. It is not: *fa-jaʿalnāhu samīʿan baṣīrā* describes **the human** ("We made *him* hearing and seeing"). Six of the seven adjacent pairs name God; the seventh grants the same pair to the creature for a test. The corrected version is the better point and now has its own section. **Lesson: for any "the pair appears N times" claim, check the referent of each, not just the adjacency.**
+
+QA: verify_arabic 8/8 exact (0 warnings), verify_morphology 15/15, tafsir pulled for every cited ayah, 0 fetch failures. `al-basir` tagged secondary so no hub is born empty — 19 `divine_names` entities, 0 empty.
+
+**Scanned, angled, NOT yet written** (carry forward):
+- **Al-Halim** (15×) — Jalalayn 2:263: *ḥalīm* = **bi-taʾkhīr al-ʿuqūbah**, by delaying the punishment, from the one who taunts after giving charity. Forbearance as deferral of deserved consequence. Clear at article level.
+- **Al-Wasi** (9×) — the name lands where the fear is scarcity: 2:247 (Talut has no wealth), 2:261, 2:268 (Shaytan promises poverty), 4:130, 5:54, 24:32 (marry the poor — *if they are poor, Allah will enrich them*). 6 of 9 answer a "there won't be enough" worry. Note 2:115 / 2:261 / 2:268 have live reflections — take the scarcity cut and cross-link.
+
+Divine names now **19 of 99 written**.
+
 ## Session Log — 2026-08-04 (DIVINE NAMES wave 2 — 5 more PUBLISHED + /names index shipped)
 
 **`/names` index shipped** (`src/app/(public)/names/page.tsx`, registry `src/data/divine-names.ts`). All 99 with Arabic, root, and a corpus-derived word count. Three things make it defensible where other 99-names pages are not: (1) counts are POS-filtered — matching Al-Ali's lemma without a filter returns **1,458 hits because 1,444 are the preposition *ʿalā***; (2) the page states the count is of the *word*, not the name (Al-Muʾmin 202× is mostly human believers; An-Nur 43× names Allah once); (3) **17 of the 99 never appear in that form at all** and are marked. The list's own ikhtilāf is stated up front — the 99-names hadith is sahih, the itemised Tirmidhi list is not, and Ibn Taymiyyah / Ibn Hajar treated it as a transmitter's work.
