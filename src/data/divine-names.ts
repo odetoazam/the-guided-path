@@ -19,10 +19,6 @@
  *      Seventeen names are in this position. Many are derived from Quranic verbs —
  *      yuhyi wa yumit gives Al-Muhyi and Al-Mumit — rather than quoted from it.
  *
- * Verbs and prepositions are excluded from the count deliberately: matching Al-Ali's
- * lemma without a part-of-speech filter returns 1,458 hits, because 1,444 of them are
- * the preposition 'ala.
- *
  *   3. A name's SPELLING is not a lemma. Nine counts here were wrong because they had
  *      been produced by summing every lemma that shared the name's spelling, which
  *      quietly added up different words — Al-Malik read 152 with 88 of them *malak*,
@@ -34,6 +30,10 @@
  *      So any name whose spelling is shared by more than one lemma must declare the
  *      exact lemma(s) in `lemmas`. Run `node scripts/audit-divine-name-counts.mjs`
  *      after touching anything here; it fails on an undeclared ambiguous spelling.
+ *
+ * Verbs and prepositions are excluded from the count deliberately: matching Al-Ali's
+ * lemma without a part-of-speech filter returns 1,458 hits, because 1,444 of them are
+ * the preposition 'ala.
  */
 
 export interface DivineName {
@@ -62,13 +62,13 @@ export interface DivineName {
 export const DIVINE_NAMES: DivineName[] = [
   { number: 1, arabic: 'ٱلرَّحْمَٰن', translit: 'Ar-Rahman', english: 'The Most Merciful', root: 'ر-ح-م', wordCount: 57, articleSlug: 'rahman-rahim-two-names-quran', hubSlug: 'ar-rahman' },
   { number: 2, arabic: 'ٱلرَّحِيم', translit: 'Ar-Rahim', english: 'The Ever-Merciful', root: 'ر-ح-م', wordCount: 116, articleSlug: 'rahman-rahim-two-names-quran', hubSlug: 'ar-rahim' },
-  { number: 3, arabic: 'ٱلْمَلِك', translit: 'Al-Malik', english: 'The Sovereign', root: 'م-ل-ك', wordCount: 15, lemmas: ['مَلِك'], countNote: 'Was 152, which had swept in 88 × malak (angel), 48 × mulk (dominion) and 1 × malk. Of the 15, five name Allah (20:114, 23:116, 59:23, 62:1, 114:2); the rest are human kings — Talut, the king of Egypt, the king in the Kahf account.' },
+  { number: 3, arabic: 'ٱلْمَلِك', translit: 'Al-Malik', english: 'The Sovereign', root: 'م-ل-ك', wordCount: 15, lemmas: ['مَلِك'], countNote: 'Was 152, which had swept in 88 × malak (angel), 48 × mulk (dominion) and 1 × malk. Of the 15, five name Allah (20:114, 23:116, 59:23, 62:1, 114:2); the rest are human kings — Talut, the king of Egypt, the king in the Kahf account.', articleSlug: 'al-malik-divine-name-quran', hubSlug: 'al-malik' },
   { number: 4, arabic: 'ٱلْقُدُّوس', translit: 'Al-Quddus', english: 'The Most Holy', root: 'ق-د-س', wordCount: 2 },
   { number: 5, arabic: 'ٱلسَّلَام', translit: 'As-Salam', english: 'The Source of Peace', root: 'س-ل-م', wordCount: 42 },
   { number: 6, arabic: 'ٱلْمُؤْمِن', translit: 'Al-Mu’min', english: 'The Granter of Security', root: 'أ-م-ن', wordCount: 202 },
   { number: 7, arabic: 'ٱلْمُهَيْمِن', translit: 'Al-Muhaymin', english: 'The Guardian', root: 'ه-م-ن', wordCount: 2 },
   { number: 8, arabic: 'ٱلْعَزِيز', translit: 'Al-Aziz', english: 'The Almighty', root: 'ع-ز-ز', wordCount: 101 },
-  { number: 9, arabic: 'ٱلْجَبَّار', translit: 'Al-Jabbar', english: 'The Compeller', root: 'ج-ب-ر', wordCount: 10 },
+  { number: 9, arabic: 'ٱلْجَبَّار', translit: 'Al-Jabbar', english: 'The Compeller', root: 'ج-ب-ر', wordCount: 10, articleSlug: 'al-jabbar-divine-name-quran', hubSlug: 'al-jabbar' },
   { number: 10, arabic: 'ٱلْمُتَكَبِّر', translit: 'Al-Mutakabbir', english: 'The Supreme', root: 'ك-ب-ر', wordCount: 7 },
   { number: 11, arabic: 'ٱلْخَالِق', translit: 'Al-Khaliq', english: 'The Creator', root: 'خ-ل-ق', wordCount: 12 },
   { number: 12, arabic: 'ٱلْبَارِئ', translit: 'Al-Bari', english: 'The Originator', root: 'ب-ر-أ', wordCount: 3 },
@@ -141,8 +141,8 @@ export const DIVINE_NAMES: DivineName[] = [
   { number: 79, arabic: 'ٱلْبَرّ', translit: 'Al-Barr', english: 'The Source of Goodness', root: 'ب-ر-ر', wordCount: 22, lemmas: ['بَرّ'], countNote: 'Was 30, which had added 8 × birr (righteousness, the abstract noun). Of the 22, one names Allah (52:28); many are the plural abrar, the righteous; and several are the OTHER sense of the same lemma — al-barr wa l-bahr, land as against sea (6:59, 6:63, 6:97, 10:22, 17:67). A sense split, not a lemma split.' },
   { number: 80, arabic: 'ٱلتَّوَّاب', translit: 'At-Tawwab', english: 'The Ever-Returning', root: 'ت-و-ب', wordCount: 12, articleSlug: 'al-tawwab-the-name-that-makes-returning-mutual', hubSlug: 'at-tawwab' },
   { number: 81, arabic: 'ٱلْمُنْتَقِم', translit: 'Al-Muntaqim', english: 'The Avenger', root: 'ن-ق-م', wordCount: 3 },
-  { number: 82, arabic: 'ٱلْعَفُوّ', translit: 'Al-Afuww', english: 'The Pardoner', root: 'ع-ف-و', wordCount: 5, lemmas: ['عَفُوّ'], countNote: 'Was 7, which had added 2 × ʿafw, the noun (2:219, 7:199). All 5 name Allah — 4:43, 4:99, 4:149, 22:60, 58:2.' },
-  { number: 83, arabic: 'ٱلرَّءُوف', translit: 'Ar-Rauf', english: 'The Most Kind', root: 'ر-أ-ف', wordCount: 11 },
+  { number: 82, arabic: 'ٱلْعَفُوّ', translit: 'Al-Afuww', english: 'The Pardoner', root: 'ع-ف-و', wordCount: 5, lemmas: ['عَفُوّ'], countNote: 'Was 7, which had added 2 × ʿafw, the noun (2:219, 7:199). All 5 name Allah — 4:43, 4:99, 4:149, 22:60, 58:2.', articleSlug: 'al-afuww-divine-name-quran', hubSlug: 'al-afuww' },
+  { number: 83, arabic: 'ٱلرَّءُوف', translit: 'Ar-Rauf', english: 'The Most Kind', root: 'ر-أ-ف', wordCount: 11, articleSlug: 'ar-rauf-divine-name-quran', hubSlug: 'ar-rauf' },
   { number: 84, arabic: 'مَالِكُ ٱلْمُلْك', translit: 'Malik al-Mulk', english: 'Owner of All Sovereignty', root: 'م-ل-ك', wordCount: 1, lemmas: [], countNote: 'A phrase, not a single word, so it is counted as a phrase: malika l-mulk occurs once, at 3:26. The earlier figure of 4 counted the word malik on its own (1:4, 3:26, 36:71, 43:77).' },
   { number: 85, arabic: 'ذُو ٱلْجَلَالِ وَٱلْإِكْرَام', translit: 'Dhul-Jalali wal-Ikram', english: 'Lord of Majesty and Honour', root: 'ج-ل-ل', wordCount: 2, lemmas: [], countNote: 'A phrase, counted as a phrase: it occurs twice, both in Ar-Rahman (55:27, 55:78), which are also the only two occurrences of jalal in the Quran.' },
   { number: 86, arabic: 'ٱلْمُقْسِط', translit: 'Al-Muqsit', english: 'The Equitable', root: 'ق-س-ط', wordCount: 3 },
