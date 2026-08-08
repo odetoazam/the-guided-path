@@ -1,0 +1,589 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;0,700&family=Playfair+Display:wght@700;900&family=Inter:wght@300;400;600;700;800&display=swap" rel="stylesheet" />
+  <script src="https://cdn.jsdelivr.net/npm/gsap@3.14.2/dist/gsap.min.js"></script>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      width: 1080px;
+      height: 1920px;
+      overflow: hidden;
+      background: #0a1018;
+      font-family: 'Inter', sans-serif;
+    }
+
+    /* ─── PALETTE ──────────────────────────────────────
+       BG:       #0a1018   deep black-navy
+       GOLD:     #c9a84c   primary accent
+       BLESSED:  #c9a84c   gold — Allah is the named actor
+       WRATH:    #8a3a28   dark terracotta — passive, hidden
+       ASTRAY:   #4a6a8a   cool blue-grey — they walked off
+       OFF-W:    #e8dcc8   warm off-white
+       MUTED:    #6a7a8a   secondary grey
+    ─────────────────────────────────────────────────── */
+
+    #root {
+      position: relative;
+      width: 1080px;
+      height: 1920px;
+      overflow: hidden;
+      background: #0a1018;
+    }
+
+    .scene {
+      position: absolute;
+      top: 0; left: 0;
+      width: 1080px;
+      height: 1920px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      opacity: 0;
+    }
+
+    /* ─── GRAIN OVERLAY ─────────────────────────────── */
+    #grain-overlay {
+      position: absolute; top: 0; left: 0;
+      width: 100%; height: 100%;
+      pointer-events: none; z-index: 200;
+    }
+    .grain-texture {
+      position: absolute; top: -50%; left: -50%;
+      width: 200%; height: 200%;
+      background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 512 512' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.75' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='1'/%3E%3C/svg%3E");
+      background-size: 200px 200px; opacity: 0.05;
+      animation: hf-grain-noise 0.5s steps(2) infinite;
+    }
+    @keyframes hf-grain-noise {
+      0%,100% { transform: translate(0,0); }
+      10% { transform: translate(-5%,-5%); }
+      20% { transform: translate(-10%,5%); }
+      30% { transform: translate(5%,-10%); }
+      40% { transform: translate(-5%,15%); }
+      50% { transform: translate(-10%,5%); }
+      60% { transform: translate(15%,0); }
+      70% { transform: translate(0,10%); }
+      80% { transform: translate(-15%,0); }
+      90% { transform: translate(10%,5%); }
+    }
+
+    /* ─── VIGNETTE ───────────────────────────────────── */
+    #hf-vignette {
+      position: absolute; top: 0; left: 0;
+      width: 100%; height: 100%;
+      pointer-events: none; z-index: 190;
+      background: radial-gradient(ellipse at center, transparent 36%, rgba(0,0,0,0.76) 100%);
+    }
+
+    /* ─── BORDER FRAME ───────────────────────────────── */
+    .border-frame {
+      position: absolute; top: 0; left: 0;
+      width: 1080px; height: 1920px;
+      pointer-events: none; z-index: 150;
+    }
+    .border-frame::before, .border-frame::after {
+      content: ''; position: absolute;
+      border: 1px solid rgba(201,168,76,0.17);
+    }
+    .border-frame::before { top:36px; left:36px; right:36px; bottom:36px; }
+    .border-frame::after  { top:44px; left:44px; right:44px; bottom:44px; border-color:rgba(201,168,76,0.07); }
+
+    /* ─── TEXTURE ────────────────────────────────────── */
+    .hf-texture-text {
+      -webkit-mask-size: cover; mask-size: cover;
+      -webkit-mask-repeat: repeat; mask-repeat: repeat;
+    }
+    .hf-texture-travertine {
+      -webkit-mask-image: url("/assets/texture-mask-text/masks/travertine-009.png");
+      mask-image: url("/assets/texture-mask-text/masks/travertine-009.png");
+    }
+
+    /* ─── SHARED ─────────────────────────────────────── */
+    .brand {
+      position: absolute; bottom: 68px; left: 0; right: 0;
+      text-align: center;
+      font-family: 'Playfair Display', serif;
+      font-size: 30px; font-weight: 700;
+      letter-spacing: 0.18em; text-transform: uppercase;
+      color: rgba(201,168,76,0.48);
+    }
+    .gold-line {
+      width: 120px; height: 1px;
+      background: linear-gradient(90deg, transparent, #c9a84c, transparent);
+      margin: 0 auto;
+    }
+    .gold-line-short {
+      width: 56px; height: 1px;
+      background: linear-gradient(90deg, transparent, rgba(201,168,76,0.4), transparent);
+      margin: 0 auto;
+    }
+    .tag-pill {
+      display: inline-block;
+      padding: 8px 24px;
+      border-radius: 40px;
+      font-size: 26px; font-weight: 700;
+      letter-spacing: 0.1em; text-transform: uppercase;
+    }
+
+    /* ═══════════════════════════════════════════════════
+       SCENE 0 — COVER
+       ═══════════════════════════════════════════════════ */
+    #scene-cover { opacity: 1; }
+    .cover-label {
+      font-size: 28px; font-weight: 600;
+      letter-spacing: 0.28em; text-transform: uppercase;
+      color: rgba(201,168,76,0.55); margin-bottom: 44px;
+    }
+    .cover-arabic {
+      font-family: 'Amiri', serif;
+      font-size: 76px; font-weight: 400;
+      line-height: 1.6; text-align: center;
+      direction: rtl; color: #c9a84c;
+      max-width: 900px; padding: 0 44px;
+    }
+    .cover-hook {
+      font-family: 'Playfair Display', serif;
+      font-size: 46px; font-weight: 700;
+      color: #e8dcc8; text-align: center;
+      margin-top: 44px; line-height: 1.45;
+      max-width: 820px; padding: 0 44px;
+    }
+    .cover-sub {
+      font-size: 34px; color: rgba(232,220,200,0.55);
+      text-align: center; margin-top: 24px;
+      line-height: 1.6;
+    }
+
+    /* ═══════════════════════════════════════════════════
+       SCENE 1 — SETUP: YOU SAY THIS 17x A DAY
+       ═══════════════════════════════════════════════════ */
+    .setup-number {
+      font-family: 'Playfair Display', serif;
+      font-size: 200px; font-weight: 900;
+      color: rgba(201,168,76,0.12); line-height: 1;
+      margin-bottom: -40px;
+    }
+    .setup-headline {
+      font-family: 'Playfair Display', serif;
+      font-size: 58px; font-weight: 700;
+      color: #e8dcc8; text-align: center;
+      line-height: 1.35; max-width: 840px;
+      padding: 0 44px;
+    }
+    .setup-headline span { color: #c9a84c; }
+    .setup-arabic {
+      font-family: 'Amiri', serif;
+      font-size: 64px; font-weight: 400;
+      color: rgba(201,168,76,0.65);
+      direction: rtl; text-align: center;
+      line-height: 1.6; margin-top: 36px;
+      max-width: 900px; padding: 0 44px;
+    }
+    .setup-sub {
+      font-size: 34px; color: rgba(232,220,200,0.5);
+      text-align: center; margin-top: 28px;
+      line-height: 1.6;
+    }
+
+    /* ═══════════════════════════════════════════════════
+       SCENE 2 — GROUP 1: BLESSED (ACTIVE VOICE)
+       ═══════════════════════════════════════════════════ */
+    .group-tag {
+      font-size: 26px; font-weight: 700;
+      letter-spacing: 0.22em; text-transform: uppercase;
+      margin-bottom: 36px;
+    }
+    .group-arabic {
+      font-family: 'Amiri', serif;
+      font-size: 96px; font-weight: 700;
+      direction: rtl; text-align: center;
+      line-height: 1.2; max-width: 900px;
+      padding: 0 44px;
+    }
+    .voice-label {
+      font-family: 'Playfair Display', serif;
+      font-size: 48px; font-weight: 700;
+      text-align: center; margin-top: 36px;
+      line-height: 1.35;
+    }
+    .voice-analysis {
+      font-size: 34px; text-align: center;
+      margin-top: 20px; line-height: 1.6;
+      max-width: 860px; padding: 0 44px;
+    }
+    .voice-conclusion {
+      font-family: 'Playfair Display', serif;
+      font-size: 42px; font-weight: 700;
+      text-align: center; margin-top: 36px;
+      line-height: 1.4; max-width: 820px;
+      padding: 0 44px;
+    }
+
+    /* colors per group */
+    .blessed-color  { color: #c9a84c; }
+    .wrath-color    { color: #c06040; }
+    .astray-color   { color: #6a9aba; }
+
+    /* ═══════════════════════════════════════════════════
+       SCENE 5 — SYNTHESIS: THREE VOICE TABLE
+       ═══════════════════════════════════════════════════ */
+    .synth-title {
+      font-size: 28px; font-weight: 600;
+      letter-spacing: 0.26em; text-transform: uppercase;
+      color: rgba(201,168,76,0.48); margin-bottom: 52px;
+    }
+    .synth-table {
+      display: flex; flex-direction: column;
+      gap: 0; width: 940px;
+    }
+    .synth-row {
+      display: flex; align-items: stretch;
+      border-bottom: 1px solid rgba(201,168,76,0.12);
+      padding: 32px 0;
+    }
+    .synth-row:first-child { border-top: 1px solid rgba(201,168,76,0.12); }
+    .synth-cell-left {
+      width: 280px; flex-shrink: 0;
+      display: flex; flex-direction: column;
+      justify-content: center; padding-left: 12px;
+    }
+    .synth-cell-mid {
+      flex: 1;
+      display: flex; flex-direction: column;
+      justify-content: center; padding: 0 24px;
+    }
+    .synth-cell-right {
+      width: 200px; flex-shrink: 0;
+      display: flex; align-items: center;
+      justify-content: center;
+    }
+    .synth-group-name {
+      font-size: 30px; font-weight: 700;
+      letter-spacing: 0.05em;
+    }
+    .synth-arabic {
+      font-family: 'Amiri', serif;
+      font-size: 54px; font-weight: 700;
+      direction: rtl; line-height: 1.2;
+      margin-bottom: 8px;
+    }
+    .synth-voice {
+      font-size: 26px; font-weight: 600;
+      letter-spacing: 0.08em; text-transform: uppercase;
+    }
+    .synth-meaning {
+      font-size: 28px; color: rgba(232,220,200,0.55);
+      margin-top: 4px; line-height: 1.4;
+    }
+    .synth-dot {
+      width: 18px; height: 18px; border-radius: 50%;
+    }
+    .synth-close {
+      font-family: 'Playfair Display', serif;
+      font-size: 42px; font-weight: 700;
+      color: #e8dcc8; text-align: center;
+      margin-top: 52px; line-height: 1.45;
+      max-width: 860px; padding: 0 44px;
+    }
+    .synth-close span { color: #c9a84c; }
+
+    /* ═══════════════════════════════════════════════════
+       SCENE 6 — CLOSE
+       ═══════════════════════════════════════════════════ */
+    .close-arabic {
+      font-family: 'Amiri', serif;
+      font-size: 60px; font-weight: 400;
+      color: rgba(201,168,76,0.68);
+      direction: rtl; text-align: center;
+      line-height: 1.65; max-width: 900px; padding: 0 44px;
+    }
+    .close-ref {
+      font-size: 30px; color: rgba(201,168,76,0.42);
+      margin-top: 28px; letter-spacing: 0.18em;
+    }
+  </style>
+</head>
+
+<body data-composition-id="main" data-width="1080" data-height="1920" data-start="0">
+<div id="root">
+
+  <!-- ─── PERSISTENT OVERLAYS ───────────────────────── -->
+  <div id="grain-overlay"><div class="grain-texture"></div></div>
+  <div id="hf-vignette"></div>
+  <div class="border-frame"></div>
+
+  <!-- ═══════════════════════════════════════════════════
+       SCENE 0 — COVER (0–1.5s)
+       ═══════════════════════════════════════════════════ -->
+  <div class="scene" id="scene-cover">
+    <div class="cover-label">Al-Fatiha · 1:7</div>
+    <div class="cover-arabic">
+      صِرَاطَ ٱلَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ ٱلْمَغْضُوبِ عَلَيْهِمْ وَلَا ٱلضَّآلِّينَ
+    </div>
+    <div style="margin-top:36px"><div class="gold-line"></div></div>
+    <div class="cover-hook">One verse. Three grammar lessons.<br/>One revelation.</div>
+    <div class="cover-sub">You say this 17 times a day.</div>
+    <div class="brand">AyahGuide</div>
+  </div>
+
+  <!-- ═══════════════════════════════════════════════════
+       SCENE 1 — SETUP (1.5–8s)
+       ═══════════════════════════════════════════════════ -->
+  <div class="scene" id="scene-setup">
+    <div class="setup-number" id="s-17">17×</div>
+    <div class="setup-headline" id="s-headline">
+      Every rak'ah. Every prayer.<br/>
+      But do you hear the <span>grammar</span>?
+    </div>
+    <div class="setup-arabic" id="s-arabic">
+      صِرَاطَ ٱلَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ ٱلْمَغْضُوبِ عَلَيْهِمْ وَلَا ٱلضَّآلِّينَ
+    </div>
+    <div class="setup-sub" id="s-sub">
+      Three groups. Three grammatical voices.<br/>Each one revealing something about divine character.
+    </div>
+    <div class="brand">AyahGuide</div>
+  </div>
+
+  <!-- ═══════════════════════════════════════════════════
+       SCENE 2 — GROUP 1: BLESSED (8–17s)
+       Active voice — Allah is the named actor
+       ═══════════════════════════════════════════════════ -->
+  <div class="scene" id="scene-blessed">
+    <div class="group-tag blessed-color" id="b-tag">Group One</div>
+    <div class="group-arabic blessed-color" id="b-arabic">أَنْعَمْتَ عَلَيْهِمْ</div>
+    <div style="margin:28px 0"><div class="gold-line-short"></div></div>
+    <div class="voice-label blessed-color" id="b-voice">Active voice.</div>
+    <div class="voice-analysis" id="b-analysis" style="color:rgba(232,220,200,0.6)">
+      أَنْعَمْتَ — Form IV perfect, 2nd person singular.<br/>
+      <em>"YOU blessed them."</em> Allah is the named subject.
+    </div>
+    <div class="voice-conclusion blessed-color" id="b-conclusion">
+      He takes direct credit<br/>for the good He gives.
+    </div>
+    <div class="brand">AyahGuide</div>
+  </div>
+
+  <!-- ═══════════════════════════════════════════════════
+       SCENE 3 — GROUP 2: WRATH (17–26s)
+       Passive voice — actor deliberately unnamed
+       ═══════════════════════════════════════════════════ -->
+  <div class="scene" id="scene-wrath">
+    <div class="group-tag wrath-color" id="w-tag">Group Two</div>
+    <div class="group-arabic wrath-color" id="w-arabic">ٱلْمَغْضُوبِ عَلَيْهِمْ</div>
+    <div style="margin:28px 0"><div class="gold-line-short"></div></div>
+    <div class="voice-label wrath-color" id="w-voice">Passive voice.</div>
+    <div class="voice-analysis" id="w-analysis" style="color:rgba(232,220,200,0.6)">
+      مَغْضُوب — passive participle (مَفْعُول pattern).<br/>
+      <em>"Wrath was enacted upon them."</em> No actor named.
+    </div>
+    <div class="voice-conclusion wrath-color" id="w-conclusion">
+      He does not name Himself<br/>as the source of punishment.<br/>
+      <span style="font-size:36px;color:rgba(232,220,200,0.55);font-family:'Inter',sans-serif;font-weight:400;">That is divine <em>adab</em>.</span>
+    </div>
+    <div class="brand">AyahGuide</div>
+  </div>
+
+  <!-- ═══════════════════════════════════════════════════
+       SCENE 4 — GROUP 3: ASTRAY (26–35s)
+       Active participle — they are the actors
+       ═══════════════════════════════════════════════════ -->
+  <div class="scene" id="scene-astray">
+    <div class="group-tag astray-color" id="a-tag">Group Three</div>
+    <div class="group-arabic astray-color" id="a-arabic">ٱلضَّآلِّينَ</div>
+    <div style="margin:28px 0"><div class="gold-line-short"></div></div>
+    <div class="voice-label astray-color" id="a-voice">Active participle.</div>
+    <div class="voice-analysis" id="a-analysis" style="color:rgba(232,220,200,0.6)">
+      ضَالِّينَ — فَاعِل pattern, active.<br/>
+      <em>"Those who went astray."</em> They are the actors.
+    </div>
+    <div class="voice-conclusion astray-color" id="a-conclusion">
+      Not led astray.<br/>Not pushed. <em>They walked off.</em><br/>
+      <span style="font-size:36px;color:rgba(232,220,200,0.55);font-family:'Inter',sans-serif;font-weight:400;">Going astray is attributed to the people themselves.</span>
+    </div>
+    <div class="brand">AyahGuide</div>
+  </div>
+
+  <!-- ═══════════════════════════════════════════════════
+       SCENE 5 — SYNTHESIS TABLE (35–44s)
+       The shareable frame — all three stacked
+       ═══════════════════════════════════════════════════ -->
+  <div class="scene" id="scene-synth">
+    <div class="synth-title" id="sy-title">What the Grammar Reveals</div>
+    <div class="synth-table" id="sy-table">
+
+      <div class="synth-row" id="sy-row-1">
+        <div class="synth-cell-left">
+          <div class="synth-group-name blessed-color">Blessed</div>
+          <div class="synth-voice" style="color:rgba(201,168,76,0.5);margin-top:6px">active</div>
+        </div>
+        <div class="synth-cell-mid">
+          <div class="synth-arabic blessed-color">أَنْعَمْتَ</div>
+          <div class="synth-meaning">YOU blessed — actor named directly</div>
+        </div>
+        <div class="synth-cell-right">
+          <div class="synth-dot" style="background:#c9a84c"></div>
+        </div>
+      </div>
+
+      <div class="synth-row" id="sy-row-2">
+        <div class="synth-cell-left">
+          <div class="synth-group-name wrath-color">Wrath</div>
+          <div class="synth-voice" style="color:rgba(192,96,64,0.5);margin-top:6px">passive</div>
+        </div>
+        <div class="synth-cell-mid">
+          <div class="synth-arabic wrath-color">ٱلْمَغْضُوبِ</div>
+          <div class="synth-meaning">wrath fell — actor deliberately hidden</div>
+        </div>
+        <div class="synth-cell-right">
+          <div class="synth-dot" style="background:#c06040"></div>
+        </div>
+      </div>
+
+      <div class="synth-row" id="sy-row-3">
+        <div class="synth-cell-left">
+          <div class="synth-group-name astray-color">Astray</div>
+          <div class="synth-voice" style="color:rgba(106,154,186,0.5);margin-top:6px">active ptcp</div>
+        </div>
+        <div class="synth-cell-mid">
+          <div class="synth-arabic astray-color">ٱلضَّآلِّينَ</div>
+          <div class="synth-meaning">they strayed — attributed to themselves</div>
+        </div>
+        <div class="synth-cell-right">
+          <div class="synth-dot" style="background:#6a9aba"></div>
+        </div>
+      </div>
+
+    </div>
+
+    <div class="synth-close" id="sy-close">
+      The grammar reveals <span>divine character</span>.<br/>
+      Before you understand the translation,<br/>
+      the grammar has already told you everything.
+    </div>
+    <div class="brand">AyahGuide</div>
+  </div>
+
+  <!-- ═══════════════════════════════════════════════════
+       SCENE 6 — CLOSE (44–47.5s)
+       ═══════════════════════════════════════════════════ -->
+  <div class="scene" id="scene-close">
+    <div class="close-arabic" id="close-arabic">
+      صِرَاطَ ٱلَّذِينَ أَنْعَمْتَ عَلَيْهِمْ<br/>
+      غَيْرِ ٱلْمَغْضُوبِ عَلَيْهِمْ وَلَا ٱلضَّآلِّينَ
+    </div>
+    <div class="close-ref" id="close-ref">Al-Fatiha · 1:7</div>
+    <div class="brand">AyahGuide</div>
+  </div>
+
+</div><!-- #root -->
+
+<audio id="bg-audio" src="/assets/ambient.mp3"
+       data-start="0" data-media-start="4" data-volume="0.2" preload="auto"></audio>
+
+<script>
+  const tl = gsap.timeline({ paused: true });
+
+  /* ── INITIAL STATES ───────────────────────────────── */
+  gsap.set(['#scene-setup','#scene-blessed','#scene-wrath','#scene-astray',
+            '#scene-synth','#scene-close'], { opacity: 0 });
+
+  /* scene 1 */
+  gsap.set('#s-17',       { opacity: 0, scale: 0.8 });
+  gsap.set('#s-headline', { opacity: 0, y: 20 });
+  gsap.set('#s-arabic',   { opacity: 0 });
+  gsap.set('#s-sub',      { opacity: 0 });
+
+  /* scene 2 — blessed */
+  gsap.set(['#b-tag','#b-arabic','#b-voice','#b-analysis','#b-conclusion'],
+    { opacity: 0, y: 16 });
+
+  /* scene 3 — wrath */
+  gsap.set(['#w-tag','#w-arabic','#w-voice','#w-analysis','#w-conclusion'],
+    { opacity: 0, y: 16 });
+
+  /* scene 4 — astray */
+  gsap.set(['#a-tag','#a-arabic','#a-voice','#a-analysis','#a-conclusion'],
+    { opacity: 0, y: 16 });
+
+  /* scene 5 — synthesis */
+  gsap.set(['#sy-title','#sy-row-1','#sy-row-2','#sy-row-3','#sy-close'],
+    { opacity: 0, y: 12 });
+
+  /* scene 6 — close */
+  gsap.set(['#close-arabic','#close-ref'], { opacity: 0 });
+
+  /* ── SCENE 0: COVER (0 → 1.5s) ──────────────────── */
+  tl.to('#scene-cover', { opacity: 0, duration: 0.5 }, 1.5);
+
+  /* ── SCENE 1: SETUP (1.5 → 8s) ──────────────────── */
+  tl.to('#scene-setup', { opacity: 1, duration: 0 }, 1.5);
+  tl.to('#s-17',       { opacity: 1, scale: 1, duration: 0.6, ease: 'back.out(1.3)' }, 1.8);
+  tl.to('#s-headline', { opacity: 1, y: 0, duration: 0.7 }, 2.5);
+  tl.to('#s-arabic',   { opacity: 1, duration: 0.8 }, 3.8);
+  tl.to('#s-sub',      { opacity: 1, duration: 0.6 }, 5.0);
+  /* hold 2.5s */
+  tl.to('#scene-setup', { opacity: 0, duration: 0.5 }, 7.5);
+
+  /* ── SCENE 2: BLESSED (8 → 17s) ─────────────────── */
+  tl.to('#scene-blessed', { opacity: 1, duration: 0 }, 8.0);
+  tl.to('#b-tag',        { opacity: 1, y: 0, duration: 0.4 }, 8.2);
+  tl.to('#b-arabic',     { opacity: 1, y: 0, duration: 0.6 }, 8.7);
+  tl.to('#b-voice',      { opacity: 1, y: 0, duration: 0.5 }, 9.8);
+  tl.to('#b-analysis',   { opacity: 1, y: 0, duration: 0.6 }, 10.7);
+  tl.to('#b-conclusion', { opacity: 1, y: 0, duration: 0.7 }, 12.0);
+  /* 4.5s hold on conclusion — the insight needs to land */
+  tl.to('#scene-blessed', { opacity: 0, duration: 0.5 }, 16.5);
+
+  /* ── SCENE 3: WRATH (17 → 26s) ─────────────────── */
+  tl.to('#scene-wrath', { opacity: 1, duration: 0 }, 17.0);
+  tl.to('#w-tag',        { opacity: 1, y: 0, duration: 0.4 }, 17.2);
+  tl.to('#w-arabic',     { opacity: 1, y: 0, duration: 0.6 }, 17.7);
+  tl.to('#w-voice',      { opacity: 1, y: 0, duration: 0.5 }, 18.8);
+  tl.to('#w-analysis',   { opacity: 1, y: 0, duration: 0.6 }, 19.7);
+  tl.to('#w-conclusion', { opacity: 1, y: 0, duration: 0.7 }, 21.0);
+  /* 4.5s hold */
+  tl.to('#scene-wrath', { opacity: 0, duration: 0.5 }, 25.5);
+
+  /* ── SCENE 4: ASTRAY (26 → 35s) ─────────────────── */
+  tl.to('#scene-astray', { opacity: 1, duration: 0 }, 26.0);
+  tl.to('#a-tag',        { opacity: 1, y: 0, duration: 0.4 }, 26.2);
+  tl.to('#a-arabic',     { opacity: 1, y: 0, duration: 0.6 }, 26.7);
+  tl.to('#a-voice',      { opacity: 1, y: 0, duration: 0.5 }, 27.8);
+  tl.to('#a-analysis',   { opacity: 1, y: 0, duration: 0.6 }, 28.7);
+  tl.to('#a-conclusion', { opacity: 1, y: 0, duration: 0.7 }, 30.0);
+  /* 4.5s hold */
+  tl.to('#scene-astray', { opacity: 0, duration: 0.5 }, 34.5);
+
+  /* ── SCENE 5: SYNTHESIS (35 → 44s) ─────────────── */
+  tl.to('#scene-synth', { opacity: 1, duration: 0 }, 35.0);
+  tl.to('#sy-title',  { opacity: 1, y: 0, duration: 0.5 }, 35.2);
+  /* rows appear in sequence */
+  tl.to('#sy-row-1',  { opacity: 1, y: 0, duration: 0.5 }, 35.9);
+  tl.to('#sy-row-2',  { opacity: 1, y: 0, duration: 0.5 }, 37.1);
+  tl.to('#sy-row-3',  { opacity: 1, y: 0, duration: 0.5 }, 38.3);
+  /* shareable frame — all three visible, hold 2s */
+  tl.to('#sy-close',  { opacity: 1, y: 0, duration: 0.7 }, 40.5);
+  /* 3s hold on the conclusion */
+  tl.to('#scene-synth', { opacity: 0, duration: 0.5 }, 43.5);
+
+  /* ── SCENE 6: CLOSE (44 → 47.5s) ────────────────── */
+  tl.to('#scene-close',  { opacity: 1, duration: 0 }, 44.0);
+  tl.to('#close-arabic', { opacity: 1, duration: 0.9 }, 44.1);
+  tl.to('#close-ref',    { opacity: 1, duration: 0.5 }, 45.2);
+  tl.to('#scene-close',  { opacity: 0, duration: 0.9 }, 46.3);
+  /* dummy tween to hold full duration */
+  tl.to({}, { duration: 0.01 }, 47.5);
+
+  /* ── REGISTER ─────────────────────────────────────── */
+  window.__timelines = window.__timelines || {};
+  window.__timelines['main'] = tl;
+</script>
+
+</body>
+</html>

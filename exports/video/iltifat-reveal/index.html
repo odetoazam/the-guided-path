@@ -1,0 +1,730 @@
+<!doctype html>
+<html lang="ar">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=1080, height=1920" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&family=Playfair+Display:ital,wght@0,400;0,600;1,400;1,600&family=Inter:wght@300;400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <script src="https://cdn.jsdelivr.net/npm/gsap@3.14.2/dist/gsap.min.js"></script>
+    <style>
+      * { margin: 0; padding: 0; box-sizing: border-box; }
+      html, body {
+        width: 1080px;
+        height: 1920px;
+        overflow: hidden;
+        background: #0d1524;
+        font-family: "Inter", system-ui, sans-serif;
+      }
+
+      .scene {
+        position: absolute;
+        inset: 0;
+        width: 100%;
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding: 180px 80px;
+        gap: 52px;
+        overflow: hidden;
+      }
+
+      /* All non-cover scenes start invisible */
+      #s1, #s2, #s3, #s4, #s5 { opacity: 0; }
+
+      /* ── Warm gold flush at pivot ── */
+      #warm-overlay {
+        position: absolute;
+        inset: 0;
+        background: radial-gradient(ellipse 1000px 1300px at 50% 48%,
+          rgba(201,168,76,0.07) 0%, transparent 65%);
+        opacity: 0;
+        pointer-events: none;
+        z-index: 20;
+      }
+
+      /* ── Ambient glow ── */
+      .bg-glow {
+        position: absolute;
+        top: 50%; left: 50%;
+        transform: translate(-50%, -50%);
+        border-radius: 50%;
+        pointer-events: none;
+      }
+
+      /* ════════════════════════════════
+         SCENE 0 — Cover
+      ════════════════════════════════ */
+      #s0-iyyaka {
+        font-family: "Amiri", Georgia, serif;
+        font-weight: 700;
+        font-size: 280px;
+        line-height: 1.0;
+        color: rgba(201,168,76,0.96);
+        direction: rtl;
+        text-shadow:
+          0 0 100px rgba(201,168,76,0.20),
+          0 0 260px rgba(201,168,76,0.06);
+      }
+      #s0-divider {
+        width: 540px;
+        height: 1px;
+        background: rgba(201,168,76,0.26);
+      }
+      #s0-subtitle {
+        font-family: "Inter", sans-serif;
+        font-weight: 400;
+        font-size: 30px;
+        color: rgba(245,241,232,0.36);
+        letter-spacing: 0.44em;
+        text-transform: uppercase;
+      }
+      #s0-ref {
+        font-family: "Inter", sans-serif;
+        font-weight: 400;
+        font-size: 26px;
+        color: rgba(201,168,76,0.58);
+        letter-spacing: 0.26em;
+        text-transform: uppercase;
+      }
+      #s0-brand {
+        position: absolute;
+        bottom: 90px;
+        left: 50%;
+        transform: translateX(-50%);
+        font-family: "Playfair Display", Georgia, serif;
+        font-weight: 600;
+        font-size: 32px;
+        color: rgba(245,241,232,0.40);
+        letter-spacing: 0.06em;
+        white-space: nowrap;
+      }
+
+      /* ════════════════════════════════
+         SCENE 1 — Third Person
+         Epithets held in perspective tilt (rotationX via GSAP)
+      ════════════════════════════════ */
+      #s1-header {
+        font-family: "Inter", sans-serif;
+        font-weight: 400;
+        font-size: 28px;
+        color: rgba(190,205,225,0.38);
+        letter-spacing: 0.36em;
+        text-transform: uppercase;
+        text-align: center;
+      }
+      #s1-epithets-wrap {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 36px;
+      }
+      .epithet-row {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 6px;
+      }
+      .epithet {
+        font-family: "Amiri", Georgia, serif;
+        font-weight: 700;
+        direction: rtl;
+        text-align: center;
+        /* Cool silver-blue — communicates "third person distance" */
+        color: rgba(185,200,220,0.78);
+        line-height: 1.0;
+      }
+      .epithet-lg { font-size: 82px; }
+      .epithet-md { font-size: 76px; }
+      .epithet-gloss {
+        font-family: "Inter", sans-serif;
+        font-weight: 300;
+        font-size: 24px;
+        color: rgba(185,200,220,0.36);
+        letter-spacing: 0.18em;
+        text-transform: uppercase;
+      }
+      #s1-footer {
+        font-family: "Playfair Display", Georgia, serif;
+        font-style: italic;
+        font-size: 32px;
+        color: rgba(185,200,220,0.34);
+        letter-spacing: 0.08em;
+        text-align: center;
+      }
+
+      /* ════════════════════════════════
+         SCENE 2 — The Pivot
+      ════════════════════════════════ */
+      #s2-label {
+        font-family: "Inter", sans-serif;
+        font-weight: 400;
+        font-size: 26px;
+        color: rgba(245,241,232,0.36);
+        letter-spacing: 0.38em;
+        text-transform: uppercase;
+      }
+      #s2-iyyaka {
+        font-family: "Amiri", Georgia, serif;
+        font-weight: 700;
+        font-size: 290px;
+        line-height: 1.15;
+        color: rgba(201,168,76,0.97);
+        direction: rtl;
+        text-shadow:
+          0 0 80px rgba(201,168,76,0.30),
+          0 0 220px rgba(201,168,76,0.10);
+      }
+      #s2-line {
+        font-family: "Playfair Display", Georgia, serif;
+        font-style: italic;
+        font-size: 50px;
+        color: rgba(245,241,232,0.52);
+        text-align: center;
+        max-width: 860px;
+        line-height: 1.48;
+      }
+      #s2-line .emph {
+        font-style: normal;
+        font-weight: 700;
+        color: rgba(245,241,232,0.88);
+      }
+
+      /* ════════════════════════════════
+         SCENE 3 — Exclusivity
+      ════════════════════════════════ */
+      #s3-phrase {
+        font-family: "Amiri", Georgia, serif;
+        font-weight: 700;
+        font-size: 148px;
+        line-height: 1.15;
+        direction: rtl;
+        text-align: center;
+        letter-spacing: 0.02em;
+      }
+      #s3-iyyaka-w { color: rgba(201,168,76,0.96); }
+      #s3-nabudu-w { color: rgba(245,241,232,0.68); }
+
+      #s3-breakdown {
+        display: flex;
+        gap: 0;
+        align-items: stretch;
+        width: 860px;
+      }
+      .breakdown-col {
+        flex: 1;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 12px;
+        padding: 28px 24px;
+      }
+      .breakdown-col.left { border-right: 1px solid rgba(201,168,76,0.22); }
+      .breakdown-arabic {
+        font-family: "Amiri", Georgia, serif;
+        font-weight: 700;
+        font-size: 72px;
+        direction: rtl;
+        line-height: 1.15;
+      }
+      .breakdown-arabic.gold { color: rgba(201,168,76,0.85); }
+      .breakdown-arabic.white { color: rgba(245,241,232,0.55); }
+      .breakdown-label {
+        font-family: "Inter", sans-serif;
+        font-weight: 600;
+        font-size: 22px;
+        letter-spacing: 0.22em;
+        text-transform: uppercase;
+        text-align: center;
+      }
+      .breakdown-label.gold { color: rgba(201,168,76,0.90); }
+      .breakdown-label.white { color: rgba(245,241,232,0.55); }
+      .breakdown-note {
+        font-family: "Inter", sans-serif;
+        font-weight: 300;
+        font-size: 20px;
+        color: rgba(245,241,232,0.35);
+        text-align: center;
+        letter-spacing: 0.06em;
+        font-style: italic;
+      }
+
+      #s3-insight {
+        font-family: "Playfair Display", Georgia, serif;
+        font-style: italic;
+        font-size: 44px;
+        color: rgba(245,241,232,0.58);
+        text-align: center;
+        max-width: 820px;
+        line-height: 1.50;
+      }
+      #s3-insight .key {
+        font-style: normal;
+        font-weight: 700;
+        color: rgba(201,168,76,0.92);
+      }
+
+      /* ════════════════════════════════
+         SCENE 4 — Full Verse
+      ════════════════════════════════ */
+      #s4-ref {
+        font-family: "Inter", sans-serif;
+        font-weight: 400;
+        font-size: 26px;
+        color: rgba(201,168,76,0.62);
+        letter-spacing: 0.28em;
+        text-transform: uppercase;
+      }
+      #s4-rule-top, #s4-rule-bottom {
+        width: 680px;
+        height: 1px;
+        background: rgba(201,168,76,0.22);
+      }
+      #s4-verse {
+        font-family: "Amiri", Georgia, serif;
+        font-weight: 700;
+        font-size: 88px;
+        line-height: 2.1;
+        color: rgba(201,168,76,0.94);
+        direction: rtl;
+        text-align: center;
+        max-width: 900px;
+        text-shadow: 0 0 60px rgba(201,168,76,0.10);
+      }
+      #s4-translation {
+        font-family: "Playfair Display", Georgia, serif;
+        font-style: italic;
+        font-size: 47px;
+        line-height: 1.62;
+        color: #f5f1e8;
+        text-align: center;
+        max-width: 820px;
+      }
+      #s4-translation .you-alone {
+        font-style: normal;
+        font-weight: 700;
+        color: rgba(201,168,76,0.96);
+      }
+
+      /* ════════════════════════════════
+         SCENE 5 — Close
+      ════════════════════════════════ */
+      #s5-count-row {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 0px;
+      }
+      #s5-you-say {
+        font-family: "Inter", sans-serif;
+        font-weight: 300;
+        font-size: 36px;
+        color: rgba(245,241,232,0.50);
+        letter-spacing: 0.12em;
+        text-transform: uppercase;
+        margin-bottom: 8px;
+      }
+      #s5-17 {
+        font-family: "Playfair Display", Georgia, serif;
+        font-weight: 700;
+        font-size: 260px;
+        line-height: 0.9;
+        color: rgba(201,168,76,0.95);
+        letter-spacing: -0.03em;
+        text-shadow: 0 0 100px rgba(201,168,76,0.18);
+      }
+      #s5-times {
+        font-family: "Inter", sans-serif;
+        font-weight: 300;
+        font-size: 36px;
+        color: rgba(245,241,232,0.45);
+        letter-spacing: 0.24em;
+        text-transform: uppercase;
+        margin-top: 8px;
+      }
+      #s5-turn {
+        font-family: "Playfair Display", Georgia, serif;
+        font-weight: 600;
+        font-size: 54px;
+        color: #f5f1e8;
+        text-align: center;
+        line-height: 1.28;
+      }
+      .gold-rule {
+        width: 80px;
+        height: 1px;
+        background: rgba(201,168,76,0.80);
+      }
+      #s5-brand {
+        font-family: "Playfair Display", Georgia, serif;
+        font-weight: 600;
+        font-size: 56px;
+        color: #f5f1e8;
+      }
+      #s5-handle {
+        font-family: "Inter", sans-serif;
+        font-weight: 400;
+        font-size: 28px;
+        color: rgba(201,168,76,0.72);
+        letter-spacing: 0.18em;
+      }
+
+      /* ════════════════════════════════
+         Persistent frame design
+      ════════════════════════════════ */
+      #frame-design {
+        position: absolute; inset: 0;
+        pointer-events: none; z-index: 30;
+      }
+      #frame-border {
+        position: absolute;
+        top: 28px; left: 28px; right: 28px; bottom: 28px;
+        border: 1px solid rgba(201,168,76,0.20);
+      }
+      .corner-svg { position: absolute; width: 82px; height: 82px; }
+      .corner-svg.tl { top: 28px; left: 28px; }
+      .corner-svg.tr { top: 28px; right: 28px; transform: scaleX(-1); }
+      .corner-svg.bl { bottom: 28px; left: 28px; transform: scaleY(-1); }
+      .corner-svg.br { bottom: 28px; right: 28px; transform: scale(-1,-1); }
+    </style>
+  </head>
+  <body>
+    <div
+      id="root"
+      data-composition-id="main"
+      data-start="0"
+      data-duration="37"
+      data-width="1080"
+      data-height="1920"
+    >
+      <!-- Warm gold flush overlay — fires at the pivot -->
+      <div id="warm-overlay"></div>
+
+      <!-- ══════════════════════════════════
+           SCENE 0 — COVER (0 → 1.5s)
+           Static. Frame 1 = the designed card.
+      ══════════════════════════════════ -->
+      <div id="s0" class="scene">
+        <div class="bg-glow" style="width:960px;height:960px;background:radial-gradient(circle,rgba(201,168,76,0.08) 0%,transparent 65%);"></div>
+        <div id="s0-iyyaka">إِيَّاكَ</div>
+        <div id="s0-divider"></div>
+        <div id="s0-subtitle">The Turn</div>
+        <div id="s0-ref">Al-Fatiha · 1:5</div>
+        <div id="s0-brand">AyahGuide</div>
+      </div>
+
+      <!-- ══════════════════════════════════
+           SCENE 1 — Third Person (1.5 → 7.0s)
+           Three epithets rendered in cool silver-blue,
+           held at rotationX:12 — "reading from a distance"
+      ══════════════════════════════════ -->
+      <div id="s1" class="scene" style="gap:32px; perspective:2800px;">
+        <div class="bg-glow" style="width:700px;height:700px;background:radial-gradient(circle,rgba(185,200,220,0.05) 0%,transparent 65%);"></div>
+        <div id="s1-header">for four verses, you describe Him</div>
+        <div id="s1-epithets-wrap">
+          <div class="epithet-row">
+            <div class="epithet epithet-lg">رَبِّ الْعَالَمِينَ</div>
+            <div class="epithet-gloss">Lord of the Worlds · 1:2</div>
+          </div>
+          <div class="epithet-row">
+            <div class="epithet epithet-md">الرَّحْمَٰنِ الرَّحِيمِ</div>
+            <div class="epithet-gloss">The Merciful · 1:3</div>
+          </div>
+          <div class="epithet-row">
+            <div class="epithet epithet-md">مَالِكِ يَوْمِ الدِّينِ</div>
+            <div class="epithet-gloss">Master of the Day · 1:4</div>
+          </div>
+        </div>
+        <div id="s1-footer">third person · describing from a distance</div>
+      </div>
+
+      <!-- ══════════════════════════════════
+           SCENE 2 — The Pivot (7.0 → 11.5s)
+           Warm gold flood. إِيَّاكَ stamps in face-on.
+      ══════════════════════════════════ -->
+      <div id="s2" class="scene" style="gap:40px;">
+        <div class="bg-glow" style="width:1100px;height:1100px;background:radial-gradient(circle,rgba(201,168,76,0.11) 0%,transparent 65%);"></div>
+        <div id="s2-label">then · at 1:5</div>
+        <div id="s2-iyyaka">إِيَّاكَ</div>
+        <div id="s2-line">
+          You are no longer talking <em>about</em> Him.<br/>
+          You are talking <span class="emph">to</span> Him.
+        </div>
+      </div>
+
+      <!-- ══════════════════════════════════
+           SCENE 3 — Exclusivity (11.5 → 16.0s)
+           Word-order breakdown: object before verb = restriction
+      ══════════════════════════════════ -->
+      <div id="s3" class="scene" style="gap:44px;">
+        <div class="bg-glow" style="width:900px;height:900px;background:radial-gradient(circle,rgba(201,168,76,0.08) 0%,transparent 65%);"></div>
+        <div id="s3-phrase">
+          <span id="s3-iyyaka-w">إِيَّاكَ</span>&nbsp;<span id="s3-nabudu-w">نَعْبُدُ</span>
+        </div>
+        <div id="s3-breakdown">
+          <!-- Left column: iyyāka (the fronted object) -->
+          <div class="breakdown-col left">
+            <div class="breakdown-arabic gold">إِيَّاكَ</div>
+            <div class="breakdown-label gold">YOU ALONE</div>
+            <div class="breakdown-note">object — fronted first</div>
+          </div>
+          <!-- Right column: naʿbudu (the verb) -->
+          <div class="breakdown-col right">
+            <div class="breakdown-arabic white">نَعْبُدُ</div>
+            <div class="breakdown-label white">we worship</div>
+            <div class="breakdown-note">verb — follows</div>
+          </div>
+        </div>
+        <div id="s3-insight">
+          Object before verb in Arabic = <span class="key">restriction</span>.<br/>
+          Not "we worship <em>you</em>" —<br/>
+          "<span class="key">You alone</span> we worship."
+        </div>
+      </div>
+
+      <!-- ══════════════════════════════════
+           SCENE 4 — Full Verse (16.0 → 20.0s)
+      ══════════════════════════════════ -->
+      <div id="s4" class="scene" style="gap:38px;">
+        <div class="bg-glow" style="width:880px;height:880px;background:radial-gradient(circle,rgba(201,168,76,0.08) 0%,transparent 65%);"></div>
+        <div id="s4-ref">Al-Fatiha · 1:5</div>
+        <div id="s4-rule-top"></div>
+        <div id="s4-verse">
+          إِيَّاكَ نَعْبُدُ<br/>وَإِيَّاكَ نَسْتَعِينُ
+        </div>
+        <div id="s4-rule-bottom"></div>
+        <div id="s4-translation">
+          "<span class="you-alone">You alone</span> we worship,<br/>
+          and <span class="you-alone">You alone</span> we ask for help."
+        </div>
+      </div>
+
+      <!-- ══════════════════════════════════
+           SCENE 5 — Close (20.0 → 22.0s)
+      ══════════════════════════════════ -->
+      <div id="s5" class="scene" style="gap:32px;">
+        <div class="bg-glow" style="width:800px;height:800px;background:radial-gradient(circle,rgba(201,168,76,0.07) 0%,transparent 65%);"></div>
+        <div id="s5-count-row">
+          <div id="s5-you-say">You say this</div>
+          <div id="s5-17">17</div>
+          <div id="s5-times">times a day</div>
+        </div>
+        <div id="s5-turn">Every time — a turn.</div>
+        <div class="gold-rule"></div>
+        <div id="s5-brand">AyahGuide</div>
+        <div id="s5-handle">ayahguide.com</div>
+      </div>
+
+      <!-- ── Persistent frame ── -->
+      <div id="frame-design">
+        <div id="frame-border"></div>
+        <svg class="corner-svg tl" viewBox="0 0 82 82" fill="none">
+          <rect x="6" y="6" width="34" height="34" stroke="rgba(201,168,76,0.52)" stroke-width="1.2"/>
+          <rect x="6" y="6" width="34" height="34" stroke="rgba(201,168,76,0.52)" stroke-width="1.2" transform="rotate(45 23 23)"/>
+          <circle cx="23" cy="23" r="3" stroke="rgba(201,168,76,0.48)" stroke-width="1" fill="none"/>
+          <circle cx="23" cy="23" r="1.2" fill="rgba(201,168,76,0.52)"/>
+          <line x1="40" y1="23" x2="82" y2="23" stroke="rgba(201,168,76,0.16)" stroke-width="1"/>
+          <line x1="23" y1="40" x2="23" y2="82" stroke="rgba(201,168,76,0.16)" stroke-width="1"/>
+        </svg>
+        <svg class="corner-svg tr" viewBox="0 0 82 82" fill="none">
+          <rect x="6" y="6" width="34" height="34" stroke="rgba(201,168,76,0.52)" stroke-width="1.2"/>
+          <rect x="6" y="6" width="34" height="34" stroke="rgba(201,168,76,0.52)" stroke-width="1.2" transform="rotate(45 23 23)"/>
+          <circle cx="23" cy="23" r="3" stroke="rgba(201,168,76,0.48)" stroke-width="1" fill="none"/>
+          <circle cx="23" cy="23" r="1.2" fill="rgba(201,168,76,0.52)"/>
+          <line x1="40" y1="23" x2="82" y2="23" stroke="rgba(201,168,76,0.16)" stroke-width="1"/>
+          <line x1="23" y1="40" x2="23" y2="82" stroke="rgba(201,168,76,0.16)" stroke-width="1"/>
+        </svg>
+        <svg class="corner-svg bl" viewBox="0 0 82 82" fill="none">
+          <rect x="6" y="6" width="34" height="34" stroke="rgba(201,168,76,0.52)" stroke-width="1.2"/>
+          <rect x="6" y="6" width="34" height="34" stroke="rgba(201,168,76,0.52)" stroke-width="1.2" transform="rotate(45 23 23)"/>
+          <circle cx="23" cy="23" r="3" stroke="rgba(201,168,76,0.48)" stroke-width="1" fill="none"/>
+          <circle cx="23" cy="23" r="1.2" fill="rgba(201,168,76,0.52)"/>
+          <line x1="40" y1="23" x2="82" y2="23" stroke="rgba(201,168,76,0.16)" stroke-width="1"/>
+          <line x1="23" y1="40" x2="23" y2="82" stroke="rgba(201,168,76,0.16)" stroke-width="1"/>
+        </svg>
+        <svg class="corner-svg br" viewBox="0 0 82 82" fill="none">
+          <rect x="6" y="6" width="34" height="34" stroke="rgba(201,168,76,0.52)" stroke-width="1.2"/>
+          <rect x="6" y="6" width="34" height="34" stroke="rgba(201,168,76,0.52)" stroke-width="1.2" transform="rotate(45 23 23)"/>
+          <circle cx="23" cy="23" r="3" stroke="rgba(201,168,76,0.48)" stroke-width="1" fill="none"/>
+          <circle cx="23" cy="23" r="1.2" fill="rgba(201,168,76,0.52)"/>
+          <line x1="40" y1="23" x2="82" y2="23" stroke="rgba(201,168,76,0.16)" stroke-width="1"/>
+          <line x1="23" y1="40" x2="23" y2="82" stroke="rgba(201,168,76,0.16)" stroke-width="1"/>
+        </svg>
+      </div>
+
+      <audio
+        id="audio-ambient"
+        data-start="0"
+        data-duration="37"
+        data-track-index="5"
+        data-volume="0.55"
+        src="assets/ambient.mp3"
+      ></audio>
+    </div>
+
+    <script>
+      window.__timelines = window.__timelines || {};
+      const tl = gsap.timeline({ paused: true });
+
+      // ─────────────────────────────────────────────────────────
+      // Pre-set: epithets start tilted back — "reading from a
+      // distance." rotationX:12 on the parent container.
+      // Added at t=0 inside the timeline so frame seeks are deterministic.
+      // ─────────────────────────────────────────────────────────
+      tl.set("#s1-epithets-wrap", { rotationX: 12 }, 0);
+
+      // ─────────────────────────────────────────────────────────
+      // SCENE 0 — COVER HOLD (0 → 1.5s)
+      // No tweens. Frame 1 is the designed cover.
+      // ─────────────────────────────────────────────────────────
+
+      // ── Transition 0 → 1 ──────────────────────────────────────
+      const T01 = 1.5;
+      tl.to("#s0", {
+        filter: "blur(26px)", scale: 1.04, opacity: 0,
+        duration: 0.65, ease: "sine.inOut"
+      }, T01);
+      tl.fromTo("#s1",
+        { filter: "blur(26px)", scale: 0.96, opacity: 0 },
+        { filter: "blur(0px)", scale: 1, opacity: 1, duration: 0.72, ease: "sine.inOut" },
+        T01
+      );
+
+      // ─────────────────────────────────────────────────────────
+      // SCENE 1 — Third Person (1.5 → 7.0s) — 5.5s
+      // Epithets enter staggered, hold at rotationX:12 (tilted).
+      // The tilt communicates "observing from outside" — description.
+      // ─────────────────────────────────────────────────────────
+      const T1 = T01 + 0.28;
+      tl.from("#s1-header",    { opacity: 0, y: -16, duration: 0.65, ease: "power2.out" }, T1);
+      tl.from(".epithet-row",  {
+        opacity: 0, x: 28, duration: 0.78, ease: "power2.out",
+        stagger: { each: 0.42 }
+      }, T1 + 0.5);
+      tl.from("#s1-footer",    { opacity: 0, y: 18, duration: 0.7, ease: "sine.out" }, T1 + 2.4);
+      // Gentle ambient float
+      tl.to("#s1-epithets-wrap", { y: -8, duration: 2.8, ease: "sine.inOut" }, T1 + 2.0);
+
+      // ── Transition 1 → 2 — THE PIVOT ─────────────────────────
+      // The epithets tilt away further (as if flinching back),
+      // then warm gold floods in and إِيَّاكَ arrives face-on.
+      const T12 = 8.0;
+      tl.to("#s1-epithets-wrap", {
+        rotationX: -10, duration: 0.52, ease: "power2.in", overwrite: "auto"
+      }, T12);
+      tl.to("#s1", {
+        filter: "blur(28px)", scale: 1.05, opacity: 0,
+        duration: 0.55, ease: "power2.in"
+      }, T12 + 0.06);
+      // Gold flush fires at the pivot moment
+      tl.to("#warm-overlay", { opacity: 1, duration: 0.38, ease: "power3.out", overwrite: "auto" }, T12 + 0.12);
+      tl.to("#warm-overlay", { opacity: 0, duration: 1.4,  ease: "sine.out", overwrite: "auto" }, T12 + 0.55);
+      tl.fromTo("#s2",
+        { filter: "blur(22px)", scale: 0.94, opacity: 0 },
+        { filter: "blur(0px)",  scale: 1,    opacity: 1, duration: 0.68, ease: "power3.out" },
+        T12 + 0.18
+      );
+
+      // ─────────────────────────────────────────────────────────
+      // SCENE 2 — The Pivot (7.0 → 11.5s) — 4.5s
+      // إِيَّاكَ stamps in face-on — full frontal, warm gold.
+      // ─────────────────────────────────────────────────────────
+      const T2 = T12 + 0.32;
+      tl.from("#s2-label",   { opacity: 0, y: -18, duration: 0.58, ease: "power2.out" }, T2);
+      tl.fromTo("#s2-iyyaka",
+        { opacity: 0, scale: 0.80, filter: "blur(12px)" },
+        { opacity: 1, scale: 1.00, filter: "blur(0px)", duration: 0.42, ease: "power4.out" },
+        T2 + 0.42
+      );
+      // Brief ambient swell — breathes while held
+      tl.to("#s2-iyyaka", {
+        scale: 1.028, duration: 2.0, ease: "sine.inOut", yoyo: true, repeat: 1
+      }, T2 + 0.88);
+      tl.from("#s2-line",    { opacity: 0, y: 24, duration: 0.88, ease: "power2.out" }, T2 + 1.1);
+
+      // ── Transition 2 → 3 ─────────────────────────────────────
+      const T23 = 15.0;
+      tl.to("#s2", {
+        filter: "blur(24px)", scale: 1.04, opacity: 0,
+        duration: 0.65, ease: "sine.inOut"
+      }, T23);
+      tl.fromTo("#s3",
+        { filter: "blur(24px)", scale: 0.96, opacity: 0 },
+        { filter: "blur(0px)",  scale: 1,    opacity: 1, duration: 0.7, ease: "sine.inOut" },
+        T23
+      );
+
+      // ─────────────────────────────────────────────────────────
+      // SCENE 3 — Exclusivity (11.5 → 16.0s) — 4.5s
+      // Word-order breakdown: object before verb = restriction
+      // ─────────────────────────────────────────────────────────
+      const T3 = T23 + 0.26;
+      tl.from("#s3-iyyaka-w", { opacity: 0, scale: 0.84, duration: 0.52, ease: "power3.out" }, T3);
+      tl.from("#s3-nabudu-w", { opacity: 0, x: -18,      duration: 0.62, ease: "power2.out" }, T3 + 0.45);
+      tl.from("#s3-breakdown",{ opacity: 0, y: 22,        duration: 0.75, ease: "power2.out" }, T3 + 1.0);
+      tl.from("#s3-insight",  { opacity: 0, y: 18,        duration: 0.80, ease: "power2.out" }, T3 + 2.1);
+
+      // ── Transition 3 → 4 ─────────────────────────────────────
+      const T34 = 22.5;
+      tl.to("#s3", {
+        filter: "blur(24px)", scale: 1.03, opacity: 0,
+        duration: 0.65, ease: "sine.inOut"
+      }, T34);
+      tl.fromTo("#s4",
+        { filter: "blur(24px)", scale: 0.97, opacity: 0 },
+        { filter: "blur(0px)",  scale: 1,    opacity: 1, duration: 0.72, ease: "sine.inOut" },
+        T34
+      );
+
+      // ─────────────────────────────────────────────────────────
+      // SCENE 4 — Full Verse (16.0 → 20.0s) — 4.0s
+      // Both إِيَّاكَ occurrences visible in gold simultaneously.
+      // ─────────────────────────────────────────────────────────
+      const T4 = T34 + 0.32;
+      tl.from("#s4-ref",          { opacity: 0, y: -14, duration: 0.55, ease: "power2.out" }, T4);
+      tl.from("#s4-rule-top",     { scaleX: 0, transformOrigin: "left",  duration: 0.72, ease: "power3.inOut" }, T4 + 0.26);
+      tl.from("#s4-rule-bottom",  { scaleX: 0, transformOrigin: "right", duration: 0.72, ease: "power3.inOut" }, T4 + 0.26);
+      tl.from("#s4-verse",        { opacity: 0, y: 18, duration: 0.92, ease: "power3.out" }, T4 + 0.52);
+      tl.from("#s4-translation",  { opacity: 0, y: 14, duration: 0.85, ease: "power2.out" }, T4 + 1.42);
+
+      // ── Transition 4 → 5 ─────────────────────────────────────
+      const T45 = 30.0;
+      tl.to("#s4", {
+        filter: "blur(22px)", scale: 1.03, opacity: 0,
+        duration: 0.65, ease: "sine.inOut"
+      }, T45);
+      tl.fromTo("#s5",
+        { filter: "blur(22px)", scale: 0.97, opacity: 0 },
+        { filter: "blur(0px)",  scale: 1,    opacity: 1, duration: 0.68, ease: "sine.inOut" },
+        T45
+      );
+
+      // ─────────────────────────────────────────────────────────
+      // SCENE 5 — Close (20.0 → 22.0s) — 2.0s
+      // 17 in large type — visceral. "Every time — a turn."
+      // ─────────────────────────────────────────────────────────
+      const T5 = T45 + 0.28;
+      tl.from("#s5-you-say",  { opacity: 0, y: -12, duration: 0.52, ease: "power2.out" }, T5);
+      tl.fromTo("#s5-17",
+        { opacity: 0, scale: 0.85, filter: "blur(8px)" },
+        { opacity: 1, scale: 1.0,  filter: "blur(0px)", duration: 0.40, ease: "power4.out" },
+        T5 + 0.22
+      );
+      tl.from("#s5-times",    { opacity: 0, y: 10,  duration: 0.45, ease: "sine.out"   }, T5 + 0.48);
+      tl.from("#s5-turn",     { opacity: 0, y: 14,  duration: 0.65, ease: "power2.out" }, T5 + 0.72);
+      tl.from(".gold-rule",   { scaleX: 0, transformOrigin: "center", duration: 0.50, ease: "power2.inOut" }, T5 + 1.05);
+      tl.from("#s5-brand",    { opacity: 0, y: 10,  duration: 0.58, ease: "power3.out" }, T5 + 1.15);
+      tl.from("#s5-handle",   { opacity: 0,          duration: 0.48, ease: "sine.out"  }, T5 + 1.45);
+
+      // Final fade to black
+      tl.to("#root", { opacity: 0, duration: 0.55, ease: "power1.in" }, 35.5);
+
+      window.__timelines["main"] = tl;
+    </script>
+  </body>
+</html>

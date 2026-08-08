@@ -1,0 +1,964 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <script src="https://cdn.jsdelivr.net/npm/gsap@3.14.2/dist/gsap.min.js"></script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;0,700;1,400&family=Spectral:ital,wght@0,300;0,400;0,600;1,300;1,400&display=swap" rel="stylesheet">
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      width: 1080px;
+      height: 1920px;
+      overflow: hidden;
+      background: #0a1020;
+    }
+
+    /* ─── Palette ─────────────────────────────────────────── */
+    /* bg:    #0a1020  deep navy          */
+    /* gold:  #c9a84c  warm antique gold  */
+    /* dimgold: #8a6d2a muted gold        */
+    /* silver: #e8e4da off-white          */
+    /* muted: #8a8880  warm grey          */
+    /* dark2: #111824  scene overlay      */
+
+    /* ─── Scene Layer ─────────────────────────────────────── */
+    .scene {
+      position: absolute;
+      top: 0; left: 0;
+      width: 1080px;
+      height: 1920px;
+      overflow: hidden;
+      background: #0a1020;
+    }
+
+    /* S0 visible by default; all others start hidden */
+    #s0 { z-index: 1; opacity: 1; }
+    #s1 { z-index: 2; opacity: 0; }
+    #s2 { z-index: 3; opacity: 0; }
+    #s3 { z-index: 4; opacity: 0; }
+    #s4 { z-index: 5; opacity: 0; }
+    #s5 { z-index: 6; opacity: 0; }
+    #s6 { z-index: 7; opacity: 0; }
+
+    /* ─── Shared decorative glow layer ────────────────────── */
+    .bg-glow {
+      position: absolute;
+      border-radius: 50%;
+      pointer-events: none;
+      opacity: 0.12;
+    }
+
+    /* ─── Arabic text ──────────────────────────────────────── */
+    .arabic {
+      font-family: 'Amiri', serif;
+      direction: rtl;
+      unicode-bidi: bidi-override;
+      letter-spacing: 0.01em;
+      line-height: 1.4;
+    }
+
+    /* ─── English text ─────────────────────────────────────── */
+    .eng {
+      font-family: 'Spectral', serif;
+      letter-spacing: -0.01em;
+      line-height: 1.5;
+    }
+
+    /* ─── Brand corner ─────────────────────────────────────── */
+    .brand {
+      position: absolute;
+      bottom: 72px;
+      left: 0; right: 0;
+      text-align: center;
+      font-family: 'Spectral', serif;
+      font-size: 28px;
+      font-weight: 300;
+      color: #8a6d2a;
+      letter-spacing: 0.18em;
+      text-transform: uppercase;
+    }
+
+    /* ────────────────────────────────────────────────────────
+       SCENE 0 — Cover
+    ──────────────────────────────────────────────────────── */
+    #s0-ahad-top {
+      position: absolute;
+      top: 220px;
+      left: 0; right: 0;
+      text-align: center;
+      font-family: 'Amiri', serif;
+      font-size: 280px;
+      font-weight: 700;
+      color: #c9a84c;
+      direction: rtl;
+      text-shadow: 0 0 80px rgba(201,168,76,0.35), 0 0 160px rgba(201,168,76,0.12);
+    }
+    #s0-ahad-bot {
+      position: absolute;
+      bottom: 220px;
+      left: 0; right: 0;
+      text-align: center;
+      font-family: 'Amiri', serif;
+      font-size: 280px;
+      font-weight: 700;
+      color: #c9a84c;
+      direction: rtl;
+      text-shadow: 0 0 80px rgba(201,168,76,0.35), 0 0 160px rgba(201,168,76,0.12);
+    }
+    #s0-label {
+      position: absolute;
+      top: 50%;
+      left: 0; right: 0;
+      transform: translateY(-50%);
+      text-align: center;
+      font-family: 'Spectral', serif;
+      font-size: 32px;
+      font-weight: 300;
+      color: #8a6d2a;
+      letter-spacing: 0.20em;
+      text-transform: uppercase;
+    }
+    /* Center glow behind the empty space */
+    #s0-center-glow {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      width: 400px;
+      height: 400px;
+      border-radius: 50%;
+      background: radial-gradient(circle, rgba(201,168,76,0.07) 0%, rgba(201,168,76,0) 70%);
+      pointer-events: none;
+    }
+    /* Incomplete arc SVG */
+    #s0-arc {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      pointer-events: none;
+    }
+
+    /* ────────────────────────────────────────────────────────
+       SCENE 1 — The Question
+    ──────────────────────────────────────────────────────── */
+    #s1 .scene-content {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      width: 100%;
+      height: 100%;
+      padding: 120px 100px;
+      gap: 0;
+    }
+    #s1-question {
+      font-family: 'Spectral', serif;
+      font-size: 48px;
+      font-weight: 400;
+      font-style: italic;
+      color: #e8e4da;
+      text-align: center;
+      line-height: 1.55;
+      max-width: 860px;
+      margin-bottom: 100px;
+    }
+    /* Family tree SVG container */
+    #s1-tree-wrap {
+      position: relative;
+      width: 600px;
+      height: 560px;
+    }
+    #s1-tree {
+      width: 600px;
+      height: 560px;
+    }
+
+    /* ────────────────────────────────────────────────────────
+       SCENE 2 — Al-Samad
+    ──────────────────────────────────────────────────────── */
+    #s2 .scene-content {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      width: 100%;
+      height: 100%;
+      padding: 120px 80px;
+      gap: 64px;
+    }
+    #s2-ayah {
+      font-family: 'Amiri', serif;
+      font-size: 120px;
+      font-weight: 700;
+      color: #e8e4da;
+      direction: rtl;
+      text-align: center;
+      line-height: 1.4;
+    }
+    #s2-english {
+      font-family: 'Spectral', serif;
+      font-size: 40px;
+      font-weight: 300;
+      font-style: italic;
+      color: #e8e4da;
+      text-align: center;
+      max-width: 820px;
+      line-height: 1.6;
+    }
+    /* The sealing circle SVG */
+    #s2-seal-wrap {
+      position: relative;
+      width: 160px;
+      height: 160px;
+    }
+    #s2-note {
+      font-family: 'Spectral', serif;
+      font-size: 36px;
+      font-weight: 300;
+      color: #c9a84c;
+      text-align: center;
+      max-width: 820px;
+      line-height: 1.55;
+    }
+
+    /* ────────────────────────────────────────────────────────
+       SCENE 3 — Lam Yalid
+    ──────────────────────────────────────────────────────── */
+    #s3 .scene-content {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      width: 100%;
+      height: 100%;
+      padding: 100px 80px;
+      gap: 56px;
+    }
+    #s3-tree-wrap {
+      position: relative;
+      width: 600px;
+      height: 480px;
+      flex-shrink: 0;
+    }
+    #s3-ayah-offspring {
+      font-family: 'Amiri', serif;
+      font-size: 88px;
+      font-weight: 700;
+      color: #c9a84c;
+      direction: rtl;
+      text-align: center;
+    }
+    #s3-ayah-origin {
+      font-family: 'Amiri', serif;
+      font-size: 88px;
+      font-weight: 700;
+      color: #c9a84c;
+      direction: rtl;
+      text-align: center;
+    }
+    #s3-note {
+      font-family: 'Spectral', serif;
+      font-size: 36px;
+      font-weight: 300;
+      color: #e8e4da;
+      text-align: center;
+      max-width: 820px;
+      line-height: 1.6;
+    }
+
+    /* ────────────────────────────────────────────────────────
+       SCENE 4 — No Peer
+    ──────────────────────────────────────────────────────── */
+    #s4 .scene-content {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      width: 100%;
+      height: 100%;
+      padding: 120px 80px;
+      gap: 72px;
+    }
+    #s4-ayah {
+      font-family: 'Amiri', serif;
+      font-size: 80px;
+      font-weight: 700;
+      color: #e8e4da;
+      direction: rtl;
+      text-align: center;
+      line-height: 1.55;
+      max-width: 900px;
+    }
+    #s4-peers-wrap {
+      position: relative;
+      width: 400px;
+      height: 400px;
+    }
+    #s4-note {
+      font-family: 'Spectral', serif;
+      font-size: 42px;
+      font-weight: 400;
+      color: #e8e4da;
+      text-align: center;
+      max-width: 820px;
+      line-height: 1.5;
+    }
+    #s4-note span {
+      font-family: 'Amiri', serif;
+      font-size: 46px;
+      color: #c9a84c;
+    }
+
+    /* ────────────────────────────────────────────────────────
+       SCENE 5 — Ring Closure
+    ──────────────────────────────────────────────────────── */
+    #s5-ahad-top {
+      position: absolute;
+      top: 220px;
+      left: 0; right: 0;
+      text-align: center;
+      font-family: 'Amiri', serif;
+      font-size: 280px;
+      font-weight: 700;
+      color: #c9a84c;
+      direction: rtl;
+      text-shadow: 0 0 80px rgba(201,168,76,0.35);
+    }
+    #s5-ahad-bot {
+      position: absolute;
+      bottom: 220px;
+      left: 0; right: 0;
+      text-align: center;
+      font-family: 'Amiri', serif;
+      font-size: 280px;
+      font-weight: 700;
+      color: #c9a84c;
+      direction: rtl;
+      text-shadow: 0 0 80px rgba(201,168,76,0.35);
+    }
+    /* SVG ring for the drawing arc */
+    #s5-ring-svg {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      pointer-events: none;
+    }
+    /* Merging point — the final gold dot */
+    #s5-dot {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      width: 24px;
+      height: 24px;
+      border-radius: 50%;
+      background: #c9a84c;
+      box-shadow: 0 0 40px rgba(201,168,76,0.8), 0 0 80px rgba(201,168,76,0.4);
+      opacity: 0;
+    }
+
+    /* ────────────────────────────────────────────────────────
+       SCENE 6 — Insight
+    ──────────────────────────────────────────────────────── */
+    #s6 .scene-content {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      width: 100%;
+      height: 100%;
+      padding: 120px 100px;
+      gap: 64px;
+    }
+    #s6-dot-anchor {
+      width: 24px;
+      height: 24px;
+      border-radius: 50%;
+      background: #c9a84c;
+      box-shadow: 0 0 40px rgba(201,168,76,0.8), 0 0 80px rgba(201,168,76,0.4);
+      flex-shrink: 0;
+    }
+    #s6-line1 {
+      font-family: 'Spectral', serif;
+      font-size: 48px;
+      font-weight: 300;
+      color: #e8e4da;
+      text-align: center;
+      max-width: 820px;
+      line-height: 1.5;
+    }
+    #s6-line2 {
+      font-family: 'Spectral', serif;
+      font-size: 52px;
+      font-weight: 600;
+      color: #c9a84c;
+      text-align: center;
+      max-width: 820px;
+      line-height: 1.45;
+      letter-spacing: -0.01em;
+    }
+    #s6-line3 {
+      font-family: 'Spectral', serif;
+      font-size: 42px;
+      font-weight: 300;
+      font-style: italic;
+      color: #8a8880;
+      text-align: center;
+      max-width: 820px;
+      line-height: 1.55;
+    }
+    #s6-line4 {
+      font-family: 'Spectral', serif;
+      font-size: 48px;
+      font-weight: 400;
+      color: #e8e4da;
+      text-align: center;
+      max-width: 820px;
+      line-height: 1.5;
+    }
+  </style>
+</head>
+<body>
+  <div
+    id="root"
+    data-composition-id="ikhlas-ring"
+    data-width="1080"
+    data-height="1920"
+    data-start="0"
+    data-duration="36"
+  >
+
+    <!-- ═══════════════════════════════════════════════════
+         SCENE 0 — Cover (0–1500ms) STATIC
+    ═══════════════════════════════════════════════════ -->
+    <div id="s0" class="scene">
+      <!-- Ambient background glow -->
+      <div style="position:absolute;top:0;left:0;width:100%;height:100%;
+        background:radial-gradient(ellipse 600px 300px at 50% 38%, rgba(201,168,76,0.06) 0%, rgba(10,16,32,0) 70%);
+        pointer-events:none;"></div>
+      <div style="position:absolute;top:0;left:0;width:100%;height:100%;
+        background:radial-gradient(ellipse 600px 300px at 50% 62%, rgba(201,168,76,0.06) 0%, rgba(10,16,32,0) 70%);
+        pointer-events:none;"></div>
+
+      <div id="s0-ahad-top">أَحَدٌ</div>
+
+      <!-- Incomplete arc: semicircle opening downward, anticipating the ring -->
+      <svg id="s0-arc" width="700" height="700" viewBox="0 0 700 700">
+        <path
+          id="s0-arc-path"
+          d="M 100,350 A 250,250 0 0,1 600,350"
+          fill="none"
+          stroke="#c9a84c"
+          stroke-width="2.5"
+          stroke-linecap="round"
+          stroke-dasharray="600"
+          stroke-dashoffset="600"
+          opacity="0.55"
+        />
+      </svg>
+
+      <div id="s0-center-glow"></div>
+      <div id="s0-label">112 · Al-Ikhlas</div>
+      <div id="s0-ahad-bot">أَحَدٌ</div>
+
+      <div class="brand">AyahGuide</div>
+    </div>
+
+    <!-- ═══════════════════════════════════════════════════
+         SCENE 1 — The Question (1500–5500ms)
+    ═══════════════════════════════════════════════════ -->
+    <div id="s1" class="scene">
+      <div style="position:absolute;top:0;left:0;width:100%;height:100%;
+        background:radial-gradient(ellipse 700px 400px at 50% 50%, rgba(201,168,76,0.04) 0%, rgba(10,16,32,0) 70%);
+        pointer-events:none;"></div>
+
+      <div class="scene-content">
+        <div id="s1-question">
+          "They asked the Prophet:<br>describe your Lord's lineage."
+        </div>
+
+        <!-- Family tree SVG -->
+        <div id="s1-tree-wrap">
+          <svg id="s1-tree" viewBox="0 0 600 560" xmlns="http://www.w3.org/2000/svg">
+            <!-- Central node — hollow circle waiting to be filled -->
+            <circle id="s1-central" cx="300" cy="280" r="32" fill="none" stroke="#c9a84c" stroke-width="2.5" opacity="0.9"/>
+
+            <!-- Ancestor branches — upward (x2 left, x2 right) -->
+            <line id="s1-anc-trunk" x1="300" y1="248" x2="300" y2="160" stroke="#5a5448" stroke-width="2" stroke-linecap="round"/>
+            <line id="s1-anc-left1" x1="300" y1="160" x2="160" y2="80" stroke="#5a5448" stroke-width="2" stroke-linecap="round"/>
+            <line id="s1-anc-right1" x1="300" y1="160" x2="440" y2="80" stroke="#5a5448" stroke-width="2" stroke-linecap="round"/>
+            <circle id="s1-anc-left1-node" cx="160" cy="64" r="14" fill="none" stroke="#5a5448" stroke-width="1.5"/>
+            <circle id="s1-anc-right1-node" cx="440" cy="64" r="14" fill="none" stroke="#5a5448" stroke-width="1.5"/>
+            <text id="s1-anc-label" x="300" y="40" text-anchor="middle" font-family="Spectral, serif" font-size="28" fill="#5a5448" font-style="italic">Who came before?</text>
+
+            <!-- Offspring branches — downward (x2 left, x2 right) -->
+            <line id="s1-off-trunk" x1="300" y1="312" x2="300" y2="400" stroke="#5a5448" stroke-width="2" stroke-linecap="round"/>
+            <line id="s1-off-left1" x1="300" y1="400" x2="160" y2="480" stroke="#5a5448" stroke-width="2" stroke-linecap="round"/>
+            <line id="s1-off-right1" x1="300" y1="400" x2="440" y2="480" stroke="#5a5448" stroke-width="2" stroke-linecap="round"/>
+            <circle id="s1-off-left1-node" cx="160" cy="496" r="14" fill="none" stroke="#5a5448" stroke-width="1.5"/>
+            <circle id="s1-off-right1-node" cx="440" cy="496" r="14" fill="none" stroke="#5a5448" stroke-width="1.5"/>
+            <text id="s1-off-label" x="300" y="548" text-anchor="middle" font-family="Spectral, serif" font-size="28" fill="#5a5448" font-style="italic">Who came after?</text>
+          </svg>
+        </div>
+      </div>
+
+      <div class="brand">AyahGuide</div>
+    </div>
+
+    <!-- ═══════════════════════════════════════════════════
+         SCENE 2 — Strip 1: Al-Samad (5500–9500ms)
+    ═══════════════════════════════════════════════════ -->
+    <div id="s2" class="scene">
+      <div style="position:absolute;top:0;left:0;width:100%;height:100%;
+        background:radial-gradient(ellipse 500px 500px at 50% 50%, rgba(201,168,76,0.05) 0%, rgba(10,16,32,0) 70%);
+        pointer-events:none;"></div>
+
+      <div class="scene-content">
+        <div id="s2-ayah">ٱللَّهُ ٱلصَّمَدُ</div>
+
+        <div id="s2-english">
+          "The one to whom all needs are directed.<br>The impenetrable."
+        </div>
+
+        <!-- Sealing circle SVG -->
+        <div id="s2-seal-wrap">
+          <svg id="s2-seal-svg" width="160" height="160" viewBox="0 0 160 160">
+            <!-- Hollow outer ring that seals inward -->
+            <circle id="s2-hollow" cx="80" cy="80" r="60" fill="none" stroke="#5a5448" stroke-width="3" opacity="0.6"/>
+            <!-- The contracting fill circle — starts hollow (r=0) and expands to show sealing -->
+            <circle id="s2-fill" cx="80" cy="80" r="0" fill="#c9a84c" opacity="0"/>
+            <!-- Outer ring that contracts -->
+            <circle id="s2-outer-ring" cx="80" cy="80" r="60" fill="none" stroke="#c9a84c" stroke-width="2.5" opacity="0"/>
+          </svg>
+        </div>
+
+        <div id="s2-note">
+          al-Ṣamad — every consonant closes the mouth.<br>The word itself sounds sealed.
+        </div>
+      </div>
+
+      <div class="brand">AyahGuide</div>
+    </div>
+
+    <!-- ═══════════════════════════════════════════════════
+         SCENE 3 — Strip 2: Lam Yalid (9500–14000ms)
+    ═══════════════════════════════════════════════════ -->
+    <div id="s3" class="scene">
+      <div style="position:absolute;top:0;left:0;width:100%;height:100%;
+        background:radial-gradient(ellipse 600px 400px at 50% 45%, rgba(201,168,76,0.04) 0%, rgba(10,16,32,0) 70%);
+        pointer-events:none;"></div>
+
+      <div class="scene-content">
+        <!-- Greyed family tree — branches will be cut -->
+        <div id="s3-tree-wrap">
+          <svg id="s3-tree" viewBox="0 0 600 480" xmlns="http://www.w3.org/2000/svg">
+            <circle id="s3-central" cx="300" cy="240" r="32" fill="none" stroke="#4a4840" stroke-width="2" opacity="0.5"/>
+
+            <!-- Ancestor (up) branches -->
+            <line id="s3-anc-trunk" x1="300" y1="208" x2="300" y2="140" stroke="#4a4840" stroke-width="2" stroke-linecap="round"/>
+            <line id="s3-anc-left" x1="300" y1="140" x2="160" y2="68" stroke="#4a4840" stroke-width="2" stroke-linecap="round"/>
+            <line id="s3-anc-right" x1="300" y1="140" x2="440" y2="68" stroke="#4a4840" stroke-width="2" stroke-linecap="round"/>
+            <circle cx="160" cy="54" r="12" fill="none" stroke="#4a4840" stroke-width="1.5" opacity="0.5"/>
+            <circle cx="440" cy="54" r="12" fill="none" stroke="#4a4840" stroke-width="1.5" opacity="0.5"/>
+
+            <!-- Offspring (down) branches — will be cut first -->
+            <g id="s3-off-group">
+              <line id="s3-off-trunk" x1="300" y1="272" x2="300" y2="340" stroke="#4a4840" stroke-width="2" stroke-linecap="round"/>
+              <line id="s3-off-left" x1="300" y1="340" x2="160" y2="412" stroke="#4a4840" stroke-width="2" stroke-linecap="round"/>
+              <line id="s3-off-right" x1="300" y1="340" x2="440" y2="412" stroke="#4a4840" stroke-width="2" stroke-linecap="round"/>
+              <circle cx="160" cy="426" r="12" fill="none" stroke="#4a4840" stroke-width="1.5" opacity="0.5"/>
+              <circle cx="440" cy="426" r="12" fill="none" stroke="#4a4840" stroke-width="1.5" opacity="0.5"/>
+            </g>
+          </svg>
+        </div>
+
+        <div id="s3-ayah-offspring">لَمْ يَلِدْ</div>
+        <div id="s3-ayah-origin">وَلَمْ يُولَدْ</div>
+
+        <div id="s3-note">
+          No offspring / No origin. Same root, opposite voices. Complete closure.
+        </div>
+      </div>
+
+      <div class="brand">AyahGuide</div>
+    </div>
+
+    <!-- ═══════════════════════════════════════════════════
+         SCENE 4 — Strip 3: No Peer (14000–18000ms)
+    ═══════════════════════════════════════════════════ -->
+    <div id="s4" class="scene">
+      <div style="position:absolute;top:0;left:0;width:100%;height:100%;
+        background:radial-gradient(ellipse 500px 500px at 50% 50%, rgba(201,168,76,0.04) 0%, rgba(10,16,32,0) 70%);
+        pointer-events:none;"></div>
+
+      <div class="scene-content">
+        <div id="s4-ayah">وَلَمْ يَكُن لَّهُۥ كُفُوًا أَحَدٌ</div>
+
+        <!-- Three peer circles at 120° angles -->
+        <div id="s4-peers-wrap">
+          <svg id="s4-peers" width="400" height="400" viewBox="0 0 400 400">
+            <!-- Center — the One -->
+            <circle cx="200" cy="200" r="28" fill="#c9a84c" opacity="0.9"/>
+
+            <!-- Peer 1: top (0°) -->
+            <circle id="s4-peer1" cx="200" cy="60" r="22" fill="none" stroke="#5a5448" stroke-width="2" opacity="0.7"/>
+            <!-- Peer 2: bottom-left (120°) -->
+            <circle id="s4-peer2" cx="80" cy="318" r="22" fill="none" stroke="#5a5448" stroke-width="2" opacity="0.7"/>
+            <!-- Peer 3: bottom-right (240°) -->
+            <circle id="s4-peer3" cx="320" cy="318" r="22" fill="none" stroke="#5a5448" stroke-width="2" opacity="0.7"/>
+          </svg>
+        </div>
+
+        <div id="s4-note">
+          <span>كُفُوًا</span> — a peer, an equal.<br>None.
+        </div>
+      </div>
+
+      <div class="brand">AyahGuide</div>
+    </div>
+
+    <!-- ═══════════════════════════════════════════════════
+         SCENE 5 — Ring Closure (18000–26000ms)
+    ═══════════════════════════════════════════════════ -->
+    <div id="s5" class="scene">
+      <div style="position:absolute;top:0;left:0;width:100%;height:100%;
+        background:radial-gradient(ellipse 600px 600px at 50% 50%, rgba(201,168,76,0.06) 0%, rgba(10,16,32,0) 70%);
+        pointer-events:none;"></div>
+
+      <div id="s5-ahad-top">أَحَدٌ</div>
+
+      <!-- SVG ring — the arc draws from bottom to top, long way around -->
+      <svg id="s5-ring-svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+        <!--
+          Circle centered at (540, 960), radius 580.
+          We want to trace from bottom (540,1540) counterclockwise (long way) to top (540,380).
+          Using a path: M 540 1540 A 580 580 0 1 1 540 380
+          Arc length = π * 2 * 580 ≈ 3644px. Set dasharray=3644, animate dashoffset 3644→0
+        -->
+        <path
+          id="s5-ring-path"
+          d="M 540,1540 A 580,580 0 1,1 540,380"
+          fill="none"
+          stroke="#c9a84c"
+          stroke-width="3"
+          stroke-linecap="round"
+          stroke-dasharray="3644"
+          stroke-dashoffset="3644"
+          opacity="0.85"
+        />
+      </svg>
+
+      <div id="s5-dot"></div>
+
+      <div class="brand" id="s5-brand">AyahGuide</div>
+    </div>
+
+    <!-- ═══════════════════════════════════════════════════
+         SCENE 6 — Insight + Fade (26000–36000ms)
+    ═══════════════════════════════════════════════════ -->
+    <div id="s6" class="scene">
+      <div style="position:absolute;top:0;left:0;width:100%;height:100%;
+        background:radial-gradient(ellipse 400px 400px at 50% 40%, rgba(201,168,76,0.05) 0%, rgba(10,16,32,0) 70%);
+        pointer-events:none;"></div>
+
+      <div class="scene-content">
+        <div id="s6-dot-anchor"></div>
+        <div id="s6-line1">ahad — not one of many.</div>
+        <div id="s6-line2">OFF the number line entirely.</div>
+        <div id="s6-line3">They asked about lineage.</div>
+        <div id="s6-line4">The surah dismantled the question.</div>
+      </div>
+
+      <div class="brand" id="s6-brand">AyahGuide</div>
+    </div>
+
+  </div><!-- /root -->
+
+  <script>
+    window.__timelines = window.__timelines || {};
+    const tl = gsap.timeline({ paused: true });
+
+    // ─── Seeded PRNG (mulberry32) for any pseudo-random values ────────────
+    function mulberry32(seed) {
+      return function() {
+        seed |= 0; seed = seed + 0x6D2B79F5 | 0;
+        let t = Math.imul(seed ^ seed >>> 15, 1 | seed);
+        t = t + Math.imul(t ^ t >>> 7, 61 | t) ^ t;
+        return ((t ^ t >>> 14) >>> 0) / 4294967296;
+      };
+    }
+
+    const TOTAL_MS = 36000;
+
+    // ═══════════════════════════════════════════════════════════
+    // SCENE 0 — Cover (0 – 1.5s)   ALL VISIBLE FROM t=0
+    // The s0 elements are already opacity:1 via CSS.
+    // We just animate the incomplete arc drawing in on cover.
+    // ═══════════════════════════════════════════════════════════
+    tl.to("#s0-arc-path", {
+      strokeDashoffset: 0,
+      duration: 1.2,
+      ease: "power2.out"
+    }, 0.1);
+
+    // Subtle pulse on the center glow
+    // (finite repeats — cap at scene duration / cycle)
+    tl.to("#s0-center-glow", {
+      scale: 1.3,
+      opacity: 0.18,
+      duration: 0.8,
+      ease: "sine.inOut",
+      repeat: 1,
+      yoyo: true
+    }, 0.0);
+
+    // ═══════════════════════════════════════════════════════════
+    // TRANSITION 0→1: blur crossfade calm at t=1.5s
+    // ═══════════════════════════════════════════════════════════
+    const T01 = 1.5;
+    tl.to("#s0", { filter: "blur(25px)", scale: 1.05, duration: 0.6, ease: "power1.in" }, T01);
+    tl.to("#s0", { opacity: 0, duration: 0.4, ease: "power1.in" }, T01 + 0.4);
+    tl.fromTo("#s1",
+      { filter: "blur(25px)", scale: 0.95, opacity: 0 },
+      { filter: "blur(25px)", scale: 0.95, opacity: 1, duration: 0.3, ease: "power1.inOut" },
+      T01 + 0.5
+    );
+    tl.to("#s1", { filter: "blur(0px)", scale: 1, duration: 0.6, ease: "power1.out" }, T01 + 0.8);
+
+    // ═══════════════════════════════════════════════════════════
+    // SCENE 1 — The Question (1.5s – 5.5s)
+    // Entrance animations
+    // ═══════════════════════════════════════════════════════════
+    const S1_IN = T01 + 1.1; // ~2.6s
+    tl.from("#s1-question", { y: 50, opacity: 0, duration: 0.7, ease: "power3.out" }, S1_IN);
+
+    // Family tree draws in line by line
+    // Set all lines to visible but length=0 via strokeDashoffset
+    // We'll use clipPath via scaleY instead — animate each line's scaleY from 0
+    tl.from("#s1-anc-trunk", { scaleY: 0, transformOrigin: "300px 248px", duration: 0.4, ease: "power2.out" }, S1_IN + 0.5);
+    tl.from("#s1-anc-left1", { scaleY: 0, scaleX: 0, transformOrigin: "300px 160px", duration: 0.4, ease: "power2.out" }, S1_IN + 0.7);
+    tl.from("#s1-anc-right1", { scaleY: 0, scaleX: 0, transformOrigin: "300px 160px", duration: 0.4, ease: "power2.out" }, S1_IN + 0.75);
+    tl.from("#s1-anc-left1-node", { scale: 0, transformOrigin: "160px 64px", opacity: 0, duration: 0.3, ease: "back.out(2)" }, S1_IN + 1.0);
+    tl.from("#s1-anc-right1-node", { scale: 0, transformOrigin: "440px 64px", opacity: 0, duration: 0.3, ease: "back.out(2)" }, S1_IN + 1.05);
+    tl.from("#s1-anc-label", { opacity: 0, y: -10, duration: 0.4, ease: "power2.out" }, S1_IN + 1.1);
+
+    tl.from("#s1-off-trunk", { scaleY: 0, transformOrigin: "300px 312px", duration: 0.4, ease: "power2.out" }, S1_IN + 0.9);
+    tl.from("#s1-off-left1", { scaleY: 0, scaleX: 0, transformOrigin: "300px 400px", duration: 0.4, ease: "power2.out" }, S1_IN + 1.1);
+    tl.from("#s1-off-right1", { scaleY: 0, scaleX: 0, transformOrigin: "300px 400px", duration: 0.4, ease: "power2.out" }, S1_IN + 1.15);
+    tl.from("#s1-off-left1-node", { scale: 0, transformOrigin: "160px 496px", opacity: 0, duration: 0.3, ease: "back.out(2)" }, S1_IN + 1.4);
+    tl.from("#s1-off-right1-node", { scale: 0, transformOrigin: "440px 496px", opacity: 0, duration: 0.3, ease: "back.out(2)" }, S1_IN + 1.45);
+    tl.from("#s1-off-label", { opacity: 0, y: 10, duration: 0.4, ease: "power2.out" }, S1_IN + 1.5);
+    tl.from("#s1-central", { scale: 0, transformOrigin: "300px 280px", opacity: 0, duration: 0.5, ease: "elastic.out(1.2,0.5)" }, S1_IN + 0.3);
+
+    // ═══════════════════════════════════════════════════════════
+    // TRANSITION 1→2: focus pull at t=5.5s
+    // ═══════════════════════════════════════════════════════════
+    const T12 = 5.5;
+    tl.to("#s1", { filter: "blur(30px)", duration: 0.8, ease: "power1.in" }, T12);
+    tl.to("#s1", { opacity: 0, duration: 0.5, ease: "power1.in" }, T12 + 0.6);
+    tl.fromTo("#s2",
+      { opacity: 0, filter: "blur(20px)" },
+      { opacity: 1, filter: "blur(20px)", duration: 0.3, ease: "power1.inOut" },
+      T12 + 0.7
+    );
+    tl.to("#s2", { filter: "blur(0px)", duration: 0.6, ease: "power1.out" }, T12 + 1.0);
+
+    // ═══════════════════════════════════════════════════════════
+    // SCENE 2 — Al-Samad (5.5s – 9.5s)
+    // ═══════════════════════════════════════════════════════════
+    const S2_IN = T12 + 1.2; // ~6.7s
+    tl.from("#s2-ayah", { y: 60, opacity: 0, duration: 0.7, ease: "power3.out" }, S2_IN);
+    tl.from("#s2-english", { y: 40, opacity: 0, duration: 0.6, ease: "power2.out" }, S2_IN + 0.3);
+
+    // Sealing animation: hollow ring appears, then contracts to a gold point
+    const SEAL_START = S2_IN + 0.6;
+    tl.fromTo("#s2-outer-ring",
+      { opacity: 0 },
+      { opacity: 0.8, duration: 0.3, ease: "power2.out" },
+      SEAL_START
+    );
+    // Contract the ring to radius 0 — animate r via attr
+    tl.to("#s2-outer-ring", {
+      attr: { r: 0 },
+      duration: 1.4,
+      ease: "power3.in"
+    }, SEAL_START + 0.3);
+    // Fill point expands as ring contracts
+    tl.to("#s2-fill", {
+      attr: { r: 8 },
+      opacity: 1,
+      duration: 0.6,
+      ease: "power3.out"
+    }, SEAL_START + 1.4);
+
+    tl.from("#s2-note", { y: 30, opacity: 0, duration: 0.6, ease: "sine.out" }, SEAL_START + 1.6);
+
+    // ═══════════════════════════════════════════════════════════
+    // TRANSITION 2→3: blur crossfade at t=9.5s
+    // ═══════════════════════════════════════════════════════════
+    const T23 = 9.5;
+    tl.to("#s2", { filter: "blur(25px)", scale: 1.05, duration: 0.6, ease: "power1.in" }, T23);
+    tl.to("#s2", { opacity: 0, duration: 0.4, ease: "power1.in" }, T23 + 0.4);
+    tl.fromTo("#s3",
+      { filter: "blur(25px)", scale: 0.95, opacity: 0 },
+      { filter: "blur(25px)", scale: 0.95, opacity: 1, duration: 0.3, ease: "power1.inOut" },
+      T23 + 0.5
+    );
+    tl.to("#s3", { filter: "blur(0px)", scale: 1, duration: 0.6, ease: "power1.out" }, T23 + 0.8);
+
+    // ═══════════════════════════════════════════════════════════
+    // SCENE 3 — Lam Yalid (9.5s – 14.0s)
+    // ═══════════════════════════════════════════════════════════
+    const S3_IN = T23 + 1.1; // ~10.6s
+    tl.from("#s3-tree-wrap", { opacity: 0, duration: 0.5, ease: "power2.out" }, S3_IN);
+    tl.from("#s3-ayah-offspring", { x: -40, opacity: 0, duration: 0.6, ease: "expo.out" }, S3_IN + 0.3);
+
+    // Cut offspring branches — each line shrinks to 0 from bottom tip
+    const CUT_OFF = S3_IN + 0.8;
+    tl.to("#s3-off-right", { scaleY: 0, scaleX: 0, transformOrigin: "300px 340px", duration: 0.45, ease: "power3.in" }, CUT_OFF);
+    tl.to("#s3-off-left", { scaleY: 0, scaleX: 0, transformOrigin: "300px 340px", duration: 0.45, ease: "power3.in" }, CUT_OFF + 0.1);
+    tl.to("#s3-off-trunk", { scaleY: 0, transformOrigin: "300px 312px", duration: 0.35, ease: "power3.in" }, CUT_OFF + 0.4);
+
+    tl.from("#s3-ayah-origin", { x: 40, opacity: 0, duration: 0.6, ease: "expo.out" }, CUT_OFF + 0.6);
+
+    // Cut ancestor branches
+    const CUT_ANC = CUT_OFF + 0.9;
+    tl.to("#s3-anc-right", { scaleY: 0, scaleX: 0, transformOrigin: "300px 140px", duration: 0.45, ease: "power3.in" }, CUT_ANC);
+    tl.to("#s3-anc-left", { scaleY: 0, scaleX: 0, transformOrigin: "300px 140px", duration: 0.45, ease: "power3.in" }, CUT_ANC + 0.1);
+    tl.to("#s3-anc-trunk", { scaleY: 0, transformOrigin: "300px 240px", duration: 0.35, ease: "power3.in" }, CUT_ANC + 0.4);
+
+    tl.from("#s3-note", { y: 30, opacity: 0, duration: 0.6, ease: "sine.out" }, CUT_ANC + 0.6);
+
+    // ═══════════════════════════════════════════════════════════
+    // TRANSITION 3→4: focus pull at t=14.0s
+    // ═══════════════════════════════════════════════════════════
+    const T34 = 14.0;
+    tl.to("#s3", { filter: "blur(30px)", duration: 0.8, ease: "power1.in" }, T34);
+    tl.to("#s3", { opacity: 0, duration: 0.5, ease: "power1.in" }, T34 + 0.6);
+    tl.fromTo("#s4",
+      { opacity: 0, filter: "blur(20px)" },
+      { opacity: 1, filter: "blur(20px)", duration: 0.3, ease: "power1.inOut" },
+      T34 + 0.7
+    );
+    tl.to("#s4", { filter: "blur(0px)", duration: 0.6, ease: "power1.out" }, T34 + 1.0);
+
+    // ═══════════════════════════════════════════════════════════
+    // SCENE 4 — No Peer (14.0s – 18.0s)
+    // ═══════════════════════════════════════════════════════════
+    const S4_IN = T34 + 1.1; // ~15.1s
+    tl.from("#s4-ayah", { y: 50, opacity: 0, duration: 0.7, ease: "power3.out" }, S4_IN);
+    tl.from("#s4-peers-wrap", { scale: 0.85, opacity: 0, duration: 0.5, ease: "power2.out" }, S4_IN + 0.3);
+
+    // Peers appear, then dissolve one by one
+    const PEER_START = S4_IN + 0.5;
+    tl.from("#s4-peer1", { scale: 0, transformOrigin: "200px 60px", opacity: 0, duration: 0.4, ease: "back.out(1.5)" }, PEER_START);
+    tl.from("#s4-peer2", { scale: 0, transformOrigin: "80px 318px", opacity: 0, duration: 0.4, ease: "back.out(1.5)" }, PEER_START + 0.15);
+    tl.from("#s4-peer3", { scale: 0, transformOrigin: "320px 318px", opacity: 0, duration: 0.4, ease: "back.out(1.5)" }, PEER_START + 0.3);
+
+    // Dissolve peers like smoke — scale up + fade
+    const PEER_DISS = PEER_START + 0.8;
+    tl.to("#s4-peer1", { scale: 2.5, opacity: 0, transformOrigin: "200px 60px", duration: 0.7, ease: "power2.out" }, PEER_DISS);
+    tl.to("#s4-peer2", { scale: 2.5, opacity: 0, transformOrigin: "80px 318px", duration: 0.7, ease: "power2.out" }, PEER_DISS + 0.2);
+    tl.to("#s4-peer3", { scale: 2.5, opacity: 0, transformOrigin: "320px 318px", duration: 0.7, ease: "power2.out" }, PEER_DISS + 0.4);
+
+    tl.from("#s4-note", { y: 30, opacity: 0, duration: 0.6, ease: "sine.out" }, PEER_DISS + 0.6);
+
+    // ═══════════════════════════════════════════════════════════
+    // TRANSITION 4→5: crossfade at t=18.0s
+    // ═══════════════════════════════════════════════════════════
+    const T45 = 18.0;
+    tl.to("#s4", { filter: "blur(25px)", scale: 1.05, duration: 0.6, ease: "power1.in" }, T45);
+    tl.to("#s4", { opacity: 0, duration: 0.4, ease: "power1.in" }, T45 + 0.4);
+    tl.fromTo("#s5",
+      { filter: "blur(25px)", scale: 0.95, opacity: 0 },
+      { filter: "blur(25px)", scale: 0.95, opacity: 1, duration: 0.3, ease: "power1.inOut" },
+      T45 + 0.5
+    );
+    tl.to("#s5", { filter: "blur(0px)", scale: 1, duration: 0.6, ease: "power1.out" }, T45 + 0.8);
+
+    // ═══════════════════════════════════════════════════════════
+    // SCENE 5 — Ring Closure (18.0s – 26.0s)
+    // ═══════════════════════════════════════════════════════════
+    const S5_IN = T45 + 1.1; // ~19.1s
+
+    // The two ahad instances entrance
+    tl.from("#s5-ahad-top", { y: -60, opacity: 0, duration: 0.8, ease: "power3.out" }, S5_IN);
+    tl.from("#s5-ahad-bot", { y: 60, opacity: 0, duration: 0.8, ease: "power3.out" }, S5_IN + 0.1);
+
+    // Arc drawing starts after both settle — ARC_START ≈ 19.9s
+    // Arc length ≈ 3644px drawn linearly over 3.8s → viewer watches every inch.
+    // Completes at 19.9 + 3.8 = 23.7s. Hold ring 1.3s → contraction at 25.0s.
+    const ARC_START = S5_IN + 0.8; // 19.9s
+    tl.to("#s5-ring-path", {
+      strokeDashoffset: 0,
+      duration: 3.8,
+      ease: "none"
+    }, ARC_START);
+
+    // Contraction: both ahad move toward center y=960.
+    // Top ahad sits near top: 220px top → move down ~530px.
+    // Bottom ahad sits near bottom: 220px bottom → move up ~530px.
+    const CONTRACT_START = 25.0; // ring complete + 1.3s hold
+    tl.to("#s5-ahad-top", { y: 530, duration: 2.5, ease: "power2.inOut" }, CONTRACT_START);
+    tl.to("#s5-ahad-bot", { y: -530, duration: 2.5, ease: "power2.inOut" }, CONTRACT_START);
+
+    // They converge at ~25.0 + 1.25 = 26.25s (midpoint). Flash just before scene transition.
+    // Dot flash at ~25.8s
+    tl.fromTo("#s5-dot", { xPercent: -50, yPercent: -50, opacity: 0 }, { xPercent: -50, yPercent: -50, opacity: 1, scale: 4, duration: 0.15, ease: "power4.out" }, 25.8);
+    tl.to("#s5-dot", { xPercent: -50, yPercent: -50, scale: 1, duration: 0.4, ease: "power3.in" }, 25.95);
+
+    // ═══════════════════════════════════════════════════════════
+    // TRANSITION 5→6: color dip at t=26.0s
+    // ═══════════════════════════════════════════════════════════
+    const T56 = 26.0;
+    tl.to("#s5", { opacity: 0, duration: 0.3, ease: "power2.in" }, T56);
+    tl.fromTo("#s6", { opacity: 0 }, { opacity: 1, duration: 0.3, ease: "power2.out" }, T56 + 0.3);
+
+    // ═══════════════════════════════════════════════════════════
+    // SCENE 6 — Insight + Fade (26.0s – 36.0s)
+    // ═══════════════════════════════════════════════════════════
+    const S6_IN = T56 + 0.4; // ~26.4s
+
+    // Pulsing dot — finite: (36 - 26.4) / 1.0 = ~9.6 cycles, use 9
+    tl.to("#s6-dot-anchor", {
+      scale: 1.6,
+      boxShadow: "0 0 60px rgba(201,168,76,1), 0 0 100px rgba(201,168,76,0.5)",
+      duration: 0.5,
+      ease: "sine.inOut",
+      repeat: 9,
+      yoyo: true
+    }, S6_IN);
+
+    // Lines appear with staggered timing per brief
+    tl.from("#s6-line1", { y: 40, opacity: 0, duration: 0.7, ease: "power3.out" }, 26.5);
+    tl.from("#s6-line2", { y: 40, opacity: 0, duration: 0.7, ease: "expo.out" }, 28.0);
+    tl.from("#s6-line3", { x: -30, opacity: 0, duration: 0.6, ease: "power2.out" }, 30.0);
+    tl.from("#s6-line4", { y: 30, opacity: 0, duration: 0.7, ease: "power3.out" }, 31.5);
+
+    // Fade to black over last 1.5s — final scene exit allowed
+    // Text fades, then dot is last
+    tl.to(["#s6-line1","#s6-line2","#s6-line3","#s6-line4","#s6-brand"], {
+      opacity: 0,
+      duration: 1.0,
+      ease: "power2.in",
+      stagger: 0.05
+    }, 34.5);
+    // Dot is last to fade
+    tl.to("#s6-dot-anchor", {
+      opacity: 0,
+      scale: 0.5,
+      duration: 0.8,
+      ease: "power3.in"
+    }, 35.2);
+
+    // ─── Register ─────────────────────────────────────────────
+    window.__timelines["ikhlas-ring"] = tl;
+    window.TOTAL_MS = TOTAL_MS;
+    window.setAnimTime = function(ms) { tl.seek(ms / 1000); };
+  </script>
+</body>
+</html>

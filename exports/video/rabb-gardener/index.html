@@ -1,0 +1,455 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=1080, height=1920" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&family=Playfair+Display:ital,wght@0,400;0,600;1,400;1,600&family=Inter:wght@300;400;500&display=swap"
+      rel="stylesheet"
+    />
+    <script src="https://cdn.jsdelivr.net/npm/gsap@3.14.2/dist/gsap.min.js"></script>
+    <style>
+      * { margin: 0; padding: 0; box-sizing: border-box; }
+      html, body {
+        width: 1080px;
+        height: 1920px;
+        overflow: hidden;
+        background: #0f172a;     /* On-theme — AyahGuide dark navy */
+        font-family: "Inter", system-ui, sans-serif;
+      }
+
+      /* Subtle gold gradient overlay for atmospheric depth */
+      .paper-texture {
+        position: absolute;
+        inset: 0;
+        background:
+          radial-gradient(ellipse at 30% 20%, rgba(201,168,76,0.05) 0%, transparent 55%),
+          radial-gradient(ellipse at 70% 80%, rgba(201,168,76,0.03) 0%, transparent 50%);
+        pointer-events: none;
+        z-index: 1;
+      }
+
+      /* ───── Scene container ───────────────────────────────── */
+      .scene {
+        position: absolute;
+        inset: 0;
+        width: 100%;
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding: 160px 80px;
+        gap: 48px;
+        overflow: hidden;
+        z-index: 2;
+      }
+      #s2, #s3, #s4 { opacity: 0; filter: blur(20px); }
+
+      /* ───── Background atmosphere ────────────────────────── */
+      .bg-glow {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        width: 1100px;
+        height: 1100px;
+        border-radius: 50%;
+        background: radial-gradient(circle, rgba(201,168,76,0.13) 0%, rgba(201,168,76,0) 65%);
+        pointer-events: none;
+      }
+
+      /* Oversized faded ghost letter */
+      .ghost-letter {
+        position: absolute;
+        font-family: "Amiri", Georgia, serif;
+        font-size: 1500px;
+        line-height: 1;
+        color: rgba(201,168,76,0.04);
+        pointer-events: none;
+        user-select: none;
+        direction: rtl;
+      }
+
+      /* ───── Scene 1: Arabic word held ─────────────────────── */
+      #s1-label {
+        font-family: "Inter", system-ui, sans-serif;
+        font-weight: 400;
+        font-size: 36px;
+        color: rgba(201,168,76,0.55);
+        letter-spacing: 0.32em;
+        text-transform: uppercase;
+      }
+      #s1-arabic {
+        font-family: "Amiri", Georgia, serif;
+        font-weight: 700;
+        font-size: 320px;
+        line-height: 1.0;
+        color: rgba(201,168,76,0.92);
+        direction: rtl;
+        text-shadow:
+          0 0 60px rgba(201,168,76,0.18),
+          0 0 140px rgba(201,168,76,0.08);
+      }
+      .gold-rule {
+        width: 88px;
+        height: 1px;
+        background: rgba(201,168,76,0.85);
+      }
+      #s1-translit {
+        font-family: "Playfair Display", Georgia, serif;
+        font-style: italic;
+        font-size: 56px;
+        color: #f5f1e8;
+      }
+
+      /* ───── Scene 2: Translation Betrayal ─────────────────── */
+      #s2-arabic {
+        font-family: "Amiri", Georgia, serif;
+        font-weight: 700;
+        font-size: 200px;
+        line-height: 1.0;
+        color: rgba(201,168,76,0.92);
+        direction: rtl;
+        text-shadow: 0 0 80px rgba(201,168,76,0.12);
+      }
+      #s2-equals {
+        font-family: "Playfair Display", Georgia, serif;
+        font-weight: 400;
+        font-size: 36px;
+        color: rgba(201,168,76,0.85);
+        letter-spacing: 0.2em;
+      }
+      .strike-wrap {
+        position: relative;
+        display: inline-block;
+        padding: 0 16px;
+      }
+      #s2-old {
+        font-family: "Playfair Display", Georgia, serif;
+        font-weight: 600;
+        font-size: 96px;
+        color: #f5f1e8;
+        font-style: italic;
+        letter-spacing: -0.005em;
+      }
+      #s2-strike {
+        position: absolute;
+        top: 50%;
+        left: -8px;
+        right: -8px;
+        height: 4px;
+        background: rgba(201,168,76,0.95);
+        transform: scaleX(0);
+        transform-origin: left;
+        margin-top: -2px;
+      }
+      #s2-not {
+        font-family: "Inter", system-ui, sans-serif;
+        font-weight: 400;
+        font-size: 38px;
+        letter-spacing: 0.32em;
+        color: rgba(245,241,232,0.55);
+        text-transform: uppercase;
+      }
+
+      /* ───── Scene 3: The replacement word ─────────────────── */
+      #s3-arabic-small {
+        font-family: "Amiri", Georgia, serif;
+        font-weight: 700;
+        font-size: 140px;
+        color: rgba(201,168,76,0.55);
+        direction: rtl;
+        line-height: 1.0;
+      }
+      #s3-equals {
+        font-family: "Playfair Display", Georgia, serif;
+        font-weight: 400;
+        font-size: 36px;
+        color: rgba(201,168,76,0.85);
+        letter-spacing: 0.2em;
+      }
+      #s3-new {
+        font-family: "Playfair Display", Georgia, serif;
+        font-weight: 600;
+        font-style: italic;
+        font-size: 130px;
+        line-height: 1.0;
+        color: #f5f1e8;
+        text-align: center;
+        letter-spacing: -0.005em;
+      }
+      #s3-meaning {
+        font-family: "Inter", system-ui, sans-serif;
+        font-weight: 300;
+        font-size: 40px;
+        line-height: 1.55;
+        color: rgba(245,241,232,0.78);
+        max-width: 760px;
+        text-align: center;
+        margin-top: 20px;
+      }
+      #s3-meaning .stress {
+        color: rgba(201,168,76,0.95);
+        font-weight: 500;
+      }
+
+      /* ───── Scene 4: Sting + brand ────────────────────────── */
+      #s4-line {
+        font-family: "Playfair Display", Georgia, serif;
+        font-weight: 400;
+        font-style: italic;
+        font-size: 76px;
+        line-height: 1.22;
+        color: #f5f1e8;
+        text-align: center;
+        max-width: 880px;
+        letter-spacing: -0.005em;
+      }
+      #s4-line .stress {
+        color: rgba(201,168,76,0.95);
+        font-style: normal;
+        font-weight: 600;
+      }
+      #s4-source {
+        font-family: "Inter", system-ui, sans-serif;
+        font-weight: 400;
+        font-size: 36px;
+        color: rgba(245,241,232,0.55);
+        letter-spacing: 0.2em;
+        text-transform: uppercase;
+        margin-top: 24px;
+      }
+      #s4-brand {
+        font-family: "Playfair Display", Georgia, serif;
+        font-weight: 600;
+        font-size: 56px;
+        color: #f5f1e8;
+        margin-top: 60px;
+      }
+      #s4-handle {
+        font-family: "Inter", system-ui, sans-serif;
+        font-weight: 400;
+        font-size: 36px;
+        color: rgba(201,168,76,0.85);
+        letter-spacing: 0.18em;
+      }
+
+      /* ───── Persistent frame design (on-theme — gold on dark navy) ── */
+      #frame-design {
+        position: absolute;
+        inset: 0;
+        pointer-events: none;
+        z-index: 30;
+      }
+      #frame-border {
+        position: absolute;
+        top: 28px; left: 28px; right: 28px; bottom: 28px;
+        border: 1px solid rgba(201,168,76,0.28);
+      }
+      .corner-svg {
+        position: absolute;
+        width: 88px;
+        height: 88px;
+      }
+      .corner-svg.tl { top: 28px;  left: 28px; }
+      .corner-svg.tr { top: 28px;  right: 28px;  transform: scaleX(-1); }
+      .corner-svg.bl { bottom: 28px; left: 28px;  transform: scaleY(-1); }
+      .corner-svg.br { bottom: 28px; right: 28px; transform: scale(-1,-1); }
+      .side-mark {
+        position: absolute;
+        width: 6px;
+        height: 6px;
+        transform: rotate(45deg);
+        border: 1px solid rgba(201,168,76,0.45);
+      }
+      .side-mark.top    { top: 25px;    left: 50%; margin-left: -3px; }
+      .side-mark.bottom { bottom: 25px; left: 50%; margin-left: -3px; }
+      .side-mark.left   { left: 25px;   top: 50%;  margin-top: -3px; }
+      .side-mark.right  { right: 25px;  top: 50%;  margin-top: -3px; }
+    </style>
+  </head>
+  <body>
+    <div
+      id="root"
+      data-composition-id="main"
+      data-start="0"
+      data-duration="14"
+      data-width="1080"
+      data-height="1920"
+    >
+      <div class="paper-texture"></div>
+      <!-- ───────────── Scene 1: رَبّ ───────────── -->
+      <div id="s1" class="scene">
+        <div class="bg-glow"></div>
+        <div id="s1-label">an arabic word</div>
+        <div id="s1-arabic">رَبّ</div>
+        <div class="gold-rule"></div>
+        <div id="s1-translit">"Rabb."</div>
+      </div>
+
+      <!-- ───────────── Scene 2: Lord — strikethrough ───────────── -->
+      <div id="s2" class="scene">
+        <div class="bg-glow"></div>
+        <div id="s2-arabic">رَبّ</div>
+        <div id="s2-equals">— translated as —</div>
+        <div class="strike-wrap">
+          <span id="s2-old">"Lord"</span>
+          <div id="s2-strike"></div>
+        </div>
+        <div id="s2-not">— but the root doesn't say that.</div>
+      </div>
+
+      <!-- ───────────── Scene 3: The replacement ───────────── -->
+      <div id="s3" class="scene" style="gap: 32px;">
+        <div class="bg-glow"></div>
+        <div id="s3-arabic-small">رَبّ</div>
+        <div id="s3-equals">— what the root means —</div>
+        <div id="s3-new">the cultivator.</div>
+        <div id="s3-meaning">
+          <span class="stress">r-b-b</span> — to grow, to nourish, to raise something stage by stage to the point of its completion.
+        </div>
+      </div>
+
+      <!-- ───────────── Scene 4: Sting + brand ───────────── -->
+      <div id="s4" class="scene">
+        <div class="bg-glow"></div>
+        <div id="s4-line">
+          You weren't created by a king.<br/>
+          You were <span class="stress">grown</span> by a gardener.
+        </div>
+        <div id="s4-source">— Lane's Lexicon · Mufradāt al-Rāghib</div>
+        <div class="gold-rule"></div>
+        <div id="s4-brand">AyahGuide</div>
+        <div id="s4-handle">ayahguide.com</div>
+      </div>
+
+      <!-- ── Frame design (inverted, navy ink lines on cream) ── -->
+      <div id="frame-design">
+        <div id="frame-border"></div>
+        <svg class="corner-svg tl" viewBox="0 0 88 88" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <rect x="6" y="6" width="38" height="38" stroke="rgba(201,168,76,0.6)" stroke-width="1.2"/>
+          <rect x="6" y="6" width="38" height="38" stroke="rgba(201,168,76,0.6)" stroke-width="1.2" transform="rotate(45 25 25)"/>
+          <circle cx="25" cy="25" r="3.5" stroke="rgba(201,168,76,0.85)" stroke-width="1" fill="none"/>
+          <circle cx="25" cy="25" r="1.2" fill="rgba(201,168,76,0.85)"/>
+          <line x1="44" y1="25" x2="88" y2="25" stroke="rgba(201,168,76,0.22)" stroke-width="1"/>
+          <line x1="25" y1="44" x2="25" y2="88" stroke="rgba(201,168,76,0.22)" stroke-width="1"/>
+        </svg>
+        <svg class="corner-svg tr" viewBox="0 0 88 88" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <rect x="6" y="6" width="38" height="38" stroke="rgba(201,168,76,0.6)" stroke-width="1.2"/>
+          <rect x="6" y="6" width="38" height="38" stroke="rgba(201,168,76,0.6)" stroke-width="1.2" transform="rotate(45 25 25)"/>
+          <circle cx="25" cy="25" r="3.5" stroke="rgba(201,168,76,0.85)" stroke-width="1" fill="none"/>
+          <circle cx="25" cy="25" r="1.2" fill="rgba(201,168,76,0.85)"/>
+          <line x1="44" y1="25" x2="88" y2="25" stroke="rgba(201,168,76,0.22)" stroke-width="1"/>
+          <line x1="25" y1="44" x2="25" y2="88" stroke="rgba(201,168,76,0.22)" stroke-width="1"/>
+        </svg>
+        <svg class="corner-svg bl" viewBox="0 0 88 88" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <rect x="6" y="6" width="38" height="38" stroke="rgba(201,168,76,0.6)" stroke-width="1.2"/>
+          <rect x="6" y="6" width="38" height="38" stroke="rgba(201,168,76,0.6)" stroke-width="1.2" transform="rotate(45 25 25)"/>
+          <circle cx="25" cy="25" r="3.5" stroke="rgba(201,168,76,0.85)" stroke-width="1" fill="none"/>
+          <circle cx="25" cy="25" r="1.2" fill="rgba(201,168,76,0.85)"/>
+          <line x1="44" y1="25" x2="88" y2="25" stroke="rgba(201,168,76,0.22)" stroke-width="1"/>
+          <line x1="25" y1="44" x2="25" y2="88" stroke="rgba(201,168,76,0.22)" stroke-width="1"/>
+        </svg>
+        <svg class="corner-svg br" viewBox="0 0 88 88" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <rect x="6" y="6" width="38" height="38" stroke="rgba(201,168,76,0.6)" stroke-width="1.2"/>
+          <rect x="6" y="6" width="38" height="38" stroke="rgba(201,168,76,0.6)" stroke-width="1.2" transform="rotate(45 25 25)"/>
+          <circle cx="25" cy="25" r="3.5" stroke="rgba(201,168,76,0.85)" stroke-width="1" fill="none"/>
+          <circle cx="25" cy="25" r="1.2" fill="rgba(201,168,76,0.85)"/>
+          <line x1="44" y1="25" x2="88" y2="25" stroke="rgba(201,168,76,0.22)" stroke-width="1"/>
+          <line x1="25" y1="44" x2="25" y2="88" stroke="rgba(201,168,76,0.22)" stroke-width="1"/>
+        </svg>
+        <div class="side-mark top"></div>
+        <div class="side-mark bottom"></div>
+        <div class="side-mark left"></div>
+        <div class="side-mark right"></div>
+      </div>
+
+      <!-- Audio bed: nasheed -->
+      <audio
+        id="audio-nasheed"
+        data-start="0"
+        data-duration="14"
+        data-track-index="5"
+        data-volume="0.55"
+        src="assets/nasheed.mp3"
+      ></audio>
+    </div>
+
+    <script>
+      window.__timelines = window.__timelines || {};
+      const tl = gsap.timeline({ paused: true });
+
+      // ─────────────────────────────────────────────────────
+      // SCENE 1 — رَبّ held (0.0 → 3.0)
+      // ─────────────────────────────────────────────────────
+      tl.from("#s1-label",    { opacity: 0, y: -12, duration: 0.7, ease: "sine.out" }, 0.25);
+      tl.from("#s1-arabic",   { opacity: 0, scale: 0.9, duration: 1.3, ease: "power3.out" }, 0.45);
+      tl.from("#s1 .gold-rule",   { scaleX: 0, opacity: 0, duration: 0.8, ease: "power2.inOut", transformOrigin: "center" }, 1.0);
+      tl.from("#s1-translit", { opacity: 0, y: 14, duration: 0.9, ease: "power2.out" }, 1.2);
+      // Ambient breath — starts AFTER entrance ends (1.75) so it doesn't conflict
+      tl.to("#s1-arabic",     { scale: 1.025, duration: 1.0, ease: "sine.inOut" }, 1.85);
+
+      // ─────── TRANSITION 1 (S1→S2) blur crossfade — 0.7s ───
+      const T1 = 3.0;
+      tl.to("#s1", { filter: "blur(22px)", scale: 1.04, opacity: 0, duration: 0.7, ease: "sine.inOut" }, T1);
+      tl.fromTo("#s2",
+        { filter: "blur(22px)", scale: 0.97, opacity: 0 },
+        { filter: "blur(0px)", scale: 1, opacity: 1, duration: 0.7, ease: "sine.inOut" },
+        T1
+      );
+
+      // ─────────────────────────────────────────────────────
+      // SCENE 2 — "Lord" strike-through (3.0 → 6.5)
+      // ─────────────────────────────────────────────────────
+      tl.from("#s2-arabic", { opacity: 0, scale: 0.92, duration: 0.85, ease: "power3.out" }, T1 + 0.25);
+      tl.from("#s2-equals", { opacity: 0, letterSpacing: "0.5em", duration: 0.7, ease: "power2.out" }, T1 + 0.65);
+      tl.from("#s2-old",    { opacity: 0, y: 14, duration: 0.7, ease: "power2.out" }, T1 + 0.95);
+      // The strike — appears AFTER "Lord" lands. The cross-out is the verb.
+      tl.to("#s2-strike",   { scaleX: 1, duration: 0.55, ease: "expo.out" }, T1 + 1.85);
+      tl.from("#s2-not",    { opacity: 0, y: 12, duration: 0.6, ease: "sine.out" }, T1 + 2.4);
+
+      // ─────── TRANSITION 2 (S2→S3) blur crossfade — 0.7s ───
+      const T2 = 6.5;
+      tl.to("#s2", { filter: "blur(22px)", scale: 1.04, opacity: 0, duration: 0.7, ease: "sine.inOut" }, T2);
+      tl.fromTo("#s3",
+        { filter: "blur(22px)", scale: 0.97, opacity: 0 },
+        { filter: "blur(0px)", scale: 1, opacity: 1, duration: 0.7, ease: "sine.inOut" },
+        T2
+      );
+
+      // ─────────────────────────────────────────────────────
+      // SCENE 3 — The replacement: "the cultivator" (6.5 → 10.0)
+      // ─────────────────────────────────────────────────────
+      tl.from("#s3-arabic-small", { opacity: 0, scale: 0.92, duration: 0.7, ease: "power3.out" }, T2 + 0.25);
+      tl.from("#s3-equals",       { opacity: 0, letterSpacing: "0.5em", duration: 0.7, ease: "power2.out" }, T2 + 0.55);
+      tl.from("#s3-new",          { opacity: 0, y: 24, duration: 0.95, ease: "power4.out" }, T2 + 0.9);
+      tl.from("#s3-meaning",      { opacity: 0, y: 14, duration: 0.85, ease: "power2.out" }, T2 + 1.55);
+
+      // ─────── TRANSITION 3 (S3→S4) gentle blur — 0.7s ───
+      const T3 = 10.0;
+      tl.to("#s3", { filter: "blur(20px)", scale: 1.04, opacity: 0, duration: 0.7, ease: "sine.inOut" }, T3);
+      tl.fromTo("#s4",
+        { filter: "blur(20px)", scale: 0.97, opacity: 0 },
+        { filter: "blur(0px)", scale: 1, opacity: 1, duration: 0.7, ease: "sine.inOut" },
+        T3
+      );
+
+      // ─────────────────────────────────────────────────────
+      // SCENE 4 — The sting + brand (10.0 → 14.0)
+      // ─────────────────────────────────────────────────────
+      tl.from("#s4-line",   { opacity: 0, y: 22, duration: 1.0, ease: "power4.out" }, T3 + 0.35);
+      tl.from("#s4-source", { opacity: 0, duration: 0.8, ease: "sine.out" }, T3 + 1.5);
+      tl.from("#s4 .gold-rule", { scaleX: 0, opacity: 0, duration: 0.55, ease: "power2.inOut", transformOrigin: "center" }, T3 + 1.95);
+      tl.from("#s4-brand",  { opacity: 0, y: 12, duration: 0.7, ease: "power3.out" }, T3 + 2.1);
+      tl.from("#s4-handle", { opacity: 0, duration: 0.55, ease: "sine.out" }, T3 + 2.5);
+
+      // Final fade
+      tl.to("#root", { opacity: 0, duration: 0.6, ease: "power1.in" }, 13.4);
+
+      window.__timelines["main"] = tl;
+    </script>
+  </body>
+</html>

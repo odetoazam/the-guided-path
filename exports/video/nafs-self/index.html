@@ -1,0 +1,609 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=1080, height=1920" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&family=Playfair+Display:ital,wght@0,400;0,600;1,400;1,600&family=Inter:wght@300;400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <script src="https://cdn.jsdelivr.net/npm/gsap@3.14.2/dist/gsap.min.js"></script>
+    <style>
+      * { margin: 0; padding: 0; box-sizing: border-box; }
+      html, body {
+        width: 1080px;
+        height: 1920px;
+        overflow: hidden;
+        background: #0f172a;
+        font-family: "Inter", system-ui, sans-serif;
+      }
+
+      .scene {
+        position: absolute;
+        inset: 0;
+        width: 100%;
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding: 160px 80px;
+        gap: 48px;
+        overflow: hidden;
+      }
+      /* Scene 0 is the cover — fully visible from frame 1, no fade */
+      #s1, #s2, #s3, #s4, #s5 { opacity: 0; filter: blur(20px); }
+
+      .bg-glow {
+        position: absolute;
+        top: 50%; left: 50%;
+        transform: translate(-50%,-50%);
+        width: 1100px; height: 1100px;
+        border-radius: 50%;
+        background: radial-gradient(circle, rgba(201,168,76,0.10) 0%, rgba(201,168,76,0) 65%);
+        pointer-events: none;
+      }
+
+      /* ── Scene 0: COVER ── */
+      #s0 { gap: 60px; }
+
+      #s0-arabic {
+        font-family: "Amiri", Georgia, serif;
+        font-weight: 700;
+        font-size: 320px;
+        line-height: 1.0;
+        color: rgba(201,168,76,0.95);
+        direction: rtl;
+        text-shadow:
+          0 0 80px rgba(201,168,76,0.22),
+          0 0 200px rgba(201,168,76,0.08);
+      }
+      #s0-divider {
+        width: 640px;
+        height: 1px;
+        background: rgba(201,168,76,0.3);
+      }
+      .cover-row {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 16px;
+      }
+      #s0-label {
+        font-family: "Inter", system-ui, sans-serif;
+        font-weight: 400;
+        font-size: 28px;
+        color: rgba(245,241,232,0.5);
+        letter-spacing: 0.3em;
+        text-transform: uppercase;
+      }
+      #s0-soul-wrap {
+        position: relative;
+        display: inline-block;
+        padding: 0 12px;
+      }
+      #s0-soul {
+        font-family: "Playfair Display", Georgia, serif;
+        font-style: italic;
+        font-size: 100px;
+        color: rgba(245,241,232,0.5);
+        line-height: 1.1;
+      }
+      #s0-soul-strike {
+        position: absolute;
+        top: 50%; left: -12px; right: -12px;
+        height: 5px;
+        background: rgba(201,168,76,0.95);
+        margin-top: -2.5px;
+      }
+      #s0-arrow {
+        font-family: "Inter", system-ui, sans-serif;
+        font-size: 56px;
+        color: rgba(201,168,76,0.55);
+      }
+      #s0-you {
+        font-family: "Playfair Display", Georgia, serif;
+        font-weight: 700;
+        font-size: 240px;
+        line-height: 1.0;
+        color: #f5f1e8;
+        letter-spacing: -0.01em;
+      }
+      #s0-brand {
+        position: absolute;
+        bottom: 90px;
+        left: 50%;
+        transform: translateX(-50%);
+        font-family: "Playfair Display", Georgia, serif;
+        font-weight: 600;
+        font-size: 32px;
+        color: rgba(245,241,232,0.55);
+        letter-spacing: 0.06em;
+        white-space: nowrap;
+      }
+
+      /* ── Scene 1: The word ── */
+      #s1-label {
+        font-family: "Inter", sans-serif;
+        font-weight: 500;
+        font-size: 32px;
+        color: rgba(201,168,76,0.6);
+        letter-spacing: 0.32em;
+        text-transform: uppercase;
+      }
+      #s1-arabic {
+        font-family: "Amiri", Georgia, serif;
+        font-weight: 700;
+        font-size: 300px;
+        line-height: 1.0;
+        color: rgba(201,168,76,0.95);
+        direction: rtl;
+        text-shadow: 0 0 90px rgba(201,168,76,0.22), 0 0 200px rgba(201,168,76,0.08);
+      }
+      #s1-translit {
+        font-family: "Playfair Display", Georgia, serif;
+        font-style: italic;
+        font-size: 64px;
+        color: rgba(245,241,232,0.8);
+      }
+      #s1-root {
+        font-family: "Inter", sans-serif;
+        font-weight: 300;
+        font-size: 34px;
+        color: rgba(245,241,232,0.55);
+        letter-spacing: 0.15em;
+      }
+
+      /* ── Scene 2: What most translations say ── */
+      #s2-label {
+        font-family: "Inter", sans-serif;
+        font-weight: 500;
+        font-size: 32px;
+        color: rgba(245,241,232,0.5);
+        letter-spacing: 0.3em;
+        text-transform: uppercase;
+      }
+      #s2-arabic-small {
+        font-family: "Amiri", Georgia, serif;
+        font-weight: 700;
+        font-size: 140px;
+        color: rgba(201,168,76,0.55);
+        direction: rtl;
+        line-height: 1.0;
+      }
+      #s2-equals {
+        font-family: "Playfair Display", Georgia, serif;
+        font-weight: 400;
+        font-size: 36px;
+        color: rgba(201,168,76,0.7);
+        letter-spacing: 0.2em;
+      }
+      .strike-wrap {
+        position: relative;
+        display: inline-block;
+        padding: 0 16px;
+      }
+      #s2-soul {
+        font-family: "Playfair Display", Georgia, serif;
+        font-style: italic;
+        font-weight: 600;
+        font-size: 130px;
+        color: #f5f1e8;
+        line-height: 1.0;
+        letter-spacing: -0.005em;
+      }
+      #s2-strike {
+        position: absolute;
+        top: 50%; left: -8px; right: -8px;
+        height: 6px;
+        background: rgba(201,168,76,0.95);
+        transform: scaleX(0);
+        transform-origin: left;
+        margin-top: -3px;
+      }
+      #s2-not {
+        font-family: "Inter", sans-serif;
+        font-weight: 400;
+        font-size: 32px;
+        color: rgba(245,241,232,0.55);
+        letter-spacing: 0.3em;
+        text-transform: uppercase;
+      }
+
+      /* ── Scene 3: YOU. ── */
+      #s3-arabic-tiny {
+        font-family: "Amiri", Georgia, serif;
+        font-weight: 400;
+        font-size: 80px;
+        color: rgba(201,168,76,0.55);
+        direction: rtl;
+        letter-spacing: 0.05em;
+      }
+      #s3-you {
+        font-family: "Playfair Display", Georgia, serif;
+        font-weight: 700;
+        font-size: 400px;
+        line-height: 0.9;
+        color: #f5f1e8;
+        letter-spacing: -0.02em;
+      }
+      #s3-period {
+        color: rgba(201,168,76,0.95);
+      }
+      #s3-sub {
+        font-family: "Inter", sans-serif;
+        font-weight: 300;
+        font-size: 38px;
+        color: rgba(245,241,232,0.7);
+        text-align: center;
+        max-width: 860px;
+        line-height: 1.55;
+      }
+
+      /* ── Scene 4: The verse ── */
+      #s4-badge {
+        font-family: "Inter", sans-serif;
+        font-weight: 500;
+        font-size: 26px;
+        color: rgba(201,168,76,0.75);
+        letter-spacing: 0.3em;
+        text-transform: uppercase;
+      }
+      #s4-arabic-verse {
+        font-family: "Amiri", Georgia, serif;
+        font-weight: 700;
+        font-size: 96px;
+        line-height: 1.95;
+        color: rgba(201,168,76,0.95);
+        direction: rtl;
+        text-align: center;
+        max-width: 900px;
+        text-shadow: 0 0 40px rgba(201,168,76,0.12);
+      }
+      #s4-rule-top, #s4-rule-bottom {
+        width: 700px;
+        height: 1px;
+        background: rgba(201,168,76,0.3);
+      }
+      #s4-translation {
+        font-family: "Playfair Display", Georgia, serif;
+        font-style: italic;
+        font-size: 48px;
+        line-height: 1.55;
+        color: #f5f1e8;
+        text-align: center;
+        max-width: 820px;
+      }
+      #s4-translation .you-em {
+        font-style: normal;
+        font-weight: 700;
+        color: rgba(201,168,76,0.95);
+      }
+      #s4-ref {
+        font-family: "Inter", sans-serif;
+        font-weight: 400;
+        font-size: 26px;
+        color: rgba(201,168,76,0.6);
+        letter-spacing: 0.22em;
+        text-transform: uppercase;
+      }
+
+      /* ── Scene 5: Close ── */
+      #s5-line {
+        font-family: "Playfair Display", Georgia, serif;
+        font-weight: 400;
+        font-style: italic;
+        font-size: 80px;
+        line-height: 1.28;
+        color: #f5f1e8;
+        text-align: center;
+        max-width: 900px;
+        letter-spacing: -0.005em;
+      }
+      #s5-line .stress {
+        font-style: normal;
+        font-weight: 600;
+        color: rgba(201,168,76,0.95);
+      }
+      .gold-rule { width: 88px; height: 1px; background: rgba(201,168,76,0.85); }
+      #s5-brand {
+        font-family: "Playfair Display", Georgia, serif;
+        font-weight: 600;
+        font-size: 60px;
+        color: #f5f1e8;
+      }
+      #s5-handle {
+        font-family: "Inter", sans-serif;
+        font-weight: 400;
+        font-size: 30px;
+        color: rgba(201,168,76,0.8);
+        letter-spacing: 0.18em;
+      }
+
+      /* ── Persistent frame ── */
+      #frame-design {
+        position: absolute; inset: 0;
+        pointer-events: none; z-index: 30;
+      }
+      #frame-border {
+        position: absolute;
+        top: 28px; left: 28px; right: 28px; bottom: 28px;
+        border: 1px solid rgba(201,168,76,0.28);
+      }
+      .corner-svg { position: absolute; width: 88px; height: 88px; }
+      .corner-svg.tl { top: 28px; left: 28px; }
+      .corner-svg.tr { top: 28px; right: 28px; transform: scaleX(-1); }
+      .corner-svg.bl { bottom: 28px; left: 28px; transform: scaleY(-1); }
+      .corner-svg.br { bottom: 28px; right: 28px; transform: scale(-1,-1); }
+      .side-mark {
+        position: absolute; width: 6px; height: 6px;
+        transform: rotate(45deg);
+        border: 1px solid rgba(201,168,76,0.45);
+      }
+      .side-mark.top    { top: 25px;    left: 50%; margin-left: -3px; }
+      .side-mark.bottom { bottom: 25px; left: 50%; margin-left: -3px; }
+      .side-mark.left   { left: 25px;   top: 50%;  margin-top: -3px; }
+      .side-mark.right  { right: 25px;  top: 50%;  margin-top: -3px; }
+    </style>
+  </head>
+  <body>
+    <div
+      id="root"
+      data-composition-id="main"
+      data-start="0"
+      data-duration="21"
+      data-width="1080"
+      data-height="1920"
+    >
+      <!-- ── SCENE 0: COVER — static from frame 1 ── -->
+      <div id="s0" class="scene">
+        <div class="bg-glow"></div>
+        <div id="s0-arabic">نَفْس</div>
+        <div id="s0-divider"></div>
+        <div class="cover-row">
+          <div id="s0-label">usually translated as</div>
+          <div id="s0-soul-wrap">
+            <span id="s0-soul">"soul"</span>
+            <div id="s0-soul-strike"></div>
+          </div>
+          <div id="s0-arrow">↓</div>
+          <div id="s0-you">YOU.</div>
+        </div>
+        <div id="s0-brand">AyahGuide</div>
+      </div>
+
+      <!-- ── SCENE 1: The Arabic word ── -->
+      <div id="s1" class="scene">
+        <div class="bg-glow"></div>
+        <div id="s1-label">an arabic word</div>
+        <div id="s1-arabic">نَفْس</div>
+        <div id="s1-translit">"nafs"</div>
+        <div id="s1-root">self · breath · person · living individual</div>
+      </div>
+
+      <!-- ── SCENE 2: What most say — "soul" struck through ── -->
+      <div id="s2" class="scene">
+        <div class="bg-glow"></div>
+        <div id="s2-label">most translations say</div>
+        <div id="s2-arabic-small">نَفْس</div>
+        <div id="s2-equals">— translated as —</div>
+        <div class="strike-wrap">
+          <span id="s2-soul">"soul"</span>
+          <div id="s2-strike"></div>
+        </div>
+        <div id="s2-not">— but the root means self.</div>
+      </div>
+
+      <!-- ── SCENE 3: YOU. ── -->
+      <div id="s3" class="scene" style="gap:40px;">
+        <div class="bg-glow"></div>
+        <div id="s3-arabic-tiny">نَفْس</div>
+        <div id="s3-you">YO<span id="s3-period">U.</span></div>
+        <div id="s3-sub">
+          Not an abstract soul somewhere inside you.
+          The living, breathing, choosing you.
+        </div>
+      </div>
+
+      <!-- ── SCENE 4: The verse ── -->
+      <div id="s4" class="scene" style="gap:36px;">
+        <div class="bg-glow"></div>
+        <div id="s4-badge">Quran · 3:185</div>
+        <div id="s4-rule-top"></div>
+        <div id="s4-arabic-verse">كُلُّ نَفْسٍ ذَآئِقَةُ الْمَوْتِ</div>
+        <div id="s4-translation">
+          "Every <span class="you-em">nafs</span> will taste death."
+        </div>
+        <div id="s4-rule-bottom"></div>
+        <div id="s4-ref">Āl ʿImrān · 3:185</div>
+      </div>
+
+      <!-- ── SCENE 5: Close ── -->
+      <div id="s5" class="scene">
+        <div class="bg-glow"></div>
+        <div id="s5-line">
+          It was never abstract.<br/>
+          It was always <span class="stress">personal.</span>
+        </div>
+        <div class="gold-rule"></div>
+        <div id="s5-brand">AyahGuide</div>
+        <div id="s5-handle">ayahguide.com</div>
+      </div>
+
+      <!-- ── Frame design ── -->
+      <div id="frame-design">
+        <div id="frame-border"></div>
+        <svg class="corner-svg tl" viewBox="0 0 88 88" fill="none">
+          <rect x="6" y="6" width="38" height="38" stroke="rgba(201,168,76,0.6)" stroke-width="1.2"/>
+          <rect x="6" y="6" width="38" height="38" stroke="rgba(201,168,76,0.6)" stroke-width="1.2" transform="rotate(45 25 25)"/>
+          <circle cx="25" cy="25" r="3.5" stroke="rgba(201,168,76,0.55)" stroke-width="1" fill="none"/>
+          <circle cx="25" cy="25" r="1.2" fill="rgba(201,168,76,0.6)"/>
+          <line x1="44" y1="25" x2="88" y2="25" stroke="rgba(201,168,76,0.22)" stroke-width="1"/>
+          <line x1="25" y1="44" x2="25" y2="88" stroke="rgba(201,168,76,0.22)" stroke-width="1"/>
+        </svg>
+        <svg class="corner-svg tr" viewBox="0 0 88 88" fill="none">
+          <rect x="6" y="6" width="38" height="38" stroke="rgba(201,168,76,0.6)" stroke-width="1.2"/>
+          <rect x="6" y="6" width="38" height="38" stroke="rgba(201,168,76,0.6)" stroke-width="1.2" transform="rotate(45 25 25)"/>
+          <circle cx="25" cy="25" r="3.5" stroke="rgba(201,168,76,0.55)" stroke-width="1" fill="none"/>
+          <circle cx="25" cy="25" r="1.2" fill="rgba(201,168,76,0.6)"/>
+          <line x1="44" y1="25" x2="88" y2="25" stroke="rgba(201,168,76,0.22)" stroke-width="1"/>
+          <line x1="25" y1="44" x2="25" y2="88" stroke="rgba(201,168,76,0.22)" stroke-width="1"/>
+        </svg>
+        <svg class="corner-svg bl" viewBox="0 0 88 88" fill="none">
+          <rect x="6" y="6" width="38" height="38" stroke="rgba(201,168,76,0.6)" stroke-width="1.2"/>
+          <rect x="6" y="6" width="38" height="38" stroke="rgba(201,168,76,0.6)" stroke-width="1.2" transform="rotate(45 25 25)"/>
+          <circle cx="25" cy="25" r="3.5" stroke="rgba(201,168,76,0.55)" stroke-width="1" fill="none"/>
+          <circle cx="25" cy="25" r="1.2" fill="rgba(201,168,76,0.6)"/>
+          <line x1="44" y1="25" x2="88" y2="25" stroke="rgba(201,168,76,0.22)" stroke-width="1"/>
+          <line x1="25" y1="44" x2="25" y2="88" stroke="rgba(201,168,76,0.22)" stroke-width="1"/>
+        </svg>
+        <svg class="corner-svg br" viewBox="0 0 88 88" fill="none">
+          <rect x="6" y="6" width="38" height="38" stroke="rgba(201,168,76,0.6)" stroke-width="1.2"/>
+          <rect x="6" y="6" width="38" height="38" stroke="rgba(201,168,76,0.6)" stroke-width="1.2" transform="rotate(45 25 25)"/>
+          <circle cx="25" cy="25" r="3.5" stroke="rgba(201,168,76,0.55)" stroke-width="1" fill="none"/>
+          <circle cx="25" cy="25" r="1.2" fill="rgba(201,168,76,0.6)"/>
+          <line x1="44" y1="25" x2="88" y2="25" stroke="rgba(201,168,76,0.22)" stroke-width="1"/>
+          <line x1="25" y1="44" x2="25" y2="88" stroke="rgba(201,168,76,0.22)" stroke-width="1"/>
+        </svg>
+        <div class="side-mark top"></div>
+        <div class="side-mark bottom"></div>
+        <div class="side-mark left"></div>
+        <div class="side-mark right"></div>
+      </div>
+
+      <audio
+        id="audio-ambient"
+        data-start="0"
+        data-duration="21"
+        data-track-index="5"
+        data-volume="0.6"
+        src="assets/ambient.mp3"
+      ></audio>
+    </div>
+
+    <script>
+      window.__timelines = window.__timelines || {};
+      const tl = gsap.timeline({ paused: true });
+
+      // ─────────────────────────────────────────────────────
+      // SCENE 0 — COVER HOLD (0 → 2.2s)
+      // Zero animation — this IS the cover frame from t=0.
+      // ─────────────────────────────────────────────────────
+      // No tweens on scene 0. It is static.
+
+      // ─────── TRANSITION 0→1 blur crossfade ───
+      const T0 = 2.2;
+      tl.to("#s0", { filter:"blur(28px)", scale:1.04, opacity:0, duration:0.7, ease:"sine.inOut" }, T0);
+      tl.fromTo("#s1",
+        { filter:"blur(28px)", scale:0.96, opacity:0 },
+        { filter:"blur(0px)", scale:1, opacity:1, duration:0.75, ease:"sine.inOut" },
+        T0
+      );
+
+      // ─────────────────────────────────────────────────────
+      // SCENE 1 — نَفْس (2.2 → 6.0)  — 3.8s breathing room
+      // ─────────────────────────────────────────────────────
+      const T1 = T0 + 0.3;
+      tl.from("#s1-label",   { opacity:0, y:-16, duration:0.65, ease:"power2.out" }, T1);
+      tl.from("#s1-arabic",  { scale:0.88, duration:1.1, ease:"power3.out" }, T1 + 0.15);
+      tl.from("#s1-translit",{ opacity:0, y:18, duration:0.75, ease:"power2.out" }, T1 + 0.7);
+      tl.from("#s1-root",    { opacity:0, letterSpacing:"0.5em", duration:0.8, ease:"power2.out" }, T1 + 1.1);
+      // Slow ambient breath on Arabic
+      tl.to("#s1-arabic", { scale:1.02, duration:2.0, ease:"sine.inOut" }, T1 + 1.5);
+
+      // ─────── TRANSITION 1→2 ───
+      const T1E = 6.0;
+      tl.to("#s1", { filter:"blur(24px)", scale:1.04, opacity:0, duration:0.65, ease:"sine.inOut" }, T1E);
+      tl.fromTo("#s2",
+        { filter:"blur(24px)", scale:0.96, opacity:0 },
+        { filter:"blur(0px)", scale:1, opacity:1, duration:0.7, ease:"sine.inOut" },
+        T1E
+      );
+
+      // ─────────────────────────────────────────────────────
+      // SCENE 2 — "soul" strikethrough (6.0 → 10.0) — 4s
+      // ─────────────────────────────────────────────────────
+      const T2 = T1E + 0.3;
+      tl.from("#s2-label",        { opacity:0, y:-14, duration:0.6, ease:"power2.out" }, T2);
+      tl.from("#s2-arabic-small", { opacity:0, scale:0.9, duration:0.7, ease:"power3.out" }, T2 + 0.2);
+      tl.from("#s2-equals",       { opacity:0, letterSpacing:"0.5em", duration:0.65, ease:"power2.out" }, T2 + 0.5);
+      tl.from("#s2-soul",         { opacity:0, y:18, duration:0.75, ease:"power2.out" }, T2 + 0.85);
+      // Strike — fast, decisive sweep
+      tl.to("#s2-strike",         { scaleX:1, duration:0.45, ease:"power4.out" }, T2 + 1.9);
+      tl.from("#s2-not",          { opacity:0, y:12, duration:0.65, ease:"sine.out" }, T2 + 2.4);
+
+      // ─────── TRANSITION 2→3 golden flash ───
+      const T2E = 10.0;
+      tl.to("#s2", { filter:"blur(22px)", scale:1.05, opacity:0, duration:0.55, ease:"power2.in" }, T2E);
+      tl.fromTo("#s3",
+        { filter:"blur(18px)", scale:1.04, opacity:0 },
+        { filter:"blur(0px)", scale:1, opacity:1, duration:0.65, ease:"power3.out" },
+        T2E + 0.1
+      );
+
+      // ─────────────────────────────────────────────────────
+      // SCENE 3 — YOU. — stamp entrance (10.0 → 14.2) — 4.2s
+      // The key scene. YOU snaps in hard, then breathes.
+      // ─────────────────────────────────────────────────────
+      const T3 = T2E + 0.25;
+      tl.from("#s3-arabic-tiny", { opacity:0, y:-20, duration:0.55, ease:"power2.out" }, T3);
+      // YOU. stamps in — scale 1.3 → 1.0, fast snap
+      tl.fromTo("#s3-you",
+        { opacity:0, scale:1.3, filter:"blur(6px)" },
+        { opacity:1, scale:1.0, filter:"blur(0px)", duration:0.35, ease:"power4.out" },
+        T3 + 0.35
+      );
+      // Period glows in separately — a beat after
+      tl.from("#s3-period", { opacity:0, duration:0.45, ease:"power2.out" }, T3 + 0.55);
+      // Sub text rises
+      tl.from("#s3-sub",    { opacity:0, y:22, duration:0.85, ease:"power2.out" }, T3 + 1.1);
+      // Ambient slow scale-up — YOU. grows slightly while held
+      tl.to("#s3-you", { scale:1.03, duration:2.5, ease:"sine.inOut" }, T3 + 1.0);
+
+      // ─────── TRANSITION 3→4 blur crossfade ───
+      const T3E = 14.2;
+      tl.to("#s3", { filter:"blur(28px)", scale:1.04, opacity:0, duration:0.75, ease:"sine.inOut" }, T3E);
+      tl.fromTo("#s4",
+        { filter:"blur(28px)", scale:0.97, opacity:0 },
+        { filter:"blur(0px)", scale:1, opacity:1, duration:0.8, ease:"sine.inOut" },
+        T3E
+      );
+
+      // ─────────────────────────────────────────────────────
+      // SCENE 4 — The verse (14.2 → 18.5) — 4.3s
+      // ─────────────────────────────────────────────────────
+      const T4 = T3E + 0.4;
+      tl.from("#s4-badge",       { opacity:0, y:-12, duration:0.55, ease:"power2.out" }, T4);
+      tl.from("#s4-rule-top",    { scaleX:0, duration:0.65, ease:"power3.inOut", transformOrigin:"left" }, T4 + 0.3);
+      tl.from("#s4-rule-bottom", { scaleX:0, duration:0.65, ease:"power3.inOut", transformOrigin:"right" }, T4 + 0.3);
+      tl.from("#s4-arabic-verse",{ opacity:0, y:14, duration:0.95, ease:"power3.out" }, T4 + 0.55);
+      tl.from("#s4-translation", { opacity:0, y:12, duration:0.85, ease:"power2.out" }, T4 + 1.2);
+      tl.from("#s4-ref",         { opacity:0, letterSpacing:"0.5em", duration:0.75, ease:"sine.out" }, T4 + 1.8);
+
+      // ─────── TRANSITION 4→5 gentle blur ───
+      const T4E = 18.5;
+      tl.to("#s4", { filter:"blur(24px)", scale:1.03, opacity:0, duration:0.7, ease:"sine.inOut" }, T4E);
+      tl.fromTo("#s5",
+        { filter:"blur(24px)", scale:0.97, opacity:0 },
+        { filter:"blur(0px)", scale:1, opacity:1, duration:0.75, ease:"sine.inOut" },
+        T4E
+      );
+
+      // ─────────────────────────────────────────────────────
+      // SCENE 5 — Close (18.5 → 21.0) — 2.5s
+      // ─────────────────────────────────────────────────────
+      const T5 = T4E + 0.4;
+      tl.from("#s5-line",    { opacity:0, y:20, duration:0.9, ease:"power3.out" }, T5);
+      tl.from(".gold-rule",  { scaleX:0, opacity:0, duration:0.55, ease:"power2.inOut", transformOrigin:"center" }, T5 + 0.75);
+      tl.from("#s5-brand",   { opacity:0, y:10, duration:0.65, ease:"power3.out" }, T5 + 0.9);
+      tl.from("#s5-handle",  { opacity:0, duration:0.55, ease:"sine.out" }, T5 + 1.3);
+
+      // Final fade
+      tl.to("#root", { opacity:0, duration:0.65, ease:"power1.in" }, 20.35);
+
+      window.__timelines["main"] = tl;
+    </script>
+  </body>
+</html>

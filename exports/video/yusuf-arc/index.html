@@ -1,0 +1,467 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=1080">
+  <title>Yusuf — Four Stations</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&family=Inter:wght@300;400;500;600;700&display=swap');
+
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      width: 1080px;
+      height: 1920px;
+      background: #080c18;
+      font-family: 'Inter', sans-serif;
+      overflow: hidden;
+      position: relative;
+    }
+
+    body::before {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background:
+        radial-gradient(ellipse 80% 60% at 50% 30%, rgba(201,168,76,0.05) 0%, transparent 70%),
+        radial-gradient(ellipse 60% 40% at 50% 80%, rgba(201,168,76,0.03) 0%, transparent 70%);
+      pointer-events: none;
+    }
+
+    /* ─────────────────── SCENE 0: COVER ─────────────────── */
+    #cover {
+      position: absolute;
+      inset: 0;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 40px;
+    }
+
+    #cover-eyebrow {
+      font-size: 30px;
+      font-weight: 500;
+      color: #c9a84c;
+      letter-spacing: 8px;
+      text-transform: uppercase;
+    }
+
+    #cover-arabic {
+      font-family: 'Amiri', serif;
+      font-size: 220px;
+      color: #f5f0e8;
+      line-height: 1.0;
+      direction: rtl;
+    }
+
+    #cover-rule {
+      width: 100px;
+      height: 1px;
+      background: linear-gradient(to right, transparent, #c9a84c, transparent);
+    }
+
+    #cover-sub {
+      font-size: 36px;
+      font-weight: 400;
+      color: #6a6e78;
+      text-align: center;
+      line-height: 1.55;
+      letter-spacing: 0.5px;
+    }
+
+    /* ─────────────────── SCENE 1: ARC ─────────────────── */
+    #arc-scene {
+      position: absolute;
+      inset: 0;
+      opacity: 0;
+    }
+
+    #arc-header {
+      position: absolute;
+      top: 88px;
+      left: 0; right: 0;
+      text-align: center;
+    }
+
+    #arc-surah-label {
+      font-size: 32px;
+      font-weight: 500;
+      color: #4a4e58;
+      letter-spacing: 5px;
+      text-transform: uppercase;
+    }
+
+    #arc-title {
+      font-size: 46px;
+      font-weight: 700;
+      color: #c9a84c;
+      letter-spacing: 6px;
+      margin-top: 14px;
+    }
+
+    #arc-svg {
+      position: absolute;
+      top: 0; left: 0;
+      width: 1080px;
+      height: 1920px;
+      overflow: visible;
+    }
+
+    #arc-path-glow {
+      stroke: rgba(201,168,76,0.15);
+      stroke-width: 10;
+      fill: none;
+      stroke-linecap: round;
+    }
+
+    #arc-path {
+      stroke: #c9a84c;
+      stroke-width: 2.5;
+      fill: none;
+      stroke-linecap: round;
+    }
+
+    .node-wrap {
+      position: absolute;
+      display: flex;
+      align-items: center;
+      gap: 28px;
+      opacity: 0;
+    }
+
+    .node-wrap.right-side {
+      flex-direction: row-reverse;
+    }
+
+    .node-circle {
+      width: 56px;
+      height: 56px;
+      border-radius: 50%;
+      border: 2px solid rgba(201,168,76,0.7);
+      background: #080c18;
+      flex-shrink: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .node-dot {
+      width: 14px;
+      height: 14px;
+      border-radius: 50%;
+      background: #c9a84c;
+    }
+
+    .node-content {
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+
+    .node-wrap.right-side .node-content {
+      text-align: right;
+      align-items: flex-end;
+    }
+
+    .node-arabic {
+      font-family: 'Amiri', serif;
+      font-size: 96px;
+      color: #f5f0e8;
+      line-height: 1.0;
+      direction: rtl;
+    }
+
+    .node-beat {
+      font-size: 38px;
+      font-weight: 700;
+      color: #ffffff;
+      letter-spacing: 4px;
+      text-transform: uppercase;
+    }
+
+    .node-desc {
+      font-size: 34px;
+      font-weight: 400;
+      color: #c9a84c;
+      opacity: 0.85;
+    }
+
+    .node-ref {
+      font-size: 30px;
+      font-weight: 400;
+      color: #444850;
+      letter-spacing: 2px;
+    }
+
+    /* ─────────────────── SCENE 2: CLOSE ─────────────────── */
+    #close-scene {
+      position: absolute;
+      inset: 0;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 52px;
+      padding: 120px 100px;
+      opacity: 0;
+    }
+
+    #close-arabic {
+      font-family: 'Amiri', serif;
+      font-size: 76px;
+      color: #f5f0e8;
+      text-align: center;
+      direction: rtl;
+      line-height: 1.65;
+      opacity: 0;
+    }
+
+    #close-english {
+      font-size: 38px;
+      font-weight: 400;
+      color: #8a8e96;
+      text-align: center;
+      line-height: 1.55;
+      opacity: 0;
+    }
+
+    #close-ref {
+      font-size: 32px;
+      font-weight: 500;
+      color: #c9a84c;
+      letter-spacing: 4px;
+      text-transform: uppercase;
+      opacity: 0;
+    }
+
+    #close-divider {
+      width: 1px;
+      height: 80px;
+      background: linear-gradient(to bottom, transparent, rgba(201,168,76,0.4), transparent);
+      opacity: 0;
+    }
+
+    #close-brand {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 18px;
+      opacity: 0;
+    }
+
+    #close-cta {
+      font-size: 32px;
+      font-weight: 600;
+      color: #c9a84c;
+      letter-spacing: 5px;
+      text-transform: uppercase;
+    }
+
+    #close-handle {
+      font-size: 32px;
+      font-weight: 400;
+      color: #444850;
+      letter-spacing: 2px;
+    }
+  </style>
+</head>
+<body>
+<div id="root" data-composition-id="main" data-width="1080" data-height="1920" data-start="0" data-duration="36">
+  <audio id="audio-ambient" src="assets/ambient.mp3" loop preload="auto"></audio>
+
+  <!-- SCENE 0: COVER -->
+  <div id="cover">
+    <div id="cover-eyebrow">Story Beat Map</div>
+    <div id="cover-arabic">يُوسُف</div>
+    <div id="cover-rule"></div>
+    <div id="cover-sub">The Quran's most complete story arc.<br>Four stations. One prophet.</div>
+  </div>
+
+  <!-- SCENE 1: ARC -->
+  <div id="arc-scene">
+
+    <div id="arc-header">
+      <div id="arc-surah-label">Surah Yusuf · Chapter 12</div>
+      <div id="arc-title">THE ARC</div>
+    </div>
+
+    <svg id="arc-svg" viewBox="0 0 1080 1920" xmlns="http://www.w3.org/2000/svg">
+      <defs>
+        <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+          <feGaussianBlur stdDeviation="4" result="blur"/>
+          <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+        </filter>
+      </defs>
+      <!-- Glow layer (always visible, subtle) -->
+      <path id="arc-path-glow"
+        d="M 690,240 C 860,380 320,560 180,760 C 110,870 110,990 160,1130 C 220,1320 590,1420 740,1620"
+      />
+      <!-- Animated drawing layer -->
+      <path id="arc-path"
+        d="M 690,240 C 860,380 320,560 180,760 C 110,870 110,990 160,1130 C 220,1320 590,1420 740,1620"
+        filter="url(#glow)"
+      />
+    </svg>
+
+    <!-- Node 1: THE DREAM -->
+    <div class="node-wrap" id="n1">
+      <div class="node-circle"><div class="node-dot"></div></div>
+      <div class="node-content">
+        <div class="node-arabic">رُءْيَا</div>
+        <div class="node-beat">THE DREAM</div>
+        <div class="node-desc">A vision no one believed</div>
+        <div class="node-ref">12:4</div>
+      </div>
+    </div>
+
+    <!-- Node 2: THE PIT -->
+    <div class="node-wrap" id="n2">
+      <div class="node-circle"><div class="node-dot"></div></div>
+      <div class="node-content">
+        <div class="node-arabic">الْجُبّ</div>
+        <div class="node-beat">THE PIT</div>
+        <div class="node-desc">Cast in by his own brothers</div>
+        <div class="node-ref">12:15</div>
+      </div>
+    </div>
+
+    <!-- Node 3: PRISON -->
+    <div class="node-wrap" id="n3">
+      <div class="node-circle"><div class="node-dot"></div></div>
+      <div class="node-content">
+        <div class="node-arabic">السِّجْن</div>
+        <div class="node-beat">PRISON</div>
+        <div class="node-desc">Imprisoned, unjustly</div>
+        <div class="node-ref">12:33</div>
+      </div>
+    </div>
+
+    <!-- Node 4: AUTHORITY -->
+    <div class="node-wrap" id="n4">
+      <div class="node-circle"><div class="node-dot"></div></div>
+      <div class="node-content">
+        <div class="node-arabic">الْخَزَائِن</div>
+        <div class="node-beat">AUTHORITY</div>
+        <div class="node-desc">Appointed over all of Egypt</div>
+        <div class="node-ref">12:55</div>
+      </div>
+    </div>
+
+  </div>
+
+  <!-- SCENE 2: CLOSE -->
+  <div id="close-scene">
+    <div id="close-arabic">وَلَا نُضِيعُ أَجْرَ الْمُحْسِنِينَ</div>
+    <div id="close-english">"We do not waste the reward<br>of those who do good."</div>
+    <div id="close-ref">Surah Yusuf · 12:56</div>
+    <div id="close-divider"></div>
+    <div id="close-brand">
+      <div id="close-cta">Read Surah Yusuf</div>
+      <div id="close-handle">ayahguide.com</div>
+    </div>
+  </div>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js"></script>
+  <script>
+    window.__timelines = {};
+
+    document.fonts.ready.then(() => {
+      const pathEl = document.getElementById('arc-path');
+      const glowEl = document.getElementById('arc-path-glow');
+      const totalLength = pathEl.getTotalLength();
+
+      pathEl.style.strokeDasharray = totalLength;
+      pathEl.style.strokeDashoffset = totalLength;
+      glowEl.style.strokeDasharray = totalLength;
+      glowEl.style.strokeDashoffset = totalLength;
+
+      const NODE_DATA = [
+        { id: 'n1', pct: 0.05 },
+        { id: 'n2', pct: 0.38 },
+        { id: 'n3', pct: 0.62 },
+        { id: 'n4', pct: 0.93 },
+      ];
+
+      const CIRCLE_R = 28;
+
+      NODE_DATA.forEach(({ id, pct }) => {
+        const pt = pathEl.getPointAtLength(pct * totalLength);
+        const el = document.getElementById(id);
+        el.style.top = (pt.y - CIRCLE_R) + 'px';
+
+        if (pt.x > 500) {
+          el.classList.add('right-side');
+          el.style.right = (1080 - pt.x - CIRCLE_R) + 'px';
+        } else {
+          el.style.left = (pt.x - CIRCLE_R) + 'px';
+        }
+      });
+
+      const DRAW_START = 2.1;
+      const DRAW_DUR   = 5.6;
+
+      const tl = gsap.timeline({ paused: true });
+      window.__timelines['main'] = tl;
+
+      tl.set('#arc-scene', { opacity: 0 });
+      tl.set('#close-scene', { opacity: 0 });
+      tl.set('[data-composition-id="main"] .node-wrap', { opacity: 0, scale: 0, transformOrigin: 'left center' });
+      tl.set('#arc-path', { strokeDashoffset: totalLength });
+      tl.set('#arc-path-glow', { strokeDashoffset: totalLength });
+      tl.set('#close-arabic, #close-english, #close-ref, #close-brand', { opacity: 0, y: 20 });
+      tl.set('#close-divider', { opacity: 0 });
+
+      // 0–1.5s: cover hold
+
+      // 1.5s: cover fades out
+      tl.to('#cover', { opacity: 0, duration: 0.55, ease: 'power2.in' }, 1.5);
+
+      // 2.0s: arc scene in
+      tl.to('#arc-scene', { opacity: 1, duration: 0.45 }, 2.0);
+
+      // 2.1s: arc draws
+      tl.to('#arc-path', { strokeDashoffset: 0, duration: DRAW_DUR, ease: 'power1.inOut' }, DRAW_START);
+      tl.to('#arc-path-glow', { strokeDashoffset: 0, duration: DRAW_DUR, ease: 'power1.inOut' }, DRAW_START);
+
+      // Nodes pop in as line reaches them
+      NODE_DATA.forEach(({ id, pct }) => {
+        const t = DRAW_START + pct * DRAW_DUR;
+        const wrap = document.getElementById(id);
+        const isRight = wrap.classList.contains('right-side');
+        tl.to(`#${id}`, {
+          opacity: 1,
+          scale: 1,
+          duration: 0.38,
+          ease: 'back.out(2.2)',
+          transformOrigin: isRight ? 'right center' : 'left center',
+        }, t);
+      });
+
+      // 7.7s: arc fully drawn — brief contemplative hold (arc scene stays until 9.2s)
+
+      // 9.2s: arc out, close in
+      tl.to('#arc-scene', { opacity: 0, duration: 0.6, ease: 'power2.in' }, 14.0);
+      tl.to('#close-scene', { opacity: 1, duration: 0.55 }, 14.4);
+
+      // Close elements stagger
+      tl.to('#close-arabic',  { opacity: 1, y: 0, duration: 0.75, ease: 'power2.out' }, 14.9);
+      tl.to('#close-english', { opacity: 1, y: 0, duration: 0.75, ease: 'power2.out' }, 16.0);
+      tl.to('#close-ref',     { opacity: 1, y: 0, duration: 0.5,  ease: 'power2.out' }, 17.0);
+      tl.to('#close-divider', { opacity: 1, duration: 0.5 }, 17.5);
+      tl.to('#close-brand',   { opacity: 1, y: 0, duration: 0.65, ease: 'power2.out' }, 17.8);
+
+      // Hold close scene, then fade and extend timeline to 36s
+      tl.to('#root', { opacity: 0, duration: 1.0, ease: 'power1.in' }, 34.5);
+      tl.to('#close-scene', { opacity: 1, duration: 0.01 }, 35.49);
+
+      tl.play();
+
+      const audio = document.getElementById('audio-ambient');
+      audio.volume = 0.28;
+      audio.play().catch(() => {});
+    });
+  </script>
+</div>
+</body>
+</html>

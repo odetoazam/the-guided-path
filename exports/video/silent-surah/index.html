@@ -1,0 +1,436 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=1080, height=1920" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&family=Playfair+Display:ital,wght@0,400;0,600;1,400&family=Inter:wght@300;400;500;600&display=swap"
+      rel="stylesheet"
+    />
+    <script src="https://cdn.jsdelivr.net/npm/gsap@3.14.2/dist/gsap.min.js"></script>
+    <style>
+      * { margin: 0; padding: 0; box-sizing: border-box; }
+      html, body {
+        width: 1080px;
+        height: 1920px;
+        overflow: hidden;
+        background: #0f172a;
+        font-family: "Inter", system-ui, sans-serif;
+      }
+
+      /* ───── Scene container ───────────────────────────────── */
+      .scene {
+        position: absolute;
+        inset: 0;
+        width: 100%;
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding: 160px 80px;
+        gap: 32px;
+        overflow: hidden;
+      }
+      #s2, #s3 { opacity: 0; filter: blur(20px); }
+
+      /* ───── Background atmosphere ────────────────────────── */
+      .bg-glow {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        width: 1100px;
+        height: 1100px;
+        border-radius: 50%;
+        background: radial-gradient(circle, rgba(201,168,76,0.08) 0%, rgba(201,168,76,0) 65%);
+        pointer-events: none;
+      }
+
+      /* ───── Scene 1: The opener line ─────────────────────── */
+      #s1-bismillah {
+        font-family: "Amiri", Georgia, serif;
+        font-weight: 700;
+        font-size: 128px;
+        line-height: 1.1;
+        color: rgba(201,168,76,0.92);
+        direction: rtl;
+        text-align: center;
+        text-shadow:
+          0 0 60px rgba(201,168,76,0.18),
+          0 0 140px rgba(201,168,76,0.08);
+      }
+      #s1-translit {
+        font-family: "Playfair Display", Georgia, serif;
+        font-style: italic;
+        font-size: 44px;
+        color: rgba(245,241,232,0.7);
+      }
+      #s1-claim {
+        font-family: "Inter", system-ui, sans-serif;
+        font-weight: 300;
+        font-size: 36px;
+        color: rgba(245,241,232,0.78);
+        max-width: 800px;
+        text-align: center;
+        line-height: 1.4;
+      }
+      #s1-claim .num {
+        font-weight: 600;
+        color: rgba(201,168,76,0.95);
+        font-feature-settings: "tnum" on;
+      }
+
+      /* ───── Scene 2: The grid ────────────────────────────── */
+      #s2-label {
+        font-family: "Inter", system-ui, sans-serif;
+        font-weight: 400;
+        font-size: 36px;
+        color: rgba(201,168,76,0.55);
+        letter-spacing: 0.32em;
+        text-transform: uppercase;
+      }
+      #grid {
+        display: grid;
+        grid-template-columns: repeat(9, 88px);
+        gap: 8px;
+        width: 800px; /* 9*88 + 8*8 = 792 + 64 = 856 — recalculate: 800 to fit padding */
+      }
+      .cell {
+        width: 88px;
+        height: 88px;
+        border: 1px solid rgba(201,168,76,0.18);
+        border-radius: 4px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-family: "Inter", system-ui, sans-serif;
+        font-weight: 500;
+        font-size: 36px;
+        color: rgba(245,241,232,0.35);
+        background: rgba(15,23,42,1);
+        font-feature-settings: "tnum" on;
+        position: relative;
+      }
+      .cell.lit {
+        border-color: rgba(201,168,76,0.85);
+        background: rgba(201,168,76,0.12);
+        color: rgba(245,241,232,0.95);
+        box-shadow: 0 0 24px rgba(201,168,76,0.25);
+      }
+      .cell.lit::after {
+        content: "";
+        position: absolute;
+        inset: 0;
+        border: 1px solid rgba(201,168,76,0.4);
+        border-radius: 4px;
+        pointer-events: none;
+      }
+
+      /* ───── Scene 3: The reveal ──────────────────────────── */
+      #s3-grid-zoom {
+        position: relative;
+        width: 280px;
+        height: 280px;
+        border: 2px solid rgba(201,168,76,0.85);
+        border-radius: 6px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap: 10px;
+        background: rgba(15,23,42,1);
+      }
+      #s3-num {
+        font-family: "Inter", system-ui, sans-serif;
+        font-weight: 600;
+        font-size: 100px;
+        color: rgba(245,241,232,0.45);
+        font-feature-settings: "tnum" on;
+        line-height: 1;
+      }
+      #s3-arabic {
+        font-family: "Amiri", Georgia, serif;
+        font-weight: 700;
+        font-size: 56px;
+        color: rgba(201,168,76,0.92);
+        direction: rtl;
+      }
+      #s3-headline {
+        font-family: "Playfair Display", Georgia, serif;
+        font-weight: 400;
+        font-size: 80px;
+        line-height: 1.18;
+        color: #f5f1e8;
+        text-align: center;
+        max-width: 880px;
+        letter-spacing: -0.005em;
+        margin-top: 32px;
+      }
+      #s3-headline .stress {
+        font-style: italic;
+        color: rgba(201,168,76,0.95);
+      }
+      #s3-context {
+        font-family: "Inter", system-ui, sans-serif;
+        font-weight: 300;
+        font-size: 40px;
+        line-height: 1.5;
+        color: rgba(245,241,232,0.7);
+        max-width: 800px;
+        text-align: center;
+        margin-top: 20px;
+      }
+      #s3-brand {
+        font-family: "Playfair Display", Georgia, serif;
+        font-weight: 600;
+        font-size: 48px;
+        color: #f5f1e8;
+        margin-top: 60px;
+      }
+      #s3-handle {
+        font-family: "Inter", system-ui, sans-serif;
+        font-weight: 400;
+        font-size: 36px;
+        color: rgba(201,168,76,0.7);
+        letter-spacing: 0.18em;
+      }
+      .hairline-s3 {
+        width: 88px;
+        height: 1px;
+        background: rgba(201,168,76,0.55);
+        margin-top: 8px;
+      }
+
+      /* ───── Persistent Islamic frame design ──────────────── */
+      #frame-design {
+        position: absolute;
+        inset: 0;
+        pointer-events: none;
+        z-index: 30;
+      }
+      #frame-border {
+        position: absolute;
+        top: 28px; left: 28px; right: 28px; bottom: 28px;
+        border: 1px solid rgba(201,168,76,0.28);
+      }
+      .corner-svg {
+        position: absolute;
+        width: 88px;
+        height: 88px;
+      }
+      .corner-svg.tl { top: 28px;  left: 28px; }
+      .corner-svg.tr { top: 28px;  right: 28px;  transform: scaleX(-1); }
+      .corner-svg.bl { bottom: 28px; left: 28px;  transform: scaleY(-1); }
+      .corner-svg.br { bottom: 28px; right: 28px; transform: scale(-1,-1); }
+      .side-mark {
+        position: absolute;
+        width: 6px;
+        height: 6px;
+        transform: rotate(45deg);
+        border: 1px solid rgba(201,168,76,0.45);
+      }
+      .side-mark.top    { top: 25px;    left: 50%; margin-left: -3px; }
+      .side-mark.bottom { bottom: 25px; left: 50%; margin-left: -3px; }
+      .side-mark.left   { left: 25px;   top: 50%;  margin-top: -3px; }
+      .side-mark.right  { right: 25px;  top: 50%;  margin-top: -3px; }
+    </style>
+  </head>
+  <body>
+    <div
+      id="root"
+      data-composition-id="main"
+      data-start="0"
+      data-duration="14"
+      data-width="1080"
+      data-height="1920"
+    >
+      <!-- ───────────── Scene 1: Bismillah claim ───────────── -->
+      <div id="s1" class="scene">
+        <div class="bg-glow"></div>
+        <div id="s1-bismillah">بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ</div>
+        <div id="s1-translit">"In the name of Allah, the Most Merciful."</div>
+        <div id="s1-claim">opens <span class="num">113</span> of the Quran's <span class="num">114</span> surahs.</div>
+      </div>
+
+      <!-- ───────────── Scene 2: The 114-cell grid ───────────── -->
+      <div id="s2" class="scene" style="gap: 48px;">
+        <div id="s2-label">all 114 surahs · in order</div>
+        <div id="grid"></div>
+      </div>
+
+      <!-- ───────────── Scene 3: The reveal ───────────── -->
+      <div id="s3" class="scene" style="gap: 24px; padding: 120px 80px;">
+        <div class="bg-glow"></div>
+        <div id="s3-grid-zoom">
+          <div id="s3-num">9</div>
+          <div id="s3-arabic">التَّوْبَة</div>
+        </div>
+        <div id="s3-headline">
+          The only surah<br/>with <span class="stress">no bismillah.</span>
+        </div>
+        <div id="s3-context">
+          It opens with a declaration of war — not mercy.
+        </div>
+        <div class="hairline-s3"></div>
+        <div id="s3-brand">AyahGuide</div>
+        <div id="s3-handle">ayahguide.com</div>
+      </div>
+
+      <!-- ── Persistent Islamic frame design ── -->
+      <div id="frame-design">
+        <div id="frame-border"></div>
+        <svg class="corner-svg tl" viewBox="0 0 88 88" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <rect x="6" y="6" width="38" height="38" stroke="rgba(201,168,76,0.6)" stroke-width="1.2"/>
+          <rect x="6" y="6" width="38" height="38" stroke="rgba(201,168,76,0.6)" stroke-width="1.2" transform="rotate(45 25 25)"/>
+          <circle cx="25" cy="25" r="3.5" stroke="rgba(201,168,76,0.55)" stroke-width="1" fill="none"/>
+          <circle cx="25" cy="25" r="1.2" fill="rgba(201,168,76,0.6)"/>
+          <line x1="44" y1="25" x2="88" y2="25" stroke="rgba(201,168,76,0.22)" stroke-width="1"/>
+          <line x1="25" y1="44" x2="25" y2="88" stroke="rgba(201,168,76,0.22)" stroke-width="1"/>
+        </svg>
+        <svg class="corner-svg tr" viewBox="0 0 88 88" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <rect x="6" y="6" width="38" height="38" stroke="rgba(201,168,76,0.6)" stroke-width="1.2"/>
+          <rect x="6" y="6" width="38" height="38" stroke="rgba(201,168,76,0.6)" stroke-width="1.2" transform="rotate(45 25 25)"/>
+          <circle cx="25" cy="25" r="3.5" stroke="rgba(201,168,76,0.55)" stroke-width="1" fill="none"/>
+          <circle cx="25" cy="25" r="1.2" fill="rgba(201,168,76,0.6)"/>
+          <line x1="44" y1="25" x2="88" y2="25" stroke="rgba(201,168,76,0.22)" stroke-width="1"/>
+          <line x1="25" y1="44" x2="25" y2="88" stroke="rgba(201,168,76,0.22)" stroke-width="1"/>
+        </svg>
+        <svg class="corner-svg bl" viewBox="0 0 88 88" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <rect x="6" y="6" width="38" height="38" stroke="rgba(201,168,76,0.6)" stroke-width="1.2"/>
+          <rect x="6" y="6" width="38" height="38" stroke="rgba(201,168,76,0.6)" stroke-width="1.2" transform="rotate(45 25 25)"/>
+          <circle cx="25" cy="25" r="3.5" stroke="rgba(201,168,76,0.55)" stroke-width="1" fill="none"/>
+          <circle cx="25" cy="25" r="1.2" fill="rgba(201,168,76,0.6)"/>
+          <line x1="44" y1="25" x2="88" y2="25" stroke="rgba(201,168,76,0.22)" stroke-width="1"/>
+          <line x1="25" y1="44" x2="25" y2="88" stroke="rgba(201,168,76,0.22)" stroke-width="1"/>
+        </svg>
+        <svg class="corner-svg br" viewBox="0 0 88 88" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <rect x="6" y="6" width="38" height="38" stroke="rgba(201,168,76,0.6)" stroke-width="1.2"/>
+          <rect x="6" y="6" width="38" height="38" stroke="rgba(201,168,76,0.6)" stroke-width="1.2" transform="rotate(45 25 25)"/>
+          <circle cx="25" cy="25" r="3.5" stroke="rgba(201,168,76,0.55)" stroke-width="1" fill="none"/>
+          <circle cx="25" cy="25" r="1.2" fill="rgba(201,168,76,0.6)"/>
+          <line x1="44" y1="25" x2="88" y2="25" stroke="rgba(201,168,76,0.22)" stroke-width="1"/>
+          <line x1="25" y1="44" x2="25" y2="88" stroke="rgba(201,168,76,0.22)" stroke-width="1"/>
+        </svg>
+        <div class="side-mark top"></div>
+        <div class="side-mark bottom"></div>
+        <div class="side-mark left"></div>
+        <div class="side-mark right"></div>
+      </div>
+
+      <!-- Audio bed -->
+      <audio
+        id="audio-ambient"
+        data-start="0"
+        data-duration="14"
+        data-track-index="5"
+        data-volume="0.6"
+        src="assets/ambient.mp3"
+      ></audio>
+    </div>
+
+    <script>
+      // ─────────────────────────────────────────────────────
+      // Build the 114-cell grid (deterministic — no randomness)
+      // ─────────────────────────────────────────────────────
+      (function() {
+        const grid = document.getElementById('grid');
+        for (let i = 1; i <= 114; i++) {
+          const cell = document.createElement('div');
+          cell.className = 'cell';
+          cell.id = 'cell-' + i;
+          cell.textContent = i;
+          grid.appendChild(cell);
+        }
+      })();
+
+      window.__timelines = window.__timelines || {};
+      const tl = gsap.timeline({ paused: true });
+
+      // ─────────────────────────────────────────────────────
+      // SCENE 1 — Bismillah + claim (0.0 → 3.5)
+      // ─────────────────────────────────────────────────────
+      tl.from("#s1-bismillah", { opacity: 0, y: 24, duration: 1.2, ease: "power3.out" }, 0.3);
+      tl.from("#s1-translit",  { opacity: 0, y: 14, duration: 0.85, ease: "power2.out" }, 1.0);
+      tl.from("#s1-claim",     { opacity: 0, duration: 0.9, ease: "sine.out" }, 1.6);
+      // Subtle ambient breath
+      tl.to("#s1-bismillah", { scale: 1.02, duration: 1.5, ease: "sine.inOut" }, 1.6);
+
+      // ─────── TRANSITION 1 (S1→S2) blur crossfade — 0.7s ───
+      const T1 = 3.5;
+      tl.to("#s1", { filter: "blur(24px)", scale: 1.04, opacity: 0, duration: 0.7, ease: "sine.inOut" }, T1);
+      tl.fromTo("#s2",
+        { filter: "blur(24px)", scale: 0.97, opacity: 0 },
+        { filter: "blur(0px)", scale: 1, opacity: 1, duration: 0.7, ease: "sine.inOut" },
+        T1
+      );
+
+      // ─────────────────────────────────────────────────────
+      // SCENE 2 — The 114-cell grid sweep (3.5 → 9.5)
+      // Every cell except #9 lights up in a stagger sweep.
+      // ─────────────────────────────────────────────────────
+      tl.from("#s2-label", { opacity: 0, y: -12, duration: 0.6, ease: "power3.out" }, T1 + 0.3);
+      // Grid container fade-in
+      tl.from("#grid", { opacity: 0, scale: 0.95, duration: 0.7, ease: "power2.out" }, T1 + 0.5);
+
+      // Per-cell light-up — 113 cells over 4.0s = ~35ms per cell
+      const SWEEP_START = T1 + 1.0;  // 4.5s
+      const SWEEP_END   = T1 + 5.2;  // 8.7s
+      const sweepDur    = SWEEP_END - SWEEP_START;  // 4.2s
+      for (let i = 1; i <= 114; i++) {
+        if (i === 9) continue; // The silent surah — never lights up
+        const t = SWEEP_START + ((i - 1) / 113) * sweepDur;
+        tl.to('#cell-' + i, {
+          borderColor: 'rgba(201,168,76,0.85)',
+          backgroundColor: 'rgba(201,168,76,0.12)',
+          color: 'rgba(245,241,232,0.95)',
+          boxShadow: '0 0 24px rgba(201,168,76,0.25)',
+          duration: 0.18,
+          ease: 'power2.out',
+        }, t);
+      }
+
+      // Hold beat — viewer's eye finds the dark cell
+      // At t=8.9, pulse the dark cell so the eye locks onto it
+      tl.to('#cell-9', {
+        scale: 1.15,
+        duration: 0.3,
+        ease: 'power2.out',
+        transformOrigin: 'center',
+      }, T1 + 5.4);
+      tl.to('#cell-9', {
+        scale: 1,
+        duration: 0.4,
+        ease: 'sine.inOut',
+      }, T1 + 5.7);
+
+      // ─────── TRANSITION 2 (S2→S3) gold flash + blur — 0.7s ───
+      const T2 = 9.5;
+      tl.to("#s2", { filter: "blur(20px)", scale: 1.06, opacity: 0, duration: 0.7, ease: "power2.in" }, T2);
+      tl.fromTo("#s3",
+        { filter: "blur(20px)", scale: 0.97, opacity: 0 },
+        { filter: "blur(0px)", scale: 1, opacity: 1, duration: 0.75, ease: "power3.out" },
+        T2 + 0.1
+      );
+
+      // ─────────────────────────────────────────────────────
+      // SCENE 3 — The reveal: it's #9, At-Tawbah (9.5 → 14.0)
+      // ─────────────────────────────────────────────────────
+      tl.from("#s3-grid-zoom", { scale: 0.7, opacity: 0, duration: 0.85, ease: "back.out(1.4)" }, T2 + 0.4);
+      tl.from("#s3-num",       { y: -12, opacity: 0, duration: 0.5, ease: "power3.out" }, T2 + 0.7);
+      tl.from("#s3-arabic",    { y: 12, opacity: 0, duration: 0.55, ease: "power2.out" }, T2 + 0.9);
+      tl.from("#s3-headline",  { opacity: 0, y: 18, duration: 0.85, ease: "power4.out" }, T2 + 1.2);
+      tl.from("#s3-context",   { opacity: 0, duration: 0.7, ease: "sine.out" }, T2 + 1.7);
+      tl.from(".hairline-s3",  { scaleX: 0, duration: 0.5, ease: "power2.inOut", transformOrigin: "center" }, T2 + 2.3);
+      tl.from("#s3-brand",     { opacity: 0, y: 10, duration: 0.6, ease: "power3.out" }, T2 + 2.5);
+      tl.from("#s3-handle",    { opacity: 0, duration: 0.5, ease: "sine.out" }, T2 + 2.85);
+
+      // Final fade
+      tl.to("#root", { opacity: 0, duration: 0.6, ease: "power1.in" }, 13.4);
+
+      window.__timelines["main"] = tl;
+    </script>
+  </body>
+</html>

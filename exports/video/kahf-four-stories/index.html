@@ -1,0 +1,644 @@
+<!doctype html>
+<html lang="ar">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=1080, height=1920" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&family=Playfair+Display:ital,wght@0,400;0,600;1,400;1,600&family=Inter:wght@300;400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <script src="https://cdn.jsdelivr.net/npm/gsap@3.14.2/dist/gsap.min.js"></script>
+    <style>
+      * { margin: 0; padding: 0; box-sizing: border-box; }
+      html, body {
+        width: 1080px;
+        height: 1920px;
+        overflow: hidden;
+        background: #0d1524;
+        font-family: "Inter", system-ui, sans-serif;
+      }
+
+      .scene {
+        position: absolute;
+        inset: 0;
+        width: 100%;
+        height: 100%;
+        overflow: hidden;
+      }
+
+      /* Non-cover scenes hidden initially */
+      #s1, #s2 { opacity: 0; }
+
+      /* ── Ambient glow ── */
+      .bg-glow {
+        position: absolute;
+        top: 50%; left: 50%;
+        transform: translate(-50%, -50%);
+        border-radius: 50%;
+        pointer-events: none;
+      }
+
+      /* ════════════════════════════════
+         SCENE 0 — Cover (0 → 1.5s)
+      ════════════════════════════════ */
+      #s0-inner {
+        position: absolute;
+        inset: 0;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 48px;
+        padding: 180px 80px;
+      }
+      #s0-surah-arabic {
+        font-family: "Amiri", Georgia, serif;
+        font-weight: 700;
+        font-size: 200px;
+        line-height: 1.05;
+        color: rgba(201,168,76,0.95);
+        direction: rtl;
+        text-align: center;
+        text-shadow: 0 0 100px rgba(201,168,76,0.18), 0 0 260px rgba(201,168,76,0.06);
+      }
+      #s0-divider {
+        width: 540px;
+        height: 1px;
+        background: rgba(201,168,76,0.26);
+      }
+      #s0-eyebrow {
+        font-family: "Inter", sans-serif;
+        font-weight: 400;
+        font-size: 28px;
+        color: rgba(245,241,232,0.36);
+        letter-spacing: 0.40em;
+        text-transform: uppercase;
+        text-align: center;
+      }
+      #s0-headline {
+        font-family: "Playfair Display", Georgia, serif;
+        font-weight: 600;
+        font-size: 68px;
+        color: #f5f1e8;
+        text-align: center;
+        line-height: 1.25;
+        max-width: 800px;
+        letter-spacing: -0.01em;
+      }
+      #s0-headline span { color: rgba(201,168,76,0.92); }
+      #s0-brand {
+        position: absolute;
+        bottom: 90px;
+        left: 50%;
+        transform: translateX(-50%);
+        font-family: "Playfair Display", Georgia, serif;
+        font-weight: 600;
+        font-size: 32px;
+        color: rgba(245,241,232,0.38);
+        letter-spacing: 0.06em;
+        white-space: nowrap;
+      }
+
+      /* ════════════════════════════════
+         SCENE 1 — The Beat Map (1.5 → 19.0s)
+         Vertical timeline with 4 story nodes.
+      ════════════════════════════════ */
+      #s1-inner {
+        position: absolute;
+        inset: 0;
+        padding: 110px 72px 120px 72px;
+        display: flex;
+        flex-direction: column;
+      }
+      #s1-title-row {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 10px;
+        margin-bottom: 44px;
+      }
+      #s1-surah-label {
+        font-family: "Inter", sans-serif;
+        font-weight: 400;
+        font-size: 26px;
+        color: rgba(201,168,76,0.60);
+        letter-spacing: 0.38em;
+        text-transform: uppercase;
+      }
+      #s1-map-title {
+        font-family: "Playfair Display", Georgia, serif;
+        font-weight: 600;
+        font-size: 60px;
+        color: #f5f1e8;
+        letter-spacing: -0.01em;
+        text-align: center;
+      }
+
+      /* ── Beat map layout ── */
+      #beat-map {
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        gap: 52px;
+      }
+
+      /* The vertical spine — a 2px line from top to bottom of beat-map */
+      #spine {
+        position: absolute;
+        left: 23px;      /* center of the 48px node circles */
+        top: 24px;       /* starts at center of first node */
+        width: 2px;
+        background: rgba(201,168,76,0.30);
+        /* height is set to match full span; scaleY tweens from 0 */
+        transform-origin: top center;
+        transform: scaleY(0);
+      }
+
+      /* ── Story nodes ── */
+      .story-node {
+        display: flex;
+        align-items: flex-start;
+        gap: 36px;
+        position: relative;
+      }
+
+      /* Node circle */
+      .node-circle {
+        flex-shrink: 0;
+        width: 48px;
+        height: 48px;
+        border-radius: 50%;
+        border: 2px solid rgba(201,168,76,0.45);
+        background: #0d1524;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        z-index: 2;
+        margin-top: 18px;
+        position: relative;
+      }
+      .node-number {
+        font-family: "Inter", sans-serif;
+        font-weight: 600;
+        font-size: 20px;
+        color: rgba(201,168,76,0.80);
+        opacity: 0;
+        line-height: 1;
+      }
+      /* Active state — set via GSAP */
+      .node-circle.active {
+        border-color: rgba(201,168,76,0.85);
+        background: rgba(201,168,76,0.10);
+      }
+
+      /* Node content */
+      .node-content {
+        flex: 1;
+        display: flex;
+        flex-direction: column;
+        gap: 6px;
+        opacity: 0;
+      }
+      .node-arabic {
+        font-family: "Amiri", Georgia, serif;
+        font-weight: 700;
+        font-size: 96px;
+        line-height: 1.1;
+        direction: rtl;
+        text-align: right;
+        color: rgba(201,168,76,0.94);
+        text-shadow: 0 0 40px rgba(201,168,76,0.12);
+      }
+      .node-story-name {
+        font-family: "Playfair Display", Georgia, serif;
+        font-weight: 600;
+        font-size: 44px;
+        color: #f5f1e8;
+        text-align: right;
+        line-height: 1.2;
+      }
+      .node-trial {
+        font-family: "Inter", sans-serif;
+        font-weight: 500;
+        font-size: 28px;
+        color: rgba(201,168,76,0.70);
+        text-align: right;
+        letter-spacing: 0.20em;
+        text-transform: uppercase;
+      }
+      /* Removed .node-ayah — too small at any reasonable size, clutters the layout */
+
+      /* Connector pip on the spine between nodes */
+      .spine-section {
+        position: absolute;
+        left: 51px;
+        width: 2px;
+        background: rgba(201,168,76,0.25);
+        transform-origin: top;
+        transform: scaleY(0);
+        z-index: 1;
+      }
+
+      /* ════════════════════════════════
+         SCENE 2 — Synthesis (19.0 → 22.5s)
+      ════════════════════════════════ */
+      #s2-inner {
+        position: absolute;
+        inset: 0;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding: 180px 80px;
+        gap: 48px;
+      }
+      #s2-four-trials {
+        font-family: "Inter", sans-serif;
+        font-weight: 400;
+        font-size: 26px;
+        color: rgba(245,241,232,0.36);
+        letter-spacing: 0.40em;
+        text-transform: uppercase;
+        text-align: center;
+      }
+      #s2-pills {
+        display: flex;
+        gap: 20px;
+        flex-wrap: wrap;
+        justify-content: center;
+      }
+      .pill {
+        font-family: "Inter", sans-serif;
+        font-weight: 600;
+        font-size: 28px;
+        color: rgba(201,168,76,0.88);
+        letter-spacing: 0.14em;
+        text-transform: uppercase;
+        padding: 14px 32px;
+        border: 1px solid rgba(201,168,76,0.30);
+        border-radius: 2px;
+      }
+      #s2-statement {
+        font-family: "Playfair Display", Georgia, serif;
+        font-style: italic;
+        font-size: 54px;
+        color: #f5f1e8;
+        text-align: center;
+        max-width: 860px;
+        line-height: 1.38;
+        letter-spacing: -0.005em;
+      }
+      #s2-statement .stress {
+        font-style: normal;
+        font-weight: 700;
+        color: rgba(201,168,76,0.94);
+      }
+      #s2-friday {
+        font-family: "Inter", sans-serif;
+        font-weight: 400;
+        font-size: 30px;
+        color: rgba(245,241,232,0.45);
+        letter-spacing: 0.10em;
+        text-align: center;
+        font-style: italic;
+      }
+      .gold-rule {
+        width: 80px;
+        height: 1px;
+        background: rgba(201,168,76,0.78);
+      }
+      #s2-brand {
+        font-family: "Playfair Display", Georgia, serif;
+        font-weight: 600;
+        font-size: 54px;
+        color: #f5f1e8;
+      }
+      #s2-handle {
+        font-family: "Inter", sans-serif;
+        font-weight: 400;
+        font-size: 28px;
+        color: rgba(201,168,76,0.70);
+        letter-spacing: 0.18em;
+      }
+
+      /* ════════════════════════════════
+         Persistent frame
+      ════════════════════════════════ */
+      #frame-design {
+        position: absolute; inset: 0;
+        pointer-events: none; z-index: 30;
+      }
+      #frame-border {
+        position: absolute;
+        top: 28px; left: 28px; right: 28px; bottom: 28px;
+        border: 1px solid rgba(201,168,76,0.18);
+      }
+      .corner-svg { position: absolute; width: 80px; height: 80px; }
+      .corner-svg.tl { top: 28px; left: 28px; }
+      .corner-svg.tr { top: 28px; right: 28px; transform: scaleX(-1); }
+      .corner-svg.bl { bottom: 28px; left: 28px; transform: scaleY(-1); }
+      .corner-svg.br { bottom: 28px; right: 28px; transform: scale(-1,-1); }
+    </style>
+  </head>
+  <body>
+    <div
+      id="root"
+      data-composition-id="main"
+      data-start="0"
+      data-duration="36"
+      data-width="1080"
+      data-height="1920"
+    >
+
+      <!-- ══════════════════════════════════
+           SCENE 0 — COVER (0 → 1.5s)
+      ══════════════════════════════════ -->
+      <div id="s0" class="scene">
+        <div class="bg-glow" style="width:900px;height:900px;background:radial-gradient(circle,rgba(201,168,76,0.08) 0%,transparent 65%);"></div>
+        <div id="s0-inner">
+          <div id="s0-surah-arabic">الْكَهْف</div>
+          <div id="s0-divider"></div>
+          <div id="s0-eyebrow">Al-Kahf · 18</div>
+          <div id="s0-headline">
+            <span>Four</span> trials.<br/>One surah.
+          </div>
+          <div id="s0-brand">AyahGuide</div>
+        </div>
+      </div>
+
+      <!-- ══════════════════════════════════
+           SCENE 1 — The Beat Map (1.5 → 19.0s)
+      ══════════════════════════════════ -->
+      <div id="s1" class="scene">
+        <div class="bg-glow" style="width:800px;height:1600px;top:50%;left:50%;background:radial-gradient(ellipse 400px 800px at 50% 50%,rgba(201,168,76,0.05) 0%,transparent 65%);"></div>
+        <div id="s1-inner">
+          <!-- Title -->
+          <div id="s1-title-row">
+            <div id="s1-surah-label">Al-Kahf · Surah 18</div>
+            <div id="s1-map-title">The Four Stories</div>
+          </div>
+
+          <!-- Beat map with vertical spine -->
+          <div id="beat-map">
+
+            <!-- Spine (vertical line — scaleY animates) -->
+            <div id="spine"></div>
+
+            <!-- ── Story 1: People of the Cave ── -->
+            <div class="story-node" id="node-1">
+              <div class="node-circle" id="nc-1">
+                <span class="node-number">1</span>
+              </div>
+              <div class="node-content" id="nc-1-content">
+                <div class="node-arabic">أَصْحَابُ الْكَهْفِ</div>
+                <div class="node-story-name">People of the Cave</div>
+                <div class="node-trial">Trial of Faith</div>
+              </div>
+            </div>
+
+            <!-- ── Story 2: The Two Gardens ── -->
+            <div class="story-node" id="node-2">
+              <div class="node-circle" id="nc-2">
+                <span class="node-number">2</span>
+              </div>
+              <div class="node-content" id="nc-2-content">
+                <div class="node-arabic">الْجَنَّتَيْنِ</div>
+                <div class="node-story-name">The Two Gardens</div>
+                <div class="node-trial">Trial of Wealth</div>
+              </div>
+            </div>
+
+            <!-- ── Story 3: Musa & the Righteous Servant ── -->
+            <div class="story-node" id="node-3">
+              <div class="node-circle" id="nc-3">
+                <span class="node-number">3</span>
+              </div>
+              <div class="node-content" id="nc-3-content">
+                <div class="node-arabic">مُوسَىٰ</div>
+                <div class="node-story-name">Musa & the Learned Man</div>
+                <div class="node-trial">Trial of Knowledge</div>
+              </div>
+            </div>
+
+            <!-- ── Story 4: Dhul-Qarnayn ── -->
+            <div class="story-node" id="node-4">
+              <div class="node-circle" id="nc-4">
+                <span class="node-number">4</span>
+              </div>
+              <div class="node-content" id="nc-4-content">
+                <div class="node-arabic">ذُو الْقَرْنَيْنِ</div>
+                <div class="node-story-name">Dhul-Qarnayn</div>
+                <div class="node-trial">Trial of Power</div>
+              </div>
+            </div>
+
+          </div><!-- /beat-map -->
+        </div><!-- /s1-inner -->
+      </div>
+
+      <!-- ══════════════════════════════════
+           SCENE 2 — Synthesis (19.0 → 23.0s)
+      ══════════════════════════════════ -->
+      <div id="s2" class="scene">
+        <div class="bg-glow" style="width:1000px;height:1000px;background:radial-gradient(circle,rgba(201,168,76,0.08) 0%,transparent 65%);"></div>
+        <div id="s2-inner">
+          <div id="s2-four-trials">the same four trials</div>
+          <div id="s2-pills">
+            <div class="pill">Faith</div>
+            <div class="pill">Wealth</div>
+            <div class="pill">Knowledge</div>
+            <div class="pill">Power</div>
+          </div>
+          <div id="s2-statement">
+            Every generation faces them.<br/>
+            <span class="stress">Which one are you in?</span>
+          </div>
+          <div id="s2-friday">Read Al-Kahf every Friday.</div>
+          <div class="gold-rule"></div>
+          <div id="s2-brand">AyahGuide</div>
+          <div id="s2-handle">ayahguide.com</div>
+        </div>
+      </div>
+
+      <!-- ── Persistent frame ── -->
+      <div id="frame-design">
+        <div id="frame-border"></div>
+        <svg class="corner-svg tl" viewBox="0 0 80 80" fill="none">
+          <rect x="6" y="6" width="32" height="32" stroke="rgba(201,168,76,0.50)" stroke-width="1.2"/>
+          <rect x="6" y="6" width="32" height="32" stroke="rgba(201,168,76,0.50)" stroke-width="1.2" transform="rotate(45 22 22)"/>
+          <circle cx="22" cy="22" r="3" stroke="rgba(201,168,76,0.45)" stroke-width="1" fill="none"/>
+          <circle cx="22" cy="22" r="1.2" fill="rgba(201,168,76,0.50)"/>
+          <line x1="38" y1="22" x2="80" y2="22" stroke="rgba(201,168,76,0.15)" stroke-width="1"/>
+          <line x1="22" y1="38" x2="22" y2="80" stroke="rgba(201,168,76,0.15)" stroke-width="1"/>
+        </svg>
+        <svg class="corner-svg tr" viewBox="0 0 80 80" fill="none">
+          <rect x="6" y="6" width="32" height="32" stroke="rgba(201,168,76,0.50)" stroke-width="1.2"/>
+          <rect x="6" y="6" width="32" height="32" stroke="rgba(201,168,76,0.50)" stroke-width="1.2" transform="rotate(45 22 22)"/>
+          <circle cx="22" cy="22" r="3" stroke="rgba(201,168,76,0.45)" stroke-width="1" fill="none"/>
+          <circle cx="22" cy="22" r="1.2" fill="rgba(201,168,76,0.50)"/>
+          <line x1="38" y1="22" x2="80" y2="22" stroke="rgba(201,168,76,0.15)" stroke-width="1"/>
+          <line x1="22" y1="38" x2="22" y2="80" stroke="rgba(201,168,76,0.15)" stroke-width="1"/>
+        </svg>
+        <svg class="corner-svg bl" viewBox="0 0 80 80" fill="none">
+          <rect x="6" y="6" width="32" height="32" stroke="rgba(201,168,76,0.50)" stroke-width="1.2"/>
+          <rect x="6" y="6" width="32" height="32" stroke="rgba(201,168,76,0.50)" stroke-width="1.2" transform="rotate(45 22 22)"/>
+          <circle cx="22" cy="22" r="3" stroke="rgba(201,168,76,0.45)" stroke-width="1" fill="none"/>
+          <circle cx="22" cy="22" r="1.2" fill="rgba(201,168,76,0.50)"/>
+          <line x1="38" y1="22" x2="80" y2="22" stroke="rgba(201,168,76,0.15)" stroke-width="1"/>
+          <line x1="22" y1="38" x2="22" y2="80" stroke="rgba(201,168,76,0.15)" stroke-width="1"/>
+        </svg>
+        <svg class="corner-svg br" viewBox="0 0 80 80" fill="none">
+          <rect x="6" y="6" width="32" height="32" stroke="rgba(201,168,76,0.50)" stroke-width="1.2"/>
+          <rect x="6" y="6" width="32" height="32" stroke="rgba(201,168,76,0.50)" stroke-width="1.2" transform="rotate(45 22 22)"/>
+          <circle cx="22" cy="22" r="3" stroke="rgba(201,168,76,0.45)" stroke-width="1" fill="none"/>
+          <circle cx="22" cy="22" r="1.2" fill="rgba(201,168,76,0.50)"/>
+          <line x1="38" y1="22" x2="80" y2="22" stroke="rgba(201,168,76,0.15)" stroke-width="1"/>
+          <line x1="22" y1="38" x2="22" y2="80" stroke="rgba(201,168,76,0.15)" stroke-width="1"/>
+        </svg>
+      </div>
+
+      <audio
+        id="audio-ambient"
+        data-start="0"
+        data-duration="36"
+        data-track-index="5"
+        data-volume="0.55"
+        src="assets/ambient.mp3"
+      ></audio>
+    </div>
+
+    <script>
+      window.__timelines = window.__timelines || {};
+      const tl = gsap.timeline({ paused: true });
+
+      // ─────────────────────────────────────────────────────────
+      // SCENE 0 — COVER HOLD (0 → 1.5s)
+      // No tweens. Frame 1 = the designed cover.
+      // ─────────────────────────────────────────────────────────
+
+      // Measure the beat map height once DOM is ready for spine sizing.
+      // Using known pixel positions: nodes are absolutely positioned by
+      // flexbox justify-content:space-between within beat-map. We set
+      // spine height via JS after layout (deterministic — no randomness).
+
+      // ── Transition 0 → 1 ──────────────────────────────────────
+      const T01 = 1.5;
+      tl.to("#s0", {
+        filter: "blur(24px)", scale: 1.04, opacity: 0,
+        duration: 0.65, ease: "sine.inOut"
+      }, T01);
+      tl.fromTo("#s1",
+        { filter: "blur(24px)", scale: 0.97, opacity: 0 },
+        { filter: "blur(0px)",  scale: 1,    opacity: 1, duration: 0.72, ease: "sine.inOut" },
+        T01
+      );
+
+      // ─────────────────────────────────────────────────────────
+      // SCENE 1 — Beat Map build (1.5 → 19.0s) — 17.5s
+      // ─────────────────────────────────────────────────────────
+      const T1 = T01 + 0.25;
+
+      // Title row drops in
+      tl.from("#s1-title-row", { opacity: 0, y: -18, duration: 0.65, ease: "power2.out" }, T1);
+
+      // ── Spine draws down (scaleY 0 → 1) — 1.8s ──
+      // We calculate spine height at runtime after layout
+      tl.add(function() {
+        const beatMap = document.getElementById("beat-map");
+        const spine   = document.getElementById("spine");
+        if (beatMap && spine) {
+          const n1 = document.getElementById("nc-1");
+          const n4 = document.getElementById("nc-4");
+          if (n1 && n4) {
+            const mapTop = beatMap.getBoundingClientRect().top;
+            const n1Mid  = n1.getBoundingClientRect().top + n1.offsetHeight / 2;
+            const n4Mid  = n4.getBoundingClientRect().top + n4.offsetHeight / 2;
+            spine.style.top    = (n1Mid - mapTop) + "px";
+            spine.style.height = (n4Mid - n1Mid) + "px";
+          }
+        }
+      }, T1 + 0.3);
+      tl.to("#spine", {
+        scaleY: 1, duration: 2.2, ease: "power2.inOut"
+      }, T1 + 0.35);
+
+      // ── Node 1 — People of the Cave (T1+0.8 to T1+4.0) ──
+      const N1 = T1 + 0.80;
+      tl.to("#nc-1",          { borderColor: "rgba(201,168,76,0.85)", backgroundColor: "rgba(201,168,76,0.10)", duration: 0.4, ease: "power2.out" }, N1);
+      tl.to("#nc-1 .node-number", { opacity: 1, duration: 0.35, ease: "sine.out" }, N1 + 0.12);
+      tl.to("#nc-1-content",  { opacity: 1, y: 0, duration: 0.75, ease: "power2.out" }, N1 + 0.15);
+      tl.from("#nc-1-content .node-arabic",     { opacity: 0, x: 20, duration: 0.65, ease: "power3.out" }, N1 + 0.20);
+      tl.from("#nc-1-content .node-story-name", { opacity: 0, x: 16, duration: 0.55, ease: "power2.out" }, N1 + 0.55);
+      tl.from("#nc-1-content .node-trial",      { opacity: 0, x: 12, duration: 0.50, ease: "power2.out" }, N1 + 0.80);
+      tl.from("#nc-1-content .node-ayah",       { opacity: 0,        duration: 0.50, ease: "sine.out"   }, N1 + 1.05);
+
+      // ── Node 2 — Two Gardens (T1+4.0 to T1+7.8) ──
+      const N2 = T1 + 5.60;
+      tl.to("#nc-2",          { borderColor: "rgba(201,168,76,0.85)", backgroundColor: "rgba(201,168,76,0.10)", duration: 0.4, ease: "power2.out" }, N2);
+      tl.to("#nc-2 .node-number", { opacity: 1, duration: 0.35, ease: "sine.out" }, N2 + 0.12);
+      tl.to("#nc-2-content",  { opacity: 1, duration: 0.72, ease: "power2.out" }, N2 + 0.15);
+      tl.from("#nc-2-content .node-arabic",     { opacity: 0, x: 20, duration: 0.65, ease: "power3.out" }, N2 + 0.20);
+      tl.from("#nc-2-content .node-story-name", { opacity: 0, x: 16, duration: 0.55, ease: "power2.out" }, N2 + 0.55);
+      tl.from("#nc-2-content .node-trial",      { opacity: 0, x: 12, duration: 0.50, ease: "power2.out" }, N2 + 0.80);
+      tl.from("#nc-2-content .node-ayah",       { opacity: 0,        duration: 0.50, ease: "sine.out"   }, N2 + 1.05);
+
+      // ── Node 3 — Musa (T1+7.8 to T1+11.6) ──
+      const N3 = T1 + 10.40;
+      tl.to("#nc-3",          { borderColor: "rgba(201,168,76,0.85)", backgroundColor: "rgba(201,168,76,0.10)", duration: 0.4, ease: "power2.out" }, N3);
+      tl.to("#nc-3 .node-number", { opacity: 1, duration: 0.35, ease: "sine.out" }, N3 + 0.12);
+      tl.to("#nc-3-content",  { opacity: 1, duration: 0.72, ease: "power2.out" }, N3 + 0.15);
+      tl.from("#nc-3-content .node-arabic",     { opacity: 0, x: 20, duration: 0.65, ease: "power3.out" }, N3 + 0.20);
+      tl.from("#nc-3-content .node-story-name", { opacity: 0, x: 16, duration: 0.55, ease: "power2.out" }, N3 + 0.55);
+      tl.from("#nc-3-content .node-trial",      { opacity: 0, x: 12, duration: 0.50, ease: "power2.out" }, N3 + 0.80);
+      tl.from("#nc-3-content .node-ayah",       { opacity: 0,        duration: 0.50, ease: "sine.out"   }, N3 + 1.05);
+
+      // ── Node 4 — Dhul-Qarnayn (T1+11.6 to T1+15.4) ──
+      const N4 = T1 + 15.20;
+      tl.to("#nc-4",          { borderColor: "rgba(201,168,76,0.85)", backgroundColor: "rgba(201,168,76,0.10)", duration: 0.4, ease: "power2.out" }, N4);
+      tl.to("#nc-4 .node-number", { opacity: 1, duration: 0.35, ease: "sine.out" }, N4 + 0.12);
+      tl.to("#nc-4-content",  { opacity: 1, duration: 0.72, ease: "power2.out" }, N4 + 0.15);
+      tl.from("#nc-4-content .node-arabic",     { opacity: 0, x: 20, duration: 0.65, ease: "power3.out" }, N4 + 0.20);
+      tl.from("#nc-4-content .node-story-name", { opacity: 0, x: 16, duration: 0.55, ease: "power2.out" }, N4 + 0.55);
+      tl.from("#nc-4-content .node-trial",      { opacity: 0, x: 12, duration: 0.50, ease: "power2.out" }, N4 + 0.80);
+      tl.from("#nc-4-content .node-ayah",       { opacity: 0,        duration: 0.50, ease: "sine.out"   }, N4 + 1.05);
+
+      // ── Brief hold with all 4 visible (pause ~1.5s) ──
+      // No tweens needed — just let it breathe before transitioning
+
+      // ── Transition 1 → 2 ──────────────────────────────────────
+      const T12 = 26.0;
+      tl.to("#s1", {
+        filter: "blur(24px)", scale: 1.03, opacity: 0,
+        duration: 0.68, ease: "sine.inOut"
+      }, T12);
+      tl.fromTo("#s2",
+        { filter: "blur(24px)", scale: 0.97, opacity: 0 },
+        { filter: "blur(0px)",  scale: 1,    opacity: 1, duration: 0.72, ease: "sine.inOut" },
+        T12
+      );
+
+      // ─────────────────────────────────────────────────────────
+      // SCENE 2 — Synthesis (19.0 → 23.0s) — 4.0s
+      // ─────────────────────────────────────────────────────────
+      const T2 = T12 + 0.30;
+      tl.from("#s2-four-trials", { opacity: 0, y: -16, duration: 0.55, ease: "power2.out" }, T2);
+      tl.from(".pill", {
+        opacity: 0, scale: 0.88, duration: 0.52, ease: "back.out(1.4)",
+        stagger: { each: 0.12 }
+      }, T2 + 0.45);
+      tl.from("#s2-statement", { opacity: 0, y: 20, duration: 0.82, ease: "power2.out" }, T2 + 1.05);
+      tl.from("#s2-friday",    { opacity: 0, y: 14, duration: 0.65, ease: "power2.out" }, T2 + 2.05);
+      tl.from(".gold-rule",    { scaleX: 0, transformOrigin: "center", duration: 0.50, ease: "power2.inOut" }, T2 + 2.55);
+      tl.from("#s2-brand",     { opacity: 0, y: 10, duration: 0.55, ease: "power3.out" }, T2 + 2.70);
+      tl.from("#s2-handle",    { opacity: 0,        duration: 0.45, ease: "sine.out"   }, T2 + 3.00);
+
+      // Final fade
+      tl.to("#root", { opacity: 0, duration: 0.55, ease: "power1.in" }, 34.0);
+
+      window.__timelines["main"] = tl;
+    </script>
+  </body>
+</html>

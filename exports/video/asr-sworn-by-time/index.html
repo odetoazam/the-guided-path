@@ -1,0 +1,592 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;0,700&family=Playfair+Display:wght@700;900&family=Inter:wght@300;400;600;700;800&display=swap" rel="stylesheet" />
+  <script src="https://cdn.jsdelivr.net/npm/gsap@3.14.2/dist/gsap.min.js"></script>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      width: 1080px;
+      height: 1920px;
+      overflow: hidden;
+      background: #0a1018;
+      font-family: 'Inter', sans-serif;
+    }
+
+    /* ─── PALETTE ──────────────────────────────────────
+       BG:      #0a1018  deep black-navy
+       GOLD:    #c9a84c  primary accent
+       OFF-W:   #e8dcc8  warm off-white
+       MUTED:   #6a7a8a  secondary grey
+       LOSS:    #c04030  cracked-concrete red
+    ─────────────────────────────────────────────────── */
+
+    #root {
+      position: relative;
+      width: 1080px;
+      height: 1920px;
+      overflow: hidden;
+      background: #0a1018;
+    }
+
+    .scene {
+      position: absolute;
+      top: 0; left: 0;
+      width: 1080px;
+      height: 1920px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      opacity: 0;
+    }
+
+    /* ─── GRAIN OVERLAY ─────────────────────────────── */
+    #grain-overlay {
+      position: absolute;
+      top: 0; left: 0;
+      width: 100%; height: 100%;
+      pointer-events: none;
+      z-index: 200;
+    }
+    .grain-texture {
+      position: absolute;
+      top: -50%; left: -50%;
+      width: 200%; height: 200%;
+      background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 512 512' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.75' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='1'/%3E%3C/svg%3E");
+      background-size: 200px 200px;
+      opacity: 0.05;
+      animation: hf-grain-noise 0.5s steps(2) infinite;
+    }
+    @keyframes hf-grain-noise {
+      0%,100% { transform: translate(0,0); }
+      10% { transform: translate(-5%,-5%); }
+      20% { transform: translate(-10%,5%); }
+      30% { transform: translate(5%,-10%); }
+      40% { transform: translate(-5%,15%); }
+      50% { transform: translate(-10%,5%); }
+      60% { transform: translate(15%,0); }
+      70% { transform: translate(0,10%); }
+      80% { transform: translate(-15%,0); }
+      90% { transform: translate(10%,5%); }
+    }
+
+    /* ─── VIGNETTE ───────────────────────────────────── */
+    #hf-vignette {
+      position: absolute;
+      top: 0; left: 0;
+      width: 100%; height: 100%;
+      pointer-events: none;
+      z-index: 190;
+      background: radial-gradient(ellipse at center, transparent 36%, rgba(0,0,0,0.78) 100%);
+    }
+
+    /* ─── BORDER FRAME ───────────────────────────────── */
+    .border-frame {
+      position: absolute;
+      top: 0; left: 0;
+      width: 1080px; height: 1920px;
+      pointer-events: none;
+      z-index: 150;
+    }
+    .border-frame::before, .border-frame::after {
+      content: '';
+      position: absolute;
+      border: 1px solid rgba(201,168,76,0.18);
+    }
+    .border-frame::before { top:36px; left:36px; right:36px; bottom:36px; }
+    .border-frame::after  { top:44px; left:44px; right:44px; bottom:44px; border-color:rgba(201,168,76,0.08); }
+
+    /* ─── TEXTURE MASK TEXT ──────────────────────────── */
+    .hf-texture-text {
+      color: #c9a84c;
+      -webkit-mask-size: cover;
+      mask-size: cover;
+      -webkit-mask-repeat: repeat;
+      mask-repeat: repeat;
+    }
+    .hf-texture-travertine {
+      -webkit-mask-image: url("/assets/texture-mask-text/masks/travertine-009.png");
+      mask-image: url("/assets/texture-mask-text/masks/travertine-009.png");
+    }
+    .hf-texture-concrete {
+      -webkit-mask-image: url("/assets/texture-mask-text/masks/concrete.png");
+      mask-image: url("/assets/texture-mask-text/masks/concrete.png");
+    }
+    /* Override color for "loss" — cracked red variant */
+    .loss-color { color: #c04030; }
+
+    /* ─── SHIMMER ─────────────────────────────────────── */
+    .shimmer-host {
+      position: relative;
+      display: inline-block;
+      overflow: hidden;
+    }
+    .shimmer-beam {
+      position: absolute;
+      top: 0; left: 0;
+      width: 280px; height: 100%;
+      background: linear-gradient(90deg, transparent 0%, rgba(255,220,120,0.75) 50%, transparent 100%);
+      mix-blend-mode: overlay;
+      transform: translateX(-280px);
+    }
+
+    /* ─── SHARED TEXT STYLES ─────────────────────────── */
+    .brand {
+      position: absolute;
+      bottom: 68px; left: 0; right: 0;
+      text-align: center;
+      font-family: 'Playfair Display', serif;
+      font-size: 30px; font-weight: 700;
+      letter-spacing: 0.18em;
+      color: rgba(201,168,76,0.5);
+      text-transform: uppercase;
+    }
+    .gold-line {
+      width: 120px; height: 1px;
+      background: linear-gradient(90deg, transparent, #c9a84c, transparent);
+      margin: 0 auto;
+    }
+    .gold-line-short {
+      width: 56px; height: 1px;
+      background: linear-gradient(90deg, transparent, rgba(201,168,76,0.45), transparent);
+      margin: 0 auto;
+    }
+
+    /* ─────────────────────────────────────────────────── *
+     * SCENE 0 — COVER                                    *
+     * ─────────────────────────────────────────────────── */
+    #scene-cover { opacity: 1; } /* visible from frame 0 */
+    .cover-surah-label {
+      font-size: 28px; font-weight: 600;
+      letter-spacing: 0.28em; text-transform: uppercase;
+      color: rgba(201,168,76,0.55); margin-bottom: 44px;
+    }
+    .cover-arabic {
+      font-family: 'Amiri', serif;
+      font-size: 152px; font-weight: 700;
+      line-height: 1.1; text-align: center; direction: rtl;
+    }
+    .cover-translation {
+      font-family: 'Playfair Display', serif;
+      font-size: 46px; font-weight: 700;
+      color: #e8dcc8; text-align: center;
+      margin-top: 28px; letter-spacing: 0.04em;
+    }
+    .cover-hook {
+      font-size: 36px; font-weight: 400;
+      color: rgba(232,220,200,0.62);
+      text-align: center; margin-top: 52px;
+      line-height: 1.65; max-width: 800px; padding: 0 40px;
+    }
+
+    /* ─────────────────────────────────────────────────── *
+     * SCENE 1 — ROOT REVEAL                              *
+     * ─────────────────────────────────────────────────── */
+    .root-label {
+      font-size: 28px; font-weight: 600;
+      letter-spacing: 0.3em; text-transform: uppercase;
+      color: rgba(201,168,76,0.45); margin-bottom: 48px;
+    }
+    .root-letters {
+      display: flex; gap: 20px; direction: rtl; margin-bottom: 30px;
+    }
+    .root-letter {
+      font-family: 'Amiri', serif;
+      font-size: 188px; font-weight: 700; line-height: 1;
+    }
+    .root-meaning {
+      font-family: 'Playfair Display', serif;
+      font-size: 42px; font-weight: 700;
+      color: #e8dcc8; text-align: center; letter-spacing: 0.05em;
+      margin-top: 20px;
+    }
+    .root-meaning span { color: #c9a84c; }
+    .root-subtext {
+      font-size: 32px; font-weight: 400;
+      color: rgba(232,220,200,0.52);
+      text-align: center; margin-top: 24px;
+      line-height: 1.65; max-width: 820px; padding: 0 44px;
+    }
+
+    /* ─────────────────────────────────────────────────── *
+     * SCENE 2 — THE VERDICT                              *
+     * ─────────────────────────────────────────────────── */
+    .verdict-setup {
+      font-size: 32px; font-weight: 400;
+      color: rgba(232,220,200,0.52);
+      text-align: center; margin-bottom: 56px;
+      line-height: 1.6;
+    }
+    .verdict-words {
+      display: flex; flex-direction: row-reverse;
+      flex-wrap: wrap; justify-content: center;
+      gap: 16px; direction: rtl;
+      max-width: 960px; margin-bottom: 44px;
+    }
+    .vword {
+      font-family: 'Amiri', serif;
+      font-size: 100px; font-weight: 700; line-height: 1.2;
+      text-align: center;
+    }
+    .vword-accent { color: #c9a84c; }
+    .vword-white  { color: #e8dcc8; }
+    .vword-khusr  { font-size: 148px; }
+
+    .emphasis-label {
+      font-size: 28px; font-weight: 600;
+      color: rgba(201,168,76,0.48);
+      letter-spacing: 0.18em; text-transform: uppercase;
+      margin-bottom: 12px;
+    }
+    .verdict-insight {
+      font-family: 'Playfair Display', serif;
+      font-size: 46px; font-weight: 700;
+      color: #e8dcc8; text-align: center;
+      line-height: 1.4; max-width: 880px; padding: 0 44px;
+    }
+    .verdict-insight span { color: #c9a84c; }
+    .verdict-sub {
+      font-size: 32px; font-weight: 400;
+      color: rgba(232,220,200,0.5);
+      text-align: center; margin-top: 18px;
+      line-height: 1.6; max-width: 800px; padding: 0 44px;
+    }
+
+    /* ─────────────────────────────────────────────────── *
+     * SCENE 3 — THE TURN                                 *
+     * ─────────────────────────────────────────────────── */
+    .turn-except {
+      font-family: 'Amiri', serif;
+      font-size: 210px; font-weight: 700;
+      color: #c9a84c; text-align: center; line-height: 1;
+    }
+    .turn-english {
+      font-family: 'Playfair Display', serif;
+      font-size: 58px; font-weight: 700;
+      color: #e8dcc8; text-align: center;
+      margin-top: 30px; letter-spacing: 0.05em;
+    }
+    .turn-sub {
+      font-size: 36px; font-weight: 400;
+      color: rgba(232,220,200,0.52);
+      text-align: center; margin-top: 32px; line-height: 1.6;
+    }
+
+    /* ─────────────────────────────────────────────────── *
+     * SCENE 4 — FOUR CONDITIONS                          *
+     * ─────────────────────────────────────────────────── */
+    .cond-title {
+      font-size: 28px; font-weight: 600;
+      letter-spacing: 0.26em; text-transform: uppercase;
+      color: rgba(201,168,76,0.48); margin-bottom: 48px;
+    }
+    .cond-list {
+      display: flex; flex-direction: column;
+      gap: 28px; width: 920px;
+    }
+    .cond-row {
+      display: flex; flex-direction: column; align-items: center;
+    }
+    .cond-num {
+      font-size: 24px; font-weight: 700;
+      color: rgba(201,168,76,0.38); letter-spacing: 0.15em;
+      margin-bottom: 6px;
+    }
+    .cond-arabic {
+      font-family: 'Amiri', serif;
+      font-size: 72px; font-weight: 700;
+      color: #c9a84c; direction: rtl;
+      text-align: center; line-height: 1.15;
+    }
+    .cond-english {
+      font-size: 34px; font-weight: 400;
+      color: #e8dcc8; text-align: center; margin-top: 4px;
+    }
+    .cond-note {
+      font-size: 28px; color: rgba(232,220,200,0.42);
+      text-align: center; margin-top: 4px; font-style: italic;
+    }
+    .cond-close {
+      font-family: 'Playfair Display', serif;
+      font-size: 42px; font-weight: 700;
+      color: #e8dcc8; text-align: center;
+      margin-top: 46px; line-height: 1.45;
+      max-width: 840px; padding: 0 44px;
+    }
+    .cond-close span { color: #c9a84c; }
+
+    /* ─────────────────────────────────────────────────── *
+     * SCENE 5 — CLOSE                                    *
+     * ─────────────────────────────────────────────────── */
+    .close-arabic {
+      font-family: 'Amiri', serif;
+      font-size: 62px; font-weight: 400;
+      color: rgba(201,168,76,0.68);
+      direction: rtl; text-align: center;
+      line-height: 1.6; max-width: 880px; padding: 0 44px;
+    }
+    .close-ref {
+      font-size: 30px; color: rgba(201,168,76,0.42);
+      margin-top: 28px; letter-spacing: 0.18em;
+    }
+  </style>
+</head>
+
+<body data-composition-id="main" data-width="1080" data-height="1920" data-start="0">
+<div id="root">
+
+  <!-- ─── PERSISTENT OVERLAYS ───────────────────────── -->
+  <div id="grain-overlay"><div class="grain-texture"></div></div>
+  <div id="hf-vignette"></div>
+  <div class="border-frame"></div>
+
+  <!-- ═══════════════════════════════════════════════════
+       SCENE 0 — COVER (0–1.5s)
+       Fully visible from frame 1 — this IS the cover card.
+       ═══════════════════════════════════════════════════ -->
+  <div class="scene" id="scene-cover">
+    <div class="cover-surah-label">Al-Asr · 103</div>
+    <div class="cover-arabic hf-texture-text hf-texture-travertine">وَٱلْعَصْرِ</div>
+    <div class="cover-translation">By Time.</div>
+    <div style="margin-top:36px"><div class="gold-line"></div></div>
+    <div class="cover-hook">
+      The Quran doesn't say you might lose.<br/>
+      It says you're already <em>inside</em> loss — right now.
+    </div>
+    <div class="brand">AyahGuide</div>
+  </div>
+
+  <!-- ═══════════════════════════════════════════════════
+       SCENE 1 — ROOT REVEAL (1.5–8s)
+       ═══════════════════════════════════════════════════ -->
+  <div class="scene" id="scene-root">
+    <div class="root-label">The Root · ع ص ر</div>
+    <div class="root-letters">
+      <!-- RTL order: ع on right, ر on left (will read right-to-left) -->
+      <div class="root-letter hf-texture-text hf-texture-travertine" id="r-ر">ر</div>
+      <div class="root-letter hf-texture-text hf-texture-travertine" id="r-ص">ص</div>
+      <div class="root-letter hf-texture-text hf-texture-travertine" id="r-ع">ع</div>
+    </div>
+    <div class="gold-line-short" id="root-divider" style="margin-bottom:28px"></div>
+    <div class="root-meaning" id="root-meaning">
+      to <span>squeeze</span> · to <span>press</span> · to <span>wring</span>
+    </div>
+    <div class="root-subtext" id="root-subtext">
+      The oath is sworn by the thing already compressing your life — grain by grain.
+    </div>
+    <div class="brand">AyahGuide</div>
+  </div>
+
+  <!-- ═══════════════════════════════════════════════════
+       SCENE 2 — THE VERDICT (8–19s)
+       ═══════════════════════════════════════════════════ -->
+  <div class="scene" id="scene-verdict">
+    <div class="verdict-setup" id="v-setup">
+      Three layers of emphasis.<br/>The heaviest Arabic grammar can carry.
+    </div>
+    <div class="verdict-words">
+      <div class="vword vword-accent" id="v-inna">إِنَّ</div>
+      <div class="vword vword-white"  id="v-insan">ٱلْإِنسَـٰنَ</div>
+      <div class="vword vword-accent" id="v-la">لَفِى</div>
+      <div class="vword vword-khusr hf-texture-text hf-texture-concrete loss-color" id="v-khusr">خُسْرٍ</div>
+    </div>
+    <div class="emphasis-label" id="v-emphasis">triple emphasis · contained · immersed</div>
+    <div style="margin-bottom:28px"><div class="gold-line"></div></div>
+    <div class="verdict-insight" id="v-insight">
+      Not heading <span>toward</span> loss.<br/>
+      You are <span>inside</span> it — right now.
+    </div>
+    <div class="verdict-sub" id="v-sub">
+      فِى = in, immersed, surrounded — not "at" loss. Inside it.
+    </div>
+    <div class="brand">AyahGuide</div>
+  </div>
+
+  <!-- ═══════════════════════════════════════════════════
+       SCENE 3 — THE TURN (19–23.5s)
+       ═══════════════════════════════════════════════════ -->
+  <div class="scene" id="scene-turn">
+    <!-- shimmer-host wraps إِلَّا for the sweep effect -->
+    <div class="shimmer-host">
+      <div class="turn-except" id="turn-except">إِلَّا</div>
+      <div class="shimmer-beam" id="shimmer-beam"></div>
+    </div>
+    <div class="turn-english" id="turn-english">except</div>
+    <div class="turn-sub" id="turn-sub">One door. Four conditions.</div>
+    <div class="brand">AyahGuide</div>
+  </div>
+
+  <!-- ═══════════════════════════════════════════════════
+       SCENE 4 — FOUR CONDITIONS (23.5–41s)
+       ═══════════════════════════════════════════════════ -->
+  <div class="scene" id="scene-conditions">
+    <div class="cond-title" id="cond-title">The Only Exit</div>
+    <div class="cond-list">
+
+      <div class="cond-row" id="cond-1">
+        <div class="cond-num">01</div>
+        <div class="cond-arabic">آمَنُوا</div>
+        <div class="cond-english">They believed</div>
+      </div>
+
+      <div class="gold-line-short" id="cond-div-1"></div>
+
+      <div class="cond-row" id="cond-2">
+        <div class="cond-num">02</div>
+        <div class="cond-arabic">وَعَمِلُوا ٱلصَّـٰلِحَـٰتِ</div>
+        <div class="cond-english">They did repairing deeds</div>
+        <div class="cond-note">ص-ل-ح: to mend, restore — not just "good"</div>
+      </div>
+
+      <div class="gold-line-short" id="cond-div-2"></div>
+
+      <div class="cond-row" id="cond-3">
+        <div class="cond-num">03</div>
+        <div class="cond-arabic">وَتَوَاصَوْا بِٱلْحَقِّ</div>
+        <div class="cond-english">Mutually counseled truth</div>
+        <div class="cond-note">Form VI — not I told you. We told each other.</div>
+      </div>
+
+      <div class="gold-line-short" id="cond-div-3"></div>
+
+      <div class="cond-row" id="cond-4">
+        <div class="cond-num">04</div>
+        <div class="cond-arabic">وَتَوَاصَوْا بِٱلصَّبْرِ</div>
+        <div class="cond-english">Mutually counseled patience</div>
+        <div class="cond-note">Same Form VI, repeated — the grammar insists</div>
+      </div>
+
+    </div>
+
+    <div class="cond-close" id="cond-close">
+      تَوَاصَوْا appears <span>twice</span>.<br/>
+      You cannot escape loss <span>alone</span>.
+    </div>
+    <div class="brand">AyahGuide</div>
+  </div>
+
+  <!-- ═══════════════════════════════════════════════════
+       SCENE 5 — CLOSE (41–44s)
+       ═══════════════════════════════════════════════════ -->
+  <div class="scene" id="scene-close">
+    <div class="close-arabic" id="close-arabic">
+      إِنَّ ٱلْإِنسَـٰنَ لَفِى خُسْرٍ<br/>
+      إِلَّا ٱلَّذِينَ ءَامَنُوا وَعَمِلُوا ٱلصَّـٰلِحَـٰتِ<br/>
+      وَتَوَاصَوْا بِٱلْحَقِّ وَتَوَاصَوْا بِٱلصَّبْرِ
+    </div>
+    <div class="close-ref" id="close-ref">Al-Asr · 103:2–3</div>
+    <div class="brand">AyahGuide</div>
+  </div>
+
+</div><!-- #root -->
+
+<!-- ─── AUDIO — HyperFrames-managed ─────────────────── -->
+<audio id="bg-audio" src="/assets/ambient.mp3"
+       data-start="0" data-media-start="4" data-volume="0.22" preload="auto"></audio>
+
+<script>
+  const tl = gsap.timeline({ paused: true });
+
+  /* ── INITIAL STATES (set before playback) ─────────── */
+  gsap.set(['#scene-root','#scene-verdict','#scene-turn','#scene-conditions','#scene-close'],
+    { opacity: 0 });
+
+  /* hidden elements within scenes */
+  gsap.set(['#r-ع','#r-ص','#r-ر'], { opacity: 0, y: 24 });
+  gsap.set('#root-divider',  { opacity: 0 });
+  gsap.set('#root-meaning',  { opacity: 0, y: 16 });
+  gsap.set('#root-subtext',  { opacity: 0 });
+  gsap.set('#v-setup',       { opacity: 0 });
+  gsap.set(['#v-inna','#v-insan','#v-la','#v-khusr'], { opacity: 0, y: 20 });
+  gsap.set('#v-emphasis',    { opacity: 0 });
+  gsap.set('#v-insight',     { opacity: 0 });
+  gsap.set('#v-sub',         { opacity: 0 });
+  gsap.set('#turn-except',   { opacity: 0, scale: 0.85 });
+  gsap.set('#turn-english',  { opacity: 0 });
+  gsap.set('#turn-sub',      { opacity: 0 });
+  gsap.set('#shimmer-beam',  { x: -280 });
+  gsap.set('#cond-title',    { opacity: 0 });
+  gsap.set(['#cond-1','#cond-2','#cond-3','#cond-4'], { opacity: 0, y: 14 });
+  gsap.set(['#cond-div-1','#cond-div-2','#cond-div-3'], { opacity: 0 });
+  gsap.set('#cond-close',    { opacity: 0 });
+  gsap.set('#close-arabic',  { opacity: 0 });
+  gsap.set('#close-ref',     { opacity: 0 });
+
+  /* ── SCENE 0: COVER (0 → 1.5s) ──────────────────── */
+  tl.to('#scene-cover', { opacity: 0, duration: 0.5 }, 1.5);
+
+  /* ── SCENE 1: ROOT REVEAL (1.5 → 8s) ─────────────── */
+  tl.to('#scene-root',  { opacity: 1, duration: 0   }, 1.5);
+  /* RTL letter assembly: ع appears first (rightmost), then ص, then ر */
+  tl.to('#r-ع', { opacity: 1, y: 0, duration: 0.5 }, 2.0);
+  tl.to('#r-ص', { opacity: 1, y: 0, duration: 0.5 }, 2.8);
+  tl.to('#r-ر', { opacity: 1, y: 0, duration: 0.5 }, 3.6);
+  tl.to('#root-divider', { opacity: 1, duration: 0.4 }, 4.2);
+  tl.to('#root-meaning', { opacity: 1, y: 0, duration: 0.6 }, 4.5);
+  tl.to('#root-subtext', { opacity: 1, duration: 0.7 }, 5.4);
+  /* hold until 7.7s — letters sit on screen 4+ seconds */
+  tl.to('#scene-root', { opacity: 0, duration: 0.5 }, 7.7);
+
+  /* ── SCENE 2: THE VERDICT (8 → 19s) ─────────────── */
+  tl.to('#scene-verdict', { opacity: 1, duration: 0 }, 8.0);
+  tl.to('#v-setup', { opacity: 1, duration: 0.6 }, 8.2);
+  /* Each word drops in, 0.9s apart — slow, deliberate */
+  tl.to('#v-inna',  { opacity: 1, y: 0, duration: 0.5 }, 9.2);
+  tl.to('#v-insan', { opacity: 1, y: 0, duration: 0.5 }, 10.1);
+  tl.to('#v-la',    { opacity: 1, y: 0, duration: 0.5 }, 11.0);
+  /* khusr — the heavy reveal, concrete-textured */
+  tl.to('#v-khusr', { opacity: 1, y: 0, duration: 0.7 }, 12.1);
+  tl.to('#v-emphasis', { opacity: 1, duration: 0.5 }, 13.2);
+  tl.to('#v-insight',  { opacity: 1, duration: 0.7 }, 14.0);
+  tl.to('#v-sub',      { opacity: 1, duration: 0.5 }, 15.0);
+  /* 3.5s post-reveal hold — the most important stillness */
+  tl.to('#scene-verdict', { opacity: 0, duration: 0.5 }, 18.5);
+
+  /* ── SCENE 3: THE TURN (19 → 23.5s) ─────────────── */
+  tl.to('#scene-turn',  { opacity: 1, duration: 0 }, 19.0);
+  /* إِلَّا slams in with scale punch */
+  tl.to('#turn-except', { opacity: 1, scale: 1, duration: 0.45, ease: 'back.out(1.4)' }, 19.1);
+  /* shimmer beam sweeps L → R */
+  tl.to('#shimmer-beam', { x: 880, duration: 1.3, ease: 'power2.inOut' }, 19.2);
+  tl.to('#turn-english', { opacity: 1, duration: 0.5 }, 19.7);
+  tl.to('#turn-sub',     { opacity: 1, duration: 0.5 }, 20.4);
+  /* 3s hold */
+  tl.to('#scene-turn', { opacity: 0, duration: 0.4 }, 23.1);
+
+  /* ── SCENE 4: FOUR CONDITIONS (23.5 → 41s) ─────── */
+  tl.to('#scene-conditions', { opacity: 1, duration: 0 }, 23.5);
+  tl.to('#cond-title', { opacity: 1, duration: 0.5 }, 23.7);
+  /* Conditions appear one every ~3.5s — readable pacing */
+  tl.to('#cond-1',     { opacity: 1, y: 0, duration: 0.6 }, 24.3);
+  tl.to('#cond-div-1', { opacity: 1, duration: 0.4 }, 27.4);
+  tl.to('#cond-2',     { opacity: 1, y: 0, duration: 0.6 }, 27.8);
+  tl.to('#cond-div-2', { opacity: 1, duration: 0.4 }, 31.0);
+  tl.to('#cond-3',     { opacity: 1, y: 0, duration: 0.6 }, 31.4);
+  tl.to('#cond-div-3', { opacity: 1, duration: 0.4 }, 34.6);
+  tl.to('#cond-4',     { opacity: 1, y: 0, duration: 0.6 }, 35.0);
+  /* all four visible — 3s hold at shareable frame */
+  tl.to('#cond-close', { opacity: 1, duration: 0.7 }, 38.0);
+  /* 3s hold on close line */
+  tl.to('#scene-conditions', { opacity: 0, duration: 0.5 }, 40.8);
+
+  /* ── SCENE 5: CLOSE (41 → 44.5s) ────────────────── */
+  tl.to('#scene-close',  { opacity: 1, duration: 0 }, 41.1);
+  tl.to('#close-arabic', { opacity: 1, duration: 0.8 }, 41.2);
+  tl.to('#close-ref',    { opacity: 1, duration: 0.5 }, 42.2);
+  /* slow fade to black */
+  tl.to('#scene-close', { opacity: 0, duration: 0.9 }, 43.4);
+  /* dummy tween to hold timeline at full duration */
+  tl.to({}, { duration: 0.01 }, 44.5);
+
+  /* ── REGISTER WITH HYPERFRAMES RUNTIME ───────────── */
+  window.__timelines = window.__timelines || {};
+  window.__timelines['main'] = tl;
+</script>
+
+</body>
+</html>
