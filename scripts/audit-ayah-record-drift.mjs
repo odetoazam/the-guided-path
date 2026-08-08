@@ -64,8 +64,32 @@ for (const r of rows) {
     `ayahs-${pad(r.ayah_start)}-${pad(r.ayah_end)}.md`,
     `ayah-${pad(r.ayah_start)}.md`,
   ].map((f) => path.join(ROOT, dir, f))
-  const file = candidates.find((f) => fs.existsSync(f))
-  if (!file) { missingFile.push(`${r.surah_number}:${r.ayah_start}-${r.ayah_end} → ${candidates[0]}`); continue }
+  let file = candidates.find((f) => fs.existsSync(f))
+  if (!file) {
+    // The corpus regrouped ayahs over time, so a row for 2:6-7 has no
+    // same-named file while content/tadabbur/002-al-baqarah/ayahs-006-017.md
+    // covers it. Name the containing file so the orphan is legible rather than
+    // just "missing" — these rows are live text no corpus fix can reach.
+    const ranges = fs.readdirSync(path.join(ROOT, dir))
+      .filter((f) => f.endsWith('.md'))
+      .map((f) => {
+        const m = f.match(/^ayahs?-(\d{3})(?:-(\d{3}))?\.md$/)
+        if (!m) return null
+        return { f, lo: +m[1], hi: +(m[2] ?? m[1]) }
+      })
+      .filter(Boolean)
+    const container = ranges.find((c) => c.lo <= r.ayah_start && c.hi >= r.ayah_end)
+    // No single container does not mean the content is missing — the row's range
+    // may simply straddle the corpus's current grouping.
+    const overlaps = ranges.filter((c) => c.hi >= r.ayah_start && c.lo <= r.ayah_end)
+    missingFile.push(
+      `${r.surah_number}:${r.ayah_start}-${r.ayah_end} → no ${path.basename(candidates[0])}; ` +
+      (container ? `covered by ${container.f} (${container.lo}-${container.hi})`
+        : overlaps.length ? `spans ${overlaps.length} files: ${overlaps.map((o) => o.f).join(', ')}`
+        : 'no file covers or overlaps this range')
+    )
+    continue
+  }
 
   const raw = fs.readFileSync(file, 'utf8')
 
