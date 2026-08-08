@@ -120,6 +120,20 @@ Your linguistic analysis may ONLY draw on what this table confirms. If an insigh
 
 Choose **2-3 linguistic elements maximum** — each grounded in a specific word or grammatical feature from Step 0, including significant absences, address shifts, or sonic observations.
 
+**Rotate the lens — do not default to counting.** The easiest observation to reach for is "this root appears N times," and an entire corpus written that way becomes monotonous long before it becomes wrong. Counting is one lens among many, and rarely the deepest:
+
+- *naẓm* — word order, and what a different order would have cost
+- *iltifāt* — the shift in who is addressed, and the emotional gap it opens
+- ring composition — a symmetry whose center carries the weight
+- single-point grammar — one case ending, one particle, one mood that turns the ayah
+- intertextual divergence — a near-identical phrase elsewhere that differs in exactly one place
+- divine-response shape — what a request asks for versus what the answer actually gives
+- morphological form — what Form II/V/X is doing that Form I would not
+- sonic texture — phonetic weight that matches or fights the meaning
+- absence and asymmetry — the object left unspecified, the group left unmentioned
+
+**At least one anchor must come from a non-counting lens.** If all your anchors are frequency observations, you have found the most available reading, not the truest one — go back to the Step 0 table and look again.
+
 Choose **2 themes maximum** that are actually present in this text, transformative if internalized, and deep enough for 7-9 minutes each.
 
 ### C. Find your analogy
@@ -415,6 +429,65 @@ When the pass is complete, the reflection you hand forward is the *revised* one.
 
 ---
 
+## THE REFUTATION PASS (Adversarial — Mandatory, After the Revision Pass)
+
+The Revision Pass edits as a friendly editor. This pass is different: **you are now
+opposing counsel.** Your only job is to destroy the piece's central claims — and the
+piece ships only if you fail.
+
+Why this exists: in the July 2026 lockdown audit, 3 of 9 rebuilt reflections carried
+a false thesis that passed every validator and every friendly checklist. The
+validators check quotes and morphology; nothing checked whether the thesis was
+*true*. And the dominant overclaim pattern — "all four X do Y" when only three do —
+passed because no pass ever enumerated the four and checked each one. This pass is
+that check.
+
+### Inputs
+1. The one-sentence distillation (the thesis)
+2. The 2-3 anchor claims from Step 1B
+3. The 📋 LEDGER from `verify_claims.mjs` (Layer 4 below) — every entry must be ruled on here
+4. The tafsir cross-reference report (Layer 3)
+
+### The attacks — run each one, in writing
+
+**1. Enumerate every universal.** For each ledger quantifier claim ("all four
+stories...", "each of the three...", "every time the root appears..."): list the N
+members BY NAME and verify the predicate against each member individually. The known
+failure mode is that member four doesn't actually fit and the prose glides over it.
+If one member fails, the claim is rewritten to the true count — or cut.
+
+**2. Construct the rival thesis.** Build the strongest *alternative* reading of the
+same passage — the one a skeptical hafiz would offer. If the rival explains the same
+textual features (same roots, same structure, same absences) equally well, your
+thesis is not "the" reading. Downgrade its language: "this ayah argues" becomes "one
+way to read this."
+
+**3. Hunt the counter-ayah.** Search for the Quranic data point that breaks the
+thesis: another occurrence of the anchor root used in the opposite direction; another
+passage where the "unique" structure recurs; an ayah whose plain sense cuts against
+the claim. The corpus cache and the `verify_claims` candidate lists are your tools.
+If a counter-ayah exists and the piece doesn't account for it, the piece is not done.
+
+**4. Cross-examine the classical record.** For every claim presented with classical
+backing: does the tafsir report actually contain it? For every claim the scholars are
+silent on: is it written as an interpretive extension — or is it wearing borrowed
+authority?
+
+### Verdicts — one per claim, recorded in a refutation log
+- **SURVIVES** — the attack failed; the claim stands as written
+- **DOWNGRADE** — the claim is real but overclaimed; rewrite at honest strength
+  ("all" → the true count; "the only" → "one of the few"; "argues" → "invites")
+- **REFUTED** — rebuild the affected section; if the thesis itself is refuted,
+  return to Step 1
+
+### The gate
+A refutation log with zero DOWNGRADEs across a whole piece means the attacks were
+not really run — no 50-minute reflection survives all four attacks untouched at full
+strength. The inverse discipline also holds: attacks that *fail* are recorded too.
+The log is the proof the pass happened.
+
+---
+
 ## AUTOMATED VERIFICATION (Post-Generation — Mandatory)
 
 After generating the tadabbur reflection, run the following verification scripts
@@ -457,7 +530,17 @@ wrong, and every insight built on it is fabricated. This layer catches that.
 **Tagging requirement:** Tag each word in the Step 0 table:
 `<!-- morphology:S:A:W root=xxx pos=XXX -->`
 
-Where S=surah, A=ayah, W=word position in the ayah (1-indexed).
+Where S=surah, A=ayah, and **W is the 1-indexed position in the ayah's flat
+SEGMENT list — not the orthographic word count.**
+
+⚠️ This trips up every run that assumes W means "the Nth word you can see." The
+corpus splits prefixes into their own segments, so any attached ال، و، ف، ب، ل
+shifts every later index. In 2:94 the segment list runs
+`قُلْ / إِن / كَانَتْ / لَ / كُمُ / ٱل / دَّارُ` — so the word you would call the
+fourth (*lakum*) occupies segments 4 and 5, and the fifth word (*al-dāru*) is
+segments 6 and 7. Counting words instead of segments silently verifies your claim
+against a **different word** and reports a pass. Count segments, and use
+Arabic-script roots (رغد), never transliteration.
 
 **Setup (one-time):** `node scripts/verify_morphology.mjs --setup`
 **Run:** `node scripts/verify_morphology.mjs output.md`
@@ -483,14 +566,86 @@ claims. This is especially important for:
 - Thematic claims — check whether the themes you identified align with classical reading
 - The composite sketch — ensure you're building with real scholarly layers, not invented ones
 
+### Layer 4: Falsifiable-Claim Verification (verify_claims.mjs)
+
+**What it checks:** Every countable claim in the *prose* — "this root appears three
+times," "the word X never appears in this surah," "the only place in the Quran" —
+against the morphology corpus, counted **three ways** (root, lemma, exact surface
+form), because the three diverge and prose rarely says which it means. This is the
+error class that has actually shipped: counts and "only/all/every" claims sail
+through Layers 1-3 untouched.
+
+**Run:** `node scripts/verify_claims.mjs output.md`
+(non-tadabbur file paths: add `--surah N --ayahs A-B`)
+
+- ❌ **FAILED** claims are corpus-refuted. Fix the prose — and if an insight was
+  built on the claim, rebuild the insight, not just the number. Never "fix" a failed
+  claim by vaguing it up ("appears several times"): use the real count or cut the claim.
+- 📋 **LEDGER** claims can't be auto-verified (universal quantifiers, English-only
+  subjects, pairing claims). The ledger is the mandatory input to the Refutation
+  Pass — every entry gets ruled on by name.
+- Tag hand-verified claims `<!-- claim:ok reason -->`; disambiguate subjects with
+  `<!-- claim:subject=WORD scope=ayah|surah|quran -->`.
+
 ### Verification Workflow
 
-1. Generate the tadabbur reflection
+1. Generate the tadabbur reflection (including the Revision Pass)
 2. Run `verify_arabic.mjs` → fix any failed Arabic quotations
 3. Run `verify_morphology.mjs` → fix any wrong root/POS claims in Step 0 table
 4. Run `cross_reference_tafsir.mjs` → review tafsir report for divergences
-5. If morphology fails: the linguistic journey built on that claim must be revised
-6. Only publish after all three layers pass
+5. Run `verify_claims.mjs` → fix FAILED claims; carry the LEDGER into the Refutation Pass
+6. Run the Refutation Pass with the ledger + tafsir report as inputs
+7. If morphology or a claim fails: the linguistic journey built on it must be revised
+8. Only publish after all four layers pass and the refutation log is written
+
+---
+
+## REPAIRING AN ALREADY-VALIDATED FILE
+
+Fixing a published reflection is a different job from writing one, and a more
+dangerous one. In the August 2026 audit, **3 of 16 repairs introduced new errors** —
+the repair pass, not the original generation, was the leading source of fresh
+defects. A file that reaches you for repair has already passed every validator;
+your edit is the only thing that can break it.
+
+**Edit minimally.** Change the smallest span that fixes the defect. Do not rewrite
+the surrounding paragraph because you would have phrased it differently, do not
+"improve" adjacent prose, and do not re-run the Revision Pass over the whole file.
+The parts that are working are not your assignment.
+
+**Never soften a wrong claim into a vague one.** "Appears three times" corrected to
+"appears several times" is not a fix — it is the error hidden. Use the true value,
+or cut the claim and whatever was built on it.
+
+**If an insight rested on the defect, the insight goes too.** A corrected count that
+leaves the paragraph's conclusion untouched means the conclusion never depended on
+the evidence — which is its own defect. Follow the claim to everything downstream of
+it and rebuild that, or remove it.
+
+**Frozen, as always:** tagged Arabic quotations and the Step 0 morphology table.
+
+**Re-run everything.** All four validators on the whole file — not just the section
+you touched. A repair is not done when the edit is made; it is done when the file
+passes again.
+
+**Then re-run the Refutation Pass on the repaired file. This is not optional, and
+the validators cannot substitute for it.** Observed on the very first repair run
+under this protocol: the fix was correct, all four validators passed clean — and
+the rewrite had introduced **two new "all three" overclaims** in the connecting
+prose written to join the corrected fact to the surrounding argument. Neither was
+corpus-checkable, so no script could have caught them; only enumerating the
+universals by name did. The repair had reproduced the exact defect class it was
+sent to remove.
+
+That is the shape of the danger. A repair rarely breaks the fact it corrected — it
+breaks the sentences written *around* the correction, where you are reaching for a
+connection to make the new material feel integrated. Attack those sentences
+hardest: for every "all three / both / each of these" you just wrote, name the
+members and check the predicate against each one. Take the ledger to zero, or write
+down why an entry stands.
+
+**Log it.** Record what was wrong, what changed, and what re-verified, in the
+article-backlog session log.
 
 ---
 
@@ -519,15 +674,17 @@ claims. This is especially important for:
 
 ## CONTINUATION HANDLING
 
-Responses will often exceed token limits given the depth required.
+**Do not plan around a length limit.** Write the reflection to its natural end. A
+reflection that stops early because it anticipated running out of room is the
+failure this section exists to prevent — a file truncated mid-sentence has to be
+quarantined, and has been.
 
-**When you hit the limit:**
-1. Complete the current sentence or thought naturally
-2. End with: *[Continuing — say 'continue']*
+Only if you genuinely reach a hard stop: finish the sentence you are in, end with
+*[Continuing — say 'continue']*, and on "continue" resume exactly where you
+stopped — no recap, no "as I was saying."
 
-**When user says "continue":**
-1. Resume exactly where you stopped — no recap, no "As I was saying"
-2. Just continue the flow as if uninterrupted
+Never end a section, a theme, or the closing synthesis early to save room. If the
+piece must be split, split it *between* movements, never inside one.
 
 ---
 

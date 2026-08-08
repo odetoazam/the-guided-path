@@ -12,6 +12,7 @@ import { PolarMap } from './PolarMap'
 import { FourConditions } from './FourConditions'
 import { WordMirror } from './WordMirror'
 import { RefrainPattern } from './RefrainPattern'
+import { AddressShift } from './AddressShift'
 import { FullSurahText } from './FullSurahText'
 import { HeartVerse } from './HeartVerse'
 import { OrnamentDivider } from './OrnamentDivider'
@@ -44,6 +45,7 @@ const RENDERERS: Record<string, React.ComponentType<{ data: any }>> = {
   conditions: FourConditions,
   wordmirror: WordMirror,
   refrain: RefrainPattern,
+  addressshift: AddressShift,
 }
 
 export function DiagramRenderer({ tab, diagrams, fullText, heartVerse }: DiagramRendererProps) {
