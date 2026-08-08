@@ -326,7 +326,7 @@ const SPAN_RE = /\b(?:the\s+)?(?:whole|entire)\s+(?:verse|ayah|āyah|surah|sūra
 // words" — and every one of those is about a fragment, not the ayah's length.
 // Requiring contains/consists-of/has/is immediately before the numeral is what
 // separates the two; a looser rule flagged 37 correct sentences in one sweep.
-const WORDCOUNT_RE = /\b(?:verse|ayah|āyah)\b[^.!?؟]{0,20}?\b(?:contains|consists\s+of|comprises|has|is)\s+(?:only\s+|just\s+|a\s+mere\s+)?(\d+|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|thirteen|fourteen|fifteen|sixteen|seventeen|eighteen|nineteen|twenty)\s+words\b/i
+const WORDCOUNT_RE = /\b(?:verse|ayah|āyah)\b[^.!?؟]{0,20}?\b(?:contains|consists\s+of|comprises|has|is)\s+(?:only\s+|just\s+|a\s+mere\s+)?(\d+|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|thirteen|fourteen|fifteen|sixteen|seventeen|eighteen|nineteen|twenty)\s+words\b(?!\s+(?:longer|shorter|more|fewer|less)\b)/i
 const NARRATIVE_GUARD = /\b(?:prophet|ﷺ|prayer|prays?|prayed|day|daily|markets?|hand|question|thousand|hundred\s+thousand|knock|door)\b/i
 
 const results = { verified: [], failed: [], manual: [], ledger: [] }
