@@ -32365,3 +32365,46 @@ PASS (0 failed, 8 ledger, all ruled). Refutation Pass run on my own new prose:
 "the only one that would have blamed Him" holds — disease and doubt are internal
 to the man, only the third accuses Allah. Ibn Kathīr quote checked verbatim
 against tafsir-report-048-050.md. Not published in ayah_records (no row).
+
+### 2026-08-08 — repair: al-Waqiah 56:75-82, three borrowed-authority defects
+
+**Wrong (1) — invented consensus on *kitāb maknūn* (L284-290).** The piece listed
+three referents and said "all three readings were held by classical mufassirūn."
+The third — the hearts of the believers — has **zero** support in the 2,589-line
+tafsir report beside the file (0 hits for قلوب/قلب/صدور). Al-Ṭabarī's own gloss is
+*kitābun maṣūnun ʿinda-Llāh*, a Book kept safe with Allah that no dust touches;
+Mujāhid says the same; and 56:80 calls the Qur'an *tanzīl* **from** it. Al-Jalālayn's
+actual referent — the written *muṣḥaf* — had been dropped entirely.
+**Changed:** restored the muṣḥaf, kept the two attested readings, and demoted the
+hearts idea to an explicitly-owned extension with the reason it has no footing (the
+Book here is what is descended *from*, not descended *into*).
+
+**Wrong (2) — reversed scholarly preference on *mawāqiʿ al-nujūm* (L202-208).**
+"The third reading — and this is the one the classical scholars found the deepest."
+The staged-revelation reading IS soundly transmitted (Ibn ʿAbbās, ʿIkrimah ×2), so
+I nearly ruled the finding wrong on the attestation list alone — but al-Ṭabarī's
+adjudication settles it: *wa awlā l-aqwāl… masāqiṭ al-nujūm wa maghāyibihā*, the
+astronomical sense, argued **morphologically** (*mawāqiʿ* is the plural of *mawqiʿ*,
+*mafʿil* from *waqaʿa*). A fourth reading (*manāzil al-nujūm*, Qatādah) was silently
+dropped. **Changed:** added the fourth reading, stated al-Ṭabarī's ruling and his
+morphological reason plainly, and re-framed the section as a transmitted reading the
+piece chooses to sit inside — explicitly not the one the tradition ranks first. The
+"Quran swearing by the Quran" movement survives, but on honest footing.
+
+**Wrong (3) — FOUND BY MY OWN SWEEP, not in the report (L441).** "Only beings who
+have never known defilement come near it at all. The angels… Whatever touches the
+Book at its deepest level is not you — not yet, not ever in this life." Al-Ṭabarī
+rules the exact opposite: Allah "made His statement **general** about the purified
+and did not specify some to the exclusion of others — the angels are among the
+purified, and the messengers and prophets, **and everyone purified from sins**."
+This was the most consequential of the three: it told the reader a door was
+permanently shut that the tradition holds open. **Changed:** kept the angelic
+given-vs-struggle contrast (it is real and good), then let al-Ṭabarī reopen the
+circle — the verse names a condition, not a species.
+
+**Verified:** verify_arabic 0 failed; verify_morphology 19 verified / 0 failed;
+verify_claims PASS (0 failed, 7 ledger, all ruled). Refutation Pass run on my own
+new prose — the only universals I introduced ("those are the two the mufassirūn
+actually hold") were enumerated against the report before shipping. Not published
+in ayah_records (no row). Fourth consecutive repair where the whole-file sweep
+found more than the report listed.
