@@ -32333,3 +32333,35 @@ All six entries from `docs/refutation-pass-2026-08-07.md`. Every corrected numbe
 - **20:55, 27:1, 31:33, 35:13 — not published.** No covering row in `ayah_records` (checked by range, `ayah_start <= n <= ayah_end`, not equality). File-only; the fix travels with them whenever they are published.
 
 **DB-probe trap worth recording.** `layer_a` and `layer_b` are **JSON objects**, not strings. `[r.layer_a, r.layer_b].join("\n")` stringifies them to `"[object Object]"` and every substring probe returns a **false negative** — this reported 2:62 as clean when it was not. Use `JSON.stringify` on the layers. Separately, an unfiltered `.select()` hit the **PostgREST 1000-row cap** and reported four published rows as missing; filter server-side or paginate.
+
+### 2026-08-08 — repair: an-Nur 24:48-50, the "bal removes all three" error
+
+**Wrong:** Four sites (L262, L266, L382, L472) asserted the *bal* in 24:50 cancels
+all three diagnoses. It cancels only the third. The file's own quoted proofs
+(al-Jalālayn's bare *lā*, al-Muyassar's *kallā innahum lā yakhāfūna jawrā*) both
+answer the third question only, and it omitted Ibn Kathīr, who settles it: they
+"must necessarily" have a disease, or doubt, or that fear — "whichever it is...
+Allah knows which of these each one of them has." Al-Ṭabarī reads the *bal* the
+same way: they did not really fear the Messenger would wrong them; rather they
+wrong themselves.
+
+**Changed:** Rescoped the *bal* to the third question at all four sites. Rebuilt
+Theme Two, whose core claim ("there is nothing underneath… the behavior is the
+condition") was the wrong reading stated at full strength — the corrected reading
+is stronger: Allah does not acquit the man of illness, He removes the one excuse
+that would have made Him the defendant, and leaves the other two standing with
+only Allah knowing which applies.
+
+**Whole-file sweep found a 5th site the report missed:** L73, in the early framing,
+said "sweeps all of them off the table" — different wording, so no grep for "all
+three" would have reached it. This is the third consecutive repair where the
+ledger under-reported. Left L220 ("only three explanations") untouched: that one
+is CORRECT, since Ibn Kathīr affirms the enumeration is exhaustive. Correct
+instances sit beside wrong ones — never blanket-replace.
+
+**Verified:** verify_arabic 0 failed; verify_morphology no claims; verify_claims
+PASS (0 failed, 8 ledger, all ruled). Refutation Pass run on my own new prose:
+"does not sweep all three" enumerates correctly (2 left standing, 1 struck), and
+"the only one that would have blamed Him" holds — disease and doubt are internal
+to the man, only the third accuses Allah. Ibn Kathīr quote checked verbatim
+against tafsir-report-048-050.md. Not published in ayah_records (no row).

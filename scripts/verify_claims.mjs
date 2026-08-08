@@ -74,6 +74,17 @@ function inferScope() {
     }
   }
   if (!surah) {
+    // Frontmatter — the authority when it is present, and the only source for a
+    // file that is not on the canonical tadabbur path (staging, exports, tests).
+    const fm = text.match(/^---\n([\s\S]*?)\n---/)
+    if (fm) {
+      const g = (k) => (fm[1].match(new RegExp(`^${k}:\\s*"?(\\d+)"?`, 'm')) || [])[1]
+      const s = g('surah'), a1 = g('ayah_start'), a2 = g('ayah_end')
+      if (s) surah = parseInt(s, 10)
+      if (a1 && !range) range = [parseInt(a1, 10), parseInt(a2 || a1, 10)]
+    }
+  }
+  if (!surah) {
     // SURAH_DATA in a visual .tsx
     const m = text.match(/number:\s*(\d+)/)
     if (m) surah = parseInt(m[1], 10)
@@ -296,6 +307,26 @@ const NEGATED_ABSENCE_RE = /\bdo(?:es)?\s+not\s+(?:appear|occur)\s+only\b/i
 const GRAMMATICAL_GAP_RE = /\b(?:object|subject|complement|referent|answer|amount|agent|addressee)\b[^.!?؟]{0,40}\bis\s+absent\b|\bis\s+absent\b[^.!?؟]{0,30}\b(?:from\s+the\s+(?:sentence|grammar|clause))\b/i
 const UNIQUE_RE = /\b(?:only\s+(?:place|time|ayah|verse|surah|sūrah|occurrence)|nowhere\s+else|appears?\s+only\s+once|occurs?\s+only\s+once|hapax|the\s+only\s+(?:word|root|surah|sūrah)|unique\s+to\s+this)\b/i
 const QUANT_RE = /\b(?:all|each|every)\s+(?:one\s+of\s+)?(?:of\s+the\s+)?(two|three|four|five|six|seven|eight|nine|ten|\d+)\b/i
+// SPAN-SCOPE universals. "The WHOLE verse is built on م-ل-ك" was true as a count
+// (twice) and false as a scope — the root sits at segments 35 and 44 of 47, the
+// final third, with the entire cosmic opening running before it sounds once.
+// No count or quantifier detector sees this, and it survived four validators.
+const SPAN_RE = /\b(?:the\s+)?(?:whole|entire)\s+(?:verse|ayah|āyah|surah|sūrah|passage)\b|\bthroughout\s+(?:the\s+)?(?:verse|ayah|surah|passage)\b|\bfrom\s+start\s+to\s+finish\b|\bevery\s+part\s+of\s+(?:the\s+)?(?:verse|ayah|surah)\b|\bbuilt\s+(?:entirely\s+)?(?:on|around)\b/i
+// "N words" claims. Both observed errors (ten for 20:55, seven for 27:1) landed
+// BETWEEN the two conventions — 8 words / 17 segments, and 6 / 10 — which is the
+// signature of a counting-method error rather than a guess.
+// Deliberately narrow: this must fire ONLY when the sentence claims the AYAH's
+// total length. "contained in two words" (a phrase inside the verse) and "three
+// layers of one word" (a single word) are not that, and a checker that flags
+// them is a checker people learn to ignore. So: the sentence must name the
+// verse, and the noun must be plural.
+// The number must attach DIRECTLY to a containment verb whose subject is the
+// verse. Prose constantly counts subsets — "the verse ends with six words",
+// "the whole verse compressed into two words", "the distance between those two
+// words" — and every one of those is about a fragment, not the ayah's length.
+// Requiring contains/consists-of/has/is immediately before the numeral is what
+// separates the two; a looser rule flagged 37 correct sentences in one sweep.
+const WORDCOUNT_RE = /\b(?:verse|ayah|āyah)\b[^.!?؟]{0,20}?\b(?:contains|consists\s+of|comprises|has|is)\s+(?:only\s+|just\s+|a\s+mere\s+)?(\d+|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|thirteen|fourteen|fifteen|sixteen|seventeen|eighteen|nineteen|twenty)\s+words\b/i
 const NARRATIVE_GUARD = /\b(?:prophet|ﷺ|prayer|prays?|prayed|day|daily|markets?|hand|question|thousand|hundred\s+thousand|knock|door)\b/i
 
 const results = { verified: [], failed: [], manual: [], ledger: [] }
@@ -308,12 +339,74 @@ for (let i = 0; i < all.length; i++) {
   // ("to be absent, hidden") is not prose claims, and the table itself is
   // verify_morphology's territory.
   if (s.raw.trimStart().startsWith('|')) continue
+  // ── "N words" convention check ───────────────────────────────────────────
+  // Only meaningful for a single-ayah scope; a range has no one right answer.
+  const wc = plain.match(WORDCOUNT_RE)
+  if (wc && fileScope.surah && fileScope.range && fileScope.range[0] === fileScope.range[1]) {
+    const claimedWords = numOf(wc[1])
+    const key = `${fileScope.surah}:${fileScope.range[0]}`
+    const segs = corpus[key]
+    if (claimedWords != null && segs) {
+      const words = new Set(segs.map((s) => s.loc.split(':')[2])).size
+      const excerptW = plain.trim().replace(/\s+/g, ' ').slice(0, 220)
+      const tagW = tagFor(s.line)
+      if (!(tagW && tagW[1] === 'ok')) {
+        if (claimedWords === words) {
+          results.verified.push({ line: s.line, excerpt: excerptW, token: key, source: 'wordcount', scope: `${key} (orthographic words)`, interp: 'words', claimed: claimedWords })
+        } else if (claimedWords === segs.length) {
+          results.verified.push({ line: s.line, excerpt: excerptW, token: key, source: 'wordcount', scope: `${key} (morphological segments)`, interp: 'segments', claimed: claimedWords })
+        } else {
+          results.failed.push({
+            line: s.line, excerpt: excerptW, claimed: claimedWords,
+            attempts: [{ token: key, source: 'wordcount', scope: `${key}: ${words} orthographic words / ${segs.length} segments`, root: 0, lemma: words, surface: segs.length }],
+          })
+        }
+        continue
+      }
+    }
+  }
+
   const isCount = COUNT_RE.test(plain) || COUNT_RE2.test(plain)
   const isAbsence = ABSENCE_RE.test(plain) &&
     !NEGATED_ABSENCE_RE.test(plain) && !GRAMMATICAL_GAP_RE.test(plain)
+  const isSpan = SPAN_RE.test(plain)
   const isUnique = UNIQUE_RE.test(plain)
   const isQuant = QUANT_RE.test(plain)
-  if (!isCount && !isAbsence && !isUnique && !isQuant) continue
+  if (!isCount && !isAbsence && !isUnique && !isQuant && !isSpan) continue
+
+  // ── Span-scope claims ────────────────────────────────────────────────────
+  // Never auto-passed: whether a root "runs through the whole verse" is a
+  // question about POSITION, which no count answers. Compute the positions so
+  // the reviewer can rule in one look instead of going to the corpus.
+  // NOTE: this runs even when the sentence also carries a count, because the two
+  // are INDEPENDENT claims. Fatir is the proof: "the whole verse is built on the
+  // same root used twice" has a correct count and a false scope, so letting the
+  // count check satisfy the sentence is exactly how the defect survived.
+  if (isSpan) {
+    const excerptS = plain.trim().replace(/\s+/g, ' ').slice(0, 220)
+    const tagS = tagFor(s.line)
+    if (tagS && tagS[1] === 'ok') { results.manual.push({ line: s.line, excerpt: excerptS, reason: (tagS[2] || '').trim() }) }
+    else {
+    let note = 'span claim — verify by segment POSITION, not by count'
+    const subj = resolveSubjects(all, i).filter((x) => x.dist === 0)[0]
+    if (subj && fileScope.surah && fileScope.range) {
+      const spots = []
+      let total = 0
+      for (let a = fileScope.range[0]; a <= fileScope.range[1]; a++) {
+        const segs = corpus[`${fileScope.surah}:${a}`]
+        if (!segs) continue
+        total += segs.length
+        segs.forEach((sg, idx) => {
+          if ((sg.root && matches(sg.root, stripAl(norm(subj.token)))) || matches(sg.word, subj.token)) spots.push(`${a}:seg${idx + 1}`)
+        })
+      }
+      if (spots.length) note = `${subj.token} sits at ${spots.join(', ')} of ${total} segments — does that support "${(plain.match(SPAN_RE) || [''])[0].trim()}"?`
+    }
+      results.ledger.push({ line: s.line, kind: 'span-scope', excerpt: excerptS, note })
+    }
+    // Fall through: if the sentence also makes a count claim, still check it.
+    if (!isCount && !isAbsence && !isUnique && !isQuant) continue
+  }
   // Rhetorical absence guard: an absence sentence with no Arabic and no
   // word-ish marker ("the AMOUNT is absent", "Not once more.") is prose
   // rhetoric about a grammatical gap, not a corpus claim. Skip silently.
