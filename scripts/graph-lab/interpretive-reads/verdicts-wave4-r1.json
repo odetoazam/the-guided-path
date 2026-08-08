@@ -1,0 +1,121 @@
+[
+  {
+    "file": "009-at-tawbah/ayahs-030-033.md",
+    "verdict": "FLAG",
+    "thesis": "Theological corruption begins in speech but does not end there — it distorts worship and authority — yet all such mouths remain powerless to extinguish the light Allah has resolved to complete.",
+    "thesis_grounding": "GROUNDED",
+    "claims_checked": 11,
+    "claims_failed": 2,
+    "flags": [
+      {
+        "quote": "The Jews say, 'Uzayr is the son of Allah,' and the Christians say, 'The Messiah is the son of Allah.'",
+        "issue": "Presented (frontmatter translation + bolded body translation) as an unrestricted communal claim with no scoping anywhere in the file. al-Tabari opens his commentary on 9:30 with an explicit ikhtilaf: واختلف أهل التأويل في القائل: عزير ابن الله — one group (Ibn Jurayj from 'Abdullah b. 'Ubayd b. 'Umayr) holds it was ONE man, Finhas; another holds it was a group among them (بل كان ذلك قول جماعة منهم, Ibn Ishaq/Ibn 'Abbas, naming Sallam b. Mishkam, Nu'man b. Awfa, Sha's b. Qays, Malik b. al-Sayf). The file carries none of this restriction, and this is the single most adversarially quoted interfaith statement in the surah.",
+        "severity": "critical"
+      },
+      {
+        "quote": "May Allah destroy them; how are they turned away?",
+        "issue": "qātalahumu Allāh is rendered as a literal imprecation in the frontmatter translation and the bolded body translation, and then never touched anywhere in the 1,846-word body. Both fetched sources gloss it: Ibn Kathir — \"Ibn 'Abbas said, 'May Allah curse them'\"; al-Tabari, Ibn 'Abbas: يقول: لعنهم الله، وكل شيء في القرآن \"قتل\" فهو لعن, and Ibn Jurayj: كلمة من كلام العرب (an Arabic idiom, not a literal wish); al-Jalalayn: قاتلهم = لعنهم. Shipping the harshest possible English rendering with zero classical gloss on the most quotable line in the passage is an adab failure.",
+        "severity": "critical"
+      },
+      {
+        "quote": "It is naming a practical theology in which religious authorities are granted the kind of unquestioned norm-setting submission that belongs to Allah alone.",
+        "issue": "Directionally right but the load-bearing classical clarification is missing and unattributed. The 'Adi b. Hatim report (Ibn Kathir, via Ahmad/Tirmidhi/Ibn Jarir; also Hudhayfah and Ibn 'Abbas) exists precisely to REFUSE the literal-worship reading: 'Adi objects \"They did not worship them,\" and the Prophet answers that the rabbis/monks declared the lawful unlawful and the unlawful lawful and were obeyed — \"this is how they worshipped them.\" A file on this verse that omits the one hadith the entire tradition uses to defuse it leaves the verse open to exactly the misreading the tradition closed.",
+        "severity": "moderate"
+      },
+      {
+        "quote": "The verb **yuzhirahu** carries making manifest, raising above, giving clear dominance. The mission is not hidden survival. It is manifest truth.",
+        "issue": "The gloss itself is defensible (al-Tabari: ليعلي الإسلام على الملل كلها; al-Jalalayn: يعليه) and is NOT given a political/military triumphalist reading — that risk is handled. But it is presented as the settled sense while al-Tabari records explicit ikhtilaf on this exact phrase: وقد اختلف أهل التأويل في معنى قوله ليظهره على الدين كله — (a) at the descent of 'Isa when all creeds become one (Abu Hurayrah, Abu Ja'far); (b) Ibn 'Abbas: that Allah makes His Prophet fully informed of the whole of the religion, nothing hidden from him. Neither is mentioned.",
+        "severity": "moderate"
+      },
+      {
+        "quote": "They say with their mouths. They imitate earlier speech with their mouths. They want to extinguish Allah's light with their mouths.",
+        "issue": "The three-beat 'mouth' thread is the file's organizing device, but bi-afwahihim occurs only TWICE in 9:30-33. Verified against quran-verses.json with full normalization (U+0670 folded to alif, harakat and waqf marks stripped, whitespace collapsed): بأفواههم is in 9:30 and 9:32 only, absent from 9:31 and 9:33; corpus-cache confirms root فوه at 9:30 and 9:32 only. The middle beat (yudāhi'ūn) has no 'with their mouths' in the text. Rhetorically defensible as an extension of قولهم بأفواههم, but stated as if the text says it three times.",
+        "severity": "minor"
+      },
+      {
+        "quote": "The hook of the passage is this: **At-Tawbah teaches that theological corruption begins in speech but does not end there...**",
+        "issue": "Rubric 4: the file contains no ikhtilaf acknowledgment and no tadabbur-vs-ruling line anywhere, on the passage that is the interfaith core of the most adversarially quoted surah in the Qur'an. Ibn Kathir's own section heading on these verses is 'Fighting the Jews and Christians is legislated because They are Idolators and Disbelievers' — the file (rightly) does not follow him there, but it also never tells the reader that it is doing contemplation rather than stating a ruling about present-day Jews and Christians.",
+        "severity": "critical"
+      }
+    ],
+    "notes": "Do NOT publish as-is. Three specific repairs, all additive — the thesis and the linguistic sections are sound and grounded: (1) add the al-Tabari scoping of who said 'Uzayr ibn Allah (Finhas / a named group, not the community as such, and not a present-tense creed); (2) gloss qātalahumu Allāh with Ibn 'Abbas ('may Allah curse them') and Ibn Jurayj (Arabic idiom), or retranslate — leaving 'May Allah destroy them' unexplained is the single largest quotation risk in the file; (3) add the 'Adi b. Hatim hadith to section 2 so ittakhadhu ahbarahum arbaban is explicitly the obedience-in-halal/haram reading, not literal worship. Also add a standing tadabbur-not-fatwa line and note al-Tabari's ikhtilaf on li-yuzhirahu. All four tafsir fetches succeeded; no truncation artifacts; no attribution errors (the file makes no named attributions at all)."
+  },
+  {
+    "file": "009-at-tawbah/ayahs-023-024.md",
+    "verdict": "FLAG",
+    "thesis": "The real test of love is not whether we possess family, wealth, work, or homes, but whether any of them become more beloved to us than Allah, His Messenger, and the costly path loyalty to them requires.",
+    "thesis_grounding": "GROUNDED",
+    "claims_checked": 8,
+    "claims_failed": 1,
+    "flags": [
+      {
+        "quote": "The issue is not bare biological relationship. The issue is **wilayah**: taking them into the place of intimate protective alignment and determining loyalty.",
+        "issue": "The gloss is in the right direction but the file never gives the concrete classical scoping, and 9:23 is among the most adversarially quoted verses on Muslim family relations. al-Tabari on 9:23: لا تتخذوا آباءكم وإخوانكم بطانة وأصدقاء تفشون إليهم أسراركم، وتطلعونهم على عورة الإسلام وأهله، وتؤثرون المكث بين أظهرهم على الهجرة إلى دار الإسلام — confidants to whom you disclose secrets and expose the vulnerabilities of Islam, and preferring to remain among them over hijra. al-Muyassar adds the condition ما داموا على الكفر معادين للإسلام (so long as they remain in kufr, hostile to Islam). None of this is in the file, and 60:8 (the verse that keeps ordinary kindness and justice to non-hostile relatives lawful) is never cited.",
+        "severity": "moderate"
+      },
+      {
+        "quote": "This passage comes after the surah has already ranked faith, migration, and striving above sacred-adjacent service.",
+        "issue": "Hijra is mentioned only as background to the PRECEDING verses. The file never states that hijra is the situation these two verses themselves address, which all four sources make central. al-Jalalayn's occasion note on 9:23: ونزل فيمن ترك الهجرة لأجل أهله وتجارته; al-Tabari on 9:24: قل يا محمد للمتخلفين عن الهجرة إلى دار الإسلام، المقيمين بدار الشرك; Mujahid via al-Tabari on 9:23 ends هذا كله قبل فتح مكة. Without this, the universalized 'ecology of attachment' reading is the only frame the reader is given.",
+        "severity": "moderate"
+      },
+      {
+        "quote": "If the attachments named have become more beloved than Allah and His Messenger, then the person is left to wait for what Allah's judgment will bring.",
+        "issue": "Grounded in Ibn Kathir ('wait for what will befall you of Allah's punishment and torment') and al-Jalalayn (تهديد لهم), but stated as the meaning while al-Tabari's preferred reading, supported twice by Mujahid and Ibn Jurayj, is concrete and historical: حتى يأتي الله بفتح مكة — the conquest of Makkah. One-sided on a point where the sources genuinely split.",
+        "severity": "minor"
+      }
+    ],
+    "notes": "The good news first: the file does NOT turn 9:23 into a standing instruction about family relations today. It explicitly says 'the verse is not abolishing family feeling' and reframes the whole unit as ordered love. The thesis is grounded (Ibn Kathir's 'Umar hadith, al-Muyassar إن فضلتم ذلك على حب الله ورسوله). Flag is for missing scoping only, and the fix is additive: (1) one paragraph in section 1 giving al-Tabari/al-Muyassar's concrete walāyah (bitānah — confidants privy to the Muslims' secrets, while hostile), with 60:8 cited to keep ordinary kindness and justice to relatives explicitly outside the prohibition; (2) name the hijra/dar al-shirk situation as the setting of these two verses, not just of what precedes them; (3) note Mujahid's fath Makkah reading of حتى يأتي الله بأمره alongside the punishment reading. All four fetches succeeded; no truncation; no named attributions to verify; no countable claims in the file."
+  },
+  {
+    "file": "009-at-tawbah/ayahs-017-018.md",
+    "verdict": "FLAG",
+    "thesis": "The true caretakers of Allah's mosques are determined not by proximity, heritage, or visible service but by faith, worship, and rightly-ordered fear.",
+    "thesis_grounding": "GROUNDED",
+    "claims_checked": 9,
+    "claims_failed": 2,
+    "flags": [
+      {
+        "quote": "The humility of **'asa** is instructive. Even such people do not self-certify arrogantly. Guidance remains a divine gift, not a medal claimed by service.",
+        "issue": "This reverses the classical reading, and both fetched primary sources carry the classical one. al-Tabari records Ibn 'Abbas on this exact ayah: وكل \"عسى\" في القرآن فهي واجبة, and Ibn Ishaq: و\"عسى\" من الله حق — with the 17:79 parallel adduced to prove it ('asa an yab'athaka rabbuka = He WILL). Ibn Kathir renders the ayah 'It is they who are on true guidance' and states flatly: 'Every might in the Qur'an means shall.' The file builds a whole closing point on 'asa signalling non-certainty, asserted as the plain sense with no note that the tradition reads it the opposite way. This is the file's clearest interpretive failure.",
+        "severity": "moderate"
+      },
+      {
+        "quote": "The contradiction is inward before it is outward. Their relation to the mosque is false at the level of testimony.",
+        "issue": "Inverts the only gloss the sources give for shāhidīn 'ala anfusihim bi-l-kufr, which is explicitly OUTWARD and verbal. al-Suddi in al-Tabari (and quoted by Ibn Kathir): a Christian asked 'what are you?' says 'Christian'; a Jew says 'Jew'; a Sabi' says 'Sabi'; a mushrik asked 'what is your religion?' says 'mushrik'. al-Muyassar: وهم يعلنون كفرهم بالله — they openly declare it. The file's 'the contradiction is inward before it is outward' is an unflagged reversal of the classical sense, and the section builds on it.",
+        "severity": "moderate"
+      },
+      {
+        "quote": "Modern people often reduce mosque care to logistics alone. Who can organize? Who can fundraise? Who can build? Who can keep the lights on?",
+        "issue": "Rubric 4. The file's modern application stays safely inside contemplation — it makes no ruling about who may enter or maintain a mosque today, and passage_context actively disclaims it ('The issue is not who can physically occupy or service a mosque'). But it never tells the reader that the scope of masājid here is itself disputed: al-Tabari records the qirā'āt split (Madinah/Kufah read مساجد الله plural; some Makkans and Basrans read مسجد الله singular, meaning al-Masjid al-Haram), and Ibn Kathir notes the singular readers took it as al-Masjid al-Haram specifically. Ibn Ishaq's occasion in al-Tabari also ties it to Quraysh's boast إنا أهل الحرم، وسقاة الحاج، وعمار هذا البيت. Generalizing to mosque governance without that scope note, and with no tadabbur-vs-fatwa line, is the flag.",
+        "severity": "moderate"
+      }
+    ],
+    "notes": "Thesis is well grounded — Ibn Ishaq's Quraysh-boast occasion in al-Tabari is almost a direct source for it, and Ibn Kathir's citation of 8:34 ('None can be its guardians except those with taqwa') carries it too; consider adding both, since the file's strongest support is currently uncited. Three fixes: (1) rewrite the 'asa passage — either adopt the classical certainty reading (Ibn 'Abbas / Ibn Ishaq / Ibn Kathir) or keep the humility reading explicitly flagged as reflection against the classical position; (2) correct 'the contradiction is inward before it is outward' to the open, spoken self-declaration al-Suddi and al-Muyassar describe; (3) add the masājid/masjid qirā'āt scope note plus an explicit tadabbur-not-ruling line before the modern mosque-governance application. All four fetches succeeded; no truncation artifacts; no named tafsir attributions in the file to verify; no countable claims."
+  },
+  {
+    "file": "009-at-tawbah/ayahs-034-035.md",
+    "verdict": "FLAG",
+    "thesis": "Wealth hoarded against Allah's claim does not stay neutral property but becomes the shape of one's coming punishment, because what is stored for the self returns against the self.",
+    "thesis_grounding": "GROUNDED",
+    "claims_checked": 10,
+    "claims_failed": 1,
+    "flags": [
+      {
+        "quote": "The problem is not material having in itself. It is withholding from Allah's claim.",
+        "issue": "Stated as the settled meaning of kanz, but al-Tabari opens with واختلف أهل العلم في معنى \"الكنز\" and records three positions: (a) Ibn 'Umar (several chains), 'Ikrimah, al-Suddi, Ibn 'Abbas — كل مال أديت زكاته فليس بكنز وإن كان مدفونا (zakat-paid wealth is not kanz however large); (b) 'Ali b. Abi Talib via Ja'dah b. Hubayrah — أربعة آلاف درهم فما دونها نفقة، وما فوقها كنز (anything above 4,000 dirhams is kanz whether or not zakat was paid); (c) الكنز كل ما فضل من المال عن حاجة صاحبه (any surplus beyond need). Al-Tabari then adjudicates for (a). Ibn Kathir adds a further layer: Malik from Ibn 'Umar that kanz is wealth on which zakat is unpaid, plus 'Umar b. 'Abd al-'Aziz and 'Irak b. Malik holding the ayah abrogated by 9:103. The file's sentence quietly takes side (a) against 'Ali's and the surplus-beyond-need positions, on a directly ahkam-bearing point (zakat), with no ikhtilaf note anywhere in 1,568 words.",
+        "severity": "moderate"
+      },
+      {
+        "quote": "Then the passage widens beyond corrupt clergy to everyone who hoards gold and silver without spending in Allah's path. So the disease is not limited to one religious class.",
+        "issue": "This is the majority position and is defensible, but it is precisely the point of a famous recorded dispute the file does not mention. Al-Tabari (and Ibn Kathir, from al-Bukhari) record Zayd b. Wahb meeting Abu Dharr at al-Rabadhah: Mu'awiyah said ليست هذه الآية فينا، إنما هذه الآية في أهل الكتاب and Abu Dharr answered إنها لفينا وفيهم — a dispute serious enough that Abu Dharr was recalled to Madinah over it. Ibn 'Abbas's هي خاصة وعامة is al-Tabari's resolution. Worth one sentence; currently the file asserts the general reading as though undisputed.",
+        "severity": "minor"
+      },
+      {
+        "quote": "One way to sit with this passage is to ask: what story do I tell myself about the money I am keeping back?",
+        "issue": "Rubric 4: the closing turns the passage into personal financial self-examination with no tadabbur-vs-fatwa line, on a passage whose classical treatment is thoroughly fiqh-bearing (zakat threshold, whether the ayah is abrogated by 9:103, whether it binds Muslims at all). A reader is left to infer a ruling about their own savings from a contemplation.",
+        "severity": "moderate"
+      }
+    ],
+    "notes": "Strongest of the four on the adversarial axis: the file correctly preserves 'many of the rabbis and monks' (إن كثيرا من) in translation, intro, and closing synthesis, and never generalizes the condemnation to a whole community — that check passes cleanly. Its widening of the warning past 'corrupt clergy' is directly supported by Ibn Kathir (Sufyan b. 'Uyaynah: corrupt Muslim scholars resemble the Jews, misguided Muslim worshippers resemble the Christians) and by al-Suddi in al-Tabari (فهؤلاء أهل القبلة). Single required fix: an ikhtilaf paragraph on kanz — name al-Tabari's three positions and his adjudication for Ibn 'Umar's, note Ibn Kathir's abrogation view, note the Abu Dharr/Mu'awiyah dispute — plus a tadabbur-not-fatwa line before the closing questions. Verified mechanically against the corpus cache: root كنز occurs 3× in this passage (yaknizuna 9:34; kanaztum and taknizun 9:35); the file makes no numeric claims. All four fetches succeeded; no truncation artifacts; no named attributions in the file to verify."
+  }
+]

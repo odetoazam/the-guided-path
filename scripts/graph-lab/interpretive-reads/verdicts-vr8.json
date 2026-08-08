@@ -1,0 +1,118 @@
+[
+  {
+    "file": "008-al-anfal/ayahs-038-040.md",
+    "verdict": "PASS",
+    "repair_verified": true,
+    "thesis": "Even after severe exposure the door of forgiveness stays open; fighting is bounded by the removal of fitnah (a terminus the commentators read two ways, reported as ikhtilaf); the believer's heart rests in Allah as Mawla and Nasir.",
+    "thesis_grounding": "GROUNDED",
+    "claims_checked": 14,
+    "claims_failed": 0,
+    "flags": [],
+    "notes": "Repaired sentence verified in full: all FOUR editions carry the shirk reading (Ibn Kathir via Ibn 'Abbas/Ad-Dahhak + eight named others; al-Tabari's own tarjih 'حتى لا يكون شرك... وهو الفتنة' + stack 16076-16079; al-Muyassar 'شرك وصد عن سبيل الله'; al-Jalalayn 'فتنة: شرك'), and the persecution reading really does travel alongside in Ibn Kathir (Ibn Ishaq from al-Zuhri/'Urwah, 'until no Muslim is persecuted') AND in al-Tabari's own reports — athar 16081 (Ibn Jurayj, 'لا يفتن مؤمن عن دينه' joined with pure tawhid) is present in the fetch exactly as the file describes, plus 16080 (al-Hasan, bala') and 16083 ('Urwah's letter ending with this verse's revelation context). W8 additions stand: Ibn 'Umar/Bukhari historicization quotes match Ibn Kathir's fetch verbatim; the fa-ini-intahaw second dispute matches al-Tabari's own words including his reason; fatwa line present. The file marks its working (persecution) reading as the minority explicitly. No breadth overclaim: the 'every one of the four' claim was counted edition-by-edition and holds."
+  },
+  {
+    "file": "008-al-anfal/ayahs-065-066.md",
+    "verdict": "PASS",
+    "repair_verified": true,
+    "thesis": "Allah lightened the fighting ratio because He knew the believers' weakness, but sabr, divine permission, and Allah's withness remain constant across both verses.",
+    "thesis_grounding": "GROUNDED",
+    "claims_checked": 16,
+    "claims_failed": 0,
+    "flags": [],
+    "notes": "The al-Dahhak attribution split is exactly right in the fetch: 16283 (al-Dahhak) carries ONLY 'كان هذا واجبًا أن لا يفر واحد من عشرة' — first ratio, no second — and the file says precisely that ('carries the first half... without addressing the second'). 'Ata' covers both ratios via 16269 ('كان الواحد لعشرة ثم جعل الواحد باثنين، لا ينبغي له أن يفر منهما') plus 16284 (mithla dhalik of al-Dahhak); 'Ikrimah 16275 and Mujahid 16276/16282 both carry both ratios. W8 naskh section stands and verifies line-by-line: Ibn Kathir 'Allah abrogated this part later on, but the good news remained' verbatim; al-Tabari's own nasikh verdict with the takhfif-implies-prior-weight argument; Ibn 'Abbas naskh reports by two routes (16271 Ibn Ishaq/'Ata' b. Abi Rabah, 16272 Mu'awiyah/'Ali); 'Ikrimah+al-Hasan together (16274); al-Suddi (16281); al-Jalalayn 'ثم نسخ لما كثروا'; al-Muyassar never uses the word — so the file's 'three of these four commentaries' enumeration is correct, not an overclaim. Ibn 'Abbas Bukhari/Ibn al-Mubarak 'made the required patience less' quote verbatim in Ibn Kathir; al-Tabari 16280 'ونقصوا من الصبر بقدر ذلك'. The dissenting Ibn 'Abbas exhortation-not-obligation report (16273) reported faithfully including its turn against arithmetic-as-excuse. Fatwa line present. Sabirun/sabirah in both verses confirmed from the ayah text."
+  },
+  {
+    "file": "031-luqman/ayahs-014-015.md",
+    "verdict": "PASS",
+    "repair_verified": true,
+    "thesis": "The parental debt is grounded in the mother's bodily wahn and survives relational damage; ayah 15 commands simultaneous refusal (of shirk) and companionship (with ma'ruf).",
+    "thesis_grounding": "GROUNDED",
+    "claims_checked": 18,
+    "claims_failed": 0,
+    "flags": [
+      {
+        "quote": "He went to the Prophet ے — devastated, torn apart, loving her more than he could bear — and this ayah was revealed about that exact moment.",
+        "issue": "Narrative color not in any fetched edition: al-Tabari's four Sa'd reports and Ibn Kathir's al-Tabarani report say the ayah was revealed concerning Sa'd and his mother's hunger strike, but none has him going to the Prophet. The asbab itself is fully confirmed; only the 'went to the Prophet' detail is unsourced.",
+        "severity": "minor"
+      }
+    ],
+    "notes": "Repair verified: ZERO instances of tamkin/tamkīn/تمكين anywhere (tag is takrar-repetition, prose says 'takrār, plain repetition'); the Nasa'i-vs-Ibn-Majah wording distinction is intact and correctly split (al-Nasa'i: fa'lzamha fa-inna'l-jannata tahta rijlayha; Ibn Majah: ilzam rijlaha fa-thamma'l-janna); injunction-not-testament framing intact and corpus-verified — all Form II wassa occurrences (2:132, 4:131, 6:144, 6:151-153, 29:8, 31:14, 42:13, 46:15), all wasiyya (2:180, 2:240, 4:11, 4:12, 5:106), musin (2:182), Form IV awsa (4:11, 4:12, 19:31) match the flat corpus exactly. Edition attributions verified against fetch: al-Tabari 'وأمرنا الإنسان ببر والديه', 'ضعفا على ضعف وشدة على شدة', Zuhayr's rope verse; al-Muyassar's inserted thumma ('اشكر لله، ثم اشكر لوالديك') and 'لا طاعة لمخلوق في معصية الخالق'; al-Jalalayn 'أمرناه أن يبرهما'; Ibn Kathir's six-month-minimum from Ibn 'Abbas via 2:233+46:15. The i'tirad (interruption) framing of the intro is carried by both al-Tabari and al-Jalalayn. One minor unsourced narrative detail flagged; everything load-bearing verifies."
+  },
+  {
+    "file": "008-al-anfal/ayahs-055-058.md",
+    "verdict": "PASS",
+    "repair_verified": true,
+    "thesis": "Repeated covenant-breaking is a moral collapse the Qur'an answers with neither naivety nor mirror-treachery but with open, equal termination ('ala sawa') — commands scoped to the community's legitimate authority.",
+    "thesis_grounding": "GROUNDED",
+    "claims_checked": 11,
+    "claims_failed": 0,
+    "flags": [],
+    "notes": "All six W9 defects verified repaired. al-Tabari's state-authority scoping is really in the fetch, verbatim: 'فحق على إمام المسلمين أن ينبذ إليهم على سواء ويؤذنهم بالحرب' — and the file frames it exactly at leadership level ('it is a duty upon the imam of the Muslims'), with the addressee-is-the-Prophet point matching al-Tabari's 8:57 opening 'يقول تعالى ذكره لنبيه محمد ﷺ'. Qurayzah scoping correctly attributed: al-Jalalayn opens 8:55 'ونزل في قريظة'; al-Tabari 'كقريظة ونظرائهم' plus Mujahid 16210 (Qurayzah backed the Prophet's enemies at Khandaq); al-Muyassar restricts to 'اليهود الذين دخلوا معك في المعاهدات... ثم ينقضون عهدهم المرة تلو المرة'. NO modern mapping anywhere. 'Truly believe' softening gone from body and frontmatter (the only remaining 'truly' is 'if a covenant truly must end', unrelated); the translation's 'and persist' interpolation is carried by al-Muyassar's 'المصرون على الكفر', which the body attributes explicitly. Fatwa line present. al-Muyassar and al-Tabari glosses on 8:55 match the file's renderings."
+  },
+  {
+    "file": "008-al-anfal/ayahs-072-073.md",
+    "verdict": "PASS",
+    "repair_verified": true,
+    "thesis": "Belonging in the early ummah was built through sacrifice, sheltering, support, and covenantal clarity — a wilayah real enough that it temporarily governed inheritance — and neglecting that structure invites fitnah.",
+    "thesis_grounding": "GROUNDED",
+    "claims_checked": 12,
+    "claims_failed": 0,
+    "flags": [],
+    "notes": "Inheritance/naskh attributions all verify verbatim: al-Jalalayn 'في النصرة والإرث... فلا إرث بينكم وبينهم... وهذا منسوخ بآخر السورة' exactly as the file quotes; Ibn Kathir 'They used to inherit from each other, having more right to inheritance than the deceased man's relatives, until Allah abrogated that practice with the fixed share for near relatives' verbatim; al-Tabari's inheritance reports from Ibn 'Abbas (16331, 16332), Mujahid (16333), Qatadah (16335) and others present, and the file's claim that al-Tabari's own preference is support/aid over estates is confirmed by his 'وقد قيل' framing at 8:72 and his explicit 8:73 tarjih ('فأما الوارث فغير معروف ذلك من معانيه... معنى بعيد'). 8:73a scopings all present: Ibn Kathir's two-religions hadith recited alongside the verse; Ibn 'Abbas 16344 'نزلت في مواريث مشركي أهل العهد'; al-Tabari's own reading = mutual support + evidence of hijrah obligation ('تحريم الله على المؤمن المقام في دار الحرب وترك الهجرة'); Qatadah's fence-sitter report 16346. The 'falsehood organizes' reading is explicitly marked as the reflection's own contemplation. Ibn Kathir's treaty-limit passage with Ibn 'Abbas ascription verbatim. Fatwa line present."
+  },
+  {
+    "file": "008-al-anfal/ayahs-074-075.md",
+    "verdict": "PASS",
+    "repair_verified": true,
+    "thesis": "The surah closes by naming embodied iman as real, keeping belonging open to later strivers, and returning inheritance precedence to womb-ties under Allah's decree.",
+    "thesis_grounding": "GROUNDED",
+    "claims_checked": 10,
+    "claims_failed": 0,
+    "flags": [],
+    "notes": "All W9 repair points verify verbatim against the fetch. Ibn Kathir: 'According to Ibn 'Abbas, Mujahid, 'Ikrimah, Al-Hasan, Qatadah and several others, this Ayah abrogated inheriting from those with whom one had ties of treaties or brotherhood' — exact match. al-Tabari: 'بعضهم أولى ببعض، في الميراث... من الحليف والولي' plus Qatadah 16353 ('كان لا يرث الأعرابي المهاجر حتى أنزل الله...') — both as the file reports. fī kitāb Allāh concretely glossed: al-Tabari 'في حكم الله الذي كتبه في اللوح المحفوظ والسابق من القضاء'; al-Jalalayn 'اللوح المحفوظ... ومنه حكمة الميراث' — file quotes both accurately and marks its broader reading as its own contemplation. The file also reports al-Tabari's dissent honestly: his 8:74 statement 'أن لا ناسخ في هذه الآيات لشيء ولا منسوخ' (walayah verses = nusrah, not estates) is in the fetch exactly as characterized — real ikhtilaf reported, no false consensus. al-Jalalayn's 'في الإرث من التوارث في الإيمان والهجرة المذكورة في الآية السابقة' matches the file's rendering. Fatwa line present ('Inheritance shares are a precise science... ask a qualified scholar')."
+  },
+  {
+    "file": "009-at-tawbah/ayahs-036-037.md",
+    "verdict": "PASS",
+    "repair_verified": true,
+    "thesis": "Allah's calendar is fixed in creation; manipulating sacred time (nasi') is kufr wearing religious formatting — and the fighting clause is read through its own grammar of togetherness and reciprocity, with the editions' positions reported individually.",
+    "thesis_grounding": "GROUNDED",
+    "claims_checked": 13,
+    "claims_failed": 0,
+    "flags": [],
+    "notes": "HIGHEST-STAKES ITEM — the new kāffatan section verifies edition-by-edition against the fetch with zero drift. al-Tabari: 'جميعًا غير مختلفين، مؤتلفين غير مفترقين، كما يقاتلكم المشركون جميعًا، مجتمعين غير متفرقين' — file's rendering exact; al-Suddi 16703 'أما كافة فجميع، وأمركم مجتمع' = 'all, with your affair united'; Ibn 'Abbas 16704 and Qatadah 16705 both 'جميعًا'; the grammar note (kaffah invariable, like ma'an) is really there ('والكافة في كل حال على صورة واحدة... كما لم يدخلوها... قاموا معًا'). Ibn Kathir: glosses 'all of you'/'all of them' verbatim; 'initiating battle during the Sacred Months is forbidden' and 'includes permission for the believers to fight the idolators in the Sacred Month, if the idolators initiate hostilities therein' both verbatim, with 2:194 and 2:191 cited exactly as the file says. al-Muyassar: 'وقاتلوا المشركين جميعًا كما يقاتلونكم جميعًا' — as reported. al-Jalalayn: 'جميعًا في كل الشهور' — the file names this as a real difference from Ibn Kathir's sacred-month framing rather than smoothing it, which is the breadth rule done right. No edition is credited with anything its fetch lacks; no breadth overclaim (each of the four named with its own words); reciprocity clause grounded in the verse's own kama; NO modern mapping; fatwa line present ('Rulings about war belong to qualified scholars and to those who carry public authority')."
+  },
+  {
+    "file": "009-at-tawbah/ayahs-007-010.md",
+    "verdict": "PASS",
+    "repair_verified": true,
+    "thesis": "The passage commands reciprocal uprightness toward named treaty-parties while exposing the specific treaty-breakers whose mouths reassured while their hearts refused — with the inward generalization explicitly marked as reflection.",
+    "thesis_grounding": "GROUNDED",
+    "claims_checked": 15,
+    "claims_failed": 0,
+    "flags": [],
+    "notes": "The excepted-group ikhtilaf verifies attribution-by-attribution. al-Tabari's ikhtilaf opener ('واختلف أهل التأويل في الذين عنوا...') is real. View 1 (Banu Jadhimah of the Du'il / Bakr of Kinanah): al-Suddi 16490 'هم بنو جذيمة بن الدئل', matching Ibn Ishaq 16492 (Banu Bakr entered Quraysh's Hudaybiyyah pact; only some broke it; honor the treaty of the non-breakers to its term). View 2 (Quraysh of Hudaybiyyah): Ibn 'Abbas 16493 'هم قريش' and 16494 'أهل مكة'; Ibn Zayd 16496; Qatadah 16497 'هو يوم الحديبية' + broke it by aiding Banu Bakr against Khuza'ah — all exactly as the file states; Ibn Kathir 'on the day of Hudaybiyyah'; al-Jalalayn 'يوم الحديبية وهم قريش'; al-Muyassar 'في صلح الحديبية'. View 3 (Khuza'ah): Mujahid 16498. al-Tabari's tarjih (part of Banu Bakr of Kinanah who kept their treaty) with his ninth-year/post-conquest reason is reported as his and matches the fetch verbatim. 9:8 is anchored historically: al-Muyassar's upper-hand reading ('ما دامت الغلبة لغيرهم... فإنهم لا يراعون القرابة ولا العهد'), Ibn Kathir's Quraysh/Banu Bakr/Khuza'ah narrative including the Sacred-Area killings, and al-Jalalayn's one-line 'وقد استقام النبي على عهدهم حتى نقضوا بإعانة بني بكر على خزاعة' all verify. Generalization marked as reflection in both the intro and Theme 1. NOTE: al-Jalalayn 9:10 FETCH FAILED (no verbatim twin exists) — but the file attributes nothing to al-Jalalayn on 9:10, so nothing rests on the gap."
+  },
+  {
+    "file": "009-at-tawbah/ayahs-019-022.md",
+    "verdict": "PASS",
+    "repair_verified": true,
+    "thesis": "Sacred-adjacent service performed in shirk does not stand beside iman and jihad; the zulm the verse names is shirk/kufr per the editions, and the believer-application is marked as reflection.",
+    "thesis_grounding": "GROUNDED",
+    "claims_checked": 14,
+    "claims_failed": 0,
+    "flags": [],
+    "notes": "ZERO Farsi yeh (U+06CC) — counted programmatically. The ẓālimīn gloss verifies in all four: al-Tabari 16559 (Ibn 'Abbas) 'فسماهم الله ظالمين، بشركهم' — the exact phrase the file quotes; Ibn Kathir (al-'Awfi from Ibn 'Abbas) 'Allah described them with injustice, on account of their Shirk, and thus, their maintaining the Masjid will not avail them'; al-Muyassar 'الظالمين لأنفسهم بالكفر'; al-Jalalayn one word 'الكافرين'. Occasion strands all present: 'Ali ibn Abi Talhah from Ibn 'Abbas re al-'Abbas captured at Badr in BOTH Ibn Kathir and al-Tabari (16558); Ad-Dahhak's version in Ibn Kathir (and Tabari 16566); al-'Awfi's wider mushrikin-of-the-Haram report in Ibn Kathir, paralleled at Tabari 16559; al-Jalalayn 'وهو العباس أو غيره' as quoted; al-Muyassar's believer-vs-disbeliever framing with 'لا يقبل عملًا بغير الإيمان'. The second occasion type is honestly reported: Nu'man ibn Bashir minbar report in both editions (Tabari 16557/16560, with Tabari's editorial note attributing it to Muslim's Sahih — supporting the file's 'collected by Muslim'), plus the al-Hasan (16561), al-Sha'bi (16562), Muhammad ibn Ka'b al-Qurazi (16563) and al-Suddi (16565) strands naming 'Ali/al-'Abbas/Talhah-or-Shaybah, exactly as the file lists. Reflective extension marked twice ('ours, not a classical gloss'; 'What follows here is reflection'). No false consensus: both occasion framings preserved side by side."
+  },
+  {
+    "file": "009-at-tawbah/ayahs-079-080.md",
+    "verdict": "PASS",
+    "repair_verified": true,
+    "thesis": "Hypocrisy mocks sincere giving at both ends of the social scale because sincerity exposes it; Allah measures hidden juhd, and hardened rejection is not reversed by multiplied intercession.",
+    "thesis_grounding": "GROUNDED",
+    "claims_checked": 17,
+    "claims_failed": 0,
+    "flags": [],
+    "notes": "The pass's signature breadth-defect file, checked hard — no residual false consensus found. (a) Tabuk fully decoupled: the string Tabuk/تبوك appears nowhere in the file; the intro's replacement material verifies — Ibn Kathir's Abu Mas'ud porters report with 'Al-Bukhari recorded... Muslim collected this Hadith in the Sahih' matching the file's 'collected by al-Bukhari and Muslim'; al-Tabari's donation-line names verify: 'Abd al-Rahman ibn 'Awf forty uqiyyah (17003) and a hundred (17004), Abu 'Aqil (named in Tabari's preface and 17008/17012) with the night rope-hauling for two sa's, one kept, one brought (17004/17011). (b) Seventy-as-idiom attributed to Ibn Kathir ALONE — his 'Arabs use this number when they exaggerate, not that they actually mean seventy' is verbatim in the fetch, and the file's later 'Ibn Kathir's note on the rhetorical use of seventy' keeps the single-edition attribution. (c) al-Tabari's exceed-seventy material reported as it stands: 'لأزيدن في الاستغفار لهم على سبعين مرة' in his own summary plus the exact four strands the file names — 'Urwah (17023), Mujahid (17025-28), Ibn 'Abbas (17030), Qatadah (17031-32) — sealed by 63:6, exactly as reported. (d) al-Jalalayn's both-views presentation verified verbatim: 'قيل المراد بالسبعين المبالغة... وقيل المراد العدد المخصوص', with both Bukhari hadiths ('لو أعلم أني لو زدت على السبعين غفر لزدت عليها' and 'وسأزيد على السبعين') quoted accurately. Minor observation, not a flag: al-Jalalayn's text attaches the law-zidtu hadith inside the mubalagha discussion while the file cites both hadiths together under the both-views frame — al-Jalalayn's own 'لحديثه أيضًا' makes the mapping blurry in the source itself, and no view is misattributed. Remaining breadth language ('the commentaries do not speak with one voice') is the honest direction. Companion-verse citations (49:11, 63:5-7, 9:84, 4:64, 39:53, 2:261/264/271, 64:16) all check out. al-Tabari's taqah gloss of juhd ('وذلك طاقتهم') verified."
+  }
+]

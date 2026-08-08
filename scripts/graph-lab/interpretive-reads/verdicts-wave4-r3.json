@@ -1,0 +1,101 @@
+[
+  {
+    "file": "008-al-anfal/ayahs-038-040.md",
+    "verdict": "FLAG",
+    "thesis": "The passage moves through three stations — an open door of forgiveness for those who desist, a command to fight bounded by the removal of fitnah rather than vengeance, and the believer's heart returned to Allah as Mawla and Nasir.",
+    "thesis_grounding": "GROUNDED",
+    "claims_checked": 9,
+    "claims_failed": 2,
+    "flags": [
+      {
+        "quote": "In this context, *fitnah* is not mere discomfort or disagreement. It is the condition in which people are pressured, obstructed, persecuted, and prevented from living under Allah's truth without coercive interference.",
+        "issue": "This is ONE classical position presented as the only one, unattributed. It matches al-Zuhri/'Urwah via Ibn Ishaq in Ibn Kathir ('until no Muslim is persecuted so that he abandons his religion'). But al-Tabari's own tarjih on 8:39 is the opposite and broader: 'fa-qatiluhum hatta la yakuna shirk, wa-la yu'bada illa Allah wahdahu la sharika lah ... wa-huwa al-fitnah' — fitnah IS shirk. He then stacks the same reading from Ibn 'Abbas (16076), al-Hasan (16077), Qatadah (16078) and al-Suddi (16079); Ibn Kathir adds Abu al-'Aliyah, Mujahid, al-Rabi' b. Anas, Muqatil b. Hayyan and Zayd b. Aslam under the heading 'The Order to fight to eradicate Shirk and Kufr'. The file silently adopts the minority narrowing and never tells the reader the majority read it the other way. On the single most adversarially quoted verse in the surah, a reader who later meets Ibn Kathir will conclude the file hid the harder reading.",
+        "severity": "critical"
+      },
+      {
+        "quote": "That means the verse cannot honestly be read as a charter for perpetual aggression. Its grammar itself resists that reading.",
+        "issue": "Overreach asserted as a grammatical fact. The hatta-clause does supply a terminus, but what the terminus IS is exactly the point of ikhtilaf — under the majority reading (fitnah = shirk) the terminus is not 'coercion has stopped'. The file also leaves on the table its own best classical evidence: Ibn 'Umar in al-Bukhari (quoted in full in Ibn Kathir) explicitly historicizes the command — 'We did that during the time of the Messenger of Allah, when Islam was weak and the man would be tried in religion... When Islam became stronger and widespread, there was no more Fitnah' — and rebukes those who cite it for power struggles. Citing Ibn 'Umar would make the file's argument stronger AND honest; asserting that 'grammar itself' settles it is neither.",
+        "severity": "moderate"
+      },
+      {
+        "quote": "So these ayahs move through three stations with powerful balance: an open door of forgiveness, a clear limit for fighting, and a final resting of the heart in Allah as Mawla and Nasir.",
+        "issue": "AHKAM ADAB: this is a qital passage containing qatiluhum hatta la takuna fitnatun wa yakuna d-dinu kulluhu lillah, and the file carries NO ikhtilaf paragraph and NO tadabbur-vs-fatwa line anywhere in 1,403 words. Grep confirms zero occurrences of any classical authority's name, 'ikhtilaf', 'fatwa', 'jurists' or 'scholars differ' in the file. Per the rubric and the 9:4-6 exemplar, missing on THIS verse is critical, not moderate.",
+        "severity": "critical"
+      }
+    ],
+    "notes": "Arabic for 8:38, 8:39, 8:40 and the frontmatter block verify byte-for-byte against quran-verses.json after normalization (harakat + waqf stripped, alif variants folded, whitespace collapsed). No countable/corpus claims are made, so nothing failed on rubric check 2. The file's strengths are real: it gives 8:38's 'if they desist' clause its full weight, and it notices that 8:39 builds its own exit (fa-ini intahaw) — both are exactly what al-Tabari and Ibn Kathir carry. FIX = one insertion, on the 9:4-6 exemplar template, placed after 'Then the ayah continues: Wa yakuna al-dinu kulluhu lillah': (a) name al-Tabari's tarjih that fitnah here = shirk and list his chain of authorities; (b) name the al-Zuhri/'Urwah/Ibn Ishaq reading (persecution) as the second position, which is the one the file is already arguing; (c) quote Ibn 'Umar from al-Bukhari via Ibn Kathir on the historical boundedness, including his 'Do you know what Fitnah refers to?' rebuke; (d) close with the tadabbur/fatwa line in the file's register. Also soften 'Its grammar itself resists that reading' to a claim about the hatta-terminus plus the fa-ini intahaw exit, which is what the text actually supports."
+  },
+  {
+    "file": "008-al-anfal/ayahs-041-042.md",
+    "verdict": "FLAG",
+    "thesis": "The Qur'an refuses to let spoils stay a financial matter — it ties the khums distribution to faith in what was revealed on the Day of Furqan, then redraws Badr's geography to show the encounter was divinely arranged so the outcome would stand on bayyinah.",
+    "thesis_grounding": "GROUNDED",
+    "claims_checked": 10,
+    "claims_failed": 1,
+    "flags": [
+      {
+        "quote": "The Shares Were Fixed on the Day of Furqan",
+        "issue": "The title asserts as settled precisely what the tradition never settled, and no fetched edition says the shares were 'fixed' on the Day of Furqan (the ayah conditions COMPLIANCE on belief in what was revealed then; it does not date the division). Al-Tabari's 8:41 section is one of the densest ikhtilaf passages in the surah: on 'fa-anna lillahi khumusahu' he records (i) it is iftitah kalam, a formula, not a sixth share — his own tarjih, argued from ijma' that the khums is never split six ways; (ii) Abu al-'Aliyah's report that the Prophet took a handful for the Ka'bah as 'Allah's share'; (iii) Ibn 'Abbas that Allah's and the Messenger's portion went to the qurba and the Prophet took nothing. On dhi l-qurba: Banu Hashim + Banu al-Muttalib (al-Tabari's tarjih, on Jubayr b. Mut'im's hadith), vs all Quraysh, vs the wali al-amr. On the Messenger's share AFTER his death: spent on horses and weapons under Abu Bakr and 'Umar (al-Hasan b. Muhammad, Ibrahim, Qatadah, Ibn 'Abbas), vs passing to the wali al-amr ('Ali, Qatadah), vs 'a group of the people of Iraq' holding the khums is divided three ways, vs the whole khums belonging to the Prophet's relatives ('Ali b. al-Husayn and 'Abdullah b. Muhammad b. 'Ali: 'it is ours'). Al-Tabari's own ruling: the Messenger's share reverts into the khums and the khums is divided FOUR ways. A title reading 'fixed' cannot stand over that record.",
+        "severity": "moderate"
+      },
+      {
+        "quote": "Then the ayah names those to whom this share is directed: the Messenger, near relatives, orphans, the needy, and the traveler. The field of battle is thus tied to a field of social responsibility.",
+        "issue": "AHKAM ADAB: khums is a live legal obligation — Ibn Kathir cites the Bani Abd al-Qays hadith listing it as part of iman and al-Bukhari's chapter 'Paying the Khumus is Part of Faith' — and it is the single most madhhab-divided verse in Al-Anfal (see the ikhtilaf inventory above). The file discusses the recipients, the fifth, and 'legal distribution' with ZERO ikhtilaf acknowledgment and ZERO tadabbur-vs-fatwa line. Grep confirms no classical authority is named anywhere in the file. Reading '*Fa-anna lillahi khumusahu.* Its fifth belongs to Allah' and then listing five recipients also quietly commits the file to the six-way/five-way picture that al-Tabari rejects as contrary to ijma'.",
+        "severity": "critical"
+      }
+    ],
+    "notes": "Arabic for 8:41, 8:42 and the frontmatter block verify exactly against quran-verses.json after normalization. No corpus count-claims are made. The 8:42 half of the file is clean — 'idh antum bil-'udwati al-dunya', 'law tawa'adtum la-khtalaftum fi al-mi'ad' and the bayyinah purpose-clause all track al-Tabari and Ibn Kathir (incl. Ka'b b. Malik's 'Allah made them meet their enemy without appointment'), and nothing there is overstated. FIX = (1) retitle: 'fixed' must go — something like 'The Fifth Was Tied to the Day of Furqan' keeps the file's actual argument without asserting a settled division; (2) insert the ikhtilaf paragraph after 'The field of battle is thus tied to a field of social responsibility', naming al-Tabari's iftitah-kalam tarjih, the dhi l-qurba dispute (Banu Hashim/Muttalib vs Quraysh vs wali al-amr), and the post-Prophetic disagreement over his share, then the tadabbur/fatwa line. The honest version is stronger here too: al-Tabari's reason for reading 'lillah' as a formula — that Allah owns the dunya and the akhira, so no share is 'needed' — is the exact point the file already makes with 'Of course Allah is not in need.'"
+  },
+  {
+    "file": "008-al-anfal/ayahs-065-066.md",
+    "verdict": "FLAG",
+    "thesis": "Allah lightens the outward numerical ratio because He knows the actual weakness of His servants, but the inner law of victory is unchanged — sabr, divine permission, and Allah's withness with those who endure.",
+    "thesis_grounding": "GROUNDED",
+    "claims_checked": 11,
+    "claims_failed": 1,
+    "flags": [
+      {
+        "quote": "The numbers shift. The burden shifts. The need for steadfastness does not.",
+        "issue": "Overstated against the one classical gloss that speaks directly to it. Ibn Kathir carries Ibn 'Abbas via 'Ikrimah (al-Bukhari, through Ibn al-Mubarak): 'Allah lowered the number of adversaries that Muslims are required to endure, and thus, MADE THE REQUIRED PATIENCE LESS, compatible to the decrease in numbers.' The required sabr was reduced proportionally. What the file can defend from the text is narrower and true — sabirun/sabirah remains the qualifying attribute in both ratios and the passage still closes wa-Llahu ma'a s-sabirin (al-Tabari glosses this as sabr with ihtisab seeking Allah's reward). As written, the hook asserts the opposite of Ibn 'Abbas's report.",
+        "severity": "moderate"
+      },
+      {
+        "quote": "These two ayahs let us see divine legislation in motion.",
+        "issue": "AHKAM ADAB / NASKH OMITTED ENTIRELY. The file names the change 'takhfif', 'calibration', 'lightening' — and never once uses the word abrogation or reports that the classical sources treat this as a naskh pair. Ibn Kathir states it flatly: 'The Ayah says, one Muslim should endure ten disbelievers. Allah abrogated this part later on, but the good news remained.' Al-Tabari stacks the same: Ibn 'Abbas via Ibn Ishaq (16271) 'fa-nasakhaha bi-l-ayati l-ukhra', Ibn 'Abbas via 'Ali (16272) 'fa-nusikha al-amru l-awwal', 'Ikrimah and al-Hasan (16274) 'thumma nusikha', al-Suddi (16281) 'fa-nasakhaha Llahu 'anhum'. This is the same class of problem the pass already flagged at 8:15-16 and 8:61 in this surah, and here the naskh is not even contested — it is the unanimous framing. Grep confirms the file contains no occurrence of 'abrogat', 'naskh', 'ikhtilaf' or 'fatwa', and names no classical authority.",
+        "severity": "critical"
+      },
+      {
+        "quote": "The task is to remain obedient at the burden He now assigns, not to boast of carrying what revelation has already lightened.",
+        "issue": "This treats the 1:2 ratio as a live standing obligation on the reader without saying it is a legal ruling with conditions, and omits the concrete fiqh consequence both editions attach to it — Ibn 'Abbas (Ibn Kathir, and al-Tabari 16271): 'if Muslims were half as many as their enemy, they were not allowed to run away from them. If the Muslims were fewer than that, they were not obligated to fight the disbelievers and thus allowed to avoid hostilities.' There is real ikhtilaf downstream of that (whether the ratio is a binding threshold on fleeing or a descriptive promise of aid), and the file settles it by implication with no tadabbur-vs-fatwa line.",
+        "severity": "critical"
+      }
+    ],
+    "notes": "Arabic for 8:65, 8:66 and the frontmatter verify exactly against quran-verses.json after normalization. Verified textually: sabr-root words do occur in both verses (8:65 sabirun; 8:66 sabirah and al-sabirin), so the file's 'Sabr appears in both verses' holds. The 'bi-annahum qawmun la yafqahun' gloss is compatible with al-Tabari, who explains it as fighting 'ala ghayri raja'i thawab — without hope of reward, hence they do not hold firm; the file's 'interior coherence' reading is a fair paraphrase. FIX = insert the ikhtilaf/naskh paragraph after 'There is mercy in the explicitness': report the abrogation framing with its authorities (Ibn 'Abbas, 'Ikrimah, al-Hasan, al-Suddi, Ibn Ishaq, Ibn Kathir), state the fiqh consequence Ibn 'Abbas attaches (no fleeing at 1:2; no obligation below that), note that this is the Badr-era community being addressed, and close with the tadabbur/fatwa line. Separately, retune the hook from 'the need for steadfastness does not [shift]' to 'sabr remains the qualifying condition at every ratio' — which is what the text carries and what does not collide with Ibn 'Abbas."
+  },
+  {
+    "file": "008-al-anfal/ayahs-070-071.md",
+    "verdict": "FLAG",
+    "thesis": "Revelation keeps the door of inward transformation open even for captives and former enemies — Allah alone sees the khayr in a defeated heart and can replace what was taken with better — while refusing naivety, because renewed khiyanah is an older pattern Allah has already exposed.",
+    "thesis_grounding": "GROUNDED",
+    "claims_checked": 9,
+    "claims_failed": 1,
+    "flags": [
+      {
+        "quote": "And the word **khayr** is deliberately open. It can include sincerity, receptivity, faith, honesty, genuine turning, moral potential.",
+        "issue": "'Deliberately open' is asserted as a lexical fact against the fetched editions, which specify it. Al-Tabari: 'in ya'lam Allahu fi qulubikum khayran, yaqulu: in ya'lam Allahu fi qulubikum ISLAMAN'. Ibn Kathir carries the same through the al-'Abbas exchange — the Prophet's 'Allah knows if you are Muslim! If what you are claiming is true, then Allah will compensate you.' The file's broader list is a reasonable contemplation but is presented as the meaning, with no flag and no attribution.",
+        "severity": "moderate"
+      },
+      {
+        "quote": "Something has indeed been taken. Wealth, leverage, freedom, status.",
+        "issue": "The referent of 'mimma ukhidha minkum' is specific in every fetched edition and the file never says so. Al-Tabari: 'yu'tikum khayran mimma ukhidha minkum — MIN AL-FIDA'' (the ransom). Ibn Kathir gives the full asbab: al-'Abbas b. 'Abd al-Muttalib asking the Prophet to credit the twenty uqiyah taken from him at Badr toward his ransom, the refusal, then al-'Abbas's own testimony after the verse — 'After I became Muslim, Allah gave me twenty servants in place of the twenty Uwqiyah I lost. And I hope for Allah's forgiveness.' Al-Tabari records al-'Abbas saying 'fiyya nazalat hadhihi l-ayah' (16321, 16322). This is the file's best evidence for its own thesis — a documented case of exactly the exchange it is describing — and it is entirely absent from the body. The frontmatter passage_context mentions ransom; the 1,916-word reflection never does.",
+        "severity": "moderate"
+      },
+      {
+        "quote": "The phrase **fi aydikum** is sobering. In your hands. It names actual possession, actual control, actual vulnerability.",
+        "issue": "AHKAM ADAB: captives and ransom are ahkam-bearing and adversarially quoted, and this passage sits directly downstream of the 8:67-69 asra/fida' rebuke, where the tradition disputes the ruling (and its relation to 47:4). The file states no ruling — it does not present captive-taking as a standing norm, which is to its credit — but it also carries no ikhtilaf acknowledgment and no tadabbur-vs-fatwa line, and it comments on the captive relation ('actual possession, actual control') without situating it in the Badr aftermath. Grep confirms no classical authority, 'ikhtilaf' or 'fatwa' appears anywhere in the file. Flagged per the rubric's when-uncertain rule; this is the lightest of the four.",
+        "severity": "moderate"
+      }
+    ],
+    "notes": "Arabic for 8:70, 8:71 and the frontmatter verify exactly against quran-verses.json after normalization. No corpus count-claims are made. The 8:71 half is well grounded — 'faqad khanu Allaha min qablu fa-amkana minhum' as prior betrayal followed by divine enablement matches both editions, and the file's refusal to let mercy become gullibility is the passage's own move. FIX is additive, not corrective: (1) bring the al-'Abbas asbab into the body — the twenty uqiyah, the refusal, and his post-Islam testimony of twenty servants — since it is documentary proof of the file's thesis; (2) gloss 'khayran mimma ukhidha' as the ransom (al-Tabari, min al-fida') before generalizing it to loss as such, and mark the generalization as the reflection's own extension; (3) note al-Tabari's 'islaman' reading of khayr alongside the file's wider list; (4) add a short line placing the address in the Badr captive aftermath plus the tadabbur/fatwa line. No content needs to be removed."
+  }
+]

@@ -1,0 +1,121 @@
+[
+  {
+    "file": "009-at-tawbah/ayah-005.md",
+    "verdict": "FLAG",
+    "thesis": "9:5 is structurally built to delay, narrow, and bound the sword — an amnesty before it, a one-word repentance off-ramp inside it, asylum after it — so that read whole it cannot be read as an open-ended kill command.",
+    "thesis_grounding": "GROUNDED",
+    "claims_checked": 9,
+    "claims_failed": 2,
+    "flags": [
+      {
+        "quote": "the central scholarly debate around this verse was never *whether* it was bounded — it was *how* to name the bounds. ... Not one of them read it as the open-ended fragment now does.",
+        "issue": "Ibn Kathir's own edition (fetched) records that 9:5 'was called the Ayah of the Sword, about which Ad-Dahhak bin Muzahim said, \"It abrogated every agreement of peace ... every treaty, and every term,\"' plus al-'Awfi's report from Ibn 'Abbas that no idolator retained any treaty after Bara'ah. The maximalist position and its authorities are never named anywhere in the file — the exact defect for which the sibling ayahs-004-006.md was flagged and repaired (see EXEMPLAR-ikhtilaf-paragraph.md). The repaired sibling now names Ad-Dahhak and Ibn 'Abbas; this file asserts the opposite ('never whether it was bounded'), so the two live files on the same verse now contradict each other.",
+        "severity": "critical"
+      },
+      {
+        "quote": "A set of Arabian tribes had entered formal pacts with the Muslim community and then broken them, attacking and aiding attackers.",
+        "issue": "Scoping by hostility, not treaty status. Al-Tabari (fetched) defines the targets by treaty relationship: 'عن الذين لا عهد لهم، أو عن الذين كان لهم عهد فنقضوا عهدهم ... أو كان عهدهم إلى أجل غير معلوم' — no treaty / broken treaty / unspecified term. The sibling 9:4-6 file was corrected from this same 'declared hostility' framing to 'those left with no treaty once the sacred interval passes'; this file (and its passage_context frontmatter) still carries the pre-repair scoping.",
+        "severity": "moderate"
+      },
+      {
+        "quote": "the *very next verse*, 9:6, commands: if any one of these same polytheists seeks your protection ... grant him asylum",
+        "issue": "The file rests its entire close on 9:6 but omits al-Tabari's ruling that 9:6 was NOT abrogated (the abrogation dispute he records and rejects). Per the exemplar's finding, this is the file's strongest classical evidence left on the table — and its absence leaves the asylum claim exposed to the Ad-Dahhak abrogation position the file also never mentions.",
+        "severity": "moderate"
+      },
+      {
+        "quote": "al-Ṭabarī and al-Qurṭubī read these not as an inquisition into the soul but as the visible threshold of re-entry ... your inner state is between you and God.",
+        "issue": "Al-Qurtubi is not among the four fetched editions — unverifiable. Al-Tabari's fetched gloss of fa-in tabu explicitly includes inner content ('رجعوا عما ... من الشرك ... إلى توحيد الله وإخلاص العبادة له') alongside the public acts, so the 'inner state is between you and God' attribution is loose. Ibn Kathir's fetched gloss of the campaign clause ('they will have no choice, but to die or embrace Islam') is a harder register than the file's 'bar to safety deliberately low' framing acknowledges.",
+        "severity": "moderate"
+      },
+      {
+        "quote": "It travels the world as a fragment — eleven words in the middle of a sentence",
+        "issue": "Countable claim that fails verification: the fragment the file itself quotes ('kill the polytheists wherever you find them') is seven English words, four Arabic words. No natural counting of the fragment yields eleven.",
+        "severity": "minor"
+      },
+      {
+        "quote": "No tadabbur-vs-fatwa line anywhere in the file.",
+        "issue": "The most adversarially-quoted verse in the corpus carries no reader-facing 'this is tadabbur, not a ruling; ask a qualified scholar' line. The repaired sibling ayahs-004-006.md and ayah-123.md both carry it. (Quote field describes the absence; there is no text to quote.)",
+        "severity": "moderate"
+      }
+    ],
+    "notes": "FILE IS CURRENTLY LIVE (validated: true, 2026-06-01). Verified claims: At-Tawbah only surah without basmala (true), insalakha Form VII and snake/night imagery (36:37 confirmed verbatim; Tabari's شاة مسلوخة gloss supports), 9:2 four-month sich (confirmed), khallu = Form II takhliya (true), ghafur(91)/rahim(115) are the two most frequent mercy names (corpus-verified), four pursuit verbs + one release verb (true). The thesis itself is carried by all four editions (grace period, tawbah release, 9:6 asylum) — the failure is suppression of the named maximalist counter-position plus consensus overclaim, i.e., exactly what the ikhtilaf repair fixed in the sibling. FIX: port the approved ikhtilaf section pattern from ayahs-004-006.md (name Verse-of-the-Sword + Ad-Dahhak + Ibn 'Abbas; switch to al-Tabari's treaty-status scoping; add al-Tabari's 9:6 non-abrogation ruling; add the tadabbur/fatwa line), correct 'eleven words', and delete or soften 'never whether it was bounded'. Until then this file and the repaired sibling disagree in public."
+  },
+  {
+    "file": "009-at-tawbah/ayah-028.md",
+    "verdict": "PASS",
+    "thesis": "9:28 pairs a sacred boundary with its economic underwriting: the mushrikin are barred from al-Masjid al-Haram as najas (a state of orientation, with the classical ikhtilaf on ritual vs. spiritual impurity reported), and Allah pre-emptively names and pledges to compensate the believers' feared loss of pilgrim trade.",
+    "thesis_grounding": "GROUNDED",
+    "claims_checked": 11,
+    "claims_failed": 0,
+    "flags": [
+      {
+        "quote": "Among the classical grammarians and rhetoricians (al-Zamakhsharī, al-Rāzī, and others), *sa-* is the *near future* ... *Sawfa* is the *firm future*",
+        "issue": "Attribution unverifiable against the four fetched editions (al-Zamakhshari and al-Razi are outside the cross-reference tool). The sa-/sawfa distance distinction is standard grammar-tradition material and the 'heavier certainty' framing is presented homiletically, but the named-authority claim could not be checked. Not thesis-bearing.",
+        "severity": "minor"
+      }
+    ],
+    "notes": "FILE IS CURRENTLY LIVE (validated: true, 2026-04-29). All load-bearing attributions verified verbatim against the fetch: al-Tabari 'ما المشركون إلا نجس' (exact), al-Tabari's open ikhtilaf on najas ('واختلف أهل التأويل في معنى النجس') including the janabah/ghusl view (Qatadah) — so the brief's required najas ikhtilaf IS present and correctly sourced; al-Muyassar rijs/khabath, سيعوضكم (compensation), fear-of-poverty-from-trade-cessation, and عليم بحالكم/حكيم في تدبير شؤونكم all exact; Ibn Kathir 'pure in religion and person' / 'filthy in the religious sense' exact; year-9 'Ali announcement occasion confirmed. The exclusion is kept to al-Masjid al-Haram/the Haram throughout and explicitly historicized ('the polytheists of Makkah in 9 AH') — the file does NOT generalize to all mosques (note: Ibn Kathir records the Umar b. Abdul-Aziz all-mosques extension; the file's restraint is the safer reading and matches the verse). The relief clause carries at least half the file's weight. Believer-najas application is clearly reflection-framed. Innama as hasr matches Tabari's illa paraphrase. No count-claims failed. Human reviewer need only eyeball the minor sa-/sawfa attribution."
+  },
+  {
+    "file": "009-at-tawbah/ayah-029.md",
+    "verdict": "FLAG",
+    "thesis": "9:29 is a bounded rule of engagement: a partitive min filters a specific belligerent subset of the People of the Book, and the terminal hatta ends the fighting at a political settlement (jizya/dhimma) rather than conversion or annihilation.",
+    "thesis_grounding": "REFLECTION-FLAGGED",
+    "claims_checked": 12,
+    "claims_failed": 2,
+    "flags": [
+      {
+        "quote": "What Allah said is: fight *those who* — *from among* the People of the Book — meet these four conditions. ... The People of the Book is the *pool*. The four descriptions are the *filter*.",
+        "issue": "The partitive-min reading is the file's first structural anchor, but NONE of the four fetched editions carries it, and one carries the opposite explicitly: al-Jalalayn glosses ﴿مِن﴾ بَيان لِلَّذِينَ — explicative (bayan), i.e., the People of the Book as such, 'the Jews and Christians.' Al-Muyassar: 'من اليهود والنصارى' (identifying, not filtering). Al-Tabari: 'وهم اليهود والنصارى' and reads the target broadly. The file concedes Tabari's breadth in one clause but never tells the reader that the standard classical grammatical reading of this min is explicative — a breadth-of-attribution failure where the unnamed editions are the ones that disagree. The partitive reading is attributed only to unfetched 'later commentators' (al-Razi/al-Qurtubi traditions), unverifiable here.",
+        "severity": "critical"
+      },
+      {
+        "quote": "Ibn Kathīr ties the four descriptions tightly to that historical group whose hostility had become open and military.",
+        "issue": "The fetched Ibn Kathir does not. He ties the REVELATION to the Roman/Tabuk campaign, but applies the four descriptions to People of the Scriptures as such: 'when People of the Scriptures disbelieved in Muhammad, they had no beneficial faith in any Messenger ... their claimed faith in an earlier Prophet will not benefit them.' The attribution reverses his direction.",
+        "severity": "moderate"
+      },
+      {
+        "quote": "Another strand — and we have to be honest that this strand existed — read it as authorizing some specific ritual humiliation at the moment of payment. Many later Ḥanafī jurists explicitly *rejected* this reading",
+        "issue": "The saghirun range is under-reported on the hard side using the file's own cross-reference editions. Al-Tabari's fetched gloss is 'وهم أذلاء مقهورون' (abased, subjugated) and he records the ikhtilaf including 'Ikrimah's posture reading ('you take it sitting while he stands'). Ibn Kathir's fetched section is titled 'Paying Jizyah is a Sign of Kufr and Disgrace,' glosses saghirun 'disgraced, humiliated and belittled,' forbids honoring dhimmis, and cites the narrowest-alley hadith and the Pact of 'Umar. The file names authorities only on the softer side (al-Shafi'i, Hanafis, Ibn Qudamah — all outside the fetched editions, unverifiable), leaves the hard strand anonymous, and adjudicates via 'the historical record ... is the strongest evidence for which reading the ummah actually lived.' A reader who opens Ibn Kathir or al-Tabari will conclude the file hid them — the adversarial-quotation failure the brief warns about. The range IS gestured at (al-Muyassar's khadi'in adhilla' is quoted honestly), so this is tilt, not omission — but on this verse tilt is the flag condition.",
+        "severity": "critical"
+      },
+      {
+        "quote": "the classical jurists — across the four Sunni madhāhib and the Jaʿfarī school — universally derived from this ayah a terminal limit ... their blood, their wealth, and their honor become as inviolable as a Muslim's.",
+        "issue": "Breadth overclaim over unfetched juristic literature. The terminal-limit point is safe (the hatta is in the verse), but 'universally' across five schools is unverifiable here, and full blood-parity is itself a known madhhab ikhtilaf (qisas of a Muslim for a dhimmi is disputed between the Hanafis and the other schools) — asserting parity as consensus is the same false-unanimity pattern the rubric names.",
+        "severity": "moderate"
+      },
+      {
+        "quote": "The Prophet ﷺ said it in a hadith preserved in Abū Dāwūd: *\"Whoever harms a dhimmī, I will be his adversary on the Day of Judgment.\"*",
+        "issue": "Loose citation: Abu Dawud's text (3052) concerns the mu'ahid, not the dhimmi ('من ظلم معاهدًا أو انتقصه ... فأنا حجيجه يوم القيامة'), and 'his adversary' renders hajijuhu. The popular dhimmi wording is a paraphrase presented as the preserved text, with no grading.",
+        "severity": "minor"
+      },
+      {
+        "quote": "No reader-facing tadabbur-vs-fatwa line in the file.",
+        "issue": "On the verse that grounds an entire chapter of siyar law, the file does fiqh-adjacent work throughout (dhimma system, madhhab positions) but never tells the reader this is tadabbur, not a ruling. The only disclaimer is an HTML comment invisible to readers. Contrast ayah-123.md ('We are not here to do fiqh') and the repaired ayahs-004-006.md. (Quote field describes the absence.)",
+        "severity": "moderate"
+      }
+    ],
+    "notes": "FILE IS CURRENTLY LIVE (validated: true, 2026-04-29). Verified verbatim against the fetch: Tabari's opening address to the Companions, 'لا يصدقون بجنة ولا نار' for the Last Day, Tabuk/Rum sabab (Mujahid in Tabari + Ibn Kathir), 'an yad hand-to-hand reading ('من يده إلى يد من يدفعه إليه'), al-Muyassar's ahkam-commitment gloss for din al-haqq and 'خاضعين أذلاء'; 2:193 and 60:8 quotes check out. The hatta-terminus anchor is genuinely in the verse and safe. What fails is the scoping anchor (partitive min asserted as grammar against all four editions, with the bayan dissent hidden) and the tilted saghirun range. Note the file's own HTML header comment admits the wider-tradition material was 'presented as part of the wider classical tradition rather than as claims verified against the four-source cross-reference' — the validation gate accepted that; this pass should not. FIX: an ikhtilaf section in the exemplar pattern that (a) names the bayan/explicative reading (al-Jalalayn) and Tabari's broad target alongside the takhsis reading, (b) quotes al-Tabari's أذلاء مقهورون + 'Ikrimah and Ibn Kathir's disgrace section by name alongside al-Shafi'i/Hanafi structural readings, without adjudicating, (c) corrects the Abu Dawud wording to mu'ahid, (d) drops 'universally'/blood-parity or scopes them, and (e) adds the reader-facing tadabbur/fatwa line."
+  },
+  {
+    "file": "009-at-tawbah/ayah-123.md",
+    "verdict": "FLAG",
+    "thesis": "9:123 hands the community a method — concentric engagement (fight the nearest first, per Tabari's al-aqrab fal-aqrab), a ghilzah that is constitutional density-plus-severity rather than cruelty, all bound by the closing condition/promise that Allah is with the muttaqin.",
+    "thesis_grounding": "GROUNDED",
+    "claims_checked": 8,
+    "claims_failed": 0,
+    "flags": [
+      {
+        "quote": "In Arabic, an indefinite noun in this position carries a sense of \"a kind of *ghilẓah*\n\n[... reflection continues ...]",
+        "issue": "THE FILE IS TRUNCATED. It ends mid-sentence in Element Two with a literal scaffold stub '[... reflection continues ...]' as the last line. Body is 2,693 words against a frontmatter word_count of 9,200 (~71% missing) and a promised 50-56 minutes. Missing: the rest of Element Two, the entire Element Three on the ma'a al-muttaqin clause (the file explicitly promises 'We will return to this tension at the close of the linguistic journey' and never does), all of Part 2, the closing synthesis, questions to carry, distillation, and du'a. This is rubric check 5 (truncation artifact) on a LIVE validated page, and matches the known enricher body-stub incident pattern.",
+        "severity": "critical"
+      },
+      {
+        "quote": "Allah does not say *aghliẓū 'alayhim* — \"be harsh upon them.\" He says ... *\"let them find in you harshness.\"* ... The *ghilẓah* is something they walk into when they push. ... The aggressor *finds* it. The peaceful neighbor does not.",
+        "issue": "True of the verse's own wording, but al-Jalalayn (fetched) glosses the clause as exactly أغْلِظُوا عَلَيْهِمْ ('be harsh upon them'), and Ibn Kathir extends ghilzah to a standing disposition via 48:29/5:54 ('The complete believer is ... harsh with his disbelieving enemy'). The extant text does honestly import al-Muyassar's غلظة وشدة pairing against its own density-only etymology, and Ibn Kathir does scope the harshness 'against them in battle' — but because the file is cut off, the reader never sees whether the Jalalayn/Ibn Kathir disposition strand would have been reported. Repair should address this when the missing body is restored.",
+        "severity": "moderate"
+      }
+    ],
+    "notes": "FILE IS CURRENTLY LIVE (validated: true, 2026-04-29; semantic_review enriched-2026-06-02) — a live reader page that stops mid-sentence with a visible '[... reflection continues ...]' stub. Everything that exists verifies cleanly: Tabari's 'ابدأوا بقتال الأقرب فالأقرب إليكم دارًا دون الأبعد فالأبعد' quoted exactly; Tabari's identification of al-Rum/Syria as the nearest at revelation confirmed; Ibn Kathir's concentric sequence (Peninsula first, then Romans) confirmed; al-Muyassar 'غلظة وشدة' and 'بتأييده ونصره' both exact; the fiqh disclaimer ('We are not here to do fiqh') is present and strong; mithaqan ghaliza in 4:21 and 33:7 corpus-verified; 2:74 qasat qulubukum verified; qaswah-vs-ghilzah distinction lexically sound; campaign-ordering scoping (the brief's key check) is exactly right in what survives. So the content is not the problem — the amputation is. FIX: recover the missing ~6,500 words from whatever source generated the enriched version (check pipeline outputs/backups from the 2026-06-02 semantic_review run), or regenerate the missing sections via the quranic-tadabbur skill + full validation; either way the '[... reflection continues ...]' stub must not remain on a live page, and validated:true should be suspended until the body is whole."
+  }
+]

@@ -38,14 +38,29 @@ TRIAGE = os.path.join(LAB, 'validation-triage.json')
 
 
 def load_verdicts():
-    verdicts = []
-    for path in sorted(glob.glob(os.path.join(READS, 'verdicts-*.json'))):
+    """Latest verdict per file wins.
+
+    A file that was FLAGGED, repaired, and then re-verified as PASS has TWO
+    verdicts on disk. Without this, the superseded FLAG is re-emitted into
+    REVIEW-QUEUE.md on every run, so a repaired file never leaves the queue and
+    the pass cannot converge. Verdict files are ordered by mtime (NOT by name --
+    'verdicts-verify-A' sorts before 'verdicts-wave2-*' but was written after
+    it), and the newest verdict for a given file supersedes the older ones.
+    """
+    paths = sorted(glob.glob(os.path.join(READS, 'verdicts-*.json')),
+                   key=lambda p: os.path.getmtime(p))
+    latest, superseded = {}, []
+    for path in paths:
         with open(path, encoding='utf-8') as fh:
             batch = json.load(fh)
         for v in batch:
             v['_source'] = os.path.basename(path)
-        verdicts.extend(batch)
-    return verdicts
+            prev = latest.get(v['file'])
+            if prev is not None:
+                superseded.append((v['file'], prev['verdict'], prev['_source'],
+                                   v['verdict'], v['_source']))
+            latest[v['file']] = v
+    return list(latest.values()), superseded
 
 
 def eligible_files():
@@ -82,10 +97,15 @@ def main():
     ap.add_argument('--dry', action='store_true')
     args = ap.parse_args()
 
-    verdicts = load_verdicts()
+    verdicts, superseded = load_verdicts()
     eligible = eligible_files()
     if not verdicts:
         sys.exit('no verdicts-*.json found in ' + READS)
+
+    if superseded:
+        print(f'superseded verdicts (newer read wins): {len(superseded)}')
+        for f, ov, osrc, nv, nsrc in superseded:
+            print(f'  {f}: {ov} ({osrc}) -> {nv} ({nsrc})')
 
     passed, flagged, skipped = [], [], []
     audit_rows = []

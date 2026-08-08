@@ -1,5 +1,50 @@
 # AyahGuide Article Backlog
 
+## Session Log — 2026-08-08 (FIX: أَوْجَسَ miscounted in Adh-Dhariyat 51:24-30 — file only, not live)
+
+**File:** `content/tadabbur/051-adh-dhariyat/ayahs-024-030.md` · **Live:** nowhere — see DB note below
+
+Element Four claimed أَوْجَسَ "appears in the Quran exactly twice: here, and in Surah Hud (11:70), describing this very same moment." It is **three**: 11:70, **20:67**, 51:28. `verify_claims.mjs` caught it (lemma = surface = 3). Corpus morphology confirms all three are the identical form — Form IV perfect 3MS, `LEM:>awojasa|ROOT:wjs` — and the root وجس occurs **nowhere else in the Quran** in any derivation.
+
+**20:67 strengthens the point rather than weakening it**, so the third case went in as its own beat instead of a bare count bump. The missing occurrence is فَأَوْجَسَ فِي نَفْسِهِ خِيفَةً مُّوسَىٰ — Musa before the magicians' ropes. The pattern that survives the correction is tighter than the one the error was protecting:
+
+- **All three subjects are prophets.** Ibrahim (11:70), Musa (20:67), Ibrahim (51:28).
+- **All three take the identical object** — not merely the same idea but the same lemma in the same form: `xiyfapF` (`LEM:xiyfap|ROOT:xwf|F|INDEF|ACC`) at 11:70:10:1, 20:67:4:1, 51:28:3:1. The verb takes no other object anywhere.
+- **All three are answered immediately with لَا تَخَفْ**, identical form in all three (`LEM:xaAfa|ROOT:xwf|2MS|MOOD:JUS`) — 11:70 and 51:28 in the same ayah, 20:68 in the next. In no case does the prophet speak first or ask for anything.
+- So *awjasa* is not the general word for fear; it is the word that shows up for a prophet's concealed fear, and it is never left unanswered. The corrected count **is** the argument.
+
+Placed the new material at the *lā takhaf* hinge (after L197), since 20:68's قُلْنَا لَا تَخَفْ is what makes the parallel land. Existing Element Four prose, the Element Six/synthesis callbacks to *awjasa* (L229/L281 old numbering), the pruned morphology comment, and the one tagged Arabic block were left untouched. Added `20:67`/`20:68` to `related_ayahs` — the passage now cites them.
+
+**Refutation Pass caught two overclaims in my own repair**, same failure mode as Aug 6-7 — the repair is where the new error wants to live. Draft said Musa "does not let a single thing show" and that the prophet keeps the fear "inside where no one can read it." Neither is textual: the Quran says فِي نَفْسِهِ and says nothing about observers. Rewrote both to claim only the placement the text gives ("the one place the Quran puts his fear is inside him") and swapped the unsupported half for a checkable one ("the verb never takes another object"). All four surviving `[quantifier]` ledger items are now corpus-verifiable and were hand-checked against `quranic-corpus-morphology.txt` line by line.
+
+QA: verify_claims **PASS** (1 verified, 0 failed; 7 ledger — 3 pre-existing, 4 new and all hand-verified) · verify_arabic 1/1 exact, 0 warnings, `--scan` clean (no new Arabic script introduced) · verify_morphology 0 claims (file's table is pruned to a comment — untouched) · cross_reference_tafsir read for 51:24-30 and 20:67-68 — Ibn Kathir glosses 51:28 as "conceived fear of them (when they ate not)" and 20:67 as fear *for the people*, not for himself; the repair does not assert otherwise.
+
+**DB: no republish needed.** `ayah_records` has **zero rows for surah 51** (182 rows total, surahs 1-114 partial — 51 is not among them), so this reflection has no `/reflections` page. Swept all 356 `posts` rows for `awjasa|أَوْجَس|exactly twice`: 8 hits, **none carrying the wrong claim**. Two mention the verb and both are correct — the `adh-dhariyat` surah page describes its meaning with no count, and `ibrahim-wife-laugh-strike-quran` claims the *three-word phrase* أَوْجَسَ مِنْهُمْ خِيفَةً appears in exactly two places, which is **right** (20:67 is فِي نَفْسِهِ, not مِنْهُمْ — the phrase count and the verb count are genuinely different numbers). No live content was wrong; the defect was confined to the unpublished file.
+
+**Verified seed, not yet written:** the root وجس is a true three-occurrence root with a perfect internal pattern — prophet + خِيفَة + لَا تَخَفْ, no exceptions, no other derivation in the corpus. That is a connection-reveal article on its own, and the Musa↔Ibrahim pairing (composure under a refused meal vs. composure under a hostile court) is the spine.
+
+## Session Log — 2026-08-07 (FIX: رَغَدًا miscounted in Al-Baqarah 2:58-59 — published, now corrected)
+
+**File:** `content/tadabbur/002-al-baqarah/ayahs-058-059.md` · **Live:** `/reflections/002-058-059` (`ayah_records` 75f61a13, republished in place)
+
+The article claimed رَغَدًا "appears only twice in the Quran" — 2:35 and 2:58 — and hung an exclusivity point on that pair. It is **three**: 2:35, 2:58, and **16:112**, the parable town in An-Nahl whose provision arrives رَغَدًا from every direction. `verify_claims.mjs` caught it (root = lemma = surface = 3, all three ways agreeing).
+
+**16:112 strengthened the point rather than diluting it**, so it went in instead of a bare count correction:
+- 16:112 uses **قَرْيَة** — the same word as 2:58's ٱدْخُلُوا۟ هَـٰذِهِ ٱلْقَرْيَةَ. The Adam↔Bani Israel echo now has a third town-shaped member.
+- All three occurrences are the same surface form (indefinite accusative رَغَدًا) — the word has no other vocalization in the corpus.
+- What follows the abundance in each: expulsion (فَأَخْرَجَهُمَا, 2:36), رِجْز from the sky (2:59), the garment of hunger and fear (16:112).
+- Kept the honest asymmetry instead of flattening it: 2:35/2:58 attach رَغَدًا to a **command** (*eat*), 16:112 to **delivery** (provision *arriving*), and 16:112 carries no command at all — only the gratitude abundance obliges.
+
+The 2:35↔2:58 echo was left intact; the morphology table and tagged Arabic were not touched.
+
+**The Refutation Pass earned its place again.** The first draft of the repair passed all four validators but left two `[quantifier]` items on the ledger — "loss in all three" and "all three passages are asking the same question." Both were the "all N" overclaim. *Loss* was doing quiet work for 2:58, where the text records punishment but never says the food was withdrawn; and "asking the same question" forced 16:112 into a command-shape it does not have. Rewrote both to say only what the three verses actually support. Ledger went 2 → 0. This is the same failure mode as the Aug 6 wave — the repair, not the original, is where the new error wants to live.
+
+QA: verify_claims PASS (1 verified, 0 failed, **0 ledger**) · verify_arabic 2/2 exact, 0 warnings, `--scan` clean · verify_morphology 26/26 (1 pre-existing unreferenced حطط) · cross_reference_tafsir report read — Ibn Kathir corroborates رَغَدًا as bountiful/pleasurable eating and رِجْز as punishment.
+
+No `posts` row exists for this reflection — `ayah_records` is the only live copy. Page is `revalidate = 3600`, so no redeploy needed. Row backed up to `scripts/.tmp/ayah_records-2-58-59.backup.json` before the write.
+
+**Verified seed, not yet written:** 7:161 retells this exact episode — ٱسْكُنُوا۟ هَـٰذِهِ ٱلْقَرْيَةَ وَكُلُوا۟ مِنْهَا حَيْثُ شِئْتُمْ وَقُولُوا۟ حِطَّةٌ — and **drops رَغَدًا**. So does 7:19, the Adam parallel to 2:35. The word is present in both Al-Baqarah tellings and absent from both A'raf tellings. Left out of this repair deliberately (scope), but that absence is a real article.
+
 ## Session Log — 2026-08-06c (DIVINE NAMES wave 6 — 2 more; 31 → 33 written)
 
 **Published:** `/posts/al-hayy-divine-name-quran` · `/posts/al-aziz-divine-name-quran`
@@ -32224,3 +32269,67 @@ Sitemap fix from the 2026-07-30 session was **still sitting uncommitted** — ma
 - Also fills the `quraysh` hub (one of the 9 newly-found synthesis gaps).
 
 **Still open:** the remaining 8 hubs with 3+ articles and no synthesis (dhikr, jinn, luqman, thamud, layl, dunya, yawm, haqq) — they need focused articles first, since their "primary" tags are mostly surah overview pages.
+
+---
+
+### 2026-08-07 — repair: 58:8 tadabbur (two defects, one file)
+
+`content/tadabbur/058-al-mujadila/ayah-008.md`. Repair under the "REPAIRING AN ALREADY-VALIDATED FILE" protocol.
+
+**Defect 1 — 58:7 misquoted, and the file contradicted itself.** Two places said Allah is "the fourth of every **two** who whisper." 58:7 is `مَا يَكُونُ مِن نَّجْوَىٰ ثَلَٰثَةٍ إِلَّا هُوَ رَابِعُهُمْ` — of **three**, He is their fourth. Two whisperers plus Allah is three, not four.
+- **The same file already had it right** in frontmatter `passage_context` (L13) and in the Closing Synthesis (L283) — so the file was asserting both readings. A local slip, not a misunderstanding; sibling files in the directory are correct.
+- Fixed L259 and L317. **L317 was inside the closing du'ā** — the highest-cost place in the file for a wrong attribution about Allah.
+- L259's surrounding argument was about **al-Mujādila's whisper to the Prophet ﷺ — a party of two**, which "of three" alone does not cover. Rather than leave the inference unsupported, the fix carries 58:7's own next clause: *"and no fewer than that and no more … but He is with them wherever they are"* (`وَلَآ أَدْنَىٰ مِن ذَٰلِكَ وَلَآ أَكْثَرَ إِلَّا هُوَ مَعَهُمْ أَيْنَ مَا كَانُوا۟`). The downstream conclusion is now actually grounded, which it was not before.
+
+**Defect 2 — a false monotonic descent across the three registers of 58:8.** The piece claimed each register was more hidden than the last. The middle member is the *taḥiyyah*, which the piece's own label four lines away calls **"Public."** Real movement: private → **public** → most private. A V, not a descent.
+- The three-register architecture is sound and corpus-confirmed (نجو at 58:8:7 + 58:8:13, حيي at 58:8:20 + 58:8:23, `يَقُولُونَ فِىٓ أَنفُسِهِمْ` at 58:8:26-28). Only the ordering was false.
+- **Grepping beat the flagged lines 2:1.** The report cited L181 and L281; the same claim also sat unflagged at **L175** ("traced their speech inward, ring by ring") and **L275** ("three concentric chambers"). The `outer/middle/inner chamber` labels at L277-279 *were themselves* the ordering claim, so they became huddle / open doorway / sealed room, and L283/285/287 moved with them. Four sites, one claim.
+- Not softened into vagueness: the V is now stated outright, and the corrected shape carries a better point than the false one — the verse does not tunnel down one register, it reaches from the openly public to the wholly unspoken, so no register of speech is left standing outside.
+
+**Validators: all four PASS** (verify_arabic 1/1 exact; verify_morphology 0 claims; cross_reference_tafsir clean; verify_claims PASS, 0 failed, 5 to ledger).
+
+**Refutation Pass — it earned its keep again, on exactly the predicted failure mode.** All 5 ledger entries hold ("all three" at L65, L285 checked member-by-member: najwā → 58:7 + the prohibition; taḥiyyah → `بِمَا لَمْ يُحَيِّكَ بِهِ ٱللَّهُ`; *fī anfusihim* → `حَسْبُهُمْ جَهَنَّمُ`. L141's "twice" confirmed: segments 38 + 44, both Form II). **But three sentences I wrote as connecting prose around the corrections did not survive** — a superlative ("as far apart as speech can get from itself"), an unbounded universal ("covers the whole range" — the ayah spans public↔unspoken, it does not exhaust every register of speech), and an unsupported detail ("where everyone could see" — Ṭabari/ibn Zayd has three men at the door entering one at a time, witnessed, not a public scene). All three tightened to checkable statements, then all four validators re-run clean. **No script could have caught any of them.** Third consecutive repair where the defects came from the repair's own connective tissue, not the fact being corrected.
+
+**Publication: no republish needed.** `ayah_records` has **zero rows for surah 58** — this tadabbur has no reader page, so the file was the only surface. The published `posts` row `al-mujadila` (surah overview) was scanned for both defects and carries neither; its "concentric" is the *surah's* ring structure (1-4/14-22 frame, 5-6/12-13 ring, najwā core at 7-10) — unrelated and sound.
+
+---
+
+### 2026-08-08 — repair: six count errors from the Refutation Pass (5 files, 13 sites)
+
+All six entries from `docs/refutation-pass-2026-08-07.md`. Every corrected number verified against `scripts/.corpus-cache/quranic-corpus.json` **before** it was written. Repair protocol: minimal edits, no number softened into a vague word, each claim followed downstream.
+
+**Counting convention.** Corpus values are arrays of **segments**, and prefixes (`al-`, `wa-`, `bi-`, `li-`) are separate entries — so segment count ≠ orthographic word count. Both word-count fixes below are stated as **orthographic words** (distinct `loc` word-index), which is what the prose means by "words". Segment totals given alongside for traceability.
+
+| File | Sites | Was | Now |
+|---|---|---|---|
+| `020-ta-ha/ayah-055.md` | L63, L515 | "ten words" | **eight** (17 segments) |
+| `027-an-naml/ayah-001.md` | L75, L412 | "seven words" | **six** (10 segments) |
+| `031-luqman/ayah-033.md` | L51 | *yā bunayya* "four times" | **three** |
+| `031-luqman/ayah-033.md` | L77, L150, L158, L291, L419 | *jazā* "three times" | **twice** |
+| `002-al-baqarah/ayah-062.md` | L252 | formula "thirteen times" | **twelve** |
+| `035-fatir/ayah-013.md` | L170, L300 | "the WHOLE verse is built on" م-ل-ك | scope corrected; count of two was right |
+
+**Grepping beat the ledger again — 2 new sites.** The report cited four *jazā* lines; **L77 was a fifth**, unflagged: the section Hook, "a word … that appears three times in two lines. Three times." It maps to Element Two (*jazā*), not to *gharra*, whose own "three times" is **correct** and was left alone (تَغُرَّ / يَغُرَّ / ٱلْغَرُورُ at segments 35, 44, 50). Fatir L170 was likewise a second site for the scope defect.
+
+**The Luqman `yā bunayya` case was an enumeration failure, not a digit.** The article reached "four" by listing imperatives instead of vocatives: it counted 31:17 twice (splitting "establish prayer" from "be patient" — one vocative, four imperatives), invented one at **31:18** where the word does not occur (the ayah opens `وَلَا تُصَعِّرْ`), and **dropped the real one at 31:16**. Corpus-verified: `بُنَىَّ` preceded by the vocative prefix `يَٰ [VOC|PREF]` occurs in Surah Luqman at **31:13, 31:16, 31:17** — three, and six Quran-wide (11:42 Nūḥ, 12:5 Yaʿqūb, 37:102 Ibrāhīm). The prose list was rebuilt to those three in surah order, so the enumeration and the digit now agree: *lā tushrik* (31:13) → the mustard seed in the rock (31:16) → *aqim aṣ-ṣalāh / wa'mur / wanha / waṣbir* (31:17). L251's "the *first* counsel … *yā bunayya lā tushrik biLlāh*" was checked and stands.
+
+**`jazā` downstream held up.** Root ج-ز-ي in 31:33 = **two**: `يَجْزِى` (IMPF verb, seg 15) and `جَازٍ` (ACT_PCPL, seg 24). The miscount came from counting *jazāʾ* — a word that **is not in the ayah** — as a third instance; L158's parenthetical now says so explicitly rather than implying an occurrence. Two occurrences match the two directions the passage is arguing (father→son, son→father), so the corrected count fits the argument better than the wrong one did. L216-217 ("Two verbs in opposite directions … Both verbs from the same root") already had the right count and was left untouched.
+
+**Baqarah — twelve, and it is the complete formula every time.** `لَا خَوْفٌ عَلَيْهِمْ` occurs in **12** ayahs, and in all 12 it is followed by `وَلَا هُمْ يَحْزَنُونَ`: 2:38, 2:62, 2:112, 2:262, 2:274, 2:277, 3:170, 5:69, 6:48, 7:35, 10:62, 46:13. (Prefix varies — `فَلَا` / `وَلَا` / `أَلَّا` — the formula does not.)
+
+**Fatir — the count was right, the scope word was the defect.** م-ل-ك sits at **segments 35 and 44 of 47**; the final third begins at segment 33, so **both** occurrences fall in it and the entire cosmic opening (night/day, sun/moon, *ajal musammā*) runs before the root is sounded once. "The whole verse is built on" also contradicted the file's **own** synthesis four lines earlier, which walks the verse as cosmos → pivot → collapse. Corrected to name the pivot and the collapse — one occurrence in each — which is exact and restores internal consistency.
+
+**Validators: all four PASS on all five files.** verify_arabic 5/5 exact; verify_morphology 0 failures (Baqarah 15/15 verified, 2 files with untagged claims flagged for manual review as before); cross_reference_tafsir clean; verify_claims PASS on all five, 0 failed.
+
+**Refutation Pass — every ledger entry enumerated, all hold.** Checked hardest on the connecting prose I wrote, per the protocol's warning that repairs break the sentences *around* the correction:
+- Ta-Ha "all three" (7 sites) — three clauses, and `كُمْ` is object in **each**: segments 5, 10, 15. L409 "min twice, framing; fī once, in the middle" confirmed exactly — `مِنْ` at words 1 and 5, `فِي` at word 3.
+- An-Naml "all three" — Ṭā Sīn trilogy 26/27/28; Mūsā present in all three (26:10-68, 27:7-14, 28:3-46); 27 is the centre.
+- Baqarah "FOUR groups" / "*āmana* twice" — 4 named groups; root أمن at segments 3 (`ءَامَنُوا۟` 3MP) and 16 (`ءَامَنَ` 3MS), two different grammatical subjects, which is the point being made.
+- Fatir *qiṭmīr* hapax — root قطمر occurs **once in the entire Quran**, 35:13. Claim stands.
+- My own new sentences: "both occurrences land in its final third" and "both sit in the verse's final third" — the only universals I introduced; both enumerated (segs 35, 44 vs. boundary 33) and confirmed. No superlatives or unbounded claims added.
+
+**Publication — one of five is live, and it was serving the error.**
+- **2:62 — republished.** `ayah_records` row `2:62-62`, status `published`, last touched 2026-04-12, was still serving "thirteen times". This is one of the **March/April drifted rows** (live `linguistic_html` 9,571 chars vs 15,700 in the file), so the republish swapped the whole body to the repo version, not just the number. Backup: `scripts/.backups/ayah_records-2026-08-08T06-55-33-937Z.json`. Verified post-write: "thirteen times" gone, "twelve times" present.
+- **20:55, 27:1, 31:33, 35:13 — not published.** No covering row in `ayah_records` (checked by range, `ayah_start <= n <= ayah_end`, not equality). File-only; the fix travels with them whenever they are published.
+
+**DB-probe trap worth recording.** `layer_a` and `layer_b` are **JSON objects**, not strings. `[r.layer_a, r.layer_b].join("\n")` stringifies them to `"[object Object]"` and every substring probe returns a **false negative** — this reported 2:62 as clean when it was not. Use `JSON.stringify` on the layers. Separately, an unfiltered `.select()` hit the **PostgREST 1000-row cap** and reported four published rows as missing; filter server-side or paginate.

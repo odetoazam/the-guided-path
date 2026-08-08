@@ -1,0 +1,91 @@
+[
+  {
+    "file": "009-at-tawbah/ayahs-036-037.md",
+    "verdict": "FLAG",
+    "thesis": "Allah's twelve-month order and four sacred months are fixed in creation, and nasi' (postponing sacred months) is an increase in kufr because it preserves the outward count while making lawful what Allah made unlawful.",
+    "thesis_grounding": "GROUNDED",
+    "claims_checked": 7,
+    "claims_failed": 0,
+    "flags": [
+      {
+        "quote": "And fight the polytheists altogether as they fight you altogether, and know that Allah is with the people of taqwa.",
+        "issue": "The file translates wa-qatilu'l-mushrikina kaffatan kama yuqatilunakum kaffatan twice (frontmatter and body translation) but gives it ZERO treatment: the Linguistic Journey jumps from fa-la tazlimu (section 3) straight to al-nasi' (section 4), skipping the fighting clause entirely. This is one of the most adversarially-quoted fighting clauses in the Qur'an. Missing: (a) the classical scoping of kaffatan — Ibn Kathir reads it as 'all of you ... all of them' (a HOW of fighting, reciprocal), while al-Jalalayn reads it 'jami'an fi kull al-shuhur' (all together, in all months) — a real ikhtilaf over what kaffatan modifies; (b) any weight given to the reciprocity clause kama yuqatilunakum kaffatan; (c) the sacred-months fighting ruling — Ibn Kathir explicitly says 'initiating battle during the Sacred Months is forbidden' (citing 5:2, 2:194, 2:191) and that the clause only permits response if the idolators initiate, while al-Jalalayn's 'in all months' reflects the classical abrogation view — a dispute the file never mentions; (d) any tadabbur-vs-fatwa line on an ahkam-bearing fighting verse.",
+        "severity": "critical"
+      }
+    ],
+    "notes": "Thesis on the nasi'/calendar half is solidly grounded in all four editions (keep-the-count-while-gutting-the-command mechanism is carried by Ibn Kathir, al-Tabari, al-Muyassar, and al-Jalalayn). No countable claims, no tafsir attributions, no truncation artifacts. The single but critical fix: add a section on the fighting clause that (1) reports the kaffatan scoping ikhtilaf (all-of-you-as-one-body vs in-all-months), (2) gives the reciprocity condition kama yuqatilunakum its weight, (3) acknowledges without settling the classical dispute over fighting in the sacred months (Ibn Kathir's initiate-vs-respond distinction vs the abrogation view), and (4) adds an explicit tadabbur-not-fatwa line. Same omission pattern as the 0-for-8 At-Tawbah files."
+  },
+  {
+    "file": "009-at-tawbah/ayahs-007-010.md",
+    "verdict": "FLAG",
+    "thesis": "Believers must answer treaty-keeping uprightness with uprightness, but must not mistake pleasing speech for fidelity when the heart has already sold Allah's signs cheaply.",
+    "thesis_grounding": "GROUNDED",
+    "claims_checked": 8,
+    "claims_failed": 0,
+    "flags": [
+      {
+        "quote": "Except those with whom you made a treaty near the Sacred Mosque.",
+        "issue": "The file preserves the exception's full weight and the fa-ma istaqamu reciprocity prominently (good), but gives NO classical identification of the excepted group and no occasion whatsoever. Al-Tabari records a real ikhtilaf — Banu Jadhima/Bakr of Kinanah (al-Suddi, Ibn Ishaq; Tabari's own preference), Quraysh of the Hudaybiyyah treaty (Ibn 'Abbas, Ibn Zayd, Qatadah), or Khuza'ah (Mujahid) — while Ibn Kathir, al-Muyassar, and al-Jalalayn all name Hudaybiyyah. The file's 'How can there be for the polytheists a covenant' passage floats with no historical anchor on an adversarially-quoted interfaith passage, and there is no tadabbur-vs-fatwa note.",
+        "severity": "moderate"
+      },
+      {
+        "quote": "We often judge people by what they say under pressure, but the Qur'an asks a sharper question: what would they do if they were stronger than you?",
+        "issue": "Generalized present-day application of the covenant-breaking charge. All four editions tie 9:8's 'if they gain the upper hand they would honor neither ill nor dhimmah' to the specific treaty-breakers of 9 AH (Quraysh/Banu Bakr aiding against Khuza'ah — Ibn Kathir and al-Jalalayn both narrate the breach). The file universalizes it into a template for reading people's character today ('Some people speak gently because they are constrained, not because they are upright'), asserted as what 'Revelation is teaching,' without ever noting the charge's historical referent. Mitigating: the application is de-religionized (aimed at generic human psychology, not at non-Muslims or any identifiable group), which is why this is moderate rather than critical — but the universal reading is presented as the teaching, not flagged as contemplative extension from a historically scoped indictment.",
+        "severity": "moderate"
+      }
+    ],
+    "notes": "No absolute/countable claims (both superlatives are hedged with 'one of'), no tafsir attributions made, ill/dhimmah glosses within classical range, no truncation artifacts. Fix: (1) add one paragraph naming the occasion (Hudaybiyyah treaty, breach via Banu Bakr against Khuza'ah) and the Tabari ikhtilaf over exactly who the excepted upright group was; (2) add a sentence anchoring the covenant-breaking charge to that specific group before the contemplative generalization, and mark the people-reading application as reflection; (3) add a tadabbur-not-fatwa line for treaty/covenant rulings. The exception-and-reciprocity handling itself is the strongest part of the file and needs no change."
+  },
+  {
+    "file": "009-at-tawbah/ayahs-019-022.md",
+    "verdict": "FLAG",
+    "thesis": "Outward sacred service (watering pilgrims, maintaining the Sacred Mosque) is not equal with Allah to iman, hijrah, and jihad, and Allah opens the truly higher rank into mercy, ridwan, and gardens.",
+    "thesis_grounding": "GROUNDED",
+    "claims_checked": 6,
+    "claims_failed": 1,
+    "flags": [
+      {
+        "quote": "The misranking itself is a form of zulm. It is an injustice in valuation.",
+        "issue": "Asserted as the meaning of wa-Allahu la yahdi al-qawma al-zalimin, but all four fetched editions identify the zalimin's zulm as SHIRK/KUFR, not misvaluation: Ibn 'Abbas (in both Ibn Kathir and al-Tabari) — 'fa-sammahum Allahu zalimin bi-shirkihim'; al-Muyassar — 'al-zalimin li-anfusihim bi'l-kufr'; al-Jalalayn — glosses al-zalimin flatly as 'al-kafirin'. No classical basis is offered and the line is not flagged as reflection.",
+        "severity": "moderate"
+      },
+      {
+        "quote": "A person can point to proximity to the sacred, to visible usefulness, to honorable-seeming tasks, and quietly imagine that these things make him equal to the one whose entire being has turned to Allah",
+        "issue": "The file recenters the verse as an intra-believer warning against service-as-substitute-for-surrender, and omits the dominant classical scoping entirely: in the main occasion strands (Ibn 'Abbas on al-'Abbas at Badr, in both Ibn Kathir and al-Tabari; al-Muyassar; al-Jalalayn 'nazalat raddan 'ala man qala dhalika wa-huwa al-'Abbas aw ghayruhu') the boasters were mushrikin and the point is that deeds done in shirk are void — 'I do not accept what was done in Shirk.' The intra-believer deed-ranking reading has genuine classical warrant (the Nu'man b. Bashir report in Muslim, carried by both Ibn Kathir and al-Tabari), so the thesis is not false, but the file presents its insider reading as the teaching without reporting that the compared service was, in the majority strand, service without iman.",
+        "severity": "moderate"
+      },
+      {
+        "quote": "Mercy. Ridwan. Gardens. Enduring delight. عظیم reward.",
+        "issue": "The word عظیم uses Farsi yeh (ی U+06CC) instead of Arabic ya' (ي) — a script defect in an inline Arabic word (correct form: عظيم).",
+        "severity": "minor"
+      }
+    ],
+    "notes": "Correctly avoids the sectarian trap: names no occasion and no companions, and ranks DEEDS not persons — the exact safe core the reviewer brief asked for (the classical reports name 'Ali, al-'Abbas, Talhah b. Shaybah/Shaybah; the file stays anonymous). No countable claims, no tafsir attributions, no truncation. Fixes: (1) correct the zulm gloss to the classical referent (zulm = shirk of the boasters) or explicitly mark the valuation reading as reflection; (2) one sentence noting the occasion strands — service performed in shirk vs the intra-believer deeds dispute (Nu'man b. Bashir report) — so the insider application stands on its actual classical leg; (3) fix the Farsi-yeh glyph in عظیم."
+  },
+  {
+    "file": "009-at-tawbah/ayahs-079-080.md",
+    "verdict": "FLAG",
+    "thesis": "Hypocrisy mocks sincere giving at every social scale because sincerity exposes it, Allah measures hidden effort (juhd) rather than visible amount, and hardened rejection cannot be bypassed by repeated prophetic intercession.",
+    "thesis_grounding": "GROUNDED",
+    "claims_checked": 18,
+    "claims_failed": 3,
+    "flags": [
+      {
+        "quote": "Reports gathered by Ibn Kathir and al-Tabari place these verses in the Tabuk atmosphere, when contributions were being gathered",
+        "issue": "Unverifiable against the fetched editions: neither Ibn Kathir nor al-Tabari mentions Tabuk anywhere in their 9:79-80 material. Ibn Kathir's report (Abu Mas'ud, Bukhari/Muslim) says only 'when the verses of charity were revealed, we used to work as porters'; al-Tabari's reports ('Abd al-Rahman b. 'Awf's gold, Abu 'Aqil's sa') say 'gather your sadaqat' with no campaign named. The Tabuk placement may be defensible from sirah context, but as an attribution to these two commentators it does not match their fetched text.",
+        "severity": "moderate"
+      },
+      {
+        "quote": "Ibn Kathir and al-Tabari both preserve the Arab usage of such a number for emphatic abundance.",
+        "issue": "Breadth-of-attribution failure — the pass's signature defect. Ibn Kathir does carry it ('Arabs use this number when they exaggerate, not that they actually mean seventy'). Al-Tabari does NOT: his fetched 9:80 material contains no idiom-of-abundance gloss; instead he preserves the reports running the other direction — the Prophet saying 'la-azidanna 'ala sab'in' (I will exceed seventy), hoping for forgiveness, until 63:6 closed the door ('Urwah, Mujahid, Ibn 'Abbas, Qatadah). The one edition claimed but not actually carrying the point is exactly the unnamed-remainder risk.",
+        "severity": "moderate"
+      },
+      {
+        "quote": "classical tafsir is very clear that seventy here is not an invitation to arithmetic experimentation",
+        "issue": "False consensus over a recorded ikhtilaf. Al-Jalalayn explicitly presents BOTH classical views: 'qila al-murad bi'l-sab'in al-mubalagha fi kathrat al-istighfar ... wa-qila al-murad al-'adad al-makhsus' — citing the Bukhari hadith 'law a'lamu anni law zidtu 'ala al-sab'in ghufira la-zidtu' for the specific-number view. The file's spiritual conclusion (no loophole at 71) matches Ibn Kathir and the final ruling via 63:6, but 'very clear' erases a genuine two-view discussion, and the famous 'I will exceed seventy' report — which the reviewer brief specifically asked about — is omitted entirely.",
+        "severity": "moderate"
+      }
+    ],
+    "notes": "The strongest file of the four on substance. Verified GOOD: al-Tabari's al-mutawwi'in gloss ('what Allah had not made obligatory on their wealth' — matches 'bima lam yujibhu Allah 'alayhim fi amwalihim'), al-Tabari's juhd = taqah ('wa-dhalika taqatuhum', also al-Jalalayn), Form V/root taw' morphology (corpus: ACT_PCPL|VF:5|ROOT:طوع at 9:79:3:2), Ibn Kathir's seventy-as-exaggeration note, and all ten cross-referenced verses (49:11, 63:7, 63:5, 2:264, 2:261, 2:271, 64:16, 4:64, 39:53, 9:84) mechanically verified against the Uthmani text. Mockers kept anonymous and to their occasion; modern application targets cynicism as a habit, not identifiable people. Fixes: (1) soften or drop the Tabuk attribution (or re-source it to sirah, not 'reports gathered by Ibn Kathir and al-Tabari'); (2) correct 'Ibn Kathir and al-Tabari both' to Ibn Kathir alone, and add al-Tabari's actual contribution — the 'I will exceed seventy' reports and 63:6 as the definitive closure; (3) replace 'classical tafsir is very clear' with the real two-view picture al-Jalalayn records (idiom vs specific number), which makes the file's no-loophole conclusion stronger, not weaker."
+  }
+]

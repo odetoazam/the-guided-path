@@ -1,0 +1,57 @@
+[
+  {
+    "file": "006-al-anam/ayahs-055-058.md",
+    "verdict": "FLAG",
+    "section_verified": false,
+    "thesis": "Allah details His signs not merely to display truth but so the path of rebellion becomes recognizable, desire is refused as a source of religion, and judgment is surrendered to Allah alone.",
+    "thesis_grounding": "GROUNDED",
+    "claims_checked": 12,
+    "claims_failed": 3,
+    "flags": [
+      {
+        "quote": "All four read the referent narrowly, from the context: the mockers had demanded that the punishment be hastened, and the verse answers that the decision about *that* rests with Allah alone.",
+        "issue": "FALSE breadth-of-attribution. The prose names only three editions (Ibn Kathir, al-Muyassar, al-Tabari) while asserting 'all four'; the unnamed fourth is the one that disproves it. al-Jalalayn on 6:57 reads: ⑭إنْ⑮ ما ⑭الحُكم⑮ فِي ذَلِكَ وغَيْره ⑭إلّا لِلَّه⑮ — 'the ruling in that AND IN OTHER THAN IT belongs to none but Allah.' The words wa-ghayrihi explicitly EXTEND the referent past the hastened punishment, i.e. al-Jalalayn generalizes rather than reading narrowly. Verified in the fetched al-Jalalayn text after normalization (the ornate brackets U+FD3E/FD3F sit between al-hukm and fi, which defeats a naive substring search; the phrase is present once brackets are stripped). The other three are confirmed: Ibn Kathir = 'If He wills, He will punish you soon in response to your wish! If He wills, He will give you respite'; al-Muyassar = وما الحكم في تأخر ذلك إلا إلى الله تعالى (exact, as quoted); al-Tabari = ما الحكم فيما تستعجلون به ... إلا الله.",
+        "severity": "critical"
+      },
+      {
+        "quote": "Reading it as a general statement about authority is a much larger move than the ayah makes, and the commentators do not make it.",
+        "issue": "Directly contradicted by the same al-Jalalayn line. 'fi dhalika wa-ghayrihi' IS a move from the contextual referent to a general one, made by one of the four commentaries the section is summarizing. The sentence asserts unanimity in the opposite direction. Note also that al-Tabari, while primarily narrow, widens slightly in his own summary: ما الحكم فيما تستعجلون به ... من عذاب الله وفيما بيني وبينكم إلا الله ('and in what is between me and you'), so even his reading is not confined to the timing of the punishment alone.",
+        "severity": "critical"
+      },
+      {
+        "quote": "That is why the passage begins with *nufassilu al-ayat* and ends with *khayru al-fasilin*.",
+        "issue": "Minor structural imprecision. Corpus check: root فصل occurs at 6:55 (V, nufassilu) and 6:57 (N, al-fasilin) and nowhere else in 6:55-58. The passage as delimited by this file ends at 6:58 (wa-Allahu a'lamu bi'l-zalimin), so the fasl inclusio closes one ayah before the passage does. The observation is real; the word 'ends' overstates it.",
+        "severity": "minor"
+      }
+    ],
+    "notes": "The appended section 'What the commentators say this ruling is about' is NOT verified. Fix is narrow and surgical: al-Jalalayn must be removed from the 'all four' claim and reported as the dissenting edition. Suggested repair — change 'All four read the referent narrowly' to 'Three of the four read the referent narrowly' and add a sentence: 'Al-Jalalayn is the exception — he glosses the ruling as being Allah’s \"in that and in other than it\" (fi dhalika wa-ghayrihi), which does extend the sentence past the immediate demand.' The following sentence ('the commentators do not make it') must then be softened to 'most of the commentators do not make it' or dropped. Everything else in the section verifies: the al-Muyassar Arabic quote appears verbatim in the fetched text, Ibn Kathir does gloss it as punish-now vs. respite, and al-Tabari does read it as judgment over the thing they were impatient for. Adab holds — the tadabbur-vs-ruling line is present ('This is a tadabbur, not a ruling on any question of law or governance') and the section is otherwise appropriately cautious for a politically loaded phrase; the problem is factual accuracy, not adab. Main-body checks all pass: nuhitu is confirmed PASS (passive) in the corpus (6:56:3:1 features PERF|PASS), and al-Tabari's bayyinah gloss (bayan qad tabayyantuhu) supports the file's reading. All four editions fetched successfully for all four ayahs; no truncation artifacts. PROCESS WARNING for the human: running three cross_reference_tafsir.mjs fetches in parallel produced crossed output files (the al-Anam report came back containing 6:105-108 and the al-Araf report contained 7:26-27). Re-run sequentially and confirm the ayah headers before trusting any report."
+  },
+  {
+    "file": "007-al-araf/ayahs-028-030.md",
+    "verdict": "PASS",
+    "section_verified": true,
+    "thesis": "The deepest misguidance is not merely committing an indecency but inheriting it, attributing it to Allah, and still believing oneself guided while allied with devils.",
+    "thesis_grounding": "GROUNDED",
+    "claims_checked": 14,
+    "claims_failed": 0,
+    "flags": [],
+    "notes": "The appended section 'A disagreement the commentators name outright' is fully verified, edition by edition, against the fetched text. (1) al-Tabari does name the ikhtilaf outright: قال أبو جعفر: اختلف أهل التأويل في تأويل قوله: كما بدأكم تعودون. (2) FIRST school (كما بدأكم أشقياء وسعداء، كذلك تبعثون يوم القيامة) — ALL FIVE names verified present in al-Tabari's own isnads under this school: Ibn 'Abbas (athar 14478, 14479), Mujahid (14484, 14485, 14491, 14492 'shaqiyyan wa sa'idan'), Sa'id b. Jubayr (14486, 14487, 14490 'kama kutiba 'alaykum takunun'), Muhammad b. Ka'b (14483), as-Suddi (14488). (3) SECOND school (كما خلقكم ولم تكونوا شيئاً، تعودون بعد الفناء) — all three verified: al-Hasan (14494, 14495), Qatadah (14496), Ibn Zayd (14499). (4) 'Ibn Kathir notes the same division' verified INDEPENDENTLY in Ibn Kathir's own text, which opens 'There is some difference over the meaning of: kama bada'akum ta'udun' and then gives both readings. (5) 'al-Tabari does say the group upon whom misguidance was realised went astray by taking devils as allies' verified verbatim: وحقّ على فريق منهم الضلالة عن الهدى والرشاد، باتخاذهم الشيطان من دون الله وليّاً. Adab holds: the qadar disclaimer is present ('This is a tadabbur, not a statement of settled creed on qadar'). Two optional strengtheners for the human, neither a defect: (a) al-Tabari himself PREFERS the second school (وأولى الأقوال ... كما بدأكم الله خلقاً بعد أن لم تكونوا شيئاً), and Ibn Kathir reports that preference as Ibn Jarir's — which independently strengthens the file's statement that its own second-register reading is grounded; (b) Ibn 'Abbas and Mujahid are each reported by al-Tabari under BOTH schools (14497, 14498), and Ibn Kathir places Mujahid in the second school, so the file's five-name list is accurate as a report of al-Tabari's first school but the overlap could be worth a half-sentence. No truncation artifacts; all four editions fetched for all three ayahs."
+  },
+  {
+    "file": "013-ar-rad/ayahs-012-013.md",
+    "verdict": "FLAG",
+    "section_verified": true,
+    "thesis": "The storm is not spiritually empty scenery: lightning trains the heart to hold fear and hope together, thunder and angels are already glorifying Allah, and human disputation is exposed as dissonance beneath an already-worshipping sky.",
+    "thesis_grounding": "GROUNDED",
+    "claims_checked": 10,
+    "claims_failed": 1,
+    "flags": [
+      {
+        "quote": "he defers it back to where he treated the word earlier, which is where the disagreement is recorded",
+        "issue": "The deferral itself is VERIFIED verbatim (al-Tabari at 13:13: قال أبو جعفر: وقد بينا معنى الرعد فيما مضى، بما أغنى عن إعادته في هذا الموضع, with an editorial back-reference to Tabari 1:338-342). What is NOT verifiable from this fetch is the trailing clause asserting what al-Tabari records at that earlier locus — that content lies outside the fetched range. Corroborating but not conclusive: root رعد occurs exactly twice in the Quran (2:19 and 13:13, verified against scripts/.corpus-cache/quranic-corpus.json), so the earlier locus is necessarily 2:19, and Tabari's parallel sentence for al-barq two lines above DOES include the ikhtilaf wording (وذكرنا اختلاف أهل التأويل فيه) — but that wording is attached to al-barq, not to ar-ra'd, whose deferral sentence omits any mention of disagreement. Flagged as unverified attribution, not as false.",
+        "severity": "minor"
+      }
+    ],
+    "notes": "IMPORTANT — the designated high-risk absence claim CLEARS. al-Tabari's fetch did NOT fail and is NOT truncated: the 13:13 block runs ~230 lines and closes on a complete tarjih argument about the qira'ah of al-mihal (قال أبو جعفر: ولا أعلم أحداً قرأه بفتح الميم ... فالذي هو أولى بتأويل ذلك ما قلنا). Within that complete text al-Tabari genuinely does not identify ar-ra'd, so 'does not settle the identification at this verse at all' is verified against a complete fetch, not inferred from a gap. Only the trailing clause about the earlier locus is unverified; one look at Tabari 1:338-342 (i.e. at 2:19) clears it. Both al-Jalalayn claims verify verbatim after normalization: هُوَ مَلَك مُوَكَّل بِالسَّحابِ يَسُوقهُ (exactly as quoted, and stated flatly with no hedge, so 'without hedging' is accurate), and ⑭بِحَمْدِهِ⑮ أيْ يَقُول سُبْحان اللَّه وبِحَمْدِهِ, which confirms the bi-hamdihi claim. The section is also honest in the conservative direction and if anything understates its own support: Ibn Kathir on 13:13 does NOT read ar-ra'd as an angel — he glosses it by the parallel 17:44 (wa-in min shay'in illa yusabbihu bi-hamdihi) and the hadith about the cloud's voice being thunder — and al-Muyassar likewise treats it as a phenomenon whose tasbih shows submission (تسبيحاً يدل على خضوعه لربه). So the file's chosen reading is backed by two of the four, and the section makes no false claim about either. Main-body check: 'The classical explanations take this toward severe might, force, overpowering capacity' verifies (al-Tabari collects shadid al-akhdh, shadid al-quwwah, al-hilah; Ibn Kathir 'His punishment is severe'), and the file properly hedges that translations vary. No countable/absolute claims elsewhere in the file. Verdict is FLAG only for the one unverified clause — the human can clear it cheaply, and nothing in the section needs rewriting if Tabari 1:338-342 records the ikhtilaf as expected."
+  }
+]

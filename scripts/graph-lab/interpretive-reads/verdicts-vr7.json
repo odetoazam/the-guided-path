@@ -1,0 +1,63 @@
+[
+  {
+    "file": "040-ghafir/ayahs-069-072.md",
+    "verdict": "PASS",
+    "refix_verified": true,
+    "thesis": "The six verbs predicated of the disputers alternate active/passive (active, passive - active, active - passive, passive), showing a man who never stops acting yet is being steered all along by the kibr in his chest.",
+    "thesis_grounding": "REFLECTION-FLAGGED",
+    "claims_checked": 9,
+    "claims_failed": 0,
+    "flags": [],
+    "notes": "Re-fixed dragging-agent sentence verified against all four fetched editions individually: al-Tabari names the agent ('yusHab... zabaniyat al-'adhab'), al-Muyassar names it ('wa-tasHabuhum zabaniyat al-'adhab'), Ibn Kathir's edition names 'the keepers of Hell will drag them along on their faces' (same referent; file glosses zabaniya as 'the angels set over the punishment' - fine). al-Jalalayn names NO agent: his entire gloss is 'yusHabuna: ay yujarruna biha' - exact match to the file's quote, dragged by the chains themselves. The surrounding sentences also verify: al-Muyassar puts the chains at the feet ('wa-l-salasil fi arjulihim'), al-Jalalayn offers feet as one option among several with the first option coordinating chains to the necks, and al-Tabari rules the raf' reading correct 'li-ijma' al-hujja' - all present in the fetched texts. Corpus checks: root jdl appears in surah 40 at exactly 4, 5, 35, 56, 69 (five times; next-highest surah has 3, so 'no other surah circles him like this' holds); 7:43 and 15:47 both open with the identical wa-naza'na clause and diverge as described. yuSrafun 'an al-iman (Jalalayn) and al-bayan al-tam / wadihat al-dalala (al-Muyassar) both verified verbatim."
+  },
+  {
+    "file": "017-al-isra/ayahs-026-030.md",
+    "verdict": "PASS",
+    "refix_verified": true,
+    "thesis": "Tabdhir is defined by the reports primarily by the destination of the spending (on what Allah is not owed) rather than its quantity, while al-Muyassar keeps the quantity sense in view.",
+    "thesis_grounding": "GROUNDED",
+    "claims_checked": 8,
+    "claims_failed": 0,
+    "flags": [],
+    "notes": "Re-fixed paragraph verified. The al-Muyassar quote is exact: 'wa-la tunfiq malaka fi ghayri ta'ati Llah, aw 'ala wajhi al-israf wa-l-tabdhir' - the file's rendering 'in other than obedience to Allah, or by way of israf and tabdhir' matches, and crediting it as keeping the quantity sense in view is fair (israf/tabdhir named as a distinct second limb). All four now fairly represented: Tabari (Ibn Mas'ud, Ibn Abbas x2 verbatim 'al-munfiq fi ghayri haqqih', Qatadah 'al-nafaqa fi ma'siyat Allah', Ibn Zayd 'la tu'ti fi ma'asi Llah', Mujahid's mudd saying), Ibn Kathir (same authorities incl. Mujahid), al-Jalalayn ('bi-l-infaqi fi ghayri ta'ati Llah' - exact). Minor pre-existing observation, not part of this re-fix and not flag-worthy: 'from Ibn Mas'ud through six separate chains, in the same words each time' - the fetched Tabari actually carries at least seven Ibn Mas'ud chains and the wordings vary trivially (al-infaq fi ghayri haqq / infaq al-mal fi ghayri haqqih / al-nafaqa fi ghayri haqqih); substance identical, count errs conservative. Ikhtilaf section (dha al-qurba two readings, ibn al-sabil three-days report, 'wa-awla al-ta'wilayni 'indi bi-l-sawab') all verified in fetched Tabari; tadabbur-not-fatwa clause intact."
+  },
+  {
+    "file": "031-luqman/ayahs-014-015.md",
+    "verdict": "FLAG",
+    "refix_verified": false,
+    "thesis": "The debt to parents is grounded in the mother's bodily wahn and survives even parental pressure toward shirk, where ayah 15 commands simultaneous disobedience-in-the-matter and continued companionship.",
+    "thesis_grounding": "GROUNDED",
+    "claims_checked": 12,
+    "claims_failed": 1,
+    "flags": [
+      {
+        "quote": "The tamkīn repetition with the preposition *ʿalā* — \"upon\" — turns the phrase into a vertical stack.",
+        "issue": "Re-fix (c) is incomplete. The first mention in this paragraph was corrected to takrar ('the word is repeated and built on top of itself — *takrār*, plain repetition put to work') and the frontmatter tag is now takrar-repetition, but a second instance of the wrong balaghah term survives five sentences later in the same paragraph. Tamkin is a different device (verse-ending aptness), not repetition; takrar is the right term for wahnan 'ala wahn. One-word residual of exactly the defect the re-fix was meant to remove.",
+        "severity": "moderate"
+      }
+    ],
+    "notes": "Fix is surgical: in the wahnan-'ala-wahn paragraph, change 'The tamkīn repetition' to 'The takrār' (or simply 'The repetition'). Everything else verified. (a) Jahima narration paragraph internally sound: al-Nasa'i (Kitab al-Jihad) correctly carries 'fa'lzamha fa-inna'l-jannata tahta rijlayha' and Ibn Majah 'ilzam rijlaha fa-thamma'l-janna' per the standard collections (not in the four fetched editions - internal check only, as briefed); framing honestly says wordings differ by collection; the popular 'beneath the feet of mothers' wording is correctly bracketed as graded weak and nothing is built on it; 'sound narration' for the Jahima report is within standard grading and not overclaimed. The prior defect (Ibn Majah's wording under al-Nasa'i's name) is gone. (b) Testament sweep clean: every surviving 'will/bequest/testament' (lines ~81-87) sits inside the explicit Form IV register discussion or in denials ('not the deathbed-will form', 'Not one of them reaches for a will or a bequest'); no testament-color is applied to 31:14 itself. All four editions gloss wassayna as amarna/enjoin - verified verbatim: Tabari 'wa-amarna l-insana bi-birri walidayhi' + 'du'fan 'ala du'f wa-shiddatan 'ala shidda' + the Zuhayr rope verse; al-Muyassar 'wa-amarna... wa-l-ihsani ilayhima' and the thumma insertion ('ishkur lillah, thumma ishkur li-walidayk') exactly as claimed; al-Jalalayn 'amarnahu an yabarrahuma'; Ibn Kathir 'enjoined', six-month minimum pregnancy from Ibn Abbas via 46:15, and the Sa'd ibn Abi Waqqas asbab (also in Tabari). Muyassar's 'la ta'ata li-makhluqin fi ma'siyati l-khaliq' verified verbatim."
+  },
+  {
+    "file": "012-yusuf/ayahs-023-029.md",
+    "verdict": "PASS",
+    "refix_verified": true,
+    "thesis": "Yusuf's rescue in the locked room came from Allah's burhan intervening from outside him, not from his own willpower - the point all the readings and both qira'at share.",
+    "thesis_grounding": "GROUNDED",
+    "claims_checked": 8,
+    "claims_failed": 0,
+    "flags": [],
+    "notes": "Both re-fixes verified against the fetched texts. (a) 'the form of al-malik - the king, or the angel, as Ibn Kathir's edition renders it': Tabari has the report class 'bal ra'a timthal al-malik', the Ibn Abbas report 'uriya timthala l-malik', and his ruling 'wa-ja'iz an takuna suratu l-malik'; the fetched Ibn Kathir English renders that option 'the image of an angel' - so the file's the-king-or-the-angel gloss with the attribution to Ibn Kathir's edition is exactly right (unvocalised al-ml-k is ambiguous). (b) mukhlasin section: heading is now 'Al-Mukhlasin - One Vowel, and What the Reciters Did With It' (old drama heading gone). Tabari quote exact: 'innahuma qira'atani ma'rufatani qad qara'a bihima jama'atun kathiratun mina l-qara'a, wa-huma muttafiqata l-ma'na... fa-bi-ayyatihima qara'a l-qari'u fa-huwa li-l-sawabi musib' - matches 'two well-known readings recited by large numbers... agreed in meaning... whichever a reciter reads, he has hit what is correct'. al-Jalalayn's base text indeed prints al-mukhlisin glossed 'fi l-ta'a' with 'wa-fi qira'atin bi-fathi l-lam ay al-mukhtarin' - both quotes exact. 'More widely transmitted is mukhlasin' matches Tabari's Madinah+Kufa-generality vs some-Basra attribution. The section now explicitly refuses to build theology on the vowel and lands on what the readings share. Minor residual stylistic tension only: the section still opens 'one of the most theologically significant words in the surah, and it turns on a single vowel' before immediately walking it back - defensible as setup, not an overclaim. The hamm ikhtilaf paragraph also re-verified: Tabari's mutual-hamm ruling, Jalalayn's 'wa-jawabu lawla la-jama'aha', Ibn Kathir's Baghawi thought-crossing + Two-Sahihs hadith + about-to-strike report, and al-Muyassar's khatarat distinction all present verbatim; 'ismah deferral clause intact."
+  },
+  {
+    "file": "017-al-isra/ayahs-001-008.md",
+    "verdict": "PASS",
+    "refix_verified": true,
+    "thesis": "The two-visitations passage states a moral law - corruption and arrogance summon consequence - while deliberately leaving the visitations' identifications unsettled, a blank the reader must not fill with headlines.",
+    "thesis_grounding": "GROUNDED",
+    "claims_checked": 5,
+    "claims_failed": 0,
+    "flags": [],
+    "notes": "Re-fixed sentence is now literally accurate against the Uthmani text: Bani Isra'il named at 17:2 (hudan li-bani isra'il) and 17:4 (wa-qadayna ila bani isra'il), Musa at 17:2 (wa-atayna musa l-kitab), Nuh at 17:3 (man hamalna ma'a nuh). For the two visitations themselves (17:5, 17:7) the text supplies only ''ibadan lana uli ba'sin shadid' - no invader named, no century, no people alive today, exactly as the sentence claims. The protective clause is intact and immediately follows: reaching for a headline to fill in 17:5/17:7 is what Ibn Kathir declined to do; 'This is a tadabbur, not a ruling on history and not a judgment on any community. For anything beyond that, ask a qualified scholar.' The prior overclaim ('This passage names no nation') is gone. No other absolute claims near the edit; whole-file sanity scan found nothing new."
+  }
+]

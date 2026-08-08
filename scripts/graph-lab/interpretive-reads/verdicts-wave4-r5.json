@@ -1,0 +1,63 @@
+[
+  {
+    "file": "012-yusuf/ayahs-004-006.md",
+    "verdict": "FLAG",
+    "thesis": "Yusuf opens with a child receiving a luminous dream and a father who teaches that some divine gifts must first be guarded in silence before they can ripen into their promised completion.",
+    "thesis_grounding": "GROUNDED",
+    "claims_checked": 11,
+    "claims_failed": 1,
+    "flags": [
+      {
+        "quote": "### 1. **Ya abati / ya bunayya**: The Story Opens in Tender Diminutives, Not Grand Titles",
+        "issue": "Morphology error of the same class already found in the sibling file 012-yusuf/ayahs-023-029. Only one of the two forms is a diminutive. Corpus 12:5:2:2 gives بُنَىَّ as ROOT:بني|LEM:بُنَىّ (tasghir of ibn) — correct. But corpus 12:4:5:2 gives أَبَتِ as ROOT:أبو|LEM:أَب|MS|NOM with no diminutive marking, and al-Jalalayn on 12:4 explains the form explicitly and non-diminutively: 'يا أبتِ بالكسر دلالة على ياء الإضافة المحذوفة والفتح دلالة على ألف محذوفة قلبت عن الياء' — the ta' stands in for the elided possessive ya', it is not tasghir. Calling both forms 'diminutives' is false for ya abati. No edition calls it a diminutive.",
+        "severity": "minor"
+      }
+    ],
+    "notes": "Everything else verifies. Root-repetition claim on فَيَكِيدُوا لَكَ كَيْدًا confirmed mechanically (12:5:8 V ROOT:كيد + 12:5:10 N ROOT:كيد, maf'ul mutlaq). The sole tafsir attribution — 'The tafsir links this to dream interpretation and the unfolding meanings of events' — is carried by ALL FOUR editions individually (Ibn Kathir via Mujahid; al-Tabari via Mujahid/Ibn Zayd, 'عبارة الرؤيا'; al-Muyassar 'تفسير ما يراه الناس في منامهم'; al-Jalalayn 'تعبير الرؤيا'), so no breadth-of-attribution defect. No isra'iliyyat: the file deliberately does NOT import the identification of the eleven stars as the brothers and sun/moon as the parents, even though Ibn Kathir and al-Jalalayn both supply it — cautious, not a defect. No named characters, no doctrine asserted about dream interpretation. FIX: reword the section heading so only ya bunayya is called a diminutive (e.g. 'a diminutive and an affectionate vocative'), or drop the morphological label and keep the tenderness point, which the editions do support.",
+    "_fetch_status": "all four editions returned for 12:4, 12:5, 12:6 — no failures"
+  },
+  {
+    "file": "012-yusuf/ayahs-011-017.md",
+    "verdict": "PASS",
+    "thesis": "The brothers' betrayal is conducted entirely in the vocabulary of trust, sincerity, protection and tears, while the only real security in the scene is the revelation Allah sends into the hidden depth of the well before any rescue arrives.",
+    "thesis_grounding": "GROUNDED",
+    "claims_checked": 9,
+    "claims_failed": 0,
+    "flags": [],
+    "notes": "Clean on every risk named for this passage. (1) The load-bearing linguistic claim — that the passage opens and closes on one trust-family — verifies mechanically: 12:11:6 تَأْمَنَّ V ROOT:أمن and 12:17:14 مُؤْمِنٍ ACT_PCPL ROOT:أمن. (2) 'the same self-confidence we already heard in the previous passage: we are an usbah' verifies: عُصْبَةٌ ROOT:عصب appears at both 12:8:10 and 12:14:6. (3) غَيَٰبَتِ at 12:15:8 is ROOT:غيب — the 'hidden/unseen' gloss is correct. (4) The wahy claim is grounded and not overstated: al-Jalalayn says it outright ('وأوحينا إليه في الجب وحي حقيقة'), al-Tabari reports Mujahid and Qatadah on it, Ibn Kathir treats it as Allah comforting him in the well, al-Muyassar likewise. (5) NO imported detail: the file names no brother, though al-Tabari and al-Jalalayn both name Yahudha as the one who stopped the killing and Ibn Kathir names Rubil as the instigator of the plan; the file also carries none of al-Tabari's beating/rope/stone narrative, and gives the wolf no speech. (6) It does not adjudicate the brothers' prophethood — the status question is simply not raised. (7) 'at night, weeping ... The performance is emotionally prepared' is grounded, not invented: Ibn Kathir 'during the darkness of the night, crying and showing sorrow', al-Muyassar 'يبكون ويظهرون الأسف والجزع'. No breadth-of-attribution claims anywhere in the file (it never says 'all four', 'the commentators', or names an edition). No truncation artifacts.",
+    "_fetch_status": "all four editions returned for 12:11-12:17 — no failures"
+  },
+  {
+    "file": "012-yusuf/ayahs-019-022.md",
+    "verdict": "FLAG",
+    "thesis": "People handle Yusuf by market logic — merchandise, a cheap counted price, possible household usefulness — while Allah names the very same scene as establishment in the land, teaching in ta'wil, and the eventual gift of judgment and knowledge.",
+    "thesis_grounding": "GROUNDED",
+    "claims_checked": 12,
+    "claims_failed": 2,
+    "flags": [
+      {
+        "quote": "Yusuf has already been thrown away by brothers who could not bear his belovedness. Now the world that finds him does not recognize him either. He is concealed as merchandise. He is sold for a cheap sum. He is treated as something that may be useful.",
+        "issue": "Mis-assigns the cheap sale — and with it the زاهدين — to the caravan that finds Yusuf, against ALL FOUR editions checked individually. On وَشَرَوْهُ (12:20:1, PERF 3MP, subject unstated in the text) the editions are unanimous that the sellers are the BROTHERS: al-Tabari adjudicates explicitly, 'وأولى القولين في ذلك بالصواب، قول من قال: تأويل ذلك: وشَرى إخوةُ يوسف يوسف بثمن بخس', and he names and REJECTS the caravan reading (Qatadah's) — arguing it is muhal ('محال') that a buyer should be zahid in what he has just paid for; Ibn Kathir, 'Therefore, Yusuf's own brothers sold him'; al-Muyassar, 'وباعه إخوته للواردين من المسافرين بثمن قليل'; al-Jalalayn glosses the very pronoun the file relocates — 'وكانوا أي إخوته من الزاهدين'. The file's contrast structure ('brothers ... Now the world that finds him') hands the sale and the contempt to the traders instead.",
+        "severity": "moderate"
+      },
+      {
+        "quote": "The travelers find Yusuf and then the ayah says he was concealed as **bida'ah** - merchandise, trade goods, something to be moved through exchange.",
+        "issue": "States one side of a live 2-2 ikhtilaf as settled fact, unflagged. On وَأَسَرُّوهُ (12:19:11, PERF 3MP, subject again unstated) al-Tabari opens 'فإن أهل التأويل اختلفوا في تأويله' and gives four positions before siding with the caravan ('وأولى هذه الأقوال بالصواب: قولُ من قال: وأسرَّ وارد القوم المدلي دلوَه ومن معه'), and al-Muyassar agrees ('وأخفى الواردُ وأصحابه يوسفَ عن بقية المسافرين'). But Ibn Kathir carries the opposite from Ibn 'Abbas via al-'Awfi — 'is in reference to Yusuf's brothers, who hid the news that he was their brother' — and al-Jalalayn reads it the same way, 'فعلم به إخوته فأتوه، وأسروه أي أخفوا أمره'. The file's reading is defensible but is not the only one, and the disagreement is exactly what an ikhtilaf note exists to report.",
+        "severity": "moderate"
+      }
+    ],
+    "notes": "PRIMARY FIX: re-assign the sale and the زاهدين in the Introduction and in section 2 ('A Reduced Price, Counted Coins, and Hearts Already Detached') to Yusuf's brothers, which is what all four editions read and what al-Tabari explicitly adjudicates. The section's own thematic payload ('misvaluation is not always accidental ... hearts become too shallow to recognize worth even when they are holding it') survives the correction intact and is in fact sharper against the brothers — but as written it teaches the opposite agent from the tafsir. SECOND FIX: mark أسروه as contested (al-Tabari + al-Muyassar = the water-drawer and his companions; Ibn Kathir via Ibn 'Abbas + al-Jalalayn = the brothers) rather than asserting the travelers. CLEARED, do not re-flag: (a) the ownership trap from the sibling file is NOT present — the file correctly makes the Egyptian purchaser the master ('The Egyptian buyer says to his wife: make his dwelling honorable'), matching 12:21 and all four editions; (b) the price-count trap is NOT present — the file fixes no number ('a small sum that can be counted out by hand'), whereas al-Jalalayn commits to 'عشرين أو اثنين وعشرين'; the 'counted = small' gloss is itself grounded in al-Muyassar 'بثمن قليل من الدراهم' and al-Tabari's 'بخس ... نَقْص'; (c) no age claim on أَشُدَّهُ; (d) tamkin verified — 12:21:16 مَكَّنَّا VF:2 ROOT:مكن; (e) no breadth-of-attribution claims and no named edition anywhere in the file.",
+    "_fetch_status": "all four editions returned for 12:19-12:22 — no failures"
+  },
+  {
+    "file": "012-yusuf/ayahs-030-035.md",
+    "verdict": "PASS",
+    "thesis": "Once the trial becomes public, safety comes not from social intelligence but from preferring prison to sin and from asking Allah to turn the plot away before the heart turns toward it — and even then the innocent may still be imprisoned after the evidence is clear.",
+    "thesis_grounding": "GROUNDED",
+    "claims_checked": 12,
+    "claims_failed": 0,
+    "flags": [],
+    "notes": "The high isra'iliyyat risk flagged for this passage does not materialize. The file names NO ONE — the wife of al-'Aziz is never called Zulaykha, the women are unnamed, and none of the elaborate banquet detail the editions carry (the citron, the repeated entrances, her taunt to the women — Ibn Kathir gives all of it) is imported. Every retained detail (the invitation, the reclining place, a knife for each woman, 'come out before them') is in the ayah itself. Morphology all verified against the corpus and none of it is misstated: أَكْبَرْنَهُ 12:31:19 PERF VF:4 ROOT:كبر, matching al-Jalalayn 'أعظمنه'; ٱسْتَعْعصَمَ 12:32:10 PERF VF:10 ROOT:عصم, so the file's 'he sought to hold himself firm ... actively clinging' correctly reads the Form X seeking-sense, and al-Jalalayn glosses it 'امتنع'. Note the file makes NO verb-form claim about وَقَطَّعْنَ (12:31:20, genuinely VF:2) — it does not repeat the false-form defect found at 12:25. The makr reading ('Their words are not presented as neutral analysis') is grounded in every edition individually: al-Tabari via Ibn Ishaq ('مكرًا بها لتريهن يوسف') and Qatadah/al-Suddi, Ibn Kathir quoting the same Ibn Ishaq report, al-Muyassar 'بغِيبتهن إياها واحتيالهن في ذمِّها', al-Jalalayn 'غيبتهن لها'. 'the same pressure on Yusuf' is grounded in the Qur'an's own plurals at 12:33 (يَدْعُونَنِي, كَيْدَهُنَّ) and in al-Jalalayn 'فقلن له أطع مولاتك'. The 12:35 reading ('the problem is no longer lack of evidence ... the goal is to contain the fallout') matches al-Jalalayn ('الدالات على براءة يوسف ... حتى حين ينقطع فيه كلام الناس') and al-Muyassar ('الأدلة على براءة يوسف وعفته ... منعًا للفضيحة') almost exactly. 'ISMAH: handled within warrant — the file stays with the ayah's own words (Yusuf fears he 'may incline' if protection is withdrawn) and never asserts an inner state beyond the text; Ibn Kathir's framing, 'Yusuf was immune from error by Allah's will, and He saved him', is compatible with and supports the file's 'steadfastness is not self-generated'. No breadth-of-attribution claims, no named edition, no truncation artifacts.",
+    "_fetch_status": "all four editions returned for 12:30-12:35 — no failures"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "file": "007-al-araf/ayahs-080-084.md",
+    "verdict": "PASS",
+    "thesis": "The people of Lut, unable to answer Lut's moral indictment of their fahishah, recast the believers' abstention from the act (yatatahharun) as the offense justifying their expulsion.",
+    "thesis_grounding": "GROUNDED",
+    "claims_checked": 17,
+    "claims_failed": 0,
+    "flags": [],
+    "notes": "All four claimed repairs verified against the fetch. (a) israf glosses exact: al-Jalalayn 'mutajawizuna al-halala ila al-haram' verbatim; al-Muyassar 'متجاوزون لحدود الله'; al-Tabari 'إنكم لقوم تأتون ما حرم الله عليكم وتعصونه بفعلكم هذا' verbatim. (b) Qatadah 'عابوهم بغير عيب وذموهم بغير ذم' is verbatim in al-Tabari (report from Sa'id 'an Qatadah) AND Ibn Kathir's English carries the same comment ('They shamed them with what is not a shame at all') — the both-editions claim holds; note the English Ibn Kathir renders only the first clause, the two-clause Arabic wording is al-Tabari's. (c) Tadabbur-vs-fatwa scope line present in closing: states no ruling, does NOT cite the punishment hadith (which Ibn Kathir's entry for 7:84 does contain — the file correctly leaves it out), names no modern group. (d) yatatahharun narrowed correctly: al-Tabari 'يتنزهون عما نفعله نحن من إتيان الرجال في الأدبار' plus Mujahid (multiple routes), Ibn 'Abbas (via Mujahid), al-Suddi 'يتحرجون' (yataharrajun) all present; al-Muyassar and al-Jalalayn both gloss narrowly as claimed. Critical checks: no modern group, movement, or identity named or alluded to anywhere including frontmatter; no legal ruling or punishment stated or implied (only the narrative rain); Theme 1 title and closing are narrative-scoped ('In Lut's Town...') and the closing generalization is explicitly reflection-marked ('This reflection will not claim to know more than the ayah reports'). Mechanical: Form V (VF:5) for 8:82 yatatahharun confirmed in corpus; matar verb+noun repetition confirmed; fa-unzur singular imperative correct; akhrijuhum-plural discussion matches al-Tabari's two options and al-Jalalayn 'لوطا وأتباعه'. verify_arabic 5/5, verify_morphology 35/35.",
+    "repair_verified": true
+  },
+  {
+    "file": "008-al-anfal/ayahs-038-040.md",
+    "verdict": "FLAG",
+    "thesis": "8:38-40 pairs an open door of forgiveness for those who desist with a fight-command whose terminus (la takuna fitnah) the commentators read two ways — persecution (minority, attributed) vs shirk (majority, attributed) — reported side by side without adjudication.",
+    "thesis_grounding": "GROUNDED",
+    "claims_checked": 22,
+    "claims_failed": 1,
+    "flags": [
+      {
+        "quote": "So of the four commentaries consulted for this reflection, every one carries the shirk reading, and only Ibn Kathir also carries the persecution reading.",
+        "issue": "The first half verifies (shirk gloss confirmed in all four: Ibn Kathir via Ibn 'Abbas et al., al-Tabari's own tarjih, al-Muyassar 'شرك وصد عن سبيل الله', al-Jalalayn 'شرك'). The second half is contradicted by the file's own preceding paragraph and by the fetch: al-Tabari ALSO carries the persecution reading — Ibn Jurayj (report 16081: 'لا يفتن مؤمن عن دينه، ويكون التوحيد لله خالصا') and the 'Urwah letter placed under this verse. Defensible only if 'the persecution reading' is read narrowly as the standalone Zuhri/'Urwah gloss; as written, the summary sentence undercounts what the file itself just reported two paragraphs earlier. Suggested one-clause fix: 'only Ibn Kathir carries it as a standalone gloss of fitnah; al-Tabari carries it joined to the shirk reading (Ibn Jurayj) and in 'Urwah's letter.'",
+        "severity": "minor"
+      }
+    ],
+    "notes": "Every claimed repair verified individually. (a) Minority reading: Zuhri + 'Urwah b. al-Zubayr via Muhammad b. Ishaq in Ibn Kathir, quote 'until no Muslim is persecuted so that he abandons his religion' — verbatim in fetch. Majority: al-Tabari's tarjih 'فقاتلوهم حتى لا يكون شرك ولا يعبد إلا الله وحده... فيرتفع البلاء عن عباد الله... وهو الفتنة' verbatim; his stack Ibn 'Abbas (16076), al-Hasan (16077), Qatadah (16078), al-Suddi (16079) all present; Ibn Kathir's added names Abu al-'Aliyah, Mujahid, al-Rabi' b. Anas, Muqatil b. Hayyan, Zayd b. Aslam all present in the fetched IK list. Ibn Jurayj joined gloss, al-Hasan bala' (16080), and the 'Urwah letter (16083, ending 'وهي التي أنزل الله فيها') all verified. (b) Both Ibn 'Umar quotes verbatim from Ibn Kathir; 'All these narrations were collected by Al-Bukhari' supports the both-Bukhari claim; use is framed honestly ('the strongest thing in this reflection's own favour'), not as settling the verse. (c) Ikhtilaf section and tadabbur-vs-fatwa line both present; the file discloses it 'works with' the minority reading, labels it minority, and reports al-Tabari's contrary tarjih on intahaw ('even if the idolaters ceased fighting, fighting remained obligatory... until they entered Islam' — matches الطبري: 'كان فرضا على المؤمنين قتالهم حتى يسلموا') explicitly 'reported, not endorsed and not refuted'. (d) Frontmatter passage_context now says 'a terminus the classical commentators read in more than one way' — no longer asserts the minority reading. (e) 8:38's desist clause keeps full weight (Introduction, section 1, Theme 1); verify_arabic 3/3, verify_morphology 22/22, Form III qatilu confirmed in corpus. The single flag is the residual summary sentence above — one clause to fix, everything else holds.",
+    "repair_verified": true
+  },
+  {
+    "file": "008-al-anfal/ayahs-065-066.md",
+    "verdict": "FLAG",
+    "thesis": "Allah abrogated the one-against-ten ratio down to one-against-two because He knew the believers' weakness — reducing the required sabr with it — while sabr remains the named quality of the victors on both sides of the lightening and victory remains bi-idhni Allah.",
+    "thesis_grounding": "GROUNDED",
+    "claims_checked": 23,
+    "claims_failed": 1,
+    "flags": [
+      {
+        "quote": "Al-Tabari records 'Ata', 'Ikrimah, Mujahid and al-Dahhak all saying that under the first ratio a Muslim was not permitted to flee from ten, and under the second he is not permitted to flee from two.",
+        "issue": "Three of the four verify for BOTH halves: 'Ata' (16269: 'كان الواحد لعشرة ثم جعل الواحد باثنين لا ينبغي له أن يفر منهما'), 'Ikrimah (16275), Mujahid (16276/16282). But al-Dahhak's fetched report (16283) covers only the FIRST ratio: 'كان هذا واجبا أن لا يفر واحد من عشرة' — nothing from al-Dahhak on the second ratio's not-fleeing-from-two. The compound 'all saying ... and under the second ...' attributes the second half to al-Dahhak without support in the fetch. Classic breadth-of-attribution overreach inside the repaired ikhtilaf section. Fix: either drop al-Dahhak from the second half or split the sentence ('al-Dahhak adds that the first was obligatory').",
+        "severity": "minor"
+      }
+    ],
+    "notes": "The core repair — reversing the file's prior false claim that required sabr was NOT reduced — is thorough and grounded; I searched every section for a residual assertion of the old thesis and found none. Title, introduction, hook, section 4, and the Theme 2 heading ('The Demand Came Down; the Word for Who Wins Did Not') all now state the endurance demand came down; remaining 'sabr remains' language is consistently about the vocabulary/quality, immediately qualified. (a) Naskh attributions all verify: Ibn Kathir 'Allah abrogated this part later on, but the good news remained' verbatim; al-Tabari's own-voice nasikh ruling with the takhfif-implies-prior-weight argument verbatim; Ibn 'Abbas via Ibn Ishaq (16271 'فنسخها بالآية الأخرى'), Ibn 'Abbas via 'Ali (16272 'فنسخ الأمر الأول'), 'Ikrimah+al-Hasan together (16274 'ثم نسخ'), al-Suddi (16281 'فنسخها الله عنهم'); al-Jalalayn 'ثم نسخ لما كثروا' in a single clause on v.65; al-Muyassar indeed never uses the word — the 'three of these four' count is exactly right. (b) The Ibn 'Abbas/'Ikrimah/Ibn al-Mubarak quote ('made the required patience less, compatible to the decrease in numbers') is verbatim Ibn Kathir, who notes 'Al-Bukhari recorded a similar narration from Ibn Al-Mubarak'; al-Tabari 16280 has the same via 'Ikrimah ('ونقصوا من الصبر بقدر ذلك'). (c) The two-direction Ibn Ishaq/Ibn 'Abbas rule (half = may not withdraw; fewer = not obligated, 'allowed to avoid hostilities') is verbatim in Ibn Kathir and present in al-Tabari 16271 — both editions as claimed; the binding-vs-exhortation ikhtilaf (Tabari/Jalalayn/al-Dahhak vs Ibn 'Abbas 16273 'لم يكن أمرا عزمه الله عليهم... ولكن كان تحريضا ووصية', including its turn against excuse-makers) verifies; the few-vs-many occasion (16277 + lamma kathuru) verifies; tadabbur-vs-fatwa line present. (d) Sabr-root confirmed mechanically in both verses (8:65 sabirun; 8:66 sabirah + al-sabirin); the la-yafqahun treatment is compatible with al-Tabari (they fight without ihtisab so they do not stand firm), and the closing ihtisab gloss matches al-Tabari verbatim. verify_arabic 2/2, verify_morphology 27/27. Only the al-Dahhak compound attribution above needs a touch.",
+    "repair_verified": true
+  }
+]

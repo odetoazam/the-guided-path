@@ -1,0 +1,85 @@
+[
+  {
+    "file": "008-al-anfal/ayahs-017-019.md",
+    "verdict": "PASS",
+    "thesis": "Human action at Badr was real but never sovereign: the believers fought and the Prophet threw, yet the decisive agency and effect belonged to Allah, and the victory itself was a good testing for the believers.",
+    "thesis_grounding": "GROUNDED",
+    "claims_checked": 7,
+    "claims_failed": 0,
+    "flags": [],
+    "notes": "All four editions fetched successfully. Thesis is squarely carried: Ibn Kathir opens the passage with 'Allah states that He creates the actions that the servants perform,' and al-Tabari deploys 8:17 in exactly this kasb argument (the throw is the Prophet's hadhf wa-irsal, the delivery is Allah's tasbib) — the file's 'correction of authorship' framing does not exceed the editions, and it explicitly affirms human agency ('not a cancellation of effort'), so it is not occasionalism. The throwing IS anchored to Badr (passage_context: 'the Prophet cast'; intro and closing name Badr), though the file never narrates the handful-of-pebbles occasion that all four editions carry (Jalalayn: bi'l-hasa; Tabari's chains; Ibn Kathir's shahat al-wujuh report) — a human reviewer could add one sentence, but its absence does not distort the reading. balaʾan hasanan as 'good testing' matches Ibn Kathir's translation and ʿUrwah's gratitude gloss; note al-Jalalayn dissents (ʿataʾ = the ghanimah), unmentioned but not misattributed since the file names no commentators. 8:19 addressee = the disbelievers matches all four (Muyassar and Jalalayn both: ayyuha'l-kuffar; Abu Jahl's istiftah in Ibn Kathir/Tabari/Jalalayn), and the file's hedge 'whether this refers to their call for final clarification or their demand for Allah's verdict' tracks the recorded variants (Abu Jahl's duʿaʾ vs the Kaʿbah-curtains plea). No countable claims, no tafsir attributions, no ahkam content, no truncation artifacts."
+  },
+  {
+    "file": "008-al-anfal/ayahs-055-058.md",
+    "verdict": "FLAG",
+    "thesis": "The Quran answers repeated treaty-betrayal neither with naivety nor with counter-treachery but with open, equal, disciplined justice: deter in war, and renounce a feared treaty publicly (ʿala sawaʾ) rather than strike from inside it.",
+    "thesis_grounding": "GROUNDED",
+    "claims_checked": 8,
+    "claims_failed": 0,
+    "flags": [
+      {
+        "quote": "You may recognize the pattern. You may prepare. You may deter. You may openly dissolve a treaty whose betrayal you now credibly fear. What you may not do is remain inside outward covenant while secretly practicing betrayal.",
+        "issue": "8:57-58 are war-law ahkam addressed to the Prophet, and al-Tabari explicitly assigns the nabdh ruling to state authority: 'fa-haqqun ʿala imam al-muslimin an yanbidha ilayhim ʿala sawaʾ' — it is the imam of the Muslims who renounces a treaty when signs of treachery appear. The file renders both commands as second-person guidance for any individual believer with no tadabbur-vs-fatwa line and no note that treaty-war rulings sit with legitimate authority. This is the exact uniform gap already found in the surah's other ahkam files.",
+        "severity": "critical"
+      },
+      {
+        "quote": "calling such people the worst of living creatures in Allah's sight",
+        "issue": "No historical scoping anywhere in the file. All four editions tie 8:55-56 to specific treaty-breakers of Madinah: al-Jalalayn opens 'wa-nazala fi Qurayzah'; al-Tabari 'ka-Qurayzah wa-nuzaraʾihim' plus Mujahid's report (Qurayzah aided the enemy at Khandaq); al-Muyassar restricts to 'al-Yahud alladhina dakhalu maʿaka fi'l-muʿahadat.' The file's behavior-based restriction (repeat covenant-breakers without taqwa) is protective and matches the verses' own qualifiers, but for the single most adversarially-quoted phrase in this group the classical occasion is the strongest available scoping and it is absent. One sentence naming the Qurayzah/treaty-breaker occasion per the editions would close it.",
+        "severity": "moderate"
+      },
+      {
+        "quote": "Those who disbelieve, and therefore they do not truly believe. The point is not mere verbal unbelief.",
+        "issue": "The editions read fa-hum la yuʾminun as persistence in disbelief — al-Muyassar: 'al-kuffar al-musirrun ʿala'l-kufr... la yusaddiqun rusul Allah'; al-Tabari: they do not assent to His revelation. The file's 'do not TRULY believe' softening (also in the frontmatter translation) is the file's own gloss presented as the meaning. Minor wording fix.",
+        "severity": "minor"
+      }
+    ],
+    "notes": "The core ethical thesis is well grounded: Ibn Kathir carries the ʿala sawaʾ hadith ('he should declare the treaty null and void so that they are both on equal terms') and states the prohibition of treachery 'even includes treachery against the disbelievers' (the Muʿawiyah/ʿAmr b. ʿAnbasah report); al-Tabari, al-Muyassar and al-Jalalayn all gloss ʿala sawaʾ as equal knowledge of the rupture — the file's 'transparent renunciation, no hidden dagger' reading is exactly right, and it correctly renders sharrid as deterrent scattering with laʿallahum yadhdhakkarun as the stated purpose. What fails is adab on an ahkam passage: no ikhtilaf acknowledgment (Tabari records real disagreement on ʿala sawaʾ — ʿadl vs wasat vs equal-knowledge, plus al-Walid b. Muslim's rejected 'muhlah'), no occasion, no fatwa line. Fix: add one ikhtilaf paragraph carrying (a) the Qurayzah occasion per Jalalayn/Tabari/Muyassar, (b) the imam-level locus of the nabdh ruling per Tabari, (c) a tadabbur-not-fatwa sentence. Also: frontmatter word_count is 0 (metadata defect)."
+  },
+  {
+    "file": "008-al-anfal/ayahs-072-073.md",
+    "verdict": "FLAG",
+    "thesis": "Genuine belonging in the believing community was built through sacrifice, sheltering, support, and covenantal clarity (walayah), and neglecting that structure leaves the earth open to fitnah and major corruption.",
+    "thesis_grounding": "GROUNDED",
+    "claims_checked": 9,
+    "claims_failed": 0,
+    "flags": [
+      {
+        "quote": "It distinguishes between shared faith and a fuller legal-political belonging tied to hijrah in that moment of communal formation.",
+        "issue": "The file never reports the inheritance dimension of walayah or its abrogation, which the editions carry explicitly. al-Jalalayn on 8:72: walayah is 'fi'l-nusrah wa'l-irth... fa-la irtha baynakum wa-baynahum' and 'wa-hadha MANSUKH bi-akhir al-surah' — abrogated by the surah's end. Ibn Kathir: the Muhajirun and Ansar 'used to inherit from each other... until Allah abrogated that practice with the fixed share for near relatives.' al-Tabari records the inheritance-then-naskh reading from Ibn ʿAbbas, Mujahid, Qatadah, al-Suddi, ʿIkrimah and al-Hasan — while al-Tabari HIMSELF prefers walayah = nusrah and argues there is no nasikh or mansukh in these verses at all ('la nasikha fi hadhihi'l-ayat li-shayʾ wa-la mansukh'). That is a genuine, reportable ikhtilaf between the editions, and the file carries none of it: no inheritance, no naskh, no ikhtilaf paragraph on an ahkam-bearing passage.",
+        "severity": "critical"
+      },
+      {
+        "quote": "But if they seek your help in matters of religion, then help is binding upon you, except against a people between whom and you there is a treaty.",
+        "issue": "The nusrah duty and its treaty limit are ahkam (Ibn Kathir from Ibn ʿAbbas: do not aid even co-believers against a treaty people), yet the file has no tadabbur-vs-fatwa line anywhere — the same uniform gap as the surah's other ahkam files. The treaty-limit substance itself is rendered correctly.",
+        "severity": "critical"
+      },
+      {
+        "quote": "This is sobering because it strips believers of fantasy. Falsehood also forms structures. Opposition also coordinates. Hostility also builds networks of mutual protection.",
+        "issue": "8:73a is turned into a standing sociological observation with no classical frame. The editions scope it: Ibn Kathir reads it through inheritance-severance across religions ('no followers of two religions inherit'); Ibn ʿAbbas per Tabari: 'nazalat fi mawarith mushriki ahl al-ʿahd'; al-Tabari's own preferred reading is that it evidences the hijrah obligation (prohibition of residing in dar al-harb); Qatadah ties it to the fence-sitter between the two camps. The file's reading of 'illa tafʿaluhu' as neglecting the ordered-alliance structure DOES match Tabari's preferred second taʾwil (illa tanasaru fi'l-din) and Ibn Ishaq, so it is not false — but the generalized 'disbelievers organize' framing without the recorded ikhtilaf leaves an adversarially-quotable line unanchored.",
+        "severity": "moderate"
+      }
+    ],
+    "notes": "The thesis itself is carried by the editions (Ibn Ishaq via Tabari: Allah made the Muhajirun and Ansar 'ahl walayah fi'l-din duna man siwahum,' and neglecting mutual support yields 'shubhah fi'l-haqq wa'l-batil wa-zuhur al-fasad'; Tabari prefers exactly the tanasur reading of illa tafʿaluhu the file uses). The soft historicizing ('in that moment of communal formation') is good instinct but is not a naskh report. Fix: one ikhtilaf paragraph reporting (a) walayah-as-inheritance and its abrogation by 8:75/33:6 per Ibn Kathir, al-Jalalayn and the salaf chains in Tabari, (b) Tabari's dissent (walayah = nusrah, no naskh here), (c) the classical scopings of 8:73, plus a tadabbur-not-fatwa line for the nusrah/treaty ahkam. The amwal+anfus 'again and again' claim verified mechanically: 10 occurrences (3:186, 4:95, 8:72, 9:20, 9:41, 9:44, 9:81, 9:88, 49:15, 61:11)."
+  },
+  {
+    "file": "008-al-anfal/ayahs-074-075.md",
+    "verdict": "FLAG",
+    "thesis": "Allah affirms the earliest sacrificing and sheltering believers as the believers in truth, keeps the circle open for later strivers who are fully 'from you,' and then orders that widened belonging by giving kinship ties precedence in His Book.",
+    "thesis_grounding": "UNGROUNDED",
+    "claims_checked": 7,
+    "claims_failed": 1,
+    "flags": [
+      {
+        "quote": "After widening the circle, the verse restores order. Spiritual belonging does not erase every other divinely assigned bond... The ayah protects the moral architecture of closeness from becoming vague and indiscriminate.",
+        "issue": "All four editions read the ulu'l-arham clause as an INHERITANCE ruling that ABROGATES the hijrah/brotherhood inheritance — and the file reports neither. Ibn Kathir: 'this Ayah abrogated inheriting from those with whom one had ties of treaties or brotherhood' (from Ibn ʿAbbas, Mujahid, ʿIkrimah, al-Hasan, Qatadah 'and several others'). al-Tabari: 'baʿduhum awla bi-baʿd fi'l-mirath,' with Qatadah's report that the bedouin Muslim could not inherit from the Muhajir 'hatta anzala Allah' this verse, and the Shurayh case law applying it to mutual-inheritance pacts. al-Muyassar: 'awla bi-baʿd fi'l-tawaruth fi hukm Allah... duna'l-tawaruth bi'l-hilf... mimma kana fi awwal al-Islam.' al-Jalalayn: 'fi'l-irth min al-tawaruth fi'l-iman wa'l-hijrah al-madhkurah fi'l-ayah al-sabiqah.' The file substitutes a general communal-ordering doctrine ('kinship precedence' against 'vague and indiscriminate' closeness) that no fetched edition carries as the clause's meaning, and omits the naskh entirely — this is the exact check the group brief named. The file does not present the hijrah-inheritance as standing (it never mentions inheritance at all), but failing to report the abrogation the editions carry, while asserting a different meaning, is the flagged condition.",
+        "severity": "critical"
+      },
+      {
+        "quote": "The phrase **fi kitabillah** grounds this precedence in divine legislation, not custom alone.",
+        "issue": "Compounds the misreading above: the editions gloss fi kitab Allah concretely — Tabari: 'fi hukm Allah alladhi katabahu fi'l-lawh al-mahfuz'; Jalalayn: 'al-lawh al-mahfuz... wa-minhu hikmat al-mirath' — as the decreed inheritance rule, not a general charter for ordered community bonds. No ikhtilaf paragraph and no tadabbur-vs-fatwa line despite this being the surah's closing inheritance hukm (the surah-wide uniform gap).",
+        "severity": "moderate"
+      }
+    ],
+    "notes": "Two of the thesis's three prongs are solidly grounded: al-muʾminuna haqqan as iman verified in costly embodied form (Tabari: 'ahl al-iman... haqqan, la man amana wa-lam yuhajir'; Muyassar: 'al-muʾminun al-sadiqun haqqan'), and the open circle for later joiners (Tabari on fa-ulaʾika minkum: they get 'al-haqq wa'l-nusrah fi'l-din wa'l-muwarathah' — the same rights and duties; Ibn Kathir extends via 9:100/59:10 and 'one will be with those whom he loves'). The verdict is FLAG because the third prong — the file's distinctive 'ordered belonging' reading of 8:75b — replaces the inheritance/naskh meaning all four editions carry, so the composite thesis as asserted is not grounded. claims_failed=1 counts that arham-clause reading. Fix: rewrite section 5 (and the closing synthesis's third clause) to report that ulu'l-arham per all four editions returns INHERITANCE to blood kin, abrogating the early hijrah/muʾakhah inheritance (with Ibn Kathir's list of salaf authorities), optionally noting Tabari's minority position from the 72-73 discussion that walayah there was nusrah so that no naskh was needed; add the ikhtilaf paragraph and a tadabbur-not-fatwa line. The reflective point about open-but-ordered community can survive as explicitly framed contemplation once the legal referent is stated."
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "file": "content/tadabbur/008-al-anfal/ayahs-011-014.md",
+    "edits": [
+      {
+        "defect": "Asserted an ikhtilaf over rijz that none of the four fetched editions carries; the 'outward defilement' reading came only from the English translator's parenthetical.",
+        "before": "That inward half is where the commentators part ways over the word *rijz*. Some read it as outward defilement - the physical uncleanness the water washed off. Al-Muyassar reads it as the inward disturbance itself: the whispering, the passing thoughts that press on a heart under pressure. The translation above renders it \"filth,\" and the word is wide enough to carry both. The verse does not force a choice; one rainfall lifts both kinds of impurity.",
+        "after": "That inward half rests on the word *rijz*, and the commentators are notably of one mind about it. Al-Muyassar reads it as the inward disturbance itself: the whispering, the passing thoughts that press on a heart under pressure. Al-Jalalayn glosses it *waswasatuhu*, his whispering. Ibn Kathir has \"his whispers and evil thoughts,\" and names that as the inner purification. And the report al-Tabari carries from Mujahid says the same in one word: *waswasatuhu*. The English translation above renders *rijz* as \"filth,\" which sounds outward, but the outward washing is already named in the clause just before it - *li-yutahhirakum bihi*. One rainfall lifts both kinds of impurity, and the commentators put *rijz* on the inner side of the pair.",
+        "evidence": "All four editions gloss rijz inwardly. al-Muyassar 8:11: 'ويزيل عنكم في الباطن وساوس الشيطان وخواطره'. al-Jalalayn 8:11: '﴿ويُذْهِب عَنْكُمْ رِجْز الشَّيْطان﴾ وسْوَسَته إلَيْكُمْ'. Ibn Kathir 8:11 (English): '(and to remove from you the Rijz of Shaytan,) such as his whispers and evil thoughts, this involves inner purification'. al-Tabari 8:11 transmits Mujahid twice: '﴿رجز الشيطان﴾، قال: وسوسته' and '\"رجز الشيطان\"، وسوسته'; the editor's own footnote notes al-Tabari gave no separate gloss of his own ('أغفل أبو جعفر هنا إفراد تفسير \"يذهب عنكم رجز الشيطان\"'), which is why the new text attributes only the Mujahid report to him rather than a judgment of his own. Nothing in the four supports an 'outward defilement' reading of rijz; the only outward element is the separate clause li-yutahhirakum (Ibn Kathir: 'to clean you thereby ... this involves cleansing what is on the outside')."
+      },
+      {
+        "defect": "Wrong verse location for al-Tabari's 'by the hands of Allah's believing allies'.",
+        "before": "Al-Tabari, commenting on the next verse, speaks of the blows falling by the hands of Allah's believing allies.",
+        "after": "Al-Tabari, commenting two verses later on ayah 14, speaks of the blows falling by the hands of Allah's believing allies.",
+        "evidence": "The phrase sits under al-Tabari's heading 'القول في تأويل قوله: ﴿ذَلِكُمْ فَذُوقُوهُ وَأَنَّ لِلْكَافِرِينَ عَذَابَ النَّارِ (١٤)﴾': 'هذا العقابُ الذي عجلته لكم ... من الضرب فوق الأعناق منكم، وضرب كل بنان، بأيدي أوليائي المؤمنين'. His 8:13 section contains no such phrase — it reads only 'هذا الفعل من ضرب هؤلاء الكفرة ... جزاءٌ لهم بشقاقهم الله ورسوله'."
+      },
+      {
+        "defect": "Editorial rationale ('the fingers and limbs that hold and swing a weapon') presented as part of al-Muyassar's gloss.",
+        "before": "Al-Muyassar glosses *kulla banan* as every extremity and joint - the fingers and limbs that hold and swing a weapon. It is battlefield language, and it stays inside the battle.",
+        "after": "Al-Muyassar glosses *kulla banan* as every extremity and joint. What that names, in a sword fight, is the hands and feet that hold a weapon and carry a man toward you. It is battlefield language, and it stays inside the battle.",
+        "evidence": "al-Muyassar 8:12 says exactly and only: 'واضربوا منهم كل طرف ومِفْصل' — every extremity and joint. The weapon-handling rationale is nowhere in his text, so it is now marked as the reflection's own observation. (The hands/feet specification it rests on is independently carried by al-Tabari: '\"البنان\": ... وهي أطراف أصابع اليدين والرجلين' and 'كل طَرَف ومَفْصِل من أطراف أيديهم وأرجلهم'.)"
+      }
+    ],
+    "unresolved": ""
+  },
+  {
+    "file": "content/tadabbur/011-hud/ayah-044.md",
+    "edits": [
+      {
+        "defect": "Balaghah-reputation claim asserted as fact ('That reputation is not sentiment'); none of the four fetched editions discusses the verse's rhetorical reputation, and the claim is unverifiable in-pipeline.",
+        "before": "This is one of the verses the Arabic rhetorical tradition has returned to again and again as a summit of the Qur'an's eloquence. That reputation is not sentiment. It is built on things you can point at in the words themselves — the two direct addresses,",
+        "after": "This is one of the verses often named as a summit of the Qur'an's eloquence. That reputation is not something the commentators quoted below stop to argue — they move straight into explaining the scene — but whatever weight you give it, what it rests on is visible in the words themselves: the two direct addresses,",
+        "evidence": "Hedged rather than deleted, per the reviewer's recommendation, and no source is named for the reputation because none could be honestly named from the pipeline. The added clause is itself checked: all four fetched editions on 11:44 move directly to paraphrase — al-Tabari opens 'وقال الله للأرض بعد ما تناهَى أمرُه في هلاك قوم نوح'; al-Muyassar 'وقال الله للأرض- بعد هلاك قوم نوح-'; Ibn Kathir 'Allah, the Exalted, informs that when the people of the earth were all drowned...'; al-Jalalayn glosses word by word. None comments on the verse's eloquence."
+      },
+      {
+        "defect": "Food-specific detail attributed to al-Tabari; it belongs to the modern editor's footnote citing Ibn al-Qatta'.",
+        "before": "Al-Tabari traces the word back to ordinary Arabic usage for gulping something down — swallowing a thing whole, the way you swallow food. And then,",
+        "after": "Al-Tabari traces the word back to ordinary Arabic usage for gulping something down - *idha izdaradahu*, when a person swallows a thing whole. And then,",
+        "evidence": "al-Tabari's own text says only: 'من قول القائل: \"بَلِعَ فلان كذا يَبْلَعُه\"، أو \"بَلَعَه يَبْلَعُه\"، إذا ازدَردَه' — no mention of food. The food/water distinction appears solely in the editor's bracketed footnote: 'أما \"بلع\" (بفتحتين)، فقد ذكرها ابن القطاع في كتاب الأفعال ... وقال: \"بَلِعَ الطعام بَلْعًا، وبَلَعَ الماء والربق بَلْعًا\"'. The remainder of the file's sentence is left intact and is correct: al-Tabari's gloss of the command is 'أي: تشرَّبي' and al-Muyassar's is 'يا أرض اشربي ماءك'."
+      }
+    ],
+    "unresolved": ""
+  },
+  {
+    "file": "content/tadabbur/026-ash-shuara/ayahs-184-190.md",
+    "edits": [
+      {
+        "defect": "Word counts measured different spans (English count included 'He said', Arabic count excluded 'qala'), and the English figure was wrong on either span.",
+        "before": "That is the entire reply. Eight words in English, four in Arabic.",
+        "after": "That is the entire reply. Four words in Arabic — *rabbī aʿlamu bimā taʿmalūn* — and seven in English.",
+        "evidence": "Both counts now exclude the speech verb, and both are mechanically checked. Uthmani text of 26:188 from node_modules/quran-validator/data/quran-verses.json: 'قَالَ رَبِّىٓ أَعْلَمُ بِمَا تَعْمَلُونَ' = 5 orthographic words, 4 after dropping qāla (rabbī / aʿlamu / bimā / taʿmalūn; بما is written joined). The file's own English rendering, 'My Lord knows best what you do', is 7 words (My/Lord/knows/best/what/you/do) — note this is one more than the reviewer's stated 6, so 6/4 was not an available correct pairing; 4 Arabic / 7 English is."
+      },
+      {
+        "defect": "Mind-loss element ('unhinged by sorcery') attributed to Ibn Kathir, who does not say it; it belongs to al-Muyassar.",
+        "before": "Ibn Kathir takes it as \"those bewitched, unhinged by sorcery,\" while al-Tabari hears it",
+        "after": "Ibn Kathir takes it plainly as \"one of those who are affected by witchcraft\" — al-Muyassar sharpens the same reading, glossing it as sorcery that struck them so severely it carried their minds away — while al-Tabari hears it",
+        "evidence": "Ibn Kathir 26:185 (English): '(You are only one of those bewitched!) meaning, \"you are one of those who are affected by witchcraft.\"' — nothing about the mind. al-Muyassar 26:185: 'إنما أنت -يا شعيب- مِنَ الذين أصابهم السحر إصابة شديدة، فذهب بعقولهم' — struck severely by sorcery, so it took away their minds. al-Tabari's contrasting reading, which the file already had right, stands: 'إنما أنت يا شعيب معلل تعلل بالطعام والشراب، كما نعلل بهما، ولست ملَكا'. The 'two ways' framing is preserved because the genuine division is bewitched-vs-merely-mortal (Ibn Kathir/al-Muyassar vs al-Tabari), not the mind-loss detail."
+      }
+    ],
+    "unresolved": "al-Jalalayn fetch FAILED for 26:184-190 (pipeline error, not silence). No claim in this file was added or cleared on the basis of al-Jalalayn, and none of the file's existing attributions name him, so nothing hinges on it — but the file has not been read against al-Jalalayn."
+  }
+]

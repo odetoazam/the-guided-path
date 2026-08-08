@@ -1,0 +1,46 @@
+[
+  {
+    "file": "012-yusuf/ayahs-109-111.md",
+    "verdict": "FLAG",
+    "section_verified": false,
+    "thesis": "Quranic stories are given as 'ibrah — a crossing from narrated event into transformed understanding — and reading history, delay and endings under Allah's pattern is what makes that crossing happen.",
+    "thesis_grounding": "GROUNDED",
+    "claims_checked": 9,
+    "claims_failed": 2,
+    "flags": [
+      {
+        "quote": "All four commentaries answer that question, and they answer it the same way.",
+        "issue": "BREADTH-OF-ATTRIBUTION OVERCLAIM — the predicted defect, confirmed. Only three of the four editions supply an object for the messengers' despair, and they are exactly the three the prose goes on to name. al-Jalalayn's entire 12:110 entry (fetched complete, not truncated — it runs through al-mushrikin at the end of the verse) glosses istay'asa with nothing more than the bare synonym yaisa: '﴿اسْتَيْأَسَ﴾ يَئِسَ ﴿الرُّسُل﴾'. It never says what they despaired OF. It then jumps to the zannu clause and splits it by recitation (tashdid: the messengers were certain their people had denied them with a denial after which there is no faith; takhfif: the nations thought the messengers had been failed in the victory promised them). Naming three editions in the prose while asserting 'all four' is precisely the failure mode this pass exists to catch. The other three do check out: al-Tabari 'استيأس الرسل ... أن يؤمنوا بالله ... ويصدقوهم فيما أتوهم به من عند الله'; al-Muyassar 'حتى إذا يئس الرسل من إيمان قومهم'; and Ibn Kathir does carry it from all three named authorities — Sa'id b. Jubayr ('when the Messengers gave up hope that their people will believe in them'), Ibn Mas'ud (via Tamim b. Hadhlam), and Mujahid ('This is also the Tafsir that Mujahid bin Jabr ... gave for this Ayah').",
+        "severity": "critical"
+      },
+      {
+        "quote": "Ibn Kathir preserves 'A'ishah's reaction, in Bukhari, to the suggestion that prophets could despair of their Lord's help: *maʿādh Allāh* — God forbid. She rejected that reading outright.",
+        "issue": "The Bukhari attribution itself is CORRECT and verified — Ibn Kathir's fetched text reads 'Al-Bukhari said that 'Urwah bin Az-Zubayr narrated that he asked 'Aishah about the meaning of the following verse', and her answer is 'Allah forbid! The Messengers did not suspect their Lord of such a thing.' What is misstated is WHAT she rejected. She was not objecting to prophets despairing of their Lord's help; she was objecting to reading wa-zannu annahum qad kudhibu (takhfif) as the messengers suspecting their Lord of having lied to them. That is a qira'ah dispute — kudhibu vs. kudhdhibu — and 'A'ishah herself recited the tashdid ('and they thought that they were betrayed'). The file never mentions the two recitations at all, and by converting the dispute into a settled lexical gap it also suppresses the ikhtilaf Ibn Kathir explicitly reports in the same passage: 'there is another way of reciting this word, and there is a difference of opinion about its meaning', with some referring the zann to the believing followers and some to the disbelievers of the nation. A section whose stated job is to report classical disagreement asserts unanimity instead.",
+        "severity": "moderate"
+      }
+    ],
+    "notes": "The appended section '### What the messengers despaired of' fails verification on its central framing claim. Two fixes needed: (1) replace 'All four commentaries answer that question, and they answer it the same way' with an accurate three-of-four statement — al-Tabari, al-Muyassar and Ibn Kathir supply the object; al-Jalalayn does not address it, glossing istay'asa only as yaisa. (2) The 'A'ishah paragraph must name the qira'ah (kudhibu/kudhdhibu) as what she was reacting to and say that she rejected the messengers suspecting their Lord of falsehood, not 'despair of their Lord's help'; and the section should state, as Ibn Kathir does, that the meaning of the zann clause is itself disputed. Everything else verified clean: al-Tabari's gloss, al-Muyassar's gloss, all three Ibn Kathir authorities (Sa'id b. Jubayr, Ibn Mas'ud, Mujahid), and the Bukhari sourcing. No countable/corpus claims appear anywhere in the file; root عبر confirmed present at 12:111. No truncation artifacts in the fetched editions."
+  },
+  {
+    "file": "007-al-araf/ayahs-026-027.md",
+    "verdict": "PASS",
+    "section_verified": true,
+    "thesis": "Allah answers the human vulnerability of exposure with garments for the body and a better garment for the soul — taqwa — while Shaytan's unchanged project is to strip both away.",
+    "thesis_grounding": "GROUNDED",
+    "claims_checked": 15,
+    "claims_failed": 0,
+    "flags": [],
+    "notes": "The densest attribution set in this group, and it holds edition by edition. QIRA'AT: al-Tabari records both readings exactly as stated — 'فقرأته عامة قرأة المكيين والكوفيين والبصريين ... برفع ولباس' (nominative: Makkans, Kufans, Basrans) and 'وقرأ ذلك عامة قرأة المدينة ... بنصب اللباس، وهي قراءة بعض قرأة الكوفيين' (accusative: Madinans + some Kufans). PREFERENCE: the strong claim is real and explicit, not the writer's inference — 'قال أبو جعفر: وهذه القراءة أولى القراءتين في ذلك عندي بالصواب، أعني نصب قوله: ولباس التقوى'. The file's account of what follows from that preference is also al-Tabari's own: under the accusative the whole set is better 'من التعري والتجرد من الثياب في طوافكم بالبيت', and he says outright 'لا أنه أعلمهم أن بعض ما أنزل إليهم خير من بعض' — i.e. no inner-vs-outer ranking. The inner/outer reading is correctly assigned to the nominative (al-Tabari's own paraphrase at raf': 'خير لكم يا بني آدم من لباس الثياب التي تواري سوءاتكم، ومن الرياش'). SIX VIEWS: all six verified individually, each with the right authority — faith (Qatadah #14438, as-Suddi #14439, Ibn Jurayj #14440); haya'/modesty (Ma'bad al-Juhani #14441-43); righteous action (Ibn 'Abbas #14444); as-samt al-hasan / good bearing (Ibn 'Abbas #14445); khashyat Allah (‘Urwah b. az-Zubayr #14447); satr al-'awrah out of taqwa (Ibn Zayd #14448). Six distinct headed views, so 'at least six' is accurate and conservative. No name in the prose is absent from the fetched text and no view is assigned to the wrong authority. ADAB: the fiqh line is present and adequate — 'nothing here settles a question of dress, which is a matter of fiqh' — and the section also flags that the file's own reading is one of several. The main-body inner/outer thesis remains supported by al-Muyassar ('ولباس تقوى الله ... هو خير لباس للمؤمن') and Ibn Kathir, so it is grounded even though al-Tabari prefers otherwise — and the file says so. No countable claims; roots لبس (x2) and وقي confirmed at 7:26. No truncation."
+  },
+  {
+    "file": "006-al-anam/ayahs-105-108.md",
+    "verdict": "PASS",
+    "section_verified": true,
+    "thesis": "Faithful witness is measured not by controlling people's reactions but by staying bound to revelation while refusing forms of speech that predictably provoke greater blasphemy.",
+    "thesis_grounding": "GROUNDED",
+    "claims_checked": 11,
+    "claims_failed": 0,
+    "flags": [],
+    "notes": "The naskh claim — the high-consequence one — verifies on all three points. (a) PLAIN SENSE FIRST: al-Tabari 6:106 gives it as stated — '﴿وأعرض عن المشركين﴾، يقول: ودع عنك جدالهم وخصومتهم' (leave off their disputing and quarrelling). (b) ABROGATION PRESENT: 'ثم نسخ ذلك جل ثناؤه بقوله في براءة: ﴿فاقتلوا المشركين حيث وجدتموهم﴾'. (c) ISNAD TO IBN 'ABBAS: report #13736 — al-Muthanna > 'Abdullah b. Salih > Mu'awiya b. Salih > 'Ali b. Abi Talha > Ibn 'Abbas, carrying exactly the naskh claim. (d) ABROGATING VERSE: al-Tabari names Bara'ah himself and the edition marks it [سورة التوبة: ٥], so 9:5 — really in Bara'ah/at-Tawbah. The file's aside that this is 'the very verse this collection treats elsewhere' also checks out: content/tadabbur/009-at-tawbah/ayah-005.md exists. One observation, not a defect: the file understates rather than overstates — al-Tabari asserts the naskh in his own voice and then adduces the Ibn 'Abbas isnad as support, whereas the file attributes it only to the report. The counter-position the section claims ('it is also not the only one') is likewise real: al-Muyassar reads the clause as a standing posture ('ولا تبال بعناد المشركين') and Ibn Kathir glosses it as forbearance without invoking naskh. ADAB: the tadabbur/ruling line is present on a genuinely contested, abrogation-bearing and interfaith-adjacent passage — 'This is a tadabbur, not a ruling on how to conduct oneself in any particular dispute.' The 6:108 material in the main body matches Ibn Kathir and al-Tabari (Ibn 'Abbas's 'you will stop insulting our gods or we will insult your Lord', Qatadah's occasion-report, the zayyanna gloss). No countable claims; root صرف confirmed at 6:105. No truncation."
+  }
+]
