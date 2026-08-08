@@ -12,7 +12,7 @@ word_count: 9200
 estimated_duration: "50-56 minutes"
 passage_context: "This ayah comes near the very end of At-Tawbah, after the long tribunal against hypocrisy, after the Tabuk narrative, after the three who were left behind have been embraced again. The surah of the broken treaty closes by handing the community a method — not just a command to fight, but a rule for sequence (begin with what is closest) and a closing declaration that Allah is with the people of taqwa. It is the surah's parting instruction on how the believing community is to carry itself outward."
 generated_by: "opus-tadabbur-auto"
-validated: true
+validated: false
 validation_date: "2026-04-29"
 semantic_review: "enriched-2026-06-02"
 tags: [taqwa, jihad, proximity, firmness, sequencing, spiritual-discipline, tawbah, constraint-clauses]

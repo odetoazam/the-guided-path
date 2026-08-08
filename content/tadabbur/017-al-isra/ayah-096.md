@@ -12,8 +12,9 @@ word_count: 4000
 estimated_duration: "34-44 minutes"
 passage_context: "After the objection to a human messenger is answered, Al-Isra closes this argumentative movement by telling the Prophet to place the dispute before Allah's witness, whose knowledge of His servants is both inwardly aware and fully seeing."
 generated_by: "codex-tadabbur"
-validated: false
+validated: true
 tags: [allah, rasul, shahadah, knowledge, accountability]
+interpretive_read: "fable-2026-07-31"
 ---
 
 <!-- morphology:17:96:1 root=قول pos=V -->
@@ -53,7 +54,7 @@ This is not withdrawal because the Prophet lacks proof. It is not impatience. It
 
 There is a kind of peace in this ayah, but it is not soft peace. It is judicial peace. The dispute is not left unresolved in the air. It is handed to Allah as witness. He knows the Messenger's truthfulness. He knows the deniers' objections. He knows what was asked sincerely and what was asked as a condition. He knows what came from confusion, what came from pride, what came from social pressure, and what came from refusal after clarity.
 
-Al-Tabari reads this as Allah commanding His Prophet to say to the idolaters: Allah is sufficient as a witness between me and you that I am His messenger to you, and He knows His servants. Ibn Kathir frames it similarly: Allah knows that the Prophet has conveyed what he was sent with, and He knows the condition of those addressed. Al-Muyassar states the heart of it: Allah is enough as a witness to my truthfulness and your denial; He is fully aware and seeing of His servants.
+Al-Tabari reads this as Allah commanding His Prophet to say it to the very people who had raised the objection — those who said to him, *has Allah sent a human being as a messenger?* Say to them: Allah is sufficient as witness between me and you, for He is the best Sufficient One and the Judge; He has knowledge of His servants' affairs and deeds, the one in the right among them and the one in the wrong, the guided and the astray. Ibn Kathir frames it similarly: Allah knows that the Prophet has conveyed what he was sent with, and He knows the condition of those addressed. Al-Muyassar states the heart of it: Allah is enough as witness to the Prophet's truthfulness and to the reality of his prophethood; He is aware of the states of His servants and seeing of their deeds, and will requite them for them.
 
 There is no widely established separate asbab al-nuzul report for this ayah as an isolated event. Its context is the argument itself. After the demanded signs, after the human messenger objection, after the refutation, Allah gives His Messenger the final witness formula.
 
@@ -105,7 +106,7 @@ The phrase `bayni wa-baynakum` means between me and you. The dispute is placed i
 
 This is not the first time a prophet places a dispute before Allah. Nuh says in 10:71 that if his standing and reminding by Allah's signs is unbearable to his people, they should gather their plan, then he trusts Allah. Hud tells his people to plot against him all together and not delay him, because he relies upon Allah, his Lord and their Lord. Messengers repeatedly reach moments when they can no longer make people want guidance. They can convey, warn, clarify, and remain patient. Then Allah witnesses.
 
-Al-Muyassar explicitly names both sides: Allah is enough as witness to the Prophet's truthfulness and their denial. That double witness should make us careful. When we invoke Allah as witness in any conflict, we are not inviting Him to see only what favors us. We are inviting His knowledge over the whole matter.
+The wording itself is what names both sides. The Prophet is not told to say *shahidan li* — a witness *for* me — but `shahidan bayni wa-baynakum`, a witness *between* me and you. A witness placed between two parties is a witness over both of them, and al-Tabari's gloss on the second half moves in the same direction: Allah knows His servants' affairs, the one in the right among them and the one in the wrong. That double witness should make us careful. When we invoke Allah as witness in any conflict, we are not inviting Him to see only what favors us. We are inviting His knowledge over the whole matter.
 
 [PAUSE]
 
@@ -139,7 +140,7 @@ Together, these two names complete the witness. Allah knows the inward and sees 
 
 This pairing appears with deep wisdom. If only `Basir` were mentioned, a person might think the witness is limited to what appears. If only `Khabir` were mentioned, a person might forget that outward actions are also fully seen. Together they leave no hiding place and no lost sincerity.
 
-Al-Tabari reads the closing as Allah being aware of His servants and seeing their deeds. Al-Muyassar says He is aware of their affairs and seeing of them, nothing hidden from Him. Ibn Kathir places it in the context of Allah knowing the Prophet's truth and the rejecters' state.
+Al-Tabari reads the closing as Allah having knowledge of His servants' affairs and deeds, and seeing to their governance and disposal — nothing of their affairs hidden from Him. Al-Muyassar says He is aware of the states of His servants and seeing of their deeds, and will requite them for them. Ibn Kathir places it in the context of Allah knowing the Prophet's truth and the rejecters' state.
 
 [PAUSE]
 
@@ -179,7 +180,7 @@ That means Allah's witness includes the motive we present and the motive we hide
 
 So the phrase "Allah is enough as witness" is safe only for the one who wants Allah's whole knowledge, not only the part that vindicates him.
 
-Al-Muyassar's reading is helpful because it makes both sides explicit: Allah witnesses the Prophet's truthfulness and the deniers' denial. In our conflicts, we often want Allah to witness one side only. But He is witness between me and you. Between means the whole space is exposed.
+The phrase itself is what makes both sides explicit. The witness is not requested *for* one party; He is placed *between* two. In our conflicts, we often want Allah to witness one side only. But He is witness between me and you. Between means the whole space is exposed.
 
 This should produce a beautiful kind of muhasabah. Before I seek Allah's witness against someone else, I should stand under Allah's witness myself. Did I convey truth truthfully? Did I argue for Allah or for my ego? Did I become harsh because I was defending revelation, or because I enjoyed winning? Did I hide behind sincerity while neglecting adab? Did I tell the whole truth or only the useful part?
 

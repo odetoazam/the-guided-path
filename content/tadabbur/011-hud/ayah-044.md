@@ -12,9 +12,10 @@ word_count: 1017
 estimated_duration: "20-30 minutes"
 passage_context: "After the drowning of the deniers and the loss of Nuh's son, the flood narrative resolves in one of the Qur'an's most compressed and majestic commands. Earth, sky, water, decree, ark, mountain, and final banishment all fall into place with breathtaking speed, showing a universe that does not negotiate with Allah's command."
 generated_by: "codex-tadabbur"
-validated: false
+validated: true
 tags: [qadar, cosmos, zulm, judgment, mercy]
 semantic_review: "enriched-2026-07-27"
+interpretive_read: "fable-2026-07-31"
 ---
 
 <!-- morphology:11:44:2 root=قول pos=V -->
@@ -58,7 +59,7 @@ There is almost no wasted movement in the verse. It is one of the places where t
 
 [PAUSE]
 
-This is one of the verses the Arabic rhetorical tradition has returned to again and again as a summit of the Qur'an's eloquence. That reputation is not sentiment. It is built on things you can point at in the words themselves — the two direct addresses, the compression, the way seven separate events fit into one sentence without any of them feeling rushed, and above all the fact that no speaker is ever named.
+This is one of the verses often named as a summit of the Qur'an's eloquence. That reputation is not something the commentators quoted below stop to argue — they move straight into explaining the scene — but whatever weight you give it, what it rests on is visible in the words themselves: the two direct addresses, the compression, the way seven separate events fit into one sentence without any of them feeling rushed, and above all the fact that no speaker is ever named.
 
 Look at the verbs. **Qila** — it was said. **Ghida** — the water was made to subside. **Qudiya** — the matter was decreed. **Qila** again — it was said. Four of the verse's main verbs are passive. Nobody steps forward. Nobody signs the order.
 
@@ -86,7 +87,7 @@ Then the verbs themselves are vivid.
 
 Not merely absorb in a neutral sense. The image is forceful, immediate, decisive.
 
-Al-Tabari traces the word back to ordinary Arabic usage for gulping something down — swallowing a thing whole, the way you swallow food. And then, interestingly, he glosses the command itself more gently: *drink it in.* Al-Muyassar does the same, rendering it simply as *drink.* So there are two textures inside one word. The force of a gulp, and the ordinariness of drinking. The earth is not being asked to do something alien to it. It is being asked to do the thing earth does with water.
+Al-Tabari traces the word back to ordinary Arabic usage for gulping something down - *idha izdaradahu*, when a person swallows a thing whole. And then, interestingly, he glosses the command itself more gently: *drink it in.* Al-Muyassar does the same, rendering it simply as *drink.* So there are two textures inside one word. The force of a gulp, and the ordinariness of drinking. The earth is not being asked to do something alien to it. It is being asked to do the thing earth does with water.
 
 Then the possessive, which is easy to read past:
 
