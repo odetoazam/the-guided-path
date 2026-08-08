@@ -167,7 +167,7 @@ Look at the linguistic play. **The dominion** is *al-mulk* — root م-ل-ك. **
 - Allah → *lahu al-mulk* → to Him belongs THE dominion.
 - The idols → *mā yamlikūna min qiṭmīr* → they do not possess so much as a date-skin.
 
-The verse is built around this single root. **Allah owns mulk. They don't yamliku qiṭmīr.** All of it on one side. Less than a peelable membrane on the other.
+The verse's closing movement is built around this single root — both occurrences land in its final third, once the cosmos has already been described. **Allah owns mulk. They don't yamliku qiṭmīr.** All of it on one side. Less than a peelable membrane on the other.
 
 And then the sonic dimension. *Qiṭmīr* sounds like what it is. The hard, abrupt *qiṭ-* — a sharp, breakable thing. The thin *-mīr* trailing off, papery, weightless. The word **collapses in your mouth**, the way the thing it names crumbles between your fingers. Allah didn't say "atom" or "speck" or "grain." He picked a word whose phonetics enact its meaning.
 
@@ -297,7 +297,7 @@ Then the pivot — **the direct address:**
 Then the collapse — **the contrast:**
 - And those whom you call on besides Him — *mā yamlikūna min qiṭmīr.* They do not own a date-skin.
 
-The whole verse is built on **the same root used twice**: م-ل-ك. *Al-mulk* for Allah. *Yamlikūna* for the false gods. The verse is a balance scale. On one side: the harnessed cosmos, the named appointed terms, ownership of all dominion. On the other side: not a qiṭmīr.
+The pivot and the collapse are built on **the same root used twice**: م-ل-ك. *Al-mulk* for Allah. *Yamlikūna* for the false gods. Both sit in the verse's final third — the whole cosmic opening runs before the root is sounded even once. The verse is a balance scale. On one side: the harnessed cosmos, the named appointed terms, ownership of all dominion. On the other side: not a qiṭmīr.
 
 This is not Allah arguing that He is *bigger.* He is. But the rhetorical move is sharper than that. The verse exposes the **absurdity of the proportion**. You have placed the weight of your life on something with less mass than a peelable skin.
 

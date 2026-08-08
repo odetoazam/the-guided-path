@@ -48,7 +48,7 @@ To understand what this ayah is doing, you have to remember where we are standin
 
 Surah Luqman is named after a man who is not a prophet. Allah chose to name an entire chapter of His final revelation after a sage — a wise man — and the central scene of the surah is *intimate*. It is a father sitting with his son.
 
-"O my dear son" — *yā bunayya* — Luqman calls him. Four times in this surah. The diminutive form. The form of tenderness. Don't associate partners with Allah, my dear son. Establish prayer, my dear son. Be patient, my dear son. Don't walk on the earth in arrogance, my dear son.
+"O my dear son" — *yā bunayya* — Luqman calls him. Three times in this surah. The diminutive form. The form of tenderness. Don't associate partners with Allah, my dear son. Nothing is too small for Allah to bring it out — not a mustard seed hidden inside a rock — my dear son. Establish prayer, enjoin what is good, forbid what is wrong, be patient with what strikes you, my dear son.
 
 The surah is *built* on this scene. It is the longest sustained passage of fatherly counsel in the Quran. A father pouring into his son everything he has learned about how to live.
 
@@ -74,7 +74,7 @@ Not because love fails. Because the structure of reality is such that some accou
 
 ### The Hook
 
-There is a word in this ayah that appears three times in two lines. Three times. Allah doesn't repeat words by accident. And the word He repeats — when you understand what it actually means — will change how you hear the entire warning.
+There is a word in this ayah that appears twice in a single clause, pointed in opposite directions. Twice. Allah doesn't repeat words by accident. And the word He repeats — when you understand what it actually means — will change how you hear the entire warning.
 
 There is also something the ayah *withholds*. A piece of information you would expect to be there. A specific that Allah deliberately keeps unspecified.
 
@@ -147,7 +147,7 @@ One is warm. One is heavy. Both are required.
 
 Notice something else. *Ittaqū* comes first, *wakhshaw* second. The *taqwa* — the relationship-consciousness — comes before the Day-fear. Because if you do not first have the relationship, the Day terrifies you into despair. The relationship is what allows the fear of the Day to be productive instead of paralyzing.
 
-### Element Two: The Word Repeated Three Times
+### Element Two: The Word Repeated Twice
 
 Now look at what the Day is described as.
 
@@ -155,7 +155,7 @@ Now look at what the Day is described as.
 
 A Day on which **no father will *yajzī*** anything **for his son**, **and no child will be a *jāzin*** **for his father** in anything.
 
-The verb here is *yajzī*. From the root *jazā*. And the same root appears three times in this short clause — once as the verb *yajzī*, once as the active participle *jāzin*. (The word *jazāʾ* — recompense — comes from this same root.)
+The verb here is *yajzī*. From the root *jazā*. And the same root appears twice in this short clause — once as the verb *yajzī*, once as the active participle *jāzin*. (The word *jazāʾ* — recompense — comes from this same root, though it is not one of the two here.)
 
 Let me teach you what this word actually means before we go into how Allah uses it.
 
@@ -288,7 +288,7 @@ We have walked through three things.
 
 We have seen that Allah opens with two different inner postures — *taqwa* toward the Lord, *khashyah* toward the Day. Two different fears for two different objects.
 
-We have seen the word *jazā* repeated three times — sealing every door of family-payment, in both directions, with the root of blood and the root of debt locked against each other.
+We have seen the word *jazā* repeated twice — sealing every door of family-payment, in both directions, with the root of blood and the root of debt locked against each other.
 
 We have seen the root *gharra* repeated three times — naming two deceivers, the world and the Great Deceiver, and revealing that the Great Deceiver's specialty is deceiving you *about Allah Himself*.
 
@@ -416,7 +416,7 @@ It opens with two commands — *ittaqū* and *wakhshaw* — toward two objects, 
 
 It closes with two warnings — about *the dunya* and *al-Gharūr* — two deceivers.
 
-In the middle, it places a sealed inner core: the impossibility of family-payment, sealed by the threefold repetition of *jazā* and the symmetrical *wālid-walad* pairing.
+In the middle, it places a sealed inner core: the impossibility of family-payment, sealed by *jazā* said twice, once in each direction, and the symmetrical *wālid-walad* pairing.
 
 And at the very center of the architecture sits the load-bearing sentence: *inna waʿda Llāhi ḥaqq*. The promise of Allah is real.
 

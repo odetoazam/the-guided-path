@@ -172,13 +172,13 @@ And what is that innermost, untraceable thought? **لَوْلَا يُعَذِّ
 
 [PAUSE]
 
-Now — feel the structure of what just happened. The ayah traced their speech inward, ring by ring:
+Now — feel the structure of what just happened. The ayah has caught their speech in three different registers:
 
 The whisper to the group. *Najwā.* Semi-private.
 The greeting to the face. *Taḥiyyah.* Public.
 The murmur to the self. *Fī anfusihim.* Utterly, perfectly private.
 
-Each one more hidden than the last. The ayah follows them all the way down to the place no human being can reach — the sealed interior chamber of the self.
+And notice that it does not simply tunnel inward, each one more hidden than the last. It swings: private, then *public,* then more private than where it began. The huddle in the corner, then the open doorway, then the place no human being can reach — the sealed interior chamber of the self.
 
 **And then the ayah answers it.** Not the whisper. Not the greeting. It reaches into the sealed chamber and *replies to the thought itself:* *Ḥasbuhum jahannam* — "Sufficient for them is Hell." You asked, in the one place you thought was yours alone, *"why doesn't He punish us?"* Here is your answer. It was heard. It was always heard. There is no chamber sealed against Him.
 
@@ -256,7 +256,7 @@ If He hears the disbeliever's silent sneer — then **He hears your silent du'ā
 
 The prayer you could not get out through your tears. The cry that stayed stuck in your throat at the funeral. The longing you've never said aloud to a single living soul because it's too fragile, too embarrassing, too deep — the thing you want so badly you can only whisper it *fī nafsik,* within yourself, in the sealed room. **He is in that room.** The same nearness that exposes the hypocrite *consoles* the broken. The whisper of your heart that never reached your lips has already arrived. You do not have to find the words. You do not have to get it out. *He is nearer to it than the words you can't find.*
 
-The woman whose plea opened this entire surah — al-Mujādila — she came whispering her complaint to the Prophet ﷺ in words so quiet ʿĀ'isha said she herself, sitting in the same room, could not catch them. And the opening ayah declares: **قَدْ سَمِعَ ٱللَّهُ** — "Allah has *already* heard." Before the verse about her even finished, He had heard. The whole surah is bracketed by this: the whisper of the wronged believer, *heard.* The whisper of the scheming rejecter, *heard.* Both. He is the fourth of every two who whisper (58:7) — which means He is in the room when they plot, and He is in the room when *you* break.
+The woman whose plea opened this entire surah — al-Mujādila — she came whispering her complaint to the Prophet ﷺ in words so quiet ʿĀ'isha said she herself, sitting in the same room, could not catch them. And the opening ayah declares: **قَدْ سَمِعَ ٱللَّهُ** — "Allah has *already* heard." Before the verse about her even finished, He had heard. The whole surah is bracketed by this: the whisper of the wronged believer, *heard.* The whisper of the scheming rejecter, *heard.* Both. He is the fourth of every three who whisper — and no fewer than that and no more, 58:7 goes on, but He is with them wherever they are — which means He is in the room when they plot, and He is in the room when *you* break.
 
 [PAUSE]
 
@@ -272,19 +272,19 @@ The woman whose plea opened this entire surah — al-Mujādila — she came whis
 
 Now let me show you how the whole verse was built, because it has a shape, and the shape is the proof.
 
-Watch the verse move you inward through three concentric chambers of speech:
+Watch the verse sweep across three registers of speech:
 
-**The outer chamber** — the *najwā,* the whisper shared with a chosen few. Semi-hidden.
-**The middle chamber** — the *taḥiyyah,* the greeting spoken openly to the face. Public, but corrupted.
-**The inner chamber** — the *qawl fī anfusihim,* the thought spoken only to the self. Utterly sealed.
+**The huddle** — the *najwā,* the whisper shared with a chosen few. Semi-hidden.
+**The open doorway** — the *taḥiyyah,* the greeting spoken openly to the face. Fully public, and corrupted.
+**The sealed room** — the *qawl fī anfusihim,* the thought spoken only to the self. Utterly hidden.
 
-Each chamber is more private than the last. The verse is walking you down, room by room, toward the most hidden place a human being possesses.
+And the movement is not a steady descent into privacy — the middle one is the most exposed of the three. Private, then public, then more private than where it started. That shape is the point. The verse does not follow them down a single tunnel; it reaches from the openly public all the way to the wholly unspoken. It catches them huddled in the corner. It catches them out in the open, at the Prophet's door, face to face in his own presence. And it catches them in the one room they were certain was theirs alone.
 
-And waiting in *every* chamber — is Allah. He had already declared it in the verse just before this one: *there is no najwā of three but He is the fourth.* So when this verse opens the outer chamber — He is there, He forbade what's in it. When it opens the middle chamber — He is there, *"that by which Allah does not greet you."* And when it opens the innermost, sealed chamber — He is there too, answering the unspoken thought directly: *Ḥasbuhum jahannam.*
+And waiting in *every one of the three* — is Allah. He had already declared it in the verse just before this one: *there is no najwā of three but He is the fourth.* So when this verse opens the huddle — He is there, He forbade what's in it. When it steps out to the doorway — He is there, *"that by which Allah does not greet you."* And when it opens the sealed room — He is there too, answering the unspoken thought directly: *Ḥasbuhum jahannam.*
 
-Three rooms. One Presence filling all three. And then the verse ends on a single word: **ٱلْمَصِيرُ** — *al-maṣīr* — "the destination." The place all of it was always travelling toward.
+Three registers — one meant for a chosen few, one for the open air, one for no one at all. One Presence filling all three. And then the verse ends on a single word: **ٱلْمَصِيرُ** — *al-maṣīr* — "the destination." The place all of it was always travelling toward.
 
-That is the architecture. **All speech — whispered, spoken, or merely thought — moves through chambers He fully occupies, toward a destination He has already named.** The shape of the verse *is* the message.
+That is the architecture. **All speech — whispered, spoken, or merely thought — moves through registers He fully occupies, toward a destination He has already named.** The shape of the verse *is* the message.
 
 ### Bringing It Together
 
@@ -314,4 +314,4 @@ You don't have to overhaul your whole life tonight. Just stop pretending any of 
 
 ### A Brief Du'ā
 
-*O Allah, You who are the fourth of every two who whisper and nearer to us than our jugular vein — purify our najwā until it climbs toward Your rescue, fill our greetings with the life You placed in their very root, and since You already dwell in the sealed room of every soul, let what You hear from us there be only the whisper of those who turn to You. Make our maṣīr the home of Your pleasure, not the wretched destination. Āmīn.*
+*O Allah, You who are the fourth of every three who whisper and nearer to us than our jugular vein — purify our najwā until it climbs toward Your rescue, fill our greetings with the life You placed in their very root, and since You already dwell in the sealed room of every soul, let what You hear from us there be only the whisper of those who turn to You. Make our maṣīr the home of Your pleasure, not the wretched destination. Āmīn.*

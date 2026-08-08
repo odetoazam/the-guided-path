@@ -72,7 +72,7 @@ Because before Solomon, before the ant, before the hoopoe and the queen and the 
 
 **طس ۚ تِلْكَ آيَاتُ الْقُرْآنِ وَكِتَابٍ مُّبِينٍ**
 
-Seven words in Arabic. The first thing the surah says. And it is not about Solomon. It is not about ants or queens or civilizations.
+Six words in Arabic. The first thing the surah says. And it is not about Solomon. It is not about ants or queens or civilizations.
 
 **It is the Quran telling you what the Quran is.**
 
@@ -409,7 +409,7 @@ And these three are not separate attributes. They are the same reality described
 
 **The elevation is the condition of the mission.** *Tilka* — the majestic pointing — establishes that the Quran's *āyāt* are signs pointing beyond themselves. A Book whose verses are signs pointing toward what transcends them can clarify things that are beyond what the words themselves explicitly say. The pointing is in the nature of the thing.
 
-The verse is a complete theology of divine speech in seven words.
+The verse is a complete theology of divine speech in six words.
 
 And then the surah begins. Solomon appears. The ant is waiting.
 

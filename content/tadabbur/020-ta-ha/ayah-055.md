@@ -60,7 +60,7 @@ Three times the earth is named. Three times Pharaoh — who has built his whole 
 
 This is the whole question of his philosophy answered in one sentence. He asked about the former generations. He is told: *they are in the same earth you are walking on. And so are you, in advance.*
 
-The hook I want you to feel is this. We are about to spend an hour with a verse that contains only ten words in Arabic. Ten words. And in those ten words, Allah has built an architecture so precise that it answers a tyrant's deflection, redefines the human body, reframes death itself, and proves resurrection — all by playing one preposition off against another. The whole secret is in the difference between *"from it"* and *"in it."*
+The hook I want you to feel is this. We are about to spend an hour with a verse that contains only eight words in Arabic. Eight words. And in those eight words, Allah has built an architecture so precise that it answers a tyrant's deflection, redefines the human body, reframes death itself, and proves resurrection — all by playing one preposition off against another. The whole secret is in the difference between *"from it"* and *"in it."*
 
 If you have ever stood at a graveside and felt the earth's silence pressing back at you, this ayah was written for that moment. Let's walk into it.
 
@@ -512,7 +512,7 @@ Linguistic precision and spiritual reality are not two different things. The gra
 
 ### One-Sentence Distillation
 
-The earth is your mother three times — she gave you up at birth, she will receive you in death, and she will give you up one more time — and the prepositions of the verse perform this whole architecture in ten words.
+The earth is your mother three times — she gave you up at birth, she will receive you in death, and she will give you up one more time — and the prepositions of the verse perform this whole architecture in eight words.
 
 ---
 

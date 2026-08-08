@@ -249,7 +249,7 @@ And this is where the modern listener must feel the discomfort. The verse doesn'
 
 ### Theme 2: No Fear Forward, No Grief Backward — The Promise of Temporal Wholeness
 
-The verse closes with a formula that appears thirteen times across the Quran:
+The verse closes with a formula that appears twelve times across the Quran:
 
 *Wa lā khawfun 'alayhim wa lā hum yaḥzanūn.*
 
