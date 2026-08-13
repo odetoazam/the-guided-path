@@ -5,6 +5,7 @@ import { PATHS, PATHS_BY_SLUG, type Path, type PathStop } from '@/data/paths'
 import { createClient } from '@/lib/supabase/server'
 import { CANONICAL_URL, SITE_NAME } from '@/lib/constants'
 import { reflectionSlug } from '@/lib/reflection-render'
+import { REFLECTIONS_PUBLIC } from '@/lib/reflections-access'
 
 // ─── Types ─────────────────────────────────────────────────────────────────
 
@@ -110,10 +111,11 @@ async function resolveStops(path: Path): Promise<ResolvedStop[]> {
       resolvedTitle: label,
       resolvedExcerpt: match?.translation ?? null,
       resolvedArabic: match?.arabic_text ?? undefined,
-      // Ayah stops used to be dead ends: the card showed Arabic and a clipped
-      // translation with nothing to open, so the deepest stop on every path was
-      // the one a reader could not actually read. Each record now has a page.
-      resolvedHref: match
+      // Ayah stops link nowhere while the reflections are withheld (Aug 9, 2026
+      // — see REFLECTIONS_PUBLIC). The card still carries the Arabic, the title
+      // and the translation, so the stop reads; it just does not open into the
+      // corpus. Restoring the link is one edit once there is a plan.
+      resolvedHref: REFLECTIONS_PUBLIC && match
         ? `/reflections/${reflectionSlug(match.surah_number, match.ayah_start, match.ayah_end)}`
         : null,
       found: !!match,

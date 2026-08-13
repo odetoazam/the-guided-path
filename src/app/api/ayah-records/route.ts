@@ -3,14 +3,24 @@ import { createAdminClient } from '@/lib/supabase/admin'
 import { ayahRecordSchema } from '@/lib/validators'
 import { NextResponse } from 'next/server'
 
+/**
+ * Admin only. This endpoint returns whole tadabbur records — grounding table,
+ * linguistic layer and the full reflection HTML, tens of kilobytes per row.
+ * It previously answered unauthenticated callers with every `published` record,
+ * which made the entire corpus walkable by surah with no login. Azam's call
+ * (Aug 9, 2026): the reflections are not accessible, not published and not
+ * linked until there is a plan for them. No first-party caller reads this route
+ * — the pages that surface reflection excerpts query Supabase directly — so it
+ * is closed outright rather than filtered.
+ */
 export async function GET(request: Request) {
   try {
+    const user = await verifyAuth(request)
+    if (!user) return NextResponse.json({ error: 'Unauthorized' }, { status: 401 })
+
     const { searchParams } = new URL(request.url)
     const surah = searchParams.get('surah')
     const ayah = searchParams.get('ayah')
-
-    const user = await verifyAuth(request).catch(() => null)
-    const isAdmin = !!user
 
     const adminClient = createAdminClient()
 
@@ -19,10 +29,6 @@ export async function GET(request: Request) {
       .select('*')
       .order('surah_number', { ascending: true })
       .order('ayah_start', { ascending: true })
-
-    if (!isAdmin) {
-      query = query.eq('status', 'published')
-    }
 
     if (surah) {
       const surahNum = parseInt(surah, 10)

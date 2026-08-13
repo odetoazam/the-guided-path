@@ -15,21 +15,19 @@ export async function GET(
       return NextResponse.json({ error: 'Invalid ID format' }, { status: 400 })
     }
 
-    const user = await verifyAuth(request).catch(() => null)
-    const isAdmin = !!user
+    // Admin only — see the note on the collection route. A single record is the
+    // whole reflection, so an unauthenticated read here leaked the same content
+    // one id at a time.
+    const user = await verifyAuth(request)
+    if (!user) return NextResponse.json({ error: 'Unauthorized' }, { status: 401 })
 
     const adminClient = createAdminClient()
 
-    let query = adminClient
+    const { data, error } = await adminClient
       .from('ayah_records')
       .select('*')
       .eq('id', id)
-
-    if (!isAdmin) {
-      query = query.eq('status', 'published')
-    }
-
-    const { data, error } = await query.single()
+      .single()
 
     if (error) {
       if (error.code === 'PGRST116') {
