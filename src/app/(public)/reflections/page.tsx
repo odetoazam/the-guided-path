@@ -1,6 +1,8 @@
 import Link from 'next/link'
+import { notFound } from 'next/navigation'
 import type { Metadata } from 'next'
 import { createClient } from '@/lib/supabase/server'
+import { REFLECTIONS_PUBLIC } from '@/lib/reflections-access'
 import { CANONICAL_URL, SITE_NAME } from '@/lib/constants'
 import { SURAHS } from '@/lib/surahs'
 import { reflectionSlug, ayahRef } from '@/lib/reflection-render'
@@ -61,6 +63,8 @@ export const metadata: Metadata = {
 }
 
 export default async function ReflectionsIndexPage() {
+  if (!REFLECTIONS_PUBLIC) notFound()
+
   const records = await getRecords()
 
   const bySurah = new Map<number, Row[]>()

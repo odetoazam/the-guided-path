@@ -4,6 +4,7 @@ import { useState } from 'react'
 import Link from 'next/link'
 import { AyahCard } from '@/components/AyahCard'
 import { reflectionSlug } from '@/lib/reflection-slug'
+import { REFLECTIONS_PUBLIC } from '@/lib/reflections-access'
 import { trackHubTabSwitch } from '@/lib/analytics'
 import type { EntityCategory } from '@/types'
 import { CATEGORY_LABELS, CATEGORY_STYLES } from '@/lib/entity-categories'
@@ -482,6 +483,14 @@ export function HubTabs({
           <div role="tabpanel">
             {ayahRecords.length > 0 ? (
               <div className="space-y-4">
+                {/*
+                  Aug 9, 2026 — the reflections are withheld (REFLECTIONS_PUBLIC).
+                  Both the link and the inline grounding are dropped here, and
+                  that pairing is deliberate: AyahCard treats a missing `href` as
+                  permission to unfold `layerA` in place, so removing the link
+                  alone would have printed the reflection on this page instead of
+                  hiding it. The card keeps ayah, Arabic, title and translation.
+                */}
                 {ayahRecords.map((ar: any) => (
                   <AyahCard
                     key={ar.id}
@@ -491,9 +500,13 @@ export function HubTabs({
                     arabic={ar.arabic_text}
                     translation={ar.translation}
                     title={ar.title}
-                    layerA={ar.layer_a}
-                    expandable
-                    href={`/reflections/${reflectionSlug(ar.surah_number, ar.ayah_start, ar.ayah_end)}`}
+                    {...(REFLECTIONS_PUBLIC
+                      ? {
+                          layerA: ar.layer_a,
+                          expandable: true,
+                          href: `/reflections/${reflectionSlug(ar.surah_number, ar.ayah_start, ar.ayah_end)}`,
+                        }
+                      : {})}
                   />
                 ))}
               </div>

@@ -7,6 +7,7 @@ import { NewsletterSignup } from '@/components/blog/newsletter-signup'
 import { PathAttribution } from '@/components/paths/PathAttribution'
 import type { Entity, EntityCategory } from '@/types'
 import { CATEGORY_LABELS, CATEGORY_STYLES } from '@/lib/entity-categories'
+import { REFLECTIONS_PUBLIC } from '@/lib/reflections-access'
 
 interface Props {
   params: Promise<{ slug: string }>
@@ -38,10 +39,20 @@ async function getHubData(slug: string) {
     .eq('is_primary', true)
     .not('post_id', 'is', null)
 
-  // Fetch primary-tagged ayah records
+  // Fetch primary-tagged ayah records.
+  //
+  // `layer_a` is selected only while the reflections are public. Hiding the
+  // card's grounding UI is not enough on its own: whatever this server
+  // component selects is serialised into the RSC payload and shipped to the
+  // browser, so the full grounding table and linguistic layer sat in the page
+  // source of every hub — readable from View Source — even with nothing on
+  // screen. Dropping the column at the query is what actually withholds it.
+  const ayahColumns = REFLECTIONS_PUBLIC
+    ? 'id, surah_number, ayah_start, ayah_end, arabic_text, translation, title, layer_a'
+    : 'id, surah_number, ayah_start, ayah_end, arabic_text, translation, title'
   const { data: ayahTags } = await supabase
     .from('entity_tags')
-    .select('ayah_record_id, ayah_records!inner(id, surah_number, ayah_start, ayah_end, arabic_text, translation, title, layer_a)')
+    .select(`ayah_record_id, ayah_records!inner(${ayahColumns})`)
     .eq('entity_id', entity.id)
     .eq('is_primary', true)
     .not('ayah_record_id', 'is', null)

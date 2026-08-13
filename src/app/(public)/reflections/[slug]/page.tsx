@@ -2,6 +2,7 @@ import { notFound } from 'next/navigation'
 import Link from 'next/link'
 import type { Metadata } from 'next'
 import { createClient } from '@/lib/supabase/server'
+import { REFLECTIONS_PUBLIC } from '@/lib/reflections-access'
 import { CANONICAL_URL, SITE_NAME } from '@/lib/constants'
 import { SURAHS, surahSlug } from '@/lib/surahs'
 import {
@@ -40,6 +41,7 @@ interface AyahRecord {
 export const revalidate = 3600
 
 async function getRecord(slug: string): Promise<AyahRecord | null> {
+  if (!REFLECTIONS_PUBLIC) return null
   const parsed = parseReflectionSlug(slug)
   if (!parsed) return null
   try {
