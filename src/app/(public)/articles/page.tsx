@@ -32,7 +32,7 @@ async function getArticles(): Promise<ArticleItem[]> {
     const { data } = await supabase
       .from('posts')
       .select(
-        `id, title, slug, excerpt, published_at, reading_time_minutes, featured,
+        `id, title, slug, excerpt, published_at, reading_time_minutes, featured, tags,
          entity_tags ( is_primary, entities:entity_id ( slug, name_translit, name_arabic, category ) )`
       )
       .eq('status', 'published')

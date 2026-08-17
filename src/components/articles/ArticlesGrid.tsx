@@ -3,62 +3,22 @@
 import Link from 'next/link'
 import { useState, useMemo } from 'react'
 import { Clock, ArrowRight } from 'lucide-react'
-
-/* ── Category config ────────────────────────────────────────────── */
-
-const CATEGORY_CONFIG: Record<string, {
-  label: string
-  tint: string
-  hoverBorder: string
-  badge: string
-}> = {
-  quranic_characters: {
-    label: 'Prophets & Characters',
-    tint: 'rgba(245,158,11,0.05)',
-    hoverBorder: 'rgba(245,158,11,0.22)',
-    badge: 'bg-amber-500/10 text-amber-400/80 border-amber-500/20',
-  },
-  the_unseen: {
-    label: 'The Unseen',
-    tint: 'rgba(139,92,246,0.05)',
-    hoverBorder: 'rgba(139,92,246,0.22)',
-    badge: 'bg-violet-500/10 text-violet-400/80 border-violet-500/20',
-  },
-  theology_and_ethics: {
-    label: 'Theology & Ethics',
-    tint: 'rgba(99,102,241,0.05)',
-    hoverBorder: 'rgba(99,102,241,0.22)',
-    badge: 'bg-indigo-500/10 text-indigo-400/80 border-indigo-500/20',
-  },
-  states_of_the_heart: {
-    label: 'States of Heart',
-    tint: 'rgba(244,63,94,0.05)',
-    hoverBorder: 'rgba(244,63,94,0.22)',
-    badge: 'bg-rose-500/10 text-rose-400/80 border-rose-500/20',
-  },
-  concepts_of_existence: {
-    label: 'Concepts',
-    tint: 'rgba(16,185,129,0.05)',
-    hoverBorder: 'rgba(16,185,129,0.22)',
-    badge: 'bg-emerald-500/10 text-emerald-400/80 border-emerald-500/20',
-  },
-  nations_and_peoples: {
-    label: 'Nations & Peoples',
-    tint: 'rgba(20,184,166,0.05)',
-    hoverBorder: 'rgba(20,184,166,0.22)',
-    badge: 'bg-teal-500/10 text-teal-400/80 border-teal-500/20',
-  },
-}
+import {
+  CATEGORY_ORDER,
+  categoryLabel,
+  categoryStyle,
+  categoryCardStyle,
+} from '@/lib/entity-categories'
+import { LENS_ORDER, lensOf, lensLabel, type ArticleLens } from '@/lib/article-lenses'
 
 // Quranic mysterious letters — used as decorative fallback when no entity name exists
 const MUQATTAAT = ['الٓمٓ', 'الٓرٰ', 'حٰمٓ', 'طٰسٓ', 'يٰسٓ', 'صٓ', 'قٓ', 'نٓ', 'طٰهٰ', 'كٓهٓيٓعٓصٓ']
 
-const FALLBACK_CONFIG = {
-  label: 'Article',
-  tint: 'rgba(212,175,55,0.04)',
-  hoverBorder: 'rgba(212,175,55,0.22)',
-  badge: 'bg-[rgba(212,175,55,0.08)] text-[rgba(212,175,55,0.7)] border-[rgba(212,175,55,0.15)]',
-}
+const FALLBACK_BADGE =
+  'bg-[rgba(212,175,55,0.08)] text-[rgba(212,175,55,0.7)] border-[rgba(212,175,55,0.15)]'
+
+const LENS_BADGE =
+  'border-zinc-300 text-zinc-500 dark:border-white/[0.12] dark:text-zinc-400'
 
 /* ── Types ──────────────────────────────────────────────────────── */
 
@@ -77,6 +37,7 @@ export interface ArticleItem {
   published_at: string | null
   reading_time_minutes: number | null
   featured: boolean
+  tags: string[] | null
   entity_tags: {
     is_primary: boolean
     entities: EntityInfo | null
@@ -87,15 +48,12 @@ function getPrimaryEntity(article: ArticleItem): EntityInfo | null {
   return article.entity_tags?.find(t => t.is_primary && t.entities)?.entities ?? null
 }
 
-function getCfg(category: string | undefined) {
-  return (category && CATEGORY_CONFIG[category]) ? CATEGORY_CONFIG[category] : FALLBACK_CONFIG
-}
-
 /* ── Featured hero card ─────────────────────────────────────────── */
 
 function FeaturedCard({ article }: { article: ArticleItem }) {
   const entity = getPrimaryEntity(article)
-  const cfg = getCfg(entity?.category)
+  const cfg = categoryCardStyle(entity?.category)
+  const lens = lensOf(article.tags)
 
   return (
     <Link
@@ -133,10 +91,15 @@ function FeaturedCard({ article }: { article: ArticleItem }) {
         {entity && (
           <>
             <span className="text-zinc-300 dark:text-white/10">·</span>
-            <span className={`inline-block rounded-full border px-2.5 py-0.5 text-[9px] font-medium tracking-wider uppercase ${cfg.badge}`}>
-              {getCfg(entity.category).label}
+            <span className={`inline-block rounded-full border px-2.5 py-0.5 text-[9px] font-medium tracking-wider uppercase ${categoryStyle(entity.category)}`}>
+              {categoryLabel(entity.category)}
             </span>
           </>
+        )}
+        {lens && (
+          <span className={`inline-block rounded-full border px-2.5 py-0.5 text-[9px] font-medium tracking-wider uppercase ${LENS_BADGE}`}>
+            {lensLabel(lens)}
+          </span>
         )}
       </div>
 
@@ -170,7 +133,8 @@ function FeaturedCard({ article }: { article: ArticleItem }) {
 
 function ArticleCard({ article }: { article: ArticleItem }) {
   const entity = getPrimaryEntity(article)
-  const cfg = getCfg(entity?.category)
+  const cfg = categoryCardStyle(entity?.category)
+  const lens = lensOf(article.tags)
 
   return (
     <Link
@@ -199,11 +163,16 @@ function ArticleCard({ article }: { article: ArticleItem }) {
         {entity?.name_arabic ?? MUQATTAAT[article.slug.charCodeAt(0) % MUQATTAAT.length]}
       </div>
 
-      {/* Category badge */}
-      <div className="relative mb-3">
-        <span className={`inline-block rounded-full border px-2 py-0.5 text-[9px] font-medium tracking-wider uppercase ${cfg.badge}`}>
-          {entity ? getCfg(entity.category).label : 'Article'}
+      {/* Category + lens badges */}
+      <div className="relative mb-3 flex flex-wrap items-center gap-1.5">
+        <span className={`inline-block rounded-full border px-2 py-0.5 text-[9px] font-medium tracking-wider uppercase ${entity ? categoryStyle(entity.category) : FALLBACK_BADGE}`}>
+          {entity ? categoryLabel(entity.category) : 'Article'}
         </span>
+        {lens && (
+          <span className={`inline-block rounded-full border px-2 py-0.5 text-[9px] font-medium tracking-wider uppercase ${LENS_BADGE}`}>
+            {lensLabel(lens)}
+          </span>
+        )}
       </div>
 
       {/* Title */}
@@ -236,14 +205,26 @@ function ArticleCard({ article }: { article: ArticleItem }) {
 
 /* ── Main grid component ────────────────────────────────────────── */
 
-const FILTER_CATS = Object.entries(CATEGORY_CONFIG).map(([key, v]) => ({ key, label: v.label }))
-
 export function ArticlesGrid({ articles }: { articles: ArticleItem[] }) {
   const [search, setSearch] = useState('')
   const [activeCategory, setActiveCategory] = useState<string>('All')
+  const [activeLens, setActiveLens] = useState<string>('All')
 
   const isSearching = search.trim().length > 0
-  const isFiltering = activeCategory !== 'All'
+  const isFiltering = activeCategory !== 'All' || activeLens !== 'All'
+
+  // Only offer filters that match at least one article
+  const presentCategories = useMemo(() => {
+    const present = new Set(
+      articles.map(a => getPrimaryEntity(a)?.category).filter(Boolean) as string[]
+    )
+    return CATEGORY_ORDER.filter(c => present.has(c))
+  }, [articles])
+
+  const presentLenses = useMemo(() => {
+    const present = new Set(articles.map(a => lensOf(a.tags)).filter(Boolean) as ArticleLens[])
+    return LENS_ORDER.filter(l => present.has(l))
+  }, [articles])
 
   const featuredArticles = useMemo(
     () => articles.filter(a => a.featured),
@@ -256,10 +237,12 @@ export function ArticlesGrid({ articles }: { articles: ArticleItem[] }) {
       // In default view, featured articles appear in the hero — exclude from grid
       if (!isSearching && !isFiltering && a.featured) return false
 
-      if (isFiltering) {
+      if (activeCategory !== 'All') {
         const entity = getPrimaryEntity(a)
         if (!entity || entity.category !== activeCategory) return false
       }
+
+      if (activeLens !== 'All' && lensOf(a.tags) !== activeLens) return false
 
       if (q) {
         return (
@@ -271,7 +254,7 @@ export function ArticlesGrid({ articles }: { articles: ArticleItem[] }) {
 
       return true
     })
-  }, [articles, search, activeCategory, isSearching, isFiltering])
+  }, [articles, search, activeCategory, activeLens, isSearching, isFiltering])
 
   return (
     <>
@@ -296,8 +279,8 @@ export function ArticlesGrid({ articles }: { articles: ArticleItem[] }) {
           </div>
 
           <div className="flex flex-wrap gap-2">
-            {(['All', ...FILTER_CATS.map(c => c.key)] as string[]).map(cat => {
-              const label = cat === 'All' ? 'All' : (CATEGORY_CONFIG[cat]?.label ?? cat)
+            {['All', ...presentCategories].map(cat => {
+              const label = cat === 'All' ? 'All' : categoryLabel(cat)
               return (
                 <button
                   key={cat}
@@ -313,6 +296,30 @@ export function ArticlesGrid({ articles }: { articles: ArticleItem[] }) {
               )
             })}
           </div>
+
+          {presentLenses.length > 0 && (
+            <div className="flex flex-wrap items-center gap-2">
+              <span className="text-[10px] font-medium tracking-[0.15em] uppercase text-zinc-400 dark:text-zinc-600">
+                Lens
+              </span>
+              {['All', ...presentLenses].map(lens => {
+                const label = lens === 'All' ? 'All' : lensLabel(lens)
+                return (
+                  <button
+                    key={lens}
+                    onClick={() => setActiveLens(lens)}
+                    className={`rounded-full border px-3 py-1 text-[11px] font-medium transition-all duration-200 ${
+                      activeLens === lens
+                        ? 'border-[rgba(212,175,55,0.35)] bg-[rgba(212,175,55,0.12)] text-[#C9A84C]'
+                        : 'border-zinc-300 text-zinc-500 hover:border-zinc-400 hover:text-zinc-700 dark:border-zinc-800 dark:text-zinc-500 dark:hover:border-zinc-700 dark:hover:text-zinc-300'
+                    }`}
+                  >
+                    {label}
+                  </button>
+                )
+              })}
+            </div>
+          )}
         </div>
       </div>
 
@@ -337,7 +344,8 @@ export function ArticlesGrid({ articles }: { articles: ArticleItem[] }) {
 
         <p className="text-center text-xs text-zinc-400 dark:text-zinc-700">
           {filtered.length} of {articles.length} articles
-          {isFiltering ? ` · ${CATEGORY_CONFIG[activeCategory]?.label ?? activeCategory}` : ''}
+          {activeCategory !== 'All' ? ` · ${categoryLabel(activeCategory)}` : ''}
+          {activeLens !== 'All' ? ` · ${lensLabel(activeLens)}` : ''}
           {isSearching ? ` · "${search.trim()}"` : ''}
         </p>
       </div>
