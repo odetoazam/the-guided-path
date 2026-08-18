@@ -325,7 +325,7 @@ export default function MethodologyPage() {
               a &#7717;ad&#299;th without a reference &mdash; please tell us.
             </P>
             <P>
-              Email: <a href="mailto:corrections@ayahguide.com" className="text-[rgba(212,175,55,0.85)] hover:text-[rgba(212,175,55,1)] underline-offset-2 hover:underline">corrections@ayahguide.com</a>.
+              Write to us through <a href="/contact" className="text-[rgba(212,175,55,0.85)] hover:text-[rgba(212,175,55,1)] underline-offset-2 hover:underline">the contact form</a>.
               Every correction received from a credentialed source is reviewed within fourteen days,
               and we publish a changelog for substantive corrections that affect interpretation.
             </P>

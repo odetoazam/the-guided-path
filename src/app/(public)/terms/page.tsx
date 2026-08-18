@@ -217,7 +217,7 @@ export default function TermsPage() {
           </p>
           <ul>
             <li>
-              Email: <a href="mailto:contact@ayahguide.com" className="text-[rgba(212,175,55,0.85)] hover:underline">contact@ayahguide.com</a>
+              Write to us through <a href="/contact" className="text-[rgba(212,175,55,0.85)] hover:underline">the contact form</a>
             </li>
             <li>
               Website: <Link href="/" className="text-[rgba(212,175,55,0.85)] hover:underline">ayahguide.com</Link>

@@ -73,3 +73,12 @@ export type SubscriberInput = z.infer<typeof subscriberSchema>
 export type LoginInput = z.infer<typeof loginSchema>
 export type EntityTagInput = z.infer<typeof entityTagSchema>
 export type AyahRecordInput = z.infer<typeof ayahRecordSchema>
+
+export const correctionSchema = z.object({
+  kind: z.enum(['correction', 'scholar', 'press', 'general']).default('correction'),
+  name: z.string().trim().min(1, 'Name is required').max(120),
+  email: z.string().trim().email('A valid email is required').max(200),
+  credentials: z.string().trim().max(500).optional().or(z.literal('')),
+  page_url: z.string().trim().max(500).optional().or(z.literal('')),
+  message: z.string().trim().min(20, 'Please include enough detail to act on').max(5000),
+})

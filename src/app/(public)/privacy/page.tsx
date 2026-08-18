@@ -274,13 +274,13 @@ export default function PrivacyPage() {
           </ul>
           <p>
             To submit a verifiable consumer request, contact us
-            at <a href="mailto:support@ayahguide.com" className="text-[rgba(212,175,55,0.85)] hover:underline">support@ayahguide.com</a>.
+            through <a href="/contact" className="text-[rgba(212,175,55,0.85)] hover:underline">the contact form</a>.
             We will respond within 45 days (extendable by an additional 45 days when necessary).
             You may designate an authorized agent to make requests on your behalf.
           </p>
           <p>
             To exercise any other privacy right, contact us
-            at <a href="mailto:support@ayahguide.com" className="text-[rgba(212,175,55,0.85)] hover:underline">support@ayahguide.com</a>.
+            through <a href="/contact" className="text-[rgba(212,175,55,0.85)] hover:underline">the contact form</a>.
             We will respond within 30 days.
           </p>
 
@@ -289,7 +289,7 @@ export default function PrivacyPage() {
             Every newsletter email includes an unsubscribe link at the bottom. You can unsubscribe at
             any time with a single click. Once you unsubscribe, you will no longer receive newsletter
             emails from us. You may also contact us
-            at <a href="mailto:support@ayahguide.com" className="text-[rgba(212,175,55,0.85)] hover:underline">support@ayahguide.com</a> to
+            through <a href="/contact" className="text-[rgba(212,175,55,0.85)] hover:underline">the contact form</a> to
             request removal from our mailing list.
           </p>
 
@@ -298,7 +298,7 @@ export default function PrivacyPage() {
             We retain your email address for as long as you remain subscribed to our newsletter.
             When you unsubscribe, your email address is marked as unsubscribed in our system.
             You may request complete deletion of your data at any time by
-            contacting <a href="mailto:support@ayahguide.com" className="text-[rgba(212,175,55,0.85)] hover:underline">support@ayahguide.com</a>.
+            using <a href="/contact" className="text-[rgba(212,175,55,0.85)] hover:underline">the contact form</a>.
           </p>
           <p>
             Aggregate analytics data (which does not identify individuals) may be retained indefinitely
@@ -335,7 +335,7 @@ export default function PrivacyPage() {
           </p>
           <ul>
             <li>
-              Email: <a href="mailto:support@ayahguide.com" className="text-[rgba(212,175,55,0.85)] hover:underline">support@ayahguide.com</a>
+              Write to us through <a href="/contact" className="text-[rgba(212,175,55,0.85)] hover:underline">the contact form</a>
             </li>
             <li>
               Website: <Link href="/" className="text-[rgba(212,175,55,0.85)] hover:underline">ayahguide.com</Link>

@@ -1,5 +1,6 @@
 import type { Metadata } from 'next'
 import Link from 'next/link'
+import { CorrectionForm } from '@/components/contact/CorrectionForm'
 import { CANONICAL_URL, SITE_NAME } from '@/lib/constants'
 
 const pageUrl = `${CANONICAL_URL}/contact`
@@ -52,7 +53,7 @@ interface ChannelProps {
   turnaround: string
 }
 
-function Channel({ label, email, description, turnaround }: ChannelProps) {
+function Channel({ label, description, turnaround }: ChannelProps) {
   return (
     <div className="rounded-xl border border-zinc-200 dark:border-zinc-800 bg-zinc-50/80 dark:bg-zinc-900/40 p-5">
       <div className="flex flex-wrap items-baseline justify-between gap-3">
@@ -60,12 +61,7 @@ function Channel({ label, email, description, turnaround }: ChannelProps) {
         <span className="text-[11px] uppercase tracking-[0.14em] text-[rgba(212,175,55,0.7)]">{turnaround}</span>
       </div>
       <p className="mt-2 text-sm leading-relaxed text-zinc-500 dark:text-zinc-400">{description}</p>
-      <a
-        href={`mailto:${email}`}
-        className="mt-3 inline-block font-mono text-sm text-[rgba(212,175,55,0.85)] hover:text-[rgba(212,175,55,1)] underline-offset-2 hover:underline transition-colors"
-      >
-        {email}
-      </a>
+
     </div>
   )
 }
@@ -94,8 +90,12 @@ export default function ContactPage() {
               Contact
             </h1>
             <p className="mx-auto mt-3 max-w-xl text-sm leading-relaxed text-zinc-500 dark:text-zinc-400">
-              Every email is read by a human. Route your message to the right channel below.
+              Every message is read by a human. Use the form below and pick the channel it belongs to.
             </p>
+          </div>
+
+          <div className="mt-10">
+            <CorrectionForm />
           </div>
 
           <div className="mt-10 space-y-4">

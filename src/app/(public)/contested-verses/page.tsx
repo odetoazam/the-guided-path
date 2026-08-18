@@ -355,7 +355,7 @@ export default function ContestedVersesPage() {
             </P>
             <P>
               We welcome direct contact from credentialed journalists and researchers:{' '}
-              <a href="mailto:press@ayahguide.com" className="text-[rgba(212,175,55,0.85)] hover:text-[rgba(212,175,55,1)] underline-offset-2 hover:underline">press@ayahguide.com</a>.
+              <a href="/contact" className="text-[rgba(212,175,55,0.85)] hover:text-[rgba(212,175,55,1)] underline-offset-2 hover:underline">the contact form</a>.
               Our editorial standards and source base are described in{' '}
               <Link href="/methodology" className="text-[rgba(212,175,55,0.85)] hover:text-[rgba(212,175,55,1)] underline-offset-2 hover:underline">Our Methodology</Link>.
             </P>
@@ -375,7 +375,7 @@ export default function ContestedVersesPage() {
               pulled out of context, still contains either a cross-reference, a condition, or a
               qualification that resists the bad-faith reading. Where we have failed to meet that
               standard, please tell us at{' '}
-              <a href="mailto:corrections@ayahguide.com" className="text-[rgba(212,175,55,0.85)] hover:text-[rgba(212,175,55,1)] underline-offset-2 hover:underline">corrections@ayahguide.com</a>.
+              <a href="/contact" className="text-[rgba(212,175,55,0.85)] hover:text-[rgba(212,175,55,1)] underline-offset-2 hover:underline">the contact form</a>.
               We will fix it.
             </P>
           </section>

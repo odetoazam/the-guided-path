@@ -246,20 +246,10 @@ export default function AboutPage() {
           <section id="contact">
             <H2 id="contact">Contact</H2>
             <P>
-              <strong className="text-zinc-600 dark:text-zinc-300">Corrections:</strong>{' '}
-              <a href="mailto:corrections@ayahguide.com" className="text-[rgba(212,175,55,0.85)] hover:text-[rgba(212,175,55,1)] underline-offset-2 hover:underline">corrections@ayahguide.com</a>
-            </P>
-            <P>
-              <strong className="text-zinc-600 dark:text-zinc-300">Scholars and institutions:</strong>{' '}
-              <a href="mailto:scholars@ayahguide.com" className="text-[rgba(212,175,55,0.85)] hover:text-[rgba(212,175,55,1)] underline-offset-2 hover:underline">scholars@ayahguide.com</a>
-            </P>
-            <P>
-              <strong className="text-zinc-600 dark:text-zinc-300">Press and media:</strong>{' '}
-              <a href="mailto:press@ayahguide.com" className="text-[rgba(212,175,55,0.85)] hover:text-[rgba(212,175,55,1)] underline-offset-2 hover:underline">press@ayahguide.com</a>
-            </P>
-            <P>
-              <strong className="text-zinc-600 dark:text-zinc-300">General:</strong>{' '}
-              <a href="mailto:hello@ayahguide.com" className="text-[rgba(212,175,55,0.85)] hover:text-[rgba(212,175,55,1)] underline-offset-2 hover:underline">hello@ayahguide.com</a>
+              Corrections, scholar and institutional enquiries, press requests and general
+              questions all go through{' '}
+              <a href="/contact" className="text-[rgba(212,175,55,0.85)] hover:text-[rgba(212,175,55,1)] underline-offset-2 hover:underline">the contact form</a>,
+              where you can pick which of those it is. Every message is read by a human.
             </P>
           </section>
         </div>
