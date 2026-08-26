@@ -392,3 +392,18 @@
     @apply mt-2 block text-xs not-italic tracking-wide text-zinc-400 dark:text-cream/35;
   }
 }
+
+/* Non-Quranic quotations inside course modules (scholars, athar) — must NOT wear
+   the ayah-quote livery. Flagged in the 2026-08-26 adversarial review: a human
+   quote in Quran styling is an adab problem and is invisible to ayah validators. */
+@layer components {
+  .course-content blockquote.source-quote {
+    @apply my-8 border-l-2 border-zinc-300 pl-5 text-zinc-600 dark:border-white/[0.12] dark:text-cream/70;
+  }
+  .course-content blockquote.source-quote p {
+    @apply text-base leading-relaxed;
+  }
+  .course-content blockquote.source-quote cite {
+    @apply mt-2 block text-xs not-italic tracking-wide text-zinc-400 dark:text-cream/35;
+  }
+}
