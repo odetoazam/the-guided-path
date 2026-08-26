@@ -132,6 +132,61 @@ export const COURSES: Course[] = [
       },
     ],
   },
+  {
+    slug: 'iblis',
+    hubSlug: 'iblis',
+    figure: 'Iblīs',
+    figureArabic: 'إِبْلِيس',
+    title: 'The Refusal That Had a Reason',
+    question: 'What actually decides whether you are moved by something you cannot see?',
+    description:
+      'Nine of the eleven verses that name him are the same scene, so this is not a life story — it is an anatomy of a method, declared out loud once and running ever since. Six modules through every verse, with the limit welded onto every stage: the apparatus has enormous reach and no force at all.',
+    spine: 'istikbār — the arrogance that closed the only exit',
+    modules: [
+      {
+        slug: 'the-scene',
+        number: 0,
+        title: 'Start Here — The Scene',
+        teaser:
+          'The refusal, told straight — and the honest frame: why there is no arc here, and what we are studying instead.',
+      },
+      {
+        slug: 'i-am-better-than-him',
+        number: 1,
+        title: '"I Am Better Than Him"',
+        teaser:
+          'The one sentence he says twice, word for word. Taken seriously enough to show why it is well-formed — and then what it leaves out.',
+      },
+      {
+        slug: 'the-machine',
+        number: 2,
+        title: 'The Machine',
+        teaser:
+          'What he actually does. Every verb the Quran uses, why not one of them is coercive, and why you cannot tell his voice from your own.',
+      },
+      {
+        slug: 'the-switch',
+        number: 3,
+        title: 'The Switch',
+        teaser:
+          'Two verses that are exact opposites, one variable running between them, and the reason the Quran\'s answer to an unseen adversary is not armour.',
+      },
+      {
+        slug: 'what-the-quran-wont-tell-you',
+        number: 4,
+        title: "What the Quran Won't Tell You",
+        teaser:
+          'No serpent, no name, no face — and a twelve-century disagreement left open. Plus the verse that says he never knew: he guessed.',
+      },
+      {
+        slug: 'blame-yourselves',
+        number: 5,
+        title: 'Blame Yourselves',
+        teaser:
+          'His two closing statements, both disavowals — and the sentence that separates him from the first human being. It is the same sentence.',
+      },
+    ],
+  },
 ]
 
 export const COURSES_BY_SLUG: Record<string, Course> = Object.fromEntries(

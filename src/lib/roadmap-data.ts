@@ -62,6 +62,7 @@ export const ROADMAP = {
   ],
 
   shipped: [
+    { title: 'Course 3 — Iblīs: The Refusal That Had a Reason. Six modules, built from the 14-edition tafsir reports rather than the reflections (a new substrate scanner showed 23 of 28 supporting files had never been interpretively read). Teaches the 18:50 angel/jinn ikhtilāf with named holders on both sides without resolving it', date: 'Aug 2026' },
     { title: 'Courses launched free: Dāwūd (The Return Inside the Crown) and Sulaymān (Am I Grateful or Ungrateful?) — 12 modules, every ayah verified against the Uthmani text, wired into the prophet hubs and /prophets with per-module progress', date: 'Aug 2026' },
     { title: 'Tafsir source coverage 4 → 14 editions: the 353 "fabricated citation" files were our own blind spot, not a content defect — flags 353 → 0, and not one file was fixed by editing a reflection', date: 'Aug 2026' },
     { title: 'validation_level stamped on all 3,031 reflections (read vs mechanical) — 2,235 said validated:true and zero had passed a read that can catch a wrong idea', date: 'Aug 2026' },
