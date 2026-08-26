@@ -3,6 +3,7 @@ import { CANONICAL_URL } from '@/lib/constants'
 import { SURAHS, surahSlug } from '@/lib/surahs'
 import { GLOSSARY_TERMS } from '@/data/glossary'
 import { PATHS } from '@/data/paths'
+import { COURSES } from '@/data/courses'
 
 import { MetadataRoute } from 'next'
 
@@ -22,6 +23,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     { url: `${CANONICAL_URL}/ulum-al-quran`, lastModified: now, changeFrequency: 'monthly', priority: 0.8 },
     { url: `${CANONICAL_URL}/articles`, lastModified: now, changeFrequency: 'daily', priority: 0.8 },
     { url: `${CANONICAL_URL}/paths`, lastModified: now, changeFrequency: 'monthly', priority: 0.8 },
+    { url: `${CANONICAL_URL}/courses`, lastModified: now, changeFrequency: 'monthly', priority: 0.85 },
     { url: `${CANONICAL_URL}/names`, lastModified: now, changeFrequency: 'weekly', priority: 0.85 },
     { url: `${CANONICAL_URL}/prophets`, lastModified: now, changeFrequency: 'weekly', priority: 0.85 },
     { url: `${CANONICAL_URL}/glossary`, lastModified: now, changeFrequency: 'weekly', priority: 0.75 },
@@ -33,6 +35,24 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     { url: `${CANONICAL_URL}/privacy`, lastModified: now, changeFrequency: 'yearly', priority: 0.3 },
     { url: `${CANONICAL_URL}/terms`, lastModified: now, changeFrequency: 'yearly', priority: 0.3 },
   ]
+
+  // Courses — the depth tier
+  for (const course of COURSES) {
+    entries.push({
+      url: `${CANONICAL_URL}/courses/${course.slug}`,
+      lastModified: now,
+      changeFrequency: 'monthly',
+      priority: 0.85,
+    })
+    for (const mod of course.modules) {
+      entries.push({
+        url: `${CANONICAL_URL}/courses/${course.slug}/${mod.slug}`,
+        lastModified: now,
+        changeFrequency: 'monthly',
+        priority: 0.7,
+      })
+    }
+  }
 
   // Guided Paths — seeker entry points, high priority
   for (const path of PATHS) {

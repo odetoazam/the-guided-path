@@ -1,7 +1,7 @@
 // ── Updated by /cofounder skill at session end ────────────────────────────────
 
 export const ROADMAP = {
-  lastUpdated: 'April 20, 2026',
+  lastUpdated: 'August 26, 2026',
 
   content: {
     totalAyahs: 6236,
@@ -62,6 +62,31 @@ export const ROADMAP = {
   ],
 
   shipped: [
+    { title: 'Courses launched free: Dāwūd (The Return Inside the Crown) and Sulaymān (Am I Grateful or Ungrateful?) — 12 modules, every ayah verified against the Uthmani text, wired into the prophet hubs and /prophets with per-module progress', date: 'Aug 2026' },
+    { title: 'Tafsir source coverage 4 → 14 editions: the 353 "fabricated citation" files were our own blind spot, not a content defect — flags 353 → 0, and not one file was fixed by editing a reflection', date: 'Aug 2026' },
+    { title: 'validation_level stamped on all 3,031 reflections (read vs mechanical) — 2,235 said validated:true and zero had passed a read that can catch a wrong idea', date: 'Aug 2026' },
+    { title: 'Two quarantined files rebuilt through the skill (30:49, 33:43); three remain', date: 'Aug 2026' },
+    { title: 'Calibration-batch verdicts worked: 11 tadabburs repaired against their tafsir reports + corpus, 5 quarantined for regeneration with briefs (docs/rebuild-register-2026-08-08.md)', date: 'Aug 2026' },
+    { title: 'Divine names cluster: 31 of 99 written (waves 1-5), each with an entity + hub; /names index live with all 99', date: 'Aug 2026' },
+    { title: '/names counts audited and repaired: 9 of 99 were wrong (Al-Malik read 152 — 88 of those were malak, ANGEL). Three published articles carried the error. audit-divine-name-counts.mjs now verifies all 99 on demand', date: 'Aug 2026' },
+    { title: 'Content category playbook written — Index/Entry/Depth layers, the 5-step overlap scan, the validator traps', date: 'Aug 2026' },
+    { title: 'Interpretive-read gate: 50 files read, 24 activated, 0 false theses; 3 frontmatter Arabic defects + 16 script-corruption spots repaired', date: 'Jul 2026' },
+    { title: 'Guided paths repaired: all 20 stops now land on real content (was 13)', date: 'Jul 2026' },
+    { title: 'Hub synthesis backlog closed — 25 written; every hub with 3+ articles has a real overview', date: 'Jul 2026' },
+    { title: '4 corpus-verified articles filling empty path hubs (tadabbur, tawakkul, khushu, nazm)', date: 'Jul 2026' },
+    { title: 'Ayah records tagged into the graph: 398 tags, 35 -> 160 records connected, 4 -> 44 hubs', date: 'Jul 2026' },
+    { title: 'Sitemap repair: articles were entirely omitted (Next Data-Cache froze the Supabase read)', date: 'Jul 2026' },
+    { title: 'Landing redesign (advisor/persona-tested): content-forward hero, articles surfaced, honest paths band', date: 'Jul 2026' },
+    { title: 'Paths distribution: /paths index + attribution strips on article/hub pages (instrumented)', date: 'Jul 2026' },
+    { title: 'FAQ AEO layer: 36 Q&As across top-10 organic articles (FAQPage schema 1→11)', date: 'Jul 2026' },
+    { title: 'Quranic economics article cluster (5 corpus-verified articles + Fable QA pass)', date: 'Jul 2026' },
+    { title: 'Motif-level munāsabāt review: 643 roots, +669 confirmed edges with quotable bases', date: 'Jul 2026' },
+    { title: 'Graph substrate hardening: freshness gate, provenance-preserving promotion, validation triage (0 defects)', date: 'Jul 2026' },
+    { title: 'Corpus coverage COMPLETE — all 6,236 ayahs', date: 'Jul 2026' },
+    { title: 'NORTH-STAR.md standing decisions + adversarial review (docs/)', date: 'Jul 2026' },
+    { title: 'Graph node validation gate + edge discovery pass (77,827 proposals)', date: 'Jul 2026' },
+    { title: 'Tadabbur corpus ~97% coverage (109 surahs, 801 tafsir reports)', date: 'Jun 2026' },
+    { title: 'Semantic meaning-layer validated end-to-end (graph-lab)', date: 'Jun 2026' },
     { title: '114 surah overview pages', date: 'Mar 2026' },
     { title: 'Entity hub system (101 hubs, full audit)', date: 'Apr 2026' },
     { title: 'Auth + reading layer (history, favorites, notes)', date: 'Apr 2026' },

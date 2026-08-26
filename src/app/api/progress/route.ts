@@ -10,8 +10,8 @@ export async function POST(request: Request) {
   if (!slug || typeof slug !== 'string') {
     return NextResponse.json({ error: 'slug required' }, { status: 400 })
   }
-  if (type !== 'post' && type !== 'surah') {
-    return NextResponse.json({ error: 'type must be post or surah' }, { status: 400 })
+  if (type !== 'post' && type !== 'surah' && type !== 'course') {
+    return NextResponse.json({ error: 'type must be post, surah, or course' }, { status: 400 })
   }
 
   const { error } = await supabase

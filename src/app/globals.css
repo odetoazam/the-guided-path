@@ -370,3 +370,25 @@
     scrollbar-width: none;
   }
 }
+
+/* ── Course module content (content/courses/…/module-N.html) ─────────────── */
+@layer components {
+  .course-content blockquote.ayah-quote {
+    @apply my-8 rounded-2xl border border-[rgba(201,168,76,0.25)] bg-[rgba(201,168,76,0.04)] px-6 py-5;
+    border-left-width: 3px;
+  }
+  .course-content blockquote.ayah-quote .arabic {
+    direction: rtl;
+    text-align: right;
+    font-family: var(--font-arabic);
+    @apply text-xl sm:text-2xl leading-[2.2] text-[#8a6d2f] dark:text-[rgba(212,175,55,0.85)];
+    word-break: break-word;
+    overflow-wrap: anywhere;
+  }
+  .course-content blockquote.ayah-quote .translation {
+    @apply mt-3 text-base italic leading-relaxed text-zinc-600 dark:text-cream/70;
+  }
+  .course-content blockquote.ayah-quote cite {
+    @apply mt-2 block text-xs not-italic tracking-wide text-zinc-400 dark:text-cream/35;
+  }
+}

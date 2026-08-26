@@ -1,4 +1,5 @@
 import { notFound } from 'next/navigation'
+import Link from 'next/link'
 import type { Metadata } from 'next'
 import { createClient } from '@/lib/supabase/server'
 import { CANONICAL_URL, SITE_NAME } from '@/lib/constants'
@@ -8,6 +9,7 @@ import { PathAttribution } from '@/components/paths/PathAttribution'
 import type { Entity, EntityCategory } from '@/types'
 import { CATEGORY_LABELS, CATEGORY_STYLES } from '@/lib/entity-categories'
 import { REFLECTIONS_PUBLIC } from '@/lib/reflections-access'
+import { getCourseByHubSlug } from '@/data/courses'
 
 interface Props {
   params: Promise<{ slug: string }>
@@ -280,6 +282,34 @@ export default async function HubPage({ params }: Props) {
           </div>
         </div>
       </div>
+
+      {/* ── Course card (figures with a full course) ───────────────────────── */}
+      {(() => {
+        const course = getCourseByHubSlug(slug)
+        if (!course) return null
+        return (
+          <div className="px-5 pt-10">
+            <Link
+              href={`/courses/${course.slug}`}
+              className="group mx-auto flex max-w-2xl flex-col gap-1 rounded-2xl border border-[rgba(201,168,76,0.35)] bg-[rgba(201,168,76,0.05)] p-6 transition-colors hover:border-[rgba(201,168,76,0.6)]"
+            >
+              <span className="text-[10px] font-medium uppercase tracking-[0.2em] text-[rgba(184,149,63,0.9)] dark:text-[rgba(212,175,55,0.6)]">
+                Free course · {course.modules.length} modules
+              </span>
+              <span className="font-serif text-lg font-bold text-navy transition-colors group-hover:text-[#b8953f] dark:text-cream dark:group-hover:text-[rgba(212,175,55,0.9)]">
+                {course.figure}: {course.title}
+              </span>
+              <span className="text-sm leading-relaxed text-zinc-500 dark:text-zinc-400">
+                {course.question} Start with the story, end with the one word his
+                whole life turns on.
+              </span>
+              <span className="mt-1 text-xs text-[rgba(212,175,55,0.55)] transition-all group-hover:translate-x-0.5 group-hover:text-[rgba(212,175,55,0.85)]">
+                Start the course →
+              </span>
+            </Link>
+          </div>
+        )
+      })()}
 
       {/* ── Tabbed content ─────────────────────────────────────────────────── */}
       <div className="pt-10">

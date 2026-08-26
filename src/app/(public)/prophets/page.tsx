@@ -3,6 +3,7 @@ import type { Metadata } from 'next'
 import { createAdminClient } from '@/lib/supabase/admin'
 import { PROPHETS, OTHER_FIGURES, type QuranicFigure } from '@/data/quranic-figures'
 import { CANONICAL_URL } from '@/lib/constants'
+import { getCourseByHubSlug } from '@/data/courses'
 
 export const revalidate = 3600
 export const fetchCache = 'force-no-store'
@@ -76,13 +77,23 @@ function FigureRow({ f, counts }: { f: QuranicFigure; counts: Record<string, num
       <td className="py-3 pr-3 text-zinc-600 dark:text-cream/65">{f.english}</td>
       <td className="py-3 pr-3 tabular-nums text-zinc-600 dark:text-cream/65">{f.count}×</td>
       <td className="py-3 text-sm text-zinc-500 dark:text-cream/50">
-        {n > 0 ? (
-          <Link href={`/hub/${f.hubSlug}`} className="hover:text-gold-500">
-            {n} article{n === 1 ? '' : 's'}
-          </Link>
-        ) : (
-          <span className="text-xs italic text-zinc-400 dark:text-cream/35">not yet written</span>
-        )}
+        <span className="inline-flex flex-wrap items-center gap-2">
+          {f.hubSlug && getCourseByHubSlug(f.hubSlug) && (
+            <Link
+              href={`/courses/${getCourseByHubSlug(f.hubSlug)!.slug}`}
+              className="rounded-full border border-[rgba(201,168,76,0.4)] px-2 py-0.5 text-[10px] font-medium uppercase tracking-wide text-[#b8953f] hover:bg-[rgba(201,168,76,0.08)] dark:text-[rgba(212,175,55,0.85)]"
+            >
+              Course
+            </Link>
+          )}
+          {n > 0 ? (
+            <Link href={`/hub/${f.hubSlug}`} className="hover:text-gold-500">
+              {n} article{n === 1 ? '' : 's'}
+            </Link>
+          ) : (
+            <span className="text-xs italic text-zinc-400 dark:text-cream/35">not yet written</span>
+          )}
+        </span>
       </td>
     </tr>
   )
