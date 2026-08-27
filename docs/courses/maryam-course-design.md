@@ -55,9 +55,11 @@ God ran for her; three questions; close on ar-Raḥmān).
   «والصحيح أن مريم نبية»** (waḥy via the angel, as to the prophets); **Ibn ʿĀshūr** allows
   nubūʾa-without-risāla for women. The other side: seeing an angel ≠ prophethood (the
   Companions saw Jibrīl as Diḥya), «وما أرسلنا من قبلك إلا رجالا» limits risāla, and 5:75's
-  ṣiddīqa read as her stated rank. Do NOT quantify "majority" — present names and arguments.
-- **19:24 «فناداها من تحتها»:** Ibn ʿAbbās, ʿAlqama, al-Ḍaḥḥāk, Qatāda = the angel called;
-  a minority = ʿĪsā; **al-Qurṭubī rules «والأول أظهر»**. Present as ruled.
+  ṣiddīqa read as her stated rank. al-Rāzī states the no-side by name («ما كانت من الأنبياء»). Attribute al-Qurṭubī's own «وعليه الأكثر» TO HIM rather than suppressing or adopting it.
+- **19:24 «فناداها من تحتها»:** TWO FACING TARJĪḤS (the Opus review corrected the first
+  draft's "minority" framing): al-Qurṭubī rules the angel (Ibn ʿAbbās, ʿAlqama, al-Ḍaḥḥāk,
+  Qatāda); **al-Ṭabarī rules ʿĪsā** («وأولى القولين... ابنها عيسى») with Mujāhid, al-Ḥasan,
+  Wahb, Saʿīd b. Jubayr, Ibn Zayd, Ubayy b. Kaʿb — and Ibn ʿAṭiyya concurs. Present both.
 - **«وليس الذكر كالأنثى» (3:36):** most read the middle clauses as God's own parenthesis
   over the mother's words (al-Qurṭubī's grammatical case + the Ibn ʿAbbās qirāʾa); handle
   as such, briefly, in M1.
