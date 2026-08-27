@@ -133,6 +133,61 @@ export const COURSES: Course[] = [
     ],
   },
   {
+    slug: 'adam',
+    hubSlug: 'adam',
+    figure: 'Ādam',
+    figureArabic: 'ءَادَم',
+    title: 'We Wronged Ourselves',
+    question: 'When you get it wrong — and you will — what is the sentence that reopens everything?',
+    description:
+      'The first human story: made for the earth, honoured with teaching, beaten once by a forged oath on a forgotten warning — and then handed, by the One he had disobeyed, the exact words that would bring him back. Told seven times across seven chapters; this course walks all of them.',
+    spine: 'tawba — the turn that is met by the Turner',
+    modules: [
+      {
+        slug: 'the-story',
+        number: 0,
+        title: 'Start Here — The Story',
+        teaser:
+          'The whole life assembled honestly from its seven tellings — announcement, honour, whisper, fall, and the words that came down.',
+      },
+      {
+        slug: 'made-and-taught',
+        number: 1,
+        title: 'Made, and Taught',
+        teaser:
+          'Before the fall: what kind of creature this is, what the honour was actually for, and the one variable the angels could not see.',
+      },
+      {
+        slug: 'the-whisper-and-the-forgetting',
+        number: 2,
+        title: 'The Whisper and the Forgetting',
+        teaser:
+          'The first deception in slow motion — the door it came through was a forgotten warning, and the door out was opened from the other side.',
+      },
+      {
+        slug: 'two-sentences',
+        number: 3,
+        title: 'Two Sentences',
+        teaser:
+          'Two beings break one command. One says "we wronged ourselves"; one says "You made me stray" — and the Quran encodes the difference in the grammar of a single root.',
+      },
+      {
+        slug: 'what-the-quran-wont-tell-you',
+        number: 4,
+        title: "What the Quran Won't Tell You",
+        teaser:
+          'No name for the woman, no species for the tree, no serpent, no inherited guilt — and the hard verse, faced with the scholars at the table.',
+      },
+      {
+        slug: 'the-words-you-were-given',
+        number: 5,
+        title: 'The Words You Were Given',
+        teaser:
+          'The repentance was a gift before it was a deed. What the words were, who said so — and the promise made on the way down.',
+      },
+    ],
+  },
+  {
     slug: 'iblis',
     hubSlug: 'iblis',
     figure: 'Iblīs',

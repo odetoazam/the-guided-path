@@ -68,6 +68,7 @@ export const ROADMAP = {
   ],
 
   shipped: [
+    { title: 'Course 4 — Ādam: We Wronged Ourselves. The pair with Iblīs is complete: the fork taught at the grammar level (fa-ghawā vs aghwaytanī, corpus-verified at the form level), the 20:121 ʿiṣma question faced with named scholars (al-Qurṭubī, Ibn Fūrak, al-Rāzī, al-Ālūsī), and the kalimāt dispute presented with al-Ṭabarī\'s ruling as his ruling', date: 'Aug 2026' },
     { title: 'Course 3 — Iblīs: The Refusal That Had a Reason. Six modules, built from the 14-edition tafsir reports rather than the reflections (a new substrate scanner showed 23 of 28 supporting files had never been interpretively read). Teaches the 18:50 angel/jinn ikhtilāf with named holders on both sides without resolving it', date: 'Aug 2026' },
     { title: 'Courses launched free: Dāwūd (The Return Inside the Crown) and Sulaymān (Am I Grateful or Ungrateful?) — 12 modules, every ayah verified against the Uthmani text, wired into the prophet hubs and /prophets with per-module progress', date: 'Aug 2026' },
     { title: 'Tafsir source coverage 4 → 14 editions: the 353 "fabricated citation" files were our own blind spot, not a content defect — flags 353 → 0, and not one file was fixed by editing a reflection', date: 'Aug 2026' },
