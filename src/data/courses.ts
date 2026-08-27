@@ -242,6 +242,61 @@ export const COURSES: Course[] = [
       },
     ],
   },
+  {
+    slug: 'yusuf',
+    hubSlug: 'yusuf',
+    figure: 'Yūsuf',
+    figureArabic: 'يُوسُف',
+    title: 'Nothing Was Wasted',
+    question: 'What happens to the years that look thrown away?',
+    description:
+      'The Quran\'s longest single story, told once, in order — a boy loved, envied, thrown in a well, sold cheap, framed, jailed, forgotten — while one word follows him through every station and the narrator keeps saying, over the worst scenes: thus We established him. Six modules to the only verse where a man names al-Laṭīf over his own life.',
+    spine: 'lā yuḍīʿu ajra l-muḥsinīn — the reward that cannot be wasted',
+    modules: [
+      {
+        slug: 'the-story',
+        number: 0,
+        title: 'Start Here — The Story',
+        teaser:
+          'The best of stories, in the Quran\'s own order — dream to well to prison to throne, and the dream clicking shut at the end.',
+      },
+      {
+        slug: 'loved-and-thrown-away',
+        number: 1,
+        title: 'Loved, and Thrown Away',
+        teaser:
+          'The descent, slowly: a gift that had to be hidden, the anatomy of envy, the bottom of the well — and the thesis-verse planted at the lowest point.',
+      },
+      {
+        slug: 'the-locked-room-and-the-dungeon',
+        number: 2,
+        title: 'The Locked Room and the Dungeon',
+        teaser:
+          'Two scenes up close: the refusal with every incentive against it, the shirt that testified — and what a man who trusts the Weaver does with a prison.',
+      },
+      {
+        slug: 'nothing-was-wasted',
+        number: 3,
+        title: 'Nothing Was Wasted',
+        teaser:
+          'The flagship. One sentence follows Yūsuf from dungeon to dais in the mouths of strangers — and one verse turns every plot in the story inside out.',
+      },
+      {
+        slug: 'what-the-quran-wont-tell-you',
+        number: 4,
+        title: "What the Quran Won't Tell You",
+        teaser:
+          'No name for the woman, no name for the king, years left uncounted — and the hard verse at the story\'s centre, faced with the scholars at the table.',
+      },
+      {
+        slug: 'your-own-wasted-years',
+        number: 5,
+        title: 'Your Own Wasted Years',
+        teaser:
+          'The father who complained only to God, the sentence said twice across decades, the forgiveness the theology made light — and the name to carry home.',
+      },
+    ],
+  },
 ]
 
 export const COURSES_BY_SLUG: Record<string, Course> = Object.fromEntries(

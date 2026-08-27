@@ -68,6 +68,7 @@ export const ROADMAP = {
   ],
 
   shipped: [
+    { title: 'Course 5 — Yūsuf: Nothing Was Wasted. Designed and built in one session through the course skill: the muḥsin refrain mapped as a 5-station spine (12:22/36/56/78/90, corpus-verified), kadhālika kidnā li-Yūsuf as the machinery-reversal, the 12:24 ikhtilāf with named holders, al-Laṭīf landed at 12:100 — the only self-biographical use in the Quran', date: 'Aug 2026' },
     { title: 'Course 4 — Ādam: We Wronged Ourselves. The pair with Iblīs is complete: the fork taught at the grammar level (fa-ghawā vs aghwaytanī, corpus-verified at the form level), the 20:121 ʿiṣma question faced with named scholars (al-Qurṭubī, Ibn Fūrak, al-Rāzī, al-Ālūsī), and the kalimāt dispute presented with al-Ṭabarī\'s ruling as his ruling', date: 'Aug 2026' },
     { title: 'Course 3 — Iblīs: The Refusal That Had a Reason. Six modules, built from the 14-edition tafsir reports rather than the reflections (a new substrate scanner showed 23 of 28 supporting files had never been interpretively read). Teaches the 18:50 angel/jinn ikhtilāf with named holders on both sides without resolving it', date: 'Aug 2026' },
     { title: 'Courses launched free: Dāwūd (The Return Inside the Crown) and Sulaymān (Am I Grateful or Ungrateful?) — 12 modules, every ayah verified against the Uthmani text, wired into the prophet hubs and /prophets with per-module progress', date: 'Aug 2026' },
