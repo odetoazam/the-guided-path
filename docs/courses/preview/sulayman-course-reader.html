@@ -1,0 +1,1131 @@
+<!doctype html>
+<html lang="en" data-theme="light">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow">
+<title>Sulaymān — Am I Grateful or Ungrateful?</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&family=Playfair+Display:wght@500;600;700&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --font-sans:'Inter',system-ui,-apple-system,sans-serif;
+  --font-serif:'Playfair Display',Georgia,'Times New Roman',serif;
+  --font-body:'Source Serif 4',Georgia,'Times New Roman',serif;
+  --font-amiri:'Amiri','Scheherazade New',Georgia,serif;
+  --navy:#1A3A4A; --navy-dark:#0D1B2A; --navy-medium:#162F3D;
+  --cream:#F5F0E8; --cream-muted:#D8D0C4;
+  --gold-400:#DBBF6A; --gold-500:#C9A84C; --gold-600:#B8960C;
+  --bg:#ffffff; --fg:var(--navy); --body-fg:#3f3f46; --rule:#e4e4e7;
+  --panel:rgba(201,168,76,.06);
+}
+:root[data-theme="dark"]{
+  --bg:var(--navy-dark); --fg:var(--cream);
+  --body-fg:rgba(245,240,232,.80); --rule:rgba(245,240,232,.12);
+  --panel:rgba(201,168,76,.07);
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);font-family:var(--font-sans);
+     -webkit-font-smoothing:antialiased;transition:background .2s,color .2s}
+
+/* ── shell ─────────────────────────────────────────────── */
+.wrap{max-width:1180px;margin:0 auto;padding:0 clamp(16px,4vw,40px)}
+.masthead{border-bottom:1px solid var(--rule);padding:38px 0 26px;margin-bottom:8px}
+.kicker{font-size:11px;letter-spacing:.18em;text-transform:uppercase;
+        color:var(--gold-600);font-weight:600}
+:root[data-theme="dark"] .kicker{color:var(--gold-400)}
+.masthead h1{font-family:var(--font-serif);font-weight:600;
+        font-size:clamp(1.9rem,4.4vw,2.9rem);line-height:1.15;margin:.35em 0 .3em}
+.masthead .sub{font-family:var(--font-body);font-size:1.05rem;
+        color:var(--body-fg);max-width:60ch;line-height:1.7;margin:0}
+.held{display:inline-flex;align-items:center;gap:8px;margin-top:18px;
+      font-size:12px;font-weight:600;letter-spacing:.03em;
+      border:1px solid rgba(201,168,76,.45);background:var(--panel);
+      color:var(--gold-600);border-radius:999px;padding:6px 14px}
+:root[data-theme="dark"] .held{color:var(--gold-400)}
+
+.layout{display:grid;grid-template-columns:230px minmax(0,1fr);gap:56px;
+        align-items:start;padding-bottom:120px}
+@media(max-width:900px){.layout{grid-template-columns:1fr;gap:0}}
+
+/* ── side nav ──────────────────────────────────────────── */
+nav.toc{position:sticky;top:24px;padding-top:34px;font-size:13px}
+@media(max-width:900px){nav.toc{position:static;padding:22px 0 6px;
+        border-bottom:1px solid var(--rule);margin-bottom:20px}}
+nav.toc .label{font-size:10px;letter-spacing:.16em;text-transform:uppercase;
+        color:var(--body-fg);opacity:.65;font-weight:700;margin-bottom:12px}
+nav.toc a{display:block;padding:7px 0 7px 13px;margin-left:-1px;
+        border-left:2px solid var(--rule);color:var(--body-fg);
+        text-decoration:none;line-height:1.4;transition:.15s}
+nav.toc a:hover{color:var(--gold-600);border-left-color:var(--gold-500)}
+nav.toc a .n{display:block;font-size:10px;letter-spacing:.1em;
+        text-transform:uppercase;opacity:.6}
+nav.toc a.active{color:var(--gold-600);border-left-color:var(--gold-500);font-weight:600}
+:root[data-theme="dark"] nav.toc a:hover,:root[data-theme="dark"] nav.toc a.active{color:var(--gold-400)}
+nav.toc hr{border:0;border-top:1px solid var(--rule);margin:16px 0 14px}
+
+/* ── module blocks ─────────────────────────────────────── */
+section.module{padding-top:40px;scroll-margin-top:20px}
+section.module + section.module{border-top:1px solid var(--rule);margin-top:64px}
+.mod-num{font-size:11px;letter-spacing:.18em;text-transform:uppercase;
+        color:var(--gold-600);font-weight:600}
+:root[data-theme="dark"] .mod-num{color:var(--gold-400)}
+.mod-title{font-family:var(--font-serif);font-weight:600;
+        font-size:clamp(1.6rem,3.4vw,2.3rem);margin:.3em 0 .1em;line-height:1.2}
+.mod-meta{font-size:12px;color:var(--body-fg);opacity:.6;margin-bottom:26px}
+
+/* ── prose (mirrors .prose-blog in src/app/globals.css) ─── */
+.prose-blog{font-family:var(--font-body);max-width:none}
+.prose-blog p{margin:0 0 1.35em;font-size:1.0625rem;line-height:1.9;color:var(--body-fg)}
+.prose-blog p.text-lg{font-size:1.19rem;line-height:1.8}
+.prose-blog h2{font-family:var(--font-serif);font-weight:600;font-size:1.4rem;
+        margin:2.1em 0 .7em;color:var(--fg);line-height:1.3}
+.prose-blog strong{font-weight:600;color:var(--fg)}
+.prose-blog em{font-style:italic}
+.prose-blog a{color:var(--gold-600);text-decoration:underline;
+        text-underline-offset:4px;text-decoration-color:rgba(201,168,76,.35)}
+:root[data-theme="dark"] .prose-blog a{color:var(--gold-400)}
+
+blockquote.ayah-quote{border-left:4px solid var(--gold-500);
+        padding:4px 0 4px 22px;margin:2em 0;font-style:italic;
+        color:var(--body-fg)}
+blockquote.ayah-quote .arabic{font-style:normal;direction:rtl;text-align:right;
+        word-break:break-word;overflow-wrap:anywhere;margin-bottom:.6em}
+blockquote.ayah-quote .translation{font-size:1.02rem;line-height:1.85;margin:0 0 .5em}
+blockquote.ayah-quote cite{display:block;font-style:normal;font-size:12px;
+        letter-spacing:.08em;text-transform:uppercase;color:var(--gold-600);
+        font-family:var(--font-sans);font-weight:600}
+:root[data-theme="dark"] blockquote.ayah-quote cite{color:var(--gold-400)}
+
+/* ── free-article section ──────────────────────────────── */
+.divider{margin-top:80px;padding-top:34px;border-top:2px solid var(--rule)}
+.divider h2{font-family:var(--font-serif);font-size:1.55rem;margin:.2em 0 .3em}
+.divider p{font-family:var(--font-body);color:var(--body-fg);max-width:62ch;line-height:1.75}
+.slug{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:11.5px;
+      background:var(--panel);border:1px solid var(--rule);border-radius:5px;
+      padding:2px 7px;color:var(--body-fg)}
+
+/* ── theme toggle ──────────────────────────────────────── */
+.toggle{position:fixed;right:18px;bottom:18px;z-index:50;
+        border:1px solid var(--rule);background:var(--bg);color:var(--fg);
+        border-radius:999px;padding:9px 15px;font-size:12px;font-weight:600;
+        cursor:pointer;box-shadow:0 4px 18px rgba(0,0,0,.10)}
+
+.qs{font-family:var(--font-body);color:var(--body-fg);font-size:1.0625rem;line-height:1.85;
+    padding-left:22px;max-width:66ch}
+.qs li{margin-bottom:1em}
+.qs strong{color:var(--fg)}
+.ps{font-family:var(--font-body);color:var(--body-fg);opacity:.75;font-size:.95rem;
+    margin-top:26px;padding-top:18px;border-top:1px solid var(--rule);max-width:66ch}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="masthead">
+    <div class="kicker">A course, in draft</div>
+    <h1>Sulaymān — Am I Grateful or Ungrateful?</h1>
+    <p class="sub">This is an early copy of a course we're building — six short parts, about an hour end to end. It walks through the Quran's portrait of Sulaymān (Solomon): the man given more command over the created world than anyone in the book, and the one question he asks about himself at the summit of it.</p>
+    <p class="sub">Read it the way you'd read anything: at your own pace, skipping what bores you. <strong>Where you stop is the most useful thing you can tell us</strong> — so please notice it rather than pushing through. Three questions at the end.</p>
+  </header>
+  <div class="layout">
+    <nav class="toc">
+      <div class="label">Contents</div>
+      <a href="#m0"><span class="n">Start here</span>The Story</a><a href="#m1"><span class="n">Module 1</span>Everything and Everyone</a><a href="#m2"><span class="n">Module 2</span>The Ant and the Hoopoe</a><a href="#m3"><span class="n">Module 3</span>The Queen and the Question</a><a href="#m4"><span class="n">Module 4</span>What the Quran Won't Tell You</a><a href="#m5"><span class="n">Module 5</span>Your Own Kingdom</a>
+    </nav>
+    <main>
+<section class="module" id="m0"><div class="mod-num">Start here</div><h2 class="mod-title">The Story</h2><div class="prose-blog">
+<p class="text-lg leading-relaxed">Before any analysis, you should be able to tell this story out loud. Start to finish, the way you would tell it to a friend. And this time that is easy — because the Quran itself tells it that way. If you took the course on his father, you will remember the warning we had to give: Dāwūd's life is scattered across nine chapters with no continuous account anywhere, and we had to gather it. His son is different. Sulaymān is given one long, unbroken story — around thirty verses in a single chapter, An-Naml, with a beginning, a middle and an ending. It is one of the most sustained narratives in the whole Quran. So we can simply read it. Two scenes at the end come from other chapters, and we will say so when we get there.</p>
+
+<h2>A son who inherits</h2>
+
+<p>The story opens with two men and one sentence between them.</p>
+
+<blockquote class="ayah-quote">
+  <p class="arabic" data-ayah="27:15" dir="rtl" style="font-family: var(--font-amiri,'Amiri'),serif; font-size: 1.4rem; line-height: 2.2; color: rgba(201,168,76,0.85);">وَلَقَدْ ءَاتَيْنَا دَاوُۥدَ وَسُلَيْمَـٰنَ عِلْمًا ۖ وَقَالَا ٱلْحَمْدُ لِلَّهِ ٱلَّذِى فَضَّلَنَا عَلَىٰ كَثِيرٍ مِّنْ عِبَادِهِ ٱلْمُؤْمِنِينَ</p>
+  <p class="translation">"And We had certainly given to Dāwūd and Sulaymān knowledge, and they said: praise be to God, who has favoured us over many of His believing servants."</p>
+  <cite>An-Naml (27:15)</cite>
+</blockquote>
+
+<p>Notice what the very first quoted words out of their mouths are. Not a claim, not a plan — <em>praise be to God.</em> Two kings, before a single test has arrived, saying thank you. Keep that. The whole course is about to walk back to it.</p>
+
+<p>Then the son steps forward on his own:</p>
+
+<blockquote class="ayah-quote">
+  <p class="arabic" data-ayah="27:16" dir="rtl" style="font-family: var(--font-amiri,'Amiri'),serif; font-size: 1.4rem; line-height: 2.2; color: rgba(201,168,76,0.85);">وَوَرِثَ سُلَيْمَـٰنُ دَاوُۥدَ ۖ وَقَالَ يَـٰٓأَيُّهَا ٱلنَّاسُ عُلِّمْنَا مَنطِقَ ٱلطَّيْرِ وَأُوتِينَا مِن كُلِّ شَىْءٍ ۖ إِنَّ هَـٰذَا لَهُوَ ٱلْفَضْلُ ٱلْمُبِينُ</p>
+  <p class="translation">"And Sulaymān inherited Dāwūd. He said: O people, we have been taught the speech of birds, and we have been given of all things. Indeed, this is the clear favour."</p>
+  <cite>An-Naml (27:16)</cite>
+</blockquote>
+
+<p>An inheritance, announced in public. He does not say <em>I earned this.</em> He says <em>we have been given</em>, and then names it for what it is: a favour, and an obvious one. And what a strange list of gifts to open with — not armies, not gold. He can understand what birds are saying.</p>
+
+<h2>An army, and one ant</h2>
+
+<p>The Quran shows us the scale of his kingdom in a single image: his forces gathered — jinn, human beings, and birds — held in their ranks and moving. Three separate orders of creation under one man. And then the story cuts away from all of it, to this:</p>
+
+<blockquote class="ayah-quote">
+  <p class="arabic" data-ayah="27:18" dir="rtl" style="font-family: var(--font-amiri,'Amiri'),serif; font-size: 1.4rem; line-height: 2.2; color: rgba(201,168,76,0.85);">حَتَّىٰٓ إِذَآ أَتَوْا۟ عَلَىٰ وَادِ ٱلنَّمْلِ قَالَتْ نَمْلَةٌ يَـٰٓأَيُّهَا ٱلنَّمْلُ ٱدْخُلُوا۟ مَسَـٰكِنَكُمْ لَا يَحْطِمَنَّكُمْ سُلَيْمَـٰنُ وَجُنُودُهُۥ وَهُمْ لَا يَشْعُرُونَ</p>
+  <p class="translation">"Until, when they came upon the valley of the ants, an ant said: O ants, enter your dwellings so that Sulaymān and his soldiers do not crush you while they do not perceive it."</p>
+  <cite>An-Naml (27:18)</cite>
+</blockquote>
+
+<p>Read her line again, because it is remarkably careful. She warns her people — and in the same breath she defends the man she is warning them about. <em>While they do not perceive it.</em> She is saying: he would not do it on purpose. The smallest creature in the story is the one who gives the king the benefit of the doubt.</p>
+
+<p>And here is the moment the entire course hangs on. The most powerful man alive overhears an ant. What does he do with it?</p>
+
+<blockquote class="ayah-quote">
+  <p class="arabic" data-ayah="27:19" dir="rtl" style="font-family: var(--font-amiri,'Amiri'),serif; font-size: 1.4rem; line-height: 2.2; color: rgba(201,168,76,0.85);">فَتَبَسَّمَ ضَاحِكًا مِّن قَوْلِهَا وَقَالَ رَبِّ أَوْزِعْنِىٓ أَنْ أَشْكُرَ نِعْمَتَكَ ٱلَّتِىٓ أَنْعَمْتَ عَلَىَّ وَعَلَىٰ وَٰلِدَىَّ وَأَنْ أَعْمَلَ صَـٰلِحًا تَرْضَىٰهُ وَأَدْخِلْنِى بِرَحْمَتِكَ فِى عِبَادِكَ ٱلصَّـٰلِحِينَ</p>
+  <p class="translation">"So he smiled, amused at her speech, and said: My Lord, enable me to be grateful for Your favour which You have bestowed upon me and upon my parents, and to do righteousness of which You approve. And admit me, by Your mercy, among Your righteous servants."</p>
+  <cite>An-Naml (27:19)</cite>
+</blockquote>
+
+<p>He smiles. And then he prays — and the thing he asks for is not more. It is the ability to be <em>grateful</em>. Put a mark next to that word. We are going to follow it all the way to the end of the story.</p>
+
+<h2>A missing bird</h2>
+
+<p>He inspects the birds and finds a gap in the ranks: where is the hoopoe? He says something sharp — that he will punish it severely, or slaughter it, unless it brings him a clear reason for its absence.</p>
+
+<p>The bird arrives, and it does not apologise. It says, in effect: <em>I know something you don't.</em> It has come from a land called Sabaʾ with news he can be certain of — a woman rules there, she has been given everything, she has a magnificent throne, and she and her people bow to the sun instead of to God.</p>
+
+<p>Sulaymān's response is the mark of the man. He does not punish the bird, and he does not simply believe it either. He says: <em>we will see whether you told the truth or lied.</em> Then he sends the hoopoe back with a letter, with instructions to deliver it, withdraw, and watch what they do.</p>
+
+<h2>A queen who thinks</h2>
+
+<p>Now the Quran does something unusual: it hands the story to her, and lets her think out loud for several verses.</p>
+
+<p>She gathers her advisers. <em>A noble letter has been delivered to me</em>, she says — and she reads it to them: it is from Sulaymān, and it opens <em>in the name of God, the Most Merciful, the Especially Merciful</em>, and its message is short — do not be arrogant with me, and come to me in submission.</p>
+
+<p>Then she asks for counsel. <em>Advise me in my affair; I would never decide a matter until you are present with me.</em> Her generals answer like generals: we are strong, we have serious military power — but the command is yours; say the word. They hand her a war she could have had.</p>
+
+<p>She does not take it. Instead she gives one of the most quietly devastating political observations in the Quran:</p>
+
+<blockquote class="ayah-quote">
+  <p class="arabic" data-ayah="27:34" dir="rtl" style="font-family: var(--font-amiri,'Amiri'),serif; font-size: 1.4rem; line-height: 2.2; color: rgba(201,168,76,0.85);">قَالَتْ إِنَّ ٱلْمُلُوكَ إِذَا دَخَلُوا۟ قَرْيَةً أَفْسَدُوهَا وَجَعَلُوٓا۟ أَعِزَّةَ أَهْلِهَآ أَذِلَّةً ۖ وَكَذَٰلِكَ يَفْعَلُونَ</p>
+  <p class="translation">"She said: indeed kings, when they enter a city, ruin it and render the honoured of its people humbled — and that is what they do."</p>
+  <cite>An-Naml (27:34)</cite>
+</blockquote>
+
+<p>So she tests him instead. She sends a gift, and says plainly what the gift is for: <em>I will see with what the messengers return.</em> It is an experiment. If he takes the money, he is a king like other kings and can be bought. If he doesn't, he is something else.</p>
+
+<p>He doesn't. The gift arrives and he refuses it, and his answer names exactly what she was testing: <em>do you offer me wealth? What God has given me is better than what He has given you. It is you who are delighted with your gift.</em> Then he sends her messengers home with a warning about forces they could not withstand.</p>
+
+<h2>A throne in the blink of an eye</h2>
+
+<p>Knowing she is coming, he turns to his court with a question: which of you will bring me her throne before she arrives in submission?</p>
+
+<p>A powerful jinn volunteers: <em>I will bring it before you get up from where you are sitting — and I am strong enough for it, and trustworthy.</em> A serious offer, from serious power.</p>
+
+<p>And then someone else speaks. The Quran describes him only as <em>one who had knowledge of the Book</em> — no name — and he offers something else entirely: <em>I will bring it to you before your gaze returns to you.</em> Faster than a glance. And it is done.</p>
+
+<p>Here the throne of another monarch is standing in his hall, fetched across a distance by a power that makes his own jinn look slow. Any king in history knows what to say at a moment like this. Here is what he says:</p>
+
+<blockquote class="ayah-quote">
+  <p class="arabic" data-ayah="27:40" dir="rtl" style="font-family: var(--font-amiri,'Amiri'),serif; font-size: 1.3rem; line-height: 2.2; color: rgba(201,168,76,0.85);">قَالَ ٱلَّذِى عِندَهُۥ عِلْمٌ مِّنَ ٱلْكِتَـٰبِ أَنَا۠ ءَاتِيكَ بِهِۦ قَبْلَ أَن يَرْتَدَّ إِلَيْكَ طَرْفُكَ ۚ فَلَمَّا رَءَاهُ مُسْتَقِرًّا عِندَهُۥ قَالَ هَـٰذَا مِن فَضْلِ رَبِّى لِيَبْلُوَنِىٓ ءَأَشْكُرُ أَمْ أَكْفُرُ ۖ وَمَن شَكَرَ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ ۖ وَمَن كَفَرَ فَإِنَّ رَبِّى غَنِىٌّ كَرِيمٌ</p>
+  <p class="translation">"Said one who had knowledge of the Book: I will bring it to you before your glance returns to you. So when he saw it settled before him, he said: this is from the favour of my Lord, to test me — whether I am grateful or ungrateful. And whoever is grateful is grateful only for himself; and whoever is ungrateful — then indeed my Lord is Free of need, Generous."</p>
+  <cite>An-Naml (27:40)</cite>
+</blockquote>
+
+<p>That is the centre of this course, and we will spend a whole module inside it. For now, just hear the shape of it: at the highest point of his power he does not say <em>look what I can do.</em> He says <em>this is a test</em> — and he names both possible outcomes out loud, including the bad one.</p>
+
+<h2>A floor of glass</h2>
+
+<p>He has her throne disguised, and when she arrives he asks: is your throne like this? Her answer is beautifully hedged — <em>it is as though it were it</em> — a woman refusing to be caught out by a trick question either way.</p>
+
+<p>Then she is told to enter the palace. She sees the floor, takes it for water, and lifts the hem of her garment to wade. He tells her: it is a palace paved smooth with glass.</p>
+
+<p>And in that small, embarrassing moment — misreading a floor — something opens in her:</p>
+
+<blockquote class="ayah-quote">
+  <p class="arabic" data-ayah="27:44" dir="rtl" style="font-family: var(--font-amiri,'Amiri'),serif; font-size: 1.3rem; line-height: 2.2; color: rgba(201,168,76,0.85);">قِيلَ لَهَا ٱدْخُلِى ٱلصَّرْحَ ۖ فَلَمَّا رَأَتْهُ حَسِبَتْهُ لُجَّةً وَكَشَفَتْ عَن سَاقَيْهَا ۚ قَالَ إِنَّهُۥ صَرْحٌ مُّمَرَّدٌ مِّن قَوَارِيرَ ۗ قَالَتْ رَبِّ إِنِّى ظَلَمْتُ نَفْسِى وَأَسْلَمْتُ مَعَ سُلَيْمَـٰنَ لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ</p>
+  <p class="translation">"It was said to her: enter the palace. Then when she saw it she took it for a body of water and uncovered her shins. He said: it is a palace paved smooth with glass. She said: my Lord, I have wronged myself, and I submit with Sulaymān to God, Lord of the worlds."</p>
+  <cite>An-Naml (27:44)</cite>
+</blockquote>
+
+<p>That is the end of her story. The Quran does not tell us one thing more about her — not what she did next, not what became of her. It gives her the last word, and the last word is her own faith. Later storytellers could not leave it alone and added a great deal. We will not. What the Quran chose to keep is better than what they added.</p>
+
+<h2>Two scenes from elsewhere — and an ending</h2>
+
+<p>The An-Naml story closes there. But the Quran gives us three more pieces of this life, in other chapters, and honesty requires us to say that we are joining them on.</p>
+
+<p>In Sūrat Ṣād there is a scene with horses, in which he says something no other prophet in the Quran says about himself — that he loved good things more than the remembrance of his Lord. And a few verses later there is the strangest sentence in his whole story: <em>We tested Sulaymān, and cast upon his throne a body — then he returned.</em> That is all the Quran tells us. A test, a body, and a return. What the test was, it never says. Module 4 is about that silence, and about why we are going to leave it alone.</p>
+
+<p>And in Sūrat Sabaʾ, his ending — as quiet and as odd as anything in the book. He dies standing, leaning on his staff, and nobody notices. Not his court, not the jinn labouring for him. They keep working. It takes a small creature of the earth eating through the staff for him to fall, and only then does anyone realise the king has been dead the whole time. The most powerful man in the world, and the only creature paying attention was a worm in a stick.</p>
+
+<p>The story began with an ant nobody would have noticed. It ends with a creature nobody noticed. That is not an accident, and we will come back to it.</p>
+
+<h2>How this course works</h2>
+
+<p>That is the story. Now the plan — because this course does something deliberate with it. Instead of walking the timeline once, we walk the same life <strong>five times</strong>, going deeper each pass. Same mountain, higher path each time round.</p>
+
+<p><strong>Module 1 — Everything and Everyone.</strong> The full inventory of what this man was handed, and a question the whole course hangs on: what is left to test a person who has been given everything?<br>
+<strong>Module 2 — The Ant and the Hoopoe.</strong> Two scenes of enormous power listening downward — and what happens to a king who can be corrected by a bird.<br>
+<strong>Module 3 — The Queen and the Question.</strong> The heart of the course. Her whole arc, and at the peak of it, the sentence Sulaymān says about himself that names what his life was actually for.<br>
+<strong>Module 4 — What the Quran Won't Tell You.</strong> The hard parts: the horses, the body on the throne, a prayer that sounds wrong to modern ears, the charge of sorcery the Quran answers directly — and why this life gets one long telling when his father's was scattered.<br>
+<strong>Module 5 — Your Own Kingdom.</strong> The whole thing turned toward you. Three questions, and one last discovery about the rarest category of people in the Quran.</p>
+
+<p>Two promises before you go on. Nothing here requires Arabic, and no term will be used without being explained in plain words the moment it appears — if a sentence ever needs a dictionary, that is our failure, not yours. And where the Quran keeps a silence, we will keep it with it, and tell you honestly that we are doing so. That turns out to be one of the main things this particular life has to teach.</p>
+
+<!-- Course note: M1 = the inventory (27:15-16, 21:81-82, 34:12-13) ending on the test question. M3 lands 27:40 + al-Ghaniyy al-Karīm. M4 carries the full adab load (38:31-33 ikhtilāf, 38:34 withholding, 38:35, 2:102, 34:14). -->
+</div></section>
+
+<section class="module" id="m1"><div class="mod-num">Module 1</div><h2 class="mod-title">Everything and Everyone</h2><div class="prose-blog">
+<p class="text-lg leading-relaxed">You have the story. Now we slow down and take an inventory, because you cannot feel the weight of this man's test until you have felt the weight of what he was handed. And there is a particular reason to do it carefully: the Quran does not present his gifts the way we would. We would lead with the kingdom. It leads with something else entirely — and the thing it leads with turns out to explain everything that follows.</p>
+
+<h2>The one word</h2>
+
+<p>Here is the opening of the whole sequence again. Watch which gift gets named:</p>
+
+<blockquote class="ayah-quote">
+  <p class="arabic" data-ayah="27:15" dir="rtl" style="font-family: var(--font-amiri,'Amiri'),serif; font-size: 1.4rem; line-height: 2.2; color: rgba(201,168,76,0.85);">وَلَقَدْ ءَاتَيْنَا دَاوُۥدَ وَسُلَيْمَـٰنَ عِلْمًا ۖ وَقَالَا ٱلْحَمْدُ لِلَّهِ ٱلَّذِى فَضَّلَنَا عَلَىٰ كَثِيرٍ مِّنْ عِبَادِهِ ٱلْمُؤْمِنِينَ</p>
+  <p class="translation">"And We had certainly given to Dāwūd and Sulaymān knowledge, and they said: praise be to God, who has favoured us over many of His believing servants."</p>
+  <cite>An-Naml (27:15)</cite>
+</blockquote>
+
+<p>Think about everything the Quran could have said in that first clause. These two men between them have a kingdom, a scripture, armies, a voice that moves mountains, iron that softens in the hand, control of the wind, the service of unseen creatures, and the ability to understand animals. Any of those would have been a reasonable opening line.</p>
+
+<p>What it says is: <em>We gave them knowledge.</em> One word, and it is left deliberately unspecified — not "knowledge of judgement," not "knowledge of the psalms," not "knowledge of birds," though all three are attested elsewhere for these two men. Just <em>knowledge</em>, indefinite, unbounded.</p>
+
+<p>Which sets the order of the whole inventory. The kingship is the fruit. Knowledge is the root. Everything else on the list grows out of the fact that these two men were given to <em>understand</em> something, and the Quran mentions it first because that is the gift the others depend on.</p>
+
+<h2>Their first recorded reaction</h2>
+
+<p>And now look at what happens in the very same verse — because this is a pattern, and once you see it you will see it four more times before the course ends.</p>
+
+<p>God gives them knowledge, and the next thing in the verse is what they <em>said</em>: <em>al-ḥamdu lillāh.</em> Praise belongs to God. Not "thank you for this," which would be a response to the gift. <em>Praise belongs to God</em> is a statement about the Giver — the kind of thing that would still be true if you had received nothing.</p>
+
+<p>Two details in their sentence are worth having.</p>
+
+<p>The first is that the Arabic verb is <strong>dual</strong> — one utterance, spoken jointly by both of them. Father and son, quoted together, in a single line. It is the only time we hear them speak as one voice, and this is what they say with it.</p>
+
+<p>The second is the last phrase, and it is a small masterpiece of restraint. <em>Who has favoured us over <strong>many</strong> of His believing servants.</em> Not "over all of them." Not simply "over His servants," which would imply the whole set. They insert the word <em>many</em> — and in doing so they leave room above themselves. Two prophet-kings, at the top of the human world, carefully declining to claim the top.</p>
+
+<p>And here is a structural detail you can check by eye: <strong>their response takes more words than the gift did.</strong> The giving is one clause. The praise is longer. Even the shape of the verse puts more weight on the thanks than on the thing received.</p>
+
+<h2>A man who will not use the active voice</h2>
+
+<p>Then the son speaks on his own, and the grammar of what he says is the whole of his character:</p>
+
+<blockquote class="ayah-quote">
+  <p class="arabic" data-ayah="27:16" dir="rtl" style="font-family: var(--font-amiri,'Amiri'),serif; font-size: 1.4rem; line-height: 2.2; color: rgba(201,168,76,0.85);">وَوَرِثَ سُلَيْمَـٰنُ دَاوُۥدَ ۖ وَقَالَ يَـٰٓأَيُّهَا ٱلنَّاسُ عُلِّمْنَا مَنطِقَ ٱلطَّيْرِ وَأُوتِينَا مِن كُلِّ شَىْءٍ ۖ إِنَّ هَـٰذَا لَهُوَ ٱلْفَضْلُ ٱلْمُبِينُ</p>
+  <p class="translation">"And Sulaymān inherited Dāwūd. He said: O people, we have been taught the speech of birds, and we have been given of all things. Indeed, this is the clear favour."</p>
+  <cite>An-Naml (27:16)</cite>
+</blockquote>
+
+<p>Take the two verbs at the centre of his announcement. <em>We have been taught.</em> <em>We have been given.</em> Both are passive. Somebody did this to us.</p>
+
+<p>He had the other option available and did not take it. He could have said <em>we know</em> the speech of birds. He could have said <em>we have</em> all these things. Instead, the most powerful man alive stands in front of his people to announce his own extraordinary capabilities, and constructs the sentence so that <strong>he is not the subject of either verb.</strong></p>
+
+<p>In fact, in his whole announcement there are only two things he does himself: he <em>inherited</em>, and he <em>said</em>. Receiving and acknowledging. That is the complete list of Sulaymān's own actions in his own introduction.</p>
+
+<p>That is not false modesty. It is accuracy. A man who did not build any of this describing it in the only grammar that is true.</p>
+
+<p>And notice the order of the two gifts he names. <em>The speech of birds</em> comes first; <em>of all things</em> comes second. The smaller, stranger gift is named before the vast one. He leads with the ability to <em>hear</em> — before the ability to rule. In the next module you will see why that order is not decorative.</p>
+
+<h2>The wind</h2>
+
+<p>Now the inventory proper. Start with the most cinematic item:</p>
+
+<blockquote class="ayah-quote">
+  <p class="arabic" data-ayah="21:81" dir="rtl" style="font-family: var(--font-amiri,'Amiri'),serif; font-size: 1.4rem; line-height: 2.2; color: rgba(201,168,76,0.85);">وَلِسُلَيْمَـٰنَ ٱلرِّيحَ عَاصِفَةً تَجْرِى بِأَمْرِهِۦٓ إِلَى ٱلْأَرْضِ ٱلَّتِى بَـٰرَكْنَا فِيهَا ۚ وَكُنَّا بِكُلِّ شَىْءٍ عَـٰلِمِينَ</p>
+  <p class="translation">"And to Sulaymān, the wind, blowing forcefully, running by his command to the land which We had blessed. And We are, of all things, Knowing."</p>
+  <cite>Al-Anbiyāʾ (21:81)</cite>
+</blockquote>
+
+<p>Not a breeze. The word describes a strong, driving gust — the kind of wind you would normally shelter from. And it runs <em>by his command</em>, in the present tense: a standing arrangement, not a one-off miracle.</p>
+
+<p>But look where it runs <em>to</em>. The verse names the destination: <em>the land which We had blessed</em>. Al-Ṭabarī identifies that as al-Shām, the Levant; al-Muyassar names it more precisely as the region of Bayt al-Maqdis. So the wind is not simply an amusement, and it does not go anywhere he fancies. It has a stated terminus, and the terminus is a blessed place. The fastest transport ever given to a human being is pointed at a destination that was chosen for him.</p>
+
+<h2>The unseen workforce</h2>
+
+<p>And then the item that needs the most care in the whole inventory:</p>
+
+<blockquote class="ayah-quote">
+  <p class="arabic" data-ayah="21:82" dir="rtl" style="font-family: var(--font-amiri,'Amiri'),serif; font-size: 1.4rem; line-height: 2.2; color: rgba(201,168,76,0.85);">وَمِنَ ٱلشَّيَـٰطِينِ مَن يَغُوصُونَ لَهُۥ وَيَعْمَلُونَ عَمَلًا دُونَ ذَٰلِكَ ۖ وَكُنَّا لَهُمْ حَـٰفِظِينَ</p>
+  <p class="translation">"And of the devils were those who dived for him and did work other than that — and We were of them Guardians."</p>
+  <cite>Al-Anbiyāʾ (21:82)</cite>
+</blockquote>
+
+<p>Three things here, and each one is a fence.</p>
+
+<p><strong>First: "of the devils."</strong> The Arabic has a small word — <em>min</em> — that means "some of," a portion. It does <em>not</em> say the devils dived for him. It says <em>some</em> of them did. Al-Muyassar reads it exactly this way: God employed a portion of them for him, in tasks other creatures could not perform. His authority was over a subset, on assignment. Not over the unseen world.</p>
+
+<p><strong>Second: what they did.</strong> They <em>dived</em> — the verb is specific, the word for going down into water to bring something back up, the pearl-diver's word. And beyond that, <em>work other than that</em> — deliberately unspecified. The Quran declines to give an inventory of what unseen creatures do, and the declining is itself instruction.</p>
+
+<p><strong>Third, and this is the one that matters most:</strong> <em>and We were of them Guardians.</em> Not "and Sulaymān kept them in line." God did. On this clause the commentators offer two readings and both are worth having: al-Muyassar reads it as God holding the workers, so that refusal was simply not available to them; al-Jalālayn reads it as God guarding the <em>work</em>, since left to themselves they would undo what they had finished.</p>
+
+<p>Either way, the point stands and it is the most important sentence in this module. <strong>The thing keeping the unseen workforce in place was God, continuously, not Sulaymān.</strong> If that guarding lifted for a moment, the arrangement would dissolve. Sulaymān's command over them was not a power he possessed. It was a loan being actively maintained by Someone else.</p>
+
+<p>Hold onto that, because in Module 4 we are going to meet a very old slander built on precisely this material — the claim that Sulaymān's kingdom ran on sorcery — and the Quran answers it directly. This verse is where the answer starts. A man who commands spirits by his own art is a magician. A man for whom God restrains a portion of them, and keeps restraining them, is something else entirely. The difference is not a technicality. It is the whole difference.</p>
+
+<p>There is one more detail here, and it is the kind of thing that rewards slow reading. The verse about the wind carries no guardian clause. The verse about the devils does. Why the asymmetry? Because the wind has no will. It cannot rebel. The other thing can.</p>
+
+<h2>What the list adds up to</h2>
+
+<p>Put the whole inventory in one place.</p>
+
+<p>He inherits a prophet-king's household. He is given knowledge, named first and left unbounded. He is taught the speech of birds. He is given, in his own words, <em>of all things</em>. He commands a force of three kinds of creature — jinn, human, and bird — held in ranks. He is given the wind, driving hard, running by his command to a blessed land. He is given the labour of unseen beings who dive for him and build for him, held in place by God. Later chapters will add more: molten copper, sanctuaries, vast basins, cauldrons that do not move.</p>
+
+<p>Now say plainly what that is. It is not "a lot." It is, as far as the Quran shows us, <strong>the most any human being has ever been given</strong>. Not the most spiritually — that is a different measure. But in terms of sheer command over the created world, no one else in the book comes close. Other prophets are given a miracle. He is given a standing arrangement with the elements.</p>
+
+<h2>The question this course hangs on</h2>
+
+<p>Which brings us to the problem that makes his life worth a course.</p>
+
+<p>We know how testing usually works in scripture. Someone is given a hardship and we watch what they do with it. Ibrāhīm is asked for his son. Ayyūb loses everything. Yūsuf goes into a well and then a prison. Mūsā is sent, alone, at a tyrant. His own father Dāwūd is caught out by a mistake he makes in a moment of confidence. In every case the test arrives as a <em>subtraction</em>, and the drama is whether the person holds.</p>
+
+<p>Now try to apply that to Sulaymān and watch it fail. What do you take from a man who has the wind? What hardship do you send at someone who commands armies of three species? What could you possibly withhold from a man who says, accurately, that he has been given of all things?</p>
+
+<p>So here is the question, and it is the one the remaining modules exist to answer:</p>
+
+<p style="margin-left:2rem;"><strong><em>If a life has been handed everything — if there is no lack anywhere in it — what is left to test?</em></strong></p>
+
+<p>The Quran's answer is not that he gets tested anyway by having something taken away later. Its answer is stranger and much more useful to you: <strong>the abundance itself is the test.</strong> Not a break between trials. The trial.</p>
+
+<p>And if that is true, it changes what you are looking at in your own life, because most of us are running the old model. We treat hardship as the exam and everything else as the time in between — the good stretch, the years when nothing is wrong, the ordinary Tuesday. On the reading this course is going to make, those are not the gaps. They are the paper, and it is open on the desk right now.</p>
+
+<p>He was given more than anyone, and the Quran keeps one word over him for what he did with it. In the next module we go and find it, in a valley, in the mouth of an insect.</p>
+
+<!-- Course note: Named positions used — al-Ṭabarī (blessed land = al-Shām) and al-Muyassar (Bayt al-Maqdis) on 21:81; al-Muyassar (partitive: a portion of the shayāṭīn) and al-Jalālayn (guarding the work) on 21:82. HAZARD HANDLED HERE per substrate audit H1: the ḥāfiẓīn clause is stated as the pre-frame for 2:102 in M4, so the jinn material never sits unframed. DELIBERATELY OMITTED: the composite "some scholars / others / still others" readings on 27:15's al-muʾminīn and 27:16's -nā (unnamed in substrate); the waritha māl-vs-ʿilm controversy (ungrounded in substrate — needs tafsir-report-016 first); the partitive reading of min kulli shayʾ (not grounded at 27:16; the partitive is taught here on 21:82 where al-Muyassar names it). -->
+</div></section>
+
+<section class="module" id="m2"><div class="mod-num">Module 2</div><h2 class="mod-title">The Ant and the Hoopoe</h2><div class="prose-blog">
+<p class="text-lg leading-relaxed">Module 1 left you with a question: what is left to test a man who has been given everything? The Quran answers it in the two scenes we are about to sit inside, and the answer is not what you would expect. It does not test him with a war, or a rival, or a loss. It tests him with an insect and a bird. Both of these scenes are about the same thing, and it is a stranger thing than it looks: what happens to a man with enormous power when something very small is right.</p>
+
+<h2>An army held in rank</h2>
+
+<p>First, look at what he is standing in the middle of.</p>
+
+<blockquote class="ayah-quote">
+  <p class="arabic" data-ayah="27:17" dir="rtl" style="font-family: var(--font-amiri,'Amiri'),serif; font-size: 1.4rem; line-height: 2.2; color: rgba(201,168,76,0.85);">وَحُشِرَ لِسُلَيْمَـٰنَ جُنُودُهُۥ مِنَ ٱلْجِنِّ وَٱلْإِنسِ وَٱلطَّيْرِ فَهُمْ يُوزَعُونَ</p>
+  <p class="translation">"And gathered for Sulaymān were his forces of jinn and men and birds, and they were held in ranks."</p>
+  <cite>An-Naml (27:17)</cite>
+</blockquote>
+
+<p>Three kinds of creature, under one command. But notice the last two words, because the whole module turns on them. The Arabic is <em>yūzaʿūn</em>, and it does not mean "arranged" or "lined up." It comes from a root — <em>w-z-ʿ</em> — that the classical Arabic dictionaries define as <strong>holding back</strong>. Specifically: keeping the front rank from running ahead of the rest. It is the word for an officer whose job is not to push the army forward but to stop the eager ones breaking formation.</p>
+
+<p>Think about what that describes. An army that big does not fall apart because it lacks energy. It falls apart because everyone in it wants to move faster than the man beside him. Order is not something you add to a crowd. It is something you hold against a crowd's natural tendency to scatter.</p>
+
+<p>Hold that word — <em>held back, kept in formation</em>. It is going to come back in two verses, and when it does it will be the most important thing in this course.</p>
+
+<h2>The smallest voice in the story</h2>
+
+<p>And now, mid-march, the Quran cuts away from all that scale to this:</p>
+
+<blockquote class="ayah-quote">
+  <p class="arabic" data-ayah="27:18" dir="rtl" style="font-family: var(--font-amiri,'Amiri'),serif; font-size: 1.4rem; line-height: 2.2; color: rgba(201,168,76,0.85);">حَتَّىٰٓ إِذَآ أَتَوْا۟ عَلَىٰ وَادِ ٱلنَّمْلِ قَالَتْ نَمْلَةٌ يَـٰٓأَيُّهَا ٱلنَّمْلُ ٱدْخُلُوا۟ مَسَـٰكِنَكُمْ لَا يَحْطِمَنَّكُمْ سُلَيْمَـٰنُ وَجُنُودُهُۥ وَهُمْ لَا يَشْعُرُونَ</p>
+  <p class="translation">"Until, when they came upon the valley of the ants, an ant said: O ants, enter your dwellings so that Sulaymān and his soldiers do not crush you while they do not perceive it."</p>
+  <cite>An-Naml (27:18)</cite>
+</blockquote>
+
+<p>Two things about her sentence deserve your attention.</p>
+
+<p>The first is that she is not talking to him. She is talking to her own people, about him, in the third person. This is not a petition to a king. It is a warning shouted between neighbours — the kind of thing you say when you assume the powerful person cannot hear you. Which, ordinarily, he could not.</p>
+
+<p>The second is the last clause: <em>while they do not perceive it.</em> She has just told her colony that an army is about to crush them, and in the same breath she has explained that it would not be on purpose. Ibn Kathīr, al-Qurṭubī and al-Rāzī all read that clause the same way: she is protecting the honour of a prophet even while warning her people to flee from him. She could have said <em>run, they will crush you.</em> She added the sentence that clears him.</p>
+
+<p>So the smallest creature in the story is the one who thinks the most carefully about the largest man in it. Sit with that for a second before you move on. It is easy to read this scene as charming. It is not charming. It is a small thing doing something difficult and generous, on a day when no one was watching.</p>
+
+<h2>What he does with it</h2>
+
+<p>Now, what would you expect a man with three armies to do when he overhears an insect discussing whether he is a danger?</p>
+
+<blockquote class="ayah-quote">
+  <p class="arabic" data-ayah="27:19" dir="rtl" style="font-family: var(--font-amiri,'Amiri'),serif; font-size: 1.3rem; line-height: 2.2; color: rgba(201,168,76,0.85);">فَتَبَسَّمَ ضَاحِكًا مِّن قَوْلِهَا وَقَالَ رَبِّ أَوْزِعْنِىٓ أَنْ أَشْكُرَ نِعْمَتَكَ ٱلَّتِىٓ أَنْعَمْتَ عَلَىَّ وَعَلَىٰ وَٰلِدَىَّ وَأَنْ أَعْمَلَ صَـٰلِحًا تَرْضَىٰهُ وَأَدْخِلْنِى بِرَحْمَتِكَ فِى عِبَادِكَ ٱلصَّـٰلِحِينَ</p>
+  <p class="translation">"So he smiled, amused at her speech, and said: My Lord, enable me to be grateful for Your favour which You have bestowed upon me and upon my parents, and to do righteousness of which You approve. And admit me, by Your mercy, among Your righteous servants."</p>
+  <cite>An-Naml (27:19)</cite>
+</blockquote>
+
+<p>Take the smile first. The Arabic verb is <em>tabassama</em>, and the dictionaries are specific about it: it is the most restrained form of the whole family of words for laughing. Not a laugh, not a grin — the quietest visible version of pleasure there is. The verse then adds <em>ḍāḥikan</em>, "amused," so we know the amusement was real. He was genuinely delighted, and what showed on his face was the smallest possible amount of it. That is a man being careful with his own reaction in front of something smaller than himself.</p>
+
+<p>But the smile is not the point. The prayer is. And here is where this module earns its place in the course.</p>
+
+<h2>The word that ties the whole course together</h2>
+
+<p>Look at how he asks. He does not say <em>make me grateful.</em> He says <em>awziʿnī</em> — and that is the same root, <em>w-z-ʿ</em>, that described his army two verses earlier being <em>held in rank</em>.</p>
+
+<p>Say it plainly, because it is one of the most beautiful things in this chapter. The man who has just been shown commanding jinn, men and birds — all of them held in formation — turns to God and asks:</p>
+
+<p style="margin-left:2rem;"><em><strong>hold me in rank too.</strong></em></p>
+
+<p>The outer army in verse 17 and the inner one in verse 19 are governed by the same word. He looks at the discipline it takes to keep tens of thousands of creatures from breaking formation, and he asks for that exact thing to be done to <em>him</em>, about gratitude.</p>
+
+<p>Which tells you what he thinks gratitude actually is. Not a warm feeling that shows up when things go well. <strong>A formation.</strong> Something that has to be held, against a constant pull in the other direction, by a power stronger than the thing being held. His soul, left alone, will break ranks — the same way any army left alone will break ranks. Not out of malice. Out of momentum.</p>
+
+<p>If you have ever wondered why you can know perfectly well that your life is full of gifts and still walk around feeling flat about it, this verse is the answer. You were not failing at an emotion. You were trying to hold a formation on your own.</p>
+
+<h2>Three requests, and who does the work in each</h2>
+
+<p>The prayer has three parts, and it is worth seeing the architecture, because it is the most practical thing in the module.</p>
+
+<p><strong>One:</strong> <em>enable me to be grateful for Your favour which You have bestowed upon me and upon my parents.</em> Gratitude for what has already been given. And notice that it runs <em>backwards</em> — he includes his parents. This is a man who has, by every worldly measure, exceeded his father: a bigger kingdom, wind, jinn, the speech of animals. And in the prayer where he asks to be made grateful, he names Dāwūd's household anyway. Gratitude that stops at your own achievements is not finished.</p>
+
+<p><strong>Two:</strong> <em>and to do righteousness of which You approve.</em> The gratitude has to turn into something done. It does not stop at feeling thankful; it issues in action. This is the hinge of the whole prayer — thanks that never becomes conduct has not really happened.</p>
+
+<p><strong>Three:</strong> <em>and admit me, by Your mercy, among Your righteous servants.</em> And here is the man who has everything asking to be let in — <em>by mercy</em>. Not by record. Not by the armies, the prophethood, the kingdom, the works. He does not offer any of it. He asks to be admitted the way anyone else is admitted.</p>
+
+<p>Now look at who does what across the three. The verbs of <em>effort</em> are his: to be grateful, to do righteousness. The verbs of <em>enabling</em> are God's: hold me in rank, be pleased with it, admit me. That is the working arrangement of the whole spiritual life in one sentence — <em>I will do the work; You make the doing possible</em> — spoken by the most capable human being in the book.</p>
+
+<p>And notice where he is standing when he says it. Not in a crisis. At the top. An ant has just confirmed that his name is known and his power is feared across species. That is exactly the moment when a person is least likely to pray, and it is the moment he chooses. Which is the thesis of this course arriving early, quietly, in a valley: <strong>the dangerous hour is not the hard one. It is the good one.</strong></p>
+
+<h2>The bird who was missing</h2>
+
+<p>Now the second scene, and it tests something different: not whether he can hear a small voice, but whether he can be <em>corrected</em> by one.</p>
+
+<blockquote class="ayah-quote">
+  <p class="arabic" data-ayah="27:20" dir="rtl" style="font-family: var(--font-amiri,'Amiri'),serif; font-size: 1.4rem; line-height: 2.2; color: rgba(201,168,76,0.85);">وَتَفَقَّدَ ٱلطَّيْرَ فَقَالَ مَا لِىَ لَآ أَرَى ٱلْهُدْهُدَ أَمْ كَانَ مِنَ ٱلْغَآئِبِينَ</p>
+  <p class="translation">"And he inspected the birds and said: what is it with me that I do not see the hoopoe? Or is he among the absent?"</p>
+  <cite>An-Naml (27:20)</cite>
+</blockquote>
+
+<p>Two small details, both worth having.</p>
+
+<p>The verb for inspecting, <em>tafaqqada</em>, is not the ordinary verb for losing something. Its form carries deliberateness — actively going looking for what is missing. And Ibn Kathīr notes that the tense indicates a <em>habit</em>: this is what Sulaymān did, routinely. He checked. A king who runs a roll call of the birds is a king who notices a single absence in a crowd of thousands.</p>
+
+<p>The second detail is the shape of the question. He does not say <em>where is the hoopoe</em>, and he does not say <em>the hoopoe is absent.</em> He says, literally, <em>what is it with me that I do not see him?</em> The question points back at his own perception first. It leaves open the possibility that the fault is in the looking, not in the bird.</p>
+
+<p>Then comes a hard sentence, and the course does not skip hard sentences:</p>
+
+<blockquote class="ayah-quote">
+  <p class="arabic" data-ayah="27:21" dir="rtl" style="font-family: var(--font-amiri,'Amiri'),serif; font-size: 1.4rem; line-height: 2.2; color: rgba(201,168,76,0.85);">لَأُعَذِّبَنَّهُۥ عَذَابًا شَدِيدًا أَوْ لَأَا۟ذْبَحَنَّهُۥٓ أَوْ لَيَأْتِيَنِّى بِسُلْطَـٰنٍ مُّبِينٍ</p>
+  <p class="translation">"I will surely punish him with a severe punishment, or slaughter him, or he must bring me a clear authorisation."</p>
+  <cite>An-Naml (27:21)</cite>
+</blockquote>
+
+<p>Three outcomes. And in the Arabic, all three carry the same heavy grammatical emphasis — the construction used for a binding oath. That matters, because it means the third one is not an afterthought. <em>Or he brings me a clear reason</em> is sworn to as firmly as the punishment is. The escape route is guaranteed with the same force as the threat.</p>
+
+<p>That is what a fair standard looks like. Not softness — the penalty is real and it is stated. But the door out is nailed open with the same nail.</p>
+
+<h2>"I have encompassed what you have not"</h2>
+
+<p>And then the bird comes back, and says something to a prophet-king that almost nobody in the Quran says to anybody:</p>
+
+<blockquote class="ayah-quote">
+  <p class="arabic" data-ayah="27:22" dir="rtl" style="font-family: var(--font-amiri,'Amiri'),serif; font-size: 1.4rem; line-height: 2.2; color: rgba(201,168,76,0.85);">فَمَكَثَ غَيْرَ بَعِيدٍ فَقَالَ أَحَطتُ بِمَا لَمْ تُحِطْ بِهِۦ وَجِئْتُكَ مِن سَبَإٍۭ بِنَبَإٍ يَقِينٍ</p>
+  <p class="translation">"But he stayed not long, and said: I have encompassed that which you have not encompassed, and I have come to you from Sabaʾ with certain news."</p>
+  <cite>An-Naml (27:22)</cite>
+</blockquote>
+
+<p>Read the first clause again. <em>I know something you don't.</em> Said by a bird. To the man who was taught the speech of birds.</p>
+
+<p>But watch how carefully it is worded, because the bird is not being reckless. The Arabic says <em>I have encompassed <strong>that which</strong> you have not encompassed</em> — not "I know more than you," not "there are things you do not know." It is bounded to one specific piece of information. The bird makes the narrowest possible true claim.</p>
+
+<p>Al-Rāzī draws out of this scene the principle that makes it matter: <strong>the lesser can possess, by God's distribution, what the greater does not.</strong> Not because the greater is deficient. Because knowledge is handed out by God, and He does not hand it out by rank. There will be a fact you need that is currently sitting with someone far below you in every measure you care about, and the only way you get it is if they can bring it to you and you can hear it.</p>
+
+<p>Which is exactly the test. And here is his answer:</p>
+
+<blockquote class="ayah-quote">
+  <p class="arabic" data-ayah="27:27" dir="rtl" style="font-family: var(--font-amiri,'Amiri'),serif; font-size: 1.4rem; line-height: 2.2; color: rgba(201,168,76,0.85);">۞ قَالَ سَنَنظُرُ أَصَدَقْتَ أَمْ كُنتَ مِنَ ٱلْكَـٰذِبِينَ</p>
+  <p class="translation">"He said: we shall see whether you told the truth or were of the liars."</p>
+  <cite>An-Naml (27:27)</cite>
+</blockquote>
+
+<p>He does not punish it. He also does not simply believe it. Al-Qurṭubī reads this response as examination rather than anger — the man is not reacting, he is checking.</p>
+
+<p>And there is a small asymmetry in his sentence worth seeing. On the truth side he uses a verb of <em>action</em> — did you speak truly, this once. On the other side he uses a phrase about <em>belonging</em> — or were you <em>of the liars</em>: a category, a kind of creature. Al-Zamakhsharī explains why the sentence is built that way. The symmetrical version would have been <em>did you speak truly or did you lie</em> — and the category is deliberately the sharper phrasing, because a one-off lie might be a slip, while one who belongs to the liars cannot be trusted about anything at all. So the check the bird is about to face will settle more than this report. It will settle what kind of creature brought it.</p>
+
+<p>Now notice what he does with stakes that high. He states them — and then puts the entire question on hold until the evidence comes back. He does not punish on suspicion, and he does not trust on charm. The report gets checked first, and the bird's standing follows the report — not the other way round. Most of us run that in reverse: we decide what kind of person someone is, and then decide whether to check their facts.</p>
+
+<h2>What the two scenes are doing together</h2>
+
+<p>Put them side by side and the shape is clear.</p>
+
+<p>In the first, a creature far beneath him says something he was never meant to hear, and it does not diminish him — it produces the deepest prayer of his life. In the second, a creature far beneath him tells him he is missing something, and it does not offend him — it produces an investigation.</p>
+
+<p>Both scenes are the same test, run twice: <strong>can enormous power still receive?</strong> Not "can it be kind to the small" — kindness downward is easy and costs a powerful man nothing. Can it actually <em>take something in</em> from below: information it lacked, a correction it did not ask for, a warning phrased as a complaint?</p>
+
+<p>And notice what the ability rests on. It is not humility as a personality trait. It is the thing he asked for in the valley: <em>hold me in rank.</em> A man who genuinely believes everything he has was handed to him has no particular reason to be threatened when a bird knows something he doesn't. Knowledge is distributed by the same Hand that distributed his kingdom. Why would He not put a piece of it in a hoopoe?</p>
+
+<p>The ungrateful version of this man could not have survived either scene. He would have heard the ant as an insult and the bird as insubordination — because when you believe you built your kingdom, every small voice that knows better is a threat to the story.</p>
+
+<p>That is the connection this module exists to make. Gratitude is not a nice feeling to add on top of a good life. It is the thing that keeps power able to listen. And in the next module we watch it get tested at a scale that makes an ant and a bird look like a warm-up.</p>
+
+<!-- Course note: w-z-ʿ pairing (27:17 yūzaʿūn / 27:19 awziʿnī) is lexicon-grounded (Lisān, Mufradāt, Tāj) and is this module's spine. Named positions used: Ibn Kathīr/al-Qurṭubī/al-Rāzī on 27:18 prophetic dignity; Ibn Kathīr on habitual tafaqqud; al-Rāzī on 27:22 distribution of knowledge (VERIFIED in tafsir-report-022.md: "في أدنى خلق الله تعالى من أحاط علما بما لم يحط به فيكون ذلك لطفا في ترك الإعجاب" — even sharper than our paraphrase); al-Qurṭubī on 27:27 sananẓuru = al-taʾammul wa-l-taṣaffuḥ (verified in tafsir-report-027.md; al-Zamakhsharī has the same wording, al-Saʿdī adds "kamāl ʿaqlihi wa-razānatihi"). FABLE REVIEW 2026-08-10: the 27:27 asymmetry gloss was INVERTED in the first draft — it read the category phrasing as Sulaymān holding a smaller question; al-Zamakhsharī and Ibn ʿĀshūr read it as the deliberately SHARPER form (one of the liars = untrustworthy in everything). Rewritten with al-Zamakhsharī named. DELIBERATELY OMITTED per substrate audit: the "six words" miscount, the "army halted" detail (not Quranic), the seventy-excuses saying (not marfūʿ), any claim Sulaymān was angry. M3 = the Bilqīs sequence + 27:40. -->
+</div></section>
+
+<section class="module" id="m3"><div class="mod-num">Module 3</div><h2 class="mod-title">The Queen and the Question</h2><div class="prose-blog">
+<p class="text-lg leading-relaxed">This is the centre of the course. Everything before it was preparation and everything after it is consequence. And it is worth saying at the start what is unusual about the passage we are entering: for around fifteen verses, the Quran hands its story to a woman who is, at the time, worshipping the sun — and lets her reason out loud, at length, on the page. It quotes her thinking. It quotes her strategy. It gives her the last word of the entire sequence. Somewhere in the middle of her story, at the moment of his greatest triumph, Sulaymān says the sentence this whole course is named after. The two things are not a coincidence, and by the end of this module you will see why they had to happen in the same scene.</p>
+
+<p>One note first. The Quran never gives her a name. The tradition calls her Bilqīs, and we will use it once or twice for convenience, but you should know it is not in the text. The Quran is interested in her mind, not her identity.</p>
+
+<h2>A letter, and a woman who reads it carefully</h2>
+
+<blockquote class="ayah-quote">
+  <p class="arabic" data-ayah="27:29" dir="rtl" style="font-family: var(--font-amiri,'Amiri'),serif; font-size: 1.4rem; line-height: 2.2; color: rgba(201,168,76,0.85);">قَالَتْ يَـٰٓأَيُّهَا ٱلْمَلَؤُا۟ إِنِّىٓ أُلْقِىَ إِلَىَّ كِتَـٰبٌ كَرِيمٌ</p>
+  <p class="translation">"She said: O eminent ones, indeed a noble letter has been delivered to me."</p>
+  <cite>An-Naml (27:29)</cite>
+</blockquote>
+
+<p>Her first recorded word is to her court, and her first judgement is about the <em>quality</em> of the letter before she has told anyone what it says. She calls it <em>karīm</em> — noble, honourable, generous. Put a mark on that word. It comes back at the exact centre of this module, in the mouth of someone else, about Someone else.</p>
+
+<p>Then she reads it out:</p>
+
+<blockquote class="ayah-quote">
+  <p class="arabic" data-ayah="27:30" dir="rtl" style="font-family: var(--font-amiri,'Amiri'),serif; font-size: 1.4rem; line-height: 2.2; color: rgba(201,168,76,0.85);">إِنَّهُۥ مِن سُلَيْمَـٰنَ وَإِنَّهُۥ بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ</p>
+  <p class="arabic" data-ayah="27:31" dir="rtl" style="font-family: var(--font-amiri,'Amiri'),serif; font-size: 1.4rem; line-height: 2.2; color: rgba(201,168,76,0.85);">أَلَّا تَعْلُوا۟ عَلَىَّ وَأْتُونِى مُسْلِمِينَ</p>
+  <p class="translation">"It is from Sulaymān, and it is: in the name of God, the Most Merciful, the Especially Merciful. Do not rise up against me, and come to me in submission."</p>
+  <cite>An-Naml (27:30–31)</cite>
+</blockquote>
+
+<p>That is the whole letter. From the most powerful ruler alive, to a foreign monarch, on a matter of war and peace: two lines. No titles. He does not even call himself king. Just <em>from Sulaymān</em> — and then he gets out of the way, and the second thing in the letter is the name of God.</p>
+
+<p>Al-Qurṭubī makes a precise point about that order. Sulaymān's name comes before the <em>bismillāh</em> not because he is putting himself first, but because that is simply how a letter is addressed — the sender's name is the envelope, not the message. Which leaves the opening line of the message itself to be the mercy of God. He used the convention to get himself out of the doorway.</p>
+
+<p>And now the sentence that deserves a hard look: <em>do not rise up <strong>against me</strong>.</em> Not "against God." Against him, personally. He puts his own name in the position where you would expect God's. He is telling a pagan queen: if you are going to resist something here, resist <em>me</em> — I am the thing in your way, and I am standing in the road on purpose.</p>
+
+<p>That is what it looks like when someone carrying a message refuses to let the message take the damage. Any friction in this exchange is going to hit him, not the thing he is carrying.</p>
+
+<h2>A queen who will not decide alone</h2>
+
+<p>Her response is the part of this story people skip, and it is one of the finest portraits of leadership in the Quran.</p>
+
+<blockquote class="ayah-quote">
+  <p class="arabic" data-ayah="27:32" dir="rtl" style="font-family: var(--font-amiri,'Amiri'),serif; font-size: 1.4rem; line-height: 2.2; color: rgba(201,168,76,0.85);">قَالَتْ يَـٰٓأَيُّهَا ٱلْمَلَؤُا۟ أَفْتُونِى فِىٓ أَمْرِى مَا كُنتُ قَاطِعَةً أَمْرًا حَتَّىٰ تَشْهَدُونِ</p>
+  <p class="translation">"She said: O eminent ones, give me a ruling in my affair. I have never decided a matter until you were present with me."</p>
+  <cite>An-Naml (27:32)</cite>
+</blockquote>
+
+<p>Two things. The word she uses for "give me a ruling" comes from the same root as <em>fatwā</em> — she is not asking for opinions or a show of hands. She is asking for a considered judgement. And the second half is autobiography: <em>I have never decided a matter until you were present with me.</em> That is not a statement about this crisis. It is a description of a lifelong habit of governing.</p>
+
+<p>Which is why what happens next actually works:</p>
+
+<blockquote class="ayah-quote">
+  <p class="arabic" data-ayah="27:33" dir="rtl" style="font-family: var(--font-amiri,'Amiri'),serif; font-size: 1.4rem; line-height: 2.2; color: rgba(201,168,76,0.85);">قَالُوا۟ نَحْنُ أُو۟لُوا۟ قُوَّةٍ وَأُو۟لُوا۟ بَأْسٍ شَدِيدٍ وَٱلْأَمْرُ إِلَيْكِ فَٱنظُرِى مَاذَا تَأْمُرِينَ</p>
+  <p class="translation">"They said: we are possessors of strength and possessors of great might — but the command is yours, so consider what you will command."</p>
+  <cite>An-Naml (27:33)</cite>
+</blockquote>
+
+<p>Read that carefully, because it is very often misreported. <strong>Her generals do not advise war.</strong> They tell her what the nation <em>has</em> — real strength, serious military capacity — and then they hand the decision straight back to her. They are answering the question she asked, which was for a judgement, not for a mood. Nowhere do they say <em>let us fight.</em></p>
+
+<p>That is a court with genuinely good habits: honest about capability, and disciplined about whose decision it is.</p>
+
+<h2>The sentence about kings</h2>
+
+<p>And then she gives her ruling, and it is one of the sharpest political observations in the Quran:</p>
+
+<blockquote class="ayah-quote">
+  <p class="arabic" data-ayah="27:34" dir="rtl" style="font-family: var(--font-amiri,'Amiri'),serif; font-size: 1.4rem; line-height: 2.2; color: rgba(201,168,76,0.85);">قَالَتْ إِنَّ ٱلْمُلُوكَ إِذَا دَخَلُوا۟ قَرْيَةً أَفْسَدُوهَا وَجَعَلُوٓا۟ أَعِزَّةَ أَهْلِهَآ أَذِلَّةً ۖ وَكَذَٰلِكَ يَفْعَلُونَ</p>
+  <p class="translation">"She said: indeed kings, when they enter a city, ruin it and render the honoured of its people humbled — and that is what they do."</p>
+  <cite>An-Naml (27:34)</cite>
+</blockquote>
+
+<p>Notice what she does <em>not</em> do. She does not say "Sulaymān will ruin us." She states a general law about kings as a class, and refuses to name him. She is being careful with a man she has never met — declining to accuse a specific person of something she only knows about the type.</p>
+
+<p>And her analysis is precise. The verb is not "destroy" or "burn." It is the word for <em>corruption</em> — something whose inner order has been broken while the thing itself still stands. The city survives conquest. What dies is what held it together. And then she names the mechanism exactly: <em>they render the honoured of its people humbled.</em> Not a massacre. An inversion. You take the people a society respects and you put them at the bottom, and the society is still there, and it is finished.</p>
+
+<p>That is not a frightened woman. That is a ruler who has thought hard about what actually happens to a conquered place.</p>
+
+<h2>The gift is an experiment</h2>
+
+<p>So she does something clever:</p>
+
+<blockquote class="ayah-quote">
+  <p class="arabic" data-ayah="27:35" dir="rtl" style="font-family: var(--font-amiri,'Amiri'),serif; font-size: 1.4rem; line-height: 2.2; color: rgba(201,168,76,0.85);">وَإِنِّى مُرْسِلَةٌ إِلَيْهِم بِهَدِيَّةٍ فَنَاظِرَةٌۢ بِمَ يَرْجِعُ ٱلْمُرْسَلُونَ</p>
+  <p class="translation">"And indeed I am going to send them a gift, and see with what the messengers return."</p>
+  <cite>An-Naml (27:35)</cite>
+</blockquote>
+
+<p>She commits to neither surrender nor war. She runs a test. And she says plainly what the test is for: <em>I will see with what the messengers return.</em> If the gift buys him, she is dealing with a king, and she knows exactly what kings do. If it doesn't, she is dealing with something she has no category for yet, and she will need to think again.</p>
+
+<p>The Quran does not tell us what the gift was. Later storytellers filled that gap with a great deal of colourful detail, and we are going to leave it empty, because the emptiness is doing work: if the contents were named, your attention would go to the objects. The verse keeps it on the act.</p>
+
+<p>Here is what comes back:</p>
+
+<blockquote class="ayah-quote">
+  <p class="arabic" data-ayah="27:36" dir="rtl" style="font-family: var(--font-amiri,'Amiri'),serif; font-size: 1.3rem; line-height: 2.2; color: rgba(201,168,76,0.85);">فَلَمَّا جَآءَ سُلَيْمَـٰنَ قَالَ أَتُمِدُّونَنِ بِمَالٍ فَمَآ ءَاتَىٰنِۦَ ٱللَّهُ خَيْرٌ مِّمَّآ ءَاتَىٰكُم بَلْ أَنتُم بِهَدِيَّتِكُمْ تَفْرَحُونَ</p>
+  <p class="translation">"So when they came to Sulaymān he said: do you offer me wealth? But what God has given me is better than what He has given you. Rather, it is you who rejoice in your gift."</p>
+  <cite>An-Naml (27:36)</cite>
+</blockquote>
+
+<p>He refuses to use her word. She said <em>gift</em>; he says something closer to <em>supply</em> — the word for reinforcements sent to an army that is running short. And that reframing is the whole rebuke: <em>you have decided I am lacking something.</em></p>
+
+<p>But the line that matters most is the middle one, and it is easy to read past. <em>What <strong>God has given me</strong> is better than what <strong>He has given you</strong>.</em> Same verb. Same Giver. Both halves.</p>
+
+<p>Stop there. He has just credited a sun-worshipping kingdom's wealth to <em>God</em>. He is not saying <em>my God gave me mine and your idols gave you yours.</em> He is saying: the God who gave me my kingdom is the same one who gave you yours. Your gold is His. The gift you are trying to buy me with came from the Person I am trying to introduce you to.</p>
+
+<p>And then, the diagnosis: <em>it is you who rejoice in your gift.</em> The Arabic verb there is one the Quran uses again and again for a very specific failure — delight in a possession that has been mistaken for an achievement. It is the exact verb used of Qārūn, the man in Sūrat al-Qaṣaṣ who said his wealth came from his own knowledge.</p>
+
+<p>So he is not moralising about money. He is making a precise observation about her: <em>you are pleased with what you have in the way people are pleased with what they made.</em> That is the disease. The gift is only the symptom.</p>
+
+<h2>Two offers, and the difference between them</h2>
+
+<p>Now the scene shifts to his court. Knowing she is coming, he asks which of them can bring him her throne. And the Quran does something deliberate here — it gives us two volunteers, and lets you hear the difference.</p>
+
+<blockquote class="ayah-quote">
+  <p class="arabic" data-ayah="27:39" dir="rtl" style="font-family: var(--font-amiri,'Amiri'),serif; font-size: 1.4rem; line-height: 2.2; color: rgba(201,168,76,0.85);">قَالَ عِفْرِيتٌ مِّنَ ٱلْجِنِّ أَنَا۠ ءَاتِيكَ بِهِۦ قَبْلَ أَن تَقُومَ مِن مَّقَامِكَ ۖ وَإِنِّى عَلَيْهِ لَقَوِىٌّ أَمِينٌ</p>
+  <p class="translation">"A powerful one from among the jinn said: I will bring it to you before you rise from your place — and indeed I am, for this, strong and trustworthy."</p>
+  <cite>An-Naml (27:39)</cite>
+</blockquote>
+
+<p>A serious offer. And look at the last clause: <em>I am, for this, strong and trustworthy.</em> He stamps his own credentials, with heavy emphasis, in his own mouth.</p>
+
+<p>Here is a detail worth carrying with you. That exact pair of words — <em>the strong, the trustworthy</em> — appears one other notable place in the Quran, in Sūrat al-Qaṣaṣ, where a young woman of Madyan says to her father about Mūsā: <em>the best one you can hire is the strong and trustworthy.</em> Same two qualities. Completely different situation: there, they are testimony given by someone else. Here, they are advertising, given by the man himself.</p>
+
+<p>Now the second volunteer, and the contrast is the point:</p>
+
+<blockquote class="ayah-quote">
+  <p class="arabic" data-ayah="27:40" dir="rtl" style="font-family: var(--font-amiri,'Amiri'),serif; font-size: 1.25rem; line-height: 2.2; color: rgba(201,168,76,0.85);">قَالَ ٱلَّذِى عِندَهُۥ عِلْمٌ مِّنَ ٱلْكِتَـٰبِ أَنَا۠ ءَاتِيكَ بِهِۦ قَبْلَ أَن يَرْتَدَّ إِلَيْكَ طَرْفُكَ ۚ فَلَمَّا رَءَاهُ مُسْتَقِرًّا عِندَهُۥ قَالَ هَـٰذَا مِن فَضْلِ رَبِّى لِيَبْلُوَنِىٓ ءَأَشْكُرُ أَمْ أَكْفُرُ ۖ وَمَن شَكَرَ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ ۖ وَمَن كَفَرَ فَإِنَّ رَبِّى غَنِىٌّ كَرِيمٌ</p>
+  <p class="translation">"Said one who had knowledge of the Book: I will bring it to you before your glance returns to you. So when he saw it settled before him, he said: this is from the favour of my Lord, to test me — whether I am grateful or ungrateful. And whoever is grateful is grateful only for himself; and whoever is ungrateful — then indeed my Lord is Free of need, Generous."</p>
+  <cite>An-Naml (27:40)</cite>
+</blockquote>
+
+<p>Both volunteers open with the identical words: <em>I will bring it to you.</em> The jinn then adds a paragraph about himself. The second man adds nothing at all. He states the timeframe and stops. And his timeframe is absurd — <em>before your glance returns to you</em>, faster than the time it takes your eye to travel out and come back.</p>
+
+<p>Who is he? The Quran says only: <em>one who had knowledge of the Book</em>. Not a name, not a rank, not even which book, and note the wording — <em>knowledge <strong>of</strong></em> the Book, some of it, a portion. Various names circulate in the commentary tradition. We are not going to supply one, because the anonymity is clearly deliberate: the verse wants the contrast to be about <strong>what he had</strong>, not who he was. Raw power announced itself and offered hours. A portion of scriptural knowledge said nothing about itself and beat it by a distance that cannot be measured.</p>
+
+<h2>The sentence at the summit</h2>
+
+<p>And now the moment the course exists for.</p>
+
+<p>The throne is <em>there</em>. Notice the Quran does not describe it arriving — there is no transit, no flash, no reaction from the court. Sulaymān simply <em>sees it settled before him</em>, as though it had always been in the room. The miracle is skipped entirely. What the verse cares about is the next thing out of his mouth.</p>
+
+<p>He is at the absolute peak of his life. Another sovereign's throne is standing in his hall, delivered across a desert faster than sight. Every king in history has a script for this moment. Here is his:</p>
+
+<p style="margin-left:2rem;"><em><strong>This is from the favour of my Lord — to test me, whether I am grateful or ungrateful.</strong></em></p>
+
+<p>Four things are happening in that sentence, and each of them is a decision.</p>
+
+<p><strong>He calls it a favour, not an achievement.</strong> The word is <em>faḍl</em> — overflow, surplus, what is given beyond what anyone was owed. Not "this is what I have built." Not even "this is what I have earned." Something that spilled over onto him.</p>
+
+<p><strong>He calls a triumph a test.</strong> This is the rarest move in the passage and the reason this life is worth a course. We are all fluent in calling hardship a test — the illness, the loss, the closed door. Almost nobody looks at a moment of maximum success and identifies it as an examination in progress. And notice: most people in the Quran are <em>told</em> they are being tested. He works it out himself, while it is happening, with the trophy in the room.</p>
+
+<p>Why would a gift be a harder test than a loss? Because a loss sits you down. Grief bends you toward God without requiring any insight on your part. A gift leaves you standing — it elevates you, and while you are up there it asks, very quietly, whether you remember where the ground is. A hardship announces itself as a spiritual situation. An abundance disguises itself as ordinary good fortune.</p>
+
+<p><strong>He names both outcomes, including the bad one.</strong> <em>Whether I am grateful or ungrateful.</em> Two doors. And the Arabic offers no third. There is no "or whether I will simply not think about it," no neutral option, no drifting. Which means something uncomfortable and clarifying: <strong>taking a thing for granted is not a middle position.</strong> In the grammar of this verse it falls on the far side. The word he uses for the bad branch is from the same root the Quran uses for disbelief — because at bottom, both are the same act: failing to recognise where something came from.</p>
+
+<p><strong>And he says it out loud, in front of his court.</strong> This is a public admission, at his highest moment, that he might fail.</p>
+
+<p>One more thing worth knowing, and you can check it yourself: in this single verse, the root for gratitude fires <strong>three times</strong>, and its opposite twice. Nowhere else in his story does the word cluster like that. The Quran is pointing.</p>
+
+<h2>The sentence that does not come</h2>
+
+<p>Now the finest thing in the verse, and it is a thing that <em>isn't there</em>.</p>
+
+<p>Read the last two clauses and listen for the shape: <em>whoever is grateful is grateful <strong>only for himself</strong>; and whoever is ungrateful —</em></p>
+
+<p>Your ear is now waiting for the matching half. <em>...and whoever is ungrateful, it is only against himself.</em> That is the sentence the symmetry demands. Every instinct in the language expects it.</p>
+
+<p>It does not come. Instead, exactly where the punishment should sit, God puts <strong>a description of Himself</strong>:</p>
+
+<p style="margin-left:2rem;"><em>...then indeed my Lord is <strong>Free of need, Generous</strong>.</em></p>
+
+<p>Where you expected a verdict, you get a self-portrait. That substitution is the theology of the whole course. God's answer to ingratitude is not, in the first instance, a threat. It is information about who He is.</p>
+
+<p>And look at the order of the two names, because it is doing real work. <em>Free of need</em> comes first. <em>Generous</em> comes second. If it ran the other way — generous, then free of need — you might read the generosity as a need being met, a giver who gives because giving does something for Him. The order forecloses it. He is independent <em>first</em>; the generosity comes out of a fullness that was never lacking anything.</p>
+
+<p>Which yields the two halves of the hardest and most freeing fact in this course. Your ingratitude <strong>takes nothing from Him</strong> — He is Free of need. And it <strong>does not stop His giving</strong> — He is Generous. The sun rises on the person who thanks Him and the person who never once thought about it. The rain falls on both fields.</p>
+
+<p>Now put that beside the other clause, the one that <em>is</em> there: <em>whoever is grateful is grateful only for himself.</em> The word "only" in the Arabic is a particle of restriction — exclusively, and nothing else. Your gratitude does not benefit God. Not a little. Not at all.</p>
+
+<p>So the whole transaction runs in one direction: <strong>He gives regardless, and the thanks are entirely for your benefit.</strong> Which is precisely what makes gratitude a real test rather than a payment. If God needed it, thanking Him would be a transaction and you would be settling a debt. Because He doesn't, the only thing your gratitude changes is you. That is why He can leave the choice genuinely open. Nothing of His is riding on it.</p>
+
+<p>And here is a small thing you now have the pieces for. This whole sequence opened with a queen who did not yet believe in God, holding a letter, reaching for the highest word she had: <em>karīm</em>. Noble. Generous. Fifteen verses later, at the theological centre of the passage, that same word turns up as a name — <em>al-Karīm</em> — and it belongs to God. She reached for the right word before she knew Who it described.</p>
+
+<h2>Her ending</h2>
+
+<p>He has her throne disguised, and the reason is stated in the verse — <em>let us see whether she will be guided.</em> Note two details. He says the disguise is <em>for her</em>, not against her; and the verb is not "recognise" or "know" but the verb of <strong>guidance</strong>. This is not a prank on a rival monarch. It is a test whose stated purpose is that she find her way.</p>
+
+<p>Her answer, when she is asked if the throne is hers, is beautifully exact: <em>it is as though it were it.</em> Neither a claim nor a denial. She has been shown something impossible and she declines both to overstate and to dismiss. That is what an honest mind does at the edge of what it can explain.</p>
+
+<p>And then the floor:</p>
+
+<blockquote class="ayah-quote">
+  <p class="arabic" data-ayah="27:44" dir="rtl" style="font-family: var(--font-amiri,'Amiri'),serif; font-size: 1.25rem; line-height: 2.2; color: rgba(201,168,76,0.85);">قِيلَ لَهَا ٱدْخُلِى ٱلصَّرْحَ ۖ فَلَمَّا رَأَتْهُ حَسِبَتْهُ لُجَّةً وَكَشَفَتْ عَن سَاقَيْهَا ۚ قَالَ إِنَّهُۥ صَرْحٌ مُّمَرَّدٌ مِّن قَوَارِيرَ ۗ قَالَتْ رَبِّ إِنِّى ظَلَمْتُ نَفْسِى وَأَسْلَمْتُ مَعَ سُلَيْمَـٰنَ لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ</p>
+  <p class="translation">"It was said to her: enter the palace. Then when she saw it she took it for a body of water and uncovered her shins. He said: it is a palace paved smooth with glass. She said: my Lord, I have wronged myself, and I submit, with Sulaymān, to God, Lord of the worlds."</p>
+  <cite>An-Naml (27:44)</cite>
+</blockquote>
+
+<p>The verb for what she did with the floor is not the verb for guessing. It is from the root of <em>reckoning</em> — the word for a calculation you have completed and are confident in. She did not wonder whether it was water. She <em>concluded</em> it was, and acted. The same verb the Quran uses of a thirsty man in a desert who sees a mirage and is certain he is looking at a lake.</p>
+
+<p>And that is the whole conversion, compressed into one small humiliation. Not an argument. Not a miracle — she had already seen the throne and it produced only a careful sentence. What finally moved her was discovering that she had been <em>completely certain</em> about something and completely wrong, over a matter as trivial as a floor. If she can be that sure and that mistaken about water, what else has she been sure about?</p>
+
+<p>Watch the order of her final words, because it is exact. First: <em>my Lord, I have wronged myself.</em> Not "I was deceived," not "the floor tricked me," not "your court embarrassed me." She locates the error inside herself, and she does it <em>before</em> she submits. Diagnosis, then surrender. That order is the whole thing.</p>
+
+<p>And the very last preposition of the sequence deserves your attention. <em>I submit, <strong>with</strong> Sulaymān, <strong>to</strong> God.</em> Alongside the man; to God alone. She has walked into the hall of the most powerful person on earth, been outmatched at every turn, and her closing sentence still puts him <em>beside</em> her and God above them both. The only vertical word in it points past him.</p>
+
+<p>That is the end of her story. The Quran says nothing further — not what she did next, not what became of her, not one word about her afterwards. Later tellers added a great deal. We will leave it exactly where the Quran leaves it, because look at what it chose for her final act: not a marriage, not a treaty, not a submission to a king. A woman working out, on her own, in public, that she had been wrong — and saying so.</p>
+
+<h2>Why these two stories are the same story</h2>
+
+<p>Now step back and see why the Quran braided these together.</p>
+
+<p>Two rulers. Both described with the identical phrase — <em>given of all things</em>. He says it about himself in verse 16; the hoopoe says it about her in verse 23. Same wording, same abundance.</p>
+
+<p>And then the fork. One of them, at the height of everything, says <em>this is from the favour of my Lord</em>. The other is found bowing to the sun — which is to say, giving her thanks to the gift instead of the Giver. Because that is what sun-worship actually is in this story: not stupidity, but gratitude aimed one step short. The sun really does give light and warmth and harvests. She was thanking something real. She just stopped at the thing she could see.</p>
+
+<p>Two people handed the same abundance. One traced it back to its source. One thanked the delivery.</p>
+
+<p>That is the test this course is about, and it is the reason her story and his had to be told together. He shows you what the grateful answer looks like from inside enormous power. She shows you how easy and how <em>reasonable</em> the other answer is — and then she shows you that it can be changed, in a moment, by a person honest enough to say <em>I was wrong.</em></p>
+
+<p>Which leaves one question standing, and the next module is going to make it much harder. Sulaymān passed this test in the most public way imaginable. So what happens in the passages where the Quran shows him <em>not</em> at his best — and then refuses to tell us what happened?</p>
+
+<!-- Course note: Structural finds used — the missing `ʿalā nafsih` parallel at 27:40 (the strongest observation in the sequence); ghaniyy-before-karīm order; the binary a-ashkuru am akfur; 27:39/27:40 diptych vs 28:26 (verified); karīm echo 27:29→27:40 (our own observation, flagged as such); 27:44 maʿa/li- prepositions; ūtiyat min kulli shayʾ (27:23) ↔ ūtīnā min kulli shayʾ (27:16). Named: al-Qurṭubī on 27:30 letter convention. DELIBERATELY OMITTED per substrate audit: Āṣif ibn Barkhiyā (unsourced, contradicted by the 27:40 file); gift contents incl. cross-dressed slaves (israʼīliyyāt); fish under the glass; "Allah endorses her analysis" (contested speaker of wa-kadhālika yafʿalūn, unnamed on both sides); "the chiefs offered war" (27:33 says the opposite); any marriage. -->
+</div></section>
+
+<section class="module" id="m4"><div class="mod-num">Module 4</div><h2 class="mod-title">What the Quran Won't Tell You</h2><div class="prose-blog">
+<p class="text-lg leading-relaxed">Everything so far has been a story the Quran tells generously. This module is about the places where it stops. There are four of them in Sulaymān's life, and they are not gaps in the record — the Quran is not an unfinished document that later writers were invited to complete. They are deliberate. Learning to stand at the edge of one of these silences without filling it is one of the more useful things a believer can learn to do, and it is also where nearly all the folklore about this man came from. So we will walk up to each silence, look at it, and say clearly what we are choosing not to tell you and why. One promise: where the scholars genuinely disagree, you will get both sides with names attached, not the version that reads most comfortably.</p>
+
+<h2>The horses</h2>
+
+<p>We start with the one scene in the Quran where Sulaymān says something about himself that no other prophet says.</p>
+
+<blockquote class="ayah-quote">
+  <p class="arabic" data-ayah="38:31" dir="rtl" style="font-family: var(--font-amiri,'Amiri'),serif; font-size: 1.4rem; line-height: 2.2; color: rgba(201,168,76,0.85);">إِذْ عُرِضَ عَلَيْهِ بِٱلْعَشِىِّ ٱلصَّـٰفِنَـٰتُ ٱلْجِيَادُ</p>
+  <p class="arabic" data-ayah="38:32" dir="rtl" style="font-family: var(--font-amiri,'Amiri'),serif; font-size: 1.4rem; line-height: 2.2; color: rgba(201,168,76,0.85);">فَقَالَ إِنِّىٓ أَحْبَبْتُ حُبَّ ٱلْخَيْرِ عَن ذِكْرِ رَبِّى حَتَّىٰ تَوَارَتْ بِٱلْحِجَابِ</p>
+  <p class="translation">"When there were displayed to him in the late afternoon the poised, swift horses — he said: indeed I have loved the love of good things over the remembrance of my Lord, until it disappeared behind the veil."</p>
+  <cite>Ṣād (38:31–32)</cite>
+</blockquote>
+
+<p>Read the confession precisely, because it is more interesting than the version people repeat. He does not say <em>I loved something evil.</em> The word for what he loved is <em>al-khayr</em> — <strong>the good</strong>. Fine horses, well-bred, standing poised: an entirely legitimate thing for a king to have and to enjoy.</p>
+
+<p>What he names is not a wrong love. It is a <em>displacement</em>. The Arabic puts a small word between the halves meaning "away from": he loved the good <strong>away from</strong> the remembrance of his Lord. Something legitimate expanded until it occupied a room something else was meant to be in.</p>
+
+<p>That is by far the most common way a good life goes quietly wrong. Almost nobody chooses evil over God. What happens is that a person chooses <em>the good</em> — the work, the family, the house, the craft they are rightly proud of — and it grows, and one day the remembrance has been squeezed to the edge of the day without a single decision ever having been made.</p>
+
+<h3>Two silences in one verse</h3>
+
+<p>Now, two things the verse does not say.</p>
+
+<p><strong>It never says "prayer."</strong> The words are <em>the remembrance of my Lord</em>. If you have heard this told as "he missed the ʿaṣr prayer," that identification is supplied by commentators — and they are nameable: Qatāda, al-Suddī, al-Jalālayn and al-Baghawī all read it as ʿaṣr, and Ibn Kathīr follows them, careful to add that the lapse was forgetfulness, not choice. But there is real dissent. Al-Qushayrī held that the prayer in question was a voluntary one, not an obligation. Al-Zamakhsharī allowed that it may have been not a prayer at all but a <em>litany</em> he kept at that hour. And Abū Jaʿfar al-Naḥḥās read the scene the other way round entirely: that Sulaymān <em>was</em> praying when the horses were brought, and gestured them away with his hand because he was mid-prayer — on which reading nothing was missed at all.</p>
+
+<p><strong>And it never says what disappeared.</strong> <em>Until it vanished behind the veil</em> — the Arabic has a pronoun with no stated antecedent. Most of the tradition reads it as the sun setting, and that is the majority by a distance: al-Ṭabarī, Qatāda, al-Suddī, al-Zamakhsharī and al-Baghawī all take it that way, and al-Qurṭubī records that this is what most commentators hold. A minority reads it as the horses passing out of sight.</p>
+
+<h3>And then the hard line</h3>
+
+<blockquote class="ayah-quote">
+  <p class="arabic" data-ayah="38:33" dir="rtl" style="font-family: var(--font-amiri,'Amiri'),serif; font-size: 1.4rem; line-height: 2.2; color: rgba(201,168,76,0.85);">رُدُّوهَا عَلَىَّ ۖ فَطَفِقَ مَسْحًۢا بِٱلسُّوقِ وَٱلْأَعْنَاقِ</p>
+  <p class="translation">"Bring them back to me. And he set about the shanks and the necks."</p>
+  <cite>Ṣād (38:33)</cite>
+</blockquote>
+
+<p>The word is <em>masḥ</em>. Its everyday meaning is <strong>wiping</strong> — passing the hand over a surface, the same family of word used for wiping the head in wuḍūʾ. And here the tradition splits properly in two, so here is the disagreement with the names on it.</p>
+
+<p><strong>The first reading: he put them to the sword.</strong> That <em>masḥ</em> here is a euphemism for striking — that he hamstrung the horses and struck their necks, giving up the thing that had distracted him. This is the larger camp: al-Ḥasan al-Baṣrī, Qatāda, al-Suddī, Muqātil, al-Jalālayn, al-Muyassar and al-Saʿdī all read it this way, and al-Baghawī reports it as the position of most of the commentators.</p>
+
+<p>If you are recoiling, do not skip what that camp actually says, because they never present it as a rage. They present it as a sacrifice, and they fence it: al-Jalālayn specifies that <strong>the meat was given away in charity</strong>. Al-Muyassar states that offering horses in sacrifice was permitted in Sulaymān's law — a different law from ours. Al-Qushayrī puts it most sharply: <em>he did not punish the horses; he punished himself.</em> On this reading the act is a man destroying what he can least afford to lose, at his own expense, and feeding people with it.</p>
+
+<p><strong>The second reading: he wiped them, as the word ordinarily means.</strong> Ibn ʿAbbās is reported as saying he passed his hand over their manes and their legs <em>out of love for them</em>. Al-Zuhrī and Ibn Kaysān describe him brushing the dust off them. And this is the reading <strong>al-Ṭabarī himself preferred</strong> — which matters, because al-Ṭabarī is normally the great collector who declines to choose. Here he chooses, and gives his reason: a prophet of God would not torture an animal, nor destroy his own wealth for no cause, <em>and the horses bore no fault</em> for his being distracted by looking at them.</p>
+
+<p>Al-Rāzī goes further and makes an argument you can check without knowing any Arabic. The Quran uses this same verb for the believer in wuḍūʾ: <em>wipe your heads and your feet</em>. If <em>masḥ</em> applied to legs and necks meant cutting them off, he says, then that verse would be an instruction to cut off your own feet — which nobody has ever suggested. The word only carries the striking sense when a sword is actually mentioned, and here no sword is mentioned.</p>
+
+<p>And because this tradition argues back, the argument gets an answer. Al-Ālūsī takes al-Rāzī on directly: nobody claimed that <em>masḥ</em> always means cutting, he says — only that in this verse, with these objects, it does; a word does not have to mean a thing everywhere to mean it here. And he adds a report, one he grades as sound enough to use, in which the cutting reading is traced back to the Prophet ﷺ himself — and after his word, al-Ālūsī says, there is no word for anyone. Whether that report holds is a question for the specialists; we hand it to you exactly as al-Ālūsī hands it, because you were promised both sides at full strength.</p>
+
+<p>So: two readings, seriously held, argued in both directions by serious people, on one word.</p>
+
+<p>And notice what happens if you stand still instead of picking. The passage's shape does not change either way: <strong>he named the drift out loud, and then he did something about it immediately.</strong> Whatever his hands did, the sequence is confession, then correction. What the Quran withholds is the content of the correction — which means you cannot copy the action. You can only copy the noticing.</p>
+
+<h2>The body on the throne</h2>
+
+<p>Now the deepest silence in this life. One verse, entire:</p>
+
+<blockquote class="ayah-quote">
+  <p class="arabic" data-ayah="38:34" dir="rtl" style="font-family: var(--font-amiri,'Amiri'),serif; font-size: 1.4rem; line-height: 2.2; color: rgba(201,168,76,0.85);">وَلَقَدْ فَتَنَّا سُلَيْمَـٰنَ وَأَلْقَيْنَا عَلَىٰ كُرْسِيِّهِۦ جَسَدًا ثُمَّ أَنَابَ</p>
+  <p class="translation">"And We certainly tested Sulaymān, and cast upon his throne a body — then he returned."</p>
+  <cite>Ṣād (38:34)</cite>
+</blockquote>
+
+<p>Nine words. A test, a body, a return. What was the test? Not said. What was the body? Not said. How long? Not said. What, if anything, did he do wrong? Not said.</p>
+
+<p>The commentators found this as difficult as you do, and they filled it — and here is the fact that settles the matter. <strong>They do not agree, and the accounts are not angles on one story. They are different stories that cannot all be true.</strong> Al-Ṭabarī transmits that the body was a devil in human form, and the reports he preserves cannot agree even on its name, offering four. Al-Muyassar has something else entirely: a half-formed child, born after an oath. Al-Zamakhsharī reports a third: a son who died and was laid on the throne. Al-Rāzī rejects all of it and proposes a severe illness that left him on his throne like a body without a soul.</p>
+
+<p>A devil, a child, a dead son, or an illness. You cannot composite those. Anyone who offers you all four as "camera angles on one event" is doing the one thing the material forbids.</p>
+
+<h3>The story we will not tell you</h3>
+
+<p>The most famous version is the ring: that Sulaymān's power lived in a signet ring, that a jinn stole it and sat on his throne impersonating him while he wandered unrecognised, and that he recovered it from the belly of a fish.</p>
+
+<p>We will not narrate it. And this is not our squeamishness — it is the classical tradition's own verdict, in unusually blunt language:</p>
+
+<ul>
+<li><strong>Abū Ḥayyān:</strong> these are accounts from which the prophets must be exonerated, and they are <em>among what it is not permissible to transmit</em>. He adds the reason: if a devil could take a prophet's form so convincingly that people accepted the impostor, then no confidence could be placed in the sending of any prophet at all.</li>
+<li><strong>Al-Zamakhsharī</strong>, having narrated it in full, says the meticulous scholars refused it and called it a fabrication, and that giving devils that kind of power over God's servants is <em>repugnant</em>.</li>
+<li><strong>Ibn Kathīr:</strong> "all of these are isrāʾīliyyāt" — material absorbed from earlier communities, some of whom did not accept Sulaymān's prophethood in the first place.</li>
+<li><strong>Al-Rāzī</strong> classes the whole cycle as the talk of story-collectors as against the people of verification, and notes that the Quran's own wording indicates none of it.</li>
+</ul>
+
+<p>And here is the detail that should stay with you longest, because it teaches you how this tradition polices itself. One version of the ring story has a <em>strong chain of transmission</em> back to Ibn ʿAbbās. Ibn Kathīr grants the chain is strong — and rejects the content anyway, on the grounds that Ibn ʿAbbās himself will have received it from the People of the Book. <strong>A sound chain to a great Companion was not, by itself, a licence.</strong> They still asked where the information originally came from.</p>
+
+<p>You want one more piece of evidence for leaving the gap alone? <strong>Ibn Kathīr's own commentary on this verse tells none of it.</strong> The most widely read tafsir in the world reaches 38:34, says he was tested, says he turned back and sought forgiveness, and moves on to the next verse.</p>
+
+<h3>What the ṣaḥīḥ report actually says — and what it doesn't</h3>
+
+<p>There is one authentic narration in this neighbourhood, and it is worth handling carefully because it shows exactly how a gap gets filled.</p>
+
+<p>In al-Bukhārī and Muslim, the Prophet ﷺ relates that Sulaymān said he would go around that night to ninety women, each of whom would bear a horseman who would fight in God's path. His companion said to him: <em>say, if God wills.</em> He did not say it. He went to them all, and none conceived except one woman, who bore half a child. And the Prophet ﷺ added: had he said <em>if God wills</em>, they would all have fought in God's path.</p>
+
+<p>That is a rigorously authenticated report and it teaches something plain and useful about the limits of even a prophet's intention.</p>
+
+<p>Now notice what it does <strong>not</strong> contain. No throne. No body cast on anything. Not one word connecting it to 38:34. The verse speaks of a <em>jasad</em> on a <em>kursī</em>; the ḥadīth speaks of an oath and a child, in a different place, with no scene in common.</p>
+
+<p>Al-Muyassar joins them. Others do. And they may be right — it is a reasonable inference and a respectable one. But it is an <em>inference</em>. <strong>The Quran never joins them. The commentators did.</strong> And once you can see that seam — here is an authentic text, here is a verse, and here is a human being connecting them — you have learned the main skill this module exists to teach.</p>
+
+<h2>The word he shares with his father</h2>
+
+<p>Look at the last word of the verse: <em>thumma anāb</em> — <strong>then he returned.</strong></p>
+
+<p>And now, honestly: even <em>that</em> is contested, and the contest proves the point. Al-Saʿdī and Ibn Kathīr read it as returning to God in repentance. But al-Ṭabarī, al-Jalālayn, Muqātil and Qatāda read it as returning <em>to his kingdom</em> — the restoration at the end of whatever happened. The verse's very last word has a gap in it too, and every school filled the gap with its own reconstruction of the story it had already decided on.</p>
+
+<p>Which is why the honest thing is to take the word to the one place where it is unambiguous. Ten verses earlier, in the same chapter, at the summit of his father's story, Dāwūd realises he has been tested — <em>so he sought his Lord's forgiveness, and fell down bowing, <strong>and returned</strong>.</em> There is nothing ambiguous there. A man on the floor.</p>
+
+<p>And this is checkable, so check it. In that exact form — the third-person masculine singular perfect, <em>anāba</em> — the word occurs in only <strong>four places in the entire Quran</strong>: two elsewhere, and then Ṣād verse 24 and Ṣād verse 34. This father and this son, ten verses apart, each at the moment of being tested. <em>(Be precise if you repeat this: the plural form turns up once more, at 39:17. It is the singular that lands four times.)</em></p>
+
+<p>Which turns the two silences into one point. <strong>The Quran withholds the content of both tests.</strong> We are never told what Dāwūd's slip fully amounted to. We are never told what happened to Sulaymān at all. In both cases the text skips the failure and keeps the return. That is an editorial decision made twice, in one chapter, about one family — and it tells you what God considers the reportable part of a person's worst moment. Not the fall. <strong>The turn.</strong></p>
+
+<p>And then the chapter does something quietly astonishing that almost nobody notices. Read the line God gives Dāwūd immediately after forgiving him, and the line God gives Sulaymān at the end of his entire passage:</p>
+
+<blockquote class="ayah-quote">
+  <p class="arabic" data-ayah="38:25" dir="rtl" style="font-family: var(--font-amiri,'Amiri'),serif; font-size: 1.4rem; line-height: 2.2; color: rgba(201,168,76,0.85);">فَغَفَرْنَا لَهُۥ ذَٰلِكَ ۖ وَإِنَّ لَهُۥ عِندَنَا لَزُلْفَىٰ وَحُسْنَ مَـَٔابٍ</p>
+  <p class="translation">"So We forgave him that. And indeed, for him with Us is nearness, and a beautiful place of return."</p>
+  <cite>Ṣād (38:25) — after Dāwūd's test</cite>
+</blockquote>
+
+<blockquote class="ayah-quote">
+  <p class="arabic" data-ayah="38:40" dir="rtl" style="font-family: var(--font-amiri,'Amiri'),serif; font-size: 1.4rem; line-height: 2.2; color: rgba(201,168,76,0.85);">وَإِنَّ لَهُۥ عِندَنَا لَزُلْفَىٰ وَحُسْنَ مَـَٔابٍ</p>
+  <p class="translation">"And indeed, for him with Us is nearness, and a beautiful place of return."</p>
+  <cite>Ṣād (38:40) — after Sulaymān's whole kingdom</cite>
+</blockquote>
+
+<p><strong>The same six words.</strong> Verse 40 is, in its entirety, the closing clause of verse 25.</p>
+
+<p>Sit with what that means. The sentence God uses to seal a man who has just been <em>forgiven</em> is, word for word, the sentence He uses to seal a man who has just been given the wind, the jinn, and dominion over the created world. Nearness and a beautiful homecoming — identical, for the father at his lowest and the son at his highest.</p>
+
+<p>Which is the whole family inheritance in one line, and it is not the kingdom. Two men, two completely different tests, and the same ending — because in the accounting that matters, being forgiven and being given everything come out to precisely the same place.</p>
+
+<h2>The prayer that sounds wrong</h2>
+
+<blockquote class="ayah-quote">
+  <p class="arabic" data-ayah="38:35" dir="rtl" style="font-family: var(--font-amiri,'Amiri'),serif; font-size: 1.4rem; line-height: 2.2; color: rgba(201,168,76,0.85);">قَالَ رَبِّ ٱغْفِرْ لِى وَهَبْ لِى مُلْكًا لَّا يَنۢبَغِى لِأَحَدٍ مِّنۢ بَعْدِىٓ ۖ إِنَّكَ أَنتَ ٱلْوَهَّابُ</p>
+  <p class="translation">"He said: my Lord, forgive me, and grant me a kingdom that will not belong to anyone after me. Indeed, You are the Bestower."</p>
+  <cite>Ṣād (38:35)</cite>
+</blockquote>
+
+<p>On a quick read this sounds like the opposite of the whole course: a man just tested, asking for <em>more</em>, and asking that nobody else ever have it.</p>
+
+<p>So read the frame before the middle. It <strong>opens</strong> with <em>my Lord, forgive me</em> — an admission before a request. It <strong>closes</strong> on a name of God: <em>You are al-Wahhāb</em>, the Bestower, the One who gives freely and without cause. The request is held between an acknowledgement of his own need and an acknowledgement of God's nature.</p>
+
+<p>And there is a detail you can hear. The verb for "grant me" is <em>hab</em>, and the name he closes on is <em>al-Wahhāb</em>: the same root, the root of giving as pure gift. And that root has already appeared in this passage — five verses earlier, the Quran introduced Sulaymān himself with it: <em>and <strong>We gifted</strong> to Dāwūd — Sulaymān.</em> So the passage runs: Sulaymān is <em>a gift</em> → Sulaymān asks for <em>a gift</em> → and names God <em>the Giver of gifts</em>. A man who was himself a present, asking the One who presents.</p>
+
+<p>As for the strange clause — <em>not for anyone after me</em> — the commentators read it several ways. Al-Jalālayn takes it as "belonging to no one <em>other</em> than me." ʿAṭāʾ ibn Abī Rabāḥ, and al-Ṭabarī with him, read it as asking that this kingdom not be <em>stripped</em> from him again. Ibn Kathīr thinks the plain sense is that no one after him would have the right to ask for such a thing.</p>
+
+<p>And there is one more thing about this verse, and it is the finest small fact in the module.</p>
+
+<p>In al-Bukhārī and Muslim, the Prophet ﷺ describes an ʿifrīt of the jinn coming at him in the night to break his prayer — and God gave him power over it. He had it. And he says: <em>I wanted to tie it to one of the pillars of the mosque so that you could all look at it in the morning — then I remembered the supplication of my brother Sulaymān, "grant me a kingdom that will not belong to anyone after me" — so I let it go.</em></p>
+
+<p>Read that again. The Prophet ﷺ had the creature in his hands, and released it rather than encroach on a prayer that a prophet dead for centuries had been granted. That is what respect for someone else's gift looks like when it costs you something. And notice: it is also a straight confirmation that Sulaymān's request was <em>answered</em>.</p>
+
+<h2>The charge of sorcery</h2>
+
+<p>Now one more silence — except this one is the opposite. It is the place where the Quran speaks up and defends him.</p>
+
+<p>In the centuries around and after his life, a body of magical literature circulated under his name. Books of spells attributed to Solomon. The claim underneath was simple: that his kingdom — the jinn, the wind, the impossible knowledge — ran on sorcery.</p>
+
+<p>The Quran answers it inside a long verse in al-Baqarah. We quote it whole, because a contested verse deserves to be seen whole:</p>
+
+<blockquote class="ayah-quote">
+  <p class="arabic" data-ayah="2:102" dir="rtl" style="font-family: var(--font-amiri,'Amiri'),serif; font-size: 1.15rem; line-height: 2.3; color: rgba(201,168,76,0.85);">وَٱتَّبَعُوا۟ مَا تَتْلُوا۟ ٱلشَّيَـٰطِينُ عَلَىٰ مُلْكِ سُلَيْمَـٰنَ ۖ وَمَا كَفَرَ سُلَيْمَـٰنُ وَلَـٰكِنَّ ٱلشَّيَـٰطِينَ كَفَرُوا۟ يُعَلِّمُونَ ٱلنَّاسَ ٱلسِّحْرَ وَمَآ أُنزِلَ عَلَى ٱلْمَلَكَيْنِ بِبَابِلَ هَـٰرُوتَ وَمَـٰرُوتَ ۚ وَمَا يُعَلِّمَانِ مِنْ أَحَدٍ حَتَّىٰ يَقُولَآ إِنَّمَا نَحْنُ فِتْنَةٌ فَلَا تَكْفُرْ ۖ فَيَتَعَلَّمُونَ مِنْهُمَا مَا يُفَرِّقُونَ بِهِۦ بَيْنَ ٱلْمَرْءِ وَزَوْجِهِۦ ۚ وَمَا هُم بِضَآرِّينَ بِهِۦ مِنْ أَحَدٍ إِلَّا بِإِذْنِ ٱللَّهِ ۚ وَيَتَعَلَّمُونَ مَا يَضُرُّهُمْ وَلَا يَنفَعُهُمْ ۚ وَلَقَدْ عَلِمُوا۟ لَمَنِ ٱشْتَرَىٰهُ مَا لَهُۥ فِى ٱلْـَٔاخِرَةِ مِنْ خَلَـٰقٍ ۚ وَلَبِئْسَ مَا شَرَوْا۟ بِهِۦٓ أَنفُسَهُمْ ۚ لَوْ كَانُوا۟ يَعْلَمُونَ</p>
+  <p class="translation">"And they followed what the devils recited during the reign of Sulaymān. And Sulaymān did not disbelieve — but the devils disbelieved, teaching people magic, and that which was sent down to the two angels at Babylon, Hārūt and Mārūt. And the two would not teach anyone until they said: we are only a trial, so do not disbelieve. And they learned from them that by which they cause separation between a man and his wife. But they harm no one through it except by God's permission. And they learned what harms them and does not benefit them. And they certainly knew that whoever purchased it would have no share in the Hereafter. And wretched is that for which they sold themselves, if only they had known."</p>
+  <cite>Al-Baqarah (2:102)</cite>
+</blockquote>
+
+<p>Four words in the middle do the work: <strong><em>wa mā kafara Sulaymān</em></strong> — <em>and Sulaymān did not disbelieve.</em> Flat, unqualified, in God's own speech. The Quran does not often stop to answer a specific accusation against a prophet by name. Here it does.</p>
+
+<p>And it reassigns the blame in the same breath: <em>but the devils disbelieved, teaching people magic.</em> The magic was real and it was circulating — and it belonged to them. What was attached to his name was never his.</p>
+
+<p>Two further things the verse itself settles, and we will stay strictly inside them. It condemns the practice without ambiguity — those who learn it learn <em>what harms them and does not benefit them</em>, and have <em>no share in the Hereafter</em>. And it sets the governor on the entire subject: <em>they harm no one through it except by God's permission.</em> Nothing here operates outside God's authority.</p>
+
+<p>And notice what the verse does <strong>not</strong> do. It tells you what magic <em>does</em>. It never tells you how. No mechanism, no technique. The Quran names the harm and withholds the method — which is the model, and we follow it exactly. There is a great deal of story in the commentaries about the two angels at Babylon. The verse gives two names and one sentence of theirs, and we go no further.</p>
+
+<h2>The death nobody noticed</h2>
+
+<blockquote class="ayah-quote">
+  <p class="arabic" data-ayah="34:14" dir="rtl" style="font-family: var(--font-amiri,'Amiri'),serif; font-size: 1.25rem; line-height: 2.2; color: rgba(201,168,76,0.85);">فَلَمَّا قَضَيْنَا عَلَيْهِ ٱلْمَوْتَ مَا دَلَّهُمْ عَلَىٰ مَوْتِهِۦٓ إِلَّا دَآبَّةُ ٱلْأَرْضِ تَأْكُلُ مِنسَأَتَهُۥ ۖ فَلَمَّا خَرَّ تَبَيَّنَتِ ٱلْجِنُّ أَن لَّوْ كَانُوا۟ يَعْلَمُونَ ٱلْغَيْبَ مَا لَبِثُوا۟ فِى ٱلْعَذَابِ ٱلْمُهِينِ</p>
+  <p class="translation">"Then when We decreed death for him, nothing indicated to them his death except a creature of the earth eating his staff. So when he fell, it became clear to the jinn that if they had known the unseen, they would not have remained in the humiliating labour."</p>
+  <cite>Sabaʾ (34:14)</cite>
+</blockquote>
+
+<p>The most powerful ruler in the Quran dies leaning on a stick, and nobody notices. Not his court. Not the unseen beings labouring for him. The work continues over a dead king.</p>
+
+<p>Two quick notes on what is text and what is commentary, since that is this module's discipline. The verse says <em>a creature of the earth</em>; that it was a termite is supplied — though nearly everyone supplies it, Ibn ʿAbbās, Mujāhid and Qatāda among them. And the famous detail that he stood dead for <em>a year</em> is also supplied: al-Ṭabarī and Qatāda say a year, Ibn Kathīr says nearly a year, and al-Saʿdī is careful enough to add "according to what has been said." The Quran gives no duration.</p>
+
+<p>Now read the verse's own stated conclusion, because it tells you what the scene is <em>for</em> — and it is not about him. It is about <em>them</em>: <em>it became clear to the jinn that if they had known the unseen, they would not have remained in the humiliating labour.</em></p>
+
+<p>That is the point. The scene exists to demonstrate, publicly and permanently, that <strong>the jinn do not know the unseen.</strong> They could not tell that the man at the front of the room had died. They kept working out of ignorance.</p>
+
+<p>Put that beside the sorcery charge and watch what happens to it. The whole appeal of the Solomonic magic literature was hidden knowledge through unseen beings — secrets, access, power behind the curtain. And the Quran's closing image of Sulaymān's life is those same beings unable to perceive a corpse a few feet away.</p>
+
+<p>The Quran did not merely deny the charge. It destroyed the market for it.</p>
+
+<p>And for our purposes, one more thing. Everything he was given outlasted him by exactly as long as a staff takes to give way. He had said it himself, decades earlier, with a queen's throne standing in his hall: <em>this is from the favour of my Lord.</em> He was right. It was never his. The ending simply makes it visible.</p>
+
+<h2>How the tradition polices itself</h2>
+
+<p>Before the last question, one scene — because everything this module has asked you to do was being done, far better, thirteen centuries ago.</p>
+
+<p>Ibn ʿAbbās once asked ʿAlī ibn Abī Ṭālib about the horses verse. ʿAlī asked him what he had heard. Ibn ʿAbbās repeated an account he had received from Kaʿb al-Aḥbār — a detailed story, with numbers in it, in which Sulaymān wronged the horses and had his kingdom stripped from him as a punishment.</p>
+
+<p>ʿAlī's answer was two words: <strong><em>Kaʿb lied.</em></strong></p>
+
+<p>And then he gave his reason, which is the sentence to take out of this module: <em>the prophets of God do not commit wrong, because they are protected.</em></p>
+
+<p>That is a Companion of the Prophet ﷺ, receiving a colourful account about a prophet's failure, and rejecting it — not because he had a competing chain, but because he measured the story against what he already knew to be true about prophets and found it wanting. The habit of refusing a good story on principle is not a modern squeamishness. It is as old as ʿAlī.</p>
+
+<h2>Why this life gets told, and his father's does not</h2>
+
+<p>One last question, and it is structural.</p>
+
+<p>Dāwūd is scattered — sixteen verses across nine chapters, no continuous narrative, no chronology. Sulaymān gets around thirty consecutive verses with a beginning, a middle and an end. Same family, opposite treatment. Why?</p>
+
+<p>Consider what each life has to demonstrate.</p>
+
+<p>Dāwūd's lesson is a <em>word</em>: he was a returner. A word can be shown anywhere. Drop it in Ṣād, in Sabaʾ, in al-Anbiyāʾ, and each fragment carries the whole point, because the point is a quality. Scattering it actually helps — it makes the word read as a permanent character rather than an event on a particular afternoon.</p>
+
+<p>Sulaymān's lesson is a <em>sequence</em>. Gratitude cannot be shown in a fragment, because its whole nature is that it has to survive things happening. You have to watch a man be handed something, then more, then more, and keep saying the same sentence about where it came from. Tested small — an ant. Then medium — a bird who knows better. Then at maximum, with another sovereign's throne in his hall. And then you have to watch him die and lose all of it, to find out whether the sentence was true.</p>
+
+<p>You cannot cut that into pieces. Take any one scene out and it becomes a nice moment. Kept together, it becomes an argument.</p>
+
+<p>So the distribution is not an accident of editing. The scattered treatment went to the man whose lesson was a quality; the continuous treatment to the man whose lesson was a process. And they were given the same word for the moment each was tested, and the same six words for where each ended up — so you would know they were one family after all.</p>
+
+<p>Which leaves the last question, the one Module 5 is for: what all of this was doing in a book that was sent to you.</p>
+
+<!-- Course note / SOURCING:
+  · REVISED 2026-08-10 after the 14-edition tafsir-report brief. First draft had the masḥ ikhtilāf weighted backwards (presented slaughter as minority; al-Baghawī reports it as most commentators) and — worse — taught the slaughter reading WITHOUT its guard clauses. Both fixed.
+  · Horses: both camps named. Camp A (al-Ḥasan, Qatāda, al-Suddī, Muqātil, al-Jalālayn, al-Muyassar, al-Saʿdī; al-Baghawī = "most"). GUARDS MANDATORY and now present: al-Jalālayn (meat in charity), al-Muyassar (legislated qurba in his sharīʿa), al-Qushayrī ("he punished himself"). Camp B (Ibn ʿAbbās, al-Zuhrī, Ibn Kaysān; al-Ṭabarī PREFERRING, with his ʿiṣma reasoning). al-Rāzī's 5:6 argument included — best lay-legible argument in the passage.
+  · ṣalāh/ʿaṣr: supplied — Qatāda, al-Suddī, al-Jalālayn, al-Baghawī, Ibn Kathīr. Dissent named: al-Qushayrī (nāfila), al-Zamakhsharī (wird), al-Naḥḥās (no lapse).
+  · tawārat: sun = majority (al-Ṭabarī, Qatāda, al-Suddī, al-Zamakhsharī, al-Baghawī; al-Qurṭubī "al-akthar"). Corrected from first draft's even balance.
+  · 38:34 ring prohibition now carries its named verdicts: Abū Ḥayyān ("not permissible to transmit"), al-Zamakhsharī, Ibn Kathīr ("isrāʾīliyyāt"), al-Rāzī. Plus the strong-isnād-is-not-a-licence point and the fact Ibn Kathīr's own tafsir declines to narrate it.
+  · WIVES ḤADĪTH NOW INCLUDED (was deferred in draft 1 for lack of citation): al-Bukhārī 6639 / Muslim 1654, Abū Hurayra, marfūʿ. Wording used = NINETY (the Ṣaḥīḥayn wording; al-Zamakhsharī and al-Rāzī cite seventy; al-Maqburī via al-Wāqidī has one hundred — weakest chain). Taught per design §6.2: authentic, but the ḥadīth mentions NO throne and NO jasad — the link to 38:34 is commentarial (al-Muyassar makes it; Ibn ʿAṭiyya rejects it).
+  · anāba: the "returned to his KINGDOM" reading (al-Ṭabarī, al-Jalālayn, Muqātil, Qatāda) now taught alongside the repentance reading (al-Saʿdī, Ibn Kathīr) — draft 1 asserted only the latter.
+  · anāba count qualified to 3rd-masc-sing perfect; plural at 39:17 flagged in-text. Independently verified by full-corpus scan 2026-08-10.
+  · 38:25/38:40 six-word identity VERIFIED programmatically (38:40 is a proper suffix of 38:25). Our own observation.
+  · ʿifrīt ḥadīth: al-Bukhārī (Anbiyāʾ) / Muslim 541, Abū Hurayra.
+  · ʿAlī "Kaʿb lied" — al-Qurṭubī/al-Baghawī. Used as the tradition's own model of method.
+  · 2:102 kept strictly textual; substrate file had ZERO named scholars. A 14-edition report now exists (tafsir-report-102-103.md, 2026-08-10); nothing here leans on the old file.
+  · FABLE REVIEW 2026-08-10: added al-Ālūsī's rebuttal of al-Rāzī's 5:6 argument (verified in tafsir-report-030-033.md under al-Alusi: "أما ما قاله من أنه لو كان مسح السوق والأعناق بمعنى القطع لكان امسحوا برؤوسكم أمرا بقطعها ففيه أن هذا إنما يتم لو قيل إن المسح كلما ذكر بمعنى القطع" + the ḥasan-graded marfūʿ he cites via al-Ṭabarānī/al-Ismāʿīlī/Ibn Mardawayh). The module was teaching al-Rāzī's argument with no answer — the exact failure it warns against. All 15 named attributions in this module spot-checked against the raw reports on disk; all real.
+-->
+</div></section>
+
+<section class="module" id="m5"><div class="mod-num">Module 5</div><h2 class="mod-title">Your Own Kingdom</h2><div class="prose-blog">
+<p class="text-lg leading-relaxed">For five modules you have been watching a man who was given more than anyone. This one is short, and it is about you. Not because courses are supposed to end on something uplifting — but because there is one fact about the sentence we have been following all course that has been held back until now, and it changes who this story was written for. Before we get there: three questions. Take them slowly. They are the practical weight of everything we have done.</p>
+
+<h2>What is your ant?</h2>
+
+<p>Go back to the valley. An entire army — jinn, men, birds, in ranks — halted by a single insect saying something the king was never supposed to overhear. And she was not flattering him. She was warning her people to get out of his way.</p>
+
+<p>Notice what the scene actually costs him. Nothing at all, in one sense — he loses no battle, no territory, no face. And everything, in another: a man that powerful had to be <em>listening</em> in the first place, at ground level, to a voice with no rank, that was not addressed to him, and that was frankly not very complimentary. Most people at the top of anything have quietly stopped hearing at that altitude. Not because they decided to. Because the noise up there is louder, and the small voices stop reaching.</p>
+
+<p>You have ants. The junior person whose objection you heard as a complaint. The child who told you something in a bad tone and you only processed the tone. The spouse who mentioned it three times before you registered it as information. The quiet worry of your own that you keep talking over. None of these arrive with authority. That is exactly why they are the test.</p>
+
+<p><em>So: who is your ant — the voice with no standing that has been trying to redirect you? And what did it actually say, underneath how it said it?</em></p>
+
+<h2>What would you refuse?</h2>
+
+<p>Now the queen's experiment, because it is sharper than it looks. She did not send a gift out of courtesy. She sent it as a diagnostic. Her reasoning was cold and correct: kings can be bought, and the cheapest way to find out what a man is, is to offer him something. <em>I will see with what the messengers return.</em></p>
+
+<p>And when the gift arrived, his refusal was not a display of piety. Read it again — it is almost blunt:</p>
+
+<blockquote class="ayah-quote">
+  <p class="arabic" data-ayah="27:36" dir="rtl" style="font-family: var(--font-amiri,'Amiri'),serif; font-size: 1.4rem; line-height: 2.2; color: rgba(201,168,76,0.85);">فَلَمَّا جَآءَ سُلَيْمَـٰنَ قَالَ أَتُمِدُّونَنِ بِمَالٍ فَمَآ ءَاتَىٰنِۦَ ٱللَّهُ خَيْرٌ مِّمَّآ ءَاتَىٰكُم بَلْ أَنتُم بِهَدِيَّتِكُمْ تَفْرَحُونَ</p>
+  <p class="translation">"So when they came to Sulaymān he said: do you offer me wealth? What God has given me is better than what He has given you. Rather, it is you who rejoice in your gift."</p>
+  <cite>An-Naml (27:36)</cite>
+</blockquote>
+
+<p>He is not saying <em>I am above money.</em> He is saying something more precise: <em>you are delighted by what you were given; I am not, because I know where mine came from.</em> The gift could not move him because he was not holding his own kingdom as a possession in the first place. You cannot outbid a man who already thinks everything he has is on loan.</p>
+
+<p>That is the practical difference gratitude makes, and it is worth being clear about it, because gratitude gets sold as a warm feeling. It is not a feeling here. It is a way of holding things that changes what you can be offered. The ungrateful man owns his life, so every offer is real leverage against it. The grateful man is holding something that was handed to him, so most offers simply do not connect.</p>
+
+<p><em>So: what would you refuse? Not in principle — in practice. What is the offer that would actually get you: the money, the title, the room you have wanted to be let into, the approval of one particular person? Name it honestly. That is where you are still holding something as though you made it.</em></p>
+
+<h2>Which of the two are you, today?</h2>
+
+<p>The third question is the course itself, pointed at you. At the highest moment of his life — another monarch's throne standing in his hall, fetched faster than a glance — he does not celebrate and he does not credit himself. He says out loud that this is a test, and he names both ways it can go: <em>am I grateful, or ungrateful?</em></p>
+
+<p>Sit with how unusual that is. Most people in the Quran are told they are being tested. He works it out himself, mid-triumph, at the exact moment when nobody would have blamed him for enjoying it. And he asks the question in the present tense, about himself, with the bad answer left on the table.</p>
+
+<p>Here is why that matters for you. We tend to imagine the test of a good life arrives as hardship — the illness, the loss, the closed door. And it does. But this whole course has been about the other kind, the kind almost nobody names: <strong>the test where everything goes right.</strong> The promotion. The healthy child. The house. The years when nothing is wrong. Those are not the gaps between tests. In this story they <em>are</em> the test, and they are harder, because a hardship makes you turn toward God automatically and an abundance quietly does the opposite.</p>
+
+<p><em>So: think of the best thing in your life right now — the thing that is going well. Then ask his question in his words, in the present tense: am I grateful, or ungrateful, about this? Not "should I be." Am I.</em></p>
+
+<h2>The sentence was never his alone</h2>
+
+<p>Now the fact we have been holding back.</p>
+
+<p>All course long, that sentence at 27:40 has looked like the property of an extraordinary man — the summit of the largest kingdom ever given to a human being, wind and jinn and the speech of birds, a throne teleported across a desert. Read it that way and it is easy to conclude, quietly, that it belongs to a scale of life you will never have.</p>
+
+<p>But the Quran says it somewhere else. Look who it hands it to:</p>
+
+<blockquote class="ayah-quote">
+  <p class="arabic" data-ayah="31:12" dir="rtl" style="font-family: var(--font-amiri,'Amiri'),serif; font-size: 1.4rem; line-height: 2.2; color: rgba(201,168,76,0.85);">وَلَقَدْ ءَاتَيْنَا لُقْمَـٰنَ ٱلْحِكْمَةَ أَنِ ٱشْكُرْ لِلَّهِ ۚ وَمَن يَشْكُرْ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ ۖ وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِىٌّ حَمِيدٌ</p>
+  <p class="translation">"And We had certainly given Luqmān wisdom: be grateful to God. And whoever is grateful is grateful only for himself; and whoever is ungrateful — then indeed God is Free of need, Praiseworthy."</p>
+  <cite>Luqmān (31:12)</cite>
+</blockquote>
+
+<p>Put the two side by side. Sulaymān, at 27:40: <em>whoever is grateful is grateful only for himself; and whoever is ungrateful — then my Lord is Free of need, Generous.</em> Luqmān, at 31:12: <em>whoever is grateful is grateful only for himself; and whoever is ungrateful — then God is Free of need, Praiseworthy.</em></p>
+
+<p>That is not a similar idea. In Arabic the core of it is one identical, uninterrupted run of words — <em>is grateful only for himself; and whoever is ungrateful — then indeed…</em> — and the differences ride on the edges: the tense of one verb, Sulaymān's <em>my Lord</em> against the narration's <em>God</em>, and the closing name — Generous in his mouth, Praiseworthy in the other. The same sentence, said twice, tuned to two speakers.</p>
+
+<p>And now look at the two men it is said by. Sulaymān has a kingdom no one else in the Quran is given, dominion over the wind, an army of three kinds of creature, and a throne fetched from another country in less than a blink. Luqmān has — what? The Quran gives him no kingdom, no army, no miracle, not one supernatural thing. It says he was given <em>wisdom</em>, and then it sits him down to talk to his son. That is his whole scene. A father, advising his boy.</p>
+
+<p>The greatest king in the book and a man with nothing but good sense and a child say the same sentence about gratitude. Which tells you what that sentence was actually measuring all along. Not the size of the kingdom. The way it is held.</p>
+
+<p>And then the Quran removes the last excuse and addresses it to everybody:</p>
+
+<blockquote class="ayah-quote">
+  <p class="arabic" data-ayah="14:7" dir="rtl" style="font-family: var(--font-amiri,'Amiri'),serif; font-size: 1.4rem; line-height: 2.2; color: rgba(201,168,76,0.85);">وَإِذْ تَأَذَّنَ رَبُّكُمْ لَئِن شَكَرْتُمْ لَأَزِيدَنَّكُمْ ۖ وَلَئِن كَفَرْتُمْ إِنَّ عَذَابِى لَشَدِيدٌ</p>
+  <p class="translation">"And when your Lord proclaimed: if you are grateful, I will certainly increase you — but if you are ungrateful, indeed My punishment is severe."</p>
+  <cite>Ibrāhīm (14:7)</cite>
+</blockquote>
+
+<p>Two roots in that verse, set against each other: <em>shakartum</em> and <em>kafartum</em> — grateful, ungrateful. They are the same two words Sulaymān used about himself on his throne, now in the plural, aimed at everyone reading. The fork he found at the summit of the greatest kingdom in the Quran is the same fork you are standing at over something much smaller, and the Quran does not treat them as different questions.</p>
+
+<p>Notice also what is promised on the good branch. Not comfort, not reward exactly — <em>increase</em>. Gratitude is the one response in the Quran with more attached to the far end of it. Which is a strange kind of arithmetic: the thing that costs nothing is the thing that grows.</p>
+
+<h2>The rarest category in the book</h2>
+
+<p>One last verse, and it is the one that should keep you honest. In Sūrat Sabaʾ, God lists what the jinn built for Sulaymān — the sanctuaries, the great basins, the fixed cauldrons — and then, in the middle of that inventory of overwhelming abundance, drops a command and a verdict:</p>
+
+<blockquote class="ayah-quote">
+  <p class="arabic" data-ayah="34:13" dir="rtl" style="font-family: var(--font-amiri,'Amiri'),serif; font-size: 1.3rem; line-height: 2.2; color: rgba(201,168,76,0.85);">يَعْمَلُونَ لَهُۥ مَا يَشَآءُ مِن مَّحَـٰرِيبَ وَتَمَـٰثِيلَ وَجِفَانٍ كَٱلْجَوَابِ وَقُدُورٍ رَّاسِيَـٰتٍ ۚ ٱعْمَلُوٓا۟ ءَالَ دَاوُۥدَ شُكْرًا ۚ وَقَلِيلٌ مِّنْ عِبَادِىَ ٱلشَّكُورُ</p>
+  <p class="translation">"They made for him what he willed of sanctuaries, statues, basins like reservoirs, and fixed cauldrons. Work, O family of Dāwūd, in gratitude — and few of My servants are grateful."</p>
+  <cite>Sabaʾ (34:13)</cite>
+</blockquote>
+
+<p>Read where that last line is placed. Not after a passage about suffering. After a list of everything a person could want. <em>Work in gratitude — and few of My servants are grateful.</em> The warning lands hardest exactly where the giving is heaviest, which is the whole thesis of this course in one verse.</p>
+
+<p>And the word is <em>few</em>. Of all the categories the Quran could have called rare, it picks this one. Not the brave. Not the learned. The grateful.</p>
+
+<p>That is a hard sentence and also an unusually open one. Every rare category has an entry requirement, and look at what this one costs: nothing you have to acquire. No throne, no wisdom of Luqmān's calibre, no gift you were not given. Just a particular way of holding what is already in your hands. It is the rarest group in the book, and the door is unlocked.</p>
+
+<h2>What the course was for</h2>
+
+<p>So here is why the Quran gave us this particular man, at this particular scale. Not so you would admire someone out of reach. It built the largest possible version of the test — every gift at once, dominion over creation itself — so that the question underneath it would be impossible to mistake for anything else. Strip a life of every hardship, hand it everything, and see what is left to be tested on. What is left is gratitude. That is the experiment An-Naml runs, and it runs it at maximum size so the result would be legible.</p>
+
+<p>Your version is smaller and it is not lesser. The same fork, over a smaller kingdom: a body that mostly works, people who are still here, a roof, a skill, an ordinary Tuesday in which nothing went wrong. The man who could summon wind said thank you for an ant. The man with no kingdom at all said the same sentence about the same thing.</p>
+
+<p>And remember how his story ends, because the Quran chose that ending on purpose. He dies leaning on a staff and not one of the jinn labouring around him notices. The kingdom kept running for a while over a dead king. Everything he was given outlasted him by exactly as long as it took a small creature to eat through a stick. None of it was ever his. It was on loan the whole time, which is precisely what he had been saying since the ant.</p>
+
+<p>The course ends here, deliberately short of the practice. What we have done across six modules is change what you <em>see</em> — teaching you to find the giving underneath the gifts, in his life and then in yours. Building the reflex is slower work, and we have a separate place for it. Take the three questions with you. There is nothing to hand in. They are the doors in.</p>
+
+<p>His story opens before a single test arrives, with two kings saying <em>praise be to God</em> — and it closes on the reason that mattered. God gives to the grateful and the ungrateful alike; the giving was never conditional on the thanks. Which is exactly what makes the thanks a real test, and exactly what makes it worth something when you offer it.</p>
+
+<!-- Course note: end of the arc (M0 story + M1-M5). Reveal = 27:40 ≈ 31:12 shared core, then 14:7 universalises the shakara/kafara fork. FABLE REVIEW 2026-08-10: first draft claimed "the only real difference is the divine name at the end" — FALSE. Longest-common-substring against canonical text: the identical run is "فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ ۖ وَمَن كَفَرَ فَإِنَّ" (56 chars); three edge differences (shakara/yashkur, rabbī/Allāh, karīm/ḥamīd). Prose now states all three. Handoff target = the separate contemplation practice. Free funnel articles (2:102 exoneration, the hoopoe 27:20-28, the death 34:14) double as stations. -->
+</div></section>
+    </main>
+  </div>
+</div>
+<script>
+const root=document.documentElement;
+const saved=localStorage.getItem('dawud-preview-theme');
+root.dataset.theme = saved || (matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light');
+document.querySelector('.toggle').addEventListener('click',()=>{
+  root.dataset.theme = root.dataset.theme==='dark'?'light':'dark';
+  localStorage.setItem('dawud-preview-theme',root.dataset.theme);
+});
+const links=[...document.querySelectorAll('nav.toc a')];
+const obs=new IntersectionObserver(es=>{
+  es.forEach(e=>{if(e.isIntersecting){
+    links.forEach(l=>l.classList.toggle('active',l.getAttribute('href')==='#'+e.target.id));
+  }});
+},{rootMargin:'-15% 0px -75% 0px'});
+document.querySelectorAll('section[id]').forEach(s=>obs.observe(s));
+</script>
+</body>
+</html>

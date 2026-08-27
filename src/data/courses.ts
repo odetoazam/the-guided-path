@@ -297,6 +297,61 @@ export const COURSES: Course[] = [
       },
     ],
   },
+  {
+    slug: 'maryam',
+    hubSlug: 'maryam',
+    figure: 'Maryam',
+    figureArabic: 'مَرْيَم',
+    title: 'She Believed the Word',
+    question: 'What carries you when you hold a truth no one will believe?',
+    description:
+      'The only woman the Quran names — named in 31 verses, given a chapter of her own, and held up at the end of the book as the example for all believers. A command given to a girl in a prayer-room is answered sixty-three sūrahs later with a verdict in the past tense: she believed the words of her Lord, and was of the devoutly obedient.',
+    spine: 'ṣaddaqat → ṣiddīqa — she believed, and was named for believing',
+    modules: [
+      {
+        slug: 'the-story',
+        number: 0,
+        title: 'Start Here — The Story',
+        teaser:
+          'From a vow made before her birth to a verdict near the end of the Quran — the whole arc, assembled honestly from its two tellings.',
+      },
+      {
+        slug: 'the-vow-and-the-girl',
+        number: 1,
+        title: 'The Vow and the Girl',
+        teaser:
+          'A vow shaped for a boy, a girl accepted with a beautiful acceptance — and the room where a child\'s answer reopened a prophet\'s prayer.',
+      },
+      {
+        slug: 'the-stranger-and-the-palm-tree',
+        number: 2,
+        title: 'The Stranger and the Palm Tree',
+        teaser:
+          'Two scenes up close: refuge-first in the moment of fear, and the hardest day of her life — with the sentence the Quran refused to edit out.',
+      },
+      {
+        slug: 'she-believed-the-word',
+        number: 3,
+        title: 'She Believed the Word',
+        teaser:
+          'The flagship. Chosen twice in one verse, a command answered sixty-three sūrahs later in the masculine plural — and the name that saturates her chapter sixteen times.',
+      },
+      {
+        slug: 'what-the-quran-wont-tell-you',
+        number: 4,
+        title: "What the Quran Won't Tell You",
+        teaser:
+          'No husband, no age, a slander refuted without being repeated — the "sister of Hārūn" question the Prophet ﷺ himself answered, and the open question of what she was.',
+      },
+      {
+        slug: 'carrying-what-no-one-believes',
+        number: 5,
+        title: 'Carrying What No One Believes',
+        teaser:
+          'The defense she never ran, the silence that was an assignment — and the first name for God that a lifetime of unwatched rooms had made her native language.',
+      },
+    ],
+  },
 ]
 
 export const COURSES_BY_SLUG: Record<string, Course> = Object.fromEntries(
