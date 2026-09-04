@@ -3,6 +3,10 @@ import { NextRequest } from 'next/server'
 
 export const runtime = 'edge'
 
+const arabicFontPromise = fetch(
+  new URL('../../../fonts/NotoNaskhArabic-Regular.ttf', import.meta.url),
+).then((r) => r.arrayBuffer())
+
 /**
  * Dynamic quote-card OG image.
  *
@@ -19,6 +23,36 @@ export async function GET(request: NextRequest) {
   const text = (searchParams.get('text') ?? 'A tadabbur from AyahGuide').slice(0, 240)
   const cite = (searchParams.get('cite') ?? '').slice(0, 80)
   const arabic = (searchParams.get('arabic') ?? '').slice(0, 160)
+
+  try {
+    return await materialize(await renderCard({ text, cite, arabic }))
+  } catch (e) {
+    // satori's OpenType parser doesn't implement every GSUB lookup type some
+    // Arabic strings hit (lookupType 5/substFormat 3) — never let that take
+    // down the whole share card; drop the Arabic line and render the rest.
+    // ImageResponse renders LAZILY as its body streams, after this function
+    // would otherwise have already returned a "successful" Response — so the
+    // rendering has to be forced (and any failure caught) right here, not by
+    // wrapping the ImageResponse call itself.
+    console.error('og/quote arabic render failed:', e)
+    return materialize(await renderCard({ text, cite, arabic: '' }))
+  }
+}
+
+// Force satori's lazy rendering to happen now, inside the caller's try/catch,
+// instead of later while Next pipes the body to the client.
+async function materialize(imageResponse: ImageResponse): Promise<Response> {
+  const bytes = await imageResponse.arrayBuffer()
+  return new Response(bytes, { headers: imageResponse.headers })
+}
+
+async function renderCard({ text, cite, arabic }: { text: string; cite: string; arabic: string }) {
+  // satori requires the `fonts` option to be either omitted or non-empty —
+  // an explicit empty array throws "No fonts are loaded", so only build it
+  // when there's actually an Arabic font to add.
+  const fonts = arabic
+    ? [{ name: 'NotoNaskhArabic', data: await arabicFontPromise, style: 'normal' as const, weight: 400 as const }]
+    : undefined
 
   return new ImageResponse(
     (
@@ -60,6 +94,7 @@ export async function GET(request: NextRequest) {
               lineHeight: 1.6,
               display: 'flex',
               maxWidth: 1000,
+              fontFamily: 'NotoNaskhArabic, Georgia, serif',
             }}
           >
             {arabic}
@@ -138,6 +173,6 @@ export async function GET(request: NextRequest) {
         </div>
       </div>
     ),
-    { width: 1200, height: 630 },
+    { width: 1200, height: 630, fonts },
   )
 }
