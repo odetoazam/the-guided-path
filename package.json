@@ -8,7 +8,9 @@
     "start": "next start",
     "lint": "next lint",
     "carousel": "tsx scripts/carousel/index.ts",
-    "check:courses": "node scripts/verify-courses.mjs"
+    "check:courses": "node scripts/verify-courses.mjs",
+    "check:ring": "node scripts/verify-ring-explorer.mjs",
+    "check:ring:arabic": "node scripts/verify_ring_arabic.mjs"
   },
   "dependencies": {
     "@marsidev/react-turnstile": "^1.4.2",

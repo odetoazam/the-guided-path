@@ -1,6 +1,7 @@
 'use client'
 
 import { RingStructure } from './RingStructure'
+import { RingExplorer } from './RingExplorer'
 import { SectionJourney } from './SectionJourney'
 import { DeductiveFunnel } from './DeductiveFunnel'
 import { AbsenceMap } from './AbsenceMap'
@@ -28,6 +29,8 @@ interface DiagramRendererProps {
   diagrams: Record<string, any>
   fullText?: any[]
   heartVerse?: any
+  /** Lets surah-specific interactive renderers replace the generic one. */
+  surahNumber?: number
 }
 
 /* eslint-disable @typescript-eslint/no-explicit-any */
@@ -46,7 +49,7 @@ const RENDERERS: Record<string, React.ComponentType<{ data: any }>> = {
   refrain: RefrainPattern,
 }
 
-export function DiagramRenderer({ tab, diagrams, fullText, heartVerse }: DiagramRendererProps) {
+export function DiagramRenderer({ tab, diagrams, fullText, heartVerse, surahNumber }: DiagramRendererProps) {
   if (tab.renderer === 'text') {
     return (
       <div className="space-y-6">
@@ -62,6 +65,9 @@ export function DiagramRenderer({ tab, diagrams, fullText, heartVerse }: Diagram
 
   const data = diagrams[key]
   if (!data) return null
+
+  // Al-Fatiha's Ring is the interactive fold explorer; other surahs keep the static ring.
+  if (tab.renderer === 'ring' && surahNumber === 1) return <RingExplorer data={data} />
 
   const Renderer = RENDERERS[tab.renderer]
   if (!Renderer) return null

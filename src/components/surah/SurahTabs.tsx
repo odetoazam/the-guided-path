@@ -205,12 +205,22 @@ export function SurahTabs({
 
                         {/* Diagram tab content */}
                         {(visualData.tabs ?? []).map((tab) => (
-                          <div key={tab.id} className={activeSubTab !== tab.id ? 'hidden' : ''}>
+                          <div
+                            key={tab.id}
+                            className={
+                              activeSubTab !== tab.id
+                                ? 'hidden'
+                                : tab.renderer === 'ring' && surahNumber === 1
+                                  ? 'lg:-mx-16' /* give the interactive Ring explorer more width on desktop */
+                                  : ''
+                            }
+                          >
                             <DiagramRenderer
                               tab={tab}
                               diagrams={visualData.diagrams ?? {}}
                               fullText={visualData.full_text}
                               heartVerse={visualData.heart_verse}
+                              surahNumber={surahNumber}
                             />
                           </div>
                         ))}
