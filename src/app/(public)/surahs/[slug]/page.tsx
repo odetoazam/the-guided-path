@@ -72,9 +72,11 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 async function getSurahVisualData(surahNumber: number) {
   try {
     const supabase = await createClient()
+    // full_text is deliberately not selected: the Text tab was removed, and the column
+    // holds the whole surah, which was the single largest part of this page's payload.
     const { data } = await supabase
       .from('surah_visual_data')
-      .select('*')
+      .select('surah_number, name, arabic_name, meaning, thesis, sciences_active, heart_verse, audio, diagrams, tabs, content_nodes, why_this_surah')
       .eq('surah_number', surahNumber)
       .single()
     return data

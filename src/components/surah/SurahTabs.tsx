@@ -4,7 +4,7 @@ import Image from 'next/image'
 import Link from 'next/link'
 import { useState, useMemo } from 'react'
 import { SelectionQuoteShare } from '@/components/share/SelectionQuoteShare'
-import { DiagramRenderer, AudioPlayer, OrnamentDivider } from '@/components/surah/diagrams'
+import { DiagramRenderer, AudioPlayer, OrnamentDivider, HeartVerse } from '@/components/surah/diagrams'
 import { NewsletterSignup } from '@/components/blog/newsletter-signup'
 import { ShareLink } from '@/components/analytics/share-link'
 import { ScrollDepthTracker } from '@/components/providers/scroll-depth-tracker'
@@ -24,7 +24,6 @@ interface DiagramTab {
 interface VisualData {
   diagrams: Record<string, any>
   tabs: DiagramTab[]
-  full_text?: any[]
   heart_verse?: any
   audio?: { surahNumber: number; reciter: string }
   thesis?: string
@@ -69,8 +68,11 @@ export function SurahTabs({
   // "why" tab is always first if why_this_surah exists
   const hasWhyTab = !!visualData?.why_this_surah
   // First visible tab: skip diagram tabs with no backing data
+  // The Text tab is gone: reproducing the mushaf added no reading value and shipped
+  // the whole surah to every visitor. The heart verse it carried now opens "Why Learn".
+  const isTextTab = (t: DiagramTab) => t.renderer === 'text'
   const firstVisibleTab = visualData?.tabs?.find(
-    (t) => t.renderer === 'text' || !t.diagramKey || !!visualData?.diagrams?.[t.diagramKey]
+    (t) => !isTextTab(t) && (!t.diagramKey || !!visualData?.diagrams?.[t.diagramKey])
   )
   const defaultSubTab = hasWhyTab ? 'why' : (firstVisibleTab?.id || '')
   const [activeSubTab, setActiveSubTab] = useState<string>(defaultSubTab)
@@ -147,8 +149,8 @@ export function SurahTabs({
                   const allSubTabs = [
                     ...(hasWhyTab ? [{ id: 'why', label: 'Why Learn' }] : []),
                     // Filter out diagram tabs with no backing data
-                    ...(visualData.tabs ?? []).filter((tab) =>
-                      tab.renderer === 'text' || !tab.diagramKey || !!visualData.diagrams[tab.diagramKey]
+                    ...(visualData.tabs ?? []).filter(
+                      (tab) => !isTextTab(tab) && (!tab.diagramKey || !!visualData.diagrams[tab.diagramKey])
                     ),
                   ]
                   return allSubTabs.length > 0 ? (
@@ -181,6 +183,16 @@ export function SurahTabs({
                             </p>
                           </div>
 
+                          {/* The one verse to carry away, moved here from the removed Text tab */}
+                          {visualData.heart_verse && (
+                            <div>
+                              <h2 className="text-[10px] font-semibold uppercase tracking-[0.2em] text-gold-500/70 font-sans mb-3">
+                                The Verse at Its Heart
+                              </h2>
+                              <HeartVerse verse={visualData.heart_verse} />
+                            </div>
+                          )}
+
                           {/* Thesis */}
                           {visualData.thesis && (
                             <p className="text-sm text-cream/60 leading-relaxed font-body italic max-w-xl mx-auto text-center">
@@ -204,7 +216,7 @@ export function SurahTabs({
                         </div>
 
                         {/* Diagram tab content */}
-                        {(visualData.tabs ?? []).map((tab) => (
+                        {(visualData.tabs ?? []).filter((t) => !isTextTab(t)).map((tab) => (
                           <div
                             key={tab.id}
                             className={
@@ -218,8 +230,6 @@ export function SurahTabs({
                             <DiagramRenderer
                               tab={tab}
                               diagrams={visualData.diagrams ?? {}}
-                              fullText={visualData.full_text}
-                              heartVerse={visualData.heart_verse}
                               surahNumber={surahNumber}
                             />
                           </div>

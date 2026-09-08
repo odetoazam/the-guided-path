@@ -13,9 +13,6 @@ import { PolarMap } from './PolarMap'
 import { FourConditions } from './FourConditions'
 import { WordMirror } from './WordMirror'
 import { RefrainPattern } from './RefrainPattern'
-import { FullSurahText } from './FullSurahText'
-import { HeartVerse } from './HeartVerse'
-import { OrnamentDivider } from './OrnamentDivider'
 
 interface Tab {
   id: string
@@ -27,8 +24,6 @@ interface Tab {
 interface DiagramRendererProps {
   tab: Tab
   diagrams: Record<string, any>
-  fullText?: any[]
-  heartVerse?: any
   /** Lets surah-specific interactive renderers replace the generic one. */
   surahNumber?: number
 }
@@ -49,17 +44,7 @@ const RENDERERS: Record<string, React.ComponentType<{ data: any }>> = {
   refrain: RefrainPattern,
 }
 
-export function DiagramRenderer({ tab, diagrams, fullText, heartVerse, surahNumber }: DiagramRendererProps) {
-  if (tab.renderer === 'text') {
-    return (
-      <div className="space-y-6">
-        {Array.isArray(fullText) && fullText.length > 0 && <FullSurahText verses={fullText} />}
-        {Array.isArray(fullText) && fullText.length > 0 && heartVerse && <OrnamentDivider />}
-        {heartVerse && <HeartVerse verse={heartVerse} />}
-      </div>
-    )
-  }
-
+export function DiagramRenderer({ tab, diagrams, surahNumber }: DiagramRendererProps) {
   const key = tab.diagramKey
   if (!key) return null
 
