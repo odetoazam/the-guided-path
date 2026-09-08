@@ -30,21 +30,6 @@ const SURAH_DATA = {
 
   audio: { surahNumber: 30, reciter: "ar.alafasy" },
 
-  fullText: [
-    { ayah: 1, arabic: "الم", translation: "Alif, Lam, Mim." },
-    { ayah: 2, arabic: "غُلِبَتِ الرُّومُ", translation: "The Romans have been defeated —" },
-    { ayah: 3, arabic: "فِي أَدْنَى الْأَرْضِ وَهُم مِّن بَعْدِ غَلَبِهِمْ سَيَغْلِبُونَ", translation: "in the nearest land. But after their defeat, they will triumph —" },
-    { ayah: 4, arabic: "فِي بِضْعِ سِنِينَ ۗ لِلَّهِ الْأَمْرُ مِن قَبْلُ وَمِن بَعْدُ", translation: "within a few years. To Allah belongs the command, before and after." },
-    { ayah: 6, arabic: "وَعْدَ اللَّهِ ۖ لَا يُخْلِفُ اللَّهُ وَعْدَهُ", translation: "It is the promise of Allah. Allah does not break His promise." },
-    { ayah: 21, arabic: "وَمِنْ آيَاتِهِ أَنْ خَلَقَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَاجًا لِّتَسْكُنُوا إِلَيْهَا وَجَعَلَ بَيْنَكُم مَّوَدَّةً وَرَحْمَةً", translation: "Among His signs is that He created for you, from yourselves, spouses so you may find rest in them, and He placed between you affection and mercy." },
-    { ayah: 22, arabic: "وَمِنْ آيَاتِهِ خَلْقُ السَّمَاوَاتِ وَالْأَرْضِ وَاخْتِلَافُ أَلْسِنَتِكُمْ وَأَلْوَانِكُمْ", translation: "Among His signs is the creation of the heavens and the earth, and the diversity of your languages and colors." },
-    { ayah: 24, arabic: "وَمِنْ آيَاتِهِ يُرِيكُمُ الْبَرْقَ خَوْفًا وَطَمَعًا", translation: "Among His signs is that He shows you lightning, inspiring fear and hope." },
-    { ayah: 30, arabic: "فَأَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفًا ۚ فِطْرَتَ اللَّهِ الَّتِي فَطَرَ النَّاسَ عَلَيْهَا", translation: "Set your face toward the religion, inclining to truth — the natural disposition of Allah upon which He created people." },
-    { ayah: 41, arabic: "ظَهَرَ الْفَسَادُ فِي الْبَرِّ وَالْبَحْرِ بِمَا كَسَبَتْ أَيْدِي النَّاسِ", translation: "Corruption has appeared on land and sea because of what people's hands have earned." },
-    { ayah: 50, arabic: "فَانظُرْ إِلَىٰ آثَارِ رَحْمَتِ اللَّهِ كَيْفَ يُحْيِي الْأَرْضَ بَعْدَ مَوْتِهَا", translation: "Look at the effects of Allah's mercy — how He gives life to the earth after its death." },
-    { ayah: 54, arabic: "اللَّهُ الَّذِي خَلَقَكُم مِّن ضَعْفٍ ثُمَّ جَعَلَ مِن بَعْدِ ضَعْفٍ قُوَّةً ثُمَّ جَعَلَ مِن بَعْدِ قُوَّةٍ ضَعْفًا وَشَيْبَةً", translation: "Allah created you from weakness, then made after weakness strength, then after strength weakness and gray hair." },
-    { ayah: 60, arabic: "فَاصْبِرْ إِنَّ وَعْدَ اللَّهِ حَقٌّ ۖ وَلَا يَسْتَخِفَّنَّكَ الَّذِينَ لَا يُوقِنُونَ", translation: "So be patient; indeed, the promise of Allah is true. And let not those who lack certainty make you impatient." },
-  ],
 
   diagrams: {
     sectionJourney: {
@@ -90,7 +75,7 @@ const SURAH_DATA = {
       layers: [
         { depth: 1, label: "Empires", ayah: "2–4", arabic: "غُلِبَتِ الرُّومُ ... سَيَغْلِبُونَ", desc: "Rome defeated, then victorious. The largest-scale demonstration of reversal — geopolitical, verifiable, staked as prophecy.", color: "#4ecdc4" },
         { depth: 2, label: "Nature", ayah: "19,50", arabic: "يُحْيِي الْأَرْضَ بَعْدَ مَوْتِهَا", desc: "Dead earth brought to life by rain. The same reversal operating at the level of soil and seasons — visible every year.", color: "#9b7fd4" },
-        { depth: 3, label: "Life-cycle", ayah: "54", arabic: "خَلَقَكُم مِّن ضَعْفٍ ثُمَّ جَعَلَ ... قُوَّةً ثُمَّ ... ضَعْفًا", desc: "Weakness, then strength, then weakness again. The reversal pattern written into every human body.", color: "#e07a8a" },
+        { depth: 3, label: "Life-cycle", ayah: "54", arabic: "خَلَقَكُم مِّن ضَعْفٍ ثُمَّ جَعَلَ ... قُوَّةً ثُمَّ ... ضَعْفًا", desc: "Weakness, then strength, then weakness again. The reversal pattern written into every human body.", color: "#e07a8a" },
         { depth: 4, label: "Resurrection", ayah: "25", arabic: "ثُمَّ إِذَا دَعَاكُمْ دَعْوَةً مِّنَ الْأَرْضِ إِذَا أَنتُمْ تَخْرُجُونَ", desc: "Then when He calls you with a single call from the earth, you will emerge. The ultimate reversal — death itself reversed by one word.", color: "#C9A84C" },
       ],
     },
@@ -124,7 +109,6 @@ const TABS = [
   { id: "ring", label: "Ring" },
   { id: "reversal", label: "Reversal" },
   { id: "absent", label: "Absences" },
-  { id: "text", label: "Text" },
 ];
 
 // ══════════════════════════════════════════════════════════════════════════════
@@ -213,18 +197,6 @@ function HeartVerse({ verse }: { verse: typeof SURAH_DATA.heartVerse }) {
   );
 }
 
-function FullSurahText({ verses }: { verses: typeof SURAH_DATA.fullText }) {
-  return (
-    <div className="space-y-5">
-      {verses.map((v) => (
-        <div key={v.ayah} className="space-y-1">
-          <p className="text-xl leading-loose text-right text-cream font-amiri" style={{ direction: "rtl" }}>{v.arabic} <span className="text-sm text-cream-muted/50">﴿{v.ayah}﴾</span></p>
-          <p className="text-sm text-cream-muted/60 font-body">{v.translation}</p>
-        </div>
-      ))}
-    </div>
-  );
-}
 
 function SectionJourney({ data }: { data: typeof SURAH_DATA.diagrams.sectionJourney }) {
   return (
@@ -345,13 +317,7 @@ export default function SurahArchitecture() {
           {activeTab === "ring" && <ChiasticRing data={d.diagrams.chiasticRing} />}
           {activeTab === "reversal" && <DeductiveFunnel data={d.diagrams.deductiveFunnel} />}
           {activeTab === "absent" && <AbsenceMap data={d.diagrams.absenceMap} />}
-          {activeTab === "text" && (
-            <div className="space-y-6">
-              <FullSurahText verses={d.fullText} />
-              <OrnamentDivider />
-              <HeartVerse verse={d.heartVerse} />
-            </div>
-          )}
+          <div className="space-y-6 pt-6 border-t border-white/[0.06]"><HeartVerse verse={d.heartVerse} /></div>
         </div>
 
         <OrnamentDivider />

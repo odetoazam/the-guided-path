@@ -30,64 +30,6 @@ const SURAH_DATA = {
 
   audio: { surahNumber: 74, reciter: "ar.alafasy" },
 
-  fullText: [
-    { ayah: 1, arabic: "يَا أَيُّهَا الْمُدَّثِّرُ", translation: "O you who covers himself —" },
-    { ayah: 2, arabic: "قُمْ فَأَنذِرْ", translation: "arise and warn." },
-    { ayah: 3, arabic: "وَرَبَّكَ فَكَبِّرْ", translation: "And magnify your Lord." },
-    { ayah: 4, arabic: "وَثِيَابَكَ فَطَهِّرْ", translation: "And purify your garments." },
-    { ayah: 5, arabic: "وَالرُّجْزَ فَاهْجُرْ", translation: "And avoid uncleanliness." },
-    { ayah: 6, arabic: "وَلَا تَمْنُن تَسْتَكْثِرُ", translation: "And do not give expecting more in return." },
-    { ayah: 7, arabic: "وَلِرَبِّكَ فَاصْبِرْ", translation: "And for your Lord, be patient." },
-    { ayah: 8, arabic: "فَإِذَا نُقِرَ فِي النَّاقُورِ", translation: "Then, when the trumpet is blown —" },
-    { ayah: 9, arabic: "فَذَٰلِكَ يَوْمَئِذٍ يَوْمٌ عَسِيرٌ", translation: "that day will be a difficult day —" },
-    { ayah: 10, arabic: "عَلَى الْكَافِرِينَ غَيْرُ يَسِيرٍ", translation: "not easy for the disbelievers." },
-    { ayah: 11, arabic: "ذَرْنِي وَمَنْ خَلَقْتُ وَحِيدًا", translation: "Leave Me with the one I created alone." },
-    { ayah: 12, arabic: "وَجَعَلْتُ لَهُ مَالًا مَّمْدُودًا", translation: "And I gave him wealth spread out —" },
-    { ayah: 13, arabic: "وَبَنِينَ شُهُودًا", translation: "and sons present at his side —" },
-    { ayah: 14, arabic: "وَمَهَّدتُّ لَهُ تَمْهِيدًا", translation: "and made life smooth for him, ease after ease." },
-    { ayah: 15, arabic: "ثُمَّ يَطْمَعُ أَنْ أَزِيدَ", translation: "Then he greedily desires that I give him more." },
-    { ayah: 16, arabic: "كَلَّا ۖ إِنَّهُ كَانَ لِآيَاتِنَا عَنِيدًا", translation: "No! He has been stubbornly resistant to Our signs." },
-    { ayah: 17, arabic: "سَأُرْهِقُهُ صَعُودًا", translation: "I will cover him with an arduous climb." },
-    { ayah: 18, arabic: "إِنَّهُ فَكَّرَ وَقَدَّرَ", translation: "He thought and he calculated —" },
-    { ayah: 19, arabic: "فَقُتِلَ كَيْفَ قَدَّرَ", translation: "may he be destroyed, how he calculated!" },
-    { ayah: 20, arabic: "ثُمَّ قُتِلَ كَيْفَ قَدَّرَ", translation: "Then may he be destroyed, how he calculated!" },
-    { ayah: 21, arabic: "ثُمَّ نَظَرَ", translation: "Then he looked —" },
-    { ayah: 22, arabic: "ثُمَّ عَبَسَ وَبَسَرَ", translation: "then he frowned and scowled —" },
-    { ayah: 23, arabic: "ثُمَّ أَدْبَرَ وَاسْتَكْبَرَ", translation: "then he turned his back and was arrogant —" },
-    { ayah: 24, arabic: "فَقَالَ إِنْ هَٰذَا إِلَّا سِحْرٌ يُؤْثَرُ", translation: "and said, 'This is nothing but magic from the past.'" },
-    { ayah: 25, arabic: "إِنْ هَٰذَا إِلَّا قَوْلُ الْبَشَرِ", translation: "'This is nothing but the word of a human being.'" },
-    { ayah: 26, arabic: "سَأُصْلِيهِ سَقَرَ", translation: "I will drive him into Saqar." },
-    { ayah: 27, arabic: "وَمَا أَدْرَاكَ مَا سَقَرُ", translation: "And what will make you know what Saqar is?" },
-    { ayah: 28, arabic: "لَا تُبْقِي وَلَا تَذَرُ", translation: "It leaves nothing remaining and lets nothing escape." },
-    { ayah: 29, arabic: "لَوَّاحَةٌ لِّلْبَشَرِ", translation: "It scorches human skin." },
-    { ayah: 30, arabic: "عَلَيْهَا تِسْعَةَ عَشَرَ", translation: "Over it are nineteen." },
-    { ayah: 31, arabic: "وَمَا جَعَلْنَا أَصْحَابَ النَّارِ إِلَّا مَلَائِكَةً ۙ وَمَا جَعَلْنَا عِدَّتَهُمْ إِلَّا فِتْنَةً لِّلَّذِينَ كَفَرُوا", translation: "We have made the keepers of the Fire none but angels. And We have made their number a trial for those who disbelieve..." },
-    { ayah: 32, arabic: "كَلَّا وَالْقَمَرِ", translation: "No! By the moon —" },
-    { ayah: 33, arabic: "وَاللَّيْلِ إِذْ أَدْبَرَ", translation: "and the night when it departs —" },
-    { ayah: 34, arabic: "وَالصُّبْحِ إِذَا أَسْفَرَ", translation: "and the morning when it brightens —" },
-    { ayah: 35, arabic: "إِنَّهَا لَإِحْدَى الْكُبَرِ", translation: "indeed, it is one of the greatest things —" },
-    { ayah: 36, arabic: "نَذِيرًا لِّلْبَشَرِ", translation: "a warning for humanity." },
-    { ayah: 37, arabic: "لِمَن شَاءَ مِنكُمْ أَن يَتَقَدَّمَ أَوْ يَتَأَخَّرَ", translation: "For whoever among you wishes to advance or stay behind." },
-    { ayah: 38, arabic: "كُلُّ نَفْسٍ بِمَا كَسَبَتْ رَهِينَةٌ", translation: "Every soul is held in pledge for what it has earned —" },
-    { ayah: 39, arabic: "إِلَّا أَصْحَابَ الْيَمِينِ", translation: "except the people of the right." },
-    { ayah: 40, arabic: "فِي جَنَّاتٍ يَتَسَاءَلُونَ", translation: "In gardens, questioning —" },
-    { ayah: 41, arabic: "عَنِ الْمُجْرِمِينَ", translation: "about the criminals:" },
-    { ayah: 42, arabic: "مَا سَلَكَكُمْ فِي سَقَرَ", translation: "'What put you into Saqar?'" },
-    { ayah: 43, arabic: "قَالُوا لَمْ نَكُ مِنَ الْمُصَلِّينَ", translation: "They will say, 'We were not among those who prayed,'" },
-    { ayah: 44, arabic: "وَلَمْ نَكُ نُطْعِمُ الْمِسْكِينَ", translation: "'and we did not feed the poor,'" },
-    { ayah: 45, arabic: "وَكُنَّا نَخُوضُ مَعَ الْخَائِضِينَ", translation: "'and we used to engage in falsehood with those who engaged,'" },
-    { ayah: 46, arabic: "وَكُنَّا نُكَذِّبُ بِيَوْمِ الدِّينِ", translation: "'and we used to deny the Day of Judgment —'" },
-    { ayah: 47, arabic: "حَتَّىٰ أَتَانَا الْيَقِينُ", translation: "'until the certainty came to us.'" },
-    { ayah: 48, arabic: "فَمَا تَنفَعُهُمْ شَفَاعَةُ الشَّافِعِينَ", translation: "So the intercession of intercessors will not benefit them." },
-    { ayah: 49, arabic: "فَمَا لَهُمْ عَنِ التَّذْكِرَةِ مُعْرِضِينَ", translation: "Then what is wrong with them that they turn away from the reminder —" },
-    { ayah: 50, arabic: "كَأَنَّهُمْ حُمُرٌ مُّسْتَنفِرَةٌ", translation: "as if they were alarmed donkeys —" },
-    { ayah: 51, arabic: "فَرَّتْ مِن قَسْوَرَةٍ", translation: "fleeing from a lion?" },
-    { ayah: 52, arabic: "بَلْ يُرِيدُ كُلُّ امْرِئٍ مِّنْهُمْ أَن يُؤْتَىٰ صُحُفًا مُّنَشَّرَةً", translation: "Rather, each one of them wishes to be given a scripture spread out." },
-    { ayah: 53, arabic: "كَلَّا ۖ بَل لَّا يَخَافُونَ الْآخِرَةَ", translation: "No! They do not fear the Hereafter." },
-    { ayah: 54, arabic: "كَلَّا إِنَّهُ تَذْكِرَةٌ", translation: "No! Indeed it is a reminder." },
-    { ayah: 55, arabic: "فَمَن شَاءَ ذَكَرَهُ", translation: "So whoever wills may remember it." },
-    { ayah: 56, arabic: "وَمَا يَذْكُرُونَ إِلَّا أَن يَشَاءَ اللَّهُ ۚ هُوَ أَهْلُ التَّقْوَىٰ وَأَهْلُ الْمَغْفِرَةِ", translation: "And they will not remember unless Allah wills. He is worthy of being feared and worthy of forgiving." },
-  ],
 
   diagrams: {
     sectionJourney: {
@@ -131,8 +73,8 @@ const SURAH_DATA = {
       subtitle: "Seven verbs, seven choices, each leading to the next with the inevitability of gravity",
       layers: [
         { depth: 1, label: "Thought", ayah: "18", arabic: "إِنَّهُ فَكَّرَ وَقَدَّرَ", desc: "He thought and he calculated. The rejection does not begin with ignorance \u2014 it begins with intelligence. He heard the Quran, recognized its power, and began to deliberate.", color: "#4ecdc4" },
-        { depth: 2, label: "Looked", ayah: "21", arabic: "ثُمَّ نَظَرَ", desc: "Then he looked \u2014 surveyed his options, considered the landscape. The pause between thinking and acting, where the choice is still open.", color: "#9b7fd4" },
-        { depth: 3, label: "Frowned", ayah: "22", arabic: "ثُمَّ عَبَسَ وَبَسَرَ", desc: "Then he frowned and scowled. The face betrays what the mind has decided. The frown comes after the thinking \u2014 meaning the thinking led somewhere he did not want to go.", color: "#e07a8a" },
+        { depth: 2, label: "Looked", ayah: "21", arabic: "ثُمَّ نَظَرَ", desc: "Then he looked \u2014 surveyed his options, considered the landscape. The pause between thinking and acting, where the choice is still open.", color: "#9b7fd4" },
+        { depth: 3, label: "Frowned", ayah: "22", arabic: "ثُمَّ عَبَسَ وَبَسَرَ", desc: "Then he frowned and scowled. The face betrays what the mind has decided. The frown comes after the thinking \u2014 meaning the thinking led somewhere he did not want to go.", color: "#e07a8a" },
         { depth: 4, label: "Turned Away", ayah: "23", arabic: "ثُمَّ أَدْبَرَ وَاسْتَكْبَرَ", desc: "Then he turned his back and was arrogant. The body follows the face. Adbara \u2014 to turn one's back \u2014 and istakbara \u2014 to make oneself great. The physical and spiritual movements are one.", color: "#C9A84C" },
       ],
     },
@@ -166,7 +108,6 @@ const TABS = [
   { id: "mirror", label: "Mirror" },
   { id: "staircase", label: "Staircase" },
   { id: "absent", label: "Absences" },
-  { id: "text", label: "Text" },
 ];
 
 // ══════════════════════════════════════════════════════════════════════════════
@@ -284,21 +225,6 @@ function HeartVerse({ verse }: { verse: typeof SURAH_DATA.heartVerse }) {
   );
 }
 
-function FullSurahText({ verses }: { verses: typeof SURAH_DATA.fullText }) {
-  return (
-    <div className="space-y-5">
-      {verses.map((v) => (
-        <div key={v.ayah} className="space-y-1">
-          <p className="text-xl leading-loose text-right text-cream font-amiri" style={{ direction: "rtl" }}>
-            {v.arabic}{" "}
-            <span className="text-sm text-cream-muted/50">{"\uFD3E"}{v.ayah}{"\uFD3F"}</span>
-          </p>
-          <p className="text-sm text-cream-muted/60 font-body">{v.translation}</p>
-        </div>
-      ))}
-    </div>
-  );
-}
 
 function SectionJourney({ data }: { data: typeof SURAH_DATA.diagrams.sectionJourney }) {
   return (
@@ -490,13 +416,7 @@ export default function SurahArchitecture() {
           {activeTab === "mirror" && <ChiasticRing data={d.diagrams.chiasticRing} />}
           {activeTab === "staircase" && <DeductiveFunnel data={d.diagrams.deductiveFunnel} />}
           {activeTab === "absent" && <AbsenceMap data={d.diagrams.absenceMap} />}
-          {activeTab === "text" && (
-            <div className="space-y-6">
-              <FullSurahText verses={d.fullText} />
-              <OrnamentDivider />
-              <HeartVerse verse={d.heartVerse} />
-            </div>
-          )}
+          <div className="space-y-6 pt-6 border-t border-white/[0.06]"><HeartVerse verse={d.heartVerse} /></div>
         </div>
 
         {/* -- Go Deeper ----------------------------------------------------- */}

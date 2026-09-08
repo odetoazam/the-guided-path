@@ -30,25 +30,6 @@ const SURAH_DATA = {
 
   audio: { surahNumber: 37, reciter: "ar.alafasy" },
 
-  fullText: [
-    { ayah: 1, arabic: "وَالصَّافَّاتِ صَفًّا", translation: "By those ranged in rows —" },
-    { ayah: 2, arabic: "فَالزَّاجِرَاتِ زَجْرًا", translation: "then those who drive with reproof —" },
-    { ayah: 3, arabic: "فَالتَّالِيَاتِ ذِكْرًا", translation: "then those who recite the reminder —" },
-    { ayah: 4, arabic: "إِنَّ إِلَٰهَكُمْ لَوَاحِدٌ", translation: "indeed, your God is One." },
-    { ayah: 25, arabic: "مَا لَكُمْ لَا تَنَاصَرُونَ", translation: "What is wrong with you that you do not help one another?" },
-    { ayah: 35, arabic: "إِنَّهُمْ كَانُوا إِذَا قِيلَ لَهُمْ لَا إِلَٰهَ إِلَّا اللَّهُ يَسْتَكْبِرُونَ", translation: "When it was said to them, 'There is no god but Allah,' they were arrogant." },
-    { ayah: 37, arabic: "بَلْ جَاءَ بِالْحَقِّ وَصَدَّقَ الْمُرْسَلِينَ", translation: "Rather, he came with the truth and confirmed the messengers." },
-    { ayah: 79, arabic: "سَلَامٌ عَلَىٰ نُوحٍ فِي الْعَالَمِينَ", translation: "Peace be upon Nuh among all peoples." },
-    { ayah: 84, arabic: "إِذْ جَاءَ رَبَّهُ بِقَلْبٍ سَلِيمٍ", translation: "When he came to his Lord with a sound heart." },
-    { ayah: 102, arabic: "يَا بُنَيَّ إِنِّي أَرَىٰ فِي الْمَنَامِ أَنِّي أَذْبَحُكَ فَانظُرْ مَاذَا تَرَىٰ ۚ قَالَ يَا أَبَتِ افْعَلْ مَا تُؤْمَرُ", translation: "'O my son, I have seen in a dream that I am slaughtering you, so look — what do you see?' He said, 'O my father, do what you are commanded.'" },
-    { ayah: 103, arabic: "فَلَمَّا أَسْلَمَا وَتَلَّهُ لِلْجَبِينِ", translation: "And when they had both submitted and he had laid him down on his forehead —" },
-    { ayah: 109, arabic: "سَلَامٌ عَلَىٰ إِبْرَاهِيمَ", translation: "Peace be upon Ibrahim." },
-    { ayah: 165, arabic: "وَإِنَّا لَنَحْنُ الصَّافُّونَ", translation: "And indeed, we are those who stand in rows." },
-    { ayah: 166, arabic: "وَإِنَّا لَنَحْنُ الْمُسَبِّحُونَ", translation: "And indeed, we are those who glorify." },
-    { ayah: 180, arabic: "سُبْحَانَ رَبِّكَ رَبِّ الْعِزَّةِ عَمَّا يَصِفُونَ", translation: "Glorified is your Lord, the Lord of Might, above what they describe." },
-    { ayah: 181, arabic: "وَسَلَامٌ عَلَى الْمُرْسَلِينَ", translation: "And peace be upon the messengers." },
-    { ayah: 182, arabic: "وَالْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ", translation: "And praise be to Allah, Lord of all the worlds." },
-  ],
 
   diagrams: {
     sectionJourney: {
@@ -122,7 +103,6 @@ const TABS = [
   { id: "formation", label: "Formation" },
   { id: "rank", label: "Rank" },
   { id: "absent", label: "Absences" },
-  { id: "text", label: "Text" },
 ];
 
 // ══════════════════════════════════════════════════════════════════════════════
@@ -240,21 +220,6 @@ function HeartVerse({ verse }: { verse: typeof SURAH_DATA.heartVerse }) {
   );
 }
 
-function FullSurahText({ verses }: { verses: typeof SURAH_DATA.fullText }) {
-  return (
-    <div className="space-y-5">
-      {verses.map((v) => (
-        <div key={v.ayah} className="space-y-1">
-          <p className="text-xl leading-loose text-right text-cream font-amiri" style={{ direction: "rtl" }}>
-            {v.arabic}{" "}
-            <span className="text-sm text-cream-muted/50">﴿{v.ayah}﴾</span>
-          </p>
-          <p className="text-sm text-cream-muted/60 font-body">{v.translation}</p>
-        </div>
-      ))}
-    </div>
-  );
-}
 
 function SectionJourney({ data }: { data: typeof SURAH_DATA.diagrams.sectionJourney }) {
   return (
@@ -446,13 +411,7 @@ export default function SurahArchitecture() {
           {activeTab === "formation" && <ChiasticRing data={d.diagrams.chiasticRing} />}
           {activeTab === "rank" && <DeductiveFunnel data={d.diagrams.deductiveFunnel} />}
           {activeTab === "absent" && <AbsenceMap data={d.diagrams.absenceMap} />}
-          {activeTab === "text" && (
-            <div className="space-y-6">
-              <FullSurahText verses={d.fullText} />
-              <OrnamentDivider />
-              <HeartVerse verse={d.heartVerse} />
-            </div>
-          )}
+          <div className="space-y-6 pt-6 border-t border-white/[0.06]"><HeartVerse verse={d.heartVerse} /></div>
         </div>
 
         {/* ── Go Deeper ────────────────────────────────────────────────────── */}

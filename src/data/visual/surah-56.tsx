@@ -22,7 +22,7 @@ const SURAH_DATA = {
 
   sciencesActive: [{"key":"balaghah","english":"Rhetoric"},{"key":"nazm","english":"Structural Coherence"},{"key":"aqeedah","english":"Theology"}],
   heartVerse: {
-    arabic: "وَنَحْنُ أَقْرَبُ إِلَيْهِ مِنكُمْ وَلَـٰكِن لَّا تُبْصِرُونَ",
+    arabic: "وَنَحْنُ أَقْرَبُ إِلَيْهِ مِنكُمْ وَلَـٰكِن لَّا تُبْصِرُونَ",
     ayahRef: "56:85",
     translation: "And We are closer to him than you, but you do not see.",
     why: "At the deathbed — someone is dying, the family stands around watching, helpless — and God declares His proximity. Closer than the people who love this person most, yet invisible to every one of them. The theology of divine proximity at the moment of death, compressed into a single line.",
@@ -30,21 +30,6 @@ const SURAH_DATA = {
 
   audio: { surahNumber: 56, reciter: "ar.alafasy" },
 
-  fullText: [
-    { ayah: 1, arabic: "إِذَا وَقَعَتِ الْوَاقِعَةُ", translation: "When the Inevitable Event occurs —" },
-    { ayah: 2, arabic: "لَيْسَ لِوَقْعَتِهَا كَاذِبَةٌ", translation: "there is no denying its occurrence." },
-    { ayah: 7, arabic: "وَكُنتُمْ أَزْوَاجًا ثَلَاثَةً", translation: "And you become three kinds." },
-    { ayah: 10, arabic: "وَالسَّابِقُونَ السَّابِقُونَ", translation: "And the Foremost — the Foremost." },
-    { ayah: 11, arabic: "أُولَـٰئِكَ الْمُقَرَّبُونَ", translation: "Those are the ones brought near." },
-    { ayah: 57, arabic: "نَحْنُ خَلَقْنَاكُمْ فَلَوْلَا تُصَدِّقُونَ", translation: "We created you, so why do you not believe?" },
-    { ayah: 63, arabic: "أَفَرَأَيْتُم مَّا تَحْرُثُونَ", translation: "Have you considered what you sow?" },
-    { ayah: 68, arabic: "أَفَرَأَيْتُمُ الْمَاءَ الَّذِي تَشْرَبُونَ", translation: "Have you considered the water you drink?" },
-    { ayah: 71, arabic: "أَفَرَأَيْتُمُ النَّارَ الَّتِي تُورُونَ", translation: "Have you considered the fire you kindle?" },
-    { ayah: 85, arabic: "وَنَحْنُ أَقْرَبُ إِلَيْهِ مِنكُمْ وَلَـٰكِن لَّا تُبْصِرُونَ", translation: "And We are closer to him than you, but you do not see." },
-    { ayah: 88, arabic: "فَأَمَّا إِن كَانَ مِنَ الْمُقَرَّبِينَ", translation: "As for the one who is among those brought near —" },
-    { ayah: 89, arabic: "فَرَوْحٌ وَرَيْحَانٌ وَجَنَّتُ نَعِيمٍ", translation: "comfort, fragrance, and a Garden of Pleasure." },
-    { ayah: 96, arabic: "فَسَبِّحْ بِاسْمِ رَبِّكَ الْعَظِيمِ", translation: "So glorify the name of your Lord, the Most Great." },
-  ],
 
   diagrams: {
     sectionJourney: {
@@ -119,7 +104,6 @@ const TABS = [
   { id: "ring", label: "Ring" },
   { id: "challenges", label: "Challenges" },
   { id: "absent", label: "Absences" },
-  { id: "text", label: "Text" },
 ];
 
 function OrnamentDivider() {
@@ -168,9 +152,6 @@ function HeartVerse({ verse }: { verse: typeof SURAH_DATA.heartVerse }) {
   return ( <div className="border-l-2 border-gold-500 bg-white/[0.02] rounded-r-xl px-5 py-5 space-y-3"> <p className="text-2xl leading-loose text-right text-cream font-amiri" style={{ direction: "rtl" }}>{verse.arabic}</p> <p className="text-sm italic text-cream/70 font-body">{verse.translation}</p> <p className="text-xs text-cream-muted/60 leading-relaxed font-body">{verse.why}</p> </div> );
 }
 
-function FullSurahText({ verses }: { verses: typeof SURAH_DATA.fullText }) {
-  return ( <div className="space-y-5">{verses.map((v) => ( <div key={v.ayah} className="space-y-1"> <p className="text-xl leading-loose text-right text-cream font-amiri" style={{ direction: "rtl" }}>{v.arabic}{" "}<span className="text-sm text-cream-muted/50">﴿{v.ayah}﴾</span></p> <p className="text-sm text-cream-muted/60 font-body">{v.translation}</p> </div> ))}</div> );
-}
 
 function SectionJourney({ data }: { data: typeof SURAH_DATA.diagrams.sectionJourney }) {
   return ( <div className="space-y-5"> <div> <h3 className="text-lg font-serif text-cream">{data.title}</h3> <p className="text-sm text-cream-muted/60 mt-1 font-body">{data.subtitle}</p> </div> <div className="space-y-3">{data.sections.map((sec, i) => ( <div key={i} className={`rounded-xl p-4 space-y-2 border ${sec.isPivot ? "border-gold-500/40" : "border-white/[0.06]"}`} style={{ backgroundColor: sec.color + "0a", borderLeftWidth: "3px", borderLeftColor: sec.color }}> <div className="flex items-center justify-between"> <span className="text-sm font-semibold font-serif" style={{ color: sec.color }}>{sec.title}</span> <span className="text-xs text-cream-muted/50 font-sans">Ayahs {sec.ayahs}</span> </div> <p className="text-sm text-cream/70 leading-relaxed font-body">{sec.desc}</p> {sec.isPivot && <div className="text-xs text-gold-500 font-medium font-sans">✦ Structural pivot</div>} </div> ))}</div> </div> );
@@ -221,7 +202,7 @@ export default function SurahArchitecture() {
           {activeTab === "ring" && <ChiasticRing data={d.diagrams.chiasticRing} />}
           {activeTab === "challenges" && <DeductiveFunnel data={d.diagrams.deductiveFunnel} />}
           {activeTab === "absent" && <AbsenceMap data={d.diagrams.absenceMap} />}
-          {activeTab === "text" && ( <div className="space-y-6"> <FullSurahText verses={d.fullText} /> <OrnamentDivider /> <HeartVerse verse={d.heartVerse} /> <AudioPlayer audio={d.audio} /> </div> )}
+          <div className="space-y-6 pt-6 border-t border-white/[0.06]"><HeartVerse verse={d.heartVerse} /> <AudioPlayer audio={d.audio} /></div>
         </div>
         <OrnamentDivider />
         <a href={d.reflectionUrl} className="block rounded-xl bg-gold-500/5 border border-gold-500/20 p-5 text-center space-y-1 hover:bg-gold-500/10 hover:border-gold-500/30 transition-all">

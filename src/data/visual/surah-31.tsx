@@ -22,7 +22,7 @@ const SURAH_DATA = {
 
   sciencesActive: [{"key":"amthal","english":"Parables"},{"key":"qasas","english":"Quranic Narratives"},{"key":"nazm","english":"Structural Coherence"}],
   heartVerse: {
-    arabic: "يَا بُنَيَّ إِنَّهَا إِن تَكُ مِثْقَالَ حَبَّةٍ مِّنْ خَرْدَلٍ فَتَكُن فِي صَخْرَةٍ أَوْ فِي السَّمَاوَاتِ أَوْ فِي الْأَرْضِ يَأْتِ بِهَا اللَّهُ",
+    arabic: "يَا بُنَيَّ إِنَّهَا إِن تَكُ مِثْقَالَ حَبَّةٍ مِّنْ خَرْدَلٍ فَتَكُن فِي صَخْرَةٍ أَوْ فِي السَّمَاوَاتِ أَوْ فِي الْأَرْضِ يَأْتِ بِهَا اللَّهُ",
     ayahRef: "31:16",
     translation: "O my son, indeed if it be the weight of a mustard seed within a rock or in the heavens or in the earth, Allah will bring it forth.",
     why: "The ethical hinge of the surah. Everything before establishes tawhid and the parent-child bond. Everything after flows from this: if God sees the mustard seed in the rock, then prayer matters, character matters, the angle of your face when you speak to someone matters.",
@@ -30,21 +30,6 @@ const SURAH_DATA = {
 
   audio: { surahNumber: 31, reciter: "ar.alafasy" },
 
-  fullText: [
-    { ayah: 1, arabic: "الم", translation: "Alif, Lam, Mim." },
-    { ayah: 2, arabic: "تِلْكَ آيَاتُ الْكِتَابِ الْحَكِيمِ", translation: "These are the signs of the wise Book —" },
-    { ayah: 12, arabic: "وَلَقَدْ آتَيْنَا لُقْمَانَ الْحِكْمَةَ أَنِ اشْكُرْ لِلَّهِ", translation: "And We had certainly given Luqman wisdom, saying: 'Be grateful to Allah.'" },
-    { ayah: 13, arabic: "وَإِذْ قَالَ لُقْمَانُ لِابْنِهِ وَهُوَ يَعِظُهُ يَا بُنَيَّ لَا تُشْرِكْ بِاللَّهِ", translation: "And when Luqman said to his son while advising him: 'O my son, do not associate anything with Allah.'" },
-    { ayah: 14, arabic: "وَوَصَّيْنَا الْإِنسَانَ بِوَالِدَيْهِ حَمَلَتْهُ أُمُّهُ وَهْنًا عَلَىٰ وَهْنٍ", translation: "And We have enjoined upon man concerning his parents — his mother carried him in weakness upon weakness." },
-    { ayah: 16, arabic: "يَا بُنَيَّ إِنَّهَا إِن تَكُ مِثْقَالَ حَبَّةٍ مِّنْ خَرْدَلٍ فَتَكُن فِي صَخْرَةٍ أَوْ فِي السَّمَاوَاتِ أَوْ فِي الْأَرْضِ يَأْتِ بِهَا اللَّهُ", translation: "O my son, indeed if it be the weight of a mustard seed within a rock or in the heavens or in the earth, Allah will bring it forth." },
-    { ayah: 17, arabic: "يَا بُنَيَّ أَقِمِ الصَّلَاةَ وَأْمُرْ بِالْمَعْرُوفِ وَانْهَ عَنِ الْمُنكَرِ وَاصْبِرْ عَلَىٰ مَا أَصَابَكَ", translation: "O my son, establish prayer, enjoin what is right, forbid what is wrong, and be patient over what befalls you." },
-    { ayah: 18, arabic: "وَلَا تُصَعِّرْ خَدَّكَ لِلنَّاسِ وَلَا تَمْشِ فِي الْأَرْضِ مَرَحًا", translation: "And do not turn your cheek away from people in contempt, and do not walk through the earth with insolence." },
-    { ayah: 19, arabic: "وَاقْصِدْ فِي مَشْيِكَ وَاغْضُضْ مِن صَوْتِكَ ۚ إِنَّ أَنكَرَ الْأَصْوَاتِ لَصَوْتُ الْحَمِيرِ", translation: "Be moderate in your pace and lower your voice. Indeed, the most disagreeable of sounds is the voice of donkeys." },
-    { ayah: 22, arabic: "وَمَن يُسْلِمْ وَجْهَهُ إِلَى اللَّهِ وَهُوَ مُحْسِنٌ فَقَدِ اسْتَمْسَكَ بِالْعُرْوَةِ الْوُثْقَىٰ", translation: "Whoever submits his face to Allah while being a doer of good has grasped the most trustworthy handhold." },
-    { ayah: 27, arabic: "وَلَوْ أَنَّمَا فِي الْأَرْضِ مِن شَجَرَةٍ أَقْلَامٌ وَالْبَحْرُ يَمُدُّهُ مِن بَعْدِهِ سَبْعَةُ أَبْحُرٍ مَّا نَفِدَتْ كَلِمَاتُ اللَّهِ", translation: "If all the trees on earth were pens and the ocean were ink, replenished by seven more oceans, the words of Allah would not be exhausted." },
-    { ayah: 33, arabic: "يَا أَيُّهَا النَّاسُ اتَّقُوا رَبَّكُمْ وَاخْشَوْا يَوْمًا لَّا يَجْزِي وَالِدٌ عَن وَلَدِهِ", translation: "O mankind, fear your Lord and fear a Day when no father will avail his son." },
-    { ayah: 34, arabic: "إِنَّ اللَّهَ عِندَهُ عِلْمُ السَّاعَةِ وَيُنَزِّلُ الْغَيْثَ وَيَعْلَمُ مَا فِي الْأَرْحَامِ", translation: "Indeed, Allah alone has knowledge of the Hour. He sends down the rain. He knows what is in the wombs." },
-  ],
 
   diagrams: {
     sectionJourney: {
@@ -84,9 +69,9 @@ const SURAH_DATA = {
       subtitle: "Luqman's counsel moves from theology to embodied practice in a single arc",
       layers: [
         { depth: 1, label: "Tawhid", ayah: "13", arabic: "يَا بُنَيَّ لَا تُشْرِكْ بِاللَّهِ", desc: "The foundation. Do not associate anything with Allah. Addressed as ya bunayya — my dear son, my little one. The theological instruction arrives wrapped in tenderness.", color: "#4ecdc4" },
-        { depth: 2, label: "Awareness", ayah: "16", arabic: "إِن تَكُ مِثْقَالَ حَبَّةٍ مِّنْ خَرْدَلٍ", desc: "The ethical hinge. If God sees a mustard seed inside a rock — al-Latif, the Subtle, the one whose awareness reaches into places too small for anyone else. Theology becomes ethics.", color: "#9b7fd4" },
+        { depth: 2, label: "Awareness", ayah: "16", arabic: "إِن تَكُ مِثْقَالَ حَبَّةٍ مِّنْ خَرْدَلٍ", desc: "The ethical hinge. If God sees a mustard seed inside a rock — al-Latif, the Subtle, the one whose awareness reaches into places too small for anyone else. Theology becomes ethics.", color: "#9b7fd4" },
         { depth: 3, label: "Practice", ayah: "17", arabic: "أَقِمِ الصَّلَاةَ وَأْمُرْ بِالْمَعْرُوفِ", desc: "Four commands in one ayah. Prayer (vertical), moral responsibility (horizontal), patience (internal). The word 'azm — resolve, backbone — closes the sequence.", color: "#e07a8a" },
-        { depth: 4, label: "Character", ayah: "18–19", arabic: "وَلَا تُصَعِّرْ خَدَّكَ لِلنَّاسِ", desc: "Pride is not a doctrine — it is a posture. The sideways turn of the face, the bouncing gait, the raised voice. Luqman reads his son's future body language and warns.", color: "#C9A84C" },
+        { depth: 4, label: "Character", ayah: "18–19", arabic: "وَلَا تُصَعِّرْ خَدَّكَ لِلنَّاسِ", desc: "Pride is not a doctrine — it is a posture. The sideways turn of the face, the bouncing gait, the raised voice. Luqman reads his son's future body language and warns.", color: "#C9A84C" },
       ],
     },
     absenceMap: {
@@ -116,7 +101,6 @@ const TABS = [
   { id: "ring", label: "Ring" },
   { id: "pedagogy", label: "Pedagogy" },
   { id: "absent", label: "Absences" },
-  { id: "text", label: "Text" },
 ];
 
 function OrnamentDivider() {
@@ -152,9 +136,6 @@ function HeartVerse({ verse }: { verse: typeof SURAH_DATA.heartVerse }) {
   return (<div className="border-l-2 border-gold-500 bg-white/[0.02] rounded-r-xl px-5 py-5 space-y-3"><p className="text-2xl leading-loose text-right text-cream font-amiri" style={{ direction: "rtl" }}>{verse.arabic}</p><p className="text-sm italic text-cream/70 font-body">{verse.translation}</p><p className="text-xs text-cream-muted/60 leading-relaxed font-body">{verse.why}</p></div>);
 }
 
-function FullSurahText({ verses }: { verses: typeof SURAH_DATA.fullText }) {
-  return (<div className="space-y-5">{verses.map((v) => (<div key={v.ayah} className="space-y-1"><p className="text-xl leading-loose text-right text-cream font-amiri" style={{ direction: "rtl" }}>{v.arabic} <span className="text-sm text-cream-muted/50">﴿{v.ayah}﴾</span></p><p className="text-sm text-cream-muted/60 font-body">{v.translation}</p></div>))}</div>);
-}
 
 function SectionJourney({ data }: { data: typeof SURAH_DATA.diagrams.sectionJourney }) {
   return (<div className="space-y-5"><div><h3 className="text-lg font-serif text-cream">{data.title}</h3><p className="text-sm text-cream-muted/60 mt-1 font-body">{data.subtitle}</p></div><div className="space-y-3">{data.sections.map((sec, i) => (<div key={i} className={`rounded-xl p-4 space-y-2 border ${sec.isPivot ? "border-gold-500/40" : "border-white/[0.06]"}`} style={{ backgroundColor: sec.color + "0a", borderLeftWidth: "3px", borderLeftColor: sec.color }}><div className="flex items-center justify-between"><span className="text-sm font-semibold font-serif" style={{ color: sec.color }}>{sec.title}</span><span className="text-xs text-cream-muted/50 font-sans">Ayahs {sec.ayahs}</span></div><p className="text-sm text-cream/70 leading-relaxed font-body">{sec.desc}</p>{sec.isPivot && <div className="text-xs text-gold-500 font-medium font-sans">✦ Structural pivot</div>}</div>))}</div></div>);
@@ -206,7 +187,7 @@ export default function SurahArchitecture() {
           {activeTab === "ring" && <ChiasticRing data={d.diagrams.chiasticRing} />}
           {activeTab === "pedagogy" && <DeductiveFunnel data={d.diagrams.deductiveFunnel} />}
           {activeTab === "absent" && <AbsenceMap data={d.diagrams.absenceMap} />}
-          {activeTab === "text" && (<div className="space-y-6"><FullSurahText verses={d.fullText} /><OrnamentDivider /><HeartVerse verse={d.heartVerse} /><AudioPlayer audio={d.audio} /></div>)}
+          <div className="space-y-6 pt-6 border-t border-white/[0.06]"><HeartVerse verse={d.heartVerse} /><AudioPlayer audio={d.audio} /></div>
         </div>
         <OrnamentDivider />
         <a href={d.reflectionUrl} className="block rounded-xl bg-gold-500/5 border border-gold-500/20 p-5 text-center space-y-1 hover:bg-gold-500/10 hover:border-gold-500/30 transition-all">

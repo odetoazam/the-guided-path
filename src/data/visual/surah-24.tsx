@@ -30,21 +30,6 @@ const SURAH_DATA = {
 
   audio: { surahNumber: 24, reciter: "ar.alafasy" },
 
-  fullText: [
-    { ayah: 1, arabic: "سُورَةٌ أَنزَلْنَاهَا وَفَرَضْنَاهَا وَأَنزَلْنَا فِيهَا آيَاتٍ بَيِّنَاتٍ لَّعَلَّكُمْ تَذَكَّرُونَ", translation: "A surah which We have sent down and made obligatory, and in which We have sent down clear signs that you might remember." },
-    { ayah: 2, arabic: "الزَّانِيَةُ وَالزَّانِي فَاجْلِدُوا كُلَّ وَاحِدٍ مِّنْهُمَا مِائَةَ جَلْدَةٍ", translation: "The fornicating woman and the fornicating man — lash each one of them with a hundred lashes." },
-    { ayah: 4, arabic: "وَالَّذِينَ يَرْمُونَ الْمُحْصَنَاتِ ثُمَّ لَمْ يَأْتُوا بِأَرْبَعَةِ شُهَدَاءَ فَاجْلِدُوهُمْ ثَمَانِينَ جَلْدَةً", translation: "And those who accuse chaste women and then do not produce four witnesses — lash them with eighty lashes." },
-    { ayah: 11, arabic: "إِنَّ الَّذِينَ جَاءُوا بِالْإِفْكِ عُصْبَةٌ مِّنكُمْ ۚ لَا تَحْسَبُوهُ شَرًّا لَّكُم ۖ بَلْ هُوَ خَيْرٌ لَّكُمْ", translation: "Indeed, those who brought the slander are a group among you. Do not think it bad for you; rather, it is good for you." },
-    { ayah: 22, arabic: "أَلَا تُحِبُّونَ أَن يَغْفِرَ اللَّهُ لَكُمْ", translation: "Do you not love that Allah should forgive you?" },
-    { ayah: 26, arabic: "الطَّيِّبَاتُ لِلطَّيِّبِينَ وَالطَّيِّبُونَ لِلطَّيِّبَاتِ", translation: "Good women are for good men, and good men are for good women." },
-    { ayah: 30, arabic: "قُل لِّلْمُؤْمِنِينَ يَغُضُّوا مِنْ أَبْصَارِهِمْ وَيَحْفَظُوا فُرُوجَهُمْ", translation: "Tell the believing men to lower their gaze and guard their private parts." },
-    { ayah: 35, arabic: "اللَّهُ نُورُ السَّمَاوَاتِ وَالْأَرْضِ ۚ مَثَلُ نُورِهِ كَمِشْكَاةٍ فِيهَا مِصْبَاحٌ", translation: "Allah is the Light of the heavens and the earth. The example of His light is like a niche within which is a lamp." },
-    { ayah: 36, arabic: "فِي بُيُوتٍ أَذِنَ اللَّهُ أَن تُرْفَعَ وَيُذْكَرَ فِيهَا اسْمُهُ", translation: "In houses which Allah has permitted to be raised and in which His name is remembered." },
-    { ayah: 39, arabic: "وَالَّذِينَ كَفَرُوا أَعْمَالُهُمْ كَسَرَابٍ بِقِيعَةٍ يَحْسَبُهُ الظَّمْآنُ مَاءً", translation: "And those who disbelieve — their deeds are like a mirage in a desert plain, which the thirsty one thinks is water." },
-    { ayah: 40, arabic: "أَوْ كَظُلُمَاتٍ فِي بَحْرٍ لُّجِّيٍّ يَغْشَاهُ مَوْجٌ مِّن فَوْقِهِ مَوْجٌ مِّن فَوْقِهِ سَحَابٌ ۚ ظُلُمَاتٌ بَعْضُهَا فَوْقَ بَعْضٍ", translation: "Or like layers of darkness in a deep ocean, covered by waves, upon which are waves, upon which are clouds — darknesses, some of them upon others." },
-    { ayah: 55, arabic: "وَعَدَ اللَّهُ الَّذِينَ آمَنُوا مِنكُمْ وَعَمِلُوا الصَّالِحَاتِ لَيَسْتَخْلِفَنَّهُمْ فِي الْأَرْضِ", translation: "Allah has promised those of you who believe and do righteous deeds that He will surely make them successors on earth." },
-    { ayah: 64, arabic: "أَلَا إِنَّ لِلَّهِ مَا فِي السَّمَاوَاتِ وَالْأَرْضِ ۖ قَدْ يَعْلَمُ مَا أَنتُمْ عَلَيْهِ", translation: "Unquestionably, to Allah belongs whatever is in the heavens and the earth. He already knows what you are upon." },
-  ],
 
   diagrams: {
     sectionJourney: {
@@ -90,8 +75,8 @@ const SURAH_DATA = {
       layers: [
         { depth: 1, label: "The Niche (Mishkah)", ayah: "35a", arabic: "كَمِشْكَاةٍ فِيهَا مِصْبَاحٌ", desc: "The outermost container — a recess in a wall that focuses and amplifies the light within it. The laws of the surah, the boundaries of the household, the protocols of privacy: these are the niche.", color: "#4ecdc4" },
         { depth: 2, label: "The Glass (Zujajah)", ayah: "35b", arabic: "الزُّجَاجَةُ كَأَنَّهَا كَوْكَبٌ دُرِّيٌّ", desc: "The glass like a radiant star — kawkabun durriyyun. Not just transparent but luminous. The glass does not merely transmit light; it becomes a source of beauty in its own right.", color: "#9b7fd4" },
-        { depth: 3, label: "The Blessed Tree", ayah: "35c", arabic: "زَيْتُونَةٍ لَّا شَرْقِيَّةٍ وَلَا غَرْبِيَّةٍ", desc: "An olive tree neither eastern nor western — la sharqiyyah wa la gharbiyyah. Universal, or otherworldly, or the point at which geography dissolves into metaphysics. The oil that fuels everything.", color: "#C9A84C" },
-        { depth: 4, label: "Light Upon Light", ayah: "35d", arabic: "نُّورٌ عَلَىٰ نُورٍ", desc: "Nur 'ala nur. Illumination sourced by a deeper illumination, all the way down to a light that nearly shines without any external cause at all. Allah guides to His light whom He wills.", color: "#e07a8a" },
+        { depth: 3, label: "The Blessed Tree", ayah: "35c", arabic: "زَيْتُونَةٍ لَّا شَرْقِيَّةٍ وَلَا غَرْبِيَّةٍ", desc: "An olive tree neither eastern nor western — la sharqiyyah wa la gharbiyyah. Universal, or otherworldly, or the point at which geography dissolves into metaphysics. The oil that fuels everything.", color: "#C9A84C" },
+        { depth: 4, label: "Light Upon Light", ayah: "35d", arabic: "نُّورٌ عَلَىٰ نُورٍ", desc: "Nur 'ala nur. Illumination sourced by a deeper illumination, all the way down to a light that nearly shines without any external cause at all. Allah guides to His light whom He wills.", color: "#e07a8a" },
       ],
     },
     absenceMap: {
@@ -124,7 +109,6 @@ const TABS = [
   { id: "frame", label: "Frame" },
   { id: "light", label: "Light" },
   { id: "absent", label: "Absences" },
-  { id: "text", label: "Text" },
 ];
 
 // ══════════════════════════════════════════════════════════════════════════════
@@ -242,21 +226,6 @@ function HeartVerse({ verse }: { verse: typeof SURAH_DATA.heartVerse }) {
   );
 }
 
-function FullSurahText({ verses }: { verses: typeof SURAH_DATA.fullText }) {
-  return (
-    <div className="space-y-5">
-      {verses.map((v) => (
-        <div key={v.ayah} className="space-y-1">
-          <p className="text-xl leading-loose text-right text-cream font-amiri" style={{ direction: "rtl" }}>
-            {v.arabic}{" "}
-            <span className="text-sm text-cream-muted/50">﴿{v.ayah}﴾</span>
-          </p>
-          <p className="text-sm text-cream-muted/60 font-body">{v.translation}</p>
-        </div>
-      ))}
-    </div>
-  );
-}
 
 function SectionJourney({ data }: { data: typeof SURAH_DATA.diagrams.sectionJourney }) {
   return (
@@ -448,13 +417,7 @@ export default function SurahArchitecture() {
           {activeTab === "frame" && <ChiasticRing data={d.diagrams.chiasticRing} />}
           {activeTab === "light" && <DeductiveFunnel data={d.diagrams.deductiveFunnel} />}
           {activeTab === "absent" && <AbsenceMap data={d.diagrams.absenceMap} />}
-          {activeTab === "text" && (
-            <div className="space-y-6">
-              <FullSurahText verses={d.fullText} />
-              <OrnamentDivider />
-              <HeartVerse verse={d.heartVerse} />
-            </div>
-          )}
+          <div className="space-y-6 pt-6 border-t border-white/[0.06]"><HeartVerse verse={d.heartVerse} /></div>
         </div>
 
         {/* ── Go Deeper ────────────────────────────────────────────────────── */}

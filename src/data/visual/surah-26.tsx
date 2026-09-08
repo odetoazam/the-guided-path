@@ -22,7 +22,7 @@ const SURAH_DATA = {
 
   sciencesActive: [{"key":"qasas","english":"Quranic Narratives"},{"key":"nazm","english":"Structural Coherence"},{"key":"balaghah","english":"Rhetoric"}],
   heartVerse: {
-    arabic: "وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ ۝ وَإِنَّ رَبَّكَ لَهُوَ الْعَزِيزُ الرَّحِيمُ",
+    arabic: "وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ ۝ وَإِنَّ رَبَّكَ لَهُوَ الْعَزِيزُ الرَّحِيمُ",
     ayahRef: "26:8–9",
     translation: "And most of them were not believers. And indeed your Lord — He is the Exalted in Might, the Merciful.",
     why: "The twin refrain that seals every chamber of the surah — eight times across 227 ayahs. Human failure on one side, divine sovereignty on the other. By the eighth occurrence it has become the surah's thesis about history itself: the pattern is real, and the door was always open.",
@@ -30,19 +30,6 @@ const SURAH_DATA = {
 
   audio: { surahNumber: 26, reciter: "ar.alafasy" },
 
-  fullText: [
-    { ayah: 1, arabic: "طسم", translation: "Ta-Sin-Mim." },
-    { ayah: 2, arabic: "تِلْكَ آيَاتُ الْكِتَابِ الْمُبِينِ", translation: "These are the verses of the clear Book." },
-    { ayah: 3, arabic: "لَعَلَّكَ بَاخِعٌ نَّفْسَكَ أَلَّا يَكُونُوا مُؤْمِنِينَ", translation: "Perhaps you will destroy yourself with grief because they do not believe." },
-    { ayah: 23, arabic: "قَالَ فِرْعَوْنُ وَمَا رَبُّ الْعَالَمِينَ", translation: "Pharaoh said, 'And what is the Lord of all worlds?'" },
-    { ayah: 78, arabic: "الَّذِي خَلَقَنِي فَهُوَ يَهْدِينِ", translation: "Who created me, and He guides me." },
-    { ayah: 80, arabic: "وَإِذَا مَرِضْتُ فَهُوَ يَشْفِينِ", translation: "And when I am ill, it is He who cures me." },
-    { ayah: 192, arabic: "وَإِنَّهُ لَتَنزِيلُ رَبِّ الْعَالَمِينَ", translation: "And indeed, it is the revelation of the Lord of all worlds." },
-    { ayah: 193, arabic: "نَزَلَ بِهِ الرُّوحُ الْأَمِينُ", translation: "The Trustworthy Spirit has brought it down." },
-    { ayah: 194, arabic: "عَلَىٰ قَلْبِكَ لِتَكُونَ مِنَ الْمُنذِرِينَ", translation: "Upon your heart, so that you would be among the warners." },
-    { ayah: 224, arabic: "وَالشُّعَرَاءُ يَتَّبِعُهُمُ الْغَاوُونَ", translation: "And the poets — the deviants follow them." },
-    { ayah: 227, arabic: "إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ", translation: "Except those who believe and do righteous deeds." },
-  ],
 
   diagrams: {
     sectionJourney: {
@@ -122,7 +109,6 @@ const TABS = [
   { id: "mirror", label: "Mirror" },
   { id: "catalogue", label: "Catalogue" },
   { id: "absent", label: "Absences" },
-  { id: "text", label: "Text" },
 ];
 
 // ══════════════════════════════════════════════════════════════════════════════
@@ -228,20 +214,6 @@ function HeartVerse({ verse }: { verse: typeof SURAH_DATA.heartVerse }) {
   );
 }
 
-function FullSurahText({ verses }: { verses: typeof SURAH_DATA.fullText }) {
-  return (
-    <div className="space-y-5">
-      {verses.map((v) => (
-        <div key={v.ayah} className="space-y-1">
-          <p className="text-xl leading-loose text-right text-cream font-amiri" style={{ direction: "rtl" }}>
-            {v.arabic} <span className="text-sm text-cream-muted/50">{"\uFD3E"}{v.ayah}{"\uFD3F"}</span>
-          </p>
-          <p className="text-sm text-cream-muted/60 font-body">{v.translation}</p>
-        </div>
-      ))}
-    </div>
-  );
-}
 
 function SectionJourney({ data }: { data: typeof SURAH_DATA.diagrams.sectionJourney }) {
   return (
@@ -394,13 +366,7 @@ export default function SurahArchitecture() {
           {activeTab === "mirror" && <ChiasticRing data={d.diagrams.chiasticRing} />}
           {activeTab === "catalogue" && <DeductiveFunnel data={d.diagrams.deductiveFunnel} />}
           {activeTab === "absent" && <AbsenceMap data={d.diagrams.absenceMap} />}
-          {activeTab === "text" && (
-            <div className="space-y-6">
-              <FullSurahText verses={d.fullText} />
-              <OrnamentDivider />
-              <HeartVerse verse={d.heartVerse} />
-            </div>
-          )}
+          <div className="space-y-6 pt-6 border-t border-white/[0.06]"><HeartVerse verse={d.heartVerse} /></div>
         </div>
 
         <OrnamentDivider />

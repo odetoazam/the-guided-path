@@ -22,7 +22,7 @@ const SURAH_DATA = {
 
   sciencesActive: [{"key":"balaghah","english":"Rhetoric"},{"key":"nazm","english":"Structural Coherence"},{"key":"aqeedah","english":"Theology"}],
   heartVerse: {
-    arabic: "يَوْمَ يَنظُرُ ٱلْمَرْءُ مَا قَدَّمَتْ يَدَاهُ وَيَقُولُ ٱلْكَافِرُ يَٰلَيْتَنِى كُنتُ تُرَٰبًۢا",
+    arabic: "يَوْمَ يَنظُرُ ٱلْمَرْءُ مَا قَدَّمَتْ يَدَاهُ وَيَقُولُ ٱلْكَافِرُ يَـٰلَيْتَنِى كُنتُ تُرَٰبًۢا",
     ayahRef: "78:40",
     translation: "The Day when a person will see what his hands have put forth, and the disbeliever will say, 'Oh, I wish I were dust!'",
     why: "The only human speech in the entire surah. For forty ayahs God has been questioning, describing, warning, offering. At the very end, a single voice breaks through — and all it can say is a wish for nonexistence. The person who refused to believe the earth could give up its dead now wants the earth to swallow him permanently.",
@@ -30,48 +30,6 @@ const SURAH_DATA = {
 
   audio: { surahNumber: 78, reciter: "ar.alafasy" },
 
-  fullText: [
-    { ayah: 1, arabic: "عَمَّ يَتَسَآءَلُونَ", translation: "About what are they asking one another?" },
-    { ayah: 2, arabic: "عَنِ ٱلنَّبَإِ ٱلْعَظِيمِ", translation: "About the Great News —" },
-    { ayah: 3, arabic: "ٱلَّذِى هُمْ فِيهِ مُخْتَلِفُونَ", translation: "over which they are in disagreement." },
-    { ayah: 4, arabic: "كَلَّا سَيَعْلَمُونَ", translation: "No! They are going to know." },
-    { ayah: 5, arabic: "ثُمَّ كَلَّا سَيَعْلَمُونَ", translation: "Then, no! They are going to know." },
-    { ayah: 6, arabic: "أَلَمْ نَجْعَلِ ٱلْأَرْضَ مِهَٰدًۭا", translation: "Have We not made the earth a resting place?" },
-    { ayah: 7, arabic: "وَٱلْجِبَالَ أَوْتَادًۭا", translation: "And the mountains as stakes?" },
-    { ayah: 8, arabic: "وَخَلَقْنَٰكُمْ أَزْوَٰجًۭا", translation: "And We created you in pairs," },
-    { ayah: 9, arabic: "وَجَعَلْنَا نَوْمَكُمْ سُبَاتًۭا", translation: "and made your sleep a means for rest," },
-    { ayah: 10, arabic: "وَجَعَلْنَا ٱلَّيْلَ لِبَاسًۭا", translation: "and made the night as clothing," },
-    { ayah: 11, arabic: "وَجَعَلْنَا ٱلنَّهَارَ مَعَاشًۭا", translation: "and made the day for livelihood," },
-    { ayah: 12, arabic: "وَبَنَيْنَا فَوْقَكُمْ سَبْعًۭا شِدَادًۭا", translation: "and constructed above you seven strong heavens," },
-    { ayah: 13, arabic: "وَجَعَلْنَا سِرَاجًۭا وَهَّاجًۭا", translation: "and made therein a burning lamp," },
-    { ayah: 14, arabic: "وَأَنزَلْنَا مِنَ ٱلْمُعْصِرَٰتِ مَآءًۭ ثَجَّاجًۭا", translation: "and sent down from the rain clouds pouring water," },
-    { ayah: 15, arabic: "لِّنُخْرِجَ بِهِۦ حَبًّۭا وَنَبَاتًۭا", translation: "that We may bring forth thereby grain and vegetation," },
-    { ayah: 16, arabic: "وَجَنَّٰتٍ أَلْفَافًا", translation: "and gardens of entwined growth." },
-    { ayah: 17, arabic: "إِنَّ يَوْمَ ٱلْفَصْلِ كَانَ مِيقَٰتًۭا", translation: "Indeed, the Day of Decision is an appointed time —" },
-    { ayah: 18, arabic: "يَوْمَ يُنفَخُ فِى ٱلصُّورِ فَتَأْتُونَ أَفْوَاجًۭا", translation: "the Day the Horn is blown and you come forth in multitudes," },
-    { ayah: 19, arabic: "وَفُتِحَتِ ٱلسَّمَآءُ فَكَانَتْ أَبْوَٰبًۭا", translation: "and the heaven is opened and becomes gateways," },
-    { ayah: 20, arabic: "وَسُيِّرَتِ ٱلْجِبَالُ فَكَانَتْ سَرَابًا", translation: "and the mountains are set in motion and become a mirage." },
-    { ayah: 21, arabic: "إِنَّ جَهَنَّمَ كَانَتْ مِرْصَادًۭا", translation: "Indeed, Jahannam has been lying in ambush," },
-    { ayah: 22, arabic: "لِّلطَّٰغِينَ مَـَٔابًۭا", translation: "for the transgressors, a place of return." },
-    { ayah: 23, arabic: "لَّٰبِثِينَ فِيهَآ أَحْقَابًۭا", translation: "They will remain therein for ages unending." },
-    { ayah: 24, arabic: "لَّا يَذُوقُونَ فِيهَا بَرْدًۭا وَلَا شَرَابًا", translation: "They will not taste therein any coolness or drink," },
-    { ayah: 25, arabic: "إِلَّا حَمِيمًۭا وَغَسَّاقًۭا", translation: "except scalding water and foul purulence —" },
-    { ayah: 26, arabic: "جَزَآءًۭ وِفَاقًا", translation: "a fitting recompense." },
-    { ayah: 27, arabic: "إِنَّهُمْ كَانُوا۟ لَا يَرْجُونَ حِسَابًۭا", translation: "Indeed, they were not expecting an account," },
-    { ayah: 28, arabic: "وَكَذَّبُوا۟ بِـَٔايَٰتِنَا كِذَّابًۭا", translation: "and they denied Our signs with emphatic denial." },
-    { ayah: 29, arabic: "وَكُلَّ شَىْءٍ أَحْصَيْنَٰهُ كِتَٰبًۭا", translation: "But all things We have recorded in writing." },
-    { ayah: 30, arabic: "فَذُوقُوا۟ فَلَن نَّزِيدَكُمْ إِلَّا عَذَابًا", translation: "So taste — for never will We increase you except in torment." },
-    { ayah: 31, arabic: "إِنَّ لِلْمُتَّقِينَ مَفَازًا", translation: "Indeed, for the God-conscious is attainment —" },
-    { ayah: 32, arabic: "حَدَآئِقَ وَأَعْنَٰبًۭا", translation: "gardens and grapevines," },
-    { ayah: 33, arabic: "وَكَوَاعِبَ أَتْرَابًۭا", translation: "and companions of equal age," },
-    { ayah: 34, arabic: "وَكَأْسًۭا دِهَاقًۭا", translation: "and a cup filled to the brim." },
-    { ayah: 35, arabic: "لَّا يَسْمَعُونَ فِيهَا لَغْوًۭا وَلَا كِذَّٰبًۭا", translation: "No ill speech will they hear therein, nor any falsehood —" },
-    { ayah: 36, arabic: "جَزَآءًۭ مِّن رَّبِّكَ عَطَآءً حِسَابًۭا", translation: "a reward from your Lord, a generous gift made due by account." },
-    { ayah: 37, arabic: "رَّبِّ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَا ٱلرَّحْمَٰنِ ۖ لَا يَمْلِكُونَ مِنْهُ خِطَابًۭا", translation: "Lord of the heavens and the earth and all between them, the Most Merciful. They possess not from Him the right of address." },
-    { ayah: 38, arabic: "يَوْمَ يَقُومُ ٱلرُّوحُ وَٱلْمَلَٰٓئِكَةُ صَفًّۭا ۖ لَّا يَتَكَلَّمُونَ إِلَّا مَنْ أَذِنَ لَهُ ٱلرَّحْمَٰنُ وَقَالَ صَوَابًۭا", translation: "The Day the Spirit and the angels stand in rows — none shall speak except whom the Most Merciful permits, and he will say only what is right." },
-    { ayah: 39, arabic: "ذَٰلِكَ ٱلْيَوْمُ ٱلْحَقُّ ۖ فَمَن شَآءَ ٱتَّخَذَ إِلَىٰ رَبِّهِۦ مَـَٔابًا", translation: "That is the True Day. So whoever wills, let him take a path back to his Lord." },
-    { ayah: 40, arabic: "إِنَّآ أَنذَرْنَٰكُمْ عَذَابًۭا قَرِيبًۭا يَوْمَ يَنظُرُ ٱلْمَرْءُ مَا قَدَّمَتْ يَدَاهُ وَيَقُولُ ٱلْكَافِرُ يَٰلَيْتَنِى كُنتُ تُرَٰبًۢا", translation: "Indeed, We have warned you of a near punishment — the Day when a person will see what his hands have put forth, and the disbeliever will say, 'Oh, I wish I were dust!'" },
-  ],
 
   diagrams: {
     sectionJourney: {
@@ -112,9 +70,9 @@ const SURAH_DATA = {
       subtitle: "The word ma'ab — 'place of return' — appears twice, and the entire argument lives between them",
       layers: [
         { depth: 1, label: "Jahannam as Return", ayah: "22", arabic: "لِّلطَّٰغِينَ مَـَٔابًۭا", desc: "The transgressors' ma'ab — their place of returning. Jahannam is not a destination they are sent to unwillingly. It is where they were headed all along. The word implies they belong there.", color: "#e07a8a" },
-        { depth: 2, label: "The Evidence Between", ayah: "6–16", arabic: "أَلَمْ نَجْعَلِ ٱلْأَرْضَ مِهَٰدًۭا", desc: "Between the two uses of ma'ab lies the entire creation argument: earth, mountains, sleep, rain, gardens. The evidence that should have redirected their return.", color: "#4ecdc4" },
+        { depth: 2, label: "The Evidence Between", ayah: "6–16", arabic: "أَلَمْ نَجْعَلِ ٱلْأَرْضَ مِهَـٰدًا", desc: "Between the two uses of ma'ab lies the entire creation argument: earth, mountains, sleep, rain, gardens. The evidence that should have redirected their return.", color: "#4ecdc4" },
         { depth: 3, label: "The Denial", ayah: "27–28", arabic: "كَذَّبُوا۟ بِـَٔايَٰتِنَا كِذَّابًۭا", desc: "They were not expecting an account and denied the signs with emphatic, persistent denial. The same intensive form kidhdhab returns in ayah 35 — banished from Paradise.", color: "#9b7fd4" },
-        { depth: 4, label: "Return to the Lord", ayah: "39", arabic: "فَمَن شَآءَ ٱتَّخَذَ إِلَىٰ رَبِّهِۦ مَـَٔابًا", desc: "The listener's ma'ab — 'whoever wills, let him take a path back to his Lord.' The same word, the opposite direction. You are returning somewhere. The only question is where.", color: "#C9A84C" },
+        { depth: 4, label: "Return to the Lord", ayah: "39", arabic: "فَمَن شَآءَ ٱتَّخَذَ إِلَىٰ رَبِّهِۦ مَـَٔابًا", desc: "The listener's ma'ab — 'whoever wills, let him take a path back to his Lord.' The same word, the opposite direction. You are returning somewhere. The only question is where.", color: "#C9A84C" },
       ],
     },
     absenceMap: {
@@ -147,7 +105,6 @@ const TABS = [
   { id: "ring", label: "Ring" },
   { id: "return", label: "Return" },
   { id: "absent", label: "Absences" },
-  { id: "text", label: "Text" },
 ];
 
 // ══════════════════════════════════════════════════════════════════════════════
@@ -265,21 +222,6 @@ function HeartVerse({ verse }: { verse: typeof SURAH_DATA.heartVerse }) {
   );
 }
 
-function FullSurahText({ verses }: { verses: typeof SURAH_DATA.fullText }) {
-  return (
-    <div className="space-y-5">
-      {verses.map((v) => (
-        <div key={v.ayah} className="space-y-1">
-          <p className="text-xl leading-loose text-right text-cream font-amiri" style={{ direction: "rtl" }}>
-            {v.arabic}{" "}
-            <span className="text-sm text-cream-muted/50">﴿{v.ayah}﴾</span>
-          </p>
-          <p className="text-sm text-cream-muted/60 font-body">{v.translation}</p>
-        </div>
-      ))}
-    </div>
-  );
-}
 
 function SectionJourney({ data }: { data: typeof SURAH_DATA.diagrams.sectionJourney }) {
   return (
@@ -471,13 +413,7 @@ export default function SurahArchitecture() {
           {activeTab === "ring" && <ChiasticRing data={d.diagrams.chiasticRing} />}
           {activeTab === "return" && <KeywordThread data={d.diagrams.keywordThread} />}
           {activeTab === "absent" && <AbsenceMap data={d.diagrams.absenceMap} />}
-          {activeTab === "text" && (
-            <div className="space-y-6">
-              <FullSurahText verses={d.fullText} />
-              <OrnamentDivider />
-              <HeartVerse verse={d.heartVerse} />
-            </div>
-          )}
+          <div className="space-y-6 pt-6 border-t border-white/[0.06]"><HeartVerse verse={d.heartVerse} /></div>
         </div>
 
         {/* ── Go Deeper ────────────────────────────────────────────────────── */}

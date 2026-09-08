@@ -22,7 +22,7 @@ const SURAH_DATA = {
 
   sciencesActive: [{"key":"qasam","english":"Oaths"},{"key":"balaghah","english":"Rhetoric"},{"key":"sarf","english":"Morphology"}],
   heartVerse: {
-    arabic: "وَأَمَّا مَنْ خَافَ مَقَامَ رَبِّهِۦ وَنَهَى ٱلنَّفْسَ عَنِ ٱلْهَوَىٰ فَإِنَّ ٱلْجَنَّةَ هِىَ ٱلْمَأْوَىٰ",
+    arabic: "وَأَمَّا مَنْ خَافَ مَقَامَ رَبِّهِۦ وَنَهَى ٱلنَّفْسَ عَنِ ٱلْهَوَىٰ فَإِنَّ ٱلْجَنَّةَ هِىَ ٱلْمَأْوَىٰ",
     ayahRef: "79:40–41",
     translation: "But as for the one who feared standing before their Lord and restrained the self from desire — then the Garden is the refuge.",
     why: "The surah's complete ethical teaching compressed into two conditions: fear of the divine encounter and restraint of the desiring self. No list of prohibitions, no catalog of virtues — just these two. The person who carries the awareness that they will stand before God, and who holds the self back from what it craves, is the person An-Naziat identifies as saved.",
@@ -30,54 +30,6 @@ const SURAH_DATA = {
 
   audio: { surahNumber: 79, reciter: "ar.alafasy" },
 
-  fullText: [
-    { ayah: 1, arabic: "وَٱلنَّٰزِعَٰتِ غَرْقًۭا", translation: "By those who pull out with violence," },
-    { ayah: 2, arabic: "وَٱلنَّٰشِطَٰتِ نَشْطًۭا", translation: "and those who draw out with ease," },
-    { ayah: 3, arabic: "وَٱلسَّٰبِحَٰتِ سَبْحًۭا", translation: "and those who glide, swimming," },
-    { ayah: 4, arabic: "فَٱلسَّٰبِقَٰتِ سَبْقًۭا", translation: "and those who race each other," },
-    { ayah: 5, arabic: "فَٱلْمُدَبِّرَٰتِ أَمْرًۭا", translation: "and those who arrange every affair." },
-    { ayah: 6, arabic: "يَوْمَ تَرْجُفُ ٱلرَّاجِفَةُ", translation: "On the Day the quaking quakes," },
-    { ayah: 7, arabic: "تَتْبَعُهَا ٱلرَّادِفَةُ", translation: "followed by the successor." },
-    { ayah: 8, arabic: "قُلُوبٌۭ يَوْمَئِذٍۢ وَاجِفَةٌ", translation: "Hearts, that Day, will tremble," },
-    { ayah: 9, arabic: "أَبْصَٰرُهَا خَٰشِعَةٌۭ", translation: "their eyes humbled." },
-    { ayah: 10, arabic: "يَقُولُونَ أَءِنَّا لَمَرْدُودُونَ فِى ٱلْحَافِرَةِ", translation: "They say, 'Will we really be returned to our former state?'" },
-    { ayah: 11, arabic: "أَءِذَا كُنَّا عِظَٰمًۭا نَّخِرَةًۭ", translation: "'Even after we have become decayed bones?'" },
-    { ayah: 12, arabic: "قَالُوا۟ تِلْكَ إِذًۭا كَرَّةٌ خَاسِرَةٌۭ", translation: "They say, 'That, then, would be a losing return.'" },
-    { ayah: 13, arabic: "فَإِنَّمَا هِىَ زَجْرَةٌۭ وَٰحِدَةٌۭ", translation: "Indeed, it will be but one shout," },
-    { ayah: 14, arabic: "فَإِذَا هُم بِٱلسَّاهِرَةِ", translation: "and suddenly they will be on the earth's surface." },
-    { ayah: 15, arabic: "هَلْ أَتَىٰكَ حَدِيثُ مُوسَىٰٓ", translation: "Has the story of Musa reached you?" },
-    { ayah: 16, arabic: "إِذْ نَادَىٰهُ رَبُّهُۥ بِٱلْوَادِ ٱلْمُقَدَّسِ طُوًى", translation: "When his Lord called to him in the sacred valley of Tuwa:" },
-    { ayah: 17, arabic: "ٱذْهَبْ إِلَىٰ فِرْعَوْنَ إِنَّهُۥ طَغَىٰ", translation: "'Go to Pharaoh — indeed, he has transgressed.'" },
-    { ayah: 18, arabic: "فَقُلْ هَل لَّكَ إِلَىٰٓ أَن تَزَكَّىٰ", translation: "'And say to him: Would you purify yourself?'" },
-    { ayah: 19, arabic: "وَأَهْدِيَكَ إِلَىٰ رَبِّكَ فَتَخْشَىٰ", translation: "'And let me guide you to your Lord so you would fear Him?'" },
-    { ayah: 20, arabic: "فَأَرَىٰهُ ٱلْءَايَةَ ٱلْكُبْرَىٰ", translation: "And he showed him the greatest sign," },
-    { ayah: 21, arabic: "فَكَذَّبَ وَعَصَىٰ", translation: "but he denied and disobeyed." },
-    { ayah: 22, arabic: "ثُمَّ أَدْبَرَ يَسْعَىٰ", translation: "Then he turned away, striving." },
-    { ayah: 23, arabic: "فَحَشَرَ فَنَادَىٰ", translation: "And he gathered his people and called out," },
-    { ayah: 24, arabic: "فَقَالَ أَنَا۠ رَبُّكُمُ ٱلْأَعْلَىٰ", translation: "and said, 'I am your most exalted lord.'" },
-    { ayah: 25, arabic: "فَأَخَذَهُ ٱللَّهُ نَكَالَ ٱلْءَاخِرَةِ وَٱلْأُولَىٰٓ", translation: "So Allah seized him in exemplary punishment for the last and the first." },
-    { ayah: 26, arabic: "إِنَّ فِى ذَٰلِكَ لَعِبْرَةًۭ لِّمَن يَخْشَىٰٓ", translation: "Indeed, in that is a lesson for whoever would fear." },
-    { ayah: 27, arabic: "ءَأَنتُمْ أَشَدُّ خَلْقًا أَمِ ٱلسَّمَآءُ ۚ بَنَىٰهَا", translation: "Are you a more difficult creation, or the heaven? He built it." },
-    { ayah: 28, arabic: "رَفَعَ سَمْكَهَا فَسَوَّىٰهَا", translation: "He raised its ceiling and proportioned it." },
-    { ayah: 29, arabic: "وَأَغْطَشَ لَيْلَهَا وَأَخْرَجَ ضُحَىٰهَا", translation: "And He darkened its night and brought forth its morning light." },
-    { ayah: 30, arabic: "وَٱلْأَرْضَ بَعْدَ ذَٰلِكَ دَحَىٰهَآ", translation: "And the earth — after that He spread it." },
-    { ayah: 31, arabic: "أَخْرَجَ مِنْهَا مَآءَهَا وَمَرْعَىٰهَا", translation: "He drew from it its water and its pasture," },
-    { ayah: 32, arabic: "وَٱلْجِبَالَ أَرْسَىٰهَا", translation: "and the mountains He anchored." },
-    { ayah: 33, arabic: "مَتَٰعًۭا لَّكُمْ وَلِأَنْعَٰمِكُمْ", translation: "As provision for you and your livestock." },
-    { ayah: 34, arabic: "فَإِذَا جَآءَتِ ٱلطَّآمَّةُ ٱلْكُبْرَىٰ", translation: "But when there comes the greatest overwhelming event —" },
-    { ayah: 35, arabic: "يَوْمَ يَتَذَكَّرُ ٱلْإِنسَٰنُ مَا سَعَىٰ", translation: "the Day when a person will remember what they strove for," },
-    { ayah: 36, arabic: "وَبُرِّزَتِ ٱلْجَحِيمُ لِمَن يَرَىٰ", translation: "and Hellfire is displayed for all who see —" },
-    { ayah: 37, arabic: "فَأَمَّا مَن طَغَىٰ", translation: "as for the one who transgressed" },
-    { ayah: 38, arabic: "وَءَاثَرَ ٱلْحَيَوٰةَ ٱلدُّنْيَا", translation: "and preferred the worldly life," },
-    { ayah: 39, arabic: "فَإِنَّ ٱلْجَحِيمَ هِىَ ٱلْمَأْوَىٰ", translation: "then the Hellfire is the refuge." },
-    { ayah: 40, arabic: "وَأَمَّا مَنْ خَافَ مَقَامَ رَبِّهِۦ وَنَهَى ٱلنَّفْسَ عَنِ ٱلْهَوَىٰ", translation: "But as for the one who feared standing before their Lord and restrained the self from desire," },
-    { ayah: 41, arabic: "فَإِنَّ ٱلْجَنَّةَ هِىَ ٱلْمَأْوَىٰ", translation: "then the Garden is the refuge." },
-    { ayah: 42, arabic: "يَسْـَٔلُونَكَ عَنِ ٱلسَّاعَةِ أَيَّانَ مُرْسَىٰهَا", translation: "They ask you about the Hour: when will it arrive?" },
-    { ayah: 43, arabic: "فِيمَ أَنتَ مِن ذِكْرَىٰهَآ", translation: "What do you have to do with declaring its time?" },
-    { ayah: 44, arabic: "إِلَىٰ رَبِّكَ مُنتَهَىٰهَآ", translation: "To your Lord is its finality." },
-    { ayah: 45, arabic: "إِنَّمَآ أَنتَ مُنذِرُ مَن يَخْشَىٰهَا", translation: "You are only a warner for those who fear it." },
-    { ayah: 46, arabic: "كَأَنَّهُمْ يَوْمَ يَرَوْنَهَا لَمْ يَلْبَثُوٓا۟ إِلَّا عَشِيَّةً أَوْ ضُحَىٰهَا", translation: "On the Day they see it, it will be as though they had not remained except for an afternoon or its morning." },
-  ],
 
   diagrams: {
     sectionJourney: {
@@ -115,10 +67,10 @@ const SURAH_DATA = {
       title: "The Thread of Fear",
       subtitle: "The root kh-sh-y (reverential fear) threads through the surah as its single through-line",
       layers: [
-        { depth: 1, label: "The Goal for Pharaoh", ayah: "19", arabic: "وَأَهْدِيَكَ إِلَىٰ رَبِّكَ فَتَخْشَىٰ", desc: "Musa's offer: let me guide you to your Lord so you would fear Him. Khashyah is what the prophet was sent to cultivate. Pharaoh refused.", color: "#9b7fd4" },
-        { depth: 2, label: "Who the Lesson Reaches", ayah: "26", arabic: "إِنَّ فِى ذَٰلِكَ لَعِبْرَةًۭ لِّمَن يَخْشَىٰٓ", desc: "In Pharaoh's destruction is a lesson — but only for the one who fears. The same quality Pharaoh was offered and refused becomes the condition for learning from his ruin.", color: "#4ecdc4" },
-        { depth: 3, label: "Who Is Saved", ayah: "40", arabic: "وَأَمَّا مَنْ خَافَ مَقَامَ رَبِّهِۦ", desc: "The one who feared standing before their Lord and restrained the self from desire — the Garden is their refuge. Fear becomes the orientation of a life around an encounter one takes seriously.", color: "#C9A84C" },
-        { depth: 4, label: "Who the Warning Reaches", ayah: "45", arabic: "إِنَّمَآ أَنتَ مُنذِرُ مَن يَخْشَىٰهَا", desc: "You are only a warner for those who fear it. The chain completes: khashyah is the goal of the mission, the condition for learning, the quality that saves, and the prerequisite for hearing the warning at all.", color: "#e07a8a" },
+        { depth: 1, label: "The Goal for Pharaoh", ayah: "19", arabic: "وَأَهْدِيَكَ إِلَىٰ رَبِّكَ فَتَخْشَىٰ", desc: "Musa's offer: let me guide you to your Lord so you would fear Him. Khashyah is what the prophet was sent to cultivate. Pharaoh refused.", color: "#9b7fd4" },
+        { depth: 2, label: "Who the Lesson Reaches", ayah: "26", arabic: "إِنَّ فِى ذَٰلِكَ لَعِبْرَةً لِّمَن يَخْشَىٰٓ", desc: "In Pharaoh's destruction is a lesson — but only for the one who fears. The same quality Pharaoh was offered and refused becomes the condition for learning from his ruin.", color: "#4ecdc4" },
+        { depth: 3, label: "Who Is Saved", ayah: "40", arabic: "وَأَمَّا مَنْ خَافَ مَقَامَ رَبِّهِۦ", desc: "The one who feared standing before their Lord and restrained the self from desire — the Garden is their refuge. Fear becomes the orientation of a life around an encounter one takes seriously.", color: "#C9A84C" },
+        { depth: 4, label: "Who the Warning Reaches", ayah: "45", arabic: "إِنَّمَآ أَنتَ مُنذِرُ مَن يَخْشَىٰهَا", desc: "You are only a warner for those who fear it. The chain completes: khashyah is the goal of the mission, the condition for learning, the quality that saves, and the prerequisite for hearing the warning at all.", color: "#e07a8a" },
       ],
     },
     absenceMap: {
@@ -151,7 +103,6 @@ const TABS = [
   { id: "ring", label: "Ring" },
   { id: "fear", label: "Fear" },
   { id: "absent", label: "Absences" },
-  { id: "text", label: "Text" },
 ];
 
 // ══════════════════════════════════════════════════════════════════════════════
@@ -269,21 +220,6 @@ function HeartVerse({ verse }: { verse: typeof SURAH_DATA.heartVerse }) {
   );
 }
 
-function FullSurahText({ verses }: { verses: typeof SURAH_DATA.fullText }) {
-  return (
-    <div className="space-y-5">
-      {verses.map((v) => (
-        <div key={v.ayah} className="space-y-1">
-          <p className="text-xl leading-loose text-right text-cream font-amiri" style={{ direction: "rtl" }}>
-            {v.arabic}{" "}
-            <span className="text-sm text-cream-muted/50">﴿{v.ayah}﴾</span>
-          </p>
-          <p className="text-sm text-cream-muted/60 font-body">{v.translation}</p>
-        </div>
-      ))}
-    </div>
-  );
-}
 
 function SectionJourney({ data }: { data: typeof SURAH_DATA.diagrams.sectionJourney }) {
   return (
@@ -475,13 +411,7 @@ export default function SurahArchitecture() {
           {activeTab === "ring" && <ChiasticRing data={d.diagrams.chiasticRing} />}
           {activeTab === "fear" && <KeywordThread data={d.diagrams.keywordThread} />}
           {activeTab === "absent" && <AbsenceMap data={d.diagrams.absenceMap} />}
-          {activeTab === "text" && (
-            <div className="space-y-6">
-              <FullSurahText verses={d.fullText} />
-              <OrnamentDivider />
-              <HeartVerse verse={d.heartVerse} />
-            </div>
-          )}
+          <div className="space-y-6 pt-6 border-t border-white/[0.06]"><HeartVerse verse={d.heartVerse} /></div>
         </div>
 
         {/* ── Go Deeper ────────────────────────────────────────────────────── */}

@@ -30,16 +30,6 @@ const SURAH_DATA = {
 
   audio: { surahNumber: 102, reciter: "ar.alafasy" },
 
-  fullText: [
-    { ayah: 1, arabic: "أَلْهَاكُمُ التَّكَاثُرُ", translation: "The competition for more distracted you —" },
-    { ayah: 2, arabic: "حَتَّىٰ زُرْتُمُ الْمَقَابِرَ", translation: "until you visited the graves." },
-    { ayah: 3, arabic: "كَلَّا سَوْفَ تَعْلَمُونَ", translation: "No indeed! You will come to know." },
-    { ayah: 4, arabic: "ثُمَّ كَلَّا سَوْفَ تَعْلَمُونَ", translation: "Then again — no indeed! You will come to know." },
-    { ayah: 5, arabic: "كَلَّا لَوْ تَعْلَمُونَ عِلْمَ الْيَقِينِ", translation: "No indeed! If only you knew with the knowledge of certainty —" },
-    { ayah: 6, arabic: "لَتَرَوُنَّ الْجَحِيمَ", translation: "you would surely see the Blaze." },
-    { ayah: 7, arabic: "ثُمَّ لَتَرَوُنَّهَا عَيْنَ الْيَقِينِ", translation: "Then you would see it with the eye of certainty." },
-    { ayah: 8, arabic: "ثُمَّ لَتُسْأَلُنَّ يَوْمَئِذٍ عَنِ النَّعِيمِ", translation: "Then, on that Day, you will surely be asked about the blessings." },
-  ],
 
   diagrams: {
     sectionJourney: {
@@ -77,7 +67,7 @@ const SURAH_DATA = {
       subtitle: "Each stage strips away one more layer of distance between you and the Real",
       layers: [
         { depth: 1, label: "Heedlessness", ayah: "1–2", arabic: "أَلْهَاكُمُ التَّكَاثُرُ", desc: "The starting condition: total distraction. The root l-h-w implies the distraction was already in motion before you noticed it. You did not choose to be distracted. The competition for more crept in and colonized your attention. The entire surah is addressed to people who do not yet know they are asleep.", color: "#e07a8a" },
-        { depth: 2, label: "Warning", ayah: "3–4", arabic: "كَلَّا سَوْفَ تَعْلَمُونَ", desc: "The first rupture. Kalla — stop. The doubled sawfa ta'lamun is not repetition for emphasis alone; thumma marks temporal sequence. First you will know at death, then — after another stage — you will know at resurrection. Knowledge arrives in waves.", color: "#C9A84C" },
+        { depth: 2, label: "Warning", ayah: "3–4", arabic: "كَلَّا سَوْفَ تَعْلَمُونَ", desc: "The first rupture. Kalla — stop. The doubled sawfa ta'lamun is not repetition for emphasis alone; thumma marks temporal sequence. First you will know at death, then — after another stage — you will know at resurrection. Knowledge arrives in waves.", color: "#C9A84C" },
         { depth: 3, label: "Knowledge of Certainty", ayah: "5", arabic: "عِلْمَ الْيَقِينِ", desc: "The conditional pivot: if only you possessed 'ilm al-yaqin — certainty through transmitted knowledge, what the prophets brought, what revelation teaches. This is the first degree. The contrary-to-fact conditional (law) confirms: you do not possess it.", color: "#4ecdc4" },
         { depth: 4, label: "Eye of Certainty", ayah: "6–7", arabic: "عَيْنَ الْيَقِينِ", desc: "Sight replaces hearing. You will see the Blaze — not hear about it, not believe in it abstractly — see it. The first seeing might be distant, the way you see a fire on the horizon. The second is the seeing that removes all doubt. 'Ayn al-yaqin is the second degree: direct witnessing.", color: "#9b7fd4" },
       ],
@@ -112,7 +102,6 @@ const TABS = [
   { id: "inversion", label: "Inversion" },
   { id: "certainty", label: "Certainty" },
   { id: "absent", label: "Absences" },
-  { id: "text", label: "Text" },
 ];
 
 // ══════════════════════════════════════════════════════════════════════════════
@@ -230,21 +219,6 @@ function HeartVerse({ verse }: { verse: typeof SURAH_DATA.heartVerse }) {
   );
 }
 
-function FullSurahText({ verses }: { verses: typeof SURAH_DATA.fullText }) {
-  return (
-    <div className="space-y-5">
-      {verses.map((v) => (
-        <div key={v.ayah} className="space-y-1">
-          <p className="text-xl leading-loose text-right text-cream font-amiri" style={{ direction: "rtl" }}>
-            {v.arabic}{" "}
-            <span className="text-sm text-cream-muted/50">﴿{v.ayah}﴾</span>
-          </p>
-          <p className="text-sm text-cream-muted/60 font-body">{v.translation}</p>
-        </div>
-      ))}
-    </div>
-  );
-}
 
 function SectionJourney({ data }: { data: typeof SURAH_DATA.diagrams.sectionJourney }) {
   return (
@@ -436,13 +410,7 @@ export default function SurahArchitecture() {
           {activeTab === "inversion" && <ChiasticRing data={d.diagrams.chiasticRing} />}
           {activeTab === "certainty" && <DeductiveFunnel data={d.diagrams.deductiveFunnel} />}
           {activeTab === "absent" && <AbsenceMap data={d.diagrams.absenceMap} />}
-          {activeTab === "text" && (
-            <div className="space-y-6">
-              <FullSurahText verses={d.fullText} />
-              <OrnamentDivider />
-              <HeartVerse verse={d.heartVerse} />
-            </div>
-          )}
+          <div className="space-y-6 pt-6 border-t border-white/[0.06]"><HeartVerse verse={d.heartVerse} /></div>
         </div>
 
         {/* ── Go Deeper ────────────────────────────────────────────────────── */}

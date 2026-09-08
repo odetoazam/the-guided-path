@@ -24,7 +24,7 @@ const SURAH_DATA = {
   sciencesActive: [{"key":"aqeedah","english":"Theology"},{"key":"balaghah","english":"Rhetoric"},{"key":"nazm","english":"Structural Coherence"}],
   // ── Heart Verse ───────────────────────────────────────────────────────────
   heartVerse: {
-    arabic: "لَّا تُدْرِكُهُ ٱلْأَبْصَـٰرُ وَهُوَ يُدْرِكُ ٱلْأَبْصَـٰرَ ۖ وَهُوَ ٱللَّطِيفُ ٱلْخَبِيرُ",
+    arabic: "لَّا تُدْرِكُهُ ٱلْأَبْصَـٰرُ وَهُوَ يُدْرِكُ ٱلْأَبْصَـٰرَ ۖ وَهُوَ ٱللَّطِيفُ ٱلْخَبِيرُ",
     ayahRef: "6:103",
     translation:
       "Vision cannot grasp Him, but He grasps all vision. And He is the Subtle, the All-Aware.",
@@ -155,7 +155,7 @@ const SURAH_DATA = {
       verses: [
         {
           ref: "6:59",
-          arabic: "وَعِندَهُۥ مَفَاتِحُ ٱلْغَيْبِ لَا يَعْلَمُهَآ إِلَّا هُوَ",
+          arabic: "وَعِندَهُۥ مَفَاتِحُ ٱلْغَيْبِ لَا يَعْلَمُهَآ إِلَّا هُوَ",
           ayahRef: "6:59",
           translation: "With Him are the keys of the unseen; none knows them except Him.",
           context: "The density of divine knowledge compressed into a single ayah. He knows what is on the land and in the sea. Not a leaf falls but He knows it. No seed in the darkness of the earth, no wet thing nor dry — all in a clear record.",
@@ -163,7 +163,7 @@ const SURAH_DATA = {
         },
         {
           ref: "6:79",
-          arabic: "إِنِّى وَجَّهْتُ وَجْهِىَ لِلَّذِى فَطَرَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ حَنِيفًا",
+          arabic: "إِنِّى وَجَّهْتُ وَجْهِىَ لِلَّذِى فَطَرَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ حَنِيفًا",
           ayahRef: "6:79",
           translation: "I have turned my face toward the one who created the heavens and the earth, inclining to truth.",
           context: "Ibrahim's declaration after the stars, moon, and sun all set. What the entire surah has been building toward, given voice by the patriarch who did not inherit his faith but reasoned his way to it.",
@@ -171,7 +171,7 @@ const SURAH_DATA = {
         },
         {
           ref: "6:103",
-          arabic: "لَّا تُدْرِكُهُ ٱلْأَبْصَـٰرُ وَهُوَ يُدْرِكُ ٱلْأَبْصَـٰرَ",
+          arabic: "لَّا تُدْرِكُهُ ٱلْأَبْصَـٰرُ وَهُوَ يُدْرِكُ ٱلْأَبْصَـٰرَ",
           ayahRef: "6:103",
           translation: "Vision cannot grasp Him, but He grasps all vision.",
           context: "The mirrored verb structure — la tudrikuhu / wa huwa yudriku — among the most precise in the Quran. The divine name that follows, al-Latif (the Subtle), carries a root meaning of present in everything, visible in nothing.",
@@ -179,7 +179,7 @@ const SURAH_DATA = {
         },
         {
           ref: "6:151",
-          arabic: "قُلْ تَعَالَوْا۟ أَتْلُ مَا حَرَّمَ رَبُّكُمْ عَلَيْكُمْ",
+          arabic: "قُلْ تَعَالَوْا۟ أَتْلُ مَا حَرَّمَ رَبُّكُمْ عَلَيْكُمْ",
           ayahRef: "6:151",
           translation: "Come, let me recite what your Lord has actually prohibited.",
           context: "After 150 ayahs of dismantling false authority, the surah exercises true authority. The Quranic Ten Commandments. Theology becomes ethics. The abstract becomes lived.",
@@ -187,7 +187,7 @@ const SURAH_DATA = {
         },
         {
           ref: "6:162",
-          arabic: "قُلْ إِنَّ صَلَاتِى وَنُسُكِى وَمَحْيَاىَ وَمَمَاتِى لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ",
+          arabic: "قُلْ إِنَّ صَلَاتِى وَنُسُكِى وَمَحْيَاىَ وَمَمَاتِى لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ",
           ayahRef: "6:162",
           translation: "Say: my prayer and my sacrifice and my living and my dying are for God, Lord of the worlds.",
           context: "The surah's closing personal surrender. The opening was cosmic — God created the heavens and the earth. The closing is a human being giving everything back. The distance between them is the surah's argument.",
@@ -259,7 +259,7 @@ const TABS = [
   { id: "journey", label: "Journey" },
   { id: "arcs", label: "Arcs" },
   { id: "absent", label: "Absences" },
-  { id: "text", label: "Text" },
+  { id: "text", label: "Map" },
 ];
 
 // ══════════════════════════════════════════════════════════════════════════════

@@ -30,17 +30,6 @@ const SURAH_DATA = {
 
   audio: { surahNumber: 25, reciter: "ar.alafasy" },
 
-  fullText: [
-    { ayah: 1, arabic: "تَبَارَكَ الَّذِي نَزَّلَ الْفُرْقَانَ عَلَىٰ عَبْدِهِ لِيَكُونَ لِلْعَالَمِينَ نَذِيرًا", translation: "Blessed is the One who sent down the criterion upon His servant, so that he would be a warner to all peoples." },
-    { ayah: 2, arabic: "الَّذِي لَهُ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ وَلَمْ يَتَّخِذْ وَلَدًا وَلَمْ يَكُن لَّهُ شَرِيكٌ فِي الْمُلْكِ وَخَلَقَ كُلَّ شَيْءٍ فَقَدَّرَهُ تَقْدِيرًا", translation: "The One to whom belongs the dominion of the heavens and the earth, who has not taken a son and has no partner in dominion, and who created all things and determined them precisely." },
-    { ayah: 3, arabic: "وَاتَّخَذُوا مِن دُونِهِ آلِهَةً لَّا يَخْلُقُونَ شَيْئًا وَهُمْ يُخْلَقُونَ", translation: "Yet they have taken besides Him gods who create nothing and are themselves created." },
-    { ayah: 30, arabic: "وَقَالَ الرَّسُولُ يَا رَبِّ إِنَّ قَوْمِي اتَّخَذُوا هَـٰذَا الْقُرْآنَ مَهْجُورًا", translation: "And the Messenger said, 'My Lord, my people have taken this Quran as something abandoned.'" },
-    { ayah: 53, arabic: "وَهُوَ الَّذِي مَرَجَ الْبَحْرَيْنِ هَـٰذَا عَذْبٌ فُرَاتٌ وَهَـٰذَا مِلْحٌ أُجَاجٌ", translation: "And He is the One who merged the two seas — this one sweet and fresh, that one salty and bitter." },
-    { ayah: 62, arabic: "وَهُوَ الَّذِي جَعَلَ اللَّيْلَ وَالنَّهَارَ خِلْفَةً لِّمَنْ أَرَادَ أَن يَذَّكَّرَ أَوْ أَرَادَ شُكُورًا", translation: "And He is the One who made the night and the day in succession — for whoever desires to remember or desires to be grateful." },
-    { ayah: 63, arabic: "وَعِبَادُ الرَّحْمَـٰنِ الَّذِينَ يَمْشُونَ عَلَى الْأَرْضِ هَوْنًا وَإِذَا خَاطَبَهُمُ الْجَاهِلُونَ قَالُوا سَلَامًا", translation: "The servants of the Most Merciful are those who walk upon the earth gently, and when the ignorant address them, they say: Peace." },
-    { ayah: 74, arabic: "رَبَّنَا هَبْ لَنَا مِنْ أَزْوَاجِنَا وَذُرِّيَّاتِنَا قُرَّةَ أَعْيُنٍ وَاجْعَلْنَا لِلْمُتَّقِينَ إِمَامًا", translation: "Our Lord, grant us from our spouses and our children the coolness of eyes, and make us an example for the righteous." },
-    { ayah: 77, arabic: "قُلْ مَا يَعْبَأُ بِكُمْ رَبِّي لَوْلَا دُعَاؤُكُمْ", translation: "Say: My Lord would not care for you were it not for your supplication." },
-  ],
 
   diagrams: {
     sectionJourney: {
@@ -87,7 +76,7 @@ const SURAH_DATA = {
         { depth: 1, label: "Movement", ayah: "63a", arabic: "يَمْشُونَ عَلَى الْأَرْضِ هَوْنًا", desc: "The first quality named is not prayer or creed — it is how their feet meet the earth. Hawnan: with lightness, without pressing down hard. Character is physical before it is theological.", color: "#4ecdc4" },
         { depth: 2, label: "Speech", ayah: "63b", arabic: "قَالُوا سَلَامًا", desc: "When ignorance confronts them, they respond with salaman — peace, safety. Not argument, not victory. They de-escalate. They leave encounters whole.", color: "#9b7fd4" },
         { depth: 3, label: "Worship", ayah: "64", arabic: "يَبِيتُونَ لِرَبِّهِمْ سُجَّدًا وَقِيَامًا", desc: "They spend their nights in prostration and standing. The public gentleness rests on private devotion. The walk is light because the knees have bent.", color: "#e07a8a" },
-        { depth: 4, label: "Prayer", ayah: "74", arabic: "قُرَّةَ أَعْيُنٍ", desc: "Their deepest prayer is for coolness of eyes from family — qurrata a'yun. For all their moral seriousness, they want the same thing every human being wants: to look at the people they love and feel joy so deep it is almost relief.", color: "#C9A84C" },
+        { depth: 4, label: "Prayer", ayah: "74", arabic: "قُرَّةَ أَعْيُنٍ", desc: "Their deepest prayer is for coolness of eyes from family — qurrata a'yun. For all their moral seriousness, they want the same thing every human being wants: to look at the people they love and feel joy so deep it is almost relief.", color: "#C9A84C" },
       ],
     },
     absenceMap: {
@@ -120,7 +109,6 @@ const TABS = [
   { id: "mirror", label: "Mirror" },
   { id: "portrait", label: "Portrait" },
   { id: "absent", label: "Absences" },
-  { id: "text", label: "Text" },
 ];
 
 // ══════════════════════════════════════════════════════════════════════════════
@@ -238,21 +226,6 @@ function HeartVerse({ verse }: { verse: typeof SURAH_DATA.heartVerse }) {
   );
 }
 
-function FullSurahText({ verses }: { verses: typeof SURAH_DATA.fullText }) {
-  return (
-    <div className="space-y-5">
-      {verses.map((v) => (
-        <div key={v.ayah} className="space-y-1">
-          <p className="text-xl leading-loose text-right text-cream font-amiri" style={{ direction: "rtl" }}>
-            {v.arabic}{" "}
-            <span className="text-sm text-cream-muted/50">{"\uFD3E"}{v.ayah}{"\uFD3F"}</span>
-          </p>
-          <p className="text-sm text-cream-muted/60 font-body">{v.translation}</p>
-        </div>
-      ))}
-    </div>
-  );
-}
 
 function SectionJourney({ data }: { data: typeof SURAH_DATA.diagrams.sectionJourney }) {
   return (
@@ -444,13 +417,7 @@ export default function SurahArchitecture() {
           {activeTab === "mirror" && <ChiasticRing data={d.diagrams.chiasticRing} />}
           {activeTab === "portrait" && <DeductiveFunnel data={d.diagrams.deductiveFunnel} />}
           {activeTab === "absent" && <AbsenceMap data={d.diagrams.absenceMap} />}
-          {activeTab === "text" && (
-            <div className="space-y-6">
-              <FullSurahText verses={d.fullText} />
-              <OrnamentDivider />
-              <HeartVerse verse={d.heartVerse} />
-            </div>
-          )}
+          <div className="space-y-6 pt-6 border-t border-white/[0.06]"><HeartVerse verse={d.heartVerse} /></div>
         </div>
 
         {/* -- Go Deeper --------------------------------------------------- */}

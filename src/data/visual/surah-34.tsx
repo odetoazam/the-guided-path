@@ -30,21 +30,6 @@ const SURAH_DATA = {
 
   audio: { surahNumber: 34, reciter: "ar.alafasy" },
 
-  fullText: [
-    { ayah: 1, arabic: "الْحَمْدُ لِلَّهِ الَّذِي لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَلَهُ الْحَمْدُ فِي الْآخِرَةِ ۚ وَهُوَ الْحَكِيمُ الْخَبِيرُ", translation: "All praise belongs to Allah, to whom belongs everything in the heavens and the earth, and to Him belongs praise in the Hereafter. He is the Wise, the All-Aware." },
-    { ayah: 2, arabic: "يَعْلَمُ مَا يَلِجُ فِي الْأَرْضِ وَمَا يَخْرُجُ مِنْهَا وَمَا يَنزِلُ مِنَ السَّمَاءِ وَمَا يَعْرُجُ فِيهَا ۚ وَهُوَ الرَّحِيمُ الْغَفُورُ", translation: "He knows what goes into the earth and what comes out of it, what descends from the sky and what ascends into it. And He is the Most Merciful, the Forgiving." },
-    { ayah: 3, arabic: "وَقَالَ الَّذِينَ كَفَرُوا لَا تَأْتِينَا السَّاعَةُ ۖ قُلْ بَلَىٰ وَرَبِّي لَتَأْتِيَنَّكُمْ عَالِمِ الْغَيْبِ", translation: "And those who disbelieve say, 'The Hour will not come to us.' Say, 'Yes, by my Lord, it will certainly come to you — [sworn by] the Knower of the unseen.'" },
-    { ayah: 10, arabic: "وَلَقَدْ آتَيْنَا دَاوُودَ مِنَّا فَضْلًا ۖ يَا جِبَالُ أَوِّبِي مَعَهُ وَالطَّيْرَ ۖ وَأَلَنَّا لَهُ الْحَدِيدَ", translation: "And We certainly gave Dawud grace from Us: 'O mountains, echo with him, and the birds.' And We made iron soft for him." },
-    { ayah: 13, arabic: "اعْمَلُوا آلَ دَاوُودَ شُكْرًا ۚ وَقَلِيلٌ مِّنْ عِبَادِيَ الشَّكُورُ", translation: "Work, O family of Dawud, in gratitude. And few of My servants are truly grateful." },
-    { ayah: 14, arabic: "فَلَمَّا قَضَيْنَا عَلَيْهِ الْمَوْتَ مَا دَلَّهُمْ عَلَىٰ مَوْتِهِ إِلَّا دَابَّةُ الْأَرْضِ تَأْكُلُ مِنسَأَتَهُ", translation: "When We decreed his death, nothing indicated his death to them except a creature of the earth eating his staff." },
-    { ayah: 15, arabic: "لَقَدْ كَانَ لِسَبَإٍ فِي مَسْكَنِهِمْ آيَةٌ ۖ جَنَّتَانِ عَن يَمِينٍ وَشِمَالٍ", translation: "There was certainly a sign for Saba in their dwelling place: two gardens, on the right and on the left." },
-    { ayah: 19, arabic: "فَقَالُوا رَبَّنَا بَاعِدْ بَيْنَ أَسْفَارِنَا وَظَلَمُوا أَنفُسَهُمْ فَجَعَلْنَاهُمْ أَحَادِيثَ وَمَزَّقْنَاهُمْ كُلَّ مُمَزَّقٍ", translation: "But they said, 'Our Lord, lengthen the distance between our journeys,' and they wronged themselves. So We made them legends and tore them to utter pieces." },
-    { ayah: 20, arabic: "وَلَقَدْ صَدَّقَ عَلَيْهِمْ إِبْلِيسُ ظَنَّهُ فَاتَّبَعُوهُ إِلَّا فَرِيقًا مِّنَ الْمُؤْمِنِينَ", translation: "And Iblis had already confirmed his assumption about them, and they followed him, except for a party of believers." },
-    { ayah: 37, arabic: "وَمَا أَمْوَالُكُمْ وَلَا أَوْلَادُكُم بِالَّتِي تُقَرِّبُكُمْ عِندَنَا زُلْفَىٰ إِلَّا مَنْ آمَنَ وَعَمِلَ صَالِحًا", translation: "And it is not your wealth or your children that bring you nearer to Us in position, but it is the one who believes and does righteousness." },
-    { ayah: 46, arabic: "قُلْ إِنَّمَا أَعِظُكُم بِوَاحِدَةٍ ۖ أَن تَقُومُوا لِلَّهِ مَثْنَىٰ وَفُرَادَىٰ ثُمَّ تَتَفَكَّرُوا", translation: "Say: I only advise you of one thing — that you stand before Allah, in pairs or individually, and then reflect." },
-    { ayah: 52, arabic: "وَأَنَّىٰ لَهُمُ التَّنَاوُشُ مِن مَّكَانٍ بَعِيدٍ", translation: "But how can they reach [faith] from a place so far away?" },
-    { ayah: 54, arabic: "وَحِيلَ بَيْنَهُمْ وَبَيْنَ مَا يَشْتَهُونَ", translation: "And a barrier will be placed between them and what they desire." },
-  ],
 
   diagrams: {
     sectionJourney: {
@@ -118,7 +103,6 @@ const TABS = [
   { id: "ring", label: "Ring" },
   { id: "distance", label: "Distance" },
   { id: "absent", label: "Absences" },
-  { id: "text", label: "Text" },
 ];
 
 // ══════════════════════════════════════════════════════════════════════════════
@@ -236,21 +220,6 @@ function HeartVerse({ verse }: { verse: typeof SURAH_DATA.heartVerse }) {
   );
 }
 
-function FullSurahText({ verses }: { verses: typeof SURAH_DATA.fullText }) {
-  return (
-    <div className="space-y-5">
-      {verses.map((v) => (
-        <div key={v.ayah} className="space-y-1">
-          <p className="text-xl leading-loose text-right text-cream font-amiri" style={{ direction: "rtl" }}>
-            {v.arabic}{" "}
-            <span className="text-sm text-cream-muted/50">﴿{v.ayah}﴾</span>
-          </p>
-          <p className="text-sm text-cream-muted/60 font-body">{v.translation}</p>
-        </div>
-      ))}
-    </div>
-  );
-}
 
 function SectionJourney({ data }: { data: typeof SURAH_DATA.diagrams.sectionJourney }) {
   return (
@@ -442,13 +411,7 @@ export default function SurahArchitecture() {
           {activeTab === "ring" && <ChiasticRing data={d.diagrams.chiasticRing} />}
           {activeTab === "distance" && <DeductiveFunnel data={d.diagrams.deductiveFunnel} />}
           {activeTab === "absent" && <AbsenceMap data={d.diagrams.absenceMap} />}
-          {activeTab === "text" && (
-            <div className="space-y-6">
-              <FullSurahText verses={d.fullText} />
-              <OrnamentDivider />
-              <HeartVerse verse={d.heartVerse} />
-            </div>
-          )}
+          <div className="space-y-6 pt-6 border-t border-white/[0.06]"><HeartVerse verse={d.heartVerse} /></div>
         </div>
 
         {/* ── Go Deeper ────────────────────────────────────────────────────── */}

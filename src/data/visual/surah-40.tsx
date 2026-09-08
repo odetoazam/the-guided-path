@@ -30,93 +30,6 @@ const SURAH_DATA = {
 
   audio: { surahNumber: 40, reciter: "ar.alafasy" },
 
-  fullText: [
-    { ayah: 1, arabic: "حم", translation: "Ha. Mim." },
-    { ayah: 2, arabic: "تَنزِيلُ الْكِتَابِ مِنَ اللَّهِ الْعَزِيزِ الْعَلِيمِ", translation: "The revelation of the Book is from Allah, the Almighty, the All-Knowing." },
-    { ayah: 3, arabic: "غَافِرِ الذَّنبِ وَقَابِلِ التَّوْبِ شَدِيدِ الْعِقَابِ ذِي الطَّوْلِ", translation: "Forgiver of sin, Accepter of repentance, Severe in punishment, Owner of abundance." },
-    { ayah: 4, arabic: "مَا يُجَادِلُ فِي آيَاتِ اللَّهِ إِلَّا الَّذِينَ كَفَرُوا", translation: "No one disputes the signs of Allah except those who disbelieve." },
-    { ayah: 5, arabic: "كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍ وَالْأَحْزَابُ مِن بَعْدِهِمْ", translation: "Before them the people of Nuh denied, and the factions after them." },
-    { ayah: 6, arabic: "وَكَذَٰلِكَ حَقَّتْ كَلِمَتُ رَبِّكَ عَلَى الَّذِينَ كَفَرُوا أَنَّهُمْ أَصْحَابُ النَّارِ", translation: "And thus the word of your Lord has come into effect upon those who disbelieved — that they are companions of the Fire." },
-    { ayah: 7, arabic: "الَّذِينَ يَحْمِلُونَ الْعَرْشَ وَمَنْ حَوْلَهُ يُسَبِّحُونَ بِحَمْدِ رَبِّهِمْ وَيُؤْمِنُونَ بِهِ وَيَسْتَغْفِرُونَ لِلَّذِينَ آمَنُوا", translation: "Those who carry the Throne and those around it exalt with praise of their Lord, believe in Him, and ask forgiveness for those who have believed." },
-    { ayah: 8, arabic: "رَبَّنَا وَسِعْتَ كُلَّ شَيْءٍ رَّحْمَةً وَعِلْمًا فَاغْفِرْ لِلَّذِينَ تَابُوا", translation: "Our Lord, You have encompassed all things in mercy and knowledge, so forgive those who have repented." },
-    { ayah: 9, arabic: "وَقِهِمُ السَّيِّئَاتِ ۚ وَمَن تَقِ السَّيِّئَاتِ يَوْمَئِذٍ فَقَدْ رَحِمْتَهُ", translation: "And protect them from evil deeds. Whoever You protect from evil deeds on that Day — You have shown him mercy." },
-    { ayah: 10, arabic: "إِنَّ الَّذِينَ كَفَرُوا يُنَادَوْنَ لَمَقْتُ اللَّهِ أَكْبَرُ مِن مَّقْتِكُمْ أَنفُسَكُمْ", translation: "Those who disbelieved will be told: The hatred of Allah for you is greater than your hatred of yourselves." },
-    { ayah: 11, arabic: "قَالُوا رَبَّنَا أَمَتَّنَا اثْنَتَيْنِ وَأَحْيَيْتَنَا اثْنَتَيْنِ فَاعْتَرَفْنَا بِذُنُوبِنَا", translation: "They say: Our Lord, You have caused us to die twice and given us life twice, and we have confessed our sins." },
-    { ayah: 12, arabic: "ذَٰلِكُم بِأَنَّهُ إِذَا دُعِيَ اللَّهُ وَحْدَهُ كَفَرْتُمْ ۖ وَإِن يُشْرَكْ بِهِ تُؤْمِنُوا", translation: "That is because when Allah alone was called upon, you disbelieved; but when partners were associated with Him, you believed." },
-    { ayah: 13, arabic: "هُوَ الَّذِي يُرِيكُمْ آيَاتِهِ وَيُنَزِّلُ لَكُم مِّنَ السَّمَاءِ رِزْقًا", translation: "He is the one who shows you His signs and sends down provision from the sky for you." },
-    { ayah: 14, arabic: "فَادْعُوا اللَّهَ مُخْلِصِينَ لَهُ الدِّينَ وَلَوْ كَرِهَ الْكَافِرُونَ", translation: "So call upon Allah, making the religion sincerely for Him, even if the disbelievers dislike it." },
-    { ayah: 15, arabic: "رَفِيعُ الدَّرَجَاتِ ذُو الْعَرْشِ يُلْقِي الرُّوحَ مِنْ أَمْرِهِ عَلَىٰ مَن يَشَاءُ مِنْ عِبَادِهِ", translation: "Exalter of ranks, Owner of the Throne — He places the spirit of His command upon whom He wills of His servants." },
-    { ayah: 16, arabic: "يَوْمَ هُم بَارِزُونَ ۖ لَا يَخْفَىٰ عَلَى اللَّهِ مِنْهُمْ شَيْءٌ", translation: "The Day they come forth — nothing of them will be concealed from Allah." },
-    { ayah: 17, arabic: "لِّمَنِ الْمُلْكُ الْيَوْمَ ۖ لِلَّهِ الْوَاحِدِ الْقَهَّارِ", translation: "To whom belongs the sovereignty this Day? To Allah, the One, the Prevailing." },
-    { ayah: 18, arabic: "الْيَوْمَ تُجْزَىٰ كُلُّ نَفْسٍ بِمَا كَسَبَتْ ۚ لَا ظُلْمَ الْيَوْمَ", translation: "This Day every soul will be recompensed for what it earned. No injustice today." },
-    { ayah: 19, arabic: "يَعْلَمُ خَائِنَةَ الْأَعْيُنِ وَمَا تُخْفِي الصُّدُورُ", translation: "He knows the treachery of the eyes and what the chests conceal." },
-    { ayah: 20, arabic: "وَاللَّهُ يَقْضِي بِالْحَقِّ ۖ وَالَّذِينَ يَدْعُونَ مِن دُونِهِ لَا يَقْضُونَ بِشَيْءٍ", translation: "Allah judges with truth, and those they call upon besides Him judge nothing at all." },
-    { ayah: 21, arabic: "أَوَلَمْ يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ كَانُوا مِن قَبْلِهِمْ", translation: "Have they not traveled through the land and seen what was the end of those who were before them?" },
-    { ayah: 22, arabic: "كَانُوا هُمْ أَشَدَّ مِنْهُمْ قُوَّةً وَآثَارًا فِي الْأَرْضِ فَأَخَذَهُمُ اللَّهُ بِذُنُوبِهِمْ", translation: "They were greater in strength and in traces upon the land, but Allah seized them for their sins." },
-    { ayah: 23, arabic: "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِآيَاتِنَا وَسُلْطَانٍ مُّبِينٍ", translation: "And We sent Musa with Our signs and a clear authority." },
-    { ayah: 24, arabic: "إِلَىٰ فِرْعَوْنَ وَهَامَانَ وَقَارُونَ فَقَالُوا سَاحِرٌ كَذَّابٌ", translation: "To Pharaoh, Haman, and Qarun — but they said, 'A magician, a great liar.'" },
-    { ayah: 25, arabic: "فَلَمَّا جَاءَهُم بِالْحَقِّ مِنْ عِندِنَا قَالُوا اقْتُلُوا أَبْنَاءَ الَّذِينَ آمَنُوا مَعَهُ", translation: "When he brought them the truth from Us, they said, 'Kill the sons of those who believe with him.'" },
-    { ayah: 26, arabic: "وَقَالَ فِرْعَوْنُ ذَرُونِي أَقْتُلْ مُوسَىٰ وَلْيَدْعُ رَبَّهُ", translation: "Pharaoh said, 'Let me kill Musa, and let him call upon his Lord.'" },
-    { ayah: 27, arabic: "وَقَالَ مُوسَىٰ إِنِّي عُذْتُ بِرَبِّي وَرَبِّكُم مِّن كُلِّ مُتَكَبِّرٍ", translation: "Musa said, 'I seek refuge in my Lord and your Lord from every arrogant one.'" },
-    { ayah: 28, arabic: "وَقَالَ رَجُلٌ مُّؤْمِنٌ مِّنْ آلِ فِرْعَوْنَ يَكْتُمُ إِيمَانَهُ أَتَقْتُلُونَ رَجُلًا أَن يَقُولَ رَبِّيَ اللَّهُ", translation: "A believing man from Pharaoh's family who had concealed his faith said, 'Would you kill a man because he says, My Lord is Allah?'" },
-    { ayah: 29, arabic: "يَا قَوْمِ لَكُمُ الْمُلْكُ الْيَوْمَ ظَاهِرِينَ فِي الْأَرْضِ", translation: "O my people, sovereignty is yours today, dominant in the land." },
-    { ayah: 30, arabic: "يَا قَوْمِ إِنِّي أَخَافُ عَلَيْكُم مِّثْلَ يَوْمِ الْأَحْزَابِ", translation: "O my people, I fear for you something like the Day of the Confederates." },
-    { ayah: 31, arabic: "مِثْلَ دَأْبِ قَوْمِ نُوحٍ وَعَادٍ وَثَمُودَ وَالَّذِينَ مِن بَعْدِهِمْ", translation: "Like the custom of the people of Nuh, 'Ad, Thamud, and those after them." },
-    { ayah: 32, arabic: "وَيَا قَوْمِ إِنِّي أَخَافُ عَلَيْكُمْ يَوْمَ التَّنَادِ", translation: "O my people, I fear for you the Day of Calling Out." },
-    { ayah: 33, arabic: "يَوْمَ تُوَلُّونَ مُدْبِرِينَ مَا لَكُم مِّنَ اللَّهِ مِنْ عَاصِمٍ", translation: "A day you will turn your backs fleeing, having no protector from Allah." },
-    { ayah: 34, arabic: "وَلَقَدْ جَاءَكُمْ يُوسُفُ مِن قَبْلُ بِالْبَيِّنَاتِ", translation: "And Yusuf had come to you before with clear proofs." },
-    { ayah: 35, arabic: "الَّذِينَ يُجَادِلُونَ فِي آيَاتِ اللَّهِ بِغَيْرِ سُلْطَانٍ أَتَاهُمْ ۖ كَبُرَ مَقْتًا عِندَ اللَّهِ", translation: "Those who dispute about the signs of Allah without authority — great is hatred of them in the sight of Allah." },
-    { ayah: 36, arabic: "وَقَالَ فِرْعَوْنُ يَا هَامَانُ ابْنِ لِي صَرْحًا لَّعَلِّي أَبْلُغُ الْأَسْبَابَ", translation: "Pharaoh said, 'O Haman, build for me a tower that I might reach the pathways.'" },
-    { ayah: 37, arabic: "أَسْبَابَ السَّمَاوَاتِ فَأَطَّلِعَ إِلَىٰ إِلَٰهِ مُوسَىٰ وَإِنِّي لَأَظُنُّهُ كَاذِبًا", translation: "The pathways into the heavens, and look at the God of Musa, for indeed I think he is a liar." },
-    { ayah: 38, arabic: "وَقَالَ الَّذِي آمَنَ يَا قَوْمِ اتَّبِعُونِ أَهْدِكُمْ سَبِيلَ الرَّشَادِ", translation: "The one who believed said, 'O my people, follow me, I will guide you to the path of right conduct.'" },
-    { ayah: 39, arabic: "يَا قَوْمِ إِنَّمَا هَٰذِهِ الْحَيَاةُ الدُّنْيَا مَتَاعٌ", translation: "O my people, this worldly life is only temporary enjoyment." },
-    { ayah: 40, arabic: "مَنْ عَمِلَ سَيِّئَةً فَلَا يُجْزَىٰ إِلَّا مِثْلَهَا ۖ وَمَنْ عَمِلَ صَالِحًا مِّن ذَكَرٍ أَوْ أُنثَىٰ وَهُوَ مُؤْمِنٌ", translation: "Whoever does evil will not be recompensed except by the like thereof; and whoever does good, male or female, while being a believer..." },
-    { ayah: 41, arabic: "وَيَا قَوْمِ مَا لِي أَدْعُوكُمْ إِلَى النَّجَاةِ وَتَدْعُونَنِي إِلَى النَّارِ", translation: "O my people, how is it that I call you to salvation while you call me to the Fire?" },
-    { ayah: 42, arabic: "تَدْعُونَنِي لِأَكْفُرَ بِاللَّهِ وَأُشْرِكَ بِهِ مَا لَيْسَ لِي بِهِ عِلْمٌ", translation: "You call me to disbelieve in Allah and associate with Him that of which I have no knowledge." },
-    { ayah: 43, arabic: "لَا جَرَمَ أَنَّمَا تَدْعُونَنِي إِلَيْهِ لَيْسَ لَهُ دَعْوَةٌ فِي الدُّنْيَا وَلَا فِي الْآخِرَةِ", translation: "Assuredly, that to which you call me has no call in this world or in the Hereafter." },
-    { ayah: 44, arabic: "فَسَتَذْكُرُونَ مَا أَقُولُ لَكُمْ ۚ وَأُفَوِّضُ أَمْرِي إِلَى اللَّهِ", translation: "You will remember what I say to you. And I entrust my affair to Allah." },
-    { ayah: 45, arabic: "فَوَقَاهُ اللَّهُ سَيِّئَاتِ مَا مَكَرُوا ۖ وَحَاقَ بِآلِ فِرْعَوْنَ سُوءُ الْعَذَابِ", translation: "So Allah protected him from the evils of what they plotted, and a terrible punishment enveloped Pharaoh's people." },
-    { ayah: 46, arabic: "النَّارُ يُعْرَضُونَ عَلَيْهَا غُدُوًّا وَعَشِيًّا", translation: "The Fire — they are presented to it morning and evening." },
-    { ayah: 47, arabic: "وَإِذْ يَتَحَاجُّونَ فِي النَّارِ فَيَقُولُ الضُّعَفَاءُ لِلَّذِينَ اسْتَكْبَرُوا", translation: "And when they argue in the Fire, and the weak say to those who were arrogant..." },
-    { ayah: 48, arabic: "قَالَ الَّذِينَ اسْتَكْبَرُوا إِنَّا كُلٌّ فِيهَا إِنَّ اللَّهَ قَدْ حَكَمَ بَيْنَ الْعِبَادِ", translation: "Those who were arrogant say, 'Indeed, we are all in it. Indeed, Allah has judged between the servants.'" },
-    { ayah: 49, arabic: "وَقَالَ الَّذِينَ فِي النَّارِ لِخَزَنَةِ جَهَنَّمَ ادْعُوا رَبَّكُمْ يُخَفِّفْ عَنَّا يَوْمًا مِّنَ الْعَذَابِ", translation: "And those in the Fire say to the keepers of Hell, 'Call upon your Lord to lighten for us a day of the punishment.'" },
-    { ayah: 50, arabic: "قَالُوا أَوَلَمْ تَكُ تَأْتِيكُمْ رُسُلُكُم بِالْبَيِّنَاتِ", translation: "They say, 'Did your messengers not come to you with clear proofs?'" },
-    { ayah: 51, arabic: "إِنَّا لَنَنصُرُ رُسُلَنَا وَالَّذِينَ آمَنُوا فِي الْحَيَاةِ الدُّنْيَا وَيَوْمَ يَقُومُ الْأَشْهَادُ", translation: "Indeed, We will support Our messengers and those who believed during the life of this world and on the Day the witnesses stand." },
-    { ayah: 52, arabic: "يَوْمَ لَا يَنفَعُ الظَّالِمِينَ مَعْذِرَتُهُمْ ۖ وَلَهُمُ اللَّعْنَةُ وَلَهُمْ سُوءُ الدَّارِ", translation: "The Day their excuse will not benefit the wrongdoers, and for them is the curse and the worst home." },
-    { ayah: 53, arabic: "وَلَقَدْ آتَيْنَا مُوسَى الْهُدَىٰ وَأَوْرَثْنَا بَنِي إِسْرَائِيلَ الْكِتَابَ", translation: "And We gave Musa guidance and caused the Children of Israel to inherit the Scripture." },
-    { ayah: 54, arabic: "هُدًى وَذِكْرَىٰ لِأُولِي الْأَلْبَابِ", translation: "A guidance and a reminder for those of understanding." },
-    { ayah: 55, arabic: "فَاصْبِرْ إِنَّ وَعْدَ اللَّهِ حَقٌّ وَاسْتَغْفِرْ لِذَنبِكَ", translation: "So be patient; indeed, the promise of Allah is truth. And seek forgiveness for your sin." },
-    { ayah: 56, arabic: "إِنَّ الَّذِينَ يُجَادِلُونَ فِي آيَاتِ اللَّهِ بِغَيْرِ سُلْطَانٍ أَتَاهُمْ ۙ إِن فِي صُدُورِهِمْ إِلَّا كِبْرٌ", translation: "Those who dispute about the signs of Allah without authority — there is nothing in their chests except grandeur they will never attain." },
-    { ayah: 57, arabic: "لَخَلْقُ السَّمَاوَاتِ وَالْأَرْضِ أَكْبَرُ مِنْ خَلْقِ النَّاسِ وَلَٰكِنَّ أَكْثَرَ النَّاسِ لَا يَعْلَمُونَ", translation: "The creation of the heavens and earth is greater than the creation of mankind, but most people do not know." },
-    { ayah: 58, arabic: "وَمَا يَسْتَوِي الْأَعْمَىٰ وَالْبَصِيرُ وَالَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَلَا الْمُسِيءُ", translation: "And not equal are the blind and the seeing, nor those who believe and do good and the evildoer." },
-    { ayah: 59, arabic: "إِنَّ السَّاعَةَ لَآتِيَةٌ لَّا رَيْبَ فِيهَا وَلَٰكِنَّ أَكْثَرَ النَّاسِ لَا يُؤْمِنُونَ", translation: "Indeed, the Hour is coming — no doubt about it — but most people do not believe." },
-    { ayah: 60, arabic: "وَقَالَ رَبُّكُمُ ادْعُونِي أَسْتَجِبْ لَكُمْ", translation: "And your Lord said, 'Call upon Me; I will respond to you.'" },
-    { ayah: 61, arabic: "اللَّهُ الَّذِي جَعَلَ لَكُمُ اللَّيْلَ لِتَسْكُنُوا فِيهِ وَالنَّهَارَ مُبْصِرًا", translation: "Allah is the one who made for you the night for rest and the day for seeing." },
-    { ayah: 62, arabic: "ذَٰلِكُمُ اللَّهُ رَبُّكُمْ خَالِقُ كُلِّ شَيْءٍ لَّا إِلَٰهَ إِلَّا هُوَ", translation: "That is Allah, your Lord, Creator of all things. There is no god but Him." },
-    { ayah: 63, arabic: "كَذَٰلِكَ يُؤْفَكُ الَّذِينَ كَانُوا بِآيَاتِ اللَّهِ يَجْحَدُونَ", translation: "Thus are deluded those who used to deny the signs of Allah." },
-    { ayah: 64, arabic: "اللَّهُ الَّذِي جَعَلَ لَكُمُ الْأَرْضَ قَرَارًا وَالسَّمَاءَ بِنَاءً وَصَوَّرَكُمْ فَأَحْسَنَ صُوَرَكُمْ", translation: "Allah made the earth a stable ground and the sky a structure and formed you and perfected your forms." },
-    { ayah: 65, arabic: "هُوَ الْحَيُّ لَا إِلَٰهَ إِلَّا هُوَ فَادْعُوهُ مُخْلِصِينَ لَهُ الدِّينَ", translation: "He is the Living; there is no god but Him. So call upon Him, making the religion sincerely for Him." },
-    { ayah: 66, arabic: "قُلْ إِنِّي نُهِيتُ أَنْ أَعْبُدَ الَّذِينَ تَدْعُونَ مِن دُونِ اللَّهِ", translation: "Say: Indeed, I have been forbidden to worship those you call upon besides Allah." },
-    { ayah: 67, arabic: "هُوَ الَّذِي خَلَقَكُم مِّن تُرَابٍ ثُمَّ مِن نُّطْفَةٍ ثُمَّ مِنْ عَلَقَةٍ", translation: "He is the one who created you from dust, then from a sperm-drop, then from a clinging clot." },
-    { ayah: 68, arabic: "هُوَ الَّذِي يُحْيِي وَيُمِيتُ ۖ فَإِذَا قَضَىٰ أَمْرًا فَإِنَّمَا يَقُولُ لَهُ كُن فَيَكُونُ", translation: "He is the one who gives life and causes death. When He decrees a matter, He only says to it, 'Be,' and it is." },
-    { ayah: 69, arabic: "أَلَمْ تَرَ إِلَى الَّذِينَ يُجَادِلُونَ فِي آيَاتِ اللَّهِ أَنَّىٰ يُصْرَفُونَ", translation: "Have you not seen those who dispute about the signs of Allah — how are they turned away?" },
-    { ayah: 70, arabic: "الَّذِينَ كَذَّبُوا بِالْكِتَابِ وَبِمَا أَرْسَلْنَا بِهِ رُسُلَنَا ۖ فَسَوْفَ يَعْلَمُونَ", translation: "Those who denied the Book and that with which We sent Our messengers — they will know." },
-    { ayah: 71, arabic: "إِذِ الْأَغْلَالُ فِي أَعْنَاقِهِمْ وَالسَّلَاسِلُ يُسْحَبُونَ", translation: "When the shackles are around their necks and the chains — they will be dragged." },
-    { ayah: 72, arabic: "فِي الْحَمِيمِ ثُمَّ فِي النَّارِ يُسْجَرُونَ", translation: "Through boiling water, then in the Fire they will be filled." },
-    { ayah: 73, arabic: "ثُمَّ قِيلَ لَهُمْ أَيْنَ مَا كُنتُمْ تُشْرِكُونَ", translation: "Then it is said to them, 'Where is what you used to associate?'" },
-    { ayah: 74, arabic: "مِن دُونِ اللَّهِ ۖ قَالُوا ضَلُّوا عَنَّا بَل لَّمْ نَكُن نَّدْعُو مِن قَبْلُ شَيْئًا", translation: "Besides Allah?' They say, 'They have departed from us; rather, we did not used to invoke anything before.'" },
-    { ayah: 75, arabic: "كَذَٰلِكَ يُضِلُّ اللَّهُ الْكَافِرِينَ", translation: "Thus does Allah lead astray the disbelievers." },
-    { ayah: 76, arabic: "ذَٰلِكُم بِمَا كُنتُمْ تَفْرَحُونَ فِي الْأَرْضِ بِغَيْرِ الْحَقِّ وَبِمَا كُنتُمْ تَمْرَحُونَ", translation: "That is because you used to rejoice on earth without right, and because you used to behave insolently." },
-    { ayah: 77, arabic: "ادْخُلُوا أَبْوَابَ جَهَنَّمَ خَالِدِينَ فِيهَا ۖ فَبِئْسَ مَثْوَى الْمُتَكَبِّرِينَ", translation: "Enter the gates of Hell to abide eternally therein. Wretched is the residence of the arrogant." },
-    { ayah: 78, arabic: "فَاصْبِرْ إِنَّ وَعْدَ اللَّهِ حَقٌّ", translation: "So be patient; indeed, the promise of Allah is truth." },
-    { ayah: 79, arabic: "فَإِمَّا نُرِيَنَّكَ بَعْضَ الَّذِي نَعِدُهُمْ أَوْ نَتَوَفَّيَنَّكَ فَإِلَيْنَا يُرْجَعُونَ", translation: "Whether We show you some of what We promise them or take you in death, to Us they will be returned." },
-    { ayah: 80, arabic: "اللَّهُ الَّذِي جَعَلَ لَكُمُ الْأَنْعَامَ لِتَرْكَبُوا مِنْهَا وَمِنْهَا تَأْكُلُونَ", translation: "Allah is the one who made for you the livestock — some of them you ride and some of them you eat." },
-    { ayah: 81, arabic: "وَلَكُمْ فِيهَا مَنَافِعُ وَلِتَبْلُغُوا عَلَيْهَا حَاجَةً فِي صُدُورِكُمْ", translation: "And you have in them benefits, and upon them you reach a need within your breasts." },
-    { ayah: 82, arabic: "أَفَلَمْ يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن قَبْلِهِمْ", translation: "Have they not traveled through the land and seen what was the end of those before them?" },
-    { ayah: 83, arabic: "كَانُوا أَكْثَرَ مِنْهُمْ وَأَشَدَّ قُوَّةً وَآثَارًا فِي الْأَرْضِ فَمَا أَغْنَىٰ عَنْهُم مَّا كَانُوا يَكْسِبُونَ", translation: "They were more numerous and greater in strength and in traces upon the land, but what they earned did not avail them." },
-    { ayah: 84, arabic: "فَلَمَّا جَاءَتْهُمْ رُسُلُهُم بِالْبَيِّنَاتِ فَرِحُوا بِمَا عِندَهُم مِّنَ الْعِلْمِ", translation: "When their messengers came to them with clear proofs, they rejoiced in what they had of knowledge." },
-    { ayah: 85, arabic: "فَلَمَّا رَأَوْا بَأْسَنَا قَالُوا آمَنَّا بِاللَّهِ وَحْدَهُ وَكَفَرْنَا بِمَا كُنَّا بِهِ مُشْرِكِينَ", translation: "When they saw Our punishment, they said, 'We believe in Allah alone and disbelieve in what we used to associate with Him.'" },
-  ],
 
   diagrams: {
     sectionJourney: {
@@ -200,7 +113,6 @@ const TABS = [
   { id: "ring", label: "Ring" },
   { id: "argument", label: "Argument" },
   { id: "absent", label: "Absences" },
-  { id: "text", label: "Text" },
 ];
 
 // ══════════════════════════════════════════════════════════════════════════════
@@ -318,21 +230,6 @@ function HeartVerse({ verse }: { verse: typeof SURAH_DATA.heartVerse }) {
   );
 }
 
-function FullSurahText({ verses }: { verses: typeof SURAH_DATA.fullText }) {
-  return (
-    <div className="space-y-5">
-      {verses.map((v) => (
-        <div key={v.ayah} className="space-y-1">
-          <p className="text-xl leading-loose text-right text-cream font-amiri" style={{ direction: "rtl" }}>
-            {v.arabic}{" "}
-            <span className="text-sm text-cream-muted/50">﴿{v.ayah}﴾</span>
-          </p>
-          <p className="text-sm text-cream-muted/60 font-body">{v.translation}</p>
-        </div>
-      ))}
-    </div>
-  );
-}
 
 function SectionJourney({ data }: { data: typeof SURAH_DATA.diagrams.sectionJourney }) {
   return (
@@ -524,13 +421,7 @@ export default function SurahArchitecture() {
           {activeTab === "ring" && <ChiasticRing data={d.diagrams.chiasticRing} />}
           {activeTab === "argument" && <DeductiveFunnel data={d.diagrams.deductiveFunnel} />}
           {activeTab === "absent" && <AbsenceMap data={d.diagrams.absenceMap} />}
-          {activeTab === "text" && (
-            <div className="space-y-6">
-              <FullSurahText verses={d.fullText} />
-              <OrnamentDivider />
-              <HeartVerse verse={d.heartVerse} />
-            </div>
-          )}
+          <div className="space-y-6 pt-6 border-t border-white/[0.06]"><HeartVerse verse={d.heartVerse} /></div>
         </div>
 
         {/* ── Go Deeper ────────────────────────────────────────────────────── */}

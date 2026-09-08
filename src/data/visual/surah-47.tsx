@@ -30,46 +30,6 @@ const SURAH_DATA = {
 
   audio: { surahNumber: 47, reciter: "ar.alafasy" },
 
-  fullText: [
-    { ayah: 1, arabic: "الَّذِينَ كَفَرُوا وَصَدُّوا عَن سَبِيلِ اللَّهِ أَضَلَّ أَعْمَالَهُمْ", translation: "Those who disbelieve and obstruct from the path of Allah — He will waste their deeds." },
-    { ayah: 2, arabic: "وَالَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَآمَنُوا بِمَا نُزِّلَ عَلَىٰ مُحَمَّدٍ وَهُوَ الْحَقُّ مِن رَّبِّهِمْ ۙ كَفَّرَ عَنْهُمْ سَيِّئَاتِهِمْ وَأَصْلَحَ بَالَهُمْ", translation: "And those who believe and do righteous deeds and believe in what has been revealed to Muhammad — and it is the truth from their Lord — He will remove from them their misdeeds and amend their condition." },
-    { ayah: 3, arabic: "ذَٰلِكَ بِأَنَّ الَّذِينَ كَفَرُوا اتَّبَعُوا الْبَاطِلَ وَأَنَّ الَّذِينَ آمَنُوا اتَّبَعُوا الْحَقَّ مِن رَّبِّهِمْ ۚ كَذَٰلِكَ يَضْرِبُ اللَّهُ لِلنَّاسِ أَمْثَالَهُمْ", translation: "That is because those who disbelieve follow falsehood, and those who believe follow the truth from their Lord. Thus does Allah present to the people their comparisons." },
-    { ayah: 4, arabic: "فَإِذَا لَقِيتُمُ الَّذِينَ كَفَرُوا فَضَرْبَ الرِّقَابِ حَتَّىٰ إِذَا أَثْخَنتُمُوهُمْ فَشُدُّوا الْوَثَاقَ فَإِمَّا مَنًّا بَعْدُ وَإِمَّا فِدَاءً حَتَّىٰ تَضَعَ الْحَرْبُ أَوْزَارَهَا", translation: "So when you meet those who disbelieve in battle, strike their necks until you have routed them, then bind firmly. Then either favor afterward or ransom until the war lays down its burdens." },
-    { ayah: 5, arabic: "ذَٰلِكَ وَلَوْ يَشَاءُ اللَّهُ لَانتَصَرَ مِنْهُمْ وَلَٰكِن لِّيَبْلُوَ بَعْضَكُم بِبَعْضٍ", translation: "That is so. And if Allah had willed, He could have taken vengeance upon them, but He ordered struggle to test some of you by means of others." },
-    { ayah: 6, arabic: "وَالَّذِينَ قُتِلُوا فِي سَبِيلِ اللَّهِ فَلَن يُضِلَّ أَعْمَالَهُمْ", translation: "And those who are killed in the cause of Allah — never will He waste their deeds." },
-    { ayah: 7, arabic: "يَا أَيُّهَا الَّذِينَ آمَنُوا إِن تَنصُرُوا اللَّهَ يَنصُرْكُمْ وَيُثَبِّتْ أَقْدَامَكُمْ", translation: "O you who have believed, if you support Allah, He will support you and plant firmly your feet." },
-    { ayah: 8, arabic: "وَالَّذِينَ كَفَرُوا فَتَعْسًا لَّهُمْ وَأَضَلَّ أَعْمَالَهُمْ", translation: "But those who disbelieve — for them is misery, and He will waste their deeds." },
-    { ayah: 9, arabic: "ذَٰلِكَ بِأَنَّهُمْ كَرِهُوا مَا أَنزَلَ اللَّهُ فَأَحْبَطَ أَعْمَالَهُمْ", translation: "That is because they disliked what Allah revealed, so He rendered worthless their deeds." },
-    { ayah: 10, arabic: "أَفَلَمْ يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن قَبْلِهِمْ ۚ دَمَّرَ اللَّهُ عَلَيْهِمْ ۖ وَلِلْكَافِرِينَ أَمْثَالُهَا", translation: "Have they not traveled through the land and seen the end of those before them? Allah destroyed them, and for the disbelievers is something comparable." },
-    { ayah: 11, arabic: "ذَٰلِكَ بِأَنَّ اللَّهَ مَوْلَى الَّذِينَ آمَنُوا وَأَنَّ الْكَافِرِينَ لَا مَوْلَىٰ لَهُمْ", translation: "That is because Allah is the protector of those who believe, and because the disbelievers have no protector." },
-    { ayah: 12, arabic: "إِنَّ اللَّهَ يُدْخِلُ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ ۖ وَالَّذِينَ كَفَرُوا يَتَمَتَّعُونَ وَيَأْكُلُونَ كَمَا تَأْكُلُ الْأَنْعَامُ وَالنَّارُ مَثْوًى لَّهُمْ", translation: "Indeed, Allah will admit those who believe to gardens beneath which rivers flow, but those who disbelieve enjoy themselves and eat as grazing livestock eat, and the Fire will be a residence for them." },
-    { ayah: 13, arabic: "وَكَأَيِّن مِّن قَرْيَةٍ هِيَ أَشَدُّ قُوَّةً مِّن قَرْيَتِكَ الَّتِي أَخْرَجَتْكَ أَهْلَكْنَاهُمْ فَلَا نَاصِرَ لَهُمْ", translation: "And how many a city was stronger than your city which drove you out? We destroyed them; and there was no helper for them." },
-    { ayah: 14, arabic: "أَفَمَن كَانَ عَلَىٰ بَيِّنَةٍ مِّن رَّبِّهِ كَمَن زُيِّنَ لَهُ سُوءُ عَمَلِهِ وَاتَّبَعُوا أَهْوَاءَهُمْ", translation: "Is one who stands on clear evidence from his Lord like one whose evil deeds have been made attractive to him and who follow their desires?" },
-    { ayah: 15, arabic: "مَّثَلُ الْجَنَّةِ الَّتِي وُعِدَ الْمُتَّقُونَ ۖ فِيهَا أَنْهَارٌ مِّن مَّاءٍ غَيْرِ آسِنٍ وَأَنْهَارٌ مِّن لَّبَنٍ لَّمْ يَتَغَيَّرْ طَعْمُهُ وَأَنْهَارٌ مِّن خَمْرٍ لَّذَّةٍ لِّلشَّارِبِينَ وَأَنْهَارٌ مِّن عَسَلٍ مُّصَفًّى", translation: "The description of Paradise promised to the righteous: therein are rivers of water unaltered, rivers of milk whose taste never changes, rivers of wine delicious to those who drink, and rivers of purified honey." },
-    { ayah: 16, arabic: "وَمِنْهُم مَّن يَسْتَمِعُ إِلَيْكَ حَتَّىٰ إِذَا خَرَجُوا مِنْ عِندِكَ قَالُوا لِلَّذِينَ أُوتُوا الْعِلْمَ مَاذَا قَالَ آنِفًا", translation: "And among them are those who listen to you, until when they depart from you, they say to those given knowledge, 'What has he just said?'" },
-    { ayah: 17, arabic: "وَالَّذِينَ اهْتَدَوْا زَادَهُمْ هُدًى وَآتَاهُمْ تَقْوَاهُمْ", translation: "And those who are guided — He increases them in guidance and gives them their righteousness." },
-    { ayah: 18, arabic: "فَهَلْ يَنظُرُونَ إِلَّا السَّاعَةَ أَن تَأْتِيَهُم بَغْتَةً ۖ فَقَدْ جَاءَ أَشْرَاطُهَا", translation: "Do they await except that the Hour should come upon them unexpectedly? Already its indications have come." },
-    { ayah: 19, arabic: "فَاعْلَمْ أَنَّهُ لَا إِلَٰهَ إِلَّا اللَّهُ وَاسْتَغْفِرْ لِذَنبِكَ وَلِلْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ", translation: "So know that there is no deity except Allah and ask forgiveness for your sin and for the believing men and believing women." },
-    { ayah: 20, arabic: "وَيَقُولُ الَّذِينَ آمَنُوا لَوْلَا نُزِّلَتْ سُورَةٌ ۖ فَإِذَا أُنزِلَتْ سُورَةٌ مُّحْكَمَةٌ وَذُكِرَ فِيهَا الْقِتَالُ ۙ رَأَيْتَ الَّذِينَ فِي قُلُوبِهِم مَّرَضٌ يَنظُرُونَ إِلَيْكَ نَظَرَ الْمَغْشِيِّ عَلَيْهِ مِنَ الْمَوْتِ", translation: "Those who believe say, 'Why has a surah not been sent down?' But when a precise surah is revealed and fighting is mentioned, you see those in whose hearts is disease looking at you with a look of one overcome by death." },
-    { ayah: 21, arabic: "طَاعَةٌ وَقَوْلٌ مَّعْرُوفٌ ۚ فَإِذَا عَزَمَ الْأَمْرُ فَلَوْ صَدَقُوا اللَّهَ لَكَانَ خَيْرًا لَّهُمْ", translation: "Obedience and good speech. And when the matter was determined, if they had been true to Allah, it would have been better for them." },
-    { ayah: 22, arabic: "فَهَلْ عَسَيْتُمْ إِن تَوَلَّيْتُمْ أَن تُفْسِدُوا فِي الْأَرْضِ وَتُقَطِّعُوا أَرْحَامَكُمْ", translation: "So would you perhaps, if you turned away, cause corruption on earth and sever your ties of kinship?" },
-    { ayah: 23, arabic: "أُولَٰئِكَ الَّذِينَ لَعَنَهُمُ اللَّهُ فَأَصَمَّهُمْ وَأَعْمَىٰ أَبْصَارَهُمْ", translation: "Those are the ones that Allah has cursed, so He deafened them and blinded their eyes." },
-    { ayah: 24, arabic: "أَفَلَا يَتَدَبَّرُونَ الْقُرْآنَ أَمْ عَلَىٰ قُلُوبٍ أَقْفَالُهَا", translation: "Then do they not reflect upon the Quran, or are there locks upon their hearts?" },
-    { ayah: 25, arabic: "إِنَّ الَّذِينَ ارْتَدُّوا عَلَىٰ أَدْبَارِهِم مِّن بَعْدِ مَا تَبَيَّنَ لَهُمُ الْهُدَى ۙ الشَّيْطَانُ سَوَّلَ لَهُمْ وَأَمْلَىٰ لَهُمْ", translation: "Indeed, those who reverted back after guidance had become clear to them — Satan enticed them and prolonged hope for them." },
-    { ayah: 26, arabic: "ذَٰلِكَ بِأَنَّهُمْ قَالُوا لِلَّذِينَ كَرِهُوا مَا نَزَّلَ اللَّهُ سَنُطِيعُكُمْ فِي بَعْضِ الْأَمْرِ", translation: "That is because they said to those who disliked what Allah sent down, 'We will obey you in part of the matter.'" },
-    { ayah: 27, arabic: "فَكَيْفَ إِذَا تَوَفَّتْهُمُ الْمَلَائِكَةُ يَضْرِبُونَ وُجُوهَهُمْ وَأَدْبَارَهُمْ", translation: "Then how will it be when the angels take them in death, striking their faces and their backs?" },
-    { ayah: 28, arabic: "ذَٰلِكَ بِأَنَّهُمُ اتَّبَعُوا مَا أَسْخَطَ اللَّهَ وَكَرِهُوا رِضْوَانَهُ فَأَحْبَطَ أَعْمَالَهُمْ", translation: "That is because they followed what angered Allah and disliked what earns His pleasure, so He rendered worthless their deeds." },
-    { ayah: 29, arabic: "أَمْ حَسِبَ الَّذِينَ فِي قُلُوبِهِم مَّرَضٌ أَن لَّن يُخْرِجَ اللَّهُ أَضْغَانَهُمْ", translation: "Or do those in whose hearts is disease think that Allah would never expose their grudges?" },
-    { ayah: 30, arabic: "وَلَوْ نَشَاءُ لَأَرَيْنَاكَهُمْ فَلَعَرَفْتَهُم بِسِيمَاهُمْ ۚ وَلَتَعْرِفَنَّهُمْ فِي لَحْنِ الْقَوْلِ", translation: "And if We willed, We could show them to you, and you would know them by their marks; but you will surely know them by the tone of their speech." },
-    { ayah: 31, arabic: "وَلَنَبْلُوَنَّكُمْ حَتَّىٰ نَعْلَمَ الْمُجَاهِدِينَ مِنكُمْ وَالصَّابِرِينَ وَنَبْلُوَ أَخْبَارَكُمْ", translation: "And We will surely test you until We make evident those who strive among you and the patient, and We will test your affairs." },
-    { ayah: 32, arabic: "إِنَّ الَّذِينَ كَفَرُوا وَصَدُّوا عَن سَبِيلِ اللَّهِ وَشَاقُّوا الرَّسُولَ مِن بَعْدِ مَا تَبَيَّنَ لَهُمُ الْهُدَىٰ لَن يَضُرُّوا اللَّهَ شَيْئًا وَسَيُحْبِطُ أَعْمَالَهُمْ", translation: "Indeed, those who disbelieve and obstruct from the path of Allah and oppose the Messenger after guidance has become clear to them — never will they harm Allah at all, and He will render worthless their deeds." },
-    { ayah: 33, arabic: "يَا أَيُّهَا الَّذِينَ آمَنُوا أَطِيعُوا اللَّهَ وَأَطِيعُوا الرَّسُولَ وَلَا تُبْطِلُوا أَعْمَالَكُمْ", translation: "O you who have believed, obey Allah and obey the Messenger and do not invalidate your deeds." },
-    { ayah: 34, arabic: "إِنَّ الَّذِينَ كَفَرُوا وَصَدُّوا عَن سَبِيلِ اللَّهِ ثُمَّ مَاتُوا وَهُمْ كُفَّارٌ فَلَن يَغْفِرَ اللَّهُ لَهُمْ", translation: "Indeed, those who disbelieve and avert from the path of Allah and then die while they are disbelievers — never will Allah forgive them." },
-    { ayah: 35, arabic: "فَلَا تَهِنُوا وَتَدْعُوا إِلَى السَّلْمِ وَأَنتُمُ الْأَعْلَوْنَ وَاللَّهُ مَعَكُمْ وَلَن يَتِرَكُمْ أَعْمَالَكُمْ", translation: "So do not weaken and call for peace while you are superior, and Allah is with you and will never deprive you of your deeds." },
-    { ayah: 36, arabic: "إِنَّمَا الْحَيَاةُ الدُّنْيَا لَعِبٌ وَلَهْوٌ ۚ وَإِن تُؤْمِنُوا وَتَتَّقُوا يُؤْتِكُمْ أُجُورَكُمْ وَلَا يَسْأَلْكُمْ أَمْوَالَكُمْ", translation: "The life of this world is only amusement and diversion. And if you believe and fear Allah, He will give you your rewards and not ask you for your wealth." },
-    { ayah: 37, arabic: "إِن يَسْأَلْكُمُوهَا فَيُحْفِكُمْ تَبْخَلُوا وَيُخْرِجْ أَضْغَانَكُمْ", translation: "If He should ask you for it and press you, you would withhold, and He would expose your grudges." },
-    { ayah: 38, arabic: "هَا أَنتُمْ هَٰؤُلَاءِ تُدْعَوْنَ لِتُنفِقُوا فِي سَبِيلِ اللَّهِ فَمِنكُم مَّن يَبْخَلُ ۖ وَمَن يَبْخَلْ فَإِنَّمَا يَبْخَلُ عَن نَّفْسِهِ ۚ وَاللَّهُ الْغَنِيُّ وَأَنتُمُ الْفُقَرَاءُ ۚ وَإِن تَتَوَلَّوْا يَسْتَبْدِلْ قَوْمًا غَيْرَكُمْ ثُمَّ لَا يَكُونُوا أَمْثَالَكُمْ", translation: "Here you are — those invited to spend in the cause of Allah — but among you are those who withhold. And whoever withholds only withholds from himself. And Allah is the Free of need, while you are the needy. And if you turn away, He will replace you with another people, and they will not be the likes of you." },
-  ],
 
   diagrams: {
     sectionJourney: {
@@ -148,7 +108,6 @@ const TABS = [
   { id: "ring", label: "Ring" },
   { id: "diagnosis", label: "Diagnosis" },
   { id: "absent", label: "Absences" },
-  { id: "text", label: "Text" },
 ];
 
 // ══════════════════════════════════════════════════════════════════════════════
@@ -266,21 +225,6 @@ function HeartVerse({ verse }: { verse: typeof SURAH_DATA.heartVerse }) {
   );
 }
 
-function FullSurahText({ verses }: { verses: typeof SURAH_DATA.fullText }) {
-  return (
-    <div className="space-y-5">
-      {verses.map((v) => (
-        <div key={v.ayah} className="space-y-1">
-          <p className="text-xl leading-loose text-right text-cream font-amiri" style={{ direction: "rtl" }}>
-            {v.arabic}{" "}
-            <span className="text-sm text-cream-muted/50">{"\uFD3E"}{v.ayah}{"\uFD3F"}</span>
-          </p>
-          <p className="text-sm text-cream-muted/60 font-body">{v.translation}</p>
-        </div>
-      ))}
-    </div>
-  );
-}
 
 function SectionJourney({ data }: { data: typeof SURAH_DATA.diagrams.sectionJourney }) {
   return (
@@ -472,13 +416,7 @@ export default function SurahArchitecture() {
           {activeTab === "ring" && <ChiasticRing data={d.diagrams.chiasticRing} />}
           {activeTab === "diagnosis" && <DeductiveFunnel data={d.diagrams.deductiveFunnel} />}
           {activeTab === "absent" && <AbsenceMap data={d.diagrams.absenceMap} />}
-          {activeTab === "text" && (
-            <div className="space-y-6">
-              <FullSurahText verses={d.fullText} />
-              <OrnamentDivider />
-              <HeartVerse verse={d.heartVerse} />
-            </div>
-          )}
+          <div className="space-y-6 pt-6 border-t border-white/[0.06]"><HeartVerse verse={d.heartVerse} /></div>
         </div>
 
         {/* -- Go Deeper -- */}

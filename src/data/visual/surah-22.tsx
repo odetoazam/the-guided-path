@@ -30,21 +30,6 @@ const SURAH_DATA = {
 
   audio: { surahNumber: 22, reciter: "ar.alafasy" },
 
-  fullText: [
-    { ayah: 1, arabic: "يَا أَيُّهَا النَّاسُ اتَّقُوا رَبَّكُمْ ۚ إِنَّ زَلْزَلَةَ السَّاعَةِ شَيْءٌ عَظِيمٌ", translation: "O humanity, fear your Lord. Indeed, the convulsion of the Hour is a tremendous thing." },
-    { ayah: 2, arabic: "يَوْمَ تَرَوْنَهَا تَذْهَلُ كُلُّ مُرْضِعَةٍ عَمَّا أَرْضَعَتْ وَتَضَعُ كُلُّ ذَاتِ حَمْلٍ حَمْلَهَا وَتَرَى النَّاسَ سُكَارَىٰ وَمَا هُم بِسُكَارَىٰ وَلَٰكِنَّ عَذَابَ اللَّهِ شَدِيدٌ", translation: "The Day you see it, every nursing mother will forget her nursling, and every pregnant woman will abort her pregnancy, and you will see people as if intoxicated while they are not intoxicated; but the punishment of Allah is severe." },
-    { ayah: 5, arabic: "يَا أَيُّهَا النَّاسُ إِن كُنتُمْ فِي رَيْبٍ مِّنَ الْبَعْثِ فَإِنَّا خَلَقْنَاكُم مِّن تُرَابٍ ثُمَّ مِن نُّطْفَةٍ ثُمَّ مِنْ عَلَقَةٍ ثُمَّ مِن مُّضْغَةٍ مُّخَلَّقَةٍ وَغَيْرِ مُخَلَّقَةٍ", translation: "O people, if you are in doubt about the Resurrection — then We created you from dust, then from a drop, then from a clinging clot, then from a lump of flesh, formed and unformed." },
-    { ayah: 11, arabic: "وَمِنَ النَّاسِ مَن يَعْبُدُ اللَّهَ عَلَىٰ حَرْفٍ", translation: "And among the people is he who worships Allah on an edge." },
-    { ayah: 18, arabic: "أَلَمْ تَرَ أَنَّ اللَّهَ يَسْجُدُ لَهُ مَن فِي السَّمَاوَاتِ وَمَن فِي الْأَرْضِ وَالشَّمْسُ وَالْقَمَرُ وَالنُّجُومُ وَالْجِبَالُ وَالشَّجَرُ وَالدَّوَابُّ وَكَثِيرٌ مِّنَ النَّاسِ", translation: "Do you not see that to Allah prostrates whoever is in the heavens and whoever is on the earth, and the sun, the moon, the stars, the mountains, the trees, the moving creatures, and many of mankind?" },
-    { ayah: 26, arabic: "وَإِذْ بَوَّأْنَا لِإِبْرَاهِيمَ مَكَانَ الْبَيْتِ أَن لَّا تُشْرِكْ بِي شَيْئًا وَطَهِّرْ بَيْتِيَ لِلطَّائِفِينَ وَالْقَائِمِينَ وَالرُّكَّعِ السُّجُودِ", translation: "And when We designated for Ibrahim the site of the House: 'Do not associate anything with Me, and purify My House for those who circumambulate it, and those who stand, and those who bow and prostrate.'" },
-    { ayah: 37, arabic: "لَن يَنَالَ اللَّهَ لُحُومُهَا وَلَا دِمَاؤُهَا وَلَٰكِن يَنَالُهُ التَّقْوَىٰ مِنكُمْ", translation: "Their meat will not reach Allah, nor will their blood, but what reaches Him is taqwa from you." },
-    { ayah: 39, arabic: "أُذِنَ لِلَّذِينَ يُقَاتَلُونَ بِأَنَّهُمْ ظُلِمُوا ۚ وَإِنَّ اللَّهَ عَلَىٰ نَصْرِهِمْ لَقَدِيرٌ", translation: "Permission is granted to those who are fought against, because they have been wronged. And indeed, Allah is capable of giving them victory." },
-    { ayah: 40, arabic: "الَّذِينَ أُخْرِجُوا مِن دِيَارِهِم بِغَيْرِ حَقٍّ إِلَّا أَن يَقُولُوا رَبُّنَا اللَّهُ", translation: "Those who have been expelled from their homes unjustly, only because they said: 'Our Lord is Allah.'" },
-    { ayah: 46, arabic: "فَإِنَّهَا لَا تَعْمَى الْأَبْصَارُ وَلَٰكِن تَعْمَى الْقُلُوبُ الَّتِي فِي الصُّدُورِ", translation: "For indeed, it is not the eyes that are blind, but blind are the hearts which are within the breasts." },
-    { ayah: 73, arabic: "إِنَّ الَّذِينَ تَدْعُونَ مِن دُونِ اللَّهِ لَن يَخْلُقُوا ذُبَابًا وَلَوِ اجْتَمَعُوا لَهُ", translation: "Indeed, those you invoke besides Allah will never create a fly, even if they gathered together for it." },
-    { ayah: 77, arabic: "يَا أَيُّهَا الَّذِينَ آمَنُوا ارْكَعُوا وَاسْجُدُوا وَاعْبُدُوا رَبَّكُمْ وَافْعَلُوا الْخَيْرَ لَعَلَّكُمْ تُفْلِحُونَ", translation: "O you who believe, bow and prostrate and worship your Lord and do good, that you may succeed." },
-    { ayah: 78, arabic: "وَجَاهِدُوا فِي اللَّهِ حَقَّ جِهَادِهِ ۚ هُوَ اجْتَبَاكُمْ وَمَا جَعَلَ عَلَيْكُمْ فِي الدِّينِ مِنْ حَرَجٍ ۚ مِّلَّةَ أَبِيكُمْ إِبْرَاهِيمَ ۚ هُوَ سَمَّاكُمُ الْمُسْلِمِينَ", translation: "And strive in the cause of Allah with the striving due to Him. He has chosen you and has not placed upon you in the religion any hardship — the religion of your father Ibrahim. He named you Muslims." },
-  ],
 
   diagrams: {
     sectionJourney: {
@@ -89,7 +74,7 @@ const SURAH_DATA = {
       layers: [
         { depth: 1, label: "Makki + Madani", ayah: "1–78", arabic: "زَلْزَلَةَ السَّاعَةِ", desc: "One of the few surahs blending both periods — eschatological thunder from Mecca beside legislative precision from Medina in the same breath.", color: "#e07a8a" },
         { depth: 2, label: "Cosmic + Ritual", ayah: "18, 26–29", arabic: "يَسْجُدُ لَهُ مَن فِي السَّمَاوَاتِ", desc: "The prostration of the sun and the moon beside the slaughter of a sacrificial animal. Cosmic worship and its earthly expression at the Ka'bah.", color: "#9b7fd4" },
-        { depth: 3, label: "Intimate + Universal", ayah: "5, 1", arabic: "مِن تُرَابٍ ثُمَّ مِن نُّطْفَةٍ", desc: "The embryological stages of a single human being beside the shaking of the entire earth. The closest sign and the furthest event.", color: "#4ecdc4" },
+        { depth: 3, label: "Intimate + Universal", ayah: "5, 1", arabic: "مِن تُرَابٍ ثُمَّ مِن نُّطْفَةٍ", desc: "The embryological stages of a single human being beside the shaking of the entire earth. The closest sign and the furthest event.", color: "#4ecdc4" },
         { depth: 4, label: "Evidence + Blindness", ayah: "46", arabic: "تَعْمَى الْقُلُوبُ الَّتِي فِي الصُّدُورِ", desc: "The surah presents evidence — embryological, cosmological, historical — then diagnoses why evidence alone is never sufficient. The hearts can go blind.", color: "#C9A84C" },
       ],
     },
@@ -123,7 +108,6 @@ const TABS = [
   { id: "frame", label: "Frame" },
   { id: "converge", label: "Convergences" },
   { id: "absent", label: "Absences" },
-  { id: "text", label: "Text" },
 ];
 
 // ══════════════════════════════════════════════════════════════════════════════
@@ -241,21 +225,6 @@ function HeartVerse({ verse }: { verse: typeof SURAH_DATA.heartVerse }) {
   );
 }
 
-function FullSurahText({ verses }: { verses: typeof SURAH_DATA.fullText }) {
-  return (
-    <div className="space-y-5">
-      {verses.map((v) => (
-        <div key={v.ayah} className="space-y-1">
-          <p className="text-xl leading-loose text-right text-cream font-amiri" style={{ direction: "rtl" }}>
-            {v.arabic}{" "}
-            <span className="text-sm text-cream-muted/50">﴿{v.ayah}﴾</span>
-          </p>
-          <p className="text-sm text-cream-muted/60 font-body">{v.translation}</p>
-        </div>
-      ))}
-    </div>
-  );
-}
 
 function SectionJourney({ data }: { data: typeof SURAH_DATA.diagrams.sectionJourney }) {
   return (
@@ -447,13 +416,7 @@ export default function SurahArchitecture() {
           {activeTab === "frame" && <ChiasticRing data={d.diagrams.chiasticRing} />}
           {activeTab === "converge" && <DeductiveFunnel data={d.diagrams.deductiveFunnel} />}
           {activeTab === "absent" && <AbsenceMap data={d.diagrams.absenceMap} />}
-          {activeTab === "text" && (
-            <div className="space-y-6">
-              <FullSurahText verses={d.fullText} />
-              <OrnamentDivider />
-              <HeartVerse verse={d.heartVerse} />
-            </div>
-          )}
+          <div className="space-y-6 pt-6 border-t border-white/[0.06]"><HeartVerse verse={d.heartVerse} /></div>
         </div>
 
         {/* ── Go Deeper ────────────────────────────────────────────────────── */}

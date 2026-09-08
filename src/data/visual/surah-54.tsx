@@ -30,63 +30,6 @@ const SURAH_DATA = {
 
   audio: { surahNumber: 54, reciter: "ar.alafasy" },
 
-  fullText: [
-    { ayah: 1, arabic: "اقْتَرَبَتِ السَّاعَةُ وَانشَقَّ الْقَمَرُ", translation: "The Hour has drawn near, and the moon has split." },
-    { ayah: 2, arabic: "وَإِن يَرَوْا آيَةً يُعْرِضُوا وَيَقُولُوا سِحْرٌ مُّسْتَمِرٌّ", translation: "And if they see a sign, they turn away and say, 'Passing magic.'" },
-    { ayah: 3, arabic: "وَكَذَّبُوا وَاتَّبَعُوا أَهْوَاءَهُمْ ۚ وَكُلُّ أَمْرٍ مُّسْتَقِرٌّ", translation: "They denied and followed their desires, and every matter will be settled." },
-    { ayah: 4, arabic: "وَلَقَدْ جَاءَهُم مِّنَ الْأَنبَاءِ مَا فِيهِ مُزْدَجَرٌ", translation: "And there has already come to them of information that which contains deterrence —" },
-    { ayah: 5, arabic: "حِكْمَةٌ بَالِغَةٌ ۖ فَمَا تُغْنِ النُّذُرُ", translation: "extensive wisdom — but the warnings do not benefit." },
-    { ayah: 6, arabic: "فَتَوَلَّ عَنْهُمْ ۘ يَوْمَ يَدْعُ الدَّاعِ إِلَىٰ شَيْءٍ نُّكُرٍ", translation: "So turn away from them. The Day the Caller will call to something terrible —" },
-    { ayah: 7, arabic: "خُشَّعًا أَبْصَارُهُمْ يَخْرُجُونَ مِنَ الْأَجْدَاثِ كَأَنَّهُمْ جَرَادٌ مُّنتَشِرٌ", translation: "their eyes humbled, they will emerge from the graves as if they were locusts spreading," },
-    { ayah: 8, arabic: "مُّهْطِعِينَ إِلَى الدَّاعِ ۖ يَقُولُ الْكَافِرُونَ هَـٰذَا يَوْمٌ عَسِرٌ", translation: "racing toward the Caller. The disbelievers will say, 'This is a difficult day.'" },
-    { ayah: 9, arabic: "كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍ فَكَذَّبُوا عَبْدَنَا وَقَالُوا مَجْنُونٌ وَازْدُجِرَ", translation: "The people of Nuh denied before them. They denied Our servant and said, 'A madman,' and he was repelled." },
-    { ayah: 10, arabic: "فَدَعَا رَبَّهُ أَنِّي مَغْلُوبٌ فَانتَصِرْ", translation: "So he called upon his Lord, 'Indeed, I am overpowered, so help.'" },
-    { ayah: 11, arabic: "فَفَتَحْنَا أَبْوَابَ السَّمَاءِ بِمَاءٍ مُّنْهَمِرٍ", translation: "Then We opened the gates of heaven with pouring water" },
-    { ayah: 12, arabic: "وَفَجَّرْنَا الْأَرْضَ عُيُونًا فَالْتَقَى الْمَاءُ عَلَىٰ أَمْرٍ قَدْ قُدِرَ", translation: "and caused the earth to burst with springs, and the waters met upon a matter already decreed." },
-    { ayah: 13, arabic: "وَحَمَلْنَاهُ عَلَىٰ ذَاتِ أَلْوَاحٍ وَدُسُرٍ", translation: "And We carried him on a vessel of planks and nails," },
-    { ayah: 14, arabic: "تَجْرِي بِأَعْيُنِنَا جَزَاءً لِّمَن كَانَ كُفِرَ", translation: "sailing under Our watchful care — a recompense for he who had been denied." },
-    { ayah: 15, arabic: "وَلَقَدْ تَّرَكْنَاهَا آيَةً فَهَلْ مِن مُّدَّكِرٍ", translation: "And We left it as a sign — so is there any who will remember?" },
-    { ayah: 16, arabic: "فَكَيْفَ كَانَ عَذَابِي وَنُذُرِ", translation: "So how were My punishment and My warnings?" },
-    { ayah: 17, arabic: "وَلَقَدْ يَسَّرْنَا الْقُرْآنَ لِلذِّكْرِ فَهَلْ مِن مُّدَّكِرٍ", translation: "And We have certainly made the Quran easy for remembrance, so is there any who will remember?" },
-    { ayah: 18, arabic: "كَذَّبَتْ عَادٌ فَكَيْفَ كَانَ عَذَابِي وَنُذُرِ", translation: "'Ad denied. So how were My punishment and My warnings?" },
-    { ayah: 19, arabic: "إِنَّا أَرْسَلْنَا عَلَيْهِمْ رِيحًا صَرْصَرًا فِي يَوْمِ نَحْسٍ مُّسْتَمِرٍّ", translation: "Indeed, We sent upon them a screaming wind on a day of unending misfortune," },
-    { ayah: 20, arabic: "تَنزِعُ النَّاسَ كَأَنَّهُمْ أَعْجَازُ نَخْلٍ مُّنقَعِرٍ", translation: "plucking people out as if they were trunks of uprooted palm trees." },
-    { ayah: 21, arabic: "فَكَيْفَ كَانَ عَذَابِي وَنُذُرِ", translation: "So how were My punishment and My warnings?" },
-    { ayah: 22, arabic: "وَلَقَدْ يَسَّرْنَا الْقُرْآنَ لِلذِّكْرِ فَهَلْ مِن مُّدَّكِرٍ", translation: "And We have certainly made the Quran easy for remembrance, so is there any who will remember?" },
-    { ayah: 23, arabic: "كَذَّبَتْ ثَمُودُ بِالنُّذُرِ", translation: "Thamud denied the warnings." },
-    { ayah: 24, arabic: "فَقَالُوا أَبَشَرًا مِّنَّا وَاحِدًا نَّتَّبِعُهُ إِنَّا إِذًا لَّفِي ضَلَالٍ وَسُعُرٍ", translation: "They said, 'Is it a single human being among us that we should follow? We would then be in error and madness.'" },
-    { ayah: 25, arabic: "أَأُلْقِيَ الذِّكْرُ عَلَيْهِ مِن بَيْنِنَا بَلْ هُوَ كَذَّابٌ أَشِرٌ", translation: "'Has the message been cast upon him from among us? Rather, he is an insolent liar.'" },
-    { ayah: 26, arabic: "سَيَعْلَمُونَ غَدًا مَّنِ الْكَذَّابُ الْأَشِرُ", translation: "They will know tomorrow who the insolent liar is." },
-    { ayah: 27, arabic: "إِنَّا مُرْسِلُو النَّاقَةِ فِتْنَةً لَّهُمْ فَارْتَقِبْهُمْ وَاصْطَبِرْ", translation: "Indeed, We are sending the she-camel as a trial for them, so watch them and be patient." },
-    { ayah: 28, arabic: "وَنَبِّئْهُمْ أَنَّ الْمَاءَ قِسْمَةٌ بَيْنَهُمْ ۖ كُلُّ شِرْبٍ مُّحْتَضَرٌ", translation: "And inform them that the water is shared between them, each day of drinking attended." },
-    { ayah: 29, arabic: "فَنَادَوْا صَاحِبَهُمْ فَتَعَاطَىٰ فَعَقَرَ", translation: "But they called their companion, and he took a sword and hamstrung her." },
-    { ayah: 30, arabic: "فَكَيْفَ كَانَ عَذَابِي وَنُذُرِ", translation: "So how were My punishment and My warnings?" },
-    { ayah: 31, arabic: "إِنَّا أَرْسَلْنَا عَلَيْهِمْ صَيْحَةً وَاحِدَةً فَكَانُوا كَهَشِيمِ الْمُحْتَظِرِ", translation: "Indeed, We sent upon them one blast, and they became like the dry twig fragments of a fence-builder." },
-    { ayah: 32, arabic: "وَلَقَدْ يَسَّرْنَا الْقُرْآنَ لِلذِّكْرِ فَهَلْ مِن مُّدَّكِرٍ", translation: "And We have certainly made the Quran easy for remembrance, so is there any who will remember?" },
-    { ayah: 33, arabic: "كَذَّبَتْ قَوْمُ لُوطٍ بِالنُّذُرِ", translation: "The people of Lut denied the warnings." },
-    { ayah: 34, arabic: "إِنَّا أَرْسَلْنَا عَلَيْهِمْ حَاصِبًا إِلَّا آلَ لُوطٍ ۖ نَّجَّيْنَاهُم بِسَحَرٍ", translation: "Indeed, We sent upon them a storm of stones, except the family of Lut — We saved them before dawn." },
-    { ayah: 35, arabic: "نِّعْمَةً مِّنْ عِندِنَا ۚ كَذَٰلِكَ نَجْزِي مَن شَكَرَ", translation: "As favor from Us. Thus do We reward the grateful." },
-    { ayah: 36, arabic: "وَلَقَدْ أَنذَرَهُم بَطْشَتَنَا فَتَمَارَوْا بِالنُّذُرِ", translation: "And he had warned them of Our assault, but they disputed about the warnings." },
-    { ayah: 37, arabic: "وَلَقَدْ رَاوَدُوهُ عَن ضَيْفِهِ فَطَمَسْنَا أَعْيُنَهُمْ فَذُوقُوا عَذَابِي وَنُذُرِ", translation: "And they demanded his guests, so We blinded their eyes. 'Taste My punishment and My warnings.'" },
-    { ayah: 38, arabic: "وَلَقَدْ صَبَّحَهُم بُكْرَةً عَذَابٌ مُّسْتَقِرٌّ", translation: "And there seized them by early morning an abiding punishment." },
-    { ayah: 39, arabic: "فَذُوقُوا عَذَابِي وَنُذُرِ", translation: "'Taste My punishment and My warnings.'" },
-    { ayah: 40, arabic: "وَلَقَدْ يَسَّرْنَا الْقُرْآنَ لِلذِّكْرِ فَهَلْ مِن مُّدَّكِرٍ", translation: "And We have certainly made the Quran easy for remembrance, so is there any who will remember?" },
-    { ayah: 41, arabic: "وَلَقَدْ جَاءَ آلَ فِرْعَوْنَ النُّذُرُ", translation: "And there certainly came to the people of Pharaoh the warnings." },
-    { ayah: 42, arabic: "كَذَّبُوا بِآيَاتِنَا كُلِّهَا فَأَخَذْنَاهُمْ أَخْذَ عَزِيزٍ مُّقْتَدِرٍ", translation: "They denied Our signs, all of them, so We seized them with the seizing of One Exalted in Might, Perfect in Ability." },
-    { ayah: 43, arabic: "أَكُفَّارُكُمْ خَيْرٌ مِّنْ أُولَـٰئِكُمْ أَمْ لَكُم بَرَاءَةٌ فِي الزُّبُرِ", translation: "Are your disbelievers better than those, or have you been given immunity in the scriptures?" },
-    { ayah: 44, arabic: "أَمْ يَقُولُونَ نَحْنُ جَمِيعٌ مُّنتَصِرٌ", translation: "Or do they say, 'We are an assembly who will be victorious'?" },
-    { ayah: 45, arabic: "سَيُهْزَمُ الْجَمْعُ وَيُوَلُّونَ الدُّبُرَ", translation: "Their assembly will be defeated, and they will turn their backs." },
-    { ayah: 46, arabic: "بَلِ السَّاعَةُ مَوْعِدُهُمْ وَالسَّاعَةُ أَدْهَىٰ وَأَمَرُّ", translation: "Rather, the Hour is their appointment, and the Hour is more grievous and more bitter." },
-    { ayah: 47, arabic: "إِنَّ الْمُجْرِمِينَ فِي ضَلَالٍ وَسُعُرٍ", translation: "Indeed, the criminals are in error and madness." },
-    { ayah: 48, arabic: "يَوْمَ يُسْحَبُونَ فِي النَّارِ عَلَىٰ وُجُوهِهِمْ ذُوقُوا مَسَّ سَقَرَ", translation: "The Day they are dragged into the Fire on their faces — 'Taste the touch of Saqar.'" },
-    { ayah: 49, arabic: "إِنَّا كُلَّ شَيْءٍ خَلَقْنَاهُ بِقَدَرٍ", translation: "Indeed, all things We created with predestination." },
-    { ayah: 50, arabic: "وَمَا أَمْرُنَا إِلَّا وَاحِدَةٌ كَلَمْحٍ بِالْبَصَرِ", translation: "And Our command is but one, like a glance of the eye." },
-    { ayah: 51, arabic: "وَلَقَدْ أَهْلَكْنَا أَشْيَاعَكُمْ فَهَلْ مِن مُّدَّكِرٍ", translation: "And We have already destroyed your kinds — so is there any who will remember?" },
-    { ayah: 52, arabic: "وَكُلُّ شَيْءٍ فَعَلُوهُ فِي الزُّبُرِ", translation: "And everything they did is in the written records." },
-    { ayah: 53, arabic: "وَكُلُّ صَغِيرٍ وَكَبِيرٍ مُّسْتَطَرٌ", translation: "And every small and great thing is inscribed." },
-    { ayah: 54, arabic: "إِنَّ الْمُتَّقِينَ فِي جَنَّاتٍ وَنَهَرٍ", translation: "Indeed, the righteous will be among gardens and rivers," },
-    { ayah: 55, arabic: "فِي مَقْعَدِ صِدْقٍ عِندَ مَلِيكٍ مُّقْتَدِرٍ", translation: "in a seat of honor, near a Sovereign, Perfect in Ability." },
-  ],
 
   diagrams: {
     sectionJourney: {
@@ -129,9 +72,9 @@ const SURAH_DATA = {
       subtitle: "Five destructions in accelerating compression — each needing fewer words because the listener has been trained",
       layers: [
         { depth: 1, label: "Nuh — 9 ayahs", ayah: "9–17", arabic: "أَنِّي مَغْلُوبٌ فَانتَصِرْ", desc: "The longest narrative sets the template. Five words of prayer — 'I am overpowered, so help.' The gates of heaven open. The ark is described as planks and nails. The refrain lands for the first time.", color: "#4ecdc4" },
-        { depth: 2, label: "'Ad — 5 ayahs", ayah: "18–22", arabic: "كَأَنَّهُمْ أَعْجَازُ نَخْلٍ مُّنقَعِرٍ", desc: "The screaming wind plucks people like uprooted palm trunks — hollow, broken, discarded. The rhetorical question that closed Nuh's story now opens 'Ad's. The surah is accelerating.", color: "#9b7fd4" },
+        { depth: 2, label: "'Ad — 5 ayahs", ayah: "18–22", arabic: "كَأَنَّهُمْ أَعْجَازُ نَخْلٍ مُّنقَعِرٍ", desc: "The screaming wind plucks people like uprooted palm trunks — hollow, broken, discarded. The rhetorical question that closed Nuh's story now opens 'Ad's. The surah is accelerating.", color: "#9b7fd4" },
         { depth: 3, label: "Thamud — 10 ayahs", ayah: "23–32", arabic: "فَكَانُوا كَهَشِيمِ الْمُحْتَظِرِ", desc: "Slightly longer because the she-camel introduces the mechanics of a test offered and violated. One blast, and they became like dry twig fragments gathered for a fence.", color: "#e07a8a" },
-        { depth: 4, label: "Pharaoh — 2 ayahs", ayah: "41–42", arabic: "أَخْذَ عَزِيزٍ مُّقْتَدِرٍ", desc: "The most powerful civilization receives the least space. No mention of Musa. No plagues, no sea, no drowning. Two facts: the warnings came, they denied, they were seized. And then — no refrain. The time for asking has passed.", color: "#C9A84C" },
+        { depth: 4, label: "Pharaoh — 2 ayahs", ayah: "41–42", arabic: "أَخْذَ عَزِيزٍ مُّقْتَدِرٍ", desc: "The most powerful civilization receives the least space. No mention of Musa. No plagues, no sea, no drowning. Two facts: the warnings came, they denied, they were seized. And then — no refrain. The time for asking has passed.", color: "#C9A84C" },
       ],
     },
     absenceMap: {
@@ -161,7 +104,6 @@ const TABS = [
   { id: "mirror", label: "Mirror" },
   { id: "compression", label: "Compression" },
   { id: "absent", label: "Absences" },
-  { id: "text", label: "Text" },
 ];
 
 function OrnamentDivider() {
@@ -200,9 +142,6 @@ function HeartVerse({ verse }: { verse: typeof SURAH_DATA.heartVerse }) {
   return (<div className="border-l-2 border-gold-500 bg-white/[0.02] rounded-r-xl px-5 py-5 space-y-3"><p className="text-2xl leading-loose text-right text-cream font-amiri" style={{ direction: "rtl" }}>{verse.arabic}</p><p className="text-sm italic text-cream/70 font-body">{verse.translation}</p><p className="text-xs text-cream-muted/60 leading-relaxed font-body">{verse.why}</p></div>);
 }
 
-function FullSurahText({ verses }: { verses: typeof SURAH_DATA.fullText }) {
-  return (<div className="space-y-5">{verses.map((v) => (<div key={v.ayah} className="space-y-1"><p className="text-xl leading-loose text-right text-cream font-amiri" style={{ direction: "rtl" }}>{v.arabic} <span className="text-sm text-cream-muted/50">﴿{v.ayah}﴾</span></p><p className="text-sm text-cream-muted/60 font-body">{v.translation}</p></div>))}</div>);
-}
 
 function SectionJourney({ data }: { data: typeof SURAH_DATA.diagrams.sectionJourney }) {
   return (<div className="space-y-5"><div><h3 className="text-lg font-serif text-cream">{data.title}</h3><p className="text-sm text-cream-muted/60 mt-1 font-body">{data.subtitle}</p></div><div className="space-y-3">{data.sections.map((sec, i) => (<div key={i} className={`rounded-xl p-4 space-y-2 border ${sec.isPivot ? "border-gold-500/40" : "border-white/[0.06]"}`} style={{ backgroundColor: sec.color + "0a", borderLeftWidth: "3px", borderLeftColor: sec.color }}><div className="flex items-center justify-between"><span className="text-sm font-semibold font-serif" style={{ color: sec.color }}>{sec.title}</span><span className="text-xs text-cream-muted/50 font-sans">Ayahs {sec.ayahs}</span></div><p className="text-sm text-cream/70 leading-relaxed font-body">{sec.desc}</p>{sec.isPivot && <div className="text-xs text-gold-500 font-medium font-sans">✦ Structural pivot</div>}</div>))}</div></div>);
@@ -254,7 +193,7 @@ export default function SurahArchitecture() {
           {activeTab === "mirror" && <ChiasticRing data={d.diagrams.chiasticRing} />}
           {activeTab === "compression" && <DeductiveFunnel data={d.diagrams.deductiveFunnel} />}
           {activeTab === "absent" && <AbsenceMap data={d.diagrams.absenceMap} />}
-          {activeTab === "text" && (<div className="space-y-6"><FullSurahText verses={d.fullText} /><OrnamentDivider /><HeartVerse verse={d.heartVerse} /><AudioPlayer audio={d.audio} /></div>)}
+          <div className="space-y-6 pt-6 border-t border-white/[0.06]"><HeartVerse verse={d.heartVerse} /><AudioPlayer audio={d.audio} /></div>
         </div>
         <OrnamentDivider />
         <a href={d.reflectionUrl} className="block rounded-xl bg-gold-500/5 border border-gold-500/20 p-5 text-center space-y-1 hover:bg-gold-500/10 hover:border-gold-500/30 transition-all">

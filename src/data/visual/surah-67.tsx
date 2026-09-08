@@ -30,38 +30,6 @@ const SURAH_DATA = {
 
   audio: { surahNumber: 67, reciter: "ar.alafasy" },
 
-  fullText: [
-    { ayah: 1, arabic: "تَبَارَكَ الَّذِي بِيَدِهِ الْمُلْكُ وَهُوَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ", translation: "Blessed is the One in whose hand is the dominion, and He is over all things competent." },
-    { ayah: 2, arabic: "الَّذِي خَلَقَ الْمَوْتَ وَالْحَيَاةَ لِيَبْلُوَكُمْ أَيُّكُمْ أَحْسَنُ عَمَلًا ۚ وَهُوَ الْعَزِيزُ الْغَفُورُ", translation: "He who created death and life to test you as to which of you is best in deed — and He is the Almighty, the Forgiving." },
-    { ayah: 3, arabic: "الَّذِي خَلَقَ سَبْعَ سَمَاوَاتٍ طِبَاقًا ۖ مَّا تَرَىٰ فِي خَلْقِ الرَّحْمَٰنِ مِن تَفَاوُتٍ ۖ فَارْجِعِ الْبَصَرَ هَلْ تَرَىٰ مِن فُطُورٍ", translation: "He who created seven heavens in layers. You do not see in the creation of the Most Merciful any inconsistency. So look again — do you see any flaw?" },
-    { ayah: 4, arabic: "ثُمَّ ارْجِعِ الْبَصَرَ كَرَّتَيْنِ يَنقَلِبْ إِلَيْكَ الْبَصَرُ خَاسِئًا وَهُوَ حَسِيرٌ", translation: "Then look again and again — your sight will return to you humbled and exhausted." },
-    { ayah: 5, arabic: "وَلَقَدْ زَيَّنَّا السَّمَاءَ الدُّنْيَا بِمَصَابِيحَ وَجَعَلْنَاهَا رُجُومًا لِّلشَّيَاطِينِ ۖ وَأَعْتَدْنَا لَهُمْ عَذَابَ السَّعِيرِ", translation: "And We adorned the nearest heaven with lamps and made them missiles against the devils, and We have prepared for them the punishment of the Blaze." },
-    { ayah: 6, arabic: "وَلِلَّذِينَ كَفَرُوا بِرَبِّهِمْ عَذَابُ جَهَنَّمَ ۖ وَبِئْسَ الْمَصِيرُ", translation: "And for those who disbelieve in their Lord is the punishment of Hell, and wretched is the destination." },
-    { ayah: 7, arabic: "إِذَا أُلْقُوا فِيهَا سَمِعُوا لَهَا شَهِيقًا وَهِيَ تَفُورُ", translation: "When they are thrown into it, they hear from it an inhaling while it boils up." },
-    { ayah: 8, arabic: "تَكَادُ تَمَيَّزُ مِنَ الْغَيْظِ ۖ كُلَّمَا أُلْقِيَ فِيهَا فَوْجٌ سَأَلَهُمْ خَزَنَتُهَا أَلَمْ يَأْتِكُمْ نَذِيرٌ", translation: "It almost bursts with rage. Every time a group is thrown in, its keepers ask them: did a warner not come to you?" },
-    { ayah: 9, arabic: "قَالُوا بَلَىٰ قَدْ جَاءَنَا نَذِيرٌ فَكَذَّبْنَا وَقُلْنَا مَا نَزَّلَ اللَّهُ مِن شَيْءٍ إِنْ أَنتُمْ إِلَّا فِي ضَلَالٍ كَبِيرٍ", translation: "They will say: Yes, a warner had come to us, but we denied and said: Allah has not sent down anything; you are not but in great error." },
-    { ayah: 10, arabic: "وَقَالُوا لَوْ كُنَّا نَسْمَعُ أَوْ نَعْقِلُ مَا كُنَّا فِي أَصْحَابِ السَّعِيرِ", translation: "And they will say: Had we listened or reasoned, we would not be among the companions of the Blaze." },
-    { ayah: 11, arabic: "فَاعْتَرَفُوا بِذَنبِهِمْ فَسُحْقًا لِّأَصْحَابِ السَّعِيرِ", translation: "So they will confess their sin, and away with the companions of the Blaze." },
-    { ayah: 12, arabic: "إِنَّ الَّذِينَ يَخْشَوْنَ رَبَّهُم بِالْغَيْبِ لَهُم مَّغْفِرَةٌ وَأَجْرٌ كَبِيرٌ", translation: "Indeed, those who fear their Lord in the unseen will have forgiveness and a great reward." },
-    { ayah: 13, arabic: "وَأَسِرُّوا قَوْلَكُمْ أَوِ اجْهَرُوا بِهِ ۖ إِنَّهُ عَلِيمٌ بِذَاتِ الصُّدُورِ", translation: "And conceal your speech or make it public — He knows what is within the breasts." },
-    { ayah: 14, arabic: "أَلَا يَعْلَمُ مَنْ خَلَقَ وَهُوَ اللَّطِيفُ الْخَبِيرُ", translation: "Does He who created not know, while He is the Subtle, the All-Aware?" },
-    { ayah: 15, arabic: "هُوَ الَّذِي جَعَلَ لَكُمُ الْأَرْضَ ذَلُولًا فَامْشُوا فِي مَنَاكِبِهَا وَكُلُوا مِن رِّزْقِهِ ۖ وَإِلَيْهِ النُّشُورُ", translation: "He is the One who made the earth tame for you — so walk among its shoulders and eat from His provision. And to Him is the resurrection." },
-    { ayah: 16, arabic: "أَأَمِنتُم مَّن فِي السَّمَاءِ أَن يَخْسِفَ بِكُمُ الْأَرْضَ فَإِذَا هِيَ تَمُورُ", translation: "Do you feel secure that He who is above would not cause the earth to swallow you while it trembles?" },
-    { ayah: 17, arabic: "أَمْ أَمِنتُم مَّن فِي السَّمَاءِ أَن يُرْسِلَ عَلَيْكُمْ حَاصِبًا ۖ فَسَتَعْلَمُونَ كَيْفَ نَذِيرِ", translation: "Or do you feel secure that He who is above would not send against you a storm of stones? Then you would know how My warning is." },
-    { ayah: 18, arabic: "وَلَقَدْ كَذَّبَ الَّذِينَ مِن قَبْلِهِمْ فَكَيْفَ كَانَ نَكِيرِ", translation: "And already those before them denied, and how terrible was My response." },
-    { ayah: 19, arabic: "أَوَلَمْ يَرَوْا إِلَى الطَّيْرِ فَوْقَهُمْ صَافَّاتٍ وَيَقْبِضْنَ ۚ مَا يُمْسِكُهُنَّ إِلَّا الرَّحْمَٰنُ ۚ إِنَّهُ بِكُلِّ شَيْءٍ بَصِيرٌ", translation: "Have they not seen the birds above them, spreading their wings and folding them? None holds them aloft except the Most Merciful. Indeed He is, of all things, Seeing." },
-    { ayah: 20, arabic: "أَمَّنْ هَٰذَا الَّذِي هُوَ جُندٌ لَّكُمْ يَنصُرُكُم مِّن دُونِ الرَّحْمَٰنِ ۚ إِنِ الْكَافِرُونَ إِلَّا فِي غُرُورٍ", translation: "Or who is this that could be an army for you to aid you other than the Most Merciful? The disbelievers are in nothing but delusion." },
-    { ayah: 21, arabic: "أَمَّنْ هَٰذَا الَّذِي يَرْزُقُكُمْ إِنْ أَمْسَكَ رِزْقَهُ ۚ بَل لَّجُّوا فِي عُتُوٍّ وَنُفُورٍ", translation: "Or who is this that could provide for you if He withheld His provision? But they persist in insolence and aversion." },
-    { ayah: 22, arabic: "أَفَمَن يَمْشِي مُكِبًّا عَلَىٰ وَجْهِهِ أَهْدَىٰ أَمَّن يَمْشِي سَوِيًّا عَلَىٰ صِرَاطٍ مُّسْتَقِيمٍ", translation: "Is the one who walks fallen on his face more guided, or the one who walks upright on a straight path?" },
-    { ayah: 23, arabic: "قُلْ هُوَ الَّذِي أَنشَأَكُمْ وَجَعَلَ لَكُمُ السَّمْعَ وَالْأَبْصَارَ وَالْأَفْئِدَةَ ۖ قَلِيلًا مَّا تَشْكُرُونَ", translation: "Say: He is the One who produced you and made for you hearing, sight, and hearts. How little you are grateful." },
-    { ayah: 24, arabic: "قُلْ هُوَ الَّذِي ذَرَأَكُمْ فِي الْأَرْضِ وَإِلَيْهِ تُحْشَرُونَ", translation: "Say: He is the One who spread you through the earth, and to Him you will be gathered." },
-    { ayah: 25, arabic: "وَيَقُولُونَ مَتَىٰ هَٰذَا الْوَعْدُ إِن كُنتُمْ صَادِقِينَ", translation: "And they say: When is this promise, if you should be truthful?" },
-    { ayah: 26, arabic: "قُلْ إِنَّمَا الْعِلْمُ عِندَ اللَّهِ وَإِنَّمَا أَنَا نَذِيرٌ مُّبِينٌ", translation: "Say: The knowledge is only with Allah, and I am only a clear warner." },
-    { ayah: 27, arabic: "فَلَمَّا رَأَوْهُ زُلْفَةً سِيئَتْ وُجُوهُ الَّذِينَ كَفَرُوا وَقِيلَ هَٰذَا الَّذِي كُنتُم بِهِ تَدَّعُونَ", translation: "But when they see it approaching, the faces of those who disbelieve will be distressed, and it will be said: This is that which you used to call for." },
-    { ayah: 28, arabic: "قُلْ أَرَأَيْتُمْ إِنْ أَهْلَكَنِيَ اللَّهُ وَمَن مَّعِيَ أَوْ رَحِمَنَا فَمَن يُجِيرُ الْكَافِرِينَ مِنْ عَذَابٍ أَلِيمٍ", translation: "Say: Have you considered — if Allah destroyed me and those with me, or had mercy on us — who can protect the disbelievers from a painful punishment?" },
-    { ayah: 29, arabic: "قُلْ هُوَ الرَّحْمَٰنُ آمَنَّا بِهِ وَعَلَيْهِ تَوَكَّلْنَا ۖ فَسَتَعْلَمُونَ مَنْ هُوَ فِي ضَلَالٍ مُّبِينٍ", translation: "Say: He is the Most Merciful; we have believed in Him, and upon Him we have relied. You will come to know who is in clear error." },
-    { ayah: 30, arabic: "قُلْ أَرَأَيْتُمْ إِنْ أَصْبَحَ مَاؤُكُمْ غَوْرًا فَمَن يَأْتِيكُم بِمَاءٍ مَّعِينٍ", translation: "Say: Have you considered — if your water were to sink into the earth, then who could bring you flowing water?" },
-  ],
 
   diagrams: {
     sectionJourney: {
@@ -105,7 +73,7 @@ const SURAH_DATA = {
       subtitle: "Sixteen questions that never repeat — each one tightens the argument further",
       layers: [
         { depth: 1, label: "Evidence", ayah: "3–4", arabic: "فَارْجِعِ الْبَصَرَ هَلْ تَرَىٰ مِن فُطُورٍ", desc: "Look at the sky. Find a crack. Look again. Your gaze returns humbled. The argument begins with an invitation to test creation's perfection — and the test fails every time.", color: "#4ecdc4" },
-        { depth: 2, label: "Consequence", ayah: "10", arabic: "لَوْ كُنَّا نَسْمَعُ أَوْ نَعْقِلُ", desc: "The damned confess they had the instruments — hearing and reason — and refused to engage either one. The evidence was always available. The failure was always theirs.", color: "#e07a8a" },
+        { depth: 2, label: "Consequence", ayah: "10", arabic: "لَوْ كُنَّا نَسْمَعُ أَوْ نَعْقِلُ", desc: "The damned confess they had the instruments — hearing and reason — and refused to engage either one. The evidence was always available. The failure was always theirs.", color: "#e07a8a" },
         { depth: 3, label: "Dependence", ayah: "19", arabic: "مَا يُمْسِكُهُنَّ إِلَّا الرَّحْمَٰنُ", desc: "Birds held in empty sky by nothing visible. The same God who sustains flight could release it. Every moment of suspension is an act of mercy and an argument for sovereignty.", color: "#9b7fd4" },
         { depth: 4, label: "Silence", ayah: "30", arabic: "فَمَن يَأْتِيكُم بِمَاءٍ مَّعِينٍ", desc: "The surah ends mid-question. No answer. No closing formula. The listener knows. The water comes from Him. Everything comes from Him. The abstract has become thirst.", color: "#C9A84C" },
       ],
@@ -140,7 +108,6 @@ const TABS = [
   { id: "ring", label: "Ring" },
   { id: "ratchet", label: "Ratchet" },
   { id: "absent", label: "Absences" },
-  { id: "text", label: "Text" },
 ];
 
 // ══════════════════════════════════════════════════════════════════════════════
@@ -258,21 +225,6 @@ function HeartVerse({ verse }: { verse: typeof SURAH_DATA.heartVerse }) {
   );
 }
 
-function FullSurahText({ verses }: { verses: typeof SURAH_DATA.fullText }) {
-  return (
-    <div className="space-y-5">
-      {verses.map((v) => (
-        <div key={v.ayah} className="space-y-1">
-          <p className="text-xl leading-loose text-right text-cream font-amiri" style={{ direction: "rtl" }}>
-            {v.arabic}{" "}
-            <span className="text-sm text-cream-muted/50">﴿{v.ayah}﴾</span>
-          </p>
-          <p className="text-sm text-cream-muted/60 font-body">{v.translation}</p>
-        </div>
-      ))}
-    </div>
-  );
-}
 
 function SectionJourney({ data }: { data: typeof SURAH_DATA.diagrams.sectionJourney }) {
   return (
@@ -464,13 +416,7 @@ export default function SurahArchitecture() {
           {activeTab === "ring" && <ChiasticRing data={d.diagrams.chiasticRing} />}
           {activeTab === "ratchet" && <DeductiveFunnel data={d.diagrams.deductiveFunnel} />}
           {activeTab === "absent" && <AbsenceMap data={d.diagrams.absenceMap} />}
-          {activeTab === "text" && (
-            <div className="space-y-6">
-              <FullSurahText verses={d.fullText} />
-              <OrnamentDivider />
-              <HeartVerse verse={d.heartVerse} />
-            </div>
-          )}
+          <div className="space-y-6 pt-6 border-t border-white/[0.06]"><HeartVerse verse={d.heartVerse} /></div>
         </div>
 
         {/* ── Go Deeper ────────────────────────────────────────────────────── */}

@@ -30,16 +30,6 @@ const SURAH_DATA = {
 
   audio: { surahNumber: 95, reciter: "ar.alafasy" },
 
-  fullText: [
-    { ayah: 1, arabic: "وَالتِّينِ وَالزَّيْتُونِ", translation: "By the fig and the olive —" },
-    { ayah: 2, arabic: "وَطُورِ سِينِينَ", translation: "and Mount Sinai —" },
-    { ayah: 3, arabic: "وَهَـٰذَا الْبَلَدِ الْأَمِينِ", translation: "and this secure city —" },
-    { ayah: 4, arabic: "لَقَدْ خَلَقْنَا الْإِنسَانَ فِي أَحْسَنِ تَقْوِيمٍ", translation: "We created the human being in the finest form." },
-    { ayah: 5, arabic: "ثُمَّ رَدَدْنَاهُ أَسْفَلَ سَافِلِينَ", translation: "Then We reduced him to the lowest of the low —" },
-    { ayah: 6, arabic: "إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ فَلَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ", translation: "except those who believe and do righteous deeds — for them is an uninterrupted reward." },
-    { ayah: 7, arabic: "فَمَا يُكَذِّبُكَ بَعْدُ بِالدِّينِ", translation: "So what, after this, makes you deny the judgment?" },
-    { ayah: 8, arabic: "أَلَيْسَ اللَّهُ بِأَحْكَمِ الْحَاكِمِينَ", translation: "Is Allah not the wisest of judges?" },
-  ],
 
   diagrams: {
     sectionJourney: {
@@ -112,7 +102,6 @@ const TABS = [
   { id: "mirror", label: "Mirror" },
   { id: "argument", label: "Argument" },
   { id: "absent", label: "Absences" },
-  { id: "text", label: "Text" },
 ];
 
 // ══════════════════════════════════════════════════════════════════════════════
@@ -230,21 +219,6 @@ function HeartVerse({ verse }: { verse: typeof SURAH_DATA.heartVerse }) {
   );
 }
 
-function FullSurahText({ verses }: { verses: typeof SURAH_DATA.fullText }) {
-  return (
-    <div className="space-y-5">
-      {verses.map((v) => (
-        <div key={v.ayah} className="space-y-1">
-          <p className="text-xl leading-loose text-right text-cream font-amiri" style={{ direction: "rtl" }}>
-            {v.arabic}{" "}
-            <span className="text-sm text-cream-muted/50">{"\uFD3E"}{v.ayah}{"\uFD3F"}</span>
-          </p>
-          <p className="text-sm text-cream-muted/60 font-body">{v.translation}</p>
-        </div>
-      ))}
-    </div>
-  );
-}
 
 function SectionJourney({ data }: { data: typeof SURAH_DATA.diagrams.sectionJourney }) {
   return (
@@ -436,13 +410,7 @@ export default function SurahArchitecture() {
           {activeTab === "mirror" && <ChiasticRing data={d.diagrams.chiasticRing} />}
           {activeTab === "argument" && <DeductiveFunnel data={d.diagrams.deductiveFunnel} />}
           {activeTab === "absent" && <AbsenceMap data={d.diagrams.absenceMap} />}
-          {activeTab === "text" && (
-            <div className="space-y-6">
-              <FullSurahText verses={d.fullText} />
-              <OrnamentDivider />
-              <HeartVerse verse={d.heartVerse} />
-            </div>
-          )}
+          <div className="space-y-6 pt-6 border-t border-white/[0.06]"><HeartVerse verse={d.heartVerse} /></div>
         </div>
 
         {/* -- Go Deeper --------------------------------------------------- */}

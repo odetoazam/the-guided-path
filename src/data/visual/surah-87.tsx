@@ -22,7 +22,7 @@ const SURAH_DATA = {
 
   sciencesActive: [{"key":"balaghah","english":"Rhetoric"},{"key":"nazm","english":"Structural Coherence"},{"key":"sarf","english":"Morphology"}],
   heartVerse: {
-    arabic: "قَدْ أَفْلَحَ مَن تَزَكَّىٰ",
+    arabic: "قَدْ أَفْلَحَ مَن تَزَكَّىٰ",
     ayahRef: "87:14",
     translation: "Truly successful is the one who purifies himself.",
     why: "The surah's definition of success. The verb tazakka carries meanings of purification, growth, and charity simultaneously — inner cleansing and outward generosity fused into a single act. This is where the surah's opening command to glorify meets its human fulfillment.",
@@ -30,27 +30,6 @@ const SURAH_DATA = {
 
   audio: { surahNumber: 87, reciter: "ar.alafasy" },
 
-  fullText: [
-    { ayah: 1, arabic: "سَبِّحِ اسْمَ رَبِّكَ الْأَعْلَى", translation: "Glorify the name of your Lord, the Most High —" },
-    { ayah: 2, arabic: "الَّذِي خَلَقَ فَسَوَّىٰ", translation: "who created and then proportioned," },
-    { ayah: 3, arabic: "وَالَّذِي قَدَّرَ فَهَدَىٰ", translation: "and who determined and then guided," },
-    { ayah: 4, arabic: "وَالَّذِي أَخْرَجَ الْمَرْعَىٰ", translation: "and who brought forth the pasture," },
-    { ayah: 5, arabic: "فَجَعَلَهُ غُثَاءً أَحْوَىٰ", translation: "then made it dark stubble." },
-    { ayah: 6, arabic: "سَنُقْرِئُكَ فَلَا تَنسَىٰ", translation: "We shall make you recite, and you will not forget —" },
-    { ayah: 7, arabic: "إِلَّا مَا شَاءَ اللَّهُ ۚ إِنَّهُ يَعْلَمُ الْجَهْرَ وَمَا يَخْفَىٰ", translation: "except what Allah wills. Indeed, He knows what is open and what is hidden." },
-    { ayah: 8, arabic: "وَنُيَسِّرُكَ لِلْيُسْرَىٰ", translation: "And We shall ease you toward ease." },
-    { ayah: 9, arabic: "فَذَكِّرْ إِن نَّفَعَتِ الذِّكْرَىٰ", translation: "So remind, if the reminder benefits." },
-    { ayah: 10, arabic: "سَيَذَّكَّرُ مَن يَخْشَىٰ", translation: "The one who fears will remember." },
-    { ayah: 11, arabic: "وَيَتَجَنَّبُهَا الْأَشْقَى", translation: "And the most wretched will avoid it —" },
-    { ayah: 12, arabic: "الَّذِي يَصْلَى النَّارَ الْكُبْرَىٰ", translation: "the one who will enter the greater fire," },
-    { ayah: 13, arabic: "ثُمَّ لَا يَمُوتُ فِيهَا وَلَا يَحْيَىٰ", translation: "then he will neither die in it nor live." },
-    { ayah: 14, arabic: "قَدْ أَفْلَحَ مَن تَزَكَّىٰ", translation: "Truly successful is the one who purifies himself," },
-    { ayah: 15, arabic: "وَذَكَرَ اسْمَ رَبِّهِ فَصَلَّىٰ", translation: "and remembers the name of his Lord, and prays." },
-    { ayah: 16, arabic: "بَلْ تُؤْثِرُونَ الْحَيَاةَ الدُّنْيَا", translation: "Yet you prefer the life of this world," },
-    { ayah: 17, arabic: "وَالْآخِرَةُ خَيْرٌ وَأَبْقَىٰ", translation: "while the Hereafter is better and more lasting." },
-    { ayah: 18, arabic: "إِنَّ هَٰذَا لَفِي الصُّحُفِ الْأُولَىٰ", translation: "Indeed, this is in the earliest scrolls —" },
-    { ayah: 19, arabic: "صُحُفِ إِبْرَاهِيمَ وَمُوسَىٰ", translation: "the scrolls of Ibrahim and Musa." },
-  ],
 
   diagrams: {
     sectionJourney: {
@@ -147,7 +126,6 @@ const TABS = [
   { id: "ring", label: "Ring" },
   { id: "thread", label: "Thread" },
   { id: "absent", label: "Absences" },
-  { id: "text", label: "Text" },
 ];
 
 // ══════════════════════════════════════════════════════════════════════════════
@@ -265,21 +243,6 @@ function HeartVerse({ verse }: { verse: typeof SURAH_DATA.heartVerse }) {
   );
 }
 
-function FullSurahText({ verses }: { verses: typeof SURAH_DATA.fullText }) {
-  return (
-    <div className="space-y-5">
-      {verses.map((v) => (
-        <div key={v.ayah} className="space-y-1">
-          <p className="text-xl leading-loose text-right text-cream font-amiri" style={{ direction: "rtl" }}>
-            {v.arabic}{" "}
-            <span className="text-sm text-cream-muted/50">{"\uFD3E"}{v.ayah}{"\uFD3F"}</span>
-          </p>
-          <p className="text-sm text-cream-muted/60 font-body">{v.translation}</p>
-        </div>
-      ))}
-    </div>
-  );
-}
 
 function SectionJourney({ data }: { data: typeof SURAH_DATA.diagrams.sectionJourney }) {
   return (
@@ -468,13 +431,7 @@ export default function SurahArchitecture() {
           {activeTab === "ring" && <ChiasticRing data={d.diagrams.chiasticRing} />}
           {activeTab === "thread" && <ThreadMap data={d.diagrams.threadMap} />}
           {activeTab === "absent" && <AbsenceMap data={d.diagrams.absenceMap} />}
-          {activeTab === "text" && (
-            <div className="space-y-6">
-              <FullSurahText verses={d.fullText} />
-              <OrnamentDivider />
-              <HeartVerse verse={d.heartVerse} />
-            </div>
-          )}
+          <div className="space-y-6 pt-6 border-t border-white/[0.06]"><HeartVerse verse={d.heartVerse} /></div>
         </div>
 
         {/* -- Go Deeper --------------------------------------------------- */}

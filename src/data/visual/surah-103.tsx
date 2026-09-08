@@ -24,7 +24,7 @@ const SURAH_DATA = {
   sciencesActive: [{"key":"ijaz","english":"Inimitability"},{"key":"nahw","english":"Grammar"},{"key":"sarf","english":"Morphology"}],
   // ── Heart Verse ───────────────────────────────────────────────────────────
   heartVerse: {
-    arabic: "إِنَّ ٱلْإِنسَـٰنَ لَفِى خُسْرٍ",
+    arabic: "إِنَّ ٱلْإِنسَـٰنَ لَفِى خُسْرٍ",
     ayahRef: "103:2",
     translation: "Indeed, humanity is in loss.",
     why: "The most universal negative statement about the human condition in the entire Quran. Double emphasis — inna and the lam of emphasis together — grammatically seals every exit. Every single human being is included.",
@@ -38,28 +38,6 @@ const SURAH_DATA = {
   },
 
   // ── Full Surah Text ────────────────────────────────────────────────────────
-  fullText: [
-    {
-      ayah: 1,
-      arabic: "وَٱلْعَصْرِ",
-      ayahRef: "103:1",
-      translation: "By time.",
-    },
-    {
-      ayah: 2,
-      arabic: "إِنَّ ٱلْإِنسَـٰنَ لَفِى خُسْرٍ",
-      ayahRef: "103:2",
-      translation: "Indeed, humanity is in loss.",
-    },
-    {
-      ayah: 3,
-      arabic:
-        "إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ وَتَوَاصَوْا۟ بِٱلْحَقِّ وَتَوَاصَوْا۟ بِٱلصَّبْرِ",
-      ayahRef: "103:3",
-      translation:
-        "Except those who believe, and do righteous deeds, and counsel one another to truth, and counsel one another to patience.",
-    },
-  ],
 
   // ── Diagrams ──────────────────────────────────────────────────────────────
   diagrams: {
@@ -79,7 +57,7 @@ const SURAH_DATA = {
         {
           ayahs: "2",
           title: "The Verdict",
-          arabic: "إِنَّ ٱلْإِنسَـٰنَ لَفِى خُسْرٍ",
+          arabic: "إِنَّ ٱلْإِنسَـٰنَ لَفِى خُسْرٍ",
           color: "#e07a8a",
           width: "70%",
           isPivot: true,
@@ -89,7 +67,7 @@ const SURAH_DATA = {
           ayahs: "3",
           title: "The Exception",
           arabic:
-            "إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ وَتَوَاصَوْا۟ بِٱلْحَقِّ وَتَوَاصَوْا۟ بِٱلصَّبْرِ",
+            "إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ وَتَوَاصَوْا۟ بِٱلْحَقِّ وَتَوَاصَوْا۟ بِٱلصَّبْرِ",
           color: "#d4a853",
           width: "40%",
           desc: "After total closure, illa opens like a door in a wall with no visible seam. Four conditions joined by wa (and) — not a menu but a compound key. Remove any one and the equation returns to loss.",
@@ -113,7 +91,7 @@ const SURAH_DATA = {
             },
             {
               label: "'Amilu al-ṣāliḥāt — Righteous Deeds",
-              arabic: "عَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ",
+              arabic: "عَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ",
               desc: "The external expression. What truth produces in the world. Action inseparable from faith — belief without deeds is a seed that never breaks soil.",
             },
           ],
@@ -254,7 +232,6 @@ const TABS = [
   { id: "conditions", label: "Conditions" },
   { id: "density", label: "Density" },
   { id: "absent", label: "Absences" },
-  { id: "text", label: "Text" },
 ];
 
 // ══════════════════════════════════════════════════════════════════════════════
@@ -372,21 +349,6 @@ function HeartVerse({ verse }: { verse: typeof SURAH_DATA.heartVerse }) {
   );
 }
 
-function FullSurahText({ verses }: { verses: typeof SURAH_DATA.fullText }) {
-  return (
-    <div className="space-y-5">
-      {verses.map((v) => (
-        <div key={v.ayah} className="space-y-1">
-          <p className="text-xl leading-loose text-right text-cream font-amiri" style={{ direction: "rtl" }}>
-            {v.arabic}{" "}
-            <span className="text-sm text-cream-muted/50">﴿{v.ayah}﴾</span>
-          </p>
-          <p className="text-sm text-cream-muted/60 font-body">{v.translation}</p>
-        </div>
-      ))}
-    </div>
-  );
-}
 
 function DeductiveFunnel({ data }: { data: typeof SURAH_DATA.diagrams.deductiveFunnel }) {
   return (
@@ -627,13 +589,7 @@ export default function SurahArchitecture() {
           {activeTab === "conditions" && <FourConditions data={d.diagrams.fourConditions} />}
           {activeTab === "density" && <CompressionViz data={d.diagrams.compression} />}
           {activeTab === "absent" && <AbsenceMap data={d.diagrams.absenceMap} />}
-          {activeTab === "text" && (
-            <div className="space-y-6">
-              <FullSurahText verses={d.fullText} />
-              <OrnamentDivider />
-              <HeartVerse verse={d.heartVerse} />
-            </div>
-          )}
+          <div className="space-y-6 pt-6 border-t border-white/[0.06]"><HeartVerse verse={d.heartVerse} /></div>
         </div>
 
         {/* ── Go Deeper ────────────────────────────────────────────────────── */}

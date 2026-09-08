@@ -22,7 +22,7 @@ const SURAH_DATA = {
 
   sciencesActive: [{"key":"balaghah","english":"Rhetoric"},{"key":"nazm","english":"Structural Coherence"},{"key":"sarf","english":"Morphology"}],
   heartVerse: {
-    arabic: "فَوَيْلٌ لِّلْمُصَلِّينَ",
+    arabic: "فَوَيْلٌ لِّلْمُصَلِّينَ",
     ayahRef: "107:4",
     translation: "So destruction to those who pray.",
     why: "The hinge of the entire surah. Four words that bind cruelty to hollow worship with the conjunction fa — therefore. The people who push away orphans and the people who pray are the same person.",
@@ -30,15 +30,6 @@ const SURAH_DATA = {
 
   audio: { surahNumber: 107, reciter: "ar.alafasy" },
 
-  fullText: [
-    { ayah: 1, arabic: "أَرَأَيْتَ الَّذِي يُكَذِّبُ بِالدِّينِ", translation: "Have you seen the one who denies the religion?" },
-    { ayah: 2, arabic: "فَذَٰلِكَ الَّذِي يَدُعُّ الْيَتِيمَ", translation: "That is the one who pushes away the orphan," },
-    { ayah: 3, arabic: "وَلَا يَحُضُّ عَلَىٰ طَعَامِ الْمِسْكِينِ", translation: "and does not encourage the feeding of the poor." },
-    { ayah: 4, arabic: "فَوَيْلٌ لِّلْمُصَلِّينَ", translation: "So destruction to those who pray —" },
-    { ayah: 5, arabic: "الَّذِينَ هُمْ عَن صَلَاتِهِمْ سَاهُونَ", translation: "those who are heedless of their prayer," },
-    { ayah: 6, arabic: "الَّذِينَ هُمْ يُرَاءُونَ", translation: "those who make a show," },
-    { ayah: 7, arabic: "وَيَمْنَعُونَ الْمَاعُونَ", translation: "and withhold small kindnesses." },
-  ],
 
   diagrams: {
     ringStructure: {
@@ -113,7 +104,6 @@ const TABS = [
   { id: "journey", label: "Movements" },
   { id: "smallest", label: "Smallest Word" },
   { id: "absent", label: "Absences" },
-  { id: "text", label: "Text" },
 ];
 
 // ══════════════════════════════════════════════════════════════════════════════
@@ -231,21 +221,6 @@ function HeartVerse({ verse }: { verse: typeof SURAH_DATA.heartVerse }) {
   );
 }
 
-function FullSurahText({ verses }: { verses: typeof SURAH_DATA.fullText }) {
-  return (
-    <div className="space-y-5">
-      {verses.map((v) => (
-        <div key={v.ayah} className="space-y-1">
-          <p className="text-xl leading-loose text-right text-cream font-amiri" style={{ direction: "rtl" }}>
-            {v.arabic}{" "}
-            <span className="text-sm text-cream-muted/50">﴿{v.ayah}﴾</span>
-          </p>
-          <p className="text-sm text-cream-muted/60 font-body">{v.translation}</p>
-        </div>
-      ))}
-    </div>
-  );
-}
 
 function RingStructure({ data }: { data: typeof SURAH_DATA.diagrams.ringStructure }) {
   return (
@@ -438,13 +413,7 @@ export default function SurahArchitecture() {
           {activeTab === "journey" && <SectionJourney data={d.diagrams.sectionJourney} />}
           {activeTab === "smallest" && <SmallestWord data={d.diagrams.smallestWord} />}
           {activeTab === "absent" && <AbsenceMap data={d.diagrams.absenceMap} />}
-          {activeTab === "text" && (
-            <div className="space-y-6">
-              <FullSurahText verses={d.fullText} />
-              <OrnamentDivider />
-              <HeartVerse verse={d.heartVerse} />
-            </div>
-          )}
+          <div className="space-y-6 pt-6 border-t border-white/[0.06]"><HeartVerse verse={d.heartVerse} /></div>
         </div>
 
         {/* ── Go Deeper ────────────────────────────────────────────────────── */}

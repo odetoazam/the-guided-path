@@ -77,7 +77,7 @@ const SURAH_DATA = {
         { depth: 1, label: "An'am (Livestock)", ayah: "5–8", arabic: "وَالْأَنْعَامَ خَلَقَهَا", desc: "The word for livestock — an'am — shares the root na-'a-ma with the word for blessing. The cattle grazing in front of you are the word for grace in physical form.", color: "#4ecdc4" },
         { depth: 2, label: "Ni'mah (Blessing)", ayah: "18", arabic: "وَإِن تَعُدُّوا نِعْمَةَ اللَّهِ لَا تُحْصُوهَا", desc: "If you tried to count the ni'mah of Allah, you could not. The inventory the surah has begun is, by its own admission, incomplete before it starts.", color: "#9b7fd4" },
         { depth: 3, label: "Recognition-Denial", ayah: "83", arabic: "يَعْرِفُونَ نِعْمَتَ اللَّهِ ثُمَّ يُنكِرُونَهَا", desc: "Ya'rifoona (they recognize) and yunkiroona (they deny) are from the same root family. Recognition and denial live in the same house.", color: "#e07a8a" },
-        { depth: 4, label: "Shakirun li-An'umihi", ayah: "120", arabic: "شَاكِرًا لِّأَنْعُمِهِ", desc: "Ibrahim — grateful for His blessings. The root that has moved through the surah as livestock and grace arrives one final time, attached to the man who saw correctly.", color: "#C9A84C" },
+        { depth: 4, label: "Shakirun li-An'umihi", ayah: "120", arabic: "شَاكِرًا لِّأَنْعُمِهِ", desc: "Ibrahim — grateful for His blessings. The root that has moved through the surah as livestock and grace arrives one final time, attached to the man who saw correctly.", color: "#C9A84C" },
       ],
     },
     absenceMap: {
@@ -110,7 +110,6 @@ const TABS = [
   { id: "bracket", label: "Bracket" },
   { id: "root", label: "Root" },
   { id: "absent", label: "Absences" },
-  { id: "text", label: "Text" },
 ];
 
 // ══════════════════════════════════════════════════════════════════════════════
@@ -418,12 +417,8 @@ export default function SurahArchitecture() {
           {activeTab === "bracket" && <ChiasticRing data={d.diagrams.chiasticRing} />}
           {activeTab === "root" && <DeductiveFunnel data={d.diagrams.deductiveFunnel} />}
           {activeTab === "absent" && <AbsenceMap data={d.diagrams.absenceMap} />}
-          {activeTab === "text" && (
-            <div className="space-y-6">
-              <HeartVerse verse={d.heartVerse} />
-              <OrnamentDivider />
-            </div>
-          )}
+          <div className="space-y-6 pt-6 border-t border-white/[0.06]"><HeartVerse verse={d.heartVerse} />
+              <OrnamentDivider /></div>
         </div>
 
         {/* ── Go Deeper ────────────────────────────────────────────────────── */}

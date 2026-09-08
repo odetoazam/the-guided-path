@@ -30,16 +30,6 @@ const SURAH_DATA = {
 
   audio: { surahNumber: 57, reciter: "ar.alafasy" },
 
-  fullText: [
-    { ayah: 1, arabic: "سَبَّحَ لِلَّهِ مَا فِي السَّمَاوَاتِ وَالْأَرْضِ ۖ وَهُوَ الْعَزِيزُ الْحَكِيمُ", translation: "Whatever is in the heavens and the earth has glorified Allah, and He is the Almighty, the Wise." },
-    { ayah: 3, arabic: "هُوَ الْأَوَّلُ وَالْآخِرُ وَالظَّاهِرُ وَالْبَاطِنُ ۖ وَهُوَ بِكُلِّ شَيْءٍ عَلِيمٌ", translation: "He is the First and the Last, the Manifest and the Hidden, and He has knowledge of all things." },
-    { ayah: 7, arabic: "آمِنُوا بِاللَّهِ وَرَسُولِهِ وَأَنفِقُوا مِمَّا جَعَلَكُم مُّسْتَخْلَفِينَ فِيهِ", translation: "Believe in Allah and His Messenger, and spend out of that over which He has made you trustees." },
-    { ayah: 13, arabic: "انظُرُونَا نَقْتَبِسْ مِن نُّورِكُمْ", translation: "Wait for us — let us borrow some of your light!" },
-    { ayah: 16, arabic: "أَلَمْ يَأْنِ لِلَّذِينَ آمَنُوا أَن تَخْشَعَ قُلُوبُهُمْ لِذِكْرِ اللَّهِ", translation: "Has the time not come for those who believe that their hearts should be humbled by the remembrance of Allah?" },
-    { ayah: 17, arabic: "اعْلَمُوا أَنَّ اللَّهَ يُحْيِي الْأَرْضَ بَعْدَ مَوْتِهَا", translation: "Know that Allah gives life to the earth after its death." },
-    { ayah: 25, arabic: "وَأَنزَلْنَا الْحَدِيدَ فِيهِ بَأْسٌ شَدِيدٌ وَمَنَافِعُ لِلنَّاسِ", translation: "And We sent down iron, in which is great might and benefits for people." },
-    { ayah: 29, arabic: "وَأَنَّ الْفَضْلَ بِيَدِ اللَّهِ يُؤْتِيهِ مَن يَشَاءُ ۚ وَاللَّهُ ذُو الْفَضْلِ الْعَظِيمِ", translation: "And that grace is in Allah's hand — He gives it to whom He wills. And Allah is the possessor of great grace." },
-  ],
 
   diagrams: {
     sectionJourney: {
@@ -84,7 +74,7 @@ const SURAH_DATA = {
       subtitle: "Each layer builds the case: from who owns reality to what you should do about it",
       layers: [
         { depth: 1, label: "Ownership", ayah: "2", arabic: "لَهُ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ", desc: "The heavens and earth belong to Him. This is the premise. Everything that follows is a consequence of this single fact.", color: "#4ecdc4" },
-        { depth: 2, label: "Trusteeship", ayah: "7", arabic: "مِمَّا جَعَلَكُم مُّسْتَخْلَفِينَ فِيهِ", desc: "You are mustakhlafin — temporary trustees, custodians of what passes through your hands. The word changes the entire meaning of 'your' wealth.", color: "#9b7fd4" },
+        { depth: 2, label: "Trusteeship", ayah: "7", arabic: "مِمَّا جَعَلَكُم مُّسْتَخْلَفِينَ فِيهِ", desc: "You are mustakhlafin — temporary trustees, custodians of what passes through your hands. The word changes the entire meaning of 'your' wealth.", color: "#9b7fd4" },
         { depth: 3, label: "Loan", ayah: "11", arabic: "مَّن ذَا الَّذِي يُقْرِضُ اللَّهَ قَرْضًا حَسَنًا", desc: "Who will loan Allah a goodly loan? The Creator asks for a loan. The theological audacity is immense. The request dignifies the giver.", color: "#C9A84C" },
         { depth: 4, label: "Consequence", ayah: "13", arabic: "انظُرُونَا نَقْتَبِسْ مِن نُّورِكُمْ", desc: "Those who gave carry light. Those who withheld beg to borrow it. The wall between them has a door — visible reminder of what was close and what was lost.", color: "#e07a8a" },
       ],
@@ -115,7 +105,6 @@ const TABS = [
   { id: "ring", label: "Ring" },
   { id: "infaq", label: "Infaq" },
   { id: "absent", label: "Absences" },
-  { id: "text", label: "Text" },
 ];
 
 function OrnamentDivider() { return ( <div className="flex items-center gap-3 py-2"> <div className="flex-1 h-px bg-gradient-to-r from-transparent via-gold-500/30 to-transparent" /> <span className="text-gold-500/50 text-sm">۞</span> <div className="flex-1 h-px bg-gradient-to-r from-transparent via-gold-500/30 to-transparent" /> </div> ); }
@@ -132,7 +121,6 @@ function AudioPlayer({ audio }: { audio: typeof SURAH_DATA.audio }) {
 }
 
 function HeartVerse({ verse }: { verse: typeof SURAH_DATA.heartVerse }) { return ( <div className="border-l-2 border-gold-500 bg-white/[0.02] rounded-r-xl px-5 py-5 space-y-3"> <p className="text-2xl leading-loose text-right text-cream font-amiri" style={{ direction: "rtl" }}>{verse.arabic}</p> <p className="text-sm italic text-cream/70 font-body">{verse.translation}</p> <p className="text-xs text-cream-muted/60 leading-relaxed font-body">{verse.why}</p> </div> ); }
-function FullSurahText({ verses }: { verses: typeof SURAH_DATA.fullText }) { return ( <div className="space-y-5">{verses.map((v) => ( <div key={v.ayah} className="space-y-1"> <p className="text-xl leading-loose text-right text-cream font-amiri" style={{ direction: "rtl" }}>{v.arabic}{" "}<span className="text-sm text-cream-muted/50">﴿{v.ayah}﴾</span></p> <p className="text-sm text-cream-muted/60 font-body">{v.translation}</p> </div> ))}</div> ); }
 
 function SectionJourney({ data }: { data: typeof SURAH_DATA.diagrams.sectionJourney }) { return ( <div className="space-y-5"> <div> <h3 className="text-lg font-serif text-cream">{data.title}</h3> <p className="text-sm text-cream-muted/60 mt-1 font-body">{data.subtitle}</p> </div> <div className="space-y-3">{data.sections.map((sec, i) => ( <div key={i} className={`rounded-xl p-4 space-y-2 border ${sec.isPivot ? "border-gold-500/40" : "border-white/[0.06]"}`} style={{ backgroundColor: sec.color + "0a", borderLeftWidth: "3px", borderLeftColor: sec.color }}> <div className="flex items-center justify-between"> <span className="text-sm font-semibold font-serif" style={{ color: sec.color }}>{sec.title}</span> <span className="text-xs text-cream-muted/50 font-sans">Ayahs {sec.ayahs}</span> </div> <p className="text-sm text-cream/70 leading-relaxed font-body">{sec.desc}</p> {sec.isPivot && <div className="text-xs text-gold-500 font-medium font-sans">✦ Structural pivot</div>} </div> ))}</div> </div> ); }
 
@@ -174,7 +162,7 @@ export default function SurahArchitecture() {
           {activeTab === "ring" && <ChiasticRing data={d.diagrams.chiasticRing} />}
           {activeTab === "infaq" && <DeductiveFunnel data={d.diagrams.deductiveFunnel} />}
           {activeTab === "absent" && <AbsenceMap data={d.diagrams.absenceMap} />}
-          {activeTab === "text" && ( <div className="space-y-6"> <FullSurahText verses={d.fullText} /> <OrnamentDivider /> <HeartVerse verse={d.heartVerse} /> <AudioPlayer audio={d.audio} /> </div> )}
+          <div className="space-y-6 pt-6 border-t border-white/[0.06]"><HeartVerse verse={d.heartVerse} /><AudioPlayer audio={d.audio} /></div>
         </div>
         <OrnamentDivider />
         <a href={d.reflectionUrl} className="block rounded-xl bg-gold-500/5 border border-gold-500/20 p-5 text-center space-y-1 hover:bg-gold-500/10 hover:border-gold-500/30 transition-all">

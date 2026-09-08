@@ -120,7 +120,7 @@ const TABS = [
   { id: "shirts", label: "Shirts" },
   { id: "layers", label: "Layers" },
   { id: "absent", label: "Absences" },
-  { id: "text", label: "Text" },
+  { id: "text", label: "Map" },
 ];
 
 // ══════════════════════════════════════════════════════════════════════════════

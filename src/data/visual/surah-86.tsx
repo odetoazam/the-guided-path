@@ -30,25 +30,6 @@ const SURAH_DATA = {
 
   audio: { surahNumber: 86, reciter: "ar.alafasy" },
 
-  fullText: [
-    { ayah: 1, arabic: "وَالسَّمَاءِ وَالطَّارِقِ", translation: "By the sky and the night-visitor —" },
-    { ayah: 2, arabic: "وَمَا أَدْرَاكَ مَا الطَّارِقُ", translation: "and what can make you know what the night-visitor is?" },
-    { ayah: 3, arabic: "النَّجْمُ الثَّاقِبُ", translation: "The piercing star." },
-    { ayah: 4, arabic: "إِن كُلُّ نَفْسٍ لَّمَّا عَلَيْهَا حَافِظٌ", translation: "There is no soul but that it has over it a guardian." },
-    { ayah: 5, arabic: "فَلْيَنظُرِ الْإِنسَانُ مِمَّ خُلِقَ", translation: "So let man observe from what he was created." },
-    { ayah: 6, arabic: "خُلِقَ مِن مَّاءٍ دَافِقٍ", translation: "Created from a fluid ejected," },
-    { ayah: 7, arabic: "يَخْرُجُ مِن بَيْنِ الصُّلْبِ وَالتَّرَائِبِ", translation: "emerging from between the backbone and the ribs." },
-    { ayah: 8, arabic: "إِنَّهُ عَلَىٰ رَجْعِهِ لَقَادِرٌ", translation: "Indeed, He is, to return him, able." },
-    { ayah: 9, arabic: "يَوْمَ تُبْلَى السَّرَائِرُ", translation: "The Day when secrets are examined —" },
-    { ayah: 10, arabic: "فَمَا لَهُ مِن قُوَّةٍ وَلَا نَاصِرٍ", translation: "then he will have no power and no helper." },
-    { ayah: 11, arabic: "وَالسَّمَاءِ ذَاتِ الرَّجْعِ", translation: "By the sky which returns," },
-    { ayah: 12, arabic: "وَالْأَرْضِ ذَاتِ الصَّدْعِ", translation: "and the earth which splits open —" },
-    { ayah: 13, arabic: "إِنَّهُ لَقَوْلٌ فَصْلٌ", translation: "indeed, it is a decisive word," },
-    { ayah: 14, arabic: "وَمَا هُوَ بِالْهَزْلِ", translation: "and it is no amusement." },
-    { ayah: 15, arabic: "إِنَّهُمْ يَكِيدُونَ كَيْدًا", translation: "Indeed, they are planning a plan," },
-    { ayah: 16, arabic: "وَأَكِيدُ كَيْدًا", translation: "and I am planning a plan." },
-    { ayah: 17, arabic: "فَمَهِّلِ الْكَافِرِينَ أَمْهِلْهُمْ رُوَيْدًا", translation: "So allow time for the disbelievers; leave them awhile." },
-  ],
 
   diagrams: {
     sectionJourney: {
@@ -93,7 +74,7 @@ const SURAH_DATA = {
       subtitle: "The piercing star's action repeated across every layer of existence",
       layers: [
         { depth: 1, label: "The Sky", ayah: "1–3", arabic: "النَّجْمُ الثَّاقِبُ", desc: "The piercing star — light breaking through the night. The root th-q-b means to bore through, to perforate. This image is the surah's DNA; every subsequent image repeats this action.", color: "#4ecdc4" },
-        { depth: 2, label: "The Body", ayah: "5–7", arabic: "خُلِقَ مِن مَّاءٍ دَافِقٍ", desc: "A gushing fluid breaking forth from between the backbone and the ribs. Even human creation participates in the metaphor: life begins as something that pierces through.", color: "#9b7fd4" },
+        { depth: 2, label: "The Body", ayah: "5–7", arabic: "خُلِقَ مِن مَّآءٍ دَافِقٍ", desc: "A gushing fluid breaking forth from between the backbone and the ribs. Even human creation participates in the metaphor: life begins as something that pierces through.", color: "#9b7fd4" },
         { depth: 3, label: "The Judgment", ayah: "9", arabic: "يَوْمَ تُبْلَى السَّرَائِرُ", desc: "The Day when secrets are exposed — the barrier between hidden and known is destroyed. The moral climax of the piercing metaphor.", color: "#C9A84C" },
         { depth: 4, label: "The Earth", ayah: "11–12", arabic: "وَالْأَرْضِ ذَاتِ الصَّدْعِ", desc: "The sky returns rain, the earth cracks open with vegetation. Seeds break soil the way the star breaks the dark. The same physical action, witnessed every season.", color: "#4ecdc4" },
         { depth: 5, label: "The Quran", ayah: "13", arabic: "إِنَّهُ لَقَوْلٌ فَصْلٌ", desc: "The ultimate piercing: a decisive word that separates truth from falsehood. The Quran pierces through denial the way the star pierces through the night.", color: "#e07a8a" },
@@ -129,7 +110,6 @@ const TABS = [
   { id: "ring", label: "Ring" },
   { id: "domains", label: "Domains" },
   { id: "absent", label: "Absences" },
-  { id: "text", label: "Text" },
 ];
 
 // ══════════════════════════════════════════════════════════════════════════════
@@ -247,21 +227,6 @@ function HeartVerse({ verse }: { verse: typeof SURAH_DATA.heartVerse }) {
   );
 }
 
-function FullSurahText({ verses }: { verses: typeof SURAH_DATA.fullText }) {
-  return (
-    <div className="space-y-5">
-      {verses.map((v) => (
-        <div key={v.ayah} className="space-y-1">
-          <p className="text-xl leading-loose text-right text-cream font-amiri" style={{ direction: "rtl" }}>
-            {v.arabic}{" "}
-            <span className="text-sm text-cream-muted/50">﴿{v.ayah}﴾</span>
-          </p>
-          <p className="text-sm text-cream-muted/60 font-body">{v.translation}</p>
-        </div>
-      ))}
-    </div>
-  );
-}
 
 function SectionJourney({ data }: { data: typeof SURAH_DATA.diagrams.sectionJourney }) {
   return (
@@ -453,13 +418,7 @@ export default function SurahArchitecture() {
           {activeTab === "ring" && <ChiasticRing data={d.diagrams.chiasticRing} />}
           {activeTab === "domains" && <DeductiveFunnel data={d.diagrams.deductiveFunnel} />}
           {activeTab === "absent" && <AbsenceMap data={d.diagrams.absenceMap} />}
-          {activeTab === "text" && (
-            <div className="space-y-6">
-              <FullSurahText verses={d.fullText} />
-              <OrnamentDivider />
-              <HeartVerse verse={d.heartVerse} />
-            </div>
-          )}
+          <div className="space-y-6 pt-6 border-t border-white/[0.06]"><HeartVerse verse={d.heartVerse} /></div>
         </div>
 
         {/* ── Go Deeper ────────────────────────────────────────────────────── */}

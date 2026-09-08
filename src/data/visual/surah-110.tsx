@@ -39,29 +39,6 @@ const SURAH_DATA = {
   },
 
   // ── Full Surah Text (micro surah — displayed above tabs) ──────────────────
-  fullText: [
-    {
-      ayah: 1,
-      arabic: "إِذَا جَاءَ نَصْرُ اللَّهِ وَالْفَتْحُ",
-      ayahRef: "110:1",
-      translation: "When the help of Allah comes, and the opening.",
-    },
-    {
-      ayah: 2,
-      arabic: "وَرَأَيْتَ النَّاسَ يَدْخُلُونَ فِي دِينِ اللَّهِ أَفْوَاجًا",
-      ayahRef: "110:2",
-      translation:
-        "And you see the people entering the religion of Allah in crowds.",
-    },
-    {
-      ayah: 3,
-      arabic:
-        "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَاسْتَغْفِرْهُ ۚ إِنَّهُ كَانَ تَوَّابًا",
-      ayahRef: "110:3",
-      translation:
-        "Then glorify with the praise of your Lord, and seek His forgiveness. Indeed, He has always been the Accepter of repentance.",
-    },
-  ],
 
   // ── Diagrams ──────────────────────────────────────────────────────────────
   diagrams: {
@@ -254,7 +231,6 @@ const TABS = [
   { id: "bookends", label: "Bookends" },
   { id: "words", label: "Words" },
   { id: "absent", label: "Absences" },
-  { id: "text", label: "Text" },
 ];
 
 // ══════════════════════════════════════════════════════════════════════════════
@@ -372,21 +348,6 @@ function HeartVerse({ verse }: { verse: typeof SURAH_DATA.heartVerse }) {
   );
 }
 
-function FullSurahText({ verses }: { verses: typeof SURAH_DATA.fullText }) {
-  return (
-    <div className="space-y-5">
-      {verses.map((v) => (
-        <div key={v.ayah} className="space-y-1">
-          <p className="text-xl leading-loose text-right text-cream font-amiri" style={{ direction: "rtl" }}>
-            {v.arabic}{" "}
-            <span className="text-sm text-cream-muted/50">﴿{v.ayah}﴾</span>
-          </p>
-          <p className="text-sm text-cream-muted/60 font-body">{v.translation}</p>
-        </div>
-      ))}
-    </div>
-  );
-}
 
 function SectionJourney({ data }: { data: typeof SURAH_DATA.diagrams.sectionJourney }) {
   return (
@@ -574,13 +535,7 @@ export default function SurahArchitecture() {
           {activeTab === "bookends" && <OpeningClosing data={d.diagrams.openingClosing} />}
           {activeTab === "words" && <WordAnatomy data={d.diagrams.wordAnatomy} />}
           {activeTab === "absent" && <AbsenceMap data={d.diagrams.absenceMap} />}
-          {activeTab === "text" && (
-            <div className="space-y-6">
-              <FullSurahText verses={d.fullText} />
-              <OrnamentDivider />
-              <HeartVerse verse={d.heartVerse} />
-            </div>
-          )}
+          <div className="space-y-6 pt-6 border-t border-white/[0.06]"><HeartVerse verse={d.heartVerse} /></div>
         </div>
 
         {/* ── Go Deeper ────────────────────────────────────────────────────── */}

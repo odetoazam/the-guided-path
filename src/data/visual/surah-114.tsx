@@ -24,7 +24,7 @@ const SURAH_DATA = {
   sciencesActive: [{"key":"balaghah","english":"Rhetoric"},{"key":"aqeedah","english":"Theology"},{"key":"munasabat","english":"Inter-surah Connections"}],
   // ── Heart Verse ───────────────────────────────────────────────────────────
   heartVerse: {
-    arabic: "مِن شَرِّ ٱلْوَسْوَاسِ ٱلْخَنَّاسِ",
+    arabic: "مِن شَرِّ ٱلْوَسْوَاسِ ٱلْخَنَّاسِ",
     ayahRef: "114:4",
     translation:
       "From the evil of the retreating whisperer.",
@@ -39,44 +39,6 @@ const SURAH_DATA = {
   },
 
   // ── Full Surah Text ───────────────────────────────────────────────────────
-  fullText: [
-    {
-      ayah: 1,
-      arabic: "قُلْ أَعُوذُ بِرَبِّ ٱلنَّاسِ",
-      ayahRef: "114:1",
-      translation: "Say: I seek refuge in the Lord of mankind.",
-    },
-    {
-      ayah: 2,
-      arabic: "مَلِكِ ٱلنَّاسِ",
-      ayahRef: "114:2",
-      translation: "The King of mankind.",
-    },
-    {
-      ayah: 3,
-      arabic: "إِلَـٰهِ ٱلنَّاسِ",
-      ayahRef: "114:3",
-      translation: "The God of mankind.",
-    },
-    {
-      ayah: 4,
-      arabic: "مِن شَرِّ ٱلْوَسْوَاسِ ٱلْخَنَّاسِ",
-      ayahRef: "114:4",
-      translation: "From the evil of the retreating whisperer,",
-    },
-    {
-      ayah: 5,
-      arabic: "ٱلَّذِى يُوَسْوِسُ فِى صُدُورِ ٱلنَّاسِ",
-      ayahRef: "114:5",
-      translation: "Who whispers in the chests of mankind,",
-    },
-    {
-      ayah: 6,
-      arabic: "مِنَ ٱلْجِنَّةِ وَٱلنَّاسِ",
-      ayahRef: "114:6",
-      translation: "From among jinn and mankind.",
-    },
-  ],
 
   // ── Diagrams ──────────────────────────────────────────────────────────────
   diagrams: {
@@ -252,7 +214,6 @@ const TABS = [
   { id: "names", label: "Three Names" },
   { id: "telescope", label: "Telescope" },
   { id: "absent", label: "Absences" },
-  { id: "text", label: "Text" },
 ];
 
 // ══════════════════════════════════════════════════════════════════════════════
@@ -370,21 +331,6 @@ function HeartVerse({ verse }: { verse: typeof SURAH_DATA.heartVerse }) {
   );
 }
 
-function FullSurahText({ verses }: { verses: typeof SURAH_DATA.fullText }) {
-  return (
-    <div className="space-y-5">
-      {verses.map((v) => (
-        <div key={v.ayah} className="space-y-1">
-          <p className="text-xl leading-loose text-right text-cream font-amiri" style={{ direction: "rtl" }}>
-            {v.arabic}{" "}
-            <span className="text-sm text-cream-muted/50">﴿{v.ayah}﴾</span>
-          </p>
-          <p className="text-sm text-cream-muted/60 font-body">{v.translation}</p>
-        </div>
-      ))}
-    </div>
-  );
-}
 
 function TwoBreaths({ data }: { data: typeof SURAH_DATA.diagrams.twoBreaths }) {
   return (
@@ -573,13 +519,7 @@ export default function SurahArchitecture() {
           {activeTab === "names" && <ComponentsViz data={d.diagrams.components} />}
           {activeTab === "telescope" && <CompressionViz data={d.diagrams.compression} />}
           {activeTab === "absent" && <AbsenceMap data={d.diagrams.absenceMap} />}
-          {activeTab === "text" && (
-            <div className="space-y-6">
-              <FullSurahText verses={d.fullText} />
-              <OrnamentDivider />
-              <HeartVerse verse={d.heartVerse} />
-            </div>
-          )}
+          <div className="space-y-6 pt-6 border-t border-white/[0.06]"><HeartVerse verse={d.heartVerse} /></div>
         </div>
 
         {/* ── Go Deeper ────────────────────────────────────────────────────── */}

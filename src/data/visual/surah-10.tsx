@@ -22,7 +22,7 @@ const SURAH_DATA = {
 
   sciencesActive: [{"key":"qasas","english":"Quranic Narratives"},{"key":"balaghah","english":"Rhetoric"},{"key":"aqeedah","english":"Theology"}],
   heartVerse: {
-    arabic: "فَلَوْلَا كَانَتْ قَرْيَةٌ آمَنَتْ فَنَفَعَهَا إِيمَانُهَا إِلَّا قَوْمَ يُونُسَ",
+    arabic: "فَلَوْلَا كَانَتْ قَرْيَةٌ آمَنَتْ فَنَفَعَهَا إِيمَانُهَا إِلَّا قَوْمَ يُونُسَ",
     ayahRef: "10:98",
     translation: "Then has there not been a single city that believed so its faith benefited it — except the people of Yunus?",
     why: "The word illa — except — restructures the entire preceding argument. Every nation rejected and was destroyed. Then: except. One city believed. The surah named itself after that exception, after the proof that the door never fully closes.",
@@ -81,7 +81,7 @@ const SURAH_DATA = {
         { depth: 1, label: "Cosmic Evidence", ayah: "5–6", arabic: "هُوَ الَّذِي جَعَلَ الشَّمْسَ ضِيَاءً", desc: "The sun as radiance, the moon as measured light. Two different Arabic words for what translation flattens into one. The calibration of the cosmos as the first evidence that the God who built all this can certainly speak through a human being.", color: "#4ecdc4" },
         { depth: 2, label: "Human Pattern", ayah: "22–23", arabic: "دَعَوُا اللَّهَ مُخْلِصِينَ لَهُ الدِّينَ", desc: "The storm-prayer cycle: sincere devotion at sea, forgetfulness on land. The root image of kafara — to cover over — describes someone who has had the experience of God and buried it.", color: "#9b7fd4" },
         { depth: 3, label: "Historical Pattern", ayah: "71–92", arabic: "فَأَغْرَقْنَاهُمْ", desc: "Nuh's posture, Musa's confrontation, Fir'awn's drowning. Every nation that received truth and refused it. The pattern seems like a law of history.", color: "#e07a8a" },
-        { depth: 4, label: "The Break", ayah: "98", arabic: "إِلَّا قَوْمَ يُونُسَ", desc: "Except. One word breaks the law the surah spent ninety-seven ayahs establishing. The people of Yunus believed, and the punishment was lifted. The exception is the surah's gift.", color: "#C9A84C" },
+        { depth: 4, label: "The Break", ayah: "98", arabic: "إِلَّا قَوْمَ يُونُسَ", desc: "Except. One word breaks the law the surah spent ninety-seven ayahs establishing. The people of Yunus believed, and the punishment was lifted. The exception is the surah's gift.", color: "#C9A84C" },
       ],
     },
     absenceMap: {
@@ -114,7 +114,7 @@ const TABS = [
   { id: "echo", label: "Echo" },
   { id: "evidence", label: "Evidence" },
   { id: "absent", label: "Absences" },
-  { id: "text", label: "Text" },
+  { id: "text", label: "Map" },
 ];
 
 // ══════════════════════════════════════════════════════════════════════════════

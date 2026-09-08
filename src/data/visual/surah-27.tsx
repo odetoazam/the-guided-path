@@ -22,7 +22,7 @@ const SURAH_DATA = {
 
   sciencesActive: [{"key":"qasas","english":"Quranic Narratives"},{"key":"nazm","english":"Structural Coherence"},{"key":"munasabat","english":"Inter-surah Connections"}],
   heartVerse: {
-    arabic: "قَالَتْ نَمْلَةٌ يَا أَيُّهَا النَّمْلُ ادْخُلُوا مَسَاكِنَكُمْ لَا يَحْطِمَنَّكُمْ سُلَيْمَانُ وَجُنُودُهُ وَهُمْ لَا يَشْعُرُونَ",
+    arabic: "قَالَتْ نَمْلَةٌ يَا أَيُّهَا النَّمْلُ ادْخُلُوا مَسَاكِنَكُمْ لَا يَحْطِمَنَّكُمْ سُلَيْمَانُ وَجُنُودُهُ وَهُمْ لَا يَشْعُرُونَ",
     ayahRef: "27:18",
     translation: "An ant said, 'O ants, enter your dwellings so that Sulayman and his armies do not crush you while they do not perceive.'",
     why: "An army of jinn, humans, and birds marching in formation, and one ant stops them. She addresses her community by name, identifies the king, gives tactical instruction, and excuses the army's potential harm — they would do it unknowingly. In a surah filled with palaces, this single sentence names the whole thing.",
@@ -30,18 +30,6 @@ const SURAH_DATA = {
 
   audio: { surahNumber: 27, reciter: "ar.alafasy" },
 
-  fullText: [
-    { ayah: 1, arabic: "طس ۚ تِلْكَ آيَاتُ الْقُرْآنِ وَكِتَابٍ مُّبِينٍ", translation: "Ta-Sin. These are the verses of the Quran and a clear Book." },
-    { ayah: 15, arabic: "وَلَقَدْ آتَيْنَا دَاوُودَ وَسُلَيْمَانَ عِلْمًا", translation: "And We certainly gave Dawud and Sulayman knowledge." },
-    { ayah: 18, arabic: "قَالَتْ نَمْلَةٌ يَا أَيُّهَا النَّمْلُ ادْخُلُوا مَسَاكِنَكُمْ", translation: "An ant said, 'O ants, enter your dwellings.'" },
-    { ayah: 19, arabic: "رَبِّ أَوْزِعْنِي أَنْ أَشْكُرَ نِعْمَتَكَ", translation: "My Lord, inspire me to be grateful for Your blessings." },
-    { ayah: 30, arabic: "إِنَّهُ مِن سُلَيْمَانَ وَإِنَّهُ بِسْمِ اللَّهِ الرَّحْمَـٰنِ الرَّحِيمِ", translation: "Indeed, it is from Sulayman, and indeed it reads: In the name of Allah, the Most Merciful, the Especially Merciful." },
-    { ayah: 40, arabic: "أَنَا آتِيكَ بِهِ قَبْلَ أَن يَرْتَدَّ إِلَيْكَ طَرْفُكَ", translation: "I will bring it to you before your glance returns to you." },
-    { ayah: 44, arabic: "أَسْلَمْتُ مَعَ سُلَيْمَانَ لِلَّهِ رَبِّ الْعَالَمِينَ", translation: "I submit with Sulayman to Allah, Lord of all worlds." },
-    { ayah: 62, arabic: "أَمَّن يُجِيبُ الْمُضْطَرَّ إِذَا دَعَاهُ", translation: "Is He not better who answers the desperate when they call upon Him?" },
-    { ayah: 88, arabic: "وَتَرَى الْجِبَالَ تَحْسَبُهَا جَامِدَةً وَهِيَ تَمُرُّ مَرَّ السَّحَابِ", translation: "And you see the mountains, thinking them rigid, while they pass as the passing of clouds." },
-    { ayah: 93, arabic: "وَقُلِ الْحَمْدُ لِلَّهِ سَيُرِيكُمْ آيَاتِهِ فَتَعْرِفُونَهَا", translation: "And say: Praise be to Allah. He will show you His signs and you will recognize them." },
-  ],
 
   diagrams: {
     sectionJourney: {
@@ -84,7 +72,7 @@ const SURAH_DATA = {
       title: "Three Non-Human Witnesses",
       subtitle: "The surah's three voices from outside the human world — each addressing a failure of human perception",
       layers: [
-        { depth: 1, label: "The Ant", ayah: "18", arabic: "لَا يَحْطِمَنَّكُمْ", desc: "Speaks to protect her community from approaching power. She sees the danger no one else sees and speaks with clarity and care. The surah bears her name because she could see what the kingdom was for.", color: "#4ecdc4" },
+        { depth: 1, label: "The Ant", ayah: "18", arabic: "لَا يَحْطِمَنَّكُمْ", desc: "Speaks to protect her community from approaching power. She sees the danger no one else sees and speaks with clarity and care. The surah bears her name because she could see what the kingdom was for.", color: "#4ecdc4" },
         { depth: 2, label: "The Hoopoe", ayah: "22–26", arabic: "أَحَطتُ بِمَا لَمْ تُحِطْ بِهِ", desc: "Delivers a theological assessment of Sheba's kingdom that would be sophisticated coming from a human scholar. Identifies sun-worship, names Shaytan as cause, frames it as failure to prostrate. A bird doing theological work.", color: "#9b7fd4" },
         { depth: 3, label: "The Creature", ayah: "82", arabic: "دَابَّةً مِّنَ الْأَرْضِ", desc: "The dabbah that will emerge from the earth at the end of time to indict humanity for refusing to believe. Three voices from outside the human world, escalating in scope: a valley, a kingdom, all of creation.", color: "#e07a8a" },
         { depth: 4, label: "The Pattern", ayah: "93", arabic: "سَيُرِيكُمْ آيَاتِهِ", desc: "He will show you His signs and you will recognize them. The natural world sees what humans refuse to see — and one day, the earth itself will testify.", color: "#C9A84C" },
@@ -120,7 +108,6 @@ const TABS = [
   { id: "mirror", label: "Mirror" },
   { id: "witnesses", label: "Witnesses" },
   { id: "absent", label: "Absences" },
-  { id: "text", label: "Text" },
 ];
 
 // ══════════════════════════════════════════════════════════════════════════════
@@ -211,20 +198,6 @@ function HeartVerse({ verse }: { verse: typeof SURAH_DATA.heartVerse }) {
   );
 }
 
-function FullSurahText({ verses }: { verses: typeof SURAH_DATA.fullText }) {
-  return (
-    <div className="space-y-5">
-      {verses.map((v) => (
-        <div key={v.ayah} className="space-y-1">
-          <p className="text-xl leading-loose text-right text-cream font-amiri" style={{ direction: "rtl" }}>
-            {v.arabic} <span className="text-sm text-cream-muted/50">{"\uFD3E"}{v.ayah}{"\uFD3F"}</span>
-          </p>
-          <p className="text-sm text-cream-muted/60 font-body">{v.translation}</p>
-        </div>
-      ))}
-    </div>
-  );
-}
 
 function SectionJourney({ data }: { data: typeof SURAH_DATA.diagrams.sectionJourney }) {
   return (
@@ -365,13 +338,7 @@ export default function SurahArchitecture() {
           {activeTab === "mirror" && <ChiasticRing data={d.diagrams.chiasticRing} />}
           {activeTab === "witnesses" && <DeductiveFunnel data={d.diagrams.deductiveFunnel} />}
           {activeTab === "absent" && <AbsenceMap data={d.diagrams.absenceMap} />}
-          {activeTab === "text" && (
-            <div className="space-y-6">
-              <FullSurahText verses={d.fullText} />
-              <OrnamentDivider />
-              <HeartVerse verse={d.heartVerse} />
-            </div>
-          )}
+          <div className="space-y-6 pt-6 border-t border-white/[0.06]"><HeartVerse verse={d.heartVerse} /></div>
         </div>
 
         <OrnamentDivider />

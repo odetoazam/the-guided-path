@@ -30,11 +30,6 @@ const SURAH_DATA = {
 
   audio: { surahNumber: 108, reciter: "ar.alafasy" },
 
-  fullText: [
-    { ayah: 1, arabic: "إِنَّا أَعْطَيْنَاكَ الْكَوْثَرَ", translation: "Indeed, We have given you al-Kawthar." },
-    { ayah: 2, arabic: "فَصَلِّ لِرَبِّكَ وَانْحَرْ", translation: "So pray to your Lord and sacrifice." },
-    { ayah: 3, arabic: "إِنَّ شَانِئَكَ هُوَ الْأَبْتَرُ", translation: "Indeed, it is your enemy who is the one cut off." },
-  ],
 
   diagrams: {
     deductiveFunnel: {
@@ -103,7 +98,6 @@ const TABS = [
   { id: "words", label: "Ten Words" },
   { id: "pronouns", label: "Pronouns" },
   { id: "absent", label: "Absences" },
-  { id: "text", label: "Text" },
 ];
 
 // ══════════════════════════════════════════════════════════════════════════════
@@ -221,21 +215,6 @@ function HeartVerse({ verse }: { verse: typeof SURAH_DATA.heartVerse }) {
   );
 }
 
-function FullSurahText({ verses }: { verses: typeof SURAH_DATA.fullText }) {
-  return (
-    <div className="space-y-5">
-      {verses.map((v) => (
-        <div key={v.ayah} className="space-y-1">
-          <p className="text-xl leading-loose text-right text-cream font-amiri" style={{ direction: "rtl" }}>
-            {v.arabic}{" "}
-            <span className="text-sm text-cream-muted/50">﴿{v.ayah}﴾</span>
-          </p>
-          <p className="text-sm text-cream-muted/60 font-body">{v.translation}</p>
-        </div>
-      ))}
-    </div>
-  );
-}
 
 function DeductiveFunnel({ data }: { data: typeof SURAH_DATA.diagrams.deductiveFunnel }) {
   return (
@@ -433,13 +412,7 @@ export default function SurahArchitecture() {
           {activeTab === "words" && <CompressionViz data={d.diagrams.compression} />}
           {activeTab === "pronouns" && <PronounMap data={d.diagrams.pronounMap} />}
           {activeTab === "absent" && <AbsenceMap data={d.diagrams.absenceMap} />}
-          {activeTab === "text" && (
-            <div className="space-y-6">
-              <FullSurahText verses={d.fullText} />
-              <OrnamentDivider />
-              <HeartVerse verse={d.heartVerse} />
-            </div>
-          )}
+          <div className="space-y-6 pt-6 border-t border-white/[0.06]"><HeartVerse verse={d.heartVerse} /></div>
         </div>
 
         {/* ── Go Deeper ────────────────────────────────────────────────────── */}

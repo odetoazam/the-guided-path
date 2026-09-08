@@ -109,7 +109,6 @@ const TABS = [
   { id: "frame", label: "Frame" },
   { id: "tasbih", label: "Tasbih" },
   { id: "absent", label: "Absences" },
-  { id: "text", label: "Text" },
 ];
 
 // ══════════════════════════════════════════════════════════════════════════════
@@ -417,12 +416,8 @@ export default function SurahArchitecture() {
           {activeTab === "frame" && <ChiasticRing data={d.diagrams.chiasticRing} />}
           {activeTab === "tasbih" && <DeductiveFunnel data={d.diagrams.deductiveFunnel} />}
           {activeTab === "absent" && <AbsenceMap data={d.diagrams.absenceMap} />}
-          {activeTab === "text" && (
-            <div className="space-y-6">
-              <HeartVerse verse={d.heartVerse} />
-              <OrnamentDivider />
-            </div>
-          )}
+          <div className="space-y-6 pt-6 border-t border-white/[0.06]"><HeartVerse verse={d.heartVerse} />
+              <OrnamentDivider /></div>
         </div>
 
         {/* ── Go Deeper ────────────────────────────────────────────────────── */}

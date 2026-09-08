@@ -24,7 +24,7 @@ const SURAH_DATA = {
   sciencesActive: [{"key":"balaghah","english":"Rhetoric"},{"key":"nahw","english":"Grammar"},{"key":"aqeedah","english":"Theology"}],
   // ── Heart Verse ───────────────────────────────────────────────────────────
   heartVerse: {
-    arabic: "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+    arabic: "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
     ayahRef: "1:5",
     translation:
       "You alone we worship, and You alone we ask for help.",
@@ -39,52 +39,6 @@ const SURAH_DATA = {
   },
 
   // ── Full Surah Text ───────────────────────────────────────────────────────
-  fullText: [
-    {
-      ayah: 1,
-      arabic: "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
-      ayahRef: "1:1",
-      translation: "In the name of God, the Most Gracious, the Most Merciful.",
-    },
-    {
-      ayah: 2,
-      arabic: "ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ",
-      ayahRef: "1:2",
-      translation: "All praise is due to God, Lord of all the worlds.",
-    },
-    {
-      ayah: 3,
-      arabic: "ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
-      ayahRef: "1:3",
-      translation: "The Most Gracious, the Most Merciful.",
-    },
-    {
-      ayah: 4,
-      arabic: "مَـٰلِكِ يَوْمِ ٱلدِّينِ",
-      ayahRef: "1:4",
-      translation: "Master of the Day of Judgment.",
-    },
-    {
-      ayah: 5,
-      arabic: "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
-      ayahRef: "1:5",
-      translation: "You alone we worship, and You alone we ask for help.",
-    },
-    {
-      ayah: 6,
-      arabic: "ٱهْدِنَا ٱلصِّرَٰطَ ٱلْمُسْتَقِيمَ",
-      ayahRef: "1:6",
-      translation: "Guide us to the straight path —",
-    },
-    {
-      ayah: 7,
-      arabic:
-        "صِرَٰطَ ٱلَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ ٱلْمَغْضُوبِ عَلَيْهِمْ وَلَا ٱلضَّآلِّينَ",
-      ayahRef: "1:7",
-      translation:
-        "the path of those upon whom You have bestowed favor, not of those who have evoked anger or of those who have gone astray.",
-    },
-  ],
 
   // ── Diagrams ──────────────────────────────────────────────────────────────
   diagrams: {
@@ -286,7 +240,6 @@ const TABS = [
   { id: "journey", label: "Journey" },
   { id: "seed", label: "The Seed" },
   { id: "absent", label: "Absences" },
-  { id: "text", label: "Text" },
 ];
 
 // ══════════════════════════════════════════════════════════════════════════════
@@ -404,21 +357,6 @@ function HeartVerse({ verse }: { verse: typeof SURAH_DATA.heartVerse }) {
   );
 }
 
-function FullSurahText({ verses }: { verses: typeof SURAH_DATA.fullText }) {
-  return (
-    <div className="space-y-5">
-      {verses.map((v) => (
-        <div key={v.ayah} className="space-y-1">
-          <p className="text-xl leading-loose text-right text-cream font-amiri" style={{ direction: "rtl" }}>
-            {v.arabic}{" "}
-            <span className="text-sm text-cream-muted/50">﴿{v.ayah}﴾</span>
-          </p>
-          <p className="text-sm text-cream-muted/60 font-body">{v.translation}</p>
-        </div>
-      ))}
-    </div>
-  );
-}
 
 function RingStructure({ data }: { data: typeof SURAH_DATA.diagrams.ringStructure }) {
   return (
@@ -606,13 +544,7 @@ export default function SurahArchitecture() {
           {activeTab === "journey" && <SectionJourney data={d.diagrams.sectionJourney} />}
           {activeTab === "seed" && <CompressionViz data={d.diagrams.compression} />}
           {activeTab === "absent" && <AbsenceMap data={d.diagrams.absenceMap} />}
-          {activeTab === "text" && (
-            <div className="space-y-6">
-              <FullSurahText verses={d.fullText} />
-              <OrnamentDivider />
-              <HeartVerse verse={d.heartVerse} />
-            </div>
-          )}
+          <div className="space-y-6 pt-6 border-t border-white/[0.06]"><HeartVerse verse={d.heartVerse} /></div>
         </div>
 
         {/* ── Go Deeper ────────────────────────────────────────────────────── */}

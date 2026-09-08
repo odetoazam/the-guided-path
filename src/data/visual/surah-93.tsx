@@ -22,7 +22,7 @@ const SURAH_DATA = {
 
   sciencesActive: [{"key":"qasam","english":"Oaths"},{"key":"balaghah","english":"Rhetoric"},{"key":"sarf","english":"Morphology"}],
   heartVerse: {
-    arabic: "وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَىٰ",
+    arabic: "وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَىٰٓ",
     ayahRef: "93:5",
     translation: "And your Lord will give you, and you will be satisfied.",
     why: "An open-ended promise with no limit named, no condition attached. The giving will continue until the recipient — not the giver — says it is enough. The verse remains one of the richest single ayahs in the Quran for contemplative study.",
@@ -30,19 +30,6 @@ const SURAH_DATA = {
 
   audio: { surahNumber: 93, reciter: "ar.alafasy" },
 
-  fullText: [
-    { ayah: 1, arabic: "وَالضُّحَىٰ", translation: "By the morning brightness," },
-    { ayah: 2, arabic: "وَاللَّيْلِ إِذَا سَجَىٰ", translation: "and the night when it covers with stillness —" },
-    { ayah: 3, arabic: "مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ", translation: "your Lord has not abandoned you, nor has He despised you." },
-    { ayah: 4, arabic: "وَلَلْآخِرَةُ خَيْرٌ لَّكَ مِنَ الْأُولَىٰ", translation: "And the Hereafter is better for you than the first life." },
-    { ayah: 5, arabic: "وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَىٰ", translation: "And your Lord will give you, and you will be satisfied." },
-    { ayah: 6, arabic: "أَلَمْ يَجِدْكَ يَتِيمًا فَآوَىٰ", translation: "Did He not find you an orphan and give you shelter?" },
-    { ayah: 7, arabic: "وَوَجَدَكَ ضَالًّا فَهَدَىٰ", translation: "And He found you searching, so He guided you." },
-    { ayah: 8, arabic: "وَوَجَدَكَ عَائِلًا فَأَغْنَىٰ", translation: "And He found you in need, so He made you self-sufficient." },
-    { ayah: 9, arabic: "فَأَمَّا الْيَتِيمَ فَلَا تَقْهَرْ", translation: "So as for the orphan, do not oppress him." },
-    { ayah: 10, arabic: "وَأَمَّا السَّائِلَ فَلَا تَنْهَرْ", translation: "And as for the one who asks, do not repel him." },
-    { ayah: 11, arabic: "وَأَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ", translation: "And as for the blessing of your Lord, proclaim it." },
-  ],
 
   diagrams: {
     sectionJourney: {
@@ -85,10 +72,10 @@ const SURAH_DATA = {
       subtitle: "The surah's arc: what God does → what the Prophet must do because of it",
       layers: [
         { depth: 1, label: "The Oath", ayah: "1–2", arabic: "وَالضُّحَىٰ · وَاللَّيْلِ إِذَا سَجَىٰ", desc: "Morning light and the still night. The pairing is the argument before the argument begins: the night is real, but morning always follows. Darkness is not absence — it is the quiet form of God's presence.", color: "#C9A84C" },
-        { depth: 2, label: "The Denial", ayah: "3", arabic: "مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ", desc: "Two fears answered. Wadda'a — He has not left. Qala — He has not despised you. The first addresses the fear of being abandoned. The second addresses the deeper fear of being found unworthy.", color: "#e07a8a" },
-        { depth: 3, label: "The Promise", ayah: "4–5", arabic: "وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَىٰ", desc: "The Hereafter is better than this life. God will give until you are satisfied. The comfort addresses past and present; this promise addresses the future. Every direction from which despair could enter is sealed.", color: "#9b7fd4" },
+        { depth: 2, label: "The Denial", ayah: "3", arabic: "مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ", desc: "Two fears answered. Wadda'a — He has not left. Qala — He has not despised you. The first addresses the fear of being abandoned. The second addresses the deeper fear of being found unworthy.", color: "#e07a8a" },
+        { depth: 3, label: "The Promise", ayah: "4–5", arabic: "وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَىٰٓ", desc: "The Hereafter is better than this life. God will give until you are satisfied. The comfort addresses past and present; this promise addresses the future. Every direction from which despair could enter is sealed.", color: "#9b7fd4" },
         { depth: 4, label: "The Evidence", ayah: "6–8", arabic: "أَلَمْ يَجِدْكَ يَتِيمًا فَآوَىٰ", desc: "Three biographical proofs. Orphanhood answered with shelter. Searching answered with guidance. Need answered with sufficiency. The sequence follows the arc of the Prophet's life and is also universal.", color: "#4ecdc4" },
-        { depth: 5, label: "The Speech", ayah: "9–11", arabic: "وَأَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ", desc: "The final word is haddith — speak. After a period of silence, God's last command is testimony. The silence is over, and the new speech is the voice of someone who was sheltered, guided, and provided for.", color: "#C9A84C" },
+        { depth: 5, label: "The Speech", ayah: "9–11", arabic: "وَأَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ", desc: "The final word is haddith — speak. After a period of silence, God's last command is testimony. The silence is over, and the new speech is the voice of someone who was sheltered, guided, and provided for.", color: "#C9A84C" },
       ],
     },
     absenceMap: {
@@ -121,7 +108,6 @@ const TABS = [
   { id: "mirror", label: "Mirror" },
   { id: "arc", label: "Arc" },
   { id: "absent", label: "Absences" },
-  { id: "text", label: "Text" },
 ];
 
 // ══════════════════════════════════════════════════════════════════════════════
@@ -239,21 +225,6 @@ function HeartVerse({ verse }: { verse: typeof SURAH_DATA.heartVerse }) {
   );
 }
 
-function FullSurahText({ verses }: { verses: typeof SURAH_DATA.fullText }) {
-  return (
-    <div className="space-y-5">
-      {verses.map((v) => (
-        <div key={v.ayah} className="space-y-1">
-          <p className="text-xl leading-loose text-right text-cream font-amiri" style={{ direction: "rtl" }}>
-            {v.arabic}{" "}
-            <span className="text-sm text-cream-muted/50">﴿{v.ayah}﴾</span>
-          </p>
-          <p className="text-sm text-cream-muted/60 font-body">{v.translation}</p>
-        </div>
-      ))}
-    </div>
-  );
-}
 
 function SectionJourney({ data }: { data: typeof SURAH_DATA.diagrams.sectionJourney }) {
   return (
@@ -445,13 +416,7 @@ export default function SurahArchitecture() {
           {activeTab === "mirror" && <ChiasticRing data={d.diagrams.chiasticRing} />}
           {activeTab === "arc" && <DeductiveFunnel data={d.diagrams.deductiveFunnel} />}
           {activeTab === "absent" && <AbsenceMap data={d.diagrams.absenceMap} />}
-          {activeTab === "text" && (
-            <div className="space-y-6">
-              <FullSurahText verses={d.fullText} />
-              <OrnamentDivider />
-              <HeartVerse verse={d.heartVerse} />
-            </div>
-          )}
+          <div className="space-y-6 pt-6 border-t border-white/[0.06]"><HeartVerse verse={d.heartVerse} /></div>
         </div>
 
         {/* ── Go Deeper ────────────────────────────────────────────────────── */}

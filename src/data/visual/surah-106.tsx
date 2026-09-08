@@ -39,34 +39,6 @@ const SURAH_DATA = {
   },
 
   // ── Full Surah Text ────────────────────────────────────────────────────────
-  fullText: [
-    {
-      ayah: 1,
-      arabic: "لِإِيلَافِ قُرَيْشٍ",
-      ayahRef: "106:1",
-      translation: "For the solidarity of Quraysh —",
-    },
-    {
-      ayah: 2,
-      arabic: "إِيلَافِهِمْ رِحْلَةَ الشِّتَاءِ وَالصَّيْفِ",
-      ayahRef: "106:2",
-      translation:
-        "their solidarity through the caravan of winter and of summer.",
-    },
-    {
-      ayah: 3,
-      arabic: "فَلْيَعْبُدُوا رَبَّ هَٰذَا الْبَيْتِ",
-      ayahRef: "106:3",
-      translation: "Let them worship the Lord of this House.",
-    },
-    {
-      ayah: 4,
-      arabic: "الَّذِي أَطْعَمَهُم مِّن جُوعٍ وَآمَنَهُم مِّنْ خَوْفٍ",
-      ayahRef: "106:4",
-      translation:
-        "The One who fed them against hunger and secured them against fear.",
-    },
-  ],
 
   // ── Diagrams ──────────────────────────────────────────────────────────────
   diagrams: {
@@ -226,7 +198,6 @@ const TABS = [
   { id: "twin", label: "Twin" },
   { id: "absent", label: "Absences" },
   { id: "rescues", label: "Rescues" },
-  { id: "text", label: "Text" },
 ];
 
 // ══════════════════════════════════════════════════════════════════════════════
@@ -344,21 +315,6 @@ function HeartVerse({ verse }: { verse: typeof SURAH_DATA.heartVerse }) {
   );
 }
 
-function FullSurahText({ verses }: { verses: typeof SURAH_DATA.fullText }) {
-  return (
-    <div className="space-y-5">
-      {verses.map((v) => (
-        <div key={v.ayah} className="space-y-1">
-          <p className="text-xl leading-loose text-right text-cream font-amiri" style={{ direction: "rtl" }}>
-            {v.arabic}{" "}
-            <span className="text-sm text-cream-muted/50">﴿{v.ayah}﴾</span>
-          </p>
-          <p className="text-sm text-cream-muted/60 font-body">{v.translation}</p>
-        </div>
-      ))}
-    </div>
-  );
-}
 
 function CausalChain({ data }: { data: typeof SURAH_DATA.diagrams.causalChain }) {
   return (
@@ -586,13 +542,7 @@ export default function SurahArchitecture() {
           {activeTab === "twin" && <TwinSurah data={d.diagrams.twinSurah} />}
           {activeTab === "absent" && <AbsenceMap data={d.diagrams.absenceMap} />}
           {activeTab === "rescues" && <ElementalPair data={d.diagrams.elementalPair} />}
-          {activeTab === "text" && (
-            <div className="space-y-6">
-              <FullSurahText verses={d.fullText} />
-              <OrnamentDivider />
-              <HeartVerse verse={d.heartVerse} />
-            </div>
-          )}
+          <div className="space-y-6 pt-6 border-t border-white/[0.06]"><HeartVerse verse={d.heartVerse} /></div>
         </div>
 
         {/* ── Go Deeper ────────────────────────────────────────────────────── */}

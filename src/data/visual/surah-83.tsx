@@ -22,7 +22,7 @@ const SURAH_DATA = {
 
   sciencesActive: [{"key":"balaghah","english":"Rhetoric"},{"key":"nazm","english":"Structural Coherence"},{"key":"sarf","english":"Morphology"}],
   heartVerse: {
-    arabic: "كَلَّا ۖ بَلْ ۜ رَانَ عَلَىٰ قُلُوبِهِم مَّا كَانُوا يَكْسِبُونَ",
+    arabic: "كَلَّا ۖ بَلْ ۜ رَانَ عَلَىٰ قُلُوبِهِم مَّا كَانُوا۟ يَكْسِبُونَ",
     ayahRef: "83:14",
     translation: "No! Rather, their hearts have been covered over by what they used to earn.",
     why: "The surah's turning point. Everything before it describes the crime and its record. Everything after describes the alternative. The word rana — rust, a stain that accumulates layer upon layer — explains how a person moves from cheating a scale to being inscribed in Sijjin: one daily deposit at a time. Not a single dramatic sin, but the slow patina of small compromises.",
@@ -30,44 +30,6 @@ const SURAH_DATA = {
 
   audio: { surahNumber: 83, reciter: "ar.alafasy" },
 
-  fullText: [
-    { ayah: 1, arabic: "وَيْلٌ لِّلْمُطَفِّفِينَ", translation: "Ruin to the defrauders —" },
-    { ayah: 2, arabic: "الَّذِينَ إِذَا اكْتَالُوا عَلَى النَّاسِ يَسْتَوْفُونَ", translation: "those who, when they take a measure from people, take in full," },
-    { ayah: 3, arabic: "وَإِذَا كَالُوهُمْ أَو وَّزَنُوهُمْ يُخْسِرُونَ", translation: "but when they give by measure or weight to them, they give less." },
-    { ayah: 4, arabic: "أَلَا يَظُنُّ أُولَٰئِكَ أَنَّهُم مَّبْعُوثُونَ", translation: "Do these people not think that they will be resurrected" },
-    { ayah: 5, arabic: "لِيَوْمٍ عَظِيمٍ", translation: "for a tremendous Day —" },
-    { ayah: 6, arabic: "يَوْمَ يَقُومُ النَّاسُ لِرَبِّ الْعَالَمِينَ", translation: "a Day when mankind will stand before the Lord of the worlds?" },
-    { ayah: 7, arabic: "كَلَّا إِنَّ كِتَابَ الْفُجَّارِ لَفِي سِجِّينٍ", translation: "No indeed! The record of the wicked is in Sijjin." },
-    { ayah: 8, arabic: "وَمَا أَدْرَاكَ مَا سِجِّينٌ", translation: "And what could make you know what Sijjin is?" },
-    { ayah: 9, arabic: "كِتَابٌ مَّرْقُومٌ", translation: "A written register." },
-    { ayah: 10, arabic: "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ", translation: "Ruin that Day to the deniers —" },
-    { ayah: 11, arabic: "الَّذِينَ يُكَذِّبُونَ بِيَوْمِ الدِّينِ", translation: "those who deny the Day of Recompense." },
-    { ayah: 12, arabic: "وَمَا يُكَذِّبُ بِهِ إِلَّا كُلُّ مُعْتَدٍ أَثِيمٍ", translation: "And none deny it except every sinful transgressor." },
-    { ayah: 13, arabic: "إِذَا تُتْلَىٰ عَلَيْهِ آيَاتُنَا قَالَ أَسَاطِيرُ الْأَوَّلِينَ", translation: "When Our verses are recited to him, he says, 'Tales of the ancients.'" },
-    { ayah: 14, arabic: "كَلَّا ۖ بَلْ ۜ رَانَ عَلَىٰ قُلُوبِهِم مَّا كَانُوا يَكْسِبُونَ", translation: "No! Rather, their hearts have been covered over by what they used to earn." },
-    { ayah: 15, arabic: "كَلَّا إِنَّهُمْ عَن رَّبِّهِمْ يَوْمَئِذٍ لَّمَحْجُوبُونَ", translation: "No indeed! On that Day they will be veiled from their Lord." },
-    { ayah: 16, arabic: "ثُمَّ إِنَّهُمْ لَصَالُو الْجَحِيمِ", translation: "Then they will enter the Hellfire." },
-    { ayah: 17, arabic: "ثُمَّ يُقَالُ هَٰذَا الَّذِي كُنتُم بِهِ تُكَذِّبُونَ", translation: "Then it will be said, 'This is what you used to deny.'" },
-    { ayah: 18, arabic: "كَلَّا إِنَّ كِتَابَ الْأَبْرَارِ لَفِي عِلِّيِّينَ", translation: "No indeed! The record of the righteous is in Illiyyun." },
-    { ayah: 19, arabic: "وَمَا أَدْرَاكَ مَا عِلِّيُّونَ", translation: "And what could make you know what Illiyyun is?" },
-    { ayah: 20, arabic: "كِتَابٌ مَّرْقُومٌ", translation: "A written register," },
-    { ayah: 21, arabic: "يَشْهَدُهُ الْمُقَرَّبُونَ", translation: "witnessed by those brought near." },
-    { ayah: 22, arabic: "إِنَّ الْأَبْرَارَ لَفِي نَعِيمٍ", translation: "Indeed, the righteous will be in bliss," },
-    { ayah: 23, arabic: "عَلَى الْأَرَائِكِ يَنظُرُونَ", translation: "on adorned couches, gazing." },
-    { ayah: 24, arabic: "تَعْرِفُ فِي وُجُوهِهِمْ نَضْرَةَ النَّعِيمِ", translation: "You will recognize in their faces the radiance of bliss." },
-    { ayah: 25, arabic: "يُسْقَوْنَ مِن رَّحِيقٍ مَّخْتُومٍ", translation: "They are given to drink a sealed wine," },
-    { ayah: 26, arabic: "خِتَامُهُ مِسْكٌ ۚ وَفِي ذَٰلِكَ فَلْيَتَنَافَسِ الْمُتَنَافِسُونَ", translation: "its seal is musk — so for this, let the competitors compete." },
-    { ayah: 27, arabic: "وَمِزَاجُهُ مِن تَسْنِيمٍ", translation: "And its mixture is of Tasnim —" },
-    { ayah: 28, arabic: "عَيْنًا يَشْرَبُ بِهَا الْمُقَرَّبُونَ", translation: "a spring from which those nearest to Allah drink." },
-    { ayah: 29, arabic: "إِنَّ الَّذِينَ أَجْرَمُوا كَانُوا مِنَ الَّذِينَ آمَنُوا يَضْحَكُونَ", translation: "Indeed, those who committed crimes used to laugh at those who believed." },
-    { ayah: 30, arabic: "وَإِذَا مَرُّوا بِهِمْ يَتَغَامَزُونَ", translation: "And when they passed by them, they would wink at one another." },
-    { ayah: 31, arabic: "وَإِذَا انقَلَبُوا إِلَىٰ أَهْلِهِمُ انقَلَبُوا فَكِهِينَ", translation: "And when they returned to their people, they returned jesting." },
-    { ayah: 32, arabic: "وَإِذَا رَأَوْهُمْ قَالُوا إِنَّ هَٰؤُلَاءِ لَضَالُّونَ", translation: "And when they saw them, they said, 'These people are truly lost.'" },
-    { ayah: 33, arabic: "وَمَا أُرْسِلُوا عَلَيْهِمْ حَافِظِينَ", translation: "But they were not sent as guardians over them." },
-    { ayah: 34, arabic: "فَالْيَوْمَ الَّذِينَ آمَنُوا مِنَ الْكُفَّارِ يَضْحَكُونَ", translation: "So today, those who believed are laughing at the disbelievers," },
-    { ayah: 35, arabic: "عَلَى الْأَرَائِكِ يَنظُرُونَ", translation: "on adorned couches, gazing." },
-    { ayah: 36, arabic: "هَلْ ثُوِّبَ الْكُفَّارُ مَا كَانُوا يَفْعَلُونَ", translation: "Have the disbelievers been repaid for what they used to do?" },
-  ],
 
   diagrams: {
     sectionJourney: {
@@ -111,7 +73,7 @@ const SURAH_DATA = {
       title: "From Market to Throne",
       subtitle: "The surah traces a single thread from the smallest fraud to the final reckoning",
       layers: [
-        { depth: 1, label: "The Small Fraud", ayah: "1–3", arabic: "وَيْلٌ لِّلْمُطَفِّفِينَ", desc: "The root t-f-f means something trivial, slight — the small amount by which a trader shortchanges. Not grand theft, but the habit of taking a little more and giving a little less. Every shortchanged measure is a theological statement: there is no Day when this will be weighed.", color: "#e07a8a" },
+        { depth: 1, label: "The Small Fraud", ayah: "1–3", arabic: "وَيْلٌ لِّلْمُطَفِّفِينَ", desc: "The root t-f-f means something trivial, slight — the small amount by which a trader shortchanges. Not grand theft, but the habit of taking a little more and giving a little less. Every shortchanged measure is a theological statement: there is no Day when this will be weighed.", color: "#e07a8a" },
         { depth: 2, label: "The Hidden Denial", ayah: "4–6", arabic: "أَلَا يَظُنُّ أُولَٰئِكَ", desc: "Do they not even suspect? The verb yazunnu carries a shade of uncertainty — the question implies that cheating a scale is, at its root, an act of disbelief in accountability. The connection between a market transaction and standing before the Lord is the argument.", color: "#9b7fd4" },
         { depth: 3, label: "The Rust Deposits", ayah: "14", arabic: "رَانَ عَلَىٰ قُلُوبِهِم", desc: "Rana — rust that accumulates gradually, layer upon layer. The heart becomes opaque through the slow deposit of daily wrong action. Each shortchanged measure, each dismissed sign, each comfortable lie builds a patina of spiritual opacity.", color: "#C9A84C" },
         { depth: 4, label: "The Final Measure", ayah: "36", arabic: "هَلْ ثُوِّبَ الْكُفَّارُ", desc: "Thuwwiba — normally positive, 'rewarded' — applied to punishment. The word for reward describes what the fraudsters receive. The scale has been balanced. The universe does not defraud.", color: "#4ecdc4" },
@@ -147,7 +109,6 @@ const TABS = [
   { id: "scales", label: "Scales" },
   { id: "thread", label: "Thread" },
   { id: "absent", label: "Absences" },
-  { id: "text", label: "Text" },
 ];
 
 // ══════════════════════════════════════════════════════════════════════════════
@@ -265,21 +226,6 @@ function HeartVerse({ verse }: { verse: typeof SURAH_DATA.heartVerse }) {
   );
 }
 
-function FullSurahText({ verses }: { verses: typeof SURAH_DATA.fullText }) {
-  return (
-    <div className="space-y-5">
-      {verses.map((v) => (
-        <div key={v.ayah} className="space-y-1">
-          <p className="text-xl leading-loose text-right text-cream font-amiri" style={{ direction: "rtl" }}>
-            {v.arabic}{" "}
-            <span className="text-sm text-cream-muted/50">﴿{v.ayah}﴾</span>
-          </p>
-          <p className="text-sm text-cream-muted/60 font-body">{v.translation}</p>
-        </div>
-      ))}
-    </div>
-  );
-}
 
 function SectionJourney({ data }: { data: typeof SURAH_DATA.diagrams.sectionJourney }) {
   return (
@@ -471,13 +417,7 @@ export default function SurahArchitecture() {
           {activeTab === "scales" && <ChiasticRing data={d.diagrams.chiasticRing} />}
           {activeTab === "thread" && <DeductiveFunnel data={d.diagrams.deductiveFunnel} />}
           {activeTab === "absent" && <AbsenceMap data={d.diagrams.absenceMap} />}
-          {activeTab === "text" && (
-            <div className="space-y-6">
-              <FullSurahText verses={d.fullText} />
-              <OrnamentDivider />
-              <HeartVerse verse={d.heartVerse} />
-            </div>
-          )}
+          <div className="space-y-6 pt-6 border-t border-white/[0.06]"><HeartVerse verse={d.heartVerse} /></div>
         </div>
 
         {/* ── Go Deeper ────────────────────────────────────────────────────── */}

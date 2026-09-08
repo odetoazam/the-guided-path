@@ -30,70 +30,6 @@ const SURAH_DATA = {
 
   audio: { surahNumber: 53, reciter: "ar.alafasy" },
 
-  fullText: [
-    { ayah: 1, arabic: "وَالنَّجْمِ إِذَا هَوَىٰ", translation: "By the star when it descends," },
-    { ayah: 2, arabic: "مَا ضَلَّ صَاحِبُكُمْ وَمَا غَوَىٰ", translation: "your companion has not strayed, nor has he been deceived," },
-    { ayah: 3, arabic: "وَمَا يَنطِقُ عَنِ الْهَوَىٰ", translation: "nor does he speak from his own desire." },
-    { ayah: 4, arabic: "إِنْ هُوَ إِلَّا وَحْيٌ يُوحَىٰ", translation: "It is only revelation revealed," },
-    { ayah: 5, arabic: "عَلَّمَهُ شَدِيدُ الْقُوَىٰ", translation: "taught to him by one mighty in power —" },
-    { ayah: 6, arabic: "ذُو مِرَّةٍ فَاسْتَوَىٰ", translation: "possessor of soundness, and he rose to his true form" },
-    { ayah: 7, arabic: "وَهُوَ بِالْأُفُقِ الْأَعْلَىٰ", translation: "while he was at the highest horizon." },
-    { ayah: 8, arabic: "ثُمَّ دَنَا فَتَدَلَّىٰ", translation: "Then he approached and came down," },
-    { ayah: 9, arabic: "فَكَانَ قَابَ قَوْسَيْنِ أَوْ أَدْنَىٰ", translation: "and was at a distance of two bow lengths or nearer." },
-    { ayah: 10, arabic: "فَأَوْحَىٰ إِلَىٰ عَبْدِهِ مَا أَوْحَىٰ", translation: "Then He revealed to His servant what He revealed." },
-    { ayah: 11, arabic: "مَا كَذَبَ الْفُؤَادُ مَا رَأَىٰ", translation: "The heart did not lie about what it saw." },
-    { ayah: 12, arabic: "أَفَتُمَارُونَهُ عَلَىٰ مَا يَرَىٰ", translation: "Will you then dispute with him over what he saw?" },
-    { ayah: 13, arabic: "وَلَقَدْ رَآهُ نَزْلَةً أُخْرَىٰ", translation: "And he certainly saw him in another descent," },
-    { ayah: 14, arabic: "عِندَ سِدْرَةِ الْمُنتَهَىٰ", translation: "at the Lote Tree of the Utmost Boundary," },
-    { ayah: 15, arabic: "عِندَهَا جَنَّةُ الْمَأْوَىٰ", translation: "near which is the Garden of Refuge —" },
-    { ayah: 16, arabic: "إِذْ يَغْشَى السِّدْرَةَ مَا يَغْشَىٰ", translation: "when there covered the Lote Tree that which covered it." },
-    { ayah: 17, arabic: "مَا زَاغَ الْبَصَرُ وَمَا طَغَىٰ", translation: "The eye did not swerve, nor did it transgress." },
-    { ayah: 18, arabic: "لَقَدْ رَأَىٰ مِنْ آيَاتِ رَبِّهِ الْكُبْرَىٰ", translation: "He certainly saw of the greatest signs of his Lord." },
-    { ayah: 19, arabic: "أَفَرَأَيْتُمُ اللَّاتَ وَالْعُزَّىٰ", translation: "Have you then considered al-Lat and al-Uzza," },
-    { ayah: 20, arabic: "وَمَنَاةَ الثَّالِثَةَ الْأُخْرَىٰ", translation: "and Manat, the third, the other?" },
-    { ayah: 21, arabic: "أَلَكُمُ الذَّكَرُ وَلَهُ الْأُنثَىٰ", translation: "Is the male for you and the female for Him?" },
-    { ayah: 22, arabic: "تِلْكَ إِذًا قِسْمَةٌ ضِيزَىٰ", translation: "That, then, is an unjust division." },
-    { ayah: 23, arabic: "إِنْ هِيَ إِلَّا أَسْمَاءٌ سَمَّيْتُمُوهَا أَنتُمْ وَآبَاؤُكُم مَّا أَنزَلَ اللَّهُ بِهَا مِن سُلْطَانٍ", translation: "These are nothing but names you yourselves have named — you and your fathers — for which Allah has sent down no authority." },
-    { ayah: 24, arabic: "إِن يَتَّبِعُونَ إِلَّا الظَّنَّ وَمَا تَهْوَى الْأَنفُسُ ۖ وَلَقَدْ جَاءَهُم مِّن رَّبِّهِمُ الْهُدَىٰ", translation: "They follow nothing but assumption and what their souls desire, even though guidance has come to them from their Lord." },
-    { ayah: 25, arabic: "أَمْ لِلْإِنسَانِ مَا تَمَنَّىٰ", translation: "Or is there for man whatever he wishes?" },
-    { ayah: 26, arabic: "فَلِلَّهِ الْآخِرَةُ وَالْأُولَىٰ", translation: "To Allah belongs the Hereafter and the first life." },
-    { ayah: 27, arabic: "وَكَم مِّن مَّلَكٍ فِي السَّمَاوَاتِ لَا تُغْنِي شَفَاعَتُهُمْ شَيْئًا", translation: "How many an angel in the heavens whose intercession avails nothing," },
-    { ayah: 28, arabic: "إِلَّا مِن بَعْدِ أَن يَأْذَنَ اللَّهُ لِمَن يَشَاءُ وَيَرْضَىٰ", translation: "except after Allah gives permission to whom He wills and approves." },
-    { ayah: 29, arabic: "إِنَّ الَّذِينَ لَا يُؤْمِنُونَ بِالْآخِرَةِ لَيُسَمُّونَ الْمَلَائِكَةَ تَسْمِيَةَ الْأُنثَىٰ", translation: "Those who do not believe in the Hereafter name the angels with female names." },
-    { ayah: 30, arabic: "وَمَا لَهُم بِهِ مِنْ عِلْمٍ ۖ إِن يَتَّبِعُونَ إِلَّا الظَّنَّ ۖ وَإِنَّ الظَّنَّ لَا يُغْنِي مِنَ الْحَقِّ شَيْئًا", translation: "They have no knowledge of it. They follow nothing but assumption, and assumption avails nothing against the truth." },
-    { ayah: 31, arabic: "فَأَعْرِضْ عَن مَّن تَوَلَّىٰ عَن ذِكْرِنَا وَلَمْ يُرِدْ إِلَّا الْحَيَاةَ الدُّنْيَا", translation: "So turn away from whoever turns his back on Our remembrance and desires only the life of this world." },
-    { ayah: 32, arabic: "ذَٰلِكَ مَبْلَغُهُم مِّنَ الْعِلْمِ ۚ إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ وَهُوَ أَعْلَمُ بِمَنِ اهْتَدَىٰ", translation: "That is the extent of their knowledge. Indeed, your Lord is most knowing of who strays and who is guided." },
-    { ayah: 33, arabic: "وَلِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ لِيَجْزِيَ الَّذِينَ أَسَاءُوا بِمَا عَمِلُوا وَيَجْزِيَ الَّذِينَ أَحْسَنُوا بِالْحُسْنَى", translation: "And to Allah belongs whatever is in the heavens and the earth — that He may recompense those who do evil and reward those who do good with the best." },
-    { ayah: 34, arabic: "الَّذِينَ يَجْتَنِبُونَ كَبَائِرَ الْإِثْمِ وَالْفَوَاحِشَ إِلَّا اللَّمَمَ ۚ إِنَّ رَبَّكَ وَاسِعُ الْمَغْفِرَةِ", translation: "Those who avoid the major sins and immoralities, except minor lapses — indeed, your Lord is vast in forgiveness." },
-    { ayah: 35, arabic: "هُوَ أَعْلَمُ بِكُمْ إِذْ أَنشَأَكُم مِّنَ الْأَرْضِ وَإِذْ أَنتُمْ أَجِنَّةٌ فِي بُطُونِ أُمَّهَاتِكُمْ ۖ فَلَا تُزَكُّوا أَنفُسَكُمْ ۖ هُوَ أَعْلَمُ بِمَنِ اتَّقَىٰ", translation: "He knows you best — when He produced you from the earth and when you were fetuses in the wombs of your mothers. So do not claim purity for yourselves. He knows best who is righteous." },
-    { ayah: 36, arabic: "أَفَرَأَيْتَ الَّذِي تَوَلَّىٰ", translation: "Have you seen the one who turned away —" },
-    { ayah: 37, arabic: "وَأَعْطَىٰ قَلِيلًا وَأَكْدَىٰ", translation: "who gave a little and then stopped?" },
-    { ayah: 38, arabic: "أَعِندَهُ عِلْمُ الْغَيْبِ فَهُوَ يَرَىٰ", translation: "Does he have knowledge of the unseen so he can see?" },
-    { ayah: 39, arabic: "أَمْ لَمْ يُنَبَّأْ بِمَا فِي صُحُفِ مُوسَىٰ", translation: "Or has he not been informed of what was in the scriptures of Musa," },
-    { ayah: 40, arabic: "وَإِبْرَاهِيمَ الَّذِي وَفَّىٰ", translation: "and Ibrahim who fulfilled?" },
-    { ayah: 41, arabic: "أَلَّا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ", translation: "That no bearer of burdens will bear the burden of another," },
-    { ayah: 42, arabic: "وَأَن لَّيْسَ لِلْإِنسَانِ إِلَّا مَا سَعَىٰ", translation: "and that there is nothing for a human being except what he strives for," },
-    { ayah: 43, arabic: "وَأَنَّ سَعْيَهُ سَوْفَ يُرَىٰ", translation: "and that his striving will soon be seen," },
-    { ayah: 44, arabic: "ثُمَّ يُجْزَاهُ الْجَزَاءَ الْأَوْفَىٰ", translation: "then he will be recompensed for it with the fullest recompense," },
-    { ayah: 45, arabic: "وَأَنَّ إِلَىٰ رَبِّكَ الْمُنتَهَىٰ", translation: "and that to your Lord is the final return," },
-    { ayah: 46, arabic: "وَأَنَّهُ هُوَ أَضْحَكَ وَأَبْكَىٰ", translation: "and that He is the one who makes one laugh and makes one weep," },
-    { ayah: 47, arabic: "وَأَنَّهُ هُوَ أَمَاتَ وَأَحْيَا", translation: "and that He is the one who causes death and gives life," },
-    { ayah: 48, arabic: "وَأَنَّهُ خَلَقَ الزَّوْجَيْنِ الذَّكَرَ وَالْأُنثَىٰ", translation: "and that He created the two mates, the male and the female," },
-    { ayah: 49, arabic: "مِن نُّطْفَةٍ إِذَا تُمْنَىٰ", translation: "from a sperm-drop when it is emitted," },
-    { ayah: 50, arabic: "وَأَنَّ عَلَيْهِ النَّشْأَةَ الْأُخْرَىٰ", translation: "and that upon Him is the second creation," },
-    { ayah: 51, arabic: "وَأَنَّهُ هُوَ أَغْنَىٰ وَأَقْنَىٰ", translation: "and that He is the one who enriches and suffices," },
-    { ayah: 52, arabic: "وَأَنَّهُ هُوَ رَبُّ الشِّعْرَىٰ", translation: "and that He is the Lord of Sirius," },
-    { ayah: 53, arabic: "وَأَنَّهُ أَهْلَكَ عَادًا الْأُولَىٰ", translation: "and that He destroyed the first 'Ad," },
-    { ayah: 54, arabic: "وَثَمُودَ فَمَا أَبْقَىٰ", translation: "and Thamud — He spared none —" },
-    { ayah: 55, arabic: "وَقَوْمَ نُوحٍ مِّن قَبْلُ ۖ إِنَّهُمْ كَانُوا هُمْ أَظْلَمَ وَأَطْغَىٰ", translation: "and the people of Nuh before — they were more unjust and transgressing —" },
-    { ayah: 56, arabic: "وَالْمُؤْتَفِكَةَ أَهْوَىٰ", translation: "and the overturned cities He hurled down," },
-    { ayah: 57, arabic: "فَغَشَّاهَا مَا غَشَّىٰ", translation: "and covered them with what He covered." },
-    { ayah: 58, arabic: "فَبِأَيِّ آلَاءِ رَبِّكَ تَتَمَارَىٰ", translation: "So which of the favors of your Lord do you doubt?" },
-    { ayah: 59, arabic: "هَـٰذَا نَذِيرٌ مِّنَ النُّذُرِ الْأُولَىٰ", translation: "This is a warner from among the warners of old." },
-    { ayah: 60, arabic: "أَزِفَتِ الْآزِفَةُ", translation: "The approaching Hour draws near." },
-    { ayah: 61, arabic: "لَيْسَ لَهَا مِن دُونِ اللَّهِ كَاشِفَةٌ", translation: "There is no remover of it besides Allah." },
-    { ayah: 62, arabic: "أَفَمِنْ هَـٰذَا الْحَدِيثِ تَعْجَبُونَ ۝ وَتَضْحَكُونَ وَلَا تَبْكُونَ ۝ وَأَنتُمْ سَامِدُونَ ۝ فَاسْجُدُوا لِلَّهِ وَاعْبُدُوا ۩", translation: "Do you then wonder at this discourse? And you laugh and do not weep, while you are proudly sporting? So prostrate to Allah and worship." },
-  ],
 
   diagrams: {
     sectionJourney: {
@@ -169,7 +105,6 @@ const TABS = [
   { id: "ring", label: "Ring" },
   { id: "zann", label: "Zann/'Ilm" },
   { id: "absent", label: "Absences" },
-  { id: "text", label: "Text" },
 ];
 
 function OrnamentDivider() {
@@ -208,9 +143,6 @@ function HeartVerse({ verse }: { verse: typeof SURAH_DATA.heartVerse }) {
   return (<div className="border-l-2 border-gold-500 bg-white/[0.02] rounded-r-xl px-5 py-5 space-y-3"><p className="text-2xl leading-loose text-right text-cream font-amiri" style={{ direction: "rtl" }}>{verse.arabic}</p><p className="text-sm italic text-cream/70 font-body">{verse.translation}</p><p className="text-xs text-cream-muted/60 leading-relaxed font-body">{verse.why}</p></div>);
 }
 
-function FullSurahText({ verses }: { verses: typeof SURAH_DATA.fullText }) {
-  return (<div className="space-y-5">{verses.map((v) => (<div key={v.ayah} className="space-y-1"><p className="text-xl leading-loose text-right text-cream font-amiri" style={{ direction: "rtl" }}>{v.arabic} <span className="text-sm text-cream-muted/50">﴿{v.ayah}﴾</span></p><p className="text-sm text-cream-muted/60 font-body">{v.translation}</p></div>))}</div>);
-}
 
 function SectionJourney({ data }: { data: typeof SURAH_DATA.diagrams.sectionJourney }) {
   return (<div className="space-y-5"><div><h3 className="text-lg font-serif text-cream">{data.title}</h3><p className="text-sm text-cream-muted/60 mt-1 font-body">{data.subtitle}</p></div><div className="space-y-3">{data.sections.map((sec, i) => (<div key={i} className={`rounded-xl p-4 space-y-2 border ${sec.isPivot ? "border-gold-500/40" : "border-white/[0.06]"}`} style={{ backgroundColor: sec.color + "0a", borderLeftWidth: "3px", borderLeftColor: sec.color }}><div className="flex items-center justify-between"><span className="text-sm font-semibold font-serif" style={{ color: sec.color }}>{sec.title}</span><span className="text-xs text-cream-muted/50 font-sans">Ayahs {sec.ayahs}</span></div><p className="text-sm text-cream/70 leading-relaxed font-body">{sec.desc}</p>{sec.isPivot && <div className="text-xs text-gold-500 font-medium font-sans">✦ Structural pivot</div>}</div>))}</div></div>);
@@ -262,7 +194,7 @@ export default function SurahArchitecture() {
           {activeTab === "ring" && <ChiasticRing data={d.diagrams.chiasticRing} />}
           {activeTab === "zann" && <DeductiveFunnel data={d.diagrams.deductiveFunnel} />}
           {activeTab === "absent" && <AbsenceMap data={d.diagrams.absenceMap} />}
-          {activeTab === "text" && (<div className="space-y-6"><FullSurahText verses={d.fullText} /><OrnamentDivider /><HeartVerse verse={d.heartVerse} /><AudioPlayer audio={d.audio} /></div>)}
+          <div className="space-y-6 pt-6 border-t border-white/[0.06]"><HeartVerse verse={d.heartVerse} /><AudioPlayer audio={d.audio} /></div>
         </div>
         <OrnamentDivider />
         <a href={d.reflectionUrl} className="block rounded-xl bg-gold-500/5 border border-gold-500/20 p-5 text-center space-y-1 hover:bg-gold-500/10 hover:border-gold-500/30 transition-all">

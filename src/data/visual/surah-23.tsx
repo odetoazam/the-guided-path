@@ -30,25 +30,6 @@ const SURAH_DATA = {
 
   audio: { surahNumber: 23, reciter: "ar.alafasy" },
 
-  fullText: [
-    { ayah: 1, arabic: "قَدْ أَفْلَحَ الْمُؤْمِنُونَ", translation: "The believers have already succeeded —" },
-    { ayah: 2, arabic: "الَّذِينَ هُمْ فِي صَلَاتِهِمْ خَاشِعُونَ", translation: "those who are humble in their prayer," },
-    { ayah: 3, arabic: "وَالَّذِينَ هُمْ عَنِ اللَّغْوِ مُعْرِضُونَ", translation: "and those who turn away from idle speech," },
-    { ayah: 4, arabic: "وَالَّذِينَ هُمْ لِلزَّكَاةِ فَاعِلُونَ", translation: "and those who give the purifying alms," },
-    { ayah: 10, arabic: "أُولَٰئِكَ هُمُ الْوَارِثُونَ", translation: "Those are the inheritors —" },
-    { ayah: 11, arabic: "الَّذِينَ يَرِثُونَ الْفِرْدَوْسَ هُمْ فِيهَا خَالِدُونَ", translation: "who will inherit al-Firdaus. They will abide therein eternally." },
-    { ayah: 12, arabic: "وَلَقَدْ خَلَقْنَا الْإِنسَانَ مِن سُلَالَةٍ مِّن طِينٍ", translation: "And We created the human being from an extract of clay." },
-    { ayah: 14, arabic: "ثُمَّ أَنشَأْنَاهُ خَلْقًا آخَرَ ۚ فَتَبَارَكَ اللَّهُ أَحْسَنُ الْخَالِقِينَ", translation: "Then We produced it as another creation. So blessed is Allah, the best of creators." },
-    { ayah: 53, arabic: "فَتَقَطَّعُوا أَمْرَهُم بَيْنَهُمْ زُبُرًا ۖ كُلُّ حِزْبٍ بِمَا لَدَيْهِمْ فَرِحُونَ", translation: "But they tore their affair into pieces among themselves, each faction rejoicing in what it had." },
-    { ayah: 84, arabic: "قُلْ لِّمَنِ الْأَرْضُ وَمَن فِيهَا إِن كُنتُمْ تَعْلَمُونَ", translation: "Say: To whom belongs the earth and whoever is in it, if you should know?" },
-    { ayah: 85, arabic: "سَيَقُولُونَ لِلَّهِ ۚ قُلْ أَفَلَا تَذَكَّرُونَ", translation: "They will say: 'To Allah.' Say: 'Then will you not remember?'" },
-    { ayah: 88, arabic: "قُلْ مَن بِيَدِهِ مَلَكُوتُ كُلِّ شَيْءٍ وَهُوَ يُجِيرُ وَلَا يُجَارُ عَلَيْهِ إِن كُنتُمْ تَعْلَمُونَ", translation: "Say: In whose hand is the realm of all things — and He protects while none can protect against Him — if you should know?" },
-    { ayah: 89, arabic: "سَيَقُولُونَ لِلَّهِ ۚ قُلْ فَأَنَّىٰ تُسْحَرُونَ", translation: "They will say: 'Allah's.' Say: 'Then how are you deluded?'" },
-    { ayah: 99, arabic: "حَتَّىٰ إِذَا جَاءَ أَحَدَهُمُ الْمَوْتُ قَالَ رَبِّ ارْجِعُونِ", translation: "Until, when death comes to one of them, he says: 'My Lord, send me back.'" },
-    { ayah: 102, arabic: "فَمَن ثَقُلَتْ مَوَازِينُهُ فَأُولَٰئِكَ هُمُ الْمُفْلِحُونَ", translation: "Those whose scales are heavy — it is they who are the successful." },
-    { ayah: 117, arabic: "إِنَّهُ لَا يُفْلِحُ الْكَافِرُونَ", translation: "Indeed, the disbelievers will not succeed." },
-    { ayah: 118, arabic: "وَقُل رَّبِّ اغْفِرْ وَارْحَمْ وَأَنتَ خَيْرُ الرَّاحِمِينَ", translation: "And say: My Lord, forgive and have mercy, and You are the best of the merciful." },
-  ],
 
   diagrams: {
     sectionJourney: {
@@ -127,7 +108,6 @@ const TABS = [
   { id: "mirror", label: "Mirror" },
   { id: "escalation", label: "Escalation" },
   { id: "absent", label: "Absences" },
-  { id: "text", label: "Text" },
 ];
 
 // ══════════════════════════════════════════════════════════════════════════════
@@ -245,21 +225,6 @@ function HeartVerse({ verse }: { verse: typeof SURAH_DATA.heartVerse }) {
   );
 }
 
-function FullSurahText({ verses }: { verses: typeof SURAH_DATA.fullText }) {
-  return (
-    <div className="space-y-5">
-      {verses.map((v) => (
-        <div key={v.ayah} className="space-y-1">
-          <p className="text-xl leading-loose text-right text-cream font-amiri" style={{ direction: "rtl" }}>
-            {v.arabic}{" "}
-            <span className="text-sm text-cream-muted/50">﴿{v.ayah}﴾</span>
-          </p>
-          <p className="text-sm text-cream-muted/60 font-body">{v.translation}</p>
-        </div>
-      ))}
-    </div>
-  );
-}
 
 function SectionJourney({ data }: { data: typeof SURAH_DATA.diagrams.sectionJourney }) {
   return (
@@ -451,13 +416,7 @@ export default function SurahArchitecture() {
           {activeTab === "mirror" && <ChiasticRing data={d.diagrams.chiasticRing} />}
           {activeTab === "escalation" && <DeductiveFunnel data={d.diagrams.deductiveFunnel} />}
           {activeTab === "absent" && <AbsenceMap data={d.diagrams.absenceMap} />}
-          {activeTab === "text" && (
-            <div className="space-y-6">
-              <FullSurahText verses={d.fullText} />
-              <OrnamentDivider />
-              <HeartVerse verse={d.heartVerse} />
-            </div>
-          )}
+          <div className="space-y-6 pt-6 border-t border-white/[0.06]"><HeartVerse verse={d.heartVerse} /></div>
         </div>
 
         {/* ── Go Deeper ────────────────────────────────────────────────────── */}

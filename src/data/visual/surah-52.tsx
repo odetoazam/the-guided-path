@@ -30,57 +30,6 @@ const SURAH_DATA = {
 
   audio: { surahNumber: 52, reciter: "ar.alafasy" },
 
-  fullText: [
-    { ayah: 1, arabic: "وَالطُّورِ", translation: "By the Mount," },
-    { ayah: 2, arabic: "وَكِتَابٍ مَّسْطُورٍ", translation: "and a Book inscribed," },
-    { ayah: 3, arabic: "فِي رَقٍّ مَّنشُورٍ", translation: "in parchment unrolled," },
-    { ayah: 4, arabic: "وَالْبَيْتِ الْمَعْمُورِ", translation: "and the frequented House," },
-    { ayah: 5, arabic: "وَالسَّقْفِ الْمَرْفُوعِ", translation: "and the raised ceiling," },
-    { ayah: 6, arabic: "وَالْبَحْرِ الْمَسْجُورِ", translation: "and the sea set aflame —" },
-    { ayah: 7, arabic: "إِنَّ عَذَابَ رَبِّكَ لَوَاقِعٌ", translation: "indeed, the punishment of your Lord will occur." },
-    { ayah: 8, arabic: "مَّا لَهُ مِن دَافِعٍ", translation: "There is nothing to avert it." },
-    { ayah: 9, arabic: "يَوْمَ تَمُورُ السَّمَاءُ مَوْرًا", translation: "The Day the sky will sway with circular motion," },
-    { ayah: 10, arabic: "وَتَسِيرُ الْجِبَالُ سَيْرًا", translation: "and the mountains will walk with movement." },
-    { ayah: 11, arabic: "فَوَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ", translation: "Woe, that Day, to the deniers —" },
-    { ayah: 12, arabic: "الَّذِينَ هُمْ فِي خَوْضٍ يَلْعَبُونَ", translation: "those who were in discourse, amusing themselves." },
-    { ayah: 13, arabic: "يَوْمَ يُدَعُّونَ إِلَىٰ نَارِ جَهَنَّمَ دَعًّا", translation: "The Day they are thrust toward the fire of Hell with a violent thrust." },
-    { ayah: 14, arabic: "هَـٰذِهِ النَّارُ الَّتِي كُنتُم بِهَا تُكَذِّبُونَ", translation: "'This is the Fire which you used to deny.'" },
-    { ayah: 15, arabic: "أَفَسِحْرٌ هَـٰذَا أَمْ أَنتُمْ لَا تُبْصِرُونَ", translation: "'Is this magic, or do you not see?'" },
-    { ayah: 16, arabic: "اصْلَوْهَا فَاصْبِرُوا أَوْ لَا تَصْبِرُوا سَوَاءٌ عَلَيْكُمْ ۖ إِنَّمَا تُجْزَوْنَ مَا كُنتُمْ تَعْمَلُونَ", translation: "'Burn therein. Be patient or impatient — it is all the same for you. You are only recompensed for what you used to do.'" },
-    { ayah: 17, arabic: "إِنَّ الْمُتَّقِينَ فِي جَنَّاتٍ وَنَعِيمٍ", translation: "Indeed, the righteous will be in gardens and pleasure," },
-    { ayah: 18, arabic: "فَاكِهِينَ بِمَا آتَاهُمْ رَبُّهُمْ وَوَقَاهُمْ رَبُّهُمْ عَذَابَ الْجَحِيمِ", translation: "enjoying what their Lord has given them, and their Lord protected them from the punishment of Hellfire." },
-    { ayah: 19, arabic: "كُلُوا وَاشْرَبُوا هَنِيئًا بِمَا كُنتُمْ تَعْمَلُونَ", translation: "'Eat and drink in satisfaction for what you used to do.'" },
-    { ayah: 20, arabic: "مُتَّكِئِينَ عَلَىٰ سُرُرٍ مَّصْفُوفَةٍ ۖ وَزَوَّجْنَاهُم بِحُورٍ عِينٍ", translation: "Reclining on thrones arranged in rows, and We will marry them to fair women with large, beautiful eyes." },
-    { ayah: 21, arabic: "وَالَّذِينَ آمَنُوا وَاتَّبَعَتْهُمْ ذُرِّيَّتُهُم بِإِيمَانٍ أَلْحَقْنَا بِهِمْ ذُرِّيَّتَهُمْ وَمَا أَلَتْنَاهُم مِّنْ عَمَلِهِم مِّن شَيْءٍ", translation: "And those who believed and whose descendants followed them in faith — We will join with them their descendants, and We will not deprive them of anything of their deeds." },
-    { ayah: 22, arabic: "كُلُّ امْرِئٍ بِمَا كَسَبَ رَهِينٌ", translation: "Every person is pledged for what he has earned." },
-    { ayah: 23, arabic: "وَأَمْدَدْنَاهُم بِفَاكِهَةٍ وَلَحْمٍ مِّمَّا يَشْتَهُونَ", translation: "And We will provide them with fruit and meat from whatever they desire." },
-    { ayah: 24, arabic: "يَتَنَازَعُونَ فِيهَا كَأْسًا لَّا لَغْوٌ فِيهَا وَلَا تَأْثِيمٌ", translation: "They will exchange a cup in which there is no ill speech and no sin." },
-    { ayah: 25, arabic: "وَيَطُوفُ عَلَيْهِمْ غِلْمَانٌ لَّهُمْ كَأَنَّهُمْ لُؤْلُؤٌ مَّكْنُونٌ", translation: "And there will circulate among them young attendants as if they were pearls well-protected." },
-    { ayah: 26, arabic: "وَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍ يَتَسَاءَلُونَ", translation: "And they will turn to one another, asking each other," },
-    { ayah: 27, arabic: "قَالُوا إِنَّا كُنَّا قَبْلُ فِي أَهْلِنَا مُشْفِقِينَ", translation: "'Indeed, we were previously among our people, fearful.'" },
-    { ayah: 28, arabic: "فَمَنَّ اللَّهُ عَلَيْنَا وَوَقَانَا عَذَابَ السَّمُومِ", translation: "'So Allah conferred favor upon us and protected us from the punishment of the Scorching Fire.'" },
-    { ayah: 29, arabic: "فَذَكِّرْ فَمَا أَنتَ بِنِعْمَتِ رَبِّكَ بِكَاهِنٍ وَلَا مَجْنُونٍ", translation: "So remind, for you are not, by the favor of your Lord, a soothsayer or a madman." },
-    { ayah: 30, arabic: "أَمْ يَقُولُونَ شَاعِرٌ نَّتَرَبَّصُ بِهِ رَيْبَ الْمَنُونِ", translation: "Or do they say, 'A poet — we await for him a misfortune of time'?" },
-    { ayah: 31, arabic: "قُلْ تَرَبَّصُوا فَإِنِّي مَعَكُم مِّنَ الْمُتَرَبِّصِينَ", translation: "Say, 'Wait, for indeed I am, with you, among those who wait.'" },
-    { ayah: 32, arabic: "أَمْ تَأْمُرُهُمْ أَحْلَامُهُم بِهَـٰذَا ۚ أَمْ هُمْ قَوْمٌ طَاغُونَ", translation: "Or do their minds command them to do this, or are they a transgressing people?" },
-    { ayah: 33, arabic: "أَمْ يَقُولُونَ تَقَوَّلَهُ ۚ بَل لَّا يُؤْمِنُونَ", translation: "Or do they say, 'He made it up'? Rather, they do not believe." },
-    { ayah: 34, arabic: "فَلْيَأْتُوا بِحَدِيثٍ مِّثْلِهِ إِن كَانُوا صَادِقِينَ", translation: "Then let them produce a statement like it, if they are truthful." },
-    { ayah: 35, arabic: "أَمْ خُلِقُوا مِنْ غَيْرِ شَيْءٍ أَمْ هُمُ الْخَالِقُونَ", translation: "Or were they created from nothing, or are they themselves the creators?" },
-    { ayah: 36, arabic: "أَمْ خَلَقُوا السَّمَاوَاتِ وَالْأَرْضَ ۚ بَل لَّا يُوقِنُونَ", translation: "Or did they create the heavens and the earth? Rather, they are not certain." },
-    { ayah: 37, arabic: "أَمْ عِندَهُمْ خَزَائِنُ رَبِّكَ أَمْ هُمُ الْمُصَيْطِرُونَ", translation: "Or do they possess the treasuries of your Lord, or are they the controllers?" },
-    { ayah: 38, arabic: "أَمْ لَهُمْ سُلَّمٌ يَسْتَمِعُونَ فِيهِ ۖ فَلْيَأْتِ مُسْتَمِعُهُم بِسُلْطَانٍ مُّبِينٍ", translation: "Or do they have a stairway by which they listen? Then let their listener produce a clear authority." },
-    { ayah: 39, arabic: "أَمْ لَهُ الْبَنَاتُ وَلَكُمُ الْبَنُونَ", translation: "Or does He have daughters while you have sons?" },
-    { ayah: 40, arabic: "أَمْ تَسْأَلُهُمْ أَجْرًا فَهُم مِّن مَّغْرَمٍ مُّثْقَلُونَ", translation: "Or do you ask of them a payment, so they are burdened by debt?" },
-    { ayah: 41, arabic: "أَمْ عِندَهُمُ الْغَيْبُ فَهُمْ يَكْتُبُونَ", translation: "Or do they possess the unseen, so they write it down?" },
-    { ayah: 42, arabic: "أَمْ يُرِيدُونَ كَيْدًا ۖ فَالَّذِينَ كَفَرُوا هُمُ الْمَكِيدُونَ", translation: "Or do they intend a plan? But those who disbelieve — they are the object of a plan." },
-    { ayah: 43, arabic: "أَمْ لَهُمْ إِلَـٰهٌ غَيْرُ اللَّهِ ۚ سُبْحَانَ اللَّهِ عَمَّا يُشْرِكُونَ", translation: "Or do they have a deity other than Allah? Exalted is Allah above whatever they associate with Him." },
-    { ayah: 44, arabic: "وَإِن يَرَوْا كِسْفًا مِّنَ السَّمَاءِ سَاقِطًا يَقُولُوا سَحَابٌ مَّرْكُومٌ", translation: "And if they see a piece of the sky falling, they would say, 'Clouds heaped up.'" },
-    { ayah: 45, arabic: "فَذَرْهُمْ حَتَّىٰ يُلَاقُوا يَوْمَهُمُ الَّذِي فِيهِ يُصْعَقُونَ", translation: "So leave them until they meet their Day in which they will be struck insensible." },
-    { ayah: 46, arabic: "يَوْمَ لَا يُغْنِي عَنْهُمْ كَيْدُهُمْ شَيْئًا وَلَا هُمْ يُنصَرُونَ", translation: "The Day their plan will not avail them at all, nor will they be helped." },
-    { ayah: 47, arabic: "وَإِنَّ لِلَّذِينَ ظَلَمُوا عَذَابًا دُونَ ذَٰلِكَ وَلَـٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ", translation: "And indeed, for those who have wronged is a punishment before that, but most of them do not know." },
-    { ayah: 48, arabic: "وَاصْبِرْ لِحُكْمِ رَبِّكَ فَإِنَّكَ بِأَعْيُنِنَا ۖ وَسَبِّحْ بِحَمْدِ رَبِّكَ حِينَ تَقُومُ", translation: "And be patient for the decision of your Lord, for indeed you are in Our eyes. And exalt with praise of your Lord when you arise." },
-    { ayah: 49, arabic: "وَمِنَ اللَّيْلِ فَسَبِّحْهُ وَإِدْبَارَ النُّجُومِ", translation: "And in the night glorify Him, and after the setting of the stars." },
-  ],
 
   diagrams: {
     sectionJourney: {
@@ -159,7 +108,6 @@ const TABS = [
   { id: "ring", label: "Ring" },
   { id: "rabb", label: "Rabb" },
   { id: "absent", label: "Absences" },
-  { id: "text", label: "Text" },
 ];
 
 // ══════════════════════════════════════════════════════════════════════════════
@@ -222,18 +170,6 @@ function HeartVerse({ verse }: { verse: typeof SURAH_DATA.heartVerse }) {
   );
 }
 
-function FullSurahText({ verses }: { verses: typeof SURAH_DATA.fullText }) {
-  return (
-    <div className="space-y-5">
-      {verses.map((v) => (
-        <div key={v.ayah} className="space-y-1">
-          <p className="text-xl leading-loose text-right text-cream font-amiri" style={{ direction: "rtl" }}>{v.arabic} <span className="text-sm text-cream-muted/50">﴿{v.ayah}﴾</span></p>
-          <p className="text-sm text-cream-muted/60 font-body">{v.translation}</p>
-        </div>
-      ))}
-    </div>
-  );
-}
 
 function SectionJourney({ data }: { data: typeof SURAH_DATA.diagrams.sectionJourney }) {
   return (
@@ -358,13 +294,7 @@ export default function SurahArchitecture() {
           {activeTab === "ring" && <ChiasticRing data={d.diagrams.chiasticRing} />}
           {activeTab === "rabb" && <DeductiveFunnel data={d.diagrams.deductiveFunnel} />}
           {activeTab === "absent" && <AbsenceMap data={d.diagrams.absenceMap} />}
-          {activeTab === "text" && (
-            <div className="space-y-6">
-              <FullSurahText verses={d.fullText} />
-              <OrnamentDivider />
-              <HeartVerse verse={d.heartVerse} />
-            </div>
-          )}
+          <div className="space-y-6 pt-6 border-t border-white/[0.06]"><HeartVerse verse={d.heartVerse} /></div>
         </div>
         <OrnamentDivider />
         <a href={d.reflectionUrl} className="block rounded-xl bg-gold-500/5 border border-gold-500/20 p-5 text-center space-y-1 hover:bg-gold-500/10 hover:border-gold-500/30 transition-all">

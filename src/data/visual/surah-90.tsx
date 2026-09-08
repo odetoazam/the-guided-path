@@ -30,28 +30,6 @@ const SURAH_DATA = {
 
   audio: { surahNumber: 90, reciter: "ar.alafasy" },
 
-  fullText: [
-    { ayah: 1, arabic: "\u0644\u064E\u0627 \u0623\u064F\u0642\u0652\u0633\u0650\u0645\u064F \u0628\u0650\u0647\u064E\u0670\u0630\u064E\u0627 \u0627\u0644\u0652\u0628\u064E\u0644\u064E\u062F\u0650", translation: "I do swear by this city \u2014" },
-    { ayah: 2, arabic: "\u0648\u064E\u0623\u064E\u0646\u062A\u064E \u062D\u0650\u0644\u064C\u0651 \u0628\u0650\u0647\u064E\u0670\u0630\u064E\u0627 \u0627\u0644\u0652\u0628\u064E\u0644\u064E\u062F\u0650", translation: "and you are a lawful resident of this city \u2014" },
-    { ayah: 3, arabic: "\u0648\u064E\u0648\u064E\u0627\u0644\u0650\u062F\u064D \u0648\u064E\u0645\u064E\u0627 \u0648\u064E\u0644\u064E\u062F\u064E", translation: "and by a parent and what he fathered \u2014" },
-    { ayah: 4, arabic: "\u0644\u064E\u0642\u064E\u062F\u0652 \u062E\u064E\u0644\u064E\u0642\u0652\u0646\u064E\u0627 \u0627\u0644\u0652\u0625\u0650\u0646\u0633\u064E\u0627\u0646\u064E \u0641\u0650\u064A \u0643\u064E\u0628\u064E\u062F\u064D", translation: "We created the human being in toil." },
-    { ayah: 5, arabic: "\u0623\u064E\u064A\u064E\u062D\u0652\u0633\u064E\u0628\u064F \u0623\u064E\u0646 \u0644\u064E\u0651\u0646 \u064A\u064E\u0642\u0652\u062F\u0650\u0631\u064E \u0639\u064E\u0644\u064E\u064A\u0652\u0647\u0650 \u0623\u064E\u062D\u064E\u062F\u0652", translation: "Does he think that no one has power over him?" },
-    { ayah: 6, arabic: "\u064A\u064E\u0642\u064F\u0648\u0644\u064F \u0623\u064E\u0647\u0652\u0644\u064E\u0643\u0652\u062A\u064F \u0645\u064E\u0627\u0644\u064B\u0627 \u0644\u064F\u0628\u064E\u062F\u064B\u0627", translation: "He says: 'I have spent wealth in abundance.'" },
-    { ayah: 7, arabic: "\u0623\u064E\u064A\u064E\u062D\u0652\u0633\u064E\u0628\u064F \u0623\u064E\u0646 \u0644\u064E\u0651\u0645\u0652 \u064A\u064E\u0631\u064E\u0647\u064F \u0623\u064E\u062D\u064E\u062F\u0652", translation: "Does he think no one has seen him?" },
-    { ayah: 8, arabic: "\u0623\u064E\u0644\u064E\u0645\u0652 \u0646\u064E\u062C\u0652\u0639\u064E\u0644 \u0644\u064E\u0651\u0647\u064F \u0639\u064E\u064A\u0652\u0646\u064E\u064A\u0652\u0646\u0650", translation: "Did We not make for him two eyes," },
-    { ayah: 9, arabic: "\u0648\u064E\u0644\u0650\u0633\u064E\u0627\u0646\u064B\u0627 \u0648\u064E\u0634\u064E\u0641\u064E\u062A\u064E\u064A\u0652\u0646\u0650", translation: "and a tongue and two lips," },
-    { ayah: 10, arabic: "\u0648\u064E\u0647\u064E\u062F\u064E\u064A\u0652\u0646\u064E\u0627\u0647\u064F \u0627\u0644\u0646\u064E\u0651\u062C\u0652\u062F\u064E\u064A\u0652\u0646\u0650", translation: "and shown him the two paths?" },
-    { ayah: 11, arabic: "\u0641\u064E\u0644\u064E\u0627 \u0627\u0642\u0652\u062A\u064E\u062D\u064E\u0645\u064E \u0627\u0644\u0652\u0639\u064E\u0642\u064E\u0628\u064E\u0629\u064E", translation: "But he has not charged the steep path." },
-    { ayah: 12, arabic: "\u0648\u064E\u0645\u064E\u0627 \u0623\u064E\u062F\u0652\u0631\u064E\u0627\u0643\u064E \u0645\u064E\u0627 \u0627\u0644\u0652\u0639\u064E\u0642\u064E\u0628\u064E\u0629\u064F", translation: "And what will make you know what the steep path is?" },
-    { ayah: 13, arabic: "\u0641\u064E\u0643\u064F\u0651 \u0631\u064E\u0642\u064E\u0628\u064E\u0629\u064D", translation: "It is the freeing of a neck," },
-    { ayah: 14, arabic: "\u0623\u064E\u0648\u0652 \u0625\u0650\u0637\u0652\u0639\u064E\u0627\u0645\u0652 \u0641\u0650\u064A \u064A\u064E\u0648\u0652\u0645\u064D \u0630\u0650\u064A \u0645\u064E\u0633\u0652\u063A\u064E\u0628\u064E\u0629\u064D", translation: "or feeding on a day of hunger" },
-    { ayah: 15, arabic: "\u064A\u064E\u062A\u0650\u064A\u0645\u064B\u0627 \u0630\u064E\u0627 \u0645\u064E\u0642\u0652\u0631\u064E\u0628\u064E\u0629\u064D", translation: "an orphan of near relation," },
-    { ayah: 16, arabic: "\u0623\u064E\u0648\u0652 \u0645\u0650\u0633\u0652\u0643\u0650\u064A\u0646\u064B\u0627 \u0630\u064E\u0627 \u0645\u064E\u062A\u0652\u0631\u064E\u0628\u064E\u0629\u064D", translation: "or a destitute person in the dust." },
-    { ayah: 17, arabic: "\u062B\u064F\u0645\u064E\u0651 \u0643\u064E\u0627\u0646\u064E \u0645\u0650\u0646\u064E \u0627\u0644\u064E\u0651\u0630\u0650\u064A\u0646\u064E \u0622\u0645\u064E\u0646\u064F\u0648\u0627 \u0648\u064E\u062A\u064E\u0648\u064E\u0627\u0635\u064E\u0648\u0652\u0627 \u0628\u0650\u0627\u0644\u0635\u064E\u0651\u0628\u0652\u0631\u0650 \u0648\u064E\u062A\u064E\u0648\u064E\u0627\u0635\u064E\u0648\u0652\u0627 \u0628\u0650\u0627\u0644\u0652\u0645\u064E\u0631\u0652\u062D\u064E\u0645\u064E\u0629\u0650", translation: "Then to be among those who believe and urge one another to patience and urge one another to mercy." },
-    { ayah: 18, arabic: "\u0623\u064F\u0648\u0644\u064E\u0670\u0626\u0650\u0643\u064E \u0623\u064E\u0635\u0652\u062D\u064E\u0627\u0628\u064F \u0627\u0644\u0652\u0645\u064E\u064A\u0652\u0645\u064E\u0646\u064E\u0629\u0650", translation: "Those are the companions of the right hand." },
-    { ayah: 19, arabic: "\u0648\u064E\u0627\u0644\u064E\u0651\u0630\u0650\u064A\u0646\u064E \u0643\u064E\u0641\u064E\u0631\u064F\u0648\u0627 \u0628\u0650\u0622\u064A\u064E\u0627\u062A\u0650\u0646\u064E\u0627 \u0647\u064F\u0645\u0652 \u0623\u064E\u0635\u0652\u062D\u064E\u0627\u0628\u064F \u0627\u0644\u0652\u0645\u064E\u0634\u0652\u0623\u064E\u0645\u064E\u0629\u0650", translation: "And those who disbelieve in Our signs \u2014 those are the companions of the left hand." },
-    { ayah: 20, arabic: "\u0639\u064E\u0644\u064E\u064A\u0652\u0647\u0650\u0645\u0652 \u0646\u064E\u0627\u0631\u0651 \u0645\u064F\u0651\u0624\u0652\u0635\u064E\u062F\u064E\u0629\u0652", translation: "Over them is a fire, sealed in." },
-  ],
 
   diagrams: {
     sectionJourney: {
@@ -130,7 +108,6 @@ const TABS = [
   { id: "ring", label: "Ring" },
   { id: "confrontation", label: "Confrontation" },
   { id: "absent", label: "Absences" },
-  { id: "text", label: "Text" },
 ];
 
 // ══════════════════════════════════════════════════════════════════════════════
@@ -248,21 +225,6 @@ function HeartVerse({ verse }: { verse: typeof SURAH_DATA.heartVerse }) {
   );
 }
 
-function FullSurahText({ verses }: { verses: typeof SURAH_DATA.fullText }) {
-  return (
-    <div className="space-y-5">
-      {verses.map((v) => (
-        <div key={v.ayah} className="space-y-1">
-          <p className="text-xl leading-loose text-right text-cream font-amiri" style={{ direction: "rtl" }}>
-            {v.arabic}{" "}
-            <span className="text-sm text-cream-muted/50">{"\uFD3E"}{v.ayah}{"\uFD3F"}</span>
-          </p>
-          <p className="text-sm text-cream-muted/60 font-body">{v.translation}</p>
-        </div>
-      ))}
-    </div>
-  );
-}
 
 function SectionJourney({ data }: { data: typeof SURAH_DATA.diagrams.sectionJourney }) {
   return (
@@ -454,13 +416,7 @@ export default function SurahArchitecture() {
           {activeTab === "ring" && <ChiasticRing data={d.diagrams.chiasticRing} />}
           {activeTab === "confrontation" && <DeductiveFunnel data={d.diagrams.deductiveFunnel} />}
           {activeTab === "absent" && <AbsenceMap data={d.diagrams.absenceMap} />}
-          {activeTab === "text" && (
-            <div className="space-y-6">
-              <FullSurahText verses={d.fullText} />
-              <OrnamentDivider />
-              <HeartVerse verse={d.heartVerse} />
-            </div>
-          )}
+          <div className="space-y-6 pt-6 border-t border-white/[0.06]"><HeartVerse verse={d.heartVerse} /></div>
         </div>
 
         {/* -- Go Deeper ----------------------------------------------------- */}

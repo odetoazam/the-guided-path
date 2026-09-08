@@ -30,46 +30,6 @@ const SURAH_DATA = {
 
   audio: { surahNumber: 20, reciter: "ar.alafasy" },
 
-  fullText: [
-    { ayah: 1, arabic: "طه", translation: "Ta-Ha." },
-    { ayah: 2, arabic: "مَا أَنزَلْنَا عَلَيْكَ الْقُرْآنَ لِتَشْقَىٰ", translation: "We did not send down the Quran to you so that you would suffer —" },
-    { ayah: 3, arabic: "إِلَّا تَذْكِرَةً لِّمَن يَخْشَىٰ", translation: "but only as a reminder for those who fear God —" },
-    { ayah: 4, arabic: "تَنزِيلًا مِّمَّنْ خَلَقَ الْأَرْضَ وَالسَّمَاوَاتِ الْعُلَى", translation: "a revelation from the One who created the earth and the high heavens." },
-    { ayah: 5, arabic: "الرَّحْمَٰنُ عَلَى الْعَرْشِ اسْتَوَىٰ", translation: "The Most Merciful established Himself over the Throne." },
-    { ayah: 6, arabic: "لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَمَا بَيْنَهُمَا وَمَا تَحْتَ الثَّرَىٰ", translation: "To Him belongs what is in the heavens and what is on the earth, and what is between them, and what is beneath the soil." },
-    { ayah: 7, arabic: "وَإِن تَجْهَرْ بِالْقَوْلِ فَإِنَّهُ يَعْلَمُ السِّرَّ وَأَخْفَى", translation: "And if you speak aloud — He knows the secret and what is even more hidden." },
-    { ayah: 8, arabic: "اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ ۖ لَهُ الْأَسْمَاءُ الْحُسْنَىٰ", translation: "Allah — there is no god but He. To Him belong the most beautiful names." },
-    { ayah: 9, arabic: "وَهَلْ أَتَاكَ حَدِيثُ مُوسَىٰ", translation: "And has the story of Musa reached you?" },
-    { ayah: 10, arabic: "إِذْ رَأَىٰ نَارًا فَقَالَ لِأَهْلِهِ امْكُثُوا إِنِّي آنَسْتُ نَارًا لَّعَلِّي آتِيكُم مِّنْهَا بِقَبَسٍ أَوْ أَجِدُ عَلَى النَّارِ هُدًى", translation: "When he saw a fire, he said to his family, 'Stay here. I have perceived a fire — perhaps I can bring you a torch or find guidance at the fire.'" },
-    { ayah: 11, arabic: "فَلَمَّا أَتَاهَا نُودِيَ يَا مُوسَىٰ", translation: "And when he came to it, he was called: 'O Musa!'" },
-    { ayah: 12, arabic: "إِنِّي أَنَا رَبُّكَ فَاخْلَعْ نَعْلَيْكَ ۖ إِنَّكَ بِالْوَادِ الْمُقَدَّسِ طُوًى", translation: "'Indeed, I am your Lord, so remove your sandals. You are in the sacred valley of Tuwa.'" },
-    { ayah: 13, arabic: "وَأَنَا اخْتَرْتُكَ فَاسْتَمِعْ لِمَا يُوحَىٰ", translation: "'And I have chosen you, so listen to what is revealed.'" },
-    { ayah: 14, arabic: "إِنَّنِي أَنَا اللَّهُ لَا إِلَٰهَ إِلَّا أَنَا فَاعْبُدْنِي وَأَقِمِ الصَّلَاةَ لِذِكْرِي", translation: "'Indeed, I am Allah. There is no god but Me, so worship Me and establish prayer for My remembrance.'" },
-    { ayah: 25, arabic: "قَالَ رَبِّ اشْرَحْ لِي صَدْرِي", translation: "He said, 'My Lord, expand for me my chest —'" },
-    { ayah: 26, arabic: "وَيَسِّرْ لِي أَمْرِي", translation: "'and ease for me my task —'" },
-    { ayah: 27, arabic: "وَاحْلُلْ عُقْدَةً مِّن لِّسَانِي", translation: "'and untie the knot from my tongue —'" },
-    { ayah: 28, arabic: "يَفْقَهُوا قَوْلِي", translation: "'so they may understand my speech.'" },
-    { ayah: 36, arabic: "قَالَ قَدْ أُوتِيتَ سُؤْلَكَ يَا مُوسَىٰ", translation: "He said, 'You have been given what you asked, O Musa.'" },
-    { ayah: 39, arabic: "أَنِ اقْذِفِيهِ فِي التَّابُوتِ فَاقْذِفِيهِ فِي الْيَمِّ فَلْيُلْقِهِ الْيَمُّ بِالسَّاحِلِ يَأْخُذْهُ عَدُوٌّ لِّي وَعَدُوٌّ لَّهُ ۚ وَأَلْقَيْتُ عَلَيْكَ مَحَبَّةً مِّنِّي وَلِتُصْنَعَ عَلَىٰ عَيْنِي", translation: "'Cast him into the chest and cast it into the river, and the river will throw it onto the bank. An enemy of Mine and an enemy of his will take him.' And I cast upon you love from Me, so that you would be formed under My eye." },
-    { ayah: 44, arabic: "فَقُولَا لَهُ قَوْلًا لَّيِّنًا لَّعَلَّهُ يَتَذَكَّرُ أَوْ يَخْشَىٰ", translation: "'And speak to him with gentle speech — perhaps he will remember or fear.'" },
-    { ayah: 69, arabic: "وَأَلْقِ مَا فِي يَمِينِكَ تَلْقَفْ مَا صَنَعُوا ۖ إِنَّمَا صَنَعُوا كَيْدُ سَاحِرٍ ۖ وَلَا يُفْلِحُ السَّاحِرُ حَيْثُ أَتَىٰ", translation: "'And throw what is in your right hand — it will swallow up what they have crafted. What they have crafted is but the trick of a magician, and the magician will never succeed wherever he goes.'" },
-    { ayah: 70, arabic: "فَأُلْقِيَ السَّحَرَةُ سُجَّدًا قَالُوا آمَنَّا بِرَبِّ هَارُونَ وَمُوسَىٰ", translation: "So the magicians fell in prostration, saying, 'We believe in the Lord of Harun and Musa.'" },
-    { ayah: 72, arabic: "قَالُوا لَن نُّؤْثِرَكَ عَلَىٰ مَا جَاءَنَا مِنَ الْبَيِّنَاتِ وَالَّذِي فَطَرَنَا ۖ فَاقْضِ مَا أَنتَ قَاضٍ", translation: "They said, 'We will never prefer you over the clear signs that have come to us, and over He who originated us. So decree whatever you will decree.'" },
-    { ayah: 77, arabic: "وَلَقَدْ أَوْحَيْنَا إِلَىٰ مُوسَىٰ أَنْ أَسْرِ بِعِبَادِي فَاضْرِبْ لَهُمْ طَرِيقًا فِي الْبَحْرِ يَبَسًا لَّا تَخَافُ دَرَكًا وَلَا تَخْشَىٰ", translation: "And We revealed to Musa: 'Travel by night with My servants and strike for them a dry path through the sea — you will not fear being caught, nor be afraid.'" },
-    { ayah: 83, arabic: "وَمَا أَعْجَلَكَ عَن قَوْمِكَ يَا مُوسَىٰ", translation: "'And what made you hasten ahead of your people, O Musa?'" },
-    { ayah: 94, arabic: "قَالَ يَا ابْنَ أُمَّ لَا تَأْخُذْ بِلِحْيَتِي وَلَا بِرَأْسِي ۖ إِنِّي خَشِيتُ أَن تَقُولَ فَرَّقْتَ بَيْنَ بَنِي إِسْرَائِيلَ وَلَمْ تَرْقُبْ قَوْلِي", translation: "He said, 'Son of my mother, do not seize me by my beard or my head. I feared you would say: You have divided the Children of Israel.'" },
-    { ayah: 96, arabic: "قَالَ بَصُرْتُ بِمَا لَمْ يَبْصُرُوا بِهِ فَقَبَضْتُ قَبْضَةً مِّنْ أَثَرِ الرَّسُولِ فَنَبَذْتُهَا وَكَذَٰلِكَ سَوَّلَتْ لِي نَفْسِي", translation: "He said, 'I saw what they did not see, so I took a handful from the trace of the messenger, and I cast it. And thus my soul enticed me.'" },
-    { ayah: 97, arabic: "قَالَ فَاذْهَبْ فَإِنَّ لَكَ فِي الْحَيَاةِ أَن تَقُولَ لَا مِسَاسَ ۖ وَإِنَّ لَكَ مَوْعِدًا لَّن تُخْلَفَهُ", translation: "He said, 'Then go, for your lot in this life is to say: Do not touch me. And you have an appointment you will not escape.'" },
-    { ayah: 111, arabic: "وَعَنَتِ الْوُجُوهُ لِلْحَيِّ الْقَيُّومِ ۖ وَقَدْ خَابَ مَنْ حَمَلَ ظُلْمًا", translation: "And faces will be humbled before the Ever-Living, the Self-Sustaining. And the one who carries wrongdoing will have lost." },
-    { ayah: 114, arabic: "فَتَعَالَى اللَّهُ الْمَلِكُ الْحَقُّ ۗ وَلَا تَعْجَلْ بِالْقُرْآنِ مِن قَبْلِ أَن يُقْضَىٰ إِلَيْكَ وَحْيُهُ ۖ وَقُل رَّبِّ زِدْنِي عِلْمًا", translation: "Exalted is Allah, the True King. And do not hasten with the Quran before its revelation is completed to you, and say, 'My Lord, increase me in knowledge.'" },
-    { ayah: 115, arabic: "وَلَقَدْ عَهِدْنَا إِلَىٰ آدَمَ مِن قَبْلُ فَنَسِيَ وَلَمْ نَجِدْ لَهُ عَزْمًا", translation: "And We had already taken a covenant from Adam before, but he forgot; and We found in him no determination." },
-    { ayah: 120, arabic: "فَوَسْوَسَ إِلَيْهِ الشَّيْطَانُ قَالَ يَا آدَمُ هَلْ أَدُلُّكَ عَلَىٰ شَجَرَةِ الْخُلْدِ وَمُلْكٍ لَّا يَبْلَىٰ", translation: "Then Satan whispered to him, saying, 'O Adam, shall I direct you to the tree of eternity and a kingdom that never decays?'" },
-    { ayah: 123, arabic: "قَالَ اهْبِطَا مِنْهَا جَمِيعًا ۖ بَعْضُكُمْ لِبَعْضٍ عَدُوٌّ ۖ فَإِمَّا يَأْتِيَنَّكُم مِّنِّي هُدًى فَمَنِ اتَّبَعَ هُدَايَ فَلَا يَضِلُّ وَلَا يَشْقَىٰ", translation: "He said, 'Descend from it, all of you. Whenever guidance comes to you from Me — whoever follows My guidance will neither go astray nor suffer.'" },
-    { ayah: 124, arabic: "وَمَنْ أَعْرَضَ عَن ذِكْرِي فَإِنَّ لَهُ مَعِيشَةً ضَنكًا وَنَحْشُرُهُ يَوْمَ الْقِيَامَةِ أَعْمَىٰ", translation: "And whoever turns away from My remembrance — for him is a constricted life, and We will gather him on the Day of Resurrection, blind." },
-    { ayah: 130, arabic: "فَاصْبِرْ عَلَىٰ مَا يَقُولُونَ وَسَبِّحْ بِحَمْدِ رَبِّكَ قَبْلَ طُلُوعِ الشَّمْسِ وَقَبْلَ غُرُوبِهَا ۖ وَمِنْ آنَاءِ اللَّيْلِ فَسَبِّحْ وَأَطْرَافَ النَّهَارِ لَعَلَّكَ تَرْضَىٰ", translation: "So be patient over what they say, and glorify your Lord before sunrise and before sunset, and in the hours of the night glorify Him, and at the ends of the day, that you may be content." },
-    { ayah: 131, arabic: "وَلَا تَمُدَّنَّ عَيْنَيْكَ إِلَىٰ مَا مَتَّعْنَا بِهِ أَزْوَاجًا مِّنْهُمْ زَهْرَةَ الْحَيَاةِ الدُّنْيَا لِنَفْتِنَهُمْ فِيهِ ۚ وَرِزْقُ رَبِّكَ خَيْرٌ وَأَبْقَىٰ", translation: "And do not extend your eyes toward what We have given some of them to enjoy — the flower of worldly life — by which We test them. And the provision of your Lord is better and more lasting." },
-    { ayah: 135, arabic: "قُلْ كُلٌّ مُّتَرَبِّصٌ فَتَرَبَّصُوا ۖ فَسَتَعْلَمُونَ مَنْ أَصْحَابُ الصِّرَاطِ السَّوِيِّ وَمَنِ اهْتَدَىٰ", translation: "Say, 'Everyone is waiting — so wait. And you will come to know who are the people of the straight path and who is truly guided.'" },
-  ],
 
   diagrams: {
     sectionJourney: {
@@ -114,7 +74,7 @@ const SURAH_DATA = {
       title: "The Dhikr Thread",
       subtitle: "Remembrance — the surah's keyword — appears at every structural turning point",
       layers: [
-        { depth: 1, label: "The Frame", ayah: "3", arabic: "تَذْكِرَةً لِّمَن يَخْشَىٰ", desc: "The Quran is a tadhkirah — a reminder — for those who fear God. The word dhikr is established as the surah's governing concern in its third ayah.", color: "#4ecdc4" },
+        { depth: 1, label: "The Frame", ayah: "3", arabic: "تَذْكِرَةً لِّمَن يَخْشَىٰ", desc: "The Quran is a tadhkirah — a reminder — for those who fear God. The word dhikr is established as the surah's governing concern in its third ayah.", color: "#4ecdc4" },
         { depth: 2, label: "The Anchor", ayah: "14", arabic: "وَأَقِمِ الصَّلَاةَ لِذِكْرِي", desc: "Establish prayer for My remembrance — li-dhikri. The burning bush commissioning places prayer as the instrument of remembrance. The surah's thematic anchor in miniature.", color: "#9b7fd4" },
         { depth: 3, label: "Pharaoh's Door", ayah: "44", arabic: "لَّعَلَّهُ يَتَذَكَّرُ أَوْ يَخْشَىٰ", desc: "Perhaps he will remember — yatadhakkaru. The door of remembrance is left open even for a tyrant. The same root, the same possibility, extended to the worst human being in the narrative.", color: "#e07a8a" },
         { depth: 4, label: "The Forgetting", ayah: "115", arabic: "فَنَسِيَ وَلَمْ نَجِدْ لَهُ عَزْمًا", desc: "Adam forgot — nasiya. The opposite of dhikr. The first human being forgot the first covenant. Forgetting is not a modern problem — it is the original human condition.", color: "#C9A84C" },
@@ -151,7 +111,6 @@ const TABS = [
   { id: "ring", label: "Ring" },
   { id: "dhikr", label: "Dhikr" },
   { id: "absent", label: "Absences" },
-  { id: "text", label: "Text" },
 ];
 
 // ══════════════════════════════════════════════════════════════════════════════
@@ -269,21 +228,6 @@ function HeartVerse({ verse }: { verse: typeof SURAH_DATA.heartVerse }) {
   );
 }
 
-function FullSurahText({ verses }: { verses: typeof SURAH_DATA.fullText }) {
-  return (
-    <div className="space-y-5">
-      {verses.map((v) => (
-        <div key={v.ayah} className="space-y-1">
-          <p className="text-xl leading-loose text-right text-cream font-amiri" style={{ direction: "rtl" }}>
-            {v.arabic}{" "}
-            <span className="text-sm text-cream-muted/50">﴿{v.ayah}﴾</span>
-          </p>
-          <p className="text-sm text-cream-muted/60 font-body">{v.translation}</p>
-        </div>
-      ))}
-    </div>
-  );
-}
 
 function SectionJourney({ data }: { data: typeof SURAH_DATA.diagrams.sectionJourney }) {
   return (
@@ -475,13 +419,7 @@ export default function SurahArchitecture() {
           {activeTab === "ring" && <ChiasticRing data={d.diagrams.chiasticRing} />}
           {activeTab === "dhikr" && <DeductiveFunnel data={d.diagrams.deductiveFunnel} />}
           {activeTab === "absent" && <AbsenceMap data={d.diagrams.absenceMap} />}
-          {activeTab === "text" && (
-            <div className="space-y-6">
-              <FullSurahText verses={d.fullText} />
-              <OrnamentDivider />
-              <HeartVerse verse={d.heartVerse} />
-            </div>
-          )}
+          <div className="space-y-6 pt-6 border-t border-white/[0.06]"><HeartVerse verse={d.heartVerse} /></div>
         </div>
 
         {/* ── Go Deeper ────────────────────────────────────────────────────── */}

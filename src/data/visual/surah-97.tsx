@@ -22,7 +22,7 @@ const SURAH_DATA = {
 
   sciencesActive: [{"key":"ijaz","english":"Inimitability"},{"key":"balaghah","english":"Rhetoric"},{"key":"sarf","english":"Morphology"}],
   heartVerse: {
-    arabic: "لَيْلَةُ الْقَدْرِ خَيْرٌ مِّنْ أَلْفِ شَهْرٍ",
+    arabic: "لَيْلَةُ الْقَدْرِ خَيْرٌ مِّنْ أَلْفِ شَهْرٍ",
     ayahRef: "97:3",
     translation: "The Night of Al-Qadr is better than a thousand months.",
     why: "A single night set against eighty-three years of human life — and declared greater. The comparison restructures the mathematics of hope. The night's value does not come from what the worshipper brings to it. It comes from what God has placed in it.",
@@ -30,13 +30,6 @@ const SURAH_DATA = {
 
   audio: { surahNumber: 97, reciter: "ar.alafasy" },
 
-  fullText: [
-    { ayah: 1, arabic: "إِنَّا أَنزَلْنَاهُ فِي لَيْلَةِ الْقَدْرِ", translation: "Indeed, We sent it down in the Night of Al-Qadr." },
-    { ayah: 2, arabic: "وَمَا أَدْرَاكَ مَا لَيْلَةُ الْقَدْرِ", translation: "And what will make you know what the Night of Al-Qadr is?" },
-    { ayah: 3, arabic: "لَيْلَةُ الْقَدْرِ خَيْرٌ مِّنْ أَلْفِ شَهْرٍ", translation: "The Night of Al-Qadr is better than a thousand months." },
-    { ayah: 4, arabic: "تَنَزَّلُ الْمَلَائِكَةُ وَالرُّوحُ فِيهَا بِإِذْنِ رَبِّهِم مِّن كُلِّ أَمْرٍ", translation: "The angels and the Spirit descend in it, by the permission of their Lord, with every matter decreed." },
-    { ayah: 5, arabic: "سَلَامٌ هِيَ حَتَّىٰ مَطْلَعِ الْفَجْرِ", translation: "Peace it is, until the emergence of dawn." },
-  ],
 
   diagrams: {
     sectionJourney: {
@@ -74,7 +67,7 @@ const SURAH_DATA = {
       subtitle: "Each ayah answers at a different level — rank, activity, experience",
       layers: [
         { depth: 1, label: "The Event", ayah: "1", arabic: "إِنَّا أَنزَلْنَاهُ فِي لَيْلَةِ الْقَدْرِ", desc: "Revelation happened, and it happened here. The unnamed 'it' creates a gravitational pull — the Quran is so central it needs no introduction.", color: "#4ecdc4" },
-        { depth: 2, label: "The Rank", ayah: "3", arabic: "خَيْرٌ مِّنْ أَلْفِ شَهْرٍ", desc: "Where the night stands relative to human time. A thousand months — eighty-three years — a full human lifespan. This single night exceeds it. The mathematics of hope restructured.", color: "#C9A84C" },
+        { depth: 2, label: "The Rank", ayah: "3", arabic: "خَيْرٌ مِّنْ أَلْفِ شَهْرٍ", desc: "Where the night stands relative to human time. A thousand months — eighty-three years — a full human lifespan. This single night exceeds it. The mathematics of hope restructured.", color: "#C9A84C" },
         { depth: 3, label: "The Activity", ayah: "4", arabic: "تَنَزَّلُ الْمَلَائِكَةُ وَالرُّوحُ فِيهَا", desc: "What is happening in the night — an unending procession of angels, Jibreel among them, carrying every decreed matter. The sky as highway. The gates of heaven remaining open from dusk to dawn.", color: "#9b7fd4" },
         { depth: 4, label: "The Experience", ayah: "5", arabic: "سَلَامٌ هِيَ حَتَّىٰ مَطْلَعِ الْفَجْرِ", desc: "What it feels like to be inside the night — peace. Salam placed first for emphasis. The night is peace before it is anything else. A nominal sentence conveying permanence: the night is peace.", color: "#e07a8a" },
       ],
@@ -109,7 +102,6 @@ const TABS = [
   { id: "frame", label: "Frame" },
   { id: "layers", label: "Layers" },
   { id: "absent", label: "Absences" },
-  { id: "text", label: "Text" },
 ];
 
 // ══════════════════════════════════════════════════════════════════════════════
@@ -227,21 +219,6 @@ function HeartVerse({ verse }: { verse: typeof SURAH_DATA.heartVerse }) {
   );
 }
 
-function FullSurahText({ verses }: { verses: typeof SURAH_DATA.fullText }) {
-  return (
-    <div className="space-y-5">
-      {verses.map((v) => (
-        <div key={v.ayah} className="space-y-1">
-          <p className="text-xl leading-loose text-right text-cream font-amiri" style={{ direction: "rtl" }}>
-            {v.arabic}{" "}
-            <span className="text-sm text-cream-muted/50">﴿{v.ayah}﴾</span>
-          </p>
-          <p className="text-sm text-cream-muted/60 font-body">{v.translation}</p>
-        </div>
-      ))}
-    </div>
-  );
-}
 
 function SectionJourney({ data }: { data: typeof SURAH_DATA.diagrams.sectionJourney }) {
   return (
@@ -433,13 +410,7 @@ export default function SurahArchitecture() {
           {activeTab === "frame" && <ChiasticRing data={d.diagrams.chiasticRing} />}
           {activeTab === "layers" && <DeductiveFunnel data={d.diagrams.deductiveFunnel} />}
           {activeTab === "absent" && <AbsenceMap data={d.diagrams.absenceMap} />}
-          {activeTab === "text" && (
-            <div className="space-y-6">
-              <FullSurahText verses={d.fullText} />
-              <OrnamentDivider />
-              <HeartVerse verse={d.heartVerse} />
-            </div>
-          )}
+          <div className="space-y-6 pt-6 border-t border-white/[0.06]"><HeartVerse verse={d.heartVerse} /></div>
         </div>
 
         {/* ── Go Deeper ────────────────────────────────────────────────────── */}

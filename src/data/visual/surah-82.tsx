@@ -30,27 +30,6 @@ const SURAH_DATA = {
 
   audio: { surahNumber: 82, reciter: "ar.alafasy" },
 
-  fullText: [
-    { ayah: 1, arabic: "إِذَا السَّمَاءُ انفَطَرَتْ", translation: "When the sky breaks apart," },
-    { ayah: 2, arabic: "وَإِذَا الْكَوَاكِبُ انتَثَرَتْ", translation: "and when the stars scatter," },
-    { ayah: 3, arabic: "وَإِذَا الْبِحَارُ فُجِّرَتْ", translation: "and when the seas erupt," },
-    { ayah: 4, arabic: "وَإِذَا الْقُبُورُ بُعْثِرَتْ", translation: "and when the graves are overturned —" },
-    { ayah: 5, arabic: "عَلِمَتْ نَفْسٌ مَّا قَدَّمَتْ وَأَخَّرَتْ", translation: "every soul will know what it has sent ahead and what it has held back." },
-    { ayah: 6, arabic: "يَا أَيُّهَا الْإِنسَانُ مَا غَرَّكَ بِرَبِّكَ الْكَرِيمِ", translation: "O mankind, what has deceived you concerning your Lord, the Generous?" },
-    { ayah: 7, arabic: "الَّذِي خَلَقَكَ فَسَوَّاكَ فَعَدَلَكَ", translation: "He who created you, proportioned you, and balanced you," },
-    { ayah: 8, arabic: "فِي أَيِّ صُورَةٍ مَّا شَاءَ رَكَّبَكَ", translation: "and assembled you in whatever form He willed." },
-    { ayah: 9, arabic: "كَلَّا بَلْ تُكَذِّبُونَ بِالدِّينِ", translation: "But you deny the Judgment." },
-    { ayah: 10, arabic: "وَإِنَّ عَلَيْكُمْ لَحَافِظِينَ", translation: "And indeed, over you are guardians —" },
-    { ayah: 11, arabic: "كِرَامًا كَاتِبِينَ", translation: "noble ones, recording." },
-    { ayah: 12, arabic: "يَعْلَمُونَ مَا تَفْعَلُونَ", translation: "They know what you do." },
-    { ayah: 13, arabic: "إِنَّ الْأَبْرَارَ لَفِي نَعِيمٍ", translation: "Indeed, the righteous will be in bliss," },
-    { ayah: 14, arabic: "وَإِنَّ الْفُجَّارَ لَفِي جَحِيمٍ", translation: "and indeed, the wicked will be in hellfire." },
-    { ayah: 15, arabic: "يَصْلَوْنَهَا يَوْمَ الدِّينِ", translation: "They will burn therein on the Day of Judgment," },
-    { ayah: 16, arabic: "وَمَا هُمْ عَنْهَا بِغَائِبِينَ", translation: "and they will not be absent from it." },
-    { ayah: 17, arabic: "وَمَا أَدْرَاكَ مَا يَوْمُ الدِّينِ", translation: "And what will make you realize what the Day of Judgment is?" },
-    { ayah: 18, arabic: "ثُمَّ مَا أَدْرَاكَ مَا يَوْمُ الدِّينِ", translation: "Then — what will make you realize what the Day of Judgment is?" },
-    { ayah: 19, arabic: "يَوْمَ لَا تَمْلِكُ نَفْسٌ لِّنَفْسٍ شَيْئًا ۖ وَالْأَمْرُ يَوْمَئِذٍ لِّلَّهِ", translation: "The Day when no soul will have power over another soul in any way — and the command that Day will belong entirely to Allah." },
-  ],
 
   diagrams: {
     sectionJourney: {
@@ -123,7 +102,6 @@ const TABS = [
   { id: "frame", label: "Frame" },
   { id: "thread", label: "K-R-M" },
   { id: "absent", label: "Absences" },
-  { id: "text", label: "Text" },
 ];
 
 // ══════════════════════════════════════════════════════════════════════════════
@@ -241,21 +219,6 @@ function HeartVerse({ verse }: { verse: typeof SURAH_DATA.heartVerse }) {
   );
 }
 
-function FullSurahText({ verses }: { verses: typeof SURAH_DATA.fullText }) {
-  return (
-    <div className="space-y-5">
-      {verses.map((v) => (
-        <div key={v.ayah} className="space-y-1">
-          <p className="text-xl leading-loose text-right text-cream font-amiri" style={{ direction: "rtl" }}>
-            {v.arabic}{" "}
-            <span className="text-sm text-cream-muted/50">﴿{v.ayah}﴾</span>
-          </p>
-          <p className="text-sm text-cream-muted/60 font-body">{v.translation}</p>
-        </div>
-      ))}
-    </div>
-  );
-}
 
 function SectionJourney({ data }: { data: typeof SURAH_DATA.diagrams.sectionJourney }) {
   return (
@@ -447,13 +410,7 @@ export default function SurahArchitecture() {
           {activeTab === "frame" && <ChiasticRing data={d.diagrams.chiasticRing} />}
           {activeTab === "thread" && <DeductiveFunnel data={d.diagrams.deductiveFunnel} />}
           {activeTab === "absent" && <AbsenceMap data={d.diagrams.absenceMap} />}
-          {activeTab === "text" && (
-            <div className="space-y-6">
-              <FullSurahText verses={d.fullText} />
-              <OrnamentDivider />
-              <HeartVerse verse={d.heartVerse} />
-            </div>
-          )}
+          <div className="space-y-6 pt-6 border-t border-white/[0.06]"><HeartVerse verse={d.heartVerse} /></div>
         </div>
 
         {/* ── Go Deeper ────────────────────────────────────────────────────── */}

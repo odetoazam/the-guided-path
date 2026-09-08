@@ -30,37 +30,6 @@ const SURAH_DATA = {
 
   audio: { surahNumber: 81, reciter: "ar.alafasy" },
 
-  fullText: [
-    { ayah: 1, arabic: "إِذَا الشَّمْسُ كُوِّرَتْ", translation: "When the sun is folded up," },
-    { ayah: 2, arabic: "وَإِذَا النُّجُومُ انكَدَرَتْ", translation: "and when the stars fall and scatter," },
-    { ayah: 3, arabic: "وَإِذَا الْجِبَالُ سُيِّرَتْ", translation: "and when the mountains are set in motion," },
-    { ayah: 4, arabic: "وَإِذَا الْعِشَارُ عُطِّلَتْ", translation: "and when the pregnant camels are abandoned," },
-    { ayah: 5, arabic: "وَإِذَا الْوُحُوشُ حُشِرَتْ", translation: "and when the wild beasts are gathered," },
-    { ayah: 6, arabic: "وَإِذَا الْبِحَارُ سُجِّرَتْ", translation: "and when the seas are set ablaze," },
-    { ayah: 7, arabic: "وَإِذَا النُّفُوسُ زُوِّجَتْ", translation: "and when the souls are paired," },
-    { ayah: 8, arabic: "وَإِذَا الْمَوْءُودَةُ سُئِلَتْ", translation: "and when the infant girl buried alive is asked —" },
-    { ayah: 9, arabic: "بِأَيِّ ذَنبٍ قُتِلَتْ", translation: "for what sin were you killed?" },
-    { ayah: 10, arabic: "وَإِذَا الصُّحُفُ نُشِرَتْ", translation: "And when the scrolls are spread open," },
-    { ayah: 11, arabic: "وَإِذَا السَّمَاءُ كُشِطَتْ", translation: "and when the sky is stripped away," },
-    { ayah: 12, arabic: "وَإِذَا الْجَحِيمُ سُعِّرَتْ", translation: "and when Hellfire is set ablaze," },
-    { ayah: 13, arabic: "وَإِذَا الْجَنَّةُ أُزْلِفَتْ", translation: "and when Paradise is brought near —" },
-    { ayah: 14, arabic: "عَلِمَتْ نَفْسٌ مَّا أَحْضَرَتْ", translation: "every soul will know what it has brought forward." },
-    { ayah: 15, arabic: "فَلَا أُقْسِمُ بِالْخُنَّسِ", translation: "I swear by the retreating stars —" },
-    { ayah: 16, arabic: "الْجَوَارِ الْكُنَّسِ", translation: "those that move and hide —" },
-    { ayah: 17, arabic: "وَاللَّيْلِ إِذَا عَسْعَسَ", translation: "and by the night as it draws in," },
-    { ayah: 18, arabic: "وَالصُّبْحِ إِذَا تَنَفَّسَ", translation: "and by the dawn as it breathes —" },
-    { ayah: 19, arabic: "إِنَّهُ لَقَوْلُ رَسُولٍ كَرِيمٍ", translation: "indeed, this is the word of a noble messenger," },
-    { ayah: 20, arabic: "ذِي قُوَّةٍ عِندَ ذِي الْعَرْشِ مَكِينٍ", translation: "possessing power, secure in rank before the Lord of the Throne," },
-    { ayah: 21, arabic: "مُّطَاعٍ ثَمَّ أَمِينٍ", translation: "obeyed there, and trustworthy." },
-    { ayah: 22, arabic: "وَمَا صَاحِبُكُم بِمَجْنُونٍ", translation: "Your companion is not possessed." },
-    { ayah: 23, arabic: "وَلَقَدْ رَآهُ بِالْأُفُقِ الْمُبِينِ", translation: "He saw him on the clear horizon." },
-    { ayah: 24, arabic: "وَمَا هُوَ عَلَى الْغَيْبِ بِضَنِينٍ", translation: "And he is not withholding of the unseen." },
-    { ayah: 25, arabic: "وَمَا هُوَ بِقَوْلِ شَيْطَانٍ رَّجِيمٍ", translation: "And this is not the word of an accursed devil." },
-    { ayah: 26, arabic: "فَأَيْنَ تَذْهَبُونَ", translation: "So where are you going?" },
-    { ayah: 27, arabic: "إِنْ هُوَ إِلَّا ذِكْرٌ لِّلْعَالَمِينَ", translation: "It is nothing but a reminder for all creation —" },
-    { ayah: 28, arabic: "لِمَن شَاءَ مِنكُمْ أَن يَسْتَقِيمَ", translation: "for whoever among you wills to walk straight." },
-    { ayah: 29, arabic: "وَمَا تَشَاءُونَ إِلَّا أَن يَشَاءَ اللَّهُ رَبُّ الْعَالَمِينَ", translation: "But you cannot will unless Allah wills — the Lord of all creation." },
-  ],
 
   diagrams: {
     sectionJourney: {
@@ -139,7 +108,6 @@ const TABS = [
   { id: "mirror", label: "Mirror" },
   { id: "descent", label: "Descent" },
   { id: "absent", label: "Absences" },
-  { id: "text", label: "Text" },
 ];
 
 // ══════════════════════════════════════════════════════════════════════════════
@@ -257,21 +225,6 @@ function HeartVerse({ verse }: { verse: typeof SURAH_DATA.heartVerse }) {
   );
 }
 
-function FullSurahText({ verses }: { verses: typeof SURAH_DATA.fullText }) {
-  return (
-    <div className="space-y-5">
-      {verses.map((v) => (
-        <div key={v.ayah} className="space-y-1">
-          <p className="text-xl leading-loose text-right text-cream font-amiri" style={{ direction: "rtl" }}>
-            {v.arabic}{" "}
-            <span className="text-sm text-cream-muted/50">﴿{v.ayah}﴾</span>
-          </p>
-          <p className="text-sm text-cream-muted/60 font-body">{v.translation}</p>
-        </div>
-      ))}
-    </div>
-  );
-}
 
 function SectionJourney({ data }: { data: typeof SURAH_DATA.diagrams.sectionJourney }) {
   return (
@@ -463,13 +416,7 @@ export default function SurahArchitecture() {
           {activeTab === "mirror" && <ChiasticRing data={d.diagrams.chiasticRing} />}
           {activeTab === "descent" && <DeductiveFunnel data={d.diagrams.deductiveFunnel} />}
           {activeTab === "absent" && <AbsenceMap data={d.diagrams.absenceMap} />}
-          {activeTab === "text" && (
-            <div className="space-y-6">
-              <FullSurahText verses={d.fullText} />
-              <OrnamentDivider />
-              <HeartVerse verse={d.heartVerse} />
-            </div>
-          )}
+          <div className="space-y-6 pt-6 border-t border-white/[0.06]"><HeartVerse verse={d.heartVerse} /></div>
         </div>
 
         {/* ── Go Deeper ────────────────────────────────────────────────────── */}

@@ -30,23 +30,6 @@ const SURAH_DATA = {
 
   audio: { surahNumber: 29, reciter: "ar.alafasy" },
 
-  fullText: [
-    { ayah: 1, arabic: "الم", translation: "Alif, Lam, Mim." },
-    { ayah: 2, arabic: "أَحَسِبَ النَّاسُ أَن يُتْرَكُوا أَن يَقُولُوا آمَنَّا وَهُمْ لَا يُفْتَنُونَ", translation: "Do people think they will be left alone because they say 'We believe' and not be tested?" },
-    { ayah: 3, arabic: "وَلَقَدْ فَتَنَّا الَّذِينَ مِن قَبْلِهِمْ ۖ فَلَيَعْلَمَنَّ اللَّهُ الَّذِينَ صَدَقُوا وَلَيَعْلَمَنَّ الْكَاذِبِينَ", translation: "We certainly tested those before them. And Allah will surely distinguish those who are truthful from those who are liars." },
-    { ayah: 6, arabic: "وَمَن جَاهَدَ فَإِنَّمَا يُجَاهِدُ لِنَفْسِهِ ۚ إِنَّ اللَّهَ لَغَنِيٌّ عَنِ الْعَالَمِينَ", translation: "And whoever strives, strives only for his own soul. Indeed, Allah is free of need from all creation." },
-    { ayah: 8, arabic: "وَوَصَّيْنَا الْإِنسَانَ بِوَالِدَيْهِ حُسْنًا", translation: "And We have enjoined upon humanity goodness toward parents." },
-    { ayah: 14, arabic: "وَلَقَدْ أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِ فَلَبِثَ فِيهِمْ أَلْفَ سَنَةٍ إِلَّا خَمْسِينَ عَامًا", translation: "And We certainly sent Nuh to his people, and he remained among them a thousand years minus fifty." },
-    { ayah: 25, arabic: "إِنَّمَا اتَّخَذْتُم مِّن دُونِ اللَّهِ أَوْثَانًا مَّوَدَّةَ بَيْنِكُمْ فِي الْحَيَاةِ الدُّنْيَا", translation: "You have taken idols besides Allah only as a bond of affection between you in the life of this world." },
-    { ayah: 41, arabic: "مَثَلُ الَّذِينَ اتَّخَذُوا مِن دُونِ اللَّهِ أَوْلِيَاءَ كَمَثَلِ الْعَنكَبُوتِ اتَّخَذَتْ بَيْتًا", translation: "The example of those who take protectors other than Allah is like that of the spider who takes a home." },
-    { ayah: 43, arabic: "وَتِلْكَ الْأَمْثَالُ نَضْرِبُهَا لِلنَّاسِ ۖ وَمَا يَعْقِلُهَا إِلَّا الْعَالِمُونَ", translation: "And these examples — We present them to the people, but none will understand them except those of knowledge." },
-    { ayah: 45, arabic: "اتْلُ مَا أُوحِيَ إِلَيْكَ مِنَ الْكِتَابِ وَأَقِمِ الصَّلَاةَ", translation: "Recite what has been revealed to you of the Book and establish prayer." },
-    { ayah: 46, arabic: "وَلَا تُجَادِلُوا أَهْلَ الْكِتَابِ إِلَّا بِالَّتِي هِيَ أَحْسَنُ", translation: "And do not argue with the People of the Book except in a way that is best." },
-    { ayah: 56, arabic: "يَا عِبَادِيَ الَّذِينَ آمَنُوا إِنَّ أَرْضِي وَاسِعَةٌ فَإِيَّايَ فَاعْبُدُونِ", translation: "O My servants who have believed, indeed My earth is spacious, so worship Me alone." },
-    { ayah: 57, arabic: "كُلُّ نَفْسٍ ذَائِقَةُ الْمَوْتِ ۖ ثُمَّ إِلَيْنَا تُرْجَعُونَ", translation: "Every soul will taste death. Then to Us will you be returned." },
-    { ayah: 64, arabic: "وَمَا هَـٰذِهِ الْحَيَاةُ الدُّنْيَا إِلَّا لَهْوٌ وَلَعِبٌ", translation: "And this worldly life is nothing but amusement and diversion." },
-    { ayah: 69, arabic: "وَالَّذِينَ جَاهَدُوا فِينَا لَنَهْدِيَنَّهُمْ سُبُلَنَا ۚ وَإِنَّ اللَّهَ لَمَعَ الْمُحْسِنِينَ", translation: "And those who strive for Us — We will surely guide them to Our ways. And indeed, Allah is with those who do good." },
-  ],
 
   diagrams: {
     sectionJourney: {
@@ -128,7 +111,6 @@ const TABS = [
   { id: "ring", label: "Ring" },
   { id: "smelting", label: "Smelting" },
   { id: "absent", label: "Absences" },
-  { id: "text", label: "Text" },
 ];
 
 // ══════════════════════════════════════════════════════════════════════════════
@@ -246,21 +228,6 @@ function HeartVerse({ verse }: { verse: typeof SURAH_DATA.heartVerse }) {
   );
 }
 
-function FullSurahText({ verses }: { verses: typeof SURAH_DATA.fullText }) {
-  return (
-    <div className="space-y-5">
-      {verses.map((v) => (
-        <div key={v.ayah} className="space-y-1">
-          <p className="text-xl leading-loose text-right text-cream font-amiri" style={{ direction: "rtl" }}>
-            {v.arabic}{" "}
-            <span className="text-sm text-cream-muted/50">﴿{v.ayah}﴾</span>
-          </p>
-          <p className="text-sm text-cream-muted/60 font-body">{v.translation}</p>
-        </div>
-      ))}
-    </div>
-  );
-}
 
 function SectionJourney({ data }: { data: typeof SURAH_DATA.diagrams.sectionJourney }) {
   return (
@@ -452,13 +419,7 @@ export default function SurahArchitecture() {
           {activeTab === "ring" && <ChiasticRing data={d.diagrams.chiasticRing} />}
           {activeTab === "smelting" && <DeductiveFunnel data={d.diagrams.deductiveFunnel} />}
           {activeTab === "absent" && <AbsenceMap data={d.diagrams.absenceMap} />}
-          {activeTab === "text" && (
-            <div className="space-y-6">
-              <FullSurahText verses={d.fullText} />
-              <OrnamentDivider />
-              <HeartVerse verse={d.heartVerse} />
-            </div>
-          )}
+          <div className="space-y-6 pt-6 border-t border-white/[0.06]"><HeartVerse verse={d.heartVerse} /></div>
         </div>
 
         {/* ── Go Deeper ────────────────────────────────────────────────────── */}

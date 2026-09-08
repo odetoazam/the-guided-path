@@ -30,36 +30,6 @@ const SURAH_DATA = {
 
   audio: { surahNumber: 71, reciter: "ar.alafasy" },
 
-  fullText: [
-    { ayah: 1, arabic: "إِنَّا أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِ أَنْ أَنذِرْ قَوْمَكَ مِن قَبْلِ أَن يَأْتِيَهُمْ عَذَابٌ أَلِيمٌ", translation: "Indeed, We sent Nuh to his people: 'Warn your people before there comes to them a painful punishment.'" },
-    { ayah: 2, arabic: "قَالَ يَا قَوْمِ إِنِّي لَكُمْ نَذِيرٌ مُّبِينٌ", translation: "He said: 'O my people, I am to you a clear warner.'" },
-    { ayah: 3, arabic: "أَنِ اعْبُدُوا اللَّهَ وَاتَّقُوهُ وَأَطِيعُونِ", translation: "'Worship Allah, fear Him, and obey me.'" },
-    { ayah: 4, arabic: "يَغْفِرْ لَكُم مِّن ذُنُوبِكُمْ وَيُؤَخِّرْكُمْ إِلَىٰ أَجَلٍ مُّسَمًّى ۚ إِنَّ أَجَلَ اللَّهِ إِذَا جَاءَ لَا يُؤَخَّرُ ۖ لَوْ كُنتُمْ تَعْلَمُونَ", translation: "'He will forgive your sins and delay you until an appointed term. Indeed, the time set by Allah, when it comes, cannot be delayed — if only you knew.'" },
-    { ayah: 5, arabic: "قَالَ رَبِّ إِنِّي دَعَوْتُ قَوْمِي لَيْلًا وَنَهَارًا", translation: "He said: 'My Lord, I invited my people night and day.'" },
-    { ayah: 6, arabic: "فَلَمْ يَزِدْهُمْ دُعَائِي إِلَّا فِرَارًا", translation: "'But my calling only increased them in flight.'" },
-    { ayah: 7, arabic: "وَإِنِّي كُلَّمَا دَعَوْتُهُمْ لِتَغْفِرَ لَهُمْ جَعَلُوا أَصَابِعَهُمْ فِي آذَانِهِمْ وَاسْتَغْشَوْا ثِيَابَهُمْ وَأَصَرُّوا وَاسْتَكْبَرُوا اسْتِكْبَارًا", translation: "'Every time I invited them so that You might forgive them, they put their fingers in their ears, covered themselves with their garments, persisted, and were arrogant with great arrogance.'" },
-    { ayah: 8, arabic: "ثُمَّ إِنِّي دَعَوْتُهُمْ جِهَارًا", translation: "'Then I called them publicly.'" },
-    { ayah: 9, arabic: "ثُمَّ إِنِّي أَعْلَنتُ لَهُمْ وَأَسْرَرْتُ لَهُمْ إِسْرَارًا", translation: "'Then I announced to them in public and confided to them privately.'" },
-    { ayah: 10, arabic: "فَقُلْتُ اسْتَغْفِرُوا رَبَّكُمْ إِنَّهُ كَانَ غَفَّارًا", translation: "'I said: Ask forgiveness of your Lord — indeed, He is ever a Perpetual Forgiver.'" },
-    { ayah: 11, arabic: "يُرْسِلِ السَّمَاءَ عَلَيْكُم مِّدْرَارًا", translation: "'He will send rain upon you in abundance.'" },
-    { ayah: 12, arabic: "وَيُمْدِدْكُم بِأَمْوَالٍ وَبَنِينَ وَيَجْعَل لَّكُمْ جَنَّاتٍ وَيَجْعَل لَّكُمْ أَنْهَارًا", translation: "'And give you increase in wealth and children, and provide for you gardens and rivers.'" },
-    { ayah: 13, arabic: "مَّا لَكُمْ لَا تَرْجُونَ لِلَّهِ وَقَارًا", translation: "'What is the matter with you that you do not attribute to Allah due grandeur?'" },
-    { ayah: 14, arabic: "وَقَدْ خَلَقَكُمْ أَطْوَارًا", translation: "'While He has created you in stages.'" },
-    { ayah: 15, arabic: "أَلَمْ تَرَوْا كَيْفَ خَلَقَ اللَّهُ سَبْعَ سَمَاوَاتٍ طِبَاقًا", translation: "'Do you not see how Allah created seven heavens in layers?'" },
-    { ayah: 16, arabic: "وَجَعَلَ الْقَمَرَ فِيهِنَّ نُورًا وَجَعَلَ الشَّمْسَ سِرَاجًا", translation: "'And made the moon therein a light and the sun a lamp?'" },
-    { ayah: 17, arabic: "وَاللَّهُ أَنبَتَكُم مِّنَ الْأَرْضِ نَبَاتًا", translation: "'And Allah has caused you to grow from the earth a progressive growth.'" },
-    { ayah: 18, arabic: "ثُمَّ يُعِيدُكُمْ فِيهَا وَيُخْرِجُكُمْ إِخْرَاجًا", translation: "'Then He will return you into it and bring you out in a resurrection.'" },
-    { ayah: 19, arabic: "وَاللَّهُ جَعَلَ لَكُمُ الْأَرْضَ بِسَاطًا", translation: "'And Allah has made for you the earth a wide expanse.'" },
-    { ayah: 20, arabic: "لِّتَسْلُكُوا مِنْهَا سُبُلًا فِجَاجًا", translation: "'That you may follow therein roads of passage.'" },
-    { ayah: 21, arabic: "قَالَ نُوحٌ رَّبِّ إِنَّهُمْ عَصَوْنِي وَاتَّبَعُوا مَن لَّمْ يَزِدْهُ مَالُهُ وَوَلَدُهُ إِلَّا خَسَارًا", translation: "Nuh said: 'My Lord, they have disobeyed me and followed the one whose wealth and children only increase him in loss.'" },
-    { ayah: 22, arabic: "وَمَكَرُوا مَكْرًا كُبَّارًا", translation: "'And they devised an immense plan.'" },
-    { ayah: 23, arabic: "وَقَالُوا لَا تَذَرُنَّ آلِهَتَكُمْ وَلَا تَذَرُنَّ وَدًّا وَلَا سُوَاعًا وَلَا يَغُوثَ وَيَعُوقَ وَنَسْرًا", translation: "'And they said: Do not leave your gods. Do not leave Wadd, nor Suwa', nor Yaghuth, nor Ya'uq, nor Nasr.'" },
-    { ayah: 24, arabic: "وَقَدْ أَضَلُّوا كَثِيرًا ۖ وَلَا تَزِدِ الظَّالِمِينَ إِلَّا ضَلَالًا", translation: "'And they have already misled many. And increase the wrongdoers only in error.'" },
-    { ayah: 25, arabic: "مِّمَّا خَطِيئَاتِهِمْ أُغْرِقُوا فَأُدْخِلُوا نَارًا فَلَمْ يَجِدُوا لَهُم مِّن دُونِ اللَّهِ أَنصَارًا", translation: "Because of their sins they were drowned and put into the Fire, and they found no helpers besides Allah." },
-    { ayah: 26, arabic: "وَقَالَ نُوحٌ رَّبِّ لَا تَذَرْ عَلَى الْأَرْضِ مِنَ الْكَافِرِينَ دَيَّارًا", translation: "And Nuh said: 'My Lord, do not leave upon the earth any inhabitant from among the disbelievers.'" },
-    { ayah: 27, arabic: "إِنَّكَ إِن تَذَرْهُمْ يُضِلُّوا عِبَادَكَ وَلَا يَلِدُوا إِلَّا فَاجِرًا كَفَّارًا", translation: "'Indeed, if You leave them, they will mislead Your servants and will not beget except every wicked disbeliever.'" },
-    { ayah: 28, arabic: "رَّبِّ اغْفِرْ لِي وَلِوَالِدَيَّ وَلِمَن دَخَلَ بَيْتِيَ مُؤْمِنًا وَلِلْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ وَلَا تَزِدِ الظَّالِمِينَ إِلَّا تَبَارًا", translation: "'My Lord, forgive me and my parents and whoever enters my house as a believer, and the believing men and the believing women. And do not increase the wrongdoers except in destruction.'" },
-  ],
 
   diagrams: {
     sectionJourney: {
@@ -138,7 +108,6 @@ const TABS = [
   { id: "ring", label: "Ring" },
   { id: "refusal", label: "Refusal" },
   { id: "absent", label: "Absences" },
-  { id: "text", label: "Text" },
 ];
 
 // ==============================================================================
@@ -256,21 +225,6 @@ function HeartVerse({ verse }: { verse: typeof SURAH_DATA.heartVerse }) {
   );
 }
 
-function FullSurahText({ verses }: { verses: typeof SURAH_DATA.fullText }) {
-  return (
-    <div className="space-y-5">
-      {verses.map((v) => (
-        <div key={v.ayah} className="space-y-1">
-          <p className="text-xl leading-loose text-right text-cream font-amiri" style={{ direction: "rtl" }}>
-            {v.arabic}{" "}
-            <span className="text-sm text-cream-muted/50">{"\uFD3F"}{v.ayah}{"\uFD3E"}</span>
-          </p>
-          <p className="text-sm text-cream-muted/60 font-body">{v.translation}</p>
-        </div>
-      ))}
-    </div>
-  );
-}
 
 function SectionJourney({ data }: { data: typeof SURAH_DATA.diagrams.sectionJourney }) {
   return (
@@ -462,13 +416,7 @@ export default function SurahArchitecture() {
           {activeTab === "ring" && <ChiasticRing data={d.diagrams.chiasticRing} />}
           {activeTab === "refusal" && <DeductiveFunnel data={d.diagrams.deductiveFunnel} />}
           {activeTab === "absent" && <AbsenceMap data={d.diagrams.absenceMap} />}
-          {activeTab === "text" && (
-            <div className="space-y-6">
-              <FullSurahText verses={d.fullText} />
-              <OrnamentDivider />
-              <HeartVerse verse={d.heartVerse} />
-            </div>
-          )}
+          <div className="space-y-6 pt-6 border-t border-white/[0.06]"><HeartVerse verse={d.heartVerse} /></div>
         </div>
 
         {/* -- Go Deeper --------------------------------------------------- */}

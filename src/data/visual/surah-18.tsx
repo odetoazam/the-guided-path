@@ -105,7 +105,6 @@ const TABS = [
   { id: "ring", label: "Ring" },
   { id: "zinah", label: "Zinah" },
   { id: "absent", label: "Absences" },
-  { id: "text", label: "Text" },
 ];
 
 // ══════════════════════════════════════════════════════════════════════════════
@@ -413,12 +412,8 @@ export default function SurahArchitecture() {
           {activeTab === "ring" && <ChiasticRing data={d.diagrams.chiasticRing} />}
           {activeTab === "zinah" && <DeductiveFunnel data={d.diagrams.deductiveFunnel} />}
           {activeTab === "absent" && <AbsenceMap data={d.diagrams.absenceMap} />}
-          {activeTab === "text" && (
-            <div className="space-y-6">
-              <HeartVerse verse={d.heartVerse} />
-              <OrnamentDivider />
-            </div>
-          )}
+          <div className="space-y-6 pt-6 border-t border-white/[0.06]"><HeartVerse verse={d.heartVerse} />
+              <OrnamentDivider /></div>
         </div>
 
         {/* ── Go Deeper ────────────────────────────────────────────────────── */}

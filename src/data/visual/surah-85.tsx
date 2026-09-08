@@ -30,30 +30,6 @@ const SURAH_DATA = {
 
   audio: { surahNumber: 85, reciter: "ar.alafasy" },
 
-  fullText: [
-    { ayah: 1, arabic: "وَالسَّمَاءِ ذَاتِ الْبُرُوجِ", translation: "By the sky containing great constellations —" },
-    { ayah: 2, arabic: "وَالْيَوْمِ الْمَوْعُودِ", translation: "and by the promised Day —" },
-    { ayah: 3, arabic: "وَشَاهِدٍ وَمَشْهُودٍ", translation: "and by the witness and the witnessed —" },
-    { ayah: 4, arabic: "قُتِلَ أَصْحَابُ الْأُخْدُودِ", translation: "Cursed were the companions of the trench —" },
-    { ayah: 5, arabic: "النَّارِ ذَاتِ الْوَقُودِ", translation: "the fire full of fuel —" },
-    { ayah: 6, arabic: "إِذْ هُمْ عَلَيْهَا قُعُودٌ", translation: "when they sat by it —" },
-    { ayah: 7, arabic: "وَهُمْ عَلَىٰ مَا يَفْعَلُونَ بِالْمُؤْمِنِينَ شُهُودٌ", translation: "and they, over what they were doing to the believers, were witnesses." },
-    { ayah: 8, arabic: "وَمَا نَقَمُوا مِنْهُمْ إِلَّا أَن يُؤْمِنُوا بِاللَّهِ الْعَزِيزِ الْحَمِيدِ", translation: "And they resented them for no reason other than that they believed in God, the Almighty, the Praiseworthy —" },
-    { ayah: 9, arabic: "الَّذِي لَهُ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ ۚ وَاللَّهُ عَلَىٰ كُلِّ شَيْءٍ شَهِيدٌ", translation: "to whom belongs the dominion of the heavens and the earth. And God is witness over all things." },
-    { ayah: 10, arabic: "إِنَّ الَّذِينَ فَتَنُوا الْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ ثُمَّ لَمْ يَتُوبُوا فَلَهُمْ عَذَابُ جَهَنَّمَ وَلَهُمْ عَذَابُ الْحَرِيقِ", translation: "Those who persecuted the believing men and women, then did not repent — for them is the punishment of Hell, and the punishment of the Burning." },
-    { ayah: 11, arabic: "إِنَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُمْ جَنَّاتٌ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ ۚ ذَٰلِكَ الْفَوْزُ الْكَبِيرُ", translation: "Those who believed and did righteous deeds — for them are gardens beneath which rivers flow. That is the great triumph." },
-    { ayah: 12, arabic: "إِنَّ بَطْشَ رَبِّكَ لَشَدِيدٌ", translation: "Indeed, the assault of your Lord is severe." },
-    { ayah: 13, arabic: "إِنَّهُ هُوَ يُبْدِئُ وَيُعِيدُ", translation: "Indeed, it is He who originates and repeats." },
-    { ayah: 14, arabic: "وَهُوَ الْغَفُورُ الْوَدُودُ", translation: "And He is the Forgiving, the Loving." },
-    { ayah: 15, arabic: "ذُو الْعَرْشِ الْمَجِيدُ", translation: "Possessor of the Throne, the Glorious —" },
-    { ayah: 16, arabic: "فَعَّالٌ لِّمَا يُرِيدُ", translation: "Effecter of what He intends." },
-    { ayah: 17, arabic: "هَلْ أَتَاكَ حَدِيثُ الْجُنُودِ", translation: "Has there reached you the story of the forces?" },
-    { ayah: 18, arabic: "فِرْعَوْنَ وَثَمُودَ", translation: "Pharaoh and Thamud." },
-    { ayah: 19, arabic: "بَلِ الَّذِينَ كَفَرُوا فِي تَكْذِيبٍ", translation: "Yet the disbelievers are in persistent denial —" },
-    { ayah: 20, arabic: "وَاللَّهُ مِن وَرَائِهِم مُّحِيطٌ", translation: "while God, from behind them, encompasses them entirely." },
-    { ayah: 21, arabic: "بَلْ هُوَ قُرْآنٌ مَّجِيدٌ", translation: "Rather, this is a glorious Quran —" },
-    { ayah: 22, arabic: "فِي لَوْحٍ مَّحْفُوظٍ", translation: "in a Preserved Tablet." },
-  ],
 
   diagrams: {
     sectionJourney: {
@@ -133,7 +109,6 @@ const TABS = [
   { id: "ring", label: "Ring" },
   { id: "witness", label: "Witness" },
   { id: "absent", label: "Absences" },
-  { id: "text", label: "Text" },
 ];
 
 // ══════════════════════════════════════════════════════════════════════════════
@@ -251,21 +226,6 @@ function HeartVerse({ verse }: { verse: typeof SURAH_DATA.heartVerse }) {
   );
 }
 
-function FullSurahText({ verses }: { verses: typeof SURAH_DATA.fullText }) {
-  return (
-    <div className="space-y-5">
-      {verses.map((v) => (
-        <div key={v.ayah} className="space-y-1">
-          <p className="text-xl leading-loose text-right text-cream font-amiri" style={{ direction: "rtl" }}>
-            {v.arabic}{" "}
-            <span className="text-sm text-cream-muted/50">{"\uFD3E"}{v.ayah}{"\uFD3F"}</span>
-          </p>
-          <p className="text-sm text-cream-muted/60 font-body">{v.translation}</p>
-        </div>
-      ))}
-    </div>
-  );
-}
 
 function SectionJourney({ data }: { data: typeof SURAH_DATA.diagrams.sectionJourney }) {
   return (
@@ -457,13 +417,7 @@ export default function SurahArchitecture() {
           {activeTab === "ring" && <ChiasticRing data={d.diagrams.chiasticRing} />}
           {activeTab === "witness" && <DeductiveFunnel data={d.diagrams.deductiveFunnel} />}
           {activeTab === "absent" && <AbsenceMap data={d.diagrams.absenceMap} />}
-          {activeTab === "text" && (
-            <div className="space-y-6">
-              <FullSurahText verses={d.fullText} />
-              <OrnamentDivider />
-              <HeartVerse verse={d.heartVerse} />
-            </div>
-          )}
+          <div className="space-y-6 pt-6 border-t border-white/[0.06]"><HeartVerse verse={d.heartVerse} /></div>
         </div>
 
         {/* -- Go Deeper --------------------------------------------------- */}

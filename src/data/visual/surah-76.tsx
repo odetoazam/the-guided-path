@@ -30,39 +30,6 @@ const SURAH_DATA = {
 
   audio: { surahNumber: 76, reciter: "ar.alafasy" },
 
-  fullText: [
-    { ayah: 1, arabic: "هَلْ أَتَىٰ عَلَى الْإِنسَانِ حِينٌ مِّنَ الدَّهْرِ لَمْ يَكُن شَيْئًا مَّذْكُورًا", translation: "Has there not come upon man a period of time when he was nothing worth mentioning?" },
-    { ayah: 2, arabic: "إِنَّا خَلَقْنَا الْإِنسَانَ مِن نُّطْفَةٍ أَمْشَاجٍ نَّبْتَلِيهِ فَجَعَلْنَاهُ سَمِيعًا بَصِيرًا", translation: "Indeed, We created man from a mixed drop to test him; and We made him hearing and seeing." },
-    { ayah: 3, arabic: "إِنَّا هَدَيْنَاهُ السَّبِيلَ إِمَّا شَاكِرًا وَإِمَّا كَفُورًا", translation: "Indeed, We guided him to the path — whether he be grateful or ungrateful." },
-    { ayah: 4, arabic: "إِنَّا أَعْتَدْنَا لِلْكَافِرِينَ سَلَاسِلَ وَأَغْلَالًا وَسَعِيرًا", translation: "Indeed, We have prepared for the disbelievers chains and shackles and a blazing fire." },
-    { ayah: 5, arabic: "إِنَّ الْأَبْرَارَ يَشْرَبُونَ مِن كَأْسٍ كَانَ مِزَاجُهَا كَافُورًا", translation: "Indeed, the righteous will drink from a cup whose mixture is of camphor —" },
-    { ayah: 6, arabic: "عَيْنًا يَشْرَبُ بِهَا عِبَادُ اللَّهِ يُفَجِّرُونَهَا تَفْجِيرًا", translation: "a spring from which the servants of Allah will drink, making it gush forth abundantly." },
-    { ayah: 7, arabic: "يُوفُونَ بِالنَّذْرِ وَيَخَافُونَ يَوْمًا كَانَ شَرُّهُ مُسْتَطِيرًا", translation: "They fulfill their vows and fear a Day whose evil is widespread." },
-    { ayah: 8, arabic: "وَيُطْعِمُونَ الطَّعَامَ عَلَىٰ حُبِّهِ مِسْكِينًا وَيَتِيمًا وَأَسِيرًا", translation: "And they give food, despite their love for it, to the poor, the orphan, and the captive." },
-    { ayah: 9, arabic: "إِنَّمَا نُطْعِمُكُمْ لِوَجْهِ اللَّهِ لَا نُرِيدُ مِنكُمْ جَزَاءً وَلَا شُكُورًا", translation: "We feed you only for the face of Allah. We desire from you neither reward nor thanks." },
-    { ayah: 10, arabic: "إِنَّا نَخَافُ مِن رَّبِّنَا يَوْمًا عَبُوسًا قَمْطَرِيرًا", translation: "Indeed, we fear from our Lord a Day austere and distressful." },
-    { ayah: 11, arabic: "فَوَقَاهُمُ اللَّهُ شَرَّ ذَٰلِكَ الْيَوْمِ وَلَقَّاهُمْ نَضْرَةً وَسُرُورًا", translation: "So Allah protected them from the evil of that Day and granted them radiance and joy." },
-    { ayah: 12, arabic: "وَجَزَاهُم بِمَا صَبَرُوا جَنَّةً وَحَرِيرًا", translation: "And He rewarded them for their patience with a garden and silk." },
-    { ayah: 13, arabic: "مُّتَّكِئِينَ فِيهَا عَلَى الْأَرَائِكِ ۖ لَا يَرَوْنَ فِيهَا شَمْسًا وَلَا زَمْهَرِيرًا", translation: "Reclining therein on adorned couches, they will see neither scorching sun nor bitter cold." },
-    { ayah: 14, arabic: "وَدَانِيَةً عَلَيْهِمْ ظِلَالُهَا وَذُلِّلَتْ قُطُوفُهَا تَذْلِيلًا", translation: "And near above them are its shades, and its fruit clusters brought within easy reach." },
-    { ayah: 15, arabic: "وَيُطَافُ عَلَيْهِم بِآنِيَةٍ مِّن فِضَّةٍ وَأَكْوَابٍ كَانَتْ قَوَارِيرَا", translation: "And there will be circulated among them vessels of silver and cups of crystal —" },
-    { ayah: 16, arabic: "قَوَارِيرَ مِن فِضَّةٍ قَدَّرُوهَا تَقْدِيرًا", translation: "crystal from silver, which they have determined the measure thereof." },
-    { ayah: 17, arabic: "وَيُسْقَوْنَ فِيهَا كَأْسًا كَانَ مِزَاجُهَا زَنجَبِيلًا", translation: "And they will be given to drink a cup whose mixture is of ginger —" },
-    { ayah: 18, arabic: "عَيْنًا فِيهَا تُسَمَّىٰ سَلْسَبِيلًا", translation: "a spring therein named Salsabil." },
-    { ayah: 19, arabic: "وَيَطُوفُ عَلَيْهِمْ وِلْدَانٌ مُّخَلَّدُونَ إِذَا رَأَيْتَهُمْ حَسِبْتَهُمْ لُؤْلُؤًا مَّنثُورًا", translation: "There will circulate among them young attendants made eternal — when you see them, you would think them scattered pearls." },
-    { ayah: 20, arabic: "وَإِذَا رَأَيْتَ ثَمَّ رَأَيْتَ نَعِيمًا وَمُلْكًا كَبِيرًا", translation: "And when you look there, you will see bliss and a great kingdom." },
-    { ayah: 21, arabic: "عَالِيَهُمْ ثِيَابُ سُندُسٍ خُضْرٌ وَإِسْتَبْرَقٌ ۖ وَحُلُّوا أَسَاوِرَ مِن فِضَّةٍ وَسَقَاهُمْ رَبُّهُمْ شَرَابًا طَهُورًا", translation: "Upon them will be garments of green silk and brocade. They will be adorned with bracelets of silver, and their Lord will give them a purifying drink." },
-    { ayah: 22, arabic: "إِنَّ هَـٰذَا كَانَ لَكُمْ جَزَاءً وَكَانَ سَعْيُكُم مَّشْكُورًا", translation: "Indeed, this is for you a reward, and your striving has been appreciated." },
-    { ayah: 23, arabic: "إِنَّا نَحْنُ نَزَّلْنَا عَلَيْكَ الْقُرْآنَ تَنزِيلًا", translation: "Indeed, it is We who have sent down to you the Quran progressively." },
-    { ayah: 24, arabic: "فَاصْبِرْ لِحُكْمِ رَبِّكَ وَلَا تُطِعْ مِنْهُمْ آثِمًا أَوْ كَفُورًا", translation: "So be patient for the ruling of your Lord, and do not obey among them any sinner or ungrateful one." },
-    { ayah: 25, arabic: "وَاذْكُرِ اسْمَ رَبِّكَ بُكْرَةً وَأَصِيلًا", translation: "And mention the name of your Lord morning and evening." },
-    { ayah: 26, arabic: "وَمِنَ اللَّيْلِ فَاسْجُدْ لَهُ وَسَبِّحْهُ لَيْلًا طَوِيلًا", translation: "And during the night prostrate to Him and exalt Him a long part of the night." },
-    { ayah: 27, arabic: "إِنَّ هَـٰؤُلَاءِ يُحِبُّونَ الْعَاجِلَةَ وَيَذَرُونَ وَرَاءَهُمْ يَوْمًا ثَقِيلًا", translation: "Indeed, these people love the immediate life and leave behind them a heavy Day." },
-    { ayah: 28, arabic: "نَّحْنُ خَلَقْنَاهُمْ وَشَدَدْنَا أَسْرَهُمْ ۖ وَإِذَا شِئْنَا بَدَّلْنَا أَمْثَالَهُمْ تَبْدِيلًا", translation: "We created them and strengthened their forms. And when We will, We can replace them with others like them." },
-    { ayah: 29, arabic: "إِنَّ هَـٰذِهِ تَذْكِرَةٌ ۖ فَمَن شَاءَ اتَّخَذَ إِلَىٰ رَبِّهِ سَبِيلًا", translation: "Indeed, this is a reminder. So whoever wills may take to his Lord a path." },
-    { ayah: 30, arabic: "وَمَا تَشَاءُونَ إِلَّا أَن يَشَاءَ اللَّهُ ۚ إِنَّ اللَّهَ كَانَ عَلِيمًا حَكِيمًا", translation: "And you do not will except that Allah wills. Indeed, Allah is ever Knowing and Wise." },
-    { ayah: 31, arabic: "يُدْخِلُ مَن يَشَاءُ فِي رَحْمَتِهِ ۚ وَالظَّالِمِينَ أَعَدَّ لَهُمْ عَذَابًا أَلِيمًا", translation: "He admits whom He wills into His mercy; but the wrongdoers — He has prepared for them a painful punishment." },
-  ],
 
   diagrams: {
     sectionJourney: {
@@ -137,7 +104,6 @@ const TABS = [
   { id: "echo", label: "Echo" },
   { id: "drinks", label: "Drinks" },
   { id: "absent", label: "Absences" },
-  { id: "text", label: "Text" },
 ];
 
 // ══════════════════════════════════════════════════════════════════════════════
@@ -255,21 +221,6 @@ function HeartVerse({ verse }: { verse: typeof SURAH_DATA.heartVerse }) {
   );
 }
 
-function FullSurahText({ verses }: { verses: typeof SURAH_DATA.fullText }) {
-  return (
-    <div className="space-y-5">
-      {verses.map((v) => (
-        <div key={v.ayah} className="space-y-1">
-          <p className="text-xl leading-loose text-right text-cream font-amiri" style={{ direction: "rtl" }}>
-            {v.arabic}{" "}
-            <span className="text-sm text-cream-muted/50">﴿{v.ayah}﴾</span>
-          </p>
-          <p className="text-sm text-cream-muted/60 font-body">{v.translation}</p>
-        </div>
-      ))}
-    </div>
-  );
-}
 
 function SectionJourney({ data }: { data: typeof SURAH_DATA.diagrams.sectionJourney }) {
   return (
@@ -461,13 +412,7 @@ export default function SurahArchitecture() {
           {activeTab === "echo" && <ChiasticRing data={d.diagrams.chiasticRing} />}
           {activeTab === "drinks" && <DeductiveFunnel data={d.diagrams.deductiveFunnel} />}
           {activeTab === "absent" && <AbsenceMap data={d.diagrams.absenceMap} />}
-          {activeTab === "text" && (
-            <div className="space-y-6">
-              <FullSurahText verses={d.fullText} />
-              <OrnamentDivider />
-              <HeartVerse verse={d.heartVerse} />
-            </div>
-          )}
+          <div className="space-y-6 pt-6 border-t border-white/[0.06]"><HeartVerse verse={d.heartVerse} /></div>
         </div>
 
         {/* ── Go Deeper ────────────────────────────────────────────────────── */}

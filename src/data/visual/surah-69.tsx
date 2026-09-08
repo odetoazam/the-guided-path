@@ -30,60 +30,6 @@ const SURAH_DATA = {
 
   audio: { surahNumber: 69, reciter: "ar.alafasy" },
 
-  fullText: [
-    { ayah: 1, arabic: "الْحَاقَّةُ", translation: "The Inevitable Reality." },
-    { ayah: 2, arabic: "مَا الْحَاقَّةُ", translation: "What is the Inevitable Reality?" },
-    { ayah: 3, arabic: "وَمَا أَدْرَاكَ مَا الْحَاقَّةُ", translation: "And what can make you know what the Inevitable Reality is?" },
-    { ayah: 4, arabic: "كَذَّبَتْ ثَمُودُ وَعَادٌ بِالْقَارِعَةِ", translation: "Thamud and Ad denied the Striking Calamity." },
-    { ayah: 5, arabic: "فَأَمَّا ثَمُودُ فَأُهْلِكُوا بِالطَّاغِيَةِ", translation: "As for Thamud, they were destroyed by the overwhelming blast." },
-    { ayah: 6, arabic: "وَأَمَّا عَادٌ فَأُهْلِكُوا بِرِيحٍ صَرْصَرٍ عَاتِيَةٍ", translation: "And as for Ad, they were destroyed by a screaming, violent wind," },
-    { ayah: 7, arabic: "سَخَّرَهَا عَلَيْهِمْ سَبْعَ لَيَالٍ وَثَمَانِيَةَ أَيَّامٍ حُسُومًا فَتَرَى الْقَوْمَ فِيهَا صَرْعَىٰ كَأَنَّهُمْ أَعْجَازُ نَخْلٍ خَاوِيَةٍ", translation: "which He imposed upon them for seven nights and eight days in succession — you would see the people fallen as if they were hollow trunks of palm trees." },
-    { ayah: 8, arabic: "فَهَلْ تَرَىٰ لَهُم مِّن بَاقِيَةٍ", translation: "Do you see any remnant of them?" },
-    { ayah: 9, arabic: "وَجَاءَ فِرْعَوْنُ وَمَن قَبْلَهُ وَالْمُؤْتَفِكَاتُ بِالْخَاطِئَةِ", translation: "And there came Pharaoh, and those before him, and the overturned cities — with sin." },
-    { ayah: 10, arabic: "فَعَصَوْا رَسُولَ رَبِّهِمْ فَأَخَذَهُمْ أَخْذَةً رَّابِيَةً", translation: "They disobeyed the messenger of their Lord, so He seized them with a grip that kept tightening." },
-    { ayah: 11, arabic: "إِنَّا لَمَّا طَغَا الْمَاءُ حَمَلْنَاكُمْ فِي الْجَارِيَةِ", translation: "Indeed, when the floodwaters overflowed, We carried you in the sailing vessel," },
-    { ayah: 12, arabic: "لِنَجْعَلَهَا لَكُمْ تَذْكِرَةً وَتَعِيَهَا أُذُنٌ وَاعِيَةٌ", translation: "so that We might make it a reminder for you, and so that a retaining ear might retain it." },
-    { ayah: 13, arabic: "فَإِذَا نُفِخَ فِي الصُّورِ نَفْخَةٌ وَاحِدَةٌ", translation: "Then when the trumpet is blown with a single blast," },
-    { ayah: 14, arabic: "وَحُمِلَتِ الْأَرْضُ وَالْجِبَالُ فَدُكَّتَا دَكَّةً وَاحِدَةً", translation: "and the earth and the mountains are lifted and crushed with a single blow —" },
-    { ayah: 15, arabic: "فَيَوْمَئِذٍ وَقَعَتِ الْوَاقِعَةُ", translation: "then on that Day, the Occurrence will occur." },
-    { ayah: 16, arabic: "وَانشَقَّتِ السَّمَاءُ فَهِيَ يَوْمَئِذٍ وَاهِيَةٌ", translation: "And the sky will split apart, for on that Day it will be frail." },
-    { ayah: 17, arabic: "وَالْمَلَكُ عَلَىٰ أَرْجَائِهَا ۚ وَيَحْمِلُ عَرْشَ رَبِّكَ فَوْقَهُمْ يَوْمَئِذٍ ثَمَانِيَةٌ", translation: "And the angels will be at its edges, and eight will bear the Throne of your Lord above them on that Day." },
-    { ayah: 18, arabic: "يَوْمَئِذٍ تُعْرَضُونَ لَا تَخْفَىٰ مِنكُمْ خَافِيَةٌ", translation: "On that Day you will be exposed — no secret of yours will remain hidden." },
-    { ayah: 19, arabic: "فَأَمَّا مَنْ أُوتِيَ كِتَابَهُ بِيَمِينِهِ فَيَقُولُ هَاؤُمُ اقْرَءُوا كِتَابِيَهْ", translation: "As for the one given their record in their right hand, they will say: 'Here, read my record!'" },
-    { ayah: 20, arabic: "إِنِّي ظَنَنتُ أَنِّي مُلَاقٍ حِسَابِيَهْ", translation: "'I knew I would meet my account.'" },
-    { ayah: 21, arabic: "فَهُوَ فِي عِيشَةٍ رَّاضِيَةٍ", translation: "So they will be in a pleasant life," },
-    { ayah: 22, arabic: "فِي جَنَّةٍ عَالِيَةٍ", translation: "in a lofty garden," },
-    { ayah: 23, arabic: "قُطُوفُهَا دَانِيَةٌ", translation: "its fruits hanging within reach." },
-    { ayah: 24, arabic: "كُلُوا وَاشْرَبُوا هَنِيئًا بِمَا أَسْلَفْتُمْ فِي الْأَيَّامِ الْخَالِيَةِ", translation: "'Eat and drink in satisfaction for what you put forward in the days gone by.'" },
-    { ayah: 25, arabic: "وَأَمَّا مَنْ أُوتِيَ كِتَابَهُ بِشِمَالِهِ فَيَقُولُ يَا لَيْتَنِي لَمْ أُوتَ كِتَابِيَهْ", translation: "But as for the one given their record in their left hand, they will say: 'I wish I had never been given my record,'" },
-    { ayah: 26, arabic: "وَلَمْ أَدْرِ مَا حِسَابِيَهْ", translation: "'and had never known what my account was.'" },
-    { ayah: 27, arabic: "يَا لَيْتَهَا كَانَتِ الْقَاضِيَةَ", translation: "'I wish it had been the end.'" },
-    { ayah: 28, arabic: "مَا أَغْنَىٰ عَنِّي مَالِيَهْ", translation: "'My wealth has not availed me.'" },
-    { ayah: 29, arabic: "هَلَكَ عَنِّي سُلْطَانِيَهْ", translation: "'My authority has perished from me.'" },
-    { ayah: 30, arabic: "خُذُوهُ فَغُلُّوهُ", translation: "'Seize him and shackle him,'" },
-    { ayah: 31, arabic: "ثُمَّ الْجَحِيمَ صَلُّوهُ", translation: "'then drive him into Hellfire,'" },
-    { ayah: 32, arabic: "ثُمَّ فِي سِلْسِلَةٍ ذَرْعُهَا سَبْعُونَ ذِرَاعًا فَاسْلُكُوهُ", translation: "'then insert him into a chain whose length is seventy cubits.'" },
-    { ayah: 33, arabic: "إِنَّهُ كَانَ لَا يُؤْمِنُ بِاللَّهِ الْعَظِيمِ", translation: "Indeed, he did not believe in Allah, the Magnificent," },
-    { ayah: 34, arabic: "وَلَا يَحُضُّ عَلَىٰ طَعَامِ الْمِسْكِينِ", translation: "and he did not encourage the feeding of the poor." },
-    { ayah: 35, arabic: "فَلَيْسَ لَهُ الْيَوْمَ هَاهُنَا حَمِيمٌ", translation: "So he has no devoted friend here today," },
-    { ayah: 36, arabic: "وَلَا طَعَامٌ إِلَّا مِنْ غِسْلِينٍ", translation: "and no food except from the discharge of wounds," },
-    { ayah: 37, arabic: "لَّا يَأْكُلُهُ إِلَّا الْخَاطِئُونَ", translation: "which none eat except the sinners." },
-    { ayah: 38, arabic: "فَلَا أُقْسِمُ بِمَا تُبْصِرُونَ", translation: "I swear by what you see" },
-    { ayah: 39, arabic: "وَمَا لَا تُبْصِرُونَ", translation: "and what you do not see —" },
-    { ayah: 40, arabic: "إِنَّهُ لَقَوْلُ رَسُولٍ كَرِيمٍ", translation: "it is the word of a noble messenger." },
-    { ayah: 41, arabic: "وَمَا هُوَ بِقَوْلِ شَاعِرٍ ۚ قَلِيلًا مَّا تُؤْمِنُونَ", translation: "It is not the word of a poet — how little you believe!" },
-    { ayah: 42, arabic: "وَلَا بِقَوْلِ كَاهِنٍ ۚ قَلِيلًا مَّا تَذَكَّرُونَ", translation: "And not the word of a soothsayer — how little you reflect!" },
-    { ayah: 43, arabic: "تَنزِيلٌ مِّن رَّبِّ الْعَالَمِينَ", translation: "A revelation from the Lord of all worlds." },
-    { ayah: 44, arabic: "وَلَوْ تَقَوَّلَ عَلَيْنَا بَعْضَ الْأَقَاوِيلِ", translation: "And if he had fabricated against Us some sayings," },
-    { ayah: 45, arabic: "لَأَخَذْنَا مِنْهُ بِالْيَمِينِ", translation: "We would have seized him by the right hand," },
-    { ayah: 46, arabic: "ثُمَّ لَقَطَعْنَا مِنْهُ الْوَتِينَ", translation: "then cut from him the aorta," },
-    { ayah: 47, arabic: "فَمَا مِنكُم مِّنْ أَحَدٍ عَنْهُ حَاجِزِينَ", translation: "and none of you could have shielded him from it." },
-    { ayah: 48, arabic: "وَإِنَّهُ لَتَذْكِرَةٌ لِّلْمُتَّقِينَ", translation: "And indeed, it is a reminder for the God-fearing." },
-    { ayah: 49, arabic: "وَإِنَّا لَنَعْلَمُ أَنَّ مِنكُم مُّكَذِّبِينَ", translation: "And We know that among you are deniers." },
-    { ayah: 50, arabic: "وَإِنَّهُ لَحَسْرَةٌ عَلَى الْكَافِرِينَ", translation: "And it will be a source of agonizing regret for the disbelievers." },
-    { ayah: 51, arabic: "وَإِنَّهُ لَحَقُّ الْيَقِينِ", translation: "And indeed, it is the truth of certainty." },
-    { ayah: 52, arabic: "فَسَبِّحْ بِاسْمِ رَبِّكَ الْعَظِيمِ", translation: "So glorify the name of your Lord, the Magnificent." },
-  ],
 
   diagrams: {
     sectionJourney: {
@@ -163,7 +109,6 @@ const TABS = [
   { id: "mirror", label: "Ring" },
   { id: "autopsy", label: "Autopsy" },
   { id: "absent", label: "Absences" },
-  { id: "text", label: "Text" },
 ];
 
 // ══════════════════════════════════════════════════════════════════════════════
@@ -281,21 +226,6 @@ function HeartVerse({ verse }: { verse: typeof SURAH_DATA.heartVerse }) {
   );
 }
 
-function FullSurahText({ verses }: { verses: typeof SURAH_DATA.fullText }) {
-  return (
-    <div className="space-y-5">
-      {verses.map((v) => (
-        <div key={v.ayah} className="space-y-1">
-          <p className="text-xl leading-loose text-right text-cream font-amiri" style={{ direction: "rtl" }}>
-            {v.arabic}{" "}
-            <span className="text-sm text-cream-muted/50">{"\uFD3E"}{v.ayah}{"\uFD3F"}</span>
-          </p>
-          <p className="text-sm text-cream-muted/60 font-body">{v.translation}</p>
-        </div>
-      ))}
-    </div>
-  );
-}
 
 function SectionJourney({ data }: { data: typeof SURAH_DATA.diagrams.sectionJourney }) {
   return (
@@ -487,13 +417,7 @@ export default function SurahArchitecture() {
           {activeTab === "mirror" && <ChiasticRing data={d.diagrams.chiasticRing} />}
           {activeTab === "autopsy" && <DeductiveFunnel data={d.diagrams.deductiveFunnel} />}
           {activeTab === "absent" && <AbsenceMap data={d.diagrams.absenceMap} />}
-          {activeTab === "text" && (
-            <div className="space-y-6">
-              <FullSurahText verses={d.fullText} />
-              <OrnamentDivider />
-              <HeartVerse verse={d.heartVerse} />
-            </div>
-          )}
+          <div className="space-y-6 pt-6 border-t border-white/[0.06]"><HeartVerse verse={d.heartVerse} /></div>
         </div>
 
         {/* -- Go Deeper ---------------------------------------------------- */}

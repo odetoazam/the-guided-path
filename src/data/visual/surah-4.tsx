@@ -235,7 +235,7 @@ const TABS = [
   { id: "journey", label: "Journey" },
   { id: "arcs", label: "Arcs" },
   { id: "absent", label: "Absences" },
-  { id: "text", label: "Text" },
+  { id: "text", label: "Map" },
 ];
 
 // ══════════════════════════════════════════════════════════════════════════════

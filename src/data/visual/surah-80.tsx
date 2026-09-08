@@ -22,7 +22,7 @@ const SURAH_DATA = {
 
   sciencesActive: [{"key":"balaghah","english":"Rhetoric"},{"key":"sarf","english":"Morphology"},{"key":"nazm","english":"Structural Coherence"}],
   heartVerse: {
-    arabic: "عَبَسَ وَتَوَلَّىٰ ﴿١﴾ أَن جَاءَهُ الْأَعْمَىٰ",
+    arabic: "عَبَسَ وَتَوَلَّىٰ ﴿١﴾ أَن جَاءَهُ الْأَعْمَىٰ",
     ayahRef: "80:1–2",
     translation: "He frowned and turned away — because the blind man came to him.",
     why: "The most startling opening in scripture: God rebukes His own Messenger in revelation that will be recited until the end of time. The blind man could not see the frown. Allah saw it anyway. The correction came not in private counsel but in permanent text.",
@@ -30,50 +30,6 @@ const SURAH_DATA = {
 
   audio: { surahNumber: 80, reciter: "ar.alafasy" },
 
-  fullText: [
-    { ayah: 1, arabic: "عَبَسَ وَتَوَلَّىٰ", translation: "He frowned and turned away —" },
-    { ayah: 2, arabic: "أَن جَاءَهُ الْأَعْمَىٰ", translation: "because the blind man came to him." },
-    { ayah: 3, arabic: "وَمَا يُدْرِيكَ لَعَلَّهُ يَزَّكَّىٰ", translation: "And what would make you know? Perhaps he would purify himself," },
-    { ayah: 4, arabic: "أَوْ يَذَّكَّرُ فَتَنفَعَهُ الذِّكْرَىٰ", translation: "or be reminded, and the reminder would benefit him." },
-    { ayah: 5, arabic: "أَمَّا مَنِ اسْتَغْنَىٰ", translation: "As for the one who considers himself self-sufficient —" },
-    { ayah: 6, arabic: "فَأَنتَ لَهُ تَصَدَّىٰ", translation: "to him you give your attention." },
-    { ayah: 7, arabic: "وَمَا عَلَيْكَ أَلَّا يَزَّكَّىٰ", translation: "Though it is not upon you if he does not purify himself." },
-    { ayah: 8, arabic: "وَأَمَّا مَن جَاءَكَ يَسْعَىٰ", translation: "But as for the one who came to you striving —" },
-    { ayah: 9, arabic: "وَهُوَ يَخْشَىٰ", translation: "while he fears Allah —" },
-    { ayah: 10, arabic: "فَأَنتَ عَنْهُ تَلَهَّىٰ", translation: "from him you are distracted." },
-    { ayah: 11, arabic: "كَلَّا إِنَّهَا تَذْكِرَةٌ", translation: "No indeed! This is a reminder —" },
-    { ayah: 12, arabic: "فَمَن شَاءَ ذَكَرَهُ", translation: "so whoever wills may take heed." },
-    { ayah: 13, arabic: "فِي صُحُفٍ مُّكَرَّمَةٍ", translation: "In honored pages," },
-    { ayah: 14, arabic: "مَّرْفُوعَةٍ مُّطَهَّرَةٍ", translation: "exalted and purified," },
-    { ayah: 15, arabic: "بِأَيْدِي سَفَرَةٍ", translation: "carried by the hands of scribes —" },
-    { ayah: 16, arabic: "كِرَامٍ بَرَرَةٍ", translation: "noble and dutiful." },
-    { ayah: 17, arabic: "قُتِلَ الْإِنسَانُ مَا أَكْفَرَهُ", translation: "Destroyed is the human being — how ungrateful he is!" },
-    { ayah: 18, arabic: "مِنْ أَيِّ شَيْءٍ خَلَقَهُ", translation: "From what thing did He create him?" },
-    { ayah: 19, arabic: "مِن نُّطْفَةٍ خَلَقَهُ فَقَدَّرَهُ", translation: "From a drop of fluid He created him and determined his path," },
-    { ayah: 20, arabic: "ثُمَّ السَّبِيلَ يَسَّرَهُ", translation: "then made the way easy for him," },
-    { ayah: 21, arabic: "ثُمَّ أَمَاتَهُ فَأَقْبَرَهُ", translation: "then caused him to die and had him buried," },
-    { ayah: 22, arabic: "ثُمَّ إِذَا شَاءَ أَنشَرَهُ", translation: "then when He wills, He will raise him." },
-    { ayah: 23, arabic: "كَلَّا لَمَّا يَقْضِ مَا أَمَرَهُ", translation: "No — he has not yet accomplished what He commanded him." },
-    { ayah: 24, arabic: "فَلْيَنظُرِ الْإِنسَانُ إِلَىٰ طَعَامِهِ", translation: "Let the human being look at his food —" },
-    { ayah: 25, arabic: "أَنَّا صَبَبْنَا الْمَاءَ صَبًّا", translation: "how We poured water in abundance," },
-    { ayah: 26, arabic: "ثُمَّ شَقَقْنَا الْأَرْضَ شَقًّا", translation: "then split the earth in fragments," },
-    { ayah: 27, arabic: "فَأَنبَتْنَا فِيهَا حَبًّا", translation: "and caused grain to grow within it," },
-    { ayah: 28, arabic: "وَعِنَبًا وَقَضْبًا", translation: "and grapes and fresh vegetation," },
-    { ayah: 29, arabic: "وَزَيْتُونًا وَنَخْلًا", translation: "and olive trees and date palms," },
-    { ayah: 30, arabic: "وَحَدَائِقَ غُلْبًا", translation: "and dense gardens," },
-    { ayah: 31, arabic: "وَفَاكِهَةً وَأَبًّا", translation: "and fruits and grasses —" },
-    { ayah: 32, arabic: "مَّتَاعًا لَّكُمْ وَلِأَنْعَامِكُمْ", translation: "provision for you and your livestock." },
-    { ayah: 33, arabic: "فَإِذَا جَاءَتِ الصَّاخَّةُ", translation: "When the Deafening Blast comes —" },
-    { ayah: 34, arabic: "يَوْمَ يَفِرُّ الْمَرْءُ مِنْ أَخِيهِ", translation: "the Day a man will flee from his brother," },
-    { ayah: 35, arabic: "وَأُمِّهِ وَأَبِيهِ", translation: "and his mother and his father," },
-    { ayah: 36, arabic: "وَصَاحِبَتِهِ وَبَنِيهِ", translation: "and his wife and his children —" },
-    { ayah: 37, arabic: "لِكُلِّ امْرِئٍ مِّنْهُمْ يَوْمَئِذٍ شَأْنٌ يُغْنِيهِ", translation: "every one of them, that Day, will have enough concern to occupy him." },
-    { ayah: 38, arabic: "وُجُوهٌ يَوْمَئِذٍ مُّسْفِرَةٌ", translation: "Faces that Day will be bright," },
-    { ayah: 39, arabic: "ضَاحِكَةٌ مُّسْتَبْشِرَةٌ", translation: "laughing, rejoicing." },
-    { ayah: 40, arabic: "وَوُجُوهٌ يَوْمَئِذٍ عَلَيْهَا غَبَرَةٌ", translation: "And faces that Day will have dust upon them," },
-    { ayah: 41, arabic: "تَرْهَقُهَا قَتَرَةٌ", translation: "covered in darkness —" },
-    { ayah: 42, arabic: "أُولَٰئِكَ هُمُ الْكَفَرَةُ الْفَجَرَةُ", translation: "those are the disbelievers, the wicked ones." },
-  ],
 
   diagrams: {
     sectionJourney: {
@@ -153,7 +109,6 @@ const TABS = [
   { id: "mirror", label: "Mirror" },
   { id: "thread", label: "Thread" },
   { id: "absent", label: "Absences" },
-  { id: "text", label: "Text" },
 ];
 
 // ══════════════════════════════════════════════════════════════════════════════
@@ -271,21 +226,6 @@ function HeartVerse({ verse }: { verse: typeof SURAH_DATA.heartVerse }) {
   );
 }
 
-function FullSurahText({ verses }: { verses: typeof SURAH_DATA.fullText }) {
-  return (
-    <div className="space-y-5">
-      {verses.map((v) => (
-        <div key={v.ayah} className="space-y-1">
-          <p className="text-xl leading-loose text-right text-cream font-amiri" style={{ direction: "rtl" }}>
-            {v.arabic}{" "}
-            <span className="text-sm text-cream-muted/50">﴿{v.ayah}﴾</span>
-          </p>
-          <p className="text-sm text-cream-muted/60 font-body">{v.translation}</p>
-        </div>
-      ))}
-    </div>
-  );
-}
 
 function SectionJourney({ data }: { data: typeof SURAH_DATA.diagrams.sectionJourney }) {
   return (
@@ -477,13 +417,7 @@ export default function SurahArchitecture() {
           {activeTab === "mirror" && <ChiasticRing data={d.diagrams.chiasticRing} />}
           {activeTab === "thread" && <DeductiveFunnel data={d.diagrams.deductiveFunnel} />}
           {activeTab === "absent" && <AbsenceMap data={d.diagrams.absenceMap} />}
-          {activeTab === "text" && (
-            <div className="space-y-6">
-              <FullSurahText verses={d.fullText} />
-              <OrnamentDivider />
-              <HeartVerse verse={d.heartVerse} />
-            </div>
-          )}
+          <div className="space-y-6 pt-6 border-t border-white/[0.06]"><HeartVerse verse={d.heartVerse} /></div>
         </div>
 
         {/* ── Go Deeper ────────────────────────────────────────────────────── */}

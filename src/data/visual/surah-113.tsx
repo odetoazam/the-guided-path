@@ -24,7 +24,7 @@ const SURAH_DATA = {
   sciencesActive: [{"key":"balaghah","english":"Rhetoric"},{"key":"aqeedah","english":"Theology"},{"key":"munasabat","english":"Inter-surah Connections"}],
   // ── Heart Verse ───────────────────────────────────────────────────────────
   heartVerse: {
-    arabic: "قُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ",
+    arabic: "قُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ",
     ayahRef: "113:1",
     translation:
       "Say: I seek refuge in the Lord of the Daybreak.",
@@ -39,38 +39,6 @@ const SURAH_DATA = {
   },
 
   // ── Full Surah Text ───────────────────────────────────────────────────────
-  fullText: [
-    {
-      ayah: 1,
-      arabic: "قُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ",
-      ayahRef: "113:1",
-      translation: "Say: I seek refuge in the Lord of the Daybreak.",
-    },
-    {
-      ayah: 2,
-      arabic: "مِن شَرِّ مَا خَلَقَ",
-      ayahRef: "113:2",
-      translation: "From the evil of what He created.",
-    },
-    {
-      ayah: 3,
-      arabic: "وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ",
-      ayahRef: "113:3",
-      translation: "And from the evil of the darkness when it settles.",
-    },
-    {
-      ayah: 4,
-      arabic: "وَمِن شَرِّ ٱلنَّفَّـٰثَـٰتِ فِى ٱلْعُقَدِ",
-      ayahRef: "113:4",
-      translation: "And from the evil of those who blow on knots.",
-    },
-    {
-      ayah: 5,
-      arabic: "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ",
-      ayahRef: "113:5",
-      translation: "And from the evil of the envier when he envies.",
-    },
-  ],
 
   // ── Diagrams ──────────────────────────────────────────────────────────────
   diagrams: {
@@ -252,7 +220,6 @@ const TABS = [
   { id: "storms", label: "Four Storms" },
   { id: "spine", label: "Spine" },
   { id: "absent", label: "Absences" },
-  { id: "text", label: "Text" },
 ];
 
 // ══════════════════════════════════════════════════════════════════════════════
@@ -370,21 +337,6 @@ function HeartVerse({ verse }: { verse: typeof SURAH_DATA.heartVerse }) {
   );
 }
 
-function FullSurahText({ verses }: { verses: typeof SURAH_DATA.fullText }) {
-  return (
-    <div className="space-y-5">
-      {verses.map((v) => (
-        <div key={v.ayah} className="space-y-1">
-          <p className="text-xl leading-loose text-right text-cream font-amiri" style={{ direction: "rtl" }}>
-            {v.arabic}{" "}
-            <span className="text-sm text-cream-muted/50">﴿{v.ayah}﴾</span>
-          </p>
-          <p className="text-sm text-cream-muted/60 font-body">{v.translation}</p>
-        </div>
-      ))}
-    </div>
-  );
-}
 
 function SectionJourney({ data }: { data: typeof SURAH_DATA.diagrams.funnel }) {
   return (
@@ -573,13 +525,7 @@ export default function SurahArchitecture() {
           {activeTab === "storms" && <ComponentsViz data={d.diagrams.components} />}
           {activeTab === "spine" && <CompressionViz data={d.diagrams.compression} />}
           {activeTab === "absent" && <AbsenceMap data={d.diagrams.absenceMap} />}
-          {activeTab === "text" && (
-            <div className="space-y-6">
-              <FullSurahText verses={d.fullText} />
-              <OrnamentDivider />
-              <HeartVerse verse={d.heartVerse} />
-            </div>
-          )}
+          <div className="space-y-6 pt-6 border-t border-white/[0.06]"><HeartVerse verse={d.heartVerse} /></div>
         </div>
 
         {/* ── Go Deeper ────────────────────────────────────────────────────── */}

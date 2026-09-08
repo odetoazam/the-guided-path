@@ -22,7 +22,7 @@ const SURAH_DATA = {
 
   sciencesActive: [{"key":"ijaz","english":"Inimitability"},{"key":"sarf","english":"Morphology"},{"key":"balaghah","english":"Rhetoric"}],
   heartVerse: {
-    arabic: "يَوْمَئِذٍ تُحَدِّثُ أَخْبَارَهَا",
+    arabic: "يَوْمَئِذٍ تُحَدِّثُ أَخْبَارَهَا",
     ayahRef: "99:4",
     translation: "On that Day, it will report its news.",
     why: "The moment the earth speaks. The root h-d-th — the same root that gives us hadith — places the ground in the role of a muhaddith: a narrator transmitting what it has witnessed. The earth has been in silent communication with God, and now it has been given permission to testify. Everything before this ayah builds to it. Everything after flows from it.",
@@ -30,16 +30,6 @@ const SURAH_DATA = {
 
   audio: { surahNumber: 99, reciter: "ar.alafasy" },
 
-  fullText: [
-    { ayah: 1, arabic: "إِذَا زُلْزِلَتِ الْأَرْضُ زِلْزَالَهَا", translation: "When the earth is shaken with its ultimate shaking," },
-    { ayah: 2, arabic: "وَأَخْرَجَتِ الْأَرْضُ أَثْقَالَهَا", translation: "and the earth brings forth its burdens," },
-    { ayah: 3, arabic: "وَقَالَ الْإِنسَانُ مَا لَهَا", translation: "and the human being says, 'What is wrong with it?' —" },
-    { ayah: 4, arabic: "يَوْمَئِذٍ تُحَدِّثُ أَخْبَارَهَا", translation: "On that Day, it will report its news," },
-    { ayah: 5, arabic: "بِأَنَّ رَبَّكَ أَوْحَىٰ لَهَا", translation: "because your Lord has inspired it [to do so]." },
-    { ayah: 6, arabic: "يَوْمَئِذٍ يَصْدُرُ النَّاسُ أَشْتَاتًا لِّيُرَوْا أَعْمَالَهُمْ", translation: "On that Day, people will come forth in scattered groups to be shown their deeds." },
-    { ayah: 7, arabic: "فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُ", translation: "Then whoever has done an atom's weight of good will see it." },
-    { ayah: 8, arabic: "وَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُ", translation: "And whoever has done an atom's weight of evil will see it." },
-  ],
 
   diagrams: {
     sectionJourney: {
@@ -83,8 +73,8 @@ const SURAH_DATA = {
       layers: [
         { depth: 1, label: "Planet", ayah: "1", arabic: "زُلْزِلَتِ الْأَرْضُ زِلْزَالَهَا", desc: "The largest possible scale: the entire earth in its final, appointed convulsion. Zilzal — an intensive form, onomatopoeic — the sound of the word mimics the tremor it describes.", color: "#4ecdc4" },
         { depth: 2, label: "Contents", ayah: "2", arabic: "أَخْرَجَتِ الْأَرْضُ أَثْقَالَهَا", desc: "The earth empties itself. Athqal — heaviness, burdens. The dead of all human history, the secrets absorbed into the soil, the treasures and the deeds. Everything carried. Now expelled.", color: "#9b7fd4" },
-        { depth: 3, label: "Testimony", ayah: "4", arabic: "تُحَدِّثُ أَخْبَارَهَا", desc: "The earth narrates — tuhaddithu — with the same root as hadith. The ground becomes a muhaddith: a reporter of events. Not merely shaking off contents, but testifying.", color: "#C9A84C" },
-        { depth: 4, label: "Atom", ayah: "7–8", arabic: "مِثْقَالَ ذَرَّةٍ", desc: "The smallest visible particle — a mote of dust in sunlight. The earthquake that ends the world exists for the purpose of weighing this. The glance. The coin almost given. The word said under your breath.", color: "#e07a8a" },
+        { depth: 3, label: "Testimony", ayah: "4", arabic: "تُحَدِّثُ أَخْبَارَهَا", desc: "The earth narrates — tuhaddithu — with the same root as hadith. The ground becomes a muhaddith: a reporter of events. Not merely shaking off contents, but testifying.", color: "#C9A84C" },
+        { depth: 4, label: "Atom", ayah: "7–8", arabic: "مِثْقَالَ ذَرَّةٍ", desc: "The smallest visible particle — a mote of dust in sunlight. The earthquake that ends the world exists for the purpose of weighing this. The glance. The coin almost given. The word said under your breath.", color: "#e07a8a" },
       ],
     },
     absenceMap: {
@@ -117,7 +107,6 @@ const TABS = [
   { id: "ring", label: "Ring" },
   { id: "descent", label: "Descent" },
   { id: "absent", label: "Absences" },
-  { id: "text", label: "Text" },
 ];
 
 // ══════════════════════════════════════════════════════════════════════════════
@@ -235,21 +224,6 @@ function HeartVerse({ verse }: { verse: typeof SURAH_DATA.heartVerse }) {
   );
 }
 
-function FullSurahText({ verses }: { verses: typeof SURAH_DATA.fullText }) {
-  return (
-    <div className="space-y-5">
-      {verses.map((v) => (
-        <div key={v.ayah} className="space-y-1">
-          <p className="text-xl leading-loose text-right text-cream font-amiri" style={{ direction: "rtl" }}>
-            {v.arabic}{" "}
-            <span className="text-sm text-cream-muted/50">﴿{v.ayah}﴾</span>
-          </p>
-          <p className="text-sm text-cream-muted/60 font-body">{v.translation}</p>
-        </div>
-      ))}
-    </div>
-  );
-}
 
 function SectionJourney({ data }: { data: typeof SURAH_DATA.diagrams.sectionJourney }) {
   return (
@@ -441,13 +415,7 @@ export default function SurahArchitecture() {
           {activeTab === "ring" && <ChiasticRing data={d.diagrams.chiasticRing} />}
           {activeTab === "descent" && <DeductiveFunnel data={d.diagrams.deductiveFunnel} />}
           {activeTab === "absent" && <AbsenceMap data={d.diagrams.absenceMap} />}
-          {activeTab === "text" && (
-            <div className="space-y-6">
-              <FullSurahText verses={d.fullText} />
-              <OrnamentDivider />
-              <HeartVerse verse={d.heartVerse} />
-            </div>
-          )}
+          <div className="space-y-6 pt-6 border-t border-white/[0.06]"><HeartVerse verse={d.heartVerse} /></div>
         </div>
 
         {/* ── Go Deeper ────────────────────────────────────────────────────── */}

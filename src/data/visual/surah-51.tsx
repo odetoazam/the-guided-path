@@ -22,7 +22,7 @@ const SURAH_DATA = {
 
   sciencesActive: [{"key":"qasam","english":"Oaths"},{"key":"balaghah","english":"Rhetoric"},{"key":"qasas","english":"Quranic Narratives"}],
   heartVerse: {
-    arabic: "وَمَا خَلَقْتُ الْجِنَّ وَالْإِنسَ إِلَّا لِيَعْبُدُونِ",
+    arabic: "وَمَا خَلَقْتُ الْجِنَّ وَالْإِنسَ إِلَّا لِيَعْبُدُونِ",
     ayahRef: "51:56",
     translation: "And I did not create the jinn and mankind except to worship Me.",
     why: "Nine words in Arabic that have defined Islamic theology of purpose for fourteen centuries. The exclusive particle illa narrows the entire scope of human and jinn existence to a single function. Fifty-five ayahs of evidence — cosmic, personal, historical — have been building toward this sentence. The purpose of existence is worship, and the surah presents the entire visible and invisible universe as evidence for why that purpose is inescapable.",
@@ -30,68 +30,6 @@ const SURAH_DATA = {
 
   audio: { surahNumber: 51, reciter: "ar.alafasy" },
 
-  fullText: [
-    { ayah: 1, arabic: "وَالذَّارِيَاتِ ذَرْوًا", translation: "By the scattering winds that scatter —" },
-    { ayah: 2, arabic: "فَالْحَامِلَاتِ وِقْرًا", translation: "and the burden-bearing clouds —" },
-    { ayah: 3, arabic: "فَالْجَارِيَاتِ يُسْرًا", translation: "and the ships that glide with ease —" },
-    { ayah: 4, arabic: "فَالْمُقَسِّمَاتِ أَمْرًا", translation: "and the angels that distribute every command —" },
-    { ayah: 5, arabic: "إِنَّمَا تُوعَدُونَ لَصَادِقٌ", translation: "indeed, what you are promised is true," },
-    { ayah: 6, arabic: "وَإِنَّ الدِّينَ لَوَاقِعٌ", translation: "and indeed, the recompense will occur." },
-    { ayah: 7, arabic: "وَالسَّمَاءِ ذَاتِ الْحُبُكِ", translation: "By the sky full of pathways —" },
-    { ayah: 8, arabic: "إِنَّكُمْ لَفِي قَوْلٍ مُّخْتَلِفٍ", translation: "indeed, you are in contradictory speech." },
-    { ayah: 9, arabic: "يُؤْفَكُ عَنْهُ مَنْ أُفِكَ", translation: "Turned away from it is whoever is deluded." },
-    { ayah: 10, arabic: "قُتِلَ الْخَرَّاصُونَ", translation: "Destroyed are the liars —" },
-    { ayah: 11, arabic: "الَّذِينَ هُمْ فِي غَمْرَةٍ سَاهُونَ", translation: "those who are in a flood of ignorance, heedless." },
-    { ayah: 12, arabic: "يَسْأَلُونَ أَيَّانَ يَوْمُ الدِّينِ", translation: "They ask, 'When is the Day of Recompense?'" },
-    { ayah: 13, arabic: "يَوْمَ هُمْ عَلَى النَّارِ يُفْتَنُونَ", translation: "The Day they will be tried over the Fire." },
-    { ayah: 14, arabic: "ذُوقُوا فِتْنَتَكُمْ هَـٰذَا الَّذِي كُنتُم بِهِ تَسْتَعْجِلُونَ", translation: "'Taste your trial — this is what you wished to hasten.'" },
-    { ayah: 15, arabic: "إِنَّ الْمُتَّقِينَ فِي جَنَّاتٍ وَعُيُونٍ", translation: "Indeed, the righteous are in gardens and springs," },
-    { ayah: 16, arabic: "آخِذِينَ مَا آتَاهُمْ رَبُّهُمْ ۚ إِنَّهُمْ كَانُوا قَبْلَ ذَٰلِكَ مُحْسِنِينَ", translation: "receiving what their Lord has given them. Indeed, they were doers of good before that." },
-    { ayah: 17, arabic: "كَانُوا قَلِيلًا مِّنَ اللَّيْلِ مَا يَهْجَعُونَ", translation: "They used to sleep but little of the night," },
-    { ayah: 18, arabic: "وَبِالْأَسْحَارِ هُمْ يَسْتَغْفِرُونَ", translation: "and before dawn they would seek forgiveness," },
-    { ayah: 19, arabic: "وَفِي أَمْوَالِهِمْ حَقٌّ لِّلسَّائِلِ وَالْمَحْرُومِ", translation: "and in their wealth was a share for the asker and the deprived." },
-    { ayah: 20, arabic: "وَفِي الْأَرْضِ آيَاتٌ لِّلْمُوقِنِينَ", translation: "And in the earth are signs for those who have certainty," },
-    { ayah: 21, arabic: "وَفِي أَنفُسِكُمْ ۚ أَفَلَا تُبْصِرُونَ", translation: "and in yourselves — do you not see?" },
-    { ayah: 22, arabic: "وَفِي السَّمَاءِ رِزْقُكُمْ وَمَا تُوعَدُونَ", translation: "And in the sky is your provision and what you are promised." },
-    { ayah: 23, arabic: "فَوَرَبِّ السَّمَاءِ وَالْأَرْضِ إِنَّهُ لَحَقٌّ مِّثْلَ مَا أَنَّكُمْ تَنطِقُونَ", translation: "By the Lord of heaven and earth, it is as true as the fact that you speak." },
-    { ayah: 24, arabic: "هَلْ أَتَاكَ حَدِيثُ ضَيْفِ إِبْرَاهِيمَ الْمُكْرَمِينَ", translation: "Has the story of Ibrahim's honored guests reached you?" },
-    { ayah: 25, arabic: "إِذْ دَخَلُوا عَلَيْهِ فَقَالُوا سَلَامًا ۖ قَالَ سَلَامٌ قَوْمٌ مُّنكَرُونَ", translation: "When they entered upon him and said, 'Peace.' He said, 'Peace — you are an unfamiliar people.'" },
-    { ayah: 26, arabic: "فَرَاغَ إِلَىٰ أَهْلِهِ فَجَاءَ بِعِجْلٍ سَمِينٍ", translation: "Then he turned to his household and brought a roasted calf." },
-    { ayah: 27, arabic: "فَقَرَّبَهُ إِلَيْهِمْ قَالَ أَلَا تَأْكُلُونَ", translation: "He placed it before them and said, 'Will you not eat?'" },
-    { ayah: 28, arabic: "فَأَوْجَسَ مِنْهُمْ خِيفَةً ۖ قَالُوا لَا تَخَفْ ۖ وَبَشَّرُوهُ بِغُلَامٍ عَلِيمٍ", translation: "Then he felt a fear of them. They said, 'Fear not,' and gave him glad tidings of a knowledgeable son." },
-    { ayah: 29, arabic: "فَأَقْبَلَتِ امْرَأَتُهُ فِي صَرَّةٍ فَصَكَّتْ وَجْهَهَا وَقَالَتْ عَجُوزٌ عَقِيمٌ", translation: "His wife came forward with a cry and struck her face, saying, 'A barren old woman!'" },
-    { ayah: 30, arabic: "قَالُوا كَذَٰلِكِ قَالَ رَبُّكِ ۖ إِنَّهُ هُوَ الْحَكِيمُ الْعَلِيمُ", translation: "They said, 'Thus has your Lord said. He is the Wise, the Knowing.'" },
-    { ayah: 31, arabic: "قَالَ فَمَا خَطْبُكُمْ أَيُّهَا الْمُرْسَلُونَ", translation: "He said, 'Then what is your mission, O messengers?'" },
-    { ayah: 32, arabic: "قَالُوا إِنَّا أُرْسِلْنَا إِلَىٰ قَوْمٍ مُّجْرِمِينَ", translation: "They said, 'We have been sent to a criminal people —'" },
-    { ayah: 33, arabic: "لِنُرْسِلَ عَلَيْهِمْ حِجَارَةً مِّن طِينٍ", translation: "'to send upon them stones of clay,'" },
-    { ayah: 34, arabic: "مُّسَوَّمَةً عِندَ رَبِّكَ لِلْمُسْرِفِينَ", translation: "'marked by your Lord for the transgressors.'" },
-    { ayah: 35, arabic: "فَأَخْرَجْنَا مَن كَانَ فِيهَا مِنَ الْمُؤْمِنِينَ", translation: "So We brought out whoever was in it of believers." },
-    { ayah: 36, arabic: "فَمَا وَجَدْنَا فِيهَا غَيْرَ بَيْتٍ مِّنَ الْمُسْلِمِينَ", translation: "But We found not within it other than a single house of Muslims." },
-    { ayah: 37, arabic: "وَتَرَكْنَا فِيهَا آيَةً لِّلَّذِينَ يَخَافُونَ الْعَذَابَ الْأَلِيمَ", translation: "And We left therein a sign for those who fear the painful punishment." },
-    { ayah: 38, arabic: "وَفِي مُوسَىٰ إِذْ أَرْسَلْنَاهُ إِلَىٰ فِرْعَوْنَ بِسُلْطَانٍ مُّبِينٍ", translation: "And in Musa, when We sent him to Pharaoh with clear authority." },
-    { ayah: 39, arabic: "فَتَوَلَّىٰ بِرُكْنِهِ وَقَالَ سَاحِرٌ أَوْ مَجْنُونٌ", translation: "But he turned away with his supporters and said, 'A sorcerer or a madman.'" },
-    { ayah: 40, arabic: "فَأَخَذْنَاهُ وَجُنُودَهُ فَنَبَذْنَاهُمْ فِي الْيَمِّ وَهُوَ مُلِيمٌ", translation: "So We seized him and his armies and cast them into the sea, and he was blameworthy." },
-    { ayah: 41, arabic: "وَفِي عَادٍ إِذْ أَرْسَلْنَا عَلَيْهِمُ الرِّيحَ الْعَقِيمَ", translation: "And in 'Ad, when We sent upon them the barren wind." },
-    { ayah: 42, arabic: "مَا تَذَرُ مِن شَيْءٍ أَتَتْ عَلَيْهِ إِلَّا جَعَلَتْهُ كَالرَّمِيمِ", translation: "It left nothing it came upon but reduced it to ruin." },
-    { ayah: 43, arabic: "وَفِي ثَمُودَ إِذْ قِيلَ لَهُمْ تَمَتَّعُوا حَتَّىٰ حِينٍ", translation: "And in Thamud, when they were told, 'Enjoy yourselves for a time.'" },
-    { ayah: 44, arabic: "فَعَتَوْا عَنْ أَمْرِ رَبِّهِمْ فَأَخَذَتْهُمُ الصَّاعِقَةُ وَهُمْ يَنظُرُونَ", translation: "But they defied their Lord's command, and the thunderbolt seized them while they watched." },
-    { ayah: 45, arabic: "فَمَا اسْتَطَاعُوا مِن قِيَامٍ وَمَا كَانُوا مُنتَصِرِينَ", translation: "They could neither stand nor defend themselves." },
-    { ayah: 46, arabic: "وَقَوْمَ نُوحٍ مِّن قَبْلُ ۖ إِنَّهُمْ كَانُوا قَوْمًا فَاسِقِينَ", translation: "And the people of Nuh before — they were a defiantly disobedient people." },
-    { ayah: 47, arabic: "وَالسَّمَاءَ بَنَيْنَاهَا بِأَيْدٍ وَإِنَّا لَمُوسِعُونَ", translation: "And the heaven We built with great power, and We are surely expanding it." },
-    { ayah: 48, arabic: "وَالْأَرْضَ فَرَشْنَاهَا فَنِعْمَ الْمَاهِدُونَ", translation: "And the earth We spread out — and how excellent a spreader." },
-    { ayah: 49, arabic: "وَمِن كُلِّ شَيْءٍ خَلَقْنَا زَوْجَيْنِ لَعَلَّكُمْ تَذَكَّرُونَ", translation: "And from everything We created pairs, so that you might reflect." },
-    { ayah: 50, arabic: "فَفِرُّوا إِلَى اللَّهِ ۖ إِنِّي لَكُم مِّنْهُ نَذِيرٌ مُّبِينٌ", translation: "So flee to Allah — indeed, I am a clear warner to you from Him." },
-    { ayah: 51, arabic: "وَلَا تَجْعَلُوا مَعَ اللَّهِ إِلَـٰهًا آخَرَ ۖ إِنِّي لَكُم مِّنْهُ نَذِيرٌ مُّبِينٌ", translation: "And do not set up with Allah another deity. Indeed, I am a clear warner to you from Him." },
-    { ayah: 52, arabic: "كَذَٰلِكَ مَا أَتَى الَّذِينَ مِن قَبْلِهِم مِّن رَّسُولٍ إِلَّا قَالُوا سَاحِرٌ أَوْ مَجْنُونٌ", translation: "Similarly, no messenger came to those before them except that they said, 'A sorcerer or a madman.'" },
-    { ayah: 53, arabic: "أَتَوَاصَوْا بِهِ ۚ بَلْ هُمْ قَوْمٌ طَاغُونَ", translation: "Did they pass this down to one another? No, they are a transgressing people." },
-    { ayah: 54, arabic: "فَتَوَلَّ عَنْهُمْ فَمَا أَنتَ بِمَلُومٍ", translation: "So turn away from them, for you are not to be blamed." },
-    { ayah: 55, arabic: "وَذَكِّرْ فَإِنَّ الذِّكْرَىٰ تَنفَعُ الْمُؤْمِنِينَ", translation: "And remind, for the reminder benefits the believers." },
-    { ayah: 56, arabic: "وَمَا خَلَقْتُ الْجِنَّ وَالْإِنسَ إِلَّا لِيَعْبُدُونِ", translation: "And I did not create the jinn and mankind except to worship Me." },
-    { ayah: 57, arabic: "مَا أُرِيدُ مِنْهُم مِّن رِّزْقٍ وَمَا أُرِيدُ أَن يُطْعِمُونِ", translation: "I do not want from them any provision, nor do I want them to feed Me." },
-    { ayah: 58, arabic: "إِنَّ اللَّهَ هُوَ الرَّزَّاقُ ذُو الْقُوَّةِ الْمَتِينُ", translation: "Indeed, Allah is the Provider, the Possessor of Power, the Firm." },
-    { ayah: 59, arabic: "فَإِنَّ لِلَّذِينَ ظَلَمُوا ذَنُوبًا مِّثْلَ ذَنُوبِ أَصْحَابِهِمْ فَلَا يَسْتَعْجِلُونِ", translation: "Indeed, for those who wrong is a portion like the portion of their predecessors, so let them not rush Me." },
-    { ayah: 60, arabic: "فَوَيْلٌ لِّلَّذِينَ كَفَرُوا مِن يَوْمِهِمُ الَّذِي يُوعَدُونَ", translation: "So woe to those who disbelieve from their Day which they are promised." },
-  ],
 
   diagrams: {
     sectionJourney: {
@@ -136,7 +74,7 @@ const SURAH_DATA = {
       layers: [
         { depth: 1, label: "Invisible Provision", ayah: "1–4", arabic: "وَالذَّارِيَاتِ ذَرْوًا", desc: "The opening oaths swear on forces that carry, distribute, and deliver — unseen agents of provision moving through the cosmos. The winds scatter seeds, the clouds carry rain, the ships carry goods, the angels carry divine commands.", color: "#4ecdc4" },
         { depth: 2, label: "Provision in the Sky", ayah: "22", arabic: "وَفِي السَّمَاءِ رِزْقُكُمْ", desc: "In the sky is your provision and what you are promised. Rizq appears here as something above you — descending, given, beyond your control. The direction of dependence flows downward from heaven.", color: "#9b7fd4" },
-        { depth: 3, label: "The Purpose", ayah: "56", arabic: "إِلَّا لِيَعْبُدُونِ", desc: "You were created to worship — not to provide. The verb ya'budun carries the physical image of a path worn smooth by repeated walking. Worship is the beaten track of the soul returning to its source.", color: "#C9A84C" },
+        { depth: 3, label: "The Purpose", ayah: "56", arabic: "إِلَّا لِيَعْبُدُونِ", desc: "You were created to worship — not to provide. The verb ya'budun carries the physical image of a path worn smooth by repeated walking. Worship is the beaten track of the soul returning to its source.", color: "#C9A84C" },
         { depth: 4, label: "God Needs Nothing", ayah: "57–58", arabic: "مَا أُرِيدُ مِنْهُم مِّن رِّزْقٍ", desc: "I do not want from them any provision. The arc completes: God provides everything, God needs nothing. Rizq flows one way — from Creator to created — and never in reverse.", color: "#e07a8a" },
       ],
     },
@@ -170,7 +108,6 @@ const TABS = [
   { id: "ring", label: "Ring" },
   { id: "provision", label: "Provision" },
   { id: "absent", label: "Absences" },
-  { id: "text", label: "Text" },
 ];
 
 // ══════════════════════════════════════════════════════════════════════════════
@@ -288,21 +225,6 @@ function HeartVerse({ verse }: { verse: typeof SURAH_DATA.heartVerse }) {
   );
 }
 
-function FullSurahText({ verses }: { verses: typeof SURAH_DATA.fullText }) {
-  return (
-    <div className="space-y-5">
-      {verses.map((v) => (
-        <div key={v.ayah} className="space-y-1">
-          <p className="text-xl leading-loose text-right text-cream font-amiri" style={{ direction: "rtl" }}>
-            {v.arabic}{" "}
-            <span className="text-sm text-cream-muted/50">﴿{v.ayah}﴾</span>
-          </p>
-          <p className="text-sm text-cream-muted/60 font-body">{v.translation}</p>
-        </div>
-      ))}
-    </div>
-  );
-}
 
 function SectionJourney({ data }: { data: typeof SURAH_DATA.diagrams.sectionJourney }) {
   return (
@@ -494,13 +416,7 @@ export default function SurahArchitecture() {
           {activeTab === "ring" && <ChiasticRing data={d.diagrams.chiasticRing} />}
           {activeTab === "provision" && <DeductiveFunnel data={d.diagrams.deductiveFunnel} />}
           {activeTab === "absent" && <AbsenceMap data={d.diagrams.absenceMap} />}
-          {activeTab === "text" && (
-            <div className="space-y-6">
-              <FullSurahText verses={d.fullText} />
-              <OrnamentDivider />
-              <HeartVerse verse={d.heartVerse} />
-            </div>
-          )}
+          <div className="space-y-6 pt-6 border-t border-white/[0.06]"><HeartVerse verse={d.heartVerse} /></div>
         </div>
 
         {/* ── Go Deeper ────────────────────────────────────────────────────── */}

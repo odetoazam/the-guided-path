@@ -30,19 +30,6 @@ const SURAH_DATA = {
 
   audio: { surahNumber: 101, reciter: "ar.alafasy" },
 
-  fullText: [
-    { ayah: 1, arabic: "الْقَارِعَةُ", translation: "The Striking Calamity —" },
-    { ayah: 2, arabic: "مَا الْقَارِعَةُ", translation: "What is the Striking Calamity?" },
-    { ayah: 3, arabic: "وَمَا أَدْرَاكَ مَا الْقَارِعَةُ", translation: "And what will make you realize what the Striking Calamity is?" },
-    { ayah: 4, arabic: "يَوْمَ يَكُونُ النَّاسُ كَالْفَرَاشِ الْمَبْثُوثِ", translation: "The Day when people will be like moths scattered about," },
-    { ayah: 5, arabic: "وَتَكُونُ الْجِبَالُ كَالْعِهْنِ الْمَنفُوشِ", translation: "and the mountains will be like carded wool." },
-    { ayah: 6, arabic: "فَأَمَّا مَن ثَقُلَتْ مَوَازِينُهُ", translation: "As for the one whose scales are heavy —" },
-    { ayah: 7, arabic: "فَهُوَ فِي عِيشَةٍ رَّاضِيَةٍ", translation: "they will be in a pleasant life." },
-    { ayah: 8, arabic: "وَأَمَّا مَنْ خَفَّتْ مَوَازِينُهُ", translation: "And as for the one whose scales are light —" },
-    { ayah: 9, arabic: "فَأُمُّهُ هَاوِيَةٌ", translation: "their mother is the Abyss." },
-    { ayah: 10, arabic: "وَمَا أَدْرَاكَ مَا هِيَهْ", translation: "And what will make you realize what it is?" },
-    { ayah: 11, arabic: "نَارٌ حَامِيَةٌ", translation: "A scorching fire." },
-  ],
 
   diagrams: {
     sectionJourney: {
@@ -115,7 +102,6 @@ const TABS = [
   { id: "frame", label: "Frame" },
   { id: "compression", label: "Compression" },
   { id: "absent", label: "Absences" },
-  { id: "text", label: "Text" },
 ];
 
 // ══════════════════════════════════════════════════════════════════════════════
@@ -233,21 +219,6 @@ function HeartVerse({ verse }: { verse: typeof SURAH_DATA.heartVerse }) {
   );
 }
 
-function FullSurahText({ verses }: { verses: typeof SURAH_DATA.fullText }) {
-  return (
-    <div className="space-y-5">
-      {verses.map((v) => (
-        <div key={v.ayah} className="space-y-1">
-          <p className="text-xl leading-loose text-right text-cream font-amiri" style={{ direction: "rtl" }}>
-            {v.arabic}{" "}
-            <span className="text-sm text-cream-muted/50">﴿{v.ayah}﴾</span>
-          </p>
-          <p className="text-sm text-cream-muted/60 font-body">{v.translation}</p>
-        </div>
-      ))}
-    </div>
-  );
-}
 
 function SectionJourney({ data }: { data: typeof SURAH_DATA.diagrams.sectionJourney }) {
   return (
@@ -439,13 +410,7 @@ export default function SurahArchitecture() {
           {activeTab === "frame" && <ChiasticRing data={d.diagrams.chiasticRing} />}
           {activeTab === "compression" && <DeductiveFunnel data={d.diagrams.deductiveFunnel} />}
           {activeTab === "absent" && <AbsenceMap data={d.diagrams.absenceMap} />}
-          {activeTab === "text" && (
-            <div className="space-y-6">
-              <FullSurahText verses={d.fullText} />
-              <OrnamentDivider />
-              <HeartVerse verse={d.heartVerse} />
-            </div>
-          )}
+          <div className="space-y-6 pt-6 border-t border-white/[0.06]"><HeartVerse verse={d.heartVerse} /></div>
         </div>
 
         {/* ── Go Deeper ────────────────────────────────────────────────────── */}

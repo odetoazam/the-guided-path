@@ -30,33 +30,6 @@ const SURAH_DATA = {
 
   audio: { surahNumber: 84, reciter: "ar.alafasy" },
 
-  fullText: [
-    { ayah: 1, arabic: "إِذَا السَّمَاءُ انشَقَّتْ", translation: "When the sky has split open —" },
-    { ayah: 2, arabic: "وَأَذِنَتْ لِرَبِّهَا وَحُقَّتْ", translation: "and listened to its Lord, as it must —" },
-    { ayah: 3, arabic: "وَإِذَا الْأَرْضُ مُدَّتْ", translation: "and when the earth has been extended —" },
-    { ayah: 4, arabic: "وَأَلْقَتْ مَا فِيهَا وَتَخَلَّتْ", translation: "and has cast out what is within it and become empty —" },
-    { ayah: 5, arabic: "وَأَذِنَتْ لِرَبِّهَا وَحُقَّتْ", translation: "and listened to its Lord, as it must —" },
-    { ayah: 6, arabic: "يَا أَيُّهَا الْإِنسَانُ إِنَّكَ كَادِحٌ إِلَىٰ رَبِّكَ كَدْحًا فَمُلَاقِيهِ", translation: "O human being, you are laboring toward your Lord with great effort — and you will meet Him." },
-    { ayah: 7, arabic: "فَأَمَّا مَنْ أُوتِيَ كِتَابَهُ بِيَمِينِهِ", translation: "As for the one given his record in his right hand —" },
-    { ayah: 8, arabic: "فَسَوْفَ يُحَاسَبُ حِسَابًا يَسِيرًا", translation: "he will be judged with an easy accounting —" },
-    { ayah: 9, arabic: "وَيَنقَلِبُ إِلَىٰ أَهْلِهِ مَسْرُورًا", translation: "and return to his family in happiness." },
-    { ayah: 10, arabic: "وَأَمَّا مَنْ أُوتِيَ كِتَابَهُ وَرَاءَ ظَهْرِهِ", translation: "But as for the one given his record behind his back —" },
-    { ayah: 11, arabic: "فَسَوْفَ يَدْعُو ثُبُورًا", translation: "he will cry out for destruction —" },
-    { ayah: 12, arabic: "وَيَصْلَىٰ سَعِيرًا", translation: "and will burn in a blaze." },
-    { ayah: 13, arabic: "إِنَّهُ كَانَ فِي أَهْلِهِ مَسْرُورًا", translation: "He used to be among his people in happiness —" },
-    { ayah: 14, arabic: "إِنَّهُ ظَنَّ أَن لَّن يَحُورَ", translation: "he thought he would never return." },
-    { ayah: 15, arabic: "بَلَىٰ إِنَّ رَبَّهُ كَانَ بِهِ بَصِيرًا", translation: "But yes — his Lord was watching him." },
-    { ayah: 16, arabic: "فَلَا أُقْسِمُ بِالشَّفَقِ", translation: "I swear by the twilight —" },
-    { ayah: 17, arabic: "وَاللَّيْلِ وَمَا وَسَقَ", translation: "and by the night and what it gathers —" },
-    { ayah: 18, arabic: "وَالْقَمَرِ إِذَا اتَّسَقَ", translation: "and by the moon when it becomes full —" },
-    { ayah: 19, arabic: "لَتَرْكَبُنَّ طَبَقًا عَن طَبَقٍ", translation: "you will surely travel from stage to stage." },
-    { ayah: 20, arabic: "فَمَا لَهُمْ لَا يُؤْمِنُونَ", translation: "So what is the matter with them that they do not believe?" },
-    { ayah: 21, arabic: "وَإِذَا قُرِئَ عَلَيْهِمُ الْقُرْآنُ لَا يَسْجُدُونَ", translation: "And when the Quran is recited to them, they do not prostrate?" },
-    { ayah: 22, arabic: "بَلِ الَّذِينَ كَفَرُوا يُكَذِّبُونَ", translation: "Rather, those who disbelieve deny." },
-    { ayah: 23, arabic: "وَاللَّهُ أَعْلَمُ بِمَا يُوعُونَ", translation: "And Allah knows best what they contain." },
-    { ayah: 24, arabic: "فَبَشِّرْهُم بِعَذَابٍ أَلِيمٍ", translation: "So give them tidings of a painful punishment —" },
-    { ayah: 25, arabic: "إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ", translation: "except those who believe and do righteous deeds — for them is a reward uninterrupted." },
-  ],
 
   diagrams: {
     sectionJourney: {
@@ -102,7 +75,7 @@ const SURAH_DATA = {
         { depth: 1, label: "The Sky's Crossing", ayah: "1–2", arabic: "إِذَا السَّمَاءُ انشَقَّتْ", desc: "From intact to split. The reflexive form — inshaqqat — means the sky tears itself open from within. Its obedience is not reluctant compliance; it is the only response that makes sense.", color: "#4ecdc4" },
         { depth: 2, label: "The Human Crossing", ayah: "6", arabic: "كَادِحٌ إِلَىٰ رَبِّكَ كَدْحًا فَمُلَاقِيهِ", desc: "From labor to meeting. The word kadih — toil, strain — describes every human life without distinction. The labor is universal. What differs is the meeting.", color: "#e07a8a" },
         { depth: 3, label: "The Natural Crossings", ayah: "16–18", arabic: "بِالشَّفَقِ...وَمَا وَسَقَ...إِذَا اتَّسَقَ", desc: "Twilight to night to full moon. Three images from the same root w-s-q — gathering and becoming full are two faces of the same process. The cosmos demonstrates the stages the surah names.", color: "#C9A84C" },
-        { depth: 4, label: "The Named Crossing", ayah: "19", arabic: "لَتَرْكَبُنَّ طَبَقًا عَن طَبَقٍ", desc: "The thesis-bearing verse. Layer upon layer, stage upon stage. The emphatic la- with the heavy nun makes this one of the Quran's strongest declarations. You are already in transit.", color: "#9b7fd4" },
+        { depth: 4, label: "The Named Crossing", ayah: "19", arabic: "لَتَرْكَبُنَّ طَبَقًا عَن طَبَقٍ", desc: "The thesis-bearing verse. Layer upon layer, stage upon stage. The emphatic la- with the heavy nun makes this one of the Quran's strongest declarations. You are already in transit.", color: "#9b7fd4" },
       ],
     },
     absenceMap: {
@@ -135,7 +108,6 @@ const TABS = [
   { id: "inversion", label: "Inversion" },
   { id: "thresholds", label: "Thresholds" },
   { id: "absent", label: "Absences" },
-  { id: "text", label: "Text" },
 ];
 
 // ══════════════════════════════════════════════════════════════════════════════
@@ -253,21 +225,6 @@ function HeartVerse({ verse }: { verse: typeof SURAH_DATA.heartVerse }) {
   );
 }
 
-function FullSurahText({ verses }: { verses: typeof SURAH_DATA.fullText }) {
-  return (
-    <div className="space-y-5">
-      {verses.map((v) => (
-        <div key={v.ayah} className="space-y-1">
-          <p className="text-xl leading-loose text-right text-cream font-amiri" style={{ direction: "rtl" }}>
-            {v.arabic}{" "}
-            <span className="text-sm text-cream-muted/50">{"\uFD3E"}{v.ayah}{"\uFD3F"}</span>
-          </p>
-          <p className="text-sm text-cream-muted/60 font-body">{v.translation}</p>
-        </div>
-      ))}
-    </div>
-  );
-}
 
 function SectionJourney({ data }: { data: typeof SURAH_DATA.diagrams.sectionJourney }) {
   return (
@@ -459,13 +416,7 @@ export default function SurahArchitecture() {
           {activeTab === "inversion" && <ChiasticRing data={d.diagrams.chiasticRing} />}
           {activeTab === "thresholds" && <DeductiveFunnel data={d.diagrams.deductiveFunnel} />}
           {activeTab === "absent" && <AbsenceMap data={d.diagrams.absenceMap} />}
-          {activeTab === "text" && (
-            <div className="space-y-6">
-              <FullSurahText verses={d.fullText} />
-              <OrnamentDivider />
-              <HeartVerse verse={d.heartVerse} />
-            </div>
-          )}
+          <div className="space-y-6 pt-6 border-t border-white/[0.06]"><HeartVerse verse={d.heartVerse} /></div>
         </div>
 
         {/* -- Go Deeper --------------------------------------------------- */}

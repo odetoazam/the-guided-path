@@ -22,7 +22,7 @@ const SURAH_DATA = {
 
   sciencesActive: [{"key":"balaghah","english":"Rhetoric"},{"key":"nazm","english":"Structural Coherence"},{"key":"amthal","english":"Parables"}],
   heartVerse: {
-    arabic: "فَذَكِّرْ إِنَّمَا أَنتَ مُذَكِّرٌ",
+    arabic: "فَذَكِّرْ إِنَّمَآ أَنتَ مُذَكِّرٌ",
     ayahRef: "88:21",
     translation: "So remind — you are only a reminder.",
     why: "The surah circumscribes the entire prophetic mission in six words. The word mudhakkir defines the function: to cause others to remember what they already know. Paired with musaytir in the next ayah — the one word in the entire Quran that names the specific temptation the Prophet must refuse — this is where the boundary of reminding is drawn most clearly.",
@@ -30,34 +30,6 @@ const SURAH_DATA = {
 
   audio: { surahNumber: 88, reciter: "ar.alafasy" },
 
-  fullText: [
-    { ayah: 1, arabic: "هَلْ أَتَاكَ حَدِيثُ الْغَاشِيَةِ", translation: "Has the news of the Overwhelming Event reached you?" },
-    { ayah: 2, arabic: "وُجُوهٌ يَوْمَئِذٍ خَاشِعَةٌ", translation: "Faces on that Day will be humbled," },
-    { ayah: 3, arabic: "عَامِلَةٌ نَّاصِبَةٌ", translation: "laboring, exhausted —" },
-    { ayah: 4, arabic: "تَصْلَىٰ نَارًا حَامِيَةً", translation: "entering a scorching fire," },
-    { ayah: 5, arabic: "تُسْقَىٰ مِنْ عَيْنٍ آنِيَةٍ", translation: "drinking from a boiling spring." },
-    { ayah: 6, arabic: "لَّيْسَ لَهُمْ طَعَامٌ إِلَّا مِن ضَرِيعٍ", translation: "They will have no food except bitter thorns —" },
-    { ayah: 7, arabic: "لَّا يُسْمِنُ وَلَا يُغْنِي مِن جُوعٍ", translation: "which neither nourishes nor satisfies hunger." },
-    { ayah: 8, arabic: "وُجُوهٌ يَوْمَئِذٍ نَّاعِمَةٌ", translation: "Faces on that Day will be radiant," },
-    { ayah: 9, arabic: "لِّسَعْيِهَا رَاضِيَةٌ", translation: "satisfied with their effort," },
-    { ayah: 10, arabic: "فِي جَنَّةٍ عَالِيَةٍ", translation: "in an elevated garden," },
-    { ayah: 11, arabic: "لَّا تَسْمَعُ فِيهَا لَاغِيَةً", translation: "hearing no idle talk in it." },
-    { ayah: 12, arabic: "فِيهَا عَيْنٌ جَارِيَةٌ", translation: "In it is a flowing spring," },
-    { ayah: 13, arabic: "فِيهَا سُرُرٌ مَّرْفُوعَةٌ", translation: "raised couches," },
-    { ayah: 14, arabic: "وَأَكْوَابٌ مَّوْضُوعَةٌ", translation: "placed cups," },
-    { ayah: 15, arabic: "وَنَمَارِقُ مَصْفُوفَةٌ", translation: "lined cushions," },
-    { ayah: 16, arabic: "وَزَرَابِيُّ مَبْثُوثَةٌ", translation: "and spread carpets." },
-    { ayah: 17, arabic: "أَفَلَا يَنظُرُونَ إِلَى الْإِبِلِ كَيْفَ خُلِقَتْ", translation: "Do they not look at the camels — how they were created?" },
-    { ayah: 18, arabic: "وَإِلَى السَّمَاءِ كَيْفَ رُفِعَتْ", translation: "And at the sky — how it was raised?" },
-    { ayah: 19, arabic: "وَإِلَى الْجِبَالِ كَيْفَ نُصِبَتْ", translation: "And at the mountains — how they were set firm?" },
-    { ayah: 20, arabic: "وَإِلَى الْأَرْضِ كَيْفَ سُطِحَتْ", translation: "And at the earth — how it was spread out?" },
-    { ayah: 21, arabic: "فَذَكِّرْ إِنَّمَا أَنتَ مُذَكِّرٌ", translation: "So remind — you are only a reminder." },
-    { ayah: 22, arabic: "لَّسْتَ عَلَيْهِم بِمُصَيْطِرٍ", translation: "You are not over them a controller." },
-    { ayah: 23, arabic: "إِلَّا مَن تَوَلَّىٰ وَكَفَرَ", translation: "But the one who turns away and disbelieves —" },
-    { ayah: 24, arabic: "فَيُعَذِّبُهُ اللَّهُ الْعَذَابَ الْأَكْبَرَ", translation: "Allah will punish him with the greatest punishment." },
-    { ayah: 25, arabic: "إِنَّ إِلَيْنَا إِيَابَهُمْ", translation: "Indeed, to Us is their return," },
-    { ayah: 26, arabic: "ثُمَّ إِنَّ عَلَيْنَا حِسَابَهُمْ", translation: "then indeed, upon Us is their account." },
-  ],
 
   diagrams: {
     sectionJourney: {
@@ -128,7 +100,6 @@ const TABS = [
   { id: "faces", label: "Faces" },
   { id: "signs", label: "Signs" },
   { id: "absent", label: "Absences" },
-  { id: "text", label: "Text" },
 ];
 
 // ══════════════════════════════════════════════════════════════════════════════
@@ -246,21 +217,6 @@ function HeartVerse({ verse }: { verse: typeof SURAH_DATA.heartVerse }) {
   );
 }
 
-function FullSurahText({ verses }: { verses: typeof SURAH_DATA.fullText }) {
-  return (
-    <div className="space-y-5">
-      {verses.map((v) => (
-        <div key={v.ayah} className="space-y-1">
-          <p className="text-xl leading-loose text-right text-cream font-amiri" style={{ direction: "rtl" }}>
-            {v.arabic}{" "}
-            <span className="text-sm text-cream-muted/50">{"\uFD3E"}{v.ayah}{"\uFD3F"}</span>
-          </p>
-          <p className="text-sm text-cream-muted/60 font-body">{v.translation}</p>
-        </div>
-      ))}
-    </div>
-  );
-}
 
 function SectionJourney({ data }: { data: typeof SURAH_DATA.diagrams.sectionJourney }) {
   return (
@@ -459,13 +415,7 @@ export default function SurahArchitecture() {
           {activeTab === "faces" && <ContrastPairs data={d.diagrams.contrastPairs} />}
           {activeTab === "signs" && <FourSigns data={d.diagrams.fourSigns} />}
           {activeTab === "absent" && <AbsenceMap data={d.diagrams.absenceMap} />}
-          {activeTab === "text" && (
-            <div className="space-y-6">
-              <FullSurahText verses={d.fullText} />
-              <OrnamentDivider />
-              <HeartVerse verse={d.heartVerse} />
-            </div>
-          )}
+          <div className="space-y-6 pt-6 border-t border-white/[0.06]"><HeartVerse verse={d.heartVerse} /></div>
         </div>
 
         {/* -- Go Deeper --------------------------------------------------- */}

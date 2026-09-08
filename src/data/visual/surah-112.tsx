@@ -24,7 +24,7 @@ const SURAH_DATA = {
   sciencesActive: [{"key":"aqeedah","english":"Theology"},{"key":"ijaz","english":"Inimitability"},{"key":"nahw","english":"Grammar"}],
   // ── Heart Verse ───────────────────────────────────────────────────────────
   heartVerse: {
-    arabic: "ٱللَّهُ ٱلصَّمَدُ",
+    arabic: "ٱللَّهُ ٱلصَّمَدُ",
     ayahRef: "112:2",
     translation:
       "God, the Eternal Refuge — the one all things depend upon.",
@@ -39,33 +39,6 @@ const SURAH_DATA = {
   },
 
   // ── Full Surah Text (micro surah — displayed above tabs) ──────────────────
-  fullText: [
-    {
-      ayah: 1,
-      arabic: "قُلْ هُوَ ٱللَّهُ أَحَدٌ",
-      ayahRef: "112:1",
-      translation: "Say: He is God, the One — the Absolute.",
-    },
-    {
-      ayah: 2,
-      arabic: "ٱللَّهُ ٱلصَّمَدُ",
-      ayahRef: "112:2",
-      translation:
-        "God, the Eternal Refuge — the one all things depend upon.",
-    },
-    {
-      ayah: 3,
-      arabic: "لَمْ يَلِدْ وَلَمْ يُولَدْ",
-      ayahRef: "112:3",
-      translation: "He neither begets nor is He begotten.",
-    },
-    {
-      ayah: 4,
-      arabic: "وَلَمْ يَكُن لَّهُۥ كُفُوًا أَحَدٌ",
-      ayahRef: "112:4",
-      translation: "And there is none comparable to Him.",
-    },
-  ],
 
   // ── Diagrams ──────────────────────────────────────────────────────────────
   diagrams: {
@@ -269,7 +242,6 @@ const TABS = [
   { id: "diamond", label: "Diamond" },
   { id: "room", label: "Sealed Room" },
   { id: "absent", label: "Absences" },
-  { id: "text", label: "Text" },
 ];
 
 // ══════════════════════════════════════════════════════════════════════════════
@@ -387,21 +359,6 @@ function HeartVerse({ verse }: { verse: typeof SURAH_DATA.heartVerse }) {
   );
 }
 
-function FullSurahText({ verses }: { verses: typeof SURAH_DATA.fullText }) {
-  return (
-    <div className="space-y-5">
-      {verses.map((v) => (
-        <div key={v.ayah} className="space-y-1">
-          <p className="text-xl leading-loose text-right text-cream font-amiri" style={{ direction: "rtl" }}>
-            {v.arabic}{" "}
-            <span className="text-sm text-cream-muted/50">﴿{v.ayah}﴾</span>
-          </p>
-          <p className="text-sm text-cream-muted/60 font-body">{v.translation}</p>
-        </div>
-      ))}
-    </div>
-  );
-}
 
 function DeductiveFunnel({ data }: { data: typeof SURAH_DATA.diagrams.deductiveFunnel }) {
   const [expanded, setExpanded] = useState<number | null>(null);
@@ -617,13 +574,7 @@ export default function SurahArchitecture() {
           {activeTab === "diamond" && <CompressionViz data={d.diagrams.compression} />}
           {activeTab === "room" && <SealedRoom data={d.diagrams.sealedRoom} />}
           {activeTab === "absent" && <AbsenceMap data={d.diagrams.absenceMap} />}
-          {activeTab === "text" && (
-            <div className="space-y-6">
-              <FullSurahText verses={d.fullText} />
-              <OrnamentDivider />
-              <HeartVerse verse={d.heartVerse} />
-            </div>
-          )}
+          <div className="space-y-6 pt-6 border-t border-white/[0.06]"><HeartVerse verse={d.heartVerse} /></div>
         </div>
 
         {/* ── Go Deeper ────────────────────────────────────────────────────── */}

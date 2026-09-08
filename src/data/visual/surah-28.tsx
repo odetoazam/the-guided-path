@@ -30,18 +30,6 @@ const SURAH_DATA = {
 
   audio: { surahNumber: 28, reciter: "ar.alafasy" },
 
-  fullText: [
-    { ayah: 1, arabic: "طسم", translation: "Ta-Sin-Mim." },
-    { ayah: 2, arabic: "تِلْكَ آيَاتُ الْكِتَابِ الْمُبِينِ", translation: "These are the verses of the clear Book." },
-    { ayah: 5, arabic: "وَنُرِيدُ أَن نَّمُنَّ عَلَى الَّذِينَ اسْتُضْعِفُوا فِي الْأَرْضِ", translation: "And We wished to bestow favor upon those who were oppressed in the land." },
-    { ayah: 7, arabic: "وَأَوْحَيْنَا إِلَىٰ أُمِّ مُوسَىٰ أَنْ أَرْضِعِيهِ", translation: "And We inspired the mother of Musa: Nurse him." },
-    { ayah: 10, arabic: "وَأَصْبَحَ فُؤَادُ أُمِّ مُوسَىٰ فَارِغًا", translation: "And the heart of Musa's mother became empty." },
-    { ayah: 24, arabic: "رَبِّ إِنِّي لِمَا أَنزَلْتَ إِلَيَّ مِنْ خَيْرٍ فَقِيرٌ", translation: "My Lord, I am in desperate need of whatever good You send down to me." },
-    { ayah: 56, arabic: "إِنَّكَ لَا تَهْدِي مَنْ أَحْبَبْتَ وَلَـٰكِنَّ اللَّهَ يَهْدِي مَن يَشَاءُ", translation: "You do not guide whom you love, but Allah guides whom He wills." },
-    { ayah: 78, arabic: "إِنَّمَا أُوتِيتُهُ عَلَىٰ عِلْمٍ عِندِي", translation: "I was only given it because of knowledge I possess." },
-    { ayah: 83, arabic: "تِلْكَ الدَّارُ الْآخِرَةُ نَجْعَلُهَا لِلَّذِينَ لَا يُرِيدُونَ عُلُوًّا فِي الْأَرْضِ وَلَا فَسَادًا", translation: "That home of the Hereafter — We assign it to those who do not desire exaltedness upon the earth or corruption." },
-    { ayah: 88, arabic: "كُلُّ شَيْءٍ هَالِكٌ إِلَّا وَجْهَهُ", translation: "Everything will be destroyed except His face." },
-  ],
 
   diagrams: {
     sectionJourney: {
@@ -121,7 +109,6 @@ const TABS = [
   { id: "mirror", label: "Mirror" },
   { id: "formation", label: "Formation" },
   { id: "absent", label: "Absences" },
-  { id: "text", label: "Text" },
 ];
 
 // ══════════════════════════════════════════════════════════════════════════════
@@ -212,20 +199,6 @@ function HeartVerse({ verse }: { verse: typeof SURAH_DATA.heartVerse }) {
   );
 }
 
-function FullSurahText({ verses }: { verses: typeof SURAH_DATA.fullText }) {
-  return (
-    <div className="space-y-5">
-      {verses.map((v) => (
-        <div key={v.ayah} className="space-y-1">
-          <p className="text-xl leading-loose text-right text-cream font-amiri" style={{ direction: "rtl" }}>
-            {v.arabic} <span className="text-sm text-cream-muted/50">{"\uFD3E"}{v.ayah}{"\uFD3F"}</span>
-          </p>
-          <p className="text-sm text-cream-muted/60 font-body">{v.translation}</p>
-        </div>
-      ))}
-    </div>
-  );
-}
 
 function SectionJourney({ data }: { data: typeof SURAH_DATA.diagrams.sectionJourney }) {
   return (
@@ -366,13 +339,7 @@ export default function SurahArchitecture() {
           {activeTab === "mirror" && <ChiasticRing data={d.diagrams.chiasticRing} />}
           {activeTab === "formation" && <DeductiveFunnel data={d.diagrams.deductiveFunnel} />}
           {activeTab === "absent" && <AbsenceMap data={d.diagrams.absenceMap} />}
-          {activeTab === "text" && (
-            <div className="space-y-6">
-              <FullSurahText verses={d.fullText} />
-              <OrnamentDivider />
-              <HeartVerse verse={d.heartVerse} />
-            </div>
-          )}
+          <div className="space-y-6 pt-6 border-t border-white/[0.06]"><HeartVerse verse={d.heartVerse} /></div>
         </div>
 
         <OrnamentDivider />

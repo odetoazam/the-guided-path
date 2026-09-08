@@ -30,22 +30,6 @@ const SURAH_DATA = {
 
   audio: { surahNumber: 61, reciter: "ar.alafasy" },
 
-  fullText: [
-    { ayah: 1, arabic: "سَبَّحَ لِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۖ وَهُوَ الْعَزِيزُ الْحَكِيمُ", translation: "Whatever is in the heavens and whatever is on the earth glorifies Allah, and He is the Almighty, the Wise." },
-    { ayah: 2, arabic: "يَا أَيُّهَا الَّذِينَ آمَنُوا لِمَ تَقُولُونَ مَا لَا تَفْعَلُونَ", translation: "O you who believe, why do you say what you do not do?" },
-    { ayah: 3, arabic: "كَبُرَ مَقْتًا عِندَ اللَّهِ أَن تَقُولُوا مَا لَا تَفْعَلُونَ", translation: "Great is hatred in the sight of Allah that you say what you do not do." },
-    { ayah: 4, arabic: "إِنَّ اللَّهَ يُحِبُّ الَّذِينَ يُقَاتِلُونَ فِي سَبِيلِهِ صَفًّا كَأَنَّهُم بُنْيَانٌ مَّرْصُوصٌ", translation: "Indeed, Allah loves those who fight in His cause in a rank as though they are a structure joined firmly." },
-    { ayah: 5, arabic: "وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِ يَا قَوْمِ لِمَ تُؤْذُونَنِي وَقَد تَّعْلَمُونَ أَنِّي رَسُولُ اللَّهِ إِلَيْكُمْ ۖ فَلَمَّا زَاغُوا أَزَاغَ اللَّهُ قُلُوبَهُمْ ۚ وَاللَّهُ لَا يَهْدِي الْقَوْمَ الْفَاسِقِينَ", translation: "And when Musa said to his people, 'O my people, why do you harm me when you know I am the messenger of Allah to you?' So when they deviated, Allah caused their hearts to deviate. And Allah does not guide the defiantly disobedient." },
-    { ayah: 6, arabic: "وَإِذْ قَالَ عِيسَى ابْنُ مَرْيَمَ يَا بَنِي إِسْرَائِيلَ إِنِّي رَسُولُ اللَّهِ إِلَيْكُم مُّصَدِّقًا لِّمَا بَيْنَ يَدَيَّ مِنَ التَّوْرَاةِ وَمُبَشِّرًا بِرَسُولٍ يَأْتِي مِن بَعْدِي اسْمُهُ أَحْمَدُ ۖ فَلَمَّا جَاءَهُم بِالْبَيِّنَاتِ قَالُوا هَٰذَا سِحْرٌ مُّبِينٌ", translation: "And when Isa son of Maryam said, 'O Children of Israel, I am the messenger of Allah to you, confirming what came before me of the Torah, and bringing good tidings of a messenger to come after me, whose name is Ahmad.' But when he came to them with clear proofs, they said, 'This is obvious magic.'" },
-    { ayah: 7, arabic: "وَمَنْ أَظْلَمُ مِمَّنِ افْتَرَىٰ عَلَى اللَّهِ الْكَذِبَ وَهُوَ يُدْعَىٰ إِلَى الْإِسْلَامِ ۚ وَاللَّهُ لَا يَهْدِي الْقَوْمَ الظَّالِمِينَ", translation: "And who is more unjust than one who invents a lie about Allah while he is being invited to Islam? And Allah does not guide the wrongdoing people." },
-    { ayah: 8, arabic: "يُرِيدُونَ لِيُطْفِئُوا نُورَ اللَّهِ بِأَفْوَاهِهِمْ وَاللَّهُ مُتِمُّ نُورِهِ وَلَوْ كَرِهَ الْكَافِرُونَ", translation: "They want to extinguish the light of Allah with their mouths, but Allah will complete His light, even though the disbelievers detest it." },
-    { ayah: 9, arabic: "هُوَ الَّذِي أَرْسَلَ رَسُولَهُ بِالْهُدَىٰ وَدِينِ الْحَقِّ لِيُظْهِرَهُ عَلَى الدِّينِ كُلِّهِ وَلَوْ كَرِهَ الْمُشْرِكُونَ", translation: "It is He who sent His Messenger with guidance and the religion of truth to manifest it over all religion, even though the polytheists detest it." },
-    { ayah: 10, arabic: "يَا أَيُّهَا الَّذِينَ آمَنُوا هَلْ أَدُلُّكُمْ عَلَىٰ تِجَارَةٍ تُنجِيكُم مِّنْ عَذَابٍ أَلِيمٍ", translation: "O you who believe, shall I direct you to a transaction that will save you from a painful punishment?" },
-    { ayah: 11, arabic: "تُؤْمِنُونَ بِاللَّهِ وَرَسُولِهِ وَتُجَاهِدُونَ فِي سَبِيلِ اللَّهِ بِأَمْوَالِكُمْ وَأَنفُسِكُمْ ۚ ذَٰلِكُمْ خَيْرٌ لَّكُمْ إِن كُنتُمْ تَعْلَمُونَ", translation: "You believe in Allah and His Messenger and strive in the cause of Allah with your wealth and your lives. That is best for you, if you only knew." },
-    { ayah: 12, arabic: "يَغْفِرْ لَكُمْ ذُنُوبَكُمْ وَيُدْخِلْكُمْ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ وَمَسَاكِنَ طَيِّبَةً فِي جَنَّاتِ عَدْنٍ ۚ ذَٰلِكَ الْفَوْزُ الْعَظِيمُ", translation: "He will forgive your sins and admit you to gardens beneath which rivers flow and pleasant dwellings in the Gardens of Eternity. That is the great success." },
-    { ayah: 13, arabic: "وَأُخْرَىٰ تُحِبُّونَهَا ۖ نَصْرٌ مِّنَ اللَّهِ وَفَتْحٌ قَرِيبٌ ۗ وَبَشِّرِ الْمُؤْمِنِينَ", translation: "And another thing you love: help from Allah and a near victory. And give good tidings to the believers." },
-    { ayah: 14, arabic: "يَا أَيُّهَا الَّذِينَ آمَنُوا كُونُوا أَنصَارَ اللَّهِ كَمَا قَالَ عِيسَى ابْنُ مَرْيَمَ لِلْحَوَارِيِّينَ مَنْ أَنصَارِي إِلَى اللَّهِ ۖ قَالَ الْحَوَارِيُّونَ نَحْنُ أَنصَارُ اللَّهِ ۖ فَآمَنَت طَّائِفَةٌ مِّن بَنِي إِسْرَائِيلَ وَكَفَرَت طَّائِفَةٌ ۖ فَأَيَّدْنَا الَّذِينَ آمَنُوا عَلَىٰ عَدُوِّهِمْ فَأَصْبَحُوا ظَاهِرِينَ", translation: "O you who believe, be helpers of Allah, as Isa son of Maryam said to the disciples, 'Who are my helpers for Allah?' The disciples said, 'We are the helpers of Allah.' So a faction of the Children of Israel believed and a faction disbelieved. Then We supported those who believed against their enemy, and they became dominant." },
-  ],
 
   diagrams: {
     sectionJourney: {
@@ -125,7 +109,6 @@ const TABS = [
   { id: "mirror", label: "Ring" },
   { id: "funnel", label: "Addresses" },
   { id: "absent", label: "Absences" },
-  { id: "text", label: "Text" },
 ];
 
 // ══════════════════════════════════════════════════════════════════════════════
@@ -220,20 +203,6 @@ function HeartVerse({ verse }: { verse: typeof SURAH_DATA.heartVerse }) {
   );
 }
 
-function FullSurahText({ verses }: { verses: typeof SURAH_DATA.fullText }) {
-  return (
-    <div className="space-y-5">
-      {verses.map((v) => (
-        <div key={v.ayah} className="space-y-1">
-          <p className="text-xl leading-loose text-right text-cream font-amiri" style={{ direction: "rtl" }}>
-            {v.arabic} <span className="text-sm text-cream-muted/50">﴿{v.ayah}﴾</span>
-          </p>
-          <p className="text-sm text-cream-muted/60 font-body">{v.translation}</p>
-        </div>
-      ))}
-    </div>
-  );
-}
 
 function SectionJourney({ data }: { data: typeof SURAH_DATA.diagrams.sectionJourney }) {
   return (
@@ -360,13 +329,7 @@ export default function SurahArchitecture() {
           {activeTab === "mirror" && <ChiasticRing data={d.diagrams.chiasticRing} />}
           {activeTab === "funnel" && <DeductiveFunnel data={d.diagrams.deductiveFunnel} />}
           {activeTab === "absent" && <AbsenceMap data={d.diagrams.absenceMap} />}
-          {activeTab === "text" && (
-            <div className="space-y-6">
-              <FullSurahText verses={d.fullText} />
-              <OrnamentDivider />
-              <HeartVerse verse={d.heartVerse} />
-            </div>
-          )}
+          <div className="space-y-6 pt-6 border-t border-white/[0.06]"><HeartVerse verse={d.heartVerse} /></div>
         </div>
 
         <OrnamentDivider />

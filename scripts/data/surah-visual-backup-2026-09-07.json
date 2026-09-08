@@ -1,0 +1,2355 @@
+[
+ {
+  "surah_number": 26,
+  "name": "Ash-Shu'ara",
+  "arabic_name": "الشُّعَراء",
+  "meaning": "The Poets",
+  "thesis": "Seven prophets walk into the same wall, one after another — rejected by their own people, vindicated by the same God, sealed with the same two lines. A surah of accumulated testimony delivered in the register of consolation, named after the thing it is arguing against.",
+  "sciences_active": [
+   {
+    "key": "qasas",
+    "english": "Quranic Narratives"
+   },
+   {
+    "key": "nazm",
+    "english": "Structural Coherence"
+   },
+   {
+    "key": "balaghah",
+    "english": "Rhetoric"
+   }
+  ],
+  "heart_verse": {
+   "why": "The twin refrain that seals every chamber of the surah — eight times across 227 ayahs. Human failure on one side, divine sovereignty on the other. By the eighth occurrence it has become the surah's thesis about history itself: the pattern is real, and the door was always open.",
+   "arabic": "وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ ۝ وَإِنَّ رَبَّكَ لَهُوَ الْعَزِيزُ الرَّحِيمُ",
+   "ayahRef": "26:8–9",
+   "translation": "And most of them were not believers. And indeed your Lord — He is the Exalted in Might, the Merciful."
+  },
+  "audio": {
+   "reciter": "ar.alafasy",
+   "surahNumber": 26
+  },
+  "full_text": [
+   {
+    "ayah": 1,
+    "arabic": "طسم",
+    "translation": "Ta-Sin-Mim."
+   },
+   {
+    "ayah": 2,
+    "arabic": "تِلْكَ آيَاتُ الْكِتَابِ الْمُبِينِ",
+    "translation": "These are the verses of the clear Book."
+   },
+   {
+    "ayah": 3,
+    "arabic": "لَعَلَّكَ بَاخِعٌ نَّفْسَكَ أَلَّا يَكُونُوا مُؤْمِنِينَ",
+    "translation": "Perhaps you will destroy yourself with grief because they do not believe."
+   },
+   {
+    "ayah": 23,
+    "arabic": "قَالَ فِرْعَوْنُ وَمَا رَبُّ الْعَالَمِينَ",
+    "translation": "Pharaoh said, 'And what is the Lord of all worlds?'"
+   },
+   {
+    "ayah": 78,
+    "arabic": "الَّذِي خَلَقَنِي فَهُوَ يَهْدِينِ",
+    "translation": "Who created me, and He guides me."
+   },
+   {
+    "ayah": 80,
+    "arabic": "وَإِذَا مَرِضْتُ فَهُوَ يَشْفِينِ",
+    "translation": "And when I am ill, it is He who cures me."
+   },
+   {
+    "ayah": 192,
+    "arabic": "وَإِنَّهُ لَتَنزِيلُ رَبِّ الْعَالَمِينَ",
+    "translation": "And indeed, it is the revelation of the Lord of all worlds."
+   },
+   {
+    "ayah": 193,
+    "arabic": "نَزَلَ بِهِ الرُّوحُ الْأَمِينُ",
+    "translation": "The Trustworthy Spirit has brought it down."
+   },
+   {
+    "ayah": 194,
+    "arabic": "عَلَىٰ قَلْبِكَ لِتَكُونَ مِنَ الْمُنذِرِينَ",
+    "translation": "Upon your heart, so that you would be among the warners."
+   },
+   {
+    "ayah": 224,
+    "arabic": "وَالشُّعَرَاءُ يَتَّبِعُهُمُ الْغَاوُونَ",
+    "translation": "And the poets — the deviants follow them."
+   },
+   {
+    "ayah": 227,
+    "arabic": "إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ",
+    "translation": "Except those who believe and do righteous deeds."
+   }
+  ],
+  "diagrams": {
+   "absenceMap": {
+    "title": "What's Missing",
+    "absences": [
+     {
+      "item": "No direct moral commands",
+      "note": "No dietary laws, no ritual instructions, no social regulations. The surah does not come to legislate. It comes to testify. The commands belong to later — after the argument has landed."
+     },
+     {
+      "item": "No detailed paradise or hell",
+      "note": "Descriptions of paradise and hell, so prominent in neighboring Makki surahs, are nearly absent. The surah is not trying to frighten its audience. It is trying to show them a pattern so clear that refusing to see it becomes its own indictment."
+     },
+     {
+      "item": "No direct address to the Quraysh",
+      "note": "The surah speaks to the Prophet, and within each story the prophets speak to their peoples. But the listeners in Mecca are never called out by name. They are left to draw the comparison themselves."
+     },
+     {
+      "item": "No narrative variation in the five chambers",
+      "note": "The five shorter prophet stories use identical structural bones — same opening, same credentials, same refrain. The repetition is the argument. The surah constructs a legal case through the accumulation of identical witnesses."
+     },
+     {
+      "item": "The surah named after its briefest section",
+      "note": "The poets occupy four ayahs at the surah's end (224-227). To name 227 ayahs of prophetic testimony after the thing it argues against is to foreground the question the entire surah exists to settle."
+     }
+    ],
+    "subtitle": "For a surah of this length, the absences are striking — and deliberate"
+   },
+   "chiasticRing": {
+    "pairs": [
+     {
+      "left": {
+       "desc": "These are the ayahs of the clear Book — the opening statement about what this text is",
+       "ayahs": "2",
+       "label": "The Book Declared"
+      },
+      "color": "#e07a8a",
+      "right": {
+       "desc": "It is the revelation of the Lord of all worlds — the closing statement about where it comes from",
+       "ayahs": "192",
+       "label": "The Book Identified"
+      }
+     },
+     {
+      "left": {
+       "desc": "Perhaps you will destroy yourself with grief because they do not believe",
+       "ayahs": "3",
+       "label": "The Prophet's Grief"
+      },
+      "color": "#9b7fd4",
+      "right": {
+       "desc": "He is not a poet — the deviants follow poets. He is a messenger whose words come from the Lord of all worlds",
+       "ayahs": "224–227",
+       "label": "The Prophet Distinguished"
+      }
+     },
+     {
+      "left": {
+       "desc": "Rabb al-'alamin asked with contempt — a phrase mocked by the powerful",
+       "ayahs": "23",
+       "label": "Pharaoh's Mockery"
+      },
+      "color": "#4ecdc4",
+      "right": {
+       "desc": "My reward is only from rabb al-'alamin — the phrase spoken in faith by seven prophets across seven civilizations",
+       "ayahs": "109,127,145,164,180",
+       "label": "Every Prophet's Trust"
+      }
+     }
+    ],
+    "title": "The Ring",
+    "center": {
+     "desc": "Who created me and guides me. Who feeds me and gives me drink. When I am ill, He cures me.",
+     "note": "The pivot from cosmic theology to first-person intimacy. The God being described is not an abstraction. He is the one you call when you are sick.",
+     "ayahs": "78–82",
+     "label": "Ibrahim's Definition"
+    },
+    "subtitle": "The surah's opening declaration and closing identification form a precise frame"
+   },
+   "sectionJourney": {
+    "title": "The Three Movements",
+    "sections": [
+     {
+      "desc": "The surah opens with a grief named — bakhiʿun, approaching self-destruction with sorrow over his people's refusal. The divine response reframes: their disbelief is a choice, not a failure of evidence. The first refrain lands, sealing the prologue with the same two lines that will seal every chamber.",
+      "ayahs": "1–9",
+      "color": "#e07a8a",
+      "title": "The Prologue"
+     },
+     {
+      "desc": "The longest story. Musa lists reasons the mission might fail — anxiety, inarticulate speech, a murder charge. Pharaoh asks 'What is the Lord of all worlds?' with studied contempt. His own magicians prostrate and confess faith. The Exodus, the sea, the drowning. Second refrain.",
+      "ayahs": "10–68",
+      "color": "#9b7fd4",
+      "title": "Musa & Pharaoh"
+     },
+     {
+      "desc": "From external tyranny to interior theology. Ibrahim defines God through six intimate attributes — created, guided, fed, cured, will raise, will forgive. Theology spoken as relationship. The shift from third-person to first-person is the moment monotheism becomes personal. Third refrain.",
+      "ayahs": "69–104",
+      "color": "#4ecdc4",
+      "title": "Ibrahim & the Interior Break"
+     },
+     {
+      "desc": "Nuh (class rejection), Hud/'Ad (traditional pride), Salih/Thamud (sign-destruction), Lut (appetite), Shu'ayb (economic corruption). Five stories built from identical architectural bones — same opening charge, same credentials, same refrain. A comprehensive catalogue of rationalizations.",
+      "ayahs": "105–191",
+      "color": "#C9A84C",
+      "title": "The Five Parallel Chambers",
+      "isPivot": true
+     },
+     {
+      "desc": "What this Book actually is — tanzil rabb al-'alamin. The phrase that Pharaoh mocked, Ibrahim defined, and every prophet trusted, now names the Quran's source. Then the final distinction: the prophet lives what he speaks. The poet wanders. And then: even for the poets, the door is not closed.",
+      "ayahs": "192–227",
+      "color": "#e07a8a",
+      "title": "The Pivot to Revelation"
+     }
+    ],
+    "subtitle": "Prologue → seven chambers → the pivot to revelation"
+   },
+   "deductiveFunnel": {
+    "title": "The Catalogue of Rationalizations",
+    "layers": [
+     {
+      "ayah": "Pharaoh",
+      "desc": "Pharaoh's rejection is the rejection of the powerful: the message threatens the order that sustains his position. He performs its dismissal before his court because the mockery is political theater.",
+      "color": "#e07a8a",
+      "depth": 1,
+      "label": "Political Power",
+      "arabic": "فِرْعَوْنَ"
+     },
+     {
+      "ayah": "Nuh",
+      "desc": "Nuh's people reject the message because of who else accepted it — 'the lowest of us.' The problem is not the message. The problem is the company it keeps.",
+      "color": "#9b7fd4",
+      "depth": 2,
+      "label": "Social Hierarchy",
+      "arabic": "الْأَرَاذِلُ"
+     },
+     {
+      "ayah": "Hud",
+      "desc": "'This is nothing but the custom of the ancients.' We have always done it this way. Nothing has happened to us yet. Therefore nothing will. The oldest rationalization in the repertoire.",
+      "color": "#4ecdc4",
+      "depth": 3,
+      "label": "Inherited Tradition",
+      "arabic": "خُلُقُ الْأَوَّلِينَ"
+     },
+     {
+      "ayah": "Lut/Shu'ayb",
+      "desc": "Lut's people choose desire over guidance. Shu'ayb's people corrupt the scales. Both are told: you do not love those who advise — la tuhibbuna al-nasihin. One of the most quietly devastating lines in the Quran.",
+      "color": "#C9A84C",
+      "depth": 4,
+      "label": "Appetite & Economy",
+      "arabic": "لَا تُحِبُّونَ النَّاصِحِينَ"
+     }
+    ],
+    "subtitle": "Each people had a different reason for rejecting the messenger — each one still in circulation"
+   }
+  },
+  "tabs": [
+   {
+    "id": "sections",
+    "label": "Sections",
+    "renderer": "journey",
+    "diagramKey": "sectionJourney"
+   },
+   {
+    "id": "ring",
+    "label": "The Ring",
+    "renderer": "ring",
+    "diagramKey": "chiasticRing"
+   },
+   {
+    "id": "absent",
+    "label": "Absences",
+    "renderer": "absence",
+    "diagramKey": "absenceMap"
+   },
+   {
+    "id": "text",
+    "label": "Text",
+    "renderer": "text"
+   },
+   {
+    "id": "funnel",
+    "label": "The Argument",
+    "renderer": "funnel",
+    "diagramKey": "deductiveFunnel"
+   }
+  ],
+  "content_nodes": [
+   {
+    "type": "surah-specific",
+    "concept": "The twin refrain — al-'Aziz al-Rahim across history",
+    "articleSlug": "twin-refrain-aziz-rahim-26"
+   },
+   {
+    "type": "surah-specific",
+    "concept": "Ibrahim's six attributes — theology as intimacy",
+    "articleSlug": "ibrahim-six-attributes-26-78"
+   },
+   {
+    "type": "cross-surah",
+    "concept": "Ruh al-Amin — the Trustworthy Spirit passage",
+    "articleSlug": "ruh-al-amin-trustworthy-spirit-26-193"
+   },
+   {
+    "type": "cross-surah",
+    "concept": "Ash-Shu'ara to An-Naml — from accumulation to spectacle",
+    "articleSlug": "shuara-naml-qasas-cluster"
+   }
+  ],
+  "created_at": "2026-03-29T04:22:21.718298+00:00",
+  "updated_at": "2026-03-29T17:32:37.198+00:00",
+  "why_this_surah": "Seven messengers, seven communities, and the same sentence repeated after each one: 'Your Lord is the Mighty, the Merciful.' The surah doesn't just tell you what happened — it shows you the same scene playing out across civilizations. The repetition is the point. Humanity keeps getting the same message and keeps making the same mistake."
+ },
+ {
+  "surah_number": 17,
+  "name": "Al-Isra",
+  "arabic_name": "الإسْراء",
+  "meaning": "The Night Journey",
+  "thesis": "A servant is carried to the farthest point, handed a complete ethical code for the closest concerns, and the entire surah is framed by glorification — tasbih at the opening, takbir at the close.",
+  "sciences_active": [
+   {
+    "key": "nazm",
+    "english": "Structural Coherence"
+   },
+   {
+    "key": "balaghah",
+    "english": "Rhetoric"
+   },
+   {
+    "key": "munasabat",
+    "english": "Inter-surah Connections"
+   }
+  ],
+  "heart_verse": {
+   "why": "The placement is theology. The first obligation after God is to those who gave you life. The same ayah continues with extraordinary emotional precision — do not say to them even uff, the smallest Arabic sound of irritation. The ethical charter begins here, and the proximity of these two commands says everything about what counts as sacred duty.",
+   "arabic": "وَقَضَىٰ رَبُّكَ أَلَّا تَعْبُدُوا إِلَّا إِيَّاهُ وَبِالْوَالِدَيْنِ إِحْسَانًا",
+   "ayahRef": "17:23",
+   "translation": "Your Lord has decreed that you worship none but Him, and that you be good to your parents."
+  },
+  "audio": {
+   "reciter": "ar.alafasy",
+   "surahNumber": 17
+  },
+  "full_text": null,
+  "diagrams": {
+   "absenceMap": {
+    "title": "What's Missing",
+    "absences": [
+     {
+      "item": "No extended prophet narratives",
+      "note": "For a surah of 111 ayahs, no full Musa-and-Fir'awn epic, no Ibrahim and his father, no Yusuf, no Nuh. The Bani Isra'il passage is compressed history. The Iblis scene is brief and pointed. The surah legislates rather than narrates."
+     },
+     {
+      "item": "No description of the Night Journey itself",
+      "note": "Ayah 1 compresses the entire Isra into a single breath. What the Prophet saw is not described. The surah is concerned with what comes after seeing — the ethical code he was meant to carry back."
+     },
+     {
+      "item": "No promise of earthly victory",
+      "note": "The charter does not promise that living by the code will bring worldly success. It promises the code is hikma — wisdom — and that the covenant will be questioned about. The reward is clarity, not comfort."
+     },
+     {
+      "item": "No softening of the demands",
+      "note": "Do not say uff to your parents. Do not pursue what you have no knowledge of. Do not walk arrogantly. Every instruction is precise, physical, daily. There is no escape clause, no exception for difficulty."
+     },
+     {
+      "item": "No answer to the question of the soul",
+      "note": "They ask about al-ruh. The answer is five words: it is from the affair of my Lord. The brevity is itself an argument about the limits of human comprehension."
+     }
+    ],
+    "subtitle": "Al-Isra declines to tell stories — it issues instructions and defends the authority behind them"
+   },
+   "sectionMap": {
+    "title": "The Commission",
+    "sections": [
+     {
+      "desc": "Subhana — glory, transcendence. The servant is carried from al-Masjid al-Haram to al-Masjid al-Aqsa to be shown signs. Then immediately: the Children of Israel as a cautionary frame — two cycles of corruption and consequence.",
+      "ayahs": "1–8",
+      "color": "#C9A84C",
+      "title": "The Night Journey and the Mirror"
+     },
+     {
+      "desc": "The Quran guides to that which is most upright. The human being is hasty by constitution. Every person's record fastened to their neck. No bearer of burdens bears another's. When God intends to destroy a town, He first commands its affluent to live rightly.",
+      "ayahs": "9–22",
+      "color": "#4ecdc4",
+      "title": "Human Nature and Accountability"
+     },
+     {
+      "desc": "Seventeen ayahs: worship God alone, honor parents, give to kin and the poor, do not be wasteful, do not kill children from poverty, do not approach zina, protect the orphan's wealth, fulfill covenants, give full measure, do not pursue what you have no knowledge of, do not walk arrogantly. All of that — hikma, wisdom revealed.",
+      "ayahs": "23–39",
+      "color": "#9b7fd4",
+      "title": "The Ethical Charter",
+      "isPivot": true
+     },
+     {
+      "desc": "Defense against Quraysh's objections. The heavens and earth declare tasbih. A hidden veil placed over hearts that refuse. The argument from resurrection. Iblis's counter-declaration — and the response: over My true servants, you have no authority.",
+      "ayahs": "40–69",
+      "color": "#e07a8a",
+      "title": "Arguments and the Story of Iblis"
+     },
+     {
+      "desc": "We have honored the children of Adam. The five daily prayers established. The Quran is healing and mercy. The soul — say: it is from the affair of my Lord, and you have been given of knowledge only a little. The inimitability challenge.",
+      "ayahs": "70–88",
+      "color": "#4ecdc4",
+      "title": "Dignity and the Quran's Authority"
+     },
+     {
+      "desc": "Quraysh's escalating demands — springs, gardens, a house of gold, ascension. The Prophet's response echoes the opening: subhana Rabbi. The People of the Book fall in prostration weeping. The final ayah: takbir — glorify Him with great glorification.",
+      "ayahs": "89–111",
+      "color": "#9b7fd4",
+      "title": "Demands and the Final Praise"
+     }
+    ],
+    "subtitle": "Six movements: journey → human nature → ethical charter → defense → dignity → praise"
+   },
+   "chiasticRing": {
+    "pairs": [
+     {
+      "left": {
+       "desc": "Subhana alladhi asra bi-abdihi — glory be to the One who carried His servant. The journey initiates. The servant is passive, carried.",
+       "ayahs": "1",
+       "label": "Tasbih"
+      },
+      "color": "#C9A84C",
+      "right": {
+       "desc": "Kabbirhu takbira — glorify Him with great glorification. The servant now stands and declares. Passivity gives way to proclamation.",
+       "ayahs": "111",
+       "label": "Takbir"
+      }
+     },
+     {
+      "left": {
+       "desc": "The Children of Israel — given scripture, two cycles of corruption, two divine responses. A mirror held up to Quraysh.",
+       "ayahs": "2–8",
+       "label": "Bani Isra'il's History"
+      },
+      "color": "#4ecdc4",
+      "right": {
+       "desc": "Nine clear signs given, still Fir'awn rejected. More signs do not produce more belief. The parallel to Quraysh's demands.",
+       "ayahs": "101–104",
+       "label": "Musa and Fir'awn"
+      }
+     },
+     {
+      "left": {
+       "desc": "The human being is hasty, prays for harm as readily as good. Individual accountability is absolute.",
+       "ayahs": "9–22",
+       "label": "Human Nature"
+      },
+      "color": "#9b7fd4",
+      "right": {
+       "desc": "We have honored the children of Adam. Each person acts according to their disposition. The soul is from the affair of my Lord.",
+       "ayahs": "70–84",
+       "label": "Human Dignity"
+      }
+     }
+    ],
+    "title": "The Frame",
+    "center": {
+     "desc": "Your Lord has decreed — worship, parents, kin, spending, life, covenant, measure, knowledge, humility. That is from what your Lord has revealed to you of wisdom.",
+     "note": "The charter is the gravitational center. The histories explain why it matters. The arguments defend it. The human nature passages explain why it is so difficult and so necessary.",
+     "ayahs": "23–39",
+     "label": "The Ethical Charter"
+    },
+    "subtitle": "The surah opens with tasbih (God is beyond limitation) and closes with takbir (God is greater than all else)"
+   },
+   "deductiveFunnel": {
+    "title": "Tasbih's Migration",
+    "layers": [
+     {
+      "ayah": "1",
+      "desc": "The surah opens with God glorifying Himself — subhana. The word clears the air. Everything that follows proceeds from the premise that God is beyond limitation.",
+      "color": "#C9A84C",
+      "depth": 1,
+      "label": "God's Voice",
+      "arabic": "سُبْحَانَ الَّذِي أَسْرَىٰ بِعَبْدِهِ"
+     },
+     {
+      "ayah": "44",
+      "desc": "The seven heavens and the earth and all they contain declare His glory. Tasbih woven into the fabric of creation itself. You do not understand their glorification.",
+      "color": "#4ecdc4",
+      "depth": 2,
+      "label": "Creation's Praise",
+      "arabic": "تُسَبِّحُ لَهُ السَّمَاوَاتُ السَّبْعُ وَالْأَرْضُ"
+     },
+     {
+      "ayah": "93",
+      "desc": "Under pressure from Quraysh's impossible demands, the Prophet responds with the surah's opening word placed in his own mouth — subhana Rabbi. Glorification as resistance.",
+      "color": "#9b7fd4",
+      "depth": 3,
+      "label": "The Prophet's Speech",
+      "arabic": "سُبْحَانَ رَبِّي"
+     },
+     {
+      "ayah": "108",
+      "desc": "The People of the Book fall on their faces weeping — subhana Rabbina. Tasbih that began as divine declaration ends as human response. The distance between is the surah's entire content.",
+      "color": "#e07a8a",
+      "depth": 4,
+      "label": "The Believers' Tears",
+      "arabic": "سُبْحَانَ رَبِّنَا"
+     }
+    ],
+    "subtitle": "The root s-b-h moves through the surah — from divine declaration to human response"
+   }
+  },
+  "tabs": [
+   {
+    "id": "sections",
+    "label": "Sections",
+    "renderer": "journey",
+    "diagramKey": "sectionJourney"
+   },
+   {
+    "id": "ring",
+    "label": "The Ring",
+    "renderer": "ring",
+    "diagramKey": "chiasticRing"
+   },
+   {
+    "id": "absent",
+    "label": "Absences",
+    "renderer": "absence",
+    "diagramKey": "absenceMap"
+   },
+   {
+    "id": "text",
+    "label": "Text",
+    "renderer": "text"
+   },
+   {
+    "id": "funnel",
+    "label": "The Argument",
+    "renderer": "funnel",
+    "diagramKey": "deductiveFunnel"
+   },
+   {
+    "id": "map",
+    "label": "The Map",
+    "renderer": "journey",
+    "diagramKey": "sectionMap"
+   }
+  ],
+  "content_nodes": [
+   {
+    "type": "surah-specific",
+    "concept": "The ethical charter (23–39) — the Quran's complete moral code",
+    "articleSlug": "isra-ethical-charter-23-39"
+   },
+   {
+    "type": "surah-specific",
+    "concept": "Tasbih to takbir — glorification as structural frame",
+    "articleSlug": "tasbih-takbir-frame-17"
+   },
+   {
+    "type": "cross-surah",
+    "concept": "Al-Isra and Al-An'am — the same commandments at two scales",
+    "articleSlug": "isra-anam-commandments-echo"
+   },
+   {
+    "type": "cross-surah",
+    "concept": "The Night Journey and Al-Kahf — limits of human knowledge",
+    "articleSlug": "isra-kahf-knowledge-limits"
+   }
+  ],
+  "created_at": "2026-03-29T04:22:21.39069+00:00",
+  "updated_at": "2026-03-29T17:27:21.814+00:00",
+  "why_this_surah": "Contains a set of commandments — be good to your parents, don't waste money, don't kill, don't walk arrogantly — that read like a practical manual for being a decent human being. The surah opens with the Prophet's miraculous night journey from Makkah to Jerusalem, then grounds itself in the ethics of everyday life. The extraordinary and the ordinary, in one surah."
+ },
+ {
+  "surah_number": 9,
+  "name": "At-Tawbah",
+  "arabic_name": "التوبة",
+  "meaning": "The Repentance",
+  "thesis": "The only surah that withholds mercy from its opening — so that mercy, when it arrives in two divine names resting on the Prophet, lands with the full weight of everything it cost to get there. Between severance and sufficiency, the surah walks through every form of human failure and finds, at the bottom of all of it, the ground that does not move.",
+  "sciences_active": [
+   {
+    "key": "makki_madani",
+    "english": "Revelation Context"
+   },
+   {
+    "key": "nasikh",
+    "english": "Abrogation"
+   },
+   {
+    "key": "usul_tafsir",
+    "english": "Principles of Interpretation"
+   }
+  ],
+  "heart_verse": {
+   "why": "The surah's defining image. Three men who had no excuse and did not manufacture one sat in the weight of what they had done for fifty days while the world went narrow. God's turning preceded their repentance. The divine initiative came first. The grammar is the theology: taba 'alayhim — He turned toward them — before they could turn back.",
+   "arabic": "حَتَّىٰ إِذَا ضَاقَتْ عَلَيْهِمُ الْأَرْضُ بِمَا رَحُبَتْ وَضَاقَتْ عَلَيْهِمْ أَنفُسُهُمْ وَظَنُّوا أَن لَّا مَلْجَأَ مِنَ اللَّهِ إِلَّا إِلَيْهِ ثُمَّ تَابَ عَلَيْهِمْ لِيَتُوبُوا",
+   "ayahRef": "9:118",
+   "translation": "Until the earth, despite its vastness, closed in on them, and their own souls closed in on them, and they were certain that there is no refuge from God except in Him — then He turned to them so that they could repent."
+  },
+  "audio": {
+   "reciter": "ar.alafasy",
+   "surahNumber": 9
+  },
+  "full_text": "section-map",
+  "diagrams": {
+   "absenceMap": {
+    "title": "What's Missing",
+    "absences": [
+     {
+      "item": "No Bismillah",
+      "note": "The only surah in the Quran that does not open with 'In the name of God, the Most Merciful, the Especially Merciful.' The mercy is not gone — the root r-h-m appears repeatedly — but it is withheld from the threshold. You do not receive it upon entry. You arrive at it after walking through everything the surah demands."
+     },
+     {
+      "item": "No extended descriptions of Paradise or Hell",
+      "note": "The other long Madani surahs move into visions of the afterlife. At-Tawbah barely pauses for any of this. Its accountability is functional rather than devotional: 'You will be returned to the Knower of the unseen, and He will inform you.' The eschatology is not a vision but a verdict."
+     },
+     {
+      "item": "No prophetic narratives",
+      "note": "No stories of Musa, Ibrahim, or Nuh. Its only prophetic reference is Ibrahim's prayer for his father (ayah 114). The surah is not interested in historical precedent. It is interested in what is happening right now, among these specific people."
+     },
+     {
+      "item": "No comfort before commitment",
+      "note": "The surah does not offer the comfort of Paradise before demanding commitment. It demands commitment in the present tense. The reckoning is sustained across 127 ayahs before two words of tenderness arrive."
+     },
+     {
+      "item": "No binary — the middle is named",
+      "note": "In a surah that distinguishes sealed hypocrites from total believers, ayah 102 carves out a third category: the imperfect sincere. The people who failed and knew it. The surah does not flatten the moral spectrum into two poles. It names the middle and gives it hope."
+     }
+    ],
+    "subtitle": "The surah's most defining feature is what it withholds — starting with mercy's name"
+   },
+   "chiasticRing": {
+    "pairs": [
+     {
+      "left": {
+       "desc": "A formal disavowal from God and His Messenger. The horizontal bonds revoked. No Bismillah — the mercy is withheld from the threshold",
+       "ayahs": "1",
+       "label": "Bara'ah — Severance"
+      },
+      "color": "#e07a8a",
+      "right": {
+       "desc": "Allah is sufficient for me. The vertical bond affirmed. One man standing alone if necessary, after everything",
+       "ayahs": "129",
+       "label": "Hasbiyallah — Sufficiency"
+      }
+     },
+     {
+      "left": {
+       "desc": "Four months given to the polytheists to move freely through the land — time as space for decision",
+       "ayahs": "2–5",
+       "label": "External Grace Period"
+      },
+      "color": "#9b7fd4",
+      "right": {
+       "desc": "Fifty days imposed on three believers — time as space for constriction that becomes return. Both cases: time is the medium in which truth becomes visible",
+       "ayahs": "118",
+       "label": "Internal Suspension"
+      }
+     },
+     {
+      "left": {
+       "desc": "Al-Rahman, al-Rahim — the two names of mercy — withheld from the surah's opening for the first and only time",
+       "ayahs": "—",
+       "label": "Missing Bismillah"
+      },
+      "color": "#C9A84C",
+      "right": {
+       "desc": "Ra'uf, Rahim — two names from God's own attributes placed on the Prophet. The mercy was never absent. It was moved from the threshold to the destination",
+       "ayahs": "128",
+       "label": "Mercy Relocated"
+      }
+     }
+    ],
+    "title": "The Mirror",
+    "center": {
+     "desc": "Others have acknowledged their sins. They mixed a righteous deed with another that was bad. Perhaps God will turn toward them in mercy.",
+     "note": "In a surah that closes doors with devastating finality — sealed hearts, the seventy-times limit — this verse carves out space for the imperfect sincere. Neither exemplary nor lost. Just honest about being mixed.",
+     "ayahs": "102",
+     "label": "The Category of Perhaps"
+    },
+    "subtitle": "The surah opens by dissolving human bonds and closes with the one bond that cannot be dissolved"
+   },
+   "sectionJourney": {
+    "title": "The Reckoning",
+    "sections": [
+     {
+      "desc": "Bara'ah — severance. Treaties dissolved with those who violated them, not those who honored them. The four-month grace period. Ayah 5 and its qualifications. Custodianship of sacred space is moral, not tribal. The external lines are drawn — and the surah turns, inevitably, to the lines inside.",
+      "ayahs": "1–37",
+      "color": "#e07a8a",
+      "title": "The External Crisis"
+     },
+     {
+      "desc": "Tabuk and its refusals. The heat, the harvest, the preference for comfort. Each excuse recorded with devastating precision. Against them: Abu Bakr in the cave — 'Do not grieve; God is with us.' The word is tahzan — grieve — not takhaf — fear. A finer emotional register.",
+      "ayahs": "38–72",
+      "color": "#9b7fd4",
+      "title": "The Internal-Collective"
+     },
+     {
+      "desc": "Deeper anatomy. A sincere promise, made and broken, hardens into hypocrisy (ayah 77). The seventy-times verse closes a door. But ayah 102 opens one: those who mixed good with bad. Perhaps — 'asa — the most generous word in a surah that has closed doors with devastating finality.",
+      "ayahs": "73–106",
+      "color": "#4ecdc4",
+      "title": "The Internal-Individual"
+     },
+     {
+      "desc": "The mosque built on lies. Then the three men — fifty days of honest constriction that led somewhere fifty excuses never reach. God turned first. And at the very end: Ra'uf, Rahim — the mercy withheld from the threshold placed on the Prophet. Hasbiyallah — the one bond that holds.",
+      "ayahs": "107–129",
+      "color": "#C9A84C",
+      "title": "The Internal-Personal",
+      "isPivot": true
+     }
+    ],
+    "subtitle": "Four spiraling movements: external severance → communal exposure → individual anatomy → personal return"
+   },
+   "deductiveFunnel": {
+    "title": "The Spiral Inward",
+    "layers": [
+     {
+      "ayah": "1–28",
+      "desc": "The opening word carries no warmth: bara'ah — disavowal. Treaties dissolved with those who broke them. But ayah 4 exempts those who honored their agreements. Ayah 6: if any polytheist seeks your protection, grant it. The harshness is bounded by mercy the surah refuses to separate from it.",
+      "color": "#e07a8a",
+      "depth": 1,
+      "label": "External — Broken Treaties",
+      "arabic": "بَرَاءَةٌ مِّنَ اللَّهِ وَرَسُولِهِ"
+     },
+     {
+      "ayah": "38–57",
+      "desc": "'Do not go out in the heat.' The surah responds: 'The fire of Hell is more intense in heat, if they only understood.' Each excuse is recognizable across fourteen centuries because the human impulse behind it has not changed.",
+      "color": "#9b7fd4",
+      "depth": 2,
+      "label": "Collective — Tabuk's Refusals",
+      "arabic": "لَا تَنفِرُوا فِي الْحَرِّ"
+     },
+     {
+      "ayah": "73–80",
+      "desc": "A covenant with God, violated in the moment of comfort, becomes the architecture of one's own inner ruin. The sequence is moral, not arbitrary. The seventy-times verse is not a prohibition on mercy but a statement about a threshold.",
+      "color": "#4ecdc4",
+      "depth": 3,
+      "label": "Individual — Sealed Hearts",
+      "arabic": "فَأَعْقَبَهُمْ نِفَاقًا فِي قُلُوبِهِمْ"
+     },
+     {
+      "ayah": "102",
+      "desc": "Those who mixed good deeds with bad and confessed. In a surah that distinguishes sealed hypocrites from total believers, carving out a third category — the imperfect sincere — is one of the most generous structural choices in the Quran.",
+      "color": "#3d9bd4",
+      "depth": 4,
+      "label": "The Imperfect — Perhaps",
+      "arabic": "خَلَطُوا عَمَلًا صَالِحًا وَآخَرَ سَيِّئًا"
+     },
+     {
+      "ayah": "118",
+      "desc": "Three believers. No excuse. Fifty days of silence from the entire community. The earth closed in despite its vastness. Their selves closed in. Then taba 'alayhim — He turned toward them. God's turning preceded their repentance. The grammar is the theology.",
+      "color": "#C9A84C",
+      "depth": 5,
+      "label": "Personal — The Three Men",
+      "arabic": "ضَاقَتْ عَلَيْهِمُ الْأَرْضُ بِمَا رَحُبَتْ"
+     },
+     {
+      "ayah": "128–129",
+      "desc": "Two names the Quran elsewhere reserves for God — ra'uf, rahim — placed on the Prophet after 127 ayahs of reckoning. Then one man, alone if necessary: hasbiyallah. The surah that opened with the dissolution of human bonds closes with the one bond that cannot be dissolved.",
+      "color": "#C9A84C",
+      "depth": 6,
+      "label": "Devotional — Mercy Relocated",
+      "arabic": "بِالْمُؤْمِنِينَ رَءُوفٌ رَّحِيمٌ"
+     }
+    ],
+    "subtitle": "Each section peels back a layer — from the collective and political toward the singular and devotional"
+   }
+  },
+  "tabs": [
+   {
+    "id": "sections",
+    "label": "Sections",
+    "renderer": "journey",
+    "diagramKey": "sectionJourney"
+   },
+   {
+    "id": "ring",
+    "label": "The Ring",
+    "renderer": "ring",
+    "diagramKey": "chiasticRing"
+   },
+   {
+    "id": "absent",
+    "label": "Absences",
+    "renderer": "absence",
+    "diagramKey": "absenceMap"
+   },
+   {
+    "id": "text",
+    "label": "Text",
+    "renderer": "text"
+   },
+   {
+    "id": "funnel",
+    "label": "The Argument",
+    "renderer": "funnel",
+    "diagramKey": "deductiveFunnel"
+   }
+  ],
+  "content_nodes": [
+   {
+    "type": "surah-specific",
+    "concept": "The three who were left behind — repentance as divine initiative",
+    "articleSlug": "three-left-behind-9-118"
+   },
+   {
+    "type": "surah-specific",
+    "concept": "The absent Bismillah — mercy withheld then relocated",
+    "articleSlug": "absent-bismillah-tawbah-9"
+   },
+   {
+    "type": "cross-surah",
+    "concept": "Al-Anfal / At-Tawbah diptych — first test to final reckoning",
+    "articleSlug": "anfal-tawbah-diptych-8-9"
+   },
+   {
+    "type": "cross-surah",
+    "concept": "The imperfect sincere — ayah 102 and the category of perhaps",
+    "articleSlug": "mixed-deeds-perhaps-9-102"
+   }
+  ],
+  "created_at": "2026-03-29T04:22:21.39069+00:00",
+  "updated_at": "2026-03-29T17:27:20.947+00:00",
+  "why_this_surah": "The only surah that starts without 'In the name of God, the Most Merciful' — because what follows is a reckoning. It separates those who showed up from those who made excuses, those who fought from those who stayed behind. If you've ever wrestled with hypocrisy — your own or others' — this surah holds up the mirror."
+ },
+ {
+  "surah_number": 16,
+  "name": "An-Nahl",
+  "arabic_name": "النَّحْل",
+  "meaning": "The Bee",
+  "thesis": "A 128-ayah inventory of the physical world so patient and so dense that ingratitude becomes impossible to maintain — and at the center, the verdict: they recognized the favor of Allah, then they denied it.",
+  "sciences_active": [
+   {
+    "key": "amthal",
+    "english": "Parables"
+   },
+   {
+    "key": "aqeedah",
+    "english": "Theology"
+   },
+   {
+    "key": "nazm",
+    "english": "Structural Coherence"
+   }
+  ],
+  "heart_verse": {
+   "why": "Everything before this verse was evidence. This verse is the verdict. The Arabic uses two words from the same root family — ya'rifoona (they recognize) and yunkiroona (they deny). Recognition and denial are kin, the way a family can contain both the one who sees and the one who turns away. The crime is not ignorance. It is suppression.",
+   "arabic": "يَعْرِفُونَ نِعْمَتَ اللَّهِ ثُمَّ يُنكِرُونَهَا وَأَكْثَرُهُمُ الْكَافِرُونَ",
+   "ayahRef": "16:83",
+   "translation": "They recognize the favor of Allah, then they deny it — and most of them are ungrateful."
+  },
+  "audio": {
+   "reciter": "ar.alafasy",
+   "surahNumber": 16
+  },
+  "full_text": null,
+  "diagrams": {
+   "absenceMap": {
+    "title": "What's Missing",
+    "absences": [
+     {
+      "item": "No extended destruction narratives",
+      "note": "In a Makkan surah of 128 ayahs, no sustained retelling of 'Ad, Thamud, the people of Lut. The argument proceeds without cautionary history because the evidence for God is present and alive, grazing in the field outside your door."
+     },
+     {
+      "item": "No kafiroon as primary accusation",
+      "note": "The surah's preferred charge is la yashkuroon — they do not give thanks. The illness being treated is ingratitude as a failure of sight, not disbelief as a theological position."
+     },
+     {
+      "item": "No abstract theology",
+      "note": "The surah does not argue theology in the abstract. It argues theology through olives, through milk emerging between digested food and blood, through bees building in mountain clefts. Every argument has a physical address."
+     },
+     {
+      "item": "No completion of the list",
+      "note": "Ayah 18 admits the impossibility of the surah's own project — the inventory cannot be completed. And the response to that uncountable abundance is Forgiving and Merciful, as if the falling short is already covered."
+     },
+     {
+      "item": "No mention of the Prophet's suffering",
+      "note": "Until the Madani postscript, the Prophet is not addressed as a wounded messenger. The surah maintains its posture of patient attention to the physical world, as though the pointing itself is the consolation."
+     }
+    ],
+    "subtitle": "An-Nahl argues from living gifts, not cautionary ruins"
+   },
+   "sectionMap": {
+    "title": "The Inventory",
+    "sections": [
+     {
+      "desc": "The surah's first verb is past tense — ata amru Allah — the command has come. Stop waiting for signs, because the signs are the world you are standing in. Gifts begin immediately: cattle, horses, mules, things you do not yet know.",
+      "ayahs": "1–9",
+      "color": "#4ecdc4",
+      "title": "The Decree Has Arrived"
+     },
+     {
+      "desc": "Rain, crops, olives, date palms, grapes. Night and day, sun and moon, stars for navigation. The sea from which you eat and extract ornaments. And then: if you tried to count the blessings of Allah, you could not enumerate them.",
+      "ayahs": "10–21",
+      "color": "#9b7fd4",
+      "title": "The Cosmic Gifts"
+     },
+     {
+      "desc": "A turn from what God creates to what idols cannot. The same question asked of two groups — what has your Lord sent down? — receives two answers: legends of the ancients versus good. The same question, two destinations.",
+      "ayahs": "22–40",
+      "color": "#e07a8a",
+      "title": "Idols and Incapacity"
+     },
+     {
+      "desc": "The dispossessed believers addressed directly — your displacement is temporary. Then shadows prostrating, creatures worshipping. The cycle laid bare: gift, crisis, prayer, relief, forgetting.",
+      "ayahs": "41–55",
+      "color": "#4ecdc4",
+      "title": "Emigrants and the Living Earth"
+     },
+     {
+      "desc": "Gifts move closer: milk, fruit, the bee receiving wahy — the same verb used for revelation to prophets. Your own body — born knowing nothing, given hearing, sight, a heart. Birds held aloft. Shade, shelter, armor. Then the pivot: they recognize the favor of Allah, then they deny it.",
+      "ayahs": "56–83",
+      "color": "#C9A84C",
+      "title": "The Domestic Inventory",
+      "isPivot": true
+     },
+     {
+      "desc": "Every community faces its messenger. The Quran named as clarification for all things. Ayah 90 — justice, excellence, giving to kin — the ethical command recited in every Friday sermon worldwide.",
+      "ayahs": "84–100",
+      "color": "#9b7fd4",
+      "title": "The Day of Witnesses"
+     },
+     {
+      "desc": "Covenants, food laws, the prohibition against fabricating prohibitions. Then the model: Ibrahim, a man who constituted a nation by himself, defined by one quality — grateful. The Madani postscript: do not grieve. The final word: He is with you.",
+      "ayahs": "101–128",
+      "color": "#e07a8a",
+      "title": "Ibrahim and the Postscript"
+     }
+    ],
+    "subtitle": "Seven movements: decree → cosmic gifts → idols → emigrants → domestic gifts → reckoning → model"
+   },
+   "chiasticRing": {
+    "pairs": [
+     {
+      "left": {
+       "desc": "La tasta'jilooh — do not be impatient. The decree has already come. The signs are the world you are standing in.",
+       "ayahs": "1",
+       "label": "Impatience"
+      },
+      "color": "#4ecdc4",
+      "right": {
+       "desc": "La tahzan — do not grieve. And your patience is only through Allah. He is with the mindful.",
+       "ayahs": "127–128",
+       "label": "Grief"
+      }
+     },
+     {
+      "left": {
+       "desc": "Cattle created for warmth, benefits, food. Horses, mules, donkeys. Things you do not yet know.",
+       "ayahs": "5–8",
+       "label": "Gifts Begin"
+      },
+      "color": "#9b7fd4",
+      "right": {
+       "desc": "Ibrahim — grateful for His blessings. The same root na-'a-ma that populated the surah as livestock arrives as the defining quality of the one who saw correctly.",
+       "ayahs": "120–121",
+       "label": "The Model"
+      }
+     },
+     {
+      "left": {
+       "desc": "If you tried to count the blessings of Allah, you could not enumerate them. Forgiving, Merciful.",
+       "ayahs": "18",
+       "label": "Cannot Count"
+      },
+      "color": "#e07a8a",
+      "right": {
+       "desc": "They recognize the favor of Allah, then they deny it. The crime is suppression, not ignorance.",
+       "ayahs": "83",
+       "label": "The Verdict"
+      }
+     }
+    ],
+    "title": "The Bracket",
+    "center": {
+     "desc": "Your Lord inspired the bee — the verb awha, the same word used for revelation to prophets. From that obedience comes a substance that heals.",
+     "note": "The bee receives its program from the same source that sends scripture. It follows paths made easy, and from the belly of that alignment comes healing.",
+     "ayahs": "68–69",
+     "label": "The Bee"
+    },
+    "subtitle": "The surah opens by addressing impatience and closes by addressing grief — two wounds, one inventory between them"
+   },
+   "deductiveFunnel": {
+    "title": "The Root",
+    "layers": [
+     {
+      "ayah": "5–8",
+      "desc": "The word for livestock — an'am — shares the root na-'a-ma with the word for blessing. The cattle grazing in front of you are the word for grace in physical form.",
+      "color": "#4ecdc4",
+      "depth": 1,
+      "label": "An'am (Livestock)",
+      "arabic": "وَالْأَنْعَامَ خَلَقَهَا"
+     },
+     {
+      "ayah": "18",
+      "desc": "If you tried to count the ni'mah of Allah, you could not. The inventory the surah has begun is, by its own admission, incomplete before it starts.",
+      "color": "#9b7fd4",
+      "depth": 2,
+      "label": "Ni'mah (Blessing)",
+      "arabic": "وَإِن تَعُدُّوا نِعْمَةَ اللَّهِ لَا تُحْصُوهَا"
+     },
+     {
+      "ayah": "83",
+      "desc": "Ya'rifoona (they recognize) and yunkiroona (they deny) are from the same root family. Recognition and denial live in the same house.",
+      "color": "#e07a8a",
+      "depth": 3,
+      "label": "Recognition-Denial",
+      "arabic": "يَعْرِفُونَ نِعْمَتَ اللَّهِ ثُمَّ يُنكِرُونَهَا"
+     },
+     {
+      "ayah": "120",
+      "desc": "Ibrahim — grateful for His blessings. The root that has moved through the surah as livestock and grace arrives one final time, attached to the man who saw correctly.",
+      "color": "#C9A84C",
+      "depth": 4,
+      "label": "Shakirun li-An'umihi",
+      "arabic": "شَاكِرًا لِّأَنْعُمِهِ"
+     }
+    ],
+    "subtitle": "The root na-'a-ma (ن-ع-م) generates both livestock and blessing — the surah performs its own thesis"
+   }
+  },
+  "tabs": [
+   {
+    "id": "sections",
+    "label": "Sections",
+    "renderer": "journey",
+    "diagramKey": "sectionJourney"
+   },
+   {
+    "id": "ring",
+    "label": "The Ring",
+    "renderer": "ring",
+    "diagramKey": "chiasticRing"
+   },
+   {
+    "id": "absent",
+    "label": "Absences",
+    "renderer": "absence",
+    "diagramKey": "absenceMap"
+   },
+   {
+    "id": "text",
+    "label": "Text",
+    "renderer": "text"
+   },
+   {
+    "id": "funnel",
+    "label": "The Argument",
+    "renderer": "funnel",
+    "diagramKey": "deductiveFunnel"
+   },
+   {
+    "id": "map",
+    "label": "The Map",
+    "renderer": "journey",
+    "diagramKey": "sectionMap"
+   }
+  ],
+  "content_nodes": [
+   {
+    "type": "surah-specific",
+    "concept": "The Bee and the Prophet — wahy at two scales",
+    "articleSlug": "bee-wahy-two-scales-16-68"
+   },
+   {
+    "type": "surah-specific",
+    "concept": "The root na-'a-ma — livestock as blessing",
+    "articleSlug": "naam-root-livestock-blessing-16"
+   },
+   {
+    "type": "cross-surah",
+    "concept": "An-Nahl and Surah Ibrahim — the same argument at two scales",
+    "articleSlug": "nahl-ibrahim-twin-argument"
+   },
+   {
+    "type": "cross-surah",
+    "concept": "The Friday Ayah (16:90) — justice, excellence, kin",
+    "articleSlug": "friday-ayah-16-90-justice"
+   }
+  ],
+  "created_at": "2026-03-29T04:22:21.39069+00:00",
+  "updated_at": "2026-03-29T17:27:21.717+00:00",
+  "why_this_surah": "Sometimes you forget how much you've been given. This surah won't let you. It catalogs God's gifts — animals that carry you, seas that feed you, rain that grows your food, the night that lets you rest, the stars that guide you — one after another, relentlessly, until the question isn't whether God exists but whether you've ever actually said thank you."
+ },
+ {
+  "surah_number": 38,
+  "name": "Sad",
+  "arabic_name": "ص",
+  "meaning": "The Letter Sad",
+  "thesis": "A surah where every throne in creation — earthly, heavenly, and infernal — is shown to be borrowed, and the only figure who claimed otherwise is the one standing in exile.",
+  "sciences_active": [
+   {
+    "key": "qasas",
+    "english": "Quranic Narratives"
+   },
+   {
+    "key": "nazm",
+    "english": "Structural Coherence"
+   },
+   {
+    "key": "balaghah",
+    "english": "Rhetoric"
+   }
+  ],
+  "heart_verse": {
+   "why": "Seven words in Arabic. The first recorded argument for the superiority of one created being over another based on origin material. The logic that looked at the raw ingredient and refused to see the finished work — the divine breath, the proportioning, the command to honor.",
+   "arabic": "أَنَا خَيْرٌ مِّنْهُ ۖ خَلَقْتَنِي مِن نَّارٍ وَخَلَقْتَهُ مِن طِينٍ",
+   "ayahRef": "38:76",
+   "translation": "I am better than him. You created me from fire and created him from clay."
+  },
+  "audio": {
+   "reciter": "ar.alafasy",
+   "surahNumber": 38
+  },
+  "full_text": null,
+  "diagrams": {
+   "absenceMap": {
+    "title": "What's Missing",
+    "absences": [
+     {
+      "item": "No legal commands",
+      "note": "For a surah deeply concerned with justice, there is no specific legislation. It teaches justice through parable — watching a king be corrected — rather than through prescription."
+     },
+     {
+      "item": "No cosmic signs (ayat al-afaq)",
+      "note": "Mountains, rain, livestock, night and day — the nature passages that populate Makkan surahs are absent. Sad uses historical and cosmic evidence: the record of tested kings and the primordial scene that explains why tests exist."
+     },
+     {
+      "item": "No explicit content of Dawud's sin",
+      "note": "The Quran deliberately leaves a gap between the parable and Dawud's recognition. The classical tradition fills it variously, but the text's silence is the design — what matters is the speed of his repentance."
+     },
+     {
+      "item": "No resistance to correction",
+      "note": "Dawud does not defend himself. Sulayman does not hesitate. Ayyub does not question. Every servant's first instinct, when tested, is to turn back. No figure in the prophetic sequence argues with God."
+     },
+     {
+      "item": "No repentance for Iblis",
+      "note": "Unlike the prophets, Iblis is offered no path back. His exile is permanent. The only creature in the surah who refuses servanthood is the only one for whom the door does not reopen."
+     }
+    ],
+    "subtitle": "A surah of thrones and trials — with deliberate silences"
+   },
+   "chiasticRing": {
+    "pairs": [
+     {
+      "left": {
+       "desc": "Pride and fracture. They say: hasten our share before the Day of Account — as a joke",
+       "ayahs": "1–16",
+       "label": "The Quraysh Mock Judgment"
+      },
+      "color": "#4ecdc4",
+      "right": {
+       "desc": "Dhikr to the worlds. You will know its truth — after a time. The delay has a terminus",
+       "ayahs": "86–88",
+       "label": "The Surah's Final Word"
+      }
+     },
+     {
+      "left": {
+       "desc": "Two litigants (khasm) scale the wall. The king judges and is judged — falls in sajdah",
+       "ayahs": "17–26",
+       "label": "Dawud's Earthly Court"
+      },
+      "color": "#e07a8a",
+      "right": {
+       "desc": "Leaders and followers in takhasum — the same root. The earthly court and the infernal court mirror each other",
+       "ayahs": "49–64",
+       "label": "The Quarrel in the Fire"
+      }
+     }
+    ],
+    "title": "The Ring of Courtrooms",
+    "center": {
+     "desc": "The primordial courtroom — Iblis tried, found guilty, sentenced to exile. The origin of every test that came before.",
+     "note": "This scene does not add another story to the sequence. It reveals the source code of every story that preceded it. The delay Iblis was granted is the space in which every human life unfolds.",
+     "ayahs": "71–85",
+     "label": "The Heavenly Assembly"
+    },
+    "subtitle": "Every level of the surah stages a trial — and the same root word (kh-s-m) connects them"
+   },
+   "sectionJourney": {
+    "title": "The Theatre of Thrones",
+    "sections": [
+     {
+      "desc": "An oath by the Quran of dhikr. The Quraysh's disease named in two words: 'izzah (pride hardened to fracture) and shiqaq (splitting from truth). A rapid roll-call of destroyed nations — Nuh, Ad, Fir'awn of the stakes, Thamud, Lut — each in a single breath. A wall of precedent. They mock the idea of judgment while the single blast approaches.",
+      "ayahs": "1–16",
+      "color": "#4ecdc4",
+      "title": "The Diagnosis"
+     },
+     {
+      "desc": "Three prophets, each introduced as 'abd — servant. Dawud: given strength and kingdom, tested by litigants who mirror his own story, falls in sajdah mid-sentence. Sulayman: given beauty, chooses dhikr over horses, receives a kingdom without account. Ayyub: tested by suffering, healed by a spring, an oath resolved with soft grass. Each word 'abd builds the architecture of servanthood the surah will set against Iblis.",
+      "ayahs": "17–48",
+      "color": "#9b7fd4",
+      "title": "The Tested Kings"
+     },
+     {
+      "desc": "Paradise stated briefly. The Fire staged as courtroom drama — leaders and followers cursing each other. The believers they mocked are conspicuously absent from the damned. The word takhasum (quarreling) echoes khasm (litigants) from Dawud's trial — the courtroom imagery binds the prophetic narrative to the afterlife.",
+      "ayahs": "49–64",
+      "color": "#e07a8a",
+      "title": "The Two Destinations",
+      "isPivot": true
+     },
+     {
+      "desc": "The heavenly assembly before creation. Allah announces Adam. The angels bow. Iblis refuses: 'I am better — fire over clay.' Exile, curse, respite. His vow to mislead all except the sincere (mukhlasin). The surah closes: it is dhikr to the worlds — and you will know its truth after a time.",
+      "ayahs": "65–88",
+      "color": "#C9A84C",
+      "title": "The Origin Story"
+     }
+    ],
+    "subtitle": "Four movements: confrontation → tested kings → cosmic courtroom → the Word"
+   },
+   "deductiveFunnel": {
+    "title": "The Architecture of 'Abd",
+    "layers": [
+     {
+      "ayah": "17",
+      "desc": "Our servant Dawud. Introduced by his servanthood before his kingship. Strength and repentance as a single inseparable profile — dha al-ayd, innahu awwab.",
+      "color": "#4ecdc4",
+      "depth": 1,
+      "label": "Dawud",
+      "arabic": "عَبْدَنَا دَاوُودَ"
+     },
+     {
+      "ayah": "30",
+      "desc": "What an excellent servant. Given the greatest earthly kingdom — and the title that matters is still 'abd. His excellence is measured not by what he possesses but by how he holds it.",
+      "color": "#9b7fd4",
+      "depth": 2,
+      "label": "Sulayman",
+      "arabic": "نِعْمَ الْعَبْدُ"
+     },
+     {
+      "ayah": "44",
+      "desc": "The same words — ni'ma al-'abd. Patience under affliction and gratitude under abundance are the same quality viewed from different angles. The word 'abd unites them.",
+      "color": "#e07a8a",
+      "depth": 3,
+      "label": "Ayyub",
+      "arabic": "نِعْمَ الْعَبْدُ"
+     },
+     {
+      "ayah": "83",
+      "desc": "Your sincere servants — the only category beyond Iblis's reach. The word 'abd, built through three case studies, now names the only immunity the surah recognizes.",
+      "color": "#C9A84C",
+      "depth": 4,
+      "label": "The Sincere",
+      "arabic": "عِبَادَكَ الْمُخْلَصِينَ"
+     },
+     {
+      "ayah": "76",
+      "desc": "Against the entire chain stands Iblis, who refused servanthood. His refusal to prostrate is, in structural terms, a refusal to occupy the position of 'abd. Fire that will not bow to clay.",
+      "color": "#e07a8a",
+      "depth": 5,
+      "label": "Iblis: The Refusal",
+      "arabic": "أَنَا خَيْرٌ مِّنْهُ"
+     }
+    ],
+    "subtitle": "The surah's most important word — servant — traces a deliberate path through every narrative"
+   }
+  },
+  "tabs": [
+   {
+    "id": "sections",
+    "label": "Sections",
+    "renderer": "journey",
+    "diagramKey": "sectionJourney"
+   },
+   {
+    "id": "ring",
+    "label": "The Ring",
+    "renderer": "ring",
+    "diagramKey": "chiasticRing"
+   },
+   {
+    "id": "absent",
+    "label": "Absences",
+    "renderer": "absence",
+    "diagramKey": "absenceMap"
+   },
+   {
+    "id": "text",
+    "label": "Text",
+    "renderer": "text"
+   },
+   {
+    "id": "funnel",
+    "label": "The Argument",
+    "renderer": "funnel",
+    "diagramKey": "deductiveFunnel"
+   }
+  ],
+  "content_nodes": [
+   {
+    "type": "surah-specific",
+    "concept": "Iblis's argument: fire over clay (38:76)",
+    "articleSlug": "iblis-fire-clay-38-76"
+   },
+   {
+    "type": "surah-specific",
+    "concept": "Dawud's sajdah and the velocity of repentance",
+    "articleSlug": "dawud-sajdah-38-24"
+   },
+   {
+    "type": "surah-specific",
+    "concept": "The handful of grass — Ayyub's oath (38:44)",
+    "articleSlug": "ayyub-grass-38-44"
+   },
+   {
+    "type": "cross-surah",
+    "concept": "Khalifah in Al-Baqarah and Sad — the same word, answered",
+    "articleSlug": "khalifah-baqarah-sad"
+   }
+  ],
+  "created_at": "2026-03-29T04:22:21.718298+00:00",
+  "updated_at": "2026-03-29T17:32:38.22+00:00",
+  "why_this_surah": "Dawud made a mistake and immediately fell into prostration and repented. Sulayman was given a kingdom and said 'forgive me.' This surah shows prophets who had power and wealth but never let it make them forget where it came from. If you've ever struggled with whether success and faith can coexist, the answer lives here."
+ },
+ {
+  "surah_number": 54,
+  "name": "Al-Qamar",
+  "arabic_name": "القَمَر",
+  "meaning": "The Moon",
+  "thesis": "A fifty-five-ayah drumbeat that opens with the moon already split and the sign already refused, then drives through five destroyed nations in accelerating compression — each one shorter than the last — punctuated four times by the same question: is there anyone who will remember? The drumming stops with two ayahs of silence: a garden, a river, and the nearness of God.",
+  "sciences_active": [
+   {
+    "key": "balaghah",
+    "english": "Rhetoric"
+   },
+   {
+    "key": "nazm",
+    "english": "Structural Coherence"
+   },
+   {
+    "key": "ijaz",
+    "english": "Inimitability"
+   }
+  ],
+  "heart_verse": {
+   "why": "The refrain that defines the surah. It appears four times — after Nuh, after 'Ad, after Thamud, after Lut — each time with greater weight. The Quran was made easy. The barrier is not difficulty. The barrier is willingness. After the fifth destruction (Pharaoh), the refrain does not appear. The time for the question has passed.",
+   "arabic": "وَلَقَدْ يَسَّرْنَا الْقُرْآنَ لِلذِّكْرِ فَهَلْ مِن مُّدَّكِرٍ",
+   "ayahRef": "54:17",
+   "translation": "And We have certainly made the Quran easy for remembrance, so is there any who will remember?"
+  },
+  "audio": {
+   "reciter": "ar.alafasy",
+   "surahNumber": 54
+  },
+  "full_text": [
+   {
+    "ayah": 1,
+    "arabic": "اقْتَرَبَتِ السَّاعَةُ وَانشَقَّ الْقَمَرُ",
+    "translation": "The Hour has drawn near, and the moon has split."
+   },
+   {
+    "ayah": 2,
+    "arabic": "وَإِن يَرَوْا آيَةً يُعْرِضُوا وَيَقُولُوا سِحْرٌ مُّسْتَمِرٌّ",
+    "translation": "And if they see a sign, they turn away and say, 'Passing magic.'"
+   },
+   {
+    "ayah": 3,
+    "arabic": "وَكَذَّبُوا وَاتَّبَعُوا أَهْوَاءَهُمْ ۚ وَكُلُّ أَمْرٍ مُّسْتَقِرٌّ",
+    "translation": "They denied and followed their desires, and every matter will be settled."
+   },
+   {
+    "ayah": 4,
+    "arabic": "وَلَقَدْ جَاءَهُم مِّنَ الْأَنبَاءِ مَا فِيهِ مُزْدَجَرٌ",
+    "translation": "And there has already come to them of information that which contains deterrence —"
+   },
+   {
+    "ayah": 5,
+    "arabic": "حِكْمَةٌ بَالِغَةٌ ۖ فَمَا تُغْنِ النُّذُرُ",
+    "translation": "extensive wisdom — but the warnings do not benefit."
+   },
+   {
+    "ayah": 6,
+    "arabic": "فَتَوَلَّ عَنْهُمْ ۘ يَوْمَ يَدْعُ الدَّاعِ إِلَىٰ شَيْءٍ نُّكُرٍ",
+    "translation": "So turn away from them. The Day the Caller will call to something terrible —"
+   },
+   {
+    "ayah": 7,
+    "arabic": "خُشَّعًا أَبْصَارُهُمْ يَخْرُجُونَ مِنَ الْأَجْدَاثِ كَأَنَّهُمْ جَرَادٌ مُّنتَشِرٌ",
+    "translation": "their eyes humbled, they will emerge from the graves as if they were locusts spreading,"
+   },
+   {
+    "ayah": 8,
+    "arabic": "مُّهْطِعِينَ إِلَى الدَّاعِ ۖ يَقُولُ الْكَافِرُونَ هَـٰذَا يَوْمٌ عَسِرٌ",
+    "translation": "racing toward the Caller. The disbelievers will say, 'This is a difficult day.'"
+   },
+   {
+    "ayah": 9,
+    "arabic": "كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍ فَكَذَّبُوا عَبْدَنَا وَقَالُوا مَجْنُونٌ وَازْدُجِرَ",
+    "translation": "The people of Nuh denied before them. They denied Our servant and said, 'A madman,' and he was repelled."
+   },
+   {
+    "ayah": 10,
+    "arabic": "فَدَعَا رَبَّهُ أَنِّي مَغْلُوبٌ فَانتَصِرْ",
+    "translation": "So he called upon his Lord, 'Indeed, I am overpowered, so help.'"
+   },
+   {
+    "ayah": 11,
+    "arabic": "فَفَتَحْنَا أَبْوَابَ السَّمَاءِ بِمَاءٍ مُّنْهَمِرٍ",
+    "translation": "Then We opened the gates of heaven with pouring water"
+   },
+   {
+    "ayah": 12,
+    "arabic": "وَفَجَّرْنَا الْأَرْضَ عُيُونًا فَالْتَقَى الْمَاءُ عَلَىٰ أَمْرٍ قَدْ قُدِرَ",
+    "translation": "and caused the earth to burst with springs, and the waters met upon a matter already decreed."
+   },
+   {
+    "ayah": 13,
+    "arabic": "وَحَمَلْنَاهُ عَلَىٰ ذَاتِ أَلْوَاحٍ وَدُسُرٍ",
+    "translation": "And We carried him on a vessel of planks and nails,"
+   },
+   {
+    "ayah": 14,
+    "arabic": "تَجْرِي بِأَعْيُنِنَا جَزَاءً لِّمَن كَانَ كُفِرَ",
+    "translation": "sailing under Our watchful care — a recompense for he who had been denied."
+   },
+   {
+    "ayah": 15,
+    "arabic": "وَلَقَدْ تَّرَكْنَاهَا آيَةً فَهَلْ مِن مُّدَّكِرٍ",
+    "translation": "And We left it as a sign — so is there any who will remember?"
+   },
+   {
+    "ayah": 16,
+    "arabic": "فَكَيْفَ كَانَ عَذَابِي وَنُذُرِ",
+    "translation": "So how were My punishment and My warnings?"
+   },
+   {
+    "ayah": 17,
+    "arabic": "وَلَقَدْ يَسَّرْنَا الْقُرْآنَ لِلذِّكْرِ فَهَلْ مِن مُّدَّكِرٍ",
+    "translation": "And We have certainly made the Quran easy for remembrance, so is there any who will remember?"
+   },
+   {
+    "ayah": 18,
+    "arabic": "كَذَّبَتْ عَادٌ فَكَيْفَ كَانَ عَذَابِي وَنُذُرِ",
+    "translation": "'Ad denied. So how were My punishment and My warnings?"
+   },
+   {
+    "ayah": 19,
+    "arabic": "إِنَّا أَرْسَلْنَا عَلَيْهِمْ رِيحًا صَرْصَرًا فِي يَوْمِ نَحْسٍ مُّسْتَمِرٍّ",
+    "translation": "Indeed, We sent upon them a screaming wind on a day of unending misfortune,"
+   },
+   {
+    "ayah": 20,
+    "arabic": "تَنزِعُ النَّاسَ كَأَنَّهُمْ أَعْجَازُ نَخْلٍ مُّنقَعِرٍ",
+    "translation": "plucking people out as if they were trunks of uprooted palm trees."
+   },
+   {
+    "ayah": 21,
+    "arabic": "فَكَيْفَ كَانَ عَذَابِي وَنُذُرِ",
+    "translation": "So how were My punishment and My warnings?"
+   },
+   {
+    "ayah": 22,
+    "arabic": "وَلَقَدْ يَسَّرْنَا الْقُرْآنَ لِلذِّكْرِ فَهَلْ مِن مُّدَّكِرٍ",
+    "translation": "And We have certainly made the Quran easy for remembrance, so is there any who will remember?"
+   },
+   {
+    "ayah": 23,
+    "arabic": "كَذَّبَتْ ثَمُودُ بِالنُّذُرِ",
+    "translation": "Thamud denied the warnings."
+   },
+   {
+    "ayah": 24,
+    "arabic": "فَقَالُوا أَبَشَرًا مِّنَّا وَاحِدًا نَّتَّبِعُهُ إِنَّا إِذًا لَّفِي ضَلَالٍ وَسُعُرٍ",
+    "translation": "They said, 'Is it a single human being among us that we should follow? We would then be in error and madness.'"
+   },
+   {
+    "ayah": 25,
+    "arabic": "أَأُلْقِيَ الذِّكْرُ عَلَيْهِ مِن بَيْنِنَا بَلْ هُوَ كَذَّابٌ أَشِرٌ",
+    "translation": "'Has the message been cast upon him from among us? Rather, he is an insolent liar.'"
+   },
+   {
+    "ayah": 26,
+    "arabic": "سَيَعْلَمُونَ غَدًا مَّنِ الْكَذَّابُ الْأَشِرُ",
+    "translation": "They will know tomorrow who the insolent liar is."
+   },
+   {
+    "ayah": 27,
+    "arabic": "إِنَّا مُرْسِلُو النَّاقَةِ فِتْنَةً لَّهُمْ فَارْتَقِبْهُمْ وَاصْطَبِرْ",
+    "translation": "Indeed, We are sending the she-camel as a trial for them, so watch them and be patient."
+   },
+   {
+    "ayah": 28,
+    "arabic": "وَنَبِّئْهُمْ أَنَّ الْمَاءَ قِسْمَةٌ بَيْنَهُمْ ۖ كُلُّ شِرْبٍ مُّحْتَضَرٌ",
+    "translation": "And inform them that the water is shared between them, each day of drinking attended."
+   },
+   {
+    "ayah": 29,
+    "arabic": "فَنَادَوْا صَاحِبَهُمْ فَتَعَاطَىٰ فَعَقَرَ",
+    "translation": "But they called their companion, and he took a sword and hamstrung her."
+   },
+   {
+    "ayah": 30,
+    "arabic": "فَكَيْفَ كَانَ عَذَابِي وَنُذُرِ",
+    "translation": "So how were My punishment and My warnings?"
+   },
+   {
+    "ayah": 31,
+    "arabic": "إِنَّا أَرْسَلْنَا عَلَيْهِمْ صَيْحَةً وَاحِدَةً فَكَانُوا كَهَشِيمِ الْمُحْتَظِرِ",
+    "translation": "Indeed, We sent upon them one blast, and they became like the dry twig fragments of a fence-builder."
+   },
+   {
+    "ayah": 32,
+    "arabic": "وَلَقَدْ يَسَّرْنَا الْقُرْآنَ لِلذِّكْرِ فَهَلْ مِن مُّدَّكِرٍ",
+    "translation": "And We have certainly made the Quran easy for remembrance, so is there any who will remember?"
+   },
+   {
+    "ayah": 33,
+    "arabic": "كَذَّبَتْ قَوْمُ لُوطٍ بِالنُّذُرِ",
+    "translation": "The people of Lut denied the warnings."
+   },
+   {
+    "ayah": 34,
+    "arabic": "إِنَّا أَرْسَلْنَا عَلَيْهِمْ حَاصِبًا إِلَّا آلَ لُوطٍ ۖ نَّجَّيْنَاهُم بِسَحَرٍ",
+    "translation": "Indeed, We sent upon them a storm of stones, except the family of Lut — We saved them before dawn."
+   },
+   {
+    "ayah": 35,
+    "arabic": "نِّعْمَةً مِّنْ عِندِنَا ۚ كَذَٰلِكَ نَجْزِي مَن شَكَرَ",
+    "translation": "As favor from Us. Thus do We reward the grateful."
+   },
+   {
+    "ayah": 36,
+    "arabic": "وَلَقَدْ أَنذَرَهُم بَطْشَتَنَا فَتَمَارَوْا بِالنُّذُرِ",
+    "translation": "And he had warned them of Our assault, but they disputed about the warnings."
+   },
+   {
+    "ayah": 37,
+    "arabic": "وَلَقَدْ رَاوَدُوهُ عَن ضَيْفِهِ فَطَمَسْنَا أَعْيُنَهُمْ فَذُوقُوا عَذَابِي وَنُذُرِ",
+    "translation": "And they demanded his guests, so We blinded their eyes. 'Taste My punishment and My warnings.'"
+   },
+   {
+    "ayah": 38,
+    "arabic": "وَلَقَدْ صَبَّحَهُم بُكْرَةً عَذَابٌ مُّسْتَقِرٌّ",
+    "translation": "And there seized them by early morning an abiding punishment."
+   },
+   {
+    "ayah": 39,
+    "arabic": "فَذُوقُوا عَذَابِي وَنُذُرِ",
+    "translation": "'Taste My punishment and My warnings.'"
+   },
+   {
+    "ayah": 40,
+    "arabic": "وَلَقَدْ يَسَّرْنَا الْقُرْآنَ لِلذِّكْرِ فَهَلْ مِن مُّدَّكِرٍ",
+    "translation": "And We have certainly made the Quran easy for remembrance, so is there any who will remember?"
+   },
+   {
+    "ayah": 41,
+    "arabic": "وَلَقَدْ جَاءَ آلَ فِرْعَوْنَ النُّذُرُ",
+    "translation": "And there certainly came to the people of Pharaoh the warnings."
+   },
+   {
+    "ayah": 42,
+    "arabic": "كَذَّبُوا بِآيَاتِنَا كُلِّهَا فَأَخَذْنَاهُمْ أَخْذَ عَزِيزٍ مُّقْتَدِرٍ",
+    "translation": "They denied Our signs, all of them, so We seized them with the seizing of One Exalted in Might, Perfect in Ability."
+   },
+   {
+    "ayah": 43,
+    "arabic": "أَكُفَّارُكُمْ خَيْرٌ مِّنْ أُولَـٰئِكُمْ أَمْ لَكُم بَرَاءَةٌ فِي الزُّبُرِ",
+    "translation": "Are your disbelievers better than those, or have you been given immunity in the scriptures?"
+   },
+   {
+    "ayah": 44,
+    "arabic": "أَمْ يَقُولُونَ نَحْنُ جَمِيعٌ مُّنتَصِرٌ",
+    "translation": "Or do they say, 'We are an assembly who will be victorious'?"
+   },
+   {
+    "ayah": 45,
+    "arabic": "سَيُهْزَمُ الْجَمْعُ وَيُوَلُّونَ الدُّبُرَ",
+    "translation": "Their assembly will be defeated, and they will turn their backs."
+   },
+   {
+    "ayah": 46,
+    "arabic": "بَلِ السَّاعَةُ مَوْعِدُهُمْ وَالسَّاعَةُ أَدْهَىٰ وَأَمَرُّ",
+    "translation": "Rather, the Hour is their appointment, and the Hour is more grievous and more bitter."
+   },
+   {
+    "ayah": 47,
+    "arabic": "إِنَّ الْمُجْرِمِينَ فِي ضَلَالٍ وَسُعُرٍ",
+    "translation": "Indeed, the criminals are in error and madness."
+   },
+   {
+    "ayah": 48,
+    "arabic": "يَوْمَ يُسْحَبُونَ فِي النَّارِ عَلَىٰ وُجُوهِهِمْ ذُوقُوا مَسَّ سَقَرَ",
+    "translation": "The Day they are dragged into the Fire on their faces — 'Taste the touch of Saqar.'"
+   },
+   {
+    "ayah": 49,
+    "arabic": "إِنَّا كُلَّ شَيْءٍ خَلَقْنَاهُ بِقَدَرٍ",
+    "translation": "Indeed, all things We created with predestination."
+   },
+   {
+    "ayah": 50,
+    "arabic": "وَمَا أَمْرُنَا إِلَّا وَاحِدَةٌ كَلَمْحٍ بِالْبَصَرِ",
+    "translation": "And Our command is but one, like a glance of the eye."
+   },
+   {
+    "ayah": 51,
+    "arabic": "وَلَقَدْ أَهْلَكْنَا أَشْيَاعَكُمْ فَهَلْ مِن مُّدَّكِرٍ",
+    "translation": "And We have already destroyed your kinds — so is there any who will remember?"
+   },
+   {
+    "ayah": 52,
+    "arabic": "وَكُلُّ شَيْءٍ فَعَلُوهُ فِي الزُّبُرِ",
+    "translation": "And everything they did is in the written records."
+   },
+   {
+    "ayah": 53,
+    "arabic": "وَكُلُّ صَغِيرٍ وَكَبِيرٍ مُّسْتَطَرٌ",
+    "translation": "And every small and great thing is inscribed."
+   },
+   {
+    "ayah": 54,
+    "arabic": "إِنَّ الْمُتَّقِينَ فِي جَنَّاتٍ وَنَهَرٍ",
+    "translation": "Indeed, the righteous will be among gardens and rivers,"
+   },
+   {
+    "ayah": 55,
+    "arabic": "فِي مَقْعَدِ صِدْقٍ عِندَ مَلِيكٍ مُّقْتَدِرٍ",
+    "translation": "in a seat of honor, near a Sovereign, Perfect in Ability."
+   }
+  ],
+  "diagrams": {
+   "absenceMap": {
+    "title": "What's Missing",
+    "absences": [
+     {
+      "item": "Almost no prophetic speech",
+      "note": "Nuh's prayer is five words. Salih speaks one line about the she-camel. Lut speaks one line. Musa does not appear at all. The prophets are nearly silent — the surah's interest is in what happens after the message is rejected."
+     },
+     {
+      "item": "No moral commands",
+      "note": "Al-Qamar does not tell you what to do. It tells you what happened to people who refused to listen, and asks if you are paying attention. The entire pedagogy is in the question."
+     },
+     {
+      "item": "No refrain after Pharaoh",
+      "note": "Four stories received the refrain. The fifth does not. The question 'is there anyone who will remember?' has been asked four times. After Pharaoh, the surah stops asking. The time has passed."
+     },
+     {
+      "item": "No elaboration of Paradise",
+      "note": "Two ayahs for the righteous — gardens, rivers, a seat of truth — after forty-two ayahs of destruction. The imbalance is the point. Peace does not need elaboration. It simply is."
+     },
+     {
+      "item": "No Musa in Pharaoh's story",
+      "note": "In every other Quranic telling, Musa is central. Here Pharaoh's story is told entirely from the divine perspective: the warnings came, they denied, We seized them. Pharaoh's people are grammatical objects, not agents."
+     }
+    ],
+    "subtitle": "The surah tells you what happened, not what to do — every absence sharpens the question"
+   },
+   "chiasticRing": {
+    "pairs": [
+     {
+      "left": {
+       "desc": "The Hour draws near, the moon has split — and they call it passing magic",
+       "ayahs": "1–2",
+       "label": "The Moon Splits"
+      },
+      "color": "#C9A84C",
+      "right": {
+       "desc": "The righteous in gardens and rivers, in a seat of honor near a Sovereign Perfect in Ability",
+       "ayahs": "54–55",
+       "label": "The Seat of Truth"
+      }
+     },
+     {
+      "left": {
+       "desc": "Eyes humbled, emerging like locusts spreading — 'This is a difficult day'",
+       "ayahs": "7–8",
+       "label": "Locusts from Graves"
+      },
+      "color": "#9b7fd4",
+      "right": {
+       "desc": "All things created with predestination. Our command is like a glance of the eye. Everything inscribed.",
+       "ayahs": "49–53",
+       "label": "Decree and Recording"
+      }
+     },
+     {
+      "left": {
+       "desc": "Nuh, 'Ad, Thamud, Lut, Pharaoh — warned, denied, destroyed. The refrain four times, then silence.",
+       "ayahs": "9–42",
+       "label": "Five Destructions"
+      },
+      "color": "#e07a8a",
+      "right": {
+       "desc": "Are your disbelievers better? Their assembly will be defeated. The Hour is their appointment.",
+       "ayahs": "43–48",
+       "label": "The Quraysh Addressed"
+      }
+     }
+    ],
+    "title": "The Mirror",
+    "center": {
+     "desc": "After Pharaoh's two-ayah destruction, the refrain does not appear. The question has been asked four times. The fifth time, the surah draws the conclusion.",
+     "note": "The silence where the refrain should be is the structural pivot — the transition from asking whether anyone will remember to declaring what happens if they do not.",
+     "ayahs": "42–43",
+     "label": "The Missing Refrain"
+    },
+    "subtitle": "The moon splits at the opening; the righteous sit in peace at the close"
+   },
+   "refrainPattern": {
+    "title": "The Two Refrains",
+    "elements": [
+     {
+      "ayah": "1–8",
+      "desc": "The Hour has drawn near and the moon has split. Every sign they see, they turn away and say: passing magic. They denied and followed their desires — but every matter will be settled.",
+      "form": "",
+      "role": "The Opening: The Hour",
+      "color": "#C9A84C",
+      "hasRoot": false
+     },
+     {
+      "ayah": "9–17",
+      "desc": "Before them the people of Nuh denied. They called Our servant a madman. He called upon his Lord: I am overcome, so help me. We opened the gates of heaven with rain and caused the earth to burst with springs. He was carried on a vessel of planks and nails, sailing under Our eyes. Then: How was My punishment? We made the Quran easy — is there anyone who will remember?",
+      "form": "فَكَيْفَ كَانَ عَذَابِي وَنُذُرِ",
+      "role": "Nuh — Punishment (2×) + Remembrance (1×)",
+      "color": "#e07a8a",
+      "hasRoot": true
+     },
+     {
+      "ayah": "18–22",
+      "desc": "'Ad denied. We sent against them a screaming wind on a day of continuous misfortune, plucking people as if they were trunks of uprooted palms. How was My punishment? We made the Quran easy — is there anyone who will remember?",
+      "form": "وَلَقَدْ يَسَّرْنَا الْقُرْآنَ لِلذِّكْرِ فَهَلْ مِن مُّدَّكِرٍ",
+      "role": "'Ad — Punishment (1×) + Remembrance (1×)",
+      "color": "#4ecdc4",
+      "hasRoot": true
+     },
+     {
+      "ayah": "23–32",
+      "desc": "Thamud denied the warnings. They said: a single human from among us — shall we follow him? They hamstrung the she-camel. We sent upon them a single blast and they became like the dry stubs of a fence-builder. How was My punishment? We made the Quran easy — is there anyone who will remember?",
+      "form": "فَكَيْفَ كَانَ عَذَابِي وَنُذُرِ",
+      "role": "Thamud — Punishment (1×) + Remembrance (1×)",
+      "color": "#9b7fd4",
+      "hasRoot": true
+     },
+     {
+      "ayah": "33–40",
+      "desc": "The people of Lut denied the warnings. We sent upon them a storm of stones, except the family of Lut — We saved them before dawn, as a favor from Us. He warned them of Our assault, but they disputed the warnings. They demanded his guests — so We blinded their eyes. How was My punishment? We made the Quran easy — is there anyone who will remember?",
+      "form": "فَكَيْفَ كَانَ عَذَابِي وَنُذُرِ",
+      "role": "Lut — Punishment (2×) + Remembrance (1×)",
+      "color": "#e07a8a",
+      "hasRoot": true
+     },
+     {
+      "ayah": "41–42",
+      "desc": "The warnings came to the people of Fir'awn too. They denied all of Our signs — so We seized them with the seizing of the Almighty, the Capable. The shortest section: no separate remembrance refrain. Fir'awn's case needs no invitation; only the verdict.",
+      "form": "فَكَيْفَ كَانَ عَذَابِي وَنُذُرِ",
+      "role": "Fir'awn — Punishment (1×)",
+      "color": "#C9A84C",
+      "hasRoot": true
+     },
+     {
+      "ayah": "43–55",
+      "desc": "Are your disbelievers better than those? Or do you have immunity in the scriptures? Every matter is settled. They will turn their backs in flight. The Hour is their appointment — and the Hour is more calamitous and more bitter. The righteous will be in gardens and rivers, in a seat of honor, near a Sovereign, Perfect in Ability.",
+      "form": "",
+      "role": "The Closing: Are You Exempt?",
+      "color": "#C9A84C",
+      "hasRoot": false
+     }
+    ],
+    "rootNote": "Al-Qamar uses two interlocking refrains: \"How was My punishment and My warnings?\" after each nation's destruction, and \"We have made the Quran easy to remember — is there anyone who will remember?\" after each lesson. The first refrain closes the story; the second opens the invitation. Together they create a rhythm of justice and mercy that runs through the entire surah.",
+    "subtitle": "Two questions alternate through five destroyed nations — one asks about punishment, the other about remembrance"
+   },
+   "sectionJourney": {
+    "title": "The Drumbeat",
+    "sections": [
+     {
+      "desc": "The moon has split. The people who saw it called it magic. The argument is over before the surah begins. What follows is not another attempt to convince — it is a record of what happens to peoples who see the truth and choose to look away.",
+      "ayahs": "1–8",
+      "color": "#e07a8a",
+      "title": "The Moon and the Refusal"
+     },
+     {
+      "desc": "Nuh (9 ayahs), 'Ad (5), Thamud (10), Lut (8), Pharaoh (2). Each story is shorter than the last. The refrain lands four times — then after Pharaoh, silence. The compression is the argument: by the fifth telling, a single sentence of destruction is sufficient. The listener has been trained.",
+      "ayahs": "9–42",
+      "color": "#9b7fd4",
+      "title": "The Five Destructions"
+     },
+     {
+      "desc": "Are your disbelievers better than those? Their assembly will be defeated. Everything is decreed. Everything is recorded. And then, after fifty-three ayahs of ruin — two ayahs of silence: gardens, rivers, a seat of truth near a Sovereign Perfect in Ability. The same muqtadir that seized Pharaoh now sustains the garden.",
+      "ayahs": "43–55",
+      "color": "#C9A84C",
+      "title": "The Address and the Garden",
+      "isPivot": true
+     }
+    ],
+    "subtitle": "Three movements: miracle refused → five destructions → the seat of truth"
+   },
+   "deductiveFunnel": {
+    "title": "The Compression",
+    "layers": [
+     {
+      "ayah": "9–17",
+      "desc": "The longest narrative sets the template. Five words of prayer — 'I am overpowered, so help.' The gates of heaven open. The ark is described as planks and nails. The refrain lands for the first time.",
+      "color": "#4ecdc4",
+      "depth": 1,
+      "label": "Nuh — 9 ayahs",
+      "arabic": "أَنِّي مَغْلُوبٌ فَانتَصِرْ"
+     },
+     {
+      "ayah": "18–22",
+      "desc": "The screaming wind plucks people like uprooted palm trunks — hollow, broken, discarded. The rhetorical question that closed Nuh's story now opens 'Ad's. The surah is accelerating.",
+      "color": "#9b7fd4",
+      "depth": 2,
+      "label": "'Ad — 5 ayahs",
+      "arabic": "كَأَنَّهُمْ أَعْجَازُ نَخْلٍ مُّنقَعِرٍ"
+     },
+     {
+      "ayah": "23–32",
+      "desc": "Slightly longer because the she-camel introduces the mechanics of a test offered and violated. One blast, and they became like dry twig fragments gathered for a fence.",
+      "color": "#e07a8a",
+      "depth": 3,
+      "label": "Thamud — 10 ayahs",
+      "arabic": "فَكَانُوا كَهَشِيمِ الْمُحْتَظِرِ"
+     },
+     {
+      "ayah": "41–42",
+      "desc": "The most powerful civilization receives the least space. No mention of Musa. No plagues, no sea, no drowning. Two facts: the warnings came, they denied, they were seized. And then — no refrain. The time for asking has passed.",
+      "color": "#C9A84C",
+      "depth": 4,
+      "label": "Pharaoh — 2 ayahs",
+      "arabic": "أَخْذَ عَزِيزٍ مُّقْتَدِرٍ"
+     }
+    ],
+    "subtitle": "Five destructions in accelerating compression — each needing fewer words because the listener has been trained"
+   }
+  },
+  "tabs": [
+   {
+    "id": "sections",
+    "label": "Sections",
+    "renderer": "journey",
+    "diagramKey": "sectionJourney"
+   },
+   {
+    "id": "ring",
+    "label": "The Ring",
+    "renderer": "ring",
+    "diagramKey": "chiasticRing"
+   },
+   {
+    "id": "refrain",
+    "label": "The Refrains",
+    "renderer": "refrain",
+    "diagramKey": "refrainPattern"
+   },
+   {
+    "id": "absent",
+    "label": "Absences",
+    "renderer": "absence",
+    "diagramKey": "absenceMap"
+   },
+   {
+    "id": "text",
+    "label": "Text",
+    "renderer": "text"
+   },
+   {
+    "id": "funnel",
+    "label": "The Argument",
+    "renderer": "funnel",
+    "diagramKey": "deductiveFunnel"
+   }
+  ],
+  "content_nodes": [
+   {
+    "type": "surah-specific",
+    "concept": "The four-fold refrain — structural rhythm as argument",
+    "articleSlug": "refrain-rhythm-54"
+   },
+   {
+    "type": "surah-specific",
+    "concept": "Muqtadir — the same power in destruction and in Paradise",
+    "articleSlug": "muqtadir-power-54-42-55"
+   },
+   {
+    "type": "cross-surah",
+    "concept": "Qamar-Rahman pair: the storm and the garden after it",
+    "articleSlug": "qamar-rahman-pair"
+   },
+   {
+    "type": "cross-surah",
+    "concept": "Compression as pedagogy — training the listener's attention",
+    "articleSlug": "compression-pedagogy-qamar"
+   }
+  ],
+  "created_at": "2026-03-29T04:22:21.986583+00:00",
+  "updated_at": "2026-03-30T04:27:07.703+00:00",
+  "why_this_surah": "The moon split — one of the Prophet's ﷺ greatest miracles — and still they turned away. This surah repeats the phrase 'We made the Quran easy to remember — so is there anyone who will remember?' four times. The miracle wasn't enough. The stories of Nuh, 'Ad, Thamud, and Lut weren't enough. The question is whether the Quran itself will be enough for you."
+ },
+ {
+  "surah_number": 7,
+  "name": "Al-A'raf",
+  "arabic_name": "الأعراف",
+  "meaning": "The Heights",
+  "thesis": "A 206-ayah history of the human species told from above — from the first refusal in the unseen world through seven prophetic witnesses to the primordial covenant that preceded them all — ending in a single prostration that says what the soul said before time.",
+  "sciences_active": [
+   {
+    "key": "qasas",
+    "english": "Quranic Narratives"
+   },
+   {
+    "key": "nazm",
+    "english": "Structural Coherence"
+   },
+   {
+    "key": "munasabat",
+    "english": "Inter-surah Connections"
+   }
+  ],
+  "heart_verse": {
+   "why": "The most metaphysically dense ayah in the surah. Every human soul has already answered yes. Every act of disbelief is not an encounter with a new claim but a forgetting of an old one. The entire historical panorama — every prophet, every refusal — was an elaboration of what happens when that yes is forgotten.",
+   "arabic": "وَإِذْ أَخَذَ رَبُّكَ مِن بَنِي آدَمَ مِن ظُهُورِهِمْ ذُرِّيَّتَهُمْ وَأَشْهَدَهُمْ عَلَىٰ أَنفُسِهِمْ أَلَسْتُ بِرَبِّكُمْ ۖ قَالُوا بَلَىٰ ۛ شَهِدْنَا",
+   "ayahRef": "7:172",
+   "translation": "And when your Lord took from the children of Adam, from their loins, their descendants, and made them testify concerning themselves: 'Am I not your Lord?' They said: 'Yes, we testify.'"
+  },
+  "audio": {
+   "reciter": "ar.alafasy",
+   "surahNumber": 7
+  },
+  "full_text": "section-map",
+  "diagrams": {
+   "absenceMap": {
+    "title": "What's Missing",
+    "absences": [
+     {
+      "item": "No legislation",
+      "note": "For 206 ayahs — one of the Quran's longest surahs — there is almost no law. No inheritance codes, no dietary rules, no ritual instruction beyond the closing command to remember God. The voice stays entirely in the mode of narration and address."
+     },
+     {
+      "item": "No angelic intermediaries",
+      "note": "No angels acting as intermediaries in the way they appear in Madani surahs. The drama is stripped to its essential actors: God, Iblis, prophets, and peoples."
+     },
+     {
+      "item": "No resolution for the people of the Heights",
+      "note": "The surah is named after them — figures standing between Paradise and Hell — and never resolves their fate. In a book of decisive verdicts, their existence introduces a space that resists binary. The Quran lets them stand there."
+     },
+     {
+      "item": "No comfort for the Prophet",
+      "note": "The surah opens by acknowledging tightness in the Prophet's chest and then proceeds to deliver 206 ayahs of accumulated testimony that only increases the weight. There is no extended consolation, no praise. The prophets in the surah's stories are all members of the communities that reject them."
+     },
+     {
+      "item": "No explanation for Iblis's reprieve",
+      "note": "Iblis asks for reprieve until the Day of Resurrection and receives it. God does not explain why the request is granted. The arrangement is permitted to stand, and the weight of that silence carries across 190 ayahs of human history."
+     }
+    ],
+    "subtitle": "The surah's silences are as deliberate as its speech — every absence shapes the argument"
+   },
+   "chiasticRing": {
+    "pairs": [
+     {
+      "left": {
+       "desc": "Iblis's refusal from pride, his four-directional vow against humanity, and the seduction that stripped Adam's covering",
+       "ayahs": "11–25",
+       "label": "Shaytan's Assault"
+      },
+      "color": "#e07a8a",
+      "right": {
+       "desc": "Seek refuge in God from Shaytan's whisper, remember God humbly, and prostrate — the instrument the opening showed was needed",
+       "ayahs": "200–206",
+       "label": "The Defense"
+      }
+     },
+     {
+      "left": {
+       "desc": "Figures standing between Paradise and Hell, recognized by both, belonging to neither — judgment contains dimensions binary thinking cannot map",
+       "ayahs": "46–49",
+       "label": "The A'raf — Between Worlds"
+      },
+      "color": "#9b7fd4",
+      "right": {
+       "desc": "Before birth, before memory, every soul testified: 'Yes, You are our Lord.' Both scenes exist outside ordinary time; both ask where you stand",
+       "ayahs": "172–174",
+       "label": "The Primordial Covenant"
+      }
+     },
+     {
+      "left": {
+       "desc": "The garden, the tree, the stripping of garments — closeness to God lost through a whisper performed as friendship",
+       "ayahs": "19–22",
+       "label": "Adam's Loss"
+      },
+      "color": "#4ecdc4",
+      "right": {
+       "desc": "The man given God's signs who stripped himself of them like a snake shedding skin — closeness to God lost through choice",
+       "ayahs": "175–176",
+       "label": "The Man Who Shed"
+      }
+     }
+    ],
+    "title": "The Mirror",
+    "center": {
+     "desc": "My Lord, if You had willed, You could have destroyed them before — and me as well. It is only Your trial.",
+     "note": "The moment the public drama of prophets and nations gives way to the private drama of a single human being standing before God with a question he cannot answer alone.",
+     "ayahs": "155",
+     "label": "Musa's Prayer"
+    },
+    "subtitle": "The surah's opening and closing form a precise inversion — fall and return"
+   },
+   "sectionJourney": {
+    "title": "The Testimony",
+    "sections": [
+     {
+      "desc": "The surah opens before the beginning — Adam's creation, Iblis's refusal from material pride, the seduction in the garden, the fall, and the clothing of taqwa. Then the people of the Heights: figures standing between Paradise and Hell, belonging to neither destination yet. A space that resists the binary of saved and damned.",
+      "ayahs": "1–58",
+      "color": "#4ecdc4",
+      "title": "The Primordial Drama"
+     },
+     {
+      "desc": "Five prophets in rapid succession — Nuh, Hud, Salih, Lut, Shu'ayb — each sent with the same message, each rejected by the same human logic. The repetition is the architecture. By the fifth telling, the listener understands: this is not an isolated event. This is the pattern of civilization encountering truth.",
+      "ayahs": "59–102",
+      "color": "#9b7fd4",
+      "title": "The Prophetic Sequence"
+     },
+     {
+      "desc": "Over seventy ayahs — the surah's center of gravity. What makes this telling unique: the emphasis falls after liberation. The golden calf, the seventy seized by earthquake, Musa's theological vertigo, and the question that precedes all history: 'Am I not your Lord?'",
+      "ayahs": "103–174",
+      "color": "#C9A84C",
+      "title": "The Musa Narrative",
+      "isPivot": true
+     },
+     {
+      "desc": "The surah pulls back to address the deepest questions — the man who shed God's signs like snakeskin, the Hour whose knowledge belongs only to God, and a closing that lands on prostration. After 206 ayahs of history, the last instruction is physical: put your body on the earth.",
+      "ayahs": "175–206",
+      "color": "#e07a8a",
+      "title": "The Cosmic Frame"
+     }
+    ],
+    "subtitle": "Four movements: primordial drama → prophetic witnesses → the Musa narrative → cosmic frame"
+   },
+   "deductiveFunnel": {
+    "title": "The Seven Witnesses",
+    "layers": [
+     {
+      "ayah": "59–64",
+      "desc": "The message in its clearest form. Worship God — you have no other deity. The prototype for every prophet who follows. The response: 'You are in clear error.' Six ayahs. The surah has four more witnesses to call.",
+      "color": "#4ecdc4",
+      "depth": 1,
+      "label": "Nuh — The Pattern",
+      "arabic": "اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَٰهٍ غَيْرُهُ"
+     },
+     {
+      "ayah": "65–72",
+      "desc": "The argument from inherited identity: 'Shall we leave what our fathers worshipped?' The truth is rejected not because it is unbelievable but because it threatens what has always been.",
+      "color": "#3d9bd4",
+      "depth": 2,
+      "label": "Hud — Ancestral Tradition",
+      "arabic": "أَجِئْتَنَا لِنَعْبُدَ اللَّهَ وَحْدَهُ وَنَذَرَ مَا كَانَ يَعْبُدُ آبَاؤُنَا"
+     },
+     {
+      "ayah": "73–79",
+      "desc": "The she-camel as a test: can you leave something alone? Thamud cannot. Salih's farewell breaks the pattern — 'You do not love advisers.' The failure is relational.",
+      "color": "#9b7fd4",
+      "depth": 3,
+      "label": "Salih — Restraint",
+      "arabic": "فَذَرُوهَا تَأْكُلْ فِي أَرْضِ اللَّهِ"
+     },
+     {
+      "ayah": "80–84",
+      "desc": "The briefest story, the most direct sin. His people try to expel him — the accusation is purity itself. They are offended by someone who insists on boundaries.",
+      "color": "#e07a8a",
+      "depth": 4,
+      "label": "Lut — Expelled Purity",
+      "arabic": "أَخْرِجُوا آلَ لُوطٍ مِّن قَرْيَتِكُمْ ۖ إِنَّهُمْ أُنَاسٌ يَتَطَهَّرُونَ"
+     },
+     {
+      "ayah": "85–93",
+      "desc": "The prophet of fair trade: give full measure and weight. His people offer a choice — assimilation or exile. The earthquake takes Madyan. Shu'ayb's grief: 'How should I grieve for a people who disbelieve?'",
+      "color": "#C9A84C",
+      "depth": 5,
+      "label": "Shu'ayb — Economic Justice",
+      "arabic": "أَوْفُوا الْكَيْلَ وَالْمِيزَانَ وَلَا تَبْخَسُوا النَّاسَ أَشْيَاءَهُمْ"
+     },
+     {
+      "ayah": "103–174",
+      "desc": "The longest witness. What makes it unique: the emphasis falls after the exodus. A people liberated from Pharaoh immediately ask for an idol. The desire to return to what is familiar — even when what is familiar was slavery.",
+      "color": "#e07a8a",
+      "depth": 6,
+      "label": "Musa — After Liberation",
+      "arabic": "اجْعَل لَّنَا إِلَٰهًا كَمَا لَهُمْ آلِهَةٌ"
+     },
+     {
+      "ayah": "172",
+      "desc": "Behind all of history, the moment before it. Every soul testified yes. The prophets were not bringing news — they were triggering memory. The refusal to listen was, in every case, a refusal to remember.",
+      "color": "#C9A84C",
+      "depth": 7,
+      "label": "The Covenant — Before History",
+      "arabic": "أَلَسْتُ بِرَبِّكُمْ ۖ قَالُوا بَلَىٰ"
+     }
+    ],
+    "subtitle": "Each prophet adds a layer to the surah's case — the same story, told until you recognize your face in it"
+   }
+  },
+  "tabs": [
+   {
+    "id": "sections",
+    "label": "Sections",
+    "renderer": "journey",
+    "diagramKey": "sectionJourney"
+   },
+   {
+    "id": "ring",
+    "label": "The Ring",
+    "renderer": "ring",
+    "diagramKey": "chiasticRing"
+   },
+   {
+    "id": "absent",
+    "label": "Absences",
+    "renderer": "absence",
+    "diagramKey": "absenceMap"
+   },
+   {
+    "id": "text",
+    "label": "Text",
+    "renderer": "text"
+   },
+   {
+    "id": "funnel",
+    "label": "The Argument",
+    "renderer": "funnel",
+    "diagramKey": "deductiveFunnel"
+   }
+  ],
+  "content_nodes": [
+   {
+    "type": "surah-specific",
+    "concept": "The people of the A'raf — the space between verdicts",
+    "articleSlug": "araf-heights-between-worlds-7"
+   },
+   {
+    "type": "surah-specific",
+    "concept": "Iblis's syllogism and the architecture of pride",
+    "articleSlug": "iblis-pride-syllogism-7-12"
+   },
+   {
+    "type": "cross-surah",
+    "concept": "The primordial covenant — alastu bi-rabbikum",
+    "articleSlug": "primordial-covenant-7-172"
+   },
+   {
+    "type": "cross-surah",
+    "concept": "Al-An'am / Al-A'raf diptych — theology meets testimony",
+    "articleSlug": "anam-araf-diptych-6-7"
+   }
+  ],
+  "created_at": "2026-03-29T04:22:21.39069+00:00",
+  "updated_at": "2026-03-29T17:27:20.756+00:00",
+  "why_this_surah": "The longest account of human history in the Quran — from Adam's creation through seven civilizations that all received a messenger and all had to choose. If you want to understand the pattern the Quran sees in history (a prophet comes, most people reject, consequences follow), this surah lays it out in full."
+ },
+ {
+  "surah_number": 10,
+  "name": "Yunus",
+  "arabic_name": "يُونُس",
+  "meaning": "Jonah",
+  "thesis": "A surah that walks you through the evidence of the cosmos and the record of history to deliver a single, extraordinary fact: in the long pattern of nations that refused and were destroyed, one community believed just in time — and the surah named itself after that exception because the door is still open.",
+  "sciences_active": [
+   {
+    "key": "qasas",
+    "english": "Quranic Narratives"
+   },
+   {
+    "key": "balaghah",
+    "english": "Rhetoric"
+   },
+   {
+    "key": "aqeedah",
+    "english": "Theology"
+   }
+  ],
+  "heart_verse": {
+   "why": "The word illa — except — restructures the entire preceding argument. Every nation rejected and was destroyed. Then: except. One city believed. The surah named itself after that exception, after the proof that the door never fully closes.",
+   "arabic": "فَلَوْلَا كَانَتْ قَرْيَةٌ آمَنَتْ فَنَفَعَهَا إِيمَانُهَا إِلَّا قَوْمَ يُونُسَ",
+   "ayahRef": "10:98",
+   "translation": "Then has there not been a single city that believed so its faith benefited it — except the people of Yunus?"
+  },
+  "audio": {
+   "reciter": "ar.alafasy",
+   "surahNumber": 10
+  },
+  "full_text": null,
+  "diagrams": {
+   "absenceMap": {
+    "title": "What's Missing",
+    "absences": [
+     {
+      "item": "No vivid Paradise or Hell imagery",
+      "note": "Rivers, gardens, chains, fire — almost entirely absent. The surah does not try to move you through longing or terror. It moves you through what you can see with your own eyes and verify from history."
+     },
+     {
+      "item": "No legal commands",
+      "note": "No instructions about prayer, fasting, charity, or social conduct. This surah is entirely diagnostic — it shows you the world, shows you the pattern, shows you the exception, and leaves the implications to you."
+     },
+     {
+      "item": "Yunus's own story is barely told",
+      "note": "The prophet whose name the surah carries is almost invisible. His flight and whale and repentance are detailed in other surahs. Here, what matters is what his people did. They believed. It worked."
+     },
+     {
+      "item": "No destruction scene for the exception",
+      "note": "Every other community in the surah receives a vivid ending. Yunus's people receive a lifting — a removal of punishment. The surah names itself after an absence of ruin."
+     },
+     {
+      "item": "No moment of prophetic vindication",
+      "note": "Nuh is given three ayahs of posture, not triumph. Musa's story drives to Fir'awn's drowning, not to celebration. The surah withholds the satisfaction of being proven right."
+     }
+    ],
+    "subtitle": "The surah's silences are part of its argument"
+   },
+   "chiasticRing": {
+    "pairs": [
+     {
+      "left": {
+       "desc": "'Was it a wonder to the people that We revealed to a man from among them?' — the opening treats revelation as something doubted and mocked",
+       "ayahs": "2",
+       "label": "Revelation Contested"
+      },
+      "color": "#4ecdc4",
+      "right": {
+       "desc": "'Follow what is revealed to you, and be patient' — the closing treats it as settled ground, the only solid thing in the room",
+       "ayahs": "109",
+       "label": "Revelation Trusted"
+      }
+     },
+     {
+      "left": {
+       "desc": "He believed at the moment of drowning and was told 'Now?' — faith that arrives after the door has shut",
+       "ayahs": "90–91",
+       "label": "Fir'awn's Too-Late Faith"
+      },
+      "color": "#e07a8a",
+      "right": {
+       "desc": "One city believed at the last moment and was saved — the closest possible rescue next to the closest possible miss",
+       "ayahs": "98",
+       "label": "Yunus's Just-In-Time Faith"
+      }
+     }
+    ],
+    "title": "The Echo",
+    "center": {
+     "desc": "Except the people of Yunus — when they believed, We removed from them the punishment of disgrace.",
+     "note": "The distance between 'too late' and 'just in time' is eight ayahs. The surah placed the closest miss next to the closest rescue, and the juxtaposition is the most powerful argument it makes.",
+     "ayahs": "98",
+     "label": "The Exception"
+    },
+    "subtitle": "The surah's opening and closing form a precise inversion"
+   },
+   "sectionJourney": {
+    "title": "The Four Columns",
+    "sections": [
+     {
+      "desc": "The surah opens the case with evidence anyone can see — the sun's radiance, the moon's measured phases, ships on the sea, rain on dead ground. The parable of worldly life at ayah 24 is one of the most devastating single images in the Quran: a field flourishing one day and leveled by morning, 'as though it had not flourished the day before.' The argument is empirical before it is eschatological.",
+      "ayahs": "1–70",
+      "color": "#4ecdc4",
+      "title": "Cosmic Signs"
+     },
+     {
+      "desc": "Nuh in three compressed ayahs — posture, not narrative. Then Musa against Fir'awn for seventeen ayahs, building to the drowning and the two-word divine response: al-aana? His body preserved as a sign. Every nation that received a prophet and refused. The pattern seems absolute.",
+      "ayahs": "71–97",
+      "color": "#e07a8a",
+      "title": "The Historical Record"
+     },
+     {
+      "desc": "One word — illa — breaks the pattern. One city believed. The people of Yunus. The surah has spent its entire arc establishing a law of history, and then a single word shatters it. The break is the point. The whole structure was built so that the exception would land with its full weight.",
+      "ayahs": "98",
+      "color": "#C9A84C",
+      "title": "The Exception",
+      "isPivot": true
+     },
+     {
+      "desc": "The crowd recedes. The voice drops. Direct instructions to one person: here is what you say, here is where you stand, here is what you do not do. 'Follow what is revealed to you, and be patient until Allah gives judgment.' Shorter sentences for the end of a long road.",
+      "ayahs": "99–109",
+      "color": "#1A7A54",
+      "title": "The Resolution"
+     }
+    ],
+    "subtitle": "Cosmos → History → Exception → Patience"
+   },
+   "deductiveFunnel": {
+    "title": "The Evidence Trail",
+    "layers": [
+     {
+      "ayah": "5–6",
+      "desc": "The sun as radiance, the moon as measured light. Two different Arabic words for what translation flattens into one. The calibration of the cosmos as the first evidence that the God who built all this can certainly speak through a human being.",
+      "color": "#4ecdc4",
+      "depth": 1,
+      "label": "Cosmic Evidence",
+      "arabic": "هُوَ الَّذِي جَعَلَ الشَّمْسَ ضِيَاءً"
+     },
+     {
+      "ayah": "22–23",
+      "desc": "The storm-prayer cycle: sincere devotion at sea, forgetfulness on land. The root image of kafara — to cover over — describes someone who has had the experience of God and buried it.",
+      "color": "#9b7fd4",
+      "depth": 2,
+      "label": "Human Pattern",
+      "arabic": "دَعَوُا اللَّهَ مُخْلِصِينَ لَهُ الدِّينَ"
+     },
+     {
+      "ayah": "71–92",
+      "desc": "Nuh's posture, Musa's confrontation, Fir'awn's drowning. Every nation that received truth and refused it. The pattern seems like a law of history.",
+      "color": "#e07a8a",
+      "depth": 3,
+      "label": "Historical Pattern",
+      "arabic": "فَأَغْرَقْنَاهُمْ"
+     },
+     {
+      "ayah": "98",
+      "desc": "Except. One word breaks the law the surah spent ninety-seven ayahs establishing. The people of Yunus believed, and the punishment was lifted. The exception is the surah's gift.",
+      "color": "#C9A84C",
+      "depth": 4,
+      "label": "The Break",
+      "arabic": "إِلَّا قَوْمَ يُونُسَ"
+     }
+    ],
+    "subtitle": "Each layer builds toward the exception that reframes everything"
+   }
+  },
+  "tabs": [
+   {
+    "id": "sections",
+    "label": "Sections",
+    "renderer": "journey",
+    "diagramKey": "sectionJourney"
+   },
+   {
+    "id": "ring",
+    "label": "The Ring",
+    "renderer": "ring",
+    "diagramKey": "chiasticRing"
+   },
+   {
+    "id": "absent",
+    "label": "Absences",
+    "renderer": "absence",
+    "diagramKey": "absenceMap"
+   },
+   {
+    "id": "text",
+    "label": "Text",
+    "renderer": "text"
+   },
+   {
+    "id": "funnel",
+    "label": "The Argument",
+    "renderer": "funnel",
+    "diagramKey": "deductiveFunnel"
+   }
+  ],
+  "content_nodes": [
+   {
+    "type": "surah-specific",
+    "concept": "Illa — the exception that rewrites history",
+    "articleSlug": "illa-exception-yunus-10-98"
+   },
+   {
+    "type": "surah-specific",
+    "concept": "The parable of worldly life (10:24)",
+    "articleSlug": "parable-worldly-life-10-24"
+   },
+   {
+    "type": "surah-specific",
+    "concept": "Fir'awn's preserved body (10:92)",
+    "articleSlug": "firawn-body-preserved-10-92"
+   },
+   {
+    "type": "cross-surah",
+    "concept": "Yunus–Hud–Yusuf triptych",
+    "articleSlug": "yunus-hud-yusuf-triptych"
+   }
+  ],
+  "created_at": "2026-03-29T04:22:21.39069+00:00",
+  "updated_at": "2026-03-29T17:27:21.042+00:00",
+  "why_this_surah": "What if you're not sure? What if you've heard the message but you're still weighing it? This surah speaks directly to the person on the fence — the one who wants proof, who wonders if the Quran is real, who needs to see evidence before committing. It meets doubt where doubt actually lives."
+ }
+]

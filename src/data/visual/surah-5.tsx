@@ -150,7 +150,7 @@ const SURAH_DATA = {
         },
         {
           ref: "5:8",
-          arabic: "وَلَا يَجْرِمَنَّكُمْ شَنَـَٔانُ قَوْمٍ عَلَىٰٓ أَلَّا تَعْدِلُوا۟ ۚ ٱعْدِلُوا۟",
+          arabic: "وَلَا يَجْرِمَنَّكُمْ شَنَـَٔانُ قَوْمٍ عَلَىٰٓ أَلَّا تَعْدِلُوا۟ ۚ ٱعْدِلُوا۟",
           ayahRef: "5:8",
           translation: "Do not let the hatred of a people prevent you from being just. Be just.",
           context: "Justice as covenant obligation — not contingent on who the other party is. The command is repeated for emphasis: 'be just — that is nearer to piety.'",
@@ -166,7 +166,7 @@ const SURAH_DATA = {
         },
         {
           ref: "5:48",
-          arabic: "وَأَنزَلْنَآ إِلَيْكَ ٱلْكِتَـٰبَ بِٱلْحَقِّ مُصَدِّقًا لِّمَا بَيْنَ يَدَيْهِ مِنَ ٱلْكِتَـٰبِ وَمُهَيْمِنًا عَلَيْهِ",
+          arabic: "وَأَنزَلْنَآ إِلَيْكَ ٱلْكِتَـٰبَ بِٱلْحَقِّ مُصَدِّقًا لِّمَا بَيْنَ يَدَيْهِ مِنَ ٱلْكِتَـٰبِ وَمُهَيْمِنًا عَلَيْهِ",
           ayahRef: "5:48",
           translation: "We revealed to you the Book in truth, confirming what came before it and as a guardian over it.",
           context: "Muhaymin — watchful protector. The Quran does not replace previous scripture. It guards it. The relationship to earlier revelation defined in a single word.",
@@ -174,7 +174,7 @@ const SURAH_DATA = {
         },
         {
           ref: "5:118",
-          arabic: "إِن تُعَذِّبْهُمْ فَإِنَّهُمْ عِبَادُكَ ۖ وَإِن تَغْفِرْ لَهُمْ فَإِنَّكَ أَنتَ ٱلْعَزِيزُ ٱلْحَكِيمُ",
+          arabic: "إِن تُعَذِّبْهُمْ فَإِنَّهُمْ عِبَادُكَ ۖ وَإِن تَغْفِرْ لَهُمْ فَإِنَّكَ أَنتَ ٱلْعَزِيزُ ٱلْحَكِيمُ",
           ayahRef: "5:118",
           translation: "If You punish them, they are Your servants. And if You forgive them, You are the Mighty, the Wise.",
           context: "Jesus's final Quranic words. He does not say 'the Merciful, the Forgiving.' He says al-'Aziz al-Hakim — forgiveness as sovereign wisdom, not sentiment. Among the most theologically precise moments in the Quran.",
@@ -246,7 +246,7 @@ const TABS = [
   { id: "journey", label: "Journey" },
   { id: "arcs", label: "Arcs" },
   { id: "absent", label: "Absences" },
-  { id: "text", label: "Text" },
+  { id: "text", label: "Map" },
 ];
 
 // ══════════════════════════════════════════════════════════════════════════════

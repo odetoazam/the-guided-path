@@ -22,7 +22,7 @@ const SURAH_DATA = {
 
   sciencesActive: [{"key":"balaghah","english":"Rhetoric"},{"key":"sarf","english":"Morphology"},{"key":"nazm","english":"Structural Coherence"}],
   heartVerse: {
-    arabic: "كَلَّا ۖ لَيُنبَذَنَّ فِي الْحُطَمَةِ",
+    arabic: "كَلَّا ۖ لَيُنبَذَنَّ فِي الْحُطَمَةِ",
     ayahRef: "104:4",
     translation: "Absolutely not. He will be thrown into the Crusher.",
     why: "The single-word pivot of the entire surah. Everything before it is the portrait — behavior, psychology, delusion. Everything after is the divine consequence. Kalla is the door between the two worlds, and it swings only one way.",
@@ -30,17 +30,6 @@ const SURAH_DATA = {
 
   audio: { surahNumber: 104, reciter: "ar.alafasy" },
 
-  fullText: [
-    { ayah: 1, arabic: "وَيْلٌ لِّكُلِّ هُمَزَةٍ لُّمَزَةٍ", translation: "Destruction to every backbiter, slanderer —" },
-    { ayah: 2, arabic: "الَّذِي جَمَعَ مَالًا وَعَدَّدَهُ", translation: "the one who gathered wealth and counted it repeatedly —" },
-    { ayah: 3, arabic: "يَحْسَبُ أَنَّ مَالَهُ أَخْلَدَهُ", translation: "thinking that his wealth would make him last forever." },
-    { ayah: 4, arabic: "كَلَّا ۖ لَيُنبَذَنَّ فِي الْحُطَمَةِ", translation: "Absolutely not. He will be thrown into the Crusher." },
-    { ayah: 5, arabic: "وَمَا أَدْرَاكَ مَا الْحُطَمَةُ", translation: "And what could make you understand what the Crusher is?" },
-    { ayah: 6, arabic: "نَارُ اللَّهِ الْمُوقَدَةُ", translation: "The kindled Fire of Allah —" },
-    { ayah: 7, arabic: "الَّتِي تَطَّلِعُ عَلَى الْأَفْئِدَةِ", translation: "which mounts upon the hearts." },
-    { ayah: 8, arabic: "إِنَّهَا عَلَيْهِم مُّؤْصَدَةٌ", translation: "It is sealed over them —" },
-    { ayah: 9, arabic: "فِي عَمَدٍ مُّمَدَّدَةٍ", translation: "in pillars, extended." },
-  ],
 
   diagrams: {
     sectionJourney: {
@@ -77,10 +66,10 @@ const SURAH_DATA = {
       title: "The Autopsy",
       subtitle: "Each ayah peels back one more layer until the root is exposed",
       layers: [
-        { depth: 1, label: "Behavior", ayah: "1", arabic: "هُمَزَةٍ لُّمَزَةٍ", desc: "The visible symptom — backbiting in absence (hamz), mocking to the face (lamz). His fundamental relationship with others is one of diminishment.", color: "#4ecdc4" },
+        { depth: 1, label: "Behavior", ayah: "1", arabic: "هُمَزَةٍ لُّمَزَةٍ", desc: "The visible symptom — backbiting in absence (hamz), mocking to the face (lamz). His fundamental relationship with others is one of diminishment.", color: "#4ecdc4" },
         { depth: 2, label: "Mechanism", ayah: "2", arabic: "جَمَعَ مَالًا وَعَدَّدَهُ", desc: "The engine beneath the cruelty — obsessive accumulation. The verb 'addada is intensive: to count and recount, to keep running the tally.", color: "#9b7fd4" },
         { depth: 3, label: "Delusion", ayah: "3", arabic: "يَحْسَبُ أَنَّ مَالَهُ أَخْلَدَهُ", desc: "The root pathology — he genuinely believes his wealth has made him immortal. Accumulation as substitute theology.", color: "#e07a8a" },
-        { depth: 4, label: "Correction", ayah: "4", arabic: "كَلَّا", desc: "Diagnosis complete. One word closes the file. Everything after this is consequence.", color: "#C9A84C" },
+        { depth: 4, label: "Correction", ayah: "4", arabic: "كَلَّا", desc: "Diagnosis complete. One word closes the file. Everything after this is consequence.", color: "#C9A84C" },
       ],
     },
     absenceMap: {
@@ -113,7 +102,6 @@ const TABS = [
   { id: "mirror", label: "Mirror" },
   { id: "autopsy", label: "Autopsy" },
   { id: "absent", label: "Absences" },
-  { id: "text", label: "Text" },
 ];
 
 // ══════════════════════════════════════════════════════════════════════════════
@@ -231,21 +219,6 @@ function HeartVerse({ verse }: { verse: typeof SURAH_DATA.heartVerse }) {
   );
 }
 
-function FullSurahText({ verses }: { verses: typeof SURAH_DATA.fullText }) {
-  return (
-    <div className="space-y-5">
-      {verses.map((v) => (
-        <div key={v.ayah} className="space-y-1">
-          <p className="text-xl leading-loose text-right text-cream font-amiri" style={{ direction: "rtl" }}>
-            {v.arabic}{" "}
-            <span className="text-sm text-cream-muted/50">﴿{v.ayah}﴾</span>
-          </p>
-          <p className="text-sm text-cream-muted/60 font-body">{v.translation}</p>
-        </div>
-      ))}
-    </div>
-  );
-}
 
 function SectionJourney({ data }: { data: typeof SURAH_DATA.diagrams.sectionJourney }) {
   return (
@@ -437,13 +410,7 @@ export default function SurahArchitecture() {
           {activeTab === "mirror" && <ChiasticRing data={d.diagrams.chiasticRing} />}
           {activeTab === "autopsy" && <DeductiveFunnel data={d.diagrams.deductiveFunnel} />}
           {activeTab === "absent" && <AbsenceMap data={d.diagrams.absenceMap} />}
-          {activeTab === "text" && (
-            <div className="space-y-6">
-              <FullSurahText verses={d.fullText} />
-              <OrnamentDivider />
-              <HeartVerse verse={d.heartVerse} />
-            </div>
-          )}
+          <div className="space-y-6 pt-6 border-t border-white/[0.06]"><HeartVerse verse={d.heartVerse} /></div>
         </div>
 
         {/* ── Go Deeper ────────────────────────────────────────────────────── */}

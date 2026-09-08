@@ -22,7 +22,7 @@ const SURAH_DATA = {
 
   sciencesActive: [{"key":"balaghah","english":"Rhetoric"},{"key":"ijaz","english":"Inimitability"},{"key":"nazm","english":"Structural Coherence"}],
   heartVerse: {
-    arabic: "كُلُّ مَنْ عَلَيْهَا فَانٍ ﴿٢٦﴾ وَيَبْقَىٰ وَجْهُ رَبِّكَ ذُو الْجَلَالِ وَالْإِكْرَامِ",
+    arabic: "كُلُّ مَنْ عَلَيْهَا فَانٍ ﴿٢٦﴾ وَيَبْقَىٰ وَجْهُ رَبِّكَ ذُو الْجَلَالِ وَالْإِكْرَامِ",
     ayahRef: "55:26–27",
     translation: "Everyone upon it is perishing. And there remains the face of your Lord, full of majesty and honor.",
     why: "The turning point of the entire surah. Everything before it is an accumulation of beauty — cosmos, seas, fruit, horizons. This ayah acknowledges that all of it is passing away, already in dissolution. The word 'fan' is a present participle: not 'will perish' but 'is perishing.' And then the counterweight — God's face remains. The phrase dhul-jalali wal-ikram appears only twice in the Quran, both in this surah, framing everything between the pivot and the finale.",
@@ -30,23 +30,6 @@ const SURAH_DATA = {
 
   audio: { surahNumber: 55, reciter: "ar.alafasy" },
 
-  fullText: [
-    { ayah: 1, arabic: "الرَّحْمَـٰنُ", translation: "The Most Merciful —" },
-    { ayah: 2, arabic: "عَلَّمَ الْقُرْآنَ", translation: "He taught the Quran." },
-    { ayah: 3, arabic: "خَلَقَ الْإِنسَانَ", translation: "He created the human being." },
-    { ayah: 4, arabic: "عَلَّمَهُ الْبَيَانَ", translation: "He taught him clear expression." },
-    { ayah: 5, arabic: "الشَّمْسُ وَالْقَمَرُ بِحُسْبَانٍ", translation: "The sun and the moon move by precise calculation." },
-    { ayah: 6, arabic: "وَالنَّجْمُ وَالشَّجَرُ يَسْجُدَانِ", translation: "And the stars and the trees prostrate." },
-    { ayah: 7, arabic: "وَالسَّمَاءَ رَفَعَهَا وَوَضَعَ الْمِيزَانَ", translation: "And the sky He raised, and He established the balance —" },
-    { ayah: 13, arabic: "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ", translation: "So which of the favors of your Lord would you deny?" },
-    { ayah: 19, arabic: "مَرَجَ الْبَحْرَيْنِ يَلْتَقِيَانِ", translation: "He released the two seas, meeting side by side —" },
-    { ayah: 20, arabic: "بَيْنَهُمَا بَرْزَخٌ لَّا يَبْغِيَانِ", translation: "between them a barrier neither one transgresses." },
-    { ayah: 26, arabic: "كُلُّ مَنْ عَلَيْهَا فَانٍ", translation: "Everyone upon it is perishing." },
-    { ayah: 27, arabic: "وَيَبْقَىٰ وَجْهُ رَبِّكَ ذُو الْجَلَالِ وَالْإِكْرَامِ", translation: "And there remains the face of your Lord, full of majesty and honor." },
-    { ayah: 46, arabic: "وَلِمَنْ خَافَ مَقَامَ رَبِّهِ جَنَّتَانِ", translation: "And for the one who feared standing before their Lord: two gardens." },
-    { ayah: 64, arabic: "مُدْهَامَّتَانِ", translation: "Intensely, darkly green." },
-    { ayah: 78, arabic: "تَبَارَكَ اسْمُ رَبِّكَ ذِي الْجَلَالِ وَالْإِكْرَامِ", translation: "Blessed is the name of your Lord, full of majesty and honor." },
-  ],
 
   diagrams: {
     sectionJourney: {
@@ -125,7 +108,6 @@ const TABS = [
   { id: "ring", label: "Ring" },
   { id: "refrain", label: "Refrain" },
   { id: "absent", label: "Absences" },
-  { id: "text", label: "Text" },
 ];
 
 // ══════════════════════════════════════════════════════════════════════════════
@@ -243,21 +225,6 @@ function HeartVerse({ verse }: { verse: typeof SURAH_DATA.heartVerse }) {
   );
 }
 
-function FullSurahText({ verses }: { verses: typeof SURAH_DATA.fullText }) {
-  return (
-    <div className="space-y-5">
-      {verses.map((v) => (
-        <div key={v.ayah} className="space-y-1">
-          <p className="text-xl leading-loose text-right text-cream font-amiri" style={{ direction: "rtl" }}>
-            {v.arabic}{" "}
-            <span className="text-sm text-cream-muted/50">﴿{v.ayah}﴾</span>
-          </p>
-          <p className="text-sm text-cream-muted/60 font-body">{v.translation}</p>
-        </div>
-      ))}
-    </div>
-  );
-}
 
 function SectionJourney({ data }: { data: typeof SURAH_DATA.diagrams.sectionJourney }) {
   return (
@@ -449,13 +416,7 @@ export default function SurahArchitecture() {
           {activeTab === "ring" && <ChiasticRing data={d.diagrams.chiasticRing} />}
           {activeTab === "refrain" && <DeductiveFunnel data={d.diagrams.deductiveFunnel} />}
           {activeTab === "absent" && <AbsenceMap data={d.diagrams.absenceMap} />}
-          {activeTab === "text" && (
-            <div className="space-y-6">
-              <FullSurahText verses={d.fullText} />
-              <OrnamentDivider />
-              <HeartVerse verse={d.heartVerse} />
-            </div>
-          )}
+          <div className="space-y-6 pt-6 border-t border-white/[0.06]"><HeartVerse verse={d.heartVerse} /></div>
         </div>
 
         {/* ── Go Deeper ────────────────────────────────────────────────────── */}

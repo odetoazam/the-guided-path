@@ -30,16 +30,6 @@ const SURAH_DATA = {
 
   audio: { surahNumber: 98, reciter: "ar.alafasy" },
 
-  fullText: [
-    { ayah: 1, arabic: "لَمْ يَكُنِ الَّذِينَ كَفَرُوا مِنْ أَهْلِ الْكِتَابِ وَالْمُشْرِكِينَ مُنفَكِّينَ حَتَّىٰ تَأْتِيَهُمُ الْبَيِّنَةُ", translation: "Those who disbelieved among the People of the Book and the polytheists were not going to desist until there came to them the clear proof —" },
-    { ayah: 2, arabic: "رَسُولٌ مِّنَ اللَّهِ يَتْلُو صُحُفًا مُّطَهَّرَةً", translation: "a Messenger from Allah, reciting purified pages," },
-    { ayah: 3, arabic: "فِيهَا كُتُبٌ قَيِّمَةٌ", translation: "containing upright scriptures." },
-    { ayah: 4, arabic: "وَمَا تَفَرَّقَ الَّذِينَ أُوتُوا الْكِتَابَ إِلَّا مِن بَعْدِ مَا جَاءَتْهُمُ الْبَيِّنَةُ", translation: "And those who were given the Scripture did not become divided except after there had come to them the clear proof." },
-    { ayah: 5, arabic: "وَمَا أُمِرُوا إِلَّا لِيَعْبُدُوا اللَّهَ مُخْلِصِينَ لَهُ الدِّينَ حُنَفَاءَ وَيُقِيمُوا الصَّلَاةَ وَيُؤْتُوا الزَّكَاةَ ۚ وَذَٰلِكَ دِينُ الْقَيِّمَةِ", translation: "And they were not commanded except to worship Allah sincerely, inclining to truth, and to establish prayer and give zakah. And that is the upright religion." },
-    { ayah: 6, arabic: "إِنَّ الَّذِينَ كَفَرُوا مِنْ أَهْلِ الْكِتَابِ وَالْمُشْرِكِينَ فِي نَارِ جَهَنَّمَ خَالِدِينَ فِيهَا ۚ أُولَٰئِكَ هُمْ شَرُّ الْبَرِيَّةِ", translation: "Indeed, those who disbelieved among the People of the Book and the polytheists will be in the fire of Hell, abiding eternally. Those are the worst of creation." },
-    { ayah: 7, arabic: "إِنَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ أُولَٰئِكَ هُمْ خَيْرُ الْبَرِيَّةِ", translation: "Indeed, those who believed and did righteous deeds — those are the best of creation." },
-    { ayah: 8, arabic: "جَزَاؤُهُمْ عِندَ رَبِّهِمْ جَنَّاتُ عَدْنٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا ۖ رَّضِيَ اللَّهُ عَنْهُمْ وَرَضُوا عَنْهُ ۚ ذَٰلِكَ لِمَنْ خَشِيَ رَبَّهُ", translation: "Their reward with their Lord is gardens of perpetual residence beneath which rivers flow, wherein they abide forever. Allah is pleased with them, and they are pleased with Him. That is for whoever held their Lord in awe." },
-  ],
 
   diagrams: {
     sectionJourney: {
@@ -72,7 +62,7 @@ const SURAH_DATA = {
       subtitle: "From external proof to internal response — the path the surah traces",
       layers: [
         { depth: 1, label: "The Proof", ayah: "1–2", arabic: "حَتَّىٰ تَأْتِيَهُمُ الْبَيِّنَةُ · رَسُولٌ مِّنَ اللَّهِ", desc: "The clear proof arrives — a Messenger from Allah with purified pages. The evidence is external, visible, delivered. No one can claim they were not told.", color: "#4ecdc4" },
-        { depth: 2, label: "The Fracture", ayah: "4", arabic: "وَمَا تَفَرَّقَ … إِلَّا مِن بَعْدِ مَا جَاءَتْهُمُ الْبَيِّنَةُ", desc: "The division happened after the clarity, not before it. The restriction particle illa and the temporal marker min ba'di build a case about causation — the proof did not create confusion. It created a choice.", color: "#9b7fd4" },
+        { depth: 2, label: "The Fracture", ayah: "4", arabic: "وَمَا تَفَرَّقَ … إِلَّا مِن بَعْدِ مَا جَاءَتْهُمُ الْبَيِّنَةُ", desc: "The division happened after the clarity, not before it. The restriction particle illa and the temporal marker min ba'di build a case about causation — the proof did not create confusion. It created a choice.", color: "#9b7fd4" },
         { depth: 3, label: "The Simplicity", ayah: "5", arabic: "وَمَا أُمِرُوا إِلَّا لِيَعْبُدُوا اللَّهَ مُخْلِصِينَ", desc: "What was actually asked: sincerity, prayer, charity. Din al-qayyimah — the upright religion. The simplicity is the indictment. Look at how little was required.", color: "#C9A84C" },
         { depth: 4, label: "The Awe", ayah: "8", arabic: "ذَٰلِكَ لِمَنْ خَشِيَ رَبَّهُ", desc: "All the evidence resolves into a single interior quality: khashiya — reverential awe, the willingness to be small before something vast. Clarity arrives at the door. Only awe lets it in.", color: "#e07a8a" },
       ],
@@ -107,7 +97,6 @@ const TABS = [
   { id: "ring", label: "Ring" },
   { id: "closing", label: "Closing" },
   { id: "absent", label: "Absences" },
-  { id: "text", label: "Text" },
 ];
 
 // ══════════════════════════════════════════════════════════════════════════════
@@ -225,21 +214,6 @@ function HeartVerse({ verse }: { verse: typeof SURAH_DATA.heartVerse }) {
   );
 }
 
-function FullSurahText({ verses }: { verses: typeof SURAH_DATA.fullText }) {
-  return (
-    <div className="space-y-5">
-      {verses.map((v) => (
-        <div key={v.ayah} className="space-y-1">
-          <p className="text-xl leading-loose text-right text-cream font-amiri" style={{ direction: "rtl" }}>
-            {v.arabic}{" "}
-            <span className="text-sm text-cream-muted/50">﴿{v.ayah}﴾</span>
-          </p>
-          <p className="text-sm text-cream-muted/60 font-body">{v.translation}</p>
-        </div>
-      ))}
-    </div>
-  );
-}
 
 function SectionJourney({ data }: { data: typeof SURAH_DATA.diagrams.sectionJourney }) {
   return (
@@ -431,13 +405,7 @@ export default function SurahArchitecture() {
           {activeTab === "ring" && <ChiasticRing data={d.diagrams.chiasticRing} />}
           {activeTab === "closing" && <DeductiveFunnel data={d.diagrams.deductiveFunnel} />}
           {activeTab === "absent" && <AbsenceMap data={d.diagrams.absenceMap} />}
-          {activeTab === "text" && (
-            <div className="space-y-6">
-              <FullSurahText verses={d.fullText} />
-              <OrnamentDivider />
-              <HeartVerse verse={d.heartVerse} />
-            </div>
-          )}
+          <div className="space-y-6 pt-6 border-t border-white/[0.06]"><HeartVerse verse={d.heartVerse} /></div>
         </div>
 
         {/* ── Go Deeper ────────────────────────────────────────────────────── */}

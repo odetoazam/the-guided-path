@@ -22,7 +22,7 @@ const SURAH_DATA = {
 
   sciencesActive: [{"key":"qasam","english":"Oaths"},{"key":"balaghah","english":"Rhetoric"},{"key":"qasas","english":"Quranic Narratives"}],
   heartVerse: {
-    arabic: "وَإِنَّكَ لَعَلَىٰ خُلُقٍ عَظِيمٍ",
+    arabic: "وَإِنَّكَ لَعَلَىٰ خُلُقٍ عَظِيمٍ",
     ayahRef: "68:4",
     translation: "And indeed, you are of a great moral character.",
     why: "The single most important divine testimony about the Prophet's person. The word khuluq is not conduct or behaviour but the deep interior formation of a person. The surah argues that the Prophet's character is itself the refutation of every accusation against him.",
@@ -30,60 +30,6 @@ const SURAH_DATA = {
 
   audio: { surahNumber: 68, reciter: "ar.alafasy" },
 
-  fullText: [
-    { ayah: 1, arabic: "نٓ ۚ وَالْقَلَمِ وَمَا يَسْطُرُونَ", translation: "Nun. By the pen and what they inscribe." },
-    { ayah: 2, arabic: "مَا أَنتَ بِنِعْمَةِ رَبِّكَ بِمَجْنُونٍ", translation: "You are not, by the favour of your Lord, a madman." },
-    { ayah: 3, arabic: "وَإِنَّ لَكَ لَأَجْرًا غَيْرَ مَمْنُونٍ", translation: "And indeed, for you is a reward uninterrupted." },
-    { ayah: 4, arabic: "وَإِنَّكَ لَعَلَىٰ خُلُقٍ عَظِيمٍ", translation: "And indeed, you are of a great moral character." },
-    { ayah: 5, arabic: "فَسَتُبْصِرُ وَيُبْصِرُونَ", translation: "So you will see and they will see —" },
-    { ayah: 6, arabic: "بِأَيِّكُمُ الْمَفْتُونُ", translation: "which of you is the one afflicted." },
-    { ayah: 7, arabic: "إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ وَهُوَ أَعْلَمُ بِالْمُهْتَدِينَ", translation: "Indeed, your Lord is most knowing of who has strayed from His way, and He is most knowing of the rightly guided." },
-    { ayah: 8, arabic: "فَلَا تُطِعِ الْمُكَذِّبِينَ", translation: "So do not obey the deniers." },
-    { ayah: 9, arabic: "وَدُّوا لَوْ تُدْهِنُ فَيُدْهِنُونَ", translation: "They wish that you would soften, and they would soften." },
-    { ayah: 10, arabic: "وَلَا تُطِعْ كُلَّ حَلَّافٍ مَّهِينٍ", translation: "And do not obey every worthless habitual swearer," },
-    { ayah: 11, arabic: "هَمَّازٍ مَّشَّاءٍ بِنَمِيمٍ", translation: "scorner, going about with malicious gossip," },
-    { ayah: 12, arabic: "مَّنَّاعٍ لِّلْخَيْرِ مُعْتَدٍ أَثِيمٍ", translation: "a preventer of good, transgressing and sinful," },
-    { ayah: 13, arabic: "عُتُلٍّ بَعْدَ ذَٰلِكَ زَنِيمٍ", translation: "cruel — and on top of that, of doubtful birth." },
-    { ayah: 14, arabic: "أَن كَانَ ذَا مَالٍ وَبَنِينَ", translation: "Because he is a possessor of wealth and children," },
-    { ayah: 15, arabic: "إِذَا تُتْلَىٰ عَلَيْهِ آيَاتُنَا قَالَ أَسَاطِيرُ الْأَوَّلِينَ", translation: "when Our verses are recited to him, he says: Legends of the ancients." },
-    { ayah: 16, arabic: "سَنَسِمُهُ عَلَى الْخُرْطُومِ", translation: "We will brand him on the snout." },
-    { ayah: 17, arabic: "إِنَّا بَلَوْنَاهُمْ كَمَا بَلَوْنَا أَصْحَابَ الْجَنَّةِ إِذْ أَقْسَمُوا لَيَصْرِمُنَّهَا مُصْبِحِينَ", translation: "Indeed, We have tried them as We tried the companions of the garden, when they swore to harvest it in the morning —" },
-    { ayah: 18, arabic: "وَلَا يَسْتَثْنُونَ", translation: "and they did not make exception." },
-    { ayah: 19, arabic: "فَطَافَ عَلَيْهَا طَائِفٌ مِّن رَّبِّكَ وَهُمْ نَائِمُونَ", translation: "So there came upon it a visitor from your Lord while they slept." },
-    { ayah: 20, arabic: "فَأَصْبَحَتْ كَالصَّرِيمِ", translation: "And it became as if cut down." },
-    { ayah: 21, arabic: "فَتَنَادَوْا مُصْبِحِينَ", translation: "And they called one another at morning," },
-    { ayah: 22, arabic: "أَنِ اغْدُوا عَلَىٰ حَرْثِكُمْ إِن كُنتُمْ صَارِمِينَ", translation: "saying: Go early to your crop if you would cut the fruit." },
-    { ayah: 23, arabic: "فَانطَلَقُوا وَهُمْ يَتَخَافَتُونَ", translation: "So they set out, whispering among themselves," },
-    { ayah: 24, arabic: "أَن لَّا يَدْخُلَنَّهَا الْيَوْمَ عَلَيْكُم مِّسْكِينٌ", translation: "that no poor person should enter upon you today." },
-    { ayah: 25, arabic: "وَغَدَوْا عَلَىٰ حَرْدٍ قَادِرِينَ", translation: "And they went early with determination, able." },
-    { ayah: 26, arabic: "فَلَمَّا رَأَوْهَا قَالُوا إِنَّا لَضَالُّونَ", translation: "But when they saw it, they said: Indeed, we are lost." },
-    { ayah: 27, arabic: "بَلْ نَحْنُ مَحْرُومُونَ", translation: "Rather, we are deprived." },
-    { ayah: 28, arabic: "قَالَ أَوْسَطُهُمْ أَلَمْ أَقُل لَّكُمْ لَوْلَا تُسَبِّحُونَ", translation: "The best among them said: Did I not say to you — why do you not glorify Allah?" },
-    { ayah: 29, arabic: "قَالُوا سُبْحَانَ رَبِّنَا إِنَّا كُنَّا ظَالِمِينَ", translation: "They said: Exalted is our Lord! Indeed, we were wrongdoers." },
-    { ayah: 30, arabic: "فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍ يَتَلَاوَمُونَ", translation: "Then they approached one another, blaming each other." },
-    { ayah: 31, arabic: "قَالُوا يَا وَيْلَنَا إِنَّا كُنَّا طَاغِينَ", translation: "They said: O woe to us! Indeed, we were transgressors." },
-    { ayah: 32, arabic: "عَسَىٰ رَبُّنَا أَن يُبْدِلَنَا خَيْرًا مِّنْهَا إِنَّا إِلَىٰ رَبِّنَا رَاغِبُونَ", translation: "Perhaps our Lord will substitute for us one better than it. Indeed, to our Lord we are turning." },
-    { ayah: 33, arabic: "كَذَٰلِكَ الْعَذَابُ ۖ وَلَعَذَابُ الْآخِرَةِ أَكْبَرُ ۚ لَوْ كَانُوا يَعْلَمُونَ", translation: "Such is the punishment. And the punishment of the Hereafter is greater, if they only knew." },
-    { ayah: 34, arabic: "إِنَّ لِلْمُتَّقِينَ عِندَ رَبِّهِمْ جَنَّاتِ النَّعِيمِ", translation: "Indeed, for the righteous with their Lord are Gardens of Pleasure." },
-    { ayah: 35, arabic: "أَفَنَجْعَلُ الْمُسْلِمِينَ كَالْمُجْرِمِينَ", translation: "Shall We then treat the Muslims like the criminals?" },
-    { ayah: 36, arabic: "مَا لَكُمْ كَيْفَ تَحْكُمُونَ", translation: "What is wrong with you? How do you judge?" },
-    { ayah: 37, arabic: "أَمْ لَكُمْ كِتَابٌ فِيهِ تَدْرُسُونَ", translation: "Or do you have a scripture in which you study?" },
-    { ayah: 38, arabic: "إِنَّ لَكُمْ فِيهِ لَمَا تَخَيَّرُونَ", translation: "That indeed for you is whatever you choose?" },
-    { ayah: 39, arabic: "أَمْ لَكُمْ أَيْمَانٌ عَلَيْنَا بَالِغَةٌ إِلَىٰ يَوْمِ الْقِيَامَةِ ۙ إِنَّ لَكُمْ لَمَا تَحْكُمُونَ", translation: "Or do you have oaths binding upon Us, reaching until the Day of Resurrection, that indeed for you is whatever you judge?" },
-    { ayah: 40, arabic: "سَلْهُمْ أَيُّهُم بِذَٰلِكَ زَعِيمٌ", translation: "Ask them, which of them will guarantee that." },
-    { ayah: 41, arabic: "أَمْ لَهُمْ شُرَكَاءُ فَلْيَأْتُوا بِشُرَكَائِهِمْ إِن كَانُوا صَادِقِينَ", translation: "Or do they have partners? Then let them bring their partners, if they should be truthful." },
-    { ayah: 42, arabic: "يَوْمَ يُكْشَفُ عَن سَاقٍ وَيُدْعَوْنَ إِلَى السُّجُودِ فَلَا يَسْتَطِيعُونَ", translation: "The Day the shin will be uncovered, and they are invited to prostration, but they will not be able." },
-    { ayah: 43, arabic: "خَاشِعَةً أَبْصَارُهُمْ تَرْهَقُهُمْ ذِلَّةٌ ۖ وَقَدْ كَانُوا يُدْعَوْنَ إِلَى السُّجُودِ وَهُمْ سَالِمُونَ", translation: "Their eyes humbled, humiliation will cover them. And they used to be invited to prostration while they were sound." },
-    { ayah: 44, arabic: "فَذَرْنِي وَمَن يُكَذِّبُ بِهَٰذَا الْحَدِيثِ ۖ سَنَسْتَدْرِجُهُم مِّنْ حَيْثُ لَا يَعْلَمُونَ", translation: "So leave Me with whoever denies this discourse. We will progressively lead them from where they do not know." },
-    { ayah: 45, arabic: "وَأُمْلِي لَهُمْ ۚ إِنَّ كَيْدِي مَتِينٌ", translation: "And I will give them time. Indeed, My plan is firm." },
-    { ayah: 46, arabic: "أَمْ تَسْأَلُهُمْ أَجْرًا فَهُم مِّن مَّغْرَمٍ مُّثْقَلُونَ", translation: "Or do you ask of them a payment, so they are burdened by debt?" },
-    { ayah: 47, arabic: "أَمْ عِندَهُمُ الْغَيْبُ فَهُمْ يَكْتُبُونَ", translation: "Or have they knowledge of the unseen, so they write it down?" },
-    { ayah: 48, arabic: "فَاصْبِرْ لِحُكْمِ رَبِّكَ وَلَا تَكُن كَصَاحِبِ الْحُوتِ إِذْ نَادَىٰ وَهُوَ مَكْظُومٌ", translation: "So be patient for the decision of your Lord and do not be like the companion of the fish when he called out while he was distressed." },
-    { ayah: 49, arabic: "لَّوْلَا أَن تَدَارَكَهُ نِعْمَةٌ مِّن رَّبِّهِ لَنُبِذَ بِالْعَرَاءِ وَهُوَ مَذْمُومٌ", translation: "If not that a favour from his Lord overtook him, he would have been thrown onto the naked shore while he was censured." },
-    { ayah: 50, arabic: "فَاجْتَبَاهُ رَبُّهُ فَجَعَلَهُ مِنَ الصَّالِحِينَ", translation: "But his Lord chose him and made him among the righteous." },
-    { ayah: 51, arabic: "وَإِن يَكَادُ الَّذِينَ كَفَرُوا لَيُزْلِقُونَكَ بِأَبْصَارِهِمْ لَمَّا سَمِعُوا الذِّكْرَ وَيَقُولُونَ إِنَّهُ لَمَجْنُونٌ", translation: "And indeed, those who disbelieve would almost make you slip with their eyes when they hear the message, and they say: Indeed, he is mad." },
-    { ayah: 52, arabic: "وَمَا هُوَ إِلَّا ذِكْرٌ لِّلْعَالَمِينَ", translation: "And it is nothing but a reminder to the worlds." },
-  ],
 
   diagrams: {
     sectionJourney: {
@@ -121,7 +67,7 @@ const SURAH_DATA = {
       title: "From Speech to Silence",
       subtitle: "The surah tracks a movement from human noise to divine remembrance",
       layers: [
-        { depth: 1, label: "Oaths & Declarations", ayah: "1–4", arabic: "وَإِنَّكَ لَعَلَىٰ خُلُقٍ عَظِيمٍ", desc: "The opening is full of speech acts — divine oaths, declarations, commands. The pen is invoked. The Prophet's character is proclaimed. Every word carries cosmic weight.", color: "#4ecdc4" },
+        { depth: 1, label: "Oaths & Declarations", ayah: "1–4", arabic: "وَإِنَّكَ لَعَلَىٰ خُلُقٍ عَظِيمٍ", desc: "The opening is full of speech acts — divine oaths, declarations, commands. The pen is invoked. The Prophet's character is proclaimed. Every word carries cosmic weight.", color: "#4ecdc4" },
         { depth: 2, label: "Slander & Conspiracy", ayah: "10–24", arabic: "وَهُمْ يَتَخَافَتُونَ", desc: "The opponent is defined by corrupt speech: swearing, slandering, gossiping, dismissing. The garden owners speak constantly: planning, whispering, conspiring to exclude the poor. Speech misused at every level.", color: "#e07a8a" },
         { depth: 3, label: "Questions & Dismantling", ayah: "35–41", arabic: "مَا لَكُمْ كَيْفَ تَحْكُمُونَ", desc: "A cascade of unanswerable questions. Each one strips away a false assurance. The questions tighten like a vise until nothing remains but the bare assumption that has already been demolished.", color: "#9b7fd4" },
         { depth: 4, label: "Patience & Remembrance", ayah: "48–52", arabic: "وَمَا هُوَ إِلَّا ذِكْرٌ لِّلْعَالَمِينَ", desc: "The Prophet is told to be patient — to not speak in frustration. The accusers try to unsettle him with their eyes, not words. The surah ends on dhikr — remembrance directed toward God rather than against people. The pen opened the surah. Remembrance closes it.", color: "#C9A84C" },
@@ -157,7 +103,6 @@ const TABS = [
   { id: "frame", label: "Frame" },
   { id: "speech", label: "Speech" },
   { id: "absent", label: "Absences" },
-  { id: "text", label: "Text" },
 ];
 
 // ══════════════════════════════════════════════════════════════════════════════
@@ -275,21 +220,6 @@ function HeartVerse({ verse }: { verse: typeof SURAH_DATA.heartVerse }) {
   );
 }
 
-function FullSurahText({ verses }: { verses: typeof SURAH_DATA.fullText }) {
-  return (
-    <div className="space-y-5">
-      {verses.map((v) => (
-        <div key={v.ayah} className="space-y-1">
-          <p className="text-xl leading-loose text-right text-cream font-amiri" style={{ direction: "rtl" }}>
-            {v.arabic}{" "}
-            <span className="text-sm text-cream-muted/50">﴿{v.ayah}﴾</span>
-          </p>
-          <p className="text-sm text-cream-muted/60 font-body">{v.translation}</p>
-        </div>
-      ))}
-    </div>
-  );
-}
 
 function SectionJourney({ data }: { data: typeof SURAH_DATA.diagrams.sectionJourney }) {
   return (
@@ -481,13 +411,7 @@ export default function SurahArchitecture() {
           {activeTab === "frame" && <ChiasticRing data={d.diagrams.chiasticRing} />}
           {activeTab === "speech" && <DeductiveFunnel data={d.diagrams.deductiveFunnel} />}
           {activeTab === "absent" && <AbsenceMap data={d.diagrams.absenceMap} />}
-          {activeTab === "text" && (
-            <div className="space-y-6">
-              <FullSurahText verses={d.fullText} />
-              <OrnamentDivider />
-              <HeartVerse verse={d.heartVerse} />
-            </div>
-          )}
+          <div className="space-y-6 pt-6 border-t border-white/[0.06]"><HeartVerse verse={d.heartVerse} /></div>
         </div>
 
         {/* ── Go Deeper ────────────────────────────────────────────────────── */}

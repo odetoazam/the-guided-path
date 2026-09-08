@@ -34,7 +34,7 @@ const SURAH_DATA = {
   sectionMap: [
     { ayahs: "1–6", label: "The Oath & the Diagnosis", arabic: "ص ۚ وَالْقُرْآنِ ذِي الذِّكْرِ", summary: "The letter Sad. An oath by the Quran full of dhikr. The Quraysh diagnosed: their resistance is 'izzah (pride that hardens into fracture) and shiqaq (splitting from truth). A warner from among themselves — and they marvel." },
     { ayahs: "7–11", label: "The Mockers", arabic: "امْشُوا وَاصْبِرُوا عَلَىٰ آلِهَتِكُمْ", summary: "The Quraysh leaders walk away saying: hold to your gods. They mock the idea that the message could be true. Is their dominion so vast they control the ropes of heaven?" },
-    { ayahs: "12–16", label: "The Roll-Call of Denial", arabic: "كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍ", summary: "Nuh, Ad, Fir'awn of the stakes, Thamud, Lut, the companions of the thicket — each named in a single breath. A wall of precedent. Then: they are only waiting for a single blast, with no delay." },
+    { ayahs: "12–16", label: "The Roll-Call of Denial", arabic: "كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍ", summary: "Nuh, Ad, Fir'awn of the stakes, Thamud, Lut, the companions of the thicket — each named in a single breath. A wall of precedent. Then: they are only waiting for a single blast, with no delay." },
     { ayahs: "17–20", label: "Dawud: The Servant of Strength", arabic: "اصْبِرْ عَلَىٰ مَا يَقُولُونَ وَاذْكُرْ عَبْدَنَا دَاوُودَ", summary: "Remember Our servant Dawud — possessor of strength, one who repeatedly turned back. Mountains and birds glorify with him. His kingdom strengthened, given wisdom and fasl al-khitab." },
     { ayahs: "21–26", label: "Dawud: The Trial", arabic: "وَظَنَّ دَاوُودُ أَنَّمَا فَتَنَّاهُ", summary: "Two litigants scale his private wall. Ninety-nine ewes against one. Dawud rules — and mid-sentence realizes the parable is about him. Falls into sajdah without delay. Forgiven. Told: you are a khalifah on earth — judge with truth." },
     { ayahs: "27–33", label: "Sulayman: The Horses", arabic: "إِنِّي أَحْبَبْتُ حُبَّ الْخَيْرِ عَن ذِكْرِ رَبِّي", summary: "Sulayman — what an excellent servant. Magnificent horses displayed before him at evening. He realizes their beauty distracted him from remembrance. He acts decisively: return them. A king who chose dhikr over beauty." },
@@ -42,7 +42,7 @@ const SURAH_DATA = {
     { ayahs: "41–44", label: "Ayyub: The Grass", arabic: "وَاذْكُرْ عَبْدَنَا أَيُّوبَ", summary: "Ayyub calls out from his suffering. Told: strike with your foot — a cool washing place. Family restored, doubled. The oath resolved with a handful of soft grass. What an excellent servant." },
     { ayahs: "45–48", label: "The Roll-Call of Strength", arabic: "أُولِي الْأَيْدِي وَالْأَبْصَارِ", summary: "Ibrahim, Ishaq, Ya'qub, Isma'il, Alyasa', Dhul-Kifl — possessors of strength and vision. Purified by one exclusive quality: remembrance of the final abode." },
     { ayahs: "49–58", label: "The Two Destinations", arabic: "هَٰذَا ذِكْرٌ", summary: "Gardens of Eden, gates flung open, reclining thrones, fruit and drink. Stated as fact and left. The fire receives more attention — and more dialogue." },
-    { ayahs: "59–64", label: "The Quarrel in the Fire", arabic: "هَٰذَا فَوْجٌ مُّقْتَحِمٌ مَّعَكُمْ", summary: "Leaders cursed by followers. Followers search for the believers they once mocked — and cannot find them among the damned. The absent are conspicuous. The quarreling (takhasum) echoes the litigants (khasm) who came to Dawud." },
+    { ayahs: "59–64", label: "The Quarrel in the Fire", arabic: "هَـٰذَا فَوْجٌ مُّقْتَحِمٌ مَّعَكُمْ", summary: "Leaders cursed by followers. Followers search for the believers they once mocked — and cannot find them among the damned. The absent are conspicuous. The quarreling (takhasum) echoes the litigants (khasm) who came to Dawud." },
     { ayahs: "65–70", label: "The Warner's Declaration", arabic: "قُلْ إِنَّمَا أَنَا مُنذِرٌ", summary: "I am only a warner. There is no deity except Allah, the One, the Prevailing. A mighty announcement from which you are turning away. I had no knowledge of the exalted assembly when they disputed." },
     { ayahs: "71–85", label: "The Heavenly Assembly", arabic: "إِذْ قَالَ رَبُّكَ لِلْمَلَائِكَةِ إِنِّي خَالِقٌ بَشَرًا مِّن طِينٍ", summary: "Allah announces He will create a human from clay, breathe His spirit into him, and commands prostration. All bow — except Iblis. 'I am better than him.' Exile, curse, respite granted. His vow: I will mislead them all — except Your sincere servants." },
     { ayahs: "86–88", label: "After a Time", arabic: "وَلَتَعْلَمُنَّ نَبَأَهُ بَعْدَ حِينٍ", summary: "I ask no payment. I am not of the pretenders. It is nothing but a dhikr to the worlds. And you will surely know its truth — after a time." },
@@ -121,7 +121,7 @@ const TABS = [
   { id: "ring", label: "Ring" },
   { id: "abd", label: "'Abd" },
   { id: "absent", label: "Absences" },
-  { id: "text", label: "Text" },
+  { id: "text", label: "Map" },
 ];
 
 // ══════════════════════════════════════════════════════════════════════════════

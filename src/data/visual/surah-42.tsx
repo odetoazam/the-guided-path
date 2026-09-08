@@ -30,61 +30,6 @@ const SURAH_DATA = {
 
   audio: { surahNumber: 42, reciter: "ar.alafasy" },
 
-  fullText: [
-    { ayah: 1, arabic: "حم", translation: "Ha, Mim." },
-    { ayah: 2, arabic: "عسق", translation: "Ayn, Sin, Qaf." },
-    { ayah: 3, arabic: "كَذَٰلِكَ يُوحِي إِلَيْكَ وَإِلَى الَّذِينَ مِن قَبْلِكَ اللَّهُ الْعَزِيزُ الْحَكِيمُ", translation: "Thus does He reveal to you, and to those before you — Allah, the Almighty, the Wise." },
-    { ayah: 4, arabic: "لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۖ وَهُوَ الْعَلِيُّ الْعَظِيمُ", translation: "To Him belongs whatever is in the heavens and whatever is on the earth, and He is the Most High, the Grand." },
-    { ayah: 5, arabic: "تَكَادُ السَّمَاوَاتُ يَتَفَطَّرْنَ مِن فَوْقِهِنَّ ۚ وَالْمَلَائِكَةُ يُسَبِّحُونَ بِحَمْدِ رَبِّهِمْ", translation: "The heavens nearly rupture from above, and the angels glorify their Lord with praise and seek forgiveness for those on earth." },
-    { ayah: 6, arabic: "وَالَّذِينَ اتَّخَذُوا مِن دُونِهِ أَوْلِيَاءَ اللَّهُ حَفِيظٌ عَلَيْهِمْ", translation: "And those who take protectors besides Him — Allah is Guardian over them." },
-    { ayah: 7, arabic: "وَكَذَٰلِكَ أَوْحَيْنَا إِلَيْكَ قُرْآنًا عَرَبِيًّا لِّتُنذِرَ أُمَّ الْقُرَىٰ وَمَنْ حَوْلَهَا", translation: "And thus We have revealed to you an Arabic Quran, that you may warn the Mother of Cities and those around it." },
-    { ayah: 8, arabic: "وَلَوْ شَاءَ اللَّهُ لَجَعَلَهُمْ أُمَّةً وَاحِدَةً", translation: "If Allah had willed, He could have made them one community." },
-    { ayah: 9, arabic: "أَمِ اتَّخَذُوا مِن دُونِهِ أَوْلِيَاءَ ۖ فَاللَّهُ هُوَ الْوَلِيُّ", translation: "Or have they taken protectors besides Him? Allah — He is the Protector." },
-    { ayah: 10, arabic: "وَمَا اخْتَلَفْتُمْ فِيهِ مِن شَيْءٍ فَحُكْمُهُ إِلَى اللَّهِ", translation: "And whatever you disagree about in any matter, its judgment rests with Allah." },
-    { ayah: 11, arabic: "فَاطِرُ السَّمَاوَاتِ وَالْأَرْضِ ۚ جَعَلَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَاجًا", translation: "Originator of the heavens and the earth. He made for you from yourselves mates." },
-    { ayah: 12, arabic: "لَهُ مَقَالِيدُ السَّمَاوَاتِ وَالْأَرْضِ ۖ يَبْسُطُ الرِّزْقَ لِمَن يَشَاءُ وَيَقْدِرُ", translation: "To Him belong the keys of the heavens and the earth. He extends provision for whom He wills and restricts it." },
-    { ayah: 13, arabic: "شَرَعَ لَكُم مِّنَ الدِّينِ مَا وَصَّىٰ بِهِ نُوحًا وَالَّذِي أَوْحَيْنَا إِلَيْكَ وَمَا وَصَّيْنَا بِهِ إِبْرَاهِيمَ وَمُوسَىٰ وَعِيسَىٰ", translation: "He prescribed for you the same religion He enjoined upon Nuh, and what We revealed to you, and what We enjoined upon Ibrahim, Musa, and Isa." },
-    { ayah: 14, arabic: "وَمَا تَفَرَّقُوا إِلَّا مِن بَعْدِ مَا جَاءَهُمُ الْعِلْمُ بَغْيًا بَيْنَهُمْ", translation: "And they did not divide except after knowledge had come to them, out of rivalry among themselves." },
-    { ayah: 15, arabic: "فَلِذَٰلِكَ فَادْعُ ۖ وَاسْتَقِمْ كَمَا أُمِرْتَ", translation: "So to that, invite, and remain steadfast as you have been commanded." },
-    { ayah: 16, arabic: "وَاللَّهُ رَبُّنَا وَرَبُّكُمْ ۖ لَنَا أَعْمَالُنَا وَلَكُمْ أَعْمَالُكُمْ", translation: "Allah is our Lord and your Lord. For us are our deeds, and for you are your deeds." },
-    { ayah: 17, arabic: "وَالَّذِينَ يُحَاجُّونَ فِي اللَّهِ مِن بَعْدِ مَا اسْتُجِيبَ لَهُ حُجَّتُهُمْ دَاحِضَةٌ", translation: "And those who argue about Allah after He has been responded to — their argument is invalid." },
-    { ayah: 18, arabic: "اللَّهُ الَّذِي أَنزَلَ الْكِتَابَ بِالْحَقِّ وَالْمِيزَانَ", translation: "It is Allah who sent down the Book with truth, and the Balance." },
-    { ayah: 19, arabic: "اللَّهُ لَطِيفٌ بِعِبَادِهِ يَرْزُقُ مَن يَشَاءُ", translation: "Allah is Subtle with His servants; He provides for whom He wills." },
-    { ayah: 20, arabic: "مَن كَانَ يُرِيدُ حَرْثَ الْآخِرَةِ نَزِدْ لَهُ فِي حَرْثِهِ", translation: "Whoever desires the harvest of the Hereafter — We increase for him in his harvest." },
-    { ayah: 21, arabic: "أَمْ لَهُمْ شُرَكَاءُ شَرَعُوا لَهُم مِّنَ الدِّينِ مَا لَمْ يَأْذَن بِهِ اللَّهُ", translation: "Or do they have partners who have prescribed for them a religion Allah has not authorized?" },
-    { ayah: 22, arabic: "تَرَى الظَّالِمِينَ مُشْفِقِينَ مِمَّا كَسَبُوا وَهُوَ وَاقِعٌ بِهِمْ", translation: "You will see the wrongdoers fearful of what they have earned, and it will befall them." },
-    { ayah: 23, arabic: "ذَٰلِكَ الَّذِي يُبَشِّرُ اللَّهُ عِبَادَهُ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ", translation: "That is the good news Allah gives to His servants who believe and do righteous deeds." },
-    { ayah: 24, arabic: "أَمْ يَقُولُونَ افْتَرَىٰ عَلَى اللَّهِ كَذِبًا", translation: "Or do they say: He has invented about Allah a lie?" },
-    { ayah: 25, arabic: "وَهُوَ الَّذِي يَقْبَلُ التَّوْبَةَ عَنْ عِبَادِهِ وَيَعْفُو عَنِ السَّيِّئَاتِ", translation: "And He is the One who accepts repentance from His servants and pardons misdeeds." },
-    { ayah: 26, arabic: "وَيَسْتَجِيبُ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَيَزِيدُهُم مِّن فَضْلِهِ", translation: "And He responds to those who believe and do righteous deeds, and increases them from His bounty." },
-    { ayah: 27, arabic: "وَلَوْ بَسَطَ اللَّهُ الرِّزْقَ لِعِبَادِهِ لَبَغَوْا فِي الْأَرْضِ", translation: "If Allah were to extend provision to His servants without limit, they would transgress in the earth." },
-    { ayah: 28, arabic: "وَهُوَ الَّذِي يُنَزِّلُ الْغَيْثَ مِن بَعْدِ مَا قَنَطُوا", translation: "And He is the One who sends down rain after they have despaired." },
-    { ayah: 29, arabic: "وَمِنْ آيَاتِهِ خَلْقُ السَّمَاوَاتِ وَالْأَرْضِ وَمَا بَثَّ فِيهِمَا مِن دَابَّةٍ", translation: "And among His signs is the creation of the heavens and earth and the creatures He has spread in both." },
-    { ayah: 30, arabic: "وَمَا أَصَابَكُم مِّن مُّصِيبَةٍ فَبِمَا كَسَبَتْ أَيْدِيكُمْ", translation: "And whatever calamity strikes you — it is because of what your hands have earned." },
-    { ayah: 31, arabic: "وَمَا أَنتُم بِمُعْجِزِينَ فِي الْأَرْضِ", translation: "And you cannot escape in the earth." },
-    { ayah: 32, arabic: "وَمِنْ آيَاتِهِ الْجَوَارِ فِي الْبَحْرِ كَالْأَعْلَامِ", translation: "And among His signs are the ships in the sea like mountains." },
-    { ayah: 33, arabic: "إِن يَشَأْ يُسْكِنِ الرِّيحَ فَيَظْلَلْنَ رَوَاكِدَ عَلَىٰ ظَهْرِهِ", translation: "If He wills, He stills the wind and they remain motionless on its surface." },
-    { ayah: 34, arabic: "أَوْ يُوبِقْهُنَّ بِمَا كَسَبُوا وَيَعْفُ عَن كَثِيرٍ", translation: "Or He could destroy them for what they earned — but He pardons much." },
-    { ayah: 35, arabic: "وَيَعْلَمَ الَّذِينَ يُجَادِلُونَ فِي آيَاتِنَا مَا لَهُم مِّن مَّحِيصٍ", translation: "And those who dispute about Our signs may know there is no escape for them." },
-    { ayah: 36, arabic: "فَمَا أُوتِيتُم مِّن شَيْءٍ فَمَتَاعُ الْحَيَاةِ الدُّنْيَا", translation: "Whatever you have been given is but the enjoyment of the life of this world." },
-    { ayah: 37, arabic: "وَالَّذِينَ يَجْتَنِبُونَ كَبَائِرَ الْإِثْمِ وَالْفَوَاحِشَ وَإِذَا مَا غَضِبُوا هُمْ يَغْفِرُونَ", translation: "Those who avoid major sins and shameful deeds, and when they are angry, they forgive." },
-    { ayah: 38, arabic: "وَالَّذِينَ اسْتَجَابُوا لِرَبِّهِمْ وَأَقَامُوا الصَّلَاةَ وَأَمْرُهُمْ شُورَىٰ بَيْنَهُمْ", translation: "Those who respond to their Lord, establish prayer, and their affairs are conducted by consultation among them." },
-    { ayah: 39, arabic: "وَالَّذِينَ إِذَا أَصَابَهُمُ الْبَغْيُ هُمْ يَنتَصِرُونَ", translation: "And those who, when oppression strikes them, they defend themselves." },
-    { ayah: 40, arabic: "وَجَزَاءُ سَيِّئَةٍ سَيِّئَةٌ مِّثْلُهَا ۖ فَمَنْ عَفَا وَأَصْلَحَ فَأَجْرُهُ عَلَى اللَّهِ", translation: "The recompense for an injury is an injury equal to it — but whoever forgives and makes reconciliation, his reward is with Allah." },
-    { ayah: 41, arabic: "وَلَمَنِ انتَصَرَ بَعْدَ ظُلْمِهِ فَأُولَـٰئِكَ مَا عَلَيْهِم مِّن سَبِيلٍ", translation: "And whoever defends himself after being wronged — against those there is no blame." },
-    { ayah: 42, arabic: "إِنَّمَا السَّبِيلُ عَلَى الَّذِينَ يَظْلِمُونَ النَّاسَ وَيَبْغُونَ فِي الْأَرْضِ بِغَيْرِ الْحَقِّ", translation: "The blame is only upon those who oppress people and transgress in the land without right." },
-    { ayah: 43, arabic: "وَلَمَن صَبَرَ وَغَفَرَ إِنَّ ذَٰلِكَ لَمِنْ عَزْمِ الْأُمُورِ", translation: "And whoever is patient and forgives — indeed, that is of the matters of determination." },
-    { ayah: 44, arabic: "وَمَن يُضْلِلِ اللَّهُ فَمَا لَهُ مِن وَلِيٍّ مِّن بَعْدِهِ", translation: "And whoever Allah sends astray, there is no protector for him after that." },
-    { ayah: 45, arabic: "وَتَرَاهُمْ يُعْرَضُونَ عَلَيْهَا خَاشِعِينَ مِنَ الذُّلِّ", translation: "And you will see them exposed to it, humbled by disgrace, looking with furtive glance." },
-    { ayah: 46, arabic: "وَقَالَ الَّذِينَ آمَنُوا إِنَّ الْخَاسِرِينَ الَّذِينَ خَسِرُوا أَنفُسَهُمْ وَأَهْلِيهِمْ يَوْمَ الْقِيَامَةِ", translation: "And those who believed will say: Indeed, the losers are those who lost themselves and their families on the Day of Resurrection." },
-    { ayah: 47, arabic: "وَمَا كَانَ لَهُم مِّنْ أَوْلِيَاءَ يَنصُرُونَهُم مِّن دُونِ اللَّهِ", translation: "And they had no protectors to help them besides Allah." },
-    { ayah: 48, arabic: "فَإِنْ أَعْرَضُوا فَمَا أَرْسَلْنَاكَ عَلَيْهِمْ حَفِيظًا ۖ إِنْ عَلَيْكَ إِلَّا الْبَلَاغُ", translation: "If they turn away — We have not sent you as a guardian over them. Your duty is only to deliver the message." },
-    { ayah: 49, arabic: "وَإِنَّا إِذَا أَذَقْنَا الْإِنسَانَ مِنَّا رَحْمَةً فَرِحَ بِهَا", translation: "And when We give man a taste of mercy from Us, he rejoices in it." },
-    { ayah: 50, arabic: "وَإِن تُصِبْهُمْ سَيِّئَةٌ بِمَا قَدَّمَتْ أَيْدِيهِمْ فَإِنَّ الْإِنسَانَ كَفُورٌ", translation: "But if evil befalls them for what their hands have sent forth, then man is ungrateful." },
-    { ayah: 51, arabic: "وَمَا كَانَ لِبَشَرٍ أَن يُكَلِّمَهُ اللَّهُ إِلَّا وَحْيًا أَوْ مِن وَرَاءِ حِجَابٍ أَوْ يُرْسِلَ رَسُولًا", translation: "It is not for any human being that Allah should speak to him except by revelation, or from behind a veil, or by sending a messenger." },
-    { ayah: 52, arabic: "وَكَذَٰلِكَ أَوْحَيْنَا إِلَيْكَ رُوحًا مِّنْ أَمْرِنَا", translation: "And thus We have revealed to you a spirit of Our command." },
-    { ayah: 53, arabic: "صِرَاطِ اللَّهِ الَّذِي لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ", translation: "The path of Allah, to whom belongs whatever is in the heavens and whatever is on the earth." },
-  ],
 
   diagrams: {
     sectionJourney: {
@@ -158,7 +103,6 @@ const TABS = [
   { id: "frame", label: "Frame" },
   { id: "channels", label: "Channels" },
   { id: "absent", label: "Absences" },
-  { id: "text", label: "Text" },
 ];
 
 // ══════════════════════════════════════════════════════════════════════════════
@@ -276,21 +220,6 @@ function HeartVerse({ verse }: { verse: typeof SURAH_DATA.heartVerse }) {
   );
 }
 
-function FullSurahText({ verses }: { verses: typeof SURAH_DATA.fullText }) {
-  return (
-    <div className="space-y-5">
-      {verses.map((v) => (
-        <div key={v.ayah} className="space-y-1">
-          <p className="text-xl leading-loose text-right text-cream font-amiri" style={{ direction: "rtl" }}>
-            {v.arabic}{" "}
-            <span className="text-sm text-cream-muted/50">&#xFD3F;{v.ayah}&#xFD40;</span>
-          </p>
-          <p className="text-sm text-cream-muted/60 font-body">{v.translation}</p>
-        </div>
-      ))}
-    </div>
-  );
-}
 
 function SectionJourney({ data }: { data: typeof SURAH_DATA.diagrams.sectionJourney }) {
   return (
@@ -482,13 +411,7 @@ export default function SurahArchitecture() {
           {activeTab === "frame" && <ChiasticRing data={d.diagrams.chiasticRing} />}
           {activeTab === "channels" && <DeductiveFunnel data={d.diagrams.deductiveFunnel} />}
           {activeTab === "absent" && <AbsenceMap data={d.diagrams.absenceMap} />}
-          {activeTab === "text" && (
-            <div className="space-y-6">
-              <FullSurahText verses={d.fullText} />
-              <OrnamentDivider />
-              <HeartVerse verse={d.heartVerse} />
-            </div>
-          )}
+          <div className="space-y-6 pt-6 border-t border-white/[0.06]"><HeartVerse verse={d.heartVerse} /></div>
         </div>
 
         {/* -- Go Deeper ---------------------------------------------------- */}

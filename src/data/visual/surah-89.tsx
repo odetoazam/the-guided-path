@@ -30,38 +30,6 @@ const SURAH_DATA = {
 
   audio: { surahNumber: 89, reciter: "ar.alafasy" },
 
-  fullText: [
-    { ayah: 1, arabic: "وَالْفَجْرِ", translation: "By the dawn," },
-    { ayah: 2, arabic: "وَلَيَالٍ عَشْرٍ", translation: "and the ten nights," },
-    { ayah: 3, arabic: "وَالشَّفْعِ وَالْوَتْرِ", translation: "and the even and the odd," },
-    { ayah: 4, arabic: "وَاللَّيْلِ إِذَا يَسْرِ", translation: "and the night as it departs —" },
-    { ayah: 5, arabic: "هَلْ فِي ذَٰلِكَ قَسَمٌ لِّذِي حِجْرٍ", translation: "is there in that an oath for one of understanding?" },
-    { ayah: 6, arabic: "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِعَادٍ", translation: "Have you not seen how your Lord dealt with 'Ad —" },
-    { ayah: 7, arabic: "إِرَمَ ذَاتِ الْعِمَادِ", translation: "Iram, of the lofty pillars," },
-    { ayah: 8, arabic: "الَّتِي لَمْ يُخْلَقْ مِثْلُهَا فِي الْبِلَادِ", translation: "the like of which had never been created in the land?" },
-    { ayah: 9, arabic: "وَثَمُودَ الَّذِينَ جَابُوا الصَّخْرَ بِالْوَادِ", translation: "And Thamud, who carved the rocks in the valley?" },
-    { ayah: 10, arabic: "وَفِرْعَوْنَ ذِي الْأَوْتَادِ", translation: "And Pharaoh, of the stakes?" },
-    { ayah: 11, arabic: "الَّذِينَ طَغَوْا فِي الْبِلَادِ", translation: "All of whom transgressed in the lands" },
-    { ayah: 12, arabic: "فَأَكْثَرُوا فِيهَا الْفَسَادَ", translation: "and spread much corruption therein." },
-    { ayah: 13, arabic: "فَصَبَّ عَلَيْهِمْ رَبُّكَ سَوْطَ عَذَابٍ", translation: "So your Lord poured upon them a scourge of punishment." },
-    { ayah: 14, arabic: "إِنَّ رَبَّكَ لَبِالْمِرْصَادِ", translation: "Indeed, your Lord is ever watchful." },
-    { ayah: 15, arabic: "فَأَمَّا الْإِنسَانُ إِذَا مَا ابْتَلَاهُ رَبُّهُ فَأَكْرَمَهُ وَنَعَّمَهُ فَيَقُولُ رَبِّي أَكْرَمَنِ", translation: "As for the human being — when his Lord tests him by honoring and favoring him, he says: 'My Lord has honored me.'" },
-    { ayah: 16, arabic: "وَأَمَّا إِذَا مَا ابْتَلَاهُ فَقَدَرَ عَلَيْهِ رِزْقَهُ فَيَقُولُ رَبِّي أَهَانَنِ", translation: "But when He tests him by restricting his provision, he says: 'My Lord has humiliated me.'" },
-    { ayah: 17, arabic: "كَلَّا ۖ بَل لَّا تُكْرِمُونَ الْيَتِيمَ", translation: "No! Rather, you do not honor the orphan," },
-    { ayah: 18, arabic: "وَلَا تَحَاضُّونَ عَلَىٰ طَعَامِ الْمِسْكِينِ", translation: "nor do you encourage the feeding of the poor," },
-    { ayah: 19, arabic: "وَتَأْكُلُونَ التُّرَاثَ أَكْلًا لَّمًّا", translation: "and you consume the inheritance with sweeping greed," },
-    { ayah: 20, arabic: "وَتُحِبُّونَ الْمَالَ حُبًّا جَمًّا", translation: "and you love wealth with an excessive love." },
-    { ayah: 21, arabic: "كَلَّا إِذَا دُكَّتِ الْأَرْضُ دَكًّا دَكًّا", translation: "No! When the earth is crushed, pounding upon pounding," },
-    { ayah: 22, arabic: "وَجَاءَ رَبُّكَ وَالْمَلَكُ صَفًّا صَفًّا", translation: "and your Lord comes, and the angels rank upon rank," },
-    { ayah: 23, arabic: "وَجِيءَ يَوْمَئِذٍ بِجَهَنَّمَ ۚ يَوْمَئِذٍ يَتَذَكَّرُ الْإِنسَانُ وَأَنَّىٰ لَهُ الذِّكْرَىٰ", translation: "and Jahannam is brought near — on that Day, the human being will remember. But what good will remembrance be to him?" },
-    { ayah: 24, arabic: "يَقُولُ يَا لَيْتَنِي قَدَّمْتُ لِحَيَاتِي", translation: "He will say: 'If only I had sent ahead something for my life.'" },
-    { ayah: 25, arabic: "فَيَوْمَئِذٍ لَّا يُعَذِّبُ عَذَابَهُ أَحَدٌ", translation: "On that Day, none will punish as He punishes," },
-    { ayah: 26, arabic: "وَلَا يُوثِقُ وَثَاقَهُ أَحَدٌ", translation: "and none will bind as He binds." },
-    { ayah: 27, arabic: "يَا أَيَّتُهَا النَّفْسُ الْمُطْمَئِنَّةُ", translation: "O soul at rest," },
-    { ayah: 28, arabic: "ارْجِعِي إِلَىٰ رَبِّكِ رَاضِيَةً مَّرْضِيَّةً", translation: "return to your Lord, well-pleased and well-pleasing." },
-    { ayah: 29, arabic: "فَادْخُلِي فِي عِبَادِي", translation: "Enter among My servants," },
-    { ayah: 30, arabic: "وَادْخُلِي جَنَّتِي", translation: "and enter My garden." },
-  ],
 
   diagrams: {
     sectionJourney: {
@@ -141,7 +109,6 @@ const TABS = [
   { id: "mirror", label: "Mirror" },
   { id: "exposure", label: "Exposure" },
   { id: "absent", label: "Absences" },
-  { id: "text", label: "Text" },
 ];
 
 // ══════════════════════════════════════════════════════════════════════════════
@@ -259,21 +226,6 @@ function HeartVerse({ verse }: { verse: typeof SURAH_DATA.heartVerse }) {
   );
 }
 
-function FullSurahText({ verses }: { verses: typeof SURAH_DATA.fullText }) {
-  return (
-    <div className="space-y-5">
-      {verses.map((v) => (
-        <div key={v.ayah} className="space-y-1">
-          <p className="text-xl leading-loose text-right text-cream font-amiri" style={{ direction: "rtl" }}>
-            {v.arabic}{" "}
-            <span className="text-sm text-cream-muted/50">{"\uFD3E"}{v.ayah}{"\uFD3F"}</span>
-          </p>
-          <p className="text-sm text-cream-muted/60 font-body">{v.translation}</p>
-        </div>
-      ))}
-    </div>
-  );
-}
 
 function SectionJourney({ data }: { data: typeof SURAH_DATA.diagrams.sectionJourney }) {
   return (
@@ -465,13 +417,7 @@ export default function SurahArchitecture() {
           {activeTab === "mirror" && <ChiasticRing data={d.diagrams.chiasticRing} />}
           {activeTab === "exposure" && <DeductiveFunnel data={d.diagrams.deductiveFunnel} />}
           {activeTab === "absent" && <AbsenceMap data={d.diagrams.absenceMap} />}
-          {activeTab === "text" && (
-            <div className="space-y-6">
-              <FullSurahText verses={d.fullText} />
-              <OrnamentDivider />
-              <HeartVerse verse={d.heartVerse} />
-            </div>
-          )}
+          <div className="space-y-6 pt-6 border-t border-white/[0.06]"><HeartVerse verse={d.heartVerse} /></div>
         </div>
 
         {/* -- Go Deeper ----------------------------------------------------- */}

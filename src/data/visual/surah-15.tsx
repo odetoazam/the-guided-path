@@ -30,37 +30,6 @@ const SURAH_DATA = {
 
   audio: { surahNumber: 15, reciter: "ar.alafasy" },
 
-  fullText: [
-    { ayah: 1, arabic: "الر ۚ تِلْكَ آيَاتُ الْكِتَابِ وَقُرْآنٍ مُّبِينٍ", translation: "Alif Lam Ra. These are the verses of the Book and a clear Quran." },
-    { ayah: 2, arabic: "رُّبَمَا يَوَدُّ الَّذِينَ كَفَرُوا لَوْ كَانُوا مُسْلِمِينَ", translation: "Perhaps those who disbelieve will wish they had been Muslims." },
-    { ayah: 3, arabic: "ذَرْهُمْ يَأْكُلُوا وَيَتَمَتَّعُوا وَيُلْهِهِمُ الْأَمَلُ ۖ فَسَوْفَ يَعْلَمُونَ", translation: "Let them eat and enjoy themselves and be diverted by false hope, for they will come to know." },
-    { ayah: 9, arabic: "إِنَّا نَحْنُ نَزَّلْنَا الذِّكْرَ وَإِنَّا لَهُ لَحَافِظُونَ", translation: "Indeed, it is We who sent down the Reminder, and indeed, We will be its Guardian." },
-    { ayah: 14, arabic: "وَلَوْ فَتَحْنَا عَلَيْهِم بَابًا مِّنَ السَّمَاءِ فَظَلُّوا فِيهِ يَعْرُجُونَ", translation: "And even if We opened for them a gate from the sky and they continued to ascend through it —" },
-    { ayah: 15, arabic: "لَقَالُوا إِنَّمَا سُكِّرَتْ أَبْصَارُنَا بَلْ نَحْنُ قَوْمٌ مَّسْحُورُونَ", translation: "they would say: 'Our eyes have been dazzled. Rather, we are a people bewitched.'" },
-    { ayah: 17, arabic: "وَحَفِظْنَاهَا مِن كُلِّ شَيْطَانٍ رَّجِيمٍ", translation: "And We have protected it from every expelled devil." },
-    { ayah: 21, arabic: "وَإِن مِّن شَيْءٍ إِلَّا عِندَنَا خَزَائِنُهُ وَمَا نُنَزِّلُهُ إِلَّا بِقَدَرٍ مَّعْلُومٍ", translation: "And there is not a thing but that with Us are its treasuries, and We do not send it down except in a known measure." },
-    { ayah: 23, arabic: "وَإِنَّا لَنَحْنُ نُحْيِي وَنُمِيتُ وَنَحْنُ الْوَارِثُونَ", translation: "And indeed, it is We who give life and cause death, and We are the Inheritor." },
-    { ayah: 26, arabic: "وَلَقَدْ خَلَقْنَا الْإِنسَانَ مِن صَلْصَالٍ مِّنْ حَمَإٍ مَّسْنُونٍ", translation: "And We did certainly create man from dried clay, from dark mud molded into shape." },
-    { ayah: 28, arabic: "وَإِذْ قَالَ رَبُّكَ لِلْمَلَائِكَةِ إِنِّي خَالِقٌ بَشَرًا مِّن صَلْصَالٍ مِّنْ حَمَإٍ مَّسْنُونٍ", translation: "And when your Lord said to the angels: 'I will create a human being from dried clay, from dark mud molded into shape.'" },
-    { ayah: 29, arabic: "فَإِذَا سَوَّيْتُهُ وَنَفَخْتُ فِيهِ مِن رُّوحِي فَقَعُوا لَهُ سَاجِدِينَ", translation: "So when I have proportioned him and breathed into him of My spirit, fall down to him in prostration." },
-    { ayah: 33, arabic: "قَالَ لَمْ أَكُن لِّأَسْجُدَ لِبَشَرٍ خَلَقْتَهُ مِن صَلْصَالٍ مِّنْ حَمَإٍ مَّسْنُونٍ", translation: "He said: 'I am not one to prostrate to a human whom You created from dried clay, from dark mud molded into shape.'" },
-    { ayah: 39, arabic: "قَالَ رَبِّ بِمَا أَغْوَيْتَنِي لَأُزَيِّنَنَّ لَهُمْ فِي الْأَرْضِ وَلَأُغْوِيَنَّهُمْ أَجْمَعِينَ", translation: "He said: 'My Lord, because You have put me in error, I will surely make disobedience attractive to them on earth, and I will mislead them all —'" },
-    { ayah: 40, arabic: "إِلَّا عِبَادَكَ مِنْهُمُ الْمُخْلَصِينَ", translation: "'except, among them, Your sincere servants.'" },
-    { ayah: 42, arabic: "إِنَّ عِبَادِي لَيْسَ لَكَ عَلَيْهِمْ سُلْطَانٌ إِلَّا مَنِ اتَّبَعَكَ مِنَ الْغَاوِينَ", translation: "'Indeed, My servants — no authority will you have over them, except those who follow you of the deviators.'" },
-    { ayah: 44, arabic: "لَهَا سَبْعَةُ أَبْوَابٍ لِّكُلِّ بَابٍ مِّنْهُمْ جُزْءٌ مَّقْسُومٌ", translation: "It has seven gates; for every gate is a portion assigned." },
-    { ayah: 49, arabic: "نَبِّئْ عِبَادِي أَنِّي أَنَا الْغَفُورُ الرَّحِيمُ", translation: "Inform My servants that I am the Forgiving, the Merciful." },
-    { ayah: 56, arabic: "قَالَ وَمَن يَقْنَطُ مِن رَّحْمَةِ رَبِّهِ إِلَّا الضَّالُّونَ", translation: "He said: 'And who despairs of the mercy of his Lord except the lost?'" },
-    { ayah: 75, arabic: "إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِّلْمُتَوَسِّمِينَ", translation: "Indeed, in that are signs for those who discern." },
-    { ayah: 82, arabic: "وَكَانُوا يَنْحِتُونَ مِنَ الْجِبَالِ بُيُوتًا آمِنِينَ", translation: "And they used to carve from the mountains, homes, feeling secure." },
-    { ayah: 85, arabic: "وَمَا خَلَقْنَا السَّمَاوَاتِ وَالْأَرْضَ وَمَا بَيْنَهُمَا إِلَّا بِالْحَقِّ ۗ وَإِنَّ السَّاعَةَ لَآتِيَةٌ ۖ فَاصْفَحِ الصَّفْحَ الْجَمِيلَ", translation: "And We did not create the heavens and the earth and what is between them except in truth. And indeed, the Hour is coming; so forgive with gracious forgiveness." },
-    { ayah: 87, arabic: "وَلَقَدْ آتَيْنَاكَ سَبْعًا مِّنَ الْمَثَانِي وَالْقُرْآنَ الْعَظِيمَ", translation: "And We have certainly given you the seven oft-repeated verses and the great Quran." },
-    { ayah: 88, arabic: "لَا تَمُدَّنَّ عَيْنَيْكَ إِلَىٰ مَا مَتَّعْنَا بِهِ أَزْوَاجًا مِّنْهُمْ وَلَا تَحْزَنْ عَلَيْهِمْ وَاخْفِضْ جَنَاحَكَ لِلْمُؤْمِنِينَ", translation: "Do not extend your eyes toward that by which We have given enjoyment to categories of them, and do not grieve over them, and lower your wing to the believers." },
-    { ayah: 94, arabic: "فَاصْدَعْ بِمَا تُؤْمَرُ وَأَعْرِضْ عَنِ الْمُشْرِكِينَ", translation: "Then declare what you are commanded and turn away from the polytheists." },
-    { ayah: 95, arabic: "إِنَّا كَفَيْنَاكَ الْمُسْتَهْزِئِينَ", translation: "Indeed, We are sufficient for you against the mockers." },
-    { ayah: 97, arabic: "وَلَقَدْ نَعْلَمُ أَنَّكَ يَضِيقُ صَدْرُكَ بِمَا يَقُولُونَ", translation: "And We already know that your breast is constrained by what they say." },
-    { ayah: 98, arabic: "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَكُن مِّنَ السَّاجِدِينَ", translation: "So glorify the praises of your Lord and be of those who prostrate." },
-    { ayah: 99, arabic: "وَاعْبُدْ رَبَّكَ حَتَّىٰ يَأْتِيَكَ الْيَقِينُ", translation: "And worship your Lord until there comes to you the certainty." },
-  ],
 
   diagrams: {
     sectionJourney: {
@@ -135,7 +104,6 @@ const TABS = [
   { id: "ring", label: "Ring" },
   { id: "guarded", label: "Guarded" },
   { id: "absent", label: "Absences" },
-  { id: "text", label: "Text" },
 ];
 
 // ══════════════════════════════════════════════════════════════════════════════
@@ -253,21 +221,6 @@ function HeartVerse({ verse }: { verse: typeof SURAH_DATA.heartVerse }) {
   );
 }
 
-function FullSurahText({ verses }: { verses: typeof SURAH_DATA.fullText }) {
-  return (
-    <div className="space-y-5">
-      {verses.map((v) => (
-        <div key={v.ayah} className="space-y-1">
-          <p className="text-xl leading-loose text-right text-cream font-amiri" style={{ direction: "rtl" }}>
-            {v.arabic}{" "}
-            <span className="text-sm text-cream-muted/50">﴿{v.ayah}﴾</span>
-          </p>
-          <p className="text-sm text-cream-muted/60 font-body">{v.translation}</p>
-        </div>
-      ))}
-    </div>
-  );
-}
 
 function SectionJourney({ data }: { data: typeof SURAH_DATA.diagrams.sectionJourney }) {
   return (
@@ -459,13 +412,7 @@ export default function SurahArchitecture() {
           {activeTab === "ring" && <ChiasticRing data={d.diagrams.chiasticRing} />}
           {activeTab === "guarded" && <DeductiveFunnel data={d.diagrams.deductiveFunnel} />}
           {activeTab === "absent" && <AbsenceMap data={d.diagrams.absenceMap} />}
-          {activeTab === "text" && (
-            <div className="space-y-6">
-              <FullSurahText verses={d.fullText} />
-              <OrnamentDivider />
-              <HeartVerse verse={d.heartVerse} />
-            </div>
-          )}
+          <div className="space-y-6 pt-6 border-t border-white/[0.06]"><HeartVerse verse={d.heartVerse} /></div>
         </div>
 
         {/* ── Go Deeper ────────────────────────────────────────────────────── */}

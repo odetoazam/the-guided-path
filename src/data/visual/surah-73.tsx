@@ -30,28 +30,6 @@ const SURAH_DATA = {
 
   audio: { surahNumber: 73, reciter: "ar.alafasy" },
 
-  fullText: [
-    { ayah: 1, arabic: "يَا أَيُّهَا الْمُزَّمِّلُ", translation: "O you who wraps himself in garments —" },
-    { ayah: 2, arabic: "قُمِ اللَّيْلَ إِلَّا قَلِيلًا", translation: "stand in prayer through the night, except a little —" },
-    { ayah: 3, arabic: "نِّصْفَهُ أَوِ انقُصْ مِنْهُ قَلِيلًا", translation: "half of it, or reduce from it slightly —" },
-    { ayah: 4, arabic: "أَوْ زِدْ عَلَيْهِ وَرَتِّلِ الْقُرْآنَ تَرْتِيلًا", translation: "or add to it, and recite the Quran in slow, measured recitation." },
-    { ayah: 5, arabic: "إِنَّا سَنُلْقِي عَلَيْكَ قَوْلًا ثَقِيلًا", translation: "We are going to cast upon you a heavy word." },
-    { ayah: 6, arabic: "إِنَّ نَاشِئَةَ اللَّيْلِ هِيَ أَشَدُّ وَطْئًا وَأَقْوَمُ قِيلًا", translation: "Indeed, the rising at night is stronger in impression and more precise in speech." },
-    { ayah: 7, arabic: "إِنَّ لَكَ فِي النَّهَارِ سَبْحًا طَوِيلًا", translation: "Indeed, for you during the day is a long stretch of occupation." },
-    { ayah: 8, arabic: "وَاذْكُرِ اسْمَ رَبِّكَ وَتَبَتَّلْ إِلَيْهِ تَبْتِيلًا", translation: "Remember the name of your Lord and devote yourself to Him completely." },
-    { ayah: 9, arabic: "رَّبُّ الْمَشْرِقِ وَالْمَغْرِبِ لَا إِلَٰهَ إِلَّا هُوَ فَاتَّخِذْهُ وَكِيلًا", translation: "Lord of the East and the West; there is no god but He, so take Him as your trustee." },
-    { ayah: 10, arabic: "وَاصْبِرْ عَلَىٰ مَا يَقُولُونَ وَاهْجُرْهُمْ هَجْرًا جَمِيلًا", translation: "And be patient over what they say, and leave them with a graceful departure." },
-    { ayah: 11, arabic: "وَذَرْنِي وَالْمُكَذِّبِينَ أُولِي النَّعْمَةِ وَمَهِّلْهُمْ قَلِيلًا", translation: "Leave Me with the deniers of comfort, and give them respite for a little while." },
-    { ayah: 12, arabic: "إِنَّ لَدَيْنَا أَنكَالًا وَجَحِيمًا", translation: "Indeed, with Us are shackles and a blazing fire —" },
-    { ayah: 13, arabic: "وَطَعَامًا ذَا غُصَّةٍ وَعَذَابًا أَلِيمًا", translation: "and food that chokes and a painful punishment —" },
-    { ayah: 14, arabic: "يَوْمَ تَرْجُفُ الْأَرْضُ وَالْجِبَالُ وَكَانَتِ الْجِبَالُ كَثِيبًا مَّهِيلًا", translation: "on the Day the earth and mountains will tremble, and the mountains become a heap of sand pouring down." },
-    { ayah: 15, arabic: "إِنَّا أَرْسَلْنَا إِلَيْكُمْ رَسُولًا شَاهِدًا عَلَيْكُمْ كَمَا أَرْسَلْنَا إِلَىٰ فِرْعَوْنَ رَسُولًا", translation: "Indeed, We have sent to you a messenger as a witness over you, just as We sent to Pharaoh a messenger." },
-    { ayah: 16, arabic: "فَعَصَىٰ فِرْعَوْنُ الرَّسُولَ فَأَخَذْنَاهُ أَخْذًا وَبِيلًا", translation: "But Pharaoh disobeyed the messenger, so We seized him with a terrible seizing." },
-    { ayah: 17, arabic: "فَكَيْفَ تَتَّقُونَ إِن كَفَرْتُمْ يَوْمًا يَجْعَلُ الْوِلْدَانَ شِيبًا", translation: "How will you protect yourselves, if you disbelieve, from a Day that will turn children gray-haired?" },
-    { ayah: 18, arabic: "السَّمَاءُ مُنفَطِرٌ بِهِ ۚ كَانَ وَعْدُهُ مَفْعُولًا", translation: "The sky will be torn apart by it. His promise is ever fulfilled." },
-    { ayah: 19, arabic: "إِنَّ هَٰذِهِ تَذْكِرَةٌ ۖ فَمَن شَاءَ اتَّخَذَ إِلَىٰ رَبِّهِ سَبِيلًا", translation: "Indeed, this is a reminder; so whoever wills may take a path to his Lord." },
-    { ayah: 20, arabic: "إِنَّ رَبَّكَ يَعْلَمُ أَنَّكَ تَقُومُ أَدْنَىٰ مِن ثُلُثَيِ اللَّيْلِ وَنِصْفَهُ وَثُلُثَهُ وَطَائِفَةٌ مِّنَ الَّذِينَ مَعَكَ ۚ وَاللَّهُ يُقَدِّرُ اللَّيْلَ وَالنَّهَارَ ۚ عَلِمَ أَن لَّن تُحْصُوهُ فَتَابَ عَلَيْكُمْ ۖ فَاقْرَءُوا مَا تَيَسَّرَ مِنَ الْقُرْآنِ", translation: "Your Lord knows that you stand nearly two-thirds of the night, and half of it, and a third of it, and so does a group of those with you... So recite what is easy for you of the Quran." },
-  ],
 
   diagrams: {
     sectionJourney: {
@@ -130,7 +108,6 @@ const TABS = [
   { id: "ring", label: "Ring" },
   { id: "weight", label: "Weight" },
   { id: "absent", label: "Absences" },
-  { id: "text", label: "Text" },
 ];
 
 // ══════════════════════════════════════════════════════════════════════════════
@@ -248,21 +225,6 @@ function HeartVerse({ verse }: { verse: typeof SURAH_DATA.heartVerse }) {
   );
 }
 
-function FullSurahText({ verses }: { verses: typeof SURAH_DATA.fullText }) {
-  return (
-    <div className="space-y-5">
-      {verses.map((v) => (
-        <div key={v.ayah} className="space-y-1">
-          <p className="text-xl leading-loose text-right text-cream font-amiri" style={{ direction: "rtl" }}>
-            {v.arabic}{" "}
-            <span className="text-sm text-cream-muted/50">{"\uFD3E"}{v.ayah}{"\uFD3F"}</span>
-          </p>
-          <p className="text-sm text-cream-muted/60 font-body">{v.translation}</p>
-        </div>
-      ))}
-    </div>
-  );
-}
 
 function SectionJourney({ data }: { data: typeof SURAH_DATA.diagrams.sectionJourney }) {
   return (
@@ -454,13 +416,7 @@ export default function SurahArchitecture() {
           {activeTab === "ring" && <ChiasticRing data={d.diagrams.chiasticRing} />}
           {activeTab === "weight" && <DeductiveFunnel data={d.diagrams.deductiveFunnel} />}
           {activeTab === "absent" && <AbsenceMap data={d.diagrams.absenceMap} />}
-          {activeTab === "text" && (
-            <div className="space-y-6">
-              <FullSurahText verses={d.fullText} />
-              <OrnamentDivider />
-              <HeartVerse verse={d.heartVerse} />
-            </div>
-          )}
+          <div className="space-y-6 pt-6 border-t border-white/[0.06]"><HeartVerse verse={d.heartVerse} /></div>
         </div>
 
         {/* -- Go Deeper ----------------------------------------------------- */}

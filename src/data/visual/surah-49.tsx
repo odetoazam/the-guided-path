@@ -30,26 +30,6 @@ const SURAH_DATA = {
 
   audio: { surahNumber: 49, reciter: "ar.alafasy" },
 
-  fullText: [
-    { ayah: 1, arabic: "يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تُقَدِّمُوا بَيْنَ يَدَيِ اللَّهِ وَرَسُولِهِ ۖ وَاتَّقُوا اللَّهَ ۚ إِنَّ اللَّهَ سَمِيعٌ عَلِيمٌ", translation: "O you who have believed, do not put yourselves ahead of Allah and His Messenger, and fear Allah. Indeed, Allah is Hearing and Knowing." },
-    { ayah: 2, arabic: "يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَرْفَعُوا أَصْوَاتَكُمْ فَوْقَ صَوْتِ النَّبِيِّ وَلَا تَجْهَرُوا لَهُ بِالْقَوْلِ كَجَهْرِ بَعْضِكُمْ لِبَعْضٍ أَن تَحْبَطَ أَعْمَالُكُمْ وَأَنتُمْ لَا تَشْعُرُونَ", translation: "O you who have believed, do not raise your voices above the voice of the Prophet or speak loudly to him as you speak to one another, lest your deeds become worthless while you do not perceive." },
-    { ayah: 3, arabic: "إِنَّ الَّذِينَ يَغُضُّونَ أَصْوَاتَهُمْ عِندَ رَسُولِ اللَّهِ أُولَٰئِكَ الَّذِينَ امْتَحَنَ اللَّهُ قُلُوبَهُمْ لِلتَّقْوَىٰ", translation: "Indeed, those who lower their voices in the presence of the Messenger of Allah — they are the ones whose hearts Allah has tested for taqwa." },
-    { ayah: 4, arabic: "إِنَّ الَّذِينَ يُنَادُونَكَ مِن وَرَاءِ الْحُجُرَاتِ أَكْثَرُهُمْ لَا يَعْقِلُونَ", translation: "Indeed, those who call you from behind the private chambers — most of them do not use reason." },
-    { ayah: 5, arabic: "وَلَوْ أَنَّهُمْ صَبَرُوا حَتَّىٰ تَخْرُجَ إِلَيْهِمْ لَكَانَ خَيْرًا لَّهُمْ ۚ وَاللَّهُ غَفُورٌ رَّحِيمٌ", translation: "And if they had been patient until you came out to them, it would have been better for them. And Allah is Forgiving and Merciful." },
-    { ayah: 6, arabic: "يَا أَيُّهَا الَّذِينَ آمَنُوا إِن جَاءَكُمْ فَاسِقٌ بِنَبَإٍ فَتَبَيَّنُوا أَن تُصِيبُوا قَوْمًا بِجَهَالَةٍ فَتُصْبِحُوا عَلَىٰ مَا فَعَلْتُمْ نَادِمِينَ", translation: "O you who have believed, if a corrupt person comes to you with news, verify it, lest you harm a people out of ignorance and then become regretful over what you have done." },
-    { ayah: 7, arabic: "وَاعْلَمُوا أَنَّ فِيكُمْ رَسُولَ اللَّهِ ۚ لَوْ يُطِيعُكُمْ فِي كَثِيرٍ مِّنَ الْأَمْرِ لَعَنِتُّمْ وَلَٰكِنَّ اللَّهَ حَبَّبَ إِلَيْكُمُ الْإِيمَانَ وَزَيَّنَهُ فِي قُلُوبِكُمْ", translation: "And know that among you is the Messenger of Allah. If he were to obey you in much of the matter, you would be in difficulty, but Allah has made faith beloved to you and beautified it in your hearts." },
-    { ayah: 8, arabic: "فَضْلًا مِّنَ اللَّهِ وَنِعْمَةً ۚ وَاللَّهُ عَلِيمٌ حَكِيمٌ", translation: "A bounty from Allah and a favor. And Allah is Knowing and Wise." },
-    { ayah: 9, arabic: "وَإِن طَائِفَتَانِ مِنَ الْمُؤْمِنِينَ اقْتَتَلُوا فَأَصْلِحُوا بَيْنَهُمَا ۖ فَإِن بَغَتْ إِحْدَاهُمَا عَلَى الْأُخْرَىٰ فَقَاتِلُوا الَّتِي تَبْغِي حَتَّىٰ تَفِيءَ إِلَىٰ أَمْرِ اللَّهِ", translation: "And if two factions among the believers fight, make peace between them. But if one transgresses against the other, fight the transgressor until it returns to the command of Allah." },
-    { ayah: 10, arabic: "إِنَّمَا الْمُؤْمِنُونَ إِخْوَةٌ فَأَصْلِحُوا بَيْنَ أَخَوَيْكُمْ ۚ وَاتَّقُوا اللَّهَ لَعَلَّكُمْ تُرْحَمُونَ", translation: "The believers are but brothers, so make reconciliation between your brothers and have taqwa of Allah, that you may receive mercy." },
-    { ayah: 11, arabic: "يَا أَيُّهَا الَّذِينَ آمَنُوا لَا يَسْخَرْ قَوْمٌ مِّن قَوْمٍ عَسَىٰ أَن يَكُونُوا خَيْرًا مِّنْهُمْ وَلَا نِسَاءٌ مِّن نِّسَاءٍ عَسَىٰ أَن يَكُنَّ خَيْرًا مِّنْهُنَّ", translation: "O you who have believed, let not a people ridicule another people; perhaps they may be better than them. Nor let women ridicule other women; perhaps they may be better than them." },
-    { ayah: 12, arabic: "يَا أَيُّهَا الَّذِينَ آمَنُوا اجْتَنِبُوا كَثِيرًا مِّنَ الظَّنِّ إِنَّ بَعْضَ الظَّنِّ إِثْمٌ ۖ وَلَا تَجَسَّسُوا وَلَا يَغْتَب بَّعْضُكُم بَعْضًا", translation: "O you who have believed, avoid much suspicion — indeed, some suspicion is sin. And do not spy, and do not backbite one another." },
-    { ayah: 13, arabic: "يَا أَيُّهَا النَّاسُ إِنَّا خَلَقْنَاكُم مِّن ذَكَرٍ وَأُنثَىٰ وَجَعَلْنَاكُمْ شُعُوبًا وَقَبَائِلَ لِتَعَارَفُوا ۚ إِنَّ أَكْرَمَكُمْ عِندَ اللَّهِ أَتْقَاكُمْ", translation: "O mankind, We have created you from male and female and made you into peoples and tribes that you may know one another. Indeed, the most noble of you in the sight of Allah is the most righteous of you." },
-    { ayah: 14, arabic: "قَالَتِ الْأَعْرَابُ آمَنَّا ۖ قُل لَّمْ تُؤْمِنُوا وَلَٰكِن قُولُوا أَسْلَمْنَا وَلَمَّا يَدْخُلِ الْإِيمَانُ فِي قُلُوبِكُمْ", translation: "The desert Arabs say, 'We have believed.' Say: You have not believed; rather say, 'We have submitted,' for faith has not yet entered your hearts." },
-    { ayah: 15, arabic: "إِنَّمَا الْمُؤْمِنُونَ الَّذِينَ آمَنُوا بِاللَّهِ وَرَسُولِهِ ثُمَّ لَمْ يَرْتَابُوا وَجَاهَدُوا بِأَمْوَالِهِمْ وَأَنفُسِهِمْ فِي سَبِيلِ اللَّهِ ۚ أُولَٰئِكَ هُمُ الصَّادِقُونَ", translation: "The believers are only those who have believed in Allah and His Messenger and then doubted not, and fought with their wealth and their lives in the cause of Allah. It is those who are the truthful ones." },
-    { ayah: 16, arabic: "قُلْ أَتُعَلِّمُونَ اللَّهَ بِدِينِكُمْ وَاللَّهُ يَعْلَمُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۚ وَاللَّهُ بِكُلِّ شَيْءٍ عَلِيمٌ", translation: "Say: Would you inform Allah about your religion while Allah knows whatever is in the heavens and whatever is on the earth, and Allah is Knowing of all things?" },
-    { ayah: 17, arabic: "يَمُنُّونَ عَلَيْكَ أَنْ أَسْلَمُوا ۖ قُل لَّا تَمُنُّوا عَلَيَّ إِسْلَامَكُمْ ۖ بَلِ اللَّهُ يَمُنُّ عَلَيْكُمْ أَنْ هَدَاكُمْ لِلْإِيمَانِ إِن كُنتُمْ صَادِقِينَ", translation: "They consider it a favor to you that they have accepted Islam. Say: Do not consider your Islam a favor to me. Rather, Allah has conferred favor upon you that He has guided you to faith, if you should be truthful." },
-    { ayah: 18, arabic: "إِنَّ اللَّهَ يَعْلَمُ غَيْبَ السَّمَاوَاتِ وَالْأَرْضِ ۚ وَاللَّهُ بَصِيرٌ بِمَا تَعْمَلُونَ", translation: "Indeed, Allah knows the unseen of the heavens and the earth. And Allah is Seeing of what you do." },
-  ],
 
   diagrams: {
     sectionJourney: {
@@ -92,7 +72,7 @@ const SURAH_DATA = {
       title: "The Pathology of Contempt",
       subtitle: "Ayahs 11-12 trace the entire disease from seed to fruit",
       layers: [
-        { depth: 1, label: "Mockery", ayah: "11a", arabic: "لَا يَسْخَرْ قَوْمٌ مِّن قَوْمٍ", desc: "The visible symptom: ridiculing others. The root yaskhar carries the image of subjugation — pressing someone into service beneath you. Mockery is a claim of superiority, and the surah identifies it as such before prohibiting it.", color: "#4ecdc4" },
+        { depth: 1, label: "Mockery", ayah: "11a", arabic: "لَا يَسْخَرْ قَوْمٌ مِّن قَوْمٍ", desc: "The visible symptom: ridiculing others. The root yaskhar carries the image of subjugation — pressing someone into service beneath you. Mockery is a claim of superiority, and the surah identifies it as such before prohibiting it.", color: "#4ecdc4" },
         { depth: 2, label: "Insult", ayah: "11b", arabic: "وَلَا تَنَابَزُوا بِالْأَلْقَابِ", desc: "Moving from laughter to language: do not insult one another with offensive names. The prohibition targets the weaponization of naming — reducing a person to a label designed to diminish them.", color: "#9b7fd4" },
         { depth: 3, label: "Suspicion", ayah: "12a", arabic: "اجْتَنِبُوا كَثِيرًا مِّنَ الظَّنِّ", desc: "From the external to the internal: avoid much suspicion, for some suspicion is sin. The seed from which spying and backbiting grow. A state of mind that generates investigation.", color: "#e07a8a" },
         { depth: 4, label: "Spying → Backbiting", ayah: "12b", arabic: "وَلَا تَجَسَّسُوا وَلَا يَغْتَب بَّعْضُكُم بَعْضًا", desc: "The fruit of suspicion: first you investigate in private, then you speak in absence. The surah seals it with the image of cannibalism — eating the flesh of your dead brother. The revulsion the reader feels is the surah's intended response to gossip.", color: "#C9A84C" },
@@ -125,7 +105,6 @@ const TABS = [
   { id: "ring", label: "Mirror" },
   { id: "pathology", label: "Pathology" },
   { id: "absent", label: "Absences" },
-  { id: "text", label: "Text" },
 ];
 
 function OrnamentDivider() {
@@ -161,9 +140,6 @@ function HeartVerse({ verse }: { verse: typeof SURAH_DATA.heartVerse }) {
   return (<div className="border-l-2 border-gold-500 bg-white/[0.02] rounded-r-xl px-5 py-5 space-y-3"><p className="text-2xl leading-loose text-right text-cream font-amiri" style={{ direction: "rtl" }}>{verse.arabic}</p><p className="text-sm italic text-cream/70 font-body">{verse.translation}</p><p className="text-xs text-cream-muted/60 leading-relaxed font-body">{verse.why}</p></div>);
 }
 
-function FullSurahText({ verses }: { verses: typeof SURAH_DATA.fullText }) {
-  return (<div className="space-y-5">{verses.map((v) => (<div key={v.ayah} className="space-y-1"><p className="text-xl leading-loose text-right text-cream font-amiri" style={{ direction: "rtl" }}>{v.arabic}{" "}<span className="text-sm text-cream-muted/50">{"\uFD3E"}{v.ayah}{"\uFD3F"}</span></p><p className="text-sm text-cream-muted/60 font-body">{v.translation}</p></div>))}</div>);
-}
 
 function SectionJourney({ data }: { data: typeof SURAH_DATA.diagrams.sectionJourney }) {
   return (<div className="space-y-5"><div><h3 className="text-lg font-serif text-cream">{data.title}</h3><p className="text-sm text-cream-muted/60 mt-1 font-body">{data.subtitle}</p></div><div className="space-y-3">{data.sections.map((sec, i) => (<div key={i} className={`rounded-xl p-4 space-y-2 border ${sec.isPivot ? "border-gold-500/40" : "border-white/[0.06]"}`} style={{ backgroundColor: sec.color + "0a", borderLeftWidth: "3px", borderLeftColor: sec.color }}><div className="flex items-center justify-between"><span className="text-sm font-semibold font-serif" style={{ color: sec.color }}>{sec.title}</span><span className="text-xs text-cream-muted/50 font-sans">Ayahs {sec.ayahs}</span></div><p className="text-sm text-cream/70 leading-relaxed font-body">{sec.desc}</p>{sec.isPivot && <div className="text-xs text-gold-500 font-medium font-sans">{"\u2726"} Structural pivot</div>}</div>))}</div></div>);
@@ -215,7 +191,7 @@ export default function SurahArchitecture() {
           {activeTab === "ring" && <ChiasticRing data={d.diagrams.chiasticRing} />}
           {activeTab === "pathology" && <DeductiveFunnel data={d.diagrams.deductiveFunnel} />}
           {activeTab === "absent" && <AbsenceMap data={d.diagrams.absenceMap} />}
-          {activeTab === "text" && (<div className="space-y-6"><FullSurahText verses={d.fullText} /><OrnamentDivider /><HeartVerse verse={d.heartVerse} /><AudioPlayer audio={d.audio} /></div>)}
+          <div className="space-y-6 pt-6 border-t border-white/[0.06]"><HeartVerse verse={d.heartVerse} /><AudioPlayer audio={d.audio} /></div>
         </div>
         <OrnamentDivider />
         <a href={d.reflectionUrl} className="block rounded-xl bg-gold-500/5 border border-gold-500/20 p-5 text-center space-y-1 hover:bg-gold-500/10 hover:border-gold-500/30 transition-all">

@@ -39,40 +39,6 @@ const SURAH_DATA = {
   },
 
   // ── Full Surah Text (micro surah — displayed above tabs) ──────────────────
-  fullText: [
-    {
-      ayah: 1,
-      arabic: "تَبَّتْ يَدَا أَبِي لَهَبٍ وَتَبَّ",
-      ayahRef: "111:1",
-      translation: "May the hands of Abu Lahab be ruined, and ruined is he.",
-    },
-    {
-      ayah: 2,
-      arabic: "مَا أَغْنَىٰ عَنْهُ مَالُهُ وَمَا كَسَبَ",
-      ayahRef: "111:2",
-      translation:
-        "His wealth will not avail him or that which he gained.",
-    },
-    {
-      ayah: 3,
-      arabic: "سَيَصْلَىٰ نَارًا ذَاتَ لَهَبٍ",
-      ayahRef: "111:3",
-      translation: "He will enter to burn in a Fire of blazing flame.",
-    },
-    {
-      ayah: 4,
-      arabic: "وَامْرَأَتُهُ حَمَّالَةَ الْحَطَبِ",
-      ayahRef: "111:4",
-      translation: "And his wife — the carrier of firewood.",
-    },
-    {
-      ayah: 5,
-      arabic: "فِي جِيدِهَا حَبْلٌ مِّن مَّسَدٍ",
-      ayahRef: "111:5",
-      translation:
-        "Around her neck is a rope of twisted palm fiber.",
-    },
-  ],
 
   // ── Diagrams ──────────────────────────────────────────────────────────────
   diagrams: {
@@ -236,7 +202,6 @@ const TABS = [
   { id: "journey", label: "Movements" },
   { id: "mirror", label: "Name = Sentence" },
   { id: "absent", label: "Absences" },
-  { id: "text", label: "Text" },
 ];
 
 // ══════════════════════════════════════════════════════════════════════════════
@@ -354,21 +319,6 @@ function HeartVerse({ verse }: { verse: typeof SURAH_DATA.heartVerse }) {
   );
 }
 
-function FullSurahText({ verses }: { verses: typeof SURAH_DATA.fullText }) {
-  return (
-    <div className="space-y-5">
-      {verses.map((v) => (
-        <div key={v.ayah} className="space-y-1">
-          <p className="text-xl leading-loose text-right text-cream font-amiri" style={{ direction: "rtl" }}>
-            {v.arabic}{" "}
-            <span className="text-sm text-cream-muted/50">﴿{v.ayah}﴾</span>
-          </p>
-          <p className="text-sm text-cream-muted/60 font-body">{v.translation}</p>
-        </div>
-      ))}
-    </div>
-  );
-}
 
 function RingStructure({ data }: { data: typeof SURAH_DATA.diagrams.ringStructure }) {
   return (
@@ -563,13 +513,7 @@ export default function SurahArchitecture() {
           {activeTab === "journey" && <SectionJourney data={d.diagrams.sectionJourney} />}
           {activeTab === "mirror" && <WordMirror data={d.diagrams.wordMirror} />}
           {activeTab === "absent" && <AbsenceMap data={d.diagrams.absenceMap} />}
-          {activeTab === "text" && (
-            <div className="space-y-6">
-              <FullSurahText verses={d.fullText} />
-              <OrnamentDivider />
-              <HeartVerse verse={d.heartVerse} />
-            </div>
-          )}
+          <div className="space-y-6 pt-6 border-t border-white/[0.06]"><HeartVerse verse={d.heartVerse} /></div>
         </div>
 
         {/* ── Go Deeper ────────────────────────────────────────────────────── */}

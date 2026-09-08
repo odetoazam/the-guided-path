@@ -30,23 +30,6 @@ const SURAH_DATA = {
 
   audio: { surahNumber: 91, reciter: "ar.alafasy" },
 
-  fullText: [
-    { ayah: 1, arabic: "وَالشَّمْسِ وَضُحَاهَا", translation: "By the sun and its morning brightness —" },
-    { ayah: 2, arabic: "وَالْقَمَرِ إِذَا تَلَاهَا", translation: "and the moon as it follows it —" },
-    { ayah: 3, arabic: "وَالنَّهَارِ إِذَا جَلَّاهَا", translation: "and the day as it reveals it —" },
-    { ayah: 4, arabic: "وَاللَّيْلِ إِذَا يَغْشَاهَا", translation: "and the night as it covers it —" },
-    { ayah: 5, arabic: "وَالسَّمَاءِ وَمَا بَنَاهَا", translation: "and the sky and the One who built it —" },
-    { ayah: 6, arabic: "وَالْأَرْضِ وَمَا طَحَاهَا", translation: "and the earth and the One who spread it —" },
-    { ayah: 7, arabic: "وَنَفْسٍ وَمَا سَوَّاهَا", translation: "and the soul and the One who proportioned it —" },
-    { ayah: 8, arabic: "فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَاهَا", translation: "then inspired it with its wickedness and its safeguarding —" },
-    { ayah: 9, arabic: "قَدْ أَفْلَحَ مَن زَكَّاهَا", translation: "he has succeeded — the one who purifies it —" },
-    { ayah: 10, arabic: "وَقَدْ خَابَ مَن دَسَّاهَا", translation: "and he has failed — the one who buries it." },
-    { ayah: 11, arabic: "كَذَّبَتْ ثَمُودُ بِطَغْوَاهَا", translation: "Thamud denied through their transgression —" },
-    { ayah: 12, arabic: "إِذِ انبَعَثَ أَشْقَاهَا", translation: "when the most wretched of them rose up —" },
-    { ayah: 13, arabic: "فَقَالَ لَهُمْ رَسُولُ اللَّهِ نَاقَةَ اللَّهِ وَسُقْيَاهَا", translation: "and the messenger of Allah said to them: 'The she-camel of Allah — and her drinking turn.'" },
-    { ayah: 14, arabic: "فَكَذَّبُوهُ فَعَقَرُوهَا فَدَمْدَمَ عَلَيْهِمْ رَبُّهُم بِذَنبِهِمْ فَسَوَّاهَا", translation: "But they denied him and hamstrung her, so their Lord crushed them for their sin and leveled them." },
-    { ayah: 15, arabic: "وَلَا يَخَافُ عُقْبَاهَا", translation: "And He does not fear its consequence." },
-  ],
 
   diagrams: {
     sectionJourney: {
@@ -120,7 +103,6 @@ const TABS = [
   { id: "mirror", label: "Mirror" },
   { id: "cascade", label: "Cascade" },
   { id: "absent", label: "Absences" },
-  { id: "text", label: "Text" },
 ];
 
 // ══════════════════════════════════════════════════════════════════════════════
@@ -238,21 +220,6 @@ function HeartVerse({ verse }: { verse: typeof SURAH_DATA.heartVerse }) {
   );
 }
 
-function FullSurahText({ verses }: { verses: typeof SURAH_DATA.fullText }) {
-  return (
-    <div className="space-y-5">
-      {verses.map((v) => (
-        <div key={v.ayah} className="space-y-1">
-          <p className="text-xl leading-loose text-right text-cream font-amiri" style={{ direction: "rtl" }}>
-            {v.arabic}{" "}
-            <span className="text-sm text-cream-muted/50">﴿{v.ayah}﴾</span>
-          </p>
-          <p className="text-sm text-cream-muted/60 font-body">{v.translation}</p>
-        </div>
-      ))}
-    </div>
-  );
-}
 
 function SectionJourney({ data }: { data: typeof SURAH_DATA.diagrams.sectionJourney }) {
   return (
@@ -444,13 +411,7 @@ export default function SurahArchitecture() {
           {activeTab === "mirror" && <ChiasticRing data={d.diagrams.chiasticRing} />}
           {activeTab === "cascade" && <DeductiveFunnel data={d.diagrams.deductiveFunnel} />}
           {activeTab === "absent" && <AbsenceMap data={d.diagrams.absenceMap} />}
-          {activeTab === "text" && (
-            <div className="space-y-6">
-              <FullSurahText verses={d.fullText} />
-              <OrnamentDivider />
-              <HeartVerse verse={d.heartVerse} />
-            </div>
-          )}
+          <div className="space-y-6 pt-6 border-t border-white/[0.06]"><HeartVerse verse={d.heartVerse} /></div>
         </div>
 
         {/* ── Go Deeper ────────────────────────────────────────────────────── */}

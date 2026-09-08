@@ -30,58 +30,6 @@ const SURAH_DATA = {
 
   audio: { surahNumber: 77, reciter: "ar.alafasy" },
 
-  fullText: [
-    { ayah: 1, arabic: "وَالْمُرْسَلَاتِ عُرْفًا", translation: "By those sent forth in succession," },
-    { ayah: 2, arabic: "فَالْعَاصِفَاتِ عَصْفًا", translation: "by those that blow violently," },
-    { ayah: 3, arabic: "وَالنَّاشِرَاتِ نَشْرًا", translation: "by those that spread far and wide," },
-    { ayah: 4, arabic: "فَالْفَارِقَاتِ فَرْقًا", translation: "by those that separate clearly," },
-    { ayah: 5, arabic: "فَالْمُلْقِيَاتِ ذِكْرًا", translation: "by those that deliver a reminder —" },
-    { ayah: 6, arabic: "عُذْرًا أَوْ نُذْرًا", translation: "as justification or warning:" },
-    { ayah: 7, arabic: "إِنَّمَا تُوعَدُونَ لَوَاقِعٌ", translation: "what you are promised will surely come to pass." },
-    { ayah: 8, arabic: "فَإِذَا النُّجُومُ طُمِسَتْ", translation: "When the stars are dimmed," },
-    { ayah: 9, arabic: "وَإِذَا السَّمَاءُ فُرِجَتْ", translation: "and when the sky is torn apart," },
-    { ayah: 10, arabic: "وَإِذَا الْجِبَالُ نُسِفَتْ", translation: "and when the mountains are blown away," },
-    { ayah: 11, arabic: "وَإِذَا الرُّسُلُ أُقِّتَتْ", translation: "and when the messengers are gathered for their appointed time —" },
-    { ayah: 12, arabic: "لِأَيِّ يَوْمٍ أُجِّلَتْ", translation: "for what Day were they postponed?" },
-    { ayah: 13, arabic: "لِيَوْمِ الْفَصْلِ", translation: "For the Day of Sorting." },
-    { ayah: 14, arabic: "وَمَا أَدْرَاكَ مَا يَوْمُ الْفَصْلِ", translation: "And what can make you know what the Day of Sorting is?" },
-    { ayah: 15, arabic: "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ", translation: "Woe, that Day, to the deniers." },
-    { ayah: 16, arabic: "أَلَمْ نُهْلِكِ الْأَوَّلِينَ", translation: "Did We not destroy the former peoples?" },
-    { ayah: 17, arabic: "ثُمَّ نُتْبِعُهُمُ الْآخِرِينَ", translation: "Then We followed them up with the later ones." },
-    { ayah: 18, arabic: "كَذَٰلِكَ نَفْعَلُ بِالْمُجْرِمِينَ", translation: "Thus do We deal with the criminals." },
-    { ayah: 19, arabic: "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ", translation: "Woe, that Day, to the deniers." },
-    { ayah: 20, arabic: "أَلَمْ نَخْلُقكُّم مِّن مَّاءٍ مَّهِينٍ", translation: "Did We not create you from a liquid disdained?" },
-    { ayah: 21, arabic: "فَجَعَلْنَاهُ فِي قَرَارٍ مَّكِينٍ", translation: "And We placed it in a firm lodging" },
-    { ayah: 22, arabic: "إِلَىٰ قَدَرٍ مَّعْلُومٍ", translation: "for a known term." },
-    { ayah: 23, arabic: "فَقَدَرْنَا فَنِعْمَ الْقَادِرُونَ", translation: "Then We determined — and how excellent are We in determining." },
-    { ayah: 24, arabic: "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ", translation: "Woe, that Day, to the deniers." },
-    { ayah: 25, arabic: "أَلَمْ نَجْعَلِ الْأَرْضَ كِفَاتًا", translation: "Have We not made the earth a container" },
-    { ayah: 26, arabic: "أَحْيَاءً وَأَمْوَاتًا", translation: "for the living and the dead?" },
-    { ayah: 27, arabic: "وَجَعَلْنَا فِيهَا رَوَاسِيَ شَامِخَاتٍ وَأَسْقَيْنَاكُم مَّاءً فُرَاتًا", translation: "And We placed therein lofty, firmly set mountains, and have given you sweet water to drink." },
-    { ayah: 28, arabic: "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ", translation: "Woe, that Day, to the deniers." },
-    { ayah: 29, arabic: "انطَلِقُوا إِلَىٰ مَا كُنتُم بِهِ تُكَذِّبُونَ", translation: "Proceed to that which you used to deny." },
-    { ayah: 30, arabic: "انطَلِقُوا إِلَىٰ ظِلٍّ ذِي ثَلَاثِ شُعَبٍ", translation: "Proceed to a shadow of three columns —" },
-    { ayah: 31, arabic: "لَّا ظَلِيلٍ وَلَا يُغْنِي مِنَ اللَّهَبِ", translation: "no shade and no avail against the flame." },
-    { ayah: 32, arabic: "إِنَّهَا تَرْمِي بِشَرَرٍ كَالْقَصْرِ", translation: "It throws sparks like a palace," },
-    { ayah: 33, arabic: "كَأَنَّهُ جِمَالَتٌ صُفْرٌ", translation: "as if they were yellow camels." },
-    { ayah: 34, arabic: "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ", translation: "Woe, that Day, to the deniers." },
-    { ayah: 35, arabic: "هَـٰذَا يَوْمُ لَا يَنطِقُونَ", translation: "This is a Day they will not speak," },
-    { ayah: 36, arabic: "وَلَا يُؤْذَنُ لَهُمْ فَيَعْتَذِرُونَ", translation: "nor will they be permitted to make excuses." },
-    { ayah: 37, arabic: "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ", translation: "Woe, that Day, to the deniers." },
-    { ayah: 38, arabic: "هَـٰذَا يَوْمُ الْفَصْلِ ۖ جَمَعْنَاكُمْ وَالْأَوَّلِينَ", translation: "This is the Day of Sorting; We will have assembled you and the former peoples." },
-    { ayah: 39, arabic: "فَإِن كَانَ لَكُمْ كَيْدٌ فَكِيدُونِ", translation: "So if you have a plan, then plan against Me." },
-    { ayah: 40, arabic: "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ", translation: "Woe, that Day, to the deniers." },
-    { ayah: 41, arabic: "إِنَّ الْمُتَّقِينَ فِي ظِلَالٍ وَعُيُونٍ", translation: "Indeed, the righteous will be among shades and springs" },
-    { ayah: 42, arabic: "وَفَوَاكِهَ مِمَّا يَشْتَهُونَ", translation: "and fruits from whatever they desire." },
-    { ayah: 43, arabic: "كُلُوا وَاشْرَبُوا هَنِيئًا بِمَا كُنتُمْ تَعْمَلُونَ", translation: "'Eat and drink in satisfaction for what you used to do.'" },
-    { ayah: 44, arabic: "إِنَّا كَذَٰلِكَ نَجْزِي الْمُحْسِنِينَ", translation: "Indeed, thus do We reward the doers of good." },
-    { ayah: 45, arabic: "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ", translation: "Woe, that Day, to the deniers." },
-    { ayah: 46, arabic: "كُلُوا وَتَمَتَّعُوا قَلِيلًا إِنَّكُم مُّجْرِمُونَ", translation: "'Eat and enjoy yourselves a little; indeed, you are criminals.'" },
-    { ayah: 47, arabic: "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ", translation: "Woe, that Day, to the deniers." },
-    { ayah: 48, arabic: "وَإِذَا قِيلَ لَهُمُ ارْكَعُوا لَا يَرْكَعُونَ", translation: "And when it is said to them, 'Bow down,' they do not bow down." },
-    { ayah: 49, arabic: "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ", translation: "Woe, that Day, to the deniers." },
-    { ayah: 50, arabic: "فَبِأَيِّ حَدِيثٍ بَعْدَهُ يُؤْمِنُونَ", translation: "Then in what message after this will they believe?" },
-  ],
 
   diagrams: {
     sectionJourney: {
@@ -127,10 +75,10 @@ const SURAH_DATA = {
       title: "The Refrain's Arc",
       subtitle: "The same ten words carry different weight depending on what precedes them",
       layers: [
-        { depth: 1, label: "After the Day of Sorting", ayah: "15", arabic: "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ", desc: "The first strike — eschatological weight. The Day has been named, its cosmic signs described. The refrain announces: this is real, and denying it has consequences.", color: "#4ecdc4" },
-        { depth: 2, label: "After the Destroyed Nations", ayah: "19", arabic: "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ", desc: "Historical weight. The pattern of destruction is established — unnamed, universal. The refrain now carries centuries of precedent.", color: "#e07a8a" },
-        { depth: 3, label: "After the Body Proof", ayah: "24", arabic: "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ", desc: "Biological weight. You were fluid — your own origin testifies. The refrain is now personal: the evidence is inside you.", color: "#9b7fd4" },
-        { depth: 4, label: "After the Garden", ayah: "45", arabic: "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ", desc: "The same words after reward carry the weight of loss. This is no longer a sentence — it is a lament. Woe to those who lost shade and springs and fruit.", color: "#C9A84C" },
+        { depth: 1, label: "After the Day of Sorting", ayah: "15", arabic: "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ", desc: "The first strike — eschatological weight. The Day has been named, its cosmic signs described. The refrain announces: this is real, and denying it has consequences.", color: "#4ecdc4" },
+        { depth: 2, label: "After the Destroyed Nations", ayah: "19", arabic: "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ", desc: "Historical weight. The pattern of destruction is established — unnamed, universal. The refrain now carries centuries of precedent.", color: "#e07a8a" },
+        { depth: 3, label: "After the Body Proof", ayah: "24", arabic: "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ", desc: "Biological weight. You were fluid — your own origin testifies. The refrain is now personal: the evidence is inside you.", color: "#9b7fd4" },
+        { depth: 4, label: "After the Garden", ayah: "45", arabic: "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ", desc: "The same words after reward carry the weight of loss. This is no longer a sentence — it is a lament. Woe to those who lost shade and springs and fruit.", color: "#C9A84C" },
       ],
     },
     absenceMap: {
@@ -163,7 +111,6 @@ const TABS = [
   { id: "ring", label: "Ring" },
   { id: "refrain", label: "Refrain" },
   { id: "absent", label: "Absences" },
-  { id: "text", label: "Text" },
 ];
 
 // ══════════════════════════════════════════════════════════════════════════════
@@ -281,21 +228,6 @@ function HeartVerse({ verse }: { verse: typeof SURAH_DATA.heartVerse }) {
   );
 }
 
-function FullSurahText({ verses }: { verses: typeof SURAH_DATA.fullText }) {
-  return (
-    <div className="space-y-5">
-      {verses.map((v) => (
-        <div key={v.ayah} className="space-y-1">
-          <p className="text-xl leading-loose text-right text-cream font-amiri" style={{ direction: "rtl" }}>
-            {v.arabic}{" "}
-            <span className="text-sm text-cream-muted/50">﴿{v.ayah}﴾</span>
-          </p>
-          <p className="text-sm text-cream-muted/60 font-body">{v.translation}</p>
-        </div>
-      ))}
-    </div>
-  );
-}
 
 function SectionJourney({ data }: { data: typeof SURAH_DATA.diagrams.sectionJourney }) {
   return (
@@ -487,13 +419,7 @@ export default function SurahArchitecture() {
           {activeTab === "ring" && <ChiasticRing data={d.diagrams.chiasticRing} />}
           {activeTab === "refrain" && <DeductiveFunnel data={d.diagrams.deductiveFunnel} />}
           {activeTab === "absent" && <AbsenceMap data={d.diagrams.absenceMap} />}
-          {activeTab === "text" && (
-            <div className="space-y-6">
-              <FullSurahText verses={d.fullText} />
-              <OrnamentDivider />
-              <HeartVerse verse={d.heartVerse} />
-            </div>
-          )}
+          <div className="space-y-6 pt-6 border-t border-white/[0.06]"><HeartVerse verse={d.heartVerse} /></div>
         </div>
 
         {/* ── Go Deeper ────────────────────────────────────────────────────── */}

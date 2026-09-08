@@ -30,37 +30,6 @@ const SURAH_DATA = {
 
   audio: { surahNumber: 48, reciter: "ar.alafasy" },
 
-  fullText: [
-    { ayah: 1, arabic: "إِنَّا فَتَحْنَا لَكَ فَتْحًا مُّبِينًا", translation: "Indeed, We have given you a clear victory —" },
-    { ayah: 2, arabic: "لِّيَغْفِرَ لَكَ اللَّهُ مَا تَقَدَّمَ مِن ذَنبِكَ وَمَا تَأَخَّرَ وَيُتِمَّ نِعْمَتَهُ عَلَيْكَ وَيَهْدِيَكَ صِرَاطًا مُّسْتَقِيمًا", translation: "that Allah may forgive you what preceded of your sin and what will follow, complete His favor upon you, and guide you to a straight path," },
-    { ayah: 3, arabic: "وَيَنصُرَكَ اللَّهُ نَصْرًا عَزِيزًا", translation: "and that Allah may aid you with a mighty victory." },
-    { ayah: 4, arabic: "هُوَ الَّذِي أَنزَلَ السَّكِينَةَ فِي قُلُوبِ الْمُؤْمِنِينَ لِيَزْدَادُوا إِيمَانًا مَّعَ إِيمَانِهِمْ ۗ وَلِلَّهِ جُنُودُ السَّمَاوَاتِ وَالْأَرْضِ ۚ وَكَانَ اللَّهُ عَلِيمًا حَكِيمًا", translation: "He is the One who sent down tranquility into the hearts of the believers so that they would increase in faith along with their existing faith. And to Allah belong the armies of the heavens and the earth. And ever is Allah Knowing and Wise." },
-    { ayah: 5, arabic: "لِّيُدْخِلَ الْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا وَيُكَفِّرَ عَنْهُمْ سَيِّئَاتِهِمْ", translation: "That He may admit the believing men and believing women to gardens beneath which rivers flow to abide therein eternally and remove from them their misdeeds —" },
-    { ayah: 6, arabic: "وَيُعَذِّبَ الْمُنَافِقِينَ وَالْمُنَافِقَاتِ وَالْمُشْرِكِينَ وَالْمُشْرِكَاتِ الظَّانِّينَ بِاللَّهِ ظَنَّ السَّوْءِ", translation: "and punish the hypocrite men and hypocrite women, and the polytheist men and polytheist women — those who assume about Allah an assumption of evil." },
-    { ayah: 7, arabic: "وَلِلَّهِ جُنُودُ السَّمَاوَاتِ وَالْأَرْضِ ۚ وَكَانَ اللَّهُ عَزِيزًا حَكِيمًا", translation: "And to Allah belong the armies of the heavens and the earth. And ever is Allah Almighty and Wise." },
-    { ayah: 8, arabic: "إِنَّا أَرْسَلْنَاكَ شَاهِدًا وَمُبَشِّرًا وَنَذِيرًا", translation: "Indeed, We have sent you as a witness and a bringer of good tidings and a warner —" },
-    { ayah: 9, arabic: "لِّتُؤْمِنُوا بِاللَّهِ وَرَسُولِهِ وَتُعَزِّرُوهُ وَتُوَقِّرُوهُ وَتُسَبِّحُوهُ بُكْرَةً وَأَصِيلًا", translation: "that you may believe in Allah and His Messenger and honor him and respect him and exalt Him morning and afternoon." },
-    { ayah: 10, arabic: "إِنَّ الَّذِينَ يُبَايِعُونَكَ إِنَّمَا يُبَايِعُونَ اللَّهَ يَدُ اللَّهِ فَوْقَ أَيْدِيهِمْ", translation: "Indeed, those who pledge allegiance to you — they are pledging allegiance to Allah. The hand of Allah is over their hands." },
-    { ayah: 11, arabic: "سَيَقُولُ لَكَ الْمُخَلَّفُونَ مِنَ الْأَعْرَابِ شَغَلَتْنَا أَمْوَالُنَا وَأَهْلُونَا فَاسْتَغْفِرْ لَنَا", translation: "Those who stayed behind of the Bedouin will say to you, 'Our possessions and our families preoccupied us, so ask forgiveness for us.'" },
-    { ayah: 12, arabic: "بَلْ ظَنَنتُمْ أَن لَّن يَنقَلِبَ الرَّسُولُ وَالْمُؤْمِنُونَ إِلَىٰ أَهْلِيهِمْ أَبَدًا وَزُيِّنَ ذَٰلِكَ فِي قُلُوبِكُمْ وَظَنَنتُمْ ظَنَّ السَّوْءِ وَكُنتُمْ قَوْمًا بُورًا", translation: "But you thought that the Messenger and the believers would never return to their families, and that was made attractive in your hearts. And you assumed an assumption of evil, and you were a people ruined." },
-    { ayah: 13, arabic: "وَمَن لَّمْ يُؤْمِن بِاللَّهِ وَرَسُولِهِ فَإِنَّا أَعْتَدْنَا لِلْكَافِرِينَ سَعِيرًا", translation: "And whoever has not believed in Allah and His Messenger — indeed, We have prepared for the disbelievers a blaze." },
-    { ayah: 14, arabic: "وَلِلَّهِ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ ۚ يَغْفِرُ لِمَن يَشَاءُ وَيُعَذِّبُ مَن يَشَاءُ ۚ وَكَانَ اللَّهُ غَفُورًا رَّحِيمًا", translation: "To Allah belongs the dominion of the heavens and the earth. He forgives whom He wills and punishes whom He wills. And Allah is Forgiving and Merciful." },
-    { ayah: 15, arabic: "سَيَقُولُ الْمُخَلَّفُونَ إِذَا انطَلَقْتُمْ إِلَىٰ مَغَانِمَ لِتَأْخُذُوهَا ذَرُونَا نَتَّبِعْكُمْ", translation: "Those who stayed behind will say, when you set out toward spoils to take them, 'Let us follow you.'" },
-    { ayah: 16, arabic: "قُل لِّلْمُخَلَّفِينَ مِنَ الْأَعْرَابِ سَتُدْعَوْنَ إِلَىٰ قَوْمٍ أُولِي بَأْسٍ شَدِيدٍ تُقَاتِلُونَهُمْ أَوْ يُسْلِمُونَ", translation: "Say to those who stayed behind of the Bedouin, 'You will be called to a people of great military might; you will fight them, or they will submit.'" },
-    { ayah: 17, arabic: "لَّيْسَ عَلَى الْأَعْمَىٰ حَرَجٌ وَلَا عَلَى الْأَعْرَجِ حَرَجٌ وَلَا عَلَى الْمَرِيضِ حَرَجٌ", translation: "There is no blame upon the blind, nor upon the lame, nor upon the sick." },
-    { ayah: 18, arabic: "لَّقَدْ رَضِيَ اللَّهُ عَنِ الْمُؤْمِنِينَ إِذْ يُبَايِعُونَكَ تَحْتَ الشَّجَرَةِ فَعَلِمَ مَا فِي قُلُوبِهِمْ فَأَنزَلَ السَّكِينَةَ عَلَيْهِمْ وَأَثَابَهُمْ فَتْحًا قَرِيبًا", translation: "Allah was certainly pleased with the believers when they pledged allegiance to you beneath the tree. He knew what was in their hearts, and He sent down tranquility upon them and rewarded them with a near victory." },
-    { ayah: 19, arabic: "وَمَغَانِمَ كَثِيرَةً يَأْخُذُونَهَا ۗ وَكَانَ اللَّهُ عَزِيزًا حَكِيمًا", translation: "And much spoils which they will take. And ever is Allah Almighty and Wise." },
-    { ayah: 20, arabic: "وَعَدَكُمُ اللَّهُ مَغَانِمَ كَثِيرَةً تَأْخُذُونَهَا فَعَجَّلَ لَكُمْ هَٰذِهِ وَكَفَّ أَيْدِيَ النَّاسِ عَنكُمْ", translation: "Allah has promised you much spoils that you will take and has hastened for you this and withheld the hands of people from you —" },
-    { ayah: 21, arabic: "وَأُخْرَىٰ لَمْ تَقْدِرُوا عَلَيْهَا قَدْ أَحَاطَ اللَّهُ بِهَا ۚ وَكَانَ اللَّهُ عَلَىٰ كُلِّ شَيْءٍ قَدِيرًا", translation: "And other gains are reserved for you that you have not yet attained; Allah has already encompassed them. And ever is Allah over all things competent." },
-    { ayah: 22, arabic: "وَلَوْ قَاتَلَكُمُ الَّذِينَ كَفَرُوا لَوَلَّوُا الْأَدْبَارَ ثُمَّ لَا يَجِدُونَ وَلِيًّا وَلَا نَصِيرًا", translation: "And if those who disbelieve had fought you, they would have turned their backs; then they would not find a protector or a helper." },
-    { ayah: 23, arabic: "سُنَّةَ اللَّهِ الَّتِي قَدْ خَلَتْ مِن قَبْلُ ۖ وَلَن تَجِدَ لِسُنَّةِ اللَّهِ تَبْدِيلًا", translation: "This is the established way of Allah which has occurred before. And never will you find in the way of Allah any change." },
-    { ayah: 24, arabic: "وَهُوَ الَّذِي كَفَّ أَيْدِيَهُمْ عَنكُمْ وَأَيْدِيَكُمْ عَنْهُم بِبَطْنِ مَكَّةَ مِن بَعْدِ أَنْ أَظْفَرَكُمْ عَلَيْهِمْ", translation: "And He is the One who withheld their hands from you and your hands from them in the valley of Mecca, after He gave you the upper hand over them." },
-    { ayah: 25, arabic: "هُمُ الَّذِينَ كَفَرُوا وَصَدُّوكُمْ عَنِ الْمَسْجِدِ الْحَرَامِ وَالْهَدْيَ مَعْكُوفًا أَن يَبْلُغَ مَحِلَّهُ", translation: "They are the ones who disbelieved and obstructed you from the Sacred Mosque while the offering was prevented from reaching its place of sacrifice." },
-    { ayah: 26, arabic: "إِذْ جَعَلَ الَّذِينَ كَفَرُوا فِي قُلُوبِهِمُ الْحَمِيَّةَ حَمِيَّةَ الْجَاهِلِيَّةِ فَأَنزَلَ اللَّهُ سَكِينَتَهُ عَلَىٰ رَسُولِهِ وَعَلَى الْمُؤْمِنِينَ وَأَلْزَمَهُمْ كَلِمَةَ التَّقْوَىٰ", translation: "When those who disbelieved had put into their hearts zealotry — the zealotry of the time of ignorance — Allah sent down His tranquility upon His Messenger and upon the believers and imposed upon them the word of taqwa." },
-    { ayah: 27, arabic: "لَّقَدْ صَدَقَ اللَّهُ رَسُولَهُ الرُّؤْيَا بِالْحَقِّ ۖ لَتَدْخُلُنَّ الْمَسْجِدَ الْحَرَامَ إِن شَاءَ اللَّهُ آمِنِينَ مُحَلِّقِينَ رُءُوسَكُمْ وَمُقَصِّرِينَ لَا تَخَافُونَ", translation: "Allah has certainly fulfilled for His Messenger the vision in truth: you will enter the Sacred Mosque, God willing, in security, with heads shaved and hair shortened, not fearing." },
-    { ayah: 28, arabic: "هُوَ الَّذِي أَرْسَلَ رَسُولَهُ بِالْهُدَىٰ وَدِينِ الْحَقِّ لِيُظْهِرَهُ عَلَى الدِّينِ كُلِّهِ ۚ وَكَفَىٰ بِاللَّهِ شَهِيدًا", translation: "He is the One who sent His Messenger with guidance and the religion of truth to make it prevail over all religion. And sufficient is Allah as Witness." },
-    { ayah: 29, arabic: "مُّحَمَّدٌ رَّسُولُ اللَّهِ ۚ وَالَّذِينَ مَعَهُ أَشِدَّاءُ عَلَى الْكُفَّارِ رُحَمَاءُ بَيْنَهُمْ ۖ تَرَاهُمْ رُكَّعًا سُجَّدًا يَبْتَغُونَ فَضْلًا مِّنَ اللَّهِ وَرِضْوَانًا", translation: "Muhammad is the Messenger of Allah; and those with him are forceful against the disbelievers, merciful among themselves. You see them bowing and prostrating, seeking bounty from Allah and His pleasure." },
-  ],
 
   diagrams: {
     sectionJourney: {
@@ -139,7 +108,6 @@ const TABS = [
   { id: "ring", label: "Ring" },
   { id: "sakinah", label: "Sakinah" },
   { id: "absent", label: "Absences" },
-  { id: "text", label: "Text" },
 ];
 
 // ══════════════════════════════════════════════════════════════════════════════
@@ -204,18 +172,6 @@ function HeartVerse({ verse }: { verse: typeof SURAH_DATA.heartVerse }) {
   );
 }
 
-function FullSurahText({ verses }: { verses: typeof SURAH_DATA.fullText }) {
-  return (
-    <div className="space-y-5">
-      {verses.map((v) => (
-        <div key={v.ayah} className="space-y-1">
-          <p className="text-xl leading-loose text-right text-cream font-amiri" style={{ direction: "rtl" }}>{v.arabic}{" "}<span className="text-sm text-cream-muted/50">{"\uFD3E"}{v.ayah}{"\uFD3F"}</span></p>
-          <p className="text-sm text-cream-muted/60 font-body">{v.translation}</p>
-        </div>
-      ))}
-    </div>
-  );
-}
 
 function SectionJourney({ data }: { data: typeof SURAH_DATA.diagrams.sectionJourney }) {
   return (
@@ -345,13 +301,7 @@ export default function SurahArchitecture() {
           {activeTab === "ring" && <ChiasticRing data={d.diagrams.chiasticRing} />}
           {activeTab === "sakinah" && <DeductiveFunnel data={d.diagrams.deductiveFunnel} />}
           {activeTab === "absent" && <AbsenceMap data={d.diagrams.absenceMap} />}
-          {activeTab === "text" && (
-            <div className="space-y-6">
-              <FullSurahText verses={d.fullText} />
-              <OrnamentDivider />
-              <HeartVerse verse={d.heartVerse} />
-            </div>
-          )}
+          <div className="space-y-6 pt-6 border-t border-white/[0.06]"><HeartVerse verse={d.heartVerse} /></div>
         </div>
 
         <OrnamentDivider />

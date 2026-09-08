@@ -30,16 +30,6 @@ const SURAH_DATA = {
 
   audio: { surahNumber: 94, reciter: "ar.alafasy" },
 
-  fullText: [
-    { ayah: 1, arabic: "أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ", translation: "Did We not open for you your chest?" },
-    { ayah: 2, arabic: "وَوَضَعْنَا عَنكَ وِزْرَكَ", translation: "And remove from you your burden —" },
-    { ayah: 3, arabic: "الَّذِي أَنقَضَ ظَهْرَكَ", translation: "the one that was breaking your back?" },
-    { ayah: 4, arabic: "وَرَفَعْنَا لَكَ ذِكْرَكَ", translation: "And raised for you your name?" },
-    { ayah: 5, arabic: "فَإِنَّ مَعَ الْعُسْرِ يُسْرًا", translation: "For truly, with hardship comes ease." },
-    { ayah: 6, arabic: "إِنَّ مَعَ الْعُسْرِ يُسْرًا", translation: "Truly, with hardship comes ease." },
-    { ayah: 7, arabic: "فَإِذَا فَرَغْتَ فَانصَبْ", translation: "So when you have finished, then rise to labor." },
-    { ayah: 8, arabic: "وَإِلَىٰ رَبِّكَ فَارْغَب", translation: "And to your Lord, turn in longing." },
-  ],
 
   diagrams: {
     sectionJourney: {
@@ -112,7 +102,6 @@ const TABS = [
   { id: "mirror", label: "Mirror" },
   { id: "ascent", label: "Ascent" },
   { id: "absent", label: "Absences" },
-  { id: "text", label: "Text" },
 ];
 
 // ══════════════════════════════════════════════════════════════════════════════
@@ -230,21 +219,6 @@ function HeartVerse({ verse }: { verse: typeof SURAH_DATA.heartVerse }) {
   );
 }
 
-function FullSurahText({ verses }: { verses: typeof SURAH_DATA.fullText }) {
-  return (
-    <div className="space-y-5">
-      {verses.map((v) => (
-        <div key={v.ayah} className="space-y-1">
-          <p className="text-xl leading-loose text-right text-cream font-amiri" style={{ direction: "rtl" }}>
-            {v.arabic}{" "}
-            <span className="text-sm text-cream-muted/50">{"\uFD3E"}{v.ayah}{"\uFD3F"}</span>
-          </p>
-          <p className="text-sm text-cream-muted/60 font-body">{v.translation}</p>
-        </div>
-      ))}
-    </div>
-  );
-}
 
 function SectionJourney({ data }: { data: typeof SURAH_DATA.diagrams.sectionJourney }) {
   return (
@@ -436,13 +410,7 @@ export default function SurahArchitecture() {
           {activeTab === "mirror" && <ChiasticRing data={d.diagrams.chiasticRing} />}
           {activeTab === "ascent" && <DeductiveFunnel data={d.diagrams.deductiveFunnel} />}
           {activeTab === "absent" && <AbsenceMap data={d.diagrams.absenceMap} />}
-          {activeTab === "text" && (
-            <div className="space-y-6">
-              <FullSurahText verses={d.fullText} />
-              <OrnamentDivider />
-              <HeartVerse verse={d.heartVerse} />
-            </div>
-          )}
+          <div className="space-y-6 pt-6 border-t border-white/[0.06]"><HeartVerse verse={d.heartVerse} /></div>
         </div>
 
         {/* -- Go Deeper --------------------------------------------------- */}

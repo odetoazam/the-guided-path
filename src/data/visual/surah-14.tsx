@@ -30,28 +30,6 @@ const SURAH_DATA = {
 
   audio: { surahNumber: 14, reciter: "ar.alafasy" },
 
-  fullText: [
-    { ayah: 1, arabic: "الر ۚ كِتَابٌ أَنزَلْنَاهُ إِلَيْكَ لِتُخْرِجَ النَّاسَ مِنَ الظُّلُمَاتِ إِلَى النُّورِ بِإِذْنِ رَبِّهِمْ إِلَىٰ صِرَاطِ الْعَزِيزِ الْحَمِيدِ", translation: "Alif Lam Ra. A Book We have sent down to you so that you may bring people out of darknesses into light, by permission of their Lord, to the path of the Almighty, the Praiseworthy." },
-    { ayah: 2, arabic: "اللَّهِ الَّذِي لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۗ وَوَيْلٌ لِّلْكَافِرِينَ مِنْ عَذَابٍ شَدِيدٍ", translation: "Allah, to whom belongs whatever is in the heavens and whatever is on the earth. And woe to the disbelievers from a severe punishment." },
-    { ayah: 3, arabic: "الَّذِينَ يَسْتَحِبُّونَ الْحَيَاةَ الدُّنْيَا عَلَى الْآخِرَةِ وَيَصُدُّونَ عَن سَبِيلِ اللَّهِ وَيَبْغُونَهَا عِوَجًا ۚ أُولَـٰئِكَ فِي ضَلَالٍ بَعِيدٍ", translation: "Those who prefer the life of this world over the Hereafter and avert people from the way of Allah, seeking to make it crooked — those are in extreme error." },
-    { ayah: 4, arabic: "وَمَا أَرْسَلْنَا مِن رَّسُولٍ إِلَّا بِلِسَانِ قَوْمِهِ لِيُبَيِّنَ لَهُمْ ۖ فَيُضِلُّ اللَّهُ مَن يَشَاءُ وَيَهْدِي مَن يَشَاءُ ۚ وَهُوَ الْعَزِيزُ الْحَكِيمُ", translation: "And We did not send any messenger except in the language of his people to make things clear to them. Then Allah leads astray whom He wills and guides whom He wills. And He is the Almighty, the Wise." },
-    { ayah: 5, arabic: "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِآيَاتِنَا أَنْ أَخْرِجْ قَوْمَكَ مِنَ الظُّلُمَاتِ إِلَى النُّورِ وَذَكِّرْهُم بِأَيَّامِ اللَّهِ ۚ إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِّكُلِّ صَبَّارٍ شَكُورٍ", translation: "And We certainly sent Musa with Our signs, saying: 'Bring your people out of darknesses into light and remind them of the days of Allah.' Indeed, in that are signs for everyone patient and grateful." },
-    { ayah: 7, arabic: "وَإِذْ تَأَذَّنَ رَبُّكُمْ لَئِن شَكَرْتُمْ لَأَزِيدَنَّكُمْ ۖ وَلَئِن كَفَرْتُمْ إِنَّ عَذَابِي لَشَدِيدٌ", translation: "And when your Lord proclaimed: 'If you are grateful, I will give you more; but if you are ungrateful, My punishment is severe.'" },
-    { ayah: 8, arabic: "وَقَالَ مُوسَىٰ إِن تَكْفُرُوا أَنتُمْ وَمَن فِي الْأَرْضِ جَمِيعًا فَإِنَّ اللَّهَ لَغَنِيٌّ حَمِيدٌ", translation: "And Musa said: 'If you disbelieve — you and everyone on earth together — indeed, Allah is Self-Sufficient, Praiseworthy.'" },
-    { ayah: 22, arabic: "وَقَالَ الشَّيْطَانُ لَمَّا قُضِيَ الْأَمْرُ إِنَّ اللَّهَ وَعَدَكُمْ وَعْدَ الْحَقِّ وَوَعَدتُّكُمْ فَأَخْلَفْتُكُمْ ۖ وَمَا كَانَ لِيَ عَلَيْكُم مِّن سُلْطَانٍ إِلَّا أَن دَعَوْتُكُمْ فَاسْتَجَبْتُمْ لِي ۖ فَلَا تَلُومُونِي وَلُومُوا أَنفُسَكُمْ", translation: "And Satan will say when the matter has been decided: 'Indeed, Allah promised you the promise of truth, and I promised you, but I betrayed you. I had no authority over you except that I called you and you responded to me. So do not blame me; blame yourselves.'" },
-    { ayah: 24, arabic: "أَلَمْ تَرَ كَيْفَ ضَرَبَ اللَّهُ مَثَلًا كَلِمَةً طَيِّبَةً كَشَجَرَةٍ طَيِّبَةٍ أَصْلُهَا ثَابِتٌ وَفَرْعُهَا فِي السَّمَاءِ", translation: "Have you not seen how Allah sets forth a parable? A good word is like a good tree: its root is firm and its branch is in the sky." },
-    { ayah: 25, arabic: "تُؤْتِي أُكُلَهَا كُلَّ حِينٍ بِإِذْنِ رَبِّهَا ۗ وَيَضْرِبُ اللَّهُ الْأَمْثَالَ لِلنَّاسِ لَعَلَّهُمْ يَتَذَكَّرُونَ", translation: "It gives its fruit in every season by permission of its Lord. And Allah sets forth parables for people so that they may remember." },
-    { ayah: 26, arabic: "وَمَثَلُ كَلِمَةٍ خَبِيثَةٍ كَشَجَرَةٍ خَبِيثَةٍ اجْتُثَّتْ مِن فَوْقِ الْأَرْضِ مَا لَهَا مِن قَرَارٍ", translation: "And the parable of an evil word is like an evil tree, uprooted from the surface of the earth — it has no stability." },
-    { ayah: 27, arabic: "يُثَبِّتُ اللَّهُ الَّذِينَ آمَنُوا بِالْقَوْلِ الثَّابِتِ فِي الْحَيَاةِ الدُّنْيَا وَفِي الْآخِرَةِ ۖ وَيُضِلُّ اللَّهُ الظَّالِمِينَ ۚ وَيَفْعَلُ اللَّهُ مَا يَشَاءُ", translation: "Allah keeps firm those who believe with the firm word in the life of this world and in the Hereafter. And Allah lets the wrongdoers go astray. And Allah does what He wills." },
-    { ayah: 34, arabic: "وَإِن تَعُدُّوا نِعْمَتَ اللَّهِ لَا تُحْصُوهَا ۗ إِنَّ الْإِنسَانَ لَظَلُومٌ كَفَّارٌ", translation: "And if you should count the blessings of Allah, you could not enumerate them. Indeed, the human being is truly unjust and ungrateful." },
-    { ayah: 35, arabic: "وَإِذْ قَالَ إِبْرَاهِيمُ رَبِّ اجْعَلْ هَـٰذَا الْبَلَدَ آمِنًا وَاجْنُبْنِي وَبَنِيَّ أَن نَّعْبُدَ الْأَصْنَامَ", translation: "And when Ibrahim said: 'My Lord, make this city secure and keep me and my sons away from worshipping idols.'" },
-    { ayah: 37, arabic: "رَّبَّنَا إِنِّي أَسْكَنتُ مِن ذُرِّيَّتِي بِوَادٍ غَيْرِ ذِي زَرْعٍ عِندَ بَيْتِكَ الْمُحَرَّمِ رَبَّنَا لِيُقِيمُوا الصَّلَاةَ فَاجْعَلْ أَفْئِدَةً مِّنَ النَّاسِ تَهْوِي إِلَيْهِمْ وَارْزُقْهُم مِّنَ الثَّمَرَاتِ لَعَلَّهُمْ يَشْكُرُونَ", translation: "Our Lord, I have settled some of my descendants in a valley without cultivation near Your Sacred House — our Lord, that they may establish prayer. So make hearts among the people incline toward them, and provide them with fruits that they might be grateful." },
-    { ayah: 40, arabic: "رَبِّ اجْعَلْنِي مُقِيمَ الصَّلَاةِ وَمِن ذُرِّيَّتِي ۚ رَبَّنَا وَتَقَبَّلْ دُعَاءِ", translation: "My Lord, make me an establisher of prayer, and from my descendants. Our Lord, accept my prayer." },
-    { ayah: 41, arabic: "رَبَّنَا اغْفِرْ لِي وَلِوَالِدَيَّ وَلِلْمُؤْمِنِينَ يَوْمَ يَقُومُ الْحِسَابُ", translation: "Our Lord, forgive me and my parents and the believers on the Day the account is established." },
-    { ayah: 42, arabic: "وَلَا تَحْسَبَنَّ اللَّهَ غَافِلًا عَمَّا يَعْمَلُ الظَّالِمُونَ ۚ إِنَّمَا يُؤَخِّرُهُمْ لِيَوْمٍ تَشْخَصُ فِيهِ الْأَبْصَارُ", translation: "Do not think that Allah is unaware of what the wrongdoers do. He only delays them for a Day when eyes will stare in horror." },
-    { ayah: 48, arabic: "يَوْمَ تُبَدَّلُ الْأَرْضُ غَيْرَ الْأَرْضِ وَالسَّمَاوَاتُ ۖ وَبَرَزُوا لِلَّهِ الْوَاحِدِ الْقَهَّارِ", translation: "On the Day the earth will be replaced by another earth, and the heavens as well, and all will come forth before Allah, the One, the Prevailing." },
-    { ayah: 52, arabic: "هَـٰذَا بَلَاغٌ لِّلنَّاسِ وَلِيُنذَرُوا بِهِ وَلِيَعْلَمُوا أَنَّمَا هُوَ إِلَـٰهٌ وَاحِدٌ وَلِيَذَّكَّرَ أُولُو الْأَلْبَابِ", translation: "This is a message for humanity, that they may be warned by it, and that they may know that He is One God, and that people of understanding may remember." },
-  ],
 
   diagrams: {
     sectionJourney: {
@@ -130,7 +108,6 @@ const TABS = [
   { id: "ring", label: "Ring" },
   { id: "words", label: "Words" },
   { id: "absent", label: "Absences" },
-  { id: "text", label: "Text" },
 ];
 
 // ══════════════════════════════════════════════════════════════════════════════
@@ -248,21 +225,6 @@ function HeartVerse({ verse }: { verse: typeof SURAH_DATA.heartVerse }) {
   );
 }
 
-function FullSurahText({ verses }: { verses: typeof SURAH_DATA.fullText }) {
-  return (
-    <div className="space-y-5">
-      {verses.map((v) => (
-        <div key={v.ayah} className="space-y-1">
-          <p className="text-xl leading-loose text-right text-cream font-amiri" style={{ direction: "rtl" }}>
-            {v.arabic}{" "}
-            <span className="text-sm text-cream-muted/50">﴿{v.ayah}﴾</span>
-          </p>
-          <p className="text-sm text-cream-muted/60 font-body">{v.translation}</p>
-        </div>
-      ))}
-    </div>
-  );
-}
 
 function SectionJourney({ data }: { data: typeof SURAH_DATA.diagrams.sectionJourney }) {
   return (
@@ -454,13 +416,7 @@ export default function SurahArchitecture() {
           {activeTab === "ring" && <ChiasticRing data={d.diagrams.chiasticRing} />}
           {activeTab === "words" && <DeductiveFunnel data={d.diagrams.deductiveFunnel} />}
           {activeTab === "absent" && <AbsenceMap data={d.diagrams.absenceMap} />}
-          {activeTab === "text" && (
-            <div className="space-y-6">
-              <FullSurahText verses={d.fullText} />
-              <OrnamentDivider />
-              <HeartVerse verse={d.heartVerse} />
-            </div>
-          )}
+          <div className="space-y-6 pt-6 border-t border-white/[0.06]"><HeartVerse verse={d.heartVerse} /></div>
         </div>
 
         {/* ── Go Deeper ────────────────────────────────────────────────────── */}

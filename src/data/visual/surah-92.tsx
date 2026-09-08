@@ -30,29 +30,6 @@ const SURAH_DATA = {
 
   audio: { surahNumber: 92, reciter: "ar.alafasy" },
 
-  fullText: [
-    { ayah: 1, arabic: "وَاللَّيْلِ إِذَا يَغْشَىٰ", translation: "By the night when it covers —" },
-    { ayah: 2, arabic: "وَالنَّهَارِ إِذَا تَجَلَّىٰ", translation: "and the day when it shines forth —" },
-    { ayah: 3, arabic: "وَمَا خَلَقَ الذَّكَرَ وَالْأُنثَىٰ", translation: "and the One who created male and female —" },
-    { ayah: 4, arabic: "إِنَّ سَعْيَكُمْ لَشَتَّىٰ", translation: "your efforts are truly diverse." },
-    { ayah: 5, arabic: "فَأَمَّا مَنْ أَعْطَىٰ وَاتَّقَىٰ", translation: "As for the one who gives and is mindful of God —" },
-    { ayah: 6, arabic: "وَصَدَّقَ بِالْحُسْنَىٰ", translation: "and affirms the good —" },
-    { ayah: 7, arabic: "فَسَنُيَسِّرُهُ لِلْيُسْرَىٰ", translation: "We will ease his way to ease." },
-    { ayah: 8, arabic: "وَأَمَّا مَن بَخِلَ وَاسْتَغْنَىٰ", translation: "And as for the one who is miserly and considers himself self-sufficient —" },
-    { ayah: 9, arabic: "وَكَذَّبَ بِالْحُسْنَىٰ", translation: "and denies the good —" },
-    { ayah: 10, arabic: "فَسَنُيَسِّرُهُ لِلْعُسْرَىٰ", translation: "We will ease his way to difficulty." },
-    { ayah: 11, arabic: "وَمَا يُغْنِي عَنْهُ مَالُهُ إِذَا تَرَدَّىٰ", translation: "And his wealth will not avail him when he falls." },
-    { ayah: 12, arabic: "إِنَّ عَلَيْنَا لَلْهُدَىٰ", translation: "Guidance is upon Us." },
-    { ayah: 13, arabic: "وَإِنَّ لَنَا لَلْآخِرَةَ وَالْأُولَىٰ", translation: "And to Us belongs the Hereafter and the first life." },
-    { ayah: 14, arabic: "فَأَنذَرْتُكُمْ نَارًا تَلَظَّىٰ", translation: "So I have warned you of a raging Fire —" },
-    { ayah: 15, arabic: "لَا يَصْلَاهَا إِلَّا الْأَشْقَى", translation: "none will enter it except the most wretched —" },
-    { ayah: 16, arabic: "الَّذِي كَذَّبَ وَتَوَلَّىٰ", translation: "the one who denied and turned away." },
-    { ayah: 17, arabic: "وَسَيُجَنَّبُهَا الْأَتْقَى", translation: "And the most God-conscious will be kept far from it —" },
-    { ayah: 18, arabic: "الَّذِي يُؤْتِي مَالَهُ يَتَزَكَّىٰ", translation: "the one who gives his wealth to purify himself —" },
-    { ayah: 19, arabic: "وَمَا لِأَحَدٍ عِندَهُ مِن نِّعْمَةٍ تُجْزَىٰ", translation: "and he has no favor owed to anyone that he is repaying —" },
-    { ayah: 20, arabic: "إِلَّا ابْتِغَاءَ وَجْهِ رَبِّهِ الْأَعْلَىٰ", translation: "seeking only the face of his Lord, the Most High." },
-    { ayah: 21, arabic: "وَلَسَوْفَ يَرْضَىٰ", translation: "And he will surely be satisfied." },
-  ],
 
   diagrams: {
     sectionJourney: {
@@ -132,7 +109,6 @@ const TABS = [
   { id: "mirror", label: "Mirror" },
   { id: "scales", label: "Scales" },
   { id: "absent", label: "Absences" },
-  { id: "text", label: "Text" },
 ];
 
 // ══════════════════════════════════════════════════════════════════════════════
@@ -250,21 +226,6 @@ function HeartVerse({ verse }: { verse: typeof SURAH_DATA.heartVerse }) {
   );
 }
 
-function FullSurahText({ verses }: { verses: typeof SURAH_DATA.fullText }) {
-  return (
-    <div className="space-y-5">
-      {verses.map((v) => (
-        <div key={v.ayah} className="space-y-1">
-          <p className="text-xl leading-loose text-right text-cream font-amiri" style={{ direction: "rtl" }}>
-            {v.arabic}{" "}
-            <span className="text-sm text-cream-muted/50">﴿{v.ayah}﴾</span>
-          </p>
-          <p className="text-sm text-cream-muted/60 font-body">{v.translation}</p>
-        </div>
-      ))}
-    </div>
-  );
-}
 
 function SectionJourney({ data }: { data: typeof SURAH_DATA.diagrams.sectionJourney }) {
   return (
@@ -456,13 +417,7 @@ export default function SurahArchitecture() {
           {activeTab === "mirror" && <ChiasticRing data={d.diagrams.chiasticRing} />}
           {activeTab === "scales" && <DeductiveFunnel data={d.diagrams.deductiveFunnel} />}
           {activeTab === "absent" && <AbsenceMap data={d.diagrams.absenceMap} />}
-          {activeTab === "text" && (
-            <div className="space-y-6">
-              <FullSurahText verses={d.fullText} />
-              <OrnamentDivider />
-              <HeartVerse verse={d.heartVerse} />
-            </div>
-          )}
+          <div className="space-y-6 pt-6 border-t border-white/[0.06]"><HeartVerse verse={d.heartVerse} /></div>
         </div>
 
         {/* ── Go Deeper ────────────────────────────────────────────────────── */}

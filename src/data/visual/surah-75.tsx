@@ -30,48 +30,6 @@ const SURAH_DATA = {
 
   audio: { surahNumber: 75, reciter: "ar.alafasy" },
 
-  fullText: [
-    { ayah: 1, arabic: "لَا أُقْسِمُ بِيَوْمِ الْقِيَامَةِ", translation: "I swear by the Day of Resurrection," },
-    { ayah: 2, arabic: "وَلَا أُقْسِمُ بِالنَّفْسِ اللَّوَّامَةِ", translation: "and I swear by the self-reproaching soul." },
-    { ayah: 3, arabic: "أَيَحْسَبُ الْإِنسَانُ أَلَّن نَّجْمَعَ عِظَامَهُ", translation: "Does man think We will not assemble his bones?" },
-    { ayah: 4, arabic: "بَلَىٰ قَادِرِينَ عَلَىٰ أَن نُّسَوِّيَ بَنَانَهُ", translation: "Yes — We are able to proportion even his fingertips." },
-    { ayah: 5, arabic: "بَلْ يُرِيدُ الْإِنسَانُ لِيَفْجُرَ أَمَامَهُ", translation: "But man desires to continue in sin ahead of him." },
-    { ayah: 6, arabic: "يَسْأَلُ أَيَّانَ يَوْمُ الْقِيَامَةِ", translation: "He asks, 'When is the Day of Resurrection?'" },
-    { ayah: 7, arabic: "فَإِذَا بَرِقَ الْبَصَرُ", translation: "When the eye is dazzled," },
-    { ayah: 8, arabic: "وَخَسَفَ الْقَمَرُ", translation: "and the moon is eclipsed," },
-    { ayah: 9, arabic: "وَجُمِعَ الشَّمْسُ وَالْقَمَرُ", translation: "and the sun and moon are joined together —" },
-    { ayah: 10, arabic: "يَقُولُ الْإِنسَانُ يَوْمَئِذٍ أَيْنَ الْمَفَرُّ", translation: "man will say that Day, 'Where is the escape?'" },
-    { ayah: 11, arabic: "كَلَّا لَا وَزَرَ", translation: "No! There is no refuge." },
-    { ayah: 12, arabic: "إِلَىٰ رَبِّكَ يَوْمَئِذٍ الْمُسْتَقَرُّ", translation: "To your Lord, that Day, is the settlement." },
-    { ayah: 13, arabic: "يُنَبَّأُ الْإِنسَانُ يَوْمَئِذٍ بِمَا قَدَّمَ وَأَخَّرَ", translation: "Man will be informed that Day of what he sent ahead and what he left behind." },
-    { ayah: 14, arabic: "بَلِ الْإِنسَانُ عَلَىٰ نَفْسِهِ بَصِيرَةٌ", translation: "Man is a witness against himself," },
-    { ayah: 15, arabic: "وَلَوْ أَلْقَىٰ مَعَاذِيرَهُ", translation: "even though he throws out his excuses." },
-    { ayah: 16, arabic: "لَا تُحَرِّكْ بِهِ لِسَانَكَ لِتَعْجَلَ بِهِ", translation: "Do not move your tongue with it to hasten it." },
-    { ayah: 17, arabic: "إِنَّ عَلَيْنَا جَمْعَهُ وَقُرْآنَهُ", translation: "Its collection and recitation are upon Us." },
-    { ayah: 18, arabic: "فَإِذَا قَرَأْنَاهُ فَاتَّبِعْ قُرْآنَهُ", translation: "So when We have recited it, follow its recitation." },
-    { ayah: 19, arabic: "ثُمَّ إِنَّ عَلَيْنَا بَيَانَهُ", translation: "Then upon Us is its clarification." },
-    { ayah: 20, arabic: "كَلَّا بَلْ تُحِبُّونَ الْعَاجِلَةَ", translation: "No! But you love the immediate life" },
-    { ayah: 21, arabic: "وَتَذَرُونَ الْآخِرَةَ", translation: "and leave the Hereafter." },
-    { ayah: 22, arabic: "وُجُوهٌ يَوْمَئِذٍ نَّاضِرَةٌ", translation: "Faces that Day will be radiant," },
-    { ayah: 23, arabic: "إِلَىٰ رَبِّهَا نَاظِرَةٌ", translation: "looking at their Lord." },
-    { ayah: 24, arabic: "وَوُجُوهٌ يَوْمَئِذٍ بَاسِرَةٌ", translation: "And faces that Day will be contorted," },
-    { ayah: 25, arabic: "تَظُنُّ أَن يُفْعَلَ بِهَا فَاقِرَةٌ", translation: "expecting that something back-breaking is about to be done to them." },
-    { ayah: 26, arabic: "كَلَّا إِذَا بَلَغَتِ التَّرَاقِيَ", translation: "No! When it reaches the collarbones," },
-    { ayah: 27, arabic: "وَقِيلَ مَنْ ۜ رَاقٍ", translation: "and it is said, 'Who will cure him?'" },
-    { ayah: 28, arabic: "وَظَنَّ أَنَّهُ الْفِرَاقُ", translation: "and he knows it is the parting," },
-    { ayah: 29, arabic: "وَالْتَفَّتِ السَّاقُ بِالسَّاقِ", translation: "and the leg is wound around the leg —" },
-    { ayah: 30, arabic: "إِلَىٰ رَبِّكَ يَوْمَئِذٍ الْمَسَاقُ", translation: "to your Lord, that Day, is the driving." },
-    { ayah: 31, arabic: "فَلَا صَدَّقَ وَلَا صَلَّىٰ", translation: "He neither believed nor prayed." },
-    { ayah: 32, arabic: "وَلَـٰكِن كَذَّبَ وَتَوَلَّىٰ", translation: "But he denied and turned away." },
-    { ayah: 33, arabic: "ثُمَّ ذَهَبَ إِلَىٰ أَهْلِهِ يَتَمَطَّىٰ", translation: "Then he went to his family, swaggering." },
-    { ayah: 34, arabic: "أَوْلَىٰ لَكَ فَأَوْلَىٰ", translation: "Woe to you, and woe!" },
-    { ayah: 35, arabic: "ثُمَّ أَوْلَىٰ لَكَ فَأَوْلَىٰ", translation: "Then woe to you, and woe!" },
-    { ayah: 36, arabic: "أَيَحْسَبُ الْإِنسَانُ أَن يُتْرَكَ سُدًى", translation: "Does man think he will be left without purpose?" },
-    { ayah: 37, arabic: "أَلَمْ يَكُ نُطْفَةً مِّن مَّنِيٍّ يُمْنَىٰ", translation: "Was he not a drop of fluid emitted?" },
-    { ayah: 38, arabic: "ثُمَّ كَانَ عَلَقَةً فَخَلَقَ فَسَوَّىٰ", translation: "Then he became a clinging form, and God created and proportioned him." },
-    { ayah: 39, arabic: "فَجَعَلَ مِنْهُ الزَّوْجَيْنِ الذَّكَرَ وَالْأُنثَىٰ", translation: "And made from him the two kinds — male and female." },
-    { ayah: 40, arabic: "أَلَيْسَ ذَٰلِكَ بِقَادِرٍ عَلَىٰ أَن يُحْيِيَ الْمَوْتَىٰ", translation: "Is that One not able to give life to the dead?" },
-  ],
 
   diagrams: {
     sectionJourney: {
@@ -146,7 +104,6 @@ const TABS = [
   { id: "ring", label: "Ring" },
   { id: "gathering", label: "Gathering" },
   { id: "absent", label: "Absences" },
-  { id: "text", label: "Text" },
 ];
 
 // ══════════════════════════════════════════════════════════════════════════════
@@ -264,21 +221,6 @@ function HeartVerse({ verse }: { verse: typeof SURAH_DATA.heartVerse }) {
   );
 }
 
-function FullSurahText({ verses }: { verses: typeof SURAH_DATA.fullText }) {
-  return (
-    <div className="space-y-5">
-      {verses.map((v) => (
-        <div key={v.ayah} className="space-y-1">
-          <p className="text-xl leading-loose text-right text-cream font-amiri" style={{ direction: "rtl" }}>
-            {v.arabic}{" "}
-            <span className="text-sm text-cream-muted/50">﴿{v.ayah}﴾</span>
-          </p>
-          <p className="text-sm text-cream-muted/60 font-body">{v.translation}</p>
-        </div>
-      ))}
-    </div>
-  );
-}
 
 function SectionJourney({ data }: { data: typeof SURAH_DATA.diagrams.sectionJourney }) {
   return (
@@ -470,13 +412,7 @@ export default function SurahArchitecture() {
           {activeTab === "ring" && <ChiasticRing data={d.diagrams.chiasticRing} />}
           {activeTab === "gathering" && <DeductiveFunnel data={d.diagrams.deductiveFunnel} />}
           {activeTab === "absent" && <AbsenceMap data={d.diagrams.absenceMap} />}
-          {activeTab === "text" && (
-            <div className="space-y-6">
-              <FullSurahText verses={d.fullText} />
-              <OrnamentDivider />
-              <HeartVerse verse={d.heartVerse} />
-            </div>
-          )}
+          <div className="space-y-6 pt-6 border-t border-white/[0.06]"><HeartVerse verse={d.heartVerse} /></div>
         </div>
 
         {/* ── Go Deeper ────────────────────────────────────────────────────── */}

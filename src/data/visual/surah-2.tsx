@@ -24,7 +24,7 @@ const SURAH_DATA = {
   sciencesActive: [{"key":"nasikh","english":"Abrogation"},{"key":"muhkamat","english":"Clear & Ambiguous Verses"},{"key":"nazm","english":"Structural Coherence"}],
   // ── Heart Verse ───────────────────────────────────────────────────────────
   heartVerse: {
-    arabic: "وَكَذَٰلِكَ جَعَلْنَـٰكُمْ أُمَّةً وَسَطًا لِّتَكُونُوا۟ شُهَدَآءَ عَلَى ٱلنَّاسِ",
+    arabic: "وَكَذَٰلِكَ جَعَلْنَـٰكُمْ أُمَّةً وَسَطًا لِّتَكُونُوا۟ شُهَدَآءَ عَلَى ٱلنَّاسِ",
     ayahRef: "2:143",
     translation:
       "And thus We made you a middle community, that you may be witnesses over humanity.",
@@ -149,7 +149,7 @@ const SURAH_DATA = {
       verses: [
         {
           ref: "2:30",
-          arabic: "إِنِّى جَاعِلٌ فِى ٱلْأَرْضِ خَلِيفَةً",
+          arabic: "إِنِّى جَاعِلٌ فِى ٱلْأَرْضِ خَلِيفَةً",
           ayahRef: "2:30",
           translation: "I am placing a steward in the earth.",
           context: "God's announcement to the angels. Knowledge as the ground of stewardship — you can carry the trust because you can name what is in it.",
@@ -157,7 +157,7 @@ const SURAH_DATA = {
         },
         {
           ref: "2:143",
-          arabic: "وَكَذَٰلِكَ جَعَلْنَـٰكُمْ أُمَّةً وَسَطًا",
+          arabic: "وَكَذَٰلِكَ جَعَلْنَـٰكُمْ أُمَّةً وَسَطًا",
           ayahRef: "2:143",
           translation: "And thus We made you a middle community.",
           context: "The hinge. The word wasat — middle, balanced, median — defines the community's identity. Witnesses positioned between extremes.",
@@ -165,7 +165,7 @@ const SURAH_DATA = {
         },
         {
           ref: "2:186",
-          arabic: "وَإِذَا سَأَلَكَ عِبَادِى عَنِّى فَإِنِّى قَرِيبٌ",
+          arabic: "وَإِذَا سَأَلَكَ عِبَادِى عَنِّى فَإِنِّى قَرِيبٌ",
           ayahRef: "2:186",
           translation: "When My servants ask you about Me — I am near.",
           context: "Placed inside fasting legislation. The expected 'say' (qul) never comes — God removes the intermediary and answers directly. The grammar enacts the closeness.",
@@ -173,7 +173,7 @@ const SURAH_DATA = {
         },
         {
           ref: "2:255",
-          arabic: "ٱللَّهُ لَآ إِلَـٰهَ إِلَّا هُوَ ٱلْحَىُّ ٱلْقَيُّومُ",
+          arabic: "ٱللَّهُ لَآ إِلَـٰهَ إِلَّا هُوَ ٱلْحَىُّ ٱلْقَيُّومُ",
           ayahRef: "2:255",
           translation: "Allah — there is no deity except Him, the Ever-Living, the Self-Sustaining.",
           context: "Ayat al-Kursi. After 254 ayahs of human effort and failure — the surah pauses. Here is who holds the covenant on the other side. He does not grow drowsy.",
@@ -181,7 +181,7 @@ const SURAH_DATA = {
         },
         {
           ref: "2:286",
-          arabic: "لَا يُكَلِّفُ ٱللَّهُ نَفْسًا إِلَّا وُسْعَهَا",
+          arabic: "لَا يُكَلِّفُ ٱللَّهُ نَفْسًا إِلَّا وُسْعَهَا",
           ayahRef: "2:286",
           translation: "Allah does not burden a soul beyond what it can bear.",
           context: "The closing du'a. Three verbs for burden, escalating. A constitution that accounts for the imperfection of those who will live inside it.",
@@ -257,7 +257,7 @@ const TABS = [
   { id: "journey", label: "Journey" },
   { id: "arcs", label: "Arcs" },
   { id: "absent", label: "Absences" },
-  { id: "text", label: "Text" },
+  { id: "text", label: "Map" },
 ];
 
 // ══════════════════════════════════════════════════════════════════════════════

@@ -127,7 +127,7 @@ const TABS = [
   { id: "mirror", label: "Mirror" },
   { id: "witnesses", label: "Witnesses" },
   { id: "absent", label: "Absences" },
-  { id: "text", label: "Text" },
+  { id: "text", label: "Map" },
 ];
 
 // ══════════════════════════════════════════════════════════════════════════════

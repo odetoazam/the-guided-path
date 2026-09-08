@@ -22,7 +22,7 @@ const SURAH_DATA = {
 
   sciencesActive: [{"key":"balaghah","english":"Rhetoric"},{"key":"aqeedah","english":"Theology"},{"key":"nazm","english":"Structural Coherence"}],
   heartVerse: {
-    arabic: "وَلَا أَنَا عَابِدٌ مَّا عَبَدتُّمْ",
+    arabic: "وَلَآ أَنَا۠ عَابِدٌ مَّا عَبَدتُّمْ",
     ayahRef: "109:4",
     translation: "And I will never worship what you have worshipped.",
     why: "The pivot from present description to permanent identity. The active participle ʻabidun and the past tense ʻabadtum create a temporal architecture — a declaration that one's permanent nature is incompatible with another's established practice.",
@@ -30,14 +30,6 @@ const SURAH_DATA = {
 
   audio: { surahNumber: 109, reciter: "ar.alafasy" },
 
-  fullText: [
-    { ayah: 1, arabic: "قُلْ يَا أَيُّهَا الْكَافِرُونَ", translation: "Say: O you who deny the truth." },
-    { ayah: 2, arabic: "لَا أَعْبُدُ مَا تَعْبُدُونَ", translation: "I do not worship what you worship." },
-    { ayah: 3, arabic: "وَلَا أَنتُمْ عَابِدُونَ مَا أَعْبُدُ", translation: "And you do not worship what I worship." },
-    { ayah: 4, arabic: "وَلَا أَنَا عَابِدٌ مَّا عَبَدتُّمْ", translation: "And I will never worship what you have worshipped." },
-    { ayah: 5, arabic: "وَلَا أَنتُمْ عَابِدُونَ مَا أَعْبُدُ", translation: "And you will not worship what I worship." },
-    { ayah: 6, arabic: "لَكُمْ دِينُكُمْ وَلِيَ دِينِ", translation: "To you your way, and to me mine." },
-  ],
 
   diagrams: {
     mirrorStructure: {
@@ -124,7 +116,6 @@ const TABS = [
   { id: "refrain", label: "The Root" },
   { id: "arc", label: "The Arc" },
   { id: "absent", label: "Absences" },
-  { id: "text", label: "Text" },
 ];
 
 // ══════════════════════════════════════════════════════════════════════════════
@@ -242,21 +233,6 @@ function HeartVerse({ verse }: { verse: typeof SURAH_DATA.heartVerse }) {
   );
 }
 
-function FullSurahText({ verses }: { verses: typeof SURAH_DATA.fullText }) {
-  return (
-    <div className="space-y-5">
-      {verses.map((v) => (
-        <div key={v.ayah} className="space-y-1">
-          <p className="text-xl leading-loose text-right text-cream font-amiri" style={{ direction: "rtl" }}>
-            {v.arabic}{" "}
-            <span className="text-sm text-cream-muted/50">﴿{v.ayah}﴾</span>
-          </p>
-          <p className="text-sm text-cream-muted/60 font-body">{v.translation}</p>
-        </div>
-      ))}
-    </div>
-  );
-}
 
 function MirrorStructure({ data }: { data: typeof SURAH_DATA.diagrams.mirrorStructure }) {
   return (
@@ -468,13 +444,7 @@ export default function SurahArchitecture() {
           {activeTab === "refrain" && <RefrainPattern data={d.diagrams.refrainPattern} />}
           {activeTab === "arc" && <SectionJourney data={d.diagrams.sectionJourney} />}
           {activeTab === "absent" && <AbsenceMap data={d.diagrams.absenceMap} />}
-          {activeTab === "text" && (
-            <div className="space-y-6">
-              <FullSurahText verses={d.fullText} />
-              <OrnamentDivider />
-              <HeartVerse verse={d.heartVerse} />
-            </div>
-          )}
+          <div className="space-y-6 pt-6 border-t border-white/[0.06]"><HeartVerse verse={d.heartVerse} /></div>
         </div>
 
         {/* ── Go Deeper ────────────────────────────────────────────────────── */}

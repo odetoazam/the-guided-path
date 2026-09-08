@@ -30,18 +30,6 @@ const SURAH_DATA = {
 
   audio: { surahNumber: 35, reciter: "ar.alafasy" },
 
-  fullText: [
-    { ayah: 1, arabic: "الْحَمْدُ لِلَّهِ فَاطِرِ السَّمَاوَاتِ وَالْأَرْضِ جَاعِلِ الْمَلَائِكَةِ رُسُلًا أُولِي أَجْنِحَةٍ مَّثْنَىٰ وَثُلَاثَ وَرُبَاعَ", translation: "All praise belongs to Allah, Originator of the heavens and the earth, who made the angels messengers having wings in pairs — two, three, and four." },
-    { ayah: 2, arabic: "مَا يَفْتَحِ اللَّهُ لِلنَّاسِ مِن رَّحْمَةٍ فَلَا مُمْسِكَ لَهَا ۖ وَمَا يُمْسِكْ فَلَا مُرْسِلَ لَهُ مِن بَعْدِهِ", translation: "Whatever mercy Allah opens for people, none can withhold it. And whatever He withholds, none can release it after Him." },
-    { ayah: 3, arabic: "يَا أَيُّهَا النَّاسُ اذْكُرُوا نِعْمَتَ اللَّهِ عَلَيْكُمْ ۚ هَلْ مِنْ خَالِقٍ غَيْرُ اللَّهِ يَرْزُقُكُم مِّنَ السَّمَاءِ وَالْأَرْضِ", translation: "O humanity, remember the blessing of Allah upon you. Is there any creator other than Allah who provides for you from the sky and the earth?" },
-    { ayah: 15, arabic: "يَا أَيُّهَا النَّاسُ أَنتُمُ الْفُقَرَاءُ إِلَى اللَّهِ ۖ وَاللَّهُ هُوَ الْغَنِيُّ الْحَمِيدُ", translation: "O humanity, you are the ones in need of Allah, and Allah is the Free of need, the Praiseworthy." },
-    { ayah: 27, arabic: "أَلَمْ تَرَ أَنَّ اللَّهَ أَنزَلَ مِنَ السَّمَاءِ مَاءً فَأَخْرَجْنَا بِهِ ثَمَرَاتٍ مُّخْتَلِفًا أَلْوَانُهَا", translation: "Do you not see that Allah sends down rain from the sky, and We produce thereby fruits of varying colors?" },
-    { ayah: 28, arabic: "وَمِنَ الْجِبَالِ جُدَدٌ بِيضٌ وَحُمْرٌ مُّخْتَلِفٌ أَلْوَانُهَا وَغَرَابِيبُ سُودٌ ۝ إِنَّمَا يَخْشَى اللَّهَ مِنْ عِبَادِهِ الْعُلَمَاءُ", translation: "And in the mountains are tracts, white and red of varying shades, and raven-black. Only those among His servants who have knowledge truly fear Allah." },
-    { ayah: 32, arabic: "ثُمَّ أَوْرَثْنَا الْكِتَابَ الَّذِينَ اصْطَفَيْنَا مِنْ عِبَادِنَا ۖ فَمِنْهُمْ ظَالِمٌ لِّنَفْسِهِ وَمِنْهُم مُّقْتَصِدٌ وَمِنْهُمْ سَابِقٌ بِالْخَيْرَاتِ", translation: "Then We caused those whom We chose to inherit the Book. And among them is he who wrongs himself, the moderate, and the one foremost in good deeds." },
-    { ayah: 34, arabic: "وَقَالُوا الْحَمْدُ لِلَّهِ الَّذِي أَذْهَبَ عَنَّا الْحَزَنَ", translation: "And they will say: 'Praise to Allah who has removed from us sorrow.'" },
-    { ayah: 37, arabic: "أَوَلَمْ نُعَمِّرْكُم مَّا يَتَذَكَّرُ فِيهِ مَن تَذَكَّرَ وَجَاءَكُمُ النَّذِيرُ", translation: "Did We not give you lives long enough for whoever would reflect to reflect? And the warner came to you." },
-    { ayah: 45, arabic: "وَلَوْ يُؤَاخِذُ اللَّهُ النَّاسَ بِمَا كَسَبُوا مَا تَرَكَ عَلَىٰ ظَهْرِهَا مِن دَابَّةٍ ۚ إِنَّ اللَّهَ كَانَ بِعِبَادِهِ بَصِيرًا", translation: "If Allah were to take people to account for what they have earned, He would not leave upon the earth a single creature. Indeed, Allah is ever, of His servants, Seeing." },
-  ],
 
   diagrams: {
     sectionJourney: {
@@ -120,7 +108,6 @@ const TABS = [
   { id: "ring", label: "Ring" },
   { id: "gaze", label: "Gaze" },
   { id: "absent", label: "Absences" },
-  { id: "text", label: "Text" },
 ];
 
 // ══════════════════════════════════════════════════════════════════════════════
@@ -238,21 +225,6 @@ function HeartVerse({ verse }: { verse: typeof SURAH_DATA.heartVerse }) {
   );
 }
 
-function FullSurahText({ verses }: { verses: typeof SURAH_DATA.fullText }) {
-  return (
-    <div className="space-y-5">
-      {verses.map((v) => (
-        <div key={v.ayah} className="space-y-1">
-          <p className="text-xl leading-loose text-right text-cream font-amiri" style={{ direction: "rtl" }}>
-            {v.arabic}{" "}
-            <span className="text-sm text-cream-muted/50">﴿{v.ayah}﴾</span>
-          </p>
-          <p className="text-sm text-cream-muted/60 font-body">{v.translation}</p>
-        </div>
-      ))}
-    </div>
-  );
-}
 
 function SectionJourney({ data }: { data: typeof SURAH_DATA.diagrams.sectionJourney }) {
   return (
@@ -444,13 +416,7 @@ export default function SurahArchitecture() {
           {activeTab === "ring" && <ChiasticRing data={d.diagrams.chiasticRing} />}
           {activeTab === "gaze" && <DeductiveFunnel data={d.diagrams.deductiveFunnel} />}
           {activeTab === "absent" && <AbsenceMap data={d.diagrams.absenceMap} />}
-          {activeTab === "text" && (
-            <div className="space-y-6">
-              <FullSurahText verses={d.fullText} />
-              <OrnamentDivider />
-              <HeartVerse verse={d.heartVerse} />
-            </div>
-          )}
+          <div className="space-y-6 pt-6 border-t border-white/[0.06]"><HeartVerse verse={d.heartVerse} /></div>
         </div>
 
         {/* ── Go Deeper ────────────────────────────────────────────────────── */}

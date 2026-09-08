@@ -39,38 +39,6 @@ const SURAH_DATA = {
   },
 
   // ── Full Surah Text ────────────────────────────────────────────────────────
-  fullText: [
-    {
-      ayah: 1,
-      arabic: "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَابِ الْفِيلِ",
-      ayahRef: "105:1",
-      translation: "Have you not seen how your Lord dealt with the People of the Elephant?",
-    },
-    {
-      ayah: 2,
-      arabic: "أَلَمْ يَجْعَلْ كَيْدَهُمْ فِي تَضْلِيلٍ",
-      ayahRef: "105:2",
-      translation: "Did He not make their strategy go utterly astray?",
-    },
-    {
-      ayah: 3,
-      arabic: "وَأَرْسَلَ عَلَيْهِمْ طَيْرًا أَبَابِيلَ",
-      ayahRef: "105:3",
-      translation: "And He sent against them birds in successive waves,",
-    },
-    {
-      ayah: 4,
-      arabic: "تَرْمِيهِم بِحِجَارَةٍ مِّن سِجِّيلٍ",
-      ayahRef: "105:4",
-      translation: "striking them with stones of baked clay.",
-    },
-    {
-      ayah: 5,
-      arabic: "فَجَعَلَهُمْ كَعَصْفٍ مَّأْكُولٍ",
-      ayahRef: "105:5",
-      translation: "And He made them like consumed, chewed-up stalks.",
-    },
-  ],
 
   // ── Diagrams ──────────────────────────────────────────────────────────────
   diagrams: {
@@ -173,7 +141,7 @@ const SURAH_DATA = {
       subtitle: "The opening and closing form a precise reversal — supreme authority to absolute emptiness",
       poles: {
         opening: {
-          arabic: "رَبُّكَ",
+          arabic: "رَبُّكَ",
           label: "Rabbuka",
           ayah: "1",
           desc: "Your Lord — the supreme power, named in relation to the Prophet specifically. The widest possible frame of divine authority.",
@@ -233,7 +201,6 @@ const TABS = [
   { id: "descent", label: "Shrinking" },
   { id: "absent", label: "Absences" },
   { id: "inversion", label: "Inversion" },
-  { id: "text", label: "Text" },
 ];
 
 // ══════════════════════════════════════════════════════════════════════════════
@@ -351,21 +318,6 @@ function HeartVerse({ verse }: { verse: typeof SURAH_DATA.heartVerse }) {
   );
 }
 
-function FullSurahText({ verses }: { verses: typeof SURAH_DATA.fullText }) {
-  return (
-    <div className="space-y-5">
-      {verses.map((v) => (
-        <div key={v.ayah} className="space-y-1">
-          <p className="text-xl leading-loose text-right text-cream font-amiri" style={{ direction: "rtl" }}>
-            {v.arabic}{" "}
-            <span className="text-sm text-cream-muted/50">﴿{v.ayah}﴾</span>
-          </p>
-          <p className="text-sm text-cream-muted/60 font-body">{v.translation}</p>
-        </div>
-      ))}
-    </div>
-  );
-}
 
 function SectionJourney({ data }: { data: typeof SURAH_DATA.diagrams.sectionJourney }) {
   return (
@@ -593,13 +545,7 @@ export default function SurahArchitecture() {
           {activeTab === "descent" && <ControlledDescentViz data={d.diagrams.controlledDescent} />}
           {activeTab === "absent" && <AbsenceMap data={d.diagrams.absenceMap} />}
           {activeTab === "inversion" && <InversionFrame data={d.diagrams.inversionFrame} />}
-          {activeTab === "text" && (
-            <div className="space-y-6">
-              <FullSurahText verses={d.fullText} />
-              <OrnamentDivider />
-              <HeartVerse verse={d.heartVerse} />
-            </div>
-          )}
+          <div className="space-y-6 pt-6 border-t border-white/[0.06]"><HeartVerse verse={d.heartVerse} /></div>
         </div>
 
         {/* ── Go Deeper ────────────────────────────────────────────────────── */}

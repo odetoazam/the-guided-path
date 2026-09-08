@@ -30,27 +30,6 @@ const SURAH_DATA = {
 
   audio: { surahNumber: 96, reciter: "ar.alafasy" },
 
-  fullText: [
-    { ayah: 1, arabic: "اقْرَأْ بِاسْمِ رَبِّكَ الَّذِي خَلَقَ", translation: "Read, in the name of your Lord who created —" },
-    { ayah: 2, arabic: "خَلَقَ الْإِنسَانَ مِنْ عَلَقٍ", translation: "created the human being from a clinging clot." },
-    { ayah: 3, arabic: "اقْرَأْ وَرَبُّكَ الْأَكْرَمُ", translation: "Read, and your Lord is the Most Generous —" },
-    { ayah: 4, arabic: "الَّذِي عَلَّمَ بِالْقَلَمِ", translation: "who taught by the pen," },
-    { ayah: 5, arabic: "عَلَّمَ الْإِنسَانَ مَا لَمْ يَعْلَمْ", translation: "taught the human being what he did not know." },
-    { ayah: 6, arabic: "كَلَّا إِنَّ الْإِنسَانَ لَيَطْغَىٰ", translation: "No indeed! The human being truly transgresses —" },
-    { ayah: 7, arabic: "أَن رَّآهُ اسْتَغْنَىٰ", translation: "because he sees himself as self-sufficient." },
-    { ayah: 8, arabic: "إِنَّ إِلَىٰ رَبِّكَ الرُّجْعَىٰ", translation: "Indeed, to your Lord is the return." },
-    { ayah: 9, arabic: "أَرَأَيْتَ الَّذِي يَنْهَىٰ", translation: "Have you seen the one who forbids —" },
-    { ayah: 10, arabic: "عَبْدًا إِذَا صَلَّىٰ", translation: "a servant when he prays?" },
-    { ayah: 11, arabic: "أَرَأَيْتَ إِن كَانَ عَلَى الْهُدَىٰ", translation: "Have you considered: what if he is upon guidance," },
-    { ayah: 12, arabic: "أَوْ أَمَرَ بِالتَّقْوَىٰ", translation: "or commands righteousness?" },
-    { ayah: 13, arabic: "أَرَأَيْتَ إِن كَذَّبَ وَتَوَلَّىٰ", translation: "Have you considered: what if the forbidder has denied and turned away?" },
-    { ayah: 14, arabic: "أَلَمْ يَعْلَم بِأَنَّ اللَّهَ يَرَىٰ", translation: "Does he not know that Allah sees?" },
-    { ayah: 15, arabic: "كَلَّا لَئِن لَّمْ يَنتَهِ", translation: "No indeed! If he does not stop —" },
-    { ayah: 16, arabic: "لَنَسْفَعًا بِالنَّاصِيَةِ", translation: "We will seize him by the forelock," },
-    { ayah: 17, arabic: "نَاصِيَةٍ كَاذِبَةٍ خَاطِئَةٍ", translation: "a lying, sinful forelock." },
-    { ayah: 18, arabic: "فَلْيَدْعُ نَادِيَهُ", translation: "Then let him call his associates." },
-    { ayah: 19, arabic: "كَلَّا لَا تُطِعْهُ وَاسْجُدْ وَاقْتَرِب ۩", translation: "No. Do not obey him. Prostrate. And draw near." },
-  ],
 
   diagrams: {
     sectionJourney: {
@@ -124,7 +103,6 @@ const TABS = [
   { id: "ring", label: "Ring" },
   { id: "descent", label: "Descent" },
   { id: "absent", label: "Absences" },
-  { id: "text", label: "Text" },
 ];
 
 // ══════════════════════════════════════════════════════════════════════════════
@@ -242,21 +220,6 @@ function HeartVerse({ verse }: { verse: typeof SURAH_DATA.heartVerse }) {
   );
 }
 
-function FullSurahText({ verses }: { verses: typeof SURAH_DATA.fullText }) {
-  return (
-    <div className="space-y-5">
-      {verses.map((v) => (
-        <div key={v.ayah} className="space-y-1">
-          <p className="text-xl leading-loose text-right text-cream font-amiri" style={{ direction: "rtl" }}>
-            {v.arabic}{" "}
-            <span className="text-sm text-cream-muted/50">﴿{v.ayah}﴾</span>
-          </p>
-          <p className="text-sm text-cream-muted/60 font-body">{v.translation}</p>
-        </div>
-      ))}
-    </div>
-  );
-}
 
 function SectionJourney({ data }: { data: typeof SURAH_DATA.diagrams.sectionJourney }) {
   return (
@@ -448,13 +411,7 @@ export default function SurahArchitecture() {
           {activeTab === "ring" && <ChiasticRing data={d.diagrams.chiasticRing} />}
           {activeTab === "descent" && <DeductiveFunnel data={d.diagrams.deductiveFunnel} />}
           {activeTab === "absent" && <AbsenceMap data={d.diagrams.absenceMap} />}
-          {activeTab === "text" && (
-            <div className="space-y-6">
-              <FullSurahText verses={d.fullText} />
-              <OrnamentDivider />
-              <HeartVerse verse={d.heartVerse} />
-            </div>
-          )}
+          <div className="space-y-6 pt-6 border-t border-white/[0.06]"><HeartVerse verse={d.heartVerse} /></div>
         </div>
 
         {/* ── Go Deeper ────────────────────────────────────────────────────── */}
