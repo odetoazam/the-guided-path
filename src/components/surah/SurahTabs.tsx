@@ -8,7 +8,7 @@ import { DiagramRenderer, AudioPlayer, OrnamentDivider, HeartVerse } from '@/com
 import { NewsletterSignup } from '@/components/blog/newsletter-signup'
 import { ShareLink } from '@/components/analytics/share-link'
 import { ScrollDepthTracker } from '@/components/providers/scroll-depth-tracker'
-import { trackSurahTabSwitch } from '@/lib/analytics'
+import { trackSurahTabSwitch, trackGoDeeper } from '@/lib/analytics'
 import { Calendar, Clock } from 'lucide-react'
 import { formatDate } from '@/lib/utils'
 
@@ -244,7 +244,7 @@ export function SurahTabs({
                   <>
                     <OrnamentDivider />
                     <button
-                      onClick={() => switchTopTab('reflection')}
+                      onClick={() => { switchTopTab('reflection'); trackGoDeeper(`/surahs/${surahSlug}`, 'reflection') }}
                       className="w-full rounded-xl bg-gold-500/5 border border-gold-500/20 p-5 text-center space-y-1 hover:bg-gold-500/10 hover:border-gold-500/30 transition-all"
                     >
                       <div className="text-sm font-semibold text-gold-500 tracking-wide font-sans uppercase">

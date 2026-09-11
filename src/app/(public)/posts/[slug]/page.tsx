@@ -16,6 +16,8 @@ import { PostActions } from '@/components/PostActions'
 import { ReflectionEditor } from '@/components/ReflectionEditor'
 import { SelectionQuoteShare } from '@/components/share/SelectionQuoteShare'
 import { CATEGORY_STYLES } from '@/lib/entity-categories'
+import { ShareLink } from '@/components/analytics/share-link'
+import { TrackedLink } from '@/components/analytics/tracked-link'
 
 interface Props {
   params: Promise<{ slug: string }>
@@ -378,13 +380,15 @@ export default async function PostPage({ params }: Props) {
           {primaryEntities.length > 0 ? (
             <div className="mb-5 flex flex-wrap gap-2">
               {primaryEntities.map((entity) => (
-                <Link
+                <TrackedLink
                   key={entity.id}
+                  event="entity_tag_click"
+                  properties={{ entity_slug: entity.slug, from_page: `/posts/${post.slug}` }}
                   href={`/hub/${entity.slug}`}
                   className={`rounded-full border px-3 py-1 text-xs font-medium tracking-wide uppercase transition-opacity hover:opacity-80 ${CATEGORY_STYLES[entity.category] || 'bg-gold-500/10 text-gold-400 border-gold-500/15'}`}
                 >
                   {entity.name_translit}
-                </Link>
+                </TrackedLink>
               ))}
             </div>
           ) : post.tags && post.tags.length > 0 ? (
@@ -479,8 +483,10 @@ export default async function PostPage({ params }: Props) {
             </p>
             <div className="flex flex-wrap gap-2">
               {entityTags.map((entity) => (
-                <Link
+                <TrackedLink
                   key={entity.id}
+                  event="entity_tag_click"
+                  properties={{ entity_slug: entity.slug, from_page: `/posts/${post.slug}` }}
                   href={`/hub/${entity.slug}`}
                   className={`rounded-full border px-3 py-1.5 text-xs font-medium transition-opacity hover:opacity-80 ${CATEGORY_STYLES[entity.category] || 'bg-gold-500/10 text-gold-400 border-gold-500/15'}`}
                 >
@@ -488,7 +494,7 @@ export default async function PostPage({ params }: Props) {
                   {entity.name_english && (
                     <span className="ml-1 opacity-60">({entity.name_english})</span>
                   )}
-                </Link>
+                </TrackedLink>
               ))}
             </div>
           </div>
@@ -507,28 +513,33 @@ export default async function PostPage({ params }: Props) {
         {/* Share */}
         <div className="mt-8 flex items-center justify-center gap-6 text-sm">
           <span className="text-zinc-500">Share:</span>
-          <a
+          <ShareLink
+            platform="twitter"
+            contentType="post"
+            slug={post.slug}
             href={`https://twitter.com/intent/tweet?text=${encodeURIComponent(post.title)}&url=${encodeURIComponent(postUrl)}`}
-            target="_blank"
-            rel="noopener noreferrer"
             className="text-zinc-400 hover:text-gold-500 transition-colors font-medium"
           >
             Twitter/X
-          </a>
-          <a
+          </ShareLink>
+          <ShareLink
+            platform="whatsapp"
+            contentType="post"
+            slug={post.slug}
             href={`https://wa.me/?text=${encodeURIComponent(`${post.title} — ${postUrl}`)}`}
-            target="_blank"
-            rel="noopener noreferrer"
             className="text-zinc-400 hover:text-gold-500 transition-colors font-medium"
           >
             WhatsApp
-          </a>
-          <a
+          </ShareLink>
+          <ShareLink
+            platform="email"
+            contentType="post"
+            slug={post.slug}
             href={`mailto:?subject=${encodeURIComponent(post.title)}&body=${encodeURIComponent(`Check out this reflection: ${postUrl}`)}`}
             className="text-zinc-400 hover:text-gold-500 transition-colors font-medium"
           >
             Email
-          </a>
+          </ShareLink>
         </div>
 
         {/* Related Content */}

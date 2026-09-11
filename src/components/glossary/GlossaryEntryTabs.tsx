@@ -4,6 +4,7 @@ import { useState } from 'react'
 import Link from 'next/link'
 import type { GlossaryEntry, RootForm, SemanticConnection, SemanticRelationship, WordAnnotation } from '@/data/glossary'
 import { GLOSSARY_ENTRIES } from '@/data/glossary'
+import { trackGoDeeper } from '@/lib/analytics'
 
 // ── Types ─────────────────────────────────────────────────────────────────────
 
@@ -796,6 +797,7 @@ export function GlossaryEntryTabs({ entry }: { entry: GlossaryEntry }) {
                   <Link
                     key={d.slug}
                     href={`/surahs/${d.slug}`}
+                    onClick={() => trackGoDeeper(`/glossary/${entry.slug}`, `/surahs/${d.slug}`)}
                     className="group flex items-start gap-4 rounded-2xl border border-zinc-200 dark:border-white/[0.05] bg-zinc-50 dark:bg-white/[0.02] px-5 py-4 transition-all hover:border-[rgba(212,175,55,0.18)]"
                   >
                     <div className="mt-1 h-1.5 w-1.5 shrink-0 rounded-full" style={{ background: g(0.4) }} />

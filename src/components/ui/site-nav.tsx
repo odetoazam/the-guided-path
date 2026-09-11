@@ -5,6 +5,7 @@ import Link from 'next/link'
 import { usePathname, useRouter } from 'next/navigation'
 import { Logo } from '@/components/ui/logo'
 import { ThemeToggle } from '@/components/ui/theme-toggle'
+import { handleNavClick } from '@/components/analytics/nav-click-tracker'
 import { createClient } from '@/lib/supabase/client'
 import type { User } from '@supabase/supabase-js'
 
@@ -84,7 +85,10 @@ export function SiteNav() {
   )
 
   return (
-    <nav className="sticky top-0 z-50 border-b border-zinc-200 dark:border-navy-medium bg-white/80 dark:bg-navy-dark/80 backdrop-blur-xl">
+    <nav
+      className="sticky top-0 z-50 border-b border-zinc-200 dark:border-navy-medium bg-white/80 dark:bg-navy-dark/80 backdrop-blur-xl"
+      onClickCapture={(e) => handleNavClick(e, window.matchMedia('(min-width: 768px)').matches ? 'header' : 'mobile')}
+    >
       <div className="mx-auto flex max-w-6xl items-center justify-between px-6 py-3.5">
         <Logo />
 

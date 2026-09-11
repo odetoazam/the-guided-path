@@ -4,6 +4,7 @@ import { BookOpen } from 'lucide-react'
 import { NewsletterSignup } from '@/components/blog/newsletter-signup'
 import { SiteNav } from '@/components/ui/site-nav'
 import { Logo } from '@/components/ui/logo'
+import { NavClickTracker } from '@/components/analytics/nav-click-tracker'
 import { SurahMapTeaser } from '@/components/surah/SurahMapTeaser'
 import { PathCard } from '@/components/paths/PathCard'
 import { createClient } from '@/lib/supabase/server'
@@ -376,7 +377,7 @@ export default async function LandingPage() {
         <div className="mx-auto max-w-6xl flex flex-col items-center gap-6">
           <Logo />
 
-          <div className="flex flex-wrap justify-center items-center gap-6 text-sm text-zinc-400 dark:text-cream/40">
+          <NavClickTracker section="footer" className="flex flex-wrap justify-center items-center gap-6 text-sm text-zinc-400 dark:text-cream/40">
             <Link href="/surahs" className="hover:text-navy dark:hover:text-cream transition-colors">
               Surahs
             </Link>
@@ -401,7 +402,7 @@ export default async function LandingPage() {
             <Link href="/terms" className="hover:text-navy dark:hover:text-cream transition-colors">
               Terms
             </Link>
-          </div>
+          </NavClickTracker>
 
           <svg width="16" height="16" viewBox="0 0 24 24" aria-hidden className="text-[#C9A84C]/20">
             <polygon
