@@ -50,7 +50,7 @@ export function ReflectionEditor({ slug, type = 'post' }: Props) {
         setExpanded(true)
       }
       setLoading(false)
-    })
+    }).catch(() => {})
     return () => { cancelled = true }
   }, [slug, type])
 
