@@ -1,6 +1,6 @@
 'use client'
 
-import posthog from 'posthog-js'
+import posthog, { type CaptureResult } from 'posthog-js'
 import { PostHogProvider as PHProvider, usePostHog } from 'posthog-js/react'
 import { usePathname, useSearchParams } from 'next/navigation'
 import { useEffect, useState, useRef, Suspense } from 'react'
@@ -22,6 +22,19 @@ function isLocalStorageAccessible() {
   }
 }
 
+// A cancelled session read (Supabase auth serializes concurrent reads with
+// Web Locks and aborts the losers) surfaces as a benign, unreadable AbortError.
+// It has no user-visible effect, so keep it out of error tracking.
+function isBenignAbortError(event: CaptureResult): boolean {
+  if (event.event !== '$exception') return false
+  const list = event.properties?.$exception_list as
+    | Array<{ type?: string; value?: string }>
+    | undefined
+  return !!list?.some(
+    (e) => e.type === 'AbortError' && e.value?.includes('signal is aborted without reason')
+  )
+}
+
 function initPostHog() {
   if (!POSTHOG_KEY || posthogInitialized) return
   posthog.init(POSTHOG_KEY, {
@@ -32,6 +45,10 @@ function initPostHog() {
     capture_pageview: false,
     capture_pageleave: true,
     persistence: isLocalStorageAccessible() ? 'localStorage+cookie' : 'memory',
+    before_send: (event) => {
+      if (event && isBenignAbortError(event)) return null
+      return event
+    },
     loaded: (ph) => {
       if (process.env.NODE_ENV === 'development') ph.debug()
     },

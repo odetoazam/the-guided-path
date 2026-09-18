@@ -32,7 +32,7 @@ export function CourseModuleList({ courseSlug, modules }: Props) {
         .eq('content_type', 'course')
         .like('slug', `${courseSlug}/%`)
       if (data) setDone(new Set(data.map((r) => r.slug)))
-    })
+    }).catch(() => {})
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [courseSlug])
 

@@ -30,7 +30,7 @@ export function SurahActions({ slug }: Props) {
       const alreadyRead = !!progRes.data
       setIsRead(alreadyRead)
       if (alreadyRead) trackContentReturn(slug, 'surah')
-    })
+    }).catch(() => {})
 
     const { data: { subscription } } = supabase.auth.onAuthStateChange((_e, session) => {
       setLoggedIn(!!session)

@@ -33,7 +33,7 @@ export function CourseModuleActions({ progressSlug, nextHref, nextTitle, courseH
         .eq('content_type', 'course')
         .maybeSingle()
       setIsDone(!!data)
-    })
+    }).catch(() => {})
     const { data: { subscription } } = supabase.auth.onAuthStateChange((_e, session) => {
       setLoggedIn(!!session)
     })
