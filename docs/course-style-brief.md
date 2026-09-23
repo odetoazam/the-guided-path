@@ -93,3 +93,86 @@ Back up `content/courses/` first, then compare each rewritten file to its backup
 every `<blockquote class="ayah-quote">` byte-identical, no new Arabic tokens, same h1,
 no dropped links, same h2 count, length within 20%. The script itself was a scratchpad
 file; the rules above are what it checked, and `check:courses` carries the dash gate.
+
+---
+
+# Second pass — make it FLOW (the founder's second note)
+
+The first pass removed dashes and hype, but it chopped the prose into fragments. The
+founder quoted this line from the Ādam course:
+
+> They eat. What was promised, immortality and a kingdom that never ends, does not
+> arrive. What arrives is exposure.
+
+and wrote how it should read:
+
+> As they eat, none of the immortality arrives. Instead, they start feeling shame, and
+> covering themselves with leaves.
+
+His words: "Why is this written in such a disjointed voice? It should be easy to read
+for me, and the listener should know what's going on. Not this fancy weird AI style."
+
+**His rewrite is the standard.** Notice what it does: it joins the events into one
+natural sentence ("As they eat…"), it uses a plain human word ("shame") instead of an
+abstract one ("exposure"), it says what they actually do ("covering themselves with
+leaves"), and it uses an ordinary connector ("Instead"). It sounds like a person
+telling a friend what happened.
+
+## The voice to write in
+
+Imagine a kind, well-read teacher telling this story to a friend over tea, a friend
+who is smart but reads English as a second language and has never studied tafsir.
+The teacher does not perform. They just explain clearly, in order, so the listener
+always knows who is doing what and why it matters.
+
+- **Sentences flow into each other.** Use "as", "when", "then", "so", "because",
+  "but", "instead", "after that", "which is why". A good sentence is often 12 to 25
+  words. Short is fine when it is natural. Choppy is not.
+- **Plain, concrete words.** Say what people do and feel. "shame" not "exposure".
+  "what God told them not to do" not "the prohibition". "the scholars disagreed" not
+  "there is a recorded difference".
+- **The listener always knows what is going on.** Name who is speaking. Say what
+  just happened before saying what it means.
+
+## Patterns to remove everywhere (these are the "AI" tells that remain)
+
+1. **Fragments and staccato.** "They eat." "He is startled." "The house." "You knew."
+   "The promotion." Join them into the sentence they belong to.
+2. **"What X is Y" sentences.** "What arrives is exposure." "What counts here is his
+   exit line." "What he names is a displacement." Say it directly: "His last words
+   matter most here."
+3. **Mirror pairs for rhythm.** "What was promised … does not arrive. What arrives
+   is …" / "Everyone else plots against someone. Heaven plots for someone." Say the
+   point once, plainly.
+4. **Comma appositives that stall the sentence.** "What was promised, immortality and
+   a kingdom that never ends, does not arrive." These came from replacing dashes with
+   commas. Rebuild the sentence instead.
+5. **Clever metaphors that need decoding.** "God states the policy, and the man who
+   lived it countersigns it." "The word runs through the sūrah like a wire." "turns
+   the machine inside out." Use a metaphor only if a 14-year-old gets it instantly;
+   otherwise say the plain thing.
+6. **Abstract nouns doing the work of verbs.** "the descent carries an enmity clause"
+   → "when they are sent down, God tells them they will be enemies to one another".
+7. **Leftover signposting.** "One note first." "Take them slowly." "One sentence to
+   carry in." Just start saying the thing.
+8. **Teacherly labels** like "the flagship", "the spine", "the machinery", "the tag".
+
+## Unchanged hard rules (the guard script still enforces them)
+
+- Every `<blockquote class="ayah-quote">` stays byte-identical. Never type Arabic.
+  After each Write, splice the original blockquotes back programmatically from the
+  backup in a backup of content/courses/ (the Write tool drifts Uthmani text), then run the guard.
+- Keep every fact, every named scholar, every "X held this, Y held that", every guard
+  clause and limit clause. Depth stays. Add no new claims about what a verse says.
+- Keep the h1 text, the top HTML comments, all links, the h2 count and order, the
+  course map in module-0 (titles unchanged), and each module's ending point.
+- No em-dashes in prose (the course gate fails above 3 per 1000 words).
+- Length within about 15% of the current file.
+- Ignore the readability checker's grade number. Flowing 20-25 word sentences are
+  fine and wanted. Only fix sentences over 35 words.
+
+## The test for every paragraph
+
+Read it aloud. Would someone listening, who has never read this story, follow it
+without effort and never feel they are being performed at? If any sentence sounds
+like a movie trailer, a tweet, or a riddle, rewrite it as plain storytelling.
