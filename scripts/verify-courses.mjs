@@ -61,6 +61,22 @@ for (const course of readdirSync(COURSES_DIR)) {
     const v = voiceVerdict(voiceScan(html))
     if (v === 'FAIL') fail(`${rel}: voice gate FAIL (manufactured contrast) — run the voice report`)
 
+    // 6. dash density — the "AI trailer" register. On 2026-09-22 Azam read the
+    //    courses and called them "completely AI driven": em-dashes as the main
+    //    punctuation (40-76 per module), suspense signposts, one-word drama
+    //    sentences. Every module PASSED readability and voice that day. Count
+    //    em-dashes in prose only (blockquote translations are canonical and
+    //    untouchable) and fail above 3 per 1000 words.
+    //    Labels are not prose: "Module 3 — Two Sentences" in the course map and
+    //    "12:22 — the prisoners:" verse tags sit in <strong>/<h1>/<h2>; strip them.
+    const prose = bodyArabic
+      .replace(/<blockquote class="ayah-quote">[\s\S]*?<\/blockquote>/g, '')
+      .replace(/<(strong|h1|h2)\b[^>]*>[\s\S]*?<\/\1>/g, '')
+    const proseWords = prose.replace(/<[^>]+>/g, ' ').split(/\s+/).filter(Boolean).length
+    const dashes = (prose.match(/—/g) || []).length
+    const perK = proseWords ? (dashes / proseWords) * 1000 : 0
+    if (perK > 3) fail(`${rel}: ${dashes} em-dashes in ${proseWords} words of prose (${perK.toFixed(1)}/1000, limit 3) — trailer register, rewrite`)
+
     // 3. exact canonical match (verify_arabic warnings = diacritic drift = fail)
     if (tagCount > 0) {
       const out = execFileSync('node', [path.join(ROOT, 'scripts', 'verify_arabic.mjs'), file], {

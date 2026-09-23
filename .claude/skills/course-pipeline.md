@@ -145,7 +145,19 @@ Locked across all courses; do not re-invent per course.
    ours. Attribute, don't adopt. Never silently delete.
 6. **No manufactured contrast.** The `This is not X. It is Y.` tic was in 62% of pages.
    `npm run check:voice`.
-7. **For an adversary course specifically**: exhibit, never protagonist. Never teach a
+7. **No trailer register (Azam, 2026-09-22: "the courses look completely AI driven.
+   it's trash").** Every module passed readability AND the voice gate that day. What he
+   was reacting to: em-dashes as the main punctuation (40-76 per module), suspense
+   signposts ("Keep that sentence; Module 2 lives inside it", "Hold on to two details"),
+   one-word drama sentences ("Chosen. After."), hype ("may be the most humane thing ever
+   said"), stage directions ("listen to", "notice", "what matters tonight"), colon
+   punchlines, and announced honesty ("we do not get to soften it"). The target voice is
+   the praised divine-name articles (`al-baqi`): calm, declarative, patient, plain, and
+   still carrying every named holder and guard clause. Say the thing; do not stage it.
+   **Gate:** `check:courses` now fails a module above 3 em-dashes per 1000 words of
+   prose. The whole set was rewritten to this standard on 2026-09-22; the rewrite brief
+   and the byte-exact Arabic guard live in `docs/course-style-brief.md`.
+8. **For an adversary course specifically**: exhibit, never protagonist. Never teach a
    mechanism without its limit clauses welded on in the same breath, or it reads as a how-to.
    No taxonomy that fuses sorcery with whispering.
 
