@@ -38,7 +38,7 @@ export const COURSES: Course[] = [
         number: 0,
         title: 'Start Here — The Story',
         teaser:
-          'The whole life in order, told the way you would tell it to a friend — and why the Quran chose to scatter what we gather here.',
+          'His whole life in order, from the Quran and the authentic sayings of the Prophet ﷺ. It begins before his birth, when Ādam gives him forty years.',
       },
       {
         slug: 'the-complete-man',
@@ -93,7 +93,7 @@ export const COURSES: Course[] = [
         number: 0,
         title: 'Start Here — The Story',
         teaser:
-          'For once the Quran tells it straight through — thirty verses, one chapter, beginning to end. Read it the way it was given.',
+          'His whole life in order, from the case he judged beside his father to the day he died leaning on his staff.',
       },
       {
         slug: 'everything-and-everyone',
@@ -148,7 +148,7 @@ export const COURSES: Course[] = [
         number: 0,
         title: 'Start Here — The Story',
         teaser:
-          'The whole life assembled honestly from its seven tellings — announcement, honour, whisper, fall, and the words that came down.',
+          'His whole life in order, from his creation to his death. It includes the day he saw all his children, and the forty years he gave away.',
       },
       {
         slug: 'made-and-taught',
@@ -201,9 +201,9 @@ export const COURSES: Course[] = [
       {
         slug: 'the-scene',
         number: 0,
-        title: 'Start Here — The Scene',
+        title: 'Start Here — The Story',
         teaser:
-          'The refusal, told straight — and the honest frame: why there is no arc here, and what we are studying instead.',
+          'His whole story in order, from his creation and his refusal to his last words on the Day of Judgement.',
       },
       {
         slug: 'i-am-better-than-him',
@@ -258,7 +258,7 @@ export const COURSES: Course[] = [
         number: 0,
         title: 'Start Here — The Story',
         teaser:
-          'The best of stories, in the Quran\'s own order — dream to well to prison to throne, and the dream clicking shut at the end.',
+          'The best of stories, told in order from his childhood dream to his death, with what the Prophet ﷺ said about him.',
       },
       {
         slug: 'loved-and-thrown-away',
@@ -313,7 +313,7 @@ export const COURSES: Course[] = [
         number: 0,
         title: 'Start Here — The Story',
         teaser:
-          'From a vow made before her birth to a verdict near the end of the Quran — the whole arc, assembled honestly from its two tellings.',
+          'Her whole life in order, from her mother\'s vow before she was born to her place among the best women of Paradise.',
       },
       {
         slug: 'the-vow-and-the-girl',

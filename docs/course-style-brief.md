@@ -176,3 +176,135 @@ always knows who is doing what and why it matters.
 Read it aloud. Would someone listening, who has never read this story, follow it
 without effort and never feel they are being performed at? If any sentence sounds
 like a movie trailer, a tweet, or a riddle, rewrite it as plain storytelling.
+
+---
+
+# Start Here: the WHOLE life, with all the details
+
+The founder, after reading the plain-story pages:
+
+> "Adam's story should be all the way from creation all the way to him dying. That's
+> how EACH story should be. You can include some linguistic stuff, but it should be
+> written in eloquent yet easy to follow English. Not a lot of commas and complex
+> writing style. I noticed it's still there. The point is to learn about the story
+> with all the details. You didn't even mention when Adam gave part of his life to
+> Dawud because he liked him. You're missing a lot of details."
+
+So the Start Here page (module-0.html) becomes the full life story of this person:
+from the beginning (birth, or creation) to the end (death, or the last thing the
+sources tell us), in order, with every detail the reliable sources give.
+
+## Sources: what may go in, and how it is labelled
+
+Local full texts (JSON, `{pages:[{text,vol,page}]}`) at `~/turath-corpus/books/<id>.json`:
+
+| id | book | use |
+|---|---|---|
+| 932 | Ibn Kathīr, Qiṣaṣ al-Anbiyāʾ (from al-Bidāya) | THE SPINE. Follow his order of the life. He grades hadith and flags isrāʾīliyyāt. |
+| 735 | Ṣaḥīḥ al-Bukhārī | authentic |
+| 1727 | Ṣaḥīḥ Muslim (ʿAbd al-Bāqī) | authentic |
+| 7895 | Sunan al-Tirmidhī (ed. Bashshār, with al-Tirmidhī's grading) | use only if graded ṣaḥīḥ or ḥasan |
+| 25794 | Musnad Aḥmad (al-Risāla, with al-Arnaʾūṭ's grading in footnotes) | use only if graded ṣaḥīḥ or ḥasan |
+| 8473 / 7798 | Tafsīr Ibn Kathīr / al-Ṭabarī | Companion reports and gradings |
+
+Search tip: Arabic has diacritics. Normalize before searching: NFC, strip the
+explicit set ًٌٍَُِّْٰٕٓٔـ (never a range), fold أإآ→ا, ى→ي, ة→ه. Search the
+normalized text.
+
+**Allowed, in this order of strength:**
+1. **The Quran.** Say it as "The Quran says…" or quote the verse.
+2. **Authentic hadith.** In al-Bukhārī or Muslim, or graded ṣaḥīḥ/ḥasan by
+   al-Tirmidhī, al-Arnaʾūṭ or Ibn Kathīr. Write it as "The Prophet ﷺ said…" and put
+   the source in brackets at the end of the sentence or paragraph, like
+   (al-Bukhārī) or (al-Tirmidhī, who graded it sound).
+3. **Reports from Companions or early scholars** that are not isrāʾīliyyāt. Name who
+   said it: "Ibn ʿAbbās said…". Use sparingly, only for real story details.
+
+**Never allowed:**
+- Anything Ibn Kathīr (or another source) flags as isrāʾīliyyāt, from the People of
+  the Book, or weak/fabricated (ضعيف، منكر، موضوع، لا يصح، من الإسرائيليات،
+  أخبار أهل الكتاب). If a famous detail is only in those, you may say in one line:
+  "Many popular retellings add X, but it does not come from a reliable source."
+- Names, numbers, dates or places no allowed source gives.
+- Stating a disputed point as fact. If scholars disagree, one short attributed
+  sentence, or leave it out.
+
+**Verify every hadith you use in the actual book text** (Bukhārī/Muslim, or the
+graded edition). Record the book id + page for each in an HTML comment at the bottom
+of the file, like `<!-- SOURCES: Adam-Dawud 40 years = Tirmidhi 7895 vol5 p.xxx, graded hasan sahih -->`.
+Do not rely on memory for any hadith or its grade.
+
+Example of a detail that MUST be in the Ādam page: the Prophet ﷺ said that when God
+showed Ādam his descendants, Ādam saw a man whose light he admired. He was told it
+was Dāwūd, whose life was sixty years. Ādam asked God to give Dāwūd forty years
+from his own life. When the angel of death came, Ādam said forty years of his life
+were left. He had forgotten his gift, and his children forget too. (Find it in
+al-Tirmidhī, check the grading, and tell it in your own plain words.)
+
+## Writing style
+
+Eloquent yet easy. Think of a gifted storyteller reading aloud to a family.
+
+- **Few commas.** Most sentences have zero or one comma. Never more than two. If a
+  sentence needs three commas, it is two sentences.
+- **One idea per sentence, but connected.** Use "so", "then", "but", "when",
+  "because", "after that" to lead from one sentence to the next. Not choppy. Not
+  fragments.
+- **No stacked clauses, no asides, no brackets in the middle of a sentence.**
+  Source brackets go at the end.
+- **Plain concrete words.** Say what people did, said and felt.
+- **No dashes. No "What X is Y". No mirror pairs. No stage directions ("notice",
+  "listen"). No hype.**
+- **Some linguistic insight is welcome**, but only two or three small moments on the
+  whole page, each one or two sentences, and only where it makes the story richer.
+  Give the Arabic word in simple transliteration with its meaning.
+
+Model sentence (the founder's own): "As they eat, none of the immortality arrives.
+Instead, they start feeling shame, and covering themselves with leaves."
+
+## Structure
+
+- Keep the h1 and the top HTML comments. Add a comment line: "2026-09-24: rebuilt as
+  the full life story (Quran + authentic hadith), per Azam."
+- Open with two or three sentences: this is the whole life of X, from the Quran and
+  the authentic sayings of the Prophet ﷺ, told in order.
+- Chronological sections with short plain h2 headings, from beginning to end.
+- End with his or her death, or what the sources say about the end. If no reliable
+  source describes the death, say so in one sentence.
+- Then the course map `<ul>` (same module titles, one plain sentence each) and one
+  closing line.
+- Length: as long as the life needs. Probably 2,000 to 3,500 words. Every paragraph
+  must carry story, not commentary.
+
+## Verses and Arabic (hard rules)
+
+- **Never type Arabic.** No Arabic script in the prose at all. Hadith go in English
+  only.
+- You may keep the page's existing verse blockquotes (byte-identical: splice them from
+  the current file, never retype) and you may add new ones. For a new one, write:
+  ```html
+  <blockquote class="ayah-quote">
+    <p class="arabic" data-ayah="S:A" dir="rtl">@@ARABIC@@</p>
+    <p class="translation">"…English…"</p>
+    <cite>Sūrah Name (S:A)</cite>
+  </blockquote>
+  ```
+  then run `node /Users/azamkhan/the-guided-path/scripts/fill-ayah-placeholders.mjs <file>`.
+  Whole ayahs only. Keep verse blockquotes to about 8 or fewer; tell the rest in prose.
+- Method: save a backup of the current file in the scratchpad first. Write the draft
+  with @@BQ0@@… placeholders for kept blockquotes, splice them programmatically, then
+  fill new @@ARABIC@@ placeholders with the script.
+
+## Checks before you finish
+
+1. `node /Users/azamkhan/the-guided-path/scripts/verify-courses.mjs` must not list
+   your file.
+2. `node /Users/azamkhan/the-guided-path/scripts/verify_readability.mjs <file>`: fix
+   any sentence over 30 words. Ignore the length warning.
+3. Count sentences with three or more commas in your prose. Target zero.
+4. Fact pass: for every sentence that says what a verse or hadith says, re-check it
+   against the text. Cut anything you cannot source.
+
+Only edit your course's module-0.html. No git. Report: word count, the list of
+hadith/reports used with book id, page and grade, anything famous you deliberately
+left out and why, and any fact you were unsure of.
