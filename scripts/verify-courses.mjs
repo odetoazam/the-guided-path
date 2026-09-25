@@ -16,6 +16,7 @@ import { readFileSync, existsSync, readdirSync } from 'fs'
 import { execFileSync } from 'child_process'
 import path from 'path'
 import { scan as voiceScan, verdict as voiceVerdict } from './verify_voice.mjs'
+import { proseOf } from './verify_readability.mjs'
 
 const ROOT = path.join(process.cwd())
 const COURSES_DIR = path.join(ROOT, 'content', 'courses')
@@ -76,6 +77,15 @@ for (const course of readdirSync(COURSES_DIR)) {
     const dashes = (prose.match(/—/g) || []).length
     const perK = proseWords ? (dashes / proseWords) * 1000 : 0
     if (perK > 3) fail(`${rel}: ${dashes} em-dashes in ${proseWords} words of prose (${perK.toFixed(1)}/1000, limit 3) — trailer register, rewrite`)
+
+    // 7. comma-heavy sentences. Azam, 2026-09-24: "not a lot of commas and complex
+    //    writing style. I noticed it's still there." A sentence with 3+ commas is
+    //    almost always stacked clauses. Fail above 5% of sentences.
+    const plain = proseOf(bodyArabic.replace(/<blockquote class="ayah-quote">[\s\S]*?<\/blockquote>/g, ' '))
+    const sents = plain.split(/(?<=[.!?])\s+|(?<=[.!?]["”’'])\s+|§/).map((x) => x.trim()).filter((x) => x.split(/\s+/).length > 3)
+    const heavy = sents.filter((x) => (x.match(/,/g) || []).length >= 3).length
+    if (sents.length && heavy / sents.length > 0.05)
+      fail(`${rel}: ${heavy} of ${sents.length} sentences carry 3+ commas (limit 5%) — split them`)
 
     // 3. exact canonical match (verify_arabic warnings = diacritic drift = fail)
     if (tagCount > 0) {
