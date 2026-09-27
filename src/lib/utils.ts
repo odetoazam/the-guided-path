@@ -14,6 +14,12 @@ export function formatRelativeDate(date: string | Date) {
   return formatDistanceToNow(new Date(date), { addSuffix: true })
 }
 
+// seo_title values often already end in "| AyahGuide"; the root layout's
+// title template appends it again, so strip any trailing brand before use.
+export function stripSiteSuffix(title: string): string {
+  return title.replace(/(\s*[|—–-]\s*AyahGuide)+\s*$/i, '').trim()
+}
+
 export function generateSlug(title: string): string {
   return title
     .toLowerCase()
