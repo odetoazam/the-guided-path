@@ -1,7 +1,7 @@
 import Image from 'next/image'
 import { notFound } from 'next/navigation'
 import { createClient } from '@/lib/supabase/server'
-import { formatDate, isRTL } from '@/lib/utils'
+import { formatDate, isRTL, stripSiteSuffix } from '@/lib/utils'
 import { NewsletterSignup } from '@/components/blog/newsletter-signup'
 import { ScrollDepthTracker } from '@/components/providers/scroll-depth-tracker'
 import { Clock, Calendar, ArrowLeft } from 'lucide-react'
@@ -223,7 +223,8 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   if (!post) return { title: 'Not Found' }
 
   const postUrl = `${CANONICAL_URL}/posts/${slug}`
-  const title = post.seo_title || post.title
+  const title = stripSiteSuffix(post.seo_title || post.title)
+  const socialTitle = `${title} | ${SITE_NAME}`
   const description = post.seo_description || post.excerpt || `A deep Quranic reflection (tadabbur) on ${post.title} by AyahGuide.`
   const fallbackOgImage = `/api/og/quote?text=${encodeURIComponent((post.excerpt || post.title).slice(0, 200))}&cite=${encodeURIComponent(post.title.slice(0, 80))}`
   const ogImages = post.featured_image
@@ -238,7 +239,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       canonical: postUrl,
     },
     openGraph: {
-      title,
+      title: socialTitle,
       description,
       type: 'article',
       url: postUrl,
@@ -250,7 +251,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     },
     twitter: {
       card: 'summary_large_image',
-      title,
+      title: socialTitle,
       description,
       images: [post.featured_image ?? fallbackOgImage],
     },

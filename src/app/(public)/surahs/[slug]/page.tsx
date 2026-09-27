@@ -8,6 +8,7 @@ import { SurahTabs } from '@/components/surah/SurahTabs'
 import { SurahActions } from '@/components/SurahActions'
 import type { Metadata } from 'next'
 import { CANONICAL_URL, SITE_NAME } from '@/lib/constants'
+import { stripSiteSuffix } from '@/lib/utils'
 
 const BISMILLAH = 'بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ'
 
@@ -39,7 +40,8 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const post = await getSurahPost(n)
   const pageUrl = `${CANONICAL_URL}/surahs/${slug}`
 
-  const title = post?.seo_title || `Surah ${surah.nameEn} (${surah.nameAr}) — Reflections & Analysis`
+  const title = stripSiteSuffix(post?.seo_title || `Surah ${surah.nameEn} (${surah.nameAr}) — Reflections & Analysis`)
+  const socialTitle = `${title} | ${SITE_NAME}`
   const description = post?.seo_description || post?.excerpt ||
     `Deep Quranic reflection (tadabbur) on Surah ${surah.nameEn}, the ${n}${n === 1 ? 'st' : n === 2 ? 'nd' : n === 3 ? 'rd' : 'th'} chapter of the Quran.`
   const fallbackOg = `/api/og/quote?text=${encodeURIComponent((post?.excerpt || description).slice(0, 200))}&cite=${encodeURIComponent(`Surah ${surah.nameEn}`)}&arabic=${encodeURIComponent(surah.nameAr)}`
@@ -52,7 +54,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     description,
     alternates: { canonical: pageUrl },
     openGraph: {
-      title,
+      title: socialTitle,
       description,
       type: 'article',
       url: pageUrl,
@@ -62,7 +64,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     },
     twitter: {
       card: 'summary_large_image',
-      title,
+      title: socialTitle,
       description,
       images: [post?.featured_image ?? fallbackOg],
     },
@@ -123,7 +125,7 @@ export default async function SurahDetailPage({ params }: Props) {
   const articleJsonLd = post ? {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: post.seo_title || post.title,
+    headline: stripSiteSuffix(post.seo_title || post.title),
     description: (post.seo_description || post.excerpt || '').slice(0, 160),
     image: { '@type': 'ImageObject', url: surahOgImage, width: 1200, height: 630 },
     articleBody: post.content_html
