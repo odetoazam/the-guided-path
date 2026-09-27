@@ -23,6 +23,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     { url: `${CANONICAL_URL}/ulum-al-quran`, lastModified: now, changeFrequency: 'monthly', priority: 0.8 },
     { url: `${CANONICAL_URL}/articles`, lastModified: now, changeFrequency: 'daily', priority: 0.8 },
     { url: `${CANONICAL_URL}/paths`, lastModified: now, changeFrequency: 'monthly', priority: 0.8 },
+    { url: `${CANONICAL_URL}/start`, lastModified: now, changeFrequency: 'monthly', priority: 0.8 },
     { url: `${CANONICAL_URL}/courses`, lastModified: now, changeFrequency: 'monthly', priority: 0.85 },
     { url: `${CANONICAL_URL}/names`, lastModified: now, changeFrequency: 'weekly', priority: 0.85 },
     { url: `${CANONICAL_URL}/prophets`, lastModified: now, changeFrequency: 'weekly', priority: 0.85 },

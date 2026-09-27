@@ -7,6 +7,7 @@ import { Logo } from '@/components/ui/logo'
 import { NavClickTracker } from '@/components/analytics/nav-click-tracker'
 import { SurahMapTeaser } from '@/components/surah/SurahMapTeaser'
 import { PathCard } from '@/components/paths/PathCard'
+import { StartHere } from '@/components/ui/start-here'
 import { createClient } from '@/lib/supabase/server'
 import { CANONICAL_URL, SITE_NAME, SITE_DESCRIPTION } from '@/lib/constants'
 import { PATHS } from '@/data/paths'
@@ -211,15 +212,16 @@ export default async function LandingPage() {
           {/* Start here hint */}
           <div className="mt-4 text-sm text-zinc-400 dark:text-cream/40">
             ✦ New here?{' '}
-            <Link href="/surahs/al-fatiha" className="underline underline-offset-2 text-[#C9A84C]/70 hover:text-[#C9A84C] transition-colors">
-              Al-Fatiha — the original prayer for guidance
-            </Link>
-            {' '}· or{' '}
-            <Link href="/paths" className="underline underline-offset-2 text-[#C9A84C]/60 hover:text-[#C9A84C] transition-colors">
-              start from where you are →
-            </Link>
+            <a href="#start-here" className="underline underline-offset-2 text-[#C9A84C]/70 hover:text-[#C9A84C] transition-colors">
+              Start here ↓
+            </a>
           </div>
         </div>
+      </section>
+
+      {/* Start Here — three routes in for a first-time reader */}
+      <section id="start-here" className="relative border-t border-zinc-200 dark:border-zinc-800/50 py-20 px-6 scroll-mt-20">
+        <StartHere />
       </section>
 
       {/* Article library */}
